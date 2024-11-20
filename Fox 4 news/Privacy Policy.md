@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![3 Fort Worth apartment fires linked to one suspect](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/adam-ewing-mug-web.png?ve=1&tl=1)
+ [![2 dead, 1 injured in Ohio home explosion; cause still under investigation](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/ohioexplosion.jpg?ve=1&tl=1)
 
- ![3 Fort Worth apartment fires linked to one suspect](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/adam-ewing-mug-web.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/adam-erwing-fire-arson-fort-worth)
+ ![2 dead, 1 injured in Ohio home explosion; cause still under investigation](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/ohioexplosion.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ohio-home-explosion)
 
-### [3 Fort Worth apartment fires linked to one suspect](https://www.fox4news.com/news/adam-erwing-fire-arson-fort-worth)
+### [2 dead, 1 injured in Ohio home explosion; cause still under investigation](https://www.fox4news.com/news/ohio-home-explosion)
 
- [![No 'chopsticks' catch this time for SpaceX's Starship rocket](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/spacex-starship-6-2.jpg?ve=1&tl=1)
+ [![77-year-old accused of murdering wife because he thought she was cheating](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/francisco-web.png?ve=1&tl=1)
 
- ![No 'chopsticks' catch this time for SpaceX's Starship rocket](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/spacex-starship-6-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spacex-starship-launch-live-test-flight-november-19)
+ ![77-year-old accused of murdering wife because he thought she was cheating](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/francisco-web.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/veronia-lopez-francisco-amaya)
 
-### [No 'chopsticks' catch this time for SpaceX's Starship rocket](https://www.fox4news.com/news/spacex-starship-launch-live-test-flight-november-19)
+### [77-year-old accused of murdering wife because he thought she was cheating](https://www.fox4news.com/news/veronia-lopez-francisco-amaya)
 
- [![Colorado fugitive shot by McKinney officers following crash and chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111924-mckinney-ois-kdfweme003_21_25_19_mpg_00.07.52.52.jpg?ve=1&tl=1)
+ [![Man stabbed to death in South Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/baccc3df-Generic-police-tape-2-11.jpg?ve=1&tl=1)
 
- ![Colorado fugitive shot by McKinney officers following crash and chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111924-mckinney-ois-kdfweme003_21_25_19_mpg_00.07.52.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/malik-riley-mckinney-officer-involved-shooting)
+ ![Man stabbed to death in South Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/baccc3df-Generic-police-tape-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-stabbed-death-south-dallas)
 
-### [Colorado fugitive shot by McKinney officers following crash and chase](https://www.fox4news.com/news/malik-riley-mckinney-officer-involved-shooting)
+### [Man stabbed to death in South Dallas](https://www.fox4news.com/news/man-stabbed-death-south-dallas)
 
- [![Texas Board of Education tentatively approves new curriculum integrating the Bible](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-amelia-sboe-curriculum-vote-9p_00.00.09.00.jpg?ve=1&tl=1)
+ [![Could Deion Sanders be the next Dallas Cowboys coach?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185258135-e1732128564623.jpg?ve=1&tl=1)
 
- ![Texas Board of Education tentatively approves new curriculum integrating the Bible](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-amelia-sboe-curriculum-vote-9p_00.00.09.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-board-education-tentatively-approves-new-curriculum-integrating-bible)
+ ![Could Deion Sanders be the next Dallas Cowboys coach?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185258135-e1732128564623.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/could-deion-sanders-be-next-dallas-cowboys-coach)
 
-### [Texas Board of Education tentatively approves new curriculum integrating the Bible](https://www.fox4news.com/news/texas-board-education-tentatively-approves-new-curriculum-integrating-bible)
+### [Could Deion Sanders be the next Dallas Cowboys coach?](https://www.fox4news.com/sports/could-deion-sanders-be-next-dallas-cowboys-coach)
 
- [![Garland condo murder suspect to witness who alerted police: 'You're not gonna tell on me, bestie'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/garland-condo-witness.png?ve=1&tl=1)
+ [![American Airlines passengers duct tape man who tried to open plane door on DFW-bound flight](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-1229908876.jpg?ve=1&tl=1)
 
- ![Garland condo murder suspect to witness who alerted police: 'You're not gonna tell on me, bestie'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/garland-condo-witness.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/johnny-ross-jr-murder-in-garland-condo-wrapped-body-witness-speaks)
+ ![American Airlines passengers duct tape man who tried to open plane door on DFW-bound flight](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-1229908876.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/american-airlines-passenger-duct-taped-dfw-airport)
 
-### [Garland condo murder suspect to witness who alerted police: 'You're not gonna tell on me, bestie'](https://www.fox4news.com/news/johnny-ross-jr-murder-in-garland-condo-wrapped-body-witness-speaks)
+### [American Airlines passengers duct tape man who tried to open plane door on DFW-bound flight](https://www.fox4news.com/news/american-airlines-passenger-duct-taped-dfw-airport)
 
 ###### [News](https://www.fox4news.com/news)
 
