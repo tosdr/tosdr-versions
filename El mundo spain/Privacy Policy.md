@@ -1,22 +1,24 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=ZzzqHwoAAVEAAABchJE)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Zz09bgoAAVAAAABbpYY)
 
 Es noticia
 
+* [Copa Davis](https://www.elmundo.es/espana/2024/11/19/673ceb58fdddff115d8b4584.html)
 * [Alcaraz](https://www.elmundo.es/deportes/tenis/copa-davis/carlos-alcaraz-tallon-griekspoor/2024/11/19/04_0416_20241119_137-directo.html)
-* [Nadal](https://www.elmundo.es/deportes/tenis/copa-davis/c07-01-c08-02/2024/11/19/04_0416_20241119_136-directo.html)
 * [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/11/19/673c33221ee97cbdb65a4c5e-directo.html)
 * [Misiles EEUU](https://www.elmundo.es/internacional/2024/11/19/673ca727fc6c8359428b45a0.html)
 * [Comision Hacienda](https://www.elmundo.es/espana/2024/11/19/673c394ee4d4d8383a8b45a7.html)
-* [García Ortiz](https://www.elmundo.es/espana/2024/11/19/673c8b10e4d4d827348b4576.html)
+* [Rafael Nadal](https://www.elmundo.es/deportes/tenis/copa-davis/2024/11/20/673d2477fc6c8359428b45c6.html)
+* [Caso Koldo](https://www.elmundo.es/espana/2024/11/19/673ce4c3e85ecee02a8b45a3.html)
+* [Edmundo González](https://www.elmundo.es/internacional/2024/11/19/673cfaa6e4d4d854368b4592.html)
+* [Pedro Sánchez](https://www.elmundo.es/espana/2024/11/19/673ceb58fdddff115d8b4584.html)
 * [Begoña Gómez](https://www.elmundo.es/espana/2024/11/19/673c637ce9cf4a596e8b4590.html)
 * [Tarjeta transporte público Madrid](https://www.elmundo.es/madrid/2024/11/19/673b5ff1e9cf4aa4258b45a0.html)
 * [Muface](https://www.elmundo.es/economia/2024/11/19/673b6f0ffc6c8325648b4573.html)
 * [Errejón](https://www.elmundo.es/espana/2024/11/19/673cbf7ee4d4d8574c8b457f.html)
-* [Angel Cristo](https://www.elmundo.es/loc/famosos/2024/11/19/673c7546e4d4d80d3f8b456f.html)
+* [Urtasun](https://www.elmundo.es/cultura/2024/11/19/673ce289fc6c8393498b45a3.html)
 * [Ruth Jiménez](https://www.elmundo.es/loc/que-fue-de/2024/11/19/673b643de85ece3e1b8b458a.html)
 * [Alfonso Díez](https://www.elmundo.es/loc/famosos/2024/11/19/673c8cb421efa0dc6f8b4599.html)
 * [Españoles detenidos Lituania](https://www.elmundo.es/internacional/2024/11/19/673cc976e4d4d8e9358b457b.html)
-* [Bluesky](https://www.elmundo.es/como/2024/11/19/673c4e7521efa0f73b8b4596.html)
 * [Sueños Libertad](https://www.elmundo.es/television/series/2024/11/19/673c6dd2fc6c8338198b458d.html)
 * [La promesa](https://www.elmundo.es/television/series/2024/11/19/673b6392fdddffc0328b4582.html)
 * [Festivos Madrid 2024](https://www.elmundo.es/como/2024/03/25/66014a62e9cf4aea7a8b4576.html)
@@ -29,6 +31,8 @@ Es noticia
 * [Traductor](https://www.elmundo.es/traductor/)
 * [Programación TV](https://www.elmundo.es/television/programacion-tv/)
 * [Últimas noticias](https://www.elmundo.es/ultimas-noticias.html)
+* [Euromillones](https://www.elmundo.es/loterias/2024/11/19/673cf2fce85ece322f8b459c.html)
+* [Lotería ONCE](https://www.elmundo.es/loterias/2024/11/19/673cdd74fc6c831e5d8b45a2.html)
 
 [Portada](https://www.elmundo.es/) [Portada](https://www.elmundo.es/?intcmp=MENUMIGA01&s_kw=portada) [Portada](https://www.elmundo.es/)
 
