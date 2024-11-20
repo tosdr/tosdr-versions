@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/garmin-descent-x50i-big-screen-dive-computer-200-atm-rating/)
+    
+    [Garmin Descent X50i Adds a Big-Screen Dive Computer to the Outfit’s Range](https://www.coolthings.com/garmin-descent-x50i-big-screen-dive-computer-200-atm-rating/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/rode-wireless-micro-lapel-mic-compact-pocket-sized/)
     
     [Rode Wireless Micro Lapel Mic Takes on a Compact, Pocket-Sized Form Factor](https://www.coolthings.com/rode-wireless-micro-lapel-mic-compact-pocket-sized/)
@@ -24,11 +29,6 @@
     
     [Ayaneo 3 Gaming Handheld Uses AI-Capable Chip for Versatile Function](https://www.coolthings.com/ayaneo-3-flagship-gaming-handheld-7inch-oled-amd-ai-chip/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/hori-wireless-horipad-for-steam-game-controller-pc-gaming/)
-    
-    [Hori Wireless Horipad for Steam Makes Your Gaming PC Feel Like a Game Console](https://www.coolthings.com/hori-wireless-horipad-for-steam-game-controller-pc-gaming/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
