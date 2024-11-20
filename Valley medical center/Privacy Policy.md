@@ -1,4 +1,11 @@
-Valley has been working hard to limit the impacts of a nationwide shortage of IV fluids as a result of Hurricane Helene. We are safely conserving supplies where possible and have rescheduled some non-emergent procedures. We appreciate your understanding and hope to be back to normal operations soon.
+Valley is experiencing some impacts to our clinics from the wind storm overnight:  
+Our Endoscopy Center is without power and rescheduling some patients.  
+Urogynecology Clinic is closed. Telehealth appointments are available.  
+Maple Valley Urgent Care: CLOSED today.  
+Newcastle and Maple Valley Dermatology: Opening at 10 AM.  
+Fairwood, Newcastle, Lake Wilderness, and Lake Sawyer Primary Care: Opening at 10 AM.  
+Lifestyle Medicine in Covington and Maple Valley: Opening at noon.  
+Our call center is experiencing long wait times. Our main hospital is currently fully functional. If you have an impacted appointment, your care team will contact you. The start times are subject to change as crews work to get everything back online. Thank you for your patience as we make sure our staff and patients are safe.
 
 ![dismiss-icon](/globalassets/valley-medical/images/icons/dismiss-icon.svg)
 
