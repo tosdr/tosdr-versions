@@ -94,13 +94,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Vaccines, fluoride, raw milk: How RFK Jr.’s views may shape public health](https://www.sciencenews.org/article/rfk-vaccines-fluoride-autism-milk-covid)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")3 hours ago
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")9 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Youth tobacco use has gone down, but the work isn’t over](https://www.sciencenews.org/article/cigarette-vaping-nicotine-tobacco-youth)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")7 hours ago
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")13 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -122,9 +122,9 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Life](https://www.sciencenews.org/topic/life)
             
-            ### [Clams use fiber optics to channel sunlight to symbiotic algae](https://www.sciencenews.org/article/clam-fiber-optics-symbiotic-algae)
+            ### [Nature’s first fiber optics could light the way to internet innovation](https://www.sciencenews.org/article/clam-fiber-optics-symbiotic-algae)
             
-            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")5 hours ago
+            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")11 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -173,6 +173,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Physics
         -----------------------
         
+        * [Cosmology](https://www.sciencenews.org/topic/cosmology)
+            
+            ### [Einstein’s gravity endures despite a dark energy puzzle](https://www.sciencenews.org/article/einstein-gravity-dark-energy-desi) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")2 hours ago
+            
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
             ### [Accelerated muons bring next-gen particle colliders closer to reality](https://www.sciencenews.org/article/accelerated-muons-particle-colliders)
@@ -185,12 +191,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 8, 2024
             
-        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
-            
-            ### [A star winked out of sight. Could it be a ‘failed supernova’?](https://www.sciencenews.org/article/star-disappeared-failed-supernova) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 7, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
@@ -199,6 +199,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Space
         ---------------------
         
+        * [Cosmology](https://www.sciencenews.org/topic/cosmology)
+            
+            ### [Einstein’s gravity endures despite a dark energy puzzle](https://www.sciencenews.org/article/einstein-gravity-dark-energy-desi) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")2 hours ago
+            
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
             ### [A first look at rocks from the lunar farside create a volcanic mystery](https://www.sciencenews.org/article/first-look-rocks-lunar-volcanic-mystery)
@@ -210,12 +216,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Uranus may have looked weird when NASA’s Voyager 2 flew by](https://www.sciencenews.org/article/uranus-weird-look-voyager-2-flyby)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")November 11, 2024
-            
-        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
-            
-            ### [A cosmic census triples the known number of black holes in dwarf galaxies](https://www.sciencenews.org/article/census-black-holes-dwarf-galaxies)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")November 8, 2024
             
 
 Privacy Policy
