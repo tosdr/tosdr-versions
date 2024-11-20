@@ -15,7 +15,7 @@ Enter Your ZIP Code
 
  Start Now
 
-WE REPRESENT: MA, MAPD and PDP Plans for \[Humana, UnitedHealthcare®, Aetna, Aetna Medicare, Allina Health Aetna Medicare, Cigna Healthcare, Wellcare, Anthem, Elevance Health, WellPoint\]. Not all plans offer all of these benefits. Benefits may vary by carrier and location. Limitations and exclusions may apply.
+WE REPRESENT: MA, MAPD and PDP Plans for \[Humana, UnitedHealthcare®, Aetna, Aetna Medicare, Allina Health Aetna Medicare, Cigna Healthcare, Wellcare, Anthem Blue Cross, Blue Shield, WellPoint\]. Not all plans offer all of these benefits. Benefits may vary by carrier and location. Limitations and exclusions may apply.
 
 Still looking for rates? Medicare-Registration.org, a licensed health insurance broker, can help you get a competitive quote.
 
