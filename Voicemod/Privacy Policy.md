@@ -2,12 +2,12 @@
 
 [![Voicemod logo](https://www.voicemod.net/new/wp-content/uploads/2024/03/voicemod.png)](https://www.voicemod.net/)
 
-* [Voice Changer](https://www.voicemod.net/en/voice-changer/ "Voice Changer")
-* [Soundboard](https://www.voicemod.net/en/soundboard/ "Soundboard")
-* [Free Sounds](https://tuna.voicemod.net/?utm_source=VM+Web+Menu&utm_medium=VM+Website&utm_campaign=VM+Website&utm_id=VM+Website "Free Sounds")
-* [Creator Tools](# "Creator Tools")
-    * [Voicelab](https://www.voicemod.net/en/voicelab/ "Voicelab")
-    * [Text to Song](https://www.voicemod.net/en/text-to-song/ "Text to Song")
+* [Voice Changer](https://www.voicemod.net/en/voice-changer/)
+* [Soundboard](https://www.voicemod.net/en/soundboard/)
+* [Free Sounds](https://tuna.voicemod.net/?utm_source=VM+Web+Menu&utm_medium=VM+Website&utm_campaign=VM+Website&utm_id=VM+Website)
+* [Creator Tools](#)
+    * [Voicelab](https://www.voicemod.net/en/voicelab/)
+    * [Text to Song](https://www.voicemod.net/en/text-to-song/)
 
 [Download for Free](https://www.voicemod.net/en/dwl/app/ "Download for Free") [My Account](https://account.voicemod.net/#/?action=account "My Account")
 
@@ -329,11 +329,11 @@ Follow us for more!
 
 [![Voicemod logo](https://www.voicemod.net/new/wp-content/uploads/2024/03/voicemod.png)](https://www.voicemod.net/)
 
-* [Base](https://www.voicemod.net/en/base/ "Base")
-* [Developers](https://www.voicemod.net/en/developers/ "Developers")
-* [Newsroom](https://www.voicemod.com/newsroom "Newsroom")
+* [Base](https://www.voicemod.net/en/base/)
+* [Developers](https://www.voicemod.net/en/developers/)
+* [Newsroom](https://www.voicemod.com/newsroom)
 * [Support](https://www.voicemod.net/en/support/ "Support (FAQ)")
-* [Careers](https://www.voicemod.com/careers "Careers")
+* [Careers](https://www.voicemod.com/careers)
 * [Voicemod Key](https://www.voicemod.net/en/vmkey/)
 * [Black Friday](https://www.voicemod.net/en/blackfriday/)
 
@@ -346,10 +346,10 @@ Supercharge Your Voice
 
 © 2024 Voicemod Inc., Sucursal en España
 
-* [Legal](https://www.voicemod.net/en/legal/ "Legal")
-* [Privacy Policy](https://www.voicemod.net/en/?page_id=3693 "Privacy Policy")
-* [Terms of Use](https://www.voicemod.net/en/terms-of-use/ "Terms of Use")
-* [Cookies Policy](https://www.voicemod.net/en/cookies-policy/ "Cookies Policy")
-* [3rd Party Software](https://voicemod.notion.site/3ce7ec8daebb4d228b2bf2310daeccd5 "3rd Party Software")
+* [Legal](https://www.voicemod.net/en/legal/)
+* [Privacy Policy](https://www.voicemod.net/en/?page_id=3693)
+* [Terms of Use](https://www.voicemod.net/en/terms-of-use/)
+* [Cookies Policy](https://www.voicemod.net/en/cookies-policy/)
+* [3rd Party Software](https://voicemod.notion.site/3ce7ec8daebb4d228b2bf2310daeccd5)
 
 Facebook Instagram YouTube LinkedIn Tik Tok Discord Reddit
