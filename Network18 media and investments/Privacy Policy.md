@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
     * [Ayushmann Khurrana](https://www.news18.com/movies/ayushmann-khurrana-stops-new-york-concert-midway-after-fan-throws-dollars-at-him-aap-charity-9124738.html)
-    * [Aryan Khan](https://www.news18.com/movies/aryan-khans-debut-netflix-series-on-bollywood-announced-shah-rukh-khan-says-this-one-is-9124837.html)
-    * [Nayanthara](https://www.news18.com/web-stories/celebrities/5-nayanthara-inspired-saree-blouses-for-wedding-season-2617291/)
-    * [India vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
+    * [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
+    * [Saira Banu](https://www.news18.com/movies/ar-rahmans-rare-comment-on-wife-saira-banu-goes-viral-amid-separation-she-was-beautiful-9125903.html)
+    * [Nagarjuna](https://www.news18.com/movies/nagarjuna-makes-rare-comment-about-sobhita-dhulipala-says-she-makes-naga-chaitanya-happy-she-could-9125922.html)
+    * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-says-shah-rukh-khan-attended-her-wedding-with-sanjay-you-wouldnt-9126062.html)
+    * [Maharashtra Election](https://www.news18.com/elections/maharashtra-election-2024-live-updates-polling-today-bjp-ncp-shiv-sena-congress-mahayuti-mva-mumbai-liveblog-9125931.html)
     * [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
-    * [Dhanush](https://www.news18.com/movies/dhanushs-reaction-to-nayanthara-vignesh-dating-on-nrd-sets-goes-viral-do-you-have-any-shame-9124774.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
 * [Ayushmann Khurrana](https://www.news18.com/movies/ayushmann-khurrana-stops-new-york-concert-midway-after-fan-throws-dollars-at-him-aap-charity-9124738.html)
-* [Aryan Khan](https://www.news18.com/movies/aryan-khans-debut-netflix-series-on-bollywood-announced-shah-rukh-khan-says-this-one-is-9124837.html)
-* [Nayanthara](https://www.news18.com/web-stories/celebrities/5-nayanthara-inspired-saree-blouses-for-wedding-season-2617291/)
-* [India vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
+* [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
+* [Saira Banu](https://www.news18.com/movies/ar-rahmans-rare-comment-on-wife-saira-banu-goes-viral-amid-separation-she-was-beautiful-9125903.html)
+* [Nagarjuna](https://www.news18.com/movies/nagarjuna-makes-rare-comment-about-sobhita-dhulipala-says-she-makes-naga-chaitanya-happy-she-could-9125922.html)
+* [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-says-shah-rukh-khan-attended-her-wedding-with-sanjay-you-wouldnt-9126062.html)
+* [Maharashtra Election](https://www.news18.com/elections/maharashtra-election-2024-live-updates-polling-today-bjp-ncp-shiv-sena-congress-mahayuti-mva-mumbai-liveblog-9125931.html)
 * [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
-* [Dhanush](https://www.news18.com/movies/dhanushs-reaction-to-nayanthara-vignesh-dating-on-nrd-sets-goes-viral-do-you-have-any-shame-9124774.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
