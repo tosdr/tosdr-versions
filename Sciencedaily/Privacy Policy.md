@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 19, 2024**
+**November 20, 2024**
 
 * * *
 
@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [The Chilling Sound of the Aztec Death Whistle](https://www.sciencedaily.com/releases/2024/11/241119132940.htm)
 * [How Cells Habituate](https://www.sciencedaily.com/releases/2024/11/241119132429.htm)
 * [Flying Reptiles: How Pterosaurs Become Giants](https://www.sciencedaily.com/releases/2024/11/241118125218.htm)
 * [Effortless Robot Movements](https://www.sciencedaily.com/releases/2024/11/241118125806.htm)
@@ -217,7 +218,6 @@ this hour
 * [Precambrian Worm: Big Evolutionary Discovery](https://www.sciencedaily.com/releases/2024/11/241118125212.htm)
 * [Dieting: Cause of the Yo-Yo Effect](https://www.sciencedaily.com/releases/2024/11/241118125210.htm)
 * [Global Warming and Net Zero](https://www.sciencedaily.com/releases/2024/11/241118125147.htm)
-* [Enigma of the Crab Nebula's 'Zebra' Pattern](https://www.sciencedaily.com/releases/2024/11/241118125046.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
 [Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
-[Stroke](https://www.sciencedaily.com/news/mind_brain/stroke/)
+[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
+
 [Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
-
-[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
+[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+[Soil Types](https://www.sciencedaily.com/news/plants_animals/soil_types/)
 
-[Food](https://www.sciencedaily.com/news/plants_animals/food/)
+[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
   
 
