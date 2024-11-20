@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)3°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)1°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 Thèmes du moment
 
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
-* [Russie](https://www.watson.ch/fr/russie/)
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [nourriture](https://www.watson.ch/fr/nourriture/)
 * [Météo](https://www.watson.ch/fr/meteo/)
 * [Neige](https://www.watson.ch/fr/neige/)
+* [Russie](https://www.watson.ch/fr/russie/)
+* [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Police](https://www.watson.ch/fr/police/)
 * [commerce](https://www.watson.ch/fr/commerce/)
-* [Environnement](https://www.watson.ch/fr/environnement/)
+* [nourriture](https://www.watson.ch/fr/nourriture/)
 * [Football](https://www.watson.ch/fr/football/)
 * [Confédération](https://www.watson.ch/fr/confederation/)
+* [Vaud](https://www.watson.ch/fr/vaud/)
 * [People](https://www.watson.ch/fr/people/)
-* [Musique](https://www.watson.ch/fr/musique/)
 * [Cinéma](https://www.watson.ch/fr/cinema/)
 * [Justice](https://www.watson.ch/fr/justice/)
 * [France](https://www.watson.ch/fr/france/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Genève](https://www.watson.ch/fr/geneve/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [Climat](https://www.watson.ch/fr/climat/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
