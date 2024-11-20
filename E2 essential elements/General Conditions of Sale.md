@@ -63,7 +63,7 @@ Tel: (+32) 56 33 08 35
 Conditions Générales de Vente
 =============================
 
-[Home](https://e2essentialelements.com/) / Conditions Générales de Vente
+[Accueil](https://e2essentialelements.com/) / Conditions Générales de Vente
 
 [1\. Champ d’application](#1) | [2\. Clients et commandes](#2) | [3\. Conclusion du contrat](#3) | [4\. Prix et frais de transport](#4) | [5\. Conditions de paiement](#5) | [6\. Livraisons et délais](#6) | [7\. Clause d’auto livraison](#7) | [8\. Réserve de propriété](#8) | [9\. Révocation et instructions](#9) | [10\. Responsabilité pour défauts](#10) | [11\. Responsabilité](#11) | [12\. SAV et réclamations](#12) | [13\. Résolution des litiges](#13) | [14\. Droit applicable](#14)
 
@@ -317,9 +317,9 @@ Contactez nous via mail, téléphone ou réseaux sociaux
 10 Avenue du Château,  
 7700 Mouscron, Belgique
 
- ![Paiements Sécurisés avec PayPal et Stripe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20249%2086'%3E%3C/svg%3E)
+ ![Paiements Sécurisés avec PayPal et Stripe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
- ![Paiements Sécurisés avec PayPal et Stripe](https://e2essentialelements.com/wp-content/uploads/2020/06/249x86px_payment_grey_e2essentialelements.png)
+![Paiements Sécurisés avec PayPal et Stripe](https://e2essentialelements.com/wp-content/uploads/2020/06/249x86px_payment_grey_e2essentialelements.png)
 
 * [Facebook](http://esselem.at/FaceBook)
 * [X](http://esselem.at/Twitter)
