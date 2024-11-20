@@ -54,8 +54,8 @@ Top Authors In Last 30 Days
 ---------------------------
 
 * [Red Hat](https://packetstormsecurity.com/files/authors/4676) 242 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 56 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 21 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 66 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 23 files
 * [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 15 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 8 files
@@ -68,6 +68,62 @@ Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[CISA Director Jen Easterly To Step Down Jan. 20](https://packetstormsecurity.com/news/view/36620/CISA-Director-Jen-Easterly-To-Step-Down-Jan.-20.html)
+
+Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:39:02 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36620/) | [View](https://www.scworld.com/news/cisa-director-jen-easterly-will-step-down-jan-20-security-community-reacts)
+
+[Equinox Notifies 21,000 Patients And Staff Of Data Theft](https://packetstormsecurity.com/news/view/36619/Equinox-Notifies-21-000-Patients-And-Staff-Of-Data-Theft.html)
+
+Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:39:00 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36619/) | [View](https://www.theregister.com/2024/11/20/equinox_patients_employees_data/)
+
+[D-Link Tells Users To Trash Old VPN Routers Due To Bug](https://packetstormsecurity.com/news/view/36618/D-Link-Tells-Users-To-Trash-Old-VPN-Routers-Due-To-Bug.html)
+
+Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:38:58 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cisco](https://packetstormsecurity.com/news/tags/cisco)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36618/) | [View](https://www.theregister.com/2024/11/20/dlink_rip_replace_router/)
+
+[Palo Alto Sounds Alarm Over PAN-OS Zero Day Attacks](https://packetstormsecurity.com/news/view/36613/Palo-Alto-Sounds-Alarm-Over-PAN-OS-Zero-Day-Attacks.html)
+
+Posted [Nov 19, 2024](https://packetstormsecurity.com/news/date/2024-11-19/ "15:26:23 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36613/) | [View](https://www.scworld.com/news/palo-alto-sounds-alarm-over-pan-os-zero-day-attacks)
+
+[Crooks Snag $250k Wire Payment From AI Biz](https://packetstormsecurity.com/news/view/36612/Crooks-Snag-250k-Wire-Payment-From-AI-Biz.html)
+
+Posted [Nov 19, 2024](https://packetstormsecurity.com/news/date/2024-11-19/ "15:26:17 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [bank](https://packetstormsecurity.com/news/tags/bank), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36612/) | [View](https://www.theregister.com/2024/11/19/ilearningengines_bec_scam/)
+
+[US Senate To Hold Panel Hearing On Suspected Chinese Hacking Incidents](https://packetstormsecurity.com/news/view/36611/US-Senate-To-Hold-Panel-Hearing-On-Suspected-Chinese-Hacking-Incidents.html)
+
+Posted [Nov 19, 2024](https://packetstormsecurity.com/news/date/2024-11-19/ "15:26:12 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36611/) | [View](https://www.reuters.com/technology/cybersecurity/us-senate-panel-hold-hearing-chinese-hacking-incidents-2024-11-18/)
+
+[Thousands Of IoT Devices Turned Into Residential Proxies](https://packetstormsecurity.com/news/view/36610/Thousands-Of-IoT-Devices-Turned-Into-Residential-Proxies.html)
+
+Posted [Nov 19, 2024](https://packetstormsecurity.com/news/date/2024-11-19/ "15:26:07 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [botnet](https://packetstormsecurity.com/news/tags/botnet)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36610/) | [View](https://www.securityweek.com/threat-actor-turns-thousands-of-iot-devices-into-residential-proxies/)
 
 [Discontinued GeoVision Products Targeted In Botnet Attacks](https://packetstormsecurity.com/news/view/36609/Discontinued-GeoVision-Products-Targeted-In-Botnet-Attacks.html)
 
@@ -92,62 +148,6 @@ Posted [Nov 18, 2024](https://packetstormsecurity.com/news/date/2024-11-18/ "14:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [phone](https://packetstormsecurity.com/news/tags/phone), [israel](https://packetstormsecurity.com/news/tags/israel), [spyware](https://packetstormsecurity.com/news/tags/spyware), [facebook](https://packetstormsecurity.com/news/tags/facebook)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36607/) | [View](https://www.theguardian.com/technology/2024/nov/14/nso-pegasus-spyware-whatsapp)
-
-[300 Drinking Systems In US Exposed To Disruptive, Damaging Hacker Attacks](https://packetstormsecurity.com/news/view/36606/300-Drinking-Systems-In-US-Exposed-To-Disruptive-Damaging-Hacker-Attacks.html)
-
-Posted [Nov 18, 2024](https://packetstormsecurity.com/news/date/2024-11-18/ "14:58:59 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [scada](https://packetstormsecurity.com/news/tags/scada)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36606/) | [View](https://www.securityweek.com/300-drinking-water-systems-in-us-exposed-to-disruptive-damaging-hacker-attacks/)
-
-[Swiss Cheesed Off As Postal Service Used To Spread Malware](https://packetstormsecurity.com/news/view/36605/Swiss-Cheesed-Off-As-Postal-Service-Used-To-Spread-Malware.html)
-
-Posted [Nov 18, 2024](https://packetstormsecurity.com/news/date/2024-11-18/ "14:58:55 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [malware](https://packetstormsecurity.com/news/tags/malware), [switzerland](https://packetstormsecurity.com/news/tags/switzerland)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36605/) | [View](https://www.theregister.com/2024/11/16/swiss_malware_qr/)
-
-[Will Passkeys Ever Replace Passwords? Can They?](https://packetstormsecurity.com/news/view/36604/Will-Passkeys-Ever-Replace-Passwords-Can-They.html)
-
-Posted [Nov 18, 2024](https://packetstormsecurity.com/news/date/2024-11-18/ "14:58:50 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [password](https://packetstormsecurity.com/news/tags/password)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36604/) | [View](https://www.theregister.com/2024/11/17/passkeys_passwords/)
-
-[Webscout Is Worth Checking Out](https://packetstormsecurity.com/news/view/36603/Webscout-Is-Worth-Checking-Out.html)
-
-Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:09:54 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [dns](https://packetstormsecurity.com/news/tags/dns)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36603/) | [View](https://webscout.io/)
-
-[Microsoft Power Pages Misconfigurations Exposing Sensitive Data](https://packetstormsecurity.com/news/view/36602/Microsoft-Power-Pages-Misconfigurations-Exposing-Sensitive-Data.html)
-
-Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:04:50 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36602/) | [View](https://www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations/)
-
-[Palo Alto Networks Confirms New Firewall Zero-Day Exploitation](https://packetstormsecurity.com/news/view/36601/Palo-Alto-Networks-Confirms-New-Firewall-Zero-Day-Exploitation.html)
-
-Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:04:46 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36601/) | [View](https://www.securityweek.com/palo-alto-networks-confirms-new-firewall-zero-day-exploitation/)
-
-[Fortinet Patches VPN Flaw That Provided Privilege Escalation](https://packetstormsecurity.com/news/view/36600/Fortinet-Patches-VPN-Flaw-That-Provided-Privilege-Escalation.html)
-
-Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:04:36 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36600/) | [View](https://www.theregister.com/2024/11/14/fortinet_vpn_authentication_bypass_bug/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2019677206&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2019677206.1732115685.1732115685.1732115685.1%3B%2B__utmz%3D32867617.1732115685.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1021715357&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1021715357.1732136976.1732136976.1732136976.1%3B%2B__utmz%3D32867617.1732136976.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
