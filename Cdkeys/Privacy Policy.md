@@ -556,7 +556,37 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 1. \-62%](https://www.cdkeys.com/holdingpage-bf/tekken-8-pc-steam)
+1.    [![Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fate_of_iberia_card_16_.jpg)   No 1. \-78%](https://www.cdkeys.com/holdingpage-bf/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key)
+    
+    **[Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://www.cdkeys.com/holdingpage-bf/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key "Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher")**
+    
+    Special Price $24.89 RRP $114.69
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+2.    [![Microsoft Flight Simulator 2024 - Premium Deluxe Edition Xbox Series X|S/PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/m/i/microsoft_flight_simulator_2024_-_premium_deluxe_edition_1_1.png)   No 2. \-43%](https://www.cdkeys.com/xbox-live/microsoft-flight-simulator-2024-premium-deluxe-edition-xbox-series-x-s-pc-ww)
+    
+    **[Microsoft Flight Simulator 2024 - Premium Deluxe Edition Xbox Series X|S/PC (WW)](https://www.cdkeys.com/xbox-live/microsoft-flight-simulator-2024-premium-deluxe-edition-xbox-series-x-s-pc-ww "Microsoft Flight Simulator 2024 - Premium Deluxe Edition Xbox Series X|S/PC (WW)")**
+    
+    Special Price $94.29 RRP $165.69
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+3.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 3. \-32%](https://www.cdkeys.com/holdingpage-bf/farming-simulator-25-pc-steam)
+    
+    **[Farming Simulator 25 PC](https://www.cdkeys.com/holdingpage-bf/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
+    
+    Special Price $36.29 RRP $53.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 4. \-62%](https://www.cdkeys.com/holdingpage-bf/tekken-8-pc-steam)
     
     **[TEKKEN 8 PC](https://www.cdkeys.com/holdingpage-bf/tekken-8-pc-steam "TEKKEN 8 PC")**
     
@@ -566,51 +596,53 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-2.    [![Metro Exodus - Gold Edition PC ](https://cdn.cdkeys.com/245x340/media/catalog/product/b/a/base_1__2_1.png)   No 2. \-96%](https://www.cdkeys.com/holdingpage-bf/metro-exodus-gold-edition-pc)
+5.    [![Destiny 2: The Final Shape + Annual Pass PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-23t133417.724.jpg)   No 5. \-57%
     
-    **[Metro Exodus - Gold Edition PC](https://www.cdkeys.com/holdingpage-bf/metro-exodus-gold-edition-pc "Metro Exodus - Gold Edition PC ")**
+    DLC](https://www.cdkeys.com/holdingpage-bf/destiny-2-the-final-shape-annual-pass-pc-dlc-steam)
     
-    Special Price $3.39 RRP $76.49
+    **[Destiny 2: The Final Shape + Annual Pass PC - DLC](https://www.cdkeys.com/holdingpage-bf/destiny-2-the-final-shape-annual-pass-pc-dlc-steam "Destiny 2: The Final Shape + Annual Pass PC - DLC")**
     
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-3.    [![SILENT HILL 2 - Digital Deluxe PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/silent_hill_2_-_digital_deluxe.jpg)   No 3. \-41%](https://www.cdkeys.com/holdingpage-bf/silent-hill-2-digital-deluxe-pc-steam)
-    
-    **[SILENT HILL 2 - Digital Deluxe PC](https://www.cdkeys.com/holdingpage-bf/silent-hill-2-digital-deluxe-pc-steam "SILENT HILL 2 - Digital Deluxe PC")**
-    
-    Special Price $52.89 RRP $89.19
+    Special Price $42.69 RRP $99.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-4.    [![V Rising PC](https://cdn.cdkeys.com/245x340/media/catalog/product/r/o/roblox-card-10-800-robux-800-robux-pc-game-cover_12_.jpg)   No 4. \-63%](https://www.cdkeys.com/holdingpage-bf/v-rising-pc-steam)
+6.    [![The Plucky Squire PC](https://cdn.cdkeys.com/245x340/media/catalog/product/p/l/plckysqr-steam.jpg)   No 6. \-42%](https://www.cdkeys.com/pc/the-plucky-squire-pc-steam)
     
-    **[V Rising PC](https://www.cdkeys.com/holdingpage-bf/v-rising-pc-steam "V Rising PC")**
+    **[The Plucky Squire PC](https://www.cdkeys.com/pc/the-plucky-squire-pc-steam "The Plucky Squire PC")**
     
-    Special Price $16.59 RRP $44.59
+    Special Price $18.49 RRP $31.89
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 5. \-28%](https://www.cdkeys.com/holdingpage-bf/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
+7.    [![Cult of the Lamb PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/th-box-heist_2_.jpg)   No 7. \-65%](https://www.cdkeys.com/holdingpage-bf/cult-of-the-lamb-pc-steam)
+    
+    **[Cult of the Lamb PC](https://www.cdkeys.com/holdingpage-bf/cult-of-the-lamb-pc-steam "Cult of the Lamb PC")**
+    
+    Special Price $8.69 RRP $24.89
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/_/s.t.a.l.k.e.r._2__heart_of_chernobyl_-_ultimate_edition_pc.jpg)   No 8. \-33%](https://www.cdkeys.com/holdingpage-bf/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam)
+    
+    **[S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://www.cdkeys.com/holdingpage-bf/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)")**
+    
+    Special Price $81.59 RRP $121.09
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+9.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 9. \-28%](https://www.cdkeys.com/holdingpage-bf/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
     
     **[S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://www.cdkeys.com/holdingpage-bf/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)")**
     
     Special Price $45.89 RRP $63.69
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 6. \-32%](https://www.cdkeys.com/holdingpage-bf/farming-simulator-25-pc-steam)
-    
-    **[Farming Simulator 25 PC](https://www.cdkeys.com/holdingpage-bf/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
-    
-    Special Price $36.29 RRP $53.49
     
     [Add to Wish List](# "Add to Wish List")
     
