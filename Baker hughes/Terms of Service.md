@@ -397,7 +397,7 @@ External
                 
             * [MCL Horizontally Split Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/mcl-horizontally-split-compressors)
                 
-            * [PCL Pipeline Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/pcl)
+            * [PCL Pipeline Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/pipeline-compressor-line-pcl)
                 
             * [SRL Integrally Geared Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/srl)
                 
@@ -1360,7 +1360,7 @@ Search
                 
             * [MCL Horizontally Split Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/mcl-horizontally-split-compressors)
                 
-            * [PCL Pipeline Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/pcl)
+            * [PCL Pipeline Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/pipeline-compressor-line-pcl)
                 
             * [SRL Integrally Geared Compressors](https://www.bakerhughes.com/centrifugal-axial-compressors/srl)
                 
