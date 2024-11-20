@@ -105,7 +105,7 @@ Advertisement
 
 For more information on Internet cookies and related topics, check out the links below.
 
-###### Related HowStuffWorks Articles
+### Related HowStuffWorks Articles
 
 * [How Web Servers Work](https://computer.howstuffworks.com/web-server.htm)
 * [How Internet Infrastructure Works](https://www.howstuffworks.com/internet-infrastructure.htm)
@@ -118,7 +118,7 @@ For more information on Internet cookies and related topics, check out the links
 * [How Spyware Works](https://computer.howstuffworks.com/spyware.htm)
 * [How Trojan Horses Work](https://computer.howstuffworks.com/trojan-horse.htm) 
 
-###### More Great Links
+### More Great Links
 
 * Netscape: Persistent Client State: HTTP Cookies
 * [Webopedia: Cookie](http://webopedia.internet.com/TERM/c/cookie.html)
@@ -137,7 +137,7 @@ Please copy/paste the following text to properly cite this HowStuffWorks.com art
 Copy
 
 Marshall Brain "How Internet Cookies Work" 26 April 2000.  
-HowStuffWorks.com. <https://computer.howstuffworks.com/cookie.htm> 19 November 2024
+HowStuffWorks.com. <https://computer.howstuffworks.com/cookie.htm> 20 November 2024
 
 Close
 
