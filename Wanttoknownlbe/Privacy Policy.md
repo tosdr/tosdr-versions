@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/we-zijn-misleid-door-de-elite/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-puzzel-wordt-completer/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
