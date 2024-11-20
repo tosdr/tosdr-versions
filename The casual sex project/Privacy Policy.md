@@ -104,6 +104,16 @@ Nov 14 2024
 
 By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/), [Reade Ben](https://admin.mi52siterestore.com/person/reade-ben/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/moving-left-a-study-of-ideological-and-demographic-change-among-federal-reserve-bank-directors/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/heres_why_asian_americans_shifted_right_.jpg)[](https://admin.mi52siterestore.com/article/heres-why-asian-americans-shifted-right/ "Read More")
+
+Commentary Governance Elections
+
+Nov 19 2024
+
+[Here’s Why Asian Americans Shifted Right](https://admin.mi52siterestore.com/article/heres-why-asian-americans-shifted-right/)
+
+By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/heres-why-asian-americans-shifted-right/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-economy-prosperity.jpg)[](https://admin.mi52siterestore.com/article/a-lot-of-trump-voters-saw-more-light-than-darkness-in-his-message/ "Read More")
 
 Commentary Governance Elections
@@ -133,16 +143,6 @@ Nov 12 2024
 [2024 Chart Book Examines Spending, Taxes, and Deficits](https://admin.mi52siterestore.com/article/2024-chart-book-examines-spending-taxes-and-deficits/)
 
 By **[Brian Riedl](https://admin.mi52siterestore.com/person/brian-riedl/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/2024-chart-book-examines-spending-taxes-and-deficits/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-economics-of-political-correctness-scholars-need-incentives-to-find-truth-not-hide-it.jpg)[](https://admin.mi52siterestore.com/article/the-economics-of-political-correctness/ "Read More")
-
-Commentary Education Higher Ed
-
-Nov 11 2024
-
-[The Economics of Political Correctness](https://admin.mi52siterestore.com/article/the-economics-of-political-correctness/)
-
-By **[Roland G. Fryer, Jr.](https://admin.mi52siterestore.com/person/roland-g-fryer-jr/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-economics-of-political-correctness/)
 
 Our Policy Areas
 ----------------
