@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Mystery of Van Gogh’s Ear](/wp-content/thumbnails/12566-100x70.jpg?x53432)
+* [![Fabled Enemies](/wp-content/thumbnails/2474-100x70.jpg?x53432)
     
-    The Mystery of Van Gogh’s Ear
+    Fabled Enemies
     
-    In 1888, in Provence, France, an event occurred that was so bizarre it would enter modern legend. In the red light district on the edge of town a foreigner arrived at the door of a brothel, he was bar](https://documentaryheaven.com/mystery-of-van-goghs-ear/ "The Mystery of Van Gogh’s Ear")
-* [![MythBusters: NASA Moon Landing](/wp-content/thumbnails/1109-100x70.jpg?x53432)
+    Fabled Enemies by Jason Bermas is the latest film to question the events of September 11th 2001. Instead of the focus being on physical anomalies surrounding the attacks, it focuses on a vast intellig](https://documentaryheaven.com/fabled-enemies/ "Fabled Enemies")
+* [![I Am Fishead: Are Corporate Leaders Psychopaths?](/wp-content/thumbnails/6461-100x70.jpg?x53432)
     
-    MythBusters: NASA Moon Landing
+    I Am Fishead: Are Corporate Leaders Psychopaths?
     
-    Ever since man went to the moon-and still today as America plans to go back (via DIY, NASA or the next president) -there have been those who said we never actually made it there in the first place. In](https://documentaryheaven.com/mythbusters-nasa-moon-landing/ "MythBusters: NASA Moon Landing")
-* [![Cryonics: Death in the Deep Freeze](/wp-content/thumbnails/2786-100x70.jpg?x53432)
+    It is a well-known fact that our society is structured like a pyramid. The very few people at the top create conditions for the majority below. Who are these people? Can we blame them for the problems](https://documentaryheaven.com/i-am-fishead-are-corporate-leaders-psychopaths/ "I Am Fishead: Are Corporate Leaders Psychopaths?")
+* [![Pyromania](/wp-content/thumbnails/5790-100x70.jpg?x53432)
     
-    Cryonics: Death in the Deep Freeze
+    Pyromania
     
-    The first ever footage of a person being cryonically frozen is to be broadcast in a Channel Five documentary that will follow a woman who is terminally ill with cancer before and after her death.“We](https://documentaryheaven.com/cryonics-death-in-the-deep-freeze/ "Cryonics: Death in the Deep Freeze")
-* [![Half Ton Man](/wp-content/thumbnails/1453-100x70.jpg?x53432)
+    Pyromania follows those with an unhealthy fascination for fire.From children who play with fire to the story of John Orr, thought to be responsible for setting over 10,000 fires, to "Bob", a seria](https://documentaryheaven.com/pyromania/ "Pyromania")
+* [![The Battle for British Islam](/wp-content/thumbnails/9524-100x70.jpg?x53432)
     
-    Half Ton Man
+    The Battle for British Islam
     
-    Weighing the same as five baby elephants and a shade less than a Mini Cooper, Patrick Deuel is one of the heaviest men ever and a medical miracle. His heart and other organs should have collapsed long](https://documentaryheaven.com/half-ton-man/ "Half Ton Man")
-* [![WikiSecrets: Julian Assange, Bradley Manning, and WikiLeaks](/wp-content/thumbnails/13037-100x70.jpg?x53432)
+    After the recent attack on French satirical magazine Charlie Hebdo by fundamental islamic militants, which saw the execution of several employees and police officers, Panorama's John Ware set about in](https://documentaryheaven.com/battle-for-british-islam/ "The Battle for British Islam")
+* [![The Evolution of 8-Bit Art](/wp-content/thumbnails/6653-100x70.jpg?x53432)
     
-    WikiSecrets: Julian Assange, Bradley Manning, and WikiLeaks
+    The Evolution of 8-Bit Art
     
-    Bradley Manning was responsible for leaking more than half a million classified documents via the webisite WikiLeaks back in 2010. Manning was an Army intelligence analyst and in this film which was o](https://documentaryheaven.com/wikisecrets/ "WikiSecrets: Julian Assange, Bradley Manning, and WikiLeaks")
+    Super Mario Bros, Zelda, Tetris, and the days of summers past! Starting with Atari and Nintendo and tracing the full 8-bit trajectory over the last 30 years. It’s true that video games have gone far b](https://documentaryheaven.com/the-evolution-of-8-bit-art/ "The Evolution of 8-Bit Art")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
