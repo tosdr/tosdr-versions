@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![T-Mobile](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    T-Mobile confirms it was hacked in recent wave of telecom breaches](https://www.bleepingcomputer.com/news/security/t-mobile-confirms-it-was-hacked-in-recent-wave-of-telecom-breaches/)
 * [![WordPress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Security plugin flaw in millions of WordPress sites gives admin access](https://www.bleepingcomputer.com/news/security/security-plugin-flaw-in-millions-of-wordpress-sites-gives-admin-access/)
-* [![GitHub](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Microsoft 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    GitHub projects targeted with malicious commits to frame researcher](https://www.bleepingcomputer.com/news/security/github-projects-targeted-with-malicious-commits-to-frame-researcher/)
+    Microsoft 365 Admin portal abused to send sextortion emails](https://www.bleepingcomputer.com/news/security/microsoft-365-admin-portal-abused-to-send-sextortion-emails/)
+* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    New Windows 11 recovery tool to let admins remotely fix unbootable devices](https://www.bleepingcomputer.com/news/microsoft/windows-quick-machine-recovery-lets-admins-remotely-fix-unbootable-devices/)
 
 ##### Follow us:
 
