@@ -335,26 +335,25 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[MUCOSOLVAN Hustensaft - Schleimlöser bei Husten mit Ambroxol 250ml](https://www.medikamente-per-klick.de/product?artnr=00743445&simpleContentAttachmentId=14183&wochenklick)  
-Löst den Schleim, erleichtert das Abhusten, befreit die Bronchien**  
+[NUROFEN 200mg Ibuprofen Schmelztabletten Lemon bei Kopfschmerzen 200mg 24St](https://www.medikamente-per-klick.de/product?artnr=11550548&simpleContentAttachmentId=14183&wochenklick)**  
 Sonderangebot**  
-[![Sonderangebot](/images/products/medikamenteperklick/mittel/00743445_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=00743445&simpleContentAttachmentId=14183&wochenklick)
+[![Sonderangebot](/images/products/medikamenteperklick/mittel/11550548_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=11550548&simpleContentAttachmentId=14183&wochenklick)
 
 VK1:
 
-19,97 €\*
+19,71 €\*
 
 Ihr Preis:
 
-12,55 €\*
+11,98 €\*
 
 Sie sparen:
 
-7,42 € \-37%
+7,73 € \-39%
 
-2024-11-20 12:00:00
+2024-11-27 12:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=00743445&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=11550548&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -523,7 +522,7 @@ Unsere Marken
 * [Xls-Medical](https://www.medikamente-per-klick.de/themenshops/abnehmen/xls-medical)
 * [Yokebe](https://www.medikamente-per-klick.de/markenshops/yokebe)
 
-[![eKomi - The Feedback Company](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/ekomi-HCY3GJJW6MSP36F-70x70.png)](https://www.ekomi.de/bewertungen-medikamente-per-klickde.html "eKomi - The Feedback Company") [![](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/etrusted-shop.png)](https://www.trustedshops.de/bewertung/info_X4176AAE688AB24A0DC50958E3B228D5B.html) [![](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/logo-din_en_iso_9001_90.png)](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/zertifikat_vfqg-360_luitpold_bad_steben_2020.pdf "Zertifikat des Verbandes zur Förderung der Qualität im Gesundheitsbereich e.V. 2020") [![Verbraucherwelt Top Online Shop Gütesiegel](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/Verbraucherwelt-Top-Online-Shop-Gutesiegel.png)](https://www.verbraucherwelt.de/medikamente-per-klick-de/)
+[![eKomi - The Feedback Company](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/ekomi-HCY3GJJW6MSP36F-70x70.png)](https://www.ekomi.de/bewertungen-medikamente-per-klickde.html) [![](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/etrusted-shop.png)](https://www.trustedshops.de/bewertung/info_X4176AAE688AB24A0DC50958E3B228D5B.html) [![](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/logo-din_en_iso_9001_90.png)](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/zertifikat_vfqg-360_luitpold_bad_steben_2020.pdf) [![Verbraucherwelt Top Online Shop Gütesiegel](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/Verbraucherwelt-Top-Online-Shop-Gutesiegel.png)](https://www.verbraucherwelt.de/medikamente-per-klick-de/)
 
 ### Alles auf einen Blick
 
@@ -537,9 +536,11 @@ Unsere Marken
 * [Homöopathie & Natur](https://www.medikamente-per-klick.de/homoeopathie-und-natur)
 * [Kosmetik & Körperpflege](https://www.medikamente-per-klick.de/kosmetik-und-koerperpflege)
 * [Magen, Darm & Leber](https://www.medikamente-per-klick.de/magen-darm-und-leber)
-* [Nerven, Muskeln & Gelenke](https://www.medikamente-per-klick.de/nerven-muskeln-und-gelenke)[](https://www.medikamente-per-klick.de/nerven-muskeln-und-gelenke)[](https://www.medikamente-per-klick.de/reiseapotheke)
+* [Nerven, Muskeln & Gelenke](https://www.medikamente-per-klick.de/nerven-muskeln-und-gelenke)
+* [Reiseapotheke](https://www.medikamente-per-klick.de/reiseapotheke)
 
-* [Rezepte](https://www.medikamente-per-klick.de/rezepte)[](https://www.medikamente-per-klick.de/schmerzen)
+* [Rezepte](https://www.medikamente-per-klick.de/rezepte)
+* [Schmerzen](https://www.medikamente-per-klick.de/schmerzen)
 * [E-Rezept](https://www.medikamente-per-klick.de/e-rezept)
 * [E-Rezept einlösen](https://www.medikamente-per-klick.de/e-rezept-einloesen)
 * [Glossar](https://www.medikamente-per-klick.de/glossar)
@@ -548,14 +549,14 @@ Unsere Marken
 
 * [Markenshops](https://www.medikamente-per-klick.de/markenshops)
 * [Themenshops](https://www.medikamente-per-klick.de/themenshops)
-* [Infoblog](https://www.medikamente-per-klick.de/apotheke/)[](https://service.medikamente-per-klick.de/anmelden/index.html)
-* [Über uns](https://www.medikamente-per-klick.de/ueber-uns)[](https://www.medikamente-per-klick.de/rezepte)
+* [Infoblog](https://www.medikamente-per-klick.de/apotheke/)
+* [Über uns](https://www.medikamente-per-klick.de/ueber-uns)
 * [Jobs & Karriere](https://www.medikamente-per-klick.de/karriere)
 
 * [Impressum](https://www.medikamente-per-klick.de/Impressum)
 * [Kontaktformular](https://www.medikamente-per-klick.de/kontaktformular)
 * [AGB](https://www.medikamente-per-klick.de/AGB)
-* [Datenschutz](https://www.medikamente-per-klick.de/Datenschutz)[](https://www.medikamente-per-klick.de/retoure)
+* [Datenschutz](https://www.medikamente-per-klick.de/Datenschutz)
 * [Cookie-Einstellungen](#)
 
 * [Versand & Lieferung](https://www.medikamente-per-klick.de/versandkosten)
@@ -607,22 +608,22 @@ Unsere Marken
 
 ### Meine Apotheke
 
-![](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/icon-callcenter.svg) **BESTELLUNG**  
+![callcenter](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/icon-callcenter.svg) **BESTELLUNG**  
 Mo-Fr 08-18 Uhr & Sa 08-12 Uhr  
 [bestellung@medikamente-per-klick.de](mailto:bestellung@medikamente-per-klick.de)   
   
 
-![](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/icon-callcenter.svg) **BERATUNG**  
+![callcenter](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/icon-callcenter.svg) **BERATUNG**  
 Mo-Fr 08-17 Uhr (Fachpersonal)  
 [beratung@medikamente-per-klick.de](mailto:beratung@medikamente-per-klick.de)
 
-![](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/icon-logistics-truck.svg) **RETOUR**  
+![logistics](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/icon-logistics-truck.svg) **RETOUR**  
 Mo-Fr 08-16 Uhr  
 [retoure@medikamente-per-klick.de](mailto:retoure@medikamente-per-klick.de)  
   
   
 
-![](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/icon-logistics-box.svg) **SERVICEMANAGEMENT**  
+![logistics](https://www.medikamente-per-klick.de/images/generic_attachments/attachments/medikamenteperklick/icon-logistics-box.svg) **SERVICEMANAGEMENT**  
 Mo-Fr 09-17 Uhr  
 [versand@medikamente-per-klick.de](mailto:versand@medikamente-per-klick.de)
 
@@ -650,4 +651,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=zxtvbledcmivssnqltmyodwscmqdkomx&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=gyerwjyhpsswqiadscggfjdpolcwleov&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
