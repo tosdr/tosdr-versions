@@ -78,13 +78,13 @@ HOLIDAY TYPES
 
 [Photographic Safaris](https://www.safari.com/holidays/photographic-safaris)
 
-[BLOG](https://www.safari.com/blog)
+[BLOG](https://www.safari.com/blog)[CONTACT US](https://www.safari.com/contact)
 
 ABOUT US
 
 [Our Story](https://www.safari.com/about-us)[Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Testimonials](https://www.trustpilot.com/review/safari.com)[Financial Protection](https://www.safari.com/travel-with-us#financial-protection)[Meet the Team](https://www.safari.com/meet-the-team)[Partner with us](https://www.safari.com/affiliates)[Contact us](https://www.safari.com/contact)
 
-[Start Planning](https://www.safari.com/start)
+Start Planning
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/673d14cebb5761e9953d9faa_icons8-search-96.png)
 
@@ -136,6 +136,20 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 20, 2024
+
+> Outstanding Experience! (Cape Town, Sabi Sands, Vic Falls)
+
+> After attempting to book this trip myself (a couple coming from the US), I gave up and reached out to Sara from Safari.com. I told Sara what I was thinking and by the next day she had created several wonderful itineraries! Based on her suggestions, we personalized the itineraries and within 7 days I was booked and all set!! Sara was available at all times (before, during, and after the trip). We are currently heading home and we are so happy with all the bookings Sara created for us! Everything went flawlessly. Her 3rd parties for tours and transfers were perfect (always early, professional, knowledgeable, and kind). The hotel acknowledged our anniversary thanks to Sara. We stayed at the Victoria & Alfred hotel in Cape Town, then off to Dulini Moya in Sabi Sands, and finally Victoria Falls Island Treehouse in Zimbabwe. I highly recommend all of them. Tell Sara what you envision your experience to be and your budget and she will make it happen!! Her knowledge was so helpful in assisting us to choose the perfect itinerary. It was comforting that she kept in touch while we were traveling throughout Africa. I feel so lucky to have had Sara arrange this trip and will certainly request her expertise again in the future!! You won’t have to worry about anything because she is on top of it all. Do not hesitate!! Book with Sara from Safari.com!
+
+Annette P
+
+,
+
+MW
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 19, 2024
 
 > A massive thank you to Anja
@@ -145,6 +159,8 @@ out of 5 based on
 customer
 
 ,
+
+GB
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -244,20 +260,6 @@ GP
 
 US
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 14, 2024
-
-> Thank you Safari.com
-
-> Thank you Safari.com (Tanya) for your kind handling of my many emails. regards Paulene
-
-Paulene
-
-,
-
-ZA
-
 VIP service
 
 Your own personal travel assistant
@@ -292,12 +294,12 @@ Contact a safari expert now
 
 ### About us
 
-* [Why travel with us](https://www.safari.com/travel-with-us)[Ethical wildlife policy](https://www.safari.com/travel-with-us#ethical-wildlife-tourism-policy)[FAQ](https://www.safari.com/faq)[Our story](https://www.safari.com/about-us)[Meet the team](https://www.safari.com/meet-the-team)[Careers](https://www.safari.com/careers)[Traveler reviews](https://www.trustpilot.com/review/safari.com)[Africa's Leading Safari Company 2024](https://www.safari.com/blog/safari-com-world-travel-awards-nominee-2024-vote-for-us)
+* [Contact us](https://www.safari.com/contact)[Why travel with us](https://www.safari.com/travel-with-us)[Ethical wildlife policy](https://www.safari.com/travel-with-us#ethical-wildlife-tourism-policy)[FAQ](https://www.safari.com/faq)[Our story](https://www.safari.com/about-us)[Meet the team](https://www.safari.com/meet-the-team)[Careers](https://www.safari.com/careers)[Traveler reviews](https://www.trustpilot.com/review/safari.com)[Africa's Leading Safari Company 2024](https://www.safari.com/blog/safari-com-world-travel-awards-nominee-2024-vote-for-us)
 * [Join Our Affiliate Program](https://www.safari.com/affiliates)
 
 ### Blog
 
-* [Blog home](https://www.safari.com/blog)[Top 10 African Safaris](https://www.safari.com/blog/top-10-best-african-safari-tours)[Top 10 lodges in Kruger Park](https://www.safari.com/blog/top-10-luxury-lodges-in-the-greater-kruger-park)[Top 10 Okavango Lodges](https://www.safari.com/blog/top-10-okavango-delta-lodges)[Top 10 lodges in the Sabi Sands](https://www.safari.com/blog/top-10-lodges-in-the-sabi-sands)[Top 10 migration lodges](https://www.safari.com/blog/top-10-great-migration-lodges)[What does a safari cost in Africa](https://www.safari.com/blog/what-does-a-safari-cost-in-africa)[Best value for money lodges in Africa](https://www.safari.com/blog/best-value-for-money-luxury-safari-lodges)[Safety tips for traveling in Africa](https://www.safari.com/blog/safety-tips-for-travel-in-africa)
+* [Blog home](https://www.safari.com/blog)[Top 10 African Safaris](https://www.safari.com/blog/top-10-best-african-safari-tours)[Top 10 Lodges in Kruger Park](https://www.safari.com/blog/top-10-luxury-lodges-in-the-greater-kruger-park)[Top 10 Okavango Lodges](https://www.safari.com/blog/top-10-okavango-delta-lodges)[Top 10 Lodges in the Sabi Sands](https://www.safari.com/blog/top-10-lodges-in-the-sabi-sands)[Top 10 Migration Lodges](https://www.safari.com/blog/top-10-great-migration-lodges)[What does a safari cost in Africa](https://www.safari.com/blog/what-does-a-safari-cost-in-africa)[Best value for money lodges in Africa](https://www.safari.com/blog/best-value-for-money-luxury-safari-lodges)[Safety tips for traveling in Africa](https://www.safari.com/blog/safety-tips-for-travel-in-africa)
 
 ### Social
 
