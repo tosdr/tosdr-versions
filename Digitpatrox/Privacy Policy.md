@@ -20,16 +20,16 @@ Wednesday, November 20 2024
 
 Latest
 
-* [Niantic is building a ‘geospatial’ AI model based on Pokémon Go player data](https://digitpatrox.com/niantic-is-building-a-geospatial-ai-model-based-on-pokemon-go-player-data/)
-* [Today’s Wordle Answer and Hints for November 20, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-20-2024/)
-* [Egnyte names Elizabeth Hajjar as new EMEA sales chief](https://digitpatrox.com/egnyte-names-elizabeth-hajjar-as-new-emea-sales-chief/)
-* [CMA gives Google’s $2B Anthropic investment the green light](https://digitpatrox.com/cma-gives-googles-2b-anthropic-investment-the-green-light/)
-* [How to Speak With a Real Person at Home Depot Customer Service](https://digitpatrox.com/how-to-speak-with-a-real-person-at-home-depot-customer-service/)
-* [How to change mouse pointer size on Windows 10](https://digitpatrox.com/how-to-change-mouse-pointer-size-on-windows-10/)
-* [Gifts for Car Lovers That Promise Convenience, Fun, and Safety](https://digitpatrox.com/gifts-for-car-lovers-that-promise-convenience-fun-and-safety/)
-* [Microsoft Wants to Simplify the Windows Subsystem for Linux](https://digitpatrox.com/microsoft-wants-to-simplify-the-windows-subsystem-for-linux/)
-* [Business leaders face green ‘investment paralysis’ as concerns clash with climate targets](https://digitpatrox.com/business-leaders-face-green-investment-paralysis-as-concerns-clash-with-climate-targets/)
-* [Vishing, Wangiri, and Other VoIP Fraud Tactics On the Rise](https://digitpatrox.com/vishing-wangiri-and-other-voip-fraud-tactics-on-the-rise/)
+* [CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](https://digitpatrox.com/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
+* [Strava closes the gates to sharing fitness data with other apps](https://digitpatrox.com/strava-closes-the-gates-to-sharing-fitness-data-with-other-apps/)
+* [Here’s How to Get 3 Months of Free Gemini Advanced Perk on Your Chromebook](https://digitpatrox.com/heres-how-to-get-3-months-of-free-gemini-advanced-perk-on-your-chromebook/)
+* [Everything You Need to Consider – Computerworld](https://digitpatrox.com/everything-you-need-to-consider-computerworld/)
+* [The Best Early Black Friday Deals From Home Depot](https://digitpatrox.com/the-best-early-black-friday-deals-from-home-depot/)
+* [Best Bike Racks – Consumer Reports](https://digitpatrox.com/best-bike-racks-consumer-reports/)
+* [9 iPhone Accessories for Better Videos](https://digitpatrox.com/9-iphone-accessories-for-better-videos/)
+* [Which Linux Distro Fits Your Needs Best?](https://digitpatrox.com/which-linux-distro-fits-your-needs-best/)
+* [One of the best Segway electric scooters is $600 off right now — and it’s the perfect way to get around](https://digitpatrox.com/one-of-the-best-segway-electric-scooters-is-600-off-right-now-and-its-the-perfect-way-to-get-around/)
+* [Apple fixes two zero-days used in attacks on Intel-based Macs](https://digitpatrox.com/apple-fixes-two-zero-days-used-in-attacks-on-intel-based-macs/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/dC5CQVFu-2M-S_HDlG_Vd0rwkjE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/9045295/DSCF5354.jpg)](https://digitpatrox.com/niantic-is-building-a-geospatial-ai-model-based-on-pokemon-go-player-data/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/02/CISA.jpg)](https://digitpatrox.com/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
     
-    [Niantic is building a ‘geospatial’ AI model based on Pokémon Go player data](https://digitpatrox.com/niantic-is-building-a-geospatial-ai-model-based-on-pokemon-go-player-data/)
+    [CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](https://digitpatrox.com/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
     
-    3 minutes ago
+    10 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-20-2024/)
+* [![](https://cdn.vox-cdn.com/thumbor/O5xEsKxO8_wtbmutog1SsMAg0kM=/0x0:1391x777/1200x628/filters:focal(713x307:714x308)/cdn.vox-cdn.com/uploads/chorus_asset/file/25742958/Flyover___Dark_Mode_Heatmap.jpg)](https://digitpatrox.com/strava-closes-the-gates-to-sharing-fitness-data-with-other-apps/)
     
-    [Today’s Wordle Answer and Hints for November 20, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-20-2024/)
+    [Strava closes the gates to sharing fitness data with other apps](https://digitpatrox.com/strava-closes-the-gates-to-sharing-fitness-data-with-other-apps/)
     
-    18 minutes ago
+    27 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/7nzdgfarxm4BhPmrjGKYh-1200-80.jpg)](https://digitpatrox.com/egnyte-names-elizabeth-hajjar-as-new-emea-sales-chief/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Redeem-Gemini-Advanced-Chromebook.jpg)](https://digitpatrox.com/heres-how-to-get-3-months-of-free-gemini-advanced-perk-on-your-chromebook/)
     
-    [Egnyte names Elizabeth Hajjar as new EMEA sales chief](https://digitpatrox.com/egnyte-names-elizabeth-hajjar-as-new-emea-sales-chief/)
+    [Here’s How to Get 3 Months of Free Gemini Advanced Perk on Your Chromebook](https://digitpatrox.com/heres-how-to-get-3-months-of-free-gemini-advanced-perk-on-your-chromebook/)
     
-    2 hours ago
+    42 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609030-0-40547200-1732050241-shutterstock_editorial_2382522423.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/cma-gives-googles-2b-anthropic-investment-the-green-light/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609007-0-43926100-1732048488-shutterstock_2456819109_Song_about_summer.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/everything-you-need-to-consider-computerworld/)
     
-    [CMA gives Google’s $2B Anthropic investment the green light](https://digitpatrox.com/cma-gives-googles-2b-anthropic-investment-the-green-light/)
+    [Everything You Need to Consider – Computerworld](https://digitpatrox.com/everything-you-need-to-consider-computerworld/)
     
-    2 hours ago
+    3 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JD2XH51ZW97BYXWCS8S9ACTT/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-speak-with-a-real-person-at-home-depot-customer-service/)
+* [![](https://lifehacker.com/imagery/articles/01JD385WM0CG6TYAYB4PJ8BK05/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-early-black-friday-deals-from-home-depot/)
     
-    [How to Speak With a Real Person at Home Depot Customer Service](https://digitpatrox.com/how-to-speak-with-a-real-person-at-home-depot-customer-service/)
+    [The Best Early Black Friday Deals From Home Depot](https://digitpatrox.com/the-best-early-black-friday-deals-from-home-depot/)
     
     3 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 minutes ago
+* [10 minutes ago
     
-    ### Niantic is building a ‘geospatial’ AI model based on Pokémon Go player data](https://digitpatrox.com/niantic-is-building-a-geospatial-ai-model-based-on-pokemon-go-player-data/)
-* [18 minutes ago
+    ### CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](https://digitpatrox.com/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
+* [27 minutes ago
     
-    ### Today’s Wordle Answer and Hints for November 20, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-20-2024/)
-* [2 hours ago
+    ### Strava closes the gates to sharing fitness data with other apps](https://digitpatrox.com/strava-closes-the-gates-to-sharing-fitness-data-with-other-apps/)
+* [42 minutes ago
     
-    ### Egnyte names Elizabeth Hajjar as new EMEA sales chief](https://digitpatrox.com/egnyte-names-elizabeth-hajjar-as-new-emea-sales-chief/)
+    ### Here’s How to Get 3 Months of Free Gemini Advanced Perk on Your Chromebook](https://digitpatrox.com/heres-how-to-get-3-months-of-free-gemini-advanced-perk-on-your-chromebook/)
 
 Most Popular Topics
 
-* [September 8, 2024
-    
-    ### How to watch Apple’s ‘Glowtime’ iPhone 16 event](https://digitpatrox.com/how-to-watch-apples-glowtime-iphone-16-event/)
 * [2 weeks ago
     
-    ### Best Outdoor Security Cameras of 2024](https://digitpatrox.com/best-outdoor-security-cameras-of-2024/)
-* [September 30, 2024
+    ### Forget Apple Intelligence — iOS 18.2 beta could be introducing ‘Battery Intelligence’](https://digitpatrox.com/forget-apple-intelligence-ios-18-2-beta-could-be-introducing-battery-intelligence/)
+* [October 9, 2024
     
-    ### The Penguin Episode 2: Who Is Julian Rush, a Potential Batman Villain?](https://digitpatrox.com/the-penguin-episode-2-who-is-julian-rush-a-potential-batman-villain/) 
+    ### Sage Intacct review | ITPro](https://digitpatrox.com/sage-intacct-review-itpro/)
+* [August 27, 2024
+    
+    ### Pixel Screenshots is one of the Pixel 9’s best AI features — here’s how it works](https://digitpatrox.com/pixel-screenshots-is-one-of-the-pixel-9s-best-ai-features-heres-how-it-works/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Gifts for Car Lovers That Promise Convenience, Fun, and Safety](https://digitpatrox.com/gifts-for-car-lovers-that-promise-convenience-fun-and-safety/)
-* [3 hours ago
-    
-    ### Microsoft Wants to Simplify the Windows Subsystem for Linux](https://digitpatrox.com/microsoft-wants-to-simplify-the-windows-subsystem-for-linux/)
+    ### 9 iPhone Accessories for Better Videos](https://digitpatrox.com/9-iphone-accessories-for-better-videos/)
 * [4 hours ago
     
-    ### Business leaders face green ‘investment paralysis’ as concerns clash with climate targets](https://digitpatrox.com/business-leaders-face-green-investment-paralysis-as-concerns-clash-with-climate-targets/)
+    ### Which Linux Distro Fits Your Needs Best?](https://digitpatrox.com/which-linux-distro-fits-your-needs-best/)
+* [4 hours ago
+    
+    ### One of the best Segway electric scooters is $600 off right now — and it’s the perfect way to get around](https://digitpatrox.com/one-of-the-best-segway-electric-scooters-is-600-off-right-now-and-its-the-perfect-way-to-get-around/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
