@@ -18,6 +18,7 @@
     * [FAQ](https://www.speedtest.net/about/knowledge/faq)
 * Data
     * [Ookla Research™](https://www.ookla.com/articles)
+    * [Speedtest Awards™](https://www.speedtest.net/awards)
     * [Speedtest Global Index™](https://www.speedtest.net/global-index)
     * [Speedtest Performance Directory™](https://www.speedtest.net/performance/united-states)
 * About
@@ -315,6 +316,7 @@ IF FOR ANY REASON, YOU ARE UNABLE OR UNWILLING TO AGREE TO ALL OUR TERMS OF USE,
 
 * [Account](https://www.speedtest.net/login)
 * [Advertise](https://www.speedtest.net/about/advertising)
+* [Speedtest Awards™](https://www.speedtest.net/awards)
 * [Speedtest Servers™](https://www.ookla.com/network)
 * [Speedtest Performance Directory™](https://www.speedtest.net/performance/united-states)
 
