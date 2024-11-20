@@ -84,8 +84,8 @@
 * [Facebook](https://www.facebook.com/ToonBoomAnimation/)
 * [Twitter](https://twitter.com/toonboom)
 * [Instagram](https://www.instagram.com/toonboomanimation/)
-* [Youtube](https://www.youtube.com/user/ToonBoomAnimation)
-* [Linkedin](https://www.linkedin.com/company/toon-boom-animation-inc)
+* [YouTube](https://www.youtube.com/user/ToonBoomAnimation)
+* [LinkedIn](https://www.linkedin.com/company/toon-boom-animation-inc)
 
 See notifications.
 
@@ -156,8 +156,8 @@ Open Menu
 * [Facebook](https://www.facebook.com/ToonBoomAnimation/)
 * [Twitter](https://twitter.com/toonboom)
 * [Instagram](https://www.instagram.com/toonboomanimation/)
-* [Youtube](https://www.youtube.com/user/ToonBoomAnimation)
-* [Linkedin](https://www.linkedin.com/company/toon-boom-animation-inc)
+* [YouTube](https://www.youtube.com/user/ToonBoomAnimation)
+* [LinkedIn](https://www.linkedin.com/company/toon-boom-animation-inc)
 
 Privacy Policy
 ==============
@@ -350,8 +350,8 @@ Follow us
 * [Facebook](https://www.facebook.com/ToonBoomAnimation/)
 * [Twitter](https://twitter.com/toonboom)
 * [Instagram](https://www.instagram.com/toonboomanimation/)
-* [Youtube](https://www.youtube.com/user/ToonBoomAnimation)
-* [Linkedin](https://www.linkedin.com/company/toon-boom-animation-inc)
+* [YouTube](https://www.youtube.com/user/ToonBoomAnimation)
+* [LinkedIn](https://www.linkedin.com/company/toon-boom-animation-inc)
 
 * Software
     * [Harmony](https://www.toonboom.com/products/harmony)
