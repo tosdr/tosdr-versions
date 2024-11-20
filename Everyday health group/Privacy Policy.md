@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/the-never-words-doctors-shouldnt-use-patients-1440x810.jpg)
+
+Is Your Doctor Using ‘Never Words’ That Make You Feel Worse?](https://www.everydayhealth.com/general-health/is-your-doctor-using-words-that-make-you-feel-worse/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/severe-stroke-risk-factors-1440x810.jpg)
 
 3 Risk Factors Do the Most to Make a Stroke Deadly](https://www.everydayhealth.com/heart-health/risk-factors-to-make-a-stroke-deadly/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/can-olfactory-loss-predict-disease-1440x810.jpg)
-
-Loss of Smell Tied to Over 100 Serious Medical Conditions](https://www.everydayhealth.com/neurological-disorders/loss-of-smell-tied-to-serious-medical-conditions/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/organic-carrots-recalled-for-e-coli-1440x810.jpg)
 
