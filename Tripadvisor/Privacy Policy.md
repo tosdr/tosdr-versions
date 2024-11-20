@@ -396,7 +396,7 @@ You can exercise several of your rights through the personal information section
 
 The contact details of our representative are:
 
-LAB Partners (Managing Partner: **Youngju Kim**)
+LAB Partners (Managing Partner: **Young Hee Jo**)
 
 Tel: 02-6956-6311
 
