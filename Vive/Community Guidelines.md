@@ -130,6 +130,8 @@ All activity on the service is also governed by the HTC Corporation [Terms and C
     * [CPRA-Limit the Use of My Sensitive Personal Information](https://www.htc.com/us/terms/do-not-sell-or-share-my-personal-information/)
     * [CPRA-Do Not Sell or Share My Personal Information](https://www.htc.com/us/terms/do-not-sell-or-share-my-personal-information/)
 
+[](https://www.htc.com/)
+
 © 2011-2024 HTC Corporation
 
 * [Legal Terms](https://www.htc.com/us/terms/htc/)
