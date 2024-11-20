@@ -271,7 +271,7 @@ Email: privacy@studiosity.com
 
 Please note that the Act contains certain exemptions, which may permit us to use personal information in a particular way if specific circumstances arise. Any such exemptions under the Act will take priority over this privacy and cookie policy to the extent of any inconsistency.
 
-![Studiosity logo](https://assets-cdn-01.studiosity.com/eureka/e1bc5b50/connect/assets/logos/Studiosity-Reversed-150x38-b57c6b118e8b42e1959b72a845dbe44363033a171593332cbb903ebe3623055d.png)
+![Studiosity logo](https://assets-cdn-01.studiosity.com/eureka/ab5bf63e/connect/assets/logos/Studiosity-Reversed-150x38-b57c6b118e8b42e1959b72a845dbe44363033a171593332cbb903ebe3623055d.png)
 
 * [Contact us](mailto:hello@studiosity.com)
 * [FAQ](https://support.studiosity.com/)
