@@ -312,7 +312,7 @@ Get Involved
 
 Get Involved
 
-[](https://www.facebook.com/crumblcookies/)[](https://www.instagram.com/crumblcookies/)[](https://www.tiktok.com/@crumblcookies)[](https://x.com/crumblcookies)[](https://www.youtube.com/c/CrumblCookies)[](https://www.linkedin.com/company/crumblcookies/)[](https://www.pinterest.com/crumblcookies/)
+[](https://www.facebook.com/crumblcookies/)[](https://www.instagram.com/crumbl/)[](https://www.tiktok.com/@crumbl/)[](https://x.com/Crumbl)[](https://www.youtube.com/c/crumblcookies)[](https://www.linkedin.com/company/crumbl)[](https://www.pinterest.com/crumblcookies/)
 
 © 2024 all rights reserved. 
 
