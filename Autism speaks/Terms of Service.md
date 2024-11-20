@@ -287,6 +287,14 @@ Autism news
 
 All the latest that matters to our community
 
+![Three panelists watching TV for video of Former First Lady Rosalynn Carter speaking about caregivers](/sites/default/files/styles/content_list/public/Image%20%289%29.jpg.webp?itok=1AxbKM7l)
+
+11.19.24
+
+[### Autism Speaks joins congressional briefing on family caregivers](https://guide.autismspeaks.org/advocacy-news/autism-speaks-joins-congressional-briefing-family-caregivers)
+
+In recognition of November as National Family Caregivers Month, Autism Speaks was grateful to join the Rosalynn Carter Institute for Caregivers,
+
 ![Autism Speaks new PSA for employment](/sites/default/files/styles/content_list/public/Autism%20Speaks%20new%20PSA%20for%20employment.png.webp?itok=XRKtwSWZ)
 
 11.15.24
@@ -326,14 +334,6 @@ People spotlights Tallulah and Rumer Willis, daughters of Demi Moore and Bruce W
 [### Forbes shares tips from Autism Speaks on creating an inclusive Halloween for kids with autism](https://guide.autismspeaks.org/news/forbes-shares-tips-inclusive-halloween)
 
 Victoria Handy shares how she and her daughter make adjustments so they can celebrate Halloween as autistic individuals, highlighting businesses that
-
-![three girls looking at a field of flowers with their arms around each other](/sites/default/files/styles/content_list/public/three-girls-looking-at-a-field-of-flowers-with-their-arms-around-each-other.jpg.webp?itok=Irv6vU-t)
-
-11.1.24
-
-[### Autism diagnosis on the rise, according to trends study](https://guide.autismspeaks.org/science-news/why-autism-increasing)
-
-A new study shows the number of children and adults diagnosed with autism spectrum disorder has increased by 175% over a decade. Why is autism
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
