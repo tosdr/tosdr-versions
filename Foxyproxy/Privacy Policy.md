@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Very speedy response as always... Thanks for the great service/product.
+YOU GUYS ROCK!
 
-Tristan
+Rob McClure
