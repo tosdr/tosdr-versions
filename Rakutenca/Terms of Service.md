@@ -95,7 +95,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/simons)[Gap Canada
         
-        2% Cash Back](https://www.rakuten.ca/gap-canada)
+        6% Cash Back](https://www.rakuten.ca/gap-canada)
         
         Featured Shops & Deals
         
@@ -465,7 +465,7 @@ FR
         
         up to 9% Cash Back](https://www.rakuten.ca/puma-canada)[MEC
         
-        2% Cash Back](https://www.rakuten.ca/mec)
+        6% Cash Back](https://www.rakuten.ca/mec)
         
         Featured Shops & Deals
         
