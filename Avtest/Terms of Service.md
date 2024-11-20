@@ -17,13 +17,13 @@ MENU
     * [Press](https://www.av-test.org/en/press/)
     * [Jobs](https://www.av-test.org/en/about-the-institute/jobs/)
 * [News](https://www.av-test.org/en/news/)
-    * [Evaluation of an Additional Security Feature for VPN’s](https://www.av-test.org/en/news/evaluation-of-an-additional-security-feature-for-vpns/ "Evaluation of an Additional Security Feature for VPN&rsquo;s") [](https://www.av-test.org/en/news/evaluation-of-an-additional-security-feature-for-vpns/ "Evaluation of an Additional Security Feature for VPN’s")
+    * [ATP TEST: concealed attacks of ransomware and info stealers](https://www.av-test.org/en/news/atp-test-concealed-attacks-of-ransomware-and-info-stealers/ "ATP TEST: concealed attacks of ransomware and info stealers") [](https://www.av-test.org/en/news/atp-test-concealed-attacks-of-ransomware-and-info-stealers/ "ATP TEST: concealed attacks of ransomware and info stealers")
+        
+        [Evaluation of an Additional Security Feature for VPN’s](https://www.av-test.org/en/news/evaluation-of-an-additional-security-feature-for-vpns/ "Evaluation of an Additional Security Feature for VPN&rsquo;s") [](https://www.av-test.org/en/news/evaluation-of-an-additional-security-feature-for-vpns/ "Evaluation of an Additional Security Feature for VPN’s")
         
         [13 security products in an endurance test: here are the best packages...](https://www.av-test.org/en/news/13-security-products-in-an-endurance-test-here-are-the-best-packages-for-windows/ "13 security products in an endurance test: here are the best packages for Windows") [](https://www.av-test.org/en/news/13-security-products-in-an-endurance-test-here-are-the-best-packages-for-windows/ "13 security products in an endurance test: here are the best packages for Windows")
         
         [Endurance Test: 14 Security Solutions for Corporate Users](https://www.av-test.org/en/news/endurance-test-14-security-solutions-for-corporate-users/ "Endurance Test: 14 Security Solutions for Corporate Users") [](https://www.av-test.org/en/news/endurance-test-14-security-solutions-for-corporate-users/ "Endurance Test: 14 Security Solutions for Corporate Users")
-        
-        [ATP endurance test: 31 security products for 6 months in the advanced...](https://www.av-test.org/en/news/atp-endurance-test-31-security-products-for-6-months-in-the-advanced-windows-10-test/ "ATP endurance test: 31 security products for 6 months in the advanced Windows 10 test") [](https://www.av-test.org/en/news/atp-endurance-test-31-security-products-for-6-months-in-the-advanced-windows-10-test/ "ATP endurance test: 31 security products for 6 months in the advanced Windows 10 test")
         
     * News by category
         
