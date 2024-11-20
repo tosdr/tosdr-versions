@@ -112,7 +112,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 _Last updated: November 14, 2024_
 
-_“At first, I thought I was working through the feelings around my failing marriage and subsequent divorce. Then I realized that I was struggling to actually process the feelings and grief I had been carrying. Now, I’m feeling a sense of empowerment and freedom like I’ve never had before.”_
+_“I’ve had a lot of therapists over the last 17 years and I’ve never had a counselor bring me through this much progress... ever. Not even close.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
