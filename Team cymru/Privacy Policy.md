@@ -1,6 +1,6 @@
 top of page
 
-[![TC_logo_horizontal.png](https://static.wixstatic.com/media/6b0b63_01d131921a52439e941893598a7ecfca~mv2.png/v1/fill/w_187,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/TC_logo_horizontal.png)](https://www.team-cymru.com/)
+[![TC_logo_horizontal.png](https://static.wixstatic.com/media/6b0b63_01d131921a52439e941893598a7ecfca~mv2.png/v1/fill/w_187,h_59,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/TC_logo_horizontal.png)](https://www.team-cymru.com/)
 
 * Products
     
@@ -82,7 +82,7 @@ top of page
 
 [TRY US FREE](https://www.team-cymru.com/ip-address-lookup-scout-insight)
 
-![Protecting Your Digital World](https://static.wixstatic.com/media/ad75df_08806e935e034bb0832f32cbb03adeff~mv2.jpg/v1/fill/w_147,h_31,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_08806e935e034bb0832f32cbb03adeff~mv2.jpg)
+![Protecting Your Digital World](https://static.wixstatic.com/media/ad75df_08806e935e034bb0832f32cbb03adeff~mv2.jpg/v1/fill/w_147,h_31,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ad75df_08806e935e034bb0832f32cbb03adeff~mv2.jpg)
 
 Privacy Policy
 ==============
@@ -426,9 +426,9 @@ By mail: 901 International Parkway, Suite 350, Lake Mary, FL 32746, USA
 
 ​
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_109,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_109,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_79,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_79,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
 PRODUCTS
 
@@ -490,9 +490,9 @@ Emergencies: +1 847-378-3301
 
 [Modern Slavery Act](https://www.team-cymru.com/modernslaveryact)
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_185,h_38,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_185,h_38,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
-[![TC_logo_horizontal.png](https://static.wixstatic.com/media/6b0b63_01d131921a52439e941893598a7ecfca~mv2.png/v1/fill/w_54,h_19,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/TC_logo_horizontal.png)](https://www.team-cymru.com/)
+[![TC_logo_horizontal.png](https://static.wixstatic.com/media/6b0b63_01d131921a52439e941893598a7ecfca~mv2.png/v1/fill/w_54,h_19,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/TC_logo_horizontal.png)](https://www.team-cymru.com/)
 
 bottom of page
 
