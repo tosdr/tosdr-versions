@@ -117,6 +117,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Hungry kids find it hard to learn](https://parliament.vic.gov.au/link/2a3a38934cdb409a884b5552b1879795.aspx)
+        
+        20 November 2024
+        
     * [Research leads to reward for interns](https://parliament.vic.gov.au/link/ef520a1125b24eed83eead31a37ddee7.aspx)
         
         19 November 2024
@@ -124,10 +128,6 @@ Main menu
     * [Keeping an eye on emerging technologies](https://parliament.vic.gov.au/link/3939521e80a44bcb902d7d5a98dc687e.aspx)
         
         12 November 2024
-        
-    * [Parliament debates priority precincts](https://parliament.vic.gov.au/link/eaf5a8a8ee0244ba85f93aab596edb05.aspx)
-        
-        08 November 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
