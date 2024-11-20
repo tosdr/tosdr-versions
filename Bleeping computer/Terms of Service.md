@@ -36,18 +36,18 @@
         
         Critical RCE bug in VMware vCenter Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
     
+    * [![Microsoft confirms game audio issues on Windows 11 24H2 PCs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft confirms game audio issues on Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-game-audio-issues-on-windows-11-24h2-pcs/)
+    * [![New Ghost Tap attack abuses NFC mobile payments to steal money](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New Ghost Tap attack abuses NFC mobile payments to steal money](https://www.bleepingcomputer.com/news/security/new-ghost-tap-attack-abuses-nfc-mobile-payments-to-steal-money/)
+    * [![Amazon and Audible flooded with 'forex trading' and warez listings](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Amazon and Audible flooded with 'forex trading' and warez listings](https://www.bleepingcomputer.com/news/security/amazon-and-audible-flooded-with-forex-trading-and-warez-listings/)
     * [![Get a open-box Dell Inspiron 15 and save over $100 in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get a open-box Dell Inspiron 15 and save over $100 in this deal](https://www.bleepingcomputer.com/offer/deals/get-a-open-box-dell-inspiron-15-and-save-over-100-in-this-deal/)
-    * [![Apple fixes two zero-days used in attacks on Intel-based Macs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Apple fixes two zero-days used in attacks on Intel-based Macs](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-days-used-in-attacks-on-intel-based-macs/)
-    * [![CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
-    * [![Ford investgates alleged breach following customer data leak](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Ford investgates alleged breach following customer data leak](https://www.bleepingcomputer.com/news/security/ford-investgates-alleged-breach-following-customer-data-leak/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
