@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-$10 a month since 19 aught diddly.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Army reservist earns astronaut wings, advised to grab gun and bring in the cat](https://www.fark.com/goto/13468404) ( [army.mil](https://www.fark.com/goto/13468404) ) » [(1 comment)](https://www.fark.com/comments/13468404/Army-reservist-earns-astronaut-wings-advised-to-grab-gun-bring-in-cat) |
+| [Main](https://www.fark.com/) | [Now that lenders have successfully lobbied to stonewall student loan forgiveness, they're grabbing whatever they feel like from your bank account, even if you didn't sign up for autopay. But don't worry, the CFPB and DoEd have your back-- oh... right](https://www.fark.com/goto/13468524) ( [cnbc.com](https://www.fark.com/goto/13468524) ) » [(5 comments)](https://www.fark.com/comments/13468524/Now-that-lenders-have-successfully-lobbied-to-stonewall-student-loan-forgiveness-theyre-grabbing-whatever-they-feel-like-from-your-bank-account-even-if-you-didnt-sign-up-for-autopay-But-dont-worry-CFPB-DoEd-have-your-back-oh-right) |
 | [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13468254) ( [fark.com](https://www.fark.com/goto/13468254) ) » [(81 comments)](https://www.fark.com/comments/13468254/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Sports](https://www.fark.com/sports/) | [The first NHL team to fire their head coach in the 2024-2025 season is... \*checks notes\* the Boston Bruins who are currently holding onto the second wildcard spot in the Eastern Conference](https://www.fark.com/goto/13468318) ( [nhl.com](https://www.fark.com/goto/13468318) ) » [(1 comment)](https://www.fark.com/comments/13468318/The-first-NHL-team-to-fire-their-head-coach-in-2024-2025-season-is-checks-notes-Boston-Bruins-who-are-currently-holding-onto-second-wildcard-spot-in-Eastern-Conference) |
-| [Business](https://www.fark.com/business/) | [Yet another member of Forbes' "30 under 30" is facing fraud charges](https://www.fark.com/goto/13468456) ( [businessinsider.com](https://www.fark.com/goto/13468456) ) » [(2 comments)](https://www.fark.com/comments/13468456/Yet-another-member-of-Forbes-30-under-30-is-facing-fraud-charges) |
-| [STEM](https://www.fark.com/stem/) | [There's no such thing as bad publicity: igNobel winners tell how the award helped them. Well, apart for the homosexual necrophiliac ducks guy](https://www.fark.com/goto/13468348) ( [nature.com](https://www.fark.com/goto/13468348) ) » [(11 comments)](https://www.fark.com/comments/13468348/Theres-no-such-thing-as-bad-publicity-igNobel-winners-tell-how-award-helped-them-Well-apart-for-homosexual-necrophiliac-ducks-guy) |
-| [Entertainment](https://www.fark.com/entertainment/) | [The guy Diddy framed for a nightclub shooting tried to tell y'all about him, but you wouldn't listen. S'alright though, Shyne has done OK for himself since prison and may be running the country of Belize soon](https://www.fark.com/goto/13467990) ( [msn.com](https://www.fark.com/goto/13467990) ) » [(0 comments)](https://www.fark.com/comments/13467990/The-guy-Diddy-framed-for-a-nightclub-shooting-tried-to-tell-yall-about-him-but-you-wouldnt-listen-Salright-though-Shyne-has-done-OK-for-himself-since-prison-may-be-running-country-of-Belize-soon) |
-| [Fandom](https://www.fark.com/fandom/) | [The newest iteration of Microsoft Flight Simulator is so realistic, it even features an hours-long delay on the tarmac before you can take off](https://www.fark.com/goto/13468300) ( [ign.com](https://www.fark.com/goto/13468300) ) » [(8 comments)](https://www.fark.com/comments/13468300/The-newest-iteration-of-Microsoft-Flight-Simulator-is-so-realistic-it-even-features-an-hours-long-delay-on-tarmac-before-you-can-take-off) |
-| [D'awww](https://www.fark.com/dawww/) | [I'm going on an Adventure. And I'm taking my cat](https://www.fark.com/goto/13468198) ( [opb.org](https://www.fark.com/goto/13468198) ) » [(2 comments)](https://www.fark.com/comments/13468198/Im-going-on-an-Adventure-And-Im-taking-my-cat) |
-| [Food](https://www.fark.com/food/) | [College students mount a vigil at impromptu shrine. For a closed McDonalds](https://www.fark.com/goto/13468178) ( [the-sun.com](https://www.fark.com/goto/13468178) ) » [(7 comments)](https://www.fark.com/comments/13468178/College-students-mount-a-vigil-at-impromptu-shrine-For-a-closed-McDonalds) |
-| [Politics](https://www.fark.com/politics/) | [Slate is here to help you plan how much Doomspending you need to do in advance of Trump's upcoming term. DOOM](https://www.fark.com/goto/13468180) ( [slate.com](https://www.fark.com/goto/13468180) ) » [(11 comments)](https://www.fark.com/comments/13468180/Slate-is-here-to-help-you-plan-how-much-Doomspending-you-need-to-do-in-advance-of-Trumps-upcoming-term-DOOM) |
+| [Sports](https://www.fark.com/sports/) | [Rafael Nadal, 22-time Grand Slam champion and The King of Clay, has officially retired from tennis](https://www.fark.com/goto/13468502) ( [tennis.com](https://www.fark.com/goto/13468502) ) » [(0 comments)](https://www.fark.com/comments/13468502/Rafael-Nadal-22-time-Grand-Slam-champion-The-King-of-Clay-has-officially-retired-from-tennis) |
+| [Business](https://www.fark.com/business/) | [Today in the ongoing series of "Everything I Don't Like is WOKE"](https://www.fark.com/goto/13468756) ( [dailymail.co.uk](https://www.fark.com/goto/13468756) ) » [(11 comments)](https://www.fark.com/comments/13468756/Today-in-ongoing-series-of-Everything-I-Dont-Like-is-WOKE) |
+| [STEM](https://www.fark.com/stem/) | [Covid-19 + cancer = regression?](https://www.fark.com/goto/13468548) ( [news.feinberg.northwestern.edu](https://www.fark.com/goto/13468548) ) » [(2 comments)](https://www.fark.com/comments/13468548/Covid-19-cancer-regression) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Flick. Vic Flick](https://www.fark.com/goto/13468562) ( [theguardian.com](https://www.fark.com/goto/13468562) ) » [(2 comments)](https://www.fark.com/comments/13468562/Flick-Vic-Flick) |
+| [Fandom](https://www.fark.com/fandom/) | [The newest iteration of Microsoft Flight Simulator is so realistic, it even features an hours-long delay on the tarmac before you can take off](https://www.fark.com/goto/13468300) ( [ign.com](https://www.fark.com/goto/13468300) ) » [(15 comments)](https://www.fark.com/comments/13468300/The-newest-iteration-of-Microsoft-Flight-Simulator-is-so-realistic-it-even-features-an-hours-long-delay-on-tarmac-before-you-can-take-off) |
+| [D'awww](https://www.fark.com/dawww/) | [There's nothing like the satisfaction of harvesting your own Christmas tree](https://www.fark.com/goto/13468704) ( [youtube.com](https://www.fark.com/goto/13468704) ) » [(2 comments)](https://www.fark.com/comments/13468704/Theres-nothing-like-satisfaction-of-harvesting-your-own-Christmas-tree) |
+| [Food](https://www.fark.com/food/) | [Like polio or measles but tastier, Roy Rogers was everywhere, then it was gone, and now itʻs coming back and spreading](https://www.fark.com/goto/13468558) ( [patch.com](https://www.fark.com/goto/13468558) ) » [(11 comments)](https://www.fark.com/comments/13468558/Like-polio-measles-but-tastier-Roy-Rogers-was-everywhere-then-it-was-gone-now-its-coming-back-spreading) |
+| [Politics](https://www.fark.com/politics/) | [As president-elect, Trump starts getting intelligence briefings about US security which he will ignore](https://www.fark.com/goto/13468752) ( [msn.com](https://www.fark.com/goto/13468752) ) » [(29 comments)](https://www.fark.com/comments/13468752/As-president-elect-Trump-starts-getting-intelligence-briefings-about-US-security-which-he-will-ignore) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 20 2024 01:43:27  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 20 2024 08:43:11  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
