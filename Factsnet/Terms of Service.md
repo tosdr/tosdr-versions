@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![29 Facts About Dubai Events ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/29-facts-about-dubai-events/)
+[![23 Facts About Juan Guaid ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/23-facts-about-juan-guaido/)
 
-Events
+People
 
-19 Nov 2024
+20 Nov 2024
 
-[29 Facts About Dubai Events](https://facts.net/events/29-facts-about-dubai-events/)
+[23 Facts About Juan Guaid](https://facts.net/history/people/23-facts-about-juan-guaido/)
 
-[![50 Facts About Perovskite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/50-facts-about-perovskite/)
+[![21 Facts About Johann Sebastian Bach ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/performing-arts/21-facts-about-johann-sebastian-bach/)
 
-Earth & Life Science
+Performing Arts
 
-19 Nov 2024
+20 Nov 2024
 
-[50 Facts About Perovskite](https://facts.net/earth-and-life-science/50-facts-about-perovskite/)
+[21 Facts About Johann Sebastian Bach](https://facts.net/culture-and-the-arts/performing-arts/21-facts-about-johann-sebastian-bach/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
