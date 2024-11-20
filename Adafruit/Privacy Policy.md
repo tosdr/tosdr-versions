@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ That brain of mine is something more than merely mortal; as time will show”
+“ It is not down on any map; true places never are”
 
-[Ada Lovelace](https://www.newscientist.com/article/mg21628860-300-ada-lovelace-my-brain-is-more-than-merely-mortal/)
+[Herman Melville ... JC](https://en.wikipedia.org/wiki/Herman_Melville)
 
 [](https://www.adafruit.com/about)
 
