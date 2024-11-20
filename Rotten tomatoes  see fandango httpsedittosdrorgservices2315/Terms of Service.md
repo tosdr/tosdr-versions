@@ -21,7 +21,6 @@ Go to previous offer
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Mufasa: The Lion King** Chance to win a vacation!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Set sail with Moana's Ticket 2 Adventure** Get 2 tickets to Moana 2 & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
 *  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy select titles on Fandango at Home** Get $5 off Gladiator II on Fandango!
@@ -218,16 +217,6 @@ Close
 #### Ascend to victory with The Champion's Collection featuring 1 ticket to Gladiator II at a Regal theatre, an exclusive 27"x40” Gladiator II physical poster (shipping & handling included), and Gladiator II on Fandango at Home (when available).
 
 The Champion’s Collection Exclusive Movie Pack is non-refundable. While supplies last. Movie ticket is non-refundable,non-exchangeable and valid at Regal theatres only. You must be 18 years of age or older to purchase The Champion’s Collection Exclusive Movie Pack. You must have, and be logged into, a Fandango at Home account to buy The Champion’s Collection Exclusive Movie Pack and receive Gladiator II (pre-order so that you can view it when the studio makes it available) on Fandango at Home. The exclusive Gladiator II poster is 27"x40” and will begin shipping in the month of December. Please use a physical address where the exclusive Gladiator II poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See full terms and conditions at https://fandan.co/TheChampionsCollection for each item included in The Champion’s Collection Exclusive Movie Pack. [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_promomodule)
-
-### Special Offer
-
-Close
-
-![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/cms/assets/2a60c6f0-82bd-11ef-8321-2b978811c524--fan-globalnavbar-wickedimax-343x362.jpg)
-
-#### Purchase a ticket to Wicked in IMAX and get a Wicked Collector's Pin Pack! While supplies lasts. See terms for details.
-
-Limited time offer. While supplies last. Log into your account on Fandango.com or the Fandango app and purchase at least one (1) IMAX movie ticket to ‘Wicked’ between 9:00am PT on 10/09/24 and 11:59pm PT on 12/31/24. Purchaser will receive a post purchase email containing one (1) Promotional Code (“Code”) that is good for the redemption of the Wicked Collector’s Pin Pack. Pin Pack will ship in November. There is a limited quantity of Codes available in this promotion. Codes will stop being distributed on the earlier of (i) the Code distribution limit being reached, (ii) Wicked no longer being in IMAX theaters, or (iii) 11:59pm PT on 12/31/24. There is a limited quantity of Code redemptions available in this promotion. Code expires, and can no longer be used, when the limit of Code redemptions has been reached, or at 11:59pm PT on 1/31/25, whichever comes first. Limit one Code per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to Fandango Terms and Policies and Privacy Policy at Terms and Policies at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_promomodule)
 
 ### Special Offer
 
