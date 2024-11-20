@@ -95,67 +95,89 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More Contrasting Worldviews
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/kingdom-of-priests)
+[![](/i/Main%20Stage%20-%201400x1050/Puppies_Pandemics_1400x1050.jpg)](https://www.icr.org/article/puppies-and-pandemics)
 
-[Kingdom of Priests](https://www.icr.org/article/kingdom-of-priests/)
+[Puppies and Pandemics](https://www.icr.org/article/puppies-and-pandemics/)
 
-“And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.”...
+Doom and gloom fill our newsfeeds. Seemingly every hour, more grim headlines emerge. The United Nations now says that the coronavirus crisis is the "gravest...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [LAUREN PENNINGTON](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=232)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/common-salvation)
+[![](/i/Main%20Stage%20-%201400x1050/Fully_Sequenced_1400x1050.jpg)](https://www.icr.org/article/first-human-chromosome-fully-sequenced)
 
-[The Common Salvation](https://www.icr.org/article/common-salvation/)
+[First Human Chromosome Fully Sequenced](https://www.icr.org/article/first-human-chromosome-fully-sequenced/)
 
-“Beloved, when I gave all diligence to write unto you of the common salvation...” (Jude 1:3) The description of our salvation as “common”...
+Most people might be surprised to learn that the human genome has not been fully sequenced. Gaps still remain that have not yet been bridged because of...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/gods-final-word)
+[![](/i/Main%20Stage%20-%201400x1050/First_Stars_Missing_1400x1050.jpg)](https://www.icr.org/article/universe-first-stars-are-missing)
 
-[God's Final Word](https://www.icr.org/article/gods-final-word/)
+[Universe’s "First" Stars Are Missing?](https://www.icr.org/article/universe-first-stars-are-missing/)
 
-“The LORD shall be king over all the earth: in that day shall there be one LORD, and his name one.” (Zechariah 14:9) God cannot be...
+A recent attempt by European astronomers to use the Hubble Space Telescope to find evidence for the first stars expected by secular theory has failed....
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+More Impact
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/transposable_elements_1400x1050.jpg)](https://www.icr.org/article/transposable-elements-genomic-parasites)
+
+[Transposable Elements: Genomic Parasites or Engineered .,.](https://www.icr.org/article/transposable-elements-genomic-parasites/)
+
+Transposable elements (transposons or TEs) are a specialized group of DNA sequences that can transpose or change positions in the genome. Some scientists...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/traitvariations_1400x1050.jpg)](https://www.icr.org/article/trait-variation-engineered-alleles)
+
+[Trait Variation: Engineered Alleles, Yes! Random Mutati.,.](https://www.icr.org/article/trait-variation-engineered-alleles/)
+
+Our world is dynamic, offering changes and challenges to its living residents. Plant and animal trait variations can help them adapt to certain settings....
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/FossilsSayNo_TriassicTussle.jpg)](https://www.icr.org/article/the-fossils-still-say-no-tumultuous-triassic)
+
+[The Fossils Still Say No: Tumultuous Triassic Tussle](https://www.icr.org/article/the-fossils-still-say-no-tumultuous-triassic/)
+
+The Triassic system of the geologic column is an enigma to evolutionists because it represents both a continuance of many life forms found buried in...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/6414663/file.jpg)
 
-The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
+Evolution's Blunders, Frauds And Forgeries](https://store.icr.org/dr-jerry-bergman-evolutions-blunders-frauds-and-fo.html)
 
-$9.99
+$15.00
 
-$19.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5028160/file.jpg)
 
-[](https://store.icr.org/.html)
+Fossil Forensics: Separating Fact from Fantasy in Paleontology](https://store.icr.org/dr-jerry-bergman-fossil-forensics-separating-fact.html)
 
-$
+$14.95
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/6697896/file.jpg)
 
-The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
+How Darwinism Corrodes Morality](https://store.icr.org/dr-jerry-bergman-how-darwinism-corrodes-morality.html)
 
-$14.99
+$25.00
 
-$19.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/26201921/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
+Poor Design: An Invalid Argument Against Intelligent Design](https://store.icr.org/poor-design-an-invalid-argument-against-intelligen.html)
 
-The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
+$14.95
 
-$19.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/26201913/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
+Useless Organs: The Rise and Fall of a Central Claim of Evolution](https://store.icr.org/useless-organs-the-rise-and-fall-of-a-central-clai.html)
 
-The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
-
-$9.99
-
-$19.99
+$14.95
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
