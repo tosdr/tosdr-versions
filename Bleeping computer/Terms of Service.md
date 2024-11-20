@@ -36,18 +36,18 @@
         
         Critical RCE bug in VMware vCenter Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
     
-    * [![D-Link urges users to retire VPN routers impacted by unfixed RCE flaw](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Apple fixes two zero-days used in attacks on Intel-based Macs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        D-Link urges users to retire VPN routers impacted by unfixed RCE flaw](https://www.bleepingcomputer.com/news/security/d-link-urges-users-to-retire-vpn-routers-impacted-by-unfixed-rce-flaw/)
-    * [![Microsoft now testing hotpatch on Windows 11 24H2 and Windows 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Apple fixes two zero-days used in attacks on Intel-based Macs](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-days-used-in-attacks-on-intel-based-macs/)
+    * [![CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft now testing hotpatch on Windows 11 24H2 and Windows 365](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-hotpatch-on-windows-11-24h2-and-windows-365/)
-    * [![Helldown ransomware exploits Zyxel VPN flaw to breach networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
+    * [![Ford investgates alleged breach following customer data leak](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Helldown ransomware exploits Zyxel VPN flaw to breach networks](https://www.bleepingcomputer.com/news/security/helldown-ransomware-exploits-zyxel-vpn-flaw-to-breach-networks/)
-    * [![Botnet fueling residential proxies disrupted in cybercrime crackdown](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ford investgates alleged breach following customer data leak](https://www.bleepingcomputer.com/news/security/ford-investgates-alleged-breach-following-customer-data-leak/)
+    * [![Oracle warns of Agile PLM file disclosure flaw exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Botnet fueling residential proxies disrupted in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/ngioweb-botnet-fueling-residential-proxies-disrupted-in-cybercrime-crackdown/)
+        Oracle warns of Agile PLM file disclosure flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/oracle-warns-of-agile-plm-file-disclosure-flaw-exploited-in-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
