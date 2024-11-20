@@ -89,6 +89,7 @@ Full Menu Menu
         * [Food and Nutrition](https://www.fcps.edu/services/families-and-caregivers/food-and-nutrition)
         * [Safety Tipline](https://www.fcps.edu/tipline)
         * [School Supplies](https://www.fcps.edu/supply-lists)
+        * [Fairfax County Public Library Summer Reading Adventure](https://www.fcps.edu/academics/summer-learning-programs/book-your-summer)
         * [Transportation](https://www.fcps.edu/services/families-and-caregivers/transportation)
     * [Community Resources](https://www.fcps.edu/services/community-resources)
         * [Community Liaisons](https://www.fcps.edu/services/community-resources/community-liaisons)
