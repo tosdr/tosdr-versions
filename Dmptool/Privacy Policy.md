@@ -53,19 +53,19 @@ Privacy statement
 Information about you: how we use it and with whom we share it
 --------------------------------------------------------------
 
-The information you provide will be used by the to offer you access to and personalization of the DMPTool service.
+The information you provide will be used by the University of California Curation Center (UC3) to offer you access to and personalization of the MyApp service.
 
-The University of California Curation Center (UC3) processes the personal data of DMPTool users in order to deliver and improve the DMPTool service in a customized manner and to ensure each user receives relevant information.
+The University of California Curation Center (UC3) processes the personal data of MyApp users in order to deliver and improve the MyApp service in a customized manner and to ensure each user receives relevant information.
 
 The processing of your personal data by the University of California Curation Center (UC3) is necessary for pursuing the following legitimate interests:
 
-* To provide access to the DMPTool service and personalization of your user experience e.g. provision of relevant templates and guidance for your organization.
-* To keep you up to date with news about DMPTool such as new features or improvements, or changes to our Privacy Policy.
+* To provide access to the MyApp service and personalization of your user experience e.g. provision of relevant templates and guidance for your organization.
+* To keep you up to date with news about MyApp such as new features or improvements, or changes to our Privacy Policy.
 * For network and information security purposes.
 
-We will hold the personal data you provided us for as long as you continue using the DMPTool service. Your personal data can be removed from this service upon request to the DMPTool team within a period of 30 days.
+We will hold the personal data you provided us for as long as you continue using the MyApp service. Your personal data can be removed from this service upon request to the MyApp team within a period of 30 days.
 
-If you have any questions, please contact the DMPTool team at: [dmptool@ucop.edu](mailto:dmptool@ucop.edu)
+If you have any questions, please contact the MyApp team at: [helpdesk@email.edu](mailto:helpdesk@email.edu)
 
 * * *
 
@@ -97,5 +97,5 @@ This statement was last revised on May 21st, 2018 and may be revised at any time
 
 ![CDL](/assets/logo-cdl-bcf0b0f9a801df5e34d7127fc76f15111852dd880dd5e0e1734fc2c7c985b130.png)
 
-DMP Tool is a service of the California Digital Library, a division of the University of California Office of the President. Version: v5.27  
+DMP Tool is a service of the California Digital Library, a division of the University of California Office of the President. Version: v5.28  
 © 2024 The Regents of the University of California
