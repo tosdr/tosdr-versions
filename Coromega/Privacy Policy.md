@@ -38,8 +38,6 @@ Your cart is empty
 
 Code: Friday20
 
-Announce [something](#) here
-
 [![Coromega](//coromega.com/cdn/shop/files/2._Coromega_Omega-3Core_-970x300_Slctd_sachet_copy.psd_550x.png?v=1690833114)](https://coromega.com/ "Coromega")
 
 [Account](https://coromega.com/account/login) [Cart](https://coromega.com/cart)
