@@ -201,17 +201,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Popular Articles
 
-[![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-120x86.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-
-### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-
-[16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-
 [![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
 
 ### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
 
 [18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+[![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-120x86.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
+### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
+[16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
 
 [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
@@ -219,23 +219,24 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
-[![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
-
-### [Names revealed for new streets and places in Canada Water](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
-
-[12th November 2024](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
-
 [![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/DSC_7271-2024-11-06T22_12_38.272-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
 
 ### [Loan round-up – Millwall striker helps pile on misery on Dundee](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
 
 [14th November 2024](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
 
-[![Image by Steve Ullathorne](https://southwarknews.co.uk/wp-content/uploads/2024/11/daliso-chaponda_0086_photo-by-steve-ullathorne-1400x1400-1-1024x1024-1-e1731436687311-120x86.jpg)](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
+[![Tom Bradshaw in action for the Lions against Stoke City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/T-Bradshaw-1218754-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/several-senior-millwall-players-feature-in-under-21s-draw-with-sheffield-wednesday/)
 
-### [12 things to do in South London from now til the end of November](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
+### [Several senior Millwall players feature in under-21s draw with Sheffield Wednesday](https://southwarknews.co.uk/sport/football/millwall/several-senior-millwall-players-feature-in-under-21s-draw-with-sheffield-wednesday/)
 
-[12th November 2024](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
+[14th November 2024](https://southwarknews.co.uk/sport/football/millwall/several-senior-millwall-players-feature-in-under-21s-draw-with-sheffield-wednesday/)
+
+[![The last remaining gasholder in Rotherhithe will be dismantled. 
+Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-last-remaining-gasholder-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
+
+### [Over 150 new homes approved on former gasworks despite residents’ concerns about contaminated land](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/) 
+
+[13th November 2024](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
 
 ### Featured Articles
 
