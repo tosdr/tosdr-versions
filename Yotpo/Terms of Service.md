@@ -11,7 +11,7 @@
     * * [Our Products](#)
         * [SMS Marketing
             
-            Reach shoppers anywhere with mobile experiences that convert.](https://www.yotpo.com/platform/sms/)
+            Reach shoppers anywhere with mobile experiences that convert.](https://www.yotpo.com/platform/sms-marketing/)
         * [Reviews & UGC
             
             Collect and display customer content across the buyer journey.](https://www.yotpo.com/platform/reviews/)
@@ -296,7 +296,7 @@ Previous Versions:
 Platform
 
 * [Platform](https://www.yotpo.com/platform/)
-* [SMS](https://www.yotpo.com/platform/sms/)
+* [SMS](https://www.yotpo.com/platform/sms-marketing/)
 * [Reviews & UGC](https://www.yotpo.com/platform/reviews/)
 * [Loyalty & Referrals](https://www.yotpo.com/platform/loyalty/)
 * [Subscriptions](https://www.yotpo.com/platform/subscriptions/)
