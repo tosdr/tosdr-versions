@@ -303,11 +303,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
 [Children and Young Peoples’ Privacy Policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm)
 
-"Spellzone really is an incredibly simple, engaging and cost effective resource - it makes a big difference to literacy levels."
+"I would like to thank you so much for this great website. I have always been ashamed of my spelling but after a few lessons I am already better. It is filling in all the gaps. Thanks."
 
-**Millthorpe School, York**
-
-[read more...](https://www.spellzone.com/pages/case-studies/millthorpe.cfm)
+**Student, France**
 
 ### Curriculum...
 
