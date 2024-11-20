@@ -1,7 +1,5 @@
     
 
-    
-
         [Skip to content](#MainContent)
 
 **Free Standard Shipping When You Spend $50+**
@@ -157,6 +155,7 @@ Search
     * [Shopping for something special? Let us help!](https://areyougame.com/pages/gift-finder)
 * [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
 * [SALE](https://areyougame.com/collections/warehouse-clearance)
+* [LIVE SHOPPING](https://areyougame.com/pages/live-shopping)
 
 * [](https://www.facebook.com/AreYouGameCom)
 * [](https://www.youtube.com/channel/UCVXt37urmmPzWfGODMUp7Pw)
@@ -325,6 +324,7 @@ Search
     
 * [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
 * [SALE](https://areyougame.com/collections/warehouse-clearance)
+* [LIVE SHOPPING](https://areyougame.com/pages/live-shopping)
 * [More links](#)
     
 
