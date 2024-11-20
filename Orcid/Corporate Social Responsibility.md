@@ -141,6 +141,7 @@ MENUMENU
                 * [ORCID Statistics](https://info.orcid.org/resources/orcid-statistics/)
                 * [ORCID Outreach Resources](https://info.orcid.org/outreach-resources/)
                 * [ORCID Brand Guidelines](https://info.orcid.org/brand-guidelines/)
+                * [ORCID iD display guidelines](https://info.orcid.org/documentation/integration-guide/orcid-id-display-guidelines/)
                 * [ORCID Brand Library](https://orcid.filecamp.com/s/o/Iid96tVDBM5DSquE)
 * [News & Events](https://info.orcid.org/news-events/)
     * * * [News](https://info.orcid.org/)
