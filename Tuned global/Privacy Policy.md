@@ -101,13 +101,13 @@
     
     #### [News & Press](https://blog.tunedglobal.com/news?hsLang=en)
     
+    [![](https://www.tunedglobal.com/hubfs/tunedglobal-soundstripe.jpg)](https://blog.tunedglobal.com/news/bartune-xtuned-global?hsLang=en)
+    
+    [BarTunes launches with Tuned Global as technical partner](https://blog.tunedglobal.com/news/bartune-xtuned-global?hsLang=en)
+    
     [![](https://www.tunedglobal.com/hubfs/tunedglobal-soundstripe.jpg)](https://blog.tunedglobal.com/news/tuned-global-soundstripe-commercial-musi-licesing-for-video?hsLang=en)
     
     [Soundstripe and Tuned Global Partner to Streamline Commercial Music Licensing for Creators](https://blog.tunedglobal.com/news/tuned-global-soundstripe-commercial-musi-licesing-for-video?hsLang=en)
-    
-    [![](https://www.tunedglobal.com/hubfs/panel-music-gaming-vickie-naumann-tunedglobal-riot-games-blog-1.jpg)](https://blog.tunedglobal.com/news/music-tectonics-2024-how-gaming-is-shaping-musics-future?hsLang=en)
-    
-    [Music Tectonics 2024: How Gaming is Shaping Music’s Future](https://blog.tunedglobal.com/news/music-tectonics-2024-how-gaming-is-shaping-musics-future?hsLang=en)
     
     [More News](https://blog.tunedglobal.com/news?hsLang=en)
     
