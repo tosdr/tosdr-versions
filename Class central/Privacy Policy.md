@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [10 Best Lean Six Sigma Courses for 2024](https://www.classcentral.com/report/best-lean-six-sigma-courses/)
-2. [8 Best WordPress Courses for 2024](https://www.classcentral.com/report/best-wordpress-courses/)
-3. [175 Online Classes to Help You Become a Better Parent](https://www.classcentral.com/report/parenting-online-courses/)
-4. [250+ Free Courses on Sustainable Development Goals](https://www.classcentral.com/report/sustainability-courses-free-certificate/)
-5. [Class Action: 50,000 Seek Payouts, Costing Coursera, Udemy Millions](https://www.classcentral.com/report/coursera-udemy-data-privacy-class-action/)
+1. [Why Duolingo is Worth More Than Coursera and Udemy Combined](https://www.classcentral.com/report/duolingo-vs-coursera-udemy-worth-comparison/)
+2. [10 Best Adobe After Effects Courses for 2024](https://www.classcentral.com/report/best-adobe-after-effects-courses/)
+3. [Black Friday 2024: 25+ Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
+4. [10 Best Lean Six Sigma Courses for 2024](https://www.classcentral.com/report/best-lean-six-sigma-courses/)
+5. [8 Best WordPress Courses for 2024](https://www.classcentral.com/report/best-wordpress-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. java
+1. excel
     
-2. marketing
+2. sql
     
 3. finance
     
 
 Popular subjects
 
-1. [Data Analysis
+1. [Computer Science
     
-    8,807 courses](https://www.classcentral.com/subject/data-analysis)
-2. [Digital Marketing
+    43,410 courses](https://www.classcentral.com/subject/cs)
+2. [Data Analysis
     
-    6,269 courses](https://www.classcentral.com/subject/digital-marketing)
-3. [Artificial Intelligence
+    8,811 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Computer Networking
     
-    13,863 courses](https://www.classcentral.com/subject/ai)
+    1,746 courses](https://www.classcentral.com/subject/computer-networking)
 
 Popular courses
 
-1. [Positive Psychiatry and Mental Health
+1. [Computational Social Science Methods
     
-    The University of Sydney](https://www.classcentral.com/course/positive-psychiatry-8783)
-2. [Introduction to Genetics and Evolution
+    University of California, Davis](https://www.classcentral.com/course/computational-social-science-methods-17299)
+2. [The Science of Gastronomy
     
-    Duke University](https://www.classcentral.com/course/geneticsevolution-381)
-3. [The Ancient Greeks
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/scigast-519)
+3. [De-Mystifying Mindfulness
     
-    Wesleyan University](https://www.classcentral.com/course/ancientgreeks-502)
+    Leiden University](https://www.classcentral.com/course/mindfulness-6951)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
