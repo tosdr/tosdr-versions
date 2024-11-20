@@ -59,7 +59,7 @@ Featured links
 
 * [Red Hat Enterprise LinuxA flexible, stable operating system to support hybrid cloud innovation.](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 * [Red Hat OpenShiftA container platform to build, modernize, and deploy applications at scale.](https://www.redhat.com/en/technologies/cloud-computing/openshift)
-* [Red Hat Ansible Automation PlatformA foundation for implementing enterprise-wide automation.](https://www.redhat.com/en/technologies/management/ansible)
+* [Red Hat Ansible Automation PlatformNew versionA foundation for implementing enterprise-wide automation.](https://www.redhat.com/en/technologies/management/ansible)
 
 ### Try & buy
 
