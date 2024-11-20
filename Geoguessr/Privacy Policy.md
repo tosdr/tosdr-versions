@@ -152,8 +152,6 @@ Katarinavägen 17,
 
 This Privacy Statement was last updated on 28/06/2024
 
-![](/_next/static/media/notifications-disabled.e5a3a203.svg)
-
 Friends
 
 Notifications
