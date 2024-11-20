@@ -1,9 +1,10 @@
 [Skip to Main Content](#mainContent)
 
+* NLOK
 * [/](https://www.nortonlifelock.com/gb/en/global/)
 * Support![Expand](/etc.clientlibs/nortonlifelock/clientlibs/clientlib-site/resources/images/c-nav__expand_arrow_1a1a1a.svg)
     * [Norton Support](https://support.norton.com/?inid=nortonlifelock.com_norton.com)
-    * [LifeLock Support](https://memberportal.lifelock.com/support/?inid=nortonlifelock.com_lifelock.com)
+    * [LifeLock Support](https://support.norton.com/lifelock/en/us/home/current/help-center?inid=lifelock_nav_help-center_home)
 * Sign In![Expand](/etc.clientlibs/nortonlifelock/clientlibs/clientlib-site/resources/images/c-nav__expand_arrow_1a1a1a.svg)
     * [Norton Sign In](https://my.norton.com/extspa/dashboard/?inid=nortonlifelock.com_norton.com)
     * [LifeLock Sign In](https://memberportal.lifelock.com/?inid=nortonlifelock.com_lifelock.com)
@@ -81,7 +82,7 @@
 
 [Norton Support](https://support.norton.com/?inid=nortonlifelock.com_norton.com)
 
-[LifeLock Support](https://memberportal.lifelock.com/support/?inid=nortonlifelock.com_lifelock.com)
+[LifeLock Support](https://support.norton.com/lifelock/en/us/home/current/help-center?inid=lifelock_nav_help-center_home)
 
 [Norton Sign In](https://my.norton.com/extspa/dashboard/?inid=nortonlifelock.com_norton.com)
 
