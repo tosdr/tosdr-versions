@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![James Camron Voyage To The Bottom Of The Earth](/wp-content/thumbnails/6787-100x70.jpg?x53432)
+* [![Meningitis: Search For A Cure](/wp-content/thumbnails/13195-100x70.jpg?x53432)
     
-    James Camron Voyage To The Bottom Of The Earth
+    Meningitis: Search For A Cure
     
-    Plunging to the virtually unknown depths of the Mariana Trench, James Cameron's DEEPSEA CHALLENGE expedition takes this National Geographic Explorer deeper and further than any filmmaker or solo explo](https://documentaryheaven.com/james-camron-voyage-to-the-bottom-of-the-earth/ "James Camron Voyage To The Bottom Of The Earth")
-* [![WACO: The Rules of Engagement](/wp-content/thumbnails/2412-100x70.jpg?x53432)
+    Meningitis: Search For A Cure examines the very serious meningococcal bacteria which if it enters the human blood stream can kill within hours. Over the last ten years new research has unraveled some](https://documentaryheaven.com/meningitis-search-for-cure/ "Meningitis: Search For A Cure")
+* [![An Inconvenient Border](/wp-content/thumbnails/13551-100x70.jpg?x53432)
     
-    WACO: The Rules of Engagement
+    An Inconvenient Border
     
-    We realize that you have the ability, and it’s not below you people, to do something like to erase all evidences. Why do you have the press so far back? You can give me any kind of crap you want, I kn](https://documentaryheaven.com/waco-the-rules-of-engagement/ "WACO: The Rules of Engagement")
-* [![Bruce Lee: A Warrior’s Journey](/wp-content/thumbnails/2476-100x70.jpg?x53432)
+    The relationship between China and North Korea has always been complicated, China's Mao Zedong famously said that the two countries were as close as lips and teeth. A relationship forged in blood and](https://documentaryheaven.com/an-inconvenient-border/ "An Inconvenient Border")
+* [![Quantum Leap](/wp-content/thumbnails/9318-100x70.jpg?x53432)
     
-    Bruce Lee: A Warrior’s Journey
+    Quantum Leap
     
-    Bruce Lee was inarguably the greatest martial arts star of his generation, and his intense on-screen charisma and astounding fighting skills make him the standard by which other martial arts heroes ar](https://documentaryheaven.com/bruce-lee-a-warriors-journey/ "Bruce Lee: A Warrior’s Journey")
-* [![Trial of Henry Kissinger](/wp-content/thumbnails/26-100x70.png?x53432)
+    Lying just below everyday reality is a breath-taking world, where much of what we perceive about the universe is wrong. In this film best selling author and physicist Brian Green takes us on a journey](https://documentaryheaven.com/quantum-leap/ "Quantum Leap")
+* [![Killing Gaza](/wp-content/thumbnails/16523-100x70.jpg?x53432)
     
-    Trial of Henry Kissinger
+    Killing Gaza
     
-    THE TRIALS OF HENRY KISSINGER, a documentary based on the book by British journalist Christopher Hitchens, argues that Kissinger, the former U.S. Secretary of State and the recipient of the Nobel Peac](https://documentaryheaven.com/trial-of-henry-kissinger/ "Trial of Henry Kissinger")
-* [![Phoning from the Philippines](/wp-content/thumbnails/6993-100x70.jpg?x53432)
+    Killing Gaza is a film created by two independent journalists Max Blumenthal and Dan Cohen, it is a detailed account of Israel’s 2014 assault on Gaza, a conflict that lasted 7 weeks (8 July – 26 Aug](https://documentaryheaven.com/killing-gaza/ "Killing Gaza")
+* [![7/7 Ludicrous Diversion](/wp-content/thumbnails/1271-100x70.jpg?x53432)
     
-    Phoning from the Philippines
+    7/7 Ludicrous Diversion
     
-    Move over India – Manila is the new call center capital of the world. With its English-speaking workforce, geopolitical stability and embracement of Western culture, the Philippines is fast becoming t](https://documentaryheaven.com/phoning-from-the-philippines/ "Phoning from the Philippines")
+    So if you genuinely believe that it is unlikely or even impossible that the police would ever fabricate evidence in order to give the appearance of having solved a crime, it is time to reassess your b](https://documentaryheaven.com/77-ludicrous-diversion/ "7/7 Ludicrous Diversion")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
