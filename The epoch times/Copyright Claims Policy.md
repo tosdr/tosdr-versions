@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [FDIC Chair to Step Down, Clearing the Way for Change Under Trump](https://www.theepochtimes.com/business/fdic-chair-to-step-down-clearing-the-way-for-change-under-trump-5762032)
+* [Biden Urges World Leaders to Keep Focus on Climate](https://www.theepochtimes.com/us/biden-urges-world-leaders-to-keep-focus-on-climate-5762661)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    NEW By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![FDIC Chair to Step Down, Clearing the Way for Change Under Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Urges World Leaders to Keep Focus on Climate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FDIC Chair to Step Down, Clearing the Way for Change Under Trump](https://img.theepochtimes.com/assets/uploads/2024/05/21/id5654124-Martin-Gruenberg-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/fdic-chair-to-step-down-clearing-the-way-for-change-under-trump-5762032)
-* [Trump Selects Dr. Oz to Run Centers for Medicare and Medicaid Services](https://www.theepochtimes.com/us/trump-names-dr-oz-to-lead-centers-for-medicare-and-medicaid-services-5762527)
+    ![Biden Urges World Leaders to Keep Focus on Climate](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762670-Biden-at-G20-in-Brazil_2-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-urges-world-leaders-to-keep-focus-on-climate-5762661)
+* [New York Times’ Attacks Detached From Reality, Shen Yun Artists Say](https://www.theepochtimes.com/us/new-york-times-attacks-detached-from-reality-shen-yun-artists-say-5762648)
     
-    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    NEW By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
     
-    [![Trump Selects Dr. Oz to Run Centers for Medicare and Medicaid Services](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![New York Times’ Attacks Detached From Reality, Shen Yun Artists Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Selects Dr. Oz to Run Centers for Medicare and Medicaid Services](https://img.theepochtimes.com/assets/uploads/2022/10/26/Dr-Oz-GettyImages-1243945965-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-dr-oz-to-lead-centers-for-medicare-and-medicaid-services-5762527)
-* [Hidden in Plain Sight: How Everyday Items Fill Our Bodies With Microplastics](https://www.theepochtimes.com/health/hidden-in-plain-sight-how-everyday-items-fill-our-bodies-with-microplastics-5759666)
+    ![New York Times’ Attacks Detached From Reality, Shen Yun Artists Say](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762448-DSC04963-e-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-times-attacks-detached-from-reality-shen-yun-artists-say-5762648)
+* [Trump Promises to Use Recess Appointments If Needed, but What Are They?](https://www.theepochtimes.com/article/trump-promises-to-use-recess-appointments-if-needed-but-what-are-they-5762526)
     
-    1hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
+    1hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Hidden in Plain Sight: How Everyday Items Fill Our Bodies With Microplastics](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Promises to Use Recess Appointments If Needed, but What Are They?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Hidden in Plain Sight: How Everyday Items Fill Our Bodies With Microplastics](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762458-shutterstock_1145466350_microplastic_plastic_nanoplastic_clothes_recycled_plastic-205x123.jpg.webp)](https://www.theepochtimes.com/health/hidden-in-plain-sight-how-everyday-items-fill-our-bodies-with-microplastics-5759666)
-* [Some Americans Say They Skipped Meals to Afford Housing Payment: Report](https://www.theepochtimes.com/us/some-americans-skipped-meals-to-afford-housing-payment-report-5762416)
+    ![Trump Promises to Use Recess Appointments If Needed, but What Are They?](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762676-Recess-appointments-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/trump-promises-to-use-recess-appointments-if-needed-but-what-are-they-5762526)
+* [Trump Chooses Linda McMahon for Education Secretary](https://www.theepochtimes.com/us/trump-chooses-linda-mcmahon-for-education-secretary-5762773)
     
-    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    2hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
-    [![Some Americans Say They Skipped Meals to Afford Housing Payment: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Chooses Linda McMahon for Education Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Some Americans Say They Skipped Meals to Afford Housing Payment: Report](https://img.theepochtimes.com/assets/uploads/2024/04/07/id5623737-New-York-home-for-sale-GettyImages-1310155972-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/some-americans-skipped-meals-to-afford-housing-payment-report-5762416)
-* [CDC Issues Health Alert After More Aggressive Mpox Strain Found in US for 1st Time](https://www.theepochtimes.com/health/cdc-issues-health-alert-after-more-aggressive-mpox-strain-found-in-us-for-1st-time-5762412)
+    ![Trump Chooses Linda McMahon for Education Secretary](https://img.theepochtimes.com/assets/uploads/2018/05/23/Linda-McMahon_NPC-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-chooses-linda-mcmahon-for-education-secretary-5762773)
+* [US Is Preparing New Sanctions Over Sentencing of 45 Activists in Hong Kong: State Department](https://www.theepochtimes.com/china/us-is-preparing-new-sanctions-over-sentencing-of-45-activists-in-hong-kong-state-department-5762445)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    2hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
     
-    [![CDC Issues Health Alert After More Aggressive Mpox Strain Found in US for 1st Time](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Is Preparing New Sanctions Over Sentencing of 45 Activists in Hong Kong: State Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![CDC Issues Health Alert After More Aggressive Mpox Strain Found in US for 1st Time](https://img.theepochtimes.com/assets/uploads/2024/11/id5760988-1.download-11-205x123.jpg.webp)](https://www.theepochtimes.com/health/cdc-issues-health-alert-after-more-aggressive-mpox-strain-found-in-us-for-1st-time-5762412)
-* [1 in 5 Americans Get Political News From Social Media Influencers: Pew Research](https://www.theepochtimes.com/us/1-in-5-americans-get-political-news-from-social-media-influencers-pew-research-5762331)
+    ![US Is Preparing New Sanctions Over Sentencing of 45 Activists in Hong Kong: State Department](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762464-GettyImages-2184864156-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-is-preparing-new-sanctions-over-sentencing-of-45-activists-in-hong-kong-state-department-5762445)
+* [SpaceX Calls Off Catch Attempt of Starship Rocket Booster in New Test Flight](https://www.theepochtimes.com/science/spacex-calls-off-catch-attempt-of-starship-rocket-booster-in-new-test-flight-5762643)
     
-    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![1 in 5 Americans Get Political News From Social Media Influencers: Pew Research](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![SpaceX Calls Off Catch Attempt of Starship Rocket Booster in New Test Flight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![1 in 5 Americans Get Political News From Social Media Influencers: Pew Research](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721604-GettyImages-2081068958.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/1-in-5-americans-get-political-news-from-social-media-influencers-pew-research-5762331)
-* [Congress Indicates Bipartisan Support for Biden’s $100 Billion Disaster Relief Package](https://www.theepochtimes.com/us/congress-indicates-bipartisan-support-for-bidens-100-billion-disaster-relief-package-5762345)
+    ![SpaceX Calls Off Catch Attempt of Starship Rocket Booster in New Test Flight](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762734-SpaceX-Launch-205x123.jpg.webp)](https://www.theepochtimes.com/science/spacex-calls-off-catch-attempt-of-starship-rocket-booster-in-new-test-flight-5762643)
+* [5 Undecided House Races Will Determine Size of GOP’s Narrow Majority](https://www.theepochtimes.com/us/5-undecided-house-races-will-determine-size-of-gops-narrow-majority-5762309)
     
-    2hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    4hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
     
-    [![Congress Indicates Bipartisan Support for Biden’s $100 Billion Disaster Relief Package](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![5 Undecided House Races Will Determine Size of GOP’s Narrow Majority](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Congress Indicates Bipartisan Support for Biden’s $100 Billion Disaster Relief Package](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762551-11192024-DSC09797-House-Republicans-Mike-Johnson-Emmer-Scalise-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/congress-indicates-bipartisan-support-for-bidens-100-billion-disaster-relief-package-5762345)
-* [Homeland Security Deports 109 Chinese Illegal Immigrants on Charter Flight](https://www.theepochtimes.com/china/homeland-security-deports-109-chinese-illegal-immigrants-on-charter-flight-5762329)
+    ![5 Undecided House Races Will Determine Size of GOP’s Narrow Majority](https://img.theepochtimes.com/assets/uploads/2024/11/15/id5760491-11132024-DSC09218-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-undecided-house-races-will-determine-size-of-gops-narrow-majority-5762309)
+* [Alex Jones Sues Sandy Hook Parents, The Onion to Stop Infowars Sale](https://www.theepochtimes.com/us/alex-jones-sues-sandy-hook-parents-the-onion-to-stop-infowars-sale-5762437)
     
-    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    4hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![Homeland Security Deports 109 Chinese Illegal Immigrants on Charter Flight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Alex Jones Sues Sandy Hook Parents, The Onion to Stop Infowars Sale](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Homeland Security Deports 109 Chinese Illegal Immigrants on Charter Flight](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762556-08122024-DSC00239-DHS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/homeland-security-deports-109-chinese-illegal-immigrants-on-charter-flight-5762329)
-* [FEMA Chief: ‘No Evidence’ Senior Officials Ordered Discrimination Against Trump Supporters](https://www.theepochtimes.com/us/fema-chief-no-evidence-senior-officials-ordered-discrimination-against-trump-supporters-5762419)
+    ![Alex Jones Sues Sandy Hook Parents, The Onion to Stop Infowars Sale](https://img.theepochtimes.com/assets/uploads/2020/04/10/Alex-Jones-205x123.jpg.webp)](https://www.theepochtimes.com/us/alex-jones-sues-sandy-hook-parents-the-onion-to-stop-infowars-sale-5762437)
+* [Treasury Expands Committee’s Powers to Scrutinize Foreign Investment in US](https://www.theepochtimes.com/us/treasury-expands-committees-powers-to-scrutinize-foreign-investment-in-us-5762474)
     
-    2hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![FEMA Chief: ‘No Evidence’ Senior Officials Ordered Discrimination Against Trump Supporters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Treasury Expands Committee’s Powers to Scrutinize Foreign Investment in US](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FEMA Chief: ‘No Evidence’ Senior Officials Ordered Discrimination Against Trump Supporters](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762377-11192024-DSC09904-Deanne-Criswell-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-chief-no-evidence-senior-officials-ordered-discrimination-against-trump-supporters-5762419)
-* [Trump Selects Howard Lutnick as Commerce Secretary](https://www.theepochtimes.com/us/trump-selects-howard-lutnick-as-commerce-secretary-5762343)
+    ![Treasury Expands Committee’s Powers to Scrutinize Foreign Investment in US](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734755-10032024-L1150690-Treasury-Department-205x123.jpg.webp)](https://www.theepochtimes.com/us/treasury-expands-committees-powers-to-scrutinize-foreign-investment-in-us-5762474)
+* [Ukraine Fires US-Made Long-Range Missiles for First Time—What Does This Mean?](https://www.theepochtimes.com/world/ukraine-takes-aim-at-targets-in-russia-amid-reports-of-us-policy-shift-5762324)
     
-    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    5hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
     
-    [![Trump Selects Howard Lutnick as Commerce Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Ukraine Fires US-Made Long-Range Missiles for First Time—What Does This Mean?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Selects Howard Lutnick as Commerce Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762559-Howard-Lutnick-GettyImages-2171390481-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-howard-lutnick-as-commerce-secretary-5762343)
+    ![Ukraine Fires US-Made Long-Range Missiles for First Time—What Does This Mean?](https://img.theepochtimes.com/assets/uploads/2017/08/11/GettyImages-824113236-205x123.jpg.webp)](https://www.theepochtimes.com/world/ukraine-takes-aim-at-targets-in-russia-amid-reports-of-us-policy-shift-5762324)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
