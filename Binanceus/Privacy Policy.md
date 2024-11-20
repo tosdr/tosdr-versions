@@ -5,7 +5,6 @@
 * Trade
     
 * [Staking](https://www.binance.us/staking)
-* [Pay](https://www.binance.us/pay)
 * Institutions
     
 
@@ -254,7 +253,6 @@ Miami, FL 33127
     * [Spot Trading](https://www.binance.us/spot-trade/btc_usd)
     * [OTC](https://www.binance.us/otc)
     * [Staking](https://www.binance.us/staking)
-    * [Pay](https://www.binance.us/pay)
     * [Institutions](https://www.binance.us/institutions)
     * [Crypto Domains](https://www.binance.us/crypto-domains)
 * ### Support
