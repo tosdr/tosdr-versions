@@ -47,7 +47,7 @@ Waze Privacy & Terms
 2. Terms of Use
     ------------
     
-    Welcome to Waze! These Terms of Use (“Terms”) govern your rights and obligations regarding the use of Waze’s Software (“Software”) and service (both collectively referred to as the “Service”) on the Internet or in cellular media. These Terms constitute a fully binding agreement between Waze Mobile Ltd. (including its affiliates and subsidiaries, “Waze” or “We”) the proprietor of all rights in and to the Service, and you. It is therefore recommended that you carefully read these Terms. By using the Waze Service, you signify your assent to these Terms; Waze’s privacy policy (“Privacy Policy”); a…
+    Welcome to Waze! These Terms of Use (“Terms”) govern your rights and obligations regarding the use of Waze’s application (the “App”) and website- www.waze.com (the “Site”, and together with the App is hereafter referred to as the “Service”). These Terms constitute a fully binding agreement between you and Waze Mobile Ltd., including its Google affiliates and subsidiaries, (“Waze” or “We”), the proprietor of all rights in and to the Service, and you. It is therefore recommended that you carefully read these Terms. These Terms constitute a fully binding agreement between Waze Mobile Ltd., includ…
     
     [Read more](https://www.waze.com/waze/answer/12373727 "Read more")
     
@@ -75,7 +75,7 @@ Waze Privacy & Terms
 6. Waze Privacy Policy
     -------------------
     
-    Waze Mobile Limited respects your privacy. Waze Mobile Limited and its affiliates (“Waze” or the “Company”) offer mapping, GPS navigation, community based services to users of www.waze.com (the “Website”) and/or users of Waze’s applications (the “Application”) (collectively referred to as the “Services”). When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control. This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can…
+    Waze Mobile Limited respects your privacy. Waze Mobile Limited and its affiliates (“Waze” or the “Company”) offer mapping, GPS navigation, community based services to users of www.waze.com (the “Website”) and/or users of Waze’s applications (the “Application”) (collectively referred to as the “Services”). When you use our services, you’re trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control. This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can…
     
     [Read more](https://www.waze.com/waze/answer/12075406 "Read more")
     
@@ -106,7 +106,7 @@ Google apps
 
 Main menu
 
-4721130240802360807
+9498177143822783111
 
 true
 
