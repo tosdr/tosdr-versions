@@ -226,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Announces Virtual Workshop on Predatory Pricing](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-announces-virtual-workshop-predatory-pricing)
+    ### [FTC Sends More Than $140,000 to Consumers Deceived by False Made in USA Claims by Chaucer Accessories and Bates Accessories](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-sends-more-140000-consumers-deceived-false-made-usa-claims-chaucer-accessories-bates-accessories)
     
-    November 18, 2024
+    November 20, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
