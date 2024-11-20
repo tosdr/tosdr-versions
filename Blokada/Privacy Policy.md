@@ -145,10 +145,10 @@ This Privacy policy may be updated and, in such case, a new version will be publ
 
 | Topic |     | Replies | Views | Activity |
 | --- | --- | --- | --- | --- |
-| [Blokada Cloud Privacy Policy](https://community.blokada.org/t/blokada-cloud-privacy-policy/16982)<br><br>[Press](https://community.blokada.org/c/press/24)<br><br>[blokada-cloud](https://community.blokada.org/tag/blokada-cloud) | 0   | 25921 | September 25, 2021 |
-| [Terms of Service](https://community.blokada.org/t/terms-of-service/4)<br><br>[Press](https://community.blokada.org/c/press/24)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) | 1   | 218906 | December 5, 2021 |
-| [Ignorance about blokada VPN](https://community.blokada.org/t/ignorance-about-blokada-vpn/9660)<br><br>[Support](https://community.blokada.org/c/support/21) | 2   | 3346 | January 24, 2021 |
-| [What is Blokada Plus (VPN)?](https://community.blokada.org/t/what-is-blokada-plus-vpn/37)<br><br>[FAQ](https://community.blokada.org/c/guides/common-questions-faq/14)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) ,  [linked](https://community.blokada.org/tag/linked) ,  [android](https://community.blokada.org/tag/android) ,  [ios](https://community.blokada.org/tag/ios) | 28  | 580525 | December 12, 2021 |
+| [Blokada Cloud Privacy Policy](https://community.blokada.org/t/blokada-cloud-privacy-policy/16982)<br><br>[Press](https://community.blokada.org/c/press/24)<br><br>[blokada-cloud](https://community.blokada.org/tag/blokada-cloud) | 0   | 25922 | September 25, 2021 |
+| [Terms of Service](https://community.blokada.org/t/terms-of-service/4)<br><br>[Press](https://community.blokada.org/c/press/24)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) | 1   | 218953 | December 5, 2021 |
+| [Ignorance about blokada VPN](https://community.blokada.org/t/ignorance-about-blokada-vpn/9660)<br><br>[Support](https://community.blokada.org/c/support/21) | 2   | 3347 | January 24, 2021 |
+| [What is Blokada Plus (VPN)?](https://community.blokada.org/t/what-is-blokada-plus-vpn/37)<br><br>[FAQ](https://community.blokada.org/c/guides/common-questions-faq/14)<br><br>[blokada-plus](https://community.blokada.org/tag/blokada-plus) ,  [linked](https://community.blokada.org/tag/linked) ,  [android](https://community.blokada.org/tag/android) ,  [ios](https://community.blokada.org/tag/ios) | 28  | 580553 | December 12, 2021 |
 | [What is Blokada?](https://community.blokada.org/t/what-is-blokada/23)<br><br>[Guides](https://community.blokada.org/c/guides/12)<br><br>[getting-started](https://community.blokada.org/tag/getting-started) ,  [android](https://community.blokada.org/tag/android) ,  [ios](https://community.blokada.org/tag/ios) | 0   | 9399 | June 16, 2020 |
 
 * [Home](https://community.blokada.org/)
