@@ -99,25 +99,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Left, to right: Jakob Scott and Caylin Opal Marie Monroe (Warrick County Sheriff's Department). Inset: Silas Scott (Tribute Archive).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/indianababymurder-432x243.jpg)](https://lawandcrime.com/crime/mother-who-sometimes-would-forget-to-feed-her-infant-son-who-starved-to-death-gets-65-years-in-prison/)
+1. [![Edward Richmond, Jr. (U.S. Attorney's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/01/Edward-Richmond-Jr-1-432x243.jpg)](https://lawandcrime.com/high-profile/well-break-you-motherf-army-vet-court-martialed-for-shooting-handcuffed-iraqi-in-the-head-is-going-to-prison-for-fighting-cops-guarding-the-capitol-on-jan-6/)
     
-    ### [Mother who sometimes 'would forget' to feed her infant son who starved to death gets 65 years in prison](https://lawandcrime.com/crime/mother-who-sometimes-would-forget-to-feed-her-infant-son-who-starved-to-death-gets-65-years-in-prison/)
+    ### ['We'll break you motherf-----!': Army vet court-martialed for shooting handcuffed Iraqi in the head is going to prison for fighting cops guarding the Capitol on Jan. 6](https://lawandcrime.com/high-profile/well-break-you-motherf-army-vet-court-martialed-for-shooting-handcuffed-iraqi-in-the-head-is-going-to-prison-for-fighting-cops-guarding-the-capitol-on-jan-6/)
     
-2. [![Micaiah Joseph (U.S. Attorney's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/jan6-9-432x243.jpg)](https://lawandcrime.com/high-profile/obama-appointed-judge-gives-tri-corn-hat-wearing-jan-6-rioter-who-was-dressed-for-battle-3-year-prison-sentence/)
+2. [![Inset: Reggie Brown (Brown family). Background: The alley where he was allegedly beaten to death by five teen girls (WJLA).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-432x243.jpg)](https://lawandcrime.com/crime/girls-ages-12-and-14-who-took-selfies-after-killing-disabled-man-because-they-were-bored-are-headed-to-juvenile-detention/)
     
-    ### [Obama-appointed judge gives tri-corn hat-wearing Jan. 6 rioter who was 'dressed for battle' 3-year prison sentence](https://lawandcrime.com/high-profile/obama-appointed-judge-gives-tri-corn-hat-wearing-jan-6-rioter-who-was-dressed-for-battle-3-year-prison-sentence/)
+    ### [Girls, ages 12 and 14, who took selfies after killing disabled man because they 'were bored' are headed to juvenile detention](https://lawandcrime.com/crime/girls-ages-12-and-14-who-took-selfies-after-killing-disabled-man-because-they-were-bored-are-headed-to-juvenile-detention/)
     
-3. [![Jebea Johnson](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Jebea-Johnson-432x243.jpg)](https://lawandcrime.com/crime/dumbest-criminal-inmate-tries-to-put-out-hit-on-gang-member-using-code-words-on-jail-phone-cops-say/)
+3. [![From top left, clockwise: Lisa Mitchell, Anthony Yonko, David Yonko, Tiffany Mitchell (Oklahoma County Detention Center).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/sdfasdf-432x243.jpg)](https://lawandcrime.com/crime/starving-7-year-old-who-had-mouth-glued-shut-died-in-diaper-meant-for-3-year-old-police/)
     
-    ### ['Dumbest criminal': Inmate tries to put out hit on gang member using code words on jail phone, cops say](https://lawandcrime.com/crime/dumbest-criminal-inmate-tries-to-put-out-hit-on-gang-member-using-code-words-on-jail-phone-cops-say/)
+    ### [Starving 7-year-old who had 'mouth glued shut' dies in diaper meant for 3-year-old: Police](https://lawandcrime.com/crime/starving-7-year-old-who-had-mouth-glued-shut-died-in-diaper-meant-for-3-year-old-police/)
     
-4. [![Joseph Brandon Gerdvil (Orange County Sheriff's Department).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Joseph-Brandon-Gerdvil-432x243.jpg)](https://lawandcrime.com/video/i-just-called-to-say-i-love-you-man-belts-out-tina-turner-stevie-wonder-after-allegedly-decapitating-parents-bodycam-shows/)
+4. [![Topgolf shooting Colorado](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Topgolf-shooting-432x243.jpg)](https://lawandcrime.com/video/video-shows-topgolf-murderer-unloading-12-shots-at-co-worker-in-parking-lot-before-laughing-as-he-made-his-getaway/)
     
-    ### ['I just called to say I love you': Man belts out Tina Turner, Stevie Wonder after allegedly decapitating parents, bodycam shows](https://lawandcrime.com/video/i-just-called-to-say-i-love-you-man-belts-out-tina-turner-stevie-wonder-after-allegedly-decapitating-parents-bodycam-shows/)
+    ### [Video shows Topgolf murderer unloading 12 shots at co-worker in parking lot before laughing as he made his getaway](https://lawandcrime.com/video/video-shows-topgolf-murderer-unloading-12-shots-at-co-worker-in-parking-lot-before-laughing-as-he-made-his-getaway/)
     
-5. [![lululemon shoplifting suspects](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Lululemon-shoplifting--432x243.jpg)](https://lawandcrime.com/video/gonna-run-me-over-f-bodycam-shows-officer-firing-at-lululemon-shoplifting-suspect-who-nearly-strikes-her-during-getaway/)
+5. [![Haley Blevins and Jacalyn Cook](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Haley-Blevins-and-Jacalyn-Cook-432x243.jpg)](https://lawandcrime.com/crime/women-accused-of-using-leash-with-spikes-belt-to-beat-3-kids-for-not-completing-chores-to-their-satisfaction/)
     
-    ### ['Gonna run me over, f---!': Bodycam shows officer firing at Lululemon shoplifting suspect who nearly strikes her during getaway](https://lawandcrime.com/video/gonna-run-me-over-f-bodycam-shows-officer-firing-at-lululemon-shoplifting-suspect-who-nearly-strikes-her-during-getaway/)
+    ### [Women accused of using 'leash with spikes,' belt to beat 3 kids for not completing chores to their satisfaction](https://lawandcrime.com/crime/women-accused-of-using-leash-with-spikes-belt-to-beat-3-kids-for-not-completing-chores-to-their-satisfaction/)
     
 
 [](http://eepurl.com/c89Jdb)
