@@ -257,9 +257,9 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
-
 [Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
 [Batteries](https://www.sciencedaily.com/news/matter_energy/batteries/)
 
@@ -267,9 +267,9 @@ this week
 
 [Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
-[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
-
 [Food](https://www.sciencedaily.com/news/plants_animals/food/)
+
+[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
   
 
