@@ -101,7 +101,7 @@ Terms of Service
 
 Last modified: September 25, 2024
 
-By using the proton.me or [protonvpn.com](https://protonvpn.com/) website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass and Proton Docs (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
+By using the proton.me or [protonvpn.com(new window)](https://protonvpn.com/) website and making use of a Proton Account (the “Account”) and all its related features, including Proton Mail, Proton Calendar, Proton Drive, Proton VPN and Proton Pass and Proton Docs (the “Services”) and other services like Proton Wallet operated by Proton Financial AG, you agree to be bound by the following terms of service (the “Terms”). These Terms cover all present and future features provided by your Account. The Services are operated by Proton AG (“We”, the “Company”), a Swiss company located at Route de la Galaise 32, 1228 Plan-les-Ouates, Geneva, Switzerland, which is under the supervision of the non-profit Proton Foundation (Switzerland). Use of your Account or the Services includes registering an Account, keeping an Account open (not deleted by you or not deleted or deactivated by Proton), or accessing our website or mobile/desktop applications, or making use of our services. Please read these Terms carefully before you use your Account or the Services. By using your Account or the Services, you are agreeing to be bound by these Terms. You may not use your Account or the Services if you do not agree to these Terms. These Terms apply every time you use your Account or the Services.
 
 The Proton Wallet integration with the Services is operated by Proton Financial AG (a subsidiary of the Company) under [independent terms of use](https://protonvpn.com/wallet/terms). If you use Proton Wallet or receive Bitcoin in Proton Wallet, you also consent to the Proton Wallet terms of use.
 
@@ -208,7 +208,7 @@ You agree that the Company, and any parents, subsidiaries, officers, directors, 
 7\. Privacy
 -----------
 
-Our [Privacy Policy](https://protonvpn.com/legal/privacy) and its sub-policies explain the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the proton.me or [protonvpn.com](https://protonvpn.com/) website. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy and its sub-policies.
+Our [Privacy Policy](https://protonvpn.com/legal/privacy) and its sub-policies explain the way we handle and protect your personal data and privacy in relation to your Account, your use of the Services, and your browsing of the proton.me or [protonvpn.com(new window)](https://protonvpn.com/) website. By agreeing to the present Terms and to be able to use the Services, you also agree to our Privacy Policy and its sub-policies.
 
 If, in the provision of the Services, the Company processes, on the user’s behalf (where the user acts as a Data Controller), any personal data that is subject to the EU General Data Protection Regulation (GDPR), the [company’s data processing agreement](https://protonvpn.com/legal/dpa) shall apply.
 
@@ -349,6 +349,8 @@ We may assign these Terms in whole or in part. Moreover, we may delegate our rig
 These Terms represent the entire agreement between you and us in connection with your use of your Account or the Services, and they supersede all prior or contemporaneous communications and proposals, whether electronic, oral, or written between you and the Company with respect to your Account or the Services.
 
 In case of discrepancy between the English version of these Terms and any translated version, the English version shall prevail.
+
+  
 
 On this page
 
