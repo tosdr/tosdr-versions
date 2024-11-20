@@ -388,9 +388,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [moot](https://www.merriam-webster.com/word-of-the-day)
+#### [snivel](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of moot](/dist-cross-dungarees/2024-11-14--21-53-23-c9dnz/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of moot")
+[![Listen to the pronunciation of snivel](/dist-cross-dungarees/2024-11-14--21-53-23-c9dnz/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of snivel")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
