@@ -130,7 +130,7 @@ The Best
 | --- | --- | --- |
 | [Intel Core i5-13600K](https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134) [$210](https://cpu.userbenchmark.com/Intel-Core-i5-13600K/Rating/4134#Prices "Hot Amazon price") | [Nvidia RTX 4060](https://gpu.userbenchmark.com/Nvidia-RTX-4060/Rating/4150) [$290](https://gpu.userbenchmark.com/Nvidia-RTX-4060/Rating/4150#Prices "Live Ebay price") | [WD Black SN850X M.2 2TB](https://ssd.userbenchmark.com/WD-Black-SN850X-M2-2TB/Rating/4158) [$130](https://ssd.userbenchmark.com/WD-Black-SN850X-M2-2TB/Rating/4158#Prices "Live Amazon price") |
 | [Intel Core i5-12400F](https://cpu.userbenchmark.com/Intel-Core-i5-12400F/Rating/4121) [$111](https://cpu.userbenchmark.com/Intel-Core-i5-12400F/Rating/4121#Prices "Live Amazon price") | [Nvidia RTX 4060-Ti](https://gpu.userbenchmark.com/Nvidia-RTX-4060-Ti/Rating/4149) [$389](https://gpu.userbenchmark.com/Nvidia-RTX-4060-Ti/Rating/4149#Prices "Live Amazon price") | [WD Black SN850X M.2 1TB](https://ssd.userbenchmark.com/WD-Black-SN850X-M2-1TB/Rating/4157) [$80](https://ssd.userbenchmark.com/WD-Black-SN850X-M2-1TB/Rating/4157#Prices "Live Amazon price") |
-| [Intel Core i5-12600K](https://cpu.userbenchmark.com/Intel-Core-i5-12600K/Rating/4120) [$164](https://cpu.userbenchmark.com/Intel-Core-i5-12600K/Rating/4120#Prices "Live Amazon price") | [Nvidia RTX 4070](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148) [$500](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148#Prices "Live Amazon price") | [Crucial T700 M.2 4TB](https://ssd.userbenchmark.com/Crucial-T700-M2-4TB/Rating/4165) [$389](https://ssd.userbenchmark.com/Crucial-T700-M2-4TB/Rating/4165#Prices "Live Ebay price") |
+| [Intel Core i5-12600K](https://cpu.userbenchmark.com/Intel-Core-i5-12600K/Rating/4120) [$164](https://cpu.userbenchmark.com/Intel-Core-i5-12600K/Rating/4120#Prices "Live Amazon price") | [Nvidia RTX 4070](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148) [$500](https://gpu.userbenchmark.com/Nvidia-RTX-4070/Rating/4148#Prices "Live Amazon price") | [Crucial T700 M.2 4TB](https://ssd.userbenchmark.com/Crucial-T700-M2-4TB/Rating/4165) [$367](https://ssd.userbenchmark.com/Crucial-T700-M2-4TB/Rating/4165#Prices "Hot Ebay price") |
 
 ![](https://www.userbenchmark.com/resources/img/wri/creatives/assets/flame.gif) ![](https://www.userbenchmark.com/resources/img/wri/creatives/assets/flame.gif)
 
@@ -140,7 +140,7 @@ Amazon Ebay
 
 deals
 
-[CPU](https://www.userbenchmark.com/Go/HotCPUAmazon/lbFMultiA/0) [GPU](https://www.userbenchmark.com/Go/HotGPUAmazon/lbFMultiA/0) [SSD](https://www.userbenchmark.com/Go/HotSSDAmazon/lbFMultiA/0) [HDD](https://www.userbenchmark.com/Go/HotHDDAmazon/lbFMultiA/0) [USB](https://www.userbenchmark.com/Go/HotUSBAmazon/lbFMultiA/0) [RAM](https://www.userbenchmark.com/Go/HotRAMAmazon/lbFMultiA/0) [MBD](https://www.userbenchmark.com/Go/HotWWWAmazon/lbFMultiA/0)
+[CPU](https://www.userbenchmark.com/Go/HotCPUAmazon/lbFMultiB/0) [GPU](https://www.userbenchmark.com/Go/HotGPUAmazon/lbFMultiB/0) [SSD](https://www.userbenchmark.com/Go/HotSSDAmazon/lbFMultiB/0) [HDD](https://www.userbenchmark.com/Go/HotHDDAmazon/lbFMultiB/0) [USB](https://www.userbenchmark.com/Go/HotUSBAmazon/lbFMultiB/0) [RAM](https://www.userbenchmark.com/Go/HotRAMAmazon/lbFMultiB/0) [MBD](https://www.userbenchmark.com/Go/HotWWWAmazon/lbFMultiB/0)
 
 If you buy something via a price link, UserBenchmark may earn a commission
 
