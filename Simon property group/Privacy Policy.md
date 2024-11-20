@@ -12,7 +12,7 @@ GET IT ON
 * [MALL INSIDER](https://www.simon.com/mall-insider "Become A Mall Insider Today")
 * SHOP ONLINE
     
-    [![ShopSimon - The Brands You Love. On Sale. 24/7.](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://shop.simon.com/?utm_source=Simon&utm_medium=Flyout&utm_campaign=SIMON_SHOPONLINE_BANNER)
+    [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://shop.simon.com/?utm_source=Simon&utm_medium=Flyout&utm_campaign=SIMON_SHOPONLINE_BANNER)
     
     Women's Most Popular
     
