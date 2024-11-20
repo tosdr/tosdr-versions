@@ -123,7 +123,17 @@ Menu
     
     **[In Focus](https://www.harvard.edu/in-focus/)** Explore a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
-    1. The Enhanced Body
+    1. Food
+        
+        In Focus
+        
+        **Food** Food nourishes us, inspires us, and brings us together. The Harvard community is exploring nutrition, sustainability, and the science behind the things we eat. [Dig in](https://www.harvard.edu/in-focus/food/)
+        
+        1. **What's inside?**
+            1. [**Explore why we crave junk food**](https://news.harvard.edu/gazette/story/2024/09/why-do-we-crave-junk-food-diet-psychology/)
+            2. [**Learn the chemistry and physics of cooking**](https://pll.harvard.edu/catalog?keywords=cooking)
+        
+    2. The Enhanced Body
         
         In Focus
         
@@ -132,7 +142,7 @@ Menu
         1. 1. [**The progress of dental implants**](https://news.harvard.edu/gazette/story/2024/10/daniel-buser-honored-at-harvard-school-of-dental-medicine/)
             2. [**The innovation of wearable robotics**](https://gsas.harvard.edu/news/walk-robot)
         
-    2. Veterans
+    3. Veterans
         
         In Focus
         
@@ -141,16 +151,6 @@ Menu
         1. **What's inside**
             1. [**Harvard and the military**](https://news.harvard.edu/gazette/story/series/harvard-and-the-military/)
             2. [**The long Crimson line**](https://news.harvard.edu/gazette/story/2024/11/number-of-armed-services-veterans-at-harvard-on-the-rise/)
-        
-    3. Voting
-        
-        In Focus
-        
-        **Voting** Harvard experts look at the state of voting in the 21st century, and how participation is shaped by education, technology, and other historical forces. [Elect to learn more](https://www.harvard.edu/in-focus/voting/)
-        
-        1. **What's on the ballot?**
-            1. [**How AI is affecting elections**](https://ash.harvard.edu/articles/ai-and-the-2024-elections/)
-            2. [**How polls become more accurate**](https://news.harvard.edu/gazette/story/2024/10/why-do-election-polls-seem-to-have-such-a-mixed-track-record/)
         
     
 4. Visit
@@ -209,9 +209,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Is cheese bad for you?** Nutritionist explains why you’re probably eating way too much](https://news.harvard.edu/gazette/story/2024/11/is-cheese-bad-for-you/)
-        2. [**Did Trump election signal start of new political era?** Analysts weigh issues, strategies, media decisions at work in contest, suggest class may become dominant factor](https://news.harvard.edu/gazette/story/2024/11/did-trump-election-signal-start-of-new-political-era/)
-        3. [**8 Harvard students named Rhodes Scholars** 5 in U.S. class, most for any institution, joined by 3 international recipients](https://news.harvard.edu/gazette/story/2024/11/8-harvard-students-named-rhodes-scholars/)
+        1. [**8 Harvard students named Rhodes Scholars** 5 in U.S. class, most for any institution, joined by 3 international recipients](https://news.harvard.edu/gazette/story/2024/11/8-harvard-students-named-rhodes-scholars/)
+        2. [**Is cheese bad for you?** Nutritionist explains why you’re probably eating way too much](https://news.harvard.edu/gazette/story/2024/11/is-cheese-bad-for-you/)
+        3. [**Too much sitting hurts the heart** Even with exercise, sedentary behavior can increase risk of heart failure by up to 60%, according to study](https://news.harvard.edu/gazette/story/2024/11/study-finds-too-much-sitting-hurts-the-heart/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
