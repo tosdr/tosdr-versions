@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-19 Nov 2024
+20 Nov 2024
 
 * [Home
     
@@ -273,6 +273,13 @@ Most Popular
 [IN PICTURES: Derry Gaelic Masters Team annual prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1658458/in-pictures-derry-gaelic-masters-team-annual-prizegiving.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry man extradited from USA appears before Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man extradited from USA appears before Derry Crown Court")](https://www.derrynow.com/news/local-news/1659347/derry-man-extradited-from-usa-appears-before-derry-crown-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man extradited from USA appears before Derry Crown Court](https://www.derrynow.com/news/local-news/1659347/derry-man-extradited-from-usa-appears-before-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Cian McConnell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cian McConnell")](https://www.derrynow.com/news/derry-news/1659403/i-want-to-break-the-stigma-as-derry-teenager-asks-people-to-donate-to-fundraiser-for-his-birthday.html)
 
 Cian McConnell
@@ -281,20 +288,6 @@ Cian McConnell
 
 ['I want to break the stigma' as Derry teenager asks people to donate to fundraiser for his birthday](https://www.derrynow.com/news/derry-news/1659403/i-want-to-break-the-stigma-as-derry-teenager-asks-people-to-donate-to-fundraiser-for-his-birthday.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1658747/derry-death-notices-tuesday-november-19-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, November 19, 2024](https://www.derrynow.com/news/deaths/1658747/derry-death-notices-tuesday-november-19-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man extradited from USA appears before Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man extradited from USA appears before Derry Crown Court")](https://www.derrynow.com/news/local-news/1659347/derry-man-extradited-from-usa-appears-before-derry-crown-court.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man extradited from USA appears before Derry Crown Court](https://www.derrynow.com/news/local-news/1659347/derry-man-extradited-from-usa-appears-before-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Local Sunbed premises fined for offering illegal sunbed sessions to children.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local Sunbed premises fined for offering illegal sunbed sessions to children.")](https://www.derrynow.com/news/local-news/1659156/local-sunbed-premises-fined-for-offering-illegal-sunbed-sessions-to-children.html)
 
@@ -305,6 +298,20 @@ Local Sunbed premises fined for offering illegal sunbed sessions to children
 [Local sunbed premises fined for offering illegal sunbed sessions to children](https://www.derrynow.com/news/local-news/1659156/local-sunbed-premises-fined-for-offering-illegal-sunbed-sessions-to-children.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1658747/derry-death-notices-tuesday-november-19-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, November 19, 2024](https://www.derrynow.com/news/deaths/1658747/derry-death-notices-tuesday-november-19-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Three arrested and drugs seized in Derry searches](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three arrested and drugs seized in Derry searches")](https://www.derrynow.com/news/local-news/1659836/three-arrested-and-drugs-seized-in-derry-searches.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Three arrested and drugs seized in Derry searches](https://www.derrynow.com/news/local-news/1659836/three-arrested-and-drugs-seized-in-derry-searches.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Woman charged with driving-related offences due to appear before Derry Magistrates Court next month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged with driving-related offences due to appear before Derry Magistrates Court next month")](https://www.derrynow.com/news/local-news/1659351/woman-charged-with-driving-related-offences-due-to-appear-before-derry-magistrates-court-next-month.html)
 
 PSNI
@@ -314,30 +321,21 @@ PSNI
 [Woman charged with driving-related offences due to appear before Derry Magistrates Court next month](https://www.derrynow.com/news/local-news/1659351/woman-charged-with-driving-related-offences-due-to-appear-before-derry-magistrates-court-next-month.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fire crews currently attending vehicle fire close to Claudy village](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fire crews currently attending vehicle fire close to Claudy village")](https://www.derrynow.com/news/home/1658946/fire-crews-currently-attending-vehicle-fire-close-to-claudy-village.html)
+[![IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall")](https://www.derrynow.com/story-telling/pictures---videos/1657940/in-pictures-revive-pre-loved-pop-up-show-in-derry-s-st-columb-s-hall.html)
 
-Fire fighters are currently at the scene.
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall](https://www.derrynow.com/story-telling/pictures---videos/1657940/in-pictures-revive-pre-loved-pop-up-show-in-derry-s-st-columb-s-hall.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police conducting enquiries in Limavady area following report of man acting suspiciously](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police conducting enquiries in Limavady area following report of man acting suspiciously")](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
+
+The PSNI are conducting enquiries in the Limavady area following the report.
 
 [Home](https://www.derrynow.com/)
 
-[Fire crews currently attending vehicle fire close to Claudy village](https://www.derrynow.com/news/home/1658946/fire-crews-currently-attending-vehicle-fire-close-to-claudy-village.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Three arrested and drugs seized in Derry searches](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three arrested and drugs seized in Derry searches")](https://www.derrynow.com/news/local-news/1659836/three-arrested-and-drugs-seized-in-derry-searches.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Three arrested and drugs seized in Derry searches](https://www.derrynow.com/news/local-news/1659836/three-arrested-and-drugs-seized-in-derry-searches.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![British army dismantling County Derry lookout post due to ‘significant coastal erosion’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "British army dismantling County Derry lookout post due to ‘significant coastal erosion’")](https://www.derrynow.com/news/local-news/1659191/british-army-dismantling-county-derry-lookout-post-due-to-significant-coastal-erosion.html)
-
-British army dismantling County Derry lookout post due to ‘significant coastal erosion’.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[British army dismantling County Derry lookout post due to ‘significant coastal erosion’](https://www.derrynow.com/news/local-news/1659191/british-army-dismantling-county-derry-lookout-post-due-to-significant-coastal-erosion.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police conducting enquiries in Limavady area following report of man acting suspiciously](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,7 +515,34 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Blind man slams Housing Executive over mite infestation in his Limavady home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Blind man slams Housing Executive over mite infestation in his Limavady home")](https://www.derrynow.com/news/home/1659653/blind-man-slams-housing-executive-over-mite-infestation-in-his-limavady-home.html)
+[![Music awards nominee Lyneve hoping to 'put Gortnnaghey on the map'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Music awards nominee Lyneve hoping to 'put Gortnnaghey on the map'")](https://www.derrynow.com/news/home/1659617/music-awards-nominee-lyneve-hoping-to-put-gortnaghey-on-the-map.html)
+
+Lyneve Newland has been nominated for six awards in the upcoming Red Carpet Award Show.
+
+[Home](https://www.derrynow.com/)
+
+[Music awards nominee Lyneve hoping to 'put Gortnaghey on the map'](https://www.derrynow.com/news/home/1659617/music-awards-nominee-lyneve-hoping-to-put-gortnaghey-on-the-map.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police conducting enquiries in Limavady area following report of man acting suspiciously](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police conducting enquiries in Limavady area following report of man acting suspiciously")](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
+
+The PSNI are conducting enquiries in the Limavady area following the report.
+
+[Home](https://www.derrynow.com/)
+
+[Police conducting enquiries in Limavady area following report of man acting suspiciously](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Movember, Spokes Mo, Anton Tohill](https://www.derrynow.com/resizer/165/93/true/2024_11_18/Movember%2C_Spokes_Mo%2C_Anton_Tohill-1731926833327.jpg--.jpg?1731926833940 "Movember, Spokes Mo, Anton Tohill")](https://www.derrynow.com/news/county-derry-post/1658388/swatragh-man-leading-the-way-in-movember-challenge.html)
+
+Movember, Spokes Mo, Anton Tohill
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Swatragh man leading the way in Movember challenge](https://www.derrynow.com/news/county-derry-post/1658388/swatragh-man-leading-the-way-in-movember-challenge.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Blind man slams Housing Executive over mite infestation in his Limavady home](https://www.derrynow.com/resizer/165/93/true/2024_11_19/CDP_-_19-11-24_-_Page_1_lead_pic-1732031955728_1732032151.JPG--.JPG?1732032151142 "Blind man slams Housing Executive over mite infestation in his Limavady home")](https://www.derrynow.com/news/home/1659653/blind-man-slams-housing-executive-over-mite-infestation-in-his-limavady-home.html)
 
 Gareth Logue has hit out at the Housing Executive.
 
@@ -526,7 +551,7 @@ Gareth Logue has hit out at the Housing Executive.
 [Blind man slams Housing Executive over mite infestation in his Limavady home](https://www.derrynow.com/news/home/1659653/blind-man-slams-housing-executive-over-mite-infestation-in-his-limavady-home.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry's Castle Gate to close for resurfacing works](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Castle Gate to close for resurfacing works")](https://www.derrynow.com/news/local-news/1659568/derry-s-castle-gate-to-close-for-resurfacing-works.html)
+[![Derry's Castle Gate to close for resurfacing works](https://www.derrynow.com/resizer/165/93/true/2024_11_19/25d3526be277f3f96ae4a4b32cd54ec0-1732029547932.jpg--.jpg?1732029547990 "Derry's Castle Gate to close for resurfacing works")](https://www.derrynow.com/news/local-news/1659568/derry-s-castle-gate-to-close-for-resurfacing-works.html)
 
 Castle Gate
 
@@ -541,29 +566,6 @@ Castle Gate
 
 [PICTURES: Derry school raises fund for Comic Relief](https://www.derrynow.com/news/home/1659599/pictures-county-derry-school-raises-funds-for-children-in-need.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Three arrested and drugs seized in Derry searches](https://www.derrynow.com/resizer/165/93/true/2024_11_19/PSNI_Derry3-1732039609376.jpg--.jpg?1732039609401 "Three arrested and drugs seized in Derry searches")](https://www.derrynow.com/news/local-news/1659836/three-arrested-and-drugs-seized-in-derry-searches.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Three arrested and drugs seized in Derry searches](https://www.derrynow.com/news/local-news/1659836/three-arrested-and-drugs-seized-in-derry-searches.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Stephen Ferguson lining out for UAE rugby (credit: Stephen Ferguson instagram)](https://www.derrynow.com/resizer/165/93/true/2024_11_19/UAE_rugby-1732015003505.PNG--.PNG?1732015003619 "Stephen Ferguson lining out for UAE rugby (credit: Stephen Ferguson instagram)")](https://www.derrynow.com/news/sport/1659259/county-derry-man-playing-international-rugby-in-the-autumn-internationals.html)
-
-Stephen Ferguson lining out for UAE rugby (credit: Stephen Ferguson instagram)
-
-[Sport](https://www.derrynow.com/section/976/sport)
-
-[County Derry man playing international rugby in the Autumn internationals](https://www.derrynow.com/news/sport/1659259/county-derry-man-playing-international-rugby-in-the-autumn-internationals.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry cafe to provide Christmas lunch and gifts to the community for people on their own or need support on Christmas Day](https://www.derrynow.com/resizer/165/93/true/2024_11_19/467402454_1099548872172042_4752149302281154704_n-1732024809821.jpg--.jpg?1732024810265 "Derry cafe to provide Christmas lunch and gifts to the community for people on their own or need support on Christmas Day")](https://www.derrynow.com/news/derry-news/1659494/derry-cafe-to-provide-christmas-lunch-and-gifts-to-the-community-for-people-on-their-own-or-need-support-on-christmas-day.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry cafe to provide Christmas lunch and gifts to the community for people on their own or need support on Christmas Day](https://www.derrynow.com/news/derry-news/1659494/derry-cafe-to-provide-christmas-lunch-and-gifts-to-the-community-for-people-on-their-own-or-need-support-on-christmas-day.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
