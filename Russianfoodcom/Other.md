@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Грибная запеканка с луком](https://www.russianfood.com/recipes/recipe.php?rid=173382)
-* [Шарлотка с тыквой и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174863)
-* [Репа, запеченная с сыром и сметаной](https://www.russianfood.com/recipes/recipe.php?rid=750)
+* [Бананово-ореховый торт со сгущенкой](https://www.russianfood.com/recipes/recipe.php?rid=149129)
 * [Волованы по-эльзасски](https://www.russianfood.com/recipes/recipe.php?rid=9246)
 * [Пюре из репы](https://www.russianfood.com/recipes/recipe.php?rid=12161)
-* [Гренки с яблоками](https://www.russianfood.com/recipes/recipe.php?rid=12824)
 * [Красная капуста, запеченная с каштанами](https://www.russianfood.com/recipes/recipe.php?rid=18038)
 * [Блины боярские](https://www.russianfood.com/recipes/recipe.php?rid=19620)
 * [Тортеллини, запеченные с шалфеем и ветчиной](https://www.russianfood.com/recipes/recipe.php?rid=30095)
 * [Виноградный торт](https://www.russianfood.com/recipes/recipe.php?rid=30105)
+* [Острая макаронная запеканка](https://www.russianfood.com/recipes/recipe.php?rid=30128)
+* [Пирог творожный по-крестьянски](https://www.russianfood.com/recipes/recipe.php?rid=30716)
+* [Рулетики из свинины, начиненные яблоками](https://www.russianfood.com/recipes/recipe.php?rid=30968)
 
 |     |
 | --- |
@@ -182,6 +182,20 @@
 
 |     |     |
 | --- | --- |
+| Рецепты<br><br>[Мясная запеканка с грибами и овощным пюре](https://www.russianfood.com/recipes/recipe.php?rid=174856) |     |
+
+[![Фото к рецепту: Мясная запеканка с грибами и овощным пюре](//img1.russianfood.com/dycontent/images_upl/753/sm_752521.jpg "Фото к рецепту: Мясная запеканка с грибами и овощным пюре")](https://www.russianfood.com/recipes/recipe.php?rid=174856)
+
+Продукты простые, но приготовление запеканки не совсем обычное. Из картофеля, сельдерея и моркови сперва готовится пюре с добавлением сыра. Затем между слоями овощного пюре выкладывается фарш, обжаренный с грибами, луком, чесноком и помидорами. Хлебная крошка, смешанная с тертым сыром, делает поверхность запеканки слегка хрустящей и очень аппетитной.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174856)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174856#comments) | 20.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Шарлотка с тыквой и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174863) |     |
 
 [![Фото к рецепту: Шарлотка с тыквой и яблоками](//img1.russianfood.com/dycontent/images_upl/753/sm_752743.jpg "Фото к рецепту: Шарлотка с тыквой и яблоками")](https://www.russianfood.com/recipes/recipe.php?rid=174863)
@@ -192,7 +206,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174863#comments) | 20.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174863#comments) | 20.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -290,7 +304,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174849#comments) | 19.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_9 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174849#comments) | 19.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -304,7 +318,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вкусное утро](https://www.russianfood.com/blogs/?id=421132) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173390#comments) | 18.11.24 |     |
+|     | [Вкусное утро](https://www.russianfood.com/blogs/?id=421132) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173390#comments) | 18.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -346,7 +360,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174112#comments) | 18.11.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174112#comments) | 18.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -375,20 +389,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174582#comments) | 18.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Омлет на сметане, с грибами, луком и карри](https://www.russianfood.com/recipes/recipe.php?rid=173388) |     |
-
-[![Фото к рецепту: Омлет на сметане, с грибами, луком и карри](//img1.russianfood.com/dycontent/images_upl/737/sm_736258.jpg "Фото к рецепту: Омлет на сметане, с грибами, луком и карри")](https://www.russianfood.com/recipes/recipe.php?rid=173388)
-
-Нежный и вкусный омлет с пряным ароматом. Вместо молока используется сметана, а помимо соли перца добавляется карри. На готовый омлет выкладывается начинка из обжаренных шампиньонов с зелёным луком и укропом, которая делает завтрак ещё питательнее и интереснее.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173388)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вкусное утро](https://www.russianfood.com/blogs/?id=421132) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173388#comments) | 18.11.24 |     |
 
 |     |
 | --- |
@@ -461,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736258.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173388) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752744.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174820) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750664.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174582) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752743.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174863) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752725.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174819) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737440.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172997) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753375.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174823) |
-| [Омлет на сметане, с грибами, луком и карри](https://www.russianfood.com/recipes/recipe.php?rid=173388) | [Салат с копчёной колбасой, овощами, кукурузой и сухариками](https://www.russianfood.com/recipes/recipe.php?rid=174820) | [Салат с краснокочанной капустой, тыквой, яблоком и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=174582) | [Шарлотка с тыквой и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174863) | [Салат с копчёной колбасой, кукурузой, горошком и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174819) | [Тефтели, тушенные в апельсиновом соусе с имбирём и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=172997) | [Дрожжевой кекс с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174823) |
-| [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738248.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174077) |
-| [Скумбрия, запечённая с помидорами и сладким перцем](https://www.russianfood.com/recipes/recipe.php?rid=174077) |
+| [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737440.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172997) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752744.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174820) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750664.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174582) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752725.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174819) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752743.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174863) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753375.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174823) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752521.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174856) |
+| [Тефтели, тушенные в апельсиновом соусе с имбирём и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=172997) | [Салат с копчёной колбасой, овощами, кукурузой и сухариками](https://www.russianfood.com/recipes/recipe.php?rid=174820) | [Салат с краснокочанной капустой, тыквой, яблоком и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=174582) | [Салат с копчёной колбасой, кукурузой, горошком и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174819) | [Шарлотка с тыквой и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174863) | [Дрожжевой кекс с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174823) | [Мясная запеканка с грибами и овощным пюре](https://www.russianfood.com/recipes/recipe.php?rid=174856) |
+| [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736258.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173388) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738248.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174077) |
+| [Омлет на сметане, с грибами, луком и карри](https://www.russianfood.com/recipes/recipe.php?rid=173388) | [Скумбрия, запечённая с помидорами и сладким перцем](https://www.russianfood.com/recipes/recipe.php?rid=174077) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -481,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(183)
+(157)
