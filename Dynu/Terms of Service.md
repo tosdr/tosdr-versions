@@ -304,16 +304,16 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-![Free for Open Source Projects](/content/images/content/strip/IDN.png)
+![Free for Open Source Projects](/content/images/content/strip/open-source-icon.png)
 
   
   
 
-### DNS for IDNs is fully supported
+### Free for Open Source Projects
 
-If you are looking for a DNS provider for an International Domain Name, you are welcome here.  
+We love open source projects. Contact us with details of your project.  
   
-[Get Started](https://www.dynu.com/ControlPanel/AddDDNS)
+[Contact Us](https://www.dynu.com/Support/ContactUs)
 
 ### News
 
