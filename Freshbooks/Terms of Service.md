@@ -8,15 +8,15 @@ Free - Google Play
 
 [Get it](https://play.google.com/store/apps/details?id=com.freshbooks.andromeda&utm_source=)
 
-[****Offer extended: Fall in love with FreshBooks 🍂**** 50% off for 6 months. **Buy Now & Save**
+[****Spend smart save big this Black Friday 💸**** 80% off for 4 months. **Buy Now & Save**
 
 📣 Only
 
 0 days 0 0 h : 0 0 m : 0 0 s
 
-Left to Get 50% Off for 6 Months **BUY NOW & SAVE**
+left to get 80% off for 6 months **BUY NOW & SAVE**
 
-**50% off for 6 months Buy Now & Save**
+**80% off for 4 months Buy Now & Save**
 
 ![Close promo banner](https://www.freshbooks.com/wp-content/themes/freshpress/dist/images/icons/promo-topbar-close.965a416c.svg)](https://www.freshbooks.com/pricing)
 
