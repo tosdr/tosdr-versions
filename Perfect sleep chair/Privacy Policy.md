@@ -1,438 +1,270 @@
-[Skip to content](#MainContent)
+                            [Skip to content](#MainContent)
 
-Pause slideshow Play slideshow
+[](https://www.perfectsleepchair.com/collections/black-friday-deals)
 
-[Early Black Friday Deals! Save Up To $500 Plus a Free Gift >](https://www.perfectsleepchair.com/collections/black-friday-deals)
+Black Friday Deals Start Now! Learn More
 
-icon-X Close menu
+[888-404-1724](tel:888-404-1724)
 
-* Shop Online
+[](https://www.perfectsleepchair.com/)
+
+ [![Journey Health & Lifestyle](//www.shopjourney.com/cdn/shop/files/Journey_logo_blue.png?v=1687292868&width=350) ![Journey Health & Lifestyle](//www.shopjourney.com/cdn/shop/files/Journey_logo_blue.png?v=1687292868&width=350)![Journey Health & Lifestyle](//www.shopjourney.com/cdn/shop/files/Journey_logo_blue.png?v=1687292868&width=350)](https://www.perfectsleepchair.com/)
+
+  search
+
+[888-404-1724](tel:888-404-1724)
+
+[0 / $0.00](https://www.perfectsleepchair.com/cart)
+
+* [Wheelchairs](https://www.perfectsleepchair.com/)
     
-    * [Power Mobility](https://www.perfectsleepchair.com/collections/curated-power-mobility)
-        
-        * [Power Chairs](https://www.perfectsleepchair.com/collections/curated-power-chairs)
-        * [Power Scooters](https://www.perfectsleepchair.com/collections/scooters)
-        * [Power Mobility Accessories](https://www.perfectsleepchair.com/collections/power-mobility/accessories)
-        
-    * [Comfort & Sleep](https://www.perfectsleepchair.com/collections/comfort-and-sleep)
-        
-        * [Perfect Sleep Chair 2-zone](https://www.perfectsleepchair.com/products/perfect-sleep-chair)
-        * [Perfect Sleep Chair 5-zone](https://www.perfectsleepchair.com/products/perfect-sleep-chair)
-        * [UPbed](https://www.perfectsleepchair.com/collections/upbeds)
-        
-    * [Walkers & Wheelchairs](https://www.perfectsleepchair.com/collections/manual-mobility)
-        
-        * [Rollators](https://www.perfectsleepchair.com/collections/upwalker)
-        * [Wheelchair](https://www.perfectsleepchair.com/products/so-lite-c2-ultra-lightweight-wheelchair)
-        * [Manual Mobility Accessories](https://www.perfectsleepchair.com/collections/manual-mobility/accessories)
-        
-    * [Bath Safety](https://www.perfectsleepchair.com/collections/bathroom)
-        
-        * [Bath & Shower Safety](https://www.perfectsleepchair.com/collections/bath-shower-safety)
-        * [Commodes & Toilet Safety](https://www.perfectsleepchair.com/collections/commodes-toilet-safety)
-        * [Incontinence Care](https://www.perfectsleepchair.com/products/adult-incontinence-disposal-system)
-        
+* [Scooters](https://www.perfectsleepchair.com/)
     
-* [Call Us: 888-404-1724](tel:888-404-1724)
-* [Check Order Status](https://www.perfectsleepchair.com/pages/contact)
-* [Log in](https://www.perfectsleepchair.com/account)
+* [Walkers](https://www.perfectsleepchair.com/)
+    
+* [Lift Chairs & Beds](https://www.perfectsleepchair.com/)
+    
+* [Bath Safety & Comfort](https://www.perfectsleepchair.com/)
     
 
-* [instagram Instagram](https://www.instagram.com/journeyhealthlifestyle/ "Journey Health & Lifestyle on Instagram")
-* [Facebook](https://www.facebook.com/Journeyhl "Journey Health & Lifestyle on Facebook")
-* [YouTube](https://www.youtube.com/user/firstSTREETinc "Journey Health & Lifestyle on YouTube")
+[Provider Locator](https://www.perfectsleepchair.com/pages/store-locator)
 
-Cart
+[Home](https://www.perfectsleepchair.com/)Perfect Sleep Chair & Lift Chair
 
-icon-X Close cart
+  
 
-Subtotal
+![](//www.shopjourney.com/cdn/shop/files/PSC-Hero.webp?v=1724857105&width=720)
 
-$0.00
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201500%201500%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-Shipping, taxes, and discount codes calculated at checkout.  
+![](//www.shopjourney.com/cdn/shop/files/PSC-Tilt01.webp?v=1724857135&width=720)
 
-Check out
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201500%201500%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-Your cart is currently empty.
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-brisa-light-gray-spectra-2zone_fa321dce-5dd0-4b77-a1ee-0415e18ef957.jpg?v=1725910856&width=720)
 
- [![](//www.shopjourney.com/cdn/shop/files/Journey_logo_blue_v2.webp?v=1691275808&width=400)![](//www.shopjourney.com/cdn/shop/files/Journey_logo_blue_v2.webp?v=1691275808&width=300)](https://www.perfectsleepchair.com/)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-* Shop Online
-    
-    [![Curated Power Mobility](//www.shopjourney.com/cdn/shop/collections/hero-slide-image-0_da0e0da6-f0f9-4658-8904-3267e7bd55d8.webp?v=1720851878&width=4000)](https://www.perfectsleepchair.com/collections/curated-power-mobility)
-    
-    [Power Mobility](https://www.perfectsleepchair.com/collections/curated-power-mobility)
-    
-    [Power Chairs](https://www.perfectsleepchair.com/collections/curated-power-chairs)
-    
-    [Power Scooters](https://www.perfectsleepchair.com/collections/scooters)
-    
-    [Power Mobility Accessories](https://www.perfectsleepchair.com/collections/power-mobility/accessories)
-    
-    [![Comfort and Sleep](//www.shopjourney.com/cdn/shop/collections/category_header_Sleep.webp?v=1690382831&width=3000)](https://www.perfectsleepchair.com/collections/comfort-and-sleep)
-    
-    [Comfort & Sleep](https://www.perfectsleepchair.com/collections/comfort-and-sleep)
-    
-    [Perfect Sleep Chair 2-zone](https://www.perfectsleepchair.com/products/perfect-sleep-chair)
-    
-    [Perfect Sleep Chair 5-zone](https://www.perfectsleepchair.com/products/perfect-sleep-chair)
-    
-    [UPbed](https://www.perfectsleepchair.com/collections/upbeds)
-    
-    [![Manual Mobility](//www.shopjourney.com/cdn/shop/collections/Arlin-and-Wife-Walking-in-Park-Enhanced_P5A0054_0c65b7b5-eb7d-4ae9-a63a-d07d43882473.jpg?v=1716910591&width=4000)](https://www.perfectsleepchair.com/collections/manual-mobility)
-    
-    [Walkers & Wheelchairs](https://www.perfectsleepchair.com/collections/manual-mobility)
-    
-    [Rollators](https://www.perfectsleepchair.com/collections/upwalker)
-    
-    [Wheelchair](https://www.perfectsleepchair.com/products/so-lite-c2-ultra-lightweight-wheelchair)
-    
-    [Manual Mobility Accessories](https://www.perfectsleepchair.com/collections/manual-mobility/accessories)
-    
-    [![Bath Safety & Comfort](//www.shopjourney.com/cdn/shop/collections/category_header_Bath.jpg?v=1722006573&width=4360)](https://www.perfectsleepchair.com/collections/bathroom)
-    
-    [Bath Safety](https://www.perfectsleepchair.com/collections/bathroom)
-    
-    [Bath & Shower Safety](https://www.perfectsleepchair.com/collections/bath-shower-safety)
-    
-    [Commodes & Toilet Safety](https://www.perfectsleepchair.com/collections/commodes-toilet-safety)
-    
-    [Incontinence Care](https://www.perfectsleepchair.com/products/adult-incontinence-disposal-system)
-    
-* [Call Us: 888-404-1724](tel:888-404-1724)
-* [Check Order Status](https://www.perfectsleepchair.com/pages/contact)
+![](//www.shopjourney.com/cdn/shop/files/psc-premier-duralux-chocolate-2zone-front_a1d189b7-c7c1-488a-ba19-722ee85a3658.jpg?v=1725910856&width=720)
 
-[account Log in](https://www.perfectsleepchair.com/account) [icon-search Search](https://www.perfectsleepchair.com/search) icon-hamburger Site navigation [Cart](https://www.perfectsleepchair.com/cart)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%204032%203024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-Search
+![](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan.jpg?v=1725900829&width=720)
 
-  Search
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20574%20704%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Hero.webp?v=1724857105)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-spectra-brisa-5zone_a3539533-2412-4b94-82ec-5a5080241539.jpg?v=1725910856&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/PSC-Hero.webp?v=1724857105)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Tilt01.webp?v=1724857135)
+![](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-microlux-tan.jpg?v=1725900829&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/PSC-Tilt01.webp?v=1724857135)[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-brisa-light-gray-spectra-2zone_fa321dce-5dd0-4b77-a1ee-0415e18ef957.jpg?v=1725910856)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20656%20803%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-brisa-light-gray-spectra-2zone_fa321dce-5dd0-4b77-a1ee-0415e18ef957.jpg?v=1725910856)
+![](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Burgundy-2zone-front_b2771992-5220-4693-8fb3-14c0bde917a6.jpg?v=1725910856&width=720)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-premier-duralux-chocolate-2zone-front_a1d189b7-c7c1-488a-ba19-722ee85a3658.jpg?v=1725910856)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%204032%203024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/psc-premier-duralux-chocolate-2zone-front_a1d189b7-c7c1-488a-ba19-722ee85a3658.jpg?v=1725910856)
+![](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Blue-2zone-front_e85516af-6459-44c0-a080-f045b065598e.jpg?v=1725910856&width=720)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan.jpg?v=1725900829)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%204032%203024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan.jpg?v=1725900829)[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-spectra-brisa-5zone_a3539533-2412-4b94-82ec-5a5080241539.jpg?v=1725910856)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-chestnut-leather-2zone_1bf95a18-2412-4126-b23d-5529bc6c53b6.jpg?v=1725910856&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-spectra-brisa-5zone_a3539533-2412-4b94-82ec-5a5080241539.jpg?v=1725910856)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%203024%204032%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-microlux-tan.jpg?v=1725900829)
+![](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicoLux-Chocolate-2zone-Front_f1f39575-40e5-45ca-b232-f7ab36f19743.jpg?v=1725910856&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-microlux-tan.jpg?v=1725900829)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%204032%203024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Burgundy-2zone-front_b2771992-5220-4693-8fb3-14c0bde917a6.jpg?v=1725910856)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-duralux-tan_2a122325-75a8-49ca-863d-cfae63543c21.jpg?v=1725910856&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Burgundy-2zone-front_b2771992-5220-4693-8fb3-14c0bde917a6.jpg?v=1725910856)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%202082%202776%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Blue-2zone-front_e85516af-6459-44c0-a080-f045b065598e.jpg?v=1725910856)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-heated-back-demo_75a6ea46-2d52-4282-957b-e9453833a87f.jpg?v=1725910856&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Blue-2zone-front_e85516af-6459-44c0-a080-f045b065598e.jpg?v=1725910856)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-chestnut-leather-2zone_1bf95a18-2412-4126-b23d-5529bc6c53b6.jpg?v=1725910856)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-lift-demo_46752300-d2ea-4437-abb7-59c9e0385136.jpg?v=1725910856&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-chestnut-leather-2zone_1bf95a18-2412-4126-b23d-5529bc6c53b6.jpg?v=1725910856)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicoLux-Chocolate-2zone-Front_f1f39575-40e5-45ca-b232-f7ab36f19743.jpg?v=1725910856)
+![](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket.png?v=1725910793&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/PSC-Premier-MicoLux-Chocolate-2zone-Front_f1f39575-40e5-45ca-b232-f7ab36f19743.jpg?v=1725910856)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%203542%203542%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-duralux-tan_2a122325-75a8-49ca-863d-cfae63543c21.jpg?v=1725910856)
+![](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket-woman.png?v=1724857164&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-duralux-tan_2a122325-75a8-49ca-863d-cfae63543c21.jpg?v=1725910856)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%204896%202944%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-heated-back-demo_75a6ea46-2d52-4282-957b-e9453833a87f.jpg?v=1725910856)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-duralux-2zone_e9f8963f-4f01-4541-85e6-564e4218c6cb.jpg?v=1725910687&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-heated-back-demo_75a6ea46-2d52-4282-957b-e9453833a87f.jpg?v=1725910856)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20600%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-lift-demo_46752300-d2ea-4437-abb7-59c9e0385136.jpg?v=1725910856)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-leather-chestnut_54fc3083-0acc-4a98-bc39-77160ed6d073.jpg?v=1725910687&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-lift-demo_46752300-d2ea-4437-abb7-59c9e0385136.jpg?v=1725910856)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket.png?v=1725910793)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-tan-microlux-2zone_0044e5a7-16e6-47da-ae1e-3ee7eab55fb9.jpg?v=1725910687&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket.png?v=1725910793)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket-woman.png?v=1724857164)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-blue-microlux-2zone_3c1e4ec5-f292-475b-a6ae-82e09253276f.jpg?v=1725910675&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket-woman.png?v=1724857164)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-duralux-2zone_e9f8963f-4f01-4541-85e6-564e4218c6cb.jpg?v=1725910687)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-burgundy-microlux-2zone_ebd9cf0a-cc4b-4acc-91d4-d64324e87ea0.jpg?v=1725910675&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-duralux-2zone_e9f8963f-4f01-4541-85e6-564e4218c6cb.jpg?v=1725910687)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-leather-chestnut_54fc3083-0acc-4a98-bc39-77160ed6d073.jpg?v=1725910687)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-microlux-2zone_f3c27d7d-c180-40fe-94fd-4b0aeff772ab.jpg?v=1725910675&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-leather-chestnut_54fc3083-0acc-4a98-bc39-77160ed6d073.jpg?v=1725910687)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-tan-microlux-2zone_0044e5a7-16e6-47da-ae1e-3ee7eab55fb9.jpg?v=1725910687)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-duralux-2zone_b92a83b6-ffa9-4c40-afb1-a927f37363cb.jpg?v=1725900977&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-tan-microlux-2zone_0044e5a7-16e6-47da-ae1e-3ee7eab55fb9.jpg?v=1725910687)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20600%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-blue-microlux-2zone_3c1e4ec5-f292-475b-a6ae-82e09253276f.jpg?v=1725910675)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-duralux-2zone_9e177b05-4b6e-4fa5-9a45-c1b1b4191676.jpg?v=1725900977&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-blue-microlux-2zone_3c1e4ec5-f292-475b-a6ae-82e09253276f.jpg?v=1725910675)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20600%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-burgundy-microlux-2zone_ebd9cf0a-cc4b-4acc-91d4-d64324e87ea0.jpg?v=1725910675)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-microlux-2zone_cfd504f5-92fa-4a95-b6a4-6691feeb1f56.jpg?v=1725900977&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-burgundy-microlux-2zone_ebd9cf0a-cc4b-4acc-91d4-d64324e87ea0.jpg?v=1725910675)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20600%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-microlux-2zone_f3c27d7d-c180-40fe-94fd-4b0aeff772ab.jpg?v=1725910675)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-burgundy-microlux-2zone_9f41a5aa-7fbb-43f2-aaf2-4abbcca27422.jpg?v=1725900977&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-microlux-2zone_f3c27d7d-c180-40fe-94fd-4b0aeff772ab.jpg?v=1725910675)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20600%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-duralux-2zone_b92a83b6-ffa9-4c40-afb1-a927f37363cb.jpg?v=1725900977)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-blue-microlux-2zone_b7e021b9-a9f5-45e1-b152-78d296970396.jpg?v=1725900977&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-duralux-2zone_b92a83b6-ffa9-4c40-afb1-a927f37363cb.jpg?v=1725900977)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20600%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-duralux-2zone_9e177b05-4b6e-4fa5-9a45-c1b1b4191676.jpg?v=1725900977)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-microlux-2zone_274e8950-7535-44bf-afa8-d299340cc108.jpg?v=1725900977&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-duralux-2zone_9e177b05-4b6e-4fa5-9a45-c1b1b4191676.jpg?v=1725900977)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20600%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-microlux-2zone_cfd504f5-92fa-4a95-b6a4-6691feeb1f56.jpg?v=1725900977)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-5zone_783ecad2-068d-471a-8ef7-d4169d2a52f6.jpg?v=1725900977&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-microlux-2zone_cfd504f5-92fa-4a95-b6a4-6691feeb1f56.jpg?v=1725900977)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-burgundy-microlux-2zone_9f41a5aa-7fbb-43f2-aaf2-4abbcca27422.jpg?v=1725900977)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-2zone_0eb82748-a21f-4524-a006-6b9b86f88e67.jpg?v=1725900977&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-burgundy-microlux-2zone_9f41a5aa-7fbb-43f2-aaf2-4abbcca27422.jpg?v=1725900977)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-blue-microlux-2zone_b7e021b9-a9f5-45e1-b152-78d296970396.jpg?v=1725900977)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-light-gray-brisa-5zone_abc59ca9-9b58-4d7a-b6d3-7227dccafbc9.jpg?v=1725900977&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-blue-microlux-2zone_b7e021b9-a9f5-45e1-b152-78d296970396.jpg?v=1725900977)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20600%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-microlux-2zone_274e8950-7535-44bf-afa8-d299340cc108.jpg?v=1725900977)
+![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-brisa-2zone_89b827e3-c971-49a3-b1af-dafa17ccbb1b.jpg?v=1725900977&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-microlux-2zone_274e8950-7535-44bf-afa8-d299340cc108.jpg?v=1725900977)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20600%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-5zone_783ecad2-068d-471a-8ef7-d4169d2a52f6.jpg?v=1725900977)
+![](//www.shopjourney.com/cdn/shop/files/psc-petite-dimensions-v2_41561f06-a7e6-4d65-b4a7-b7194e82895d.jpg?v=1725900977&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-5zone_783ecad2-068d-471a-8ef7-d4169d2a52f6.jpg?v=1725900977)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20610%20453%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-2zone_0eb82748-a21f-4524-a006-6b9b86f88e67.jpg?v=1725900977)
+![](//www.shopjourney.com/cdn/shop/files/PSC-Petite-Burgundy-Duralux.jpg?v=1726679064&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-2zone_0eb82748-a21f-4524-a006-6b9b86f88e67.jpg?v=1725900977)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20600%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-light-gray-brisa-5zone_abc59ca9-9b58-4d7a-b6d3-7227dccafbc9.jpg?v=1725900977)
+![](//www.shopjourney.com/cdn/shop/files/PSC-Petite-Blue-Duralux.jpg?v=1726679083&width=720)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-light-gray-brisa-5zone_abc59ca9-9b58-4d7a-b6d3-7227dccafbc9.jpg?v=1725900977)
+![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20600%20600%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-brisa-2zone_89b827e3-c971-49a3-b1af-dafa17ccbb1b.jpg?v=1725900977)
+Perfect Sleep Chair & Lift Chair
+================================
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-brisa-2zone_89b827e3-c971-49a3-b1af-dafa17ccbb1b.jpg?v=1725900977)
+~$1,899.00~ $1,699.00
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-petite-dimensions-v2_41561f06-a7e6-4d65-b4a7-b7194e82895d.jpg?v=1725900977)
+4.8
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/psc-petite-dimensions-v2_41561f06-a7e6-4d65-b4a7-b7194e82895d.jpg?v=1725900977)
+Rated 4.8 out of 5 stars
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Petite-Burgundy-Duralux.jpg?v=1726679064)
+59 Reviews
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/PSC-Petite-Burgundy-Duralux.jpg?v=1726679064)
+ Petite Plus 2 Zone (w/ Blanket & USB) / Microlux BluePetite Plus 2 Zone (w/ Blanket & USB) / Microlux BurgundyPetite Plus 2 Zone (w/ Blanket & USB) / Microlux ChocolatePetite Plus 2 Zone (w/ Blanket & USB) / Microlux TanPetite Plus 2 Zone (w/ Blanket & USB) / Duralux ChocolatePetite Plus 2 Zone (w/ Blanket & USB) / Duralux TanDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux BurgundyDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Dark MossDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux BlueDeluxe Plus 2 Zone (w/ Blanket & USB) / Microlux TanDeluxe Plus 2 Zone (w/ Blanket & USB) / Duralux ChocolateDeluxe Plus 2 Zone (w/ Blanket & USB) / Duralux TanDeluxe Plus 2 Zone (w/ Blanket & USB) / Leather ChestnutDeluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Chocolate SpectraDeluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Light Gray SpectraDeluxe Plus 2 Zone (w/ Blanket & USB) / Miralux SaddleDeluxe 5 Zone / Miralux Light Gray SpectraDeluxe 5 Zone / Miralux Saddle
 
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Petite-Blue-Duralux.jpg?v=1726679083)
+#### Size & Type: Petite Plus 2 Zone (w/ Blanket & USB)
 
-![](//www.shopjourney.com/cdn/shop/files/zoom-in.png?v=1718690134)](https://www.shopjourney.com/cdn/shop/files/PSC-Petite-Blue-Duralux.jpg?v=1726679083)
+Petite Plus 2 Zone (w/ Blanket & USB)
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Hero.webp?v=1724857105&width=1080)](https://www.shopjourney.com/cdn/shop/files/PSC-Hero.webp?v=1724857105)icon-search Close (esc)
+Size & Type: Petite Plus 2 Zone (w/ Blanket & USB)
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Tilt01.webp?v=1724857135&width=1080)](https://www.shopjourney.com/cdn/shop/files/PSC-Tilt01.webp?v=1724857135)icon-search Close (esc)
+Petite Plus 2 Zone (w/ Blanket & USB)
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-brisa-light-gray-spectra-2zone_fa321dce-5dd0-4b77-a1ee-0415e18ef957.jpg?v=1725910856&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-brisa-light-gray-spectra-2zone_fa321dce-5dd0-4b77-a1ee-0415e18ef957.jpg?v=1725910856)icon-search Close (esc)
+Deluxe Plus 2 Zone (w/ Blanket & USB)
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-premier-duralux-chocolate-2zone-front_a1d189b7-c7c1-488a-ba19-722ee85a3658.jpg?v=1725910856&width=1080)](https://www.shopjourney.com/cdn/shop/files/psc-premier-duralux-chocolate-2zone-front_a1d189b7-c7c1-488a-ba19-722ee85a3658.jpg?v=1725910856)icon-search Close (esc)
+Deluxe 5 Zone
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan.jpg?v=1725900829&width=1080)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan.jpg?v=1725900829)icon-search Close (esc)
+#### Color & Material: Microlux Blue
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-spectra-brisa-5zone_a3539533-2412-4b94-82ec-5a5080241539.jpg?v=1725910856&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-spectra-brisa-5zone_a3539533-2412-4b94-82ec-5a5080241539.jpg?v=1725910856)icon-search Close (esc)
+Microlux Blue
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-microlux-tan.jpg?v=1725900829&width=1080)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-microlux-tan.jpg?v=1725900829)icon-search Close (esc)
+Color & Material: Microlux Blue
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Burgundy-2zone-front_b2771992-5220-4693-8fb3-14c0bde917a6.jpg?v=1725910856&width=1080)](https://www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Burgundy-2zone-front_b2771992-5220-4693-8fb3-14c0bde917a6.jpg?v=1725910856)icon-search Close (esc)
+Microlux Blue
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Blue-2zone-front_e85516af-6459-44c0-a080-f045b065598e.jpg?v=1725910856&width=1080)](https://www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Blue-2zone-front_e85516af-6459-44c0-a080-f045b065598e.jpg?v=1725910856)icon-search Close (esc)
+Microlux Burgundy
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-chestnut-leather-2zone_1bf95a18-2412-4126-b23d-5529bc6c53b6.jpg?v=1725910856&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-chestnut-leather-2zone_1bf95a18-2412-4126-b23d-5529bc6c53b6.jpg?v=1725910856)icon-search Close (esc)
+Microlux Chocolate
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicoLux-Chocolate-2zone-Front_f1f39575-40e5-45ca-b232-f7ab36f19743.jpg?v=1725910856&width=1080)](https://www.shopjourney.com/cdn/shop/files/PSC-Premier-MicoLux-Chocolate-2zone-Front_f1f39575-40e5-45ca-b232-f7ab36f19743.jpg?v=1725910856)icon-search Close (esc)
+Microlux Tan
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-duralux-tan_2a122325-75a8-49ca-863d-cfae63543c21.jpg?v=1725910856&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-duralux-tan_2a122325-75a8-49ca-863d-cfae63543c21.jpg?v=1725910856)icon-search Close (esc)
+Duralux Chocolate
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-heated-back-demo_75a6ea46-2d52-4282-957b-e9453833a87f.jpg?v=1725910856&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-heated-back-demo_75a6ea46-2d52-4282-957b-e9453833a87f.jpg?v=1725910856)icon-search Close (esc)
+Duralux Tan
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-lift-demo_46752300-d2ea-4437-abb7-59c9e0385136.jpg?v=1725910856&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-lift-demo_46752300-d2ea-4437-abb7-59c9e0385136.jpg?v=1725910856)icon-search Close (esc)
+Microlux Dark Moss
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket.png?v=1725910793&width=1080)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket.png?v=1725910793)icon-search Close (esc)
+Leather Chestnut
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket-woman.png?v=1724857164&width=1080)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket-woman.png?v=1724857164)icon-search Close (esc)
+Miralux Chocolate Spectra
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-duralux-2zone_e9f8963f-4f01-4541-85e6-564e4218c6cb.jpg?v=1725910687&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-duralux-2zone_e9f8963f-4f01-4541-85e6-564e4218c6cb.jpg?v=1725910687)icon-search Close (esc)
+Miralux Light Gray Spectra
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-leather-chestnut_54fc3083-0acc-4a98-bc39-77160ed6d073.jpg?v=1725910687&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-leather-chestnut_54fc3083-0acc-4a98-bc39-77160ed6d073.jpg?v=1725910687)icon-search Close (esc)
+Miralux Saddle
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-tan-microlux-2zone_0044e5a7-16e6-47da-ae1e-3ee7eab55fb9.jpg?v=1725910687&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-tan-microlux-2zone_0044e5a7-16e6-47da-ae1e-3ee7eab55fb9.jpg?v=1725910687)icon-search Close (esc)
+ 
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-blue-microlux-2zone_3c1e4ec5-f292-475b-a6ae-82e09253276f.jpg?v=1725910675&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-blue-microlux-2zone_3c1e4ec5-f292-475b-a6ae-82e09253276f.jpg?v=1725910675)icon-search Close (esc)
+Add to cart
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-burgundy-microlux-2zone_ebd9cf0a-cc4b-4acc-91d4-d64324e87ea0.jpg?v=1725910675&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-burgundy-microlux-2zone_ebd9cf0a-cc4b-4acc-91d4-d64324e87ea0.jpg?v=1725910675)icon-search Close (esc)
+Notify Me When Available
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-microlux-2zone_f3c27d7d-c180-40fe-94fd-4b0aeff772ab.jpg?v=1725910675&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-microlux-2zone_f3c27d7d-c180-40fe-94fd-4b0aeff772ab.jpg?v=1725910675)icon-search Close (esc)
+![visa](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![amazon payments](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![american express](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![apple pay](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![google pay](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![master](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![discover](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![bread](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-duralux-2zone_b92a83b6-ffa9-4c40-afb1-a927f37363cb.jpg?v=1725900977&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-duralux-2zone_b92a83b6-ffa9-4c40-afb1-a927f37363cb.jpg?v=1725900977)icon-search Close (esc)
+SKU: 27275BLU
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-duralux-2zone_9e177b05-4b6e-4fa5-9a45-c1b1b4191676.jpg?v=1725900977&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-duralux-2zone_9e177b05-4b6e-4fa5-9a45-c1b1b4191676.jpg?v=1725900977)icon-search Close (esc)
+ 
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-microlux-2zone_cfd504f5-92fa-4a95-b6a4-6691feeb1f56.jpg?v=1725900977&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-microlux-2zone_cfd504f5-92fa-4a95-b6a4-6691feeb1f56.jpg?v=1725900977)icon-search Close (esc)
+* [Description](#t4s-tab-destemplate--23576988385648__main)
+* [Specifications](#t4s_tab_754ad4a0-7308-4a3e-b325-e2f2c0b85d4c)
+* [FAQs](#t4s_tab_tab_liquid_6HacDH)
+* [Shipping Information](#t4s_tab_tab_html_zCWUMR)
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-burgundy-microlux-2zone_9f41a5aa-7fbb-43f2-aaf2-4abbcca27422.jpg?v=1725900977&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-burgundy-microlux-2zone_9f41a5aa-7fbb-43f2-aaf2-4abbcca27422.jpg?v=1725900977)icon-search Close (esc)
+[Description](#t4s-tab-destemplate--23576988385648__main)
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-blue-microlux-2zone_b7e021b9-a9f5-45e1-b152-78d296970396.jpg?v=1725900977&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-blue-microlux-2zone_b7e021b9-a9f5-45e1-b152-78d296970396.jpg?v=1725900977)icon-search Close (esc)
+The Perfect Sleep Chair® is designed to be the most comfortable lift chair you will ever own. Whether sitting upright, leaning back to watch TV or lying completely flat for sleeping, you can craft your personalized level of comfort, with therapeutic heat and massage built in. It’s effortless comfort at the touch of a button.
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-microlux-2zone_274e8950-7535-44bf-afa8-d299340cc108.jpg?v=1725900977&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-microlux-2zone_274e8950-7535-44bf-afa8-d299340cc108.jpg?v=1725900977)icon-search Close (esc)
+With the Perfect Sleep Chair®, there's a perfect position for everybody, awake or asleep. The powered recliner is controlled by remote, so you can enjoy any position with ease.
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-5zone_783ecad2-068d-471a-8ef7-d4169d2a52f6.jpg?v=1725900977&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-5zone_783ecad2-068d-471a-8ef7-d4169d2a52f6.jpg?v=1725900977)icon-search Close (esc)
+This power lift chair comes with a wide selection of quality materials
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-2zone_0eb82748-a21f-4524-a006-6b9b86f88e67.jpg?v=1725900977&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-2zone_0eb82748-a21f-4524-a006-6b9b86f88e67.jpg?v=1725900977)icon-search Close (esc)
+* **Miralux "Better than Leather":** This scratch and stain resistant faux leather fabric has unique ventilation for greater comfort in all climate conditions.
+* **Genuine Leather:** Classic comfort and style. Your entire Journey Perfect Sleep Chair is covered in 100% real leather.
+* **Duralux:** High quality fabric with a classic leather look. Repels stains and liquids - can be easily wiped clean with warm water.
+* **Microlux:** Plush and incredibly soft microfiber with a suede-like appearance and ultra-rich feel. Durable, yet soft and breathable.
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-light-gray-brisa-5zone_abc59ca9-9b58-4d7a-b6d3-7227dccafbc9.jpg?v=1725900977&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-light-gray-brisa-5zone_abc59ca9-9b58-4d7a-b6d3-7227dccafbc9.jpg?v=1725900977)icon-search Close (esc)
+This reclining lift chair also comes with support for multiple positions:
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-brisa-2zone_89b827e3-c971-49a3-b1af-dafa17ccbb1b.jpg?v=1725900977&width=1080)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-brisa-2zone_89b827e3-c971-49a3-b1af-dafa17ccbb1b.jpg?v=1725900977)icon-search Close (esc)
+* **Lift Position:** Go between sitting and standing effortlessly.
+* **Sitting Position:** Sit in complete comfort while you visit with loved ones.
+* **TV Watching:** Relax in comfort while you catch up on news, sports, movies, and more.
+* **Zero Gravity:** Enjoy relief from aches as pressure on your body is reduced.
+* **Sleeping Position:** Create your own customized sleep position for rejuvenating rest.
 
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-petite-dimensions-v2_41561f06-a7e6-4d65-b4a7-b7194e82895d.jpg?v=1725900977&width=1080)](https://www.shopjourney.com/cdn/shop/files/psc-petite-dimensions-v2_41561f06-a7e6-4d65-b4a7-b7194e82895d.jpg?v=1725900977)icon-search Close (esc)
-
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Petite-Burgundy-Duralux.jpg?v=1726679064&width=1080)](https://www.shopjourney.com/cdn/shop/files/PSC-Petite-Burgundy-Duralux.jpg?v=1726679064)icon-search Close (esc)
-
- [![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Petite-Blue-Duralux.jpg?v=1726679083&width=1080)](https://www.shopjourney.com/cdn/shop/files/PSC-Petite-Blue-Duralux.jpg?v=1726679083)icon-search Close (esc)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Hero.webp?v=1724857105&width=720)](https://www.shopjourney.com/cdn/shop/files/PSC-Hero_1800x1800.webp?v=1724857105)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Tilt01.webp?v=1724857135&width=720)](https://www.shopjourney.com/cdn/shop/files/PSC-Tilt01_1800x1800.webp?v=1724857135)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-brisa-light-gray-spectra-2zone_fa321dce-5dd0-4b77-a1ee-0415e18ef957.jpg?v=1725910856&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-brisa-light-gray-spectra-2zone_fa321dce-5dd0-4b77-a1ee-0415e18ef957_1800x1800.jpg?v=1725910856)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-premier-duralux-chocolate-2zone-front_a1d189b7-c7c1-488a-ba19-722ee85a3658.jpg?v=1725910856&width=720)](https://www.shopjourney.com/cdn/shop/files/psc-premier-duralux-chocolate-2zone-front_a1d189b7-c7c1-488a-ba19-722ee85a3658_1800x1800.jpg?v=1725910856)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan.jpg?v=1725900829&width=720)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan_1800x1800.jpg?v=1725900829)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-spectra-brisa-5zone_a3539533-2412-4b94-82ec-5a5080241539.jpg?v=1725910856&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-spectra-brisa-5zone_a3539533-2412-4b94-82ec-5a5080241539_1800x1800.jpg?v=1725910856)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-microlux-tan.jpg?v=1725900829&width=720)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-microlux-tan_1800x1800.jpg?v=1725900829)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Burgundy-2zone-front_b2771992-5220-4693-8fb3-14c0bde917a6.jpg?v=1725910856&width=720)](https://www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Burgundy-2zone-front_b2771992-5220-4693-8fb3-14c0bde917a6_1800x1800.jpg?v=1725910856)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Blue-2zone-front_e85516af-6459-44c0-a080-f045b065598e.jpg?v=1725910856&width=720)](https://www.shopjourney.com/cdn/shop/files/PSC-Premier-MicroLux-Blue-2zone-front_e85516af-6459-44c0-a080-f045b065598e_1800x1800.jpg?v=1725910856)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-chestnut-leather-2zone_1bf95a18-2412-4126-b23d-5529bc6c53b6.jpg?v=1725910856&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-chestnut-leather-2zone_1bf95a18-2412-4126-b23d-5529bc6c53b6_1800x1800.jpg?v=1725910856)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Premier-MicoLux-Chocolate-2zone-Front_f1f39575-40e5-45ca-b232-f7ab36f19743.jpg?v=1725910856&width=720)](https://www.shopjourney.com/cdn/shop/files/PSC-Premier-MicoLux-Chocolate-2zone-Front_f1f39575-40e5-45ca-b232-f7ab36f19743_1800x1800.jpg?v=1725910856)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-duralux-tan_2a122325-75a8-49ca-863d-cfae63543c21.jpg?v=1725910856&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-plus-duralux-tan_2a122325-75a8-49ca-863d-cfae63543c21_1800x1800.jpg?v=1725910856)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-heated-back-demo_75a6ea46-2d52-4282-957b-e9453833a87f.jpg?v=1725910856&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-heated-back-demo_75a6ea46-2d52-4282-957b-e9453833a87f_1800x1800.jpg?v=1725910856)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-lift-demo_46752300-d2ea-4437-abb7-59c9e0385136.jpg?v=1725910856&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-lift-demo_46752300-d2ea-4437-abb7-59c9e0385136_1800x1800.jpg?v=1725910856)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket.png?v=1725910793&width=720)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket_1800x1800.png?v=1725910793)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket-woman.png?v=1724857164&width=720)](https://www.shopjourney.com/cdn/shop/files/psc-deluxe-plus-duralux-tan-with-blanket-woman_1800x1800.png?v=1724857164)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-duralux-2zone_e9f8963f-4f01-4541-85e6-564e4218c6cb.jpg?v=1725910687&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-duralux-2zone_e9f8963f-4f01-4541-85e6-564e4218c6cb_1800x1800.jpg?v=1725910687)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-leather-chestnut_54fc3083-0acc-4a98-bc39-77160ed6d073.jpg?v=1725910687&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-leather-chestnut_54fc3083-0acc-4a98-bc39-77160ed6d073_1800x1800.jpg?v=1725910687)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-tan-microlux-2zone_0044e5a7-16e6-47da-ae1e-3ee7eab55fb9.jpg?v=1725910687&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-tan-microlux-2zone_0044e5a7-16e6-47da-ae1e-3ee7eab55fb9_1800x1800.jpg?v=1725910687)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-blue-microlux-2zone_3c1e4ec5-f292-475b-a6ae-82e09253276f.jpg?v=1725910675&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-blue-microlux-2zone_3c1e4ec5-f292-475b-a6ae-82e09253276f_1800x1800.jpg?v=1725910675)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-burgundy-microlux-2zone_ebd9cf0a-cc4b-4acc-91d4-d64324e87ea0.jpg?v=1725910675&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-burgundy-microlux-2zone_ebd9cf0a-cc4b-4acc-91d4-d64324e87ea0_1800x1800.jpg?v=1725910675)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-microlux-2zone_f3c27d7d-c180-40fe-94fd-4b0aeff772ab.jpg?v=1725910675&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-microlux-2zone_f3c27d7d-c180-40fe-94fd-4b0aeff772ab_1800x1800.jpg?v=1725910675)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-duralux-2zone_b92a83b6-ffa9-4c40-afb1-a927f37363cb.jpg?v=1725900977&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-duralux-2zone_b92a83b6-ffa9-4c40-afb1-a927f37363cb_1800x1800.jpg?v=1725900977)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-duralux-2zone_9e177b05-4b6e-4fa5-9a45-c1b1b4191676.jpg?v=1725900977&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-duralux-2zone_9e177b05-4b6e-4fa5-9a45-c1b1b4191676_1800x1800.jpg?v=1725900977)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-microlux-2zone_cfd504f5-92fa-4a95-b6a4-6691feeb1f56.jpg?v=1725900977&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-chocolate-microlux-2zone_cfd504f5-92fa-4a95-b6a4-6691feeb1f56_1800x1800.jpg?v=1725900977)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-burgundy-microlux-2zone_9f41a5aa-7fbb-43f2-aaf2-4abbcca27422.jpg?v=1725900977&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-burgundy-microlux-2zone_9f41a5aa-7fbb-43f2-aaf2-4abbcca27422_1800x1800.jpg?v=1725900977)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-blue-microlux-2zone_b7e021b9-a9f5-45e1-b152-78d296970396.jpg?v=1725900977&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-blue-microlux-2zone_b7e021b9-a9f5-45e1-b152-78d296970396_1800x1800.jpg?v=1725900977)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-microlux-2zone_274e8950-7535-44bf-afa8-d299340cc108.jpg?v=1725900977&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-petite-tan-microlux-2zone_274e8950-7535-44bf-afa8-d299340cc108_1800x1800.jpg?v=1725900977)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-5zone_783ecad2-068d-471a-8ef7-d4169d2a52f6.jpg?v=1725900977&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-5zone_783ecad2-068d-471a-8ef7-d4169d2a52f6_1800x1800.jpg?v=1725900977)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-2zone_0eb82748-a21f-4524-a006-6b9b86f88e67.jpg?v=1725900977&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-saddle-brisa-2zone_0eb82748-a21f-4524-a006-6b9b86f88e67_1800x1800.jpg?v=1725900977)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-light-gray-brisa-5zone_abc59ca9-9b58-4d7a-b6d3-7227dccafbc9.jpg?v=1725900977&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-light-gray-brisa-5zone_abc59ca9-9b58-4d7a-b6d3-7227dccafbc9_1800x1800.jpg?v=1725900977)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-brisa-2zone_89b827e3-c971-49a3-b1af-dafa17ccbb1b.jpg?v=1725900977&width=720)](https://www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-brisa-2zone_89b827e3-c971-49a3-b1af-dafa17ccbb1b_1800x1800.jpg?v=1725900977)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/psc-petite-dimensions-v2_41561f06-a7e6-4d65-b4a7-b7194e82895d.jpg?v=1725900977&width=720)](https://www.shopjourney.com/cdn/shop/files/psc-petite-dimensions-v2_41561f06-a7e6-4d65-b4a7-b7194e82895d_1800x1800.jpg?v=1725900977)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Petite-Burgundy-Duralux.jpg?v=1726679064&width=720)](https://www.shopjourney.com/cdn/shop/files/PSC-Petite-Burgundy-Duralux_1800x1800.jpg?v=1726679064)
-
-[![Perfect Sleep Chair](//www.shopjourney.com/cdn/shop/files/PSC-Petite-Blue-Duralux.jpg?v=1726679083&width=720)](https://www.shopjourney.com/cdn/shop/files/PSC-Petite-Blue-Duralux_1800x1800.jpg?v=1726679083)
-
-Perfect Sleep Chair
--------------------
-
-Regular price $1,899.00 Sale price$1,699.00 Save $200.00
-
-/
-
-The Leather Perfect Sleep Chair is shipping November 24th.
-
-4.9
-
-Rated 4.9 out of 5 stars
-
-337 Reviews
-
-* * *
-
-Build your Perfect Sleep Chair in 2 easy steps below:
-
-Size & Type
-
-Petite Plus 2 Zone (w/ Blanket & USB) Deluxe Plus 2 Zone (w/ Blanket & USB) Deluxe 5 Zone
-
-Color & Material
-
-Microlux Blue Microlux Burgundy Microlux Chocolate Microlux Tan Duralux Chocolate Duralux Tan Microlux Dark Moss Miralux Chocolate Spectra Miralux Light Gray Spectra Miralux Saddle
-
- Add to cart
-
-Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Blue - $1,699.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Burgundy - $1,699.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Chocolate - $1,699.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Microlux Tan - $1,699.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Duralux Chocolate - $1,699.00 USD Petite Plus 2 Zone (w/ Blanket & USB) / Duralux Tan - $1,699.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Burgundy - $1,799.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Dark Moss - $1,499.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Blue - $1,799.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Microlux Tan - $1,799.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Duralux Chocolate - $1,999.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Duralux Tan - $1,999.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Chocolate Spectra - $2,399.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Light Gray Spectra - $2,399.00 USD Deluxe Plus 2 Zone (w/ Blanket & USB) / Miralux Saddle - $2,399.00 USD Deluxe 5 Zone / Miralux Light Gray Spectra - $3,099.00 USD Deluxe 5 Zone / Miralux Saddle - $3,099.00 USD 
-
-* Please allow 3-6 weeks for White Glove delivery, and 7-10 days for Threshold delivery.
-
-Shipping information
-
-**Threshold Delivery**
-
-We deliver your product to your home in a brown box, ready for you to unpack and assemble in a few easy steps.
-
-**White Glove Delivery**
-
-We deliver your product, set it up where you want it, and haul away all packaging material.
-
-**Repairs & Replacements**
-
-When your chair is delivered, if you find it to be damaged or defective in any way, we'll be happy to repair or replace it. For more questions regarding returns, please feel free to contact our Customer Service Department at 800-958-8324.
-
-Technical Specs & Manual
+[Specifications](#t4s_tab_754ad4a0-7308-4a3e-b325-e2f2c0b85d4c)
 
 [**Click here to watch the Perfect Sleep Chair unboxing and assembly video (2:50)**](https://www.shopjourney.com/products/perfect-sleep-chair# "https://www.shopjourney.com/products/perfect-sleep-chair#")
 
@@ -442,106 +274,17 @@ Technical Specs & Manual
 
 [**Download the Petite and Petite Plus Manual**](https://cdn.shopify.com/s/files/1/0556/3016/8147/files/27275-PSC-Petite-Plus-and-Petite-Manual.pdf?v=1726679791 "Perfect Sleep Chair Petite and Petite Plus Owner's Manual")
 
-\[{"id":51649555399024,"title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Blue","option1":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Microlux Blue","option3":null,"sku":"27275BLU","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264937300051,"product\_id":7199302877267,"position":27,"created\_at":"2024-03-19T16:35:53-04:00","updated\_at":"2024-09-09T12:56:17-04:00","alt":null,"width":600,"height":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-blue-microlux-2zone\_b7e021b9-a9f5-45e1-b152-78d296970396.jpg?v=1725900977","variant\_ids":\[51649555399024\]},"available":true,"name":"Perfect Sleep Chair - Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Blue","public\_title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Blue","options":\["Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Microlux Blue"\],"price":169900,"weight":81012,"compare\_at\_price":189900,"inventory\_management":"shopify","barcode":"","featured\_media":{"alt":null,"id":26700439650387,"position":27,"preview\_image":{"aspect\_ratio":1.0,"height":600,"width":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-blue-microlux-2zone\_b7e021b9-a9f5-45e1-b152-78d296970396.jpg?v=1725900977"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":51649555333488,"title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Burgundy","option1":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Microlux Burgundy","option3":null,"sku":"27275BUR","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264935563347,"product\_id":7199302877267,"position":26,"created\_at":"2024-03-19T16:35:02-04:00","updated\_at":"2024-09-09T12:56:17-04:00","alt":null,"width":600,"height":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-burgundy-microlux-2zone\_9f41a5aa-7fbb-43f2-aaf2-4abbcca27422.jpg?v=1725900977","variant\_ids":\[51649555333488\]},"available":true,"name":"Perfect Sleep Chair - Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Burgundy","public\_title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Burgundy","options":\["Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Microlux Burgundy"\],"price":169900,"weight":81012,"compare\_at\_price":189900,"inventory\_management":"shopify","barcode":"","featured\_media":{"alt":null,"id":26700437880915,"position":26,"preview\_image":{"aspect\_ratio":1.0,"height":600,"width":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-burgundy-microlux-2zone\_9f41a5aa-7fbb-43f2-aaf2-4abbcca27422.jpg?v=1725900977"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":51649555366256,"title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Chocolate","option1":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Microlux Chocolate","option3":null,"sku":"27275CHO","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264932352083,"product\_id":7199302877267,"position":25,"created\_at":"2024-03-19T16:33:55-04:00","updated\_at":"2024-09-09T12:56:17-04:00","alt":null,"width":600,"height":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-chocolate-microlux-2zone\_cfd504f5-92fa-4a95-b6a4-6691feeb1f56.jpg?v=1725900977","variant\_ids":\[51649555366256\]},"available":true,"name":"Perfect Sleep Chair - Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Chocolate","public\_title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Chocolate","options":\["Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Microlux Chocolate"\],"price":169900,"weight":81012,"compare\_at\_price":189900,"inventory\_management":"shopify","barcode":"","featured\_media":{"alt":null,"id":26700434505811,"position":25,"preview\_image":{"aspect\_ratio":1.0,"height":600,"width":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-chocolate-microlux-2zone\_cfd504f5-92fa-4a95-b6a4-6691feeb1f56.jpg?v=1725900977"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":51649555431792,"title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Tan","option1":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Microlux Tan","option3":null,"sku":"27275TAN","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264941330515,"product\_id":7199302877267,"position":28,"created\_at":"2024-03-19T16:36:52-04:00","updated\_at":"2024-09-09T12:56:17-04:00","alt":null,"width":600,"height":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-tan-microlux-2zone\_274e8950-7535-44bf-afa8-d299340cc108.jpg?v=1725900977","variant\_ids":\[51649555431792\]},"available":true,"name":"Perfect Sleep Chair - Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Tan","public\_title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Tan","options":\["Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Microlux Tan"\],"price":169900,"weight":81012,"compare\_at\_price":189900,"inventory\_management":"shopify","barcode":"","featured\_media":{"alt":null,"id":26700443287635,"position":28,"preview\_image":{"aspect\_ratio":1.0,"height":600,"width":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-tan-microlux-2zone\_274e8950-7535-44bf-afa8-d299340cc108.jpg?v=1725900977"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":51649555464560,"title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Chocolate","option1":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Duralux Chocolate","option3":null,"sku":"27276CHO","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264915443795,"product\_id":7199302877267,"position":23,"created\_at":"2024-03-19T16:28:26-04:00","updated\_at":"2024-09-09T12:56:17-04:00","alt":null,"width":600,"height":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-chocolate-duralux-2zone\_b92a83b6-ffa9-4c40-afb1-a927f37363cb.jpg?v=1725900977","variant\_ids":\[51649555464560\]},"available":true,"name":"Perfect Sleep Chair - Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Chocolate","public\_title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Chocolate","options":\["Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Duralux Chocolate"\],"price":169900,"weight":81012,"compare\_at\_price":189900,"inventory\_management":"shopify","barcode":"","featured\_media":{"alt":null,"id":26700417269843,"position":23,"preview\_image":{"aspect\_ratio":1.0,"height":600,"width":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-chocolate-duralux-2zone\_b92a83b6-ffa9-4c40-afb1-a927f37363cb.jpg?v=1725900977"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":51649555497328,"title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Tan","option1":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Duralux Tan","option3":null,"sku":"27276TAN","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264923734099,"product\_id":7199302877267,"position":24,"created\_at":"2024-03-19T16:31:25-04:00","updated\_at":"2024-09-09T12:56:17-04:00","alt":null,"width":600,"height":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-tan-duralux-2zone\_9e177b05-4b6e-4fa5-9a45-c1b1b4191676.jpg?v=1725900977","variant\_ids":\[51649555497328\]},"available":true,"name":"Perfect Sleep Chair - Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Tan","public\_title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Tan","options":\["Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Duralux Tan"\],"price":169900,"weight":81012,"compare\_at\_price":189900,"inventory\_management":"shopify","barcode":"","featured\_media":{"alt":null,"id":26700425527379,"position":24,"preview\_image":{"aspect\_ratio":1.0,"height":600,"width":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-tan-duralux-2zone\_9e177b05-4b6e-4fa5-9a45-c1b1b4191676.jpg?v=1725900977"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":41745612406867,"title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Burgundy","option1":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Microlux Burgundy","option3":null,"sku":"27270BBU","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264987533395,"product\_id":7199302877267,"position":8,"created\_at":"2024-03-19T16:51:11-04:00","updated\_at":"2024-09-09T15:40:56-04:00","alt":null,"width":4032,"height":3024,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/PSC-Premier-MicroLux-Burgundy-2zone-front\_b2771992-5220-4693-8fb3-14c0bde917a6.jpg?v=1725910856","variant\_ids":\[41745612406867\]},"available":true,"name":"Perfect Sleep Chair - Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Burgundy","public\_title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Burgundy","options":\["Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Microlux Burgundy"\],"price":179900,"weight":68039,"compare\_at\_price":199900,"inventory\_management":"shopify","barcode":"850044523955","featured\_media":{"alt":null,"id":26700492734547,"position":8,"preview\_image":{"aspect\_ratio":1.333,"height":3024,"width":4032,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/PSC-Premier-MicroLux-Burgundy-2zone-front\_b2771992-5220-4693-8fb3-14c0bde917a6.jpg?v=1725910856"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":51649555300720,"title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Dark Moss","option1":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Microlux Dark Moss","option3":null,"sku":"27270CHO","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264983208019,"product\_id":7199302877267,"position":11,"created\_at":"2024-03-19T16:50:09-04:00","updated\_at":"2024-09-09T15:40:56-04:00","alt":null,"width":4032,"height":3024,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/PSC-Premier-MicoLux-Chocolate-2zone-Front\_f1f39575-40e5-45ca-b232-f7ab36f19743.jpg?v=1725910856","variant\_ids":\[51649555300720\]},"available":true,"name":"Perfect Sleep Chair - Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Dark Moss","public\_title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Dark Moss","options":\["Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Microlux Dark Moss"\],"price":149900,"weight":92986,"compare\_at\_price":169900,"inventory\_management":"shopify","barcode":"850044523870","featured\_media":{"alt":null,"id":26700487622739,"position":11,"preview\_image":{"aspect\_ratio":1.333,"height":3024,"width":4032,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/PSC-Premier-MicoLux-Chocolate-2zone-Front\_f1f39575-40e5-45ca-b232-f7ab36f19743.jpg?v=1725910856"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":41745612439635,"title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Blue","option1":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Microlux Blue","option3":null,"sku":"27270CPR","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264990318675,"product\_id":7199302877267,"position":9,"created\_at":"2024-03-19T16:52:10-04:00","updated\_at":"2024-09-09T15:40:56-04:00","alt":null,"width":4032,"height":3024,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/PSC-Premier-MicroLux-Blue-2zone-front\_e85516af-6459-44c0-a080-f045b065598e.jpg?v=1725910856","variant\_ids":\[41745612439635\]},"available":true,"name":"Perfect Sleep Chair - Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Blue","public\_title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Blue","options":\["Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Microlux Blue"\],"price":179900,"weight":68039,"compare\_at\_price":199900,"inventory\_management":"shopify","barcode":"850044523948","featured\_media":{"alt":null,"id":26700495847507,"position":9,"preview\_image":{"aspect\_ratio":1.333,"height":3024,"width":4032,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/PSC-Premier-MicroLux-Blue-2zone-front\_e85516af-6459-44c0-a080-f045b065598e.jpg?v=1725910856"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":41745612472403,"title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Tan","option1":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Microlux Tan","option3":null,"sku":"27270TAN","requires\_shipping":true,"taxable":false,"featured\_image":{"id":35756448841811,"product\_id":7199302877267,"position":7,"created\_at":"2024-09-09T12:53:48-04:00","updated\_at":"2024-09-09T12:53:49-04:00","alt":null,"width":656,"height":803,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/psc-deluxe-plus-microlux-tan.jpg?v=1725900829","variant\_ids":\[41745612472403\]},"available":true,"name":"Perfect Sleep Chair - Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Tan","public\_title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Tan","options":\["Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Microlux Tan"\],"price":179900,"weight":68039,"compare\_at\_price":199900,"inventory\_management":"shopify","barcode":"850044523931","featured\_media":{"alt":null,"id":28136994603091,"position":7,"preview\_image":{"aspect\_ratio":0.817,"height":803,"width":656,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/psc-deluxe-plus-microlux-tan.jpg?v=1725900829"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":41745612505171,"title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Chocolate","option1":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Duralux Chocolate","option3":null,"sku":"27271CHO","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264973770835,"product\_id":7199302877267,"position":4,"created\_at":"2024-03-19T16:46:43-04:00","updated\_at":"2024-09-09T15:40:56-04:00","alt":null,"width":4032,"height":3024,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/psc-premier-duralux-chocolate-2zone-front\_a1d189b7-c7c1-488a-ba19-722ee85a3658.jpg?v=1725910856","variant\_ids":\[41745612505171\]},"available":true,"name":"Perfect Sleep Chair - Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Chocolate","public\_title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Chocolate","options":\["Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Duralux Chocolate"\],"price":199900,"weight":68039,"compare\_at\_price":219900,"inventory\_management":"shopify","barcode":"850044523986","featured\_media":{"alt":null,"id":26700476907603,"position":4,"preview\_image":{"aspect\_ratio":1.333,"height":3024,"width":4032,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/psc-premier-duralux-chocolate-2zone-front\_a1d189b7-c7c1-488a-ba19-722ee85a3658.jpg?v=1725910856"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":41745612537939,"title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Tan","option1":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Duralux Tan","option3":null,"sku":"27271CPE","requires\_shipping":true,"taxable":false,"featured\_image":{"id":35756448809043,"product\_id":7199302877267,"position":5,"created\_at":"2024-09-09T12:53:48-04:00","updated\_at":"2024-09-09T12:53:49-04:00","alt":null,"width":574,"height":704,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/psc-deluxe-plus-duralux-tan.jpg?v=1725900829","variant\_ids":\[41745612537939\]},"available":true,"name":"Perfect Sleep Chair - Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Tan","public\_title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Duralux Tan","options":\["Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Duralux Tan"\],"price":199900,"weight":68039,"compare\_at\_price":219900,"inventory\_management":"shopify","barcode":"850044523962","featured\_media":{"alt":null,"id":28136994570323,"position":5,"preview\_image":{"aspect\_ratio":0.815,"height":704,"width":574,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/psc-deluxe-plus-duralux-tan.jpg?v=1725900829"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":51664201384304,"title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Miralux Chocolate Spectra","option1":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Miralux Chocolate Spectra","option3":null,"sku":"27273BRT","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264966234195,"product\_id":7199302877267,"position":32,"created\_at":"2024-03-19T16:44:53-04:00","updated\_at":"2024-09-09T12:56:17-04:00","alt":null,"width":600,"height":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-deluxe-chocolate-brisa-2zone\_89b827e3-c971-49a3-b1af-dafa17ccbb1b.jpg?v=1725900977","variant\_ids":\[51664201384304\]},"available":true,"name":"Perfect Sleep Chair - Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Miralux Chocolate Spectra","public\_title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Miralux Chocolate Spectra","options":\["Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Miralux Chocolate Spectra"\],"price":239900,"weight":68039,"compare\_at\_price":259900,"inventory\_management":"shopify","barcode":"850057699029","featured\_media":{"alt":null,"id":26700469076051,"position":32,"preview\_image":{"aspect\_ratio":1.0,"height":600,"width":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-deluxe-chocolate-brisa-2zone\_89b827e3-c971-49a3-b1af-dafa17ccbb1b.jpg?v=1725900977"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":51664201417072,"title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Miralux Light Gray Spectra","option1":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Miralux Light Gray Spectra","option3":null,"sku":"27273SSD","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264899485779,"product\_id":7199302877267,"position":3,"created\_at":"2024-03-19T16:21:39-04:00","updated\_at":"2024-09-09T15:40:56-04:00","alt":null,"width":610,"height":453,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-brisa-light-gray-spectra-2zone\_fa321dce-5dd0-4b77-a1ee-0415e18ef957.jpg?v=1725910856","variant\_ids":\[51664201417072\]},"available":true,"name":"Perfect Sleep Chair - Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Miralux Light Gray Spectra","public\_title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Miralux Light Gray Spectra","options":\["Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Miralux Light Gray Spectra"\],"price":239900,"weight":68039,"compare\_at\_price":259900,"inventory\_management":"shopify","barcode":"850057699012","featured\_media":{"alt":null,"id":26700400754771,"position":3,"preview\_image":{"aspect\_ratio":1.347,"height":453,"width":610,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-brisa-light-gray-spectra-2zone\_fa321dce-5dd0-4b77-a1ee-0415e18ef957.jpg?v=1725910856"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":51664201449840,"title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Miralux Saddle","option1":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Miralux Saddle","option3":null,"sku":"27273USA","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264956960851,"product\_id":7199302877267,"position":30,"created\_at":"2024-03-19T16:42:17-04:00","updated\_at":"2024-09-09T12:56:17-04:00","alt":null,"width":610,"height":453,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-deluxe-saddle-brisa-2zone\_0eb82748-a21f-4524-a006-6b9b86f88e67.jpg?v=1725900977","variant\_ids":\[51664201449840\]},"available":true,"name":"Perfect Sleep Chair - Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Miralux Saddle","public\_title":"Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Miralux Saddle","options":\["Deluxe Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Miralux Saddle"\],"price":239900,"weight":68039,"compare\_at\_price":259900,"inventory\_management":"shopify","barcode":"850057699036","featured\_media":{"alt":null,"id":26700459180115,"position":30,"preview\_image":{"aspect\_ratio":1.347,"height":453,"width":610,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-deluxe-saddle-brisa-2zone\_0eb82748-a21f-4524-a006-6b9b86f88e67.jpg?v=1725900977"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":51649570079088,"title":"Deluxe 5 Zone \\/ Miralux Light Gray Spectra","option1":"Deluxe 5 Zone","option2":"Miralux Light Gray Spectra","option3":null,"sku":"27202SSD","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264958894163,"product\_id":7199302877267,"position":31,"created\_at":"2024-03-19T16:43:34-04:00","updated\_at":"2024-09-09T12:56:17-04:00","alt":null,"width":600,"height":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-deluxe-light-gray-brisa-5zone\_abc59ca9-9b58-4d7a-b6d3-7227dccafbc9.jpg?v=1725900977","variant\_ids":\[51649570079088\]},"available":true,"name":"Perfect Sleep Chair - Deluxe 5 Zone \\/ Miralux Light Gray Spectra","public\_title":"Deluxe 5 Zone \\/ Miralux Light Gray Spectra","options":\["Deluxe 5 Zone","Miralux Light Gray Spectra"\],"price":309900,"weight":95254,"compare\_at\_price":259900,"inventory\_management":"shopify","barcode":"","featured\_media":{"alt":null,"id":26700461408339,"position":31,"preview\_image":{"aspect\_ratio":1.0,"height":600,"width":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-deluxe-light-gray-brisa-5zone\_abc59ca9-9b58-4d7a-b6d3-7227dccafbc9.jpg?v=1725900977"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}},{"id":51649570111856,"title":"Deluxe 5 Zone \\/ Miralux Saddle","option1":"Deluxe 5 Zone","option2":"Miralux Saddle","option3":null,"sku":"27204USA","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264953454675,"product\_id":7199302877267,"position":29,"created\_at":"2024-03-19T16:40:38-04:00","updated\_at":"2024-09-09T12:56:17-04:00","alt":null,"width":610,"height":453,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-deluxe-saddle-brisa-5zone\_783ecad2-068d-471a-8ef7-d4169d2a52f6.jpg?v=1725900977","variant\_ids":\[51649570111856\]},"available":true,"name":"Perfect Sleep Chair - Deluxe 5 Zone \\/ Miralux Saddle","public\_title":"Deluxe 5 Zone \\/ Miralux Saddle","options":\["Deluxe 5 Zone","Miralux Saddle"\],"price":309900,"weight":95254,"compare\_at\_price":259900,"inventory\_management":"shopify","barcode":"","featured\_media":{"alt":null,"id":26700455477331,"position":29,"preview\_image":{"aspect\_ratio":1.347,"height":453,"width":610,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-deluxe-saddle-brisa-5zone\_783ecad2-068d-471a-8ef7-d4169d2a52f6.jpg?v=1725900977"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}}\] {"id":51649555399024,"title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Blue","option1":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","option2":"Microlux Blue","option3":null,"sku":"27275BLU","requires\_shipping":true,"taxable":false,"featured\_image":{"id":34264937300051,"product\_id":7199302877267,"position":27,"created\_at":"2024-03-19T16:35:53-04:00","updated\_at":"2024-09-09T12:56:17-04:00","alt":null,"width":600,"height":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-blue-microlux-2zone\_b7e021b9-a9f5-45e1-b152-78d296970396.jpg?v=1725900977","variant\_ids":\[51649555399024\]},"available":true,"name":"Perfect Sleep Chair - Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Blue","public\_title":"Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB) \\/ Microlux Blue","options":\["Petite Plus 2 Zone (w\\/ Blanket \\u0026 USB)","Microlux Blue"\],"price":169900,"weight":81012,"compare\_at\_price":189900,"inventory\_management":"shopify","barcode":"","featured\_media":{"alt":null,"id":26700439650387,"position":27,"preview\_image":{"aspect\_ratio":1.0,"height":600,"width":600,"src":"\\/\\/www.shopjourney.com\\/cdn\\/shop\\/files\\/perfect-sleep-chair-petite-blue-microlux-2zone\_b7e021b9-a9f5-45e1-b152-78d296970396.jpg?v=1725900977"}},"requires\_selling\_plan":false,"selling\_plan\_allocations":\[\],"quantity\_rule":{"min":1,"max":null,"increment":1}}
+[FAQs](#t4s_tab_tab_liquid_6HacDH)
 
-![](//www.shopjourney.com/cdn/shop/files/Mask_group_2.png?v=1709283340&width=2400)
+[Shipping Information](#t4s_tab_tab_html_zCWUMR)
 
-The Perfect Sleep Chair
+**Threshold Delivery:** We deliver your product to your home in a brown box, ready for you to unpack and assemble in a few easy steps.
 
-With the Perfect Sleep Chair®, there's a perfect position for everybody, awake or asleep.
+**White Glove Delivery:** We deliver your product, set it up where you want it, and haul away all packaging material.
 
-The powered recliner is controlled by remote, so you can enjoy any position with ease.  
+**Please allow 3-6 weeks for White Glove delivery, and 7-10 days for Threshold delivery.**
 
-Experience Restful Sleep
-------------------------
-
-Perfect Sleep Chair is taylored to your personal needs, with features like power recliner and lift, heat, and massage.
-
-![](//www.shopjourney.com/cdn/shop/files/sleepchair-graphic-2.jpg?v=1652296011&width=1080)
-
-![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-heated-back-demo_75a6ea46-2d52-4282-957b-e9453833a87f.jpg?v=1725910856&width=1080)
-
-Customized Comfort
-------------------
-
-Power reclines and lifts with heat and massage features.
-
-A Wide Selection of Quality Materials
--------------------------------------
-
-![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-brisa-light-gray-spectra-2zone.webp?v=1705937931&width=1080)
-
-### Miralux "Better than Leather"
-
-This scratch and stain resistant faux leather fabric has unique ventilation for greater comfort in all climate conditions.
-
-![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-chocolate-duralux-2zone_35e82d5c-ef4b-4de8-98f5-6bad6f03dc57.jpg?v=1705937653&width=1080)
-
-### Genuine Leather
-
-Classic comfort and style. Your entire Journey Perfect Sleep Chair is covered in 100% real leather.
-
-![](//www.shopjourney.com/cdn/shop/files/perfect-sleep-chair-deluxe-tan-duralux-2zone_aa3d877d-82f3-42d8-9983-3d44cf34ee30.jpg?v=1705938038&width=1080)
-
-### Duralux
-
-High quality fabric with a classic leather look. Repels stains and liquids - can be easily wiped clean with warm water.
-
-![](//www.shopjourney.com/cdn/shop/files/psc-deluxe-microfiber-tan-1.jpg?v=1725914187&width=1080)
-
-### Microlux
-
-Plush and incredibly soft microfiber with a suede-like appearance and ultra-rich feel. Durable, yet soft and breathable.
-
-Support for Multiple Positions
-------------------------------
-
-![](//www.shopjourney.com/cdn/shop/files/1-_postion_1._psc_top_features_recline_positions1.jpg?v=1654824208&width=1080)
-
-### Lift Position
-
-Go between sitting and standing effortlessly
-
-![](//www.shopjourney.com/cdn/shop/files/2_-_position_2_-_psc_top_features_recline_positions2.jpg?v=1654824215&width=1080)
-
-### Sitting Position
-
-Sit in complete comfort while you visit with loved ones
-
-![](//www.shopjourney.com/cdn/shop/files/3_-_position_3_-_psc_top_features_recline_positions3.jpg?v=1654824221&width=1080)
-
-### TV Watching
-
-Relax in comfort while you catch up on news, sports, movies, and more
-
-![](//www.shopjourney.com/cdn/shop/files/4_-_position_4_-_psc_top_features_recline_positions4.jpg?v=1654824227&width=1080)
-
-### Zero Gravity
-
-Enjoy relief from aches as pressure on your body is reduced
-
-![](//www.shopjourney.com/cdn/shop/files/5_-_position_5_-_psc_top_features_recline_positions5.jpg?v=1654824232&width=1080)
-
-### Sleeping Position
-
-Create your own customized sleep position for rejuvenating rest
-
-### You may also like
-
-Sale
-
-![](//www.shopjourney.com/cdn/shop/files/PSC-Hero.webp?v=1724857105&width=1080)
-
-![](//www.shopjourney.com/cdn/shop/files/PSC-Tilt01.webp?v=1724857135&width=1000)
-
-Quick view
-
-[Perfect Sleep Chair
--------------------
-
-Regular price $1,699.00 Sale pricefrom $1,499.00 Save $200.00](https://www.perfectsleepchair.com/products/perfect-sleep-chair)
-
-icon-X "Close (esc)"
+**Repairs & Replacements:** When your chair is delivered, if you find it to be damaged or defective in any way, we'll be happy to repair or replace it. For more questions regarding returns, please feel free to contact our Customer Service Department at 800-958-8324.
 
 4.8
 
@@ -784,85 +527,80 @@ Loading...
 
 Reviews LoadedReviews Added
 
-About Us
---------
+    
 
-About Us
+### Get in Touch
 
+### Get in touch
+
+**Sales:**  
+888-404-1724  
+M-F 9am - 7pm EST  
+Sat 10am - 6pm EST  
+  
+**Customer Service:**  
+800-958-8324  
+M-F 9am - 6pm EST  
+Sat 12pm to 4pm EST  
+  
+
+[Send Us a Message](https://www.perfectsleepchair.com/pages/contact)
+
+Closed 4th of July, Christmas, Thanksgiving, and New Year's Day
+
+### Resources
+
+### Resources
+
+* [My Account](https://www.perfectsleepchair.com/account)
+* [Contact Us](https://www.perfectsleepchair.com/pages/contact)
 * [Provider Locator](https://www.perfectsleepchair.com/pages/store-locator)
-* [Refer a Friend](https://www.perfectsleepchair.com/pages/referral-program)
-* [About Our Company](https://www.perfectsleepchair.com/pages/about-our-company)
 * [Become a Provider](https://www.perfectsleepchair.com/pages/product-provider-form)
-* [Careers](https://www.perfectsleepchair.com/pages/careers)
-* [Latest News](https://www.perfectsleepchair.com/pages/latest-news)
-* [Patents & Trademarks](https://www.perfectsleepchair.com/pages/patents-and-trademarks)
-* [Let's Live Past 100 Blog](https://www.perfectsleepchair.com/blogs/lets-live-past-100)
-
-How Can We Help You?
---------------------
-
-How Can We Help You?
-
-* [Phone Sales: Call 1-888-404-1724](tel:18884041724)
-* [Check Order Status](https://www.perfectsleepchair.com/pages/contact)
-* [Sign In](https://www.perfectsleepchair.com/account/login)
 * [Shipping & Delivery](https://www.perfectsleepchair.com/pages/shipping-delivery)
 * [Warranty](https://www.perfectsleepchair.com/pages/warranty)
-* [Return Policy](https://www.perfectsleepchair.com/policies/refund-policy)
+* [Refund Policy](https://www.perfectsleepchair.com/policies/refund-policy)
+
+### Our Company
+
+### Our Company
+
+* [About Us](https://www.perfectsleepchair.com/pages/about-our-company)
+* [Blog](https://www.perfectsleepchair.com/blogs/lets-live-past-100)
+* [Refer a Friend](https://www.perfectsleepchair.com/pages/referral-program)
+* [Careers](https://www.perfectsleepchair.com/pages/careers)
+* [Patents and Trademarks](https://www.perfectsleepchair.com/pages/patents-and-trademarks)
 * [Terms & Conditions](https://www.perfectsleepchair.com/policies/terms-of-service)
 * [Privacy Policy](https://www.perfectsleepchair.com/policies/privacy-policy)
-* [Spare Parts](https://www.perfectsleepchair.com/collections/parts)
 
-Get in Touch
-------------
+### Newsletter Signup
 
-Get in Touch
-
-* [Customer Service: 1-800-958-8324](tel:18009588324)
-* [Email Customer Service](https://www.perfectsleepchair.com/pages/contact)
-* [**Sales hours:**](#)
-* [M-F 9am - 7pm EST  
-    Sat 10am - 6pm EST  
-    Sunday closed  
-    Closed 4th of July, Christmas, Thanksgiving, and New Year's Day](#)
-* [**Customer Service hours:**](#)
-* [M-F 9am - 6pm EST  
-    Sat 12pm to 4pm EST  
-    Sunday closed  
-    Closed 4th of July, Christmas, Thanksgiving, and New Year's Day](#)
-
-Sign up and save
-----------------
-
-Sign up and save
+### Newsletter Signup
 
 Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.
 
-Enter your email Subscribe  
+Subscribe
 
- icon-email Subscribe
+Thanks for subscribing
 
-* [instagram Instagram](https://www.instagram.com/journeyhealthlifestyle/ "Journey Health & Lifestyle on Instagram")
-* [Facebook](https://www.facebook.com/Journeyhl "Journey Health & Lifestyle on Facebook")
-* [YouTube](https://www.youtube.com/user/firstSTREETinc "Journey Health & Lifestyle on YouTube")
+![visa](//www.shopjourney.com/cdn/shopifycloud/shopify/assets/payment_icons/visa-319d545c6fd255c9aad5eeaad21fd6f7f7b4fdbdb1a35ce83b89cca12a187f00.svg)![amazon payments](//www.shopjourney.com/cdn/shopifycloud/shopify/assets/payment_icons/amazon-92e856f82cae5a564cd0f70457f11af4d58fa037cf6e5ab7adf76f6fd3b9cafe.svg)![american express](//www.shopjourney.com/cdn/shopifycloud/shopify/assets/payment_icons/american_express-12858714bc10cdf384b62b8f41d20f56d8c32c1b8fed98b662f2bfc158dcbcf0.svg)![apple pay](//www.shopjourney.com/cdn/shopifycloud/shopify/assets/payment_icons/apple_pay-f6db0077dc7c325b436ecbdcf254239100b35b70b1663bc7523d7c424901fa09.svg)![google pay](//www.shopjourney.com/cdn/shopifycloud/shopify/assets/payment_icons/google_pay-c66a29c63facf2053bf69352982c958e9675cabea4f2f7ccec08d169d1856b31.svg)![master](//www.shopjourney.com/cdn/shopifycloud/shopify/assets/payment_icons/master-173035bc8124581983d4efa50cf8626e8553c2b311353fbf67485f9c1a2b88d1.svg)![discover](//www.shopjourney.com/cdn/shopifycloud/shopify/assets/payment_icons/discover-cc9808e50193c7496e7a5245eb86d5e06f02e2476c0fe70f2c40016707d35461.svg)![bread](//www.shopjourney.com/cdn/shopifycloud/shopify/assets/payment_icons/bread-960e45c88dc6042693ee96b09b5e2add4930cc5a3d6bc4d6ff78f96fc8501bc0.svg)
 
-* Amazon
-* American Express
-* Apple Pay
-* Discover
-* Google Pay
-* Mastercard
-* Shop Pay
-* Visa
+6800 Paragon Place  
+Richmond, VA 23230 USA
 
-© 2024 Journey Health & Lifestyle
+[](https://www.facebook.com/Journeyhl "Follow on Facebook")
 
-[Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
+[](https://www.youtube.com/@journeyhealthandlifestyle "Follow on YouTube")
 
-icon-X "Close (esc)"
+    
 
-icon-X icon-chevron
+Copyright © 2024 Journey Health & Lifestyle, all rights reserved.
 
-icon-X
+* Choosing a selection results in a full page refresh.
 
-Perfect Sleep Chair: Comfort, Lift & Massage for Seniors - Journey Health & Lifestyle
+[Shop](https://www.perfectsleepchair.com/collections/all)
+
+[0 Cart](https://www.perfectsleepchair.com/cart)
+
+[Account](https://www.perfectsleepchair.com/account)
+
+[Search](https://www.perfectsleepchair.com/search)
