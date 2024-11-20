@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Fabled Enemies](/wp-content/thumbnails/2474-100x70.jpg?x53432)
+* [![Inside North Korea](/wp-content/thumbnails/12501-100x70.jpg?x53432)
     
-    Fabled Enemies
+    Inside North Korea
     
-    Fabled Enemies by Jason Bermas is the latest film to question the events of September 11th 2001. Instead of the focus being on physical anomalies surrounding the attacks, it focuses on a vast intellig](https://documentaryheaven.com/fabled-enemies/ "Fabled Enemies")
-* [![I Am Fishead: Are Corporate Leaders Psychopaths?](/wp-content/thumbnails/6461-100x70.jpg?x53432)
+    Back in May of 2016, Rupert Wingfield-Hayes, a reporter for the BBC was expelled from the Hermit Kingdom of North Korea for allegedly showing disrespect and 'distorting facts'. In this Panorama specia](https://documentaryheaven.com/rupert-inside-north-korea/ "Inside North Korea")
+* [![Star Wars In Iraq](/wp-content/thumbnails/2128-100x70.jpg?x53432)
     
-    I Am Fishead: Are Corporate Leaders Psychopaths?
+    Star Wars In Iraq
     
-    It is a well-known fact that our society is structured like a pyramid. The very few people at the top create conditions for the majority below. Who are these people? Can we blame them for the problems](https://documentaryheaven.com/i-am-fishead-are-corporate-leaders-psychopaths/ "I Am Fishead: Are Corporate Leaders Psychopaths?")
-* [![Pyromania](/wp-content/thumbnails/5790-100x70.jpg?x53432)
+    Al Ghezali reported that he had seen three passengers in a car all dead with their faces and teeth burnt, the body intact, and no sign of projectiles. There were other inexplicable aspects: the terrai](https://documentaryheaven.com/star-wars-in-iraq/ "Star Wars In Iraq")
+* [![20 Most Shocking Unsolved Crimes](/wp-content/thumbnails/6883-100x70.jpg?x53432)
     
-    Pyromania
+    20 Most Shocking Unsolved Crimes
     
-    Pyromania follows those with an unhealthy fascination for fire.From children who play with fire to the story of John Orr, thought to be responsible for setting over 10,000 fires, to "Bob", a seria](https://documentaryheaven.com/pyromania/ "Pyromania")
-* [![The Battle for British Islam](/wp-content/thumbnails/9524-100x70.jpg?x53432)
+    Some of the biggest unsolved crimes of recent memory are also some of the biggest stories of our time. The fact that no perpetrators were ever found, raises these cases to legendary status. Unsolved C](https://documentaryheaven.com/20-most-shocking-unsolved-crimes/ "20 Most Shocking Unsolved Crimes")
+* [![Liquid Bomb Plot](/wp-content/thumbnails/7057-100x70.jpg?x53432)
     
-    The Battle for British Islam
+    Liquid Bomb Plot
     
-    After the recent attack on French satirical magazine Charlie Hebdo by fundamental islamic militants, which saw the execution of several employees and police officers, Panorama's John Ware set about in](https://documentaryheaven.com/battle-for-british-islam/ "The Battle for British Islam")
-* [![The Evolution of 8-Bit Art](/wp-content/thumbnails/6653-100x70.jpg?x53432)
+    Liquid Bomb Plot is the incredible true story of the surveillance operation that stopped a fatal disaster and saved thousands of lives.It's August 2006. A UK terrorist cell plans to launch suicide b](https://documentaryheaven.com/liquid-bomb-plot/ "Liquid Bomb Plot")
+* [![Laos: Saviours of the Street](/wp-content/thumbnails/9790-100x70.jpg?x53432)
     
-    The Evolution of 8-Bit Art
+    Laos: Saviours of the Street
     
-    Super Mario Bros, Zelda, Tetris, and the days of summers past! Starting with Atari and Nintendo and tracing the full 8-bit trajectory over the last 30 years. It’s true that video games have gone far b](https://documentaryheaven.com/the-evolution-of-8-bit-art/ "The Evolution of 8-Bit Art")
+    Across Asia car ownership is soaring, but so to is the number of people dying on the roads. In this 101 East episode we see Al Jazeera correspondent Drew Ambrose travel to Laos, a poor mountainous nat](https://documentaryheaven.com/laos-saviours-street/ "Laos: Saviours of the Street")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
