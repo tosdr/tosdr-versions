@@ -28,12 +28,18 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/1-95x65.jpg)](https://karkhane.org/5958/is_there_an_accident/)[حادثه‌ای در کار است یا نه؟!](https://karkhane.org/5958/is_there_an_accident/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://karkhane.org/app/uploads/2024/10/Linas-Kaziulionis-95x65.jpeg)](https://karkhane.org/5952/nioc_white_collars/)[در مورد “اعتصابات” کارمندان رسمی شرکت ملی نفت ایران](https://karkhane.org/5952/nioc_white_collars/)
 * [![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/app/uploads/2021/04/xodkosi-o-estesmar-95x65.jpg)](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)[خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/10/Linas-Kaziulionis-95x65.jpeg)](https://karkhane.org/5952/nioc_white_collars/)[در مورد “اعتصابات” کارمندان رسمی شرکت ملی نفت ایران](https://karkhane.org/5952/nioc_white_collars/)
+* [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
+* [![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/app/uploads/2021/05/gozares-vaziyat-kargaran-labaniyat-hume-e-esfahan-95x65.jpg)](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)[گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)
 * [![چه باید بخوریم؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![چه باید بخوریم؟](https://karkhane.org/app/uploads/2024/04/Fat-Capitalist-95x65.jpg)](https://karkhane.org/5433/what-to-eat/)[چه باید بخوریم؟](https://karkhane.org/5433/what-to-eat/)
@@ -43,18 +49,12 @@ Privacy Policy
 * [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
-* [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
-* [![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/app/uploads/2021/02/1-95x65.jpg)](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)[کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)
+* [![درباره کمک‌پرستاران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/app/uploads/2021/05/gozares-vaziyat-kargaran-labaniyat-hume-e-esfahan-95x65.jpg)](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)[گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)
-* [![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![نمایش‌نامه «پرسشـنامه یا اطّلاعات عمومی برای مسئولین عالی‌رتبه»](https://karkhane.org/app/uploads/2020/07/nemāyešnāme-ye-porsešnāme-95x65.jpg)](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)[نمایش‌نامه «پرسشنامه ، یا اطلاعات عمومی برای مسئولینِ عالی‌رتبه»](https://karkhane.org/2016/%d9%86%d9%85%d8%a7%db%8c%d8%b4%d9%86%d8%a7%d9%85%d9%87-%d9%be%d8%b1%d8%b3%d8%b4%d9%86%d8%a7%d9%85%d9%87/)
-* [![داستان کوتاه «اعتصاب» - منصور یاقوتی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![داستان کوتاه «اعتصاب» - منصور یاقوتی](https://karkhane.org/app/uploads/2021/06/etesab-mansur-yaquti-95x65.jpg)](https://karkhane.org/2810/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%da%a9%d9%88%d8%aa%d8%a7%d9%87-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%85%d9%86%d8%b5%d9%88%d8%b1-%db%8c%d8%a7%d9%82%d9%88%d8%aa%db%8c/)[داستان کوتاه «اعتصاب» – منصور یاقوتی](https://karkhane.org/2810/%d8%af%d8%a7%d8%b3%d8%aa%d8%a7%d9%86-%da%a9%d9%88%d8%aa%d8%a7%d9%87-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%85%d9%86%d8%b5%d9%88%d8%b1-%db%8c%d8%a7%d9%82%d9%88%d8%aa%db%8c/)
+    ![درباره کمک‌پرستاران](https://karkhane.org/app/uploads/2023/05/darbare-komakparastaran-95x65.jpg)](https://karkhane.org/4939/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%da%a9%d9%85%da%a9%d9%be%d8%b1%d8%b3%d8%aa%d8%a7%d8%b1%d8%a7%d9%86/)[درباره‌ی کمک‌پرستاران](https://karkhane.org/4939/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87%db%8c-%da%a9%d9%85%da%a9%d9%be%d8%b1%d8%b3%d8%aa%d8%a7%d8%b1%d8%a7%d9%86/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
