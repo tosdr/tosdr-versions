@@ -27,7 +27,7 @@ You may be accessing the Services through a Free Plan, Developer Plan, Team Plan
 
 Browserling reserves the right to, and will not be liable to any user or third party, for doing the following: changing the Terms of Use at any time; changing the Services, including terminating, eliminating, supplementing, modifying, adding to or discontinuing any content, functionality, promotion, data on or feature of the Services or the availability of the Services; or changing any fees or charges in connection with the use of the Services.
 
-These Terms of Use were posted on 2017-04-13.
+These Terms of Use were posted on 2024-11-15.
 
 1\. Use & Access
 ----------------
