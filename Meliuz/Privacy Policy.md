@@ -2,41 +2,19 @@
 
 Precisa de ajuda?
 
-Termos e condições
-==================
+Ops!
+====
 
-Prezado usuário, é muito importante a leitura atenta destes Termos no ato de seu cadastro no Méliuz, pois ao se cadastrar, você estará aceitando as nossas regras. A adesão ao Méliuz e seus benefícios são oferecidos a exclusivo critério do Méliuz (MELIUZ S.A.), que se reserva o direito de alterar as regras a qualquer momento, no todo ou em parte, mediante notificação prévia enviada aos Usuários, na forma descrita nos Termos de Uso.
+Não conseguimos encontrar a página que você está buscando.
 
-Termos e condições de usoPolítica de privacidade
+Aqui estão alguns links que podem ser úteis para você:
 
-#### Sobre nós
-
-* [Quem Somos](https://landing.meliuz.com.br/nova-marca/)
-* [Blog do Méliuz](https://www.meliuz.com.br/blog/)
-* [Relações com Investidores](https://ri.meliuz.com.br/)
-* [Termos de Uso e Privacidade](https://www.meliuz.com.br/termos-e-condicoes)
-
-#### Méliuz para você
-
-* [Como funciona](https://www.meliuz.com.br/como-funciona)
-* [Extensão Méliuz](https://www.meliuz.com.br/extensao)
-* [Lojas online](https://www.meliuz.com.br/desconto)
-* [Cartão de Crédito](https://www.meliuz.com.br/cartao-de-credito)
+* [Home](https://www.meliuz.com.br/)
+* [Como Funciona](https://www.meliuz.com.br/como-funciona)
+* [Cartão Méliuz](https://www.meliuz.com.br/cartao)
 * [Indique e Ganhe](https://www.meliuz.com.br/indique-e-ganhe)
-* [Ajuda Méliuz](https://atendimento.meliuz.com.br/hc/pt-br)
 
-#### Grupo CASH3
-
-* [Promobit](https://www.promobit.com.br/)
-* [Melhor Plano](https://melhorplano.net/)
-* [Minha Conexão](https://www.minhaconexao.com.br/)
-* [iDinheiro](https://www.idinheiro.com.br/)
-* [Muambator](https://www.muambator.com.br/)
-
-#### Mais cashback
-
-* [Como Usar Cupom de Desconto?](https://www.meliuz.com.br/blog/o-que-e-um-cupom-de-desconto/)
-* [Black Friday 2024](https://www.meliuz.com.br/black-friday)
+![](https://s.staticz.com.br/static/img/animation/dogError/ufo.png)![](https://s.staticz.com.br/static/img/animation/dogError/light.png)![](https://s.staticz.com.br/static/img/animation/dogError/dog.png)![](https://s.staticz.com.br/static/img/animation/dogError/floor.png)
 
 #### Parceria com lojas e indústrias
 
