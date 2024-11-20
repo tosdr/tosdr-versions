@@ -736,7 +736,7 @@ SELECT
 
 ### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-4624 reviews (4624)
+4625 reviews (4625)
 
 $16.00 $29.00
 
@@ -1152,7 +1152,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5298 reviews (5298)
+5299 reviews (5299)
 
 $28.00 $28.00
 
