@@ -215,6 +215,7 @@ If you have any questions or concerns, or would like to submit a complaint to us
 * [Casting](https://charactersforhire.com/performer-casting/)
 * [Locations](https://charactersforhire.com/locations-characters-for-hire/)
 * [Privacy Policy](https://charactersforhire.com/privacy-policy-menu/)
+* [SMS Terms & Conditions](https://charactersforhire.com/sms-terms-conditions/)
 * [Copyright](https://charactersforhire.com/copyrights/)
 * [Request a Quote](https://forms.zohopublic.com/charactersforhirellc/form/Provideusyourdetails/formperma/Nj1-0n_F2ERdD9p1u19l75ZVGSbe3xQFxft157W9jb4)
 
