@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Creativity
+[Cooperation
 
-### Want to hear the latest country music? Try Broadway.](https://www.csmonitor.com/The-Culture/Arts/2024/1120/music-city-new-york-nashville "Want to hear the latest country music? Try Broadway.")
+### Facing Trump 2.0, Palestinians voice rising concern: What’s our plan?](https://www.csmonitor.com/World/Middle-East/2024/1120/trump-west-bank-palestinian-diplomacy-israel "Facing Trump 2.0, Palestinians voice rising concern: What’s our plan?")
 
-[Resilience
+[Integrity
 
-### In wartime Gaza, turning meager olive harvest into oil is an act of defiance](https://www.csmonitor.com/World/Middle-East/2024/1119/gaza-israel-olive-oil-farm-crop-harvest "In wartime Gaza, turning meager olive harvest into oil is an act of defiance")
+### Antidotes to Venezuela’s election lies](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1120/Antidotes-to-Venezuela-s-election-lies "Antidotes to Venezuela’s election lies")
 
-[Innovation
+[Justice
 
-### Schools get real on artificial intelligence](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1119/Schools-get-real-on-artificial-intelligence "Schools get real on artificial intelligence")
+### 50 years ago, the UK expelled Chagos Islanders. A court ruling may mean they can go home.](https://www.csmonitor.com/World/Africa/2024/1120/chagos-mauritius-united-kingdom-icj-return "50 years ago, the UK expelled Chagos Islanders. A court ruling may mean they can go home.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### The pandemic roar subsided, but mask wars rumble on](https://www.csmonitor.com/USA/Society/2024/1120/mask-bans-states-neo-nazis "The pandemic roar subsided, but mask wars rumble on")
+[### Facing Trump 2.0, Palestinians voice rising concern: What’s our plan?](https://www.csmonitor.com/World/Middle-East/2024/1120/trump-west-bank-palestinian-diplomacy-israel "Facing Trump 2.0, Palestinians voice rising concern: What’s our plan?")
 
-[### In wartime Gaza, turning meager olive harvest into oil is an act of defiance](https://www.csmonitor.com/World/Middle-East/2024/1119/gaza-israel-olive-oil-farm-crop-harvest "In wartime Gaza, turning meager olive harvest into oil is an act of defiance")
+[### 50 years ago, the UK expelled Chagos Islanders. A court ruling may mean they can go home.](https://www.csmonitor.com/World/Africa/2024/1120/chagos-mauritius-united-kingdom-icj-return "50 years ago, the UK expelled Chagos Islanders. A court ruling may mean they can go home.")
 
-[### Hong Kong court locks up a generation of pro-democracy leaders](https://www.csmonitor.com/World/Asia-Pacific/2024/1119/hong-kong-jail-democracy "Hong Kong court locks up a generation of pro-democracy leaders")
+[### How wind and solar is restoring Ukraine’s energy and resisting Russian missile attacks](https://www.csmonitor.com/World/Europe/2024/1120/Ukraine-Russia-war-clean-energy-wind-and-solar "How wind and solar is restoring Ukraine’s energy and resisting Russian missile attacks")
 
 * * *
 
