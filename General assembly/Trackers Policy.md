@@ -528,6 +528,7 @@ By providing your email, you confirm you have read and acknowledge General Assem
 * [Contact](https://generalassemb.ly/contact)
 * [FAQ](https://generalassemb.ly/faq)
 * [Press](https://generalassemb.ly/press)
+* [Affiliates](https://explore.generalassemb.ly/affiliates/)
 
 ### Community
 
