@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [NFL Has No Issue With ‘Trump Dance’ Celebrations, Spokesman Says](https://www.theepochtimes.com/sports/nfl-has-no-issue-with-trump-dance-celebrations-spokesman-says-5762971)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![NFL Has No Issue With ‘Trump Dance’ Celebrations, Spokesman Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![NFL Has No Issue With ‘Trump Dance’ Celebrations, Spokesman Says](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762978-bs19191293-205x123.jpg.webp)](https://www.theepochtimes.com/sports/nfl-has-no-issue-with-trump-dance-celebrations-spokesman-says-5762971)
+* [Brazilian Police Arrest 5 Over Plot to Kill Lula and Mount Coup in 2022](https://www.theepochtimes.com/world/brazilian-police-arrest-5-over-plot-to-kill-lula-and-mount-coup-in-2022-post-5762863)
+    
+    4hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Brazilian Police Arrest 5 Over Plot to Kill Lula and Mount Coup in 2022](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Brazilian Police Arrest 5 Over Plot to Kill Lula and Mount Coup in 2022](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762935-Brazil_Rio_G20_24324666641539-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/brazilian-police-arrest-5-over-plot-to-kill-lula-and-mount-coup-in-2022-post-5762863)
+* [US Embassy in Kyiv Shuts Over ‘Potential Significant Air Attack’](https://www.theepochtimes.com/world/us-embassy-in-kyiv-shuts-over-potential-significant-air-attack-5762859)
+    
+    4hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![US Embassy in Kyiv Shuts Over ‘Potential Significant Air Attack’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Embassy in Kyiv Shuts Over ‘Potential Significant Air Attack’](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762927-GettyImages-1240748355-LS-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-embassy-in-kyiv-shuts-over-potential-significant-air-attack-5762859)
 * [Foreign Investors Keep Buying US Debt as Domestic Demand Slows: Treasury Data](https://www.theepochtimes.com/business/foreign-investors-keep-buying-us-debt-as-domestic-demand-slows-treasury-data-5762799)
     
-    NEW By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Foreign Investors Keep Buying US Debt as Domestic Demand Slows: Treasury Data](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Foreign Investors Keep Buying US Debt as Domestic Demand Slows: Treasury Data](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738583-Dollar-GettyImages-2150540506-LS-205x123.jpg.webp)](https://www.theepochtimes.com/business/foreign-investors-keep-buying-us-debt-as-domestic-demand-slows-treasury-data-5762799)
+* [Consciousness Flows Like a River From Life to Life](https://www.theepochtimes.com/health/consciousness-flows-like-a-river-from-life-to-life-5706093)
+    
+    11hr By [Yuhong Dong](https://www.theepochtimes.com/expert/yuhong-dong-experts) and [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
+    
+    [![Consciousness Flows Like a River From Life to Life](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Consciousness Flows Like a River From Life to Life](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760873-Untitled_Artwork-9-205x123.jpg.webp)](https://www.theepochtimes.com/health/consciousness-flows-like-a-river-from-life-to-life-5706093)
 * [Biden Urges World Leaders to Keep Focus on Climate](https://www.theepochtimes.com/us/biden-urges-world-leaders-to-keep-focus-on-climate-5762661)
     
-    6hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    12hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![Biden Urges World Leaders to Keep Focus on Climate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Urges World Leaders to Keep Focus on Climate](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762670-Biden-at-G20-in-Brazil_2-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-urges-world-leaders-to-keep-focus-on-climate-5762661)
+    ![Biden Urges World Leaders to Keep Focus on Climate](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762936-Biden-at-G20-in-Brazil_2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-urges-world-leaders-to-keep-focus-on-climate-5762661)
 * [New York Times’ Attacks Detached From Reality, Shen Yun Artists Say](https://www.theepochtimes.com/us/new-york-times-attacks-detached-from-reality-shen-yun-artists-say-5762648)
     
-    7hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
+    13hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
     
     [![New York Times’ Attacks Detached From Reality, Shen Yun Artists Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![New York Times’ Attacks Detached From Reality, Shen Yun Artists Say](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762448-DSC04963-e-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-times-attacks-detached-from-reality-shen-yun-artists-say-5762648)
 * [Trump Promises to Use Recess Appointments If Needed, but What Are They?](https://www.theepochtimes.com/article/trump-promises-to-use-recess-appointments-if-needed-but-what-are-they-5762526)
     
-    7hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    13hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![Trump Promises to Use Recess Appointments If Needed, but What Are They?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Promises to Use Recess Appointments If Needed, but What Are They?](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762676-Recess-appointments-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/trump-promises-to-use-recess-appointments-if-needed-but-what-are-they-5762526)
 * [Trump Chooses Linda McMahon for Education Secretary](https://www.theepochtimes.com/us/trump-chooses-linda-mcmahon-for-education-secretary-5762773)
     
-    7hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    14hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![Trump Chooses Linda McMahon for Education Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Chooses Linda McMahon for Education Secretary](https://img.theepochtimes.com/assets/uploads/2018/05/23/Linda-McMahon_NPC-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-chooses-linda-mcmahon-for-education-secretary-5762773)
+    ![Trump Chooses Linda McMahon for Education Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762934-Linda-McMahon_NPC-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-chooses-linda-mcmahon-for-education-secretary-5762773)
 * [US Is Preparing New Sanctions Over Sentencing of 45 Activists in Hong Kong: State Department](https://www.theepochtimes.com/china/us-is-preparing-new-sanctions-over-sentencing-of-45-activists-in-hong-kong-state-department-5762445)
     
-    8hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    14hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
     
     [![US Is Preparing New Sanctions Over Sentencing of 45 Activists in Hong Kong: State Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Is Preparing New Sanctions Over Sentencing of 45 Activists in Hong Kong: State Department](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762464-GettyImages-2184864156-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-is-preparing-new-sanctions-over-sentencing-of-45-activists-in-hong-kong-state-department-5762445)
-* [SpaceX Calls Off Catch Attempt of Starship Rocket Booster in New Test Flight](https://www.theepochtimes.com/science/spacex-calls-off-catch-attempt-of-starship-rocket-booster-in-new-test-flight-5762643)
-    
-    9hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![SpaceX Calls Off Catch Attempt of Starship Rocket Booster in New Test Flight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![SpaceX Calls Off Catch Attempt of Starship Rocket Booster in New Test Flight](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762734-SpaceX-Launch-205x123.jpg.webp)](https://www.theepochtimes.com/science/spacex-calls-off-catch-attempt-of-starship-rocket-booster-in-new-test-flight-5762643)
-* [5 Undecided House Races Will Determine Size of GOP’s Narrow Majority](https://www.theepochtimes.com/us/5-undecided-house-races-will-determine-size-of-gops-narrow-majority-5762309)
-    
-    10hr By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
-    
-    [![5 Undecided House Races Will Determine Size of GOP’s Narrow Majority](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![5 Undecided House Races Will Determine Size of GOP’s Narrow Majority](https://img.theepochtimes.com/assets/uploads/2024/11/15/id5760491-11132024-DSC09218-US-Capitol-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-undecided-house-races-will-determine-size-of-gops-narrow-majority-5762309)
-* [Alex Jones Sues Sandy Hook Parents, The Onion to Stop Infowars Sale](https://www.theepochtimes.com/us/alex-jones-sues-sandy-hook-parents-the-onion-to-stop-infowars-sale-5762437)
-    
-    10hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![Alex Jones Sues Sandy Hook Parents, The Onion to Stop Infowars Sale](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Alex Jones Sues Sandy Hook Parents, The Onion to Stop Infowars Sale](https://img.theepochtimes.com/assets/uploads/2020/04/10/Alex-Jones-205x123.jpg.webp)](https://www.theepochtimes.com/us/alex-jones-sues-sandy-hook-parents-the-onion-to-stop-infowars-sale-5762437)
-* [Treasury Expands Committee’s Powers to Scrutinize Foreign Investment in US](https://www.theepochtimes.com/us/treasury-expands-committees-powers-to-scrutinize-foreign-investment-in-us-5762474)
-    
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Treasury Expands Committee’s Powers to Scrutinize Foreign Investment in US](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Treasury Expands Committee’s Powers to Scrutinize Foreign Investment in US](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734755-10032024-L1150690-Treasury-Department-205x123.jpg.webp)](https://www.theepochtimes.com/us/treasury-expands-committees-powers-to-scrutinize-foreign-investment-in-us-5762474)
+    ![US Is Preparing New Sanctions Over Sentencing of 45 Activists in Hong Kong: State Department](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762938-GettyImages-2184864156-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-is-preparing-new-sanctions-over-sentencing-of-45-activists-in-hong-kong-state-department-5762445)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
