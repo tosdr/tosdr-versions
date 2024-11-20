@@ -340,6 +340,8 @@ NOTE: Your wireless operator, mobile operating system provider and/or third-part
     * [Cookie Preferences](https://www.htc.com/uk/cookie-preferences/)
     * [Careers](https://careers.htc.com/)
 
+[](https://www.htc.com/)
+
 © 2011-2024 HTC Corporation
 
 * [Legal Terms](https://www.htc.com/uk/terms/htc/)
