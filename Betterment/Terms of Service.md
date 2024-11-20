@@ -252,8 +252,6 @@ Investment Advice: Advisory services for traditional investments (e.g., ETFs) an
 
 Traditional Investment Brokerage Services & Custody: Brokerage services are provided to clients of Betterment LLC by Betterment Securities, an SEC-registered broker-dealer and member of [FINRA](https://www.finra.org/) /[SIPC](https://www.sipc.org/), and Apex Clearing Corporation, a third-party SEC registered broker-dealer and member FINRA/SIPC.
 
-Digital Asset Trading Services & Custody: Digital asset trading services and custody are provided by Gemini Trust Company, LLC.  For further details regarding the custody of assets, including cash, held at Gemini Trust Company, please see your Gemini [user agreement](https://www.gemini.com/legal/user-agreement#section-welcome-to-gemini).
-
 Betterment Checking: Betterment Checking is made available through Betterment Financial LLC. Checking accounts and the Betterment Visa Debit Card provided by and issued by nbkc bank, Member FDIC. Neither Betterment LLC nor Betterment Financial LLC, nor any of their affiliates, is a bank.
 
 **Let’s Talk About Risk:**
