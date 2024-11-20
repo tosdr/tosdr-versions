@@ -1,3 +1,15 @@
+  
+
+![](/banner-views/blackfriday.gif?page=page%2Fterms) **Black Friday is here.**   Get your exclusive offer and benefit throughout the whole year.
+
+Days
+
+Hours
+
+Mins
+
+Secs
+
  [![Linguix](/public/linguix-logotype.svg) ![Linguix](/public/linguix-logotype-white.svg)](https://linguix.com/)
 
 [Features](https://linguix.com/#features) [Download](https://linguix.com/apps) [Pricing](https://linguix.com/pricing) [Linguix Business](https://linguix.com/team)
