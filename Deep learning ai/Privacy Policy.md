@@ -1,3 +1,5 @@
+✨ New course! Enroll in [Safe and Reliable AI via Guardrails](https://bit.ly/3YSJrtw)
+
 [](https://www.deeplearning.ai/)
 
 * [Explore Courses](https://www.deeplearning.ai/courses/)
