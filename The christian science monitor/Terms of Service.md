@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Creativity
+
+### Want to hear the latest country music? Try Broadway.](https://www.csmonitor.com/The-Culture/Arts/2024/1120/music-city-new-york-nashville "Want to hear the latest country music? Try Broadway.")
+
 [Resilience
 
 ### In wartime Gaza, turning meager olive harvest into oil is an act of defiance](https://www.csmonitor.com/World/Middle-East/2024/1119/gaza-israel-olive-oil-farm-crop-harvest "In wartime Gaza, turning meager olive harvest into oil is an act of defiance")
@@ -99,10 +103,6 @@ Recent Stories
 [Innovation
 
 ### Schools get real on artificial intelligence](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1119/Schools-get-real-on-artificial-intelligence "Schools get real on artificial intelligence")
-
-[Resilience
-
-### Howard University hoped to make history. Now it’s ready for a different role.](https://www.csmonitor.com/USA/Politics/2024/1119/kamala-harris-howard-university-speech "Howard University hoped to make history. Now it’s ready for a different role.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### The pandemic roar subsided, but mask wars rumble on](https://www.csmonitor.com/USA/Society/2024/1120/mask-bans-states-neo-nazis "The pandemic roar subsided, but mask wars rumble on")
+
 [### In wartime Gaza, turning meager olive harvest into oil is an act of defiance](https://www.csmonitor.com/World/Middle-East/2024/1119/gaza-israel-olive-oil-farm-crop-harvest "In wartime Gaza, turning meager olive harvest into oil is an act of defiance")
 
 [### Hong Kong court locks up a generation of pro-democracy leaders](https://www.csmonitor.com/World/Asia-Pacific/2024/1119/hong-kong-jail-democracy "Hong Kong court locks up a generation of pro-democracy leaders")
-
-[### Europe nations investigate cut cables in the Baltic Sea. Was it Russian sabotage?](https://www.csmonitor.com/World/Europe/2024/1119/Ukraine-war-Russian-sabotage-europe-undersea-cables "Europe nations investigate cut cables in the Baltic Sea. Was it Russian sabotage?")
 
 * * *
 
