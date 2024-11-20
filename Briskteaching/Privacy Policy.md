@@ -1,23 +1,3 @@
-[![](https://cdn.prod.website-files.com/64d233e71a07f45ec32b6736/65bb349ecda2eaefd1fb5f1f_Brisk%20Logo%20Dark%20(1).svg)](https://www.briskteaching.com/?r=0)
-
-Brisk's Tools
-
-[All 30+ Tools](https://www.briskteaching.com/ai-tools-for-teachers)[Give Feedback](https://www.briskteaching.com/feedback)[Create Curriculum](https://www.briskteaching.com/curriculum)[Change Reading Levels](https://www.briskteaching.com/reading-level-conversion)[Inspect Writing](https://www.briskteaching.com/inspect-writing)[Brisk Boost for Students](https://www.briskteaching.com/briskboost)
-
-[Plans](https://www.briskteaching.com/plans)
-
-Resources
-
-[Getting Started](https://www.briskteaching.com/getting-started-with-brisk-teaching)[What's New](https://www.briskteaching.com/whats-new)[Success Stories](https://www.briskteaching.com/success-stories)[Professional Development](https://www.briskteaching.com/brisk-professional-development-resources)[FAQs](https://www.briskteaching.com/faq)
-
-[Brisk Boost](https://www.briskboost.ai/)[Join the Community!](https://www.briskteaching.com/community)
-
-About
-
-[About Us](https://www.briskteaching.com/about)[Careers](https://www.briskteaching.com/careers)[Privacy Center](https://www.briskteaching.com/privacy-center)
-
-[Add to Chrome For Free](https://www.briskteaching.com/chrome-extension)
-
 [![](https://cdn.prod.website-files.com/64d233e71a07f45ec32b6736/66e20c2fff171b422b77b155_Full%20Logo%20(1).svg)](https://www.briskteaching.com/?r=0)
 
 Brisk's Tools
