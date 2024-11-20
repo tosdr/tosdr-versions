@@ -26,8 +26,6 @@ Toggle navigation [![logo](/images/icon/org-mobile/logo.png)](https://www.leawo.
     
     [Video Downloader ![](/images/icon/h.png)](https://www.leawo.org/video-downloader.html) [](https://www.leawo.org/video-downloader.html)[](https://www.leawo.org/video-downloader.html?sys=mac)
     
-    [Streaming Video Recorder ![](/images/icon/n.png)](https://www.leawo.org/save-video/video-recorder/) [](https://www.leawo.org/save-video/video-recorder/)
-    
     [Video Converter Ultimate](https://www.leawo.org/video-converter-ultimate/)[](https://www.leawo.org/video-converter-ultimate/)[](https://www.leawo.org/video-converter-ultimate-mac/)
     
     [Blu-ray Ripper ![](/images/icon/h.png)](https://www.leawo.org/blu-ray-ripper/) [](https://www.leawo.org/blu-ray-ripper/)[](https://www.leawo.org/blu-ray-ripper-mac/)
@@ -51,6 +49,60 @@ Toggle navigation [![logo](/images/icon/org-mobile/logo.png)](https://www.leawo.
     [UHD Creator](https://www.leawo.org/uhd-creator/)[](https://www.leawo.org/uhd-creator/)[](https://www.leawo.org/uhd-creator/?sys=mac)
     
     [UHD Drive Tool](https://www.leawo.org/uhd-drive-tool/)[](https://www.leawo.org/uhd-drive-tool/)[](https://www.leawo.org/uhd-drive-tool/?sys=mac)
+    
+* CleverGet
+    
+    [![CleverGet](/images/pro-box/win/cleverget.png)](https://www.leawo.org/save-video/)
+    
+    [CleverGet](https://www.leawo.org/save-video/)[](https://www.leawo.org/save-video/)[](https://www.leawo.org/save-video/?sys=mac)
+    
+    [![](/images/icon/learn_more_nav.png)](https://www.leawo.org/save-video/)
+    
+    #### International
+    
+    [Video Downloader ![hot-icon](/images/icon/h.png)](https://www.leawo.org/video-downloader.html) [](https://www.leawo.org/video-downloader.html)[](https://www.leawo.org/video-downloader.html?sys=mac)
+    
+    [Streaming Video Recorder ![new-icon](/images/icon/n.png)](https://www.leawo.org/video-recorder.html) [](https://www.leawo.org/video-recorder.html)
+    
+    [Amazon Downloader ![hot-icon](/images/icon/h.png)](https://www.leawo.org/amazon-downloader.html) [](https://www.leawo.org/amazon-downloader.html)[](https://www.leawo.org/amazon-downloader.html?sys=mac)
+    
+    [Netflix Downloader ![hot-icon](/images/icon/h.png)](https://www.leawo.org/netflix-downloader.html) [](https://www.leawo.org/netflix-downloader.html)[](https://www.leawo.org/netflix-downloader.html?sys=mac)
+    
+    [Apple TV+ Downloader ![hot-icon](/images/icon/h.png)](https://www.leawo.org/apple-tv-plus-downloader.html) [](https://www.leawo.org/apple-tv-plus-downloader.html)[](https://www.leawo.org/apple-tv-plus-downloader.html?sys=mac)
+    
+    [Disney+ Downloader ![hot-icon](/images/icon/h.png)](https://www.leawo.org/disney-plus-downloader.html) [](https://www.leawo.org/disney-plus-downloader.html)[](https://www.leawo.org/disney-plus-downloader.html?sys=mac)
+    
+    [MAX Downloader ![hot-icon](/images/icon/h.png)](https://www.leawo.org/hbo-downloader.html) [](https://www.leawo.org/hbo-downloader.html)[](https://www.leawo.org/hbo-downloader.html?sys=mac)
+    
+    [Hulu Downloader ![hot-icon](/images/icon/h.png)](https://www.leawo.org/hulu-downloader.html) [](https://www.leawo.org/hulu-downloader.html)[](https://www.leawo.org/hulu-downloader.html?sys=mac)
+    
+    [Crunchyroll Downloader](https://www.leawo.org/crunchyroll-downloader.html)[](https://www.leawo.org/crunchyroll-downloader.html)[](https://www.leawo.org/crunchyroll-downloader.html?sys=mac)
+    
+    [Discovery+ Downloader](https://www.leawo.org/discovery-plus-downloader.html)[](https://www.leawo.org/discovery-plus-downloader.html)[](https://www.leawo.org/discovery-plus-downloader.html?sys=mac)
+    
+    [Fansly Downloader](https://www.leawo.org/fansly-downloader.html)[](https://www.leawo.org/fansly-downloader.html)[](https://www.leawo.org/fansly-downloader.html?sys=mac)
+    
+    [OnlyFans Downloader](https://www.leawo.org/onlyfans-downloader.html)[](https://www.leawo.org/onlyfans-downloader.html)[](https://www.leawo.org/onlyfans-downloader.html?sys=mac)
+    
+    [Paramount+ Downloader](https://www.leawo.org/paramount-plus-downloader.html)[](https://www.leawo.org/paramount-plus-downloader.html)[](https://www.leawo.org/paramount-plus-downloader.html?sys=mac)
+    
+    [MPD Downloader ![new-icon](/images/icon/n.png)](https://www.leawo.org/mpd-downloader.html) [](https://www.leawo.org/mpd-downloader.html)[](https://www.leawo.org/mpd-downloader.html?sys=mac)
+    
+    [M3U8 Downloader ![new-icon](/images/icon/n.png)](https://www.leawo.org/m3u8-downloader.html) [](https://www.leawo.org/m3u8-downloader.html)[](https://www.leawo.org/m3u8-downloader.html?sys=mac)
+    
+    #### Asian
+    
+    [NHK+ Downloader](https://www.leawo.org/nhk-plus-downloader.html)[](https://www.leawo.org/nhk-plus-downloader.html)[](https://www.leawo.org/nhk-plus-downloader.html?sys=mac)
+    
+    [U-NEXT Downloader](https://www.leawo.org/unext-downloader.html)[](https://www.leawo.org/unext-downloader.html)[](https://www.leawo.org/unext-downloader.html?sys=mac)
+    
+    #### North American
+    
+    [Pluto Downloader](https://www.leawo.org/pluto-downloader.html)[](https://www.leawo.org/pluto-downloader.html)[](https://www.leawo.org/pluto-downloader.html?sys=mac)
+    
+    [Tubi Downloader](https://www.leawo.org/tubi-downloader.html)[](https://www.leawo.org/tubi-downloader.html)[](https://www.leawo.org/tubi-downloader.html?sys=mac)
+    
+    [Twitch Downloader](https://www.leawo.org/twitch-downloader.html)[](https://www.leawo.org/twitch-downloader.html)[](https://www.leawo.org/twitch-downloader.html?sys=mac)
     
 * FREE
     
@@ -118,37 +170,9 @@ Toggle navigation [![logo](/images/icon/org-mobile/logo.png)](https://www.leawo.
     
     [Music Recorder ![](/images/icon/h.png)](https://www.leawo.org/music-recorder/) [](https://www.leawo.org/music-recorder/)[](https://www.leawo.org/music-recorder-mac/)
     
-    [All-in-one Downloader](https://www.leawo.org/save-video/)[](https://www.leawo.org/save-video/)[](https://www.leawo.org/save-video/?sys=mac)
-    
-    [MAX Downloader](https://www.leawo.org/save-video/hbo-downloader/)[](https://www.leawo.org/save-video/hbo-downloader/)[](https://www.leawo.org/save-video/hbo-downloader/?sys=mac)
-    
-    [Netflix Downloader](https://www.leawo.org/save-video/netflix-downloader/)[](https://www.leawo.org/save-video/netflix-downloader/)[](https://www.leawo.org/save-video/netflix-downloader/?sys=mac)
-    
-    [OnlyFans Downloader](https://www.leawo.org/save-video/onlyfans-downloader/)[](https://www.leawo.org/save-video/onlyfans-downloader/)[](https://www.leawo.org/save-video/onlyfans-downloader/?sys=mac)
-    
-    [Apple TV+ Downloader](https://www.leawo.org/save-video/apple-tv-plus-downloader/)[](https://www.leawo.org/save-video/apple-tv-plus-downloader/)[](https://www.leawo.org/save-video/apple-tv-plus-downloader/?sys=mac)
-    
-    [Crunchyroll Downloader](https://www.leawo.org/save-video/crunchyroll-downloader/)[](https://www.leawo.org/save-video/crunchyroll-downloader/)[](https://www.leawo.org/save-video/crunchyroll-downloader/?sys=mac)
-    
-    [U-NEXT Downloader](https://www.leawo.org/save-video/unext-downloader/)[](https://www.leawo.org/save-video/unext-downloader/)[](https://www.leawo.org/save-video/unext-downloader/?sys=mac)
-    
     [PowerPoint to Video Pro](https://www.leawo.org/powerpoint-to-video-pro/)[](https://www.leawo.org/powerpoint-to-video-pro/)
     
     [PowerPoint to DVD Pro](https://www.leawo.org/powerpoint-to-dvd-pro/)[](https://www.leawo.org/powerpoint-to-dvd-pro/)
-    
-    [Streaming Video Recorder](https://www.leawo.org/save-video/video-recorder/)[](https://www.leawo.org/save-video/video-recorder/)
-    
-    [Amazon Downloader](https://www.leawo.org/save-video/amazon-downloader/)[](https://www.leawo.org/save-video/amazon-downloader/)[](https://www.leawo.org/save-video/amazon-downloader/?sys=mac)
-    
-    [Disney+ Downloader](https://www.leawo.org/save-video/disney-plus-downloader/)[](https://www.leawo.org/save-video/disney-plus-downloader/)[](https://www.leawo.org/save-video/disney-plus-downloader/?sys=mac)
-    
-    [Hulu Downloader](https://www.leawo.org/save-video/hulu-downloader/)[](https://www.leawo.org/save-video/hulu-downloader/)[](https://www.leawo.org/save-video/hulu-downloader/?sys=mac)
-    
-    [Paramount+ Downloader](https://www.leawo.org/save-video/paramount-plus-downloader/)[](https://www.leawo.org/save-video/paramount-plus-downloader/)[](https://www.leawo.org/save-video/paramount-plus-downloader/?sys=mac)
-    
-    [Twitch Downloader](https://www.leawo.org/save-video/twitch-downloader/)[](https://www.leawo.org/save-video/twitch-downloader/)[](https://www.leawo.org/save-video/twitch-downloader/?sys=mac)
-    
-    [NHK+ Downloader](https://www.leawo.org/save-video/nhk-plus-downloader/)[](https://www.leawo.org/save-video/nhk-plus-downloader/)[](https://www.leawo.org/save-video/nhk-plus-downloader/?sys=mac)
     
 * [Store(current)](https://www.leawo.org/store/)
 * [Support](https://www.leawo.org/support/)
