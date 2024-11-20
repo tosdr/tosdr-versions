@@ -61,3 +61,29 @@ Parents: Amateur 8 uses the "Restricted To Adults" (RTA) website label to better
 By using the site, you acknowledge you are at least 18 years old.
 
 By clicking on Continue, you agree to our [Terms and Conditions](https://www.amateur8.com/terms/) as well as our [Privacy and Cookie Policy.](https://www.amateur8.com/privacy/)
+
+ 
+
+We use cookies and similar technologies that are necessary to run our Websites (essential cookies). We also use Analytics, Functionality and Targeting cookies to analyse our Websites’ traffic, optimize your experience, personalize content and serve targeted advertisements. You can switch off cookies at any time by visiting the Manage Cookies option at the footer of the page.
+
+Customize Cookies
+
+Essential Cookies
+
+always active
+
+These are cookies necessary for the functioning of the Website and cannot be switched off in our systems as they enable core website functionality. They are used to carry out the transmission of a communication (e.g., Load balancing cookies), provide you with the requested services, or are set in response to actions made by you, such as setting your privacy preferences, logging in, or filling in forms (UI customization cookies).
+
+Functional Cookies
+
+These cookies are set to implement additional functionalities or to enhance features and website performance. These cookies help us personalize and enhance your online experience on the Website. This type of cookies also allows us to recognize you when you return to the Website and to remember your choices.
+
+Analytics Cookies
+
+These cookies allow us to recognize and count the number of users and to see how users use and explore the Website. For example, they allow us to carry out statistical analysis of page use, interactions, and paths a user takes through the Website to improve its performance. This is known as ‘digital analytics,’ where this information allows us to know what content on our Website is the most and least popular. Additionally, we use third-party session recording technologies that help us better understand our users’ experience; however, the recording data is pseudonymized.
+
+Targeting/Advertising Cookies
+
+These cookies enable us to make the Website more relevant to your interests and to help us serve ads that might be of interest to you. The Website and our advertising partners set these cookies to provide behavioral advertising and define the number of ads that will be displayed to you. Collected data can include any browsing information necessary to understand your browsing habits. If you choose to disable this type of cookie, you will still see advertisements, but they will be less relevant and will not be tailored to your interests.
+
+Accept all cookies Accept only essential cookies Manage cookies Save And Apply
