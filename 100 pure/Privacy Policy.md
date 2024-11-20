@@ -1138,7 +1138,7 @@ ADD TO TOTE
 
 ### [Bakuchiol Moisturizer](https://www.100percentpure.com/products/bakuchiol-moisturizer)
 
-188 reviews (188)
+189 reviews (189)
 
 $58.00
 
