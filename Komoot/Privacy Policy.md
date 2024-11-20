@@ -605,6 +605,8 @@ Unser Angebot
 
 [Features](https://www.komoot.de/de-de/features)
 
+[Black Friday](https://www.komoot.de/de-de/black-friday)
+
 Über uns
 
 [Über komoot](https://www.komoot.de/de-de/about)
