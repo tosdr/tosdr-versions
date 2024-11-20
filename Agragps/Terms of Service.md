@@ -84,23 +84,23 @@ Close
     
     USD $4,600.00 – $5,700.00
     
-     [![CRG PLUS – GPS Receiver](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver/)
+     [![CRG+  GPS Receiver](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver/)
     
-    [CRG PLUS – GPS Receiver](https://www.agragps.com/product/crg-plus-gps-receiver/)
+    [CRG+ GPS Receiver](https://www.agragps.com/product/crg-plus-gps-receiver/)
     
     $5,700.00
     
-     [![CRG PLUS – GPS receiver with Bridge](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver-with-bridge/)
+     [![CRG+  GPS receiver plus Bridge](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver-with-bridge/)
     
-    [CRG PLUS – GPS receiver with Bridge](https://www.agragps.com/product/crg-plus-gps-receiver-with-bridge/)
+    [CRG+ GPS receiver plus Bridge](https://www.agragps.com/product/crg-plus-gps-receiver-with-bridge/)
     
     USD $6,800.00
     
-     [![CRG VISION PLUS PACKAGE](https://www.agragps.com/wp-content/uploads/2024/11/xVision-Display-web-image-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ugOUdB7XgF.jpg)](https://www.agragps.com/product/crg-vision-plus-package/)
+     [![CRG VISION – PACKAGE](https://www.agragps.com/wp-content/uploads/2024/11/xVision-Display-web-image-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ugOUdB7XgF.jpg)](https://www.agragps.com/product/crg-vision-package/)
     
-    [CRG VISION PLUS PACKAGE](https://www.agragps.com/product/crg-vision-plus-package/)
+    [CRG VISION – PACKAGE](https://www.agragps.com/product/crg-vision-package/)
     
-    $13,850.00
+    $8,850.00
     
     BRIDGE
     
@@ -114,23 +114,23 @@ Close
     
     Accessories
     
-     [![TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2023/06/xTRION-MOUNT-1-1-e1688003197417-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fVGd8dRxhJ.jpg)](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
+     [![CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/wp-content/uploads/2021/10/x20240521_143714-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.zeGSqvCAt2.jpg)](https://www.agragps.com/product/claas-axion-roof-mount/)
     
-    [TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
-    
-    $90.00
-    
-     [![CASE CNH COMBINE ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_113156-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vZKxKCHxk4.jpg)](https://www.agragps.com/product/case-combine-mount/)
-    
-    [CASE CNH COMBINE ROOF MOUNT](https://www.agragps.com/product/case-combine-mount/)
+    [CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/product/claas-axion-roof-mount/)
     
     $120.00
     
-     [![CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/wp-content/uploads/2024/05/xAxion-F-M-thegem-product-justified-square-xxs.jpg.pagespeed.ic.0zFTjpsgg-.jpg)](https://www.agragps.com/product/claas-axion-roof-mount-front/)
+     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
     
-    [CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/product/claas-axion-roof-mount-front/)
+    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
     
     $120.00
+    
+     [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    
+    [Emlid Reach RS2+ Base station](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    
+    $2,690.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -153,29 +153,13 @@ All Categories
     
 * CNH
     
-* CNH
-    
 * Combines
     
 * Deutz
     
 * Fendt
     
-* FENDT
-    
 * GPS
-    
-* GPS
-    
-* GPS
-    
-* GPS
-    
-* GPS
-    
-* GPS
-    
-* Horsch
     
 * Horsch
     
@@ -183,15 +167,9 @@ All Categories
     
 * JCB
     
-* JCB
-    
-* Krone
-    
 * Krone
     
 * Kubota
-    
-* Massey Ferguson
     
 * Massey Ferguson
     
@@ -199,19 +177,9 @@ All Categories
     
 * Rogator
     
-* Rogator
-    
-* RTK
-    
-* RTK
-    
-* RTK
-    
 * RTK
     
 * Sprayers
-    
-* Swathers
     
 * Swathers
     
@@ -262,23 +230,23 @@ Menu
     
     USD $4,600.00 – $5,700.00
     
-     [![CRG PLUS – GPS Receiver](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver/)
+     [![CRG+  GPS Receiver](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver/)
     
-    [CRG PLUS – GPS Receiver](https://www.agragps.com/product/crg-plus-gps-receiver/)
+    [CRG+ GPS Receiver](https://www.agragps.com/product/crg-plus-gps-receiver/)
     
     $5,700.00
     
-     [![CRG PLUS – GPS receiver with Bridge](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver-with-bridge/)
+     [![CRG+  GPS receiver plus Bridge](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver-with-bridge/)
     
-    [CRG PLUS – GPS receiver with Bridge](https://www.agragps.com/product/crg-plus-gps-receiver-with-bridge/)
+    [CRG+ GPS receiver plus Bridge](https://www.agragps.com/product/crg-plus-gps-receiver-with-bridge/)
     
     USD $6,800.00
     
-     [![CRG VISION PLUS PACKAGE](https://www.agragps.com/wp-content/uploads/2024/11/xVision-Display-web-image-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ugOUdB7XgF.jpg)](https://www.agragps.com/product/crg-vision-plus-package/)
+     [![CRG VISION – PACKAGE](https://www.agragps.com/wp-content/uploads/2024/11/xVision-Display-web-image-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ugOUdB7XgF.jpg)](https://www.agragps.com/product/crg-vision-package/)
     
-    [CRG VISION PLUS PACKAGE](https://www.agragps.com/product/crg-vision-plus-package/)
+    [CRG VISION – PACKAGE](https://www.agragps.com/product/crg-vision-package/)
     
-    $13,850.00
+    $8,850.00
     
     BRIDGE
     
@@ -292,23 +260,23 @@ Menu
     
     Accessories
     
+     [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
+    
+    [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
+    
+    $160.00
+    
+     [![CNH-JD-QA Wheel Angle](https://www.agragps.com/wp-content/uploads/2022/04/xwheel-angle-thegem-product-justified-square-xxs.jpg.pagespeed.ic.2-SO2WYbB6.jpg)](https://www.agragps.com/product/cnhqa-wheel-angle/)
+    
+    [CNH-JD-QA Wheel Angle](https://www.agragps.com/product/cnhqa-wheel-angle/)
+    
+    $960.00
+    
      [![DELUXE John Deere MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112348-thegem-product-justified-square-xxs.jpg.pagespeed.ic.W1Rlnb1kuW.jpg)](https://www.agragps.com/product/deluxe-jd-mount/)
     
     [DELUXE John Deere MOUNT](https://www.agragps.com/product/deluxe-jd-mount/)
     
     USD $80.00
-    
-     [![TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2023/06/xTRION-MOUNT-1-1-e1688003197417-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fVGd8dRxhJ.jpg)](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
-    
-    [TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
-    
-    $90.00
-    
-     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
-    
-    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
-    
-    $120.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
