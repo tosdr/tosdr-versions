@@ -215,7 +215,7 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![Fast 1 Hour Dry Time Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-1.png)
+![The World's Greenest Carpet Cleaner](https://www.oxifresh.com/wp-content/themes/oxifresh_alt/images/img-zipbox-2.png)
 
 Zip Code  QUOTE & SCHEDULE
 
@@ -385,15 +385,15 @@ What Customers Are Saying
 
 Based on 304,284 Carpet Cleaning Services Reviews
 
-The whole process from scheduling to cleaning and follow-up has been wonderful. We love that all products used are clean and non-harmful for humans and pets. Andrew was very friendly, professional, and delightful to have serviced our home. Our carpet looks new again and we would highly recommend Oxi Fresh Carpet Cleaning to anyone looking to regain their homes fresh, new look and feel. We'll definitely be using them again! **SS.** - Olathe, KS - 11/19/2024
+**AM.** - Blythewood, SC - 11/19/2024
 
 (5.0 Out of 5 stars)
 
-I have used Oxi Fresh to clean carpets in 2 different homes, and I continue to be a happy customer. The first time, renters had left wine stains and pet stains that I suspected had been there for months. I doubted the stains would come out but, miraculously, they did! The second time, I had an area rug with a large oil stain. I'd washed this carpet with my home carpet cleaner several months earlier, only succeeding in spreading the stain from a corner of the carpet to one entire side! Again, I doubted the stain would come out, but since the Oxi Fresh technician was cleaning other carpets, decided it was worth a try. To my complete amazement, the oil stain that has been there over a year is gone this morning! While these successes are impressive, there are bonuses too: the process takes half the time of traditional cleaning, there are no hoses drug through my home, and the carpets are dry enough to walk on in only an hour. I'll definitely call Oxi Fresh the next time I need carpets cleaned. **LT.** - Desert Hot Springs, CA - 11/19/2024
+My carpet looks and feels wonderful. My house smells good too! **BS.** - Texarkana, AR - 11/19/2024
 
 (5.0 Out of 5 stars)
 
-They are wonderful!! I have been using them for years! **KP.** - Little River, SC - 11/19/2024
+It was in time, quick, good job , pleasant perso and the price was right for my needs. **ML.** - Middletown, NY - 11/19/2024
 
 (5.0 Out of 5 stars)
 
