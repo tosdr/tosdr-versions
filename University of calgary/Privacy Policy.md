@@ -145,7 +145,6 @@ Toggle Navigation
     * [Giving to UCalgary](#)
         * [Giving to UCalgary](#)
         * [Giving to UCalgary](https://www.ucalgary.ca/giving)
-        * [Energize: The Campaign for Eyes High](https://www.ucalgary.ca/giving/campaign-success)
         * [How to give](https://www.ucalgary.ca/campaign/how-to-give)
         * [Contacts](https://www.ucalgary.ca/campaign/contact)
 * [Research](https://www.ucalgary.ca/research)
