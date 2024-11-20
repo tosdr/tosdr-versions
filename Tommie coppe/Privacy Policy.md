@@ -1,8 +1,8 @@
 [Skip to main content](#main-content)
 
-Meloni's Must Haves: BOGO Free! DETAILS
+Best Sellers: BOGO Free! DETAILS
 
-MELONI'S MUST HAVES
+BEST SELLERS
 
 Close the Modal
 
@@ -10,9 +10,9 @@ Close the Modal
 
 [SHOP NOW](https://www.tommiecopper.com/special/melonis-must-haves/)
 
-Offer valid 11/19/2024 8AM ET - 11/20/2024 6AM ET.
+Offer valid 11/20/2024 8AM ET - 11/22/2024 6AM ET.
 
-To receive Buy 1 Get 1 Free discount on Meloni's Must Haves, must add two (2) eligible items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+To receive Buy 1 Get 1 Free discount on Best Sellers, must add two (2) eligible items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 COMPRESSION SOCKS
 
