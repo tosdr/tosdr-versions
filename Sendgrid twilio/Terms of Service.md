@@ -201,10 +201,10 @@
     
     * [**Find a partner**
         
-        Work with a Twilio partner to buy or build the right solution](https://www.twilio.com/en-us/partners/partner-showcase)
+        Work with a Twilio partner to buy or build the right solution](https://www.twilio.com/en-us/partners)
     * [**Partner with us**
         
-        Join our Partner Program to build or sell Twilio solutions to your customers.](https://www.twilio.com/en-us/partners)
+        Join our Partner Program to build or sell Twilio solutions to your customers.](https://www.twilio.com/en-us/partners/become-a-partner)
     
 * Developers
     
@@ -563,10 +563,10 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
     
     * [**Find a partner**
         
-        Work with a Twilio partner to buy or build the right solution](https://www.twilio.com/en-us/partners/partner-showcase)
+        Work with a Twilio partner to buy or build the right solution](https://www.twilio.com/en-us/partners)
     * [**Partner with us**
         
-        Join our Partner Program to build or sell Twilio solutions to your customers.](https://www.twilio.com/en-us/partners)
+        Join our Partner Program to build or sell Twilio solutions to your customers.](https://www.twilio.com/en-us/partners/become-a-partner)
     
 * Developers
     
