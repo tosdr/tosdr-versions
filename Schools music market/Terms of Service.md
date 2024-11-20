@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/open-the-presents-christmas-worksheet/)
+ [](https://schoolsmusicmarket.com/product/a-selection-of-musical-crosswords/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -42,7 +42,7 @@ Results
 
 See all results
 
-[$0.00 0 Cart](#)
+[£0.00 0 Cart](#)
 
 [](https://schoolsmusicmarket.com/seller-dashboard/)
 
@@ -60,7 +60,7 @@ See all results
 
 ![](https://schoolsmusicmarket.com/wp-content/uploads/2023/07/SMM-Logo.png)](https://schoolsmusicmarket.com/)
 
-[$0.00 0 Cart](#)
+[£0.00 0 Cart](#)
 
 [](https://schoolsmusicmarket.com/seller-dashboard/)
 
@@ -97,7 +97,7 @@ Sellers Terms And Conditions
     
     Rated **235567** out of 5
     
-    ~$3.00~ Original price was: $3.00.$2.00Current price is: $2.00.
+    ~£1.99~ Original price was: £1.99.£0.99Current price is: £0.99.
     
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
     
@@ -107,7 +107,7 @@ Sellers Terms And Conditions
     
     Rated **235554** out of 5
     
-    ~$3.00~ Original price was: $3.00.$2.00Current price is: $2.00.
+    ~£1.99~ Original price was: £1.99.£0.99Current price is: £0.99.
     
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
     
@@ -117,7 +117,7 @@ Sellers Terms And Conditions
     
     Rated **235541** out of 5
     
-    ~$3.00~ Original price was: $3.00.$2.00Current price is: $2.00.
+    ~£1.99~ Original price was: £1.99.£0.99Current price is: £0.99.
     
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
     
@@ -127,7 +127,7 @@ Sellers Terms And Conditions
     
     Rated **235528** out of 5
     
-    ~$3.00~ Original price was: $3.00.$2.00Current price is: $2.00.
+    ~£1.99~ Original price was: £1.99.£0.99Current price is: £0.99.
     
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
     
@@ -137,7 +137,7 @@ Sellers Terms And Conditions
     
     Rated **235515** out of 5
     
-    ~$3.00~ Original price was: $3.00.$2.00Current price is: $2.00.
+    ~£1.99~ Original price was: £1.99.£0.99Current price is: £0.99.
     
 
 We'll send you everything you need to make this year's celebration unforgettable.
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/the-timbre-quiz-a-powerpoint-game/)
+ [](https://schoolsmusicmarket.com/product/lets-learn-about-rock-music/)
 
 ###### Browse By Year/Grade
 
@@ -389,5 +389,3 @@ See all results
 [Log Out](http://schoolsmusicmarket.com/wp-login.php?action=logout)
 
 ![fbpx](https://www.facebook.com/tr?id=694577338779269&ev=PageView&noscript=1)
-
-We noticed you're visiting from United States (US). We've updated our prices to United States (US) dollar for your shopping convenience. [Use Pound sterling instead.](https://schoolsmusicmarket.com/sellers-terms-and-conditions/?currency=GBP) [Dismiss](#)
