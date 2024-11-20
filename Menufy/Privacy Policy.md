@@ -20,6 +20,8 @@ Customer Engagement
 
 [Feedback Tool](https://restaurant.menufy.com/feedback-tool)
 
+[Get More Info](https://restaurant.menufy.com/get-more-info-feedback)
+
 [About Us](https://restaurant.menufy.com/about-us)
 
 [Blog](https://restaurant.menufy.com/blog)
@@ -54,6 +56,8 @@ Marketing
 Customer Engagement
 
 [Feedback Tool](https://restaurant.menufy.com/feedback-tool)
+
+[Get More Info](https://restaurant.menufy.com/get-more-info-feedback)
 
 [About Us](https://restaurant.menufy.com/about-us)
 
