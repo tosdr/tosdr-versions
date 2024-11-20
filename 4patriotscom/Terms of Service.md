@@ -234,9 +234,9 @@ Search
     
     [Shop All](https://4patriots.com/category/shop-all)
     
-    [Solar Power](https://4patriots.com/category/solar-power)[Emergency Food](https://4patriots.com/category/emergency-food-kits)[Water](https://4patriots.com/category/water-filtration)[Air](https://4patriots.com/category/air-filtration-climate)[Survival Gear](https://4patriots.com/category/survival-gear)[Tools & Storage](https://4patriots.com/category/survival-gear/survival-tools-storage)[Car & Auto](https://4patriots.com/category/survival-gear/emergency-roadside-car-kits)
+    [Solar Power](https://4patriots.com/category/solar-power)[Solar Generators](https://4patriots.com/category/solar-power/solar-generators)[Emergency Food](https://4patriots.com/category/emergency-food-kits)[Water](https://4patriots.com/category/water-filtration)[Air](https://4patriots.com/category/air-filtration-climate)[Survival Gear](https://4patriots.com/category/survival-gear)[Tools & Storage](https://4patriots.com/category/survival-gear/survival-tools-storage)[Car & Auto](https://4patriots.com/category/survival-gear/emergency-roadside-car-kits)
     
-    [Lanterns & Lighting](https://4patriots.com/category/solar-power/solar-lanterns-lighting)[RV & Camping](https://4patriots.com/category/rv-camping)[Home & Health](https://4patriots.com/category/home-health)[Subscriptions](https://4patriots.com/category/subscriptions)[Kits & Bundles](https://4patriots.com/category/solar-food-combo-kits)[Emergency Essentials](https://4patriots.com/category/emergency-essentials)[As Seen on TV](https://4patriots.com/category/as-seen-on-tv)[🎄 **Gift Guide**](https://4patriots.com/category/gift-guide)[**Deals**](https://4patriots.com/category/deals)
+    [Lanterns & Lighting](https://4patriots.com/category/solar-power/solar-lanterns-lighting)[RV & Camping](https://4patriots.com/category/rv-camping)[Home & Health](https://4patriots.com/category/home-health)[Subscriptions](https://4patriots.com/category/subscriptions)[Kits & Bundles](https://4patriots.com/category/solar-food-combo-kits)[Emergency Essentials](https://4patriots.com/category/emergency-essentials)[As Seen on TV](https://4patriots.com/category/as-seen-on-tv)[**Gift Guide**](https://4patriots.com/category/gift-guide)[**Black Friday Deals**](https://4patriots.com/category/deals)
     
     [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=452)](https://4patriots.com/product/haloxt-tactical-9-in-1-solar-flashlight)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/patriot-power-cell-cx-portable-solar-power-bank)
     
@@ -535,7 +535,7 @@ Testimonials featured on this site are from real people. Sometimes names & pictu
 
 ![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fa94b86cfad9d47648453df4d4124c037?width=107)
 
-[Privacy Policy](https://4patriots.com/page/policies/privacy-policy)
+[Privacy Policy](https://4patriots.com/page/policies/privacy-policy)[Terms of Service](https://4patriots.com/page/policies/terms-of-service)
 
 2024 © 4Patriots LLC - All Rights Reserved.
 
