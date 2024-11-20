@@ -150,10 +150,10 @@ Latest reactions
 
 Latest forum posts
 
+* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 * [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
 * [problems with Megaflashrom SCC+](https://www.msx.org/forum/msx-talk/general-discussion/problems-with-megaflashrom-scc "problems with Megaflashrom SCC+")
 * [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250?page=1 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
-* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 * [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o?page=1 "RTC batteries actually working? :O")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
 * [Some facts about Konami 32kb game cartridges](https://www.msx.org/forum/msx-talk/hardware/some-facts-about-konami-32kb-game-cartridges "Some facts about Konami 32kb game cartridges")
