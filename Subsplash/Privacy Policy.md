@@ -13,9 +13,9 @@ Oops! Something went wrong while submitting the form.
 
 By providing your contact information you agree to receive communications from Subsplash including but not limited to emails, phone calls, and text messages. Message and data rates may apply. Message frequency varies. Opt out available. You can learn more about how we handle your personal data and your rights by reviewing our [privacy policy.](https://www.subsplash.com/legal/privacy)
 
-[Wed Nov 13 | The Subsplash Product Event | Register now!
+THE HOLIDAY SALE IS HERE | New sign-ups receive two months on us through Nov 30, 2024
 
-Register now!](https://equip.subsplash.com/product-event-november-2024?utm_campaign=product_event&utm_source=website&utm_medium=banner)
+Register now!
 
 [![Subsplash Logo](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/64d1546f0b2e6541c7beed66_Subsplash_Logo_Black%201.svg)](https://www.subsplash.com/)
 
@@ -223,6 +223,16 @@ Register now!](https://equip.subsplash.com/product-event-november-2024?utm_campa
     [469-564-3922
     
     Connect with a ministry consultant](tel:+1(469)564-3922)
+    
+    [206.965.8090
+    
+    Connect with a ministry consultant](tel:2069658090)
+    
+    Subscribe
+    
+    [Subscribe to our newsletter
+    
+    Tools & resources to make disciples in a digital age. Every Monday in your inbox.](#)
     
     [206.965.8090
     
