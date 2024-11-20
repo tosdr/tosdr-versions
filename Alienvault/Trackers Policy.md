@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Navigating SaaS Security Risks: Key Strategies and Solutions
+            ##### Enhancing Cyber Resilience in US SLED Organizations
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/navigating-saas-security-risks-key-strategies-and-solutions)
+            [Learn more](https://levelblue.com/blogs/security-essentials/enhancing-cyber-resilience-in-us-sled)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -433,13 +433,13 @@ If you have any queries regarding this Cookie Policy please contact us at [dl-cy
 
 From the Blog
 
-![Farwa Sajjad](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Farwa Sajjad
+#### Theresa Lanowitz
 
-Nov 19, 2024
+Nov 20, 2024
 
-### [Navigating SaaS Security Risks: Key Strategies and Solutions](https://levelblue.com/blogs/security-essentials/navigating-saas-security-risks-key-strategies-and-solutions)
+### [Enhancing Cyber Resilience in US SLED Organizations](https://levelblue.com/blogs/security-essentials/enhancing-cyber-resilience-in-us-sled)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
