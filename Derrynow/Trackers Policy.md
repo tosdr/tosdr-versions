@@ -259,26 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Tuesday: Out and About Partytime with the County Derry Post (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About Partytime with the County Derry Post (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1658764/throwback-tuesday-out-and-about-partytime-with-the-county-derry-post-2011.html)
+[![IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1658457/in-pictures-st-mary-s-faughanvale-gac-annual-prizegiving.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Throwback Tuesday: Out and About Partytime with the County Derry Post (2011)](https://www.derrynow.com/story-telling/pictures---videos/1658764/throwback-tuesday-out-and-about-partytime-with-the-county-derry-post-2011.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry Gaelic Masters Team annual prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Gaelic Masters Team annual prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1658458/in-pictures-derry-gaelic-masters-team-annual-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Gaelic Masters Team annual prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1658458/in-pictures-derry-gaelic-masters-team-annual-prizegiving.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man extradited from USA appears before Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man extradited from USA appears before Derry Crown Court")](https://www.derrynow.com/news/local-news/1659347/derry-man-extradited-from-usa-appears-before-derry-crown-court.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man extradited from USA appears before Derry Crown Court](https://www.derrynow.com/news/local-news/1659347/derry-man-extradited-from-usa-appears-before-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1658457/in-pictures-st-mary-s-faughanvale-gac-annual-prizegiving.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Cian McConnell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cian McConnell")](https://www.derrynow.com/news/derry-news/1659403/i-want-to-break-the-stigma-as-derry-teenager-asks-people-to-donate-to-fundraiser-for-his-birthday.html)
 
@@ -298,13 +284,6 @@ Local Sunbed premises fined for offering illegal sunbed sessions to children
 [Local sunbed premises fined for offering illegal sunbed sessions to children](https://www.derrynow.com/news/local-news/1659156/local-sunbed-premises-fined-for-offering-illegal-sunbed-sessions-to-children.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1658457/in-pictures-st-mary-s-faughanvale-gac-annual-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1658457/in-pictures-st-mary-s-faughanvale-gac-annual-prizegiving.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Three arrested and drugs seized in Derry searches](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three arrested and drugs seized in Derry searches")](https://www.derrynow.com/news/local-news/1659836/three-arrested-and-drugs-seized-in-derry-searches.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -321,27 +300,66 @@ The PSNI are conducting enquiries in the Limavady area following the report.
 [Police conducting enquiries in Limavady area following report of man acting suspiciously](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall")](https://www.derrynow.com/story-telling/pictures---videos/1657940/in-pictures-revive-pre-loved-pop-up-show-in-derry-s-st-columb-s-hall.html)
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1659772/derry-death-notices-wednesday-november-20-2024.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall](https://www.derrynow.com/story-telling/pictures---videos/1657940/in-pictures-revive-pre-loved-pop-up-show-in-derry-s-st-columb-s-hall.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Wednesday, November 20, 2024](https://www.derrynow.com/news/deaths/1659772/derry-death-notices-wednesday-november-20-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman charged with driving-related offences due to appear before Derry Magistrates Court next month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged with driving-related offences due to appear before Derry Magistrates Court next month")](https://www.derrynow.com/news/local-news/1659351/woman-charged-with-driving-related-offences-due-to-appear-before-derry-magistrates-court-next-month.html)
+[![Icy road conditions in Greysteel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Icy road conditions in Greysteel")](https://www.derrynow.com/news/derry-news/1660218/treacherous-road-conditions-across-county-derry-for-motorists-as-winter-arrives.html)
 
-PSNI
+Icy road conditions in Greysteel
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Woman charged with driving-related offences due to appear before Derry Magistrates Court next month](https://www.derrynow.com/news/local-news/1659351/woman-charged-with-driving-related-offences-due-to-appear-before-derry-magistrates-court-next-month.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+['Treacherous' road conditions across County Derry for motorists as winter arrives](https://www.derrynow.com/news/derry-news/1660218/treacherous-road-conditions-across-county-derry-for-motorists-as-winter-arrives.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Movember, Spokes Mo, Anton Tohill](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Movember, Spokes Mo, Anton Tohill")](https://www.derrynow.com/news/county-derry-post/1658388/swatragh-man-leading-the-way-in-movember-challenge.html)
+
+Movember, Spokes Mo, Anton Tohill
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Swatragh man leading the way in Movember challenge](https://www.derrynow.com/news/county-derry-post/1658388/swatragh-man-leading-the-way-in-movember-challenge.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry cafe to provide Christmas lunch and gifts to the community for people on their own or need support on Christmas Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry cafe to provide Christmas lunch and gifts to the community for people on their own or need support on Christmas Day")](https://www.derrynow.com/news/derry-news/1659494/derry-cafe-to-provide-christmas-lunch-and-gifts-to-the-community-for-people-on-their-own-or-need-support-on-christmas-day.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry cafe to provide Christmas lunch and gifts to the community for people on their own or need support on Christmas Day](https://www.derrynow.com/news/derry-news/1659494/derry-cafe-to-provide-christmas-lunch-and-gifts-to-the-community-for-people-on-their-own-or-need-support-on-christmas-day.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Blind man slams Housing Executive over mite infestation in his Limavady home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Blind man slams Housing Executive over mite infestation in his Limavady home")](https://www.derrynow.com/news/home/1659653/blind-man-slams-housing-executive-over-mite-infestation-in-his-limavady-home.html)
+
+Gareth Logue has hit out at the Housing Executive.
+
+[Home](https://www.derrynow.com/)
+
+[Blind man slams Housing Executive over mite infestation in his Limavady home](https://www.derrynow.com/news/home/1659653/blind-man-slams-housing-executive-over-mite-infestation-in-his-limavady-home.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![WATCH: Tiernan Lynch 'proud and privileged' to be new Derry City manager](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Tiernan Lynch 'proud and privileged' to be new Derry City manager")](https://www.derrynow.com/news/derry-sport/1660322/watch-tiernan-lynch-proud-and-privileged-to-be-new-derry-city-manager.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[WATCH: Tiernan Lynch 'proud and privileged' to be new Derry City manager](https://www.derrynow.com/news/derry-sport/1660322/watch-tiernan-lynch-proud-and-privileged-to-be-new-derry-city-manager.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1657938/in-pictures-st-mary-s-ardmore-gac-dinner-dance-in-the-maldron-hotel.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel](https://www.derrynow.com/story-telling/pictures---videos/1657938/in-pictures-st-mary-s-ardmore-gac-dinner-dance-in-the-maldron-hotel.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1658457/in-pictures-st-mary-s-faughanvale-gac-annual-prizegiving.html)
 
@@ -398,22 +416,6 @@ Multimedia
 
 [IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](https://www.derrynow.com/story-telling/pictures---videos/1657935/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House")](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Students in Derry wowed by environmentally-themed Water Warriors event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Students in Derry wowed by environmentally-themed Water Warriors event")](https://www.derrynow.com/story-telling/pictures---videos/1655932/in-pictures-students-in-derry-wowed-by-environmentally-themed-water-warriors-event.html)
-
-IN PICTURES: Students in Derry wowed by environmentally-themed Water Warriors event
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Students in Derry wowed by environmentally-themed Water Warriors event](https://www.derrynow.com/story-telling/pictures---videos/1655932/in-pictures-students-in-derry-wowed-by-environmentally-themed-water-warriors-event.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,57 +517,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1659772/derry-death-notices-wednesday-november-20-2024.html)
+[![My Dad's long battle with COPD pushed me to check my own lung health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "My Dad's long battle with COPD pushed me to check my own lung health")](https://www.derrynow.com/news/derry-news/1660288/my-dad-s-long-battle-with-copd-pushed-me-to-check-my-own-lung-health.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Darren with his dad James
 
-[Derry Death Notices - Wednesday, November 20, 2024](https://www.derrynow.com/news/deaths/1659772/derry-death-notices-wednesday-november-20-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[![Music awards nominee Lyneve hoping to 'put Gortnnaghey on the map'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Music awards nominee Lyneve hoping to 'put Gortnnaghey on the map'")](https://www.derrynow.com/news/home/1659617/music-awards-nominee-lyneve-hoping-to-put-gortnaghey-on-the-map.html)
+[My Dad's long battle with COPD pushed me to check my own lung health](https://www.derrynow.com/news/derry-news/1660288/my-dad-s-long-battle-with-copd-pushed-me-to-check-my-own-lung-health.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Lyneve Newland has been nominated for six awards in the upcoming Red Carpet Award Show.
-
-[Home](https://www.derrynow.com/)
-
-[Music awards nominee Lyneve hoping to 'put Gortnaghey on the map'](https://www.derrynow.com/news/home/1659617/music-awards-nominee-lyneve-hoping-to-put-gortnaghey-on-the-map.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police conducting enquiries in Limavady area following report of man acting suspiciously](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police conducting enquiries in Limavady area following report of man acting suspiciously")](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
-
-The PSNI are conducting enquiries in the Limavady area following the report.
-
-[Home](https://www.derrynow.com/)
-
-[Police conducting enquiries in Limavady area following report of man acting suspiciously](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Movember, Spokes Mo, Anton Tohill](https://www.derrynow.com/resizer/165/93/true/2024_11_18/Movember%2C_Spokes_Mo%2C_Anton_Tohill-1731926833327.jpg--.jpg?1731926833940 "Movember, Spokes Mo, Anton Tohill")](https://www.derrynow.com/news/county-derry-post/1658388/swatragh-man-leading-the-way-in-movember-challenge.html)
-
-Movember, Spokes Mo, Anton Tohill
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Swatragh man leading the way in Movember challenge](https://www.derrynow.com/news/county-derry-post/1658388/swatragh-man-leading-the-way-in-movember-challenge.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Blind man slams Housing Executive over mite infestation in his Limavady home](https://www.derrynow.com/resizer/165/93/true/2024_11_19/CDP_-_19-11-24_-_Page_1_lead_pic-1732031955728_1732032151.JPG--.JPG?1732032151142 "Blind man slams Housing Executive over mite infestation in his Limavady home")](https://www.derrynow.com/news/home/1659653/blind-man-slams-housing-executive-over-mite-infestation-in-his-limavady-home.html)
-
-Gareth Logue has hit out at the Housing Executive.
-
-[Home](https://www.derrynow.com/)
-
-[Blind man slams Housing Executive over mite infestation in his Limavady home](https://www.derrynow.com/news/home/1659653/blind-man-slams-housing-executive-over-mite-infestation-in-his-limavady-home.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry's Castle Gate to close for resurfacing works](https://www.derrynow.com/resizer/165/93/true/2024_11_19/25d3526be277f3f96ae4a4b32cd54ec0-1732029547932.jpg--.jpg?1732029547990 "Derry's Castle Gate to close for resurfacing works")](https://www.derrynow.com/news/local-news/1659568/derry-s-castle-gate-to-close-for-resurfacing-works.html)
-
-Castle Gate
+[![Two people appear at Derry Court on drugs charges including possession of heroin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two people appear at Derry Court on drugs charges including possession of heroin")](https://www.derrynow.com/news/local-news/1660371/two-people-appear-at-derry-court-on-drugs-charges-including-possession-of-heroin.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry's Castle Gate to close for resurfacing works](https://www.derrynow.com/news/local-news/1659568/derry-s-castle-gate-to-close-for-resurfacing-works.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Two people appear at Derry Court on drugs charges including possession of heroin](https://www.derrynow.com/news/local-news/1660371/two-people-appear-at-derry-court-on-drugs-charges-including-possession-of-heroin.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ulster University's Dr. Mary Crossan addressing the students](https://www.derrynow.com/resizer/165/93/true/2024_11_20/unnamed_%281%29-1732102414321.jpg--.jpg?1732102414380 "Ulster University's Dr. Mary Crossan addressing the students")](https://www.derrynow.com/news/derry-news/1660280/derry-chamber-supports-future-north-west-talent.html)
+
+Ulster University's Dr. Mary Crossan addressing the students
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry Chamber Supports Future North West Talent](https://www.derrynow.com/news/derry-news/1660280/derry-chamber-supports-future-north-west-talent.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Weather warning for areas of Derry about icy conditions tonight and tomorrow](https://www.derrynow.com/resizer/165/93/true/1514453348343.jpg--.jpg?1514453348000 "Weather warning for areas of Derry about icy conditions tonight and tomorrow")](https://www.derrynow.com/news/derry-news/1660311/weather-warning-for-areas-of-derry-about-icy-conditions-tonight-and-tomorrow.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Weather warning for areas of Derry about icy conditions tonight and tomorrow](https://www.derrynow.com/news/derry-news/1660311/weather-warning-for-areas-of-derry-about-icy-conditions-tonight-and-tomorrow.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Limavady BJJ coach offers free classes to combat violence against women](https://www.derrynow.com/resizer/165/93/true/2024_11_20/CDP_-_19-11-24_-_Page_6_lead_pic_%282%29-1732100508834_1732100523.jpeg--.jpeg?1732100523826 "Limavady BJJ coach offers free classes to combat violence against women")](https://www.derrynow.com/news/home/1660234/limavady-bjj-coach-offers-free-classes-to-combat-violence-against-women.html)
+
+Female coaches Carla McGuigan and Majella McLaughlin, both European champions.
+
+[Home](https://www.derrynow.com/)
+
+[Limavady BJJ coach offers free classes to combat violence against women](https://www.derrynow.com/news/home/1660234/limavady-bjj-coach-offers-free-classes-to-combat-violence-against-women.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Icy road conditions in Greysteel](https://www.derrynow.com/resizer/165/93/true/2024_11_20/ice-1732099802403.PNG--.PNG?1732099802456 "Icy road conditions in Greysteel")](https://www.derrynow.com/news/derry-news/1660218/treacherous-road-conditions-across-county-derry-for-motorists-as-winter-arrives.html)
+
+Icy road conditions in Greysteel
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+['Treacherous' road conditions across County Derry for motorists as winter arrives](https://www.derrynow.com/news/derry-news/1660218/treacherous-road-conditions-across-county-derry-for-motorists-as-winter-arrives.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
