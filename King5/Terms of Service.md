@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d726966d-e8eb-4407-88c8-d827d43377a0/20241119T034959/d726966d-e8eb-4407-88c8-d827d43377a0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d726966d-e8eb-4407-88c8-d827d43377a0/20241119T034959/d726966d-e8eb-4407-88c8-d827d43377a0_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/what-is-bomb-cyclone-science-behind-term/281-be91e4a9-2cba-4568-b32b-b5fb89fb68e2)
+    *  [![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T130250/0b5e620d-089e-4381-ba15-73a58a7a4d3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T130250/0b5e620d-089e-4381-ba15-73a58a7a4d3e_360x203.jpg)](https://www.king5.com/article/news/local/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
         
-        #### [What is bombogenesis? Understanding the science behind upcoming bomb cyclone](https://www.king5.com/article/weather/weather-blog/what-is-bomb-cyclone-science-behind-term/281-be91e4a9-2cba-4568-b32b-b5fb89fb68e2)
+        #### [600,000 people without power in western WA; Company warns outages could last for multiple days](https://www.king5.com/article/news/local/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
         
-    *  [![](https://media.king5.com/assets/KING/images/f235c124-ea34-45f6-964f-1ddd493a1bf1/20241120T003538/f235c124-ea34-45f6-964f-1ddd493a1bf1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f235c124-ea34-45f6-964f-1ddd493a1bf1/20241120T003538/f235c124-ea34-45f6-964f-1ddd493a1bf1_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/last-bomb-cyclone-washington/281-767a9b22-f621-4448-af88-6fbfde2310f8)
+    *  [![](https://media.king5.com/assets/KING/images/c0c0c3bd-1498-4838-89c4-a783b34def12/20241119T143749/c0c0c3bd-1498-4838-89c4-a783b34def12_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c0c0c3bd-1498-4838-89c4-a783b34def12/20241119T143749/c0c0c3bd-1498-4838-89c4-a783b34def12_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
         
-        #### [Here's the last time Washington was impacted by a bomb cyclone](https://www.king5.com/article/weather/weather-blog/last-bomb-cyclone-washington/281-767a9b22-f621-4448-af88-6fbfde2310f8)
+        #### [Harsh winds easing 'dramatically' as bomb cyclone moves away from western Washington](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c6b9d553-a3cc-4ec9-aec7-daf9b3acc3a5/20241120T052325/c6b9d553-a3cc-4ec9-aec7-daf9b3acc3a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c6b9d553-a3cc-4ec9-aec7-daf9b3acc3a5/20241120T052325/c6b9d553-a3cc-4ec9-aec7-daf9b3acc3a5_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/c0c0c3bd-1498-4838-89c4-a783b34def12/20241119T143749/c0c0c3bd-1498-4838-89c4-a783b34def12_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c0c0c3bd-1498-4838-89c4-a783b34def12/20241119T143749/c0c0c3bd-1498-4838-89c4-a783b34def12_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
         
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        #### [Harsh winds easing 'dramatically' as bomb cyclone moves away from western Washington](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
         
-    *  [![](https://media.king5.com/assets/KING/images/cd97bbb0-52d2-43de-8b9b-999a67d0f3bd/20241120T045802/cd97bbb0-52d2-43de-8b9b-999a67d0f3bd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cd97bbb0-52d2-43de-8b9b-999a67d0f3bd/20241120T045802/cd97bbb0-52d2-43de-8b9b-999a67d0f3bd_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/woman-killed-falling-tree-lynnwood/281-f4a788b3-a5c6-4ca8-83b0-0f4a4ca725fa)
+    *  [![](https://media.king5.com/assets/KING/images/3c8332e7-1498-4fe6-9585-0eb59a17616d/20241120T133635/3c8332e7-1498-4fe6-9585-0eb59a17616d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3c8332e7-1498-4fe6-9585-0eb59a17616d/20241120T133635/3c8332e7-1498-4fe6-9585-0eb59a17616d_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
         
-        #### [Woman killed by falling tree in Lynnwood](https://www.king5.com/article/weather/weather-impact/woman-killed-falling-tree-lynnwood/281-f4a788b3-a5c6-4ca8-83b0-0f4a4ca725fa)
+        #### [Live updates: Widespread traffic impacts after major windstorm, hundreds of thousands of power outages,](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+44°
 
-![Showers in the Vicinity](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
