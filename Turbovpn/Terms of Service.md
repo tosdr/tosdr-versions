@@ -6,6 +6,7 @@ TURBO VPN
 * [Why TurboVPN?](https://turbovpn.com/features)
     * About Turbo VPN [Servers in 111 countries](https://turbovpn.com/vpn-server) [No User Tracking](https://turbovpn.com/features/no-logs) [Anonymous Browsing](https://turbovpn.com/features/anonymous-browsing) [Benefits](https://turbovpn.com/vpn-benefits) [Fastest VPN](https://turbovpn.com/features/turbo-speed) [VPN For Country](https://turbovpn.com/vpn-for-country)
     * Features [Kill Switch](https://turbovpn.com/features/automatic-kill-switch) [Split Tunneling](https://turbovpn.com/features/spilt-tunneling) [Wi-Fi Protection](https://turbovpn.com/features/wifi-protection) [Private DNS](https://turbovpn.com/features/private-dns) [AES-256 Encryption](https://turbovpn.com/features/encryption) [All Features](https://turbovpn.com/features)
+    * Popular Uses [VPN for Streaming](https://turbovpn.com/popular-uses/vpn-for-streaming) [VPN for Sports](https://turbovpn.com/popular-uses/vpn-for-sports) [VPN for Gaming](https://turbovpn.com/InternetAccess/vpn-for-gaming) [VPN for Social Media](https://turbovpn.com/InternetAccess/vpn-for-social-media) [All Scenes](https://turbovpn.com/InternetAccess)
 * [What is a VPN?](https://turbovpn.com/what-is-vpn)
 * [Download VPN](https://turbovpn.com/download)
     * Desktop [Windows VPN](https://turbovpn.com/download/windows) [macOS VPN](https://turbovpn.com/download/macos)
@@ -45,7 +46,7 @@ Choose Language
 
 [Why TurboVPN?](https://turbovpn.com/features)
 
-[Servers in 111 countries](https://turbovpn.com/vpn-server)[No User Tracking](https://turbovpn.com/features/no-logs)[Anonymous Browsing](https://turbovpn.com/features/anonymous-browsing)[Benefits](https://turbovpn.com/vpn-benefits)[Fastest VPN](https://turbovpn.com/features/turbo-speed)[VPN For Country](https://turbovpn.com/vpn-for-country)[Kill Switch](https://turbovpn.com/features/automatic-kill-switch)[Split Tunneling](https://turbovpn.com/features/spilt-tunneling)[Wi-Fi Protection](https://turbovpn.com/features/wifi-protection)[Private DNS](https://turbovpn.com/features/private-dns)[AES-256 Encryption](https://turbovpn.com/features/encryption)[All Features](https://turbovpn.com/features)
+[Servers in 111 countries](https://turbovpn.com/vpn-server)[No User Tracking](https://turbovpn.com/features/no-logs)[Anonymous Browsing](https://turbovpn.com/features/anonymous-browsing)[Benefits](https://turbovpn.com/vpn-benefits)[Fastest VPN](https://turbovpn.com/features/turbo-speed)[VPN For Country](https://turbovpn.com/vpn-for-country)[Kill Switch](https://turbovpn.com/features/automatic-kill-switch)[Split Tunneling](https://turbovpn.com/features/spilt-tunneling)[Wi-Fi Protection](https://turbovpn.com/features/wifi-protection)[Private DNS](https://turbovpn.com/features/private-dns)[AES-256 Encryption](https://turbovpn.com/features/encryption)[All Features](https://turbovpn.com/features)[VPN for Streaming](https://turbovpn.com/popular-uses/vpn-for-streaming)[VPN for Sports](https://turbovpn.com/popular-uses/vpn-for-sports)[VPN for Gaming](https://turbovpn.com/InternetAccess/vpn-for-gaming)[VPN for Social Media](https://turbovpn.com/InternetAccess/vpn-for-social-media)[All Scenes](https://turbovpn.com/InternetAccess)
 
 [What is a VPN?](https://turbovpn.com/what-is-vpn)
 
