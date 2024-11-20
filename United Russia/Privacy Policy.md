@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» проводит День юридической помощи по вопросам защиты детства](https://cdn.er.ru/media/news/November2024/tLzwkvkcvO3k3YJ3OaNE-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-den-yuridicheskoj-pomoshi-po-voprosam-zashity-detstva)
+
+[«Единая Россия» проводит День юридической помощи по вопросам защиты детства](https://er.ru/activity/news/edinaya-rossiya-provodit-den-yuridicheskoj-pomoshi-po-voprosam-zashity-detstva)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#юридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=110126) [#защитадетства](https://er.ru/activity/news?tags%5B0%5D=105383) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
+
+Сегодня 09:30
+
+[![О поправках к бюджету на 2025-2027 годы. Статья Андрея Исаева](https://cdn.er.ru/media/news/November2024/zIITaWNjK3EHag8tjB32-small.jpg)](https://er.ru/activity/news/o-popravkah-k-byudzhetu-na-2025-2027-gody-statya-andreya-isaeva)
+
+[О поправках к бюджету на 2025-2027 годы. Статья Андрея Исаева](https://er.ru/activity/news/o-popravkah-k-byudzhetu-na-2025-2027-gody-statya-andreya-isaeva)
+
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331)
+
+Сегодня 09:00
+
+[![«Единая Россия»: Выставку трофейной военной техники «Сила V правде — гордость и Победа» в Казани посетили более 120 тысяч человек](https://cdn.er.ru/media/news/November2024/HmQJNtdadHFtf1THA929-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavku-trofejnoj-voennoj-tehniki-sila-v-pravde-gordost-i-pobeda-v-kazani-posetili-bolee-120-tysyach-chelovek)
+
+[«Единая Россия»: Выставку трофейной военной техники «Сила V правде — гордость и Победа» в Казани посетили более 120 тысяч человек](https://er.ru/activity/news/edinaya-rossiya-vystavku-trofejnoj-voennoj-tehniki-sila-v-pravde-gordost-i-pobeda-v-kazani-posetili-bolee-120-tysyach-chelovek)
+
+[#выставка военной техники](https://er.ru/activity/news?tags%5B0%5D=47860) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#Республика Тататрстан](https://er.ru/activity/news?tags%5B0%5D=106972)
+
+Сегодня 08:30
+
 [![Госдума приняла инициированный «Единой Россией» законопроект, освобождающий участников СВО от взыскания исполнительского сбора в период их участия в боевых действиях](https://cdn.er.ru/media/news/November2024/ypiQVAUmn6a3Ytn0vvHI-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-osvobozhdayushij-uchastnikov-svo-ot-vzyskaniya-ispolnitelskogo-sbora-v-period-ih-uchastiya-v-boevyh-dejstviyah)
 
 [Госдума приняла инициированный «Единой Россией» законопроект, освобождающий участников СВО от взыскания исполнительского сбора в период их участия в боевых действиях](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-osvobozhdayushij-uchastnikov-svo-ot-vzyskaniya-ispolnitelskogo-sbora-v-period-ih-uchastiya-v-boevyh-dejstviyah)
@@ -322,30 +346,6 @@
 [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Алиханов](https://er.ru/activity/news?tags%5B0%5D=103216) [#Минпромторг](https://er.ru/activity/news?tags%5B0%5D=3505) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#суверенитет](https://er.ru/activity/news?tags%5B0%5D=9840) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
 18.11.24
-
-[![«Единая Россия» подписала меморандум о взаимопонимании с Социалистической партией Сербии](https://cdn.er.ru/media/news/November2024/IbB4bUsxfkIL6u4eA7n7-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podpisala-memorandum-o-vzaimoponimanii-s-socialisticheskoj-partiej-serbii)
-
-[«Единая Россия» подписала меморандум о взаимопонимании с Социалистической партией Сербии](https://er.ru/activity/news/edinaya-rossiya-podpisala-memorandum-o-vzaimoponimanii-s-socialisticheskoj-partiej-serbii)
-
-[#Сербия](https://er.ru/activity/news?tags%5B0%5D=3058) [#симпозиум](https://er.ru/activity/news?tags%5B0%5D=18350) [#БРИКС+](https://er.ru/activity/news?tags%5B0%5D=1095905) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
-
-16.11.24
-
-[![Владимир Якушев посетил Республику Башкортостан](https://cdn.er.ru/media/news/November2024/8PDcX0qpbLGlxhSgB6BK-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-posetil-respubliku-bashkortostan)
-
-[Владимир Якушев посетил Республику Башкортостан](https://er.ru/activity/news/vladimir-yakushev-posetil-respubliku-bashkortostan)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хабиров](https://er.ru/activity/news?tags%5B0%5D=76970) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#гумконвой](https://er.ru/activity/news?tags%5B0%5D=96196) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ZаСамбо](https://er.ru/activity/news?tags%5B0%5D=1093088) [#рабочаяпоездка](https://er.ru/activity/news?tags%5B0%5D=129494)
-
-16.11.24
-
-[![«Единая Россия», «Молодая Гвардия» и Всероссийская федерация самбо проведут в 2025 году в Москве массовую тренировку по самбо](https://cdn.er.ru/media/news/November2024/hwmXrzFXfsRnYsnGnX09-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-molodaya-gvardiya-i-vserossijskaya-federaciya-sambo-provedut-v-2025-godu-v-moskve-massovuyu-trenirovku-po-sambo)
-
-[«Единая Россия», «Молодая Гвардия» и Всероссийская федерация самбо проведут в 2025 году в Москве массовую тренировку по самбо](https://er.ru/activity/news/edinaya-rossiya-molodaya-gvardiya-i-vserossijskaya-federaciya-sambo-provedut-v-2025-godu-v-moskve-massovuyu-trenirovku-po-sambo)
-
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Zасамбо](https://er.ru/activity/news?tags%5B0%5D=1093194) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#тренировка](https://er.ru/activity/news?tags%5B0%5D=2478)
-
-16.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
