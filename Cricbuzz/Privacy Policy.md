@@ -48,13 +48,19 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs SL - Complete](https://www.cricbuzz.com/live-cricket-scores/108761/nz-vs-sl-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 3rd ODI - Complete")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")[ADSW vs PRSW - ADSW Won](https://www.cricbuzz.com/live-cricket-scores/101401/adsw-vs-prsw-32nd-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Perth Scorchers Women, 32nd Match - ADSW Won")[WI vs ENG - No Result](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-england-tour-of-west-indies-2024 "West Indies v England, 5th T20I - No Result")[SLA vs PAKA - Stumps](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[MLSW vs SYTW - Live](https://www.cricbuzz.com/live-cricket-scores/101408/mlsw-vs-sytw-33rd-match-womens-big-bash-league-2024 "Melbourne Stars Women v Sydney Thunder Women, 33rd Match - Live")[NZ vs SL - Complete](https://www.cricbuzz.com/live-cricket-scores/108761/nz-vs-sl-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 3rd ODI - Complete")[SLA vs PAKA - Live](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Live")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")[WI vs ENG - No Result](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-england-tour-of-west-indies-2024 "West Indies v England, 5th T20I - No Result")
 
 AllLive NowToday
 
 * INTERNATIONAL
     
-    Australia v Pakistan
+    Australia v India
+    
+    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91778/aus-vs-ind-1st-test-australia-v-india "Australia v India, 1st Test - Upcoming")
+    
+    1st Test
+    
+* Australia v Pakistan
     
     [Pakistan vs Australia](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-australia-v-pakistan "Pakistan v Australia, 3rd T20I - AUS Won")
     
@@ -86,17 +92,25 @@ AllLive NowToday
     
     3rd Match
     
-* [Bhutan vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108970/btn-vs-qat-5th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Qatar, 5th Match - Preview")
+* [Bhutan vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108970/btn-vs-qat-5th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Qatar, 5th Match - Toss")
     
     5th Match
     
-* [Thailand vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108963/thai-vs-cbd-4th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Cambodia, 4th Match - Preview")
+* [Thailand vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108963/thai-vs-cbd-4th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Cambodia, 4th Match - Toss")
     
     4th Match
     
 * [Saudi Arabia vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/108973/sau-vs-uae-6th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Saudi Arabia v United Arab Emirates, 6th Match - Preview")
     
     6th Match
+    
+* [Bahrain vs Thailand](https://www.cricbuzz.com/live-cricket-scores/108984/bhr-vs-thai-8th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bahrain v Thailand, 8th Match - Upcoming")
+    
+    8th Match
+    
+* [United Arab Emirates vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108980/uae-vs-cbd-7th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "United Arab Emirates v Cambodia, 7th Match - Upcoming")
+    
+    7th Match
     
 * Indonesia v Myanmar, 2024
     
@@ -134,33 +148,23 @@ AllLive NowToday
     
 * Pakistan A v Sri Lanka A, 2024
     
-    [Sri Lanka A vs Pakistan A](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-pakistan-a-v-sri-lanka-a-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")
+    [Sri Lanka A vs Pakistan A  LIVE](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-pakistan-a-v-sri-lanka-a-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Live")
     
     2nd Unofficial Test
     
-* Sheffield Shield 2024-25
-    
-    [Western Australia vs Victoria](https://www.cricbuzz.com/live-cricket-scores/102900/wa-vs-vic-11th-match-sheffield-shield-2024-25 "Western Australia v Victoria, 11th Match - VIC Won")
-    
-    11th Match
-    
-* [Tasmania vs Queensland](https://www.cricbuzz.com/live-cricket-scores/102907/tas-vs-ql-12th-match-sheffield-shield-2024-25 "Tasmania v Queensland, 12th Match - Match drawn")
-    
-    12th Match
-    
 * Plunket Shield
     
-    [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Break")
-    
-    4th Match
-    
-* [Wellington vs Otago](https://www.cricbuzz.com/live-cricket-scores/107465/wel-vs-otg-6th-match-plunket-shield "Wellington v Otago, 6th Match - Lunch")
+    [Wellington vs Otago](https://www.cricbuzz.com/live-cricket-scores/107465/wel-vs-otg-6th-match-plunket-shield "Wellington v Otago, 6th Match - Stumps")
     
     6th Match
     
-* [Central Districts vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Lunch")
+* [Central Districts vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Stumps")
     
     5th Match
+    
+* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Stumps")
+    
+    4th Match
     
 * WOMEN
     
@@ -170,7 +174,7 @@ AllLive NowToday
     
     32nd Match
     
-* [Sydney Thunder Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/101408/sytw-vs-mlsw-33rd-match-wbbl-2024 "Sydney Thunder Women v Melbourne Stars Women, 33rd Match - Preview")
+* [Melbourne Stars Women vs Sydney Thunder Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/101408/mlsw-vs-sytw-33rd-match-wbbl-2024 "Melbourne Stars Women v Sydney Thunder Women, 33rd Match - Live")
     
     33rd Match
     
@@ -493,37 +497,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Sri Lanka take series 2-0 after Pallekele ODI called off due to rain](https://www.cricbuzz.com/cricket-news/132471/sri-lanka-take-series-2-0-after-pallekele-odi-called-off-due-to-rain "Sri Lanka take series 2-0 after Pallekele ODI called off due to rain")
 
-10h ago
+16h ago
 
   [](https://www.cricbuzz.com/cricket-news/132470/coetzee-handed-demerit-point-for-dissenting-wide-call-in-johannesburg-t20i "Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I")
 
 [Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I](https://www.cricbuzz.com/cricket-news/132470/coetzee-handed-demerit-point-for-dissenting-wide-call-in-johannesburg-t20i "Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I")
 
-12h ago
+18h ago
 
   [](https://www.cricbuzz.com/cricket-news/132469/top-order-schutt-deflate-scorchers "Top order, Schutt deflate Scorchers")
 
 [Top order, Schutt deflate Scorchers](https://www.cricbuzz.com/cricket-news/132469/top-order-schutt-deflate-scorchers "Top order, Schutt deflate Scorchers")
 
-13h ago
+19h ago
 
   [](https://www.cricbuzz.com/cricket-news/132468/india-playing-11-dhruv-jurel-devdutt-padikkal-virat-kohli-nitish-reddy-prasigh-krishna-harshit-rana-perth-test-australia-tour-border-gavaskar-trophy "India's top-seven takes shape amid Perth rain and intense nets")
 
 [India's top-seven takes shape amid Perth rain and intense nets](https://www.cricbuzz.com/cricket-news/132468/india-playing-11-dhruv-jurel-devdutt-padikkal-virat-kohli-nitish-reddy-prasigh-krishna-harshit-rana-perth-test-australia-tour-border-gavaskar-trophy "India's top-seven takes shape amid Perth rain and intense nets")
 
-13h ago
+19h ago
 
   [](https://www.cricbuzz.com/cricket-news/132467/temba-bavuma-back-to-lead-south-africas-bid-to-reach-wtc-final "Bavuma back to lead South Africa's bid to reach WTC final")
 
 [Bavuma back to lead South Africa's bid to reach WTC final](https://www.cricbuzz.com/cricket-news/132467/temba-bavuma-back-to-lead-south-africas-bid-to-reach-wtc-final "Bavuma back to lead South Africa's bid to reach WTC final")
 
-17h ago
+23h ago
 
   [](https://www.cricbuzz.com/cricket-news/132466/kasun-rajitha-lasith-embuldeniya-recalled-for-south-africa-tests "Rajitha, Embuldeniya recalled for South Africa Tests")
 
 [Rajitha, Embuldeniya recalled for South Africa Tests](https://www.cricbuzz.com/cricket-news/132466/kasun-rajitha-lasith-embuldeniya-recalled-for-south-africa-tests "Rajitha, Embuldeniya recalled for South Africa Tests")
 
-18h ago
+1d ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
