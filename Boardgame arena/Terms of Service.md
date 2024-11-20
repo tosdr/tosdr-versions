@@ -12,9 +12,9 @@
 
 {NB\_PLAYERS\_CONNECTED} online players: {IN\_GAME} playing • {WAITING} available
 
-![loading](https://x.boardgamearena.net/data/themereleases/241119-1442/img/logo/waiting.gif)
+![loading](https://x.boardgamearena.net/data/themereleases/241120-1145/img/logo/waiting.gif)
 
-If you see this message, it means that your browser failed to load [this file](https://x.boardgamearena.net/data/themereleases/241119-1442/css/mainsite.css).
+If you see this message, it means that your browser failed to load [this file](https://x.boardgamearena.net/data/themereleases/241120-1145/css/mainsite.css).
 
 You should try the following : check your connection, disable ad-blocker, clear your browser cache, try in private mode, try from another browser/computer/connection.
 
@@ -2837,7 +2837,7 @@ Get the best from Board Game Arena for only $5 / month.](https://boardgamearena.
 
 Top
 
-[![BGA](https://x.boardgamearena.net/data/themereleases/241119-1442/img/logo/logo_white.png)](https://boardgamearena.com/welcome)[](https://boardgamearena.com/welcome)
+[![BGA](https://x.boardgamearena.net/data/themereleases/241120-1145/img/logo/logo_white.png)](https://boardgamearena.com/welcome)[](https://boardgamearena.com/welcome)
 
 ### Help
 
@@ -2861,7 +2861,7 @@ Top
 * [Notify your browser](https://boardgamearena.com/preferences?section=notifications)
 * [Subscribe to our newsletter](https://boardgamearena.com/preferences?section=email)
 
-Board Game Arena 482 [Board Game Arena](https://boardgamearena.com/) • Release 241119-1442-ST • [Legal information](https://boardgamearena.com/legal?section=legal) • [Terms of Use](https://boardgamearena.com/legal?section=tosv) • [Terms of Services](https://boardgamearena.com/legal?section=tos) • [Privacy](https://boardgamearena.com/legal?section=ppac) • [Cookies](https://boardgamearena.com/legal?section=cook) [π](#)
+Board Game Arena 845 [Board Game Arena](https://boardgamearena.com/) • Release 241120-1145-ST • [Legal information](https://boardgamearena.com/legal?section=legal) • [Terms of Use](https://boardgamearena.com/legal?section=tosv) • [Terms of Services](https://boardgamearena.com/legal?section=tos) • [Privacy](https://boardgamearena.com/legal?section=ppac) • [Cookies](https://boardgamearena.com/legal?section=cook) [π](#)
 
 1
 
