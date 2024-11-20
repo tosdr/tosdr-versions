@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ ...the idea is to try to give all of the information to help others to judge the value of your contribution; not just the information that leads to judgment in one particular direction or another.”
+“ That brain of mine is something more than merely mortal; as time will show”
 
-[Richard Feynman](http://www.lhup.edu/~DSIMANEK/cargocul.htm)
+[Ada Lovelace](https://www.newscientist.com/article/mg21628860-300-ada-lovelace-my-brain-is-more-than-merely-mortal/)
 
 [](https://www.adafruit.com/about)
 
