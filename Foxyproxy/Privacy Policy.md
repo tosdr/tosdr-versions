@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-YOU GUYS ROCK!
+Thanks again for the excellent customer support. I have been a customer for several years now and continue to be impressed.
 
-Rob McClure
+Patrick O'Toole
