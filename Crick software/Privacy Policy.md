@@ -1,7 +1,7 @@
 [Book a subscriber support meeting](https://cricksoft.com/training/customer-care-meetings/)[Book a free demo](https://cricksoft.com/book-a-free-consultation/)
 
-*  [![](https://cricksoft.com/wp-content/uploads/2024/02/uk@2x.svg) UK](https://cricksoft.com/)
-    *  [![](https://cricksoft.com/wp-content/uploads/2024/01/USA@2x.svg) US](https://us.cricksoft.com/)
+*  ![](https://cricksoft.com/wp-content/uploads/2024/02/uk@2x.svg) UK
+    *  [![](https://cricksoft.com/wp-content/uploads/2024/01/USA@2x.svg) North America](https://us.cricksoft.com/)
 
 [**Crick**Software](https://cricksoft.com/)
 
