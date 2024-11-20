@@ -238,10 +238,10 @@ in and to your competition entry and otherwise arising in connection with your e
 
 19.3        These terms and conditions shall be governed by English law, and the parties submit to the non-exclusive jurisdiction of the courts of England and Wales.
 
-##### Download First News now on
+##### Download the First News app now!
 
-* [![Download on the App Store](/wp-content/themes/firstnews_timber/assets/img/apple-logo.png)](https://apps.apple.com/gb/app/first-news/id1544460681)
-* [![Android app on Google Play](/wp-content/themes/firstnews_timber/assets/img/android-logo.png)](https://play.google.com/store/apps/details?id=uk.co.firstnews.app)
+* [![Download on the App Store](/wp-content/themes/firstnews_timber/assets/img/svg/Apple-App-Store-badge.svg)](https://apps.apple.com/gb/app/first-news/id1544460681)
+* [![Get it on Google Play](/wp-content/themes/firstnews_timber/assets/img/svg/Google-Play-Store-badge.svg)](https://play.google.com/store/apps/details?id=uk.co.firstnews.app)
 
 * [Terms](https://www.firstnews.co.uk/terms) |
 * [Privacy](https://live.firstnews.co.uk/privacy)
