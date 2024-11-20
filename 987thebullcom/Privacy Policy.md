@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:41pm |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>4:36pm |
-| GoneDierks Bentley<br><br>4:33pm |
-| Wind Up Missing YouTucker Wetmore<br><br>4:31pm |
-| Beer In MexicoKenny Chesney<br><br>4:27pm |
+| Are You Gonna Kiss Me Or NotThompson Square<br><br>9:16pm |
+| Holy SmokesBailey Zimmerman<br><br>9:12pm |
+| World On FireNate Smith<br><br>9:09pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>9:06pm |
+| Pink SkiesZach Bryan<br><br>8:55pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,10 +497,6 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
@@ -512,6 +508,10 @@ Top 40 • Pacific NW
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
