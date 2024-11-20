@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [How Cells Habituate](https://www.sciencedaily.com/releases/2024/11/241119132429.htm)
 * [Flying Reptiles: How Pterosaurs Become Giants](https://www.sciencedaily.com/releases/2024/11/241118125218.htm)
 * [Effortless Robot Movements](https://www.sciencedaily.com/releases/2024/11/241118125806.htm)
 * [Mouse Created from Gene Older Than Animal Life](https://www.sciencedaily.com/releases/2024/11/241118125716.htm)
@@ -238,7 +239,6 @@ this hour
 * [Dieting: Cause of the Yo-Yo Effect](https://www.sciencedaily.com/releases/2024/11/241118125210.htm)
 * [Global Warming and Net Zero](https://www.sciencedaily.com/releases/2024/11/241118125147.htm)
 * [Enigma of the Crab Nebula's 'Zebra' Pattern](https://www.sciencedaily.com/releases/2024/11/241118125046.htm)
-* [Big Benefits to Online Gaming](https://www.sciencedaily.com/releases/2024/11/241118125037.htm)
 
 Trending Topics
 ---------------
@@ -251,9 +251,9 @@ this week
 
 [Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
-[Stroke](https://www.sciencedaily.com/news/mind_brain/stroke/)
-
 [Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
+
+[Stroke](https://www.sciencedaily.com/news/mind_brain/stroke/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,7 +261,7 @@ this week
 
 [Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
-[Batteries](https://www.sciencedaily.com/news/matter_energy/batteries/)
+[Electronics](https://www.sciencedaily.com/news/matter_energy/electronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -269,7 +269,7 @@ this week
 
 [Food](https://www.sciencedaily.com/news/plants_animals/food/)
 
-[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
   
 
