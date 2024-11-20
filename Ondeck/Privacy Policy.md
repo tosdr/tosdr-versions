@@ -469,6 +469,7 @@ Monday - Friday 8 a.m. - 6 p.m. CST
     * [FAQs](https://www.ondeck.com/faqs)
     * [Contact Us](https://www.ondeck.com/contact-us)
     * [Restricted Industries](https://www.ondeck.com/restricted-industries)
+    * [Sitemap](https://www.ondeck.com/sitemap)
 
 * About Us
     * [Who We Are](https://www.ondeck.com/company)
