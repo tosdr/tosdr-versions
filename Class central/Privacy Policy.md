@@ -414,9 +414,9 @@ Most common
 
 1. data science
     
-2. finance
+2. machine learning
     
-3. trading
+3. cyber security
     
 
 Popular subjects
