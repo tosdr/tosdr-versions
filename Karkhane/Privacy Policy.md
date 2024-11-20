@@ -34,9 +34,6 @@ Privacy Policy
 * [![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/app/uploads/2021/04/xodkosi-o-estesmar-95x65.jpg)](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)[خودکشی و استثمار: بر دوراهیِ مقاومت و تسلیم](https://karkhane.org/2592/%d8%ae%d9%88%d8%af%da%a9%d8%b4%db%8c-%d9%88-%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1/)
-* [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
 * [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
@@ -49,12 +46,15 @@ Privacy Policy
 * [![چه باید بخوریم؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![چه باید بخوریم؟](https://karkhane.org/app/uploads/2024/04/Fat-Capitalist-95x65.jpg)](https://karkhane.org/5433/what-to-eat/)[چه باید بخوریم؟](https://karkhane.org/5433/what-to-eat/)
-* [![پهلوی کدام جواهرات را به یغما برد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![پهلوی کدام جواهرات را به یغما برد؟](https://karkhane.org/app/uploads/2023/02/pahlavi-che-javaherati-be-yaqma-bord-95x65.jpg)](https://karkhane.org/4805/pahlavi-plundered-jewelry/)[پهلوی کدام جواهرات را به یغما برد؟](https://karkhane.org/4805/pahlavi-plundered-jewelry/)
+    ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
+* [![رَنجِ مُسَکِّن؛ نگاهی به مسئله‌ی اعتیاد در جامعه‌ی سرمایه‌داری](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![رَنجِ مُسَکِّن؛ نگاهی به مسئله‌ی اعتیاد در جامعه‌ی سرمایه‌داری](https://karkhane.org/app/uploads/2024/01/ranj-e-mosakken-95x65.jpg)](https://karkhane.org/5307/the-problem-of-addiction-in-capitalist-society/)[رَنجِ مُسَکِّن؛ نگاهی به مسئله‌ی اعتیاد در جامعه‌ی سرمایه‌داری](https://karkhane.org/5307/the-problem-of-addiction-in-capitalist-society/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/10/S1-95x65.jpg)](https://karkhane.org/5938/a_report_tabas/)[گزارشی از طبس؛ چند روز پس از حادثه‌ی معدنجو](https://karkhane.org/5938/a_report_tabas/)
+    ![](https://karkhane.org/app/uploads/2024/11/p1-95x65.jpg)](https://karkhane.org/6098/a_critic_of_workerbee/)[نقدی بر فیلم “زنبور کارگر”](https://karkhane.org/6098/a_critic_of_workerbee/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
