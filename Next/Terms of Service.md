@@ -1,6 +1,6 @@
 5.39.5
 
-1732091533302
+1732113801122
 
                                              
 
@@ -12,9 +12,9 @@ en
 
 3.16.0
 
-1732092568015
+1732113586637
 
-     Next Terms & Conditions | T&C's | Next Official Site                                  
+ Next Terms & Conditions | T&C's | Next Official Site                                  
 
                   [Click here to use our accessible website](https://accessible.next.co.uk/)
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1732091575846
+1732113068965
 
 You need to enable JavaScript to run this app.
 
@@ -544,6 +544,64 @@ The use of a nextpay card (formally known as Directory Card) or the nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Next Loves to Listen Prize Draw
+
+1. **Introduction**  
+    Welcome to our quarterly Prize Draw ("Prize Draw"). Participation in this Prize Draw is available to those who have completed our customer satisfaction survey.
+2. **Eligibility**  
+    The Prize draw is open to legal residents of the United Kingdom and the Republic of Ireland aged 18 and over.  
+    You are not eligible to enter the Prize Draw if:  
+    \- During the Prize Draw Period you are an employee of Next; or  
+    \- During the Prize Draw Period you are (or you live with) or your immediate family member (parent, child, sibling and spouse of any of the foregoing) is an employee or representative of InMoment or any of their subsidiaries, licensees or affiliates.
+3. **Prize Draw Period**  
+    A one off entry period for the Prize Draw will open at 00:00:01 (GMT) on 23 October 2024 and close at 23:59:59 (GMT) on 31 October 2024.  
+    Following which, the Prize Draw is run every 3 months. The entries for each Prize Draw will open at 00:00:01 (GMT) on the first day of the first month and close at 23:59:59 (GMT) on the last day of the third month (the Prize Draw Period).  
+    Entries for the first 3-month period will be open from 1 November 2024 at 00:00:00:01 (GMT).  
+    All entries must be received before the closing date to be eligible for the Prize Draw.
+4. **How to Enter**  
+    Entry is by survey completion - no purchase is necessary.  
+    Entry is dependent on full completion and submission of your contact details within the Prize Draw Period.  
+    Entrants must opt in to enter the Prize Draw by entering their email address at the correct screen.  
+    The entrant must comply with any and all rules and regulations as outlined on the survey invitation (e.g. time restrictions to complete the survey) and opt in to enter the Prize Draw.  
+    Each survey completed shall receive one (1) entry to the Prize Draw. Each person, unique e­ mail address, phone number is restricted to a maximum of one (1) survey completion or mail-in entry into the Prize Draw in each Prize Draw Period.
+5. **The Prize**  
+    There is one Prize of £200, or the equivalent in € if in the Republic of Ireland, to be won (the Prize) in each Prize Draw Period.  
+    The Prize will be awarded to the Winner (“Winner”) paid in the form of a “TheirPerfectGift” gift card (either electronic or physical card) within 6 weeks of confirmation of acceptance of the Prize.  
+    The Prize is not transferable and must be accepted as awarded. All taxes are the responsibility of the Winner.  
+    Next reserves the right to substitute the Prize with a prize of equal or greater value where necessary to do so.
+6. **The Draw**  
+    There will be one Winner who will be chosen by random draw from the valid entries within ten business days of the end of the Prize Draw Period. The draw will be supervised by an independent person.  
+    The Winner will be contacted by email within ten business days of the draw and must confirm their full name and address to accept the Prize.  
+    By accepting the Prize, the selected entrant gives InMoment permission to publish their details on written request, in the format; first initial, surname, county (e.g. J Smith, Hertfordshire) up to 6 months after accepting.  
+    If the Winner does not comply with the Prize Draw rules or does not respond within 14 days of being contacted, that Winner will be disqualified, and an alternate winner will be selected.
+7. **Liability**  
+    Neither InMoment nor Next is responsible for late, lost, misdirected, mechanically reproduced, misdelivered, incomplete, illegible, or unintelligible entries, messages or post; unavailable network connections; failed, incomplete, garbled, or delayed computer transmission; on line failures; hardware software or other technical malfunctions or disturbances; or any other communications or technical failures, faults or circumstances affecting, disrupting or corrupting the Prize Draw in any manner including without limitation, receipt of entries, entrants' ability to participate in the Prize Draw, winner notification, or winner response to notification.  
+    Next reserves the right to hold void, suspend or cancel the Prize Draw at any time where it is reasonable to do so. Next reserves the right (at its sole discretion) to disqualify any individual it finds to be attempting to undermine the entry process, the website, and/or the legitimate operation of the Prize Draw; or otherwise fails to comply with these Prize Draw rules.  
+    Neither InMoment nor Next is responsible for any damage to an entrant's computer or electronic equipment occasioned by participation in the Prize Draw or downloading of any information necessary to participate in the Prize Draw.  
+    By entering, entrants accept these terms and conditions and all decisions of Next will be final and binding on all entrants and no correspondence will be entered into about it.
+8. **General**  
+    This Prize Draw is managed by InMoment Limited (“InMoment”), who acts as the Data Processor, on behalf of NEXT HOLDINGS LIMITED (“Next”), the Data Controller. The promoter of this Prize Draw is Next Retail Limited, registered office Desford Road, Enderby, Leicester, LE19 4AT Registered No. 04521150.  
+    For any queries or comments about the Prize Draw or these terms, please contact customer\_team@next.co.uk.  
+    These terms and conditions shall be governed by the laws of England and Wales and any disputes will be subject to the exclusive jurisdiction of the courts of England and Wales.
+
+### 10% off Selected Lingerie 2024
+
+1. Offer available to selected customers, criteria predefined by Next Retail Limited
+2. Your offer will be communicated to you and added to your account automatically at our discretion.
+3. Offer valid across Selected lingerie categories: Bras, Knickers, Bodies, Shapewear Solutions and Bra Accessories.
+4. This offer will be available between 00:01 on 20/11/2024 until 23:59 on 20/12/2024.
+5. You must be logged into your customer account. The offer can only be used by the account holder.
+6. Where there are multiple offers available on items ordered, the offer with the biggest cash saving will be applied.
+7. Promotion discount applied will be apportioned across all qualifying items (identified above).
+8. The offer can only be used once per customer.
+9. The offer is for online purchases only.
+10. The offer cannot be used on staff purchases, delivery charges, sale items or gift vouchers.
+11. The discount cannot be exchanged for cash and no refund or change will be given.
+12. Usual delivery times, methods and charges and returns policy apply.
+13. We reserve the right to amend these terms and conditions and/or discontinue the promotion at any time without liability.
+14. The promoter is Next Retail Limited , Desford Road, Enderby, Leicester, LE19 4AT.
+15. This promotion is governed by English law and disputes are subject to the exclusive jurisdiction of the English courts.
 
 ### Neom Promotion
 
@@ -2966,7 +3024,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1732090798735
+1732114618610
 
 ### Our Social Networks
 
