@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Erotic TV Fan Art SWAT](https://www.somethingawful.com/fashion-swat/erotic-tv-fan/1/)
-* [The Top 17 Worst FPS Games](https://www.somethingawful.com/most-awful/worst-fps-games/1/)
-* [IMDb Boards : The 40 Year Old Virgin](https://www.somethingawful.com/weekend-web/imdb-40-virgin/1/)
-* [A Safety Message From Your USPS Letter Carrier Part 2](https://www.somethingawful.com/comedy-goldmine/safety-message-from-2/1/)
-* [Bookworld with Brendle: George R.R. Martin's "A Guild of Men"](https://www.somethingawful.com/news/george-rrmartin-guild/1/)
+* [A Million Ways to Die in the West; Maleficent; Chef](https://www.somethingawful.com/current-movie-reviews/million-ways-maleficent/1/)
+* [The Nut Job; Jack Ryan: Shadow Recruit; August: Osage County](https://www.somethingawful.com/current-movie-reviews/nut-job/1/)
+* [Children's Books](https://www.somethingawful.com/photoshop-phriday/childrens-books/1/)
+* [Oldboy; Homefront; Frozen; Philomena](https://www.somethingawful.com/current-movie-reviews/oldboy-homefront-frozen/1/)
+* [What's Cookin'?](https://www.somethingawful.com/email-pranks/email-spam-whats/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [all i wanna do is have sum fun](http://forums.somethingawful.com/showthread.php?threadid=4075643 "all i wanna do is have sum fun")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Do you throw out cheese that has mold?](http://forums.somethingawful.com/showthread.php?threadid=4075652 "Do you throw out cheese that has mold?")
 * ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [What poor financial decisions do you regularly make?](http://forums.somethingawful.com/showthread.php?threadid=4075673 "What poor financial decisions do you regularly make?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Do you throw out cheese that has mold?](http://forums.somethingawful.com/showthread.php?threadid=4075652 "Do you throw out cheese that has mold?")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [all i wanna do is have sum fun](http://forums.somethingawful.com/showthread.php?threadid=4075643 "all i wanna do is have sum fun")
 
 ### Random Articles
 
-* [The Tower](https://www.somethingawful.com/movie-reviews/the-tower-reiser/)
-* [You Might Be a Redneck Jokes From "The Road"](https://www.somethingawful.com/news/cormac-foxworthy-road/)
-* [ET Corn Gods](https://www.somethingawful.com/awful-links/awful-link-1420/)
-* [Wacky Behind The Scenes Chat Logs](https://www.somethingawful.com/news/wacky-behind-scenes/)
-* [Elysium; We're The Millers; Lovelace](https://www.somethingawful.com/current-movie-reviews/elysium-millers-lovelace/1/)
+* [Society of Amateur Time Travelers Updates for 15 August](https://www.somethingawful.com/news/time-travel-august/)
+* [Ars Amatoria](https://www.somethingawful.com/awful-links/awful-link-1166/)
+* [Pandas Will Make World Of Warcraft Dumb? Really?](https://www.somethingawful.com/video-game-article/world-warcraft-pandaren/)
+* [The Border of Tong](https://www.somethingawful.com/movie-reviews/border-tong-heavener/)
+* [January 4, 2011](https://www.somethingawful.com/forum-fridays/ff01-04-11/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
