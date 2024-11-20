@@ -298,12 +298,12 @@ Local Sunbed premises fined for offering illegal sunbed sessions to children
 [Local sunbed premises fined for offering illegal sunbed sessions to children](https://www.derrynow.com/news/local-news/1659156/local-sunbed-premises-fined-for-offering-illegal-sunbed-sessions-to-children.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1658747/derry-death-notices-tuesday-november-19-2024.html)
+[![IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1658457/in-pictures-st-mary-s-faughanvale-gac-annual-prizegiving.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Derry Death Notices - Tuesday, November 19, 2024](https://www.derrynow.com/news/deaths/1658747/derry-death-notices-tuesday-november-19-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1658457/in-pictures-st-mary-s-faughanvale-gac-annual-prizegiving.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Three arrested and drugs seized in Derry searches](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three arrested and drugs seized in Derry searches")](https://www.derrynow.com/news/local-news/1659836/three-arrested-and-drugs-seized-in-derry-searches.html)
 
@@ -311,22 +311,6 @@ Local Sunbed premises fined for offering illegal sunbed sessions to children
 
 [Three arrested and drugs seized in Derry searches](https://www.derrynow.com/news/local-news/1659836/three-arrested-and-drugs-seized-in-derry-searches.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman charged with driving-related offences due to appear before Derry Magistrates Court next month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged with driving-related offences due to appear before Derry Magistrates Court next month")](https://www.derrynow.com/news/local-news/1659351/woman-charged-with-driving-related-offences-due-to-appear-before-derry-magistrates-court-next-month.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman charged with driving-related offences due to appear before Derry Magistrates Court next month](https://www.derrynow.com/news/local-news/1659351/woman-charged-with-driving-related-offences-due-to-appear-before-derry-magistrates-court-next-month.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall")](https://www.derrynow.com/story-telling/pictures---videos/1657940/in-pictures-revive-pre-loved-pop-up-show-in-derry-s-st-columb-s-hall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall](https://www.derrynow.com/story-telling/pictures---videos/1657940/in-pictures-revive-pre-loved-pop-up-show-in-derry-s-st-columb-s-hall.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Police conducting enquiries in Limavady area following report of man acting suspiciously](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police conducting enquiries in Limavady area following report of man acting suspiciously")](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
 
@@ -336,6 +320,22 @@ The PSNI are conducting enquiries in the Limavady area following the report.
 
 [Police conducting enquiries in Limavady area following report of man acting suspiciously](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall")](https://www.derrynow.com/story-telling/pictures---videos/1657940/in-pictures-revive-pre-loved-pop-up-show-in-derry-s-st-columb-s-hall.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall](https://www.derrynow.com/story-telling/pictures---videos/1657940/in-pictures-revive-pre-loved-pop-up-show-in-derry-s-st-columb-s-hall.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman charged with driving-related offences due to appear before Derry Magistrates Court next month](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged with driving-related offences due to appear before Derry Magistrates Court next month")](https://www.derrynow.com/news/local-news/1659351/woman-charged-with-driving-related-offences-due-to-appear-before-derry-magistrates-court-next-month.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman charged with driving-related offences due to appear before Derry Magistrates Court next month](https://www.derrynow.com/news/local-news/1659351/woman-charged-with-driving-related-offences-due-to-appear-before-derry-magistrates-court-next-month.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1659772/derry-death-notices-wednesday-november-20-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, November 20, 2024](https://www.derrynow.com/news/deaths/1659772/derry-death-notices-wednesday-november-20-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Music awards nominee Lyneve hoping to 'put Gortnnaghey on the map'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Music awards nominee Lyneve hoping to 'put Gortnnaghey on the map'")](https://www.derrynow.com/news/home/1659617/music-awards-nominee-lyneve-hoping-to-put-gortnaghey-on-the-map.html)
 
 Lyneve Newland has been nominated for six awards in the upcoming Red Carpet Award Show.
@@ -524,7 +531,7 @@ Lyneve Newland has been nominated for six awards in the upcoming Red Carpet Awar
 [Music awards nominee Lyneve hoping to 'put Gortnaghey on the map'](https://www.derrynow.com/news/home/1659617/music-awards-nominee-lyneve-hoping-to-put-gortnaghey-on-the-map.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police conducting enquiries in Limavady area following report of man acting suspiciously](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police conducting enquiries in Limavady area following report of man acting suspiciously")](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
+[![Police conducting enquiries in Limavady area following report of man acting suspiciously](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police conducting enquiries in Limavady area following report of man acting suspiciously")](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
 
 The PSNI are conducting enquiries in the Limavady area following the report.
 
@@ -559,13 +566,6 @@ Castle Gate
 
 [Derry's Castle Gate to close for resurfacing works](https://www.derrynow.com/news/local-news/1659568/derry-s-castle-gate-to-close-for-resurfacing-works.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Derry school raises fund for Comic Relief](https://www.derrynow.com/resizer/165/93/true/2024_11_19/Untitled_design_%282%29-1732030364597.png--.png?1732030364762 "PICTURES: Derry school raises fund for Comic Relief")](https://www.derrynow.com/news/home/1659599/pictures-county-derry-school-raises-funds-for-children-in-need.html)
-
-[Home](https://www.derrynow.com/)
-
-[PICTURES: Derry school raises fund for Comic Relief](https://www.derrynow.com/news/home/1659599/pictures-county-derry-school-raises-funds-for-children-in-need.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
