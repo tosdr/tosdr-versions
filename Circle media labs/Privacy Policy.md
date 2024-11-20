@@ -18,7 +18,7 @@
 
 [Start Trial](https://buy.aura.com/parental-controls-2-rdj-circle?utm_source=circle&utm_medium=referral&utm_campaign=circle-homepage&utm_id=circle-homepage&utm_gateway=parental-controls)
 
-[Try Aura Parental Controls - Now 60% Off!
+[Holiday Sale - Now 60% Off! Get the Deal
 
 Protect Unlimited Kids and Devices.](https://buy.aura.com/parental-controls-4-rdj?utm_source=circle&utm_medium=referral&utm_campaign=circle-homepage&utm_id=circle-homepage&utm_gateway=parental-controls)
 
