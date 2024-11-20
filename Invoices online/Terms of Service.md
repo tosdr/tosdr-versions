@@ -196,59 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
+> Wish I started ages ago!
 > ------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> I have upgraded to the Gold account in order to support you guys!
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Shaun Gartshore
+Terri Winfield
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=58978577)  
-Entidee Enterprise PTY (ltd)
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=89827208)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=203017000)  
-Safe-Train Consulting (PTY) Ltd
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=150165510)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=197204476)  
-BD Maintenance
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=142508594)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=114519345)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=126064708)  
+Website Café (PTY) LTD
 
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=173292978)  
-Super Sound Man (PTY) Ltd
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=28410042)  
+MONSTER SECURITY SERVICES (NORTHAM)
 
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=110785768)  
-UniTech Solutions Pty Ltd
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=144499121)  
+Peter Salvage Pty Ltd
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=100064088)  
-Tantra Sound and Lightz
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=168943284)  
+Creative Characters
 
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=187528985)  
-Atalie Scented Candles Pty Ltd
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=165224463)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=133528661)  
-Sophia's Roses
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=119523565)  
+Import Maaw
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=153783443)  
-Electro-Heat
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=132249616)  
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=209493736)  
 West Coast Horse Trails
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=54897392)  
-Norton Medical & Consult - Namibia
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=168995301)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=149044287)  
-APTV Telecoms CC
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=188009400)  
+Dr V Naik Consult
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=56840443)  
-AquariumSmiths
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=13601813)  
+Enhle Oarabile Kea
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=6407d0258be3f8211ec12893f700d8216d30b86e2daa512657d17a06d8769880&c=205345381)  
-MONSTER CONNECT (PTY) LTD
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=149825074)  
+Lemba Truck Stop
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=140235891)  
+Waterfinatics Swim School
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
