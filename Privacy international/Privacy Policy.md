@@ -321,6 +321,7 @@ How We Fight
 * [Our Global Reach](https://privacyinternational.org/movement "Our Global Reach")
 * [Advocacy and Litigation](https://privacyinternational.org/advocacy)
 * [Research](https://privacyinternational.org/reveal)
+* [Legal Action](https://privacyinternational.org/legal-action)
 * [Our Demands](https://privacyinternational.org/demand)
 
 About
