@@ -269,7 +269,7 @@ article 6 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-d
 
 ### Station Science Top News: Nov. 15, 2024
 
-article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![iss070e113015 (March 10, 2024) -- NASA astronaut and Expedition 70 Flight Engineer Jeanette Epps is pictured floating in microgravity aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/03/53589381459-01243dd5d3-o-1.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![iss070e113015 (March 10, 2024) -- NASA astronaut and Expedition 70 Flight Engineer Jeanette Epps is pictured floating in microgravity aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/03/53589381459-01243dd5d3-o-1.jpg?w=1024)
 
 5 min read
 
@@ -313,7 +313,7 @@ article 7 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-internatio
 
 ### What Is the Solar Wind?
 
-article 8 hours ago](https://science.nasa.gov/sun/what-is-the-solar-wind/)[![Gediz Vallis channel](https://www.nasa.gov/wp-content/uploads/2024/11/e1-pia26471-curiosity-3000pixels.jpg?w=1024)
+article 14 hours ago](https://science.nasa.gov/sun/what-is-the-solar-wind/)[![Gediz Vallis channel](https://www.nasa.gov/wp-content/uploads/2024/11/e1-pia26471-curiosity-3000pixels.jpg?w=1024)
 
 5 min read
 
@@ -357,19 +357,19 @@ article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a
 
 ### What Is the Solar Wind?
 
-article 8 hours ago](https://science.nasa.gov/sun/what-is-the-solar-wind/)[![Close-up of a floating black cube-shaped device labeled “Kirara” inside a laboratory filled with cables, equipment, and scientific instruments aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/11/iss068e075597.jpg?w=1024)
+article 14 hours ago](https://science.nasa.gov/sun/what-is-the-solar-wind/)[![Close-up of a floating black cube-shaped device labeled “Kirara” inside a laboratory filled with cables, equipment, and scientific instruments aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/11/iss068e075597.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Nov. 15, 2024
 
-article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/09/safires_epc_20240903_th.jpg)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/09/safires_epc_20240903_th.jpg)
 
 2 min read
 
 ### Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment
 
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-69-draft-a-59-new-or-modified-globe-protocols-for-community-comment/)
+article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-69-draft-a-59-new-or-modified-globe-protocols-for-community-comment/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### NASA Engineer Carries Indigenous Roots into New Aviation Era
 
-article 17 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
+article 23 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
 
 2 min read
 
@@ -391,7 +391,7 @@ article 2 days ago](https://www.nasa.gov/neat/)[![A blue circle with white type 
 
 ### Dynamic Spin Rig Publications
 
-article 4 days ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
+article 5 days ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 4 days ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
 
 ### Super Insulation Requires Super Materials 
 
-article 12 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/kjell-lindgren-mission-all-systems-go-patient-photo.jpg?w=1024)
+article 18 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/kjell-lindgren-mission-all-systems-go-patient-photo.jpg?w=1024)
 
 4 min read
 
@@ -413,7 +413,7 @@ article 2 days ago](https://www.nasa.gov/directorates/somd/space-communications-
 
 ### NASA Goddard Lidar Team Receives Center Innovation Award for Advancements
 
-article 4 days ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/)
+article 5 days ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/)
 
 ### Featured
 
@@ -423,13 +423,13 @@ article 4 days ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-li
 
 ### Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge 
 
-article 12 hours ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
+article 18 hours ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
 
 5 min read
 
 ### NASA Engineer Carries Indigenous Roots into New Aviation Era
 
-article 17 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![Two images - Left, Diana Acosta holding her daughter in front of the cab of NASA's Vertical Motion Simulator. Right, Diana Acosta with her daughter inside the control deck of the Vertical Motion Simulator.](https://www.nasa.gov/wp-content/uploads/2024/02/acosta-daughter-vms-igted.png?w=1024)
+article 23 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![Two images - Left, Diana Acosta holding her daughter in front of the cab of NASA's Vertical Motion Simulator. Right, Diana Acosta with her daughter inside the control deck of the Vertical Motion Simulator.](https://www.nasa.gov/wp-content/uploads/2024/02/acosta-daughter-vms-igted.png?w=1024)
 
 5 min read
 
@@ -445,7 +445,7 @@ article 2 weeks ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood
 
 ### Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge 
 
-article 12 hours ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
+article 18 hours ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
 
 2 min read
 
