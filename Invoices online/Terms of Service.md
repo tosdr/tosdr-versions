@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Terri Winfield
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=89827208)  
-Abandoned Vehicle and Truck Solutions
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=26612067)  
+Xpress Designs
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=150165510)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=142508594)  
-Shades of Summer Investments 184cc t/a Junker Construction
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=126064708)  
-Website Café (PTY) LTD
-
-![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=28410042)  
-MONSTER SECURITY SERVICES (NORTHAM)
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=144499121)  
-Peter Salvage Pty Ltd
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=168943284)  
-Creative Characters
-
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=165224463)  
-TRACKFORCE (Pty) Ltd
-
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=119523565)  
-Import Maaw
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=209493736)  
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=57883267)  
 West Coast Horse Trails
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=168995301)  
-Camp 4 Africa (Pty) Ltd
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=185062330)  
+Repairs In Motion
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=188009400)  
-Dr V Naik Consult
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=127943291)  
+Vplay Grafix
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=13601813)  
-Enhle Oarabile Kea
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=123662885)  
+Henry's Home Renovations
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=149825074)  
-Lemba Truck Stop
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=62340147)  
+One2b
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=e2ab271ea71e6ba08271b9a5d31d868c17433cbb2cb6d85931d27bcad4542b08&c=140235891)  
-Waterfinatics Swim School
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=53343809)  
+Fox Alarms & Security
+
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=14040449)  
+Echo Recording Studio cc
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=121915561)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=118608701)  
+NEW BEGINNINGS DESIGNS
+
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=148172215)  
+MONSTER SECURITY GUARDING
+
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=31024895)  
+VS Auto Spares and Repairs (Pty) LTD
+
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=131040897)  
+SA Security Brokerz (Pty) Ltd
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=184328245)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=2885654f9fce4c090f4d729c654306610c6201100bf44c0558c7b01c92095915&c=174224906)  
+Desygn
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
