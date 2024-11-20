@@ -9,7 +9,7 @@
 
 [](http://seecult.org/ "scone Home")
 
-[![](http://seecult.org/sites/default/files/baner_gore/portal-seecult.png)](http://www.seecult.org/)
+[![](http://seecult.org/sites/default/files/baner_gore/media-desk-2024.gif)](https://www.kreativnaevropa.rs/konkursi.html)
 
 [](#)
 
@@ -329,26 +329,24 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
-    [10:00 Nika Erjavec, LJ](javascript:void(0);)
+    [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
     
     **20.09.2024 | 10:00**
     
-    Muzej sodobne umetnosti Metelkova, +MSUM, Maistrova 3, Ljubljana
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
     
-    **NIKA ERJAVEC** (1994): **(NE)STVARNOST, 2024** - intermedijska instalacija (19.9.-25.11.2024.)
+    **[SLIKARSKA ZBIRKA MUZEJA ZA UMETNOST IN OBRT, ZAGREB](https://www.ng-slo.si/si/razstave-in-projekti/razstava/slikarska-zbirka-muzeja-za-umetnost-in-obrt-zagreb?id=5859)** - razstava (19.9.2024.-9.2.2025.)
     
-    Kustosinja razstave: Ana Mizerit
-    
-    [https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarno...](https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarnost-2024)
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/sas-stojanovic-i-ana-vilenica/ilustracije/pobuna-histericnih-devojcica.jpg?itok=kLsVa_Af)](http://seecult.org/galerija/galerija-umetnika/sasa-stojanovic-i-ana-vilenica/ilustracije)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-razno/zampa-hamburg.jpg?itok=z4g1xpHx)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-razno)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/nekako-drugacije-msuv-6-28907/somewhat-different-60.jpg?itok=_qeIC5T0)](http://seecult.org/galerija/foto-galerija/foto-arhiva/nekako-drugacije-msuv-6-28907)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/juha.jpg?itok=vjWnj6tH)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -364,16 +362,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Izmenjena vodom](http://seecult.org/vest/izmenjena-vodom)
 * [Specijalne nagrade FAF-a povodom 30 godina](http://seecult.org/vest/specijalne-nagrade-faf-povodom-30-godina)
 * [Radovan Vujović dobitnik nagrade Raša Plaović](http://seecult.org/vest/radovan-vujovic-dobitnik-nagrade-rasa-plaovic)
 * [ICOMOS Srbija: Poništiti odluku o Generalštabu](http://seecult.org/vest/icomos-srbija-ponistiti-odluku-o-generalstabu)
+* [Kulturno nasleđe u opasnosti](http://seecult.org/vest/kulturno-naslede-u-opasnosti)
 * [Aktivizam i umetnost - istorijska iskustva i participativne prakse](http://seecult.org/vest/aktivizam-i-umetnost-istorijska-iskustva-i-participativne-prakse)
 * [Izvanredan doprinos informatici](http://seecult.org/vest/izvanredan-doprinos-informatici)
 * [Irena Paunović u Haosu](http://seecult.org/vest/irena-paunovic-u-haosu)
 * [Volja sinovljeva - vestern, samurajski i guslarski film](http://seecult.org/vest/volja-sinovljeva-vestern-samurajski-i-guslarski-film)
 * [Preminuo Dejan Despić](http://seecult.org/vest/preminuo-dejan-despic)
-* [Stare i nove reči](http://seecult.org/vest/stare-i-nove-reci)
-* [Dani srpskog filma u Helsinkiju](http://seecult.org/vest/dani-srpskog-filma-u-helsinkiju)
 
 * [Konkursi](#tab1_1)
 
