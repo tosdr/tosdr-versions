@@ -3,18 +3,10 @@
 [Donate](https://secure.winred.com/randpaul/donate/?wr_utm_source=website)
 
 * [About](https://randpaul.com/about/)
-* [Issues](https://randpaul.com/issues/)
-* [Get Involved](https://randpaul.com/get-involved/)
-* [Media](https://randpaul.com/media/)
 * [Shop Merch](https://secure.winred.com/randpaul/storefront/)
-* [Liberty Tree](https://libertytree.com/)
 
 * [About](https://randpaul.com/about/)
-* [Issues](https://randpaul.com/issues/)
-* [Get Involved](https://randpaul.com/get-involved/)
-* [Media](https://randpaul.com/media/)
 * [Shop Merch](https://secure.winred.com/randpaul/storefront/)
-* [Liberty Tree](https://libertytree.com/)
 
 [Donate](https://secure.winred.com/randpaul/donate/?wr_utm_source=website)
 
@@ -69,12 +61,7 @@ Sign Up For Updates
 [Donate](https://secure.winred.com/randpaul/donate/?wr_utm_source=website)
 
 * [About](https://randpaul.com/about/)
-* [Issues](https://randpaul.com/issues/)
-* [Get Involved](https://randpaul.com/get-involved/)
-* [Media](https://randpaul.com/media/)
 * [Shop Merch](https://secure.winred.com/randpaul/storefront/)
-* [Liberty Tree](https://libertytree.com/)
-* [How to Vote](https://vrsws.sos.ky.gov/ovrweb/govoteky)
 
 [![facebook icon](/wp-content/uploads/2021/04/facebook-icon.png)](https://www.facebook.com/RandPaul/)
 
