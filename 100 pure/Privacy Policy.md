@@ -1050,7 +1050,7 @@ CHOOSE Color
 
 ### [Mattifying Primer](https://www.100percentpure.com/products/mattifying-primer)
 
-1134 reviews (1134)
+1136 reviews (1136)
 
 $45.00
 
@@ -1240,7 +1240,7 @@ ADD TO TOTE
 
 ### [Bright Eyes Masks](https://www.100percentpure.com/products/bright-eyes-masks)
 
-975 reviews (975)
+976 reviews (976)
 
 $7.00 $30.00
 
