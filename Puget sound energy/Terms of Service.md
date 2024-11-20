@@ -359,18 +359,16 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Storm alert Updated Nov 20, 1:00 AM](#collapseOne)  
+[Storm alert Updated Nov 20, 6:00 AM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-Severe winds from this evening's bomb cyclone ripped through western Washington, causing a mass outage event throughout most of our service area, with the biggest impact in King County. As of 1 a.m. we have 474,032 customers out of power. We anticipate a multiple day outage and encourage customers to make alternate plans as we work to assess the situation and restore power.
+The windstorm caused extensive damage to our system late afternoon yesterday and into last night. As of 5:20 a.m., we have 416,488 customers out of power.
 
-We are hearing reports of extensive numbers of downed lines and are urging our customers to never touch or go within 30 feet of downed power lines because they might be energized. Field crews are also seeing many fallen trees, causing blocked roads and restricting access.
+Our focus today is on critical infrastructure and public safety, as PSE has been fielding many 911 calls for safety/emergency needs. With daylight approaching, crews will continue assessing more of the overall damage to the region and provide restoration updates as information becomes available.
 
-Our Emergency Coordination Center and local storm bases are open to support restoration efforts. As the winds calm down, we will start sending crews back out as it becomes safe to do so. Once we have daylight, we will also deploy helicopters to gather more information for our response.
-
-  
+We anticipate a multiple day outage and encourage customers with critical needs to make alternate plans as we work to assess the situation and restore power.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
