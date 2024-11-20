@@ -190,6 +190,15 @@
 
 Subscribe
 
+[#### Inflammatory Bowel Disease](https://www.healthline.com/inflammatory-bowel-disease)
+
+* [Basics of IBD](https://www.healthline.com/inflammatory-bowel-disease/ibd-basics)
+* [Treatments](https://www.healthline.com/inflammatory-bowel-disease/treating-ibd)
+* [Food & Gut Health](https://www.healthline.com/inflammatory-bowel-disease/food-gut-health)
+* [Live Well with IBD](https://www.healthline.com/inflammatory-bowel-disease/lifestyle-ibd)
+* [Community](https://apps.apple.com/us/app/ibd-healthline/id1459294732)
+* [Newsletter](https://www.healthline.com/newsletter-signup/ibd)
+
 Privacy Policy
 ==============
 
