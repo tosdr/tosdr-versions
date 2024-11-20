@@ -181,6 +181,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [2024 Holiday Gift Guide: Rifles](https://www.thegunpage.com/2024-holiday-gift-guide-rifles/10611992)
+* [All About The 2024 USPSA Alabama State Championship](https://www.thegunpage.com/all-about-the-2024-uspsa-alabama-state-championship/10611993)
 * [Why I Love Hunting With Suppressors](https://www.thegunpage.com/why-i-love-hunting-with-suppressors/10611989)
 * [POTD: Shooting Rk62, R20 LMTs and B&Ts in Iraq](https://www.thegunpage.com/potd-shooting-rk62-r20-lmts-and-bts-in-iraq/10611990)
 * [TFB 2024 Black Friday/Cyber Monday Deals](https://www.thegunpage.com/tfb-2024-black-friday-cyber-monday-deals/10611987)
@@ -189,8 +191,6 @@ Recent Posts
 * [Giving Guns as Gifts: Know the Law](https://www.thegunpage.com/giving-guns-as-gifts-know-the-law/10611981)
 * [Canto Arms DL-44 Hero: Upgraded Blaster](https://www.thegunpage.com/canto-arms-dl-44-hero-upgraded-blaster/10611979)
 * [Canto Arms A280-CFE .22 Blaster Build](https://www.thegunpage.com/canto-arms-a280-cfe-22-blaster-build/10611977)
-* [EAA Introduces The Girsan Influencer X: A 1911 For The 2020s](https://www.thegunpage.com/eaa-introduces-the-girsan-influencer-x-a-1911-for-the-2020s/10611973)
-* [New Jersey Gun Dealers Sued By Attorney General For Selling Ammunition Without Asking For ID Or Permit](https://www.thegunpage.com/new-jersey-gun-dealers-sued-by-attorney-general-for-selling-ammunition-without-asking-for-id-or-permit/10611970)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
