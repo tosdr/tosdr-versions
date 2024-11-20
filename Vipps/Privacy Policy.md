@@ -4,7 +4,6 @@
 * [Hjelp](https://www.vipps.no/hjelp/)
 * [Logg inn for bedrift](https://www.vipps.no/logg-inn/)
 * [Bli bedriftskunde](https://www.vipps.no/bli-bedriftskunde/)
-* [For utviklere](https://www.vipps.no/developer/)
 
 ### Din nettleser er ikke støttet
 
