@@ -249,11 +249,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
 [Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
 [Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
+
+[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,13 +261,13 @@ this week
 
 [Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
-[NASA](https://www.sciencedaily.com/news/space_time/nasa/)
+[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Soil Types](https://www.sciencedaily.com/news/plants_animals/soil_types/)
+[Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
 
-[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
+[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
 
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
