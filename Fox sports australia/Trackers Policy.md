@@ -46,6 +46,16 @@ FOX SCORES
     | PER | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250134)
+* [Women's BBL
+    
+    21/11 19:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | HOB | –   |
+    | MELR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250135)
 * Motorsport
     
 * [Formula 1
@@ -72,46 +82,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/golf/match?matchid=APGA20250010015D2A4)
 * Basketball
     
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BOS | 120 |
-    | CLE | 117 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010041/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BKN | 116 |
-    | CHA | 115 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010043/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MEM | 110 |
-    | DEN | 122 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010045/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DAL | 132 |
-    | NO  | 91  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010047/box-score)
 * [NBA
     
     Full Time
@@ -222,6 +192,16 @@ FOX SCORES
     | SYD | 54  |
     
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25040001/play-by-play)
+* [WNBL
+    
+    21/11 18:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CAN | –   |
+    | TWN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25040002)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -953,7 +933,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
