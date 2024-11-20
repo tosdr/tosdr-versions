@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 325 active visitors** | **Wednesday, November 20, 2024** |
+| **You are 1 of 230 active visitors** | **Wednesday, November 20, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**Among the many misdeeds of the British rule in India, history will look upon the act of depriving a whole nation of arms, as the blackest. � Mahatma Gandhi
+ **QUOTES TO REMEMBER**The gun gives boldness, enterprise, and independence to the mind. Let your gun, therefore, be the constant companion of your walks. � Thomas Jefferson
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
