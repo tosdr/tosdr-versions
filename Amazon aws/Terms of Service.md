@@ -8,7 +8,7 @@
 
 [Create an AWS Account](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=header_signup)
 
-* [Amazon Q](https://aws.amazon.com/q/?nc2=h_ql_prod_l1_q)
+* [re:Invent](https://reinvent.awsevents.com/?nc=nav-l1&trk=0e487c8f-c3e3-4b03-9550-a51ebdba56b6)
 * [Products](https://aws.amazon.com/products/?nc2=h_ql_prod)
 * [Solutions](https://aws.amazon.com/solutions/?nc2=h_ql_sol)
 * [Pricing](https://aws.amazon.com/pricing/?nc2=h_ql_pr)
@@ -64,6 +64,7 @@ Close
 
 [Contact Us](https://aws.amazon.com/contact-us/?nc2=h_mobile)
 
+* [re:Invent](https://reinvent.awsevents.com/?nc=nav-m&trk=0e487c8f-c3e3-4b03-9550-a51ebdba56b6)
 * [Products](https://aws.amazon.com/products/?nc2=h_mo)
 * [Solutions](https://aws.amazon.com/solutions/?nc2=h_mo)
 * [Pricing](https://aws.amazon.com/pricing/?nc2=h_mo)
@@ -83,7 +84,7 @@ Close
 AWS Service Terms
 =================
 
-#### Last Updated: November 15, 2024
+#### Last Updated: November 19, 2024
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -167,7 +168,7 @@ If, as of the time of a change of the AWS Contracting Party responsible for your
 
 **1.23.** If you use any artificial intelligence and machine learning Services, features, and functionality (including third-party models) that we provide, you will comply with the [AWS Responsible AI Policy](https://aws.amazon.com/machine-learning/responsible-ai/policy).
 
-**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, AWS HealthScribe, and AWS App Studio (Preview). The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
+**1.24.** Certain Services may incorporate generative AI features, powered by Amazon Bedrock, that enable you to use prompts to generate output, including: Amazon CloudWatch, Amazon CodeCatalyst, Amazon Connect Contact Lens, Amazon DataZone, Amazon Lex, Amazon Personalize, Amazon Q, AWS AppFabric, AWS HealthScribe, and AWS App Studio. The Amazon Bedrock automated abuse detection mechanisms may apply to such services. See [here](https://docs.aws.amazon.com/bedrock/latest/userguide/abuse-detection.html) for more details.
 
 **1.25.** You will not use, and will not facilitate or allow End Users to use, the Services to mine cryptocurrency without our prior written approval.
 
@@ -862,7 +863,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 
 #### 50\. AWS Machine Learning and Artificial Intelligence Services
 
-**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Titan, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, and AWS App Studio (Preview). “AI Content” means Your Content that is processed by an AI Service.
+**50.1.** “AI Services” means, collectively, Amazon Bedrock, Amazon CodeGuru Profiler, Amazon CodeGuru Reviewer, Amazon Titan, Amazon Comprehend, Amazon Comprehend Medical, Amazon DevOps Guru, Amazon Forecast, AWS HealthLake, Amazon Kendra, Amazon Lex, Amazon Lookout for Metrics, Amazon Personalize, Amazon Polly, Amazon Q, Amazon Rekognition, Amazon Textract, Amazon Transcribe, Amazon Transcribe Medical, Amazon Translate, AWS HealthOmics, AWS HealthImaging, AWS HealthScribe, and AWS App Studio. “AI Content” means Your Content that is processed by an AI Service.
 
 **50.2.** The output that you generate using AI Services is Your Content. Due to the nature of machine learning, output may not be unique across customers and the Services may generate the same or similar results across customers.
 
