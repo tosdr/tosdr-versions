@@ -142,6 +142,10 @@ For privacy inquiries regarding a specific Learneo Service, please contact us as
 
 * All privacy inquiries and requests: [\[email protected\]](https://languagetool.org/cdn-cgi/l/email-protection)
 
+###### LanguageTool
+
+* All privacy inquiries and requests: [\[email protected\]](https://languagetool.org/cdn-cgi/l/email-protection)
+
 #### Children's Privacy
 
 We do not knowingly collect or solicit personal data about children under 13 years of age; if you are a child under the age of 13, please do not attempt to register for or otherwise use the Services or send us any personal data. If we learn we have collected personal data from a child under 13 years of age, we will delete that information as quickly as possible. If you believe that a child under 13 years of age may have provided personal data to us, please contact us to provide that information (see the [contact information above](#part-one-contact-information)).
