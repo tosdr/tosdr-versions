@@ -1,8 +1,8 @@
 ![Close Icon](https://ss0.4sqi.net/img/sunset/close-a0d237c49044bf4c9759b77c784354a5.png)
 
-![Gear Icon](https://ss1.4sqi.net/img/sunset/icon-58c8a0aba520b5f7188257dc30d823f9.png)**Important Notice:**We have made the tough decision to say goodbye to the Foursquare City Guide mobile app, effective December 15, 2024, with the web version to follow in early 2025. Visit our FAQ for more information or to download our Swarm app.
+![Gear Icon](https://ss1.4sqi.net/img/sunset/icon-58c8a0aba520b5f7188257dc30d823f9.png)**Remarque importante :**Nous avons pris la décision difficile de dire adieu à l&#39;application mobile Foursquare City Guide le 15 décembre 2024. La version Web suivra début 2025. N&#39;hésite pas à consulter notre FAQ pour obtenir plus d&#39;informations ou pour télécharger notre application Swarm.
 
-[Learn more](https://foursquare.com/city-guide-sunset)
+[En savoir plus](https://foursquare.com/city-guide-sunset)
 
 [Foursquare City Guide](https://fr.foursquare.com/city-guide)
 
@@ -193,4 +193,4 @@ Il est recommandé d'activer JavaScript dans les paramètres du navigateur pour 
 * [Thailande](https://fr.foursquare.com/cities/bangkok "Bangkok")
 * [Turquie](https://fr.foursquare.com/cities/istanbul "Istanbul")
 
-![](/private/wtrack?event=pltp-dep&p=%2Flegal%2Fccpa-consumer&ref=&ts=1732111058&u=-1&sig=n0Dvnm0mG2w2jBnwCmzRiJ0whIM%3D)
+![](/private/wtrack?event=pltp-dep&p=%2Flegal%2Fccpa-consumer&ref=&ts=1732132413&u=-1&sig=l%2BR0rMz1dWchc1NnB9HP1f65XyY%3D)
