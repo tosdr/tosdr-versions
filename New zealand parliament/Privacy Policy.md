@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/seymour-david/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/order-paper/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/seymour-david/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/order-paper/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
