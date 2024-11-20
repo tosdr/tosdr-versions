@@ -10,7 +10,7 @@
     ### RUN YOUR BUSINESS
     
     * [SumUp POS](https://www.sumup.com/en-us/pos/sumup-pos/overview/)
-    * [POS Lite](https://www.sumup.com/en-us/pos/sumup-pos/overview/)
+    * [POS Lite](https://www.sumup.com/en-us/pos/pos-lite/)
     * [Compare POS](https://www.sumup.com/en-us/pos/compare/)
     
     ### TAKE PAYMENTS
@@ -66,7 +66,7 @@
     RUN YOUR BUSINESS
     
     * [SumUp POS](https://www.sumup.com/en-us/pos/sumup-pos/overview/)
-    * [POS Lite](https://www.sumup.com/en-us/pos/sumup-pos/overview/)
+    * [POS Lite](https://www.sumup.com/en-us/pos/pos-lite/)
     * [Compare POS](https://www.sumup.com/en-us/pos/compare/)
     
     * * *
