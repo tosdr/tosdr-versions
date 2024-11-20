@@ -56,11 +56,11 @@ Original Submission Date Received: .
 
 You seem to have javascript disabled. Please note that many of the page functionalities won't work as expected without javascript enabled.
 
-[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1732009349 "MDPI Open Access Journals")](https://www.mdpi.com/)
+[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1732087095 "MDPI Open Access Journals")](https://www.mdpi.com/)
 
 [_clear_](#) [_zoom\_out\_map_](https://www.mdpi.com/toggle_desktop_layout_cookie "Toggle desktop layout") [_search_](#) [_menu_](# "MDPI main page")
 
-[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1732009349 "MDPI Open Access Journals")](https://www.mdpi.com/)
+[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1732087095 "MDPI Open Access Journals")](https://www.mdpi.com/)
 
 * [Journals](https://www.mdpi.com/about/journals)
     * * [Active Journals](https://www.mdpi.com/about/journals)
@@ -331,7 +331,7 @@ We pass on at least some of your data that we collect in accordance with the afo
 
 5.2
 
-Third party tools, websites, and providers of tools or services engaged by MDPI to sup-port submission checks and processing, peer-review, the editorial process, integrity in-vestigations and/or scientific communication
+Third party tools, websites, and providers of tools or services engaged by MDPI to support submission checks and processing, peer-review, the editorial process, integrity investigations and/or scientific communication
 
 5.3
 
@@ -370,7 +370,7 @@ Please send your written request to MDPI AG, Grosspeteranlage 5, 4052 Basel, Swi
 
 You also have the right to complain to a data protection supervisory authority about our processing of your personal data.
 
-This Privacy Policy was last updated on 4 November 2024.
+This Privacy Policy was last updated on 20 November 2024.
 
 ### Further Information
 
@@ -388,7 +388,7 @@ This Privacy Policy was last updated on 4 November 2024.
 
 [LinkedIn](https://www.linkedin.com/company/mdpi) [Facebook](https://www.facebook.com/MDPIOpenAccessPublishing) [Twitter](https://twitter.com/MDPIOpenAccess)
 
-![MDPI](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-white-small.png?71d18e5f805839ab?1732009349 "MDPI Open Access Journals")
+![MDPI](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-white-small.png?71d18e5f805839ab?1732087095 "MDPI Open Access Journals")
 
 Subscribe to receive issue release notifications and newsletters from MDPI journals
 
