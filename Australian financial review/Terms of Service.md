@@ -325,12 +325,11 @@ Advertise
 
 ### [What it feels like to drive a multimillion-dollar simulator](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/what-it-feels-like-to-drive-a-multimillion-dollar-simulator-20241105-p5knxn)
 
-* 55 mins ago
 * Tony Davis
 
 * ### [When you buy this fashion label, you’re joining a community](https://www.afr.com/life-and-luxury/fashion-and-style/when-you-buy-this-fashion-label-you-re-joining-a-community-20240903-p5k7ep)
     
-* ### [Meet the mother of all cargo bikes](https://www.afr.com/technology/meet-the-mother-of-all-cargo-bikes-20241114-p5kqnu)
+* ### [Meet the cargo bike that other riders will envy](https://www.afr.com/technology/meet-the-mother-of-all-cargo-bikes-20241114-p5kqnu)
     
 
 [Rich List](https://www.afr.com/rich-list)
