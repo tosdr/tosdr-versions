@@ -328,6 +328,7 @@ Log in to order, manage your products and services, and track your orders.
             * [Service ecosystem](https://www.ovhcloud.com/en-ie/public-cloud/) Automate your setup, propel your business
             * [Pricing](https://www.ovhcloud.com/en-ie/public-cloud/prices/) View our simple, accessible pricing
             * [Public Cloud free trial](https://www.ovhcloud.com/en-ie/public-cloud/free-trial/) Try out our solutions at no cost
+            * [Savings Plans New](https://www.ovhcloud.com/en-ie/public-cloud/savings-plan/) Opt for a 1 to 36 month subscription and save on your Public Cloud resources.
             * [The advantages of the Public Cloud solution](https://www.ovhcloud.com/en-ie/public-cloud/why-ovh-public-cloud/) Discover cloud computing solutions to meet your needs
             * [Cloud Computing](https://www.ovhcloud.com/en-ie/public-cloud/cloud-computing/) Find out more about this growing practice
             * [Certification & compliance](https://www.ovhcloud.com/en-ie/compliance/) Explore how OVHcloud builds trusted solutions
@@ -347,7 +348,6 @@ Log in to order, manage your products and services, and track your orders.
             * Our documentation Browse our documentation for the Compute range
             * En route to PaaS Focus on your applications & become more competitive
             * [Local Zone New](https://www.ovhcloud.com/en-ie/about-us/global-infrastructure/local-zone/) Deploy cloud services closer to your users
-            * [Savings Plans New](https://www.ovhcloud.com/en-ie/public-cloud/savings-plan/) Opt for a 1 to 36 month subscription and save on your Public Cloud resources.
     * [Storage](https://www.ovhcloud.com/en-ie/public-cloud/storage/)
         * Back to menu
         * [Storage](https://www.ovhcloud.com/en-ie/public-cloud/storage/)
@@ -653,7 +653,8 @@ Log in to order, manage your products and services, and track your orders.
         * Sustainable cloud
         * Trusted cloud
         * [Investor Relations](https://corporate.ovhcloud.com/en-ie/investor-relations/)
-* [Summit 2024](https://summit.ovhcloud.com/en-ie/)
+* [Summit 2024](https://summit.ovhcloud.com/en-ie/online-experience/)
+* [Black Friday](https://www.ovhcloud.com/en-ie/black-friday/)
 
 Open search bar
 
