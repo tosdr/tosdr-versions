@@ -10,6 +10,8 @@ at
 
 Log InSign Up
 
+Help
+
 Privacy Policy
 ==============
 
