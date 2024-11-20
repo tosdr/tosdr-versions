@@ -362,6 +362,20 @@ Life on the spectrum
 
 ------------------------
 
+[![Ira and Lisa](/sites/default/files/styles/content_grid/public/Ira-and-Lisa_0.jpg.webp?itok=AqPiP585)](https://guide.autismspeaks.org/profile/meet-ira-t-and-lisa)
+
+Ira T., 28, and his mom, Lisa
+
+My mom needs help sometimes and I like to help her because she takes care of me. I always give her a kiss when she’s sad and a big hug because I love her.
+
+[Read Ira T., 28, and his mom, Lisa's Story](https://guide.autismspeaks.org/profile/meet-ira-t-and-lisa)
+
+[![David Hummel at the Baseball Hall of Fame](/sites/default/files/styles/content_grid/public/David-Hummel-at-the-Baseball-Hall-of-Fame.jpg.webp?itok=evOFKhXn)](https://guide.autismspeaks.org/profile/employee-profile-david-hummel-administrative-assistant)
+
+### [Employee Profile: David Hummel, Administrative assistant](https://guide.autismspeaks.org/profile/employee-profile-david-hummel-administrative-assistant)
+
+[Read 's Story](https://guide.autismspeaks.org/profile/employee-profile-david-hummel-administrative-assistant)
+
 [![Robin Herrera, owner of Surftismo](/sites/default/files/styles/content_grid/public/Robin-Herrera%2C-owner-of-Surftismo.jpg.webp?itok=FgvAK2ku)](https://guide.autismspeaks.org/profile/meet-robin-h)
 
 Robin H.
@@ -377,22 +391,6 @@ Victoria B. | 33 years old
 National Disability Employment Awareness Month emphasizes the importance of creating opportunities for people like me, with disabilities, to have jobs, be independent and thrive.
 
 [Read Victoria B.'s Story](https://guide.autismspeaks.org/profile/meet-victoria-b)
-
-[![Jessica smiling and wearing a pink blazer](/sites/default/files/styles/content_grid/public/Jessica%20smiling%20and%20wearing%20a%20pink%20blazer.jpg.webp?itok=i5_vIZEg)](https://guide.autismspeaks.org/profile/meet-jessica-j)
-
-Jessica J. | 36 years old
-
-It took me until my thirties to realize that if I don’t have love and respect for myself, no one else will. Today, I’m independent, strong, resilient and fearless.
-
-[Read Jessica J.'s Story](https://guide.autismspeaks.org/profile/meet-jessica-j)
-
-[![Karelix headshot](/sites/default/files/styles/content_grid/public/Karelix-Alicea-headshot.jpg.webp?itok=5CoIDXMU)](https://guide.autismspeaks.org/profile/meet-karelix)
-
-Karelix
-
-It is about bringing people with big hearts who are passionate and want to make a difference. To impact real people, human behavior, families, and communities.
-
-[Read Karelix's Story](https://guide.autismspeaks.org/profile/meet-karelix)
 
 [Explore more stories](https://guide.autismspeaks.org/profile)
 
