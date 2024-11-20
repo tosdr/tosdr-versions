@@ -259,38 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1658457/in-pictures-st-mary-s-faughanvale-gac-annual-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1658457/in-pictures-st-mary-s-faughanvale-gac-annual-prizegiving.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Cian McConnell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cian McConnell")](https://www.derrynow.com/news/derry-news/1659403/i-want-to-break-the-stigma-as-derry-teenager-asks-people-to-donate-to-fundraiser-for-his-birthday.html)
-
-Cian McConnell
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-['I want to break the stigma' as Derry teenager asks people to donate to fundraiser for his birthday](https://www.derrynow.com/news/derry-news/1659403/i-want-to-break-the-stigma-as-derry-teenager-asks-people-to-donate-to-fundraiser-for-his-birthday.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Local Sunbed premises fined for offering illegal sunbed sessions to children.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local Sunbed premises fined for offering illegal sunbed sessions to children.")](https://www.derrynow.com/news/local-news/1659156/local-sunbed-premises-fined-for-offering-illegal-sunbed-sessions-to-children.html)
-
-Local Sunbed premises fined for offering illegal sunbed sessions to children
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Local sunbed premises fined for offering illegal sunbed sessions to children](https://www.derrynow.com/news/local-news/1659156/local-sunbed-premises-fined-for-offering-illegal-sunbed-sessions-to-children.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Three arrested and drugs seized in Derry searches](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three arrested and drugs seized in Derry searches")](https://www.derrynow.com/news/local-news/1659836/three-arrested-and-drugs-seized-in-derry-searches.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Three arrested and drugs seized in Derry searches](https://www.derrynow.com/news/local-news/1659836/three-arrested-and-drugs-seized-in-derry-searches.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Police conducting enquiries in Limavady area following report of man acting suspiciously](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police conducting enquiries in Limavady area following report of man acting suspiciously")](https://www.derrynow.com/news/home/1659945/police-conducting-enquiries-in-limavady-area-following-report-of-man-acting-suspiciously.html)
 
 The PSNI are conducting enquiries in the Limavady area following the report.
@@ -316,6 +284,13 @@ Icy road conditions in Greysteel
 ['Treacherous' road conditions across County Derry for motorists as winter arrives](https://www.derrynow.com/news/derry-news/1660218/treacherous-road-conditions-across-county-derry-for-motorists-as-winter-arrives.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Man became ‘frustrated’ and broke chair in Derry Courthouse](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man became ‘frustrated’ and broke chair in Derry Courthouse")](https://www.derrynow.com/news/local-news/1660358/man-became-frustrated-and-broke-chair-in-derry-courthouse.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man became ‘frustrated’ and broke chair in Derry Courthouse](https://www.derrynow.com/news/local-news/1660358/man-became-frustrated-and-broke-chair-in-derry-courthouse.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Movember, Spokes Mo, Anton Tohill](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Movember, Spokes Mo, Anton Tohill")](https://www.derrynow.com/news/county-derry-post/1658388/swatragh-man-leading-the-way-in-movember-challenge.html)
 
 Movember, Spokes Mo, Anton Tohill
@@ -325,27 +300,71 @@ Movember, Spokes Mo, Anton Tohill
 [Swatragh man leading the way in Movember challenge](https://www.derrynow.com/news/county-derry-post/1658388/swatragh-man-leading-the-way-in-movember-challenge.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry cafe to provide Christmas lunch and gifts to the community for people on their own or need support on Christmas Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry cafe to provide Christmas lunch and gifts to the community for people on their own or need support on Christmas Day")](https://www.derrynow.com/news/derry-news/1659494/derry-cafe-to-provide-christmas-lunch-and-gifts-to-the-community-for-people-on-their-own-or-need-support-on-christmas-day.html)
+[![IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1657938/in-pictures-st-mary-s-ardmore-gac-dinner-dance-in-the-maldron-hotel.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel](https://www.derrynow.com/story-telling/pictures---videos/1657938/in-pictures-st-mary-s-ardmore-gac-dinner-dance-in-the-maldron-hotel.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two people appear at Derry Court on drugs charges including possession of heroin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two people appear at Derry Court on drugs charges including possession of heroin")](https://www.derrynow.com/news/local-news/1660371/two-people-appear-at-derry-court-on-drugs-charges-including-possession-of-heroin.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two people appear at Derry Court on drugs charges including possession of heroin](https://www.derrynow.com/news/local-news/1660371/two-people-appear-at-derry-court-on-drugs-charges-including-possession-of-heroin.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Snowy scenes in parts of County Derry as temperatures drop overnight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Snowy scenes in parts of County Derry as temperatures drop overnight")](https://www.derrynow.com/news/home/1660109/snowy-scenes-in-parts-of-county-derry-as-temperatures-drop-overnight.html)
+
+A snowy scene from Park, County Derry this morning.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Snowy scenes in parts of County Derry as temperatures drop overnight](https://www.derrynow.com/news/home/1660109/snowy-scenes-in-parts-of-county-derry-as-temperatures-drop-overnight.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Five returned for trial to Derry Crown Court on series of drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Five returned for trial to Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1660415/five-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Five returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1660415/five-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![My Dad's long battle with COPD pushed me to check my own lung health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "My Dad's long battle with COPD pushed me to check my own lung health")](https://www.derrynow.com/news/derry-news/1660288/my-dad-s-long-battle-with-copd-pushed-me-to-check-my-own-lung-health.html)
+
+Darren with his dad James
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Derry cafe to provide Christmas lunch and gifts to the community for people on their own or need support on Christmas Day](https://www.derrynow.com/news/derry-news/1659494/derry-cafe-to-provide-christmas-lunch-and-gifts-to-the-community-for-people-on-their-own-or-need-support-on-christmas-day.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Blind man slams Housing Executive over mite infestation in his Limavady home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Blind man slams Housing Executive over mite infestation in his Limavady home")](https://www.derrynow.com/news/home/1659653/blind-man-slams-housing-executive-over-mite-infestation-in-his-limavady-home.html)
-
-Gareth Logue has hit out at the Housing Executive.
-
-[Home](https://www.derrynow.com/)
-
-[Blind man slams Housing Executive over mite infestation in his Limavady home](https://www.derrynow.com/news/home/1659653/blind-man-slams-housing-executive-over-mite-infestation-in-his-limavady-home.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[My Dad's long battle with COPD pushed me to check my own lung health](https://www.derrynow.com/news/derry-news/1660288/my-dad-s-long-battle-with-copd-pushed-me-to-check-my-own-lung-health.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Mayor hosts reception for Thornhill College pupils](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts reception for Thornhill College pupils")](https://www.derrynow.com/story-telling/pictures---videos/1660490/in-pictures-mayor-hosts-reception-for-thornhill-college-pupils.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Mayor hosts reception for Thornhill College pupils](https://www.derrynow.com/story-telling/pictures---videos/1660490/in-pictures-mayor-hosts-reception-for-thornhill-college-pupils.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Cheque presentations from the proceeds of Marty's Run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Cheque presentations from the proceeds of Marty's Run")](https://www.derrynow.com/story-telling/pictures---videos/1660453/in-pictures-cheque-presentations-from-the-proceeds-of-marty-s-run.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Cheque presentations from the proceeds of Marty's Run](https://www.derrynow.com/story-telling/pictures---videos/1660453/in-pictures-cheque-presentations-from-the-proceeds-of-marty-s-run.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry health event celebrates International Men's Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry health event celebrates International Men's Day")](https://www.derrynow.com/story-telling/pictures---videos/1660454/in-pictures-derry-health-event-celebrates-international-men-s-day.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry health event celebrates International Men's Day](https://www.derrynow.com/story-telling/pictures---videos/1660454/in-pictures-derry-health-event-celebrates-international-men-s-day.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![WATCH: Tiernan Lynch 'proud and privileged' to be new Derry City manager](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Tiernan Lynch 'proud and privileged' to be new Derry City manager")](https://www.derrynow.com/news/derry-sport/1660322/watch-tiernan-lynch-proud-and-privileged-to-be-new-derry-city-manager.html)
 
@@ -395,27 +414,6 @@ Multimedia
 
 [IN PICTURES: Christmas comes early as Elves Parade lights up Culmore](https://www.derrynow.com/story-telling/pictures---videos/1657939/in-pictures-christmas-comes-early-as-elves-parade-lights-up-culmore.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Life After Road Safety held in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Life After Road Safety held in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1657937/in-pictures-derry-charity-life-after-road-safety-event-in-guildhall-square.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry charity Life After Road Safety event in Guildhall Square](https://www.derrynow.com/story-telling/pictures---videos/1657937/in-pictures-derry-charity-life-after-road-safety-event-in-guildhall-square.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Richmond Centre welcomes arrival of Santa and cast of 'Aladdin'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Richmond Centre welcomes arrival of Santa and cast of 'Aladdin'")](https://www.derrynow.com/story-telling/pictures---videos/1657936/in-pictures-richmond-centre-welcomes-arrival-of-santa-and-cast-of-aladdin.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Richmond Centre welcomes arrival of Santa and cast of 'Aladdin'](https://www.derrynow.com/story-telling/pictures---videos/1657936/in-pictures-richmond-centre-welcomes-arrival-of-santa-and-cast-of-aladdin.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar")](https://www.derrynow.com/story-telling/pictures---videos/1657935/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](https://www.derrynow.com/story-telling/pictures---videos/1657935/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,55 +515,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![My Dad's long battle with COPD pushed me to check my own lung health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "My Dad's long battle with COPD pushed me to check my own lung health")](https://www.derrynow.com/news/derry-news/1660288/my-dad-s-long-battle-with-copd-pushed-me-to-check-my-own-lung-health.html)
-
-Darren with his dad James
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[My Dad's long battle with COPD pushed me to check my own lung health](https://www.derrynow.com/news/derry-news/1660288/my-dad-s-long-battle-with-copd-pushed-me-to-check-my-own-lung-health.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two people appear at Derry Court on drugs charges including possession of heroin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two people appear at Derry Court on drugs charges including possession of heroin")](https://www.derrynow.com/news/local-news/1660371/two-people-appear-at-derry-court-on-drugs-charges-including-possession-of-heroin.html)
+[![Christmas gifts and songs on the menu as Derry's Guildhall Craft Fair returns](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Christmas gifts and songs on the menu as Derry's Guildhall Craft Fair returns")](https://www.derrynow.com/news/local-news/1660451/christmas-gifts-and-songs-on-the-menu-as-derry-s-guildhallcraftfair-returns.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Two people appear at Derry Court on drugs charges including possession of heroin](https://www.derrynow.com/news/local-news/1660371/two-people-appear-at-derry-court-on-drugs-charges-including-possession-of-heroin.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ulster University's Dr. Mary Crossan addressing the students](https://www.derrynow.com/resizer/165/93/true/2024_11_20/unnamed_%281%29-1732102414321.jpg--.jpg?1732102414380 "Ulster University's Dr. Mary Crossan addressing the students")](https://www.derrynow.com/news/derry-news/1660280/derry-chamber-supports-future-north-west-talent.html)
-
-Ulster University's Dr. Mary Crossan addressing the students
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry Chamber Supports Future North West Talent](https://www.derrynow.com/news/derry-news/1660280/derry-chamber-supports-future-north-west-talent.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Weather warning for areas of Derry about icy conditions tonight and tomorrow](https://www.derrynow.com/resizer/165/93/true/1514453348343.jpg--.jpg?1514453348000 "Weather warning for areas of Derry about icy conditions tonight and tomorrow")](https://www.derrynow.com/news/derry-news/1660311/weather-warning-for-areas-of-derry-about-icy-conditions-tonight-and-tomorrow.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Weather warning for areas of Derry about icy conditions tonight and tomorrow](https://www.derrynow.com/news/derry-news/1660311/weather-warning-for-areas-of-derry-about-icy-conditions-tonight-and-tomorrow.html)
+[Christmas gifts and songs on the menu as Derry's Guildhall Craft Fair returns](https://www.derrynow.com/news/local-news/1660451/christmas-gifts-and-songs-on-the-menu-as-derry-s-guildhallcraftfair-returns.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Limavady BJJ coach offers free classes to combat violence against women](https://www.derrynow.com/resizer/165/93/true/2024_11_20/CDP_-_19-11-24_-_Page_6_lead_pic_%282%29-1732100508834_1732100523.jpeg--.jpeg?1732100523826 "Limavady BJJ coach offers free classes to combat violence against women")](https://www.derrynow.com/news/home/1660234/limavady-bjj-coach-offers-free-classes-to-combat-violence-against-women.html)
+[![Airports can ‘take advantage’ of Dublin passenger cap to attract more routes](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Airports can ‘take advantage’ of Dublin passenger cap to attract more routes")](https://www.derrynow.com/news/local-news/1660578/airports-can-take-advantage-of-dublin-passenger-cap-to-attract-more-routes.html)
 
-Female coaches Carla McGuigan and Majella McLaughlin, both European champions.
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Home](https://www.derrynow.com/)
+[Airports can ‘take advantage’ of Dublin passenger cap to attract more routes](https://www.derrynow.com/news/local-news/1660578/airports-can-take-advantage-of-dublin-passenger-cap-to-attract-more-routes.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Limavady BJJ coach offers free classes to combat violence against women](https://www.derrynow.com/news/home/1660234/limavady-bjj-coach-offers-free-classes-to-combat-violence-against-women.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Derry's Christmas lights in Guildhall square](https://www.derrynow.com/resizer/165/93/true/2024_11_20/DerryTree20214-1732115079917.jpg--.jpg?1732115080817 "Derry's Christmas lights in Guildhall square")](https://www.derrynow.com/news/derry-news/1660563/the-switching-on-of-derry-s-christmas-lights-is-something-you-don-t-want-to-miss.html)
 
-[![Icy road conditions in Greysteel](https://www.derrynow.com/resizer/165/93/true/2024_11_20/ice-1732099802403.PNG--.PNG?1732099802456 "Icy road conditions in Greysteel")](https://www.derrynow.com/news/derry-news/1660218/treacherous-road-conditions-across-county-derry-for-motorists-as-winter-arrives.html)
-
-Icy road conditions in Greysteel
+Derry's Christmas lights in Guildhall square
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-['Treacherous' road conditions across County Derry for motorists as winter arrives](https://www.derrynow.com/news/derry-news/1660218/treacherous-road-conditions-across-county-derry-for-motorists-as-winter-arrives.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[The switching on of Derry's Christmas lights is something you don't 'want to miss'](https://www.derrynow.com/news/derry-news/1660563/the-switching-on-of-derry-s-christmas-lights-is-something-you-don-t-want-to-miss.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Thousands of women plan legal action over alleged links between talc and cancer](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_20/1732109133062_0.jpg--.jpg?1732109133109 "Thousands of women plan legal action over alleged links between talc and cancer")](https://www.derrynow.com/news/local-news/1660428/thousands-of-women-plan-legal-action-over-alleged-links-between-talc-and-cancer.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Thousands of women plan legal action over alleged links between talc and cancer](https://www.derrynow.com/news/local-news/1660428/thousands-of-women-plan-legal-action-over-alleged-links-between-talc-and-cancer.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donate a coat (credit: me4mental Facebook)](https://www.derrynow.com/resizer/165/93/true/2024_11_20/466624014_1200580721592370_6539373290978042038_n-1732113094033.jpg--.jpg?1732113094073 "Donate a coat (credit: me4mental Facebook)")](https://www.derrynow.com/news/derry-news/1660526/derry-charity-launch-coat-donation-drive-to-help-people-in-need-during-winter.html)
+
+Donate a coat (credit: me4mental Facebook)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry charity launch coat donation drive to help people in need during winter](https://www.derrynow.com/news/derry-news/1660526/derry-charity-launch-coat-donation-drive-to-help-people-in-need-during-winter.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Veteran journalist Ken Reid dies at age of 69, family says](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_20/1732118701613_0_1732118880.jpg--.jpg?1732118880628 "Veteran journalist Ken Reid dies at age of 69, family says")](https://www.derrynow.com/news/local-news/1660649/veteran-journalist-ken-reid-dies-at-age-of-69-family-says.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Veteran journalist Ken Reid dies at age of 69, family says](https://www.derrynow.com/news/local-news/1660649/veteran-journalist-ken-reid-dies-at-age-of-69-family-says.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
