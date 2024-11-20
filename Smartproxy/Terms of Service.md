@@ -46,6 +46,8 @@ Enjoy a full-stack scraping solution for Google and more.](https://smartproxy.co
 
 [eCommerce Scraping API
 
+NEW
+
 Gather neatly structured eCommerce data by sending just one API request.](https://smartproxy.com/scraping/ecommerce)
 
 [Web Scraping API
@@ -396,7 +398,7 @@ COMPANY
 
 PRODUCTS
 
-[Proxies](https://smartproxy.com/proxies)[Scrapers](https://smartproxy.com/scraping)[Site Unblocker](https://smartproxy.com/proxies/site-unblocker)[Free tools](https://smartproxy.com/apps)
+[Proxies](https://smartproxy.com/proxies)[Data scraping](https://smartproxy.com/scraping)[Site Unblocker](https://smartproxy.com/proxies/site-unblocker)[Free tools](https://smartproxy.com/apps)
 
 GENERAL
 
