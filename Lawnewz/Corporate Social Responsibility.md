@@ -99,23 +99,23 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Edward Richmond, Jr. (U.S. Attorney's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/01/Edward-Richmond-Jr-1-432x243.jpg)](https://lawandcrime.com/high-profile/well-break-you-motherf-army-vet-court-martialed-for-shooting-handcuffed-iraqi-in-the-head-is-going-to-prison-for-fighting-cops-guarding-the-capitol-on-jan-6/)
+1. [![Edward Richmond, Jr. (U.S. Attorney's Office).](https://lawandcrime.com/wp-content/uploads/2024/01/Edward-Richmond-Jr-1-432x243.jpg)](https://lawandcrime.com/high-profile/well-break-you-motherf-army-vet-court-martialed-for-shooting-handcuffed-iraqi-in-the-head-is-going-to-prison-for-fighting-cops-guarding-the-capitol-on-jan-6/)
     
     ### ['We'll break you motherf-----!': Army vet court-martialed for shooting handcuffed Iraqi in the head is going to prison for fighting cops guarding the Capitol on Jan. 6](https://lawandcrime.com/high-profile/well-break-you-motherf-army-vet-court-martialed-for-shooting-handcuffed-iraqi-in-the-head-is-going-to-prison-for-fighting-cops-guarding-the-capitol-on-jan-6/)
     
-2. [![Inset: Reggie Brown (Brown family). Background: The alley where he was allegedly beaten to death by five teen girls (WJLA).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-432x243.jpg)](https://lawandcrime.com/crime/girls-ages-12-and-14-who-took-selfies-after-killing-disabled-man-because-they-were-bored-are-headed-to-juvenile-detention/)
+2. [![Inset: Reggie Brown (Brown family). Background: The alley where he was allegedly beaten to death by five teen girls (WJLA).](https://lawandcrime.com/wp-content/uploads/2024/10/asdfasdf-432x243.jpg)](https://lawandcrime.com/crime/girls-ages-12-and-14-who-took-selfies-after-killing-disabled-man-because-they-were-bored-are-headed-to-juvenile-detention/)
     
     ### [Girls, ages 12 and 14, who took selfies after killing disabled man because they 'were bored' are headed to juvenile detention](https://lawandcrime.com/crime/girls-ages-12-and-14-who-took-selfies-after-killing-disabled-man-because-they-were-bored-are-headed-to-juvenile-detention/)
     
-3. [![From top left, clockwise: Lisa Mitchell, Anthony Yonko, David Yonko, Tiffany Mitchell (Oklahoma County Detention Center).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/sdfasdf-432x243.jpg)](https://lawandcrime.com/crime/starving-7-year-old-who-had-mouth-glued-shut-died-in-diaper-meant-for-3-year-old-police/)
+3. [![From top left, clockwise: Lisa Mitchell, Anthony Yonko, David Yonko, Tiffany Mitchell (Oklahoma County Detention Center).](https://lawandcrime.com/wp-content/uploads/2024/11/sdfasdf-432x243.jpg)](https://lawandcrime.com/crime/starving-7-year-old-who-had-mouth-glued-shut-died-in-diaper-meant-for-3-year-old-police/)
     
     ### [Starving 7-year-old who had 'mouth glued shut' dies in diaper meant for 3-year-old: Police](https://lawandcrime.com/crime/starving-7-year-old-who-had-mouth-glued-shut-died-in-diaper-meant-for-3-year-old-police/)
     
-4. [![Topgolf shooting Colorado](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Topgolf-shooting-432x243.jpg)](https://lawandcrime.com/video/video-shows-topgolf-murderer-unloading-12-shots-at-co-worker-in-parking-lot-before-laughing-as-he-made-his-getaway/)
+4. [![Topgolf shooting Colorado](https://lawandcrime.com/wp-content/uploads/2024/11/Topgolf-shooting-432x243.jpg)](https://lawandcrime.com/video/video-shows-topgolf-murderer-unloading-12-shots-at-co-worker-in-parking-lot-before-laughing-as-he-made-his-getaway/)
     
     ### [Video shows Topgolf murderer unloading 12 shots at co-worker in parking lot before laughing as he made his getaway](https://lawandcrime.com/video/video-shows-topgolf-murderer-unloading-12-shots-at-co-worker-in-parking-lot-before-laughing-as-he-made-his-getaway/)
     
-5. [![Haley Blevins and Jacalyn Cook](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Haley-Blevins-and-Jacalyn-Cook-432x243.jpg)](https://lawandcrime.com/crime/women-accused-of-using-leash-with-spikes-belt-to-beat-3-kids-for-not-completing-chores-to-their-satisfaction/)
+5. [![Haley Blevins and Jacalyn Cook](https://lawandcrime.com/wp-content/uploads/2024/11/Haley-Blevins-and-Jacalyn-Cook-432x243.jpg)](https://lawandcrime.com/crime/women-accused-of-using-leash-with-spikes-belt-to-beat-3-kids-for-not-completing-chores-to-their-satisfaction/)
     
     ### [Women accused of using 'leash with spikes,' belt to beat 3 kids for not completing chores to their satisfaction](https://lawandcrime.com/crime/women-accused-of-using-leash-with-spikes-belt-to-beat-3-kids-for-not-completing-chores-to-their-satisfaction/)
     
