@@ -79,7 +79,7 @@
 * [Learn Portal](https://learn.toonboom.com/)
 * [Contact](https://shop.toonboom.com/en/contact)
 
-United States of America (USA) (En)
+États-Unis d'Amérique (En)
 
 * [Facebook](https://www.facebook.com/ToonBoomAnimation/)
 * [Twitter](https://twitter.com/toonboom)
@@ -151,7 +151,7 @@ Open Menu
 * [Learn Portal](https://learn.toonboom.com/)
 * [Contact](https://shop.toonboom.com/en/contact)
 
-United States of America (USA) (En)
+États-Unis d'Amérique (En)
 
 * [Facebook](https://www.facebook.com/ToonBoomAnimation/)
 * [Twitter](https://twitter.com/toonboom)
@@ -407,7 +407,7 @@ Select your country and language
 
 See country-specific product information and pricing by selecting your country on this page
 
-Country Algeria Argentina Australia Belgium Benin Brazil Cabo Verde Cambodia Cameroon Canada Central African Republic (CAR) Chad Chile China Colombia Comoros Congo, Democratic Republic of the Congo, Republic of the Costa Rica Cote d'Ivoire Cyprus Djibouti Ecuador En ligne En línea Equatorial Guinea France Gabon Germany Guinea Guinea-Bissau India Indonesia Ireland Israel Italy Japan Jordan Laos Lebanon Madagascar Malaysia Mali Mauritania Mauritius Mexico Morocco Netherlands New Zealand Niger Online Palestine Peru Philippines Poland Portugal Rwanda Saudi Arabia Senegal Seychelles South Africa South Korea Spain Syria Togo Trinidad and Tobago Tunisia Turkey U.S. Virgin Islands Ukraine United Kingdom (UK) United States of America (USA) Vanuatu Vietnam
+Country Afrique du sud Algeria Arabie saoudite Argentina Australia Australie Belgium Benin Brazil Brésil Cabo Verde Cambodia Cameroon Canada Central African Republic (CAR) Chad Chile Chili China Colombia Comoros Congo, Democratic Republic of the Congo, Republic of the Corée du sud Costa Rica Cote d'Ivoire Cyprus Djibouti Ecuador En ligne En línea Équateur Equatorial Guinea Espagne États-Unis d'Amérique France Gabon Germany Guinea Guinea-Bissau India Indonesia Indonésie Ireland Irlande Israel Italie Italy Japan Jordan Laos Lebanon Madagascar Malaisie Malaysia Mali Mauritania Mauritius Mexico Mexique Morocco Netherlands New Zealand Niger Nouvelle-Zélande Online Palestine Pays-Bas Pérou Peru Philippines Poland Portugal Royaume-Uni Rwanda Saudi Arabia Senegal Seychelles South Africa South Korea Spain Syria Togo Trinidad and Tobago Tunisia Turkey U.S. Virgin Islands Ukraine United Kingdom (UK) United States of America (USA) Vanuatu Vietnam
 
 Language English Español Français 日本語
 
