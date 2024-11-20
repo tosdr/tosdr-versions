@@ -4,11 +4,11 @@
 
 **Free Shipping on $199+ Orders**
 
-   [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1731697814/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
+   [![SD Bullion - The Lowest Price. Period.](https://sdbullion.com/media/logo/default/lowest-price-period-logo-dark-856x220_1_.png) ![](https://sdbullion.com/static/version1732100527/frontend/SDBullion/theme-frontend-sd/en_US/images/logo-sticky.png)](https://sdbullion.com/)
 
   [![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
 
-       [![Buy Mike Tyson and Jake Paul Autograph Coins](https://sdbullion.com/media/wysiwyg/strip/mike-tyson-585x75_1_.jpg)    ![Buy Mike Tyson and Jake Paul Autograph Coins](https://sdbullion.com/media/wysiwyg/strip/mike-tyson-585x75_1_.jpg)](https://sdbullion.com/modern-collectible-coins/celebrity-mint)
+     [![Shop The Latest Release From The Commander Series - Julius Caesar](https://sdbullion.com/media/wysiwyg/sticky_header/caesar-585x75_1_.jpg)   ![Shop The Latest Release From The Commander Series - Julius Caesar](https://sdbullion.com/media/wysiwyg/sticky_header/caesar-585x75_1_.jpg)](https://sdbullion.com/shop-commander-coin-series)
 
 Search  Search
 
@@ -1840,8 +1840,6 @@ Search  Search
         
         [Reviews](https://sdbullion.com/reviews)
         
-
-  ![SD Bullion - The Lowest Price. Period.](/media/theme/mobile_logo/default/SD-Bullion-Logo-Coin-200x200_1.png)
 
 x
 
@@ -3946,7 +3944,7 @@ RESOURCES
 * [Careers](https://sdbullion.com/careers)
 * [FAQ](https://sdbullion.com/help)
 
-![Top](https://sdbullion.com/static/version1731697814/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/scroll_to_top.png)
+![Top](https://sdbullion.com/static/version1732100527/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/scroll_to_top.png)
 
   ![Top 500 Retailers Image](https://sdbullion.com/media/wysiwyg/footer/top-500-online-retailers.png)
 
@@ -3954,11 +3952,11 @@ RESOURCES
 
      [![bbb desktop image](https://sdbullion.com/media/wysiwyg/footer/bbb.png)   ![bbb mobile image](https://sdbullion.com/media/wysiwyg/footer/bbb-mobile.png)](https://www.bbb.org/toledo/business-reviews/gold-silver-and-platinum-dealers/sd-bullion-in-ottawa-lake-mi-90114703#bbbseal)
 
-![ica image](https://sdbullion.com/static/version1731697814/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/ica.png)
+![ica image](https://sdbullion.com/static/version1732100527/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/ica.png)
 
   [![Shopper Approved Logo](https://sdbullion.com/media/wysiwyg/footer/shopper-approved-min.png)](http://www.shopperapproved.com/reviews/sdbullion.com/)
 
-![SDBullion](https://sdbullion.com/static/version1731697814/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/400-SD-Bullion-Logo-light.png) ![SDBullion Coin Image](https://sdbullion.com/static/version1731697814/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/Lowest-Price-Period-Coins.png) © 2024 SD Bullion, Inc. All rights reserved.
+![SDBullion](https://sdbullion.com/static/version1732100527/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/400-SD-Bullion-Logo-light.png) ![SDBullion Coin Image](https://sdbullion.com/static/version1732100527/frontend/SDBullion/theme-frontend-sd/en_US/images/footer/Lowest-Price-Period-Coins.png) © 2024 SD Bullion, Inc. All rights reserved.
 
 *    [![Facebook Icon](https://sdbullion.com/media/wysiwyg/footer/facebook-icon-min.png) Facebook Link](https://www.facebook.com/SDBullion/)
 *    [![YouTube Icon](https://sdbullion.com/media/wysiwyg/footer/youtube-icon-min.png) YouTube Link](https://www.youtube.com/sdbullion)
