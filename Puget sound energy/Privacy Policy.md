@@ -359,19 +359,20 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Weather alert Updated Nov 19, 2:00 PM](#collapseOne)  
+[Storm alert Updated Nov 19, 8:00 PM](#collapseOne)  
 
- 
+November Wind Storm
+-------------------
 
-* Ahead of the incoming weather, we are preparing to open our Emergency Coordination Center and storm bases in areas where forecasts predict the strongest winds. We will have crews standing by at those locations. We are also proactively deploying crews from outside of the area. We have cancelled planned work on the system.  
-      
-    
-* Crews will be responding to outages as long as conditions are safe.  
-      
-    
-* As we are getting ready, we encourage customers to do the same, and to be prepared for potentially lengthy outages. In addition to the strong winds, we are concerned about the wind direction (east-southeast winds). Trees tend to root or anchor against much more common west-southwesterly winds. The atypical direction can lead to more significant damage. Soils are saturated from all of the recent rain fall, further increasing the risk for trees to fall.  
-      
-    
+The National Weather Service has issued a High Wind Warning and Wind Advisory covering most of Western Washington. The advisories went into effect late this afternoon and are expected to continue until 4 a.m. Wednesday. Additionally, a Blizzard Warning remains in effect until 10 a.m. Wednesday in the Cascades and Snoqualmie Pass areas. As the winds pick up, we’re beginning to see scattered outages across our service area.
+
+One issue with this evening’s strong storm is that the wind direction will be from the east-southeast, which is uncommon and could place added stress on trees.
+
+We're working on technical issues related to PSE.com and our outage map. Thank you for your patience as we work to resolve the issue. Issues that have been reported are being received into the system.
+
+  
+
+[Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
 ![alert](/-/media/Feature/PSE/Customer-Service/alert-active.png?rev=337ff3f6d24c41a2bc9dfc9658e05c97&sc_lang=en&modified=20200402191019&hash=58D121F47C9A99127D614F80BFA76756) 
 
@@ -379,21 +380,192 @@ Safety first. Never touch or go within 35 feet of downed power lines because the
 
 Report and track power outages online
 
-* For storm safety tips: [pse.com/storm](https://www.pse.com/en/outage/outage-resources)
 * Online outage reporting: [pse.com/outage](https://www.pse.com/en/outage)
 * Outage map: [pse.com/outagemap](https://www.pse.com/en/outage/outage-map)
 * myPSE mobile app: [pse.com/app](https://www.pse.com/en/pages/get-the-pse-app)
+* For general outage information, see: [pse.com/advisories](https://www.pse.com/en/outage/alerts-and-advisories) 
+* For outage preparedness tips, see: [pse.com/storm](https://www.pse.com/en/outage/outage-resources)
 
-#### Something went wrong.
+Last Updated June 1, 2023
 
-It's not you, it's us and we're sorry.  
-Please try again later.
+### NOTICE CONCERNING CUSTOMER INFORMATION
 
-Go to our [homepage](https://www.pse.com/en).
+Jump to:
 
-Get help [here](https://www.pse.com/en/Customer-Service/help-center).
+* [Privacy Policy](#pp)
 
-Questions? [Contact us](https://www.pse.com/en/contactpse).
+* [California Privacy Rights](#cpr)
+
+* * *
+
+This notice describes how Puget Sound Energy handles your personal information (such as your name, address, telephone number and other personal information), including Customer Information collected by virtue of the customer-utility relationship.
+
+PSE's business practices are regulated by the state Utilities and Transportation Commission. The UTC has regulations which limit how PSE may disclose Customer Information.
+
+UTC regulations require PSE to obtain the customer's written or electronic permission before disclosing any Customer Information to affiliates, subsidiaries or other third parties for purposes of marketing services or products that the customer is not subscribed to. In other words, before we provide your name, service address or other personal information to any service or product provider who intends to market new services or products to you, we must obtain your permission to do so first. If you choose not to give us permission, we will not provide any of your personal information to these third parties.
+
+We may, however, insert marketing information into our billing packets. PSE also may share aggregated information, without your authorization to perform tasks related to our regulated utility business. Aggregate information will not contain any material which could personally identify any individual person, or customer.
+
+We respect your privacy. For more information about our privacy policies, please us at 1-888-225-5773 or email [privacy@pse.com](mailto:privacy@pse.com).
+
+### PRIVACY POLICY
+
+PSE's policy is to protect the confidentiality of personal information and to comply with all laws governing the privacy and security of such information. "Personal information" includes your name, address, telephone number, and any other information capable of being associated with your household, "Customer Information" as defined in the Revised Code of Washington ("RCW") § 19.29A.010, and "personal information" as defined in RCW Chapter 19.255, and as otherwise defined by applicable law. PSE collects, retains, uses, and discloses personal information, including Customer Information, with your consent or in accordance with our business as a regulated utility service provider.
+
+This Privacy Policy sets forth the principles that guide PSE’s treatment of personal information. We may change this Privacy Policy from time to time. If we make changes, we will notify you, such as by revising the date at the top of this policy or by sending you a notice with your bill. We encourage you to review this Privacy Policy regularly to stay informed about our information practices and the choices available to you.
+
+If you are a California resident, please see the "California Privacy Rights" section.
+
+#### Our Commitment
+
+PSE takes its responsibility to maintain the confidentiality and security of personal information seriously. Our commitment to protect your personal information is reflected in these principles, which inform PSE's practices and procedures when dealing with such information:
+
+* **Choice.** We will not disclose your personal information to third parties for their own marketing purposes without your prior written consent.
+* **Notice.** We will inform you about our privacy practices by posting a privacy policy on our Web site and through other appropriate means.
+* **Confidentiality.** We will maintain the confidentiality of personal information and provide access to third parties only with your consent or to the extent necessary for PSE to perform duties directly related to PSE’s regulated utility business.
+* **Security.** We will use reasonable security practices and procedures to safeguard all personal information from unauthorized access or disclosure.
+* **Compliance with Laws, Rules and Regulations.** We will comply with all local, state and federal laws, rules and regulations applicable to the receipt, processing, storage, and sharing of personal information.
+
+### MORE INFORMATION
+
+#### What Personal Information Does PSE Collect?
+
+* **Information You Provide to Us.** We collect information you provide directly to us. For example, we collect information when you set up a utility account, use our mobile application, complete a survey, apply for a job, communicate with us through any channel, including but not limited to, through social media sites, and requesting customer support. The personal information we may collect directly from you includes:
+    * Your name, email address, postal address, phone number, date of birth, username and password, and security code. We may also collect your driver’s license number, vehicle identification number, passport number or last four of your social security number to authenticate you when you contact us about your utility services;
+    * Your credit card, debit card, or bank account information, stored and processed by a third party, that you use to pay for PSE products and services;
+    * Professional, employment, or education information, if you apply for employment with PSE; and
+    * Any other personal information that you choose to provide us.
+* **Information We Receive When You Use Our Utility Services.** If you are a PSE utility services customer, our gas and electric meters collect information such as energy consumption, diagnostic and connection information, meter ID, and meter status data. In the case of solar customers, the meters collect the amount of electricity delivered back to the grid by you.
+* **Information We Receive From Your Use of Our Other Services.** When you access or use our website or mobile application or services other than utility services, we may automatically collect some information in connection with those services too, including:
+    * Your IP address, Internet service provider (ISP), mobile advertising ID, media access control (MAC) address, and identifiers associated with browser cookies, web beacons, and similar technologies we deploy on our services;
+    * Records of products or services purchased; and
+    * Your browser type and operating system version, language settings, access times, pages viewed, the routes by which you access our services, and your use of any hyperlinks available within our services.
+* **Information We Collect From Other Sources.** Sometimes we also obtain information from other sources such as third-party agencies or identity verification services and combine that with information we collect through our services. The personal information we may collect from other sources may include:
+    * Your name, signature, account number, address, telephone, and email address and social security number;
+    * Your income range, age, disability status, household information, education level and type of employment, which we may collect to provide or offer you with low-income assistance or other benefits and services; and
+    * Professional, employment, education and other background information in connection with your application for employment opportunities.
+* **Information We Derive.** We may derive personal information or draw inferences about your preferences or characteristics based on the personal data we collect. For example, we may analyze your consumption history to infer your consumption patterns or tendencies so that we can better serve you.
+
+#### How Does PSE Use the Information That It Collects About Me?
+
+We collect and use personal information for business and commercial purposes, including to:
+
+* Develop, provide, maintain, and improve our products and services;
+* Develop and encourage energy efficiency programs;
+* Complete the transactions you request, process your orders, payments, and account adjustments, and initiate, render, bill, and collect payment for our services and products, perform our contractual obligations, and as otherwise anticipated within the context of our ongoing business relationship
+* Verify your identity and determine your eligibility for our services and the validity of your payment information;
+* Comply with and enforce our legal obligations, including those required for you to benefit from rights recognized by law, or any regulatory requirements or provisions;
+* Provide you with customer service and technical assistance and respond to your questions related to our services;
+* Create and manage your online accounts with us;
+* Carry out advertising and marketing activities on our behalf, including communicating with you through various channels such as email or text message;
+* Conduct internal research and development and make business decisions about current and future services;
+* Monitor, audit, and analyze usage patterns and trends in connection with our products and services, including customer interactions and transactions;
+* Understand your interests and behaviors to customize your experiences, including through personalized content, advertisements, and product and service offerings and suggestions;
+* Carry out certain short-term, transient activities and other reasonable internal purposes related to our provision of services or managing our relationship with you;
+* Detect security incidents and protect against illegal or objectionable activities, including unauthorized use of our services, investigate complaints and claims, and protect the rights, property, and safety of PSE and others;
+* Debug, identify and repair errors in our services and other activities to maintain and improve the quality and safety of our services; and
+* For any lawful or business purpose reasonably anticipated based on utility-customer relationship.
+
+#### Does PSE Share My Information with Third Parties?
+
+We do not sell your personal information, nor do we share personal information about you with third parties for their own marketing purposes without your consent.
+
+We share your information with contractors or service providers that perform services on our behalf. For example, we may share your information with such parties that we have contracted with to provide customer support, web hosting, information technology, payment processing, product fulfilment, fraud control, analytics, or legal, insurance or accounting services. We may also provide your information, in appropriate circumstances, to law enforcement or other persons involved in a legal proceeding when necessary to comply with legal requirements or to respond to claims, or to protect the rights, property or safety of PSE, our customers, our website users, our employees or the public. In addition, we may share personal information in the context of a corporate transaction; with your consent at your direction; or as otherwise described in this Privacy Policy. Finally, we may share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+#### What About Social Sharing Features?
+
+PSE’s services online may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+
+#### How Does PSE Secure My Information?
+
+PSE uses reasonable security practices and procedures to safeguard personal information within PSE’s possession or control from unauthorized access or disclosure.
+
+#### Does PSE Transfer My Information Abroad?
+
+No. PSE is based in the State of Washington within the United States and we process and store information in the U.S.
+
+#### What Are My Choices When It Comes to My Information?
+
+##### Online Account Information
+
+You may manage your preferences, update or correct information about you at any time by logging into your online account or contacting us as specified in the "Contact Us" section below. You may access your account and usage information by logging into your online account or contacting Customer Care at 1-888-225-5773; 1-800-962-9498 (TTY); 1-866-831-5161 (TRS). If you wish to delete or deactivate your online account, please email us at: [customercare@pse.com](mailto:customercare@pse.com). (Note that we may retain certain information as required by law or for legitimate business purposes and may also retain cached or archived copies of information about you for a certain period of time.)
+
+##### Contact Us
+
+PSE is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone and applying the relevant accessibility standards. If you have any questions about this Privacy Policy, please contact us at: [customercare@pse.com](mailto:customercare@pse.com), or you may call Customer Care at 1-888-225-5773; 1-800-962-9498 (TTY); 1-866-831-5161 (TRS). You may also write to us at Puget Sound Energy, BOT-01H, P.O. Box 97034, Bellevue, WA 98009-9735.
+
+### CALIFORNIA PRIVACY RIGHTS
+
+Residents of California that have a PSE account associated with property receiving utility services in Washington state are afforded certain rights with respect to their personal information under the "Shine the Light" Law (California Civil Code section 1798.83) and the California Consumer Privacy Act or "CCPA" (California Civil Code Section 1798.100 et seq), as amended by the California Privacy Rights Act ("CPRA"). Accordingly, if you reside in California, including if you are a business contact of PSE or one of or our vendors, these additional paragraphs may apply to you.
+
+_Shine the Light_
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. We will not disclose your personal information (as defined in the law) to non-affiliated third parties for their direct marketing purposes without your consent. PSE customers that reside in California who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and this Privacy Policy may contact us as specified in the "Contact Us" section below.
+
+_California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA)_
+
+Additional Disclosures Related to the Collection, Sharing, and Disclosure of Personal Information including Sensitive Personal Information
+
+**Categories of personal information collected from third parties:**
+
+In the preceding 12 months, we have collected the following categories of personal information: identifiers; personal information as described in Cal. Civ. Code Section 1798.80; characteristics of protected classifications under California or federal law; commercial information; geolocation data; demographic information; internet and electronic network activity information; financial information; professional or employment related information; education information; inferences drawn from any of the information listed above to create a profile about your preferences or characteristics. For details about the precise data points we collect and the categories of sources of such collection, please see "What Personal Information Does PSE Collect?" section above. We collect personal information for the business and commercial purposes described in the "How Does PSE Use the Information that it Collects About Me?" section above.
+
+**Data retention:**
+
+We store personal information for as long as necessary to carry out the purposes for which we originally collected it and for other legitimate business purposes, including to meet our legal, regulatory, or other compliance obligations.
+
+**Sensitive personal information:**
+
+Some of the personal information we collect constitutes "sensitive personal information," as defined by the CPRA. In the preceding 12 months, we have collected the following categories of sensitive personal information for the following commercial purposes.
+
+|     |     |
+| --- | --- |
+| **_Category of Sensitive Personal Information_** | **_Purpose of Collection_** |
+| Last four of your social security number, driver’s license number, state identification card number, and passport number | Account validation and verification purposes |
+| Account log-in and password | Facilitate access to online services |
+| Financial account, debit card, or credit card number in combination with required security or access code, password, or credentials allowing access to an account | Billing and related purposes |
+| Precise geolocation data | With your consent when using PSE’s mobile application within the service territory to provide information regarding power outages in your area |
+
+PSE does not use or disclose your sensitive personal information for purposes other than those authorized by Cal. Civ. Code Section 1798.121.
+
+**Sharing of personal information for the purposes of cross-context behavioral advertising:**
+
+PSE does not "share" your personal information with third parties for the purposes of cross-context behavioral advertising, whether or not for monetary consideration.
+
+**Sale of personal information:**
+
+PSE does not sell your personal information.
+
+**Disclosure of personal information for business purposes:**
+
+In the preceding 12 months, we have disclosed the following categories of personal information for business purposes to the following categories of recipients:
+
+|     |     |
+| --- | --- |
+| **_Category of Personal Information_** | **_Categories of Recipients_** |
+| * Identifiers<br>* Protected classification characteristics under California or federal law<br>* Commercial Information<br>* Geolocation data<br>* Inferences drawn from other personal information | Service Providers, Vendors, Contractors Which Provide Support to PSE for PSE to provide safe and reliable utility services to our customers |
+| * Identifiers<br>* Protected classification characteristics under California or federal law<br>* Commercial Information<br>* Internet or other similar network activity<br>* Geolocation data<br>* Inferences drawn from other personal information | Third Parties Receiving Personal Information Pursuant to a Valid Legal Warrant, Subpoena, Court Order or Legal or Regulatory Mandate |
+| * Identifiers<br>* Protected classification characteristics under California or federal law<br>* Commercial Information<br>* Internet or other similar network activity<br>* Geolocation data<br>* Inferences drawn from other personal information | Regulatory Agencies, including the Washington Utilities and Transportation Commission, and Federal, State or Local Agencies or Representatives with Authority to Obtain the Information |
+
+**Public commitment regarding de-identified data**
+
+In some circumstances, PSE may collect, use, disclose, or share your "de-identified data," meaning that such information cannot reasonably be used to infer information about, or otherwise be linked to, you. PSE commits to maintain and use such information in de-identified form, and not to attempt to re-identify the information, except for the purpose of determining whether its de-identification processes satisfy the requirements of the CPRA.
+
+**Your California Consumer Rights**
+
+In addition to the rights discussed above, PSE customers residing in California may also have the right, subject to certain limitations, to (1) request to know more about the categories and specific pieces of personal information we collect, use, sell, share, and disclose, (2) request deletion of your personal information, (3) request that inaccurate personal information about you be corrected, and (4) not to be discriminated against for exercising these rights. You may make these requests by contacting us at: [customercare@pse.com](mailto:customercare@pse.com), or you may call Customer Care at 1-888-225-5773; 1-800-962-9498 (TTY); 1-866-831-5161 (TRS). We will verify your request by asking you to provide information related to your recent interactions with us. We will not discriminate against you if you exercise your rights under the CCPA.
+
+If we receive your request from an authorized agent and they do not provide a valid power of attorney, we may ask the authorized agent to provide proof that you gave the agent signed permission to submit the request to exercise rights on your behalf. In the absence of a valid power of attorney, we may also require you to verify your own identity directly with us or confirm to us that you otherwise provided the authorized agent permission to submit the request.
+
+_Contact Us_
+
+PSE is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant accessibility standards. If you have any questions about this Privacy Policy, please contact us at: [customercare@pse.com](mailto:customercare@pse.com), or you may call Customer Care at 1-888-225-5773; 1-800-962-9498 (TTY); 1-866-831-5161 (TRS). You may also write to us at Puget Sound Energy, BOT-01H, P.O. Box 97034, Bellevue, WA 98009-9735.
+
+##### Privacy policy PDF
+
+Download a PDF version of our privacy policy below.
+
+[Download PDF](https://www.pse.com/-/media/PDFs/2023_PSE_Customer-facing-Privacy-Policy.pdf?rev=2bf73063d41d4605bef19fd81891da0e&sc_lang=en&modified=20230531150845)
 
 JOIN OUR TEAM
 
