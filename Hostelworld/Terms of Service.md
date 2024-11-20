@@ -15,7 +15,7 @@ USD
 Hostels Worldwide
 =================
 
-We have 12469 Hostels in 2598 cities.
+We have 12470 Hostels in 2598 cities.
 
 Where do you want to go?
 
