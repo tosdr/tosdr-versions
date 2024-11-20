@@ -111,6 +111,7 @@ Reddit User Agreement
             * [15.05.2024](https://redditinc.com/de-de/policies/reddit-contributor-monetization-de-de-2?hsLang=en)
             * [06.03.2024](https://redditinc.com/de-de/policies/reddit-contributor-monetization-de-de?hsLang=en)
         * [Bedingungen für Mitwirkende](https://redditinc.com/de-de/policies/earn-terms?hsLang=en)
+            * [24.09.2024](https://redditinc.com/de-de/policies/earn-terms-september-24-2024?hsLang=en)
             * [15.05.2024](https://redditinc.com/de-de/policies/contributor-terms-de-de-2?hsLang=en)
             * [06.03.2024](https://redditinc.com/de-de/policies/contributor-terms-de-de?hsLang=en)
         * [Developer Data Protection Addendum](https://redditinc.com/policies/developer-dpa?hsLang=en)
