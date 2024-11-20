@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, November 19 2024
+Wednesday, November 20 2024
 
 Latest
 
-* [Google slams reported forced Chrome sell-off, says “radical” move would harm businesses](https://digitpatrox.com/google-slams-reported-forced-chrome-sell-off-says-radical-move-would-harm-businesses/)
-* [Foxconn takes another big step toward AI iPhone manufacturing – Computerworld](https://digitpatrox.com/foxconn-takes-another-big-step-toward-ai-iphone-manufacturing-computerworld/)
-* [Use Google Maps to Find Out If a Holiday Gift Is in Stock](https://digitpatrox.com/use-google-maps-to-find-out-if-a-holiday-gift-is-in-stock/)
-* [Ransomware gang claims cyberattack that shut down a Pennsylvania school district](https://digitpatrox.com/ransomware-gang-claims-cyberattack-that-shut-down-a-pennsylvania-school-district/)
-* [How to move WSL distros to a different drive on Windows 11, 10](https://digitpatrox.com/how-to-move-wsl-distros-to-a-different-drive-on-windows-11-10/)
-* [2025 Kia K4 First Drive Review](https://digitpatrox.com/2025-kia-k4-first-drive-review/)
-* [6 Foldable Phone Misconceptions Busted](https://digitpatrox.com/6-foldable-phone-misconceptions-busted/)
-* [El Capitan powers up, becomes fastest supercomputer in the world](https://digitpatrox.com/el-capitan-powers-up-becomes-fastest-supercomputer-in-the-world/)
-* [Basic & Advanced Use Cases](https://digitpatrox.com/basic-advanced-use-cases/)
-* [Studio Chill vs Legend Hybrid mattress: which Leesa bed is best?](https://digitpatrox.com/studio-chill-vs-legend-hybrid-mattress-which-leesa-bed-is-best/)
+* [Niantic is building a ‘geospatial’ AI model based on Pokémon Go player data](https://digitpatrox.com/niantic-is-building-a-geospatial-ai-model-based-on-pokemon-go-player-data/)
+* [Today’s Wordle Answer and Hints for November 20, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-20-2024/)
+* [Egnyte names Elizabeth Hajjar as new EMEA sales chief](https://digitpatrox.com/egnyte-names-elizabeth-hajjar-as-new-emea-sales-chief/)
+* [CMA gives Google’s $2B Anthropic investment the green light](https://digitpatrox.com/cma-gives-googles-2b-anthropic-investment-the-green-light/)
+* [How to Speak With a Real Person at Home Depot Customer Service](https://digitpatrox.com/how-to-speak-with-a-real-person-at-home-depot-customer-service/)
+* [How to change mouse pointer size on Windows 10](https://digitpatrox.com/how-to-change-mouse-pointer-size-on-windows-10/)
+* [Gifts for Car Lovers That Promise Convenience, Fun, and Safety](https://digitpatrox.com/gifts-for-car-lovers-that-promise-convenience-fun-and-safety/)
+* [Microsoft Wants to Simplify the Windows Subsystem for Linux](https://digitpatrox.com/microsoft-wants-to-simplify-the-windows-subsystem-for-linux/)
+* [Business leaders face green ‘investment paralysis’ as concerns clash with climate targets](https://digitpatrox.com/business-leaders-face-green-investment-paralysis-as-concerns-clash-with-climate-targets/)
+* [Vishing, Wangiri, and Other VoIP Fraud Tactics On the Rise](https://digitpatrox.com/vishing-wangiri-and-other-voip-fraud-tactics-on-the-rise/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/KWnuenMsdyFzLapjnaFXAU-1200-80.jpg)](https://digitpatrox.com/google-slams-reported-forced-chrome-sell-off-says-radical-move-would-harm-businesses/)
+* [![](https://cdn.vox-cdn.com/thumbor/dC5CQVFu-2M-S_HDlG_Vd0rwkjE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/9045295/DSCF5354.jpg)](https://digitpatrox.com/niantic-is-building-a-geospatial-ai-model-based-on-pokemon-go-player-data/)
     
-    [Google slams reported forced Chrome sell-off, says “radical” move would harm businesses](https://digitpatrox.com/google-slams-reported-forced-chrome-sell-off-says-radical-move-would-harm-businesses/)
+    [Niantic is building a ‘geospatial’ AI model based on Pokémon Go player data](https://digitpatrox.com/niantic-is-building-a-geospatial-ai-model-based-on-pokemon-go-player-data/)
     
-    1 hour ago
+    3 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3608918-0-09075800-1732037286-ahmed-asaker-hU4xA9ItPDk-unsplash.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/foxconn-takes-another-big-step-toward-ai-iphone-manufacturing-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-20-2024/)
     
-    [Foxconn takes another big step toward AI iPhone manufacturing – Computerworld](https://digitpatrox.com/foxconn-takes-another-big-step-toward-ai-iphone-manufacturing-computerworld/)
+    [Today’s Wordle Answer and Hints for November 20, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-20-2024/)
     
-    1 hour ago
+    18 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JD194CK02N9V72NWP0Y5ZTWJ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/use-google-maps-to-find-out-if-a-holiday-gift-is-in-stock/)
+* [![](https://cdn.mos.cms.futurecdn.net/7nzdgfarxm4BhPmrjGKYh-1200-80.jpg)](https://digitpatrox.com/egnyte-names-elizabeth-hajjar-as-new-emea-sales-chief/)
     
-    [Use Google Maps to Find Out If a Holiday Gift Is in Stock](https://digitpatrox.com/use-google-maps-to-find-out-if-a-holiday-gift-is-in-stock/)
-    
-    2 hours ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Ransomware-attack-forces-PA-school-district-to-cancel-classes.jpg)](https://digitpatrox.com/ransomware-gang-claims-cyberattack-that-shut-down-a-pennsylvania-school-district/)
-    
-    [Ransomware gang claims cyberattack that shut down a Pennsylvania school district](https://digitpatrox.com/ransomware-gang-claims-cyberattack-that-shut-down-a-pennsylvania-school-district/)
+    [Egnyte names Elizabeth Hajjar as new EMEA sales chief](https://digitpatrox.com/egnyte-names-elizabeth-hajjar-as-new-emea-sales-chief/)
     
     2 hours ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/11/wsl-move-distro-new-drive-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-move-wsl-distros-to-a-different-drive-on-windows-11-10/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609030-0-40547200-1732050241-shutterstock_editorial_2382522423.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/cma-gives-googles-2b-anthropic-investment-the-green-light/)
     
-    [How to move WSL distros to a different drive on Windows 11, 10](https://digitpatrox.com/how-to-move-wsl-distros-to-a-different-drive-on-windows-11-10/)
+    [CMA gives Google’s $2B Anthropic investment the green light](https://digitpatrox.com/cma-gives-googles-2b-anthropic-investment-the-green-light/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JD2XH51ZW97BYXWCS8S9ACTT/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-speak-with-a-real-person-at-home-depot-customer-service/)
+    
+    [How to Speak With a Real Person at Home Depot Customer Service](https://digitpatrox.com/how-to-speak-with-a-real-person-at-home-depot-customer-service/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 hour ago
+* [3 minutes ago
     
-    ### Google slams reported forced Chrome sell-off, says “radical” move would harm businesses](https://digitpatrox.com/google-slams-reported-forced-chrome-sell-off-says-radical-move-would-harm-businesses/)
-* [1 hour ago
+    ### Niantic is building a ‘geospatial’ AI model based on Pokémon Go player data](https://digitpatrox.com/niantic-is-building-a-geospatial-ai-model-based-on-pokemon-go-player-data/)
+* [18 minutes ago
     
-    ### Foxconn takes another big step toward AI iPhone manufacturing – Computerworld](https://digitpatrox.com/foxconn-takes-another-big-step-toward-ai-iphone-manufacturing-computerworld/)
+    ### Today’s Wordle Answer and Hints for November 20, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-20-2024/)
 * [2 hours ago
     
-    ### Use Google Maps to Find Out If a Holiday Gift Is in Stock](https://digitpatrox.com/use-google-maps-to-find-out-if-a-holiday-gift-is-in-stock/)
+    ### Egnyte names Elizabeth Hajjar as new EMEA sales chief](https://digitpatrox.com/egnyte-names-elizabeth-hajjar-as-new-emea-sales-chief/)
 
 Most Popular Topics
 
+* [September 8, 2024
+    
+    ### How to watch Apple’s ‘Glowtime’ iPhone 16 event](https://digitpatrox.com/how-to-watch-apples-glowtime-iphone-16-event/)
 * [2 weeks ago
     
-    ### Today’s NYT Connections Hints and Answer for November 4 (#512)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-4-512/)
-* [3 weeks ago
+    ### Best Outdoor Security Cameras of 2024](https://digitpatrox.com/best-outdoor-security-cameras-of-2024/)
+* [September 30, 2024
     
-    ### The Pixel 9 Pro Is Great (If You Ignore the AI)](https://digitpatrox.com/the-pixel-9-pro-is-great-if-you-ignore-the-ai/)
-* [2 weeks ago
-    
-    ### AI-Assisted Attacks Top Cyber Threat For Third Consecutive Quarter, Gartner Finds](https://digitpatrox.com/ai-assisted-attacks-top-cyber-threat-for-third-consecutive-quarter-gartner-finds/)
+    ### The Penguin Episode 2: Who Is Julian Rush, a Potential Batman Villain?](https://digitpatrox.com/the-penguin-episode-2-who-is-julian-rush-a-potential-batman-villain/) 
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### 6 Foldable Phone Misconceptions Busted](https://digitpatrox.com/6-foldable-phone-misconceptions-busted/)
 * [3 hours ago
     
-    ### El Capitan powers up, becomes fastest supercomputer in the world](https://digitpatrox.com/el-capitan-powers-up-becomes-fastest-supercomputer-in-the-world/)
+    ### Gifts for Car Lovers That Promise Convenience, Fun, and Safety](https://digitpatrox.com/gifts-for-car-lovers-that-promise-convenience-fun-and-safety/)
 * [3 hours ago
     
-    ### Basic & Advanced Use Cases](https://digitpatrox.com/basic-advanced-use-cases/)
+    ### Microsoft Wants to Simplify the Windows Subsystem for Linux](https://digitpatrox.com/microsoft-wants-to-simplify-the-windows-subsystem-for-linux/)
+* [4 hours ago
+    
+    ### Business leaders face green ‘investment paralysis’ as concerns clash with climate targets](https://digitpatrox.com/business-leaders-face-green-investment-paralysis-as-concerns-clash-with-climate-targets/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
