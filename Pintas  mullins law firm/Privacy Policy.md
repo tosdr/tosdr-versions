@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Who qualifies for a sexual abuse claim against the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-scaled-e1681853603360-300x230.jpg "Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-qualifies-for-a-sexual-abuse-claim-against-the-mormon-church/ "Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?")
+[![What is the cancer causing ingredient in johnson & johnson?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-the-cancer-causing-ingredient-in-johnson-and-johnson-scaled.jpg "What Is the Cancer Causing Ingredient in Johnson & Johnson?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder "What Is the Cancer Causing Ingredient in Johnson & Johnson?")
 
-[#### Who Qualifies for a Sexual Abuse Claim Against the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-qualifies-for-a-sexual-abuse-claim-against-the-mormon-church/)
+[#### What Is the Cancer Causing Ingredient in Johnson & Johnson?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/cancer-causing-ingredient-in-talcum-powder)
 
-[![Can an elderly person die from bone fractures?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-an-elderly-person-die-from-bone-fractures-scaled.jpg "Can an Elderly Person Die from Bone Fractures?")](https://www.pintas.com/faq/can-an-elderly-person-die-from-bone-fractures/ "Can an Elderly Person Die from Bone Fractures?")
+[![Can you request a second opinion for an autopsy?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-request-a-second-opinion-for-an-autopsy.jpg "Can You Request a Second Opinion For an Autopsy?")](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/ "Can You Request a Second Opinion For an Autopsy?")
 
-[#### Can an Elderly Person Die from Bone Fractures?](https://www.pintas.com/faq/can-an-elderly-person-die-from-bone-fractures/)
+[#### Can You Request a Second Opinion For an Autopsy?](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/)
 
-[![What is considered neglect in a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-considered-neglect-in-a-nursing-home-scaled.jpg "What Is Considered Neglect in a Nursing Home?")](https://www.pintas.com/faq/what-is-considered-neglect-in-a-nursing-home/ "What Is Considered Neglect in a Nursing Home?")
+[![What is the difference between asbestosis and lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-the-difference-between-asbestosis-and-lung-cancer.jpg "What Is the Difference Between Asbestosis and Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/asbestosis-vs-lung-cancer "What Is the Difference Between Asbestosis and Lung Cancer?")
 
-[#### What Is Considered Neglect in a Nursing Home?](https://www.pintas.com/faq/what-is-considered-neglect-in-a-nursing-home/)
+[#### What Is the Difference Between Asbestosis and Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/asbestosis-vs-lung-cancer)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
