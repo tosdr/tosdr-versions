@@ -381,10 +381,6 @@ PO Box 582
 Rangiora 7440  
 New Zealand
 
-### [![StepsWeb](https://www.stepsweb.com/hs-fs/hubfs/StepsWeb.png?width=162&name=StepsWeb.png)](https://www.stepsweb.com/?hsLang=en)
-
-Email: [info@stepsweb.com](mailto:info@stepsweb.com)
-
 [](https://www.youtube.com/channel/UCj9UBGc6jftxA6e_IahSxmw?sub_confirmation=1)[](https://www.facebook.com/228275567199711)[](https://www.linkedin.com/company/4300497)[](https://twitter.com/StepsWeb)
 
 * [Contact Us](https://www.stepsweb.com/contact-us)
