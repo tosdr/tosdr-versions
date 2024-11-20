@@ -22,7 +22,7 @@ Expand Globally with Accurate Subtitles in 17 Lanaguages](https://www.rev.com/se
 
 Ignite Your Productivity
 
-Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work. Coming soon.
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
 
 [Explore VoiceHub](https://www.rev.com/services/voicehub)
 
@@ -52,7 +52,7 @@ Empower Smarter Civic Decisions with AI Insights](https://www.rev.com/solutions/
 
 Ignite Your Productivity
 
-Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work. Coming soon.
+Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change the way you work.
 
 [Explore VoiceHub](https://www.rev.com/services/voicehub)
 
