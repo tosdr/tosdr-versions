@@ -294,15 +294,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-A picture of Gandalf the Grey (from The Lord of the Rings) can be seen in the collection of great wizards in Albus Dumbledore’s study in the Harry Potter and the Chamber of Secrets film.
+The Hogwarts Express locomotive in this film is portrayed by the 1937 GWR 4900 Class 5972 Olton Hall. It has been on display at Warner Bros. Studio Tour London – The Making of Harry Potter since 2015.
 
 ### Potter History
 
-February 17, 2005 – A visitor of the Goblet of Fire set told MuggleNet that only Sirius’s head would make an appearance during the fireplace scene, making Gary Oldman fans upset at his minor appearance.
+May 29, 2010 – MuggleNet 2.0 launches.
 
 ### Potter Quote
 
-“Harry — yer a wizard.”
+“I don’t go looking for trouble. Trouble usually finds me.”
 
 [](#)
 
