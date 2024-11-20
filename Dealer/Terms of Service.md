@@ -49,7 +49,7 @@ Search For :
 
 Search For : 
 
-[Search](#) [Login](https://apps.dealer.com/welcome/)
+[Search](#) [Login](http://apps.dealercenter.coxautoinc.com/)
 
 [Get Started](https://www.dealer.com/demo)
 
