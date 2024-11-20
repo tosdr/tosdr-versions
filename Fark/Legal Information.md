@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more stories with less ads? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+$10 a month since 19 aught diddly.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this parking problem](https://www.fark.com/goto/13465170) ( [dims.apnews.com](https://www.fark.com/goto/13465170) ) » [(12 comments)](https://www.fark.com/comments/13465170/Photoshop-this-parking-problem) |
-| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13468254) ( [fark.com](https://www.fark.com/goto/13468254) ) » [(1 comment)](https://www.fark.com/comments/13468254/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Sports](https://www.fark.com/sports/) | [At least in the chaos of a mad and unforgiving world, one thing is for certain: by November, we will be wondering if the Browns will fire their head coach](https://www.fark.com/goto/13468274) ( [espn.com](https://www.fark.com/goto/13468274) ) » [(4 comments)](https://www.fark.com/comments/13468274/At-least-in-chaos-of-a-mad-unforgiving-world-one-thing-is-for-certain-by-November-we-will-be-wondering-if-Browns-will-fire-their-head-coach) |
-| [Business](https://www.fark.com/business/) | [In a sign of how far the once mighty Intel has faloen, the world's fastest supercomputer now runs on AMD chips](https://www.fark.com/goto/13468312) ( [spectrum.ieee.org](https://www.fark.com/goto/13468312) ) » [(0 comments)](https://www.fark.com/comments/13468312/In-a-sign-of-how-far-once-mighty-Intel-has-faloen-worlds-fastest-supercomputer-now-runs-on-AMD-chips) |
-| [STEM](https://www.fark.com/stem/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13468254) ( [fark.com](https://www.fark.com/goto/13468254) ) » [(1 comment)](https://www.fark.com/comments/13468254/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Al Green is here to remind you that sometimes everybody hurts](https://www.fark.com/goto/13468380) ( [avclub.com](https://www.fark.com/goto/13468380) ) » [(2 comments)](https://www.fark.com/comments/13468380/Al-Green-is-here-to-remind-you-that-sometimes-everybody-hurts) |
-| [Fandom](https://www.fark.com/fandom/) | [Leaky Valve results in Steam Controller 2 coming soon](https://www.fark.com/goto/13468250) ( [theverge.com](https://www.fark.com/goto/13468250) ) » [(1 comment)](https://www.fark.com/comments/13468250/Leaky-Valve-results-in-Steam-Controller-2-coming-soon) |
-| [D'awww](https://www.fark.com/dawww/) | [I'm going on an Adventure. And I'm taking my cat](https://www.fark.com/goto/13468198) ( [opb.org](https://www.fark.com/goto/13468198) ) » [(1 comment)](https://www.fark.com/comments/13468198/Im-going-on-an-Adventure-And-Im-taking-my-cat) |
-| [Food](https://www.fark.com/food/) | [Can't get enough of pizza? Well, have a pizza wine to go with your gourmet meal](https://www.fark.com/goto/13468370) ( [thetakeout.com](https://www.fark.com/goto/13468370) ) » [(1 comment)](https://www.fark.com/comments/13468370/Cant-get-enough-of-pizza-Well-have-a-pizza-wine-to-go-with-your-gourmet-meal) |
-| [Politics](https://www.fark.com/politics/) | [Do not obey in advance](https://www.fark.com/goto/13468166) ( [kottke.org](https://www.fark.com/goto/13468166) ) » [(20 comments)](https://www.fark.com/comments/13468166/Do-not-obey-in-advance) |
+| [Main](https://www.fark.com/) | [Army reservist earns astronaut wings, advised to grab gun and bring in the cat](https://www.fark.com/goto/13468404) ( [army.mil](https://www.fark.com/goto/13468404) ) » [(1 comment)](https://www.fark.com/comments/13468404/Army-reservist-earns-astronaut-wings-advised-to-grab-gun-bring-in-cat) |
+| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13468254) ( [fark.com](https://www.fark.com/goto/13468254) ) » [(81 comments)](https://www.fark.com/comments/13468254/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Sports](https://www.fark.com/sports/) | [The first NHL team to fire their head coach in the 2024-2025 season is... \*checks notes\* the Boston Bruins who are currently holding onto the second wildcard spot in the Eastern Conference](https://www.fark.com/goto/13468318) ( [nhl.com](https://www.fark.com/goto/13468318) ) » [(1 comment)](https://www.fark.com/comments/13468318/The-first-NHL-team-to-fire-their-head-coach-in-2024-2025-season-is-checks-notes-Boston-Bruins-who-are-currently-holding-onto-second-wildcard-spot-in-Eastern-Conference) |
+| [Business](https://www.fark.com/business/) | [Yet another member of Forbes' "30 under 30" is facing fraud charges](https://www.fark.com/goto/13468456) ( [businessinsider.com](https://www.fark.com/goto/13468456) ) » [(2 comments)](https://www.fark.com/comments/13468456/Yet-another-member-of-Forbes-30-under-30-is-facing-fraud-charges) |
+| [STEM](https://www.fark.com/stem/) | [There's no such thing as bad publicity: igNobel winners tell how the award helped them. Well, apart for the homosexual necrophiliac ducks guy](https://www.fark.com/goto/13468348) ( [nature.com](https://www.fark.com/goto/13468348) ) » [(11 comments)](https://www.fark.com/comments/13468348/Theres-no-such-thing-as-bad-publicity-igNobel-winners-tell-how-award-helped-them-Well-apart-for-homosexual-necrophiliac-ducks-guy) |
+| [Entertainment](https://www.fark.com/entertainment/) | [The guy Diddy framed for a nightclub shooting tried to tell y'all about him, but you wouldn't listen. S'alright though, Shyne has done OK for himself since prison and may be running the country of Belize soon](https://www.fark.com/goto/13467990) ( [msn.com](https://www.fark.com/goto/13467990) ) » [(0 comments)](https://www.fark.com/comments/13467990/The-guy-Diddy-framed-for-a-nightclub-shooting-tried-to-tell-yall-about-him-but-you-wouldnt-listen-Salright-though-Shyne-has-done-OK-for-himself-since-prison-may-be-running-country-of-Belize-soon) |
+| [Fandom](https://www.fark.com/fandom/) | [The newest iteration of Microsoft Flight Simulator is so realistic, it even features an hours-long delay on the tarmac before you can take off](https://www.fark.com/goto/13468300) ( [ign.com](https://www.fark.com/goto/13468300) ) » [(8 comments)](https://www.fark.com/comments/13468300/The-newest-iteration-of-Microsoft-Flight-Simulator-is-so-realistic-it-even-features-an-hours-long-delay-on-tarmac-before-you-can-take-off) |
+| [D'awww](https://www.fark.com/dawww/) | [I'm going on an Adventure. And I'm taking my cat](https://www.fark.com/goto/13468198) ( [opb.org](https://www.fark.com/goto/13468198) ) » [(2 comments)](https://www.fark.com/comments/13468198/Im-going-on-an-Adventure-And-Im-taking-my-cat) |
+| [Food](https://www.fark.com/food/) | [College students mount a vigil at impromptu shrine. For a closed McDonalds](https://www.fark.com/goto/13468178) ( [the-sun.com](https://www.fark.com/goto/13468178) ) » [(7 comments)](https://www.fark.com/comments/13468178/College-students-mount-a-vigil-at-impromptu-shrine-For-a-closed-McDonalds) |
+| [Politics](https://www.fark.com/politics/) | [Slate is here to help you plan how much Doomspending you need to do in advance of Trump's upcoming term. DOOM](https://www.fark.com/goto/13468180) ( [slate.com](https://www.fark.com/goto/13468180) ) » [(11 comments)](https://www.fark.com/comments/13468180/Slate-is-here-to-help-you-plan-how-much-Doomspending-you-need-to-do-in-advance-of-Trumps-upcoming-term-DOOM) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 19 2024 20:43:15  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 20 2024 01:43:27  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
