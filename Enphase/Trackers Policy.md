@@ -14,7 +14,7 @@
     
     Explore
     
-    [Enphase for home](https://enphase.com/homeowners) [Enphase App](https://enphase.com/homeowners/enphase-app) [Microinverters](https://enphase.com/homeowners/home-solar-systems) [Batteries](https://enphase.com/homeowners/home-solar-batteries) [EV chargers](https://enphase.com/ev-chargers/home)
+    [Enphase for home](https://enphase.com/homeowners) [Enphase App](https://enphase.com/homeowners/enphase-app) [Microinverters](https://enphase.com/homeowners/home-solar-systems) [Batteries](https://enphase.com/homeowners/home-solar-batteries) [EV chargers](https://enphase.com/ev-chargers/home) [Portable energy](https://enphase.com/homeowners/portable-energy)
     
     Get Enphase
     
@@ -327,7 +327,7 @@ Your session expired. Please login again to continue to purchase.
     * [Accessories](https://enphase.com/installers/accessories)
     * [Apps](https://enphase.com/installers/apps)
     * [Documentation](https://enphase.com/installers/resources/documentation)
-    * [Training](https://enphase.com/installers/training)
+    * [Training](https://enphase.com/installers/training-and-certifications)
     * [Resources](https://enphase.com/installers/resources)
     * [O&M Marketplace](https://enphase.com/installers/om-marketplace)
     * [Leads Program](https://start.enphase.com/appointments-program-signup)
