@@ -1125,7 +1125,7 @@ Free standard shipping on any $35 purchase
     * [Ear Piercing](https://www.ulta.com/beautyservices/ear-piercing)
         
     
-* [Early Black Friday Deals](https://www.ulta.com/promotion/black-friday)
+* [Preview Black Friday](https://www.ulta.com/promotion/black-friday)
     
 
 * [](https://www.ulta.com/bag)
