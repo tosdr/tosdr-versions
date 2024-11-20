@@ -117,57 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Johan Botha - Brand Xplosion
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=55167726)  
-Frameless Fanatix (Pty) Ltd.
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=139515652)  
+Enhle Oarabile Kea
 
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=158649318)  
-Sophia's Roses
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=178947364)  
+Super Sound Man (PTY) Ltd
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=51920501)  
-Moremi Kitchens Rustenburg
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=41596229)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=181488095)  
-Oukraal Merino's
-
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=152910520)  
-One2b
-
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=132185652)  
-Wiselink Broadband Dundee
-
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=28222045)  
-Blue Sky Solar Services
-
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=56241298)  
-Cooper Logistics (Pty) Ltd
-
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=24726313)  
-United Paintball Federation
-
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=135241166)  
-Blue Bulls Rugby Coaches Association
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=18959847)  
-Durbanville Classifieds (Pty) Ltd
-
-![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=50998957)  
-UniTech Solutions Pty Ltd
-
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=87436760)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=94288b29a307513f307ca22d13cdeacba630d9daa2e669fa02b798984622aae2&c=165037490)  
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=106736356)  
 Peter Salvage Pty Ltd
+
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=51249894)  
+Cooper Power Cape Town (Pty) Ltd
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=92107750)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=24563159)  
+Bchange Online CC
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=137812975)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=110065422)  
+Know Informatics
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=205005100)  
+Highlands Auto Engineering
+
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=17995533)  
+MONSTER SECURITY GUARDING
+
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=145869140)  
+De light Investments(Pty)Ltd trading as Serene Memorials
+
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=130278504)  
+Electro-Heat
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=144749485)  
+Dombieterfontein (PTY) LTD
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=8626284)  
+Nogana Events and Decor
+
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=26ec5c84fc1b8f3d71b0b9d7a75286ff7d2438b2535d2a0bb58087671493257e&c=45062772)  
+Immediate Health (pty)ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
