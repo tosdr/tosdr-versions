@@ -1,4 +1,4 @@
-[![](https://a.storyblok.com/f/176646/1360x400/77042cdab2/bitpanda-fcb-acm-nfl-logos.gif)](https://www.bitpanda.com/en)
+[![](https://cdn.bitpanda.com/media/bitpanda-fcb-acm-nfl-logos.gif)](https://www.bitpanda.com/en)
 
 Invest
 
@@ -100,7 +100,7 @@ Bitpanda AcademyLearn everything you need to know about personal finance, digita
 
 CRYPTOHow to start trading cryptocurrencies](https://www.bitpanda.com/academy/en/lessons/how-to-start-trading-cryptocurrencies)[![](https://a.storyblok.com/f/176646/4167x2500/278190baf1/bitcoin-spot-etf-explained.png)
 
-BITCOINBitcoin ETFs explained](https://www.bitpanda.com/academy/en/lessons/bitcoin-etfs-explained)[![](https://a.storyblok.com/f/176646/16000x9000/45ed3ba3ef/bitpanda-academy-expert-13-what-is-staking-in-crypto-header.png)
+BITCOINBitcoin ETFs explained](https://www.bitpanda.com/academy/en/lessons/bitcoin-etfs-explained)[![](https://cdn.bitpanda.com/media/bitpanda-academy-expert-13-what-is-staking-in-crypto-header.png)
 
 STAKINGWhat is staking?](https://www.bitpanda.com/academy/en/lessons/what-is-staking)
 
@@ -114,7 +114,7 @@ Bitpanda BlogBe the first to learn the latest news, announcements, and stories f
 
 BITCOINBitcoin (BTC) reaches new all time high](https://blog.bitpanda.com/en/bitcoin-btc-reaches-new-all-time-high-whats-driving-growth)[![](https://a.storyblok.com/f/176646/2000x1200/e382042076/invest-zero-deposit-fees.png)
 
-FEESInvest with zero deposit fees](https://blog.bitpanda.com/en/invest-zero-deposit-fees)[![](https://a.storyblok.com/f/176646/2000x1200/327cb5b733/limit_orders.png)
+FEESInvest with zero deposit fees](https://blog.bitpanda.com/en/invest-zero-deposit-fees)[![](https://cdn.bitpanda.com/media/limit_orders.png)
 
 LIMIT ORDERSInvest on autopilot with Bitpanda Limit Orders](https://blog.bitpanda.com/en/new-invest-on-autopilot-with-bitpanda-limit-orders)
 
@@ -134,7 +134,7 @@ Bitpanda BusinessInvest your business idle cash in 3000+ digital assets - safely
 
 Our custodial wallet for your business
 
-[![](https://a.storyblok.com/f/176646/1024x1024/1ee5d82842/bpc-b-logo-rounded-square.png)
+[![](https://cdn.bitpanda.com/media/bpc-b-logo-rounded-square.png)
 
 Bitpanda CustodyInsured, user-friendly custodial wallet platform for institutional-grade security, automation and management of cryptoassets](https://custody.bitpanda.com/)
 
@@ -167,7 +167,7 @@ en
 
 [Sign-up](https://account.bitpanda.com/en/register)
 
-[![](https://a.storyblok.com/f/176646/1360x400/77042cdab2/bitpanda-fcb-acm-nfl-logos.gif)](https://www.bitpanda.com/en)
+[![](https://cdn.bitpanda.com/media/bitpanda-fcb-acm-nfl-logos.gif)](https://www.bitpanda.com/en)
 
 [Log in](https://account.bitpanda.com/login)
 
