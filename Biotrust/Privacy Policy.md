@@ -358,7 +358,7 @@ USA
 
 **Last Revised Date:** February 3, 2021
 
-40% Savings and Free Shipping On All Subscriptions
+Up to 50% Savings and Free Shipping On All Subscriptions
 
 60-Day Money Back Guarantee On All Purchases
 
