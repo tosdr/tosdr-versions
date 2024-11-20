@@ -30,9 +30,9 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Trump transition](https://www.japantimes.co.jp/tag/donald-trump/ "Trump transition")
+* [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
 * [LDP / DPP](https://www.japantimes.co.jp/tag/LDP/ "LDP / DPP")
-* [‘Yami baito’ burglaries](https://www.japantimes.co.jp/tag/theft/ "‘Yami baito’ burglaries")
+* [Russia-Ukraine war](https://www.japantimes.co.jp/tag/russia-ukraine-war/ "Russia-Ukraine war")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Ukraine hits Russia with U.S. ATACMS missiles for first time](https://www.japantimes.co.jp/news/2024/11/19/world/ukraine-us-missiles-russia-first-hit/ "Ukraine hits Russia with U.S. ATACMS missiles for first time")
+[Development banks seek private money for climate change fight](https://www.japantimes.co.jp/business/2024/11/20/economy/development-banks-private-money-climate/ "Development banks seek private money for climate change fight")
 
-8 hours ago
+1 mins ago
 
-[Mass casualty attacks in China put focus on mental health as economy slows](https://www.japantimes.co.jp/news/2024/11/19/asia-pacific/society/china-mass-attacks-society-health/ "Mass casualty attacks in China put focus on mental health as economy slows")
+[Ishiba vows to conclude talks on policy activity funds soon](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/ishiba-policy-activity-funds/ "Ishiba vows to conclude talks on policy activity funds soon")
 
-8 hours ago
+34 mins ago
 
-[Car rams into students outside China primary school, hurting several people](https://www.japantimes.co.jp/news/2024/11/19/asia-pacific/crime-legal/china-car-ramming/ "Car rams into students outside China primary school, hurting several people")
+[Japan’s exports grow, helped by China even as global risks rise](https://www.japantimes.co.jp/business/2024/11/20/economy/japan-exports-grow/ "Japan’s exports grow, helped by China even as global risks rise")
 
-9 hours ago
+1 hour ago
 
-[Reelected Hyogo governor vows to serve with a 'humble heart'](https://www.japantimes.co.jp/news/2024/11/19/japan/politics/hyogo-governor-first-day-return/ "Reelected Hyogo governor vows to serve with a 'humble heart'")
+[China’s chip advances stall as U.S. curbs hit Huawei AI product](https://www.japantimes.co.jp/business/2024/11/20/tech/china-chip-us-curbs-huawei-ai/ "China’s chip advances stall as U.S. curbs hit Huawei AI product")
 
-9 hours ago
+1 hour ago
 
-[Japan police arrest executive of group referring women to sex trade](https://www.japantimes.co.jp/news/2024/11/19/japan/crime-legal/japan-police-arrest-sex-trade-executive/ "Japan police arrest executive of group referring women to sex trade")
+[WHO approves Japanese pharmaceutical company's mpox vaccine](https://www.japantimes.co.jp/news/2024/11/20/japan/who-approves-japan-mpox-vaccine/ "WHO approves Japanese pharmaceutical company's mpox vaccine")
 
-10 hours ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
