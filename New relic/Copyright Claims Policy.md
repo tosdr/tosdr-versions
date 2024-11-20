@@ -339,29 +339,29 @@ Without waiving or limiting New Relic’s right to determine what constitutes a 
 
 **Updated: November 15, 2021**
 
-Company
+COMPANY
 
-Company
+COMPANY
 
 * [About Us](https://newrelic.com/about)
 * [Careers](https://newrelic.com/about/culture)
 * [Leadership](https://newrelic.com/about/leadership)
-* [Social Impact](https://newrelic.org/)
+* [Social Impact](https://newrelic.com/social-impact)
 * [Code of Conduct](https://newrelic.com/sites/default/files/2024-02/New-Relic-Code-of-Conduct-Feb-2024.pdf)
 * [ESG](https://newrelic.com/about/environmental-social-governance)
 * [Suppliers Portal](https://newrelic.com/procurement/suppliers)
 
-Product
+PRODUCT
 
-Product
+PRODUCT
 
 * [Integrations](https://newrelic.com/instant-observability)
 * [Platform](https://newrelic.com/platform)
 * [Security](https://newrelic.com/security)
 
-Value
+VALUE
 
-Value
+VALUE
 
 * [Pricing](https://newrelic.com/pricing)
 * [New Relic Free Tier](https://newrelic.com/pricing/free-tier)
@@ -369,9 +369,9 @@ Value
 * [New Relic vs Dynatrace](https://newrelic.com/competitive-comparison/newrelic-vs-dynatrace)
 * [New Relic vs Splunk](https://newrelic.com/competitive-comparison/splunk)
 
-Resources
+RESOURCES
 
-Resources
+RESOURCES
 
 * [Blog](https://newrelic.com/blog)
 * [Customer Case Studies](https://newrelic.com/customers)
@@ -382,9 +382,9 @@ Resources
 * [Partner Program](https://newrelic.com/solutions/partners)
 * [2024 Observability Forecast](https://newrelic.com/resources/report/observability-forecast/2024)
 
-FAQs
+FAQS
 
-FAQs
+FAQS
 
 * [What is Infrastructure Monitoring?](https://newrelic.com/blog/best-practices/what-is-infrastructure-monitoring)
 * [What is Observability?](https://newrelic.com/blog/best-practices/what-is-observability)
