@@ -76,6 +76,7 @@
         * * RESOURCES
                 
             * [Free Tools](https://www.thryv.com/free-tools)
+            * [Partners](https://www.thryv.com/partners/)
             * [Help Center](https://learn.thryv.com/hc)
             * [Events](https://www.thryv.com/webinars-and-events/#events)
             * [Webinars](https://www.thryv.com/webinars-and-events/#webinars)
