@@ -317,8 +317,6 @@ Katarinavägen 17,
 
 This Terms of Service were last updated on 29/7/2024
 
-![](/_next/static/media/notifications-disabled.e5a3a203.svg)
-
 Friends
 
 Notifications
