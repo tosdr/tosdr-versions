@@ -1,6 +1,6 @@
 [![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b0c_logo-white1.svg)![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b0d_logo-blue1.svg)](https://www.admarketplace.com/)
 
-[Advertisers](https://www.admarketplace.com/advertisers)[Publishers](https://www.admarketplace.com/publishers)[Solutions](https://www.admarketplace.com/solutions)
+[Advertisers](https://www.admarketplace.com/advertiser)[Publishers](https://www.admarketplace.com/publisher)[Solutions](https://www.admarketplace.com/solutions)
 
 Resources
 
@@ -485,7 +485,7 @@ adMarketplace Inc.
 New York, NY 10016 USA  
 Tel. +1 212 925 2022
 
-[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64fae83a665953d8193077f4_logo-blue1.svg)](https://www.admarketplace.com/)
+[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64fae83a665953d8193077f4_logo-blue1.svg)](https://www.admarketplace.com/old-home)
 
 [![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f831e9a8f8f3a6d82bb8e1_youtube%20(1).svg)](https://www.youtube.com/channel/UCLzGX9I0a8VH1meBVbXWOaQ)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f831e9c1c7d5c2cdc7202d_x%20(1).svg)](https://twitter.com/admarketplace?lang=en)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f831e848f32807780de9f3_in%20(1).svg)](https://www.linkedin.com/company/admarketplace/)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f831e9c0bf005c90df2ad5_inst%20(1).svg)](https://www.instagram.com/admarketplace/?hl=en)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f831e9b531ecb990780a22_fb%20(1).svg)](https://www.facebook.com/admarketplaceofficial/)
 
