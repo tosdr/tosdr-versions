@@ -1,14 +1,14 @@
-[![ej-technologies](/assets/design/logos/logo-ffa58ad3372b6ad9772e29c573a2024.svg)](https://www.ej-technologies.com/)
+[![ej-technologies](/assets/design/logos/logo-cb2c8c423f1ce3709048b15662dbcee6.svg)](https://www.ej-technologies.com/)
 
-[![ej-technologies](/assets/design/logos/logo-ffa58ad3372b6ad9772e29c573a2024.svg)](https://www.ej-technologies.com/)
+[![ej-technologies](/assets/design/logos/logo-cb2c8c423f1ce3709048b15662dbcee6.svg)](https://www.ej-technologies.com/)
 
 * [Products](#)
     
-    [![](/assets/design/logos/logo-jprofiler-816232e779eaf497bc7938d472bd62d.svg)
+    [![](/assets/design/logos/logo-jprofiler-b4fcd8cec4a32e765b9e8bcf9b3dc5f.svg)
     
     JProfiler
     
-    The Java profiler for professionals](https://www.ej-technologies.com/jprofiler)[![](/assets/design/logos/logo-install4j-8539f8836b9eeb8c17bd55342725e44c.svg)
+    The Java profiler for professionals](https://www.ej-technologies.com/jprofiler)[![](/assets/design/logos/logo-install4j-f299ba867c51748cd7ee7e3bca61642a.svg)
     
     install4j
     
@@ -18,11 +18,11 @@
     
     Companion Products:
     
-    [![](/assets/design/logos/logo-perfino-30a9824f836e1dd654533ad48a9d649.svg)
+    [![](/assets/design/logos/logo-perfino-fe23f9473e9218c8fcdbfa26baf.svg)
     
     perfino
     
-    Profile Java applications in production](https://www.ej-technologies.com/perfino)[![](/assets/design/logos/logo-exe4j-6a452859f0d0ee60858269c092dbfa.svg)
+    Profile Java applications in production](https://www.ej-technologies.com/perfino)[![](/assets/design/logos/logo-exe4j-d45d1b5df04b5d8b9eb78971d4af842.svg)
     
     exe4j
     
