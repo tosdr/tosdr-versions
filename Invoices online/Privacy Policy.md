@@ -117,61 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Thanks Adriaan...
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Johan Botha - Brand Xplosion
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=103733669)  
-Kaylas Creations
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=166744646)  
+Firstweb Hosting & Design
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=145602307)  
-Website Café (PTY) LTD
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=212030420)  
+Skinz Printing & Branding
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=16685973)  
-TurboFibre
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=202233900)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=58305710)  
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=187915376)  
+Druce Digital
+
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=90339647)  
 J.M. HUMAN RESOURCES
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=158607103)  
-Roamfree Boerdery (PTY) LTD
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=14008265)  
+Salvage Genie
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=51419283)  
-Brilliant Roof Products
-
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=56627493)  
-Goju Ryu Karate Centre
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=73438411)  
-Baby Toddles Infant Care
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=19107866)  
-Entidee Enterprise PTY (ltd)
-
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=52596210)  
-RADIO TYGERBERG 104FM NPC
-
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=1553657)  
-Calonet
-
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=71872961)  
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=168743648)  
 Konsortium Operations (PTY) LTD
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=45106191)  
-Desygn
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=88748052)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=104075384)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=131573126)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=155235432)  
-Nogana Events and Decor
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=23744061)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=139647330)  
+BD Maintenance
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=105379755)  
+ELLIE'S CLEANING CHICKS
+
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=169170363)  
+Moulded Wax SA - The Candle Store
+
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=93335879)  
+Testpro Laboratory (Pty) Ltd
+
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=daa78973a7108813670702058cc4f8305ffde07a301219b08217e7ba07f9047b&c=27441352)  
+Alliance Energy
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
