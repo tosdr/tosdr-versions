@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 20, 2024](https://www.japantimes.co.jp/archive/2024/11/20/ "archive page")
+[November 21, 2024](https://www.japantimes.co.jp/archive/2024/11/21/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -139,17 +139,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/434967.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.")](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
 
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
 [China may soon resume visa exemptions for Japanese nationals, reports say](https://www.japantimes.co.jp/business/2024/11/19/economy/china-japan-visa/ "China may soon resume visa exemptions for Japanese nationals, reports say")
 
   [![A view inside Beijing Daxing International Airport. Japanese nationals could soon visit China without a visa for up to 15 days, according to reports.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/435016.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A view inside Beijing Daxing International Airport. Japanese nationals could soon visit China without a visa for up to 15 days, according to reports.")](https://www.japantimes.co.jp/business/2024/11/19/economy/china-japan-visa/ "China may soon resume visa exemptions for Japanese nationals, reports say")
 
-[Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
+[Why Yamanashi gave up building a light-rail system on Mount Fuji](https://www.japantimes.co.jp/news/2024/11/19/japan/society/yamanashi-mount-fuji-lrt-scrapped/ "Why Yamanashi gave up building a light-rail system on Mount Fuji")
 
-  [![A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434565.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
-
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+  [![A rubber-tired tram system, tentatively called the “Fuji Tram,” would run along magnetic markers, reducing environmental damage, according to the Yamanashi Prefectural Government.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/435001.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A rubber-tired tram system, tentatively called the “Fuji Tram,” would run along magnetic markers, reducing environmental damage, according to the Yamanashi Prefectural Government.")](https://www.japantimes.co.jp/news/2024/11/19/japan/society/yamanashi-mount-fuji-lrt-scrapped/ "Why Yamanashi gave up building a light-rail system on Mount Fuji")
 
 Editors' Picks
 --------------
@@ -170,6 +170,14 @@ By [Masaki Kondo](https://www.japantimes.co.jp/author/1215/masaki-kondo/ "Masaki
 
   [![The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/434967.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.")](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
 
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
 [China may soon resume visa exemptions for Japanese nationals, reports say](https://www.japantimes.co.jp/business/2024/11/19/economy/china-japan-visa/ "China may soon resume visa exemptions for Japanese nationals, reports say")
@@ -180,17 +188,11 @@ By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Franci
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
+[Why Yamanashi gave up building a light-rail system on Mount Fuji](https://www.japantimes.co.jp/news/2024/11/19/japan/society/yamanashi-mount-fuji-lrt-scrapped/ "Why Yamanashi gave up building a light-rail system on Mount Fuji")
 
-  [![A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434565.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
-
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+  [![A rubber-tired tram system, tentatively called the “Fuji Tram,” would run along magnetic markers, reducing environmental damage, according to the Yamanashi Prefectural Government.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/435001.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A rubber-tired tram system, tentatively called the “Fuji Tram,” would run along magnetic markers, reducing environmental damage, according to the Yamanashi Prefectural Government.")](https://www.japantimes.co.jp/news/2024/11/19/japan/society/yamanashi-mount-fuji-lrt-scrapped/ "Why Yamanashi gave up building a light-rail system on Mount Fuji")
 
 Podcast
 -------
@@ -211,9 +213,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[U.S. envoy en route to Israel in bid toward ceasefire with Hezbollah](https://www.japantimes.co.jp/news/2024/11/21/world/politics/israel-hezbollah-ceasefire-talks/ "U.S. envoy en route to Israel in bid toward ceasefire with Hezbollah")
+
+45 mins ago
+
+[Japanese publisher Kadokawa shares roar on Sony buyout report](https://www.japantimes.co.jp/business/2024/11/20/kadokawa-shares-roar-sony-buyout/ "Japanese publisher Kadokawa shares roar on Sony buyout report")
+
+5 hours ago
+
 [Japan's 3.31 million visitors in October set monthly record](https://www.japantimes.co.jp/news/2024/11/20/japan/japan-visitors-month-record/ "Japan's 3.31 million visitors in October set monthly record")
 
-8 mins ago
+6 hours ago
 
 [Senior JP Dragon member linked to Luffy crime group arrested](https://www.japantimes.co.jp/news/2024/11/20/japan/crime-legal/jp-dragon-arrest/ "Senior JP Dragon member linked to Luffy crime group arrested")
 
-40 mins ago
+6 hours ago
 
 [Ruling coalition and DPP strike last-minute deal over economic policy](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/economic-threshold-political-wrangling/ "Ruling coalition and DPP strike last-minute deal over economic policy")
 
-48 mins ago
-
-[Iran offers to cap sensitive uranium stock as IAEA resolution looms](https://www.japantimes.co.jp/news/2024/11/20/world/politics/iran-uranium-stock-iaea/ "Iran offers to cap sensitive uranium stock as IAEA resolution looms")
-
-48 mins ago
-
-[Japanese court rejects injunction against flights at Atsugi Air Base](https://www.japantimes.co.jp/news/2024/11/20/japan/crime-legal/yokohama-court-rejection-atsugi/ "Japanese court rejects injunction against flights at Atsugi Air Base")
-
-1 hour ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
