@@ -57,7 +57,7 @@ Parents and School Administrators >
 * Industries
     * [K-12 School Software and Services](https://factsmgt.com/markets/k-12-schools/)
     * [Business Learning Solutions](https://factsmgt.com/markets/corporate-learning-solutions/)
-    * [Faith Community Solutions](https://factsmgt.com/markets/faith-community-software/)
+    * [Faith Community Solutions](https://factsmgt.com/faith-community-software/)
 * Resources
     * [Insights](https://factsmgt.com/insights/)
     * [Product Demos](https://factsmgt.com/product-demos/)
@@ -393,7 +393,7 @@ If you have any questions about this Web Privacy Policy please contact us by ema
 * Markets
 * [K-12 School Software and Services](https://factsmgt.com/markets/k-12-schools/)
 * [Business Learning Solutions](https://factsmgt.com/markets/corporate-learning-solutions/)
-* [Faith Community Software](https://factsmgt.com/markets/faith-community-software/)
+* [Faith Community Software](https://factsmgt.com/faith-community-software/)
 
 * Resources
 * [Insights](https://factsmgt.com/insights/)
