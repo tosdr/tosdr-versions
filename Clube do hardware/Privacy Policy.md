@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![WilliamJacob](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/5785f903744ba85238ddfd368b28cf64.thumb.jpg.3afc60cfa55f44a9f24e66a4c4ffabc1.jpg)](https://www.clubedohardware.com.br/profile/1163972-williamjacob/ "Ir ao perfil de WilliamJacob")
+    * [![Thiago0293](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256365.thumb.jpeg.cbe2233609b162868e046419a2c59afb.jpeg)](https://www.clubedohardware.com.br/profile/1256365-thiago0293/ "Ir ao perfil de Thiago0293")
         
         0
         
-        [Qual volante mais indicado para pc?](https://www.clubedohardware.com.br/forums/topic/1702793-qual-volante-mais-indicado-para-pc/?do=getNewComment "Qual volante mais indicado para pc?")
+        [Programas carregando infinitamente na area de trabalho sem poder reiniciar...](https://www.clubedohardware.com.br/forums/topic/1702827-programas-carregando-infinitamente-na-area-de-trabalho-sem-poder-reiniciar/?do=getNewComment "Programas carregando infinitamente na area de trabalho sem poder reiniciar...")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [Thiago0293](https://www.clubedohardware.com.br/profile/1256365-thiago0293/ "Ir ao perfil de Thiago0293")  
+        18 minutos atrás
+        
+    * [![abertossi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255735.thumb.jpeg.8c2cc15a92596ad35fb37bf96b080f3a.jpeg)](https://www.clubedohardware.com.br/profile/1255735-abertossi/ "Ir ao perfil de abertossi")
+        
+        0
+        
+        [Pc não reproduz som win10 X99](https://www.clubedohardware.com.br/forums/topic/1702826-pc-n%C3%A3o-reproduz-som-win10-x99/?do=getNewComment "Pc não reproduz som win10 X99")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [abertossi](https://www.clubedohardware.com.br/profile/1255735-abertossi/ "Ir ao perfil de abertossi")  
+        24 minutos atrás
+        
+    * [![ujezzy_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/IMG_5837.thumb.png.e206c438e4354843ba04eb9f8d8f6cc5.png)](https://www.clubedohardware.com.br/profile/1247539-ujezzy_/ "Ir ao perfil de ujezzy_")
+        
+        0
+        
+        [pc desligou só durabte capcut](https://www.clubedohardware.com.br/forums/topic/1702825-pc-desligou-s%C3%B3-durabte-capcut/?do=getNewComment "pc desligou só durabte capcut")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [ujezzy\_](https://www.clubedohardware.com.br/profile/1247539-ujezzy_/ "Ir ao perfil de ujezzy_")  
+        43 minutos atrás
+        
+    * [![KombiDoOvo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256368.thumb.png.11b3bf21c36875d71b13ff0bd1edc3cf.png)](https://www.clubedohardware.com.br/profile/1256368-kombidoovo/ "Ir ao perfil de KombiDoOvo")
+        
+        3
+        
+        [PC Lenovo com Intel Core i7-4790 e 16GB RAM vale a pena por R$800,00?](https://www.clubedohardware.com.br/forums/topic/1702824-pc-lenovo-com-intel-core-i7-4790-e-16gb-ram-vale-a-pena-por-r80000/?do=getNewComment "PC Lenovo com Intel Core i7-4790 e 16GB RAM vale a pena por R$800,00?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [KombiDoOvo](https://www.clubedohardware.com.br/profile/1256368-kombidoovo/ "Ir ao perfil de KombiDoOvo")  
+        54 minutos atrás
+        
+    * [![Guilherme Cador](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1252067.thumb.jpeg.209d43597931144e50b462c7c5b5c651.jpeg)](https://www.clubedohardware.com.br/profile/1252067-guilherme-cador/ "Ir ao perfil de Guilherme Cador")
+        
+        2
+        
+        [Controle 8BitDo não funciona no Game Pass PC](https://www.clubedohardware.com.br/forums/topic/1702823-controle-8bitdo-n%C3%A3o-funciona-no-game-pass-pc/?do=getNewComment "Controle 8BitDo não funciona no Game Pass PC")
         
         [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [WilliamJacob](https://www.clubedohardware.com.br/profile/1163972-williamjacob/ "Ir ao perfil de WilliamJacob")  
-        2 minutos atrás
+        Por [Guilherme Cador](https://www.clubedohardware.com.br/profile/1252067-guilherme-cador/ "Ir ao perfil de Guilherme Cador")  
+        1 hora atrás
         
     * [![davialmeida21_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256351.thumb.jpeg.b34fb095c6778868fc460d1660f8b8ef.jpeg)](https://www.clubedohardware.com.br/profile/1256351-davialmeida21_/ "Ir ao perfil de davialmeida21_")
         
-        1
+        0
         
-        [Gabinete Gamer Acegeek Aquarium M345 é bom?](https://www.clubedohardware.com.br/forums/topic/1702792-gabinete-gamer-acegeek-aquarium-m345-%C3%A9-bom/?do=getNewComment "Gabinete Gamer Acegeek Aquarium M345 é bom?")
+        [Fans para o Acegeek Aquarium M345](https://www.clubedohardware.com.br/forums/topic/1702822-fans-para-o-acegeek-aquarium-m345/?do=getNewComment "Fans para o Acegeek Aquarium M345")
         
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
         Por [davialmeida21\_](https://www.clubedohardware.com.br/profile/1256351-davialmeida21_/ "Ir ao perfil de davialmeida21_")  
-        16 minutos atrás
+        1 hora atrás
         
-    * [![Mateus016](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1121451.thumb.jpeg.1a0d267d2c9118b7287c4056e69d95dc.jpeg)](https://www.clubedohardware.com.br/profile/1121451-mateus016/ "Ir ao perfil de Mateus016")
+    * [![Calebe A Melo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253096.thumb.png.979a3027b03df364fd4a2d114823b4c8.png)](https://www.clubedohardware.com.br/profile/1253096-calebe-a-melo/ "Ir ao perfil de Calebe A Melo")
         
-        2
+        0
         
-        [Pc não liga com 2 memórias](https://www.clubedohardware.com.br/forums/topic/1702791-pc-n%C3%A3o-liga-com-2-mem%C3%B3rias/?do=getNewComment "Pc não liga com 2 memórias")
+        [Controle Flydigi Vader 4 Pro e Mouse Delux M900 PRO valem a pena?](https://www.clubedohardware.com.br/forums/topic/1702821-controle-flydigi-vader-4-pro-e-mouse-delux-m900-pro-valem-a-pena/?do=getNewComment "Controle Flydigi Vader 4 Pro e Mouse Delux M900 PRO valem a pena?")
         
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Mateus016](https://www.clubedohardware.com.br/profile/1121451-mateus016/ "Ir ao perfil de Mateus016")  
-        21 minutos atrás
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Calebe A Melo](https://www.clubedohardware.com.br/profile/1253096-calebe-a-melo/ "Ir ao perfil de Calebe A Melo")  
+        1 hora atrás
         
-    * [![Artur Ladaniuski](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256350.thumb.jpeg.9c21ed807b9c268ef8e88b15b4cff3e7.jpeg)](https://www.clubedohardware.com.br/profile/1256350-artur-ladaniuski/ "Ir ao perfil de Artur Ladaniuski")
+    * [![Thiago0293](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256365.thumb.jpeg.cbe2233609b162868e046419a2c59afb.jpeg)](https://www.clubedohardware.com.br/profile/1256365-thiago0293/ "Ir ao perfil de Thiago0293")
+        
+        5
+        
+        [Programas carregando infinitamente na area de trabalho sem poder reiniciar...](https://www.clubedohardware.com.br/forums/topic/1702819-programas-carregando-infinitamente-na-area-de-trabalho-sem-poder-reiniciar/?do=getNewComment "Programas carregando infinitamente na area de trabalho sem poder reiniciar...")
+        
+        [Sugestões para o Clube do Hardware](https://www.clubedohardware.com.br/forums/forum/26-sugest%C3%B5es-para-o-clube-do-hardware/ "Sugestões para o Clube do Hardware")  
+        Por [Thiago0293](https://www.clubedohardware.com.br/profile/1256365-thiago0293/ "Ir ao perfil de Thiago0293")  
+        1 hora atrás
+        
+    * [![Kauêsch](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247131.thumb.jpeg.f8332d9bb448746e38bd90c94494542a.jpeg)](https://www.clubedohardware.com.br/profile/1247131-kau%C3%AAsch/ "Ir ao perfil de Kauêsch")
         
         3
         
-        [Cooler não reconhecido pela placa-mãe](https://www.clubedohardware.com.br/forums/topic/1702790-cooler-n%C3%A3o-reconhecido-pela-placa-m%C3%A3e/?do=getNewComment "Cooler não reconhecido pela placa-mãe")
+        [FPS baixo com gráfico integrado do AMD Ryzen 7 5700G e um pente de memória](https://www.clubedohardware.com.br/forums/topic/1702818-fps-baixo-com-gr%C3%A1fico-integrado-do-amd-ryzen-7-5700g-e-um-pente-de-mem%C3%B3ria/?do=getNewComment "FPS baixo com gráfico integrado do AMD Ryzen 7 5700G e um pente de memória")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Kauêsch](https://www.clubedohardware.com.br/profile/1247131-kau%C3%AAsch/ "Ir ao perfil de Kauêsch")  
+        2 horas atrás
+        
+    * [![zhows](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244598.thumb.jpeg.7a2db9fbf0aa1eef5f37ae0fff1359dd.jpeg)](https://www.clubedohardware.com.br/profile/1244598-zhows/ "Ir ao perfil de zhows")
+        
+        0
+        
+        [A controladora do gabinete montech air 100 da para controlar pelo software?](https://www.clubedohardware.com.br/forums/topic/1702817-a-controladora-do-gabinete-montech-air-100-da-para-controlar-pelo-software/?do=getNewComment "A controladora do gabinete montech air 100 da para controlar pelo software?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Artur Ladaniuski](https://www.clubedohardware.com.br/profile/1256350-artur-ladaniuski/ "Ir ao perfil de Artur Ladaniuski")  
-        27 minutos atrás
-        
-    * [![Obamacomunista69](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253087.thumb.png.145518612f05ca5b9ac6696f270f103f.png)](https://www.clubedohardware.com.br/profile/1253087-obamacomunista69/ "Ir ao perfil de Obamacomunista69")
-        
-        1
-        
-        [Instalador do windows dando erro](https://www.clubedohardware.com.br/forums/topic/1702789-instalador-do-windows-dando-erro/?do=getNewComment "Instalador do windows dando erro")
-        
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [Obamacomunista69](https://www.clubedohardware.com.br/profile/1253087-obamacomunista69/ "Ir ao perfil de Obamacomunista69")  
-        32 minutos atrás
-        
-    * [![Anderson Sufiati](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255933.thumb.png.c16a61f727bccb2cdb20f1fb3b732308.png)](https://www.clubedohardware.com.br/profile/1255933-anderson-sufiati/ "Ir ao perfil de Anderson Sufiati")
-        
-        2
-        
-        [Quanto vale meu computador com Ryzen 5 2600, GTX 1060 3GB e 24GB de RAM?](https://www.clubedohardware.com.br/forums/topic/1702788-quanto-vale-meu-computador-com-ryzen-5-2600-gtx-1060-3gb-e-24gb-de-ram/?do=getNewComment "Quanto vale meu computador com Ryzen 5 2600, GTX 1060 3GB e 24GB de RAM?")
-        
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [Anderson Sufiati](https://www.clubedohardware.com.br/profile/1255933-anderson-sufiati/ "Ir ao perfil de Anderson Sufiati")  
-        36 minutos atrás
-        
-    * [![Swalls](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/2(1)(1).thumb.gif.8bc9075f9ac397929081e02491b40cb5.gif)](https://www.clubedohardware.com.br/profile/1160883-swalls/ "Ir ao perfil de Swalls")
-        
-        0
-        
-        [Onde fica o CIR em um contrato de internet? (OI ou Claro)](https://www.clubedohardware.com.br/forums/topic/1702787-onde-fica-o-cir-em-um-contrato-de-internet-oi-ou-claro/?do=getNewComment "Onde fica o CIR em um contrato de internet? (OI ou Claro)")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Swalls](https://www.clubedohardware.com.br/profile/1160883-swalls/ "Ir ao perfil de Swalls")  
-        45 minutos atrás
-        
-    * [![Rsanchez7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256342.thumb.jpeg.8ef07ce1974c4cf2fc844b321ba94205.jpeg)](https://www.clubedohardware.com.br/profile/1256342-rsanchez7/ "Ir ao perfil de Rsanchez7")
-        
-        3
-        
-        [PC louco - Eu também - Comportamentos estranhos](https://www.clubedohardware.com.br/forums/topic/1702786-pc-louco-eu-tamb%C3%A9m-comportamentos-estranhos/?do=getNewComment "PC louco - Eu também - Comportamentos estranhos")
-        
-        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
-        Por [Rsanchez7](https://www.clubedohardware.com.br/profile/1256342-rsanchez7/ "Ir ao perfil de Rsanchez7")  
-        56 minutos atrás
-        
-    * [![Ezequiel Hurin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256346.thumb.jpeg.508454b5030ed603d9ce901c9912cfd3.jpeg)](https://www.clubedohardware.com.br/profile/1256346-ezequiel-hurin/ "Ir ao perfil de Ezequiel Hurin")
-        
-        4
-        
-        [Meu computador é tão ruim assim?](https://www.clubedohardware.com.br/forums/topic/1702785-meu-computador-%C3%A9-t%C3%A3o-ruim-assim/?do=getNewComment "Meu computador é tão ruim assim?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Ezequiel Hurin](https://www.clubedohardware.com.br/profile/1256346-ezequiel-hurin/ "Ir ao perfil de Ezequiel Hurin")  
-        1 hora atrás
-        
-    * [![INC3LL](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/perfilninja1.thumb.jpg.b960fd73228374e4ccec8982d90749ec.jpg)](https://www.clubedohardware.com.br/profile/1235281-inc3ll/ "Ir ao perfil de INC3LL")
-        
-        0
-        
-        [Tablet Multilaser M10 4G - Esquema eletrico](https://www.clubedohardware.com.br/forums/topic/1702784-tablet-multilaser-m10-4g-esquema-eletrico/?do=getNewComment "Tablet Multilaser M10 4G - Esquema eletrico")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [INC3LL](https://www.clubedohardware.com.br/profile/1235281-inc3ll/ "Ir ao perfil de INC3LL")  
-        1 hora atrás
+        Por [zhows](https://www.clubedohardware.com.br/profile/1244598-zhows/ "Ir ao perfil de zhows")  
+        2 horas atrás
         
     
 
