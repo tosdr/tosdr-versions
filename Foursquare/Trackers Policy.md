@@ -84,12 +84,14 @@
     
     Resources
     
+    * [Open Source](https://opensource.foursquare.com/)
+    
     * [Developer Console](https://foursquare.com/developers/signup/?utm_source=websitelocation&&utm_campaign=website&utm_medium=organic)
     * [API](https://status.foursquare.com/) [Status](https://status.foursquare.com/)
     * [Developer Blog](https://location.foursquare.com/developer/blog/)
     * [Developer Videos & Demos](https://location.foursquare.com/developer/videos-and-demos/)
     
-    [Speak to an expert](https://location.foursquare.com/contact-us/)
+    [Join Beta Progra](https://location.foursquare.com/beta/)m
     
     [Get Started](https://location.foursquare.com/log-in/)
     
