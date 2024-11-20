@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-photography-gifts-for-pros-and-enthusiasts-alike/)
+    
+    [The Best Photography Gifts for Pros and Enthusiasts Alike](https://www.coolthings.com/the-best-photography-gifts-for-pros-and-enthusiasts-alike/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nike-elite-easyon-backpack-paris-2024-paralympic-games-accessibility-features/)
     
     [Nike Elite EasyOn Backpack Thoughtfully Redesigns the Backpack with Accessibility in Mind](https://www.coolthings.com/nike-elite-easyon-backpack-paris-2024-paralympic-games-accessibility-features/)
@@ -52,11 +57,6 @@
     
     [Harlowe Sol 5 MagSafe Camera Light Brings Versatile Lighting Angles to Your iPhone](https://www.coolthings.com/harlowe-sol-5-magsafe-camera-light-adjustable-lighting-angles-for-iphone/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nikon-z50-ii-mirrorless-camera-one-touch-imaging-presets-picture-control/)
-    
-    [Nikon Z50 II Offers One-Touch Imaging Presets to Instantly Change Color Tones and Set the Mood for Any Scene](https://www.coolthings.com/nikon-z50-ii-mirrorless-camera-one-touch-imaging-presets-picture-control/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
