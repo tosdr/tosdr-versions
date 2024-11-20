@@ -162,9 +162,11 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"Fantastic - the most relevant material/resource ever seen for both dyslexia and teaching spelling rules."
+"Spellzone really is an incredibly simple, engaging and cost effective resource - it makes a big difference to literacy levels."
 
-**College Lecturer**
+**Millthorpe School, York**
+
+[read more...](https://www.spellzone.com/pages/case-studies/millthorpe.cfm)
 
 ### Curriculum...
 
