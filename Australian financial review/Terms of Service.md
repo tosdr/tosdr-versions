@@ -293,57 +293,61 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6192%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_148%2C$y_560/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7fbf39e70bc7e555d7bf32ecff7c1d23eb8e0bf5)](https://www.afr.com/life-and-luxury/fashion-and-style/made-in-australia-a-showstopping-watch-for-530-000-20241016-p5kir6)
+[![The object of Woolton’s affection: Lot 1175 at Sotheby’s Royal & Noble Jewels.](https://static.ffx.io/images/$zoom_0.3311%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d2a98590b37ff9d722e1bb00ea95175a40104c79)](https://www.afr.com/life-and-luxury/fashion-and-style/how-to-invest-in-jewellery-20241111-p5kpin)
 
-### [Made in Australia – a showstopping watch for $530,000](https://www.afr.com/life-and-luxury/fashion-and-style/made-in-australia-a-showstopping-watch-for-530-000-20241016-p5kir6)
+### [How to invest in jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/how-to-invest-in-jewellery-20241111-p5kpin)
 
-* Bani McSpedden
+* 55 mins ago
+* Eugenie Kelly
 
-* ### [How to make Supernormal’s famous lobster roll](https://www.afr.com/life-and-luxury/food-and-wine/how-to-make-supernormal-s-famous-lobster-roll-20240829-p5k6fk)
+* ### [The Australian chef bringing lamingtons and damper to New York City](https://www.afr.com/life-and-luxury/food-and-wine/the-australian-chef-bringing-lamingtons-and-damper-to-new-york-city-20241016-p5kir5)
     
-* ### [This Australian winemaker has just won a global award for his sparkling](https://www.afr.com/life-and-luxury/food-and-wine/this-australian-winemaker-has-just-won-a-global-award-for-his-sparkling-20240829-p5k6fh)
+* ### [Is Australian fashion really as dire as it seems?](https://www.afr.com/life-and-luxury/fashion-and-style/is-australian-fashion-really-as-dire-as-it-seems-20241002-p5kffw)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![The rising cost-of-living burden has left more Australian unhappy.](https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/560b4d9bc3d8e0a640f8eb4f98cdd11314971896)](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
+[![Sandra McNeil (left), Janet Menzies (middle) and Kate Gooden in Sydney.](https://static.ffx.io/images/$zoom_0.3758%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_253%2C$y_434/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/684ee04574d16155d0f4d44b837afe293c61d11a)](https://www.afr.com/work-and-careers/leaders/how-these-top-female-amazon-execs-are-conquering-australia-20241112-p5kq2i)
 
-### [Social cohesion hits record lows, support for immigration slumps](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
+### [How these top female Amazon execs are conquering Australia](https://www.afr.com/work-and-careers/leaders/how-these-top-female-amazon-execs-are-conquering-australia-20241112-p5kq2i)
 
-* Patrick Durkin
+* 55 mins ago
+* Sally Patten
 
-* ### [This former investment banker now runs a $2b caravan park business](https://www.afr.com/work-and-careers/leaders/this-former-investment-banker-now-runs-a-2bn-caravan-park-business-20241106-p5koim)
+* ### [Social cohesion hits record lows, support for immigration slumps](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
     
-* ### [Why this Swisse CEO fasts for 19 hours a day](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
+* ### [This former investment banker now runs a $2b caravan park business](https://www.afr.com/work-and-careers/leaders/this-former-investment-banker-now-runs-a-2bn-caravan-park-business-20241106-p5koim)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![The DiM250 DYNAMIC Driving Simulator at the Goodyear Simulation Centre in Luxembourg. ](https://static.ffx.io/images/$zoom_1.7685%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/59ac9aec8d680ca4121fc1b10e3f66b72569637d)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/what-it-feels-like-to-drive-a-multimillion-dollar-simulator-20241105-p5knxn)
+[![Australian surfer Mick Fanning is investing in something close to home.](https://static.ffx.io/images/$zoom_0.7613%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1010%2C$y_636/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1eda4fe9175c9e29e36eb1f6e0aef11671e37338)](https://www.afr.com/companies/infrastructure/mick-fanning-s-next-investment-is-a-new-wave-resort-20241120-p5ks5c)
 
-### [This multimillion-dollar simulator is fully sick, in the best way](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/what-it-feels-like-to-drive-a-multimillion-dollar-simulator-20241105-p5knxn)
+### [Mick Fanning’s next investment is a new wave resort](https://www.afr.com/companies/infrastructure/mick-fanning-s-next-investment-is-a-new-wave-resort-20241120-p5ks5c)
 
-* Tony Davis
+* 55 mins ago
+* Zoe Samios
 
-* ### [When you buy this fashion label, you’re joining a community](https://www.afr.com/life-and-luxury/fashion-and-style/when-you-buy-this-fashion-label-you-re-joining-a-community-20240903-p5k7ep)
+* ### [This HR executive is always striving for a better position](https://www.afr.com/life-and-luxury/health-and-wellness/this-hr-executive-is-always-striving-for-a-better-position-20241113-p5kq8h)
     
-* ### [Meet the cargo bike that other riders will envy](https://www.afr.com/technology/meet-the-mother-of-all-cargo-bikes-20241114-p5kqnu)
+* ### [Benz hits the Goldilocks spot with its new AMG SUV](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/benz-hits-the-goldilocks-spot-with-its-new-amg-suv-20241105-p5knxp)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Doug Rathbone is a small shareholder and chairman of Delta Ag, which has been bought out by Elders Ltd in a $475m deal. He also owns luxury wine brands Yering Station, Mount Langi Ghiran and Xanadu. ](https://static.ffx.io/images/$zoom_0.3433%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_234%2C$y_188/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c1140337c8be25830bdfab273f3e7d9b8bf06889)](https://www.afr.com/companies/agriculture/nufarm-entrepreneur-doug-rathbone-a-winner-in-475m-elders-buyout-20241119-p5krr8)
+[![Hillview Estate.](https://static.ffx.io/images/$zoom_1.097%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_311%2C$y_470/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e246519a549234e9d8c319c272e621b222abcabc)](https://www.afr.com/property/residential/the-rich-list-region-that-s-become-sydney-s-hamptons-20241113-p5kqfy)
 
-### [Nufarm entrepreneur Doug Rathbone a winner in $475m Elders buyout](https://www.afr.com/companies/agriculture/nufarm-entrepreneur-doug-rathbone-a-winner-in-475m-elders-buyout-20241119-p5krr8)
+### [The Rich List region that’s become Sydney’s Hamptons](https://www.afr.com/property/residential/the-rich-list-region-that-s-become-sydney-s-hamptons-20241113-p5kqfy)
 
-* Simon Evans
+* 55 mins ago
+* Bonnie Campbell
 
-* ### [Laurence Escalante’s VGW bulks up exec ranks as casinos bristle](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-vgw-bulks-up-exec-ranks-as-casinos-bristle-20241117-p5kr9f)
+* ### [Nufarm entrepreneur Doug Rathbone a winner in $475m Elders buyout](https://www.afr.com/companies/agriculture/nufarm-entrepreneur-doug-rathbone-a-winner-in-475m-elders-buyout-20241119-p5krr8)
     
-* ### [‘If we lose everything, we can just get a regular job’](https://www.afr.com/wealth/people/why-this-founder-is-investing-70m-in-start-ups-20240808-p5k0q9)
+* ### [Laurence Escalante’s VGW bulks up exec ranks as casinos bristle](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-vgw-bulks-up-exec-ranks-as-casinos-bristle-20241117-p5kr9f)
     
 
 [The Australian Financial Review](https://www.afr.com/)
