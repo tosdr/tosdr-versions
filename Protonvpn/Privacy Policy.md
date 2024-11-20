@@ -107,11 +107,11 @@ Proton VPN’s strict no-logs policy was tested in a legal case in 2019 where we
 
 Get started
 
+* [Proton VPN plans explained: Proton Free, Proton VPN Plus, and Proton Unlimited](https://protonvpn.com/support/proton-vpn-plans)
+* [How to use Okta SCIM with Proton VPN for Business](https://protonvpn.com/support/scim-okta)
 * [How to access the Tor network using Proton VPN](https://protonvpn.com/support/tor-vpn)
 * [Who owns Proton VPN?](https://protonvpn.com/support/who-owns-protonvpn)
 * [How to torrent safely with a VPN](https://protonvpn.com/support/bittorrent-vpn)
-* [Proton VPN plans explained: Proton Free, Proton VPN Plus, and Proton Unlimited](https://protonvpn.com/support/proton-vpn-plans)
-* [How to use Proton VPN Live Chat](https://protonvpn.com/support/live-chat-support)
 
 Didn’t find what you were looking for?
 --------------------------------------
