@@ -28,16 +28,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250501)
 * [Women's BBL
     
-    ADE won by 30 runs
-    
-    |     |     |
-    | --- | --- |
-    | ADE | 6 /169 |
-    | PER | 8 /139 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250132)
-* [Women's BBL
-    
     20/11 18:10 AEST
     
     |     |     |
@@ -62,64 +52,44 @@ FOX SCORES
     
 * [NBA
     
-    Full Time
+    4th Qtr
     
     |     |     |
     | --- | --- |
-    | SAC | 108 |
-    | ATL | 109 |
+    | BOS | 98  |
+    | CLE | 93  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010235/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010041/box-score)
 * [NBA
     
-    Full Time
+    Half Time
     
     |     |     |
     | --- | --- |
-    | LAC | 102 |
-    | GS  | 99  |
+    | BKN | 54  |
+    | CHA | 59  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010236/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010043/box-score)
 * [NBA
     
-    20/11 11:00 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | BOS | –   |
-    | CLE | –   |
+    | MEM | 29  |
+    | DEN | 36  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010041)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010045/box-score)
 * [NBA
     
-    20/11 11:30 AEST
+    1st Qtr
     
     |     |     |
     | --- | --- |
-    | BKN | –   |
-    | CHA | –   |
+    | DAL | 18  |
+    | NO  | 6   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010043)
-* [NBA
-    
-    20/11 12:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | MEM | –   |
-    | DEN | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010045)
-* [NBA
-    
-    20/11 12:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | DAL | –   |
-    | NO  | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010047)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010047/box-score)
 * [NBA
     
     20/11 13:30 AEST
@@ -154,12 +124,12 @@ FOX SCORES
     
 * [WCQ
     
-    2nd Half
+    Full Time
     
     |     |     |
     | --- | --- |
     | BHR | 2   |
-    | AUS | 1   |
+    | AUS | 2   |
     
     Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250603)
 
