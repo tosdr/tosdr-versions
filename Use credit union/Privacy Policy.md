@@ -47,7 +47,7 @@ Whether you’re saving for the long-term or just looking for a safe spot to par
 ×
 
 JOIN
-====
+----
 
 [![BluPeak Credit Union Logo](https://www.blupeak.com/wp-content/themes/blupeakcu-theme/images/logoblu.svg)](https://www.blupeak.com/)
 
