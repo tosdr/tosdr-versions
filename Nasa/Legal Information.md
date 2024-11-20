@@ -275,7 +275,7 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### Wearable Tech for Space Station Research
 
-article 7 days ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
 
 2 min read
 
@@ -285,91 +285,91 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### Highlights
 
-[![NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels](https://science.nasa.gov/wp-content/uploads/2024/11/waterstorage-grc-2023-1440px.jpg)
+[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
+
+5 min read
+
+### 5 Surprising NASA Heliophysics Discoveries Not Related to the Sun
+
+article 43 mins ago](https://science.nasa.gov/science-research/heliophysics/5-surprising-nasa-heliophysics-discoveries-not-related-to-the-sun/)[![NASA’s Brad Doorn Brings Farm Belt Wisdom to Space-Age Agriculture](https://science.nasa.gov/wp-content/uploads/2024/11/s4a-ia-0401.jpg)
+
+14 min read
+
+### NASA’s Brad Doorn Brings Farm Belt Wisdom to Space-Age Agriculture
+
+article 1 hour ago](https://science.nasa.gov/people-of-nasa/nasas-brad-doorn-brings-farm-belt-wisdom-to-space-age-agriculture/)[![NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels](https://science.nasa.gov/wp-content/uploads/2024/11/waterstorage-grc-2023-1440px.jpg)
 
 4 min read
 
 ### NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
 
-article 5 days ago](https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
-
-5 min read
-
-### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
-
-article 6 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Coastal locations, such as Drakes Bay on the Point Reyes peninsula in Northern California](https://www.nasa.gov/wp-content/uploads/2024/11/1-point-reyes-noaa.jpg?w=1024)
-
-4 min read
-
-### NASA Data Helps International Community Prepare for Sea Level Rise
-
-article 7 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)
+article 5 days ago](https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/)
 
 ### Highlights
 
-[![What Is the Solar Wind?](https://science.nasa.gov/wp-content/uploads/2024/08/switchbacks-sun-web.gif)
-
-1 min read
-
-### What Is the Solar Wind?
-
-article 14 hours ago](https://science.nasa.gov/sun/what-is-the-solar-wind/)[![Gediz Vallis channel](https://www.nasa.gov/wp-content/uploads/2024/11/e1-pia26471-curiosity-3000pixels.jpg?w=1024)
+[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
 
 5 min read
 
-### NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
+### 5 Surprising NASA Heliophysics Discoveries Not Related to the Sun
 
-article 2 days ago](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/)[![Amendment 68: F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
+article 43 mins ago](https://science.nasa.gov/science-research/heliophysics/5-surprising-nasa-heliophysics-discoveries-not-related-to-the-sun/)[![A prototype of a robot designed to explore subsurface oceans of icy moons](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26423-swim-phase-ii-reflection.png?w=1024)
 
-2 min read
+5 min read
 
-### Amendment 68: F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
+### NASA Ocean World Explorers Have to Swim Before They Can Fly
 
-article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)
+article 2 hours ago](https://www.nasa.gov/solar-system/planets/jupiter/jupiter-moons/europa/nasa-ocean-world-explorers-have-to-swim-before-they-can-fly/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/mars-moons-simulations.png?w=875)
+
+5 min read
+
+### Making Mars’ Moons: Supercomputers Offer ‘Disruptive’ New Explanation
+
+article 3 hours ago](https://www.nasa.gov/solar-system/planets/mars/making-mars-moons-supercomputers-offer-disruptive-new-explanation-2/)
 
 ### Featured
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
+
+5 min read
+
+### 5 Surprising NASA Heliophysics Discoveries Not Related to the Sun
+
+article 43 mins ago](https://science.nasa.gov/science-research/heliophysics/5-surprising-nasa-heliophysics-discoveries-not-related-to-the-sun/)[![NASA’s Swift Reaches 20th Anniversary in Improved Pointing Mode](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2024/swifth-20th-anniversary/Swift20AnimationStill_Watermarked.jpg)
+
+5 min read
+
+### NASA’s Swift Reaches 20th Anniversary in Improved Pointing Mode
+
+article 4 hours ago](https://science.nasa.gov/missions/swift/nasas-swift-reaches-20th-anniversary-in-improved-pointing-mode/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
 
 7 min read
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article 5 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
-
-2 min read
-
-### Hubble Takes a Look at Tangled Galaxies
-
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
-
-5 min read
-
-### NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
-
-article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)
+article 5 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)
 
 ### Highlights
 
-[![What Is the Solar Wind?](https://science.nasa.gov/wp-content/uploads/2024/08/switchbacks-sun-web.gif)
+[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
+
+5 min read
+
+### 5 Surprising NASA Heliophysics Discoveries Not Related to the Sun
+
+article 43 mins ago](https://science.nasa.gov/science-research/heliophysics/5-surprising-nasa-heliophysics-discoveries-not-related-to-the-sun/)[![NASA’s Swift Reaches 20th Anniversary in Improved Pointing Mode](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2024/swifth-20th-anniversary/Swift20AnimationStill_Watermarked.jpg)
+
+5 min read
+
+### NASA’s Swift Reaches 20th Anniversary in Improved Pointing Mode
+
+article 4 hours ago](https://science.nasa.gov/missions/swift/nasas-swift-reaches-20th-anniversary-in-improved-pointing-mode/)[![What Is the Solar Wind?](https://science.nasa.gov/wp-content/uploads/2024/08/switchbacks-sun-web.gif)
 
 1 min read
 
 ### What Is the Solar Wind?
 
-article 14 hours ago](https://science.nasa.gov/sun/what-is-the-solar-wind/)[![Close-up of a floating black cube-shaped device labeled “Kirara” inside a laboratory filled with cables, equipment, and scientific instruments aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/11/iss068e075597.jpg?w=1024)
-
-2 min read
-
-### Station Science Top News: Nov. 15, 2024
-
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/09/safires_epc_20240903_th.jpg)
-
-2 min read
-
-### Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment
-
-article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-69-draft-a-59-new-or-modified-globe-protocols-for-community-comment/)
+article 20 hours ago](https://science.nasa.gov/sun/what-is-the-solar-wind/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### NASA Engineer Carries Indigenous Roots into New Aviation Era
 
-article 23 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
 
 2 min read
 
@@ -395,25 +395,25 @@ article 5 days ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
 
 ### Highlights
 
-[![White handrails on a pedestrian bridge. The Hoover Dam is visible in the background.](https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg?w=1024)
+[![Illustration of the BioSentinel spacecraft, flying past the Moon with the CubeSat's solar arrays fully deployed, facing the Sun.](https://www.nasa.gov/wp-content/uploads/2021/12/biosentinel_1920x1080.png?w=1024)
 
-2 min read
+8 min read
 
-### Super Insulation Requires Super Materials 
+### What is BioSentinel?
 
-article 18 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/kjell-lindgren-mission-all-systems-go-patient-photo.jpg?w=1024)
+article 37 mins ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-biosentinel/)[![A prototype of a robot designed to explore subsurface oceans of icy moons](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26423-swim-phase-ii-reflection.png?w=1024)
 
-4 min read
+5 min read
 
-### NASA Program Aids Pediatric Patients Facing Medical Treatments
+### NASA Ocean World Explorers Have to Swim Before They Can Fly
 
-article 2 days ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-program-aids-pediatric-patients-facing-medical-treatments/)[![an engineer looks into an eyepiece connected to a large electronic instrument.](https://www.nasa.gov/wp-content/uploads/2024/03/img-2812.jpg?w=1024)
+article 2 hours ago](https://www.nasa.gov/solar-system/planets/jupiter/jupiter-moons/europa/nasa-ocean-world-explorers-have-to-swim-before-they-can-fly/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/mars-moons-simulations.png?w=875)
 
-2 min read
+5 min read
 
-### NASA Goddard Lidar Team Receives Center Innovation Award for Advancements
+### Making Mars’ Moons: Supercomputers Offer ‘Disruptive’ New Explanation
 
-article 5 days ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/)
+article 3 hours ago](https://www.nasa.gov/solar-system/planets/mars/making-mars-moons-supercomputers-offer-disruptive-new-explanation-2/)
 
 ### Featured
 
@@ -423,13 +423,13 @@ article 5 days ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-li
 
 ### Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge 
 
-article 18 hours ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
+article 24 hours ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
 
 5 min read
 
 ### NASA Engineer Carries Indigenous Roots into New Aviation Era
 
-article 23 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![Two images - Left, Diana Acosta holding her daughter in front of the cab of NASA's Vertical Motion Simulator. Right, Diana Acosta with her daughter inside the control deck of the Vertical Motion Simulator.](https://www.nasa.gov/wp-content/uploads/2024/02/acosta-daughter-vms-igted.png?w=1024)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![Two images - Left, Diana Acosta holding her daughter in front of the cab of NASA's Vertical Motion Simulator. Right, Diana Acosta with her daughter inside the control deck of the Vertical Motion Simulator.](https://www.nasa.gov/wp-content/uploads/2024/02/acosta-daughter-vms-igted.png?w=1024)
 
 5 min read
 
@@ -445,7 +445,7 @@ article 2 weeks ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood
 
 ### Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge 
 
-article 18 hours ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
+article 24 hours ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
 
 2 min read
 
