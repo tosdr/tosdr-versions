@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![1%=51%](/assets/logos/151-2000-12.png)](http://www.followthemoney.org/assets/ANNUAL-REPORTS/NIMSP-Annual-Report-2013.pdf)
+[![Duke Energy giving](/assets/Images/teasers/small/DukeEnergy2000-2014.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-duke-energy/)
 
-Just 1% of donors gave 51% of the total.
+Duke Energy giving to sitting governors, 2000-14
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
