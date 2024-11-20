@@ -279,8 +279,6 @@ In 2023, 77% of our income supported sustainability programs. [Learn More](https
 
 ![charity-watch](/wp-content/themes/rainforest-replant/dist/img/charity-watch-mono.svg)
 
-                
-
 Join our Mailing List
 ---------------------
 
@@ -294,11 +292,11 @@ general or business(Required)
 
  Send me business updates
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
-Subscribe       
+Subscribe          
 
 * For Individuals
     * [Impact](https://www.rainforest-alliance.org/?page_id=44398)
