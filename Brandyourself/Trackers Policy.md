@@ -1,4 +1,4 @@
-[](#) **[![BrandYourself](//s2.brandyourself.com/themes/default/images/logo.png)](https://brandyourself.com/)[![BrandYourself](//s3.brandyourself.com/themes/default/images/logo-white.png)](https://brandyourself.com/)**
+[](#) **[![BrandYourself](//s3.brandyourself.com/themes/default/images/logo.png)](https://brandyourself.com/)[![BrandYourself](//s2.brandyourself.com/themes/default/images/logo-white.png)](https://brandyourself.com/)**
 
 * [INDIVIDUALS](https://brandyourself.com/reputation-management-software)
     
@@ -167,11 +167,11 @@ At BrandYourself, we believe in being clear and open about how we collect and us
 * [Online Reputation](https://brandyourself.com/blog/fixing-negative-results/)
 * [Personal Branding](https://brandyourself.com/blog/product-tutorials/personal-branding/)
 
-**[![BrandYourself](//s3.brandyourself.com/themes/default/images/by-logo.svg)](https://brandyourself.com/)**
+**[![BrandYourself](//s1.brandyourself.com/themes/default/images/by-logo.svg)](https://brandyourself.com/)**
 
 **AS FEATURED ON:**
 
 * [![shark tank](//s1.brandyourself.com/themes/default/images/shark-tank.png)](https://brandyourself.com/press)
 * [![wsj](//s1.brandyourself.com/themes/default/images/wsj.svg)](https://brandyourself.com/press)
 * [![forbes](//s1.brandyourself.com/themes/default/images/forbes.svg)](https://brandyourself.com/press)
-* [![npr](//s3.brandyourself.com/themes/default/images/npr.png)](https://brandyourself.com/press)
+* [![npr](//s1.brandyourself.com/themes/default/images/npr.png)](https://brandyourself.com/press)
