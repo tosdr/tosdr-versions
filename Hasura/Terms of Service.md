@@ -1,4 +1,4 @@
-[PromptQL is on ProductHunt now 🎉](https://www.producthunt.com/posts/promptql)
+[Announcing PromptQL: Build AI apps with Agentic Data Access](https://promptql.hasura.io/)
 
 [![Hasura Logo](https://res.cloudinary.com/dh8fp23nd/image/upload/v1686659126/website%20v3/hasura-primary_y9cdnn.svg)](https://hasura.io/)
 
