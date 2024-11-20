@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/673d06d479a287ef391ba856_small-business-saturday-2024-startup-ecommerce-brands-to-watch.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/673e2eb1697196b3f6959dcb_clearco-funds-advertising-budget-allocation-for-ecommerce.png)
 
-###### Small Business Saturday is November 30: Startup Ecommerce Brands to Watch
+###### Clearco will fund your digital advertising budget ahead of spend to boost success for the holiday shopped season
 
-[Read now >](https://clear.co/blog/small-business-saturday-2024-startup-ecommerce-brands-to-watch)
+[Read now >](https://clear.co/blog/fund-ecommerce-digital-advertising-google-meta-youtube-tiktok)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
@@ -549,7 +549,7 @@ Tel: +1 (415) 610-5166
 
 Clearco Platform
 
-[How it works](https://clear.co/ecommerce-funding)[Invoice Funding](https://clear.co/platform/fund-ecommerce-vendor-invoices)[Receipt Funding](https://clear.co/platform/fund-ecommerce-vendor-receipt)[BFCM Funding](https://my.clearbanc.com/?initialScreen=signUp&cb-ex=ex-bfcm2024--)[**Get Funded**](http://my.clearbanc.com/signup)
+[How it works](https://clear.co/ecommerce-funding)[Invoice Funding](https://clear.co/platform/fund-ecommerce-vendor-invoices)[Receipt Funding](https://clear.co/platform/fund-ecommerce-vendor-receipt)[BFCM Funding](https://my.clearbanc.com/?initialScreen=signUp&cb-ex=ex-bfcm2024--)[Fund Advertising](https://clear.co/get-funding-for-advertising-budget-allocation)
 
 Ecommerce Funding
 
