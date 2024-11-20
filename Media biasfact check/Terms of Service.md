@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [November 19, 2024 | Media News Daily: Top Stories for 11/19/2024](https://mediabiasfactcheck.com/2024/11/19/media-news-daily-top-stories-for-11-19-2024/ "Media News Daily: Top Stories for 11/19/2024")
 * [November 19, 2024 | MBFC’s Daily Vetted Fact Checks for 11/19/2024](https://mediabiasfactcheck.com/2024/11/19/mbfcs-daily-vetted-fact-checks-for-11-19-2024/ "MBFC’s Daily Vetted Fact Checks for 11/19/2024")
 * [November 18, 2024 | Media News Daily: Top Stories for 11/18/2024](https://mediabiasfactcheck.com/2024/11/18/media-news-daily-top-stories-for-11-18-2024/ "Media News Daily: Top Stories for 11/18/2024")
 * [November 18, 2024 | MBFC’s Daily Vetted Fact Checks for 11/18/2024](https://mediabiasfactcheck.com/2024/11/18/mbfcs-daily-vetted-fact-checks-for-11-18-2024/ "MBFC’s Daily Vetted Fact Checks for 11/18/2024")
 * [November 17, 2024 | Media News Daily: Top Stories for 11/17/2024](https://mediabiasfactcheck.com/2024/11/17/media-news-daily-top-stories-for-11-17-2024/ "Media News Daily: Top Stories for 11/17/2024")
-* [November 17, 2024 | MBFC’s Daily Vetted Fact Checks for 11/17/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/17/mbfcs-daily-vetted-fact-checks-for-11-17-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/17/2024 (Weekend Edition)")
 
 Search for:  
 
@@ -145,6 +145,22 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Brighton Argus – Bias and Credibility](https://mediabiasfactcheck.com/brighton-argus-bias/)
+    
+    November 19, 2024
+    
+* [Strana – Bias and Credibility](https://mediabiasfactcheck.com/strana-bias-and-credibility/)
+    
+    November 19, 2024
+    
+* [Tap Haps – Bias and Credibility](https://mediabiasfactcheck.com/tap-haps-bias-and-credibility/)
+    
+    November 19, 2024
+    
+* [Northern Tier News – Bias and Credibility](https://mediabiasfactcheck.com/northern-tier-news-bias/)
+    
+    November 19, 2024
+    
 * [Arizona Silver Belt – Bias and Credibility](https://mediabiasfactcheck.com/arizona-silver-belt-bias/)
     
     November 18, 2024
@@ -161,58 +177,42 @@ No related posts.
     
     November 18, 2024
     
-* [Frontiers in Immunology – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-immunology-bias-and-credibility/)
-    
-    November 18, 2024
-    
-* [Tallahassee Reports – Bias and Credibility](https://mediabiasfactcheck.com/tallahassee-reports-bias-and-credibility/)
-    
-    November 17, 2024
-    
-* [Straight – Bias and Credibility](https://mediabiasfactcheck.com/straight-bias-and-credibility/)
-    
-    November 17, 2024
-    
-* [St. George News – Bias and Credibility](https://mediabiasfactcheck.com/st-george-news-bias-and-credibility/)
-    
-    November 17, 2024
-    
 
 #### Recently Updated Pages
 
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 19, 2024
+    
+* [Brighton Argus – Bias and Credibility](https://mediabiasfactcheck.com/brighton-argus-bias/ "View Brighton Argus – Bias and Credibility") - November 19, 2024
+    
+* [Strana – Bias and Credibility](https://mediabiasfactcheck.com/strana-bias-and-credibility/ "View Strana – Bias and Credibility") - November 19, 2024
+    
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 19, 2024
+    
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 19, 2024
+    
+* [Tap Haps – Bias and Credibility](https://mediabiasfactcheck.com/tap-haps-bias-and-credibility/ "View Tap Haps – Bias and Credibility") - November 19, 2024
+    
+* [Northern Tier News – Bias and Credibility](https://mediabiasfactcheck.com/northern-tier-news-bias/ "View Northern Tier News –  Bias and Credibility") - November 19, 2024
+    
 * [Border Telegraph – Bias and Credibility](https://mediabiasfactcheck.com/border-telegraph-bias/ "View Border Telegraph – Bias and Credibility") - November 18, 2024
     
 * [Border Counties Advertiser – Bias and Credibility](https://mediabiasfactcheck.com/border-counties-advertiser-bias/ "View Border Counties Advertiser – Bias and Credibility") - November 18, 2024
     
 * [BoomLive – Bias and Credibility](https://mediabiasfactcheck.com/boomlive-bias/ "View BoomLive – Bias and Credibility") - November 18, 2024
     
-* [BonSens – Bias and Credibility](https://mediabiasfactcheck.com/bonsens/ "View BonSens – Bias and Credibility") - November 18, 2024
-    
-* [Boise City Wire – Bias and Credibility](https://mediabiasfactcheck.com/boise-city-wire/ "View Boise City Wire – Bias and Credibility") - November 18, 2024
-    
-* [BNR NewsRadio – Bias and Credibility](https://mediabiasfactcheck.com/bnr-newsradio/ "View BNR NewsRadio – Bias and Credibility") - November 18, 2024
-    
-* [Bluegrass Times – Bias and Credibility](https://mediabiasfactcheck.com/bluegrass-times-bias/ "View Bluegrass Times – Bias and Credibility") - November 18, 2024
-    
-* [Bluefield Daily Telegraph – Bias and Credibility](https://mediabiasfactcheck.com/bluefield-daily-telegraph-bias/ "View Bluefield Daily Telegraph – Bias and Credibility") - November 18, 2024
-    
-* [Blue State Blues News – Bias and Credibility](https://mediabiasfactcheck.com/blue-states-blues-news-bias/ "View Blue State Blues News – Bias and Credibility") - November 18, 2024
-    
-* [Bloomington-Richfield Sun Current – Bias and Credibility](https://mediabiasfactcheck.com/bloomington-richfield-sun-current-bias/ "View Bloomington-Richfield Sun Current – Bias and Credibility") - November 18, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Search](https://mediabiasfactcheck.com/search/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [CBC News (Canadian Broadcasting) - Bias and Credibility](https://mediabiasfactcheck.com/cbc-news-canadian-broadcasting/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
+* [MSNBC - Bias and Credibility](https://mediabiasfactcheck.com/msnbc/)
 
 #### Subscribe via Email
 
