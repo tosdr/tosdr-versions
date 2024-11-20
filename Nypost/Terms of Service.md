@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Tren de Aragua gangster Jose Ibarra sentenced to life in prison without parole for vicious murder of nursing student Laken Riley](https://nypost.com/2024/11/20/us-news/illegal-migrant-jose-ibarra-found-guilty-of-all-charges-in-murder-of-laken-riley/)
+
 Terms Of Use
 ============
 
