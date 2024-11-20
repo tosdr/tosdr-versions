@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/83699a6d-73b2-4511-8eac-4e5b3d690554/20241120T011833/83699a6d-73b2-4511-8eac-4e5b3d690554_16x9.jpg) ![](https://media.king5.com/assets/KING/images/83699a6d-73b2-4511-8eac-4e5b3d690554/20241120T011833/83699a6d-73b2-4511-8eac-4e5b3d690554_360x203.jpg)](https://www.king5.com/article/news/local/homeless/bellingham-sweeps-homeless-camp-after-overdoses-killings/281-5b25f622-ac6b-474d-9de6-072bf1f97da1)
+    *  [![](https://media.king5.com/assets/KING/images/d726966d-e8eb-4407-88c8-d827d43377a0/20241119T034959/d726966d-e8eb-4407-88c8-d827d43377a0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d726966d-e8eb-4407-88c8-d827d43377a0/20241119T034959/d726966d-e8eb-4407-88c8-d827d43377a0_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/what-is-bomb-cyclone-science-behind-term/281-be91e4a9-2cba-4568-b32b-b5fb89fb68e2)
         
-        #### [Bellingham sweeps notorious homeless camp](https://www.king5.com/article/news/local/homeless/bellingham-sweeps-homeless-camp-after-overdoses-killings/281-5b25f622-ac6b-474d-9de6-072bf1f97da1)
+        #### [What is bombogenesis? Understanding the science behind upcoming bomb cyclone](https://www.king5.com/article/weather/weather-blog/what-is-bomb-cyclone-science-behind-term/281-be91e4a9-2cba-4568-b32b-b5fb89fb68e2)
         
-    *  [![](https://media.king5.com/assets/KING/images/90349764-beea-4ddb-9b4a-8a9c3f1c3170/20241120T005130/90349764-beea-4ddb-9b4a-8a9c3f1c3170_16x9.jpg) ![](https://media.king5.com/assets/KING/images/90349764-beea-4ddb-9b4a-8a9c3f1c3170/20241120T005130/90349764-beea-4ddb-9b4a-8a9c3f1c3170_360x203.jpg)](https://www.king5.com/article/news/local/seattle/progress-made-new-rainier-valley-food-bank-facility/281-83a893dd-8d68-43de-a404-488394130830)
+    *  [![](https://media.king5.com/assets/KING/images/f235c124-ea34-45f6-964f-1ddd493a1bf1/20241120T003538/f235c124-ea34-45f6-964f-1ddd493a1bf1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f235c124-ea34-45f6-964f-1ddd493a1bf1/20241120T003538/f235c124-ea34-45f6-964f-1ddd493a1bf1_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/last-bomb-cyclone-washington/281-767a9b22-f621-4448-af88-6fbfde2310f8)
         
-        #### [Progress made on new Rainier Valley Food Bank facility](https://www.king5.com/article/news/local/seattle/progress-made-new-rainier-valley-food-bank-facility/281-83a893dd-8d68-43de-a404-488394130830)
+        #### [Here's the last time Washington was impacted by a bomb cyclone](https://www.king5.com/article/weather/weather-blog/last-bomb-cyclone-washington/281-767a9b22-f621-4448-af88-6fbfde2310f8)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/3f549ce5-27eb-4cb3-b122-55baca3c1706/20241119T130412/3f549ce5-27eb-4cb3-b122-55baca3c1706_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3f549ce5-27eb-4cb3-b122-55baca3c1706/20241119T130412/3f549ce5-27eb-4cb3-b122-55baca3c1706_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/c6b9d553-a3cc-4ec9-aec7-daf9b3acc3a5/20241120T052325/c6b9d553-a3cc-4ec9-aec7-daf9b3acc3a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c6b9d553-a3cc-4ec9-aec7-daf9b3acc3a5/20241120T052325/c6b9d553-a3cc-4ec9-aec7-daf9b3acc3a5_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/d323f318-6e38-4b9a-bcd8-2b54d121dea9/20241120T005402/d323f318-6e38-4b9a-bcd8-2b54d121dea9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d323f318-6e38-4b9a-bcd8-2b54d121dea9/20241120T005402/d323f318-6e38-4b9a-bcd8-2b54d121dea9_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
+    *  [![](https://media.king5.com/assets/KING/images/cd97bbb0-52d2-43de-8b9b-999a67d0f3bd/20241120T045802/cd97bbb0-52d2-43de-8b9b-999a67d0f3bd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cd97bbb0-52d2-43de-8b9b-999a67d0f3bd/20241120T045802/cd97bbb0-52d2-43de-8b9b-999a67d0f3bd_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/woman-killed-falling-tree-lynnwood/281-f4a788b3-a5c6-4ca8-83b0-0f4a4ca725fa)
         
-        #### [Live updates: Eastside Fire says 'time to stay indoors and avoid travel' is here as damaging winds begin](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
+        #### [Woman killed by falling tree in Lynnwood](https://www.king5.com/article/weather/weather-impact/woman-killed-falling-tree-lynnwood/281-f4a788b3-a5c6-4ca8-83b0-0f4a4ca725fa)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 49°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Showers in the Vicinity](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
