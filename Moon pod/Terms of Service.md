@@ -10,17 +10,17 @@ UP TO $270 OFF + FREE DELIVERY | BIGGEST SALE OF 2024
 
 Menu
 
-* [Moon Pods](#)
+* [Beanbags](#)
     
     * Back
         
-    * [Moon Pods](#)
+    * [Beanbags](#)
     * [The Moon Pod](https://www.moonpod.co/products/moon-pod)
     * [Double Moon Pod](https://www.moonpod.co/products/super-moon-pod)
     * [Outdoor Moon Pod](https://www.moonpod.co/products/outdoor-bundle)
-    * [Moon Pod Bundles](https://www.moonpod.co/collections/moon-pod-bundles)
-    * [Moon Pod Accessories](https://www.moonpod.co/collections/moon-pod-accessories)
-    * [Shop All Moon Pods](https://www.moonpod.co/collections/moon-pod-beanbags)
+    * [Beanbag Bundles (Save)](https://www.moonpod.co/collections/moon-pod-bundles)
+    * [Beanbag Accessories](https://www.moonpod.co/collections/moon-pod-accessories)
+    * [Shop All Beanbags](https://www.moonpod.co/collections/moon-pod-beanbags)
     
 * [Galaxy Blankets](https://www.moonpod.co/collections/blankets)
 * [Sleep Products](#)
