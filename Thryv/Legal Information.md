@@ -36,6 +36,7 @@
                 Need a little something extra? Find it here.
                 
             * [AI for Small Business](https://www.thryv.com/features/ai-for-small-businesses/)
+            * [Reporting Center](https://www.thryv.com/features/reporting-center/)
             * [Signatures](https://www.thryv.com/features/electronic-signatures/)
             * [Marketplace](https://www.thryv.com/marketplace/)
         
@@ -158,6 +159,7 @@ menu
             
             Need a little something extra? Find it here.
             
+        * [Reporting Center](https://www.thryv.com/features/reporting-center/)
         * [ThryvPay](https://www.thryv.com/features/thryvpay/)
         * [Signatures](https://www.thryv.com/features/electronic-signatures/)
         * [Integrations](https://www.thryv.com/app-market/)
