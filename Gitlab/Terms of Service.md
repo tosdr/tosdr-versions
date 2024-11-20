@@ -2976,7 +2976,6 @@
         * [ ]  [Security and Technology Policy Exception Process](https://handbook.gitlab.com/handbook/security/security-and-technology-policy-exception/)
         * [ ]  [Security Assurance](https://handbook.gitlab.com/handbook/security/security-assurance/)
             * [ ]  [Automation and Compliance](https://handbook.gitlab.com/handbook/security/security-assurance/automation-and-compliance/)
-            * [ ]  [Control Health and Effectiveness Rating (CHER) Procedure](https://handbook.gitlab.com/handbook/security/security-assurance/control-health-effectiveness-rating/)
             * [ ]  [Field Security Team](https://handbook.gitlab.com/handbook/security/security-assurance/field-security/)
                 * [ ]  [Annual Field Security Study](https://handbook.gitlab.com/handbook/security/security-assurance/field-security/field-security-study/)
                 * [ ]  [AnswerBase Quality Guide](https://handbook.gitlab.com/handbook/security/security-assurance/field-security/answerbase_quality_guide/)
