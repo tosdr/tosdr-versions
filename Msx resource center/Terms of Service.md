@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -153,10 +153,10 @@ Latest reactions
 
 Latest forum posts
 
-* [problems with Megaflashrom SCC+](https://www.msx.org/forum/msx-talk/general-discussion/problems-with-megaflashrom-scc "problems with Megaflashrom SCC+")
-* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
-* [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o?page=1 "RTC batteries actually working? :O")
 * [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250?page=1 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
+* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
+* [problems with Megaflashrom SCC+](https://www.msx.org/forum/msx-talk/general-discussion/problems-with-megaflashrom-scc "problems with Megaflashrom SCC+")
+* [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o?page=1 "RTC batteries actually working? :O")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
 * [Some facts about Konami 32kb game cartridges](https://www.msx.org/forum/msx-talk/hardware/some-facts-about-konami-32kb-game-cartridges "Some facts about Konami 32kb game cartridges")
 * [MSX music arrangements on the net](https://www.msx.org/forum/msx-talk/graphics-and-music/msx-arrangements-on-the-net?page=11 "MSX music arrangements on the net")
