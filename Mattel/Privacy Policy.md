@@ -38,20 +38,18 @@
 
 [Contact Us](https://shop.mattel.com/privacy-statement#anchor-contact-us)
 
-Global Consumer Privacy Statement
-=================================
+Mattel Privacy Statement
+========================
 
 At Mattel, we empower generations to explore the wonder of childhood and reach their full potential.
 
-This Privacy Statement is where we tell you how Mattel, including our affiliates and subsidiaries (including, but not solely, Mattel, Inc., Fisher-Price, Inc., American Girl Brands, LLC, HIT Entertainment Limited, Mega Brands Inc. their affiliate and subsidiaries) (collectively, “Mattel”) handle your personal information and let you tell us what we can do with it. Mattel’s complete list of entities, affiliates, and subsidiaries (“Mattel Group of Companies”) can be found here. This Privacy Statement applies to personal data collected and processed by Mattel through our websites, applications, features, or other services that post a link to this Privacy Statement (collectively, the “Services”), as well as personal data collected and held by Mattel offline, which we may combine with online data.
+This Privacy Statement is where we tell you how Mattel, including our affiliates and subsidiaries (including, but not solely, Mattel, Inc., Fisher-Price, Inc., American Girl Brands, LLC, HIT Entertainment Limited, Mega Brands Inc. their affiliate and subsidiaries) (collectively, “Mattel”) handle your personal information and let you tell us what we can do with it. Mattel’s complete list of entities, affiliates, and subsidiaries (“Mattel Group of Companies”) can be found [here](https://shop.mattel.com/mattel-group-of-companies). This Privacy Statement applies to personal data collected and processed by Mattel through our websites, applications, features, or other services that post a link to this Privacy Statement (collectively, the “Services”), as well as personal data collected and held by Mattel offline, which we may combine with online data.
 
 When we talk about “personal information” or “personal data,” we mean information that tells us who you are, where you live, and how we can contact you. We get this information in many ways and from many different places, including from third parties. Some personal information we collect may be considered “sensitive” under various applicable laws. It can be things you give to us directly, like your name, phone number, and email address when you sign up for an account or buy something from us. It can also be things you cannot see that we collect from your computer or mobile phone while you are on our websites, mobile apps, or social media channels. The personal information we collect, such as IP addresses, cookie identifiers, or mobile phone IDs, allow us to send you videos and other content about our toys, movies, and games that we think you may like to see.
 
 In some instances, to comply with good privacy practices and the law, we may de-identify or pseudonymize previously personal information so that it becomes non-personal, such as aggregating and/or or converting it to a code, sometimes using a function commonly known as “hash”, or otherwise removing characteristics that make the data personally identifiable to you. We maintain and use de-identified data without attempting to re-identify it, except where permitted by applicable law, such as to determine whether our de-identification processes satisfy legal requirements. We will treat de-identified or pseudonymized information as non-personal to the fullest extent allowed by applicable law. If we combine non-personal information with personal information, then we will treat the combined information as personal information under this Privacy Statement.
 
 By accessing, using, or otherwise interacting with any part of the Services, or by otherwise providing personal data to Mattel, you agree to be bound by the terms of this Privacy Statement and the applicable Terms and Conditions of Use which govern your use of the Services. If you do not agree with the terms of this Privacy Statement and the applicable Terms and Conditions, do not access or use the Services or provide personal data to us.
-
-  
 
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=8be5a791274f462fa36ba4e5344b7513)
 
