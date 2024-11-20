@@ -993,6 +993,18 @@ QUICK BUY! Get 15% off on medicines\*
     * [Specialized Nutrition](https://www.1mg.com/categories/nutritional-drinks/specialized-nutrition-3110)
     * [Green Coffee](https://www.1mg.com/categories/nutritional-drinks/green-coffee-3111)
     
+* [Anti-Pollution](https://www.1mg.com/categories/anti-pollution-237)
+    
+    * [Humidifier](https://www.1mg.com/categories/anti-pollution/humidifier-64)
+    * [Nasal Drops & Sprays](https://www.1mg.com/categories/anti-pollution/nasal-drops-sprays-669)
+    * [Oxygen Concentrators & Cans](https://www.1mg.com/categories/anti-pollution/oxygen-concentrators-cans-308)
+    * [Respiratory & Surgical Mask](https://www.1mg.com/categories/anti-pollution/respiratory-surgical-mask-158)
+    * [Face Shield](https://www.1mg.com/categories/anti-pollution/respiratory-surgical-mask/face-shield-633)
+    * [Surgical Masks](https://www.1mg.com/categories/anti-pollution/respiratory-surgical-mask/surgical-masks-304)
+    * [N95 Masks](https://www.1mg.com/categories/anti-pollution/respiratory-surgical-mask/n95-masks-675)
+    * [Vaporizers & Nebulizers](https://www.1mg.com/categories/anti-pollution/vaporizers-nebulizers-186)
+    * [Air Purifiers](https://www.1mg.com/categories/anti-pollution/air-purifiers-882)
+    
 * [Stomach Care](https://www.1mg.com/categories/stomach-care-30)
     
     * [Constipation](https://www.1mg.com/categories/stomach-care/constipation-649)
@@ -1069,17 +1081,6 @@ QUICK BUY! Get 15% off on medicines\*
     * [Antioxidant Supplements](https://www.1mg.com/categories/immunity-boosters/antioxidant-supplements-249)
     * [Ayurvedic Supplements](https://www.1mg.com/categories/immunity-boosters/ayurvedic-supplements-250)
     * [Herbal Tea](https://www.1mg.com/categories/immunity-boosters/herbal-tea-821)
-    
-* [Feminine Care](https://www.1mg.com/categories/feminine-care-156)
-    
-    * [Sanitary Pads](https://www.1mg.com/categories/feminine-care/sanitary-pads-681)
-    * [Breast Pumps](https://www.1mg.com/categories/feminine-care/breast-pumps-402)
-    * [Hair Removal](https://www.1mg.com/categories/feminine-care/hair-removal-233)
-    * [Intimate Wash & Wipes](https://www.1mg.com/categories/feminine-care/intimate-wash-wipes-236)
-    * [Toilet Sanitaries](https://www.1mg.com/categories/feminine-care/toilet-sanitaries-66)
-    * [Menstrual Cup & Tampons](https://www.1mg.com/categories/feminine-care/menstrual-cup-tampons-3072)
-    * [Tampons](https://www.1mg.com/categories/feminine-care/menstrual-cup-tampons/tampons-574)
-    * [Menstrual Cups](https://www.1mg.com/categories/feminine-care/menstrual-cup-tampons/menstrual-cups-573)
     
 
 last updated June 2021
