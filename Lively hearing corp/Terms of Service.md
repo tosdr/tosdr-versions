@@ -40,9 +40,7 @@ With our advanced hearing aids and recommended expert care, you'll be hearing be
 
 [Start your 100-day trial](https://www.listenlively.com/survey)[Shop for hearing aids ›](https://www.listenlively.com/product)
 
-![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop-test2.dd0b3ca5.jpg)
-
-[Our clearest  
+![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/default-desktop.dae76a02.jpg)[Our clearest  
 sound, our most discreet design](https://www.listenlively.com/product)[Our clearest  
 sound, our most discreet design _Shop Now_](https://www.listenlively.com/product)[Our clearest  
 sound, our most discreet design _Shop the Select 500_](https://www.listenlively.com/product)
@@ -77,7 +75,7 @@ Everything you need for better hearing — all for as low as $995 per pair. Fina
 Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'll refund your entire order.
 
 * Up to 3-year warranty
-* Customer support 7 days a week
+* US-based support, 7 days a week
     
 * Free shipping and returns
 
