@@ -655,6 +655,17 @@ https://www.conair.com/cart?lang=en\_US
     
     [![](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw5222bc66/images/arrow-expand.svg)](https://www.conair.com/safety?lang=en_US)
 * [Holiday Gifts](https://www.conair.com/featured?lang=en_US)
+    
+    * [Gifts For Her](https://www.conair.com/gifts-for-her?lang=en_US)
+        
+    
+    * [Gifts For Him](https://www.conair.com/gifts-for-him?lang=en_US)
+        
+    
+    * [Gifts For Her](https://www.conair.com/gifts-for-her?lang=en_US)
+    * [Gifts For Him](https://www.conair.com/gifts-for-him?lang=en_US)
+    
+    [![](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw5222bc66/images/arrow-expand.svg)](https://www.conair.com/featured?lang=en_US)
 * [Sale](https://www.conair.com/sale?lang=en_US)
 
    
