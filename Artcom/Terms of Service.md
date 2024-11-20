@@ -2,11 +2,11 @@ Shop Now
 
 20% Off on Orders $99+ Ends in..
 
-2DAYS1HRS8MINS
+1DAYS16HRS19MINS
 
 20% Off on Orders $99+ Ends in..
 
-2DAYS1HRS8MINS
+1DAYS16HRS19MINS
 
 Shop Now
 
@@ -18,7 +18,7 @@ My Account
 
 Cancel
 
-[Gift Guide](https://www.art.com/gift-guide/holiday "Gift Guide")[Frame My Photos](https://www.art.com/lp/frame-my-photos "Frame My Photos")[Style Guide 2024](https://www.art.com/lp/style-guide "Style Guide 2024")[New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm "New Arrivals")[Best Sellers](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm "Best Sellers")
+[Gift Guide](https://www.art.com/gift-guide/holiday "Gift Guide")[Frame My Photos](https://www.art.com/lp/frame-my-photos "Frame My Photos")[Style Guide](https://www.art.com/lp/style-guide "Style Guide")[New](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm "New")[Best Sellers](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm "Best Sellers")
 
 [by Art Movement](https://www.art.com/gallery/id--c207103/movement-prints.htm "by Art Movement")
 
@@ -336,7 +336,7 @@ Cancel
 
 [Philippe Sainte-Laudy](https://www.art.com/gallery/id--a723523/philippe-sainte-laudy-posters.htm "Philippe Sainte-Laudy")
 
-[Design Inspiration](https://www.art.com/lp/shopbyrooms "Design Inspiration")
+[Rooms & Colors](https://www.art.com/lp/shopbyrooms "Rooms & Colors")
 
 [Art Colors](https://www.art.com/shop/wall-art-by-color "Art Colors")
 
