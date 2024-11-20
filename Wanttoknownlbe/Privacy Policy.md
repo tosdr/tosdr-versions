@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/kijk-naar-de-mondkapjes-idiotie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/we-zijn-misleid-door-de-elite/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
