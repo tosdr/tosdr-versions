@@ -2,14 +2,14 @@ Wednesday, November 20 2024
 
 Breaking News
 
+* [America In The Age Of Stupidity: My Answer To Those Crazy Lib-O-Tards](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-my-answer-to-those-crazy-lib-o-tards/)
+* [FEMA Just Another Arrow In Biden’s Quiver](https://www.conservativedailynews.com/2024/11/fema-just-another-arrow-in-bidens-quiver/)
+* [Results of 2024 presidential election shows it isn’t Education Vote or Gender Vote- It’s the Entitlement Vote](https://www.conservativedailynews.com/2024/11/results-of-2024-presidential-election-shows-it-isnt-education-vote-or-gender-vote-its-the-entitlement-vote/)
 * [President Joe Biden’s Schedule for Wednesday, November 20, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-20-2024/)
 * [The “People’s President” vs the Corrupt Elites](https://www.conservativedailynews.com/2024/11/the-peoples-president-vs-the-corrupt-elites/)
 * [Why Matt Gaetz Makes Sense As Attorney General](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/)
 * [President Joe Biden’s Schedule for Tuesday, November 19, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-19-2024/)
 * [If You Think Kamala Harris Was Serious About The Things She Promised During The Recent Presidential Campaign, You’re Dead Wrong](https://www.conservativedailynews.com/2024/11/if-you-think-kamala-harris-was-serious-about-the-things-she-promised-during-the-recent-presidential-campaign-youre-dead-wrong/)
-* [Jen Psaki Admits Dems Are ‘In The Wilderness’ Without A ‘Clear Leader Of The Party’](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/)
-* [Now an Excellent Time to Add 4 more Justices of the Supreme Court](https://www.conservativedailynews.com/2024/11/now-an-excellent-time-to-add-4-more-justices-of-the-supreme-court/)
-* [Trump Confirms He Will Declare National Emergency, Use Military Assets For Mass Deportation](https://www.conservativedailynews.com/2024/11/trump-confirms-he-will-declare-national-emergency-use-military-assets-for-mass-deportation/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -110,87 +110,87 @@ Support CDN!
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for December. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.  
 **Current Fundraising for December:**
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.41%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.45%
 
 Red = Recurring Donations  
 Orange = One-Time Donations
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/trump-with-finger-pointing.jpg)](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
-    
-    [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
-    
-    November 16, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/11/Pete-Hegseth-Fox-News-Modern-Warrior-veterans-day-special.jpg)](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/)
-    
-    [Trump’s Sec Def Pick Will Give Pentagon Its First Real Wake Up Call In Decades](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/)
-    
-    November 14, 2024
-    
-
-Recent Posts
-
-* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-20-2024/)
-    
-    [President Joe Biden’s Schedule for Wednesday, November 20, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-20-2024/)
-    
-    November 20, 2024
-    
-* [![Biden fema florida hurricane](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv111924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/bidens-fema/)
-    
-    [Biden’s FEMA](https://www.conservativedailynews.com/2024/11/bidens-fema/)
-    
-    November 19, 2024
-    
-* [![Trump wins success fighter](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/the-peoples-president-vs-the-corrupt-elites/)
-    
-    [The “People’s President” vs the Corrupt Elites](https://www.conservativedailynews.com/2024/11/the-peoples-president-vs-the-corrupt-elites/)
-    
-    November 19, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/03/Ice-arresting-illegal-alien.jpg)](https://www.conservativedailynews.com/2024/11/debunking-the-lefts-deportation-hysteria/)
-    
-    [Debunking the Left’s Deportation Hysteria](https://www.conservativedailynews.com/2024/11/debunking-the-lefts-deportation-hysteria/)
-    
-    November 19, 2024
-    
-* [![Jungle Joe Biden](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/jungle-joe/)
-    
-    [Jungle Joe](https://www.conservativedailynews.com/2024/11/jungle-joe/)
-    
-    November 19, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/girl-computer.jpg)](https://www.conservativedailynews.com/2024/11/plan-is-not-a-four-letter-word/)
-    
-    [‘Plan’ is Not a Four-Letter Word](https://www.conservativedailynews.com/2024/11/plan-is-not-a-four-letter-word/)
-    
-    November 19, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/inflation-warning-sign-220x150.png)](https://www.conservativedailynews.com/2024/11/will-the-feds-rate-cuts-reignite-inflation/)
-    
-    [Will the Fed’s Rate Cuts Reignite Inflation?](https://www.conservativedailynews.com/2024/11/will-the-feds-rate-cuts-reignite-inflation/)
-    
-    November 19, 2024
-    
 * [![Matt Gaetz department of Justice corruption](https://www.conservativedailynews.com/wp-content/uploads/2024/11/03-gaetz-doj-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/)
     
     [Why Matt Gaetz Makes Sense As Attorney General](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/)
     
     November 19, 2024
     
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/trump-with-finger-pointing.jpg)](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
+    
+    [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
+    
+    November 16, 2024
+    
+
+Recent Posts
+
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/03-trump-map-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/usa-prognosis/)
+    
+    [USA Prognosis](https://www.conservativedailynews.com/2024/11/usa-prognosis/)
+    
+    November 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Screaming-Dems-220x150.png)](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-my-answer-to-those-crazy-lib-o-tards/)
+    
+    [America In The Age Of Stupidity: My Answer To Those Crazy Lib-O-Tards](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-my-answer-to-those-crazy-lib-o-tards/)
+    
+    November 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5793-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/fema-just-another-arrow-in-bidens-quiver/)
+    
+    [FEMA Just Another Arrow In Biden’s Quiver](https://www.conservativedailynews.com/2024/11/fema-just-another-arrow-in-bidens-quiver/)
+    
+    November 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/08/vote-3569999_1920-220x150.jpg)](https://www.conservativedailynews.com/2024/11/results-of-2024-presidential-election-shows-it-isnt-education-vote-or-gender-vote-its-the-entitlement-vote/)
+    
+    [Results of 2024 presidential election shows it isn’t Education Vote or Gender Vote- It’s the Entitlement Vote](https://www.conservativedailynews.com/2024/11/results-of-2024-presidential-election-shows-it-isnt-education-vote-or-gender-vote-its-the-entitlement-vote/)
+    
+    November 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/insincere-apology/)
+    
+    [Insincere Apology](https://www.conservativedailynews.com/2024/11/insincere-apology/)
+    
+    November 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz112024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/crap-fight/)
+    
+    [Crap Fight](https://www.conservativedailynews.com/2024/11/crap-fight/)
+    
+    November 20, 2024
+    
+* [![Joe Biden inflation grocery prices](https://www.conservativedailynews.com/wp-content/uploads/2023/01/mrz012923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/fresh-produce-101/)
+    
+    [Fresh Produce 101](https://www.conservativedailynews.com/2024/11/fresh-produce-101/)
+    
+    November 20, 2024
+    
+* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-20-2024/)
+    
+    [President Joe Biden’s Schedule for Wednesday, November 20, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-20-2024/)
+    
+    November 20, 2024
+    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [CMP Auctioning M1D Sniper Rifle To Benefit Museum Exhibit](https://www.thegunpage.com/cmp-auctioning-m1d-sniper-rifle-to-benefit-museum-exhibit/10612003)
+* [Public Support For An Assault Weapons Ban Continues To Tumble](https://www.thegunpage.com/public-support-for-an-assault-weapons-ban-continues-to-tumble/10612001)
+* [Ho Ho Ho, Now You Can Have The Die Hard Holster Too](https://www.thegunpage.com/ho-ho-ho-now-you-can-have-the-die-hard-holster-too/10611996)
+* [With Republican Sweep Anti-Gun Dem Senator Now Wants to be Bipartisan.](https://www.thegunpage.com/with-republican-sweep-anti-gun-dem-senator-now-wants-to-be-bipartisan/10611995)
+* [BlackArc Munitions Introduces Advanced 5.56 Load With Berger Bullet](https://www.thegunpage.com/blackarc-munitions-introduces-advanced-5-56-load-with-berger-bullet/10611997)
+* [Best Self-Defense Tools? Um…I Don’t Know…How ‘Bout a Gun](https://www.thegunpage.com/best-self-defense-tools-umi-dont-knowhow-bout-a-gun/10611994)
 * [2024 Holiday Gift Guide: Rifles](https://www.thegunpage.com/2024-holiday-gift-guide-rifles/10611992)
 * [All About The 2024 USPSA Alabama State Championship](https://www.thegunpage.com/all-about-the-2024-uspsa-alabama-state-championship/10611993)
 * [Why I Love Hunting With Suppressors](https://www.thegunpage.com/why-i-love-hunting-with-suppressors/10611989)
 * [POTD: Shooting Rk62, R20 LMTs and B&Ts in Iraq](https://www.thegunpage.com/potd-shooting-rk62-r20-lmts-and-bts-in-iraq/10611990)
-* [TFB 2024 Black Friday/Cyber Monday Deals](https://www.thegunpage.com/tfb-2024-black-friday-cyber-monday-deals/10611987)
-* [Affordable Long-Range Precision: Vortex’s New Strike Eagle 3-18x44mm and Mossberg 7mm PRC](https://www.thegunpage.com/affordable-long-range-precision-vortexs-new-strike-eagle-3-18x44mm-and-mossberg-7mm-prc/10611984)
-* [MI: Four Gun Control Bills on the Move](https://www.thegunpage.com/mi-four-gun-control-bills-on-the-move/10611982)
-* [Giving Guns as Gifts: Know the Law](https://www.thegunpage.com/giving-guns-as-gifts-know-the-law/10611981)
-* [Canto Arms DL-44 Hero: Upgraded Blaster](https://www.thegunpage.com/canto-arms-dl-44-hero-upgraded-blaster/10611979)
-* [Canto Arms A280-CFE .22 Blaster Build](https://www.thegunpage.com/canto-arms-a280-cfe-22-blaster-build/10611977)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Why Matt Gaetz Makes Sense As Attorney General](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/#comment-783304)
 * MeMyself&I on [Jen Psaki Admits Dems Are ‘In The Wilderness’ Without A ‘Clear Leader Of The Party’](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/#comment-783298)
 * Stanley Warner on [If You Think Kamala Harris Was Serious About The Things She Promised During The Recent Presidential Campaign, You’re Dead Wrong](https://www.conservativedailynews.com/2024/11/if-you-think-kamala-harris-was-serious-about-the-things-she-promised-during-the-recent-presidential-campaign-youre-dead-wrong/#comment-783295)
 * Stanley Warner on [Five Government Programs That Musk’s Government Efficiency Agency Could Put On The Chopping Block](https://www.conservativedailynews.com/2024/11/five-government-programs-that-musks-government-efficiency-agency-could-put-on-the-chopping-block/#comment-783286)
@@ -240,7 +241,6 @@ Recent Comments
 * Stanley Warner on [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/#comment-783269)
 * Stanley Warner on [Can A FOX Weekend Host Run Our Military? Absolutely](https://www.conservativedailynews.com/2024/11/can-a-fox-weekend-host-run-our-military-absolutely/#comment-783268)
 * Stanley Warner on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783267)
-* Ted Thomas on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783266)
 
 [Close](#)
 
