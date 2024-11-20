@@ -77,9 +77,9 @@ We'll use your location to find clinics, hospitals and doctors closest to you.
 
 [](javascript:void(0) "Close")
 
-National IV Fluid Shortage
+Inclement Weather Updates
 
-Like many other health systems in the U.S., Swedish has been impacted by the national IV fluid shortage. Patients with an urgent medical need should not delay care. [Learn more.](https://blog.swedish.org/swedish-news/how-providence-swedish-is-responding-to-the-national-iv-shortage)
+[Learn more about potential closures and impacts on Swedish Hospitals and Clinics.](https://blog.swedish.org/swedish-blog/inclement-weather-information)
 
 Terms of Use & Privacy Policy
 =============================
