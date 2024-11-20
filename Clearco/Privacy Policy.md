@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/673b522b257e86137bb9e548_clearco-expanded-receipt-funding-includes-more-vendors.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/673d06d479a287ef391ba856_small-business-saturday-2024-startup-ecommerce-brands-to-watch.png)
 
-###### Clearco Has Expanded Receipt Funding to Include More Vendors
+###### Small Business Saturday is November 30: Startup Ecommerce Brands to Watch
 
-[Read now >](https://clear.co/blog/clearco-expanded-receipt-funding-includes-more-vendors)
+[Read now >](https://clear.co/blog/small-business-saturday-2024-startup-ecommerce-brands-to-watch)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
