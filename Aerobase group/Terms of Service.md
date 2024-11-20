@@ -155,7 +155,7 @@ For further information regarding the applicable laws, regulations, and policies
     
     This image, made from a video posted Tuesday by a Telegram channel affiliated with the Ukrainian military, reportedly shows U.S.-supplied ATACMS missiles being fired from an undisclosed location in Ukraine. (Lachen Pyshe Telegram via AP)
     
-* [AeroVironment to acquire BlueHalo, known for drone swarm tech, for $4B](https://www.defensenews.com/pentagon/2024/11/19/aerovironment-to-acquire-bluehalo-known-for-drone-swarm-tech-for-4b/)  
+* [AeroVironment to acquire BlueHalo for $4.1 billion](https://www.defensenews.com/pentagon/2024/11/19/aerovironment-to-acquire-bluehalo-known-for-drone-swarm-tech-for-4b/)  
     11/19/24 01:43pm  
     
     AeroVironment announced Tuesday its plans to acquire BlueHalo, well-known for its drone swarm and counter-drone technology, for roughly $4.1 billion through an all-stock transaction. (Getty Images)
