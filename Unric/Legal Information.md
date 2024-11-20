@@ -135,9 +135,7 @@ A-Z Site Index
 Privacy Notice
 ==============
 
-[![privacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20696%20464'%3E%3C/svg%3E "privacy")
-
-![privacy](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
+[![privacy](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
 
 ### UNITED NATIONS’ PRIVACY NOTICE
 
@@ -153,41 +151,31 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
- [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
-
-![Latest UNRIC Library Newsletter](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-november-2024/ "UNRIC Info Point & Library Newsletter: November 2024")
+ [![Latest UNRIC Library Newsletter](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-november-2024/ "UNRIC Info Point & Library Newsletter: November 2024")
 
 ### [UNRIC Info Point & Library Newsletter: November 2024](https://unric.org/en/unric-info-point-library-newsletter-november-2024/ "UNRIC Info Point & Library Newsletter: November 2024")
 
 07/11/2024
 
- [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
-
-![Latest UNRIC Library Newsletter](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
+ [![Latest UNRIC Library Newsletter](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
 
 ### [UNRIC Info Point & Library Newsletter: October 2024](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
 
 10/10/2024
 
- [![Latest UNRIC Library Newsletter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
-
-![Latest UNRIC Library Newsletter](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
+ [![Latest UNRIC Library Newsletter](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
 
 ### [UNRIC Info Point & Library Newsletter – September 2024](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
 
 10/09/2024
 
- [![UNRIC Library Backgrounder: Sea Level Rise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
-
-![UNRIC Library Backgrounder: Sea Level Rise](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/sea-level-rise-backgrounder-100x70.png)](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
+ [![UNRIC Library Backgrounder: Sea Level Rise](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/sea-level-rise-backgrounder-100x70.png)](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
 
 ### [UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
 
 29/08/2024
 
- [![UNRIC Library Backgrounder: Mpox](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
-
-![UNRIC Library Backgrounder: Mpox](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/backgrounder-MPOX-100x70.png)](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
+ [![UNRIC Library Backgrounder: Mpox](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/backgrounder-MPOX-100x70.png)](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
 
 ### [UNRIC Library Backgrounder: Mpox](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
 
