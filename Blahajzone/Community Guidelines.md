@@ -1,4 +1,4 @@
 JavaScriptを有効にしてください  
 Please turn on your JavaScript
 
-![](https://static.blahaj.zone/shonky/assets/transparent/Shonky.webp)If you cant make your own, store bought is fine!
+![](https://static.blahaj.zone/shonky/assets/transparent/Shonky.webp)Trans men are men, Trans women are women, Non-binary people are awesome!
