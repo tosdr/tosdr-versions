@@ -294,15 +294,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Nearly Headless Nick died on October 31, 1492, after being hit in the neck 45 times with a blunt ax.
+A picture of Gandalf the Grey (from The Lord of the Rings) can be seen in the collection of great wizards in Albus Dumbledore’s study in the Harry Potter and the Chamber of Secrets film.
 
 ### Potter History
 
-September 10, 2007 – Harry Potter is named the highest-grossing motion picture franchise of all time, with $4.47 billion in ticket sales.
+February 17, 2005 – A visitor of the Goblet of Fire set told MuggleNet that only Sirius’s head would make an appearance during the fireplace scene, making Gary Oldman fans upset at his minor appearance.
 
 ### Potter Quote
 
-“She’s been breaking into your broom shed in the garden since the age of six and taking each of your brooms out in turn when you weren’t looking.”
+“Harry — yer a wizard.”
 
 [](#)
 
