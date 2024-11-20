@@ -201,10 +201,10 @@
     
     * [**Find a partner**
         
-        Work with a Twilio partner to buy or build the right solution](https://segment.com/en-us/partners/partner-showcase)
+        Work with a Twilio partner to buy or build the right solution](https://segment.com/en-us/partners)
     * [**Partner with us**
         
-        Join our Partner Program to build or sell Twilio solutions to your customers.](https://segment.com/en-us/partners)
+        Join our Partner Program to build or sell Twilio solutions to your customers.](https://segment.com/en-us/partners/become-a-partner)
     
 * Developers
     
@@ -563,10 +563,10 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
     
     * [**Find a partner**
         
-        Work with a Twilio partner to buy or build the right solution](https://segment.com/en-us/partners/partner-showcase)
+        Work with a Twilio partner to buy or build the right solution](https://segment.com/en-us/partners)
     * [**Partner with us**
         
-        Join our Partner Program to build or sell Twilio solutions to your customers.](https://segment.com/en-us/partners)
+        Join our Partner Program to build or sell Twilio solutions to your customers.](https://segment.com/en-us/partners/become-a-partner)
     
 * Developers
     
