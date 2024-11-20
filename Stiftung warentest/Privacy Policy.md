@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
-* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
-* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
-* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
-* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
+* [Dubiose Fest­gelder: Vaduzer Verstecken](https://www.test.de/Dubiose-Festgelder-Vaduzer-Verstecken-6029799-0/ "Dubiose Festgelder - Vaduzer Verstecken")
+* [Lebens­versicherung: Höherer Garan­tiezins ab 2025](https://www.test.de/Lebensversicherung-Hoeherer-Garantiezins-ab-2025-6140352-0/ "Lebensversicherung - Höherer Garantiezins ab 2025")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
 
 Service Stiftung Warentest
 
