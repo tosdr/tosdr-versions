@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T130250/0b5e620d-089e-4381-ba15-73a58a7a4d3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T130250/0b5e620d-089e-4381-ba15-73a58a7a4d3e_360x203.jpg)](https://www.king5.com/article/news/local/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
+    *  [![](https://media.king5.com/assets/KING/images/a3c31a14-f97a-4597-9883-a47719330dc9/a3c31a14-f97a-4597-9883-a47719330dc9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3c31a14-f97a-4597-9883-a47719330dc9/a3c31a14-f97a-4597-9883-a47719330dc9_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/when-power-expected-restored-seattle-city-light-pse/281-94dae52c-0120-498c-a558-957aabfad6e7)
         
-        #### [600,000 people without power in western WA; Company warns outages could last for multiple days](https://www.king5.com/article/news/local/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
+        #### [Here's when power is expected to be restored across Puget Sound](https://www.king5.com/article/weather/weather-impact/when-power-expected-restored-seattle-city-light-pse/281-94dae52c-0120-498c-a558-957aabfad6e7)
         
-    *  [![](https://media.king5.com/assets/KING/images/c0c0c3bd-1498-4838-89c4-a783b34def12/20241119T143749/c0c0c3bd-1498-4838-89c4-a783b34def12_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c0c0c3bd-1498-4838-89c4-a783b34def12/20241119T143749/c0c0c3bd-1498-4838-89c4-a783b34def12_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
+    *  [![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
         
-        #### [Harsh winds easing 'dramatically' as bomb cyclone moves away from western Washington](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
+        #### [Over 600,000 people lost power at peak of Washington windstorm](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c0c0c3bd-1498-4838-89c4-a783b34def12/20241119T143749/c0c0c3bd-1498-4838-89c4-a783b34def12_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c0c0c3bd-1498-4838-89c4-a783b34def12/20241119T143749/c0c0c3bd-1498-4838-89c4-a783b34def12_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
+    *  [![](https://media.king5.com/assets/KING/images/a3c31a14-f97a-4597-9883-a47719330dc9/a3c31a14-f97a-4597-9883-a47719330dc9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3c31a14-f97a-4597-9883-a47719330dc9/a3c31a14-f97a-4597-9883-a47719330dc9_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/when-power-expected-restored-seattle-city-light-pse/281-94dae52c-0120-498c-a558-957aabfad6e7)
         
-        #### [Harsh winds easing 'dramatically' as bomb cyclone moves away from western Washington](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
+        #### [Here's when power is expected to be restored across Puget Sound](https://www.king5.com/article/weather/weather-impact/when-power-expected-restored-seattle-city-light-pse/281-94dae52c-0120-498c-a558-957aabfad6e7)
         
-    *  [![](https://media.king5.com/assets/KING/images/3c8332e7-1498-4fe6-9585-0eb59a17616d/20241120T133635/3c8332e7-1498-4fe6-9585-0eb59a17616d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3c8332e7-1498-4fe6-9585-0eb59a17616d/20241120T133635/3c8332e7-1498-4fe6-9585-0eb59a17616d_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
+    *  [![](https://media.king5.com/assets/KING/images/b8b70abc-3a9a-4e26-8fa8-8c9cdfcd477f/20241120T130102/b8b70abc-3a9a-4e26-8fa8-8c9cdfcd477f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b8b70abc-3a9a-4e26-8fa8-8c9cdfcd477f/20241120T130102/b8b70abc-3a9a-4e26-8fa8-8c9cdfcd477f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-        #### [Live updates: Widespread traffic impacts after major windstorm, hundreds of thousands of power outages,](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-44°
+53°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
