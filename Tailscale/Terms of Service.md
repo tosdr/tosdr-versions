@@ -29,6 +29,7 @@ Solutions
 By use-case
 
 * [Remote Access](https://tailscale.com/use-cases/remote-access)
+* [Site-to-site Networking](https://tailscale.com/use-cases/site-to-site-networking)
 * [Multi-Cloud Networking](https://tailscale.com/use-cases/multi-cloud-networking)
 * [Kubernetes Networking](https://tailscale.com/use-cases/kubernetes)
 * [Edge & IoT Deployments](https://tailscale.com/use-cases/iot)
@@ -37,7 +38,6 @@ By use-case
 * [Secure SaaS](https://tailscale.com/use-cases/secure-saas)
 * [Business VPN](https://tailscale.com/use-cases/business-vpn)
 * [Homelab](https://tailscale.com/use-cases/homelab)
-* [Site-to-site Networking](https://tailscale.com/use-cases/site-to-site-networking)
 
 By role
 
