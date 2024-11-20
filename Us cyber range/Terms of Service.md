@@ -90,11 +90,11 @@ Subscribe to our newsletter!
 
 Enter Email
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
-      
+       
 
 ![US Cyber Range of Virginia tech Logo](https://www.uscyberrange.org/wp-content/uploads/2022/10/USCR-of-VT_white_vertical-1.svg)
 
