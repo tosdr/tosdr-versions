@@ -41,9 +41,7 @@ Database
 
 [![Timeline](/images/timeline.png)
 
-Timeline](https://paimon.moe/timeline)[![TCG](/images/tcg.png)
-
-TCG](https://paimon.moe/tcg)[![Settings](/images/settings.png)
+Timeline](https://paimon.moe/timeline)[![Settings](/images/settings.png)
 
 Settings](https://paimon.moe/settings)
 
