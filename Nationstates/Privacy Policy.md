@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [2023-24 Israel-Iran proxy conflict (2,010)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (2,010 posts)")
-* [Where would you never live ? (88)](https://forum.nationstates.net/viewtopic.php?t=558482&f=20&view=unread#unread ""Where would you never live ?" (88 posts)")
-* [What rights specifically will Donald… (230)](https://forum.nationstates.net/viewtopic.php?t=558263&f=20&view=unread#unread ""What rights specifically will Donald Trump Take Away?" (230 posts)")
-* [American Politics: Turnabout Trump (5,527)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (5,527 posts)")
-* [A trans question. (141)](https://forum.nationstates.net/viewtopic.php?t=558407&f=20&view=unread#unread ""A trans question." (141 posts)")
+* [The "the boggest place on earth" Ques… (26)](https://forum.nationstates.net/viewtopic.php?t=558345&f=23&view=unread#unread ""The "the boggest place on earth" Question y Answer" (26 posts)")
+* [World War 3 (OOC|OPEN|SIGN-UPS) (100)](https://forum.nationstates.net/viewtopic.php?t=558525&f=31&view=unread#unread ""World War 3 (OOC|OPEN|SIGN-UPS)" (100 posts)")
+* [Grant AN's wish then curse it (1,161)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (1,161 posts)")
+* [How do you imagine the player above y… (2,253)](https://forum.nationstates.net/viewtopic.php?t=539223&f=25&view=unread#unread ""How do you imagine the player above you in real life?" (2,253 posts)")
 
 Advertisement
 
