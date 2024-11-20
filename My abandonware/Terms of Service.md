@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Hydro Thunder](https://www.myabandonware.com/game/hydro-thunder-e35)
+* [Pyramid](https://www.myabandonware.com/game/pyramid-9ir)
 * [Galactic Crusader](https://www.myabandonware.com/game/galactic-crusader-9qh)
 * [Dancing Block](https://www.myabandonware.com/game/dancing-block-9sg)
 * [Penguin Hideout](https://www.myabandonware.com/game/penguin-hideout-9vx)
-* [Virtual City 2: Paradise Resort](https://www.myabandonware.com/game/virtual-city-2-paradise-resort-tx5)
-* [Virtual City](https://www.myabandonware.com/game/virtual-city-t4d)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
