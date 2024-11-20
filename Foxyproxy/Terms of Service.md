@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You all have the best customer experience I've ever seen.
+Thank you very much for your good service.
 
-Amy Xu
+Gil Lessard
