@@ -51,7 +51,7 @@ See solutions for
 Privacy Policy
 ==============
 
-Last updated October 30, 2024
+Last updated November 20, 2024
 
 Introduction
 ------------
@@ -241,8 +241,6 @@ Betterment uses Stripe, Inc. (“Stripe”) to process customer payments. By usi
 
 If you open or maintain a Betterment Checking account, you authorize MX Technologies, Inc. ("MX") to collect information about your Betterment Checking account transactions. You acknowledge and agree that the information collected, and the services provided to you, by MX are subject to [certain terms and conditions](https://www.betterment.com/legal/transaction-data-enhancement).
 
-If you open or maintain a Betterment Crypto investing account, you authorize Betterment to share certain personal information collected from you, including full legal name, email address, permanent address, date of birth, and social security number, with Gemini Trust Company, LLC (“Gemini”) for the purpose of opening your Crypto investing account with Gemini. You acknowledge and agree that the information collected, shared, and the services provided to you by Gemini are subject to [Gemini’s Privacy Policy](https://www.gemini.com/legal/privacy-policy).
-
 If you receive customer support by telephone from any of Betterment’s business lines, you acknowledge and agree that those support calls may be recorded. If you use Zoom to initiate a screenshare with Betterment’s customer support or human advice teams, you acknowledge and agree that Zoom may collect certain information about your location, as well as the timing and your use of its services, in accordance with [Zoom's Privacy Policy](https://zoom.us/privacy).
 
 If you use a Betterment Visa® Debit Card, you acknowledge and agree that Betterment will, on behalf of Dosh Holdings LLC, a subsidiary of Cardlytics, Inc. (“Dosh”), our cash rewards partner, collect certain transaction information about purchases made with your Betterment Visa® Debit Card. The transaction information includes information about your purchases and the vendors with which you transacted, but does not contain personally identifying information such as name, address, date of birth or social security number. Additionally, if you enable the location services feature, Betterment collects information about your location through your phone to provide you with cash back offers in your vicinity. You acknowledge and agree that the collection of information to offer cash back rewards is also subject to the [Dosh Terms of Service and Privacy Policy](http://www.dosh.com/privacy-policy).
@@ -318,8 +316,6 @@ If you conduct business with us through Betterment for Advisors, we may exchange
 If you open a Betterment Checking account, Betterment will share information with nbkc bank and/or its agents for purposes relating to your account.
 
 If you use a Betterment Visa® Debit Card, Betterment will share the transaction information described above with Dosh, Betterment’s cash rewards partner, and/or its agents for purposes of generating cash back rewards offers for your account. Dosh is prohibited from selling this data. Dosh also may not use this data for any purpose other than providing cash back rewards or another authorized purpose. If you do not wish for this information to be shared, you may disable cash back rewards by emailing [cashback@betterment.com](mailto:cashback@betterment.com). Betterment also will share information about your location with Dosh if you allow Betterment to access your location through your phone. If you do not wish this information to be shared, you may choose not to enable location services on your phone.
-
-If you open a Betterment Crypto investing account, Betterment will share information with Gemini and/or its affiliates for purposes relating to your account.
 
 If you choose to import your Betterment tax information into TurboTax, Betterment will share your tax documents from your Betterment account with Intuit TurboTax. You acknowledge and agree that the terms of Intuit’s [Privacy Policy](https://www.intuit.com/privacy/statement/) will govern Intuit’s use of such information.
 
@@ -397,7 +393,7 @@ We may modify this privacy policy over time without prior notice by posting a ne
 
 Our service is not directed towards anyone under the age of 18. If a parent or guardian becomes aware that their child under the age of 18 has created an account with Betterment and/or provided us with personally identifiable information, please contact us at support@betterment.com. Additionally, if we become aware at any point that a child under the age of 18 is using our service, we will terminate their account. 
 
-                                                   
+                                                    
 
 U.S. State Privacy Notice and California Notice at Collection
 -------------------------------------------------------------
@@ -626,8 +622,6 @@ We want you to know a few things:  
 Investment Advice: Advisory services for traditional investments (e.g., ETFs) and digital assets are provided by Betterment LLC, an SEC-registered investment adviser. Betterment LLC also offers the Betterment Cash Reserve product. Betterment LLC does not require clients to maintain a minimum investment account balance. However, accounts below a certain balance may have certain restrictions. For more information, please see [additional disclosure](https://www.betterment.com/legal/portfolio-minimum).
 
 Traditional Investment Brokerage Services & Custody: Brokerage services are provided to clients of Betterment LLC by Betterment Securities, an SEC-registered broker-dealer and member of [FINRA](https://www.finra.org/) /[SIPC](https://www.sipc.org/), and Apex Clearing Corporation, a third-party SEC registered broker-dealer and member FINRA/SIPC.
-
-Digital Asset Trading Services & Custody: Digital asset trading services and custody are provided by Gemini Trust Company, LLC.  For further details regarding the custody of assets, including cash, held at Gemini Trust Company, please see your Gemini [user agreement](https://www.gemini.com/legal/user-agreement#section-welcome-to-gemini).
 
 Betterment Checking: Betterment Checking is made available through Betterment Financial LLC. Checking accounts and the Betterment Visa Debit Card provided by and issued by nbkc bank, Member FDIC. Neither Betterment LLC nor Betterment Financial LLC, nor any of their affiliates, is a bank.
 
