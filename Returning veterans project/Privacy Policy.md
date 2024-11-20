@@ -185,11 +185,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Jim Swenson](https://cdn.returningveterans.org/images/honor/8_Jim_Swenson_AR.png)  
+![Joel Beal](https://cdn.returningveterans.org/images/honor/beal_joel.jpg)  
 
-**In Honor of Jim Swenson**  
-United States Army  
-Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of Joel Beal**  
+Submitted by Rad Chad](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -215,9 +214,13 @@ Returning Veterans Project
 
 [![America's Warrior Partnership](https://cdn.returningveterans.org/images/site/logo-awp.png)](https://www.americaswarriorpartnership.org/community-integration)
 
-[![Veteran Ready](https://cdn.returningveterans.org/images/site/veteran-ready.png)](https://psycharmor.org/certified-organizations/)
+[![Veteran Ready](https://cdn.returningveterans.org/images/site/veteran-ready.png)](https://psycharmor.org/partners)
+
+![National Association of Veteran-Serving Organizations](https://cdn.returningveterans.org/images/site/navso.png)
 
 [![Combined Federal Campaign](https://cdn.returningveterans.org/images/site/logo-cfc.png)](https://cfcgiving.opm.gov/welcome)
+
+[![Charity Navigator](https://cdn.returningveterans.org/images/site/charity-navigator.png)](https://www.charitynavigator.org/ein/204034255)
 
 _The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement._
 
@@ -230,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/20/24 - 7:34:57  
+Printed 11/20/24 - 1:28:24  
 © 2024 Returning Veterans Project
