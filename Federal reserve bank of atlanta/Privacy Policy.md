@@ -112,6 +112,7 @@ Menutoggle menu
         * [About Us](https://www.atlantafed.org/banking-and-payments/banking-supervision/about-us)
         * [Appeals](https://www.atlantafed.org/banking-and-payments/banking-supervision/appeals)
         * [Banking Applications](https://www.atlantafed.org/banking-and-payments/banking-supervision/banking-applications)
+        * [Community Reinvestment Act](https://www.atlantafed.org/banking-and-payments/banking-supervision/community-reinvestment-act)
         * [Discount Window](https://www.atlantafed.org/banking-and-payments/lending)
         * [Events](https://www.atlantafed.org/banking-and-payments/banking-supervision/events)
         * [Federal Reserve Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision/become-a-member-bank)
