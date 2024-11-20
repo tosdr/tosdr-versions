@@ -30,16 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_360x203.jpg)](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051)
         
-        #### [2 men arrested in Peoria County accused of derailing train](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224) [![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_360x203.jpg)](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224)
+        #### [Crews battle house fire in Sterling](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051) [![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051)
         
-        #### [2 Peoria County men accused of derailing train](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224) [![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_360x203.jpg)](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224)
+        #### [Firefighters put out Sterling house fire](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bb417b4a-eb32-4e66-801c-c3432a6056a4/20241118T205938/bb417b4a-eb32-4e66-801c-c3432a6056a4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bb417b4a-eb32-4e66-801c-c3432a6056a4/20241118T205938/bb417b4a-eb32-4e66-801c-c3432a6056a4_360x203.jpg)](https://www.wqad.com/article/news/local/infrastructure/galesburg-city-council-approves-purchase-new-playground-equipment-cooke-park/526-a9d973b4-8c55-49a6-80ec-7d0a06e64535)
         
-        #### [Officials: 2 men charged with derailing train in Peoria County](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_360x203.jpg)](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
-        
-        #### [Holiday happenings: Quad Cities events to get you in the holiday mood](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
+        #### [City of Galesburg purchases playground equipment for Cooke Park](https://www.wqad.com/article/news/local/infrastructure/galesburg-city-council-approves-purchase-new-playground-equipment-cooke-park/526-a9d973b4-8c55-49a6-80ec-7d0a06e64535)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -59,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/094e22e6-581c-4f15-9e32-b2742eae4cf0/20241119T131619/094e22e6-581c-4f15-9e32-b2742eae4cf0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/094e22e6-581c-4f15-9e32-b2742eae4cf0/20241119T131619/094e22e6-581c-4f15-9e32-b2742eae4cf0_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a2b45ce6-50d5-492c-990d-cbc56546bb28/20241120T043140/a2b45ce6-50d5-492c-990d-cbc56546bb28_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a2b45ce6-50d5-492c-990d-cbc56546bb28/20241120T043140/a2b45ce6-50d5-492c-990d-cbc56546bb28_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Weather Impact Alert: Gusty snow showers to reduce visibility Wednesday afternoon, and evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -89,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-53°
+46°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
