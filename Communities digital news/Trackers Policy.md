@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-thune-chuck-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/senate-gop-thwarts-schumers-mad-rush-to-confirm-bidens-radical-left-wing-judges/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rivera-arrest-1200x630.jpg)](https://americanwirenews.com/madman-just-released-from-prison-kills-3-in-stabbing-spree-nyc-mayor-adams-questions-why-he-was-on-the-streets/)
 
-[Senate GOP thwarts Schumer’s mad rush to confirm Biden’s radical left-wing judges](https://americanwirenews.com/senate-gop-thwarts-schumers-mad-rush-to-confirm-bidens-radical-left-wing-judges/)
+[Madman just released from prison kills 3 in stabbing spree, NYC Mayor Adams questions why he was on the streets](https://americanwirenews.com/madman-just-released-from-prison-kills-3-in-stabbing-spree-nyc-mayor-adams-questions-why-he-was-on-the-streets/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetz-1200x630.jpg)](https://americanwirenews.com/mollie-hemingway-defends-gaetz-as-media-uncorks-another-sleazy-smear-and-leaks-begin/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-dnc-1200x630.jpg)](https://americanwirenews.com/dnc-staffers-fired-with-one-day-notice-and-no-severance-union-sounds-off/)
 
-[Mollie Hemingway defends Gaetz as media uncorks another sleazy smear, and leaks begin](https://americanwirenews.com/mollie-hemingway-defends-gaetz-as-media-uncorks-another-sleazy-smear-and-leaks-begin/)
+[DNC staffers fired with one day notice and no severance, union sounds off](https://americanwirenews.com/dnc-staffers-fired-with-one-day-notice-and-no-severance-union-sounds-off/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-biden-g20-1200x630.png)](https://americanwirenews.com/hes-behind-the-palm-tree-oh-my-god-bumbling-joe-biden-mia-during-g20-family-photo/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lindy-li-will-cain-1200x630.jpg)](https://americanwirenews.com/dem-strategist-spills-more-tea-about-kamalas-disastrous-campaign-i-can-feel-the-knives-in-my-back/)
 
-[‘He’s behind the palm tree … Oh my God’: Wandering Joe Biden MIA during G20 leaders ‘family photo’](https://americanwirenews.com/hes-behind-the-palm-tree-oh-my-god-bumbling-joe-biden-mia-during-g20-family-photo/)
+[Dem strategist spills more tea about Kamala’s disastrous campaign: ‘I can feel the knives in my back’](https://americanwirenews.com/dem-strategist-spills-more-tea-about-kamalas-disastrous-campaign-i-can-feel-the-knives-in-my-back/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ibarra-1200x630.jpg)](https://americanwirenews.com/laken-riley-murder-suspects-wife-placed-him-at-the-crime-scene/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-cnndebateduo-1200-x-628-1200x630.jpg)](https://americanwirenews.com/cnn-holds-meeting-on-how-to-cover-four-more-years-of-trump-as-ratings-tank/)
 
-[Laken Riley murder suspect’s wife placed him at the crime scene](https://americanwirenews.com/laken-riley-murder-suspects-wife-placed-him-at-the-crime-scene/)
+[CNN holds meeting on how to cover four more years of Trump as ratings tank](https://americanwirenews.com/cnn-holds-meeting-on-how-to-cover-four-more-years-of-trump-as-ratings-tank/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-humefox-1200-x-628-1200x630.jpg)](https://americanwirenews.com/foxs-brit-hume-downplays-trumps-enormous-mandate/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ramaswamy-1200x630.jpg)](https://americanwirenews.com/ramaswamy-says-certain-fed-agencies-will-be-deleted-outright-shares-dirty-little-secret-in-d-c/)
 
-[Fox’s Brit Hume downplays Trump’s ‘enormous mandate’](https://americanwirenews.com/foxs-brit-hume-downplays-trumps-enormous-mandate/)
+[Ramaswamy says certain fed agencies will be ‘deleted outright’, shares ‘dirty little secret’ in D.C.](https://americanwirenews.com/ramaswamy-says-certain-fed-agencies-will-be-deleted-outright-shares-dirty-little-secret-in-d-c/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chuck-schumer-1200x630.jpg)](https://americanwirenews.com/schumer-rams-through-sham-border-bill-to-hamstring-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-10-1200x630.jpg)](https://americanwirenews.com/dems-looking-toward-2028-poll-for-party-nomination-and-you-wont-believe-who-tops-the-list/)
 
-[Schumer rams through sham border bill to hamstring Trump](https://americanwirenews.com/schumer-rams-through-sham-border-bill-to-hamstring-trump/)
+[Dems looking toward 2028 poll for party nomination and you won’t BELIEVE who tops the list](https://americanwirenews.com/dems-looking-toward-2028-poll-for-party-nomination-and-you-wont-believe-who-tops-the-list/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mitch-mcconnell-1200x630.png)](https://americanwirenews.com/reporter-insists-mitch-mcconnell-said-no-recess-appointments/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Trump-Courtroom-1200x630.jpg)](https://americanwirenews.com/alvin-bragg-weighs-next-steps-in-hush-money-case-against-trump/)
 
-[Reporter insists Mitch McConnell said ‘no recess’ appointments](https://americanwirenews.com/reporter-insists-mitch-mcconnell-said-no-recess-appointments/)
+[Alvin Bragg weighs next steps in ‘hush money’ case against Trump](https://americanwirenews.com/alvin-bragg-weighs-next-steps-in-hush-money-case-against-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-brennan-gabbard-1200x630.jpg)](https://americanwirenews.com/john-brennans-take-on-tulsi-gabbard-as-dni-head-breaks-irony-meters-everywhere/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/04/SG-YouTube-Leon-Panetta-1200x630.png)](https://americanwirenews.com/leon-panetta-knocks-bidens-national-security-record-not-one-that-really-stood-strong/)
 
-[John Brennan’s take on Tulsi Gabbard as DNI head breaks irony meters everywhere](https://americanwirenews.com/john-brennans-take-on-tulsi-gabbard-as-dni-head-breaks-irony-meters-everywhere/)
+[Leon Panetta knocks Biden’s national security record: ‘Not one that really stood strong’](https://americanwirenews.com/leon-panetta-knocks-bidens-national-security-record-not-one-that-really-stood-strong/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lizcheney2-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-herridge-1200x630.jpg)
 
-### Top lawyer suggests Liz Cheney should flee the country](https://americanwirenews.com/top-lawyer-suggests-liz-cheney-should-flee-the-country/)
+### Catherine Herridge could be facing jail time for honest journalism](https://americanwirenews.com/catherine-herridge-could-be-facing-jail-time-for-honest-journalism/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -90,10 +90,6 @@ Search for:
 
 [Nancy Mace moves to ban men from women’s bathrooms on Capitol Hill, leftists lose their minds](https://americanwirenews.com/nancy-mace-moves-to-ban-men-from-womens-bathrooms-on-capitol-hill-leftists-lose-their-minds/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-10-220x180.jpg)](https://americanwirenews.com/dems-looking-toward-2028-poll-for-party-nomination-and-you-wont-believe-who-tops-the-list/)
-
-[Dems looking toward 2028 poll for party nomination and you won’t BELIEVE who tops the list](https://americanwirenews.com/dems-looking-toward-2028-poll-for-party-nomination-and-you-wont-believe-who-tops-the-list/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-homan-1-220x180.jpg)](https://americanwirenews.com/game-on-tom-homan-responds-to-not-very-smart-boston-mayor-who-vows-to-defy-immigration-reform/)
 
 [‘Game on’: Tom Homan responds to ‘not very smart’ Boston mayor who vows to defy immigration reform](https://americanwirenews.com/game-on-tom-homan-responds-to-not-very-smart-boston-mayor-who-vows-to-defy-immigration-reform/)
@@ -102,45 +98,17 @@ Search for:
 
 [Katie Couric lets frustration slip when critiquing candidate Kamala: ‘Answer the g\*\*damn question, please’](https://americanwirenews.com/katie-couric-lets-frustration-slip-when-critiquing-candidate-kamala-answer-the-gdamn-question-please/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-herridge-220x180.jpg)](https://americanwirenews.com/catherine-herridge-could-be-facing-jail-time-for-honest-journalism/)
-
-[Catherine Herridge could be facing jail time for honest journalism](https://americanwirenews.com/catherine-herridge-could-be-facing-jail-time-for-honest-journalism/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rivera-arrest-220x180.jpg)](https://americanwirenews.com/madman-just-released-from-prison-kills-3-in-stabbing-spree-nyc-mayor-adams-questions-why-he-was-on-the-streets/)
-
-[Madman just released from prison kills 3 in stabbing spree, NYC Mayor Adams questions why he was on the streets](https://americanwirenews.com/madman-just-released-from-prison-kills-3-in-stabbing-spree-nyc-mayor-adams-questions-why-he-was-on-the-streets/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-layoff-220x180.jpg)](https://americanwirenews.com/associated-press-announces-layoffs-and-buyouts-are-imminent/)
 
 [Associated Press announces layoffs and buyouts are imminent](https://americanwirenews.com/associated-press-announces-layoffs-and-buyouts-are-imminent/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/04/SG-YouTube-Leon-Panetta-220x180.png)](https://americanwirenews.com/leon-panetta-knocks-bidens-national-security-record-not-one-that-really-stood-strong/)
-
-[Leon Panetta knocks Biden’s national security record: ‘Not one that really stood strong’](https://americanwirenews.com/leon-panetta-knocks-bidens-national-security-record-not-one-that-really-stood-strong/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-Vladimir-Putin-220x180.jpg)](https://americanwirenews.com/putin-revises-countrys-nuclear-doctrine-days-after-biden-authorizes-ukraine-to-use-us-missiles-deep-into-russia/)
 
 [Putin revises country’s nuclear doctrine days after Biden authorizes Ukraine to use US missiles deep into Russia](https://americanwirenews.com/putin-revises-countrys-nuclear-doctrine-days-after-biden-authorizes-ukraine-to-use-us-missiles-deep-into-russia/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-dnc-220x180.jpg)](https://americanwirenews.com/dnc-staffers-fired-with-one-day-notice-and-no-severance-union-sounds-off/)
-
-[DNC staffers fired with one day notice and no severance, union sounds off](https://americanwirenews.com/dnc-staffers-fired-with-one-day-notice-and-no-severance-union-sounds-off/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lindy-li-will-cain-220x180.jpg)](https://americanwirenews.com/dem-strategist-spills-more-tea-about-kamalas-disastrous-campaign-i-can-feel-the-knives-in-my-back/)
-
-[Dem strategist spills more tea about Kamala’s disastrous campaign: ‘I can feel the knives in my back’](https://americanwirenews.com/dem-strategist-spills-more-tea-about-kamalas-disastrous-campaign-i-can-feel-the-knives-in-my-back/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ramaswamy-220x180.jpg)](https://americanwirenews.com/ramaswamy-says-certain-fed-agencies-will-be-deleted-outright-shares-dirty-little-secret-in-d-c/)
-
-[Ramaswamy says certain fed agencies will be ‘deleted outright’, shares ‘dirty little secret’ in D.C.](https://americanwirenews.com/ramaswamy-says-certain-fed-agencies-will-be-deleted-outright-shares-dirty-little-secret-in-d-c/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-crying-baby-220x180.jpg)](https://americanwirenews.com/leftists-ridiculed-for-trying-to-drum-up-economic-boycott-during-trump-years-youll-last-a-couple-of-weeks/)
 
 [Leftists ridiculed for trying to drum up economic boycott during Trump years: ‘You’ll last a couple of weeks’](https://americanwirenews.com/leftists-ridiculed-for-trying-to-drum-up-economic-boycott-during-trump-years-youll-last-a-couple-of-weeks/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-cnndebateduo-1200-x-628-220x180.jpg)](https://americanwirenews.com/cnn-holds-meeting-on-how-to-cover-four-more-years-of-trump-as-ratings-tank/)
-
-[CNN holds meeting on how to cover four more years of Trump as ratings tank](https://americanwirenews.com/cnn-holds-meeting-on-how-to-cover-four-more-years-of-trump-as-ratings-tank/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-the-view-220x180.jpg)](https://americanwirenews.com/was-anything-real-fec-filings-show-harris-interviewers-received-campaign-donations-prior-to-sit-downs/)
 
@@ -162,6 +130,42 @@ Search for:
 
 [Sanctuary mayors, governors dig in to defy Trump and Homan on deportation](https://americanwirenews.com/sanctuary-mayors-governors-dig-in-to-defy-trump-and-homan-on-deportation/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-brennan-gabbard-220x180.jpg)](https://americanwirenews.com/john-brennans-take-on-tulsi-gabbard-as-dni-head-breaks-irony-meters-everywhere/)
+
+[John Brennan’s take on Tulsi Gabbard as DNI head breaks irony meters everywhere](https://americanwirenews.com/john-brennans-take-on-tulsi-gabbard-as-dni-head-breaks-irony-meters-everywhere/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mitch-mcconnell-220x180.png)](https://americanwirenews.com/reporter-insists-mitch-mcconnell-said-no-recess-appointments/)
+
+[Reporter insists Mitch McConnell said ‘no recess’ appointments](https://americanwirenews.com/reporter-insists-mitch-mcconnell-said-no-recess-appointments/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chuck-schumer-220x180.jpg)](https://americanwirenews.com/schumer-rams-through-sham-border-bill-to-hamstring-trump/)
+
+[Schumer rams through sham border bill to hamstring Trump](https://americanwirenews.com/schumer-rams-through-sham-border-bill-to-hamstring-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-humefox-1200-x-628-220x180.jpg)](https://americanwirenews.com/foxs-brit-hume-downplays-trumps-enormous-mandate/)
+
+[Fox’s Brit Hume downplays Trump’s ‘enormous mandate’](https://americanwirenews.com/foxs-brit-hume-downplays-trumps-enormous-mandate/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ibarra-220x180.jpg)](https://americanwirenews.com/laken-riley-murder-suspects-wife-placed-him-at-the-crime-scene/)
+
+[Laken Riley murder suspect’s wife placed him at the crime scene](https://americanwirenews.com/laken-riley-murder-suspects-wife-placed-him-at-the-crime-scene/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-biden-g20-220x180.png)](https://americanwirenews.com/hes-behind-the-palm-tree-oh-my-god-bumbling-joe-biden-mia-during-g20-family-photo/)
+
+[‘He’s behind the palm tree … Oh my God’: Wandering Joe Biden MIA during G20 leaders ‘family photo’](https://americanwirenews.com/hes-behind-the-palm-tree-oh-my-god-bumbling-joe-biden-mia-during-g20-family-photo/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetz-220x180.jpg)](https://americanwirenews.com/mollie-hemingway-defends-gaetz-as-media-uncorks-another-sleazy-smear-and-leaks-begin/)
+
+[Mollie Hemingway defends Gaetz as media uncorks another sleazy smear, and leaks begin](https://americanwirenews.com/mollie-hemingway-defends-gaetz-as-media-uncorks-another-sleazy-smear-and-leaks-begin/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-thune-chuck-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/senate-gop-thwarts-schumers-mad-rush-to-confirm-bidens-radical-left-wing-judges/)
+
+[Senate GOP thwarts Schumer’s mad rush to confirm Biden’s radical left-wing judges](https://americanwirenews.com/senate-gop-thwarts-schumers-mad-rush-to-confirm-bidens-radical-left-wing-judges/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lizcheney2-1200-x-628-220x180.jpg)](https://americanwirenews.com/top-lawyer-suggests-liz-cheney-should-flee-the-country/)
+
+[Top lawyer suggests Liz Cheney should flee the country](https://americanwirenews.com/top-lawyer-suggests-liz-cheney-should-flee-the-country/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sdg-trump-dance-220x180.jpg)](https://americanwirenews.com/total-maga-takeover-trump-dance-rocks-nfl-even-goes-global/)
 
 [‘TOTAL MAGA TAKEOVER’: Trump dance rocks NFL, even goes global](https://americanwirenews.com/total-maga-takeover-trump-dance-rocks-nfl-even-goes-global/)
@@ -169,10 +173,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tapper-johnson-220x180.jpg)](https://americanwirenews.com/open-door-now-being-closed-gop-speaker-has-stern-message-for-illegal-immigrants/)
 
 [‘Open door now being closed’: GOP speaker has stern message for illegal immigrants](https://americanwirenews.com/open-door-now-being-closed-gop-speaker-has-stern-message-for-illegal-immigrants/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mcconnell-220x180.jpg)](https://americanwirenews.com/rick-scott-pushes-back-on-sketchy-claim-mcconnell-nixed-recess-appointments-yes-there-will-be/)
-
-[Rick Scott pushes back on sketchy claim McConnell nixed recess appointments: ‘Yes, there will be’](https://americanwirenews.com/rick-scott-pushes-back-on-sketchy-claim-mcconnell-nixed-recess-appointments-yes-there-will-be/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
