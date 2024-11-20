@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Inside North Korea](/wp-content/thumbnails/12501-100x70.jpg?x53432)
+* [![James Camron Voyage To The Bottom Of The Earth](/wp-content/thumbnails/6787-100x70.jpg?x53432)
     
-    Inside North Korea
+    James Camron Voyage To The Bottom Of The Earth
     
-    Back in May of 2016, Rupert Wingfield-Hayes, a reporter for the BBC was expelled from the Hermit Kingdom of North Korea for allegedly showing disrespect and 'distorting facts'. In this Panorama specia](https://documentaryheaven.com/rupert-inside-north-korea/ "Inside North Korea")
-* [![Star Wars In Iraq](/wp-content/thumbnails/2128-100x70.jpg?x53432)
+    Plunging to the virtually unknown depths of the Mariana Trench, James Cameron's DEEPSEA CHALLENGE expedition takes this National Geographic Explorer deeper and further than any filmmaker or solo explo](https://documentaryheaven.com/james-camron-voyage-to-the-bottom-of-the-earth/ "James Camron Voyage To The Bottom Of The Earth")
+* [![WACO: The Rules of Engagement](/wp-content/thumbnails/2412-100x70.jpg?x53432)
     
-    Star Wars In Iraq
+    WACO: The Rules of Engagement
     
-    Al Ghezali reported that he had seen three passengers in a car all dead with their faces and teeth burnt, the body intact, and no sign of projectiles. There were other inexplicable aspects: the terrai](https://documentaryheaven.com/star-wars-in-iraq/ "Star Wars In Iraq")
-* [![20 Most Shocking Unsolved Crimes](/wp-content/thumbnails/6883-100x70.jpg?x53432)
+    We realize that you have the ability, and it’s not below you people, to do something like to erase all evidences. Why do you have the press so far back? You can give me any kind of crap you want, I kn](https://documentaryheaven.com/waco-the-rules-of-engagement/ "WACO: The Rules of Engagement")
+* [![Bruce Lee: A Warrior’s Journey](/wp-content/thumbnails/2476-100x70.jpg?x53432)
     
-    20 Most Shocking Unsolved Crimes
+    Bruce Lee: A Warrior’s Journey
     
-    Some of the biggest unsolved crimes of recent memory are also some of the biggest stories of our time. The fact that no perpetrators were ever found, raises these cases to legendary status. Unsolved C](https://documentaryheaven.com/20-most-shocking-unsolved-crimes/ "20 Most Shocking Unsolved Crimes")
-* [![Liquid Bomb Plot](/wp-content/thumbnails/7057-100x70.jpg?x53432)
+    Bruce Lee was inarguably the greatest martial arts star of his generation, and his intense on-screen charisma and astounding fighting skills make him the standard by which other martial arts heroes ar](https://documentaryheaven.com/bruce-lee-a-warriors-journey/ "Bruce Lee: A Warrior’s Journey")
+* [![Trial of Henry Kissinger](/wp-content/thumbnails/26-100x70.png?x53432)
     
-    Liquid Bomb Plot
+    Trial of Henry Kissinger
     
-    Liquid Bomb Plot is the incredible true story of the surveillance operation that stopped a fatal disaster and saved thousands of lives.It's August 2006. A UK terrorist cell plans to launch suicide b](https://documentaryheaven.com/liquid-bomb-plot/ "Liquid Bomb Plot")
-* [![Laos: Saviours of the Street](/wp-content/thumbnails/9790-100x70.jpg?x53432)
+    THE TRIALS OF HENRY KISSINGER, a documentary based on the book by British journalist Christopher Hitchens, argues that Kissinger, the former U.S. Secretary of State and the recipient of the Nobel Peac](https://documentaryheaven.com/trial-of-henry-kissinger/ "Trial of Henry Kissinger")
+* [![Phoning from the Philippines](/wp-content/thumbnails/6993-100x70.jpg?x53432)
     
-    Laos: Saviours of the Street
+    Phoning from the Philippines
     
-    Across Asia car ownership is soaring, but so to is the number of people dying on the roads. In this 101 East episode we see Al Jazeera correspondent Drew Ambrose travel to Laos, a poor mountainous nat](https://documentaryheaven.com/laos-saviours-street/ "Laos: Saviours of the Street")
+    Move over India – Manila is the new call center capital of the world. With its English-speaking workforce, geopolitical stability and embracement of Western culture, the Philippines is fast becoming t](https://documentaryheaven.com/phoning-from-the-philippines/ "Phoning from the Philippines")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
