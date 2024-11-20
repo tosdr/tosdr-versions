@@ -38,11 +38,11 @@
     
 * Get Help submenu
     
-    * [Support Center](https://www.expressvpn.com/support)
+    * [Support Center](https://www.expressvpn.com/support/)
     * [Live Chat](https://www.expressvpn.com/support/#open-chat)
     * [Enter Redemption Code](https://www.expressvpn.com/redeem)
     
-* [Blog](https://www.expressvpn.com/blog)
+* [Blog](https://www.expressvpn.com/blog/)
 * [My Account](https://www.expressvpn.com/sign-in)[](https://www.expressvpn.com/sign-in)
 * English Language
 * [Get Started](https://www.expressvpn.com/order)
@@ -105,11 +105,11 @@
         
         submenu
         
-        * [Support Center](https://www.expressvpn.com/support)
+        * [Support Center](https://www.expressvpn.com/support/)
         * [Live Chat](https://www.expressvpn.com/support/#open-chat)
         * [Enter Redemption Code](https://www.expressvpn.com/redeem)
         
-    * [Blog](https://www.expressvpn.com/blog)
+    * [Blog](https://www.expressvpn.com/blog/)
     * [My Account](https://www.expressvpn.com/sign-in)
     
 
@@ -348,8 +348,8 @@ If any provision in the Agreement is held invalid or unenforceable, that provisi
 
 * Get Help
 * [Support Center](https://www.expressvpn.com/support/)
-* [VPN Setup Tutorials](https://www.expressvpn.com/support/vpn-setup)
-* [FAQ](https://www.expressvpn.com/support/troubleshooting/frequently-asked-questions/)
+* [VPN Setup Tutorials](https://www.expressvpn.com/support/vpn-setup/)
+* [FAQ](https://www.expressvpn.com/support/knowledge-hub/frequently-asked-questions/)
 * [Contact Us](https://www.expressvpn.com/#seopenchat)
 * [Buy VPN](https://www.expressvpn.com/order)
 * [Enter Redemption Code](https://www.expressvpn.com/redeem)
@@ -359,7 +359,7 @@ If any provision in the Agreement is held invalid or unenforceable, that provisi
 * [What Is my IP?](https://www.expressvpn.com/what-is-my-ip)
 * [Where to Watch](https://www.expressvpn.com/where-to-watch)
 * [Top 5 VPN Uses](https://www.expressvpn.com/get-started)
-* [Blog](https://www.expressvpn.com/blog)
+* [Blog](https://www.expressvpn.com/blog/)
 * [Black Friday VPN Deals](https://www.expressvpn.com/black-friday-cyber-monday)
 * [English](#)
 
