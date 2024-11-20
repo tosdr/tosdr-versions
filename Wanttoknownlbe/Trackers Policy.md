@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/meneer-rutte-is-u-dit-bekend-over-mh17/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/bestaan-chemtrails-officieel-erkend/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
