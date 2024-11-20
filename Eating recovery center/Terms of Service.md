@@ -8,16 +8,16 @@
 Utility navigation
 ------------------
 
-* [Families](https://www.eatingrecoverycenter.com/families-overview)
-    * [Resources](https://www.eatingrecoverycenter.com/families-overview#resources)
+* [Families](https://www.eatingrecoverycenter.com/families)
+    * [Resources](https://www.eatingrecoverycenter.com/families#resources)
     * [Hope Orientation](https://www.eatingrecoverycenter.com/events/erc-hope-orientation)
-    * [Support Groups](https://www.eatingrecoverycenter.com/families-overview#support-groups)
+    * [Support Groups](https://www.eatingrecoverycenter.com/families#support-groups)
     * [Virtual Family & Friends Education Series](https://www.eatingrecoverycenter.com/erc-virtual-family-friends-education-series)
-    * [Events](https://www.eatingrecoverycenter.com/families-overview#events)
-    * [Treatment](https://www.eatingrecoverycenter.com/families-overview#treatment)
-    * [Programming](https://www.eatingrecoverycenter.com/families-overview#programming)
-    * [Adults](https://www.eatingrecoverycenter.com/families-overview#adults)
-    * [Child and Adolescent](https://www.eatingrecoverycenter.com/families-overview#child-adolescent)
+    * [Events](https://www.eatingrecoverycenter.com/families#events)
+    * [Treatment](https://www.eatingrecoverycenter.com/families#treatment)
+    * [Programming](https://www.eatingrecoverycenter.com/families#programming)
+    * [Adults](https://www.eatingrecoverycenter.com/families#adults)
+    * [Child and Adolescent](https://www.eatingrecoverycenter.com/families#child-adolescent)
 * [Alumni](https://www.eatingrecoverycenter.com/alumni-overview)
     * [Resources](https://www.eatingrecoverycenter.com/resources?audience=3771)
     * [Recovery Ambassadors](https://www.eatingrecoverycenter.com/alumni-overview#ambassadors)
@@ -117,7 +117,7 @@ Main navigation
             * [Admissions Process](https://www.eatingrecoverycenter.com/patients/admissions)
             * [Clinical Assessment](https://www.eatingrecoverycenter.com/form/self-assessment-form)
         * What to Expect
-            * [Families](https://www.eatingrecoverycenter.com/families-overview)
+            * [Families](https://www.eatingrecoverycenter.com/families)
             * [Patients](https://www.eatingrecoverycenter.com/patients)
     * Get Matched to the Exact Support You Need
         
@@ -268,7 +268,7 @@ Main navigation
             * [Admissions Process](https://www.eatingrecoverycenter.com/patients/admissions)
             * [Clinical Assessment](https://www.eatingrecoverycenter.com/form/self-assessment-form)
         * What to Expect
-            * [Families](https://www.eatingrecoverycenter.com/families-overview)
+            * [Families](https://www.eatingrecoverycenter.com/families)
             * [Patients](https://www.eatingrecoverycenter.com/patients)
     * Get Matched to the Exact Support You Need
         
@@ -322,7 +322,7 @@ Main navigation
 Utility navigation
 ------------------
 
-* [Families](https://www.eatingrecoverycenter.com/families-overview)
+* [Families](https://www.eatingrecoverycenter.com/families)
 * [Alumni](https://www.eatingrecoverycenter.com/alumni-overview)
 * [Professionals](https://www.eatingrecoverycenter.com/professionals/overview)
 * [Medical Staff](https://www.eatingrecoverycenter.com/medical-staff)
@@ -428,7 +428,7 @@ Footer (ERC)
 ------------
 
 * Information For
-    * [Families](https://www.eatingrecoverycenter.com/families-overview)
+    * [Families](https://www.eatingrecoverycenter.com/families)
     * [Alumni](https://www.eatingrecoverycenter.com/alumni-overview)
     * [Professionals](https://www.eatingrecoverycenter.com/professionals/overview)
 * Our Centers
