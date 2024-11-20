@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![faible pluie](https://www.watson.ch/fr/_watsui/static/img/weather/w-16.svg)10°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)4°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Hamas](https://www.watson.ch/fr/hamas/)
-* [Politique](https://www.watson.ch/fr/politique/)
-* [Climat](https://www.watson.ch/fr/climat/)
-* [Catastrophe naturelle](https://www.watson.ch/fr/catastrophe-naturelle/)
-* [Confédération](https://www.watson.ch/fr/confederation/)
-* [Nestlé](https://www.watson.ch/fr/nestle/)
-* [Genève](https://www.watson.ch/fr/geneve/)
-* [voiture](https://www.watson.ch/fr/voiture/)
 * [People](https://www.watson.ch/fr/people/)
-* [Environnement](https://www.watson.ch/fr/environnement/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Justice](https://www.watson.ch/fr/justice/)
 * [Valais](https://www.watson.ch/fr/valais/)
+* [Poutine](https://www.watson.ch/fr/poutine/)
+* [En direct](https://www.watson.ch/fr/en-direct/)
 * [Argent](https://www.watson.ch/fr/argent/)
 * [Entreprise](https://www.watson.ch/fr/entreprise/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [votations 2024](https://www.watson.ch/fr/votations-2024/)
-* [En direct](https://www.watson.ch/fr/en-direct/)
+* [Genève](https://www.watson.ch/fr/geneve/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Climat](https://www.watson.ch/fr/climat/)
+* [Catastrophe naturelle](https://www.watson.ch/fr/catastrophe-naturelle/)
+* [Immobilier](https://www.watson.ch/fr/immobilier/)
+* [voiture](https://www.watson.ch/fr/voiture/)
+* [Confédération](https://www.watson.ch/fr/confederation/)
+* [Nestlé](https://www.watson.ch/fr/nestle/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
+* [Hamas](https://www.watson.ch/fr/hamas/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
