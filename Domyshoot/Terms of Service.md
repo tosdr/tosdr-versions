@@ -367,7 +367,7 @@ WORK TYPES
 
 RESOURCES
 
-[Blogs](https://www.domyshoot.com/blog)[Case Studies](https://www.domyshoot.com/customer-stories)[Tutorials](https://www.domyshoot.com/tutorials)[FAQs](https://www.domyshoot.com/faq)[Book a Demo](https://www.domyshoot.com/book-demo)
+[Blogs](https://www.domyshoot.com/blog)[Case Studies](https://www.domyshoot.com/customer-stories)[Tutorials](https://www.domyshoot.com/tutorials)[FAQs](https://www.domyshoot.com/faq)[Book a Demo](https://www.domyshoot.com/book-demo)[Portfolio](https://www.domyshoot.com/portfolio)
 
 COMPANY
 
