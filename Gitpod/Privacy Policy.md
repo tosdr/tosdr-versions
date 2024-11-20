@@ -423,7 +423,6 @@ More Detailed Information
 * [Docs](https://www.gitpod.io/docs)
 * [Changelog](https://www.gitpod.io/changelog)
 * [Support](https://www.gitpod.io/support)
-* [Report a bug](https://github.com/gitpod-io/gitpod/issues/new?assignees=&labels=type%3A+bug&template=bug_report.yml)
 * [Status](https://www.gitpodstatus.com/)
 
 * Resources
@@ -432,7 +431,8 @@ More Detailed Information
 * [Events](https://www.gitpod.io/events)
 * [Videos](https://www.gitpod.io/screencasts)
 * [Customers](https://www.gitpod.io/customers)
-* [White papers](https://www.gitpod.io/whitepapers)
+* [Whitepapers](https://www.gitpod.io/whitepapers)
+* [Gartner reports](https://www.gitpod.io/gartner-platform-engineering-hype-cycle-2024)
 
 * Solutions
 * [Developer onboarding](https://www.gitpod.io/solutions/onboarding)
@@ -452,7 +452,7 @@ More Detailed Information
 * [Security](https://www.gitpod.io/security)
 * [Contact](https://www.gitpod.io/contact)
 
- [![GitHub](/svg/brands/github.svg)](https://github.com/gitpod-io)[![LinkedIn](/svg/brands/linkedin.svg)](https://www.linkedin.com/company/gitpod/)[![YouTube](/svg/brands/youtube.svg)](https://www.youtube.com/@Gitpod)[![Discord](/svg/brands/discord.svg)](https://www.gitpod.io/chat)[![Twitter](/svg/brands/twitter.svg)](https://twitter.com/gitpod)
+ [![GitHub](/svg/brands/github.svg)](https://github.com/gitpod-io)[![LinkedIn](/svg/brands/linkedin.svg)](https://www.linkedin.com/company/gitpod/)[![YouTube](/svg/brands/youtube.svg)](https://www.youtube.com/@Gitpod)[![Twitter](/svg/brands/twitter.svg)](https://twitter.com/gitpod)
 
 [Imprint](https://www.gitpod.io/imprint) [Terms of service](https://www.gitpod.io/terms) [Privacy policy](https://www.gitpod.io/privacy) [Cookie policy](https://www.gitpod.io/cookies) Cookie preferences
 
