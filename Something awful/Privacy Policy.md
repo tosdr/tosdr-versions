@@ -205,24 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Zookeeper; Horrible Bosses; Larry Crowne](https://www.somethingawful.com/current-movie-reviews/zookeeper-horrible-bosses/1/)
-* [Lowtax Can't Cook](https://www.somethingawful.com/news/lowtax-cant-cook/)
-* [SparkNotes, Crush Forum, and Runescape](https://www.somethingawful.com/weekend-web/sparknotes-crushtalk-runescape/1/)
-* [ASDA Story](https://www.somethingawful.com/mmo-roulette/asda/1/)
-* [Semi Automatic Turban](https://www.somethingawful.com/awful-links/awful-link-580/)
+* [Bernie Sanders Campaign Posters!](https://www.somethingawful.com/photoshop-phriday/bernie-sanders-posters/)
+* [Meet Kingsley, a Very Special Mascot!](https://www.somethingawful.com/photoshop-phriday/kingsley-soccer-mascot/)
+* [MS Paint Embarrassing Moments! (Part 2)](https://www.somethingawful.com/comedy-goldmine/paint-embarrassing-moments2/1/)
+* [A Second Train Just Hit the South Tower!](https://www.somethingawful.com/news/amtrak-security/1/)
+* [Watchmen Funnies](https://www.somethingawful.com/photoshop-phriday/watchmen-funnies/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [all i wanna do is have sum fun](http://forums.somethingawful.com/showthread.php?threadid=4075643 "all i wanna do is have sum fun")
 * ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Declaring my domecile a Christmas Free Zone](http://forums.somethingawful.com/showthread.php?threadid=4075612 "Declaring my domecile a Christmas Free Zone")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Do you throw out cheese that has mold?](http://forums.somethingawful.com/showthread.php?threadid=4075652 "Do you throw out cheese that has mold?")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [Happy International Mens Day](http://forums.somethingawful.com/showthread.php?threadid=4075609 "Happy International Mens Day")
 
 ### Random Articles
 
-* [Unnecessary Advertisements](https://www.somethingawful.com/photoshop-phriday/unnecessary-advertisements/1/)
-* [Are You a Power User?](https://www.somethingawful.com/news/computer-power-user/)
-* [Tales from the Zoo, Part Four](https://www.somethingawful.com/comedy-goldmine/tales-from-zoo-4/1/)
-* [Good Life Decisions (Thanks, Charlie!)](https://www.somethingawful.com/awful-links/life-decisions-zou/)
-* [Meatspin (NOT SAFE FOR WORK)](https://www.somethingawful.com/awful-links/awful-link-3982/)
+* [Hiren & Pankaj's Homepage](https://www.somethingawful.com/awful-links/hiren-pankaj-wallpapers/)
+* [The Perils of Not Being Famous](https://www.somethingawful.com/news/perils-not-famous/)
+* [Miqel.com](https://www.somethingawful.com/awful-links/awful-link-3084/)
+* [Night of the Living Mr. Rogers](https://www.somethingawful.com/news/night-living-rogers/1/)
+* [Gateorade](https://www.somethingawful.com/news/gateorade/)
 
 [Random!](https://www.somethingawful.com/random/)
 
