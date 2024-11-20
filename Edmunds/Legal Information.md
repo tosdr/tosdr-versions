@@ -55,28 +55,20 @@ In addition, the following logos are proprietary trademarks of Edmunds.com, Inc.
 
 ![Edmunds.com](//media.ed.edmunds-media.com/non-make/ot/ot_130182_196.jpg) ![Edmunds.com](//media.ed.edmunds-media.com/non-make/ot/ot_13018_196.jpg)
 
-[Back to Top](#main-content)
-
-[Back to Top](#main-content)
-
 Join Edmunds
 ------------
 
 Receive pricing updates, shopping tips & more!
 
-Email Address
-
 Sign Up
 
-Follow Us
----------
-
+* [](https://www.facebook.com/edmunds "Facebook")
+* [](https://www.pinterest.com/edmundsinc/ "Pinterest")
 * [](https://www.youtube.com/user/Edmundsvideo "YouTube")
-* [](https://www.instagram.com/edmundscars/ "Instagram")
+* [](https://x.com/edmunds "X")
 * [](https://www.tiktok.com/@edmunds/ "TikTok")
 * [](https://www.linkedin.com/company/edmunds-com "LinkedIn")
-* [](https://www.facebook.com/edmunds "Facebook")
-* [](https://x.com/edmunds "X")
+* [](https://www.instagram.com/edmundscars/ "Instagram")
 * [](https://www.edmunds.com/rss.html "RSS Feed")
 
 Download the Edmunds app
