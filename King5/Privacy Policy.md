@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d4b64287-8fe3-4621-b713-79e707536d47/20241119T190043/d4b64287-8fe3-4621-b713-79e707536d47_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d4b64287-8fe3-4621-b713-79e707536d47/20241119T190043/d4b64287-8fe3-4621-b713-79e707536d47_360x203.jpg)](https://www.king5.com/article/news/local/rare-endangered-tree-stolen-seattle-arboretum/281-a06b8a46-c607-42fe-87f2-91dcdff86879)
+    *  [![](https://media.king5.com/assets/KING/images/83699a6d-73b2-4511-8eac-4e5b3d690554/20241120T011833/83699a6d-73b2-4511-8eac-4e5b3d690554_16x9.jpg) ![](https://media.king5.com/assets/KING/images/83699a6d-73b2-4511-8eac-4e5b3d690554/20241120T011833/83699a6d-73b2-4511-8eac-4e5b3d690554_360x203.jpg)](https://www.king5.com/article/news/local/homeless/bellingham-sweeps-homeless-camp-after-overdoses-killings/281-5b25f622-ac6b-474d-9de6-072bf1f97da1)
         
-        #### [Rare endangered tree stolen from Seattle's Washington Park Arboretum](https://www.king5.com/article/news/local/rare-endangered-tree-stolen-seattle-arboretum/281-a06b8a46-c607-42fe-87f2-91dcdff86879)
+        #### [Bellingham sweeps notorious homeless camp](https://www.king5.com/article/news/local/homeless/bellingham-sweeps-homeless-camp-after-overdoses-killings/281-5b25f622-ac6b-474d-9de6-072bf1f97da1)
         
-    *  [![](https://media.king5.com/assets/KING/images/0f38477a-6070-4de8-ab16-8496eed7610d/20241117T040503/0f38477a-6070-4de8-ab16-8496eed7610d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0f38477a-6070-4de8-ab16-8496eed7610d/20241117T040503/0f38477a-6070-4de8-ab16-8496eed7610d_360x203.jpg)](https://www.king5.com/article/news/local/suspicion-dui-car-lake-washington/281-5f2cded4-1345-46fe-8e8a-701da00b84db)
+    *  [![](https://media.king5.com/assets/KING/images/90349764-beea-4ddb-9b4a-8a9c3f1c3170/20241120T005130/90349764-beea-4ddb-9b4a-8a9c3f1c3170_16x9.jpg) ![](https://media.king5.com/assets/KING/images/90349764-beea-4ddb-9b4a-8a9c3f1c3170/20241120T005130/90349764-beea-4ddb-9b4a-8a9c3f1c3170_360x203.jpg)](https://www.king5.com/article/news/local/seattle/progress-made-new-rainier-valley-food-bank-facility/281-83a893dd-8d68-43de-a404-488394130830)
         
-        #### [Teen in critical condition at hospital after sister drives vehicle into lake in suspected DUI](https://www.king5.com/article/news/local/suspicion-dui-car-lake-washington/281-5f2cded4-1345-46fe-8e8a-701da00b84db)
+        #### [Progress made on new Rainier Valley Food Bank facility](https://www.king5.com/article/news/local/seattle/progress-made-new-rainier-valley-food-bank-facility/281-83a893dd-8d68-43de-a404-488394130830)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/fe99cb93-6fbf-4715-a83d-55c4c0ad28c2/fe99cb93-6fbf-4715-a83d-55c4c0ad28c2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe99cb93-6fbf-4715-a83d-55c4c0ad28c2/fe99cb93-6fbf-4715-a83d-55c4c0ad28c2_360x203.jpg)](https://www.king5.com/article/weather/blizzard-warning-cascades-mountain-snow-high-wind/281-631882be-66ef-4046-9ca0-8cab8ac1c214)
+    *  [![](https://media.king5.com/assets/KING/images/d323f318-6e38-4b9a-bcd8-2b54d121dea9/20241120T005402/d323f318-6e38-4b9a-bcd8-2b54d121dea9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d323f318-6e38-4b9a-bcd8-2b54d121dea9/20241120T005402/d323f318-6e38-4b9a-bcd8-2b54d121dea9_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
         
-        #### [Blizzard Warning issued for the Cascades. Here's when it goes into effect](https://www.king5.com/article/weather/blizzard-warning-cascades-mountain-snow-high-wind/281-631882be-66ef-4046-9ca0-8cab8ac1c214)
+        #### [Live updates: Eastside Fire says 'time to stay indoors and avoid travel' is here as damaging winds begin](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-44°
+49°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
