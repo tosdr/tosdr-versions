@@ -148,6 +148,28 @@ Copyright © Nieuwland Feed & Supply Ltd. | Design by [Momentum Marketing](https
 * [Follow](https://twitter.com/nieuwlandfeed "Follow on X")
 * [Follow](https://www.youtube.com/channel/UCoYCQXh06ZZsbPk1r9Hvm5w "Follow on Youtube")
 
+[×](javascript:;)
+
+**[BERNARD AGRI SERVICE](https://www.labourmarketstats.com/directory/bernard-agri-service/)**  
+7457 hwy 17  
+West Warren, ON  
+705-967-2064
+
+**[KIDD’S HOME HARDWARE BUILDING CENTRE](https://www.homehardware.ca/store/18388)**  
+23 John Street  
+Sunridge, On  
+705-384-5365
+
+[**THORNLOE FARM SUPPLY INC**](https://www.facebook.com/ThornloeFeed/)  
+31 Main Street  
+Thornloe, ON  
+705-563-2555
+
+**[ALDERDALE GENERAL STORE](https://www.facebook.com/Alderdale.General.Store)**  
+1497 Alderdale Rd  
+Powassan, ON  
+705-724-1497
+
 We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
 
 Cookie SettingsAccept All
