@@ -105,21 +105,21 @@ October 22, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 20 1
+0 24 1
 
 November 18, 2024
 
-[](https://yiff-party.com/yiff/meela-created-by-digitoxici/)
+[](https://yiff-party.com/yiff/iris-and-korrie-created-by-itskorrie/)
 
-[meela created by digitoxici](https://yiff-party.com/yiff/meela-created-by-digitoxici/)
+[iris and korrie created by itskorrie](https://yiff-party.com/yiff/iris-and-korrie-created-by-itskorrie/)
 
-0 196 0
+0 265 0
 
 October 21, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-birdlover-17/)
+[](https://yiff-party.com/yiff/femboy-hooters-created-by-mawmain/)
 
-[directed by birdlover](https://yiff-party.com/yiff-ai-premium/directed-by-birdlover-17/)
+[femboy hooters created by mawmain](https://yiff-party.com/yiff/femboy-hooters-created-by-mawmain/)
 
 0 2 0
 
