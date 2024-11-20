@@ -496,6 +496,7 @@ Email  Sign up
 © 2024 Sketch B.V.
 
 * [](https://x.com/sketch)
+* [](https://bsky.app/profile/sketch.com)
 * [](https://www.instagram.com/madewithsketch/)
 * [](https://www.youtube.com/c/SketchDesign/)
 * [](https://mastodon.design/@Sketch)
