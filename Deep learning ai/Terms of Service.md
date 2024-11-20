@@ -1,4 +1,4 @@
-✨ New course! Enroll in [Safe and Reliable AI via Guardrails](https://bit.ly/3YSJrtw)
+✨ New course! Enroll in [Building an AI-Powered Game](https://bit.ly/3CCG1U2)
 
 [](https://www.deeplearning.ai/)
 
