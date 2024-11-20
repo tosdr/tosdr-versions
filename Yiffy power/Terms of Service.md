@@ -105,23 +105,23 @@ October 22, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 24 1
+0 41 1
 
 November 18, 2024
 
-[](https://yiff-party.com/yiff/iris-and-korrie-created-by-itskorrie/)
+[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-razoruart/)
 
-[iris and korrie created by itskorrie](https://yiff-party.com/yiff/iris-and-korrie-created-by-itskorrie/)
+[nintendo and etc created by razoruart](https://yiff-party.com/yiff/nintendo-and-etc-created-by-razoruart/)
 
-0 265 0
+0 64 0
 
 October 21, 2024
 
-[](https://yiff-party.com/yiff/femboy-hooters-created-by-mawmain/)
+[](https://yiff-party.com/yiff/74333/)
 
-[femboy hooters created by mawmain](https://yiff-party.com/yiff/femboy-hooters-created-by-mawmain/)
+[#74333](https://yiff-party.com/yiff/74333/)
 
-0 2 0
+0 1 0
 
 November 20, 2024
 
