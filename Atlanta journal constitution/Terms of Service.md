@@ -1,6 +1,8 @@
 error: no ad slot id exists: undefined
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1824)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1824)](https://www.ajc.com/)
+[Breaking: Kemp requests $12.2 billion in federal aid for Hurricane Helene](https://www.ajc.com/politics/kemp-requests-122-billion-in-federal-aid-for-hurricane-helene/6BEFIPWPTVH63MYWZXKLKXSFJY/)
+
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1834)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1834)](https://www.ajc.com/)
 
 Log In
 
@@ -22,7 +24,7 @@ Log In
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1824)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1834)
 
 * Quick Links
     
@@ -145,7 +147,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1824)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1834)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
