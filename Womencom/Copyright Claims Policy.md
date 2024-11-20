@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Gabrielle Union and Dwayne Wade at a basketball event](https://www.women.com/img/gallery/5-celeb-parents-who-are-loud-proud-supporters-of-their-trans-and-non-binary-children/intro-1731522385.jpg)](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+*  [![Dolly Parton on the red carpet with arms outstretched](https://www.women.com/img/gallery/dolly-partons-most-philanthropic-efforts-across-her-long-career/intro-1731613196.jpg)](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
     
-    [Politics](https://www.women.com/category/politics/)
+    [Living](https://www.women.com/category/living/)
     
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
     
-    [5 Celeb Parents Who Are Loud & Proud Supporters Of Their Trans And Non-Binary Children](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
-    ====================================================================================================================================================================
+    [Dolly Parton's Most Philanthropic Efforts Across Her Long Career](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+    ========================================================================================================================================================
     
-    Unlike generations before, our understanding of sexuality and gender is finally catching up with the experiences others have had since the dawn of time.
+    Dolly Parton is a philanthropic icon, repeatedly investing in the creativity and futures for people across the globe, as well as her home town.
     
-    By Amanda Chatel [Read More](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+    By Emily Hutchinson [Read More](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
     
-* *  [![Emma Watson posing at the British Academy Film Awards](https://www.women.com/img/gallery/try-emma-watsons-viral-daily-journaling-practice-for-a-simple-effective-mindfulness-habit/intro-1731619992.jpg)](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
+* *  [![Gabrielle Union and Dwayne Wade at a basketball event](https://www.women.com/img/gallery/5-celeb-parents-who-are-loud-proud-supporters-of-their-trans-and-non-binary-children/intro-1731522385.jpg)](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+        
+        [Politics](https://www.women.com/category/politics/)
+        
+        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+        
+        ### [5 Celeb Parents Who Are Loud & Proud Supporters Of Their Trans And Non-Binary Children](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+        
+        Unlike generations before, our understanding of sexuality and gender is finally catching up with the experiences others have had since the dawn of time.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+        
+    *  [![Emma Watson posing at the British Academy Film Awards](https://www.women.com/img/gallery/try-emma-watsons-viral-daily-journaling-practice-for-a-simple-effective-mindfulness-habit/intro-1731619992.jpg)](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
         
         [Living](https://www.women.com/category/living/)
         
@@ -66,22 +78,22 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
         
-    *  [![Dolly Parton smiling at an event in 2022](https://www.women.com/img/gallery/the-peoples-librarian-dolly-parton-is-bringing-books-back-to-the-people-thank-goodness/intro-1731513674.jpg)](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
-        
-        [Politics](https://www.women.com/category/politics/)
-        
-        [Politics](https://www.women.com/category/politics/) By Madison Emily Whisenand
-        
-        ### [The People's Librarian: Dolly Parton Is Bringing Books Back To The People (Thank Goodness)](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
-        
-        Dolly's Parton Imagination Library is just as relevant as it was in 1995. She may be childfree, but she's truly become the people's librarian.
-        
-        By Madison Emily Whisenand [Read More](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
-        
 
 More Stories
 ------------
 
+*  [![Dolly Parton smiling at an event in 2022](https://www.women.com/img/gallery/the-peoples-librarian-dolly-parton-is-bringing-books-back-to-the-people-thank-goodness/intro-1731513674.jpg)](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
+    
+    [Politics](https://www.women.com/category/politics/)
+    
+    [Politics](https://www.women.com/category/politics/) By Madison Emily Whisenand
+    
+    ### [The People's Librarian: Dolly Parton Is Bringing Books Back To The People (Thank Goodness)](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
+    
+    Dolly's Parton Imagination Library is just as relevant as it was in 1995. She may be childfree, but she's truly become the people's librarian.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
+    
 *  [![Anna Kendrick on the red carpet for her film, ](https://www.women.com/img/gallery/anna-kendrick-is-refreshingly-candid-about-her-decision-to-remain-childless-by-choice/intro-1731437103.jpg)](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
     
     [Living](https://www.women.com/category/living/)
@@ -393,18 +405,6 @@ More Stories
     There are some celebrity memoirs we'd love to see and others we wish didn't exist. But as far as 2025 goes, expect some memoirs that are really, really good.
     
     By Amanda Chatel [Read More](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
-    
-*  [![Kylie Jenner at an event](https://www.women.com/img/gallery/kylie-jenner-is-showing-us-the-trendiest-way-to-wear-watches-in-2024/intro-1730230338.jpg)](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Kylie Jenner Is Showing Us The Trendiest Way To Wear Watches In 2024](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
-    
-    Thanks to Kylie Jenner, classic time pieces are more on trend than ever. Here's how the star is using the accessory to bridge luxury and practicality.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
     
 
 Back
