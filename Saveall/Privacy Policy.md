@@ -191,7 +191,7 @@ If you are a California resident, the California Consumer Privacy Act (CCPA) pro
 * The right to be free from discrimination related to the exercise of any of your privacy rights.
 
   
-For more information on how to exercise your rights, please contact us at [support@gizmo.ai](mailto:support@gizmo.ai). Please note that we may require you to verify your credentials, by matching your e-mail address, and other Personal Information to the information in our systems, before we can fulfill your request. If you authorize another person to act as your agent to submit requests on your behalf, then unless you provide the agent with power of attorney under the California Probate Code, we will ask the agent to provide us the written and signed authorization that you provided to the agent, we will confirm with you that you did provide the authorization, and we will verify your identity.  
+For more information on how to exercise your rights, please contact us at [\[email protected\]](https://saveall.ai/cdn-cgi/l/email-protection). Please note that we may require you to verify your credentials, by matching your e-mail address, and other Personal Information to the information in our systems, before we can fulfill your request. If you authorize another person to act as your agent to submit requests on your behalf, then unless you provide the agent with power of attorney under the California Probate Code, we will ask the agent to provide us the written and signed authorization that you provided to the agent, we will confirm with you that you did provide the authorization, and we will verify your identity.  
   
   
 
@@ -237,4 +237,4 @@ HOW TO CONTACT GIZMO
 --------------------
 
   
-If you have any questions about this Privacy Policy, please contact us at: [support@gizmo.ai](mailto:support@gizmo.ai).
+If you have any questions about this Privacy Policy, please contact us at: [\[email protected\]](https://saveall.ai/cdn-cgi/l/email-protection).
