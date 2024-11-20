@@ -136,7 +136,7 @@ As of July 1, 2024, we have updated our program with Hackrate. In light of our q
 #### [Policies Center](https://proctorio.com/policies)
 
 * [Privacy Policy](https://proctorio.com/privacy)
-* [Acceptable Use Policy](https://proctorio.com/about/policies#all&all&aup&section-acceptableusepolicy)
+* [Acceptable Use Policy](https://proctorio.com/policies#all&all&aup&section-acceptableusepolicy)
 * [Terms of Service](https://proctorio.com/policies#all&all&tos&section-termsofservice)
 * [Service Level Agreement](https://proctorio.com/policies#all&all&sla&section-servicelevelagreementsla)
 
