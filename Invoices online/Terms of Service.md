@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=203050654)  
-Highlands Auto Engineering
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=175494981)  
+SMART GUY PCS (PTY) LTD
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=42124953)  
-De light Investments(Pty)Ltd trading as Serene Memorials
-
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=186235654)  
-Waterfinatics Swim School
-
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=146033447)  
-APTV Telecoms CC
-
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=24982503)  
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=147481576)  
 KTEN PARTS
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=198083856)  
-OXYAIDER (PTY) LTD
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=211477747)  
+Network Grey (Pty) Ltd
 
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=188297128)  
-The Gourmet Artisans Ltd.
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=85314679)  
+Moulded Wax SA - The Candle Store
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=82055820)  
-Calonet
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=31177781)  
+Hydroworld T/A Milliqua
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=207457823)  
-Tantra Sound and Lightz
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=212565175)  
+MONSTER SECURITY GUARDING
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=211830092)  
-Mtunzini Group
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=93783539)  
+PROGRAPHIX PTY LTD
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=107265932)  
-Sonic Electrical Services PTY Ltd
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=5449858)  
+FJW Security Cc
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=80393648)  
-Safe-Train Consulting (PTY) Ltd
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=213706752)  
+#DiGi3 Marketing & Design
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=150720134)  
-Cpower Projects t/a Pro Pure Water
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=140563842)  
+BD Maintenance
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=100749377)  
-One2b
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=17410945)  
+TIGERDSL
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=62640892)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=40095192)  
+SLOANE STAR MEAT MARKET
+
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=167365519)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=70664235)  
+LEONARD
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=fb4fe5d895176d79e6a479fec4c6f11f90fd9189cdbd9e5a1438591a3070262e&c=23408950)  
+LEO DEVELOPMENT GROUP
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
