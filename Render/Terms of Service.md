@@ -1,7 +1,3 @@
-**New:** Flexible Plans for Render PostgreSQL
-
-[Learn more](https://docs.render.com/postgresql-refresh)
-
 [](https://render.com/)
 
 [Product](https://render.com/terms#)
@@ -28,7 +24,7 @@ Services
 * [PostgreSQL](https://docs.render.com/databases)
 * [Redis®](https://docs.render.com/redis)
 
-[Compare to Heroku](https://docs.render.com/render-vs-heroku-comparison)
+[Migrate from Heroku](https://www.render.com/migrate-from-heroku?utm_int=nav_click)
 
 Runtimes
 
@@ -251,6 +247,7 @@ Services
 * [Cron Jobs](https://docs.render.com/cronjobs)
 * [PostgreSQL](https://docs.render.com/databases)
 * [Redis®](https://docs.render.com/redis)
+* [Deploy Docker Images](https://render.com/deploy-docker)
 
 Company
 
