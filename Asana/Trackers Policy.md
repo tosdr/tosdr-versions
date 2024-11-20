@@ -30,11 +30,27 @@ Productchevron-down icon
 ### CAPABILITIES
 
 * [project iconProject management](https://asana.com/features/project-management)
+* [Projects](https://asana.com/features/project-management/projects)
+* [Project views](https://asana.com/features/project-management/project-views)
+* [Tasks](https://asana.com/features/project-management/tasks)
+* [Custom fields](https://asana.com/features/project-management/custom-fields)
+* [Status updates](https://asana.com/features/project-management/status-updates)
 * [goal iconGoals and reporting](https://asana.com/features/goals-reporting)
+* [Goals](https://asana.com/features/goals-reporting/goals)
+* [Reporting dashboards](https://asana.com/features/goals-reporting/reporting-dashboards)
+* [Portfolios](https://asana.com/features/goals-reporting/portfolios)
 * [asana-intelligence iconAsana AI](https://asana.com/product/ai)
 * [workflow iconWorkflows and automation](https://asana.com/features/workflow-automation)
+* [Rules](https://asana.com/features/workflow-automation/rules)
+* [Forms](https://asana.com/features/workflow-automation/forms/)
+* [Bundles](https://asana.com/features/workflow-automation/workflow-bundles)
 * [portfolio iconResource management](https://asana.com/features/resource-management)
+* [Capacity planning](https://asana.com/features/resource-management/capacity-planning)
+* [Workload](https://asana.com/features/resource-management/workload)
+* [Time tracking](https://asana.com/features/resource-management/time-tracking)
 * [my-task iconAdmin and security](https://asana.com/features/admin-security/)
+* [Admin console](https://asana.com/features/admin-security/admin-console)
+* [Permissions](https://asana.com/features/admin-security/permissions)
 
 ### ALL PLANS
 
@@ -126,12 +142,28 @@ PLATFORM
 CAPABILITIES
 
 * [project iconProject management](https://asana.com/features/project-management)
+* [Projects](https://asana.com/features/project-management/projects)
+* [Project views](https://asana.com/features/project-management/project-views)
+* [Tasks](https://asana.com/features/project-management/tasks)
+* [Custom fields](https://asana.com/features/project-management/custom-fields)
+* [Status updates](https://asana.com/features/project-management/status-updates)
 * [goal iconGoals and reporting](https://asana.com/features/goals-reporting)
+* [Goals](https://asana.com/features/goals-reporting/goals)
+* [Reporting dashboards](https://asana.com/features/goals-reporting/reporting-dashboards)
+* [Portfolios](https://asana.com/features/goals-reporting/portfolios)
 * [asana-intelligence iconAsana AI](https://asana.com/product/ai)
 
 * [workflow iconWorkflows and automation](https://asana.com/features/workflow-automation)
+* [Rules](https://asana.com/features/workflow-automation/rules)
+* [Forms](https://asana.com/features/workflow-automation/forms/)
+* [Bundles](https://asana.com/features/workflow-automation/workflow-bundles)
 * [portfolio iconResource management](https://asana.com/features/resource-management)
+* [Capacity planning](https://asana.com/features/resource-management/capacity-planning)
+* [Workload](https://asana.com/features/resource-management/workload)
+* [Time tracking](https://asana.com/features/resource-management/time-tracking)
 * [my-task iconAdmin and security](https://asana.com/features/admin-security/)
+* [Admin console](https://asana.com/features/admin-security/admin-console)
+* [Permissions](https://asana.com/features/admin-security/permissions)
 
 ALL PLANS
 
