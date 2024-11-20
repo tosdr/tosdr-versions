@@ -36,15 +36,9 @@ Reader contributions keep LyrArc open for everyone
 
 #### Top Stories
 
-[Closing days Harris vs Trump 2024](https://www.lyrarc.com/all-topics?search_text=closing+days+Harris+vs+Trump+campaign+2024&top_story=Closing+days+Harris+vs+Trump+2024)
+[Trump Second Term](https://www.lyrarc.com/all-topics?search_text=Trump+2024&top_story=Trump+Second+Term)
 
-[The Harris Trump Debate September 2024](https://www.lyrarc.com/all-topics?search_text=Harris+Trump+debate&top_story=The+Harris+Trump+Debate+September+2024)
-
-[Kamala Harris Campaign for President](https://www.lyrarc.com/all-topics?search_text=Harris+Campaign+for+US+President%2C++Harris-Walz+campaign+2024%2C+Harris+campaign+2024&top_story=Kamala+Harris+Campaign+for+President)
-
-[NFP Front Populaire France wins](https://www.lyrarc.com/all-topics?search_text=NFP+Front+Populaire%2C+Jean+Luc+Melenchon%2C++Socialist+parties+France%2C++Oliver+Faure&top_story=NFP+Front+Populaire+France+wins)
-
-[Keir Starmer's Labour landslide](https://www.lyrarc.com/all-topics?search_text=Keir+Starmer%2C++British+general+election+2024%2C+Labour+Party+Britain&top_story=Keir+Starmer%27s+Labour+landslide)
+[Trump nominees](https://www.lyrarc.com/all-topics?search_text=Trump+nominees%2C+Susie+Wiles%2C+Tom+Homan%2C+Elise+Stefanik%2C+Kristi+Noem%2C+Pete+Hegseth%2C+Matt+Gaetz%2C+Howard+Lutnick%2C++Mehmet+Oz%2C+Karoline+Leavitt%2C+Marco+Rubio%2C+Tulsi+Gabbard&top_story=Trump+nominees)
 
 [Biden persuades Congress on Ukraine Aid](https://www.lyrarc.com/all-topics?search_text=Ukraine+aid+2024%2C+Biden+Ukraine+aid%2C+Ukraine+aid+bill+in+US+Congress+&top_story=Biden+persuades+Congress+on+Ukraine+Aid)
 
@@ -52,9 +46,15 @@ Reader contributions keep LyrArc open for everyone
 
 [Xi Jinping's US visit- normalization US -China relations](https://www.lyrarc.com/all-topics?search_text=Xi+Jinping+visit+to+US%2C+US-+China+relations%2C++Biden+Xi+meeting+2023&top_story=Xi+Jinping%27s+US+visit-+normalization+US+-China+relations)
 
-[Biden visit to Israel](https://www.lyrarc.com/all-topics?search_text=Biden+visit+to+Israel%2C+Hamas+attack+on+Israel&top_story=Biden+visit+to+Israel)
-
 [China's economy and debt super burden](https://www.lyrarc.com/all-topics?search_text=China+economy+2023%2C+China+economic+growth+2023%2C+China+debt%2C+China+Evergrande%2C+China+Country+Garden&top_story=China%27s+economy+and+debt+super+burden)
+
+[Biden reelection effort 2024](https://www.lyrarc.com/all-topics?search_text=biden+reelection+2024%2C+Biden+bid+2024%2C+Biden+investing+in+America%2C+Battle+for+the+soul+of+a+nation%2C++Biden+State+of+the+Union+2023%2C++Biden+Build+Back+Better%2C+Biden+infrastructure+spending&top_story=Biden+reelection+effort+2024)
+
+[US and EU de-risking from China](https://www.lyrarc.com/all-topics?search_text=US+decoupling%2C++US+China+relations%2C++EU+de-risking%2C++EU+decoupling%2C+EU+China+relations&top_story=US+and+EU+de-risking+from+China)
+
+[Cost of living and healthcare crisis](https://www.lyrarc.com/all-topics?search_text=NHS%2C+National+Health+Service%2C+US+healthcare%2C+cost+of+living+crisis%2C+Biden+social+spending%2C+Biden+Inflation+Reduction+Act&top_story=Cost+of+living+and+healthcare+crisis)
+
+[US Justice Department seeks breakup of Big Tech](https://www.lyrarc.com/all-topics?search_text=US+Justice+Department+lawsuit+against+Google%2C++US+Justice+Department+and+Google%2C+Google+monopoly&top_story=US+Justice+Department+seeks+breakup+of+Big+Tech)
 
 #### MRA
 
@@ -239,15 +239,9 @@ Reader contributions keep LyrArc open for everyone
 
 #### Top Stories
 
-[Closing days Harris vs Trump 2024](https://www.lyrarc.com/all-topics?search_text=closing+days+Harris+vs+Trump+campaign+2024&top_story=Closing+days+Harris+vs+Trump+2024)
+[Trump Second Term](https://www.lyrarc.com/all-topics?search_text=Trump+2024&top_story=Trump+Second+Term)
 
-[The Harris Trump Debate September 2024](https://www.lyrarc.com/all-topics?search_text=Harris+Trump+debate&top_story=The+Harris+Trump+Debate+September+2024)
-
-[Kamala Harris Campaign for President](https://www.lyrarc.com/all-topics?search_text=Harris+Campaign+for+US+President%2C++Harris-Walz+campaign+2024%2C+Harris+campaign+2024&top_story=Kamala+Harris+Campaign+for+President)
-
-[NFP Front Populaire France wins](https://www.lyrarc.com/all-topics?search_text=NFP+Front+Populaire%2C+Jean+Luc+Melenchon%2C++Socialist+parties+France%2C++Oliver+Faure&top_story=NFP+Front+Populaire+France+wins)
-
-[Keir Starmer's Labour landslide](https://www.lyrarc.com/all-topics?search_text=Keir+Starmer%2C++British+general+election+2024%2C+Labour+Party+Britain&top_story=Keir+Starmer%27s+Labour+landslide)
+[Trump nominees](https://www.lyrarc.com/all-topics?search_text=Trump+nominees%2C+Susie+Wiles%2C+Tom+Homan%2C+Elise+Stefanik%2C+Kristi+Noem%2C+Pete+Hegseth%2C+Matt+Gaetz%2C+Howard+Lutnick%2C++Mehmet+Oz%2C+Karoline+Leavitt%2C+Marco+Rubio%2C+Tulsi+Gabbard&top_story=Trump+nominees)
 
 [Biden persuades Congress on Ukraine Aid](https://www.lyrarc.com/all-topics?search_text=Ukraine+aid+2024%2C+Biden+Ukraine+aid%2C+Ukraine+aid+bill+in+US+Congress+&top_story=Biden+persuades+Congress+on+Ukraine+Aid)
 
@@ -255,9 +249,15 @@ Reader contributions keep LyrArc open for everyone
 
 [Xi Jinping's US visit- normalization US -China relations](https://www.lyrarc.com/all-topics?search_text=Xi+Jinping+visit+to+US%2C+US-+China+relations%2C++Biden+Xi+meeting+2023&top_story=Xi+Jinping%27s+US+visit-+normalization+US+-China+relations)
 
-[Biden visit to Israel](https://www.lyrarc.com/all-topics?search_text=Biden+visit+to+Israel%2C+Hamas+attack+on+Israel&top_story=Biden+visit+to+Israel)
-
 [China's economy and debt super burden](https://www.lyrarc.com/all-topics?search_text=China+economy+2023%2C+China+economic+growth+2023%2C+China+debt%2C+China+Evergrande%2C+China+Country+Garden&top_story=China%27s+economy+and+debt+super+burden)
+
+[Biden reelection effort 2024](https://www.lyrarc.com/all-topics?search_text=biden+reelection+2024%2C+Biden+bid+2024%2C+Biden+investing+in+America%2C+Battle+for+the+soul+of+a+nation%2C++Biden+State+of+the+Union+2023%2C++Biden+Build+Back+Better%2C+Biden+infrastructure+spending&top_story=Biden+reelection+effort+2024)
+
+[US and EU de-risking from China](https://www.lyrarc.com/all-topics?search_text=US+decoupling%2C++US+China+relations%2C++EU+de-risking%2C++EU+decoupling%2C+EU+China+relations&top_story=US+and+EU+de-risking+from+China)
+
+[Cost of living and healthcare crisis](https://www.lyrarc.com/all-topics?search_text=NHS%2C+National+Health+Service%2C+US+healthcare%2C+cost+of+living+crisis%2C+Biden+social+spending%2C+Biden+Inflation+Reduction+Act&top_story=Cost+of+living+and+healthcare+crisis)
+
+[US Justice Department seeks breakup of Big Tech](https://www.lyrarc.com/all-topics?search_text=US+Justice+Department+lawsuit+against+Google%2C++US+Justice+Department+and+Google%2C+Google+monopoly&top_story=US+Justice+Department+seeks+breakup+of+Big+Tech)
 
 * * *
 
