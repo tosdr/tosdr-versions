@@ -31,6 +31,117 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Investigaciones en el caso Euro 2024 dejan detenidos
+====================================================
+
+Este operativo dejó varios detenidos, entre ellos un serbio sentenciado por tráfico de drogas en 2015
+-----------------------------------------------------------------------------------------------------
+
+![Agentes de la Policía y Fiscalía investigan el caso Euro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY.png)
+
+La **Fiscalía General del Estado** informó este miércoles 20 de noviembre sobre las labores ejecutadas en coordinación con la Policía Nacional en el **caso Euro 2024.**
+
+### Más noticias
+
+* [Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito](https://www.elcomercio.com/actualidad/seguridad/fiscalia-hijo-veronica-abad-autor-supuesto-trafico-influencias.html "Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito")
+* [Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-pone-en-marcha-plan-operativo-de-elecciones-2025.html "Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025")
+* [Gremio automotor tiene una propuesta para ley contra el lavado de activos](https://www.elcomercio.com/actualidad/negocios/gremio-automotor-tiene-una-propuesta-para-ley-contra-el-lavado-de-activos.html "Gremio automotor tiene una propuesta para ley contra el lavado de activos")
+
+El Caso Euro 2024
+-----------------
+
+Una investigación por presunto lavado de activos se realizó, **de forma simultánea,** en cuatro provincias de Ecuador. Estas labores dejaron varios detenidos, entre ellos un serbio, así como la incautación de dinero en efectivo y varias armas.
+
+La **Fiscalía** indicó en sus redes sociales que ejecutó el operativo en las provincias de Guayas, Manabí, Los Ríos y Azuay, como parte de una indagación por **presunto lavado de activos.**
+
+En el caso, denominado **Euro 2024**, liderado por la Unidad Antilavado de Activos de la Fiscalía, participaron 22 agentes fiscales con sus respectivos equipos de apoyo.
+
+En este caso se ejecutaron órdenes de detención contra varias personas (incluido un ciudadano serbio que fue sentenciado por tráfico de drogas en 2015). **Fiscalía les formulará cargos**, así como también a 4 personas jurídicas en las próximas horas.
+
+La operación se ejecutó por medio de **varios allanamiento a inmuebles,** liderados por la Unidad Antilavado de Activos de la Fiscalía.
+
+En los puntos allanados se levantaron indicios, entre los que se incluyen:
+
+* Documentos
+* Facturas
+* Dinero en efectivo
+* Automotores
+* Computadores
+* Dispositivos celulares
+* Municiones
+* Armas de fuego
+
+Tres personas quedaron detenidas en esta investigación ejecutada por Fiscalía en coordinación con las unidades especiales de la P[olicía](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito"), Edecof y Ulco.
+
+Los detenidos pasarán a **órdenes de las autoridades** para que se defina su situación legal y las pruebas serán puestas en cadena de custodia. Con esas pruebas, Fiscalía formulará los cargos a los presuntos implicados en el delito de lavado de activos.
+
+Así funciona el Pico y placa en Quito este miércoles 20 de noviembre
+====================================================================
+
+Cuatro contraflujos se realizan como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+-------------------------------------------------------------------------------------------------------------------
+
+![La medida del Pico y placa se implementó para controlar el tránsito en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Pico-y-placa-1.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [Las fiestas de Quito arrancan este miércoles 20 de noviembre](https://www.elcomercio.com/actualidad/quito/fiestas-quito-agenda-inicio-ceremonia.html "Las fiestas de Quito arrancan este miércoles 20 de noviembre")
+* [Cortes de agua en Quito se inician en 95 barrios por 12 horas](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-se-inician-en-95-barrios-prevencion.html "Cortes de agua en Quito se inician en 95 barrios por 12 horas")
+* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "11 bandas internacionales tocarán en el Quitofest 2024")
+
+¿Cómo funciona el Pico y placa?
+-------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
+> 
+> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
+
 Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración
 =====================================================================================
 
@@ -65,26 +176,6 @@ Pese al escenario adverso, hay otros países que pueden hacer contrapeso para ha
 
 En Ecuador es urgente trabajar más en esos planes de mitigación, sobre todo para **afrontar la sequía y evitar los incendios forestales** graves de **Loja y Azuay.** 
 
-Fracaso diplomático
-===================
-
-La Cumbre Iberoamericana en Cuenca fracasó por desacuerdos y fallos diplomáticos.
----------------------------------------------------------------------------------
-
-![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
-
-De 22 jefes de Estado, **presidentes y primeros ministros invitados a la Cumbre Iberoamericana** que se reunió en Cuenca en días pasados, solamente asistieron: el **rey de España y los presidentes de Portugal y Andorra,** ningún presidente americano, el vicepresidente de El Salvador y los cancilleres de Costa Rica y Panamá. Las demás delegaciones estuvieron presididas por los **embajadores y jefes de misión** acreditados en Ecuador.
-
-No se emitió la **Declaración de Cuenca** por un desacuerdo entre las delegaciones de **Cuba** \-que pretendía incorporar la condena al embargo de **Estados Unidos**– y la oposición de **Argentina**, cuyo **canciller** fue destituido recientemente por apoyar una propuesta similar en otro foro. Es la primera vez que una **reunión** de este grupo concluye sin un **documento de consenso**.
-
-Se ignoró que en las mismas fechas se reuniría la **Cumbre Asia-Pacífico en Lima,** con la presencia de los presidentes Biden, Xi Jimping, Boric, la anfitriona Boluarte y otros líderes zonales. Xi aprovechó su estadía en Lima, para inaugurar un mega puerto en Chancay con inversión china de 3.600 millones de dólares, que revolucionará la **comunicación marítima** entre los países americanos y los **puertos chinos.**
-
-También pesó la **suspensión de la vicepresidenta Abad** por resolución de un **funcionario subalterno**, la ministra del Trabajo, y el insólito ingreso a la **embajada de México** para detener a Glas. Tampoco se tuvieron en cuenta las **dificultades** **logísticas** de Cuenca. Todo ello supone un descuidado manejo diplomático que provocó el **fracaso de la reunión**.
-
-Es difícil entender que una **diplomacia capaz**, experimentada y conocedora de las **relaciones internacionales,** como la ecuatoriana, pueda haber cometido **tantos errores**. Habría que conocer los entretelones del gobierno, el manejo atolondrado de la **cancillería** y un régimen dedicado a la reelección del presidente, para entender -no justificar- el faux pas de la **cancillería**.
-
-Ojalá la penosa **experiencia** de esta **cumbre** sirva para retomar la conducción profesional de la cancillería, evitar las **influencias politiqueras** y que el país repita estos errores que dañan su **imagen internacional.**
-
 Cartas a Quito / 20 de noviembre de 2024
 ========================================
 
@@ -113,6 +204,26 @@ Han pasado esos años de nostalgia, pero ahora vemos la necesidad de adaptarnos 
 Agradezcamos que la vida y Dios todavía nos permite que disfrutemos en el día a día de todos estos maravillosos avances y no nos quejemos y nos estresemos, si de repente nos vemos privados de esos avances tecnológicos porque se nos ha ido temporalmente la energía eléctrica.
 
 Hernán Patricio Orcés Salvador
+
+Fracaso diplomático
+===================
+
+La Cumbre Iberoamericana en Cuenca fracasó por desacuerdos y fallos diplomáticos.
+---------------------------------------------------------------------------------
+
+![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
+
+De 22 jefes de Estado, **presidentes y primeros ministros invitados a la Cumbre Iberoamericana** que se reunió en Cuenca en días pasados, solamente asistieron: el **rey de España y los presidentes de Portugal y Andorra,** ningún presidente americano, el vicepresidente de El Salvador y los cancilleres de Costa Rica y Panamá. Las demás delegaciones estuvieron presididas por los **embajadores y jefes de misión** acreditados en Ecuador.
+
+No se emitió la **Declaración de Cuenca** por un desacuerdo entre las delegaciones de **Cuba** \-que pretendía incorporar la condena al embargo de **Estados Unidos**– y la oposición de **Argentina**, cuyo **canciller** fue destituido recientemente por apoyar una propuesta similar en otro foro. Es la primera vez que una **reunión** de este grupo concluye sin un **documento de consenso**.
+
+Se ignoró que en las mismas fechas se reuniría la **Cumbre Asia-Pacífico en Lima,** con la presencia de los presidentes Biden, Xi Jimping, Boric, la anfitriona Boluarte y otros líderes zonales. Xi aprovechó su estadía en Lima, para inaugurar un mega puerto en Chancay con inversión china de 3.600 millones de dólares, que revolucionará la **comunicación marítima** entre los países americanos y los **puertos chinos.**
+
+También pesó la **suspensión de la vicepresidenta Abad** por resolución de un **funcionario subalterno**, la ministra del Trabajo, y el insólito ingreso a la **embajada de México** para detener a Glas. Tampoco se tuvieron en cuenta las **dificultades** **logísticas** de Cuenca. Todo ello supone un descuidado manejo diplomático que provocó el **fracaso de la reunión**.
+
+Es difícil entender que una **diplomacia capaz**, experimentada y conocedora de las **relaciones internacionales,** como la ecuatoriana, pueda haber cometido **tantos errores**. Habría que conocer los entretelones del gobierno, el manejo atolondrado de la **cancillería** y un régimen dedicado a la reelección del presidente, para entender -no justificar- el faux pas de la **cancillería**.
+
+Ojalá la penosa **experiencia** de esta **cumbre** sirva para retomar la conducción profesional de la cancillería, evitar las **influencias politiqueras** y que el país repita estos errores que dañan su **imagen internacional.**
 
 Vuelve la Guerra Fría
 =====================
@@ -920,92 +1031,3 @@ Con mucho sufrimiento, la ‘Tri’ aguantó con un hombre menos y se llevó los
 
 No te pierdas nuestro Especial de Halloween
 -------------------------------------------
-
-Caso Nene: hijo de vicepresidenta Verónica Abad es llamado a juicio
-===================================================================
-
-Una jueza llamó a juicio a Francisco B., hijo de Verónica Abad, y a David R. por la presunta oferta de tráfico de influencias.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Archivo de Francisco B. en una denuncia presentada a Fiscalía contra dos periodistas](https://www.elcomercio.com/wp-content/uploads/2024/11/veronica-abad-hijo-juicio.jpg)
-
-Una jueza llamó a juicio a **Francisco B. A.**, hijo de la vicepresidenta suspendida **Verónica Abad**. La **audiencia** preparatoria del **Caso Nene** se restauró la tarde de este martes 19 de noviembre de 2024, en el Complejo Judicial Norte de Quito.
-
-### Más noticias
-
-* [Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito](https://www.elcomercio.com/actualidad/seguridad/fiscalia-hijo-veronica-abad-autor-supuesto-trafico-influencias.html "Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito")
-* [Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea](https://www.elcomercio.com/actualidad/seguridad/joselito-arguello-aspirante-asambleista-victima-ataque-armado-salinas.html "Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea")
-* [Impulsan juicio político contra Ministra de Trabajo por suspensión a Verónica Abad](https://www.elcomercio.com/actualidad/politica/impulsan-juicio-politico-contra-ministra-de-trabajo-por-suspension-veronica-abad.html "Impulsan juicio político contra Ministra de Trabajo por suspensión a Verónica Abad")
-
-Además de Francisco B., la jueza a cargo del caso incluyó a **David R.** en la investigación que se llevará a cabo por el presunto delito de **oferta de tráfico de influencias**.
-
-La decisión fue tomada tras la presentación de **54 elementos de convicción** por parte de Fiscalía.
-
-Caso Nene
----------
-
-La investigación de la **Fiscalía** en el denominado Caso Nene se inició por una denuncia por presuntos actos de corrupción, presentados contra Francisco B. A., por parte de un exfuncionario de la **Vicepresidencia de Ecuador**.
-
-De acuerdo con el presunto perjudicado, él y el hijo de la **Vicepresidenta** se reunieron en un hotel de Quito, en diciembre de 2023. En el encuentro, Francisco B. le habría ofrecido el puesto de **coordinador general** de la institución a cambio de una parte de su sueldo.
-
-La remuneración mensual por este cargo era de **3 200 dólares**, el presunto perjudicado afirmó que tenía que entregar **1 700 dólares** de este monto. Ambos habrían firmado una letra de cambio por **30 600 dólares**, el monto correspondiente a un año[.](https://www.fiscalia.gob.ec/ "https://www.fiscalia.gob.ec/")
-
-Tras una denuncia presentada en el buzón de transparencia del sitio web de Vicepresidencia, Fiscalía trató el hecho. Luego de las primeras investigaciones se ejecutó un operativo en **Quito y Cuenca**, en el que se detuvo a Francisco B. para su audiencia de formulación de cargos.
-
-Asamblea votó para mantener inmunidad a Verónica Abad
------------------------------------------------------
-
-Francisco B. estuvo detenido en la cárcel **La Roca** de Guayaquil, donde dejó la prisión preventiva tras pagar una fianza de **20 000 dólares**.
-
-Luego, el Pleno de la **Asamblea Nacional** no autorizó el retiro de la inmunidad a la vicepresidenta Verónica Abad por lo que no fue vinculada al proceso.
-
-Fiscalía sí lo hizo con **David R.,** quien se desempañaba como **asesor político** en la institución pública.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoNene](https://twitter.com/hashtag/CasoNene?src=hash&ref_src=twsrc%5Etfw): tras el análisis de los elementos de convicción presentados por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw), Francisco B. y Daniel R. son llamados a juicio por presunta [#OfertaDeTráficoDeInfluencias](https://twitter.com/hashtag/OfertaDeTr%C3%A1ficoDeInfluencias?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Detalles ⬇️[https://t.co/zDcXAU9oTM](https://t.co/zDcXAU9oTM) [pic.twitter.com/jCsjtjsejc](https://t.co/jCsjtjsejc)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [November 19, 2024](https://twitter.com/FiscaliaEcuador/status/1859010823030796331?ref_src=twsrc%5Etfw)
-
-Fiscalía señaló a Francisco B. como presunto autor del delito
--------------------------------------------------------------
-
-Entre las **pruebas recogidas y presentadas** por Fiscalía estuvieron: la denuncia y la versión de la presunta víctima, el informe de seguimientos y vigilancia, el informe investigativo, y la pericia de las conversaciones entre los presuntos involucrados.
-
-Además del llamamiento a juicio contra Francisco B., la jueza dispuso que el proceso contra Daniel R. se suspendiera hasta su captura o entrega voluntaria a la justicia.
-
-El presunto involucrado recibió la prohibición para **enajenar sus bienes** y la **retención de sus cuentas**.
-
-Por este presunto delito, los involucrados podrían enfrentar una pena de **tres a cinco años** de cárcel.
-
-Vinícius Júnior confesó que ‘sufre’ por los actos de racismo
-============================================================
-
-Vinícius Júnior surgió en el Flamengo y juega en el Real Madrid desde el 2018.
-------------------------------------------------------------------------------
-
-![Vinícius Júnior, jugador de la Selección de Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/11/vini_racismo_1.jpg)
-
-El delantero del Real Madrid Vinícius Júnior confesó este martes 19 de noviembre de 2024, en entrevista con la Confederación Brasileña de Fútbol (CBF), que se está yendo por “**el camino correcto**” en el combate contra el racismo en el fútbol.
-
-Vinícius Júnior **celebró la condena penal de los tres hinchas del Valencia** acusados de insultarlo durante un encuentro en mayo de 2023 y ratificó su deseo de seguir luchando junto a todos los jugadores para que “en un futuro cercano” se puedan reducir los casos de racismo.
-
-### Más noticias:
-
-* [Para Francisco Egas, Liga de Quito no cumplió el reglamento](https://www.elcomercio.com/deportes/futbol/francisco-egas-liga-quito-reglamento.html "Para Francisco Egas, Liga de Quito no cumplió el reglamento")
-* [Byron Castillo sorprende a la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-reencuentro-byron-castillo.html "Byron Castillo sorprende a la Selección de Ecuador")
-* [Brasil adoptará protocolo antirracista en las eliminatorias](https://www.elcomercio.com/deportes/futbol/gesto-antirracista-vinicius-junior-brasil.html "Brasil adoptará protocolo antirracista en las eliminatorias")
-
-Vinícius, que en el último año se transformó en una de las voces más importantes de la lucha antirracista en el deporte, **dio la entrevista a la web de la CBF en la previa al Día de la Conciencia Negra**, que se celebra los 20 de noviembre en Brasil como símbolo de lucha contra la discriminación racial.
-
-“Conozco mi importancia, pero siempre digo que es la lucha de todos, **porque yo solo no puedo contra todo lo que los negros estamos sufriendo**“, aclaró el futbolista, quien además dijo estar “feliz” de encabezar la causa y hablar por aquellas personas que “no tienen fuerzas o tienen miedo”.
-
-Vinícius y su sufrimiento en España
------------------------------------
-
-Además, contó que en España, donde juega desde 2018, “sufrió y todavía sufre” actos de este tipo, pero que, g**racias a la condena de los hinchas valencianistas en junio de este año**, los personas “tendrán miedo” de ser racistas públicamente y eso hará que disminuyan los casos de discriminación.
-
-El jugador fue víctima de varios actos de discriminación durante su estadía en España. En enero de 2023 incluso **apareció colgado un muñeco ahorcado con su camiseta en una carretera de Madrid** horas antes de un partido contra el Atlético de Madrid por la Copa del Rey.
-
-San viernes
------------
