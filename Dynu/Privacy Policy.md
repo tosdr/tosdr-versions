@@ -240,10 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Did we do a good job for you?
+### 90% Renewals
 
   
-[kudos@dynu.com](#) - _tell us when one of our teams went above and beyond._  
+Over 90% of our clients renew their services for over one year.  
   
 
 ### News
