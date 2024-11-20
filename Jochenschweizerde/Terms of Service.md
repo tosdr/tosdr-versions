@@ -249,33 +249,33 @@ Benutzerkonto
 * [Außergewöhnliche Erlebnistage](https://www.jochen-schweizer.de/erlebnistage/l/7ncx1)
 * [Aktivitäten nach Region](https://www.jochen-schweizer.de/aktivitaeten-nach-region/l/sv786)
 
-**Nutzungsbedingungen Kundenkonto jochen-schweizer.de** 
+**Nutzungsbedingungen Erlebnis-Konto jochen-schweizer.de** 
 
 1\. Geltungsbereich 
 
-Diese Nutzungsbedingungen regeln ausschließlich das Angebot sowie den Abschluss eines Vertrages über die Erstellung und Nutzung eines Kundenkontos auf jochen-schweizer.de (nachfolgend „Kundenkonto“). Für den Erwerb und Einlösung von Jochen Schweizer-Produkten geltend die dort jeweils einbezogenen Allgemeinen Geschäftsbedingungen.  
+Diese Nutzungsbedingungen regeln ausschließlich das Angebot sowie den Abschluss eines Vertrages über die Erstellung und Nutzung eines Erlebnis-Kontos auf jochen-schweizer.de (nachfolgend „Kundenkonto“). Für den Erwerb und Einlösung von Jochen Schweizer-Produkten geltend die dort jeweils einbezogenen Allgemeinen Geschäftsbedingungen.  
 
-Wenn Sie sich für ein Kundenkonto registrieren, erklären Sie sich einverstanden, dass die hier beschriebenen Nutzungsbedingungen gelten.  
+Wenn Sie sich für ein Erlebnis-Konto registrieren, erklären Sie sich einverstanden, dass die hier beschriebenen Nutzungsbedingungen gelten.  
 
 2\. Anbieter 
 
-Anbieter des Kundenkontos von jochen-schweizer.de ist Jochen Schweizer GmbH, Mühldorfstraße 8, 81671 München (nachfolgend „Jochen Schweizer“ genannt). 
+Anbieter des Erlebnis-Kontos von jochen-schweizer.de ist Jochen Schweizer GmbH, Mühldorfstraße 8, 81671 München (nachfolgend „Jochen Schweizer“ genannt). 
 
 3\. Funktionen 
 
-In dem Kundenkonto können Sie Ihre Stammdaten speichern und verwalten. Auf diese Daten können Sie bei künftigem Erwerb von Jochen-Schweizer-Produkte zugreifen und den Erwerbsprozess damit vereinfachen und beschleunigen.  
+In dem Erlebnis-Konto können Sie Ihre Stammdaten speichern und verwalten. Auf diese Daten können Sie bei künftigem Erwerb von Jochen-Schweizer-Produkte zugreifen und den Erwerbsprozess damit vereinfachen und beschleunigen.  
 
-Jochen Schweizer möchte das Kundenkonto laufend weiterentwickeln und verbessern. Jochen Schweizer behält sich daher das Recht vor, die im Kundenkonto angebotenen Funktionen jederzeit in zumutbarem Umfang zu erweitern, einzuschränken oder auf andere Weise anzupassen. 
+Jochen Schweizer möchte das Erlebnis-Konto laufend weiterentwickeln und verbessern. Jochen Schweizer behält sich daher das Recht vor, die im Erlebnis-Konto angebotenen Funktionen jederzeit in zumutbarem Umfang zu erweitern, einzuschränken oder auf andere Weise anzupassen. 
 
 Sie können auch Ihre Zustimmung zum Erhalt von Newslettern geben und Werbe- und Kontaktpräferenzen angeben. Ihre Einwilligungen können Sie jederzeit widerrufen. Wir verweisen insoweit auf unsere Datenschutzerklärung. 
 
 4\. Datenschutz 
 
-Über die Verarbeitung Ihrer personenbezogenen Daten im Kundenkonto verweisen wir auf unsere Datenschutzerklärung. 
+Über die Verarbeitung Ihrer personenbezogenen Daten im Erlebnis-Konto verweisen wir auf unsere Datenschutzerklärung. 
 
 5\. Registrierung 
 
-Für die Nutzung des Kundenkontos ist eine Registrierung erforderlich. Bei Registrierung benötigen wir lediglich Ihre E-Mail-Adresse sowie ein selbstgewähltes Passwort. Alle weiteren Angaben wie Name und Anschrift sind freiwillig.  
+Für die Nutzung des Erlebnis-Kontos ist eine Registrierung erforderlich. Bei Registrierung benötigen wir lediglich Ihre E-Mail-Adresse sowie ein selbstgewähltes Passwort. Alle weiteren Angaben wie Name und Anschrift sind freiwillig.  
 
 Anschließend wird eine E-Mail an die von Ihnen angegebene E-Mail-Adresse, die innerhalb von 24 Stunden von Ihnen bestätigt werden muss, um die Registrierung abzuschließen. Nach Abschluss erhalten Sie eine Bestätigungs-E-Mail. 
 
@@ -287,31 +287,31 @@ Sie sind zur Geheimhaltung Ihrer Zugangsdaten, insbesondere des Passworts verpfl
 
 7\. Nutzung 
 
-Die Registrierung und die Nutzung des Kundenkontos ist freiwillig und kostenlos. Sie können auch ohne Kundenkonto sämtliche Angebote von jochen-schweizer.de in Anspruch nehmen. 
+Die Registrierung und die Nutzung des Erlebnis-Kontos ist freiwillig und kostenlos. Sie können auch ohne Erlebnis-Konto sämtliche Angebote von jochen-schweizer.de in Anspruch nehmen. 
 
-Das Angebot eines Kundenkontos richtet sich nur an unbeschränkt geschäftsfähige Personen. Nicht oder beschränkt geschäftsfähige Personen sind nur unter Mitwirkung und Zustimmung ihrer gesetzlichen Vertreter zur Inanspruchnahme dieses Angebotes befugt.  
+Das Angebot eines Erlebnis-Kontos richtet sich nur an unbeschränkt geschäftsfähige Personen. Nicht oder beschränkt geschäftsfähige Personen sind nur unter Mitwirkung und Zustimmung ihrer gesetzlichen Vertreter zur Inanspruchnahme dieses Angebotes befugt.  
 
 Mehrfache Registrierungen derselben Person sind nicht erlaubt. Bei Registrierung und Nutzung sind sämtliche Angaben wahrheitsgemäß zu machen. Wenn sich etwas ändert, müssen Sie die Angaben unverzüglich aktualisieren. 
 
-Sie sind verpflichtet jeden Verdacht unerlaubter Nutzung des Kundenkontos Jochen Schweizer unverzüglich mitzuteilen. 
+Sie sind verpflichtet jeden Verdacht unerlaubter Nutzung des Erlebnis-Kontos Jochen Schweizer unverzüglich mitzuteilen. 
 
-8\. Beendigung des Kundenkontos 
+8\. Beendigung des Erlebnis-Kontos 
 
-Sie können jederzeit das Kundenkonto beenden. Dies ist möglich über den Customer Service. Löschanträge durch telefonische Anfragen sowie Anfragen von anderen E-Mail-Adressen können mangels einer ausreichenden Verifizierung nicht durchführen werden. Sobald Sie die Teilnahme am Kundenkonto beendet haben, haben Sie keinen Zugriff mehr hierauf. Der Vertrag mit Jochen Schweizer über die Bereitstellung des Kundenkontos ist dann beendet. 
+Sie können jederzeit das Erlebnis-Konto beenden. Dies ist möglich über den Customer Service. Löschanträge durch telefonische Anfragen sowie Anfragen von anderen E-Mail-Adressen können mangels einer ausreichenden Verifizierung nicht durchführen werden. Sobald Sie die Teilnahme am Erlebnis-Konto beendet haben, haben Sie keinen Zugriff mehr hierauf. Der Vertrag mit Jochen Schweizer über die Bereitstellung des Erlebnis-Kontos ist dann beendet. 
 
-Jochen Schweizer behält sich vor, das Angebot "Kundenkonto" wieder einzustellen sowie bei Inaktivität von mindestens 2 Jahren die Teilnahme am Kundenkonto automatisch zu beenden. 
+Jochen Schweizer behält sich vor, das Angebot "Erlebnis-Konto" wieder einzustellen sowie bei Inaktivität von mindestens 2 Jahren die Teilnahme am Erlebnis-Konto automatisch zu beenden. 
 
-Jochen Schweizer darf das Kundenkonto sperren, wenn  
+Jochen Schweizer darf das Erlebnis-Konto sperren, wenn  
 
-\-der begründete Verdacht besteht, dass jemand unbefugt Zugriff auf das Kundenkonto hat,  
+\-der begründete Verdacht besteht, dass jemand unbefugt Zugriff auf das Erlebnis-Konto hat,  
 
-\-Sie gegen diese Nutzungsbedingungen verstoßen, insbesondere bei begründetem Verdacht auf Missbrauch des Kundenkontos,  
+\-Sie gegen diese Nutzungsbedingungen verstoßen, insbesondere bei begründetem Verdacht auf Missbrauch des Erlebnis-Kontos,  
 
 \-oder wenn sonstige berechtigte Gründe vorliegen.  
 
 9\. Haftung  
 
-Jochen Schweizer übernimmt keine Haftung für die Verfügbarkeit des Kundenkontos oder für die Verfügbarkeit der dort angebotenen Funktionen. 
+Jochen Schweizer übernimmt keine Haftung für die Verfügbarkeit des Erlebnis-Kontos oder für die Verfügbarkeit der dort angebotenen Funktionen. 
 
 Für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die auf einer Pflichtverletzung eines gesetzlichen Vertreters oder Erfüllungsgehilfen von Jochen Schweizer beruhen, haftet Jochen Schweizer unbeschränkt. 
 
@@ -323,23 +323,23 @@ Die Haftung nach dem Produkthaftungsgesetz bleibt bestehen. 
 
 10\. Änderungen der Nutzungsbedingungen  
 
-Jochen Schweizer kann diese Nutzungsbedingungen mit Wirkung für die Zukunft ändern und anpassen, wenn für die Änderung ein triftiger Grund vorliegt und soweit die Änderungen unter Berücksichtigung der Interessen beider Vertragsparteien zumutbar sind. Eine notwendige Anpassung ist insbesondere gegeben, wenn der Leistungsumfang des Kundenkontos erweitert, Regelungslücken zu schließen oder Anpassungen aufgrund geänderter Rechtsprechung oder Gesetzgebung erforderlich sind. Die Änderung einer Hauptleistungspflicht ist ausgeschlossen. 
+Jochen Schweizer kann diese Nutzungsbedingungen mit Wirkung für die Zukunft ändern und anpassen, wenn für die Änderung ein triftiger Grund vorliegt und soweit die Änderungen unter Berücksichtigung der Interessen beider Vertragsparteien zumutbar sind. Eine notwendige Anpassung ist insbesondere gegeben, wenn der Leistungsumfang des Erlebnis-Kontos erweitert, Regelungslücken zu schließen oder Anpassungen aufgrund geänderter Rechtsprechung oder Gesetzgebung erforderlich sind. Die Änderung einer Hauptleistungspflicht ist ausgeschlossen. 
 
 Jochen Schweizer wird Ihnen die geänderten Bedingungen mindestens vier Wochen vor dem geplanten Inkrafttreten in Textform übermitteln sowie bei aktiven Einloggen mitteilen und auf die Neuregelungen sowie das Datum des Inkrafttretens gesondert hinweisen. Erfolgt innerhalb dieser Frist, welche ab Erhalt der Nachricht in Textform zu laufen beginnt, keine Widerspruchserklärung von Ihnen, so gelten die geänderten Bedingungen als vereinbart. Hierauf werden Sie gesondert hingewiesen. 
 
-Widersprechen Sie den geänderten Nutzungsbedingungen, werden diese nicht Rechtsgrundlage des Kundenkontos. Jochen Schweizer hat sodann die Möglichkeit, die Nutzung des Kundenkontos mit angemessener Frist zu kündigen. 
+Widersprechen Sie den geänderten Nutzungsbedingungen, werden diese nicht Rechtsgrundlage des Erlebnis-Kontos. Jochen Schweizer hat sodann die Möglichkeit, die Nutzung des Erlebnis-Kontos mit angemessener Frist zu kündigen. 
 
 11\. Anwendbares Recht; Gerichtsstand 
 
 Es gilt das Recht der Bundesrepublik Deutschland, wenn Sie Ihren gewöhnlichen Aufenthalt in Deutschland haben. Wenn Sie Ihren gewöhnlichen Aufenthalt in einem Mitgliedstaat der Europäischen Union haben, gilt ebenfalls deutsches Recht, wobei zwingende Bestimmungen des Staates, in dem Sie Ihren gewöhnlichen Aufenthalt haben, unberührt bleiben. Im Übrigen richtet sich das anwendbare Recht nach den gesetzlichen Vorschriften.  
 
-Gerichtsstand für alle Streitigkeiten München, wenn Sie Ihren Wohnsitz oder gewöhnlichen Aufenthalt in Deutschland haben. Gerichtsstand für alle Streitigkeiten ist auch dann München, wenn Sie bei Registrierung des Kundenkontos Ihren Wohnsitz oder gewöhnlichen Aufenthalt in Deutschland hatten und diesen nach Vertragsschluss aus Deutschland verlegt haben oder Ihr Wohnsitz oder Ihr gewöhnlicher Aufenthaltsort im Zeitpunkt der Klageerhebung unbekannt ist. Im Übrigen richtet sich der Gerichtsstand nach den gesetzlichen Vorschriften. 
+Gerichtsstand für alle Streitigkeiten München, wenn Sie Ihren Wohnsitz oder gewöhnlichen Aufenthalt in Deutschland haben. Gerichtsstand für alle Streitigkeiten ist auch dann München, wenn Sie bei Registrierung des Erlebnis-Kontos Ihren Wohnsitz oder gewöhnlichen Aufenthalt in Deutschland hatten und diesen nach Vertragsschluss aus Deutschland verlegt haben oder Ihr Wohnsitz oder Ihr gewöhnlicher Aufenthaltsort im Zeitpunkt der Klageerhebung unbekannt ist. Im Übrigen richtet sich der Gerichtsstand nach den gesetzlichen Vorschriften. 
 
 12\. Verbraucherschlichtung 
 
 Jochen Schweizer ist nicht zu einer Teilnahme an einem Streitbeilegungsverfahren einer Verbraucherschlichtungsstelle verpflichtet und nimmt an einem solchen Verfahren auch nicht teil. 
 
-Stand: Juni 2022 
+Stand: November 2024
 
 [Trustpilot](https://de.trustpilot.com/review/www.jochen-schweizer.de)
 
