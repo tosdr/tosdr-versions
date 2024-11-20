@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. law
+1. data science
     
-2. web development
+2. finance
     
-3. French
+3. trading
     
 
 Popular subjects
 
-1. [Computer Science
+1. [Psychology
     
-    43,410 courses](https://www.classcentral.com/subject/cs)
-2. [Data Analysis
-    
-    8,811 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Cybersecurity
+    2,703 courses](https://www.classcentral.com/subject/psychology)
+2. [Cybersecurity
     
     16,787 courses](https://www.classcentral.com/subject/cybersecurity)
+3. [Project Management
+    
+    4,234 courses](https://www.classcentral.com/subject/project-management)
 
 Popular courses
 
-1. [Maintaining a Mindful Life
+1. [How to Succeed at: Interviews
     
-    Monash University](https://www.classcentral.com/course/mindfulness-life-9078)
-2. [Protecting Business Innovations via Patent
+    The University of Sheffield](https://www.classcentral.com/course/interviews-2253)
+2. [Improving Your Study Techniques
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/protect-business-innovations-patent-10382)
-3. [CS50's Introduction to Computer Science
+    University of Groningen](https://www.classcentral.com/course/improving-study-techniques-13420)
+3. [L'Italiano nel mondo
     
-    Harvard University](https://www.classcentral.com/course/computer-science-harvard-university-cs50-s-introd-442)
+    University of Naples Federico II](https://www.classcentral.com/course/italian-universita-degli-studi-di-napoli-federico-9241)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
