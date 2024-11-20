@@ -198,6 +198,7 @@ Overview of the cookies and web storage objects used by DeepL:
 | Speech-to-text | IDspeechToTextConsent | Description<br><br>Stores the consent of the Free and DeepL account users when using the speech-to-text feature. | TechnologyCookie | Expiry100 years | OwnerDeepL |
 | Security | ID\_\_cf\_bm | Description<br><br>Used to prevent misuse of our services by using the Cloudflare bot score. | TechnologyCookie | Expiry30 minutes (after continuous inactivity of the user) | OwnerThird Party - Cloudflare |
 | Allocation of assets | IDINGRESSCOOKIE | Description<br><br>Used to provide the user with the correct version of the assets (Javascript, CSS, etc.) when deepl.com is updated. | TechnologyCookie | Expirysession | OwnerDeepL |
+| Session handling | IDdl\_ita\_ingress | Description<br><br>Ensures that all requests of the session are handled by the correct internal server. | TechnologyCookie | ExpirySession | OwnerDeepL |
 
 ### Performance
 
@@ -462,7 +463,7 @@ We may transfer personal data to the overseas delegatees listed below in order t
 
 We reserve the right to amend this privacy policy. The current version of the privacy policy can be accessed at any time on our [website](https://www.deepl.com/privacy).
 
-Last update: July 2024
+Last update: September 2024
 
 English
 
