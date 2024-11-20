@@ -78,7 +78,7 @@ Your cart is currently empty.
 * [Find FitJoy](https://fitjoyfoods.com/pages/store-locator)
 * [Blog](https://fitjoyfoods.com/blogs/life-of-joy)
 
-![](//fitjoyfoods.com/cdn/shop/files/FCM_x_FItJoy_July_5.jpg?v=1687878575&width=1000)
+![](//fitjoyfoods.com/cdn/shop/files/10_da458c40-a1bd-4331-84a8-ae2e2c4d4fa2.png?v=1730467060&width=1000)
 
 Hey Snackers!
 
