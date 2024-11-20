@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [How OneTrust helps SMEs stay ahead of third-party risk](https://www.onetrust.com/resources/how-onetrust-helps-smes-stay-ahead-of-third-party-risk/)
 * [Rise above risk: Third-party management in technology](https://www.onetrust.com/resources/rise-above-risk-third-party-management-in-technology-infographic/)
 * [Elevating client compliance with OneTrust Automation: Key strategies for partners](https://www.onetrust.com/resources/elevating-client-compliance-with-onetrust-automation-key-strategies-for-partners-webinar/)
-* [Tackling IT security risks for banks in South Africa](https://www.onetrust.com/resources/tackling-it-security-risks-for-banks-in-south-africa-webinar/)
 
 ### Platform
 
