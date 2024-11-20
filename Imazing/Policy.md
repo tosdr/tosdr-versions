@@ -80,7 +80,7 @@ Accept Selection Accept All
     
     *  [![iMazing](/img/navigation/app-imazing_dark.svg) iMazing](https://imazing.com/app)
     *  [![iMazing Configurator](/img/navigation/app-imazing_configurator-dark.svg) iMazing Configurator](https://imazing.com/configurator)
-    *  [![iMazing Profile Editor](/img/navigation/app-imazing_profile_editor-dark.svg) iMazing Profile Editor](https://imazing.com/profile-editor)
+    *  [![iMazing Profile Editor](/img/navigation/app-imazing_profile_editor.svg) iMazing Profile Editor](https://imazing.com/profile-editor)
     *  [![iMazing Mini](/img/navigation/app-imazing_mini.svg) iMazing Mini](https://imazing.com/mini)
     *  [![iMazing CLI](/img/navigation/app-imazing_cli.svg) iMazing CLI](https://imazing.com/cli)
     
