@@ -441,7 +441,7 @@ Shop Now](https://www.atari.com/collections/games)
 
 [![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct1.jpg)
 
-![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct3.jpg)
+![Atari 7800+ Controller Mega Bundle](files/Atari_10102024_257_ca8b6865-86da-487e-b5a3-d9d9a58c483f.jpg)
 
 Pre-Order
 
