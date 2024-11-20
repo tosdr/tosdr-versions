@@ -4,7 +4,6 @@
 * [VPN](https://whoer.net/vpn)
 * [Download](https://whoer.net/download)
 * [Antidetect Browser](https://wade.is/?utm_source=whoer&utm_campaign=header_main)
-* [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_main)
 * Services
     * [Proxy](https://asocks.com/?c=WHup&utm_source=WHOER_partner&utm_medium=cpl&utm_campaign=Asocks_header&utm_term=WHup&utm_content=btn&roistat_referrer=WHOER&roistat=WHOER_partner_Asocks_header_btn)
     * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_services)
@@ -246,3 +245,15 @@ Layer 1 IP
 This website uses cookies to enhance your experience.
 
 Accept
+
+black fridayblack fridayblack fridayblack friday black fridayblack fridayblack fridayblack friday
+
+Black Friday promotion ends in:
+
+00 days : 00 hours : 00 minutes : 00 seconds
+
+[Grab -75% Now](https://whoer.net/vpn/buy)
+
+\-75% OFF for VPN till 2.12
+
+[Grab it now](https://whoer.net/vpn/buy)
