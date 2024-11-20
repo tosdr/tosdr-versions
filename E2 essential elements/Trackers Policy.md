@@ -63,7 +63,7 @@ Tel: (+32) 56 33 08 35
 Politique de Cookies
 ====================
 
-[Home](https://e2essentialelements.com/) / Politique des Cookies
+[Accueil](https://e2essentialelements.com/) / Politique des Cookies
 
 [1\. Ce que sont les cookies](#1) | [2\. Déclaration des cookies](#2) | [3\. Officier de protection des données](#3)
 
@@ -186,9 +186,9 @@ Contactez nous via mail, téléphone ou réseaux sociaux
 10 Avenue du Château,  
 7700 Mouscron, Belgique
 
- ![Paiements Sécurisés avec PayPal et Stripe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20249%2086'%3E%3C/svg%3E)
+ ![Paiements Sécurisés avec PayPal et Stripe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
- ![Paiements Sécurisés avec PayPal et Stripe](https://e2essentialelements.com/wp-content/uploads/2020/06/249x86px_payment_grey_e2essentialelements.png)
+![Paiements Sécurisés avec PayPal et Stripe](https://e2essentialelements.com/wp-content/uploads/2020/06/249x86px_payment_grey_e2essentialelements.png)
 
 * [Facebook](http://esselem.at/FaceBook)
 * [X](http://esselem.at/Twitter)
