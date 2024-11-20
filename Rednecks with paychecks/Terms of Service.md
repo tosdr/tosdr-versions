@@ -7,6 +7,7 @@ top of page
 * [ATTRACTIONS](https://www.redneckswithpaychecks.com/attractions)
 * [FAQS & RULES](https://www.redneckswithpaychecks.com/faq)
 * [CAMPING & MAPS](https://www.redneckswithpaychecks.com/camping-maps)
+* [SPONSORS](https://www.redneckswithpaychecks.com/sponsors)
 * [STORE](https://www.redneckswithpaycheckswebstore.com/)
 * [COMMUNITY](https://www.redneckswithpaychecks.com/community)
 * [CONTACT US](https://www.redneckswithpaychecks.com/contact-us)
