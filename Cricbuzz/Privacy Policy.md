@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[MLSW vs SYTW - SYTW Won](https://www.cricbuzz.com/live-cricket-scores/101408/mlsw-vs-sytw-33rd-match-womens-big-bash-league-2024 "Melbourne Stars Women v Sydney Thunder Women, 33rd Match - SYTW Won")[NZ vs SL - Complete](https://www.cricbuzz.com/live-cricket-scores/108761/nz-vs-sl-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 3rd ODI - Complete")[SLA vs PAKA - Stumps](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")[WI vs ENG - No Result](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-england-tour-of-west-indies-2024 "West Indies v England, 5th T20I - No Result")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[MLSW vs SYTW - SYTW Won](https://www.cricbuzz.com/live-cricket-scores/101408/mlsw-vs-sytw-33rd-match-womens-big-bash-league-2024 "Melbourne Stars Women v Sydney Thunder Women, 33rd Match - SYTW Won")[SYSW vs PRSW - Preview](https://www.cricbuzz.com/live-cricket-scores/101411/sysw-vs-prsw-34th-match-womens-big-bash-league-2024 "Sydney Sixers Women v Perth Scorchers Women, 34th Match - Preview")[SLA vs PAKA - Stumps](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")[HBHW vs MLRW - Preview](https://www.cricbuzz.com/live-cricket-scores/101417/hbhw-vs-mlrw-35th-match-womens-big-bash-league-2024 "Hobart Hurricanes Women v Melbourne Renegades Women, 35th Match - Preview")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")
 
 AllLive NowToday
 
@@ -72,6 +72,10 @@ AllLive NowToday
     
     2-day Warm-up match
     
+* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95205/wi-vs-ban-1st-test-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 1st Test - Upcoming")
+    
+    1st Test
+    
 * ICC Mens T20 World Cup Asia Qualifier B 2024
     
     [United Arab Emirates vs Bhutan](https://www.cricbuzz.com/live-cricket-scores/108952/uae-vs-btn-2nd-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "United Arab Emirates v Bhutan, 2nd Match - UAE Won")
@@ -94,7 +98,7 @@ AllLive NowToday
     
     4th Match
     
-* [Saudi Arabia vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/108973/sau-vs-uae-6th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Saudi Arabia v United Arab Emirates, 6th Match - Preview")
+* [Saudi Arabia vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/108973/sau-vs-uae-6th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Saudi Arabia v United Arab Emirates, 6th Match - Toss")
     
     6th Match
     
@@ -139,6 +143,14 @@ AllLive NowToday
 * [New York Strikers vs Morrisville Samp Army](https://www.cricbuzz.com/live-cricket-scores/109425/nys-vs-msa-5th-match-abu-dhabi-t10-league-2024 "New York Strikers v Morrisville Samp Army, 5th Match - Upcoming")
     
     5th Match
+    
+* [UP Nawabs vs Team Abu Dhabi](https://www.cricbuzz.com/live-cricket-scores/109428/upn-vs-ad-6th-match-abu-dhabi-t10-league-2024 "UP Nawabs v Team Abu Dhabi, 6th Match - Upcoming")
+    
+    6th Match
+    
+* [Ajman Bolts vs Deccan Gladiators](https://www.cricbuzz.com/live-cricket-scores/109432/ajmb-vs-deg-7th-match-abu-dhabi-t10-league-2024 "Ajman Bolts v Deccan Gladiators, 7th Match - Upcoming")
+    
+    7th Match
     
 * DOMESTIC
     
@@ -507,25 +519,25 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Thunder maintain top spot with thrilling win](https://www.cricbuzz.com/cricket-news/132474/thunder-maintain-top-spot-with-thrilling-win "Thunder maintain top spot with thrilling win")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132473/salahuddin-to-essay-batting-coach-role-in-bangladeshs-tour-of-wi "Salahuddin to essay batting coach role in Bangladesh's tour of WI")
 
 [Salahuddin to essay batting coach role in Bangladesh's tour of WI](https://www.cricbuzz.com/cricket-news/132473/salahuddin-to-essay-batting-coach-role-in-bangladeshs-tour-of-wi "Salahuddin to essay batting coach role in Bangladesh's tour of WI")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132472/nitish-reddy-a-guy-to-keep-an-eye-on-this-series-morne-morkel "Nitish Reddy a guy to keep an eye on this series - Morne Morkel")
 
 [Nitish Reddy a guy to keep an eye on this series - Morne Morkel](https://www.cricbuzz.com/cricket-news/132472/nitish-reddy-a-guy-to-keep-an-eye-on-this-series-morne-morkel "Nitish Reddy a guy to keep an eye on this series - Morne Morkel")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132471/sri-lanka-take-series-2-0-after-pallekele-odi-called-off-due-to-rain "Sri Lanka take series 2-0 after Pallekele ODI called off due to rain")
 
 [Sri Lanka take series 2-0 after Pallekele ODI called off due to rain](https://www.cricbuzz.com/cricket-news/132471/sri-lanka-take-series-2-0-after-pallekele-odi-called-off-due-to-rain "Sri Lanka take series 2-0 after Pallekele ODI called off due to rain")
 
-22h ago
+1d ago
 
   [](https://www.cricbuzz.com/cricket-news/132470/coetzee-handed-demerit-point-for-dissenting-wide-call-in-johannesburg-t20i "Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I")
 
