@@ -712,3 +712,10 @@ Connect
 The Lake Washington School District does not discriminate in any programs or activities on the basis of sex, race, creed, religion, color, national origin, age, veteran or military status, sexual orientation, gender expression or identity, disability, or the use of a trained dog guide or service animal and provides equal access to the Boy Scouts and other designated youth groups. The following employees have been designated to handle questions and complaints of alleged discrimination: Civil Rights Coordinator, Director of Human Resources, 425-936-1251, civilrights@lwsd.org; Title IX Coordinator, Director of Athletics and Activities, 425-936-1289, titleix@lwsd.org; and 504 Coordinator, Director of Special Services, 425-936-1407, section504@lwsd.org (16250 NE 74th Street, Redmond, WA 98052).
 
 [Powered by Finalsite](https://www.finalsite.com/districts "Powered by Finalsite opens in a new window")
+
+Windstorm Update - 11/19/24
+---------------------------
+
+Due to a power outage, all on-campus after-school activities and athletics at **Lake Washington High School** are canceled for 11/19/24.   
+  
+Updated: 11/19/24 at 3:25 p.m.
