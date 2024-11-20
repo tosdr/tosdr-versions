@@ -83,21 +83,21 @@ October 22, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 16 1
+0 19 1
 
 November 18, 2024
 
-[](https://yiff-party.com/yiff/halloween-and-etc-created-by-satanic-monkey/)
+[](https://yiff-party.com/yiff/mythology-created-by-chamuskinha/)
 
-[halloween and etc created by satanic monkey](https://yiff-party.com/yiff/halloween-and-etc-created-by-satanic-monkey/)
+[mythology created by chamuskinha](https://yiff-party.com/yiff/mythology-created-by-chamuskinha/)
 
-0 150 0
+0 62 0
 
-October 20, 2024
+October 21, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-inaire777-6/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-bedtimes-11/)
 
-[directed by inaire777](https://yiff-party.com/yiff-ai-premium/directed-by-inaire777-6/)
+[directed by bedtimes](https://yiff-party.com/yiff-ai-premium/directed-by-bedtimes-11/)
 
 0 2 0
 
