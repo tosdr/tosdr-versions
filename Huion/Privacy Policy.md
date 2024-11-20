@@ -317,7 +317,7 @@ Follow Us：
 
 Newsletter Subscription:
 
-  
+ 
 
 [Privacy Policy](https://huion.com/privacy_policy.html) [Terms and Conditions](https://huion.com/subject/terms-of-use.html)
 
