@@ -8,7 +8,8 @@
 
 Solutions
 
-Our solutions are designed to meet all your talent acquisition needs.
+Introducing [Appcast Xtend](https://www.appcast.io/appcast-xtend/),  
+a new optional add-on to AppcastOne!
 
 [![](https://www.appcast.io/wp-content/uploads/2024/05/Frame-22840.svg)
 
