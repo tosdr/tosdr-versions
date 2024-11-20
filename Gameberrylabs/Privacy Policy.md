@@ -7,7 +7,7 @@
 
 #### YOUR PRIVACY IS IMPORTANT TO US
 
-Your privacy is important to Gameberry Labs Private Limited or any of its subsidiaries or affiliates (collectively “Gameberry” “we”, or “us”). This Privacy Policy explains how we collect, process, use, share and protect information about you.
+Your privacy is important to Gameberry Labs Private Limited or any of its subsidiaries (including DREAM HQ LABS PRIVATE LIMITED) or affiliates (collectively “Gameberry” “we”, or “us”). This Privacy Policy explains how we collect, process, use, share and protect information about you.
 
 The Privacy Policy covers both “online” (e.g., web and mobile services, including any websites operated by us, however accessed and/or used, whether via personal computers, mobile devices or otherwise) and “offline” (e.g., collection of data through mailings, telephone, or in person) activities owned, operated, provided, or made available by us.
 
