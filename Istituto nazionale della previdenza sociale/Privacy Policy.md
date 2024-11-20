@@ -497,7 +497,6 @@ it
             * [Brochure](https://www.inps.it/it/it/inps-comunica/video-personalizzati-e-guide-interattive/guide-interattive/brochure.html)
             
         
-    * [Il welfare per la formazione post diploma dei giovani](https://www.inps.it/it/it/inps-comunica/il-welfare-per-la-formazione-post-diploma-dei-giovani.html)
     * [Bookinps – Concessione sale convegni](https://www.inps.it/it/it/inps-comunica/bookinps---concessione-sale-convegni.html)
     * [Social Media](#)
         
