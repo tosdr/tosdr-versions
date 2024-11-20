@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/gezond-12-jarig-meisje-sterft-na-hpv-vaccinatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/straling-echt-wel/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
