@@ -346,7 +346,7 @@ Stay in touch
 
 Stay in touch
 
-* [Facebook ![Go To Facebook](/sites/default/files/styles/footer_icon/public/footer/icon-menu/facebook_0.png.webp?VersionId=AedC2A8oJ5cYTMP23ZXzVOhjEOnQHGBL&itok=Jpc_Nszx "Facebook")](https://www.facebook.com/unibocconi) 
+* [Facebook ![Go To Facebook](/sites/default/files/styles/footer_icon/public/footer/icon-menu/facebook_0.png.webp?itok=Jpc_Nszx "Facebook")](https://www.facebook.com/unibocconi) 
 * [Twitter ![Go To Twitter](/sites/default/files/styles/footer_icon/public/footer/icon-menu/x_1.png.webp?itok=Y7MLjZ5L "Twitter")](https://twitter.com/unibocconi) 
 * [Linkedin ![Go To Linkedin](/sites/default/files/styles/footer_icon/public/footer/icon-menu/linkedin_0.png.webp?itok=oWwIb-bE "Linkedin")](https://www.linkedin.com/school/universita-bocconi/) 
 * [Youtube ![Go to Youtube](/sites/default/files/styles/footer_icon/public/footer/icon-menu/youtube.png.webp?itok=8F3uxcIQ "Youtube")](https://www.youtube.com/user/UniBocconi) 
@@ -372,7 +372,7 @@ Media center
 
 * [BTV ![Go to BTV](/sites/default/files/styles/footer_icon/public/footer/icon-menu/btv.png.webp?itok=euce4HxJ "BTV")](https://bocconitv.it/?key=footer) 
 * [TL ![Go to TL](/sites/default/files/styles/footer_icon/public/footer/icon-menu/on.png.webp?itok=gyXozZWU "TL")](https://traileoni.it/?key=footer) 
-* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?VersionId=0RTBndY6SvjfrIIfX5iOyg3kNHord6JN&itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
+* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
 
 Mobile app
 
