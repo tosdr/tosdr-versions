@@ -218,7 +218,7 @@ Additional privacy statements are available in our [Trust Center](https://www.an
 * The [U.S. State Privacy Notice](https://www.anthology.com/trust-center/us-state-privacy-notice) supplements this Privacy Statement and provides additional disclosures for U.S. residents of the states of California, Colorado, Connecticut, Nevada, Virginia and Utah who our products and services when we are acting as a business.
 * The Spanish version of the [Privacy Statement](https://www.anthology.com/trust-center/declaraci%C3%B3n-de-privacidad) includes specific information regarding personal information that is processed in Colombia.
 
-This Statement was last updated on October 27, 2023 – [What’s New?](https://www.anthology.com/trust-center/whats-new)
+This Statement was last updated on November 18, 2024 – [What’s New?](https://www.anthology.com/trust-center/whats-new)
 
 ### Introduction
 
@@ -389,7 +389,7 @@ We use vendors to help us provide our products and services to our clients and y
 
 In some countries and regions, our products and services are offered through channel (or reselling) partners ([see the list of our channel partners](https://www.anthology.com/channel-partnerships)). We will share information with them that is necessary for them to offer and provide our products and services to our current and prospective clients.
 
-Some of our products allow you to access functionalities or content provided by our content and technology partners. For example, Blackboard Learn’s integration with YouTube through the YouTube API Services allows institutions to incorporate YouTube functionalities directly in the course environment in Learn (Learn more about how Google/YouTube uses the related personal information in the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US%20target=)). With your or your institution’s permission, we will share information about you, such as your name, email, or student ID, that is required for you to access these partner functionalities or content from our products and services.
+Some of our products allow you to access functionalities or content provided by our content and technology partners. For example, Blackboard Learn’s integration with YouTube through the YouTube API Services allows institutions to incorporate YouTube functionalities directly in the course environment in Learn (Learn more about how Google/YouTube uses the related personal information in the [Google Privacy Policy](https://policies.google.com/privacy?hl=en-US)). With your or your institution’s permission, we will share information about you, such as your name, email, or student ID, that is required for you to access these partner functionalities or content from our products and services.
 
 #### Other types of disclosures
 
@@ -457,7 +457,7 @@ All products and services that use payment data maintain the applicable Payment 
 
 #### Data transfers
 
-Anthology is a global company headquartered in the United States. For many of our products, we use a regional hosting strategy, but we may need to access your information from locations outside of your region and country, including from the United States and the Netherlands, for support and maintenance purposes where permitted under applicable law and our contract with your institution. We understand the importance of complying with data transfer requirements. We use approved data transfer mechanisms, such as the standard contractual clauses approved by the EU Commission ("SCCs") and the EU-U.S. Data Privacy Framework to ensure the adequate protection of your information when it is transferred. We detail our compliance with the EU-U.S. Data Privacy Framework Principles in our [Data Privacy Framework Statement](https://www.anthology.com/trust-center/data-privacy-framework-statement). Learn more about our approach to data transfer compliance in our [Trust Center](https://www.anthology.com/trust-center).
+Anthology is a global company headquartered in the United States. For many of our products, we use a regional hosting strategy, but we may need to access your information from locations outside of your region and country, including from the United States and the Netherlands, for support and maintenance purposes where permitted under applicable law and our contract with your institution. We understand the importance of complying with data transfer requirements. We use approved data transfer mechanisms, such as the standard contractual clauses approved by the EU Commission ("SCCs") and the EU-U.S. Data Privacy Framework and the UK Extension to the EU-U.S. DPF to ensure the adequate protection of your information when it is transferred. We detail our compliance with the EU-U.S. Data Privacy Framework Principles in our [Data Privacy Framework Statement](https://www.anthology.com/trust-center/data-privacy-framework-statement). Learn more about our approach to data transfer compliance in our [Trust Center](https://www.anthology.com/trust-center).
 
 #### United States – FERPA and state education privacy laws
 
