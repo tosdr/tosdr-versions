@@ -1,4 +1,6 @@
-![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                               [Skip to content](#content)
+![](https://ws.zoominfo.com/pixel/lxUaNKjbDeMIXSIuozxr)                              
+
+[Skip to content](#content)
 
 [![](https://www.appcast.io/wp-content/uploads/2023/08/appcast-logo.svg)](https://www.appcast.io/)
 
@@ -8,7 +10,8 @@
 
 Solutions
 
-Our solutions are designed to meet all your talent acquisition needs.
+Introducing [Appcast Xtend](https://www.appcast.io/appcast-xtend/),  
+a new optional add-on to AppcastOne!
 
 [![](https://www.appcast.io/wp-content/uploads/2024/05/Frame-22840.svg)
 
