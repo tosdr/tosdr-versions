@@ -48,19 +48,13 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs SL - Break](https://www.cricbuzz.com/live-cricket-scores/108761/nz-vs-sl-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 3rd ODI - Break")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")[ADSW vs PRSW - ADSW Won](https://www.cricbuzz.com/live-cricket-scores/101401/adsw-vs-prsw-32nd-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Perth Scorchers Women, 32nd Match - ADSW Won")[WI vs ENG - No Result](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-england-tour-of-west-indies-2024 "West Indies v England, 5th T20I - No Result")[SLA vs PAKA - Stumps](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs SL - Complete](https://www.cricbuzz.com/live-cricket-scores/108761/nz-vs-sl-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 3rd ODI - Complete")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")[ADSW vs PRSW - ADSW Won](https://www.cricbuzz.com/live-cricket-scores/101401/adsw-vs-prsw-32nd-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Perth Scorchers Women, 32nd Match - ADSW Won")[WI vs ENG - No Result](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-england-tour-of-west-indies-2024 "West Indies v England, 5th T20I - No Result")[SLA vs PAKA - Stumps](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")
 
 AllLive NowToday
 
 * INTERNATIONAL
     
-    West Indies v England, 2024
-    
-    [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-west-indies-v-england-2024 "West Indies v England, 5th T20I - No Result")
-    
-    5th T20I
-    
-* Australia v Pakistan
+    Australia v Pakistan
     
     [Pakistan vs Australia](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-australia-v-pakistan "Pakistan v Australia, 3rd T20I - AUS Won")
     
@@ -68,11 +62,7 @@ AllLive NowToday
     
 * New Zealand tour of Sri Lanka, 2024
     
-    [New Zealand vs Sri Lanka](https://www.cricbuzz.com/live-cricket-scores/108753/nz-vs-sl-2nd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 2nd ODI - SL Won")
-    
-    2nd ODI
-    
-* [New Zealand vs Sri Lanka](https://www.cricbuzz.com/live-cricket-scores/108761/nz-vs-sl-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 3rd ODI - Break")
+    [New Zealand vs Sri Lanka](https://www.cricbuzz.com/live-cricket-scores/108761/nz-vs-sl-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 3rd ODI - Complete")
     
     3rd ODI
     
@@ -84,15 +74,15 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Asia Qualifier B 2024
     
-    [Thailand vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108945/thai-vs-qat-1st-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Qatar, 1st Match - QAT Won")
-    
-    1st Match
-    
-* [United Arab Emirates vs Bhutan](https://www.cricbuzz.com/live-cricket-scores/108952/uae-vs-btn-2nd-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "United Arab Emirates v Bhutan, 2nd Match - UAE Won")
+    [United Arab Emirates vs Bhutan](https://www.cricbuzz.com/live-cricket-scores/108952/uae-vs-btn-2nd-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "United Arab Emirates v Bhutan, 2nd Match - UAE Won")
     
     2nd Match
     
-* [Bahrain vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/108956/bhr-vs-sau-3rd-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bahrain v Saudi Arabia, 3rd Match - Toss")
+* [Thailand vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108945/thai-vs-qat-1st-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Qatar, 1st Match - QAT Won")
+    
+    1st Match
+    
+* [Bahrain vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/108956/bhr-vs-sau-3rd-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bahrain v Saudi Arabia, 3rd Match - BHR Won")
     
     3rd Match
     
@@ -122,19 +112,19 @@ AllLive NowToday
     
     1st Match
     
+* [Morrisville Samp Army vs Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/109407/msa-vs-bgt-2nd-match-abu-dhabi-t10-league-2024 "Morrisville Samp Army v Bangla Tigers, 2nd Match - Upcoming")
+    
+    2nd Match
+    
+* [Deccan Gladiators vs Chennai Brave Jaguars](https://www.cricbuzz.com/live-cricket-scores/109411/deg-vs-cbj-3rd-match-abu-dhabi-t10-league-2024 "Deccan Gladiators v Chennai Brave Jaguars, 3rd Match - Upcoming")
+    
+    3rd Match
+    
 * DOMESTIC
     
     CSA Four-Day Series Division One 2024-25
     
-    [North West vs Lions](https://www.cricbuzz.com/live-cricket-scores/104780/nwest-vs-lions-9th-match-csa-four-day-series-division-one-2024-25 "North West v Lions, 9th Match - Match drawn")
-    
-    9th Match
-    
-* [Western Province vs Warriors](https://www.cricbuzz.com/live-cricket-scores/104772/wpr-vs-war-8th-match-csa-four-day-series-division-one-2024-25 "Western Province v Warriors, 8th Match - Match drawn")
-    
-    8th Match
-    
-* [Titans vs Knights](https://www.cricbuzz.com/live-cricket-scores/104786/tit-vs-kng-10th-match-csa-four-day-series-division-one-2024-25 "Titans v Knights, 10th Match - Toss")
+    [Titans vs Knights](https://www.cricbuzz.com/live-cricket-scores/104786/tit-vs-kng-10th-match-csa-four-day-series-division-one-2024-25 "Titans v Knights, 10th Match - Stumps")
     
     10th Match
     
@@ -158,29 +148,19 @@ AllLive NowToday
     
     12th Match
     
-* CSA Four-Day Series Division Two 2024-25
-    
-    [Border vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/104348/bor-vs-ncape-6th-match-csa-four-day-series-division-two-2024-25 "Border v Northern Cape, 6th Match - NCAPE Won")
-    
-    6th Match
-    
-* [South Western Districts vs KwaZulu-Natal Inland](https://www.cricbuzz.com/live-cricket-scores/104346/swd-vs-kznin-5th-match-csa-four-day-series-division-two-2024-25 "South Western Districts v KwaZulu-Natal Inland, 5th Match - KZNIN Won")
-    
-    5th Match
-    
 * Plunket Shield
     
-    [Central Districts vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Stumps")
-    
-    5th Match
-    
-* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Stumps")
+    [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Break")
     
     4th Match
     
-* [Wellington vs Otago](https://www.cricbuzz.com/live-cricket-scores/107465/wel-vs-otg-6th-match-plunket-shield "Wellington v Otago, 6th Match - Stumps")
+* [Wellington vs Otago](https://www.cricbuzz.com/live-cricket-scores/107465/wel-vs-otg-6th-match-plunket-shield "Wellington v Otago, 6th Match - Lunch")
     
     6th Match
+    
+* [Central Districts vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Lunch")
+    
+    5th Match
     
 * WOMEN
     
@@ -201,12 +181,6 @@ AllLive NowToday
 * [Hobart Hurricanes Women vs Melbourne Renegades Women](https://www.cricbuzz.com/live-cricket-scores/101417/hbhw-vs-mlrw-35th-match-wbbl-2024 "Hobart Hurricanes Women v Melbourne Renegades Women, 35th Match - Upcoming")
     
     35th Match
-    
-* Costa Rica Women tour of Mexico 2024
-    
-    [Costa Rica Women vs Mexico Women](https://www.cricbuzz.com/live-cricket-scores/110313/crw-vs-mexw-3rd-t20i-costa-rica-women-tour-of-mexico-2024 "Costa Rica Women v Mexico Women, 3rd T20I - Complete")
-    
-    3rd T20I
     
 
 Privacy Policy
@@ -515,41 +489,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132471/sri-lanka-take-series-2-0-after-pallekele-odi-called-off-due-to-rain "Sri Lanka take series 2-0 after Pallekele ODI called off due to rain")
+
+[Sri Lanka take series 2-0 after Pallekele ODI called off due to rain](https://www.cricbuzz.com/cricket-news/132471/sri-lanka-take-series-2-0-after-pallekele-odi-called-off-due-to-rain "Sri Lanka take series 2-0 after Pallekele ODI called off due to rain")
+
+10h ago
+
   [](https://www.cricbuzz.com/cricket-news/132470/coetzee-handed-demerit-point-for-dissenting-wide-call-in-johannesburg-t20i "Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I")
 
 [Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I](https://www.cricbuzz.com/cricket-news/132470/coetzee-handed-demerit-point-for-dissenting-wide-call-in-johannesburg-t20i "Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I")
 
-29m ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132469/top-order-schutt-deflate-scorchers "Top order, Schutt deflate Scorchers")
 
 [Top order, Schutt deflate Scorchers](https://www.cricbuzz.com/cricket-news/132469/top-order-schutt-deflate-scorchers "Top order, Schutt deflate Scorchers")
 
-1h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/132468/india-playing-11-dhruv-jurel-devdutt-padikkal-virat-kohli-nitish-reddy-prasigh-krishna-harshit-rana-perth-test-australia-tour-border-gavaskar-trophy "India's top-seven takes shape amid Perth rain and intense nets")
 
 [India's top-seven takes shape amid Perth rain and intense nets](https://www.cricbuzz.com/cricket-news/132468/india-playing-11-dhruv-jurel-devdutt-padikkal-virat-kohli-nitish-reddy-prasigh-krishna-harshit-rana-perth-test-australia-tour-border-gavaskar-trophy "India's top-seven takes shape amid Perth rain and intense nets")
 
-1h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/132467/temba-bavuma-back-to-lead-south-africas-bid-to-reach-wtc-final "Bavuma back to lead South Africa's bid to reach WTC final")
 
 [Bavuma back to lead South Africa's bid to reach WTC final](https://www.cricbuzz.com/cricket-news/132467/temba-bavuma-back-to-lead-south-africas-bid-to-reach-wtc-final "Bavuma back to lead South Africa's bid to reach WTC final")
 
-5h ago
+17h ago
 
   [](https://www.cricbuzz.com/cricket-news/132466/kasun-rajitha-lasith-embuldeniya-recalled-for-south-africa-tests "Rajitha, Embuldeniya recalled for South Africa Tests")
 
 [Rajitha, Embuldeniya recalled for South Africa Tests](https://www.cricbuzz.com/cricket-news/132466/kasun-rajitha-lasith-embuldeniya-recalled-for-south-africa-tests "Rajitha, Embuldeniya recalled for South Africa Tests")
 
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132465/shafali-verma-left-out-of-indias-odi-squad-to-face-australia "Shafali Verma left out of India's ODI squad to face Australia")
-
-[Shafali Verma left out of India's ODI squad to face Australia](https://www.cricbuzz.com/cricket-news/132465/shafali-verma-left-out-of-indias-odi-squad-to-face-australia "Shafali Verma left out of India's ODI squad to face Australia")
-
-9h ago
+18h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
