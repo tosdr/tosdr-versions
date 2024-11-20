@@ -14,10 +14,6 @@ Compare Them All](https://www.wikimatrix.org/)
 * [Search](https://www.wikimatrix.org/search)
 * [About](https://www.wikimatrix.org/static/about)
 
-[![](/display/8/468_60/901ba2a41233fb2dfe616b8d55375fb2)](https://www.ickewiki.de/?utm_source=wikimatrix&utm_medium=banner&utm_content=468&utm_campaign=ickewiki)
-
-[![](/display/7/250_250/dde7487b7647ca4726370c5e7dad2d9a)](https://drupal-wiki.com/de/?wikimatrix=wm1g)
-
 Privacy Policy
 ==============
 
