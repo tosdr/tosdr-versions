@@ -332,6 +332,7 @@ Getting Started
 * [Free plans](https://www.cloudflare.com/plans/free/)
 * [For enterprises](https://www.cloudflare.com/enterprise/)
 * [Compare plans](https://www.cloudflare.com/plans/)
+* [Domain name search](https://domains.cloudflare.com/)
 * [Get a recommendation](https://www.cloudflare.com/about-your-website/)
 * [Request a demo](https://www.cloudflare.com/plans/enterprise/demo/)
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
