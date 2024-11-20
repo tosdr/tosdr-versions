@@ -388,7 +388,7 @@ Phone: 866-594-3644 or 611 from your Device during normal business hours: Monday
 
 * [Help Center](https://www.accesswireless.com/faq)
 * [Lifeline](https://www.accesswireless.com/lifeline)
-* [Phone Order Status](https://shop.accesswireless.com/orders.php)
+* [Phone Order Status](https://www.accesswireless.com/phone-order-status)
 * [Careers](https://www.accesswireless.com/careers)
 
 #### My Account
