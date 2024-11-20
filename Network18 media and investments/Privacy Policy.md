@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Wed, Nov 20, 2024
+Thu, Nov 21, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Maharashtra Exit Poll](https://www.news18.com/elections/maharashtra-exit-poll-2024-live-updates-election-results-bjp-congress-ncp-shiv-sena-liveblog-9126522.html)
-    * [Jharkhand Exit Poll](https://www.news18.com/india/jharkhand-exit-poll-2024-live-updates-election-results-bjp-jmm-congress-rjd-c-voter-chanakya-predictions-liveblog-9126654.html)
+    * [Maharashtra Exit Polls](https://www.news18.com/elections/maharashtra-exit-poll-result-highlights-mahayuti-may-have-the-edge-over-mva-9125706.html)
+    * [Maharashtra Turnout](https://www.news18.com/elections/maharashtra-voter-turnout-at-18-but-political-storm-over-bitcoin-cash-allegations-9126243.html)
     * [Ayushmann Khurrana](https://www.news18.com/movies/ayushmann-khurrana-stops-new-york-concert-midway-after-fan-throws-dollars-at-him-aap-charity-9124738.html)
+    * [Nayanthara](https://www.news18.com/movies/nayanthara-on-converting-from-christianity-and-her-wedding-with-vignesh-shivan-ive-become-a-hindu-9126499.html)
+    * [Cyclone Alert](https://www.news18.com/india/cyclone-fengal-imd-alert-in-bay-of-bengal-may-intensify-on-november-22-23-9126105.html)
     * [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
-    * [Saira Banu](https://www.news18.com/movies/ar-rahmans-rare-comment-on-wife-saira-banu-goes-viral-amid-separation-she-was-beautiful-9125903.html)
-    * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-says-shah-rukh-khan-attended-her-wedding-with-sanjay-you-wouldnt-9126062.html)
-    * [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
+    * [Air Pollution](https://www.news18.com/india/air-pollution-how-long-will-delhi-ncr-schools-stay-closed-a-city-wise-update-9126219.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Maharashtra Exit Poll](https://www.news18.com/elections/maharashtra-exit-poll-2024-live-updates-election-results-bjp-congress-ncp-shiv-sena-liveblog-9126522.html)
-* [Jharkhand Exit Poll](https://www.news18.com/india/jharkhand-exit-poll-2024-live-updates-election-results-bjp-jmm-congress-rjd-c-voter-chanakya-predictions-liveblog-9126654.html)
+* [Maharashtra Exit Polls](https://www.news18.com/elections/maharashtra-exit-poll-result-highlights-mahayuti-may-have-the-edge-over-mva-9125706.html)
+* [Maharashtra Turnout](https://www.news18.com/elections/maharashtra-voter-turnout-at-18-but-political-storm-over-bitcoin-cash-allegations-9126243.html)
 * [Ayushmann Khurrana](https://www.news18.com/movies/ayushmann-khurrana-stops-new-york-concert-midway-after-fan-throws-dollars-at-him-aap-charity-9124738.html)
+* [Nayanthara](https://www.news18.com/movies/nayanthara-on-converting-from-christianity-and-her-wedding-with-vignesh-shivan-ive-become-a-hindu-9126499.html)
+* [Cyclone Alert](https://www.news18.com/india/cyclone-fengal-imd-alert-in-bay-of-bengal-may-intensify-on-november-22-23-9126105.html)
 * [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
-* [Saira Banu](https://www.news18.com/movies/ar-rahmans-rare-comment-on-wife-saira-banu-goes-viral-amid-separation-she-was-beautiful-9125903.html)
-* [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-says-shah-rukh-khan-attended-her-wedding-with-sanjay-you-wouldnt-9126062.html)
-* [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
+* [Air Pollution](https://www.news18.com/india/air-pollution-how-long-will-delhi-ncr-schools-stay-closed-a-city-wise-update-9126219.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 20, 2024
+Nov 21, 2024
 
 [View All](https://www.news18.com/short-news/)
 
