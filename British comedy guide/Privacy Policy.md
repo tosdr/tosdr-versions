@@ -140,6 +140,14 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Calendar Girls. Image shows from L to R: Annie (Julie Walters), Chris (Helen Mirren). Copyright: Calendar Girls Productions](https://cdn.comedy.co.uk/images/library/comedies/300x200/c/calendar_girls.jpg "Calendar Girls. Image shows from L to R: Annie (Julie Walters), Chris (Helen Mirren). Copyright: Calendar Girls Productions")](https://www.comedy.co.uk/quiz/333/) Quiz
+
+[British Comedy Quiz #333](https://www.comedy.co.uk/quiz/333/)
+
+[![Taskmaster. Image shows from L to R: Charlotte Ritchie, Jamali Maddix, Greg Davies, Mike Wozniak, Alex Horne, Sarah Kendall, Lee Mack. Copyright: Avalon Television](https://cdn.comedy.co.uk/images/library/comedies/300x200/t/taskmaster_series11.jpg "Taskmaster. Image shows from L to R: Charlotte Ritchie, Jamali Maddix, Greg Davies, Mike Wozniak, Alex Horne, Sarah Kendall, Lee Mack. Copyright: Avalon Television")](https://www.comedy.co.uk/tv/taskmaster/features/the-taskmaster-day/) Shop
+
+[The Taskmaster Day](https://www.comedy.co.uk/tv/taskmaster/features/the-taskmaster-day/)
+
 [![Chris Cantrill](https://cdn.comedy.co.uk/images/library/people/300x200/c/chris_cantrill_easily_swayed_b.jpg "Chris Cantrill")](https://www.comedy.co.uk/live/random8/chris-cantrill/) Live
 
 [Random 8: Chris Cantrill](https://www.comedy.co.uk/live/random8/chris-cantrill/)
@@ -147,14 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Neil Innes](https://cdn.comedy.co.uk/images/library/people/300x200/n/neil_innes_album_cover.jpg "Neil Innes")](https://www.comedy.co.uk/features/comedy_chronicles/neil-innes/) Features
 
 [Comedy Chronicles: Do I have to spell it out? Neil Innes own right](https://www.comedy.co.uk/features/comedy_chronicles/neil-innes/)
-
-[![Natalie Palamides](https://cdn.comedy.co.uk/images/library/people/300x200/n/natalie_palamides_weer.jpg "Natalie Palamides")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-60/) Live
-
-[Natalie Palamides, Tom Lawrinson, Josephine Lacey, Andrew White - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-60/)
-
-[![Image shows left to right: Adam Drake, Kath Hughes, Edward Easton, Tarot. Credit: Matt Stronge](https://cdn.comedy.co.uk/images/library/misc/300x200/t/tarot_2024.jpg "Image shows left to right: Adam Drake, Kath Hughes, Edward Easton, Tarot. Credit: Matt Stronge")](https://www.comedy.co.uk/live/features/tarot-doing-sketch-in-your-30s/) Live
-
-[Tarot present: The beginner's guide to doing sketch in your 30s](https://www.comedy.co.uk/live/features/tarot-doing-sketch-in-your-30s/)
 
 #### Subscribe to our newsletters
 
