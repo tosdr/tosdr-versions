@@ -93,7 +93,7 @@
     * [Fixed Income, Bonds & CDs](https://www.fidelity.com/fixed-income-bonds/overview)
     * [ETFs](https://www.fidelity.com/etfs/overview)
     * [Options](https://www.fidelity.com/options-trading/overview)
-    * [Sustainable Investing](https://www.fidelity.com/mutual-funds/sustainable)
+    * [Sustainable Investing](https://www.fidelity.com/sustainable/overview)
     * [Managed Accounts](https://www.fidelity.com/managed-accounts/overview)
     * [529 College Savings](https://www.fidelity.com/529-plans/overview)
     * [Health Savings Accounts](https://www.fidelity.com/go/hsa/why-hsa)
