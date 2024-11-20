@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_16x9.jpg) ![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_360x203.jpg)](https://www.wqad.com/article/news/crime/davenport-man-mallet-attack-mcnabb/526-03ca1cf1-3d52-47c0-b5e2-8dc20f45c8d3)
+        
+        #### [Davenport man accused of using wooden croquet mallet to attack family member](https://www.wqad.com/article/news/crime/davenport-man-mallet-attack-mcnabb/526-03ca1cf1-3d52-47c0-b5e2-8dc20f45c8d3)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051)
         
         #### [Firefighters put out Sterling house fire](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bb417b4a-eb32-4e66-801c-c3432a6056a4/20241118T205938/bb417b4a-eb32-4e66-801c-c3432a6056a4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bb417b4a-eb32-4e66-801c-c3432a6056a4/20241118T205938/bb417b4a-eb32-4e66-801c-c3432a6056a4_360x203.jpg)](https://www.wqad.com/article/news/local/infrastructure/galesburg-city-council-approves-purchase-new-playground-equipment-cooke-park/526-a9d973b4-8c55-49a6-80ec-7d0a06e64535)
-        
-        #### [City of Galesburg purchases playground equipment for Cooke Park](https://www.wqad.com/article/news/local/infrastructure/galesburg-city-council-approves-purchase-new-playground-equipment-cooke-park/526-a9d973b4-8c55-49a6-80ec-7d0a06e64535)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a2b45ce6-50d5-492c-990d-cbc56546bb28/20241120T043140/a2b45ce6-50d5-492c-990d-cbc56546bb28_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a2b45ce6-50d5-492c-990d-cbc56546bb28/20241120T043140/a2b45ce6-50d5-492c-990d-cbc56546bb28_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e7fae539-d2fc-4d8f-9013-2572190325cf/20241120T131605/e7fae539-d2fc-4d8f-9013-2572190325cf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e7fae539-d2fc-4d8f-9013-2572190325cf/20241120T131605/e7fae539-d2fc-4d8f-9013-2572190325cf_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Weather Impact Alert: Gusty snow showers to reduce visibility Wednesday afternoon, and evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Weather Impact Alert: Gusty snow showers to reduce visibility this afternoon and evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WFAA/images/20ddb2d1-6be5-469d-b417-4ef1f2339725/20ddb2d1-6be5-469d-b417-4ef1f2339725_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/20ddb2d1-6be5-469d-b417-4ef1f2339725/20ddb2d1-6be5-469d-b417-4ef1f2339725_360x203.jpg)](https://www.wqad.com/article/weather/free-winter-spotter-training-classes-december/526-bb882e4d-75a4-4dce-af38-cea31afbd63b)
+    *  [![](https://media.tegna-media.com/assets/KING/images/f235c124-ea34-45f6-964f-1ddd493a1bf1/20241120T003538/f235c124-ea34-45f6-964f-1ddd493a1bf1_16x9.jpg) ![](https://media.tegna-media.com/assets/KING/images/f235c124-ea34-45f6-964f-1ddd493a1bf1/20241120T003538/f235c124-ea34-45f6-964f-1ddd493a1bf1_360x203.jpg)](https://www.wqad.com/article/news/national/last-bomb-cyclone-washington/281-767a9b22-f621-4448-af88-6fbfde2310f8)
         
-        #### [National Weather Service Quad Cities hosts free winter spotter training classes this December](https://www.wqad.com/article/weather/free-winter-spotter-training-classes-december/526-bb882e4d-75a4-4dce-af38-cea31afbd63b)
+        #### [Here's the last time Washington was impacted by a bomb cyclone](https://www.wqad.com/article/news/national/last-bomb-cyclone-washington/281-767a9b22-f621-4448-af88-6fbfde2310f8)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-43°
+44°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fair/Wind](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
