@@ -3,7 +3,7 @@ TERMS AND CONDITIONS
 
 TERMS AND CONDITIONS OVERLAY
 
-Last Updated: October 21, 2019
+Last Updated: November 19, 2024
 
 Welcome to Snapfish! Snapfish provides you with a fun, safe, and easy way to process, print, digitize, store, share and otherwise use (collectively "Process") photographs and other content offered to you on our website. Before you use or access our services, you must carefully review the Terms and Conditions set out below (the "Terms"). Specific pages on our website or mobile application (the “Services”) may set out additional terms and conditions, all of which are incorporated by reference into these Terms. We may be change or update these Terms at any time in accordance with Section XVII, but you can always find the most recent version [here](https://www.snapfish.com/tac-overlay). You should periodically check this page to make sure you have read the current version of these Terms.
 
@@ -25,7 +25,7 @@ Your Snapfish account credentials will work across all Snapfish websites. Howeve
 
 **“Active Participation” Required**
 
-Snapfish offers free, unlimited storage of online photos to customers who maintain Active Participation. “Active Participation” is defined as purchasing or ordering product through the Services at least once every 365 days. Purchases through Snapfish third-party advertisers do not count towards Active Participation. If you cease Active Participation for any reason, Snapfish reserves the right to terminate your account (or any part thereof) and your use of the Services, subject to the Termination provision in Section XIV of these Terms, and may remove and discard all information, communications, postings, albums, image files, creative material, photographs, videos, links, comments, and other content (collectively "Content") uploaded by you or otherwise made available by you via the Services.
+Snapfish offers unlimited storage of online photos to customers who maintain Active Participation. “Active Participation” is defined as purchasing or ordering product through the Services at least once every eighteen (18) months. Purchases through Snapfish third-party advertisers do not count towards Active Participation. If you cease Active Participation for any reason, Snapfish reserves the right to terminate your account (or any part thereof) and your use of the Services, subject to the Termination provision in Section XIV of these Terms, and may remove and discard all information, communications, postings, albums, image files, creative material, photographs, videos, links, comments, and other content (collectively "Content") uploaded by you or otherwise made available by you via the Services.
 
 **Termination of Services in Certain Locations**
 
