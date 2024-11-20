@@ -1,5 +1,9 @@
 [![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/673c7f2b0dd9352c78cbd62b_logo_black.jpg)](https://www.safari.com/)
 
+  
+
+__
+
 DESTINATIONS
 
 TOP DESTINATIONS
@@ -76,13 +80,13 @@ HOLIDAY TYPES
 
 [BLOG](https://www.safari.com/blog)
 
-ABOUT US         
+ABOUT US
 
 [Our Story](https://www.safari.com/about-us)[Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Testimonials](https://www.trustpilot.com/review/safari.com)[Financial Protection](https://www.safari.com/travel-with-us#financial-protection)[Meet the Team](https://www.safari.com/meet-the-team)[Partner with us](https://www.safari.com/affiliates)[Contact us](https://www.safari.com/contact)
 
-  
+[START PLANNING](https://www.safari.com/start)
 
-__
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/673d14cebb5761e9953d9faa_icons8-search-96.png)
 
 Menu
 
