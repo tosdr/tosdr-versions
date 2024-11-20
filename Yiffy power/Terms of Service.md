@@ -105,21 +105,21 @@ October 22, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 41 1
+0 63 1
 
 November 18, 2024
 
-[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-razoruart/)
+[](https://yiff-party.com/yiff-gif/hachibi-kurama-and-shukaku-naruto-created-by-aricks137/)
 
-[nintendo and etc created by razoruart](https://yiff-party.com/yiff/nintendo-and-etc-created-by-razoruart/)
+[hachibi, kurama, and shukaku (naruto) created by aricks137](https://yiff-party.com/yiff-gif/hachibi-kurama-and-shukaku-naruto-created-by-aricks137/)
 
-0 64 0
+0 197 0
 
-October 21, 2024
+October 22, 2024
 
-[](https://yiff-party.com/yiff/74333/)
+[](https://yiff-party.com/yiff/furmessiah-guild-wars-created-by-kanahiko/)
 
-[#74333](https://yiff-party.com/yiff/74333/)
+[furmessiah (guild wars) created by kanahiko](https://yiff-party.com/yiff/furmessiah-guild-wars-created-by-kanahiko/)
 
 0 1 0
 
