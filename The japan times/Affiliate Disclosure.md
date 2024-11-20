@@ -131,6 +131,18 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
+
+  [![Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434480.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
+
+[Two of America’s biggest debt holders are dumping Treasurys](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
+
+  [![The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/434967.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.")](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
+
+[China may soon resume visa exemptions for Japanese nationals, reports say](https://www.japantimes.co.jp/business/2024/11/19/economy/china-japan-visa/ "China may soon resume visa exemptions for Japanese nationals, reports say")
+
+  [![A view inside Beijing Daxing International Airport. Japanese nationals could soon visit China without a visa for up to 15 days, according to reports.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/435016.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A view inside Beijing Daxing International Airport. Japanese nationals could soon visit China without a visa for up to 15 days, according to reports.")](https://www.japantimes.co.jp/business/2024/11/19/economy/china-japan-visa/ "China may soon resume visa exemptions for Japanese nationals, reports say")
+
 [Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
 
   [![A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434565.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
@@ -139,20 +151,32 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-[Japan, Australia and U.S. boost collective deterrence efforts amid China concerns](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/japan-australia-us-collective-deterrence/ "Japan, Australia and U.S. boost collective deterrence efforts amid China concerns")
-
-  [![The aircraft carrier USS Ronald Reagan and the Japan Maritime Self-Defense Force helicopter destroyer JS Hyuga sail in formation with 16 other ships from the U.S. Navy and the Japan Maritime Self-Defense Force as aircraft from the U.S. Air Force and Japan Air Self-Defense Force fly overhead in formation during the Keen Sword exercise in the Philippine Sea on Nov. 8, 2018.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434711.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The aircraft carrier USS Ronald Reagan and the Japan Maritime Self-Defense Force helicopter destroyer JS Hyuga sail in formation with 16 other ships from the U.S. Navy and the Japan Maritime Self-Defense Force as aircraft from the U.S. Air Force and Japan Air Self-Defense Force fly overhead in formation during the Keen Sword exercise in the Philippine Sea on Nov. 8, 2018.  ")](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/japan-australia-us-collective-deterrence/ "Japan, Australia and U.S. boost collective deterrence efforts amid China concerns")
-
-[Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year](https://www.japantimes.co.jp/business/2024/11/18/markets/yen-bulls-us-japan-interest-rates-gap/ "Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year")
-
-  [![The likelihood of interest-rate hikes from the Bank of Japan and further cuts from the Federal Reserve will drive the yen's recovery to as far as ¥130 against the dollar, according to some strategists. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434627.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The likelihood of interest-rate hikes from the Bank of Japan and further cuts from the Federal Reserve will drive the yen's recovery to as far as ¥130 against the dollar, according to some strategists. ")](https://www.japantimes.co.jp/business/2024/11/18/markets/yen-bulls-us-japan-interest-rates-gap/ "Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year")
-
-[Japan ministry launches website to estimate alcohol breakdown time](https://www.japantimes.co.jp/news/2024/11/18/japan/science-health/japan-alcohol-watch/ "Japan ministry launches website to estimate alcohol breakdown time")
-
-  [![A screenshot of a health ministry website that allows people to easily calculate the amount of time it takes for their body to break down the alcohol they have consumed](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434684.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screenshot of a health ministry website that allows people to easily calculate the amount of time it takes for their body to break down the alcohol they have consumed")](https://www.japantimes.co.jp/news/2024/11/18/japan/science-health/japan-alcohol-watch/ "Japan ministry launches website to estimate alcohol breakdown time")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434480.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Two of America’s biggest debt holders are dumping Treasurys](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
+
+By [Masaki Kondo](https://www.japantimes.co.jp/author/1215/masaki-kondo/ "Masaki Kondo")  
+
+  [![The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/434967.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.")](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[China may soon resume visa exemptions for Japanese nationals, reports say](https://www.japantimes.co.jp/business/2024/11/19/economy/china-japan-visa/ "China may soon resume visa exemptions for Japanese nationals, reports say")
+
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![A view inside Beijing Daxing International Airport. Japanese nationals could soon visit China without a visa for up to 15 days, according to reports.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/435016.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A view inside Beijing Daxing International Airport. Japanese nationals could soon visit China without a visa for up to 15 days, according to reports.")](https://www.japantimes.co.jp/business/2024/11/19/economy/china-japan-visa/ "China may soon resume visa exemptions for Japanese nationals, reports say")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -167,30 +191,6 @@ Editors' Picks
 By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan, Australia and U.S. boost collective deterrence efforts amid China concerns](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/japan-australia-us-collective-deterrence/ "Japan, Australia and U.S. boost collective deterrence efforts amid China concerns")
-
-By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
-
-  [![The aircraft carrier USS Ronald Reagan and the Japan Maritime Self-Defense Force helicopter destroyer JS Hyuga sail in formation with 16 other ships from the U.S. Navy and the Japan Maritime Self-Defense Force as aircraft from the U.S. Air Force and Japan Air Self-Defense Force fly overhead in formation during the Keen Sword exercise in the Philippine Sea on Nov. 8, 2018.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434711.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The aircraft carrier USS Ronald Reagan and the Japan Maritime Self-Defense Force helicopter destroyer JS Hyuga sail in formation with 16 other ships from the U.S. Navy and the Japan Maritime Self-Defense Force as aircraft from the U.S. Air Force and Japan Air Self-Defense Force fly overhead in formation during the Keen Sword exercise in the Philippine Sea on Nov. 8, 2018.  ")](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/japan-australia-us-collective-deterrence/ "Japan, Australia and U.S. boost collective deterrence efforts amid China concerns")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year](https://www.japantimes.co.jp/business/2024/11/18/markets/yen-bulls-us-japan-interest-rates-gap/ "Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year")
-
-By [Mia Glass](https://www.japantimes.co.jp/author/3540/mia-glass/ "Mia Glass")  
-
-  [![The likelihood of interest-rate hikes from the Bank of Japan and further cuts from the Federal Reserve will drive the yen's recovery to as far as ¥130 against the dollar, according to some strategists. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434627.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The likelihood of interest-rate hikes from the Bank of Japan and further cuts from the Federal Reserve will drive the yen's recovery to as far as ¥130 against the dollar, according to some strategists. ")](https://www.japantimes.co.jp/business/2024/11/18/markets/yen-bulls-us-japan-interest-rates-gap/ "Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan ministry launches website to estimate alcohol breakdown time](https://www.japantimes.co.jp/news/2024/11/18/japan/science-health/japan-alcohol-watch/ "Japan ministry launches website to estimate alcohol breakdown time")
-
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![A screenshot of a health ministry website that allows people to easily calculate the amount of time it takes for their body to break down the alcohol they have consumed](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434684.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screenshot of a health ministry website that allows people to easily calculate the amount of time it takes for their body to break down the alcohol they have consumed")](https://www.japantimes.co.jp/news/2024/11/18/japan/science-health/japan-alcohol-watch/ "Japan ministry launches website to estimate alcohol breakdown time")
 
 Podcast
 -------
@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Development banks seek private money for climate change fight](https://www.japantimes.co.jp/business/2024/11/20/economy/development-banks-private-money-climate/ "Development banks seek private money for climate change fight")
+[Japan's 3.31 million visitors in October set monthly record](https://www.japantimes.co.jp/news/2024/11/20/japan/japan-visitors-month-record/ "Japan's 3.31 million visitors in October set monthly record")
 
-1 mins ago
+8 mins ago
 
-[Ishiba vows to conclude talks on policy activity funds soon](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/ishiba-policy-activity-funds/ "Ishiba vows to conclude talks on policy activity funds soon")
+[Senior JP Dragon member linked to Luffy crime group arrested](https://www.japantimes.co.jp/news/2024/11/20/japan/crime-legal/jp-dragon-arrest/ "Senior JP Dragon member linked to Luffy crime group arrested")
 
-34 mins ago
+40 mins ago
 
-[Japan’s exports grow, helped by China even as global risks rise](https://www.japantimes.co.jp/business/2024/11/20/economy/japan-exports-grow/ "Japan’s exports grow, helped by China even as global risks rise")
+[Ruling coalition and DPP strike last-minute deal over economic policy](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/economic-threshold-political-wrangling/ "Ruling coalition and DPP strike last-minute deal over economic policy")
+
+48 mins ago
+
+[Iran offers to cap sensitive uranium stock as IAEA resolution looms](https://www.japantimes.co.jp/news/2024/11/20/world/politics/iran-uranium-stock-iaea/ "Iran offers to cap sensitive uranium stock as IAEA resolution looms")
+
+48 mins ago
+
+[Japanese court rejects injunction against flights at Atsugi Air Base](https://www.japantimes.co.jp/news/2024/11/20/japan/crime-legal/yokohama-court-rejection-atsugi/ "Japanese court rejects injunction against flights at Atsugi Air Base")
 
 1 hour ago
-
-[China’s chip advances stall as U.S. curbs hit Huawei AI product](https://www.japantimes.co.jp/business/2024/11/20/tech/china-chip-us-curbs-huawei-ai/ "China’s chip advances stall as U.S. curbs hit Huawei AI product")
-
-1 hour ago
-
-[WHO approves Japanese pharmaceutical company's mpox vaccine](https://www.japantimes.co.jp/news/2024/11/20/japan/who-approves-japan-mpox-vaccine/ "WHO approves Japanese pharmaceutical company's mpox vaccine")
-
-2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
