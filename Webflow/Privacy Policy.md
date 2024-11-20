@@ -162,7 +162,7 @@
 
 [Log in](https://webflow.com/dashboard/login)[Contact sales](https://webflow.com/contact-sales)[Get started — it's free](https://webflow.com/dashboard/signup)
 
-![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/672390226be2060749005f54_April%202024.avif)![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/672390246be2060749006061_April%202024-1.avif)
+![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/673e4c2bd8b4c4111a43bb21_webflow-desktop.avif)![](https://cdn.prod.website-files.com/64f9399ca7d13575ff21a634/673e4c2bd8b4c4111a43bb30_webflow-tablet.avif)
 
 Trusted by teams at
 
