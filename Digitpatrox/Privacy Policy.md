@@ -20,16 +20,16 @@ Wednesday, November 20 2024
 
 Latest
 
-* [Gifts for Car Lovers That Promise Convenience, Fun, and Safety](https://digitpatrox.com/gifts-for-car-lovers-that-promise-convenience-fun-and-safety-3/)
-* [10 Features You No Longer Need to Root Your Android Phone For](https://digitpatrox.com/10-features-you-no-longer-need-to-root-your-android-phone-for/)
-* [IT leaders are less AI-ready than they were a year ago, says Cisco report](https://digitpatrox.com/it-leaders-are-less-ai-ready-than-they-were-a-year-ago-says-cisco-report/)
-* [NVIDIA Unveils AI & Supercomputing Advances at SC 2024](https://digitpatrox.com/nvidia-unveils-ai-supercomputing-advances-at-sc-2024/)
-* [The Galaxy S24 Ultra is the best Android phone — and it’s 25% off right now ahead of Black Friday](https://digitpatrox.com/the-galaxy-s24-ultra-is-the-best-android-phone-and-its-25-off-right-now-ahead-of-black-friday/)
-* [Oracle warns of Agile PLM file disclosure flaw exploited in attacks](https://digitpatrox.com/oracle-warns-of-agile-plm-file-disclosure-flaw-exploited-in-attacks/)
-* [UberXXL will let you catch an even bigger ride to the airport](https://digitpatrox.com/uberxxl-will-let-you-catch-an-even-bigger-ride-to-the-airport/)
-* [The Best Fortnite Settings for High Performance and FPS](https://digitpatrox.com/the-best-fortnite-settings-for-high-performance-and-fps/)
-* [Chat GPT is better than doctors at diagnosing illness – Computerworld](https://digitpatrox.com/chat-gpt-is-better-than-doctors-at-diagnosing-illness-computerworld/)
-* [Microsoft Is Introducing a Bunch of New ‘AI Agents’ in Office](https://digitpatrox.com/microsoft-is-introducing-a-bunch-of-new-ai-agents-in-office/)
+* [You’ll soon be able to clone your voice to speak other languages ​​in Teams – Computerworld](https://digitpatrox.com/youll-soon-be-able-to-clone-your-voice-to-speak-other-languages-in-teams-computerworld/)
+* [Android 16’s First Developer Preview Is Here Early](https://digitpatrox.com/android-16s-first-developer-preview-is-here-early/)
+* [Houston home healthcare service notifies 22K people of data breach that compromised SSNs, credit cards, and medical info](https://digitpatrox.com/houston-home-healthcare-service-notifies-22k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
+* [How to change startup page on File Explorer for Windows 11](https://digitpatrox.com/how-to-change-startup-page-on-file-explorer-for-windows-11/)
+* [How to Handle Ear Pain](https://digitpatrox.com/how-to-handle-ear-pain/)
+* [The Best Chromebooks of 2024](https://digitpatrox.com/the-best-chromebooks-of-2024/)
+* [The channel’s evolving relationship with SaaS](https://digitpatrox.com/the-channels-evolving-relationship-with-saas/)
+* [HPE’s El Capitan Named World’s Fastest Supercomputer](https://digitpatrox.com/hpes-el-capitan-named-worlds-fastest-supercomputer/)
+* [Newegg Black Friday sale is live — save up to 50% on gaming laptops, monitors, GPUs and more](https://digitpatrox.com/newegg-black-friday-sale-is-live-save-up-to-50-on-gaming-laptops-monitors-gpus-and-more/)
+* [Amazon and Audible flooded with ‘forex trading’ and warez listings](https://digitpatrox.com/amazon-and-audible-flooded-with-forex-trading-and-warez-listings/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [Gifts for Car Lovers That Promise Convenience, Fun, and Safety](https://digitpatrox.com/gifts-for-car-lovers-that-promise-convenience-fun-and-safety-3/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609786-0-88099400-1732128969-communication_writing_hello_in_many_languages_written_on_chalkboard_by_warchi_gettyimages-478438526_1200x800-100757313-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/youll-soon-be-able-to-clone-your-voice-to-speak-other-languages-in-teams-computerworld/)
     
-    2 minutes ago
+    [You’ll soon be able to clone your voice to speak other languages ​​in Teams – Computerworld](https://digitpatrox.com/youll-soon-be-able-to-clone-your-voice-to-speak-other-languages-in-teams-computerworld/)
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/rooted-phone-crossed-out.jpg)](https://digitpatrox.com/10-features-you-no-longer-need-to-root-your-android-phone-for/)
+    11 minutes ago
     
-    [10 Features You No Longer Need to Root Your Android Phone For](https://digitpatrox.com/10-features-you-no-longer-need-to-root-your-android-phone-for/)
+* [![](https://lifehacker.com/imagery/articles/01JD53XH62R7PPAKD87NQEW8B0/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/android-16s-first-developer-preview-is-here-early/)
     
-    3 minutes ago
+    [Android 16’s First Developer Preview Is Here Early](https://digitpatrox.com/android-16s-first-developer-preview-is-here-early/)
     
-* [![](https://cdn.mos.cms.futurecdn.net/BS7dMhjcLHpa7TEqFv3LNm-1200-80.jpg)](https://digitpatrox.com/it-leaders-are-less-ai-ready-than-they-were-a-year-ago-says-cisco-report/)
+    39 minutes ago
     
-    [IT leaders are less AI-ready than they were a year ago, says Cisco report](https://digitpatrox.com/it-leaders-are-less-ai-ready-than-they-were-a-year-ago-says-cisco-report/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Data-breach-at-Houston-home-healthcare-firm-leaks-SSNs-credit-cards-medical-info.jpg)](https://digitpatrox.com/houston-home-healthcare-service-notifies-22k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
     
-    41 minutes ago
+    [Houston home healthcare service notifies 22K people of data breach that compromised SSNs, credit cards, and medical info](https://digitpatrox.com/houston-home-healthcare-service-notifies-22k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
     
-* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241118-nvidia-ai-supercomputing-2024.jpg)](https://digitpatrox.com/nvidia-unveils-ai-supercomputing-advances-at-sc-2024/)
+    46 minutes ago
     
-    [NVIDIA Unveils AI & Supercomputing Advances at SC 2024](https://digitpatrox.com/nvidia-unveils-ai-supercomputing-advances-at-sc-2024/)
+* [![](https://pureinfotech.com/wp-content/uploads/2021/12/explorer-change-startup-page-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-change-startup-page-on-file-explorer-for-windows-11/)
     
-    45 minutes ago
+    [How to change startup page on File Explorer for Windows 11](https://digitpatrox.com/how-to-change-startup-page-on-file-explorer-for-windows-11/)
     
-* [![](https://cdn.mos.cms.futurecdn.net/SSTocRMYAQPWVU5xzvEgY4-1200-80.jpg)](https://digitpatrox.com/the-galaxy-s24-ultra-is-the-best-android-phone-and-its-25-off-right-now-ahead-of-black-friday/)
+    47 minutes ago
     
-    [The Galaxy S24 Ultra is the best Android phone — and it’s 25% off right now ahead of Black Friday](https://digitpatrox.com/the-galaxy-s24-ultra-is-the-best-android-phone-and-its-25-off-right-now-ahead-of-black-friday/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731438985/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-How-to-Handle-Ear-Pain-1124)](https://digitpatrox.com/how-to-handle-ear-pain/)
     
-    50 minutes ago
+    [How to Handle Ear Pain](https://digitpatrox.com/how-to-handle-ear-pain/)
+    
+    49 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -206,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 minutes ago
+* [11 minutes ago
     
-    ### Gifts for Car Lovers That Promise Convenience, Fun, and Safety](https://digitpatrox.com/gifts-for-car-lovers-that-promise-convenience-fun-and-safety-3/)
-* [3 minutes ago
+    ### You’ll soon be able to clone your voice to speak other languages ​​in Teams – Computerworld](https://digitpatrox.com/youll-soon-be-able-to-clone-your-voice-to-speak-other-languages-in-teams-computerworld/)
+* [39 minutes ago
     
-    ### 10 Features You No Longer Need to Root Your Android Phone For](https://digitpatrox.com/10-features-you-no-longer-need-to-root-your-android-phone-for/)
-* [41 minutes ago
+    ### Android 16’s First Developer Preview Is Here Early](https://digitpatrox.com/android-16s-first-developer-preview-is-here-early/)
+* [46 minutes ago
     
-    ### IT leaders are less AI-ready than they were a year ago, says Cisco report](https://digitpatrox.com/it-leaders-are-less-ai-ready-than-they-were-a-year-ago-says-cisco-report/)
+    ### Houston home healthcare service notifies 22K people of data breach that compromised SSNs, credit cards, and medical info](https://digitpatrox.com/houston-home-healthcare-service-notifies-22k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
 
 Most Popular Topics
 
-* [4 weeks ago
+* [2 weeks ago
     
-    ### AI needs Apple, which is why time is on its side – Computerworld](https://digitpatrox.com/ai-needs-apple-which-is-why-time-is-on-its-side-computerworld/)
-* [September 7, 2024
+    ### How I Fool Everyone With Store-Bought Gravy](https://digitpatrox.com/how-i-fool-everyone-with-store-bought-gravy/)
+* [August 11, 2024
     
-    ### How-To Geek’s Best of IFA 2024 Award Winners](https://digitpatrox.com/how-to-geeks-best-of-ifa-2024-award-winners/)
-* [4 days ago
+    ### 10 Least Reliable Cars – Consumer Reports](https://digitpatrox.com/10-least-reliable-cars-consumer-reports/)
+* [October 5, 2024
     
-    ### Half-Life 2 is getting a huge 20th anniversary update](https://digitpatrox.com/half-life-2-is-getting-a-huge-20th-anniversary-update/)
+    ### 4 Reasons Not to Use a Fax Server and 3 Better Solutions](https://digitpatrox.com/4-reasons-not-to-use-a-fax-server-and-3-better-solutions/)
 
 Last Modified Topics
 
+* [1 hour ago
+    
+    ### The channel’s evolving relationship with SaaS](https://digitpatrox.com/the-channels-evolving-relationship-with-saas/)
 * [2 hours ago
     
-    ### UberXXL will let you catch an even bigger ride to the airport](https://digitpatrox.com/uberxxl-will-let-you-catch-an-even-bigger-ride-to-the-airport/)
-* [3 hours ago
+    ### HPE’s El Capitan Named World’s Fastest Supercomputer](https://digitpatrox.com/hpes-el-capitan-named-worlds-fastest-supercomputer/)
+* [2 hours ago
     
-    ### The Best Fortnite Settings for High Performance and FPS](https://digitpatrox.com/the-best-fortnite-settings-for-high-performance-and-fps/)
-* [4 hours ago
-    
-    ### Chat GPT is better than doctors at diagnosing illness – Computerworld](https://digitpatrox.com/chat-gpt-is-better-than-doctors-at-diagnosing-illness-computerworld/)
+    ### Newegg Black Friday sale is live — save up to 50% on gaming laptops, monitors, GPUs and more](https://digitpatrox.com/newegg-black-friday-sale-is-live-save-up-to-50-on-gaming-laptops-monitors-gpus-and-more/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 11, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 13, 2024
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 12, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
