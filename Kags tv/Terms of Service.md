@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/WCNC/images/ad782486-0e8b-4423-b2dc-3cf10de708ca/20240704T155343/ad782486-0e8b-4423-b2dc-3cf10de708ca_16x9.jpg) ![](https://media.kagstv.com/assets/WCNC/images/ad782486-0e8b-4423-b2dc-3cf10de708ca/20240704T155343/ad782486-0e8b-4423-b2dc-3cf10de708ca_360x203.jpg)](https://www.kagstv.com/article/news/crime/rockdale-shooting-suspect-captured-nov-2024/500-bf6c5d39-efab-4379-be69-9811d7697b2a)
+        
+        #### [Suspect wanted in connection to Rockdale shooting captured, police say](https://www.kagstv.com/article/news/crime/rockdale-shooting-suspect-captured-nov-2024/500-bf6c5d39-efab-4379-be69-9811d7697b2a)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/c23e7927-15a9-4ca0-baa7-3968de32b069/20241118T210246/c23e7927-15a9-4ca0-baa7-3968de32b069_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/c23e7927-15a9-4ca0-baa7-3968de32b069/20241118T210246/c23e7927-15a9-4ca0-baa7-3968de32b069_360x203.jpg)](https://www.kagstv.com/article/news/local/two-driving-with-1-million-worth-of-methamphetamine-arrested-interstate-45/500-d2cce15c-9bcb-441c-a5f8-d685cd1c43f5)
         
         #### [Two caught with $1 million worth of methamphetamine in their car](https://www.kagstv.com/article/news/local/two-driving-with-1-million-worth-of-methamphetamine-arrested-interstate-45/500-d2cce15c-9bcb-441c-a5f8-d685cd1c43f5)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/f5de71a2-9bf9-490d-ace0-90a0dac07bc0/20241118T185128/f5de71a2-9bf9-490d-ace0-90a0dac07bc0_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/f5de71a2-9bf9-490d-ace0-90a0dac07bc0/20241118T185128/f5de71a2-9bf9-490d-ace0-90a0dac07bc0_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-15-year-old-last-seen-in-brenham-tx-on-nov-13-2024-speculated-to-be-in-houston-tx-area/500-c15f37b8-d1fd-4379-8bcd-352bda647d58)
-        
-        #### [Have you seen this person? Brenham authorities seeking help finding missing 15-year-old](https://www.kagstv.com/article/news/local/missing-15-year-old-last-seen-in-brenham-tx-on-nov-13-2024-speculated-to-be-in-houston-tx-area/500-c15f37b8-d1fd-4379-8bcd-352bda647d58)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -56,7 +56,7 @@ Navigation
         
     *  [![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [Clear Skies Have Returned; Cooler Weather in Store for Midweek | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [Another Cold Front Moves Through Tonight; Temps in the 60's For Wednesday | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-81°
+58°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
