@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Trump makes selection for head of Department of Education -- which he has vowed to shutter](https://nypost.com/2024/11/19/us-news/trump-selects-linda-mcmahon-to-lead-department-of-education-which-he-has-vowed-to-shutter/)
+
 Terms Of Use
 ============
 
