@@ -99,3 +99,19 @@ Search for:  Search
 Close Search Window
 
 ↑
+
+                    [Skip to content](#content)
+
+[Open toolbar Accessibility Tools](javascript:void(0); "Accessibility Tools")
+
+Accessibility Tools
+
+* [Increase TextIncrease Text](#)
+* [Decrease TextDecrease Text](#)
+* [GrayscaleGrayscale](#)
+* [High ContrastHigh Contrast](#)
+* [Negative ContrastNegative Contrast](#)
+* [Light BackgroundLight Background](#)
+* [Links UnderlineLinks Underline](#)
+* [Readable FontReadable Font](#)
+* [Reset Reset](#)
