@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Eviden to Deliver Finland’s Next National AI Supercomputer, Tripling its Computing Power](https://atos.net/en/2024/press-release_2024_11_20/eviden-to-deliver-finlands-next-national-ai-supercomputer-tripling-its-computing-power)
         * [Salon des Maires et des collectivités 2024: Software République launches the commercialization of its “U1st Vision” concept “A first in citizen-centric mobile services with a focus on health”, with first deliveries scheduled for late 2025](https://atos.net/en/2024/press-release_2024_11_19/salon-des-maires-et-des-collectivites-2024-software-republique-launches-the-commercialization-of-its-u1st-vision-concept-a-first-in-citizen-centric-mobile-services-with-a-f)
-        * [Eviden enables quantum emulation in high-performance computing through dedicated software](https://atos.net/en/2024/news_2024_11_18/eviden-enables-quantum-emulation-in-high-performance-computing-through-dedicated-software)
-        * [La CANUT choisit le groupement Onepoint, Atos et Eviden pour accompagner les acteurs publics dans le déploiement de l’IA](https://atos.net/en/2024/press-release_2024_11_18/la-canut-choisit-le-groupement-onepoint-atos-et-eviden-pour-accompagner-les-acteurs-publics-dans-le-deploiement-de-lia)
+        * [Eviden’s Supercomputers Ranked #1 and #2 for Energy Efficiency on the Green500 List](https://atos.net/en/2024/press-release_2024_11_19/evidens-supercomputers-ranked-1-and-2-for-energy-efficiency-on-the-green500-list)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 19, 2024
+        Nov 20, 2024
         
-        ### Salon des Maires et des collectivités 2024: Software République launches the commercialization of its “U1st Vision” concept “A first in citizen-centric mobile services with a focus on health”, with first deliveries scheduled for late 2025
+        ### Eviden to Deliver Finland’s Next National AI Supercomputer, Tripling its Computing Power
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
@@ -166,18 +166,18 @@ Atos homepage](https://atos.net/en/)
         
         ### Latest articles
         
+        * [Reshaping employee experience with a data-driven digital workplace](https://atos.net/en/blog/reshaping-employee-experience-data-driven-digital-workplace)
         * [Modernize without compromise: Why hybrid cloud still matters](https://atos.net/en/blog/modernize-without-compromise-why-hybrid-cloud-still-matters)
         * [Ensure your virtual infrastructure is sustainable infrastructure](https://atos.net/en/blog/ensure-your-virtual-infrastructure-is-sustainable-infrastructure)
         * [AI in customer service operations: Automation and human empathy](https://atos.net/en/blog/ai-in-customer-service-operations-automation-and-human-empathy)
-        * [Creating connections with athlete engagement portals](https://atos.net/en/blog/experience-matters-creating-connections-with-athlete-engagement-portals)
         
         [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 14, 2024
+        Nov 20, 2024
         
-        ### Modernize without compromise: Why hybrid cloud still matters
+        ### Reshaping employee experience with a data-driven digital workplace
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
