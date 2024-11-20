@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Tech Sgt. Douglas Matthews](https://cdn.returningveterans.org/images/honor/Douglas_Matthews.jpg)  
+![Jim Swenson](https://cdn.returningveterans.org/images/honor/8_Jim_Swenson_AR.png)  
 
-**In Honor of Tech Sgt. Douglas Matthews**  
-United States Air National Guard  
-Submitted by Stan and Jeanie Kramer](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Jim Swenson**  
+United States Army  
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -230,5 +230,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/20/24 - 1:19:36  
+Printed 11/20/24 - 7:34:57  
 © 2024 Returning Veterans Project
