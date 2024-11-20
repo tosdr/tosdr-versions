@@ -124,6 +124,8 @@ These are general terms of use that apply to all of Adobe’s products. However,
 
 Our Services and Software are licensed, not sold, to you, and also may be subject to one or more of the additional terms below (“**Product Specific Terms**”). If there is any conflict between the terms in the General Terms and the Product Specific Terms, then the Product Specific Terms govern in relation to those Services or Software. The Product Specific Terms are subject to change as described in section 1.5 (Updates to Terms) below. Product Specific Terms may also be referred to as Additional Terms.  
 
+[Adobe Acrobat Services (DC APIs)](https://www.adobe.com/go/acrobatservicesterms)
+
 [Adobe Acrobat Sign](https://www.adobe.com/go/adobesignterms)
 
 [Adobe Collaboration Space](http://www.adobe.com/go/collaborationspace-terms)
