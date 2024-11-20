@@ -150,6 +150,16 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Ukraine fires US-made longer-range missiles into Russia for first time](https://www.defensenews.com/global/europe/2024/11/19/ukraine-fires-us-made-longer-range-missiles-into-russia-for-first-time/)  
+    11/19/24 03:15pm  
+    
+    This image, made from a video posted Tuesday by a Telegram channel affiliated with the Ukrainian military, reportedly shows U.S.-supplied ATACMS missiles being fired from an undisclosed location in Ukraine. (Lachen Pyshe Telegram via AP)
+    
+* [AeroVironment to acquire BlueHalo, known for drone swarm tech, for $4B](https://www.defensenews.com/pentagon/2024/11/19/aerovironment-to-acquire-bluehalo-known-for-drone-swarm-tech-for-4b/)  
+    11/19/24 01:43pm  
+    
+    AeroVironment announced Tuesday its plans to acquire BlueHalo, well-known for its drone swarm and counter-drone technology, for roughly $4.1 billion through an all-stock transaction. (Getty Images)
+    
 * [Pentagon announces hypersonic testing pact with UK, Australia](https://www.defensenews.com/pentagon/2024/11/18/pentagon-announces-hypersonic-testing-pact-with-uk-australia/)  
     11/18/24 03:40pm  
     
@@ -159,16 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     11/18/24 11:12am  
     
     A second Trump administration could mean the Pentagon taking a harder line with defense contractors, especially in the capital-intensive field of aerospace. (Staff Sgt. William Downs/Air Force)
-    
-* [Air Force buying more drone wingmen to develop operational tactics](https://www.defensenews.com/air/2024/11/15/air-force-buying-more-drone-wingmen-to-develop-operational-tactics/)  
-    11/15/24 03:01pm  
-    
-    Anduril's Fury collaborative combat aircraft, shown here at the Air and Space Forces Association's conference in September. (Stephen Losey/Defense News)
-    
-* [China unveils J-35A and other new fighters at Zhuhai Airshow](https://www.defensenews.com/global/asia-pacific/2024/11/13/china-unveils-j-35a-and-other-new-fighters-at-zhuhai-airshow/)  
-    11/13/24 06:51am  
-    
-    A J-35A stealth fighter, designed and built by Shenyang Aircraft Corporation, taxis at Zhuhai International Airport on Nov. 12, 2024. (China Military)
     
 
 Recent parts by keyword  
