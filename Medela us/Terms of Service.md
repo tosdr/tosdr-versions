@@ -523,7 +523,7 @@ Dedicated articles and whitepapers specifically for professionals working in the
 
 [Find out more](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
 
-![](/070-app-teaser/2056/image-thumb__2056__app-banner-title-image/medela-family-logo.9fd72439.png)
+![Medela Family logo](/070-app-teaser/2056/image-thumb__2056__app-banner-title-image/medela-family-logo.9fd72439.png)
 
 ![](/zz.archive/zz.-testing-images/2057/image-thumb__2057__app-banner-image/app-image.727cef34.png)
 
