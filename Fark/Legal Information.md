@@ -228,11 +228,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more stories with less ads? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More Farking, less working
+It's what the cool kids are doing.  
+It also helps us pay the bills.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +333,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Time travelling German WWII soldier's grave found in Poland with Mesolithic tools, Roman and Byzantine coins, and other artifacts from his journeys](https://www.fark.com/goto/13467902) ( [labrujulaverde.com](https://www.fark.com/goto/13467902) ) » [(8 comments)](https://www.fark.com/comments/13467902/Time-travelling-German-WWII-soldiers-grave-found-in-Poland-with-Mesolithic-tools-Roman-Byzantine-coins-other-artifacts-from-his-journeys) |
-| [Discussion](https://www.fark.com/discussion/) | [Spoiler Alert](https://www.fark.com/goto/13468104) ( [metro.co.uk](https://www.fark.com/goto/13468104) ) » [(5 comments)](https://www.fark.com/comments/13468104/Spoiler-Alert) |
-| [Sports](https://www.fark.com/sports/) | [Kyler Murray having a slice of pizza in New York City, with a person who has utterly no idea it is Kyler Freaking Murray](https://www.fark.com/goto/13467930) ( [247sports.com](https://www.fark.com/goto/13467930) ) » [(7 comments)](https://www.fark.com/comments/13467930/Kyler-Murray-having-a-slice-of-pizza-in-New-York-City-with-a-person-who-has-utterly-no-idea-it-is-Kyler-Freaking-Murray) |
-| [Business](https://www.fark.com/business/) | [Enjoy Jersey Mike's subs? Get ready for their enshiattification](https://www.fark.com/goto/13468082) ( [wtop.com](https://www.fark.com/goto/13468082) ) » [(6 comments)](https://www.fark.com/comments/13468082/Enjoy-Jersey-Mikes-subs-Get-ready-for-their-enshiattification) |
-| [STEM](https://www.fark.com/stem/) | [Russia may soon lay claim to being the North Pole of the world. Wait. Why is this in STEM?](https://www.fark.com/goto/13467660) ( [dailygalaxy.com](https://www.fark.com/goto/13467660) ) » [(2 comments)](https://www.fark.com/comments/13467660/Russia-may-soon-lay-claim-to-being-North-Pole-of-world-Wait-Why-is-this-in-STEM) |
-| [Entertainment](https://www.fark.com/entertainment/) | [The fabulous amusement park decorated by Dali, Lichtenstein, Haring and Basquiat that disappeared into obscurity, is resurrected in New York](https://www.fark.com/goto/13467928) ( [theguardian.com](https://www.fark.com/goto/13467928) ) » [(1 comment)](https://www.fark.com/comments/13467928/The-fabulous-amusement-park-decorated-by-Dali-Lichtenstein-Haring-Basquiat-that-disappeared-into-obscurity-is-resurrected-in-New-York) |
-| [Fandom](https://www.fark.com/fandom/) | [Finally, a console for the person who loves mediocre games and mediocre pizza](https://www.fark.com/goto/13467924) ( [balleralert.com](https://www.fark.com/goto/13467924) ) » [(10 comments)](https://www.fark.com/comments/13467924/Finally-a-console-for-person-who-loves-mediocre-games-mediocre-pizza) |
-| [D'awww](https://www.fark.com/dawww/) | [97-year-old woman reminisces about her days a cheerleader, puts on cheer uniform, and is lifted up by high school cheerleaders](https://www.fark.com/goto/13467896) ( [wafb.com](https://www.fark.com/goto/13467896) ) » [(6 comments)](https://www.fark.com/comments/13467896/-97-year-old-woman-reminisces-about-her-days-a-cheerleader-puts-on-cheer-uniform-is-lifted-up-by-high-school-cheerleaders) |
-| [Food](https://www.fark.com/food/) | [Grapeghazi, ten years later](https://www.fark.com/goto/13467932) ( [mprnews.org](https://www.fark.com/goto/13467932) ) » [(0 comments)](https://www.fark.com/comments/13467932/Grapeghazi-ten-years-later) |
-| [Politics](https://www.fark.com/politics/) | [So, a hacker just made Matt Gaetz's nightmare a little more documented](https://www.fark.com/goto/13468054) ( [dailyboulder.com](https://www.fark.com/goto/13468054) ) » [(29 comments)](https://www.fark.com/comments/13468054/So-a-hacker-just-made-Matt-Gaetzs-nightmare-a-little-more-documented) |
+| [Main](https://www.fark.com/) | [Photoshop this parking problem](https://www.fark.com/goto/13465170) ( [dims.apnews.com](https://www.fark.com/goto/13465170) ) » [(12 comments)](https://www.fark.com/comments/13465170/Photoshop-this-parking-problem) |
+| [Discussion](https://www.fark.com/discussion/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13468254) ( [fark.com](https://www.fark.com/goto/13468254) ) » [(1 comment)](https://www.fark.com/comments/13468254/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Sports](https://www.fark.com/sports/) | [At least in the chaos of a mad and unforgiving world, one thing is for certain: by November, we will be wondering if the Browns will fire their head coach](https://www.fark.com/goto/13468274) ( [espn.com](https://www.fark.com/goto/13468274) ) » [(4 comments)](https://www.fark.com/comments/13468274/At-least-in-chaos-of-a-mad-unforgiving-world-one-thing-is-for-certain-by-November-we-will-be-wondering-if-Browns-will-fire-their-head-coach) |
+| [Business](https://www.fark.com/business/) | [In a sign of how far the once mighty Intel has faloen, the world's fastest supercomputer now runs on AMD chips](https://www.fark.com/goto/13468312) ( [spectrum.ieee.org](https://www.fark.com/goto/13468312) ) » [(0 comments)](https://www.fark.com/comments/13468312/In-a-sign-of-how-far-once-mighty-Intel-has-faloen-worlds-fastest-supercomputer-now-runs-on-AMD-chips) |
+| [STEM](https://www.fark.com/stem/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13468254) ( [fark.com](https://www.fark.com/goto/13468254) ) » [(1 comment)](https://www.fark.com/comments/13468254/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Al Green is here to remind you that sometimes everybody hurts](https://www.fark.com/goto/13468380) ( [avclub.com](https://www.fark.com/goto/13468380) ) » [(2 comments)](https://www.fark.com/comments/13468380/Al-Green-is-here-to-remind-you-that-sometimes-everybody-hurts) |
+| [Fandom](https://www.fark.com/fandom/) | [Leaky Valve results in Steam Controller 2 coming soon](https://www.fark.com/goto/13468250) ( [theverge.com](https://www.fark.com/goto/13468250) ) » [(1 comment)](https://www.fark.com/comments/13468250/Leaky-Valve-results-in-Steam-Controller-2-coming-soon) |
+| [D'awww](https://www.fark.com/dawww/) | [I'm going on an Adventure. And I'm taking my cat](https://www.fark.com/goto/13468198) ( [opb.org](https://www.fark.com/goto/13468198) ) » [(1 comment)](https://www.fark.com/comments/13468198/Im-going-on-an-Adventure-And-Im-taking-my-cat) |
+| [Food](https://www.fark.com/food/) | [Can't get enough of pizza? Well, have a pizza wine to go with your gourmet meal](https://www.fark.com/goto/13468370) ( [thetakeout.com](https://www.fark.com/goto/13468370) ) » [(1 comment)](https://www.fark.com/comments/13468370/Cant-get-enough-of-pizza-Well-have-a-pizza-wine-to-go-with-your-gourmet-meal) |
+| [Politics](https://www.fark.com/politics/) | [Do not obey in advance](https://www.fark.com/goto/13468166) ( [kottke.org](https://www.fark.com/goto/13468166) ) » [(20 comments)](https://www.fark.com/comments/13468166/Do-not-obey-in-advance) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +352,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 19 2024 14:42:27  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 19 2024 20:43:15  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
