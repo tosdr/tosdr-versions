@@ -214,7 +214,6 @@ Primary Navigation
 * [Newsroom](https://www.sba.gov/about-sba/sba-newsroom)
 * [Contact us](https://www.sba.gov/about-sba/organization/contact-sba)
 * [Other languages](https://www.sba.gov/about-sba/information-other-languages)
-* [Vote.gov](https://www.vote.gov/)
 
 Search  ![Search](/themes/custom/sba/dist/uswds/img/usa-icons-bg/search--white.svg)
 
