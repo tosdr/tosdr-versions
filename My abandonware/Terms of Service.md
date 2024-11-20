@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Mavis Beacon Teaches Typing: Version 8](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-8-t96)
+* [Astérix & Obélix](https://www.myabandonware.com/game/asterix-obelix-38o)
+* [Marie: BabySitter](https://www.myabandonware.com/game/marie-babysitter-t95)
 * [Crazy Taxi 3: High Roller](https://www.myabandonware.com/game/crazy-taxi-3-high-roller-cjp)
 * [Hydro Thunder](https://www.myabandonware.com/game/hydro-thunder-e35)
-* [Pyramid](https://www.myabandonware.com/game/pyramid-9ir)
-* [Galactic Crusader](https://www.myabandonware.com/game/galactic-crusader-9qh)
-* [Dancing Block](https://www.myabandonware.com/game/dancing-block-9sg)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
