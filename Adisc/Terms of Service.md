@@ -247,7 +247,7 @@ Not open for further replies.
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1732085056) [LinkedIn](#_xfUid-1-1732085056) [Reddit](#_xfUid-1-1732085056) [Pinterest](#_xfUid-1-1732085056) [Tumblr](#_xfUid-1-1732085056) [WhatsApp](#_xfUid-1-1732085056) [Email](#_xfUid-1-1732085056) [Share](#_xfUid-1-1732085056) [Link](#_xfUid-1-1732085056)
+[X (Twitter)](#_xfUid-1-1732106685) [LinkedIn](#_xfUid-1-1732106685) [Reddit](#_xfUid-1-1732106685) [Pinterest](#_xfUid-1-1732106685) [Tumblr](#_xfUid-1-1732106685) [WhatsApp](#_xfUid-1-1732106685) [Email](#_xfUid-1-1732106685) [Share](#_xfUid-1-1732106685) [Link](#_xfUid-1-1732106685)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -261,7 +261,7 @@ Share:
 * [Help](https://www.adisc.org/forum/help/)
 * [RSS](https://www.adisc.org/forum/forums/-/index.rss "RSS")
 
-[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/)
+[Community platform by XenForo® © 2010-2024 XenForo Ltd.](https://xenforo.com/) | [Xenforo Add-ons © by ©XenTR](https://xentr.net/)
 
 [Discord Integration](https://xenforo.com/community/resources/6058/) © Jason Axelrod of [8WAYRUN](https://8wayrun.com/)
 
@@ -272,7 +272,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1732085056%2C56d0e59c44d10636246b04abc406b5bc) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1732085056%2C56d0e59c44d10636246b04abc406b5bc)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1732106685%2Ceb0b6fad7f74f405fb53f987bec04715) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1732106685%2Ceb0b6fad7f74f405fb53f987bec04715)
     
     * Essential cookies
     
