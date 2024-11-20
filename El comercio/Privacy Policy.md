@@ -31,1061 +31,928 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-¿Cómo una abuela de Zambia se convirtió en ícono de la moda?
-============================================================
+¿Cuándo vuelve a jugar la Selección de Ecuador?
+===============================================
 
-Tiene 80 años y es más feroz que nunca. Así es Margret Chola.
--------------------------------------------------------------
+La Selección de Ecuador escaló al tercer lugar en la tabla de posiciones de las eliminatorias 2026.
+---------------------------------------------------------------------------------------------------
 
-![Fue su nieta quien le propuso vestir ropa en tendencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/abuela-fashion-El-Comercio-2.jpg)
+![Luis Díaz (atrás) de Colombia disputa un balón con Willian Pacho de Ecuador este martes, en un partido de las eliminatorias sudamericanas para el Mundial de 2026.](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_marzo_1.jpg)
 
-En una aldea rural de **Zambia**, vive **Margret Chola**, de más de 80 años. Es una abuela que conquistó a las redes sociales con sus audaces fotos de moda.
+La **Selección de Ecuador cerró un 2024** con una histórica y resonada victoria de 0-1 ante Colombia en el estadio Metropolitano de Barranquilla, con un tanto de Enner Valencia.
 
-Su historia comenzó cuando su **nieta, Diana Kaumba**, una estilista con base en Nueva York, le propuso vestirla con prendas de alta costura durante una visita familiar. Lo que empezó como un juego, ahora es un fenómeno cultural.
-
-### Más noticias
-
-* **[¿Qué colores combinan con vino tinto?](https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html "https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html")**
-* [**Ideas para lucir como Rachel Green de ‘Friends’**](https://www.instagram.com/elcomerciocom/p/DAOUiFStOAD/?img_index=1 "https://www.instagram.com/elcomerciocom/p/DAOUiFStOAD/?img_index=1")
-
-Según la BBC, Diana creó la Granny Series en 2023, inspirada en su abuela y en la memoria de su padre, quien le inculcó su amor por la moda. “Quería mostrarle al mundo que el estilo no tiene fecha de caducidad”, comenta Kaumba.
-
-Las primeras fotografías, tomadas en un contexto rural con elementos cotidianos como radios y cultivos, rápidamente se hicieron virales.
-
-**El fenómeno en redes sociales**
----------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/abuela-fashion-El-Comercio-1-1024x683.jpg)
-
-Margret Chola tiene ahora más de 225 000 seguidores en Instagram. En su cuenta comparte fotografías en las que combina _outfits_ con estilos vibrantes con un toque tradicional.
-
-En abril de 2024, alcanzó su mayor popularidad al posar con un vestido rojo de la **marca Adidas** y joyería llamativa. Las imágenes resaltan el lugar donde vive.
-
-Hay techos de chapa y campos de maíz que contrastan con atuendos recargados que reflejan la influencia estilística de su nieta Diana.
-
-“Me siento diferente y viva con esta ropa”, declaró Margret en entrevista con la BBC. La respuesta del público ha sido masiva. “Nunca pensé que tendría este impacto”, agrega. La plataforma ha sido fundamental para romper con las ideas preconcebidas sobre la moda y la edad.
-
-**Un mensaje de empoderamiento intergeneracional**
---------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/abuela-fashion-El-Comercio-3-1024x683.jpg)
-
-**La abuela fashionista** no solo es un ícono de estilo, sino un símbolo de empoderamiento. Según Diana, las sesiones han estrechado la relación entre ambas y han generado conciencia sobre la importancia de honrar a las generaciones mayores.
-
-Las palabras de Margret reflejan esta filosofía: “Nunca podrás cambiar el pasado, pero sí construir tu futuro”.
-
-En una de las tomas más icónicas, Margret aparece con jeans y una peluca rubia, elementos que nunca había usado antes.
-
-Esta representación, explica la BBC , rompe con las barreras tradicionales de la **moda rural en Zambia**, y demuestra que la elegancia no depende del contexto.
-
-**La moda como herramienta para unir generaciones**
----------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/abuela-fashion-El-Comercio-1024x683.jpg)
-
-La popularidad de Margret ha trascendido fronteras. Cuatro nietas han solicitado los servicios de Diana para estilizar a sus propias abuelas.
-
-Las fotografías, llenas de color y contrastes, no solo celebran la moda, sino también las historias personales y culturales.
-
-Margret ha utilizado sus sesiones para reflexionar sobre su vida y sus raíces. Incorpora, por ejemplo, objetos como el _mbaula_ o brasero de carbón, un símbolo de resiliencia frente a los cortes de energía en Zambia.
-
-**Inspiración global desde lo local**
--------------------------------------
-
-![Fue su nieta quien le propuso vestir ropa en tendencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/abuela-fashion-El-Comercio-2-1024x683.jpg)
-
-Fue su nieta quien le propuso vestir ropa en tendencia. Foto: Instagram
-
-El impacto de la abuela fashionista no solo se siente en las redes sociales. Su historia inspira a quienes la ven como un ejemplo de autenticidad y valentía.
-
-El concepto de la Granny Series ha sido aplaudido por su capacidad de desafiar las normas de la moda y presentar un enfoque fresco y positivo.
-
-“Vivir sin miedo al juicio es lo que deseo transmitir”, declara Margret. La abuela fashionista de Zambia nos recuerda que nunca es tarde para reinventarse y brillar, incluso desde los rincones más remotos del mundo.
-
-¿La ciclovía podría ser una alternativa durante los cortes de luz en Quito?
-===========================================================================
-
-La movilidad de Quito durante los cortes de luz se complica por los semáforos apagados.
----------------------------------------------------------------------------------------
-
-![Los cortes de luz complican la movilidad en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Bicilceta-en-Quito.jpg)
-
-En medio de los cortes de luz que afecta a **Quito** debido a la crisis hídrica, la **ciclovía** ofrece una posible solución para mejorar la **movilidad en la ciudad**[.](https://es.wikipedia.org/wiki/Ciclov%C3%ADa "https://es.wikipedia.org/wiki/Ciclov%C3%ADa")
-
-Más noticias
-------------
-
-* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
-* [En Quito hay solidaridad durante los cortes de luz](https://www.elcomercio.com/actualidad/quito/quito-solidaridad-durante-cortes-luz.html "En Quito hay solidaridad durante los cortes de luz")
-* [Cortes de luz se reducen desde este 18 de noviembre en Quito](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-desde-este-18-de-noviembre-en-quito.html "Cortes de luz se reducen desde este 18 de noviembre en Quito")
-
-Con 144,25 kilómetros de infraestructura distribuidos entre tramos utilitarios (82.13 km) y recreativos (62.12 km), esta red **facilita los traslados**, sobre todo en trayectos cortos. Sin embargo, su implementación enfrenta varios desafíos, como la ausencia de un sistema de **bicicleta pública** y la falta de una **cultura vial adecuada.**
-
-¿Es posible utilizar la ciclovía como una solución de movilidad en Quito?
--------------------------------------------------------------------------
-
-Los **cortes de luz**, provocados por la disminución de agua en los embalses de **Mazar** y **Coca Codo** **Sinclair**, interrumpen los **semáforos** por largas horas y complican la congestión vehicular.
-
-Frente a este panorama, la **ciclovía** se presenta como una **alternativa** viable durante las horas diurnas, aunque todavía requiere ajustes en varios aspectos.
-
-Diego Puente, integrante del colectivo de ciclistas **Ciclópolis**, explica que la **ciclovía** necesita mayor _cobertura_ y una mejor **convivencia ciudadana.**
-
-Según Puente, la **bicicleta** supera a los vehículos durante los cortes de luz, ya que permite avanzar en cruces donde los **semáforos** permanecen **apagados** o no hay **agentes de tránsito.**
-
-Sin embargo, critica que las autoridades de **tránsito** priorizan a los vehículos por encima de los **peatones** y **ciclistas**.
-
-Además, considera que los **cortes de luz** representan una oportunidad para promover el uso de la **bicicleta** como medio de transporte.
-
-Por esta razón, insiste en la importancia de articular el uso de la **bicicleta** con el sistema de **transporte público.**
-
-Por su parte, Wladimir De la Torre, del programa para las Américas de Global Designing Cities Initiative, coincide con Puente en que resulta más seguro usar la **bicicleta** durante las horas de alta carga vehicular.
-
-No obstante, advierte que cuando el **tráfico disminuye**, los vehículos circulan a **mayor velocidad,** lo que incrementa los **riesgos para ciclistas** y **peatones**.
-
-En contraste, **Andrés** **Castillo**, experto en **movilidad**, cuestiona la viabilidad de esta opción.
-
-Detalla que **Quito** carece de una cultura que fomente el respeto hacia los **ciclistas**, lo que limita el impacto de la **ciclovía**.
-
-Aunque esta infraestructura se planteó para mejorar la movilidad, asegura que no garantiza soluciones efectivas debido a las condiciones actuales de la ciudad.
-
-También señala que los **cortes de luz** son un problema temporal y que la **ciclovía** no resolverá el tránsito en estos casos.
-
-Quito sin bicicleta pública
----------------------------
-
-Además, el sistema de **bicicleta [pública](https://www.elcomercio.com/actualidad/quito/bicicleta-publica-quito-servicio-funcionar.html)** dejó de operar en julio de 2023, lo que limita el acceso para quienes podrían considerar este medio.
-
-Según De la Torre, el regreso de este servicio, vinculado al transporte público, sería clave para promover su uso.
-
-Asimismo, mejorar la calidad y cobertura del **transporte público** incentivaría a más personas a combinar ambos medios.
-
-La Selección de Ecuador Sub-20 cayó ante Colombia
-=================================================
-
-La 'Tri' juvenil atraviesa un momento complicado, sumando su tercera derrota consecutiva en la preparación para el Sudamericano Sub-20 2025.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![La Selección de Ecuador Sub-20 perdió contra Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-19T140048.824.jpg)
-
-La **Selección de Ecuador Sub-20** perdió 1-2 contra su similar de **Colombia** este martes 19 de noviembre, en un amistoso disputado en el Estadio Rodrigo Paz Delgado, en Quito.
-
-Este fue el segundo enfrentamiento entre ambas selecciones en el mes, con el mismo resultado adverso para los ecuatorianos.
+El tanto de Enner Valencia para la **Selección de Ecuador llegó a los 7 minutos del primer tiempo**, con una jugada individual que arrancó cerca de la mitad de la cancha y llegó hasta el área de Colombia para derrotar a Camilo Vargas.
 
 ### Más noticias:
 
-* [¿Dónde ver a la Selección de Ecuador contra Colombia?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-colombia-donde-ver-eliminatorias.html "¿Dónde ver a la Selección de Ecuador contra Colombia?")
+* [Vinícius Júnior confesó que ‘sufre’ por los actos de racismo](https://www.elcomercio.com/deportes/futbol/vinicius-junior-racismo-camino-correcto.html "Vinícius Júnior confesó que ‘sufre’ por los actos de racismo")
 * [Alineación de Ecuador con Dognaldo, Beccacece y un invitado especial](https://www.elcomercio.com/deportes/futbol/alineacion-ecuador-dognaldo-beccacece-eliminatorias-sudamericanas.html "Alineación de Ecuador con Dognaldo, Beccacece y un invitado especial")
-* [¿A qué hora juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/horario-partido-ecuador-colombia-eliminatorias-sudamericanas.html "¿A qué hora juega la Selección de Ecuador vs. Colombia?")
+* [Dura agresión a Javier Aguirre, DT de México, obtiene sanción ejemplar](https://www.elcomercio.com/deportes/agresion-mexico-javier-aguirre-sancion.html "Dura agresión a Javier Aguirre, DT de México, obtiene sanción ejemplar")
 
-En el partido de este martes, **Elkin Ruiz marcó** el único gol para la Tri, mientras que en el primer amistoso, jugado el 15 de noviembre, el gol ecuatoriano fue obra de Bruno Caicedo.
+Valencia llegó a los **44 goles en 95 presentaciones con la Tri** y se consolida como el goleador histórico del combinado nacional, por delante de un pesa pesado como Agustín Delgado, el segundo en esta lista con 31 gritos.
 
-Ecuador Sub-20, lejos de su mejor versión
------------------------------------------
+Ecuador **escaló hasta el tercer lugar en la tabla de posiciones** con 19 puntos y un gol diferencia de +7.
 
-**Miguel** **Bravo**, director técnico de la **Sub-20**, trabaja en la preparación del equipo para el Campeonato Sudamericano 2025. Sin embargo, los resultados recientes no acompañan: de los últimos cuatro amistosos, Ecuador ha conseguido solo una victoria.
+Las victorias de Ecuador fueron de local contra **Uruguay (2-1), Chile (1-0), Perú (1-0) y Bolivia (3-0)** y de visita ante Bolivia (1-2) y Colombia (0-1).
 
-El único triunfo fue en junio de este año, cuando v**enció a Paraguay** por 0-1 gracias a un gol de Michael Bermúdez.
+Empató en casa contra **Colombia (0-0) y Paraguay (0-0)** y de visitante ante Venezuela (0-0) y Uruguay (0-0)
 
-Desde entonces, la ‘Tri’ juvenil **ha perdido 3-2 contra Chile** y, en noviembre, ambos duelos contra Colombia por 1-2.
+Perdió de visita ante **Argentina y Brasil, ambos por 1-0** con tantos de Lionel Messi y Rodrygo, respectivamente.
 
-Sudamericano Sub-20 2025: Rivales y calendario
-----------------------------------------------
+¿Cuándo vuelve a jugar la Tri?
+------------------------------
 
-Ecuador ya conoce a sus rivales para el Campeonato Sudamericano Sub-20, que se jugará en Arequipa, Perú, del 23 de enero al 16 de febrero de 2025. La Tri quedó en el Grupo B junto a **Brasil, Colombia, Chile y Bolivia**.
+Las eliminatorias para la Selección de Ecuador se reactivarán en marzo de 2025 con una nueva doble fecha.
 
-Calendario de Ecuador en el torneo:
+En la **jornada 13 tiene que recibir a Venezuela en Quito**, y luego tiene que viajar a Chile para jugar en el Nacional de Santiago, con lo que solo quedarán cuatro fechas para terminar el calendario de las eliminatorias.
 
-* **24 de enero:** vs. Bolivia
-* **28 de enero:** vs. Colombia
-* **30 de enero:** vs. Brasil
-* **1 de febrero:** vs. Chile
+El último antecedente de Venezuela jugando en **Quito fue el 11 de noviembre de 2021 en el Rodrigo Paz Delgado**. A los 41 minutos del primer tiempo Piero Hincapié anotó el único tanto para el triunfo sufrido en la capital ecuatoriana.
 
-El Grupo A estará compuesto por **Perú, Uruguay, Venezuela, Paraguay y Argentina.**
+El 16 de noviembre se escribió una de las páginas más gloriosas de la Tri con la festejada victoria de 0-2 ante **Chile en el estadio San Carlos de Apoquindo**, propiedad de Universidad Católica.
 
-Ecuador buscará mejorar su rendimiento para lograr uno de los cuatro cupos disponibles al Mundial Sub-20 de Uzbekistán 2025.
+Pervis Estupiñán (9′) y Moisés Caicedo (90+3′) sellaron el triunfo de los tricolores ante la roja.
 
-Formato del torneo
-------------------
+Para la **Copa Mundo 2026 desde la Conmebol clasificarán seis selecciones** de forma directa, mientras que la séptima jugará un partido de repechaje contra el clasificado de Oceanía para definir otro de los cupos.
 
-El **Campeonato Sudamericano Sub-20 2025** se disputará en 2 fases: Fase Preliminar (fase de grupos) y Fase Final (Las seis (6) selecciones clasificadas de la fase preliminar participarán de esta fase, con el mismo sistema de juego todos contra todos).
+San viernes
+-----------
 
-Todas las fases se jugarán a una sola rueda de partidos. La **fase preliminar** la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
-
-Clasificarán para la **fase final**, los equipos que ocupen las tres primeras posiciones en cada grupo.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-10 momentos clave de los 1000 días de guerra de Rusia en Ucrania
+Nuevo Ministro de Gobierno advirtió sobre las protestas en Quito
 ================================================================
 
-El 6 de agosto de 2024 Ucrania lanzó una operación transfronteriza para conquistar parte del territorio de la región rusa.
---------------------------------------------------------------------------------------------------------------------------
+El Ministro de Gobierno se refirió a las protestas en Quito y el resto del país.
+--------------------------------------------------------------------------------
 
-![Los ucranianos encienden 1.000 velas para conmemorar los 1.000 días desde el inicio de la invasión rusa a gran escala de Ucrania, durante una oración conjunta en la base del Monumento a la Patria en Kiev, Ucrania.](https://www.elcomercio.com/wp-content/uploads/2024/11/rusia-guerra-militares.jpg)
+![El ministro de Gobierno, José de La Gasca, señaló que se quiere vandalizar, al hablar sobre las protestas en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/ministro-gobierno-protestas-quito.jpg)
 
-La **guerra entre Ucrania** y [Rusia](https://www.elcomercio.com/actualidad/mundo/ucrania-ataca-por-primera-vez-territorio-ruso-con-misiles.html "https://www.elcomercio.com/actualidad/mundo/ucrania-ataca-por-primera-vez-territorio-ruso-con-misiles.html") cumple este martes, 19 de noviembre de 2024, 1000 días con las hostilidades plenamente activas y sin perspectivas de un final inminente. Estos son los 10 momentos clave de la contienda hasta ahora.
+El nuevo **ministro de Gobierno**, **José de La Gasca**, advirtió sobre las **protestas en Quito**, la noche de este martes 19 de noviembre de 2024.
 
-### Más noticias
-
-* [Ucrania ataca por primera vez territorio ruso con misiles estadounidenses](https://www.elcomercio.com/actualidad/mundo/ucrania-ataca-por-primera-vez-territorio-ruso-con-misiles.html "Ucrania ataca por primera vez territorio ruso con misiles estadounidenses")
-* [Rusia impone multa astronómica a Google de 20 decillones](https://www.elcomercio.com/tecnologia/rusia-multa-google-gobierno.html "Rusia impone multa astronómica a Google de 20 decillones ")
-* [Zelenski pide a Alemania misiles de largo alcance tras amenaza nuclear de Putin](https://www.elcomercio.com/actualidad/mundo/zelenski-pide-alemania-misiles-largo-alcance-amenaza-nuclear-putin.html "Zelenski pide a Alemania misiles de largo alcance tras amenaza nuclear de Putin")
-
-Rusia invade Ucrania 
----------------------
-
-El 24 de febrero de 2022, tropas rusas atacaron Ucrania e iniciaron un cerco sobre Kiev y tomaron rápidamente territorios ucranianos en el norte, el este y en el sur. El presidente ucraniano, Volodímir Zelenski, apareció en un vídeo en el que desmentía **rumores sobre su huida y proclamaba su intención de resistir.** Comenzaba así el mayor conflicto en suelo europeo desde la II Guerra Mundial.
-
-La batalla de Kiev 
--------------------
-
-Después de más de un mes de asedio, y al no lograr tomar el **aeropuerto de Gostómel** para hacer llegar en avión batallones adicionales, las fuerzas rusas comenzaron a retirarse el 29 de marzo de los alrededores de Kiev. Tres días después, el Ejército ucraniano recuperaba el control de toda la región de Kiev. El Gobierno ucraniano sobrevivió al intento **ruso de derrocarlo por la fuerza.**
-
-Las masacres de Bucha 
-----------------------
-
-El 1 de abril, cuando las tropas ucranianas entraron en Bucha, una ciudad dormitorio cercana a Kiev, descubrieron los cadáveres de 458 personas que habían sido enterradas por los ocupantes rusos en fosas comunes. Una parte de estos muertos habían sido ejecutados. El descubrimiento de las matanzas fue presentado por Rusia como una **operación ucraniana de falsa bandera**. La masacre es aún hoy el episodio más representativo de las atrocidades rusas en esta guerra.
-
-El sitio de Azovstal 
----------------------
-
-El 17 de mayo de 2022, después de un dramático asedio de casi tres meses, la tropas ucranianas que se habían atrincherado en la acería de Azovstal de Mariúpol se rendían a las fuerzas rusas, que completaban así la toma de la ciudad.
-
-El sitio de la planta y el asedio a Mariúpol dejaron imágenes apocalípticas que conmovieron al mundo. Miles de personas murieron en la toma rusa de la ciudad, **entre ellas los civiles que perdieron la vida en el bombardeo del 16 de marzo** contra el Teatro de Mariúpol donde se refugiaban.
-
-La toma de Lugansk 
--------------------
-
-El 3 de julio de 2022, Rusia completaba de facto la toma de la región ucraniana de Lugansk con la caída en sus manos de la ciudad de Lisichansk. **Una semana antes tomó Sievierodonetsk**, el otro gran bastión ucraniano en Lugansk. 
-
-La liberación de Jersón 
-------------------------
-
-El 11 de noviembre de 2022 las tropas ucranianas liberaron la ciudad de Jersón. Las escenas de júbilo de la población recibiendo a su Ejército emocionaron a millones de personas.
-
-Ese mismo otoño las fuerzas ucranianas retomaron también el control de los territorios conquistados por Rusia en la región nororiental de Járkov. Esta contraofensiva simultánea en dos segmentos distintos del frente ha sido hasta el momento la operación ucraniana más fructífera de esta guerra.
-
-El asedio a Bajmut 
--------------------
-
-El foco del frente pasó a finales de 2023 a la ciudad de Bajmut, en la región oriental de Donetsk. A lo largo de casi un año, y con el grupo de mercenarios Wagner como punta de lanza, Rusia llevó a cabo una ofensiva implacable sobre la ciudad que concluyó el 21 de mayo de 2023 con la captura de sus ruinas.
-
-La contraofensiva fallida 
---------------------------
-
-En junio de 2023 Ucrania comenzó una segunda contraofensiva dirigida hacia el sur que tenía como objetivo llegar al mar de Azov. La **solidez de las fortificaciones rusas** y la falta de superioridad aérea ucraniana frustró los planes de Kiev. La contraofensiva se apagó en otoño sin lograr los resultados esperados. 
-
-Rusia recupera la iniciativa 
------------------------------
-
-Al tiempo que moría la contraofensiva ucraniana, Rusia recuperaba la iniciativa y comenzaba la ofensiva centrada en el este que todavía perdura.
-
-Lentamente, y a un elevado coste de bajas que está consiguiendo suplir, el Ejército ruso empezó a ganar terreno en el otoño de 2023 y no dejó de hacerlo hasta hoy.
-
-La operación de Kursk 
-----------------------
-
-El 6 de agosto de 2024 Ucrania lanzó una ambiciosa operación transfronteriza para conquistar parte del territorio de la región rusa de Kursk. Los objetivos eran abortar los **planes rusos de abrir un nuevo frente** desde **Kursk** penetrando en la región ucraniana de Sumi y distraer a las fuerzas rusas de su ofensiva en el este.
-
-El primero de ellos se cumplió, pero no el segundo. Rusia no ha expulsado a las tropas de Kiev de Kursk, pero -pese a haber tenido que desplegar a decenas de miles de soldados para intentar conseguirlo-, sigue ganando terreno en Ucrania. En noviembre de este año, unos 11.000 soldados norcoreanos se incorporaron a las tropas rusas que tratan de expulsar a los ucranianos de Kursk.
-
-La participación de estos soldados norcoreanos es lo que, según medios estadounidenses, ha inclinado al presidente de Estados Unidos, Joe Biden, a autorizar a los ucranianos el **uso de los misiles ATACMS**, de un alcance de 300 kilómetros, en territorio ruso, más concretamente en Kursk.
-
-Las amenazas rusas no se han hecho esperar: Rusia dice que este permiso echa “leña al fuego” al conflicto, empeorará el futuro de Ucrania y advirtió contra Estados Unidos por su posible utilizlalción en suelo ruso. Además, el presidente ruso, **Vladimir Putin,** firmó un decreto que autoriza el **uso del arma nuclear** para responder cualquier ataque convencional que amenace la soberanía rusa.
-
-Dura agresión a Javier Aguirre, DT de México, obtiene sanción ejemplar
-======================================================================
-
-Javier Aguirre, DT de México, sufrió una fuerte agresión en Liga de Naciones y la Concacaf impuso una sanción ejemplar.
------------------------------------------------------------------------------------------------------------------------
-
-![Javier 'Vasco' Aguirre después de la agresión recibida con México.](https://www.elcomercio.com/wp-content/uploads/2024/11/6053a3cc9f86b889b986b99d9345a4129cd9f787.jpg)
-
-La **Selección de Honduras** recibió una sanción de parte de la Concacaf a raíz de los incidentes en su partido de ida ante México en la Liga de Naciones. Al término de aquel partido, Javier ‘Vasco’ Aguirre, DT de los aztecas, fue víctima de una agresión.
-
-Por medio de un comunicado, la **comisión disciplinaria** sancionó a la sede de los hondureños de cara a su próximo partido. Estos no podrán disputar el siguiente duelo que tengan como locales, en un partido oficial, con aficionados.
+Las protestas en contra del **Gobierno de Daniel Noboa** son convocadas a través de redes sociales.
 
 ### Más noticias:
 
-* [¿Dónde ver a la Selección de Ecuador contra Colombia?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-colombia-donde-ver-eliminatorias.html "¿Dónde ver a la Selección de Ecuador contra Colombia?")
-* [¿A qué hora juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/horario-partido-ecuador-colombia-eliminatorias-sudamericanas.html "¿A qué hora juega la Selección de Ecuador vs. Colombia?")
-* [Cristian Ramírez revela por qué volvió a la Selección de Ecuador](https://www.elcomercio.com/deportes/cristian-ramirez-seleccion-ecuador-regreso.html "Cristian Ramírez revela por qué volvió a la Selección de Ecuador")
+* [Grupos sociales protestan en Ecuador este 15 de noviembre](https://www.elcomercio.com/actualidad/politica/grupos-sociales-anuncian-movilizaciones-ecuador-15-de-noviembre.html "Grupos sociales protestan en Ecuador este 15 de noviembre")
+* [Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí](https://www.elcomercio.com/actualidad/politica/daniel-noboa-hablo-incendios-creados-manabi.html "Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí")
 
-Después de los incidentes, Aguirre le restó importancia a lo sucedido y prefirió no referirse al tema. **Reinaldo Rueda**, DT de Honduras, criticó lo sucedido y se expuso su rechazo a tal tipo de manifestaciones en el fútbol.
+Advertencia del nuevo Ministro de Gobierno sobre protestas en Quito
+-------------------------------------------------------------------
 
-> ¡PESIMA SEGURIDAD Y ORGANIZACIÓN! ❌  
->   
-> Javier Aguirre se llevó un fuerte golpe con una lata de cerveza lanzada desde las gradas lo que provocó que se le abriera la cabeza y terminara sangrando 🇲🇽  
->   
-> NO HAY LUGAR PARA LA VIOLENCIA EN EL FUTBOL [#RivalidadAzteca](https://twitter.com/hashtag/RivalidadAzteca?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/8XT7Dozgfn](https://t.co/8XT7Dozgfn)
-> 
-> — TV Azteca Deportes (@AztecaDeportes) [November 16, 2024](https://twitter.com/AztecaDeportes/status/1857640897266991175?ref_src=twsrc%5Etfw)
+El ministro de Gobierno, José de La Gasca, hizo una advertencia sobre las **protestas en Quito**, en una entrevista en FM Mundo.
 
-México pide tranquilidad a sus hinchas tras agresión de Aguirre
----------------------------------------------------------------
+De La Gasca manifestó que asume las funciones en el Ministerio de Gobierno, en un momento “donde **todo está convulsionado**; donde todos quieren, de alguna manera, debilitarlo”.
 
-El director deportivo de la selección de México, **Duilio Davino**, pidió este domingo que los hinchas del Tri no generen violencia en el partido de vuelta de los cuartos de final de la Liga de Naciones de la Concacaf ante Honduras.
+“Acabamos de tener unas **manifestaciones** divididas en distintas provincias y algunas han llevado un clamor popular y se están atendiendo, en otras, quisieron vandalizar, etc”, dijo.
 
-“**La afición debe ser ejemplar en las gradas y apoyar al equipo, que tiene que hacer su trabajo en la cancha para darle la vuelta a la serie**“, explicó en Toluca, centro de México, en donde este martes los mexicanos recibirán a Honduras, que ganó como local 2-0 el duelo de ida de la serie, el viernes pasado.
+El funcionario agregó: “Luego, vuelven a marchar 15 días después. Yo **no sé si están queriendo prender una mecha, pero eso no lo vamos a permitir”**.
 
-El estadio Francisco Morazán en San Pedro Sula, Honduras, que albergó el primer duelo de los cuartos de final, se vivió un ambiente hostil para los mexicanos, que tuvo su momento más alto al término del encuentro, cuando **Javier Aguirre**, seleccionador de **México**, sufrió un corte en su cabeza por una lata que le lanzó un hincha[.](https://en.wikipedia.org/wiki/Javier_Aguirre "https://en.wikipedia.org/wiki/Javier_Aguirre")
+“Estamos en un **estado de excepción**, hay **derechos que están limitados como el de asociación**, no es el momento para vandalizar, porque eso no es protesta social y eso la ciudadanía debe entenderlo, **a Quito lo vamos a cuidar**“, aseguró De La Gasca.
 
-“**Ya estamos más tranquilos porque estamos en casa. En el partido del viernes, desde que llegamos a Honduras, la delegación no se sintió segura, ni cuando salieron a calentar los chicos a la cancha.** Se van a tomar las medidas que se deben tomar y ahora pensamos en lo que viene, esperamos el apoyo de la gente en Toluca”, añadió Davino.
+El Ministro de Gobierno sostuvo que **no permitirán manifestaciones vandálicas**, incendio de calles, gente vulnerada, policías heridos.
 
-Entre las medidas que ha tomado la **Federación Mexicana de Fútbol** fue emitir una nota de prensa en la que solicitó a la Concacaf “actuar conforme al reglamento” por la agresión a Aguirre.
+Al halar sobre los **sistemas de inteligencia**, el funcionario recalcó que **“todos están contra el Presidente”** y no se refiere al descontento popular por la crisis energética, sino a los actores políticos.
 
-La investigación y expectativas de México
------------------------------------------
+De La Gasca dijo que, en busca de la **gobernabilidad**, su intención es dialogar con todos los actores políticos y lo hará paulatinamente.
 
-La Concacaf también condenó el ataque al entrenador y remitió el caso a su Comisión Disciplinaria para su “**revisión e investigación**“. Este llegó a su fin con la sanción a Honduras.
+### Otros temas
 
-Davino, además, espera a que la **Concacaf** finalice su averiguación y es optimista en que México remontara la serie como local ante Honduras y se clasificará a las semifinales de la Liga de Naciones.
+En la entrevista, José de La Gasca abordó también la situación de la vicepresidenta suspendida, **Verónica Abad.**
 
-“Las derrotas duelen, pero es una serie de 180 minutos, se perdieron los primero 90, se dejaron de hacer cosas y estoy seguro de que el martes –**19 de noviembre del 2024**– les daremos vuelta a la situación”, sentenció Davino
+Dijo que se hay otros **caminos constitucionales y legales** que se pueden aplicar, al preguntarse cómo se puede confiar en alguien que, por escrito, pidió la destitución del Presidente.
 
-Alineación de Ecuador con Dognaldo, Beccacece y un invitado especial
-====================================================================
+Sobre la decisión de Arcotel respecto al **cable submarino** de Internet de Telconet, De La Gasca negó que se trate de una persecución política.
 
-El Licenciado Dognaldo está más ilusionado que nunca y se atrevió a hacer una alineación ganadora para enfrentar a Colombia.
-----------------------------------------------------------------------------------------------------------------------------
+Advirtió que la suspensión de un servicio es delito y **Telconet** está obligado a prestar el servicio hasta el final, “no es que el país se va a quedar sin Internet”.
 
-![La Selección de Ecuador se enfrenta a Colombia en las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-19T131525.879.jpg)
+“Por si acaso, si a alguien se le ocurre dejar sin **Internet**, es paralización de un servicio público y eso es un delito”, señaló.
 
-La **Selección de Ecuador** se enfrenta este martes 19 de noviembre a Colombia en Barranquilla, por la última jornada de las eliminatorias sudamericanas. El **Licenciado Dognaldo** no quiso quedarse fuera del debate y presentó su alineación ideal para cerrar el 2024 con broche de oro.
+Respeto a la crisis energética, no se atrevió a dar una fecha de término para los **cortes de luz**.
 
-El combinado ecuatoriano **enfrentará un duro reto ante los cafeteros** en la duodécima jornada de eliminatorias. Aunque está en puestos de clasificación directa, una victoria de visitante sería histórica y acercaría aún más al sueño mundialista.
+La Selección de Ecuador tiene rendimiento de lujo en eliminatorias
+==================================================================
+
+La Selección de Ecuador firma uno de los mejores rendimientos de eliminatorias y, solo por su sanción, eso no se refleja en puntos.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Enner Valencia (centro) de la Selección de Ecuador, conduce el balón ante sus rivales de Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/6c3c1d4e7d34ac057f7358bbfa83db0d48948377.jpg)
+
+La **Selección de Ecuador** consigue un triunfo histórico ante Colombia como visitante y solamente es superada por el rendimiento de Argentina dentro de las eliminatorias. El combinado nacional suma 19 puntos, aunque podrían ser 22 si no hubiese sido sancionada al inicio de la clasificación.
+
+El equipo de **Sebastián Beccacece** se impuso por un marcador de 0-1 como visitante en Barranquilla ante los cafeteros. **Enner Valencia** apareció en los minutos iniciales para poner el primer y único tanto del compromiso.
 
 ### Más noticias:
 
-* [¿Dónde ver a la Selección de Ecuador contra Colombia?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-colombia-donde-ver-eliminatorias.html "¿Dónde ver a la Selección de Ecuador contra Colombia?")
-* [Cristian Ramírez revela por qué volvió a la Selección de Ecuador](https://www.elcomercio.com/deportes/cristian-ramirez-seleccion-ecuador-regreso.html "Cristian Ramírez revela por qué volvió a la Selección de Ecuador")
-* [Byron Castillo sorprende a la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-reencuentro-byron-castillo.html "Byron Castillo sorprende a la Selección de Ecuador")
+* [(En vivo) La Selección de Ecuador gana a Colombia por eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-colombia-partido-eliminatorias-sudamericanas-resultado.html "(En vivo) La Selección de Ecuador gana a Colombia por eliminatorias")
+* [Enner Valencia anotó su gol 44 con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-gol43-ecuador-eliminatorias.html "Enner Valencia anotó su gol 44 con la Selección de Ecuador")
+* [Enner Valencia llega revitalizado con la Selección de Ecuador ante Colombia](https://www.elcomercio.com/deportes/seleccion-ecuador-enner-valencia-colombia.html "Enner Valencia llega revitalizado con la Selección de Ecuador ante Colombia")
 
-**Ecuador** ocupa la quinta posición con 16 puntos en 11 partidos, mientras que Colombia se encuentra tercero con 19 unidades.
+La victoria obtenida en Colombia fue la sexta de la **Selección de Ecuador** dentro de las eliminatorias y la primera de Sebastián Beccacece como visitante desde que se hizo cargo del equipo. A ello se le suman cuatro empates y dos derrotas.
 
-La alineación del Licenciado Dognaldo y sus aliados
+Dentro de la clasificación hacia el Mundial 2026, solamente dos equipos tienen resultados similares y más puntos debido a la penalización de la Tri. **Argentina y Uruguay** son las escuadras que la superan en la tabla, aunque solo la ‘Albiceleste’ tiene mejor desempeño.
+
+¿Cómo están Argentina y Uruguay con relación a la Selección de Ecuador?
+-----------------------------------------------------------------------
+
+Dentro de la tabla de posiciones, la **Selección de Ecuador** se ubica en el tercer lugar con su victoria. Uruguay es segundo debido a que cuenta con 20 unidades, pero un menor rendimiento, con cinco victorias, cinco empates y dos derrotas al término del partido de la Tri.
+
+**Argentina** es el líder de la clasificación hacia el Mundial 2026 con **23 unidades** y el mejor rendimiento y resultados. La ‘Albiceleste’ cuenta con siete triunfos, dos empates y tres derrotas, de igual forma, hasta el fin del cotejo de los ecuatorianos[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
+
+En la sumatoria, la **Selección de Ecuador** debería sumar 22 puntos y colocarse en el segundo puesto de las eliminatorias. Asimismo, el elenco tricolor tiene la mejor defensa de todas las eliminatorias con tan solo cuatro goles encajados en 12 compromisos.
+
+¿Cuál fue la sanción sobre la Selección de Ecuador?
 ---------------------------------------------------
 
-El **Licenciado** **Dognaldo**, inspirado por la calidad de la generación ecuatoriana, presentó su alineación para lograr un triunfo memorable en Barranquilla. Ecuador solo ha ganado una vez en suelo colombiano en toda la historia de las eliminatorias sudamericanas.
+La **Selección de Ecuador** enfrentó una sanción de tres puntos menos antes del inicio de las eliminatorias sudamericanas. Aquello se debió a una resolución del TAS a raíz de la alineación de **Byron Castillo** en la clasificatoria previa.
 
-La **única victoria tricolor** en territorio cafetero fue el 20 de julio de 1965, cuando Washington Muñoz anotó el gol del triunfo 0-1. Ese partido correspondió a las eliminatorias para el Mundial de Inglaterra 1966.
+Ecuador consiguió una victoria histórica ante Colombia
+======================================================
 
-Con la meta de repetir esa hazaña, **Dognaldo propuso a sus _11 guerreros_** para el desafío:
+La Selección de Ecuador obtuvo una de las victorias más importantes en su historia en las eliminatorias sudamericanas.
+----------------------------------------------------------------------------------------------------------------------
 
-* **Arquero:** Hernán Galíndez
-* **Defensas:** Jhoanner Chávez, Willian Pacho, Piero Hincapié, y Pervis Estupiñán
-* **Mediocampistas:** Alan Franco, Gonzalo Plata, y Moisés Caicedo
-* **Delanteros:** Alan Minda, Kevin Rodríguez, y John Yeboah
+![La Selección de Ecuador celebra el gol de Enner Valencia ante Colombia por eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-19T182049.137.jpg)
 
-Como si su alineación no fuera suficiente, el Licenciado Dognaldo pidió ayuda a dos expertos.
+La **Selección de Ecuador** logró un triunfo histórico ante Colombia este martes 19 de noviembre de 2024, por la duodécima jornada de las eliminatorias para el Mundial de 2026. Con gol de Enner Valencia, la ‘Tri’ se impuso 0-1 en Barranquilla.
 
-Por un lado, **Sebastián** **Beccacece**, quien actualmente dirige a la Selección de Ecuador, y por otro, **Hernán** **Darío** **‘Bolillo’ Gómez**, un entrenador con un pasado tanto en Ecuador como en Colombia, quienes también se animaron a armar sus posibles onces para el enfrentamiento en Barranquilla.
+Esta es la **segunda victoria de Ecuador en territorio colombiano** en su historia por eliminatorias. La primera ocurrió en 1965, rumbo al Mundial de Inglaterra 1966.
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCj7hCouyFZ/?utm_source=ig_embed&utm_campaign=loading)
+### Más noticias:
+
+* [Colombia vs. Ecuador en un partido de valor de mercado](https://www.elcomercio.com/deportes/futbol/colombia-vs-ecuador-partido-valor-mercado.html "Colombia vs. Ecuador en un partido de valor de mercado")
+* [Ecuador suma puntos importantes fuera de casa en eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-suma-puntos-importantes-visitante-eliminatorias-sudamericanas.html "Ecuador suma puntos importantes fuera de casa en eliminatorias")
+* [Michael Arroyo marcó el último gol de Ecuador en Barranquilla](https://www.elcomercio.com/deportes/futbol/michael-arroyo-goles-seleccion-ecuador.html "Michael Arroyo marcó el último gol de Ecuador en Barranquilla")
+
+Gracias a este triunfo, la ‘Tri’ ascendió a la **tercera posición con 19 puntos** en 12 partidos. Si no fuera por la sanción al inicio de las eliminatorias por el caso de Byron Castillo, Ecuador habría sumado 22 puntos y se ubicaría en el segundo lugar.
+
+Enner Valencia anotó un golazo
+------------------------------
+
+**Ecuador quiso sorprender** desde el inicio del partido. A los tres minutos, un excelente pase largo de Pedro Vite habilitó a Alan Minda, quien envió un centro atrás para Gonzalo Plata. Este remató de primera intención, pero un defensor colombiano bloqueó el disparo con el pecho.
+
+El marcador se abrió a los siete minutos en Barranquilla, gracias a un **golazo de Enner Valencia** que quedará entre los mejores de su carrera con la selección ecuatoriana.
+
+El goleador histórico de la ‘Tri’ recibió el balón cerca de la mitad de la cancha tras un pase de Alan Franco. **Valencia emprendió una carrera electrizante** por la banda derecha, combinando velocidad y regates para dejar atrás a varios rivales. Al ingresar al área, definió con un potente remate, poniendo en ventaja a Ecuador y sorprendiendo a todos en el Estadio Metropolitano.
+
+> 🤩⚽️ ¡'SUPERMAN' APARECE PARA TOMARSE BARRANQUILLA! 🇪🇨  
+>   
+> Al minuto 7, Enner Valencia puso el 1-0 a favor de [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw)[#LaTrixECDF](https://twitter.com/hashtag/LaTrixECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/0DO1zcNMW6](https://t.co/0DO1zcNMW6) [pic.twitter.com/hOEN7CWgS0](https://t.co/hOEN7CWgS0)
 > 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCj7hCouyFZ/?utm_source=ig_embed&utm_campaign=loading)
+> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [November 19, 2024](https://twitter.com/ElCanalDFutbol/status/1859012079509708875?ref_src=twsrc%5Etfw)
 
-Ficha del partido
------------------
+Colombia estuvo cerca del empate a los 28 minutos. Una gran habilitación de Luis Díaz dejó a **Jhon Córdoba** mano a mano frente al arco, pero, sorprendentemente, el delantero falló el remate, para alivio de Ecuador.
 
-**Colombia vs. Ecuador**
+A los 34 minutos, Ecuador se quedó con un jugador menos. **Piero Hincapié vio la tarjeta roja** directa tras cometer una falta sobre Jhon Córdoba, quien se perfilaba solo hacia el arco.
 
-**Fecha**: Martes 19 de noviembre.
+> TODO ES DOLOR 😔🔴 || Piero Hincapié salió expulsado por una falta a Jhon Córdoba, quien se iba solo ante el arco ecuatoriano  
+>   
+> [pic.twitter.com/QbyjgXl3Rc](https://t.co/QbyjgXl3Rc)
+> 
+> — Ecuagol (@ECUAGOL) [November 19, 2024](https://twitter.com/ECUAGOL/status/1859019910745387227?ref_src=twsrc%5Etfw)
 
-**Hora**: 18:00.
+**Sebastián** **Beccacece** no realizó cambios tras la expulsión; simplemente reordenó a sus jugadores. Joel Ordóñez asumió como defensa central, mientras que Alan Franco se desplazó al lateral derecho.
 
-**Estadio**: Metropolitano Roberto Meléndez.
+Con un jugador menos, **Colombia** empezó a acercarse con peligro al arco tricolor. A los 41 minutos, Luis Díaz sacó un potente cabezazo que se estrelló en el poste, manteniendo la ventaja para la ‘Tri’.
 
-**¿Dónde ver?** Streaming.
+Ecuador sufrió, pero ganó
+-------------------------
+
+Al inicio de la segunda mitad, **Beccacece realizó cambios tras la expulsión**. Ingresaron Carlos Gruezo y Félix Torres, mientras que salieron Enner Valencia y Pedro Vite.
+
+Con el transcurso de los minutos, **Hernán Galíndez se consolidó como una de las figuras** de la Selección de Ecuador. El arquero argentino nacionalizado ecuatoriano realizó atajadas clave para preservar la ventaja.
+
+A los 58 minutos, Galíndez realizó una **atajada espectacular** ante un remate de Jhon Arias, tras un rápido contragolpe de los locales.
+
+Ecuador sufrió la falta de un jugador, ya que Colombia se lanzó al ataque, pero el **sólido bloque defensivo** de la ‘Tri’ incomodó a los cafeteros.
+
+Beccacece reemplazó a **Gonzalo Plata** en el minuto 78, tras un gran desgaste del delantero, y mandó al campo a Kevin Rodríguez, buscando aprovechar los contragolpes con velocidad y potencia.
+
+Con mucho sufrimiento, la ‘Tri’ aguantó con un hombre menos y se llevó los tres puntos valiosos de Barranquilla, siendo el **primer equipo en ganarle a Colombia en su casa.**
 
 No te pierdas nuestro Especial de Halloween
 -------------------------------------------
 
-El dólar sigue su ascenso en Colombia, acercándose a los $4 500 pesos
-=====================================================================
-
-Según analistas, el comportamiento del dólar se ve impulsado por varios factores internacionales, destacándose el efecto Trump.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial.](https://www.elcomercio.com/wp-content/uploads/2024/11/dolar-efe-colombia.jpg)
-
-La cotización del dólar estadounidense en [Colombia](https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html "https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html") continúa su **tendencia alcista,** y la moneda se acerca a la barrera psicológica de los $4 500. Desde el 11 hasta el 15 de noviembre, el valor del dólar subió de $4 346 a $4 454, manteniendo un ritmo ascendente en la segunda mitad del 2024, según El Espectador.
-
-### Más noticias:
-
-* [Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia](https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html "Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia")
-* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
-* [Colombia enfrenta una dura sanción para el partido contra Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-enfrenta-una-dura-sancion-para-el-partido-contra-ecuador.html "Colombia enfrenta una dura sanción para el partido contra Ecuador")
-
-Este incremento genera inquietud en los mercados, ya que el país **depende de las importaciones** y la **entrada de divisas.**
-
-Factores internacionales impulsan la subida
--------------------------------------------
-
-Según analistas, el comportamiento del dólar se ve impulsado por varios factores internacionales, destacándose el efecto Trump. La **elección de Donald Trump como presidente de EE. UU**. y sus políticas económicas generaron **expectativas que fortalecen al dólar**, según el El Espectador.
-
-“Las medidas de Trump, como los aranceles y los beneficios fiscales para empresarios, han atraído a inversionistas hacia EE. UU., lo que elevó el valor del dólar”, explica Sebastián Chacón Marín, director de la Escuela de Negocios del Politécnico Grancolombiano.
-
-A este fenómeno se le suman factores como las **decisiones** de la Reserva Federal de Estados Unidos y la persistente inflación, que generan incertidumbre en los **mercados globales**. Además, la caída en los precios del petróleo ha afectado negativamente a las economías de los países exportadores, como Colombia, lo que contribuye a la depreciación del peso colombiano.
-
-Incertidumbre en Colombia
--------------------------
-
-Por otro lado, la situación interna de Colombia también afecta el **comportamiento de su moneda.** La reciente depreciación del peso y la preocupación por el presupuesto nacional de 2025 aumentaron la incertidumbre. En este contexto, se prevé que el dólar se mantenga cerca de los **$4 500 en los próximos días**, señala El Espectador.
-
-De acuerdo con los analistas, para la semana que comienza, se espera que la divisa estadounidense fluctúe entre los $4 450 y los $4 490, sin llegar a superar los $4 500. Esta proyección se da en un clima de alta incertidumbre económica, tanto a nivel nacional como internacional, indica El Espectador.
-
-La historia del gatito negro que encontró un hogar en pleno octubre
+Caso Nene: hijo de vicepresidenta Verónica Abad es llamado a juicio
 ===================================================================
 
-Ludovico tiene siete meses y un futuro prometedor.
---------------------------------------------------
+Una jueza llamó a juicio a Francisco B., hijo de Verónica Abad, y a David R. por la presunta oferta de tráfico de influencias.
+------------------------------------------------------------------------------------------------------------------------------
 
-![Ludovico fue rescatado durante una campaña de esterilización. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-19T130534.483.jpg)
+![Archivo de Francisco B. en una denuncia presentada a Fiscalía contra dos periodistas](https://www.elcomercio.com/wp-content/uploads/2024/11/veronica-abad-hijo-juicio.jpg)
 
-Contrario a lo que muchas personas creen, los **gatos** sí son cariñosos; como los **perritos**, los felinos también curan heridas y alivian penas.
-
-Esa -precisamente- es la misión de **Ludovico**, un **gatito negro** que se acerca al año de vida y que hace un mes apareció en la cuenta de Instagram de **_EL COMERCIO_** buscando un hogar.  
-Te contamos su historia.
-
-### **Más noticias:**
-
-* [Maltrato animal: las infracciones leves también castigan con una multa económica](https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html "https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html")
-* [Multa ejemplar para un caso de crueldad animal en Ecuador](https://www.elcomercio.com/narices-frias/crueldad-animal-sancion-ecuador-multa.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/crueldad-animal-sancion-ecuador-multa.html?source=Internal&ref=Single+Content+Link")
-* [¿Tu gato se perdió? Sigue estos pasos para aumentar las posibilidades de su regreso](https://www.elcomercio.com/narices-frias/gato-desaparece-animales-reencuentro-mascotas.html?source=Internal&ref=Single+Same+Category "https://www.elcomercio.com/narices-frias/gato-desaparece-animales-reencuentro-mascotas.html?source=Internal&ref=Single+Same+Category")
-
-**La historia del gatito negro que encontró un hogar en pleno octubre**
------------------------------------------------------------------------
-
-La foto de **Ludovico** se publicó en octubre, un mes difícil para los **felinos negros**, pues todavía hay gente que los utiliza en rituales durante Halloween.
-
-Los amantes de los animalitos pedían ocultar la historia de este gatito, pero el destino de Ludovico estaba escrito: encontraría un hogar.
-
-Constanza Falconi, voluntaria en **Fundación Camino a Casa**, fue la encargada de entregárselo a Stephanie Álvarez, su nueva tutora.
-
-> [View this post on Instagram](https://www.instagram.com/reel/DA7HuzTPbxb/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Constanza Falconi (@constanza.falconi)](https://www.instagram.com/reel/DA7HuzTPbxb/?utm_source=ig_embed&utm_campaign=loading)
-
-**¿Cómo llegó Ludovico a manos de Constanza?**
-----------------------------------------------
-
-Esta amante de los animales encontró al gatito negro durante una campaña de esterilización; el felino, según los vecinos del sector, pasó toda la noche aferrado a una malla metálica.
-
-**La nueva vida de Ludovico**
------------------------------
-
-Este animalito pasó de permanecer a la intemperie a vivir en una casa con una tutora amorosa y **responsable**, y con Lucy, una **gatita** de ocho años que perdió a su compañero de vida por una enfermedad.
-
-> [View this post on Instagram](https://www.instagram.com/p/DBT77sLP3qA/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBT77sLP3qA/?utm_source=ig_embed&utm_campaign=loading)
-
-Stephanie admite que la convivencia costó trabajo, pero que ahora los dos animalitos comparten espacios y hasta comida. “**Ludovico** siempre quiere jugar”, dice Stephanie.
-
-También afirma que su felino negro, junto a Lucy, hace más llevadero la pena de ver a su padre con **Alzheimer**.
-
-¿Quiénes se libran de estar en una junta receptora del voto?
-============================================================
-
-Los miembros de las juntas receptores del voto deben tomar en cuenta algunos puntos.
-------------------------------------------------------------------------------------
-
-![Personal del CNE avanza con los procesos del calendario electoral.](https://www.elcomercio.com/wp-content/uploads/2024/11/MJRV-3.jpg)
-
-El **Consejo Nacional Electoral (CNE)** ya definió a los miembros de las juntas receptoras del voto para las elecciones 2025. Se trata de 287 534 personas a escala nacional y en el exterior.
-
-Hay quienes se libran de estar en las mesas y otros que podrían enfrentar sanciones en el proceso electoral que se desarrollará el **9 de febrero**.
+Una jueza llamó a juicio a **Francisco B. A.**, hijo de la vicepresidenta suspendida **Verónica Abad**. La **audiencia** preparatoria del **Caso Nene** se restauró la tarde de este martes 19 de noviembre de 2024, en el Complejo Judicial Norte de Quito.
 
 ### Más noticias
 
-* [Miembros de las juntas para las elecciones 2025 tienen capacitaciones, ¿en qué consisten?](https://www.elcomercio.com/actualidad/politica/miembros-juntas-elecciones-2025-tienen-capacitaciones-consisten.html "Miembros de las juntas para las elecciones 2025 tienen capacitaciones, ¿en qué consisten?")
-* [En Pichincha habrá 49 357 miembros de Juntas Receptoras del Voto](https://www.elcomercio.com/actualidad/politica/pichincha-sorteo-juntas-receptoras-voto.html "En Pichincha habrá 49 357 miembros de Juntas Receptoras del Voto")
-* [¿Miembros de juntas receptoras del voto aún pueden cobrar la compensación?](https://www.elcomercio.com/actualidad/politica/miembros-de-juntas-receptoras-del-voto-aun-pueden-cobrar-la-compensacion.html "¿Miembros de juntas receptoras del voto aún pueden cobrar la compensación?")
-* [Miembros de las juntas para elecciones 2025 tienen obligaciones y límites](https://www.elcomercio.com/actualidad/miembros-juntas-elecciones-2025-tienen-obligaciones-limites.html "Miembros de las juntas para elecciones 2025 tienen obligaciones y límites")
+* [Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito](https://www.elcomercio.com/actualidad/seguridad/fiscalia-hijo-veronica-abad-autor-supuesto-trafico-influencias.html "Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito")
+* [Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea](https://www.elcomercio.com/actualidad/seguridad/joselito-arguello-aspirante-asambleista-victima-ataque-armado-salinas.html "Fiscalía investiga ataque armado a Joselito Argüello, candidato a la Asamblea")
+* [Impulsan juicio político contra Ministra de Trabajo por suspensión a Verónica Abad](https://www.elcomercio.com/actualidad/politica/impulsan-juicio-politico-contra-ministra-de-trabajo-por-suspension-veronica-abad.html "Impulsan juicio político contra Ministra de Trabajo por suspensión a Verónica Abad")
 
-> 🔴 Hoy inicia la notificación a los Miembros de las Juntas Receptoras del Voto de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw). 🇪🇨🗳️  
->   
-> Si fuiste seleccionado, conoce las funciones que desempeñarás y capacítate a partir del 2⃣ de diciembre.  
->   
-> ¡[#VamosTodosXEcuador](https://twitter.com/hashtag/VamosTodosXEcuador?src=hash&ref_src=twsrc%5Etfw)! 🙋‍♀️🙋‍♂️ [pic.twitter.com/8ejRRJFHix](https://t.co/8ejRRJFHix)
-> 
-> — cnegobec (@cnegobec) [November 18, 2024](https://twitter.com/cnegobec/status/1858537305549451530?ref_src=twsrc%5Etfw)
+Además de Francisco B., la jueza a cargo del caso incluyó a **David R.** en la investigación que se llevará a cabo por el presunto delito de **oferta de tráfico de influencias**.
 
-Miembros de juntas receptoras del voto y la norma
--------------------------------------------------
+La decisión fue tomada tras la presentación de **54 elementos de convicción** por parte de Fiscalía.
 
-Los integrantes de las **mesas electorales** deben cumplir con la misión de forma obligatoria. No obstante, hay casos excepcionales.
+Caso Nene
+---------
 
-El **Código de la Democracia**, en el artículo 292, define que quien no concurra a integrar las juntas receptoras del voto, estando obligado, será multado con el equivalente al **15% de una remuneración mensual básica unificada**.
+La investigación de la **Fiscalía** en el denominado Caso Nene se inició por una denuncia por presuntos actos de corrupción, presentados contra Francisco B. A., por parte de un exfuncionario de la **Vicepresidencia de Ecuador**.
 
-Sin embargo, se contemplan excepciones como haber sufrido **calamidad doméstica** grave ocurrida en el día de las elecciones o hasta ocho días antes.
+De acuerdo con el presunto perjudicado, él y el hijo de la **Vicepresidenta** se reunieron en un hotel de Quito, en diciembre de 2023. En el encuentro, Francisco B. le habría ofrecido el puesto de **coordinador general** de la institución a cambio de una parte de su sueldo.
 
-Se suman quienes no puedan acudir por motivos de salud o por impedimento físico comprobados con el certificado de médico del sistema nacional de **salud público** o privado.
+La remuneración mensual por este cargo era de **3 200 dólares**, el presunto perjudicado afirmó que tenía que entregar **1 700 dólares** de este monto. Ambos habrían firmado una letra de cambio por **30 600 dólares**, el monto correspondiente a un año[.](https://www.fiscalia.gob.ec/ "https://www.fiscalia.gob.ec/")
 
-Las justificaciones se deberán presentar luego del proceso electoral. Una vía son las delegaciones provinciales del **CNE**.
+Tras una denuncia presentada en el buzón de transparencia del sitio web de Vicepresidencia, Fiscalía trató el hecho. Luego de las primeras investigaciones se ejecutó un operativo en **Quito y Cuenca**, en el que se detuvo a Francisco B. para su audiencia de formulación de cargos.
 
-¿Quiénes no estarán en las mesas?
----------------------------------
-
-El **CNE** determinó que las personas que actuaron como vocales principales de las juntas en los tres últimos procesos electorales, incluida la consulta popular del 21 de abril de 2024, no volverán a estar en las **elecciones 2025**.
-
-Claro que no incluye a las **zonas electorales** donde se requiera completar las personas para las juntas.  
-
-Hay impedimentos vigentes
--------------------------
-
-No todas las personas pueden ser parte de las juntas. Hay **limitantes** definidas y de cumplimiento obligatorio.
-
-* Dignatarios de elección popular en ejercicio de sus funciones 
-* Militares y policías en servicio activo 
-* Ciudadanos   que   laboran   en   calidad   de   conserjes   en   los   establecimientos educativos seleccionados como recintos electorales 
-* Candidatos a dignidades de elección popular 
-
-¿Cómo saber si está en una junta?
----------------------------------
-
-Este 18 de noviembre de 2024, el **CNE** empezó las notificaciones a los **miembros de las juntas receptoras del voto**, ya sea de forma presencial o vía correo electrónico. Adicionalmente, las personas pueden consultar este dato junto con el lugar de **votación**.
-
-Para saber el sitio de sufragio solo se requiere el número de cédula y la fecha de nacimiento. No es necesario acudir a las delegaciones del **CNE**.
-
-Se debe ingresar al sistema del [organismo electoral](https://www.cne.gob.ec/). A la par, está disponible la CNE App, tanto para IOS o Android.
-
-Al menos 17 cierres viales se harán en Quito este martes 19 de noviembre
-========================================================================
-
-En el estadio Olímpico Atahualpa se realizará un festival gastronómico y musical. La zona de La Carolina será la afectada con vías cerradas
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos se encargan de los cierres viales y la gestión del flujo vehicular en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/cierres-viales.jpg)
-
-La noche de este martes 19 de noviembre de 2024, la **Agencia Metropolitana de Tránsito (AMT)** ejecutará varios cierres viales en los alrededores del estadio Olímpico Atahualpa.
-
-### Más noticias
-
-* [Cortes de agua en Quito este martes 19 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-martes-19-de-noviembre.html "Cortes de agua en Quito este martes 19 de noviembre")
-* [Las fiestas de Quito arrancan este miércoles 20 de noviembre](https://www.elcomercio.com/actualidad/quito/fiestas-quito-agenda-inicio-ceremonia.html "Las fiestas de Quito arrancan este miércoles 20 de noviembre")
-* [Chofer de bus amenazó con un machete a otro conductor en Quito](https://www.elcomercio.com/actualidad/quito/chofer-bus-machete-quito-amt.html "Chofer de bus amenazó con un machete a otro conductor en Quito")
-
-Operativo de tránsito
----------------------
-
-Un **concierto y festival gastronómico** se realizarán dentro del estadio, en el norte de Quito, por lo que la AMT dispuso un operativo de tránsito.
-
-Los agentes civiles de tránsito se encargarán de gestionar el flujo vehicular en los alrededores de las zonas cerradas para evitar trancones.
-
-El operativo se inició durante la noche del lunes 18 de noviembre con el **cierre de la calle José Correa,** a partir de las 23:00. Sin embargo, el resto de cierres se aplicará desde las 20:00 hasta la 01:00 del miércoles 20 de noviembre de 2024.
-
-Estos cierres se implementarán de manera paulatina de acuerdo con el aforo de asistentes al evento.
-
-Cierres viales
---------------
-
-El operativo de tránsito contempla el cierre de varias zonas en la zona de La Carolina. Las calles y avenidas afectadas son:
-
-* Av. 6 de Diciembre y José Correa
-* José Correa y Gonzalo Serrano
-* José Correa y S. Quintero
-* José Correa y Carlos Arroyo del Río
-* M.M. Sánchez y Carlos Arroyo del Río
-* M.M. Sánchez y S. Quintero
-* M.M. Sánchez y Juan Ramírez
-* M.M. Sánchez y Javier Aráuz
-* M.M. Sánchez y av. 6 de Diciembre
-* Av. 6 de Diciembre y Portugal
-* Suecia y av. De los Shyris
-* Av. Naciones Unidas y av. De los Shyris
-* Av. Naciones Unidas y av. República del Salvador
-* Av. Portugal y av. República del Salvador
-* Hugo Moncayo y av. 6 de Diciembre
-* Av. 6 de Diciembre y Gaspar de Villarroel
-* El Telégrafo y av. De los Shyris
-
-Rutas alternas
---------------
-
-Si necesitas circular por el sector, puedes tomar vías alternas para no toparte con los cierres viales.
-
-Estas son las vías habilitadas:
-
-* Av. Amazonas
-* Av. Eloy Alfaro
-* Av. 10 de Agosto
-
-Los agentes metropolitanos de tránsito, además, harán control de autos mal estacionados. Ten [precaución.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 🎤 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 🎵 Por el concierto de Feid hay cierres viales cerca al Estadio Olímpico Atahualpa.  
->   
-> 🚘 Revisa el plan operativo aquí ➡️  
-> ✅ Al circular informado [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/4UDYK3OXuu](https://t.co/4UDYK3OXuu)
-> 
-> — AMTQuito (@AMT\_Quito) [November 19, 2024](https://twitter.com/AMT_Quito/status/1858872714007556404?ref_src=twsrc%5Etfw)
-
-¿Dónde ver a la Selección de Ecuador contra Colombia?
-=====================================================
-
-La Selección de Ecuador se enfrentará a Colombia en las eliminatorias al Mundial 2026 como visitante en Barranquilla.
----------------------------------------------------------------------------------------------------------------------
-
-![Gonzalo Plata y Alan Minda celebran un gol de la Selección de Ecuador ante Bolivia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-19T113643.679.jpg)
-
-La última jornada de eliminatorias durante el 2024 para la **Selección de Ecuador** será ante Colombia como visitante. El partido se llevará a cabo durante este martes 19 de noviembre del 2024 y contará con opciones en streaming y televisión para verlo.
-
-El conjunto ecuatoriano ya se encuentra en tierras cafeteras y viajó desde el país un día antes del choque clasificatorio. La escuadra que dirige **Sebastián Beccacece** lo hizo desde Guayaquil, donde entrenó y jugó su partido previo de la doble fecha.
-
-### Más noticias:
-
-* [¿A qué hora juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/horario-partido-ecuador-colombia-eliminatorias-sudamericanas.html "¿A qué hora juega la Selección de Ecuador vs. Colombia?")
-* [Cristian Ramírez revela por qué volvió a la Selección de Ecuador](https://www.elcomercio.com/deportes/cristian-ramirez-seleccion-ecuador-regreso.html "Cristian Ramírez revela por qué volvió a la Selección de Ecuador")
-* [Byron Castillo sorprende a la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-reencuentro-byron-castillo.html "Byron Castillo sorprende a la Selección de Ecuador")
-
-Para el duelo frente al conjunto colombiano, la Tri llega motivada y con el mejor de sus resultados en lo que va de las eliminatorias. En el duelo anterior ante Bolivia, el plantel se impuso por una goleada de 4-0 con un doblete de Gonzalo Plata y tantos de **Enner Valencia y Alan Minda**.
-
-Aquel choque frente al conjunto boliviano fue el quinto de Beccacece al mando de la **Selección de Ecuador**. Su contundente resultado, además, dio un indicio de mejoría ofensiva ante las dudas que había dejado tan solo un gol a favor en los cuatro partidos previos.
-
-Colombia llega con derrota para enfrentar a la Selección de Ecuador
--------------------------------------------------------------------
-
-En su último partido, **Colombia** perdió como visitante ante **Uruguay** por un marcador de 3-2. Pese a que el conjunto cafetero se puso por delante en el marcador con antelación, la ‘Celeste’ lo pudo dar vuelta en los minutos finales.
-
-La escuadra que hará de local cuenta con **19 puntos** dentro de las eliminatorias, tres más que la Selección de Ecuador. En el partido de ida, que se llevó a cabo en Quito, ambos elenco dividieron honores y no marcaron goles.
-
-Horario y transmisión de Ecuador vs. Colombia
----------------------------------------------
-
-**Partido**: Selección de Ecuador vs Colombia.
-
-**Fecha**: 19 de noviembre del 2024.
-
-**Hora**: 18:00.
-
-**Estadio**: Metropolitano de Barranquilla.
-
-**Transmisión**: Streaming y cines de la capital. Después del cotejo, este se transmitirá en diferido en señal abierta.
-
-¡Haz tus tareas!
-================
-
-Pretender engañar al profesor entregando respuestas de la IA es por lo menos desconsiderado con sus canas.
-----------------------------------------------------------------------------------------------------------
-
-![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
-
-Hace 15 días tuve la oportunidad de escuchar a **Eduardo Gómez Cerón**, profesor de Derecho de la Unicomfacauca (Colombia), cuando leía una carta a los **estudiantes de Ciencias Sociales y Humanas** titulada “Doce consideraciones para un estudiante que deja que la **inteligencia artificial** haga sus tareas”. Le pedí autorización para reproducirla y muy agradecido me dio la que tenía en sus manos. Apenas la he recortado un poco. Ahí les va:
-
-“1. En primer lugar, este texto no consiste en una **condena a la inteligencia artificial.** Pretender condenar un **avance tecnológico** que ya está aquí y en manos de todos, es una tontería y es, además, inútil. Sería comportarse como los obreros de hace siglo y medio que ante el hecho de que las máquinas desplazaban mano de obra, quisieron destruir las máquinas…
-
-2\. En el **mundo académico** las tareas están para ser hechas (…) por quienes son aprendices, se encuentran en **proceso de formación**. Las tareas son una de las maneras de aprender, de comprobar si hemos asimilado los conceptos y estamos en condiciones de aplicarlas a una **situación hipotética o real** que se nos propone.
-
-3\. Antes, la manera fraudulenta de **hacer tareas** era buscarse un texto ajeno –que los hay infinitos en internet- y atribuírselo, copiarlo sin citar al autor, sin ponerle comillas. El profesor podía sospechar que no era de quien lo presentaba, por razones de estilo, porque a veces aparecían temas, detalles o referencias no incluidas en las preguntas, etc. Una manera de **comprobar** si quien firmaba la **tarea** era efectivamente el **autor**, era indagarlo oralmente sobre sus **afirmaciones**, los conceptos utilizados, el **lenguaje**. En la persecución de esta **modalidad** de fraude, se podía ir más allá de las **consecuencias académicas**: estábamos ante un plagio, un robo de **propiedad intelectual** (…).
-
-4\. Ahora parece estar solucionado el **problema** del **plagio** porque el Chat GPT entrega un texto sin comillas, como un cheque al portador, que puede cobrarlo quien lo tiene (solo que en lo referido a los **verdaderos intereses** del que está en **formación**, se trata de un cheque sin fondos \[…\]). ¡Quien está contestando la tarea es la **inteligencia artificial**, no el estudiante!
-
-5\. Haz una prueba: inventémonos una **tarea** que todavía no te han asignado. Pidámosle al Chat GPT que haga un resumen de la novela Cien años de soledad de García Márquez. Entregará cuatro párrafos “perfectos”, en pocos segundos. Pero tú no has leído la novela, te has privado de crecer con esa **experiencia**. ¿O acaso te da igual entregar la foto a color de un banquete que haberlo disfrutado?
-
-6\. Dijo el **filósofo colombiano**, antioqueño de la **primera mitad del siglo XX**, Fernando González, que leer es estar en **condiciones** de encontrarle más matices al mundo y a la vida. Leer te aporta un prisma a través del cual ves mejor la **complejidad** de los fenómenos que se te ponen al frente. Y, si después de leer, tratas de poner por escrito tus ideas, incluso tus **confusiones**, encontrarás que te has enriquecido con la **experiencia**, que cada vez analizas mejor y te expresas mejor, de manera más rica, más profunda (…): leer y escribir te ayudan a ordenar y a ahondar tus **pensamientos**, a encontrarles relación con una cantidad de otras ideas, de buenas ideas. Leer y escribir te ponen a **otro nivel**.
-
-7\. ¿Qué impresión tienes cuando conoces y conversas con una de esas **personas** a las que se les nota la **educación** que han tenido? Que les sale a relucir lo que han leído y lo que han escrito (…) No suelen ser las personas que primero hablan ni lo hacen de manera acalorada, atropellada, repetitiva o frondosa; prefieren primero oír y luego hablan con **serenidad** y **sabiduría**, acaso con **brevedad**. Dicen las cosas de manera tan admirable, tan inmejorable, que uno piensa: ¡Esto pudiera transcribirse tal cual al papel, está correcto! (…).
-
-8\. Cuentan que el **escritor norteamericano John Steinbeck** no tenía **talento**, facilidad para escribir, al menos al inicio de su carrera. En su **juventud** respondía, además, por numerosos oficios de **supervivencia**, algunos pesados físicamente, que lo hacían llegar cansado (…) a su cuarto. Pero se había propuesto ser escritor, escribir digamos de 9 a 11 pm todos los días. Cuando no “le salía” nada, entonces escribía los **ejercicios** de **mecanografía aprendidos** (…) Con el tiempo, prácticamente sus manos “escribían solas”: la práctica lo puso en condiciones de **convertir** en relatos cada vez mejores, sus **ocurrencias**, sus vivencias, sus reflexiones. Llegó a ganar el Premio Nobel.
-
-9\. Querido amigo estudiante (…): tú tienes menos limitaciones que Steinbeck; cuando te sientas frente a la **computadora** no estás tan agotado. Haz tus tareas por ti mismo, no importa que con errores; ¡irás mejorando cada día! No pongas a la **inteligencia artificial** a hacer tus tareas (puede ser que, después de escribir lo tuyo, le hagas las mismas preguntas a la IA y compares lo que hiciste con lo que ella “dice”; es perfectamente legítimo que complementes lo tuyo con lo que esa **enorme memoria** que es la **inteligencia** **artificial** te aporta. Pero haz los añadidos con tus palabras, en tus términos).
-
-10\. **Entregar tareas hechas por la IA** es pretender engaña al profesor. Casi nunca se logra, él lo descubre. **Pretender engañar al profesor e**ntregando respuestas de la IA es por lo menos desconsiderado con sus canas. Pero en el caso del estudiante, la cosa es más grave. Tu formación –que es para lo que estás estudiando- es como un bebé al que nutres con **esfuerzos** y con **avances**. ¿Le darías cualquier bebida, digamos barata, edulcorada, aprovechándote de que los bebés no pueden reclamar o discernir que les está pasando? Le darías, por el contrario, el mejor nutriente (…) para que sea de provecho. Entonces, ¡no hagas la tontería de engañarte a ti mismo!
-
-11\. Cuentan que un **dirigente político**, por allá, en otro planeta muy parecido a este, se precia de que no les pierde tiempo a sus **discursos** porque todos los hace la IA. Creo que, enterada de este detalle, la **inteligencia artificial**, si pudiera votar, no votaría por él (es artificial, pero no deja de ser inteligencia).
-
-12\. Queridos amigos estudiantes (…), esto lo escribí con mucho afecto, pero no con **inteligencia artificial**”. 
-
-Zelenski pide a Alemania misiles de largo alcance tras amenaza nuclear de Putin
-===============================================================================
-
-Olaf Scholz reiteró su negativa a suministrar este tipo de armamento por el riesgo de provocar una escalada.
-------------------------------------------------------------------------------------------------------------
-
-![Volodímir Zelenski en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/volodimir-ucrania-efe.jpg)
-
- El presidente ucraniano, [Volodímir Zelenski](https://www.elcomercio.com/actualidad/mundo/zelenski-rusia-ataque-central-zaporiyia-radiacion.html "https://www.elcomercio.com/actualidad/mundo/zelenski-rusia-ataque-central-zaporiyia-radiacion.html"), pidió este martes, 19 de noviembre de 2024, a Alemania que envíe a Ucrania **armamento de largo alcance** en respuesta a la decisión del presidente ruso, Vladímir Putin, de endurecer su **doctrina nuclear** después de que Estados Unidos permitiera a Kiev usar sus misiles balísticos contra objetivos militares situados dentro de Rusia.
-
-### Más noticias
-
-* [Ucrania ataca por primera vez territorio ruso con misiles estadounidenses](https://www.elcomercio.com/actualidad/mundo/ucrania-ataca-por-primera-vez-territorio-ruso-con-misiles.html "Ucrania ataca por primera vez territorio ruso con misiles estadounidenses")
-* [Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales](https://www.elcomercio.com/actualidad/mundo/putin-aprueba-doctrina-que-permite-respuesta-nuclear-a-ataques-convencionales.html "Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales")
-* [Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia](https://www.elcomercio.com/actualidad/mundo/joe-biden-autoriza-misiles-largo-alcance-ucrania-ofensiva-contra-rusia.html "Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia")
-
-“Por lo que respecta a las **capacidades de larga distancia**, estamos trabajando para que todos los países las apoyen. Pienso que, después de las declaraciones (de Putin) sobre **armamento nuclear** es hora de que Alemania tome las decisiones correspondientes”, dijo Zelenski.
-
-La petición de Zelenski se produjo después de que el canciller alemán, Olaf Scholz, reiterase desde Rio de Janeiro, donde asiste a la cumbre del G-20, su negativa a suministrar este tipo de armamento por el riesgo de provocar una escalada.
-
-El presidente ruso Vladímir Putin emitió este martes un decreto para modificar la **doctrina nuclear** del país, que pasa a considerar un **ataque con misiles balísticos** contra su territorio un motivo suficiente para utilizar su armamento nuclear.
-
-Según dijo este martes una fuente militar ucraniana al medio de Kiev RBK, el Ejército ucraniano atacó por primera vez la pasada noche territorio ruso con un **misil balístico estadounidense ATACMS.** Un arsenal ruso situado en la región de Briansk fue alcanzado en el ataque.
-
-Durante su visita de este martes a Ucrania, la primera ministra danesa visitó junto a Zelenski una **fábrica de drones de largo alcance.** Dinamarca fue el primer país en apoyar la producción propia de armamento de Ucrania comprando a sus empresas parte del armamento que envía a Kiev para repeler la agresión rusa.
-
-La Unión Europea y otros aliados de Ucrania siguen el ejemplo danés.
-
-Sector de producción de cerdo dice que está en riesgo por posible TLC con Canadá
-================================================================================
-
-El sector ecuatoriano de producción de cerdo exige ser excluido del TLC con Canadá.
------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/cerditos.jpg)
-
-La posible firma de un Tratado de Libre Comercio (TLC) entre **Ecuador y Canadá** preocupa al **sector de producción de cerdo ecuatoriano**. El gremio exige ser declarado como “actor ultrasensible” y quedar **excluido** de estas negociaciones[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Organizaciones sociales cuestionan confidencialidad del TLC entre Ecuador y Canadá](https://www.elcomercio.com/actualidad/negocios/organizaciones-sociales-cuestionan-confidencialidad-el-tlc-entre-ecuador-y-canada.html "Organizaciones sociales cuestionan confidencialidad del TLC entre Ecuador y Canadá")
-* [La Unión Europea celebra 7 años del acuerdo comercial con Ecuador](https://www.elcomercio.com/actualidad/mundo/union-europea-celebra-7-anos-acuerdo-comercial-ecuador.html "La Unión Europea celebra 7 años del acuerdo comercial con Ecuador")
-* [Costa Rica es una puerta de ingreso para Ecuador en Centroamérica](https://www.elcomercio.com/opinion/editorial/costa-rica-entrada-puerta-ecuador-centroamerica.html "Costa Rica es una puerta de ingreso para Ecuador en Centroamérica")
-
-Representantes del gremio advierten que un **acuerdo comercial con Canadá,** en las condiciones actuales, podría devastar la industria porcina local y su cadena de valor.
-
-Además, señalan que el sector de ecuatoriano produce anualmente 220 000 toneladas métricas de carne de cerdo y genera 180 000 empleos directos, principalmente en zonas rurales. Asimismo, aporta alrededor de 1 000 millones de dólares a la economía y absorbe medio millón de toneladas de maíz nacional al año, un insumo clave para su operación.
-
-Sin embargo, esta industria enfrenta desventajas estructurales frente a Canadá, cuya producción porcina cuenta con subsidios estatales de 6 000 millones de dólares anuales.
-
-Este respaldo permite que **Canadá** sea el cuarto **exportador mundial** de **carne de cerdo**, con 1,3 millones de toneladas exportadas anualmente. Esto equivale al 65% de la producción canadiense, aseguran.
-
-Posibles peligros con el TLC
-----------------------------
-
-Un **análisis técnico del gremio** prevé que, de abrirse el mercado ecuatoriano a productos porcinos canadienses, habrá una reducción del 46% en la producción nacional. Esto representaría pérdidas económicas estimadas en 800 millones de dólares en ventas y un impacto negativo de 307 millones de dólares en la economía local. Además, se calcula la eliminación de hasta **165 000 empleos**, un golpe crítico para la **ruralidad ecuatoriana**.
-
-Por ello, los **porcicultores** solicitan que la declaratoria de “**actor ultrasensible**” del sector quede plasmada en el **acuerdo comercial con Canadá**. Esto garantizará la exclusión de la negociación de toda la **cadena relacionada con el sector de cerdos**, incluyendo la **producción de maíz**.
-
-El **gremio argumenta** que esta medida es esencial para evitar un **desequilibrio económico** y proteger la sostenibilidad del sector y las familias que dependen de él.
-
-‘Dune: La profecía’ de Max es como ‘Juego de Tronos’ pero futurista
-===================================================================
-
-El universo de Dune llega a la televisión con una épica visual que promete dividir opiniones.
----------------------------------------------------------------------------------------------
-
-!['Dune: La profecía' es una serie de Max compuesta por seis episodios.](https://www.elcomercio.com/wp-content/uploads/2024/11/serie-dune-El-Comercio.jpg)
-
-Desde su estreno el 17 de noviembre de 2024 en **Max**, **‘Dune: La profecía**‘ ha captado la atención de los seguidores de la ciencia ficción. Esta nueva serie, basada en el **universo de Dune** creado por **Frank Herbert**, ocurre 10 000 años antes de los eventos de las películas recientes.
-
-Inspirada en la novela ‘**Sisterhood of Dune’ de Brian Herbert y Kevin J. Anderson**, la trama sigue a **las hermanas Valya y Tula Harkonnen**, figuras clave en la fundación de las Bene Gesserit, una orden con gran influencia en el universo Dune.
-
-### Más noticias
-
-* **[Netflix lanza un avance especial del ‘Juego del Calamar 2’](https://www.elcomercio.com/afull/netflix-lanza-avance-especial-juego-calamar-2-segunda-temporada.html "https://www.elcomercio.com/afull/netflix-lanza-avance-especial-juego-calamar-2-segunda-temporada.html")**
-* **[‘Shogun’ ¿Es tan buena como dicen?](https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html "https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html")**
-
-El sitio especializado en cine Sensacine destaca que la narrativa de la serie combina elementos políticos y conspirativos, similar a ‘Juego de Tronos’ pero con un giro futurista y extraño. Esta conexión no solo es visual, sino también temática, con luchas de poder y traiciones en el centro de la historia.
-
-**Un despliegue visual impresionante**
---------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/serie-dune-El-Comercio-1-1024x683.jpg)
-
-Emily Watson es una de las protagonistas de la serie ‘Dune: La profecía’. Foto: IMDB
-
-La producción ha sido elogiada por su calidad visual. El sitio Mundo Deportivo resalta el impresionante diseño de escenarios y vestuario. Sin embargo, este despliegue no solo busca maravillar, sino contextualizar una trama densa y a menudo compleja.
-
-El reparto incluye nombres como [**Emily Watson**](https://www.imdb.com/name/nm0001833/ "https://www.imdb.com/name/nm0001833/") **y [Olivia Williams](https://www.imdb.com/name/nm0931404/?ref_=fn_al_nm_1 "https://www.imdb.com/name/nm0931404/?ref_=fn_al_nm_1")**, quienes interpretan a las hermanas Harkonnen. Su química en pantalla ha sido muy celebrada, según críticas recogidas por el sitio especializado **Rotten Tomatoes**, donde la serie tiene una puntuación del 71%.
-
-A pesar de ello, algunos críticos han señalado que la introducción de tantos personajes en el primer episodio podría resultar abrumadora para los espectadores más casuales.
-
-**Comparaciones con ‘Juego de Tronos**‘
----------------------------------------
-
-La comparación con ‘Juego de Tronos’ no es casualidad. Desde sus primeras escenas, ‘Dune: La profecía’ establece un juego de alianzas y traiciones que recuerda a la exitosa **serie de HBO**.
-
-Según Sensacine, “en un solo episodio, hay suficiente muerte, conspiración y drama político para rivalizar con los conflictos de los Siete Reinos”.
-
-A pesar de ello, algunos críticos consideran que la serie podría asustar a quienes buscan un enfoque más ligero. Mientras ‘Juego de Tronos’ logró equilibrar la intriga política y el desarrollo de personajes, ‘Dune: La profecía’ se presenta como una experiencia más crítica y centrada en sus fanáticos más fieles.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCXNwpbNjnG/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Max Latinoamérica (@streammaxla)](https://www.instagram.com/reel/DCXNwpbNjnG/?utm_source=ig_embed&utm_campaign=loading)
-
-**¿Un nuevo éxito en Max?**
----------------------------
-
-El estreno de la serie es parte de la estrategia de Max, la plataforma que combina HBO Max y Discovery+. Según Mundo Deportivo, con más de 99,6 millones de suscriptores, Max busca consolidarse como un competidor fuerte en el mercado del _streaming_.
-
-La crítica está dividida. Mientras algunos celebran su ambición, otros temen que su densidad sea un obstáculo para conectarse con audiencias más amplias. Sin embargo, su primer episodio ha logrado iniciar conversaciones, lo cual deja claro que este universo aún tiene mucho por ofrecer.
-
-**Una serie para los fans más fieles**
---------------------------------------
-
-Aunque su estreno ha dividido opiniones, ‘Dune: La profecía’ promete convertirse en una adición interesante al universo de Frank Herbert. Cada lunes se estrena un nuevo episodio, son seis en total.
-
-¿Será suficiente para conquistar a los espectadores? El tiempo lo dirá.
-
-Vocales suplentes del CNE exigen transición conforme a la Constitución
-======================================================================
-
-Vocales suplentes del CNE exigen cumplir sentencia de 2019, rechazan prórroga de titulares y anuncian su principalización.
---------------------------------------------------------------------------------------------------------------------------
-
-![Rueda de prensa de los vocales suplentes del CNE.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-34-3.jpg)
-
-Los vocales suplentes del **Consejo Nacional Electoral (CNE)** presentaron este 19 de noviembre de 2024 un documento ante Corte Constitucional (CC) para solicitar el cumplimiento del dictamen emitido en 2019.
-
-Este documento, según **María Cristina Kronfle**, vocal suplente del CNE, establece que los **períodos de los consejeros son definitivos e inalterables**. Asimismo, que los suplentes tienen el derecho de asumir los cargos principales al finalizar el período de los titulares.
-
-### Más noticias
-
-* [CNE hizo cambios para el debate presidencial 2025](https://www.elcomercio.com/actualidad/politica/cne-cambios-debate-presidencial-2025.html "CNE hizo cambios para el debate presidencial 2025")
-* [Cpccs hará instructivo relacionado con integrantes del CNE](https://www.elcomercio.com/actualidad/politica/cpccs-hara-instructivo-relacionado-con-integrantes-cne.html "Cpccs hará instructivo relacionado con integrantes del CNE")
-* [CNE abre nueva etapa para ser observador en las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-abre-nueva-etapa-para-observador-elecciones-2025.html "CNE abre nueva etapa para ser observador en las elecciones 2025")
-
-La acción legal busca evitar lo que calificaron como una **“autoprórroga”** de los actuales consejeros principales.
-
-El recurso fue presentado a pocas horas de que concluya el período constitucional de los vocales titulares **Diana Atamaint, Enrique Pita, José Cabrera y Esthela Acero**. Kronfle afirmó que la medida es fundamental para garantizar la **estabilidad institucional y democrática del país**.
-
-“Confiamos en que este proceso permita restituir el respeto al orden constitucional y evitar acciones que vulneren la **normativa vigente**“, expresó en rueda de prensa.
-
-Argumentos de los vocales suplentes sobre el dictamen de 2019
--------------------------------------------------------------
-
-María Cristina Kronfle, junto a Mónica Noriega y José Merino, sostuvo que el dictamen de la **Corte Constitucional del 2019** deja claro que los suplentes deben **principalizarse al finalizar el período** de los titulares.
-
-Según los suplentes, este criterio no puede ser aplicado de manera parcial, y rechazaron que se intente utilizar un pronunciamiento previo de la **Procuraduría General del Estado**.
-
-> ‼️[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)  
-> "No necesitamos autorización de nadie (para la principalización)", dice María Cristina Kronfle, vocal suplente del CNE. Ratifica que este miércoles, 20 de noviembre, realizarán el reemplazo legal.  
-> ▶️[@notimundoec](https://twitter.com/notimundoec?ref_src=twsrc%5Etfw) [pic.twitter.com/55OEJd6K80](https://t.co/55OEJd6K80)
-> 
-> — Ecuadorinmediato (@ecuainm\_oficial) [November 19, 2024](https://twitter.com/ecuainm_oficial/status/1858908058862436543?ref_src=twsrc%5Etfw)
-
-En rueda de prensa, Kronfle recordó que este mismo dictamen **ya fue aplicado en otros casos**. Se refirieron, por ejemplo, a la destitución del expresidente del Consejo de Participación Ciudadana y Control Social (Cpccs), Alembert Vera, por incumplimiento.
-
-Los suplentes insistieron en que **su designación por parte de la Asamblea Nacional en 2019 fue legítima.** Además, mencionaron que están preparados para asumir las funciones que les corresponden en este **momento de transición**.
-
-Acciones inmediatas para la principalización en el CNE
-------------------------------------------------------
-
-Los suplentes anunciaron que este **miércoles 20 de noviembre acudirán a las instalaciones del CNE**, para **asumir sus cargos como vocales principales**.
-
-**José Merino** confirmó que estará presente desde las 07:30. Esto a pesar de que se informó sobre posibles **restricciones de acceso en los exteriores del organismo electoral**. Los suplentes solicitaron garantías al Estado para que su ingreso se lleve a cabo sin contratiempos.
-
-> 🇪🇨ECUADOR NO TE DEJES ENGAÑAR:  
->   
-> LOS ACTUALES VOCALES DEL CNE, SE TIENEN QUE IR POR NORMA EXPRESA‼️  
->   
-> Auto-prórroga NO HAY 👇🏼 [pic.twitter.com/o6or2pUTdY](https://t.co/o6or2pUTdY)
-> 
-> — María Cristina Kronfle (@mckronfle) [November 17, 2024](https://twitter.com/mckronfle/status/1858263889529524359?ref_src=twsrc%5Etfw)
-
-Además, señalaron que están capacitados para continuar con el **cronograma electoral** de cara a las **elecciones generales de febrero de 2025**.
-
-Kronfle enfatizó que la cercanía de los comicios no debe servir como excusa para mantener la conformación del CNE. “Estamos al tanto de cada una de las actividades del calendario electoral y listos para cumplir con nuestra responsabilidad”, afirmó.
-
-Viña del Mar 2025 tiene su primer listado de artistas confirmados
-=================================================================
-
-Solo una cantante chilena figura en la lista de artistas confirmados.
----------------------------------------------------------------------
-
-![Myriam Hernández participará en Viña del Mar 2025. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-19T120329.096.jpg)
-
-El LXIV **Festival Internacional de la [Canción de Viña del Mar](https://www.elfestival.tv/ "https://www.elfestival.tv/")** se realizará del 23 al 28 de febrero de 2025 en el icónico Anfiteatro de la **Quinta Vergara**, en Viña del Mar, **Chile**.
-
-Ese **evento**, uno de los más importantes de **América Latina**, promete atraer a miles de asistentes y millones de televidentes a nivel internacional.
-
-### **Más noticias:**
-
-* [¿Quién es la novia de la hija mayor de Carlos Vives?](https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musica-novia-latin-grammy.html "https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musica-novia-latin-grammy.html")
-* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html")
-* [El cuerpo de Liam Payne finalmente llegó a casa](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html?source=Internal&ref=Single+Content+Link")
-
-**¿Dónde se verá Viña del Mar 2025?**
--------------------------------------
-
-La producción del **festival** estará a cargo de Mega, un canal de televisión chileno que ganó la licitación para transmitir el evento.
-
-La transmisión también se realizará a través de plataformas de **streaming** como Disney+ en Latinoamérica.
-
-**¿Quiénes presentarán Viña del Mar?**
---------------------------------------
-
-Los presentadores principales serán Rafael Araneda y Karen Doggenweiler. Ellos aportarán su amplia experiencia en la animación de este tipo de espectáculos.
-
-**Viña del Mar 2025 tiene su primer listado de artistas confirmados**
----------------------------------------------------------------------
-
-Varios artistas destacados se presentarán durante las seis noches del festival. Entre ellos se encuentran el reconocido cantante estadounidense Marc Anthony, el colombiano Carlos Vives y la chilena Myriam Hernández.
-
-> [View this post on Instagram](https://www.instagram.com/p/DChBqzbxmve/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Myriam Hernandez (@myriamhernandez\_oficial)](https://www.instagram.com/p/DChBqzbxmve/?utm_source=ig_embed&utm_campaign=loading)
-
-Otros artistas que también formarán parte del evento son **Sebastián Yatra,** el dúo Ha\*Ash, la banda Bacilos y el rapero argentino Duki.
-
-**Viña del Mar es la vitrina de artistas emergentes**
+Asamblea votó para mantener inmunidad a Verónica Abad
 -----------------------------------------------------
 
-Además de las actuaciones musicales, el **festival** incluirá competencias internacionales y folclóricas, donde se espera la participación de nuevos talentos emergentes.
+Francisco B. estuvo detenido en la cárcel **La Roca** de Guayaquil, donde dejó la prisión preventiva tras pagar una fianza de **20 000 dólares**.
 
-> [View this post on Instagram](https://www.instagram.com/p/DCft2USNOiM/?utm_source=ig_embed&utm_campaign=loading)
+Luego, el Pleno de la **Asamblea Nacional** no autorizó el retiro de la inmunidad a la vicepresidenta Verónica Abad por lo que no fue vinculada al proceso.
+
+Fiscalía sí lo hizo con **David R.,** quien se desempañaba como **asesor político** en la institución pública.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoNene](https://twitter.com/hashtag/CasoNene?src=hash&ref_src=twsrc%5Etfw): tras el análisis de los elementos de convicción presentados por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw), Francisco B. y Daniel R. son llamados a juicio por presunta [#OfertaDeTráficoDeInfluencias](https://twitter.com/hashtag/OfertaDeTr%C3%A1ficoDeInfluencias?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> Detalles ⬇️[https://t.co/zDcXAU9oTM](https://t.co/zDcXAU9oTM) [pic.twitter.com/jCsjtjsejc](https://t.co/jCsjtjsejc)
 > 
-> [A post shared by Festival de Viña del Mar (@elfestivaldevina)](https://www.instagram.com/p/DCft2USNOiM/?utm_source=ig_embed&utm_campaign=loading)
+> — Fiscalía Ecuador (@FiscaliaEcuador) [November 19, 2024](https://twitter.com/FiscaliaEcuador/status/1859010823030796331?ref_src=twsrc%5Etfw)
 
-Las postulaciones para estas competencias se cerraron el 1 de noviembre de 2024.
-
-Las ballenas azules forman una sola gran población en la Antártida
-==================================================================
-
-El animal más grande del mundo forma una única población en la Antártida, lo que es clave para su conservación y adaptación.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Ballena azul](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-3-2.jpg)
-
-El animal más grande del mundo, la **ballena azul**, forma una sola gran **población** circumpolar en la **Antártida** y no está dispersa en **varias comunidades**, a pesar del enorme tamaño del **océano austral**[.](https://es.wikipedia.org/wiki/Balaenoptera_musculus "https://es.wikipedia.org/wiki/Balaenoptera_musculus")
-
-#### Más noticias
-
-* [Científicos vigilan población de iguanas rosadas en el volcán Wolf de las Islas Galápagos](https://www.elcomercio.com/actualidad/ecuador/cientificos-vigilan-poblacion-de-iguanas-rosadas-en-el-volcan-wolf-de-las-islas-galapagos-2.html "Científicos vigilan población de iguanas rosadas en el volcán Wolf de las Islas Galápagos")
-* [La Conferencia de Biodiversidad 2024 es una oportunidad para el mundo](https://www.elcomercio.com/opinion/editorial/cop16-cali-colombia-paises-compromisos.html "La Conferencia de Biodiversidad 2024 es una oportunidad para el mundo")
-* [Ballena cachalote se quedó varada en playa de Ecuador](https://www.elcomercio.com/actualidad/ecuador/ballena-cachalote-varada-playa-ecuador.html "Ballena cachalote se quedó varada en playa de Ecuador")
-
-Basándose en la última evaluación de las **ballenas azules antárticas** en 2004 y utilizando registros antiguos de **caza de ballenas**, que eran sorprendentemente detallados, un equipo dirigido por Zoe Rand, estudiante de doctorado de la Universidad de Washington publicó sus hallazgos en la revista Endangered Species Research.
-
-Nuevas perspectivas en la conservación de las ballenas azules antárticas
-------------------------------------------------------------------------
-
-Las **ballenas azules antárticas** -con 30 metros de longitud y más de 200 toneladas de peso- están catalogadas como una especie en **peligro de extinción**, y comprender la estructura de su población es esencial para su **conservación**. La conservación a **nivel de población** aumenta la **biodiversidad**, lo que ayuda a la especie a adaptarse mejor a los **cambios ambientales** y aumenta las posibilidades de **supervivencia** a largo plazo.
-
-Durante los años de **caza de ballenas**, los biólogos comenzaron el Discovery Marking Program. Se clavaron varillas de metal de 30 centímetros con números de serie en los músculos de las ballenas. Cuando se capturaron estas **ballenas**, se devolvió la varilla de metal y se anotó el tamaño, el sexo, la longitud y el lugar donde se capturó a la **ballena**. Comparar dónde se marcaron las **ballenas** con dónde se capturaron podría arrojar información valiosa sobre el **movimiento de las ballenas azules antárticas**, pero estos datos nunca se han utilizado antes para analizar la estructura de la población, informa la Universidad de Washington.
-
-Nuevas evidencias sobre la migración y la unicidad de la población de ballenas azules antárticas
-------------------------------------------------------------------------------------------------
-
-En este nuevo estudio, estos **datos históricos** se utilizaron junto con datos de **encuestas** contemporáneas en modelos bayesianos para calcular las **tasas de movimiento** interanual entre las tres cuencas oceánicas que conforman el Océano Austral (Atlántico, Índico y Pacífico), que constituyen las **zonas de alimentación** de las **ballenas azules antárticas**. El equipo encontró una mezcla frecuente entre las **cuencas oceánicas,** lo que sugiere que las **ballenas** no regresan a la misma cuenca todos los años. Esto indica que las **ballenas azules antárticas** son una única población circumpolar en el **Océano Austral**.
-
-Estos resultados son consistentes con los **estudios** de los cantos de las **ballenas azules antárticas**, que se escuchan en todo el Océano Austral. Solo se ha registrado un tipo de canto entre las ballenas azules antárticas. En comparación, las **ballenas azules pigmeas** tienen cinco cantos diferentes que corresponden a cinco **poblaciones diferentes.** Estos resultados también son consistentes con los **estudios genéticos**, que encontraron que las **ballenas azules antárticas** están más estrechamente relacionadas de lo que se esperaría si fueran **poblaciones** separadas.
-
-Nuevo análisis cuantitativo de las ballenas azules antárticas
+Fiscalía señaló a Francisco B. como presunto autor del delito
 -------------------------------------------------------------
 
-Este estudio es la primera vez que los **datos históricos** de **recuperación de marcas** del Programa de Marcado Discovery se han analizado utilizando **métodos cuantitativos modernos**. Estos datos existen para muchas otras especies de **ballenas cazadas,** como las ballenas de aleta y sei, por lo que los métodos del **nuevo estudio** podrían proporcionar un marco para **análisis similares** también para esas **especies de ballenas.**
+Entre las **pruebas recogidas y presentadas** por Fiscalía estuvieron: la denuncia y la versión de la presunta víctima, el informe de seguimientos y vigilancia, el informe investigativo, y la pericia de las conversaciones entre los presuntos involucrados.
 
-Todavía hay mucho que los **científicos** no saben sobre la **ballena azul antártica.** Aunque no parecen estar separadas geográficamente en sus **aguas de alimentación** en diferentes **cuencas oceánicas,** aún podrían tener **estructuras poblacionales** distintas basadas en diferencias en los hábitats de reproducción o el momento de la **migración**.
+Además del llamamiento a juicio contra Francisco B., la jueza dispuso que el proceso contra Daniel R. se suspendiera hasta su captura o entrega voluntaria a la justicia.
 
-Descubriendo el comportamiento reproductivo de la ballena azul antártica
-------------------------------------------------------------------------
+El presunto involucrado recibió la prohibición para **enajenar sus bienes** y la **retención de sus cuentas**.
 
-Sin embargo, casi nada se sabe sobre el **comportamiento reproductivo** de la **ballena azul antártica**, según los investigadores. El uso de datos históricos de la caza de ballenas junto con datos contemporáneos, como el etiquetado por satélite y la identificación fotográfica, sigue siendo la mejor esperanza de los científicos para descubrir los secretos del animal más grande de la Tierra.
+Por este presunto delito, los involucrados podrían enfrentar una pena de **tres a cinco años** de cárcel.
 
-¿Con quién juega Ecuador hoy? Así está la tabla de posiciones en eliminatorias.
-===============================================================================
+Vinícius Júnior confesó que ‘sufre’ por los actos de racismo
+============================================================
 
-La Selección de Ecuador llega en el quinto lugar de la eliminatoria a esta jornada. ¿Con quién juega Ecuador hoy?
------------------------------------------------------------------------------------------------------------------
+Vinícius Júnior surgió en el Flamengo y juega en el Real Madrid desde el 2018.
+------------------------------------------------------------------------------
 
-![Hernán Galíndez, arquero de la Selección de Ecuador ante Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Galiondez.jpg)
+![Vinícius Júnior, jugador de la Selección de Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/11/vini_racismo_1.jpg)
 
-La **Selección de Ecuador** arribó a **Barranquilla** en la noche del 18 de noviembre de 2024, con la vista puesta en su último partido del año por las eliminatorias sudamericanas al **Mundial 2026**. ¿Con quién juega Ecuador hoy?
+El delantero del Real Madrid Vinícius Júnior confesó este martes 19 de noviembre de 2024, en entrevista con la Confederación Brasileña de Fútbol (CBF), que se está yendo por “**el camino correcto**” en el combate contra el racismo en el fútbol.
 
-**Ecuador** llegará al encuentro en la quinta posición de la tabla con 16 puntos, luego de 11 partidos disputados.
-
-La selección está a solo un punto de Brasil (4° con 17), pero debe medirse con una de las selecciones más fuertes del momento, **Colombia**, que ocupa el tercer lugar, con 19 unidades.
+Vinícius Júnior **celebró la condena penal de los tres hinchas del Valencia** acusados de insultarlo durante un encuentro en mayo de 2023 y ratificó su deseo de seguir luchando junto a todos los jugadores para que “en un futuro cercano” se puedan reducir los casos de racismo.
 
 ### Más noticias:
 
-* [¿A qué hora juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/horario-partido-ecuador-colombia-eliminatorias-sudamericanas.html "¿A qué hora juega la Selección de Ecuador vs. Colombia?")
-* [Cristian Ramírez revela por qué volvió a la Selección de Ecuador](https://www.elcomercio.com/deportes/cristian-ramirez-seleccion-ecuador-regreso.html "Cristian Ramírez revela por qué volvió a la Selección de Ecuador")
-* [Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-amenaza-con-dar-la-sorpresa-a-colombia-en-eliminatorias.html "Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias")
+* [Para Francisco Egas, Liga de Quito no cumplió el reglamento](https://www.elcomercio.com/deportes/futbol/francisco-egas-liga-quito-reglamento.html "Para Francisco Egas, Liga de Quito no cumplió el reglamento")
+* [Byron Castillo sorprende a la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-reencuentro-byron-castillo.html "Byron Castillo sorprende a la Selección de Ecuador")
+* [Brasil adoptará protocolo antirracista en las eliminatorias](https://www.elcomercio.com/deportes/futbol/gesto-antirracista-vinicius-junior-brasil.html "Brasil adoptará protocolo antirracista en las eliminatorias")
 
-Este martes 19 de noviembre del 2024, la **Tri** se enfrentará a **Colombia** en el estadio **Metropolitano de Barranquilla**, a las 18:00 hora de Ecuador, por la jornada 12 del proceso clasificatorio.
+Vinícius, que en el último año se transformó en una de las voces más importantes de la lucha antirracista en el deporte, **dio la entrevista a la web de la CBF en la previa al Día de la Conciencia Negra**, que se celebra los 20 de noviembre en Brasil como símbolo de lucha contra la discriminación racial.
 
-**Así está la tabla de posiciones:**
-------------------------------------
+“Conozco mi importancia, pero siempre digo que es la lucha de todos, **porque yo solo no puedo contra todo lo que los negros estamos sufriendo**“, aclaró el futbolista, quien además dijo estar “feliz” de encabezar la causa y hablar por aquellas personas que “no tienen fuerzas o tienen miedo”.
 
-1. **Argentina** – 22 puntos
-2. **Uruguay** – 19 puntos
-3. **Colombia** – 19 puntos
-4. **Brasil** – 17 puntos
-5. **Ecuador** – 16 puntos
-6. **Paraguay** – 16 puntos
-7. **Venezuela** – 12 puntos
-8. **Bolivia** – 12 puntos
-9. **Perú** – 7 puntos
-10. **Chile** – 6 puntos
+Vinícius y su sufrimiento en España
+-----------------------------------
 
-Partido Colombia vs. Ecuador
-----------------------------
+Además, contó que en España, donde juega desde 2018, “sufrió y todavía sufre” actos de este tipo, pero que, g**racias a la condena de los hinchas valencianistas en junio de este año**, los personas “tendrán miedo” de ser racistas públicamente y eso hará que disminuyan los casos de discriminación.
 
-El partido ante los colombianos es clave para que la Tri’ mantenga su posición en los puestos de clasificación directa al Mundial, cerrando 2024 de manera positiva. Ecuador ha mostrado solidez durante el año, especialmente tras el cambio de entrenador, con **Sebastián Beccacece** tomando las riendas a mediados de 2024.
+El jugador fue víctima de varios actos de discriminación durante su estadía en España. En enero de 2023 incluso **apareció colgado un muñeco ahorcado con su camiseta en una carretera de Madrid** horas antes de un partido contra el Atlético de Madrid por la Copa del Rey.
 
-Este será el último compromiso del año para los dirigidos por el argentino, que buscan seguir sumando en su objetivo de estar en la próxima **Copa del Mundo.**
+San viernes
+-----------
 
-**Historial de enfrentamientos en Colombia**
---------------------------------------------
+Pleno de la Asamblea decidirá sobre el juicio político a Andrea Arrobo
+======================================================================
 
-Ecuador tiene un historial complicado en suelo colombiano. En 21 encuentros de eliminatorias, la selección ecuatoriana solo ha ganado una vez en Colombia, en 1965. Desde entonces, no ha logrado derrotar a los cafeteros en territorio colombiano.
+La Comisión de Fiscalización no aprobó el juicio político a Arrobo; el Pleno decidirá si continúa o no este proceso.
+--------------------------------------------------------------------------------------------------------------------
 
-**Ficha del partido**
----------------------
+![Sesión de la Comisión de Fiscalización donde compareció la exministra de Energía, Andrea Arrobo, por el tema energético, el pasado 4 de diciembre de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-40-2.jpg)
 
-* **Fecha:** Martes 19 de noviembre
-* **Hora:** 18:00 (hora de Ecuador)
-* **Estadio:** Metropolitano Roberto Meléndez, Barranquilla
-
-Recta final del juicio a Dominique Pelicot
-==========================================
-
-Una vez que terminen, se espera que hablen por primera vez los dos hijos varones de Gisèle y Dominique Pelicot, David y Florian.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Gisèle Pelicot a su llegada al tribunal de Avignon.](https://www.elcomercio.com/wp-content/uploads/2024/11/gisele-efe-noviembre.jpg)
-
-El juicio contra [Dominique Pelicot](https://www.elcomercio.com/actualidad/mundo/proyectaran-videos-violaciones-gisele-pelicot.html "https://www.elcomercio.com/actualidad/mundo/proyectaran-videos-violaciones-gisele-pelicot.html") y otros **50 acusados de** violar a Gisèle (exesposa del primero), a lo largo de 10 años, bajo los **efectos de somníferos**, entra en la recta final con los últimos interrogatorios.
+La **Comisión de Fiscalización de la Asamblea Nacional** no logró aprobar el informe que recomendaba la continuación del juicio político contra **Andrea Arrobo**, **exministra de Energía y Minas**. Esta decisión se tomó el 18 de noviembre de 2024 en una sesión virtual.
 
 ### Más noticias
 
-* [Gisele Pelicot llegó al Tribunal de Aviñón con su testimonio](https://www.elcomercio.com/actualidad/mundo/gisele-pelicot-llego-al-tribunal-de-avinon-con-su-testimonio.html "Gisele Pelicot llegó al Tribunal de Aviñón con su testimonio")
-* [Con audiencia de testigos Gisèle Pelicot corre el riesgo de ser revictimizada](https://www.elcomercio.com/actualidad/mundo/con-audiencia-testigos-gisele-pelicot-corre-riesgo-ser-revictimizada.html "https://www.elcomercio.com/actualidad/mundo/con-audiencia-testigos-gisele-pelicot-corre-riesgo-ser-revictimizada.html")
-* [Se proyectarán los videos de las violaciones a Gisèle Pelicot](https://www.elcomercio.com/actualidad/mundo/proyectaran-videos-violaciones-gisele-pelicot.html "https://www.elcomercio.com/actualidad/mundo/proyectaran-videos-violaciones-gisele-pelicot.html")
+* [Asamblea rechazó sumario administrativo a Verónica Abad, ¿qué impacto tiene?](https://www.elcomercio.com/actualidad/politica/asamblea-rechazo-sumario-administrativo-veronica-abad-impacto.html "Asamblea rechazó sumario administrativo a Verónica Abad, ¿qué impacto tiene?")
+* [Comisión de la Asamblea fiscalizará las fallas del servicio de telefonía celular](https://www.elcomercio.com/actualidad/ecuador/comision-asamblea-fiscalizacion-fallas-telefonia-celular-claro-movistar.html "Comisión de la Asamblea fiscalizará las fallas del servicio de telefonía celular")
+* [Juicio político contra Andrea Arrobo es el siguiente en la lista de Fiscalización](https://www.elcomercio.com/actualidad/politica/juicio-politico-andrea-arrobo-siguiente-fiscalizacion.html "Juicio político contra Andrea Arrobo es el siguiente en la lista de Fiscalización")
 
-El lunes, 18 de noviembre de 2024, empiezó la undécima semana de este **macrojuicio,** con las declaraciones de los últimos acusados: **Nicolas F., periodista de 43 años; Boris M., trabajador de 37 años en una empresa de transportes; Philippe L., jardinero de 62; y Joseph C., jubilado de 69 años.**
+La falta de consenso en la votación obliga a que la **mesa legislativa** remita un informe de posturas al Pleno de la Asamblea. La resolución final sobre el caso deberá ser tomada en el **pleno legislativo**.
 
-Una vez que terminen, se espera que hablen por primera vez los dos **hijos varones de Gisèle** y **Dominique Pelicot, David y Florian.**
+División en la Comisión de Fiscalización sobre el juicio político a Andrea Arrobo
+---------------------------------------------------------------------------------
 
-La hija, Caroline Darian, ya lo hizo la primera semana, aunque podría volver a declarar, como Gisèle Pelicot, si ellas quieren.
+En la votación participaron **nueve legisladores**, pero no se alcanzaron los **cinco votos necesarios** para aprobar el informe. **Cuatro votos provinieron de legisladores oficialistas y aliados**, como Luis Alvarado, Adriana García, Lenin Rogel y Ramiro Vela.
 
-Desde que el pasado 2 de septiembre comenzó este juicio ante el **Tribunal de Aviñón (sureste de Francia)**, testificaron más de un **centenar de personas,** entre los 51 acusados, con edades que van de los **26 a los 74 años**, expertos en **psiquiatría y familiares**, como mujeres, exparejas e hijos.
+Los **cinco votos en contra** incluyeron a representantes correístas como Lenín Barreto y Ronald González, además de Cristina Chávez, **suplente de César Umajinga**. La negativa se sustentó en que no toda la responsabilidad de la **crisis energética puede recaer sobre Arrobo**.
 
-Además de Dominique Pelicot, **14 hombres reconocieron cometer las violaciones,** mientras que 35 lo rechazaron alegando diversos motivos, que van desde el desconocimiento de estar cometiendo dicho delito al sometimiento al exmarido de Gisèle Pelicot, al que acusan de ser el instigador.
+> "Andrea Arrobo"  
+>   
+> Porque la Comisión de Fiscalización rechazó el informe que recomendaba el juicio político a la exministra de Energía y Minas, Andrea Arrobo, por su presunta responsabilidad en la crisis energética, ahora el Pleno de la Asamblea decidirá sobre el juicio político. [pic.twitter.com/D4djo7ZEQB](https://t.co/D4djo7ZEQB)
+> 
+> — ¿Por qué es tendencia Ecuador? (@Tendenciasx\_ecu) [November 19, 2024](https://twitter.com/Tendenciasx_ecu/status/1858815920149299340?ref_src=twsrc%5Etfw)
 
-A uno de los acusados, Hassan O., de 30 años, se le juzga en su ausencia porque se dio a la fuga.
+Informe será debatido en el Pleno
+---------------------------------
 
-Los hechos investigados se remontan a 2011, cuando **Dominique Pelicot, que ahora tiene 71 años,** empezó a drogar con grandes dosis de ansiolíticos a su mujer, de la misma edad, para dejarla en estado de inconsciencia para violarla.
+Tras no aprobarse ni archivarse el informe, se elaborará un documento que incluirá las posturas de los asambleístas y el resumen del proceso. La presidenta de la Asamblea, [Viviana Veloz](https://es.wikipedia.org/wiki/Viviana_Veloz "https://es.wikipedia.org/wiki/Viviana_Veloz"), deberá convocar al Pleno para debatir el **informe en los próximos días**.
 
-Con el tiempo, insatisfecho con sus actos, empezó a contactar a **decenas de hombres a través de Internet** para que abusaran sexualmente de su mujer en su presencia en la casa familiar, situada en Mazan (sureste de Francia).
+En esta instancia, los legisladores decidirán con una **mayoría de 92 votos** si continuar o archivar el juicio político. Este proceso se considera clave para **definir responsabilidades en la crisis eléctrica del país**.
 
-Sin el consentimiento de Gisèle Pelicot
+Posturas encontradas sobre la crisis eléctrica
+----------------------------------------------
+
+El correísmo señaló que el a**ctual gobierno también tuvo conocimiento de la crisis desde 2023** y no actuó a tiempo. **Lenín Barreto** aseguró que **Andrea Arrobo** tiene una parte de la responsabilidad, pero no es la única culpable.
+
+> Con 4 votos a favor y 5 votos en contra, [@FiscalizacionAN](https://twitter.com/FiscalizacionAN?ref_src=twsrc%5Etfw) no aprueba la moción presentada por el asambleísta [@LeninRogelV](https://twitter.com/LeninRogelV?ref_src=twsrc%5Etfw). [#JuicioPolítico](https://twitter.com/hashtag/JuicioPol%C3%ADtico?src=hash&ref_src=twsrc%5Etfw) [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/8bdF9IJDck](https://t.co/8bdF9IJDck)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [November 18, 2024](https://twitter.com/AsambleaEcuador/status/1858578343957799204?ref_src=twsrc%5Etfw)
+
+Por su parte, **Cristina Chávez** destacó que informes técnicos muestran que la exministra intentó implementar **medidas para mitigar los efectos de la crisis**. Los oficialistas insisten en que el juicio es necesario para esclarecer los hechos y **determinar responsabilidades individuales.**
+
+Argentina enfrenta a Perú en eliminatorias sudamericanas
+========================================================
+
+La Selección de Argentina juega ante Perú en eliminatorias y busca de recuperarse de su última derrota con Paraguay.
+--------------------------------------------------------------------------------------------------------------------
+
+![Lionel Messi de Argentina protege un balón ante Gustavo Gómez de Paraguay en eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/11/2e72d5a5ec87ea8751e8fa3f96c1978b598da1bf.jpg)
+
+La **Selección de Argentina** recibirá este martes a su par de Perú, en ‘La Bombonera’ de Buenos Aires, en la duodécima jornada de las Eliminatorias Sudamericanas para el Mundial 2026, con la intención de concluir líder el año, ante un penúltimo clasificado que no se puede dejar más puntos.
+
+Se enfrentarán dos selecciones con presentes y proyecciones de futuro muy distintas: mientras que la ‘Albiceleste’ buscará recuperarse del traspié en Asunción ante **Paraguay** y terminar en primer lugar el 2024, para la ‘Bicolor’ una derrota marcaría comenzar a despedirse de la ilusión de ser mundialista en 2026.
+
+### Más noticias:
+
+* [Enner Valencia anotó su gol 44 con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-gol43-ecuador-eliminatorias.html "Enner Valencia anotó su gol 44 con la Selección de Ecuador")
+* [(En vivo) La Selección de Ecuador gana a Colombia por eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-colombia-partido-eliminatorias-sudamericanas-resultado.html "(En vivo) La Selección de Ecuador gana a Colombia por eliminatorias")
+* [Enner Valencia llega revitalizado con la Selección de Ecuador ante Colombia](https://www.elcomercio.com/deportes/seleccion-ecuador-enner-valencia-colombia.html "Enner Valencia llega revitalizado con la Selección de Ecuador ante Colombia")
+
+Luego del traspié ante la ‘Albirroja’ por 2-1 en el Defensores del Chaco -la tercera en Eliminatorias-, Argentina llega a este compromiso con Perú con tres bajas: **Cristian ‘Cuti’ Romero y Nahuel Molina**, mientras que **Nicolás Tagliafico** podrá estar pero se encuentra en recuperación por una fuerte contusión en el hombro derecho.
+
+A este escenario hay que sumarle que **Lionel Scaloni** ya había sufrido desde la designación de los 28 convocados otras tres bajas previo al encuentro ante Paraguay: Lisandro Martínez, Germán Pezzella y Nicolás González.
+
+Altas y Bajas para el partido entre la ‘Albiceleste’ y la ‘Albirroja’
+---------------------------------------------------------------------
+
+Entre las altas, previo al duelo ante la ‘Albirroja’ se convocó a Facundo Medina y el último viernes se incorporó para este último compromiso del año el jugador del Atlético de Madrid **Giuliano Simeone**.
+
+En este escenario, y pese a no haber tenido un buen rendimiento en Asunción, se perfila que el entrenador realice dos variantes obligadas en defensa con respecto al once inicial de aquel duelo: las salidas en defensa de **Nahuel Molina y Cristian ‘Cuti’ Romero** y los ingresos de Gonzalo Montiel y Leonardo Balerdi[.](https://www.google.com/search?sca_esv=03e995a0e07cb544&rlz=1C1CHBD_esEC1001EC1006&sxsrf=ADLYWIIqOT8SsrEg_QBczqbt3Oi4pDzeRw:1732059055815&q=Selecci%C3%B3n+de+f%C3%BAtbol+de+Ecuador&stick=H4sIAAAAAAAAAONgVuLUz9U3MK7Kijd-xGjCLfDyxz1hKe1Ja05eY1Tl4grOyC93zSvJLKkUEudig7J4pbi5ELp4FrEqBKfmpCYnZx7enKeQkqqQdnhXSVJ-DojpmlyamJJfBAA-6RpIZwAAAA&sa=X&ved=2ahUKEwiSxYHmxumJAxUKfTABHWItHGoQw8AMegQIIxAF "https://www.google.com/search?sca_esv=03e995a0e07cb544&rlz=1C1CHBD_esEC1001EC1006&sxsrf=ADLYWIIqOT8SsrEg_QBczqbt3Oi4pDzeRw:1732059055815&q=Selecci%C3%B3n+de+f%C3%BAtbol+de+Ecuador&stick=H4sIAAAAAAAAAONgVuLUz9U3MK7Kijd-xGjCLfDyxz1hKe1Ja05eY1Tl4grOyC93zSvJLKkUEudig7J4pbi5ELp4FrEqBKfmpCYnZx7enKeQkqqQdnhXSVJ-DojpmlyamJJfBAA-6RpIZwAAAA&sa=X&ved=2ahUKEwiSxYHmxumJAxUKfTABHWItHGoQw8AMegQIIxAF")
+
+Por el lado de Perú, el empate en el ‘Clásico del Pacífico’ ante Chile en el **Estadio Monumental de Lima** dejó las expectativas de clasificación mundialistas muy endebles.
+
+El técnico uruguayo Jorge Fossati para este duelo volverá a recuperar tres piezas como **Pedro Gallese, Carlos Zambrano y Bryan Reyna**, ausentes ante Chile por acumulación de amarillas.
+
+Entre las bajas, **Wilder Cartagena** vio su segunda amonestación ante ‘La Roja’ y no podrá jugar en Buenos Aires.
+
+Perú, que marcha penúltimo con **siete unidades** necesita dar el golpe en Buenos Aires para encarar las últimas tres dobles fechas FIFA del camino hacia Norteamérica con la ilusión de poder, al menos, pelear la séptima plaza de repechaje.
+
+Habrá, además, un cambio de escenario para este encuentro ya que la localía argentina se muda del ‘Monumental’ a ‘**La Bombonera**’ porque el estadio de River está siendo preservado y acondicionado para recibir el 30 de noviembre la final de la Copa Libertadores entre Atlético Mineiro y Botafogo.
+
+Alineaciones de Argentina vs. Perú
+----------------------------------
+
+**Argentina**: Emiliano Martínez; Gonzalo Montiel, Leonardo Balerdi, Nicolás Otamendi y Nicolás Tagliafico; Rodrigo De Paul, Enzo Fernández, Alexis Mac Allister; Lionel Messi, Lautaro Martínez y Julián Álvarez.
+
+**Perú**: Pedro Gallese; Andy Polo, Miguel Araujo, Carlos Zambrano, Alexander Callens, Luis Advíncula; Oliver Sonne, Jesús Castillo, Sergio Peña; Álex Valera y Bryan Reyna.
+
+Gerardo Martino renuncia como DT del Inter Miami de Lionel Messi
+================================================================
+
+El Inter Miami, equipo de Lionel Messi y Leonardo Campana, se quedó sin entrenador para la próxima temporada.
+-------------------------------------------------------------------------------------------------------------
+
+![Gerardo Martino y Lionel Messi celebrando con el Inter de Miami.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-19T175340.163.jpg)
+
+**Gerardo ‘Tata’ Martino** renunció como director técnico del **Inter Miami** este martes, 19 de noviembre de 2024. La decisión sorprende, especialmente tras liderar al equipo a una histórica temporada regular en la Major League Soccer (MLS), donde lograron el **MLS Supporters’ Shield** con un récord de 74 puntos.
+
+La información fue difundida por diversos medios y periodistas argentinos y estadounidenses cercanos al club. Aunque **Martino aún no ha confirmado públicamente su salida**, el argentino convocó una rueda de prensa para el viernes, 22 de noviembre, a las 10:30 (hora local).
+
+### Más noticias:
+
+* [(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay](https://www.elcomercio.com/deportes/futbol/lionel-messi-recibio-un-botellazo-y-se-enfurecio-en-paraguay.html "(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay")
+* [Neymar, un fichaje ‘imposible’ para el Inter Miami](https://www.elcomercio.com/deportes/futbol/neymar-inter-miami-tata-martino.html "Neymar, un fichaje ‘imposible’ para el Inter Miami")
+* [Inter Miami de Messi y Campana debuta con triunfo en los playoffs de la MLS](https://www.elcomercio.com/deportes/futbol/inter-miami-lionel-messi-leonardo-campana-debuta-triunfo-playoffs-mls.html "Inter Miami de Messi y Campana debuta con triunfo en los playoffs de la MLS")
+
+Gerardo Martino renuncia como DT
+--------------------------------
+
+En la rueda de prensa, **Martino** comparecerá acompañado del dueño del club, Jorge Mas, y de su presidente de operaciones deportivas, Raül Sanllehí.
+
+La convocatoria llegó después de que hayan surgido informaciones en medios estadounidenses y argentinos sobre su posible renuncia, por motivos personales, al banquillo del **Inter Miami**, donde milita su compatriota Lionel Messi.
+
+De confirmarse, su salida se daría tras la sorprendente eliminación del Inter Miami hace 10 días en la primera ronda de los ‘playoff’ de la **MLS**, donde partían como favoritos.
+
+El Inter Miami se había alzado con el MLS **Supporter’s Shield 2024**, título que lo acreditó como mejor equipo de la temporada regular tras haber marcado un récord en la liga de 74 puntos.
+
+Martino habrá ocupado el banquillo del Inter Miami durante una temporada y media, ganando también la **Leagues Cup en 2023**.
+
+El rosarino aterrizó en Florida a mitad de la temporada 2023, coincidiendo con la llegada al club de los también **exbarcelonistas** Messi, Jordi Alba y Sergio Busquets.
+
+Logros y números de Martino con Inter Miami
+-------------------------------------------
+
+En una temporada y media al mando del Inter Miami, **Gerardo Martino** dirigió un total de 67 partidos, desde mediados de 2023 hasta finales de 2024.
+
+El técnico argentino obtuvo un balance destacado, con **35 victorias, 16 empates y 16 derrotas**, logrando un rendimiento general del **60%**. Bajo su dirección, el equipo marcó **145 goles** y recibió **105**, consolidando un estilo ofensivo y competitivo.
+
+Además, Martino guio a las ‘Garzas’ a los **dos únicos títulos en la historia del club**: la **Leagues Cup 2023** y la **MLS Supporters’ Shield 2024**, logrando hitos significativos que dejaron una huella imborrable en el equipo.
+
+Enner Valencia anotó su gol 44 con la Selección de Ecuador
+==========================================================
+
+Enner Valencia debutó en la Selección de Ecuador con Reinaldo Rueda como entrenador en 2012.
+--------------------------------------------------------------------------------------------
+
+![Enner Valencia, goleador histórico de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_goles_1.jpg)
+
+Enner Valencia abrió el marcador en la victoria parcial de la Selección de Ecuador por 1-0 ante Colombia en la **fecha 12 de las eliminatorias sudamericanas al Mundial 2026**, que se juega este martes 19 de noviembre en el estadio Metropolitano de Barranquilla.
+
+Para Enner Valencia es el tercer gol en las actuales eliminatorias. El **primero fue en la octava jornada contra Perú** en el estadio Rodrigo Paz Delgado, con lo que puso fin a siete años de sequía goleadora en la capital ecuatoriana. 
+
+### Más noticias:
+
+* [Deportivo Quito tiene rival confirmado en el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-rival-ascenso-ecuador.html "Deportivo Quito tiene rival confirmado en el Ascenso Nacional")
+* [Hallan muerto en Grecia al futbolista George Baldock](https://www.elcomercio.com/deportes/futbol/hallan-muerto-en-grecia-al-futbolista-george-baldock.html "Hallan muerto en Grecia al futbolista George Baldock")
+* [Luis Saritama confía en el legado que dejará la nueva generación de Ecuador](https://www.elcomercio.com/deportes/futbol/luis-saritama-confia-legado-que-dejara-la-nueva-generacion-de-ecuador.html "Luis Saritama confía en el legado que dejará la nueva generación de Ecuador")
+
+El segundo fue en la goleada 4-0 contra Bolivia en el estadio Monumental de Guayaquil. Abrió el marcador con un tiro penal en el primero tiempo.
+
+Con el tanto ante Colombia, Valencia llegó a los 44 goles en 95 partidos, y se consolidó como el máximo goleador histórico de la Tri de todos los tiempos y cada vez se aleja de sus perseguidores. 
+
+En este ítem el esmeraldeño está secundando por Agustín Delgado (31), Eduardo Hurtado (26), Christian Benítez (24), **Álex Darío Aguinaga (23), Felipe Caicedo (22), Edison Méndez (18)**, Ney Raúl Avilés (16), Ariel Graziani (15) y Jaime Iván Kaviedes (15). 
+
+Ninguno de los nueve perseguidores de ‘Superman’ están activos, por lo que su liderado como máximo goleador histórico no está en peligro.  
+
+De los actuales seleccionados, **Gonzalo Plata (Flamengo) es el que más goles tiene con siete**. Le siguen Félix Torres (Corinthians) con cinco, y Pervis Estupiñán (Brighton & Hove Albión) con cuatro. 
+
+> 🗣️ ¡ENNER LO VOLVIÓ A HACER EN EL MONUMENTAL!  
+>   
+> 📌 Desde los 12 pasos Enner abre el marcador  
+>   
+> ⚽️ [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw) 🇪🇨 1🆚 0 [#Bolivia](https://twitter.com/hashtag/Bolivia?src=hash&ref_src=twsrc%5Etfw) 🇧🇴[#LaTrixECDF](https://twitter.com/hashtag/LaTrixECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/kyPRhhWYmS](https://t.co/kyPRhhWYmS) [pic.twitter.com/KbeoH3s2BQ](https://t.co/KbeoH3s2BQ)
+> 
+> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [November 15, 2024](https://twitter.com/ElCanalDFutbol/status/1857219247048442221?ref_src=twsrc%5Etfw)
+
+Guatemala, 1
+
+Enner Valencia tiene a Bolivia como ‘cliente’
+---------------------------------------------
+
+A Bolivia es la Selección a la que más goles le anotó **Enner Valencia a lo largo de su carrera con la Tri**.
+
+Son nueve los goles recibidos por la ‘Verde’, tanto en eliminatorias mundialistas, Copa América y en amistosos.
+
+El primer tanto se remonta al **6 de septiembre de 2014 en un amistoso que se jugó** en el Lockhart Stadium, actual casa del Inter Miami.
+
+Christian Noboa (Emelec), Juan Cazares (Santos de Brasil) y Junior Sornoza (Independiente Del Valle) completaron el marcador.
+
+En la Copa América Chile 2015 marcó en la derrota 2-3. Como es costumbre, E**cuador regresó a casa al ser eliminado en la fase de grupos**.
+
+Tanto para las eliminatorias a Rusia 2018, Catar 2022 y Canadá, Estados Unidos y México, **Valencia también le anotó a los bolivianos.**
+
+Enner Valencia y sus goles mundialistas
 ---------------------------------------
 
-Eso ocurría siempre **sin el consentimiento de Gisèle**, que estaba completamente anestesiada por los efectos de los medicamentos, como el mismo Dominique Pelicot admitió, nada más empezar el juicio.
+Con la Selección de Ecuador se convirtió en el futbolista del con más tantos en la competición (seis).
 
-Los métodos eran claros y repetitivos, según relató el principal acusado, que se enfrenta a penas que pueden llegar a los **20 años de prisión.**
+En 2014 vulnera el arco de **Suiza (1) y Honduras (2)**. En 2022 de Catar (2) y Países Bajos (1).
 
-Las reglas que debían cumplir
+Agustín Delgado (3), Carlos Tenorio (2)**, Jaime Iván Kaviedes (1), Édison Méndez (1)**,  y Moisés Caicedo (1), son los otros ecuatorianos que han anotado en los mundiales.
+
+San viernes
+-----------
+
+Cortes de luz en Quito este miércoles 20 de noviembre
+=====================================================
+
+Los cortes de luz en la capital son definidos por la Empresa Eléctrica Quito.
+-----------------------------------------------------------------------------
+
+![Los cortes de luz en Quito este miércoles 20 de noviembre son en dos franjas para el sector residencial y una sola en el sector industrial.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-miercoles-20-noviembre.jpg)
+
+Los **cortes de luz** en **Quito** para este **miércoles 20 de noviembre** de 2024 son de hasta ocho horas.
+
+La **Empresa Eléctrica Quito** definió la programación de la suspensión del servicio de energía eléctrica por sectores y franjas horarias.
+
+### Más noticias:
+
+* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
+* [Cortes de luz se reducen desde este 18 de noviembre en Quito](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-desde-este-18-de-noviembre-en-quito.html "Cortes de luz se reducen desde este 18 de noviembre en Quito")
+
+Horarios de cortes de luz en Quito este miércoles 20 de noviembre
+-----------------------------------------------------------------
+
+Para esta semana, el Gobierno anunció la **reducción** de los cortes de luz de 12 a ocho horas, hasta el jueves.
+
+El Ministerio de Energía y Minas dijo que esta reducción se produce por el mejoramiento de las condiciones hídricas en la zona de **Coca Codo Sinclair**.
+
+Los cortes de luz reducidos aplican del lunes 18 hasta al jueves 21 de noviembre, a **escala nacional**.
+
+Además, la noche de este sábado 16 de noviembre de 2024, la Cancillería informó que los gobiernos de **Ecuador y Colombia** llegaron a un acuerdo para la entrega de energía, con lo que se puede solventar parte de los cortes de luz en el país.
+
+“En virtud de las excelentes relaciones bilaterales, Colombia proveerá de energía eléctrica al Ecuador en apoyo a la actual crisis energética. Esto refleja el trabajo en equipo de ambos países”, publicó la **Cancillería**.
+
+Según la resolución, el **gobierno colombiano** reactivará la exportación de energía a Ecuador bajo un esquema de intercambio diario de excedentes.
+
+Es decir, la electricidad que sobra a Colombia la puede vender a Ecuador, explicó Alejandro Castañeda, presidente de la **Asociación de Empresas Generadoras de Energía en Colombia**.
+
+Colombia puede vender hasta 450 o 500 MW al día, que es lo que soporta la **red de conexión** entre los dos países.
+
+Los cortes de luz en Quito, se dividen en dos franjas horarias de cuatro horas cada uno para el **sector residencial.**
+
+En el sector industrial, los cortes son de siete horas consecutivas.
+
+A continuación, los cortes de luz en Quito este miércoles **20 de noviembre** de 2024:  
+
+¿Qué pasará con el servicio de internet fijo tras suspensión de operador de Telconet?
+=====================================================================================
+
+El Gobierno garantiza la continuidad del servicio de Internet fijo en Ecuador tras la extinción del Título Habilitante de Cable Andino S.A., proveedora de Telconet.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El servicio de internet fijo está garantizado, dice la Arcotel.](https://www.elcomercio.com/wp-content/uploads/2024/11/internet-1911.jpg)
+
+La mañana de este martes 19 de noviembre de 2024, la Agencia de Regulación y Control de las Telecomunicaciones (Arcotel) informó sobre la extinción del título habilitante de la empres**a Cable Andino S.A,** que brinda el servicio del cable submarino a **Telconet**, proveedora de **internet fijo** en el Ecuador. Miles de usuarios mostraron preocupación tras la decisión del Gobierno Nacional[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Arcotel suspende operación del cable submarino que provee a Telconet](https://www.elcomercio.com/actualidad/negocios/arcotel-suspende-operacion-del-cable-submarino-que-provee-a-telconet.html "Arcotel suspende operación del cable submarino que provee a Telconet")
+* [Con los cortes de luz el internet también se interrumpe, ¿por qué?](https://www.elcomercio.com/actualidad/negocios/por-que-internet-depende-electricidad-funcionar.html "Con los cortes de luz el internet también se interrumpe, ¿por qué?")
+* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
+
+Ante la incertidumbre ciudadana, la Arcotel garantizó que los usuarios del servicio de **Internet fijo** en Ecuador no enfrentarán interrupciones. Esto pese a la extinción del **principal instrumento legal**, que le permite operar a Cable Andino S.A. en el país.
+
+“La resolución adoptada desde la Arcotel, debido a las irregularidades durante el otorgamiento del Título Habilitante a la empresa **Cable Andino S.A**., y la posterior extinción del mismo, no interrumpirá la  
+prestación del servicio a sus usuarios”, aseguró.
+
+Según el artículo 314 de la Constitución de la República, el artículo 4 de la Ley Orgánica de Telecomunicaciones y el Reglamento Orgánico de Títulos Habilitantes, **Cable Andino S.A.** está obligada a continuar brindando el servicio hasta que se realice la reversión de bienes que corresponda, agregó.
+
+> Garantizamos la continuidad de los servicios de internet fijo en el Ecuador. [pic.twitter.com/ODej9J9lHk](https://t.co/ODej9J9lHk)
+> 
+> — Arcotel Ecuador (@Arcotel\_ec) [November 19, 2024](https://twitter.com/Arcotel_ec/status/1858957075201561086?ref_src=twsrc%5Etfw)
+
+Esto obedece al carácter de **delegado del Estado ecuatoriano** que tienen las empresas proveedoras de servicios públicos.
+
+Sanciones por interrupción del servicio de internet
+---------------------------------------------------
+
+Asimismo, **Telconet**, accionista mayoritario de **Cable Andino S.A.**, está sujeta a las disposiciones del artículo 346 del Código Orgánico Integral Penal (COIP). Este artículo establece penas de uno a tres años de prisión para quienes **interrumpan, obstaculicen o paralicen** la prestación de un servicio público. Por lo tanto, cualquier intento de suspender el **acceso a Internet** podría derivar en sanciones legales, señaló la Agencia.
+
+Telconet es un actor clave en el mercado de proveedores de internet en Ecuador. La firma, a través de Cable Andino S.A. presta el servicio de **cable submarino** a empresas proveedoras de internet como Megadatos (Netlife), Xtrim, entre otras.
+
+Adicionalmente, la Arcotel señaló que se está trabajando en un **plan de reversión** que permita asegurar la continuidad operativa y que priorice el bienestar de los ciudadanos.
+
+De Balzar al mundo: Byron Villamar, el genio detrás del brillo de la Miss Universo
+==================================================================================
+
+Byron Villamar es un ejemplo de cómo la pasión, el talento y la perseverancia pueden romper barreras.
+-----------------------------------------------------------------------------------------------------
+
+![Byron Villamar junto a Miss Dinamarca.](https://www.elcomercio.com/wp-content/uploads/2024/11/byron-villamar-miss-universo-El-Comercio.jpg)
+
+**Byron Villamar** desafió las limitaciones de su entorno para construir una carrera brillante. Soñaba con maquillar en el concurso de belleza más importante del mundo, el **Miss Universo**, y lo logró.
+
+No solo cumplió esta meta sino algo mejor. El destino puso en sus sagradas manos a Victoria Kjaer, la candidata de Dinamarca que ganó el certamen.
+
+La historia de este talentoso ecuatoriano empieza en Guayaquil, la ciudad donde nació, pero continúa en el cantón Balzar donde creció.
+
+Jugaba con patinetas, con Nintendo y salía con sus amigos, dice. Combinaba su espíritu emprendedor con su creatividad.
+
+Es feliz al recordar que lustraba zapatos de personas conocidas y que vendía espuma y polvo de carnaval en febrero para generar ingresos. Era carero, recuerda, pero le iba bien cuando a la competencia se le terminaba el _stock_.
+
+Para Byron, “no importa de dónde vienes, sino hacia dónde vas”, y su vida refleja esta filosofía.
+
+**Primeros pasos en el arte**
 -----------------------------
 
-En concreto, buscaba a los hombres en sitios en línea, les advertía de que su mujer de entonces -están divorciados desde agosto- **estaría “dormida”,** que **no tenían que oler a tabaco ni tener las uñas largas,** que tenían prohibido hacer ruido, que tenían que hacer caso de lo que él les dijera, para evitar ser descubiertos, **y que él lo grabaría todo.**
+A los 17 años, se mudó a Guayaquil en busca de oportunidades. Trabajó en el call center del SRI, en una cadena de comida rápida y en la aseguradora de una tienda de ropa.
 
-“Tenía la familia ideal, **lo arruiné todo y ahora debo pagar**“, reconoció de forma tajante el pasado 17 de septiembre. Sin embargo, puntualizó que no es el único culpable: “**Soy un violador, como todos los demás acusados, que estaban al corriente de todo”.**
+En 2002, el destino lo acercó a su sueño. Maquilló a una amiga para un concurso de belleza.
 
-Esos actos se alargaron prácticamente una década, hasta septiembre 2020, cuando Dominique Pelicot fue descubierto grabando bajo las faldas de **varias clientas de un supermercado** y fue sorprendido por un guardia de seguridad.
+Utilizó cosméticos que le prestó su madre. La victoria de la candidata marcó el inicio de una pasión que no había imaginado.
 
-La mujer sufría principio de Alzheimer
+Con talento innato y determinación, Byron empezó a destacarse en el ámbito del maquillaje. Aunque no tuvo una formación al inicio, confiaba en su habilidad natural para combinar colores y su ojo artístico. Más tarde, perfeccionó su técnica con estudios especializados.
+
+**El salto al estrellato**
+--------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/byron-villamar-miss-universo-El-Comercio-1-1024x683.jpg)
+
+Gracias a su amistad con el fallecido periodista Miguel Cedeño, Byron ingresó al mundo de la televisión. Maquilló presentadores, modelos y cantantes.
+
+Su estilo le permitió destacar entre sus colegas. Este enfoque lo llevó a trabajar en el Miss Universo.
+
+En 2023, Byron maquilló a Sheynnis Palacios, la Miss Salvador que se coronó ganadora del concurso. En 2024, repite su hazaña con la candidata de Dinamarca, Victoria Kjær Theilvig.
+
+La guapa danesa de ojos celestes le pidió no utilizar colores oscuros en su mirada. Se comunicaban en inglés, cuenta Villamar.
+
+El artista aprendió ese idioma porque se quería convertir en tripulante de cabina, pero las cosas no fueron por ese camino.
+
+En el concurso, la Miss Dinamarca resaltó sus ojos con sombras de tonos escogidos por Villamar de acuerdo a su colorimetría. Lo más adecuado para ella, explica él, eran los tonos con pigmentos más anaranjados y rojos.
+
+**Más allá del maquillaje**
+---------------------------
+
+![Byron Villamar también maquilló a Sheynnis Palacios. ](https://www.elcomercio.com/wp-content/uploads/2024/11/byron-villamar-miss-universo-El-Comercio-2-1024x683.jpg)
+
+Byron Villamar también maquilló a Sheynnis Palacios.
+
+A sus 30 años, Byron combina su éxito profesional con una vida personal enriquecedora. Casado y con doce gatos, se describe como un hombre familiar y animalista.
+
+Además de ser el apoyar a su familia, ha asumido el rol de mentor y padre para su hermano menor, apoyándolo para cumplir sus sueños.
+
+**Sueños futuros**
+------------------
+
+Aunque ha alcanzado el reconocimiento en Miss Universo, Byron no se detiene. Aspira a formar parte del equipo de maquillaje del **Victoria’s Secret Fashion Show** y colaborar en producciones de alto perfil, como videos musicales.
+
+Para él, el maquillaje no solo es una profesión, sino un medio para transformar vidas y realzar la belleza que todas las mujeres tienen.
+
+De apostar zapatos en Balzar a maquillar a la mujer más hermosa del universo, su historia inspira a quienes sueñan en grande, sin olvidar sus raíces.
+
+Enner Valencia llega revitalizado con la Selección de Ecuador ante Colombia
+===========================================================================
+
+La Selección de Ecuador se enfrenta a Colombia en eliminatorias y el delantero Enner Valencia llega tras vivir un dulce momento.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Enner Valencia, delantero de la Selección de Ecuador, en un entrenamiento.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-19T140843.949.jpg)
+
+**Enner Valencia** estará presente con la **Selección de Ecuador** en su partido como visitante ante Colombia por eliminatorias rumbo al Mundial 2026. Para tal cotejo, el delantero tricolor llega tras reencontrarse con las redes.
+
+El delantero ecuatoriano volvió a anotar con el combinado nacional después de dos cotejos de clasificación. Antes, frente a **Paraguay y Uruguay**, el delantero estuvo presente, pero no consiguió anotar y todo terminó en un empate sin goles.
+
+### Más noticias:
+
+* [(En vivo) La Selección de Ecuador visita a Colombia por eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-colombia-partido-eliminatorias-sudamericanas-resultado.html "(En vivo) La Selección de Ecuador visita a Colombia por eliminatorias")
+* [Alineaciones confirmadas de la Selección de Ecuador vs. Colombia](https://www.elcomercio.com/deportes/seleccion-ecuador-colombia-alineaciones-partido.html "Alineaciones confirmadas de la Selección de Ecuador vs. Colombia")
+* [La Selección de Ecuador Sub-20 cayó ante Colombia](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-sub-20-cayo-ante-colombia.html "La Selección de Ecuador Sub-20 cayó ante Colombia")
+
+La última vez que anotó **Enner Valencia** antes del cotejo contra los bolivianos fue frente a Perú en la octava fecha eliminatoria. Aquel tanto fue diferencial y representó la victoria y tres puntos para el conjunto de **Sebastián Beccacece**.
+
+Ante Bolivia, la **Selección de Ecuador** ganó por un marcador de 4-0 en el Estadio Monumental de Guayaquil y la actuación de ‘Superman’ fue fundamental. El goleador no solo colaboró en parte de los goles, sino también jugadas que terminaron en festejo[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+El partido de Enner Valencia ante Bolivia con la Selección de Ecuador
+---------------------------------------------------------------------
+
+En el choque ante el conjunto boliviano, **Enner Valencia** anotó el primer tanto gracias a un tiro desde el punto penal. El delantero sacó un remate fuerte y al medio que venció al guardameta rival, a pesar de que este amortiguó la pelota.
+
+En dos de los tres goles consecutivos, el ariete también estuvo presente. Este colaboró con dos asistencias para **Gonzalo Plata** y para **Alan Minda**. En ambas arrastró marca y fabricó espacios para una línea de pase que encuentre a sus compañeros.
+
+Después de haber iniciado el cotejo como titular, Valencia abandonó el terreno de juego a los 68 minutos. **Ángel Mena** entró en sustitución y para jugar su último partido.
+
+Cortes de luz en Guayaquil para este miércoles 20 de noviembre
+==============================================================
+
+Las zonas residenciales de Guayaquil tendrán cortes de luz de ocho horas este miércoles 20 de noviembre.
+--------------------------------------------------------------------------------------------------------
+
+![CNEL es la empresa eléctrica autorizada para distribuir el servicio en Guayaqul](https://www.elcomercio.com/wp-content/uploads/2024/11/guayaquil-cortes-luz-cnel.jpg)
+
+Las zonas residenciales de **Guayaquil** tendrán cortes de luz de **ocho horas** este miércoles 20 de noviembre de 2024.
+
+### Más noticias
+
+* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
+* [Dos empresas textiles de Otavalo generan energía limpia con paneles solares](https://www.elcomercio.com/videos/dos-empresas-textiles-de-otavalo-generan-energia-limpia-con-paneles-solares.html "Dos empresas textiles de Otavalo generan energía limpia con paneles solares")
+* [¿La ciclovía podría ser una alternativa durante los cortes de luz en Quito?](https://www.elcomercio.com/actualidad/quito/ciclovia-quito-bicicleta-transporte-cortes-luz.html "¿La ciclovía podría ser una alternativa durante los cortes de luz en Quito?")
+
+Según el cronograma de **apagones programados** compartido por la Corporación Nacional de Electricidad (**CNEL**), la suspensión se redujo de 12 a ocho horas en la ciudad desde el lunes 18 de noviembre
+
+Cortes de luz de ocho horas
+---------------------------
+
+El **racionamiento eléctrico** en Ecuador inició temporalmente en abril de 2024 y se retomó el 23 de septiembre debido a su **baja capacidad hidrológica**.
+
+Desde entonces, los cortes de luz no han cesado, llegando en algunos casos a durar hasta **14 horas al día**. Sin embargo, el Ministerio de Energía ha anunciado que, entre el 18 y el 21 de noviembre de 2024, la duración de los apagones en Guayaquil y en las demás ciudades del país se reducirá a ocho horas.
+
+La mejora en los caudales de los ríos de la **Amazonía** y la compra de energía a Colombia son las principales razones de esta reducción.
+
+De acuerdo con el Ministerio, estas medidas permiten un **alivio parcial** a la situación, aunque los apagones continuarán de manera programada.
+
+Energía desde Colombia da un alivio temporal a Ecuador
+------------------------------------------------------
+
+En cuanto a la compra de energía, la Corporación Eléctrica del Ecuador (**Celec**) detalló que el país firmó cuatro contratos con Colombia para la importación de energía eléctrica.
+
+Estos acuerdos incluyen la mejora de **150 MW** para la central Esmeraldas IV, **122,1 MW** para la central Durán, y un alquiler de **260 MW** para la central Pascuales durante 18 meses. Además, se concretó la compra de **100 MW** para la central San Juan de Manta.
+
+A pesar de estos esfuerzos, la **escasez de lluvias** continúa afectando al sur del país, en donde se encuentran tres de las principales hidroeléctricas de Ecuador: Paute, Mazar y Sopladora.
+
+La falta de precipitaciones ha dificultado la recuperación de los **niveles de agua** necesarios para un suministro eléctrico estable.
+
+Cortes de luz en Guayaquil para el miércoles 20 de noviembre
+------------------------------------------------------------
+
+Según el cronograma establecido por la CNEL, los **cortes programados** en Guayaquil para el miércoles 20 de noviembre serán de ocho horas en las zonas residenciales[.](https://www.cnelep.gob.ec/ "https://www.cnelep.gob.ec/")
+
+En las **zonas industriales**, la duración de los apagones será de tres o seis horas, dependiendo de la ubicación.
+
+Los cortes se distribuirán en **dos y tres franjas horarias** que incluyen la madrugada, mañana, tarde o noche, dependiendo del sector.
+
+Conoce el **cronograma completo** de cortes de luz para Guayaquil por horarios y sectores:
+
+Brasil adoptará protocolo antirracista en las eliminatorias
+===========================================================
+
+La Selección de Brasil se enfrentará a Brasil en la fecha 12 de las eliminatorias al Mundial 2026.
+--------------------------------------------------------------------------------------------------
+
+![Vinícius Júnior, jugador de la Selección de Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/11/racismo_gesto_1.jpg)
+
+La Selección de Brasil será local en la fecha 12 de las eliminatorias sudamericanas al Mundial 2026. Jugará en el en **estadio Fonte Nova de Salvador** a partir de las 19:45, ante la siempre difícil Uruguay.
+
+El **historial registra 38 victorias de la Selección de Brasil** en los 80 juegos. Uruguay se llevó 21 victorias (destaca el 2-1 de 1950 con el que ganaron la Copa del Mundo en el Maracaná) y 21 empates.
+
+### Más noticias:
+
+* [¿Cuándo juega Ecuador vs. Colombia por eliminatorias?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-vs-colombia-por-eliminatorias.html "¿Cuándo juega Ecuador vs. Colombia por eliminatorias?")
+* [Liga de Portoviejo confirmó horario para recibir al Deportivo Quito](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-deportivo-quito-nacional.html "Liga de Portoviejo confirmó horario para recibir al Deportivo Quito")
+* [Para Francisco Egas, Liga de Quito no cumplió el reglamento](https://www.elcomercio.com/deportes/futbol/francisco-egas-liga-quito-reglamento.html "Para Francisco Egas, Liga de Quito no cumplió el reglamento")
+
+La última vez que los uruguayos ganaron en suelo brasileño fue el **26 de noviembre de 1992 por un marcador de 2-1**, pero fue en un amistoso jugado en el Estadio Amigão, en Campiña Grande, con Carlos Alberto Parreira como entrenador.
+
+“Va a ser un partido muy difícil, muy complicado, también para Uruguay. Intentaremos crear tanto como sea posible e intentaremos neutralizar a nuestro oponente. La afición puede esperar la misma dedicación de siempre de la selección brasileña”, declaró Dórival Júnior, entrenador de Brasil en la previa.
+
+**Brasil ocupa la cuarta casilla con 17 puntos y un gol diferencia de +6**, mientras que Uruguay la segunda posición con 19 unidades y +8 de gol diferencia. Una victoria de cualquiera de las dos escuadras las afianzará entre las tres primeras selecciones al final de 2024.
+
+Sin embargo, una de las **principales novedades será la aplicación del protocolo que la FIFA** elaboró para denunciar actos racistas que se registren dentro del desarrollo de un partido de fútbol a escala global.
+
+¿Cómo se aplica el protocolo?
+-----------------------------
+
+La Confederación Brasileña de Fútbol (CBF) mencionó que ante Uruguay se utilizará por primera vez el Gesto Antirracismo de la FIFA.
+
+Al cruzar los brazos frente al pecho, apunta la CBF, **los jugadores podrán indicarle directamente al árbitro** que están siendo objeto de abuso racista, lo que incitará al árbitro a iniciar el procedimiento de tres pasos.
+
+Con la primera etapa, el partido se detendrá. Si el abuso continúa, **el partido será suspendido, abandonando los jugadores** y los árbitros del terreno de juego. Si el incidente no cesa, en la tercera fase, se suspenderá el partido.
+
+“El partido de la Selección en Bahía, la ciudad con población afrodescendiente fuera de África, **marcará el lanzamiento oficial** del protocolo contra los actos racistas en el fútbol brasileño”, afirmó el presidente de la CBF, Ednaldo Rodrigues.
+
+El gesto fue aprobado por unanimidad en el 74º Congreso de la FIFA en Bangkok, Tailandia, el 17 de mayo de este año.
+
+El gesto global de **brazos cruzados para señalar abuso racista se convirtió** en parte del protocolo del fútbol cuando se implementó en la Copa Mundial Femenina Sub-20 de la FIFA Colombia 2024, afirma la FIFA.
+
+San viernes
+-----------
+
+Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela
+======================================================================================
+
+Esta es la primera vez que Estados Unidos utiliza el término "presidente electo" para referirse a Edmundo González Urrutia.
+---------------------------------------------------------------------------------------------------------------------------
+
+![El opositor venezolano Edmundo González Urrutia, exiliado en España, durante su participación este lunes en un foro.](https://www.elcomercio.com/wp-content/uploads/2024/11/edmundo-gonzalez-efe.jpg)
+
+Estados Unidos reconoció este martes, 19 de noviembre de 2024, por primera vez en público al abanderado de la oposición mayoritaria, [Edmundo González Urrutia,](https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-fecha-posesion-presidente-venezuela.html "https://www.elcomercio.com/actualidad/mundo/edmundo-gonzalez-fecha-posesion-presidente-venezuela.html") como **presidente electo de Venezuela** tras las elecciones del pasado 28 de julio.
+
+### Más noticias
+
+* [Kristi Noem será la secretaria de Seguridad Nacional de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/kristi-noem-sera-secretaria-seguridad-nacional.html "Kristi Noem será la secretaria de Seguridad Nacional de Estados Unidos")
+* [Marco Rubio, el latino que será secretario de Estado de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/marco-rubio-latino-sera-canciller-donald-trump.html "Marco Rubio, el latino que será secretario de Estado de Estados Unidos")
+* [Maduro ve la victoria de Trump como ‘nuevo comienzo’ para Estados Unidos y Venezuela](https://www.elcomercio.com/actualidad/mundo/maduro-ve-la-victoria-de-trump-como-nuevo-comienzo-para-estados-unidos-y-venezuela.html "Maduro ve la victoria de Trump como ‘nuevo comienzo’ para Estados Unidos y Venezuela")
+
+“El pueblo venezolano se pronunció contundentemente el 28 de julio y nombró a Edmundo González como presidente electo. La democracia exige **respeto a la voluntad de los votantes**“, dijo el secretario de Estado, Antony Blinken, en redes sociales.
+
+La Administración de Joe Biden reconoció el pasado 1 de agosto a González Urrutia como el **ganador de los comicios**, pero evitó hasta ahora declararlo **“presidente electo” de Venezuela.**
+
+El **Consejo Nacional Electoral (CNE)** proclamó en esos comicios la reelección de Nicolás Maduro como presidente de Venezuela, pero el organismo no publicó las actas con los resultados desagregados de las elecciones.
+
+La **Plataforma Unitaria Democrática (PUD),** la principal coalición opositora del país, presentó por su parte unas actas que dan la victoria a su candidato, González Urrutia. Desde septiembre se encuentra exiliado en España denunciando una persecución de las autoridades venezolanas.
+
+El término presidente electo
+----------------------------
+
+Esta es la primera vez que Estados Unidos utiliza el término **“presidente electo”** para referirse a Edmundo González Urrutia, confirmó a un alto funcionario de la Administración.
+
+La razón por la que el Gobierno de Biden decidió emplear este término está relacionada con la **inminencia de la toma de posesión de Madur**o para un tercer mandato, que está prevista para el 10 de enero.
+
+Según esa fuente, esta designación no implica que Estados Unidos reconozca a González Urrutia como presidente venezolano, pero sí recalca su postura de considerarlo como el **ganador de las elecciones.**
+
+De acuerdo con este funcionario, la situación es distinta a la de 2019, cuando el primer gobierno de Donald Trump (2017-2021) llamó **“presidente legítimo” al opositor Juan Guaidó.**
+
+Un portavoz del Departamento de Estado dijo a EFE que está “claro” tanto por Estados Unidos como por otros países y observadores electorales que González Urrutia “tuvo el mayor número de votos” y eso “lo convierte en presidente electo”.
+
+“El pueblo venezolano expresó de manera abrumadora e inequívoca su deseo de un cambio democrático; las actas de votación disponibles públicamente así lo dicen”, declaró. 
+
+Alineaciones confirmadas de la Selección de Ecuador vs. Colombia
+================================================================
+
+La Selección de Ecuador tiene listo a su equipo para enfrentar a la Selección de Colombia en las eliminatorias sudamericanas.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Gonzalo Plata estará entre los titulares de la Selección de Ecuador ante Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-19T171155.611.jpg)
+
+La **Selección de Ecuador** tiene a su equipo decidido para enfrentar a Colombia como visitante en Barranquilla. A partir de las 18:00 de este martes 19 de noviembre del 2024, el conjunto tricolor se medirá ante los cafeteros por eliminatorias al Mundial 2026.
+
+El combinado tricolor arriba para el partido ante los colombianos con buenas sensaciones a partir de su último choque ante **Bolivia**. La escuadra ecuatoriana logró un triunfo de 4-0 ante la ‘Verde’ como local y en Guayaquil, adonde trasladó su sede para tal cotejo.
+
+### Más noticias:
+
+* [La Selección de Ecuador Sub-20 cayó ante Colombia](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-sub-20-cayo-ante-colombia.html "La Selección de Ecuador Sub-20 cayó ante Colombia")
+* [¿A qué hora juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/horario-partido-ecuador-colombia-eliminatorias-sudamericanas.html "¿A qué hora juega la Selección de Ecuador vs. Colombia?")
+* [¿Dónde ver a la Selección de Ecuador contra Colombia?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-colombia-donde-ver-eliminatorias.html "¿Dónde ver a la Selección de Ecuador contra Colombia?")
+
+El duelo ante los bolivianos constituyó el mejor de la Tri durante la era de **Sebastián Beccacece** y en las eliminatorias en cuanto a resultado. Un doblete de Gonzalo Plata y goles de Enner Valencia y Alan Minda sellaron el marcador.
+
+El partido ante la ‘Verde’, además, sirvió para mitigar dudas con respecto al rendimiento y que **Beccacece** encuentre el gol con su equipo. Antes del choque con **Bolivia** y bajo el mando del argentino, el equipo de la mitad del mundo solo había anotado un gol en un triunfo, una derrota y dos empates.
+
+Colombia, a su vez, cayó en la fecha previa ante **Uruguay** en Montevideo. En un inicio, los cafeteros se pusieron por delante en el marcador, pero la ‘Celeste’ lo dio vuelta en los últimos minutos y se impuso por 3-2[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+Alineaciones de la Selección de Ecuador vs. Colombia
+----------------------------------------------------
+
+**Selección de Ecuador**: Hernán Galíndez (arquero); Alan Franco, Piero Hincapié, Willian Pacho, Joel Ordóñez, Pervis Estupiñán (defensas); Gonzalo Plata, Moisés Caicedo, Pedro Vite, Alan Minda (volantes); Enner Valencia (delantero).
+
+**Selección de Colombia**: Camilo Vargas (arquero); Daniel Muñoz, Davinson Sánchez, John Lucumí, Joan Mojica (defensas); Juan Portilla, Richard Ríos, John Arias, James Rodríguez, Luis Díaz (volantes); Jhon Córdoba (delantero).
+
+Paraguay sobrevivió en El Alto y empató ante Bolivia
+====================================================
+
+La Selección de Bolivia escaló al sexto puesto en la tabla de posiciones de las eliminatorias.
+----------------------------------------------------------------------------------------------
+
+![Miguel Almirón (c) celebra el gol marcado a Bolivia en El Alto.](https://www.elcomercio.com/wp-content/uploads/2024/11/bolivia_paraguay_2.jpg)
+
+La **Selección de Bolivia** mantiene el invicto en el estadio Municipal de El Alto al empatar con Paraguay por 2-2 en el primer partido de la fecha 12 de las eliminatorias al Mundial 2026.
+
+Ervin Vaca, **mediocampista de 20 años del Bolívar de La Paz**, fue el autor del primer gol a los 15 minutos del primer tiempo, en su tercer partido con el equipo absoluto de su país.
+
+### Más noticias:
+
+* [Colombia busca sacudirse ante la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-eliminatorias-mundial-metropolitano.html "Colombia busca sacudirse ante la Selección de Ecuador")
+* [La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia](https://www.elcomercio.com/deportes/seleccion-ecuador-entrenamiento-colombia-puerta-cerrada.html "La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia")
+* [¿Cuándo juega Ecuador vs. Colombia por eliminatorias?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-vs-colombia-por-eliminatorias.html "¿Cuándo juega Ecuador vs. Colombia por eliminatorias?")
+
+Antes sumó 90 minutos en la **victoria 1-2 contra Chile en el estadio Nacional de Santiago** y otros 90 ante Ecuador en la derrota 4-0 registrada en el estadio Monumental de Guayaquil.
+
+Miguel Almirón, **jugador del Newcastle United de Inglaterra**, empató a los 71 minutos del segundo tiempo, tras aprovechar un error defensivo de los bolivianos y una rápida combinación en la que participó Julio César Enciso, joven talento que milita en el Brighton.
+
+Miguel Terceros, jugador del Santos y principal figura de ‘La Verde’, anotó el 2-1 a los 79 minutos con un tiro desde el punto penal, que a punto estuvo a punto de ser detenido por Roberto Junior Fernández, guardameta en Botafogo.
+
+La celebración del **gol local terminó en incidentes entre los jugadores de ambas escuadras** causada por un pasabolas que no entregó rápidamente el esférico a los paraguayos, gesto que fue mal visto por los visitantes.
+
+Cuando parecía que los locales se llevaban la victoria, **Enciso marcó un golazo con un disparo desde fuera** del área, para silenciar a las 22 000 personas que llenaron el Municipal.
+
+En la reactivación de las eliminatorias**, Bolivia debe visitar a Perú en Lima y luego recibirá a Uruguay** en El Alto.
+
+El calendario de **Paraguay lo tendrá como local de Chile en el Defensores del Chaco** y de visitante ante Colombia en el Metropolitano de Barranquilla.
+
+![Ervin Vaca de Bolivia celebra su gol este martes, en un partido de las eliminatorias sudamericanas para el Mundial de 2026 entre Bolivia y Paraguay en el estadio Municipal de El Alto (Bolivia).](https://www.elcomercio.com/wp-content/uploads/2024/11/bolivia_paraguay_1-1024x683.jpg)
+
+Ervin Vaca de Bolivia celebra su gol este martes, en un partido de las eliminatorias sudamericanas para el Mundial de 2026 entre Bolivia y Paraguay en el estadio Municipal de El Alto (Bolivia).
+
+Bolivia sube en la tabla de posiciones
 --------------------------------------
 
-Las mujeres lo denunciaron, la policía lo detuvo y descubrió una recopilación de centenares de vídeos, fotos y montajes de las **decenas de violaciones que sufrió Gisèle Pelicot**, que nunca antes había advertido nada y que pensó durante años que sus problemas ginecológicos se debían a una dolencia aún no diagnosticada y que **sufría un principio de Alzheimer**, debido a las frecuentes pérdidas de memoria.
+Con este resultado, **Bolivia escala al séptimo puesto de la tabla de posiciones con 13 puntos** y un gol diferencia negativo de -14.
 
-Este juicio mediático despertó interés de todo el mundo, como lo muestran los 1**65 medios acreditados** para seguir el caso en el Tribunal de Aviñón, donde cada jornada Gisèle Pelicot es ovacionada por el público **asistente a las audiencias**, con una presencia mayoritaria de mujeres.
+Por su parte, **Paraguay subió al quinto puesto con 17 puntos y un gol diferencia de +1**, desplazando a Ecuador a la sexta casilla, pero aún falta que complete su juego frente a Colombia en Barranquilla.
 
-Gisèle, además, se convirtió en un **símbolo feminista internacional**, al decidir dar la cara y pedir que su caso sea público. ¿El motivo? **“Que la vergüenza cambie de bando”,** como ella mismo dijo a la prensa al inicio del proceso.
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/ELIMINATORIAS-TABLA-POSICIONES-7-819x1024.jpg)
 
-La intención del presidente del Tribunal de Aviñón, Roger Arata, es empezar con las peticiones de penas de la acusación particular, es decir, de los abogados de Gisèle Pelicot. El **jueves sería el turno de la Fiscalía,** que se alargaría hasta viernes. La semana próxima vendría el turno de las defensas. La sentencia se espera el 20 de diciembre.
+San viernes
+-----------
+
+Inamhi espera lluvias con tormentas en provincias de la Amazonía
+================================================================
+
+El Inamhi pronosticó lluvias con tormentas en cinco provincias de Ecuador para este martes 19 y miércoles 20 de noviembre.
+--------------------------------------------------------------------------------------------------------------------------
+
+![La Amazonía tendrá lluvias con tormentas la tarde y noche de este martes 19 de noviembre](https://www.elcomercio.com/wp-content/uploads/2024/11/lluvias-inamhi-amazonia.jpg)
+
+El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) dio las previsiones del **clima** en Ecuador para la tarde y noche de este martes 19 y madrugada del miércoles 20 de noviembre de 2024.
+
+### Más noticias
+
+* [13 presuntos responsables de los incendios forestales en Azuay, denunciados](https://www.elcomercio.com/actualidad/ecuador/responsables-incendios-forestales-azuay-loja.html "13 presuntos responsables de los incendios forestales en Azuay, denunciados")
+* [Lucha contra los incendios forestales permanece activa en Azuay y Loja](https://www.elcomercio.com/actualidad/ecuador/lucha-contra-incendios-forestales-permanece-activa-en-azuay-y-loja.html "Lucha contra los incendios forestales permanece activa en Azuay y Loja")
+* [Lluvias y desbordamientos afectarán el clima en la semana del 18 al 22 de noviembre](https://www.elcomercio.com/actualidad/ecuador/lluvias-desbordamientos-clima-semana-18-22-noviembre.html "Lluvias y desbordamientos afectarán el clima en la semana del 18 al 22 de noviembre")
+
+Según la entidad, se observa una **paulatina formación de nubes** que generarán **lluvias y tormentas** eléctricas en sectores específicos de la Sierra y Amazonía[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
+
+Lluvias con tormentas en la Amazonía
+------------------------------------
+
+La Amazonía será la región donde mayores precipitaciones se esperan. En **Sucumbíos, Orellana, Napo, Pastaza y Morona Santiago** se prevén lluvias con tormentas.
+
+Esta situación favorece las condiciones de **Coca Codo Sinclair**, la hidroeléctrica más grande Ecuador, con una potencia de 1 500 megawatts.
+
+Asimismo, **Riobamba**, el sur de **Pichincha** y el norte de **Cotopaxi** tendrán mayor presencia de nubes en la Sierra.
+
+Mientras que en el **Litoral** existirán lloviznas aisladas en lugares puntuales, como en la provincia de Santo Domingo de los Tsáchilas.
+
+Este fenómeno se prologará durante las **próximas horas**, indicó el Inamhi.
+
+> MonitoreoSatelitalEc 🛰| Martes 19 de noviembre | 14h30  
+> Observamos una paulatina formación de nubes que generarán lluvias y tormentas eléctricas en sectores específicos de la Sierra y Amazonía. 🌧🌩 Se espera que estos eventos puedan prolongarse durante las próximas horas  
+> ⚠#63 [pic.twitter.com/3f05fMOyWW](https://t.co/3f05fMOyWW)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 19, 2024](https://twitter.com/inamhi_ec/status/1858959069178196305?ref_src=twsrc%5Etfw)
+
+Bruma densa en el sur del Ecuador
+---------------------------------
+
+El Instituto indicó que en El Oro, Cañar, Azuay, Loja y Zamora Chinchipe existe la presencia de **bruma densa** debido a los incendios forestales registrados en el sur del país; además de la **humedad** en el ambiente.
+
+En el **Austro**, lugar donde se ubican tres de las principales centrales hidroeléctricas, **Paute; Mazar y Sopladora**, se esperan **chubascos ocasionales** en la tarde y noche de este martes.
