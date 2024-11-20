@@ -35,9 +35,6 @@ Siège social : 78 avenue de Flandre – 75019 Paris
 
 **Date d’entrée en vigueur :** 22/09/2021
 
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
-
 1
 
 ### Objet
@@ -66,9 +63,6 @@ Elles constituent, avec les éventuels Devis et conditions particulières, ainsi
 
 Le Contrat prévaut sur toutes autres conditions générales ou particulières non expressément agréées par Effency.
 
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
-
 2
 
 ### Acceptation des conditions générales
@@ -86,9 +80,6 @@ Toute validation du Devis, emporte acceptation sans réserve des présentes cond
 * **Dispositions communes**
 
 L’acceptation des présentes conditions générales ne peut être que pleine et entière. Toute adhésion sous réserve est considérée comme nulle et non avenue. L’Utilisateur qui n’accepte pas d’être lié par les présentes conditions générales ne doit pas utiliser les Services.
-
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 3
 
@@ -155,9 +146,6 @@ En sus des Services ci-avant définis, le Client peut choisir d’ajouter des op
 Ces Services sont fournis sur Devis, celui-ci indiquant alors l’objet et les modalités précis des Services (par exemple le nombre de personne dans l’équipe, l’outil utilisé par l’équipe à savoir Slack, Teams, Citadel ou la suite Google, les options choisies par le Responsable d’Equipe (debrief de cartographie d’équipe et nom du coach choisi, durée d’accompagnement digital choisie, nombre de coachings en présentiel le cas échéant et nom des coachs choisis, objet de l’accompagnement).
 
 Effency pourra proposer tout autre Service qu’elle jugera utile, sous une forme et selon les fonctionnalités et moyens techniques, notamment techniques, qu’elle estimera les plus appropriés, lequel fera l’objet d’un devis présenté au Client.
-
-  
-**Notice**: Undefined index: title\_display in **/home/effency-user/applications/wordpress/wp-prod.new/wp-content/plugins/premium-addons-for-elementor/widgets/premium-counter.php** on line **1377**  
 
 4
 
