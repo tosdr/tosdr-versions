@@ -497,7 +497,7 @@ Eating Recovery Center is accredited through the Joint Commission. This organiza
 
 Organizations that earn the Gold Seal of Approval™ have met or exceeded The Joint Commission’s rigorous performance standards to obtain this distinctive and internationally recognized accreditation. Learn more about this accreditation [here](https://www.eatingrecoverycenter.com/licensing-accreditation).
 
-![](https://www.eatingrecoverycenter.com/cdn-cgi/image/width=150,format=webp,quality=100/sites/default/files/image/2024-10/gold-seal.png)
+![joint commission gold seal](https://www.eatingrecoverycenter.com/cdn-cgi/image/width=150,format=webp,quality=100/sites/default/files/image/2024-10/gold-seal.png)
 
 Get Help Now
 
@@ -549,7 +549,6 @@ Footer (ERC)
     * [FAQs](https://www.eatingrecoverycenter.com/frequently-asked-questions)
     * [Podcasts](https://www.eatingrecoverycenter.com/mental-note-podcast)
     * [All Resources](https://www.eatingrecoverycenter.com/resources)
-* Events
 * About
     * [History & Mission](https://www.eatingrecoverycenter.com/history-mission)
     * [Executive Leadership](https://www.eatingrecoverycenter.com/corporate-leadership)
