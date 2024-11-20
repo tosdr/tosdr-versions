@@ -128,6 +128,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[DORA
+
+The Countdown to DORA is On. How Are You Doing?](https://www.ownbackup.com/blog/the-countdown-to-dora-is-on-how-are-you-doing)
+
 [Company News
 
 It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
@@ -135,10 +139,6 @@ It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-
 [Customer Stories
 
 Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
-
-[Salesforce
-
-Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
 
 Company
 
@@ -352,6 +352,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[DORA
+
+The Countdown to DORA is On. How Are You Doing?](https://www.ownbackup.com/blog/the-countdown-to-dora-is-on-how-are-you-doing)
+
 [Company News
 
 It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
@@ -359,10 +363,6 @@ It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-
 [Customer Stories
 
 Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
-
-[Salesforce
-
-Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
 
 Company
 
