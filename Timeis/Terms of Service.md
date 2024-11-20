@@ -23,16 +23,16 @@ This site is affiliated with Freestar for the purposes of placing advertising on
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [https://www.networkadvertising.org](https://www.networkadvertising.org/).
 
-11:00:26PM
+04:58:45AM
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Tuesday, November 19, 2024
+Wednesday, November 20, 2024
 
-[World Toilet Day](http://worldtoiletday.com/) / [International Men's Day](https://www.internationalmensday.info/)
+[World Children's Day](https://www.un.org/en/observances/world-childrens-day)
 
-Sun: ↑ 06:47AM ↓ 04:36PM (9h 49m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
+Sun: ↑ 06:48AM ↓ 04:35PM (9h 47m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
 
 ×
 
