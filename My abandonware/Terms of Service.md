@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Crazy Taxi 3: High Roller](https://www.myabandonware.com/game/crazy-taxi-3-high-roller-cjp)
 * [Hydro Thunder](https://www.myabandonware.com/game/hydro-thunder-e35)
 * [Pyramid](https://www.myabandonware.com/game/pyramid-9ir)
 * [Galactic Crusader](https://www.myabandonware.com/game/galactic-crusader-9qh)
 * [Dancing Block](https://www.myabandonware.com/game/dancing-block-9sg)
-* [Penguin Hideout](https://www.myabandonware.com/game/penguin-hideout-9vx)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Knights of Valour: The Seven Spirits](https://www.myabandonware.com/game/knights-of-valour-the-seven-spirits-spn)
-* [Nontan to Issho: Nohara de Asobo](https://www.myabandonware.com/game/nontan-to-issho-nohara-de-asobo-ovi)
-* [Harpoon II: BattleSet 3 - Cold War](https://www.myabandonware.com/game/harpoon-ii-battleset-3-cold-war-duy)
+* [War: Final Assault](https://www.myabandonware.com/game/war-final-assault-sld)
+* [Warp](https://www.myabandonware.com/game/warp-7gq)
+* [Reading & Spelling Adventure](https://www.myabandonware.com/game/reading-spelling-adventure-rfg)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
