@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/map-326x245.jpg)](https://cwbchicago.com/2024/11/off-duty-cop-robbed-in-rogers-park-more-robberies-in-west-loop-river-north.html "Off-duty cop robbed in Rogers Park, more robberies in West Loop, River North")
+
+River North
+
+### [Off-duty cop robbed in Rogers Park, more robberies in West Loop, River North](https://cwbchicago.com/2024/11/off-duty-cop-robbed-in-rogers-park-more-robberies-in-west-loop-river-north.html "Off-duty cop robbed in Rogers Park, more robberies in West Loop, River North")
+
+[November 17, 2024 6:08 AM](https://cwbchicago.com/2024/11)
+
+An off-duty police officer was robbed at gunpoint in Rogers Park early Sunday morning. Additional robberies were reported in the West Loop and River North.[](https://cwbchicago.com/2024/11/off-duty-cop-robbed-in-rogers-park-more-robberies-in-west-loop-river-north.html "Off-duty cop robbed in Rogers Park, more robberies in West Loop, River North")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/chrishawn-thomas-326x245.jpg)](https://cwbchicago.com/2024/11/man-gets-20-years-for-shooting-off-duty-cop-during-robbery-attempt-while-on-electronic-monitoring-for-robbery.html "Man gets 20 years for shooting off-duty cop during robbery attempt — while on electronic monitoring for robbery")
+
+Brighton Park
+
+### [Man gets 20 years for shooting off-duty cop during robbery attempt — while on electronic monitoring for robbery](https://cwbchicago.com/2024/11/man-gets-20-years-for-shooting-off-duty-cop-during-robbery-attempt-while-on-electronic-monitoring-for-robbery.html "Man gets 20 years for shooting off-duty cop during robbery attempt — while on electronic monitoring for robbery")
+
+[November 16, 2024 6:56 PM](https://cwbchicago.com/2024/11)
+
+A judge on Friday sentenced a man to 20 years for shooting an off-duty Chicago police officer during a robbery attempt in June 2020. He received another 15 years, to be served consecutively, for a separate carjacking case.[](https://cwbchicago.com/2024/11/man-gets-20-years-for-shooting-off-duty-cop-during-robbery-attempt-while-on-electronic-monitoring-for-robbery.html "Man gets 20 years for shooting off-duty cop during robbery attempt — while on electronic monitoring for robbery")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/05/Snellling-brandon-johnson-326x245.jpg)](https://cwbchicago.com/2024/11/after-ignoring-a-grieving-familys-wishes-for-nearly-a-week-chicago-mayor-says-hell-stay-away-from-slain-cops-funeral.html "After rejecting a grieving family’s wishes for nearly a week, Chicago mayor says he’ll stay away from slain cop’s funeral")
 
 Citywide
@@ -252,26 +272,6 @@ Citywide
 [November 16, 2024 12:38 PM](https://cwbchicago.com/2024/11)
 
 Less than 24 hours after his office insisted that Mayor Brandon Johnson would attend Monday’s funeral for slain Chicago Police Officer Enrique Martinez despite the grieving family’s wishes, Johnson reversed course Saturday.[](https://cwbchicago.com/2024/11/after-ignoring-a-grieving-familys-wishes-for-nearly-a-week-chicago-mayor-says-hell-stay-away-from-slain-cops-funeral.html "After rejecting a grieving family’s wishes for nearly a week, Chicago mayor says he’ll stay away from slain cop’s funeral")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/sheridan-and-irving-park-road-map-326x245.jpg)](https://cwbchicago.com/2024/11/gunmen-fire-shots-while-robbing-victims-near-the-sheridan-red-line-station.html "Gunmen fire shots while robbing victims near the Sheridan Red Line station")
-
-Lakeview
-
-### [Gunmen fire shots while robbing victims near the Sheridan Red Line station](https://cwbchicago.com/2024/11/gunmen-fire-shots-while-robbing-victims-near-the-sheridan-red-line-station.html "Gunmen fire shots while robbing victims near the Sheridan Red Line station")
-
-[November 16, 2024 10:36 AM](https://cwbchicago.com/2024/11)
-
-Gunmen fired shots while robbing a group of men near the Sheridan Red Line station on Saturday morning. Fortunately, no gunshot injuries were reported.[](https://cwbchicago.com/2024/11/gunmen-fire-shots-while-robbing-victims-near-the-sheridan-red-line-station.html "Gunmen fire shots while robbing victims near the Sheridan Red Line station")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Trinidy-Mintz-326x245.jpg)](https://cwbchicago.com/2024/11/he-carjacked-at-man-at-gunpoint-less-than-2-months-after-being-paroled-for-robbery-prosecutors-claim.html "He carjacked at man at gunpoint less than 2 months after being paroled for robbery, prosecutors claim")
-
-Chicago Lawn
-
-### [He carjacked at man at gunpoint less than 2 months after being paroled for robbery, prosecutors claim](https://cwbchicago.com/2024/11/he-carjacked-at-man-at-gunpoint-less-than-2-months-after-being-paroled-for-robbery-prosecutors-claim.html "He carjacked at man at gunpoint less than 2 months after being paroled for robbery, prosecutors claim")
-
-[November 16, 2024 7:37 AM](https://cwbchicago.com/2024/11)
-
-Not even two months after being paroled for an armed robbery conviction, Trinidy Mintz carjacked and robbed two men at gunpoint and then crashed the hijacked vehicle in front of Chicago cops, prosecutors say.[](https://cwbchicago.com/2024/11/he-carjacked-at-man-at-gunpoint-less-than-2-months-after-being-paroled-for-robbery-prosecutors-claim.html "He carjacked at man at gunpoint less than 2 months after being paroled for robbery, prosecutors claim")
 
 Search
 
