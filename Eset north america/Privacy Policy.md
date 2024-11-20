@@ -469,7 +469,7 @@ San Diego, CA 92101
     #### Industries
     
     * [Education](https://www.eset.com/us/business/industries/education/)
-    * [Finance and banking](https://www.eset.com/us/business/it-security-financial-sector/)
+    * [Finance and banking](https://www.eset.com/us/business/industries/finance-and-banking/)
     * [Manufacturing](https://www.eset.com/us/business/industries/manufacturing/)
     
 * [Download](#)
@@ -654,7 +654,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/business/solutions/mobile-threat-defense/)
+[United States (EN)](https://www.eset.com/us/home-store/)
 
 * * *
 
