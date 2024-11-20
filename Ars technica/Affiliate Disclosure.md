@@ -87,9 +87,9 @@ Most Read
     
     1. [Explicit deepfake scandal shuts down Pennsylvania school](https://arstechnica.com/tech-policy/2024/11/school-failed-to-report-ai-nudes-of-kids-for-months-now-parents-are-suing/)
     
-2. 2. [April Fools’ joke results in Japanese firm making a beige ’80s throwback PC case](https://arstechnica.com/gadgets/2024/11/big-beige-80s-pc-case-started-out-as-a-joke-but-its-becoming-real-in-japan/)
+2. 2. [Scientist behind superconductivity claims ousted](https://arstechnica.com/science/2024/11/scientist-behind-superconductivity-claims-ousted/)
     
-3. 3. [Scientist behind superconductivity claims ousted](https://arstechnica.com/science/2024/11/scientist-behind-superconductivity-claims-ousted/)
+3. 3. [April Fools’ joke results in Japanese firm making a beige ’80s throwback PC case](https://arstechnica.com/gadgets/2024/11/big-beige-80s-pc-case-started-out-as-a-joke-but-its-becoming-real-in-japan/)
     
 4. 4. [Apple TV+ spent $20B on original content. If only people actually watched.](https://arstechnica.com/apple/2024/11/apple-tv-spent-20b-on-original-content-if-only-people-actually-watched/)
     
