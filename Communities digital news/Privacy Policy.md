@@ -26,41 +26,45 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rivera-arrest-1200x630.jpg)](https://americanwirenews.com/madman-just-released-from-prison-kills-3-in-stabbing-spree-nyc-mayor-adams-questions-why-he-was-on-the-streets/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-luladasilva-1200x630.jpg)](https://americanwirenews.com/musk-responds-after-brazils-first-lady-fires-an-fk-you-at-him/)
 
-[Madman just released from prison kills 3 in stabbing spree, NYC Mayor Adams questions why he was on the streets](https://americanwirenews.com/madman-just-released-from-prison-kills-3-in-stabbing-spree-nyc-mayor-adams-questions-why-he-was-on-the-streets/)
+[Musk responds after Brazil’s first lady fires an ‘F\*\*k you’ at him](https://americanwirenews.com/musk-responds-after-brazils-first-lady-fires-an-fk-you-at-him/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-dnc-1200x630.jpg)](https://americanwirenews.com/dnc-staffers-fired-with-one-day-notice-and-no-severance-union-sounds-off/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sunny-hostin-1200x630.png)](https://americanwirenews.com/sunny-hostin-looks-sick-as-shes-forced-to-read-disclaimer-about-gaetz-slime-job/)
 
-[DNC staffers fired with one day notice and no severance, union sounds off](https://americanwirenews.com/dnc-staffers-fired-with-one-day-notice-and-no-severance-union-sounds-off/)
+[Sunny Hostin looks sick as she’s forced to read disclaimer about Gaetz slime job](https://americanwirenews.com/sunny-hostin-looks-sick-as-shes-forced-to-read-disclaimer-about-gaetz-slime-job/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lindy-li-will-cain-1200x630.jpg)](https://americanwirenews.com/dem-strategist-spills-more-tea-about-kamalas-disastrous-campaign-i-can-feel-the-knives-in-my-back/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sephora-djt1-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/sephora-denies-rumors-about-trump-involvement-but-boycott-campaign-is-spreading-fast/)
 
-[Dem strategist spills more tea about Kamala’s disastrous campaign: ‘I can feel the knives in my back’](https://americanwirenews.com/dem-strategist-spills-more-tea-about-kamalas-disastrous-campaign-i-can-feel-the-knives-in-my-back/)
+[Sephora denies rumors about Trump involvement, but boycott campaign is spreading fast](https://americanwirenews.com/sephora-denies-rumors-about-trump-involvement-but-boycott-campaign-is-spreading-fast/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-cnndebateduo-1200-x-628-1200x630.jpg)](https://americanwirenews.com/cnn-holds-meeting-on-how-to-cover-four-more-years-of-trump-as-ratings-tank/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182909970-1200x630.jpg)](https://americanwirenews.com/kamala-unburdens-herself-with-vacation-in-hawaii/)
 
-[CNN holds meeting on how to cover four more years of Trump as ratings tank](https://americanwirenews.com/cnn-holds-meeting-on-how-to-cover-four-more-years-of-trump-as-ratings-tank/)
+(Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ramaswamy-1200x630.jpg)](https://americanwirenews.com/ramaswamy-says-certain-fed-agencies-will-be-deleted-outright-shares-dirty-little-secret-in-d-c/)
+[Kamala unburdens herself with vacation in Hawaii](https://americanwirenews.com/kamala-unburdens-herself-with-vacation-in-hawaii/)
 
-[Ramaswamy says certain fed agencies will be ‘deleted outright’, shares ‘dirty little secret’ in D.C.](https://americanwirenews.com/ramaswamy-says-certain-fed-agencies-will-be-deleted-outright-shares-dirty-little-secret-in-d-c/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-djt-johnson-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/house-republicans-mull-move-to-stop-obstructionist-senate-on-recess-appointments/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-10-1200x630.jpg)](https://americanwirenews.com/dems-looking-toward-2028-poll-for-party-nomination-and-you-wont-believe-who-tops-the-list/)
+[House Republicans mull move to stop obstructionist Senate on recess appointments](https://americanwirenews.com/house-republicans-mull-move-to-stop-obstructionist-senate-on-recess-appointments/)
 
-[Dems looking toward 2028 poll for party nomination and you won’t BELIEVE who tops the list](https://americanwirenews.com/dems-looking-toward-2028-poll-for-party-nomination-and-you-wont-believe-who-tops-the-list/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bosa-trump-dance-1200x630.jpg)](https://americanwirenews.com/nfl-makes-surprising-call-over-disciplining-players-doing-the-trump-dance/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Trump-Courtroom-1200x630.jpg)](https://americanwirenews.com/alvin-bragg-weighs-next-steps-in-hush-money-case-against-trump/)
+[NFL makes surprising call over disciplining players doing the ‘Trump dance’](https://americanwirenews.com/nfl-makes-surprising-call-over-disciplining-players-doing-the-trump-dance/)
 
-[Alvin Bragg weighs next steps in ‘hush money’ case against Trump](https://americanwirenews.com/alvin-bragg-weighs-next-steps-in-hush-money-case-against-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2185632401-1200x630.jpg)](https://americanwirenews.com/president-elect-donald-trump-and-family-enjoy-spacex-launch-with-elon-musk-in-texas/)
+
+(Photo by Brandon Bell/Getty Images)
+
+[President Elect Donald Trump and family enjoy SpaceX launch with Elon Musk in Texas](https://americanwirenews.com/president-elect-donald-trump-and-family-enjoy-spacex-launch-with-elon-musk-in-texas/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2022/04/SG-YouTube-Leon-Panetta-1200x630.png)](https://americanwirenews.com/leon-panetta-knocks-bidens-national-security-record-not-one-that-really-stood-strong/)
 
 [Leon Panetta knocks Biden’s national security record: ‘Not one that really stood strong’](https://americanwirenews.com/leon-panetta-knocks-bidens-national-security-record-not-one-that-really-stood-strong/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-herridge-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-msnbcal-1200-x-628-1200x630.jpg)
 
-### Catherine Herridge could be facing jail time for honest journalism](https://americanwirenews.com/catherine-herridge-could-be-facing-jail-time-for-honest-journalism/)
+### Al Sharpton has a beef with Trump over Cabinet picks and guess what it is](https://americanwirenews.com/al-sharpton-has-a-beef-with-trump-over-cabinet-picks-and-guess-what-it-is/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
