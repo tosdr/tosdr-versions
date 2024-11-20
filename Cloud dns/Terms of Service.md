@@ -1,3 +1,5 @@
+[Black Friday promo up to -50% Time left:](javascript:void(0);)
+
 [](https://www.cloudns.net/)
 
 [](javascript:void(0);)
