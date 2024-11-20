@@ -116,7 +116,7 @@ Cheryl Tiahrt, Chief Information Officer
 University of South Dakota  
 414 E. Clark St.  
 Vermillion, SD 57069  
-[Cheryl.Tiahrt@usd.edu](mailto:Cheryl.Tiahrt@usd.edu)  
+[\[email protected\]](https://www.usd.edu/cdn-cgi/l/email-protection)  
 Phone: 605-658-6000
 
 In notifying us of the alleged copyright infringement, please include the following information:
@@ -207,7 +207,7 @@ Personal or organization web pages are not endorsed, edited or approved by the u
 
 Some web pages may contain links to web pages created by sources outside the university. The existence of these links does not suggest that the university approves or endorses the content of these web pages.
 
-Marketing Communications & University Relations is responsible for the design and maintenance of the University of South Dakota homepage and primary web pages, but is not responsible for the timeliness or completeness of the information provided by other departments, individuals or schools. If you have any general questions, comments, or concerns about the University of South Dakota web pages, please send an email to [web@usd.edu](mailto:web@usd.edu).
+Marketing Communications & University Relations is responsible for the design and maintenance of the University of South Dakota homepage and primary web pages, but is not responsible for the timeliness or completeness of the information provided by other departments, individuals or schools. If you have any general questions, comments, or concerns about the University of South Dakota web pages, please send an email to [\[email protected\]](https://www.usd.edu/cdn-cgi/l/email-protection).
 
 By submitting content to any of the University of South Dakota's social media sites, users understand and acknowledge that the information is available to the public and may be used for promotional purposes. Users who do not wish to have information they have made published, copied and/or reprinted, should not post on social media sites.
 
@@ -221,9 +221,9 @@ Accessibility
 
 The University of South Dakota (USD) is committed to ensuring equal access for individuals with disabilities to the programs and services of the university in accordance with the Americans with Disabilities Act of 1990 (ADA), the ADA Amendments Act of 2008, and Section 504/Section 508 of the 1973 Rehabilitation Act as amended. Equal access includes access to electronic and information technology. USD strives to ensure all aspects of electronic and information technology – from procurement and development to online course content and public web pages – are accessible to individuals with disabilities.
 
-Cheryl Tiahrt, Chief Information Officer, [Cheryl.Tiahrt@usd.edu](mailto:Cheryl.Tiahrt@usd.edu)  605-658-6000
+Cheryl Tiahrt, Chief Information Officer, [\[email protected\]](https://www.usd.edu/cdn-cgi/l/email-protection)  605-658-6000
 
-Office of Accessibillity, [accessibility@usd.edu](mailto:accessibility@usd.edu) 605-658-3745 
+Office of Accessibillity, [\[email protected\]](https://www.usd.edu/cdn-cgi/l/email-protection) 605-658-3745 
 
 [![USD logo in white](/-/media/Themes/USD/DotEdu/DotEdu/images/logo-white.svg?rev=ddd45cabe4fc46f589fdc1ec0cf25745&la=en&hash=CFBA48E4DCD72819E0B921C47486BD67)](https://www.usd.edu/)
 
