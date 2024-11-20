@@ -212,7 +212,7 @@ You agree not to use the communication systems provided by the Geek Websites for
 
 #### iv. Don't use our sites to train an AI or LLM
 
-You agree not to use the Geek Websites to train an AI (Artificial Intelligence) or Large Language Model (LLM) system.
+You agree not to use the Geek Websites to train or otherwise use as data for an AI (Artificial Intelligence) or Large Language Model (LLM) system.
 
 ### C. Don't make unauthorized changes to the Geek Websites
 
