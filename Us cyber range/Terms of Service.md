@@ -36,14 +36,14 @@ Menu
 
 [Sign Up](https://console.uscyberrange.org/signup)
 
-![single circuit shape](https://www.uscyberrange.org/wp-content/uploads/2022/10/single_circuit.svg)
+![](https://www.uscyberrange.org/wp-content/uploads/2022/10/single_circuit.svg)
 
 Terms of Use
 ============
 
 The Terms of Use set forth herein refer solely to the U.S. Cyber Range website. By using and accessing the U.S. Cyber Range’s website, you are agreeing to use the site in accordance with these acceptable use guidelines. Please read over this policy carefully, and if you have any questions or concerns, please feel free to [contact us](https://www.uscyberrange.org/contact/).
 
-![single circuit shape](https://www.uscyberrange.org/wp-content/uploads/2022/10/single_circuit_reverse.svg)
+![](https://www.uscyberrange.org/wp-content/uploads/2022/10/single_circuit_reverse.svg)
 
 The U.S. Cyber Range is a portal of educational resources and was designed for use by faculty and students in U.S. public high schools, colleges and universities. For specifics about the U.S. Cyber Range visit our [Overview](https://www.uscyberrange.org/overview/) page. The Courseware Repository is for faculty use only, while the Exercise Area (The Range) is for faculty and student use. Students gain access to the Exercise Area by invitation only from faculty using the site.
 
