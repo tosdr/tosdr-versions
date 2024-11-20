@@ -313,19 +313,31 @@ Your Subscription order's final total may vary due to changes in price, tax rate
 * Shipping and handling costs, if applicable
 * Please note that certain coupon codes may only be applied to your first subscription order. We do not accept coupon codes for subsequent orders.
 
-The purchase price for the Product included in your first Subscription order and all subsequent renewal orders will be discounted by 40% (before tax, shipping and other costs, if applicable).
+The purchase price for the Product included in your first Subscription order and all subsequent renewal orders will be discounted by up to 50% (before tax, shipping and other costs, if applicable).
 
 **Subscription Order Placement**
 
 The total cost charged to your payment method for each Subscription Order will be the total price of the item(s) in your Subscription Order on the date that order is processed less the applicable Subscribe & Save discount (described below), plus any applicable taxes and shipping (as applicable).
 
-Subscribe & Save Discount – The total price of the Product(s) included in your first Subscription Order and all subsequent renewal orders will be discounted by 40% (before tax, shipping and other costs, as applicable). 
+Subscribe & Save Discount – The total price of the Product(s) included in your first Subscription Order and all subsequent renewal orders will be discounted by up to 50% (before tax, shipping and other costs, as applicable). 
 
 Credit card and debit card payment are the only valid payment methods accepted for Subscription Order payment under our Subscribe & Save Program. Store credit, gift certificates, checks, and Cash On Delivery or Bill Me Later will not be accepted.
 
 The charge for each Subscription Order will automatically be billed to the primary payment method used to place your initial Subscription Order or as otherwise provided by you. You authorize BioTRUST or its third-party payment processing provider to store your payment method and to automatically charge your payment method on a recurring basis according to the delivery frequency you select (i.e., 2, 3, 4, 5, 6, 7, or 8 weeks) until you cancel. YOU ACKNOWLEDGE AND AGREE THAT BioTRUST WILL NOT OBTAIN ANY ADDITIONAL AUTHORIZATION FROM YOU FOR SUCH AUTOMATIC, RECURRING PAYMENTS. If your payment method fails, your order will not be placed; you will be notified that your Subscription Order payment has failed and you will need to update your payment information. Once your payment information is updated, your Subscription Order will be processed. If you fail to update your payment method and provide payment, we will suspend your subscription. To edit or update your payment information, you can login to your account, go to your Account Dashboard, click on “Manage Subscriptions," and then click on “Billing” to update the payment method on file.
 
 The Products available for the Subscribe & Save Program are based on a current price. We may change the price of a Product in your Subscription Order at any time, and we will notify you of any price increase with the option to cancel. If you do not agree with a price increase, you have the right to reject the increase by canceling your Subscription Order prior to the next auto-shipment date as described in the “Cancellation of Subscription” section below.
+
+**Subscription Tier Discount Program**
+
+The Subscription Tier Discount Program applies to all new subscriptions created on or after November 20, 2024. Customers with existing subscriptions who wish to convert to this program must contact our customer support team for assistance.
+
+For subscriptions enrolled in the Subscription Tier Discount Program, pricing is determined based on the quantity of units for each product, regardless of flavor or variation, included in an active subscription. The discount rates are as follows:
+
+* 1-2 units per product: 40% off the regular selling price.
+* 3-5 units per product: 45% off the regular selling price
+* 6 or more units per product: 50% off the regular selling price
+
+Discounts are applied per product and calculated at the time of each subscription renewal, based on the total number of units of each product scheduled for shipment in that renewal. The discount percentage may vary if the quantity of units changes for subsequent shipments.
 
 **Subscription Order Notifications**
 
@@ -384,7 +396,7 @@ To the extent permitted by applicable law, you agree that we will not be liable 
 
 We respect your right to privacy. To see how we collect and use your personal information, please see our [Privacy Notice](https://www.biotrust.com/pages/privacy-policy).
 
-40% Savings and Free Shipping On All Subscriptions
+Up to 50% Savings and Free Shipping On All Subscriptions
 
 60-Day Money Back Guarantee On All Purchases
 
