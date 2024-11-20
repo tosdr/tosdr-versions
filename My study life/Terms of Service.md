@@ -4,7 +4,7 @@
 
  ![mystudylife](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20643%20123'%3E%3C/svg%3E)
 
- ![mystudylife](https://mystudylife.com/wp-content/uploads/2022/02/xlogowhiteMSL.png.pagespeed.ic.yU1Euzz5Pt.png)](https://mystudylife.com/)
+ ![mystudylife](https://mystudylife.com/wp-content/uploads/2022/02/logowhiteMSL.png)](https://mystudylife.com/)
 
 * [Home](https://mystudylife.com/ "Home")
 * [Features](https://mystudylife.com/tour/ "Features")
@@ -30,7 +30,7 @@
 
   [![mystudylife](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20643%20123'%3E%3C/svg%3E)
 
- ![mystudylife](https://mystudylife.com/wp-content/uploads/2022/02/xlogowhiteMSL.png.pagespeed.ic.yU1Euzz5Pt.png)](https://mystudylife.com/)
+ ![mystudylife](https://mystudylife.com/wp-content/uploads/2022/02/logowhiteMSL.png)](https://mystudylife.com/)
 
 * [Home](https://mystudylife.com/ "Home")
 * [Features](https://mystudylife.com/tour/ "Features")
@@ -450,6 +450,6 @@ Search for:
 
 ![cookie](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
 
-![cookie](https://mystudylife.com/wp-content/themes/mystudylife/inc/images/30x30xcookie.png.pagespeed.ic.Oo-2g2kh5k.png)
+![cookie](https://mystudylife.com/wp-content/themes/mystudylife/inc/images/cookie.png)
 
 You trust MyStudyLife with your data. We respect that and use cookies responsibly. We NEVER sell your data to third parties. By using this website, you agree to our cookie policy. [cookie policy.](https://mystudylife.com/privacy-policy/) [Close](#)
