@@ -166,7 +166,7 @@
     * [Resources Hub
         
         Get cutting-edge insights to accelerate your success.](https://www.bazaarvoice.com/resources/)
-        * [Shopper Preference Report](https://www.bazaarvoice.com/resources/shopper-preferences/)
+        * [Shopper Experience Index](https://www.bazaarvoice.com/resources/shopper-experience-index-volume-18/)
         * [Resources for brand managers](https://www.bazaarvoice.com/brand-builders-series/)
         * [Resources for e-commerce managers](https://www.bazaarvoice.com/growth-gurus-series/)
         * [Social media manager guide to UGC](https://www.bazaarvoice.com/resources/a-practical-guide-for-social-media-professionals-to-drive-engagement-and-commerce/)
