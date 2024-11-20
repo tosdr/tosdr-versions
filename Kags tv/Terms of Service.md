@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/VERIFY/images/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb_16x9.jpg) ![](https://media.kagstv.com/assets/VERIFY/images/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb_360x203.jpg)](https://www.kagstv.com/article/weather/how-to-stay-warm-protect-your-home-freezing-cold-temperatures-in-winter/536-05d13af0-a6d9-4190-bdb2-2dc1ef4555a3)
+        
+        #### [VERIFYING 5 claims about staying warm and protecting your home from the cold](https://www.kagstv.com/article/weather/how-to-stay-warm-protect-your-home-freezing-cold-temperatures-in-winter/536-05d13af0-a6d9-4190-bdb2-2dc1ef4555a3)
+        
     *  [![](https://media.kagstv.com/assets/WFAA/images/a046407f-cfe1-4f98-a9b4-5c694ce95eb2/20241107T192311/a046407f-cfe1-4f98-a9b4-5c694ce95eb2_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/a046407f-cfe1-4f98-a9b4-5c694ce95eb2/20241107T192311/a046407f-cfe1-4f98-a9b4-5c694ce95eb2_360x203.jpg)](https://www.kagstv.com/article/weather/texas-snow-panhandle-new-mexico-border/287-71add535-ec72-4600-a58d-0aeb04ba4a47)
         
         #### [VIDEO: Skycam near Texas-New Mexico border shows snowfall](https://www.kagstv.com/article/weather/texas-snow-panhandle-new-mexico-border/287-71add535-ec72-4600-a58d-0aeb04ba4a47)
-        
-    *  [![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
-        
-        #### [Temps Stay at Bay on this Wednesday | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-55°
+69°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
