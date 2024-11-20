@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is a healthy alternative to baby powder?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-is-a-healthy-alternative-to-baby-powder.jpg "What Is a Healthy Alternative to Baby Powder?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives "What Is a Healthy Alternative to Baby Powder?")
+[![How are infections spread in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-are-infections-spread-in-nursing-homes.jpg "How Are Infections Spread in Nursing Homes?")](https://www.pintas.com/faq/how-are-infections-spread-in-nursing-homes/ "How Are Infections Spread in Nursing Homes?")
 
-[#### What Is a Healthy Alternative to Baby Powder?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/baby-powder-alternatives)
+[#### How Are Infections Spread in Nursing Homes?](https://www.pintas.com/faq/how-are-infections-spread-in-nursing-homes/)
 
-[![What percentage of lung nodules turn out to be cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-lung-nodules-turn-out-to-be-cancer.jpg "What Percentage of Lung Nodules Turn Out to Be Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/what-percentage-of-lung-nodules-turn-out-to-be-cancer/ "What Percentage of Lung Nodules Turn Out to Be Cancer?")
+[![How can i report abuse at a memory care facility?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-how-can-i-report-abuse-at-a-memory-care-facility-300x200.jpg "How Can I Report Abuse at a Memory Care Facility?")](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/ "How Can I Report Abuse at a Memory Care Facility?")
 
-[#### What Percentage of Lung Nodules Turn Out to Be Cancer?](https://www.pintas.com/practice-areas/lung-cancer/what-percentage-of-lung-nodules-turn-out-to-be-cancer/)
+[#### How Can I Report Abuse at a Memory Care Facility?](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/)
 
-[![Who do i file a complaint with about a home health aide?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-do-i-file-a-complaint-with-about-a-home-health-aide-scaled.jpg "Who Do I File a Complaint With About a Home Health Aide?")](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/ "Who Do I File a Complaint With About a Home Health Aide?")
+[![Can roundup cause cancer in dogs?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-roundup-cause-cancer-in-dogs.jpg "Can Roundup Cause Cancer in Dogs?")](https://www.pintas.com/lawsuit/roundup-weed-killer/can-roundup-cause-cancer-in-dogs/ "Can Roundup Cause Cancer in Dogs?")
 
-[#### Who Do I File a Complaint With About a Home Health Aide?](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/)
+[#### Can Roundup Cause Cancer in Dogs?](https://www.pintas.com/lawsuit/roundup-weed-killer/can-roundup-cause-cancer-in-dogs/)
 
 ### Injured?  
 Tell Us What Happened.
