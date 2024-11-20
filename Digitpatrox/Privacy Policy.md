@@ -20,16 +20,16 @@ Wednesday, November 20 2024
 
 Latest
 
-* [CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](https://digitpatrox.com/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
-* [Strava closes the gates to sharing fitness data with other apps](https://digitpatrox.com/strava-closes-the-gates-to-sharing-fitness-data-with-other-apps/)
-* [Here’s How to Get 3 Months of Free Gemini Advanced Perk on Your Chromebook](https://digitpatrox.com/heres-how-to-get-3-months-of-free-gemini-advanced-perk-on-your-chromebook/)
-* [Everything You Need to Consider – Computerworld](https://digitpatrox.com/everything-you-need-to-consider-computerworld/)
-* [The Best Early Black Friday Deals From Home Depot](https://digitpatrox.com/the-best-early-black-friday-deals-from-home-depot/)
-* [Best Bike Racks – Consumer Reports](https://digitpatrox.com/best-bike-racks-consumer-reports/)
-* [9 iPhone Accessories for Better Videos](https://digitpatrox.com/9-iphone-accessories-for-better-videos/)
-* [Which Linux Distro Fits Your Needs Best?](https://digitpatrox.com/which-linux-distro-fits-your-needs-best/)
-* [One of the best Segway electric scooters is $600 off right now — and it’s the perfect way to get around](https://digitpatrox.com/one-of-the-best-segway-electric-scooters-is-600-off-right-now-and-its-the-perfect-way-to-get-around/)
-* [Apple fixes two zero-days used in attacks on Intel-based Macs](https://digitpatrox.com/apple-fixes-two-zero-days-used-in-attacks-on-intel-based-macs/)
+* [Gifts for Car Lovers That Promise Convenience, Fun, and Safety](https://digitpatrox.com/gifts-for-car-lovers-that-promise-convenience-fun-and-safety-3/)
+* [10 Features You No Longer Need to Root Your Android Phone For](https://digitpatrox.com/10-features-you-no-longer-need-to-root-your-android-phone-for/)
+* [IT leaders are less AI-ready than they were a year ago, says Cisco report](https://digitpatrox.com/it-leaders-are-less-ai-ready-than-they-were-a-year-ago-says-cisco-report/)
+* [NVIDIA Unveils AI & Supercomputing Advances at SC 2024](https://digitpatrox.com/nvidia-unveils-ai-supercomputing-advances-at-sc-2024/)
+* [The Galaxy S24 Ultra is the best Android phone — and it’s 25% off right now ahead of Black Friday](https://digitpatrox.com/the-galaxy-s24-ultra-is-the-best-android-phone-and-its-25-off-right-now-ahead-of-black-friday/)
+* [Oracle warns of Agile PLM file disclosure flaw exploited in attacks](https://digitpatrox.com/oracle-warns-of-agile-plm-file-disclosure-flaw-exploited-in-attacks/)
+* [UberXXL will let you catch an even bigger ride to the airport](https://digitpatrox.com/uberxxl-will-let-you-catch-an-even-bigger-ride-to-the-airport/)
+* [The Best Fortnite Settings for High Performance and FPS](https://digitpatrox.com/the-best-fortnite-settings-for-high-performance-and-fps/)
+* [Chat GPT is better than doctors at diagnosing illness – Computerworld](https://digitpatrox.com/chat-gpt-is-better-than-doctors-at-diagnosing-illness-computerworld/)
+* [Microsoft Is Introducing a Bunch of New ‘AI Agents’ in Office](https://digitpatrox.com/microsoft-is-introducing-a-bunch-of-new-ai-agents-in-office/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/02/CISA.jpg)](https://digitpatrox.com/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
+* [Gifts for Car Lovers That Promise Convenience, Fun, and Safety](https://digitpatrox.com/gifts-for-car-lovers-that-promise-convenience-fun-and-safety-3/)
     
-    [CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](https://digitpatrox.com/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
+    2 minutes ago
     
-    10 minutes ago
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/rooted-phone-crossed-out.jpg)](https://digitpatrox.com/10-features-you-no-longer-need-to-root-your-android-phone-for/)
     
-* [![](https://cdn.vox-cdn.com/thumbor/O5xEsKxO8_wtbmutog1SsMAg0kM=/0x0:1391x777/1200x628/filters:focal(713x307:714x308)/cdn.vox-cdn.com/uploads/chorus_asset/file/25742958/Flyover___Dark_Mode_Heatmap.jpg)](https://digitpatrox.com/strava-closes-the-gates-to-sharing-fitness-data-with-other-apps/)
+    [10 Features You No Longer Need to Root Your Android Phone For](https://digitpatrox.com/10-features-you-no-longer-need-to-root-your-android-phone-for/)
     
-    [Strava closes the gates to sharing fitness data with other apps](https://digitpatrox.com/strava-closes-the-gates-to-sharing-fitness-data-with-other-apps/)
+    3 minutes ago
     
-    27 minutes ago
+* [![](https://cdn.mos.cms.futurecdn.net/BS7dMhjcLHpa7TEqFv3LNm-1200-80.jpg)](https://digitpatrox.com/it-leaders-are-less-ai-ready-than-they-were-a-year-ago-says-cisco-report/)
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Redeem-Gemini-Advanced-Chromebook.jpg)](https://digitpatrox.com/heres-how-to-get-3-months-of-free-gemini-advanced-perk-on-your-chromebook/)
+    [IT leaders are less AI-ready than they were a year ago, says Cisco report](https://digitpatrox.com/it-leaders-are-less-ai-ready-than-they-were-a-year-ago-says-cisco-report/)
     
-    [Here’s How to Get 3 Months of Free Gemini Advanced Perk on Your Chromebook](https://digitpatrox.com/heres-how-to-get-3-months-of-free-gemini-advanced-perk-on-your-chromebook/)
+    41 minutes ago
     
-    42 minutes ago
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241118-nvidia-ai-supercomputing-2024.jpg)](https://digitpatrox.com/nvidia-unveils-ai-supercomputing-advances-at-sc-2024/)
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609007-0-43926100-1732048488-shutterstock_2456819109_Song_about_summer.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/everything-you-need-to-consider-computerworld/)
+    [NVIDIA Unveils AI & Supercomputing Advances at SC 2024](https://digitpatrox.com/nvidia-unveils-ai-supercomputing-advances-at-sc-2024/)
     
-    [Everything You Need to Consider – Computerworld](https://digitpatrox.com/everything-you-need-to-consider-computerworld/)
+    45 minutes ago
     
-    3 hours ago
+* [![](https://cdn.mos.cms.futurecdn.net/SSTocRMYAQPWVU5xzvEgY4-1200-80.jpg)](https://digitpatrox.com/the-galaxy-s24-ultra-is-the-best-android-phone-and-its-25-off-right-now-ahead-of-black-friday/)
     
-* [![](https://lifehacker.com/imagery/articles/01JD385WM0CG6TYAYB4PJ8BK05/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-early-black-friday-deals-from-home-depot/)
+    [The Galaxy S24 Ultra is the best Android phone — and it’s 25% off right now ahead of Black Friday](https://digitpatrox.com/the-galaxy-s24-ultra-is-the-best-android-phone-and-its-25-off-right-now-ahead-of-black-friday/)
     
-    [The Best Early Black Friday Deals From Home Depot](https://digitpatrox.com/the-best-early-black-friday-deals-from-home-depot/)
-    
-    3 hours ago
+    50 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +206,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 minutes ago
+* [2 minutes ago
     
-    ### CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](https://digitpatrox.com/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
-* [27 minutes ago
+    ### Gifts for Car Lovers That Promise Convenience, Fun, and Safety](https://digitpatrox.com/gifts-for-car-lovers-that-promise-convenience-fun-and-safety-3/)
+* [3 minutes ago
     
-    ### Strava closes the gates to sharing fitness data with other apps](https://digitpatrox.com/strava-closes-the-gates-to-sharing-fitness-data-with-other-apps/)
-* [42 minutes ago
+    ### 10 Features You No Longer Need to Root Your Android Phone For](https://digitpatrox.com/10-features-you-no-longer-need-to-root-your-android-phone-for/)
+* [41 minutes ago
     
-    ### Here’s How to Get 3 Months of Free Gemini Advanced Perk on Your Chromebook](https://digitpatrox.com/heres-how-to-get-3-months-of-free-gemini-advanced-perk-on-your-chromebook/)
+    ### IT leaders are less AI-ready than they were a year ago, says Cisco report](https://digitpatrox.com/it-leaders-are-less-ai-ready-than-they-were-a-year-ago-says-cisco-report/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [4 weeks ago
     
-    ### Forget Apple Intelligence — iOS 18.2 beta could be introducing ‘Battery Intelligence’](https://digitpatrox.com/forget-apple-intelligence-ios-18-2-beta-could-be-introducing-battery-intelligence/)
-* [October 9, 2024
+    ### AI needs Apple, which is why time is on its side – Computerworld](https://digitpatrox.com/ai-needs-apple-which-is-why-time-is-on-its-side-computerworld/)
+* [September 7, 2024
     
-    ### Sage Intacct review | ITPro](https://digitpatrox.com/sage-intacct-review-itpro/)
-* [August 27, 2024
+    ### How-To Geek’s Best of IFA 2024 Award Winners](https://digitpatrox.com/how-to-geeks-best-of-ifa-2024-award-winners/)
+* [4 days ago
     
-    ### Pixel Screenshots is one of the Pixel 9’s best AI features — here’s how it works](https://digitpatrox.com/pixel-screenshots-is-one-of-the-pixel-9s-best-ai-features-heres-how-it-works/)
+    ### Half-Life 2 is getting a huge 20th anniversary update](https://digitpatrox.com/half-life-2-is-getting-a-huge-20th-anniversary-update/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### UberXXL will let you catch an even bigger ride to the airport](https://digitpatrox.com/uberxxl-will-let-you-catch-an-even-bigger-ride-to-the-airport/)
 * [3 hours ago
     
-    ### 9 iPhone Accessories for Better Videos](https://digitpatrox.com/9-iphone-accessories-for-better-videos/)
+    ### The Best Fortnite Settings for High Performance and FPS](https://digitpatrox.com/the-best-fortnite-settings-for-high-performance-and-fps/)
 * [4 hours ago
     
-    ### Which Linux Distro Fits Your Needs Best?](https://digitpatrox.com/which-linux-distro-fits-your-needs-best/)
-* [4 hours ago
-    
-    ### One of the best Segway electric scooters is $600 off right now — and it’s the perfect way to get around](https://digitpatrox.com/one-of-the-best-segway-electric-scooters-is-600-off-right-now-and-its-the-perfect-way-to-get-around/)
+    ### Chat GPT is better than doctors at diagnosing illness – Computerworld](https://digitpatrox.com/chat-gpt-is-better-than-doctors-at-diagnosing-illness-computerworld/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 12, 2024
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 13, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
