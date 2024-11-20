@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![3 Fort Worth apartment fires linked to one suspect](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/adam-ewing-mug-web.png?ve=1&tl=1)
+
+ ![3 Fort Worth apartment fires linked to one suspect](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/adam-ewing-mug-web.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/adam-erwing-fire-arson-fort-worth)
+
+### [3 Fort Worth apartment fires linked to one suspect](https://www.fox4news.com/news/adam-erwing-fire-arson-fort-worth)
+
+ [![No 'chopsticks' catch this time for SpaceX's Starship rocket](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/spacex-starship-6-2.jpg?ve=1&tl=1)
+
+ ![No 'chopsticks' catch this time for SpaceX's Starship rocket](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/spacex-starship-6-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spacex-starship-launch-live-test-flight-november-19)
+
+### [No 'chopsticks' catch this time for SpaceX's Starship rocket](https://www.fox4news.com/news/spacex-starship-launch-live-test-flight-november-19)
+
+ [![Colorado fugitive shot by McKinney officers following crash and chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111924-mckinney-ois-kdfweme003_21_25_19_mpg_00.07.52.52.jpg?ve=1&tl=1)
+
+ ![Colorado fugitive shot by McKinney officers following crash and chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111924-mckinney-ois-kdfweme003_21_25_19_mpg_00.07.52.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/malik-riley-mckinney-officer-involved-shooting)
+
+### [Colorado fugitive shot by McKinney officers following crash and chase](https://www.fox4news.com/news/malik-riley-mckinney-officer-involved-shooting)
+
  [![Texas Board of Education tentatively approves new curriculum integrating the Bible](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-amelia-sboe-curriculum-vote-9p_00.00.09.00.jpg?ve=1&tl=1)
 
  ![Texas Board of Education tentatively approves new curriculum integrating the Bible](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-amelia-sboe-curriculum-vote-9p_00.00.09.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-board-education-tentatively-approves-new-curriculum-integrating-bible)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Garland condo murder suspect to witness who alerted police: 'You're not gonna tell on me, bestie'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/garland-condo-witness.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/johnny-ross-jr-murder-in-garland-condo-wrapped-body-witness-speaks)
 
 ### [Garland condo murder suspect to witness who alerted police: 'You're not gonna tell on me, bestie'](https://www.fox4news.com/news/johnny-ross-jr-murder-in-garland-condo-wrapped-body-witness-speaks)
-
- [![Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/trump-picks-1.jpg?ve=1&tl=1)
-
- ![Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/trump-picks-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trumps-cabinet-white-house-staff-picks-whos-been-nominated-so-far)
-
-### [Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://www.fox4news.com/news/trumps-cabinet-white-house-staff-picks-whos-been-nominated-so-far)
-
- [![Trump to nominate Linda McMahon for education secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/linda-mcmahon.jpg?ve=1&tl=1)
-
- ![Trump to nominate Linda McMahon for education secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/linda-mcmahon.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominate-linda-mcmahon-education-secretary)
-
-### [Trump to nominate Linda McMahon for education secretary](https://www.fox4news.com/news/trump-nominate-linda-mcmahon-education-secretary)
-
- [![Delta to serve Shake Shack burgers on flights](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2157750376.jpg?ve=1&tl=1)
-
- ![Delta to serve Shake Shack burgers on flights](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2157750376.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/delta-shake-shack-burgers)
-
-### [Delta to serve Shake Shack burgers on flights](https://www.fox4news.com/news/delta-shake-shack-burgers)
 
 ###### [News](https://www.fox4news.com/news)
 
