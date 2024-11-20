@@ -186,7 +186,6 @@
     * [Popular destinations](https://restless.co.uk/travel/holiday-destinations/)
     * [Travel guides](https://restless.co.uk/travel/travel-guides/)
     * [Travel competitions](https://restless.co.uk/travel/travel-competitions/)
-    * [Hotel reviews](https://travel.restless.co.uk/collection/hotel-only)
 * [Lifestyle](https://restless.co.uk/leisure-and-lifestyle/)
     * [Lifestyle home](https://restless.co.uk/leisure-and-lifestyle/)
     * [Art & culture](https://restless.co.uk/leisure-and-lifestyle/art-and-culture/)
@@ -394,7 +393,7 @@ Featured travel offers
     
     30% off | Greece | 10 days | Accommodation, Flights & Transfers Included
     
-    Black Friday Sale: up to 70% off selected deals
+    Black Friday Sale: Get up to 70% off selected deals.
     
     From £1,249pp £1,789pp  
     
@@ -543,17 +542,17 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![From Arctic to Equator - 11 amazing adventures for every season](https://media.restless.co.uk/uploads/2024/10/from-arctic-to-equator-11-amazing-adventures-for-every-season-768x287.jpg)](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)
+
+### [From Arctic to Equator – 11 amazing adventures for every season](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)  
+
+[Read More »](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)
+
 [![11 sunny spots five hours or less from the UK](https://media.restless.co.uk/uploads/2024/10/sunny-spots-five-hours-or-less-from-the-uk-768x365.jpg)](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
 
 ### [10 sunny spots five hours or less from the UK](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
 
 [Read More »](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
-
-[![7 locations that offer great value luxury](https://media.restless.co.uk/uploads/2024/09/locations-that-offer-great-value-luxury-768x482.jpg)](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
-
-### [7 locations that offer great value luxury](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
-
-[Read More »](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
 
 [![12 of the best winter sun cruise destinations](https://media.restless.co.uk/uploads/2024/11/the-best-winter-sun-cruise-destinations-768x512.jpg)](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/)
 
