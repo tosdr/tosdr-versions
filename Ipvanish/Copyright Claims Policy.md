@@ -30,6 +30,7 @@
         * [No-traffic-log Policy](https://www.ipvanish.com/no-log-vpn-policy/)
         * [Reviews](https://www.ipvanish.com/reviews/)
     * [![mm-ast-icon](https://www.ipvanish.com/wp-content/uploads/2024/05/features-icon-menu-1.svg)Features](https://www.ipvanish.com/vpn-features/) Menu Toggle
+        * [Double HopNew!](https://www.ipvanish.com/vpn-features/double-hop-vpn/)
         * [Kill Switch](https://www.ipvanish.com/vpn-features/vpn-kill-switch/)
         * [Split Tunneling](https://www.ipvanish.com/vpn-features/split-tunneling/)
         * [Threat Protection](https://www.ipvanish.com/vpn-features/threat-protection/)
@@ -139,6 +140,8 @@
         ![Features](https://www.ipvanish.com/wp-content/uploads/2024/05/features-icon-menu-1.svg)
         
         [Features](https://www.ipvanish.com/vpn-features/)
+        
+        [Double Hop](https://www.ipvanish.com/vpn-features/double-hop-vpn/) New!
         
         [Kill Switch](https://www.ipvanish.com/vpn-features/split-tunneling/)
         
@@ -331,6 +334,8 @@ Main Menu
         ![Features](https://www.ipvanish.com/wp-content/uploads/2024/05/features-icon-menu-1.svg)
         
         [Features](https://www.ipvanish.com/vpn-features/)
+        
+        [Double Hop](https://www.ipvanish.com/vpn-features/double-hop-vpn/) New!
         
         [Kill Switch](https://www.ipvanish.com/vpn-features/split-tunneling/)
         
