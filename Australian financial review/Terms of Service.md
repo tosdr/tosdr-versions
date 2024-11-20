@@ -321,9 +321,9 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1293%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_83/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/de41f591669e693a0f9c469f694587abc5be9cdd)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/what-it-feels-like-to-drive-a-multimillion-dollar-simulator-20241105-p5knxn)
+[![The DiM250 DYNAMIC Driving Simulator at the Goodyear Simulation Centre in Luxembourg. ](https://static.ffx.io/images/$zoom_1.7685%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/59ac9aec8d680ca4121fc1b10e3f66b72569637d)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/what-it-feels-like-to-drive-a-multimillion-dollar-simulator-20241105-p5knxn)
 
-### [What it feels like to drive a multimillion-dollar simulator](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/what-it-feels-like-to-drive-a-multimillion-dollar-simulator-20241105-p5knxn)
+### [This multimillion-dollar simulator is fully sick, in the best way](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/what-it-feels-like-to-drive-a-multimillion-dollar-simulator-20241105-p5knxn)
 
 * Tony Davis
 
