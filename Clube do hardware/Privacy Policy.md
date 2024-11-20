@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Thiago0293](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256365.thumb.jpeg.cbe2233609b162868e046419a2c59afb.jpeg)](https://www.clubedohardware.com.br/profile/1256365-thiago0293/ "Ir ao perfil de Thiago0293")
+    * [![Eduardo josé Alberti](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23628cc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EEJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256384-eduardo-jos%C3%A9-alberti/ "Ir ao perfil de Eduardo josé Alberti")
         
         0
         
-        [Programas carregando infinitamente na area de trabalho sem poder reiniciar...](https://www.clubedohardware.com.br/forums/topic/1702827-programas-carregando-infinitamente-na-area-de-trabalho-sem-poder-reiniciar/?do=getNewComment "Programas carregando infinitamente na area de trabalho sem poder reiniciar...")
+        [Essa é a melhor forma de conectar meus cabos? Quais devo usar?](https://www.clubedohardware.com.br/forums/topic/1702848-essa-%C3%A9-a-melhor-forma-de-conectar-meus-cabos-quais-devo-usar/?do=getNewComment "Essa é a melhor forma de conectar meus cabos? Quais devo usar?")
         
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [Thiago0293](https://www.clubedohardware.com.br/profile/1256365-thiago0293/ "Ir ao perfil de Thiago0293")  
-        18 minutos atrás
+        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
+        Por [Eduardo josé Alberti](https://www.clubedohardware.com.br/profile/1256384-eduardo-jos%C3%A9-alberti/ "Ir ao perfil de Eduardo josé Alberti")  
+        39 minutos atrás
         
-    * [![abertossi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255735.thumb.jpeg.8c2cc15a92596ad35fb37bf96b080f3a.jpeg)](https://www.clubedohardware.com.br/profile/1255735-abertossi/ "Ir ao perfil de abertossi")
-        
-        0
-        
-        [Pc não reproduz som win10 X99](https://www.clubedohardware.com.br/forums/topic/1702826-pc-n%C3%A3o-reproduz-som-win10-x99/?do=getNewComment "Pc não reproduz som win10 X99")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [abertossi](https://www.clubedohardware.com.br/profile/1255735-abertossi/ "Ir ao perfil de abertossi")  
-        24 minutos atrás
-        
-    * [![ujezzy_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/IMG_5837.thumb.png.e206c438e4354843ba04eb9f8d8f6cc5.png)](https://www.clubedohardware.com.br/profile/1247539-ujezzy_/ "Ir ao perfil de ujezzy_")
+    * [![Noa1.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/IMG_1872.thumb.jpeg.c88f00223005bc2f4b6106daab9847df.jpeg)](https://www.clubedohardware.com.br/profile/1256385-noa1/ "Ir ao perfil de Noa1.")
         
         0
         
-        [pc desligou só durabte capcut](https://www.clubedohardware.com.br/forums/topic/1702825-pc-desligou-s%C3%B3-durabte-capcut/?do=getNewComment "pc desligou só durabte capcut")
+        [Sobre pasta térmica na montagem pela loja terabyte](https://www.clubedohardware.com.br/forums/topic/1702847-sobre-pasta-t%C3%A9rmica-na-montagem-pela-loja-terabyte/?do=getNewComment "Sobre pasta térmica na montagem pela loja terabyte")
+        
+        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
+        Por [Noa1.](https://www.clubedohardware.com.br/profile/1256385-noa1/ "Ir ao perfil de Noa1.")  
+        1 hora atrás
+        
+    * [![Tiago068](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253597.thumb.png.a9180a7adafa6f6d2058e08ccf4cabcc.png)](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")
+        
+        0
+        
+        [red dead 2 com congelamento e apresentando lentidão](https://www.clubedohardware.com.br/forums/topic/1702846-red-dead-2-com-congelamento-e-apresentando-lentid%C3%A3o/?do=getNewComment "red dead 2 com congelamento e apresentando lentidão")
+        
+        [Jogos](https://www.clubedohardware.com.br/forums/forum/104-jogos/ "Jogos")  
+        Por [Tiago068](https://www.clubedohardware.com.br/profile/1253597-tiago068/ "Ir ao perfil de Tiago068")  
+        1 hora atrás
+        
+    * [![Thiagogamallo](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1104718.thumb.jpeg.01917a675f1d5062bf9d912e3be7fb7d.jpeg)](https://www.clubedohardware.com.br/profile/1104718-thiagogamallo/ "Ir ao perfil de Thiagogamallo")
+        
+        0
+        
+        [Presciso de recomendações de notebooks para jogos até R$ 6.000,00](https://www.clubedohardware.com.br/forums/topic/1702845-presciso-de-recomenda%C3%A7%C3%B5es-de-notebooks-para-jogos-at%C3%A9-r-600000/?do=getNewComment "Presciso de recomendações de notebooks para jogos até R$ 6.000,00")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Thiagogamallo](https://www.clubedohardware.com.br/profile/1104718-thiagogamallo/ "Ir ao perfil de Thiagogamallo")  
+        1 hora atrás
+        
+    * [![Lucas7rlk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255728.thumb.jpeg.30ea17ccecc068d045a3144fee68df65.jpeg)](https://www.clubedohardware.com.br/profile/1255728-lucas7rlk/ "Ir ao perfil de Lucas7rlk")
+        
+        0
+        
+        [dpi ou software para mouse estone x9](https://www.clubedohardware.com.br/forums/topic/1702844-dpi-ou-software-para-mouse-estone-x9/?do=getNewComment "dpi ou software para mouse estone x9")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Lucas7rlk](https://www.clubedohardware.com.br/profile/1255728-lucas7rlk/ "Ir ao perfil de Lucas7rlk")  
+        2 horas atrás
+        
+    * [![Pistigrilo](https://www.clubedohardware.com.br/uploads/members/profile/photo-thumb-529369.jpg)](https://www.clubedohardware.com.br/profile/529369-pistigrilo/ "Ir ao perfil de Pistigrilo")
+        
+        1
+        
+        [Suspeita de degradação em uma antiga Corsair CMPSU-850AX (2011)](https://www.clubedohardware.com.br/forums/topic/1702843-suspeita-de-degrada%C3%A7%C3%A3o-em-uma-antiga-corsair-cmpsu-850ax-2011/?do=getNewComment "Suspeita de degradação em uma antiga Corsair CMPSU-850AX (2011)")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [ujezzy\_](https://www.clubedohardware.com.br/profile/1247539-ujezzy_/ "Ir ao perfil de ujezzy_")  
-        43 minutos atrás
+        Por [Pistigrilo](https://www.clubedohardware.com.br/profile/529369-pistigrilo/ "Ir ao perfil de Pistigrilo")  
+        3 horas atrás
         
-    * [![KombiDoOvo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256368.thumb.png.11b3bf21c36875d71b13ff0bd1edc3cf.png)](https://www.clubedohardware.com.br/profile/1256368-kombidoovo/ "Ir ao perfil de KombiDoOvo")
-        
-        3
-        
-        [PC Lenovo com Intel Core i7-4790 e 16GB RAM vale a pena por R$800,00?](https://www.clubedohardware.com.br/forums/topic/1702824-pc-lenovo-com-intel-core-i7-4790-e-16gb-ram-vale-a-pena-por-r80000/?do=getNewComment "PC Lenovo com Intel Core i7-4790 e 16GB RAM vale a pena por R$800,00?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [KombiDoOvo](https://www.clubedohardware.com.br/profile/1256368-kombidoovo/ "Ir ao perfil de KombiDoOvo")  
-        54 minutos atrás
-        
-    * [![Guilherme Cador](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1252067.thumb.jpeg.209d43597931144e50b462c7c5b5c651.jpeg)](https://www.clubedohardware.com.br/profile/1252067-guilherme-cador/ "Ir ao perfil de Guilherme Cador")
-        
-        2
-        
-        [Controle 8BitDo não funciona no Game Pass PC](https://www.clubedohardware.com.br/forums/topic/1702823-controle-8bitdo-n%C3%A3o-funciona-no-game-pass-pc/?do=getNewComment "Controle 8BitDo não funciona no Game Pass PC")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Guilherme Cador](https://www.clubedohardware.com.br/profile/1252067-guilherme-cador/ "Ir ao perfil de Guilherme Cador")  
-        1 hora atrás
-        
-    * [![davialmeida21_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256351.thumb.jpeg.b34fb095c6778868fc460d1660f8b8ef.jpeg)](https://www.clubedohardware.com.br/profile/1256351-davialmeida21_/ "Ir ao perfil de davialmeida21_")
+    * [![g.amaral016](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256376.thumb.jpeg.5c0fa61ac3121cc397cc545c69d5fa5c.jpeg)](https://www.clubedohardware.com.br/profile/1256376-gamaral016/ "Ir ao perfil de g.amaral016")
         
         0
         
-        [Fans para o Acegeek Aquarium M345](https://www.clubedohardware.com.br/forums/topic/1702822-fans-para-o-acegeek-aquarium-m345/?do=getNewComment "Fans para o Acegeek Aquarium M345")
+        [tenho um acer nitro 5(notebook) 16 de ram 960 de memória e placa de Vídeo geforc](https://www.clubedohardware.com.br/forums/topic/1702842-tenho-um-acer-nitro-5notebook-16-de-ram-960-de-mem%C3%B3ria-e-placa-de-v%C3%ADdeo-geforc/?do=getNewComment "tenho um acer nitro 5(notebook) 16 de ram 960 de memória e placa de Vídeo geforc")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [g.amaral016](https://www.clubedohardware.com.br/profile/1256376-gamaral016/ "Ir ao perfil de g.amaral016")  
+        4 horas atrás
+        
+    * [![JMF](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256374.thumb.png.918632c5fe70a7c24c35da4d95f560a4.png)](https://www.clubedohardware.com.br/profile/1256374-jmf/ "Ir ao perfil de JMF")
+        
+        1
+        
+        [PC não liga, mesmo com tentativa de ligação direta - Placa-mãe B550 TUF](https://www.clubedohardware.com.br/forums/topic/1702841-pc-n%C3%A3o-liga-mesmo-com-tentativa-de-liga%C3%A7%C3%A3o-direta-placa-m%C3%A3e-b550-tuf/?do=getNewComment "PC não liga, mesmo com tentativa de ligação direta - Placa-mãe B550 TUF")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [JMF](https://www.clubedohardware.com.br/profile/1256374-jmf/ "Ir ao perfil de JMF")  
+        4 horas atrás
+        
+    * [![giordana_stumm](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256375.thumb.jpeg.df9f405451a592d8042adf723d4a451e.jpeg)](https://www.clubedohardware.com.br/profile/1256375-giordana_stumm/ "Ir ao perfil de giordana_stumm")
+        
+        1
+        
+        [Controladora de fans da rise mode](https://www.clubedohardware.com.br/forums/topic/1702840-controladora-de-fans-da-rise-mode/?do=getNewComment "Controladora de fans da rise mode")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [davialmeida21\_](https://www.clubedohardware.com.br/profile/1256351-davialmeida21_/ "Ir ao perfil de davialmeida21_")  
-        1 hora atrás
+        Por [giordana\_stumm](https://www.clubedohardware.com.br/profile/1256375-giordana_stumm/ "Ir ao perfil de giordana_stumm")  
+        4 horas atrás
         
-    * [![Calebe A Melo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253096.thumb.png.979a3027b03df364fd4a2d114823b4c8.png)](https://www.clubedohardware.com.br/profile/1253096-calebe-a-melo/ "Ir ao perfil de Calebe A Melo")
+    * [![Keven Barros](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256353.thumb.jpeg.6f5c08618220ebeca9954e422e5a9efa.jpeg)](https://www.clubedohardware.com.br/profile/1256353-keven-barros/ "Ir ao perfil de Keven Barros")
         
-        0
+        1
         
-        [Controle Flydigi Vader 4 Pro e Mouse Delux M900 PRO valem a pena?](https://www.clubedohardware.com.br/forums/topic/1702821-controle-flydigi-vader-4-pro-e-mouse-delux-m900-pro-valem-a-pena/?do=getNewComment "Controle Flydigi Vader 4 Pro e Mouse Delux M900 PRO valem a pena?")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Calebe A Melo](https://www.clubedohardware.com.br/profile/1253096-calebe-a-melo/ "Ir ao perfil de Calebe A Melo")  
-        1 hora atrás
-        
-    * [![Thiago0293](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256365.thumb.jpeg.cbe2233609b162868e046419a2c59afb.jpeg)](https://www.clubedohardware.com.br/profile/1256365-thiago0293/ "Ir ao perfil de Thiago0293")
-        
-        5
-        
-        [Programas carregando infinitamente na area de trabalho sem poder reiniciar...](https://www.clubedohardware.com.br/forums/topic/1702819-programas-carregando-infinitamente-na-area-de-trabalho-sem-poder-reiniciar/?do=getNewComment "Programas carregando infinitamente na area de trabalho sem poder reiniciar...")
-        
-        [Sugestões para o Clube do Hardware](https://www.clubedohardware.com.br/forums/forum/26-sugest%C3%B5es-para-o-clube-do-hardware/ "Sugestões para o Clube do Hardware")  
-        Por [Thiago0293](https://www.clubedohardware.com.br/profile/1256365-thiago0293/ "Ir ao perfil de Thiago0293")  
-        1 hora atrás
-        
-    * [![Kauêsch](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247131.thumb.jpeg.f8332d9bb448746e38bd90c94494542a.jpeg)](https://www.clubedohardware.com.br/profile/1247131-kau%C3%AAsch/ "Ir ao perfil de Kauêsch")
-        
-        3
-        
-        [FPS baixo com gráfico integrado do AMD Ryzen 7 5700G e um pente de memória](https://www.clubedohardware.com.br/forums/topic/1702818-fps-baixo-com-gr%C3%A1fico-integrado-do-amd-ryzen-7-5700g-e-um-pente-de-mem%C3%B3ria/?do=getNewComment "FPS baixo com gráfico integrado do AMD Ryzen 7 5700G e um pente de memória")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [Kauêsch](https://www.clubedohardware.com.br/profile/1247131-kau%C3%AAsch/ "Ir ao perfil de Kauêsch")  
-        2 horas atrás
-        
-    * [![zhows](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244598.thumb.jpeg.7a2db9fbf0aa1eef5f37ae0fff1359dd.jpeg)](https://www.clubedohardware.com.br/profile/1244598-zhows/ "Ir ao perfil de zhows")
-        
-        0
-        
-        [A controladora do gabinete montech air 100 da para controlar pelo software?](https://www.clubedohardware.com.br/forums/topic/1702817-a-controladora-do-gabinete-montech-air-100-da-para-controlar-pelo-software/?do=getNewComment "A controladora do gabinete montech air 100 da para controlar pelo software?")
+        [placa-mãe B550M K é boa ou não ?](https://www.clubedohardware.com.br/forums/topic/1702839-placa-m%C3%A3e-b550m-k-%C3%A9-boa-ou-n%C3%A3o/?do=getNewComment "placa-mãe B550M K é boa ou não ?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [zhows](https://www.clubedohardware.com.br/profile/1244598-zhows/ "Ir ao perfil de zhows")  
-        2 horas atrás
+        Por [Keven Barros](https://www.clubedohardware.com.br/profile/1256353-keven-barros/ "Ir ao perfil de Keven Barros")  
+        4 horas atrás
         
     
 
