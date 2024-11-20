@@ -876,7 +876,7 @@ Complaints concerning Lifeline service can be directed to the Washington State O
 
 * [Help Center](https://www.accesswireless.com/faq)
 * [Lifeline](https://www.accesswireless.com/lifeline)
-* [Phone Order Status](https://shop.accesswireless.com/orders.php)
+* [Phone Order Status](https://www.accesswireless.com/phone-order-status)
 * [Careers](https://www.accesswireless.com/careers)
 
 #### My Account
