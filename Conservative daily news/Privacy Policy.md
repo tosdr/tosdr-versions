@@ -1,15 +1,15 @@
-Tuesday, November 19 2024
+Wednesday, November 20 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Wednesday, November 20, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-20-2024/)
+* [The “People’s President” vs the Corrupt Elites](https://www.conservativedailynews.com/2024/11/the-peoples-president-vs-the-corrupt-elites/)
 * [Why Matt Gaetz Makes Sense As Attorney General](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/)
 * [President Joe Biden’s Schedule for Tuesday, November 19, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-19-2024/)
 * [If You Think Kamala Harris Was Serious About The Things She Promised During The Recent Presidential Campaign, You’re Dead Wrong](https://www.conservativedailynews.com/2024/11/if-you-think-kamala-harris-was-serious-about-the-things-she-promised-during-the-recent-presidential-campaign-youre-dead-wrong/)
 * [Jen Psaki Admits Dems Are ‘In The Wilderness’ Without A ‘Clear Leader Of The Party’](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/)
 * [Now an Excellent Time to Add 4 more Justices of the Supreme Court](https://www.conservativedailynews.com/2024/11/now-an-excellent-time-to-add-4-more-justices-of-the-supreme-court/)
 * [Trump Confirms He Will Declare National Emergency, Use Military Assets For Mass Deportation](https://www.conservativedailynews.com/2024/11/trump-confirms-he-will-declare-national-emergency-use-military-assets-for-mass-deportation/)
-* [Baseless Assaults Will Fill The Airwaves Until Nominations Complete](https://www.conservativedailynews.com/2024/11/baseless-assaults-will-fill-the-airwaves-until-nominations-complete/)
-* [Medal of Honor Monday: Army Sgt. 1st Class Sammy Lee Davis](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-sgt-1st-class-sammy-lee-davis/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-20-2024/)
+    
+    [President Joe Biden’s Schedule for Wednesday, November 20, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-20-2024/)
+    
+    November 20, 2024
+    
+* [![Biden fema florida hurricane](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv111924dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/bidens-fema/)
+    
+    [Biden’s FEMA](https://www.conservativedailynews.com/2024/11/bidens-fema/)
+    
+    November 19, 2024
+    
+* [![Trump wins success fighter](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/the-peoples-president-vs-the-corrupt-elites/)
+    
+    [The “People’s President” vs the Corrupt Elites](https://www.conservativedailynews.com/2024/11/the-peoples-president-vs-the-corrupt-elites/)
+    
+    November 19, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2018/03/Ice-arresting-illegal-alien.jpg)](https://www.conservativedailynews.com/2024/11/debunking-the-lefts-deportation-hysteria/)
     
     [Debunking the Left’s Deportation Hysteria](https://www.conservativedailynews.com/2024/11/debunking-the-lefts-deportation-hysteria/)
@@ -160,37 +178,19 @@ Recent Posts
     
     November 19, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-19-2024/)
-    
-    [President Joe Biden’s Schedule for Tuesday, November 19, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-19-2024/)
-    
-    November 19, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/01-blowback-sm-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/11/if-you-think-kamala-harris-was-serious-about-the-things-she-promised-during-the-recent-presidential-campaign-youre-dead-wrong/)
-    
-    [If You Think Kamala Harris Was Serious About The Things She Promised During The Recent Presidential Campaign, You’re Dead Wrong](https://www.conservativedailynews.com/2024/11/if-you-think-kamala-harris-was-serious-about-the-things-she-promised-during-the-recent-presidential-campaign-youre-dead-wrong/)
-    
-    November 18, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/)
-    
-    [Jen Psaki Admits Dems Are ‘In The Wilderness’ Without A ‘Clear Leader Of The Party’](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/)
-    
-    November 18, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Why I Love Hunting With Suppressors](https://www.thegunpage.com/why-i-love-hunting-with-suppressors/10611989)
+* [POTD: Shooting Rk62, R20 LMTs and B&Ts in Iraq](https://www.thegunpage.com/potd-shooting-rk62-r20-lmts-and-bts-in-iraq/10611990)
+* [TFB 2024 Black Friday/Cyber Monday Deals](https://www.thegunpage.com/tfb-2024-black-friday-cyber-monday-deals/10611987)
+* [Affordable Long-Range Precision: Vortex’s New Strike Eagle 3-18x44mm and Mossberg 7mm PRC](https://www.thegunpage.com/affordable-long-range-precision-vortexs-new-strike-eagle-3-18x44mm-and-mossberg-7mm-prc/10611984)
+* [MI: Four Gun Control Bills on the Move](https://www.thegunpage.com/mi-four-gun-control-bills-on-the-move/10611982)
+* [Giving Guns as Gifts: Know the Law](https://www.thegunpage.com/giving-guns-as-gifts-know-the-law/10611981)
+* [Canto Arms DL-44 Hero: Upgraded Blaster](https://www.thegunpage.com/canto-arms-dl-44-hero-upgraded-blaster/10611979)
 * [Canto Arms A280-CFE .22 Blaster Build](https://www.thegunpage.com/canto-arms-a280-cfe-22-blaster-build/10611977)
 * [EAA Introduces The Girsan Influencer X: A 1911 For The 2020s](https://www.thegunpage.com/eaa-introduces-the-girsan-influencer-x-a-1911-for-the-2020s/10611973)
 * [New Jersey Gun Dealers Sued By Attorney General For Selling Ammunition Without Asking For ID Or Permit](https://www.thegunpage.com/new-jersey-gun-dealers-sued-by-attorney-general-for-selling-ammunition-without-asking-for-id-or-permit/10611970)
-* [B&T's Euro Spec Ops Glock 19 w/ ACRO P2](https://www.thegunpage.com/bts-euro-spec-ops-glock-19-w-acro-p2/10611974)
-* [Ignorant Analysis Of Illinois AWB Ruling Proves Who The Real “Jackass” Is](https://www.thegunpage.com/ignorant-analysis-of-illinois-awb-ruling-proves-who-the-real-jackass-is/10611968)
-* [Meet one of the country’s worst sheriffs](https://www.thegunpage.com/meet-one-of-the-countrys-worst-sheriffs/10611966)
-* [2024 Holiday Gift Guide: Pistols](https://www.thegunpage.com/2024-holiday-gift-guide-pistols/10611965)
-* [TFB Review: New AR-15 Accessories from F.A.B. Defense](https://www.thegunpage.com/tfb-review-new-ar-15-accessories-from-f-a-b-defense/10611962)
-* [POTD: Flying Heckler & Kochs](https://www.thegunpage.com/potd-flying-heckler-kochs/10611963)
-* [The Rimfire Report: Why Aren't .17HMR & .22WMR More Popular?](https://www.thegunpage.com/the-rimfire-report-why-arent-17hmr-22wmr-more-popular/10611960)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,8 @@ Contact Us
 
 Recent Comments
 
+* MeMyself&I on [Jen Psaki Admits Dems Are ‘In The Wilderness’ Without A ‘Clear Leader Of The Party’](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/#comment-783298)
+* Stanley Warner on [If You Think Kamala Harris Was Serious About The Things She Promised During The Recent Presidential Campaign, You’re Dead Wrong](https://www.conservativedailynews.com/2024/11/if-you-think-kamala-harris-was-serious-about-the-things-she-promised-during-the-recent-presidential-campaign-youre-dead-wrong/#comment-783295)
 * Stanley Warner on [Five Government Programs That Musk’s Government Efficiency Agency Could Put On The Chopping Block](https://www.conservativedailynews.com/2024/11/five-government-programs-that-musks-government-efficiency-agency-could-put-on-the-chopping-block/#comment-783286)
 * Stanley Warner on [Trump Sends His Clearest Message Yet To DOJ Bureaucrats With Unexpected Leadership Picks](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/#comment-783285)
 * Beverly Sellers on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783274)
@@ -239,8 +241,6 @@ Recent Comments
 * Stanley Warner on [Can A FOX Weekend Host Run Our Military? Absolutely](https://www.conservativedailynews.com/2024/11/can-a-fox-weekend-host-run-our-military-absolutely/#comment-783268)
 * Stanley Warner on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783267)
 * Ted Thomas on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783266)
-* Stanley Warner on [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/#comment-783259)
-* Stanley Warner on [A Lesson For Democrats — Don’t Be Weird](https://www.conservativedailynews.com/2024/11/a-lesson-for-democrats-dont-be-weird/#comment-783258)
 
 [Close](#)
 
