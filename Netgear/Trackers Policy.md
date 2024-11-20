@@ -132,7 +132,7 @@ Previous Next
     * [Press Room](https://www.netgear.com/hub/pressroom/)
     * [Blogs](https://www.netgear.com/hub/business/network/)
     * [Community](https://community.netgear.com/t5/english/ct-p/english)
-    * [Success Stories](https://www.netgear.com/business/success-stories/#filter=.insight%2c.switches%2c.wireless-access-points%2c.orbi-wifi-system)
+    * [Case Studies](https://www.netgear.com/hub/business/case-studies/it-case-studies/)
     * [Become a Partner](https://powershift.netgear.com/)
     * [Events](https://www.netgear.com/business/events/)
     
@@ -196,7 +196,7 @@ Previous Next
     * [Press Room](https://www.netgear.com/hub/pressroom/)
     * [Blogs](https://www.netgear.com/hub/business/av/)
     * [Community](https://community.netgear.com/t5/pro-av-over-ip-switches/bd-p/en-business-pro-av-over-ip-switches)
-    * [Success Stories](https://www.netgear.com/business/success-stories/#filter=.insight%2c.wireless-access-points%2c.av-over-ip)
+    * [Case Studies](https://www.netgear.com/hub/business/case-studies/av-case-studies/)
     * [Events](https://www.netgear.com/business/events/)
     
     * [WiFi 7](https://www.netgear.com/business/wifi/wifi7/)
@@ -451,7 +451,7 @@ Shop By Brand :
 * [Press Room](https://www.netgear.com/hub/pressroom/)
 * [Blogs](https://www.netgear.com/hub/business/network/)
 * [Community](https://community.netgear.com/t5/english/ct-p/english)
-* [Success Stories](https://www.netgear.com/business/success-stories/#filter=.insight%2c.switches%2c.wireless-access-points%2c.orbi-wifi-system)
+* [Case Studies](https://www.netgear.com/hub/business/case-studies/it-case-studies/)
 * [Become a Partner](https://powershift.netgear.com/)
 * [Events](https://www.netgear.com/business/events/)
 
@@ -511,7 +511,7 @@ Shop By Brand :
 * [Press Room](https://www.netgear.com/hub/pressroom/)
 * [Blogs](https://www.netgear.com/hub/business/av/)
 * [Community](https://community.netgear.com/t5/pro-av-over-ip-switches/bd-p/en-business-pro-av-over-ip-switches)
-* [Success Stories](https://www.netgear.com/business/success-stories/#filter=.insight%2c.wireless-access-points%2c.av-over-ip)
+* [Case Studies](https://www.netgear.com/hub/business/case-studies/av-case-studies/)
 * [Events](https://www.netgear.com/business/events/)
 
 [LEARNING CENTER](#navdrop24)
