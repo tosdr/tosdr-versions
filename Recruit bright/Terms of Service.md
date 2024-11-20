@@ -285,7 +285,7 @@ Close
 
 [](javascript:void(0);)
 
-Required 'Candidate' login to applying this job. Click here to [logout](https://www.recruitbright.in/macosbigsur/?action=logout&redirect_to=https%3A%2F%2Fwww.recruitbright.in%2Fterms-and-conditions%2F&_wpnonce=f1f030e78c) And try again
+Required 'Candidate' login to applying this job. Click here to [logout](https://www.recruitbright.in/macosbigsur/?action=logout&redirect_to=https%3A%2F%2Fwww.recruitbright.in%2Fterms-and-conditions%2F&_wpnonce=32bf80530b) And try again
 
 Login to your account
 ---------------------
