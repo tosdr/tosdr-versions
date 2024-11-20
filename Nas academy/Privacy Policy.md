@@ -71,11 +71,13 @@ We may revise this Notice from time to time without any prior notice. You may de
 
 [Creator Accelerator Program](https://nasacademy.com/cap)
 
+[Privacy T&C](https://nasacademy.com/privacy)
+
 [Challenges](https://nasacademy.com/challenges)
 
-[About us](https://www.nas.co/)
+[Enrollment Terms](https://nasacademy.com/enrollment-terms)
 
-[Privacy T&C](https://nasacademy.com/privacy)
+[About us](https://www.nas.co/)
 
 [![](https://framerusercontent.com/images/YjEYWWQvh5ELqokk9iYFyoiRowo.png)](https://nasacademy.com/)
 
@@ -93,6 +95,8 @@ Copyright©2023 All Rights Reserved by Nas Education
 
 [Privacy T&C](https://nasacademy.com/privacy)
 
+[Enrollment Terms](https://nasacademy.com/enrollment-terms)
+
 [![](https://framerusercontent.com/images/YjEYWWQvh5ELqokk9iYFyoiRowo.png)](https://nasacademy.com/)
 
 [](https://www.facebook.com/NasAcademy/)[](https://www.tiktok.com/@nasacademy)[](https://www.instagram.com/nasacademy/)[](https://www.youtube.com/channel/UCPxruz1GHlnZx4QuoWJu-Wg)[](https://twitter.com/NASAcademy/)[](https://www.linkedin.com/company/nasacademy-com/)
@@ -108,6 +112,8 @@ Copyright©2023 All Rights Reserved by Nas Education
 [About us](https://www.nas.co/)
 
 [Privacy T&C](https://nasacademy.com/privacy)
+
+[Enrollment Terms](https://nasacademy.com/enrollment-terms)
 
 [![](https://framerusercontent.com/images/YjEYWWQvh5ELqokk9iYFyoiRowo.png)](https://nasacademy.com/)
 
