@@ -272,10 +272,28 @@ Asia
     
     ### SHOP NOW
     
-* Sustainability
+* Who We Are
     
-    * [Show all](https://www.fjallraven.com/us/en-us/about/sustainability/)
-    * [Explore](https://www.fjallraven.com/us/en-us/about/sustainability/)
+    * [About Fjällräven](https://www.fjallraven.com/us/en-us/about/)
+    * [Our Mission](https://www.fjallraven.com/us/en-us/about/our-mission/)
+    * [Our History](https://www.fjallraven.com/us/en-us/about/our-history/)
+    * Sustainability
+        
+        * [Overview](https://www.fjallraven.com/us/en-us/about/sustainability/)
+        * [Sustainable design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
+        * [Sustainable Materials](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-materials/)
+        * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
+        * [The Fjällräven Compass](https://www.fjallraven.com/us/en-us/about/sustainability/the-fjallraven-compass/)
+        * [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
+        * [Our Promises](https://www.fjallraven.com/us/en-us/about/sustainability/our-promises/)
+        
+    * Experiences
+        
+        * [Overview](https://experience.fjallraven.com/)
+        * [Foxtrail](https://experience.fjallraven.com/articles)
+        * [Fjällräven Classic](https://experience.fjallraven.com/classic)
+        * [Fjällräven Polar](https://experience.fjallraven.com/polar/2025)
+        
     
     ![](/4a76c5/globalassets/fjallraven/us/homepage/2024/new-mobile-heroshdw-1.png)
     
@@ -285,14 +303,6 @@ Asia
     --------------
     
     ### LEARN MORE
-    
-* EXPERIENCES
-    
-    * [Show all](https://experience.fjallraven.com/us/en-us?id=6e8cc8e7-2425-469a-ac9b-f66bde6edf78)
-    * [Foxtrail](https://foxtrail.fjallraven.com/)
-    * [Fjällräven Classic](https://classic.fjallraven.com/)
-    * [Fjällräven Polar](https://experience.fjallraven.com/polar/2025)
-    * [Nature Is Waiting](https://www.fjallraven.com/us/en-us/nature-is-waiting/)
     
 
 * * Men
@@ -448,18 +458,28 @@ Asia
             * [Sleeping Bags](https://www.fjallraven.com/us/en-us/bags-gear/tents-sleeping-bags/sleeping-bags/)
             
         
-    * Sustainability
+    * Who We Are
         
-        * [Show all](https://www.fjallraven.com/us/en-us/about/sustainability/)
-        * [Explore](https://www.fjallraven.com/us/en-us/about/sustainability/)
-        
-    * EXPERIENCES
-        
-        * [Show all](https://experience.fjallraven.com/us/en-us?id=6e8cc8e7-2425-469a-ac9b-f66bde6edf78)
-        * [Foxtrail](https://foxtrail.fjallraven.com/)
-        * [Fjällräven Classic](https://classic.fjallraven.com/)
-        * [Fjällräven Polar](https://experience.fjallraven.com/polar/2025)
-        * [Nature Is Waiting](https://www.fjallraven.com/us/en-us/nature-is-waiting/)
+        * [About Fjällräven](https://www.fjallraven.com/us/en-us/about/)
+        * [Our Mission](https://www.fjallraven.com/us/en-us/about/our-mission/)
+        * [Our History](https://www.fjallraven.com/us/en-us/about/our-history/)
+        * Sustainability
+            
+            * [Overview](https://www.fjallraven.com/us/en-us/about/sustainability/)
+            * [Sustainable design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
+            * [Sustainable Materials](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-materials/)
+            * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
+            * [The Fjällräven Compass](https://www.fjallraven.com/us/en-us/about/sustainability/the-fjallraven-compass/)
+            * [Product Care](https://www.fjallraven.com/us/en-us/about/sustainability/care-repair/)
+            * [Our Promises](https://www.fjallraven.com/us/en-us/about/sustainability/our-promises/)
+            
+        * Experiences
+            
+            * [Overview](https://experience.fjallraven.com/)
+            * [Foxtrail](https://experience.fjallraven.com/articles)
+            * [Fjällräven Classic](https://experience.fjallraven.com/classic)
+            * [Fjällräven Polar](https://experience.fjallraven.com/polar/2025)
+            
         
 * * Customer Service
         
@@ -478,7 +498,7 @@ Asia
         * [Warranty](https://www.fjallraven.com/us/en-us/customer-service/warranty/)
         * [Gift Card Information](https://www.fjallraven.com/us/en-us/customer-service/gift-card-information/)
         
-    * About Fjällräven
+    * Who We Are
         
         * [Luminos.Storefront.Web.Features.Blocks.SideNavigationBlock.Presentation.ViewModels.SideNavigationItem](https://www.fjallraven.com/us/en-us/about/)
         * [Our Mission](https://www.fjallraven.com/us/en-us/about/our-mission/)
@@ -488,7 +508,7 @@ Asia
         * [The Arctic Fox Initiative](https://www.fjallraven.com/us/en-us/about/the-arctic-fox-initiative/)
         * Sustainability
             
-            * [View page](https://www.fjallraven.com/us/en-us/about/sustainability/)
+            * [Overview](https://www.fjallraven.com/us/en-us/about/sustainability/)
             * [Sustainable design](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-design/)
             * [Sustainable Materials](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-materials/)
             * [Sustainable Production](https://www.fjallraven.com/us/en-us/about/sustainability/sustainable-production/)
@@ -541,7 +561,7 @@ Main Content Starts Here
 * [Warranty](https://www.fjallraven.com/us/en-us/customer-service/warranty/)
 * [Gift Card Information](https://www.fjallraven.com/us/en-us/customer-service/gift-card-information/)
 
- About Fjällräven
+ Who We Are
 
 * [Our Mission](https://www.fjallraven.com/us/en-us/about/our-mission/)
 * [Our History](https://www.fjallraven.com/us/en-us/about/our-history/)
@@ -714,7 +734,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=6e8cc8e7-2425-469a-ac9b-f66bde6edf78)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=e981b12d-1f69-434f-9e4a-f4770ef843c2)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
