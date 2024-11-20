@@ -38,27 +38,35 @@ Sign in with Google
 
 Sign in with Facebook
 
-Sign in with Clever
+Sign up with with Clever, Classlink if your school has BibGuru Plus
 
 Sign in with ClassLink
 
-Sign up with Google
+Sign in with Clever
 
-Sign up with Facebook
-
-Sign up with Clever
-
-Sign up with ClassLink
-
-Subscribe to newsletter
-
-It's free and only takes a second
+BibGuru Plus
 
 📚  Save your sources for later
 
 💻  Access your sources on every computer and your phone
 
-🗂  Organize your work with projects and folders
+🗂  Organize your work with multiple projects and folders
+
+🧘🏻  Ad free - clean and focused
+
+Only $4.99/month • 3 day free trial • Cancel anytime
+
+Sign up with Google
+
+Sign up with Facebook
+
+Sign up with with Clever, Classlink if your school has BibGuru Plus
+
+Sign up with ClassLink
+
+Sign up with Clever
+
+Subscribe to newsletter
 
 Terms of Service
 ================
