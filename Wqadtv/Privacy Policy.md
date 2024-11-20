@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_16x9.jpg) ![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_360x203.jpg)](https://www.wqad.com/article/news/crime/davenport-man-mallet-attack-mcnabb/526-03ca1cf1-3d52-47c0-b5e2-8dc20f45c8d3)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/07910991-94f2-45ca-85be-3649114b5e94/20241120T223558/07910991-94f2-45ca-85be-3649114b5e94_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/07910991-94f2-45ca-85be-3649114b5e94/20241120T223558/07910991-94f2-45ca-85be-3649114b5e94_360x203.jpg)](https://www.wqad.com/article/news/local/whiteys-ice-cream-sandwich-win/526-53cf7831-6562-499f-af2c-522218e0791a)
         
-        #### [Davenport man accused of using wooden croquet mallet to attack family member](https://www.wqad.com/article/news/crime/davenport-man-mallet-attack-mcnabb/526-03ca1cf1-3d52-47c0-b5e2-8dc20f45c8d3)
+        #### [Whitey's Ice Cream sandwich earns first-place honor in 2024 World Dairy Expo Championship](https://www.wqad.com/article/news/local/whiteys-ice-cream-sandwich-win/526-53cf7831-6562-499f-af2c-522218e0791a)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_360x203.jpg)](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
         
-        #### [Firefighters put out Sterling house fire](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051)
+        #### [Holiday happenings: Quad Cities events to get you in the holiday mood](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e7fae539-d2fc-4d8f-9013-2572190325cf/20241120T131605/e7fae539-d2fc-4d8f-9013-2572190325cf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e7fae539-d2fc-4d8f-9013-2572190325cf/20241120T131605/e7fae539-d2fc-4d8f-9013-2572190325cf_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/VERIFY/images/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb_16x9.jpg) ![](https://media.tegna-media.com/assets/VERIFY/images/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb_360x203.jpg)](https://www.wqad.com/article/weather/how-to-stay-warm-protect-your-home-freezing-cold-temperatures-in-winter/536-05d13af0-a6d9-4190-bdb2-2dc1ef4555a3)
         
-        #### [Weather Impact Alert: Gusty snow showers to reduce visibility this afternoon and evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [VERIFYING 5 claims about staying warm and protecting your home from the cold](https://www.wqad.com/article/weather/how-to-stay-warm-protect-your-home-freezing-cold-temperatures-in-winter/536-05d13af0-a6d9-4190-bdb2-2dc1ef4555a3)
         
-    *  [![](https://media.tegna-media.com/assets/KING/images/f235c124-ea34-45f6-964f-1ddd493a1bf1/20241120T003538/f235c124-ea34-45f6-964f-1ddd493a1bf1_16x9.jpg) ![](https://media.tegna-media.com/assets/KING/images/f235c124-ea34-45f6-964f-1ddd493a1bf1/20241120T003538/f235c124-ea34-45f6-964f-1ddd493a1bf1_360x203.jpg)](https://www.wqad.com/article/news/national/last-bomb-cyclone-washington/281-767a9b22-f621-4448-af88-6fbfde2310f8)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/wind-gusts-45-mph-thursday-storm-track-8-weather-impact-alert/526-a1d5b40b-159e-4c2c-b08e-5c2aed0245c8)
         
-        #### [Here's the last time Washington was impacted by a bomb cyclone](https://www.wqad.com/article/news/national/last-bomb-cyclone-washington/281-767a9b22-f621-4448-af88-6fbfde2310f8)
+        #### [Wind gusts could reach 45 mph on Thursday: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/wind-gusts-45-mph-thursday-storm-track-8-weather-impact-alert/526-a1d5b40b-159e-4c2c-b08e-5c2aed0245c8)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-44°
+34°
 
-![Fair/Wind](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
