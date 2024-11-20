@@ -20,41 +20,41 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
+    
+    ### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
+    
+    [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
+    
+    ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
+    
+    [![Tram-style buses are hitting the 358 route from Crystal Palace. Image: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/11/358-Side-view-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
+    
+    ### [New tram-style buses now departing from Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
+    
+    [![From left: Harrun, a biomedical student at KCL; Dennis at the Blue. R: An ambulance outside Guy's Hospital.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-14.37-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
+    
+    ### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
+    
+    [![City of London Academy in Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/City-of-London-Academy-in-Southwark-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
+    
+    ### [Parents who ‘shove’ screens in kids’ faces to blame for ADHD, says Bermondsey headteacher](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
+    
+    [![Thurlow Street was the scene of the blaze. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/thurlow-street-10-pump-pic-3-360x180.webp)](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
+    
+    ### [Brigade tackles blaze in Walworth residential block](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
+    
+    [![Crystal Palace Subway. Credit: Historic England](https://southwarknews.co.uk/wp-content/uploads/2024/11/DP232790-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
+    
+    ### [Victorian Crystal Palace subway and South London cemetery among conservations making ‘good progress’](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
+    
+    [![Creative Commons](https://southwarknews.co.uk/wp-content/uploads/2024/11/benefits-360x180.jpg)](https://southwarknews.co.uk/area/london/report-argues-no-recourse-to-public-funds-rule-should-be-loosened-for-some-migrant-households/)
+    
+    ### [Report argues ‘No Recourse to Public Funds’ rule should be loosened for some migrant households](https://southwarknews.co.uk/area/london/report-argues-no-recourse-to-public-funds-rule-should-be-loosened-for-some-migrant-households/)
+    
     [![Looking up Denmark Hill from Camberwell New Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Lookig-up-Denmark-Hill-from-Camberwell-New-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
     
     ### [25 Camberwell businesses offering events, prizes and discounts in run-up to Christmas](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
-    
-    [![Thameslink passengers are told to plan ahead over the Christmas holiday. Pictured, Blackfriars station.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Class-700-at-Blackfriars-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
-    
-    ### [Crucial Thameslink route disrupted for five days over Christmas](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
-    
-    [![Waste fire on Devon Street. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/waste-fire-southwark-1-360x180.webp)](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
-    
-    ### [Fire inside 300 tonne pile of waste causes mass evacuation in Bermondsey](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
-    
-    [![There is free tuition and after-school activities (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-18-11-2024-at-17.28-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
-    
-    ### [New free youth club opens in Rotherhithe](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
-    
-    [![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
-    
-    ### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
-    
-    [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-360x180.jpg)](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
-    
-    ### [Family of East Street Market victim says he was ‘warm, kind and generous’](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
-    
-    [![Several fire engines were called to extinguish the blaze at the waste management facility](https://southwarknews.co.uk/wp-content/uploads/2024/11/Several-fire-engines-were-called-to-extinguish-the-blaze-at-the-waste-management-facility--360x180.png)](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
-    
-    ### [Fire erupts at recycling plant off Old Kent Road](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
-    
-    [![Deptford Creek. Image: Creekside Education Trust](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-1-360x180.jpg)](https://southwarknews.co.uk/area/deptford/deptford-creek-gets-9000-funding-boost/)
-    
-    ### [Deptford Creek gets £9,000 funding boost](https://southwarknews.co.uk/area/deptford/deptford-creek-gets-9000-funding-boost/)
-    
-    [![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
-    
-    ### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,41 +105,41 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
+    
+    ### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
+    
+    [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
+    
+    ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
+    
+    [![Tram-style buses are hitting the 358 route from Crystal Palace. Image: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/11/358-Side-view-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
+    
+    ### [New tram-style buses now departing from Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
+    
+    [![From left: Harrun, a biomedical student at KCL; Dennis at the Blue. R: An ambulance outside Guy's Hospital.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-14.37-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
+    
+    ### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
+    
+    [![City of London Academy in Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/City-of-London-Academy-in-Southwark-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
+    
+    ### [Parents who ‘shove’ screens in kids’ faces to blame for ADHD, says Bermondsey headteacher](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
+    
+    [![Thurlow Street was the scene of the blaze. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/thurlow-street-10-pump-pic-3-360x180.webp)](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
+    
+    ### [Brigade tackles blaze in Walworth residential block](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
+    
+    [![Crystal Palace Subway. Credit: Historic England](https://southwarknews.co.uk/wp-content/uploads/2024/11/DP232790-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
+    
+    ### [Victorian Crystal Palace subway and South London cemetery among conservations making ‘good progress’](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
+    
+    [![Creative Commons](https://southwarknews.co.uk/wp-content/uploads/2024/11/benefits-360x180.jpg)](https://southwarknews.co.uk/area/london/report-argues-no-recourse-to-public-funds-rule-should-be-loosened-for-some-migrant-households/)
+    
+    ### [Report argues ‘No Recourse to Public Funds’ rule should be loosened for some migrant households](https://southwarknews.co.uk/area/london/report-argues-no-recourse-to-public-funds-rule-should-be-loosened-for-some-migrant-households/)
+    
     [![Looking up Denmark Hill from Camberwell New Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Lookig-up-Denmark-Hill-from-Camberwell-New-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
     
     ### [25 Camberwell businesses offering events, prizes and discounts in run-up to Christmas](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
-    
-    [![Thameslink passengers are told to plan ahead over the Christmas holiday. Pictured, Blackfriars station.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Class-700-at-Blackfriars-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
-    
-    ### [Crucial Thameslink route disrupted for five days over Christmas](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
-    
-    [![Waste fire on Devon Street. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/waste-fire-southwark-1-360x180.webp)](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
-    
-    ### [Fire inside 300 tonne pile of waste causes mass evacuation in Bermondsey](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
-    
-    [![There is free tuition and after-school activities (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-18-11-2024-at-17.28-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
-    
-    ### [New free youth club opens in Rotherhithe](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
-    
-    [![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
-    
-    ### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
-    
-    [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-360x180.jpg)](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
-    
-    ### [Family of East Street Market victim says he was ‘warm, kind and generous’](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
-    
-    [![Several fire engines were called to extinguish the blaze at the waste management facility](https://southwarknews.co.uk/wp-content/uploads/2024/11/Several-fire-engines-were-called-to-extinguish-the-blaze-at-the-waste-management-facility--360x180.png)](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
-    
-    ### [Fire erupts at recycling plant off Old Kent Road](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
-    
-    [![Deptford Creek. Image: Creekside Education Trust](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-1-360x180.jpg)](https://southwarknews.co.uk/area/deptford/deptford-creek-gets-9000-funding-boost/)
-    
-    ### [Deptford Creek gets £9,000 funding boost](https://southwarknews.co.uk/area/deptford/deptford-creek-gets-9000-funding-boost/)
-    
-    [![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
-    
-    ### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -240,41 +240,41 @@ Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-
 
 ### Featured Articles
 
-[![Thameslink passengers are told to plan ahead over the Christmas holiday. Pictured, Blackfriars station.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Class-700-at-Blackfriars-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+[![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
 
-### [Crucial Thameslink route disrupted for five days over Christmas](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
 
-[19th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+[20th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
 
-[![Waste fire on Devon Street. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/waste-fire-southwark-1-120x86.webp)](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
+[![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
 
-### [Fire inside 300 tonne pile of waste causes mass evacuation in Bermondsey](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
+### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
 
-[19th November 2024](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
+[20th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
 
-[![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+[![Tram-style buses are hitting the 358 route from Crystal Palace. Image: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/11/358-Side-view-120x86.jpeg)](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
 
-### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+### [New tram-style buses now departing from Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
 
-[18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+[20th November 2024](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
 
-[![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-120x86.jpg)](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
+[![From left: Harrun, a biomedical student at KCL; Dennis at the Blue. R: An ambulance outside Guy's Hospital.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-14.37-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
 
-### [Family of East Street Market victim says he was ‘warm, kind and generous’](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
+### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
 
-[18th November 2024](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
+[20th November 2024](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
 
-[![Several fire engines were called to extinguish the blaze at the waste management facility](https://southwarknews.co.uk/wp-content/uploads/2024/11/Several-fire-engines-were-called-to-extinguish-the-blaze-at-the-waste-management-facility--120x86.png)](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
+[![City of London Academy in Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/City-of-London-Academy-in-Southwark-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
 
-### [Fire erupts at recycling plant off Old Kent Road](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
+### [Parents who ‘shove’ screens in kids’ faces to blame for ADHD, says Bermondsey headteacher](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
 
-[18th November 2024](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
+[20th November 2024](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
 
-[![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-120x86.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+[![Crystal Palace Subway. Credit: Historic England](https://southwarknews.co.uk/wp-content/uploads/2024/11/DP232790-120x86.jpeg)](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
 
-### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+### [Victorian Crystal Palace subway and South London cemetery among conservations making ‘good progress’](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
 
-[18th November 2024](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+[20th November 2024](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
 
 ### USEFUL PAGES
 
