@@ -36,7 +36,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Body Pillow](https://www.mypillow.com/mybody-pillow)
     * [Bolster Pillow](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
     * [Bible Story MyPillows](https://www.mypillow.com/2-pack-childrens-bible-pillows-offer)
-    * [Couch and Recliner Pillows](https://www.mypillow.com/couch-and-recliner-pillows)
+    * [Couch and Recliner Pillows](https://www.mypillow.com/clearance-page/couch-and-recliner-pillows)
 * [Bedding](https://www.mypillow.com/bedding)
     * [Sheets](https://www.mypillow.com/bedding)
     * [Pillowcases](https://www.mypillow.com/bedding/pillowcases)
@@ -54,7 +54,7 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Mattress Foundation](https://www.mypillow.ca/mattressfoundation)
     * [Semi Truck Mattress](https://www.mypillow.ca/drivers-dream-truck-mattress)
 * [Mattress Toppers](https://www.mypillow.ca/toppers)
-    * [MyMattress Topper](https://www.mypillow.com/my-mattress-topper)
+    * [MyMattress Topper](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
     * [MyMattress Topper 2.0](https://www.mypillow.ca/mattress-toppers/3-coil-mattress-topper)
     * [3” Mattress Topper](https://www.mypillow.ca/mattress-toppers/3inchtopper-50off)
     * [2” Mattress Topper](https://www.mypillow.ca/mattress-toppers/2-mattress-topper-new)
@@ -93,9 +93,9 @@ Apply
 
 [](https://www.mypillow.com/the-classic-collection)
 
-[](https://www.mypillow.com/christmas-extravaganza)
+[](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
 
-[](https://www.mypillow.ca/my-mattress-topper)
+[](https://www.mypillow.com/christmas-extravaganza)
 
 [](https://www.mypillow.ca/mystore-general-redirect)
 
@@ -105,11 +105,11 @@ Apply
 
 [](https://www.mypillow.com/slipper-specials)
 
-[](https://www.mypillow.com/accessory-pillows)
-
-[](https://www.mypillow.com/bath/kitchen-towels)
+[](https://www.mypillow.com/mymattress-topper-with-free-mypillow-percale-sheets)
 
 [](https://www.mypillow.com/the-classic-collection)
+
+[](https://www.mypillow.com/bath/kitchen-towels)
 
 [](https://www.mypillow.com/bedding/blankets)
 
@@ -117,7 +117,7 @@ Apply
 
 [](https://www.mypillow.com/bath/mypillow-bath-robes)
 
-[](https://www.mypillow.ca/my-mattress-topper)
+[](https://www.mypillow.com/accessory-pillows)
 
 [](https://www.mypillow.com/clothing/made-in-america-socks-category)
 
