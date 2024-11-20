@@ -515,15 +515,6 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Mid-Century Modern Furniture](https://www.houzz.com/products/mid-century-modern/furniture)
 * [Coastal Furniture](https://www.houzz.com/products/coastal/furniture)
 
-* [Cyber Monday Sale](https://www.houzz.com/products/sale-event--cyber-monday-sale)
-* [Furniture Cyber Monday Deals](https://www.houzz.com/products/furniture/sale-event--cyber-monday-sale)
-* [Lighting Cyber Monday Deals](https://www.houzz.com/products/lighting/sale-event--cyber-monday-sale)
-* [Decor Cyber Monday Deals](https://www.houzz.com/products/home-decor/sale-event--cyber-monday-sale)
-* [Sofas&Sectionals Cyber Monday Deals](https://www.houzz.com/products/sofas-and-sectionals/sale-event--cyber-monday-sale)
-* [Area Rugs Cyber Monday Deals](https://www.houzz.com/products/area-rugs/sale-event--cyber-monday-sale)
-* [Outdoor Furniture Cyber Monday Deals](https://www.houzz.com/products/patio-furniture/sale-event--cyber-monday-sale)
-* [Christmas Trees Cyber Monday Deals](https://www.houzz.com/products/christmas-trees/sale-event--cyber-monday-sale)
-
 * [Home Bar](https://www.houzz.com/products/kitchen-and-dining-furniture)
 
 * [Storage & Organization](https://www.houzz.com/products/storage-and-organization)
@@ -533,6 +524,8 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Housekeeping & Laundry](https://www.houzz.com/products/housekeeping-and-laundry)
 
 * [Pet Supplies](https://www.houzz.com/products/pet-supplies)
+
+* [Cyber Monday Sale](https://www.houzz.com/products/sale-event--cyber-monday-sale)
 
 * [All Sales](https://www.houzz.com/products/on-sale)
 
@@ -604,7 +597,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28866274/pic/houzz_logo.svg?v=28866274)
+![Houzz Logo Print](//www.houzz.com/res/28866768/pic/houzz_logo.svg?v=28866768)
 
 **COOKIE POLICY**
 =================
