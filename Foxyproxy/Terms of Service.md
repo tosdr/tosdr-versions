@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service is wonderful and very easy to use. Sometime in the near future I will subscribe to your UK service again so I can watch BBC tv. Thanks for your really good efforts.
+Thank you for your excellent customer service!
 
-Mercedes Burnside
+James Deck
