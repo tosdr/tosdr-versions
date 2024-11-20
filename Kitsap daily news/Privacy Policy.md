@@ -6,9 +6,9 @@
 
 [Skip to content](#content)
 
-Tuesday, November 19, 2024
+Wednesday, November 20, 2024
 
- [![](https://www.accuweather.com/images/weathericons/18.svg) 44°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
+ [![](https://www.accuweather.com/images/weathericons/18.svg) 43°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
 
 [Sign Out](javascript:newzware_doLogout();) [Sign In](javascript:void(0)) [Subscribe](https://www.kitsapdailynews.com/subscribe/) [Newsletter](https://www.kitsapdailynews.com/newsletters/) [Contact Us](https://www.kitsapdailynews.com/contact/)[](https://www.facebook.com/KitsapDailyNews/ "Find Us On Facebook")[](https://twitter.com/KitsapDailyNews/ "Find Us On Twitter")[](https://www.instagram.com/KitsapDailyNews/ "Find Us On Instagam")[](https://www.kitsapdailynews.com/feed/ "Access Our RSS Feed")
 
@@ -88,7 +88,7 @@ Tuesday, November 19, 2024
 
 [![](https://www.accuweather.com/images/weathericons/18.svg)
 
-44°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
+43°F](https://www.kitsapdailynews.com/weather/ "Current weather and forecast")
 
 Submit search 
 
