@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [April Fools’ joke results in Japanese firm making a beige ’80s throwback PC case](https://arstechnica.com/gadgets/2024/11/big-beige-80s-pc-case-started-out-as-a-joke-but-its-becoming-real-in-japan/)
     
-3. 3. [I, too, installed an open source garage door opener, and I’m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
+3. 3. [Scientist behind superconductivity claims ousted](https://arstechnica.com/science/2024/11/scientist-behind-superconductivity-claims-ousted/)
     
-4. 4. [The ISS has been leaking air for 5 years, and engineers still don’t know why](https://arstechnica.com/space/2024/11/nasa-roscosmos-disagree-on-risk-of-catastrophic-failure-from-iss-air-leak/)
+4. 4. [Apple TV+ spent $20B on original content. If only people actually watched.](https://arstechnica.com/apple/2024/11/apple-tv-spent-20b-on-original-content-if-only-people-actually-watched/)
     
-5. 5. [SpaceX will try some new tricks on Starship’s sixth test flight](https://arstechnica.com/space/2024/11/spacex-will-try-some-new-tricks-on-starships-sixth-test-flight/)
+5. 5. [I, too, installed an open source garage door opener, and I’m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
     
 
 Customize
