@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/interior-one-plus-feature.jpg)
+
+[](https://theinspirationgrid.com/flowing-bricks-a-striking-cinema-coffee-bar-by-one-plus-partnership/)
+
+### Flowing Bricks: A Striking Cinema & Coffee Bar by One Plus Partnership
+
+![](https://inspgr.id/app/uploads/2024/11/art-marc-dennis-feature.jpg)
+
+[](https://theinspirationgrid.com/expect-the-unexpected-hyper-realistic-paintings-by-marc-dennis/)
+
+### Expect the Unexpected: Hyper-Realistic Paintings by Marc Dennis
+
 ![](https://inspgr.id/app/uploads/2024/11/lettering-mat-voyce-24-feature.jpg)
 
 [](https://theinspirationgrid.com/awesome-food-themed-lettering-by-mat-voyce/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/eye-catching-packaging-design-by-jacomy-mayne/)
 
 ### Eye-Catching Packaging Design by Jacomy & Mayne
-
-![](https://inspgr.id/app/uploads/2024/11/3d-puffy-numbers-feature.jpg)
-
-[](https://theinspirationgrid.com/puffy-numbers-3d-type-series-by-tavo/)
-
-### Puffy Numbers: 3D Type Series by TAVO
-
-![](https://inspgr.id/app/uploads/2024/11/art-dima-lamonov-feature.jpg)
-
-[](https://theinspirationgrid.com/matreksha-fun-sculptures-by-dima-lamonov/)
-
-### Matreksha: Fun Sculptures by Dima Lamonov
 
 Awesome products for creatives
 ------------------------------
