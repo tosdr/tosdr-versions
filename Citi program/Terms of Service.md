@@ -210,7 +210,7 @@ If you are a state or local government or an agency or other unit of a state or 
 13. **Amendment for Young Learners**
 ------------------------------------
 
-If you are a Science Fair organizer, or a secondary school, college or university offering access to CITI Program for students between the ages of 13 and 18, please see our [Young Learner Amendment](https://about-staging.citiprogram.org/terms-of-service-secondary-school-amendment/ "https://about-staging.citiprogram.org/terms-of-service-secondary-school-amendment/").
+If you are a Science Fair organizer, or a secondary school, college or university offering access to CITI Program for students between the ages of 13 and 18, please see our [Young Learner Amendment](https://about.citiprogram.org/young-learner-amendment/ "https://about-staging.citiprogram.org/terms-of-service-secondary-school-amendment/").
 
 14. **Anti-Discrimination Policy**
 ----------------------------------
