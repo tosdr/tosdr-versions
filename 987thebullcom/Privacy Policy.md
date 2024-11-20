@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Boys 'Round HereBlake Shelton Ft Pistol Annies And F<br><br>4:40am |
-| Wolves CryBryan Martin<br><br>4:37am |
-| KinfolksSam Hunt<br><br>4:34am |
-| Devil You KnowTyler Braden<br><br>4:31am |
-| Lies, Lies, LiesMorgan Wallen<br><br>4:28am |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>10:19am |
+| Honey BeeBlake Shelton<br><br>10:16am |
+| A Lot More FreeMax Mcnown<br><br>10:06am |
+| If I Didn'T Love YouJason Aldean And Carrie Underwood<br><br>10:03am |
+| Pretty Little PoisonWarren Zeiders<br><br>9:59am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Sports • Midwest
+Spanish • Western
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-News Talk • Eastern
+Sports • Midwest
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Spanish • Western
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
