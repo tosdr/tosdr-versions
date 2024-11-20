@@ -234,7 +234,7 @@ You do not need to be a citizen of the United Kingdom to use this method of lodg
 
 Modrinth is [open source](https://github.com/modrinth).
 
-prod@[d83e1a5](https://github.com/modrinth/code/tree/d83e1a5c6bb895f82fdd31ec4fd7c674da573e68)
+prod@[510a697](https://github.com/modrinth/code/tree/510a6977bec3c122382ed45788b7f6690770b56b)
 
 © Rinth, Inc.
 
