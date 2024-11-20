@@ -88,7 +88,7 @@ MyFRITZ!Net
 * [Kontakt](https://assets.avm.de/avmstart?target=contact&language=de)
 * [Datenschutz](https://assets.avm.de/avmstart?target=privacy&language=de)
 * [Nutzungsbedingungen](https://www.myfritz.net/terms?language=de)
-* Version: 4.6.32
+* Version: 4.6.34
 
 [Deutsch](javascript:void(0))
 
