@@ -8,7 +8,7 @@
 
 [Create an AWS Account](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=header_signup)
 
-* [Amazon Q](https://aws.amazon.com/q/?nc2=h_ql_prod_l1_q)
+* [re:Invent](https://reinvent.awsevents.com/?nc=nav-l1&trk=0e487c8f-c3e3-4b03-9550-a51ebdba56b6)
 * [Products](https://aws.amazon.com/products/?nc2=h_ql_prod)
 * [Solutions](https://aws.amazon.com/solutions/?nc2=h_ql_sol)
 * [Pricing](https://aws.amazon.com/pricing/?nc2=h_ql_pr)
@@ -64,6 +64,7 @@ Close
 
 [Contact Us](https://aws.amazon.com/contact-us/?nc2=h_mobile)
 
+* [re:Invent](https://reinvent.awsevents.com/?nc=nav-m&trk=0e487c8f-c3e3-4b03-9550-a51ebdba56b6)
 * [Products](https://aws.amazon.com/products/?nc2=h_mo)
 * [Solutions](https://aws.amazon.com/solutions/?nc2=h_mo)
 * [Pricing](https://aws.amazon.com/pricing/?nc2=h_mo)
