@@ -70,13 +70,13 @@ Suggested Searches
 
 ### NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
 
-article1 day ago](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
+article2 days ago](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
 
 2 min read
 
 ### Hollywood Techniques Help NASA Visualize Supercomputing Data
 
-article1 day ago](https://www.nasa.gov/centers-and-facilities/ames/hollywood-techniques-help-nasa-visualize-supercomputing-data/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
+article2 days ago](https://www.nasa.gov/centers-and-facilities/ames/hollywood-techniques-help-nasa-visualize-supercomputing-data/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
 
 5 min read
 
@@ -247,19 +247,19 @@ Back
 
 ### NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
 
-article 1 day ago](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
+article 2 days ago](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
 
 2 min read
 
 ### Hubble Takes a Look at Tangled Galaxies
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
+article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
 
 5 min read
 
 ### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
 
-article 5 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)
+article 6 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)
 
 ### Highlights
 
@@ -275,7 +275,7 @@ article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-s
 
 ### Wearable Tech for Space Station Research
 
-article 6 days ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
+article 7 days ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
 
 2 min read
 
@@ -291,41 +291,41 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
 
-article 4 days ago](https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
+article 5 days ago](https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
 
 5 min read
 
 ### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
 
-article 5 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Coastal locations, such as Drakes Bay on the Point Reyes peninsula in Northern California](https://www.nasa.gov/wp-content/uploads/2024/11/1-point-reyes-noaa.jpg?w=1024)
+article 6 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Coastal locations, such as Drakes Bay on the Point Reyes peninsula in Northern California](https://www.nasa.gov/wp-content/uploads/2024/11/1-point-reyes-noaa.jpg?w=1024)
 
 4 min read
 
 ### NASA Data Helps International Community Prepare for Sea Level Rise
 
-article 6 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)
+article 7 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)
 
 ### Highlights
 
-[![Gediz Vallis channel](https://www.nasa.gov/wp-content/uploads/2024/11/e1-pia26471-curiosity-3000pixels.jpg?w=1024)
+[![What Is the Solar Wind?](https://science.nasa.gov/wp-content/uploads/2024/08/switchbacks-sun-web.gif)
+
+1 min read
+
+### What Is the Solar Wind?
+
+article 8 hours ago](https://science.nasa.gov/sun/what-is-the-solar-wind/)[![Gediz Vallis channel](https://www.nasa.gov/wp-content/uploads/2024/11/e1-pia26471-curiosity-3000pixels.jpg?w=1024)
 
 5 min read
 
 ### NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
 
-article 1 day ago](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/)[![Amendment 68: F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
+article 2 days ago](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/)[![Amendment 68: F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
 
 2 min read
 
 ### Amendment 68: F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
 
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Moonquakes](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as14-67-09361_orig.jpg)
-
-2 min read
-
-### Moonquakes
-
-article 6 days ago](https://science.nasa.gov/moon/moonquakes/)
+article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)
 
 ### Featured
 
@@ -335,23 +335,29 @@ article 6 days ago](https://science.nasa.gov/moon/moonquakes/)
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article 4 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
+article 5 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
 
 2 min read
 
 ### Hubble Takes a Look at Tangled Galaxies
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
+article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
 
 5 min read
 
 ### NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
 
-article 5 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)
+article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)
 
 ### Highlights
 
-[![Close-up of a floating black cube-shaped device labeled “Kirara” inside a laboratory filled with cables, equipment, and scientific instruments aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/11/iss068e075597.jpg?w=1024)
+[![What Is the Solar Wind?](https://science.nasa.gov/wp-content/uploads/2024/08/switchbacks-sun-web.gif)
+
+1 min read
+
+### What Is the Solar Wind?
+
+article 8 hours ago](https://science.nasa.gov/sun/what-is-the-solar-wind/)[![Close-up of a floating black cube-shaped device labeled “Kirara” inside a laboratory filled with cables, equipment, and scientific instruments aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/11/iss068e075597.jpg?w=1024)
 
 2 min read
 
@@ -363,13 +369,7 @@ article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-s
 
 ### Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment
 
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-69-draft-a-59-new-or-modified-globe-protocols-for-community-comment/)[![Table 1 of ROSES-24 and the ROSES-2024 Summary of Solicitation Updated to Include Link to Grants Policy Guidance on Proposal Requirements.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/1714/188_Saturn_E2_80_99s_North_Polar_Hurricane.jpeg)
-
-1 min read
-
-### Table 1 of ROSES-24 and the ROSES-2024 Summary of Solicitation Updated to Include Link to Grants Policy Guidance on Proposal Requirements.
-
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/table-1-of-roses-24-and-the-roses-2024-summary-of-solicitation-updated-to-include-link-to-grants-policy-guidance-on-proposal-requirements/)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-69-draft-a-59-new-or-modified-globe-protocols-for-community-comment/)
 
 ### Highlights
 
@@ -379,13 +379,13 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### NASA Engineer Carries Indigenous Roots into New Aviation Era
 
-article 7 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
+article 17 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
 
 2 min read
 
 ### NASA Electric Aircraft Testbed (NEAT)
 
-article 1 day ago](https://www.nasa.gov/neat/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/neat/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
 
 1 min read
 
@@ -395,19 +395,19 @@ article 4 days ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg?w=1024)
+[![White handrails on a pedestrian bridge. The Hoover Dam is visible in the background.](https://www.nasa.gov/wp-content/uploads/2024/11/hoover-dam-1.jpg?w=1024)
 
 2 min read
 
 ### Super Insulation Requires Super Materials 
 
-article 1 hour ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/kjell-lindgren-mission-all-systems-go-patient-photo.jpg?w=1024)
+article 12 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/kjell-lindgren-mission-all-systems-go-patient-photo.jpg?w=1024)
 
 4 min read
 
 ### NASA Program Aids Pediatric Patients Facing Medical Treatments
 
-article 1 day ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-program-aids-pediatric-patients-facing-medical-treatments/)[![an engineer looks into an eyepiece connected to a large electronic instrument.](https://www.nasa.gov/wp-content/uploads/2024/03/img-2812.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-program-aids-pediatric-patients-facing-medical-treatments/)[![an engineer looks into an eyepiece connected to a large electronic instrument.](https://www.nasa.gov/wp-content/uploads/2024/03/img-2812.jpg?w=1024)
 
 2 min read
 
@@ -417,25 +417,25 @@ article 4 days ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-li
 
 ### Featured
 
-[![Two images - Left, Diana Acosta holding her daughter in front of the cab of NASA's Vertical Motion Simulator. Right, Diana Acosta with her daughter inside the control deck of the Vertical Motion Simulator.](https://www.nasa.gov/wp-content/uploads/2024/02/acosta-daughter-vms-igted.png?w=1024)
+[![Northwestern University team members pose with lunar inflatable prototypes from their METALS project in NASA’s 2024 BIG Idea Challenge.](https://www.nasa.gov/wp-content/uploads/2024/11/2024-big-idea-photo-northwestern-university.jpg?w=1024)
+
+3 min read
+
+### Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge 
+
+article 12 hours ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
+
+5 min read
+
+### NASA Engineer Carries Indigenous Roots into New Aviation Era
+
+article 17 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![Two images - Left, Diana Acosta holding her daughter in front of the cab of NASA's Vertical Motion Simulator. Right, Diana Acosta with her daughter inside the control deck of the Vertical Motion Simulator.](https://www.nasa.gov/wp-content/uploads/2024/02/acosta-daughter-vms-igted.png?w=1024)
 
 5 min read
 
 ### Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
 
-article 2 weeks ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/jsc2024e005968.jpg?w=1024)
-
-5 min read
-
-### Student-Built Capsules Endure Heat of Re-entry for NASA Science
-
-article 2 weeks ago](https://www.nasa.gov/learning-resources/student-built-capsules/)[![Power to Explore STEM Writing Challenge](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
-
-2 min read
-
-### Power to Explore STEM Writing Challenge
-
-article 2 weeks ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-to-explore-stem-writing-challenge/)
+article 2 weeks ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)
 
 ### Featured
 
@@ -445,19 +445,19 @@ article 2 weeks ago](https://science.nasa.gov/planetary-science/programs/radiois
 
 ### Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge 
 
-article 1 hour ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
+article 12 hours ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
 
 2 min read
 
 ### Hollywood Techniques Help NASA Visualize Supercomputing Data
 
-article 1 day ago](https://www.nasa.gov/centers-and-facilities/ames/hollywood-techniques-help-nasa-visualize-supercomputing-data/)[![Robert “Bobby” L. Satcher lubricates the robotic arm’s Latching End Effector](https://www.nasa.gov/wp-content/uploads/2024/11/sts-129-19-fd4-eva1-satcher-fixing-lee-s129e006754.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/ames/hollywood-techniques-help-nasa-visualize-supercomputing-data/)[![Robert “Bobby” L. Satcher lubricates the robotic arm’s Latching End Effector](https://www.nasa.gov/wp-content/uploads/2024/11/sts-129-19-fd4-eva1-satcher-fixing-lee-s129e006754.jpg?w=1024)
 
 10 min read
 
 ### 15 Years Ago: STS-129 Delivers Cargo on the Third Utilization and Logistics Flight
 
-article 1 day ago](https://www.nasa.gov/history/15-years-ago-sts-129-delivers-cargo-on-the-third-utilization-and-logistics-flight/)
+article 2 days ago](https://www.nasa.gov/history/15-years-ago-sts-129-delivers-cargo-on-the-third-utilization-and-logistics-flight/)
 
 ### Highlights
 
