@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![Human Rights Foundation](https://hrf.org/wp-content/uploads/2024/08/HRF-Logo.png)](https://hrf.org/)
+[![Human Rights Foundation](data:image/svg+xml;nitro-empty-id=MTE0Njo2NDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjgzMiA3NzkiIHdpZHRoPSIyODMyIiBoZWlnaHQ9Ijc3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://hrf.org/)
 
 * [About Us](https://hrf.org/about-us/) Close About Us Open About Us
     
@@ -26,7 +26,7 @@
     
     [Blog Posts
     
-    ​​Read our insightful posts on any and all issues related to human rights.](https://hrf.org/blogs/)[Announcements
+    Read our insightful posts on any and all issues related to human rights.](https://hrf.org/blogs/)[Announcements
     
     Stay up to date on our latest events and other opportunities to join us in combating tyranny.](https://hrf.org/announcements/)[Press Releases
     
@@ -47,7 +47,7 @@ Close this search box.
 
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU1NTgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
-![](https://hrf.org/wp-content/uploads/2024/11/White-logo-150x150.png)
+![](data:image/svg+xml;nitro-empty-id=MTYwNTo0Mzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 * [About Us](https://hrf.org/about-us/)
 
@@ -416,7 +416,7 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 [Back to homepage](https://hrf.org/)
 
-![HRF](https://hrf.org/wp-content/uploads/2024/08/HRF-Logo-1.png)
+![HRF](data:image/svg+xml;nitro-empty-id=MjIwODoxNjY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjY0IDcyIiB3aWR0aD0iMjY0IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
 
 ##### We believe that when we rise, tyranny falls.
 
