@@ -42,13 +42,15 @@
 Privacy Policy
 ==============
 
-Effective: August 22, 2024
+Effective: November 19, 2024
 
 Rec Room Inc., a Delaware corporation ("Company", "we", "our", and their derivatives) provides the websites, [http://www.recroom.com](http://www.recroom.com/), [http://www.rec.net](http://www.rec.net/), and the subdomains of each of the foregoing (collectively, the "Website") and the Rec Room® video game (the "Game" and, with the Website, the "Services").
 
-This Policy sets forth how we collect, use, protect, store, and otherwise process your Personal Information (defined below). This Policy does NOT apply to information we collect offline or you provide to or is collected by any third party (except as otherwise provided below).
+This Privacy Policy (“Policy”) sets forth how we collect, use, protect, store, and otherwise process your Personal Information (defined below). This Policy does NOT apply to information we collect offline or you provide to or is collected by any third party (except as otherwise provided below).
 
-For our practices regarding children, please see the Children's section in Section 2 below.
+By accessing or using the Services, you consent to this Policy. If you do not agree with this Policy, you may not access or use the Services,
+
+For our practices regarding children under the age of 13, please see Section 2 below.
 
 1\. What types of Personal Information does the Company collect?
 ----------------------------------------------------------------
@@ -59,19 +61,19 @@ We may collect different types of information from you depending on how you use 
 
 * Identifiers: We may collect your first, middle and last name, email address, username, postal address, Social Security number or employer identification number, telephone number, IP address, or display name.
     
-* Characteristics of protected classifications under California or federal law: We may collect your date of birth or age.
+* Characteristics of protected classifications under state or federal law: We may collect your date of birth or age.
     
-* Commercial information: We may collect your sale history in the Game.
+* Commercial information: We may collect your sale or purchase history in the Game.
     
-* Voice data: We may receive your voice data through your microphone. Typically we do not store this information, although we reserve the right to process your voice data locally in certain public room instances for moderation purposes. For moderation purposes, some of this voice data may be recorded and sent to a third party service for additional processing. Any such recordings are anonymized and retained for 30 days. Voice data in private instances is never processed, stored or sent to third parties.
+* Voice chat: We may receive your voice through your microphone. Typically we do not store this information, although we reserve the right to monitor what you say for content moderation purposes in order to maintain a safe and compliant platform for the users that play the Game. For such moderation purposes, some voice clips may be recorded and sent to a third-party service for additional processing. Any such recordings are anonymized and retained for 30 days. We do NOT collect biometric information, in the form of voiceprints or otherwise.
     
-* Sensory data: We may receive your voice through your microphone and animation data derived from your head movement and facial expressions (for example through your TrueDepth® camera on certain Apple® devices). We do not store this information.
+* Sensory data: We may receive your voice through your microphone and animation data derived from your head movement and facial expressions (for example through your TrueDepth® camera on certain Apple® devices). We do not store this information expect as disclosed above.
     
 * Internet or other similar network activity: We may collect your play history, running/loaded dynamic link library ("DLLs") on your computer or data gathered from a "small memory dump."
     
-* Categories of personal information described in Section 1798.80(e) of the California Customer Records: We may collect your first, middle, and last name, telephone number, physical characteristics, signature, Social Security number, postal address, or account number.
+* Categories of personal information described in Section 1798.80(e) of the California Civil Codes: We may collect your first, middle, and last name, telephone number, physical characteristics, signature, Social Security number, postal address, or account number.
     
-* Other categories: We may collect information from the content that you create and share publicly in the Game, and information you choose to reveal in the Game through multiplayer chat or other public functions.
+* Other categories: We may collect information from the content that you create and share in the Game, and information from the content you submit in the Game through chat or other functions. We do not allow access to some of this information, such as direct messages, except where you provide it directly to us or as otherwise necessary to address, identify, or respond to serious safety concerns such as child exploitation, violence, or threats of imminent harm.
     
 
 We may also collect information that does not generally identify you but may become associated with your account. We may use information that does not identify you for any permissible business purpose under applicable law.
@@ -87,7 +89,7 @@ This section notifies parents of our practices with respect to the collection of
 
 _Junior Mode_
 
-If a user of the Game self-identifies or is identified by us as being under the age of 13, their gameplay experience will automatically be set as "Junior Mode." In order to comply with the Children's Online Privacy Protection Act of 1998 and its rules (collectively, "COPPA"), users in "Junior Mode" ("Junior Users" and each a "Junior User") may have access to fewer features of the Game than non-Junior Users. This is designed to limit our access and the access of users of the Services to the Personal Information of Children. Junior Users are restricted from communicating with or otherwise making their Personal Information publicly available to other users of the Services. For example, Junior Users are unable to use "whiteboarding" or voice communication functions of the Game, and Junior Users' display names will be randomized/anonymized.
+If a user of the Game self-identifies or is identified by us as being under the age of 13, their gameplay experience will be set as "Junior Mode." In order to comply with the Children's Online Privacy Protection Act of 1998 and its rules (collectively, "COPPA"), users in "Junior Mode" ("Junior Users" and each a "Junior User") may have access to fewer features of the Game than non-Junior Users. This is designed to limit our access and the access of users of the Services to the Personal Information of Children. Junior Users are restricted from communicating with or otherwise making their Personal Information publicly available to other users of the Services. For example, Junior Users are unable to use "whiteboarding" or voice communication functions of the Game, and Junior Users' display names will be randomized/anonymized.
 
 _Registration_
 
@@ -95,7 +97,7 @@ Junior Users may register an account with us using a registration process simila
 
 _Use/disclosure_
 
-We do not collect the personal information listed in Section 1 above, including but not limited to, names, postal addresses, or phone numbers from Children. The Personal Information we do collect from/about Children is used to give Children access to certain features of the Game and communicate with a Parent about the Child's registration, including for the purpose of verifying their Child's information in connection with registration. We do not share or otherwise disclose Children's Personal Information except (1) as may be necessary to protect the safety of a Child, including by disclosing his or her Personal Information, where appropriate, to law enforcement agencies or for an investigation related to public safety; (2) to enable us to take precautions against liability; (3) to protect the safety and security of the Services; or (4) where required to do so by law or legal process.
+We do not collect the personal information listed in Section 1 above, including but not limited to, names, postal addresses, or phone numbers from Children. The Personal Information we do collect from/about Children is used to give Children access to certain features of the Game and communicate with a Parent about the Child's registration, including for the purpose of verifying their Child's information in connection with registration. We do not share or otherwise disclose Children's Personal Information except (1) as may be necessary to protect the safety of a Child, including by disclosing their Personal Information, where appropriate, to law enforcement agencies or for an investigation related to public safety; (2) to enable us to take precautions against liability; (3) to protect the safety and security of the Services; or (4) where required to do so by law or legal process.
 
 We and the third-party service providers listed below may collect or maintain Children's Personal Information through the Services.
 
@@ -112,7 +114,7 @@ _Age Verification_
 
 If your account is mistakenly registered as or converted to a junior account but the account user is over the age of 12, you can age verify the account. To age verify, please log into the account you would like to age verify. Once you log in, please head to your profile page > settings > account settings > verify age. Once at this page, please click "Get Code" to obtain your age verification action code. You can then use this code over at [http://rec.net/age](http://rec.net/age) to verify your account.
 
-Only verify your account if the user is above the age of 12. We reserve the right to place age verified accounts back into a junior account if we have irrefutable evidence that someone of the age of 12 and under is playing on an age verified account. If you need assistance with age verifying your account, please contact our support team by submitting a ticket with us.
+Only verify your account if the user is above the age of 12. We reserve the right to place age verified accounts back into a junior account if we have evidence that someone of the age of 12 and under is playing on an age verified account. If you need assistance with age verifying your account, please contact our support team by submitting a ticket with us.
 
 3\. From what sources does the Company collect Personal Information?
 --------------------------------------------------------------------
@@ -124,8 +126,8 @@ We may collect your Personal Information when you provide it to us directly. For
 * When you register for an account to use our Services, we may collect your age or date of birth, email address, phone number, username, and display name.
 * When you contact us or report a problem with the Services, we may collect records and copies of your correspondence.
 * When the Game crashes during play, we may collect your running/loaded DLLs on your computer, your username, and the data gathered from a "small memory dump".
-* When you use the multiplayer chat or other public functions in the Game, we may collect the information you choose to disclose such as your username.
-* When you choose to use your device microphone for voice chat. In some public room instances voice chat may be processed on device, and in some cases recorded and transmitted to a third party service for moderation purposes. Any such recordings are anonymized and stored for 30 days.
+* When you post or send messages or other content in the Game.
+* When you use your microphone for voice chat.
 * When you respond to a survey or questionnaire, we may collect the information provided.
 
 On Apple® devices running the iOS or iPadOS™ operating systems, Rec Room may request permission to access the following:
@@ -175,14 +177,14 @@ You may set your browser to refuse all or some browser cookies (e.g., by opting 
     
 * To market the Services – We may use your Personal Information to market our Services to you. For example, with your prior consent, we may send you news and updates about our products and Services, including special offers and promotions.
     
-* In furtherance of legal, health, and safety objectives – We may access, use, and share with others your Personal Information for purposes of health, safety, and other matters in the public interest. We may also provide access to or retain your Personal Information to cooperate with official investigations or legal proceedings (e.g., in response to subpoenas, search warrants, court orders, or other legal processes). We may also provide access to protect our rights and property and those of our agents, users, and others including to enforce our agreements, policies, and our Terms of Service (available at [https://recroom.com/terms-of-service](https://recroom.com/terms-of-service)).
+* In furtherance of legal, health, and safety objectives – We may access, use, and share with others your Personal Information for purposes of health, safety, and other matters in the public interest. We may also provide access to or retain your Personal Information to cooperate with official investigations or legal proceedings (e.g., in response to subpoenas, search warrants, court orders, or other legal processes), or to comply with mandatory reporting requirements, such as to the NCMEC CyberTipline. We may also provide access to protect our rights and property and those of our agents, users, and others including to enforce our agreements, policies, and our Terms of Service (available at [https://recroom.com/terms-of-service](https://recroom.com/terms-of-service)).
     
 * In connection with a sale or other transfer of our business – In the event all or some of our assets are sold, assigned, transferred to, or acquired by another company due to merger, divestiture, restructuring, reorganization, dissolution, financing, acquisition, bankruptcy, or otherwise, your Personal Information may be among the transferred assets.
     
 * As may be described to you when collecting your Personal Information.
     
 
-We do not use automated decision-making in connection with the processing of your Personal Information, except to the extent necessary for age-gating functions.
+We do not use automated decision-making in connection with the processing of your Personal Information, except to the extent necessary for age-gating and content moderation functions.
 
 6\. In what situations does the Company disclose your Personal Information?
 ---------------------------------------------------------------------------
@@ -192,10 +194,11 @@ We may disclose your Personal Information:
 * To our subsidiaries and affiliates;
 * To our service providers for the purposes identified in Section 5 above.
 * To our lawyers, consultants, accountants, business advisors, and similar service providers who owe us duties of confidentiality;
+* To law enforcement, government authorities, the National Center for Missing and Exploited Children, and other third parties, including industry peers, when we have a good faith belief or legal obligation to do so in order to facilitate an investigation related to public safety or the safety or rights of a minor.
 * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company's assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Information held by the Company pertaining to the users of our Services is among the assets transferred;
 * To comply with any court order, law, or legal process, such as responding to a government or regulatory request;
 * To enforce any contract we may have in effect with you;
-* If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of us, our users, or others; and
+* If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of us, our users, or others (especially minors); and
 * If you have consented to such a disclosure.
 
 7\. How is my Personal Information protected?
@@ -218,7 +221,7 @@ _Your Practices and Activities_
 Your practices and activities are likewise very important for the protection of your own Personal Information. You can take certain steps to help protect your Personal Information, such as being mindful of what you post in public places. For example:
 
 * Do not use your real name when selecting a username.
-* Do not post your real name in public-facing areas of the Services and do not share anything private about yourself.
+* Do not post your real name in public-facing areas of the Services and do not share anything private about yourself, such as your address or contact information.
 
 Users should also not pick a password that is easy to guess and should not share their password.
 
@@ -273,10 +276,10 @@ _Right to Complain_
 
 You have the right to lodge a complaint regarding our collection, storage, or processing of your Personal Information with a data protection supervisory authority in the country where you live or work.
 
-9\. Additional Notice for California Residents
-----------------------------------------------
+9\. Additional Notice for Residents of California, Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah and Virginia
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The following applies to California residents pursuant to the California Consumer Privacy Act of 2018 ("CCPA"):
+**A.** The following applies to California residents pursuant to the California Consumer Privacy Act of 2018 ("CCPA"):
 
 * In the preceding 12 months, the Company may have disclosed the categories of Personal Information listed in Section 2 above to our service providers for business purposes.
     
@@ -330,6 +333,57 @@ Any disclosures we provide will only cover the 12-month period preceding the rec
 For data portability requests, we will select a format to provide your Personal Information that is readily useable and should allow you to transmit the information from one entity to another entity without hindrance.
 
 We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or manifestly unfounded. If we determine that the request warrants a fee, we will tell you why we made that decision and provide you with a cost estimate before completing your request.
+
+**B.** This Notice applies to residents of Colorado, Connecticut, Delaware, Iowa, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Texas, Utah and Virginia, and is provided in accordance with those states’ data privacy statutes. It is intended to supplement our general Privacy Policy. In the event of any conflicts between this Notice and other sections of our Privacy Policy, this Notice shall take precedence for residents of these states.
+
+1. Your Rights
+    
+    You have the following rights:
+    
+    * Right to Access: You have the right to confirm whether we are processing your personal data and to request access to the categories of personal data we collect and how we use it.
+    * Right to Correction: You may request that we correct any inaccuracies in the personal data we maintain about you.
+    * Right to Deletion: You may request that we delete any personal data we have collected from you, subject to certain exceptions.
+    * Right to Data Portability: You can request a copy of your personal data in a portable, and to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
+    * Right to Opt-Out: Colorado residents have the right to opt out of the following:
+        * Processing of your personal data for targeted advertising.
+        * The sale of your personal data to third parties.
+        * Profiling in furtherance of decisions that produce legal or similarly significant effects concerning you.
+2. How to Exercise Your Rights
+    
+    To exercise your rights under the CPA, you may submit a request to us through the following methods:
+    
+    * Email: [support@recroom.com](mailto:support@recroom.com)
+    * Web Form: [https://forms.gle/v8WLkN86pt1Dw6588](https://forms.gle/v8WLkN86pt1Dw6588)
+    * Mail: 300 Elliott Ave W, #450, Seattle, WA 98119
+    
+    We may need to verify your identity before processing your request to ensure the security of your data. We will respond to valid requests within 45 days, though we may extend this time by an additional 45 days in certain circumstances, with prior notice.
+    
+3. Appeal Process
+    
+    If we deny your request, you have the right to appeal our decision. To do so, please contact us at [support@recroom.com](mailto:support@recroom.com) with the subject line “Data Privacy Appeal.” We will review your appeal and respond within 45 days.
+    
+4. Sale of Personal Data
+    
+    We do not sell your personal data as defined under the CPA, or use it for targeted advertising or profiling. However, if this policy changes, you will be notified, and you will have the option to opt out of the sale of your data.
+    
+5. Data Retention
+    
+    We retain personal data as long as it is necessary for the purposes outlined in our general Privacy Policy or as required by law. You can request more information about our retention periods for specific categories of personal data by contacting us at [suppport@recroom.com](mailto:suppport@recroom.com).
+    
+6. Data Security
+    
+    We take reasonable measures to secure your personal data from unauthorized access, disclosure, alteration, and destruction, as outlined in our Privacy Policy.
+    
+7. Changes to This Notice
+    
+    We may update this Supplemental Notice from time to time to reflect changes in the law or our data practices. When we make material changes to this Notice, we will notify you by posting an updated notice on our website and revising the effective date.
+    
+    Contact Information
+    
+    If you have any questions or concerns about this Supplemental Notice or our privacy practices, please contact us at:
+    
+    * Email: [support@recroom.com](mailto:support@recroom.com)
+    * Mail: 300 Elliott Ave W, Seattle, WA 98119
 
 10\. How will the Company notify users of changes to this Policy?
 -----------------------------------------------------------------
