@@ -95,67 +95,67 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Impact
+More Days of Praise
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/fossils_still_say_no_pleistocene_1400x1050.jpg)](https://www.icr.org/article/the-fossils-still-say-no-providential-pleistocene)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/kingdom-of-priests)
 
-[The Fossils Still Say No: The Post-Flood Providential P.,.](https://www.icr.org/article/the-fossils-still-say-no-providential-pleistocene/)
+[Kingdom of Priests](https://www.icr.org/article/kingdom-of-priests/)
 
-In the previous article in this series, I explained how the final rock layers were laid down in the global Flood as the newly separated continents and...
+“And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.”...
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/The_Final_Word.jpg)](https://www.icr.org/article/the-final-world)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/common-salvation)
 
-[The Final World: Renovation or New Creation?](https://www.icr.org/article/the-final-world/)
+[The Common Salvation](https://www.icr.org/article/common-salvation/)
 
-In the beginning about 6,000 years ago, Jesus Christ created the heavens and the earth out of nothing, or ex nihilo, which I discussed in a previous...
+“Beloved, when I gave all diligence to write unto you of the common salvation...” (Jude 1:3) The description of our salvation as “common”...
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/Ice_Core_Research_Continues.jpg)](https://www.icr.org/article/ice-core-research-continues/)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/gods-final-word)
 
-[ICR Ice Core Research Continues](https://www.icr.org/article/ice-core-research-continues//)
+[God's Final Word](https://www.icr.org/article/gods-final-word/)
 
-Creationists think the thick ice sheets of Greenland and Antarctica began forming just 4,500 years ago during a short Ice Age triggered by the Genesis...
+“The LORD shall be king over all the earth: in that day shall there be one LORD, and his name one.” (Zechariah 14:9) God cannot be...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/26360806/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
 
-Made in the Image of an Ape?](https://store.icr.org/discover-creation-made-in-the-image-of-an.html)
+The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
 
 $9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/59221727/file.jpg)
+$19.99
 
-The Fossils Still Say No](https://store.icr.org/the-fossils-still-say-no.html)
+[](https://store.icr.org/.html)
 
-$29.99
+$
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/39324153/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
 
-Chimps and Humans - eBook](https://store.icr.org/chimps-and-humans-ebook.html)
+The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
 
 $14.99
 
 $19.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/34464783/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
 
-Chimps and Humans](https://store.icr.org/chimps-and-humans.html)
+The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
 
 $19.99
 
-$29.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13241008/file.jpg)
+The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
 
-The Design and Complexity of the Cell](https://store.icr.org/dr-jeff-tomkins-the-design-and-complexity-of-the-c.html)
+$9.99
 
-$14.99
+$19.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
