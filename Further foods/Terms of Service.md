@@ -198,6 +198,15 @@ Diet Restrictions Dairy-free Egg-free Gluten-free Low Carb Low Sodium Nightshade
 
 RESET [Search](https://www.furtherfood.com/search?type=article)
 
+[![Image of Elderberry jar and spritzer](//www.furtherfood.com/cdn/shop/articles/20241119203805-img_1664-20-1_1200x900.jpg?v=1732049051)
+
+![Image of Elderberry jar and spritzer](//www.furtherfood.com/cdn/shop/articles/20241119203805-img_1664-20-1_1200x900.jpg?v=1732049051)](https://www.furtherfood.com/blogs/recipes/elderberry-mocktail-spritzer)
+
+[Elderberry Mocktail Spritzer](https://www.furtherfood.com/blogs/recipes/elderberry-mocktail-spritzer)
+------------------------------------------------------------------------------------------------------
+
+This Elderberry Spritz Mocktail is a refreshing and immunity-boosting drink perfect for...
+
 [![Peanut Butter Cup Ghosties](//www.furtherfood.com/cdn/shop/articles/20241017125129-9ec0d382-d7bc-473e-a894-99401a88bd95-202_1200x871.jpg?v=1729172215)
 
 ![Peanut Butter Cup Ghosties](//www.furtherfood.com/cdn/shop/articles/20241017125129-9ec0d382-d7bc-473e-a894-99401a88bd95-202_1200x871.jpg?v=1729172215)](https://www.furtherfood.com/blogs/recipes/peanut-butter-cup-ghosties)
@@ -242,15 +251,6 @@ This Pumpkin Spice Collagen Cake with Cream Cheese Frosting is the perfect seaso
 ------------------------------------------------------------------------------------------
 
 Start your morning right with these delicious Pumpkin Overnight Oats—a simple, nutritio...
-
-[![Chocolate Hazelnut Pancakes (Gluten-free)](//www.furtherfood.com/cdn/shop/articles/Screenshot_2024-09-06_at_12.09.14_PM_728x980.png?v=1725649781)
-
-![Chocolate Hazelnut Pancakes (Gluten-free)](//www.furtherfood.com/cdn/shop/articles/Screenshot_2024-09-06_at_12.09.14_PM_728x980.png?v=1725649781)](https://www.furtherfood.com/blogs/recipes/chocolate-hazelnut-pancakes-gluten-free)
-
-[Chocolate Hazelnut Pancakes (Gluten-free)](https://www.furtherfood.com/blogs/recipes/chocolate-hazelnut-pancakes-gluten-free)
-------------------------------------------------------------------------------------------------------------------------------
-
-These Chocolate Hazelnut Pancakes are made with Further Food's Hazelnut Collagen, and...
 
 * 1
 * [2](https://www.furtherfood.com/blogs/recipes?page=2)
