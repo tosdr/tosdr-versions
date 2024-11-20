@@ -8,6 +8,7 @@ MENU
 * [GENRES](https://www.webtoons.com/en/genres)
 * [POPULAR](https://www.webtoons.com/en/popular)
 * [CANVAS](https://www.webtoons.com/en/canvas)
+* [![](https://webtoon-phinf.pstatic.net/20241120_3/1732079688252nk3AG_PNG/8WebtoonContentContest_2025_GNBBanner.png)](https://www.webtoons.com/en/notice/detail?noticeNo=3321)
 
 [WEBTOON SHOP](https://shop.webtoon.com/) [Creators 101](https://www.webtoons.com/en/creators101/webtoon-canvas) [Publish](#) Log In
 
