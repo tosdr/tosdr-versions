@@ -1,7 +1,5 @@
 Your browser does not support JavaScript. Please turn it on for the best experience.
 
-[](https://partner.tp-link.com/us/)
-
 Click to skip the navigation bar
 
 *  [](https://www.kasasmart.com/us)
