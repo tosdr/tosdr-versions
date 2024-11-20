@@ -559,7 +559,7 @@ See all ▼
 
 [Blog](https://www.taskade.com/blog)
 
-[Automations](https://www.taskade.com/automate)[Hubspot](https://www.taskade.com/automate/hubspot)[Slack](https://www.taskade.com/automate/slack)
+[Automations](https://www.taskade.com/automate)[HubSpot](https://www.taskade.com/automate/hubspot)[Slack](https://www.taskade.com/automate/slack)
 
 See all ▼
 
