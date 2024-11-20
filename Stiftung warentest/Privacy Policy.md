@@ -806,21 +806,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
+* [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
 * [Herren-Nass­rasierer im Test: Glatte Haut, satte Preise](https://www.test.de/herren-nassrasierer-test-4175138-0/ "Herren-Nassrasierer im Test - Glatte Haut, satte Preise")
 * [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 * [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
 * [Medikamente bei Hals­schmerzen im Test: Viele sind ihr Geld nicht wert](https://www.test.de/Medikamente-bei-Halsschmerzen-5286622-0/ "Medikamente bei Halsschmerzen im Test - Viele sind ihr Geld nicht wert")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
-* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 
 test.de entdecken
 
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
 * [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
 
 Fußbereich
 
@@ -3840,59 +3840,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
+* [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
 * [Herren-Nass­rasierer im Test: Glatte Haut, satte Preise](https://www.test.de/herren-nassrasierer-test-4175138-0/ "Herren-Nassrasierer im Test - Glatte Haut, satte Preise")
 * [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 * [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
 * [Medikamente bei Hals­schmerzen im Test: Viele sind ihr Geld nicht wert](https://www.test.de/Medikamente-bei-Halsschmerzen-5286622-0/ "Medikamente bei Halsschmerzen im Test - Viele sind ihr Geld nicht wert")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
-* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 
 test.de entdecken
 
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
 * [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
+* [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
 * [Herren-Nass­rasierer im Test: Glatte Haut, satte Preise](https://www.test.de/herren-nassrasierer-test-4175138-0/ "Herren-Nassrasierer im Test - Glatte Haut, satte Preise")
 * [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 * [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
 * [Medikamente bei Hals­schmerzen im Test: Viele sind ihr Geld nicht wert](https://www.test.de/Medikamente-bei-Halsschmerzen-5286622-0/ "Medikamente bei Halsschmerzen im Test - Viele sind ihr Geld nicht wert")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
-* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 
 test.de entdecken
 
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
 * [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
 
 Neueste Tests
 
+* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
+* [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
 * [Herren-Nass­rasierer im Test: Glatte Haut, satte Preise](https://www.test.de/herren-nassrasierer-test-4175138-0/ "Herren-Nassrasierer im Test - Glatte Haut, satte Preise")
 * [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
 * [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
 * [Medikamente bei Hals­schmerzen im Test: Viele sind ihr Geld nicht wert](https://www.test.de/Medikamente-bei-Halsschmerzen-5286622-0/ "Medikamente bei Halsschmerzen im Test - Viele sind ihr Geld nicht wert")
-* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
-* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 
 test.de entdecken
 
+* [Grün anlegen: Erfolg­reich anlegen mit stabilen, nach­haltigen Fonds](https://www.test.de/Gruen-anlegen-Erfolgreich-anlegen-mit-stabilen-nachhaltigen-Fonds-6006567-0/ "Grün anlegen - Erfolgreich anlegen mit stabilen, nachhaltigen Fonds")
+* [Deutsch­land­ticket: Preis steigt von 49 auf 58 Euro](https://www.test.de/Deutschlandticket-Das-muessen-Sie-wissen-5944873-0/ "Deutschlandticket - Preis steigt von 49 auf 58 Euro")
+* [Identitäts­miss­brauch: Betrug bei spar-finanzen](https://www.test.de/Identitaetsmissbrauch-Betrug-bei-spar-finanzen-6167927-0/ "Identitätsmissbrauch - Betrug bei spar-finanzen")
 * [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Diagnose Demenz: Das Vergessen liebevoll begleiten](https://www.test.de/Diagnose-Demenz-Das-Vergessen-liebevoll-begleiten-6142415-0/ "Diagnose Demenz - Das Vergessen liebevoll begleiten")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
-* [Akku­staubsauger-Reparatur­dienste im Test: Nur einer repariert sehr gut](https://www.test.de/staubsauger-reparaturdienste-im-test-6134473-0/ "Akkustaubsauger-Reparaturdienste im Test - Nur einer repariert sehr gut")
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [L&G Gerd Kommer Multifactor Equity ETF: Breite Streuung und etwas Weihrauch](https://www.test.de/LG-Gerd-Kommer-Multifactor-Equity-ETF-Breite-Streuung-und-etwas-Weihrauch-6029520-0/ "L&G Gerd Kommer Multifactor Equity ETF - Breite Streuung und etwas Weihrauch")
 
 Service Stiftung Warentest
 
