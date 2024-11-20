@@ -5,7 +5,7 @@
 
 [](https://www.facebook.com/resteasypestcontrolcompany?mibextid=LQQJ4d)[](https://www.instagram.com/resteasypest/)
 
- [![Rest Easy Pest Control](/oak/files/logos/logo.svg) ![Rest Easy Pest Control](/oak/files/logos/logo.svg)](https://www.resteasypestcontrol.com/)
+ [![Rest Easy Pest Control](data:image/gif;nitro-empty-id=MTMzOjg0-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) ![Rest Easy Pest Control](data:image/gif;nitro-empty-id=MTM0Ojgz-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.resteasypestcontrol.com/)
 
 * [Residential](https://www.resteasypestcontrol.com/residential) [Commercial](https://www.resteasypestcontrol.com/commercial)
 * [Pest Services](https://www.resteasypestcontrol.com/pest-services)
@@ -48,7 +48,7 @@ We know that your privacy is important to you, and we work hard to earn and keep
 
 This Policy describes:
 
-* The types of information we collect from you or that you may provide when you visit our website available at: [https://resteasypestcontrol.com](https://www.resteasypestcontrol.com/ "Rest Easy Pest Control Services") as well as any websites and blogs directly owned by the Company where this Policy is linked (collectively, our “Website”).  
+* The types of information we collect from you or that you may provide when you visit our website available at: [https://resteasypestcontrol.com](https://www.resteasypestcontrol.com/ "Rest Easy Pest Control Services") as well as any websites and blogs directly owned by the Company where this Policy is linked (collectively, our “Website”).
 * Our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
 This Policy applies to information we collect on this Website or in emails and other electronic messages between you and this Website, and information gathered when you interact with our advertising on third-party websites if such advertisements include links to this Policy.
@@ -247,7 +247,7 @@ Book Now
 
 Book
 
-![Rest Easy Pest Control](/oak/files/logos/logo.svg)
+![Rest Easy Pest Control](data:image/gif;nitro-empty-id=NzY5OjEwMg==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
 
 40 Glen St Suite B  
 Glen Cove, New York 11542
@@ -279,11 +279,11 @@ Mon - Sat: 7:00am - 7:00pm
 * [Blog](https://www.resteasypestcontrol.com/about/blog)
 * [Contact Us](https://www.resteasypestcontrol.com/about/contact)
 
-[![Rest Easy Pest Control online booking](/oak/files/logos/logo-short.svg)
+[![Rest Easy Pest Control online booking](data:image/gif;nitro-empty-id=ODEyOjEwMw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ### Easy Online Booking
 
-![Rest Easy Pest Control online booking](/oak/files/misc/calendar.svg) Book Now](javascript:void(0);)
+![Rest Easy Pest Control online booking](data:image/svg+xml;nitro-empty-id=ODI2Ojg4-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzA0IDE3NSIgd2lkdGg9IjMwNCIgaGVpZ2h0PSIxNzUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) Book Now](javascript:void(0);)
 
 © 2024 Rest Easy Pest Control | All Rights Reserved | [Sitemap](https://www.resteasypestcontrol.com/sitemap) | [Privacy Policy](https://www.resteasypestcontrol.com/privacy-policy) | [Accessibility](https://www.resteasypestcontrol.com/accessibility) | Digital Marketing By [Ninthroot](https://ninthroot.com/)
 
