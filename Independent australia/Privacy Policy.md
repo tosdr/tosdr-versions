@@ -180,12 +180,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [IA is fighting for its life and its survival depends on YOU!](https://independentaustralia.net/article-display/ia-is-fighting-for-its-life-and-its-survival-depends-on-you,19172 "Permanent Link : IA is fighting for its life and its survival depends on YOU!")
+* [Senators and MPs encouraged to educate themselves on Palestine](https://independentaustralia.net/article-display/senators-and-mps-encouraged-to-educate-themselves-on-palestine,19189 "Permanent Link : Senators and MPs encouraged to educate themselves on Palestine")
 * [Hypocrisy rife at COP29 as fossil fuel groups gather](https://independentaustralia.net/article-display/hypocrisy-rife-at-cop29-as-fossil-fuel-groups-gather,19187 "Permanent Link : Hypocrisy rife at COP29 as fossil fuel groups gather")
 * [Countering the influence of 'mass man' with AI](https://independentaustralia.net/article-display/countering-the-influence-of-mass-man-with-ai,19186 "Permanent Link : Countering the influence of 'mass man' with AI")
 * [Net migration in September quarter fell — but not enough](https://independentaustralia.net/article-display/net-migration-in-september-quarter-fell-but-not-enough,19185 "Permanent Link : Net migration in September quarter fell — but not enough")
 * [War Memorial makes little effort to recognise Frontier Wars](https://independentaustralia.net/article-display/war-memorial-makes-little-effort-to-recognise-frontier-wars,19184 "Permanent Link : War Memorial makes little effort to recognise Frontier Wars")
 * [Altruism among voters fading as selfishness prevails](https://independentaustralia.net/article-display/altruism-among-voters-fading-as-selfishness-prevails,19183 "Permanent Link : Altruism among voters fading as selfishness prevails")
-* [U.S. Election not about economic anxiety, it’s about religious identity anxiety](https://independentaustralia.net/article-display/us-election-not-about-economic-anxiety-its-about-religious-identity-anxiety,19182 "Permanent Link : U.S. Election not about economic anxiety, it’s about religious identity anxiety")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
