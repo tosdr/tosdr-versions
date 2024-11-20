@@ -22,7 +22,7 @@
     
     ### Canada
     
-    * [Niagara Falls, Ontario](https://www.greatwolf.com/niagara)
+    * [Niagara Falls, Ontario, CA](https://www.greatwolf.com/niagara)
     
 
 * [Hello, Name](javascript:void(0))
@@ -49,7 +49,7 @@ Great Wolf Resorts
     
     ### Canada
     
-    * [Niagara Falls, Ontario](https://www.greatwolf.com/niagara)
+    * [Niagara Falls, Ontario, CA](https://www.greatwolf.com/niagara)
     
 
 Great Wolf Resorts Cookie Policy
