@@ -266,7 +266,7 @@ Products[Platform](https://uploadcare.com/features/)[File uploader](https://uplo
 
 Resources[Case studies](https://uploadcare.com/customers/)[Community](https://community.uploadcare.com/)[Blog](https://uploadcare.com/blog/)[Learning Center](https://uploadcare.com/learning/)[E-learning solutions](https://uploadcare.com/solutions/elearning/)[E-commerce solutions](https://uploadcare.com/solutions/ecommerce/)[Agencies solutions](https://uploadcare.com/solutions/devshops/)[Marketplace solutions](https://uploadcare.com/solutions/marketplaces/)[Healthcare solutions](https://uploadcare.com/solutions/healthcare/)
 
-About[Company](https://uploadcare.com/company/)[Awards](https://uploadcare.com/company/awards/)[Careers](https://community.uploadcare.com/c/jobs/l/latest)[Partnership](https://uploadcare.com/partners/)[Contact sales](https://uploadcare.com/schedule-demo/)[Bug bounty](https://uploadcare.com/about/bug-bounty/)
+About[Company](https://uploadcare.com/company/)[Awards](https://uploadcare.com/company/awards/)[Partnership](https://uploadcare.com/partners/)[Contact sales](https://uploadcare.com/schedule-demo/)[Bug bounty](https://uploadcare.com/about/bug-bounty/)
 
 Developers[Quick start](https://uploadcare.com/docs/start/quickstart/)[API references](https://uploadcare.com/docs/start/api/)[Documentation](https://uploadcare.com/docs/)[Integrations](https://uploadcare.com/docs/integrations/)[Migration guide](https://uploadcare.com/docs/guides/migro/)[Changelog](https://uploadcare.com/docs/changelog/)[Status page](https://status.uploadcare.com/)
 
