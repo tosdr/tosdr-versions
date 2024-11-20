@@ -488,7 +488,7 @@ Categories of Personal Information Sold or Shared
   
 Each category of Personal Information disclosed in “Personal Information We Collect” was sold or shared with analytics and advertising partners, business partners, advertising networks, advertising platforms, social media companies, and third parties, for the purposes described in this Privacy Policy within the last 12 months, including for targeted advertising. We do not knowingly sell or share Personal Information about persons under the age of 16.
 
-#### Terms of Use
+#### Terms of Service
 
 Schwabe North America, Inc. - Website Terms of Service Agreement
 
@@ -864,7 +864,7 @@ If you have any questions or concerns about this policy or the practices describ
 Effective: March 31, 2024                   Last updated: April 15, 2024
 
 * Privacy Policy
-* Terms of Use
+* Terms of Service
 * Satisfaction Guarantee
 * Accessibility
 * Promotions
@@ -1509,6 +1509,8 @@ More Info
 * Choosing a selection results in a full page refresh.
 
        
+
+Some text goes here Open the Real Chat
 
 #### Hello there, looks like you're located in Canada.
 
