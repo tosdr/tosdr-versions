@@ -116,6 +116,7 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
+* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -447,9 +448,9 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 1. \-62%](https://www.cdkeys.com/pc/tekken-8-pc-steam)
+1.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 1. \-62%](https://www.cdkeys.com/holdingpage-bf/tekken-8-pc-steam)
     
-    **[TEKKEN 8 PC](https://www.cdkeys.com/pc/tekken-8-pc-steam "TEKKEN 8 PC")**
+    **[TEKKEN 8 PC](https://www.cdkeys.com/holdingpage-bf/tekken-8-pc-steam "TEKKEN 8 PC")**
     
     Special Price $26.79 RRP $70.09
     
@@ -457,9 +458,9 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-2.    [![Metro Exodus - Gold Edition PC ](https://cdn.cdkeys.com/245x340/media/catalog/product/b/a/base_1__2_1.png)   No 2. \-96%](https://www.cdkeys.com/pc/metro-exodus-gold-edition-pc)
+2.    [![Metro Exodus - Gold Edition PC ](https://cdn.cdkeys.com/245x340/media/catalog/product/b/a/base_1__2_1.png)   No 2. \-96%](https://www.cdkeys.com/holdingpage-bf/metro-exodus-gold-edition-pc)
     
-    **[Metro Exodus - Gold Edition PC](https://www.cdkeys.com/pc/metro-exodus-gold-edition-pc "Metro Exodus - Gold Edition PC ")**
+    **[Metro Exodus - Gold Edition PC](https://www.cdkeys.com/holdingpage-bf/metro-exodus-gold-edition-pc "Metro Exodus - Gold Edition PC ")**
     
     Special Price $3.39 RRP $76.49
     
@@ -467,9 +468,9 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-3.    [![SILENT HILL 2 - Digital Deluxe PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/silent_hill_2_-_digital_deluxe.jpg)   No 3. \-41%](https://www.cdkeys.com/pc/silent-hill-2-digital-deluxe-pc-steam)
+3.    [![SILENT HILL 2 - Digital Deluxe PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/silent_hill_2_-_digital_deluxe.jpg)   No 3. \-41%](https://www.cdkeys.com/holdingpage-bf/silent-hill-2-digital-deluxe-pc-steam)
     
-    **[SILENT HILL 2 - Digital Deluxe PC](https://www.cdkeys.com/pc/silent-hill-2-digital-deluxe-pc-steam "SILENT HILL 2 - Digital Deluxe PC")**
+    **[SILENT HILL 2 - Digital Deluxe PC](https://www.cdkeys.com/holdingpage-bf/silent-hill-2-digital-deluxe-pc-steam "SILENT HILL 2 - Digital Deluxe PC")**
     
     Special Price $52.89 RRP $89.19
     
@@ -477,9 +478,9 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-4.    [![V Rising PC](https://cdn.cdkeys.com/245x340/media/catalog/product/r/o/roblox-card-10-800-robux-800-robux-pc-game-cover_12_.jpg)   No 4. \-63%](https://www.cdkeys.com/pc/v-rising-pc-steam)
+4.    [![V Rising PC](https://cdn.cdkeys.com/245x340/media/catalog/product/r/o/roblox-card-10-800-robux-800-robux-pc-game-cover_12_.jpg)   No 4. \-63%](https://www.cdkeys.com/holdingpage-bf/v-rising-pc-steam)
     
-    **[V Rising PC](https://www.cdkeys.com/pc/v-rising-pc-steam "V Rising PC")**
+    **[V Rising PC](https://www.cdkeys.com/holdingpage-bf/v-rising-pc-steam "V Rising PC")**
     
     Special Price $16.59 RRP $44.59
     
@@ -487,21 +488,19 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-5.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 5. \-22%
+5.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 5. \-28%](https://www.cdkeys.com/holdingpage-bf/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
     
-    Pre-order](https://www.cdkeys.com/pc/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
+    **[S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://www.cdkeys.com/holdingpage-bf/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)")**
     
-    **[S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://www.cdkeys.com/pc/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)")**
-    
-    Special Price $49.69 RRP $63.69
+    Special Price $45.89 RRP $63.69
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-6.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 6. \-32%](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam)
+6.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 6. \-32%](https://www.cdkeys.com/holdingpage-bf/farming-simulator-25-pc-steam)
     
-    **[Farming Simulator 25 PC](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
+    **[Farming Simulator 25 PC](https://www.cdkeys.com/holdingpage-bf/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
     
     Special Price $36.29 RRP $53.49
     
