@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051)
         
-        #### [Crews battle house fire in Sterling](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051) [![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8c743096-62f7-44b4-9a47-182e7eace236/8c743096-62f7-44b4-9a47-182e7eace236_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051)
-        
         #### [Firefighters put out Sterling house fire](https://www.wqad.com/article/news/local/public-safety/crews-battle-house-fire-sterling/526-f8b624b1-bdba-4315-acca-c7fa0ea3d051)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/bb417b4a-eb32-4e66-801c-c3432a6056a4/20241118T205938/bb417b4a-eb32-4e66-801c-c3432a6056a4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bb417b4a-eb32-4e66-801c-c3432a6056a4/20241118T205938/bb417b4a-eb32-4e66-801c-c3432a6056a4_360x203.jpg)](https://www.wqad.com/article/news/local/infrastructure/galesburg-city-council-approves-purchase-new-playground-equipment-cooke-park/526-a9d973b4-8c55-49a6-80ec-7d0a06e64535)
         
         #### [City of Galesburg purchases playground equipment for Cooke Park](https://www.wqad.com/article/news/local/infrastructure/galesburg-city-council-approves-purchase-new-playground-equipment-cooke-park/526-a9d973b4-8c55-49a6-80ec-7d0a06e64535)
@@ -87,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-46°
+43°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
