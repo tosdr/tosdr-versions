@@ -252,17 +252,13 @@ Apparel & Collectibles
 
 #### COLLECTIONS
 
-* [Atari Club](https://www.atari.com/collections/atari-club)
+* [Holiday](https://www.atari.com/collections/holiday-collection)
     
-    [Atari Brands](https://www.atari.com/collections/atari-brands-collection)
+    [Jaguar](https://www.atari.com/collections/jaguar)
     
-    [Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
-    
-    [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
+    [Atari Club](https://www.atari.com/collections/atari-club)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
-    
-    [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
     
     [PONG](https://www.atari.com/collections/pong-collection)
     
@@ -302,17 +298,13 @@ ACCESSORIES
 
 COLLECTIONS
 
-* [Atari Club](https://www.atari.com/collections/atari-club)
+* [Holiday](https://www.atari.com/collections/holiday-collection)
     
-    [Atari Brands](https://www.atari.com/collections/atari-brands-collection)
+    [Jaguar](https://www.atari.com/collections/jaguar)
     
-    [Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
-    
-    [Atari x Artovision](https://www.atari.com/collections/artovision-dimensional-artworks)
+    [Atari Club](https://www.atari.com/collections/atari-club)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
-    
-    [Atari x Blue Kazoo](https://www.atari.com/collections/blue-kazoo-puzzles)
     
     [PONG](https://www.atari.com/collections/pong-collection)
     
@@ -785,7 +777,7 @@ $20 Back $40 Back $60 Back | |
 
 Subtotal
 
-$0
+~$0.00~ $0.00 \- Liquid error (sections/cart-flyout line 526): divided by 0% OFF
 
 Checkout
 
