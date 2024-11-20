@@ -47,7 +47,6 @@ Error
 * [Disclosure Scotland specific Consent - HR - English](#contract-bk9qaf03j)
 * [DBS Consent - HR - English](#contract-ryfitxbai)
 * [Tokenized Authorization (B2B) - EN](#contract-ryggbwf6i)
-* [ACIC Consent](#contract-hyeijkbrj)
 * [International Criminal Consent](#contract-rye3vbwx3)
 * [Canadian Criminal Consent - Generic](#contract-bjga8wzgn)
 * [Canadian Criminal Consent - Generic (FR)](#contract-hypa1blgh)
@@ -2580,7 +2579,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective November 18th 2024
+##### Effective November 19th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -2653,102 +2652,6 @@ Certn will collect the following personal information for the purpose of complet
 It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Your Personal Information may be handled by our employees and contractors in Canada, Australia, the U.S., the U.K., South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
 
 You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).
-
-  
-
-  
-
-ACIC Consent
-------------
-
-### Version 16.0
-
-##### Effective April 17th 2023
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/643d7e28613df23468c7d17a.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-**Nationally Coordinated Criminal History Check Application and Consent Form**
-
-  
-
-**General Information**
-
-This form is used by the Accredited body and on behalf of the Employer in relation to your employment or other engagement for work with the Employer.
-
-**National Criminal History Check**
-
-A Nationally Coordinated Criminal History Check contains your personal information, and any relevant police information about you, according to the purpose of your Nationally Coordinated Criminal History Check. Such criminal history information may include outstanding charges and criminal convictions and/or findings of guilt recorded against you that may be disclosed according to the laws of the relevant jurisdiction.You can contact the Accredited Body or the Employer for more information on the Nationally Coordinated Criminal History Check process, how your personal information is handled and how you can dispute your result.
-
-  
-
-|     |     |
-| --- | --- |
-| **Accredited body:** | **InterCheck Global Pty Ltd.,** (ABN:51151778237);<br><br>Address: 356 Collins Street, Melbourne, 3000, Victoria;<br><br>Contact details: help@intercheck.com.au; + 61 (03) 8820 4069 |
-| **Purpose for your check:** | Position Title / Licence Type / Reason for Check:<br><br>{{{position\_title}}}  <br><br>The Name or Organisation of Work / Issuing Authority:<br><br>{{{acic\_org}}}  <br><br>The Location or Town:<br><br>{{{acic\_location}}}  <br><br>The State or Territory:<br><br>{{{acic\_state}}} |
-| **Third-party details to forward/disclose the result Employer/ Organisation/** | Full Legal Name of Entity:<br><br>{{{company\_name}}}  <br><br>Address:  <br><br>{{{team\_address}}}<br><br>Preferred contact details:<br><br>{{{team\_phone\_number}}}  <br><br>ABN:<br><br>{{{team\_business\_number}}} |
-| **Permitted offshore transfer arrangements** | Overseas entity: **Certn (Canada) Inc**  <br><br>Location: **Canada**<br><br>Offshore processing: administrative application processing excluding hosting and delivery of police information results as provided by the Accredited body |
-
-  
-
-**Spent Conviction Schemes**
-
-Police information is disclosed in accordance with applicable spent conviction legislation and information release policies of the Australian Government and state and territory governments.
-
-  
-
-Visit the links for more information on spent convictions:
-
-Australian Government [www.legislation.gov.au](https://certn.co/terms-of-use/www.legislation.gov.au)
-
-Australian Capital Territory [www.legislation.act.gov.au](https://certn.co/terms-of-use/www.legislation.act.gov.au)
-
-New South Wales [www.legislation.nsw.gov.au](https://certn.co/terms-of-use/www.legislation.nsw.gov.au)
-
-Northern Territory [www.legislation.nt.gov.au](https://certn.co/terms-of-use/www.legislation.nt.gov.au)
-
-Queensland [www.legislation.qld.gov.au](https://certn.co/terms-of-use/www.legislation.qld.gov.au)
-
-South Australia [www.legislation.sa.gov.au](https://certn.co/terms-of-use/www.legislation.sa.gov.au)
-
-Tasmania [www.thelaw.tas.gov.au](https://certn.co/terms-of-use/www.thelaw.tas.gov.au)
-
-Victoria [www.police.vic.gov.au](https://certn.co/terms-of-use/www.police.vic.gov.au)
-
-Western Australia [www.legislation.wa.gov.au](https://certn.co/terms-of-use/www.legislation.wa.gov.au)
-
-  
-
-**Applicant’s Consent to submit a Nationally Coordinated Criminal History Check**
-
-You must provide your name, read each statement carefully and then print your name, sign and date to provide your informed consent
-
-  
-
-I/the applicant \_\_\_\_**{{{first\_name}}}**\_**{{{last\_name}}}**\_\_\_\_ hereby:
-
-1. acknowledge that I understand the information on this form;
-2. acknowledge that InterCheck Global Pty Ltd is collecting information in this form to provide to the Australian Criminal Intelligence Commission (ACIC) and police agencies, for a Nationally Coordinated Criminal History Check to be conducted for the purpose outlined in this form;
-3. have fully and accurately completed this form, and the personal information I have provided relates to me and contains the full name and all names previously used by me;
-4. acknowledge that withholding and/or providing misleading or false information on this form and in any supplied identity documents may be a Commonwealth offence and may lead to prosecution under the Criminal Code Act 1995 (Cth);
-5. acknowledge that personal information that I provided on this form and on the supplied identity documents may be disclosed to InterCheck Global Pty Ltd (including contractors, legal entity customers, related bodies or third parties named above in Australia or overseas, if applicable);
-6. acknowledge that any information sent electronically, in relation to this form, including identity documents, is sent at my risk and I am aware of the consequences of sending information in these ways;
-7. acknowledge that I am aware that I am providing consent for a Nationally Coordinated Criminal History Check to be conducted using all personal information provided in this form and provided in supplied identity documents;
-8. understand and consent to police information relating to me, being disclosed in accordance with the purpose identified in this form, and applicable legislation and information release policies (including spent convictions legislation described in Australian Government and state or territory legislation);
-9. give consent to:
-    1. the ACIC and police agencies using and disclosing my personal information that I have provided in this form and personal information contained in my supplied identity documents to conduct a Nationally Coordinated Criminal History Check;
-    2. the ACIC disclosing the police information sourced from the police agencies to other approved bodies and InterCheck Global Pty Ltd;
-    3. InterCheck Global Pty Ltd disclosing to the legal entity customer, third parties, and any permitted offshore transfer arrangements named above, my personal information and police information to assess my suitability for the purpose identified in this form;
-10. acknowledge that it is usual practice for my personal information and police information to be used by police agencies and the ACIC for law enforcement, including purposes set out in the Australian Crime Commission Act 2002 (Cth).
-
-  
-
-By signing this consent, I \_\_\_\_**{{{first\_name}}}**\_**{{{last\_name}}}**\_\_\_\_, acknowledge that I am providing a legally binding digital signature and I agree about how my personal information will be processed and disclosed.
 
   
 
@@ -4771,11 +4674,11 @@ If you have any questions about the collection, use, disclosure, or storage of y
 Tokenized Authorization (B2B) - FR (In Progress)
 ------------------------------------------------
 
-### Version 4.0
+### Version 4.1
 
-##### Effective June 26th 2024
+##### Effective November 19th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667c2a843574d5cfb05e5007.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667d4774962d1ad809541271.pdf)
 
 * * *
 
@@ -4783,16 +4686,15 @@ Tokenized Authorization (B2B) - FR (In Progress)
 
 * * *
 
-**AUTORISATION**  
+**AUTORISATION**
 
-Afin d'évaluer votre aptitude à participer à {{{purpose}}} , l'entreprise a demandé au Certn et à ses sociétés mères, affiliées et filiales, le cas échéant (" Certn ", " nous " ou " notre ") de vérifier votre identité, de créer et de vous renvoyer un rapport de consommation (votre " Rapport(s) ") composé de : {{{services\_list}}} (les " Services ").
+Afin d'évaluer votre aptitude à participer à {{purpose}} , {{company\_name}} ("Société") a demandé à [Certn](https://certn.co/) de vérifier votre identité, de créer et de vous renvoyer un rapport de consommation (votre " Rapport") composé de : {{services\_list}} .
 
-Nous collecterons les informations personnelles suivantes dans le but de fournir les services : {{{personal\_information\_list}}}. Nous pouvons collecter des informations personnelles directement auprès de vous, de la société ou de tiers tels que {{{data\_providers\_list}}}.  
-Nous comparerons les informations reçues de différentes sources pour en assurer la cohérence.
+Nous collecterons les renseignements personnels suivants dans le but de fournir les services: {{personal\_information\_list}} . {{#if data\_providers\_list}}Nous pouvons collecter des renseignements personnels directement auprès de vous, de la Société ou de tiers tels que {{data\_providers\_list}} {{else}} Nous pouvons collecter des renseignements personnels directement auprès de vous ou de la Société{{/if}}. Nous comparerons les informations reçues de différentes sources pour en assurer la cohérence.
 
-Il peut être nécessaire pour Certn de transférer et de traiter des informations personnelles dans plusieurs juridictions, en particulier si vous avez vécu, travaillé ou fréquenté une école en dehors de la juridiction dans laquelle l'entreprise a commandé le rapport. En outre, en fonction des services et de la localisation de l'entreprise, vos informations personnelles peuvent être traitées par nos employés et sous-traitants au Canada, en Australie, aux États-Unis, au Royaume-Uni, en Afrique du Sud et aux Philippines. Quel que soit l'endroit où les informations personnelles sont traitées, elles le seront conformément à nos politiques de confidentialité et de sécurité.
+Il peut être nécessaire pour Certn de transférer et de traiter des renseignements personnels dans plusieurs juridictions, en particulier si vous avez vécu, travaillé ou fréquenté une école en dehors de la juridiction dans laquelle l'entreprise a commandé le rapport. En outre, vos renseignements personnels peuvent être traités par nos employés et sous-traitants au Canada, en Australie, aux États-Unis, au Royaume-Uni, en Afrique du Sud et aux Philippines. Quel que soit l'endroit où les informations personnelles sont traitées, elles le seront conformément à nos politiques de confidentialité et de sécurité.
 
-Vous pouvez retirer votre consentement, contester l'exactitude d'un rapport ou demander une correction, une suppression ou une copie de votre rapport à tout moment en contactant le responsable de la protection de la vie privée du Certn au 1-844-987-0690 ou à [privacy@certn.co](mailto:privacy@certn.co). De plus amples informations concernant la collecte, l'utilisation, la divulgation ou le stockage de vos informations personnelles sont disponibles [ici](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-bylz4uhm3).
+Vous pouvez retirer votre consentement, contester l'exactitude d'un rapport ou demander une correction, une suppression ou une copie de votre rapport à tout moment en contactant le Responsable de la protection de la vie privée de Certn au 1-844-987-0690 ou à [privacy@certn.co](mailto:privacy@certn.co). De plus amples informations concernant la collecte, l'utilisation, la divulgation ou le stockage de vos renseignements personnels sont disponibles [ici](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-bylz4uhm3).
 
   
 
