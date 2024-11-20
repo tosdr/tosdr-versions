@@ -1,7 +1,7 @@
          
 
-Privacy Statement - HUAWEI Global
-=================================
+Privacy Statement
+=================
 
 We use cookies to improve our site and your experience. By continuing to browse our site you accept our cookie policy. [Find out more](https://consumer.huawei.com/en/legal/cookie-policy/ " Find out more")
 
@@ -122,9 +122,9 @@ How Huawei Collects and Uses Your Personal Data
 
 **1\. How Huawei Collects Your Personal Data**
 
-Personal information refers to any type of information recorded electronically or otherwise relating to an identified or identifiable natural person, excluding information that has been anonymised. We may collect your personal data when you use our products or services or interact with us. Different types of data will be collected, depending on the service you use and your interactions with us. In some cases, you can choose not to provide such data, but this may prevent us from providing you with corresponding products or services, or may mean that we cannot respond to or resolve any issues you have raised.
+Personal information refers to any type of information recorded electronically or otherwise relating to an identified or identifiable natural person, excluding information that has been anonymized. We may collect your personal data when you use our products or services or interact with us. Different types of data will be collected, depending on the service you use and your interactions with us. In some cases, you can choose not to provide such data, but this may prevent us from providing you with corresponding products or services, or may mean that we cannot respond to or resolve any issues you have raised.
 
-When providing you with related products or services, we may also collect and summarise statistics, such as website visits, app downloads, and product sales volume, to understand how our products and services are used. For the purposes of this Statement, the preceding statistics are regarded as non-personal data. We will try our best to isolate your personal data from non-personal data and use them separately. The personal data mixed with non-personal data will still be treated as personal data.
+When providing you with related products or services, we may also collect and summarize statistics, such as website visits, app downloads, and product sales volume, to understand how our products and services are used. For the purposes of this Statement, the preceding statistics are regarded as non-personal data. We will try our best to isolate your personal data from non-personal data and use them separately. The personal data mixed with non-personal data will still be treated as personal data.
 
 We will collect and use your personal data only for the purposes described in this Statement and Product Privacy Notice. The following are some examples of personal data we may collect:
 
@@ -146,7 +146,7 @@ b. Mobile network information, such as the public land mobile network (PLMN) pro
 
 c. Log information. When you use Huawei services or view Huawei-provided content, we will automatically collect and log some information, such as the time of access, access count, IP address, and event information (such as errors, crashes, restarts, and updates).
 
-d. Location information. When you access certain location-based services (such as perform searches, use navigation software, or view the weather for a specific location), we will collect, use, and process the approximate or precise location of your device. Such information may be obtained through the GPS, Wi-Fi, or service provider network ID. We will ask you to select the apps for which you want to enable location services. You can refuse to share your location by disabling the corresponding permission in your device settings.
+d. Location information. When you access certain location-based services (such as perform searches, use navigation software, or view the weather for a specific location), we will collect, use, and process the approximate or precise location of your device. Such information may be obtained through the GPS, WLAN, or service provider network ID. We will ask you to select the apps for which you want to enable location services. You can refuse to share your location by disabling the corresponding permission in your device settings.
 
 e. Information stored in the cloud. For example, the information you upload to the cloud will be stored on our servers for rapid access and sharing between devices. No one has access to such information without your permission.
 
@@ -156,7 +156,7 @@ When permitted by local laws, we may also obtain other information about you, yo
 
 **2\. How Huawei Uses Your Personal Data**
 
-We use your personal data only on a legal basis. According to applicable local laws, we may use your personal data for the following purposes under one of the legal bases: your consent; necessary to perform/enter into a contract between you and Huawei; necessary to protect the legitimate interests of you or others; necessary to fulfil legal obligations; and necessary to protect the legitimate interests of enterprises:
+We use your personal data only on a legal basis. According to applicable local laws, we may use your personal data for the following purposes under one of the legal bases: your consent; necessary to perform/enter into a contract between you and Huawei; necessary to protect the legitimate interests of you or others; necessary to fulfill legal obligations; and necessary to protect the legitimate interests of enterprises:
 
 (1) Register and activate our products or services that you have purchased;
 
@@ -170,15 +170,15 @@ We use your personal data only on a legal basis. According to applicable local l
 
 (6) After obtaining your consent or receiving your request, send you information about products and services you might be interested in, invite you to our promotional activities and market surveys, or send marketing information to you;
 
-(7) Carry out internal audit, data analysis, and research; analyse business operation efficiency and measure market shares; and improve our products and services;
+(7) Carry out internal audit, data analysis, and research; analyze business operation efficiency and measure market shares; and improve our products and services;
 
 (8) Troubleshoot problems after you send error details to us;
 
-(9) Synchronise and store the data you have uploaded or downloaded, as well as the data needed for upload and download operations;
+(9) Synchronize and store the data you have uploaded or downloaded, as well as the data needed for upload and download operations;
 
 (10) Improve our loss prevention and anti-fraud programs;
 
-(11) Comply with applicable local laws/regulations, for example, fulfil e-commerce platform management obligations, or comply with legal government requirements;
+(11) Comply with applicable local laws/regulations, for example, fulfill e-commerce platform management obligations, or comply with legal government requirements;
 
 (12) Other purposes described in the Product Privacy Notice.
 
@@ -192,9 +192,9 @@ Cookies are sometimes stored on computers or mobile devices to improve user expe
 
 (1) Necessary cookies:
 
-− Login and verification. When you use your HUAWEI ID to log in to a website, cookies can help you navigate from page to page, without having to re-log in on each page.
+•Login and verification. When you use your HUAWEI ID to log in to a website, cookies can help you navigate from page to page, without having to re-log in on each page.
 
-− Storage of your preferences and settings. Websites can use cookies to save personal settings, such as the language, font size, shopping basket, and other browsing preferences on your computers or mobile devices.
+•Storage of your preferences and settings. Websites can use cookies to save personal settings, such as the language, font size, shopping cart, and other browsing preferences on your computers or mobile devices.
 
 (2) Analysis cookies: Statistical analysis. With cookies, we can collect information about your use of our websites and other apps, including recording a single visit (using a session cookie) or multiple visits (using a persistent cookie).
 
@@ -206,9 +206,9 @@ If you clear cookies, you will need to change your settings every time you visit
 
 In addition to cookies, we may also use other similar technologies on our websites, such as web beacons and pixel tags. A web beacon is typically an electronic image embedded into a website or email to identify your device cookies when you access the website or email. Pixel tags enable us to send emails in a way that is readable to you and find out whether an email has been opened.
 
-We and our third-party partners use such technologies for a variety of purposes, including analysing service usage (in conjunction with cookies) and providing more satisfactory content and advertisements to you. For example, an email sent to you by us may contain a click-through URL which links to our website. If you click the URL, we will track your visit to help us understand your preferences for products and services and improve customer services.
+We and our third-party partners use such technologies for a variety of purposes, including analyzing service usage (in conjunction with cookies) and providing more satisfactory content and advertisements to you. For example, an email sent to you by us may contain a click-through URL which links to our website. If you click the URL, we will track your visit to help us understand your preferences for products and services and improve customer services.
 
-Many web browsers provide the Do Not Track feature that can send Do Not Track requests to websites. Major Internet standardisation organisations have not established policies to specify how websites should deal with these requests.
+Many web browsers provide the Do Not Track feature that can send Do Not Track requests to websites. Major Internet standardization organizations have not established policies to specify how websites should deal with these requests.
 
 Currently, we do not allow you to change the cookie processing ways based on the Do Not Track settings or other similar features you have selected.
 
@@ -224,7 +224,7 @@ We will enter into a strict entrusting agreement or personal data processing ter
 
 Sharing refers to the process in which we provide personal data to other personal data processors, and both parties can independently determine the data processing purposes and methods. We will not share your personal data with external parties, except in the following cases:
 
-(1) Sharing with your consent: After obtaining your consent, we will share your authorised personal data with third parties designated by you.
+(1) Sharing with your consent: After obtaining your consent, we will share your authorized personal data with third parties designated by you.
 
 (2) Sharing under statutory circumstances: We may share your personal data in accordance with laws/regulations, litigation resolution requirements, or legal requirements of administrative and judicial authorities.
 
@@ -232,11 +232,11 @@ Sharing refers to the process in which we provide personal data to other persona
 
 (4) Sharing with business partners: To ensure the quality of services provided to you, we may share your order, account, device, and location information with our third-party partners. However, we will only share your personal data for legitimate, appropriate, necessary, specific, and definite purposes. Our partners include:
 
-a. Third-party sellers and developers: Some of our products or services are directly provided to you by third parties. In this case, we will share transaction-related information with third parties to fulfil the requirements for products or services you have purchased. For example, when you purchase products from third-party developers in HUAWEI AppGallery, we will share necessary information with them to complete the transaction.
+a. Third-party sellers and developers: Some of our products or services are directly provided to you by third parties. In this case, we will share transaction-related information with third parties to fulfill the requirements for products or services you have purchased. For example, when you purchase products from third-party developers in HUAWEI AppGallery, we will share necessary information with them to complete the transaction.
 
 b. Providers of goods or technical services: We may share your personal data with third parties that support our features and functions, including third parties that supply or provide infrastructure technology services, logistics and distribution services, payment services, and data processing services. We share such data for the purpose of implementing the functionality of our products and services. For example, we will share your order information with the logistics service provider to arrange delivery, or your order number and purchase amount with a third-party payment agency to confirm your payment instructions and complete the transaction.
 
-We will perform security assessment on the sharing behaviour and personal data receivers, and sign a data protection agreement or strict non-disclosure agreement with them, requiring them to abide by this Statement and take appropriate confidentiality and security measures when processing your personal data.
+We will perform security assessment on the sharing behavior and personal data receivers, and sign a data protection agreement or strict non-disclosure agreement with them, requiring them to abide by this Statement and take appropriate confidentiality and security measures when processing your personal data.
 
 **3\. Transfer**
 
@@ -252,23 +252,23 @@ We will disclose your personal data only in the following cases:
 
 How Huawei Protects Your Personal Data
 
-The security of your personal data is important to us. We have adopted standard industry practices to protect your personal data from unauthorised access/disclosure/use/modification, damage, or loss. To this end, we take the following measures:
+The security of your personal data is important to us. We have adopted standard industry practices to protect your personal data from unauthorized access/disclosure/use/modification, damage, or loss. To this end, we take the following measures:
 
 1\. We take all reasonable and feasible measures to ensure that the personal data collected is minimal and relevant to what is necessary in relation to the purposes for which they are processed. We will retain your personal data for no longer than is necessary for the purposes stated in this Statement, unless otherwise extending the retention period is required or permitted by law.
 
 2\. We use cryptographic technologies to ensure the confidentiality of data transmission and storage, and implement trusted protection mechanisms to protect data and data storage servers from attacks.
 
-3\. We deploy access control mechanisms to permit only authorised access to your personal data. In addition, we limit the number of authorised personnel and implement hierarchical permission management based on service requirements and personnel levels. Access to personal data will be logged and reviewed by authorised personnel on a regular basis.
+3\. We deploy access control mechanisms to permit only authorized access to your personal data. In addition, we limit the number of authorized personnel and implement hierarchical permission management based on service requirements and personnel levels. Access to personal data will be logged and reviewed by authorized personnel on a regular basis.
 
 4\. We carefully select business partners and service providers and incorporate personal data protection requirements into commercial contracts, audits, and appraisal activities.
 
-5\. We organise security and privacy protection training courses, tests, and publicity activities to raise employees' personal data protection awareness.
+5\. We organize security and privacy protection training courses, tests, and publicity activities to raise employees' personal data protection awareness.
 
 We are fully committed to protecting your personal data. Nevertheless, no security measure is perfect, and no product, service, website, data transmission, computer system, or network connection is absolutely secure.
 
 In response to possible risks, such as personal data leakage, damage, and loss, we have developed several mechanisms and control measures, clearly defined the rating standards of security incidents and vulnerabilities and the corresponding handling procedures, and established a dedicated [Security Advisory and Security Notice](https://www.huawei.com/en/psirt) page. We have also established a dedicated security emergency response team to implement security contingency plans, loss reduction, analysis, locating, and remediation, and to perform backtracking/countering operations with related departments in accordance with security incident handling regulations and requirements.
 
-If any personal data security incident occurs, we will notify you, pursuant to local legal requirements, of the basic information about the security incident and its possible impact, measures that we have taken or will take, suggestions about active defence and risk mitigation, and remedial measures. The notification may take the form of an email, text message, push notification, etc. When it is difficult to inform data subjects individually, we will take appropriate and effective measures to release a Security Notice. In addition, we will also report the handling status of personal data security incidents as required by supervisory authorities.
+If any personal data security incident occurs, we will notify you, pursuant to local legal requirements, of the basic information about the security incident and its possible impact, measures that we have taken or will take, suggestions about active defense and risk mitigation, and remedial measures. The notification may take the form of an email, text message, push notification, etc. When it is difficult to inform data subjects individually, we will take appropriate and effective measures to release a Security Notice. In addition, we will also report the handling status of personal data security incidents as required by supervisory authorities.
 
 How You Can Manage Your Personal Data
 
@@ -280,15 +280,15 @@ Legislation in certain countries and regions where we provide products and servi
 
 Data subjects' requests must be submitted in writing. The requests are equally valid even if the requester does not specify the laws on which the requests are based. In general, verbal requests are not valid unless otherwise permitted by local laws.
 
-Data subjects' requests can be submitted through the official website of Huawei Consumer BG, My HUAWEI app, or HUAWEI ID Privacy centre. If a data subject initiates a request via a hotline, email, online customer service, service centre, or other channels, we will instruct the data subject to raise an official request through one of the aforementioned channels to facilitate progress communication and result feedback. We have established the dedicated channels to protect their legitimate interests, ensure our business operation, and prevent their rights from being misused or fraudulently used.
+Data subjects' requests can be submitted through the official website of Huawei Consumer BG, My HUAWEI app, or HUAWEI ID Privacy center. If a data subject initiates a request via a hotline, email, online customer service, service center, or other channels, we will instruct the data subject to raise an official request through one of the aforementioned channels to facilitate progress communication and result feedback. We have established the dedicated channels to protect their legitimate interests, ensure our business operation, and prevent their rights from being misused or fraudulently used.
 
 (2) Validity of requests
 
 Most laws require data subjects to comply with specific requirements when they initiate requests. This Statement requires data subjects to:
 
-a. Submit requests through dedicated request channels (namely, [official website of Huawei Consumer BG](https://consumer.huawei.com/uk/legal/privacy-questions/), My HUAWEI app, or HUAWEI ID Privacy centre).
+a. Submit requests through dedicated request channels (namely, [official website of Huawei Consumer BG](https://consumer.huawei.com/en/legal/privacy-questions/), My HUAWEI app, or HUAWEI ID Privacy center).
 
-b. Provide sufficient information for Huawei to verify their identities (to ensure those who initiate the requests are the data subjects themselves or those authorised by them).
+b. Provide sufficient information for Huawei to verify their identities (to ensure those who initiate the requests are the data subjects themselves or those authorized by them).
 
 c. Ensure that their requests are specific and feasible.
 
@@ -324,13 +324,13 @@ If none of the situations described in (1) occurs, we will honor the request of 
 
 (5) Special notes
 
-a. Only legal guardians or legally authorised persons have the right to access the personal data of others.
+a. Only legal guardians or legally authorized persons have the right to access the personal data of others.
 
-b. Most laws/regulations specify the circumstances under which an organisation may not provide data to data subjects. These cases include scenarios when providing data may undermine ongoing efforts against terrorism; when the data subject has made repeated requests, or when obtaining and providing such information would consume disproportionate resources.
+b. Most laws/regulations specify the circumstances under which an organization may not provide data to data subjects. These cases include scenarios when providing data may undermine ongoing efforts against terrorism; when the data subject has made repeated requests, or when obtaining and providing such information would consume disproportionate resources.
 
 c. Typically, we will not provide the following information:
 
-(a) Information about others: Requests from data subjects may involve other individuals besides the data subject. We will not provide such information, unless authorised by the relevant individuals.
+(a) Information about others: Requests from data subjects may involve other individuals besides the data subject. We will not provide such information, unless authorized by the relevant individuals.
 
 (b) Repeated requests: If the data subject initiates the same or similar requests related to one data subject for multiple times, and the data has not changed since the last time we provided the data, we will not provide a copy of the data in most cases. Additionally, we have no obligation to provide information that has been publicly available.
 
@@ -344,11 +344,15 @@ If allowed by applicable laws, you have the right to withdraw your consent at an
 
 For details about how to withdraw your consent for a specific product or service, see the Product Privacy Notice.
 
+**3\. How Do We Protect the Personal Data of the Deceased**
+
+If you are a close relative of a deceased Huawei user and you are in China, you can contact us (via [https://consumer.huawei.com/en/legal/privacy-questions/](https://consumer.huawei.com/en/legal/privacy-questions/)) and exercise the rights stipulated by laws to view, copy, correct, and delete their personal data, unless they made arrangements otherwise. Please note that the personal data here only includes HUAWEI ID-related data of the deceased.
+
 How Huawei Processes the Personal Data of Minors
 
 We attach great importance to the protection of minors' personal data. We will provide services and protection for minors in strict accordance with national laws/regulations. Parents or other guardians should also take appropriate measures to protect minors, including monitoring their use of products or services.
 
-We treat anyone under the age of 14 (or the age stipulated by local laws) as a child. Children are not allowed to create their own HUAWEI IDs without the consent of their parents or other guardians. We will strictly restrict the entrusted processing, sharing, transfer, and public disclosure of children's personal data in accordance with laws/regulations. If the guardian needs to access, correct, or delete the personal data of the person under guardianship at any time, please contact us according to Chapter 10 "How to Contact Us." If we find that we have collected children's personal data without obtaining the prior consent from authenticated parents or other guardians, we will manage to delete the data as soon as possible.
+We treat anyone under the age of 14 (or the age stipulated by local laws) as a child. Children are not allowed to create their own HUAWEI IDs without the consent of their parents or other guardians. We will strictly restrict the entrusted processing, sharing, transfer, and public disclosure of children's personal data in accordance with laws/regulations. If the guardian needs to access, correct, or delete the personal data of the person under guardianship at any time, please contact us according to Chapter 10 "How to Contact Us." If we find that we have collected children's personal data without obtaining the prior consent from authenticated parents or other guardians, we will manage to delete the data as soon as possible. For more information about children's privacy protection, see the [Huawei Consumer Business Statement About Children's Privacy Protection](https://legal.cloud.huawei.com/legal/child/privacy-statement.htm?code=CN&language=en-us).
 
 Links to Third-Party Websites, Products, and Services
 
@@ -364,11 +368,11 @@ Personal data collected and generated during our operations in the People's Repu
 
 Updates to This Statement
 
-Huawei reserves the right to update this Statement at any time. This Statement may be updated from time to time. For the latest version, please visit our official website ([https://consumer.huawei.com](https://consumer.huawei.com/)). If major changes are made to this Statement, we may notify you through different channels, for example, posting a notice on our website or sending you direct notification.
+Huawei reserves the right to update this Statement at any time. This Statement may be updated from time to time. For the latest version, please visit our official website ([http://consumer.huawei.com](http://consumer.huawei.com/)). If major changes are made to this Statement, we may notify you through different channels, for example, posting a notice on our website or sending you direct notification.
 
 How to Contact Us
 
-We have a department (or specialists) dedicated to personal data protection. If you have any questions, comments, or suggestions, please contact us via the online customer service, Privacy Questions page, or our global offices. For a complete list of our offices, please visit the Contact Huawei page.
+We have a department (or specialists) dedicated to personal data protection. If you have any questions, comments, or suggestions, please contact us via the online customer service, [Privacy Questions](https://consumer.huawei.com/en/legal/privacy-questions/) page, or our global offices. For a complete list of our offices, please visit the [Contact Huawei](https://consumer.huawei.com/en/contact-us/) page.
 
 Generally, we will give an initial reply within three working days and answer your questions within the time frame specified by laws/regulations. If you are not satisfied with our reply, especially if you feel that our personal data processing has violated your legal rights and interests, you can submit complaints or report to local privacy protection regulators.
 
@@ -380,7 +384,7 @@ Last updated: December, 2023
 
 * [Home](https://consumer.huawei.com/en/ "Home")
 * [Privacy](https://consumer.huawei.com/en/privacy/ "Privacy")
-* Privacy Statement - HUAWEI Global
+* Privacy Statement
 
 PRODUCTS
 
