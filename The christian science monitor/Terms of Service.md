@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Resilience
+
+### In wartime Gaza, turning meager olive harvest into oil is an act of defiance](https://www.csmonitor.com/World/Middle-East/2024/1119/gaza-israel-olive-oil-farm-crop-harvest "In wartime Gaza, turning meager olive harvest into oil is an act of defiance")
+
 [Innovation
 
 ### Schools get real on artificial intelligence](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1119/Schools-get-real-on-artificial-intelligence "Schools get real on artificial intelligence")
@@ -100,21 +104,17 @@ Recent Stories
 
 ### Howard University hoped to make history. Now it’s ready for a different role.](https://www.csmonitor.com/USA/Politics/2024/1119/kamala-harris-howard-university-speech "Howard University hoped to make history. Now it’s ready for a different role.")
 
-[Equality
-
-### Millions in rural America lack reliable internet. How Massachusetts towns got online.](https://www.csmonitor.com/USA/Society/2024/1119/rural-broadband-internet-access-massaschusetts "Millions in rural America lack reliable internet. How Massachusetts towns got online.")
-
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
 Monitor Daily
 
-November 18, 2024
+November 19, 2024
 
-Bread or circus
+The great thaw
 
-Read our first two stories today, and one thing jumps out. The Trump administration is looking like it will take a blowtorch to business as usual in Washington, from health to immigration and beyond. But the thing about disruption is that it is ... disruptive. And if this election was about anything, it was a reminder that everything comes back to how voters feel about the economy. Mr. Trump’s challenge will be in pulling the levers that lead to economic regeneration and avoiding those that only add to the political circus.  
+One could be forgiven for wondering how, in 2024, some 50% of rural Americans lack access to high-speed internet, according to one study. In his story today, Cameron Pugh shows that there are solutions. But they likely will take vision and commitment. Admittedly, this is not a get-out-the-vote topic. But for many rural areas, it would likely be more transformational than the issues that are. American greatness has often come from the largeness of its ideas matched with the steadfastness of its determination. The culture wars are unlikely to unfreeze from their partisan divisions anytime soon. But so many other areas are ripe for American ingenuity and just waiting for the nation to thaw.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### In wartime Gaza, turning meager olive harvest into oil is an act of defiance](https://www.csmonitor.com/World/Middle-East/2024/1119/gaza-israel-olive-oil-farm-crop-harvest "In wartime Gaza, turning meager olive harvest into oil is an act of defiance")
+
 [### Hong Kong court locks up a generation of pro-democracy leaders](https://www.csmonitor.com/World/Asia-Pacific/2024/1119/hong-kong-jail-democracy "Hong Kong court locks up a generation of pro-democracy leaders")
 
 [### Europe nations investigate cut cables in the Baltic Sea. Was it Russian sabotage?](https://www.csmonitor.com/World/Europe/2024/1119/Ukraine-war-Russian-sabotage-europe-undersea-cables "Europe nations investigate cut cables in the Baltic Sea. Was it Russian sabotage?")
-
-[### Now UK farmers have a reason to protest. They say a tax hike will destroy family farms.](https://www.csmonitor.com/World/Europe/2024/1119/Uk-farmers-protest-tax-Keir-Starmer-EU "Now UK farmers have a reason to protest. They say a tax hike will destroy family farms.")
 
 * * *
 
