@@ -19,7 +19,7 @@ we also created:
 Browserling's Privacy Policy
 ============================
 
-Last updated: Apr 13, 2017
+Last updated: Nov 15, 2024
 
 Browserling Inc ("us", "we", or "our") URLs and Browserling Services provided on or through mobile applications, websites, third party platforms including social networking sites or similar communication platforms that you have linked with our applications and websites ("Third Party Platforms"), and various API Services and other Services that we may offer from time to time (collectively, the "Services")
 
