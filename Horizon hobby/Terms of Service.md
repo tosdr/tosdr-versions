@@ -273,9 +273,9 @@ My store
         
     * [Radios](https://www.horizonhobby.com/radios/ "Shop RC Radios")
         
-        [![Image of SPM Certified Used logo](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3409dd37/header-images/parts-accessories-used-175x175-02.jpg)](https://www.horizonhobby.com/radios/spektrum-certified-used/)
+        [![Certified used or refurbished transmitters from Spektrum RC](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3409dd37/header-images/parts-accessories-used-175x175-02.jpg)](https://www.horizonhobby.com/radios/spektrum-certified-used/)
         
-        [![Image of Spektrum Radio](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw9e0a7891/header-images/SPMR14000-radios-nav-175x175.jpg)](https://www.horizonhobby.com/spektrum/)
+        [![Image of Spektrum RC Transmitter](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw9e0a7891/header-images/SPMR14000-radios-nav-175x175.jpg)](https://www.horizonhobby.com/spektrum/)
         
         * [Aircraft Radios](https://www.horizonhobby.com/radios/aircraft/ "Shop RC Airplane Transmitters")
             * [Transmitters](https://www.horizonhobby.com/radios/aircraft/transmitters/)
@@ -301,15 +301,15 @@ My store
         * [Spektrum Certified Used](https://www.horizonhobby.com/radios/spektrum-certified-used/ "Shop Certified Used RC Transmitters ")
         * [View All](https://www.horizonhobby.com/radios/ "Shop All RC Transmitters")
         
-        [![SPM Certified Used](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3409dd37/header-images/parts-accessories-used-175x175-02.jpg)](https://www.horizonhobby.com/radios/spektrum-certified-used/)
+        [![Image of Spektrum Certified Used Transmitters logo](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3409dd37/header-images/parts-accessories-used-175x175-02.jpg)](https://www.horizonhobby.com/radios/spektrum-certified-used/)
         
-        [![Image of Spektrum Radio](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw9e0a7891/header-images/SPMR14000-radios-nav-175x175.jpg)](https://www.horizonhobby.com/spektrum/)
+        [![Image of Spektrum RC Transmitter](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw9e0a7891/header-images/SPMR14000-radios-nav-175x175.jpg)](https://www.horizonhobby.com/spektrum/)
         
     * [Batteries & Chargers](https://www.horizonhobby.com/batteries-and-chargers/ "Shop RC Batteries and Chargers")
         
-        [![Spektrum Smart Battery and Charger](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwf99a9108/header-images/SPMX-Smart-Logo-175x175.jpg)](https://www.horizonhobby.com/spektrum-smart-technology/)
+        [![Spektrum Smart RC battery and charger](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwf99a9108/header-images/SPMX-Smart-Logo-175x175.jpg)](https://www.horizonhobby.com/spektrum-smart-technology/)
         
-        [![Image of battery and charger from Spektrum](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwfcfd6bd9/header-images/SPM-SMART-batt-charger-nav-175x175.jpg)](https://www.horizonhobby.com/spektrum-accessories/)
+        [![Spektrum Smart RC battery and charger](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwfcfd6bd9/header-images/SPM-SMART-batt-charger-nav-175x175.jpg)](https://www.horizonhobby.com/spektrum-accessories/)
         
         * [RC Car, Truck & Boat Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-car-truck-and-boat-batteries/ "Shop RC Car Batteries")
             * [2S LiPo Batteries](https://www.horizonhobby.com/batteries-and-chargers/rc-car-truck-and-boat-batteries/2s-lipo-batteries/)
@@ -331,7 +331,7 @@ My store
             * [2 Port Chargers](https://www.horizonhobby.com/batteries-and-chargers/battery-chargers/2-port-chargers/)
             * [View All](https://www.horizonhobby.com/batteries-and-chargers/battery-chargers/ "Shop All Remote Control Batteries & Chargers")
         * [View All](https://www.horizonhobby.com/batteries-and-chargers/ "Shop All RC Batteries & Chargers")
-        * [RC Battery & Charger Bundles](https://www.horizonhobby.com/spektrum-powerstage-bundles/ "Shop RC Battery & Charger Bundles")
+        * [RC Battery & Charger Bundles](https://www.horizonhobby.com/batteries-and-chargers/spektrum-powerstage-bundles/ "Shop RC Battery & Charger Bundles")
         * [RC Battery & Charger Storage](https://www.horizonhobby.com/batteries-and-chargers/battery-storage/ "Shop RC Battery & Charger Storage")
         * [RC Battery Checkers](https://www.horizonhobby.com/batteries-and-chargers/battery-checkers/ "Shop RC Battery Checkers & Meters")
         * [RC Battery Adapters](https://www.horizonhobby.com/batteries-and-chargers/battery-adapters/ "Shop RC Battery Adapters & Connectors")
@@ -343,7 +343,7 @@ My store
         
     * [Parts](https://www.horizonhobby.com/horizon-hobby-accessories/ "Shop RC Parts, Supplies, and Upgrades")
         
-        [![SPM Certified Used](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3409dd37/header-images/parts-accessories-used-175x175-02.jpg)](https://www.horizonhobby.com/radios/spektrum-certified-used/)
+        [![Certified used or refurbished transmitters from Spektrum RC](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw3409dd37/header-images/parts-accessories-used-175x175-02.jpg)](https://www.horizonhobby.com/radios/spektrum-certified-used/)
         
         * [Airplane Accessories](https://www.horizonhobby.com/airplanes/parts-electronics-and-accessories/ "Shop RC Airplane Parts & Accessories")
             * [Electronic Speed Controls](https://www.horizonhobby.com/airplanes/parts-electronics-and-accessories/electronic-speed-controls/)
@@ -396,15 +396,15 @@ My store
 
 * * [RC Community](https://www.horizonhobby.com/hh-our-community.html "Get Involved in Local RC Clubs")
         
-        [![Find a local track](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw80927818/header-images/RCN-Drive-Logo-BW-175x175.jpg)
+        [![Find a local RC race track or RC car club](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw80927818/header-images/RCN-Drive-Logo-BW-175x175.jpg)
         
         Find a local track](https://drive.rcnation.com/clubs "Find an RC Race Track or Club")
         
-        [![Shop Local](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw2d4c0c99/header-images/shop-local-175x175.jpg)
+        [![Find Horizon Hobby products at a local RC hobby store near you](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dw2d4c0c99/header-images/shop-local-175x175.jpg)
         
         Shop Local](https://www.horizonhobby.com/stores?showMap=true&horizontalView=true&isForm=true "Shop Local Horizon Hobby Dealers")
         
-        [![Find an event](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwd11c30db/header-images/RCN-Fly-Logo-BW-175x175.jpg)
+        [![Find an RC Event including RC crawling, RC airshows, and radio control showcases](https://www.horizonhobby.com/on/demandware.static/-/Sites-horizon-us-Library/default/dwd11c30db/header-images/RCN-Fly-Logo-BW-175x175.jpg)
         
         Find a local flying club](https://fly.rcnation.com/clubs "Find an RC Flying Field or Club")
         
@@ -445,7 +445,7 @@ Spektrum Powerstage Bundles
 
 Save a bundle when you buy together.
 
-[SHOP NOW](https://www.horizonhobby.com/spektrum-powerstage-bundles/)
+[SHOP NOW](https://www.horizonhobby.com/batteries-and-chargers/spektrum-powerstage-bundles/)
 
 Part Finder
 -----------
