@@ -188,7 +188,7 @@ Artikel 13: TOEPASSELIJK RECHT EN GESCHILLEN
 
 ### [Nieuws](https://www.bit.nl/nieuws)
 
-#### [ECOFED wint ICT Innovatieprijs Regio Foodvalley 2024](https://www.bit.nl/news/3611/88/ECOFED-wint-ICT-Innovatieprijs-Regio-Foodvalley-2024)
+#### [Een goede cloud heeft een kundige dirigent nodig](https://www.bit.nl/news/3626/88/Een-goede-cloud-heeft-een-kundige-dirigent-nodig)
 
 [](https://www.bit.nl/nieuws)
 
