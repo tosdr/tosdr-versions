@@ -130,6 +130,7 @@ Terms and Conditions of the 100€ Voucher Giveaway
 * [Blog](https://faircado.co.uk/magazin/)
 * [Newsroom](https://faircado.co.uk/presse-neuigkeiten/)
 
+* [Affiliate Programm](https://faircado.de/affiliate-programm/)
 * [Partner werden](https://forms.gle/8qVbs2ezqz9sSRwQ6)
 * [Unsere Partner](https://faircado.co.uk/unsere-partner/)
 * [Kontakt](https://faircado.co.uk/kontakt/)
@@ -171,6 +172,7 @@ senden
 * [Blog](https://faircado.co.uk/magazin/)
 * [Newsroom](https://faircado.co.uk/presse-neuigkeiten/)
 
+* [Affiliate Programm](https://faircado.de/affiliate-programm/)
 * [Partner werden](https://forms.gle/8qVbs2ezqz9sSRwQ6)
 * [Unsere Partner](https://faircado.co.uk/unsere-partner/)
 * [Kontakt](https://faircado.co.uk/kontakt/)
