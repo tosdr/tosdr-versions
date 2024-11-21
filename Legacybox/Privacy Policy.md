@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=1540084302933059&ev=PageView&noscript=1)    
 
-                       
+                         
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/566/assets/placeholder-pixel.png?v=50439485113009717681726754073)
 
@@ -459,7 +459,7 @@ By regular mail:             Legacybox
 
 ### Blog
 
- [10 Tips For Making The Perfect Birthday Slideshow](https://legacybox.com/blogs/analog/how-to-make-birthday-slideshow)[Do Polaroids Fade?](https://legacybox.com/blogs/analog/do-polaroids-fade)
+ [Best Ways to Back Up and Store Digital Photos](https://legacybox.com/blogs/analog/best-way-to-store-digital-photos)[10 Tips For Making The Perfect Birthday Slideshow](https://legacybox.com/blogs/analog/how-to-make-birthday-slideshow)
 
  [](https://www.facebook.com/Legacybox)[](https://www.instagram.com/legacybox/)[](https://www.youtube.com/channel/UCtrczFsRT_WQ655Y4fKMWNA)
 
