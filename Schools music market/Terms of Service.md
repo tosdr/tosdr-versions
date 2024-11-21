@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/this-or-that-music-sound-game-man-made-vs-natural-elementary-music-activity/)
+ [](https://schoolsmusicmarket.com/product/songwriting-lesson-part-3-lets-write-a-middle-8/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/which-instrument-is-playing-a-powerpoint-challenge/)
+ [](https://schoolsmusicmarket.com/product/trace-the-musical-symbols-colouring-activity-2/)
 
 ###### Browse By Year/Grade
 
