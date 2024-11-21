@@ -215,18 +215,27 @@ All matters relating to your access to and use of the Site shall be governed by 
 
 If there is a determination that any provision of these Terms of Use is invalid or unenforceable, that determination will not affect the rest of the Terms of Use and the Terms of Use shall be deemed amended to the minimum extent necessary to make them valid and enforceable.
 
-#### 1.1.13 Malicious Conduct
+#### 1.1.13 DNS Abuse
 
-For any inquiries related to malicious conduct in the Verisign managed TLDs please contact Verisign at:
+To report DNS Abuse in the Verisign-managed TLDs, please contact Verisign via:  
+  
+Webform: [https://verisign.my.site.com/DNSAbuse/](https://verisign.my.site.com/DNSAbuse/)  
+  
+For more information, please visit Verisign’s Combating DNS Abuse webpage located at [https://www.verisign.com/en\_US/company-information/dns-abuse/index.xhtml](https://www.verisign.com/company-information/dns-abuse/index.xhtml).
 
-Email: [abuse@verisign.com](mailto:abuse@verisign.com)
+#### 1.1.14 Malicious Conduct
 
-Verisign Customer Service  
-Verisign Inc.  
+To report other forms of malicious conduct that are not DNS Abuse in Verisign-managed TLDs, please contact Verisign via:
+
+Email: [info@verisign-grs.com](mailto:info@verisign-grs.com)
+
+Mail:  
+VeriSign, Inc.  
+Attn: Verisign Support  
 12061 Bluemont Way  
 Reston, Virginia 20190
 
-#### 1.1.14 Contact Information
+#### 1.1.15 Contact Information
 
 If you have any questions regarding these Terms of Use, please [contact Verisign](mailto:legal@verisign.com).
 
@@ -260,7 +269,7 @@ Language:
 
 [English](https://www.verisign.com/en_US/index.xhtml?loc=en_US)[Chinese (Simplified)](https://www.verisign.com/zh_CN/index.xhtml?loc=zh_CN)
 
-[Legal Notices](https://www.verisign.com/en_US/legal-notices/index.xhtml) [Privacy](https://www.verisign.com/en_US/privacy-center/index.xhtml) [CCPA NOTICE AT COLLECTION](https://www.verisign.com/en_US/privacy-statement/index.xhtml#section-3e) [Repository](https://www.verisign.com/en_US/verisign-repository/index.xhtml) [Site Map](https://www.verisign.com/en_US/site-map/index.xhtml) [Cookie Settings](javascript:;)
+[Legal Notices](https://www.verisign.com/en_US/legal-notices/index.xhtml) [Privacy](https://www.verisign.com/en_US/privacy-center/index.xhtml) [CCPA NOTICE AT COLLECTION](https://www.verisign.com/en_US/privacy-statement/index.xhtml#section-3e) [Repository](https://www.verisign.com/en_US/verisign-repository/index.xhtml) [Report Abuse](https://www.verisign.com/en_US/company-information/dns-abuse/index.xhtml#reportdnsabuse) [Site Map](https://www.verisign.com/en_US/site-map/index.xhtml) [Cookie Settings](javascript:;)
 
 © 2024 VeriSign, Inc. All rights reserved.
 
