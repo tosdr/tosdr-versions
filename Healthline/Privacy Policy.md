@@ -190,14 +190,14 @@
 
 Subscribe
 
-[#### Inflammatory Bowel Disease](https://www.healthline.com/inflammatory-bowel-disease)
+[#### Weight Management](https://www.healthline.com/weight-management)
 
-* [Basics of IBD](https://www.healthline.com/inflammatory-bowel-disease/ibd-basics)
-* [Treatments](https://www.healthline.com/inflammatory-bowel-disease/treating-ibd)
-* [Food & Gut Health](https://www.healthline.com/inflammatory-bowel-disease/food-gut-health)
-* [Live Well with IBD](https://www.healthline.com/inflammatory-bowel-disease/lifestyle-ibd)
-* [Community](https://apps.apple.com/us/app/ibd-healthline/id1459294732)
-* [Newsletter](https://www.healthline.com/newsletter-signup/ibd)
+* [Nutrition](https://www.healthline.com/weight-management/nutrition)
+* [Fitness](https://www.healthline.com/weight-management/fitness)
+* [Mental Well-Being](https://www.healthline.com/weight-management/well-being)
+* [Healthy Habits](https://www.healthline.com/weight-management/healthy-habits)
+* [Treatment](https://www.healthline.com/weight-management/treatment-medication)
+* [Apps](https://www.healthline.com/weight-management/apps-products)
 
 Privacy Policy
 ==============
