@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Is PayPal down? Thousands report login issues](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2181304403.jpg?ve=1&tl=1)
+
+ ![Is PayPal down? Thousands report login issues](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2181304403.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/is-paypal-down-thousands-report-issues-nov-21-2024)
+
+### [Is PayPal down? Thousands report login issues](https://www.fox4news.com/news/is-paypal-down-thousands-report-issues-nov-21-2024)
+
+ [![Shots fired, guns tossed out window: Police arrest 3 after high-speed chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/fortworthpd.jpg?ve=1&tl=1)
+
+ ![Shots fired, guns tossed out window: Police arrest 3 after high-speed chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/fortworthpd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-fort-worth-police-chase-guns)
+
+### [Shots fired, guns tossed out window: Police arrest 3 after high-speed chase](https://www.fox4news.com/news/arlington-fort-worth-police-chase-guns)
+
+ [![New travel trend has Americans chasing the fountain of youth](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-527764232.jpg?ve=1&tl=1)
+
+ ![New travel trend has Americans chasing the fountain of youth](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-527764232.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/new-travel-trend-health-wellness-destinations-2025)
+
+### [New travel trend has Americans seeking to 'extend their lifespan' in these destinations](https://www.fox4news.com/news/new-travel-trend-health-wellness-destinations-2025)
+
+ [![Competition for homes is easing the fastest for buyers in these markets](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1882476651.jpg?ve=1&tl=1)
+
+ ![Competition for homes is easing the fastest for buyers in these markets](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1882476651.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/buyers-market-november-2024-what-regions)
+
+### [Competition for homes is easing the fastest for buyers in these markets](https://www.fox4news.com/news/buyers-market-november-2024-what-regions)
+
  [![Dallas shooting: Gunman at large after 1 killed, 2 injured in Southeast Oak Cliff gunfire](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1)
 
  ![Dallas shooting: Gunman at large after 1 killed, 2 injured in Southeast Oak Cliff gunfire](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-gunman-large-after-1-killed-2-injured-southeast-oak-cliff-gunfire)
 
 ### [Dallas shooting: Gunman at large after 1 killed, 2 injured in Southeast Oak Cliff gunfire](https://www.fox4news.com/news/dallas-shooting-gunman-large-after-1-killed-2-injured-southeast-oak-cliff-gunfire)
-
- [![Duct-tape banana art sells for $6.2 million at auction](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/banana.jpg?ve=1&tl=1)
-
- ![Duct-tape banana art sells for $6.2 million at auction](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/banana.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/duct-tape-banana-art-sells-6-2-million-auction)
-
-### [Duct-tape banana art sells for $6.2 million at auction](https://www.fox4news.com/news/duct-tape-banana-art-sells-6-2-million-auction)
-
- [![Is Reddit down? Outage reported by social media users](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/reddit-app-getty.jpg?ve=1&tl=1)
-
- ![Is Reddit down? Outage reported by social media users](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/reddit-app-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/reddit-down-outage-reported-social-media-users)
-
-### [Is Reddit down? Outage reported by social media users](https://www.fox4news.com/news/reddit-down-outage-reported-social-media-users)
-
- [![1,500 migrants head toward US border, some hoping to arrive before Trump’s second term](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/migrants-mexico-getty.jpg?ve=1&tl=1)
-
- ![1,500 migrants head toward US border, some hoping to arrive before Trump’s second term](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/migrants-mexico-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1500-migrants-us-mexico-border-some-before-trump-presidency)
-
-### [1,500 migrants head toward US border, some hoping to arrive before Trump’s second term](https://www.fox4news.com/news/1500-migrants-us-mexico-border-some-before-trump-presidency)
-
- [![Utah judge dismisses Gabby Petito wrongful death lawsuit against Moab police](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1236023867.jpg?ve=1&tl=1)
-
- ![Utah judge dismisses Gabby Petito wrongful death lawsuit against Moab police](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1236023867.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/utah-judge-dismisses-petito-lawsuit)
-
-### [Utah judge dismisses Gabby Petito wrongful death lawsuit against Moab police](https://www.fox4news.com/news/utah-judge-dismisses-petito-lawsuit)
 
 ###### [News](https://www.fox4news.com/news)
 
