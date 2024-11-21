@@ -1,11 +1,9 @@
-Noon Windstorm Update: 
+Windstorm Update: 
 
-* We continue to experience high call volume, our call center closes at 4pm today. Cancel or reschedule online at mychart.valleymed.org.
+* Our hospital is fully functional. The Emergency Department is extremely busy. Consider urgent care for non-emergent needs. Not sure if you need Emergency, Urgent, or Primary Care? Go to valleymed.org/where2go.
 * Endoscopy Center is without power and rescheduling patients. 
-* Urogynecology Clinic is closed. Telehealth appointments available.
-* CLOSED today: Maple Valley Urgent Care; Newcastle and Maple Valley Dermatology; Fairwood, Newcastle, Lake Wilderness, and Lake Sawyer Primary Care; Lifestyle Medicine in Covington and Maple Valley.
-* Our main hospital is fully functional. The Emergency Department is extremely busy. Consider urgent care for non-emergent needs.
-* If you have an impacted appointment, your care team will contact you. 
+* CLOSED/NO POWER: Maple Valley Urgent Care; Newcastle and Maple Valley Dermatology; Fairwood, Newcastle, Lake Wilderness, and Lake Sawyer Primary Care; Lifestyle Medicine in Covington and Maple Valley.
+* We continue to experience high call volume. Cancel or reschedule online at mychart.valleymed.org. If you have an impacted appointment, your care team will contact you. 
 * Thank you for your patience as we make sure our staff and patients are safe. 
 
 ![dismiss-icon](/globalassets/valley-medical/images/icons/dismiss-icon.svg)
