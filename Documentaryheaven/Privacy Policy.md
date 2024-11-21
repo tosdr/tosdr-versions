@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Hillsborough Disaster](/wp-content/thumbnails/10009-100x70.jpg?x53432)
+* [![Igor: Child of Chernobyl](/wp-content/thumbnails/16025-100x70.jpeg?x53432)
     
-    Hillsborough Disaster
+    Igor: Child of Chernobyl
     
-    This ESPN 30 for 30 special examines the tragic events that took place on the 15th of April 1989, the Hillsborough Stadium disaster which resulted in the deaths of 96 people and 766 others being](https://documentaryheaven.com/hillsborough-disaster/ "Hillsborough Disaster")
-* [![The True Story of Bonnie and Clyde](/wp-content/thumbnails/8889-100x70.jpg?x53432)
+    Igor Pavlovets was one of the first children to be born during the aftermath of the Chernobyl disaster in 1986. He was eight years old at the time this documentary was filmed. He is missing his right](https://documentaryheaven.com/igor-child-of-chernobyl/ "Igor: Child of Chernobyl")
+* [![Promises](/wp-content/thumbnails/6024-100x70.jpg?x53432)
     
-    The True Story of Bonnie and Clyde
+    Promises
     
-    Hollywood portrayed them as the most glamorous outlaws in American history, their crime spree lasted two years and claimed 14 lives, but who were Bonnie and Clyde?, what drove them to a life of violen](https://documentaryheaven.com/true-story-of-bonnie-clyde/ "The True Story of Bonnie and Clyde")
-* [![The Truth About Sugar](/wp-content/thumbnails/9928-100x70.jpg?x53432)
+    Several Jewish and Palestinian children are followed for three years and put in touch with each other, in this alternative look at the Jewish-Palestinian conflict. The three filmmakers followed a grou](https://documentaryheaven.com/promises/ "Promises")
+* [![Dogs That Changed the World](/wp-content/thumbnails/6640-100x70.png?x53432)
     
-    The Truth About Sugar
+    Dogs That Changed the World
     
-    Fiona Phillips, a journalist best known for her role in presenting the popular British morning show, GMTV, is embarking on a mission to seek out the truth behind our newly found enemy, sugar. She disc](https://documentaryheaven.com/truth-about-sugar/ "The Truth About Sugar")
-* [![Bloody Queens: Elizabeth and Mary](/wp-content/thumbnails/10685-100x70.jpg?x53432)
+    Broadcast (2007) NATURE’s two-part special DOGS THAT CHANGED THE WORLD tells the epic story of the wolf’s evolution, how “man’s best friend” changed human society and we in turn have radically transfo](https://documentaryheaven.com/dogs-that-changed-the-world/ "Dogs That Changed the World")
+* [![Out of Shadows](/wp-content/thumbnails/16083-100x70.jpg?x53432)
     
-    Bloody Queens: Elizabeth and Mary
+    Out of Shadows
     
-    Queen Elizabeth I, conqueror of the Spanish Armada, Tudor defender of the Protestant faith, the headstrong Virgin Queen who refused to marry, but out of all of her challenges her most grueling battle](https://documentaryheaven.com/bloody-queens-elizabeth-and-mary/ "Bloody Queens: Elizabeth and Mary")
-* [![The Drugging of Our Children](/wp-content/thumbnails/1858-100x70.jpg?x53432)
+    Out of Shadows is a film that attempts to lift the mask on how the mainstream media and Hollywood try to manipulate and control the masses by spreading propaganda via their platform. Released on YouT](https://documentaryheaven.com/out-of-shadows/ "Out of Shadows")
+* [![The Cove](/wp-content/thumbnails/2618-100x70.jpg?x53432)
     
-    The Drugging of Our Children
+    The Cove
     
-    In the absence of any objective medical tests to determine who has ADD or ADHD, doctors rely in part on standardized assessments and the impressions of teachers and guardians while the they administer](https://documentaryheaven.com/the-drugging-of-our-children/ "The Drugging of Our Children")
+    The Cove begins in Taiji, Japan, where former dolphin trainer Ric O’Barry has come to set things right after a long search for redemption. In the 1960s, it was O’Barry who captured and trained the 5 d](https://documentaryheaven.com/the-cove/ "The Cove")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
