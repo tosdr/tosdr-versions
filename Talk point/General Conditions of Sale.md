@@ -2,9 +2,9 @@
 
 [](https://www.twitch.tv/talkpointgmbh)
 
-Aufgrund eines Feiertags ist unsere Hotline heute leider nicht erreichbar.
+Wir sind LIVE 💙 ab 11 Uhr - einschalten lohnt sich! #preisvergleich #twitch
 
-Aufgrund eines Feiertags ist unsere Hotline heute leider nicht erreichbar.
+Wir sind LIVE 💙 ab 11 Uhr - einschalten lohnt sich! #preisvergleich #twitch
 
 Menü
 
