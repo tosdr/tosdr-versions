@@ -558,6 +558,6 @@ Follow us
 
 ![Compliance-Software-Q3](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/11/Compliance-Software-Q3.svg)
 
-[![7dffac7b-78c9-4d7a-b056-35bc76aae2f1 (1)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+[![Capterra](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![7dffac7b-78c9-4d7a-b056-35bc76aae2f1 (1)](/wp-content/uploads/img/AnVkVKtyGYKAcI3E.svg?t=363022ef)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
+![Capterra](/wp-content/uploads/img/AnVkVKtyGYKAcI3E.svg?t=52c5626f)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
