@@ -3,12 +3,12 @@ PRIVACY POLICY
 
 [English](https://trainerize.com/privacy/) [French](https://trainerize.com/privacy/?lang=fr)
 
-Last revised: August 30, 2023
+Last revised: November 18, 2024
 
-Effective: September 20, 2023
+Effective: November 18, 2024
 
 1. Introduction
-    1. This privacy policy (“Privacy Policy”) applies to personal information provided to TSR Gym Technik Ltd. (the “**Vendor**” “**we**” “**us**” or “**our**”) through the services we make or offer (“**Services**”), including the Trainerize software-as-a-service platform as well as any associated website, application, or widget that links to this Privacy Policy.
+    1. This privacy policy (“Privacy Policy”) applies to personal information provided to TSR Gym Technik Ltd. (the “**Vendor**” “**we**” “**us**” or “**our**”) through the services we make or offer (“**Services**”), including the Trainerize software-as-a-service platform as well as any associated website, application, or widget that links to this Privacy Policy. TSR Gym Technik Ltd. is an affiliate of ABC Fitness Solutions, LLC, who may operate under any of the following developer names: Ignite Engagement; Ignite Engagement 1; Trainerize CBA-STUDIO; Trainerize CBA-STUDIO 1; Trainerize CBA-STUDIO 2; Trainerize CBA-ENTERPRISE; CBA-Pro1; CBA-Pro2.
     2. This Privacy Policy covers how our Services process information relating to identified or identifiable individuals and households (“**Personal Information**”). (We use the term “**process**” to refer to the collection, use, storage, and sharing of Personal Information.)
     3. We process Personal Information on behalf of our customers (“TSR Customers”), which include various kinds of individuals and businesses who provide training, coaching, or similar services to individuals (“Trainees”). For instance, our customers include a wide variety of personal trainers, coaches, studios, clinics, and fitness facilities. We provide this Privacy Policy on their behalf.
     4. We also process certain Personal Information of our customers on our own behalf, and this kind of processing is also described in this Privacy Notice.
