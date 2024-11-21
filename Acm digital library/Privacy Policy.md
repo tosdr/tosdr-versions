@@ -250,11 +250,7 @@ Search
         
         [More on ACM Awards](http://awards.acm.org/)
         
-    * [![2024 Nobel Prize in Physics recipient Geoffrey Hinton](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/geoffrey-hinton.jpg)](https://www.nobelprize.org/prizes/physics/2024/press-release/)
-        
-        [Geoffrey Hinton Awarded the 2024 Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/2024/press-release/)
-        
-        [![Image promoting the ACM Luiz André Barroso Award](/binaries/ctaimagelarge/content/gallery/acm/ctas/awards/acm-luiz-andre-barroso-award.jpg)](https://awards.acm.org/barroso)
+    * [![Image promoting the ACM Luiz André Barroso Award](/binaries/ctaimagelarge/content/gallery/acm/ctas/awards/acm-luiz-andre-barroso-award.jpg)](https://awards.acm.org/barroso)
         
         [ACM Announces Luiz André Barroso Award](https://awards.acm.org/barroso)
         
