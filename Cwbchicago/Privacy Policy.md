@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Rakim-Kendall-bwc-326x245.jpg)](https://cwbchicago.com/2024/11/video-released-of-cops-firing-at-armed-man-just-6-days-after-he-got-probation-for-a-gun-charge.html "Video released of cops firing at armed man just 6 days after he got probation for a gun charge")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/5600-leland-326x245.jpg)](https://cwbchicago.com/2024/11/man-suspected-of-murdering-wife-on-nw-side-was-on-pretrial-release-for-a-felony-domestic-violence-case.html "Man suspected of murdering wife on NW Side was on pretrial release for a felony domestic violence case")
 
-South Shore
+Portage Park
 
-### [Video released of cops firing at armed man just 6 days after he got probation for a gun charge](https://cwbchicago.com/2024/11/video-released-of-cops-firing-at-armed-man-just-6-days-after-he-got-probation-for-a-gun-charge.html "Video released of cops firing at armed man just 6 days after he got probation for a gun charge")
+### [Man suspected of murdering wife on NW Side was on pretrial release for a felony domestic violence case](https://cwbchicago.com/2024/11/man-suspected-of-murdering-wife-on-nw-side-was-on-pretrial-release-for-a-felony-domestic-violence-case.html "Man suspected of murdering wife on NW Side was on pretrial release for a felony domestic violence case")
 
-[November 18, 2024 8:34 AM](https://cwbchicago.com/2024/11)
+[November 20, 2024 5:56 AM](https://cwbchicago.com/2024/11)
 
-COPA, the agency charged with investigating shootings and allegations of serious misconduct involving Chicago police officers, has released video and other materials from an incident in which cops shot at an armed man in September.[](https://cwbchicago.com/2024/11/video-released-of-cops-firing-at-armed-man-just-6-days-after-he-got-probation-for-a-gun-charge.html "Video released of cops firing at armed man just 6 days after he got probation for a gun charge")
+The man police believe is responsible for fatally stabbing his wife in Portage Park on Tuesday afternoon, later found dead inside a parked car near the attack site, was on pretrial release for felony domestic violence charges involving the woman he killed, court records show.[](https://cwbchicago.com/2024/11/man-suspected-of-murdering-wife-on-nw-side-was-on-pretrial-release-for-a-felony-domestic-violence-case.html "Man suspected of murdering wife on NW Side was on pretrial release for a felony domestic violence case")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/11-south-lasalle-326x245.jpg)](https://cwbchicago.com/2024/11/4-people-robbed-carjacked-at-gunpoint-in-the-loop.html "4 people robbed, carjacked at gunpoint in the Loop")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Marvell-Colone-and-suspects-326x245.jpg)](https://cwbchicago.com/2024/11/3rd-person-charged-with-robbing-woman-on-the-red-line-after-his-mom-called-911-to-turn-him-in.html "3rd person charged with robbing woman on the Red Line after his mom called 911 to turn him in")
 
-Loop
+CTA
 
-### [4 people robbed, carjacked at gunpoint in the Loop](https://cwbchicago.com/2024/11/4-people-robbed-carjacked-at-gunpoint-in-the-loop.html "4 people robbed, carjacked at gunpoint in the Loop")
+### [3rd person charged with robbing woman on the Red Line after his mom called 911 to turn him in](https://cwbchicago.com/2024/11/3rd-person-charged-with-robbing-woman-on-the-red-line-after-his-mom-called-911-to-turn-him-in.html "3rd person charged with robbing woman on the Red Line after his mom called 911 to turn him in")
 
-[November 18, 2024 7:54 AM](https://cwbchicago.com/2024/11)
+[November 19, 2024 12:32 PM](https://cwbchicago.com/2024/11)
 
-Police are investigating after four people were robbed and carjacked in the Loop on Sunday evening.[](https://cwbchicago.com/2024/11/4-people-robbed-carjacked-at-gunpoint-in-the-loop.html "4 people robbed, carjacked at gunpoint in the Loop")
+The police decision to release CTA surveillance photos of five people suspected of robbing a woman on the Red Line continues to pay dividends as prosecutors on Monday charged a third person with participating in the crime.[](https://cwbchicago.com/2024/11/3rd-person-charged-with-robbing-woman-on-the-red-line-after-his-mom-called-911-to-turn-him-in.html "3rd person charged with robbing woman on the Red Line after his mom called 911 to turn him in")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb15-326x245.jpg)](https://cwbchicago.com/2024/11/man-found-lying-shot-on-west-pullman-sidewalk-an-area-that-used-to-be-served-by-shotspotter.html "Man found lying shot on West Pullman sidewalk, an area that used to be served by ShotSpotter")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb16-326x245.jpg)](https://cwbchicago.com/2024/11/man-found-fatally-shot-near-school-playground-that-used-to-be-served-by-shotspotter.html "Man found fatally shot near school playground that used to be served by ShotSpotter")
 
-West Pullman
+Austin
 
-### [Man found lying shot on West Pullman sidewalk, an area that used to be served by ShotSpotter](https://cwbchicago.com/2024/11/man-found-lying-shot-on-west-pullman-sidewalk-an-area-that-used-to-be-served-by-shotspotter.html "Man found lying shot on West Pullman sidewalk, an area that used to be served by ShotSpotter")
+### [Man found fatally shot near school playground that used to be served by ShotSpotter](https://cwbchicago.com/2024/11/man-found-fatally-shot-near-school-playground-that-used-to-be-served-by-shotspotter.html "Man found fatally shot near school playground that used to be served by ShotSpotter")
 
-[November 18, 2024 6:15 AM](https://cwbchicago.com/2024/11)
+[November 19, 2024 7:21 AM](https://cwbchicago.com/2024/11)
 
-A man was found shot on a West Pullman sidewalk overnight in a neighborhood that used to be monitored by the city’s ShotSpotter network.[](https://cwbchicago.com/2024/11/man-found-lying-shot-on-west-pullman-sidewalk-an-area-that-used-to-be-served-by-shotspotter.html "Man found lying shot on West Pullman sidewalk, an area that used to be served by ShotSpotter")
+Police are conducting a death investigation after a man was found fatally shot near a school playground in the Austin neighborhood Monday night. The 66-year-old was found shortly after 11 p.m. in the 1800 block of North Sayre, a neighborhood that used to be served by the city’s ShotSpotter gunfire detection network.[](https://cwbchicago.com/2024/11/man-found-fatally-shot-near-school-playground-that-used-to-be-served-by-shotspotter.html "Man found fatally shot near school playground that used to be served by ShotSpotter")
 
 Search
 
