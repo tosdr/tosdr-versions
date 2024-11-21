@@ -117,6 +117,8 @@ Converstations with people building the Next Generation Internet](https://podcas
 
 ### News
 
+[Call for Participation: Devroom on FOSS Funding at FOSDEM](https://nlnet.nl/news/2024/20241121-CfP-Fosdem.html) 2024-11-21
+
 [NGI TALER Grants for Tryton and Interledger Interoperability](https://nlnet.nl/news/2024/20241111-NGI-Taler-grants.html) 2024-11-11
 
 [NGI Mobifree Grants Awarded for Fair Mobile Software](https://nlnet.nl/news/2024/20241111-NGI-Mobifree-grants.html) 2024-11-11
@@ -124,8 +126,6 @@ Converstations with people building the Next Generation Internet](https://podcas
 [Monitoring Plugins wins BlueHats Prize for maintainers](https://nlnet.nl/news/2024/20241015-BlueHatsPrize4.html) 2024-10-15
 
 [NGI0 Commons Fund Supports 32 Projects Building the Public Internet](https://nlnet.nl/news/2024/20241014-announcing-CommonsFund-call.html) 2024-10-14
-
-[49 Free and Open Source Projects Receive NGI0 Core Grants](https://nlnet.nl/news/2024/20241003-announcing-Core-call.html) 2024-10-03
 
 * [More news](https://nlnet.nl/news)
 
