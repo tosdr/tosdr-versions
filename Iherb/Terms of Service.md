@@ -1168,11 +1168,11 @@ Wellness
 
 More
 
-[22% Off Grocery
+[22% Off K-Beauty
 
  
 
-‌‌Shop Now‌‌](https://www.iherb.com/c/grocery?pcode=22GROCERY24)
+‌‌Shop Now‌‌](https://www.iherb.com/c/k-beauty?pcode=22KBEAUTY24)
 
       
 
