@@ -16,21 +16,21 @@ Crypto IndicesThe world's first real crypto index](https://www.bitpanda.com/en/p
 
 Precious MetalsInvest in precious metals](https://www.bitpanda.com/en/metals)[![commodities](https://a.storyblok.com/f/167140/36x36/b7599aa449/commodities.png)
 
-Commodities\*Invest in commodities 24/7](https://www.bitpanda.com/en/invest/bitpanda-commodities)[![](https://a.storyblok.com/f/176646/36x36/c1306b5261/leveraged_token-menu.svg)
+Commodities\*Invest in commodities 24/7](https://www.bitpanda.com/en/invest/bitpanda-commodities)[![](https://sbcdn.bitpanda.com/36x36/c1306b5261/leveraged_token-menu.svg)
 
 LeverageGo Long or Short on top cryptocurrencies](https://www.bitpanda.com/en/invest/leverage)
 
 Top Cryptocurrencies:[![Bitcoin](https://a.storyblok.com/f/167140/x/6bfae2b6f5/asset-btc.svg)
 
-BitcoinBTC](https://www.bitpanda.com/en/prices/bitcoin-btc)[![](https://a.storyblok.com/f/176646/32x32/e3e26994c3/asset-eth.svg)
+BitcoinBTC](https://www.bitpanda.com/en/prices/bitcoin-btc)[![](https://sbcdn.bitpanda.com/32x32/e3e26994c3/asset-eth.svg)
 
-EthereumETH](https://www.bitpanda.com/en/prices/ethereum-eth)[![Solana SOL icon](https://a.storyblok.com/f/176646/135x135/7ad7935213/asset-solana-sol.png "Solana SOL")
+EthereumETH](https://www.bitpanda.com/en/prices/ethereum-eth)[![Solana SOL icon](https://sbcdn.bitpanda.com/135x135/7ad7935213/asset-solana-sol.png "Solana SOL")
 
-SolanaSOL](https://www.bitpanda.com/en/prices/solana-sol)[![Dogecoin Doge Icon](https://a.storyblok.com/f/176646/36x36/ae9eb22382/asset-dogecoin-doge.svg "Dogecoin Doge")
+SolanaSOL](https://www.bitpanda.com/en/prices/solana-sol)[![Dogecoin Doge Icon](https://sbcdn.bitpanda.com/36x36/ae9eb22382/asset-dogecoin-doge.svg "Dogecoin Doge")
 
-DogecoinDOGE](https://www.bitpanda.com/en/prices/dogecoin-doge)[![](https://a.storyblok.com/f/176646/32x32/1c34769278/asset-shiba-inu.svg)
+DogecoinDOGE](https://www.bitpanda.com/en/prices/dogecoin-doge)[![](https://sbcdn.bitpanda.com/32x32/1c34769278/asset-shiba-inu.svg)
 
-Shiba Inu SHIB](https://www.bitpanda.com/en/prices/shiba-inu-shib)[![](https://a.storyblok.com/f/176646/32x32/53760d755f/asset-xrp.svg)
+Shiba Inu SHIB](https://www.bitpanda.com/en/prices/shiba-inu-shib)[![](https://sbcdn.bitpanda.com/32x32/53760d755f/asset-xrp.svg)
 
 RippleXRP](https://www.bitpanda.com/en/prices/ripple-xrp)[![BEST](https://a.storyblok.com/f/167140/x/45acbc6609/asset-best.svg)
 
@@ -48,29 +48,29 @@ Bitpanda Crypto Index Never miss out on the next asset](https://www.bitpanda.com
 
 Savings Plan A savings plan for Bitcoin and more](https://www.bitpanda.com/en/savings-plan)
 
-[![](https://a.storyblok.com/f/176646/56x56/afa6a0f259/spotlight_icon_menu.svg)
+[![](https://sbcdn.bitpanda.com/56x56/afa6a0f259/spotlight_icon_menu.svg)
 
 Bitpanda Spotlight New assets are waiting for you](https://www.bitpanda.com/en/bitpanda-spotlight)
 
-[![](https://a.storyblok.com/f/176646/36x36/e88c8076f5/group-1310.svg)
+[![](https://sbcdn.bitpanda.com/36x36/e88c8076f5/group-1310.svg)
 
 Bitpanda Cash Plus Earn high-yield returns from 24/7 availability](https://www.bitpanda.com/en/bitpanda-cash-plus)
 
-[![](https://a.storyblok.com/f/176646/150x150/046d392dae/bitpandaclub_36x36.svg)
+[![](https://sbcdn.bitpanda.com/150x150/046d392dae/bitpandaclub_36x36.svg)
 
 Bitpanda ClubAdditional benefits for our most valued customers](https://www.bitpanda.com/en/bitpanda-club)
 
-[![](https://a.storyblok.com/f/176646/500x500/6790996935/limit-order-menu-icon.png)
+[![](https://sbcdn.bitpanda.com/500x500/6790996935/limit-order-menu-icon.png)
 
 Bitpanda Limit OrdersInvest on autopilot with Bitpanda Limit Orders](https://www.bitpanda.com/en/limit-order)
 
 Save time & money
 
-[![](https://a.storyblok.com/f/176646/36x36/e3bbc92c95/group-1311.svg)
+[![](https://sbcdn.bitpanda.com/36x36/e3bbc92c95/group-1311.svg)
 
 AffiliatesJoin the Bitpanda Affiliate Programme](https://www.bitpanda.com/en/affiliate-programme)
 
-[![](https://a.storyblok.com/f/176646/36x36/8e2d462107/group-1312.svg)
+[![](https://sbcdn.bitpanda.com/36x36/8e2d462107/group-1312.svg)
 
 Tell-a-friendInvite your friends, earn rewards](https://www.bitpanda.com/en/tell-a-friend)
 
@@ -96,9 +96,9 @@ Our Education Platform
 
 Bitpanda AcademyLearn everything you need to know about personal finance, digital assets, emerging technologies and more.](https://www.bitpanda.com/academy/en/)
 
-[![](https://a.storyblok.com/f/176646/3840x2160/22f8824fd3/start-trading-crypto.png)
+[![](https://sbcdn.bitpanda.com/3840x2160/22f8824fd3/start-trading-crypto.png)
 
-CRYPTOHow to start trading cryptocurrencies](https://www.bitpanda.com/academy/en/lessons/how-to-start-trading-cryptocurrencies)[![](https://a.storyblok.com/f/176646/4167x2500/278190baf1/bitcoin-spot-etf-explained.png)
+CRYPTOHow to start trading cryptocurrencies](https://www.bitpanda.com/academy/en/lessons/how-to-start-trading-cryptocurrencies)[![](https://sbcdn.bitpanda.com/4167x2500/278190baf1/bitcoin-spot-etf-explained.png)
 
 BITCOINBitcoin ETFs explained](https://www.bitpanda.com/academy/en/lessons/bitcoin-etfs-explained)[![](https://cdn.bitpanda.com/media/bitpanda-academy-expert-13-what-is-staking-in-crypto-header.png)
 
@@ -110,9 +110,9 @@ News, Updates & Stories
 
 Bitpanda BlogBe the first to learn the latest news, announcements, and stories from the world of investing, cryptocurrencies, stocks and precious metals](https://blog.bitpanda.com/en?utm_referrer=https://www.bitpanda.com)
 
-[![](https://a.storyblok.com/f/176646/2000x1200/09df7b5a09/bitcoin-all-time-high.png)
+[![](https://sbcdn.bitpanda.com/2000x1200/09df7b5a09/bitcoin-all-time-high.png)
 
-BITCOINBitcoin (BTC) reaches new all time high](https://blog.bitpanda.com/en/bitcoin-btc-reaches-new-all-time-high-whats-driving-growth)[![](https://a.storyblok.com/f/176646/2000x1200/e382042076/invest-zero-deposit-fees.png)
+BITCOINBitcoin (BTC) reaches new all time high](https://blog.bitpanda.com/en/bitcoin-btc-reaches-new-all-time-high-whats-driving-growth)[![](https://sbcdn.bitpanda.com/2000x1200/e382042076/invest-zero-deposit-fees.png)
 
 FEESInvest with zero deposit fees](https://blog.bitpanda.com/en/invest-zero-deposit-fees)[![](https://cdn.bitpanda.com/media/limit_orders.png)
 
@@ -122,7 +122,7 @@ Business
 
 Our API for your business
 
-[![](https://a.storyblok.com/f/176646/501x500/8c0e5d432f/230120_bts_shortlogo_black_v1.svg)
+[![](https://sbcdn.bitpanda.com/501x500/8c0e5d432f/230120_bts_shortlogo_black_v1.svg)
 
 Bitpanda Technology Solutions Use our tech infrastructure to offer a trading experience to your users](https://www.bitpanda.com/en/tech)
 
@@ -140,7 +140,7 @@ Bitpanda CustodyInsured, user-friendly custodial wallet platform for institution
 
 The solution for High Net Worth Individuals
 
-[![](https://a.storyblok.com/f/176646/362x361/6dd5569c35/artboard-1-copy-4-modified-modified.png)
+[![](https://sbcdn.bitpanda.com/362x361/6dd5569c35/artboard-1-copy-4-modified-modified.png)
 
 Bitpanda WealthCrypto investment services for wealthy investors](https://www.bitpanda.com/en/wealth)
 
@@ -215,49 +215,49 @@ LEGAL
 **Terms**
 ---------
 
-* ![](https://a.storyblok.com/f/176646/32x32/b7ce399e10/icon-bullet-purpule.svg)
+* ![](https://sbcdn.bitpanda.com/32x32/b7ce399e10/icon-bullet-purpule.svg)
     
     ### Bitpanda GmbH & BAM T&Cs
     
     [Read more](https://www.bitpanda.com/en/legal/bitpanda-general-terms-conditions)
     
-* ![](https://a.storyblok.com/f/176646/32x32/b7ce399e10/icon-bullet-purpule.svg)
+* ![](https://sbcdn.bitpanda.com/32x32/b7ce399e10/icon-bullet-purpule.svg)
     
     ### Bitpanda Metals T&C
     
     [Read more](https://www.bitpanda.com/en/legal/bitpanda-metals-gmbh-general-terms-conditions)
     
-* ![](https://a.storyblok.com/f/176646/32x32/b7ce399e10/icon-bullet-purpule.svg)
+* ![](https://sbcdn.bitpanda.com/32x32/b7ce399e10/icon-bullet-purpule.svg)
     
     ### BEST 2.0 T&Cs
     
     [Read more](https://www.bitpanda.com/en/legal/bitpanda-ecosystem-token-best-2-0-terms-explanatory-notes)
     
-* ![](https://a.storyblok.com/f/176646/32x32/b7ce399e10/icon-bullet-purpule.svg)
+* ![](https://sbcdn.bitpanda.com/32x32/b7ce399e10/icon-bullet-purpule.svg)
     
     ### Financial Services T&C
     
     [Read more](https://www.bitpanda.com/en/legal/general-terms-conditions-bitpanda-financial-services)
     
-* ![](https://a.storyblok.com/f/176646/32x32/b7ce399e10/icon-bullet-purpule.svg)
+* ![](https://sbcdn.bitpanda.com/32x32/b7ce399e10/icon-bullet-purpule.svg)
     
     ### Bitpanda Group T&C
     
     [Read more](https://www.bitpanda.com/en/legal/bitpanda-group-general-terms-conditions)
     
-* ![](https://a.storyblok.com/f/176646/32x32/b7ce399e10/icon-bullet-purpule.svg)
+* ![](https://sbcdn.bitpanda.com/32x32/b7ce399e10/icon-bullet-purpule.svg)
     
     ### Bitpanda Payments T&C
     
     [Read more](https://www.bitpanda.com/en/legal/bitpanda-payments-terms-conditions)
     
-* ![](https://a.storyblok.com/f/176646/32x32/b7ce399e10/icon-bullet-purpule.svg)
+* ![](https://sbcdn.bitpanda.com/32x32/b7ce399e10/icon-bullet-purpule.svg)
     
     ### Bitpanda Loyalty T&Cs
     
     [Read more](https://www.bitpanda.com/en/legal/bitpanda-loyalty-program-best-terms-explanatory-notes)
     
-* ![](https://a.storyblok.com/f/176646/32x32/b7ce399e10/icon-bullet-purpule.svg)
+* ![](https://sbcdn.bitpanda.com/32x32/b7ce399e10/icon-bullet-purpule.svg)
     
     ### Contis T&C
     
@@ -310,19 +310,19 @@ PRIVACY
 **Privacy**
 -----------
 
-* ![](https://a.storyblok.com/f/176646/32x32/82eea95307/icon-bullet-purpule.svg)
+* ![](https://sbcdn.bitpanda.com/32x32/82eea95307/icon-bullet-purpule.svg)
     
     ### Cookie Policy
     
     [Read more](https://www.bitpanda.com/en/legal/bitpanda-cookie-policy)
     
-* ![](https://a.storyblok.com/f/176646/32x32/b7ce399e10/icon-bullet-purpule.svg)
+* ![](https://sbcdn.bitpanda.com/32x32/b7ce399e10/icon-bullet-purpule.svg)
     
     ### Bitpanda Group privacy policy
     
     [Read more](https://www.bitpanda.com/en/legal/bitpanda-privacy-policy)
     
-* ![](https://a.storyblok.com/f/176646/32x32/b7ce399e10/icon-bullet-purpule.svg)
+* ![](https://sbcdn.bitpanda.com/32x32/b7ce399e10/icon-bullet-purpule.svg)
     
     ### Contis Privacy Policy
     
@@ -331,7 +331,7 @@ PRIVACY
 
 _To view older versions of these documents, click_ [_here_](https://www.bitpanda.com/en/legal/documents/securities)
 
-[![](https://a.storyblok.com/f/176646/3912x1183/4a12f4c044/bitpanda_en_trimmed.png)](https://www.bitpanda.com/en)
+[![](https://sbcdn.bitpanda.com/3912x1183/4a12f4c044/bitpanda_en_trimmed.png)](https://www.bitpanda.com/en)
 
 Invest
 
