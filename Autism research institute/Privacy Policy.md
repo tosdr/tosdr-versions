@@ -52,7 +52,7 @@ Donate
 * [Gifts from Donor Advised Funds](https://autism.org/donating-daf/)
 * [Donate Cryptocurrency](https://autism.org/donate-crypto/)
 
-[Donate](https://www.autism.org/donation-classic/)
+[Donate](https://autism.org/donate-giving-tuesday/)
 
 [Skip to content](#content)
 
@@ -100,7 +100,7 @@ Donate
     * [Scientific Advisory Board](https://autism.org/ari-scientific-advisory-board/)
     * [National Autism History Museum Hours](https://autism.org/national-autism-history-museum-hours/)
     * [Contact](https://autism.org/contact/)
-* [Donate](https://autism.org/donation-classic/)
+* [Donate](https://autism.org/donate-giving-tuesday/)
     * [ARI’s Latest Accomplishments](https://autism.org/2023-impact)
     * [Annual Reports](https://autism.org/annual-report/)
     * [Financials – Audit Reports/990s](https://autism.org/financial-information/)
