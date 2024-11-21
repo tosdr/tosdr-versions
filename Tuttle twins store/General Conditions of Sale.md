@@ -111,7 +111,6 @@ SECS](https://shop.angel.com/collections/veterans-day-sale-25-off-with-code-vet2
     * [Toys](https://tuttletwins.store/collections/toys)
     
 * [Angel Guild](https://tuttletwins.store/pages/guild)
-* [Rewards](https://shop.angel.com/apps/bubblehouse/rewards/)
 * Support
     
     Support
@@ -120,6 +119,7 @@ SECS](https://shop.angel.com/collections/veterans-day-sale-25-off-with-code-vet2
     * [Contact Us](https://support.angel.com/hc/en-us/requests/new?ticket_form_id=1900000638345)
     * [File A Claim](https://tuttletwins.store/pages/insurance-claims)
     * [Refund Policy](https://tuttletwins.store/policies/refund-policy)
+    * [Rewards](https://shop.angel.com/apps/bubblehouse/rewards/)
     
 
 [Log in](https://tuttletwins.store/account/login)
@@ -506,45 +506,6 @@ USD $ | United States
         
     
 * [Angel Guild](https://tuttletwins.store/pages/guild)
-* BFCM Deals
-    
-    * [![header icon](//shop.angel.com/cdn/shop/files/10_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-10)
-        
-        10% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/20_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-20)
-        
-        20% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/30_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-30-off)
-        
-        30% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/40_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-40)
-        
-        40% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/50_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-50-off)
-        
-        50% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/60_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-60-off)
-        
-        60% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/70_Off_1024x1024.png?v=1732135996)](https://tuttletwins.store/collections/bfcm-70-off)
-        
-        70% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/5_Shirts_1024x1024.png?v=1732135996)](https://tuttletwins.store/collections/black-friday-early-preview)
-        
-        $5 Shirts
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/All_Deals_1024x1024.png?v=1732135996)](https://tuttletwins.store/collections/black-friday-early-preview)
-        
-        Shop All Deals
-        
-    
 * Support
     
     * [![header icon](//shop.angel.com/cdn/shop/files/Support-Icons-Contact_088b2bbf-1839-459f-8e55-537c0dd1ada4_1_1_1_1024x1024.png?v=1726167007)](https://support.angel.com/hc/en-us/requests/new?ticket_form_id=1900000638345)
