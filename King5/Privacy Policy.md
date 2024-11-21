@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
+    *  [![](https://media.king5.com/assets/KING/images/cb1df4e3-11c3-476c-af89-52d9d4d34a4a/20241121T182535/cb1df4e3-11c3-476c-af89-52d9d4d34a4a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb1df4e3-11c3-476c-af89-52d9d4d34a4a/20241121T182535/cb1df4e3-11c3-476c-af89-52d9d4d34a4a_360x203.jpg)](https://www.king5.com/article/news/local/stolen-car-smashes-elementary-school/281-b50b4d98-5901-4707-bfb6-0a09bd4b3686)
         
-        #### [Over 600,000 people lost power at peak of Washington windstorm](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
+        #### [Stolen car used to smash into Graham elementary school](https://www.king5.com/article/news/local/stolen-car-smashes-elementary-school/281-b50b4d98-5901-4707-bfb6-0a09bd4b3686)
         
-    *  [![](https://media.king5.com/assets/KING/images/db8ec0f4-6e53-4bff-b2a5-1b6b02a0c8d6/20241121T075804/db8ec0f4-6e53-4bff-b2a5-1b6b02a0c8d6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/db8ec0f4-6e53-4bff-b2a5-1b6b02a0c8d6/20241121T075804/db8ec0f4-6e53-4bff-b2a5-1b6b02a0c8d6_360x203.jpg)](https://www.king5.com/article/news/local/storm-cleanup-bomb-cyclone-washington/281-d2e82b92-bf0a-479b-ac7e-fa15ba185727)
+    *  [![](https://media.king5.com/assets/KING/images/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f/20241121T153843/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f/20241121T153843/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/utility-companies-brace-more-power-outages-storm-bomb-cyclone/281-1918e5d6-5fd1-4826-9b5f-7d4c7970bf73)
         
-        #### [Woodinville teens help elderly neighbors clear their property after bomb cyclone damage](https://www.king5.com/article/news/local/storm-cleanup-bomb-cyclone-washington/281-d2e82b92-bf0a-479b-ac7e-fa15ba185727)
+        #### [New storm system could cause more power outages in western Washington Friday](https://www.king5.com/article/weather/weather-impact/utility-companies-brace-more-power-outages-storm-bomb-cyclone/281-1918e5d6-5fd1-4826-9b5f-7d4c7970bf73)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/CCT/images/c2df261c-07de-44c7-ae60-0c4d5661ca1a/20241121T121844/c2df261c-07de-44c7-ae60-0c4d5661ca1a_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/c2df261c-07de-44c7-ae60-0c4d5661ca1a/20241121T121844/c2df261c-07de-44c7-ae60-0c4d5661ca1a_360x203.jpg)](https://www.king5.com/article/news/nation-world/volcanoi-n-iceland-erupts-for-the-7th-time-in-a-year/507-eeca1c06-0cf1-41fd-b593-fa6009934221)
+    *  [![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_360x203.jpg)](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
         
-        #### [Volcano on Iceland's Reykjanes Peninsula erupts for the 7th time in a year](https://www.king5.com/article/news/nation-world/volcanoi-n-iceland-erupts-for-the-7th-time-in-a-year/507-eeca1c06-0cf1-41fd-b593-fa6009934221)
+        #### [Washington cities are recovering from the bomb cyclone. Is another storm on the way?](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
         
-    *  [![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
+    *  [![](https://media.king5.com/assets/KING/images/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f/20241121T153843/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f/20241121T153843/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/utility-companies-brace-more-power-outages-storm-bomb-cyclone/281-1918e5d6-5fd1-4826-9b5f-7d4c7970bf73)
         
-        #### [Over 600,000 people lost power at peak of Washington windstorm](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
+        #### [New storm system could cause more power outages in western Washington Friday](https://www.king5.com/article/weather/weather-impact/utility-companies-brace-more-power-outages-storm-bomb-cyclone/281-1918e5d6-5fd1-4826-9b5f-7d4c7970bf73)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-43°
+51°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
