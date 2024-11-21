@@ -318,7 +318,7 @@ Shop All Tees](https://www.atari.com/collections/atari-tshirts)
 
 Shop All Hats](https://www.atari.com/collections/hats)
 
-\*\*New!\*\*/collections/summer-camp-2024
+\*\*New!\*\*/collections/holiday-collection; \*\*New!\*\*/collections/jaguar; \*\*Trending\*\*/collections/sweatshirts
 
 New
 
