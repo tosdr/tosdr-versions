@@ -111,6 +111,10 @@ Most recent
 
 [21-11-2024
 
+Council set to take a cautious stance on future of telecoms](https://www.euractiv.com/section/tech/news/council-set-to-take-a-cautious-stance-on-future-of-telecoms/)[21-11-2024
+
+Russia launches intercontinental ballistic missile in attack on Ukraine](https://www.euractiv.com/section/global-europe/news/russia-launches-intercontinental-ballistic-missile-in-attack-on-ukraine/)[21-11-2024
+
 World still split over money as clock ticks on COP29](https://www.euractiv.com/section/eet/news/world-still-split-over-money-as-clock-ticks-on-cop29/)[21-11-2024
 
 Bulgaria’s pro-Russian parties display increasingly open ties with the Kremlin](https://www.euractiv.com/section/politics/news/the-capitals-bulgarias-pro-russian-parties-display-increasingly-open-ties-with-the-kremlin/)[21-11-2024
@@ -125,11 +129,7 @@ US reopens Kyiv embassy after Ukraine firing of ATACMS missiles](https://www.eur
 
 Ribera gets EPP blessing, blames Spain’s Partido Popular for Valencia floods disaster](https://www.euractiv.com/section/politics/news/ribera-gets-epp-blessing-blames-spains-partido-popular-for-valencia-floods-disaster/)[21-11-2024
 
-Italian healthcare workers strike over wage disputes, budget cuts](https://www.euractiv.com/section/politics/news/italian-healthcare-workers-strike-over-wage-disputes-budget-cuts/)[21-11-2024
-
-Bulgaria’s pro-Russian parties display increasingly open ties with the Kremlin](https://www.euractiv.com/section/politics/news/bulgarias-pro-russian-parties-display-increasingly-open-ties-with-the-kremlin/)[21-11-2024
-
-Europe’s largest industry groups to double down on EU rule roll-back agenda](https://www.euractiv.com/section/economy-jobs/news/europes-largest-industry-groups-to-double-down-on-eu-rule-roll-back-agenda/) 
+Italian healthcare workers strike over wage disputes, budget cuts](https://www.euractiv.com/section/politics/news/italian-healthcare-workers-strike-over-wage-disputes-budget-cuts/)
 
 ###### Advertisement
 
