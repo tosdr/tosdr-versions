@@ -14,7 +14,7 @@
 
 [](https://www.eufy.com/?ref=logo "eufy")
 
-* Clean
+* Clean Hot
     
     1. Latest Tech
     2. Robot Vacuums
@@ -669,7 +669,7 @@ Search our shop
 
 [](https://us.eufy.com/?ref=logo "eufy")
 
-* Clean
+* Clean Hot
 * Security New
 * Baby
 * Smart Lights
