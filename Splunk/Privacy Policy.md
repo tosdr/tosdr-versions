@@ -56,7 +56,7 @@ false
 
 * [Products](#)
     
-    ![splunk-dashboard-examples](/content/dam/splunk2/en_us/icons/standard/splunk-dashboard-examples.svg)
+    ![splunk-dashboard-examples](/content/dam/splunk2/en_us/images/icon-library/color-black/splunk-dashboard-examples.svg)
     
     [Product Overview
     
@@ -77,7 +77,7 @@ false
         [Product Tours](https://www.splunk.com/en_us/resources.html?filters=filterGroup5ProductTours)
         
     
-    ![alt](/content/dam/splunk2/en_us/icons/standard/security-compliance-and-safety.svg)
+    ![alt](/content/dam/splunk2/en_us/images/icon-library/color-black/mitigating-security-risks.svg)
     
     [Security](https://www.splunk.com/en_us/products/cyber-security.html)
     
@@ -92,7 +92,7 @@ false
     * [Splunk User Behavior Analytics](https://www.splunk.com/en_us/products/user-behavior-analytics.html)
         
     
-    ![observability](/content/dam/splunk2/en_us/icons/standard/observability.svg)
+    ![observability](/content/dam/splunk2/en_us/images/icon-library/color-black/observability.svg)
     
     [Observability](https://www.splunk.com/en_us/products/observability.html)
     
@@ -103,7 +103,7 @@ false
     * [Splunk AppDynamics](https://www.splunk.com/en_us/products/splunk-appdynamics.html)
         
     
-    ![Platform](/content/dam/splunk2/en_us/icons/standard/delivery-platform.svg)
+    ![Platform](/content/dam/splunk2/en_us/images/icon-library/color-black/delivery-platform.svg)
     
     [Platform](https://www.splunk.com/en_us/products/platform.html)
     
@@ -130,7 +130,9 @@ false
     
     Power unified security, full-stack observability and custom apps on the same platform.](https://www.splunk.com/en_us/products/platform.html)
     
-    by Use Case
+    ![mitigate-information-overload](/content/dam/splunk2/en_us/images/icon-library/color-black/mitigate-information-overload.svg)
+    
+    [Use Cases](https://www.splunk.com/en_us/solutions/all-use-cases.html)
     
     * [Advanced Threat Detection](https://www.splunk.com/en_us/solutions/advanced-threat-detection.html)
         
@@ -145,7 +147,9 @@ false
     * [IT Modernization](https://www.splunk.com/en_us/solutions/it-modernization.html)
         
     
-    BY TECHNOLOGY
+    ![apps-and-add-ons](/content/dam/splunk2/en_us/images/icon-library/color-black/apps-and-add-ons.svg)
+    
+    [Technologies](https://www.splunk.com/en_us/solutions/all-technologies.html)
     
     * [AWS](https://www.splunk.com/en_us/solutions/aws-monitoring.html)
         
@@ -160,7 +164,9 @@ false
     * [SAP](https://www.splunk.com/en_us/solutions/sap.html)
         
     
-    BY INDUSTRY
+    ![manufacturing](/content/dam/splunk2/en_us/images/icon-library/color-black/manufacturing.svg)
+    
+    [Industries](https://www.splunk.com/en_us/solutions/all-industries.html)
     
     * [Communications & Media](https://www.splunk.com/en_us/solutions/industries/communications.html)
         
@@ -179,7 +185,7 @@ false
     
 * [Why Splunk?](#)
     
-    ![global](/content/dam/splunk2/en_us/icons/standard/network-data.svg)
+    ![global](/content/dam/splunk2/en_us/images/icon-library/color-black/network-data.svg)
     
     [What Makes Splunk Different
     
@@ -213,19 +219,19 @@ false
     
 * [Resources](#)
     
-    ![header-resources](/content/dam/splunk2/en_us/images/icon-library/navigation/header-resources.svg)
+    ![analysis](/content/dam/splunk2/en_us/images/icon-library/color-black/analysis.svg)
     
     [Resources
     
     Explore e-books, white papers and more.](https://www.splunk.com/en_us/resources.html)
     
-    ![header-events](/content/dam/splunk2/en_us/images/icon-library/navigation/header-events.svg)
+    ![predictive-maintenance](/content/dam/splunk2/en_us/images/icon-library/color-black/predictive-maintenance.svg)
     
     [Events
     
     Join us at an event near you.](https://www.splunk.com/en_us/about-us/events.html)
     
-    ![header-blogs](/content/dam/splunk2/en_us/images/icon-library/navigation/header-blogs.svg)
+    ![blog](/content/dam/splunk2/en_us/images/icon-library/color-black/blog.svg)
     
     [Blogs
     
@@ -427,7 +433,7 @@ Company
 
 Support
 
-![splunk-dashboard-examples](/content/dam/splunk2/en_us/icons/standard/splunk-dashboard-examples.svg)
+![splunk-dashboard-examples](/content/dam/splunk2/en_us/images/icon-library/color-black/splunk-dashboard-examples.svg)
 
 [Product Overview
 
@@ -447,7 +453,7 @@ More from Splunk
 
 [Product Tours](https://www.splunk.com/en_us/resources.html?filters=filterGroup5ProductTours)
 
-![alt](/content/dam/splunk2/en_us/icons/standard/security-compliance-and-safety.svg)
+![alt](/content/dam/splunk2/en_us/images/icon-library/color-black/mitigating-security-risks.svg)
 
 [Security](https://www.splunk.com/en_us/products/cyber-security.html)
 
@@ -461,7 +467,7 @@ More from Splunk
 
 [Splunk User Behavior Analytics](https://www.splunk.com/en_us/products/user-behavior-analytics.html)
 
-![observability](/content/dam/splunk2/en_us/icons/standard/observability.svg)
+![observability](/content/dam/splunk2/en_us/images/icon-library/color-black/observability.svg)
 
 [Observability](https://www.splunk.com/en_us/products/observability.html)
 
@@ -471,7 +477,7 @@ More from Splunk
 
 [Splunk AppDynamics](https://www.splunk.com/en_us/products/splunk-appdynamics.html)
 
-![Platform](/content/dam/splunk2/en_us/icons/standard/delivery-platform.svg)
+![Platform](/content/dam/splunk2/en_us/images/icon-library/color-black/delivery-platform.svg)
 
 [Platform](https://www.splunk.com/en_us/products/platform.html)
 
@@ -495,7 +501,9 @@ Maintain performance and reliability with unified visibility and lightning-fast 
 
 Power unified security, full-stack observability and custom apps on the same platform.](https://www.splunk.com/en_us/products/platform.html)
 
-by Use Case
+![mitigate-information-overload](/content/dam/splunk2/en_us/images/icon-library/color-black/mitigate-information-overload.svg)
+
+[Use Cases](https://www.splunk.com/en_us/solutions/all-use-cases.html)
 
 [Advanced Threat Detection](https://www.splunk.com/en_us/solutions/advanced-threat-detection.html)
 
@@ -509,7 +517,9 @@ by Use Case
 
 [IT Modernization](https://www.splunk.com/en_us/solutions/it-modernization.html)
 
-BY TECHNOLOGY
+![apps-and-add-ons](/content/dam/splunk2/en_us/images/icon-library/color-black/apps-and-add-ons.svg)
+
+[Technologies](https://www.splunk.com/en_us/solutions/all-technologies.html)
 
 [AWS](https://www.splunk.com/en_us/solutions/aws-monitoring.html)
 
@@ -523,7 +533,9 @@ BY TECHNOLOGY
 
 [SAP](https://www.splunk.com/en_us/solutions/sap.html)
 
-BY INDUSTRY
+![manufacturing](/content/dam/splunk2/en_us/images/icon-library/color-black/manufacturing.svg)
+
+[Industries](https://www.splunk.com/en_us/solutions/all-industries.html)
 
 [Communications & Media](https://www.splunk.com/en_us/solutions/industries/communications.html)
 
@@ -539,7 +551,7 @@ BY INDUSTRY
 
 [View All Solutions](https://www.splunk.com/en_us/solutions.html)
 
-![global](/content/dam/splunk2/en_us/icons/standard/network-data.svg)
+![global](/content/dam/splunk2/en_us/images/icon-library/color-black/network-data.svg)
 
 [What Makes Splunk Different
 
@@ -569,19 +581,19 @@ Better Together
 
 [AppDynamics joins Splunk](https://www.splunk.com/en_us/appdynamics-joins-splunk.html)
 
-![header-resources](/content/dam/splunk2/en_us/images/icon-library/navigation/header-resources.svg)
+![analysis](/content/dam/splunk2/en_us/images/icon-library/color-black/analysis.svg)
 
 [Resources
 
 Explore e-books, white papers and more.](https://www.splunk.com/en_us/resources.html)
 
-![header-events](/content/dam/splunk2/en_us/images/icon-library/navigation/header-events.svg)
+![predictive-maintenance](/content/dam/splunk2/en_us/images/icon-library/color-black/predictive-maintenance.svg)
 
 [Events
 
 Join us at an event near you.](https://www.splunk.com/en_us/about-us/events.html)
 
-![header-blogs](/content/dam/splunk2/en_us/images/icon-library/navigation/header-blogs.svg)
+![blog](/content/dam/splunk2/en_us/images/icon-library/color-black/blog.svg)
 
 [Blogs
 
