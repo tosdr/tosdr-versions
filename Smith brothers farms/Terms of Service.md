@@ -192,7 +192,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (79)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (80)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (59)](https://www.smithbrothersfarms.com/on-special)
         
@@ -224,10 +224,10 @@ Hi
         * [Whipping Cream (5)](https://www.smithbrothersfarms.com/whipping-cream)
             
         
-    * [Yogurt (72)](https://www.smithbrothersfarms.com/yogurt)
+    * [Yogurt (73)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
-        * [Kefir (2)](https://www.smithbrothersfarms.com/kefir)
+        * [Kefir (3)](https://www.smithbrothersfarms.com/kefir)
             
         * [Greek Yogurt (51)](https://www.smithbrothersfarms.com/greek)
             
@@ -260,12 +260,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (88)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (87)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (28)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (27)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
             
