@@ -12,7 +12,7 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     
     * [![](https://corporate-assets.lucid.co/co/120f906d-9405-4960-a68b-ff08a452835a.svg?v=1709700546459)](https://www.lucidchart.com/pages/)
     * [![](https://corporate-assets.lucid.co/co/9af2902e-a123-4e64-abd0-9326a6db3a29.svg?v=1709700548195)](https://lucidspark.com/)
-    * [![](https://corporate-assets.lucid.co/co/f3177829-1082-487d-928f-8bc61223b56f.svg?v=1709700549958)](https://lucidscale.com/)
+    * [![](https://corporate-assets.lucid.co/co/f3177829-1082-487d-928f-8bc61223b56f.svg?v=1709700549958)](https://lucid.co/lucidscale)
     
 * Solutions
     
@@ -461,7 +461,7 @@ Products
 
 * [Lucidspark](https://lucidspark.com/)
 * [Lucidchart](https://www.lucidchart.com/pages/)
-* [Lucidscale](https://lucidscale.com/)
+* [Lucidscale](https://lucid.co/lucidscale)
 
 Solutions
 
