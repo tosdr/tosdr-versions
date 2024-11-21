@@ -137,67 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![florazina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1420537-1730447693.jpg)](https://lyricstranslate.com/en/translator/florazina "florazina")
-
-New collection
-
-[Songs under 2 minutes (6)](https://lyricstranslate.com/en/collection/songs-under-2-minutes-6)
-
-[![kuragehime](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1546486-1729630495.jpg)](https://lyricstranslate.com/en/translator/kuragehime "kuragehime")
-
-New song
-
-[TAKAMICHI from BIRTH - 君を想ふ](https://lyricstranslate.com/en/takamichi-birth-kimi-wo-omofu-lyrics)
-
-Japanese
-
-[![Smokey Meydan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1238986-1604835153.png)](https://lyricstranslate.com/en/translator/smokey-meydan "Smokey Meydan")
+[![Tera4](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1615562-1724699096.jpg)](https://lyricstranslate.com/en/translator/tera4 "Tera4")
 
 New translation
 
-[Sylvie Vartan - Le Locomotion](https://lyricstranslate.com/en/sylvie-vartan-le-locomotion-english)
+[Taylor Swift - Fortnight](https://lyricstranslate.com/en/taylor-swift-fortnight-czech)
 
-French → English
+English → Czech
 
-[![JeBo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1625119-1722251655.jpg)](https://lyricstranslate.com/en/translator/jebo "JeBo")
+[![want](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521183-1723169121.jpg)](https://lyricstranslate.com/en/translator/want "want")
 
-New explanation of idiom
+New comment
 
-[van voren af aan beginnen...](https://lyricstranslate.com/en/van-voren-af-aan-beginnen)
+https://www.merriam-webster.com/dictionary/suffer ...  [more](https://lyricstranslate.com/en/comment/1177530#comment-1177530)
 
-French → Dutch
-
-[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+[![Olga Ledo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1563930-1677416532.jpg)](https://lyricstranslate.com/en/translator/olga-ledo "Olga Ledo")
 
 New song
 
-[Grupo Luz Divina - Guerras y pleitos](https://lyricstranslate.com/en/grupo-luz-divina-guerras-y-pleitos-lyrics)
+[Tetiana Vlasova - двадцять четверте лютого сталося вчора](https://lyricstranslate.com/en/tetiana-vlasova-dvadtsyat-chetverte-lyut-lyrics)
 
-Spanish
+Ukrainian
 
-[![Bikavis](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627403-1729094100.jpg)](https://lyricstranslate.com/en/translator/Bikavis "Bikavis")
+[![다이아](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/%EB%8B%A4%EC%9D%B4%EC%95%84 "다이아")
+
+New request
+
+[Fish in a Birdcage - Rule #34](https://lyricstranslate.com/en/request/rule-34-0)
+
+English → Korean
+
+[![Gabi Leon](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637665-1732144640.png)](https://lyricstranslate.com/en/translator/gabi-leon "Gabi Leon")
+
+New request
+
+[Jukjae - 그리워 (Monologue) (geuliwo)](https://lyricstranslate.com/en/request/%EA%B7%B8%EB%A6%AC%EC%9B%8C-monologue)
+
+Korean → Spanish
+
+[![MariusWoodward](https://lyricstranslate.com/files/styles/micro/public/avatar-default-m.png)](https://lyricstranslate.com/en/translator/mariuswoodward "MariusWoodward")
 
 New translation
 
-[Kenshi Yonezu - Azalea](https://lyricstranslate.com/en/kenshi-yonezu-azalea-english)
+[Jo Stafford - If](https://lyricstranslate.com/en/jo-stafford-if-german-0)
 
-Japanese → English
+English → German
 
-[![DBMD99](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619930-1731949544.png)](https://lyricstranslate.com/en/translator/dbmd99 "DBMD99")
+[![theguy](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/theguy "theguy")
+
+New translation
+
+[Deine Lakaien - Sometimes](https://lyricstranslate.com/en/deine-lakaien-sometimes-german)
+
+English → German
+
+[![Cristopher Ladines J.](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1567891-1680388447.jpg)](https://lyricstranslate.com/en/translator/cristopher-ladines-j "Cristopher Ladines J.")
 
 New song
 
-[LADYBABY - ダルマカルマ](https://lyricstranslate.com/en/ladybaby-dharma-karma-lyrics)
+[Casuarina - Disritmia](https://lyricstranslate.com/en/casuarina-disritmia-lyrics)
 
-Japanese
-
-[![Ahmed Elembaby](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637428-1731927037.jpg)](https://lyricstranslate.com/en/translator/ahmed-elembaby "Ahmed Elembaby")
-
-New translation
-
-[Mr.Kitty - 0% Angel](https://lyricstranslate.com/en/mrkitty-0-angel-arabic)
-
-English → Arabic
+Portuguese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
