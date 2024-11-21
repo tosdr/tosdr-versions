@@ -100,7 +100,7 @@ Sort by RelevanceNewestOldest
         * [Donors & Philanthropists](https://www.unicefusa.org/how-help/donate/donors-philanthropists)
         * [Joint Investment Mechanism](https://www.unicefusa.org/how-help/donate/joint-investment-mechanism)
         * [Donor-Advised Funds](https://www.unicefusa.org/how-help/donate/donor-advised-funds)
-        * [Planned Giving ^](https://unicefusa.planmylegacy.org/)
+        * [Planned Giving](https://unicefusa.planmylegacy.org/)
     * [Fundraise](https://www.unicefusa.org/how-help/fundraise-UNICEF-USA)
     * [Impact Investing](https://www.unicefusa.org/how-help/donate/impact-fund-children/bridge-fund)
     * [UNICEF Clubs](https://www.unicefusa.org/how-help/unicef-clubs)
@@ -476,7 +476,12 @@ or via our toll-free number: 1-800-367-5437
 
 Be An Active Supporter
 
+**Be An Active Supporter**  
 Be the first to know about UNICEF's humanitarian relief efforts in times of emergency.
+
+First Name 
+
+Last Name 
 
 Stay informed: 
 
