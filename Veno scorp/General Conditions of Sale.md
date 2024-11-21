@@ -28,6 +28,7 @@
         * [Gaming PCs £1000-£1999](https://veno-scorp.co.uk/collections/gaming-pcs-1000-to-1999-new)
         * [Gaming PCs £2000+](https://veno-scorp.co.uk/collections/gaming-pcs-2000)
         
+    * [9800X3D Gaming PCs](https://veno-scorp.co.uk/collections/harness-the-ultimate-gaming-edge-with-amd-ryzen%E2%84%A27-9800x3d-processor)
     
 * [Next Day Gaming PCs](https://veno-scorp.co.uk/collections/next-day-gaming-pcs)
 * [Gaming PC Bundles](https://veno-scorp.co.uk/collections/gaming-pc-bundles)
@@ -62,6 +63,7 @@
         * [Gaming PCs £500-£999](https://veno-scorp.co.uk/collections/gaming-pcs-500-to-1000)
         * [Gaming PCs £1000-£1999](https://veno-scorp.co.uk/collections/gaming-pcs-1000-to-1999-new)
         * [Gaming PCs £2000+](https://veno-scorp.co.uk/collections/gaming-pcs-2000)
+    * [9800X3D Gaming PCs](https://veno-scorp.co.uk/collections/harness-the-ultimate-gaming-edge-with-amd-ryzen%E2%84%A27-9800x3d-processor)
     
 * [Next Day Gaming PCs](https://veno-scorp.co.uk/collections/next-day-gaming-pcs)
 * [Gaming PC Bundles](https://veno-scorp.co.uk/collections/gaming-pc-bundles)
