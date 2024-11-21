@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Стритрейсеры](https://www.myabandonware.com/game/stritreysery-tad)
+* [BlockBall Evolution](https://www.myabandonware.com/game/blockball-evolution-ta5)
+* [Ro(c)k Podvraťáků](https://www.myabandonware.com/game/ro-c-k-podvrataku-ta3)
 * [Pac-Mania](https://www.myabandonware.com/game/pac-mania-5nq)
 * [АвтоФэны: Заряженные скоростью](https://www.myabandonware.com/game/avtofeny-zaryazhennye-skorostyu-t9i)
-* [Uncle Henry's Playhouse](https://www.myabandonware.com/game/uncle-henry-s-playhouse-t9h)
-* [Lose Your Marbles](https://www.myabandonware.com/game/lose-your-marbles-t9g)
-* [Mavis Beacon Teaches Typing! Version 4](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-4-t99)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
