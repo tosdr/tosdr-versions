@@ -12,7 +12,6 @@
     * [Deutsche Bank](https://stripe.com/legal/deutsche-bank)
     * [Goldman Sachs Bank USA](https://stripe.com/legal/goldman-sachs)
     * [PNC Bank](https://stripe.com/pnc/legal)
-    * [Wells Fargo Bank](https://stripe.com/legal/wells-fargo)
     
 * [Issuing Bank Terms](https://stripe.com/legal/celtic-spend-card)
 * [Payment Method Terms](https://stripe.com/legal/payment-terms)
