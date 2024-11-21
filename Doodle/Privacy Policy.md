@@ -75,6 +75,8 @@ Doodle works with [Crashlytics, Inc (“Crashlytics”)](https://firebase.googl
 
 This website is using Intercom, a unified customer communication platform provided by Intercom Inc. Intercom is used by Doodle for customer interaction and experience management, either through email, or through direct messages with Doodle.  For more information about Intercom’s privacy practices, see [Terms and Policies | Intercom](https://www.intercom.com/legal/privacy) . Your personal data will be processed and transmitted in accordance with the General Data Protection Regulations (GDPR).
 
+This website uses OpenAI, a leading artificial intelligence research and deployment company. OpenAI provides large language models that can be used for a variety of purposes, including customer interaction and experience management. For more information about OpenAI’s privacy practices, see [OpenAI's Privacy Policy](https://openai.com/policies/privacy-policy). Your personal data will be processed and transmitted in accordance with the General Data Protection Regulations (GDPR).
+
 ### 4\. Cookies
 
 When you use Doodle, the service can store cookies on your computer. Cookies are little pieces of information that can help identify your browser and that can store information for future visits, e.g. your language preferences. Doodle uses cookies to track usage, to improve ease-of-use and the overall user experience, and to manage advertising inventories.
