@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/yt-gecensureerd-italiaanse-arts-waarschuwt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/ziekmakend-zoet/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
