@@ -1,6 +1,8 @@
+         Bright Cellars Activation – Winc                                                                         
+
 [Skip to content](#MainContent)
 
-[Join Winc & get $30 off first order - JOINWINC](https://winc.com//discount/JOINWINC?redirect=/pages/palate-profile&utm_source=Internal%20Marketing%20-%20Club&utm_medium=Other&utm_campaign=Other_InternalMarketing-Club_30-off_JOINWINC)
+[Join Winc & get $40 off first order - JOINWINC](https://winc.com//discount/JOINWINC?redirect=/pages/palate-profile&utm_source=Internal%20Marketing%20-%20Club&utm_medium=Other&utm_campaign=Other_InternalMarketing-Club_30-off_JOINWINC)
 
 [Search](https://www.brightcellars.com/search)
 
@@ -162,43 +164,91 @@ Exit menu [Discover](https://www.brightcellars.com/pages/how-it-works)
 
 [Instagram](https://www.instagram.com/winc "Winc on Instagram") [Facebook](https://www.facebook.com/winc "Winc on Facebook") [Twitter](https://twitter.com/winc "Winc on Twitter")
 
+Why join the Winc fam?
+
+Welcome to Winc
+
+20% Off,  
+Always
+
+Free  
+Shipping
+
+First Dibs on  
+New Wines
+
+Shop All Wines,  
+No Restrictions
+
+Skip  
+Anytime
+
+Simply pick the membership that’s best for you then keep shopping to fill your box with unlocked access!
+
+Oops! Looks like you removed the membership from your cart.
+
+6-Bottle Membership
+
+6 wines shipped every month
+
+![](https://cdn.shopify.com/s/files/1/0803/8367/2611/files/BOX_BOTTLES_3_1.png?v=1727273878)
+
+12-Bottle Membership
+
+12 wines shipped every 12 weeks
+
+![](https://cdn.shopify.com/s/files/1/0803/8367/2611/files/BOX_BOTTLES_420_1_d7b1fcfc-9b1d-4a25-a884-6ebfec11ae8e.png?v=1727273877)
+
+Join 6-Bottle Membership
+
+Commitment-phobe?
+
+That's cool, we get it. Shop our packs, no membership necessary.  
+Buuuuut… you might miss the good stuff, just saying.
+
+I'm non-commital, take me to Packs
+
 Cart (0)
 
-![](//www.winc.com/cdn/shop/files/Shipping_f484f082-f733-4153-9a92-4db4c20975cf.png?v=1693261814)
+* * *
+
+![](//www.winc.com/cdn/shop/files/icons_1.png?v=1732037058)
 
 Free Shipping
 
-![](//www.winc.com/cdn/shop/files/Shipping_ada72b16-2cbf-4c43-aa6c-396fdbede011.png?v=1694731662)
+![](//www.winc.com/cdn/shop/files/icons_2.png?v=1732037059)
 
 10% Off
 
+* * *
+
 The wine won't drink itself! Add to your box — or take our Palate Profile Quiz for personalized picks.
 
-![Shipping icon](//www.winc.com/cdn/shop/files/fluent_box-20-regular_107x107.png?v=1693273250) [Take the Quiz](https://www.brightcellars.com/pages/palate-profile)
+[Take the Quiz](https://www.brightcellars.com/pages/palate-profile)
 
-Subtotal $0
+Already a member? Sign in.
 
-Flat Shipping \--
+[Sign in](https://www.brightcellars.com/account)
 
-Tax \--
+Avoid FOMO and enjoy all the perks like member-only pricing, free shipping always, access to all wines, and first dibs on new releases.
 
-Total $0
+[Join now](https://www.brightcellars.com/pages/how-it-works)
 
-[Continue Shopping](https://www.brightcellars.com/collections/all)
+* * *
 
-Minimum 3 Bottles Required for Checkout
+Subtotal $0.00
 
 Check Out
 
-![welcome-lp-hero-img](//www.winc.com/cdn/shop/t/81/assets/welcome-lp-hero-img-mobile.png?v=42122900940634567831727136517) ![welcome-lp-hero-img](//www.winc.com/cdn/shop/t/81/assets/welcome-lp-hero-img-desktop.png?v=180592576550919423361727136516) ![welcome-lp-hero-img-clip](//www.winc.com/cdn/shop/t/81/assets/welcome-lp-hero-img-clip-mobile.svg?v=163071318980052837921727136516) ![welcome-lp-hero-img-clip](//www.winc.com/cdn/shop/t/81/assets/welcome-lp-hero-img-clip-desktop.svg?v=159036149231481213561727136515)
+![welcome-lp-hero-img](//www.winc.com/cdn/shop/t/90/assets/welcome-lp-hero-img-mobile.png?v=42122900940634567831732115442) ![welcome-lp-hero-img](//www.winc.com/cdn/shop/t/90/assets/welcome-lp-hero-img-desktop.png?v=180592576550919423361732115442) ![welcome-lp-hero-img-clip](//www.winc.com/cdn/shop/t/90/assets/welcome-lp-hero-img-clip-mobile.svg?v=163071318980052837921732115442) ![welcome-lp-hero-img-clip](//www.winc.com/cdn/shop/t/90/assets/welcome-lp-hero-img-clip-desktop.svg?v=159036149231481213561732115442)
 
-![welcome-lp-hero-bc-winc-logo](//www.winc.com/cdn/shop/t/81/assets/welcome-lp-hero-bc-winc-logo.svg?v=143005563034955893431727136514)
+![welcome-lp-hero-bc-winc-logo](//www.winc.com/cdn/shop/t/90/assets/welcome-lp-hero-bc-winc-logo.svg?v=143005563034955893431732115443)
 
 Welcome to Winc, we’re happy you’re here
 
 Follow the steps below to activate your account.
 
-![welcome-lp-hero-bottom-shape](//www.winc.com/cdn/shop/t/81/assets/welcome-lp-hero-bottom-shape-mobile.svg?v=53813845806002707291727136515) ![welcome-lp-hero-bottom-shape](//www.winc.com/cdn/shop/t/81/assets/welcome-lp-hero-bottom-shape-desktop.svg?v=99553247400083928921727136514)
+![welcome-lp-hero-bottom-shape](//www.winc.com/cdn/shop/t/90/assets/welcome-lp-hero-bottom-shape-mobile.svg?v=53813845806002707291732115442) ![welcome-lp-hero-bottom-shape](//www.winc.com/cdn/shop/t/90/assets/welcome-lp-hero-bottom-shape-desktop.svg?v=99553247400083928921732115441)
 
 Activate your account in two easy steps
 
@@ -240,12 +290,11 @@ How Winc works
     After you drink, log into your account, rate your wines, and see which matches you get next time.
     
 
-* Discounted Member Pricing
+* 20% Off, Always
     
 * Free Shipping
     
-* First Dibs on  
-    New Wines
+* First Dibs on New Wines
     
 * Shop All Wines, No Restrictions
     
@@ -284,15 +333,20 @@ Didn’t get your question answered?
 
 Video Walk-Throughs
 
- [![](//www.winc.com/cdn/shop/t/81/assets/welcome-lp-video-dashboard.svg?v=1402807800949786591727136518) ![](//www.winc.com/cdn/shop/t/81/assets/welcome-lp-video-dashboard-desktop.svg?v=181588089049795126401727136517)
+ [![](//www.winc.com/cdn/shop/t/90/assets/welcome-lp-video-dashboard.svg?v=1402807800949786591732115442) ![](//www.winc.com/cdn/shop/t/90/assets/welcome-lp-video-dashboard-desktop.svg?v=181588089049795126401732115443)
 
-Account Dashboard Walkthrough](https://www.loom.com/share/a727d1f72fde4a14878c91cb218e3b50?sid=27ea1139-ce58-43ba-bacb-a74c51da30be) [![](//www.winc.com/cdn/shop/t/81/assets/welcome-lp-video-swap.svg?v=30281001401571646951727136519) ![](//www.winc.com/cdn/shop/t/81/assets/welcome-lp-video-swap-desktop.svg?v=30568620692658443971727136518)
+Account Dashboard Walkthrough](https://www.loom.com/share/a727d1f72fde4a14878c91cb218e3b50?sid=27ea1139-ce58-43ba-bacb-a74c51da30be) [![](//www.winc.com/cdn/shop/t/90/assets/welcome-lp-video-swap.svg?v=30281001401571646951732115442) ![](//www.winc.com/cdn/shop/t/90/assets/welcome-lp-video-swap-desktop.svg?v=30568620692658443971732115441)
 
 Swapping Bottles in Your Order](https://www.loom.com/share/1afca96f666a48a28619ca0385bbf039?sid=d9a8e135-29ab-45d2-a655-1863cc009fd5)
 
 [![Winc](//www.winc.com/cdn/shop/files/Winc-Logo-with-Registered-Mark-White_225x.svg?v=1690824769)](https://www.brightcellars.com/)
 
 * * *
+
+* [Wines](https://www.brightcellars.com/collections/all)
+* [Gift Cards](https://www.brightcellars.com/products/winc-gift-card)
+* [How it Works](https://www.brightcellars.com/pages/how-it-works)
+* [Blog](https://www.brightcellars.com/blogs/the-winc-blog)
 
 * [Support](https://www.brightcellars.com/pages/support)
 * [Affiliate Program](https://www.ascendpartner.com/affiliate/registration?refid=299056)
@@ -303,10 +357,28 @@ Swapping Bottles in Your Order](https://www.loom.com/share/1afca96f666a48a28619c
 * [Refund Policy](https://www.brightcellars.com/policies/refund-policy)
 * [Subscription Policy](https://www.brightcellars.com/policies/subscription-policy)
 
+[Facebook](https://www.facebook.com/winc "Winc on Facebook") [Instagram](https://www.instagram.com/winc "Winc on Instagram") [Twitter](https://twitter.com/winc "Winc on Twitter")
+
 Copyright © Winc 2024
 
-[Instagram](https://www.instagram.com/winc "Winc on Instagram") [Facebook](https://www.facebook.com/winc "Winc on Facebook") [Twitter](https://twitter.com/winc "Winc on Twitter")
-
-Payment methods accepted American Express American express Apple Pay Apple pay Diners Club Diners club Discover Discover JCB Jcb Mastercard Master PayPal Paypal Shop Pay Shopify pay Venmo Venmo Visa Visa
-
 Search  Clear
+
+#### Oops! Looks like you are trying to remove the membership from your cart. Add a membership to keep shopping!
+
+##### 6-Bottle Membership
+
+6 wines shipped every month
+
+![6 Pack Membership](//www.winc.com/cdn/shop/t/90/assets/6-pack-membership.png?v=152900762392683217201732115715) 
+
+##### 12-Bottle Membership
+
+12 wines shipped every month
+
+![12 Pack Membership](//www.winc.com/cdn/shop/t/90/assets/12-pack-membership.png?v=86293263335819570791732115715)
+
+Add Membership
+
+### Not ready to commit?
+
+Say no more. Shop our packs – no membership required. You miss that membership pricing though. Just saying…
