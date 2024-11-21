@@ -130,7 +130,7 @@ In the interests of fair gaming, there are limits on the maximum bet sizes you c
 
 4\. Bonuses will be credited to the Player's Real Account as Bonus Balance, until the terms of the promotion have been met. Thereafter the applicable Bonus Balance will be transferred to Withdrawable Balance.
 
-5\. Unless otherwise stated, all free bonuses must be wagered at least 60 times before withdrawing. Wagering on all types of Blackjack, Video Poker, Craps, American Roulette, Baccarat and other table games and non-pokies games, will not count towards this wagering requirement unless specifically stated.
+5\. Unless otherwise stated, all free bonuses must be wagered at least 60 times before submitting a withdrawal request. Wagering on all types of Blackjack, Video Poker, Craps, American Roulette, Baccarat and other table games and non-pokies games, will not count towards this wagering requirement.
 
 6\. A promotion is considered completed when a player meets the wagering requirements or when the balance reaches below $1. Note that if you are playing a promotion with a maximum cash out limit, upon completing the wagering requirements only the maximum cash out amount will be transferred to your withdrawable balance. Any balance over this amount will be automatically deducted by the system.
 
@@ -228,8 +228,29 @@ By participating in slot tournaments, you hereby agree to the Terms and Conditio
 
 2\. In order to receive earnings from referring friends, the Referrer must have made at least one deposit at Fair Go Casino.
 
-3\. In order to be credited any earnings, the Referrer must have a balance under $1 and no pending withdrawals.4. Earns are placed on hold until the Referrer finishes the bonus playthrough.  
-5\. Only new players (players that do not hold an account at Fair Go Casino) will be considered as a Referred Friend.6. Only customers eligible to play in the casino will count as Referred Friends.7. The Referred Friend must make a first successful deposit of at least $25.8. The Referrer and the Referred Friend are entitled to the Refer a Friend promotion only if the Referred Friend signs up to Fair Go Casino via the unique referral link.9. The Referrer will receive a free credit for each Referred Friend that makes a deposit of at least $25 at Fair Go Casino.10. The "Refer a friend" offer is credited on the referrer casino account at the beginning of each month (1st working day).11. Before making any withdrawal requests, the Referrer must wager the "Refer a Friend" bonus a minimum of 5 times.12. In order for either party to be eligible for the "Refer a Friend" promotion, both the Referrer and the Referred Friend must meet all of the requirements as stated above.13. The Referrer and the Referred Friend must be from a different household.14. Fair Go Casino reserves the right to change or end this promotion at any point in time, without prior notification.
+3\. In order to be credited any earnings, the Referrer must have a balance under $1 and no pending withdrawals.
+
+4\. Earns are placed on hold until the Referrer finishes the bonus playthrough.
+
+5\. Only new players (players that do not hold an account at Fair Go Casino) will be considered as a Referred Friend.
+
+6\. Only customers eligible to play in the casino will count as Referred Friends.
+
+7\. The Referred Friend must make a first successful deposit of at least $25.
+
+8\. The Referrer and the Referred Friend are entitled to the Refer a Friend promotion only if the Referred Friend signs up to Fair Go Casino via the unique referral link.
+
+9\. The Referrer will receive a free credit for each Referred Friend that makes a deposit of at least $25 at Fair Go Casino.
+
+10\. The "Refer a friend" offer is credited on the referrer casino account at the beginning of each month (1st working day).
+
+11\. Before making any withdrawal requests, the Referrer must wager the "Refer a Friend" bonus a minimum of 5 times.
+
+12\. In order for either party to be eligible for the "Refer a Friend" promotion, both the Referrer and the Referred Friend must meet all of the requirements as stated above.
+
+13\. The Referrer and the Referred Friend must be from a different household.
+
+14\. Fair Go Casino reserves the right to change or end this promotion at any point in time, without prior notification.
 
 ![Fairgo Casino Logo](https://www.fairgoplus.com/images/logoLarge.png)
 
