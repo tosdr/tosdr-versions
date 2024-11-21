@@ -2,7 +2,7 @@
 
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[Pre-Black Friday Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
+[Last Day for Pre-Black Friday Deals](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
 
 [CLEARANCE
 
@@ -104,7 +104,7 @@ My store
 
 [](#)
 
-[Pre-Black Friday Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
+[Last Day for Pre-Black Friday Deals](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
 
 [CLEARANCE
 
