@@ -137,7 +137,7 @@ Menutoggle menu
         * [Resources](https://www.atlantafed.org/banking-and-payments/reporting/resources)
         * [Training](https://www.atlantafed.org/banking-and-payments/reporting/training)
 * [News & Events](https://www.atlantafed.org/news)
-    * [Conferences & Events](https://www.atlantafed.org/news/conferences-and-events)
+    * [Conferences & Events](https://www.atlantafed.org/cenfis/publications)
         * [Conferences](https://www.atlantafed.org/news/conferences-and-events/conferences)
         * [Financial Markets Conference](https://www.atlantafed.org/news/conferences-and-events/conferences/2024/05/19/financial-markets-conference)
         * [Webinars](https://www.atlantafed.org/news/conferences-and-events/webinars)
