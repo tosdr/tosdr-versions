@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to install Backup4all from Microsoft Stor ...](https://www.backup4all.com/how-to-install-backup4all-from-microsoft-store-kb.html)  
+* [How to backup to cloud using Backup4all](https://www.backup4all.com/how-to-backup-to-cloud-using-backup4all-kb.html)  
     
-* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
+* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
     
-* [How to restore a backup from Google Cloud Sto ...](https://www.backup4all.com/how-to-restore-a-backup-from-google-cloud-storage-kb.html)  
+* [Rotating backup scheme using external drives](https://www.backup4all.com/rotating-backup-scheme-using-external-drives-kb.html)  
     
-* [Backup MS SQL Server data](https://www.backup4all.com/backup-ms-sql-server-data-kb.html)  
+* [How to back up data files from vCloud Air usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-vcloud-air-using-backup4all-kb.html)  
     
-* [How to configure email sending](https://www.backup4all.com/how-to-use-email-settings-kb.html)  
+* [How to backup to Cloudflare R2 using Backup4a ...](https://www.backup4all.com/how-to-backup-to-cloudflare-r2-using-backup4all-kb.html)  
     
 
 Choose language:
