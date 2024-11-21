@@ -87,10 +87,11 @@ By using this site, you signify your agreement to the terms and conditions of th
 _Reviewed/Updated: November 2021_
 
 Subscribe to our newsletter!
+----------------------------
 
 Enter Email
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -134,6 +135,6 @@ United States
 [Schedule an Appointment](https://www.uscyberrange.org/contact/)
 
 **_The Cyber Range for Educators_**  
-© 2023 U.S. Cyber Range of Virginia Tech
+© 2024 U.S. Cyber Range of Virginia Tech
 
 [Youtube](https://www.youtube.com/channel/UCmp3HUrKbO_TSW9XS0k2dHw) [Linkedin-in](https://www.linkedin.com/company/us-cyber-range/about/) [](https://twitter.com/uscyberrange)[Facebook-f](https://www.facebook.com/VACyberRange)
