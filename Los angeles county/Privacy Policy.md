@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=1438485966979255&ev=PageView &noscript=1)                          
+![](https://www.facebook.com/tr?id=1438485966979255&ev=PageView &noscript=1)                                                            
 
 * (213) 974-1234 GENERAL INFO
     
@@ -163,7 +163,7 @@
         * [Art Zone](https://lacounty.gov/newsroom/featured-content/art-zone/)
         * [LA County Close-Up](https://lacounty.gov/newsroom/featured-content/la-county-close-up/)
         * [El Condado Contigo](https://lacounty.gov/newsroom/featured-content/el-condado-contigo/)
-        * [LA County Channel](https://lacounty.granicus.com/MediaPlayer.php?publish_id=259)
+        * [LA County Channel](https://lacounty.granicus.com/ViewPublisher.php?view_id=12)
         * [Award-Winning Content](https://lacounty.gov/newsroom/la-area-emmys-videos/)
         * [View All](https://lacounty.gov/newsroom/featured-content/)
     * [Public Information](https://lacounty.gov/newsroom/public-information/)
@@ -405,7 +405,7 @@ Resources
         * [Art Zone](https://lacounty.gov/newsroom/featured-content/art-zone/)
         * [LA County Close-Up](https://lacounty.gov/newsroom/featured-content/la-county-close-up/)
         * [El Condado Contigo](https://lacounty.gov/newsroom/featured-content/el-condado-contigo/)
-        * [LA County Channel](https://lacounty.granicus.com/MediaPlayer.php?publish_id=259)
+        * [LA County Channel](https://lacounty.granicus.com/ViewPublisher.php?view_id=12)
         * [Award-Winning Content](https://lacounty.gov/newsroom/la-area-emmys-videos/)
         * [View All](https://lacounty.gov/newsroom/featured-content/)
     * [Public Information](https://lacounty.gov/newsroom/public-information/)
