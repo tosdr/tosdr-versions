@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -28,21 +28,45 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 242 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 66 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 23 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 15 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 240 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 63 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 21 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 14 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 8 files
-* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 3 files
 * [Alter Prime](https://packetstormsecurity.com/files/authors/17574) 3 files
-* [Jann Horn](https://packetstormsecurity.com/files/authors/10455) 2 files
+* [EQSTLab](https://packetstormsecurity.com/files/authors/17258) 2 files
+* [Yehia Elghaly](https://packetstormsecurity.com/files/authors/16023) 2 files
 * [Pierre Kim](https://packetstormsecurity.com/files/authors/11740) 2 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Russian Women Stepping Up For Cybercrime Outfits](https://packetstormsecurity.com/news/view/36627/Russian-Women-Stepping-Up-For-Cybercrime-Outfits.html)
+
+Posted [Nov 21, 2024](https://packetstormsecurity.com/news/date/2024-11-21/ "15:31:07 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [russia](https://packetstormsecurity.com/news/tags/russia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36627/) | [View](https://www.scworld.com/news/russian-women-stepping-up-for-cybercrime-outfits)
+
+[Five Scattered Spider Suspects Indicted For Phishing And Heists](https://packetstormsecurity.com/news/view/36626/Five-Scattered-Spider-Suspects-Indicted-For-Phishing-And-Heists.html)
+
+Posted [Nov 21, 2024](https://packetstormsecurity.com/news/date/2024-11-21/ "15:30:55 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [phish](https://packetstormsecurity.com/news/tags/phish), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36626/) | [View](https://www.theregister.com/2024/11/21/scattered_spider_suspects/)
+
+[Put Your Username And Passwords In Your Will, Advises Japan's Government](https://packetstormsecurity.com/news/view/36625/Put-Your-Username-And-Passwords-In-Your-Will-Advises-Japans-Government.html)
+
+Posted [Nov 21, 2024](https://packetstormsecurity.com/news/date/2024-11-21/ "15:30:51 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [password](https://packetstormsecurity.com/news/tags/password), [japan](https://packetstormsecurity.com/news/tags/japan)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36625/) | [View](https://www.theregister.com/2024/11/21/japan_digital_end_of_life/)
 
 [CISA Director Jen Easterly To Step Down Jan. 20](https://packetstormsecurity.com/news/view/36620/CISA-Director-Jen-Easterly-To-Step-Down-Jan.-20.html)
 
@@ -68,61 +92,37 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](ht
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36618/) | [View](https://www.theregister.com/2024/11/20/dlink_rip_replace_router/)
 
-[Palo Alto Sounds Alarm Over PAN-OS Zero Day Attacks](https://packetstormsecurity.com/news/view/36613/Palo-Alto-Sounds-Alarm-Over-PAN-OS-Zero-Day-Attacks.html)
+[Helldown Ransomware Evolves To Target VMware Systems Via Linux](https://packetstormsecurity.com/news/view/36617/Helldown-Ransomware-Evolves-To-Target-VMware-Systems-Via-Linux.html)
 
-Posted [Nov 19, 2024](https://packetstormsecurity.com/news/date/2024-11-19/ "15:26:23 UTC")
+Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:38:55 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [linux](https://packetstormsecurity.com/news/tags/linux), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36613/) | [View](https://www.scworld.com/news/palo-alto-sounds-alarm-over-pan-os-zero-day-attacks)
+[Favorite](https://packetstormsecurity.com/news/favorite/36617/) | [View](https://www.scworld.com/news/helldown-evolves-to-target-vmware-systems-via-linux)
 
-[Crooks Snag $250k Wire Payment From AI Biz](https://packetstormsecurity.com/news/view/36612/Crooks-Snag-250k-Wire-Payment-From-AI-Biz.html)
+[Apple Confirms Zero Day Attacks Hitting macOS Systems](https://packetstormsecurity.com/news/view/36616/Apple-Confirms-Zero-Day-Attacks-Hitting-macOS-Systems.html)
 
-Posted [Nov 19, 2024](https://packetstormsecurity.com/news/date/2024-11-19/ "15:26:17 UTC")
+Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:38:42 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [bank](https://packetstormsecurity.com/news/tags/bank), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [apple](https://packetstormsecurity.com/news/tags/apple), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36612/) | [View](https://www.theregister.com/2024/11/19/ilearningengines_bec_scam/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36616/) | [View](https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/)
 
-[US Senate To Hold Panel Hearing On Suspected Chinese Hacking Incidents](https://packetstormsecurity.com/news/view/36611/US-Senate-To-Hold-Panel-Hearing-On-Suspected-Chinese-Hacking-Incidents.html)
+[Oracle Patches Exploited Agile PLM Zero-Day](https://packetstormsecurity.com/news/view/36615/Oracle-Patches-Exploited-Agile-PLM-Zero-Day.html)
 
-Posted [Nov 19, 2024](https://packetstormsecurity.com/news/date/2024-11-19/ "15:26:12 UTC")
+Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:38:36 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [oracle](https://packetstormsecurity.com/news/tags/oracle), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36611/) | [View](https://www.reuters.com/technology/cybersecurity/us-senate-panel-hold-hearing-chinese-hacking-incidents-2024-11-18/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36615/) | [View](https://www.securityweek.com/oracle-patches-exploited-agile-plm-zero-day/)
 
-[Thousands Of IoT Devices Turned Into Residential Proxies](https://packetstormsecurity.com/news/view/36610/Thousands-Of-IoT-Devices-Turned-Into-Residential-Proxies.html)
+[Bitcoin Bursts Past $94,000 For The First Time](https://packetstormsecurity.com/news/view/36614/Bitcoin-Bursts-Past-94-000-For-The-First-Time.html)
 
-Posted [Nov 19, 2024](https://packetstormsecurity.com/news/date/2024-11-19/ "15:26:07 UTC")
+Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:38:31 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [botnet](https://packetstormsecurity.com/news/tags/botnet)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36610/) | [View](https://www.securityweek.com/threat-actor-turns-thousands-of-iot-devices-into-residential-proxies/)
-
-[Discontinued GeoVision Products Targeted In Botnet Attacks](https://packetstormsecurity.com/news/view/36609/Discontinued-GeoVision-Products-Targeted-In-Botnet-Attacks.html)
-
-Posted [Nov 18, 2024](https://packetstormsecurity.com/news/date/2024-11-18/ "14:59:14 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [botnet](https://packetstormsecurity.com/news/tags/botnet), [flaw](https://packetstormsecurity.com/news/tags/flaw), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36609/) | [View](https://www.securityweek.com/discontinued-geovision-products-targeted-in-botnet-attacks-via-zero-day/)
-
-[Ransomware Attack On Oklahoma Medical Center Impacts 133,000](https://packetstormsecurity.com/news/view/36608/Ransomware-Attack-On-Oklahoma-Medical-Center-Impacts-133-000.html)
-
-Posted [Nov 18, 2024](https://packetstormsecurity.com/news/date/2024-11-18/ "14:59:12 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36608/) | [View](https://www.securityweek.com/ransomware-attack-on-oklahoma-medical-center-impacts-133000/)
-
-[NSO Operates Its Spyware, Legal Documents Reveal](https://packetstormsecurity.com/news/view/36607/NSO-Operates-Its-Spyware-Legal-Documents-Reveal.html)
-
-Posted [Nov 18, 2024](https://packetstormsecurity.com/news/date/2024-11-18/ "14:59:09 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [phone](https://packetstormsecurity.com/news/tags/phone), [israel](https://packetstormsecurity.com/news/tags/israel), [spyware](https://packetstormsecurity.com/news/tags/spyware), [facebook](https://packetstormsecurity.com/news/tags/facebook)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36607/) | [View](https://www.theguardian.com/technology/2024/nov/14/nso-pegasus-spyware-whatsapp)
+[Favorite](https://packetstormsecurity.com/news/favorite/36614/) | [View](https://www.reuters.com/technology/bitcoin-breaches-94000-first-time-2024-11-20/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2188927167&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2188927167.1732201666.1732201666.1732201666.1%3B%2B__utmz%3D32867617.1732201666.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2069270053&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2069270053.1732223320.1732223320.1732223320.1%3B%2B__utmz%3D32867617.1732223320.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
