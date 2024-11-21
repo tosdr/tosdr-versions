@@ -177,7 +177,7 @@ Upgrade
 
 * [Pro](https://www.filemail.com/signuppro)
 * [Business](https://www.filemail.com/signupbusiness)
-* [Enterprise](https://www.filemail.com/signupenterprise)
+* [Enterprise](https://www.filemail.com/enterprise-managed-file-transfer-mft)
 * [Price Plans Comparison](https://www.filemail.com/price-plans-comparison)
 
 Filemail Alternatives
