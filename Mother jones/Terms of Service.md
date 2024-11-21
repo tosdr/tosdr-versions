@@ -8,10 +8,10 @@
 
 *  
     
-* [Trump’s Staff Picks](https://www.motherjones.com/politics/2024/11/brendan-carr-federal-communications-commission-donald-trump/)
-* [Trump’s Mass Deportation Plot](https://www.motherjones.com/politics/2024/11/trump-mass-deportations-military-national-emergency/)
-* [Climate Change](https://www.motherjones.com/politics/2024/11/trump-repeal-biden-climate-policies-manufacturing-jobs/)
-* [Matt Gaetz Ethics Report](https://www.motherjones.com/politics/2024/11/matt-gaetz-ethics-report-house-speaker-mike-johnson-private-citizen-donald-trump-doj-nominee/)
+* [Dr. Oz](https://www.motherjones.com/politics/2022/10/how-dr-mehmet-oz-boosted-joseph-mercola-covid-misinformation/)
+* [Hurricane Helene](https://www.motherjones.com/politics/2024/11/the-north-carolina-gop-just-snuck-a-massive-anti-democratic-power-grab-into-a-hurricane-relief-bill/)
+* [Nancy Mace](https://www.motherjones.com/politics/2024/11/nancy-mace-sarah-mcbride-bathroom-bill-trans/)
+* [Elon Musk](https://www.motherjones.com/politics/2024/11/elon-musk-vivek-ramaswany-deparment-government-efficiency-pentagon-defense-audits-waste-wasteful-spending/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Trump’s Staff Picks](https://www.motherjones.com/politics/2024/11/brendan-carr-federal-communications-commission-donald-trump/)
-* [Trump’s Mass Deportation Plot](https://www.motherjones.com/politics/2024/11/trump-mass-deportations-military-national-emergency/)
-* [Climate Change](https://www.motherjones.com/politics/2024/11/trump-repeal-biden-climate-policies-manufacturing-jobs/)
-* [Matt Gaetz Ethics Report](https://www.motherjones.com/politics/2024/11/matt-gaetz-ethics-report-house-speaker-mike-johnson-private-citizen-donald-trump-doj-nominee/)
+* [Dr. Oz](https://www.motherjones.com/politics/2022/10/how-dr-mehmet-oz-boosted-joseph-mercola-covid-misinformation/)
+* [Hurricane Helene](https://www.motherjones.com/politics/2024/11/the-north-carolina-gop-just-snuck-a-massive-anti-democratic-power-grab-into-a-hurricane-relief-bill/)
+* [Nancy Mace](https://www.motherjones.com/politics/2024/11/nancy-mace-sarah-mcbride-bathroom-bill-trans/)
+* [Elon Musk](https://www.motherjones.com/politics/2024/11/elon-musk-vivek-ramaswany-deparment-government-efficiency-pentagon-defense-audits-waste-wasteful-spending/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
