@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/n-epidemie-van-vitamine-d-tekort-golft-over-de-wereld/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-kracht-van-een-ritueel/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
