@@ -130,17 +130,6 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 [Download Speedify](https://speedify.com/download/) 
 
-Upcoming Events
----------------
-
-Nov 20
-
-10:00 am - 11:00 am EST
-
-### [11/20 @ 10am EST – How do you BOND more than two internet connections? | Ask the CEO your tech questions](https://speedify.com/event/11-20-10am-est-how-do-you-bond-more-than-two-internet-connections-ask-the-ceo-your-tech-questions/ "11/20 @ 10am EST – How do you BOND more than two internet connections? | Ask the CEO your tech questions")
-
-[View Calendar](https://speedify.com/calendar/ "View more events.")
-
 #### Popular Posts
 
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
