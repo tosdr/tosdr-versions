@@ -404,7 +404,7 @@ Contact Us
 City Hall  
 210 Lottie Street  
 Bellingham, WA 98225  
-[+1 (360) 778-8000](tel:13607788000)  
+[+1 360-778-8000](tel:13607788000)  
 [info@cob.org](mailto:info@cob.org)
 
    [All City Contacts](https://cob.org/about/contacts)
