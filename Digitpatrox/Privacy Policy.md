@@ -20,16 +20,16 @@ Thursday, November 21 2024
 
 Latest
 
-* [TSA failed to meet pipeline cybersecurity recommendations, says US government watchdog](https://digitpatrox.com/tsa-failed-to-meet-pipeline-cybersecurity-recommendations-says-us-government-watchdog/)
-* [Update your hardware now – Computerworld](https://digitpatrox.com/update-your-hardware-now-computerworld/)
-* [The Best Music Visualizer App for Spotify](https://digitpatrox.com/the-best-music-visualizer-app-for-spotify/)
-* [Best Chef’s Knives – Consumer Reports](https://digitpatrox.com/best-chefs-knives-consumer-reports/)
-* [Don’t Buy a Gaming Headset, Buy Headphones and a Mic](https://digitpatrox.com/dont-buy-a-gaming-headset-buy-headphones-and-a-mic/)
-* [Microsoft unveils Azure AI Foundry to help businesses consolidate AI across their tech stack](https://digitpatrox.com/microsoft-unveils-azure-ai-foundry-to-help-businesses-consolidate-ai-across-their-tech-stack/)
-* [How To Delete a Page In Word In 5 Ways](https://digitpatrox.com/how-to-delete-a-page-in-word-in-5-ways/)
-* [Best Buy’s Black Friday sale is officially live — 27 deals I’m recommending to friends and family](https://digitpatrox.com/best-buys-black-friday-sale-is-officially-live-27-deals-im-recommending-to-friends-and-family/)
-* [Fintech giant Finastra investigates data breach after SFTP hack](https://digitpatrox.com/fintech-giant-finastra-investigates-data-breach-after-sftp-hack/)
-* [Microsoft tries to convince Windows 10 users to buy a new PC with full-screen prompts](https://digitpatrox.com/microsoft-tries-to-convince-windows-10-users-to-buy-a-new-pc-with-full-screen-prompts/)
+* [DOJ says Google must sell Chrome to crack open its search monopoly](https://digitpatrox.com/doj-says-google-must-sell-chrome-to-crack-open-its-search-monopoly/)
+* [This LEGO Harry Potter Hogwarts Castle Is Now at a Record Low This Black Friday!](https://digitpatrox.com/this-lego-harry-potter-hogwarts-castle-is-now-at-a-record-low-this-black-friday/)
+* [Download our Microsoft Copilot for Writing Cheat Sheet](https://digitpatrox.com/download-our-microsoft-copilot-for-writing-cheat-sheet/)
+* [Use Bluesky Network Analyzer to Find More Accounts to Follow](https://digitpatrox.com/use-bluesky-network-analyzer-to-find-more-accounts-to-follow/)
+* [The Best Way to Cook a Turkey](https://digitpatrox.com/the-best-way-to-cook-a-turkey/)
+* [Your Next Android Phone Upgrade Might Be Easier](https://digitpatrox.com/your-next-android-phone-upgrade-might-be-easier/)
+* [Security incident recovery times are over 7 months on average](https://digitpatrox.com/security-incident-recovery-times-are-over-7-months-on-average/)
+* [Microsoft Reveals Mini PC for Easy Access to Windows 365](https://digitpatrox.com/microsoft-reveals-mini-pc-for-easy-access-to-windows-365/)
+* [NYT Connections today hints and answers — Thursday, November 21 (#529)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-21-529/)
+* [Cyberattack at French hospital exposes health data of 750,000 patients](https://digitpatrox.com/cyberattack-at-french-hospital-exposes-health-data-of-750000-patients/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/PDPvdeBBkc9ywEyKGHnwCk-1200-80.jpg)](https://digitpatrox.com/tsa-failed-to-meet-pipeline-cybersecurity-recommendations-says-us-government-watchdog/)
+* [![](https://cdn.vox-cdn.com/thumbor/NxAqwJ_OKUkXmHRg817_RF6vfuI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg)](https://digitpatrox.com/doj-says-google-must-sell-chrome-to-crack-open-its-search-monopoly/)
     
-    [TSA failed to meet pipeline cybersecurity recommendations, says US government watchdog](https://digitpatrox.com/tsa-failed-to-meet-pipeline-cybersecurity-recommendations-says-us-government-watchdog/)
+    [DOJ says Google must sell Chrome to crack open its search monopoly](https://digitpatrox.com/doj-says-google-must-sell-chrome-to-crack-open-its-search-monopoly/)
     
-    10 minutes ago
+    5 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609674-0-86609300-1732121250-shutterstock_editorial_1799864374.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/update-your-hardware-now-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Lego-Black-Friday.jpg)](https://digitpatrox.com/this-lego-harry-potter-hogwarts-castle-is-now-at-a-record-low-this-black-friday/)
     
-    [Update your hardware now – Computerworld](https://digitpatrox.com/update-your-hardware-now-computerworld/)
+    [This LEGO Harry Potter Hogwarts Castle Is Now at a Record Low This Black Friday!](https://digitpatrox.com/this-lego-harry-potter-hogwarts-castle-is-now-at-a-record-low-this-black-friday/)
     
-    30 minutes ago
+    21 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JD5J3ADWREE75HT0AJKFGW36/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-music-visualizer-app-for-spotify/)
+* [![](https://us.resources.computerworld.com/wp-content/uploads/2024/11/default_image1731963052.8386.png)](https://digitpatrox.com/download-our-microsoft-copilot-for-writing-cheat-sheet/)
     
-    [The Best Music Visualizer App for Spotify](https://digitpatrox.com/the-best-music-visualizer-app-for-spotify/)
+    [Download our Microsoft Copilot for Writing Cheat Sheet](https://digitpatrox.com/download-our-microsoft-copilot-for-writing-cheat-sheet/)
     
-    58 minutes ago
+    2 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731453489/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-Knives-Chefs-11-24)](https://digitpatrox.com/best-chefs-knives-consumer-reports/)
+* [![](https://lifehacker.com/imagery/articles/01JD5VVPSGFN4ZC8MNSPVRS30C/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/use-bluesky-network-analyzer-to-find-more-accounts-to-follow/)
     
-    [Best Chef’s Knives – Consumer Reports](https://digitpatrox.com/best-chefs-knives-consumer-reports/)
+    [Use Bluesky Network Analyzer to Find More Accounts to Follow](https://digitpatrox.com/use-bluesky-network-analyzer-to-find-more-accounts-to-follow/)
     
-    1 hour ago
+    3 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/rsz_1asd.jpg)](https://digitpatrox.com/dont-buy-a-gaming-headset-buy-headphones-and-a-mic/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732028836/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-The-Best-Way-to-Cook-a-Turkey-1124)](https://digitpatrox.com/the-best-way-to-cook-a-turkey/)
     
-    [Don’t Buy a Gaming Headset, Buy Headphones and a Mic](https://digitpatrox.com/dont-buy-a-gaming-headset-buy-headphones-and-a-mic/)
+    [The Best Way to Cook a Turkey](https://digitpatrox.com/the-best-way-to-cook-a-turkey/)
     
-    1 hour ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 minutes ago
+* [5 minutes ago
     
-    ### TSA failed to meet pipeline cybersecurity recommendations, says US government watchdog](https://digitpatrox.com/tsa-failed-to-meet-pipeline-cybersecurity-recommendations-says-us-government-watchdog/)
-* [30 minutes ago
+    ### DOJ says Google must sell Chrome to crack open its search monopoly](https://digitpatrox.com/doj-says-google-must-sell-chrome-to-crack-open-its-search-monopoly/)
+* [21 minutes ago
     
-    ### Update your hardware now – Computerworld](https://digitpatrox.com/update-your-hardware-now-computerworld/)
-* [58 minutes ago
+    ### This LEGO Harry Potter Hogwarts Castle Is Now at a Record Low This Black Friday!](https://digitpatrox.com/this-lego-harry-potter-hogwarts-castle-is-now-at-a-record-low-this-black-friday/)
+* [2 hours ago
     
-    ### The Best Music Visualizer App for Spotify](https://digitpatrox.com/the-best-music-visualizer-app-for-spotify/)
+    ### Download our Microsoft Copilot for Writing Cheat Sheet](https://digitpatrox.com/download-our-microsoft-copilot-for-writing-cheat-sheet/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [6 days ago
     
-    ### REI early Black Friday sale — 11 deals I’d buy right now, starting at $7](https://digitpatrox.com/rei-early-black-friday-sale-11-deals-id-buy-right-now-starting-at-7/)
-* [2 weeks ago
+    ### Best 33-Inch-Wide Refrigerators – Consumer Reports](https://digitpatrox.com/best-33-inch-wide-refrigerators-consumer-reports/)
+* [September 12, 2024
     
-    ### Windows Server 2025 is now available – but Microsoft warns admins to watch out for three major bugs, including one that causes the dreaded blue screen of death](https://digitpatrox.com/windows-server-2025-is-now-available-but-microsoft-warns-admins-to-watch-out-for-three-major-bugs-including-one-that-causes-the-dreaded-blue-screen-of-death/)
-* [4 weeks ago
+    ### How to watch England vs Australia live stream 2nd T20i 2024](https://digitpatrox.com/how-to-watch-england-vs-australia-live-stream-2nd-t20i-2024/)
+* [7 hours ago
     
-    ### The University of Manchester avoided disaster in last year’s cyber attack – now it wants to set an industry example](https://digitpatrox.com/the-university-of-manchester-avoided-disaster-in-last-years-cyber-attack-now-it-wants-to-set-an-industry-example/)
+    ### Update your hardware now – Computerworld](https://digitpatrox.com/update-your-hardware-now-computerworld/)
 
 Last Modified Topics
 
-* [2 hours ago
+* [4 hours ago
     
-    ### How To Delete a Page In Word In 5 Ways](https://digitpatrox.com/how-to-delete-a-page-in-word-in-5-ways/)
-* [2 hours ago
+    ### Security incident recovery times are over 7 months on average](https://digitpatrox.com/security-incident-recovery-times-are-over-7-months-on-average/)
+* [4 hours ago
     
-    ### Best Buy’s Black Friday sale is officially live — 27 deals I’m recommending to friends and family](https://digitpatrox.com/best-buys-black-friday-sale-is-officially-live-27-deals-im-recommending-to-friends-and-family/)
-* [3 hours ago
+    ### Microsoft Reveals Mini PC for Easy Access to Windows 365](https://digitpatrox.com/microsoft-reveals-mini-pc-for-easy-access-to-windows-365/)
+* [4 hours ago
     
-    ### Fintech giant Finastra investigates data breach after SFTP hack](https://digitpatrox.com/fintech-giant-finastra-investigates-data-breach-after-sftp-hack/)
+    ### NYT Connections today hints and answers — Thursday, November 21 (#529)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-21-529/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
