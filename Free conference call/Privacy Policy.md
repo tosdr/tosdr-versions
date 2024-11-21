@@ -6,28 +6,7 @@ Toggle navigation [![FreeConferenceCall.com Logo](/images/application_wide/gener
 
 Sign Up
 
-* [Features](#)
-    
-    #### Features
-    
-    * [Audio Conferencing HD audio with up to 1,000 participants](https://www.freeconferencecall.com/audio-conferencing "Audio Conferencing")
-    * [Video Conferencing HD video in gallery or active speaker view](https://www.freeconferencecall.com/video-conferencing "Video Conferencing")
-    * [Screen Sharing Share your desktop or mobile view](https://www.freeconferencecall.com/screen-sharing "Screen Sharing")
-    * [Recordings Save important conversations into an archive](https://www.freeconferencecall.com/free-recordings "Recordings")
-    * [International Connect with other countries](https://www.freeconferencecall.com/international-conferencing "International")
-    * [Meetings Meet with your team anyplace, anytime](https://www.freeconferencecall.com/meetings "Meetings")
-    * [More Features Enhance your conferencing experience](https://www.freeconferencecall.com/features "More Features")
-    * [Get Our Desktop App Access conferencing tools on any desktop or laptop](https://www.freeconferencecall.com/downloads "Get Our Desktop App")
-    * [Get Our Mobile App Join and host meetings on the go](https://www.freeconferencecall.com/apps "Get Our Mobile App")
-    
-    #### Upgrades
-    
-    * [One Number Get text reminders and eliminate access code](https://www.freeconferencecall.com/one-number-3 "One Number")
-    * [Custom Greeting Welcome participants to your meeting](https://www.freeconferencecall.com/custom-greeting-2 "Custom Greeting")
-    * [Custom Hold Music Control the atmosphere in the waiting room](https://www.freeconferencecall.com/features#upgrades-section "Custom Hold Music")
-    * [Extra Storage Up to 40GB available for recorded meetings](https://www.freeconferencecall.com/features#upgrades-section "Extra Storage")
-    * [Toll-Free Give U.S. callers an (800) number](https://www.freeconferencecall.com/toll-free "Toll-Free")
-    
+* [Features](https://www.freeconferencecall.com/features "Features")
 * [Pricing](https://www.freeconferencecall.com/pricing "Pricing")
 * [Your Impact](https://www.freeconferencecall.com/how-people-use-free-conference-call "Your Impact")
 * [More](# "More")
