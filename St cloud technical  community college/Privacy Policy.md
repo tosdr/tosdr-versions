@@ -10,19 +10,26 @@
 
 St. Cloud Technical & Community College is firmly committed to maintaining appropriate data privacy; our data gathering and dissemination are governed by state and federal laws, including the [Minnesota Government Data Practices Act, Minnesota Statutes, Chapter 13](http://www.revisor.leg.state.mn.us/stats/13/).
 
-The following discloses our data practices policy for all St. Cloud Technical & Community College sites.
+The following discloses our data practices policy for all St. Cloud Technical & Community College sites and CRM communications.
 
 For security purposes and to ensure that the web site remains available to all users, we use software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
 [Student Data Practices Policy](https://sctcc.edu/data-privacy)
 
-### Online forms
+Online forms
+------------
 
 The information that you provide may be classified as private by law. You are not legally required to provide this information, but if you do not supply this information on a contact, help or registration form, we will be unable to contact you. Contact information missing from a registration form may mean that your registration will be incomplete and may not be able to be processed.
 
 The information you provide will be available to our staff to allow them to perform their work-related duties.
 
-### Server logs
+Text Messaging
+--------------
+
+We collect information such as names, phone numbers, high schools, and addresses when users opt in to our services. This information is used to sent text messages, manage your account, and improve our services that we provide to you and future students. This includes personalizing your Admissions and Student experience and providing support during your time at SCTCC. Your information will not be shared with third parties for marketing or promotional purposes. If you wish to be removed from receiving future text messages, you may opt out by texting STOP, QUIT, END, OPT-OUT, CANCEL, UNSUBSCRIBE, or similar.
+
+Server logs
+-----------
 
 We store only the following information:
 
@@ -34,9 +41,10 @@ We store only the following information:
 
 We use this information to determine the number of visitors to the site and to different sections of the site, to monitor system performance, to assess technical design requirements, and to design our site to support our users' needs. We only analyze the above information in aggregate; we cannot and do not use the information in our server logs to identify an individual.
 
-### Cookies
+Cookies
+-------
 
-We use “cookies” to customize your browsing experience. “Cookies” are pieces of information stored by your web browser on your computer on behalf of a website and returned to the website on request.   
+We use “cookies” to customize your browsing experience. “Cookies” are pieces of information stored by your web browser on your computer on behalf of a website and returned to the website on request. 
 
 We may also use cookies to evaluate our website and to track advertising campaign performance from banner ads, opt-in e-mails, and third-party advertising services. These cookies and tracking pixels contain an ID number that allows us to track the pages you’ve visited within our website.  
 
