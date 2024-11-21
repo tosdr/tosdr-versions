@@ -95,6 +95,68 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Days of Praise
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/pride-goes-before-destruction)
+
+[Pride Goes Before Destruction](https://www.icr.org/article/pride-goes-before-destruction/)
+
+“Pride goeth before destruction, and an haughty spirit before a fall.” (Proverbs 16:18) This is the middle verse of the entire book...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/christian-freedom)
+
+[Christian Freedom](https://www.icr.org/article/christian-freedom/)
+
+“For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.”...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/truly-converted)
+
+[Be Truly Converted](https://www.icr.org/article/truly-converted/)
+
+“Repent ye therefore, and be converted, that your sins may be blotted out, when the times of refreshing shall come from the presence of the...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472152/file.jpg)
+
+Biblical Creationism](https://store.icr.org/dr-henry-morris-biblical-creationism.html)
+
+$14.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32689/file.jpg)
+
+The Henry Morris Study Bible - Imitation Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-imita.html)
+
+$59.99
+
+$69.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
+
+The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32640/file.jpg)
+
+The Genesis Flood, 50th Anniversary Edition](https://store.icr.org/dr-henry-morris-the-genesis-flood-50th-anniversary.html)
+
+$12.99
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
+
+The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
+
+$16.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
