@@ -4,7 +4,7 @@
     
     Shop
     
-    * [Black Friday](https://www.philips-hue.com/en-us/products/promotions/black-friday-cyber-monday-deals)
+    * [New Year sale](https://www.philips-hue.com/en-us/products/promotions/light-up-your-resolutions)
     * [New](https://www.philips-hue.com/en-us/products/promotions/newest-philips-hue-products)
     * [Exclusives](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive)
     * [Top sellers](https://www.philips-hue.com/en-us/products/all-products?sort=most-sold)
