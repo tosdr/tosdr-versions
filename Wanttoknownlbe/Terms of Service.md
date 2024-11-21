@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/us-congreslid-erdogan-of-vs-uit-de-navo/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/hoezo-cbd-illegaal/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
