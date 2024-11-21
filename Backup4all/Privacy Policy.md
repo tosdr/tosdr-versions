@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Exoscale using ...](https://www.backup4all.com/how-to-back-up-data-files-from-exoscale-using-backup4all-kb.html)  
+* [How to restore a backup to Google Cloud Stora ...](https://www.backup4all.com/how-to-restore-a-backup-to-google-cloud-storage-kb.html)  
     
-* [How to back up and restore the Backup4all con ...](https://www.backup4all.com/how-to-back-up-and-restore-the-backup4all-configurations-kb.html)  
+* [How to create an incremental backup](https://www.backup4all.com/how-to-create-an-incremental-backup-kb.html)  
     
-* [How to backup your data to Cisco](https://www.backup4all.com/how-to-backup-your-data-to-cisco-kb.html)  
+* [How to restore a backup from Azure](https://www.backup4all.com/how-to-restore-a-backup-from-azure-kb.html)  
     
-* [How to restore a backup from Amazon S3](https://www.backup4all.com/how-to-restore-a-backup-from-amazon-s3-kb.html)  
+* [How to install Backup4all in a different star ...](https://www.backup4all.com/how-to-install-backup4all-in-a-different-start-menu-folder-kb.html)  
     
-* [How to back up data files from DDN using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ddn-using-backup4all-kb.html)  
+* [How to backup your data to Caringo Swarm](https://www.backup4all.com/how-to-backup-your-data-to-caringo-swarm-kb.html)  
     
 
 Choose language:
