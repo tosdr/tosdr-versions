@@ -468,7 +468,7 @@ We are committed to earning and maintaining trust by honoring the following prin
 GLOBAL PRIVACY POLICY
 =====================
 
-Last Updated : 11/12/2024
+Last Updated : 11/21/2024
 
 [](javascript:void(0))
 
@@ -944,13 +944,6 @@ This portion of our Policy only applies to residents of the state of Oregon. Thi
 
 Read more Read less
 
-Quebec
-------
-
-If you reside in Quebec, you may request access to, or correction of, the personal information that we have collected about you as well as exercise other specific data privacy rights provided by law. You may exercise any of these rights by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available [here](https://privacyportal-de.onetrust.com/webform/99096bff-8366-4b94-a7e2-97f3efa52243/7bd88bdd-3733-4bc4-97a8-7c84a0687c07).
-
-Our Data Privacy Officer may be contacted at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
-
 Texas
 -----
 
@@ -1040,6 +1033,13 @@ You can request to exercise such rights using the information described in the [
 If your request to exercise a right under the MHMD Act is denied, you may appeal that decision by contacting our Global Privacy Officer. If your appeal is unsuccessful, you can raise a concern or lodge a complaint with the Washington State Attorney General at [www.atg.wa.gov/file-complaint.](https://www.atg.wa.gov/file-complaint)
 
 Read more Read less
+
+Quebec
+------
+
+If you reside in Quebec, you may request access to, or correction of, the personal information that we have collected about you as well as exercise other specific data privacy rights provided by law. You may exercise any of these rights by emailing us at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection), calling us at 1-888-525-8373, or through our portal available [here](https://privacyportal-de.onetrust.com/webform/99096bff-8366-4b94-a7e2-97f3efa52243/7bd88bdd-3733-4bc4-97a8-7c84a0687c07).
+
+Our Data Privacy Officer may be contacted at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection).
 
 Argentina
 ---------
@@ -1158,6 +1158,24 @@ If you reside in Brazil, this portion of our Policy applies to you.
 
 Read more Read less
 
+China Hong Kong
+---------------
+
+If you reside in Hong Kong, you may request access to or correction of the personal information that we have collected about you. To access your exercise those rights, please contact us at:
+
+  
+
+Kimberly -Clark (Hong Kong) Ltd  
+G.P.O. Box 8538, Hong Kong  
+Phone：852- 2333-3543  
+Fax：852- 2362-6309  
+
+  
+
+We will respond to reasonable requests as soon as practicable, and in any event, within the time limits prescribed by law. You may choose not to provide us with your personal information where applicable. However, if you choose not to provide your personal information, you may not be able to use the services.
+
+Read more Read less
+
 China Mainland
 --------------
 
@@ -1208,6 +1226,51 @@ Consumer service Number: 800-800-2473; Fax: 506-239-0805
 
 Read more Read less
 
+Ecuador
+-------
+
+If you reside in Ecuador, you have rights connected with the processing of your personal information, such as the rights of access, deletion, rectification and updating, opposition, cancellation, limitation of processing and to revoke prior consent. You also have the right to request your personal information in a portable format. To exercise your rights, please contact us at:
+
+  
+
+Kimberly-Clark Ecuador S.A.  
+Mapasingue Este  
+Calle 5ta y Av Las Aguas  
+Guayaquil, GUAYAS  
+Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)  
+Consumer service number: 1800200500  
+Mobile +593994987924  
+Fax: 593-22-820508
+
+  
+
+If you remain dissatisfied, you have the right to contact the Data Protection Superintendency.
+
+Read more Read less
+
+India
+-----
+
+If you would like to review, correct, update, port or delete the personal information that we hold concerning you, or if have any questions regarding treatment of your privacy by us, please contact us at:
+
+  
+
+Privacy Officer  
+Kimberly-Clark India Pvt. Ltd  
+Address: Phoenix Market City, Art Guild House, A Wing, 3rd Floor, Office No- 9, Kamani, Mumbai Maharashtra, 400070  
+Phone: (022) 33220000  
+Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
+
+  
+
+We may charge you a small fee to cover any administrative costs that we may incur in providing personal information to you.
+
+  
+
+You may also opt out of receiving marketing communications we send to you about our products and services. However, please note that when you do so, it may affect the services you have chosen to receive from Kimberly-Clark where accepting the communications is a condition of receiving the services.
+
+Read more Read less
+
 Indonesia
 ---------
 
@@ -1238,141 +1301,6 @@ We will process your personal information within the necessary scope in a lawful
 * comply with legal requirements, including cooperating with law enforcement, government authorities, or governmental mandate (but when we do, we will disclose only the minimum amount of information required by law).
 
 You may also withdraw your consent for us to continue collecting, using, disclosing and processing your personal information. However, if you do so, it may not be possible for us to fulfill the purposes for which we require the personal information, including providing you with products and/or services.
-
-Read more Read less
-
-The Dominican Republic
-----------------------
-
-If you reside in the Dominican Republic, you may request deletion, access to or correction of the personal information that we have collected about you. To exercise those rights, please contact:
-
-  
-
-Kimberly-Clark Puerto Rico & Caribbean Operations  
-P. O. Box 191859  
-San Juan  
-00919-1859  
-Puerto Rico  
-Phone: 787-785-3625  
-Fax: 787-740-2025
-
-Read more Read less
-
-Ecuador
--------
-
-If you reside in Ecuador, you have rights connected with the processing of your personal information, such as the rights of access, deletion, rectification and updating, opposition, cancellation, limitation of processing and to revoke prior consent. You also have the right to request your personal information in a portable format. To exercise your rights, please contact us at:
-
-  
-
-Kimberly-Clark Ecuador S.A.  
-Mapasingue Este  
-Calle 5ta y Av Las Aguas  
-Guayaquil, GUAYAS  
-Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)  
-Consumer service number: 1800200500  
-Mobile +593994987924  
-Fax: 593-22-820508
-
-  
-
-If you remain dissatisfied, you have the right to contact the Data Protection Superintendency.
-
-Read more Read less
-
-The European Economic Area, Switzerland the United Kingdom
-----------------------------------------------------------
-
-If you are a resident of the EEA (specifically, any country in the European Union, Liechtenstein, Norway, or Iceland), a resident of the United Kingdom (“UK”) or a resident of Switzerland, this section applies to you, and it explains what retention periods for your personal information, international data transfers, automated decision making, and rights you may exercise in relation to your personal information.
-
-  
-
-**Retention Period.** We retain your personal information for as long as necessary to fulfill the purposes for which the personal information was collected as outlined in this Policy. The following retention periods will apply to the processing of your personal information:
-
-* Contractual purposes: retained during the provision of the Site plus a period of 10 years after the termination or withdrawal of such contract, except when the retention of the data is necessary to respond or to file legal actions, upon request of the competent authorities or in compliance with the applicable laws; and
-  
-* Marketing purposes: retained for a period of 24 months after your relationship with us ends or until you withdraw your consent;
-  
-
-**International Data Transfers.** If personal information is transferred between countries, we take commercially reasonable efforts to protect such personal information, such as by entering into Standard Contractual Clauses as approved by the European Commission.
-
-  
-
-**Automated Decision Making.** We do not engage in any automated decision with a legally significant effect with respect to the personal information subject to this Policy without your consent.
-
-  
-
-**Rights Regarding Personal Information.** Certain data protection law gives rights to individuals in respect of personal information that organizations hold about them. In particular, you can exercise the following rights:
-
-* to obtain from us confirmation of the existence of personal information and to be informed of its source, verify its accuracy and request its integration, updating, or amendment;
-  
-* request the erasure, anonymization or restriction of the processing of data processed in breach of the applicable laws;
-  
-* object in whole or in part, on legitimate grounds, to the processing of the data;
-  
-* to withdraw your consent to the processing of the data (if and to the extent such a consent is necessary); and
-  
-* In addition to the above, you will also have the right to request us to limit the processing of your personal information where:  
-    * you contest the accuracy of the personal information until we have taken sufficient steps to correct or verify its accuracy;
-      
-    * the processing is unlawful but you do not want us to erase the data;
-      
-    * we no longer need your data for the purposes of the processing, but you require it for the establishment, exercise or defense of legal claims; or
-      
-    * you objected to processing justified on legitimate interests, pending verification as to whether we have compelling legitimate grounds to continue processing;
-      
-    * you receive an electronic copy of the data, if you would like to port data to yourself or a different provider, when we are relying upon your consent or the fact that the processing is necessary for the provision of the services and the data is processed by automatic means; and/or
-      
-    * you lodge a complaint with the relevant data protection supervisory authority.
-
-  
-
-If you would like to exercise your rights, please contact us using the contact information set out below. Please note that requests to exercise data protection rights will be assessed by Kimberly-Clark on a case-by-case basis. There may be circumstances where we are not legally required to comply with your request because of exemptions provided for in data protection legislation. We do not charge you a fee for exercising any of your rights described above.
-
-  
-
-If you have any questions, please reach out to our Lead EU Data Protection Officer at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection). If you are still dissatisfied, you have the right to complain to your Data Protection Authority; however, all complaints should be raised with us in the first instance. Contact details for data protection authorities in the EEA are available [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en); contact details for the data protection authority in the UK are available [here](https://ico.org.uk/); and contact details for the Swiss data protection authority are available [here](https://www.edoeb.admin.ch/edoeb/en/home.html).
-
-Read more Read less
-
-China Hong Kong
----------------
-
-If you reside in Hong Kong, you may request access to or correction of the personal information that we have collected about you. To access your exercise those rights, please contact us at:
-
-  
-
-Kimberly -Clark (Hong Kong) Ltd  
-G.P.O. Box 8538, Hong Kong  
-Phone：852- 2333-3543  
-Fax：852- 2362-6309  
-
-  
-
-We will respond to reasonable requests as soon as practicable, and in any event, within the time limits prescribed by law. You may choose not to provide us with your personal information where applicable. However, if you choose not to provide your personal information, you may not be able to use the services.
-
-Read more Read less
-
-India
------
-
-If you would like to review, correct, update, port or delete the personal information that we hold concerning you, or if have any questions regarding treatment of your privacy by us, please contact us at:
-
-  
-
-Privacy Officer  
-Kimberly-Clark India Pvt. Ltd  
-Address: Phoenix Market City, Art Guild House, A Wing, 3rd Floor, Office No- 9, Kamani, Mumbai Maharashtra, 400070  
-Phone: (022) 33220000  
-Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
-
-  
-
-We may charge you a small fee to cover any administrative costs that we may incur in providing personal information to you.
-
-  
-
-You may also opt out of receiving marketing communications we send to you about our products and services. However, please note that when you do so, it may affect the services you have chosen to receive from Kimberly-Clark where accepting the communications is a condition of receiving the services.
 
 Read more Read less
 
@@ -1748,6 +1676,78 @@ Phone: 8862-77372888
 
 Read more Read less
 
+The Dominican Republic
+----------------------
+
+If you reside in the Dominican Republic, you may request deletion, access to or correction of the personal information that we have collected about you. To exercise those rights, please contact:
+
+  
+
+Kimberly-Clark Puerto Rico & Caribbean Operations  
+P. O. Box 191859  
+San Juan  
+00919-1859  
+Puerto Rico  
+Phone: 787-785-3625  
+Fax: 787-740-2025
+
+Read more Read less
+
+The European Economic Area, Switzerland the United Kingdom
+----------------------------------------------------------
+
+If you are a resident of the EEA (specifically, any country in the European Union, Liechtenstein, Norway, or Iceland), a resident of the United Kingdom (“UK”) or a resident of Switzerland, this section applies to you, and it explains what retention periods for your personal information, international data transfers, automated decision making, and rights you may exercise in relation to your personal information.
+
+  
+
+**Retention Period.** We retain your personal information for as long as necessary to fulfill the purposes for which the personal information was collected as outlined in this Policy. The following retention periods will apply to the processing of your personal information:
+
+* Contractual purposes: retained during the provision of the Site plus a period of 10 years after the termination or withdrawal of such contract, except when the retention of the data is necessary to respond or to file legal actions, upon request of the competent authorities or in compliance with the applicable laws; and
+  
+* Marketing purposes: retained for a period of 24 months after your relationship with us ends or until you withdraw your consent;
+  
+
+**International Data Transfers.** If personal information is transferred between countries, we take commercially reasonable efforts to protect such personal information, such as by entering into Standard Contractual Clauses as approved by the European Commission.
+
+  
+
+**Automated Decision Making.** We do not engage in any automated decision with a legally significant effect with respect to the personal information subject to this Policy without your consent.
+
+  
+
+**Rights Regarding Personal Information.** Certain data protection law gives rights to individuals in respect of personal information that organizations hold about them. In particular, you can exercise the following rights:
+
+* to obtain from us confirmation of the existence of personal information and to be informed of its source, verify its accuracy and request its integration, updating, or amendment;
+  
+* request the erasure, anonymization or restriction of the processing of data processed in breach of the applicable laws;
+  
+* object in whole or in part, on legitimate grounds, to the processing of the data;
+  
+* to withdraw your consent to the processing of the data (if and to the extent such a consent is necessary); and
+  
+* In addition to the above, you will also have the right to request us to limit the processing of your personal information where:  
+    * you contest the accuracy of the personal information until we have taken sufficient steps to correct or verify its accuracy;
+      
+    * the processing is unlawful but you do not want us to erase the data;
+      
+    * we no longer need your data for the purposes of the processing, but you require it for the establishment, exercise or defense of legal claims; or
+      
+    * you objected to processing justified on legitimate interests, pending verification as to whether we have compelling legitimate grounds to continue processing;
+      
+    * you receive an electronic copy of the data, if you would like to port data to yourself or a different provider, when we are relying upon your consent or the fact that the processing is necessary for the provision of the services and the data is processed by automatic means; and/or
+      
+    * you lodge a complaint with the relevant data protection supervisory authority.
+
+  
+
+If you would like to exercise your rights, please contact us using the contact information set out below. Please note that requests to exercise data protection rights will be assessed by Kimberly-Clark on a case-by-case basis. There may be circumstances where we are not legally required to comply with your request because of exemptions provided for in data protection legislation. We do not charge you a fee for exercising any of your rights described above.
+
+  
+
+If you have any questions, please reach out to our Lead EU Data Protection Officer at [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection). If you are still dissatisfied, you have the right to complain to your Data Protection Authority; however, all complaints should be raised with us in the first instance. Contact details for data protection authorities in the EEA are available [here](https://edpb.europa.eu/about-edpb/about-edpb/members_en); contact details for the data protection authority in the UK are available [here](https://ico.org.uk/); and contact details for the Swiss data protection authority are available [here](https://www.edoeb.admin.ch/edoeb/en/home.html).
+
+Read more Read less
+
 Trinidad and Tobago
 -------------------
 
@@ -1808,21 +1808,6 @@ Dubai, UAE
 
 Read more Read less
 
-Uruguay
--------
-
-If you reside in Uruguay, you may request deletion, access to, or correction of the personal information that we have collected about you. To exercise those rights, please contact us at:
-
-  
-
-Kimberly-Clark Uruguay S.A.  
-Camino Carrasco 5975, Montevideo  
-Uruguay  
-Phone: (598-2) 2525 0105 / 0004-054-281  
-Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
-
-Read more Read less
-
 Ukraine
 -------
 
@@ -1841,6 +1826,21 @@ Kiev
 01004  
 Ukraine  
 Phone: 380-44-490-5810
+
+Read more Read less
+
+Uruguay
+-------
+
+If you reside in Uruguay, you may request deletion, access to, or correction of the personal information that we have collected about you. To exercise those rights, please contact us at:
+
+  
+
+Kimberly-Clark Uruguay S.A.  
+Camino Carrasco 5975, Montevideo  
+Uruguay  
+Phone: (598-2) 2525 0105 / 0004-054-281  
+Email: [\[email protected\]](https://www.kimberly-clark.com/cdn-cgi/l/email-protection)
 
 Read more Read less
 
