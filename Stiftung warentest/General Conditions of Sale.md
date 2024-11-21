@@ -585,21 +585,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
+* [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
+* [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
+* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
-* [Herren-Nass­rasierer im Test: Glatte Haut, satte Preise](https://www.test.de/herren-nassrasierer-test-4175138-0/ "Herren-Nassrasierer im Test - Glatte Haut, satte Preise")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
-* [Dispozinsen im Vergleich: Alle Banken und Sparkassen im Über­blick](https://www.test.de/Dispozinsen-6095517-0/ "Dispozinsen im Vergleich - Alle Banken und Sparkassen im Überblick")
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
 
 test.de entdecken
 
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Black­rock Emerging Europe: Black­rock teilt Fonds mit russischen Aktien auf](https://www.test.de/Fonds-mit-russischen-Aktien-Fonds-mit-Russlandbezug-wird-aufgeteilt-6112397-0/ "Blackrock Emerging Europe - Blackrock teilt Fonds mit russischen Aktien auf")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
 
 Fußbereich
 
@@ -2720,21 +2720,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
+* [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
+* [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
+* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
-* [Herren-Nass­rasierer im Test: Glatte Haut, satte Preise](https://www.test.de/herren-nassrasierer-test-4175138-0/ "Herren-Nassrasierer im Test - Glatte Haut, satte Preise")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
-* [Dispozinsen im Vergleich: Alle Banken und Sparkassen im Über­blick](https://www.test.de/Dispozinsen-6095517-0/ "Dispozinsen im Vergleich - Alle Banken und Sparkassen im Überblick")
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
 
 test.de entdecken
 
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Black­rock Emerging Europe: Black­rock teilt Fonds mit russischen Aktien auf](https://www.test.de/Fonds-mit-russischen-Aktien-Fonds-mit-Russlandbezug-wird-aufgeteilt-6112397-0/ "Blackrock Emerging Europe - Blackrock teilt Fonds mit russischen Aktien auf")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2776,39 +2776,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
+* [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
+* [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
+* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
-* [Herren-Nass­rasierer im Test: Glatte Haut, satte Preise](https://www.test.de/herren-nassrasierer-test-4175138-0/ "Herren-Nassrasierer im Test - Glatte Haut, satte Preise")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
-* [Dispozinsen im Vergleich: Alle Banken und Sparkassen im Über­blick](https://www.test.de/Dispozinsen-6095517-0/ "Dispozinsen im Vergleich - Alle Banken und Sparkassen im Überblick")
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
 
 test.de entdecken
 
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Black­rock Emerging Europe: Black­rock teilt Fonds mit russischen Aktien auf](https://www.test.de/Fonds-mit-russischen-Aktien-Fonds-mit-Russlandbezug-wird-aufgeteilt-6112397-0/ "Blackrock Emerging Europe - Blackrock teilt Fonds mit russischen Aktien auf")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
 
 Neueste Tests
 
+* [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
+* [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
+* [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
+* [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
-* [Herren-Nass­rasierer im Test: Glatte Haut, satte Preise](https://www.test.de/herren-nassrasierer-test-4175138-0/ "Herren-Nassrasierer im Test - Glatte Haut, satte Preise")
-* [ETF-Sparplan-Vergleich: So einfach und günstig geht ETF-Sparen](https://www.test.de/ETF-Sparplan-Vergleich-5015866-0/ "ETF-Sparplan-Vergleich - So einfach und günstig geht ETF-Sparen")
-* [Dispozinsen im Vergleich: Alle Banken und Sparkassen im Über­blick](https://www.test.de/Dispozinsen-6095517-0/ "Dispozinsen im Vergleich - Alle Banken und Sparkassen im Überblick")
-* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
 
 test.de entdecken
 
-* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
-* [Nahrungs­ergän­zungs­mittel für Stillende: Viele bieten nicht, was sie sollten](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Stillende-Viele-bieten-nicht-was-sie-sollten-6017290-0/ "Nahrungsergänzungsmittel für Stillende - Viele bieten nicht, was sie sollten")
-* [Test Frisch­halteboxen: Glas schlägt Plastik](https://www.test.de/Test-Frischhalteboxen-Glas-schlaegt-Plastik-6052991-0/ "Test Frischhalteboxen - Glas schlägt Plastik")
-* [Black­rock Emerging Europe: Black­rock teilt Fonds mit russischen Aktien auf](https://www.test.de/Fonds-mit-russischen-Aktien-Fonds-mit-Russlandbezug-wird-aufgeteilt-6112397-0/ "Blackrock Emerging Europe - Blackrock teilt Fonds mit russischen Aktien auf")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Daten­handel: Portal Finanzen.de verliert vor Gericht](https://www.test.de/Datenhandel-Portal-Finanzende-verliert-vor-Gericht-6010877-0/ "Datenhandel - Portal Finanzen.de verliert vor Gericht")
+* [Riester-Rente: Sehr hoher Verlust bei Anbieter­wechsel](https://www.test.de/Riester-Rente-Sehr-hoher-Verlust-bei-Anbieterwechsel-5989118-0/ "Riester-Rente - Sehr hoher Verlust bei Anbieterwechsel")
 
 Service Stiftung Warentest
 
