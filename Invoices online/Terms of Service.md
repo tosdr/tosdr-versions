@@ -196,57 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Hugo van Sittert
+Kobus Venter
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=175372060)  
-Electro-Heat
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=118135915)  
+SLOANE STAR MEAT MARKET
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=37580222)  
-Itroniq (Pty) Ltd
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=100084607)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=50115254)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=8367995)  
-Karino Merinos ( PTY ) LTD
-
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=87926476)  
-Cooper Logistics (Pty) Ltd
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=116443579)  
-Forgotten Goods (Pty) Ltd
-
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=203259222)  
-kidoscabbie
-
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=37203920)  
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=80991851)  
 African Roots
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=98529938)  
-Multi CNC Solutions CC
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=114597715)  
+Henry's Home Renovations
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=46186299)  
-RADIO TYGERBERG 104FM NPC
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=75125999)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=119385068)  
-Hydroworld T/A Milliqua
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=25213707)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=165193534)  
-Skinz Printing & Branding
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=86024737)  
+Electro-Heat
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=20720019)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=110544418)  
+NEW BEGINNINGS DESIGNS
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=182359852)  
-UMVIKELI PRIVATE SECURITY
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=123628591)  
+LEO DEVELOPMENT GROUP
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=3f2dad91351b2ef5aceac5a9bcf2c155ada1c81722d35fa08c8bc1ff9125d453&c=181897162)  
-Echo Recording Studio cc
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=203245379)  
+kidoscabbie
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=108802484)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=210643582)  
+Digifax Pty) Ltd t/a Findfish
+
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=53216071)  
+Nilbet T/A Waterman
+
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=31547721)  
+TechnoDezi PTY(LTD)
+
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=60280756)  
+Wiselink Broadband Dundee
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
