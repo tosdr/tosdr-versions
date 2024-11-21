@@ -221,7 +221,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Staff Issues Report on Undercover Funeral Rule Phone Sweep](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-staff-issues-report-undercover-funeral-rule-phone-sweep)
+    ### [FTC Sends More Than $140,000 to Consumers Deceived by False Made in USA Claims by Chaucer Accessories and Bates Accessories](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-sends-more-140000-consumers-deceived-false-made-usa-claims-chaucer-accessories-bates-accessories)
     
     November 20, 2024
     
@@ -230,11 +230,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Nov20
+    Dec11
     
-    ### [Ex Parte Meeting on Unfair or Deceptive Fees NPRM between Commissioner Holyoak’s Office, Howard Beales, and Timothy Muris](https://www.ftc.gov/news-events/events/2024/11/ex-parte-meeting-unfair-or-deceptive-fees-nprm-between-commissioner-holyoaks-office-howard-beales)
+    ### [How To Bring National Consumer Protection Week to Your Library](https://www.ftc.gov/news-events/events/2024/12/how-bring-national-consumer-protection-week-your-library)
     
-    Wednesday, November 20, 2024 | 3:00PM
+    Wednesday, December 11, 2024 | 2:00PM - 3:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
