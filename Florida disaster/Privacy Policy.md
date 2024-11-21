@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Wednesday, November 20, 2024**
+**Thursday, November 21, 2024**
 
-**...Scattered Showers With Thunderstorms Near the West Coast to Continue Across Peninsula...Frontal System Making Its Way Through Peninsula...Breezy Wind Gusts Expected Across the State With Stronger Gusts Near Coastlines...Second Cold Front to Reinforce Dry and Cool Conditions...Rain Chances to Decline From Northwest to Southeast Thorugh Evening Hours and Tonight...Coolest Temperatures of the Season to Arrive...Feels-Like Temperatures In Upper 30s For Portions of Northern Panhandle by Sunrise Thursday Morning...High Risk for Rip Currents Across Gulf and West Coast; Moderate to High Along Numerous East Coast Beaches...Minor Coastal Flooding Along Much of West Coast and Florida Keys With Strong Onshore Winds and Elevated Surf...**
+**...Mostly Sunny and Dry Conditions Today As a Cool and Dry Airmass Moves In Behind the Recent Cold Front...Breezy Northerly to Northwesterly Winds With Gusts Upwards of 15-25 MPH Throughout the Day...Locally Sensitive Wildfire Conditions Across North and Central Florida As Relative Humidity Values Fall Below Critical Thresholds This Afternoon (25-45%)...Low Temperatures Will Fall Into the Upper 30s to Middle 40s Across North Florida Tonight But Feel Like They Are In The Middle 30s to Low 40s Early Friday Morning Thanks to Elevated Winds...Moderate to High Risk for Rip Currents and Hazardous Beach and Boating Conditions Statewide...Minor to Locally Moderate Saltwater Flooding Along the Middle and Upper Keys...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
