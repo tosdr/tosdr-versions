@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Script de vendas para Instagram - A imagem que ilustra o tema tem o fundo vermelho e aparece uma pessoa branca, segurando um celular e tocando na tela.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Script-de-vendas-para-Instagram-Quais-as-vantagens-580x290.jpg)](https://postgrain.com/?post_type=post&p=12728)
+[![algoritmo - a imagem que ilustra o tema tem o fundo escuro onde aparece uma mão tocando num painel com várias telas.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Algoritmo-do-Instagram-nao-e-o-vilao-580x290.png)](https://postgrain.com/?post_type=post&p=12736)
 
-[Script de vendas para Instagram: Quais as vantagens?](https://postgrain.com/?post_type=post&p=12728)
+[](https://postgrain.com/?post_type=post&p=12736)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12728)
+[Leia mais](https://postgrain.com/?post_type=post&p=12736)
 
 Ilustração de um dos personagens do Postgrain
 
