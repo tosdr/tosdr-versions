@@ -294,15 +294,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Arthur Weasley has two brothers.
+The curse of the Defense Against the Dark Arts position was inspired by the Spinal Tap drummers dying in bizarre circumstances.
 
 ### Potter History
 
-September 7, 2005 – Harry Potter special edition iPod and first ever digital audiobooks released on iTunes.
+February 17, 2005 – A visitor of the Goblet of Fire set told MuggleNet that only Sirius’s head would make an appearance during the fireplace scene, making Gary Oldman fans upset at his minor appearance.
 
 ### Potter Quote
 
-“Who blacked your eye, Granger? I want to send them flowers.”
+“You’d better get lost before my bones come back, Dobby, or I might strangle you.”
 
 [](#)
 
