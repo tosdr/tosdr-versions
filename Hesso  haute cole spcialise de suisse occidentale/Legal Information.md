@@ -69,7 +69,7 @@ Menu
         * [Histoire](https://www.hes-so.ch/la-hes-so/a-propos/histoire)
         * [Gouvernance](https://www.hes-so.ch/la-hes-so/a-propos/gouvernance)
         * [Priorités 21-24](https://www.hes-so.ch/la-hes-so/a-propos/priorites-21-24)
-        * [Stratégie globale et plan d’intentions 2025‑2028](https://www.hes-so.ch/la-hes-so/a-propos/strategie-globale-et-plan-dintentions-2025-2028)
+        * [Priorités 25-28](https://www.hes-so.ch/la-hes-so/a-propos/priorites-25-28)
         * [En chiffres](https://www.hes-so.ch/la-hes-so/a-propos/la-hes-so-en-chiffres)
         * [Responsabilité sociétale](https://www.hes-so.ch/la-hes-so/a-propos/responsabilite-societale)
         * [Amélioration continue](https://www.hes-so.ch/la-hes-so/a-propos/amelioration-continue)
