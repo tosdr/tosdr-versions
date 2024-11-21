@@ -77,9 +77,6 @@ Management](https://later.com/)
     
     How to Use Later
     
-    * [Get Later CertifiedBecome a Later pro for free (opens a new tab)](https://education.later.com/?utm_source=later.com&utm_medium=referral&utm_content=nav)
-    * [Product TrainingGet the most out of Later](https://later.com/product-training/)
-    * [Later WebinarsLive product demos and Q&As](https://later.com/product-training/#webinars)
     * [Help CenterSearch & find answers (opens a new tab)](https://help.later.com/)
     * [CommunityConnect, learn, & engage (opens a new tab)](https://community.later.com/)
     
@@ -649,8 +646,6 @@ The best social media marketing app, influencer marketing management platform & 
     * [Marketing Resources](https://later.com/training/)
     * [Case Studies](https://later.com/case-studies/)
     * [Beyond Influence Podcast](https://later.com/beyond-influence-podcast/)
-    * [Learn with Later](https://education.later.com/)
-    * [Get Later Certified](https://education.later.com/?utm_source=later.com&utm_medium=referral&utm_content=nav)
     * [Help Center](https://help.later.com/)
     * [Community](https://community.later.com/)
     
