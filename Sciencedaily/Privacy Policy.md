@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Dinosaur Drumsticks and the Turkey Trot](https://www.sciencedaily.com/releases/2024/11/241120121648.htm)
+* [Key to Climate-Resilient Crops](https://www.sciencedaily.com/releases/2024/11/241120121644.htm)
+* [Healthy Women Have Cells That Look Cancerous](https://www.sciencedaily.com/releases/2024/11/241120121609.htm)
+* [Pairs of White Dwarf and Main Sequence Stars](https://www.sciencedaily.com/releases/2024/11/241119181645.htm)
+* [Turning Carbon Emissions Into Methane Fuel](https://www.sciencedaily.com/releases/2024/11/241120193041.htm)
 * [The Chilling Sound of the Aztec Death Whistle](https://www.sciencedaily.com/releases/2024/11/241119132940.htm)
 * [How Cells Habituate](https://www.sciencedaily.com/releases/2024/11/241119132429.htm)
 * [Flying Reptiles: How Pterosaurs Become Giants](https://www.sciencedaily.com/releases/2024/11/241118125218.htm)
 * [Effortless Robot Movements](https://www.sciencedaily.com/releases/2024/11/241118125806.htm)
 * [Mouse Created from Gene Older Than Animal Life](https://www.sciencedaily.com/releases/2024/11/241118125716.htm)
-* [Optogenetics: Treating Epilepsy Seizures](https://www.sciencedaily.com/releases/2024/11/241115124741.htm)
-* [Advancing the Search for Life On Mars](https://www.sciencedaily.com/releases/2024/11/241118125317.htm)
-* [Precambrian Worm: Big Evolutionary Discovery](https://www.sciencedaily.com/releases/2024/11/241118125212.htm)
-* [Dieting: Cause of the Yo-Yo Effect](https://www.sciencedaily.com/releases/2024/11/241118125210.htm)
-* [Global Warming and Net Zero](https://www.sciencedaily.com/releases/2024/11/241118125147.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
 [Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
 [Learning Disorders](https://www.sciencedaily.com/news/mind_brain/learning_disorders/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
-
 [Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
 [Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
+[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
 [Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
-[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
+[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
 
   
 
