@@ -93,6 +93,18 @@ We use a third party to provide monetization technologies for our site. You can 
 [News](https://www.online-tech-tips.com/category/news/)
 -------------------------------------------------------
 
+[![Person holding and staring a phone at the wheel of an Audi vehicle - person-holding-and-staring-a-phone-at-the-wheel-of-an-audi-vehicle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "person-holding-and-staring-a-phone-at-the-wheel-of-an-audi-vehicle - Online Tech Tips")
+
+![Person holding and staring a phone at the wheel of an Audi vehicle - person-holding-and-staring-a-phone-at-the-wheel-of-an-audi-vehicle](https://www.online-tech-tips.com/wp-content/uploads/2024/11/person-holding-and-staring-a-phone-at-the-wheel-of-an-audi-vehicle-300x200.jpg "person-holding-and-staring-a-phone-at-the-wheel-of-an-audi-vehicle - Online Tech Tips")](https://www.online-tech-tips.com/samsung-announces-digital-key-for-audi-vehicles/)
+
+[News](https://www.online-tech-tips.com/category/news/) · 2 min read
+
+### [Samsung Announces Digital Key for Audi Vehicles](https://www.online-tech-tips.com/samsung-announces-digital-key-for-audi-vehicles/)
+
+Samsung Wallet now supports Digital Keys for select Audi vehicles. The luxury car manufacturer joins the growing list of car…
+
+Sodiq Olanrewaju · Nov 20, 2024
+
 [![3D rendering of the Grok logo - 3D-rendering-of-Grok-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "3D-rendering-of-Grok-logo - Online Tech Tips")
 
 ![3D rendering of the Grok logo - 3D-rendering-of-Grok-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/11/3D-rendering-of-Grok-logo-300x200.jpg "3D-rendering-of-Grok-logo - Online Tech Tips")](https://www.online-tech-tips.com/x-is-rolling-out-a-free-tier-of-its-grok-ai-chatbot/)
@@ -117,9 +129,7 @@ Announced back in April, Google is finally rolling out Vids—its video creation
 
 Sodiq Olanrewaju · Nov 11, 2024
 
-[![WhatsApp Messenger on an Android smartphone - whatsapp-messenger-on-an-android-phone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "whatsapp-messenger-on-an-android-phone - Online Tech Tips")
-
-![WhatsApp Messenger on an Android smartphone - whatsapp-messenger-on-an-android-phone](https://www.online-tech-tips.com/wp-content/uploads/2024/11/whatsapp-messenger-on-an-android-phone-300x200.jpg "whatsapp-messenger-on-an-android-phone - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-introduces-custom-lists-for-better-chat-filtering/)
+[![WhatsApp Messenger on an Android smartphone - whatsapp-messenger-on-an-android-phone](https://www.online-tech-tips.com/wp-content/uploads/2024/11/whatsapp-messenger-on-an-android-phone-300x200.jpg "whatsapp-messenger-on-an-android-phone - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-introduces-custom-lists-for-better-chat-filtering/)
 
 [News](https://www.online-tech-tips.com/category/news/) · 2 min read
 
@@ -128,16 +138,6 @@ Sodiq Olanrewaju · Nov 11, 2024
 WhatsApp’s latest feature, Custom Lists, permits the creation of custom categories for chat filtering. Previously, WhatsApp had only three chat…
 
 Sodiq Olanrewaju · Nov 4, 2024
-
-[![ChatGPT web search icon - chatgpt-web-search-icon](https://www.online-tech-tips.com/wp-content/uploads/2024/10/chatgpt-web-search-icon-300x200.png "chatgpt-web-search-icon - Online Tech Tips")](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/)
-
-[News](https://www.online-tech-tips.com/category/news/) · 2 min read
-
-### [OpenAI Launches ChatGPT Search to Battle Google and Bing Search](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/)
-
-Source: OpenAI OpenAI is incorporating web search functionality into ChatGPT to help users find better answers from relevant, trustworthy, and…
-
-Sodiq Olanrewaju · Nov 1, 2024
 
 [VIEW MORE POSTS](https://www.online-tech-tips.com/category/news/)
 
@@ -183,6 +183,10 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 
 #### Recent Articles
 
+* [![Person holding and staring a phone at the wheel of an Audi vehicle - person-holding-and-staring-a-phone-at-the-wheel-of-an-audi-vehicle](https://www.online-tech-tips.com/wp-content/uploads/2024/11/person-holding-and-staring-a-phone-at-the-wheel-of-an-audi-vehicle-130x85.jpg "person-holding-and-staring-a-phone-at-the-wheel-of-an-audi-vehicle - Online Tech Tips")](https://www.online-tech-tips.com/samsung-announces-digital-key-for-audi-vehicles/ "Samsung Announces Digital Key for Audi Vehicles")
+    
+    [Samsung Announces Digital Key for Audi Vehicles](https://www.online-tech-tips.com/samsung-announces-digital-key-for-audi-vehicles/ "Samsung Announces Digital Key for Audi Vehicles")Nov 20, 2024
+    
 * [![3D rendering of the Grok logo - 3D-rendering-of-Grok-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/11/3D-rendering-of-Grok-logo-130x85.jpg "3D-rendering-of-Grok-logo - Online Tech Tips")](https://www.online-tech-tips.com/x-is-rolling-out-a-free-tier-of-its-grok-ai-chatbot/ "X is Rolling Out a Free Tier of Its Grok AI Chatbot")
     
     [X is Rolling Out a Free Tier of Its Grok AI Chatbot](https://www.online-tech-tips.com/x-is-rolling-out-a-free-tier-of-its-grok-ai-chatbot/ "X is Rolling Out a Free Tier of Its Grok AI Chatbot")Nov 13, 2024
@@ -194,10 +198,6 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 * [![ - preview-media-0-Minecraft-Title-Image](https://www.online-tech-tips.com/wp-content/uploads/2024/11/preview-media-0-Minecraft-Title-Image-130x85.png "preview-media-0-Minecraft-Title-Image - Online Tech Tips")](https://www.online-tech-tips.com/how-to-make-terracotta-in-minecraft/ "How to Make Terracotta in Minecraft")
     
     [How to Make Terracotta in Minecraft](https://www.online-tech-tips.com/how-to-make-terracotta-in-minecraft/ "How to Make Terracotta in Minecraft")Nov 8, 2024
-    
-* [![ - preview-media-1-reboot-wifi-feature-img](https://www.online-tech-tips.com/wp-content/uploads/2024/11/preview-media-1-reboot-wifi-feature-img-130x85.png "preview-media-1-reboot-wifi-feature-img - Online Tech Tips")](https://www.online-tech-tips.com/how-to-reboot-a-wifi-router/ "How to Reboot a WiFi Router")
-    
-    [How to Reboot a WiFi Router](https://www.online-tech-tips.com/how-to-reboot-a-wifi-router/ "How to Reboot a WiFi Router")Nov 6, 2024
     
 
 [![Online Tech Tips](/wp-content/themes/ott/images/ott-banner.png)](https://www.online-tech-tips.com/)
