@@ -1,3 +1,117 @@
+[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64fae83a665953d8193077f4_logo-blue1.svg)](https://www.admarketplace.com/)
+
+[Advertisers](https://www.admarketplace.com/advertiser)[Publishers](https://www.admarketplace.com/publisher)[Solutions](https://www.admarketplace.com/solutions)
+
+Resources
+
+[Blog
+
+Get insights, best practices, and thought leadership straight from the experts](https://www.admarketplace.com/blog)[Infographics
+
+Take a visual deep dive into the latest industry trends and data](https://www.admarketplace.com/infographics)[Case Studies
+
+Discover how we’ve empowered some of the world’s largest brands to achieve greater success](https://www.admarketplace.com/case-studies)[Insights & Research
+
+Stay up-to-date on all the latest learnings and insights to optimize your campaign performance](https://www.admarketplace.com/insights-research)
+
+#### Featured
+
+[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671ba40724fe993002ac6ca5_Market%20Opportunity%20on%20the%20Open%20Web.jpg)
+
+**Intent-based Media**
+
+Unwrap Search Advertising Success During the Most Wonderful Time of the Year
+
+Learn more](https://www.admarketplace.com/blog/unwrap-search-advertising-success-during-the-most-wonderful-time-of-the-year)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6737855ab3d5c02312af6048_Privacy%20Browsers.png)
+
+**Open Web Search**
+
+Just Browsing: Shaping Consumer Intent with Media Opportunities on Open Web Privacy Browsers
+
+Learn more](https://www.admarketplace.com/blog/just-browsing-shaping-consumer-intent-with-media-opportunities-on-open-web-privacy-browsers)
+
+[See all articles](https://www.admarketplace.com/blog)
+
+About
+
+[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bb82eaeb03cef7dada5ad_newspaper-variant-outline.svg)
+
+News
+
+You heard it here first – all the latest AMP news, updates, and announcements](https://www.admarketplace.com/news)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bbbfba29cebd18c03f572_account-star-outline.svg)
+
+Employee Spotlight
+
+Honoring the talent, attributes, and wins of the incredible individuals that make up Team AMP](https://www.admarketplace.com/employee-spotlight)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/673cff40a6ce76848660f9bb_Event.svg)
+
+IMPACT
+
+adMarketplace's annual, premier search advertising conference](https://www.admarketplace.com/impact-2024-conference)
+
+[Our Story
+
+From humble beginnings to predominant adtech player, brush up on adMarketplace’s history](https://www.admarketplace.com/our-story)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bc161abe0863fe13d04ee_people.svg)
+
+Culture & Careers
+
+We're hiring!
+
+Discover the culture that powers our success and browse our open roles for your next big opportunity](https://www.admarketplace.com/culture-and-careers)
+
+#### Featured
+
+[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bd3418a9547548566b6b0_Mozilla%20Press%20release.jpg)
+
+**News**
+
+Mozilla Expands Partnership with adMarketplace
+
+Learn more](https://www.admarketplace.com/blog/mozilla-expands-partnership-with-admarketplace-on-the-journey-to-protect-consumer-privacy-while-delivering-value-to-advertisers)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bd3f3cf3f80a4d68e8349_Tair.jpg)
+
+**Spotlight**
+
+Transforming Marketing Expertise into Product Innovation
+
+Learn more](https://www.admarketplace.com/blog/marketing-leader-to-senior-product-manager-transforming-marketing-expertise-into-product-innovation-transitioning-from-a-career)
+
+[Log In](https://my.admarketplace.com/login/login.html)
+
+[Contact Us](https://www.admarketplace.com/contact-us)
+
+Contact us
+----------
+
+I am a/an
+
+Advertiser
+
+Publisher
+
+Agency
+
+First Name
+
+Last Name
+
+Work email
+
+Title
+
+Company
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f20ae9aff4ad96e13cf6c8_x1.svg)
+
+Oops!
+=====
+
+Please enter a business email
+
+[Ok](#)
+
 [![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b0c_logo-white1.svg)![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b0d_logo-blue1.svg)](https://www.admarketplace.com/)
 
 [Advertisers](https://www.admarketplace.com/advertiser)[Publishers](https://www.admarketplace.com/publisher)[Solutions](https://www.admarketplace.com/solutions)
