@@ -275,6 +275,9 @@ Essential cookies allow you to access our service and interact with our website 
 | ajs\_user\_id | Nerdalytics cookie is used to improve performance of the site. Tracks user events created by a specific user. | 1 year |
 | ajs\_session\_id | Nerdalytics cookie used to improve performance of the site. Attributes user events to a specific session. | Session |
 | Cookies starting with mvt- | Cookies used for test optimisation. This tells us information and what action a user takes in the test to help us improve our services. | 6 months |
+| MC1, MSFPC, MUID | Microsoft owned third party cookie for support chat functionality. Identifies unique web browsers visiting Microsoft sites and are used for advertising, site analytics, and other operational purposes. | 1 year |
+| MicrosoftApplicationsTelemetryDeviceId | Microsoft owned third party cookie for support chat functionality. Track users’ website behaviour and the interaction on the specific device. | 1 year |
+| MS0 | Microsoft owned third party cookie for support chat functionality. Used to identify a specific session. | 1 day |
 
 [](#)
 
@@ -372,7 +375,7 @@ Confused.com, a trading name of Inspop.com Limited. Inspop.com Limited is part o
 
 We work with a range of providers for some of our comparison customer journeys. Some of these partners will drop cookies on our website domain so that they can provide the best experience between the websites. The associated Cookie Policies are operated by the underlying providers and we therefore recommend you review these where relevant. Please visit our [providers page](https://www.confused.com/about-us/providers) for more information on the partners we work with.
 
-**This policy was last updated on 4th September 2024.**
+**This policy was last updated on 21st November 2024.**
 
 ### How do I manage my cookies?
 
