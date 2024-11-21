@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Pirate Bay: Away from Keyboard](/wp-content/thumbnails/6914-100x70.jpg?x53432)
+* [![Hillsborough Disaster](/wp-content/thumbnails/10009-100x70.jpg?x53432)
     
-    The Pirate Bay: Away from Keyboard
+    Hillsborough Disaster
     
-    This is a documentary about the largest and the most famous torrent website in the world – The Pirate Bay – and the story behind it.It’s the day before the trial starts. Fredrik packs a computer i](https://documentaryheaven.com/the-pirate-bay-away-from-keyboard/ "The Pirate Bay: Away from Keyboard")
-* [![Meltdown: The Men Who Crashed The World](/wp-content/thumbnails/13387-100x70.jpg?x53432)
+    This ESPN 30 for 30 special examines the tragic events that took place on the 15th of April 1989, the Hillsborough Stadium disaster which resulted in the deaths of 96 people and 766 others being](https://documentaryheaven.com/hillsborough-disaster/ "Hillsborough Disaster")
+* [![The True Story of Bonnie and Clyde](/wp-content/thumbnails/8889-100x70.jpg?x53432)
     
-    Meltdown: The Men Who Crashed The World
+    The True Story of Bonnie and Clyde
     
-    Meltdown is a four-part investigation into the orgy of greed and recklessness that drove the world into financial collapse back in 2008 and only now are the hard questions being asked, only now are th](https://documentaryheaven.com/meltdown-men-who-crashed-world/ "Meltdown: The Men Who Crashed The World")
-* [![The Summer Of Rave, 1989](/wp-content/thumbnails/12667-100x70.jpg?x53432)
+    Hollywood portrayed them as the most glamorous outlaws in American history, their crime spree lasted two years and claimed 14 lives, but who were Bonnie and Clyde?, what drove them to a life of violen](https://documentaryheaven.com/true-story-of-bonnie-clyde/ "The True Story of Bonnie and Clyde")
+* [![The Truth About Sugar](/wp-content/thumbnails/9928-100x70.jpg?x53432)
     
-    The Summer Of Rave, 1989
+    The Truth About Sugar
     
-    Great British summers may not come often but when they do people all across the nation start shedding not only their clothes but their inhibitions too and if summertime is party time the scorcher whic](https://documentaryheaven.com/summer-of-rave-1989/ "The Summer Of Rave, 1989")
-* [![Why Can’t We Predict Earthquakes?](/wp-content/thumbnails/2838-100x70.jpg?x53432)
+    Fiona Phillips, a journalist best known for her role in presenting the popular British morning show, GMTV, is embarking on a mission to seek out the truth behind our newly found enemy, sugar. She disc](https://documentaryheaven.com/truth-about-sugar/ "The Truth About Sugar")
+* [![Bloody Queens: Elizabeth and Mary](/wp-content/thumbnails/10685-100x70.jpg?x53432)
     
-    Why Can’t We Predict Earthquakes?
+    Bloody Queens: Elizabeth and Mary
     
-    Last century, earthquakes killed over one million, and it is predicted that this century might see ten times as many deaths. Yet when an earthquake strikes, it always takes people by surprise.So why](https://documentaryheaven.com/why-cant-we-predict-earthquakes/ "Why Can’t We Predict Earthquakes?")
-* [![Gravity and Me: The Force that Shapes our Lives](/wp-content/thumbnails/14822-100x70.jpg?x53432)
+    Queen Elizabeth I, conqueror of the Spanish Armada, Tudor defender of the Protestant faith, the headstrong Virgin Queen who refused to marry, but out of all of her challenges her most grueling battle](https://documentaryheaven.com/bloody-queens-elizabeth-and-mary/ "Bloody Queens: Elizabeth and Mary")
+* [![The Drugging of Our Children](/wp-content/thumbnails/1858-100x70.jpg?x53432)
     
-    Gravity and Me: The Force that Shapes our Lives
+    The Drugging of Our Children
     
-    Would you like to loose a little bit of weight without doing any exercise or dieting? Or perhaps age just a little slower than your friends? Well you might be surprised to hear that the laws of physic](https://documentaryheaven.com/gravity-me-force-that-shapes-our-lives/ "Gravity and Me: The Force that Shapes our Lives")
+    In the absence of any objective medical tests to determine who has ADD or ADHD, doctors rely in part on standardized assessments and the impressions of teachers and guardians while the they administer](https://documentaryheaven.com/the-drugging-of-our-children/ "The Drugging of Our Children")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
