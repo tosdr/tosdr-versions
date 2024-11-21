@@ -30,7 +30,7 @@
     
 * [About the Fed](https://www.atlantafed.org/about)
     
-    [The Atlanta Fed](https://www.atlantafed.org/cqer/feature/2024/11/19-gdpnow) [Careers](https://www.atlantafed.org/about/careers) [FAQ](https://www.atlantafed.org/about/faq) [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained) [Federal Reserve System](https://www.atlantafed.org/about/federal-reserve-system) [Holidays](https://www.atlantafed.org/about/holidays) [Diversity, Equity, & Inclusion](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion) [Transparency](https://www.atlantafed.org/about/atlantafed/transparency) [Publications](https://www.atlantafed.org/about/publications) [Visit](https://www.atlantafed.org/about/visit)
+    [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed) [Careers](https://www.atlantafed.org/about/careers) [FAQ](https://www.atlantafed.org/about/faq) [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained) [Federal Reserve System](https://www.atlantafed.org/about/federal-reserve-system) [Holidays](https://www.atlantafed.org/about/holidays) [Diversity, Equity, & Inclusion](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion) [Transparency](https://www.atlantafed.org/about/atlantafed/transparency) [Publications](https://www.atlantafed.org/about/publications) [Visit](https://www.atlantafed.org/about/visit)
     
 
         
@@ -134,7 +134,7 @@ Menutoggle menu
     * [Reporting](https://www.atlantafed.org/banking-and-payments/reporting)
         * [Contacts](https://www.atlantafed.org/banking-and-payments/reporting/contacts)
         * [Financial Institution Reports](https://www.atlantafed.org/banking-and-payments/reporting/financial-institution-reports)
-        * [Resources](https://www.atlantafed.org/research/publications/policy-hub/2024/11/19/09--generations-of-discontent--labor-force-participation-and-wages)
+        * [Resources](https://www.atlantafed.org/banking-and-payments/reporting/resources)
         * [Training](https://www.atlantafed.org/banking-and-payments/reporting/training)
 * [News & Events](https://www.atlantafed.org/news)
     * [Conferences & Events](https://www.atlantafed.org/news/conferences-and-events)
@@ -172,7 +172,7 @@ Menutoggle menu
     * [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools)
         * [Career Ladder Identifier and Financial Forecaster (CLIFF)](https://www.atlantafed.org/economic-mobility-and-resilience/advancing-careers-for-low-income-families/cliff-tool)
         * [Unemployment Claims Monitor](https://www.atlantafed.org/cweo/data-tools/unemployment-claims-monitor)
-        * [Southeastern Rental Affordability Tracker](https://www.atlantafed.org/forms/economic-mobility-and-resilience/share-your-story)
+        * [Southeastern Rental Affordability Tracker](https://www.atlantafed.org/community-development/data-and-tools/southeastern-rental-affordability-tracker)
         * [Opportunity Occupations Monitor](https://www.atlantafed.org/cweo/data-tools/opportunity-occupations-monitor)
     * [Events](https://www.atlantafed.org/community-development/events)
         * [Inclusive and Resilient Recovery](https://www.atlantafed.org/community-development/events/inclusive-and-resilient-recovery)
@@ -212,7 +212,7 @@ Menutoggle menu
         * [Congressional Reports](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion/congressional-reports)
         * [Workforce Representation](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion/workforce-development)
     * [Transparency](https://www.atlantafed.org/about/atlantafed/transparency)
-    * [Publications](https://www.atlantafed.org/research/publications)
+    * [Publications](https://www.atlantafed.org/about/publications)
         * [Annual Reports](https://www.atlantafed.org/about/publications/annual-reports)
         * [Atlanta Fed History](https://www.atlantafed.org/about/publications/atlanta-fed-history)
         * [Federal Reserve Structure & Functions](https://www.atlantafed.org/about/publications/fed-structure-and-functions)
