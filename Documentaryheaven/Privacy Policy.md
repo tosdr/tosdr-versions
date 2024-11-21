@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Meningitis: Search For A Cure](/wp-content/thumbnails/13195-100x70.jpg?x53432)
+* [![Behind Closed Doors: Elderly Care Exposed](/wp-content/thumbnails/8818-100x70.jpg?x53432)
     
-    Meningitis: Search For A Cure
+    Behind Closed Doors: Elderly Care Exposed
     
-    Meningitis: Search For A Cure examines the very serious meningococcal bacteria which if it enters the human blood stream can kill within hours. Over the last ten years new research has unraveled some](https://documentaryheaven.com/meningitis-search-for-cure/ "Meningitis: Search For A Cure")
-* [![An Inconvenient Border](/wp-content/thumbnails/13551-100x70.jpg?x53432)
+    BBC's Panorama takes it upon themselves to investigate the state of some of Britain's care homes for the elderly. Through the use of secret filming this documentary reveals some truly disturbing cases](https://documentaryheaven.com/behind-closed-doors-elderly-care-exposed/ "Behind Closed Doors: Elderly Care Exposed")
+* [![American Radical: The Trials of Norman Finkelstein](/wp-content/thumbnails/5712-100x70.jpg?x53432)
     
-    An Inconvenient Border
+    American Radical: The Trials of Norman Finkelstein
     
-    The relationship between China and North Korea has always been complicated, China's Mao Zedong famously said that the two countries were as close as lips and teeth. A relationship forged in blood and](https://documentaryheaven.com/an-inconvenient-border/ "An Inconvenient Border")
-* [![Quantum Leap](/wp-content/thumbnails/9318-100x70.jpg?x53432)
+    American Radical is the probing, definitive documentary about Jewish-American political scientist Norman Finkelstein.A devoted son of holocaust survivors, an ardent critic of Israel and US Middle Ea](https://documentaryheaven.com/american-radical-the-trials-of-norman-finkelstein/ "American Radical: The Trials of Norman Finkelstein")
+* [![CIA Secret Experiments](/wp-content/thumbnails/7065-100x70.jpg?x53432)
     
-    Quantum Leap
+    CIA Secret Experiments
     
-    Lying just below everyday reality is a breath-taking world, where much of what we perceive about the universe is wrong. In this film best selling author and physicist Brian Green takes us on a journey](https://documentaryheaven.com/quantum-leap/ "Quantum Leap")
-* [![Killing Gaza](/wp-content/thumbnails/16523-100x70.jpg?x53432)
+    It's the height of the Cold War and the United States government is desperate to combat the spread of Communism. The CIA launches a highly classified, top secret research program into the covert use o](https://documentaryheaven.com/cia-secret-experiments/ "CIA Secret Experiments")
+* [![The Cola Wars](/wp-content/thumbnails/14516-100x70.jpg?x53432)
     
-    Killing Gaza
+    The Cola Wars
     
-    Killing Gaza is a film created by two independent journalists Max Blumenthal and Dan Cohen, it is a detailed account of Israel’s 2014 assault on Gaza, a conflict that lasted 7 weeks (8 July – 26 Aug](https://documentaryheaven.com/killing-gaza/ "Killing Gaza")
-* [![7/7 Ludicrous Diversion](/wp-content/thumbnails/1271-100x70.jpg?x53432)
+    The soft drink industry is a 100 million dollar juggernaut, the Coca Cola Company and Pepsi Co. control vast empires which reach into practically every corner of the globe. Through huge networks of bo](https://documentaryheaven.com/cola-wars/ "The Cola Wars")
+* [![Crack Cocaine](/wp-content/thumbnails/8403-100x70.jpg?x53432)
     
-    7/7 Ludicrous Diversion
+    Crack Cocaine
     
-    So if you genuinely believe that it is unlikely or even impossible that the police would ever fabricate evidence in order to give the appearance of having solved a crime, it is time to reassess your b](https://documentaryheaven.com/77-ludicrous-diversion/ "7/7 Ludicrous Diversion")
+    A film documenting the effects of the illegal drug trade, primarily crack cocaine on a community in America. The documentary explores the lives of those who sell the drug and life choices they were fa](https://documentaryheaven.com/crack-cocaine/ "Crack Cocaine")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
