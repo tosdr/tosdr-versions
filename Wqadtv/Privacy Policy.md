@@ -30,14 +30,18 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c52efea4-9a5d-463f-b21a-067466d3731c/20241118T204406/c52efea4-9a5d-463f-b21a-067466d3731c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c52efea4-9a5d-463f-b21a-067466d3731c/20241118T204406/c52efea4-9a5d-463f-b21a-067466d3731c_360x203.jpg)](https://www.wqad.com/article/news/local/contests/enter-to-win-a-new-snowblower-this-winter-from-wqad-and-petersen-plumbing/526-91822e86-bad7-4d2b-9c18-a26bfd2a4968)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_360x203.jpg)](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5)
         
-        #### [Enter to win a new snowblower this winter from WQAD and Petersen Plumbing](https://www.wqad.com/article/news/local/contests/enter-to-win-a-new-snowblower-this-winter-from-wqad-and-petersen-plumbing/526-91822e86-bad7-4d2b-9c18-a26bfd2a4968)
+        #### [ISP releases video from fatal DeKalb police shooting](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5) [![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_360x203.jpg)](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/af57dce8-764b-4622-a3d2-21940212efda/20241121T114852/af57dce8-764b-4622-a3d2-21940212efda_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/af57dce8-764b-4622-a3d2-21940212efda/20241121T114852/af57dce8-764b-4622-a3d2-21940212efda_360x203.jpg)](https://www.wqad.com/article/news/local/outreach/pay-it-forward/helping-hand-galesburg-high-school-marching-band/526-1fe4308f-e518-4131-a633-0d14426facae)
+        #### [DeKalb fatal police shooting bodycam video released by Illinois State Police](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5) [![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_360x203.jpg)](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5)
         
-        #### [Pay It Forward: The helping hand of the Galesburg High School marching band](https://www.wqad.com/article/news/local/outreach/pay-it-forward/helping-hand-galesburg-high-school-marching-band/526-1fe4308f-e518-4131-a633-0d14426facae)
+        #### [Illinois State Police releases video of DeKalb fatal police shooting](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-arrest-2-car-burglaries/526-291d36ef-de2a-4cd7-9ada-e0aee6f531b1)
         
+        #### [Muscatine police arrest 2 men in connection to string of car burglaries](https://www.wqad.com/article/news/local/muscatine-police-arrest-2-car-burglaries/526-291d36ef-de2a-4cd7-9ada-e0aee6f531b1) [![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-arrest-2-car-burglaries/526-291d36ef-de2a-4cd7-9ada-e0aee6f531b1)
+        
+        #### [2 arrested following Muscatine car burglaries](https://www.wqad.com/article/news/local/muscatine-police-arrest-2-car-burglaries/526-291d36ef-de2a-4cd7-9ada-e0aee6f531b1)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,13 +60,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/41a3a91d-0d29-45a3-8638-cd0affa3088d/20241121T131322/41a3a91d-0d29-45a3-8638-cd0affa3088d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/41a3a91d-0d29-45a3-8638-cd0affa3088d/20241121T131322/41a3a91d-0d29-45a3-8638-cd0affa3088d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/KGW/images/e46b6948-feb8-4071-ae44-3740d3010c4c/20241121T003202/e46b6948-feb8-4071-ae44-3740d3010c4c_16x9.jpg) ![](https://media.tegna-media.com/assets/KGW/images/e46b6948-feb8-4071-ae44-3740d3010c4c/20241121T003202/e46b6948-feb8-4071-ae44-3740d3010c4c_360x203.jpg)](https://www.wqad.com/article/weather/severe-weather/amtrak-cascades-train-damaged-downed-tree-windstorm/283-83fcb056-a7ae-4caa-84d0-0ee781857374)
         
-        #### [Weather Impact Alert: Gusty winds expected through today](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Amtrak train impaled through windshield by downed tree during bomb cyclone](https://www.wqad.com/article/weather/severe-weather/amtrak-cascades-train-damaged-downed-tree-windstorm/283-83fcb056-a7ae-4caa-84d0-0ee781857374)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/wind-gusts-45-mph-thursday-storm-track-8-weather-impact-alert/526-a1d5b40b-159e-4c2c-b08e-5c2aed0245c8)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/c2df261c-07de-44c7-ae60-0c4d5661ca1a/20241121T121844/c2df261c-07de-44c7-ae60-0c4d5661ca1a_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/c2df261c-07de-44c7-ae60-0c4d5661ca1a/20241121T121844/c2df261c-07de-44c7-ae60-0c4d5661ca1a_360x203.jpg)](https://www.wqad.com/article/news/nation-world/volcanoi-n-iceland-erupts-for-the-7th-time-in-a-year/507-eeca1c06-0cf1-41fd-b593-fa6009934221)
         
-        #### [Wind gusts could reach 45 mph on Thursday: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/wind-gusts-45-mph-thursday-storm-track-8-weather-impact-alert/526-a1d5b40b-159e-4c2c-b08e-5c2aed0245c8)
+        #### [Volcano on Iceland's Reykjanes Peninsula erupts for the 7th time in a year](https://www.wqad.com/article/news/nation-world/volcanoi-n-iceland-erupts-for-the-7th-time-in-a-year/507-eeca1c06-0cf1-41fd-b593-fa6009934221)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +90,9 @@ Navigation
 
 Davenport, IA »
 
-35°
+38°
 
-![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
