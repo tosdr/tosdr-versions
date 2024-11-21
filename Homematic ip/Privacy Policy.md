@@ -309,6 +309,12 @@ Menü
 * [Partner](https://homematic-ip.com/de/partner)
 * [Karriere](https://karriere.eq-3.de/karriere.html)
 
+ [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_4.jpg.webp?itok=A1h_6JcL)
+
+News
+
+Elektrische Türschlösser sicher steuern – Homematic IP Universal Motorschloss Controller und Universal Türöffner Controller](https://homematic-ip.com/de/news/smart-home-elektrische-tuerschloesser-steuern)
+
  [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_3.jpg.webp?itok=P10YaEAs)
 
 News
@@ -363,8 +369,6 @@ Pfadnavigation
 --------------
 
 1. [Home](https://homematic-ip.com/de)
-2. [Service](https://homematic-ip.com/de/service)
-3. Datenschutz (App)
 
 Datenschutzbestimmungen für die Homematic IP Smartphone App
 ===========================================================
