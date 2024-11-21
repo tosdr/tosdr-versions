@@ -287,7 +287,7 @@ Autism news
 
 All the latest that matters to our community
 
-![Andy Shih's Headshot](/sites/default/files/styles/content_list/public/andy-shih-headshot.jpg.webp?itok=y32DYOOh)
+![Andy Shih, Autism Speaks Chief Science Officer at the congressional hearing on global public health](/sites/default/files/styles/content_list/public/Andy-Shih%2C-Autism-Speaks-Chief-Science-Officer-at-the-congressional-hearing-on-global-public-health.jpg.webp?itok=AheKYS5F)
 
 11.20.24
 
