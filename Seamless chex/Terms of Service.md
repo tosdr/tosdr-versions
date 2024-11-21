@@ -24,9 +24,10 @@ More industries
 
 [![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/62cc27e22f1b07d312c01c67_Icon%20(25).png)
 
-High-Ticket Merchants](https://www.seamlesschex.com/high-volume-merchant-account-services)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/66b233098cde37d8e633f528_Weight%20Loss%20Companies.png)
+High-Ticket Merchants](https://www.seamlesschex.com/high-volume-merchant-account-services)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/645a915e385f631613a0dcf0_Financial%20Services.png)
 
-Peptides](https://www.seamlesschex.com/peptides)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/62cc27e2a8762a579278ae41_Icon%20(21).png)
+Financial Service  
+Companies](https://www.seamlesschex.com/financialservices)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/62cc27e2a8762a579278ae41_Icon%20(21).png)
 
 **TMF/MATCH  
 List Merchants**](https://www.seamlesschex.com/tmf-match-list-merchant-accounts)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/6596e7a8cac7dc060285c93f_Icon%20(5).png)
