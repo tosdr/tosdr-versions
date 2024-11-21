@@ -6,9 +6,7 @@
 
            
 
-[New｜Only True Pro Sees the Unseen](https://www.eufy.com/eufycam-pro?ref=topbanner_1)
-
-[Early Black Friday Savings! Gift Cards Save up to 50% OFF!](https://www.eufy.com/eufy-sales?ref=topbanner_2)
+[Black Friday: Deals Up to 50% Off!](https://www.eufy.com/eufy-sales?ref=topbanner_1)
 
 [](https://www.eufy.com/livestream?ref=navimenu_10_copy)
 
@@ -598,23 +596,23 @@
         [Shop Holiday Lights](https://us.eufy.com/collections/holiday-lights?ref=navimenu_4_2_3_all_copy)[](https://us.eufy.com/policies/privacy-policy?ref=navimenu_4_2_3_more_copy)
         
     
-* Special Offers Hot
+* Black Friday Hot
     
     [](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
-    Early Black Friday Savings on Security!
+    Deals Up to 50% Off on Security!
     
     [Learn More](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
     [](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_2_img)
     
-    Early Black Friday Savings on eufy Clean!
+    Deals Up to 50% Off on eufy Clean!
     
     [Learn More](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_2_img)
     
     [](https://www.eufy.com/eufy-sales?ref=navimenu_5_1_3_img)
     
-    Start Your Early Black Friday Savings!
+    Deals Up to 50% Off!
     
     [Learn More](https://www.eufy.com/eufy-sales?ref=navimenu_5_1_3_img)
     
@@ -673,7 +671,7 @@ Search our shop
 * Security New
 * Baby
 * Smart Lights
-* Special Offers Hot
+* Black Friday Hot
 * Business
 * [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_7_copy)
 
@@ -1399,7 +1397,7 @@ eufylife
 * [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/appstore_3_50x.png?v=1657087633)](https://apps.apple.com/us/app/eufylife/id1153481724)
 * [![](https://cdn.shopify.com/s/files/1/0521/9411/5753/files/googleplay_1_50x.png?v=1657087633)](https://play.google.com/store/apps/details?id=com.oceanwing.smarthome&hl=en_US&gl=US)
 
-American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa
+Amazon American Express Apple Pay Diners Club Discover Google Pay Mastercard PayPal Shop Pay Venmo Visa
 
 * [](https://anker.com/about?ref=footer)
 * [](https://anker.com/?ref=footer)
