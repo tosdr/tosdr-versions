@@ -1,4 +1,4 @@
-* [Register](https://oauth.accounts.firefox.com/v1/authorization?action=signup&scope=profile&state=9c9f5528ee9b2abc169afcc9af8414ac49e20c698161dc3d1081ff6b642a03be%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8) or [Log in](https://oauth.accounts.firefox.com/v1/authorization?action=signin&scope=profile&state=9c9f5528ee9b2abc169afcc9af8414ac49e20c698161dc3d1081ff6b642a03be%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
+* [Register](https://oauth.accounts.firefox.com/v1/authorization?action=signup&scope=profile&state=b0ea1fd7392f65b4721caf84648dbabdb334995f2b79d6681911683a411b5704%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8) or [Log in](https://oauth.accounts.firefox.com/v1/authorization?action=signin&scope=profile&state=b0ea1fd7392f65b4721caf84648dbabdb334995f2b79d6681911683a411b5704%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
 * [Other Applications](# "Find add-ons for other applications")
     * [Firefox](https://addons.thunderbird.net/en-us/firefox)
     * [Firefox for Android](https://addons.thunderbird.net/en-us/android)
@@ -73,25 +73,25 @@ Check out our [Mobile Add-ons site](#).
 Explore
 -------
 
-* _[Featured](https://addons.thunderbird.net/en-US/thunderbird/extensions/?sort=featured)_
-* _[Most Popular](https://addons.thunderbird.net/en-US/thunderbird/extensions/?sort=users)_
-* _[Top Rated](https://addons.thunderbird.net/en-US/thunderbird/extensions/?sort=rating)_
+* _[Featured](https://addons.thunderbird.net/en-us/thunderbird/extensions/?sort=featured)_
+* _[Most Popular](https://addons.thunderbird.net/en-us/thunderbird/extensions/?sort=users)_
+* _[Top Rated](https://addons.thunderbird.net/en-us/thunderbird/extensions/?sort=rating)_
 
 Categories
 ----------
 
-* [Appearance and Customization](https://addons.thunderbird.net/en-US/thunderbird/extensions/appearance/)
-* [Calendar and Date/Time](https://addons.thunderbird.net/en-US/thunderbird/extensions/calendar/)
-* [Chat and IM](https://addons.thunderbird.net/en-US/thunderbird/extensions/chat/)
-* [Contacts](https://addons.thunderbird.net/en-US/thunderbird/extensions/contacts/)
-* [Folders and Filters](https://addons.thunderbird.net/en-US/thunderbird/extensions/folders-and-filters/)
-* [Import/Export](https://addons.thunderbird.net/en-US/thunderbird/extensions/importexport/)
-* [Language Support](https://addons.thunderbird.net/en-US/thunderbird/extensions/language-support/)
-* [Message Composition](https://addons.thunderbird.net/en-US/thunderbird/extensions/composition/)
-* [Message and News Reading](https://addons.thunderbird.net/en-US/thunderbird/extensions/message-and-news-reading/)
-* [Miscellaneous](https://addons.thunderbird.net/en-US/thunderbird/extensions/miscellaneous/)
-* [Privacy and Security](https://addons.thunderbird.net/en-US/thunderbird/extensions/privacy-and-security/)
-* [Tags](https://addons.thunderbird.net/en-US/thunderbird/extensions/tags/)
+* [Appearance and Customization](https://addons.thunderbird.net/en-us/thunderbird/extensions/appearance/)
+* [Calendar and Date/Time](https://addons.thunderbird.net/en-us/thunderbird/extensions/calendar/)
+* [Chat and IM](https://addons.thunderbird.net/en-us/thunderbird/extensions/chat/)
+* [Contacts](https://addons.thunderbird.net/en-us/thunderbird/extensions/contacts/)
+* [Folders and Filters](https://addons.thunderbird.net/en-us/thunderbird/extensions/folders-and-filters/)
+* [Import/Export](https://addons.thunderbird.net/en-us/thunderbird/extensions/importexport/)
+* [Language Support](https://addons.thunderbird.net/en-us/thunderbird/extensions/language-support/)
+* [Message Composition](https://addons.thunderbird.net/en-us/thunderbird/extensions/composition/)
+* [Message and News Reading](https://addons.thunderbird.net/en-us/thunderbird/extensions/message-and-news-reading/)
+* [Miscellaneous](https://addons.thunderbird.net/en-us/thunderbird/extensions/miscellaneous/)
+* [Privacy and Security](https://addons.thunderbird.net/en-us/thunderbird/extensions/privacy-and-security/)
+* [Tags](https://addons.thunderbird.net/en-us/thunderbird/extensions/tags/)
 
 Signal Spam 4.2.0
 =================
@@ -107,9 +107,9 @@ L’outil Signal Spam a été déclaré à la CNIL (déclaration n°1222631) et 
 
 To create your own collections, you must have a Mozilla Add-ons account.
 
-[Create an Add-ons Account](https://oauth.accounts.firefox.com/v1/authorization?action=signup&scope=profile&state=9c9f5528ee9b2abc169afcc9af8414ac49e20c698161dc3d1081ff6b642a03be%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
+[Create an Add-ons Account](https://oauth.accounts.firefox.com/v1/authorization?action=signup&scope=profile&state=b0ea1fd7392f65b4721caf84648dbabdb334995f2b79d6681911683a411b5704%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
 
-or [log in to your current account](https://oauth.accounts.firefox.com/v1/authorization?action=signin&scope=profile&state=9c9f5528ee9b2abc169afcc9af8414ac49e20c698161dc3d1081ff6b642a03be%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
+or [log in to your current account](https://oauth.accounts.firefox.com/v1/authorization?action=signin&scope=profile&state=b0ea1fd7392f65b4721caf84648dbabdb334995f2b79d6681911683a411b5704%3AL2VuLXVzL3RodW5kZXJiaXJkL2FkZG9uL3NpZ25hbC1zcGFtL3ByaXZhY3kv&redirect_url=https%3A%2F%2Faddons.thunderbird.net%2Fapi%2Fv3%2Faccounts%2Fauthenticate%2F&client_id=25691f3bf98f8ea8)
 
 ![Footer logo](https://addons.thunderbird.net/static/img/zamboni/footer-logo-med.png?b=58a99cbb-667a0970)
 
