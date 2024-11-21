@@ -230,6 +230,7 @@ company
 -------
 
 * [about LELO](https://www.lelo.com/about-us)
+* [impressum](https://www.lelo.com/impressum)
 * [company information](https://www.lelo.com/company-information)
 * [industry awards](https://www.lelo.com/industry-awards)
 * [press room](https://www.lelo.com/press-room)
