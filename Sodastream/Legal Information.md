@@ -784,13 +784,54 @@ Cookies Policy
 
 SODASTREAM COOKIE POLICY
 
-**Notice last updated:** \[04/07/2022\]
+**Notice last updated:** \[11/20/2024\]
 
-**1.** ****Information on how we use cookies****
+Our SodaStream website (“Website” or “Site”) uses cookies and similar technologies that allow us to operate and administer the Site, enhance your experience, and better understand your interaction with us. This Cookie Policy (“Policy”) explains what cookies are, how we use them, and how you can control their use.
 
-Our SodaStream website (“website” or “site”) uses various cookies which allow us to distinguish you from other users of our website, which helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
+For more information about how we process personal information collected through cookies and other tracking technologies, please refer to our [https://sodastream.com/blogs/legal/privacy-policy](https://sodastream.com/blogs/legal/privacy-policy).
 
-We use cookies to provide the content and functionality of this site (strictly necessary cookies) and, , to personalize the content and advertisements that appear when you visit our site and to analyze the traffic on the site, unless you reject such non-strictly necessary cookies. In addition, we share information about your use of our site with our advertising partners and analysts, who may combine this information with other data that you provide to them or that they have collected when you use their services. You have the right to withdraw your consent at any time.
+**1\. What are cookies?**
+
+Cookies are small text files containing a string of alphanumeric characters that may be placed on your browser when you visit a website or other online service to remember information about you, such as your language preferences or login information, or to track your interaction with the website or online service. For example, cookies may tell us whether you have used our Site before or whether you are a new user. For purposes of this Cookie Policy, we use the term “cookies” to refer to all technologies that store and access information on the device that you use to access the Site.
+
+Cookies may be classified by origin as:
+
+* First-party cookies. Cookies set by a website that is being visited by the user at the time (e.g. cookies placed by www.sodastream.com).
+* Third-party cookies. Cookies that are set by a domain other than that of the website being visited by the user, including other companies whose functionality is embedded into our Site (e.g., providers of analytics tools or certain website features).
+  
+
+Cookies may be classified by duration as:
+
+* Session cookies. Temporary cookies stored on your browser for the duration of your browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.
+* Persistent cookies. Cookies that remain on your browser for the period of time specified in the cookie (or until they are manually deleted). Depending on the cookie, the duration can vary between a few minutes to several years.
+  
+
+As further described in this Policy, we use cookies to provide the content and functionality of this Site, to personalize the content and advertisements that appear when you visit our Site or other online services, and to analyze the traffic on the Site. In addition, we share information about your use of our Site with our advertising and analytics partners, who may combine this information with other data that you provide to them or that they have collected about your online activities over time and across unaffiliated websites and other online services.
+
+Please note that third party services placing cookies or utilizing other tracking technologies through our Site may have their own policies regarding how they collect and store information. Such practices are not covered by our Privacy Policy or this Cookie Policy and we do not have any control over them.
+
+**2. What cookies do we use and why?**
+
+We may use the following types of cookies and other tracking technologies on our Site:
+
+* Strictly Necessary. These cookies are necessary for the Site to function. For example, we use these cookies to identify you as being logged in to the Site and to authenticate you, to make sure you connect to the right service on the Site, and for security purposes.
+* Performance. These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our Site. Among other analytics purposes, they help us to know which pages are the most and least popular, see how visitors move around the Site, and gather information on error messages.
+* Functional. These cookies enable us to provide enhanced functionality and personalization on our Site. For example, these cookies may help us remember your preferences and settings. They may be set by us or by third party providers whose services we have added to our Site.. These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our Site. Among other analytics purposes, they help us to know which pages are the most and least popular, see how visitors move around the Site, and gather information on error messages.
+* Targeting. These cookies record your visit to our Site, the pages you have visited and the links you have followed. We will use this information to make our Site and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.These cookies may be set through our Site by our advertising partners.They may be used by those companies to build a profile of your interests and show you relevant advertisements on other sites or online services.
+  
+
+**3\. Changing your cookie settings**
+
+You can change your cookies setting on our Site via this link:
+
+Most browsers are configured to automatically accept cookies. Depending on your web browser, you may also be able to set your browser to block cookies by default or to delete the cookies stored on your browser. Please review your browser’s “Help” file to learn the proper way to modify your cookie settings. Please note that disabling or deleting cookies could affect the availability or functionality of our Site.
+
+For additional information on how to manage cookies on your browser, please refer to the appropriate link below. If you use different browsers to access the Site, you will need to update your cookie preferences for each browser.
+
+* [Cookie settings in Internet Explorer](https://support.microsoft.com/kb/196955)
+* [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
+* [Cookie settings in Chrome](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+* [Cookie settings in Safari](https://support.apple.com/kb/HT1677)
 
 You do not need to allow cookies to visit most of the website. However, enabling cookies may allow for a more tailored browsing experience and is required for certain parts of the website to work. In the majority of cases, a cookie does not provide us with any of your personal information.
 
@@ -816,11 +857,6 @@ You can change your cookie preferences when you visit our website by changing th
 You can also block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including strictly necessary cookies), you may not be able to access all or parts of our site.  
 Please note that internet browsers allow you to change your cookie settings. These settings are usually found in the 'options' or 'preferences' menu of your internet browser. In order to understand these settings, the following links may be helpful. Otherwise you should use the 'Help' option in your internet browser for more details:
 
-* [Cookie settings in Internet Explorer](https://support.microsoft.com/kb/196955)
-* [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
-* [Cookie settings in Chrome](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
-* [Cookie settings in Safari](https://support.apple.com/kb/HT1677)
-
 **4. Your consent**
 
 Strictly necessary cookies do not require your consent.
@@ -830,10 +866,6 @@ By using our website you provide your consent that we apply on your device perfo
 **5\. Can I withdraw my consent?**
 
 If you do not wish to give consent or wish to withdraw your consent to any performance, functionality or targeting cookies at any time, you will need to delete, and block or disable cookies via your browser settings; see below for more information on how to do this or by changing your settings in the Cookie Setting at the link below. Please note that disabling these cookies will affect the functionality of the website and may prevent you from being able to access certain features on the website.
-
-**6. What cookies do we use and why?**
-
-We use are "necessary" and "performance" and "functional" and "targeting" cookies:
 
 6.1 Strictly Necessary cookies:
 
