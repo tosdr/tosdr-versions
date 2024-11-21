@@ -385,15 +385,15 @@ What Customers Are Saying
 
 Based on 304,417 Carpet Cleaning Services Reviews
 
-**RS.** - Norfolk, VA - 11/20/2024
+There’s nothing like Oxi-Clean for getting stains out of our carpet. This is the second time we’ve had this company here. For our next cleaning I plan to ask for pretreatment to get rid of our doggie smell. The old stain in the traffic areas are clean for the first time after years of having other carpet cleaning companies here. I’m elated with the results. **MJ.** - Plano, TX - 11/20/2024
 
 (5.0 Out of 5 stars)
 
-Thee guy that cleaned out carpets was very nice and knowledgeable about getting pet stains and pens stains out of the carpets. **KS.** - Brunswick, OH - 11/20/2024
+Great service provider & our carpets look and smell great again! **MR.** - Billings, MT - 11/20/2024
 
-(4.5 Out of 5 stars)
+(5.0 Out of 5 stars)
 
-This is our 3rd service and we enjoy it everytime. Of course we will book again ! **JW.** - Lithonia, GA - 11/20/2024
+Great service! Carpet looks great! **HV.** - Oak Creek, WI - 11/20/2024
 
 (5.0 Out of 5 stars)
 
