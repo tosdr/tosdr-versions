@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a3c31a14-f97a-4597-9883-a47719330dc9/a3c31a14-f97a-4597-9883-a47719330dc9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3c31a14-f97a-4597-9883-a47719330dc9/a3c31a14-f97a-4597-9883-a47719330dc9_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/when-power-expected-restored-seattle-city-light-pse/281-94dae52c-0120-498c-a558-957aabfad6e7)
+    *  [![](https://media.king5.com/assets/KING/images/5f4ea1ce-1cd1-422b-999e-950495e67b38/20241121T015404/5f4ea1ce-1cd1-422b-999e-950495e67b38_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5f4ea1ce-1cd1-422b-999e-950495e67b38/20241121T015404/5f4ea1ce-1cd1-422b-999e-950495e67b38_360x203.jpg)](https://www.king5.com/article/news/local/lightning-strikes-historic-hoquiam-church/281-b2e1a272-b2fa-4dea-9986-095f0b71c2a4)
         
-        #### [Here's when power is expected to be restored across Puget Sound](https://www.king5.com/article/weather/weather-impact/when-power-expected-restored-seattle-city-light-pse/281-94dae52c-0120-498c-a558-957aabfad6e7)
+        #### [Hoquiam church steeple destroyed by lightning strike](https://www.king5.com/article/news/local/lightning-strikes-historic-hoquiam-church/281-b2e1a272-b2fa-4dea-9986-095f0b71c2a4)
         
-    *  [![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
+    *  [![](https://media.king5.com/assets/KING/images/e739dede-74bc-4195-91f3-ec090901bd7c/20241120T224553/e739dede-74bc-4195-91f3-ec090901bd7c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e739dede-74bc-4195-91f3-ec090901bd7c/20241120T224553/e739dede-74bc-4195-91f3-ec090901bd7c_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
         
-        #### [Over 600,000 people lost power at peak of Washington windstorm](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
+        #### [Recap: At least 5 hospitalized, 2 killed in deadly windstorm in western Washington](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a3c31a14-f97a-4597-9883-a47719330dc9/a3c31a14-f97a-4597-9883-a47719330dc9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3c31a14-f97a-4597-9883-a47719330dc9/a3c31a14-f97a-4597-9883-a47719330dc9_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/when-power-expected-restored-seattle-city-light-pse/281-94dae52c-0120-498c-a558-957aabfad6e7)
+    *  [![](https://media.king5.com/assets/KING/images/a9f94c2c-21dc-484f-956c-57721696c219/20241121T002344/a9f94c2c-21dc-484f-956c-57721696c219_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a9f94c2c-21dc-484f-956c-57721696c219/20241121T002344/a9f94c2c-21dc-484f-956c-57721696c219_360x203.jpg)](https://www.king5.com/article/weather/tornado-warning-grays-harbor-pacific-counties/281-f9b72c3c-0f6d-43d9-a06f-36cf883772db)
         
-        #### [Here's when power is expected to be restored across Puget Sound](https://www.king5.com/article/weather/weather-impact/when-power-expected-restored-seattle-city-light-pse/281-94dae52c-0120-498c-a558-957aabfad6e7)
+        #### [Tornado Warning connected to bomb cyclone expires for SW Washington](https://www.king5.com/article/weather/tornado-warning-grays-harbor-pacific-counties/281-f9b72c3c-0f6d-43d9-a06f-36cf883772db)
         
-    *  [![](https://media.king5.com/assets/KING/images/b8b70abc-3a9a-4e26-8fa8-8c9cdfcd477f/20241120T130102/b8b70abc-3a9a-4e26-8fa8-8c9cdfcd477f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b8b70abc-3a9a-4e26-8fa8-8c9cdfcd477f/20241120T130102/b8b70abc-3a9a-4e26-8fa8-8c9cdfcd477f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/e739dede-74bc-4195-91f3-ec090901bd7c/20241120T224553/e739dede-74bc-4195-91f3-ec090901bd7c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e739dede-74bc-4195-91f3-ec090901bd7c/20241120T224553/e739dede-74bc-4195-91f3-ec090901bd7c_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
         
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        #### [Recap: At least 5 hospitalized, 2 killed in deadly windstorm in western Washington](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+47°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
