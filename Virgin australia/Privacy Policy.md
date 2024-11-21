@@ -17,8 +17,8 @@ disabled Mode
     
     Flight specials
     
-    * [Happy Hour](https://specials.virginaustralia.com/au/sale/happy-hour)
-    * [Featured sales](https://specials.virginaustralia.com/au)
+    * [Happy Hour](https://www.virginaustralia.com/au/en/specials/happy-hour-sale/)
+    * [Featured sales](https://www.virginaustralia.com/au/en/specials/)
     * [Sign up to V-mail](https://www.virginaustralia.com/au/en/vmail/)
     
     Manage booking
