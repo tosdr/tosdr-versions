@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Sheriff's deputies discover 2 bodies, injured person inside Wise County home](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112024-sky-4-wednesday-pm-kdfweme002_17_14_17_1_mp_00.00.44.44.jpg?ve=1&tl=1)
+ [![Dallas shooting: Gunman at large after 1 killed, 2 injured in Southeast Oak Cliff gunfire](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1)
 
- ![Sheriff's deputies discover 2 bodies, injured person inside Wise County home](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112024-sky-4-wednesday-pm-kdfweme002_17_14_17_1_mp_00.00.44.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/newark-dead-bodies-found-cr-4874-investigation-in-wise-county)
+ ![Dallas shooting: Gunman at large after 1 killed, 2 injured in Southeast Oak Cliff gunfire](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-gunman-large-after-1-killed-2-injured-southeast-oak-cliff-gunfire)
 
-### [Sheriff's deputies discover 2 bodies, injured person inside Wise County home](https://www.fox4news.com/news/newark-dead-bodies-found-cr-4874-investigation-in-wise-county)
+### [Dallas shooting: Gunman at large after 1 killed, 2 injured in Southeast Oak Cliff gunfire](https://www.fox4news.com/news/dallas-shooting-gunman-large-after-1-killed-2-injured-southeast-oak-cliff-gunfire)
 
- [![Dallas Mavericks host annual turkey giveaway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-alex-mavericks-annual-turkey-giveaway-530p_00.00.18.14.jpg?ve=1&tl=1)
+ [![Duct-tape banana art sells for $6.2 million at auction](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/banana.jpg?ve=1&tl=1)
 
- ![Dallas Mavericks host annual turkey giveaway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-alex-mavericks-annual-turkey-giveaway-530p_00.00.18.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mavericks-host-annual-turkey-giveaway)
+ ![Duct-tape banana art sells for $6.2 million at auction](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/banana.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/duct-tape-banana-art-sells-6-2-million-auction)
 
-### [Dallas Mavericks host annual turkey giveaway](https://www.fox4news.com/news/dallas-mavericks-host-annual-turkey-giveaway)
+### [Duct-tape banana art sells for $6.2 million at auction](https://www.fox4news.com/news/duct-tape-banana-art-sells-6-2-million-auction)
 
- [![Netflix sued over Jake Paul vs. Mike Tyson fight streaming issues](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185058932.jpg?ve=1&tl=1)
+ [![Is Reddit down? Outage reported by social media users](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/reddit-app-getty.jpg?ve=1&tl=1)
 
- ![Netflix sued over Jake Paul vs. Mike Tyson fight streaming issues](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185058932.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jake-paul-mike-tyson-netflix-lawsuit)
+ ![Is Reddit down? Outage reported by social media users](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/reddit-app-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/reddit-down-outage-reported-social-media-users)
 
-### [Netflix sued over Jake Paul vs. Mike Tyson fight streaming issues](https://www.fox4news.com/news/jake-paul-mike-tyson-netflix-lawsuit)
+### [Is Reddit down? Outage reported by social media users](https://www.fox4news.com/news/reddit-down-outage-reported-social-media-users)
 
- [![Botham Jean's family awarded nearly $100M in civil wrongful death case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/f7d2b0f1-V-BOTHAM20JEAN20FAMILY20PRESSER204A_00.00.04.12_1539790895919.png_6232291_ver1.0.jpg?ve=1&tl=1)
+ [![1,500 migrants head toward US border, some hoping to arrive before Trump’s second term](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/migrants-mexico-getty.jpg?ve=1&tl=1)
 
- ![Botham Jean's family awarded nearly $100M in civil wrongful death case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/f7d2b0f1-V-BOTHAM20JEAN20FAMILY20PRESSER204A_00.00.04.12_1539790895919.png_6232291_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-guyger-botham-jean-civil-trial-verdict)
+ ![1,500 migrants head toward US border, some hoping to arrive before Trump’s second term](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/migrants-mexico-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1500-migrants-us-mexico-border-some-before-trump-presidency)
 
-### [Botham Jean's family awarded nearly $100M in civil wrongful death case](https://www.fox4news.com/news/amber-guyger-botham-jean-civil-trial-verdict)
+### [1,500 migrants head toward US border, some hoping to arrive before Trump’s second term](https://www.fox4news.com/news/1500-migrants-us-mexico-border-some-before-trump-presidency)
 
- [![Homeless man set 3 Fort Worth apartment fires after being kicked out for squatting: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/adam-ewing-mug-web.png?ve=1&tl=1)
+ [![Utah judge dismisses Gabby Petito wrongful death lawsuit against Moab police](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1236023867.jpg?ve=1&tl=1)
 
- ![Homeless man set 3 Fort Worth apartment fires after being kicked out for squatting: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/adam-ewing-mug-web.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/adam-erwing-fire-arson-fort-worth)
+ ![Utah judge dismisses Gabby Petito wrongful death lawsuit against Moab police](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1236023867.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/utah-judge-dismisses-petito-lawsuit)
 
-### [Homeless man set 3 Fort Worth apartment fires after being kicked out for squatting: police](https://www.fox4news.com/news/adam-erwing-fire-arson-fort-worth)
+### [Utah judge dismisses Gabby Petito wrongful death lawsuit against Moab police](https://www.fox4news.com/news/utah-judge-dismisses-petito-lawsuit)
 
 ###### [News](https://www.fox4news.com/news)
 
