@@ -65,6 +65,7 @@ Menu
 * [Cart](https://hugeminis.com/cart/)
 * [Checkout](https://hugeminis.com/checkout/)
 * [Contact Us](https://hugeminis.com/contact-us/)
+* [Content Marketing](https://hugeminis.com/content-marketing/)
 * [Convention Schedule](https://hugeminis.com/convention-schedule/)
 * [Dashboard](https://hugeminis.com/dashboard/)
 * [Gift Card Balance](https://hugeminis.com/gift-card-balance/)
@@ -160,9 +161,10 @@ Made in USA Our art and scale modeling products are made by hand in the USA. ![H
 
 Programs
 
-* [Wholesale](https://hugeminis.com/wholesale/)
-* [Affiliate Program](https://hugeminis.com/affiliates/)
+* [Wholesale Inquiry](https://hugeminis.com/wholesale/)
 * [Affiliate Showcase](https://hugeminis.com/affiliate-showcase/)
+* [Become an Affiliate](https://hugeminis.com/affiliates/)
+* [Content Marketing](https://hugeminis.com/content-marketing/)
 
 Social
 
