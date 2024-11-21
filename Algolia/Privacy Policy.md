@@ -158,7 +158,7 @@ Select Policy
 
 [Legal Information](https://www.algolia.com/policies/legal)
 
-[Cookies](https://www.algolia.com/policies/cookies)
+[Cookies 🍪](https://www.algolia.com/policies/cookies)
 
 [Infrastructure & Sub-Processors](https://www.algolia.com/policies/infrastructure-and-sub-processors)
 
@@ -534,13 +534,12 @@ If you have questions or concerns about this Privacy Policy, please contact Algo
 
 [![TRUSTe](https://privacy-policy.truste.com/privacy-seal/seal?rid=3af6b59c-c523-4ee0-8a77-e5a14039d1fa)](https://privacy.truste.com/privacy-seal/validation?rid=3af6b59c-c523-4ee0-8a77-e5a14039d1fa)
 
-### Previous Versions:
+### Previous versions:
 
-* [Version 1 (June 10, 2013)](https://www.algolia.com/policies/old/privacy-2013-06-10)
-* [Version 2 (August 19, 2013)](https://www.algolia.com/policies/old/privacy-2013-08-19)
-* [Version 3 (July 4, 2016)](https://www.algolia.com/policies/old/privacy-2016-07-04)
-* [Version 4 (May 25, 2018)](https://www.algolia.com/policies/old/privacy-2018-05-25)
-* [Privacy Policy | Algolia](https://www.algolia.com/policies/old/privacy-2013-06-1)
+* [Version 1 (June 10, 2013)](https://algolia.vercel.app/policies/old/privacy-2013-06-10/)
+* [Version 2 (August 19, 2013)](https://algolia.vercel.app/policies/old/privacy-2013-08-19/)
+* [Version 3 (July 4, 2016)](https://algolia.vercel.app/policies/old/privacy-2016-07-04/)
+* [Version 4 (May 25, 2018)](https://algolia.vercel.app/policies/old/privacy-2018-05-25/)
 
 #### Solutions
 
