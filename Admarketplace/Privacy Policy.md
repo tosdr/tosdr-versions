@@ -28,7 +28,7 @@ Learn more](https://www.admarketplace.com/blog/unwrap-search-advertising-success
 
 Just Browsing: Shaping Consumer Intent with Media Opportunities on Open Web Privacy Browsers
 
-Learn more](https://www.admarketplace.com/blog/just-browsing-shaping-consumer-intent-with-media-opportunities-on-open-web-privacy-browsers)
+Learn More](https://www.admarketplace.com/blog/just-browsing-shaping-consumer-intent-with-media-opportunities-on-open-web-privacy-browsers)
 
 [See all articles](https://www.admarketplace.com/blog)
 
@@ -74,7 +74,7 @@ Transforming Marketing Expertise into Product Innovation
 
 Learn more](https://www.admarketplace.com/blog/marketing-leader-to-senior-product-manager-transforming-marketing-expertise-into-product-innovation-transitioning-from-a-career)
 
-[Log In](https://my.admarketplace.com/login/login.html)
+[Log In](https://amplify.admarketplace.com/performance-overview)
 
 [Contact Us](https://www.admarketplace.com/contact-us)
 
@@ -627,7 +627,7 @@ About
 
 Privacy Terms
 
-[Privacy-Minded](https://www.admarketplace.com/privacy-policy)[Cookieless](https://www.admarketplace.com/terms-of-use)
+[Privacy-Minded](https://www.admarketplace.com/privacy-policy)[Terms of Use](https://www.admarketplace.com/terms-of-use)
 
 Our Office Locations:
 
