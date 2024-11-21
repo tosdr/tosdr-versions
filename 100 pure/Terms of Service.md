@@ -1156,7 +1156,7 @@ ADD TO TOTE
 
 $28.00 $28.00
 
-Blackberry - $28 Blueberry - $28 Dark Chocolate - $28 Black Tea - $28
+Blackberry - $28 Blueberry - $28 Black Tea - $28 Dark Chocolate - $28
 
 Blueberry
 
