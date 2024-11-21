@@ -139,10 +139,10 @@ We got you covered!
 
 [Download logo pack](https://www.algolia.com/algolia-logo-pack.zip)
 
-Cookies
-=======
+Cookies 🍪
+==========
 
-Algolia's use of cookies
+Algolia's use of cookies 
 
 Select Policy
 
@@ -158,7 +158,7 @@ Select Policy
 
 [Legal Information](https://www.algolia.com/policies/legal)
 
-[Cookies](https://www.algolia.com/policies/cookies)
+[Cookies 🍪](https://www.algolia.com/policies/cookies)
 
 [Infrastructure & Sub-Processors](https://www.algolia.com/policies/infrastructure-and-sub-processors)
 
