@@ -215,13 +215,13 @@ Call Now for a FREE Quote! [1-877-OXI-FRESH](tel:18776943737) **OR**
     * [Consideration Request](https://www.oxifresh.com/carpet-cleaning-companies/carpet-cleaning-franchise/considerationrequest/)
 * [Franchisee Login](https://www.oxifresh.com/login/index.html)
 
-![The World's Greenest Carpet Cleaner](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDI4MCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![Fast 1 Hour Dry Time Carpet Cleaner](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAwIDI4MCIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIyODAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 304,284 Reviews
+Average 4.7 Stars Based on 304,417 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -441,17 +441,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 304,284 Carpet Cleaning Services Reviews
+Based on 304,417 Carpet Cleaning Services Reviews
 
-**SS.** - Calgary, AB - 11/19/2024
-
-(5.0 Out of 5 stars)
-
-**DM.** - Colorado Springs, CO - 11/19/2024
+**RS.** - Norfolk, VA - 11/20/2024
 
 (5.0 Out of 5 stars)
 
-Good service. Affordable! **JT.** - Denver, CO - 11/19/2024
+Tristan did a great job, he was very courteous and the carpet looks great! **ES.** - Loveland, CO - 11/20/2024
+
+(5.0 Out of 5 stars)
+
+Carpets look new when finished. **MG.** - Bethlehem, PA - 11/20/2024
 
 (5.0 Out of 5 stars)
 
