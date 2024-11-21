@@ -12,7 +12,11 @@ Close
 
 ![](data:,)
 
-[](https://ok.ru/dk?st.cmd=anonymMain)
+[![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdQVFXbtO3zWrJOpnzGUvi3yJF9JVQZJhPpPOIcIDc5ec)![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdEtdJG3557Xn52fp90WnrNCJF9JVQZJhPpPOIcIDc5ec)](https://ok.ru/dk?st.cmd=anonymMain)
+
+Mothers' Day
+
+Participate in our celebratory photo competition #FirstWord
 
 English
 
