@@ -59,11 +59,11 @@ membership ticker
 
 [Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR63%7CPAHPR63/)
 
-Are there any guardrails left?
+Autocratic forces are ascendant.
 
-Autocratic forces are ascendant in America, but the story isn’t fully written. **Truth-telling independent media is one remaining bulwark against the unrestrained exercise of power**. At a time when billionaire owners of corporate media are making accommodations to power, our nonprofit newsroom cannot be bought, bent, or broken. **Depend on it, and please stand with us**.
+Truth-telling independent media is one remaining bulwark against an autocrat’s unrestrained exercise of power. At a time when billionaire owners of corporate media are making accommodations to political leaders, our nonprofit newsroom cannot be bought, bent, or broken. **Depend on it, and please stand with us**.
 
-Autocratic forces are ascendant in America, but the story isn’t fully written. **Truth-telling independent media is one remaining bulwark against the unrestrained exercise of power**. At a time when billionaire owners of corporate media are making accommodations to power, our nonprofit newsroom cannot be bought or broken. **Please stand with us**.
+Autocratic forces are ascendant in America. But truth-telling independent media is one remaining bulwark against the unrestrained exercise of power. At a time when billionaire owners of corporate media are making accommodations to political leaders, our nonprofit newsroom cannot be bought or broken. **Please stand with us**.
 
 [Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRY%7CPAHPMRY/)
 
