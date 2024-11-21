@@ -1,6 +1,6 @@
 ![websights](https://ws.zoominfo.com/pixel/632dc96851510bcd6667d089)        
 
-[![webinar-net-logo-inline-light-bg](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinar-net-logo-inline-light-bg-1.png)](https://www.webinar.net/)
+[![](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinar-net-logo-inline-White-w-xcyte.png)](https://www.webinar.net/)
 
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIyMzIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
@@ -201,7 +201,7 @@ As we sell products, it's important for us to understand statistics about how ma
 
 This Privacy Notice governs use of this internet site. However, if you register for (or attend) an event hosted by webinar.net, your participation may be governed by additional and/or different privacy policies, including privacy polices of an event sponsor who may gather or receive and use your data pursuant to its own policy. Upon registering for an event, you should receive the privacy policies that are applicable to your participation in that event and be asked to agree to them. If you register for an event but do not receive event policy notices, or if you have questions about policies presented, please notify us at info@webinar.net before proceeding.
 
-[![webinar-net-logo-stacked-light-bg](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinar-net-logo-stacked-light-bg-1.png)](https://www.webinar.net/)
+[![](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinar-net-logo-stacked-white-xcyte.png)](https://www.webinar.net/)
 
 ##### About
 
@@ -242,6 +242,9 @@ Webinar.net is the first online presentation platform fully hosted in the cloud.
 * [Terms of Services](https://www.webinar.net/terms-of-service/)
 * [Privacy Policy](https://www.webinar.net/privacy-policy/)
 * [Information Security Policy](https://www.webinar.net/information-security-policy/)
+* [An Xcyte Digital Company](https://xcytedigital.com/)
+
+* [© webinar.net All rights reserved.](https://www.webinar.net/terms-of-service/)
 
 [![webinar-net-logo-inline-light-bg](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinar-net-logo-inline-light-bg-1.png)](https://www.webinar.net/)
 
