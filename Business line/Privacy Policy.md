@@ -8,17 +8,17 @@
 
 + 64.70
 
-##### CRUDEOIL   5,861.00
+##### CRUDEOIL   5,831.00
 
-+ 25.00
+ -27.00
 
-##### GOLD   75,570.00
+##### GOLD   76,059.00
 
-+ 523.00
++ 472.00
 
-##### SILVER   90,640.00
+##### SILVER   90,247.00
 
-+ 127.00
+ -373.00
 
 ##### SENSEX   77,578.38
 
@@ -32,17 +32,17 @@
 
 + 64.70
 
-##### CRUDEOIL   5,861.00
+##### CRUDEOIL   5,831.00
 
-+ 25.00
+ -27.00
 
-##### CRUDEOIL   5,861.00
+##### CRUDEOIL   5,831.00
 
-+ 25.00
+ -27.00
 
-##### GOLD   75,570.00
+##### GOLD   76,059.00
 
-+ 523.00
++ 472.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -708,10 +708,10 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 ##### Trending on businessline
 
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-11-november-2024/article68852303.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Maharashtra Assembly Election 2024](https://www.thehindubusinessline.com/news/maharashtra-assembly-elections-2024-live-updates/article68868322.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Maharashtra Election 2024 Live](https://www.thehindubusinessline.com/news/national/maharashtra-assembly-elections-2024-live-news-updates-20-november-2024/article68886334.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) NTPC IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/ntpc-green-energy-ipo-gmp-day-2-subscription-status-live-updates-20-november-2024/article68881686.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Swiggy Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/swiggy-stocks-share-price-today-swiggy-ipo-listing-live-13-nov-2024/article68859042.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Niva Bupa IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/niva-bupa-health-insurance-ipo-gmp-today-live-updates-11-nov-2024/article68854423.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Asian Paints Share Price](https://www.thehindubusinessline.com/markets/stock-markets/asian-paints-stock-asian-paints-share-price-today-live-updates-11-nov-2024/article68854414.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Delhi Air Pollution Live](https://www.thehindubusinessline.com/news/national/delhi-weather-temperature-delhi-ncr-aqi-air-quality-pollution-live-updates-today-20-nov-2024/article68880880.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI Monetary Policy Live](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-october-2024-live-news-updates/article68732719.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Ratan Tata Stocks Live](https://www.thehindubusinessline.com/markets/stock-markets/ratan-tata-group-stocks-tcs-tata-motors-tata-power-tata-steel-titan-tata-technologies-tata-communications-share-price-live-updates-11-oct-2024/article68739247.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-live-updates-and-news-august-2024/article68496081.ece)
