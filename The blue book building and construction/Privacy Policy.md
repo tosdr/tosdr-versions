@@ -101,7 +101,7 @@ Find
 
 [Send ITB](https://www.thebluebook.com/send-bid-invitation.html)
 
-[888-720-1710](tel:+18887201710)
+[888-720-1710](tel:+1888-720-1710)
 
 * [Home](https://www.thebluebook.com/)
 
