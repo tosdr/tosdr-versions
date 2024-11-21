@@ -28,20 +28,22 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250501)
 * [Women's BBL
     
+    Tied After S/O
+    
     |     |     |
     | --- | --- |
-    | SYD6 | 6 /113 |
+    | SYD6 | 7 /126 |
     | PER | 126 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250134)
 * [Women's BBL
     
-    21/11 19:15 AEST
+    MELR won by 22 runs
     
     |     |     |
     | --- | --- |
-    | HOB | –   |
-    | MELR | –   |
+    | HOB | 8 /128 |
+    | MELR | 5 /150 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250135)
 * Motorsport
@@ -150,14 +152,54 @@ FOX SCORES
     | ORL | 93  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010243/box-score)
-* [WNBL
+* [NBA
     
-    1st Qtr
+    22/11 11:00 AEST
     
     |     |     |
     | --- | --- |
-    | CAN | 12  |
-    | TWN | 14  |
+    | CHA | –   |
+    | DET | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010244)
+* [NBA
+    
+    22/11 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | TOR | –   |
+    | MIN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010245)
+* [NBA
+    
+    22/11 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SA  | –   |
+    | UTA | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010246)
+* [NBA
+    
+    22/11 14:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LAL | –   |
+    | ORL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010247)
+* [WNBL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | CAN | 81  |
+    | TWN | 80  |
     
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25040002/play-by-play)
 
