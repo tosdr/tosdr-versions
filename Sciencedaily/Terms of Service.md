@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 20, 2024**
+**November 21, 2024**
 
 * * *
 
@@ -229,6 +229,9 @@ this hour
 
 * * *
 
+* [Learning to Trust Robots: Synchronized Motion](https://www.sciencedaily.com/releases/2024/11/241120122448.htm)
+* [Wearable Ultrasound Patch for BP Monitoring](https://www.sciencedaily.com/releases/2024/11/241120122153.htm)
+* [Novel Antibiotic for Drug-Resistant Bacteria](https://www.sciencedaily.com/releases/2024/11/241120122028.htm)
 * [Dinosaur Drumsticks and the Turkey Trot](https://www.sciencedaily.com/releases/2024/11/241120121648.htm)
 * [Key to Climate-Resilient Crops](https://www.sciencedaily.com/releases/2024/11/241120121644.htm)
 * [Healthy Women Have Cells That Look Cancerous](https://www.sciencedaily.com/releases/2024/11/241120121609.htm)
@@ -236,9 +239,6 @@ this hour
 * [Turning Carbon Emissions Into Methane Fuel](https://www.sciencedaily.com/releases/2024/11/241120193041.htm)
 * [The Chilling Sound of the Aztec Death Whistle](https://www.sciencedaily.com/releases/2024/11/241119132940.htm)
 * [How Cells Habituate](https://www.sciencedaily.com/releases/2024/11/241119132429.htm)
-* [Flying Reptiles: How Pterosaurs Become Giants](https://www.sciencedaily.com/releases/2024/11/241118125218.htm)
-* [Effortless Robot Movements](https://www.sciencedaily.com/releases/2024/11/241118125806.htm)
-* [Mouse Created from Gene Older Than Animal Life](https://www.sciencedaily.com/releases/2024/11/241118125716.htm)
 
 Trending Topics
 ---------------
@@ -253,13 +253,13 @@ this week
 
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
-[Learning Disorders](https://www.sciencedaily.com/news/mind_brain/learning_disorders/)
+[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
-[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
+[Nuclear Energy](https://www.sciencedaily.com/news/matter_energy/nuclear_energy/)
 
 [Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
 
@@ -267,9 +267,9 @@ this week
 
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
-[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
+[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
 
-[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
+[Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
   
 
