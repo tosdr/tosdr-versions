@@ -1,6 +1,6 @@
 ![websights](https://ws.zoominfo.com/pixel/632dc96851510bcd6667d089)        
 
-[![webinar-net-logo-inline-light-bg](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinar-net-logo-inline-light-bg-1.png)](https://www.webinar.net/)
+[![](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinar-net-logo-inline-White-w-xcyte.png)](https://www.webinar.net/)
 
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIyMzIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
@@ -195,7 +195,7 @@ These Terms and any action related thereto will be governed by the laws of the S
 
 Please submit your inquiries to info@webinar.net.
 
-[![webinar-net-logo-stacked-light-bg](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinar-net-logo-stacked-light-bg-1.png)](https://www.webinar.net/)
+[![](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinar-net-logo-stacked-white-xcyte.png)](https://www.webinar.net/)
 
 ##### About
 
@@ -236,6 +236,9 @@ Webinar.net is the first online presentation platform fully hosted in the cloud.
 * [Terms of Services](https://www.webinar.net/terms-of-service/)
 * [Privacy Policy](https://www.webinar.net/privacy-policy/)
 * [Information Security Policy](https://www.webinar.net/information-security-policy/)
+* [An Xcyte Digital Company](https://xcytedigital.com/)
+
+* [© webinar.net All rights reserved.](https://www.webinar.net/terms-of-service/)
 
 [![webinar-net-logo-inline-light-bg](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinar-net-logo-inline-light-bg-1.png)](https://www.webinar.net/)
 
