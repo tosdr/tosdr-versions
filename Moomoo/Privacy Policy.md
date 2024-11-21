@@ -124,7 +124,7 @@
 
 Log in
 
-[Download](https://www.moomoo.com/us/download)
+[Download](https://www.moomoo.com/us/download?d=usNavbarViewMoreVersions)
 
 Mobile
 
@@ -136,7 +136,7 @@ Desktop
 
 [Download now](javascript:;)
 
-[View more versions](https://www.moomoo.com/us/download)
+[View more versions](https://www.moomoo.com/us/download?d=usNavbarViewMoreVersions)
 
 Sign up/Log in
 
@@ -259,7 +259,7 @@ Back
 * Dark
 * Light
 
-[Download](https://www.moomoo.com/us/download)
+[Download](https://www.moomoo.com/us/download?d=usNavbarViewMoreVersions)
 
 [Log in to access Online Inquiry](javascript:;)
 
