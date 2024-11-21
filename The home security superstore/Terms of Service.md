@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[Buy 1 Get 1 Free Disguised Knives I Click Here!](https://www.thehomesecuritysuperstore.com/collections/bogo-disguised-knifes?utm_source=website&utm_medium=banner&utm_campaign=Buy+1+Get+1+Free+Disguised+Knives)
+[20% OFF VIP COLLECTION I Click Here!](https://www.thehomesecuritysuperstore.com/collections/vip-collection?utm_source=website&utm_medium=banner&utm_campaign=20%25+OFF+VIP+SALE)
 
-TODAY'S OFFER: :: | Buy 1 Get 1 Free Disguised Knives I Click Here!
+TODAY'S OFFER: :: | 20% OFF VIP COLLECTION I Click Here!
 
 TODAY'S OFFER: : :
 
- Buy 1 Get 1 Free Disguised Knives I Click Here!
+ 20% OFF VIP COLLECTION I Click Here!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
