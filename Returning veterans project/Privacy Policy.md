@@ -185,10 +185,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Joel Beal](https://cdn.returningveterans.org/images/honor/beal_joel.jpg)  
+![Mary Cronkhite-Johns](https://cdn.returningveterans.org/images/honor/Mary_CJ2.png)  
 
-**In Memory of Joel Beal**  
-Submitted by Rad Chad](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Mary Cronkhite-Johns**  
+Submitted by Mary Nielsen](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -216,8 +216,6 @@ Returning Veterans Project
 
 [![Veteran Ready](https://cdn.returningveterans.org/images/site/veteran-ready.png)](https://psycharmor.org/partners)
 
-![National Association of Veteran-Serving Organizations](https://cdn.returningveterans.org/images/site/navso.png)
-
 [![Combined Federal Campaign](https://cdn.returningveterans.org/images/site/logo-cfc.png)](https://cfcgiving.opm.gov/welcome)
 
 [![Charity Navigator](https://cdn.returningveterans.org/images/site/charity-navigator.png)](https://www.charitynavigator.org/ein/204034255)
@@ -233,5 +231,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/20/24 - 1:28:24  
+Printed 11/20/24 - 7:20:31  
 © 2024 Returning Veterans Project
