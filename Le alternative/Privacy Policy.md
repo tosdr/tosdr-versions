@@ -12,7 +12,7 @@
 * [CATEGORIE](https://www.lealternative.net/menu "Menù")
 * [PROGETTI ETICI](https://www.lealternative.net/progetti-etici/ "Progetti etici")
 * [DIZIONARIO](https://www.lealternative.net/dizionario-nerd-italiano/ "Dizionario Nerd – Italiano")
-* [LISTA](https://lista.lealternative.net/ "lista.lealternative.net")
+* [LISTA](https://lista.lealternative.net/ "Link esterno su: lista.lealternative.net")
 * [COMUNITÀ](https://www.lealternative.net/come-seguirci/ "Come seguirci")
 * [🔎](https://www.lealternative.net/cerca-nel-sito/ "Cerca alternative")
 * [![Snowflake di Tor Project](/wp-content/uploads/loghi/snowflake.svg)](https://www.lealternative.net/snowflake/ "Snowflake di Tor Project")
@@ -55,10 +55,10 @@ Questi servizi hanno lo scopo di ospitare e far funzionare componenti chiave di 
 Alcuni di questi servizi funzionano attraverso server dislocati geograficamente in luoghi differenti, rendendo difficile la determinazione del luogo esatto in cui vengono conservati i Dati Personali.
 
 **Infomaniak**  
-[Infomaniak.com](https://www.infomaniak.com/ "www.infomaniak.com") è una piattaforma che consente al Titolare di sviluppare, far funzionare ed ospitare questo sito.
+[Infomaniak.com](https://www.infomaniak.com/ "Link esterno su: www.infomaniak.com") è una piattaforma che consente al Titolare di sviluppare, far funzionare ed ospitare questo sito.
 
 **Dati Personali trattati:** varie tipologie di Dati secondo quanto specificato dalla privacy policy del servizio.  
-**Luogo del trattamento:** Svizzera – [Privacy Policy](https://www.infomaniak.com/it/cgv/informativa-sulla-privacy "www.infomaniak.com").
+**Luogo del trattamento:** Svizzera – [Privacy Policy](https://www.infomaniak.com/it/cgv/informativa-sulla-privacy "Link esterno su: www.infomaniak.com").
 
 #### Finalità del trattamento
 
@@ -78,7 +78,7 @@ I dati verranno trattati con le seguenti modalità:
 ### Statistiche
 
 **Koko Analytics**  
-Per le statistiche viene utilizzato Koko Analytics, un servizio totalmente privacy-friendly che non raccoglie nessun dato personale, non richiede cookie e e non utilizza nessun servizio esterno. Per maggiori informazioni il loro sito ufficiale: **[kokoanalytics.com](https://www.kokoanalytics.com/ "www.kokoanalytics.com")**.
+Per le statistiche viene utilizzato Koko Analytics, un servizio totalmente privacy-friendly che non raccoglie nessun dato personale, non richiede cookie e e non utilizza nessun servizio esterno. Per maggiori informazioni il loro sito ufficiale: **[kokoanalytics.com](https://www.kokoanalytics.com/ "Link esterno su: www.kokoanalytics.com")**.
 
 ### Natura obbligatoria
 
@@ -112,28 +112,28 @@ Usando il nostro sito web, acconsenti alla nostra politica sulla privacy e accet
 
 [💙 donazioni](https://www.lealternative.net/donazioni/)
 
-* [Mastodon](https://mastodon.uno/@lealternative "mastodon.uno")
-* [Telegram](https://t.me/lealternative "t.me")
-* [Signal](https://fedd.it/signal "fedd.it")
-* [Matrix](https://matrix.to/#/%23LeAlternativeGruppo:matrix.org "matrix.to")
-* [PeerTube](https://peertube.uno/accounts/lealternativenet/video-channels "peertube.uno")
-* [Lemmy/Feddit](https://feddit.it/c/lealternative "feddit.it")
-* [Pixelfed](https://pixelfed.uno/lealternative "pixelfed.uno")
-* [Reddit](https://www.reddit.com/r/LeAlternative/ "www.reddit.com")
-* [RSS](https://lealternative.net/feed "lealternative.net")
-* [WhatsApp](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L "whatsapp.com")
-* [Facebook](https://www.facebook.com/LeAlternative.net "www.facebook.com")
-* [Instagram](https://www.instagram.com/_le_alternative/ "www.instagram.com")
-* [Discord](https://discord.gg/8H66M2EG "discord.gg")
-* [Pinterest](https://www.pinterest.it/le_alternative/ "www.pinterest.it")
-* [Youtube](https://www.youtube.com/@lealternative "www.youtube.com")
-* [Google News](https://news.google.com/s/CBIwrIyQxEQ "news.google.com")
-* [Email](mailto:info@lealternative.net)
+* [Mastodon](https://mastodon.uno/@lealternative "Link esterno su: mastodon.uno")
+* [Telegram](https://t.me/lealternative "Link esterno su: t.me")
+* [Signal](https://fedd.it/signal "Link esterno su: fedd.it")
+* [Matrix](https://matrix.to/#/%23LeAlternativeGruppo:matrix.org "Link esterno su: matrix.to")
+* [PeerTube](https://peertube.uno/accounts/lealternativenet/video-channels "Link esterno su: peertube.uno")
+* [Lemmy/Feddit](https://feddit.it/c/lealternative "Link esterno su: feddit.it")
+* [Pixelfed](https://pixelfed.uno/lealternative "Link esterno su: pixelfed.uno")
+* [Reddit](https://www.reddit.com/r/LeAlternative/ "Link esterno su: www.reddit.com")
+* [RSS](https://lealternative.net/feed "Link esterno su: lealternative.net")
+* [WhatsApp](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L "Link esterno su: whatsapp.com")
+* [Facebook](https://www.facebook.com/LeAlternative.net "Link esterno su: www.facebook.com")
+* [Instagram](https://www.instagram.com/_le_alternative/ "Link esterno su: www.instagram.com")
+* [Discord](https://discord.gg/8H66M2EG "Link esterno su: discord.gg")
+* [Pinterest](https://www.pinterest.it/le_alternative/ "Link esterno su: www.pinterest.it")
+* [Youtube](https://www.youtube.com/@lealternative "Link esterno su: www.youtube.com")
+* [Google News](https://news.google.com/s/CBIwrIyQxEQ "Link esterno su: news.google.com")
+* [Email](mailto:info@lealternative.net "Link esterno su: ")
 
 [![Le Alternative](https://www.lealternative.net/wp-content/uploads/2021/11/logowhite-orange-new-conbordino.png)](https://www.lealternative.net/)
 
 [Trasparenza](https://www.lealternative.net/donazioni/#trasparenza) | [Contatti](https://www.lealternative.net/chi-siamo/#contatti) | [Disclaimer](https://www.lealternative.net/disclaimer/) | [Privacy](https://www.lealternative.net/privacy-policy/) | [CC BY-SA 4.0](https://www.lealternative.net/disclaimer/#licenza)  
-[Stato dei nostri servizi grazie a UptimeRobot ![Logo di UptimeRobot](/wp-content/uploads/loghi/uptimerobot-logo-01-safe-bff1bd066d46.webp)](https://stats.uptimerobot.com/ACzo47d1gZ)   
+[Stato dei nostri servizi](https://stats.uptimerobot.com/ACzo47d1gZ) grazie a [UptimeRobot](https://www.uptimerobot.com/ "Link al sito UptimeRobot") [![Logo di UptimeRobot](/wp-content/uploads/loghi/uptimerobot-logo-01-safe-bff1bd066d46.webp)](https://stats.uptimerobot.com/ACzo47d1gZ)  
 Questo sito [utilizza](https://www.infomaniak.com/it/ecologia) solo energia verde 💚
 
 • Questo sito utilizza solo cookie tecnici e non fa alcuna profilazione. Per questo non dovete firmare strani patti con il diavolo per visitarci.  
