@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Balance
+
+### Good is ‘the strongest gravity,’ says ‘Wicked’ author Maguire](https://www.csmonitor.com/The-Culture/Movies/2024/1121/wicked-gregory-maguire-ariana-grande-cynthia-erivo "Good is ‘the strongest gravity,’ says ‘Wicked’ author Maguire")
+
 [Cooperation
 
 ### Facing Trump 2.0, Palestinians voice rising concern: What’s our plan?](https://www.csmonitor.com/World/Middle-East/2024/1120/trump-west-bank-palestinian-diplomacy-israel "Facing Trump 2.0, Palestinians voice rising concern: What’s our plan?")
@@ -99,10 +103,6 @@ Recent Stories
 [Integrity
 
 ### Antidotes to Venezuela’s election lies](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1120/Antidotes-to-Venezuela-s-election-lies "Antidotes to Venezuela’s election lies")
-
-[Justice
-
-### 50 years ago, the UK expelled Chagos Islanders. A court ruling may mean they can go home.](https://www.csmonitor.com/World/Africa/2024/1120/chagos-mauritius-united-kingdom-icj-return "50 years ago, the UK expelled Chagos Islanders. A court ruling may mean they can go home.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
