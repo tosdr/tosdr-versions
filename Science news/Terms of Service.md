@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Climate change has amped up hurricane wind speeds by 29 kph on average](https://www.sciencenews.org/article/climate-change-hurricane-wind-speeds)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")16 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")22 hours ago
             
         * [Oceans](https://www.sciencenews.org/topic/oceans)
             
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Mars’ potato-shaped moons could be the remains of a shredded asteroid](https://www.sciencenews.org/article/mars-moons-shredded-asteroid)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")9 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")15 hours ago
             
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
