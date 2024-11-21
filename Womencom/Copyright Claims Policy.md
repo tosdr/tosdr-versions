@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Dolly Parton on the red carpet with arms outstretched](https://www.women.com/img/gallery/dolly-partons-most-philanthropic-efforts-across-her-long-career/intro-1731613196.jpg)](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+*  [![Halle Berry on the red carpet smiling](https://www.women.com/img/gallery/5-celebs-who-have-been-vocal-about-avoiding-plastic-surgery/intro-1731690800.jpg)](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
     
-    [Living](https://www.women.com/category/living/)
+    [Wellness](https://www.women.com/category/wellness/)
     
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
     
-    [Dolly Parton's Most Philanthropic Efforts Across Her Long Career](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
-    ========================================================================================================================================================
+    [5 Celebs Who Have Been Vocal About Avoiding Plastic Surgery](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
+    ================================================================================================================================
     
-    Dolly Parton is a philanthropic icon, repeatedly investing in the creativity and futures for people across the globe, as well as her home town.
+    Hollywood will always deliver unrealistic beauty standards. But luckily, some celebrities are taking a stand and are opting to age naturally.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+    By Amanda Chatel [Read More](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
     
-* *  [![Gabrielle Union and Dwayne Wade at a basketball event](https://www.women.com/img/gallery/5-celeb-parents-who-are-loud-proud-supporters-of-their-trans-and-non-binary-children/intro-1731522385.jpg)](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+* *  [![Dolly Parton on the red carpet with arms outstretched](https://www.women.com/img/gallery/dolly-partons-most-philanthropic-efforts-across-her-long-career/intro-1731613196.jpg)](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Emily Hutchinson
+        
+        ### [Dolly Parton's Most Philanthropic Efforts Across Her Long Career](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+        
+        Dolly Parton is a philanthropic icon, repeatedly investing in the creativity and futures for people across the globe, as well as her home town.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+        
+    *  [![Gabrielle Union and Dwayne Wade at a basketball event](https://www.women.com/img/gallery/5-celeb-parents-who-are-loud-proud-supporters-of-their-trans-and-non-binary-children/intro-1731522385.jpg)](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
         
         [Politics](https://www.women.com/category/politics/)
         
@@ -66,29 +78,29 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
         
-    *  [![Emma Watson posing at the British Academy Film Awards](https://www.women.com/img/gallery/try-emma-watsons-viral-daily-journaling-practice-for-a-simple-effective-mindfulness-habit/intro-1731619992.jpg)](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Amanda Chatel
-        
-        ### [Try Emma Watson's Viral Daily Journaling Practice For A Simple, Effective Mindfulness Habit](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
-        
-        If you have yet to start journaling, now might be time. And using Emma Watson's daily journaling practice is a good way to get started.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
-        
 
 More Stories
 ------------
 
+*  [![Emma Watson posing at the British Academy Film Awards](https://www.women.com/img/gallery/try-emma-watsons-viral-daily-journaling-practice-for-a-simple-effective-mindfulness-habit/intro-1731619992.jpg)](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    
+    ### [Try Emma Watson's Viral Daily Journaling Practice For A Simple, Effective Mindfulness Habit](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
+    
+    If you have yet to start journaling, now might be time. And using Emma Watson's daily journaling practice is a good way to get started.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
+    
 *  [![Dolly Parton smiling at an event in 2022](https://www.women.com/img/gallery/the-peoples-librarian-dolly-parton-is-bringing-books-back-to-the-people-thank-goodness/intro-1731513674.jpg)](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
     
     [Politics](https://www.women.com/category/politics/)
     
     [Politics](https://www.women.com/category/politics/) By Madison Emily Whisenand
     
-    ### [The People's Librarian: Dolly Parton Is Bringing Books Back To The People (Thank Goodness)](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
+    ### [The People's Librarian: Dolly Parton Is Bringing Books To Your Community](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
     
     Dolly's Parton Imagination Library is just as relevant as it was in 1995. She may be childfree, but she's truly become the people's librarian.
     
@@ -393,18 +405,6 @@ More Stories
     We love to see celebrity couples happy, but sometimes their public displays of affection get a little too steamy. These awkward moments were definitely NSFW.
     
     By Emily Hutchinson [Read More](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
-    
-*  [![Dylan Mulvaney](https://www.women.com/img/gallery/memoirs-we-cant-wait-to-read-in-2025/intro-1730318048.jpg)](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
-    
-    ### [Memoirs We Can't Wait To Read In 2025](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
-    
-    There are some celebrity memoirs we'd love to see and others we wish didn't exist. But as far as 2025 goes, expect some memoirs that are really, really good.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1701615/memoirs-cant-wait-read-2025/)
     
 
 Back
