@@ -251,8 +251,8 @@ All rights reserved.
 * [Contact](https://www.maketecheasier.com/contact/ "Contact Us")
 * [Advertise](https://www.maketecheasier.com/advertise/ "Advertise with us")
 * [Terms of Use](https://www.maketecheasier.com/terms-of-service/ "Term of Use")
-* [Privacy Policy](https://www.maketecheasier.com/privacy-policy/ "Privacy Policy")
-* [RSS Feed Terms](https://www.maketecheasier.com/rss-feed-terms/ "RSS Feed Terms")
+* [Privacy Policy](https://www.maketecheasier.com/privacy-policy/)
+* [RSS Feed Terms](https://www.maketecheasier.com/rss-feed-terms/)
 
 Do not share my Personal Information.
 
