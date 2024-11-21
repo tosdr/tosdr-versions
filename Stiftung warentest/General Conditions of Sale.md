@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Schnee­anzüge für Kinder im Test: Die Besten trotzen Schnee, Matsch und Regen](https://www.test.de/Schneeanzuege-fuer-Kinder-im-Test-5942073-0/ "Schneeanzüge für Kinder im Test - Die Besten trotzen Schnee, Matsch und Regen")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Schnee­anzüge für Kinder im Test: Die Besten trotzen Schnee, Matsch und Regen](https://www.test.de/Schneeanzuege-fuer-Kinder-im-Test-5942073-0/ "Schneeanzüge für Kinder im Test - Die Besten trotzen Schnee, Matsch und Regen")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Schnee­anzüge für Kinder im Test: Die Besten trotzen Schnee, Matsch und Regen](https://www.test.de/Schneeanzuege-fuer-Kinder-im-Test-5942073-0/ "Schneeanzüge für Kinder im Test - Die Besten trotzen Schnee, Matsch und Regen")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Gut essen mit der Stiftung Warentest: Graved Lachs](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Graved-Lachs-5944496-0/ "Gut essen mit der Stiftung Warentest - Graved Lachs")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
-* [Sonnen­creme fürs Gesicht: Teuer und nicht immer zuver­lässig](https://www.test.de/Sonnencreme-fuers-Gesicht-Teuer-und-nicht-immer-zuverlaessig-6120418-0/ "Sonnencreme fürs Gesicht - Teuer und nicht immer zuverlässig")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
+* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Schnee­anzüge für Kinder im Test: Die Besten trotzen Schnee, Matsch und Regen](https://www.test.de/Schneeanzuege-fuer-Kinder-im-Test-5942073-0/ "Schneeanzüge für Kinder im Test - Die Besten trotzen Schnee, Matsch und Regen")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
 
 Service Stiftung Warentest
 
