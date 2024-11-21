@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/hoezo-cbd-illegaal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/het-wef-verwerft-goddelijke-krachten/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
