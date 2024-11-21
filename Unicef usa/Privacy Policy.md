@@ -100,6 +100,7 @@ Sort by RelevanceNewestOldest
         * [Donors & Philanthropists](https://www.unicefusa.org/how-help/donate/donors-philanthropists)
         * [Joint Investment Mechanism](https://www.unicefusa.org/how-help/donate/joint-investment-mechanism)
         * [Donor-Advised Funds](https://www.unicefusa.org/how-help/donate/donor-advised-funds)
+        * [Planned Giving ^](https://unicefusa.planmylegacy.org/)
     * [Fundraise](https://www.unicefusa.org/how-help/fundraise-UNICEF-USA)
     * [Impact Investing](https://www.unicefusa.org/how-help/donate/impact-fund-children/bridge-fund)
     * [UNICEF Clubs](https://www.unicefusa.org/how-help/unicef-clubs)
