@@ -60,6 +60,12 @@ AllLive NowToday
     
     1st Test
     
+* New Zealand v England, 2024
+    
+    [New Zealand XI vs England](https://www.cricbuzz.com/live-cricket-scores/109309/nzxi-vs-eng-two-day-warm-up-match-new-zealand-v-england-2024 "New Zealand XI v England, Two-day warm-up Match - Upcoming")
+    
+    Two-day warm-up Match
+    
 * New Zealand tour of Sri Lanka, 2024
     
     [New Zealand vs Sri Lanka](https://www.cricbuzz.com/live-cricket-scores/108761/nz-vs-sl-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 3rd ODI - Complete")
@@ -68,11 +74,7 @@ AllLive NowToday
     
 * West Indies v Bangladesh, 2024
     
-    [Bangladesh vs West Indies Select XI](https://www.cricbuzz.com/live-cricket-scores/95200/ban-vs-wisxi-2-day-warm-up-match-west-indies-v-bangladesh-2024 "Bangladesh v West Indies Select XI, 2-day Warm-up match - Match drawn")
-    
-    2-day Warm-up match
-    
-* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95205/wi-vs-ban-1st-test-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 1st Test - Upcoming")
+    [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95205/wi-vs-ban-1st-test-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 1st Test - Upcoming")
     
     1st Test
     
@@ -102,13 +104,13 @@ AllLive NowToday
     
     6th Match
     
-* [Bahrain vs Thailand](https://www.cricbuzz.com/live-cricket-scores/108984/bhr-vs-thai-8th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bahrain v Thailand, 8th Match - Upcoming")
-    
-    8th Match
-    
 * [United Arab Emirates vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108980/uae-vs-cbd-7th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "United Arab Emirates v Cambodia, 7th Match - Upcoming")
     
     7th Match
+    
+* [Bahrain vs Thailand](https://www.cricbuzz.com/live-cricket-scores/108984/bhr-vs-thai-8th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bahrain v Thailand, 8th Match - Upcoming")
+    
+    8th Match
     
 * [Saudi Arabia vs Bhutan](https://www.cricbuzz.com/live-cricket-scores/108987/sau-vs-btn-9th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Saudi Arabia v Bhutan, 9th Match - Upcoming")
     
@@ -170,17 +172,23 @@ AllLive NowToday
     
     2nd Unofficial Test
     
+* Sheffield Shield 2024-25
+    
+    [South Australia vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102916/saus-vs-wa-13th-match-sheffield-shield-2024-25 "South Australia v Western Australia, 13th Match - Upcoming")
+    
+    13th Match
+    
 * Plunket Shield
     
-    [Wellington vs Otago](https://www.cricbuzz.com/live-cricket-scores/107465/wel-vs-otg-6th-match-plunket-shield "Wellington v Otago, 6th Match - Stumps")
+    [Wellington vs Otago](https://www.cricbuzz.com/live-cricket-scores/107465/wel-vs-otg-6th-match-plunket-shield "Wellington v Otago, 6th Match - Break")
     
     6th Match
     
-* [Central Districts vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Stumps")
+* [Central Districts vs Canterbury  LIVE](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Live")
     
     5th Match
     
-* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Stumps")
+* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Break")
     
     4th Match
     
@@ -207,6 +215,10 @@ AllLive NowToday
 * [Brisbane Heat Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/101424/brhw-vs-mlsw-36th-match-wbbl-2024 "Brisbane Heat Women v Melbourne Stars Women, 36th Match - Upcoming")
     
     36th Match
+    
+* [Melbourne Renegades Women vs Sydney Thunder Women](https://www.cricbuzz.com/live-cricket-scores/101431/mlrw-vs-sytw-37th-match-wbbl-2024 "Melbourne Renegades Women v Sydney Thunder Women, 37th Match - Upcoming")
+    
+    37th Match
     
 
 Privacy Policy
@@ -515,23 +527,29 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132475/west-indies-eager-to-end-2024-on-winning-note-insists-andre-coley "West Indies eager to end 2024 on winning note, insists Andre Coley ")
+
+[West Indies eager to end 2024 on winning note, insists Andre Coley](https://www.cricbuzz.com/cricket-news/132475/west-indies-eager-to-end-2024-on-winning-note-insists-andre-coley "West Indies eager to end 2024 on winning note, insists Andre Coley ")
+
+14m ago
+
   [](https://www.cricbuzz.com/cricket-news/132474/thunder-maintain-top-spot-with-thrilling-win "Thunder maintain top spot with thrilling win")
 
 [Thunder maintain top spot with thrilling win](https://www.cricbuzz.com/cricket-news/132474/thunder-maintain-top-spot-with-thrilling-win "Thunder maintain top spot with thrilling win")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132473/salahuddin-to-essay-batting-coach-role-in-bangladeshs-tour-of-wi "Salahuddin to essay batting coach role in Bangladesh's tour of WI")
 
 [Salahuddin to essay batting coach role in Bangladesh's tour of WI](https://www.cricbuzz.com/cricket-news/132473/salahuddin-to-essay-batting-coach-role-in-bangladeshs-tour-of-wi "Salahuddin to essay batting coach role in Bangladesh's tour of WI")
 
-10h ago
+16h ago
 
   [](https://www.cricbuzz.com/cricket-news/132472/nitish-reddy-a-guy-to-keep-an-eye-on-this-series-morne-morkel "Nitish Reddy a guy to keep an eye on this series - Morne Morkel")
 
 [Nitish Reddy a guy to keep an eye on this series - Morne Morkel](https://www.cricbuzz.com/cricket-news/132472/nitish-reddy-a-guy-to-keep-an-eye-on-this-series-morne-morkel "Nitish Reddy a guy to keep an eye on this series - Morne Morkel")
 
-11h ago
+17h ago
 
   [](https://www.cricbuzz.com/cricket-news/132471/sri-lanka-take-series-2-0-after-pallekele-odi-called-off-due-to-rain "Sri Lanka take series 2-0 after Pallekele ODI called off due to rain")
 
@@ -542,12 +560,6 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
   [](https://www.cricbuzz.com/cricket-news/132470/coetzee-handed-demerit-point-for-dissenting-wide-call-in-johannesburg-t20i "Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I")
 
 [Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I](https://www.cricbuzz.com/cricket-news/132470/coetzee-handed-demerit-point-for-dissenting-wide-call-in-johannesburg-t20i "Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I")
-
-1d ago
-
-  [](https://www.cricbuzz.com/cricket-news/132469/top-order-schutt-deflate-scorchers "Top order, Schutt deflate Scorchers")
-
-[Top order, Schutt deflate Scorchers](https://www.cricbuzz.com/cricket-news/132469/top-order-schutt-deflate-scorchers "Top order, Schutt deflate Scorchers")
 
 1d ago
 
