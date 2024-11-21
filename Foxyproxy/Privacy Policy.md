@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I am very satisfied with the proxy you have given me and fully intend to renew my subscription.
+Thank you for FoxyProxy. I have now purchased for an additional year.
 
-Arabella Rodriguez
+Ray Brown
