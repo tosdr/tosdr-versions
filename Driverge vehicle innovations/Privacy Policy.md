@@ -56,6 +56,7 @@
         * [Built To Order Cargo Van](https://www.driverge.com/vehicles/full-size-cargo-vans/)
         * [Cannabis Transportation](https://www.driverge.com/vehicles/work-crew-vans/cannabis-vans/)
         * [General Contractor Upfit](https://www.driverge.com/vehicles/ram/ram-promaster-cargo-vans/)
+        * [Hydraulic Lift Moving Vans](https://www.driverge.com/vehicles/work-crew-vans/equipment-moving-vans/)
     * [Mini-Vans](https://www.driverge.com/vehicles/chrysler-cargo-vans/)Menu Toggle
         * [Pacifica & Voyager Cargo Van](https://www.driverge.com/vehicles/chrysler-cargo-vans/)
     * Pick-Up TrucksMenu Toggle
@@ -157,6 +158,7 @@ Main Menu
         * [Built To Order Cargo Van](https://www.driverge.com/vehicles/full-size-cargo-vans/)
         * [Cannabis Transportation](https://www.driverge.com/vehicles/work-crew-vans/cannabis-vans/)
         * [General Contractor Upfit](https://www.driverge.com/vehicles/ram/ram-promaster-cargo-vans/)
+        * [Hydraulic Lift Moving Vans](https://www.driverge.com/vehicles/work-crew-vans/equipment-moving-vans/)
     * [Mini-Vans](https://www.driverge.com/vehicles/chrysler-cargo-vans/)Menu Toggle
         * [Pacifica & Voyager Cargo Van](https://www.driverge.com/vehicles/chrysler-cargo-vans/)
     * Pick-Up TrucksMenu Toggle
@@ -425,13 +427,13 @@ When designing your custom wheelchair accessible vehicle, floor plan configurati
 * Phone\*
     
 
-       
+        
 
 Δ
 
 ×
 
-![](data:image/svg+xml;nitro-empty-id=ODQ5OjU5Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzc4IDMxNCIgd2lkdGg9Ijc3OCIgaGVpZ2h0PSIzMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](data:image/svg+xml;nitro-empty-id=ODUwOjU5Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzc4IDMxNCIgd2lkdGg9Ijc3OCIgaGVpZ2h0PSIzMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 Please fill out the form below to receive immediate access to our Laws and Regulations for Transporting Cannabis by State whitepaper.
 
@@ -448,7 +450,7 @@ Please fill out the form below to receive immediate access to our Laws and Regul
 * Phone\*
     
 
-       
+        
 
 Δ
 
