@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Dierks Bentley & Friends Give Tom...](https://classiccountrymusic.com/dierks-bentley-friends-give-tom-pettys-american-girl-a-bluegrass-twist/)
+* [Top Country Music Artists Tribute George...](https://classiccountrymusic.com/top-country-music-artists-tribute-george-strait-at-the-cma-awards/)
 * [Blake Shelton & Luke Bryan Sing...](https://classiccountrymusic.com/blake-shelton-luke-bryan-sing-alabamas-mountain-music-to-honor-bmi-icon-randy-owen/)
-* [Superstar Lineup Revealed For The CMA...](https://classiccountrymusic.com/superstar-lineup-revealed-for-the-cma-awards-tribute-to-george-strait/)
-* [Dolly Parton’s Older Brother, David Parton,...](https://classiccountrymusic.com/dolly-partons-older-brother-david-parton-has-died-at-82/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
