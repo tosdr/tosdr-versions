@@ -538,7 +538,7 @@ F5’s portfolio of automation, security, performance, and insight capabilities 
 * [Webinars](https://www.f5.com/company/events/webinars)
 * [Free Online Courses](https://www.f5.com/learn/training)
 * [F5 Certification](https://www.f5.com/services/certification.html)
-* [LearnF5 Training](https://www.f5.com/services/training.html)
+* [LearnF5 Training](https://www.f5.com/learn/training)
 
 #### SUPPORTSUPPORT
 
