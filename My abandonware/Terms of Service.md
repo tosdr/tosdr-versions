@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [АвтоФэны: Заряженные скоростью](https://www.myabandonware.com/game/avtofeny-zaryazhennye-skorostyu-t9i)
+* [Uncle Henry's Playhouse](https://www.myabandonware.com/game/uncle-henry-s-playhouse-t9h)
 * [Lose Your Marbles](https://www.myabandonware.com/game/lose-your-marbles-t9g)
 * [Mavis Beacon Teaches Typing! Version 4](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-4-t99)
 * [Mavis Beacon Teaches Typing! Version 3](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-3-t98)
-* [Mavis Beacon Teaches Typing! Version 2](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-2-t97)
-* [Nobunaga no Yabō: Tenka Sōsei - Power Up Kit](https://www.myabandonware.com/game/nobunaga-no-yabo-tenka-sosei-power-up-kit-txm)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [War: Final Assault](https://www.myabandonware.com/game/war-final-assault-sld)
-* [Warp](https://www.myabandonware.com/game/warp-7gq)
-* [Reading & Spelling Adventure](https://www.myabandonware.com/game/reading-spelling-adventure-rfg)
+* [Lords of Chaos: Expansion Kit One](https://www.myabandonware.com/game/lords-of-chaos-expansion-kit-one-kbj)
+* [Banbam](https://www.myabandonware.com/game/banbam-s85)
+* [Champions Forever Boxing](https://www.myabandonware.com/game/champions-forever-boxing-krl)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
