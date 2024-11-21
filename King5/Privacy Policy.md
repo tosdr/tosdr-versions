@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c305d45d-4342-48a4-bd25-c6d29330748f/20241121T071451/c305d45d-4342-48a4-bd25-c6d29330748f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c305d45d-4342-48a4-bd25-c6d29330748f/20241121T071451/c305d45d-4342-48a4-bd25-c6d29330748f_360x203.jpg)](https://www.king5.com/article/news/local/redmond-residents-work-together-bomb-cyclone-damage/281-f0e11bca-7ec7-4455-8eb7-321eefe52995)
+    *  [![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
         
-        #### ['We'll get through this': Redmond residents work together after bomb cyclone damage](https://www.king5.com/article/news/local/redmond-residents-work-together-bomb-cyclone-damage/281-f0e11bca-7ec7-4455-8eb7-321eefe52995)
+        #### [Over 600,000 people lost power at peak of Washington windstorm](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
         
-    *  [![](https://media.king5.com/assets/KING/images/f6fc34c3-a3c4-478b-b968-7bb2c2f1253d/20241121T045030/f6fc34c3-a3c4-478b-b968-7bb2c2f1253d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6fc34c3-a3c4-478b-b968-7bb2c2f1253d/20241121T045030/f6fc34c3-a3c4-478b-b968-7bb2c2f1253d_360x203.jpg)](https://www.king5.com/article/news/local/woman-trapped-bellevue-home-debris-bomb-cyclone/281-d36badb9-f768-4849-8e22-42afcf4ec0b3)
+    *  [![](https://media.king5.com/assets/KING/images/db8ec0f4-6e53-4bff-b2a5-1b6b02a0c8d6/20241121T075804/db8ec0f4-6e53-4bff-b2a5-1b6b02a0c8d6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/db8ec0f4-6e53-4bff-b2a5-1b6b02a0c8d6/20241121T075804/db8ec0f4-6e53-4bff-b2a5-1b6b02a0c8d6_360x203.jpg)](https://www.king5.com/article/news/local/storm-cleanup-bomb-cyclone-washington/281-d2e82b92-bf0a-479b-ac7e-fa15ba185727)
         
-        #### ['It would have been bad': Bellevue woman still trapped in home after tree nearly lands on roof](https://www.king5.com/article/news/local/woman-trapped-bellevue-home-debris-bomb-cyclone/281-d36badb9-f768-4849-8e22-42afcf4ec0b3)
+        #### [Woodinville teens help elderly neighbors clear their property after bomb cyclone damage](https://www.king5.com/article/news/local/storm-cleanup-bomb-cyclone-washington/281-d2e82b92-bf0a-479b-ac7e-fa15ba185727)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c305d45d-4342-48a4-bd25-c6d29330748f/20241121T071451/c305d45d-4342-48a4-bd25-c6d29330748f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c305d45d-4342-48a4-bd25-c6d29330748f/20241121T071451/c305d45d-4342-48a4-bd25-c6d29330748f_360x203.jpg)](https://www.king5.com/article/news/local/redmond-residents-work-together-bomb-cyclone-damage/281-f0e11bca-7ec7-4455-8eb7-321eefe52995)
+    *  [![](https://media.king5.com/assets/CCT/images/c2df261c-07de-44c7-ae60-0c4d5661ca1a/20241121T121844/c2df261c-07de-44c7-ae60-0c4d5661ca1a_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/c2df261c-07de-44c7-ae60-0c4d5661ca1a/20241121T121844/c2df261c-07de-44c7-ae60-0c4d5661ca1a_360x203.jpg)](https://www.king5.com/article/news/nation-world/volcanoi-n-iceland-erupts-for-the-7th-time-in-a-year/507-eeca1c06-0cf1-41fd-b593-fa6009934221)
         
-        #### ['We'll get through this': Redmond residents work together after bomb cyclone damage](https://www.king5.com/article/news/local/redmond-residents-work-together-bomb-cyclone-damage/281-f0e11bca-7ec7-4455-8eb7-321eefe52995)
+        #### [Volcano on Iceland's Reykjanes Peninsula erupts for the 7th time in a year](https://www.king5.com/article/news/nation-world/volcanoi-n-iceland-erupts-for-the-7th-time-in-a-year/507-eeca1c06-0cf1-41fd-b593-fa6009934221)
         
-    *  [![](https://media.king5.com/assets/KING/images/e8e4e088-e9e7-41c4-9dcf-b27e20cb6015/20241121T013614/e8e4e088-e9e7-41c4-9dcf-b27e20cb6015_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e8e4e088-e9e7-41c4-9dcf-b27e20cb6015/20241121T013614/e8e4e088-e9e7-41c4-9dcf-b27e20cb6015_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0b5e620d-089e-4381-ba15-73a58a7a4d3e/20241120T170305/0b5e620d-089e-4381-ba15-73a58a7a4d3e_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
         
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        #### [Over 600,000 people lost power at peak of Washington windstorm](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-46°
+43°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
