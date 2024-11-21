@@ -172,7 +172,7 @@ In addition, we gather names, email addresses, and phone numbers of people who c
 
 You may also provide your information to certain third-party financing platforms who will process your application for credit and may provide your information to us. The use of your information by that online financing platform is governed by that company’s privacy policy.
 
-If you use the comments section of our blog on [www.prosper.com](http://www.prosper.com/), you should be aware that information you submit is stored there and will be visible to other users of the Prosper websites.
+If you use the comments section of our blog on [www.prosper.com](https://www.prosper.com/), you should be aware that information you submit is stored there and will be visible to other users of the Prosper websites.
 
 Prosper collects consent to send text messages to customers. If you provide your consent for Prosper to send you text messages, Prosper will not pass this consent to other parties. Prosper does not purchase consent to send text messages to customers.
 
