@@ -275,3 +275,7 @@ Pursuant to the California privacy regulations, our consumer rights metrics can 
 "WireGuard" is a registered trademark of Jason A. Donenfeld.
 
 Scroll to Top
+
+                 
+
+This site is registered on [wpml.org](https://wpml.org/) as a development site.
