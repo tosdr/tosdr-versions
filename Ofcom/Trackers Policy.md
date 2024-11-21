@@ -2,7 +2,7 @@
 
 [Skip to content](#skipToContent)
 
-[![Ofcom](/globalassets/images/logonostrap.svg)](https://www.ofcom.org.uk/ "Ofcom")
+[![Ofcom](/siteassets/images/logonostrap.svg)](https://www.ofcom.org.uk/ "Ofcom")
 
 [hamburger menu](javascript:void(0);)
 
