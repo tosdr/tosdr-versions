@@ -7,7 +7,7 @@
 
 * [Go to my projects](https://app.bibguru.com/)
 * [Sign in](#)
-* [Sign up](#)
+* [Try BibGuru Plus](#)
 * English
     
 
@@ -34,6 +34,8 @@
 * [Português (PT)](https://www.bibguru.com/pt/)
 * [Português (BR)](https://www.bibguru.com/br/)
 
+Sign in
+
 Sign in with Google
 
 Sign in with Facebook
@@ -43,6 +45,8 @@ Sign up with with Clever, Classlink if your school has BibGuru Plus
 Sign in with ClassLink
 
 Sign in with Clever
+
+No account yet? Sign up for a 3 day free trial of BibGuru Plus
 
 BibGuru Plus
 
