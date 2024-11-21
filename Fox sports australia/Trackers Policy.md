@@ -28,16 +28,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250501)
 * [Women's BBL
     
-    SYDT won by 4 wkts
-    
-    |     |     |
-    | --- | --- |
-    | SYDT | 6 /112 |
-    | MELS | 9 /108 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250133)
-* [Women's BBL
-    
     21/11 15:45 AEST
     
     |     |     |
@@ -72,86 +62,66 @@ FOX SCORES
     
 * [APGA
     
-    21/11 AEST
+    Round 1
     
     |     |
     | --- |
     | Australian PGA |
-    |     |
+    | E. Smylie leads by 1 |
     
     Match Centre](https://www.foxsports.com.au/golf/match?matchid=APGA20250010015D2A4)
 * Basketball
     
 * [NBA
     
-    Full Time
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | SA  | 110 |
-    | OKC | 104 |
+    | CLE | 69  |
+    | NO  | 56  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010049/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010237/box-score)
 * [NBA
     
-    Full Time
+    Half Time
     
     |     |     |
     | --- | --- |
-    | LAL | 124 |
-    | UTA | 118 |
+    | MIL | 69  |
+    | CHI | 57  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010051/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010238/box-score)
 * [NBA
     
-    21/11 11:30 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | CLE | –   |
-    | NO  | –   |
+    | MEM | 45  |
+    | PHI | 41  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010237)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010240/box-score)
 * [NBA
     
-    21/11 11:30 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | MIL | –   |
-    | CHI | –   |
+    | OKC | 35  |
+    | POR | 30  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010238)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011051/box-score)
 * [NBA
     
-    21/11 12:00 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | MEM | –   |
-    | PHI | –   |
+    | HOU | 32  |
+    | IND | 30  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010240)
-* [NBA
-    
-    21/11 12:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | OKC | –   |
-    | POR | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011051)
-* [NBA
-    
-    21/11 12:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | HOU | –   |
-    | IND | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010239)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010239/box-score)
 * [NBA
     
     21/11 14:00 AEST
@@ -182,16 +152,6 @@ FOX SCORES
     | ORL | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010243)
-* [WNBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ADL | 78  |
-    | SYD | 54  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25040001/play-by-play)
 * [WNBL
     
     21/11 18:30 AEST
@@ -802,6 +762,7 @@ FOX SCORES
 * [Women's AFL](https://www.foxsports.com.au/video/afl/womens-afl)
 * [Buddy 300](https://www.foxsports.com.au/video/afl/buddy-300)
 * [Bounce](https://www.foxsports.com.au/video/afl/bounce)
+* [Draft](https://www.foxsports.com.au/video/afl/draft)
 
 [Cricket](https://www.foxsports.com.au/video/cricket)
 
@@ -933,7 +894,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
