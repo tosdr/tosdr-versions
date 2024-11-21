@@ -105,11 +105,11 @@ Submit
     * [Prometheus Monitoring](https://newrelic.com/solutions/prometheus-monitoring)
     * [SAP Monitoring](https://newrelic.com/solutions/sap)
     
-    [![gartner mq 2024 icon](/sites/default/files/2024-10/gartner-report-icon.svg)
+    [![state of retail image](/sites/default/files/2024-11/retail.svg)
     
-    Named a Leader
+    State of Observability for Retail
     
-    Learn why in the 2024 Gartner® Magic Quadrant™ for Digital Experience Monitoring (DEM).](https://newrelic.com/resources/gartner-magic-quadrant-dem)
+    How do top retailers raise customer retention 30%? Read the report.](https://newrelic.com/resources/report/state-of-observability-retail-2024)
     
     [![o11y 2024  icon](/sites/default/files/2024-10/o11y2024-icon.svg)
     
@@ -117,11 +117,11 @@ Submit
     
     Power your decisions with invaluable observability insights! Read the report.](https://newrelic.com/resources/report/observability-forecast/2024)
     
-    [![nr now white](/sites/default/files/2024-09/LOGO-white.svg)
+    [![gartner mq 2024 icon](/sites/default/files/2024-10/gartner-report-icon.svg)
     
-    New Relic Now
+    Named a Leader
     
-    AI meets observability. On-demand access available now.](https://newrelic.com/event/new-relic-now-on-demand)
+    Learn why in the 2024 Gartner® Magic Quadrant™ for Digital Experience Monitoring (DEM).](https://newrelic.com/resources/gartner-magic-quadrant-dem)
     
     1
     
@@ -244,6 +244,12 @@ Submit
         
         Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
     
+    [![state of retail image](/sites/default/files/2024-11/retail.svg)
+    
+    State of Observability for Retail
+    
+    68% of brands fix issues faster with observability. Read the report for more.](https://newrelic.com/resources/report/state-of-observability-retail-2024)
+    
     [![o11y 2024  icon](/sites/default/files/2024-10/o11y2024-icon.svg)
     
     2024 Observability Forecast
@@ -255,12 +261,6 @@ Submit
     New Relic Now
     
     See the future of observability. On-demand access available now.](https://newrelic.com/event/new-relic-now-on-demand)
-    
-    [![gartner mq 2024 icon](/sites/default/files/2024-10/gartner-report-icon.svg)
-    
-    New Relic is furthest in vision.
-    
-    Download the 2024 Gartner® Magic Quadrant™ for Digital Experience Monitoring (DEM).](https://newrelic.com/resources/gartner-magic-quadrant-dem)
     
     1
     
