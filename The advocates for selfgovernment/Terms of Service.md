@@ -253,6 +253,14 @@ Enable Dark Mode
     
     Latest Articles
     
+    * [![Disarming the Deep State: AI’s Role in Government Transparency](https://www.theadvocates.org/wp-content/uploads/2024/11/AdobeStock_231962136-300x200.jpeg)
+        
+        Underthrow Series
+        
+        Disarming the Deep State: AI’s Role in Government Transparency
+        
+        by **Balaji Srinivasan via X | Max Borders** • Nov 20 • 3 mins Read](https://www.theadvocates.org/disarming-the-deep-state-ais-role-in-government-transparency/)
+        
     * [![The Status of Status](https://www.theadvocates.org/wp-content/uploads/2024/11/Screenshot-2024-11-11-at-1.03.05 PM-300x200.png)
         
         Underthrow Series
@@ -324,14 +332,6 @@ Enable Dark Mode
         Makers and Takers
         
         by **Max Borders** • Sep 18 • 4 mins Read](https://www.theadvocates.org/makers-and-takers/)
-        
-    * [![Blinking Lights: Heroes of Underthrow](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-11.09.05 AM-300x300.png)
-        
-        Underthrow Series
-        
-        Blinking Lights: Heroes of Underthrow
-        
-        by **Max Borders** • Sep 11 • 3 mins Read](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
         
     
     [](#)[](#)
@@ -697,6 +697,14 @@ Quizzes & Apps
 Articles
 --------
 
+* [![Disarming the Deep State: AI’s Role in Government Transparency](https://www.theadvocates.org/wp-content/uploads/2024/11/AdobeStock_231962136-300x200.jpeg)
+    
+    Underthrow Series
+    
+    Disarming the Deep State: AI’s Role in Government Transparency
+    
+    by **Balaji Srinivasan via X | Max Borders** • Nov 20 • 3 mins Read](https://www.theadvocates.org/disarming-the-deep-state-ais-role-in-government-transparency/)
+    
 * [![The Status of Status](https://www.theadvocates.org/wp-content/uploads/2024/11/Screenshot-2024-11-11-at-1.03.05 PM-300x200.png)
     
     Underthrow Series
@@ -768,14 +776,6 @@ Articles
     Makers and Takers
     
     by **Max Borders** • Sep 18 • 4 mins Read](https://www.theadvocates.org/makers-and-takers/)
-    
-* [![Blinking Lights: Heroes of Underthrow](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-11.09.05 AM-300x300.png)
-    
-    Underthrow Series
-    
-    Blinking Lights: Heroes of Underthrow
-    
-    by **Max Borders** • Sep 11 • 3 mins Read](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
     
 
 [](#)[](#)
