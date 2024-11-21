@@ -79,7 +79,7 @@
         * [Start a Coffee Subscription](https://www.deathwishcoffee.com/collections/subscribe-save)
         * [Society Benefits](https://www.deathwishcoffee.com/pages/subscription)
         * [Society Exclusive Merch](https://www.deathwishcoffee.com/collections/society-of-strong-coffee-exclusives)
-    * [![Medium Roast Death Wish Coffee & Gateway Mug](//www.deathwishcoffee.com/cdn/shop/files/MR_Mug_Chemex_Resized.jpg?crop=center&height=500&v=1694033032&width=500)](https://www.deathwishcoffee.com/collections/core-roasts "Medium Roast Death Wish Coffee & Gateway Mug")
+    * [![Shop Light Roast Death Wish Coffee.](//www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_LightRoast_Lifestyle_123_Web.jpg?crop=center&height=500&v=1732215555&width=500)](https://www.deathwishcoffee.com/collections/core-roasts "Shop Light Roast Death Wish Coffee.")
         
         [Everyday Roasts](https://www.deathwishcoffee.com/collections/core-roasts)
         * [Light Roast](https://www.deathwishcoffee.com/collections/light-roast)
@@ -89,7 +89,7 @@
         * [Valhalla Java Odinforce Blend](https://www.deathwishcoffee.com/collections/valhalla)
         * [Ice Breaker](https://www.deathwishcoffee.com/products/ice-breaker-coffee)
         * [Everyday Roast Bundles](https://www.deathwishcoffee.com/collections/roast-variety-packs)
-    * [![Try Death Wish Coffee Almond Biscotti Flavored Coffee - Almond Afterlife.](//www.deathwishcoffee.com/cdn/shop/files/AlmondAfterlife_Homepage_Mobile.jpg?crop=center&height=500&v=1711031183&width=500)](https://www.deathwishcoffee.com/collections/flavored-coffee "Try Death Wish Coffee Almond Biscotti Flavored Coffee - Almond Afterlife.")
+    * [![Shop Peppermint Mocha flavored Death Wish Coffee.](//www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_PeppermintMocha_Lifestyle_8205_147_Web.jpg?crop=center&height=500&v=1732215413&width=500)](https://www.deathwishcoffee.com/collections/flavored-coffee "Shop Peppermint Mocha flavored Death Wish Coffee.")
         
         [Flavored](https://www.deathwishcoffee.com/collections/flavored-coffee)
         * [Almond Afterlife](https://www.deathwishcoffee.com/collections/almond-afterlife)
@@ -110,7 +110,7 @@
 * [Subscribe & Save](https://www.deathwishcoffee.com/pages/subscription)
 * [Merch](https://www.deathwishcoffee.com/collections/merch)
     
-    * [![Death Wish Coffee Shadow Logo Hoodie](//www.deathwishcoffee.com/cdn/shop/files/TonalHoodie-147.jpg?crop=center&height=500&v=1699990673&width=500)](https://www.deathwishcoffee.com/collections/merch "Death Wish Coffee Shadow Logo Hoodie")
+    * [![Shop Death Wish Coffee merch.](//www.deathwishcoffee.com/cdn/shop/files/DeathWish_ChristmasLifestyle_9519_Web.jpg?crop=center&height=500&v=1732215467&width=500)](https://www.deathwishcoffee.com/collections/merch "Shop Death Wish Coffee merch.")
         
         [All Merch](https://www.deathwishcoffee.com/collections/merch)
         * [Apparel](https://www.deathwishcoffee.com/collections/apparel)
@@ -119,7 +119,7 @@
         * [On-the-Go Drinkware](https://www.deathwishcoffee.com/collections/on-the-go-drinkware)
         * [Storage & Brewing](https://www.deathwishcoffee.com/collections/storage-brewing)
         * [Sale](https://www.deathwishcoffee.com/collections/sale)
-    * [![Giving mom the gift of Death Wish Coffee with the Rad Mom Kit.](//www.deathwishcoffee.com/cdn/shop/files/Rad_Mom_Kit.jpg?crop=center&height=500&v=1694033403&width=500)](https://www.deathwishcoffee.com/collections/gifting "Giving mom the gift of Death Wish Coffee with the Rad Mom Kit.")
+    * [![Win the holidays with Death Wish Coffee.](//www.deathwishcoffee.com/cdn/shop/files/DeathWish_ChristmasLifestyle_8999_Web.jpg?crop=center&height=500&v=1732215609&width=500)](https://www.deathwishcoffee.com/collections/gifting "Win the holidays with Death Wish Coffee.")
         
         [Gifting](https://www.deathwishcoffee.com/collections/gifting)
         * [Gift Cards](https://www.deathwishcoffee.com/products/gift-card)
