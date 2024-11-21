@@ -126,9 +126,9 @@ Discover the most painful tax jurisdictions](https://tax-agony.paddle.com/)
 
 Access to guides, reports, and best practices](https://www.paddle.com/resources)[###### Selling SaaS Globally Handbook
 
-A SaaS leader's practical guide to global expansion](https://www.paddle.com/learn/selling-saas-globally)[###### Pricing Strategy Handbook
+A SaaS leader's practical guide to global expansion](https://www.paddle.com/learn/selling-saas-globally)[###### Mobile App Monetization Guide
 
-Use pricing to unlock your business' growth](https://www.paddle.com/price-intelligently/pricing-strategy-handbook)
+Use a web monetization strategy to unlock growth for your mobile app](https://www.paddle.com/resources/mobile-app-monetization-guide)
 
 [![Paddle Studios](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpromo-resources.8578eeb6.jpg&w=3840&q=75)](https://www.paddle.com/studios)
 
