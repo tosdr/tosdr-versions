@@ -925,9 +925,10 @@ Legal Policies and Agreements
 =============================
 
 * [License Agreements](#tabs-825fcd-1)
-* [Accessibility Policy](#tabs-825fcd-2)
+* [Accessibility Policy](https://www.trendmicro.com/en_us/about/legal/accessibility-policy.html)
 * [Mandatory Arbitration](#tabs-825fcd-3)
 * [Modern Slavery](#tabs-825fcd-4)
+* [Terms of Use](https://www.trendmicro.com/en_us/about/legal/terms-of-use.html)
 
 Select the terms and conditions that apply to your use of Trend Micro products and services. If you have another agreement directly with Trend Micro, that agreement will control your use of the products and/or services.
 
@@ -1107,105 +1108,6 @@ remove add
 
 [趨勢科技終端用戶授權合約 (Traditional Chinese)](https://www.trendmicro.com/content/dam/trendmicro/global/en/about/legal/license-agreements/amea/tc-traditional-chinese-tm-tools-eula.pdf "趨勢科技終端用戶授權合約 (Traditional Chinese)")
 
-Trend Micro Accessibility Policy and Accessible Customer Service Plan Providing Goods and Services to People with Disabilities
-------------------------------------------------------------------------------------------------------------------------------
-
-Trend Micro is committed to excellence in serving all customers including people with disabilities.
-
-Assistive devices
-
-remove add
-
-We will ensure that our staff is trained and familiar with various assistive devices that may be used by customers with disabilities while accessing our goods or services. Trend Micro will take reasonable efforts to ensure that customers using assistive devices will not be prevented from accessing our goods and services.
-
-Communication
-
-remove add
-
-We will communicate with people with disabilities in ways that take into account their disability.
-
-Web Site Accessibility Design Guidelines
-
-remove add
-
-Our website is designed with the WCAG 2.0 A and AA accessibility guidelines in mind.  
-([http://www.w3.org/WAI/intro/wcag](http://www.w3.org/WAI/intro/wcag))
-
-Service animals
-
-remove add
-
-We welcome people with disabilities and their service animals. Service animals are allowed on the parts of our premises that are open to the public.
-
-Support persons
-
-remove add
-
-A person with a disability who is accompanied by a support person will be allowed to have that person accompany them on our premises. No additional fee will be charged for the use of a support person.
-
-Notice of temporary disruption
-
-remove add
-
-In the event of a planned or unexpected disruption to services or facilities for customers with disabilities, Trend Micro will notify customers promptly. This clearly posted notice will include information about the reason for the disruption, its anticipated length of time, and a description of alternative facilities or services, if available.
-
-The notice will be placed at the reception/front entry area of the Ottawa location of Trend Micro. This notice is on Trend Micro’s website and as appropriate, will also be placed and on its outgoing telephone greeting.
-
-Training
-
-remove add
-
-Trend Micro will provide training to employees, volunteers, and others who deal with the public or other third parties on our behalf. Training will also be provided to people involved in the development of policies, plans, practices and procedures related to the provision of our goods and services.
-
-All employees who deal with the public or third parties on behalf of Trend Micro or who participate in developing Trend Micro’s practices for providing goods and services will be trained.
-
-This training will be provided to staff as part of the new hire process during the first month of service.
-
-Training will include:
-
-* For Ontario locations, an overview of the Accessibility for Ontarians with Disabilities Act, 2005 and the requirements of the customer service standard
-* Trend Micro’s plan related to the customer service standard
-* How to interact and communicate with people with various types of disabilities
-* How to interact with people with disabilities who use an assistive device or require the assistance of a service animal or a support person
-* How do use any assistive devices provided by Trend Micro at its facilities • What to do if a person with a disability is having difficulty in accessing Trend Micro’s goods and services
-
-Staff will also be trained when changes are made to the accessible customer service plan.
-
-Feedback process
-
-remove add
-
-Customers who wish to provide feedback on the way Trend Micro provides goods and services to people with disabilities can contact Trend Micro by telephone, using the telephone number published on Trend Micro’s website, or by sending physical or email to the addresses provided.
-
-All feedback, including complaints, should be directed to Human Resources:
-
-USA Headquarters  
-Trend Micro Incorporated  
-225 E. John Carpenter Freeway, Suite 1500  
-Irving, Texas 75062 U.S.A.  
-Phone: +1 (817) 569-8900   
-Toll-free: (888) 762-8736
-
-Canada Location:  
-Trend Micro Canada Technologies Inc.  
-Suite 200, 40 Hines Rd, Ottawa, ON, Canada K2K 2M5  
-Email: [NA\_HR\_Benefits@TrendMicro.com](mailto:NA_HR_Benefits@TrendMicro.com)  
-Telephone: 613-599-4505
-
-Upon receiving feedback, Trend Micro will evaluate the complaint or request and attempt to identify reasonable modifications to its facilities or processes and procedures to address the concern. If necessary, Trend Micro will contact the person providing the feedback to seek additional information or suggestions. Customers can expect to hear back in 3-5 business days.
-
-Notice of availability
-
-remove add
-
-Trend Micro will notify the public that our policies are available upon request by posting a link on the Trend Micro website at [www.trendmicro.com](http://www.trendmicro.com/).
-
-Modifications to this or other policies
-
-remove add
-
-Any policy of Trend Micro that does not respect and promote the dignity and independence of people with disabilities will be modified or removed.
-
 Mandatory Arbitration
 ---------------------
 
@@ -1355,7 +1257,7 @@ close
 * [ประเทศไทย (Thailand)](https://www.trendmicro.com/th_th.html)
 * [Việt Nam](https://www.trendmicro.com/vi_vn.html)
 
-[Privacy](https://www.trendmicro.com/en_us/about/trust-center/privacy.html "privacy") **|** [Legal](https://www.trendmicro.com/en_us/about/legal.html "Legal") **|** [Accessibility](https://www.trendmicro.com/en_us/about/legal/accessibility-policy.html "Accessibility") **|** [Site map](https://www.trendmicro.com/en_us/business/sitemap.html "Site map")
+[Privacy](https://www.trendmicro.com/en_us/about/trust-center/privacy.html "privacy") **|** [Legal](https://www.trendmicro.com/en_us/about/legal.html "Legal") **|** [Accessibility](https://www.trendmicro.com/en_us/about/legal/accessibility-policy.html "Accessibility") **|** [Terms of Use](https://www.trendmicro.com/en_us/about/legal/terms-of-use.html) **|** [Site map](https://www.trendmicro.com/en_us/business/sitemap.html "Site map")
 
 Copyright ©2024 Trend Micro Incorporated. All rights reserved
 
