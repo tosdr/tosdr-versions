@@ -20,16 +20,16 @@ Thursday, November 21 2024
 
 Latest
 
-* [Now BlueSky hit with crypto scams as it crosses 20 million users](https://digitpatrox.com/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/)
-* [This digital D&D watch lets you roll a fireball from your wrist](https://digitpatrox.com/this-digital-dd-watch-lets-you-roll-a-fireball-from-your-wrist/)
-* [HyperX Cloud III Wireless Headset Below $100 Is a Sonic Bargain This Black Friday](https://digitpatrox.com/hyperx-cloud-iii-wireless-headset-below-100-is-a-sonic-bargain-this-black-friday/)
-* [Is Duolingo safe? Here’s what you should know](https://digitpatrox.com/is-duolingo-safe-heres-what-you-should-know/)
-* [US commission proposes ‘Manhattan Project-like’ initiative for AI – Computerworld](https://digitpatrox.com/us-commission-proposes-manhattan-project-like-initiative-for-ai-computerworld/)
-* [Add This Surprising ‘Palate Cleanser’ to Your Thanksgiving Spread](https://digitpatrox.com/add-this-surprising-palate-cleanser-to-your-thanksgiving-spread/)
-* [2025 Nissan Kicks Review – Consumer Reports](https://digitpatrox.com/2025-nissan-kicks-review-consumer-reports/)
-* [How to Adjust Your Equalizer Like a Pro](https://digitpatrox.com/how-to-adjust-your-equalizer-like-a-pro/)
-* [10 Social Media Planners You Can Start Using Today \[FREE\]](https://digitpatrox.com/10-social-media-planners-you-can-start-using-today-free/)
-* [I added interval sprints to my workouts for four weeks — here’s what happened](https://digitpatrox.com/i-added-interval-sprints-to-my-workouts-for-four-weeks-heres-what-happened/)
+* [Is the time right for asynchronous collaboration?](https://digitpatrox.com/is-the-time-right-for-asynchronous-collaboration/)
+* [How AI Drives Supply Chain Automation for Retailers Worldwide](https://digitpatrox.com/how-ai-drives-supply-chain-automation-for-retailers-worldwide/)
+* [Microsoft will finally let you stream Xbox games you already own via Game Pass — here’s what you can play right now](https://digitpatrox.com/microsoft-will-finally-let-you-stream-xbox-games-you-already-own-via-game-pass-heres-what-you-can-play-right-now/)
+* [Microsoft disrupts ONNX phishing-as-a-service infrastructure](https://digitpatrox.com/microsoft-disrupts-onnx-phishing-as-a-service-infrastructure/)
+* [Sonos speakers and soundbars are up to $200 off ahead of Black Friday](https://digitpatrox.com/sonos-speakers-and-soundbars-are-up-to-200-off-ahead-of-black-friday/)
+* [What’s Free on the Epic Games Store Right Now?](https://digitpatrox.com/whats-free-on-the-epic-games-store-right-now/)
+* [Snowflake and Anthropic partner up on agentic AI, model sharing](https://digitpatrox.com/snowflake-and-anthropic-partner-up-on-agentic-ai-model-sharing/)
+* [AI agents are coming to work — here’s what businesses need to know – Computerworld](https://digitpatrox.com/ai-agents-are-coming-to-work-heres-what-businesses-need-to-know-computerworld/)
+* [YouTube Music Is Already Rolling Out Its Version of Spotify Wrapped](https://digitpatrox.com/youtube-music-is-already-rolling-out-its-version-of-spotify-wrapped/)
+* [New ransomware gang SafePay claims cyber attack on Microlise – 1.2TB of data stolen](https://digitpatrox.com/new-ransomware-gang-safepay-claims-cyber-attack-on-microlise-1-2tb-of-data-stolen/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/21/bluesky-1600-900.jpg)](https://digitpatrox.com/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/)
+* [![](https://cdn.mos.cms.futurecdn.net/9M97AurUh3nUu4egusqSok-1200-80.jpg)](https://digitpatrox.com/is-the-time-right-for-asynchronous-collaboration/)
     
-    [Now BlueSky hit with crypto scams as it crosses 20 million users](https://digitpatrox.com/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/)
+    [Is the time right for asynchronous collaboration?](https://digitpatrox.com/is-the-time-right-for-asynchronous-collaboration/)
     
-    29 minutes ago
+    16 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/NxfQ65CaTLB03RWm7Si13BhIo80=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25746461/Timestop_D_20_DnD_watch.jpg)](https://digitpatrox.com/this-digital-dd-watch-lets-you-roll-a-fireball-from-your-wrist/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241120-ai-supply-chain-automation-global.jpg)](https://digitpatrox.com/how-ai-drives-supply-chain-automation-for-retailers-worldwide/)
     
-    [This digital D&D watch lets you roll a fireball from your wrist](https://digitpatrox.com/this-digital-dd-watch-lets-you-roll-a-fireball-from-your-wrist/)
+    [How AI Drives Supply Chain Automation for Retailers Worldwide](https://digitpatrox.com/how-ai-drives-supply-chain-automation-for-retailers-worldwide/)
     
-    46 minutes ago
+    20 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/HyperX-Cloud-III-Headphone-product-image.jpg)](https://digitpatrox.com/hyperx-cloud-iii-wireless-headset-below-100-is-a-sonic-bargain-this-black-friday/)
+* [![](https://cdn.mos.cms.futurecdn.net/wJMF9HvGJKStLp8F3pdAuV-1200-80.jpg)](https://digitpatrox.com/microsoft-will-finally-let-you-stream-xbox-games-you-already-own-via-game-pass-heres-what-you-can-play-right-now/)
     
-    [HyperX Cloud III Wireless Headset Below $100 Is a Sonic Bargain This Black Friday](https://digitpatrox.com/hyperx-cloud-iii-wireless-headset-below-100-is-a-sonic-bargain-this-black-friday/)
+    [Microsoft will finally let you stream Xbox games you already own via Game Pass — here’s what you can play right now](https://digitpatrox.com/microsoft-will-finally-let-you-stream-xbox-games-you-already-own-via-game-pass-heres-what-you-can-play-right-now/)
     
-    1 hour ago
+    24 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Is-Duolingo-safe_-Heres-what-you-should-know.jpg)](https://digitpatrox.com/is-duolingo-safe-heres-what-you-should-know/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/10/19/Microsoft_headpic.jpg)](https://digitpatrox.com/microsoft-disrupts-onnx-phishing-as-a-service-infrastructure/)
     
-    [Is Duolingo safe? Here’s what you should know](https://digitpatrox.com/is-duolingo-safe-heres-what-you-should-know/)
+    [Microsoft disrupts ONNX phishing-as-a-service infrastructure](https://digitpatrox.com/microsoft-disrupts-onnx-phishing-as-a-service-infrastructure/)
     
     2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609516-0-10918200-1732101967-shutterstock_2443980471.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/us-commission-proposes-manhattan-project-like-initiative-for-ai-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/7H5xyF1wgZOrYjIvYh2MTjrUsWM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24530056/DSCF0433.jpg)](https://digitpatrox.com/sonos-speakers-and-soundbars-are-up-to-200-off-ahead-of-black-friday/)
     
-    [US commission proposes ‘Manhattan Project-like’ initiative for AI – Computerworld](https://digitpatrox.com/us-commission-proposes-manhattan-project-like-initiative-for-ai-computerworld/)
+    [Sonos speakers and soundbars are up to $200 off ahead of Black Friday](https://digitpatrox.com/sonos-speakers-and-soundbars-are-up-to-200-off-ahead-of-black-friday/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [29 minutes ago
+* [16 minutes ago
     
-    ### Now BlueSky hit with crypto scams as it crosses 20 million users](https://digitpatrox.com/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/)
-* [46 minutes ago
+    ### Is the time right for asynchronous collaboration?](https://digitpatrox.com/is-the-time-right-for-asynchronous-collaboration/)
+* [20 minutes ago
     
-    ### This digital D&D watch lets you roll a fireball from your wrist](https://digitpatrox.com/this-digital-dd-watch-lets-you-roll-a-fireball-from-your-wrist/)
-* [1 hour ago
+    ### How AI Drives Supply Chain Automation for Retailers Worldwide](https://digitpatrox.com/how-ai-drives-supply-chain-automation-for-retailers-worldwide/)
+* [24 minutes ago
     
-    ### HyperX Cloud III Wireless Headset Below $100 Is a Sonic Bargain This Black Friday](https://digitpatrox.com/hyperx-cloud-iii-wireless-headset-below-100-is-a-sonic-bargain-this-black-friday/)
+    ### Microsoft will finally let you stream Xbox games you already own via Game Pass — here’s what you can play right now](https://digitpatrox.com/microsoft-will-finally-let-you-stream-xbox-games-you-already-own-via-game-pass-heres-what-you-can-play-right-now/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [1 week ago
     
-    ### Microsoft warns Azure Virtual Desktop users of black screen issues](https://digitpatrox.com/microsoft-warns-azure-virtual-desktop-users-of-black-screen-issues/)
-* [August 19, 2024
+    ### A Universal Share Button is Coming to Windows 11](https://digitpatrox.com/a-universal-share-button-is-coming-to-windows-11/)
+* [4 weeks ago
     
-    ### Hackers linked to $14M Holograph crypto heist arrested in Italy](https://digitpatrox.com/hackers-linked-to-14m-holograph-crypto-heist-arrested-in-italy/)
-* [2 weeks ago
+    ### 6 top new TV shows to stream this week on Netflix, Disney Plus and more (Oct. 28-Nov. 3)](https://digitpatrox.com/6-top-new-tv-shows-to-stream-this-week-on-netflix-disney-plus-and-more-oct-28-nov-3/)
+* [August 31, 2024
     
-    ### What role will partners play in realizing our collective AI dreams?](https://digitpatrox.com/what-role-will-partners-play-in-realizing-our-collective-ai-dreams/)
+    ### The best wireless earbuds of 2024](https://digitpatrox.com/the-best-wireless-earbuds-of-2024/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### 2025 Nissan Kicks Review – Consumer Reports](https://digitpatrox.com/2025-nissan-kicks-review-consumer-reports/)
+    ### Snowflake and Anthropic partner up on agentic AI, model sharing](https://digitpatrox.com/snowflake-and-anthropic-partner-up-on-agentic-ai-model-sharing/)
 * [4 hours ago
     
-    ### How to Adjust Your Equalizer Like a Pro](https://digitpatrox.com/how-to-adjust-your-equalizer-like-a-pro/)
+    ### AI agents are coming to work — here’s what businesses need to know – Computerworld](https://digitpatrox.com/ai-agents-are-coming-to-work-heres-what-businesses-need-to-know-computerworld/)
 * [4 hours ago
     
-    ### 10 Social Media Planners You Can Start Using Today \[FREE\]](https://digitpatrox.com/10-social-media-planners-you-can-start-using-today-free/)
+    ### YouTube Music Is Already Rolling Out Its Version of Spotify Wrapped](https://digitpatrox.com/youtube-music-is-already-rolling-out-its-version-of-spotify-wrapped/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 11, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 12, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
