@@ -238,6 +238,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
         * [Bind to native code](https://flutter.dev/platform-integration/macos/c-interop)
         * [Host a native macOS view](https://flutter.dev/platform-integration/macos/platform-views)
     * [Web](https://flutter.dev/platform-integration/web)
+        * [Web support in Flutter](https://flutter.dev/platform-integration/web/)
         * [Add web as build target](https://flutter.dev/platform-integration/web/install-web)
         * [Build a web app](https://flutter.dev/platform-integration/web/building)
         * [Compile to WebAssembly](https://flutter.dev/platform-integration/web/wasm)
@@ -394,8 +395,7 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
 
 [Get started](https://flutter.dev/get-started/install/)
 
-[Flutter 3.24 and Dart 3.5](https://medium.com/flutter/flutter-3-24-dart-3-5-204b7d20c45d) are here! Check out [what's new](https://flutter.dev/release/whats-new) on the website.  
-Help improve Flutter! Take our [Q4 survey](https://google.qualtrics.com/jfe/form/SV_4PhMtNLa6DWOGWi?Source=Website).
+[Flutter 3.24 and Dart 3.5](https://medium.com/flutter/flutter-3-24-dart-3-5-204b7d20c45d) are here! Check out [what's new](https://flutter.dev/release/whats-new) on the website.
 
 * Get started
 * [Set up Flutter](https://flutter.dev/get-started/install)
@@ -629,6 +629,7 @@ Help improve Flutter! Take our [Q4 survey](https://google.qualtrics.com/jfe/form
         * [Bind to native code](https://flutter.dev/platform-integration/macos/c-interop)
         * [Host a native macOS view](https://flutter.dev/platform-integration/macos/platform-views)
     * [Web](https://flutter.dev/platform-integration/web)
+        * [Web support in Flutter](https://flutter.dev/platform-integration/web/)
         * [Add web as build target](https://flutter.dev/platform-integration/web/install-web)
         * [Build a web app](https://flutter.dev/platform-integration/web/building)
         * [Compile to WebAssembly](https://flutter.dev/platform-integration/web/wasm)
