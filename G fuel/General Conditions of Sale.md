@@ -1,5 +1,5 @@
   
-Shipping – G FUEL                                                                                                                   
+Shipping – G FUEL                                                                                                                    
 
 [Skip to content](#MainContent)  
 
@@ -527,6 +527,7 @@ Support
 
 Support
 
+* [Contact Us](https://gfuel.com/pages/contact-us)
 * [FAQ](https://gfuel.com/pages/faq)
 * [Check Gift Card Balance](https://gfuel.com/pages/check-gift-card-balance)
 * [Accessibility](https://gfuel.com/pages/accessibility)
@@ -601,7 +602,7 @@ Rated 4.7 out of 5 stars
 
 Rated 4.5 out of 5 stars
 
-4,456 Reviews
+4,457 Reviews
 
 4.6
 
