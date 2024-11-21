@@ -150,10 +150,10 @@ Latest reactions
 
 Latest forum posts
 
+* [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
 * [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=7 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
-* [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
 * [problems with Megaflashrom SCC+](https://www.msx.org/forum/msx-talk/general-discussion/problems-with-megaflashrom-scc "problems with Megaflashrom SCC+")
 * [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250?page=1 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
 * [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o?page=1 "RTC batteries actually working? :O")
