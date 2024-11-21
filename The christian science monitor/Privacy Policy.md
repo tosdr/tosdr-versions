@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 19, 2024
+November 20, 2024
 
-The great thaw
+Does the golden rule always apply?
 
-One could be forgiven for wondering how, in 2024, some 50% of rural Americans lack access to high-speed internet, according to one study. In his story today, Cameron Pugh shows that there are solutions. But they likely will take vision and commitment. Admittedly, this is not a get-out-the-vote topic. But for many rural areas, it would likely be more transformational than the issues that are. American greatness has often come from the largeness of its ideas matched with the steadfastness of its determination. The culture wars are unlikely to unfreeze from their partisan divisions anytime soon. But so many other areas are ripe for American ingenuity and just waiting for the nation to thaw.
+Few of us have likely heard of the Chagossians. In the 1960s and ’70s, they were forcibly evicted from their Indian Ocean islands because the United States wanted them for a military base, which remains in operation. Today, we write about an effort to allow them to return home and the challenges involved. The issue affects 10,000 people directly – but all of us indirectly. Most societies have some version of the golden rule. Is that moral rule a law of convenience? Are there conditions when it does not apply? These questions usually do not have simple answers. But how we answer them is perhaps one of our surest markers of the progress of the human race.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
