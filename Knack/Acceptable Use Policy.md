@@ -683,10 +683,6 @@ Expedite your app build with a pre-built template.
 
 ![](https://www.knack.com/wp-content/uploads/2023/11/Customer-Portal-1-300x201-1.png)](https://www.knack.com/template-inventory/)
 
-[Work Order Template](https://www.knack.com/templates/work-order/)
-
-Efficient work order control for supervisors and technicians.
-
 * [Terms of Service](https://www.knack.com/terms-of-service/)
 * [Privacy Statement](https://www.knack.com/privacy/)
 * [Terms of Use](https://www.knack.com/terms-of-use/)
