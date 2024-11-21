@@ -438,6 +438,31 @@ If you have any questions about this Privacy Policy, please contact us:
 
 ###### Advertisement
 
+Most recent
+-----------
+
+[20-11-2024
+
+Court of Auditors complain of ‘lack of oversight’ of health digitalisation funds](https://www.euractiv.com/section/health-consumers/news/court-of-auditors-complain-of-lack-of-oversight-over-health-digitalisation-funds/)[20-11-2024
+
+EU audit finds shortcomings in Brazil’s bird flu controls](https://www.euractiv.com/section/agriculture-food/news/eu-audit-finds-shortcomings-in-brazils-bird-flu-controls/)[20-11-2024
+
+Commission deal struck, centrist agreement confirmed](https://www.euractiv.com/section/politics/news/commission-deal-struck-centrist-agreement-confirmed/) [20-11-2024
+
+Danish military to stay close to Chinese ship after data cable breaches](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L1N3MR0DQ:2023901438)[20-11-2024
+
+WHO meets half of its fundraising goal at G20 summit](https://www.euractiv.com/section/health-consumers/news/who-meets-half-of-its-fundraising-goal-at-g20-summit/)[20-11-2024
+
+EU sticks to Biden as Putin eyes Trump on Ukraine deal](https://www.euractiv.com/section/politics/news/eu-sticks-to-biden-as-putin-eyes-trump-on-ukraine-deal/)[20-11-2024
+
+Paris vows resolution to Chinese cognac tariffs squabble in early 2025](https://www.euractiv.com/section/economy-jobs/news/paris-vows-resolution-to-chinese-cognac-tariffs-squabble-in-early-2025/)[20-11-2024
+
+Germany rebuffs Polish claims of new EU ‘defence bond’ consensus](https://www.euractiv.com/section/defence-and-security/news/germany-rebuffs-polish-claims-of-new-eu-defence-bond-consensus/) [20-11-2024
+
+Commission sitting on detailed draft guidelines with prohibited AI deadline looming](https://www.euractiv.com/section/tech/news/commission-sitting-on-detailed-draft-guidelines-with-prohibited-ai-deadline-looming/)[20-11-2024
+
+EU should prepare for ‘broad and aggressive’ Trump trade policies, says former top US official](https://www.euractiv.com/section/economy-jobs/news/eu-should-prepare-for-broad-and-aggressive-trump-trade-policies-says-former-top-us-official/)
+
 ###### Advertisement
 
 ###### Advertisement
