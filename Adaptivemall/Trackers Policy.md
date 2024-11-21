@@ -353,7 +353,7 @@ We Understand.™
 
 MY ACCOUNT
 
-* [Order Status](https://www.adaptivemall.com/sales/order/view/)
+* [Order Status](https://www.adaptivemall.com/sales/order/history/)
 * [Customer Care](https://www.adaptivemall.com/customer-service-q-a/)
 * [Sign In](https://www.adaptivemall.com/customer/account/login/)
 * [Create an Account](https://www.adaptivemall.com/customer/account/create/)
@@ -361,8 +361,8 @@ MY ACCOUNT
 
 CUSTOMER SERVICE
 
-* [Contact Us](https://www.adaptivemall.com/aboutus#contactus)
-* [About Us](https://www.adaptivemall.com/aboutus)
+* [Contact Us](https://www.adaptivemall.com/contact/)
+* [About Us](https://www.adaptivemall.com/aboutus/)
 * [Current Promotions](https://www.adaptivemall.com/promos/)
 * [FAQ](https://www.adaptivemall.com/customer-service-q-a/)
 * [Shipping](https://www.adaptivemall.com/freeshipping/)
