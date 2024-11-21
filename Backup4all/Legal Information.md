@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup to cloud using Backup4all](https://www.backup4all.com/how-to-backup-to-cloud-using-backup4all-kb.html)  
+* [Network deployment strategy for Backup4all](https://www.backup4all.com/network-deployment-strategy-for-backup4all-kb.html)  
     
-* [What is cloud backup](https://www.backup4all.com/what-is-cloud-backup-kb.html)  
+* [Ordering - FAQ](https://www.backup4all.com/ordering-faq-kb.html)  
     
-* [Rotating backup scheme using external drives](https://www.backup4all.com/rotating-backup-scheme-using-external-drives-kb.html)  
+* [How to backup your data to HiDrive](https://www.backup4all.com/how-to-backup-your-data-to-hidrive-kb.html)  
     
-* [How to back up data files from vCloud Air usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-vcloud-air-using-backup4all-kb.html)  
+* [How to force Backup4all to copy again some mi ...](https://www.backup4all.com/how-to-force-backup4all-to-copy-again-some-missing-files-in-destination-kb.html)  
     
-* [How to backup to Cloudflare R2 using Backup4a ...](https://www.backup4all.com/how-to-backup-to-cloudflare-r2-using-backup4all-kb.html)  
+* [How to schedule an existing backup job](https://www.backup4all.com/how-to-schedule-an-existing-backup-job-kb.html)  
     
 
 Choose language:
