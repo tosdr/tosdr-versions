@@ -59,111 +59,127 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
+[Steven Crowder
+
+56.4K](https://rumble.com/v5rn0uz--russia-ukraine-what-we-know-about-the-latest-escalations.html "Steven Crowder")
+
+[Bannons War Room
+
+31.5K](https://rumble.com/v5r9nzq-live-u.s.-house-of-representatives.html "Bannons War Room")
+
+[Badlands Media
+
+4.85K](https://rumble.com/v5rkxtq-badlands-daily-thursday-november-21-2024.html "Badlands Media")
+
 [NEWSMAX
 
-1.61K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+4.41K](https://rumble.com/v5rmlsw-the-gerry-callahan-show-live-thursday-nov.-21-2024-newsmax-podcasts.html "NEWSMAX")
 
-[Rebel News
+[Matt Kohrs
 
-830](https://rumble.com/v5rkg48-the-real-pauline-hanson-episode-the-opposition-podcast-no.-24.html "Rebel News")
+1.61K](https://rumble.com/v5rjk4k-the-mk-show-nov.-21st.html "Matt Kohrs")
+
+[Due Dissidence
+
+1.05K](https://rumble.com/v5ricvh-biden-sends-mines-to-ukraine-in-policy-switch-trump-taps-dr.-oz-hilarious-c.html "Due Dissidence")
+
+[barstoolsports
+
+193](https://rumble.com/v5rmbkz-kms-live-november-21-2024-ft.-mut-and-cinema.html "barstoolsports")
+
+[The Kirk Minihane Show
+
+155](https://rumble.com/v5rmbkz-kms-live-november-21-2024-ft.-mut-and-cinema.html "The Kirk Minihane Show")
+
+[Mike Crispi
+
+103](https://rumble.com/v5rivt5-mike-crispi-unafraid-11-21-24.html "Mike Crispi")
 
 [Major League Fishing
 
-4](https://rumble.com/v5pa8tn-live-general-tire-team-series-summit-cup-day-4.html "Major League Fishing")
+90](https://rumble.com/v5pajlz-live-general-tire-team-series-summit-cup-day-5.html "Major League Fishing")
 
-[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+[Wake Up Mintzy
 
-[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
-
-[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
-
-[barstoolsports](https://rumble.com/user/barstoolsports "barstoolsports")
-
-[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
-
-[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
-
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
-
-[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
-
-[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
-
-[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
-
-[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
-
-[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
-
-[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
-
-[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
-
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
-
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
-
-[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
-
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
-
-[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
-
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
-
-[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
-
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
-
-[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
-
-[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
-
-[New York Post](https://rumble.com/c/NYPost "New York Post")
-
-[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
+36](https://rumble.com/v5rfxm8-wake-up-mintzy-11.21.24.html "Wake Up Mintzy")
 
 [Lee Camp](https://rumble.com/c/LeeCamp "Lee Camp")
 
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
-
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
-
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
-
-[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
-
-[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
-
-[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
-
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
+[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
 
 [Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
 
+[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
+
+[The Dan Bongino Show](https://rumble.com/c/Bongino "The Dan Bongino Show")
+
+[Power Slap](https://rumble.com/c/powerslap "Power Slap")
+
+[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
+
+[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+
+[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
+
+[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+
+[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
+
+[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+
+[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
+
+[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
+
+[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
+
+[Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
+
+[Redacted News](https://rumble.com/c/Redacted "Redacted News")
+
+[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
+
+[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
+
+[John Burk](https://rumble.com/c/JohnBurk "John Burk")
+
+[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
+
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+
+[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
+
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+
+[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
+
+[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
+
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+
+[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
+
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+
+[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
+
+[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+
+[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+
+[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
+
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
+
 [The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
 
-[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
+[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
 
-[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
+[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
 
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
+[GOP](https://rumble.com/c/GOP "GOP")
 
 [The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
-
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
-
-[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
-
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
-
-[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
 
 ### Theme
 
