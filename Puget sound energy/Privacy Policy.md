@@ -359,7 +359,7 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Storm alert Updated Nov 20, 3:00 PM](#collapseOne)  
+[Storm alert Updated Nov 20, 6:00 PM](#collapseOne)  
 
 November Wind Storm
 -------------------
@@ -368,11 +368,11 @@ Damage assessment and restoration efforts continue
 
 Crews and hundreds of support staff continue their around-the-clock work to restore power to those who remain out as a result of yesterday’s damaging windstorm.
 
-As of 12 p.m., we have 385,098 customers out of power and we have restored over 190,000 customers since the start of the storm. Our focus today is on transmission lines and substations powering critical infrastructure, including hospitals, and supporting public safety.
+As of 6 p.m., we have 354,733 customers out of power. Power has been restored to more than 170,000 customers since the start of the storm. However, due to extensive wind and equipment damage, power for some customers may be out for an extended period. We are updating our outage map with the best information available and will continue to provide updates as restoration progresses. Our focus for tonight continues to be on transmission lines to critical infrastructure and public safety.
 
-Our first step in restoring power is damage assessment: Crews are surveying damage via helicopter and on the ground looking at the damage to the system and determining the extent of repairs that are needed. We will provide restoration updates as information becomes available.
+Crews continue to survey damage on the ground and helicopter patrols will resume tomorrow morning. Our first step in restoring power is damage assessment: getting a look at what’s been done to the system and determining the extent of repairs that are needed. We will provide restoration updates as information becomes available.
 
-Due to the severity of the storm and complexity of the damage to PSE infrastructure, including multiple transmission lines, substations and distribution circuits, we anticipate a multiple day outage and encourage customers with critical needs to make alternate plans as we work to assess the situation and restore power.
+Crews from other utilities from Washington State, British Columbia, Idaho and Oregon have all shown up to assist in the repair of our electric system. Support from these outside agencies ensures that PSE restores power to our communities as soon as possible.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
