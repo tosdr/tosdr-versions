@@ -27,9 +27,6 @@ If you have questions regarding this Privacy Policy or our collection and use of
 
  
 
-Our app fully complies with local laws and regulations. We do not support or encourage bypassing geo-restrictions or content limitations.  
-  
-
 The personal information we collect or have about you will either be provided by you directly, come from other sources, or will be collected from your activity on our website or applications and use of the Service as set out below. We collect personal information from our users in order to provide you with a personalized, useful, and efficient experience. The categories of information we collect can include:
 
 **Information you provide**
