@@ -1,13 +1,12 @@
 * [Skip to Content](#main)
 * [Skip to Footer](#footer)
 
-[Home](https://membean.com/) Get Started
+[Home](https://membean.com/) Get Started [Sign In](https://membean.com/login)
 
-* [How It Works](https://membean.com/#how-it-works)
+* [How It Works](https://membean.com/how-it-works)
 * [For Educators](https://membean.com/#for-educators)
 * [Case Studies](https://membean.com/case-studies)
 * [Pricing](https://membean.com/pricing)
-
 * [Support](https://support.membean.com/)
 * [Sign In](https://membean.com/login)
 * Get Started
@@ -18,6 +17,23 @@ Privacy Policy
 ==============
 
 Protecting your personal information is important to us.
+
+1. [Our Commitment to Your Privacy](#our-commitment-to-your-privacy)
+2. [Scope of the Privacy Policy](#scope-of-the-privacy-policy)
+3. [Information You Share](#information-you-share)
+4. [Information We Receive](#information-we-receive)
+5. [Personal Information of Children](#personal-information-of-children)
+6. [Use of Your Personal Information](#use-of-your-personal-information)
+7. [Legal Basis for Processing Information](#legal-basis-for-processing-information)
+8. [International Information Transfers](#international-information-transfers)
+9. [Sharing Information with Third Parties](#sharing-information-with-third-parties)
+10. [Access to Children's Personal Information](#access-to-childrens-personal-information)
+11. [Links](#links)
+12. [Security](#security)
+13. [Correcting, Updating, Deleting and Deactivating Information](#correcting-updating-deleting-and-deactivating-information)
+14. [Data Subject Rights](#data-subject-rights)
+15. [Notification of Changes](#notification-of-changes)
+16. [Contact Information](#contact-information)
 
 Our Commitment to Your Privacy
 ------------------------------
@@ -158,9 +174,10 @@ Get Started
 Product
 -------
 
-* [How It Works](https://membean.com/#how-it-works)
+* [How It Works](https://membean.com/how-it-works)
 * [Case Studies](https://membean.com/case-studies)
 * [Pricing](https://membean.com/pricing)
+* [Research](https://membean.com/research)
 * [Security](https://membean.com/security)
 
 Resources
@@ -168,8 +185,9 @@ Resources
 
 * [Teacher Resources](https://membean.com/resources)
 * [Online Store](https://shop.membean.com/)
+* [Rootcasts](https://membean.com/rootcasts)
 * [Webinars](https://membean.com/webinars/archives)
-* [Word Roots](https://membean.com/roots)
+* [Word Sums](https://membean.com/roots)
 
 Company
 -------
@@ -181,7 +199,7 @@ Company
 
 * [](https://www.facebook.com/membean)
 * [](https://www.instagram.com/membeaninc/)
-* [](https://twitter.com/membean)
+* [](https://x.com/membean)
 * [](https://www.linkedin.com/company/membean/)
 * [](mailto:contact@membean.com)
 * [866-930-6680](tel:+18669306680)
@@ -208,16 +226,16 @@ Get Started
 
 Hi there! Tell us a little bit about yourself to begin.
 
-* [### I'm an educator
+* [### I'm an educator…
     
     looking to use Membean at my school or district.](https://membean.com/signup/educator)
-* ### I'm a parent
+* ### I'm a parent…
     
     looking for my kid(s) to use Membean.
     
     I'm interested in: Select... Homeschooling Independent Learning
     
-* ### I'm an individual
+* ### I'm an individual…
     
     wanting to study for a test or to improve my vocabulary.
     
