@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Enhancing Cyber Resilience in US SLED Organizations
+            ##### Stories from the SOC: Registry Clues to PDF Blues: A Tale of PUA Persistence
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/enhancing-cyber-resilience-in-us-sled)
+            [Learn more](https://levelblue.com/blogs/security-essentials/stories-from-the-soc-registry-clues-to-pdf-blues-a-tale-of-pua-persistence)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -399,13 +399,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Jeff Kieschnick](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Theresa Lanowitz
+#### Jeff Kieschnick
 
-Nov 20, 2024
+Nov 21, 2024
 
-### [Enhancing Cyber Resilience in US SLED Organizations](https://levelblue.com/blogs/security-essentials/enhancing-cyber-resilience-in-us-sled)
+### [Stories from the SOC: Registry Clues to PDF Blues: A Tale of PUA Persistence](https://levelblue.com/blogs/security-essentials/stories-from-the-soc-registry-clues-to-pdf-blues-a-tale-of-pua-persistence)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
@@ -435,7 +435,6 @@ Products
 * [USM Anywhere](https://www.alienvault.com/xdr)
 * [XDR for MSSPs](https://www.alienvault.com/products/usm-for-mssp)
 * [Open Threat Exchange (OTX)](https://www.alienvault.com/open-threat-exchange)
-* [OSSIM](https://www.alienvault.com/products/ossim)
 
 Solutions
 
