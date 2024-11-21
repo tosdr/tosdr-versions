@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent)
 
-**2X Meal Match:** Turn $1 into $2. Help serve more meals to young people. [**Give Today.**](https://www.covenanthouse.org/thanksgiving-meal-match)
+**2X Meal Match:** Turn $1 into $2. Help serve more meals to young people. [**Give Today.**](https://www.covenanthouse.org/thanksgiving-meal-match?sourceid=2503935&origin=DHQEI2505DLABN)
 
 Close Alert
 
