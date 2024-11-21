@@ -77,9 +77,6 @@ Management](https://www.mavrck.co/)
     
     How to Use Later
     
-    * [Get Later CertifiedBecome a Later pro for free (opens a new tab)](https://education.later.com/?utm_source=later.com&utm_medium=referral&utm_content=nav)
-    * [Product TrainingGet the most out of Later](https://www.mavrck.co/product-training/)
-    * [Later WebinarsLive product demos and Q&As](https://www.mavrck.co/product-training/#webinars)
     * [Help CenterSearch & find answers (opens a new tab)](https://help.later.com/)
     * [CommunityConnect, learn, & engage (opens a new tab)](https://community.later.com/)
     
@@ -1511,8 +1508,6 @@ The best social media marketing app, influencer marketing management platform & 
     * [Marketing Resources](https://www.mavrck.co/training/)
     * [Case Studies](https://www.mavrck.co/case-studies/)
     * [Beyond Influence Podcast](https://www.mavrck.co/beyond-influence-podcast/)
-    * [Learn with Later](https://education.later.com/)
-    * [Get Later Certified](https://education.later.com/?utm_source=later.com&utm_medium=referral&utm_content=nav)
     * [Help Center](https://help.later.com/)
     * [Community](https://community.later.com/)
     
