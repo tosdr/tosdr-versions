@@ -117,9 +117,6 @@ Free shipping over $99
         * [Double Ring](https://greenlightdepot.com/collections/double-ring)
         * [Mushroom](https://greenlightdepot.com/collections/mushroom)
     
-* [Find Rebates](https://greenlightdepot.com/pages/find-rebates)
-    * [Rebate Program](https://greenlightdepot.com/pages/encentivizer)
-    * [Payback Calculator](https://greenlightdepot.com/pages/payback)
 
 * [0](javascript:void(0);)
     
