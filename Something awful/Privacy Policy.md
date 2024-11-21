@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [cPixel, Dark Forums, Galloping Acres, and Vomit Online](https://www.somethingawful.com/weekend-web/cpixel-dark-forums/1/)
-* [Failures of humanity witnessed at amusement parks](https://www.somethingawful.com/comedy-goldmine/amusement-park-failures/1/)
-* [Science Fair SWAT](https://www.somethingawful.com/fashion-swat/science-fair-swat/1/)
-* [The Official Rapture / End of the World FAQ](https://www.somethingawful.com/guides/rapture-apocalypse-guide/1/)
-* [Remorseful Hitman Kid 2.0!](https://www.somethingawful.com/photoshop-phriday/kid-gun-photo/)
+* [Game SWAT](https://www.somethingawful.com/fashion-swat/game-swat/1/)
+* [The Final Myth Busted](https://www.somethingawful.com/news/final-mythbusters-episode/1/)
+* [The World of Bongo (Thanks, Fiddy Pea!)](https://www.somethingawful.com/awful-links/world-bongo-awards/)
+* [Definitive Movies](https://www.somethingawful.com/photoshop-phriday/definitive-movies/1/)
+* [Movie Cats! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/cat-movies/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [ceilings: how tall is too tall?](http://forums.somethingawful.com/showthread.php?threadid=4075771 "ceilings: how tall is too tall?")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [Name a Vibe](http://forums.somethingawful.com/showthread.php?threadid=4075712 "Name a Vibe")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have any goons lived in a halfway house?](http://forums.somethingawful.com/showthread.php?threadid=4075727 "Have any goons lived in a halfway house?")
 
 ### Random Articles
 
-* [The Awkwardness Survival Guide](https://www.somethingawful.com/news/awkwardness-survival-guide/)
-* [This Update Is Illegal!](https://www.somethingawful.com/news/this-update-illegal/)
-* [Running for Governor](https://www.somethingawful.com/news/running-for-governor/)
-* [REAMS OF DOGS](https://www.somethingawful.com/news/dog-classifieds15/)
-* [A Plague Of Day Z Stories](https://www.somethingawful.com/video-game-article/day-z-stories/)
+* [Yet Another Ronald Reagan Retrospective](https://www.somethingawful.com/news/yet-another-ronald/)
+* [The Meatship Sets Sail](https://www.somethingawful.com/comedy-goldmine/meatship-seinfeld-script/1/)
+* [Productive Corvosations](https://www.somethingawful.com/news/dishonored-corvo-food/)
+* [SpEds Paintball](https://www.somethingawful.com/awful-links/awful-link-953/)
+* [eBay USA USA USA!](https://www.somethingawful.com/news/ebay-usa-usa/)
 
 [Random!](https://www.somethingawful.com/random/)
 
