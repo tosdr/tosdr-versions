@@ -1,6 +1,6 @@
 [![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64fae83a665953d8193077f4_logo-blue1.svg)](https://www.admarketplace.com/)
 
-[Advertisers](https://www.admarketplace.com/advertiser)[Publishers](https://www.admarketplace.com/publisher)[Solutions](https://www.admarketplace.com/solutions)
+[Advertisers](https://www.admarketplace.com/advertisers)[Publishers](https://www.admarketplace.com/publishers)[Solutions](https://www.admarketplace.com/solutions)
 
 Resources
 
@@ -114,7 +114,7 @@ Please enter a business email
 
 [![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b0c_logo-white1.svg)![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b0d_logo-blue1.svg)](https://www.admarketplace.com/)
 
-[Advertisers](https://www.admarketplace.com/advertiser)[Publishers](https://www.admarketplace.com/publisher)[Solutions](https://www.admarketplace.com/solutions)
+[Advertisers](https://www.admarketplace.com/advertisers)[Publishers](https://www.admarketplace.com/publishers)[Solutions](https://www.admarketplace.com/solutions)
 
 Resources
 
@@ -599,65 +599,44 @@ adMarketplace Inc.
 New York, NY 10016 USA  
 Tel. +1 212 925 2022
 
-[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64fae83a665953d8193077f4_logo-blue1.svg)](https://www.admarketplace.com/old-home)
+[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64fae83ab17eec100a7e33a7_logo-white1.svg)](https://www.admarketplace.com/)
 
-[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f831e9a8f8f3a6d82bb8e1_youtube%20(1).svg)](https://www.youtube.com/channel/UCLzGX9I0a8VH1meBVbXWOaQ)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f831e9c1c7d5c2cdc7202d_x%20(1).svg)](https://twitter.com/admarketplace?lang=en)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f831e848f32807780de9f3_in%20(1).svg)](https://www.linkedin.com/company/admarketplace/)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f831e9c0bf005c90df2ad5_inst%20(1).svg)](https://www.instagram.com/admarketplace/?hl=en)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f831e9b531ecb990780a22_fb%20(1).svg)](https://www.facebook.com/admarketplaceofficial/)
+[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6643ccf35d959785f9a9fd43_Linkedin.png)](https://www.linkedin.com/company/admarketplace/)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6643ccf3783abc1f328139f5_X.png)](https://x.com/i/flow/login?redirect_after_login=%2Fadmarketplace)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6643ccf347a97a2c24381615_Instagram.png)](https://www.instagram.com/admarketplace/?hl=en)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6643ccf388b2d9e4a3828475_Facebook.png)](https://www.facebook.com/admarketplaceofficial/)
 
-By Audience
+Audience
 
-[Advertisers](https://www.admarketplace.com/advertisers)[Publishers](https://www.admarketplace.com/publishers)
+[Publishers](https://www.admarketplace.com/publishers)[Advertisers](https://www.admarketplace.com/advertisers)
 
-By Product
+Product
 
-[Solutions](https://www.admarketplace.com/solutions)[AMP Find](#)[AMP Suggest](#)[AMP Results](#)
+[AMP Find](https://www.admarketplace.com/solutions)[AMP Suggest](https://www.admarketplace.com/solutions)[AMP Result](https://www.admarketplace.com/solutions)
 
 Measurement
 
-[AMPscore](#)[PubScore](#)[Open-Source MMM](#)
-
-Privacy
-
-[Privacy-Minded](#)[Cookieless](#)
+[AMPscore](#)[Pubscore](#)[Open MMM](#)
 
 Resources
 
-[Blogs](https://www.admarketplace.com/blog)[Case Studies](https://www.admarketplace.com/case-studies)[Infographics](https://www.admarketplace.com/infographics)[Insights & Research](https://www.admarketplace.com/insights-research)[Engineering at AMP](#)
+[Blog](https://www.admarketplace.com/blog)[Insights & Research](https://www.admarketplace.com/insights-research)[Case Studies](https://www.admarketplace.com/case-studies)
 
 About
 
-[Our Story](https://www.admarketplace.com/our-story)[News](https://www.admarketplace.com/news)[Culture & Careers](https://www.admarketplace.com/culture-and-careers)[Employee Spotlight](https://www.admarketplace.com/employee-spotlight)
+[Our Story](https://www.admarketplace.com/our-story)[Careers](https://www.admarketplace.com/culture-and-careers)
 
-Our locations
+[News](https://www.admarketplace.com/news)
 
-90 Park Ave  
-Floor 11  
-New York, NY 10016
+Privacy Terms
 
-60 London Wall  
-London, UK EC2M 5TQ
+[Privacy-Minded](https://www.admarketplace.com/privacy-policy)[Cookieless](https://www.admarketplace.com/terms-of-use)
 
-![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/673370c3a88c635e7d17d0e8_21972-312_SOC_NonCPA.png)
+Our Office Locations:
 
-[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64dcda09eb48dafb5644be8e_iab.svg)](https://www.iab.com/)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64dcda09cfc7ccedc2998bb9_verisign.svg)](https://www.verisign.com/en_US/website-presence/online/ssl-certificates/index.xhtml?loc=en_US)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64dcda0911ffd12ff051f00e_tag-registered.svg)](https://www.tagtoday.net/)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64dcda72bc78c04f95bdaa99__adchoices%201.svg)](https://youradchoices.com/)
+[90 Park Ave 11 Floor New York, NY 10016](https://maps.app.goo.gl/mfPpPz7JabmJi6eV7)
 
-Subscribe to our Blog
+[60 London Wall London, UK EC2M 5TQ](https://maps.app.goo.gl/WsVLq7TSh8PiiyJF6)
 
-Thank you! Your submission has been received!
+[50 S Pointe Drive Miami Beach, FL 33139](https://maps.app.goo.gl/SyARDHw7A5L12qAF6)
 
-Oops! Something went wrong while submitting the form.
+![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/673370c3a88c635e7d17d0e8_21972-312_SOC_NonCPA.png)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/67360a0a7669be572307474a__iab.svg)](https://www.iab.com/)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/67360a0a4e65d2246eded872__verisign.svg)](https://www.verisign.com/en_US/website-presence/online/ssl-certificates/index.xhtml?loc=en_US)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/67360a0a3a6109017ed074c2__tag-registered.svg)](https://www.tagtoday.net/)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/67360b59d2b1a9328bbae65c_Frame.svg)](https://youradchoices.com/)
 
-© Copyright 2024 adMarketplace
-
-[Sitemap](https://www.admarketplace.com/sitemap)
-
-[Terms of Use](https://www.admarketplace.com/terms-of-use)
-
-[Privacy Policy](https://www.admarketplace.com/privacy-policy)
-
-[Contact Us](https://www.admarketplace.com/contact-us)
-
-![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6502c1b0483936b32c95d06b_cookie-icon-webflow-cloneable-template-brix-templates.svg)
-
-Our website USES cookies. By continuing navigating, we assume your permission to deploy cookies as detailed in our [Privacy Policy.](https://www.admarketplace.com/privacy-policy)
-
-[Accept Cookies](#)![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f20ae9aff4ad96e13cf6c8_x1.svg)
+© 2024. All rights reserved.
