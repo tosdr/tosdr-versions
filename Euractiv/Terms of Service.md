@@ -613,25 +613,25 @@ Most recent
 
 [21-11-2024
 
+Political groups’ agreement on Health Commissioner Várhelyi leaves deep divisions](https://www.euractiv.com/section/health-consumers/news/political-groups-agreement-on-health-commissioner-varhelyi-leaves-deep-divisions/)[21-11-2024
+
+ICC arrest warrant for Netanyahu ‘binding’ on all member states, says EU chief diplomat](https://www.euractiv.com/section/global-europe/news/icc-arrest-warrant-for-netanyahu-binding-on-all-member-states-says-eu-chief-diplomat/)[21-11-2024
+
+UK cuts €500 billion from defence budget, retires several major aircraft and ships](https://www.euractiv.com/section/global-europe/news/uk-cuts-e500-billion-from-defence-budget-retires-several-major-aircraft-and-ships/)[21-11-2024
+
+Large capex investment needed for Europe’s district heating solutions, tailored approach preferred](https://www.euractiv.com/section/eet/news/large-capex-investment-needed-for-europes-district-heating-solutions-tailored-approach-preferred/)[21-11-2024
+
+Universal access to diabetes care urgently needed in Europe, but political will is lacking](https://www.euractiv.com/section/health-consumers/news/universal-access-to-diabetes-care-urgently-needed-in-europe-but-political-will-is-lacking/)[21-11-2024
+
+European shellfish producers call for common policy to combat sea warming](https://www.euractiv.com/section/agriculture-food/news/european-shellfish-producers-call-for-common-policy-to-combat-sea-warming/)[21-11-2024
+
+Bitter tensions in Slovak healthcare growing, still no deal between ministry and unions](https://www.euractiv.com/section/health-consumers/news/bitter-tensions-in-slovak-healthcare-growing-still-no-deal-between-ministry-and-unions/)[21-11-2024
+
+A remarriage built on mistrust](https://www.euractiv.com/section/politics/news/a-remarriage-built-on-mistrust/)[21-11-2024
+
 Council set to take a cautious stance on future of telecoms](https://www.euractiv.com/section/tech/news/council-set-to-take-a-cautious-stance-on-future-of-telecoms/)[21-11-2024
 
-Russia launches intercontinental ballistic missile in attack on Ukraine](https://www.euractiv.com/section/global-europe/news/russia-launches-intercontinental-ballistic-missile-in-attack-on-ukraine/)[21-11-2024
-
-World still split over money as clock ticks on COP29](https://www.euractiv.com/section/eet/news/world-still-split-over-money-as-clock-ticks-on-cop29/)[21-11-2024
-
-Bulgaria’s pro-Russian parties display increasingly open ties with the Kremlin](https://www.euractiv.com/section/politics/news/the-capitals-bulgarias-pro-russian-parties-display-increasingly-open-ties-with-the-kremlin/)[21-11-2024
-
-Dozens of raids conducted in fake ID network case](https://www.euractiv.com/section/politics/news/dozens-of-raids-conducted-in-fake-id-network-case/)[21-11-2024
-
-Poland to deliver 45th support package to Ukraine, Tusk tells Zelenskyy](https://www.euractiv.com/section/politics/news/poland-to-deliver-45th-support-package-to-ukraine-tusk-tells-zelenskyy/)[21-11-2024
-
-Portuguese minister wants more NATO contribution because of Putin, not Trump](https://www.euractiv.com/section/politics/news/portuguese-minister-wants-more-nato-contribution-because-of-putin-not-trump/)[21-11-2024
-
-US reopens Kyiv embassy after Ukraine firing of ATACMS missiles](https://www.euractiv.com/section/global-europe/news/us-reopens-kyiv-embassy-after-ukraine-firing-of-atacms-missiles/)[21-11-2024
-
-Ribera gets EPP blessing, blames Spain’s Partido Popular for Valencia floods disaster](https://www.euractiv.com/section/politics/news/ribera-gets-epp-blessing-blames-spains-partido-popular-for-valencia-floods-disaster/)[21-11-2024
-
-Italian healthcare workers strike over wage disputes, budget cuts](https://www.euractiv.com/section/politics/news/italian-healthcare-workers-strike-over-wage-disputes-budget-cuts/)
+Russia launches intercontinental ballistic missile in attack on Ukraine](https://www.euractiv.com/section/global-europe/news/russia-launches-intercontinental-ballistic-missile-in-attack-on-ukraine/)
 
 ###### Advertisement
 
