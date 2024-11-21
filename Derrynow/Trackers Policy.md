@@ -259,12 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1657938/in-pictures-st-mary-s-ardmore-gac-dinner-dance-in-the-maldron-hotel.html)
+[![Throwback Thursday: Partytime out and about in Derry's Metro Bar (2007)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Derry's Metro Bar (2007)")](https://www.derrynow.com/story-telling/pictures---videos/1660456/throwback-thursday-partytime-out-and-about-in-derry-s-metro-bar-2007.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel](https://www.derrynow.com/story-telling/pictures---videos/1657938/in-pictures-st-mary-s-ardmore-gac-dinner-dance-in-the-maldron-hotel.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Throwback Thursday: Partytime out and about in Derry's Metro Bar (2007)](https://www.derrynow.com/story-telling/pictures---videos/1660456/throwback-thursday-partytime-out-and-about-in-derry-s-metro-bar-2007.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man became ‘frustrated’ and broke chair in Derry Courthouse](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man became ‘frustrated’ and broke chair in Derry Courthouse")](https://www.derrynow.com/news/local-news/1660358/man-became-frustrated-and-broke-chair-in-derry-courthouse.html)
 
@@ -273,14 +273,12 @@ Most Popular
 [Man became ‘frustrated’ and broke chair in Derry Courthouse](https://www.derrynow.com/news/local-news/1660358/man-became-frustrated-and-broke-chair-in-derry-courthouse.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Icy road conditions in Greysteel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Icy road conditions in Greysteel")](https://www.derrynow.com/news/derry-news/1660218/treacherous-road-conditions-across-county-derry-for-motorists-as-winter-arrives.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1660455/derry-death-notices-thursday-november-21st-2024.html)
 
-Icy road conditions in Greysteel
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-['Treacherous' road conditions across County Derry for motorists as winter arrives](https://www.derrynow.com/news/derry-news/1660218/treacherous-road-conditions-across-county-derry-for-motorists-as-winter-arrives.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Thursday, November 21st, 2024](https://www.derrynow.com/news/deaths/1660455/derry-death-notices-thursday-november-21st-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Five returned for trial to Derry Crown Court on series of drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Five returned for trial to Derry Crown Court on series of drug charges")](https://www.derrynow.com/news/local-news/1660415/five-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
 
@@ -288,38 +286,6 @@ Icy road conditions in Greysteel
 
 [Five returned for trial to Derry Crown Court on series of drug charges](https://www.derrynow.com/news/local-news/1660415/five-returned-for-trial-to-derry-crown-court-on-series-of-drug-charges.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two people appear at Derry Court on drugs charges including possession of heroin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two people appear at Derry Court on drugs charges including possession of heroin")](https://www.derrynow.com/news/local-news/1660371/two-people-appear-at-derry-court-on-drugs-charges-including-possession-of-heroin.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two people appear at Derry Court on drugs charges including possession of heroin](https://www.derrynow.com/news/local-news/1660371/two-people-appear-at-derry-court-on-drugs-charges-including-possession-of-heroin.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Snowy scenes in parts of County Derry as temperatures drop overnight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Snowy scenes in parts of County Derry as temperatures drop overnight")](https://www.derrynow.com/news/home/1660109/snowy-scenes-in-parts-of-county-derry-as-temperatures-drop-overnight.html)
-
-A snowy scene from Park, County Derry this morning.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Snowy scenes in parts of County Derry as temperatures drop overnight](https://www.derrynow.com/news/home/1660109/snowy-scenes-in-parts-of-county-derry-as-temperatures-drop-overnight.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![My Dad's long battle with COPD pushed me to check my own lung health](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "My Dad's long battle with COPD pushed me to check my own lung health")](https://www.derrynow.com/news/derry-news/1660288/my-dad-s-long-battle-with-copd-pushed-me-to-check-my-own-lung-health.html)
-
-Darren with his dad James
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[My Dad's long battle with COPD pushed me to check my own lung health](https://www.derrynow.com/news/derry-news/1660288/my-dad-s-long-battle-with-copd-pushed-me-to-check-my-own-lung-health.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry health event celebrates International Men's Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry health event celebrates International Men's Day")](https://www.derrynow.com/story-telling/pictures---videos/1660454/in-pictures-derry-health-event-celebrates-international-men-s-day.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry health event celebrates International Men's Day](https://www.derrynow.com/story-telling/pictures---videos/1660454/in-pictures-derry-health-event-celebrates-international-men-s-day.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry's Christmas lights in Guildhall square](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Christmas lights in Guildhall square")](https://www.derrynow.com/news/derry-news/1660563/the-switching-on-of-derry-s-christmas-lights-is-something-you-don-t-want-to-miss.html)
 
@@ -339,11 +305,57 @@ Donate a coat (credit: me4mental Facebook)
 [Derry charity launch coat donation drive to help people in need during winter](https://www.derrynow.com/news/derry-news/1660526/derry-charity-launch-coat-donation-drive-to-help-people-in-need-during-winter.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Derry health event celebrates International Men's Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry health event celebrates International Men's Day")](https://www.derrynow.com/story-telling/pictures---videos/1660454/in-pictures-derry-health-event-celebrates-international-men-s-day.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry health event celebrates International Men's Day](https://www.derrynow.com/story-telling/pictures---videos/1660454/in-pictures-derry-health-event-celebrates-international-men-s-day.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman charged in connection with drug-related offences after police search Derry property](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged in connection with drug-related offences after police search Derry property")](https://www.derrynow.com/news/newsletter-derrynow/1661069/woman-charged-in-connection-with-drug-related-offences-after-police-search-derry-property.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman charged in connection with drug-related offences after police search Derry property](https://www.derrynow.com/news/newsletter-derrynow/1661069/woman-charged-in-connection-with-drug-related-offences-after-police-search-derry-property.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards")](https://www.derrynow.com/news/home/1660284/county-derry-man-wins-prestigious-award-for-restoring-a-historic-lifeboat-at-2024-national-historic-ships-uk-awards.html)
+
+Bernard aboard historic lifeboat, Grace Patterson Ritchie.
+
+[Home](https://www.derrynow.com/)
+
+[County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards](https://www.derrynow.com/news/home/1660284/county-derry-man-wins-prestigious-award-for-restoring-a-historic-lifeboat-at-2024-national-historic-ships-uk-awards.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Thousands of women plan legal action over alleged links between talc and cancer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Thousands of women plan legal action over alleged links between talc and cancer")](https://www.derrynow.com/news/local-news/1660428/thousands-of-women-plan-legal-action-over-alleged-links-between-talc-and-cancer.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Thousands of women plan legal action over alleged links between talc and cancer](https://www.derrynow.com/news/local-news/1660428/thousands-of-women-plan-legal-action-over-alleged-links-between-talc-and-cancer.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Derry marks World Children's Day with candlelight procession and vigil](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry marks World Children's Day with candlelight procession and vigil")](https://www.derrynow.com/story-telling/pictures---videos/1661352/in-pictures-derry-marks-world-children-s-day-with-candlelight-procession-and-vigil.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry marks World Children's Day with candlelight procession and vigil](https://www.derrynow.com/story-telling/pictures---videos/1661352/in-pictures-derry-marks-world-children-s-day-with-candlelight-procession-and-vigil.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Thursday: Partytime out and about in Derry's Metro Bar (2007)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Derry's Metro Bar (2007)")](https://www.derrynow.com/story-telling/pictures---videos/1660456/throwback-thursday-partytime-out-and-about-in-derry-s-metro-bar-2007.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Thursday: Partytime out and about in Derry's Metro Bar (2007)](https://www.derrynow.com/story-telling/pictures---videos/1660456/throwback-thursday-partytime-out-and-about-in-derry-s-metro-bar-2007.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Mayor hosts reception for Thornhill College pupils](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts reception for Thornhill College pupils")](https://www.derrynow.com/story-telling/pictures---videos/1660490/in-pictures-mayor-hosts-reception-for-thornhill-college-pupils.html)
 
@@ -400,20 +412,6 @@ Multimedia
 
 [IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall](https://www.derrynow.com/story-telling/pictures---videos/1657940/in-pictures-revive-pre-loved-pop-up-show-in-derry-s-st-columb-s-hall.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About Partytime with the County Derry Post (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About Partytime with the County Derry Post (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1658764/throwback-tuesday-out-and-about-partytime-with-the-county-derry-post-2011.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About Partytime with the County Derry Post (2011)](https://www.derrynow.com/story-telling/pictures---videos/1658764/throwback-tuesday-out-and-about-partytime-with-the-county-derry-post-2011.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Christmas comes early as Elves Parade lights up Culmore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas comes early as Elves Parade lights up Culmore")](https://www.derrynow.com/story-telling/pictures---videos/1657939/in-pictures-christmas-comes-early-as-elves-parade-lights-up-culmore.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Christmas comes early as Elves Parade lights up Culmore](https://www.derrynow.com/story-telling/pictures---videos/1657939/in-pictures-christmas-comes-early-as-elves-parade-lights-up-culmore.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,53 +513,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1660455/derry-death-notices-thursday-november-21st-2024.html)
+[![Draperstown native Elinor Lawless](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Draperstown native Elinor Lawless")](https://www.derrynow.com/news/home/1661230/bbc-reveals-first-look-pictures-for-casualtys-emotionally-epic-christmas-special-staring-county-derry-native.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Draperstown native Elinor Lawless
 
-[Derry Death Notices - Thursday, November 21st, 2024](https://www.derrynow.com/news/deaths/1660455/derry-death-notices-thursday-november-21st-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[![Derry marks World Children's Day in solidarity with the children and young people of Gaza](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry marks World Children's Day in solidarity with the children and young people of Gaza")](https://www.derrynow.com/news/local-news/1660929/derry-marks-world-children-s-day-in-solidarity-with-the-children-and-young-people-of-gaza.html)
+[BBC reveals first look pictures for Casualty’s emotionally epic Christmas special staring County Derry native](https://www.derrynow.com/news/home/1661230/bbc-reveals-first-look-pictures-for-casualtys-emotionally-epic-christmas-special-staring-county-derry-native.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Derry marks World Children's Day in solidarity with the children and young people of Gaza.
+[![St Joseph’s hosting coffee morning fundraiser for Uisce for Gaza](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "St Joseph’s hosting coffee morning fundraiser for Uisce for Gaza")](https://www.derrynow.com/news/1661212/st-josephs-hosting-coffee-morning-fundraiser-for-uisce-for-gaza.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry marks World Children's Day in solidarity with the children and young people of Gaza](https://www.derrynow.com/news/local-news/1660929/derry-marks-world-children-s-day-in-solidarity-with-the-children-and-young-people-of-gaza.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards](https://www.derrynow.com/resizer/165/93/true/2024_11_20/Grace_Paterson_Ritchie_-_Bernard_aboard_copyright_Bernard_Condon-1732102558294.jpg--.jpg?1732102558349 "County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards")](https://www.derrynow.com/news/home/1660284/county-derry-man-wins-prestigious-award-for-restoring-a-historic-lifeboat-at-2024-national-historic-ships-uk-awards.html)
-
-Bernard aboard historic lifeboat, Grace Patterson Ritchie.
-
-[Home](https://www.derrynow.com/)
-
-[County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards](https://www.derrynow.com/news/home/1660284/county-derry-man-wins-prestigious-award-for-restoring-a-historic-lifeboat-at-2024-national-historic-ships-uk-awards.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Over 80 Men Celebrate International Men’s Day](https://www.derrynow.com/resizer/165/93/true/2024_11_20/Image_One-1732120511713.JPG--.JPG?1732120512509 "Over 80 Men Celebrate International Men’s Day")](https://www.derrynow.com/news/home/1660707/over-80-men-celebrate-international-mens-day.html)
-
-Pictured are some of those who attended the International Men's Day event.
-
-[Home](https://www.derrynow.com/)
-
-[Over 80 Men Celebrate International Men’s Day](https://www.derrynow.com/news/home/1660707/over-80-men-celebrate-international-mens-day.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Christmas gifts and songs on the menu as Derry's Guildhall Craft Fair returns](https://www.derrynow.com/resizer/165/93/true/2024_11_20/Guildhallcraft1711231-1732110046448.jpg--.jpg?1732110057759 "Christmas gifts and songs on the menu as Derry's Guildhall Craft Fair returns")](https://www.derrynow.com/news/local-news/1660451/christmas-gifts-and-songs-on-the-menu-as-derry-s-guildhallcraftfair-returns.html)
+St Joseph’s Boys' School hosting coffee morning fundraiser for Uisce for Gaza.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Christmas gifts and songs on the menu as Derry's Guildhall Craft Fair returns](https://www.derrynow.com/news/local-news/1660451/christmas-gifts-and-songs-on-the-menu-as-derry-s-guildhallcraftfair-returns.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[St Joseph’s hosting coffee morning fundraiser for Uisce for Gaza](https://www.derrynow.com/news/1661212/st-josephs-hosting-coffee-morning-fundraiser-for-uisce-for-gaza.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Airports can ‘take advantage’ of Dublin passenger cap to attract more routes](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_20/1732113315029_0.jpg--.jpg?1732113315143 "Airports can ‘take advantage’ of Dublin passenger cap to attract more routes")](https://www.derrynow.com/news/local-news/1660578/airports-can-take-advantage-of-dublin-passenger-cap-to-attract-more-routes.html)
+[![Date set for preliminary enquiry for two Derry men facing firearms charges](https://www.derrynow.com/resizer/165/93/true/2024_05_24/IDNT_23-5-24_New_IRA_AK-47-1716547276516.jpg--.jpg?1716547276549 "Date set for preliminary enquiry for two Derry men facing firearms charges")](https://www.derrynow.com/news/newsletter-derrynow/1661359/date-set-for-preliminary-enquiry-for-two-derry-men-facing-firearms-charges.html)
+
+The AKM rifle seized by police
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Airports can ‘take advantage’ of Dublin passenger cap to attract more routes](https://www.derrynow.com/news/local-news/1660578/airports-can-take-advantage-of-dublin-passenger-cap-to-attract-more-routes.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Date set for preliminary enquiry for two Derry men facing firearms charges](https://www.derrynow.com/news/newsletter-derrynow/1661359/date-set-for-preliminary-enquiry-for-two-derry-men-facing-firearms-charges.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.](https://www.derrynow.com/resizer/165/93/true/2024_11_21/462642163_594411556581028_899387021684522005_n-1732186076538.jpg--.jpg?1732186077029 "Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.")](https://www.derrynow.com/news/sociallinkedin-derrynow/1661185/ardnashee-s-new-head-girl-aoibh-cutliff-has-overcome-many-life-challenges.html)
+
+Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Ardnashee's new head girl Aoibh Cutliff has overcome many life challenges](https://www.derrynow.com/news/sociallinkedin-derrynow/1661185/ardnashee-s-new-head-girl-aoibh-cutliff-has-overcome-many-life-challenges.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Deputy Mayor of Causeway Coast and Glens, Councillor Tanya Stirling joined Norman Irwin and invited guests to celebrate Norman’s 106th birthday this week.](https://www.derrynow.com/resizer/165/93/true/2024_11_21/CCGBC_N_IRWIN_1-1732185201560.jpg--.jpg?1732185202370 "Deputy Mayor of Causeway Coast and Glens, Councillor Tanya Stirling joined Norman Irwin and invited guests to celebrate Norman’s 106th birthday this week.")](https://www.derrynow.com/news/county-derry-post/1661168/local-man-norman-irwin-celebrates-106th-birthday-with-deputy-mayor-of-causeway-coast-and-glens.html)
+
+Deputy Mayor of Causeway Coast and Glens, Councillor Tanya Stirling joined Norman Irwin and invited guests to celebrate Norman’s 106th birthday this week.
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Local man Norman Irwin celebrates 106th birthday with Deputy Mayor of Causeway Coast and Glens](https://www.derrynow.com/news/county-derry-post/1661168/local-man-norman-irwin-celebrates-106th-birthday-with-deputy-mayor-of-causeway-coast-and-glens.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry judge says until threat against suspected drug dealers is lifted, anonymity orders will be granted](https://www.derrynow.com/resizer/165/93/true/2023_10_25/DN_Barney_McElholm_13904359-1656342845308_1674213317.jpg--derry_judge_blasts_coercive_control-1698229144437.jpg--.jpg?1698229144458 "Derry judge says until threat against suspected drug dealers is lifted, anonymity orders will be granted")](https://www.derrynow.com/news/crime---courts/1661204/derry-judge-says-until-threat-against-suspected-drug-dealers-is-lifted-anonymity-orders-will-be-granted.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry judge says until threat against suspected drug dealers is lifted, anonymity orders will be granted](https://www.derrynow.com/news/crime---courts/1661204/derry-judge-says-until-threat-against-suspected-drug-dealers-is-lifted-anonymity-orders-will-be-granted.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
