@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d7168cb9-82c7-4efe-bb46-f1742d0fefd1/20241121T040815/d7168cb9-82c7-4efe-bb46-f1742d0fefd1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d7168cb9-82c7-4efe-bb46-f1742d0fefd1/20241121T040815/d7168cb9-82c7-4efe-bb46-f1742d0fefd1_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/iowa-dot-prepares-snow-plow-crews-winter/526-086808a9-97e3-4f4b-b567-1a9a747aa20a)
         
-        #### [Iowa DOT prepares snow plow crews for winter](https://www.wqad.com/article/news/local/public-safety/iowa-dot-prepares-snow-plow-crews-winter/526-086808a9-97e3-4f4b-b567-1a9a747aa20a) [![](https://media.tegna-media.com/assets/WQAD/images/d7168cb9-82c7-4efe-bb46-f1742d0fefd1/20241121T040815/d7168cb9-82c7-4efe-bb46-f1742d0fefd1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d7168cb9-82c7-4efe-bb46-f1742d0fefd1/20241121T040815/d7168cb9-82c7-4efe-bb46-f1742d0fefd1_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/iowa-dot-prepares-snow-plow-crews-winter/526-086808a9-97e3-4f4b-b567-1a9a747aa20a)
+        #### [Iowa DOT prepares snow plow crews for winter](https://www.wqad.com/article/news/local/public-safety/iowa-dot-prepares-snow-plow-crews-winter/526-086808a9-97e3-4f4b-b567-1a9a747aa20a)
         
-        #### [Snow plow crews with the Iowa DOT are getting ready for winter](https://www.wqad.com/article/news/local/public-safety/iowa-dot-prepares-snow-plow-crews-winter/526-086808a9-97e3-4f4b-b567-1a9a747aa20a)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/15542ad3-0ee1-4618-9628-3bf3c4f2caac/20241121T041344/15542ad3-0ee1-4618-9628-3bf3c4f2caac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/15542ad3-0ee1-4618-9628-3bf3c4f2caac/20241121T041344/15542ad3-0ee1-4618-9628-3bf3c4f2caac_360x203.jpg)](https://www.wqad.com/article/news/community/community-gifts-new-bed-davenport-shooting-victim/526-bf18f86c-f55a-46e5-b91e-b2ccb307ead0)
         
         #### ['Don't give up' l Community helps gift new bed for Davenport shooting victim](https://www.wqad.com/article/news/community/community-gifts-new-bed-davenport-shooting-victim/526-bf18f86c-f55a-46e5-b91e-b2ccb307ead0)
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-34°
+29°
 
 ![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
