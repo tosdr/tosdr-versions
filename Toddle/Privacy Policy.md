@@ -314,7 +314,7 @@ Explore Toddle for your school
 Our Privacy Policy
 ==================
 
-Last Updated: November 15, 2024
+Last Updated: November 21, 2024
 
 It is our mission to help teachers deliver meaningful learning experiences. To achieve this, we build easy to use tools that help make things simple for teachers and empower them to focus on the important things. It is hence critical that we create a safe and secure environment where teachers, children, and parents freely share content and ideas. Creating such a safe and secure environment is central to the success of our endeavours.
 
@@ -426,6 +426,10 @@ As a third party operator Toddle relies on School Consent for all underage child
 ### Compliance with GDPR
 
 Toddle collects minimal information from you and only uses it for the purposes explicitly called out in the Privacy Policy. The data collected is stored securely using industry standards. All the details with regards to the nature of the data collected and the reason for collecting it can be found in the Privacy Policy. Toddle executes a Data Processing Agreement with all the schools in the EU/ EEA and Switzerland Regions. You can find more details on Toddle and GDPR [here](https://toddleapp.com/gdpr).
+
+### Compliance with California Consumer Privacy Act (CCPA)
+
+As a service provider, Toddle is dedicated to complying with the California Consumer Privacy Act (CCPA). We provide California residents with clear rights regarding their personal data. These include the right to access, delete, and manage their personal information, with a guarantee of non-discriminatory service when exercising these rights. Learn more about Toddle’s compliance with the CCPA [here](https://www.toddleapp.com/ccpa/).
 
 ### **Compliance with DPDPA**
 
@@ -601,7 +605,7 @@ If you are based in India and you have any grievance or complaint about how your
 
 ![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
 
-![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")
+[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)
 
 [![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)
 
@@ -613,9 +617,7 @@ If you are based in India and you have any grievance or complaint about how your
 
 ![ISO logo](/wp-content/uploads/2024/10/Frame-628308-2.webp "logo of ISO")
 
-[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)
-
-![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")
+[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)
 
 ![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
 
@@ -629,9 +631,7 @@ If you are based in India and you have any grievance or complaint about how your
 
 ![ISO logo](/wp-content/uploads/2024/10/Frame-628308-2.webp "logo of ISO")
 
-[![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)
-
-![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")
+[![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)
 
 ![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
 
