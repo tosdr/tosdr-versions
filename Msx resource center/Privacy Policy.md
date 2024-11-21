@@ -150,8 +150,9 @@ Latest reactions
 
 Latest forum posts
 
-* [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
 * [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
+* [Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.](https://www.msx.org/forum/msx-talk/hardware/obsonet-raspberrypi-internestor-lite-23-freeze-on-install "Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.")
+* [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=7 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 * [problems with Megaflashrom SCC+](https://www.msx.org/forum/msx-talk/general-discussion/problems-with-megaflashrom-scc "problems with Megaflashrom SCC+")
@@ -162,7 +163,6 @@ Latest forum posts
 * [MSX music arrangements on the net](https://www.msx.org/forum/msx-talk/graphics-and-music/msx-arrangements-on-the-net?page=11 "MSX music arrangements on the net")
 * [DSKPRO Full 17.0](https://www.msx.org/forum/msx-talk/software/dskpro-full-170?page=1 "DSKPRO Full 17.0")
 * [Hidden MSX hardware](https://www.msx.org/forum/msx-talk/hardware/hidden-msx-hardware?page=13 "Hidden MSX hardware")
-* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
