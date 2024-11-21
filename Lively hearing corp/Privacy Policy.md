@@ -16,7 +16,9 @@ The Enhance Select 500 has arrived! [Shop now](https://www.listenlively.com/prod
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
 
-[(800) 854-2772We're open! Call now](tel:8008542772)[](tel:8008542772 "Call us")
+Schedule call[(800) 854-2772](tel:8008542772)
+
+[](tel:8008542772 "Call us")
 
 [](https://www.listenlively.com/survey)
 
@@ -75,7 +77,7 @@ Everything you need for better hearing — all for as low as $995 per pair. Fina
 Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'll refund your entire order.
 
 * Up to 3-year warranty
-* Customer support 7 days a week
+* US-based support, 7 days a week
     
 * Free shipping and returns
 
