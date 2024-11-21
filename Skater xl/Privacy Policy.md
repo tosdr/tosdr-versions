@@ -142,7 +142,7 @@ Player Support
 
 [Community Hub](https://steamcommunity.com/app/962730)
 
-![](https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
+![](https://cdn.fastly.steamstatic.com/steamcommunity/public/images/apps/962730/cfa29291556bc6ec4f9accc641d5e0ce2e1b1fa1.jpg)
 
 Skater XL - The Ultimate Skateboarding Game
 
@@ -172,7 +172,7 @@ Very Positive (44) \- 81% of the 44 user reviews in the last 30 days are positiv
 
 All Reviews:
 
-Very Positive (18,148) \- 86% of the 18,148 user reviews for this game are positive.    
+Very Positive (18,147) \- 86% of the 18,147 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,7 +198,7 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,148) All Time
+Very Positive (86% of 18,147) All Time
 
 Recent Reviews:
 
@@ -456,7 +456,7 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,148 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,147 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
@@ -464,19 +464,19 @@ Very Positive (44 reviews) ![](https://store.fastly.steamstatic.com/public/share
 
 Review Type
 
- All (19,292)  
+ All (19,291)  
  Positive (16,601)  
- Negative (2,691)
+ Negative (2,690)
 
 Purchase Type
 
- All (19,292)  
- Steam Purchasers (18,148) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All (19,291)  
+ Steam Purchasers (18,147) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
  Other (1,144) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,292)  
+ All Languages (19,291)  
  Your Languages (13,331) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
