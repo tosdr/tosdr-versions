@@ -1,12 +1,12 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zz6PEAoAAVEAAABc9@U)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zz7ipAoAAVEAAABcTZw)
 
 Es noticia
 
 * [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/11/20/673d7c5ea75cca89418862e2-directo.html)
 * [Salomé Pradas](https://www.elmundo.es/comunidad-valenciana/2024/11/20/673e389e21efa0b2368b4597.html)
 * [DANA](https://www.elmundo.es/economia/macroeconomia/2024/11/20/673e1ba0fc6c831b118b4597.html)
-* [Teresa Ribera](https://www.elmundo.es/espana/2024/11/20/673d9a5bfdddff3e8b8b4575.html)
-* [Alvise](https://www.elmundo.es/espana/2024/11/20/673dd179e9cf4aed528b4598.html)
+* [Risto Mejide](https://www.elmundo.es/television/momentvs/2024/11/21/673ed10be85ece5b0b8b458b.html)
+* [Mozos de Arousa](https://www.elmundo.es/television/2024/11/21/673ed4a1e4d4d8885e8b456f.html)
 * [Iker Jiménez](https://www.elmundo.es/television/2024/11/20/673d929b21efa0d7568b457b.html)
 * [Alfred Costa](https://www.elmundo.es/comunidad-valenciana/2024/11/20/673dd98ffdddff6e188b459a.html)
 * [Muere Andrés Cassinello](https://www.elmundo.es/espana/2024/11/20/673e2e79e9cf4a8e0e8b458c.html)
