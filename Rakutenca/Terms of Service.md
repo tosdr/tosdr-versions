@@ -1,3 +1,7 @@
+[TSC: Early Black Friday - save up to 50% on big brands in home, tech, fashion, jewellery & more + 10% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/tsc?store=tsc&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
