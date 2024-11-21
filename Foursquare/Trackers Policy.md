@@ -256,7 +256,7 @@ Log into [Foursquare](https://foursquare.com/login?continue=%2Fsettings) Setting
 
 Log into [Foursquare](https://foursquare.com/login?continue=%2Fsettings) Settings > Privacy Settings > “Initiate Data Download Request”.
 
-To help protect your privacy and maintain security, you must be able to login to your City Guide or Swarm account in order to receive copies of your data. If you are unable to login to your City Guide or Swam account, please follow the steps to [reset your password](https://foursquare.atlassian.net/servicedesk/customer/portal/20/topic/4461659e-7b3d-41dd-84a1-a2d41fafb600/article/938410255) as outlined in our [Support Center](https://foursquare.atlassian.net/servicedesk/customer/portal/20). In the event you signed up for City Guide or Swarm using an email address you no longer have access to, you will need to contact your email service provider to recover your email account.
+To help protect your privacy and maintain security, you must be able to login to your City Guide or Swarm account in order to receive copies of your data. If you are unable to login to your City Guide or Swam account, please follow the steps to [](https://foursquare.atlassian.net/servicedesk/customer/portal/20/topic/4461659e-7b3d-41dd-84a1-a2d41fafb600/article/938410255)[reset your password](https://support.foursquare.com/hc/en-us/articles/14868617223452-How-Can-I-Reset-My-Password) as outlined in our [](https://foursquare.atlassian.net/servicedesk/customer/portal/20)[Support Center](https://support.foursquare.com/hc/en-us). In the event you signed up for City Guide or Swarm using an email address you no longer have access to, you will need to contact your email service provider to recover your email account.
 
 ******Correct/Update your personal data******
 ---------------------------------------------
@@ -334,7 +334,7 @@ In the United States, you can exercise your privacy rights by calling us toll-fr
 **Authorized Agents**
 ---------------------
 
-Requests from authorized agents can be submitted via the [Privacy Portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25). Please include a notarized power of attorney and/or other signed permission that authorizes you to act on behalf of the individual you are representing. Requests from agents that do not submit sufficient proof that they have been authorized to act on behalf of an individual will be denied.  
+Requests from authorized agents can be submitted using [this form](https://support.foursquare.com/hc/en-us/requests/new?ticket_form_id=15401847655068). Please include a notarized power of attorney and/or other signed permission that authorizes you to act on behalf of the individual you are representing. Requests from agents that do not submit sufficient proof that they have been authorized to act on behalf of an individual will be denied.  
 
 **Privacy Rights Reporting** 
 -----------------------------
@@ -385,7 +385,7 @@ Foursquare has approximately 42,817 monthly average EU users.  This number is t
   
 ****Appeal**:**  
   
-You may appeal our decision with respect to a request you have submitted via the [Privacy Portal](https://foursquare.atlassian.net/servicedesk/customer/portal/25).
+You may appeal our decision with respect to a request you have submitted using [this form](https://support.foursquare.com/hc/en-us/requests/new?ticket_form_id=16448372007324).
 
 Our privacy policies
 --------------------
