@@ -8,8 +8,8 @@
     
     * [OPPO Reno12 FS 5G _New_](https://www.oppo.com/uk/smartphones/series-reno/reno12-fs-5g/)
     * [OPPO Reno12 F 5G _New_](https://www.oppo.com/uk/smartphones/series-reno/reno12-f-5g/)
-    * [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
     * [OPPO Reno12 5G _New_](https://www.oppo.com/uk/smartphones/series-reno/reno12/)
+    * [OPPO Find X8 Pro _New_](https://www.oppo.com/uk/smartphones/series-find-x/find-x8-pro/)
     * [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
     * [OPPO A60 5G _New_](https://www.oppo.com/uk/smartphones/series-a/a60-5g/)
     
@@ -19,6 +19,7 @@
     
 * [Tablets](https://www.oppo.com/uk/tablets/) [Tablets](https://www.oppo.com/uk/tablets/)
     
+    * [OPPO Pad 3 Pro _New_](https://www.oppo.com/uk/accessories/oppo-pad-3-pro/)
     * [OPPO Pad Air](https://www.oppo.com/uk/accessories/oppo-pad-air/)
     
     [View Tablets](https://www.oppo.com/uk/tablets/)
@@ -87,10 +88,12 @@ Quick Links
     * [OPPO Reno12 F 5G
         
         New](https://www.oppo.com/uk/smartphones/series-reno/reno12-f-5g/)
-    * [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
     * [OPPO Reno12 5G
         
         New](https://www.oppo.com/uk/smartphones/series-reno/reno12/)
+    * [OPPO Find X8 Pro
+        
+        New](https://www.oppo.com/uk/smartphones/series-find-x/find-x8-pro/)
     * [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
     * [OPPO A60 5G
         
@@ -103,8 +106,8 @@ Quick Links
     
     *  [OPPO Reno12 FS 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-fs-5g/)
     *  [OPPO Reno12 F 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-f-5g/)
-    *  [OPPO Reno12 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12-pro)
     *  [OPPO Reno12 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12/)
+    *  [OPPO Find X8 Pro](https://www.oppo.com/uk/smartphones/series-find-x/find-x8-pro/)
     *  [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
     *  [OPPO A60 5G](https://www.oppo.com/uk/smartphones/series-a/a60-5g/)
     
@@ -112,8 +115,12 @@ Quick Links
     
 * Tablets
     
+    * [OPPO Pad 3 Pro
+        
+        New](https://www.oppo.com/uk/accessories/oppo-pad-3-pro/)
     * [OPPO Pad Air](https://www.oppo.com/uk/accessories/oppo-pad-air/)
     
+    *  [OPPO Pad 3 Pro](https://www.oppo.com/uk/accessories/oppo-pad-3-pro/)
     *  [OPPO Pad Air](https://www.oppo.com/uk/accessories/oppo-pad-air/)
     
     [View Tablets](https://www.oppo.com/uk/tablets/)
@@ -640,15 +647,13 @@ Smartphones
 
 [OPPO Reno12 5G](https://www.oppo.com/uk/smartphones/series-reno/reno12/)
 
+[OPPO Find X8 Pro](https://www.oppo.com/uk/smartphones/series-find-x/find-x8-pro/)
+
 [OPPO Find N2 Flip](https://www.oppo.com/uk/smartphones/series-find-n/find-n2-flip)
 
 [OPPO Find X5 Lite](https://www.oppo.com/uk/smartphones/series-find-x/find-x5-lite/)
 
 [OPPO Reno11 F 5G](https://www.oppo.com/uk/smartphones/series-reno/reno11-f/)
-
-[OPPO Reno10 5G](https://www.oppo.com/uk/smartphones/series-reno/reno10/)
-
-[OPPO Reno8 Pro 5G](https://www.oppo.com/uk/smartphones/series-reno/reno8-pro-5g)
 
 [OPPO Reno8 5G](https://www.oppo.com/uk/smartphones/series-reno/reno8-5g)
 
@@ -656,13 +661,11 @@ Smartphones
 
 [OPPO A78 5G](https://www.oppo.com/uk/smartphones/series-a/a78-5g/)
 
-[OPPO A77 5G](https://www.oppo.com/uk/smartphones/series-a/a77-5g/)
-
-[OPPO A17](https://www.oppo.com/uk/smartphones/series-a/a17/)
-
 [See All Smartphones](https://www.oppo.com/uk/smartphones/)
 
 Tablet
+
+[OPPO Pad 3 Pro](https://www.oppo.com/uk/accessories/oppo-pad-3-pro/)
 
 [OPPO Pad Air](https://www.oppo.com/uk/accessories/oppo-pad-air)
 
