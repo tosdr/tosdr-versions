@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Thu, Nov 21, 2024
+Fri, Nov 22, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -25,8 +25,9 @@ Thu, Nov 21, 2024
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [India](https://www.news18.com/india/)
+* [Elections](https://www.news18.com/elections/)
 * [Cricket](https://www.news18.com/cricket/)
+* [India](https://www.news18.com/india/)
 * [Web Stories](https://www.news18.com/web-stories/)
 * [Lifestyle](https://www.news18.com/lifestyle/)
 * [Viral](https://www.news18.com/viral/)
@@ -34,15 +35,14 @@ Thu, Nov 21, 2024
 * [Videos](https://www.news18.com/videos/)
 * [Business](https://www.news18.com/business/)
 * [Education](https://www.news18.com/education-career/)
-* [Politics](https://www.news18.com/politics/)
 * More
     
+    * [Politics](https://www.news18.com/politics/)
     * [Showsha](https://www.news18.com/entertainment/)
     * [Opinion](https://www.news18.com/opinion/)
     * [Explainers](https://www.news18.com/explainers/)
     * [Podcast](https://www.news18.com/podcast/)
     * [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
-    * [Elections](https://www.news18.com/elections/)
     * [Sports](https://www.news18.com/sports/)
     * [Photos](https://www.news18.com/photogallery/)
     * [Tech](https://www.news18.com/tech/)
@@ -101,8 +101,9 @@ English
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [India](https://www.news18.com/india/)
+* [Elections](https://www.news18.com/elections/)
 * [Cricket](https://www.news18.com/cricket/)
+* [India](https://www.news18.com/india/)
 * [Web Stories](https://www.news18.com/web-stories/)
 * [Lifestyle](https://www.news18.com/lifestyle/)
 * [Viral](https://www.news18.com/viral/)
@@ -116,7 +117,6 @@ English
 * [Explainers](https://www.news18.com/explainers/)
 * [Podcast](https://www.news18.com/podcast/)
 * [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
-* [Elections](https://www.news18.com/elections/)
 * [Sports](https://www.news18.com/sports/)
 * [Photos](https://www.news18.com/photogallery/)
 * [Tech](https://www.news18.com/tech/)
@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Gorkhas](https://www.news18.com/india/a-200-year-legacy-in-jeopardy-why-nepali-gorkhas-may-no-longer-serve-in-indian-army-9125875.html)
-    * [AR Rahman](https://www.news18.com/movies/ar-rahman-divorce-from-saira-banu-has-a-connection-to-mohini-dey-lawyer-reveals-there-is-9127360.html)
-    * [India vs Australia](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
-    * [Nayanthara](https://www.news18.com/movies/nayanthara-on-converting-from-christianity-and-her-wedding-with-vignesh-shivan-ive-become-a-hindu-9126499.html)
+    * [Maharashtra Elections](https://www.news18.com/elections/assembly/maharashtra/)
+    * [Jharkhand Elections](https://www.news18.com/elections/assembly/jharkhand/)
+    * [Ind vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
     * [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
-    * [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
-    * [Bengaluru](https://www.news18.com/viral/graduate-auto-driver-pitching-startup-idea-to-passengers-is-a-peak-bengaluru-moment-9125384.html)
+    * [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/5-rashmika-mandanna-inspired-saree-blouses-for-marriage-season-2627333/)
+    * [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
+    * [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-shares-post-about-birthdays-after-fans-note-his-absence-in-aaradhyas-party-9127790.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Gorkhas](https://www.news18.com/india/a-200-year-legacy-in-jeopardy-why-nepali-gorkhas-may-no-longer-serve-in-indian-army-9125875.html)
-* [AR Rahman](https://www.news18.com/movies/ar-rahman-divorce-from-saira-banu-has-a-connection-to-mohini-dey-lawyer-reveals-there-is-9127360.html)
-* [India vs Australia](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
-* [Nayanthara](https://www.news18.com/movies/nayanthara-on-converting-from-christianity-and-her-wedding-with-vignesh-shivan-ive-become-a-hindu-9126499.html)
+* [Maharashtra Elections](https://www.news18.com/elections/assembly/maharashtra/)
+* [Jharkhand Elections](https://www.news18.com/elections/assembly/jharkhand/)
+* [Ind vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
 * [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
-* [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
-* [Bengaluru](https://www.news18.com/viral/graduate-auto-driver-pitching-startup-idea-to-passengers-is-a-peak-bengaluru-moment-9125384.html)
+* [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/5-rashmika-mandanna-inspired-saree-blouses-for-marriage-season-2627333/)
+* [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
+* [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-shares-post-about-birthdays-after-fans-note-his-absence-in-aaradhyas-party-9127790.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 21, 2024
+Nov 22, 2024
 
 [View All](https://www.news18.com/short-news/)
 
