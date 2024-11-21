@@ -335,15 +335,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Hillview Estate.](https://static.ffx.io/images/$zoom_1.097%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_311%2C$y_470/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e246519a549234e9d8c319c272e621b222abcabc)](https://www.afr.com/property/residential/the-rich-list-region-that-s-become-sydney-s-hamptons-20241113-p5kqfy)
+[![Lonely Planet founders Tony and Maureen Wheeler.](https://static.ffx.io/images/$zoom_0.8487%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1481%2C$y_407/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6777264d0db564ee19d7457541fc964234eab6d6)](https://www.afr.com/wealth/people/lonely-planet-founders-not-content-with-giving-away-half-their-wealth-20241119-p5krsr)
 
-### [The Rich List region that’s become Sydney’s Hamptons](https://www.afr.com/property/residential/the-rich-list-region-that-s-become-sydney-s-hamptons-20241113-p5kqfy)
+### [Lonely Planet founders not content with giving away half their wealth](https://www.afr.com/wealth/people/lonely-planet-founders-not-content-with-giving-away-half-their-wealth-20241119-p5krsr)
 
-* Bonnie Campbell
+* Yolanda Redrup
 
-* ### [Nufarm entrepreneur Doug Rathbone a winner in $475m Elders buyout](https://www.afr.com/companies/agriculture/nufarm-entrepreneur-doug-rathbone-a-winner-in-475m-elders-buyout-20241119-p5krr8)
+* ### [The Rich List region that’s become Sydney’s Hamptons](https://www.afr.com/property/residential/the-rich-list-region-that-s-become-sydney-s-hamptons-20241113-p5kqfy)
     
-* ### [Laurence Escalante’s VGW bulks up exec ranks as casinos bristle](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-vgw-bulks-up-exec-ranks-as-casinos-bristle-20241117-p5kr9f)
+* ### [Nufarm entrepreneur Doug Rathbone a winner in $475m Elders buyout](https://www.afr.com/companies/agriculture/nufarm-entrepreneur-doug-rathbone-a-winner-in-475m-elders-buyout-20241119-p5krr8)
     
 
 [The Australian Financial Review](https://www.afr.com/)
