@@ -441,27 +441,27 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[20-11-2024
+[21-11-2024
 
-Court of Auditors complain of ‘lack of oversight’ of health digitalisation funds](https://www.euractiv.com/section/health-consumers/news/court-of-auditors-complain-of-lack-of-oversight-over-health-digitalisation-funds/)[20-11-2024
+World still split over money as clock ticks on COP29](https://www.euractiv.com/section/eet/news/world-still-split-over-money-as-clock-ticks-on-cop29/)[21-11-2024
 
-EU audit finds shortcomings in Brazil’s bird flu controls](https://www.euractiv.com/section/agriculture-food/news/eu-audit-finds-shortcomings-in-brazils-bird-flu-controls/)[20-11-2024
+Bulgaria’s pro-Russian parties display increasingly open ties with the Kremlin](https://www.euractiv.com/section/politics/news/the-capitals-bulgarias-pro-russian-parties-display-increasingly-open-ties-with-the-kremlin/)[21-11-2024
 
-Commission deal struck, centrist agreement confirmed](https://www.euractiv.com/section/politics/news/commission-deal-struck-centrist-agreement-confirmed/) [20-11-2024
+Dozens of raids conducted in fake ID network case](https://www.euractiv.com/section/politics/news/dozens-of-raids-conducted-in-fake-id-network-case/)[21-11-2024
 
-Danish military to stay close to Chinese ship after data cable breaches](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L1N3MR0DQ:2023901438)[20-11-2024
+Poland to deliver 45th support package to Ukraine, Tusk tells Zelenskyy](https://www.euractiv.com/section/politics/news/poland-to-deliver-45th-support-package-to-ukraine-tusk-tells-zelenskyy/)[21-11-2024
 
-WHO meets half of its fundraising goal at G20 summit](https://www.euractiv.com/section/health-consumers/news/who-meets-half-of-its-fundraising-goal-at-g20-summit/)[20-11-2024
+Portuguese minister wants more NATO contribution because of Putin, not Trump](https://www.euractiv.com/section/politics/news/portuguese-minister-wants-more-nato-contribution-because-of-putin-not-trump/)[21-11-2024
 
-EU sticks to Biden as Putin eyes Trump on Ukraine deal](https://www.euractiv.com/section/politics/news/eu-sticks-to-biden-as-putin-eyes-trump-on-ukraine-deal/)[20-11-2024
+US reopens Kyiv embassy after Ukraine firing of ATACMS missiles](https://www.euractiv.com/section/global-europe/news/us-reopens-kyiv-embassy-after-ukraine-firing-of-atacms-missiles/)[21-11-2024
 
-Paris vows resolution to Chinese cognac tariffs squabble in early 2025](https://www.euractiv.com/section/economy-jobs/news/paris-vows-resolution-to-chinese-cognac-tariffs-squabble-in-early-2025/)[20-11-2024
+Ribera gets EPP blessing, blames Spain’s Partido Popular for Valencia floods disaster](https://www.euractiv.com/section/politics/news/ribera-gets-epp-blessing-blames-spains-partido-popular-for-valencia-floods-disaster/)[21-11-2024
 
-Germany rebuffs Polish claims of new EU ‘defence bond’ consensus](https://www.euractiv.com/section/defence-and-security/news/germany-rebuffs-polish-claims-of-new-eu-defence-bond-consensus/) [20-11-2024
+Italian healthcare workers strike over wage disputes, budget cuts](https://www.euractiv.com/section/politics/news/italian-healthcare-workers-strike-over-wage-disputes-budget-cuts/)[21-11-2024
 
-Commission sitting on detailed draft guidelines with prohibited AI deadline looming](https://www.euractiv.com/section/tech/news/commission-sitting-on-detailed-draft-guidelines-with-prohibited-ai-deadline-looming/)[20-11-2024
+Bulgaria’s pro-Russian parties display increasingly open ties with the Kremlin](https://www.euractiv.com/section/politics/news/bulgarias-pro-russian-parties-display-increasingly-open-ties-with-the-kremlin/)[21-11-2024
 
-EU should prepare for ‘broad and aggressive’ Trump trade policies, says former top US official](https://www.euractiv.com/section/economy-jobs/news/eu-should-prepare-for-broad-and-aggressive-trump-trade-policies-says-former-top-us-official/)
+Europe’s largest industry groups to double down on EU rule roll-back agenda](https://www.euractiv.com/section/economy-jobs/news/europes-largest-industry-groups-to-double-down-on-eu-rule-roll-back-agenda/) 
 
 ###### Advertisement
 
