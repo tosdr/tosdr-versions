@@ -4,11 +4,10 @@
 * [SUBSCRIBE](https://www.furtherfood.com/pages/subscribe-and-save)
 * [LEARN](https://www.furtherfood.com/pages/our-story)
 
+* [**⚡️ BFCM IS HERE! SAVE 25% SITEWIDE ⚡️**](https://www.furtherfood.com/collections/bfcm-2024)
 * **FREE SHIPPING ON U.S. ORDERS $59+**
     
 * **10,000+ 5 STAR REVIEWS ⭐️⭐️⭐️⭐️⭐️**
-    
-* **OUR NEW PROTEIN SHAKER IS HERE!** [**SHOP NOW >**](https://www.furtherfood.com/products/further-food-shaker-bottle-20-oz "Further Food Protein Shaker")
     
 * **TRY WITH OUR 30-DAY MONEY BACK GUARANTEE**
     
@@ -64,7 +63,7 @@ Menu Close
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/Anti-Inflammatory.png) Anti-Inflammatory](https://www.furtherfood.com/collections/reduce-inflammation)
         *  [![](https://cdn.shopify.com/s/files/1/2527/7032/files/GutHealth.png) Gut Health](https://www.furtherfood.com/collections/gut-health)
     
-    [](https://www.furtherfood.com/products/pumpkin-spice-collagen-powder)![](//www.furtherfood.com/cdn/shop/files/Screenshot_2024-08-26_at_9.47.00_AM.png?v=1724690836)
+    [](https://www.furtherfood.com/collections/bfcm-2024)![](//www.furtherfood.com/cdn/shop/files/Homepage-Hero-Banners-Black-Friday-04.png?v=1731543957)
     
 * SUBSCRIBE
     
