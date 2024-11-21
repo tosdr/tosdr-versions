@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Lawmakers, Advocates Speak Out Against Mass Jailing of Hong Kong Activists](https://www.theepochtimes.com/us/lawmakers-advocates-speak-out-against-mass-jailing-of-hong-kong-activists-5763159)
+* [What to Know About Matthew Whitaker, Trump’s Nominee for NATO Ambassador](https://www.theepochtimes.com/us/what-to-know-about-matthew-whitaker-trumps-nominee-for-nato-ambassador-5763383)
     
-    NEW By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
+    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Lawmakers, Advocates Speak Out Against Mass Jailing of Hong Kong Activists](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![What to Know About Matthew Whitaker, Trump’s Nominee for NATO Ambassador](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Lawmakers, Advocates Speak Out Against Mass Jailing of Hong Kong Activists](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762693-11192024-DSC00039-Nancy-Pelosi-205x123.jpg.webp)](https://www.theepochtimes.com/us/lawmakers-advocates-speak-out-against-mass-jailing-of-hong-kong-activists-5763159)
-* [Pentagon UFO Office Director Describes Unexplained Sightings in Senate Testimony](https://www.theepochtimes.com/us/pentagon-ufo-office-director-describes-unexplained-sightings-in-senate-testimony-5763091)
+    ![What to Know About Matthew Whitaker, Trump’s Nominee for NATO Ambassador](https://img.theepochtimes.com/assets/uploads/2018/11/14/matt-whitaker-acting-attorney-general-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-to-know-about-matthew-whitaker-trumps-nominee-for-nato-ambassador-5763383)
+* [Appeals Court Upholds Ruling Blocking Louisiana’s Ten Commandments Poster Law for Some Public Schools](https://www.theepochtimes.com/us/appeals-court-upholds-ruling-blocking-louisianas-ten-commandments-poster-law-for-some-public-schools-5763438)
     
-    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Pentagon UFO Office Director Describes Unexplained Sightings in Senate Testimony](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Appeals Court Upholds Ruling Blocking Louisiana’s Ten Commandments Poster Law for Some Public Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pentagon UFO Office Director Describes Unexplained Sightings in Senate Testimony](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763393-2024-11-14T203141Z_2_LYNXMPEKAD03H_RTROPTP_4_UKRAINE-CRISIS-USA-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/pentagon-ufo-office-director-describes-unexplained-sightings-in-senate-testimony-5763091)
-* [House Ethics Committee Decides Not to Release Gaetz Report](https://www.theepochtimes.com/us/house-ethics-chairman-has-reservations-about-releasing-gaetz-report-5763249)
+    ![Appeals Court Upholds Ruling Blocking Louisiana’s Ten Commandments Poster Law for Some Public Schools](https://img.theepochtimes.com/assets/uploads/2024/11/id5763423-1.download-11-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-upholds-ruling-blocking-louisianas-ten-commandments-poster-law-for-some-public-schools-5763438)
+* [Trump Nominates Pete Hoekstra as Ambassador to Canada](https://www.theepochtimes.com/us/trump-nominates-pete-hoekstra-as-ambassador-to-canada-5763532)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    2hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
-    [![House Ethics Committee Decides Not to Release Gaetz Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Nominates Pete Hoekstra as Ambassador to Canada](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![House Ethics Committee Decides Not to Release Gaetz Report](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763398-gaetz-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/house-ethics-chairman-has-reservations-about-releasing-gaetz-report-5763249)
-* [Bipartisan Panel Urges Congress to Revoke China’s Trade Privileges](https://www.theepochtimes.com/china/bipartisan-panel-urges-congress-to-revoke-chinas-trade-privileges-5763120)
+    ![Trump Nominates Pete Hoekstra as Ambassador to Canada](https://img.theepochtimes.com/assets/uploads/2024/02/28/id5596607-GettyImages-1214865495-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-nominates-pete-hoekstra-as-ambassador-to-canada-5763532)
+* [What to Expect From DOGE](https://www.theepochtimes.com/article/what-to-expect-from-doge-5762369)
     
-    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Bipartisan Panel Urges Congress to Revoke China’s Trade Privileges](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![What to Expect From DOGE](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Bipartisan Panel Urges Congress to Revoke China’s Trade Privileges](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720990-GettyImages-1165548990-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/bipartisan-panel-urges-congress-to-revoke-chinas-trade-privileges-5763120)
-* [US Vetoes UN Resolution Calling for Gaza Cease-Fire](https://www.theepochtimes.com/world/us-vetoes-un-resolution-calling-for-gaza-cease-fire-5763064)
+    ![What to Expect From DOGE](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763358-14_2-205x123.jpg.webp)](https://www.theepochtimes.com/article/what-to-expect-from-doge-5762369)
+* [Senate Judiciary Democrats Ask FBI for Investigative Files on Matt Gaetz](https://www.theepochtimes.com/us/senate-judiciary-democrats-ask-fbi-for-investigative-files-on-matt-gaetz-5763305)
     
-    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![US Vetoes UN Resolution Calling for Gaza Cease-Fire](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Senate Judiciary Democrats Ask FBI for Investigative Files on Matt Gaetz](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Vetoes UN Resolution Calling for Gaza Cease-Fire](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763373-GettyImages-2185750540-1-205x123.jpg)](https://www.theepochtimes.com/world/us-vetoes-un-resolution-calling-for-gaza-cease-fire-5763064)
-* [US Home Prices Maintain Upward Trend](https://www.theepochtimes.com/real-estate/us-home-prices-maintain-upward-trend-5763189)
+    ![Senate Judiciary Democrats Ask FBI for Investigative Files on Matt Gaetz](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763513-Matt-Gaetz-GettyImages-1546546745KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-judiciary-democrats-ask-fbi-for-investigative-files-on-matt-gaetz-5763305)
+* [Luxury Carmaker Jaguar Launches Rebranding Campaign, Without Cars](https://www.theepochtimes.com/business/luxury-carmaker-jaguar-launches-rebranding-campaign-without-cars-5763380)
     
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    4hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
     
-    [![US Home Prices Maintain Upward Trend](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Luxury Carmaker Jaguar Launches Rebranding Campaign, Without Cars](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Home Prices Maintain Upward Trend](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759929-House-sale_1KO-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-home-prices-maintain-upward-trend-5763189)
-* [Texas Offers 1,400-Acre Ranch to Trump for Mass Deportations Program](https://www.theepochtimes.com/us/texas-offers-1400-acre-ranch-to-trump-for-mass-deportations-program-5763144)
+    ![Luxury Carmaker Jaguar Launches Rebranding Campaign, Without Cars](https://img.theepochtimes.com/assets/uploads/2021/02/15/Jaguar-Land-Rover-logo-205x123.jpg.webp)](https://www.theepochtimes.com/business/luxury-carmaker-jaguar-launches-rebranding-campaign-without-cars-5763380)
+* [Musk, Ramaswamy Publish Efficiency Department’s Plan to ‘Reform Government’](https://www.theepochtimes.com/us/musk-ramaswamy-publish-efficiency-departments-plan-to-reform-government-5763381)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Texas Offers 1,400-Acre Ranch to Trump for Mass Deportations Program](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Musk, Ramaswamy Publish Efficiency Department’s Plan to ‘Reform Government’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Texas Offers 1,400-Acre Ranch to Trump for Mass Deportations Program](https://img.theepochtimes.com/assets/uploads/2024/06/13/id5668091-GettyImages-1865318333-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-offers-1400-acre-ranch-to-trump-for-mass-deportations-program-5763144)
-* [From China to Tariffs: What Howard Lutnick Would Oversee as Commerce Secretary](https://www.theepochtimes.com/business/from-china-to-tariffs-what-howard-lutnick-would-oversee-as-commerce-secretary-5763040)
+    ![Musk, Ramaswamy Publish Efficiency Department’s Plan to ‘Reform Government’](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759085-FotoJet-1-elon-vivek-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/musk-ramaswamy-publish-efficiency-departments-plan-to-reform-government-5763381)
+* [Ford to Cut 4,000 Jobs in Europe by 2027 Amid Electric Vehicle Sales Decline](https://www.theepochtimes.com/business/ford-to-cut-4000-jobs-in-europe-by-2027-amid-electric-vehicle-sales-decline-5763341)
     
-    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    5hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
     
-    [![From China to Tariffs: What Howard Lutnick Would Oversee as Commerce Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Ford to Cut 4,000 Jobs in Europe by 2027 Amid Electric Vehicle Sales Decline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![From China to Tariffs: What Howard Lutnick Would Oversee as Commerce Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763384-Howard-Lutnick-GettyImages-2171390481-LSedit-205x123.jpg)](https://www.theepochtimes.com/business/from-china-to-tariffs-what-howard-lutnick-would-oversee-as-commerce-secretary-5763040)
-* [Comcast Will Spin Off MSNBC, CNBC, and Cable Channels](https://www.theepochtimes.com/business/comcast-will-spin-off-msnbc-cnbc-and-cable-channels-5763133)
+    ![Ford to Cut 4,000 Jobs in Europe by 2027 Amid Electric Vehicle Sales Decline](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763347-1.tagreuters.com2024binary_LYNXMPEKAH0FF-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/business/ford-to-cut-4000-jobs-in-europe-by-2027-amid-electric-vehicle-sales-decline-5763341)
+* [Gov. Hochul’s Decision to Unpause NYC Congestion Pricing Rekindles Debate](https://www.theepochtimes.com/us/gov-hochuls-decision-to-unpause-nyc-congestion-pricing-rekindles-debate-5763320)
     
-    4hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
+    5hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
-    [![Comcast Will Spin Off MSNBC, CNBC, and Cable Channels](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Gov. Hochul’s Decision to Unpause NYC Congestion Pricing Rekindles Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Comcast Will Spin Off MSNBC, CNBC, and Cable Channels](https://img.theepochtimes.com/assets/uploads/2021/10/28/Comcast-205x123.jpg.webp)](https://www.theepochtimes.com/business/comcast-will-spin-off-msnbc-cnbc-and-cable-channels-5763133)
-* [Speaker Johnson Bars Men From Women’s Bathrooms at Capitol](https://www.theepochtimes.com/us/speaker-johnson-bars-men-from-womens-bathrooms-at-capitol-5763131)
+    ![Gov. Hochul’s Decision to Unpause NYC Congestion Pricing Rekindles Debate](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763514-1.tagreuters.com2024binary_LYNXMPEKAH0PO-FILEDIMAGEKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/gov-hochuls-decision-to-unpause-nyc-congestion-pricing-rekindles-debate-5763320)
+* [Day in Photos: Migration Toward the Border, 600,000 Without Power, and Real Madrid’s Lockers Sale](https://www.theepochtimes.com/article/day-in-photos-migration-toward-the-border-600000-without-power-and-real-madrids-lockers-sale-5762979)
     
-    4hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Speaker Johnson Bars Men From Women’s Bathrooms at Capitol](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Migration Toward the Border, 600,000 Without Power, and Real Madrid’s Lockers Sale](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Speaker Johnson Bars Men From Women’s Bathrooms at Capitol](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762320-11192024-DSC09819-House-Republicans-Mike-Johnson-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-bars-men-from-womens-bathrooms-at-capitol-5763131)
+    ![Day in Photos: Migration Toward the Border, 600,000 Without Power, and Real Madrid’s Lockers Sale](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763366-GettyImages-2185131423-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-migration-toward-the-border-600000-without-power-and-real-madrids-lockers-sale-5762979)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
