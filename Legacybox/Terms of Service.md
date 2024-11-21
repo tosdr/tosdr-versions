@@ -492,7 +492,7 @@ Mail: 1110 Market Street, Suite 316A, Chattanooga, Tennessee, 37402
 
 ### Blog
 
- [10 Tips For Making The Perfect Birthday Slideshow](https://legacybox.com/blogs/analog/how-to-make-birthday-slideshow)[Do Polaroids Fade?](https://legacybox.com/blogs/analog/do-polaroids-fade)
+ [Best Ways to Back Up and Store Digital Photos](https://legacybox.com/blogs/analog/best-way-to-store-digital-photos)[10 Tips For Making The Perfect Birthday Slideshow](https://legacybox.com/blogs/analog/how-to-make-birthday-slideshow)
 
  [](https://www.facebook.com/Legacybox)[](https://www.instagram.com/legacybox/)[](https://www.youtube.com/channel/UCtrczFsRT_WQ655Y4fKMWNA)
 
