@@ -200,7 +200,7 @@ Calle Escorial 180, Bajos exterior, 08024 Barcelona. España.
 [Comprimir sección](javascript:comprimir_todo('ac_sub_1','ac_link_1');)
 
 * [Regístrate](https://www.mobifriends.com/ "Regístrate")
-* [Mobifriends](https://www.mobifriends.com/sobre-nosotros "Mobifriends")
+* [Mobifriends](https://www.mobifriends.com/mobifriends "Mobifriends")
 * [Ayuda](https://www.mobifriends.com/ayuda "Ayuda")
 * [Información legal](https://www.mobifriends.com/legal "Información legal")
 * [Contactar](https://www.mobifriends.com/contactar "Contactar")
