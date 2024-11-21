@@ -230,15 +230,3 @@ English, Spanish, Chinese/Mandarin, French, Korean, Vietnamese, Persian/Farsi, T
 © 2024 Jewish Social Services Agency
 
 Back to Top
-
-![](https://www.jssa.org/wp-content/uploads/2024/10/shutterstock_2031886859-1-1024x683.jpg)
-
-### Accepting New Mental Health Clients in Maryland and Northern Virginia
-
-JSSA has expanded its mental health team and is now accepting new clients for counseling services. In-person and virtual appointments can be booked no more than two weeks in advance. Most major insurance is accepted (except Tricare and Aetna).
-
-**Call 240-800-JSSA** to make your appointment or complete the form below.
-
-[Inquiry Form](https://www.jssa.org/contact-us/ "Inquiry Form")
-
-CLOSE
