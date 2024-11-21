@@ -2,7 +2,8 @@ Windstorm Update: 
 
 * Our hospital is fully functional. The Emergency Department is extremely busy. Consider urgent care for non-emergent needs. Not sure if you need Emergency, Urgent, or Primary Care? Go to valleymed.org/where2go.
 * Power is restored to our Endoscopy Center. Some morning appointments are impacted by yesterday's outage. 
-* CLOSED/NO POWER: Maple Valley Urgent Care; Newcastle and Maple Valley Dermatology; Fairwood, Newcastle, Lake Wilderness, and Lake Sawyer Primary Care; Lifestyle Medicine in Covington and Maple Valley.
+* CLOSED/NO POWER: Maple Valley Urgent Care; Newcastle and Maple Valley Dermatology; Fairwood, Newcastle, Lake Wilderness, and Lake Sawyer Primary Care; Lifestyle Medicine in Maple Valley.
+* The Lifestyle Medicine Clinic in Covington will reopen for patient visits tomorrow, 11/22. Gym members can resume normal access immediately.
 * Extra staff is on hand at our Renton Landing and Covington Urgent Care locations to help care for patients.
 * We continue to experience high call volume. Cancel or reschedule online at mychart.valleymed.org. If you have an impacted appointment, your care team will contact you. 
 * Thank you for your patience as we make sure our staff and patients are safe. 
