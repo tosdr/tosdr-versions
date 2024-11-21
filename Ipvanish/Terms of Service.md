@@ -235,3 +235,7 @@ IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THE SITE OR SERVICES. YOUR
 "WireGuard" is a registered trademark of Jason A. Donenfeld.
 
 Scroll to Top
+
+                 
+
+This site is registered on [wpml.org](https://wpml.org/) as a development site.
