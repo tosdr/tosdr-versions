@@ -327,12 +327,6 @@ News
 
 Homematic IP Home Control Unit: Timeline für die Cloud-Migration und Plug-In-Entwicklung veröffentlicht](https://homematic-ip.com/de/news/hcu1-timeline-cloud-migration-plug-ins)
 
- [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_1.jpg.webp?itok=3BCRcaDU)
-
-News
-
-Der neue Homematic IP Heizkörperthermostat – pure: der ideale Energiesparhelfer für den Winter](https://homematic-ip.com/de/news/heizkoerperthermostat-pure-minimalistisches-design)
-
 [Nov.
 
 21-23
