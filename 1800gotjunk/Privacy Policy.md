@@ -887,6 +887,14 @@ Fella Gaouar Monteregie Metro 18/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Avron and Bobby were fantastic and I appreciate how pleasant and efficient they were! Great job guys!
+
+Kim Kelly Naples 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Great customer service from Bobby and Louis! Fast and friendly.
 
 Kati Harrell Austin 16/11/2024
@@ -895,9 +903,9 @@ Kati Harrell Austin 16/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Avron and Bobby were fantastic and I appreciate how pleasant and efficient they were! Great job guys!
+Kegan and Harold did and amazing job! They were quick and gave us a great price!
 
-Kim Kelly Naples 16/11/2024
+Tyler Emerson Naples 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -919,14 +927,6 @@ April McElroy Austin 16/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Kegan and Harold did and amazing job! They were quick and gave us a great price!
-
-Tyler Emerson Naples 16/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Very professional! They explained everything patiently. They were very personable.
 
 No\_BiGGy LA Metro 16/11/2024
@@ -935,17 +935,17 @@ No\_BiGGy LA Metro 16/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Darren and Noah are great! Super nice and easy to work with :)
+Fast, professional and nice. Kegan and Harold
 
-Beth Baker Madison 16/11/2024
+Katrina Jones Naples 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Fast, professional and nice. Kegan and Harold
+Darren and Noah are great! Super nice and easy to work with :)
 
-Katrina Jones Naples 16/11/2024
+Beth Baker Madison 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1015,17 +1015,17 @@ Dan Appino Wisconsin 15/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-August and Canyon were fantastic! Pleasant to work with and came time, fair estimate and removed all! Easy peasy!
+Noe and Gio Great service. Very helpful and polite!
 
-Lyn Wi Madison 15/11/2024
+Stacy Howe Naples 15/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Noe and Gio Great service. Very helpful and polite!
+August and Canyon were fantastic! Pleasant to work with and came time, fair estimate and removed all! Easy peasy!
 
-Stacy Howe Naples 15/11/2024
+Lyn Wi Madison 15/11/2024
 
 ### 
 
