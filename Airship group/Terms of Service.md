@@ -45,8 +45,6 @@
         [](#)
         
     
-    [![](https://www.airship.com/wp-content/uploads/2024/11/airship_altitude_awards_feature_navigation_image_720.png)](https://www.airship.com/events/join-the-altitude-awards-2024-ceremony-livestream/)
-    
     * [Build No-Code Experiences](https://www.airship.com/product/experience-editor/)
         
         Create native customer experiences once and deploy to the app, web and everywhere in between - No developers required
@@ -305,12 +303,12 @@ The Terms of Use are accepted upon your use of any of the Sites or any of theirÂ
 [![Airship](https://www.airship.com/wp-content/uploads/2023/05/brand-airship-dark.svg)](https://www.airship.com/)
 
 * [Learn](#)
-* [What is Mobile App Experience?](https://www.airship.com/resources/explainer/mobile-app-experiences-max-explained/)
+* [What is a Customer Experience Platform?](https://www.airship.com/resources/explainer/customer-experience-platform-explained/)
 * [What are Push Notifications?](https://www.airship.com/resources/explainer/push-notifications-explained/)
 * [What are Web Push Notifications?](https://www.airship.com/resources/explainer/web-push-notifications-explained/)
-* [What are In-App Messages?](https://www.airship.com/resources/explainer/in-app-messaging-explained/)
-* [What is Mobile App Marketing?](https://www.airship.com/resources/explainer/mobile-app-marketing-explained/)
+* [What is In-App Messaging?](https://www.airship.com/resources/explainer/in-app-messaging-explained/)
 * [What are iOS Live Activities?](https://www.airship.com/resources/explainer/ios-live-activities-explained/)
+* [What is Omnichannel Marketing?](https://www.airship.com/resources/explainer/omnichannel-marketing/)
 
 * [Platform](#)
 * [Airship Experience Platform](https://www.airship.com/platform/app-experience-platform/)
@@ -324,6 +322,7 @@ The Terms of Use are accepted upon your use of any of the Sites or any of theirÂ
 * [Events](https://www.airship.com/company/events/)
 * [Documentation](https://docs.airship.com/)
 * [Support](https://support.airship.com/hc/en-us)
+* [FAQ](https://www.airship.com/resources/explainer/airship-faqs/)
 
 * [Company](#)
 * [About Airship](https://www.airship.com/company/)
