@@ -283,7 +283,7 @@ Language Country selection
 Welcome to Medela
 =================
 
-#### We believe in turning science into care.   
+#### We believe in turning science into care.  
 Offering solutions based on deep insights into research and nature.  
 Listening to real needs.  
 For the benefit of mothers, patients and healthcare professionals.
@@ -294,13 +294,13 @@ Accessible Responsive Video Carousel
 
  Your browser does not support the video tag.
 
-A video explaining the wonders of breastmilk.
-
  Your browser does not support the video tag.
 
-A video showcasing the breast shield technology.
-
 ❯
+
+This is a popup overlay.
+
+Close
 
 How we turn Science into Care
 -----------------------------
