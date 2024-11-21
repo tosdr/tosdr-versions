@@ -52,6 +52,8 @@ View all results for ${ keyword }
     * [MAL Supporter](https://myanimelist.net/membership?_location=mal_h_m)
 * [![Bunkasai 2024](https://cdn.myanimelist.net/images/event/20230918_Bunkasai_2023/badge.png)](https://myanimelist.net/forum/?topicid=2189217%26utm_source%3DMAL%26utm_medium%3Dglobalmenu_bunkasai2024&_location=mal_h_m)
 
+[](#)[**MAL Bunkasai is back!** Join the festival and get a cute fox profile badge~](https://myanimelist.net/forum/?topicid=2189217&utm_source=MAL&utm_medium=textribbon_bunkasai2024)
+
 MyAnimeList Privacy Policy
 ==========================
 
