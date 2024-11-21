@@ -18,7 +18,7 @@ Empower teachers with the tools and data to enrich the student experience.](http
 
 Build better connections with students.](https://www.peardeck.com/solutions/tutors)[Higher Ed
 
-Supplement on-campus solutions with targeted academic support.](https://www.peardeck.com/solutions/higher-ed)
+Supplement on-campus solutions with targeted academic support.](https://www.peardeck.com/products/pear-deck-tutor)
 
 By Use Case
 
