@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: Matt Gaetz withdraws as President-elect Donald Trump's pick for attorney general](https://www.ajc.com/news/nation-world/gaetz-withdraws-as-trumps-pick-for-attorney-general/RCTGZPESX5FMBHPOY6MBXETWGA/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1834)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1834)](https://www.ajc.com/)
 
 Log In
@@ -16,7 +18,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-laken-riley-reactions/336XGQSNAVB5HJO7AP44YTWMYQ/)
+* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-nov-22-24/Y4QM323HXJASJG6FMVQVGNS7FA/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
@@ -49,6 +51,7 @@ Log In
     * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
     * [Election 2024](https://www.ajc.com/politics/election/)
     * [Trump Transition](https://www.ajc.com/politics/trump-transition/)
+    * [Georgia Runoff Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
     * [Legislature](https://www.ajc.com/politics/georgia-state-legislature/)
     * [The Trump Investigations](https://www.ajc.com/news/trump-grand-jury-georgia/)
     * [Legislative Navigator](https://www.ajc.com/politics/georgia-legislative-navigator/)
