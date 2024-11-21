@@ -302,8 +302,6 @@ Swiss, EU and UK Users Only. We hope to promptly resolve any complaint brought t
 
 Dashlane and the Dashlane logo are trademarks of Dashlane SAS, registered in the U.S. and other countries.
 
-[Level Access](https://www.levelaccess.com/dashlane?utm_source=dashlanehomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=dashlane)
-
 * [Terms](https://www.dashlane.com/terms)
 * [Privacy](https://www.dashlane.com/privacy/overview)
 * [Legal](https://www.dashlane.com/legal)
