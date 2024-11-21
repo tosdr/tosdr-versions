@@ -1,6 +1,6 @@
-[Join the waitlist
+[Get holiday-ready
 
-Black Friday is near. Be among the first to know when Tidio’s big sale starts](https://www.tidio.com/black-friday/)
+Boost your results this holiday season with a free guide, expert advice, and proven strategies](https://www.tidio.com/resources/holiday-season/)
 
 [Log in](https://www.tidio.com/panel/login)
 
