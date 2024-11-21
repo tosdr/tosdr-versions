@@ -7,7 +7,7 @@ Wasabi Privacy Policy
 
 [**Acceptable Use Policy**](https://wasabi.com/legal/acceptable-use-policy)
 
-[**Software License Terms**](https://wasabi.com/legal/software)
+[**Software License Agreement**](https://wasabi.com/legal/software)
 
 [**Account Control Manager Terms**](https://wasabi.com/legal/wacm)
 
