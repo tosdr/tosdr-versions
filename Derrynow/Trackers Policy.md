@@ -266,13 +266,6 @@ Most Popular
 [IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel](https://www.derrynow.com/story-telling/pictures---videos/1657938/in-pictures-st-mary-s-ardmore-gac-dinner-dance-in-the-maldron-hotel.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1659772/derry-death-notices-wednesday-november-20-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, November 20, 2024](https://www.derrynow.com/news/deaths/1659772/derry-death-notices-wednesday-november-20-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man became ‘frustrated’ and broke chair in Derry Courthouse](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man became ‘frustrated’ and broke chair in Derry Courthouse")](https://www.derrynow.com/news/local-news/1660358/man-became-frustrated-and-broke-chair-in-derry-courthouse.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -336,6 +329,15 @@ Derry's Christmas lights in Guildhall square
 
 [The switching on of Derry's Christmas lights is something you don't 'want to miss'](https://www.derrynow.com/news/derry-news/1660563/the-switching-on-of-derry-s-christmas-lights-is-something-you-don-t-want-to-miss.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donate a coat (credit: me4mental Facebook)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donate a coat (credit: me4mental Facebook)")](https://www.derrynow.com/news/derry-news/1660526/derry-charity-launch-coat-donation-drive-to-help-people-in-need-during-winter.html)
+
+Donate a coat (credit: me4mental Facebook)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry charity launch coat donation drive to help people in need during winter](https://www.derrynow.com/news/derry-news/1660526/derry-charity-launch-coat-donation-drive-to-help-people-in-need-during-winter.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1660455/derry-death-notices-thursday-november-21st-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, November 21st, 2024](https://www.derrynow.com/news/deaths/1660455/derry-death-notices-thursday-november-21st-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry marks World Children's Day in solidarity with the children and young people of Gaza](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry marks World Children's Day in solidarity with the children and young people of Gaza")](https://www.derrynow.com/news/local-news/1660929/derry-marks-world-children-s-day-in-solidarity-with-the-children-and-young-people-of-gaza.html)
 
 Derry marks World Children's Day in solidarity with the children and young people of Gaza.
@@ -522,7 +531,7 @@ Derry marks World Children's Day in solidarity with the children and young peopl
 [Derry marks World Children's Day in solidarity with the children and young people of Gaza](https://www.derrynow.com/news/local-news/1660929/derry-marks-world-children-s-day-in-solidarity-with-the-children-and-young-people-of-gaza.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards")](https://www.derrynow.com/news/home/1660284/county-derry-man-wins-prestigious-award-for-restoring-a-historic-lifeboat-at-2024-national-historic-ships-uk-awards.html)
+[![County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards](https://www.derrynow.com/resizer/165/93/true/2024_11_20/Grace_Paterson_Ritchie_-_Bernard_aboard_copyright_Bernard_Condon-1732102558294.jpg--.jpg?1732102558349 "County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards")](https://www.derrynow.com/news/home/1660284/county-derry-man-wins-prestigious-award-for-restoring-a-historic-lifeboat-at-2024-national-historic-ships-uk-awards.html)
 
 Bernard aboard historic lifeboat, Grace Patterson Ritchie.
 
@@ -553,15 +562,6 @@ Pictured are some of those who attended the International Men's Day event.
 
 [Airports can ‘take advantage’ of Dublin passenger cap to attract more routes](https://www.derrynow.com/news/local-news/1660578/airports-can-take-advantage-of-dublin-passenger-cap-to-attract-more-routes.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry's Christmas lights in Guildhall square](https://www.derrynow.com/resizer/165/93/true/2024_11_20/DerryTree20214-1732115079917.jpg--.jpg?1732115080817 "Derry's Christmas lights in Guildhall square")](https://www.derrynow.com/news/derry-news/1660563/the-switching-on-of-derry-s-christmas-lights-is-something-you-don-t-want-to-miss.html)
-
-Derry's Christmas lights in Guildhall square
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[The switching on of Derry's Christmas lights is something you don't 'want to miss'](https://www.derrynow.com/news/derry-news/1660563/the-switching-on-of-derry-s-christmas-lights-is-something-you-don-t-want-to-miss.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
