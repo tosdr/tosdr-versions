@@ -37,7 +37,7 @@
         * [Login](https://www.mobygames.com/user/login/)
         * [Register](https://www.mobygames.com/user/register/)
 
-🐳 9,669 items were approved and added to [the database](https://www.mobygames.com/stats/) in the past week!
+🐳 10,296 items were approved and added to [the database](https://www.mobygames.com/stats/) in the past week!
 
 [![Tetris Forever](https://www.mobygames.com/static/img/tf_1180x90.909323bd.png)](https://www.digitaleclipse.com/games/tetrisforever)
 
