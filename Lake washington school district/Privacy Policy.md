@@ -713,7 +713,15 @@ The Lake Washington School District does not discriminate in any programs or act
 
 [Powered by Finalsite](https://www.finalsite.com/districts "Powered by Finalsite opens in a new window")
 
-Schools Closed Due to Power Outages - November 20, 2024
--------------------------------------------------------
+Schools Closed for Thursday, November 21, 2024
+----------------------------------------------
 
-Schools Closed, Wednesday, November 20, due to widespread power outages No Extended Day Care. All programs and activities are canceled. No athletics, events or public use. Resource Center and Support Services are open on regular schedule.
+Due to ongoing, widespread power outages, schools will be closed on Thursday, November 21, 2024. No Extended Day Care. All programs and activities are canceled. No athletics, events or public use. Resource Center and Support Services will be open on their regular schedules. 
+
+We currently have power outages at 41 campuses across our district, with no estimated time for restoration. Other considerations and factors that would need to be assessed before a potential re-opening on Friday include transportation services, technology/communication services, HVAC/heat services, availability of staff and nutrition services for students.
+
+Below are resources from each of the cities for this windstorm:
+
+* City of Kirkland: [https://www.kirklandwa.gov/Whats-Happening/News/November-2024-Wind-Storm](https://www.kirklandwa.gov/Whats-Happening/News/November-2024-Wind-Storm)
+* City of Redmond: [https://www.redmond.gov/AlertCenter.aspx?AID=Wind-Damage-49](https://www.redmond.gov/AlertCenter.aspx?AID=Wind-Damage-49)
+* City of Sammamish: [https://www.sammamish.us/news/storm-response-update/](https://www.sammamish.us/news/storm-response-update/)
