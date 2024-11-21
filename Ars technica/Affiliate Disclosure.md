@@ -91,9 +91,9 @@ Most Read
     
 3. 3. [Scientist behind superconductivity claims ousted](https://arstechnica.com/science/2024/11/scientist-behind-superconductivity-claims-ousted/)
     
-4. 4. [Apple TV+ spent $20B on original content. If only people actually watched.](https://arstechnica.com/apple/2024/11/apple-tv-spent-20b-on-original-content-if-only-people-actually-watched/)
+4. 4. [Google stops letting sites like Forbes rule search for “Best CBD Gummies“](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
     
-5. 5. [Google stops letting sites like Forbes rule search for “Best CBD Gummies“](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
+5. 5. [Apple TV+ spent $20B on original content. If only people actually watched.](https://arstechnica.com/apple/2024/11/apple-tv-spent-20b-on-original-content-if-only-people-actually-watched/)
     
 
 Customize
