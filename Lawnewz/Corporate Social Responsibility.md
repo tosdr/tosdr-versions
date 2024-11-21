@@ -99,25 +99,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Edward Richmond, Jr. (U.S. Attorney's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/01/Edward-Richmond-Jr-1-432x243.jpg)](https://lawandcrime.com/high-profile/well-break-you-motherf-army-vet-court-martialed-for-shooting-handcuffed-iraqi-in-the-head-is-going-to-prison-for-fighting-cops-guarding-the-capitol-on-jan-6/)
+1. [![Reese Myers appears in a booking photo.](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Reese-Myers-432x243.jpg)](https://lawandcrime.com/crime/mom-left-toddler-home-alone-with-2-dogs-so-she-could-travel-out-of-town-to-visit-a-man-she-met-on-a-dating-app-police/)
     
-    ### ['We'll break you motherf-----!': Army vet court-martialed for shooting handcuffed Iraqi in the head is going to prison for fighting cops guarding the Capitol on Jan. 6](https://lawandcrime.com/high-profile/well-break-you-motherf-army-vet-court-martialed-for-shooting-handcuffed-iraqi-in-the-head-is-going-to-prison-for-fighting-cops-guarding-the-capitol-on-jan-6/)
+    ### [Mom left toddler home alone with 2 dogs so she could travel out-of-town to visit a man she met on a dating app: Police](https://lawandcrime.com/crime/mom-left-toddler-home-alone-with-2-dogs-so-she-could-travel-out-of-town-to-visit-a-man-she-met-on-a-dating-app-police/)
     
-2. [![Inset: Reggie Brown (Brown family). Background: The alley where he was allegedly beaten to death by five teen girls (WJLA).](https://am23.mediaite.com/lc/cnt/uploads/2024/10/asdfasdf-432x243.jpg)](https://lawandcrime.com/crime/girls-ages-12-and-14-who-took-selfies-after-killing-disabled-man-because-they-were-bored-are-headed-to-juvenile-detention/)
+2. [![Austin Bailey arrest](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Austin-Bailey-arrest-432x243.jpg)](https://lawandcrime.com/video/f-ing-shoot-me-teen-who-just-stabbed-15-year-old-girl-he-called-love-of-my-life-begs-cops-to-kill-him-video-shows/)
     
-    ### [Girls, ages 12 and 14, who took selfies after killing disabled man because they 'were bored' are headed to juvenile detention](https://lawandcrime.com/crime/girls-ages-12-and-14-who-took-selfies-after-killing-disabled-man-because-they-were-bored-are-headed-to-juvenile-detention/)
+    ### ['F---ing shoot me': Teen who just stabbed 15-year-old girl he called 'love of my life' begs cops to kill him, video shows](https://lawandcrime.com/video/f-ing-shoot-me-teen-who-just-stabbed-15-year-old-girl-he-called-love-of-my-life-begs-cops-to-kill-him-video-shows/)
     
-3. [![From top left, clockwise: Lisa Mitchell, Anthony Yonko, David Yonko, Tiffany Mitchell (Oklahoma County Detention Center).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/sdfasdf-432x243.jpg)](https://lawandcrime.com/crime/starving-7-year-old-who-had-mouth-glued-shut-died-in-diaper-meant-for-3-year-old-police/)
+3. [![Background: The couch where victim Tiffany Dunford was sitting when she was set on fire (WSLS/YouTube). Inset: Victim Tiffany Dunford and her alleged killer Savannah Adams (Facebook/New River Valley Regional Jail).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Savannah-Adams-and-1-432x243.jpg)](https://lawandcrime.com/crime/woman-poured-gasoline-on-victim-sitting-on-couch-before-setting-her-ablaze-and-watching-her-burn-to-death-cops/)
     
-    ### [Starving 7-year-old who had 'mouth glued shut' dies in diaper meant for 3-year-old: Police](https://lawandcrime.com/crime/starving-7-year-old-who-had-mouth-glued-shut-died-in-diaper-meant-for-3-year-old-police/)
+    ### [Woman poured gasoline on victim sitting on couch before setting her ablaze and watching her burn to death: Cops](https://lawandcrime.com/crime/woman-poured-gasoline-on-victim-sitting-on-couch-before-setting-her-ablaze-and-watching-her-burn-to-death-cops/)
     
-4. [![Topgolf shooting Colorado](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Topgolf-shooting-432x243.jpg)](https://lawandcrime.com/video/video-shows-topgolf-murderer-unloading-12-shots-at-co-worker-in-parking-lot-before-laughing-as-he-made-his-getaway/)
+4. [![Elise Nelson (Stearns County Jail).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/dfasdfsa-432x243.jpg)](https://lawandcrime.com/crime/mom-who-turned-off-disabled-daughters-oxygen-alarm-while-getting-blacked-out-drunk-learns-her-fate/)
     
-    ### [Video shows Topgolf murderer unloading 12 shots at co-worker in parking lot before laughing as he made his getaway](https://lawandcrime.com/video/video-shows-topgolf-murderer-unloading-12-shots-at-co-worker-in-parking-lot-before-laughing-as-he-made-his-getaway/)
+    ### [Mom who turned off disabled daughter's oxygen alarm while getting 'blacked out' drunk learns her fate](https://lawandcrime.com/crime/mom-who-turned-off-disabled-daughters-oxygen-alarm-while-getting-blacked-out-drunk-learns-her-fate/)
     
-5. [![Haley Blevins and Jacalyn Cook](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Haley-Blevins-and-Jacalyn-Cook-432x243.jpg)](https://lawandcrime.com/crime/women-accused-of-using-leash-with-spikes-belt-to-beat-3-kids-for-not-completing-chores-to-their-satisfaction/)
+5. [![Inset, left to right: Yusef Salaam, Antron McCray, Korey Wise, Kevin Richardson, Raymond Santana (CBS Sunday Morning). Background: Donald Trump speaks at the annual Road to Majority conference in Washington, DC, June 22, 2024. (Allison Bailey/NurPhoto via AP)](https://am23.mediaite.com/lc/cnt/uploads/2024/11/sdfadsf-432x243.jpg)](https://lawandcrime.com/high-profile/attempt-to-stifle-constitutionally-protected-speech-trump-demands-central-park-five-legally-deficient-defamation-suit-be-tossed/)
     
-    ### [Women accused of using 'leash with spikes,' belt to beat 3 kids for not completing chores to their satisfaction](https://lawandcrime.com/crime/women-accused-of-using-leash-with-spikes-belt-to-beat-3-kids-for-not-completing-chores-to-their-satisfaction/)
+    ### ['Attempt to stifle constitutionally protected speech': Trump demands Central Park Five 'legally deficient' defamation suit be tossed](https://lawandcrime.com/high-profile/attempt-to-stifle-constitutionally-protected-speech-trump-demands-central-park-five-legally-deficient-defamation-suit-be-tossed/)
     
 
 [](http://eepurl.com/c89Jdb)
