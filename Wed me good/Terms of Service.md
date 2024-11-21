@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Aishwarya and Praneeth](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Aishwarya and Praneeth](https://image.wedmegood.com/resized/250X/uploads/images/fc42d06f989842aa8867ae8da6865b66realwedding/IMG_5368.JPG?crop=228,1038,1633,918)
+
+Aishwarya and Praneeth (Hyderabad)](https://www.wedmegood.com/real_wedding/detail/aishwarya-and-praneeth-hyderabad-telugu-wedding-4435)
+
 [![Navneet and Anhad](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Navneet and Anhad](https://image.wedmegood.com/resized/250X/uploads/images/0def7b421277420ba3f04daed6d44148realwedding/N&AWedding-602.jpg?crop=268,1726,1629,916)
 
 Navneet and Anhad (Delhi NCR)](https://www.wedmegood.com/real_wedding/detail/navneet-and-anhad-delhi-ncr-punjabi-sikh-wedding-4434)
-
-[![Jiya and Hardik](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Jiya and Hardik](https://image.wedmegood.com/resized/250X/uploads/images/55a69c5cbde342968c1e49e153de11dbrealwedding/_BTG3094_Original.jpeg?crop=272,337,1626,914)
-
-Jiya and Hardik (Pushkar)](https://www.wedmegood.com/real_wedding/detail/jiya-and-hardik-pushkar-sindhi-wedding-4432)
 
 Browse by Category
 
