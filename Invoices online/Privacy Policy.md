@@ -117,57 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Johan Botha - Brand Xplosion
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=182405234)  
-Norton Medical & Consult - Namibia
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=74575478)  
+Dombieterfontein (PTY) LTD
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=123338904)  
-kidoscabbie
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=179139125)  
+Electro-Heat
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=206962665)  
-UMVIKELI PRIVATE SECURITY
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=166355011)  
+OrgChart Hosting Pty Ltd
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=120930732)  
-Gemini-IT Group
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=1547648)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=118292130)  
-TRACKFORCE (Pty) Ltd
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=180194256)  
+Wiselink Broadband Vryheid
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=213517330)  
-FRAMED BY ANTON (Pty) Ltd.
-
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=49038200)  
-SR Travel Services
-
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=31697673)  
-Henry's Home Renovations
-
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=28266253)  
-Frameless Fanatix (Pty) Ltd.
-
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=35248234)  
-CBR Verwe/Paints
-
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=17801908)  
-SLOANE STAR MEAT MARKET
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=25984465)  
-Myfinance-Online
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=168535362)  
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=120163828)  
 Prosper Park
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=58824123)  
-NEW BEGINNINGS DESIGNS
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=107942305)  
+Roekeloos Group
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=134224234)  
-Karino Merinos ( PTY ) LTD
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=32063484)  
+Forgotten Goods (Pty) Ltd
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=174155582)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=162415174)  
+Dr V Naik Consult
+
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=38233028)  
+Tantra Sound and Lightz
+
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=8699069)  
+National Elite Security Services (PTY) LTD
+
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=9701134)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=12574048)  
+Digifax (Pty) Ltd trading as Digirent
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=73497485)  
+MONSTER SECURITY SERVICES
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
@@ -182,7 +186,7 @@ Some Stats, we are growing rapidly
 * Over **R 10,000,000,000** invoiced
 * Over **R 10,000,000,000** in payments received
 
-[![Available on the Play Store](https://www.invoicesonline.co.za/templates/images_2014/google_play.png)](https://play.google.com/store/apps/details?id=za.co.invoicesonline "Install Android App")[![Or Download APK Directly updated: 2024-10-02](https://www.invoicesonline.co.za/templates/images_2014/apk_download.png)](https://www.invoicesonline.co.za/io.apk "Or Download APK Directly updated: 2024-10-02") [![Available on the APP Store](https://www.invoicesonline.co.za/templates/images_2014/ios_app_store.png)](https://apps.apple.com/us/app/id1531188912 "Install iOS App") [![Join our WhatsApp channel](https://www.invoicesonline.co.za/templates/images_2014/whatsapp.png)](https://chat.whatsapp.com/Bq7OEduQ9g3D9bKLJekaEC "Join our WhatsApp channel")
+[![Available on the Play Store](https://www.invoicesonline.co.za/templates/images_2014/google_play.png)](https://play.google.com/store/apps/details?id=za.co.invoicesonline "Install Android App")[![Or Download APK Directly updated: 2024-11-21](https://www.invoicesonline.co.za/templates/images_2014/apk_download.png)](https://www.invoicesonline.co.za/io.apk "Or Download APK Directly updated: 2024-11-21") [![Available on the APP Store](https://www.invoicesonline.co.za/templates/images_2014/ios_app_store.png)](https://apps.apple.com/us/app/id1531188912 "Install iOS App") [![Join our WhatsApp channel](https://www.invoicesonline.co.za/templates/images_2014/whatsapp.png)](https://chat.whatsapp.com/Bq7OEduQ9g3D9bKLJekaEC "Join our WhatsApp channel")
 
 All content copyright © [Invoices Online](https://www.invoicesonline.co.za/) 2024.  
 A product of Invoices Online PTY (Ltd)  
