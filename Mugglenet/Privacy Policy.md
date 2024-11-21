@@ -294,15 +294,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Golden Snitch was invented to replace the Golden Snidget, a golden bird with fully rotational wings that became endangered after they were used as targets in numerous Quidditch matches.
+Arthur Weasley has two brothers.
 
 ### Potter History
 
-October 25, 2004 – John Williams officially out; Patrick Doyle and Jarvis Cocker to write the Harry Potter and the Goblet of Fire film score.
+September 7, 2005 – Harry Potter special edition iPod and first ever digital audiobooks released on iTunes.
 
 ### Potter Quote
 
-“I have never seen any reason to be frightened of saying Voldemort’s name.”
+“Who blacked your eye, Granger? I want to send them flowers.”
 
 [](#)
 
