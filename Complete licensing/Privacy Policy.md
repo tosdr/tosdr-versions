@@ -285,12 +285,15 @@ We want you to know that we’re here to help. We have the resources, the knowle
 * [Modern Slavery Policy](https://completelicensing.uk/modern-slavery-policy/)
 * [Money Laundering Regulations Policy](https://completelicensing.uk/money-laundering-regulations-policy/)
 * [Anti-bribery Policy](https://completelicensing.uk/anti-bribery-policy/)
+* [Copyright & Trademark Notice](https://completelicensing.uk/copyright-and-trademark-notice/)
 
 ##### [Blog](https://completelicensing.uk/blog/)
 
 [Facebook](https://www.facebook.com/completelicensing) [Instagram](https://www.instagram.com/completelicensing/) [Linkedin](https://www.linkedin.com/company/complete-licensing-limited) [](https://uk.trustpilot.com/review/completelicensing.uk)[Yelp](https://www.yelp.co.uk/biz/complete-licensing-woodford-green)
 
-Complete Licensing Limited is a company registered in England and Wales.
+© 2024 Complete Licensing Ltd. All rights reserved. Complete Licensing Limited is a company registered in England and Wales.
+
+Complete Licensing® and the Complete Licensing logo are registered trademarks of Complete Licensing Ltd in the United Kingdom ([UK00004089744](https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00004089744)). Unauthorised use of these trademarks is strictly prohibited and may violate trademark laws.
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%20256'%3E%3C/svg%3E)
 
