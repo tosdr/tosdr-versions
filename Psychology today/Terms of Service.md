@@ -287,11 +287,11 @@ Psychology Today is a service mark of Sussex Publishers, LLC. The Therapy Direct
 
 [Psychology Today](https://www.psychologytoday.com/us "Psychology Today")
 
-[![Facebook](https://cdn2.psychologytoday.com/theme-assets/logo/logo-facebook.svg)](https://www.facebook.com/psychologytoday "Psychology Today on Facebook")
+[![Facebook](https://cdn2.psychologytoday.com/theme-assets/logo/logo-facebook.svg)](https://www.facebook.com/psychologytoday "Psychology Today en Facebook")
 
-[![Twitter](https://cdn2.psychologytoday.com/theme-assets/logo/logo-twitter.svg)](https://twitter.com/psychtoday "Psychology Today on Twitter")
+[![Twitter](https://cdn2.psychologytoday.com/theme-assets/logo/logo-twitter.svg)](https://twitter.com/psychtoday "Psychology Today en Twitter")
 
-[![Instagram](https://cdn2.psychologytoday.com/theme-assets/logo/logo-instagram.svg)](https://www.instagram.com/psych_today/ "Psychology Today on Instagram")
+[![Instagram](https://cdn2.psychologytoday.com/theme-assets/logo/logo-instagram.svg)](https://www.instagram.com/psych_today/ "Psychology Today en Instagram")
 
 Recent Issues
 
