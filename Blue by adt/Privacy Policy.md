@@ -54,7 +54,7 @@ Take Our Quiz](https://www.bluebyadt.com/quiz)
     * [Shop All Packages](https://www.bluebyadt.com/shop)
     * [Build Your Own](https://www.adt.com/shop/adtstore/v5-build-your-own.html)
     * [Front Door Protection](https://www.adt.com/shop/adtstore/v5-front-door-protection.html)
-    * [Total Safety](https://www.adt.com/shop/adtstore/v5-total-safety.html)
+    * [Video Essentials](https://www.adt.com/shop/adtstore/home-security-video-kit.html)
     
 * [Shop Now](https://www.bluebyadt.com/shop)
 * [Deals](https://www.bluebyadt.com/deals)
@@ -69,15 +69,10 @@ Take Our Quiz](https://www.bluebyadt.com/quiz)
     * [Resources](https://www.bluebyadt.com/resources)
     
 * [Support](https://help.adt.com/s/)
-* 
 
 [![Phone icon is used to show the phone number to call for information](/content/dam/adt7/navigation/Nav_Phone_Icon.svg)](# "Call")
 
  [![This customer icon is used to show that it links to customer page with information](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.bluebyadt.com/customer/login)[![This cart icon is used to show the products that are added to cart](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.bluebyadt.com/shop/diy/cart)
-
-[Get a Free Quote](javascript:void(0); "Open Form")
-
-[Get a Free Quote](javascript:void(0); "Open Form")
 
 [](#)
 
