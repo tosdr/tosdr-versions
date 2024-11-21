@@ -287,6 +287,14 @@ Autism news
 
 All the latest that matters to our community
 
+![Andy Shih's Headshot](/sites/default/files/styles/content_list/public/andy-shih-headshot.jpg.webp?itok=y32DYOOh)
+
+11.20.24
+
+[### Autism Speaks Chief Science Officer speaks at congressional hearing on global public health](https://guide.autismspeaks.org/advocacy-news/andy-shih-congressional-hearing-public-health)
+
+Autism Speaks Chief Science Officer Dr. Andy Shih was one of three individuals invited to testify before the Subcommittee on Global Health.
+
 ![Three panelists watching TV for video of Former First Lady Rosalynn Carter speaking about caregivers](/sites/default/files/styles/content_list/public/Image%20%289%29.jpg.webp?itok=1AxbKM7l)
 
 11.19.24
@@ -326,14 +334,6 @@ Bernie Marcus was a visionary and trailblazer whose boundless compassion reshape
 [### Rumer Willis celebrates sister Tallulah Willis at Autism Speaks Los Angeles Gala](https://guide.autismspeaks.org/news/rumer-willis-celebrates-tallulah-willis)
 
 People spotlights Tallulah and Rumer Willis, daughters of Demi Moore and Bruce Willis, as Tallulah is recognized by her sister at the Autism Speaks
-
-![Forbes logo](/sites/default/files/styles/content_list/public/Forbes-logo.jpg.webp?itok=fanI2Qlf)
-
-11.5.24
-
-[### Forbes shares tips from Autism Speaks on creating an inclusive Halloween for kids with autism](https://guide.autismspeaks.org/news/forbes-shares-tips-inclusive-halloween)
-
-Victoria Handy shares how she and her daughter make adjustments so they can celebrate Halloween as autistic individuals, highlighting businesses that
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
