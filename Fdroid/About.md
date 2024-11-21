@@ -40,7 +40,7 @@ If you’re running an organisation that uses F-Droid or would like to use F-Dro
 * The source code for this site and the content produced by the F-Droid community are available under the [GNU Affero General Public License version 3 or later (AGPLv3+)](https://www.gnu.org/licenses/agpl-3.0.html).
 * The content of the news section and the F-Droid logo are also available under [Creative Commons Attribution-ShareAlike 3.0 License (CC-BY-SA-3.0)](http://creativecommons.org/licenses/by-sa/3.0/) or [GNU General Public License version 3 or later (GPLv3+)](https://www.gnu.org/licenses/gpl-3.0.html).
 * The descriptive text and graphics for each app have a specific license from that project. Free software should also have free descriptions and graphics.
-* The F-Droid logo was created by William Theaker. Updates to that, and additional artwork, are by Robert Martinez.
+* The F-Droid logo was created by William Theaker. Updates to that, and additional artwork, are by Robert Martinez. You can see and improve the current artwork and badges in [the dedicated repository](https://gitlab.com/fdroid/artwork).
 
 ### Terms, etc.
 
@@ -160,7 +160,7 @@ The original F-Droid client app was based on the Aptoide app developed by Robert
 
 F-Droid is powered by your donations!
 
-* [![Donate to our Collective](/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png)](https://opencollective.com/f-droid)
+* [![Donate to our Collective](/assets/opencollective_button_iIGF0Hixdj0EaYR3Sd7FRigTVcl7QPGu6kaoBmXHjZI=.png)](https://opencollective.com/f-droid/donate)
 * [![Donate via Liberapay](/assets/liberapay_donate_button_GHdOOfmFJNeSXjfjnA-98XtIuEfvE6cNJjHgHOhjdv0=.svg)](https://liberapay.com/F-Droid-Data/donate)
 * [More Options](https://f-droid.org/en/donate)
 
@@ -172,10 +172,10 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [Find your way around apps](https://f-droid.org/en/2024/11/21/twif.html) Nov 21, 2024
 * [Heading headwind with FOSS solutions](https://f-droid.org/en/2024/11/14/twif.html) Nov 14, 2024
 * [Upgrade your email client, maybe](https://f-droid.org/en/2024/11/07/twif.html) Nov 07, 2024
 * [Dealing with the heat](https://f-droid.org/en/2024/10/31/twif.html) Oct 31, 2024
 * [This Week Is on Fire](https://f-droid.org/en/2024/10/24/twif.html) Oct 24, 2024
-* [Sync your clock, it's stable time](https://f-droid.org/en/2024/10/17/twif.html) Oct 17, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-11-20, fdroid-website [2.288](https://gitlab.com/fdroid/fdroid-website/tree/b667f6eb43)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-11-20, fdroid-website [2.290](https://gitlab.com/fdroid/fdroid-website/tree/3e645942a8)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
