@@ -73,16 +73,16 @@ Menu
         
         ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
 * [Contact us](https://www.realvnc.com/en/contact-us/)
-* [Get Started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
+* [Get Started](https://manage.realvnc.com/trial)
 * [English](https://www.realvnc.com/en/legal/)
     * [German](https://www.realvnc.com/de/legal/)
     * [Spanish](https://www.realvnc.com/es/legal/)
     * [French](https://www.realvnc.com/fr/legal/)
     * [Portuguese](https://www.realvnc.com/pt/legal/)
 
-[Get started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
+[Get started](https://manage.realvnc.com/trial)
 
-[Get started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
+[Get started](https://manage.realvnc.com/trial)
 
 [Buy now](https://www.realvnc.com/en/connect/pricing/)
 
@@ -98,7 +98,7 @@ Menu
 
 [View Pricing](https://www.realvnc.com/en/connect/pricing/)
 
-[Get Started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
+[Get Started](https://manage.realvnc.com/trial)
 
 [View Pricing](https://www.realvnc.com/en/connect/pricing/)
 
@@ -157,7 +157,7 @@ Menu
         
         ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
 * [Contact us](https://www.realvnc.com/en/contact-us/)
-* [Get Started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
+* [Get Started](https://manage.realvnc.com/trial)
 * [English](https://www.realvnc.com/en/legal/ "English")
     * [German](https://www.realvnc.com/de/legal/ "German")
     * [Spanish](https://www.realvnc.com/es/legal/ "Spanish")
@@ -215,7 +215,7 @@ Menu
         
         ![](https://www.realvnc.com/wp-content/uploads/2024/05/customer-webinar-navbar-banner.png)](https://www.realvnc.com/en/discover/webinar/whats-new-in-realvnc-connect-7-on-demand/) 
 * [Contact us](https://www.realvnc.com/en/contact-us/)
-* [Get Started](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
+* [Get Started](https://manage.realvnc.com/trial)
 * [English](https://www.realvnc.com/en/legal/ "English")
     * [German](https://www.realvnc.com/de/legal/ "German")
     * [Spanish](https://www.realvnc.com/es/legal/ "Spanish")
@@ -606,11 +606,11 @@ Secure remote access trusted by professionals
 
 ###### Get Started
 
-* [Start a trial](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
+* [Start a trial](https://manage.realvnc.com/trial)
 * [Download](https://www.realvnc.com/en/connect/download/combined/)
 * [Subscriptions and pricing](https://www.realvnc.com/en/connect/pricing/)
 
-* [Start a trial](https://manage.realvnc.com/trial?create_trial=PKG0003-D)
+* [Start a trial](https://manage.realvnc.com/trial)
 * [Download](https://www.realvnc.com/en/connect/download/combined/)
 * [Subscriptions and pricing](https://www.realvnc.com/en/connect/pricing/)
 
