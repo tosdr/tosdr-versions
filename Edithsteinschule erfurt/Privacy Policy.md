@@ -336,7 +336,9 @@ Schulball (Einlass ab 18.00 Uhr)
 
 **11.12.2024**
 
-17.30 Uhr Adventskonzert in der Reglerkirche
+16.00 Uhr 1. Adventskonzert in der Reglerkirche
+
+18.00 Uhr 2. Adventskonzert in der Reglerkirche
 
 **16.12.2024 – 04.02.2025**
 
