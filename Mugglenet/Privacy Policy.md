@@ -294,15 +294,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts Express locomotive in this film is portrayed by the 1937 GWR 4900 Class 5972 Olton Hall. It has been on display at Warner Bros. Studio Tour London – The Making of Harry Potter since 2015.
+The Golden Snitch was invented to replace the Golden Snidget, a golden bird with fully rotational wings that became endangered after they were used as targets in numerous Quidditch matches.
 
 ### Potter History
 
-May 29, 2010 – MuggleNet 2.0 launches.
+October 25, 2004 – John Williams officially out; Patrick Doyle and Jarvis Cocker to write the Harry Potter and the Goblet of Fire film score.
 
 ### Potter Quote
 
-“I don’t go looking for trouble. Trouble usually finds me.”
+“I have never seen any reason to be frightened of saying Voldemort’s name.”
 
 [](#)
 
