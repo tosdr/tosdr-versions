@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/map-326x245.jpg)](https://cwbchicago.com/2024/11/off-duty-cop-robbed-in-rogers-park-more-robberies-in-west-loop-river-north.html "Off-duty cop robbed in Rogers Park, more robberies in West Loop, River North")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb15-326x245.jpg)](https://cwbchicago.com/2024/11/man-found-lying-shot-on-west-pullman-sidewalk-an-area-that-used-to-be-served-by-shotspotter.html "Man found lying shot on West Pullman sidewalk, an area that used to be served by ShotSpotter")
 
-River North
+West Pullman
 
-### [Off-duty cop robbed in Rogers Park, more robberies in West Loop, River North](https://cwbchicago.com/2024/11/off-duty-cop-robbed-in-rogers-park-more-robberies-in-west-loop-river-north.html "Off-duty cop robbed in Rogers Park, more robberies in West Loop, River North")
+### [Man found lying shot on West Pullman sidewalk, an area that used to be served by ShotSpotter](https://cwbchicago.com/2024/11/man-found-lying-shot-on-west-pullman-sidewalk-an-area-that-used-to-be-served-by-shotspotter.html "Man found lying shot on West Pullman sidewalk, an area that used to be served by ShotSpotter")
 
-[November 17, 2024 6:08 AM](https://cwbchicago.com/2024/11)
+[November 18, 2024 6:15 AM](https://cwbchicago.com/2024/11)
 
-An off-duty police officer was robbed at gunpoint in Rogers Park early Sunday morning. Additional robberies were reported in the West Loop and River North.[](https://cwbchicago.com/2024/11/off-duty-cop-robbed-in-rogers-park-more-robberies-in-west-loop-river-north.html "Off-duty cop robbed in Rogers Park, more robberies in West Loop, River North")
+A man was found shot on a West Pullman sidewalk overnight in a neighborhood that used to be monitored by the city’s ShotSpotter network.[](https://cwbchicago.com/2024/11/man-found-lying-shot-on-west-pullman-sidewalk-an-area-that-used-to-be-served-by-shotspotter.html "Man found lying shot on West Pullman sidewalk, an area that used to be served by ShotSpotter")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/chrishawn-thomas-326x245.jpg)](https://cwbchicago.com/2024/11/man-gets-20-years-for-shooting-off-duty-cop-during-robbery-attempt-while-on-electronic-monitoring-for-robbery.html "Man gets 20 years for shooting off-duty cop during robbery attempt — while on electronic monitoring for robbery")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Brandon-Henry-326x245.jpg)](https://cwbchicago.com/2024/11/on-a-north-side-street-where-20-people-have-been-shot-in-2-years-prosecutors-finally-charge-someone-with-shooting-a-gun-but-not-a-person.html "On a North Side street where 20 people have been shot in 2 years, prosecutors finally charge someone with shooting a gun (but not a person)")
 
-Brighton Park
+Rogers Park
 
-### [Man gets 20 years for shooting off-duty cop during robbery attempt — while on electronic monitoring for robbery](https://cwbchicago.com/2024/11/man-gets-20-years-for-shooting-off-duty-cop-during-robbery-attempt-while-on-electronic-monitoring-for-robbery.html "Man gets 20 years for shooting off-duty cop during robbery attempt — while on electronic monitoring for robbery")
+### [On a North Side street where 20 people have been shot in 2 years, prosecutors finally charge someone with shooting a gun (but not a person)](https://cwbchicago.com/2024/11/on-a-north-side-street-where-20-people-have-been-shot-in-2-years-prosecutors-finally-charge-someone-with-shooting-a-gun-but-not-a-person.html "On a North Side street where 20 people have been shot in 2 years, prosecutors finally charge someone with shooting a gun (but not a person)")
 
-[November 16, 2024 6:56 PM](https://cwbchicago.com/2024/11)
+[November 17, 2024 6:25 PM](https://cwbchicago.com/2024/11)
 
-A judge on Friday sentenced a man to 20 years for shooting an off-duty Chicago police officer during a robbery attempt in June 2020. He received another 15 years, to be served consecutively, for a separate carjacking case.[](https://cwbchicago.com/2024/11/man-gets-20-years-for-shooting-off-duty-cop-during-robbery-attempt-while-on-electronic-monitoring-for-robbery.html "Man gets 20 years for shooting off-duty cop during robbery attempt — while on electronic monitoring for robbery")
+There’s a single block on the city’s North Side where 16 people have been shot and four more murdered in the past two years. The same block has been the site of an untold number of shootouts and shooting attempts that ended without injury.[](https://cwbchicago.com/2024/11/on-a-north-side-street-where-20-people-have-been-shot-in-2-years-prosecutors-finally-charge-someone-with-shooting-a-gun-but-not-a-person.html "On a North Side street where 20 people have been shot in 2 years, prosecutors finally charge someone with shooting a gun (but not a person)")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/05/Snellling-brandon-johnson-326x245.jpg)](https://cwbchicago.com/2024/11/after-ignoring-a-grieving-familys-wishes-for-nearly-a-week-chicago-mayor-says-hell-stay-away-from-slain-cops-funeral.html "After rejecting a grieving family’s wishes for nearly a week, Chicago mayor says he’ll stay away from slain cop’s funeral")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Celeste-Pope-and-suspects-326x245.jpg)](https://cwbchicago.com/2024/11/woman-charged-with-committing-2-cta-robberies-after-her-principal-identified-her-cpd-report.html "Woman charged with committing 2 CTA robberies after her principal identified her: CPD report")
 
-Citywide
+Archer Heights
 
-### [After rejecting a grieving family’s wishes for nearly a week, Chicago mayor says he’ll stay away from slain cop’s funeral](https://cwbchicago.com/2024/11/after-ignoring-a-grieving-familys-wishes-for-nearly-a-week-chicago-mayor-says-hell-stay-away-from-slain-cops-funeral.html "After rejecting a grieving family’s wishes for nearly a week, Chicago mayor says he’ll stay away from slain cop’s funeral")
+### [Woman charged with committing 2 CTA robberies after her principal identified her: CPD report](https://cwbchicago.com/2024/11/woman-charged-with-committing-2-cta-robberies-after-her-principal-identified-her-cpd-report.html "Woman charged with committing 2 CTA robberies after her principal identified her: CPD report")
 
-[November 16, 2024 12:38 PM](https://cwbchicago.com/2024/11)
+[November 17, 2024 1:00 PM](https://cwbchicago.com/2024/11)
 
-Less than 24 hours after his office insisted that Mayor Brandon Johnson would attend Monday’s funeral for slain Chicago Police Officer Enrique Martinez despite the grieving family’s wishes, Johnson reversed course Saturday.[](https://cwbchicago.com/2024/11/after-ignoring-a-grieving-familys-wishes-for-nearly-a-week-chicago-mayor-says-hell-stay-away-from-slain-cops-funeral.html "After rejecting a grieving family’s wishes for nearly a week, Chicago mayor says he’ll stay away from slain cop’s funeral")
+An 18-year-old woman is charged with committing two robberies on CTA trains over the past few months after her high school principal identified her, according to a Chicago police report. Men who allegedly helped her commit the robberies have already been charged.[](https://cwbchicago.com/2024/11/woman-charged-with-committing-2-cta-robberies-after-her-principal-identified-her-cpd-report.html "Woman charged with committing 2 CTA robberies after her principal identified her: CPD report")
 
 Search
 
