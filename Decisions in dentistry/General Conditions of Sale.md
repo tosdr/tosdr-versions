@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Surgical treatment strategies for aesthetic crown ![Surgical treatment strategies for aesthetic crown lengthening depend on gingival thickness and crestal bone position. Understanding the variations between cases, such as the need for osseous reduction or flap repositioning, is crucial for achieving optimal functional and aesthetic outcomes. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCmPCdfsQHb/) 
+
 [Despite offering supplemental dental benefits, Med ![Despite offering supplemental dental benefits, Medicare Advantage plans are leaving lower-income seniors struggling with high out-of-pocket costs for essential dental, vision, and hearing services. New research reveals that even top-rated plans fall short in providing adequate financial protection for those most in need. Link in bio.⁠
 ⁠
 ⁠
@@ -180,13 +187,6 @@ Visit decisionsindentistry.com/ce or click the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCW5I2OhjeD/) 
-
-[Did you subscribe to gain access to our VIP Black ![Did you subscribe to gain access to our VIP Black Friday? CHECK YOUR INBOX! Your VIP EARLY ACCESS deal has been sent! This is a BIGGER discount than our public Black Friday sale happening later this month. And it's only available to email subscribers. Miss the boat? Sign up today via the link in our bio for one last chance to receive this promotion on Saturday.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCUZP94Pt4z/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
