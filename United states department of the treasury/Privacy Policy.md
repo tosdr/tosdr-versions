@@ -585,12 +585,16 @@ MENU MENU
     
     November 19, 2024
     
-    [Treasury Targets Fentanyl Traffickers and Other Key Contributors to U.S. Opioid Crisis](https://home.treasury.gov/news/press-releases/jy2719)
+    [Treasury Targets Key Hamas Leaders and Financiers](https://home.treasury.gov/news/press-releases/jy2720)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
+    
+    November 21, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen on the 30th Anniversary of the Community Development Financial Institution Fund](https://home.treasury.gov/news/press-releases/jy2726)
     
     November 19, 2024
     
@@ -599,10 +603,6 @@ MENU MENU
     November 19, 2024
     
     [Remarks by Assistant Secretary for International Finance Brent Neiman on the U.S. Cross-Border Payments Agenda](https://home.treasury.gov/news/press-releases/jy2722)
-    
-    November 18, 2024
-    
-    [Remarks by Under Secretary for Domestic Finance Nellie Liang “Strengthening Treasury Market Resilience and the Expansion of Central Clearing” at the Financial Markets Group Fall Conference, hosted by the Federal Reserve Bank of Chicago](https://home.treasury.gov/news/press-releases/jy2721)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
