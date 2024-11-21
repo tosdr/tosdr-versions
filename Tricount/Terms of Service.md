@@ -25,10 +25,6 @@ Terms of Use
 Terms of Use
 ============
 
-[![download icon](https://framerusercontent.com/images/IhRKGJnrrD5OZRNrtVSnPrsU10.svg)Open PDF](https://www.tricount.com/en/undefined "Download File")
-
-[![download icon](https://framerusercontent.com/images/IhRKGJnrrD5OZRNrtVSnPrsU10.svg)Open PDF](https://www.tricount.com/en/undefined "Download File")
-
 Title
 
 Title
