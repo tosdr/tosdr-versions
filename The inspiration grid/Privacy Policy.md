@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/3d-shalinder-matharu-feature.jpg)
+
+[](https://theinspirationgrid.com/material-play-3d-creations-by-shalinder-matharu/)
+
+### Material Play: 3D Creations by Shalinder Matharu
+
+![](https://inspgr.id/app/uploads/2024/11/illustration-alexandra-francis-feature.jpg)
+
+[](https://theinspirationgrid.com/bright-colorful-illustrations-by-alexandra-francis/)
+
+### Bright & Colorful Illustrations by Alexandra Francis
+
 ![](https://inspgr.id/app/uploads/2024/11/interior-one-plus-feature.jpg)
 
 [](https://theinspirationgrid.com/flowing-bricks-a-striking-cinema-coffee-bar-by-one-plus-partnership/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/editorial-illustrations-by-valentin-tkach/)
 
 ### Editorial Illustrations by Valentin Tkach
-
-![](https://inspgr.id/app/uploads/2024/11/art-max-sheika-feature.jpg)
-
-[](https://theinspirationgrid.com/drim-a-fascinating-sculpture-by-max-sheika/)
-
-### DRIM: A Fascinating Sculpture by Max Sheika
-
-![](https://inspgr.id/app/uploads/2024/11/packaging-jacomy-mayne-feature.jpg)
-
-[](https://theinspirationgrid.com/eye-catching-packaging-design-by-jacomy-mayne/)
-
-### Eye-Catching Packaging Design by Jacomy & Mayne
 
 Awesome products for creatives
 ------------------------------
