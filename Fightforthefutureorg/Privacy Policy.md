@@ -7,7 +7,6 @@ Toggle Site Navigation Menu
 #### [About Us](https://www.fightforthefuture.org/about)
 
 * [Timeline](https://www.fightforthefuture.org/about/timeline)
-* [Our Team](https://www.fightforthefuture.org/about/team)
 * [Playbook](https://www.fightforthefuture.org/playbook)
 * [Jobs](https://www.fightforthefuture.org/about/jobs)
 * [Newsletter](https://touchgrass.fightforthefuture.org/)
