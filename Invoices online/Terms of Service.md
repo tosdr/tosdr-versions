@@ -196,63 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Kobus Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=118135915)  
-SLOANE STAR MEAT MARKET
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=146466925)  
+UniTech Solutions Pty Ltd
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=100084607)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=59853291)  
+Cooper Power
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=80991851)  
-African Roots
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=46219520)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=114597715)  
-Henry's Home Renovations
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=78837111)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=75125999)  
-MOSELA GROUP Pty(ltd)
-
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=25213707)  
-Frequency Fanatics (Pty) Ltd
-
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=86024737)  
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=148326734)  
 Electro-Heat
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=110544418)  
-NEW BEGINNINGS DESIGNS
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=163290479)  
+AFS Electrical
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=123628591)  
-LEO DEVELOPMENT GROUP
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=3684454)  
+Skinz Printing & Branding
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=203245379)  
-kidoscabbie
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=201504584)  
+Vplay Grafix
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=108802484)  
-Camp 4 Africa (Pty) Ltd
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=186179940)  
+West Coast Horse Trails
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=210643582)  
-Digifax Pty) Ltd t/a Findfish
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=166677922)  
+OrgChart Hosting Pty Ltd
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=53216071)  
-Nilbet T/A Waterman
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=25039462)  
+FJW Security Cc
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=31547721)  
-TechnoDezi PTY(LTD)
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=34484585)  
+Mtunzini Group
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=8b290f03f37716cc5413c1fefa470b9d60a6a9e35124945a049c0ffb638a6a68&c=60280756)  
-Wiselink Broadband Dundee
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=110670426)  
+McKaynine Mobility
+
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=25384027)  
+Iurus Inc
+
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=0e08062dd1212c48231e6279e041265da7aec647a4d89515811df74506e45439&c=139667312)  
+Lemba Truck Stop
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
@@ -267,7 +261,7 @@ Some Stats, we are growing rapidly
 * Over **R 10,000,000,000** invoiced
 * Over **R 10,000,000,000** in payments received
 
-[![Available on the Play Store](https://www.invoicesonline.co.za/templates/images_2014/google_play.png)](https://play.google.com/store/apps/details?id=za.co.invoicesonline "Install Android App")[![Or Download APK Directly updated: 2024-10-02](https://www.invoicesonline.co.za/templates/images_2014/apk_download.png)](https://www.invoicesonline.co.za/io.apk "Or Download APK Directly updated: 2024-10-02") [![Available on the APP Store](https://www.invoicesonline.co.za/templates/images_2014/ios_app_store.png)](https://apps.apple.com/us/app/id1531188912 "Install iOS App") [![Join our WhatsApp channel](https://www.invoicesonline.co.za/templates/images_2014/whatsapp.png)](https://chat.whatsapp.com/Bq7OEduQ9g3D9bKLJekaEC "Join our WhatsApp channel")
+[![Available on the Play Store](https://www.invoicesonline.co.za/templates/images_2014/google_play.png)](https://play.google.com/store/apps/details?id=za.co.invoicesonline "Install Android App")[![Or Download APK Directly updated: 2024-11-21](https://www.invoicesonline.co.za/templates/images_2014/apk_download.png)](https://www.invoicesonline.co.za/io.apk "Or Download APK Directly updated: 2024-11-21") [![Available on the APP Store](https://www.invoicesonline.co.za/templates/images_2014/ios_app_store.png)](https://apps.apple.com/us/app/id1531188912 "Install iOS App") [![Join our WhatsApp channel](https://www.invoicesonline.co.za/templates/images_2014/whatsapp.png)](https://chat.whatsapp.com/Bq7OEduQ9g3D9bKLJekaEC "Join our WhatsApp channel")
 
 All content copyright © [Invoices Online](https://www.invoicesonline.co.za/) 2024.  
 A product of Invoices Online PTY (Ltd)  
