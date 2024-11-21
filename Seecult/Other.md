@@ -342,11 +342,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/boris-radivojkov/fotografije-iz-sume/detalj-suma1.jpg?itok=l-t2p99k)](http://seecult.org/galerija/galerija-umetnika/boris-radivojkov/fotografije-iz-sume)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston/hjuston.jpg?itok=doHPNdww)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-houston)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/nikola-vranjkovic/dscf4393.jpg?itok=IMoW-H6k)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/nikola-vranjkovi%C4%87)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/otvaranje-magacina-u-kraljevica-marka/magacin-zurka-izlozba.jpg?itok=eqtklebW)](http://seecult.org/galerija/foto-galerija/foto-arhiva/otvaranje-magacina-u-kraljevica-marka)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
