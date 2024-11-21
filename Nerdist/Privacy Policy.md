@@ -239,7 +239,7 @@ If you have any questions or comments about this Privacy Policy or our Site, ple
 
 * [About](https://nerdist.com/about)
 * [Privacy Policy](https://nerdist.com/privacy)
-* [Do Not Sell or Share My InformationOpens in new tab](https://privacyportal-cdn.onetrust.com/dsarwebform/34c5b273-7cb8-4ee8-8f8c-026eee65741b/f386161f-2608-47f0-a36e-7d446a6033c1.html)
+* [Do Not Sell or Share My Information](https://privacyportal-cdn.onetrust.com/dsarwebform/34c5b273-7cb8-4ee8-8f8c-026eee65741b/f386161f-2608-47f0-a36e-7d446a6033c1.html)
 
 Be a part of the fellowship:
 
