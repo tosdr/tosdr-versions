@@ -1,8 +1,6 @@
 [](#sidr-main)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://linuxhint.com/wp-content/uploads/2019/11/Logo-final.png)](https://linuxhint.com/)
+[![](https://linuxhint.com/wp-content/uploads/2019/11/Logo-final.png)](https://linuxhint.com/)
 
 * [Home](https://linuxhint.com/)
 * [YouTube](https://www.youtube.com/c/linuxhint/videos)
