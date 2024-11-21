@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, November 20 2024
+Thursday, November 21 2024
 
 Latest
 
-* [You’ll soon be able to clone your voice to speak other languages ​​in Teams – Computerworld](https://digitpatrox.com/youll-soon-be-able-to-clone-your-voice-to-speak-other-languages-in-teams-computerworld/)
-* [Android 16’s First Developer Preview Is Here Early](https://digitpatrox.com/android-16s-first-developer-preview-is-here-early/)
-* [Houston home healthcare service notifies 22K people of data breach that compromised SSNs, credit cards, and medical info](https://digitpatrox.com/houston-home-healthcare-service-notifies-22k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
-* [How to change startup page on File Explorer for Windows 11](https://digitpatrox.com/how-to-change-startup-page-on-file-explorer-for-windows-11/)
-* [How to Handle Ear Pain](https://digitpatrox.com/how-to-handle-ear-pain/)
-* [The Best Chromebooks of 2024](https://digitpatrox.com/the-best-chromebooks-of-2024/)
-* [The channel’s evolving relationship with SaaS](https://digitpatrox.com/the-channels-evolving-relationship-with-saas/)
-* [HPE’s El Capitan Named World’s Fastest Supercomputer](https://digitpatrox.com/hpes-el-capitan-named-worlds-fastest-supercomputer/)
-* [Newegg Black Friday sale is live — save up to 50% on gaming laptops, monitors, GPUs and more](https://digitpatrox.com/newegg-black-friday-sale-is-live-save-up-to-50-on-gaming-laptops-monitors-gpus-and-more/)
-* [Amazon and Audible flooded with ‘forex trading’ and warez listings](https://digitpatrox.com/amazon-and-audible-flooded-with-forex-trading-and-warez-listings/)
+* [TSA failed to meet pipeline cybersecurity recommendations, says US government watchdog](https://digitpatrox.com/tsa-failed-to-meet-pipeline-cybersecurity-recommendations-says-us-government-watchdog/)
+* [Update your hardware now – Computerworld](https://digitpatrox.com/update-your-hardware-now-computerworld/)
+* [The Best Music Visualizer App for Spotify](https://digitpatrox.com/the-best-music-visualizer-app-for-spotify/)
+* [Best Chef’s Knives – Consumer Reports](https://digitpatrox.com/best-chefs-knives-consumer-reports/)
+* [Don’t Buy a Gaming Headset, Buy Headphones and a Mic](https://digitpatrox.com/dont-buy-a-gaming-headset-buy-headphones-and-a-mic/)
+* [Microsoft unveils Azure AI Foundry to help businesses consolidate AI across their tech stack](https://digitpatrox.com/microsoft-unveils-azure-ai-foundry-to-help-businesses-consolidate-ai-across-their-tech-stack/)
+* [How To Delete a Page In Word In 5 Ways](https://digitpatrox.com/how-to-delete-a-page-in-word-in-5-ways/)
+* [Best Buy’s Black Friday sale is officially live — 27 deals I’m recommending to friends and family](https://digitpatrox.com/best-buys-black-friday-sale-is-officially-live-27-deals-im-recommending-to-friends-and-family/)
+* [Fintech giant Finastra investigates data breach after SFTP hack](https://digitpatrox.com/fintech-giant-finastra-investigates-data-breach-after-sftp-hack/)
+* [Microsoft tries to convince Windows 10 users to buy a new PC with full-screen prompts](https://digitpatrox.com/microsoft-tries-to-convince-windows-10-users-to-buy-a-new-pc-with-full-screen-prompts/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609786-0-88099400-1732128969-communication_writing_hello_in_many_languages_written_on_chalkboard_by_warchi_gettyimages-478438526_1200x800-100757313-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/youll-soon-be-able-to-clone-your-voice-to-speak-other-languages-in-teams-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/PDPvdeBBkc9ywEyKGHnwCk-1200-80.jpg)](https://digitpatrox.com/tsa-failed-to-meet-pipeline-cybersecurity-recommendations-says-us-government-watchdog/)
     
-    [You’ll soon be able to clone your voice to speak other languages ​​in Teams – Computerworld](https://digitpatrox.com/youll-soon-be-able-to-clone-your-voice-to-speak-other-languages-in-teams-computerworld/)
+    [TSA failed to meet pipeline cybersecurity recommendations, says US government watchdog](https://digitpatrox.com/tsa-failed-to-meet-pipeline-cybersecurity-recommendations-says-us-government-watchdog/)
     
-    11 minutes ago
+    10 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JD53XH62R7PPAKD87NQEW8B0/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/android-16s-first-developer-preview-is-here-early/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609674-0-86609300-1732121250-shutterstock_editorial_1799864374.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/update-your-hardware-now-computerworld/)
     
-    [Android 16’s First Developer Preview Is Here Early](https://digitpatrox.com/android-16s-first-developer-preview-is-here-early/)
+    [Update your hardware now – Computerworld](https://digitpatrox.com/update-your-hardware-now-computerworld/)
     
-    39 minutes ago
+    30 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Data-breach-at-Houston-home-healthcare-firm-leaks-SSNs-credit-cards-medical-info.jpg)](https://digitpatrox.com/houston-home-healthcare-service-notifies-22k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
+* [![](https://lifehacker.com/imagery/articles/01JD5J3ADWREE75HT0AJKFGW36/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-music-visualizer-app-for-spotify/)
     
-    [Houston home healthcare service notifies 22K people of data breach that compromised SSNs, credit cards, and medical info](https://digitpatrox.com/houston-home-healthcare-service-notifies-22k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
+    [The Best Music Visualizer App for Spotify](https://digitpatrox.com/the-best-music-visualizer-app-for-spotify/)
     
-    46 minutes ago
+    58 minutes ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2021/12/explorer-change-startup-page-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-change-startup-page-on-file-explorer-for-windows-11/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731453489/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-Knives-Chefs-11-24)](https://digitpatrox.com/best-chefs-knives-consumer-reports/)
     
-    [How to change startup page on File Explorer for Windows 11](https://digitpatrox.com/how-to-change-startup-page-on-file-explorer-for-windows-11/)
+    [Best Chef’s Knives – Consumer Reports](https://digitpatrox.com/best-chefs-knives-consumer-reports/)
     
-    47 minutes ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731438985/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-How-to-Handle-Ear-Pain-1124)](https://digitpatrox.com/how-to-handle-ear-pain/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/rsz_1asd.jpg)](https://digitpatrox.com/dont-buy-a-gaming-headset-buy-headphones-and-a-mic/)
     
-    [How to Handle Ear Pain](https://digitpatrox.com/how-to-handle-ear-pain/)
+    [Don’t Buy a Gaming Headset, Buy Headphones and a Mic](https://digitpatrox.com/dont-buy-a-gaming-headset-buy-headphones-and-a-mic/)
     
-    49 minutes ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [11 minutes ago
+* [10 minutes ago
     
-    ### You’ll soon be able to clone your voice to speak other languages ​​in Teams – Computerworld](https://digitpatrox.com/youll-soon-be-able-to-clone-your-voice-to-speak-other-languages-in-teams-computerworld/)
-* [39 minutes ago
+    ### TSA failed to meet pipeline cybersecurity recommendations, says US government watchdog](https://digitpatrox.com/tsa-failed-to-meet-pipeline-cybersecurity-recommendations-says-us-government-watchdog/)
+* [30 minutes ago
     
-    ### Android 16’s First Developer Preview Is Here Early](https://digitpatrox.com/android-16s-first-developer-preview-is-here-early/)
-* [46 minutes ago
+    ### Update your hardware now – Computerworld](https://digitpatrox.com/update-your-hardware-now-computerworld/)
+* [58 minutes ago
     
-    ### Houston home healthcare service notifies 22K people of data breach that compromised SSNs, credit cards, and medical info](https://digitpatrox.com/houston-home-healthcare-service-notifies-22k-people-of-data-breach-that-compromised-ssns-credit-cards-and-medical-info/)
+    ### The Best Music Visualizer App for Spotify](https://digitpatrox.com/the-best-music-visualizer-app-for-spotify/)
 
 Most Popular Topics
 
+* [3 weeks ago
+    
+    ### REI early Black Friday sale — 11 deals I’d buy right now, starting at $7](https://digitpatrox.com/rei-early-black-friday-sale-11-deals-id-buy-right-now-starting-at-7/)
 * [2 weeks ago
     
-    ### How I Fool Everyone With Store-Bought Gravy](https://digitpatrox.com/how-i-fool-everyone-with-store-bought-gravy/)
-* [August 11, 2024
+    ### Windows Server 2025 is now available – but Microsoft warns admins to watch out for three major bugs, including one that causes the dreaded blue screen of death](https://digitpatrox.com/windows-server-2025-is-now-available-but-microsoft-warns-admins-to-watch-out-for-three-major-bugs-including-one-that-causes-the-dreaded-blue-screen-of-death/)
+* [4 weeks ago
     
-    ### 10 Least Reliable Cars – Consumer Reports](https://digitpatrox.com/10-least-reliable-cars-consumer-reports/)
-* [October 5, 2024
-    
-    ### 4 Reasons Not to Use a Fax Server and 3 Better Solutions](https://digitpatrox.com/4-reasons-not-to-use-a-fax-server-and-3-better-solutions/)
+    ### The University of Manchester avoided disaster in last year’s cyber attack – now it wants to set an industry example](https://digitpatrox.com/the-university-of-manchester-avoided-disaster-in-last-years-cyber-attack-now-it-wants-to-set-an-industry-example/)
 
 Last Modified Topics
 
-* [1 hour ago
-    
-    ### The channel’s evolving relationship with SaaS](https://digitpatrox.com/the-channels-evolving-relationship-with-saas/)
 * [2 hours ago
     
-    ### HPE’s El Capitan Named World’s Fastest Supercomputer](https://digitpatrox.com/hpes-el-capitan-named-worlds-fastest-supercomputer/)
+    ### How To Delete a Page In Word In 5 Ways](https://digitpatrox.com/how-to-delete-a-page-in-word-in-5-ways/)
 * [2 hours ago
     
-    ### Newegg Black Friday sale is live — save up to 50% on gaming laptops, monitors, GPUs and more](https://digitpatrox.com/newegg-black-friday-sale-is-live-save-up-to-50-on-gaming-laptops-monitors-gpus-and-more/)
+    ### Best Buy’s Black Friday sale is officially live — 27 deals I’m recommending to friends and family](https://digitpatrox.com/best-buys-black-friday-sale-is-officially-live-27-deals-im-recommending-to-friends-and-family/)
+* [3 hours ago
+    
+    ### Fintech giant Finastra investigates data breach after SFTP hack](https://digitpatrox.com/fintech-giant-finastra-investigates-data-breach-after-sftp-hack/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
