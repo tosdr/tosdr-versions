@@ -85,7 +85,7 @@ Guided by science and economics, and committed to climate justice, we work in th
 * [Champion diversity](https://www.edf.org/diversity)
 
 * [Our people](https://www.edf.org/about#our-people)
-* [Our staff](https://www.edf.org/people/staff-of-experts/all)
+* [Our experts](https://www.edf.org/people/staff-of-experts/all)
 * [Leadership team](https://www.edf.org/our-leadership-team)
 * [Board of trustees](https://www.edf.org/board-trustees)
 
