@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Rakim-Kendall-bwc-326x245.jpg)](https://cwbchicago.com/2024/11/video-released-of-cops-firing-at-armed-man-just-6-days-after-he-got-probation-for-a-gun-charge.html "Video released of cops firing at armed man just 6 days after he got probation for a gun charge")
+
+South Shore
+
+### [Video released of cops firing at armed man just 6 days after he got probation for a gun charge](https://cwbchicago.com/2024/11/video-released-of-cops-firing-at-armed-man-just-6-days-after-he-got-probation-for-a-gun-charge.html "Video released of cops firing at armed man just 6 days after he got probation for a gun charge")
+
+[November 18, 2024 8:34 AM](https://cwbchicago.com/2024/11)
+
+COPA, the agency charged with investigating shootings and allegations of serious misconduct involving Chicago police officers, has released video and other materials from an incident in which cops shot at an armed man in September.[](https://cwbchicago.com/2024/11/video-released-of-cops-firing-at-armed-man-just-6-days-after-he-got-probation-for-a-gun-charge.html "Video released of cops firing at armed man just 6 days after he got probation for a gun charge")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/11-south-lasalle-326x245.jpg)](https://cwbchicago.com/2024/11/4-people-robbed-carjacked-at-gunpoint-in-the-loop.html "4 people robbed, carjacked at gunpoint in the Loop")
+
+Loop
+
+### [4 people robbed, carjacked at gunpoint in the Loop](https://cwbchicago.com/2024/11/4-people-robbed-carjacked-at-gunpoint-in-the-loop.html "4 people robbed, carjacked at gunpoint in the Loop")
+
+[November 18, 2024 7:54 AM](https://cwbchicago.com/2024/11)
+
+Police are investigating after four people were robbed and carjacked in the Loop on Sunday evening.[](https://cwbchicago.com/2024/11/4-people-robbed-carjacked-at-gunpoint-in-the-loop.html "4 people robbed, carjacked at gunpoint in the Loop")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/bb15-326x245.jpg)](https://cwbchicago.com/2024/11/man-found-lying-shot-on-west-pullman-sidewalk-an-area-that-used-to-be-served-by-shotspotter.html "Man found lying shot on West Pullman sidewalk, an area that used to be served by ShotSpotter")
 
 West Pullman
@@ -252,26 +272,6 @@ West Pullman
 [November 18, 2024 6:15 AM](https://cwbchicago.com/2024/11)
 
 A man was found shot on a West Pullman sidewalk overnight in a neighborhood that used to be monitored by the city’s ShotSpotter network.[](https://cwbchicago.com/2024/11/man-found-lying-shot-on-west-pullman-sidewalk-an-area-that-used-to-be-served-by-shotspotter.html "Man found lying shot on West Pullman sidewalk, an area that used to be served by ShotSpotter")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Brandon-Henry-326x245.jpg)](https://cwbchicago.com/2024/11/on-a-north-side-street-where-20-people-have-been-shot-in-2-years-prosecutors-finally-charge-someone-with-shooting-a-gun-but-not-a-person.html "On a North Side street where 20 people have been shot in 2 years, prosecutors finally charge someone with shooting a gun (but not a person)")
-
-Rogers Park
-
-### [On a North Side street where 20 people have been shot in 2 years, prosecutors finally charge someone with shooting a gun (but not a person)](https://cwbchicago.com/2024/11/on-a-north-side-street-where-20-people-have-been-shot-in-2-years-prosecutors-finally-charge-someone-with-shooting-a-gun-but-not-a-person.html "On a North Side street where 20 people have been shot in 2 years, prosecutors finally charge someone with shooting a gun (but not a person)")
-
-[November 17, 2024 6:25 PM](https://cwbchicago.com/2024/11)
-
-There’s a single block on the city’s North Side where 16 people have been shot and four more murdered in the past two years. The same block has been the site of an untold number of shootouts and shooting attempts that ended without injury.[](https://cwbchicago.com/2024/11/on-a-north-side-street-where-20-people-have-been-shot-in-2-years-prosecutors-finally-charge-someone-with-shooting-a-gun-but-not-a-person.html "On a North Side street where 20 people have been shot in 2 years, prosecutors finally charge someone with shooting a gun (but not a person)")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Celeste-Pope-and-suspects-326x245.jpg)](https://cwbchicago.com/2024/11/woman-charged-with-committing-2-cta-robberies-after-her-principal-identified-her-cpd-report.html "Woman charged with committing 2 CTA robberies after her principal identified her: CPD report")
-
-Archer Heights
-
-### [Woman charged with committing 2 CTA robberies after her principal identified her: CPD report](https://cwbchicago.com/2024/11/woman-charged-with-committing-2-cta-robberies-after-her-principal-identified-her-cpd-report.html "Woman charged with committing 2 CTA robberies after her principal identified her: CPD report")
-
-[November 17, 2024 1:00 PM](https://cwbchicago.com/2024/11)
-
-An 18-year-old woman is charged with committing two robberies on CTA trains over the past few months after her high school principal identified her, according to a Chicago police report. Men who allegedly helped her commit the robberies have already been charged.[](https://cwbchicago.com/2024/11/woman-charged-with-committing-2-cta-robberies-after-her-principal-identified-her-cpd-report.html "Woman charged with committing 2 CTA robberies after her principal identified her: CPD report")
 
 Search
 
