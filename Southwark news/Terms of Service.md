@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
+    
+    ### [Comment: Southwark Council is leading the charge on kids’ nutrition](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
+    
     [![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
     
     ### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
@@ -51,10 +55,6 @@
     [![Creative Commons](https://southwarknews.co.uk/wp-content/uploads/2024/11/benefits-360x180.jpg)](https://southwarknews.co.uk/area/london/report-argues-no-recourse-to-public-funds-rule-should-be-loosened-for-some-migrant-households/)
     
     ### [Report argues ‘No Recourse to Public Funds’ rule should be loosened for some migrant households](https://southwarknews.co.uk/area/london/report-argues-no-recourse-to-public-funds-rule-should-be-loosened-for-some-migrant-households/)
-    
-    [![Looking up Denmark Hill from Camberwell New Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Lookig-up-Denmark-Hill-from-Camberwell-New-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
-    
-    ### [25 Camberwell businesses offering events, prizes and discounts in run-up to Christmas](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
+    
+    ### [Comment: Southwark Council is leading the charge on kids’ nutrition](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
+    
     [![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
     
     ### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
@@ -136,10 +140,6 @@ View All Result
     [![Creative Commons](https://southwarknews.co.uk/wp-content/uploads/2024/11/benefits-360x180.jpg)](https://southwarknews.co.uk/area/london/report-argues-no-recourse-to-public-funds-rule-should-be-loosened-for-some-migrant-households/)
     
     ### [Report argues ‘No Recourse to Public Funds’ rule should be loosened for some migrant households](https://southwarknews.co.uk/area/london/report-argues-no-recourse-to-public-funds-rule-should-be-loosened-for-some-migrant-households/)
-    
-    [![Looking up Denmark Hill from Camberwell New Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Lookig-up-Denmark-Hill-from-Camberwell-New-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
-    
-    ### [25 Camberwell businesses offering events, prizes and discounts in run-up to Christmas](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -217,30 +217,29 @@ Terms of Use
 
 [16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
 
+[![From left: Harrun, a biomedical student at KCL; Dennis at the Blue. R: An ambulance outside Guy's Hospital.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-14.37-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
+
+### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
+
+[20th November 2024](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
+
 [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
 ### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
 [13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
-[![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/DSC_7271-2024-11-06T22_12_38.272-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
+[![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-120x86.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
 
-### [Loan round-up – Millwall striker helps pile on misery on Dundee](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
+### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
 
-[14th November 2024](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
+[18th November 2024](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
 
-[![Tom Bradshaw in action for the Lions against Stoke City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/T-Bradshaw-1218754-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/several-senior-millwall-players-feature-in-under-21s-draw-with-sheffield-wednesday/)
+[![Neil Harris ahead of his side's game against Stoke City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/N-Harris-987654-2024-11-09T13_20_30.418-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-aiming-to-humble-another-huge-football-club-ahead-of-saturdays-clash-with-sunderland/)
 
-### [Several senior Millwall players feature in under-21s draw with Sheffield Wednesday](https://southwarknews.co.uk/sport/football/millwall/several-senior-millwall-players-feature-in-under-21s-draw-with-sheffield-wednesday/)
+### [Millwall head coach aiming to ‘humble another huge football club’ ahead of Saturday’s clash with Sunderland at The Den](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-aiming-to-humble-another-huge-football-club-ahead-of-saturdays-clash-with-sunderland/)
 
-[14th November 2024](https://southwarknews.co.uk/sport/football/millwall/several-senior-millwall-players-feature-in-under-21s-draw-with-sheffield-wednesday/)
-
-[![The last remaining gasholder in Rotherhithe will be dismantled. 
-Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-last-remaining-gasholder-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
-
-### [Over 150 new homes approved on former gasworks despite residents’ concerns about contaminated land](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/) 
-
-[13th November 2024](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
+[19th November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-aiming-to-humble-another-huge-football-club-ahead-of-saturdays-clash-with-sunderland/)
 
 ### Featured Articles
 
