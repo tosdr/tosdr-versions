@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 164 utilisateurs actifs
+##### 652 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Windows App : à quoi sert la nouvelle application de Microsoft ?](https://lecrabeinfo.net/windows-app-a-quoi-sert-la-nouvelle-application-de-microsoft.html)
 * [Windows 11 : comment restaurer WordPad, l’éditeur de texte historique (et gratuit) de Windows ?](https://lecrabeinfo.net/windows-11-comment-restaurer-wordpad-lediteur-de-texte-historique-et-gratuit-de-windows.html)
 * [Microsoft impose l’IA dans Windows : vous en avez assez ? Ce n'est que le début !](https://lecrabeinfo.net/microsoft-impose-lia-dans-windows-vous-en-avez-assez-ce-nest-que-le-debut.html)
-* [La touche Copilot des nouveaux PC Windows 11 va devenir configurable !](https://lecrabeinfo.net/la-touche-copilot-des-nouveaux-pc-windows-11-va-devenir-configurable.html)
 
 ### Tendance
 
