@@ -26,7 +26,6 @@
         * [Devices](https://blackwolfnation.com/collections/devices)
         * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
         * [Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
-        * [WUSH BUY ONE GIFT ONE 50% OFF!](https://blackwolfnation.com/products/wush-2-pack)
         * [WUSH 2.0 PRO Ear Cleaner](https://blackwolfnation.com/products/wush-2-0-pro-ear-cleaner)
     * [Body Wash](https://blackwolfnation.com/collections/black-wolf-body-wash)
         * Back
@@ -92,7 +91,6 @@
     * [Devices](https://blackwolfnation.com/collections/devices)
         * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
         * [Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
-        * [WUSH BUY ONE GIFT ONE 50% OFF!](https://blackwolfnation.com/products/wush-2-pack)
         * [WUSH 2.0 PRO Ear Cleaner](https://blackwolfnation.com/products/wush-2-0-pro-ear-cleaner)
     * [Body Wash](https://blackwolfnation.com/collections/black-wolf-body-wash)
         * [Hydrating Body Wash](https://blackwolfnation.com/products/hydrating-body-wash)
@@ -401,14 +399,18 @@ Sonic Scrubber Exfoliation System
 
 $71.00$49.99](https://blackwolfnation.com/products/sonic-scrubber-body-wash-face-wash)
 
-[![](//blackwolfnation.com/cdn/shop/files/ScreenShot2024-10-15at11.34.01AM.png?v=1729017249&width=946)
+[![](//blackwolfnation.com/cdn/shop/files/NEWPRODUCTIMAGES-NEWSITE_35.png?v=1731521722&width=1080)
 
-![](//blackwolfnation.com/cdn/shop/files/wush_99c7cb2c-c530-45fb-848d-2a9ee44afd39.png?v=1729027068&width=1080)
+![](//blackwolfnation.com/cdn/shop/files/NEWPRODUCTIMAGES-NEWSITE_36.png?v=1731521802&width=1080)
 
-WUSH™ 1.0 Ear Cleaner
+WUSH™ 2.0 Pro Ear Cleaner
 
 1480
 
-$49.00](https://blackwolfnation.com/products/wush)
+Color
+
+$59.00
+
+Color](https://blackwolfnation.com/products/wush)
 
 {"themeColor":"#574cd5","iconColor":"#574cd5","showLogo":true,"topBottomPosition":100,"rightLeftPosition":10,"iconSize":"extra-small","iconCustomSize":64,"position":"middle-right"}
