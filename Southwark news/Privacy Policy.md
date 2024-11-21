@@ -20,10 +20,6 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-    
-    ### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-    
     [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
     
     ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
@@ -55,6 +51,10 @@
     [![Looking up Denmark Hill from Camberwell New Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Lookig-up-Denmark-Hill-from-Camberwell-New-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
     
     ### [25 Camberwell businesses offering events, prizes and discounts in run-up to Christmas](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
+    
+    [![Thameslink passengers are told to plan ahead over the Christmas holiday. Pictured, Blackfriars station.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Class-700-at-Blackfriars-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+    
+    ### [Crucial Thameslink route disrupted for five days over Christmas](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,10 +105,6 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-    
-    ### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-    
     [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
     
     ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
@@ -140,6 +136,10 @@ View All Result
     [![Looking up Denmark Hill from Camberwell New Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Lookig-up-Denmark-Hill-from-Camberwell-New-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
     
     ### [25 Camberwell businesses offering events, prizes and discounts in run-up to Christmas](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
+    
+    [![Thameslink passengers are told to plan ahead over the Christmas holiday. Pictured, Blackfriars station.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Class-700-at-Blackfriars-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+    
+    ### [Crucial Thameslink route disrupted for five days over Christmas](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -384,12 +384,6 @@ Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-
 
 ### Featured Articles
 
-[![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-
-### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-
-[20th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-
 [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
 
 ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
@@ -419,6 +413,12 @@ Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-
 ### [Victorian Crystal Palace subway and South London cemetery among conservations making ‘good progress’](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
 
 [20th November 2024](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
+
+[![Thameslink passengers are told to plan ahead over the Christmas holiday. Pictured, Blackfriars station.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Class-700-at-Blackfriars-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+
+### [Crucial Thameslink route disrupted for five days over Christmas](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+
+[19th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
 
 ### USEFUL PAGES
 
