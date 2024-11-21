@@ -1,5 +1,3 @@
-[Breaking: Braves’ Chris Sale wins Cy Young Award for first time](https://www.ajc.com/sports/atlanta-braves/braves-chris-sale-wins-cy-young-award-for-first-time/LFD6UAEXE5D35MITSZMYM5273Y/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1834)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1834)](https://www.ajc.com/)
 
 Log In
@@ -177,12 +175,12 @@ Follow Us
 
 [](https://twitter.com/ajc)[](https://facebook.com/ajc)[](https://www.instagram.com/ajcnews)
 
-© 2024 . All Rights Reserved.
+© 2024 The Atlanta Journal-Constitution. All Rights Reserved.
 
 By using this website, you accept the terms of our
 
-[](#), [](#), [](#), and understand your options regarding [](#).
+[Terms of Use](https://www.ajc.com/visitor-agreement/), [Privacy Policy](https://www.ajc.com/privacy-policy/), [CCPA](https://www.ajc.com/california-privacy-notice/), and understand your options regarding [Ad Choices](https://www.ajc.com/privacy-policy/#ad-choices).
 
-[Learn about .](#)
+[Learn about Careers at Cox Enterprises.](https://jobs.coxenterprises.com/?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none/)
 
 Cookie Settings
