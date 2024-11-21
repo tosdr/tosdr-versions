@@ -1,4 +1,4 @@
-[Breaking: WATCH LIVE: Judge sentencing Jose Ibarra after being found guilty in the killing of Laken Riley](https://www.ajc.com/news/live-judge-sentencing-jose-ibarra-after-being-found-guilty-in-the-killing-of-laken-riley/NALTNMN7ZNBS7EIEXPYUULQDRY/)
+[Breaking: Braves’ Chris Sale wins Cy Young Award for first time](https://www.ajc.com/sports/atlanta-braves/braves-chris-sale-wins-cy-young-award-for-first-time/LFD6UAEXE5D35MITSZMYM5273Y/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1834)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1834)](https://www.ajc.com/)
 
@@ -16,7 +16,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-sheriffs-burger-beef-leads-to-litigation/KR3ULA7EIJCGJA4NXDL23FTVEQ/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
@@ -178,12 +177,12 @@ Follow Us
 
 [](https://twitter.com/ajc)[](https://facebook.com/ajc)[](https://www.instagram.com/ajcnews)
 
-© 2024 The Atlanta Journal-Constitution. All Rights Reserved.
+© 2024 . All Rights Reserved.
 
 By using this website, you accept the terms of our
 
-[Terms of Use](https://www.ajc.com/visitor-agreement/), [Privacy Policy](https://www.ajc.com/privacy-policy/), [CCPA](https://www.ajc.com/california-privacy-notice/), and understand your options regarding [Ad Choices](https://www.ajc.com/privacy-policy/#ad-choices).
+[](#), [](#), [](#), and understand your options regarding [](#).
 
-[Learn about Careers at Cox Enterprises.](https://jobs.coxenterprises.com/?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none/)
+[Learn about .](#)
 
 Cookie Settings
