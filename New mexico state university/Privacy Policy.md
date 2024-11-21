@@ -142,7 +142,7 @@ Information For
     
 
 1. You are here:
-2. [NMSU Home](https://nmsu.edu/index)
+2. [NMSU Home](https://nmsu.edu/index.html)
 3. NMSU Website and Mobile Application User Privacy
 
 NMSU Website and Mobile Application User Privacy
@@ -214,7 +214,7 @@ New Mexico State University uses cookies and server log information to track use
 
 ### Connect
 
-* [Contact Us](https://nmsu.edu/contact/index.html)
+* [Contact Us](https://nmsu.edu/contact/)
 * [Crimson Connection (Events)](https://crimsonconnection.nmsu.edu/)
 * [Directory](https://myaccount.nmsu.edu/phonebook)
 
