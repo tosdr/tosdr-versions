@@ -342,11 +342,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Bojana Pejic: Zoran Popovic, Vom trauma des kollektivismus zum glucklichen ich](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-tekstovitexts/zoran-popovic-bibliografija/bibliography/txt_1.jpg?itok=XD-cuOiw "Bojana Pejic: Zoran Popovic, Vom trauma des kollektivismus zum glucklichen ich")](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-tekstovitexts/zoran-popovic-0)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/boris-radivojkov/fotografije-iz-sume/detalj-suma1.jpg?itok=l-t2p99k)](http://seecult.org/galerija/galerija-umetnika/boris-radivojkov/fotografije-iz-sume)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/nikola-markovic.jpg?itok=KJ1u4Ns4)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/nikola-vranjkovic/dscf4393.jpg?itok=IMoW-H6k)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/nikola-vranjkovi%C4%87)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -362,16 +362,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Digitalno restaurisana Virdžina](http://seecult.org/vest/digitalno-restaurisana-virdzina)
+* [Izbor radova iz Kolekcije Momčilović](http://seecult.org/vest/izbor-radova-iz-kolekcije-momcilovic)
+* [Decenija Hrabrog Balkana i Bande à part, uz jubilej FAF-a](http://seecult.org/vest/decenija-hrabrog-balkana-i-bande-part-uz-jubilej-faf)
+* [Zamerka glumcima zbog čitanja saopštenja](http://seecult.org/vest/zamerka-glumcima-zbog-citanja-saopstenja)
+* [Mogućnost raja na 30. FAF-u](http://seecult.org/vest/mogucnost-raja-na-30-faf-u)
 * [Selekcija filmova 15. MikroFAF-a – Fresh Frames](http://seecult.org/vest/selekcija-filmova-15-mikrofaf-fresh-frames)
 * [FDU zahteva oslobađanje pritvorenih](http://seecult.org/vest/fdu-zahteva-oslobadanje-pritvorenih)
 * [Izmenjena vodom](http://seecult.org/vest/izmenjena-vodom)
 * [Specijalne nagrade FAF-a povodom 30 godina](http://seecult.org/vest/specijalne-nagrade-faf-povodom-30-godina)
 * [Radovan Vujović dobitnik nagrade Raša Plaović](http://seecult.org/vest/radovan-vujovic-dobitnik-nagrade-rasa-plaovic)
-* [ICOMOS Srbija: Poništiti odluku o Generalštabu](http://seecult.org/vest/icomos-srbija-ponistiti-odluku-o-generalstabu)
-* [Kulturno nasleđe u opasnosti](http://seecult.org/vest/kulturno-naslede-u-opasnosti)
-* [Aktivizam i umetnost - istorijska iskustva i participativne prakse](http://seecult.org/vest/aktivizam-i-umetnost-istorijska-iskustva-i-participativne-prakse)
-* [Izvanredan doprinos informatici](http://seecult.org/vest/izvanredan-doprinos-informatici)
-* [Irena Paunović u Haosu](http://seecult.org/vest/irena-paunovic-u-haosu)
 
 * [Konkursi](#tab1_1)
 
