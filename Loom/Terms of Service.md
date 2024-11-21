@@ -360,56 +360,14 @@ Back
 
 [Try now](https://www.loom.com/try)
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2439)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
-
-[Cloud Terms of Service](https://www.loom.com/legal/atlassian-customer-agreement)
-
-[Product-Specific Terms](https://www.loom.com/legal/product-terms)
-
-[Expanded Coverage Addendum](https://www.loom.com/legal/expanded-coverage-addendum)
-
-[Privacy Policy](https://www.loom.com/legal/privacy-policy)
-
-[Former Workplace Privacy Notice](https://www.loom.com/legal/formerworkforceprivacynotice)
-
-[Careers Privacy Notice](https://www.loom.com/legal/careers-privacy-notice)
-
-[Diversity Survey Privacy Notice](https://www.loom.com/legal/diversity-survey-privacy-notice)
-
-[Data Processing Addendum](https://www.loom.com/legal/data-processing-addendum)
-
-[Data Transfer Impact Assessment](https://www.loom.com/legal/data-transfer-impact-assessment)
-
-[Business Associate Agreement](https://www.loom.com/legal/business-associate-agreement)
-
-[Reseller Agreement](https://www.loom.com/legal/reseller-agreement)
-
-[User Notice](https://www.loom.com/legal/user-notice)
-
-[Acceptable Use Policy](https://www.loom.com/legal/acceptable-use-policy)
-
-[Other Legal](https://www.loom.com/legal/other-legal)
-
-[Legal Updates](https://www.loom.com/legal/legal-updates)
-
-[Impressum](https://www.loom.com/legal/impressum)
-
-[Archives](https://www.loom.com/legal/archives)
-
-[Copy link to heading Copied!](javascript:void(0);)
-
-  
-
-|     |     |
-| --- | --- |
-|     | [Cloud Terms of Service](https://www.loom.com/legal/atlassian-customer-agreement)<br><br>[Product-Specific Terms](https://www.loom.com/legal/product-terms)<br><br>[Expanded Coverage Addendum](https://www.loom.com/legal/expanded-coverage-addendum)<br><br>[Privacy Policy](https://www.loom.com/legal/privacy-policy)<br><br>[Former Workplace Privacy Notice](https://www.loom.com/legal/formerworkforceprivacynotice)<br><br>[Careers Privacy Notice](https://www.loom.com/legal/careers-privacy-notice)<br><br>[Diversity Survey Privacy Notice](https://www.loom.com/legal/diversity-survey-privacy-notice)<br><br>[Data Processing Addendum](https://www.loom.com/legal/data-processing-addendum)<br><br>[Data Transfer Impact Assessment](https://www.loom.com/legal/data-transfer-impact-assessment)<br><br>[Atlassian Business Associate Agreement](https://www.loom.com/legal/business-associate-agreement)<br><br>[Reseller Agreement](https://www.loom.com/legal/reseller-agreement)<br><br>[User Notice](https://www.loom.com/legal/user-notice)<br><br>[Acceptable Use Policy](https://www.loom.com/legal/acceptable-use-policy)<br><br>[Other Legal](https://www.loom.com/legal/other-legal)<br><br>[Impressum](https://www.loom.com/legal/impressum)<br><br>[Archives](https://www.loom.com/legal/archives) |
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2441)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
 
 * [Legal information](https://www.loom.com/legal)
 * [Atlassian Customer Agreement](https://www.loom.com/legal/atlassian-customer-agreement)
 
 [Atlassian Customer Agreement](https://www.loom.com/legal/atlassian-customer-agreement)
 
-[![Termscout certified icon](https://wac-cdn.atlassian.com/dam/jcr:00de0243-b3b5-456f-be35-cc79860ba433/Horizontal_Narrow_White.jpg?cdnVersion=2439)](https://app.termscout.com/certify/atlassian-certified-contract-aca)
+[![Termscout certified icon](https://wac-cdn.atlassian.com/dam/jcr:00de0243-b3b5-456f-be35-cc79860ba433/Horizontal_Narrow_White.jpg?cdnVersion=2441)](https://app.termscout.com/certify/atlassian-certified-contract-aca)
 
 Atlassian provides a wide range of products, services, and deployment options. As part of our dedication to building with heart and balance, we have developed the Atlassian Customer Agreement to encompass all these offerings in a comprehensive and customized manner. Our products adhere to an enterprise-level set of controls and policies that align with various international standards and market expectations. The agreement is crafted to be customer-friendly, undergoing regular updates informed by market practices and customer input. For further insight into our approach, [please visit this page](https://www.loom.com/legal/our-approach).
 
@@ -751,7 +709,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2439)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2441)
 
 [Company](https://www.loom.com/company)
 
