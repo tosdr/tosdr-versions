@@ -25,10 +25,10 @@ I'm currently in WA
         
         Cover for my life stage
         
-        * [Singles](https://www.hbf.com.au/health-insurance/lifestage/singles)
-        * [Couples](https://www.hbf.com.au/health-insurance/lifestage/couples)
-        * [Families](https://www.hbf.com.au/health-insurance/lifestage/families)
-        * [Single Parents](https://www.hbf.com.au/health-insurance/lifestage/single-parents)
+        * [Singles](https://www.hbf.com.au/health-insurance/singles)
+        * [Couples](https://www.hbf.com.au/health-insurance/couples)
+        * [Families](https://www.hbf.com.au/health-insurance/families)
+        * [Single Parents](https://www.hbf.com.au/health-insurance/single-parents)
         
         * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs?intcmp=megamenucta_lifestage:prt_step1)
         
@@ -65,13 +65,13 @@ I'm currently in WA
         
         Common extras services
         
-        * [Dental](https://www.hbf.com.au/health-insurance/cover-for/dental)
-        * [Physio](https://www.hbf.com.au/health-insurance/cover-for/physio)
-        * [Optical](https://www.hbf.com.au/health-insurance/cover-for/optical)
-        * [Mental health](https://www.hbf.com.au/health-insurance/cover-for/mental-health)
-        * [Chiropractic](https://www.hbf.com.au/health-insurance/cover-for/chiropractic)
-        * [Nutrition and Dietetics](https://www.hbf.com.au/health-insurance/cover-for/nutrition-and-dietetics)
-        * [Remedial Massage](https://www.hbf.com.au/health-insurance/cover-for/remedial-massage)
+        * [Dental](https://www.hbf.com.au/health-insurance/dental)
+        * [Physio](https://www.hbf.com.au/health-insurance/physio)
+        * [Optical](https://www.hbf.com.au/health-insurance/optical)
+        * [Mental health](https://www.hbf.com.au/health-insurance/mental-health)
+        * [Chiropractic](https://www.hbf.com.au/health-insurance/chiropractic)
+        * [Nutrition and Dietetics](https://www.hbf.com.au/health-insurance/nutrition-and-dietetics)
+        * [Remedial Massage](https://www.hbf.com.au/health-insurance/remedial-massage)
         
         * [Compare extras cover](https://www.hbf.com.au/health-insurance/compare-extras-cover)
         * [Use recommendation tool](https://www.hbf.com.au/health-insurance/cover-to-suit-your-needs?intcmp=megamenucta_commonextras:prt_step1)
