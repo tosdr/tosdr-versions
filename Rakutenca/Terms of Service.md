@@ -25,7 +25,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/joe-fresh-canada)[Carter’s OshKosh B’gosh
         
-        2% Cash Back](https://www.rakuten.ca/carters-oshkosh-bgosh)[Baby Gap
+        4% Cash Back](https://www.rakuten.ca/carters-oshkosh-bgosh)[Baby Gap
         
         2% Cash Back](https://www.rakuten.ca/baby-gap)[Gymboree
         
