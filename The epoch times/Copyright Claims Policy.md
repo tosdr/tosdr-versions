@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [US Regulators Seek Breakup of Google Over Search Monopoly](https://www.theepochtimes.com/business/us-regulators-seek-breakup-of-google-over-search-monopoly-5763600)
+    
+    NEW By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![US Regulators Seek Breakup of Google Over Search Monopoly](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Regulators Seek Breakup of Google Over Search Monopoly](https://img.theepochtimes.com/assets/uploads/2016/02/29/GettyImages-147367649-e1732172579339-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-regulators-seek-breakup-of-google-over-search-monopoly-5763600)
+* [Gaetz Focused on DOJ Reform, Not ‘Paying Much Attention’ to Ethics Report](https://www.theepochtimes.com/us/gaetz-focused-on-doj-reform-not-paying-much-attention-to-ethics-report-5763549)
+    
+    3hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    
+    [![Gaetz Focused on DOJ Reform, Not ‘Paying Much Attention’ to Ethics Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Gaetz Focused on DOJ Reform, Not ‘Paying Much Attention’ to Ethics Report](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763375-GettyImages-2185739315-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/gaetz-focused-on-doj-reform-not-paying-much-attention-to-ethics-report-5763549)
 * [What to Know About Matthew Whitaker, Trump’s Nominee for NATO Ambassador](https://www.theepochtimes.com/us/what-to-know-about-matthew-whitaker-trumps-nominee-for-nato-ambassador-5763383)
     
-    NEW By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    6hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![What to Know About Matthew Whitaker, Trump’s Nominee for NATO Ambassador](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![What to Know About Matthew Whitaker, Trump’s Nominee for NATO Ambassador](https://img.theepochtimes.com/assets/uploads/2018/11/14/matt-whitaker-acting-attorney-general-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-to-know-about-matthew-whitaker-trumps-nominee-for-nato-ambassador-5763383)
 * [Appeals Court Upholds Ruling Blocking Louisiana’s Ten Commandments Poster Law for Some Public Schools](https://www.theepochtimes.com/us/appeals-court-upholds-ruling-blocking-louisianas-ten-commandments-poster-law-for-some-public-schools-5763438)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Appeals Court Upholds Ruling Blocking Louisiana’s Ten Commandments Poster Law for Some Public Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Appeals Court Upholds Ruling Blocking Louisiana’s Ten Commandments Poster Law for Some Public Schools](https://img.theepochtimes.com/assets/uploads/2024/11/id5763423-1.download-11-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-upholds-ruling-blocking-louisianas-ten-commandments-poster-law-for-some-public-schools-5763438)
 * [Trump Nominates Pete Hoekstra as Ambassador to Canada](https://www.theepochtimes.com/us/trump-nominates-pete-hoekstra-as-ambassador-to-canada-5763532)
     
-    2hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    8hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun) and [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
     
     [![Trump Nominates Pete Hoekstra as Ambassador to Canada](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Nominates Pete Hoekstra as Ambassador to Canada](https://img.theepochtimes.com/assets/uploads/2024/02/28/id5596607-GettyImages-1214865495-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-nominates-pete-hoekstra-as-ambassador-to-canada-5763532)
 * [What to Expect From DOGE](https://www.theepochtimes.com/article/what-to-expect-from-doge-5762369)
     
-    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    10hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![What to Expect From DOGE](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![What to Expect From DOGE](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763358-14_2-205x123.jpg.webp)](https://www.theepochtimes.com/article/what-to-expect-from-doge-5762369)
 * [Senate Judiciary Democrats Ask FBI for Investigative Files on Matt Gaetz](https://www.theepochtimes.com/us/senate-judiciary-democrats-ask-fbi-for-investigative-files-on-matt-gaetz-5763305)
     
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Senate Judiciary Democrats Ask FBI for Investigative Files on Matt Gaetz](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Senate Judiciary Democrats Ask FBI for Investigative Files on Matt Gaetz](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763513-Matt-Gaetz-GettyImages-1546546745KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-judiciary-democrats-ask-fbi-for-investigative-files-on-matt-gaetz-5763305)
 * [Luxury Carmaker Jaguar Launches Rebranding Campaign, Without Cars](https://www.theepochtimes.com/business/luxury-carmaker-jaguar-launches-rebranding-campaign-without-cars-5763380)
     
-    4hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    10hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
     
     [![Luxury Carmaker Jaguar Launches Rebranding Campaign, Without Cars](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Luxury Carmaker Jaguar Launches Rebranding Campaign, Without Cars](https://img.theepochtimes.com/assets/uploads/2021/02/15/Jaguar-Land-Rover-logo-205x123.jpg.webp)](https://www.theepochtimes.com/business/luxury-carmaker-jaguar-launches-rebranding-campaign-without-cars-5763380)
+    ![Luxury Carmaker Jaguar Launches Rebranding Campaign, Without Cars](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763582-new-jaguar-logo-205x123.jpg.webp)](https://www.theepochtimes.com/business/luxury-carmaker-jaguar-launches-rebranding-campaign-without-cars-5763380)
 * [Musk, Ramaswamy Publish Efficiency Department’s Plan to ‘Reform Government’](https://www.theepochtimes.com/us/musk-ramaswamy-publish-efficiency-departments-plan-to-reform-government-5763381)
     
-    4hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    10hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Musk, Ramaswamy Publish Efficiency Department’s Plan to ‘Reform Government’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Musk, Ramaswamy Publish Efficiency Department’s Plan to ‘Reform Government’](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759085-FotoJet-1-elon-vivek-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/musk-ramaswamy-publish-efficiency-departments-plan-to-reform-government-5763381)
 * [Ford to Cut 4,000 Jobs in Europe by 2027 Amid Electric Vehicle Sales Decline](https://www.theepochtimes.com/business/ford-to-cut-4000-jobs-in-europe-by-2027-amid-electric-vehicle-sales-decline-5763341)
     
-    5hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
+    10hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
     
     [![Ford to Cut 4,000 Jobs in Europe by 2027 Amid Electric Vehicle Sales Decline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Ford to Cut 4,000 Jobs in Europe by 2027 Amid Electric Vehicle Sales Decline](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763347-1.tagreuters.com2024binary_LYNXMPEKAH0FF-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/business/ford-to-cut-4000-jobs-in-europe-by-2027-amid-electric-vehicle-sales-decline-5763341)
-* [Gov. Hochul’s Decision to Unpause NYC Congestion Pricing Rekindles Debate](https://www.theepochtimes.com/us/gov-hochuls-decision-to-unpause-nyc-congestion-pricing-rekindles-debate-5763320)
-    
-    5hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
-    
-    [![Gov. Hochul’s Decision to Unpause NYC Congestion Pricing Rekindles Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Gov. Hochul’s Decision to Unpause NYC Congestion Pricing Rekindles Debate](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763514-1.tagreuters.com2024binary_LYNXMPEKAH0PO-FILEDIMAGEKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/gov-hochuls-decision-to-unpause-nyc-congestion-pricing-rekindles-debate-5763320)
-* [Day in Photos: Migration Toward the Border, 600,000 Without Power, and Real Madrid’s Lockers Sale](https://www.theepochtimes.com/article/day-in-photos-migration-toward-the-border-600000-without-power-and-real-madrids-lockers-sale-5762979)
-    
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Migration Toward the Border, 600,000 Without Power, and Real Madrid’s Lockers Sale](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Migration Toward the Border, 600,000 Without Power, and Real Madrid’s Lockers Sale](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763366-GettyImages-2185131423-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-migration-toward-the-border-600000-without-power-and-real-madrids-lockers-sale-5762979)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
