@@ -35,7 +35,8 @@
         * [NEW RELEASES](https://cowbellbrewing.com/pages/new-releases)
         * [CRAFT BEER](https://cowbellbrewing.com/pages/craft-beer)
         * [HARD CIDERS](https://cowbellbrewing.com/pages/ciders)
-        * [HIJINX](https://cowbellbrewing.com/collections/hijinx)
+        * [READY-TO-DRINK](https://cowbellbrewing.com/collections/hijinx)
+        * [NON-ALCOHOLIC](https://cowbellbrewing.com/collections/non-alcoholic-beer-1)
     * APPAREL & MERCH Expand submenu
         * Collapse submenu
             
@@ -71,7 +72,8 @@ Menu [🛒 CART](https://cowbellbrewing.com/cart) $0.00 Check out
         * [NEW RELEASES](https://cowbellbrewing.com/pages/new-releases)
         * [CRAFT BEER](https://cowbellbrewing.com/pages/craft-beer)
         * [HARD CIDERS](https://cowbellbrewing.com/pages/ciders)
-        * [HIJINX](https://cowbellbrewing.com/collections/hijinx)
+        * [READY-TO-DRINK](https://cowbellbrewing.com/collections/hijinx)
+        * [NON-ALCOHOLIC](https://cowbellbrewing.com/collections/non-alcoholic-beer-1)
     * [APPAREL & MERCH](https://cowbellbrewing.com/pages/apparel-merchandise)
         * [APPAREL](https://cowbellbrewing.com/collections/apparel)
         * [MERCH](https://cowbellbrewing.com/collections/merch)
