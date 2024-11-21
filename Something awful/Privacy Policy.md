@@ -205,25 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [How Will Children Understand WWII Without America's Hitler Statues?](https://www.somethingawful.com/news/history-statues-confederacy/)
-* [Completely Libelous Review of Universal Combat](https://www.somethingawful.com/game-reviews/completely-libelous-review/1/)
-* [Lord of the Rings: ON THE GO!](https://www.somethingawful.com/comedy-goldmine/lord-rings-on/1/)
-* [Worst Goon Gifts \[Receiving\]: (Part 2 of 2)](https://www.somethingawful.com/comedy-goldmine/worst-goon-gifts/1/)
-* [Welcome to the DynaMars Corporation Cycnus Station Update Kiosk](https://www.somethingawful.com/news/dynamars-kiosk3/1/)
+* [The Revenge of Tattoo SWAT](https://www.somethingawful.com/fashion-swat/tattoo-swat-revenge/1/)
+* [A Bear Walks into a Diner ...](https://www.somethingawful.com/photoshop-phriday/bear-ginger-ale/1/)
+* [Tales from the Zoo, Part Four](https://www.somethingawful.com/comedy-goldmine/tales-from-zoo-4/1/)
+* [Magazines from the Future!](https://www.somethingawful.com/photoshop-phriday/future-magazines/1/)
+* [Lost Comics of the Golden Age](https://www.somethingawful.com/news/golden-age-comics/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [What poor financial decisions do you regularly make?](http://forums.somethingawful.com/showthread.php?threadid=4075673 "What poor financial decisions do you regularly make?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [Name a Vibe](http://forums.somethingawful.com/showthread.php?threadid=4075712 "Name a Vibe")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have any goons lived in a halfway house?](http://forums.somethingawful.com/showthread.php?threadid=4075727 "Have any goons lived in a halfway house?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [Name a Vibe](http://forums.somethingawful.com/showthread.php?threadid=4075712 "Name a Vibe")
 
 ### Random Articles
 
-* [I AM ONE OF THE BACKSEAT OF DEPLORABLES WITH THE BAD FROG NOW](https://www.somethingawful.com/news/levi-pepe-deplorables/)
-* [Obama is the Antichrist](https://www.somethingawful.com/webcam-ward/catladyobama/)
-* [Hacky Sacky, Brown Paper Bag; Ain't Nothin Better than a Leprosy Gag](https://www.somethingawful.com/daily-dirt/hacky-sacky-brown/)
-* [Secret Weapons of the Space Force](https://www.somethingawful.com/news/space-force-weapons/)
-* [Look Ma! I'm Updating on a Holiday Again!](https://www.somethingawful.com/news/look-ma-im/)
+* [Tales from the Mental Hospital](https://www.somethingawful.com/comedy-goldmine/tales-from-mental/1/)
+* [The Least Essential Issues of Marvel's 'What If?'](https://www.somethingawful.com/news/marvel-what-if/)
+* [Available Treatments Offered at Campus Health Center](https://www.somethingawful.com/news/college-health-center/)
+* [Has Technology Gone Too Far???](https://www.somethingawful.com/news/technology-too-far/)
+* [You fudge with me, you fudge with the best!](https://www.somethingawful.com/awfulvision/wrestling-furries-scarface/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
