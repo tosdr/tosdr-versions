@@ -94,8 +94,6 @@ Search Clear  GO
 
 Verywell Mind's content is for informational and educational purposes only. Our website is not intended to be a substitute for professional medical advice, diagnosis, or treatment.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=8f15e7a5-6c05-47d8-bf12-8822d4d7cddd)
-
 Ⓒ 2024 Dotdash Media, Inc. — All rights reserved
 
 Terms of Service and Policies
