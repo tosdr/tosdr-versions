@@ -81,11 +81,15 @@ All
 
 ### Pricing Sheet
 
+Get transparent, straightforward pricing on all bunq services, so you know exactly what to expect.
+
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Personal Account T&C
+
+Read the terms designed to keep your bunq Personal Account safe, easy, and hassle-free.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/personal-account)
 
@@ -93,11 +97,15 @@ All
 
 ### Business Account T&C
 
+Read the terms that keep your bunq Business Account efficient, clear, and ready to support your goals.
+
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
 ### Privacy Policy
+
+See how bunq protects your privacy, ensuring your data is handled safely and transparently.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
@@ -105,11 +113,15 @@ All
 
 ### Cookie Statement
 
+Find out how bunq uses cookies to improve your experience while respecting your privacy.
+
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
 
 [![](https://framerusercontent.com/images/PlL8EXOrpUnCAigq8maiB7C4E.svg)
 
 ### 2024 SREP Decision Statement
+
+Read about the 2024 regulatory review of bunq’s strong, sustainable growth.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/srep-decision-2024)
 
@@ -117,11 +129,15 @@ All
 
 ### Responsible Disclosure Policy
 
+bunq’s Responsible Disclosure Policy encourages safe, secure reporting of vulnerabilities.
+
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/responsible-disclosure)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### API T&C
+
+Access guidelines for using bunq’s secure API, empowering developers to create and innovate with confidence.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/api)
 
@@ -129,11 +145,15 @@ All
 
 ### App Directory T&C
 
+Learn about the terms for the bunq App Directory, your gateway to useful tools and enhancements.
+
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### bunq.com T&C
+
+Read the terms for using bunq.com that provide you with a safe, smooth experience every time.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/website)
 
@@ -155,11 +175,15 @@ All
 
 ### Pricing Sheet
 
+Get transparent, straightforward pricing on all bunq services, so you know exactly what to expect.
+
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Personal Account T&C
+
+Read the terms designed to keep your bunq Personal Account safe, easy, and hassle-free.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/personal-account)
 
@@ -167,11 +191,15 @@ All
 
 ### Business Account T&C
 
+Read the terms that keep your bunq Business Account efficient, clear, and ready to support your goals.
+
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
 ### Privacy Policy
+
+See how bunq protects your privacy, ensuring your data is handled safely and transparently.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
@@ -179,11 +207,15 @@ All
 
 ### Cookie Statement
 
+Find out how bunq uses cookies to improve your experience while respecting your privacy.
+
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
 
 [![](https://framerusercontent.com/images/PlL8EXOrpUnCAigq8maiB7C4E.svg)
 
 ### 2024 SREP Decision Statement
+
+Read about the 2024 regulatory review of bunq’s strong, sustainable growth.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/srep-decision-2024)
 
@@ -191,11 +223,15 @@ All
 
 ### Responsible Disclosure Policy
 
+bunq’s Responsible Disclosure Policy encourages safe, secure reporting of vulnerabilities.
+
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/responsible-disclosure)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### API T&C
+
+Access guidelines for using bunq’s secure API, empowering developers to create and innovate with confidence.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/api)
 
@@ -203,11 +239,15 @@ All
 
 ### App Directory T&C
 
+Learn about the terms for the bunq App Directory, your gateway to useful tools and enhancements.
+
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### bunq.com T&C
+
+Read the terms for using bunq.com that provide you with a safe, smooth experience every time.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/website)
 
@@ -229,61 +269,81 @@ All
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### Pricing Sheet](https://www.bunq.com/assets/media/legal/en/documents/pricing)
+### Pricing Sheet
+
+Get transparent, straightforward pricing on all bunq services, so you know exactly what to expect.](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### Personal Account T&C](https://www.bunq.com/assets/media/legal/en/documents/personal-account)
+### Personal Account T&C
+
+Read the terms designed to keep your bunq Personal Account safe, easy, and hassle-free.](https://www.bunq.com/assets/media/legal/en/documents/personal-account)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### Business Account T&C](https://www.bunq.com/assets/media/legal/en/documents/business-account)
+### Business Account T&C
+
+Read the terms that keep your bunq Business Account efficient, clear, and ready to support your goals.](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
+### Privacy Policy
+
+See how bunq protects your privacy, ensuring your data is handled safely and transparently.](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### Cookie Statement](https://www.bunq.com/assets/media/legal/en/documents/cookies)
+### Cookie Statement
+
+Find out how bunq uses cookies to improve your experience while respecting your privacy.](https://www.bunq.com/assets/media/legal/en/documents/cookies)
 
 [![](https://framerusercontent.com/images/PlL8EXOrpUnCAigq8maiB7C4E.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### 2024 SREP Decision Statement](https://www.bunq.com/assets/media/legal/en/documents/srep-decision-2024)
+### 2024 SREP Decision Statement
+
+Read about the 2024 regulatory review of bunq’s strong, sustainable growth.](https://www.bunq.com/assets/media/legal/en/documents/srep-decision-2024)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### Responsible Disclosure Policy](https://www.bunq.com/assets/media/legal/en/documents/responsible-disclosure)
+### Responsible Disclosure Policy
+
+bunq’s Responsible Disclosure Policy encourages safe, secure reporting of vulnerabilities.](https://www.bunq.com/assets/media/legal/en/documents/responsible-disclosure)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### API T&C](https://www.bunq.com/assets/media/legal/en/documents/api)
+### API T&C
+
+Access guidelines for using bunq’s secure API, empowering developers to create and innovate with confidence.](https://www.bunq.com/assets/media/legal/en/documents/api)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### App Directory T&C](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
+### App Directory T&C
+
+Learn about the terms for the bunq App Directory, your gateway to useful tools and enhancements.](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
-### bunq.com T&C](https://www.bunq.com/assets/media/legal/en/documents/website)
+### bunq.com T&C
+
+Read the terms for using bunq.com that provide you with a safe, smooth experience every time.](https://www.bunq.com/assets/media/legal/en/documents/website)
 
 Load more
 
