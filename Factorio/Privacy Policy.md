@@ -58,7 +58,7 @@ DATA PRIVACY POLICY
         
     * When you order merchandise from our shop
         
-    * When you access and use our Factorio Forum or Factorio Wiki
+    * When you access and use our Factorio Forum, Factorio Wiki or the Factorio Mod Portal
         
     * When you communicate with us through designated channels
         
@@ -119,7 +119,7 @@ DATA PRIVACY POLICY
         
         * Google, Dropbox, Trello for the purposes of communicating between our team members and for the purposes of data storing
             
-        * Monglab.com, Linode for the purposes of running our products and related databases – for example, if you set up a forum account, your data will be stored and maintained by Linode as our third party provider.
+        * [MongoDB Atlas](https://www.mongodb.com/atlas), [Linode](https://www.linode.com/), [Heroku](https://heroku.com/) and [Redis](https://redis.io/cloud/) for the purposes of running our products and related databases – for example, if you set up a forum account, your data will be stored and maintained by Linode as our third party provider.
             
         * Steam, GOG, Humble, Shopify, PayPal for the purposes of selling our products and merch.
             
@@ -127,6 +127,7 @@ DATA PRIVACY POLICY
             
         * The Official Factorio forum. It only collects minimal data needed to serve the forum. It has its own privacy policy [here](https://forums.factorio.com/ucp.php?mode=privacy), Which only applies if you register a Forum account.
             
+        * [CDN77](https://www.cdn77.com/), [Cloudflare](https://www.cloudflare.com/) and [jsDelivr](https://www.jsdelivr.com/) to provide fast access to our websites for users all over the globe.
         * Our cooperating code developers and external team members and consultants.
             
         * External persons providing us with accounting and legal services.
