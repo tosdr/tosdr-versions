@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-luladasilva-1200x630.jpg)](https://americanwirenews.com/musk-responds-after-brazils-first-lady-fires-an-fk-you-at-him/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-rogan-drug-cartel-1200x630.png)](https://americanwirenews.com/they-have-fcking-no-clue-joe-rogan-mulls-trump-using-tier-1-units-against-mexican-drug-cartels/)
 
-[Musk responds after Brazil’s first lady fires an ‘F\*\*k you’ at him](https://americanwirenews.com/musk-responds-after-brazils-first-lady-fires-an-fk-you-at-him/)
+[‘They have f\*cking no clue’: Joe Rogan mulls Trump using Tier 1 units against Mexican drug cartels](https://americanwirenews.com/they-have-fcking-no-clue-joe-rogan-mulls-trump-using-tier-1-units-against-mexican-drug-cartels/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sunny-hostin-1200x630.png)](https://americanwirenews.com/sunny-hostin-looks-sick-as-shes-forced-to-read-disclaimer-about-gaetz-slime-job/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-morning-joe-1-1200x630.jpg)](https://americanwirenews.com/morning-joe-in-free-fall-since-meeting-with-trump-forced-to-turn-off-social-media-comments/)
 
-[Sunny Hostin looks sick as she’s forced to read disclaimer about Gaetz slime job](https://americanwirenews.com/sunny-hostin-looks-sick-as-shes-forced-to-read-disclaimer-about-gaetz-slime-job/)
+[‘Morning Joe’ in free fall since meeting with Trump, forced to turn off social media comments](https://americanwirenews.com/morning-joe-in-free-fall-since-meeting-with-trump-forced-to-turn-off-social-media-comments/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sephora-djt1-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/sephora-denies-rumors-about-trump-involvement-but-boycott-campaign-is-spreading-fast/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-949931608-1024x536-1-1200x630.jpg)](https://americanwirenews.com/mtg-proposes-game-changing-idea-to-resolve-trans-bathroom-dilemma/)
 
-[Sephora denies rumors about Trump involvement, but boycott campaign is spreading fast](https://americanwirenews.com/sephora-denies-rumors-about-trump-involvement-but-boycott-campaign-is-spreading-fast/)
+Getty Images
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182909970-1200x630.jpg)](https://americanwirenews.com/kamala-unburdens-herself-with-vacation-in-hawaii/)
+[MTG proposes game-changing idea to resolve trans bathroom dilemma](https://americanwirenews.com/mtg-proposes-game-changing-idea-to-resolve-trans-bathroom-dilemma/)
 
-(Getty Images)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetz-1-1200x630.jpg)](https://americanwirenews.com/hes-getting-confirmed-jd-vance-matt-gaetz-arrive-in-dc-to-meet-with-gop-senators/)
 
-[Kamala unburdens herself with vacation in Hawaii](https://americanwirenews.com/kamala-unburdens-herself-with-vacation-in-hawaii/)
+[‘He’s getting confirmed’: JD Vance, Matt Gaetz arrive in DC to meet with GOP senators](https://americanwirenews.com/hes-getting-confirmed-jd-vance-matt-gaetz-arrive-in-dc-to-meet-with-gop-senators/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-djt-johnson-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/house-republicans-mull-move-to-stop-obstructionist-senate-on-recess-appointments/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-austin-1200x630.jpg)](https://americanwirenews.com/def-sec-austin-toes-dei-line-says-women-in-military-make-us-stronger/)
 
-[House Republicans mull move to stop obstructionist Senate on recess appointments](https://americanwirenews.com/house-republicans-mull-move-to-stop-obstructionist-senate-on-recess-appointments/)
+[Def Sec Austin toes DEI line, says women in military ‘make us stronger’](https://americanwirenews.com/def-sec-austin-toes-dei-line-says-women-in-military-make-us-stronger/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bosa-trump-dance-1200x630.jpg)](https://americanwirenews.com/nfl-makes-surprising-call-over-disciplining-players-doing-the-trump-dance/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-alex-jones-1200x630.jpg)](https://americanwirenews.com/alex-jones-turns-tables-sues-the-onion-sandy-hook-families-over-rigged-infowars-auction/)
 
-[NFL makes surprising call over disciplining players doing the ‘Trump dance’](https://americanwirenews.com/nfl-makes-surprising-call-over-disciplining-players-doing-the-trump-dance/)
+[Alex Jones turns tables, sues The Onion, Sandy Hook families over ‘rigged’ Infowars auction](https://americanwirenews.com/alex-jones-turns-tables-sues-the-onion-sandy-hook-families-over-rigged-infowars-auction/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2185632401-1200x630.jpg)](https://americanwirenews.com/president-elect-donald-trump-and-family-enjoy-spacex-launch-with-elon-musk-in-texas/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-leno-1200x630.jpg)](https://americanwirenews.com/im-a-little-beat-up-injured-jay-leno-still-performs-at-comedy-show-after-falling-down-60-ft-hill/)
 
-(Photo by Brandon Bell/Getty Images)
+[‘I’m a little beat up’: Injured Jay Leno still performs at comedy show after falling down 60-ft hill](https://americanwirenews.com/im-a-little-beat-up-injured-jay-leno-still-performs-at-comedy-show-after-falling-down-60-ft-hill/)
 
-[President Elect Donald Trump and family enjoy SpaceX launch with Elon Musk in Texas](https://americanwirenews.com/president-elect-donald-trump-and-family-enjoy-spacex-launch-with-elon-musk-in-texas/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1090671326-1-1200x630.jpg)](https://americanwirenews.com/alec-baldwin-continues-to-increase-my-pain-halyna-hutchins-mother-rejects-rust-premiere-invite/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-walmart-1200x630.jpg)](https://americanwirenews.com/looks-like-walmart-is-doing-some-cya-after-trump-win/)
+(Photo by Fred Hayes/Getty Images for SAGindie)
 
-[Looks like Walmart is doing some CYA after Trump win](https://americanwirenews.com/looks-like-walmart-is-doing-some-cya-after-trump-win/)
+[‘Alec Baldwin continues to increase my pain’: Halyna Hutchins’ mother rejects ‘Rust’ premiere invite](https://americanwirenews.com/alec-baldwin-continues-to-increase-my-pain-halyna-hutchins-mother-rejects-rust-premiere-invite/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laken-riley-murderer--1200x630.png)
 
@@ -82,17 +82,9 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-leno-220x180.jpg)](https://americanwirenews.com/im-a-little-beat-up-injured-jay-leno-still-performs-at-comedy-show-after-falling-down-60-ft-hill/)
-
-[‘I’m a little beat up’: Injured Jay Leno still performs at comedy show after falling down 60-ft hill](https://americanwirenews.com/im-a-little-beat-up-injured-jay-leno-still-performs-at-comedy-show-after-falling-down-60-ft-hill/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fetterman-oz-220x180.jpg)](https://americanwirenews.com/fetterman-names-condition-that-would-propel-him-to-confirm-dr-oz-for-cms-administrator/)
 
 [Fetterman names condition that would propel him to confirm Dr. Oz for CMS administrator](https://americanwirenews.com/fetterman-names-condition-that-would-propel-him-to-confirm-dr-oz-for-cms-administrator/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetz-1-220x180.jpg)](https://americanwirenews.com/hes-getting-confirmed-jd-vance-matt-gaetz-arrive-in-dc-to-meet-with-gop-senators/)
-
-[‘He’s getting confirmed’: JD Vance, Matt Gaetz arrive in DC to meet with GOP senators](https://americanwirenews.com/hes-getting-confirmed-jd-vance-matt-gaetz-arrive-in-dc-to-meet-with-gop-senators/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-zelenskyy-220x180.jpg)](https://americanwirenews.com/latest-biden-policy-reversal-further-escalates-ukraine-conflict-ahead-of-trump-inauguration/)
 
@@ -100,37 +92,9 @@ Search for:
 
 (Official White House Photo by Adam Schultz)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-949931608-1024x536-1-220x180.jpg)](https://americanwirenews.com/mtg-proposes-game-changing-idea-to-resolve-trans-bathroom-dilemma/)
-
-[MTG proposes game-changing idea to resolve trans bathroom dilemma](https://americanwirenews.com/mtg-proposes-game-changing-idea-to-resolve-trans-bathroom-dilemma/)
-
-Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-austin-220x180.jpg)](https://americanwirenews.com/def-sec-austin-toes-dei-line-says-women-in-military-make-us-stronger/)
-
-[Def Sec Austin toes DEI line, says women in military ‘make us stronger’](https://americanwirenews.com/def-sec-austin-toes-dei-line-says-women-in-military-make-us-stronger/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-rogan-drug-cartel-220x180.png)](https://americanwirenews.com/they-have-fcking-no-clue-joe-rogan-mulls-trump-using-tier-1-units-against-mexican-drug-cartels/)
-
-[‘They have f\*cking no clue’: Joe Rogan mulls Trump using Tier 1 units against Mexican drug cartels](https://americanwirenews.com/they-have-fcking-no-clue-joe-rogan-mulls-trump-using-tier-1-units-against-mexican-drug-cartels/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1090671326-1-220x180.jpg)](https://americanwirenews.com/alec-baldwin-continues-to-increase-my-pain-halyna-hutchins-mother-rejects-rust-premiere-invite/)
-
-[‘Alec Baldwin continues to increase my pain’: Halyna Hutchins’ mother rejects ‘Rust’ premiere invite](https://americanwirenews.com/alec-baldwin-continues-to-increase-my-pain-halyna-hutchins-mother-rejects-rust-premiere-invite/)
-
-(Photo by Fred Hayes/Getty Images for SAGindie)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-babylon-bee-220x180.jpg)](https://americanwirenews.com/discredited-southern-poverty-law-center-doxxes-babylon-bee-linked-writers/)
 
 [‘Discredited’ Southern Poverty Law Center doxxes Babylon Bee-linked writers](https://americanwirenews.com/discredited-southern-poverty-law-center-doxxes-babylon-bee-linked-writers/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-alex-jones-220x180.jpg)](https://americanwirenews.com/alex-jones-turns-tables-sues-the-onion-sandy-hook-families-over-rigged-infowars-auction/)
-
-[Alex Jones turns tables, sues The Onion, Sandy Hook families over ‘rigged’ Infowars auction](https://americanwirenews.com/alex-jones-turns-tables-sues-the-onion-sandy-hook-families-over-rigged-infowars-auction/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-morning-joe-1-220x180.jpg)](https://americanwirenews.com/morning-joe-in-free-fall-since-meeting-with-trump-forced-to-turn-off-social-media-comments/)
-
-[‘Morning Joe’ in free fall since meeting with Trump, forced to turn off social media comments](https://americanwirenews.com/morning-joe-in-free-fall-since-meeting-with-trump-forced-to-turn-off-social-media-comments/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-3-220x180.png)](https://americanwirenews.com/political-bomb-former-general-claims-accountability-efforts-by-trump-over-afghan-exit-bad-for-morale/)
 
@@ -160,6 +124,46 @@ Getty Images
 
 [Trans activist threatens to bash Mace’s head in the floor of Congressional restroom](https://americanwirenews.com/trans-activist-threatens-to-bash-maces-head-in-the-floor-of-congressional-restroom/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-walmart-220x180.jpg)](https://americanwirenews.com/looks-like-walmart-is-doing-some-cya-after-trump-win/)
+
+[Looks like Walmart is doing some CYA after Trump win](https://americanwirenews.com/looks-like-walmart-is-doing-some-cya-after-trump-win/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2185632401-220x180.jpg)](https://americanwirenews.com/president-elect-donald-trump-and-family-enjoy-spacex-launch-with-elon-musk-in-texas/)
+
+[President Elect Donald Trump and family enjoy SpaceX launch with Elon Musk in Texas](https://americanwirenews.com/president-elect-donald-trump-and-family-enjoy-spacex-launch-with-elon-musk-in-texas/)
+
+(Photo by Brandon Bell/Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bosa-trump-dance-220x180.jpg)](https://americanwirenews.com/nfl-makes-surprising-call-over-disciplining-players-doing-the-trump-dance/)
+
+[NFL makes surprising call over disciplining players doing the ‘Trump dance’](https://americanwirenews.com/nfl-makes-surprising-call-over-disciplining-players-doing-the-trump-dance/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-djt-johnson-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/house-republicans-mull-move-to-stop-obstructionist-senate-on-recess-appointments/)
+
+[House Republicans mull move to stop obstructionist Senate on recess appointments](https://americanwirenews.com/house-republicans-mull-move-to-stop-obstructionist-senate-on-recess-appointments/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2182909970-220x180.jpg)](https://americanwirenews.com/kamala-unburdens-herself-with-vacation-in-hawaii/)
+
+[Kamala unburdens herself with vacation in Hawaii](https://americanwirenews.com/kamala-unburdens-herself-with-vacation-in-hawaii/)
+
+(Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sephora-djt1-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/sephora-denies-rumors-about-trump-involvement-but-boycott-campaign-is-spreading-fast/)
+
+[Sephora denies rumors about Trump involvement, but boycott campaign is spreading fast](https://americanwirenews.com/sephora-denies-rumors-about-trump-involvement-but-boycott-campaign-is-spreading-fast/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sunny-hostin-220x180.png)](https://americanwirenews.com/sunny-hostin-looks-sick-as-shes-forced-to-read-disclaimer-about-gaetz-slime-job/)
+
+[Sunny Hostin looks sick as she’s forced to read disclaimer about Gaetz slime job](https://americanwirenews.com/sunny-hostin-looks-sick-as-shes-forced-to-read-disclaimer-about-gaetz-slime-job/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-musk-luladasilva-220x180.jpg)](https://americanwirenews.com/musk-responds-after-brazils-first-lady-fires-an-fk-you-at-him/)
+
+[Musk responds after Brazil’s first lady fires an ‘F\*\*k you’ at him](https://americanwirenews.com/musk-responds-after-brazils-first-lady-fires-an-fk-you-at-him/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-msnbcal-1200-x-628-220x180.jpg)](https://americanwirenews.com/al-sharpton-has-a-beef-with-trump-over-cabinet-picks-and-guess-what-it-is/)
+
+[Al Sharpton has a beef with Trump over Cabinet picks and guess what it is](https://americanwirenews.com/al-sharpton-has-a-beef-with-trump-over-cabinet-picks-and-guess-what-it-is/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Trump-Courtroom-220x180.jpg)](https://americanwirenews.com/alvin-bragg-weighs-next-steps-in-hush-money-case-against-trump/)
 
 [Alvin Bragg weighs next steps in ‘hush money’ case against Trump](https://americanwirenews.com/alvin-bragg-weighs-next-steps-in-hush-money-case-against-trump/)
@@ -179,10 +183,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-10-220x180.jpg)](https://americanwirenews.com/dems-looking-toward-2028-poll-for-party-nomination-and-you-wont-believe-who-tops-the-list/)
 
 [Dems looking toward 2028 poll for party nomination and you won’t BELIEVE who tops the list](https://americanwirenews.com/dems-looking-toward-2028-poll-for-party-nomination-and-you-wont-believe-who-tops-the-list/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-homan-1-220x180.jpg)](https://americanwirenews.com/game-on-tom-homan-responds-to-not-very-smart-boston-mayor-who-vows-to-defy-immigration-reform/)
-
-[‘Game on’: Tom Homan responds to ‘not very smart’ Boston mayor who vows to defy immigration reform](https://americanwirenews.com/game-on-tom-homan-responds-to-not-very-smart-boston-mayor-who-vows-to-defy-immigration-reform/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
