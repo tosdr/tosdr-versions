@@ -455,4 +455,4 @@ FOLLOW US
 
 Copyright © 2024 [AreYouGame.com](https://areyougame.com/). [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
-{"themeColor":"#000000","iconColor":"#574cd5","showLogo":true,"topBottomPosition":1,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"top-left"}
+{"themeColor":"#000000","iconColor":"#574cd5","showLogo":true,"topBottomPosition":1,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"bottom-right"}
