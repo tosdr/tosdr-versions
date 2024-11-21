@@ -233,7 +233,7 @@
 Terms of Service: Payment and Rewards
 =====================================
 
-Last modified: 4 October 2024
+Last modified: 21 November 2024
 
 **Important** – please read these terms carefully. By using the Service (as defined below), you agree that you have read, understood, accepted and agreed with the Terms of Service. You further agree to the representations made by yourself below. If you do not agree to or fall within the Terms of Service and wish to discontinue using the Service, please do not continue using the Application (as defined below) or the Service.
 
@@ -298,7 +298,7 @@ Pursuant to the Payment Services Act 2019 and MAS Notice PSN08 Notice to license
 **3\. GrabPay Credits**
 
 * You may purchase and hold credits for the GrabPay Wallet (“GrabPay Credits”) via a Funding Source in Singapore Dollars or such other foreign currencies that are offered.
-* Other than for those GrabPay Driver Wallet and GrabPay Merchant Wallet Users notified in writing to the contrary, the maximum amount of GrabPay Credits that a User of the GrabPay Wallet can hold at any time is S$5,000 (or such equivalent aggregate amount in foreign currencies), or such lesser limit as is notified to you under the Application) and the total value of consumer payment transactions using the GrabPay Wallet in a calendar year may not exceed S$30,000 (or such equivalent aggregate amount in foreign currencies).
+* Other than for those GrabPay Driver Wallet and GrabPay Merchant Wallet Users notified in writing to the contrary, the maximum amount of GrabPay Credits that a User of the GrabPay Wallet can hold at any time is S$5,000 (or such equivalent aggregate amount in foreign currencies), or such lesser limit as is notified to you under the Application) and the total value of consumer payment transactions using the GrabPay Wallet in a calendar year may not exceed S$30,000 or $100,000 (applicable to eligible Users only) (or such equivalent aggregate amount in foreign currencies) or such lesser limit as is notified to you under the Application.
 * You may transfer GrabPay Credits funds between currency pockets held in your GrabPay Wallet at the applicable daily exchange rate, which rate shall be notified to you immediately prior to completing the transaction.
 * If you purchase GrabPay Credits via any Funding Source, you are deemed to have agreed to the terms of service of the Company’s processing partners and your financial institution. You will bear all fees that may be charged by such processing partners and/or your financial institution (if any) for the payment method you have selected.
 * The Company may at its sole and absolute discretion reject your request to purchase GrabPay Credits or reject a payment transaction, or refund a payment or other transaction, for any reason whatsoever, including without limitation, where your proposed GrabPay Credits purchase:
