@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Climate change has amped up hurricane wind speeds by 29 kph on average](https://www.sciencenews.org/article/climate-change-hurricane-wind-speeds)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")22 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")November 20, 2024
             
         * [Oceans](https://www.sciencenews.org/topic/oceans)
             
@@ -199,23 +199,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Space
         ---------------------
         
+        * [Astronomy](https://www.sciencenews.org/topic/astronomy)
+            
+            ### [This is the first close-up image of a star beyond our galaxy](https://www.sciencenews.org/article/first-close-image-star-beyond-galaxy)
+            
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")2 hours ago
+            
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
             ### [Mars’ potato-shaped moons could be the remains of a shredded asteroid](https://www.sciencenews.org/article/mars-moons-shredded-asteroid)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")15 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")21 hours ago
             
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
             
             ### [Einstein’s gravity endures despite a dark energy puzzle](https://www.sciencenews.org/article/einstein-gravity-dark-energy-desi) 
             
             By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 19, 2024
-            
-        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
-            
-            ### [A first look at rocks from the lunar farside create a volcanic mystery](https://www.sciencenews.org/article/first-look-rocks-lunar-volcanic-mystery)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")November 15, 2024
             
 
 Terms of Service
