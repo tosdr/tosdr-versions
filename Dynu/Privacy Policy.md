@@ -240,15 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Priority Support
+### 90% Renewals
 
   
-
-#### Priority Support is staffed with experienced technicians and is an immediate, hands on approach to solving your unique problems.
-
-  
-
-[Get Priority Support](https://www.dynu.com/Membership)  
+Over 90% of our clients renew their services for over one year.  
   
 
 ### News
