@@ -228,25 +228,25 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
-
-[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
 [Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+
+[Learning Disorders](https://www.sciencedaily.com/news/mind_brain/learning_disorders/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
-
 [Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+
+[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Biotechnology](https://www.sciencedaily.com/news/plants_animals/biotechnology/)
+[Mice](https://www.sciencedaily.com/news/plants_animals/mice/)
 
-[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
+[Virology](https://www.sciencedaily.com/news/plants_animals/viruses/)
 
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
