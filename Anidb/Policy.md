@@ -1,4 +1,4 @@
-HINT: Don't rename files manually. An AniDB client can rename your files, to your specifications, all automatically.
+HINT: AniDB can fully automatically create a list of all anime on your harddisk. Get [organised now](https://wiki.anidb.net/w/AniDB_Clients)!
 
 * Menu
     
@@ -58,7 +58,7 @@ I'm Feeling Lucky
 AniDB Policies
 ==============
 
-[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=uqqisuz)
+[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=yqfztpjg)
 
 AniDB Policies: General Terms of Service (TOS) and Privacy Policy
 -----------------------------------------------------------------
@@ -372,10 +372,10 @@ _This document was last updated on 14.01.2023 22:40._
 
 [AniDB](https://anidb.net/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-v 2022-04, © 2002-2022 by AniDB; all rights reserved. \[1s\] - 20.11.2024 18:50:14
+v 2022-04, © 2002-2022 by AniDB; all rights reserved. \[0s\] - 21.11.2024 00:50:26
 
 [Home](https://anidb.net/) ![AniDB](https://cdn-us.anidb.net/css/assets/images/touch/android-chrome-512x512.png) AniDB
 
 [Twitter](https://twitter.com/AniDBStatus "Stay up2date with AniDB on Twitter!") [Become a patron!](https://www.patreon.com/AniDB "Become a patron for AniDB!")
 
-[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=uqqisuz)
+[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=yqfztpjg)
