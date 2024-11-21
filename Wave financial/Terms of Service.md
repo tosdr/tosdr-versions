@@ -113,22 +113,24 @@ For Canadian Businesses
 
 [![Facebook logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624defe4c099444b40de10b0_facebook-icon.svg)](https://www.facebook.com/WaveHQ/)[![Twitter logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624defe4c09944209ade10ac_twitter-icon.svg)](https://twitter.com/WaveHQ)[![Instagram logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624defe4c099442728de10ae_instagram-icon.svg)](https://www.instagram.com/wave_hq/)[![Linkedin logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624defe4c09944aacbde10af_linkedin-icon.svg)](https://ca.linkedin.com/company/wave-hq)[![Youtube logo](https://cdn.prod.website-files.com/62446230dcb514b828a6e237/624defe4c099447956de10ad_youtube-icon.svg)](https://www.youtube.com/channel/UC7HjEprcJT0b3-jqVMRLjIQ)
 
-#### Features
+Features
+========
 
-* [Accounting software](https://www.waveapps.com/accounting)
-* [Invoicing software](https://www.waveapps.com/invoicing)
-* [Estimates software](https://www.waveapps.com/estimates-software)
+* [Accounting](https://www.waveapps.com/accounting)
+* [Invoicing](https://www.waveapps.com/invoicing)
+* [Estimates](https://www.waveapps.com/estimates-software)
 * [Wave app](https://www.waveapps.com/wave-app)
 * [Mobile receipts](https://www.waveapps.com/receipts)
 * [Payments](https://www.waveapps.com/payments)
-* [Payroll software](https://www.waveapps.com/payroll)
-* [Wave Advisors](https://www.waveapps.com/wave-advisors)
+* [Payroll](https://www.waveapps.com/payroll)
+* [Advisors](https://www.waveapps.com/wave-advisors)
 * [Pricing](https://www.waveapps.com/pricing)
 * [Credit card payments](https://www.waveapps.com/payments/credit-cards)
 * [Bank payments](https://www.waveapps.com/payments/bank-payments)
 * [Recurring billing](https://www.waveapps.com/payments/recurring-billing)
 
-#### Wave
+Wave
+====
 
 * [About Us](https://www.waveapps.com/about-us/about)
 * [Careers](https://www.waveapps.com/about-us/careers)
@@ -136,7 +138,8 @@ For Canadian Businesses
 * [Become an affiliate](https://www.waveapps.com/affiliate)
 * [Sitemap](https://www.waveapps.com/sitemap)
 
-#### Helpful Links
+Helpful Links
+=============
 
 * [Blog](https://www.waveapps.com/blog)
 * [Help Center](https://support.waveapps.com/)
@@ -148,7 +151,8 @@ For Canadian Businesses
 * [Freelance Hub](https://www.waveapps.com/freelancing)
 * [Small business study](https://www.waveapps.com/microbusiness-payments-report)
 
-#### Support & Tools
+Support & Tools
+===============
 
 * [How support works](https://www.waveapps.com/help)
 * [System status](https://status.waveapps.com/)
