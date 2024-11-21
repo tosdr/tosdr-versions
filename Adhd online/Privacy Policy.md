@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-**🍂** **Thanksgiving holiday hours. [Click here.](#thanksgiving)**
+**🍂****[Thanksgiving holiday hours](#thanksgiving)**
 
 [![ADHD Online from Mentavi Health](https://adhdonline.com/wp-content/uploads/2022/09/ADHD-Online-Full-Color-Logo-November-2023.png)](https://adhdonline.com/)
 
@@ -377,7 +377,7 @@ Your involvement will help improve mental health care for everyone.
 
 ### ADHD Online will be closed on Thursday, November 28 and Friday, November 29 in observance of Thanksgiving.
 
-Live support will be unavailable during this time, but you can always [submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave a voice message. We’ll get back to you when we return on Monday, December 1.
+Live support will be unavailable during this time, but you can always [submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave a voice message. We’ll get back to you when we return on Monday, December 2.
 
 Each of our clinicians sets their own holiday hours. Check with your doctor for availability.
 
