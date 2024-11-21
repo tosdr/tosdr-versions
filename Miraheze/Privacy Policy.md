@@ -101,30 +101,12 @@ From Miraheze Meta, Miraheze's central coordination wiki
 
 Other languages:
 
-* [Avañe'ẽ](https://meta.miraheze.org/wiki/Privacy_Policy/gn "Tekojepe'a hekorã (2% translated)")
-* [Bahasa Indonesia](https://meta.miraheze.org/wiki/Privacy_Policy/id "Kebijakan Privasi (2% translated)")
-* [Deutsch](https://meta.miraheze.org/wiki/Privacy_Policy/de "Datenschutzrichtlinie (2% translated)")
 * English
-* [Nederlands](https://meta.miraheze.org/wiki/Privacy_Policy/nl "Privacybeleid (2% translated)")
-* [Tiếng Việt](https://meta.miraheze.org/wiki/Privacy_Policy/vi "Quy định về quyền riêng tư (2% translated)")
-* [Türkçe](https://meta.miraheze.org/wiki/Privacy_Policy/tr "Gizlilik Politikası (2% translated)")
-* [dansk](https://meta.miraheze.org/wiki/Privacy_Policy/da "Privatlivspolitik (2% translated)")
 * [español](https://meta.miraheze.org/wiki/Privacy_Policy/es "Política de Privacidad (8% translated)")
-* [français](https://meta.miraheze.org/wiki/Privacy_Policy/fr "Politique de confidentialité (2% translated)")
-* [galego](https://meta.miraheze.org/wiki/Privacy_Policy/gl "Política de Privacidade (2% translated)")
-* [italiano](https://meta.miraheze.org/wiki/Privacy_Policy/it "Informativa sulla privacy (2% translated)")
-* [português do Brasil](https://meta.miraheze.org/wiki/Privacy_Policy/pt-br "Política de Privacidade (2% translated)")
-* [sicilianu](https://meta.miraheze.org/wiki/Privacy_Policy/scn "Policy supra la privacy (2% translated)")
-* [čeština](https://meta.miraheze.org/wiki/Privacy_Policy/cs "Pravidla ochrany osobních údajů (2% translated)")
-* [Ελληνικά](https://meta.miraheze.org/wiki/Privacy_Policy/el "Πολιτική Απορρήτου (2% translated)")
-* [русский](https://meta.miraheze.org/wiki/Privacy_Policy/ru "Политика конфиденциальности (2% translated)")
-* [العربية](https://meta.miraheze.org/wiki/Privacy_Policy/ar "سياسة الخصوصية (2% translated)")
 * [हिन्दी](https://meta.miraheze.org/wiki/Privacy_Policy/hi "गोपनीयता नीति (55% translated)")
-* [বাংলা](https://meta.miraheze.org/wiki/Privacy_Policy/bn "গোপনীয়তার নীতি (2% translated)")
 * [中文（简体）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-hans "隐私政策 (9% translated)")
 * [中文（繁體）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-hant "隱私權政策 (15% translated)")
 * [日本語](https://meta.miraheze.org/wiki/Privacy_Policy/ja "プライバシー・ポリシー (3% translated)")
-* [한국어](https://meta.miraheze.org/wiki/Privacy_Policy/ko "개인정보 보호정책 (2% translated)")
 
 |     |     |
 | --- | --- |
