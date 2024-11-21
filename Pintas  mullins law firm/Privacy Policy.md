@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How to find the best attorney for elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-to-find-the-best-attorney-for-elder-abuse-lawyer-scaled.jpg "How to Find the Best Attorney for Elder Abuse?")](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/ "How to Find the Best Attorney for Elder Abuse?")
+[![What is the mormon church saying about sex abuse allegations?](https://www.pintas.com/wp-content/uploads/2023/04/general-law-image-300x169.jpg "What Is the Mormon Church Saying About Sex Abuse Allegations?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-the-mormon-church-saying-about-sexual-abuse-claims/ "What Is the Mormon Church Saying About Sex Abuse Allegations?")
 
-[#### How to Find the Best Attorney for Elder Abuse?](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/)
+[#### What Is the Mormon Church Saying About Sex Abuse Allegations?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-the-mormon-church-saying-about-sexual-abuse-claims/)
 
-[![Is mesothelioma considered lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/is-mesothelioma-considered-lung-cancer-scaled.jpg "Is Mesothelioma Considered Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-considered-lung-cancer/ "Is Mesothelioma Considered Lung Cancer?")
+[![What test shows mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-test-shows-mesothelioma-scaled.jpg "What Test Shows Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/ "What Test Shows Mesothelioma?")
 
-[#### Is Mesothelioma Considered Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-considered-lung-cancer/)
+[#### What Test Shows Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/)
 
-[![Can a chest x-ray show asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-chest-xray-show-asbestos.jpg "Can a Chest X-ray Show Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/ "Can a Chest X-ray Show Asbestos?")
+[![Can i file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-i-file-a-talcum-powder-lawsuit.jpg "Can I File a Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/ "Can I File a Talcum Powder Lawsuit?")
 
-[#### Can a Chest X-ray Show Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/)
+[#### Can I File a Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
