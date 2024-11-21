@@ -138,7 +138,7 @@ Resource Library
 
 [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
 
-* [47-Day TLS: shorter certificate lifespans everywhere](https://www.sectigo.com/resource-library/47-day-tls-shorter-certificate-lifespans-everywhere)
+* [Learn, test, and implement your path to quantum readiness](https://www.sectigo.com/resource-library/learn-test-and-implement-your-path-to-quantum-readiness)
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
@@ -240,7 +240,7 @@ Login
     * [Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
-    * [47-Day TLS: shorter certificate lifespans everywhere](https://www.sectigo.com/resource-library/47-day-tls-shorter-certificate-lifespans-everywhere)
+    * [Learn, test, and implement your path to quantum readiness](https://www.sectigo.com/resource-library/learn-test-and-implement-your-path-to-quantum-readiness)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
     * [Root Causes 440: Public Key Directories](https://www.sectigo.com/resource-library/root-causes-440-public-key-directories)
     * [Root Causes 439: PQC Onramp Narrowed Down to 15 Candidates](https://www.sectigo.com/resource-library/root-causes-439-pqc-onramp-narrowed-down-to-15-candidates)
