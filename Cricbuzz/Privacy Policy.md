@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[MLRW vs HBHW - MLRW Won](https://www.cricbuzz.com/live-cricket-scores/101417/mlrw-vs-hbhw-35th-match-womens-big-bash-league-2024 "Melbourne Renegades Women v Hobart Hurricanes Women, 35th Match - MLRW Won")[AUS vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/91778/aus-vs-ind-1st-test-india-tour-of-australia-2024-25 "Australia v India, 1st Test - Preview")[PRSW vs SYSW - Complete](https://www.cricbuzz.com/live-cricket-scores/101411/prsw-vs-sysw-34th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Sydney Sixers Women, 34th Match - Complete")[SLA vs PAKA - Match drawn](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Match drawn")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/91778/aus-vs-ind-1st-test-india-tour-of-australia-2024-25 "Australia v India, 1st Test - Preview")[CBJ vs DEG - DEG Won](https://www.cricbuzz.com/live-cricket-scores/109411/cbj-vs-deg-3rd-match-abu-dhabi-t10-league-2024 "Chennai Brave Jaguars v Deccan Gladiators, 3rd Match - DEG Won")[BGT vs MSA - MSA Won](https://www.cricbuzz.com/live-cricket-scores/109407/bgt-vs-msa-2nd-match-abu-dhabi-t10-league-2024 "Bangla Tigers v Morrisville Samp Army, 2nd Match - MSA Won")[WI vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/95205/wi-vs-ban-1st-test-bangladesh-tour-of-west-indies-2024 "West Indies v Bangladesh, 1st Test - Preview")[MLRW vs HBHW - MLRW Won](https://www.cricbuzz.com/live-cricket-scores/101417/mlrw-vs-hbhw-35th-match-womens-big-bash-league-2024 "Melbourne Renegades Women v Hobart Hurricanes Women, 35th Match - MLRW Won")
 
 AllLive NowToday
 
@@ -66,25 +66,15 @@ AllLive NowToday
     
     Two-day warm-up Match
     
-* New Zealand tour of Sri Lanka, 2024
-    
-    [New Zealand vs Sri Lanka](https://www.cricbuzz.com/live-cricket-scores/108761/nz-vs-sl-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 3rd ODI - Complete")
-    
-    3rd ODI
-    
 * West Indies v Bangladesh, 2024
     
-    [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95205/wi-vs-ban-1st-test-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 1st Test - Upcoming")
+    [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95205/wi-vs-ban-1st-test-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 1st Test - Preview")
     
     1st Test
     
 * ICC Mens T20 World Cup Asia Qualifier B 2024
     
-    [Bahrain vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/108956/bhr-vs-sau-3rd-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bahrain v Saudi Arabia, 3rd Match - BHR Won")
-    
-    3rd Match
-    
-* [Bhutan vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108970/btn-vs-qat-5th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Qatar, 5th Match - QAT Won")
+    [Bhutan vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108970/btn-vs-qat-5th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Qatar, 5th Match - QAT Won")
     
     5th Match
     
@@ -108,13 +98,13 @@ AllLive NowToday
     
     9th Match
     
-* [Bhutan vs Bahrain](https://www.cricbuzz.com/live-cricket-scores/109005/btn-vs-bhr-10th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Bahrain, 10th Match - Upcoming")
-    
-    10th Match
-    
 * [Thailand vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/109012/thai-vs-uae-11th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v United Arab Emirates, 11th Match - Upcoming")
     
     11th Match
+    
+* [Bhutan vs Bahrain](https://www.cricbuzz.com/live-cricket-scores/109005/btn-vs-bhr-10th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Bahrain, 10th Match - Upcoming")
+    
+    10th Match
     
 * [Cambodia vs Qatar](https://www.cricbuzz.com/live-cricket-scores/109029/cbd-vs-qat-12th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Cambodia v Qatar, 12th Match - Upcoming")
     
@@ -126,43 +116,43 @@ AllLive NowToday
     
     1st Match
     
-* [Nigeria vs Saint Helena](https://www.cricbuzz.com/live-cricket-scores/109019/nga-vs-shn-3rd-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-c-2024 "Nigeria v Saint Helena, 3rd Match - Upcoming")
-    
-    3rd Match
-    
 * [Sierra Leone vs Ivory Coast](https://www.cricbuzz.com/live-cricket-scores/108998/sle-vs-civ-2nd-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-c-2024 "Sierra Leone v Ivory Coast, 2nd Match - Upcoming")
     
     2nd Match
+    
+* [Nigeria vs Saint Helena](https://www.cricbuzz.com/live-cricket-scores/109019/nga-vs-shn-3rd-match-icc-mens-t20-world-cup-africa-sub-regional-qualifier-c-2024 "Nigeria v Saint Helena, 3rd Match - Upcoming")
+    
+    3rd Match
     
 * T20 LEAGUE
     
     Abu Dhabi T10 League 2024
     
-    [Ajman Bolts vs Team Abu Dhabi](https://www.cricbuzz.com/live-cricket-scores/109400/ajmb-vs-ad-1st-match-abu-dhabi-t10-league-2024 "Ajman Bolts v Team Abu Dhabi, 1st Match - Complete")
+    [Ajman Bolts vs Team Abu Dhabi](https://www.cricbuzz.com/live-cricket-scores/109400/ajmb-vs-ad-1st-match-abu-dhabi-t10-league-2024 "Ajman Bolts v Team Abu Dhabi, 1st Match - AD Won")
     
     1st Match
     
-* [Morrisville Samp Army vs Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/109407/msa-vs-bgt-2nd-match-abu-dhabi-t10-league-2024 "Morrisville Samp Army v Bangla Tigers, 2nd Match - Toss")
+* [Bangla Tigers vs Morrisville Samp Army](https://www.cricbuzz.com/live-cricket-scores/109407/bgt-vs-msa-2nd-match-abu-dhabi-t10-league-2024 "Bangla Tigers v Morrisville Samp Army, 2nd Match - MSA Won")
     
     2nd Match
     
-* [Deccan Gladiators vs Chennai Brave Jaguars](https://www.cricbuzz.com/live-cricket-scores/109411/deg-vs-cbj-3rd-match-abu-dhabi-t10-league-2024 "Deccan Gladiators v Chennai Brave Jaguars, 3rd Match - Preview")
+* [Chennai Brave Jaguars vs Deccan Gladiators](https://www.cricbuzz.com/live-cricket-scores/109411/cbj-vs-deg-3rd-match-abu-dhabi-t10-league-2024 "Chennai Brave Jaguars v Deccan Gladiators, 3rd Match - DEG Won")
     
     3rd Match
     
-* [Northern Warriors vs Delhi Bulls](https://www.cricbuzz.com/live-cricket-scores/109418/nw-vs-dbl-4th-match-abu-dhabi-t10-league-2024 "Northern Warriors v Delhi Bulls, 4th Match - Upcoming")
+* [Northern Warriors vs Delhi Bulls](https://www.cricbuzz.com/live-cricket-scores/109418/nw-vs-dbl-4th-match-abu-dhabi-t10-league-2024 "Northern Warriors v Delhi Bulls, 4th Match - Preview")
     
     4th Match
     
-* [New York Strikers vs Morrisville Samp Army](https://www.cricbuzz.com/live-cricket-scores/109425/nys-vs-msa-5th-match-abu-dhabi-t10-league-2024 "New York Strikers v Morrisville Samp Army, 5th Match - Upcoming")
+* [New York Strikers vs Morrisville Samp Army](https://www.cricbuzz.com/live-cricket-scores/109425/nys-vs-msa-5th-match-abu-dhabi-t10-league-2024 "New York Strikers v Morrisville Samp Army, 5th Match - Preview")
     
     5th Match
     
-* [UP Nawabs vs Team Abu Dhabi](https://www.cricbuzz.com/live-cricket-scores/109428/upn-vs-ad-6th-match-abu-dhabi-t10-league-2024 "UP Nawabs v Team Abu Dhabi, 6th Match - Upcoming")
+* [UP Nawabs vs Team Abu Dhabi](https://www.cricbuzz.com/live-cricket-scores/109428/upn-vs-ad-6th-match-abu-dhabi-t10-league-2024 "UP Nawabs v Team Abu Dhabi, 6th Match - Preview")
     
     6th Match
     
-* [Ajman Bolts vs Deccan Gladiators](https://www.cricbuzz.com/live-cricket-scores/109432/ajmb-vs-deg-7th-match-abu-dhabi-t10-league-2024 "Ajman Bolts v Deccan Gladiators, 7th Match - Upcoming")
+* [Ajman Bolts vs Deccan Gladiators](https://www.cricbuzz.com/live-cricket-scores/109432/ajmb-vs-deg-7th-match-abu-dhabi-t10-league-2024 "Ajman Bolts v Deccan Gladiators, 7th Match - Preview")
     
     7th Match
     
@@ -174,27 +164,47 @@ AllLive NowToday
     
     9th Match
     
+* [Chennai Brave Jaguars vs Northern Warriors](https://www.cricbuzz.com/live-cricket-scores/109449/cbj-vs-nw-10th-match-abu-dhabi-t10-league-2024 "Chennai Brave Jaguars v Northern Warriors, 10th Match - Upcoming")
+    
+    10th Match
+    
+* [Deccan Gladiators vs Team Abu Dhabi](https://www.cricbuzz.com/live-cricket-scores/109453/deg-vs-ad-11th-match-abu-dhabi-t10-league-2024 "Deccan Gladiators v Team Abu Dhabi, 11th Match - Upcoming")
+    
+    11th Match
+    
 * DOMESTIC
     
     CSA Four-Day Series Division One 2024-25
     
-    [Titans vs Knights](https://www.cricbuzz.com/live-cricket-scores/104786/tit-vs-kng-10th-match-csa-four-day-series-division-one-2024-25 "Titans v Knights, 10th Match - Ings Break")
+    [Titans vs Knights](https://www.cricbuzz.com/live-cricket-scores/104786/tit-vs-kng-10th-match-csa-four-day-series-division-one-2024-25 "Titans v Knights, 10th Match - TIT Won")
     
     10th Match
     
-* [Lions vs Western Province](https://www.cricbuzz.com/live-cricket-scores/104794/lions-vs-wpr-11th-match-csa-four-day-series-division-one-2024-25 "Lions v Western Province, 11th Match - Toss")
+* [Lions vs Western Province](https://www.cricbuzz.com/live-cricket-scores/104794/lions-vs-wpr-11th-match-csa-four-day-series-division-one-2024-25 "Lions v Western Province, 11th Match - Stumps")
     
     11th Match
     
 * SMA Trophy 2024
     
-    [Tamil Nadu vs Tripura](https://www.cricbuzz.com/live-cricket-scores/98204/tn-vs-tri-group-b-sma-trophy-2024 "Tamil Nadu v Tripura, Group B - Upcoming")
+    [Saurashtra vs Sikkim](https://www.cricbuzz.com/live-cricket-scores/98213/saur-vs-skm-group-b-sma-trophy-2024 "Saurashtra v Sikkim, Group B - Upcoming")
     
     Group B
     
 * [Hyderabad vs Meghalaya](https://www.cricbuzz.com/live-cricket-scores/98195/hyd-vs-mgly-group-a-sma-trophy-2024 "Hyderabad v Meghalaya, Group A - Upcoming")
     
     Group A
+    
+* [Arunachal Pradesh vs Himachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98224/arnp-vs-hp-group-c-sma-trophy-2024 "Arunachal Pradesh v Himachal Pradesh, Group C - Upcoming")
+    
+    Group C
+    
+* [Haryana vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98222/har-vs-mnp-group-c-sma-trophy-2024 "Haryana v Manipur, Group C - Upcoming")
+    
+    Group C
+    
+* [Tamil Nadu vs Tripura](https://www.cricbuzz.com/live-cricket-scores/98204/tn-vs-tri-group-b-sma-trophy-2024 "Tamil Nadu v Tripura, Group B - Upcoming")
+    
+    Group B
     
 * [Goa vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/98247/goa-vs-mum-group-e-sma-trophy-2024 "Goa v Mumbai, Group E - Upcoming")
     
@@ -216,15 +226,19 @@ AllLive NowToday
     
     Group D
     
-* [Arunachal Pradesh vs Himachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98224/arnp-vs-hp-group-c-sma-trophy-2024 "Arunachal Pradesh v Himachal Pradesh, Group C - Upcoming")
+* [Bihar vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/98258/bih-vs-raj-group-a-sma-trophy-2024 "Bihar v Rajasthan, Group A - Upcoming")
+    
+    Group A
+    
+* [Jammu and Kashmir vs Jharkhand](https://www.cricbuzz.com/live-cricket-scores/98294/jk-vs-jhkd-group-c-sma-trophy-2024 "Jammu and Kashmir v Jharkhand, Group C - Upcoming")
     
     Group C
     
-* [Haryana vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98222/har-vs-mnp-group-c-sma-trophy-2024 "Haryana v Manipur, Group C - Upcoming")
+* [Karnataka vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/98276/kar-vs-utk-group-b-sma-trophy-2024 "Karnataka v Uttarakhand, Group B - Upcoming")
     
-    Group C
+    Group B
     
-* [Saurashtra vs Sikkim](https://www.cricbuzz.com/live-cricket-scores/98213/saur-vs-skm-group-b-sma-trophy-2024 "Saurashtra v Sikkim, Group B - Upcoming")
+* [Baroda vs Gujarat](https://www.cricbuzz.com/live-cricket-scores/98267/brd-vs-guj-group-b-sma-trophy-2024 "Baroda v Gujarat, Group B - Upcoming")
     
     Group B
     
@@ -240,25 +254,9 @@ AllLive NowToday
     
     Group D
     
-* [Jammu and Kashmir vs Jharkhand](https://www.cricbuzz.com/live-cricket-scores/98294/jk-vs-jhkd-group-c-sma-trophy-2024 "Jammu and Kashmir v Jharkhand, Group C - Upcoming")
-    
-    Group C
-    
 * [Delhi vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/98285/del-vs-up-group-c-sma-trophy-2024 "Delhi v Uttar Pradesh, Group C - Upcoming")
     
     Group C
-    
-* [Karnataka vs Uttarakhand](https://www.cricbuzz.com/live-cricket-scores/98276/kar-vs-utk-group-b-sma-trophy-2024 "Karnataka v Uttarakhand, Group B - Upcoming")
-    
-    Group B
-    
-* [Baroda vs Gujarat](https://www.cricbuzz.com/live-cricket-scores/98267/brd-vs-guj-group-b-sma-trophy-2024 "Baroda v Gujarat, Group B - Upcoming")
-    
-    Group B
-    
-* [Bihar vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/98258/bih-vs-raj-group-a-sma-trophy-2024 "Bihar v Rajasthan, Group A - Upcoming")
-    
-    Group A
     
 * Pakistan A v Sri Lanka A, 2024
     
@@ -302,7 +300,7 @@ AllLive NowToday
     
     35th Match
     
-* [Brisbane Heat Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/101424/brhw-vs-mlsw-36th-match-wbbl-2024 "Brisbane Heat Women v Melbourne Stars Women, 36th Match - Upcoming")
+* [Brisbane Heat Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/101424/brhw-vs-mlsw-36th-match-wbbl-2024 "Brisbane Heat Women v Melbourne Stars Women, 36th Match - Preview")
     
     36th Match
     
@@ -621,41 +619,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132484/wareham-stars-as-renegades-book-knockouts-berth "Wareham stars as Renegades book knockouts berth")
+
+[Wareham stars as Renegades book knockouts berth](https://www.cricbuzz.com/cricket-news/132484/wareham-stars-as-renegades-book-knockouts-berth "Wareham stars as Renegades book knockouts berth")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132483/as-dominance-shifts-to-doubt-india-gets-ready-for-the-test-down-under "As dominance shifts to doubt, India gets ready for the test Down Under")
+
+[As dominance shifts to doubt, India gets ready for the test Down Under](https://www.cricbuzz.com/cricket-news/132483/as-dominance-shifts-to-doubt-india-gets-ready-for-the-test-down-under "As dominance shifts to doubt, India gets ready for the test Down Under")
+
+3h ago
+
   [](https://www.cricbuzz.com/cricket-news/132482/rohit-sharma-to-join-team-in-perth-on-nov-24 "Rohit Sharma to join team in Perth on Nov 24")
 
 [Rohit Sharma to join team in Perth on Nov 24](https://www.cricbuzz.com/cricket-news/132482/rohit-sharma-to-join-team-in-perth-on-nov-24 "Rohit Sharma to join team in Perth on Nov 24")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132481/pat-cummins-advocates-for-more-fast-bowling-captains-in-international-cricket "Pat Cummins advocates for more fast bowling captains in international cricket")
 
 [Pat Cummins advocates for more fast bowling captains in international cricket](https://www.cricbuzz.com/cricket-news/132481/pat-cummins-advocates-for-more-fast-bowling-captains-in-international-cricket "Pat Cummins advocates for more fast bowling captains in international cricket")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132480/yastika-bhatia-ruled-out-of-wbbl-2024-due-to-wrist-fracture "Yastika Bhatia ruled out of WBBL 2024 due to wrist fracture")
 
 [Yastika Bhatia ruled out of WBBL 2024 due to wrist fracture](https://www.cricbuzz.com/cricket-news/132480/yastika-bhatia-ruled-out-of-wbbl-2024-due-to-wrist-fracture "Yastika Bhatia ruled out of WBBL 2024 due to wrist fracture")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132479/sydney-sixers-perth-scorchers-play-out-thrilling-tie-in-wbbl "Sydney Sixers, Perth Scorchers play out thrilling tie in WBBL")
 
 [Sydney Sixers, Perth Scorchers play out thrilling tie in WBBL](https://www.cricbuzz.com/cricket-news/132479/sydney-sixers-perth-scorchers-play-out-thrilling-tie-in-wbbl "Sydney Sixers, Perth Scorchers play out thrilling tie in WBBL")
 
-3h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132478/have-a-lot-of-faith-in-my-instincts-bumrah-on-test-captaincy "Have a lot of faith in my instincts: Bumrah on Test captaincy")
-
-[Have a lot of faith in my instincts: Bumrah on Test captaincy](https://www.cricbuzz.com/cricket-news/132478/have-a-lot-of-faith-in-my-instincts-bumrah-on-test-captaincy "Have a lot of faith in my instincts: Bumrah on Test captaincy")
-
-5h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132477/r-ashwin-set-to-play-his-first-test-in-perth "R Ashwin set to play his first Test in Perth ")
-
-[R Ashwin set to play his first Test in Perth](https://www.cricbuzz.com/cricket-news/132477/r-ashwin-set-to-play-his-first-test-in-perth "R Ashwin set to play his first Test in Perth ")
-
-5h ago
+9h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
