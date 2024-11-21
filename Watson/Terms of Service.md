@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)1°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)2°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,18 +54,18 @@
 
 Thèmes du moment
 
+* [Poutine](https://www.watson.ch/fr/poutine/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [CFF](https://www.watson.ch/fr/cff/)
 * [Vaud](https://www.watson.ch/fr/vaud/)
+* [Culture](https://www.watson.ch/fr/culture/)
+* [Banques](https://www.watson.ch/fr/banques/)
+* [Football](https://www.watson.ch/fr/football/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [People](https://www.watson.ch/fr/people/)
-* [Cinéma](https://www.watson.ch/fr/cinema/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Justice](https://www.watson.ch/fr/justice/)
-* [Genève](https://www.watson.ch/fr/geneve/)
-* [France](https://www.watson.ch/fr/france/)
-* [Migros](https://www.watson.ch/fr/migros/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Football](https://www.watson.ch/fr/football/)
-* [nourriture](https://www.watson.ch/fr/nourriture/)
+* [ukraine](https://www.watson.ch/fr/ukraine/)
+* [Royauté](https://www.watson.ch/fr/royaute/)
+* [Art](https://www.watson.ch/fr/art/)
 * [Police](https://www.watson.ch/fr/police/)
 * [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
 * [commerce](https://www.watson.ch/fr/commerce/)
