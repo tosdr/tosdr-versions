@@ -87,13 +87,13 @@ Most Read
     
     1. [SpaceX just got exactly what it wanted from the FAA for Texas Starship launches](https://arstechnica.com/space/2024/11/spacex-just-got-exactly-what-it-wanted-from-the-faa-for-texas-starship-launches/)
     
-2. 2. [The key moment came 38 minutes after Starship roared off the launch pad](https://arstechnica.com/space/2024/11/the-key-moment-came-38-minutes-after-starship-roared-off-the-launch-pad/)
+2. 2. [Google stops letting sites like Forbes rule search for “Best CBD Gummies“](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
     
-3. 3. [Scientist behind superconductivity claims ousted](https://arstechnica.com/science/2024/11/scientist-behind-superconductivity-claims-ousted/)
+3. 3. [The key moment came 38 minutes after Starship roared off the launch pad](https://arstechnica.com/space/2024/11/the-key-moment-came-38-minutes-after-starship-roared-off-the-launch-pad/)
     
-4. 4. [Google stops letting sites like Forbes rule search for “Best CBD Gummies“](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
+4. 4. [Scientist behind superconductivity claims ousted](https://arstechnica.com/science/2024/11/scientist-behind-superconductivity-claims-ousted/)
     
-5. 5. [Apple TV+ spent $20B on original content. If only people actually watched.](https://arstechnica.com/apple/2024/11/apple-tv-spent-20b-on-original-content-if-only-people-actually-watched/)
+5. 5. [As NASA increasingly relies on commercial space, there are some troubling signs](https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/)
     
 
 Customize
