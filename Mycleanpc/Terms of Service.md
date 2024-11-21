@@ -1,4 +1,4 @@
-[![MyCleanPC](images/mycleanpc-logo-white-168x41.png)](https://www.mycleanpc.com/) [![MyCleanPC](images/logo-230x50-mycleanpc.com.svg)](https://www.mycleanpc.com/)
+[![MyCleanPC](images/mycleanpc-logo-white-168x41.png)](https://www.mycleanpc.com/) [![MyCleanPC](/pagespeed_static/1.JiBnMqyl6S.gif)](https://www.mycleanpc.com/)
 
 As seen on TV
 
@@ -13,11 +13,11 @@ Customer Support
 Powered by USTechSupport  
 Special offers when you call
 
-![CNN](images/xlogo-cnn-50x23.png.pagespeed.ic.w6hUlTbnfp.png)
+![CNN](/pagespeed_static/1.JiBnMqyl6S.gif)
 
-![FOX NEWS](images/xlogo-foxnews-50x50.png.pagespeed.ic.cMdyXe0jFE.png)
+![FOX NEWS](/pagespeed_static/1.JiBnMqyl6S.gif)
 
-![FOX BUSINESS](images/xlogo-foxbusiness-50x25.png.pagespeed.ic.9EEDh5c85G.png)
+![FOX BUSINESS](/pagespeed_static/1.JiBnMqyl6S.gif)
 
 TERMS OF SERVICE / END USER LICENSE AGREEMENT
 =============================================
@@ -187,13 +187,13 @@ IF YOU DO NOT WISH TO BE BOUND BY THIS AGREEMENT OR ANY REVISED AGREEMENT IN THE
     4. You may not assign any of your rights under this Agreement, and any such attempt will be void. RealDefense may assign its rights to any of its affiliates or subsidiaries, or to any successor in interest of any business associated with the Services.
     5. If any part of this Agreement is held or found to be invalid or unenforceable, that portion of the Agreement will be construed to be consistent with applicable law while the remaining portions of the Agreement remain in full force and effect.
 
-[![Powered by REALDEFENSE](images/powered-by-realdefense-148x39.png)](https://www.realdefen.se/)
+[![Powered by REALDEFENSE](/pagespeed_static/1.JiBnMqyl6S.gif)](https://www.realdefen.se/)
 
 [150 S Los Robles Ave. Suite 400
 
 Pasadena, CA 91101](https://www.google.com/search?q=RealDefense)
 
-\* MyCleanPC software offers partial removal of certain files which may slow down your computer or make it less private, at no additional costs. Other features require payment. The trial versions of software products that are available for free download from this site are intended to diagnose your computer for security and/or performance issues. Most issues may be corrected by purchasing our software products and/or remote technical support services. Computer security and performance improvements will vary depending upon the condition of your computer, the software you are using, and other factors outside of our control. These factors may be such that our software and/or services will not be able to remedy the issues with your computer. There will be a yearly recurring charge to license MyCleanPC of $19.99, followed by monthly charges of $19.95 for live technical support. You can cancel your subscription at any time by calling [(801) 857-2368](tel:18018572368). (Powered by USTechSupport) or via online chat, email or contact form. RealDefense may offer other products and services when you call us. Calls placed to our numbers may incur normal toll charges, depending on your phone carrier and plan. Please check with your provider for information about fees if applicable.
+\* MyCleanPC software offers partial removal of certain files which may slow down your computer or make it less private, at no additional costs. Other features require payment. The trial versions of software products that are available for free download from this site are intended to diagnose your computer for security and/or performance issues. Most issues may be corrected by purchasing our software products and/or remote technical support services. Computer security and performance improvements will vary depending upon the condition of your computer, the software you are using, and other factors outside of our control. These factors may be such that our software and/or services will not be able to remedy the issues with your computer. There will be a yearly recurring charge to license MyCleanPC of $29.99, followed by monthly charges of $19.95 for live technical support. You can cancel your subscription at any time by calling [(801) 857-2368](tel:18018572368). (Powered by USTechSupport) or via online chat, email or contact form. RealDefense may offer other products and services when you call us. Calls placed to our numbers may incur normal toll charges, depending on your phone carrier and plan. Please check with your provider for information about fees if applicable.
 
 © 2024 RealDefense LLC. All rights reserved.
 
@@ -214,13 +214,13 @@ Pasadena, CA 91101](https://www.google.com/search?q=RealDefense)
 * [Compliance](https://www.mycleanpc.com/compliance.html)
 * [Sitemap](https://www.mycleanpc.com/sitemap.html)
 
-[![AppEsteem](images/xappesteem_seal_with_r-90x77.png.pagespeed.ic.-ezfaYup-L.png)](https://customer.appesteem.com/certified?q=RealDefense)
+[![AppEsteem](/pagespeed_static/1.JiBnMqyl6S.gif)](https://customer.appesteem.com/certified?q=RealDefense)
 
-![This site is protected by Trustwave's Trusted Commerce program](https://sealserver.trustwave.com/seal_image.php?customerId=43c164a5135e4aafa40260a4e8656b46&size=105x54&style=invert "This site is protected by Trustwave's Trusted Commerce program")
+![This site is protected by Trustwave's Trusted Commerce program](/pagespeed_static/1.JiBnMqyl6S.gif "This site is protected by Trustwave's Trusted Commerce program")
 
-[![BBB A+ Accredited Business](images/xBBB-72x50.png.pagespeed.ic.Q8ZDPmhfs2.png)](https://www.bbb.org/losangelessiliconvalley/business-reviews/computer-hardware/ustech-support-in-santa-monica-ca-13196224)
+[![BBB A+ Accredited Business](/pagespeed_static/1.JiBnMqyl6S.gif)](https://www.bbb.org/losangelessiliconvalley/business-reviews/computer-hardware/ustech-support-in-santa-monica-ca-13196224)
 
-[![GeoTrust](images/xgt-secured-seal-90x43.gif.pagespeed.ic.IErs5SxiUT.png)](https://www.geocerts.com/ssl-checker?domain=www.mycleanpc.com#domain)
+[![GeoTrust](/pagespeed_static/1.JiBnMqyl6S.gif)](https://www.geocerts.com/ssl-checker?domain=www.mycleanpc.com#domain)
 
 [](https://www.facebook.com/mycleanpc/)
 
