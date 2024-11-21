@@ -162,6 +162,7 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [youTube](https://www.youtube.com/user/techcrunch)
 * [Mastodon](https://mstdn.social/@TechCrunch)
 * [Threads](https://www.threads.net/@techcrunch)
+* [Bluesky](https://bsky.app/profile/techcrunch.com)
 
 * [TechCrunch](https://techcrunch.com/)
 * [Staff](https://techcrunch.com/about-techcrunch/)
