@@ -25,6 +25,7 @@
 * [About](#) Menu Toggle
     * [About KLC Consulting](https://klcconsulting.net/about/about-klc-consulting/)
     * [Contact Us](https://klcconsulting.net/contact/)
+    * [CCA Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
     * [CMMC Events](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-events-and-workshops/)
     * [Speaking & Training](https://klcconsulting.net/cmmc-and-nist-resources/speaking-training/)
 * [Contact](https://klcconsulting.net/contact/)
@@ -57,6 +58,7 @@ Main Menu
 * [About](#) Menu Toggle
     * [About KLC Consulting](https://klcconsulting.net/about/about-klc-consulting/)
     * [Contact Us](https://klcconsulting.net/contact/)
+    * [CCA Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
     * [CMMC Events](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-events-and-workshops/)
     * [Speaking & Training](https://klcconsulting.net/cmmc-and-nist-resources/speaking-training/)
 * [Contact](https://klcconsulting.net/contact/)
@@ -87,6 +89,7 @@ Main Menu
 * [About](#) Menu Toggle
     * [About KLC Consulting](https://klcconsulting.net/about/about-klc-consulting/)
     * [Contact Us](https://klcconsulting.net/contact/)
+    * [CCA Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
     * [CMMC Events](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-events-and-workshops/)
     * [Speaking & Training](https://klcconsulting.net/cmmc-and-nist-resources/speaking-training/)
 * [Contact](https://klcconsulting.net/contact/)
@@ -119,6 +122,7 @@ Main Menu
 * [About](#) Menu Toggle
     * [About KLC Consulting](https://klcconsulting.net/about/about-klc-consulting/)
     * [Contact Us](https://klcconsulting.net/contact/)
+    * [CCA Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
     * [CMMC Events](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-events-and-workshops/)
     * [Speaking & Training](https://klcconsulting.net/cmmc-and-nist-resources/speaking-training/)
 * [Contact](https://klcconsulting.net/contact/)
