@@ -63,6 +63,10 @@ Moderate text and text in images with best-in-class deep learning models](https:
 Real-time speech and sound moderation in audioReal-time speech and sound  
 moderation in audio](https://hivemoderation.com/audio-moderation)
 
+[CSAM Detection
+
+Integrate Thorn's CSAM detection technology into moderation workflows](https://thehive.ai/apis/csam-detection)
+
 [Contextual Scene Classification
 
 Identify common objects, settings, and event types within videos and images](https://thehive.ai/apis/contextual-scene-classification)
