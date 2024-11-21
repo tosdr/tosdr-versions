@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More Farking, less working
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Hello, hello](https://www.fark.com/goto/13470172) ( [nationaltoday.com](https://www.fark.com/goto/13470172) ) » [(8 comments)](https://www.fark.com/comments/13470172/Hello-hello) |
-| [Discussion](https://www.fark.com/discussion/) | [Thirty things that '90s kids will remember but no longer exist. Good music should be one of them](https://www.fark.com/goto/13470012) ( [buzzfeed.com](https://www.fark.com/goto/13470012) ) » [(6 comments)](https://www.fark.com/comments/13470012/Thirty-things-that-90s-kids-will-remember-but-no-longer-exist-Good-music-should-be-one-of-them) |
-| [Sports](https://www.fark.com/sports/) | [US border patrol just doing their jobs trying to keep foreigners with anger issues and the potential to cause destruction out of the country](https://www.fark.com/goto/13470228) ( [racingnews365.com](https://www.fark.com/goto/13470228) ) » [(1 comment)](https://www.fark.com/comments/13470228/US-border-patrol-just-doing-their-jobs-trying-to-keep-foreigners-with-anger-issues-the-potential-to-cause-destruction-out-of-country) |
-| [Business](https://www.fark.com/business/) | [Breaking: PayPal](https://www.fark.com/goto/13470210) ( [bbc.com](https://www.fark.com/goto/13470210) ) » [(3 comments)](https://www.fark.com/comments/13470210/Breaking-PayPal) |
-| [STEM](https://www.fark.com/stem/) | [Mathematicians discover a new kind of shape. It's quite curvy](https://www.fark.com/goto/13469832) ( [scientificamerican.com](https://www.fark.com/goto/13469832) ) » [(1 comment)](https://www.fark.com/comments/13469832/Mathematicians-discover-a-new-kind-of-shape-Its-quite-curvy) |
-| [Entertainment](https://www.fark.com/entertainment/) | [The 30 best thrillers on Netflix right now. "\_\_\_\_\_\_\_\_\_ is a thriller?"](https://www.fark.com/goto/13470004) ( [metro.co.uk](https://www.fark.com/goto/13470004) ) » [(2 comments)](https://www.fark.com/comments/13470004/The-30-best-thrillers-on-Netflix-right-now-_________-is-a-thriller) |
-| [Fandom](https://www.fark.com/fandom/) | [Fortnite now selling virtual shoes. Late Capitalism would like a tag](https://www.fark.com/goto/13470234) ( [boingboing.net](https://www.fark.com/goto/13470234) ) » [(1 comment)](https://www.fark.com/comments/13470234/Fortnite-now-selling-virtual-shoes-Late-Capitalism-would-like-a-tag) |
-| [D'awww](https://www.fark.com/dawww/) | [Because nothing says 'first steps' like dropping big bucks on tiny Jordan sneakers](https://www.fark.com/goto/13470050) ( [sneakerfortress.com](https://www.fark.com/goto/13470050) ) » [(0 comments)](https://www.fark.com/comments/13470050/Because-nothing-says-first-steps-like-dropping-big-bucks-on-tiny-Jordan-sneakers) |
-| [Food](https://www.fark.com/food/) | [So just how far will $100 go toward shopping for your Thanksgiving dinner this year? AP asks the question](https://www.fark.com/goto/13470122) ( [apnews.com](https://www.fark.com/goto/13470122) ) » [(4 comments)](https://www.fark.com/comments/13470122/So-just-how-far-will-$100-go-toward-shopping-for-your-Thanksgiving-dinner-this-year-AP-asks-question) |
-| [Politics](https://www.fark.com/politics/) | [Just in time for Christmas grifting season, here's a very special offer from your favorite president, him](https://www.fark.com/goto/13469764) ( [forbes.com](https://www.fark.com/goto/13469764) ) » [(27 comments)](https://www.fark.com/comments/13469764/Just-in-time-for-Christmas-grifting-season-heres-a-very-special-offer-from-your-favorite-president-him) |
+| [Main](https://www.fark.com/) | [Spins the wheel of climate change: Bomb Cyclone versus Amtrak Train](https://www.fark.com/goto/13470528) ( [komonews.com](https://www.fark.com/goto/13470528) ) » [(3 comments)](https://www.fark.com/comments/13470528/Spins-wheel-of-climate-change-Bomb-Cyclone-versus-Amtrak-Train) |
+| [Discussion](https://www.fark.com/discussion/) | [This song just popped in my head, no reason at all. After all, this is fine](https://www.fark.com/goto/13470226) ( [youtube.com](https://www.fark.com/goto/13470226) ) » [(4 comments)](https://www.fark.com/comments/13470226/This-song-just-popped-in-my-head-no-reason-at-all-After-all-this-is-fine) |
+| [Sports](https://www.fark.com/sports/) | [Folks in Gatineau Quebec are sick n' tired of Ontario peeps whacking their birds in their courts. Double entendre, s'il vous plaît](https://www.fark.com/goto/13470342) ( [cbc.ca](https://www.fark.com/goto/13470342) ) » [(4 comments)](https://www.fark.com/comments/13470342/Folks-in-Gatineau-Quebec-are-sick-n-tired-of-Ontario-peeps-whacking-their-birds-in-their-courts-Double-entendre-sil-vous-plat) |
+| [Business](https://www.fark.com/business/) | [Jeep dealers are VERY ANGRY that inconsiderate buyers are bailing on their orders just because the price keeps rising](https://www.fark.com/goto/13470476) ( [cnn.com](https://www.fark.com/goto/13470476) ) » [(2 comments)](https://www.fark.com/comments/13470476/Jeep-dealers-are-VERY-ANGRY-that-inconsiderate-buyers-are-bailing-on-their-orders-just-because-price-keeps-rising) |
+| [STEM](https://www.fark.com/stem/) | [How the sun recovers after intense plasma ejections. It cleans itself up, then it's good to go again in a few hours](https://www.fark.com/goto/13470360) ( [phys.org](https://www.fark.com/goto/13470360) ) » [(2 comments)](https://www.fark.com/comments/13470360/How-sun-recovers-after-intense-plasma-ejections-It-cleans-itself-up-then-its-good-to-go-again-in-a-few-hours) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Shut up and take my ... only if Timothy Olyphant wears the hat](https://www.fark.com/goto/13470378) ( [hollywoodreporter.com](https://www.fark.com/goto/13470378) ) » [(3 comments)](https://www.fark.com/comments/13470378/Shut-up-take-my-only-if-Timothy-Olyphant-wears-hat) |
+| [Fandom](https://www.fark.com/fandom/) | [Shut up and take my ... only if Timothy Olyphant wears the hat](https://www.fark.com/goto/13470378) ( [hollywoodreporter.com](https://www.fark.com/goto/13470378) ) » [(3 comments)](https://www.fark.com/comments/13470378/Shut-up-take-my-only-if-Timothy-Olyphant-wears-hat) |
+| [D'awww](https://www.fark.com/dawww/) | [Concerned Florida chicken owner calls for wildlife rescue after odd-looking feline found in chicken coop](https://www.fark.com/goto/13470230) ( [people.com](https://www.fark.com/goto/13470230) ) » [(0 comments)](https://www.fark.com/comments/13470230/Concerned-Florida-chicken-owner-calls-for-wildlife-rescue-after-odd-looking-feline-found-in-chicken-coop) |
+| [Food](https://www.fark.com/food/) | [The ultimate fusion of West and East: the cheesesburger rice bowl. Looks delicious](https://www.fark.com/goto/13470506) ( [japantoday.com](https://www.fark.com/goto/13470506) ) » [(6 comments)](https://www.fark.com/comments/13470506/The-ultimate-fusion-of-West-East-cheesesburger-rice-bowl-Looks-delicious) |
+| [Politics](https://www.fark.com/politics/) | [Kakistocracy: noun, a state or society governed by its least suitable or competent citizens](https://www.fark.com/goto/13470504) ( [theguardian.com](https://www.fark.com/goto/13470504) ) » [(22 comments)](https://www.fark.com/comments/13470504/Kakistocracy-noun-a-state-society-governed-by-its-least-suitable-competent-citizens) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 21 2024 08:42:18  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 21 2024 14:43:06  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
