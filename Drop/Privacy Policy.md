@@ -52,10 +52,10 @@ new
 
 Collections
 
+* [Black Friday Bash 2024](https://drop.com/talk/142147/black-friday-bash-2024)
 * [Drop + The Lord of the Rings™](https://drop.com/featured/lotr)
 * [DCX-Profile Keycaps](https://drop.com/featured/dcx-keycaps)
 * [Customize Your CSTM80 Keyboard](https://drop.com/all-communities/drops/CSTM80-Keyboard-Collection)
-* [Personalize Your CSTM65 Keyboard](https://drop.com/all-communities/drops/cstm65-keyboard-collection)
 * [Ready-to-Ship GMK Keycaps](https://drop.com/all-communities/drops/Ready-to-Ship-GMK-Keycaps)
 
 More Ways to Shop
