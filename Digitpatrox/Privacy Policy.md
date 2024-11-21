@@ -20,16 +20,16 @@ Thursday, November 21 2024
 
 Latest
 
-* [DOJ says Google must sell Chrome to crack open its search monopoly](https://digitpatrox.com/doj-says-google-must-sell-chrome-to-crack-open-its-search-monopoly/)
-* [This LEGO Harry Potter Hogwarts Castle Is Now at a Record Low This Black Friday!](https://digitpatrox.com/this-lego-harry-potter-hogwarts-castle-is-now-at-a-record-low-this-black-friday/)
-* [Download our Microsoft Copilot for Writing Cheat Sheet](https://digitpatrox.com/download-our-microsoft-copilot-for-writing-cheat-sheet/)
-* [Use Bluesky Network Analyzer to Find More Accounts to Follow](https://digitpatrox.com/use-bluesky-network-analyzer-to-find-more-accounts-to-follow/)
-* [The Best Way to Cook a Turkey](https://digitpatrox.com/the-best-way-to-cook-a-turkey/)
-* [Your Next Android Phone Upgrade Might Be Easier](https://digitpatrox.com/your-next-android-phone-upgrade-might-be-easier/)
-* [Security incident recovery times are over 7 months on average](https://digitpatrox.com/security-incident-recovery-times-are-over-7-months-on-average/)
-* [Microsoft Reveals Mini PC for Easy Access to Windows 365](https://digitpatrox.com/microsoft-reveals-mini-pc-for-easy-access-to-windows-365/)
-* [NYT Connections today hints and answers — Thursday, November 21 (#529)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-21-529/)
-* [Cyberattack at French hospital exposes health data of 750,000 patients](https://digitpatrox.com/cyberattack-at-french-hospital-exposes-health-data-of-750000-patients/)
+* [Now BlueSky hit with crypto scams as it crosses 20 million users](https://digitpatrox.com/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/)
+* [This digital D&D watch lets you roll a fireball from your wrist](https://digitpatrox.com/this-digital-dd-watch-lets-you-roll-a-fireball-from-your-wrist/)
+* [HyperX Cloud III Wireless Headset Below $100 Is a Sonic Bargain This Black Friday](https://digitpatrox.com/hyperx-cloud-iii-wireless-headset-below-100-is-a-sonic-bargain-this-black-friday/)
+* [Is Duolingo safe? Here’s what you should know](https://digitpatrox.com/is-duolingo-safe-heres-what-you-should-know/)
+* [US commission proposes ‘Manhattan Project-like’ initiative for AI – Computerworld](https://digitpatrox.com/us-commission-proposes-manhattan-project-like-initiative-for-ai-computerworld/)
+* [Add This Surprising ‘Palate Cleanser’ to Your Thanksgiving Spread](https://digitpatrox.com/add-this-surprising-palate-cleanser-to-your-thanksgiving-spread/)
+* [2025 Nissan Kicks Review – Consumer Reports](https://digitpatrox.com/2025-nissan-kicks-review-consumer-reports/)
+* [How to Adjust Your Equalizer Like a Pro](https://digitpatrox.com/how-to-adjust-your-equalizer-like-a-pro/)
+* [10 Social Media Planners You Can Start Using Today \[FREE\]](https://digitpatrox.com/10-social-media-planners-you-can-start-using-today-free/)
+* [I added interval sprints to my workouts for four weeks — here’s what happened](https://digitpatrox.com/i-added-interval-sprints-to-my-workouts-for-four-weeks-heres-what-happened/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/NxAqwJ_OKUkXmHRg817_RF6vfuI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg)](https://digitpatrox.com/doj-says-google-must-sell-chrome-to-crack-open-its-search-monopoly/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/21/bluesky-1600-900.jpg)](https://digitpatrox.com/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/)
     
-    [DOJ says Google must sell Chrome to crack open its search monopoly](https://digitpatrox.com/doj-says-google-must-sell-chrome-to-crack-open-its-search-monopoly/)
+    [Now BlueSky hit with crypto scams as it crosses 20 million users](https://digitpatrox.com/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/)
     
-    5 minutes ago
+    29 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Lego-Black-Friday.jpg)](https://digitpatrox.com/this-lego-harry-potter-hogwarts-castle-is-now-at-a-record-low-this-black-friday/)
+* [![](https://cdn.vox-cdn.com/thumbor/NxfQ65CaTLB03RWm7Si13BhIo80=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25746461/Timestop_D_20_DnD_watch.jpg)](https://digitpatrox.com/this-digital-dd-watch-lets-you-roll-a-fireball-from-your-wrist/)
     
-    [This LEGO Harry Potter Hogwarts Castle Is Now at a Record Low This Black Friday!](https://digitpatrox.com/this-lego-harry-potter-hogwarts-castle-is-now-at-a-record-low-this-black-friday/)
+    [This digital D&D watch lets you roll a fireball from your wrist](https://digitpatrox.com/this-digital-dd-watch-lets-you-roll-a-fireball-from-your-wrist/)
     
-    21 minutes ago
+    46 minutes ago
     
-* [![](https://us.resources.computerworld.com/wp-content/uploads/2024/11/default_image1731963052.8386.png)](https://digitpatrox.com/download-our-microsoft-copilot-for-writing-cheat-sheet/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/HyperX-Cloud-III-Headphone-product-image.jpg)](https://digitpatrox.com/hyperx-cloud-iii-wireless-headset-below-100-is-a-sonic-bargain-this-black-friday/)
     
-    [Download our Microsoft Copilot for Writing Cheat Sheet](https://digitpatrox.com/download-our-microsoft-copilot-for-writing-cheat-sheet/)
+    [HyperX Cloud III Wireless Headset Below $100 Is a Sonic Bargain This Black Friday](https://digitpatrox.com/hyperx-cloud-iii-wireless-headset-below-100-is-a-sonic-bargain-this-black-friday/)
+    
+    1 hour ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Is-Duolingo-safe_-Heres-what-you-should-know.jpg)](https://digitpatrox.com/is-duolingo-safe-heres-what-you-should-know/)
+    
+    [Is Duolingo safe? Here’s what you should know](https://digitpatrox.com/is-duolingo-safe-heres-what-you-should-know/)
     
     2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JD5VVPSGFN4ZC8MNSPVRS30C/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/use-bluesky-network-analyzer-to-find-more-accounts-to-follow/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609516-0-10918200-1732101967-shutterstock_2443980471.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/us-commission-proposes-manhattan-project-like-initiative-for-ai-computerworld/)
     
-    [Use Bluesky Network Analyzer to Find More Accounts to Follow](https://digitpatrox.com/use-bluesky-network-analyzer-to-find-more-accounts-to-follow/)
-    
-    3 hours ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732028836/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-The-Best-Way-to-Cook-a-Turkey-1124)](https://digitpatrox.com/the-best-way-to-cook-a-turkey/)
-    
-    [The Best Way to Cook a Turkey](https://digitpatrox.com/the-best-way-to-cook-a-turkey/)
+    [US commission proposes ‘Manhattan Project-like’ initiative for AI – Computerworld](https://digitpatrox.com/us-commission-proposes-manhattan-project-like-initiative-for-ai-computerworld/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 minutes ago
+* [29 minutes ago
     
-    ### DOJ says Google must sell Chrome to crack open its search monopoly](https://digitpatrox.com/doj-says-google-must-sell-chrome-to-crack-open-its-search-monopoly/)
-* [21 minutes ago
+    ### Now BlueSky hit with crypto scams as it crosses 20 million users](https://digitpatrox.com/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/)
+* [46 minutes ago
     
-    ### This LEGO Harry Potter Hogwarts Castle Is Now at a Record Low This Black Friday!](https://digitpatrox.com/this-lego-harry-potter-hogwarts-castle-is-now-at-a-record-low-this-black-friday/)
-* [2 hours ago
+    ### This digital D&D watch lets you roll a fireball from your wrist](https://digitpatrox.com/this-digital-dd-watch-lets-you-roll-a-fireball-from-your-wrist/)
+* [1 hour ago
     
-    ### Download our Microsoft Copilot for Writing Cheat Sheet](https://digitpatrox.com/download-our-microsoft-copilot-for-writing-cheat-sheet/)
+    ### HyperX Cloud III Wireless Headset Below $100 Is a Sonic Bargain This Black Friday](https://digitpatrox.com/hyperx-cloud-iii-wireless-headset-below-100-is-a-sonic-bargain-this-black-friday/)
 
 Most Popular Topics
 
-* [6 days ago
+* [3 weeks ago
     
-    ### Best 33-Inch-Wide Refrigerators – Consumer Reports](https://digitpatrox.com/best-33-inch-wide-refrigerators-consumer-reports/)
-* [September 12, 2024
+    ### Microsoft warns Azure Virtual Desktop users of black screen issues](https://digitpatrox.com/microsoft-warns-azure-virtual-desktop-users-of-black-screen-issues/)
+* [August 19, 2024
     
-    ### How to watch England vs Australia live stream 2nd T20i 2024](https://digitpatrox.com/how-to-watch-england-vs-australia-live-stream-2nd-t20i-2024/)
-* [7 hours ago
+    ### Hackers linked to $14M Holograph crypto heist arrested in Italy](https://digitpatrox.com/hackers-linked-to-14m-holograph-crypto-heist-arrested-in-italy/)
+* [2 weeks ago
     
-    ### Update your hardware now – Computerworld](https://digitpatrox.com/update-your-hardware-now-computerworld/)
+    ### What role will partners play in realizing our collective AI dreams?](https://digitpatrox.com/what-role-will-partners-play-in-realizing-our-collective-ai-dreams/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### Security incident recovery times are over 7 months on average](https://digitpatrox.com/security-incident-recovery-times-are-over-7-months-on-average/)
+    ### 2025 Nissan Kicks Review – Consumer Reports](https://digitpatrox.com/2025-nissan-kicks-review-consumer-reports/)
 * [4 hours ago
     
-    ### Microsoft Reveals Mini PC for Easy Access to Windows 365](https://digitpatrox.com/microsoft-reveals-mini-pc-for-easy-access-to-windows-365/)
+    ### How to Adjust Your Equalizer Like a Pro](https://digitpatrox.com/how-to-adjust-your-equalizer-like-a-pro/)
 * [4 hours ago
     
-    ### NYT Connections today hints and answers — Thursday, November 21 (#529)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-21-529/)
+    ### 10 Social Media Planners You Can Start Using Today \[FREE\]](https://digitpatrox.com/10-social-media-planners-you-can-start-using-today-free/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
