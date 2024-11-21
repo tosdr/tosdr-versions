@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Vittorio Angelone](https://cdn.comedy.co.uk/images/library/people/300x200/v/vittorio_angelone_wdytya.jpg "Vittorio Angelone")](https://www.comedy.co.uk/live/features/vittorio-angelone-interview/) Live
+
+[Who does Vittorio Angelone think he is?](https://www.comedy.co.uk/live/features/vittorio-angelone-interview/)
+
 [![Calendar Girls. Image shows from L to R: Annie (Julie Walters), Chris (Helen Mirren). Copyright: Calendar Girls Productions](https://cdn.comedy.co.uk/images/library/comedies/300x200/c/calendar_girls.jpg "Calendar Girls. Image shows from L to R: Annie (Julie Walters), Chris (Helen Mirren). Copyright: Calendar Girls Productions")](https://www.comedy.co.uk/quiz/333/) Quiz
 
 [British Comedy Quiz #333](https://www.comedy.co.uk/quiz/333/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Chris Cantrill](https://cdn.comedy.co.uk/images/library/people/300x200/c/chris_cantrill_easily_swayed_b.jpg "Chris Cantrill")](https://www.comedy.co.uk/live/random8/chris-cantrill/) Live
 
 [Random 8: Chris Cantrill](https://www.comedy.co.uk/live/random8/chris-cantrill/)
-
-[![Neil Innes](https://cdn.comedy.co.uk/images/library/people/300x200/n/neil_innes_album_cover.jpg "Neil Innes")](https://www.comedy.co.uk/features/comedy_chronicles/neil-innes/) Features
-
-[Comedy Chronicles: Do I have to spell it out? Neil Innes own right](https://www.comedy.co.uk/features/comedy_chronicles/neil-innes/)
 
 #### Subscribe to our newsletters
 
