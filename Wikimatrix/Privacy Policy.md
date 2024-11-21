@@ -14,6 +14,8 @@ Compare Them All](https://www.wikimatrix.org/)
 * [Search](https://www.wikimatrix.org/search)
 * [About](https://www.wikimatrix.org/static/about)
 
+[![](/display/7/468_60/f8a93fc2d21e19f0cfee2398ecbadf44)](https://drupal-wiki.com/de/?wikimatrix=wm1k)
+
 Privacy Policy
 ==============
 
