@@ -41,30 +41,30 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![](https://www.women.com/img/gallery/5-celeb-parents-who-are-loud-proud-supporters-of-their-trans-and-non-binary-children/intro-1731522385.jpg)](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+*  [![Dolly Parton on the red carpet with arms outstretched](https://www.women.com/img/gallery/dolly-partons-most-philanthropic-efforts-across-her-long-career/intro-1731613196.jpg)](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
     
-    [Politics](https://www.women.com/category/politics/)
+    [Living](https://www.women.com/category/living/)
     
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
     
-    [5 Celeb Parents Who Are Loud & Proud Supporters Of Their Trans And Non-Binary Children](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
-    ====================================================================================================================================================================
+    [Dolly Parton's Most Philanthropic Efforts Across Her Long Career](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+    ========================================================================================================================================================
     
-    Unlike generations before, our understanding of sexuality and gender is finally catching up with the experiences others have had since the dawn of time.
+    Dolly Parton is a philanthropic icon, repeatedly investing in the creativity and futures for people across the globe, as well as her home town.
     
-    By Amanda Chatel [Read More](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+    By Emily Hutchinson [Read More](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
     
-* *  [![Dolly Parton on the red carpet with arms outstretched](https://www.women.com/img/gallery/dolly-partons-most-philanthropic-efforts-across-her-long-career/intro-1731613196.jpg)](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+* *  [![Gabrielle Union and Dwayne Wade at a basketball event](https://www.women.com/img/gallery/5-celeb-parents-who-are-loud-proud-supporters-of-their-trans-and-non-binary-children/intro-1731522385.jpg)](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
         
-        [Living](https://www.women.com/category/living/)
+        [Politics](https://www.women.com/category/politics/)
         
-        [Living](https://www.women.com/category/living/) By Emily Hutchinson
+        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
         
-        ### [Dolly Parton's Most Philanthropic Efforts Across Her Long Career](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+        ### [5 Celeb Parents Who Are Loud & Proud Supporters Of Their Trans And Non-Binary Children](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
         
-        Dolly Parton is a philanthropic icon, repeatedly investing in the creativity and futures for people across the globe, as well as her home town.
+        Unlike generations before, our understanding of sexuality and gender is finally catching up with the experiences others have had since the dawn of time.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+        By Amanda Chatel [Read More](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
         
     *  [![Emma Watson posing at the British Academy Film Awards](https://www.women.com/img/gallery/try-emma-watsons-viral-daily-journaling-practice-for-a-simple-effective-mindfulness-habit/intro-1731619992.jpg)](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
         
