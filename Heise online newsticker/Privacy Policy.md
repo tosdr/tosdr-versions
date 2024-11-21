@@ -89,7 +89,7 @@ Services
 * [Raumfahrt 🚀](https://www.heise.de/thema/Raumfahrt "News und Artikel zum Thema Raumfahrt 🚀")
 * [eHealth ⚕️](https://www.heise.de/thema/Digital-Health "News und Artikel zum Thema eHealth ⚕️")
 * [Podcasts 🎙](https://www.heise.de/podcasts "News und Artikel zum Thema Podcasts 🎙")
-* [Downloads 💾](https://www.heise.de/download "News und Artikel zum Thema Downloads 💾")
+* [Adventskalender🎄](https://www.heise.de/download/blog/Der-heise-Adventskalender-2024-10004988 "News und Artikel zum Thema Adventskalender🎄")
 
 [Newsletter](https://www.heise.de/newsletter/) [heise-Bot heise-Bot](https://www.heise.de/benachrichtigungen/heise-bot/) [Push Nachrichten Push Push-Nachrichten](https://www.heise.de/benachrichtigungen)
 
