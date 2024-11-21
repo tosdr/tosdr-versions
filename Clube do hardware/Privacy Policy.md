@@ -132,107 +132,119 @@ Política de privacidade
 
 [](https://whatsapp.com/channel/0029VaA51oy9hXF2RfactE03 "WhatsApp Clube do Hardware")
 
+* ### Popular agora
+    
+    * [![Gabriel Lucas GMR](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46297%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256503-gabriel-lucas-gmr/ "Ir ao perfil de Gabriel Lucas GMR")
+        
+        10
+        
+        [Cabo de força esquentando](https://www.clubedohardware.com.br/forums/topic/1703008-cabo-de-for%C3%A7a-esquentando/ "Visualizar tópico")
+        
+        Por [Gabriel Lucas GMR](https://www.clubedohardware.com.br/profile/1256503-gabriel-lucas-gmr/ "Ir ao perfil de Gabriel Lucas GMR")  
+        1 hora atrás
+        
+    
 * ### Últimos tópicos
     
-    * [![Breno 048](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256481.thumb.jpeg.2436e798c7dbe4a0f0d1d6c6e4a5ada7.jpeg)](https://www.clubedohardware.com.br/profile/1256481-breno-048/ "Ir ao perfil de Breno 048")
+    * [![0nurbs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256510.thumb.jpeg.811089e72600d97ef564005439a68a34.jpeg)](https://www.clubedohardware.com.br/profile/1256510-0nurbs/ "Ir ao perfil de 0nurbs")
         
         0
         
-        [Gargalo i9 11900 com uma 4060](https://www.clubedohardware.com.br/forums/topic/1702970-gargalo-i9-11900-com-uma-4060/?do=getNewComment "Gargalo i9 11900 com uma 4060")
+        [Atualização de BIOS de notebook Dell sem bateria (Sistema Legado)](https://www.clubedohardware.com.br/forums/topic/1703012-atualiza%C3%A7%C3%A3o-de-bios-de-notebook-dell-sem-bateria-sistema-legado/?do=getNewComment "Atualização de BIOS de notebook Dell sem bateria (Sistema Legado)")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Breno 048](https://www.clubedohardware.com.br/profile/1256481-breno-048/ "Ir ao perfil de Breno 048")  
-        13 minutos atrás
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [0nurbs](https://www.clubedohardware.com.br/profile/1256510-0nurbs/ "Ir ao perfil de 0nurbs")  
+        7 minutos atrás
         
-    * [![Jangling Jack](https://www.clubedohardware.com.br/uploads/members/monthly_2018_01/A-31844-1380471646-2076.jpeg.thumb.jpg.b8271ca702d48e9e8585032c1d73f035.jpg)](https://www.clubedohardware.com.br/profile/880016-jangling-jack/ "Ir ao perfil de Jangling Jack")
+    * [![Vinicius Moraes Antonio](https://www.clubedohardware.com.br/uploads/members/monthly_2021_04/foto.thumb.jpg.50602045a55565dad7793ed826f32315.jpg)](https://www.clubedohardware.com.br/profile/1127170-vinicius-moraes-antonio/ "Ir ao perfil de Vinicius Moraes Antonio")
         
         0
         
-        [Confirmação quanto a fonte para i5 12400f + gtx1050ti (Corsair CX450)](https://www.clubedohardware.com.br/forums/topic/1702969-confirma%C3%A7%C3%A3o-quanto-a-fonte-para-i5-12400f-gtx1050ti-corsair-cx450/?do=getNewComment "Confirmação quanto a fonte para i5 12400f + gtx1050ti (Corsair CX450)")
+        [PS3 não liga. Não ascende led vermelho e só da um Bip](https://www.clubedohardware.com.br/forums/topic/1703011-ps3-n%C3%A3o-liga-n%C3%A3o-ascende-led-vermelho-e-s%C3%B3-da-um-bip/?do=getNewComment "PS3 não liga. Não ascende led vermelho e só da um Bip")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Jangling Jack](https://www.clubedohardware.com.br/profile/880016-jangling-jack/ "Ir ao perfil de Jangling Jack")  
-        21 minutos atrás
+        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
+        Por [Vinicius Moraes Antonio](https://www.clubedohardware.com.br/profile/1127170-vinicius-moraes-antonio/ "Ir ao perfil de Vinicius Moraes Antonio")  
+        22 minutos atrás
         
-    * [![Justin farias](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1114416.thumb.png.d7a1b3e07d0ffcb161489893debe4591.png)](https://www.clubedohardware.com.br/profile/1114416-justin-farias/ "Ir ao perfil de Justin farias")
+    * [![Sellpt](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256507.thumb.png.655918a7f564954e393a7c038982a39e.png)](https://www.clubedohardware.com.br/profile/1256507-sellpt/ "Ir ao perfil de Sellpt")
         
         3
         
-        [Aircooler para o processaodor Ryzen 7 5700X3D](https://www.clubedohardware.com.br/forums/topic/1702968-aircooler-para-o-processaodor-ryzen-7-5700x3d/?do=getNewComment "Aircooler para o processaodor Ryzen 7 5700X3D")
+        [Pc com RTX 3060 12GB](https://www.clubedohardware.com.br/forums/topic/1703010-pc-com-rtx-3060-12gb/?do=getNewComment "Pc com RTX 3060 12GB")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Justin farias](https://www.clubedohardware.com.br/profile/1114416-justin-farias/ "Ir ao perfil de Justin farias")  
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Sellpt](https://www.clubedohardware.com.br/profile/1256507-sellpt/ "Ir ao perfil de Sellpt")  
         46 minutos atrás
         
-    * [![Kaicao16](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256478.thumb.jpeg.599b3634f243811f344dbb777f6feb00.jpeg)](https://www.clubedohardware.com.br/profile/1256478-kaicao16/ "Ir ao perfil de Kaicao16")
+    * [![Helder_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256506.thumb.png.577b03d44bce5bbbd1108078fbdcd2c0.png)](https://www.clubedohardware.com.br/profile/1256506-helder_/ "Ir ao perfil de Helder_")
         
         3
         
-        [Computador não da imagem](https://www.clubedohardware.com.br/forums/topic/1702965-computador-n%C3%A3o-da-imagem/?do=getNewComment "Computador não da imagem")
+        [Minha Build é boa ou não?](https://www.clubedohardware.com.br/forums/topic/1703009-minha-build-%C3%A9-boa-ou-n%C3%A3o/?do=getNewComment "Minha Build é boa ou não?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Kaicao16](https://www.clubedohardware.com.br/profile/1256478-kaicao16/ "Ir ao perfil de Kaicao16")  
-        57 minutos atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Helder\_](https://www.clubedohardware.com.br/profile/1256506-helder_/ "Ir ao perfil de Helder_")  
+        53 minutos atrás
         
-    * [![diogomancha](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b162c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/365685-diogomancha/ "Ir ao perfil de diogomancha")
+    * [![Gabriel Lucas GMR](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46297%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EGL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256503-gabriel-lucas-gmr/ "Ir ao perfil de Gabriel Lucas GMR")
         
-        3
+        10
         
-        [PRIME B350-PLUS capando o PC? Possível?](https://www.clubedohardware.com.br/forums/topic/1702964-prime-b350-plus-capando-o-pc-poss%C3%ADvel/?do=getNewComment "PRIME B350-PLUS capando o PC? Possível?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [diogomancha](https://www.clubedohardware.com.br/profile/365685-diogomancha/ "Ir ao perfil de diogomancha")  
-        58 minutos atrás
-        
-    * [![Satoshii](https://www.clubedohardware.com.br/uploads/members/monthly_2022_07/345d2c7fa611dd53389f72e7f46e5c66.thumb.jpg.1bae44771c70cd8c8fd77c10b30ca521.jpg)](https://www.clubedohardware.com.br/profile/1199268-satoshii/ "Ir ao perfil de Satoshii")
-        
-        1
-        
-        [Prism 4RS é uma boa fan?](https://www.clubedohardware.com.br/forums/topic/1702963-prism-4rs-%C3%A9-uma-boa-fan/?do=getNewComment "Prism 4RS é uma boa fan?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Satoshii](https://www.clubedohardware.com.br/profile/1199268-satoshii/ "Ir ao perfil de Satoshii")  
-        1 hora atrás
-        
-    * [![Tomioo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/download(5).thumb.jpeg.78e0a125997db0f03be603d16f2f4f3e.jpeg)](https://www.clubedohardware.com.br/profile/1224992-tomioo/ "Ir ao perfil de Tomioo")
-        
-        2
-        
-        [Pc liga normalmente mas led VGA fica ligado](https://www.clubedohardware.com.br/forums/topic/1702962-pc-liga-normalmente-mas-led-vga-fica-ligado/?do=getNewComment "Pc liga normalmente mas led VGA fica ligado")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Tomioo](https://www.clubedohardware.com.br/profile/1224992-tomioo/ "Ir ao perfil de Tomioo")  
-        1 hora atrás
-        
-    * [![TiagoMatos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256475.thumb.jpeg.a92bdd50a6c34741b46ddef825d86bb8.jpeg)](https://www.clubedohardware.com.br/profile/1256475-tiagomatos/ "Ir ao perfil de TiagoMatos")
-        
-        0
-        
-        [Overclock AMD Ryzen 7 1700 na B450M Steel Legend](https://www.clubedohardware.com.br/forums/topic/1702960-overclock-amd-ryzen-7-1700-na-b450m-steel-legend/?do=getNewComment "Overclock AMD Ryzen 7 1700 na B450M Steel Legend")
-        
-        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
-        Por [TiagoMatos](https://www.clubedohardware.com.br/profile/1256475-tiagomatos/ "Ir ao perfil de TiagoMatos")  
-        1 hora atrás
-        
-    * [![João Pedro Baessa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256474.thumb.jpeg.018eb0e21b14817d503e3c4da07fdd5d.jpeg)](https://www.clubedohardware.com.br/profile/1256474-jo%C3%A3o-pedro-baessa/ "Ir ao perfil de João Pedro Baessa")
-        
-        5
-        
-        [Fonte nova MSI MAG A650BN fazendo zumbidos](https://www.clubedohardware.com.br/forums/topic/1702959-fonte-nova-msi-mag-a650bn-fazendo-zumbidos/?do=getNewComment "Fonte nova MSI MAG A650BN fazendo zumbidos")
+        [Cabo de força esquentando](https://www.clubedohardware.com.br/forums/topic/1703008-cabo-de-for%C3%A7a-esquentando/?do=getNewComment "Cabo de força esquentando")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [João Pedro Baessa](https://www.clubedohardware.com.br/profile/1256474-jo%C3%A3o-pedro-baessa/ "Ir ao perfil de João Pedro Baessa")  
+        Por [Gabriel Lucas GMR](https://www.clubedohardware.com.br/profile/1256503-gabriel-lucas-gmr/ "Ir ao perfil de Gabriel Lucas GMR")  
         1 hora atrás
         
-    * [![Gianluca Bracali](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/FotodePerfil2000x2000LowQuality(2)(2).thumb.jpg.b9f4ea24afce3a6003985837b59957a2.jpg)](https://www.clubedohardware.com.br/profile/1256471-gianluca-bracali/ "Ir ao perfil de Gianluca Bracali")
+    * [![Banunin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256467.thumb.png.2cbe5524a04f4036587342014e8d6318.png)](https://www.clubedohardware.com.br/profile/1256467-banunin/ "Ir ao perfil de Banunin")
+        
+        15
+        
+        [Como baixam os drivers? Quero saber a opinião de cada um.](https://www.clubedohardware.com.br/forums/topic/1703007-como-baixam-os-drivers-quero-saber-a-opini%C3%A3o-de-cada-um/?do=getNewComment "Como baixam os drivers? Quero saber a opinião de cada um.")
+        
+        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
+        Por [Banunin](https://www.clubedohardware.com.br/profile/1256467-banunin/ "Ir ao perfil de Banunin")  
+        1 hora atrás
+        
+    * [![Magnalium](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253299.thumb.png.75154555bf501885d2fdde7699e18b7c.png)](https://www.clubedohardware.com.br/profile/1253299-magnalium/ "Ir ao perfil de Magnalium")
+        
+        18
+        
+        [Fonte MSI MAG A650BN vale a pena por R$269,00? AMD Ryzen 5 5600GT](https://www.clubedohardware.com.br/forums/topic/1703006-fonte-msi-mag-a650bn-vale-a-pena-por-r26900-amd-ryzen-5-5600gt/?do=getNewComment "Fonte MSI MAG A650BN vale a pena por R$269,00? AMD Ryzen 5 5600GT")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Magnalium](https://www.clubedohardware.com.br/profile/1253299-magnalium/ "Ir ao perfil de Magnalium")  
+        1 hora atrás
+        
+    * [![Jogador23azul](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b3c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256501-jogador23azul/ "Ir ao perfil de Jogador23azul")
         
         4
         
-        [RTX 3060 rodando em PCIe x4 3.0 e CPU com 100% de uso em jogos](https://www.clubedohardware.com.br/forums/topic/1702957-rtx-3060-rodando-em-pcie-x4-30-e-cpu-com-100-de-uso-em-jogos/?do=getNewComment "RTX 3060 rodando em PCIe x4 3.0 e CPU com 100% de uso em jogos")
+        [Fonte Corsair CX450 aguenta Radeon RX 6600?](https://www.clubedohardware.com.br/forums/topic/1703005-fonte-corsair-cx450-aguenta-radeon-rx-6600/?do=getNewComment "Fonte Corsair CX450 aguenta Radeon RX 6600?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Jogador23azul](https://www.clubedohardware.com.br/profile/1256501-jogador23azul/ "Ir ao perfil de Jogador23azul")  
+        1 hora atrás
+        
+    * [![Voltzinhu](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256500.thumb.png.10a3ddaf8f483ccfd5ee1491fefb1de6.png)](https://www.clubedohardware.com.br/profile/1256500-voltzinhu/ "Ir ao perfil de Voltzinhu")
+        
+        5
+        
+        [Am4 ou Am5? Indicações de processadores](https://www.clubedohardware.com.br/forums/topic/1703004-am4-ou-am5-indica%C3%A7%C3%B5es-de-processadores/?do=getNewComment "Am4 ou Am5? Indicações de processadores")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Voltzinhu](https://www.clubedohardware.com.br/profile/1256500-voltzinhu/ "Ir ao perfil de Voltzinhu")  
+        1 hora atrás
+        
+    * [![Lara couto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255937.thumb.png.bab5d2addbbf6f2c2a149d3d8850a22b.png)](https://www.clubedohardware.com.br/profile/1255937-lara-couto/ "Ir ao perfil de Lara couto")
+        
+        2
+        
+        [Devo me preocupar com o hotspot da placa de Vídeo que chegou a 107°C](https://www.clubedohardware.com.br/forums/topic/1703003-devo-me-preocupar-com-o-hotspot-da-placa-de-v%C3%ADdeo-que-chegou-a-107%C2%B0c/?do=getNewComment "Devo me preocupar com o hotspot da placa de Vídeo que chegou a 107°C")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Gianluca Bracali](https://www.clubedohardware.com.br/profile/1256471-gianluca-bracali/ "Ir ao perfil de Gianluca Bracali")  
-        3 horas atrás
+        Por [Lara couto](https://www.clubedohardware.com.br/profile/1255937-lara-couto/ "Ir ao perfil de Lara couto")  
+        1 hora atrás
         
     
 
@@ -390,10 +402,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
