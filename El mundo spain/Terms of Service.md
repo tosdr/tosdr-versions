@@ -1,15 +1,19 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zz461woAAVAAAABb78c)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Zz6PEAoAAVEAAABc9@U)
 
 Es noticia
 
-* [Comisión Europea](https://www.elmundo.es/espana/2024/11/20/673e141de85ece25198b457b.html)
 * [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/11/20/673d7c5ea75cca89418862e2-directo.html)
+* [Salomé Pradas](https://www.elmundo.es/comunidad-valenciana/2024/11/20/673e389e21efa0b2368b4597.html)
+* [DANA](https://www.elmundo.es/economia/macroeconomia/2024/11/20/673e1ba0fc6c831b118b4597.html)
 * [Teresa Ribera](https://www.elmundo.es/espana/2024/11/20/673d9a5bfdddff3e8b8b4575.html)
 * [Alvise](https://www.elmundo.es/espana/2024/11/20/673dd179e9cf4aed528b4598.html)
 * [Iker Jiménez](https://www.elmundo.es/television/2024/11/20/673d929b21efa0d7568b457b.html)
 * [Alfred Costa](https://www.elmundo.es/comunidad-valenciana/2024/11/20/673dd98ffdddff6e188b459a.html)
+* [Muere Andrés Cassinello](https://www.elmundo.es/espana/2024/11/20/673e2e79e9cf4a8e0e8b458c.html)
 * [Pampols](https://www.elmundo.es/espana/2024/11/20/673d943a21efa0d2308b457a.html)
+* [María Jesús Montero](https://www.elmundo.es/economia/empresas/2024/11/20/673e1503e4d4d864498b4592.html)
 * [Manuel Díaz 'El Cordobés'](https://www.elmundo.es/loc/famosos/2024/11/20/673de422fdddffa7448b45b8.html)
+* [Independencia Cataluña](https://www.elmundo.es/espana/2024/11/20/673e141de85ece25198b457b.html)
 * [Nerea Garmendia](https://www.elmundo.es/loc/famosos/2024/11/20/673dc181e4d4d8395e8b45a0.html)
 * [DANA](https://www.elmundo.es/espana/2024/11/20/673d9a5bfdddff3e8b8b4575.html)
 * [Calefacción](https://www.elmundo.es/como/2024/11/20/673dae55e85ece383b8b45b3.html)
