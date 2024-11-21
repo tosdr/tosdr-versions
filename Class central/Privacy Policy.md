@@ -412,11 +412,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. data science
+1. hacking
     
-2. machine learning
+2. finance
     
-3. cyber security
+3. project management
     
 
 Popular subjects
