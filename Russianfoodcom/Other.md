@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_8.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
+* [Скумбрия, запечённая с помидорами и сладким перцем](https://www.russianfood.com/recipes/recipe.php?rid=174077)
+* [Отбивные из свинины с грибами, сладким перцем и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174112)
 * [Волованы по-эльзасски](https://www.russianfood.com/recipes/recipe.php?rid=9246)
 * [Пюре из репы](https://www.russianfood.com/recipes/recipe.php?rid=12161)
-* [Красная капуста, запеченная с каштанами](https://www.russianfood.com/recipes/recipe.php?rid=18038)
 * [Блины боярские](https://www.russianfood.com/recipes/recipe.php?rid=19620)
-* [Тортеллини, запеченные с шалфеем и ветчиной](https://www.russianfood.com/recipes/recipe.php?rid=30095)
-* [Виноградный торт](https://www.russianfood.com/recipes/recipe.php?rid=30105)
 * [Пирог творожный по-крестьянски](https://www.russianfood.com/recipes/recipe.php?rid=30716)
-* [Язык под шубой](https://www.russianfood.com/recipes/recipe.php?rid=31498)
-* [Суп-пюре из томатов и блинчатые пирожки с мозгами](https://www.russianfood.com/recipes/recipe.php?rid=32258)
-* [Мусс из ветчины](https://www.russianfood.com/recipes/recipe.php?rid=32418)
+* [Суп с кольраби](https://www.russianfood.com/recipes/recipe.php?rid=32840)
+* [Яблочный пирог (открытый)](https://www.russianfood.com/recipes/recipe.php?rid=32900)
+* [Фруктовый торт](https://www.russianfood.com/recipes/recipe.php?rid=35521)
+* [Трубочки со сметаной](https://www.russianfood.com/recipes/recipe.php?rid=40665)
 
 |     |
 | --- |
@@ -182,17 +182,59 @@
 
 |     |     |
 | --- | --- |
+| Рецепты<br><br>[Куриный суп с брокколи и цветной капустой](https://www.russianfood.com/recipes/recipe.php?rid=174054) |     |
+
+[![Фото к рецепту: Куриный суп с брокколи и цветной капустой](//img1.russianfood.com/dycontent/images_upl/754/sm_753079.jpg "Фото к рецепту: Куриный суп с брокколи и цветной капустой")](https://www.russianfood.com/recipes/recipe.php?rid=174054)
+
+Суп на курином бульоне варится с двумя видами капусты, а также со сладким перцем. Суп с овощами и куриным мясом, без картофеля, получается лёгким и ярким.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174054)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174054#comments) | 21.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Постный фасолевый суп со щавелем](https://www.russianfood.com/recipes/recipe.php?rid=173397) |     |
+
+[![Фото к рецепту: Постный фасолевый суп со щавелем](//img1.russianfood.com/dycontent/images_upl/737/sm_736074.jpg "Фото к рецепту: Постный фасолевый суп со щавелем")](https://www.russianfood.com/recipes/recipe.php?rid=173397)
+
+Быстрый в приготовлении суп без мяса варится из обжаренных овощей, консервированной фасоли и свежего щавеля. Куркума и паприка делают суп ярче и ароматнее.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173397)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173397#comments) | 21.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Для всех, кто хочет удивить. Лучшие рецепты на Новый год (89)](https://www.russianfood.com/reading/?post_id=22907) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/747/sm_746060.jpg)](https://www.russianfood.com/reading/?post_id=22907)
+
+Свиные отбивные с овощами. Салат с красной рыбой, огурцом и маслинами. Бостонский пирог-торт. Мясные тефтели с тыквой и пшеном. Печёночный рулет с грибами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22907)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22907#comments) | 21.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Луковые горячие бутерброды](https://www.russianfood.com/recipes/recipe.php?rid=174866) |     |
 
 [![Фото к рецепту: Луковые горячие бутерброды](//img1.russianfood.com/dycontent/images_upl/753/sm_752831.jpg "Фото к рецепту: Луковые горячие бутерброды")](https://www.russianfood.com/recipes/recipe.php?rid=174866)
 
-Простой, аппетитный и необычный перекус. Несложный процесс приготовления горячих бутербродов с луком и невероятный аромат сделают эту закуску фаворитом на вашем столе.
+Простой и необычный перекус. Ломтики хлеба с измельчённым луком, смешанным с яйцом, обжариваются до румяности только со стороны начинки. Бутерброды аппетитные, с замечательным ароматом.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174866)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174866#comments) | 21.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174866#comments) | 21.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -220,7 +262,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174856#comments) | 20.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174856#comments) | 20.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -234,7 +276,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174863#comments) | 20.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174863#comments) | 20.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -348,48 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Вкусное утро](https://www.russianfood.com/blogs/?id=421132) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173390#comments) | 18.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты › [Курица - любовь моя](https://www.russianfood.com/themes/?theme_id=9)<br><br>[Куриные окорочка в медово-лимонном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174167) |     |
-
-[![Фото к рецепту: Куриные окорочка в медово-лимонном соусе](//img1.russianfood.com/dycontent/images_upl/745/sm_744618.jpg "Фото к рецепту: Куриные окорочка в медово-лимонном соусе")](https://www.russianfood.com/recipes/recipe.php?rid=174167)
-
-Вкусные и сочные куриные окорочка. Розмарин, тимьян и яркий соус на основе мёда, лимонного сока и горчицы придают жареному куриному мясу неимоверный вкус. Чеснок и острый перец добавят аромат и пикантную нотку.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174167)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174167#comments) | 18.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Рис с грибами, зелёным горошком и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174173) |     |
-
-[![Фото к рецепту: Рис с грибами, зелёным горошком и беконом](//img1.russianfood.com/dycontent/images_upl/738/sm_737940.jpg "Фото к рецепту: Рис с грибами, зелёным горошком и беконом")](https://www.russianfood.com/recipes/recipe.php?rid=174173)
-
-Ароматный бекон, упругие шампиньоны, сочные помидоры и зелёный горошек обжариваются, а затем соединяются с отварным рисом. Приготовление нехлопотное, а блюдо получается ярким, сытным, с приятным ароматом копчёностей.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174173)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174173#comments) | 18.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Отбивные из свинины с грибами, сладким перцем и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174112) |     |
-
-[![Фото к рецепту: Отбивные из свинины с грибами, сладким перцем и сыром (в духовке)](//img1.russianfood.com/dycontent/images_upl/739/sm_738448.jpg "Фото к рецепту: Отбивные из свинины с грибами, сладким перцем и сыром (в духовке)")](https://www.russianfood.com/recipes/recipe.php?rid=174112)
-
-Шампиньоны, обжаренные с помидорами и сладким перцем, выкладываются на отбитые кусочки мяса. Затем всё посыпается натёртым сыром. Благодаря запеканию под "шапочкой" мясо получается очень сочным и питательным, да и в целом блюдо выглядит очень празднично.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174112)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174112#comments) | 18.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -459,10 +459,10 @@
 
 Новые рецепты:
 
-|     |     |     |
-| --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753375.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174823) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752890.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174867) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752831.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174866) |
-| [Дрожжевой кекс с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174823) | [Свинина по-степному](https://www.russianfood.com/recipes/recipe.php?rid=174867) | [Луковые горячие бутерброды](https://www.russianfood.com/recipes/recipe.php?rid=174866) |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736074.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173397) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753079.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174054) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752890.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174867) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753375.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174823) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752831.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174866) |
+| [Постный фасолевый суп со щавелем](https://www.russianfood.com/recipes/recipe.php?rid=173397) | [Куриный суп с брокколи и цветной капустой](https://www.russianfood.com/recipes/recipe.php?rid=174054) | [Свинина по-степному](https://www.russianfood.com/recipes/recipe.php?rid=174867) | [Дрожжевой кекс с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174823) | [Луковые горячие бутерброды](https://www.russianfood.com/recipes/recipe.php?rid=174866) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(149)
+(127)
