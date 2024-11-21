@@ -53,7 +53,9 @@ Regular price ~$129.99~ Sale price $89.99
 
 Unit price /  per](https://hugsleep.com/products/sleep-pod-move-hood) 
 
-* [Adults Collection Featuring 100% HugStretch™ Technology](#)
+* [Adults Collection
+    
+    Featuring 100% HugStretch™ Technology](#)
 
 BACK
 
@@ -78,7 +80,9 @@ BACK
   
   
 
-* [Kids Collection Providing comfort and inducing relaxation](#)
+* [Kids Collection
+    
+    Providing comfort and inducing relaxation](#)
 
 BACK
 
@@ -100,7 +104,9 @@ BACK
   
   
 
-* [Pillows Comfortable body pillows for sleep support](#)
+* [Pillows
+    
+    Comfortable body pillows for sleep support](#)
 
 BACK
 
@@ -122,7 +128,9 @@ BACK
   
   
 
-* [Hug Accessories Sleep’s best sidekicks](#)
+* [Hug Accessories
+    
+    Sleep’s best sidekicks](#)
 
 BACK
 
@@ -141,7 +149,11 @@ BACK
   
   
 
-* [Bundle Sales Bundle & Save Up to 50%](#)
+* [Bundle Sales
+    
+    UP TO 50% OFF
+    
+    Bundle & Save Up to 50%](#)
 
 BACK
 
@@ -181,7 +193,9 @@ BACK
   
   
 
-* [Loungewear Collection Premium hoodies and joggers](#)
+* [Loungewear Collection
+    
+    Premium hoodies and joggers](#)
 
 BACK
 
@@ -261,7 +275,9 @@ BACK
     * [Men’s Hoodies](https://hugsleep.com/products/men-s-hoodie-black)
     * [Men’s Joggers](https://hugsleep.com/products/men-s-jogger-black)
     
-* [Bundle Sale](https://hugsleep.com/collections/bundle-sales)
+* [Bundle Sale
+    
+    UP TO 50% OFF](https://hugsleep.com/collections/bundle-sales)
 * [Find Your Sleep Pod](https://hugsleep.com/pages/quiz)
 
 [Cart
