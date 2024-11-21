@@ -53,12 +53,13 @@
         * [eBooks & guides](https://resources.watermarkinsights.com/share/2233DA0D-0E7F-4A2F-8B04CC564A961F3D/?viewType=grid)
         * [Reports](https://resources.watermarkinsights.com/share/377FE2EA-D921-4CF7-85687B0B6DFC6885/?viewType=grid)
         * [Videos](https://resources.watermarkinsights.com/share/22FCF7C3-069E-4A06-929232E072980D01/?viewType=grid)
-    * * ### Cultivating student  
-            hope in a world that stokes apathy
+    * * ### Watermark Demo Week: Dec 10-12
             
-            [Read now](https://www.watermarkinsights.com/learn/ebook/can-we-cultivate-student-hope-in-a-world-that-stokes-apathy/ "Read now")
+            [Register now](https://event.on24.com/wcc/r/4778730/8F65A6CA0DF8F6763C63BEDFBF342BF4/5828487 "Read now")
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/10/Document-Promo.png)
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E)
+            
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/11/Demo-Week-Nav-Ad.png)
             
 * [Who we are](https://www.watermarkinsights.com/about-us/)
     * * [Company](https://www.watermarkinsights.com/about-us/)
@@ -141,12 +142,13 @@
         * [eBooks & guides](https://resources.watermarkinsights.com/share/2233DA0D-0E7F-4A2F-8B04CC564A961F3D/?viewType=grid)
         * [Reports](https://resources.watermarkinsights.com/share/377FE2EA-D921-4CF7-85687B0B6DFC6885/?viewType=grid)
         * [Videos](https://resources.watermarkinsights.com/share/22FCF7C3-069E-4A06-929232E072980D01/?viewType=grid)
-    * * ### Cultivating student  
-            hope in a world that stokes apathy
+    * * ### Watermark Demo Week: Dec 10-12
             
-            [Read now](https://www.watermarkinsights.com/learn/ebook/can-we-cultivate-student-hope-in-a-world-that-stokes-apathy/ "Read now")
+            [Register now](https://event.on24.com/wcc/r/4778730/8F65A6CA0DF8F6763C63BEDFBF342BF4/5828487 "Read now")
             
-            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/10/Document-Promo.png)
+            ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%20200'%3E%3C/svg%3E)
+            
+            ![](https://www.watermarkinsights.com/wp-content/uploads/2024/11/Demo-Week-Nav-Ad.png)
             
 * [Who we are](https://www.watermarkinsights.com/about-us/)
     * * [Company](https://www.watermarkinsights.com/about-us/)
