@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Warbird: Ghost Wolf Eye Protection](https://www.thegunpage.com/warbird-ghost-wolf-eye-protection/10612008)
+* [Smith & Wesson Performance Center M&P9 M2.0 Full Size Metal Carry Comp](https://www.thegunpage.com/smith-wesson-performance-center-mp9-m2-0-full-size-metal-carry-comp/10612010)
+* [New York Judge Allows Lawsuit Against Body Armor Ban To Go To Trial](https://www.thegunpage.com/new-york-judge-allows-lawsuit-against-body-armor-ban-to-go-to-trial/10612004)
 * [CMP Auctioning M1D Sniper Rifle To Benefit Museum Exhibit](https://www.thegunpage.com/cmp-auctioning-m1d-sniper-rifle-to-benefit-museum-exhibit/10612003)
 * [Public Support For An Assault Weapons Ban Continues To Tumble](https://www.thegunpage.com/public-support-for-an-assault-weapons-ban-continues-to-tumble/10612001)
 * [Ho Ho Ho, Now You Can Have The Die Hard Holster Too](https://www.thegunpage.com/ho-ho-ho-now-you-can-have-the-die-hard-holster-too/10611996)
+* [NRA Announces 2025 National Matches Locations & Schedule](https://www.thegunpage.com/nra-announces-2025-national-matches-locations-schedule/10612007)
 * [With Republican Sweep Anti-Gun Dem Senator Now Wants to be Bipartisan.](https://www.thegunpage.com/with-republican-sweep-anti-gun-dem-senator-now-wants-to-be-bipartisan/10611995)
 * [BlackArc Munitions Introduces Advanced 5.56 Load With Berger Bullet](https://www.thegunpage.com/blackarc-munitions-introduces-advanced-5-56-load-with-berger-bullet/10611997)
 * [Best Self-Defense Tools? Um…I Don’t Know…How ‘Bout a Gun](https://www.thegunpage.com/best-self-defense-tools-umi-dont-knowhow-bout-a-gun/10611994)
-* [2024 Holiday Gift Guide: Rifles](https://www.thegunpage.com/2024-holiday-gift-guide-rifles/10611992)
-* [All About The 2024 USPSA Alabama State Championship](https://www.thegunpage.com/all-about-the-2024-uspsa-alabama-state-championship/10611993)
-* [Why I Love Hunting With Suppressors](https://www.thegunpage.com/why-i-love-hunting-with-suppressors/10611989)
-* [POTD: Shooting Rk62, R20 LMTs and B&Ts in Iraq](https://www.thegunpage.com/potd-shooting-rk62-r20-lmts-and-bts-in-iraq/10611990)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
