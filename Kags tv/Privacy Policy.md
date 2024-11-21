@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/WCNC/images/ad782486-0e8b-4423-b2dc-3cf10de708ca/20240704T155343/ad782486-0e8b-4423-b2dc-3cf10de708ca_16x9.jpg) ![](https://media.kagstv.com/assets/WCNC/images/ad782486-0e8b-4423-b2dc-3cf10de708ca/20240704T155343/ad782486-0e8b-4423-b2dc-3cf10de708ca_360x203.jpg)](https://www.kagstv.com/article/news/crime/rockdale-shooting-suspect-captured-nov-2024/500-bf6c5d39-efab-4379-be69-9811d7697b2a)
+    *  [![](https://media.kagstv.com/assets/KAGS/images/c1e17186-410b-4de2-a15b-a11535cc085f/c1e17186-410b-4de2-a15b-a11535cc085f_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/c1e17186-410b-4de2-a15b-a11535cc085f/c1e17186-410b-4de2-a15b-a11535cc085f_360x203.jpg)](https://www.kagstv.com/article/traffic/train-pedestrian-crash-college-station-nov-21-2024/500-587515c8-c8ed-4854-9573-b7f0d5c4b98c)
         
-        #### [Suspect wanted in connection to Rockdale shooting captured, police say](https://www.kagstv.com/article/news/crime/rockdale-shooting-suspect-captured-nov-2024/500-bf6c5d39-efab-4379-be69-9811d7697b2a)
+        #### [Pedestrian taken to hospital after crash involving train in College Station](https://www.kagstv.com/article/traffic/train-pedestrian-crash-college-station-nov-21-2024/500-587515c8-c8ed-4854-9573-b7f0d5c4b98c)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/c23e7927-15a9-4ca0-baa7-3968de32b069/20241118T210246/c23e7927-15a9-4ca0-baa7-3968de32b069_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/c23e7927-15a9-4ca0-baa7-3968de32b069/20241118T210246/c23e7927-15a9-4ca0-baa7-3968de32b069_360x203.jpg)](https://www.kagstv.com/article/news/local/two-driving-with-1-million-worth-of-methamphetamine-arrested-interstate-45/500-d2cce15c-9bcb-441c-a5f8-d685cd1c43f5)
+    *  [![](https://media.kagstv.com/assets/KUSA/images/f5bbc7f8-66d7-44be-9dcc-c189e4e6d192/20241120T053528/f5bbc7f8-66d7-44be-9dcc-c189e4e6d192_16x9.jpg) ![](https://media.kagstv.com/assets/KUSA/images/f5bbc7f8-66d7-44be-9dcc-c189e4e6d192/20241120T053528/f5bbc7f8-66d7-44be-9dcc-c189e4e6d192_360x203.jpg)](https://www.kagstv.com/article/news/local/douglas-county-40-students-substitute-bus-driver-abandoned/73-cf4708d4-0a27-4fed-b6a2-07e2010929bb)
         
-        #### [Two caught with $1 million worth of methamphetamine in their car](https://www.kagstv.com/article/news/local/two-driving-with-1-million-worth-of-methamphetamine-arrested-interstate-45/500-d2cce15c-9bcb-441c-a5f8-d685cd1c43f5)
+        #### [Students say bus driver abandoned 40 kids during bus ride home](https://www.kagstv.com/article/news/local/douglas-county-40-students-substitute-bus-driver-abandoned/73-cf4708d4-0a27-4fed-b6a2-07e2010929bb)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-49°
+46°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
