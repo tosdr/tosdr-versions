@@ -1,5 +1,7 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
+Early Black Friday Deals: Save up to 40% off bestsellers. [Shop](https://www.bose.com/c/holiday-sale)
+
 Exclusive Color Drop: Save $50 on Ultra Open Earbuds in new Sunset Iridescent. [Shop](https://www.bose.com/c/exclusives)
 
 Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
