@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The great advantage about telling the truth is that nobody ever believes it”
+“ Prepare for what is difficult when it is easy”
 
-[Dorothy L. Sayers](https://en.wikipedia.org/wiki/Dorothy_L._Sayers)
+[Lao Tzu](https://en.wikipedia.org/wiki/Laozi)
 
 [](https://www.adafruit.com/about)
 
