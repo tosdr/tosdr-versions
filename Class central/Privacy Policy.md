@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [Why Duolingo is Worth More Than Coursera and Udemy Combined](https://www.classcentral.com/report/duolingo-vs-coursera-udemy-worth-comparison/)
-2. [10 Best Adobe After Effects Courses for 2024](https://www.classcentral.com/report/best-adobe-after-effects-courses/)
-3. [Black Friday 2024: 25+ Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
-4. [10 Best Lean Six Sigma Courses for 2024](https://www.classcentral.com/report/best-lean-six-sigma-courses/)
-5. [8 Best WordPress Courses for 2024](https://www.classcentral.com/report/best-wordpress-courses/)
+1. [\[2024\] 1000+ Free Google Certificates and Badges](https://www.classcentral.com/report/free-google-certifications/)
+2. [\[2024\] 200+ Free Courses on Mindfulness & Happiness](https://www.classcentral.com/report/mental-health-moocs/)
+3. [A Complete Guide to Virtual Team Building Activities](https://www.classcentral.com/report/virtual-team-building-activities/)
+4. [Why Duolingo is Worth More Than Coursera and Udemy Combined](https://www.classcentral.com/report/duolingo-vs-coursera-udemy-worth-comparison/)
+5. [10 Best Adobe After Effects Courses for 2024](https://www.classcentral.com/report/best-adobe-after-effects-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. c
+1. marketing
     
-2. law
+2. data science
     
 3. cyber security
     
 
 Popular subjects
 
-1. [Psychology
+1. [Graphic Design
     
-    2,703 courses](https://www.classcentral.com/subject/psychology)
-2. [Cybersecurity
+    4,347 courses](https://www.classcentral.com/subject/graphic-design)
+2. [Data Analysis
     
-    16,787 courses](https://www.classcentral.com/subject/cybersecurity)
-3. [Project Management
+    8,815 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Digital Marketing
     
-    4,234 courses](https://www.classcentral.com/subject/project-management)
+    6,275 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [How to Succeed at: Interviews
+1. [El rol de la digitalización en la transición energética
     
-    The University of Sheffield](https://www.classcentral.com/course/interviews-2253)
-2. [Improving Your Study Techniques
+    Galileo University](https://www.classcentral.com/course/energy-universidad-galileo-el-rol-de-la-digitaliz-48104)
+2. [First Step Korean
     
-    University of Groningen](https://www.classcentral.com/course/improving-study-techniques-13420)
-3. [L'Italiano nel mondo
+    Yonsei University](https://www.classcentral.com/course/learn-korean-5730)
+3. [Supporting Successful Learning in Primary School
     
-    University of Naples Federico II](https://www.classcentral.com/course/italian-universita-degli-studi-di-napoli-federico-9241)
+    University of Reading](https://www.classcentral.com/course/supporting-learning-primary-13229)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
