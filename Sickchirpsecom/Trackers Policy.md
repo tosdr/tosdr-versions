@@ -185,6 +185,18 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/logan-paul-bbc.webp)](https://www.sickchirpse.com/logan-paul-trolls-bbc-by-sending-lookalike-to-be-interviewed-over-crypto-scam-allegations/)
+
+### [Logan Paul Trolls BBC By Sending Lookalike To Be Interviewed Over Crypto Scam Allegations](https://www.sickchirpse.com/logan-paul-trolls-bbc-by-sending-lookalike-to-be-interviewed-over-crypto-scam-allegations/)
+
+[Read More »](https://www.sickchirpse.com/logan-paul-trolls-bbc-by-sending-lookalike-to-be-interviewed-over-crypto-scam-allegations/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/jake-paul-mike-tyson-fixed.jpg)](https://www.sickchirpse.com/this-video-proves-that-the-mike-tyson-vs-jake-paul-fight-was-fixed/)
+
+### [This Video ‘Proves’ That The Mike Tyson Vs Jake Paul Fight Was Fixed](https://www.sickchirpse.com/this-video-proves-that-the-mike-tyson-vs-jake-paul-fight-was-fixed/)
+
+[Read More »](https://www.sickchirpse.com/this-video-proves-that-the-mike-tyson-vs-jake-paul-fight-was-fixed/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/11/pickleball.jpg)](https://www.sickchirpse.com/pickleball-player-savagely-kicks-opponent-in-the-face-kos-him-during-handshake-after-losing-match/)
 
 ### [Pickleball Player Savagely Kicks Opponent In The Face, KO’s Him During Handshake After Losing Match](https://www.sickchirpse.com/pickleball-player-savagely-kicks-opponent-in-the-face-kos-him-during-handshake-after-losing-match/)
@@ -202,18 +214,6 @@ SEND
 ### [Jake Paul Accepts Huge Fight With Daniel Dubois After Heavyweight Champion Calls Him Out In Leaked DMs](https://www.sickchirpse.com/jake-paul-accepts-huge-fight-with-daniel-dubois-after-heavyweight-champion-calls-him-out-in-leaked-dms/)
 
 [Read More »](https://www.sickchirpse.com/jake-paul-accepts-huge-fight-with-daniel-dubois-after-heavyweight-champion-calls-him-out-in-leaked-dms/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/tottenham-spurs-logo-redesign.webp)](https://www.sickchirpse.com/tottenham-hotspur-are-getting-rinsed-over-embarrassing-logo-redesign/)
-
-### [Tottenham Hotspur Are Getting Rinsed Over ‘Embarrassing’ Logo Redesign](https://www.sickchirpse.com/tottenham-hotspur-are-getting-rinsed-over-embarrassing-logo-redesign/)
-
-[Read More »](https://www.sickchirpse.com/tottenham-hotspur-are-getting-rinsed-over-embarrassing-logo-redesign/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/willy-wonka-experience-boss-register.webp)](https://www.sickchirpse.com/willy-wonka-experience-boss-put-on-sex-offenders-register-after-sending-creepy-texts/)
-
-### [Willy Wonka Experience Boss Put On Sex Offenders Register After Sending Creepy Texts](https://www.sickchirpse.com/willy-wonka-experience-boss-put-on-sex-offenders-register-after-sending-creepy-texts/)
-
-[Read More »](https://www.sickchirpse.com/willy-wonka-experience-boss-put-on-sex-offenders-register-after-sending-creepy-texts/)
 
 #### trending post
 
