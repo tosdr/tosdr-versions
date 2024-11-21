@@ -698,3 +698,7 @@ Download IPVanish for mobile:
 "WireGuard" is a registered trademark of Jason A. Donenfeld.
 
 Scroll to Top
+
+                    
+
+This site is registered on [wpml.org](https://wpml.org/) as a development site.
