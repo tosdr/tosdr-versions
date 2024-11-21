@@ -263,7 +263,7 @@ ZIP Code\*
 **Contact Disclaimer**  
 I'm interested in possibly having Gutter Helmet on my home, by submitting this online request, which I agree is my signature, I'd also like to learn about Gutter Helmet products and sales. I understand you may use an auto-dialing phone system to contact me via phone, email or text. I understand consent is not required and that I can opt-out at any time, including (for texts) by replying "STOP" to cancel; "HELP" for help. I agree to Gutter Helmet's **Privacy Policy** and **Terms and Conditions.** Message and data rates apply.
 
-        
+         
 
 Δ
 
