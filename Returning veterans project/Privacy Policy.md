@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/21/24 - 1:15:50  
+Printed 11/21/24 - 7:27:01  
 © 2024 Returning Veterans Project
