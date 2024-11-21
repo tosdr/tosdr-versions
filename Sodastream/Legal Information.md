@@ -454,330 +454,257 @@ If you have any questions about SodaStream Services or have questions about a So
 Privacy Policy
 --------------
 
-In this document, the Privacy Policy is presented first, followed by the [Cookies Policy](#anchor-name)
+_Privileged & Confidential_                                                  _Hogan Lovells DRAFT_
 
-SODASTREAM - PRIVACY STATEMENT
+_Attorney-Client                                             Communication_ _February 19, 2024_
 
-**Notice last updated:** \[31/12/2019\]
+**Privacy Notice**
+
+**Table of Contents**
+
+1. Our Commitment To Privacy
+2. Important Information:
+3. What Information Do We Collect and How Do We Collect It?
+4. How Do We Use Your Personal Data?
+5. Opting Out:
+6. Data Security:
+7. Data Retention:
+8. We May Share Your Personal Data:
+9. Transferring Personal Data Globally
+10. Use of Cookies and Other Tracking Technologies
+11. Your Rights in Relation to Your Personal Data:
+12. Changes to This Privacy Notice
+13. Contact Information
+
+**SODASTREAM - PRIVACY NOTICE**
+
+**Notice last updated:** \[11/20/2024\]
+
+**California residents**: See “10.3 Additional State Disclosures” for additional information about your personal information and privacy rights under California law.
+
+Welcome to the SodaStream USA, Inc. ("**SodaStream**,” “**us**,” and/or “**we**”) website. Below you will find our Privacy Notice regarding the personal information we collect about users of our Services. 
+
+You may download a printable copy of this Privacy Notice (PDF): here.  
 
 **1.** ****Our Commitment To Privacy****
 
-Your privacy is very important to us at SodaStream and its affiliates, hereinafter also **"we"** and/or **"us"** and/or **"SodaStream"**. To better protect your privacy we provide this privacy policy ("**Privacy Notice**") explaining our information practices and the choices you can make about the way your information is collected, used and shared. To make this Privacy Policy easy to find, we make it available on our homepage and at every point where personal data may be requested.
+**1.1** We provide this notice (“**Privacy Notice**”) to explain our information practices and the choices you can make about the way your information is collected and used in connection with our digital properties that link to this Privacy Notice, including our websites (the “**Site**”, “**our website**” or “**this website**”) and our other products and services (collectively with our websites, the “**Services**”).  The purpose of this Privacy Notice is to describe the types of personal information we collect, when, why and how we collect, use and disclose your personal information, and your rights under applicable law. This Privacy Notice is not intended to override the terms of any contract you have with us, nor any rights you might have under applicable data privacy laws. 
 
-We strongly urge you read this Privacy Policy and make sure you fully understand our practices in relation to personal data, before you access or use any of our services. If you read and fully understand this Privacy Policy, but remain opposed to our practices, you must immediately leave our website, and avoid or discontinue all use of any of our services. Where you have read this Privacy Policy but would like further clarification, please contact us at [privacy@sodastream.com](mailto:privacy@sodastream.com).
+**1.2** We strongly urge you read this Privacy Notice and make sure you fully understand our practices in relation to personal information, before you access or use our Services. If you read and fully understand this Privacy Notice, but remain opposed to our practices, you must immediately leave our website, and avoid or discontinue all use of our Services. Where you have read this Privacy Notice but would like further clarification, please contact us at  [privacy@sodastream.com](mailto:privacy@sodastream.com).
 
-**2.** ****Important Information****
+**1.3** By accessing our Services, you acknowledge and agree that your personal information will be handled as described in this Privacy Notice. Your use of the Services, and any dispute over privacy is subject to this Privacy Notice and our Terms and Conditions, including its applicable limitations of liability and the resolution of disputes.
 
-2.1 The purpose of this Privacy Policy is to provide you with clear explanation of what personal data we collect, when, why and how we collect, use and share your personal data and it explains your statutory rights. This Privacy Policy is not intended to override the terms of any contract you have with us, nor any rights you might have under applicable data privacy laws.
+**2.** **General Information:**
 
-2.2 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information on our website or offline from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. Parents and guardians should supervise their children's activities at all times. If we learn we have collected or received personal data from a person under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a person under 13, please contact us at [privacy@sodastream.com](mailto:privacy@sodastream.com).
+**2.1** Children. We do not knowingly collect or maintain information from those under the age of 16, and no part of our Services is designed for users under the age of 16.  Parents and guardians should supervise their children’s activities at all times. If we learn we have collected or received personal information from a person under the age of 16, we will delete that information. If you believe we might have any information from or about a person under the age of 16, please contact us at [privacy@sodastream.com](mailto:privacy@sodastream.com).
 
-2.3 Note that our website contains links to third party websites which we are not responsible for. Please review the privacy policies of such third party websites should you visit these websites. This Privacy Policy does not address the privacy or information practices of any third parties.
+**2.2** Third-Party Links. Note that our website contains links to third party websites which we are not responsible for. These links are not an endorsement of, or representation that we are affiliated with, any third party. In addition, our content may be included on web pages or in mobile applications or other online services that are not associated with us. We do not control websites, mobile applications or online services operated by third parties, and we are not responsible for their information practices. Please review the privacy policies of such third party websites should you visit these websites. This Privacy Notice does not address the privacy or information practices of any third parties.
 
-2.4 Our website uses cookies and other tracking technology to automatically collect certain data concerning its interactions with visitors. Some of this information may include personal data. We explain more about the information we collect using cookies and tracking technology in paragraph ‎10.
+ **3. What Categories of Personal Information Do We Collect and How Do We Collect It?**
 
-**3.** ****What Information Do We Collect and How Do We Collect It****
+**3.1** Depending on your interaction with us, we may collect the following categories of personal information about you directly from you, automatically through your use of our Services, and from third parties:
 
-3.1 GENERALLY
+* **Identifiers**, such as your name, email address, telephone number, mailing and billing address, date of birth, login credentials and passwords, IP address, device ID, unique online identifiers, or similar identifiers.
+* **Commercial information**, such as your purchase, registration, log-in and Service usage history or other consuming histories or tendencies. 
+* **Financial information**, such as your financial account information, credit card number, debit card number, or other payment card information. 
+* **Professional information**, such as your occupation, employment history, professional contact information, or other information provided by you in connection with the Services. 
+* **Internet or other electronic network activity**, such as your browser type and operating system; browsing history, clickstream data, search history on the Services, and information regarding your interaction with an internet website, application, email, newsletter, or advertisement, including access logs and other activity information related to your use of our Services; the length of time you visit our Services; and the referring URL, or the website or application that led you to our Services. 
+* **Audio, electronic, visual, or similar information**, such as voice and video recordings of customer care calls. 
+* **Geolocation data**, such as the general physical location of your device. 
+* **Protected classifications**, such as your age or gender. 
+* **Inferences**, such as inferences drawn to create a profile reflecting your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, or aptitudes. 
+* **Sensitive personal information**, as defined under applicable local law, such as account login credentials and passwords, and financial account information, credit card number, debit card number, or other financial information. 
 
-We collect the following information from visitors to our website. This is also the information we have collected about visitors to our website in the past 12 months. The source of all personal information we collect is the website visitors themselves.
+**3.2** Information We Collect Automatically. We, our service providers, and our business partners may automatically collect certain data about you, your computer or mobile device, your interactions over time with the Services, communications channels (including your interactions with chatbots on our Site), and other online services through cookies, pixel tags, clear GIFs, and similar technologies. This may include information such as your browser type, operating system, IP address, domain name, number of times you visited the website, dates you visited the website, date and time of an online request, the time required to download information you requested, error codes generated while your browser is in contact with our website, the amount of time you spent viewing the website and other session recordings and activity logs, and any other information described above as “Internet or other electronic network activity.” We explain more about our use of cookies and similar technologies in our section below regarding “Our Use of Cookies and Other Tracking Technologies” and our [Cookie Notice](https://sodastream.com/blogs/legal/cookies-policy).
 
-| Categories of Personal Information | Specific Types of Personal Information Collected |
-| --- | --- |
-| Identifiers | Name, email address, telephone number, street address information; information to set up and access your SodaStream account. |
-| Electronic Information that identifies, relates to, describes, or is capable of being associated with, a particular individual | Information you post in public spaces on our site or provide us by using our social media accounts or by allowing us to access your social media accounts (such as name, opinions, blogs). |
-| Commercial information | Information about your purchases, the consumption habits of yourself and members of your household |
-| Internet or other electronic network activity information | Your browser type, operating system, IP address, domain name, number of times you visited the website, dates you visited the website, date and time of an online request, the time required to download information you requested, error codes generated while your browser is in contact with our website and the amount of time you spent viewing the website. |
-| Professional or employment-related information | Curriculum Vitae (CV) information (if you apply for a job at SodaStream); position at your company (if you contact us on behalf of a company). |
+**3.3** Information We Collect Directly From You. We collect personal information directly from you when you use our Services. For example, if you register for an account, make a purchase, or contact us as an individual, we may collect information such as your name, date of birth, email address, telephone number, address information; gender, age, and information about your household or lifestyle information and your zip code, the consumption habits of you and members of your household, payment and credit card information, information to set up and access your SodaStream account, correspondence with us, any feedback on our products and services which you provide, and your customer support records and preferences, which may include any recordings and transcripts of your calls, recording of video calls, emails, form submissions, and chats with us for different purposes such as providing customer support, feedback, understanding our customer needs or training purposes, information that you voluntarily provide to us in response to market surveys we invite you to participate in, and other information that you choose to provide. If you register for an account, make a purchase, or contact us on behalf of a company, we will collect information such as company identification data, identification data from the company representative, company composition and consumption data, device data, payment data, login data, and other information that you choose to provide. If you create user generated content, we will collect information such as your posts, messages, ratings of our products, feedback, and other content that you can choose to upload to our forums or otherwise make available on the Services, as well as associated metadata.
 
-3.2 Personal data is collected when you voluntarily submit it through a website form, if you register with or use one of our website or online services. Our website automatically collects certain data concerning its interaction with visitors that facilitate operation, management and planning. Some information that may constitute personal data (such as your browser type, operating system, IP address, domain name, number of times you visited the website, dates you visited the website, date and time of an online request, the time required to download information you requested, error codes generated while your browser is in contact with our website and the amount of time you spent viewing the website) may be collected via cookies and other tracking technologies.
+**3.4** Information We Collect Through Social Networks. If you engage with us through social media (e.g. Instagram, Facebook, Pinterest, YouTube, Twitter, Tik-Tok) we collect your affiliation with social media related to us and any personal information you voluntarily provide, such as opinions in blog or recipe entries or messages you post on our social media pages. If you upload content, including your personal information, to a social network and then tag our website, your submission will be subject to that social network's terms of use and privacy notice, even where you post on an official SodaStream page on the social network.
 
-Aggregate Information (such as how many times visitors log onto our website) or other unidentifiable information may also be collected. Aggregated and unidentified data are not subject to this Privacy Policy. We explain more about our use of cookies and tracking technologies in paragraph 10.
+**3.5** Information We Collect From Other Users. If you invite others to use the Services, for example by sending an invitation email from the Site to the recipient’s external email address, you will be providing us with personal information about the recipient, such as their email address or online account username. We will process such personal information to provide this interactive Service. You are responsible for ensuring that the recipient’s information is accurate, and you should only provide the information of a recipient with their consent. 
 
-3.3 If you register or contact us as an individual, we will collect your name, email address, telephone number, address information (together, "**identification data**"); information about your household ("**household composition data**"), the consumption habits of you and members of your household ("**consumption data**"), information about the device you use to access our website or online services ("**device data**"), payment and credit card information ("**payment data**"), information to set up and access your SodaStream account ("**login data**").
+**3.6** Information We Collect From Other Sources. We may collect personal information about you from other sources, such as our service providers and business partners. We (and our service providers and third party business partners) may also combine personal information we receive from you with personal information we obtain from other sources, such as data enrichment providers, information services and data licensors. 
 
-3.4 If you register or contact us on behalf of a company, we will collect company identification data, identification data from the company representative, company composition and consumption data, device data, payment data and login data. 
+**4. How Do We Use Your Personal Information?**
 
-3.5 If you contact us by other offline methods in order to buy our products or services or by using one or more of the contact means provided offline, we will collect identification and payment data as relevant for the sale and delivery of the goods and services or to respond to your query or complaint and, as far as necessary, for the handling and fulfilment of the order and ongoing provision of our services. 
+We may use the categories of your personal information described above for the following business and commercial purposes:
 
-3.6 If you engage with us through social media e.g. Water Blog, Recipe Site, Instagram, Facebook, Pinterest, Twitter, we collect login information and any personal data you voluntarily provide, such as opinions in blog or recipe entries, or messages you post on our social media pages. If you upload content, including your personal data, to a social network and then tag our website, your submission will be subject to that social network's terms of use and privacy Policy, even where you post on an official SodaStream page on the social network. We do not have control over these terms of use and privacy policies, and have not reviewed their adequacy. You should therefore review these before submitting any personal data. 
+4.1 **Service delivery:**
 
-3.7 If you apply to one of our open positions published in our careers sites, by sending us contact details and CV ("**applicants personal data**") via the relevant application on our website, or through any other means provided by us (e.g. social media),we will collect such applicants personal data in order to process your application. 
+We may use your personal information to:
 
-3.8 Third parties may also share information about you with us. For example, our business partners may give us information about you. We may receive information from commercial sources such as companies who compile information about shoppers and their preferences. 
+* offer, operate and improve our products and/or Services and our business (e.g., validate your order or subscription); 
+* process your payment and complete transactions with you (e.g., of a monthly fee in the case of a subscription); 
+* provide the products and Services that you requested or ordered or to which you subscribed. We will also use your personal information for the handling and fulfilment of your orders; 
+* provide support for the Services, and respond to your requests, questions and feedback as well as to provide customer support;
+* provide our customer management services, to maintain our relationship with you;
+* verify your identity, establish and set up your account, verify or re-issue a password, log your activity or authenticate your access and use of the Services;
+* communicate with you about the Services, including by sending announcements, updates, security alerts, and support and service messages.
 
-3.9 We combine information from different sources. For example, we may combine information we have collected offline with information we collect online. We combine information we have collected across third-party sites, including social media sites. We combine information across devices such as computers and mobile devices. We may also combine information from third parties with information we already have. We may use this information to generate inferences about you and for the other purposes described in this Privacy Policy.
+**4.2 Research and development:**
 
-**4.** ****How Do We Use Your Personal Data****
+We and our service providers may use your personal information for research and development purposes, including to improve our products, understand your interests, and to analyze and improve the Services and our business.
 
-4.1 GENERALLY 
+**4.3** **De-Identified data:**
 
-The following are the business or commercial purposes for which we use each category of personal information. Details about the information we collect for each category are provided above. More details about the business or commercial purposes are provided below.  
+We may create aggregated, de-identified or other anonymous data from personal information we collect. We de-identify or anonymize your data in such a way that you may not reasonably be re-identified by us or another party by removing information that makes the data personally identifiable to you. We may use this anonymous data and disclose it to third parties for our lawful business purposes, including to analyze and improve the Services and promote our business.. To the extent we de-identify or anonymize any data originally based on personal information, we will maintain and use such data in de-identified form and will not attempt to reidentify the data.
 
-| Categories of Personal Information | Business or commercial purposes pursuant to the CCPA | Specific purposes (further details appear below this chart) |
-| --- | --- | --- |
-| Identifiers | Providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments Auditing relating to a current transaction with the customer | GENERALLY<br><br>To provide our products and services To verify your identity To communicate with you To improve our products and services and prevent fraud |
-| Information that identifies, relates to, describes, or is capable of being associated with, a particular individual | Providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments<br><br>Auditing relating to a current transaction with the customer | GENERALLY<br><br>To provide our products and services To verify your identity To communicate with you To improve our products and services and prevent fraud |
-| Commercial information | Providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments<br><br>Auditing relating to a current transaction with the customer | GENERALLY<br><br>To provide our products and services To verify your identity To communicate with you To improve our products and services and prevent fraud |
-| Internet or other electronic network activity information | Detecting security incidents, protecting against malicious, deceptive, fraudulent or illegal activity, prosecuting those responsible for that activity<br><br>Undertaking internal research for technological development and demonstration<br><br>Undertaking activities to verify or maintain the quality of the service and to improve, upgrade or enhance the service Debugging to identify and repair errors | GENERALLY<br><br>To provide our products and services To verify your identity To communicate with you To improve our products and services and prevent fraud |
-| Professional or employment-related information |     | To process job applications |
+**4.4** **Compliance and protection:**
 
-**4.2** ****To provide our products and services****
+We may use your personal information where we believe necessary to:
 
-We collect personal data in order to offer our products and/or services and their functions. We may use the information collected in order to validate your order or subscription, to process your payment (for instance of a monthly fee in the case of a subscription) and to provide the products and services that you requested, ordered or to which you subscribed. We will also use your personal data as far as necessary for the handling and fulfilment of your order as well as to provide customer support. 
+* comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from law enforcement or government authorities;
+* protect our, your or others’ rights, privacy, safety or property (including by making and defending legal claims);
+* audit our internal processes for compliance with legal and contractual requirements or our internal policies; and
+* enforce the terms and conditions that govern the Services and prevent, identify and investigate fraudulent, harmful, unauthorized activities, including cyberattacks and identity theft, and other inappropriate activities and monitor content integrity on our website.
 
-We also use this information for marketing and customer management purposes, to maintain our relationship with you, with a view to providing stellar customer experience. 
+**4.5 Carrying out Marketing and Advertising:**
 
-4.3 **To** verify **your identity** 
+We and our third-party advertising partners may use your personal information for direct marketing and advertising purposes: 
 
-We may use the information collected from you to verify your identity. We may also use this information to establish and set up your account, verify or re-issue a password, log your activity and contact you from time to time; 
+* **Direct marketing**. We may for example send you emails to inform you of news and updates about our products and services. This may be in the form of email, post, SMS, or telephone. Where required by law, we will obtain your consent prior to sending you such marketing information.
 
-4.4 **For internal business purposes such as:** 
+* **Interest-based advertising**. We may engage third-party advertising and social media companies to display ads on the Services and on other online services. These companies may use cookies and similar technologies to collect information about you over time across the Services, our communications and other online services, and use that information to serve ads that they think will interest you and measure and improve the performance of the advertising campaigns. This is called interest-based advertising. We may also disclose information about our users with these companies to facilitate interest-based advertising to those or similar users on other online platforms. This may include tracking and storing interactions on websites, e.g., after you have clicked on an advertisement; tracking usage of the Services; storing and tracking audience reach and conversions; connecting information from the service provider’s advertising network with actions performed on the website; storing your preferences; building a profile of your interests to show you relevant and personalized advertisements; or listing advertisement on search engine websites based on recent searches.
 
-4.4.1 to improve our products in order to make them fit for our customers' needs and to draw insights in relation to possible improvements; 
+ **5. Opting Out:**
 
-4.4.2 to improve our services to you and customize your browsing experience. Some of the information (particularly the information collected by cookies and other tracking technology) helps us improve our website; better understand the visitors who come to our Services and what content is of interest to them; and 
+**Marketing Communications****.** We may send periodic promotional communications to you. We will give you the opportunity to "opt out" of direct marketing when you contact us in relation to a product or service or you receive any email, text or other direct marketing communication.
 
-**4.4.3** to track any fraudulent activities and other inappropriate activities and monitor content integrity on our website. 
+You have a right to prevent direct marketing of any form at any time - this can be exercised by following the opt-out link attached to each communication, or by sending your request to privacy@sodastream.com. If you want to review or update the information you have provided us, you can click "my profile" at our website's home page and edit the information. If you have not been asked already to provide your email address and a password, we will ask you to do it before changes are made, so as to help prevent others from accessing and altering your personal information.
 
-**4.5 To process job applications** 
+**Push Notifications****.** We may send push notifications to your device. You can opt-out of push notifications at any time by adjusting your device settings. 5.2 You have a right to prevent direct marketing of any form at any time - this can be exercised by following the opt-out link attached to each communication, by changing privacy settings within your SodaStream account or by sending an email to [privacy@sodastream.com](mailto:privacy@sodastream.com). If you want to review or update the information you have provided us, you can click "my profile" at our website's home page and edit the information. If you have not been asked already to provide your email address and a password, we will ask you to do it before changes are made, so as to prevent others from accessing and altering your personal data. 
 
-We collect applicants’ personal data solely for SodaStream's internal recruitment purposes including for: identifying applicants, evaluating their applications, making hiring and employment decisions, and contacting applicants by phone or in writing. 
+**6\. **Data Security:**** 
 
-4.6 **To communicate with you** 
+**6.1** We implement physical, technical, and organizational measures designed to safeguard personal information. These measures are aimed to protect the personal information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our efforts, no data security measures can guarantee security
 
-We use your personal data to respond to your queries and/or complaints about our products or services, and to provide you important information about your account and your products e.g. 
+**7\.** **Data Retention:**
 
-**5\. Direct Marketing:** 
+**7.1** We may retain your data as long as necessary to provide our Services, and beyond such time to the extent legally permitted and based on our legal obligations (e.g. in relation to invoice retention) or legitimate interests (e.g. in retaining data for the purposes of responding to possible disputes or complaints or for possible reactivation of subscriptions).
 
-We may use your personal data, including information related to your order, such as your address for direct marketing purposes. We may for example send you emails to inform you of news and updates about our products and services. This may be in the form of email, post, SMS, telephone or targeted online advertisements. Where required by law, we will obtain your consent prior to sending you such marketing information. 
+**7.2** In addition, we maintain a data retention policy which we apply to information in our care. Where your data is no longer required, we will ensure it is securely deleted or anonymized.
 
-5.1 To protect your privacy and ensure you have control over the use of your personal data, we will always give you the opportunity to "opt out" of direct marketing when you contact us in relation to a product or service or you receive any email, text or other direct marketing communication. If you opt out of getting marketing email messages, you may continue to receive non-marketing email messages from us where permitted by law. 
+ **8\. **We May Disclose Your Personal Information:****
 
-5.2 You have a right to prevent direct marketing of any form at any time - this can be exercised by following the opt-out link attached to each communication, by changing privacy settings within your SodaStream account or by sending an email to [privacy@sodastream.com](mailto:privacy@sodastream.com). If you want to review or update the information you have provided us, you can click "my profile" at our website's home page and edit the information. If you have not been asked already to provide your email address and a password, we will ask you to do it before changes are made, so as to prevent others from accessing and altering your personal data. 
+SodaStream may disclose the categories of your personal information described above for our business and commercial purposes as follows:
 
-5.3 Based on the information we have about you, we take steps to limit direct marketing to a reasonable and proportionate level, and to send you communications which we believe may be of interest or relevance to you, based on the information we have about you. 
+* with our corporate parent, or other SodaStream affiliates and subsidiaries for the purposes mentioned in this Privacy Notice.
+* with any service providers to whom the relevant SodaStream entity subcontracts all or part of this processing. The purpose of this transfer will be to help manage our business and deliver services. For instance, we may transfer your personal information to a service provider to the extent necessary to complete an order and deliver your product, and to process the payment of your order. Other instances may include transfers to e-marketing service providers, hosting providers and any other relevant roles**.** 
+* we may sometimes disclose your personal information with third-party business partners, including data enrichment providers, or enable third-party business partners, including vendors that provide chat functionalities on our Site, to collect information directly via our Services.
+* with third party advertising companies that collect information about your activity on the Services, and other online services to help us advertise our Services, and/or use customer lists that we disclose to them to deliver ads on their platforms on our behalf to those customers and similar users.
+* we may disclose or otherwise allow others access to your personal information pursuant to a legal request, such as a subpoena, legal proceedings, search warrant or court order, or in compliance with applicable laws, if we have a reasonable belief that the law requires us to do so, with or without notice to you. We may also allow access to this information in special emergencies where physical safety is at risk.
+* we disclose your personal information where we believe it is appropriate to do so to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms and Conditions or this Privacy Notice, or as evidence in litigation in which we are involved. 
+* we may disclose any personal information or other information obtained from or about you, to third parties in connection with a merger, acquisition, bankruptcy or sale of all, or substantially all, of our or our affiliates’ assets.
+* we may disclose your personal information with professional advisors, such as lawyers, auditors, bankers and insurers.
+* certain personal information and any content that you make publicly available on or via the Services, is visible to other users of the Services and the public. Where your personal information can be seen, collected, and used by others, including being cached, copied, screen captured or stored elsewhere by others (e.g., search engines), we are not responsible for any such use of data. We therefore encourage you only to post information that you are sure you want to be publicly accessible.
 
-**6\. Legal Basis for Processing Personal Data:** 
+**9.** **Use of Cookies and Other Tracking Technologies**
 
-**6.1** We will only collect, use or share your personal data for the purposes set out in this Privacy Policy where we are satisfied that:t: 
+SodaStream, and our third party advertising and analytics partners, uses certain monitoring and tracking technologies (such as cookies, beacons, pixels, tags and scripts) to track information about your use of our Services. These technologies are used in order to maintain, provide and improve our Services on an ongoing basis, and in order to provide our customers with a better experience, as well as for advertising and analytics purposes. For example, through these technologies, we are able to maintain and keep track of our customers' preferences and authenticated sessions, to better secure our Services, to identify technical issues, user trends and effectiveness of campaigns, and to monitor and improve the overall performance of our Services. We may combine this information with other personal information we collect about you (and our third party business partners may do so on our behalf).
 
-6.1.1 our use of your personal data is necessary to perform a contract or take steps to enter into a contract with you. For example, in order to provide our product and our services it will be necessary for us to process certain personal data such as your address, phone number, identification data and payment data to create your user account or fulfil your order. Also, we carry out this processing for the purpose of knowing our customer and maintaining our relationship with you, with a view to providing a stellar customer experience; or 
+Cookies. Cookies are small text files containing small amounts of information which are downloaded and may be stored on any of your devices that enable internet usage e.g. your computer, smartphone or tablet - like a memory for a web page. Please review your browser’s “Help” file to learn the proper way to modify your cookie settings. Please note that if you delete or choose not to accept cookies from the Site, you may not be able to utilize the features of the site to their fullest potential. To learn more about cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-6.1.2 our use of your personal data is necessary to support legitimate interests that we have as a business to provide products and services to our customers, provided it is conducted at all times in a way that is proportionate, and that respects your privacy rights. For example, we strive to always improve our products and services in order to make them fit our customers' needs. For this reason, we process personal data such as consumption habits, device information and household composition and draw insights in relation to possible improvements; or 
+Clear GIFs, pixel tags, and other technologies. Clear GIFs (also known as web beacons, web bugs, or pixel tags) are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, clear GIFs are embedded on web and app pages. We may use clear GIFs to among other things, track the activities of Site visitors, help us manage content, and compile statistics about Site usage. A clear GIF can collect information such as: the IP address of the computer that downloaded the page on which the tag appears; search terms and other interactions with the Site; the URL of the page on which the pixel tag appears; the time the page containing the pixel tag was viewed; the browser type and language; the device type; geographic location; and, the identification number of any cookie on the computer previously placed by that server. We and our third party business partners may also use clear GIFs in HTML emails to our customers, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded.
 
-6.1.3 our use of your personal data is necessary to comply with a relevant legal or regulatory obligation that we have. For example, to maintain appropriate business records, to comply with lawful requests by public authorities and to comply with applicable laws and regulations or as otherwise required by law; or 
+Please note that third party services placing cookies or utilizing other tracking technologies through our Services may have their own policies regarding how they collect and store information. Such practices are not covered by our Privacy Notice and we do not have any control over them.
 
-6.1.4 you have provided your consent to us using your personal data for that purpose (e.g. where you provide us with marketing consents or opt-in to additional services). 
+We explain more about the information we collect using cookies and tracking technology in [the Cookie Notice.](https://sodastream.com/blogs/legal/cookies-policy)
 
-Where the basis of processing is your consent, you have the right to withdraw your consent, and therefore prevent that processing, at any time. 
+**9.1 Additional State Disclosures**
 
-7\. How We Protect and Store Your Personal Dataa 
+**9.1.1 **Scope.****
 
-7.1 Data Security 
+You may have certain rights regarding our processing of your personal information under applicable state law. If our processing of your personal information is governed by such laws, this section provides you with additional information regarding your rights and our processing of your personal information under state law. 
 
-7.1.1 To prevent unauthorised access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect. Some of the steps we take are: placing confidentiality requirements on our staff and service providers; destroying or permanently anonymising personal data if it is no longer needed for the purposes for which it was collected. SodaStream will comply with applicable laws in the event of any breach of the security, confidentiality or integrity of your personal data and, where we consider appropriate or where required by applicable law, notify you via email, text or conspicuous posting on our website in the most expedient time possible and without unreasonable delay, in so far as it is consistent with (i) the legitimate needs of law enforcement, or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
+**9.1.2 Your privacy rights.** Depending on the jurisdiction in which you live, you may have the rights listed below under applicable state law. However, these rights are not absolute, and in certain cases we may decline or limit your request as required or permitted by applicable law. 
 
-7.1.2 However, the security of personal data depends in part on the security of the device used to communicate with us, the security you use to protect your login information, and the security provided by your internet access service provider. We make commercially reasonable efforts to make the collection and security of information consistent with this Privacy Policy and all applicable laws and regulations. Where you have a SodaStream username, login or password, you are responsible for keeping this information confidential. We ask you not to share a username, login or password with anyone. 
+* **Information.**  You can request the following information about how we have collected and used your personal information:
 
-7.2 Data Retention 
+\- The categories of personal information that we have collected.
 
-7.2.1 We may retain your data as long as necessary to provide our products and services, and beyond such time to the extent legally permitted and based on our legal obligations (e.g. in relation to invoice retention) or legitimate interests (e.g. in retaining data for the purposes of responding to possible disputes or complaints or for possible reactivation of subscriptions). 
+\- The categories of sources from which we collected personal information.
 
-7.2.2 In addition, we maintain a data retention policy which we apply to information in our care. Where your data is no longer required, we will ensure it is securely deleted or anonymised. 
+\- The business or commercial purpose for collecting, sharing, and/or selling personal information.
 
-7.2.3 Please note that SodaStream may retain applicants’ personal data submitted to it for no longer than two years after the applied position has been filled or closed. This is done so we could re-consider applicants for other positions and opportunities at SodaStream; so we could use their information as reference for future applications submitted by them; and in case the applicant is hired, for additional employment and business purposes related to his/her work at SodaStream. If you previously submitted applicants personal data to SodaStream, and now wish to access it, update it or have it deleted from SodaStream's systems, please contact us at [privacy@sodastream.com](mailto:privacy@sodastream.com).  
+\- The categories of personal information that we sold or disclosed for a business purpose.
 
-**8\. We May Share Your Personal Data** 
+\- The categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose.
 
-SodaStream may share your personal data with third parties (or otherwise allow them access to it) only in the following manners and instances. These are also the categories of third parties with whom SodaStream has disclosed personal information in the preceding 12 months.ces: 
+* **Access.**  You can request a copy of the personal information that we have collected about you during the past 12 months. 
 
-8.1 within the SodaStream family of companies. This includes current and future SodaStream subsidiaries, affiliates, and joint venture partners and our parent company PepsiCo. We may also share information with third parties with which we have an ownership interest or commercial relationship, such as companies whose products we distribute or whose products we think you might find interesting. 
+* **Correction**. You can request that we correct inaccurate personal information that we have collected about you.
 
-8.2 with any third parties to whom the relevant SodaStream entity subcontracts all or part of this processing. The purpose of this transfer will be to help manage our business and deliver services. For instance, we may transfer your personal data to a service provider to the extent necessary to complete an order and deliver your product. Other instances may include transfers to e-marketing service providers, hosting providers and any other relevant roles. Note that **we do not sell your personal data to any third party and have not done so in the preceding 12 months**. These third parties have agreed to confidentiality restrictions and use any personal data we share with them or which they collect on our behalf solely for the purpose of providing the contracted service to us. 
+* **Deletion.**  You can ask us to delete the personal information that we have collected about you.
 
-8.3 where permitted by local data protection laws, SodaStream may disclose or otherwise allow others access to your personal data pursuant to a legal request, such as a subpoena, legal proceedings, search warrant or court order, or in compliance with applicable laws, if we have a good faith belief that the law requires us to do so, with or without notice to you. If warranted, we may also allow access to this information in special emergencies where physical safety is at risk. 
+* **Opt-out of “selling” and ”sharing”**.  You can opt-out of disclosures of your personal Information that constitute “selling” or “sharing” of your personal information as those terms are defined under applicable law. 
 
-8.4 We may disclose any personal data or other information obtained from or about you, to third parties in connection with a merger, acquisition, bankruptcy or sale of all, or substantially all, of our assets, to the extent that this is necessary for the process. 
+* **Opt-out of targeted advertising**. You can opt-out of our use of your personal information for targeted advertising purposes under applicable law. 
 
-9\. **Transferring Personal Data Globally** 
+* **Nondiscrimination.**  You are entitled to exercise the rights described above free from discrimination as prohibited by applicable law.  
 
-**9.1** Your personal data may be transferred and stored outside your place of residence, that are subject to different standards of data protection. Particularly, if you live in the EU, you should be aware that your personal data may be shared with, and transferred to, SodaStream affiliates and third-party service providers who are located outside the EU. We will take appropriate steps to ensure that transfers of personal data are in accordance with applicable law and carefully managed to protect your privacy rights and interests and transfers are limited to countries which are recognised as providing an adequate level of legal protection or where we can be satisfied that alternative arrangements are in place to protect your privacy rights. To this end: 
+**9.1.3  Request to information, access, correction, and deletion.** You may submit requests to exercise your right to information, access,  correction or deletion via email to [privacy@sodastream.com](https://sodastream.com/pages/%20privacy@sodastream.com).  
 
-9.1.1 we will ensure that transfers within SodaStream and its affiliates will be covered by an agreement entered into by members of SodaStream Group (an intra-group agreement) which contractually obliges each member to ensure that personal data receives an adequate and consistent level of protection wherever it is transferred within the Group; 
+We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it.
 
-9.1.2 where we transfer your personal data outside SodaStream or to third parties who help provide our products and services, we will obtain contractual commitments from them to protect your personal data. Some of these assurances are well recognised certification schemes like the EU - US Privacy Shield for the protection of personal data transferred from within the EU to the United States; or 
+**9.1.4 Request to opt-out of our “sales” and “sharing” of your personal information.**  Our use of the interest-based advertising services described above may constitute a “sale” or “sharing” of your personal information under applicable state law from which you may have the right to opt-out.  That is because these services use certain categories of our users’ personal information to show you ads they think may interest you on other online services.   You can request to opt-out of this “sale” or “sharing” of your personal information here: [**Do Not Sell or Share My Personal Information**](https://privacyportal-eu.onetrust.com/webform/ababfb1c-faac-4fea-b1a8-0c2676a95f4f/aa61fc20-d05c-4dd2-a287-9424faaae90c).  We have no actual knowledge that we have “sold” or “shared” the personal information of individuals under 16 years of age.
 
-9.1.3 where we receive requests for information from law enforcement or regulators, we will carefully validate these requests before personal data is disclosed. 
+**9.1.5  Identity verification.** We will need to verify your identity to process your information, access, correction, and deletion requests and reserve the right to confirm your state of residence.  To verify your identity, we may require government identification, a declaration under penalty of perjury or other information.  
 
-You have a right to contact us for more information about the safeguards we have put in place (including a copy of relevant contractual commitments) to ensure the adequate protection of your personal data when this is transferred as mentioned above. 
+**9.1.6** **Authorized agents.** Your authorized agent may make a request on your behalf upon our verification of the agent’s identity. Authorized agents must also provide a copy of the consumer’s signed permission authorizing the agent to submit requests on the consumer’s behalf.  You or your authorized agent may be required to provide the information we request to verify your identity, and provide us with confirmation that you have given the authorized agent permission to submit the request.
 
-**10\. Use of Cookies and Other Tracking Technologies**  
+**9.1.7** We reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive.
 
-SodaStream uses certain monitoring and tracking technologies (such as cookies, beacons, pixels, tags and scripts). These technologies are used in order to maintain, provide and improve our services on an ongoing basis, and in order to provide our customers with a better experience. For example, thanks to these technologies, we are able to maintain and keep track of our customers' preferences and authenticated sessions, to better secure our services, to identify technical issues, user trends and effectiveness of campaigns, and to monitor and improve the overall performance of our services. 
+**9.1.8  Appeals.** You may have the right to appeal a decision we make relating to requests to exercise your rights under applicable local law. To appeal a decision, please contact us at privacy@sodastream.com. 
 
-Please note that third party services placing cookies or utilizing other tracking technologies through our services may have their own policies regarding how they collect and store information. Such practices are not covered by our Privacy Policy and we do not have any control over them. 
+**9.1.9 Information practices.**  
 
-10.1 _Do-Not-Track Signals and Similar Mechanisms_.  
+* **Sensitive Personal Information.** We do not use or disclose sensitive personal information for purposes for purposes other than permitted under applicable local law. 
 
-10.1.1 Some web browsers transmit "do-not-track" signals to websites. Because the standards for these signals are still under development, we currently do not take action in response to these signals.
+* **Retention.**  We retain personal information as long as necessary to provide our products and Services, and beyond such time to the extent legally permitted and based on our legal obligations (e.g. in relation to invoice retention) or legitimate interests (e.g. in retaining data for the purposes of responding to possible disputes or complaints or for possible reactivation of subscriptions).
 
-10.2 Cookies 
+**9.1. 10 Personal Information that we collect, use and disclose.** The chart below describes our business and commercial purposes for processing the categories of your personal information described above, as well as the categories of third parties to whom we may disclose, “sell,” or “share” (as those terms are defined under applicable law) each category of personal information. Information you voluntarily provide to us, such as in free-form webforms, may contain other categories of personal information not described below. 
 
-10.2.1 Our website uses cookies, web beacons and similar technologies ("**Cookies**") to track information provided to us by your browser when you use our website. Cookies are small text files containing small amounts of information which are downloaded and may be stored on any of your devices that enable internet usage e.g. your computer, smartphone or tablet - like a memory for a web page. We use several different types of cookies. 
+| **Category of personal information** | **Source of personal information** | **Business/****commercial purpose for collection** | **Categories of third parties to whom we “disclose” personal information for a business purpose** | **Categories of third parties to whom we “sell” or “share” personal information** |
+| --- | --- | --- | --- | --- |
+| **Identifiers** | * _You_<br>* _Automatic Collection_ | * _Service delivery_<br>* _Research & development_<br>* _Marketing & advertising_<br>* _Compliance & protection_ | * _Affiliates_<br>* _Service providers_<br>* _Payment processors_<br>* _Advertising partners_<br>* _Professional advisors_<br>* _Governmental authorities_ | * _Advertising partners_<br>* _Analytics partners_ |
+| **Commercial information** | * _You_<br>* _Automatic collection_ | * _Service delivery_<br>* _Research & development_<br>* _Marketing & advertising_<br>* _Compliance & protection_ | * _Affiliates_<br>* _Service providers_<br>* _Payment processors_<br>* _Advertising partners_<br>* _Professional advisors_<br>* _Governmental authorities_ |     |
+| **Financial information** | * _You_ | * _Service delivery_<br>* _Compliance & protection_ |     | _\[None\]_ |
+| **Professional information** | * _You_ | * _Service delivery_<br>* _Research & development_<br>* _Marketing & advertising_<br>* _Compliance & protection_ | * _Affiliates_<br>* _Service providers_<br>* _Payment processors_<br>* _Advertising partners_<br>* _Professional advisors_<br>* _Governmental authorities_ |     |
+| **Internet or other electronic network activity** | * _Automatic collection_ | * _Service delivery_<br>* _Research & development_<br>* _Marketing & advertising_<br>* _Compliance & protection_ | * _Affiliates_<br>* _Service providers_<br>* _Payment processors_<br>* _Advertising partners_<br>* _Professional advisors_<br>* _Governmental authorities_ | * _Advertising partners_<br>* _Analytics partners_ |
+| **Audio, electronic, visual, or similar information** | * _You_ |     |     |     |
+| **Geolocation data** | * _Automatic collection_ | * _Service delivery_<br>* _Research & development_<br>* _Marketing & advertising_<br>* _Compliance & protection_ | * _Affiliates_<br>* _Service providers_<br>* _Payment processors_<br>* _Advertising partners_<br>* _Professional advisors_<br>* _Governmental authorities_ | _\[None\]_ |
+| **Inferences** | N/A | * _Service delivery_<br>* _Research & development_<br>* _Marketing & advertising_<br>* _Compliance & protection_ | * _Affiliates_<br>* _Service providers_<br>* _Advertising partners_<br>* _Governmental authorities_<br>* _Business and marketing partners_ | * _Advertising partners_ <br>* _Analytics partners_ |
+| **Protected classifications** | N/A | N/A | N/A | _\[None\]_ |
+| **Sensitive personal information** |     |     |     | _\[None\]_ |
 
-10.3 We use the following cookies on our website: 
+9.1.11 Your California Privacy Rights under the Shine the Light Law. 
 
-10.31.1 necessary cookies 
+Under California’s Shine the Light law (California Civil Code Section 1798.83), California residents may ask companies with whom they have formed a business relationship primarily for personal, family or household purposes to provide the names of third parties to which they have disclosed certain personal information (as defined under the Shine the Light law) during the preceding calendar year for their own direct marketing purposes, and the categories of personal information disclosed. You may send us requests for this information to privacy@sodastream.com. In your request, you must include the statement “Shine the Light Request," and provide your first and last name and mailing address and certify that you are a California resident. We reserve the right to require additional information to confirm your identity and California residency. Please note that we will not accept requests via telephone, mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
-Necessary cookies are essential and help you navigate our website. This helps to support security and basic functionality and are necessary for the proper operation of our website, so if you block these cookies we can't guarantee your use or the security during your visit.  
+**9.2 Notice of Financial Incentive**
 
-10.3.1.2 functionality cookies 
+We offer various programs that may constitute a “financial incentive” under applicable law.  The details of these programs are described in the chart below and are subject to change.  
 
-Functionality cookies are used to provide you the best user experience. These cookies are, for instance, used to personalise content for you in line with your location. It also allows our website to remember choices made (like turning off use of cookies or which location you have previously selected) to provide more personal features. 
+You have the right to withdraw from these programs at any time and may do so by following the instructions in the chart below.
 
-10.3.1.3 Performance cookies 
+We do not generally assign monetary or other value to consumers’ personal information, and our promotions activity changes continually. To the extent applicable law requires that a value be assigned to our research or promotional activities, we value the personal information collected and used under each program as being equal to the value of the discounts or other financial incentives provided in each such program, based upon a practical and good-faith effort to assess on an aggregate basis for all collected information, including but not limited to the following: the benefit and insights that we realize and expect to realize from your participation in our financial incentives (such as shopping preferences and habits); your time spent on our website; the quantity and quality of information that you provide to us as described below; sales directly or indirectly generated from participation in the promotional activities; your purchase history; and any increased goodwill towards us.
 
-Performance cookies help us to understand the behaviour of users of our website. This allows us to continuously improve our website to provide the best information in support of our project aims. These cookies are also used to help us understand how effective our website is. For instance these cookies tell us which pages visitors go to most often and if they get error messages from web pages. 
+| **Program and material terms** | **How to opt-in to the program** | **Benefit that is offered for the user’s participation** | **Personal information that we may collect (see “3. What Categories of Personal Information Do We Collect and How Do We Collect It?” above for description)** | **How to withdraw from the program** |
+| --- | --- | --- | --- | --- |
+| Newsletter and Text Message Subscriptions. <br><br>We will send you marketing and order-related communications.  For more information, see the terms and conditions associated with our program. | By signing up for our newsletters and/or text messages. | A 10% discount code for your next purchase. | * Identifiers | By unsubscribing as described in the newsletter or text.  You can also email us at [privacy@sodaStream.com](mailto:privacy@sodaStream.com). |
+| Sweepstakes.  <br><br>You can enter into sweepstakes for a chance at winning certain prizes and/or other incentives.  For more information, see our Official Rules associated with the sweepstakes. | By entering into our sweepstakes. | An entry into sweepstakes for a year’s supply of CO2 or similar prizes. | * Identifiers<br>* Commercial information | By emailing us at  [privacy@sodaStream.com](mailto:privacy@sodaStream.com). |
+| Extended Product Warranty.   <br><br>By registering your machine with us, we’ll extend your warranty period.  For more information, see the description of our program at [https://sodastream.com/pages/register-your-product](https://sodastream.com/pages/register-your-product). | By registering your machine at [https://sodastream.com/pages/register-your-product](https://sodastream.com/pages/register-your-product). | An additional warranty period for your machine. | * Identifiers<br>* Commercial information | By emailing us at  [privacy@sodaStream.com](mailto:privacy@sodaStream.com). |
+| Other Financial Incentives.  <br><br>From time to time, we may offer other financial incentives, such as coupons or other price reductions for our products and services in exchange for your enrolling in email updates, newsletter delivery, contests, or similar services we provide to communicate with you.  For more information, see the terms and conditions that accompany the respective program. | By providing us with the personal information requested and entering into the program as described in the description of the respective program. | We may offer incentives such as coupons or other price reductions.  For more information, see the description of the respective program. | For more information, see the description of the respective program. | As described in the respective program’s description or by emailing us at  [privacy@sodaStream.com](mailto:privacy@sodaStream.com). |
 
-10.3.1.4 All of the Cookies are managed by third parties, and you may refer to the third parties' own website privacy notifications for further information. In particular, we use Google Analytics, which allow us to assess how you and other web users use our website, and this information is essential in helping us to continuously improve our website's functionality. They can be preserved from 30 minutes to two years. The information generated by these cookies about your use of our website (including your IP address) will be transmitted to and stored by Google Inc on servers in the United States. 
+**10\. **Changes to This Privacy Notice**** 
 
-10.4 Control your cookie settings: 
+We may update and change this Privacy Notice from time to time. Please regularly check for the latest version of this Privacy Notice. We will post any changes to this Privacy Notice on our Site. If we make any changes to this Privacy Notice that materially affect our use of your personal information, we will provide you with notice in advance of such change.
 
-Once you have given us your agreement to the use of cookies, we shall store a cookie on your computer or device to remember this for next time. Internet browsers allow you to change your cookie settings, for instance to block certain kinds of cookies or files. You can therefore block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies, you may not be able to access all or parts of the website, due to the fact that some may be functionality cookies. For further information about deleting or blocking cookies, please visit: [http://www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/).
+**11\. **Contact Information****
 
-**11\. Your Rights in Relation to Your Personal Data**  
+If you have any questions about this Privacy Notice or wish to exercise any of your rights, you can contact us at:
 
-11.1.1 Depending on where you live, you may have certain additional rights, such as the right to request access to your personal information or to request deletion of your personal information. 
-
-11.1.2 Requests should be submitted to [privacy@sodastream.com](mailto:privacy@sodastream.com). These rights are not absolute, and we will respond to all requests we receive in accordance with applicable laws. The Your California Rights section below provides additional information for California residents. 
-
-11.2 Your Rights as a California Resident 
-
-11.2.1 California “Shine the Light” Law
-
-If you reside in California, you have the right to ask us one time per year for information about our disclosure, if any, of personal information to third parties for their direct marketing purposes in the preceding calendar year. To make a request, please contact us [privacy@sodastream.com](mailto:privacy@sodastream.com). Please indicate that you are a California resident making a “Shine the Light” inquiry. We reserve our right not to respond to requests submitted other than by the means specified in this section, if the request is not labelled or sent properly, or if the request does not have complete information.
-
-11.2.2 California Consumer Privacy Act (CCPA) 
-
-We have explained our privacy practices in full in the other sections of this Privacy Policy. 
-
-|     |     |
-| --- | --- |
-| Disclosure of Personal Information We Collect About You | You have the right to know:<br><br>The categories of personal information we have collected about you; The categories of sources from which the personal information is collected;<br><br>Our business or commercial purpose for collecting personal information;<br><br>The categories of third parties with whom we share personal information, if any;<br><br>The specific pieces of personal information we have collected about you. |
-| Right to Deletion | Subject to certain exceptions set out below, on receipt of a verifiable request from you, we will:<br><br>Delete your personal information from our records; and<br><br>Direct any service providers to delete your personal information from their records.<br><br>Please note that we may not delete your personal information if it is necessary to:<br><br>Complete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between you and us;<br><br>Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity;<br><br>Debug to identify and repair errors that impair existing intended functionality;<br><br>Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law;<br><br>Comply with the California Electronic Communications Privacy Act;<br><br>Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when our deletion of the information is likely to render impossible or seriously impair the achievement of such research, provided we have obtained your informed consent;<br><br>Enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us;<br><br>Comply with an existing legal obligation; or<br><br>Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information. |
-| Protection Against Discrimination | You have the right to not be discriminated against by us because you exercised any of your rights under the CCPA. This means we cannot, among other things:<br><br>Deny goods or services to you;<br><br>Charge different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties;<br><br>Provide a different level or quality of goods or services to you; or<br><br>Suggest that you will receive a different price or rate for goods or services or a different level or quality of goods or services.<br><br>Please note that we may charge a different price or rate or provide a different level or quality of goods and/or services to you, if that difference is reasonably related to the value provided to our business by your personal information. |
-| Designate an authorized agent to submit CCPA requests on your behalf | You may designate an authorized agent to make a request under the CCPA on your behalf. To do so, you need to provide the authorized agent written permission to do so and the agent will need to submit to us proof that they have been authorized by you. We will also require that you verify your own identity, as explained below. |
-
-If you would like to exercise any of your CCPA rights as described in this Privacy Policy, please:  
-
-* Call us, toll-free, at 1-800-763-2258; or
-* Email/ write us at: [privacy@sodastream.com](mailto:privacy@sodastream.com)
-
-11.3 We may ask you for additional information to confirm your identity and for security purposes, before disclosing the personal data requested to you, by using a two or three points of data verification process, depending on the type of information you require. If you have a password protected account with SodaStream, we may ask to verify your request through the account’s existing authentication methods. If you request that we disclose or delete your information, we will require you to re-authenticate with your account.
-
-11.4 We reserve the right to charge a fee where permitted by law, for instance if your request is manifestly unfounded or excessive.
-
-12.
-
-We may update and change this privacy statement from time to time, to keep it up to date with legal requirements and the way we operate our business. Please regularly check these pages for the latest version of this Privacy Policy.
-
-13\. **Contact Information**
-
-**13.1** If you have any questions about this Privacy Policy or wish to exercise any of your rights as described in paragraph 11, you can contact us at:
-
-We will attempt to resolve any complaints regarding the use of your Personal data in accordance with this Privacy Policy.
-
-  
-  
-
-SODASTREAM COOKIE POLICY
-------------------------
-
-**Notice last updated:** \[04/07/2022\]
-
-**1.** ****Information on how we use cookies****
-
-Our SodaStream website (“website” or “site”) uses various cookies which allow us to distinguish you from other users of our website, which helps us to provide you with a good experience when you browse our website and also allows us to improve our site.
-
-We use cookies to provide the content and functionality of this site (strictly necessary cookies) and, , to personalize the content and advertisements that appear when you visit our site and to analyze the traffic on the site, unless you reject such non-strictly necessary cookies. In addition, we share information about your use of our site with our advertising partners and analysts, who may combine this information with other data that you provide to them or that they have collected when you use their services. You have the right to withdraw your consent at any time.
-
-You do not need to allow cookies to visit most of the website. However, enabling cookies may allow for a more tailored browsing experience and is required for certain parts of the website to work. In the majority of cases, a cookie does not provide us with any of your personal information.
-
-For further information about this cookie policy, please contact us at [Privacy@sodastream.com](mailto:Privacy@sodastream.com)
-
-You can change the cookie settings that will be placed when you visit our website by changing the settings on your browser or by clicking on the Cookie Setting at the bottom of this policy.
-
-**2.** ****Key concepts****
-
-First-party cookies are those set by a website that is being visited by the user at the time (e.g. cookies placed by www.sodastream.com).
-
-Third-party cookies are cookies that are set by a domain other than that of the website being visited by the user. If a user visits a website and another entity sets a cookie through that website, this would be a third-party cookie.
-
-Persistent cookies are cookies that remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
-
-Session cookies these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.
-
-Please note that third party services placing cookies or utilizing other tracking technologies through our services may have their own policies regarding how they collect and store information. Such practices are not covered by our Privacy Policy and we do not have any control over them.
-
-**3. Changing your cookie settings**
-
-You can change your cookie preferences when you visit our website by changing the settings on your browser or by clicking on the Cookie Setting link at the bottom of this policy.  
-You can also block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including strictly necessary cookies), you may not be able to access all or parts of our site.  
-Please note that internet browsers allow you to change your cookie settings. These settings are usually found in the 'options' or 'preferences' menu of your internet browser. In order to understand these settings, the following links may be helpful. Otherwise you should use the 'Help' option in your internet browser for more details:
-
-* [Cookie settings in Internet Explorer](https://support.microsoft.com/kb/196955)
-* [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
-* [Cookie settings in Chrome](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
-* [Cookie settings in Safari](https://support.apple.com/kb/HT1677)
-
-**4. Your consent**
-
-Strictly necessary cookies do not require your consent.
-
-By using our website you provide your consent that we apply on your device performance, functional and targeting cookies, unless you withdraw the cookies wholly or partially. You can reject consent for cookies by clicking the Cookie Setting link on the bottom of this policy.
-
-**5\. Can I withdraw my consent?**
-
-If you do not wish to give consent or wish to withdraw your consent to any performance, functionality or targeting cookies at any time, you will need to delete, and block or disable cookies via your browser settings; see below for more information on how to do this or by changing your settings in the Cookie Setting at the link below. Please note that disabling these cookies will affect the functionality of the website and may prevent you from being able to access certain features on the website.
-
-**6. What cookies do we use and why?**
-
-We use are "necessary" and "performance" and "functional" and "targeting" cookies:
-
-6.1 Strictly Necessary cookies:
-
-We use these Strictly Necessary cookies to identify you as being logged in to the website and to authenticate you, to make sure you connect to the right service on the website when we make any changes to the way it works and for security purposes.
-
-6.2 Performance cookies:
-
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site and gather information on error messages. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-
-We use performance cookies to perform web analytics and for error management purposes, by measuring any errors that may occur.
-
-6.3 Functional cookies
-
-These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-
-We use functional cookies to enable us to provide you with enhanced functionality and personalisation. These cookies may be set by third party providers whose services we have added to our pages.
-
-6.4 Targeting cookies:
-
-These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
-
-**7. Retention**
-
-A cookie or similar technology will exist for different periods of time depending on the purpose of the cookie. For example, a session cookie which enables the website to operate will only exist on your device whilst you browse our website but other cookies will remain on your device for longer such as some functionality cookies which need to stay on your device so that the website can recognise you when you return. For more information about how long a cookie remains on your device, please see the cookie table below.
-
-**8. Keeping our cookie policy up to date**
-
-We may need to update our cookie policy from time to time if we decide to use cookies differently. Any changes will be updated here.
-
-For more information about how we process personal data collected from cookies please refer to our [privacy policy](https://sodastream.com/pages/legal)
-
-If you have any questions or would like more information about the ways we use cookies please contact us at [privacy@sodastream.com](https://privacyportal-eu.onetrust.com/webform/ababfb1c-faac-4fea-b1a8-0c2676a95f4f/11f6e846-b290-435e-98e8-5ec75951ced7)
-
-For changing your cookies consent for our website, please access this link: Cookie Settings
+email address: [privacy@sodastream.com](mailto:privacy@sodastream.com).
 
 Cookies Policy
 --------------
@@ -833,73 +760,11 @@ For additional information on how to manage cookies on your browser, please refe
 * [Cookie settings in Chrome](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
 * [Cookie settings in Safari](https://support.apple.com/kb/HT1677)
 
-You do not need to allow cookies to visit most of the website. However, enabling cookies may allow for a more tailored browsing experience and is required for certain parts of the website to work. In the majority of cases, a cookie does not provide us with any of your personal information.
+For additional information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, please visit [www.allaboutcookies.org.](https://sodastream.com/pages/www.allaboutcookies.org.)
 
-For further information about this cookie policy, please contact us at [Privacy@sodastream.com](mailto:Privacy@sodastream.com)
+**4.Keeping our cookie policy up to date**
 
-You can change the cookie settings that will be placed when you visit our website by changing the settings on your browser or by clicking on the Cookie Setting at the bottom of this policy.
-
-**2.** ****Key concepts****
-
-First-party cookies are those set by a website that is being visited by the user at the time (e.g. cookies placed by www.sodastream.com).
-
-Third-party cookies are cookies that are set by a domain other than that of the website being visited by the user. If a user visits a website and another entity sets a cookie through that website, this would be a third-party cookie.
-
-Persistent cookies are cookies that remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
-
-Session cookies these cookies allow website operators to link the actions of a user during a browser session. A browser session starts when a user opens the browser window and finishes when they close the browser window. Session cookies are created temporarily. Once you close the browser, all session cookies are deleted.
-
-Please note that third party services placing cookies or utilizing other tracking technologies through our services may have their own policies regarding how they collect and store information. Such practices are not covered by our Privacy Policy and we do not have any control over them.
-
-**3. Changing your cookie settings**
-
-You can change your cookie preferences when you visit our website by changing the settings on your browser or by clicking on the Cookie Setting link at the bottom of this policy.  
-You can also block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including strictly necessary cookies), you may not be able to access all or parts of our site.  
-Please note that internet browsers allow you to change your cookie settings. These settings are usually found in the 'options' or 'preferences' menu of your internet browser. In order to understand these settings, the following links may be helpful. Otherwise you should use the 'Help' option in your internet browser for more details:
-
-**4. Your consent**
-
-Strictly necessary cookies do not require your consent.
-
-By using our website you provide your consent that we apply on your device performance, functional and targeting cookies, unless you withdraw the cookies wholly or partially. You can reject consent for cookies by clicking the Cookie Setting link on the bottom of this policy.
-
-**5\. Can I withdraw my consent?**
-
-If you do not wish to give consent or wish to withdraw your consent to any performance, functionality or targeting cookies at any time, you will need to delete, and block or disable cookies via your browser settings; see below for more information on how to do this or by changing your settings in the Cookie Setting at the link below. Please note that disabling these cookies will affect the functionality of the website and may prevent you from being able to access certain features on the website.
-
-6.1 Strictly Necessary cookies:
-
-We use these Strictly Necessary cookies to identify you as being logged in to the website and to authenticate you, to make sure you connect to the right service on the website when we make any changes to the way it works and for security purposes.
-
-6.2 Performance cookies:
-
-These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site and gather information on error messages. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
-
-We use performance cookies to perform web analytics and for error management purposes, by measuring any errors that may occur.
-
-6.3 Functional cookies
-
-These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
-
-We use functional cookies to enable us to provide you with enhanced functionality and personalisation. These cookies may be set by third party providers whose services we have added to our pages.
-
-6.4 Targeting cookies:
-
-These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
-
-**7. Retention**
-
-A cookie or similar technology will exist for different periods of time depending on the purpose of the cookie. For example, a session cookie which enables the website to operate will only exist on your device whilst you browse our website but other cookies will remain on your device for longer such as some functionality cookies which need to stay on your device so that the website can recognise you when you return. For more information about how long a cookie remains on your device, please see the cookie table below.
-
-**8. Keeping our cookie policy up to date**
-
-We may need to update our cookie policy from time to time if we decide to use cookies differently. Any changes will be updated here.
-
-For more information about how we process personal data collected from cookies please refer to our [privacy policy](https://sodastream.com/pages/legal)
-
-If you have any questions or would like more information about the ways we use cookies please contact us at [privacy@sodastream.com](https://privacyportal-eu.onetrust.com/webform/ababfb1c-faac-4fea-b1a8-0c2676a95f4f/11f6e846-b290-435e-98e8-5ec75951ced7)
-
-For changing your cookies consent for our website, please access this link: Cookie Settings
+We may update this Policy from time to time, so please be sure to check back periodically for the latest version. Any changes will be updated here. If you have any questions about this Policy, please contact us at [privacy@sodastream.com.](https://sodastream.com/pages/privacy@sodastream.com)
 
 SodaStream Accessibility statement
 ----------------------------------
