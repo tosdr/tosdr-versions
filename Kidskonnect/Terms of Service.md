@@ -1,4 +1,4 @@
-![fbpx](https://www.facebook.com/tr?id=432663194325080&ev=PageView&noscript=1)     
+![fbpx](https://www.facebook.com/tr?id=432663194325080&ev=PageView&noscript=1)
 
 * [Skip to primary navigation](#genesis-nav-primary)
 * [Skip to main content](#genesis-content)
@@ -10,7 +10,7 @@
 * [Login](https://kidskonnect.com/login/)
 * [](#)
 
-[](#)Menu ![Menu Icon](https://kidskonnect.com/wp-content/themes/clever/images/icons/menu-black.png) 
+[](#)Menu ![Menu Icon](data:image/svg+xml;nitro-empty-id=NDYwOjIx-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNjAgNjAiIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=) 
 
 * [Home](https://kidskonnect.com/)
 * [Membership](https://kidskonnect.com/membership/)
