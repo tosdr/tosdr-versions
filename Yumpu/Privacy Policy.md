@@ -1,4 +1,4 @@
-[![logo](https://assets.yumpu.com/release/TNcBU1cpVFKCYRo/v5/img/logo/Yumpu_Logo_RGB.svg)](https://www.yumpu.com/en "Yumpu")
+[![logo](https://assets.yumpu.com/release/YPZdEOAZDAIU1ID/v5/img/logo/Yumpu_Logo_RGB.svg)](https://www.yumpu.com/en "Yumpu")
 
 [EN](#)
 
@@ -227,7 +227,7 @@ This privacy policy tells you how we collect information about you when you use 
 
 Last update: 2024-08-29.
 
-![logo](https://assets.yumpu.com/release/TNcBU1cpVFKCYRo/v5/img/logo/yumpu-footer.svg)
+![logo](https://assets.yumpu.com/release/YPZdEOAZDAIU1ID/v5/img/logo/yumpu-footer.svg)
 
 [](https://www.facebook.com/yumpunews "Facebook")[](https://twitter.com/yumpu_com "Twitter")[](https://www.pinterest.com/yumpucom "Pinterest")[](https://www.youtube.com/user/yumpucom "Youtube")[](https://vimeo.com/yumpucom "Vimeo")
 
