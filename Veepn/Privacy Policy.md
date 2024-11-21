@@ -1,4 +1,4 @@
-[![veepn home](/assets/c3c461a1/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/ba39f560/images/logo-main.svg)](https://veepn.com/)
 
 * VPN Apps
     
@@ -84,7 +84,7 @@
 
 [Get VeePN Now](https://order.veepn.com/pricing/)
 
-![en language](/assets/c3c461a1/images/flags/en.svg) en
+![en language](/assets/ba39f560/images/flags/en.svg) en
 
 *  [Українська](https://veepn.com/uk/privacy-policy/)
 *  [Deutsch](https://veepn.com/de/privacy-policy/)
@@ -364,7 +364,7 @@ This notice outlines the manner in which we, acting as a "Controller" under Conn
 
 _Last updated May 13, 2024_
 
-[![veepn home](/assets/c3c461a1/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/ba39f560/images/logo-main.svg)](https://veepn.com/)
 
 Products
 
@@ -392,7 +392,7 @@ General
 Help
 
 * [Support Center](https://help.veepn.com/hc/en-us)
-* [Contact Us](javascript:$zopim.livechat.window.show();)
+* [Contact Us](javascript:zE("messenger", "open");)
 * [FAQ](https://veepn.com/#faq)
 * [Privacy Policy](https://veepn.com/privacy-policy/)
 * [Terms of Service](https://veepn.com/terms-of-service/)
