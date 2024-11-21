@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-kracht-van-een-ritueel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/cia-mi6-mossad-etc-satans-aardse-rechterhand/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
