@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [A Million Ways to Die in the West; Maleficent; Chef](https://www.somethingawful.com/current-movie-reviews/million-ways-maleficent/1/)
-* [The Nut Job; Jack Ryan: Shadow Recruit; August: Osage County](https://www.somethingawful.com/current-movie-reviews/nut-job/1/)
-* [Children's Books](https://www.somethingawful.com/photoshop-phriday/childrens-books/1/)
-* [Oldboy; Homefront; Frozen; Philomena](https://www.somethingawful.com/current-movie-reviews/oldboy-homefront-frozen/1/)
-* [What's Cookin'?](https://www.somethingawful.com/email-pranks/email-spam-whats/)
+* [How Will Children Understand WWII Without America's Hitler Statues?](https://www.somethingawful.com/news/history-statues-confederacy/)
+* [Completely Libelous Review of Universal Combat](https://www.somethingawful.com/game-reviews/completely-libelous-review/1/)
+* [Lord of the Rings: ON THE GO!](https://www.somethingawful.com/comedy-goldmine/lord-rings-on/1/)
+* [Worst Goon Gifts \[Receiving\]: (Part 2 of 2)](https://www.somethingawful.com/comedy-goldmine/worst-goon-gifts/1/)
+* [Welcome to the DynaMars Corporation Cycnus Station Update Kiosk](https://www.somethingawful.com/news/dynamars-kiosk3/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [What poor financial decisions do you regularly make?](http://forums.somethingawful.com/showthread.php?threadid=4075673 "What poor financial decisions do you regularly make?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Do you throw out cheese that has mold?](http://forums.somethingawful.com/showthread.php?threadid=4075652 "Do you throw out cheese that has mold?")
-* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [all i wanna do is have sum fun](http://forums.somethingawful.com/showthread.php?threadid=4075643 "all i wanna do is have sum fun")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [Name a Vibe](http://forums.somethingawful.com/showthread.php?threadid=4075712 "Name a Vibe")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have any goons lived in a halfway house?](http://forums.somethingawful.com/showthread.php?threadid=4075727 "Have any goons lived in a halfway house?")
 
 ### Random Articles
 
-* [Society of Amateur Time Travelers Updates for 15 August](https://www.somethingawful.com/news/time-travel-august/)
-* [Ars Amatoria](https://www.somethingawful.com/awful-links/awful-link-1166/)
-* [Pandas Will Make World Of Warcraft Dumb? Really?](https://www.somethingawful.com/video-game-article/world-warcraft-pandaren/)
-* [The Border of Tong](https://www.somethingawful.com/movie-reviews/border-tong-heavener/)
-* [January 4, 2011](https://www.somethingawful.com/forum-fridays/ff01-04-11/1/)
+* [I AM ONE OF THE BACKSEAT OF DEPLORABLES WITH THE BAD FROG NOW](https://www.somethingawful.com/news/levi-pepe-deplorables/)
+* [Obama is the Antichrist](https://www.somethingawful.com/webcam-ward/catladyobama/)
+* [Hacky Sacky, Brown Paper Bag; Ain't Nothin Better than a Leprosy Gag](https://www.somethingawful.com/daily-dirt/hacky-sacky-brown/)
+* [Secret Weapons of the Space Force](https://www.somethingawful.com/news/space-force-weapons/)
+* [Look Ma! I'm Updating on a Holiday Again!](https://www.somethingawful.com/news/look-ma-im/)
 
 [Random!](https://www.somethingawful.com/random/)
 
