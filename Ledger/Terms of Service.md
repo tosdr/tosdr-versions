@@ -1,4 +1,4 @@
-[Review and sign transactions from a single secure screen with Ledger Flex™](https://shop.ledger.com/pages/ledger-flex)[Discover now](https://shop.ledger.com/pages/ledger-flex)
+[BLACK FRIDAY: Save on Ledger Flex, select Ledger Nano wallets and accessories.](https://shop.ledger.com/pages/black-friday)[Shop now](https://shop.ledger.com/pages/black-friday)
 
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
