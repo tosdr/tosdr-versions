@@ -114,26 +114,29 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112138-a-red-glow-2024-11-20)
+     [](https://patriotpost.us/memes/112185-ahead-of-schedule-2024-11-21)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34540)
+     [](https://patriotpost.us/cartoons/34545)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Mark Alexander Trump Day 1: Demolish the Demos’ Rigged Midterm Election Strategy](https://patriotpost.us/alexander/112180-trump-day-1-demolish-the-demos-rigged-midterm-election-strategy-2024-11-20)
-*      [Gary Bauer 18 Minutes](https://patriotpost.us/opinion/112169-18-minutes-2024-11-20)
-*      [Salena Zito Biden Was the Fluke in 2020, Not Trump in 2016](https://patriotpost.us/opinion/112168-biden-was-the-fluke-in-2020-not-trump-in-2016-2024-11-20)
-*      [Stephen Moore Breaking Up Google Will Be a Great American Catastrophe](https://patriotpost.us/opinion/112167-breaking-up-google-will-be-a-great-american-catastrophe-2024-11-20)
-*      [Tim Graham TV Stars Mock the Tiny Threat of Trans Women in Sports](https://patriotpost.us/opinion/112166-tv-stars-mock-the-tiny-threat-of-trans-women-in-sports-2024-11-20)
-*      [John Stossel Destructive Environmentalists](https://patriotpost.us/opinion/112165-destructive-environmentalists-2024-11-20)
-*      [Star Parker Young, Black, Hispanic Americans Would Opt Out of Social Security Even if It Wasn’t Broken](https://patriotpost.us/opinion/112164-young-black-hispanic-americans-would-opt-out-of-social-security-even-if-it-wasnt-broken-2024-11-20)
-*      [Ian Haworth Biden Wants War on His Way Out](https://patriotpost.us/opinion/112163-biden-wants-war-on-his-way-out-2024-11-20)
+*      [Ben Shapiro Newton’s Third Law of Politics](https://patriotpost.us/opinion/112206-newtons-third-law-of-politics-2024-11-21)
+*      [Gary Bauer Left-Wing Lunacy](https://patriotpost.us/opinion/112204-left-wing-lunacy-2024-11-21)
+*      [Ann Coulter The Enemy of My Enemy Is RFK](https://patriotpost.us/opinion/112203-the-enemy-of-my-enemy-is-rfk-2024-11-21)
+*      [Cal Thomas To Vet or Not to Vet](https://patriotpost.us/opinion/112202-to-vet-or-not-to-vet-2024-11-21)
+*      [Larry Elder Trump: From ‘Fascist’ to ‘Let’s Do Lunch’](https://patriotpost.us/opinion/112201-trump-from-fascist-to-lets-do-lunch-2024-11-21)
+*      [Laura Hollis Religious Belief and the 2024 Election](https://patriotpost.us/opinion/112200-religious-belief-and-the-2024-election-2024-11-21)
+*      [Hans von Spakovsky Getting New Leadership Confirmed Quickly for Next Trump Admin](https://patriotpost.us/opinion/112195-getting-new-leadership-confirmed-quickly-for-next-trump-admin-2024-11-21)
+*      [Allen West Constitutional Governance](https://patriotpost.us/opinion/112193-constitutional-governance-2024-11-21)
+*      [Armstrong Williams Mr. Trump, Follow Mr. Lincoln](https://patriotpost.us/opinion/112205-mr-trump-follow-mr-lincoln-2024-11-21)
+*      [The Washington Stand Speaker Johnson Protects Women-Only Spaces in U.S. Capitol](https://patriotpost.us/opinion/112196-speaker-johnson-protects-women-only-spaces-in-us-capitol-2024-11-21)
+*      [The Babylon Bee Here’s How 14 Different News Outlets Are Covering the ‘Trump Dance’ Craze](https://patriotpost.us/opinion/112192-heres-how-14-different-news-outlets-are-covering-the-trump-dance-craze-2024-11-21)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,11 +150,13 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“The importance of piety and religion; of industry and frugality; of prudence, economy, regularity and an even government; all … are essential to the well-being of a family.” —Samuel Adams (1780)
+“The best and only safe road to honor, glory, and true dignity is justice.” —George Washington (1779)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
