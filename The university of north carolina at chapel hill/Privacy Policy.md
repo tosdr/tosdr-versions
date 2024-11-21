@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/PantryBowlHERO-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/LHR1121hero-250x141.jpg)
     
-    Pantry Bowl kicks off Nov. 24](https://www.unc.edu/posts/2024/11/19/pantry-bowl-kicks-off-nov-24/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/Collage-250x141.jpg)
+    A message from the chancellor: Hurricane Helene relief](https://www.unc.edu/posts/2024/11/21/a-message-from-the-chancellor-hurricane-helene-relief/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/StudyAbroadHERO-250x141.jpg)
     
-    Project Uplift couple opens doors to education](https://www.unc.edu/posts/2024/11/14/project-uplift-couple-opens-doors-to-education/)
+    Carolina ranks 9th in U.S. for study abroad participation](https://www.unc.edu/posts/2024/11/20/carolina-ranks-9th-in-u-s-for-study-abroad-participation/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=c111737f36&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=c7ca51dd0f&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
