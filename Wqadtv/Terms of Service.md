@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d7168cb9-82c7-4efe-bb46-f1742d0fefd1/20241121T040815/d7168cb9-82c7-4efe-bb46-f1742d0fefd1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d7168cb9-82c7-4efe-bb46-f1742d0fefd1/20241121T040815/d7168cb9-82c7-4efe-bb46-f1742d0fefd1_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/iowa-dot-prepares-snow-plow-crews-winter/526-086808a9-97e3-4f4b-b567-1a9a747aa20a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c52efea4-9a5d-463f-b21a-067466d3731c/20241118T204406/c52efea4-9a5d-463f-b21a-067466d3731c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c52efea4-9a5d-463f-b21a-067466d3731c/20241118T204406/c52efea4-9a5d-463f-b21a-067466d3731c_360x203.jpg)](https://www.wqad.com/article/news/local/contests/enter-to-win-a-new-snowblower-this-winter-from-wqad-and-petersen-plumbing/526-91822e86-bad7-4d2b-9c18-a26bfd2a4968)
         
-        #### [Iowa DOT prepares snow plow crews for winter](https://www.wqad.com/article/news/local/public-safety/iowa-dot-prepares-snow-plow-crews-winter/526-086808a9-97e3-4f4b-b567-1a9a747aa20a)
+        #### [Enter to win a new snowblower this winter from WQAD and Petersen Plumbing](https://www.wqad.com/article/news/local/contests/enter-to-win-a-new-snowblower-this-winter-from-wqad-and-petersen-plumbing/526-91822e86-bad7-4d2b-9c18-a26bfd2a4968)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/15542ad3-0ee1-4618-9628-3bf3c4f2caac/20241121T041344/15542ad3-0ee1-4618-9628-3bf3c4f2caac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/15542ad3-0ee1-4618-9628-3bf3c4f2caac/20241121T041344/15542ad3-0ee1-4618-9628-3bf3c4f2caac_360x203.jpg)](https://www.wqad.com/article/news/community/community-gifts-new-bed-davenport-shooting-victim/526-bf18f86c-f55a-46e5-b91e-b2ccb307ead0)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/af57dce8-764b-4622-a3d2-21940212efda/20241121T114852/af57dce8-764b-4622-a3d2-21940212efda_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/af57dce8-764b-4622-a3d2-21940212efda/20241121T114852/af57dce8-764b-4622-a3d2-21940212efda_360x203.jpg)](https://www.wqad.com/article/news/local/outreach/pay-it-forward/helping-hand-galesburg-high-school-marching-band/526-1fe4308f-e518-4131-a633-0d14426facae)
         
-        #### ['Don't give up' l Community helps gift new bed for Davenport shooting victim](https://www.wqad.com/article/news/community/community-gifts-new-bed-davenport-shooting-victim/526-bf18f86c-f55a-46e5-b91e-b2ccb307ead0)
+        #### [Pay It Forward: The helping hand of the Galesburg High School marching band](https://www.wqad.com/article/news/local/outreach/pay-it-forward/helping-hand-galesburg-high-school-marching-band/526-1fe4308f-e518-4131-a633-0d14426facae)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0762dac0-a7a7-40b4-89d5-a660c6d85c88/20241120T235023/0762dac0-a7a7-40b4-89d5-a660c6d85c88_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0762dac0-a7a7-40b4-89d5-a660c6d85c88/20241120T235023/0762dac0-a7a7-40b4-89d5-a660c6d85c88_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/41a3a91d-0d29-45a3-8638-cd0affa3088d/20241121T131322/41a3a91d-0d29-45a3-8638-cd0affa3088d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/41a3a91d-0d29-45a3-8638-cd0affa3088d/20241121T131322/41a3a91d-0d29-45a3-8638-cd0affa3088d_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Weather Impact Alert: Gusty snow showers to reduce visibility throughout the evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Weather Impact Alert: Gusty winds expected through today](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/wind-gusts-45-mph-thursday-storm-track-8-weather-impact-alert/526-a1d5b40b-159e-4c2c-b08e-5c2aed0245c8)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-29°
+35°
 
-![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
