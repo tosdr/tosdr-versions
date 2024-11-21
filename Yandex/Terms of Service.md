@@ -172,7 +172,7 @@ For advertisers
 
 [Audience: Terms of Service](https://yandex.com/legal/audience_tos_ch/index.html)
 
-[“Yandex.Direct” Service Offer](https://yandex.com/legal/offer_direct_ae/index.html)
+[“Yandex Direct” Service Offer](https://yandex.com/legal/offer_direct_ae/index.html)
 
 [Ad Serving Rules](https://yandex.com/legal/direct_display_rules_ch/index.html)
 
@@ -181,18 +181,6 @@ For advertisers
 General
 
 Yandex Terms of Service
-
-English
-
-Latviešu valoda
-
-Eesti keel
-
-Lietuvių
-
-Polski
-
-English
 
 Yandex Terms of Service
 =======================
@@ -327,33 +315,9 @@ _Previous version of the document: [https://yandex.com/legal/termsofservice/1809
 
 Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
-English
-
-Latviešu valoda
-
-Eesti keel
-
-Lietuvių
-
-Polski
-
-English
-
 [Next
 
 Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
-
-English
-
-Latviešu valoda
-
-Eesti keel
-
-Lietuvių
-
-Polski
-
-English
 
 [Yandex.Support homepage](https://yandex.com/legal)
 
