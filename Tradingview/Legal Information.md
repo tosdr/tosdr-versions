@@ -18,8 +18,10 @@ EN
 Disclaimer
 ==========
 
-No Investment Advice Provided
------------------------------
+No investment advice provided
+
+
+---------------------------------
 
 Trading leveraged products carries a high degree of risk and you could lose more than your initial deposit. Any opinions, chats, messages, news, research, analyses, prices, or other information contained on this Website are provided as general market information for educational and entertainment purposes only, and do not constitute investment advice. The Website should not be relied upon as a substitute for extensive independent market research before making your actual trading decisions. Opinions, market data, recommendations or any other content is subject to change at any time without notice. TradingView, Inc. will not accept liability for any loss or damage, including without limitation any loss of profit, which may arise directly or indirectly from use of or reliance on such information.
 
