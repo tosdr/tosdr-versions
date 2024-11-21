@@ -83,6 +83,10 @@ Taiwan - [繁體中文 (臺灣)](https://www.hbomax.com/terms-of-use/zh-tw-apac)
 
 Thailand - [ภาษาไทย](https://www.hbomax.com/terms-of-use/th-apac) - [English](https://www.hbomax.com/terms-of-use/en-apac "Asia - English Privacy Policy")
 
+Choose your language[ENGLISH](#)
+
+EnglishEspañol
+
 [Privacy Policy](https://www.hbomax.com/privacy)[Children's Privacy Policy](https://www.hbomax.com/privacy/children)[Terms of Use](https://www.hbomax.com/terms-of-use)
 
 [Do Not Sell My Personal Information](#compliance-link)
