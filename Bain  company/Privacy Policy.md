@@ -284,7 +284,7 @@
     * [Sales & Marketing](https://www.bain.com/consulting-services/customer-strategy-and-marketing/)
     * [Strategy](https://www.bain.com/consulting-services/strategy/)
     
-    * [Technology & Digital](https://www.bain.com/vector-digital/)
+    * [AI, Insights, and Solutions](https://www.bain.com/vector-digital/advanced-analytics/)
     * [Transformation](https://www.bain.com/consulting-services/transformation/)
     
 * [Digital](https://www.bain.com/vector-digital/)
@@ -673,7 +673,7 @@
         * [Sales & Marketing](https://www.bain.com/consulting-services/customer-strategy-and-marketing/)
         * [Strategy](https://www.bain.com/consulting-services/strategy/)
         
-        * [Technology & Digital](https://www.bain.com/vector-digital/)
+        * [AI, Insights, and Solutions](https://www.bain.com/vector-digital/advanced-analytics/)
         * [Transformation](https://www.bain.com/consulting-services/transformation/)
         
 * [Digital](https://www.bain.com/vector-digital/)
