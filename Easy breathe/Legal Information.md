@@ -407,7 +407,26 @@ Who should I contact with questions or concerns?
 
 If you have any questions or comments relating to the Site or this Privacy Notice, send an email to info@easybreathe.com or call our customer service team at (866) 564-2252. You may also [submit a contact form](https://www.easybreathe.com/contact.html).
 
-[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top) Accessability:    
+[Back to Top](https://www.easybreathe.com/Privacy-Policy-2.html#top) 
+
+Easy Breathe, Incorporated offers programs, benefits, and other offerings to consumers that may involve or be related to the collection, retention, or sale of Personal Information that may be deemed a "financial incentive" or "price or service difference" under the California Consumer Privacy Act ("CCPA"). For purposes of this notice, "Personal Information" refers to information that identifies, relates to, describes, references, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer, household, or device.
+
+These offerings may involve collecting the following categories of information from customers who participate: identifiers; customer records; commercial information and preferences; internet or other electronic network activity information and device information; geolocation data; audio, electronic, visual, or other sensory information; and inferences. We are providing you with this information so that you may make an informed decision on whether to opt into and participate in our programs. Examples of the programs we offer include:
+
+CCPA Financial Incentive Notice
+
+* Surveys: We may also offer our customers opportunities to participate in surveys. In exchange for participation, you may be offered a financial incentive, such as a discount or a coupon. As part of these surveys, we may collect Personal Information such as your name, preferences, experiences, beliefs, opinions, and other responses to the survey questions. Participation in surveys is governed by the applicable terms and conditions for the survey, which will also describe any financial incentives associated with that survey and how to opt in and participate. You can terminate participation at any time as will be explained in the survey terms. Our good-faith estimate of the value of your Personal Information is the value of the benefit we offer to you. We have calculated such value by using the expense related to the benefit.
+    
+* Limited-Time Promotions or Sweepstakes: From time to time, we may offer incentives limited to a specific time period, such as limited-time sweepstakes, contests and other promotions. In exchange for your participation in these promotions, you may be offered a financial incentive, such as a prize. As part of these limited-time promotions or sweepstakes, we may collect your Personal Information, such as your name, email address, and/or phone number. Participation in a limited-time offer or promotion is governed by the applicable terms and conditions for the program (e.g., Sweepstakes Rules), which will also describe any financial incentives associated with the promotion and how to opt in and participate. You can terminate participation at any time as will be explained in the program terms. The value of your Personal Information will be disclosed in the promotion’s terms.  Our good-faith estimate of the value of your Personal Information is the value of the benefit we offer to you.  We have calculated such value by using the expense related to the benefit.  
+    
+* One-Time Promotions: In addition to the programs identified above, we may also offer you one-time percentage off coupons, discounts, or other promotions from time to time, such as when you provide us your email address and agree to receive marketing emails in exchange for a one-time coupon. Such offers may not be available at all times. The amount and terms of such offers and how to participate will be presented to you at the time of the offer. You can terminate participation at any time by emailing [privacy@easybreathe.com](mailto:privacy@easybreathe.com)  Our good-faith estimate of the value of your Personal Information is the value of the benefit we offer to you. We have calculated such value by using the expense related to the benefit.
+    
+
+By opting in and participating in any of the above promotional programs, you agree that the benefits are reasonably related to the value of the Personal Information collected and retained.
+
+Participation in our promotional programs is always optional, and you can terminate program participation at any time as explained in the applicable program terms. You can also contact us at [privacy@easybreathe.com](mailto:privacy@easybreathe.com) to cancel your participation in any program.
+
+Accessability:    
 We are committed to ensuring that this policy is accessable to individuals with disabilities.  If you would like to access this policy in another format, please contact us using one of the ways outlined in the above section.  
 
 When was this notice last updated?
