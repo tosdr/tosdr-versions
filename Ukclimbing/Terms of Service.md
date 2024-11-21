@@ -5,7 +5,7 @@
 UKC
 ===](https://www.ukclimbing.com/ "Go to homepage")Toggle navigation[](https://www.ukclimbing.com/user/)
 
-[![Advert](https://ukc2.com/ads/i/12069.gif?t=1723649796)](https://advertising.ukclimbing.com/click.php?id=12069&uri=4)
+[![Advert](https://img.ukclimbing.com/ads/i/12148.jpg?fm=jpg&time=1730194075&w=728&s=2e6e8aadee89ea6e045018a52aef5530)](https://advertising.ukclimbing.com/click.php?id=12148&uri=4)
 
 Menu Toggle navigation Toggle navigation Toggle navigation Toggle navigation
 
@@ -290,7 +290,7 @@ is a figurative trademark registered in the UK with registration number: UK00003
 
 You are not permitted to use them without our approval, unless they are part of material you are using as permitted under [How you may use material on our site](#permitted_use).
 
-[![Advert](https://img.ukclimbing.com/ads/b/10924.jpg?fm=jpg&time=1622714816&w=300&s=c4e64bd705b1b9e15d80f84ebc04bc26)](https://advertising.ukclimbing.com/click.php?id=10924&uri=55)
+[![Advert](https://ukc2.com/ads/b/11934.gif?t=1712061372)](https://advertising.ukclimbing.com/click.php?id=11934&uri=55)
 
 [Advertising on UKC](https://advertising.ukclimbing.com/)
 
