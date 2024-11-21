@@ -508,6 +508,7 @@ Booking Options
 * [Featured vacation packages](https://www.westjet.com/en-ca/vacations/featured)
 * [Groups and conventions](https://www.westjet.com/en-ca/flights/groups)
 * [Direct Flights](https://www.westjet.com/en-ca/flights/direct-flights)﻿
+* [WestJet Biz](https://westjetbiz.westjet.com/login.html)﻿
 
 Before you go
 -------------
