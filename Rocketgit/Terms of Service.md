@@ -42,7 +42,7 @@ Rocket your launch!
 
 For any information, please contact us at [in@rocketgit.com](mailto:in@rocketgit.com).  
 Copyright: [Catalin(ux) M. BOIE](http://kernel.embedromix.ro/)  
-Software version: 0.79-1  
+Software version: 0.80-1  
 Running since: 2015-01-28  
 _Git® was created by Linus Torvalds._  
 Git and the Git logo are either registered trademarks or trademarks  
