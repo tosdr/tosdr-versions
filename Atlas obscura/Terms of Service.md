@@ -18,7 +18,29 @@ Loading...
 
 Loading...
 
-Loading...
+Upcoming Courses
+
+[View All Courses »](https://www.atlasobscura.com/online-courses)
+
+   [![](https://img.atlasobscura.com/_yqTN56Lg0spPLl_FxY2rbHMvEyEq10sBksk8JBQ1pg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy83NDgy/YTNkOS1mZTMxLTQ2/YWYtYTg0MC1iMmFj/Y2U1NTdkZWQzNDMw/MmUyZTI1YmJjOGUz/ZWNfamVuIG1vbnJv/ZSAwMS5qcGc.jpg)
+
+The Table as Canvas: Designing a Bizarro Dinner Party With Jen Monroe](https://www.atlasobscura.com/experiences/dinner-party-online-course)
+
+   [![](https://img.atlasobscura.com/rZ09wOxXg2EgJoESnVaWU78q_mjTHbK0VtjwFlbHdxw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kMTQ0/MmE2OC02MTQ5LTRl/YzUtYjgwMy05MzNl/MDU0NGRiMWY4OGEz/ZWY1NTMyNjA0MWZi/OGJfRFNDXzAyMjgu/SlBH.jpg)
+
+Writing the Food Memoir: A Workshop With Gina Rae La Cerva](https://www.atlasobscura.com/experiences/course-food-writing)
+
+   [![](https://img.atlasobscura.com/rXGvWx7jkgmQw-8k0Rr6EAwFH_MHyrOJ_tFI5MEqSdM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy84MjRi/NTI5ZS0yMTRhLTQ5/NmEtYmVmOC1jYTdm/YjJhZGY0YjNmYTc2/MTY1YWUzOWU4Nzlj/N2NfXzIwMjNfU2Fz/a2lhX2J5Tmlra2lO/aXhvbi0yMDIzLmpw/Zw.jpg)
+
+Making Scents: Experimental Perfumery With Saskia Wilson-Brown](https://www.atlasobscura.com/experiences/perfume-online-course)
+
+   [![](https://img.atlasobscura.com/_gEQhpzCYj1bpFZQsmEFRKDiEaWOzvtRpZPqXCAoRHI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hYzJk/MTg2Ny0yNWFjLTQ1/YzEtYmVmZC1iMzk0/NDgwZTA0N2I3NGE3/NzkxY2Q4NWY2NjI2/NTlfYWxlc3Npby16/YWNjYXJpYS1wbzFm/Zks0bExNdy11bnNw/bGFzaC5qcGc.jpg)
+
+A Cup of Yuletide Fear: Monsters of the Holiday Season With Cory Hutcheson](https://www.atlasobscura.com/experiences/christmas-monsters-course)
+
+   [![](https://img.atlasobscura.com/TyL2KSoFFUjWPbyVG5J99Z3rivz4mBt1OORqsZ5sw0g/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82MzU2/ODVlMy0zNzlmLTQx/MzMtODgyMC1lMzIy/ZjYyZjZlMTY0ZDk3/YjdmMDc1OWQyMzFm/NGFfQW5naWUgU21p/dGhfRGFuY2VfR3Jv/dXBfTGF3bl8yMDI0/XzA3LmpwZw.jpg)
+
+Altered States & Expanding Horizons: Exploring the Legacy of Esalen](https://www.atlasobscura.com/experiences/into-to-esalen-course)
 
 Loading...
 
