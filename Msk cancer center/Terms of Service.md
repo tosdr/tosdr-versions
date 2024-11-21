@@ -457,6 +457,17 @@ New York, NY 10017
 Telephone: [646-227-3573](tel:+1-646-227-3573)  
 Email: [\[email protected\]](https://www.mskcc.org/cdn-cgi/l/email-protection)
 
+Book traversal links for Privacy Practices
+------------------------------------------
+
+Previous
+
+[Website Privacy Practices](https://www.mskcc.org/privacy/web-site-privacy-practices)
+
+Next
+
+[MyMSK Portal Privacy Policy](https://www.mskcc.org/privacy/mymsk-portal-privacy-policy)
+
 * Connect
     
     * [Contact us](https://www.mskcc.org/contact)
@@ -504,4 +515,4 @@ Email: [\[email protected\]](https://www.mskcc.org/cdn-cgi/l/email-protection)
 
 © 2024 Memorial Sloan Kettering Cancer Center
 
-* [Log in web-44142.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/privacy/web-site-privacy-practices/website-terms-and-conditions)
+* [Log in web-44141.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/privacy/web-site-privacy-practices/website-terms-and-conditions)
