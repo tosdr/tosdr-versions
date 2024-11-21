@@ -156,7 +156,7 @@ Menutoggle menu
 * [Education](https://www.atlantafed.org/education)
     * [Teach](https://www.atlantafed.org/education/teach)
         * [Infographic Posters](https://www.atlantafed.org/education/teach/infographic-posters)
-        * [Lessons and Activities](https://www.atlantafed.org/education/teach/lessons-and-activities)
+        * [Lessons and Activities](https://www.atlantafed.org/about/publications/atlanta-fed-history)
         * [Multimedia](https://www.atlantafed.org/education/teach/multimedia)
     * [Learn](https://www.atlantafed.org/education/learn)
     * [Visit](https://www.atlantafed.org/education/visit)
