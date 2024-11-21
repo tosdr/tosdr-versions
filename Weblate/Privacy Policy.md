@@ -21,14 +21,14 @@ Los documentos legales necesarios para ofrecer nuestros servicios. El documento 
 
 [Ver la versión en inglés](https://weblate.org/en/terms/) [Download as PDF](https://weblate.org/static/Weblate_General_Terms_and_Conditions.pdf)
 
-The rights and obligations of the User and the Provider resulting from the use of the Service are governed by these General Terms and Conditions.
+Los derechos y obligaciones del Usuario y el Proveedor resultantes de la utilización del Servicio se rigen por las presentes Condiciones Generales.
 
 Introductory Provisions
 -----------------------
 
-These general terms and conditions are an integral part of the service agreement concluded between the User and the Provider (hereinafter referred to as the "**Agreement**") and define the binding rules and conditions for the provision of Services and Products and the use of Services and Products. These general terms and conditions govern the contractual relationship between the service provider and the User.
+Estas condiciones generales son parte integrante del acuerdo de servicio celebrado entre el usuario y el proveedor (en lo sucesivo denominado "**Acuerdo**") y definir las normas y condiciones vinculantes para la prestación de Servicios y Productos y el uso de los mismos. Las presentes condiciones generales regulan la relación contractual entre el prestador de servicios y el usuario.
 
-The definitions below have the following meanings for the purposes of these general terms and conditions:
+Las definiciones que figuran a continuación tienen los siguientes significados a efectos de estas condiciones generales:
 
 Código Civil
 
@@ -68,7 +68,7 @@ means the non-exclusive license granted by the Provider to the User for the use 
 
 Información personal
 
-means personal data as defined in EU Regulation 679/2016, entered by the user into the Service and/or Cookies;
+significa datos personales tal como se definen en el Reglamento (UE) 679/2016, ingresados por el usuario en el Servicio y/o Cookies ;
 
 Price
 
@@ -84,17 +84,17 @@ means any service or part thereof provided under a certain brand of the Provider
 
 Proveedor
 
-refers to the company Weblate s.r.o., ID No. 21668027, with registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in the Commercial Register maintained by the Regional Court in Ústí nad Labem, file no. C 52324, with which the Agreement was concluded;
+refers to the company **Weblate s.r.o.**, ID No. 21668027, with registered office at Nábřežní 694, Cvikov II, 471 54 Cvikov, registered in the Commercial Register maintained by the Regional Court in Ústí nad Labem, file no. C 52324, with which the Agreement was concluded;
 
 Servicio
 
-means the websites and services based on Weblate provided by the Provider;
+significa las páginas web y servicios basados en Weblate proporcionados por el Proveedor;
 
 Self-hosting
 
 means a form of collaboration where the User is the sole user of the Service, and this Service is operated directly on the User Server;
 
-Support Services
+Soporte
 
 means the support provided by the Provider to the User within the Service. Support Services are governed separately by a separate support service agreement;
 
@@ -114,7 +114,7 @@ User Server
 
 refers to the server and other hardware equipment not owned, managed, or controlled by the Provider;
 
-Methods of acceptance
+Methods of Acceptance
 ---------------------
 
 The License is granted to the User based on the concluded Agreement.
@@ -157,7 +157,7 @@ To avoid doubt, the Subscription may guarantee either only access to a specific 
 
 The User is obliged to pay the Price based on the received tax documents (invoices) issued by the Provider. The Price is paid in advance, and the invoice is issued and delivered to the User within 5 working days after the end of each relevant period.
 
-Payment of the Price may be made by Credit Card, bank transfer, or cryptocurrency transaction. All Prices listed in the Price List include VAT. End users from the EU and Czech business companies will be required to pay an additional VAT of 21%. Reverse charge applies to invoices issued to businesses within the EU.
+Payment of the Price may be made by Credit Card, bank transfer, or cryptocurrency transaction. All Prices listed in the Price List exclude VAT. End users from the EU and Czech business companies will be required to pay an additional VAT of 21%. Reverse charge applies to invoices issued to businesses within the EU.
 
 If the User wishes to avoid being charged for the Service in the Subscription mode, they must cancel the Subscription three days before the automatic renewal of the Service usage. The Provider recommends verifying with the prepaid card issuer or bank whether recurring billing is possible.
 
@@ -330,11 +330,11 @@ The User uses the Service AS IS. Incompatibility with other software, hardware c
 Personal Data Protection
 ------------------------
 
-The Provider collects data from the User solely for the purpose of providing the Service, improving its quality, fulfilling legal obligations, and in selected cases for the Provider's legitimate interests (e.g., maintaining server security and integrity) or for sending optional commercial communications as defined in the Privacy Policy.
+The Provider collects data from the User solely for the purpose of providing the Service, improving its quality, fulfilling legal obligations, and in selected cases for the Provider's legitimate interests (e.g., maintaining server security and integrity) or for sending optional commercial communications as defined in the [Privacy Policy](https://weblate.org/privacy/).
 
 All communication within the Service is encrypted using the SSL protocol. The User declares that they consider this encryption method sufficiently secure.
 
-The Provider commits not to provide any information submitted by the User during the registration of their User account or any other personal data provided by the User to any third party for purposes other than those defined in this Agreement and the Privacy Policy.
+The Provider commits not to provide any information submitted by the User during the registration of their User account or any other personal data provided by the User to any third party for purposes other than those defined in this Agreement and the [Privacy Policy](https://weblate.org/privacy/).
 
 The Provider’s website and web application also use cookies. The Services exclusively use session cookies from the Provider and never use third-party cookies. Regarding functionality and type, the Provider only uses functional/technical cookies, for which explicit consent is not required under current legislation.
 
@@ -349,11 +349,11 @@ For the avoidance of doubt, the Parties explicitly confirm that they are busines
 
 If any provision of this Agreement or these Terms is or becomes invalid, ineffective, or unenforceable, it shall not affect the validity, enforceability, or effectiveness of the remaining provisions of the Agreement or these Terms. In such a case, the Parties shall exert every effort to amend the Agreement by replacing the invalid, unenforceable, or ineffective provision with a new one that reflects the original intent.
 
-These Terms are governed by the law of the Czech Republic, a member of the European Union. The Parties, however, exclude to the maximum extent possible the provisions of Sections 1764, 1765, 1793 to 1795, 2050, 2389a to 2389f, 2389t, and 2389u of the Czech Civil Code. Any disputes arising in connection with the performance or interpretation of the Agreement that cannot be resolved amicably by the Parties shall be finally settled by arbitration at the Arbitration Court of the Economic Chamber of the Czech Republic and the Agricultural Chamber of the Czech Republic by three arbitrators appointed in accordance with the Rules of this Arbitration Court. Each Party appoints one arbitrator, and the two arbitrators will agree on the third arbitrator within 30 days. If the two arbitrators fail to agree on the third arbitrator within the above period, the chairman of the Arbitration Court will appoint the third arbitrator. The arbitration award is final and binding for the Parties. The Parties irrevocably agree not to contest the enforcement of the arbitration award in any jurisdiction.
+Estas condiciones se rigen por la ley de la República Checa, miembro de la Unión Europea. Las Partes, sin embargo, excluyen en la mayor medida posible las disposiciones de los artículos 1764, 1765, 1793 a 1795, 2050, 2389a a 2389f, 2389t y 2389u del Código Civil checo. Las controversias que surjan en relación con la ejecución o interpretación del Acuerdo y que no puedan ser resueltas de manera amistosa por las partes se resolverán definitivamente mediante arbitraje ante el Tribunal de Arbitraje de la Cámara Económica de la República Checa y la Cámara Agrícola de la República Checa por tres árbitros nombrados de conformidad con el reglamento de este tribunal de arbitraje. Cada Parte nombra un árbitro, y los dos árbitros acordarán el tercer árbitro en 30 días. Si los dos árbitros no llegan a un acuerdo.
 
-The official version of these Terms has been prepared in English and is considered the only binding version. Any versions of these Terms translated into other languages are provided solely for the convenience of the User and have no legal force. In the event of any discrepancies or conflicts between the English version and any translated version, the English version shall prevail in all matters.
+La versión oficial de estos Términos ha sido preparada en inglés y se considera la única versión vinculante. Las versiones de estos Términos traducidas a otros idiomas se proporcionan únicamente para la comodidad del Usuario y no tienen fuerza legal. En caso de discrepancias o conflictos entre la versión inglesa y cualquier versión traducida, prevalecerá la versión inglesa.
 
-These Terms enter into force on November 1, 2024.
+Estas Condiciones entran en vigor el 1 de noviembre de 2024.
 
 [weblate](https://weblate.org/es/)
 
