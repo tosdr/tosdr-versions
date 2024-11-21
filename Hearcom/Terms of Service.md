@@ -309,14 +309,12 @@ Follow us:
 hear.com/audibene  
 international:
 
-* [![Canada flag](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/flag-ca.jpg)](https://ca.hear.com/)
 * [![Germany flag](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/flag-de.jpg)](https://www.audibene.de/)
 * [![France flag](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/flag-fr.jpg)](https://www.audibene.fr/)
 * [![Korea flag](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/flag-kr.jpg)](https://www.hear.com/kr/)
 * [![Switzerland flag](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/flag-su.jpg)](https://www.audibene.ch/)
 * [![Netherlands flag](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/flag-nl.jpg)](https://www.audibene.nl/)
 * [![India flag](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/flag-in.jpg)](https://www.hear.com/in/)
-* [![Malaysia flag](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/flag-my.jpg)](https://www.hear.com/my/)
 * [![South Africa flag](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/seo-website/flag-za.png)](https://www.hear.com/za/)
 
 ![](https://res.cloudinary.com/dhqvlsb3l/image/upload/v1/assets/na/close-icon.svg)
