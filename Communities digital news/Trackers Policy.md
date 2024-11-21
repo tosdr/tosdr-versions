@@ -26,35 +26,33 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-rogan-drug-cartel-1200x630.png)](https://americanwirenews.com/they-have-fcking-no-clue-joe-rogan-mulls-trump-using-tier-1-units-against-mexican-drug-cartels/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joy-mad-joe-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/panic-at-msnbc-as-network-parent-announces-big-move/)
 
-[‘They have f\*cking no clue’: Joe Rogan mulls Trump using Tier 1 units against Mexican drug cartels](https://americanwirenews.com/they-have-fcking-no-clue-joe-rogan-mulls-trump-using-tier-1-units-against-mexican-drug-cartels/)
+[‘Panic’ at MSNBC as network parent announces big move](https://americanwirenews.com/panic-at-msnbc-as-network-parent-announces-big-move/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-morning-joe-1-1200x630.jpg)](https://americanwirenews.com/morning-joe-in-free-fall-since-meeting-with-trump-forced-to-turn-off-social-media-comments/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-transchar-1200-x-628-1200x630.jpg)](https://americanwirenews.com/disney-yanks-childrens-cartoon-about-transgender-athlete/)
 
-[‘Morning Joe’ in free fall since meeting with Trump, forced to turn off social media comments](https://americanwirenews.com/morning-joe-in-free-fall-since-meeting-with-trump-forced-to-turn-off-social-media-comments/)
+[Disney yanks children’s cartoon about transgender athlete](https://americanwirenews.com/disney-yanks-childrens-cartoon-about-transgender-athlete/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/08/GettyImages-949931608-1024x536-1-1200x630.jpg)](https://americanwirenews.com/mtg-proposes-game-changing-idea-to-resolve-trans-bathroom-dilemma/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/03/SG-Chick-fil-A-1200x630.jpg)](https://americanwirenews.com/hospital-apologizes-for-serving-free-chick-fil-a-lunch-thanks-employees-who-snitched/)
 
-Getty Images
+[Hospital apologizes for serving free Chick-fil-A lunch, thanks employees who snitched](https://americanwirenews.com/hospital-apologizes-for-serving-free-chick-fil-a-lunch-thanks-employees-who-snitched/)
 
-[MTG proposes game-changing idea to resolve trans bathroom dilemma](https://americanwirenews.com/mtg-proposes-game-changing-idea-to-resolve-trans-bathroom-dilemma/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/01/SG-Border-1200x630.jpg)](https://americanwirenews.com/trump-could-rescind-biden-regime-ban-on-term-illegal-alien/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetz-1-1200x630.jpg)](https://americanwirenews.com/hes-getting-confirmed-jd-vance-matt-gaetz-arrive-in-dc-to-meet-with-gop-senators/)
+[Trump could rescind Biden regime ban on term ‘illegal alien’](https://americanwirenews.com/trump-could-rescind-biden-regime-ban-on-term-illegal-alien/)
 
-[‘He’s getting confirmed’: JD Vance, Matt Gaetz arrive in DC to meet with GOP senators](https://americanwirenews.com/hes-getting-confirmed-jd-vance-matt-gaetz-arrive-in-dc-to-meet-with-gop-senators/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mika-and-joe-1200x630.jpg)](https://americanwirenews.com/morning-joes-clown-couple-are-reportedly-petrified-of-gaetz-investigating-death-of-scarborough-intern/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-austin-1200x630.jpg)](https://americanwirenews.com/def-sec-austin-toes-dei-line-says-women-in-military-make-us-stronger/)
+[Morning Joe’s clown couple are reportedly petrified of Gaetz investigating death of Scarborough intern](https://americanwirenews.com/morning-joes-clown-couple-are-reportedly-petrified-of-gaetz-investigating-death-of-scarborough-intern/)
 
-[Def Sec Austin toes DEI line, says women in military ‘make us stronger’](https://americanwirenews.com/def-sec-austin-toes-dei-line-says-women-in-military-make-us-stronger/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaines-immigration-1200x630.jpg)](https://americanwirenews.com/riley-gaines-exposes-unbelievable-reason-us-wont-give-hubby-his-green-card/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-alex-jones-1200x630.jpg)](https://americanwirenews.com/alex-jones-turns-tables-sues-the-onion-sandy-hook-families-over-rigged-infowars-auction/)
+[Riley Gaines exposes unbelievable reason US won’t give hubby his green card](https://americanwirenews.com/riley-gaines-exposes-unbelievable-reason-us-wont-give-hubby-his-green-card/)
 
-[Alex Jones turns tables, sues The Onion, Sandy Hook families over ‘rigged’ Infowars auction](https://americanwirenews.com/alex-jones-turns-tables-sues-the-onion-sandy-hook-families-over-rigged-infowars-auction/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pete-hegseth-1200x630.jpg)](https://americanwirenews.com/leftwing-site-obtains-police-report-of-pete-hegseth-sexual-assault-allegation-its-very-obvious-why-charges-were-not-filed/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-leno-1200x630.jpg)](https://americanwirenews.com/im-a-little-beat-up-injured-jay-leno-still-performs-at-comedy-show-after-falling-down-60-ft-hill/)
-
-[‘I’m a little beat up’: Injured Jay Leno still performs at comedy show after falling down 60-ft hill](https://americanwirenews.com/im-a-little-beat-up-injured-jay-leno-still-performs-at-comedy-show-after-falling-down-60-ft-hill/)
+[Leftwing site obtains police report of Pete Hegseth sexual assault allegation. It’s obvious why charges were not filed.](https://americanwirenews.com/leftwing-site-obtains-police-report-of-pete-hegseth-sexual-assault-allegation-its-very-obvious-why-charges-were-not-filed/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1090671326-1-1200x630.jpg)](https://americanwirenews.com/alec-baldwin-continues-to-increase-my-pain-halyna-hutchins-mother-rejects-rust-premiere-invite/)
 
@@ -62,9 +60,9 @@ Getty Images
 
 [‘Alec Baldwin continues to increase my pain’: Halyna Hutchins’ mother rejects ‘Rust’ premiere invite](https://americanwirenews.com/alec-baldwin-continues-to-increase-my-pain-halyna-hutchins-mother-rejects-rust-premiere-invite/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laken-riley-murderer--1200x630.png)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jascrockett-1200-x-628-1200x630.jpg)
 
-### Laken Riley’s illegal alien killer found guilty, shows no emotion as he’s sentenced to life without parole](https://americanwirenews.com/laken-rileys-illegal-alien-killer-found-guilty-shows-no-emotion-as-hes-sentenced-to-life-without-parole/)
+### Racist AOC wannabe Jasmine Crockett snubbed for House leadership spot](https://americanwirenews.com/racist-aoc-wannabe-jasmine-crockett-snubbed-for-house-leadership-spot/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -81,6 +79,14 @@ Getty Images
 ### [Reporter insists Mitch McConnell said ‘no recess’ appointments](https://americanwirenews.com/reporter-insists-mitch-mcconnell-said-no-recess-appointments/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-elon-jeff-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/musk-says-bezos-advised-people-to-dump-tesla-and-spacex-stock-because-trump-would-lose/)
+
+[Musk says Bezos advised people to dump Tesla and SpaceX stock because Trump would lose](https://americanwirenews.com/musk-says-bezos-advised-people-to-dump-tesla-and-spacex-stock-because-trump-would-lose/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-bitcoin-220x180.jpg)](https://americanwirenews.com/trump-eyes-new-department-with-an-official-czar/)
+
+[Trump eyes new department with an official czar](https://americanwirenews.com/trump-eyes-new-department-with-an-official-czar/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fetterman-oz-220x180.jpg)](https://americanwirenews.com/fetterman-names-condition-that-would-propel-him-to-confirm-dr-oz-for-cms-administrator/)
 
@@ -175,14 +181,6 @@ Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cocacola-220x180.jpg)](https://americanwirenews.com/soulless-coca-cola-ignites-firestorm-with-its-first-fully-ai-generated-ad-for-christmas/)
 
 [‘Soulless’: Coca-Cola ignites firestorm with its first fully AI-generated ad for Christmas](https://americanwirenews.com/soulless-coca-cola-ignites-firestorm-with-its-first-fully-ai-generated-ad-for-christmas/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/06/SG-Youtube-Nancy-Mace-220x180.png)](https://americanwirenews.com/nancy-mace-moves-to-ban-men-from-womens-bathrooms-on-capitol-hill-leftists-lose-their-minds/)
-
-[Nancy Mace moves to ban men from women’s bathrooms on Capitol Hill, leftists lose their minds](https://americanwirenews.com/nancy-mace-moves-to-ban-men-from-womens-bathrooms-on-capitol-hill-leftists-lose-their-minds/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-harris-10-220x180.jpg)](https://americanwirenews.com/dems-looking-toward-2028-poll-for-party-nomination-and-you-wont-believe-who-tops-the-list/)
-
-[Dems looking toward 2028 poll for party nomination and you won’t BELIEVE who tops the list](https://americanwirenews.com/dems-looking-toward-2028-poll-for-party-nomination-and-you-wont-believe-who-tops-the-list/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
