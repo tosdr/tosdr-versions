@@ -138,9 +138,13 @@ Our goal is to provide the highest quality window treatments to LA-area homes an
 
 Social
 
-[![X icon](https://aeroshadeco.com/wp-content/uploads/2023/10/as-x-icon.svg)](https://twitter.com/aeroshadeco)
+[![X icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
 
-[![Facebook icon](https://aeroshadeco.com/wp-content/uploads/2023/10/as-facebook-icon.svg)](https://www.facebook.com/Aero-Shade-Co-Inc-199201583516031/)
+![X icon](https://aeroshadeco.com/wp-content/uploads/2023/10/as-x-icon.svg)](https://twitter.com/aeroshadeco)
+
+[![Facebook icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2024%2024'%3E%3C/svg%3E)
+
+![Facebook icon](https://aeroshadeco.com/wp-content/uploads/2023/10/as-facebook-icon.svg)](https://www.facebook.com/Aero-Shade-Co-Inc-199201583516031/)
 
 Resources
 
