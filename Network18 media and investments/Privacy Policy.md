@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Maharashtra Exit Polls](https://www.news18.com/elections/maharashtra-exit-poll-result-highlights-mahayuti-may-have-the-edge-over-mva-9125706.html)
-    * [Maharashtra Turnout](https://www.news18.com/elections/maharashtra-voter-turnout-at-18-but-political-storm-over-bitcoin-cash-allegations-9126243.html)
-    * [Ayushmann Khurrana](https://www.news18.com/movies/ayushmann-khurrana-stops-new-york-concert-midway-after-fan-throws-dollars-at-him-aap-charity-9124738.html)
+    * [Gorkhas](https://www.news18.com/india/a-200-year-legacy-in-jeopardy-why-nepali-gorkhas-may-no-longer-serve-in-indian-army-9125875.html)
+    * [AR Rahman](https://www.news18.com/movies/ar-rahman-divorce-from-saira-banu-has-a-connection-to-mohini-dey-lawyer-reveals-there-is-9127360.html)
+    * [India vs Australia](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
     * [Nayanthara](https://www.news18.com/movies/nayanthara-on-converting-from-christianity-and-her-wedding-with-vignesh-shivan-ive-become-a-hindu-9126499.html)
-    * [Cyclone Alert](https://www.news18.com/india/cyclone-fengal-imd-alert-in-bay-of-bengal-may-intensify-on-november-22-23-9126105.html)
-    * [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
-    * [Air Pollution](https://www.news18.com/india/air-pollution-how-long-will-delhi-ncr-schools-stay-closed-a-city-wise-update-9126219.html)
+    * [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
+    * [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
+    * [Bengaluru](https://www.news18.com/viral/graduate-auto-driver-pitching-startup-idea-to-passengers-is-a-peak-bengaluru-moment-9125384.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Maharashtra Exit Polls](https://www.news18.com/elections/maharashtra-exit-poll-result-highlights-mahayuti-may-have-the-edge-over-mva-9125706.html)
-* [Maharashtra Turnout](https://www.news18.com/elections/maharashtra-voter-turnout-at-18-but-political-storm-over-bitcoin-cash-allegations-9126243.html)
-* [Ayushmann Khurrana](https://www.news18.com/movies/ayushmann-khurrana-stops-new-york-concert-midway-after-fan-throws-dollars-at-him-aap-charity-9124738.html)
+* [Gorkhas](https://www.news18.com/india/a-200-year-legacy-in-jeopardy-why-nepali-gorkhas-may-no-longer-serve-in-indian-army-9125875.html)
+* [AR Rahman](https://www.news18.com/movies/ar-rahman-divorce-from-saira-banu-has-a-connection-to-mohini-dey-lawyer-reveals-there-is-9127360.html)
+* [India vs Australia](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
 * [Nayanthara](https://www.news18.com/movies/nayanthara-on-converting-from-christianity-and-her-wedding-with-vignesh-shivan-ive-become-a-hindu-9126499.html)
-* [Cyclone Alert](https://www.news18.com/india/cyclone-fengal-imd-alert-in-bay-of-bengal-may-intensify-on-november-22-23-9126105.html)
-* [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
-* [Air Pollution](https://www.news18.com/india/air-pollution-how-long-will-delhi-ncr-schools-stay-closed-a-city-wise-update-9126219.html)
+* [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
+* [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
+* [Bengaluru](https://www.news18.com/viral/graduate-auto-driver-pitching-startup-idea-to-passengers-is-a-peak-bengaluru-moment-9125384.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
