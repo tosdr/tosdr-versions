@@ -297,7 +297,6 @@ Advertise
 
 ### [How to invest in jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/how-to-invest-in-jewellery-20241111-p5kpin)
 
-* 55 mins ago
 * Eugenie Kelly
 
 * ### [The Australian chef bringing lamingtons and damper to New York City](https://www.afr.com/life-and-luxury/food-and-wine/the-australian-chef-bringing-lamingtons-and-damper-to-new-york-city-20241016-p5kir5)
@@ -312,7 +311,6 @@ Advertise
 
 ### [How these top female Amazon execs are conquering Australia](https://www.afr.com/work-and-careers/leaders/how-these-top-female-amazon-execs-are-conquering-australia-20241112-p5kq2i)
 
-* 55 mins ago
 * Sally Patten
 
 * ### [Social cohesion hits record lows, support for immigration slumps](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
@@ -327,7 +325,6 @@ Advertise
 
 ### [Mick Fanning’s next investment is a new wave resort](https://www.afr.com/companies/infrastructure/mick-fanning-s-next-investment-is-a-new-wave-resort-20241120-p5ks5c)
 
-* 55 mins ago
 * Zoe Samios
 
 * ### [This HR executive is always striving for a better position](https://www.afr.com/life-and-luxury/health-and-wellness/this-hr-executive-is-always-striving-for-a-better-position-20241113-p5kq8h)
@@ -342,7 +339,6 @@ Advertise
 
 ### [The Rich List region that’s become Sydney’s Hamptons](https://www.afr.com/property/residential/the-rich-list-region-that-s-become-sydney-s-hamptons-20241113-p5kqfy)
 
-* 55 mins ago
 * Bonnie Campbell
 
 * ### [Nufarm entrepreneur Doug Rathbone a winner in $475m Elders buyout](https://www.afr.com/companies/agriculture/nufarm-entrepreneur-doug-rathbone-a-winner-in-475m-elders-buyout-20241119-p5krr8)
