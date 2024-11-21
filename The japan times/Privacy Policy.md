@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[October 16, 2024](https://www.japantimes.co.jp/archive/2024/10/16/ "archive page")
+[November 21, 2024](https://www.japantimes.co.jp/archive/2024/11/21/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -30,9 +30,9 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [Lower House Election](https://www.japantimes.co.jp/tag/2024-lower-house-election/ "Lower House Election")
-* [MLB Championship Series](https://www.japantimes.co.jp/tag/mlb/ "MLB Championship  Series")
-* [Nobel Prize](https://www.japantimes.co.jp/tag/nobel-prize/ "Nobel Prize")
+* [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
+* [Japan tax cuts](https://www.japantimes.co.jp/trending/ "Japan tax cuts")
+* [Russia-Ukraine war](https://www.japantimes.co.jp/tag/russia-ukraine-war/ "Russia-Ukraine war")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -464,68 +464,70 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[General election campaigning to kick off Tuesday](https://www.japantimes.co.jp/news/2024/10/14/japan/politics/lower-house-election/ "General election campaigning to kick off Tuesday")
+[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
 
-  [![Prime Minister Shigeru Ishiba (center right) makes a speech Sunday in Soka, Saitama Prefecture, along with Komeito leader Keiichi Ishii (center left).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427614.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba (center right) makes a speech Sunday in Soka, Saitama Prefecture, along with Komeito leader Keiichi Ishii (center left).")](https://www.japantimes.co.jp/news/2024/10/14/japan/politics/lower-house-election/ "General election campaigning to kick off Tuesday")
+  [![Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434480.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
 
-[Israeli envoy criticizes Japanese atomic survivor's Gaza comparison](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
+[Two of America’s biggest debt holders are dumping Treasurys](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
 
-  [![The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427544.JPG?v=3.1&w=400&q=100&f=jpg&t=1.2 "The co-chair of the Nihon Hidankyo atomic bomb survivors' group, Toshiyuki Mimaki, who lived through the 1945 atomic bombing of Hiroshima, attends an online news conference from the city on Saturday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/japan-atomic-survivor-gaza-comparison/ "Israeli envoy criticizes Japanese atomic survivor's Gaza comparison")
+  [![The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/434967.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.")](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
 
 [Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-[China’s ‘new Great Wall’ casts a shadow on Nepal](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
+[Japan ranks last in romance satisfaction for second straight year](https://www.japantimes.co.jp/news/2024/11/20/japan/society/japan-love-satisfaction-survey/ "Japan ranks last in romance satisfaction for second straight year")
 
-  [![A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/14/427596.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "A Nepali paramilitary police force office in the village Hilsa, Nepal, on Oct. 12, 2023 ")](https://www.japantimes.co.jp/news/2024/10/14/asia-pacific/china-new-great-wall-nepal/ "China’s ‘new Great Wall’ casts a shadow on Nepal")
+  [![In a survey of 31 countries, Japan ranked last in terms of those who felt loved, with just 51% of respondents saying so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/20/435180.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In a survey of 31 countries, Japan ranked last in terms of those who felt loved, with just 51% of respondents saying so.")](https://www.japantimes.co.jp/news/2024/11/20/japan/society/japan-love-satisfaction-survey/ "Japan ranks last in romance satisfaction for second straight year")
 
-[40% of Japanese women in their 30s and early 40s don't exercise at all](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
+[Ruling coalition and DPP strike last-minute deal over economic policy](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/economic-threshold-political-wrangling/ "Ruling coalition and DPP strike last-minute deal over economic policy")
 
-  [![Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427856.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Over the past 10 years, the athletic performance of women in their 40s showed a decline in the total score as well as in individual categories, according to the Japan Sports Agency.")](https://www.japantimes.co.jp/news/2024/10/15/japan/science-health/women-sports-survey/ "40% of Japanese women in their 30s and early 40s don't exercise at all")
+  [![DPP policy chief Makoto Mahaguchi speaks at the party's policy gathering in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435490.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP policy chief Makoto Mahaguchi speaks at the party's policy gathering in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/economic-threshold-political-wrangling/ "Ruling coalition and DPP strike last-minute deal over economic policy")
 
-[While motorsports' inclusivity has improved, there's still work to be done](https://www.japantimes.co.jp/sports/2024/10/15/more-sports/women-auto-racing-wec/ "While motorsports' inclusivity has improved, there's still work to be done")
+[Japan, U.K. and Italy discuss inviting more countries to joint fighter project](https://www.japantimes.co.jp/news/2024/11/20/japan/gcap-fighter-jets/ "Japan, U.K. and Italy discuss inviting more countries to joint fighter project")
 
-  [![The Iron Dames car shared by Rahel Frey, Sarah Bovy and Michelle Gatting is pushed into the garage during the World Endurance Championship race in Austin, Texas, earlier this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/15/427423.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "The Iron Dames car shared by Rahel Frey, Sarah Bovy and Michelle Gatting is pushed into the garage during the World Endurance Championship race in Austin, Texas, earlier this year.")](https://www.japantimes.co.jp/sports/2024/10/15/more-sports/women-auto-racing-wec/ "While motorsports' inclusivity has improved, there's still work to be done")
+  [![A new concept model of a next-generation fighter jet to be jointly developed by Japan, Britain and Italy is on display in Farnborough, Hampshire, in July.
+](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/20/435168.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A new concept model of a next-generation fighter jet to be jointly developed by Japan, Britain and Italy is on display in Farnborough, Hampshire, in July.
+")](https://www.japantimes.co.jp/news/2024/11/20/japan/gcap-fighter-jets/ "Japan, U.K. and Italy discuss inviting more countries to joint fighter project")
 
-[Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
+[Haruki Murakami's 'The City and Its Uncertain Walls' gives deep deja vu](https://www.japantimes.co.jp/culture/2024/11/19/books/haruki-murakami-the-city-and-its-uncertain-walls/ "Haruki Murakami's 'The City and Its Uncertain Walls' gives deep deja vu")
 
-  [![Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427338.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Constitutional Democratic Party (CDP) leader Yoshihiko Noda speaks to reporters in Tokyo on Thursday.")](https://www.japantimes.co.jp/news/2024/10/13/japan/politics/noda-interviewcdp/ "Amid skepticism, CDP faces once-in-a-lifetime opportunity in Oct. 27 polls")
+  [![For “The City and Its Uncertain Walls,” translated into English by Philip Gabriel, Haruki Murakami confronts the ghosts who won't leave him alone.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/434832.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "For “The City and Its Uncertain Walls,” translated into English by Philip Gabriel, Haruki Murakami confronts the ghosts who won't leave him alone.")](https://www.japantimes.co.jp/culture/2024/11/19/books/haruki-murakami-the-city-and-its-uncertain-walls/ "Haruki Murakami's 'The City and Its Uncertain Walls' gives deep deja vu")
 
-[Where does Shigeru Ishiba stand on the climate issue?](https://www.japantimes.co.jp/environment/2024/10/13/energy/ishiba-climate-energy-policies/ "Where does Shigeru Ishiba stand on the climate issue?")
+[Japanese expats in Asia find community through rugby](https://www.japantimes.co.jp/sports/2024/11/19/more-sports/japanese-expat-rugby-asia/ "Japanese expats in Asia find community through rugby")
 
-  [![Prime Minister Shigeru Ishiba chairs an Asia Zero Emission Community meeting in Vientiane, Laos, on Friday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/13/427392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Prime Minister Shigeru Ishiba chairs an Asia Zero Emission Community meeting in Vientiane, Laos, on Friday. ")](https://www.japantimes.co.jp/environment/2024/10/13/energy/ishiba-climate-energy-policies/ "Where does Shigeru Ishiba stand on the climate issue?")
+  [![The Taiwan Fivewoods celebrate their victory at the 2023 Asian Japanese Rugby Cup in December of last year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/431958.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Taiwan Fivewoods celebrate their victory at the 2023 Asian Japanese Rugby Cup in December of last year. ")](https://www.japantimes.co.jp/sports/2024/11/19/more-sports/japanese-expat-rugby-asia/ "Japanese expats in Asia find community through rugby")
 
-[Tokyo’s Indonesians get through life abroad with a couple of laughs](https://www.japantimes.co.jp/community/2024/10/14/our-lives/indonesia-expat-comedy-tokyo/ "Tokyo’s Indonesians get through life abroad with a couple of laughs")
+[In Fukushima, a weekend of prose, poetry and translation](https://www.japantimes.co.jp/community/2024/11/18/our-lives/japan-writers-conference-fukushima/ "In Fukushima, a weekend of prose, poetry and translation")
 
-  [![Performers at Stand Up Indonesia Tokyo shows crack plenty of jokes, but the main purpose behind the group, organizers say, is to provide a space where Indonesian expats can express themselves about any struggles they may have about living abroad.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427077.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Performers at Stand Up Indonesia Tokyo shows crack plenty of jokes, but the main purpose behind the group, organizers say, is to provide a space where Indonesian expats can express themselves about any struggles they may have about living abroad.")](https://www.japantimes.co.jp/community/2024/10/14/our-lives/indonesia-expat-comedy-tokyo/ "Tokyo’s Indonesians get through life abroad with a couple of laughs")
+  [![Aomori-based writer JJ Carter presented on tabletop gaming as creative inspiration for building characters and narratives.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434238.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Aomori-based writer JJ Carter presented on tabletop gaming as creative inspiration for building characters and narratives.")](https://www.japantimes.co.jp/community/2024/11/18/our-lives/japan-writers-conference-fukushima/ "In Fukushima, a weekend of prose, poetry and translation")
 
-[As Japan shuns stiff drinks, cider aims for a bigger share of the market](https://www.japantimes.co.jp/life/2024/10/13/food-drink/cider-japan-history-bars/ "As Japan shuns stiff drinks, cider aims for a bigger share of the market")
+[For Dr. Nakamats, aging is just experience in action](https://www.japantimes.co.jp/news/2024/11/18/japan/society/dr-nakamatsu-japanese-inventor/ "For Dr. Nakamats, aging is just experience in action")
 
-  [![Cider in Japan doesn't have as long a history as other alcoholic beverages, but with consumer preferences shifting, it might be just the easy sip for drinkers sick of stiff tipples.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/11/427073.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Cider in Japan doesn't have as long a history as other alcoholic beverages, but with consumer preferences shifting, it might be just the easy sip for drinkers sick of stiff tipples.")](https://www.japantimes.co.jp/life/2024/10/13/food-drink/cider-japan-history-bars/ "As Japan shuns stiff drinks, cider aims for a bigger share of the market")
+  [![Though he didn't win the recent gubernatorial election in Tokyo, the 96-year-old Dr. Nakamats' run was seen as inspirational in Japan's aging society. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434614.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Though he didn't win the recent gubernatorial election in Tokyo, the 96-year-old Dr. Nakamats' run was seen as inspirational in Japan's aging society. ")](https://www.japantimes.co.jp/news/2024/11/18/japan/society/dr-nakamatsu-japanese-inventor/ "For Dr. Nakamats, aging is just experience in action")
 
 Podcast
 -------
 
-  [![One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410707.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.")](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabukicho: Tokyo’s ‘stadium of desire’")
+  [![One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/07/22/410707.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "One of the many entrances to the Kabukicho neighborhood in Tokyo’s Shinjuku Ward.")](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabukicho: Tokyo’s ‘stadium of desire’")
 
 [Kabukicho: Tokyo’s ‘stadium of desire’](https://www.japantimes.co.jp/podcast/2024/07/22/deep-dive/kabukicho-tokyo/ "Kabukicho: Tokyo’s ‘stadium of desire’")
 
 Longform
 --------
 
-  [![Capsule hotels were created as a way to deal with the amount of overwork employees tend to do in Japan. Can't commute home? Then spend the night in an tiny, affordable sleeping space.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/12/426751.jpg?v=3.1&w=400&q=100&f=jpg&t=1.2 "Capsule hotels were created as a way to deal with the amount of overwork employees tend to do in Japan. Can't commute home? Then spend the night in an tiny, affordable sleeping space.")](https://www.japantimes.co.jp/business/2024/10/12/tech/sleep-market-tourism-japan/ "Japan wakes up to the market for a proper sleep")
+  [![Construction takes place on the Takanawa Gateway Convention Center in Tokyo, slated to open in 2025.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/432904.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Construction takes place on the Takanawa Gateway Convention Center in Tokyo, slated to open in 2025.")](https://www.japantimes.co.jp/business/2024/11/11/mice-tourism-japan-business/ "A boom for business tourism in Japan?")
 
-[Japan wakes up to the market for a proper sleep](https://www.japantimes.co.jp/business/2024/10/12/tech/sleep-market-tourism-japan/ "Japan wakes up to the market for a proper sleep")
+[A boom for business tourism in Japan?](https://www.japantimes.co.jp/business/2024/11/11/mice-tourism-japan-business/ "A boom for business tourism in Japan?")
 
-By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,23 +567,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Visitors to Japan in January-September top last year's total](https://www.japantimes.co.jp/news/2024/10/16/japan/society/foreign-visitors-september/ "Visitors to Japan in January-September top last year's total")
+[Japanese court rejects injunction against flights at Atsugi Air Base](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/yokohama-court-rejection-atsugi/ "Japanese court rejects injunction against flights at Atsugi Air Base")
 
-24 mins ago
+1 hour ago
 
-[JICA staffer suspected of leaking info on Philippines railway project](https://www.japantimes.co.jp/news/2024/10/16/japan/crime-legal/jica-information-leak/ "JICA staffer suspected of leaking info on Philippines railway project")
+[Russia launched intercontinental ballistic missile during attack on Ukraine, Kyiv says](https://www.japantimes.co.jp/news/2024/11/21/world/russia-icbm-attack-on-dnipro-ukraine/ "Russia launched intercontinental ballistic missile during attack on Ukraine, Kyiv says")
 
-55 mins ago
+1 hour ago
 
-[Gamers hunt for monsters in Tokyo as Niantic searches for a hit](https://www.japantimes.co.jp/business/2024/10/16/tech/monster-hunter-shibuya/ "Gamers hunt for monsters in Tokyo as Niantic searches for a hit")
+[Lutnick's China ties draw fire after Trump taps him for U.S. trade roles](https://www.japantimes.co.jp/news/2024/11/21/world/politics/lutnick-china-ties-trump-trade/ "Lutnick's China ties draw fire after Trump taps him for U.S. trade roles")
 
-1 hours ago
+1 hour ago
 
-[Ishiba's goal of revising U.S. troops pact likely long-term project](https://www.japantimes.co.jp/news/2024/10/16/japan/japan-us-status-of-forces-agreement/ "Ishiba's goal of revising U.S. troops pact likely long-term project")
+[Tokyo Metro’s overseas efforts begin in earnest with London deal](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
 
-1 hours ago
+1 hour ago
 
-[Bank of Japan policymaker calls for 'very moderate' pace of rate hikes](https://www.japantimes.co.jp/business/2024/10/16/economy/bank-of-japan-board-member/ "Bank of Japan policymaker calls for 'very moderate' pace of rate hikes")
+[Around a quarter of Japan married couples in their 20s met through dating apps](https://www.japantimes.co.jp/news/2024/11/21/japan/society/young-couples-dating-app/ "Around a quarter of Japan married couples in their 20s met through dating apps")
 
 2 hours ago
 
