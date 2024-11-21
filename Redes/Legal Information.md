@@ -122,9 +122,9 @@ Noticia
 
 Transformación Digital PYMES
 
-El programa Kit Digital recibe el Premio Ciudadanía por su impacto en la digitalización de pymes y autónomos
+El Plan de Impulso de Espacios de Datos Sectoriales contará con una ampliación de 300 millones para acelerar la economía del dato en la industria española
 
-[El programa Kit Digital recibe el Premio Ciudadanía por su impacto en la digitalización de pymes y autónomos](http://red.es/es/actualidad/noticias/el-programa-kit-digital-recibe-el-premio-ciudadania-2024 "Ir al contenido de: El programa Kit Digital recibe el Premio Ciudadanía por su impacto en la digitalización de pymes y autónomos")
+[El Plan de Impulso de Espacios de Datos Sectoriales contará con una ampliación de 300 millones para acelerar la economía del dato en la industria española](http://red.es/es/actualidad/noticias/arranca-plan-de-impulso-espacios-datos-sectoriales "Ir al contenido de: El Plan de Impulso de Espacios de Datos Sectoriales contará con una ampliación de 300 millones para acelerar la economía del dato en la industria española")
 
 ¿Conoces nuestras iniciativas?
 ------------------------------
