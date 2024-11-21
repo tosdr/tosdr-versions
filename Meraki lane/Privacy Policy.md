@@ -67,6 +67,10 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
+    [![7 Full Body Barre Workouts that Tighten & Tone Everything | Barre exercises combine ballet, yoga, and pilates and consist of low impact, high intensity movements that offer so many benefits –– it improves balance, coordination, and posture, increases flexibility and range of motion, develops core strength, and it also burns fat and helps build lean muscle for a sculpted body. It's a stress-reducing full-body workout and we've curated the best barre workouts you can do anywhere. Click for more!](https://www.merakilane.com/wp-content/uploads/2024/11/4-2.png)](https://www.merakilane.com/7-full-body-barre-workouts-that-tighten-tone-everything/)
+    
+    ### [7 Full Body Barre Workouts that Tighten & Tone Everything](https://www.merakilane.com/7-full-body-barre-workouts-that-tighten-tone-everything/)
+    
     [![18 Filling and Healthy 5-Minute Breakfast Ideas for Busy Mornings | These simple and easy breakfast ideas are perfect for busy mornings. Packed with protein, fiber, and simple ingredients, they’re easy to prep and will keep you full and focused until lunchtime. From smoothies, to overnight oats, to breakfast sandwiches, to burritos, and more, these ideas for kids and adults are equal parts filling and delicious and make the perfect grab-and-go breakfast to enjoy on the way to school or work!](https://www.merakilane.com/wp-content/uploads/2024/11/4-1.png)](https://www.merakilane.com/18-filling-and-healthy-5-minute-breakfast-ideas-for-busy-mornings/)
     
     ### [18 Filling and Healthy 5-Minute Breakfast Ideas for Busy Mornings](https://www.merakilane.com/18-filling-and-healthy-5-minute-breakfast-ideas-for-busy-mornings/)
@@ -74,10 +78,6 @@ Main Menu
     [![8 Tips to Help You Stay Strong During Dry January | Embrace Dry January and kickstart your year with healthier habits! The benefits of this 30-day challenge include things like improved mood and better sleep. It’s a chance to rethink your relationship with alcohol after the holidays. Discover essential tips to stay strong and motivated, from finding tasty mocktails to connecting with supportive friends. Thrive during Dry January and set the stage for lasting wellness beyond the month!](https://www.merakilane.com/wp-content/uploads/2024/11/8.png)](https://www.merakilane.com/8-tips-to-help-you-stay-strong-during-dry-january/)
     
     ### [8 Tips to Help You Stay Strong During Dry January](https://www.merakilane.com/8-tips-to-help-you-stay-strong-during-dry-january/)
-    
-    [![8 Restorative Yoga Poses to Relax Your Body & Mind | Explore the best restorative yoga poses to calm your nervous system, help you sleep better, and provide relief from aches and pains (lower back pain anyone?). This gentle practice is ideal for balancing high-energy workouts, reducing stress, and promoting tranquility. Each pose encourages deep relaxation, enhancing your overall well-being. Incorporate these soothing techniques into your daily routine to find calm and restore your energy.](https://www.merakilane.com/wp-content/uploads/2024/11/4.png)](https://www.merakilane.com/8-restorative-yoga-poses-to-relax-your-body-mind/)
-    
-    ### [8 Restorative Yoga Poses to Relax Your Body & Mind](https://www.merakilane.com/8-restorative-yoga-poses-to-relax-your-body-mind/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![15 Filling and Healthy Grab-and-Go Breakfast Ideas for Teens | Mornings can be hectic, but a healthy breakfast is key for teens to stay energized and focused. Click for our fav easy breakfast ideas for teens that are nutritious and delicious. These recipes are perfect for busy school days, offering the right balance of protein, fiber, and energy to fuel their bodies and minds. And if you have a student athlete, you can make many of these ahead of time to eat before early morning practice!](https://www.merakilane.com/wp-content/uploads/2024/11/3-2.png)](https://www.merakilane.com/15-filling-and-healthy-grab-and-go-breakfast-ideas-for-teens/)
+    
+    ### [15 Filling and Healthy Grab-and-Go Breakfast Ideas for Teens](https://www.merakilane.com/15-filling-and-healthy-grab-and-go-breakfast-ideas-for-teens/)
+    
     [![How to Make Stretch Beaded Bracelets that Won't Break | Stretch beaded bracelets are a fun and easy DIY project, but making sure they’re durable enough for everyday wear can be tricky. In this post, we share 13 tips to teach you how to tie them so they don't break, and we've also rounded up 11 stylish yet simple and easy design ideas and tutorials to inspire you. Whether you're making bracelets on your own or with your kids for personal use or to give as a gift, this post is a great resource.](https://www.merakilane.com/wp-content/uploads/2024/11/1-1.png)](https://www.merakilane.com/how-to-make-stretch-beaded-bracelets-that-wont-break-24-tips-ideas/)
     
     ### [How to Make Stretch Beaded Bracelets that Won’t Break (24 Tips & Ideas)](https://www.merakilane.com/how-to-make-stretch-beaded-bracelets-that-wont-break-24-tips-ideas/)
@@ -124,10 +128,6 @@ Main Menu
     [![How to Make Hand Puppets | 15 Tips & Tutorials | This classic craft is perfect for igniting creativity and providing hours of entertainment for kids and adults -- and you don't need to know how to crochet! With a few basic household items, you can dive into a world where your imagination knows no bounds. From silly monsters, to adorable dragons, and other animals your kids love, these design ideas are easy to make using craft supplies you already have on hand like paper and felt. Click for more!](https://www.merakilane.com/wp-content/uploads/2024/11/5-1.png)](https://www.merakilane.com/how-to-make-hand-puppets-15-tips-tutorials/)
     
     ### [How to Make Hand Puppets: 15 Tips & Tutorials](https://www.merakilane.com/how-to-make-hand-puppets-15-tips-tutorials/)
-    
-    [![13th Birthday Party Ideas to Celebrate Your Teen! | Turning 13 is a huge milestone—your child is officially a teenager! While kid birthday parties may be a thing of the past, this is a birthday worth celebrating. If you're looking for things to do for your daughter or son to make this an extra special birthday, we've got you covered. From specific theme ideas, to sleepovers, to unique and fun games and activities, we're sharing ideas for boys, girls, and co-ed birthday party ideas for teens!](https://www.merakilane.com/wp-content/uploads/2024/10/2-3.png)](https://www.merakilane.com/30-13th-birthday-party-ideas-to-celebrate-your-teen/)
-    
-    ### [30 13th Birthday Party Ideas to Celebrate Your Teen!](https://www.merakilane.com/30-13th-birthday-party-ideas-to-celebrate-your-teen/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
