@@ -75,16 +75,17 @@
         
         * * RESOURCES
                 
-            * [Free Tools](https://www.thryv.com/free-tools)
+            * [Keap FAQs](https://www.thryv.com/keap-faqs/)
+            * [Free Tools](https://www.thryv.com/free-tools/)
             * [Partners](https://www.thryv.com/partners/)
             * [Help Center](https://learn.thryv.com/hc)
             * [Events](https://www.thryv.com/webinars-and-events/#events)
-            * [Webinars](https://www.thryv.com/webinars-and-events/#webinars)
         * * BLOGS & CONTENT
                 
             * [Blog](https://www.thryv.com/blog)
             * [Small Business Guides](https://www.thryv.com/guides-resources)
             * [Podcasts](https://www.thryv.com/podcast-resources/)
+            * [Webinars](https://www.thryv.com/webinars-and-events/#webinars)
             * [How to Videos](https://www.thryv.com/webinars-and-events/#how-to-thryv)
         * * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20212%2069'%3E%3C/svg%3E)
                 
