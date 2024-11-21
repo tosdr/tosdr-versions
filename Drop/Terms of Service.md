@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop + grell OAE1 Headphones
+[The Black Friday Bash Is LIVE
 
-New finish, same incredible fidelity.
+We slash the prices, you crash the party.
 
-LISTEN IN
+SHOP NOW
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-grell-oae1-headphones/)
+_keyboard\_arrow\_right_](https://drop.com/talk/142147/black-friday-bash-2024)
 
 Free Standard Shipping in the US on orders over $99
 
