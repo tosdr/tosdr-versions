@@ -2,19 +2,19 @@ The store will not work correctly when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
+**Adaptivemall.com will be closed November 28th & 29th! Enjoy the Thanksgiving Holiday with your family & friends!**
+
 FREE SHIPPING\* | [See Details](https://www.adaptivemall.com/freeshipping)
 
 **Adaptivemall.com will be closed May 25th- 27th in observance of the Memorial Day Holiday. Customer Service will return on Tuesday, May 28th at 8:30am EST to resume regularly scheduled hours.** 
 
  **Please note that we are switching our email server today to provide better service to you. There may be a slight interruption in email service but know that we are diligently working on it! Thank you for your patience!**
 
+CLOSE
+
 * Compare
 
-* [About Us](https://www.adaptivemall.com/aboutus)
-* [Contact Us](https://www.adaptivemall.com/aboutus#contactus)
-* [Customer Care](https://www.adaptivemall.com/customer-service-q-a)
-
-Menu [![](https://www.adaptivemall.com/media/logo/stores/6/adaptive-logo-min.png)](https://www.adaptivemall.com/)
+Menu [![](https://www.adaptivemall.com/media/logo/stores/6/am_newlogo.png)](https://www.adaptivemall.com/)
 
 [](https://www.adaptivemall.com/checkout/cart/)
 
@@ -22,11 +22,9 @@ Menu [![](https://www.adaptivemall.com/media/logo/stores/6/adaptive-logo-min.png
 
 [Login](https://www.adaptivemall.com/customer/account/login)
 
-SEARCH
-
-800-371-2778
-
 We Understand.™
+
+[Free Shipping\* >](https://www.adaptivemall.com/freeshipping/)
 
 **Search**
 
@@ -36,47 +34,6 @@ Search
 
 [Menu](#store.menu)
 
-Need Help? 800-371-2778
-
-CLOSE
-
-* [Strollers](https://www.adaptivemall.com/allstrolpus.html)
-    
-    * [Stroller Style Pushchairs](https://www.adaptivemall.com/allstrolpus/strolstylwhe.html)
-    * [All-Terrain Strollers](https://www.adaptivemall.com/allstrolpus/allterstrol.html)
-    * [Jogging Strollers](https://www.adaptivemall.com/allstrolpus/joggingstrollers.html)
-    * [Bus or Van Transport](https://www.adaptivemall.com/allstrolpus/bustranstrol.html)
-    * [Umbrella Style Strollers](https://www.adaptivemall.com/allstrolpus/umstylstrol.html)
-    * [Lightweight Travel Chairs](https://www.adaptivemall.com/allstrolpus/ligtravchair1.html)
-    * [Tilt-in-Space AND Reclining Strollers](https://www.adaptivemall.com/allstrolpus/tilinspacand.html)
-    * [Recline ONLY Strollers](https://www.adaptivemall.com/catalog/category/view/s/recline-only-strollers/id/34/)
-    * [Tilt In Space ONLY Strollers](https://www.adaptivemall.com/allstrolpus/tiltinspacestrollers.html)
-    * [Universal Accessories](https://www.adaptivemall.com/allstrolpus/universalaccessories.html)
-    
-    [Strollers](https://www.adaptivemall.com/allstrolpus.html)
-    
-    * [Stroller Style Pushchairs](https://www.adaptivemall.com/allstrolpus/strolstylwhe.html)
-    * [All-Terrain Strollers](https://www.adaptivemall.com/allstrolpus/allterstrol.html)
-    * [Jogging Strollers](https://www.adaptivemall.com/allstrolpus/joggingstrollers.html)
-    * [Bus or Van Transport](https://www.adaptivemall.com/allstrolpus/bustranstrol.html)
-    * [Umbrella Style Strollers](https://www.adaptivemall.com/allstrolpus/umstylstrol.html)
-    * [Lightweight Travel Chairs](https://www.adaptivemall.com/allstrolpus/ligtravchair1.html)
-    * [Tilt-in-Space AND Reclining Strollers](https://www.adaptivemall.com/allstrolpus/tilinspacand.html)
-    * [Recline ONLY Strollers](https://www.adaptivemall.com/catalog/category/view/s/recline-only-strollers/id/34/)
-    * [Tilt In Space ONLY Strollers](https://www.adaptivemall.com/allstrolpus/tiltinspacestrollers.html)
-    * [Universal Accessories](https://www.adaptivemall.com/allstrolpus/universalaccessories.html)
-    [Shop All Strollers](https://www.adaptivemall.com/allstrolpus.html)
-    
-    ![](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Image_15.png)
-    
-    #### Special Tomato
-    
-    **EIO Push Chair**
-    
-    * * *
-    
-    [Browse All Stroller Style Pushchairs](https://www.adaptivemall.com/allstrolpus/strolstylwhe.html)
-    
 * [Seating](https://www.adaptivemall.com/seating.html)
     
     * [Active Sitting](https://www.adaptivemall.com/seating/activesitting.html)
@@ -98,34 +55,50 @@ CLOSE
     
     [Seating](https://www.adaptivemall.com/seating.html)
     
-    * [Active Sitting](https://www.adaptivemall.com/seating/activesitting.html)
-    * [Corner Chairs & Tables](https://www.adaptivemall.com/seating/cornerchairs.html)
-    * [Dynamic Seating](https://www.adaptivemall.com/seating/dynamicseating.html)
-    * [Floor Seating](https://www.adaptivemall.com/seating/floorsitting.html)
-    * [Hi Lo Chairs](https://www.adaptivemall.com/seating/hilochairs.html)
-    * [Loungers and Bean Bag Chairs](https://www.adaptivemall.com/seating/loungersandbeanbagchairs.html)
-    * [Mobile Seating](https://www.adaptivemall.com/seating/mobileseating.html)
-    * [Portable Seating](https://www.adaptivemall.com/seating/pose.html)
-    * [Recline Seating](https://www.adaptivemall.com/seating/reclineseating.html)
-    * [Recline and Tilt in Space Seating](https://www.adaptivemall.com/seating/reclineandtiltseating.html)
-    * [Sit-to-Stand Standers](https://www.adaptivemall.com/seating/sist.html)
-    * [Stationary Seating](https://www.adaptivemall.com/seating/stse.html)
-    * [Swings](https://www.adaptivemall.com/seating/swings.html)
-    * [Tables and Trays](https://www.adaptivemall.com/seating/tablesandtrays1.html)
-    * [Tilt-in-Space Seating](https://www.adaptivemall.com/seating/tiinspse.html)
-    * [Seating Accessories](https://www.adaptivemall.com/seating/seating-accessories.html)
-    [Shop All Seating](https://www.adaptivemall.com/seating.html)
+    *  [![Active Sitting](https://www.adaptivemall.com//media/catalog/category/1.png) Active Sitting](https://www.adaptivemall.com/seating/activesitting.html)
+    *  [![Corner Chairs & Tables](https://www.adaptivemall.com//media/catalog/category/2.png) Corner Chairs & Tables](https://www.adaptivemall.com/seating/cornerchairs.html)
+    *  [![Dynamic Seating](https://www.adaptivemall.com//media/catalog/category/3.png) Dynamic Seating](https://www.adaptivemall.com/seating/dynamicseating.html)
+    *  [![Floor Seating](https://www.adaptivemall.com//media/catalog/category/4.png) Floor Seating](https://www.adaptivemall.com/seating/floorsitting.html)
+    *  [![Hi Lo Chairs](https://www.adaptivemall.com//media/catalog/category/5.png) Hi Lo Chairs](https://www.adaptivemall.com/seating/hilochairs.html)
+    *  [![Loungers and Bean Bag Chairs](https://www.adaptivemall.com//media/catalog/category/6.png) Loungers and Bean Bag Chairs](https://www.adaptivemall.com/seating/loungersandbeanbagchairs.html)
+    *  [![Mobile Seating](https://www.adaptivemall.com//media/catalog/category/7.png) Mobile Seating](https://www.adaptivemall.com/seating/mobileseating.html)
+    *  [![Portable Seating](https://www.adaptivemall.com//media/catalog/category/8.png) Portable Seating](https://www.adaptivemall.com/seating/pose.html)
+    *  [![Recline Seating](https://www.adaptivemall.com//media/catalog/category/9.png) Recline Seating](https://www.adaptivemall.com/seating/reclineseating.html)
+    *  [![Recline and Tilt in Space Seating](https://www.adaptivemall.com//media/catalog/category/10.png) Recline and Tilt in Space Seating](https://www.adaptivemall.com/seating/reclineandtiltseating.html)
+    *  [![Sit-to-Stand Standers](https://www.adaptivemall.com//media/catalog/category/11.png) Sit-to-Stand Standers](https://www.adaptivemall.com/seating/sist.html)
+    *  [![Stationary Seating](https://www.adaptivemall.com//media/catalog/category/12.png) Stationary Seating](https://www.adaptivemall.com/seating/stse.html)
+    *  [![Swings](https://www.adaptivemall.com//media/catalog/category/13.png) Swings](https://www.adaptivemall.com/seating/swings.html)
+    *  [![Tables and Trays](https://www.adaptivemall.com//media/catalog/category/14.png) Tables and Trays](https://www.adaptivemall.com/seating/tablesandtrays1.html)
+    *  [![Tilt-in-Space Seating](https://www.adaptivemall.com//media/catalog/category/15.png) Tilt-in-Space Seating](https://www.adaptivemall.com/seating/tiinspse.html)
+    *  [![Seating Accessories](https://www.adaptivemall.com//media/catalog/category/16.png) Seating Accessories](https://www.adaptivemall.com/seating/seating-accessories.html)
+    *  [![](https://www.adaptivemall.com/media/wysiwyg/category/placeholders/38_placeholder.png) Shop All Seating](https://www.adaptivemall.com/seating.html)
     
-    ![](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Image_20.png)
+* [Strollers](https://www.adaptivemall.com/allstrolpus.html)
     
-    #### Special Tomato  
-    Soft-Touch® Sitter
+    * [Stroller Style Pushchairs](https://www.adaptivemall.com/allstrolpus/strolstylwhe.html)
+    * [All-Terrain Strollers](https://www.adaptivemall.com/allstrolpus/allterstrol.html)
+    * [Jogging Strollers](https://www.adaptivemall.com/allstrolpus/joggingstrollers.html)
+    * [Bus or Van Transport](https://www.adaptivemall.com/allstrolpus/bustranstrol.html)
+    * [Umbrella Style Strollers](https://www.adaptivemall.com/allstrolpus/umstylstrol.html)
+    * [Lightweight Travel Chairs](https://www.adaptivemall.com/allstrolpus/ligtravchair1.html)
+    * [Tilt-in-Space AND Reclining Strollers](https://www.adaptivemall.com/allstrolpus/tilinspacand.html)
+    * [Recline ONLY Strollers](https://www.adaptivemall.com/catalog/category/view/s/recline-only-strollers/id/34/)
+    * [Tilt In Space ONLY Strollers](https://www.adaptivemall.com/allstrolpus/tiltinspacestrollers.html)
+    * [Universal Accessories](https://www.adaptivemall.com/allstrolpus/universalaccessories.html)
     
-    **with Mobile Base**
+    [Strollers](https://www.adaptivemall.com/allstrolpus.html)
     
-    * * *
-    
-    [Browse All Mobile Seating](https://www.adaptivemall.com/seating/mobileseating.html)
+    *  [![Stroller Style Pushchairs](https://www.adaptivemall.com//media/catalog/category/1_1.png) Stroller Style Pushchairs](https://www.adaptivemall.com/allstrolpus/strolstylwhe.html)
+    *  [![All-Terrain Strollers](https://www.adaptivemall.com//media/catalog/category/2_1.png) All-Terrain Strollers](https://www.adaptivemall.com/allstrolpus/allterstrol.html)
+    *  [![Jogging Strollers](https://www.adaptivemall.com//media/catalog/category/3_1.png) Jogging Strollers](https://www.adaptivemall.com/allstrolpus/joggingstrollers.html)
+    *  [![Bus or Van Transport](https://www.adaptivemall.com//media/catalog/category/4_1.png) Bus or Van Transport](https://www.adaptivemall.com/allstrolpus/bustranstrol.html)
+    *  [![Umbrella Style Strollers](https://www.adaptivemall.com//media/catalog/category/5_1.png) Umbrella Style Strollers](https://www.adaptivemall.com/allstrolpus/umstylstrol.html)
+    *  [![Lightweight Travel Chairs](https://www.adaptivemall.com//media/catalog/category/6_1.png) Lightweight Travel Chairs](https://www.adaptivemall.com/allstrolpus/ligtravchair1.html)
+    *  [![Tilt-in-Space AND Reclining Strollers](https://www.adaptivemall.com//media/catalog/category/7_1.png) Tilt-in-Space AND Reclining Strollers](https://www.adaptivemall.com/allstrolpus/tilinspacand.html)
+    *  [![Recline ONLY Strollers](https://www.adaptivemall.com//media/catalog/category/8_1.png) Recline ONLY Strollers](https://www.adaptivemall.com/catalog/category/view/s/recline-only-strollers/id/34/)
+    *  [![Tilt In Space ONLY Strollers](https://www.adaptivemall.com//media/catalog/category/9_1.png) Tilt In Space ONLY Strollers](https://www.adaptivemall.com/allstrolpus/tiltinspacestrollers.html)
+    *  [![Universal Accessories](https://www.adaptivemall.com//media/catalog/category/10_1.png) Universal Accessories](https://www.adaptivemall.com/allstrolpus/universalaccessories.html)
+    *  [![](https://www.adaptivemall.com/media/wysiwyg/category/placeholders/25_placeholder.png) Shop All Strollers](https://www.adaptivemall.com/allstrolpus.html)
     
 * [Car Seats](https://www.adaptivemall.com/transportation.html)
     
@@ -136,21 +109,11 @@ CLOSE
     
     [Car Seats](https://www.adaptivemall.com/transportation.html)
     
-    * [Airplane Travel](https://www.adaptivemall.com/transportation/airplanetravel.html)
-    * [Booster Car Seats](https://www.adaptivemall.com/transportation/boostercarseats.html)
-    * [Bus Transport](https://www.adaptivemall.com/transportation/bustranstrol.html)
-    * [Car Seats & Special Needs Transportation](https://www.adaptivemall.com/transportation/safetycarseats1.html)
-    [Shop All Car Seats](https://www.adaptivemall.com/transportation.html)
-    
-    ![](https://www.adaptivemall.com/media/wysiwyg/AM_MM_carseat_crop.jpg)
-    
-    #### Special Tomato
-    
-    **MPS Car Seat**
-    
-    * * *
-    
-    [Browse All Car Seats](https://www.adaptivemall.com/transportation/safetycarseats1.html)
+    *  [![Airplane Travel](https://www.adaptivemall.com//media/catalog/category/1_2.png) Airplane Travel](https://www.adaptivemall.com/transportation/airplanetravel.html)
+    *  [![Booster Car Seats](https://www.adaptivemall.com//media/catalog/category/2_2.png) Booster Car Seats](https://www.adaptivemall.com/transportation/boostercarseats.html)
+    *  [![Bus Transport](https://www.adaptivemall.com//media/catalog/category/3_2.png) Bus Transport](https://www.adaptivemall.com/transportation/bustranstrol.html)
+    *  [![Car Seats & Special Needs Transportation](https://www.adaptivemall.com//media/catalog/category/4_2.png) Car Seats & Special Needs Transportation](https://www.adaptivemall.com/transportation/safetycarseats1.html)
+    *  [![](https://www.adaptivemall.com/media/wysiwyg/category/placeholders/54_placeholder.png) Shop All Car Seats](https://www.adaptivemall.com/transportation.html)
     
 * [Bathroom](https://www.adaptivemall.com/toiletbath.html)
     
@@ -161,27 +124,50 @@ CLOSE
     * [Bath Lift](https://www.adaptivemall.com/toiletbath/bathlift.html)
     * [Bath Transfer](https://www.adaptivemall.com/toiletbath/bathtransfer.html)
     * [Transfer Shower Chairs](https://www.adaptivemall.com/toiletbath/trshch.html)
+    * [Changing tables](https://www.adaptivemall.com/toiletbath/changing-tables.html)
     
     [Bathroom](https://www.adaptivemall.com/toiletbath.html)
     
-    * [Toileting & Commodes](https://www.adaptivemall.com/toiletbath/astoil.html)
-    * [Bathing](https://www.adaptivemall.com/toiletbath/colbatchair.html)
-    * [Showering](https://www.adaptivemall.com/toiletbath/lecbatandsho.html)
-    * [Bath Lift](https://www.adaptivemall.com/toiletbath/bathlift.html)
-    * [Bath Transfer](https://www.adaptivemall.com/toiletbath/bathtransfer.html)
-    * [Transfer Shower Chairs](https://www.adaptivemall.com/toiletbath/trshch.html)
-    [Shop All Bathroom](https://www.adaptivemall.com/toiletbath.html)
+    *  [![Toileting & Commodes](https://www.adaptivemall.com//media/catalog/category/1_3.png) Toileting & Commodes](https://www.adaptivemall.com/toiletbath/astoil.html)
+    *  [![Bathing](https://www.adaptivemall.com//media/catalog/category/2_3.png) Bathing](https://www.adaptivemall.com/toiletbath/colbatchair.html)
+    *  [![Showering](https://www.adaptivemall.com//media/catalog/category/3_3.png) Showering](https://www.adaptivemall.com/toiletbath/lecbatandsho.html)
+    *  [![Bath Lift](https://www.adaptivemall.com//media/catalog/category/4_3.png) Bath Lift](https://www.adaptivemall.com/toiletbath/bathlift.html)
+    *  [![Bath Transfer](https://www.adaptivemall.com//media/catalog/category/5_2.png) Bath Transfer](https://www.adaptivemall.com/toiletbath/bathtransfer.html)
+    *  [![Transfer Shower Chairs](https://www.adaptivemall.com//media/catalog/category/6_2.png) Transfer Shower Chairs](https://www.adaptivemall.com/toiletbath/trshch.html)
+    *  [![Changing tables](https://www.adaptivemall.com//media/catalog/category/7_3.png) Changing tables](https://www.adaptivemall.com/toiletbath/changing-tables.html)
+    *  [![](https://www.adaptivemall.com/media/wysiwyg/category/placeholders/58_placeholder.png) Shop All Bathroom](https://www.adaptivemall.com/toiletbath.html)
     
-    ![](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Image_22.png)
+* [Walker](https://www.adaptivemall.com/walker.html)
     
-    #### Columbia Medical
+    * [Pre-walkers](https://www.adaptivemall.com/walker/pre-walkers.html)
+    * [Gait Trainers](https://www.adaptivemall.com/walker/gait-trainers.html)
+    * [Walker](https://www.adaptivemall.com/walker/walker.html)
     
-    **Hi-Back Toilet Support System  
-    with Padding**
+    [Walker](https://www.adaptivemall.com/walker.html)
     
-    * * *
+    *  [![Pre-walkers](https://www.adaptivemall.com//media/catalog/category/pre-walkers.png) Pre-walkers](https://www.adaptivemall.com/walker/pre-walkers.html)
+    *  [![Gait Trainers](https://www.adaptivemall.com//media/catalog/category/2_4.png) Gait Trainers](https://www.adaptivemall.com/walker/gait-trainers.html)
+    *  [![Walker](https://www.adaptivemall.com//media/catalog/category/walker.png) Walker](https://www.adaptivemall.com/walker/walker.html)
+    *  [![](https://www.adaptivemall.com/media/wysiwyg/category/placeholders/371_placeholder.png) Shop All Walker](https://www.adaptivemall.com/walker.html)
     
-    [Browse All Toileting / Commodes](https://www.adaptivemall.com/toiletbath/astoil.html)
+* [Stander](https://www.adaptivemall.com/stander.html)
+    
+    * [Prone Standers](https://www.adaptivemall.com/stander/prone-standers.html)
+    * [Supine Standers](https://www.adaptivemall.com/stander/supine-standers.html)
+    * [Vertical Standers](https://www.adaptivemall.com/stander/vertical-standers.html)
+    * [3-Way Standers](https://www.adaptivemall.com/stander/3-way-standers.html)
+    * [Mobile Standers](https://www.adaptivemall.com/stander/mobile-standers.html)
+    * [Sit to Stand Standers](https://www.adaptivemall.com/stander/sit-to-stand-standers.html)
+    
+    [Stander](https://www.adaptivemall.com/stander.html)
+    
+    *  [![Prone Standers](https://www.adaptivemall.com//media/catalog/category/stander-prone.png) Prone Standers](https://www.adaptivemall.com/stander/prone-standers.html)
+    *  [![Supine Standers](https://www.adaptivemall.com//media/catalog/category/supine.png) Supine Standers](https://www.adaptivemall.com/stander/supine-standers.html)
+    *  [![Vertical Standers](https://www.adaptivemall.com//media/catalog/category/vertical-stander.png) Vertical Standers](https://www.adaptivemall.com/stander/vertical-standers.html)
+    *  [![3-Way Standers](https://www.adaptivemall.com//media/catalog/category/3-Way_Standers.png) 3-Way Standers](https://www.adaptivemall.com/stander/3-way-standers.html)
+    *  [![Mobile Standers](https://www.adaptivemall.com//media/catalog/category/Mobile_Standers.png) Mobile Standers](https://www.adaptivemall.com/stander/mobile-standers.html)
+    *  [![Sit to Stand Standers](https://www.adaptivemall.com//media/catalog/category/Sit_to_Stand_Standers.png) Sit to Stand Standers](https://www.adaptivemall.com/stander/sit-to-stand-standers.html)
+    *  [![](https://www.adaptivemall.com/media/wysiwyg/category/placeholders/383_placeholder.png) Shop All Stander](https://www.adaptivemall.com/stander.html)
     
 * [Bikes & Trikes](https://www.adaptivemall.com/specneedtric.html)
     
@@ -192,171 +178,24 @@ CLOSE
     
     [Bikes & Trikes](https://www.adaptivemall.com/specneedtric.html)
     
-    * [Tricycles](https://www.adaptivemall.com/specneedtric/tricycles.html)
-    * [Balance Bikes](https://www.adaptivemall.com/specneedtric/balancebikes.html)
-    * [Foot & Hand Cycles](https://www.adaptivemall.com/specneedtric/footandhandcycles.html)
-    * [Adult Bikes](https://www.adaptivemall.com/specneedtric/adultbikes.html)
-    [Shop All Bikes & Trikes](https://www.adaptivemall.com/specneedtric.html)
+    *  [![Tricycles](https://www.adaptivemall.com//media/catalog/category/1_4.png) Tricycles](https://www.adaptivemall.com/specneedtric/tricycles.html)
+    *  [![Balance Bikes](https://www.adaptivemall.com//media/catalog/category/2_5.png) Balance Bikes](https://www.adaptivemall.com/specneedtric/balancebikes.html)
+    *  [![Foot & Hand Cycles](https://www.adaptivemall.com//media/catalog/category/3_5.png) Foot & Hand Cycles](https://www.adaptivemall.com/specneedtric/footandhandcycles.html)
+    *  [![Adult Bikes](https://www.adaptivemall.com//media/catalog/category/4_4.png) Adult Bikes](https://www.adaptivemall.com/specneedtric/adultbikes.html)
+    *  [![](https://www.adaptivemall.com/media/wysiwyg/category/placeholders/65_placeholder.png) Shop All Bikes & Trikes](https://www.adaptivemall.com/specneedtric.html)
     
-    ![](https://www.adaptivemall.com/media/wysiwyg/AM_MM_tricycle_crop.jpg)
-    
-    #### Rifton Tricycle
-    
-    * * *
-    
-    [Browse All Tricycles](https://www.adaptivemall.com/specneedtric/tricycles.html)
-    
-* [More](https://www.adaptivemall.com/seemore.html)
-    
-    * [Adult Adaptive Equipment](https://www.adaptivemall.com/seemore/adadeq.html)
-    * [Autism](https://www.adaptivemall.com/seemore/autism.html)
-    * [Fine Motor](https://www.adaptivemall.com/seemore/finemotor.html)
-    * [Fun](https://www.adaptivemall.com/seemore/wheelmob.html)
-    * [Gait Trainers](https://www.adaptivemall.com/seemore/gaittrainers1.html)
-    * [Gross Motor](https://www.adaptivemall.com/seemore/grossmotor.html)
-    * [Sleeping & Adaptive Beds](https://www.adaptivemall.com/seemore/sladbe.html)
-    * [Standers](https://www.adaptivemall.com/seemore/standers.html)
-    * [Swings](https://www.adaptivemall.com/seemore/swings.html)
-    * [Tables and Trays](https://www.adaptivemall.com/seemore/tablesandtrays.html)
-    * [Therapeutic & Educational Toys](https://www.adaptivemall.com/seemore/edto.html)
-    * [Therapy Systems](https://www.adaptivemall.com/seemore/therapysystems.html)
-    * [Universal Accessories](https://www.adaptivemall.com/seemore/universalaccessories.html)
-    * [Walkers](https://www.adaptivemall.com/seemore/gaittrainers.html)
-    * [Changing Tables](https://www.adaptivemall.com/seemore/changing-tables.html)
-    * [Treatment Tables](https://www.adaptivemall.com/seemore/treatment-tables.html)
-    
-    [More](https://www.adaptivemall.com/seemore.html)
-    
-    * [Adult Adaptive Equipment](https://www.adaptivemall.com/seemore/adadeq.html)
-    * [Autism](https://www.adaptivemall.com/seemore/autism.html)
-    * [Fine Motor](https://www.adaptivemall.com/seemore/finemotor.html)
-    * [Fun](https://www.adaptivemall.com/seemore/wheelmob.html)
-    * [Gait Trainers](https://www.adaptivemall.com/seemore/gaittrainers1.html)
-    * [Gross Motor](https://www.adaptivemall.com/seemore/grossmotor.html)
-    * [Sleeping & Adaptive Beds](https://www.adaptivemall.com/seemore/sladbe.html)
-    * [Standers](https://www.adaptivemall.com/seemore/standers.html)
-    * [Swings](https://www.adaptivemall.com/seemore/swings.html)
-    * [Tables and Trays](https://www.adaptivemall.com/seemore/tablesandtrays.html)
-    * [Therapeutic & Educational Toys](https://www.adaptivemall.com/seemore/edto.html)
-    * [Therapy Systems](https://www.adaptivemall.com/seemore/therapysystems.html)
-    * [Universal Accessories](https://www.adaptivemall.com/seemore/universalaccessories.html)
-    * [Walkers](https://www.adaptivemall.com/seemore/gaittrainers.html)
-    * [Changing Tables](https://www.adaptivemall.com/seemore/changing-tables.html)
-    * [Treatment Tables](https://www.adaptivemall.com/seemore/treatment-tables.html)
-    [Shop All More](https://www.adaptivemall.com/seemore.html)
-    
-    ![](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Image_24.png)
-    
-    #### R82 Mustang
-    
-    * * *
-    
-    [Browse All Gait Trainers](https://www.adaptivemall.com/seemore/gaittrainers1.html)
-    
-* [Special Tomato](https://www.adaptivemall.com/storbehbran.html)
-* [Shop by Need](https://www.adaptivemall.com/shopbyneed.html)
-    
-    * [I Need Help SITTING...](https://www.adaptivemall.com/shopbyneed/inehesi.html)
-    * [I Need Help STANDING...](https://www.adaptivemall.com/shopbyneed/inehest.html)
-    * [I Need Help With TRANSPORTATION...](https://www.adaptivemall.com/shopbyneed/inehewitr.html)
-    * [I Need Help WALKING...](https://www.adaptivemall.com/shopbyneed/inehewa.html)
-    * [I Need Help in the BATHROOM...](https://www.adaptivemall.com/shopbyneed/ineheba.html)
-    * [I Need Help LYING DOWN](https://www.adaptivemall.com/shopbyneed/inehelydo.html)
-    * [I Need Help With SENSORY INTEGRATION...](https://www.adaptivemall.com/shopbyneed/inehewisein.html)
-    * [I Need Help With BALANCE...](https://www.adaptivemall.com/shopbyneed/inehewiba.html)
-    * [I Need Help CRAWLING](https://www.adaptivemall.com/shopbyneed/inehecr.html)
-    * [I Need Help TALL KNEELING...](https://www.adaptivemall.com/shopbyneed/inehetakn.html)
-    * [I Need Help with FINE MOTOR SKILLS](https://www.adaptivemall.com/shopbyneed/ineedhelpwithfinemotorskills.html)
-    
-    ![](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Image_35.png)
-    
-    #### EasyStand  
-    Bantam
-    
-    * * *
-    
-    [Browse All Sit-to-Stand Standers](https://www.adaptivemall.com/shopbyneed.html)
-    
-    [Shop by Need](https://www.adaptivemall.com/shopbyneed.html)
-    
-    * [I Need Help SITTING...](https://www.adaptivemall.com/shopbyneed/inehesi.html)
-    * [I Need Help STANDING...](https://www.adaptivemall.com/shopbyneed/inehest.html)
-    * [I Need Help With TRANSPORTATION...](https://www.adaptivemall.com/shopbyneed/inehewitr.html)
-    * [I Need Help WALKING...](https://www.adaptivemall.com/shopbyneed/inehewa.html)
-    * [I Need Help in the BATHROOM...](https://www.adaptivemall.com/shopbyneed/ineheba.html)
-    * [I Need Help LYING DOWN](https://www.adaptivemall.com/shopbyneed/inehelydo.html)
-    * [I Need Help With SENSORY INTEGRATION...](https://www.adaptivemall.com/shopbyneed/inehewisein.html)
-    * [I Need Help With BALANCE...](https://www.adaptivemall.com/shopbyneed/inehewiba.html)
-    * [I Need Help CRAWLING](https://www.adaptivemall.com/shopbyneed/inehecr.html)
-    * [I Need Help TALL KNEELING...](https://www.adaptivemall.com/shopbyneed/inehetakn.html)
-    * [I Need Help with FINE MOTOR SKILLS](https://www.adaptivemall.com/shopbyneed/ineedhelpwithfinemotorskills.html)
-    [Shop All Shop by Need](https://www.adaptivemall.com/shopbyneed.html)
-    
-* [Brands](https://www.adaptivemall.com/seemorebrands.html)
-    
-    * [Special Tomato](https://www.adaptivemall.com/seemorebrands/special-tomato.html)
-    * [Convaid Strollers](https://www.adaptivemall.com/seemorebrands/conprod.html)
-    * [Leckey](https://www.adaptivemall.com/seemorebrands/leckey.html)
-    * [Rifton](https://www.adaptivemall.com/seemorebrands/rifton-equipment.html)
-    * [Inspired by Drive](https://www.adaptivemall.com/seemorebrands/inspired-by-drive.html)
-    * [R82](https://www.adaptivemall.com/seemorebrands/r82.html)
-    * [Columbia Medical](https://www.adaptivemall.com/seemorebrands/columbia-medical-inspired-by-drive.html)
-    * [Adaptive Star](https://www.adaptivemall.com/seemorebrands/drdeaxst.html)
-    * [AmTryke Special Needs Tricycles](https://www.adaptivemall.com/seemorebrands/amspecneedtr.html)
-    * [Aquatec Bath Lifts](https://www.adaptivemall.com/seemorebrands/aqforbatlif.html)
-    * [Beds by George](https://www.adaptivemall.com/seemorebrands/bedsbygeorge.html)
-    * [Bike USA](https://www.adaptivemall.com/seemorebrands/bike-usa.html)
-    * [bilibo](https://www.adaptivemall.com/seemorebrands/acpeto.html)
-    * [Buddy Roamer](https://www.adaptivemall.com/seemorebrands/buddy-roamer.html)
-    * [EasyStand](https://www.adaptivemall.com/seemorebrands/easstan.html)
-    * [ergoErgo](https://www.adaptivemall.com/seemorebrands/ergoergo.html)
-    * [Freedom Concepts](https://www.adaptivemall.com/seemorebrands/frco.html)
-    * [Guidecraft](https://www.adaptivemall.com/seemorebrands/guidecraft.html)
-    * [HeadPod Head Support System](https://www.adaptivemall.com/seemorebrands/headpod.html)
-    * [Jensen Swings](https://www.adaptivemall.com/seemorebrands/jensenswing.html)
-    * [KAYE Brand Products](https://www.adaptivemall.com/seemorebrands/kabrpr.html)
-    * [Keekaroo Brand Products](https://www.adaptivemall.com/seemorebrands/keekaroo.html)
-    * [Kore Stools](https://www.adaptivemall.com/seemorebrands/korestool.html)
-    * [Leggero](https://www.adaptivemall.com/seemorebrands/leggero.html)
-    * [Maclaren](https://www.adaptivemall.com/seemorebrands/mamaspnest.html)
-    * [Making Sense](https://www.adaptivemall.com/seemorebrands/makingsense.html)
-    * [Meywalk](https://www.adaptivemall.com/seemorebrands/meywalk.html)
-    * [Quokka](https://www.adaptivemall.com/seemorebrands/quokka.html)
-    * [R.E.A.L. Design](https://www.adaptivemall.com/seemorebrands/realdesign.html)
-    * [Redbarn Enterprises](https://www.adaptivemall.com/seemorebrands/reenin.html)
-    * [Safe Place Bedding](https://www.adaptivemall.com/seemorebrands/safeplacebedding.html)
-    * [Safety 1st](https://www.adaptivemall.com/seemorebrands/angelride3.html)
-    * [Senseez Vibrating Pillows](https://www.adaptivemall.com/seemorebrands/senseez.html)
-    * [Smirthwaite](https://www.adaptivemall.com/seemorebrands/smirthwaite.html)
-    * [Spry Flo-Form® Cushions](https://www.adaptivemall.com/seemorebrands/spry-flo-form-pillows.html)
-    * [STRIDER Balance Bikes](https://www.adaptivemall.com/seemorebrands/striderbalancebike.html)
-    * [Stokke](https://www.adaptivemall.com/seemorebrands/stokke.html)
-    * [TherAdapt](https://www.adaptivemall.com/seemorebrands/theradapt.html)
-    * [Thomashilfen](https://www.adaptivemall.com/seemorebrands/thomashilfen.html)
-    * [Triaid Special Needs Tricycles](https://www.adaptivemall.com/seemorebrands/triaidspecne.html)
-    * [Tumble Forms](https://www.adaptivemall.com/seemorebrands/tf.html)
-    * [Vibes Hi-Fidelity Earplugs](https://www.adaptivemall.com/seemorebrands/vihiea.html)
-    * [Yogibo Bean Bag Chairs & Accessories](https://www.adaptivemall.com/seemorebrands/yogibobeanbags.html)
-    
-    * [![Special Tomato](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Image_32.png)](https://www.adaptivemall.com/astecbrannam/specialtomato1.html)
-    * [![Convaid](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Image_33.png)](https://www.adaptivemall.com/astecbrannam/conprod.html)
-    * [![Inspired by drive](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Image_36.png)](https://www.adaptivemall.com/astecbrannam/wenzelite.html)
-    * [![Leckey](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Path_44.png)](https://www.adaptivemall.com/astecbrannam/jamlecdes.html)
-    * [![Rifton](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/RiftonLogo.png)](https://www.adaptivemall.com/astecbrannam/rieq.html)
-    * [![R82](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Image_28.png)](https://www.adaptivemall.com/astecbrannam/snugseat.html)
-    * [![Columbia](https://www.adaptivemall.com/media/wysiwyg/SiteFrame/Image_27.png)](https://www.adaptivemall.com/astecbrannam/colmed.html)
-    * [See All Brands](https://www.adaptivemall.com/seemorebrands.html)
-    
+
+* [BUY THE RIGHT SIZE](https://www.adaptivemall.com/size-help)
+
+Questions? [(800) 371-2778](tel:8003712778) Mon-Fri 8:30am-5pm EST
 
 [Account](https://www.adaptivemall.com/customer/account)
 
 [Login](https://www.adaptivemall.com/customer/account/login)
 
-* [About Us](https://www.adaptivemall.com/aboutus)
-* [Contact Us](https://www.adaptivemall.com/aboutus#contactus)
-* [Customer Care](https://www.adaptivemall.com/customer-service-q-a)
-
 * Compare
+
+**Adaptivemall.com will be closed November 28th & 29th! Enjoy the Thanksgiving Holiday with your family & friends!**
 
 FREE SHIPPING\* | [See Details](https://www.adaptivemall.com/freeshipping)
 
@@ -410,10 +249,6 @@ Return Policy
 
 **If you have any questions, please feel free to either email us at [info@adaptivemall.com](mailto:info@adaptivemall.com) or call us at 1-800-371-2778 or 1-315-429-7112 to reach Customer Service. We are here to help!**
 
-THERAPIST SIZE HELP | Our on-staff therapists are happy to help you find the right product in the right size.
-
-[REQUEST HELP](https://www.adaptivemall.com/size-help)
-
 Join Our Newsletter
 
 Product news, deals & more!
@@ -424,45 +259,65 @@ Sign Up for Our Newsletter:
 
 Subscribe
 
-INFORMATION
+![am logo](https://www.adaptivemall.com/media/wysiwyg/am_newlogo.png)
 
-* [Home](https://www.adaptivemall.com/)
-* [About Us](https://www.adaptivemall.com/aboutus)
-* [Contact Us](https://www.adaptivemall.com/aboutus#contactus)
-* [Returns](https://www.adaptivemall.com/returnpolicy/)
+We Understand.™
+
+#### Questions? Need Expert Assistance?
+
+* Call us [(800) 371-2778](tel:(800) 371-2778)
+* Mon-Fri 8:30am-5pm EST
+
+MY ACCOUNT
+
+* [Order Status](https://www.adaptivemall.com/sales/order/view/)
+* [Customer Care](https://www.adaptivemall.com/customer-service-q-a/)
+* [Sign In](https://www.adaptivemall.com/customer/account/login/)
+* [Create an Account](https://www.adaptivemall.com/customer/account/create/)
+* [Gift Certificates](https://www.adaptivemall.com/gift-certificate.html/)
 
 CUSTOMER SERVICE
 
+* [Contact Us](https://www.adaptivemall.com/aboutus#contactus)
+* [About Us](https://www.adaptivemall.com/aboutus)
 * [Current Promotions](https://www.adaptivemall.com/promos/)
 * [FAQ](https://www.adaptivemall.com/customer-service-q-a/)
 * [Shipping](https://www.adaptivemall.com/freeshipping/)
+
+* [Returns](https://www.adaptivemall.com/returnpolicy/)
 * [Translate](https://www.adaptivemall.com/otherlanguages/)
 * [Privacy Policy](https://www.adaptivemall.com/privacy-policy-cookie-restriction-mode/)
-
 * [Size Help](https://www.adaptivemall.com/size-help)
-* [Gift Certificates](https://www.adaptivemall.com/gift-certificate.html/)
-* [Resources](https://www.adaptivemall.com/resources/)
 * [Terms and Conditions](https://www.adaptivemall.com/orderinganddelivery/)
 
 COMMUNITY
 
+* [Resources](https://www.adaptivemall.com/resources/)
 * [Funding](https://www.adaptivemall.com/alternatefunding/)
 * [Articles](https://www.adaptivemall.com/informational-articles/)
 * [Living With](https://www.adaptivemall.com/living-with/)
 * [Letters from PT](https://www.adaptivemall.com/letters-from-a-pt/)
-* [Facebook](https://www.facebook.com/adaptivemallcom/)
+
+Contact Us
+
+#### Questions? Need Expert Assistance?
+
+* [(800) 371-2778](tel:(800) 371-2778) Monday-Friday 8:30am-5pm EST
+    
+* Email us: [info@AdaptiveMall.com](mailto:info@adaptivemall.com)
+    
+
+![Adaptive mall logo](https://www.adaptivemall.com/media/wysiwyg/am_newlogo.png)
+
+We Understand
 
 [800-371-2778](tel:800-371-2778)
 
 CONNECT WITH US
 
-[Facebook](https://www.facebook.com/adaptivemallcom/)
-
-[Twitter](https://twitter.com/Adaptivemall)
-
-Chat
-
-[KIDDIE POOL](https://www.adaptivemall.com/kiddie-pool)
+* [](https://www.facebook.com/adaptivemallcom/)
+* [](#)
+* [![](https://www.adaptivemall.com/media/wysiwyg/KiddiePool_Horizontal.png)](https://www.adaptivemall.com/kiddie-pool/)
 
 [](https://www.bbb.org/upstate-new-york/business-reviews/health/bergeron-companies-in-dolgeville-ny-235959933#sealclick&jmui=f%3A1622%3A305419896%3AbDuIFZAwzBpfnSSh.2rOd%257c)
 
