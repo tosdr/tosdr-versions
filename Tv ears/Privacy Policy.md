@@ -527,7 +527,7 @@ Cc-visa Cc-mastercard Cc-amex Cc-discover Cc-paypal
 
 © 2024 TV Ears, Inc. All rights reserved
 
-0
+1
 
 Our Products
 ------------
@@ -577,12 +577,36 @@ My cart
 
 Close cart
 
-Your cart is empty.
+[![Hearing aids vs hearing amplifiers](https://www.tvears.com/wp-content/uploads/2019/01/11741-DigSystem-B00E4JWRK4_front-view-247x247.jpg)](https://www.tvears.com/product/digital-system/)
 
-Looks like you haven't made a choice yet.
+[TV Ears Digital System](https://www.tvears.com/product/digital-system/)
+
+−  +
+
+ ~**MSRP:**$179.95~ COUPON: gah20_$143.96_
 
 Got a discount code?
 
  Apply
 
-Your cart is empty. Shop now
+Coupon "gah20" (20%)[Removes coupon code](https://www.tvears.com/void(0);)
+
+ADD TO UNLOCK ADDITIONAL SAVINGS!
+
+[![](https://www.tvears.com/wp-content/uploads/2019/02/11621-HeadsetOnly-B00IVC5XRY_FrontView-280x280.jpg)](https://www.tvears.com/product/headset/)
+
+[TV Ears Original/Digital - Headset Only](https://www.tvears.com/product/headset/)
+
+$89.95
+
+[](#)
+
+[![TV Ears_40738-slidetips-front](https://www.tvears.com/wp-content/uploads/2022/07/TV-Ears_40738-slidetips-front-280x280.jpg)](https://www.tvears.com/product/slide-tips/)
+
+[Ear Tips](https://www.tvears.com/product/slide-tips/)
+
+$19.95
+
+[](#)
+
+[Checkout now](https://www.tvears.com/checkout/)
