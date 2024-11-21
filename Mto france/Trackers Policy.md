@@ -205,7 +205,7 @@ Suivez-nous
 Gestion des Cookies
 ===================
 
-20/11/2024
+21/11/2024
 
 Météo-France s'engage à ce que la collecte et le traitement de vos données, effectués à partir de ses sites Internet, soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
