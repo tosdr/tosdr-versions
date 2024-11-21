@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/songwriting-lesson-part-3-lets-write-a-middle-8/)
+ [](https://schoolsmusicmarket.com/product/the-guitar-components-worksheet/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/trace-the-musical-symbols-colouring-activity-2/)
+ [](https://schoolsmusicmarket.com/product/playalong-christmas-recorders/)
 
 ###### Browse By Year/Grade
 
