@@ -136,7 +136,7 @@ Navigation menu
 
 ### Today's Stardate
 
-* [Stardate 240111.20](https://wiki.starbase118.net/wiki/index.php?title=Stardate)
+* [Stardate 240111.21](https://wiki.starbase118.net/wiki/index.php?title=Stardate)
 * [Current Year: 2401](https://wiki.starbase118.net/wiki/index.php?title=Timeline)
 
 ### StarBase 118
