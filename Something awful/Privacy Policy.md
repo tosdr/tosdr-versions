@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Revenge of Tattoo SWAT](https://www.somethingawful.com/fashion-swat/tattoo-swat-revenge/1/)
-* [A Bear Walks into a Diner ...](https://www.somethingawful.com/photoshop-phriday/bear-ginger-ale/1/)
-* [Tales from the Zoo, Part Four](https://www.somethingawful.com/comedy-goldmine/tales-from-zoo-4/1/)
-* [Magazines from the Future!](https://www.somethingawful.com/photoshop-phriday/future-magazines/1/)
-* [Lost Comics of the Golden Age](https://www.somethingawful.com/news/golden-age-comics/1/)
+* [cPixel, Dark Forums, Galloping Acres, and Vomit Online](https://www.somethingawful.com/weekend-web/cpixel-dark-forums/1/)
+* [Failures of humanity witnessed at amusement parks](https://www.somethingawful.com/comedy-goldmine/amusement-park-failures/1/)
+* [Science Fair SWAT](https://www.somethingawful.com/fashion-swat/science-fair-swat/1/)
+* [The Official Rapture / End of the World FAQ](https://www.somethingawful.com/guides/rapture-apocalypse-guide/1/)
+* [Remorseful Hitman Kid 2.0!](https://www.somethingawful.com/photoshop-phriday/kid-gun-photo/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have any goons lived in a halfway house?](http://forums.somethingawful.com/showthread.php?threadid=4075727 "Have any goons lived in a halfway house?")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [Name a Vibe](http://forums.somethingawful.com/showthread.php?threadid=4075712 "Name a Vibe")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have any goons lived in a halfway house?](http://forums.somethingawful.com/showthread.php?threadid=4075727 "Have any goons lived in a halfway house?")
 
 ### Random Articles
 
-* [Tales from the Mental Hospital](https://www.somethingawful.com/comedy-goldmine/tales-from-mental/1/)
-* [The Least Essential Issues of Marvel's 'What If?'](https://www.somethingawful.com/news/marvel-what-if/)
-* [Available Treatments Offered at Campus Health Center](https://www.somethingawful.com/news/college-health-center/)
-* [Has Technology Gone Too Far???](https://www.somethingawful.com/news/technology-too-far/)
-* [You fudge with me, you fudge with the best!](https://www.somethingawful.com/awfulvision/wrestling-furries-scarface/1/)
+* [The Awkwardness Survival Guide](https://www.somethingawful.com/news/awkwardness-survival-guide/)
+* [This Update Is Illegal!](https://www.somethingawful.com/news/this-update-illegal/)
+* [Running for Governor](https://www.somethingawful.com/news/running-for-governor/)
+* [REAMS OF DOGS](https://www.somethingawful.com/news/dog-classifieds15/)
+* [A Plague Of Day Z Stories](https://www.somethingawful.com/video-game-article/day-z-stories/)
 
 [Random!](https://www.somethingawful.com/random/)
 
