@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The Pub - Zeina V (IC-OPEN) (142)](https://forum.nationstates.net/viewtopic.php?t=555406&f=4&view=unread#unread ""The Pub - Zeina V (IC-OPEN)" (142 posts)")
-* [The Amsterdam Pogrom (525)](https://forum.nationstates.net/viewtopic.php?t=558081&f=20&view=unread#unread ""The Amsterdam Pogrom" (525 posts)")
-* [What triggers you about the AN? (10,895)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (10,895 posts)")
-* [Christian Discussion: No more Fun wit… (4,576)](https://forum.nationstates.net/viewtopic.php?t=523262&f=20&view=unread#unread ""Christian Discussion: No more Fun with Pope Puns" (4,576 posts)")
-* [Guess AU's Stance on Various Politica… (54)](https://forum.nationstates.net/viewtopic.php?t=558543&f=25&view=unread#unread ""Guess AU's Stance on Various Political Topics." (54 posts)")
+* [YOU'RE FIRED! (710)](https://forum.nationstates.net/viewtopic.php?t=555261&f=25&view=unread#unread ""YOU'RE FIRED!" (710 posts)")
+* [Commend or Condemn AN II (2,330)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (2,330 posts)")
+* [How evil is AN based on its flag? III (9,677)](https://forum.nationstates.net/viewtopic.php?t=515034&f=25&view=unread#unread ""How evil is AN based on its flag? III" (9,677 posts)")
+* [Guess AN's least favorite nation (3)](https://forum.nationstates.net/viewtopic.php?t=558572&f=25&view=unread#unread ""Guess AN's least favorite nation" (3 posts)")
+* [What's the scariest thing about the A… (8,758)](https://forum.nationstates.net/viewtopic.php?t=501011&f=25&view=unread#unread ""What's the scariest thing about the AN's military? Part V" (8,758 posts)")
 
 Advertisement
 
