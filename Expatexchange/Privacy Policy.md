@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP-Leaderboard_Brown.png)](https://www.expatexchange.com/partnerdirect/100/57270-DESKTOP-leader-leaderad-vrs-B-Global-leader)
+[![William Russell](https://www.expatexchange.com/banner/william-russell-728.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=15321-DESKTOP-leader-leaderad-vrs-A-Global-leader)
 
-[![Universal Tax Professionals](https://www.expatexchange.com/banner/UTP_MPU_Brown.png)](https://www.expatexchange.com/partnerdirect/100/57270-MOBILE-leader-leaderad-vrs-B-Global-leader)
+[![William Russell](https://www.expatexchange.com/banner/william-russell-300.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=15321-MOBILE-leader-leaderad-vrs-A-Global-leader)
 
 Privacy Policy
 ==============
