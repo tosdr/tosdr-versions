@@ -232,9 +232,9 @@ Americas
 
 Argentina
 
-[Spanish](https://arg.mars.com/)
+[Español](https://www.prettylitter.com/es-ar)
 
-[Spanish](https://arg.mars.com/)
+[Español](https://www.prettylitter.com/es-ar)
 
 Brazil
 
@@ -392,9 +392,9 @@ Poland
 
 Portugal
 
-[English](https://prt.mars.com/en/)
+[English](https://www.prettylitter.com/en-pt)
 
-[Português](https://prt.mars.com/)
+[Português](https://www.prettylitter.com/pt-pt)
 
 Slovakia
 
