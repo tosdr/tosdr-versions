@@ -1,4 +1,4 @@
-[![](../images/Logo.png)](https://autoaccidentteam.com/)
+[![](../images/logo-v4.1.png)](https://autoaccidentteam.com/)
 
 [HOME](https://autoaccidentteam.com/)
 
@@ -102,7 +102,7 @@ Unit #2001
 Brewster, NY 10509  
 [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com)
 
-![](../images/Logo.png)
+![](../images/logo-v4.1.png)
 
   
 [info@autoaccidentteam.com](mailto:info@autoaccidentteam.com)
