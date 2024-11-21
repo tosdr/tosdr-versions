@@ -210,19 +210,19 @@ last week
 Trending Apps
 =============
 
+[WNEM TV5 News](https://wnem-ios.apps112.com/ "Continue to app")
+
+[TecladoBR](https://tecladobr.apps112.com/ "Continue to app")
+
+[Delicious recipes](https://delicious-recipes-59.apps112.com/ "Continue to app")
+
+[Drive Recorder 360](https://drive-recorder-360-ios.apps112.com/ "Continue to app")
+
 [Renegade Products USA](https://renegade-products-usa.apps112.com/ "Continue to app")
 
 [Haunted (beta)](https://haunted-beta.apps112.com/ "Continue to app")
 
-[Investor Portal MMP](https://investor-portal-mmp-ios.apps112.com/ "Continue to app")
-
-[Escape Room - Mystery Tales](https://escape-room-mystery-tales-ios.apps112.com/ "Continue to app")
-
-[Accevate Accretion+](https://accevate-accretion.apps112.com/ "Continue to app")
-
-[Farm Rummy](https://farm-rummy-ios.apps112.com/ "Continue to app")
-
-[Toptableplanner](https://toptableplanner-seating-plan-software.apps112.com/ "Continue to app")
+[Color Hole Devouring Bugs](https://color-hole-devouring-bugs.apps112.com/ "Continue to app")
 
   
 
