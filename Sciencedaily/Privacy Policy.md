@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Adaptation of Early Europeans](https://www.sciencedaily.com/releases/2024/11/241119181845.htm)
+* [Faster Battery Charging, Biosensing](https://www.sciencedaily.com/releases/2024/11/241119133504.htm)
+* [Females Sleep Less, Awaken More Frequently](https://www.sciencedaily.com/releases/2024/11/241121115806.htm)
+* [Zooming in On a Star Outside Our Galaxy](https://www.sciencedaily.com/releases/2024/11/241121115752.htm)
+* [These Wild Adult Chimps Play Together](https://www.sciencedaily.com/releases/2024/11/241121115643.htm)
 * [Learning to Trust Robots: Synchronized Motion](https://www.sciencedaily.com/releases/2024/11/241120122448.htm)
 * [Wearable Ultrasound Patch for BP Monitoring](https://www.sciencedaily.com/releases/2024/11/241120122153.htm)
 * [Novel Antibiotic for Drug-Resistant Bacteria](https://www.sciencedaily.com/releases/2024/11/241120122028.htm)
 * [Dinosaur Drumsticks and the Turkey Trot](https://www.sciencedaily.com/releases/2024/11/241120121648.htm)
 * [Key to Climate-Resilient Crops](https://www.sciencedaily.com/releases/2024/11/241120121644.htm)
-* [Healthy Women Have Cells That Look Cancerous](https://www.sciencedaily.com/releases/2024/11/241120121609.htm)
-* [Pairs of White Dwarf and Main Sequence Stars](https://www.sciencedaily.com/releases/2024/11/241119181645.htm)
-* [Turning Carbon Emissions Into Methane Fuel](https://www.sciencedaily.com/releases/2024/11/241120193041.htm)
-* [The Chilling Sound of the Aztec Death Whistle](https://www.sciencedaily.com/releases/2024/11/241119132940.htm)
-* [How Cells Habituate](https://www.sciencedaily.com/releases/2024/11/241119132429.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
+
 [Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
-[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+[Neural Interfaces](https://www.sciencedaily.com/news/computers_math/neural_interfaces/)
 
-[Nuclear Energy](https://www.sciencedaily.com/news/matter_energy/nuclear_energy/)
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
-[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
+[Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
-
 [Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
 
-[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
+
+[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
   
 
