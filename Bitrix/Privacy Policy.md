@@ -242,7 +242,7 @@ Sales & CRM
 
  [![stripe-integration](/upload/optimizer/converted/images/content_en/icons/menu/stripe-integration.png.webp?1732193484587)Stripe integration](https://www.bitrix24.com/apps/app/integrations24.stripeintegration/)
 
- [![salebot](/upload/optimizer/converted/images/content_en/icons/menu/salebot.png.webp?1732193484587)Salebot](https://www.bitrix24.com/apps/app/salebot.chatter/)
+ [![nexia-bot](/upload/optimizer/converted/images/content_en/icons/menu/nexia-bot.png.webp?1732193484587)NexIA Bot](https://www.bitrix24.com/apps/app/nextcoders.nexiabot/)
 
  [![call-center-wizard](/upload/optimizer/converted/images/content_en/icons/menu/call-center-wizard.png.webp?1732193484587)Call Center Wizard](https://www.bitrix24.com/apps/app/informunity.callcenterwizard/)
 
