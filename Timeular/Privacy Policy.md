@@ -6,34 +6,52 @@
     
     Key features
     
-    * [How it works
+    * [![](/wp-content/themes/timeular/assets/images/message-question.svg)
+        
+        How it works
         
         Uncover all features](https://timeular.com/how-it-works/)
-    * [Automated time tracker
+    * [![](/wp-content/themes/timeular/assets/images/stopwatch-automatic.svg)
+        
+        Automated time tracker
         
         Create automatic timesheets](https://timeular.com/automated-time-tracking/)
-    * [PTO tracker
+    * [![](/wp-content/themes/timeular/assets/images/leave-tracking.svg)
+        
+        PTO tracker
         
         Track all types of leaves](https://timeular.com/leave-tracker/)
-    * [Physical time tracker
+    * [![](/wp-content/themes/timeular/assets/images/cube-brand.svg)
+        
+        Physical time tracker
         
         Track time with the Tracker](https://timeular.com/tracker/)
-    * [Billable hours tracker
+    * [![](/wp-content/themes/timeular/assets/images/dollar-sign-circle.svg)
+        
+        Billable hours tracker
         
         Bill hours accurately](https://timeular.com/bill-accurately/)
-    * [Productivity tracker
+    * [![](/wp-content/themes/timeular/assets/images/rocket-brand.svg)
+        
+        Productivity tracker
         
         Get productivity insights](https://timeular.com/productivity-tracker/)
     
     Product
     
-    * [Integrations and API
+    * [![](/wp-content/themes/timeular/assets/images/spaces.svg)
+        
+        Integrations and API
         
         Connect Timeular to your favourite tools](https://timeular.com/integrations-and-api/)
-    * [Changelog
+    * [![](/wp-content/themes/timeular/assets/images/sheet-check.svg)
+        
+        Changelog
         
         See what’s new in the Timeular app](https://timeular.com/changelog/)
-    * [Support center
+    * [![](/wp-content/themes/timeular/assets/images/message-question.svg)
+        
+        Support center
         
         Get instant support with our comprehensive guides](https://support.timeular.com/en/)
     
@@ -53,31 +71,49 @@
     
     Industry
     
-    * [Enterprise time tracking
+    * [![](/wp-content/themes/timeular/assets/images/enterprise.svg)
+        
+        Enterprise time tracking
         
         Tailor time tracking to your unique business needs](https://timeular.com/enterprise-time-tracking/)
-    * [Team time tracking
+    * [![](/wp-content/themes/timeular/assets/images/user.svg)
+        
+        Team time tracking
         
         Save time on chasing timesheets once and for all](https://timeular.com/timeular-for-teams/)
-    * [Agency time tracking
+    * [![](/wp-content/themes/timeular/assets/images/megaphone.svg)
+        
+        Agency time tracking
         
         Maximize time spent on billable work to increase ROI](https://timeular.com/timeular-for-teams/marketing-agencies/)
     
     Download apps
     
-    * [Windows time tracker](https://timeular.com/time-tracking-windows/)
-    * [Mac time tracker](https://timeular.com/time-tracking-mac/)
-    * [Download mobile apps](https://timeular.com/download/)
+    * [![](/wp-content/themes/timeular/assets/images/import.svg)
+        
+        Windows time tracker](https://timeular.com/time-tracking-windows/)
+    * [![](/wp-content/themes/timeular/assets/images/import.svg)
+        
+        Mac time tracker](https://timeular.com/time-tracking-mac/)
+    * [![](/wp-content/themes/timeular/assets/images/import.svg)
+        
+        Download mobile apps](https://timeular.com/download/)
     
     Success Stories
     
     [See all](https://timeular.com/success-stories/)
     
-    [How an agency increases their revenue by 25% with Timeular](https://timeular.com/success-stories/agency-increases-revenue-with-timeular/)
+    [![How an agency increases their revenue by 25% with Timeular](https://timeular.com/wp-content/uploads/2023/12/Beilquadrat-min-768x432.jpg)
     
-    [How an IT Team saves 10 hours a week thanks to Timeular](https://timeular.com/success-stories/it/team-saves-10-hours-a-week/)
+    How an agency increases their revenue by 25% with Timeular](https://timeular.com/success-stories/agency-increases-revenue-with-timeular/)
     
-    [How an IT consultancy became 20% more profitable by using Timeular](https://timeular.com/success-stories/it/how-a-it-consultancy-became-20-more-profitable-by-using-timeular/)
+    [![How an IT Team saves 10 hours a week thanks to Timeular](https://timeular.com/wp-content/uploads/2023/11/BO-768x432.jpg)
+    
+    How an IT Team saves 10 hours a week thanks to Timeular](https://timeular.com/success-stories/it/team-saves-10-hours-a-week/)
+    
+    [![](https://timeular.com/wp-content/uploads/2023/06/timeular-success_story-enviosion_design-768x480.jpg)
+    
+    How an IT consultancy became 20% more profitable by using Timeular](https://timeular.com/success-stories/it/how-a-it-consultancy-became-20-more-profitable-by-using-timeular/)
     
 * Resources
     
@@ -101,11 +137,17 @@
     
     [Go to blog](https://timeular.com/blog/)
     
-    [Multiple Employee Timesheet: 3 Free Templates + Setup Guide](https://timeular.com/blog/multiple-employee-timesheet/)
+    [![Time Management Goals](https://timeular.com/wp-content/uploads/2024/11/Copy-of-Copy-of-Blog-image-768x432.png)
     
-    [Poor Time Management: Signs and Immediate Ways to Tackle it](https://timeular.com/blog/poor-time-management/)
+    Time Management Goals to Maximize Your Productivity](https://timeular.com/blog/time-management-goals/)
     
-    [Top Work Habits To Hack Your Day](https://timeular.com/blog/work-habits/)
+    [![Multiple Employee Timesheet Templates](https://timeular.com/wp-content/uploads/2024/10/Copy-of-Copy-of-Blog-image-2-768x432.png)
+    
+    Multiple Employee Timesheet: 3 Free Templates + Setup Guide](https://timeular.com/blog/multiple-employee-timesheet/)
+    
+    [![Poor Time Management](https://timeular.com/wp-content/uploads/2024/10/Copy-of-Copy-of-Blog-image-1-768x432.png)
+    
+    Poor Time Management: Signs and Immediate Ways to Tackle it](https://timeular.com/blog/poor-time-management/)
     
 * [Pricing](https://timeular.com/pricing/)
 * [Enterprise](https://timeular.com/enterprise-time-tracking/)
@@ -274,11 +316,13 @@ Login
 
 — or —
 
- Sign in with Google Sign in with Apple  Sign in with Microsoft
+ ![](https://timeular.com/wp-content/plugins/timeular-webshop-login/assets/images/google.png) Sign in with Google![](https://timeular.com/wp-content/plugins/timeular-webshop-login/assets/images/apple.png) Sign in with Apple ![](https://timeular.com/wp-content/plugins/timeular-webshop-login/assets/images/microsoft.png) Sign in with Microsoft
 
 Thank you for your interest in SSO, we’re working on this! Meanwhile, you can sign up with an email address and password.
 
 **Forgot password? [Recover](#)**
+
+****
 
 Reset password
 
@@ -308,6 +352,8 @@ Let's get started By tapping “Let's get started” you agree to the [terms & c
 
 — or —
 
- Sign up with Google Sign up with Apple  Sign up with Microsoft
+ ![](https://timeular.com/wp-content/plugins/timeular-webshop-login/assets/images/google.png) Sign up with Google![](https://timeular.com/wp-content/plugins/timeular-webshop-login/assets/images/apple.png) Sign up with Apple ![](https://timeular.com/wp-content/plugins/timeular-webshop-login/assets/images/microsoft.png) Sign up with Microsoft
 
 Thank you for your interest in SSO, we’re working on this! Meanwhile, you can sign up with an email address and password.
+
+****
