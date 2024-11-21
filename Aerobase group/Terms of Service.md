@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [The F-15 fighter jet is having a second spring in Asia](https://www.defensenews.com/global/asia-pacific/2024/11/21/the-f-15-fighter-jet-is-having-a-second-spring-in-asia/)  
+    11/21/24 05:38am  
+    
+    A U.S. Air Force F-15 Eagle lands on the runway June 7, 2017, at Kadena Air Base, Japan. (Senior Airman Lynette M. Rolen)
+    
 * [Ukraine fires US-made longer-range missiles into Russia for first time](https://www.defensenews.com/global/europe/2024/11/19/ukraine-fires-us-made-longer-range-missiles-into-russia-for-first-time/)  
     11/19/24 03:15pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     11/18/24 03:40pm  
     
     A new hypersonic testing partnership between the U.S., Australia and the U.K. will pool the three nations' expertise in testing high-speed weapons, including the U.S. Air Force's Air-launched Rapid Response Weapon, pictured here mounted on a B-52 bomber. (Giancarlo Casem/U.S. Air Force)
-    
-* [Second Trump presidency could mean harder line with defense industry](https://www.defensenews.com/air/2024/11/18/second-trump-presidency-could-mean-harder-line-with-defense-industry/)  
-    11/18/24 11:12am  
-    
-    A second Trump administration could mean the Pentagon taking a harder line with defense contractors, especially in the capital-intensive field of aerospace. (Staff Sgt. William Downs/Air Force)
     
 
 Recent parts by keyword  
