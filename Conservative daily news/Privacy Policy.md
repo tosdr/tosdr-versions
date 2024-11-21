@@ -1,15 +1,15 @@
-Wednesday, November 20 2024
+Thursday, November 21 2024
 
 Breaking News
 
+* [Joe Rogan Rips Into Bill Gates Over COVID Profits, Claims Vaccine Push Ruined Millions Of Lives](https://www.conservativedailynews.com/2024/11/joe-rogan-rips-into-bill-gates-over-covid-profits-claims-vaccine-push-ruined-millions-of-lives/)
+* [Our Elections Need To Be Fixed Before The 2026 Midterms](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/)
+* [Elon Musk, Vivek Ramaswamy Outline Sweeping Plan to Cut Federal Regulations And Staffing](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
+* [House Ethics Committee Decides Not To Release Gaetz Investigation Findings](https://www.conservativedailynews.com/2024/11/house-ethics-committee-decides-not-to-release-gaetz-investigation-findings/)
+* [Los Angeles Passes ‘Sanctuary City’ Ordinance In Wake Of Trump’s Deportation Plan](https://www.conservativedailynews.com/2024/11/los-angeles-passes-sanctuary-city-ordinance-in-wake-of-trumps-deportation-plan/)
+* [Barrage Of Liberal Judges Will Be Schumer’s Swan Song](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/)
 * [America In The Age Of Stupidity: My Answer To Those Crazy Lib-O-Tards](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-my-answer-to-those-crazy-lib-o-tards/)
 * [FEMA Just Another Arrow In Biden’s Quiver](https://www.conservativedailynews.com/2024/11/fema-just-another-arrow-in-bidens-quiver/)
-* [Results of 2024 presidential election shows it isn’t Education Vote or Gender Vote- It’s the Entitlement Vote](https://www.conservativedailynews.com/2024/11/results-of-2024-presidential-election-shows-it-isnt-education-vote-or-gender-vote-its-the-entitlement-vote/)
-* [President Joe Biden’s Schedule for Wednesday, November 20, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-20-2024/)
-* [The “People’s President” vs the Corrupt Elites](https://www.conservativedailynews.com/2024/11/the-peoples-president-vs-the-corrupt-elites/)
-* [Why Matt Gaetz Makes Sense As Attorney General](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/)
-* [President Joe Biden’s Schedule for Tuesday, November 19, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-19-2024/)
-* [If You Think Kamala Harris Was Serious About The Things She Promised During The Recent Presidential Campaign, You’re Dead Wrong](https://www.conservativedailynews.com/2024/11/if-you-think-kamala-harris-was-serious-about-the-things-she-promised-during-the-recent-presidential-campaign-youre-dead-wrong/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,21 +115,57 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Elon-Musk-Donald-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
+    
+    [Elon Musk, Vivek Ramaswamy Outline Sweeping Plan to Cut Federal Regulations And Staffing](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
+    
+    November 20, 2024
+    
 * [![Matt Gaetz department of Justice corruption](https://www.conservativedailynews.com/wp-content/uploads/2024/11/03-gaetz-doj-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/)
     
     [Why Matt Gaetz Makes Sense As Attorney General](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/)
     
     November 19, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/trump-with-finger-pointing.jpg)](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
-    
-    [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
-    
-    November 16, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-rips-into-bill-gates-over-covid-profits-claims-vaccine-push-ruined-millions-of-lives/)
+    
+    [Joe Rogan Rips Into Bill Gates Over COVID Profits, Claims Vaccine Push Ruined Millions Of Lives](https://www.conservativedailynews.com/2024/11/joe-rogan-rips-into-bill-gates-over-covid-profits-claims-vaccine-push-ruined-millions-of-lives/)
+    
+    November 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/caution-democrat-voter-fraud-ahead-corrupt-treasonous-democrats-hope-to-cheat-election-220x150.jpg)](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/)
+    
+    [Our Elections Need To Be Fixed Before The 2026 Midterms](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/)
+    
+    November 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Elon-Musk-Donald-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
+    
+    [Elon Musk, Vivek Ramaswamy Outline Sweeping Plan to Cut Federal Regulations And Staffing](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
+    
+    November 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/House-of-Representatives.jpg)](https://www.conservativedailynews.com/2024/11/house-ethics-committee-decides-not-to-release-gaetz-investigation-findings/)
+    
+    [House Ethics Committee Decides Not To Release Gaetz Investigation Findings](https://www.conservativedailynews.com/2024/11/house-ethics-committee-decides-not-to-release-gaetz-investigation-findings/)
+    
+    November 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/09/Sanctuary-City-sign-2-1.jpg)](https://www.conservativedailynews.com/2024/11/los-angeles-passes-sanctuary-city-ordinance-in-wake-of-trumps-deportation-plan/)
+    
+    [Los Angeles Passes ‘Sanctuary City’ Ordinance In Wake Of Trump’s Deportation Plan](https://www.conservativedailynews.com/2024/11/los-angeles-passes-sanctuary-city-ordinance-in-wake-of-trumps-deportation-plan/)
+    
+    November 20, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5801-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/)
+    
+    [Barrage Of Liberal Judges Will Be Schumer’s Swan Song](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/)
+    
+    November 20, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/03-trump-map-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/usa-prognosis/)
     
     [USA Prognosis](https://www.conservativedailynews.com/2024/11/usa-prognosis/)
@@ -142,55 +178,19 @@ Recent Posts
     
     November 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5793-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/fema-just-another-arrow-in-bidens-quiver/)
-    
-    [FEMA Just Another Arrow In Biden’s Quiver](https://www.conservativedailynews.com/2024/11/fema-just-another-arrow-in-bidens-quiver/)
-    
-    November 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/08/vote-3569999_1920-220x150.jpg)](https://www.conservativedailynews.com/2024/11/results-of-2024-presidential-election-shows-it-isnt-education-vote-or-gender-vote-its-the-entitlement-vote/)
-    
-    [Results of 2024 presidential election shows it isn’t Education Vote or Gender Vote- It’s the Entitlement Vote](https://www.conservativedailynews.com/2024/11/results-of-2024-presidential-election-shows-it-isnt-education-vote-or-gender-vote-its-the-entitlement-vote/)
-    
-    November 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/insincere-apology/)
-    
-    [Insincere Apology](https://www.conservativedailynews.com/2024/11/insincere-apology/)
-    
-    November 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz112024dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/crap-fight/)
-    
-    [Crap Fight](https://www.conservativedailynews.com/2024/11/crap-fight/)
-    
-    November 20, 2024
-    
-* [![Joe Biden inflation grocery prices](https://www.conservativedailynews.com/wp-content/uploads/2023/01/mrz012923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/fresh-produce-101/)
-    
-    [Fresh Produce 101](https://www.conservativedailynews.com/2024/11/fresh-produce-101/)
-    
-    November 20, 2024
-    
-* [![Biden Sleeping who running the country](https://www.conservativedailynews.com/wp-content/uploads/2024/08/06-runnincoun-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-20-2024/)
-    
-    [President Joe Biden’s Schedule for Wednesday, November 20, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-20-2024/)
-    
-    November 20, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Best Concealed Carry Revolvers](https://www.thegunpage.com/best-concealed-carry-revolvers/10612014)
+* [POTD: Heckler & Koch HK421 – The New Light Machine Gun](https://www.thegunpage.com/potd-heckler-koch-hk421-the-new-light-machine-gun/10612015)
+* [Wheelgun Wednesday: Taurus 650 .357 Magnum](https://www.thegunpage.com/wheelgun-wednesday-taurus-650-357-magnum/10612016)
 * [Warbird: Ghost Wolf Eye Protection](https://www.thegunpage.com/warbird-ghost-wolf-eye-protection/10612008)
 * [Smith & Wesson Performance Center M&P9 M2.0 Full Size Metal Carry Comp](https://www.thegunpage.com/smith-wesson-performance-center-mp9-m2-0-full-size-metal-carry-comp/10612010)
 * [New York Judge Allows Lawsuit Against Body Armor Ban To Go To Trial](https://www.thegunpage.com/new-york-judge-allows-lawsuit-against-body-armor-ban-to-go-to-trial/10612004)
 * [CMP Auctioning M1D Sniper Rifle To Benefit Museum Exhibit](https://www.thegunpage.com/cmp-auctioning-m1d-sniper-rifle-to-benefit-museum-exhibit/10612003)
+* [Rich Combination Of History & Shooting On Display At Creedmoor 150 Match](https://www.thegunpage.com/rich-combination-of-history-shooting-on-display-at-creedmoor-150-match/10612012)
 * [Public Support For An Assault Weapons Ban Continues To Tumble](https://www.thegunpage.com/public-support-for-an-assault-weapons-ban-continues-to-tumble/10612001)
 * [Ho Ho Ho, Now You Can Have The Die Hard Holster Too](https://www.thegunpage.com/ho-ho-ho-now-you-can-have-the-die-hard-holster-too/10611996)
-* [NRA Announces 2025 National Matches Locations & Schedule](https://www.thegunpage.com/nra-announces-2025-national-matches-locations-schedule/10612007)
-* [With Republican Sweep Anti-Gun Dem Senator Now Wants to be Bipartisan.](https://www.thegunpage.com/with-republican-sweep-anti-gun-dem-senator-now-wants-to-be-bipartisan/10611995)
-* [BlackArc Munitions Introduces Advanced 5.56 Load With Berger Bullet](https://www.thegunpage.com/blackarc-munitions-introduces-advanced-5-56-load-with-berger-bullet/10611997)
-* [Best Self-Defense Tools? Um…I Don’t Know…How ‘Bout a Gun](https://www.thegunpage.com/best-self-defense-tools-umi-dont-knowhow-bout-a-gun/10611994)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
