@@ -80,7 +80,7 @@ You agree to indemnify, defend, and hold harmless _Just for Kids Dentistry & Ort
 
 ### Miscellaneous
 
-_Just for Kids Dentistry & Orthodontics Durango’s_ failure to insist upon strict enforcement of any provision(s) of this agreement shall not be construed as a waiver of any provision or right. This agreement and the resolution of any dispute related to this agreement or this site shall be governed by and construed in accordance with the laws of the State of NV, without giving effect to any principles or conflicts of law. Any legal action or proceeding between _Just for Kids Dentistry & Orthodontics Durango_ or its links, suppliers or vendors and you related to this agreement or this site shall be brought exclusively in a state or federal court of competent jurisdiction sitting in the County of , NV.
+_Just for Kids Dentistry & Orthodontics Durango’s_ failure to insist upon strict enforcement of any provision(s) of this agreement shall not be construed as a waiver of any provision or right. This agreement and the resolution of any dispute related to this agreement or this site shall be governed by and construed in accordance with the laws of the State of NV, without giving effect to any principles or conflicts of law. Any legal action or proceeding between _Just for Kids Dentistry & Orthodontics Durango_ or its links, suppliers or vendors and you related to this agreement or this site shall be brought exclusively in a state or federal court of competent jurisdiction sitting in the County of Clark, NV.
 
 ### Copyright
 
