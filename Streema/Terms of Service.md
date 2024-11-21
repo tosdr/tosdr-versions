@@ -241,6 +241,8 @@ Language: [English](#)
 
 © 2024 Streema, Inc. All rights reserved
 
+This website uses cookies for analytics and personalization. [Click here](https://streema.com/about/privacy/) to learn more or change your cookie settings. By continuing to browse, you agree to our use of cookies. ×
+
 ![](//googleads.g.doubleclick.net/pagead/viewthroughconversion/971474794/?value=0&guid=ON&script=0)
 
 ![](https://www.facebook.com/tr?id=1488121241445968&ev=PageView&noscript=1)
