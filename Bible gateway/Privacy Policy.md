@@ -41,11 +41,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[Lee Strobel answers questions about faith. Subscribe now for weekly insights!](https://www.biblegateway.com/landing/investigating_faith/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_strobel20241111)
+[Want the Verse of the Day sent to your inbox?](https://www.biblegateway.com/landing/verse-of-the-day/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_votdinbox1010)
 
 close
 
-[Find answers to your Bible questions with Bible Gateway Plus. NOW ON SALE! Save 20% FOR LIFE!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_answerquestions_nowonsale20241111)
+[Our BEST DEAL is HERE! Start your Bible study with a Bible Gateway Plus 14-DAY FREE trial!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_bestdealishere_20241111)
 
 close
 
