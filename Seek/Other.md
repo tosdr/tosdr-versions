@@ -195,19 +195,67 @@ Quick search
 Classifications
 ---------------
 
-[Accounting](https://www.seek.com.au/jobs-in-accounting)[Education & Training](https://www.seek.com.au/jobs-in-education-training)[Government & Defence](https://www.seek.com.au/jobs-in-government-defence)[Healthcare & Medical](https://www.seek.com.au/jobs-in-healthcare-medical)[Sales](https://www.seek.com.au/jobs-in-sales)View all⁠
+* [Accounting](https://www.seek.com.au/jobs-in-accounting)
+* [Education & Training](https://www.seek.com.au/jobs-in-education-training)
+* [Government & Defence](https://www.seek.com.au/jobs-in-government-defence)
+* [Healthcare & Medical](https://www.seek.com.au/jobs-in-healthcare-medical)
+* [Sales](https://www.seek.com.au/jobs-in-sales)
+View all⁠
 
-[Accounting](https://www.seek.com.au/jobs-in-accounting)[Administration & Office Support](https://www.seek.com.au/jobs-in-administration-office-support)[Advertising, Arts & Media](https://www.seek.com.au/jobs-in-advertising-arts-media)[Banking & Financial Services](https://www.seek.com.au/jobs-in-banking-financial-services)[Call Centre & Customer Service](https://www.seek.com.au/jobs-in-call-centre-customer-service)[CEO & General Management](https://www.seek.com.au/jobs-in-ceo-general-management)[Community Services & Development](https://www.seek.com.au/jobs-in-community-services-development)[Construction](https://www.seek.com.au/jobs-in-construction)[Consulting & Strategy](https://www.seek.com.au/jobs-in-consulting-strategy)[Design & Architecture](https://www.seek.com.au/jobs-in-design-architecture)[Education & Training](https://www.seek.com.au/jobs-in-education-training)[Engineering](https://www.seek.com.au/jobs-in-engineering)[Farming, Animals & Conservation](https://www.seek.com.au/jobs-in-farming-animals-conservation)[Government & Defence](https://www.seek.com.au/jobs-in-government-defence)[Healthcare & Medical](https://www.seek.com.au/jobs-in-healthcare-medical)[Hospitality & Tourism](https://www.seek.com.au/jobs-in-hospitality-tourism)[Human Resources & Recruitment](https://www.seek.com.au/jobs-in-human-resources-recruitment)[Information & Communication Technology](https://www.seek.com.au/jobs-in-information-communication-technology)[Insurance & Superannuation](https://www.seek.com.au/jobs-in-insurance-superannuation)[Legal](https://www.seek.com.au/jobs-in-legal)[Manufacturing, Transport & Logistics](https://www.seek.com.au/jobs-in-manufacturing-transport-logistics)[Marketing & Communications](https://www.seek.com.au/jobs-in-marketing-communications)[Mining, Resources & Energy](https://www.seek.com.au/jobs-in-mining-resources-energy)[Real Estate & Property](https://www.seek.com.au/jobs-in-real-estate-property)[Retail & Consumer Products](https://www.seek.com.au/jobs-in-retail-consumer-products)[Sales](https://www.seek.com.au/jobs-in-sales)[Science & Technology](https://www.seek.com.au/jobs-in-science-technology)[Self Employment](https://www.seek.com.au/jobs-in-self-employment)[Sport & Recreation](https://www.seek.com.au/jobs-in-sport-recreation)[Trades & Services](https://www.seek.com.au/jobs-in-trades-services)
+* [Accounting](https://www.seek.com.au/jobs-in-accounting)
+* [Administration & Office Support](https://www.seek.com.au/jobs-in-administration-office-support)
+* [Advertising, Arts & Media](https://www.seek.com.au/jobs-in-advertising-arts-media)
+* [Banking & Financial Services](https://www.seek.com.au/jobs-in-banking-financial-services)
+* [Call Centre & Customer Service](https://www.seek.com.au/jobs-in-call-centre-customer-service)
+* [CEO & General Management](https://www.seek.com.au/jobs-in-ceo-general-management)
+* [Community Services & Development](https://www.seek.com.au/jobs-in-community-services-development)
+* [Construction](https://www.seek.com.au/jobs-in-construction)
+* [Consulting & Strategy](https://www.seek.com.au/jobs-in-consulting-strategy)
+* [Design & Architecture](https://www.seek.com.au/jobs-in-design-architecture)
+* [Education & Training](https://www.seek.com.au/jobs-in-education-training)
+* [Engineering](https://www.seek.com.au/jobs-in-engineering)
+* [Farming, Animals & Conservation](https://www.seek.com.au/jobs-in-farming-animals-conservation)
+* [Government & Defence](https://www.seek.com.au/jobs-in-government-defence)
+* [Healthcare & Medical](https://www.seek.com.au/jobs-in-healthcare-medical)
+* [Hospitality & Tourism](https://www.seek.com.au/jobs-in-hospitality-tourism)
+* [Human Resources & Recruitment](https://www.seek.com.au/jobs-in-human-resources-recruitment)
+* [Information & Communication Technology](https://www.seek.com.au/jobs-in-information-communication-technology)
+* [Insurance & Superannuation](https://www.seek.com.au/jobs-in-insurance-superannuation)
+* [Legal](https://www.seek.com.au/jobs-in-legal)
+* [Manufacturing, Transport & Logistics](https://www.seek.com.au/jobs-in-manufacturing-transport-logistics)
+* [Marketing & Communications](https://www.seek.com.au/jobs-in-marketing-communications)
+* [Mining, Resources & Energy](https://www.seek.com.au/jobs-in-mining-resources-energy)
+* [Real Estate & Property](https://www.seek.com.au/jobs-in-real-estate-property)
+* [Retail & Consumer Products](https://www.seek.com.au/jobs-in-retail-consumer-products)
+* [Sales](https://www.seek.com.au/jobs-in-sales)
+* [Science & Technology](https://www.seek.com.au/jobs-in-science-technology)
+* [Self Employment](https://www.seek.com.au/jobs-in-self-employment)
+* [Sport & Recreation](https://www.seek.com.au/jobs-in-sport-recreation)
+* [Trades & Services](https://www.seek.com.au/jobs-in-trades-services)
 
 Major cities
 ------------
 
-[Sydney](https://www.seek.com.au/jobs/in-All-Sydney-NSW)[Melbourne](https://www.seek.com.au/jobs/in-All-Melbourne-VIC)[Brisbane](https://www.seek.com.au/jobs/in-All-Brisbane-QLD)[Gold Coast](https://www.seek.com.au/jobs/in-All-Gold-Coast-QLD)[Perth](https://www.seek.com.au/jobs/in-All-Perth-WA)[Adelaide](https://www.seek.com.au/jobs/in-All-Adelaide-SA)[Hobart](https://www.seek.com.au/jobs/in-All-Hobart-TAS)[Darwin](https://www.seek.com.au/jobs/in-All-Darwin-NT)[Canberra](https://www.seek.com.au/jobs/in-All-Canberra-ACT)
+* [Sydney](https://www.seek.com.au/jobs/in-All-Sydney-NSW)
+* [Melbourne](https://www.seek.com.au/jobs/in-All-Melbourne-VIC)
+* [Brisbane](https://www.seek.com.au/jobs/in-All-Brisbane-QLD)
+* [Gold Coast](https://www.seek.com.au/jobs/in-All-Gold-Coast-QLD)
+* [Perth](https://www.seek.com.au/jobs/in-All-Perth-WA)
+* [Adelaide](https://www.seek.com.au/jobs/in-All-Adelaide-SA)
+* [Hobart](https://www.seek.com.au/jobs/in-All-Hobart-TAS)
+* [Darwin](https://www.seek.com.au/jobs/in-All-Darwin-NT)
+* [Canberra](https://www.seek.com.au/jobs/in-All-Canberra-ACT)
 
 Other
 -----
 
-[All Jobs](https://www.seek.com.au/jobs)[Work From Home Jobs](https://www.seek.com.au/work-from-home-jobs)[FIFO Jobs](https://www.seek.com.au/fifo-jobs)[Ethical Jobs](https://www.seek.com.au/ethical-jobs)[Government Jobs](https://www.seek.com.au/government-jobs)[Web3 Jobs](https://www.seek.com.au/web3-jobs)[Salary Calculator](https://www.seek.com.au/career-advice/page/salary-calculator)
+* [All Jobs](https://www.seek.com.au/jobs)
+* [Work From Home Jobs](https://www.seek.com.au/work-from-home-jobs)
+* [FIFO Jobs](https://www.seek.com.au/fifo-jobs)
+* [Ethical Jobs](https://www.seek.com.au/ethical-jobs)
+* [Government Jobs](https://www.seek.com.au/government-jobs)
+* [Web3 Jobs](https://www.seek.com.au/web3-jobs)
+* [Salary Calculator](https://www.seek.com.au/career-advice/page/salary-calculator)
 
 Dashboard
 =========
@@ -273,6 +321,10 @@ Contact
 Social
 
 [Facebook](https://www.facebook.com/SEEK/)[Instagram](https://www.instagram.com/seekau/)[Twitter](https://twitter.com/seekjobs)[YouTube](https://www.youtube.com/@SEEKJobs)
+
+Artwork of a gum leaf symbolising ‘welcome’ and acknowledging diverse countries, environments, communities, cultures, beliefs, and history.
+
+SEEK acknowledges the Traditional Custodians of the lands on which it operates its online employment marketplace. The gum leaf represents a symbol of welcome and it acknowledges the diverse countries, environments and communities.Artwork by Bitja, Dixon Patten Jnr, Gunnai, Gunditjmara, Yorta Yorta and Dhudhuroa, Bayila Creative.
 
 Australia
 
