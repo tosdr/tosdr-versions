@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is the mormon church saying about sex abuse allegations?](https://www.pintas.com/wp-content/uploads/2023/04/general-law-image-300x169.jpg "What Is the Mormon Church Saying About Sex Abuse Allegations?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-the-mormon-church-saying-about-sexual-abuse-claims/ "What Is the Mormon Church Saying About Sex Abuse Allegations?")
+[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/ "Is Clergy Sexual Abuse Common in the Mormon Church?")
 
-[#### What Is the Mormon Church Saying About Sex Abuse Allegations?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-is-the-mormon-church-saying-about-sexual-abuse-claims/)
+[#### Is Clergy Sexual Abuse Common in the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/)
 
-[![What test shows mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-test-shows-mesothelioma-scaled.jpg "What Test Shows Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/ "What Test Shows Mesothelioma?")
+[![Can a brain bleed heal itself?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-brain-bleed-heal-itself.jpg "Can a Brain Bleed Heal Itself?")](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/ "Can a Brain Bleed Heal Itself?")
 
-[#### What Test Shows Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/)
+[#### Can a Brain Bleed Heal Itself?](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/)
 
-[![Can i file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-i-file-a-talcum-powder-lawsuit.jpg "Can I File a Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/ "Can I File a Talcum Powder Lawsuit?")
+[![Who can file a sex abuse claim against the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "Who Can File a Sex Abuse Claim Against the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-can-file-a-sexual-abuse-claim-against-the-mormon-church/ "Who Can File a Sex Abuse Claim Against the Mormon Church?")
 
-[#### Can I File a Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-i-file-a-talcum-powder-lawsuit/)
+[#### Who Can File a Sex Abuse Claim Against the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-can-file-a-sexual-abuse-claim-against-the-mormon-church/)
 
 ### Injured?  
 Tell Us What Happened.
