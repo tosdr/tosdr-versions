@@ -10,15 +10,15 @@ Quick Look
 
 Change your current location »
 
-Current![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1443) \-Mostly Sunny
+Current![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1445) \-Mostly Sunny
 
-Tonight![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1443)Low \-Mostly Sunny
+Tonight![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1445)Low \-Mostly Sunny
 
-Tomorrow![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1443)High \-Mostly Sunny
+Tomorrow![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1445)High \-Mostly Sunny
 
 View full weather report
 
-[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1443)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1443)](https://www.al.com/)
+[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1445)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1445)](https://www.al.com/)
 
 * [Birmingham](https://www.al.com/birmingham)
 * [Huntsville](https://www.al.com/huntsville)
@@ -259,7 +259,7 @@ Where required by applicable law, we enable you to opt out of or provide you wit
             * If you accessed the “Your Privacy Choices” button/link from the website or mobile application of an Advance Local market (e.g., NJ.com), when you make your Opt-Out choice following the process described above, the Opt-Out will only be applied on the specific market's website. If you want to Opt-Out on our other websites, you will need to go to that website, access the “Your Privacy Choices” button/link and follow the Opt-Out process described above.
     * We also recognize Global Privacy Control as a valid opt-out method. Certain browsers and browser extensions support [Global Privacy Control](https://globalprivacycontrol.org/) which sends a signal to websites indicating your choice to Opt-out of the use of your Personal Information for Targeted Advertising and “sales” or “shares” as defined under applicable law. We honor the GPC and where required by law, similar user-initiated browser based opt-out preference signals. Note that the Global Privacy Control is currently only applicable to opt-outs from websites. For mobile apps, please follow the instructions above.
     * To Opt-Out of Targeted Advertising enabled by other uses of your Personal Information, such as by LiveRamp, an Identity Resolution partner, visit [https://optout.liveramp.com/opt\_out](https://optout.liveramp.com/opt_out).
-    * To Opt-out of “sales” or “sharing” such as if your name and mailing address is used in connection with list rental and data co-ops, fill out this [form](https://privacyportal.onetrust.com/webform/57316691-7a35-4427-b868-f6c059de9bc0/49b8f00f-7426-4ae6-9561-6efd1d14ba34) or call 1-888-914-9661 and use PIN 981105.
+    * To Opt-out of “sales” or “sharing” such as if your name and mailing address is used in connection with list rental and data co-ops, visit our [privacy center](https://privacy.advancelocal.com/) or call 1-855-593-3588.
     * Do Not Track (DNT). Your browser setting may allow you to automatically transmit a "Do Not Track" (DNT) signal to websites and online services that you visit. Since there is no consensus about what DNT means in this context and how to implement DNT signals, like many other businesses, our websites do not respond to these DNT signals, but you have the options noted above and below to make choices about how your Personal Information is used.
     
     California residents may view metrics for California Consumer Privacy Act (“CCPA”)-related requests we have received during calendar year 2023, by clicking [here](https://www.advancelocal.com/advancelocal_reporting.html).
@@ -267,7 +267,7 @@ Where required by applicable law, we enable you to opt out of or provide you wit
     In certain regions, including California, we are also required by applicable local law to provide information, including as described above, about our business and commercial purposes for processing your Personal Information, and the categories of third parties with whom we may disclose, “sell,” or “share” your Personal Information for cross-contextual behavioral advertising (Targeted Advertising) in a manner that is highlighted for residents of those regions. That presentation of information is available in the section, [Additional Information Under Applicable Local Law](#additional_info_top), below.
     
     Additional Rights Requests  
-    To exercise your rights to know, access, correct, delete, restrict, object, or portability, under applicable local law as described above, contact us at 1-888-914-9661, using the PIN 981105, or submit a request by completing this [form](https://privacyportal.onetrust.com/webform/57316691-7a35-4427-b868-f6c059de9bc0/49b8f00f-7426-4ae6-9561-6efd1d14ba34).
+    To exercise your rights to know, access, correct, delete, restrict, object, or portability, under applicable local law as described above, contact us at 1-855-593-3588, or submit a request by visiting our [privacy center](https://privacy.advancelocal.com/).
     
     If you have any questions or need assistance exercising your rights, please contact our Privacy Policy Coordinator by [email](mailto: privacy_inquiry@advancelocal.com) or as described in the [Contact Us](#contact_us_top) section of this Privacy Policy.
     
@@ -550,7 +550,7 @@ Where required by applicable law, we enable you to opt out of or provide you wit
 Footer Navigation
 -----------------
 
-![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1443)
+![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1445)
 
 About Us
 
@@ -629,15 +629,15 @@ More on AL.com
 * [Sponsor Content](https://www.al.com/sponsor-content-index/?prx_adpz=1111)
 * [Post a job](https://jobs.al.com/AdminNet/Employer/Marketing/3315)
 
-* Cookie Settings
-* |[Privacy Policy](https://www.al.com/privacy-policy/)
+* Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions.svg?d=1445)
+* [Privacy Policy](https://www.al.com/privacy-policy/)
 * |[User Agreement](https://www.al.com/user-agreement/)
-* |[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1443)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
+* |[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1445)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
 
 Disclaimer
 ----------
 
-[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1443)](https://www.advancelocal.com/)
+[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1445)](https://www.advancelocal.com/)
 
 Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.al.com/user-agreement/), (updated 8/1/2024) and acknowledgement of our [Privacy Policy](https://www.al.com/privacy-policy/), and [Your Privacy Choices and Rights](https://www.al.com/privacy-policy/#rights_top) (updated 7/1/2024).
 
@@ -648,4 +648,4 @@ The material on this site may not be reproduced, distributed, transmitted, cache
 
 **YouTube's privacy policy** is available [here](https://policies.google.com/privacy "YouTube Privacy Policy") and **YouTube's terms of service** is available [here](https://www.youtube.com/t/terms "YouTube Terms of Service").
 
-[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1443)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
+[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.png?d=1445)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
