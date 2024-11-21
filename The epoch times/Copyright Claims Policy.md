@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [US Regulators Seek Breakup of Google Over Search Monopoly](https://www.theepochtimes.com/business/us-regulators-seek-breakup-of-google-over-search-monopoly-5763600)
+* [Republican Nick Begich Beats Democratic Rep. Mary Peltola in Alaska’s US House Race](https://www.theepochtimes.com/us/republican-nick-begich-beats-democratic-rep-mary-peltola-in-alaskas-us-house-race-5763653)
     
-    NEW By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    NEW By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
     
-    [![US Regulators Seek Breakup of Google Over Search Monopoly](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Republican Nick Begich Beats Democratic Rep. Mary Peltola in Alaska’s US House Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Regulators Seek Breakup of Google Over Search Monopoly](https://img.theepochtimes.com/assets/uploads/2016/02/29/GettyImages-147367649-e1732172579339-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-regulators-seek-breakup-of-google-over-search-monopoly-5763600)
-* [Gaetz Focused on DOJ Reform, Not ‘Paying Much Attention’ to Ethics Report](https://www.theepochtimes.com/us/gaetz-focused-on-doj-reform-not-paying-much-attention-to-ethics-report-5763549)
+    ![Republican Nick Begich Beats Democratic Rep. Mary Peltola in Alaska’s US House Race](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763667-AP24325642650478-205x123.jpg.webp)](https://www.theepochtimes.com/us/republican-nick-begich-beats-democratic-rep-mary-peltola-in-alaskas-us-house-race-5763653)
+* [Russia Struck Ukraine With an Intercontinental Ballistic Missile, Ukrainian Military Says](https://www.theepochtimes.com/world/russia-struck-ukraine-with-an-intercontinental-ballistic-missile-ukrainian-military-says-5763728)
     
-    3hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Gaetz Focused on DOJ Reform, Not ‘Paying Much Attention’ to Ethics Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Russia Struck Ukraine With an Intercontinental Ballistic Missile, Ukrainian Military Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Gaetz Focused on DOJ Reform, Not ‘Paying Much Attention’ to Ethics Report](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763375-GettyImages-2185739315-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/gaetz-focused-on-doj-reform-not-paying-much-attention-to-ethics-report-5763549)
-* [What to Know About Matthew Whitaker, Trump’s Nominee for NATO Ambassador](https://www.theepochtimes.com/us/what-to-know-about-matthew-whitaker-trumps-nominee-for-nato-ambassador-5763383)
+    ![Russia Struck Ukraine With an Intercontinental Ballistic Missile, Ukrainian Military Says](https://img.theepochtimes.com/assets/uploads/2019/10/22/Russian-military-equipment-e1715228983590-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-struck-ukraine-with-an-intercontinental-ballistic-missile-ukrainian-military-says-5763728)
+* [Russia Says It Shot Down 2 UK-Supplied Storm Shadow Missiles Fired by Ukraine](https://www.theepochtimes.com/world/russia-says-it-shot-down-2-uk-supplied-storm-shadow-missiles-fired-by-ukraine-5763688)
     
-    6hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    2hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
     
-    [![What to Know About Matthew Whitaker, Trump’s Nominee for NATO Ambassador](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Russia Says It Shot Down 2 UK-Supplied Storm Shadow Missiles Fired by Ukraine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What to Know About Matthew Whitaker, Trump’s Nominee for NATO Ambassador](https://img.theepochtimes.com/assets/uploads/2018/11/14/matt-whitaker-acting-attorney-general-205x123.jpg.webp)](https://www.theepochtimes.com/us/what-to-know-about-matthew-whitaker-trumps-nominee-for-nato-ambassador-5763383)
-* [Appeals Court Upholds Ruling Blocking Louisiana’s Ten Commandments Poster Law for Some Public Schools](https://www.theepochtimes.com/us/appeals-court-upholds-ruling-blocking-louisianas-ten-commandments-poster-law-for-some-public-schools-5763438)
+    ![Russia Says It Shot Down 2 UK-Supplied Storm Shadow Missiles Fired by Ukraine](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762842-Ukraine-missile-AP24324585400921-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-says-it-shot-down-2-uk-supplied-storm-shadow-missiles-fired-by-ukraine-5763688)
+* [ICC Issues Arrest Warrants for Netanyahu and Former Defense Minister](https://www.theepochtimes.com/world/icc-issues-arrest-warrants-for-netanyahu-and-defense-minister-5763719)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
-    [![Appeals Court Upholds Ruling Blocking Louisiana’s Ten Commandments Poster Law for Some Public Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![ICC Issues Arrest Warrants for Netanyahu and Former Defense Minister](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Appeals Court Upholds Ruling Blocking Louisiana’s Ten Commandments Poster Law for Some Public Schools](https://img.theepochtimes.com/assets/uploads/2024/11/id5763423-1.download-11-205x123.jpg.webp)](https://www.theepochtimes.com/us/appeals-court-upholds-ruling-blocking-louisianas-ten-commandments-poster-law-for-some-public-schools-5763438)
-* [Trump Nominates Pete Hoekstra as Ambassador to Canada](https://www.theepochtimes.com/us/trump-nominates-pete-hoekstra-as-ambassador-to-canada-5763532)
+    ![ICC Issues Arrest Warrants for Netanyahu and Former Defense Minister](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763731-GettyImages-2169352635-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/icc-issues-arrest-warrants-for-netanyahu-and-defense-minister-5763719)
+* [Federal Government Proposes Alternatives for Managing Colorado River System](https://www.theepochtimes.com/us/federal-government-proposes-alternatives-for-managing-colorado-river-system-5763637)
     
-    8hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun) and [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
+    4hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
     
-    [![Trump Nominates Pete Hoekstra as Ambassador to Canada](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Federal Government Proposes Alternatives for Managing Colorado River System](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Nominates Pete Hoekstra as Ambassador to Canada](https://img.theepochtimes.com/assets/uploads/2024/02/28/id5596607-GettyImages-1214865495-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-nominates-pete-hoekstra-as-ambassador-to-canada-5763532)
-* [What to Expect From DOGE](https://www.theepochtimes.com/article/what-to-expect-from-doge-5762369)
+    ![Federal Government Proposes Alternatives for Managing Colorado River System](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763716-Lake-Mead-2021-04-18-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-government-proposes-alternatives-for-managing-colorado-river-system-5763637)
+* [US Optimistic as Israel Weighs Cease-Fire Proposal for Lebanon](https://www.theepochtimes.com/world/us-optimistic-as-israel-weighs-cease-fire-proposal-for-lebanon-5763420)
     
-    10hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    4hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
     
-    [![What to Expect From DOGE](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Optimistic as Israel Weighs Cease-Fire Proposal for Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![What to Expect From DOGE](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763358-14_2-205x123.jpg.webp)](https://www.theepochtimes.com/article/what-to-expect-from-doge-5762369)
-* [Senate Judiciary Democrats Ask FBI for Investigative Files on Matt Gaetz](https://www.theepochtimes.com/us/senate-judiciary-democrats-ask-fbi-for-investigative-files-on-matt-gaetz-5763305)
+    ![US Optimistic as Israel Weighs Cease-Fire Proposal for Lebanon](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763718-2024-10-21T115022Z_1_LYNXMPEK9K0EP_RTROPTP_4_ISRAEL-PALESTINIANS-LEBANON-ENVOY-LSedit-2-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-optimistic-as-israel-weighs-cease-fire-proposal-for-lebanon-5763420)
+* [IAEA Chief Says Iran Has Taken ‘Concrete Steps’ in Right Direction on Nuclear Program](https://www.theepochtimes.com/world/iaea-chief-says-iran-has-taken-concrete-steps-in-right-direction-on-nuclear-program-5762911)
     
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
     
-    [![Senate Judiciary Democrats Ask FBI for Investigative Files on Matt Gaetz](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![IAEA Chief Says Iran Has Taken ‘Concrete Steps’ in Right Direction on Nuclear Program](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Senate Judiciary Democrats Ask FBI for Investigative Files on Matt Gaetz](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763513-Matt-Gaetz-GettyImages-1546546745KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-judiciary-democrats-ask-fbi-for-investigative-files-on-matt-gaetz-5763305)
-* [Luxury Carmaker Jaguar Launches Rebranding Campaign, Without Cars](https://www.theepochtimes.com/business/luxury-carmaker-jaguar-launches-rebranding-campaign-without-cars-5763380)
+    ![IAEA Chief Says Iran Has Taken ‘Concrete Steps’ in Right Direction on Nuclear Program](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763701-irangrossi-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/iaea-chief-says-iran-has-taken-concrete-steps-in-right-direction-on-nuclear-program-5762911)
+* [UK’s Starmer Faces Pressure to Get Tougher on China at G20](https://www.theepochtimes.com/china/uks-starmer-faces-pressure-to-get-tougher-on-china-at-g20-5763039)
     
-    10hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    6hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
     
-    [![Luxury Carmaker Jaguar Launches Rebranding Campaign, Without Cars](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![UK’s Starmer Faces Pressure to Get Tougher on China at G20](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Luxury Carmaker Jaguar Launches Rebranding Campaign, Without Cars](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763582-new-jaguar-logo-205x123.jpg.webp)](https://www.theepochtimes.com/business/luxury-carmaker-jaguar-launches-rebranding-campaign-without-cars-5763380)
-* [Musk, Ramaswamy Publish Efficiency Department’s Plan to ‘Reform Government’](https://www.theepochtimes.com/us/musk-ramaswamy-publish-efficiency-departments-plan-to-reform-government-5763381)
+    ![UK’s Starmer Faces Pressure to Get Tougher on China at G20](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763692-UKChinaGettyImages-2184733726-205x123.jpeg.webp)](https://www.theepochtimes.com/china/uks-starmer-faces-pressure-to-get-tougher-on-china-at-g20-5763039)
+* [Global Economic Risks Spark Calls to Tie US Dollar to Gold Again](https://www.theepochtimes.com/business/global-economic-risks-spark-calls-to-tie-us-dollar-to-gold-again-5760798)
     
-    10hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    6hr By [Olivia Li](https://www.theepochtimes.com/author/olivia-li), [Xin Ning](https://www.theepochtimes.com/author/xin-ning) and [Bin Zhao](https://www.theepochtimes.com/author/bin-zhao)
     
-    [![Musk, Ramaswamy Publish Efficiency Department’s Plan to ‘Reform Government’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Global Economic Risks Spark Calls to Tie US Dollar to Gold Again](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Musk, Ramaswamy Publish Efficiency Department’s Plan to ‘Reform Government’](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759085-FotoJet-1-elon-vivek-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/musk-ramaswamy-publish-efficiency-departments-plan-to-reform-government-5763381)
-* [Ford to Cut 4,000 Jobs in Europe by 2027 Amid Electric Vehicle Sales Decline](https://www.theepochtimes.com/business/ford-to-cut-4000-jobs-in-europe-by-2027-amid-electric-vehicle-sales-decline-5763341)
+    ![Global Economic Risks Spark Calls to Tie US Dollar to Gold Again](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763705-gold-bar-GettyImages-1852393638-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/global-economic-risks-spark-calls-to-tie-us-dollar-to-gold-again-5760798)
+* [HHS Chief Defends His Agency’s Handling of Children Who Entered US Illegally](https://www.theepochtimes.com/us/hhs-chief-defends-his-agencys-handling-of-children-who-entered-us-illegally-5763415)
     
-    10hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
+    6hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
     
-    [![Ford to Cut 4,000 Jobs in Europe by 2027 Amid Electric Vehicle Sales Decline](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![HHS Chief Defends His Agency’s Handling of Children Who Entered US Illegally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Ford to Cut 4,000 Jobs in Europe by 2027 Amid Electric Vehicle Sales Decline](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763347-1.tagreuters.com2024binary_LYNXMPEKAH0FF-FILEDIMAGE-205x123.jpg.webp)](https://www.theepochtimes.com/business/ford-to-cut-4000-jobs-in-europe-by-2027-amid-electric-vehicle-sales-decline-5763341)
+    ![HHS Chief Defends His Agency’s Handling of Children Who Entered US Illegally](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763703-in-Rio-Grande-Texas-migrants-unaccompanied-children-7-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/hhs-chief-defends-his-agencys-handling-of-children-who-entered-us-illegally-5763415)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
