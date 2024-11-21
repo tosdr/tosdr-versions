@@ -18,7 +18,7 @@ Menu
         
     * [Hammers](#)
     * [Build Your Custom Hammer](https://martineztools.com/products/hammer-configurator)
-    * [Best Sellers Hammers](https://martineztools.com/collections/best-sellers-hammers)
+    * [Legends Collection: Prebuilt Hammers](https://martineztools.com/collections/legends-collection-prebuilt-hammers)
     * [Assembled Hammers](https://martineztools.com/collections/assembled-hammers)
         
         * [M1 15oz Framing Hammers](https://martineztools.com/collections/m1-15oz-framing-hammers)
