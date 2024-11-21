@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![2 dead, 1 injured in Ohio home explosion; cause still under investigation](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/ohioexplosion.jpg?ve=1&tl=1)
+ [![Sheriff's deputies discover 2 bodies, injured person inside Wise County home](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112024-sky-4-wednesday-pm-kdfweme002_17_14_17_1_mp_00.00.44.44.jpg?ve=1&tl=1)
 
- ![2 dead, 1 injured in Ohio home explosion; cause still under investigation](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/ohioexplosion.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ohio-home-explosion)
+ ![Sheriff's deputies discover 2 bodies, injured person inside Wise County home](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112024-sky-4-wednesday-pm-kdfweme002_17_14_17_1_mp_00.00.44.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/newark-dead-bodies-found-cr-4874-investigation-in-wise-county)
 
-### [2 dead, 1 injured in Ohio home explosion; cause still under investigation](https://www.fox4news.com/news/ohio-home-explosion)
+### [Sheriff's deputies discover 2 bodies, injured person inside Wise County home](https://www.fox4news.com/news/newark-dead-bodies-found-cr-4874-investigation-in-wise-county)
 
- [![77-year-old accused of murdering wife because he thought she was cheating](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/francisco-web.png?ve=1&tl=1)
+ [![Dallas Mavericks host annual turkey giveaway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-alex-mavericks-annual-turkey-giveaway-530p_00.00.18.14.jpg?ve=1&tl=1)
 
- ![77-year-old accused of murdering wife because he thought she was cheating](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/francisco-web.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/veronia-lopez-francisco-amaya)
+ ![Dallas Mavericks host annual turkey giveaway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-alex-mavericks-annual-turkey-giveaway-530p_00.00.18.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mavericks-host-annual-turkey-giveaway)
 
-### [77-year-old accused of murdering wife because he thought she was cheating](https://www.fox4news.com/news/veronia-lopez-francisco-amaya)
+### [Dallas Mavericks host annual turkey giveaway](https://www.fox4news.com/news/dallas-mavericks-host-annual-turkey-giveaway)
 
- [![Man stabbed to death in South Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/baccc3df-Generic-police-tape-2-11.jpg?ve=1&tl=1)
+ [![Netflix sued over Jake Paul vs. Mike Tyson fight streaming issues](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185058932.jpg?ve=1&tl=1)
 
- ![Man stabbed to death in South Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/baccc3df-Generic-police-tape-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-stabbed-death-south-dallas)
+ ![Netflix sued over Jake Paul vs. Mike Tyson fight streaming issues](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185058932.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jake-paul-mike-tyson-netflix-lawsuit)
 
-### [Man stabbed to death in South Dallas](https://www.fox4news.com/news/man-stabbed-death-south-dallas)
+### [Netflix sued over Jake Paul vs. Mike Tyson fight streaming issues](https://www.fox4news.com/news/jake-paul-mike-tyson-netflix-lawsuit)
 
- [![Could Deion Sanders be the next Dallas Cowboys coach?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185258135-e1732128564623.jpg?ve=1&tl=1)
+ [![Botham Jean's family awarded nearly $100M in civil wrongful death case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/f7d2b0f1-V-BOTHAM20JEAN20FAMILY20PRESSER204A_00.00.04.12_1539790895919.png_6232291_ver1.0.jpg?ve=1&tl=1)
 
- ![Could Deion Sanders be the next Dallas Cowboys coach?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185258135-e1732128564623.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/could-deion-sanders-be-next-dallas-cowboys-coach)
+ ![Botham Jean's family awarded nearly $100M in civil wrongful death case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/f7d2b0f1-V-BOTHAM20JEAN20FAMILY20PRESSER204A_00.00.04.12_1539790895919.png_6232291_ver1.0.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-guyger-botham-jean-civil-trial-verdict)
 
-### [Could Deion Sanders be the next Dallas Cowboys coach?](https://www.fox4news.com/sports/could-deion-sanders-be-next-dallas-cowboys-coach)
+### [Botham Jean's family awarded nearly $100M in civil wrongful death case](https://www.fox4news.com/news/amber-guyger-botham-jean-civil-trial-verdict)
 
- [![American Airlines passengers duct tape man who tried to open plane door on DFW-bound flight](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-1229908876.jpg?ve=1&tl=1)
+ [![Homeless man set 3 Fort Worth apartment fires after being kicked out for squatting: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/adam-ewing-mug-web.png?ve=1&tl=1)
 
- ![American Airlines passengers duct tape man who tried to open plane door on DFW-bound flight](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-1229908876.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/american-airlines-passenger-duct-taped-dfw-airport)
+ ![Homeless man set 3 Fort Worth apartment fires after being kicked out for squatting: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/adam-ewing-mug-web.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/adam-erwing-fire-arson-fort-worth)
 
-### [American Airlines passengers duct tape man who tried to open plane door on DFW-bound flight](https://www.fox4news.com/news/american-airlines-passenger-duct-taped-dfw-airport)
+### [Homeless man set 3 Fort Worth apartment fires after being kicked out for squatting: police](https://www.fox4news.com/news/adam-erwing-fire-arson-fort-worth)
 
 ###### [News](https://www.fox4news.com/news)
 
