@@ -116,19 +116,21 @@ from$1.6/1K req](https://smartproxy.com/proxies/site-unblocker/pricing)
 
 [Social Media Scraping API
 
-from$0.9/1K req](https://smartproxy.com/scraping/social-media/pricing)
+from$1.2/1K req](https://smartproxy.com/scraping/social-media/pricing)
 
 [eCommerce Scraping API
 
-from$1.1/1K req](https://smartproxy.com/scraping/ecommerce/pricing)
+NEW
+
+from$0.1/1K req](https://smartproxy.com/scraping/ecommerce/pricing)
 
 [SERP Scraping API
 
-from$1.3/1K req](https://smartproxy.com/scraping/serp/pricing)
+from$1.2/1K req](https://smartproxy.com/scraping/serp/pricing)
 
 [Web Scraping API
 
-from$0.52/1K req](https://smartproxy.com/scraping/web/pricing)
+from$0.8/1K req](https://smartproxy.com/scraping/web/pricing)
 
 [Free Tools](https://smartproxy.com/apps)
 
@@ -398,7 +400,7 @@ COMPANY
 
 PRODUCTS
 
-[Proxies](https://smartproxy.com/proxies)[Data scraping](https://smartproxy.com/scraping)[Site Unblocker](https://smartproxy.com/proxies/site-unblocker)[Free tools](https://smartproxy.com/apps)
+[Proxies](https://smartproxy.com/proxies)[Data scrapers](https://smartproxy.com/scraping)[Site Unblocker](https://smartproxy.com/proxies/site-unblocker)[Free tools](https://smartproxy.com/apps)
 
 GENERAL
 
