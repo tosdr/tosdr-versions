@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/het-wef-verwerft-goddelijke-krachten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/met-inzicht-komt-verantwoordelijkheid/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
