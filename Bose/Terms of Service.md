@@ -1,10 +1,8 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
+Exclusive Color Drop: Save $50 on Ultra Open Earbuds in new Sunset Iridescent. [Shop](https://www.bose.com/c/exclusives)
+
 Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
-
-Exclusive color drop: Save $50 off Ultra Open Earbuds in new Carbon Blue. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CARBON+BLUE&quantity=1)
-
-Save an extra 10% on Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
 
 [Cancel](#)
 
@@ -105,22 +103,22 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/5ec88eb5ac5c390a/webimage-UOEBLE25-CarbonBlue_SF_NavFlyout_Holiday_Gifting_Artemas_Mobile.png)
+    [![](https://assets.bosecreative.com/m/137e6e77e7518f6d/webimage-UOEBLE25-Sunset_SF_NavFlyout_Holiday_Tease_Mobile.png)
     
     Exclusive Color Drop
     
-    ### Artemas’ Top Pick](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CARBON+BLUE&quantity=1 "BUY NOW ")
+    ### Now in Sunset Iridescent](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SUNSET+IRIDESCENT&quantity=1 "BUY NOW")
     
      
     
-    Exclusive color drop
+    Exclusive Color Drop
     
-    Artemas’ top pick
-    -----------------
+    Hear all the joy
+    ----------------
     
-    Save $50 off Ultra Open Earbuds now in new Carbon Blue.
+    Save $50 off Ultra Open Earbuds now in Sunset Iridescent.
     
-    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CARBON+BLUE&quantity=1 "BUY NOW")
+    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SUNSET+IRIDESCENT&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
