@@ -161,6 +161,7 @@ Please enter a search term
     * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
         * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
         * [Climate and sustainability](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment/climate-change)
+        * [Environmental Protection](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment/environmental-protection)
         * [Competition, EU & trade](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment/eu-competition)
         * [Forensic & accounting services](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment/forensic-accounting-services)
         * [Global investigations](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment/white-collar-crime-investigations)
