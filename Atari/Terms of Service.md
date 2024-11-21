@@ -256,7 +256,7 @@ Apparel & Collectibles
     
     [Jaguar](https://www.atari.com/collections/jaguar)
     
-    [Atari Club](https://www.atari.com/collections/atari-club)
+    [Bentley Bear](https://www.atari.com/collections/bentley-bear)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
     
@@ -302,7 +302,7 @@ COLLECTIONS
     
     [Jaguar](https://www.atari.com/collections/jaguar)
     
-    [Atari Club](https://www.atari.com/collections/atari-club)
+    [Bentley Bear](https://www.atari.com/collections/bentley-bear)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
     
@@ -318,7 +318,7 @@ Shop All Tees](https://www.atari.com/collections/atari-tshirts)
 
 Shop All Hats](https://www.atari.com/collections/hats)
 
-\*\*New!\*\*/collections/holiday-collection; \*\*New!\*\*/collections/jaguar; \*\*Trending\*\*/collections/sweatshirts
+\*\*New!\*\*/collections/holiday-collection; \*\*New!\*\*/collections/bentley-bear; \*\*Trending\*\*/collections/sweatshirts
 
 New
 
