@@ -130,6 +130,30 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/religious-belief-and-the-2024-election/)
+    
+    [Religious Belief and the 2024 Election](https://www.conservativedailynews.com/2024/11/religious-belief-and-the-2024-election/)
+    
+    November 21, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/newtons-third-law-of-politics/)
+    
+    [Newton’s Third Law of Politics](https://www.conservativedailynews.com/2024/11/newtons-third-law-of-politics/)
+    
+    November 21, 2024
+    
+* [![Sarah McBride transgender](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/a-tim-by-any-other-name/)
+    
+    [A Tim by Any Other Name…](https://www.conservativedailynews.com/2024/11/a-tim-by-any-other-name/)
+    
+    November 21, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/08/Coins-money-220x150.png)](https://www.conservativedailynews.com/2024/11/the-joys-of-raising-financially-confident-teens/)
+    
+    [The Joys of Raising Financially Confident Teens](https://www.conservativedailynews.com/2024/11/the-joys-of-raising-financially-confident-teens/)
+    
+    November 21, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-rips-into-bill-gates-over-covid-profits-claims-vaccine-push-ruined-millions-of-lives/)
     
     [Joe Rogan Rips Into Bill Gates Over COVID Profits, Claims Vaccine Push Ruined Millions Of Lives](https://www.conservativedailynews.com/2024/11/joe-rogan-rips-into-bill-gates-over-covid-profits-claims-vaccine-push-ruined-millions-of-lives/)
@@ -154,33 +178,11 @@ Recent Posts
     
     November 20, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/09/Sanctuary-City-sign-2-1.jpg)](https://www.conservativedailynews.com/2024/11/los-angeles-passes-sanctuary-city-ordinance-in-wake-of-trumps-deportation-plan/)
-    
-    [Los Angeles Passes ‘Sanctuary City’ Ordinance In Wake Of Trump’s Deportation Plan](https://www.conservativedailynews.com/2024/11/los-angeles-passes-sanctuary-city-ordinance-in-wake-of-trumps-deportation-plan/)
-    
-    November 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5801-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/)
-    
-    [Barrage Of Liberal Judges Will Be Schumer’s Swan Song](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/)
-    
-    November 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/03-trump-map-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/usa-prognosis/)
-    
-    [USA Prognosis](https://www.conservativedailynews.com/2024/11/usa-prognosis/)
-    
-    November 20, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Screaming-Dems-220x150.png)](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-my-answer-to-those-crazy-lib-o-tards/)
-    
-    [America In The Age Of Stupidity: My Answer To Those Crazy Lib-O-Tards](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-my-answer-to-those-crazy-lib-o-tards/)
-    
-    November 20, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Bill would let police ‘briefly seize’ firearms during domestics](https://www.thegunpage.com/bill-would-let-police-briefly-seize-firearms-during-domestics/10612019)
+* [More Than 6,000 Shooters Experience An Improved Range: 1961 National Matches](https://www.thegunpage.com/more-than-6000-shooters-experience-an-improved-range-1961-national-matches/10612018)
 * [Best Concealed Carry Revolvers](https://www.thegunpage.com/best-concealed-carry-revolvers/10612014)
 * [POTD: Heckler & Koch HK421 – The New Light Machine Gun](https://www.thegunpage.com/potd-heckler-koch-hk421-the-new-light-machine-gun/10612015)
 * [Wheelgun Wednesday: Taurus 650 .357 Magnum](https://www.thegunpage.com/wheelgun-wednesday-taurus-650-357-magnum/10612016)
@@ -188,9 +190,7 @@ Recent Posts
 * [Smith & Wesson Performance Center M&P9 M2.0 Full Size Metal Carry Comp](https://www.thegunpage.com/smith-wesson-performance-center-mp9-m2-0-full-size-metal-carry-comp/10612010)
 * [New York Judge Allows Lawsuit Against Body Armor Ban To Go To Trial](https://www.thegunpage.com/new-york-judge-allows-lawsuit-against-body-armor-ban-to-go-to-trial/10612004)
 * [CMP Auctioning M1D Sniper Rifle To Benefit Museum Exhibit](https://www.thegunpage.com/cmp-auctioning-m1d-sniper-rifle-to-benefit-museum-exhibit/10612003)
-* [Rich Combination Of History & Shooting On Display At Creedmoor 150 Match](https://www.thegunpage.com/rich-combination-of-history-shooting-on-display-at-creedmoor-150-match/10612012)
 * [Public Support For An Assault Weapons Ban Continues To Tumble](https://www.thegunpage.com/public-support-for-an-assault-weapons-ban-continues-to-tumble/10612001)
-* [Ho Ho Ho, Now You Can Have The Die Hard Holster Too](https://www.thegunpage.com/ho-ho-ho-now-you-can-have-the-die-hard-holster-too/10611996)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
