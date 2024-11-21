@@ -23,7 +23,7 @@ Accessibility
 
 We are constantly working to make the City of Ottawa’s website and web content accessible and usable for everyone.
 
-Our goal is to meet or exceed [Web Content Accessibility Guidelines (WCAG)](https://www.ontario.ca/page/about-accessibility-laws#section-1) conformance requirements as stipulated by the [Accessibility for Ontarians with Disabilities Act (AODA)](https://www.ontario.ca/page/about-accessibility-laws#section-1), under the [Integrated Accessibility Standards (IASR)](https://www.ontario.ca/laws/regulation/110191).
+Our goal is to meet or exceed [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG20/) conformance requirements as stipulated by the [Accessibility for Ontarians with Disabilities Act (AODA)](https://www.ontario.ca/page/about-accessibility-laws#section-1), under the [Integrated Accessibility Standards (IASR)](https://www.ontario.ca/laws/regulation/110191).
 
 #### **Monitoring and maintaining accessibility**
 
@@ -194,4 +194,4 @@ Protocols
 
 Would you like to participate in a 5-10 minute web experience study to help us improve ottawa.ca? If YES, a new window will open in the background so you can come back to it when you are finished on the website. Thank you for considering to help out.
 
-[Yes](https://ottawacityux.optimalworkshop.com/treejack/279a10cf05b4f7de03d92a56f34c1f37) No
+[Yes](https://ottawacityux.optimalworkshop.com/treejack/53603ff22342a23511795641ea2bbd06) No
