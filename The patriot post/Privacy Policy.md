@@ -1,6 +1,6 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -134,13 +134,6 @@ Last Updated: November 15, 2011.
 *      [John Stossel Destructive Environmentalists](https://patriotpost.us/opinion/112165-destructive-environmentalists-2024-11-20)
 *      [Star Parker Young, Black, Hispanic Americans Would Opt Out of Social Security Even if It Wasn’t Broken](https://patriotpost.us/opinion/112164-young-black-hispanic-americans-would-opt-out-of-social-security-even-if-it-wasnt-broken-2024-11-20)
 *      [Ian Haworth Biden Wants War on His Way Out](https://patriotpost.us/opinion/112163-biden-wants-war-on-his-way-out-2024-11-20)
-*      [Byron York Schumer to GOP: Please Don’t Do What We Were Going to Do to You](https://patriotpost.us/opinion/112162-schumer-to-gop-please-dont-do-what-we-were-going-to-do-to-you-2024-11-20)
-*      [Betsy McCaughey Kamala’s Defeat Ushers in New, Law-and-Order Future for Cities](https://patriotpost.us/opinion/112161-kamalas-defeat-ushers-in-new-law-and-order-future-for-cities-2024-11-20)
-*      [Hans von Spakovsky Pennsylvania Officials Openly Admit to Trying to Steal Senate Seat](https://patriotpost.us/opinion/112158-pennsylvania-officials-openly-admit-to-trying-to-steal-senate-seat-2024-11-20)
-*      [Christine Flowers Advise and Consent as Important as Ever](https://patriotpost.us/opinion/112156-advise-and-consent-as-important-as-ever-2024-11-20)
-*      [Allen West Cleanup on Aisle 7](https://patriotpost.us/opinion/112154-cleanup-on-aisle-7-2024-11-20)
-*      [The Washington Stand Dems Continue Infighting Over Trans Issues After Election Loss](https://patriotpost.us/opinion/112160-dems-continue-infighting-over-trans-issues-after-election-loss-2024-11-20)
-*      [The Babylon Bee Kamala Asks Biden to Stop Doing Trump Dance in Cabinet Meetings](https://patriotpost.us/opinion/112152-kamala-asks-biden-to-stop-doing-trump-dance-in-cabinet-meetings-2024-11-20)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -154,7 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
