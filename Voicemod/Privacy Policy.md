@@ -347,7 +347,7 @@ Supercharge Your Voice
 © 2024 Voicemod Inc., Sucursal en España
 
 * [Legal](https://www.voicemod.net/en/legal/)
-* [Privacy Policy](https://www.voicemod.net/en/?page_id=3693)
+* [Privacy](https://www.voicemod.net/en/privacy/)
 * [Terms of Use](https://www.voicemod.net/en/terms-of-use/)
 * [Cookies Policy](https://www.voicemod.net/en/cookies-policy/)
 * [3rd Party Software](https://voicemod.notion.site/3ce7ec8daebb4d228b2bf2310daeccd5)
