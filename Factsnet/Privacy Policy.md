@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![24 Facts About Karnataka Temples ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/religion/24-facts-about-karnataka-temples/)
+[![35 Facts About Internet History ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/35-facts-about-internet-history/)
 
-Religion
+Tech & Sciences
 
-20 Nov 2024
+21 Nov 2024
 
-[24 Facts About Karnataka Temples](https://facts.net/history/religion/24-facts-about-karnataka-temples/)
+[35 Facts About Internet History](https://facts.net/tech-and-sciences/35-facts-about-internet-history/)
 
-[![23 Facts About Juan Guaid ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/23-facts-about-juan-guaido/)
+[![34 Facts About John Margolies ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/34-facts-about-john-margolies/)
 
 People
 
-20 Nov 2024
+21 Nov 2024
 
-[23 Facts About Juan Guaid](https://facts.net/history/people/23-facts-about-juan-guaido/)
+[34 Facts About John Margolies](https://facts.net/history/people/34-facts-about-john-margolies/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
