@@ -1,7 +1,3 @@
-[Best Buy: Shop like a VIP with exclusive deals today + Up to 2% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/best-buy?store=best-buy&sourceName=sitewide-sticky-header)
-
 [](https://www.rakuten.ca/)
 
 EN
@@ -357,7 +353,7 @@ FR
         
         up to 5% Cash Back](https://www.rakuten.ca/brilliant-earth)[Michael Kors
         
-        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        8% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
