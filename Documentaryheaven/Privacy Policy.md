@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Behind Closed Doors: Elderly Care Exposed](/wp-content/thumbnails/8818-100x70.jpg?x53432)
+* [![The Pirate Bay: Away from Keyboard](/wp-content/thumbnails/6914-100x70.jpg?x53432)
     
-    Behind Closed Doors: Elderly Care Exposed
+    The Pirate Bay: Away from Keyboard
     
-    BBC's Panorama takes it upon themselves to investigate the state of some of Britain's care homes for the elderly. Through the use of secret filming this documentary reveals some truly disturbing cases](https://documentaryheaven.com/behind-closed-doors-elderly-care-exposed/ "Behind Closed Doors: Elderly Care Exposed")
-* [![American Radical: The Trials of Norman Finkelstein](/wp-content/thumbnails/5712-100x70.jpg?x53432)
+    This is a documentary about the largest and the most famous torrent website in the world – The Pirate Bay – and the story behind it.It’s the day before the trial starts. Fredrik packs a computer i](https://documentaryheaven.com/the-pirate-bay-away-from-keyboard/ "The Pirate Bay: Away from Keyboard")
+* [![Meltdown: The Men Who Crashed The World](/wp-content/thumbnails/13387-100x70.jpg?x53432)
     
-    American Radical: The Trials of Norman Finkelstein
+    Meltdown: The Men Who Crashed The World
     
-    American Radical is the probing, definitive documentary about Jewish-American political scientist Norman Finkelstein.A devoted son of holocaust survivors, an ardent critic of Israel and US Middle Ea](https://documentaryheaven.com/american-radical-the-trials-of-norman-finkelstein/ "American Radical: The Trials of Norman Finkelstein")
-* [![CIA Secret Experiments](/wp-content/thumbnails/7065-100x70.jpg?x53432)
+    Meltdown is a four-part investigation into the orgy of greed and recklessness that drove the world into financial collapse back in 2008 and only now are the hard questions being asked, only now are th](https://documentaryheaven.com/meltdown-men-who-crashed-world/ "Meltdown: The Men Who Crashed The World")
+* [![The Summer Of Rave, 1989](/wp-content/thumbnails/12667-100x70.jpg?x53432)
     
-    CIA Secret Experiments
+    The Summer Of Rave, 1989
     
-    It's the height of the Cold War and the United States government is desperate to combat the spread of Communism. The CIA launches a highly classified, top secret research program into the covert use o](https://documentaryheaven.com/cia-secret-experiments/ "CIA Secret Experiments")
-* [![The Cola Wars](/wp-content/thumbnails/14516-100x70.jpg?x53432)
+    Great British summers may not come often but when they do people all across the nation start shedding not only their clothes but their inhibitions too and if summertime is party time the scorcher whic](https://documentaryheaven.com/summer-of-rave-1989/ "The Summer Of Rave, 1989")
+* [![Why Can’t We Predict Earthquakes?](/wp-content/thumbnails/2838-100x70.jpg?x53432)
     
-    The Cola Wars
+    Why Can’t We Predict Earthquakes?
     
-    The soft drink industry is a 100 million dollar juggernaut, the Coca Cola Company and Pepsi Co. control vast empires which reach into practically every corner of the globe. Through huge networks of bo](https://documentaryheaven.com/cola-wars/ "The Cola Wars")
-* [![Crack Cocaine](/wp-content/thumbnails/8403-100x70.jpg?x53432)
+    Last century, earthquakes killed over one million, and it is predicted that this century might see ten times as many deaths. Yet when an earthquake strikes, it always takes people by surprise.So why](https://documentaryheaven.com/why-cant-we-predict-earthquakes/ "Why Can’t We Predict Earthquakes?")
+* [![Gravity and Me: The Force that Shapes our Lives](/wp-content/thumbnails/14822-100x70.jpg?x53432)
     
-    Crack Cocaine
+    Gravity and Me: The Force that Shapes our Lives
     
-    A film documenting the effects of the illegal drug trade, primarily crack cocaine on a community in America. The documentary explores the lives of those who sell the drug and life choices they were fa](https://documentaryheaven.com/crack-cocaine/ "Crack Cocaine")
+    Would you like to loose a little bit of weight without doing any exercise or dieting? Or perhaps age just a little slower than your friends? Well you might be surprised to hear that the laws of physic](https://documentaryheaven.com/gravity-me-force-that-shapes-our-lives/ "Gravity and Me: The Force that Shapes our Lives")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
