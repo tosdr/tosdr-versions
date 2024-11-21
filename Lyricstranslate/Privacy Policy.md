@@ -107,61 +107,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
-
-New comment
-
-Erm... I don't get why you removed the first ...  [more](https://lyricstranslate.com/en/comment/1177046#comment-1177046)
-
-[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
-
-New comment
-
-You mean remove them? We could, but we've been ...  [more](https://lyricstranslate.com/en/comment/1177045#comment-1177045)
-
-[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1726335605.png)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
-
-New comment
-
-Thank you  [more](https://lyricstranslate.com/en/comment/1177044#comment-1177044)
-
-[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1726335605.png)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
-
-New comment
-
-Thanks this worked!  [more](https://lyricstranslate.com/en/comment/1177043#comment-1177043)
-
-[![Skribbl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496502-1708497653.jpg)](https://lyricstranslate.com/en/translator/skribbl "Skribbl")
-
-New translation
-
-[Hichki (OST) - फिर क्या है ग़म (Phir Kya Hai Gham)](https://lyricstranslate.com/en/hichki-ost-phir-kya-hai-gham-transliteration)
-
-Hindi → Transliteration
-
-[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1726335605.png)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
-
-New transcription request
-
-[Rudolph The Red-nosed Reindeer: The Movie (ost) - What About His Nose? (Catalan)](https://lyricstranslate.com/en/rudolph-red-nosed-reindeer-movie-ost-what-about-his-nose-catalan)
-
-Catalan
-
-[![Aruna Sichone](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637447-1731936149.png)](https://lyricstranslate.com/en/translator/aruna-sichone "Aruna Sichone")
-
-New request
-
-[Michael Jackson - Heal the World](https://lyricstranslate.com/en/request/heal-world-10)
-
-English → Swahili
-
-[![osiris71](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1421017-1557781113.jpg)](https://lyricstranslate.com/en/translator/osiris71 "osiris71")
+[![Juha Rämö](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1330802-1666092002.jpg)](https://lyricstranslate.com/en/translator/juha-r%C3%A4m%C3%B6 "Juha Rämö")
 
 New song
 
-[Françoise Hardy - Tu es un peu à moi](https://lyricstranslate.com/en/francoise-hardy-tu-es-un-peu-moi-lyrics)
+[Pablo Neruda - Almería](https://lyricstranslate.com/en/pablo-neruda-almeria-lyrics)
 
-French
+Spanish
+
+[![Miral Hijazi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1401736-1688407880.jpg)](https://lyricstranslate.com/en/translator/miral-hijazi "Miral Hijazi")
+
+New song
+
+[Gülben Ergen - Defoluyorum Kalbinden](https://lyricstranslate.com/en/gulben-ergen-defoluyorum-kalbinden-lyrics)
+
+Turkish
+
+[![Globophobe](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1554539-1706215364.gif)](https://lyricstranslate.com/en/translator/globophobe "Globophobe")
+
+New translation
+
+[Divine (USA) - Born To Be Cheap](https://lyricstranslate.com/en/divine-usa-born-be-cheap-german)
+
+English → German
+
+[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1726261869.jpg)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+
+New song
+
+[Kiiko Tokunaga - 六本木トランジット](https://lyricstranslate.com/en/kiiko-tokunaga-roppongi-transit-lyrics)
+
+Japanese
+
+[![uji na](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496118-1655268553.jpg)](https://lyricstranslate.com/en/translator/uji-na "uji na")
+
+New annotation
+
+Probably, here is, 時が二人を変えた  [more](https://lyricstranslate.com/en/node/4860329)
+
+[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
+
+New comment
+
+\[@FrozenHeart\] Ciao! Would you mind checking the ...  [more](https://lyricstranslate.com/en/comment/1177427#comment-1177427)
+
+[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
+
+New song
+
+[Arianna Rozzo - J'adore](https://lyricstranslate.com/en/arianna-rozzo-jadore-lyrics)
+
+Italian
+
+[![Albert Braam](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1315727.jpg)](https://lyricstranslate.com/en/translator/albert-braam "Albert Braam")
+
+New translation
+
+[Tom Jones - It's Not Unusual](https://lyricstranslate.com/en/tom-jones-its-not-unusual-dutch)
+
+English → Dutch
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
