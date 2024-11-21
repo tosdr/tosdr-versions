@@ -9,7 +9,7 @@ x
 [Skip to main content \[Accesskey 'S'\]](#mainContent) [Go to home page \[Accesskey '1'\]](https://www.theaa.com/) Are you a [business customer?](https://www.theaa.com/business)
 
 * [Broken down?](https://www.theaa.com/breakdown-cover/broken-down/safety-advice)
-* [Route Planner](https://www.theaa.com/route-planner/route)
+* [Had an accident?](https://www.theaa.com/breakdown-cover/accident-assist)
 * [Help and support](https://www.theaa.com/help-support)
 
 [](https://www.theaa.com/ "The AA | Home")
