@@ -365,7 +365,7 @@ If you are not satisfied with the resolution provided you may log your complaint
 
 We reserve the right to change this Policy at our sole discretion at any time. Any material changes to this Policy will be posted on this page. We encourage you to review this Policy regularly for such changes. The updated Privacy Policy will take effect as soon as it has been updated.
 
-_This Policy was last updated as of 6th November 2024._
+_This Policy was last updated as of 20th November 2024._
 
 TV ShowsDigital Exclusives
 
