@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Republican Nick Begich Beats Democratic Rep. Mary Peltola in Alaska’s US House Race](https://www.theepochtimes.com/us/republican-nick-begich-beats-democratic-rep-mary-peltola-in-alaskas-us-house-race-5763653)
+* [SEC Chair to Step Down Upon Trump Administration’s Return](https://www.theepochtimes.com/us/sec-chair-to-step-down-upon-trump-administrations-return-5763909)
     
-    NEW By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
-    [![Republican Nick Begich Beats Democratic Rep. Mary Peltola in Alaska’s US House Race](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![SEC Chair to Step Down Upon Trump Administration’s Return](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Republican Nick Begich Beats Democratic Rep. Mary Peltola in Alaska’s US House Race](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763667-AP24325642650478-205x123.jpg.webp)](https://www.theepochtimes.com/us/republican-nick-begich-beats-democratic-rep-mary-peltola-in-alaskas-us-house-race-5763653)
-* [Russia Struck Ukraine With an Intercontinental Ballistic Missile, Ukrainian Military Says](https://www.theepochtimes.com/world/russia-struck-ukraine-with-an-intercontinental-ballistic-missile-ukrainian-military-says-5763728)
+    ![SEC Chair to Step Down Upon Trump Administration’s Return](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729311-09242024-DSC00870-Gary-Gensler-205x123.jpg.webp)](https://www.theepochtimes.com/us/sec-chair-to-step-down-upon-trump-administrations-return-5763909)
+* [Trump Plans to Use Impoundment to Cut Spending—What Is It?](https://www.theepochtimes.com/article/trump-plans-to-use-impoundment-to-cut-spending-what-is-it-5761779)
     
-    1hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    NEW By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
     
-    [![Russia Struck Ukraine With an Intercontinental Ballistic Missile, Ukrainian Military Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Plans to Use Impoundment to Cut Spending—What Is It?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Russia Struck Ukraine With an Intercontinental Ballistic Missile, Ukrainian Military Says](https://img.theepochtimes.com/assets/uploads/2019/10/22/Russian-military-equipment-e1715228983590-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-struck-ukraine-with-an-intercontinental-ballistic-missile-ukrainian-military-says-5763728)
-* [Russia Says It Shot Down 2 UK-Supplied Storm Shadow Missiles Fired by Ukraine](https://www.theepochtimes.com/world/russia-says-it-shot-down-2-uk-supplied-storm-shadow-missiles-fired-by-ukraine-5763688)
+    ![Trump Plans to Use Impoundment to Cut Spending—What Is It?](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763925-Trump-impoundment-9-205x123.jpg.webp)](https://www.theepochtimes.com/article/trump-plans-to-use-impoundment-to-cut-spending-what-is-it-5761779)
+* [Record-Setting Travel Expected for Thanksgiving](https://www.theepochtimes.com/us/record-setting-travel-expected-for-thanksgiving-5763553)
     
-    2hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    1hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
-    [![Russia Says It Shot Down 2 UK-Supplied Storm Shadow Missiles Fired by Ukraine](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Record-Setting Travel Expected for Thanksgiving](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Russia Says It Shot Down 2 UK-Supplied Storm Shadow Missiles Fired by Ukraine](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762842-Ukraine-missile-AP24324585400921-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-says-it-shot-down-2-uk-supplied-storm-shadow-missiles-fired-by-ukraine-5763688)
-* [ICC Issues Arrest Warrants for Netanyahu and Former Defense Minister](https://www.theepochtimes.com/world/icc-issues-arrest-warrants-for-netanyahu-and-defense-minister-5763719)
+    ![Record-Setting Travel Expected for Thanksgiving](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5764015-10202024-DSC04975-Washington-DC-Airport-DCA-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/record-setting-travel-expected-for-thanksgiving-5763553)
+* [Buttigieg Defends New Airline Rules After CEOs Make Critical Comments](https://www.theepochtimes.com/business/buttigieg-defends-new-airline-rules-after-ceos-make-critical-comments-5763886)
     
-    3hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    1hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![ICC Issues Arrest Warrants for Netanyahu and Former Defense Minister](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Buttigieg Defends New Airline Rules After CEOs Make Critical Comments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![ICC Issues Arrest Warrants for Netanyahu and Former Defense Minister](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763731-GettyImages-2169352635-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/icc-issues-arrest-warrants-for-netanyahu-and-defense-minister-5763719)
-* [Federal Government Proposes Alternatives for Managing Colorado River System](https://www.theepochtimes.com/us/federal-government-proposes-alternatives-for-managing-colorado-river-system-5763637)
+    ![Buttigieg Defends New Airline Rules After CEOs Make Critical Comments](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5764017-04092024-DSC04008-Sen-Chris-Van-Hollen-LSedit-205x123.jpg)](https://www.theepochtimes.com/business/buttigieg-defends-new-airline-rules-after-ceos-make-critical-comments-5763886)
+* [High-Dose Vitamin C Doubles Pancreatic Cancer Patient Survival Rates: Clinical Trial](https://www.theepochtimes.com/health/high-dose-vitamin-c-doubles-pancreatic-cancer-patient-survival-rates-clinical-trial-5763201)
     
-    4hr By [Stephen Katte](https://www.theepochtimes.com/author/stephen-katte)
+    2hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
     
-    [![Federal Government Proposes Alternatives for Managing Colorado River System](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![High-Dose Vitamin C Doubles Pancreatic Cancer Patient Survival Rates: Clinical Trial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Government Proposes Alternatives for Managing Colorado River System](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763716-Lake-Mead-2021-04-18-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-government-proposes-alternatives-for-managing-colorado-river-system-5763637)
-* [US Optimistic as Israel Weighs Cease-Fire Proposal for Lebanon](https://www.theepochtimes.com/world/us-optimistic-as-israel-weighs-cease-fire-proposal-for-lebanon-5763420)
+    ![High-Dose Vitamin C Doubles Pancreatic Cancer Patient Survival Rates: Clinical Trial](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763882-IV-Vitamin-C-205x123.jpg.webp)](https://www.theepochtimes.com/health/high-dose-vitamin-c-doubles-pancreatic-cancer-patient-survival-rates-clinical-trial-5763201)
+* [Mexican President Says She Has Plan to Receive Deported Mexicans From US](https://www.theepochtimes.com/world/mexican-president-says-she-has-plan-to-receive-deported-mexicans-from-us-5763781)
     
-    4hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    2hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![US Optimistic as Israel Weighs Cease-Fire Proposal for Lebanon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Mexican President Says She Has Plan to Receive Deported Mexicans From US](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Optimistic as Israel Weighs Cease-Fire Proposal for Lebanon](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763718-2024-10-21T115022Z_1_LYNXMPEK9K0EP_RTROPTP_4_ISRAEL-PALESTINIANS-LEBANON-ENVOY-LSedit-2-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-optimistic-as-israel-weighs-cease-fire-proposal-for-lebanon-5763420)
-* [IAEA Chief Says Iran Has Taken ‘Concrete Steps’ in Right Direction on Nuclear Program](https://www.theepochtimes.com/world/iaea-chief-says-iran-has-taken-concrete-steps-in-right-direction-on-nuclear-program-5762911)
+    ![Mexican President Says She Has Plan to Receive Deported Mexicans From US](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5764018-cbp-officer-2-LSedit-205x123.jpg)](https://www.theepochtimes.com/world/mexican-president-says-she-has-plan-to-receive-deported-mexicans-from-us-5763781)
+* [Senators on Both Sides Reprimand Visa, Mastercard Over Swipe Fees](https://www.theepochtimes.com/us/senators-on-both-sides-reprimand-visa-mastercard-over-swipe-fees-5763777)
     
-    6hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![IAEA Chief Says Iran Has Taken ‘Concrete Steps’ in Right Direction on Nuclear Program](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Senators on Both Sides Reprimand Visa, Mastercard Over Swipe Fees](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![IAEA Chief Says Iran Has Taken ‘Concrete Steps’ in Right Direction on Nuclear Program](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763701-irangrossi-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/iaea-chief-says-iran-has-taken-concrete-steps-in-right-direction-on-nuclear-program-5762911)
-* [UK’s Starmer Faces Pressure to Get Tougher on China at G20](https://www.theepochtimes.com/china/uks-starmer-faces-pressure-to-get-tougher-on-china-at-g20-5763039)
+    ![Senators on Both Sides Reprimand Visa, Mastercard Over Swipe Fees](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763907-GettyImages-2184988045-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/senators-on-both-sides-reprimand-visa-mastercard-over-swipe-fees-5763777)
+* [Brazilian Authorities Indict Former President Bolsonaro on Coup Allegations](https://www.theepochtimes.com/world/brazilian-authorities-indict-former-president-bolsonaro-on-coup-allegations-5763880)
     
-    6hr By [Lily Zhou](https://www.theepochtimes.com/author/lily-zhou)
+    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![UK’s Starmer Faces Pressure to Get Tougher on China at G20](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Brazilian Authorities Indict Former President Bolsonaro on Coup Allegations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![UK’s Starmer Faces Pressure to Get Tougher on China at G20](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763692-UKChinaGettyImages-2184733726-205x123.jpeg.webp)](https://www.theepochtimes.com/china/uks-starmer-faces-pressure-to-get-tougher-on-china-at-g20-5763039)
-* [Global Economic Risks Spark Calls to Tie US Dollar to Gold Again](https://www.theepochtimes.com/business/global-economic-risks-spark-calls-to-tie-us-dollar-to-gold-again-5760798)
+    ![Brazilian Authorities Indict Former President Bolsonaro on Coup Allegations](https://img.theepochtimes.com/assets/uploads/2024/02/08/id5583719-Jair-BolsonaroKO-205x123.jpg.webp)](https://www.theepochtimes.com/world/brazilian-authorities-indict-former-president-bolsonaro-on-coup-allegations-5763880)
+* [FEMA Director Sounds Alarm Over Disaster Funding After Recent Hurricanes](https://www.theepochtimes.com/us/fema-director-sounds-alarm-over-disaster-funding-after-recent-hurricanes-5763868)
     
-    6hr By [Olivia Li](https://www.theepochtimes.com/author/olivia-li), [Xin Ning](https://www.theepochtimes.com/author/xin-ning) and [Bin Zhao](https://www.theepochtimes.com/author/bin-zhao)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Global Economic Risks Spark Calls to Tie US Dollar to Gold Again](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FEMA Director Sounds Alarm Over Disaster Funding After Recent Hurricanes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Global Economic Risks Spark Calls to Tie US Dollar to Gold Again](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763705-gold-bar-GettyImages-1852393638-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/global-economic-risks-spark-calls-to-tie-us-dollar-to-gold-again-5760798)
-* [HHS Chief Defends His Agency’s Handling of Children Who Entered US Illegally](https://www.theepochtimes.com/us/hhs-chief-defends-his-agencys-handling-of-children-who-entered-us-illegally-5763415)
+    ![FEMA Director Sounds Alarm Over Disaster Funding After Recent Hurricanes](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758475-Deanne-Criswell-GettyImages-1646719042.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-director-sounds-alarm-over-disaster-funding-after-recent-hurricanes-5763868)
+* [Beijing Denies Knowledge of Its Ship Being Monitored Following Baltic Sea Data Cable Cuts](https://www.theepochtimes.com/world/china-denies-knowledge-of-its-ship-being-monitored-following-baltic-sea-data-cable-cuts-5763787)
     
-    6hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    3hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
     
-    [![HHS Chief Defends His Agency’s Handling of Children Who Entered US Illegally](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Beijing Denies Knowledge of Its Ship Being Monitored Following Baltic Sea Data Cable Cuts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![HHS Chief Defends His Agency’s Handling of Children Who Entered US Illegally](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763703-in-Rio-Grande-Texas-migrants-unaccompanied-children-7-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/hhs-chief-defends-his-agencys-handling-of-children-who-entered-us-illegally-5763415)
+    ![Beijing Denies Knowledge of Its Ship Being Monitored Following Baltic Sea Data Cable Cuts](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5764019-MK7-LSedit-205x123.jpg)](https://www.theepochtimes.com/world/china-denies-knowledge-of-its-ship-being-monitored-following-baltic-sea-data-cable-cuts-5763787)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
