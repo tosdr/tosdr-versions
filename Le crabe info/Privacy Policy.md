@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 652 utilisateurs actifs
+##### 818 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Bing Wallpaper : un piège de Microsoft pour imposer Edge et Bing ?](https://lecrabeinfo.net/bing-wallpaper-un-piege-de-microsoft-pour-imposer-edge-et-bing.html)
 * [Windows App : à quoi sert la nouvelle application de Microsoft ?](https://lecrabeinfo.net/windows-app-a-quoi-sert-la-nouvelle-application-de-microsoft.html)
 * [Windows 11 : comment restaurer WordPad, l’éditeur de texte historique (et gratuit) de Windows ?](https://lecrabeinfo.net/windows-11-comment-restaurer-wordpad-lediteur-de-texte-historique-et-gratuit-de-windows.html)
-* [Microsoft impose l’IA dans Windows : vous en avez assez ? Ce n'est que le début !](https://lecrabeinfo.net/microsoft-impose-lia-dans-windows-vous-en-avez-assez-ce-nest-que-le-debut.html)
 
 ### Tendance
 
@@ -152,10 +152,12 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 959 membres
-* 950 articles
-* 26 938 commentaires
-* [67 498 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
+* 67 962 membres
+* 951 articles
+* 26 943 commentaires
+* [2 665 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
+* [873 abonnés X](https://x.com/lecrabeinfo)
+* [67 499 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
