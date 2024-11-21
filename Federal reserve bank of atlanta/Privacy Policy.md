@@ -133,7 +133,7 @@ Menutoggle menu
         * [Paying for It](https://www.atlantafed.org/banking-and-payments/publications/paying-for-it)
     * [Reporting](https://www.atlantafed.org/banking-and-payments/reporting)
         * [Contacts](https://www.atlantafed.org/banking-and-payments/reporting/contacts)
-        * [Financial Institution Reports](https://www.atlantafed.org/about/atlantafed/transparency)
+        * [Financial Institution Reports](https://www.atlantafed.org/banking-and-payments/reporting/financial-institution-reports)
         * [Resources](https://www.atlantafed.org/banking-and-payments/reporting/resources)
         * [Training](https://www.atlantafed.org/banking-and-payments/reporting/training)
 * [News & Events](https://www.atlantafed.org/news)
