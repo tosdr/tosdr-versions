@@ -61,8 +61,8 @@ Search
                 * [Point-to-Point Encryption Assessors](https://www.pcisecuritystandards.org/assessors_and_solutions/point_to_point_encryption_assessors)
                 * [Qualified PIN Assessors](https://www.pcisecuritystandards.org/assessors_and_solutions/qpa_assessors)
                 * [Qualified Security Assessors](https://www.pcisecuritystandards.org/assessors_and_solutions/qualified_security_assessors)
-                * [Secure Software Assessors](https://listings.pcisecuritystandards.org/assessors_and_solutions/software_security_framework_assessors?assessor_type=Secure%20Software)
-                * [Secure Software Lifecycle Assessors](https://listings.pcisecuritystandards.org/assessors_and_solutions/software_security_framework_assessors?assessor_type=Secure%20SLC)
+                * [Secure Software Assessors](https://www.pcisecuritystandards.org/assessors_and_solutions/software_security_framework_assessors?assessor_type=Secure%20Software)
+                * [Secure Software Lifecycle Assessors](https://www.pcisecuritystandards.org/assessors_and_solutions/software_security_framework_assessors?assessor_type=Secure%20SLC)
                 * [PCI Forensic Investigators](https://www.pcisecuritystandards.org/assessors_and_solutions/pci_forensic_investigators)
                 * [PCI Professionals](https://www.pcisecuritystandards.org/assessors_and_solutions/professionals_lookup)
                 
