@@ -12,8 +12,9 @@
     * [Careers](https://clockify.me/careers)
     * [Press](https://clockify.me/press)
     * [Customers](https://clockify.me/customers)
-    * [Brand ![](assets/images/icons/arrow-up-right-gray.svg)](https://brand.cake.com/) 
-    * [Blog ![](assets/images/icons/arrow-up-right-gray.svg)](https://cake.com/empowered-team/) 
+    * [Webinars](https://clockify.me/events/)
+    * [Brand](https://brand.cake.com/)
+    * [Blog](https://cake.com/empowered-team/)
 [Try FREE](https://clockify.me/try)* [Bundle](https://clockify.me/bundle)
 
  [![CAKE.com logo](/assets/images/icons/cake-logo.svg)](https://clockify.me/)[Get started](https://clockify.me/try)
@@ -842,6 +843,7 @@ If any provision of this Agreement violates any mandatory rule of applicable Law
 * [Brand](https://brand.cake.com/)
 * [Blog](https://cake.com/empowered-team/)
 * [Updates](https://clockify.me/updates/)
+* [Webinars](https://clockify.me/events/)
 * [Tutorials](https://clockify.me/tutorials)
 * [Request a demo](https://clockify.me/empowered-team/bundle-sales/)
 
