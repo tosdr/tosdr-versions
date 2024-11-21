@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Lose Your Marbles](https://www.myabandonware.com/game/lose-your-marbles-t9g)
+* [Mavis Beacon Teaches Typing! Version 4](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-4-t99)
 * [Mavis Beacon Teaches Typing! Version 3](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-3-t98)
 * [Mavis Beacon Teaches Typing! Version 2](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-2-t97)
 * [Nobunaga no Yabō: Tenka Sōsei - Power Up Kit](https://www.myabandonware.com/game/nobunaga-no-yabo-tenka-sosei-power-up-kit-txm)
-* [Nobunaga's Ambition: Rise to Power](https://www.myabandonware.com/game/nobunaga-s-ambition-rise-to-power-txn)
-* [Nobunaga no Yabō: Reppūden](https://www.myabandonware.com/game/nobunaga-no-yabo-reppuden-txl)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
