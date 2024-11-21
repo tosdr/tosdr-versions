@@ -350,6 +350,18 @@ Read More
 Community News
 --------------
 
+[![You'll Always Be My Number One](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![You'll Always Be My Number One](https://b108297.smushcdn.com/108297/wp-content/uploads/2016/05/riker-instagram_4049ce46b3-768x768.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/first-officer-in-focus-wil-ukinix-amity-outpost-4/)
+
+### [First Officer in Focus – Wil Ukinix, Amity Outpost](https://www.starbase118.net/2024/first-officer-in-focus-wil-ukinix-amity-outpost-4/)
+
+srichardsciencenerd118 November 21, 2024
+
+Each month we interview a First Officer of the fleet as part of our “First Officer in Focus” column to get to know them better,
+
+[Read More »](https://www.starbase118.net/2024/first-officer-in-focus-wil-ukinix-amity-outpost-4/)
+
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-alora-deveau-denali-station-chiefs-citation-award/)
@@ -373,18 +385,6 @@ Federation News Service November 13, 2024
 STARBASE 118 – The crew of StarBase 118 celebrated their victory during Frontier Day and welcomed a new Commanding Officer. Following the events of Frontier
 
 [Read More »](https://www.starbase118.net/2024/starbase-118-ops-celebrates-frontier-day-and-welcomes-new-commanding-officer/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-kirsty-lee-carpenter-uss-ronin-shaxs-star-security-tactical/)
-
-### [Award Winner – Kirsty Lee Carpenter, USS Ronin (Shaxs Star – Security/Tactical)](https://www.starbase118.net/2024/award-winner-kirsty-lee-carpenter-uss-ronin-shaxs-star-security-tactical/)
-
-Salkath November 11, 2024
-
-Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
-
-[Read More »](https://www.starbase118.net/2024/award-winner-kirsty-lee-carpenter-uss-ronin-shaxs-star-security-tactical/)
 
 Ready to get started?
 ---------------------
