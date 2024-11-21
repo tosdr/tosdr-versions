@@ -276,7 +276,7 @@ Where to Buy
     
     The leading technology for delivering gigabit Internet services
     
-* [PRE-BF DEALS ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg)](https://www.tp-link.com/us/promotion/black-friday-2024/) 
+* [BLACK FRIDAY ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg)](https://www.tp-link.com/us/promotion/black-friday-2024/) 
 * [Community ![Click to open the navigation bar](https://static.tp-link.com/assets/images/icon/arrow-gray-down.svg)](https://community.tp-link.com/) 
     
     [For Home](https://community.tp-link.com/us/home)
@@ -560,7 +560,7 @@ Where to Buy
     * [Solution Partners](https://www.tp-link.com/us/where-to-buy/#Solution%20Partners)
         
     
-* [PRE-BF DEALS](https://www.tp-link.com/us/promotion/black-friday-2024/)
+* [BLACK FRIDAY](https://www.tp-link.com/us/promotion/black-friday-2024/)
     
 * Community
     
