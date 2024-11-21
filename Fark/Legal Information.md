@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+Come on, it's $10 a month, just do it.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this man and hat](https://www.fark.com/goto/13466640) ( [dims.apnews.com](https://www.fark.com/goto/13466640) ) » [(12 comments)](https://www.fark.com/comments/13466640/Photoshop-this-man-hat) |
-| [Discussion](https://www.fark.com/discussion/) | [What apps/sites do overloaded, easily-distracted Farkers use to track their many tasks in life and work, sub-steps within those tasks and dependencies of those steps, to avoid having things fall through the cracks or go forgotten for months?](https://www.fark.com/goto/13469464) ( [en.wikipedia.org](https://www.fark.com/goto/13469464) ) » [(3 comments)](https://www.fark.com/comments/13469464/What-appssites-do-overloaded-easily-distracted-Farkers-use-to-track-their-many-tasks-in-life-work-sub-steps-within-those-tasks-dependencies-of-those-steps-to-avoid-having-things-fall-through-cracks-go-forgotten-for-months) |
-| [Sports](https://www.fark.com/sports/) | [Another day, another accusation the Tyson Fight was rigged. Jacques Cousteau reporting](https://www.fark.com/goto/13469154) ( [nypost.com](https://www.fark.com/goto/13469154) ) » [(5 comments)](https://www.fark.com/comments/13469154/Another-day-another-accusation-Tyson-Fight-was-rigged-Jacques-Cousteau-reporting) |
-| [Business](https://www.fark.com/business/) | [Company fined $2,000,000 for improper use of White-Out](https://www.fark.com/goto/13468774) ( [wfsb.com](https://www.fark.com/goto/13468774) ) » [(0 comments)](https://www.fark.com/comments/13468774/Company-fined-$2000000-for-improper-use-of-White-Out) |
-| [STEM](https://www.fark.com/stem/) | [Lunch time doubly so](https://www.fark.com/goto/13469278) ( [thebrighterside.news](https://www.fark.com/goto/13469278) ) » [(3 comments)](https://www.fark.com/comments/13469278/Lunch-time-doubly-so) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Well, the Penguin went from an overlooked, gag crime boss to an interesting villain thanks to recent series. What other Batman baddies should be considered for a serious turn? Kite Man obviously](https://www.fark.com/goto/13469418) ( [youtube.com](https://www.fark.com/goto/13469418) ) » [(17 comments)](https://www.fark.com/comments/13469418/Well-Penguin-went-from-an-overlooked-gag-crime-boss-to-an-interesting-villain-thanks-to-recent-series-What-other-Batman-baddies-should-be-considered-for-a-serious-turn-Kite-Man-obviously) |
-| [Fandom](https://www.fark.com/fandom/) | [Well, the Penguin went from an overlooked, gag crime boss to an interesting villain thanks to recent series. What other Batman baddies should be considered for a serious turn? Kite Man obviously](https://www.fark.com/goto/13469418) ( [youtube.com](https://www.fark.com/goto/13469418) ) » [(17 comments)](https://www.fark.com/comments/13469418/Well-Penguin-went-from-an-overlooked-gag-crime-boss-to-an-interesting-villain-thanks-to-recent-series-What-other-Batman-baddies-should-be-considered-for-a-serious-turn-Kite-Man-obviously) |
-| [D'awww](https://www.fark.com/dawww/) | [When you find the bed you want, you do not leave until they buy it](https://www.fark.com/goto/13469068) ( [goodmorningamerica.com](https://www.fark.com/goto/13469068) ) » [(6 comments)](https://www.fark.com/comments/13469068/When-you-find-bed-you-want-you-do-not-leave-until-they-buy-it) |
-| [Food](https://www.fark.com/food/) | [Wait, a pineapple is not an apple?](https://www.fark.com/goto/13469438) ( [cracked.com](https://www.fark.com/goto/13469438) ) » [(6 comments)](https://www.fark.com/comments/13469438/Wait-a-pineapple-is-not-an-apple) |
-| [Politics](https://www.fark.com/politics/) | [Here's why Elon Musk is 'curious to meet' left-wing billionaire Alex Soros](https://www.fark.com/goto/13469616) ( [nypost.com](https://www.fark.com/goto/13469616) ) » [(25 comments)](https://www.fark.com/comments/13469616/Heres-why-Elon-Musk-is-curious-to-meet-left-wing-billionaire-Alex-Soros) |
+| [Main](https://www.fark.com/) | [BREAKING: Iceland. (Multiple webcam views)](https://www.fark.com/goto/13469866) ( [livefromiceland.is](https://www.fark.com/goto/13469866) ) » [(0 comments)](https://www.fark.com/comments/13469866/BREAKING-Iceland-Multiple-webcam-views) |
+| [Discussion](https://www.fark.com/discussion/) | [What apps/sites do overloaded, easily-distracted Farkers use to track their many tasks in life and work, sub-steps within those tasks and dependencies of those steps, to avoid having things fall through the cracks or go forgotten for months?](https://www.fark.com/goto/13469464) ( [en.wikipedia.org](https://www.fark.com/goto/13469464) ) » [(19 comments)](https://www.fark.com/comments/13469464/What-appssites-do-overloaded-easily-distracted-Farkers-use-to-track-their-many-tasks-in-life-work-sub-steps-within-those-tasks-dependencies-of-those-steps-to-avoid-having-things-fall-through-cracks-go-forgotten-for-months) |
+| [Sports](https://www.fark.com/sports/) | [No no no, Tommy Cutlets, "fun and games" are \*precisely\* why you're starting instead of Drew Lock](https://www.fark.com/goto/13469610) ( [espn.com](https://www.fark.com/goto/13469610) ) » [(0 comments)](https://www.fark.com/comments/13469610/No-no-no-Tommy-Cutlets-fun-games-are-precisely-why-youre-starting-instead-of-Drew-Lock) |
+| [Business](https://www.fark.com/business/) | [CNN Business takes a look at how much of Elon Musk's wealth comes from tax dollars and government help. Oh my](https://www.fark.com/goto/13469384) ( [cnn.com](https://www.fark.com/goto/13469384) ) » [(7 comments)](https://www.fark.com/comments/13469384/CNN-Business-takes-a-look-at-how-much-of-Elon-Musks-wealth-comes-from-tax-dollars-government-help-Oh-my) |
+| [STEM](https://www.fark.com/stem/) | [Old: Sovereign Citizens. Fark: Sovereign Midwives](https://www.fark.com/goto/13469462) ( [abc.net.au](https://www.fark.com/goto/13469462) ) » [(5 comments)](https://www.fark.com/comments/13469462/Old-Sovereign-Citizens-Fark-Sovereign-Midwives) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Kris Jenner and Corey Gamble plan "his and hers" plastic surgeries before Christmas. Nothing says festive like decking the halls with boughs of Botox](https://www.fark.com/goto/13469102) ( [atlantablackstar.com](https://www.fark.com/goto/13469102) ) » [(0 comments)](https://www.fark.com/comments/13469102/Kris-Jenner-Corey-Gamble-plan-his-hers-plastic-surgeries-before-Christmas-Nothing-says-festive-like-decking-halls-with-boughs-of-Botox) |
+| [Fandom](https://www.fark.com/fandom/) | [Someone actually found something new to do in a Sims game](https://www.fark.com/goto/13468978) ( [pcgamer.com](https://www.fark.com/goto/13468978) ) » [(0 comments)](https://www.fark.com/comments/13468978/Someone-actually-found-something-new-to-do-in-a-Sims-game) |
+| [D'awww](https://www.fark.com/dawww/) | [New Hampshire animal shelter now has an enor-mouse rodent problem after man surrenders nearly 1000 mice](https://www.fark.com/goto/13469586) ( [apnews.com](https://www.fark.com/goto/13469586) ) » [(5 comments)](https://www.fark.com/comments/13469586/New-Hampshire-animal-shelter-now-has-an-enor-mouse-rodent-problem-after-man-surrenders-nearly-1000-mice) |
+| [Food](https://www.fark.com/food/) | [Wait, a pineapple is not an apple?](https://www.fark.com/goto/13469438) ( [cracked.com](https://www.fark.com/goto/13469438) ) » [(31 comments)](https://www.fark.com/comments/13469438/Wait-a-pineapple-is-not-an-apple) |
+| [Politics](https://www.fark.com/politics/) | [Now that Republicans have seen what can happen when they have good voter turnout, are they going to abandon the "suppress every vote possible" approach to elections they've traditionally taken and encourage more access? asked a moron](https://www.fark.com/goto/13468818) ( [npr.org](https://www.fark.com/goto/13468818) ) » [(4 comments)](https://www.fark.com/comments/13468818/Now-that-Republicans-have-seen-what-can-happen-when-they-have-good-voter-turnout-are-they-going-to-abandon-suppress-every-vote-possible-approach-to-elections-theyve-traditionally-taken-encourage-more-access-asked-a-moron) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 20 2024 20:43:24  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 21 2024 01:42:34  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
