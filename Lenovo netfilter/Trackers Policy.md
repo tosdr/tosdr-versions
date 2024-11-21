@@ -1106,7 +1106,7 @@ AI-driven web filtering solutions to enhance student safety.
 
  
 
-[Speak with an Expert](https://share.hsforms.com/1P_Npp_ZzTC-pE93Pqp64Tw2bxvg "Speak with an Expert")
+[Speak with an Expert](https://share.hsforms.com/134gQsMY-QHmTrUZYBqp0mA2bxvg "Speak with an Expert")
 
    ![](/content/dam/lenovo/lenovo-software-assets/filtering/netsweeper-white-logo-v1.png)
 
@@ -1154,7 +1154,7 @@ onGuard+ takes student safety further with dedicated Digital Safety Monitors who
 
 **Discover How the Lenovo Ecosystem of Education Solutions Can Help You Empower a New Generation of Students.**  
 
-[Learn More](https://share.hsforms.com/1P_Npp_ZzTC-pE93Pqp64Tw2bxvg "Learn More")
+[Learn More](https://share.hsforms.com/134gQsMY-QHmTrUZYBqp0mA2bxvg "Learn More")
 
   
 
