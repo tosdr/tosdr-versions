@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| I Am Not OkayJelly Roll<br><br>4:39pm |
-| Man Made A BarMorgan Wallen Ft Eric Church<br><br>4:36pm |
-| TequilaDan Shay<br><br>4:33pm |
-| Pink SkiesZach Bryan<br><br>4:29pm |
-| Check Yes Or NoGeorge Strait<br><br>4:26pm |
+| You ProofMorgan Wallen<br><br>10:40pm |
+| Am I OkMegan Moroney<br><br>10:36pm |
+| Holy SmokesBailey Zimmerman<br><br>10:24pm |
+| White HorseChris Stapleton<br><br>10:20pm |
+| I Don'T Know About YouChris Lane<br><br>10:17pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,6 +360,14 @@ State
 Featured Brands
 ---------------
 
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
@@ -367,14 +375,6 @@ Spanish • Western
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
