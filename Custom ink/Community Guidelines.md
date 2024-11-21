@@ -96,8 +96,8 @@ For Fundraising Campaigns we must be highly confident all aspects of the campaig
 
 ###### Contact Us
 
-* Talk to a Real Person  
-    7 Days a Week
+* **Talk to a Real Person  
+    7 Days a Week**
 * 8am-Midnight ET Mon-Fri
 * 10am-6pm ET Saturday
 * 10am-6pm ET Sunday
@@ -116,6 +116,6 @@ Custom Ink is your source for [custom t-shirts](https://www.customink.com/produc
 * [California Privacy Notice](https://www.customink.com/about/ccpa)
 * [Accessibility Commitment](https://www.customink.com/help_center/our-commitment-to-accessibility)
 * [User Agreement](https://www.customink.com/about/user_agreement)
-* Do Not Sell My Information
+* Do Not Sell or Share My Information
 
 © 2024 CustomInk, LLC. All rights reserved.
