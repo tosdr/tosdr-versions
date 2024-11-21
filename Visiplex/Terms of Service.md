@@ -116,11 +116,11 @@ This website contains Visiplex, Inc. trademarks and service marks. All marks are
 
 [ABOUT VISIPLEX](https://www.visiplex.com/about-visiplex/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20182%2021'%3E%3C/svg%3E "visiplex_logo_blue")
 
-![](https://s19687.pcdn.co/wp-content/uploads/LogoWhite-500x55.png)
+![](https://s19687.pcdn.co/wp-content/uploads/visiplex_logo_blue.webp "visiplex_logo_blue")
 
-Recognized worldwide as a leading manufacturer of wireless PA paging systems, two-way intercom, emergency notification solutions, break bell systems, time synchronization solutions and more.
+Recognized worldwide as a leading manufacturer of wireless PA paging systems, emergency notification solutions, two-way intercom, break bell systems, weather alert solutions, time synchronization solutions, and more.
 
 [Compliance](https://www.visiplex.com/compliance/)
 
@@ -130,17 +130,17 @@ Recognized worldwide as a leading manufacturer of wireless PA paging systems, tw
 
 [Terms of Sale](https://www.visiplex.com/terms-of-sale/)
 
+![Made in the USA](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20220%20220'%3E%3C/svg%3E "made_in_america")
+
+![Made in the USA](https://s19687.pcdn.co/wp-content/uploads/made_in_america.webp "made_in_america")
+
 **CONTACT**  
 (847) 229-0250  
 info@visiplex.com  
 1287 Barclay Blvd  
 Buffalo Grove, IL 60089
 
-© Visiplex, Inc. | All Rights Reserved. All Visiplex marks contained herein are trademarks of Visiplex and/or its affiliated companies.
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://s19687.pcdn.co/wp-content/uploads/made-in-usa-300px.png)
+© 2024 Visiplex, Inc. | All Rights Reserved. All Visiplex marks contained herein are trademarks of Visiplex and/or its affiliated companies.
 
 [](https://www.facebook.com/visiplexinc/ "Facebook")[](https://www.youtube.com/c/Visiplex/videos "YouTube")[](https://twitter.com/visiplexinc "Twitter")[](https://www.linkedin.com/company/visiplex-inc/mycompany/ "LinkedIn")
 
