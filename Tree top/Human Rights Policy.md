@@ -42,11 +42,13 @@
     
     Featured
     
-    ##### It’s a fresh new way to grab Tree Top favorites.
+    ##### Welcome to the second-busiest "apple" store on Black Friday.
+    
+    ![New!](https://treetop.com/wp-content/themes/TreeTop2024/assets/img/bf-apple.png)
+    
+    ##### Get FREE SHIPPING on your online order of $25 or more – now through Cyber Monday.
     
     [Order online today!](https://www.treetop.com/products)
-    
-    ![New!](https://treetop.com/wp-content/themes/TreeTop2024/assets/img/order-online-nav.png)
     
     Featured
     
