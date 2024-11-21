@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Henry Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=36306985)  
-NIMAWELL
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=182405234)  
+Norton Medical & Consult - Namibia
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=126728628)  
-Vplay Letsheng Mall
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=123338904)  
+kidoscabbie
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=1591972)  
-Redlum Group (Pty) Ltd
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=206962665)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=214615131)  
-Sophia's Roses
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=120930732)  
+Gemini-IT Group
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=10382609)  
-NGB HOLDINGS PTY LTD
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=118292130)  
+TRACKFORCE (Pty) Ltd
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=132094252)  
-LEONARD
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=213517330)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=45456110)  
-WIP Digital Solutions
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=49038200)  
+SR Travel Services
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=3667143)  
-OptaServ
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=31697673)  
+Henry's Home Renovations
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=78448113)  
-Frequency Fanatics (Pty) Ltd
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=28266253)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=93290519)  
-NJR ICT Services (Pty) Ltd
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=35248234)  
+CBR Verwe/Paints
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=9604195)  
-Fox Alarms & Security
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=17801908)  
+SLOANE STAR MEAT MARKET
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=60610243)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=25984465)  
+Myfinance-Online
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=178224002)  
-Three Moons Emporium
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=168535362)  
+Prosper Park
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=104384773)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=58824123)  
+NEW BEGINNINGS DESIGNS
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=61319172)  
-Roamfree Boerdery (PTY) LTD
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=4a96b6d97e506ebee686aae7ab6b0f223687a05de60abe4ffcd43c5109ede6d1&c=134224234)  
+Karino Merinos ( PTY ) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
