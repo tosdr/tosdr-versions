@@ -17,7 +17,7 @@ Login with username, password and session length
 News:
 -----
 
-All forum announcements and updates are posted [here](https://www.thefurryforum.com/forums/index.php?board=17.0)!
+Other smiley sets available - you change the species by going to **Profile > Look and Layout > Smiley Set**!
 
   
   
