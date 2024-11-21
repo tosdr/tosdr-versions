@@ -93,7 +93,7 @@ We use a distributed storage backend - so your data is stored in a redundant way
 Accepted payments
 -----------------
 
-We accept lots of crypto currencies, like Bitcoin, Litecoin, Monero, ZCash, Ethereum ... and we even support Paypal.
+We accept lots of crypto currencies, like Bitcoin, Litecoin, Monero, ZCash, Ethereum ... and we even support PayPal.
 
 ![Bitcoin](/static/img/btc.svg) ![Litecoin](/static/img/ltc.svg) ![PayPal](/static/img/paypal.svg) ![Monero](/static/img/xmr.svg) ![ZCash](/static/img/zec.svg)
 
