@@ -283,245 +283,71 @@ Language Country selection
 Welcome to Medela
 =================
 
-THE SCIENCE OF CARE
+#### We believe in turning science into care.   
+Offering solutions based on deep insights into research and nature.  
+Listening to real needs.  
+For the benefit of mothers, patients and healthcare professionals.
+
+Accessible Responsive Video Carousel
+
+❮
+
+ Your browser does not support the video tag.
+
+A video explaining the wonders of breastmilk.
+
+ Your browser does not support the video tag.
+
+A video showcasing the breast shield technology.
+
+❯
+
+How we turn Science into Care
+-----------------------------
+
+[![](/000-homepage/8139/image-thumb__8139__card/symphony_home_rental_hp.5b7c25fe.jpg)
+
+### We got you, Mama
+
+Breastfeeding solutions, not just products.](https://www.medela.us/en-us/breastfeeding-pumping/products)[![](/000-homepage/8138/image-thumb__8138__card/symphony_hospital_hp.9befbebb.jpg)
+
+### Supporting you supporting mums
+
+Our service for lactation professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)[![Doctors in an operating room with a patient. The room can be seen from the center to the ceiling, the patient himself is not depicted.](/200-surgical-and-woundcare/3605/image-thumb__3605__card/jcr_content.6bbe73d8.jpg)
+
+### Trusted medical vacuum solutions
+
+Digital drainage and surgical suction](https://www.medela.us/en-us/surgical-woundcare)
+
+[![](/000-homepage/8139/image-thumb__8139__card/symphony_home_rental_hp.5b7c25fe.jpg)
+
+### We got you, Mama
+
+Breastfeeding solutions, not just products.](https://www.medela.us/en-us/breastfeeding-pumping/products)
+
+[![](/000-homepage/8138/image-thumb__8138__card/symphony_hospital_hp.9befbebb.jpg)
+
+### Supporting you supporting mums
+
+Our service for lactation professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
+
+[![Doctors in an operating room with a patient. The room can be seen from the center to the ceiling, the patient himself is not depicted.](/200-surgical-and-woundcare/3605/image-thumb__3605__card/jcr_content.6bbe73d8.jpg)
+
+### Trusted medical vacuum solutions
+
+Digital drainage and surgical suction](https://www.medela.us/en-us/surgical-woundcare)
+
+![Mother holding baby and both smiling at one another](/300-about-medela/science-of-care/observing-research/4693/image-thumb__4693__text-image-hero/science-of-care-baby-smiles-at-her-mother-2-.82e8d724.jpg)
+
+Why Choose Medela?
+------------------
+
+The Science of Care
 -------------------
 
-#### Through advancing research, observing natural behaviour and listening to our customers, we turn science into care, nurturing health for generations.
+Over the last 60 years, our company has been devoted to the science of making the most delicate form of care simple, intuitive, and effective.
 
-![Wide image showing Medela Swing Maxi, Medela Purelan, Medela Contact Nipple Shields, Medela Collection Containers, Medela Hands-free collection cups, Medela Freestyle Hands-free pump, Medela Breast Massage Oil, Medela Symphony Pump](/000-homepage/4732/image-thumb__4732__cta-image/medela-product-range.f1fad95b.png)
-
-[View our products](https://www.medela.us/en-us/breastfeeding-pumping/products)
-
-Our most popular articles
--------------------------
-
-AllBreastfeeding ChallengesBreastfeeding TipsInclusive Breast Milk FeedingPacifierPower of Breast MilkPregnancy & PreparationPumping Tips
-
-[![Mother breastfeeding her baby, highlighting the benefits for both mother and child](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2117/image-thumb__2117__card/ev1_6b_breast_milk_supply.9a3e9e31.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/too-much-breast-milk-how-to-reduce-oversupply)
-
-Breastfeeding Challenges
-
-### Too much breast milk? How to reduce oversupply
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/too-much-breast-milk-how-to-reduce-oversupply)
-
-[![breastfeeding woman with nipple pain ](/medela-com/breastfeeding-consumer/pictures/general/advice/2201/image-thumb__2201__card/breastfeeding-woman-with-nipple-pain.88f03fb4.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/sore-nipples)
-
-Breastfeeding Challenges
-
-### Sore nipples
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/sore-nipples)
-
-[![A mother is at home breastfeeding her baby.](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2118/image-thumb__2118__card/ev2_4_breast_engorgement.7c5fa706.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/what-is-breast-engorgement)
-
-Breastfeeding Challenges
-
-### What is breast engorgement?
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/what-is-breast-engorgement)
-
-Load More
-
-[![Mother breastfeeding her baby, highlighting the benefits for both mother and child](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2117/image-thumb__2117__card/ev1_6b_breast_milk_supply.9a3e9e31.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/too-much-breast-milk-how-to-reduce-oversupply)
-
-Breastfeeding Challenges
-
-### Too much breast milk? How to reduce oversupply
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/too-much-breast-milk-how-to-reduce-oversupply)
-
-[![breastfeeding woman with nipple pain ](/medela-com/breastfeeding-consumer/pictures/general/advice/2201/image-thumb__2201__card/breastfeeding-woman-with-nipple-pain.88f03fb4.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/sore-nipples)
-
-Breastfeeding Challenges
-
-### Sore nipples
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/sore-nipples)
-
-[![A mother is at home breastfeeding her baby.](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2118/image-thumb__2118__card/ev2_4_breast_engorgement.7c5fa706.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/what-is-breast-engorgement)
-
-Breastfeeding Challenges
-
-### What is breast engorgement?
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/what-is-breast-engorgement)
-
-Load More
-
-[![](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2112/image-thumb__2112__card/ev3_12_weaning_stopping_breastfeeding.0d596662.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-tips/weaning-when-and-how-to-stop-breastfeeding)
-
-Breastfeeding Tips
-
-### Weaning: When and how to stop breastfeeding
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-tips/weaning-when-and-how-to-stop-breastfeeding)
-
-[![sore nipples and nipples changing colour after breasfeeding](/020-articles/amazing-science-of-mother-milk-ebook/breastfeeding-tips/6842/image-thumb__6842__card/au-extremely-sore-nipples-nipples-changing-colour-after-breastfeeding-could-it-be-vasospasm.26721986.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-tips/6-months-and-beyond-long-term-benefits-of-breastfeeding)
-
-Breastfeeding Tips
-
-### 6 months and beyond: Long-term benefits of breastfeeding
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-tips/6-months-and-beyond-long-term-benefits-of-breastfeeding)
-
-[![Baby drinking breast milk directly from mother's breast during breastfeeding session](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2116/image-thumb__2116__card/ev1_3-latch_on.8cd29599.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-tips/6-simple-steps-to-a-good-breastfeeding-latch)
-
-Breastfeeding Tips
-
-### 6 simple steps to a good breastfeeding latch
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-tips/6-simple-steps-to-a-good-breastfeeding-latch)
-
-Load More
-
-[![Nurse feeding a baby with a Medela SpecialNeeds Feeder](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/4057/image-thumb__4057__card/1nicu_special_needs_feeding.a6d2625b.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/inclusive-breastmilk-feeding/what-is-the-medela-specialneeds-feeder)
-
-Inclusive Breast Milk Feeding
-
-### What is the Medela SpecialNeeds Feeder?
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/inclusive-breastmilk-feeding/what-is-the-medela-specialneeds-feeder)
-
-[![Medela advice breastfeeding special needs baby](/medela-com/breastfeeding-professional/pictures/general/advice/2214/image-thumb__2214__card/medela-advice-breastfeeding-special-needs-baby.fbc11ee9.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/inclusive-breastmilk-feeding/feeding-a-special-needs-baby)
-
-Inclusive Breast Milk Feeding
-
-### Feeding a special needs baby
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/inclusive-breastmilk-feeding/feeding-a-special-needs-baby)
-
-[![](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2152/image-thumb__2152__card/ev2_6_breastfeeding_premature_baby.372e8d0e.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/inclusive-breastmilk-feeding/feeding-your-premature-baby-breast-milk)
-
-Inclusive Breast Milk Feeding
-
-### Feeding your premature baby breast milk
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/inclusive-breastmilk-feeding/feeding-your-premature-baby-breast-milk)
-
-Load More
-
-[![Mom holding baby while wearing the Medela Freestyle™ Hands-free double electric wearable breast pump](/fallback-images/2025/image-thumb__2025__card/fallback-image.ae538cdb.png)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pacifiers/are-pacifiers-good-for-your-baby-medela-baby)
-
-Pacifier
-
-### Are pacifiers good for your baby? | Medela Baby
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pacifiers/are-pacifiers-good-for-your-baby-medela-baby)
-
-[![](/medela-com/breastfeeding-consumer/pictures/products/baby/2135/image-thumb__2135__card/2020.09.10-medela_08760.cb97ecfe.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pacifiers/when-and-how-to-introduce-a-dummy-to-a-baby)
-
-Pacifier
-
-### When and how to introduce a dummy to a baby
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pacifiers/when-and-how-to-introduce-a-dummy-to-a-baby)
-
-[![](/medela-com/breastfeeding-consumer/pictures/products/baby/products/night-night/2177/image-thumb__2177__card/night---night-mother-kissing-sleeping-baby--1-.8d9e8d45.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pacifiers/can-a-baby-sleep-with-a-dummy-or-should-i-remove)
-
-Pacifier
-
-### Can a baby sleep with a dummy or should I remove
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pacifiers/can-a-baby-sleep-with-a-dummy-or-should-i-remove)
-
-[![Illustration of the composition of breast milk and its nutrients in Medela breast milk bottles.](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2123/image-thumb__2123__card/k1_breast_milk_composition.3355ac2a.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/power-of-breastmilk/breast-milk-composition-what-s-in-your-breast-milk)
-
-Power of Breast Milk
-
-### Breast milk composition: What’s in your breast milk?
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/power-of-breastmilk/breast-milk-composition-what-s-in-your-breast-milk)
-
-[![](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2136/image-thumb__2136__card/k6_colostrum.dde3158a.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/power-of-breastmilk/why-is-colostrum-so-important)
-
-Power of Breast Milk
-
-### Why is colostrum so important?
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/power-of-breastmilk/why-is-colostrum-so-important)
-
-[![Benefits of breastfeeding for mums](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2138/image-thumb__2138__card/k4_breastfeeding_benefits_for_mum.d079652a.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/power-of-breastmilk/what-are-the-benefits-of-breastfeeding-for-mums)
-
-Power of Breast Milk
-
-### What are the benefits of breastfeeding for mums?
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/power-of-breastmilk/what-are-the-benefits-of-breastfeeding-for-mums)
-
-Load More
-
-[![breast changes from pregnancy to weaning, highlighting the stages of lactation and breastfeeding](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2089/image-thumb__2089__card/ev1_1-breast_changes_during_pregnancy.4a990161.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pregnancy-preparation/breast-changes-from-pregnancy-to-weaning)
-
-Pregnancy & Preparation
-
-### Breast changes from pregnancy to weaning
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pregnancy-preparation/breast-changes-from-pregnancy-to-weaning)
-
-[![Mother holding newborn baby face-to-face.](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/4738/image-thumb__4738__card/newborn-baby-with-mother.923b3a22.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pregnancy-preparation/what-to-expect-when-bringing-your-baby-home)
-
-Pregnancy & Preparation
-
-### What to expect when bringing your baby home
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pregnancy-preparation/what-to-expect-when-bringing-your-baby-home)
-
-[![A pregnant woman carrying a maternity bag.](/020-articles/amazing-science-of-mother-milk-ebook/pregnancy-preparation/2083/image-thumb__2083__card/ev1_2_maternity_bag_main.49cbbbcc.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pregnancy-preparation/six-breastfeeding-essentials-for-your-maternity-bag)
-
-Pregnancy & Preparation
-
-### Six breastfeeding essentials for your maternity bag
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pregnancy-preparation/six-breastfeeding-essentials-for-your-maternity-bag)
-
-Load More
-
-[![A set of Medela Hands-free Collection Cups with a Medela classic PersonalFit Flex™ double pumping kit, tubes not shown, sitting on a counter.](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/existing-articles/2088/image-thumb__2088__card/breast_shield_size.a8ad8755.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pumping-tips/choosing-your-medela-breast-shield-size)
-
-Pumping Tips
-
-### Choosing your Medela breast shield size
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pumping-tips/choosing-your-medela-breast-shield-size)
-
-[![A mother washes Medela breast milk bottles and lays them on a towel to dry.](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2140/image-thumb__2140__card/ev3_11b-cleaning-and-sanitising.f77484de.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pumping-tips/cleaning-your-breast-pump-equipment)
-
-Pumping Tips
-
-### Cleaning your breast pump equipment
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pumping-tips/cleaning-your-breast-pump-equipment)
-
-[![Woman with a Medela breast pump navigating through airport security with a carry-on bag](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2141/image-thumb__2141__card/ev3_9_travelling_and_pumping.d065be09.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pumping-tips/travel-with-your-breast-pump-expressing-on-the-go)
-
-Pumping Tips
-
-### Travel with your breast pump: Expressing on the go
-
-[Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pumping-tips/travel-with-your-breast-pump-expressing-on-the-go)
-
-Load More
-
-![Mom drinking coffee standing in kitchen wearing Medela Freestyle™ Hands-free double electric wearable breast pump](/010-products/010-pumps/010-hands-free-electric/010-freestyle-hands-free/lifestyle-images/167/image-thumb__167__text-image-hero/freestyle-hf-1-2-.84c36a2c.png "Freestyle™ Hands-free double electric wearable breast pump")
-
-### Featured Product
-
-Freestyle™ Hands-free Double Electric Wearable Breast Pump
-----------------------------------------------------------
-
-Say hello to Medela’s smallest and first wearable hands-free double electric breast pump.
-
-[Find out more](https://breastfeedingsupply.com/product/020451441641)
-
-![Woman holding a baby and talking with a lactation professional](/050-lactation-professionals/4725/image-thumb__4725__text-image-basic/lactation-professionals.c7fd6b74.jpg)
-
-Lactation Professionals
------------------------
-
-Dedicated articles and whitepapers specifically for professionals working in the breastfeeding field
-
-[Find out more](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
+[Find out more](https://www.medela.us/en-us/about-medela/who-we-are/science-of-care)
 
 ![Medela Family logo](/070-app-teaser/2056/image-thumb__2056__app-banner-title-image/medela-family-logo.9fd72439.png)
 
