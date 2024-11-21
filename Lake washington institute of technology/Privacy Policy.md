@@ -1,6 +1,6 @@
 **
 
-The LWTech campus and Early Learning Center are closed today, 11/20/24. Campus and Early Learning Center will open at 9 a.m. on Thursday, 11/21. Students should check Canvas for further instructions. Employees, please coordinate with your supervisors.
+The LWTech campus and Early Learning Center will open at 9 a.m. on Thursday, 11/21.  Students should check Canvas for further instructions. Employees, please coordinate with your supervisors.
 
 **close alert
 
