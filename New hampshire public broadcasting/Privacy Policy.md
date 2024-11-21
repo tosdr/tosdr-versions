@@ -184,14 +184,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Brooklyn Tower and the Wrigley Building** | Songs About Buildings and Moods](https://video.nhpbs.org/video/brooklyn-tower-and-the-wrigley-building-xcecqx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer** | Too Hot to Handel: The Gospel Messiah](https://video.nhpbs.org/video/too-hot-to-handel-the-gospel-messiah-jfcfnm?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Wicked** | Flicks](https://video.nhpbs.org/video/wicked-dvjrby?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Extended Readers Club Leonardo Da Vinci** | PBS Books](https://video.nhpbs.org/video/extended-readers-club-leonardo-da-vinci-usp316?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 20, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-20-2024-pbs-news-hour-full-episode-1732078801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Building Stuff: Change It! Preview** | NOVA](https://video.nhpbs.org/video/building-stuff-change-it-preview-j3zdmn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Spicy** | Pan Pals](https://video.nhpbs.org/video/spicy-xhcav0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Federal workers brace for Trump's civil service plans** | PBS News Hour](https://video.nhpbs.org/video/government-overhaul-1732053727?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 19, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-19-2024-mcsj4x?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**50 Years of** | Austin City Limits](https://video.nhpbs.org/video/50-years-of-austin-city-limits-6grfz3?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Coming 2025** | | The American Revolution](https://video.nhpbs.org/video/the-american-revolution-coming-2025-muwhjq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Be Too Much United States of Comedy, Ep 2** | Independent Lens](https://video.nhpbs.org/video/united-states-of-comedy-episode-2-jupb7e?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
