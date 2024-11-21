@@ -1,6 +1,6 @@
 top of page
 
-[![muxy logo](https://static.wixstatic.com/media/a2cb6a_b99010fbf95449babce88295ac65d61b~mv2.png/v1/fill/w_214,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/muxy_logo_light.png)](https://www.muxy.io/)
+[![muxy logo](https://static.wixstatic.com/media/a2cb6a_b99010fbf95449babce88295ac65d61b~mv2.png/v1/fill/w_214,h_52,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/muxy_logo_light.png)](https://www.muxy.io/)
 
 * [Home](https://www.muxy.io/)
 * [Products](https://www.muxy.io/products)
@@ -439,13 +439,13 @@ Last Modified: May 24, 2017
 
 [](https://www.muxy.io/)
 
-[![twitter social icon link](https://static.wixstatic.com/media/a2cb6a_619a29da20f149cb9378312128155e22~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/twitter-icon.png)](https://twitter.com/muxyatx?lang=en)
+[![twitter social icon link](https://static.wixstatic.com/media/a2cb6a_619a29da20f149cb9378312128155e22~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/twitter-icon.png)](https://twitter.com/muxyatx?lang=en)
 
-[![Discord social icon](https://static.wixstatic.com/media/a2cb6a_51c13f8e0031446f9aa2c330648c7fc7~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/discord-icon.png)](https://bit.ly/2WxLxTq)
+[![Discord social icon](https://static.wixstatic.com/media/a2cb6a_51c13f8e0031446f9aa2c330648c7fc7~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/discord-icon.png)](https://bit.ly/2WxLxTq)
 
-[![YouTube social Icon](https://static.wixstatic.com/media/a2cb6a_6fa5359a44c14edfb9303cd694255681~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/youtube-icon.png)](https://www.youtube.com/channel/UC7MKw1jw6EQQ8wjpvoSGTPw)
+[![YouTube social Icon](https://static.wixstatic.com/media/a2cb6a_6fa5359a44c14edfb9303cd694255681~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/youtube-icon.png)](https://www.youtube.com/channel/UC7MKw1jw6EQQ8wjpvoSGTPw)
 
-[![GitHub social icon](https://static.wixstatic.com/media/a2cb6a_fde6eaa17b044e19a4921967e4e90b37~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/github-social.png)](https://github.com/muxy)
+[![GitHub social icon](https://static.wixstatic.com/media/a2cb6a_fde6eaa17b044e19a4921967e4e90b37~mv2.png/v1/fill/w_50,h_50,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/github-social.png)](https://github.com/muxy)
 
 [HOME](https://www.muxy.io/)
 
