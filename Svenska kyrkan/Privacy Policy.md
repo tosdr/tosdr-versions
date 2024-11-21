@@ -1260,6 +1260,8 @@ Sök Meny
                     
         * [Ruotsinsuomalaisten juhlat](https://www.svenskakyrkan.se/ruotsinsuomalaisten-juhlat)
             
+            * [Suomen itsenäisyyspäivä](https://www.svenskakyrkan.se/suomen-itsenaisyyspaiva)
+                
             * [Sverigefinnarnas dag den 24 februari](https://www.svenskakyrkan.se/sverigefinnars-dag)
                 
             * [Äitienpäivä](https://www.svenskakyrkan.se/aitienpaiva)
