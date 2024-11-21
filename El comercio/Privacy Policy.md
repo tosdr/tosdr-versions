@@ -31,881 +31,1007 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-A Nicolás Maduro tampoco le gustó la canción +57
-================================================
+Daniel Noboa emitió veto parcial al proyecto de Ley de Cuidados Paliativos
+==========================================================================
 
-Nicolás Maduro expresó su descontento con la canción +57.
+El veto parcial de Daniel Noboa al proyecto de Ley de Cuidados Paliativos abarca aspectos de inconstitucionalidad y de inconveniencia.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![El veto parcial de Daniel Noboa al proyecto de Ley de Cuidados Paliativos tiene dos ejes.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-veto-ley-cuidados-paliativos.jpg)
+
+El presidente **Daniel Noboa** emitió un veto parcial al proyecto de L**ey Orgánica de Cuidados Paliativos**, el 18 de noviembre de 2024.
+
+La objeción parcial de Noboa tiene dos ejes: **inconveniencia e inconstitucionalidad**.
+
+### Más noticias:
+
+* [Asamblea aprobó proyecto de Ley de Cuidados Paliativos ¿A quiénes beneficia?](https://www.elcomercio.com/actualidad/ecuador/asamblea-aprobo-proyecto-de-ley-de-cuidados-paliativos-a-quienes-beneficia.html "Asamblea aprobó proyecto de Ley de Cuidados Paliativos ¿A quiénes beneficia?")
+* [Esta es la realidad de los cuidados paliativos en Ecuador y los beneficios que se buscan con la aprobación de una ley](https://www.elcomercio.com/actualidad/ecuador/cuidados-paliativos-ecuador-ley-beneficios-realidad.html "Esta es la realidad de los cuidados paliativos en Ecuador y los beneficios que se buscan con la aprobación de una ley")
+
+Veto parcial de Daniel Noboa al proyecto de Ley de Cuidados Paliativos
+----------------------------------------------------------------------
+
+El veto parcial del Ejecutivo dispone **siete objeciones por inconstitucionalidad y 14 por inconveniencia**.
+
+### Veto parcial por inconstitucionalidad
+
+En las de inconstitucionalidad, el presidente Daniel Noboa señala la creación de un S**istema Nacional de Cuidados Paliativos adicional** o paralelo al Sistema Nacional de Salud.
+
+Esto vulneraría el derecho a la **seguridad jurídica** consagrado en el artículo 82 de la Constitución.
+
+“Proponer la creación del “Sistema Nacional de Cuidados Paliativos” **segmenta y fracciona** al Sistema Nacional de Salud, ocasionando su debilitamiento”, asegura.
+
+Además, la **“coexistencia de sistemas**” requeriría de distintas modalidades de financiamiento,  
+funcionamiento, afiliación y provisión, cuestiones que no han sido consideradas en el proyecto de Ley.
+
+El Ejecutivo agrega que el texto de la Asamblea tampoco señala **el alcance de los servicios** que se proporcionarán a los familiares de los pacientes de cuidados paliativos.
+
+“Dejando de lado, además, la regulación respecto hasta qué **grado de consanguinidad o afinidad** se brindará atención a los familiares”.
+
+Noboa señala que crear un nuevo sistema, implica incremento en el **gasto público**, facultad que solo la tiene el Presidente de la República en iniciativas legales.
+
+“Sin considerar la **atribución privativa** del señor Presidente de la República para asignar recursos en función de la planificación nacional”.
+
+Sobre estas objeciones por inconstitucionalidad, el Presidente solicitó a la **Corte Constitucional** que dictamine la inconstitucionalidad.
+
+### Veto parcial de Daniel Noboa por inconveniencia al proyecto de Ley de Cuidados Paliativos
+
+Entre las 14 objeciones por inconveniencia, el presidente Daniel Noboa sugiere agregar que, para las personas que se encuentren en **situación de abandono o sin referente familiar**, y cuando no se encuentren en capacidad de decidir su tratamiento, la Autoridad Sanitaria Nacional establecerá el mejor tratamiento posible.
+
+Propone incluir en el articulado los principios de **bioética e interculturalidad**.
+
+Señala que la calificación de cuidados paliativos como un derecho humano en el proyecto de Ley, implica una situación **“supra constitucional”**.
+
+Sugiere eliminar el artículo que dispone a las prefecturas y municipios la **coordinación de acciones** y la realización de estudios y seguimientos.
+
+Así como la incorporación de **recursos** para cubrir lo dispuesto en el proyecto de Ley en sus planificaciones anuales.
+
+Esto, porque se estaría **sobrepasando las competencias** constitucionales y legales que poseen estos niveles de gobierno, así como el respeto a su autonomía.
+
+Líder republicano veta a legisladora trans de usar baño de mujeres en Congreso de Estados Unidos
+================================================================================================
+
+La legisladora trans del Congreso de Estados Unidos respondió al veto.
+----------------------------------------------------------------------
+
+![La legisladora trans está en el Congreso de Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/11/legisladora-trans-estados-unidos.jpg)
+
+El presidente de la Cámara de Representantes de Estados Unidos y líder republicano, **Mike Johnson**, vetó a la primera legisladora trans elegida al Congreso, Sarah McBride, de usar los baños de mujeres.
+
+Johnson subrayó que “las mujeres merecen espacios solo para **mujeres**”, este miércoles 20 de noviembre de 2024.
+
+### Más noticias:
+
+* [Estados Unidos veta resolución de la ONU que pide alto el fuego en Gaza](https://www.elcomercio.com/actualidad/mundo/estados-unidos-veta-resolucion-onu-pide-alto-fuego-gaza.html "Estados Unidos veta resolución de la ONU que pide alto el fuego en Gaza")
+* [Kristi Noem será la secretaria de Seguridad Nacional de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/kristi-noem-sera-secretaria-seguridad-nacional.html "Kristi Noem será la secretaria de Seguridad Nacional de Estados Unidos")
+
+Veto a legisladora trans en el Congreso de Estados Unidos
 ---------------------------------------------------------
 
-![Maluma y J Balvin también participaron en la grabación de +57. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-20T142443.129.jpg)
+En el **comunicado** del líder republicano se indicó que el uso de los baños del Capitolio está reservado para los individuos, conforme “a su sexo biológico”.
 
-**Nicolás Maduro**, presidente de **Venezuela**, expresó su descontento con la canción **+57**. El tema es una colaboración entre varios **reguetoneros** colombianos como **Karol G, Maluma y J Balvin.**
+“Las mujeres merecen tener espacios solo para mujeres”, apuntó Johnson, del ala más a la derecha del **Partido Republicano**.
 
-En su programa ‘**Con Maduro** **+**‘, transmitido el 18 de noviembre, calificó el tema como “basura”, argumentando que tanto la letra como el video promueven el consumo de drogas y la sexualización de las mujeres.
+Esa formación ha usado el acceso a los baños para atacar a **McBride**, la primera persona transgénero en ser elegida para la Cámara de Representantes de Estados Unidos, que asumirá el cargo el 3 de enero.
 
-### **Más noticias**
+En su cuenta de X, la legisladora dijo que se acatará a las normas, aunque “**esté en desacuerdo**”.
 
-* [+57 de Karol G, Maluma, Feid… podría salir de las plataformas digitales](https://www.elcomercio.com/tendencias/entretenimiento/polemica-cancion-maluma-57-controversia-feid.html "https://www.elcomercio.com/tendencias/entretenimiento/polemica-cancion-maluma-57-controversia-feid.html")
-* [Karol G pide disculpas ‘de corazón’ por la canción +57](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-musica-criticas-fans-nueva-cancion-57.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-musica-criticas-fans-nueva-cancion-57.html")
-* [The Beatles regresan a los Grammy tras 27 años con un tema que utiliza IA](https://www.elcomercio.com/tendencias/entretenimiento/the-beatles-grammy-regreso-nueva-cancion-inteligencia-artificial.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/the-beatles-grammy-regreso-nueva-cancion-inteligencia-artificial.html?source=Internal&ref=Single+Content+Link")
+“No estoy aquí para pelear sobre baños, sino por las personas de **Delaware** (el estado que representa)”, indicó.
 
-**¿Qué más dijo Nicolás Maduro sobre la canción +57?**
+La decisión de Johnson llega después de que **Nancy Mace**, representante republicana de Carolina del Sur, presentara una resolución para modificar las reglas de la Cámara de Representantes y prohibir que McBride use los baños de mujeres del Capitolio.
+
+“Es un **hombre biológico**” y “no pertenece a los espacios de mujeres, baños de mujeres y vestuarios”, dijo a la prensa el lunes.
+
+### La justificación para veto a legisladora trans de Estados Unidos
+
+Esta petición tuvo el apoyo de figuras como la representante por **Georgia Marjorie Taylor Greene**.
+
+“Es un hombre biológico y no debería usar ninguno de nuestros baños en el **Capitolio**, y menos en nuestros edificios de oficinas. Pero la resolución de Nancy Mace no es suficiente”, dijo.
+
+McBride derrotó en las elecciones del pasado 5 de noviembre al **candidato republicano** John Whalen III.
+
+La política resultó elegida para el Senado de Delaware en 2021 y se convirtió en la primera persona transgénero en ocupar un puesto de **senadora estatal** en EE.UU.
+
+### Biden rechazó la discriminación
+
+El presidente de Estados Unidos, **Joe Biden**, reivindicó que las personas trans merecen trato “con dignidad y respeto”.
+
+Biden lamentó los **“horribles ataques”** que sufre el colectivo.
+
+> “No debería haber lugar para el odio en Estados Unidos y, sin embargo, demasiados estadounidenses **transgénero**, incluidos jóvenes, son cruelmente perseguidos y sufren **acoso** simplemente por ser ellos mismos”, declaró Biden, en un comunicado con motivo del Día Internacional de la Memoria de las Personas Transgénero.
+
+El presidente aseguró que bajo su mandato, que concluirá el próximo **20 de enero**, cuando lo relevará Donald Trump, se han tomado medidas para “combatir la violencia contra los estadounidenses transgénero”.
+
+“Todos los estadounidenses merecen ser tratados con **dignidad y respeto**, y vivir libres de discriminación”, subrayó.
+
+Femicida recibió sentencia por cometer cruel asesinato en Imbabura
+==================================================================
+
+Un tribunal sentenció a Roberto F. con una pena agravada tras comprobarse su autoría en el femicidio de Kerly G., de 17 años.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![El autor del femicidio de Kerly utilizó un machete para cometer el delito](https://www.elcomercio.com/wp-content/uploads/2024/11/prision-femicidio-imbabura.jpg)
+
+El Tribunal de Garantías Penales de Imbabura **sentenció** a un hombre a **prisión** tras comprobar su culpabilidad como **autor del femicidio** de su pareja. El crimen conmocionó a los habitantes de esa provincia por la **forma** que se cometió.
+
+### Más noticias
+
+* [Policía recuperó cinco osamentas humanas en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-osamentas-humanas-guayaquil.html "Policía recuperó cinco osamentas humanas en Guayaquil")
+* [Caso Pamela Ati: Fiscalía tomó una decisión final](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-fiscalia-decision-final.html "Caso Pamela Ati: Fiscalía tomó una decisión final")
+* [‘Martillador’ de Urdesa recibió sentencia luego de 13 años de cometido el crimen](https://www.elcomercio.com/actualidad/guayaquil/martillador-urdesa-sentencia-crimen.html "‘Martillador’ de Urdesa recibió sentencia luego de 13 años de cometido el crimen")
+
+Según detalló la Fiscalía, **Kerly G.** asistió a un repaso de un rito religioso en la iglesia de su barrio Mariano Acosta con un grupo de amigos**.** El hecho ocurrió la noche del 27 de marzo de 2024.
+
+A las **22:00**, la menor de edad salió de este lugar para trasladarse a su domicilio, ubicado en el cantón **Pimampiro**. Un amigo se ofreció acompañarla.
+
+En el trayecto, los jóvenes fueron sorprendidos por **Roberto Carlos F.**, pareja sentimental de Kerly, y otro individuo. El hombre increpó a la adolescente y a su amigo por caminar juntos y **los agredió con un machete**[.](https://www.fiscalia.gob.ec/ "https://www.fiscalia.gob.ec/")
+
+El acompañante **logró huir** para pedir ayuda; mientras que la menor fue subida a la fuerza a la motocicleta en la que se movilizaban ambos hombres.
+
+Autopsia reveló detalles del asesinato
+--------------------------------------
+
+La Policía encontró el **cuerpo sin vida** de Kerly al día siguiente. Estaba **enterrado** en un páramo cercano del sector.
+
+La **autopsia médico-legal** determinó que la causa de su muerte fue una hemorragia cerebral, fractura de cráneo y trauma craneoencefálico. Fueron provocados por **cinco heridas punzocortantes** provocadas con el machete.
+
+La víctima también presentaba **otra herida en su mano izquierda**, producto de su intento por defenderse de los ataques.
+
+Además, se reveló que tenía una **fractura en el hueso hioides**, que se encuentra debajo de la mandíbula, en lo que pudo ser un intento de **estrangulación**.
+
+Los dedos de los **pies de Kerly** presentaban heridas por fricción, lo que demuestra que **fue arrastrada** contra el suelo mientras era llevada en la moto, según las investigaciones.
+
+Detención del femicida
+----------------------
+
+El **menor de edad** que actuó como **cómplice** del agresor contó en su testimonio que, tras interceptar a Kerly, ambos la llevaron al sitio donde fue enterrada; en este lugar, “**Roberto la asesinó**“.
+
+Luego, regresaron hasta la casa del femicida para **bañarse y cambiarse**. La Policía acudió a la vivienda tras recibir la alerta del acompañante herido.
+
+En el lugar, los hombres **fueron capturados** y se hallaron varios indicios, entre ellas, las botas de caucho del agresor, **prendas con la sangre** de la víctima y el estuche del machete.
+
+Otras evidencias del caso fueron los **testimonios** de los amigos de Kerly, su acompañante herido y de los policías que trabajaron el caso.
+
+Así también, los informes de la pericia de la trabajadora social que concluyó que la menor de **17 años** vivía en un círculo de violencia.
+
+Femicida recibió 34 años de prisión
+-----------------------------------
+
+La adolescente cursaba su último año de bachillerato y **tenía como sueño estudiar enfermería**. Vivía con su madre y hermanos, quienes quedaron con secuelas **psicológicas** tras el femicidio.
+
+Por el asesinato de Kerly, Roberto Carlos F. fue sentenciado con una pena agravada de **34 años y ocho meses de prisión**.
+
+Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador
+=========================================================================
+
+Sebastián Beccacece, DT de la Selección de Ecuador, nombró a Willian Pacho como capitán en su último partido.
+-------------------------------------------------------------------------------------------------------------
+
+![Willian Pacho (izq.) como capitán de la Selección de Ecuador ante Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/ffc6161e213d629f1553df96c5103bb14b00f8b4.jpg)
+
+La **Selección de Ecuador** finalizó sus partidos de eliminatorias durante el 2024 y a partir de la llegada de Sebastián Beccacece hubo cambios en diversos aspectos. Desde su arribo, este ha nombrado seis capitanes distintos, uno por partido.
+
+El último futbolista de la Tri en ponerse el brazalete de capitán fue **Willian Pacho** en el duelo ante Colombia. El defensa central del PSG ocupó por primera vez dicho rol dentro del equipo nacional y sucedió a **Hernán Galíndez**.
+
+### Más noticias:
+
+* [Sebastián Beccacece planteará un Ecuador intenso ante Colombia](https://www.elcomercio.com/deportes/futbol/beccacece-ecuador-colombia-barranquilla-eliminatorias.html "Sebastián Beccacece planteará un Ecuador intenso ante Colombia")
+* [Sebastián Beccacece considera una final el Ecuador vs. Bolivia](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-considera-una-final-el-ecuador-vs-bolivia.html "Sebastián Beccacece considera una final el Ecuador vs. Bolivia")
+* [Sebastián Beccacece confirmó la baja de un titular de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-confirmo-baja-titular-ecuador-angelo-preciado.html "Sebastián Beccacece confirmó la baja de un titular de Ecuador")
+
+Con Pacho como capitán, la **Selección de Ecuador** consiguió un triunfo histórico ante Colombia y ascendió hasta el tercer puesto de las eliminatorias sudamericanas. Aquella victoria representó el primero en 59 años ante los cafeteros como visitante dentro de una fase clasificatoria.
+
+La Tri se impuso gracias a un gol de **Enner Valencia** en los primeros minutos de juego tras dejar cinco marcas y vencer al arquero. En el cotejo, Pacho estuvo presente durante los 90 minutos y mantuvo la capitanía en todo el partido[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
+
+Hernán Galíndez, otro de los capitanes de Beccacece en la Selección de Ecuador
+------------------------------------------------------------------------------
+
+En el partido previo al de la Selección de Ecuador ante Colombia, otro episodio similar en torno a las capitanías se llevó a cabo. **Hernán Galíndez**, arquero del conjunto, fue designado como el líder del equipo por primera vez durante la era de **Sebastián Beccacece**.
+
+Antes del arribo del entrenador argentino, sin embargo, este había sido capitán con otros entrenadores. Durante las etapas de **Félix Sánchez Bas y Gustavo Alfaro** también llegó a lucir el brazalete.
+
+En el duelo ante Bolivia, la Selección de Ecuador se impuso por una goleada de 4-0. Enner Valencia también anotó en dicho compromiso, al igual que **Alan Minda y Gonzalo Plata** logró conseguir un doblete.
+
+Los capitanes de la Selección de Ecuador con Beccacece
 ------------------------------------------------------
 
-Maduro, quien se refirió a la canción desde una perspectiva personal, mencionó que habla como abuelo y padre, resaltando su preocupación por el impacto que este tipo de música puede tener en los jóvenes.
+En la segunda doble fecha de eliminatorias que disputó la Selección de Ecuador de **Sebastián Beccacece**, este señaló que habría una rotación de la capitanía. Aquello obedece a que existe un liderazgo compartido dentro de la escuadra.
 
-“A veces ves niñas de 2 a 4 años repitiendo la canción automáticamente”, comentó, enfatizando que ese contenido puede influir negativamente en su desarrollo.
+Los jugadores que han sido capitanes durante la era de Beccacece son Enner Valencia, Moisés Caicedo, Piero Hincapié y Pervis Estupiñán. A ellos se les suman **Hernán Galíndez y Willian Pacho** a partir de las últimas actuaciones.
 
-> [View this post on Instagram](https://www.instagram.com/p/DCFu-RfIivQ/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by MALUMA (@maluma)](https://www.instagram.com/p/DCFu-RfIivQ/?utm_source=ig_embed&utm_campaign=loading)
-
-El mandatario también criticó la normalización de comportamientos perjudiciales en la cultura popular, instando a los padres a proteger a sus hijos de lo que considera mensajes nocivos.
-
-“Necesitamos **vacunar** a nuestros niños para crear inmunidad ante estas agresiones”, afirmó.
-
-Su declaración se suma a una creciente ola de críticas hacia la **canción**, que generó un intenso debate en redes sociales y medios de comunicación sobre los valores transmitidos en la música urbana.
-
-**+57 sigue sumando críticas por su contenido**
------------------------------------------------
-
-Otros **líderes políticos**, incluidos el presidente colombiano **Gustavo Petro** y diversas instituciones, también expresaron su rechazo.
-
-El **Instituto Colombiano de Bienestar Familiar** (ICBF) se pronunció en contra del contenido de +57, sugiriendo que fomenta la sexualización temprana entre los menores.
-
-A pesar de las críticas, +57 logró un notable éxito en plataformas digitales, acumulando millones de reproducciones desde su lanzamiento.
-
-Daniel Noboa: ‘En diciembre se acabarán los apagones’
-=====================================================
-
-Daniel Noboa habló durante la seremonia de los 177 años de provincialización de Esmeraldas.
--------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa dio las declaraciones este miércoles 20 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-20T142748.960.jpg)
-
-El presidente del Ecuador, Daniel Noboa, habló este miércoles 20 de noviembre sobre los cortes de luz durante la sesión solemne por los 177 años de provincialización de Esmeraldas.
-
-Más noticias
-------------
-
-* [Verónica Abad ya está en Ecuador y llegó para ‘dar la cara’ a Daniel Noboa](https://www.elcomercio.com/actualidad/politica/veronica-abad-ya-esta-en-ecuador-y-llego-para-dar-la-cara-a-daniel-noboa.html "Verónica Abad ya está en Ecuador y llegó para ‘dar la cara’ a Daniel Noboa")
-* [Cortes de luz afectan las ventas, pero no a usuarios de autos eléctricos](https://www.elcomercio.com/actualidad/ecuador/efecto-cortes-luz-vehiculos-electricos.html "Cortes de luz afectan las ventas, pero no a usuarios de autos eléctricos")
-* [Daniel Noboa tomó decisión sobre inversión extranjera en medios de comunicación](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-tomo-decision-sobre-inversion-extranjera-en-medios-de-comunicacion.html "Daniel Noboa tomó decisión sobre inversión extranjera en medios de comunicación")
-
-En su intervención dijo que “estamos aquí para resolver problemas. Y como lo prometí, en diciembre se acabarán los apagones y volveremos a tener una vida normal”.
-
-_Noticia en desarrollo_…
-
-Hidroeléctrica Mazar está apagada cinco días y su embalse se recupera lentamente
-================================================================================
-
-El embalse de Mazar, clave para el Complejo Hidroeléctrico Paute, enfrenta su periodo más largo fuera de operación debido a bajos caudales por falta de lluvias.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/mazar-2011.jpg)
-
-La **hidroeléctrica Mazar**, ubicada en el Austro del Ecuador, continuaba apagada hasta pasado el mediodía de este miércoles 20 de noviembre de 2024. Esta central salió de operación el viernes 15 de noviembre, cuando su embalse llegó a un **nivel crítico** por su **baja cantidad** de agua[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Mazar volvió a operar luego de tres días](https://www.elcomercio.com/actualidad/negocios/mazar-volvio-operar-luego-tres-dias.html "Mazar volvió a operar luego de tres días")
-* [El embalse Mazar perdió cinco metros desde el 4 de noviembre](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-perdio-cinco-metros-noviembre.html "El embalse Mazar perdió cinco metros desde el 4 de noviembre")
-* [¿Cómo está el embalse de Mazar tras lluvias de Cuenca?](https://www.elcomercio.com/actualidad/negocios/como-esta-el-embalse-de-mazar-tras-lluvias-de-cuenca.html "¿Cómo está el embalse de Mazar tras lluvias de Cuenca?")
-
-Esta es la **tercera vez que se apaga Mazar** en lo que va de noviembre. Pero, en esta ocasión, marca un récord de cinco días consecutivos fuera de operación en lo que va del mes. En las paralizaciones anteriores la central se apagó de entre uno a tres días.
-
-Así, Mazar dejó de funcionar al mediodía del 2 de noviembre, permaneciendo inactiva más de un día antes de retomar operaciones el 4 de noviembre. Posteriormente, el 9 de noviembre, volvió a apagarse, esta vez por tres días consecutivos, hasta el 12 de noviembre.
-
-Las autoridades deciden sacar de operación esta central cuando el nivel de agua de su enorme embalse es muy bajo. El objetivo es que recupere y llegue a un nivel óptimo de operación.
-
-Por ejemplo, el pasado 15 de noviembre de 2024 **Mazar** dejó de operar cuando su **embalse** bajó de su mínimo para operar sin riesgo, que es 2 115 metros sobre el nivel del mar (m.s.n.m.), y llegó a 2 110, 31 metros.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/2111-1024x435.jpg)
-
-Hasta las 12:00 de este 20 de noviembre, tras cinco días de **no utilizar el agua del reservorio**, la cota del embalse llegó a 2 111,17 m.s.n.m. Esto significa que el **embalse se está llenando lentamente** y alcanza una recuperación promedio de 15 centímetros de agua por día.
-
-El embalse de Mazar no ha logrado recuperarse debido a la **escasez de lluvias** y al bajo caudal de los afluentes que lo alimentan.
-
-Durante los últimos cinco días, el **caudal promedio** que ingresó al embalse fue de apenas **10,6 metros cúbicos por segundo** (m³/s), una cantidad insuficiente para alcanzar su nivel mínimo operativo de 2 115 m.s.n.m., y mucho menos su capacidad máxima de 2 153 m.s.n.m.
-
-Según **Marco Acuña**, presidente del Colegio de Ingenieros Eléctricos de Pichincha se necesitaría un caudal promedio de 140 m³/s para llenar este reservorio en un mes.
-
-Importancia del embalse de Mazar
---------------------------------
-
-El embalse de Mazar forma parte del **Complejo Hidroeléctrico Paute**, que incluye tres hidroeléctricas: Mazar, Paute-Molino y Sopladora. Además de tres embalses: Mazar, Amaluza y Sopladora.
-
-**Mazar** es el más importante por su extensión de 31 kilómetros, mientras que los otros dos son más pequeños. Este embalse desempeña un papel clave para alimentar en cascada a las tres hidroeléctricas del complejo.
-
-Entre las tres centrales aportan 1 757 megavatios (MW) al sistema nacional interconectado (SNI).
-
-  
-
-Incendio forestal en el Parque Nacional Podocarpus consume miles de hectáreas
-=============================================================================
-
-El Alcalde de Loja estuvo en la parroquia Chantaco para presidir el Puesto de Mando Unificado y gestionar los recursos
-----------------------------------------------------------------------------------------------------------------------
-
-![Bomberos de Loja trabajan en el Parque Nacional Podocarpus en la extinción del fuego.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-20T131713.002.jpg)
-
-El **Ministerio del Ambiente**, Agua y Transición Ecológica informó este miércoles 20 de noviembre de 2024 sobre los esfuerzos que se realizan para controlar los **incendios forestales en Loja.**
-
-### Más noticias
-
-* [Incendios forestales en Azuay siguen activos a pesar de las lluvias](https://www.elcomercio.com/actualidad/ecuador/incendios-forestales-en-azuay-siguen-activos-a-pesar-de-las-lluvias.html "Incendios forestales en Azuay siguen activos a pesar de las lluvias")
-* [13 presuntos responsables de los incendios forestales en Azuay, denunciados](https://www.elcomercio.com/actualidad/ecuador/responsables-incendios-forestales-azuay-loja.html "13 presuntos responsables de los incendios forestales en Azuay, denunciados")
-* [Incendio forestal en el Parque El Cajas está controlado; cinco más siguen activos](https://www.elcomercio.com/actualidad/ecuador/incendio-forestal-en-parque-el-cajas-esta-controlado-cinco-mas-siguen-activos.html "Incendio forestal en el Parque El Cajas está controlado; cinco más siguen activos")
-
-El fuego consume flora y fauna nativas en Loja
-----------------------------------------------
-
-El Puesto de Mando Unificado se reúne en **San Pedro de Vilcabamba** para emitir las directrices que permitan continuar con las tareas de sofocación del fuego.
-
-El incendio forestal en el **Parque Nacional Podocarpus** ya ha consumido aproximadamente 3 709 hectáreas de vegetación nativa del Parque y su zona de amortiguamiento.
-
-Desde las 04:00, Brigadistas Especialistas en Manejo Integral del Fuego (Bremif) del Parque Nacional, bomberos de Loja y Quito, **efectivos de las FF.AA.** y comuneros trabajan en el lugar.
-
-Realizan labores de ataque indirecto y **líneas de defensa** para mitigar las llamas. Paralelamente, se realizarán sobrevuelos y descargas aéreas de agua. Helicópteros apoyan en los sectores de Toronche, Cucharillo y otros puntos de calor activos en la ciudad de Loja.
-
-La Cartera de Estadio dio a conocer que, **con el apoyo de 20 comuneros**, se tiene programado reforzar las líneas de defensa en Cucharillo. Además, los equipos del **Parque Nacional** ingresarán a Filo Naque para continuar con los trabajos de sofocación del fuego.
-
-Instituciones locales, gubernamentales y expertos en extinción de **incendios forestales** ejecutan una serie de acciones para evitar la expansión de las llamas.
-
-Los helicópteros realizaron **ya cuatro sobrevuelos** y un monitoreo con dron para obtener una visión del comportamiento del fuego en los puntos activos del parque.
-
-La Secretaría de **Gestión de Riesgos** desplegó acciones de respuesta ante un incendio que se registra en Jipiro Alto. En el lugar, los **bomberos de Loja t**rabajan manualmente en la liquidación de las llamas.
-
-Además, un helicóptero Sentry, de una empresa privada de Italia, realiza descargas para apagar el incendio.
-
-En Loja, los **incendios forestales activos** se ubican en Taquil, Chantaco y [Chuquiribamba](https://es.wikipedia.org/wiki/Provincia_de_Loja "https://es.wikipedia.org/wiki/Provincia_de_Loja").
-
-> [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw)| Con base a los reportes de la noche de ayer, Brigadistas del Parque Nacional Podocarpus, [@BomberosQuito](https://twitter.com/BomberosQuito?ref_src=twsrc%5Etfw), [@cbomberosloja](https://twitter.com/cbomberosloja?ref_src=twsrc%5Etfw), [@FFAAECUADOR](https://twitter.com/FFAAECUADOR?ref_src=twsrc%5Etfw) y comuneros de la zona, continuaron con las acciones frente al control del incendio forestal en el Parque Nacional Podocarpus. 🌳🔥❌ [pic.twitter.com/j23fbPWChb](https://t.co/j23fbPWChb)
-> 
-> — Min. de Ambiente, Agua y Transición Ecológica 🇪🇨 (@Ambiente\_Ec) [November 20, 2024](https://twitter.com/Ambiente_Ec/status/1859255518180581806?ref_src=twsrc%5Etfw)
-
-Denuncian en la Fiscalía de Guayas a presunto fotógrafo acosador
+En Colombia se vuelve viral mujer que se durmió en pleno partido
 ================================================================
 
-Las supuestas víctimas relataron su experiencia en redes sociales, lo que desencadenó el caso.
-----------------------------------------------------------------------------------------------
+La Selección de Colombia navega en medio de duras críticas por la derrota ante Ecuador de local.
+------------------------------------------------------------------------------------------------
 
-![El fotógrafo supuestamente utilizaba su posición para solicitar el contenido.](https://www.elcomercio.com/wp-content/uploads/2024/11/fotografo.jpg)
+![Daniel Muñoz, jugador de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/dormir_partido_2.jpg)
 
-En redes sociales surgieron denuncias contra un **fotógrafo** acusado de presuntamente **acosar** a **influencers** y otras **mujeres**[.](https://es.wikipedia.org/wiki/Acoso "https://es.wikipedia.org/wiki/Acoso")
+Las repercusiones por el partido que l**a Selección de Colombia perdió ante la de Ecuador por 0-1** en la fecha 12 de las eliminatorias sudamericanas al Mundial 2026, aún no se terminan.
 
-Más noticias
-------------
-
-* [Fotógrafo ecuatoriano presuntamente pedía imágenes explícitas a influencers](https://www.elcomercio.com/actualidad/seguridad/fotografo-acoso-mujeres-influencers-explicitas.html "Fotógrafo ecuatoriano presuntamente pedía imágenes explícitas a influencers")
-* [Recta final del juicio a Dominique Pelicot](https://www.elcomercio.com/actualidad/mundo/recta-final-juicio-dominique-pelicot.html "Recta final del juicio a Dominique Pelicot")
-* [Policía detiene a exdocente por presunto ciberacoso, en Quito](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-exdocente-presunto-ciberacoso-quito.html "Policía detiene a exdocente por presunto ciberacoso, en Quito")
-
-Este caso generó múltiples reacciones, incluso acciones legales que presentaron ante la **Fiscalía** del **Guayas**.
-
-Denuncias formales en la Fiscalía
----------------------------------
-
-El caso tomó relevancia el 18 de noviembre en redes sociales, y al día siguiente se extendió ampliamente.
-
-Según la información difundida, la Universidad Casa Grande, donde el denunciado cursa estudios, emitió un comunicado el 19 de noviembre. En este se indicó que presentó una **denuncia formal ante la Fiscalía.**
-
-Este 20 de noviembre confirmaron la existencia de denuncias legales en la **Fiscalía del Guayas** por el supuesto delito de **violación a la intimidad.**
-
-Los documentos incluyen los nombres de cuatro presuntas **víctimas**. Sin embargo, en redes sociales mencionaron la posible existencia de más de 200 mujeres afectadas, incluidas menores de edad.
-
-Detalles del presunto delito
-----------------------------
-
-De acuerdo con las denunciantes, el **fotógrafo** utilizó su posición **profesional** para establecer una relación de confianza con las mujeres y solicitarles contenido comprometedor, bajo el pretexto de crear **portafolios** o cumplir trabajos urgentes.
-
-También intentó acceder a credenciales de **iCloud** con el argumento de requerir actualizaciones de **aplicaciones**.
-
-Entre las acusaciones constan propuestas para realizar sesiones fotográficas en lugares privados y solicitudes de **contenido** **explícito** para supuestos proyectos profesionales.
-
-Además, algunas **víctimas** mencionaron que el **fotógrafo** ofreció dinero a cambio de posar en lencería o enviar audios con sonidos específicos.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCk4BQ0JjVg/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DCk4BQ0JjVg/?utm_source=ig_embed&utm_campaign=loading)
-
-Sanción por violación a la intimidad
-------------------------------------
-
-El artículo 178 del Código Orgánico Integral Penal (**COIP**) establece penas de uno a tres años de prisión por la **violación a la intimidad.** Esta infracción incluye el acceso, interceptación, grabación, difusión o publicación de datos personales, mensajes, videos u otro tipo de información privada sin el consentimiento de la **persona afectada**.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)| ➡️ Comunicado oficial [pic.twitter.com/W8K9rympZ4](https://t.co/W8K9rympZ4)
-> 
-> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [November 20, 2024](https://twitter.com/MinInteriorEc/status/1859024045238612109?ref_src=twsrc%5Etfw)
-
-¿Cuál es el esquema de juego de Beccacece con la Selección de Ecuador?
-======================================================================
-
-Sebastián Beccacece cambió su esquema táctico habitual con la Selección de Ecuador para las últimas fechas y aquello dio resultado.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece, DT de la Selección de Ecuador, ante Colombia en eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/11/3003e6f030336f29ffe59cc53180eaa18f2cf03c.jpg)
-
-**Sebastián Beccacece** consiguió seis puntos de seis en la última doble fecha de eliminatorias con la Selección de Ecuador. El DT argentino planteó para tales partidos una línea de cuatro defensores en el fondo y dejó la de cinco y tres defensores que utilizó en las cuatro primeras jornadas.
-
-Para los pasados duelos ante **Bolivia y Colombia**, el estratega decidió probar una fórmula distinta en cuanto a nivel táctico y resolver los vacíos e inconvenientes en ataque. Antes, la escuadra ecuatoriana solo había hecho un gol en los cuatro partidos que jugó, aunque no había recibido goles.
+La noche del martes 19 de noviembre de 2024, **Ecuador sorprendió a propios y extraños y consiguió** una merecida, luchada y celebrada victoria con un golazo de Enner Valencia, delantero del Inter de Porto Alegre de Brasil.
 
 ### Más noticias:
 
 * [¿Cómo queda la Selección de Ecuador en las eliminatorias?](https://www.elcomercio.com/deportes/futbol/ecuaddor-tabla-posiciones-eliminatorias-mundial.html "¿Cómo queda la Selección de Ecuador en las eliminatorias?")
-* [Para Beccacece, la Selección de Ecuador dio “un pasito más” al Mundial](https://www.elcomercio.com/deportes/futbol/beccacece-ecuador-pasito-mundialista-2026.html "Para Beccacece, la Selección de Ecuador dio “un pasito más” al Mundial")
-* [¿Cuándo vuelve a jugar la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-eliminatorias-marzo.html "¿Cuándo vuelve a jugar la Selección de Ecuador?")
+* [¡A los medios de Colombia se les fue la luz! Esto dijeron tras la dura derrota de su selección](https://www.elcomercio.com/deportes/futbol/medios-colombia-dura-derrota-ecuador.html "¡A los medios de Colombia se les fue la luz! Esto dijeron tras la dura derrota de su selección")
+* [James Rodríguez arremetió contra la Selección de Colombia](https://www.elcomercio.com/deportes/futbol/james-rodriguez-colombia-ecuador-huevonada.html "James Rodríguez arremetió contra la Selección de Colombia")
 
-En sus últimos dos duelos, el entrenador argentino consiguió mantener la solidez defensiva y el arco en cero, pero también obtuvo réditos en ataque. La **escuadra ecuatoriana** marcó un total de cinco goles en ambos cotejos.
+La victoria de Ecuador le permitió cerrar el año en la tercera casilla en la **tabla de posiciones con 19 puntos y un gol diferencia de +7**, mientras que Colombia descendió al cuarto con los mismos 19, pero con un gol diferencia de+5.
 
-En el choque contra Bolivia, que se jugó en Guayaquil, la Tri venció por un marcador de 4-0 con un doblete de **Gonzalo Plata** y un tanto de **Alan Minda y Enner Valencia**. Ante Colombia se impuso como visitante por 1-0 y con otra anotación de Valencia.
+Para la Tri por delante le quedan los partidos en casa contra Venezuela, Brasil y Argentina. De visitante **tendrá que ir a Chile, Perú y Paraguay para cerrar su camino** a la Copa del Mundo que en el 2026 será organizada por Canadá, Estados Unidos y México.
 
-El sistema con el que arrancó Beccacece con la Selección de Ecuador
--------------------------------------------------------------------
+Según los cálculos, con ocho puntos de los 18 que aún están en disputa serán suficientes para que los ecuatorianos abrochen la clasificación al quinto mundial de su historia, tras Catar 2022, Brasil 2014, Alemania 2006 y Corea-Japón 2002.
 
-La **Selección de Ecuador** de Sebastián Beccacece, a partir de su arribo, inició con una línea de tres y cinco defensores en el fondo. Esta podía variar en función de los partidos y los defensores se ubicaban como laterales o carrileros[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
+![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/dormir_partido_1-1-1024x683.jpg)
 
-A partir de aquella idea de juego, las alineaciones podían variar entre **3-4-3, 3-5-2 y 5-4-1** o **5-3-2**. Estas, a su vez, podían mantenerse estáticas o cambiar entre sí en función de la posición de los jugadores en la banda. Asimismo, a los laterales y carrileros se sumaba el falso lateral cuando un volante ocupaba aquella posición.
+Foto: EFE.
 
-En los cuatro primeros partidos con tales apuestas, **Beccacece** consiguió un triunfo, una derrota y dos empates. Allí, el único gol que marcó le sirvió para la victoria.
+La mujer que se durmió en las gradas
+------------------------------------
 
-La transición de Sebastián Beccacece con la Selección de Ecuador
-----------------------------------------------------------------
+Pero mientras en Ecuador todo es celebración y algarabía, en Colombia las críticas están a la orden del día, **pese a que en este 2024 fueron finalistas de la Copa América** de Estados Unidos y siempre se han sostenido en la zona de clasificación directo al máximo torneo de selecciones.
 
-Para su quinto y sexto partido al frente de la Tri, el estratega argentino jugó con una línea de cuatro defensores en el fondo. Al obedecer tal factor, la alineación que se plasmó fue de **4-1-4-1** en los dos cotejos.
+Sin embargo, dentro de todo este ambiente negativo, se hizo viral la imagen de una **mujer que estuvo en las gradas del Metropolitano** para alentar a su selección, pero que quedó registrada en las imágenes de la señal de televisión en el momento menos oportuno.
 
-Pese al cambio, la polivalencia y flexibilidad táctica se mantuvo. **Joel Ordóñez**, habitual defensa central, pasó a jugar como lateral derecho, posición que había ocupado -en ocasiones- Alan Franco en el esquema anterior y en el mencionado rol de falso lateral.
+A los 87 minutos con el equipo local volcado al ataque para conseguir el ansiado 1-1 y con los ecuatorianos defendiendo la ventaja con todos los medios posibles, la cámara mostró la reacción de los hinchas en Barranquilla, pero con tan mala suerte que registró a la mujer dormida cuyo video rápidamente inundó las redes sociales.
 
-Dentro del nuevo dibujo, **Gonzalo Plata** también estuvo como delantero flotante e interior, por detrás de Enner Valencia. Aquello pese a su ubicación principal como puntero o volante interior.
+Delante de ella otra mujer se percató de la **cámara y se levantó para alzar sus manos y mostrar el apoyo** a su selección. En ese momento la mujer dormida se despertó y por un momento se mostró desorientada.
 
-Robert Kennedy Jr, activista antivacunas, dirigirá el Departamento de Salud
-===========================================================================
+“Lo de mi tía se salió de control. **Para los que no sepan ella es mi tía, se llama Sandra**, es hermosa, y se acaba de hacer viral porque se quedó dormida en el partido”, expresó la usuaria @nvell-maria que se identificó como su sobrina.
 
-Kennedy Jr. vinculó además los tiroteos masivos en las escuelas con antidepresivos como el Prozac.
---------------------------------------------------------------------------------------------------
+La adolescente argumentó que su tía le comentó que el partido estaba “aburrido” y por eso se durmió po una segundos.
 
-![El excandidato presidencial Robert F. Kennedy Jr., en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/kennedy-efe.jpg)
+> Está señora representa a todos los colombianos, que partido tan mediocre. Luis Díaz suelte el balón, Jhon Córdoba sopla monda. [pic.twitter.com/FS5eMKwjiK](https://t.co/FS5eMKwjiK)
+> 
+> — Calderón (@acaldeeronn) [November 20, 2024](https://twitter.com/acaldeeronn/status/1859038902012838272?ref_src=twsrc%5Etfw)
 
-El presidente electo de Estados Unidos, [Donald Trump](https://www.elcomercio.com/actualidad/mundo/trump-presiona-senadores-apoyen-gaetz-opcion-fiscal-general.html "https://www.elcomercio.com/actualidad/mundo/trump-presiona-senadores-apoyen-gaetz-opcion-fiscal-general.html"), eligió al excandidato presidencial **Robert F. Kennedy Jr**., conocido por sus **teorías de la conspiración** sobre las vacunas, como **nuevo secretario de Salud.**
+San viernes
+-----------
 
-### Más noticias
+Chelsea presume el impacto de Moisés Caicedo en la Premier League
+=================================================================
 
-* [Linda McMahon, exejecutiva de lucha libre, será secretaria de Educación de EE.UU.](https://www.elcomercio.com/actualidad/mundo/donald-trump-elige-linda-mcmahon-como-secretaria-de-educacion.html "Linda McMahon, exejecutiva de lucha libre, será secretaria de Educación de EE.UU.")
-* [Donald Trump presiona a senadores para que apoyen a Matt Gaetz](https://www.elcomercio.com/actualidad/mundo/trump-presiona-senadores-apoyen-gaetz-opcion-fiscal-general.html "https://www.elcomercio.com/actualidad/mundo/trump-presiona-senadores-apoyen-gaetz-opcion-fiscal-general.html")
-* [Marco Rubio, el latino que será secretario de Estado de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/marco-rubio-latino-sera-canciller-donald-trump.html "https://www.elcomercio.com/actualidad/mundo/marco-rubio-latino-sera-canciller-donald-trump.html")
+En el Chelsea están orgullosos de contar con un jugador de talla mundial como Moisés Caicedo.
+---------------------------------------------------------------------------------------------
 
-Trump subrayó en su red social, Truth Social, que velar por la **salud de los ciudadanos** es el puesto más importante de la Administración y destacó que “durante demasiado tiempo los estadounidenses fueron aplastados por el **sistema industrial alimenticio** y las farmacéuticas que se involucraron en engaños y desinformación en lo que respecta a la **sanidad pública”**.
+![Moisés Caicedo es una de las figuras del Chelsea de Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-20T171103.205.jpg)
 
-“Garantizará los derechos de salud”
------------------------------------
+Aprovechando la tendencia que generó **Moisés Caicedo** tras su gran actuación con la Selección de Ecuador en la histórica victoria 0-1 contra Colombia, el **Chelsea** presumió a su mediocampista estrella.
 
-El futuro presidente prometió que la Secretaría de Sanidad desempeñará un papel importante a la hora de **garantizar que la población esté protegida** “de productos químicos nocivos, contaminantes, pesticidas, **productos farmacéuticos** y **aditivos alimentarios** que contribuyen a la abrumadora crisis de salud” en el país.
-
-Kennedy Jr., en su opinión, se asegurará de que esas agencias vuelvan a cumplir con los mandatos de la ciencia “para poner fin a la **epidemia de enfermedades crónicas** y hacer que Estados Unidos vuelva a ser grande y saludable”.
-
-En un mitin en Nueva York al final de la campaña electoral, Trump ya avanzó que en caso de ganar el 5 de noviembre a la vicepresidenta y candidata demócrata, Kamala Harris, iba a permitir que Kennedy Jr**. “se volviera loco” con la sanidad.**
-
-El hijo del ex fiscal general de EE.UU. Robert F. Kennedy y sobrino del expresidente John F. Kennedy, ambos asesinados en la década de los sesenta, es a juicio de Trump **“un tipo fantástico”** y con buen conocimiento sobre los **pesticidas** y el **medioambiente**.
-
-Alternativa en las elecciones de EE.UU.
----------------------------------------
-
-Antes de dar su apoyo a Trump, Kennedy Jr. comenzó su **fallida carrera a la presidencia** en el bando demócrata.
-
-En abril del año pasado se presentó como la **alternativa al presidente,** Joe Biden, y anunció sus aspiraciones a ser el candidato de ese partido, pero en octubre apuntó que dejaba esa formación para postularse como independiente, algo que **finalmente acabó suspendiendo.**
-
-Gran parte del clan Kennedy le dió la espalda por las **teorías conspiratorias** que comenzó a difundir durante la pandemia sobre las **vacunas y la covid-19**, como que ese virus tenía como objetivo atacar a los caucásicos y a los negros y que las personas más inmunes son los **chinos y los judíos asquenazíes.**
-
-Vincula tiroteos con antidepresivos
------------------------------------
-
-Kennedy Jr. vinculó además los **tiroteos masivos** en las escuelas con **antidepresivos como el Prozac**, denunció que los demócratas reciben mucho más dinero de las farmacéuticas que los republicanos y está convencido de que las vacunas provocan autismo.
-
-Trump le aseguró que tendría un puesto relacionado con la **Sanidad en su futuro Ejecutivo**: “Promesa cumplida”, dijo este jueves en X el hijo mayor del exmandatario (2017-2021) y magnate neoyorquino, Donald Trump Jr.
-
-Su nombramiento se une a la controvertida lista con la que Trump está apoyando su segundo mandato, que incluye como fiscal general al legislador **ultraderechista Matt Gaetz,** acusado de tráfico sexual de una menor, al **dueño de X, Elon Musk,** como responsable de eficiencia gubernamental o al presentador de Fox News Pete Hegseth como jefe del Pentágono.
-
-Esperanza
-=========
-
-Explora las historias ocultas de mujeres ecuatorianas que rompieron el silencio frente a la violencia. Además descubre cómo las redes de apoyo y la restitución de sus derechos transformaron sus vidas.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Podcast Esperanza - El Comercio](https://www.elcomercio.com/wp-content/uploads/2024/11/esperanza-podcast.jpg)
-
-**¡Si silenciamos las historias, perpetuamos la violencia!**
-
-En este espacio, **Esperanza** representa el comienzo de un camino lleno de valentía, con testimonios de mujeres que enfrentaron violencia y transformaron su vida tras alzar la voz. Este podcast de **El Comercio**, con la narración de Ana Guerrero y la producción de Oscar Alvarez, recaba historias de resiliencia, apoyo y cambio.
-
-Descubre cómo estas mujeres reconstruyeron sus derechos y proyectos de vida, demostrando que el silencio no es una opción.
-
-#### Escucha el tráiler del podcast:
-
-<a href="https://rss.com/podcasts/esperanza1/1762101/">Esperanza | RSS.com</a>
-
-Si ya utilizas una plataforma para escuchar podcast. Aquí puedes encontrar los links para suscribirte:
-
-Enner Valencia es el ‘GOAT’ de Ecuador, ¿qué significa?
-=======================================================
-
-Enner Valencia vivió una jornada espectacular en las eliminatorias, y se consolidó como el 'GOAT' de la Selección de Ecuador.
------------------------------------------------------------------------------------------------------------------------------
-
-![Enner Valencia es el 'GOAT' de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-20T123659.445.jpg)
-
-Si alguien ha respondido con categoría a todas las críticas, ese es **Enner Valencia**. El delantero ha vuelto a sobresalir con la Selección de Ecuador, donde su apodo de ‘**GOAT**‘ sigue siendo un reflejo de su liderazgo y capacidad en el campo.
-
-Durante los partidos contra Bolivia y Colombia, **Valencia fue pieza clave** en cuatro de los cinco goles que anotó la ‘Tri’. Marcó un gol ante Bolivia, repartió dos asistencias y anotó un golazo memorable frente a los colombianos.
+En un post en _X_ (antes Twitter), el club londinense destacó las estadísticas sobresalientes del ecuatoriano en la **Premier League**, donde se ha consolidado como uno de los mejores jugadores del torneo.
 
 ### Más noticias:
 
-* [Así resolvió Colombia la dura sanción ante Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-resolvio-dura-sancion-partido-ecuador.html "Así resolvió Colombia la dura sanción ante Ecuador")
-* [Enner Valencia anotó su gol 44 con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-gol43-ecuador-eliminatorias.html "Enner Valencia anotó su gol 44 con la Selección de Ecuador")
-* [Enner Valencia llega revitalizado con la Selección de Ecuador ante Colombia](https://www.elcomercio.com/deportes/seleccion-ecuador-enner-valencia-colombia.html "Enner Valencia llega revitalizado con la Selección de Ecuador ante Colombia")
+* [Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia](https://www.elcomercio.com/deportes/futbol/moises-caicedo-patron-ecuador-regresa-colombia.html "Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia")
+* [Moisés Caicedo, el jefe del Chelsea de Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-jefe-del-chelsea-de-inglaterra.html "Moisés Caicedo, el jefe del Chelsea de Inglaterra")
+* [Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-perfila-como-reemplazo-moises-caicedo-ecuador.html "Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador")
 
-Enner Valencia, el ‘GOAT’ de Ecuador
-------------------------------------
-
-Gracias a su destacada actuación, la hinchada volvió a llamar a Enner Valencia el ‘GOAT’ de la Selección de Ecuador, pero ¿qué significa este término?
-
-Aunque la palabra _goat_ significa “cabra” o “cabro” en español, en el ámbito deportivo tiene un significado completamente distinto.
-
-Se trata de la **abreviación de _G.O.A.T._, que significa _Greatest of All Time_** (El Mejor de Todos los Tiempos). Este apodo se utiliza para engrandecer a un jugador, sin importar el deporte, y en este caso, es para **Enner Valencia.**
-
-¿Cuándo surgió el apodo de Enner?
+Chelsea presume de Moisés Caicedo
 ---------------------------------
 
-El apodo de **‘GOAT’ a Enner Valencia** surgió hace poco más de dos años, cuando jugaba en Turquía, en el Fenerbahçe. En ese entonces, estaba viviendo una de sus mejores etapas como futbolista, siendo el máximo goleador del equipo y logrando cifras impresionantes que lo colocaron entre los mejores 15 goleadores para la **Bota de Oro**.
+El Chelsea compartió datos impresionantes sobre el rendimiento de **Caicedo**, apuntándolo como el mejor volante central de la Premier League.
 
-Su figura se amplificó aún más con su gran actuación en el Mundial de Catar 2022, donde marcó tres de los cuatro goles de Ecuador en la Copa del Mundo.
+_“**Moisés es el único jugador de la Premier** esta temporada que completa más de 30 tackles, 500 pases, gana más de 50 duelos y recupera la posesión más de 50 veces”,_ escribió la cuenta oficial de los ‘Blues’.
 
-> El Chivo. [pic.twitter.com/J2O5XS2XTn](https://t.co/J2O5XS2XTn)
+Desde la llegada del técnico italiano Enzo Maresca, Caicedo no solo se ha ganado la titularidad, sino que también **es uno de los líderes del equipo**, a pesar de estar apenas en su segunda temporada con el club.
+
+> Moises is the only player in the [#PL](https://twitter.com/hashtag/PL?src=hash&ref_src=twsrc%5Etfw) this season to:  
+>   
+> 💪 Complete 30+ tackles  
+> 💫 Complete 500+ passes  
+> 👊 Win 50+ duels  
+> 🌟 Win possession 50+ times [pic.twitter.com/AM4lUmnJse](https://t.co/AM4lUmnJse)
 > 
-> — CONMEBOL Copa América™️ (@CopaAmerica) [November 20, 2024](https://twitter.com/CopaAmerica/status/1859039594345623581?ref_src=twsrc%5Etfw)
+> — Chelsea FC (@ChelseaFC) [November 20, 2024](https://twitter.com/ChelseaFC/status/1859234645201608883?ref_src=twsrc%5Etfw)
 
-Incluso, su apodo ha adquirido una versión ecuatoriana, ya que, como _goat_ también significa “cabra”, en lugar de “cabro”, en Ecuador se utiliza el término _chivo_ para referirse al macho de la cabra. Así, Enner Valencia es **conocido también como el _‘Chivo’_,** un apodo que ha sido utilizado por las cuentas oficiales de la Copa América.
+El impacto del ecuatoriano ha llevado a figuras históricas del **Chelsea** a rendirle elogios, como el exmediocampista John Obi Mikel, quien destacó a Caicedo en su podcast.
 
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
+_“Míralo jugar con el Chelsea, es el jefe, es el hombre. La forma en que se mueve, su actitud, la confianza… Este es el equipo de Caicedo,”_ comentó Mikel.
 
-Aquiles Alvarez dice que no permitirá que se apague ‘el espíritu de la Navidad’ en Guayaquil
-============================================================================================
+El mejor volante central de la Premier League
+---------------------------------------------
 
-El alcalde de Guayaquil, Aquiles Alvarez, señaló este miércoles 20 de noviembre que 'prenderá la Navidad' con generadores eléctricos
-------------------------------------------------------------------------------------------------------------------------------------
+Su dominio en el mediocampo llevó a la **Premier League** a destacarlo como el mejor volante central de la liga, con un análisis detallado de su temporada. Caicedo lidera en varios aspectos: es el número uno en tacles ganados, segundo en duelos ganados, tercero en intercepciones y quinto en pases exitosos.
 
-![El árbol de Navidad del Malecón 2000 atrae a visitantes en la época navideña.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-20T123000.452.jpg)
+“Caicedo **siempre está a la ofensiva**, buscando la oportunidad de recuperar el balón y avanzando para desestabilizar a los oponentes,” comentó Adrian Clarke, exfutbolista y comentarista de la Premier League.
 
-El **Alcalde de Guayaquil** se refirió, este miércoles 20 de noviembre de 2024, a la crisis energética que atraviesa Ecuador y la proximidad de las **festividades de Navidad**.
-
-### Más noticias
-
-* [Está listo el programa por las fiestas de Quito del 2024](https://www.elcomercio.com/actualidad/programa-fiestas-quito-2024.html "Está listo el programa por las fiestas de Quito del 2024")
-* [Dos empresas textiles de Otavalo generan energía limpia con paneles solares](https://www.elcomercio.com/videos/dos-empresas-textiles-de-otavalo-generan-energia-limpia-con-paneles-solares.html "Dos empresas textiles de Otavalo generan energía limpia con paneles solares")
-* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
-
-Guayaquil no perderá el espíritu navideño
------------------------------------------
-
-Aquiles Alvarez, alcalde de Guayaquil, señaló que, a pesar de las campañas que piden apagar los focos, la Alcaldía tomó la decisión de celebrar la Navidad.
-
-Agregó que no permitirán que la depresión que existe por causa de la crisis energética en el Ecuador se “coma el espíritu de la Navidad”.
-
-Esto se logrará con la gestión propia de generadores eléctricos y la colocación de paneles solares que se verán cuando se enciendan las luces navideñas.
-
-El encendido del árbol de Navidad en el Malecón 2000 se realizará durante la primera semana de diciembre.
-
-“Vamos a tener prendido a Guayaquil, más allá del problema de luz y así muchos digan que hay que ahorrar”, agregó Alvarez. Señaló que esto se hará pensando en la salud mental de los ciudadanos y evitar seguir cayendo en depresión.
-
-El Alcalde agregó que iluminar el espacio público es un problema del **Municipio de Guayaquil** y que se encargarán de hacer que [esté prendido](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil").
-
-La tarjeta Guayaca
-------------------
-
-El **Alcalde de Guayaquil** informó también que ya se han dado 102 000 registros aprobados para el programa social de La Guayaca.
-
-Este programa garantiza el pasaje congelado a 0,30 centavos en **la Metrovía** y también ofrece el acceso preferencial al eje social y deportivo del Municipio de Guayaquil.
-
-Antes de fin de año, se tiene planificada la **entrega de la tarjeta** a los padres de alumnos de las escuelas de la Junta de Beneficencia y el Atlético Madrid.
-
-> Ya contamos con 102.000 registros aprobados para el programa social de La Guayaca. Este programa no solo garantiza el pasaje congelado a 30 centavos de la Metrovía, sino que también ofrece acceso preferencial al eje social y deportivo del Muy Ilustre Municipio de Guayaquil.… [pic.twitter.com/uGfJnhKgyd](https://t.co/uGfJnhKgyd)
-> 
-> — Aquiles Alvarez Henriques (@aquilesalvarez) [November 20, 2024](https://twitter.com/aquilesalvarez/status/1859255803108065658?ref_src=twsrc%5Etfw)
-
-UAFE controlará el origen de fondos para las elecciones 2025
-============================================================
-
-El monitoreo de la UAFE a los fondos para la campaña de las elecciones 2025 incluye los partidos y movimientos políticos.
--------------------------------------------------------------------------------------------------------------------------
-
-![CNE realiza la notificación a miembros de las juntas receptoras del voto.](https://www.elcomercio.com/wp-content/uploads/2024/11/cne-elecciones.jpg)
-
-En el calendario para las **elecciones 2025** en Ecuador se contempla la campaña, para lo cual la UAFE controlará los fondos que se usen. Por ello, se hará la vigilancia de los recursos para las campañas[.](https://es.wikipedia.org/wiki/Ecuador)
-
-La presidenta del **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/)**, Diana Atamaint, y el director de la Unidad de Análisis Financiero y Económico (UAFE), José Julio Neira, suscribieron un **convenio**.
-
-### Más noticias
-
-* [Miembros de las juntas para las elecciones 2025 tienen capacitaciones, ¿en qué consisten?](https://www.elcomercio.com/actualidad/politica/miembros-juntas-elecciones-2025-tienen-capacitaciones-consisten.html "Miembros de las juntas para las elecciones 2025 tienen capacitaciones, ¿en qué consisten?")
-* [¿Cómo saber si soy Miembro de la Junta Receptora del Voto en las elecciones 2025?](https://www.elcomercio.com/actualidad/politica/como-saber-si-soy-miembro-de-la-junta-receptora-del-voto-elecciones-2025.html "¿Cómo saber si soy Miembro de la Junta Receptora del Voto en las elecciones 2025?")
-* [Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-pone-en-marcha-plan-operativo-de-elecciones-2025.html "Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025")
-
-> 🇪🇨 | Nuestra presidenta, [@DianaAtamaint](https://twitter.com/DianaAtamaint?ref_src=twsrc%5Etfw), manifiesta que este convenio sumará esfuerzos en el combate al financiamiento ilícito de la política. “Erradicaremos el delito de lavado de activos en el financiamiento a la política del [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw). Este instrumento de trabajo mancomunado… [pic.twitter.com/qSVb9coX7D](https://t.co/qSVb9coX7D)
-> 
-> — cnegobec (@cnegobec) [November 19, 2024](https://twitter.com/cnegobec/status/1858957088590041165?ref_src=twsrc%5Etfw)
-
-Elecciones 2025 y la UAFE
--------------------------
-
-El CNE informó que el convenio tiene el objetivo de **prevenir y erradicar** el financiamiento ilícito en las aportaciones de las campañas electorales de los comicios.
-
-Según declaraciones del Director de la UAFE, la premisa es garantizar que las elecciones 2025 sean transparentes, libres de lavado de activos y corrupción.
-
-La lucha contra los flujos financieros ilícitos que se han infiltrado en las prácticas de la política ecuatoriana son el marco del convenio.
-
-Los puntos del acuerdo
-----------------------
-
-La firma entre el CNE y la UAFE contemplan puntos clave:
-
-* Controlar las transacciones económicas y financieras de las organizaciones y movimientos políticos.
-* Rastrear el origen de los fondos y sus posibles vínculos con actividades delictivas, como el lavado de activos y delitos relacionados.
-* Identificar y neutralizar cualquier intento de infiltración del crimen organizado en los procesos electorales.
-
-El CNE indicó que la UAFE analizará los movimientos de cuentas bancarias de candidatos, partidos políticos y los aportantes**.**
-
-Los movimientos financieros se revisarán antes, durante y después de la campaña electoral.
-
-Recursos para la campaña electoral
-----------------------------------
-
-Para la **campaña electoral 2025**, los partidos y movimientos políticos cuentan con el Fondo de Promoción Electoral y gasto electoral. Esta será del 5 de enero al 6 de febrero.
-
-Se trata de dos rubros distintos. En el caso del **gasto electoral** es el monto que cada partido político y movimiento destina de recursos propios o autogestionados.
-
-Por otro lado, el **Fondo de Promoción Electoral** lo destina el Estado, a través del CNE, para gastos en radio, prensa escrita, televisión y medios digitales, así como en vallas publicitarias.
-
-El presupuesto
---------------
-
-El 5 de abril de 2024, el Pleno del **CNE** aprobó el presupuesto para el desarrollo de las elecciones generales de 2025. Este asciende a 91 707 668,72 dólares.
-
-Para el **Fondo de Promoción Electoral** se contempla una proyección al presupuesto por un monto 13 760 259,81 dólares. Los rubros fijos para los partidos políticos y movimientos dependen de las candidaturas.
-
-La papeleta definitiva se conocerá el 30 de diciembre. El 9 de febrero de 2025, los ecuatorianos elegirán la dupla presidencial, **151 asambleístas** y cinco parlamentarios andinos.
-
-Linda McMahon, exejecutiva de lucha libre, será secretaria de Educación de EE.UU.
-=================================================================================
-
-McMahon estuvo encargada de la Administración de Pequeñas Empresas durante el primer mandato de Trump.
-------------------------------------------------------------------------------------------------------
-
-![Linda McMahon es una magnate de la lucha libre profesional.](https://www.elcomercio.com/wp-content/uploads/2024/11/linda-efe-si.jpg)
-
-El presidente electo estadounidense, [Donald Trump](https://www.elcomercio.com/actualidad/mundo/trump-presiona-senadores-apoyen-gaetz-opcion-fiscal-general.html "https://www.elcomercio.com/actualidad/mundo/trump-presiona-senadores-apoyen-gaetz-opcion-fiscal-general.html"), anunció el nombramiento de **Linda McMahon**, exejecutiva de la empresa de **lucha libre World Wrestling Entertainment** y quien ya formó parte de su primer Gobierno, como secretaria de Educación.
-
-### Más noticias
-
-* [Marco Rubio, el latino que será secretario de Estado de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/marco-rubio-latino-sera-canciller-donald-trump.html "Marco Rubio, el latino que será secretario de Estado de Estados Unidos")
-* [Trump confirma que Marco Rubio será el próximo secretario de Estado de EE.UU.](https://www.elcomercio.com/actualidad/mundo/trump-confirma-marco-rubio-sera-el-proximo-secretario-de-estado-de-ee-uu.html "Trump confirma que Marco Rubio será el próximo secretario de Estado de EE.UU.")
-* [Donald Trump avanza en el diseño de su Gabinete](https://www.elcomercio.com/actualidad/mundo/donald-trump-avanza-diseno-gabinete-dar-forma-proyecto-maga.html "Donald Trump avanza en el diseño de su Gabinete")
-
-A través de un comunicado el republicano confirmó que **McMahon**, de 76 años, será la encargada de dirigir el departamento, pese a solo tener **experiencia en educación a nivel local,** como miembro de la Junta de Educación del estado de Connecticut.
-
-Como secretaria de Educación, apuntó el futuro presidente en un comunicado, “luchará incansablemente para expandir la elección escolar a todos los estados del país y empoderar a los padres para que tomen las m**ejores decisiones educativas para sus familias**“.
-
-“Linda utilizará sus **décadas de experiencia en liderazgo** y su profundo conocimiento tanto en educación como en negocios para empoderar a l**a próxima generación de estudiantes** y trabajadores estadounidenses, y convertir a Estados Unidos en el número uno en educación en el mundo”, añadió.
-
-Mujer empresaria
-----------------
-
-McMahon estuvo encargada de la **Administración de Pequeñas Empresas** durante el primer mandato de Trump. Fue nombrada en 2017 y renunció en 2019 para convertirse en **presidenta de America First Action**, un súper PAC (comité de acción política que puede recaudar fondos) pro-Trump.
-
-Junto con su esposo, Vince McMahon, la futura secretaria de Educación fundó la WWE, una empresa estadounidense de medios y entretenimiento​​ integrada principalmente por el **área de la lucha libre profesional.**
-
-La exejecutiva supervisó hasta el año 2009 su transformación de una pequeña empresa de entretenimiento de lucha libre a un imperio mediático que cotiza en bolsa.
-
-McMahon se presentó dos veces sin éxito al **Senado de Estados Unidos por Connecticut,** en los años 2010 y 2012. 
-
-Vocales suplentes del CNE no pudieron ingresar a las instalaciones del órgano electoral
-=======================================================================================
-
-Vocales suplentes buscan principalizarse en el CNE, mientras que los titulares defienden su permanencia.
---------------------------------------------------------------------------------------------------------
-
-![Los vocales suplentes del CNE no pudieron ingresar a las instalaciones del Consejo Nacional Electoral.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-41-2.jpg)
-
-Desde temprano este miércoles 20 de noviembre, los alrededores del **Consejo Nacional Electoral (CNE)** en Quito se encontraban r**odeados de vallas metálicas y policías**. Esto en respuesta a la intención de los vocales suplentes **María Cristina Kronfle, Mónica Noriega y José Fernando Merino** de principalizarse tras culminar el periodo de los consejeros titulares el día anterior.
-
-### Más noticias
-
-* [Vocales suplentes del CNE exigen transición conforme a la Constitución](https://www.elcomercio.com/actualidad/politica/vocales-suplentes-del-cne-exigen-transicion-conforme-a-la-constitucion.html "Vocales suplentes del CNE exigen transición conforme a la Constitución")
-* [CNE hizo cambios para el debate presidencial 2025](https://www.elcomercio.com/actualidad/politica/cne-cambios-debate-presidencial-2025.html "CNE hizo cambios para el debate presidencial 2025")
-* [Cpccs hará instructivo relacionado con integrantes del CNE](https://www.elcomercio.com/actualidad/politica/cpccs-hara-instructivo-relacionado-con-integrantes-cne.html "Cpccs hará instructivo relacionado con integrantes del CNE")
-
-Pasadas las 09:30, los suplentes llegaron a los **exteriores del CNE** intentando ingresar por el área de parqueaderos. Sin embargo, la **policía bloqueó su entrada**, lo que desató un forcejeo entre las partes. Durante el altercado, se utilizó gas pimienta, lo que afectó particularmente a Kronfle, quien alegó tener alergia al gas.
-
-Debido a la **aglomeración de personas entre las vallas y los policías**, no se pudo identificar quién lanzó el gas lacrimógeno en **medio del tumulto**, que terminó afectando a la vocal suplente.
-
-Tras el incidente aún no se conocía sobre quién había lanzado el **gas lacrimógeno** cerca de las personas afectadas. Un funcionario de la Policía que se acercó a dialogar con **María Cristina Kronfle** aseguró que ninguno de los **agentes policiales** había sido responsable del acto.
-
-Según el oficial, contaban con un **video que mostraba a una persona**, aparentemente cercana a las personas que los acompañaban, como la **autora del lanzamiento**. Sin embargo, Kronfle afirmó que **nunca se le presentó dicho video como prueba**.
-
-> Los vocales suplentes del CNE no pudieron ingresar a las instalaciones del órgano electoral. [pic.twitter.com/nYBHpAssfK](https://t.co/nYBHpAssfK)
-> 
-> — Orlando Silva (@osilvaca7) [November 20, 2024](https://twitter.com/osilvaca7/status/1859284088294629656?ref_src=twsrc%5Etfw)
-
-Hasta las 11:00, los vocales **permanecían en las afueras del CNE**, acompañados por simpatizantes y en espera de una **respuesta oficial**.
-
-Posturas divididas entre titulares y suplentes
+¿Cuándo vuelve a jugar Caicedo con el Chelsea?
 ----------------------------------------------
 
-Dentro del CNE, los consejeros principales continuaban sus labores mientras se sostenía que el periodo de seis años, que inició en 2018, culminará únicamente cuando **sean nombrados los nuevos vocales.** Por su parte, los **suplentes argumentaron que el tiempo establecido ya concluyó el 19 de noviembre**, por lo que debían asumir las funciones principales.
+Moisés Caicedo y el Chelsea regresan a la acción el sábado 23 de noviembre. Los ‘Blues’ se enfrentarán al **Leicester City** por la jornada 12 de la Premier League.
 
-María Cristina Kronfle enfatizó: “**A partir de la medianoche, ellos ya no son consejeros**. Esto no es solo un tema de principalización, sino de detener una **prórroga ilegítima y la represión contra miembros legítimos del CNE**”. Además, señaló que el accionar de los titulares tiene implicaciones legales y de derechos humanos.
+El partido se disputará a las 07:30 (hora Ecuador) en el King Power Stadium, casa de los ‘Foxes’.
 
-Intentos de diálogo y resistencia
+Actualmente, el **Chelsea** ocupa el tercer lugar en la **Premier League** con 19 puntos, por detrás de Manchester City (23) y Liverpool (28).
+
+Enner Valencia cerca de ‘arrebatarle’ otro récord a Agustín Delgado
+===================================================================
+
+Enner Valencia y Agustín Delgado son los dos máximos goleadores de la Selección de Ecuador.
+-------------------------------------------------------------------------------------------
+
+![Enner Valencia, jugador de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_agustin_2.jpg)
+
+**Enner Valencia** camina a paso firme a dominar todas las estadísticas goleadoras de la Selección de Ecuador. A sus 34 años es uno de los capitanes y principales referentes del actual plantel.
+
+El camino de **Enner Valencia con la Selección de Ecuador** se unió el 29 de febrero de 2012, en un año bisiesto, que sirvió para que Barcelona SC rompa el malefició de 15 años sin títulos nacionales, mientras ‘Superman’ era jugador de Emelec.
+
+### Más noticias:
+
+* [Ecuador consiguió una victoria histórica ante Colombia](https://www.elcomercio.com/deportes/futbol/ecuador-colombia-partido-eliminatorias-sudamericanas-resultado.html "Ecuador consiguió una victoria histórica ante Colombia")
+* [La Selección de Ecuador tiene rendimiento de lujo en eliminatorias](https://www.elcomercio.com/deportes/seleccion-ecuador-rendimiento-eliminatorias-colombia.html "La Selección de Ecuador tiene rendimiento de lujo en eliminatorias")
+* [¿Cuándo vuelve a jugar la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-eliminatorias-marzo.html "¿Cuándo vuelve a jugar la Selección de Ecuador?")
+
+El colombiano **Reinaldo Rueda hizo debutar a Valencia con 22 años**, tres meses y 25 días. Lo citó y le dio nueve minutos en el triunfo 2-0 ante Honduras en el estadio George Capwell con un doblete de Jaime ‘La Yoya’ Ayoví.
+
+El esmeraldeño **ingresó al campo a los 81 minutos en lugar de Jefferson Montero**, otro deportista identificado con los colores de Emelec y que en la actualidad milita en el AV25 de la Segunda Categoría de Pichincha.
+
+Esa tarde la Tri formó con Alexander Domínguez en el arco; en la defensa contó con Gabriel Achilier, Diego Armando Calderón, Frickson ‘El Elegante’ Erazo y Jorge Guagua; el mediocampo estuvo a cargo de Segundo Alejandro Castillo, David Quiroz y Joao Roja; el tridente de ataque lo conformaron Montero, Christian ‘Chucho’ Benítez y Ayoví.
+
+Tuvieron que pasar **seis partidos para que el delantero debute en la red contrario**. Fue ante la misma Honduras en un amistoso disputado el 19 de noviembre de 2013.
+
+El juego terminó empatado 2-2 en el Shell Energy Stadium en Houston, Texas. **El otro tanto tricolor fue del mismo Ayoví,** que por esos días vivía uno de sus mejores momentos como seleccionado nacional, a pesar de jugar en el fútbol de Arabia Saudita.
+
+Ese fue el inicio goleador del delantero esmeraldeño que **ya tiene en su cuenta personal 45 tantos en 95 partidos**. Poco a poco se acerca al centenario en este rubro, un espacio reservado para un puñado de futbolistas.
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_agustin_1-1024x683.jpg)
+
+Foto: Archivo histórico EL COMERCIO.
+
+Valencia cerca de Agustín Delgado
 ---------------------------------
 
-La consejera titular **Elena Nájera** buscó dialogar brevemente con los **suplentes y sus seguidores**, quienes le solicitaron apoyo para **gestionar su ingreso al organismo**. Aunque el acercamiento no logró resolver la situación, los vocales suplentes insistieron en que su objetivo es garantizar legalidad en el proceso electoral.
+El primer récord que **Valencia le ‘quitó’ a Delgado fue el del máximo goleador** de la Tri. El ‘Tin’ se quedó con 31 tantos en 72 partidos en 12 años de servicio al combinado nacional.
 
-> Elena Nájera hablo sobre los vocales suplentes del CNE. [pic.twitter.com/R1UBW9r0wX](https://t.co/R1UBW9r0wX)
-> 
-> — Orlando Silva (@osilvaca7) [November 20, 2024](https://twitter.com/osilvaca7/status/1859282421088145728?ref_src=twsrc%5Etfw)
+En referente a mundiales, ambos jugaron dos, pero Valencia anotó seis tantos (tres en Brasil 2014 y tres en Catar 2022), mientras que Delgado se quedó con tres (uno en Corea-Japón 2022 y dos en Alemania 2006).
 
-Elena Nájera, vocal titular del CNE, también se pronunció sobre la situación: “Yo quiero conversar con ellos porque eso debería hacer la señora presidenta y los consejeros. **Somos todos un cuerpo colegiado**” expresó Nájera.
+El récord que **nunca perderá Delgado es el de ser el primer jugador** ecuatoriano en marcar en un Mundial.
 
-Nájera mencionó que busca que exista un diálogo, ya que esto no se trata de impedirles o no entrar, sino de llegar a un acuerdo. Indicó que no se debía amurallar la casa de la democracia.
+Finalmente, **Valencia quedó a cuatro goles de igualar y a cinco de superar a Delgado** como el máximo goleador ecuatoriano en las eliminatorias sudamericanas.
 
-Cerca de las 11:00, la consejera **Nájera ingresó nuevamente a las instalaciones del CNE** para intentar dialogar con los vocales titulares.
+El ‘Tin’ tiene 16 y Valencia 12. En la mitad de los dos está Felipe Caicedo con 15 y detrás de todos ellos Édison Méndez, el único jugador nacional con tres mundiales, que se quedó con 11 gritos de gol.
 
-Mientras tanto, Kronfle y Merino declararon estar listos para asumir la organización de las elecciones de febrero de 2025. “No buscamos caos, buscamos que se respete la ley”, afirmó Merino al dirigirse a la prensa.
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_agustin_3-1024x683.jpg)
 
-Respuesta oficial, continuidad de los titulares
------------------------------------------------
+Foto: Archivo histórico EL COMERCIO.
 
-La **Procuraduría General del Estado** respaldó la permanencia de los consejeros titulares hasta que sus reemplazos sean designados. Según este pronunciamiento**, Diana Atamaint, Enrique Pita, Esthela Acero y José Cabrera** seguirán al frente del CNE en cumplimiento de la normativa.
+San viernes
+-----------
 
-Kronfle, en respuesta, aseguró que no cesarán en su lucha por el reconocimiento de sus derechos. “**Hemos entregado los documentos necesarios en instancias nacionales e internacionales**. Activaremos todas las medidas legales pertinentes porque no somos como ellos”, manifestó, reiterando que la prórroga carece de sustento.
+Compra seguro en el Black Friday con estos consejos
+===================================================
 
-Shakira sorteará entre sus fans un auto que alcanza los 305 km/h
-================================================================
+Te compartimos varias recomendaciones para que hagas tus compras con seguridad en los descuentos del Black Friday.
+------------------------------------------------------------------------------------------------------------------
 
-Este modelo combina la potencia de un superdeportivo con las características de un todoterreno.
------------------------------------------------------------------------------------------------
+![El Black Friday es la época comercial más importante del año](https://www.elcomercio.com/wp-content/uploads/2024/11/compra-seguridad-black-friday.jpg)
 
-![El nombre del ganador del auto de Shakira se conocerá en diciembre. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-20T115943.411.jpg)
+El **Black Friday** es una de las fechas comerciales más esperadas del año por **compradores y vendedores** del mundo; **Ecuador** no es la excepción. Por ello, te compartimos varios consejos para que tus compras sean **seguras** y evites **estafas** en esta fecha.
 
-**Shakira** sorprendió a sus seguidores al anunciar el sorteo de un **exclusivo auto**. La noticia fue revelada a través de un video en sus **redes sociales.** ¿De qué automóvil se trata?
+### Más noticias
 
-**La cantante colombiana** expresó su deseo de que ese vehículo de lujo termine en manos de un fan que realmente lo aprecie y disfrute.
+* [Hoy es el Día del Soltero, conocido como el ‘Black Friday chino’](https://www.elcomercio.com/tendencias/curiosidades/dia-soltero-black-friday-chino-efemeride.html "Hoy es el Día del Soltero, conocido como el ‘Black Friday chino’ ")
+* [¿Cuándo será el Black Friday en 2024?](https://www.elcomercio.com/actualidad/mundo/cuando-es-el-black-friday.html "¿Cuándo será el Black Friday en 2024?")
+* [Estas son las ofertas del último CyberDay de 2024](https://www.elcomercio.com/empresariales/ofertas-ultimo-cyberday-2024.html "Estas son las ofertas del último CyberDay de 2024")
+
+El **Viernes Negro** ofrece grandes **descuentos y promociones** en una amplia variedad de productos y servicios. Durante esta jornada, las **tiendas físicas y en línea** reducen sus precios para atraer a los consumidores.
+
+¿Cuándo es el Black Friday en Ecuador?
+--------------------------------------
+
+En Ecuador, el **Black Friday** se celebrará el **29 de noviembre** de 2024.
+
+Esta fecha siempre coincide con el viernes siguiente al **Día de Acción de Gracias** en los Estados Unidos, que se celebra el cuarto jueves de noviembre.
+
+Compra con seguridad en el Black Friday
+---------------------------------------
+
+Procura realizar tus compras en línea en sitios webs y **tiendas reconocidas**. Por lo general, las grandes plataformas mantienen procesos claros de compra y venta.
+
+Una vez compruebes que el negocio existe en Google, otros navegadores y redes sociales, revisa los **comentarios** de la plataforma y de los productos de tu interés.
+
+Si la entrega de lo que pides no corre a cargo de un courier, evita comprar artículos muy costos, pide imágenes y videos previamente y, de ser posible, **no realices pagos totales**.
+
+En caso de que tus productos no cuenten con envío a domicilio, coordina **puntos de encuentro** con los vendedores en lugares públicos.
+
+### Reconoce estafas comunes
+
+* **Correos y mensajes sospechosos:** Cuidado con mensajes de texto o correos electrónicos que tengan mala redacción, faltas ortográficas o usen un lenguaje genérico. Estas son señales típicas de intentos de estafas virtuales.
+* **Urgencia exagerada:** Si un mensaje te dice que actúes con inmediatez, duda. Estas prácticas buscan que no te detengas a verificar la autenticidad de los mensajes.
+* **Ofertas demasiado buenas para ser verdad:** Los descuentos desproporcionados o regalos increíbles suelen ser un anzuelo para dirigirte a sitios falsos.
+* **Verifica el sitio web:** Asegúrate de que la URL comience con “https” y tenga un candado en la barra de direcciones. Los sitios sin estas medidas de seguridad podrían ser fraudulentos[.](https://es.wikipedia.org/wiki/Viernes_negro_(compras) "https://es.wikipedia.org/wiki/Viernes_negro_(compras)")
+
+### Cuida tus datos bancarios y tarjetas de crédito
+
+* **Usa contraseñas robustas y únicas:** Crea combinaciones de palabras, números y caracteres especiales para tus cuentas bancarias. Evita usar datos personales evidentes como tu fecha de nacimiento.
+* **Minimiza los datos compartidos:** No publiques información personal o detalles de tus compras en redes sociales. Recuerda que los bancos no solicitan tus datos confidenciales.
+* **Cuidado con los permisos de aplicaciones:** Descarga apps solo de tiendas oficiales y revisa qué permisos solicitan antes de instalarlas.
+* **Si caíste en una estafa:** actúa rápido y contáctate con tu banco; cambia tus contraseñas y reporta el incidente a la Policía.
+
+Planifica tus compras, elige sitios confiables y **mantén la calma** ante ofertas irresistibles. Con estos consejos, estarás listo para aprovechar las promociones sin comprometer tu seguridad.
+
+Cortes de luz en Guayaquil este jueves 21 de noviembre
+======================================================
+
+Los cortes de luz en Guayaquil este jueves 21 de noviembre son de hasta ocho horas en el sector residencial y de hasta tres en el sector idustrial.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz para Guayaquil este jueves 21 de noviembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-jueves-21-noviembre.jpg)
+
+Los **cortes de luz** en **Guayaquil** este **jueves 21 de noviembre** son de hasta ocho horas para el sector residencial y de seis para el sector industrial.
+
+**CNEL** definió la programación de la suspensión del servicio de energía eléctrica para la urbe porteña.
+
+### Más noticias:
+
+* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
+* [Hidroeléctrica Mazar está apagada cinco días y su embalse se recupera lentamente](https://www.elcomercio.com/actualidad/negocios/hidroelectrica-mazar-esta-apagada-cinco-dias-y-su-embalse-se-recupera-lentamente.html "Hidroeléctrica Mazar está apagada cinco días y su embalse se recupera lentamente")
+
+Horarios de los cortes de luz en Guayaquil el jueves 21 de noviembre
+--------------------------------------------------------------------
+
+Ecuador se acerca a los **dos meses** de cortes de luz programados por la falta de **generación** de energía.
+
+El país es dependiente de las **lluvias** para generar energía eléctrica y se enfrenta a una de las más fuertes sequías de las últimas décadas.
+
+En los últimos días, la mejora en las condiciones de producción de Coca Codo Sinclair hizo que el Gobierno de **Daniel Noboa** disponga una nueva reducción.
+
+Además, el acuerdo energético entre **Ecuador y Colombia** alivia la crisis energética en el país.
+
+La ministra de Energía encargada, **Inés Manzano**, señaló que el suministro de energía desde Colombia empezó el domingo 17 de noviembre.
+
+En tanto, la situación de los embalses y las hidroeléctricas en el país es regular.
+
+El apagón en **Mazar** lleva cinco días y su embalse se recupera lentamente.
+
+Los cortes de luz **disminuyeron** de 12 a ocho horas para esta semana.
+
+La ciudadanía está a la **expectativa** de la nueva programación para el viernes 22, sábado 23 y domingo 24 de noviembre, que aún no se ha dado a conocer.
+
+Así, Guayaquil, los cortes de luz son de ocho horas, divididas en hasta tres franjas horarias para el **sector residencial.**
+
+Para el **sector industrial**, los cortes de luz son de seis horas consecutivas.
+
+A continuación, los **cortes de luz en Guayaquil para este jueves 21 de noviembre** de 2024:
+
+Duelo de goleadores nacionales en la Liga Pro
+=============================================
+
+Técnico Universitario y Barcelona SC jugarán en el Bellavista de Ambato en la fecha 14 de la Liga Pro.
+------------------------------------------------------------------------------------------------------
+
+![Janner Corozo, jugador de Barcelona SC en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/armas_corozo_1.jpg)
+
+La segunda etapa de la **Liga Pro está a dos partidos de finalizar el calendario**. Independiente del Valle y Liga de Quito son los principales candidatos para quedarse con el primer puesto.
+
+Las dos fechas finales de la Liga Pro tomaron mayor relevancia por los tres puntos que Liga de Quito perdió por disposición de la **Comisión Disciplinaria de la Federación Ecuatoriana de Fútbol (FEF)**, pero que están en etapa de apelación.
+
+### Más noticias:
+
+* [¿Cuándo vuelve a jugar la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-eliminatorias-marzo.html "¿Cuándo vuelve a jugar la Selección de Ecuador?")
+* [El ‘pulpo’ Hernán Galíndez, la figura de la Selección Ecuador](https://www.elcomercio.com/deportes/futbol/hernan-galindez-figura-ecuador-colombia.html "El ‘pulpo’ Hernán Galíndez, la figura de la Selección Ecuador")
+* [Para Beccacece, la Selección de Ecuador dio “un pasito más” al Mundial](https://www.elcomercio.com/deportes/futbol/beccacece-ecuador-pasito-mundialista-2026.html "Para Beccacece, la Selección de Ecuador dio “un pasito más” al Mundial")
+
+En la Liga Pro está en juego el equipo finalista de la segunda etapa o definir al campeón de forma directa, **los cupos a torneos internacionales y los dos conjuntos que en el 2025** jugarán en la Liga Pro Serie B.
+
+En la jornada 14 destacan los encuentros de Universidad Católica vs. Liga de Quito en el estadio Olímpico Atahualpa y el **Independiente del Valle vs. Macará** en el Complejo de los del Valle en el sur oriente de Quito.
+
+En la zona del descenso jugarán en horario unificado Deportivo Cuenca vs. Libertad en el Alejandro Serrano Aguilar; Cumbayá vs. **Orense en el Olímpico Atahualpa**; y Emelec vs. Imbabura en el George Capwell.
+
+Otro de los partidos destacados es el de **Técnico Universitario vs. Barcelona Sporting Club** en el Bellavista de Ambato. Se espera casa llena para mirar este encuentro que puede poner más cerca a los guayaquileños de la Copa Libertadores 2025.
+
+Pero ese no es el único atractivo de este duelo. También estarán frente a frente los dos máximos goleadores ecuatorianos de la Liga Pro.
+
+Diego Armas vs. Janner Corozo
+-----------------------------
+
+El paraguayo Alex Arce, delantero de Liga de Quito, es el goleador de la Liga Pro con 21 goles.
+
+El segundo lugar le corresponde al colombiano **Jeison Medina que tiene 19**. En la primera etapa jugó con Aucas y en la segunda con Independiente del Valle.
+
+El primer ecuatoriano en la lista es **Diego Armas. El deportista de 34 años es el capitán** de los ambateños y su principal carta ofensiva. Anotó 18 tantos y dio cinco asistencias.
+
+El mediocampista quiteño le marcó a Mushuc Runa (3), Imbabura (3), Cumbayá (2), Aucas (2), Orense (2), Universidad Católica (2), **Macará (1), Deportivo Cuenca (1), Libertad (1)** y Liga de Quito (1).
+
+Según Transfermarkt, Armas tiene jugados en la Liga Pro 2 188 minutos, es decir, anota un gol cada 121 minutos.
+
+Janner Corozo **comparte el quinto lugar con el argentino Pablo Magnín** del Deportivo Cuenca. Tiene 15 goles y siete asistencias en 27 partidos con Barcelona SC.
+
+En cancha tiene 2 038 minutos y su promedio goleador es de un tanto cada 135 minutos.
+
+Le anotó a Delfín (3), Imbabura (2), **Independiente del Valle (2), Emelec (2), Cumbayá (2)**, Macará (1), Deportivo Cuenca (1), Delfín (1) y Aucas (1).
+
+El buen presente lo llevó a ser citado para la **Copa América Estados Unidos 2024** y para las eliminatorias al Mundial 2026.
+
+![Diego Armas (c), jugador de Técnico Universitario.](https://www.elcomercio.com/wp-content/uploads/2024/11/armas_corozo_2-1024x683.jpg)
+
+Diego Armas (c), jugador de Técnico Universitario.
+
+San viernes
+-----------
+
+Científicos descubren nueva especie de sapo en la Amazonía ecuatoriana
+======================================================================
+
+La nueva especie de sapo lleva el nombre del biólogo Luis Coloma.
+-----------------------------------------------------------------
+
+![La nueva especie de sapo fue encontrada en las provincias de Orellana y Pastaza. Foto: Jaime Culebras](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-20T175127.709.jpg)
+
+Un **equipo** de **científicos** identificó una nueva **especie** de sapo endémico de **Ecuador**. Esa estaba previamente clasificada erróneamente como **Atelopus spumarius**.
+
+Tras varios análisis, los investigadores concluyeron que el **sapo descubierto** es una especie distinta. Le dieron el nombre de **Atelopus colomai,** en honor al biólogo Luis Coloma, director del Centro Jambato.
 
 ### **Más noticias:**
 
-* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html")
-* [Funeral de Liam Payne se realiza este miércoles 20 de noviembre en Inglaterra](https://www.elcomercio.com/tendencias/entretenimiento/funeral-liam-payne-se-realiza-este-miercoles-20-de-noviembre-en-inglaterra.html "https://www.elcomercio.com/tendencias/entretenimiento/funeral-liam-payne-se-realiza-este-miercoles-20-de-noviembre-en-inglaterra.html")
-* [El cuerpo de Liam Payne finalmente llegó a casa](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html?source=Internal&ref=Single+Content+Link")
+* [Un bebé panda rojo muere por ‘culpa’ de los fuegos artificiales](https://www.elcomercio.com/narices-frias/bebe-panda-rojo-deceso-juegos-pirotecnicos.html "https://www.elcomercio.com/narices-frias/bebe-panda-rojo-deceso-juegos-pirotecnicos.html")
+* [La historia del gatito negro que encontró un hogar en pleno octubre](https://www.elcomercio.com/narices-frias/ludovico-gato-negro-adopciones-quito-octubre-2024.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/ludovico-gato-negro-adopciones-quito-octubre-2024.html?source=Internal&ref=Single+Content+Link")
+* [Maltrato animal: las infracciones leves también castigan con una multa económica](https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html?source=Internal&ref=Single+Content+Link")
 
-**Shakira sorteará un auto de alta gama**
------------------------------------------
+**Científicos descubren nueva especie de anfibio en la Amazonía ecuatoriana**
+-----------------------------------------------------------------------------
 
-El **Lamborghini Urus** de **Shakira** es un SUV de alta gama, caracterizado por su color morado personalizado y detalles únicos.
+La especie fue encontrada en las provincias de Orellana y Pastaza, en la cuenca amazónica ecuatoriana, según lo publicado en la revista científica [_Salamandra_](https://zenodo.org/records/14168696 "https://zenodo.org/records/14168696").
 
-Este modelo combina la potencia de un superdeportivo con las características de un **todoterreno**, gracias a su motor V8 biturbo de 4.0 litros.
+**_Atelopus colomai_** se distingue por su coloración verde y negra, con un notable dimorfismo sexual. Las hembras son más grandes que los machos y presentan variaciones en su coloración en algunas áreas del cuerpo.
 
-Ese le permite alcanzar una velocidad máxima de 305 km/h. Además, el interior del vehículo presenta un diseño especial en tonos verde lima y blanco.
+**Un especie en peligro de extinción**
+--------------------------------------
 
-**¿Por qué Shakira sorteará su auto de lujo?**
-----------------------------------------------
+Los investigadores alertaron sobre la crítica situación de la especie, que ha experimentado una notable disminución poblacional en las últimas décadas, debido a amenazas de gran consideración como la pérdida de hábitat.
 
-Este sorteo ocurre en un momento significativo para **Shakira**, quien contó que está experimentado un renacimiento tanto personal como profesional tras mudarse a Miami con sus hijos.
+Por ello, recomiendan que _Atelopus colomai_ sea catalogado como una especie en peligro de extinción por la Unión Internacional para la Conservación de la Naturaleza (UICN), dado que su presencia solo ha sido confirmada en seis localidades, todas ellas afectadas por la deforestación, la expansión de la frontera agrícola, la contaminación y la construcción de infraestructuras.
 
-“En este carro que he decidido regalar, viví momentos difíciles y alegres, reflexioné, reuní fuerzas, canté canciones con mis hijos y celebré la amistad. Cuando lo compré, lo hice como un regalo para consentirme a mí misma al comenzar mi etapa de soltera. Pronto descubrí que lo único que nos ayuda son los vínculos humanos”.
+Las claves del éxito en los musicales cinematográficos
+======================================================
 
-**Así será el sorteo del auto de Shakira**
-------------------------------------------
+La magia de un musical radica en su capacidad para conectar emociones, historia y espectáculo.
+----------------------------------------------------------------------------------------------
 
-Shakira habló del sorteo en una publicación realizada en su cuenta de Instagram. “No es necesaria ninguna compra. Abierto solo para residentes de EE.UU. mayores de 18 años. Finaliza: 29/11/24. El ganador será anunciado en vivo en ‘Despierta América'”.
+![Escena del musical 'La La Land' con Emma Stone y Ryan Gosling.](https://www.elcomercio.com/wp-content/uploads/2024/11/musicales-El-Comercio-7-1.jpg)
 
-El sorteo se realizará el 6 de diciembre. Para instrucciones y reglas oficiales, los interesados pueden visitar [elcarrodeshakira.com](https://www.elcarrodeshakira.com/ "https://www.elcarrodeshakira.com/").
+La película ‘**Wicked**‘ llega a cines nacionales el jueves 21 de noviembre de 2024. Es protagonizada por la cantante de **pop Ariana Grande** y la **actriz Cynthia Erivo**.
 
-Motores para central térmica de Salitral están en camino, asegura Ministerio
-============================================================================
-
-El Gobierno inició el traslado de 23 unidades generadoras para la central térmica de Salitral, que aportará 80.5 megavatios.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Está previsto que los equipos lleguen a Ecuador a finales de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/motores.jpg)
-
-El Gobierno Nacional, a través del Ministerio de Energía y Minas, informó este 20 de noviembre de 2024, que ya se encuentran en camino las primeras **23 unidades de generación eléctrica** para la nueva central térmica de **Salitral** en **Guayaquil**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-Estos equipos servirán para enfrentar la crisis energética del país, que ha obligado a programar **cortes de luz** desde hacer dos meses.
-
-Más noticias
-------------
-
-* [Cortes de luz afectan las ventas, pero no a usuarios de autos eléctricos](https://www.elcomercio.com/actualidad/ecuador/efecto-cortes-luz-vehiculos-electricos.html "Cortes de luz afectan las ventas, pero no a usuarios de autos eléctricos")
-* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
-* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
-
-Estas **primeras unidades** corresponden a la fase inicial del proyecto y aportarán 80,5 megavatios (MW) de energía de los 100 MW anunciados.
-
-Los trabajos de **obra civil**, con la construcción de las plataformas necesarias para la instalación de los motores, registran un avance del 90% en **Salitral**, agregó el Ministerio. Esto permitirá el montaje, pruebas y conexión al Sistema Nacional Interconectado (SNI), una vez que lleguen los equipos al país.
-
-Según el **Ministerio de Emergía**, está previsto que las unidades lleguen al Ecuador a finales de noviembre.
-
-Paralelamente, continúan los trabajos en la **central térmica de Quevedo** (Los Ríos), donde se instalarán 50 MW de capacidad. Actualmente, concluyó la construcción de las **plataformas** destinadas al montaje de las 20 unidades generadoras, cada una con una capacidad de 2.5 MW, agregó el Ministerio.
-
-Los trabajos para incorporar la energía al Sistema Nacional de Transmisión – SNT también están en ejecución. Estas obras están a cargo de la unidad de **Corporación Eléctrica del Ecuador -Transelectric.**
-
-Esta generación térmica contratada permitirá cubrir una pequeña parte del déficit calculado por el Operador Nacional de Electricidad  (Cenace) en 1 080 MW. El contrato se firmó el 2 de agosto pasado, por un monto aproximado de 100 millones de dólares.
-
-Los exintegrantes de One Direction se reúnen en el funeral de Liam Payne
-========================================================================
-
-La iglesia de St Mary, en las afueras de Londres, fue decorada con farolillos con velas y rosas blancas para la despedida de Liam Payne
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Liam y Louis durante uno de los conciertos de One Direction.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-20T113605.381.jpg)
-
-Los cuatro integrantes de **One Direction** se reunieron por primera vez este miércoles en el funeral por su compañero **Liam Payne**. Este último adiós se celebra con **una ceremonia privada** en el noroeste de Londres, más de un mes después de su fallecimiento en Buenos Aires (Argentina) con 31 años.
+Cuenta la historia previa a todo lo que ocurre en el legendario ‘**El mago de Oz**‘. Se basa en el _bestseller_ de **Gregory Maguire ‘Wicked: Memorias de una bruja mala**‘, de 1995.
 
 ### Más noticias
 
-* [Funeral de Liam Payne se realiza este miércoles 20 de noviembre en Inglaterra](https://www.elcomercio.com/tendencias/entretenimiento/funeral-liam-payne-se-realiza-este-miercoles-20-de-noviembre-en-inglaterra.html "Funeral de Liam Payne se realiza este miércoles 20 de noviembre en Inglaterra")
-* [El funeral de Liam Payne será mañana](https://www.elcomercio.com/tendencias/entretenimiento/funeral-liam-payne-manana.html "El funeral de Liam Payne será mañana")
-* [Uno de los imputados por la muerte de Liam Payne reveló detalles perturbadores](https://www.elcomercio.com/tendencias/entretenimiento/imputado-muerte-revela-detalles-liam-payne.html "Uno de los imputados por la muerte de Liam Payne reveló detalles perturbadores")
+* [‘**El** M**ago de Oz’ es mucho más que un libro infantil**](https://www.elcomercio.com/tendencias/el-mago-de-oz-wicked.html "https://www.elcomercio.com/tendencias/el-mago-de-oz-wicked.html")
+* **[Razones para defender a ‘Joker 2’ y considerarla una buena película (alerta ‘spoiler’](https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-cine-pelicula-critica.html "https://www.elcomercio.com/tendencias/cine/joker-folie-a-deux-cine-pelicula-critica.html")**)
 
-El funeral se celebró en un ambiente acogedor
----------------------------------------------
+El filme es un musical y hay expectativas en torno a la acogida del público, ya que este tipo de cine suele despertar pasiones divididas. Hay quienes aman las historias contadas así y hay quienes no las soportan.
 
-Al servicio íntimo se llevó a cabo en la iglesia de St Mary, de la localidad de Amersham, cuya entrada fue decorada con **farolillos con velas y rosas blancas.** A él acudieron tan solo los familiares y amigos más cercanos del artista.
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/musicales-El-Comercio-1024x683.jpg)
 
-También estuvieron **sus antiguos compañeros del popular grupo de pop británico**, Louis Tomlinson, Niall Horan, Zayn Malik y Harry Styles. Los miembros de One Direction **no habían vuelto a verse juntos** en público desde que se separaron de manera indefinida en 2016 para tomar caminos separados.
+Hay ejemplos exitosos a nivel de taquilla y crítica como el caso de ‘**La La Land**‘ que tuvo un presupuesto de 30 millones dólares y recaudó 445 millones de dólares, además de recibir 6 premios Oscar.
 
-Styles llegó al templo en un vehículo BMW junto con el presentador de televisión **James Corden.**
+Otros musicales que se convirtieron en un éxito fueron ‘**Grease**‘ (1982), ‘**Singing in the rain**‘ (1952) o ‘**Chicago**‘ (2002).
 
-También estuvo entre los presentes la cantante del grupo **Girls Aloud Cheryl Tweedy**, madre del único hijo de Payne, Bear, y expareja del artista entre 2016 y 2018.
+De lado contrario están musicales como ‘**Mama mía**‘ (2008) y o **Los Miserables” (2012)** que, aunque recibió nominaciones al Oscar, fue criticada por su estilo de grabación en vivo, que afectó la calidad vocal, especialmente en intérpretes como el actor **Russell Crowe**.
 
-El féretro coronado con rosas blancas con el **cuerpo de Payne** fue trasladado a la iglesia en un carruaje con caballos. En su parte posterior se colocó un tributo floral en el que se leía ‘son’ (hijo) y otro tributo azul donde ponía ‘daddy’ (papi).
+Este repaso lleva a la pregunta ¿qué elementos son esenciales para que un musical adaptado al cine triunfe?
 
-Al funeral también acudieron las artistas del grupo **Girls Aloud Nicola Roberts** y Kimberley Walsh, ataviadas de negro riguroso. Además, de la actual **novia de Payne,** la ‘influencer’ estadounidense Kate Cassidy, que llegó junto con el hijo de la actriz británica Elizabeth Hurley, Damian Hurley.
+**Contar historias**
+--------------------
 
-Antes del arranque del **servicio religioso** docenas de lugareños y fans se dieron cita al lado de la iglesia para presentar sus respetos al artista.
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/musicales-El-Comercio-3-1024x683.jpg)
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-20T114003.928-1024x683.jpg)
+Los **musicales** han sido parte esencial del cine desde la llegada del sonido. Desde clásicos como ‘El mago de Oz’ hasta éxitos modernos como ‘La La Land’, los musicales destacan por su capacidad de combinar música, narrativa y estética visual para generar una experiencia única.
 
-En esta iglesia se llevó a cabo la misa en honor a Liam Payne. Foto: EFE
+Según Cine PREMIERE, elementos como las coreografías impactantes, la música memorable y la capacidad de contar historias profundas son cruciales para mantener la relevancia del género.
 
-El controversial fallecimiento
-------------------------------
+**La música no es relleno**
+---------------------------
 
-Payne, padre de un niño que tuvo junto con Cheryl, murió el pasado 16 de octubre tras caer del tercer piso de un hotel de **Buenos Aires** y su fallecimiento originó una gran conmoción en el Reino Unido.
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/musicales-El-Comercio-4-1024x683.jpg)
 
-La **autopsia reveló que el músico tenía una mezcla de varias drogas** en su cuerpo y que sufrió hemorragias internas y externas. Además de **politraumatismos** como consecuencia de la caída, cuyas causas están siendo investigadas.
+Una historia cautivadora es el pilar de cualquier musical exitoso. Películas como ‘Los Miserables’ y ‘Chicago’ lograron el equilibrio perfecto entre la trama y la música, permitiendo que las canciones avancen en la narrativa. Según explica el crítico Peter Debruge en Variety , las canciones deben integrarse de forma orgánica, eso significa que deben generar emociones auténticas y no solo actuar como relleno.
 
-Una **Fiscalía argentina** imputó el pasado 7 de noviembre a tres personas por delitos de “abandono de persona seguido de muerte, suministro y facilitación de estupefacientes. Uno de ellos se identificó como una persona que **acompañó a Payne** durante su viaje, un empleado del hotel y un “proveedor de estupefacientes”.
+**Grandes talentos y voces memorables**
+---------------------------------------
 
-**One Direction,** que saltó a la fama gracias al concurso **Factor X** británico en la década de 2010 se convirtió en el mayor grupo británico desde Los Beatles. Durante sus cinco años de carrera, la banda vendió 70 millones [de álbumes](https://es.wikipedia.org/wiki/One_Direction "https://es.wikipedia.org/wiki/One_Direction").
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/musicales-El-Comercio-2-1024x683.jpg)
 
-Así resolvió Colombia la dura sanción ante Ecuador
-==================================================
+El casting es otro factor determinante. Actores como **Hugh Jackman y Emma Stone**, que pueden actuar, cantar y conectarse con el público, son fundamentales. La revista IndieWire señala que una interpretación que combina destreza vocal con expresividad dramática puede hacer que un musical destaque. Además, las voces memorables crean una conexión emocional duradera, como se ha visto en películas como La novicia rebelde.
 
-La Federación Colombiana de Fútbol tuvo que ingeniárselas para contrarrestar la sanción impuesta por la FIFA.
--------------------------------------------------------------------------------------------------------------
+**Coordinación**
+----------------
 
-![James Rodríguez en la derrota de Colombia contra Ecuador por eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-20T110432.454.jpg)
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/musicales-El-Comercio-5-1024x683.jpg)
 
-Para el compromiso entre **Colombia y Ecuador** en Barranquilla, disputado el martes 19 de noviembre y que terminó con un histórico triunfo 0-1 de la ‘Tri’, los locales **enfrentaron una sanción significativa** por parte de la FIFA.
+La dirección de un musical no solo implica contar una historia, sino también coordinar música, coreografía y diseño de producción. **Baz Luhrmann**, conocido por ‘**Moulin Rouge**‘, enfatiza en entrevistas cómo el diseño de vestuario y los decorados pueden transformar una película en una experiencia visual. Para capturar esta esencia, es clave que la dirección esté a cargo de cineastas que comprenden la importancia de cada detalle visual.
 
-El ente rector del fútbol **penalizó a la selección colombiana** debido a cánticos discriminatorios ocurridos en el partido contra Argentina el pasado 10 de septiembre. Por esta razón, Colombia jugó con un aforo reducido.
+**Respeto**
+-----------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/musicales-El-Comercio-6-1024x683.jpg)
+
+En las adaptaciones cinematográficas de musicales de Broadway, como el próximo estreno de ‘Wicked’, es crucial mantener la esencia de la obra original mientras se explotan las posibilidades del lenguaje cinematográfico. Según The Hollywood Reporter, películas como ‘In the Heights’ demuestran que adaptar un musical requiere una visión que respete a los fanáticos mientras atrae nuevas audiencias.
+
+**Tecnología**
+--------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/musicales-El-Comercio-1-1024x683.jpg)
+
+La tecnología también ha redefinido el género. Con avances como efectos visuales impresionantes y sistemas de sonido envolventes, películas como ‘The Greatest Showman’ logran sumergir completamente al público en su mundo. Según Screen Rant, el uso de la música contemporánea puede atraer a audiencias más jóvenes y hacer que los musicales sean relevantes para nuevas generaciones.
+
+Moisés Caicedo fue padre en un día histórico para la Selección de Ecuador
+=========================================================================
+
+Moisés Caicedo celebró el triunfo de la Selección de Ecuador ante Colombia y el nacimiento de su hija durante el mismo día.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo, volante de la Selección de Ecuador, junto a su hija recién nacida.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-20T171151.270.jpg)
+
+**Moisés Caicedo** tuvo un doble premio el 19 de noviembre del 2024 al ganar a Colombia y celebrar el nacimiento de su hija. El volante hizo pública la llegada de su primogénita por medio de sus cuentas oficiales.
+
+“**19/11/24 El día más especial de mi vida. Bienvenida, mi princesa, mi mayor motivación. Gracias a mi compañera de vida Paola Salazar por darme este regalo tan perfecto. Zoé**“, escribió el futbolista en la publicación a la que acompañó con una fotografía junto a su hija.
 
 ### Más noticias:
 
-* [Periodista colombiano ‘explota’ tras la derrota ante Ecuador](https://www.elcomercio.com/deportes/futbol/periodista-colombiano-explota-tras-derrota-ante-ecuador.html "Periodista colombiano ‘explota’ tras la derrota ante Ecuador")
-* [Ecuador y Argentina son las mejores selecciones de Sudamérica](https://www.elcomercio.com/deportes/futbol/ecuador-argentina-son-las-mejores-selecciones-de-sudamerica.html "Ecuador y Argentina son las mejores selecciones de Sudamérica")
-* [Ecuador cierra el año en zona mundialista y así está la tabla de posiciones](https://www.elcomercio.com/deportes/futbol/ecuador-zona-mundialista-tabla-posiciones-eliminatorias.html "Ecuador cierra el año en zona mundialista y así está la tabla de posiciones")
+* [DT de Colombia destacó a Hernán Galíndez en la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-hernan-galindez-nestor-lorenzo-colombia.html "DT de Colombia destacó a Hernán Galíndez en la Selección de Ecuador")
+* [Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia](https://www.elcomercio.com/deportes/futbol/moises-caicedo-patron-ecuador-regresa-colombia.html "Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia")
+* [La Selección de Ecuador acaba el año mejor de lo esperado](https://www.elcomercio.com/deportes/futbol/ecuador-beccacece-arriba-ano-sobresaltos.html "La Selección de Ecuador acaba el año mejor de lo esperado")
 
-La sanción de Colombia
-----------------------
+A la postal, **Moisés Caicedo** también le agregó un gif en el momento en él conoció a su heredera. En él este juega con ella con sus dedos mientras esta mueve sus brazos y se encuentra envuelta y dentro de una cuna.
 
-La **FIFA sancionó a Colombia con una reducción del 25%** en el aforo del estadio para el partido ante Ecuador. Esto afectó las tribunas ubicadas detrás de los arcos.
+El anuncio y el encuentro de Caicedo con su hija se dio un día después de que este disputase su último choque con la **Selección de Ecuador**. Allí, el ecuatoriano estuvo presente durante los 90 minutos y fue una de las figuras del encuentro.
 
-Como resultado, el combinado cafetero disputó el encuentro con un máximo de **35 000 hinchas**, en lugar de los 46,600 que normalmente permite el estadio.
+Moisés Caicedo, en un partido histórico de la Selección de Ecuador
+------------------------------------------------------------------
 
-Esta medida se implementó tras los incidentes registrados en la victoria de Colombia 2-1 sobre Argentina, donde se silbó el himno nacional de la Albiceleste, se profirieron insultos discriminatorios y se arrojaron objetos a los jugadores de la selección campeona del mundo.
+El duelo de la **Selección de Ecuador** ante **Colombia** en el que estuvo presente Moisés Caicedo tuvo un tinte histórico a partir de su resultado. La Tri consiguió su segundo triunfo como visitante en la historia ante los cafeteros y el primero después de 59 años.
 
-Para **disimular los espacios vacíos** en el estadio, la Federación Colombiana de Fútbol implementó una estrategia creativa.
+El combinado ecuatoriano enfrentó a los cafeteros como visitante y en Barranquilla. Allí, la escuadra se impuso por un marcador de 1-0 gracias a un gol de **Enner Valencia**, que llegó a partir del único remate al arco del combinado nacional[.](https://es.wikipedia.org/wiki/Mois%C3%A9s_Caicedo "https://es.wikipedia.org/wiki/Mois%C3%A9s_Caicedo")
 
-En una de las tribunas sancionadas, **colocaron pancartas con el logo de la selección y mensajes positivos**. En la otra, llenaron las gradas con camisetas de la selección colombiana, creando un efecto visual llamativo y de apoyo simbólico al equipo.
+Moisés Caicedo se ubicó en el centro del campo y fue fundamental para aguantar el resultado dentro del compromiso. A los 34 minutos, **Piero Hincapié** salió expulsado y el volante debió hacer aún un mayor esfuerzo en defensa para aguantar el resultado.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-20T113707.474-1024x683.jpg)
+De regreso al Chelsea
+---------------------
 
-Foto de las tribunas sancionadas. Foto: Agencia EFE.
+Con el fin de la fecha FIFA, en la cual la Selección de Ecuador quedó en el tercer puesto de las eliminatorias (zona de clasificación), **Moisés Caicedo** también debe volver a su equipo. El delantero ecuatoriano regresará al Chelsea para continuar su trajín en la Premier League.
 
-Ecuador y un triunfo histórico
+Tras el compromiso con la Tri, Caicedo también fue destacado por el conjunto británico. Este elogió su rendimiento y el triunfo conseguido con la escuadra que dirige **Sebastián Beccacece.**
+
+Tras un año del triunfo, Javier Milei reafirma su estilo excéntrico
+===================================================================
+
+Milei consolidó su imagen de político excéntrico, impulsivo e inflexible, y cumplió muchas de sus promesas de campaña.
+----------------------------------------------------------------------------------------------------------------------
+
+![Javie Milei en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/javier-milei-casa-rosada-efe.jpg)
+
+A un año de su **inesperado triunfo** en las presidenciales en Argentina, [Javier Milei](https://www.elcomercio.com/actualidad/mundo/trump-felicita-a-milei-por-hacer-grande-a-argentina-respuesta.html "https://www.elcomercio.com/actualidad/mundo/trump-felicita-a-milei-por-hacer-grande-a-argentina-respuesta.html") consolidó su imagen de **político excéntrico, impulsivo e inflexible**, y cumplió muchas de sus **promesas de campaña**, incluido un severo plan de ajuste y un **inédito desguace del Estado** que, sin embargo, no dañó significativamente su popularidad.
+
+### Más noticias
+
+* [Trump felicita a Milei por ‘hacer grande a Argentina nuevamente’ y recibe respuesta](https://www.elcomercio.com/actualidad/mundo/trump-felicita-a-milei-por-hacer-grande-a-argentina-respuesta.html "https://www.elcomercio.com/actualidad/mundo/trump-felicita-a-milei-por-hacer-grande-a-argentina-respuesta.html")
+* [Javier Milei no asistirá a la Cumbre Iberoamericana en Ecuador](https://www.elcomercio.com/actualidad/javier-milei-no-asistira-a-la-cumbre-iberoamericana-en-ecuador-2.html "https://www.elcomercio.com/actualidad/javier-milei-no-asistira-a-la-cumbre-iberoamericana-en-ecuador-2.html")
+* [Donald Trump y Javier Milei dialogan por primera vez desde el triunfo electoral](https://www.elcomercio.com/actualidad/mundo/donald-trump-javier-milei-dialogan-primera-triunfo-electoral.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-javier-milei-dialogan-primera-triunfo-electoral.html")
+
+Tras el cierre de los colegios electorales el 19 de noviembre de 2023, un rumor cada vez más fuerte comenzó a circular por los **estudios de televisión, las sedes de campaña y las calles de toda Argentina:** Javier Milei había arrasado en las elecciones y sería el nuevo presidente.
+
+“No hay lugar para el gradualismo, no hay lugar para la tibieza, no hay lugar para las medias tintas”, dijo aquella noche tras consagrarse con el **56 % de los votos,** en un discurso en el que prometió que cumpliría “a rajatabla” con los compromisos que había asumido durante la campaña.
+
+La ‘motosierra’ y la inflación
 ------------------------------
 
-Antes de este encuentro, Ecuador solo había vencido a Colombia una vez en suelo cafetero por eliminatorias. Aquella victoria ocurrió el 20 de julio de 1965, durante el proceso clasificatorio al Mundial de Inglaterra 1966, con un gol de **Washington ‘Chifle’ Muñoz.**
+Entre sus promesas estaban llevar a cabo un achicamiento sin precedentes del Estado, una severa reforma laboral y tributaria y un cambio drástico en materia de **política económica, incluido un plan de ‘shock**’ con el principal objetivo de reducir la inflación.
 
-Casi 60 años después, la ‘Tri’ repitió la hazaña, nuevamente con un 0-1. **Enner Valencia**, máximo goleador histórico de Ecuador, anotó el golazo que acercó a su selección al quinto Mundial de su historia.
+“Con una motosierra en la mano, dijo cosas como ‘vamos a hacer un ajuste mayor al que pide el Fondo Monetario Internacional, la **mejor salud es la privada, la mejor educación es la privada,** vamos a sacar subsidios de las tarifas’. Toda una serie de cosas que las terminó haciendo”, opina en una entrevista con Juan Luis González, autor del libro ‘El Loco: Javier Milei, el hombre que obedece a su perro’, una biografía no autorizada del ahora presidente.
 
-Con este resultado, **Ecuador** se ubica en el tercer lugar de las eliminatorias, con 19 puntos en 12 partidos, solo detrás de **Argentina** y Uruguay. Este rendimiento confirma que la ‘Tri’ vive una de las mejores épocas de su historia futbolística.
+El líder ultraderechista llegó a aquella elección no solo como un **‘outsider’ provocador, disruptivo y ruidoso,** sino como el único que ofrecía a los argentinos un camino radical hacia la tan ansiada estabilidad económica.
 
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
+Tras un pico inflacionario en diciembre producto de una **devaluación del peso** tras asumir el cargo, las políticas de ajuste de Milei desencadenado un proceso de **desinflación que registra incrementos menores** al 5 % mensual desde mayo, algo que no sucedía desde hace años. Aún así, el aumento interanual del IPC se ubicaba en octubre por encima del 190%.
 
-Así se puede pedir un tanquero de agua en Quito
-===============================================
+Estas medidas fueron acompañadas de una fuerte recesión y un importante **aumento de la pobreza,** que en sus primeros seis meses de Gobierno **escaló desde un 41,7 % a un 52,9 %** y ha afectado especialmente a la clase media.
 
-Los barrios afectados por cortes de agua pueden solicitar un tanquero siguiendo estos pasos.
---------------------------------------------------------------------------------------------
+“El ajuste fundamental que ha hecho el presidente es a costa de los **jubilados, de los salarios públicos** y en parte de los salarios privados, e incluso del trabajo cuentapropista (autónomo o independiente)”, señala el analista **Jorge Arias,** de la consultora Polilat, al destacar que “el activo más importante” que tiene hoy el presidente es haber logrado reducir y estabilizar la inflación.
 
-![El servicio de tanquero es gratuito en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Agua-en-Quito.jpg)
-
-En el sur de **Quito**, 95 barrios enfrentan cortes de agua debido a la falta de lluvias que redujo los niveles en los embalses que abastecen a la capital[.](https://es.wikipedia.org/wiki/Cortes_(agua) "https://es.wikipedia.org/wiki/Cortes_(agua)")
-
-Más noticias
-------------
-
-* [Cortes de agua en Quito se inician en 95 barrios por 12 horas](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-se-inician-en-95-barrios-prevencion.html "Cortes de agua en Quito se inician en 95 barrios por 12 horas")
-* [Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito](https://www.elcomercio.com/actualidad/quito/agua-quito-embalse-lluvia-tanques.html "Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito")
-* [Barrio de Quito tiene escasez de agua por más de 10 días](https://www.elcomercio.com/actualidad/quito/barrio-agua-quito-moradores-cortes.html "Barrio de Quito tiene escasez de agua por más de 10 días")
-
-Esta medida busca garantizar el **suministro** a largo plazo y exhorta a la ciudadanía a reducir su consumo diario.
-
-Sistemas de abastecimiento en Quito
------------------------------------
-
-**Quito** depende de cuatro sistemas principales de **agua**: Papallacta, La Mica Quito Sur, Pita–Puengasí y varios sistemas menores entre los volcanes **Pichincha y Atacazo.** Estos embalses resultan cruciales para la distribución del líquido vital en la ciudad.
-
-Según la organización **Quito Cómo Vamos**, cada habitante de la capital utiliza en promedio 138 litros de agua al día, cifra que supera los 100 litros recomendados por la Organización Mundial de la Salud (**OMS**). Ante esta situación, el **Municipio** pidió un uso responsable del agua en los hogares.
-
-Tanqueros como alternativa para los barrios afectados
------------------------------------------------------
-
-La Empresa Pública Metropolitana de Agua y Saneamiento (**Epmaps**) implementó un sistema de **tanqueros** que abastece de agua a las zonas sin servicio.
-
-Estos camiones realizan recorridos constantes, transportan agua desde las **plantas de tratamiento** y la entregan a los barrios afectados.
-
-Son en total **7 tanqueros** los que llevan el agua hasta los barrios perjudicados. Este servicio es gratuito.
-
-Los barrios que necesitan agua deben solicitar el servicio de **tanqueros** mediante las **Administraciones** **Zonales**. A continuación, se presentan los contactos de estas oficinas en **Quito**:
-
-* **Calderón:** Av. Padre Luis Vaccari y Capitán Geovanni Calles, Teléfono: 3952300 ext. 12908.
-* **Eloy Alfaro:** Av. Alonso de Angulo y Cap. César Chiriboga, Teléfono: 3110802.
-* **Eugenio Espejo:** Av. Amazonas N38-112 y Pereira, Teléfono: 3952300 ext. 12464.
-* **La Delicia:** Av. De la Prensa N66-101 y Ramón Chiriboga, Teléfono: 1800510510 ext. 137.
-* **La Mariscal:** Veintimilla E9-36 y Leonidas Plaza, Teléfono: 3952300 ext. 28614.
-* **Los Chillos:** Calle Gribaldo Miño y Av. Ilaló, Teléfono: 3989300.
-* **Manuela Sáenz:** Chile Oe3-17 y Guayaquil, Teléfono: 3952300 ext. 16618.
-* **Quitumbe:** Av. Cóndor Ñan y Quitumbe Ñan, Teléfono: 1800510510 opción 6.
-* **Tumbaco:** Juan Montalvo y Oswaldo Guayasamín, Teléfono: 2371943 ext. 946.
-
-Siniestro en la autopista General Rumiñahui causa congestión vehicular
-======================================================================
-
-Efectivos de tránsito cerraron la circulación vehicular en el carril izquierdo en sentido sur-norte mientras se atiende esta emergencia.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Un volcamiento se dio en la autopista General Rumiñahui este miércoles 20 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-20T110838.961.jpg)
-
-El Ecu 911 informó este miércoles 20 de noviembre sobre las **tareas de emergencia** que se ejecutaron para atender un siniestro de tránsito en la **autopista General Rumiñahui.**
-
-### Más noticias
-
-* [Av. Simón Bolívar cerrada parcialmente este miércoles 20 de noviembre](https://www.elcomercio.com/actualidad/quito/av-simon-bolivar-cerrada-parcialmente-este-miercoles-20-de-noviembre.html "Av. Simón Bolívar cerrada parcialmente este miércoles 20 de noviembre")
-* [Incendios forestales en Azuay siguen activos a pesar de las lluvias](https://www.elcomercio.com/actualidad/ecuador/incendios-forestales-en-azuay-siguen-activos-a-pesar-de-las-lluvias.html "Incendios forestales en Azuay siguen activos a pesar de las lluvias")
-* [Funeral de Liam Payne se realiza este miércoles 20 de noviembre en Inglaterra](https://www.elcomercio.com/tendencias/entretenimiento/funeral-liam-payne-se-realiza-este-miercoles-20-de-noviembre-en-inglaterra.html "Funeral de Liam Payne se realiza este miércoles 20 de noviembre en Inglaterra")
-
-La emergencia en la autopista General Rumiñahui
------------------------------------------------
-
-La llamada de emergencia ingresó a la **central de emergencias** a las 09:50 de hoy para alertar sobre el volcamiento de un vehículo en la autopista, a la altura de la Gonzalo Escudero, **sector Monjas.**
-
-Desde la Sala Operativa se coordinó la asistencia necesaria desde el Centro Zonal 2-9, con la Agencia Metropolitana de Tránsito, el Cuerpo de Bomberos Quito y una ambulancia privada.
-
-Efectivos de tránsito **cerraron la circulación vehicular** en el carril izquierdo en sentido sur-norte mientras se atiende esta emergencia. Además, gestionan el flujo vehicular por esta vía que recibe diariamente la circulación de cientos de vehículos.
-
-A causa de este incidente, la autopista registró alta carga vehicular. Al momento, la circulación se encuentra [habilitada](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> [#Atención](https://twitter.com/hashtag/Atenci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Se reporta un siniestro de tránsito en la Autopista General Rumiñahui, en el sector de Orquídeas, en sentido Valle de Los Chillos – Quito, por lo que este tramo está parcialmente habilitado y se registra congestión vehicular.  
-> Toma precauciones. [pic.twitter.com/gNrtfTtt93](https://t.co/gNrtfTtt93)
-> 
-> — Autopista Rumiñahui (@AutopistaGR) [November 20, 2024](https://twitter.com/AutopistaGR/status/1859254272694571270?ref_src=twsrc%5Etfw)
-
-Otro choque se produjo en la av. Simón Bolívar
-----------------------------------------------
-
-El **Servicio de Emergencias ECU911** informó en la mañana de este miércoles 20 de noviembre sobre un siniestro de tránsito en la **av. Simón Bolívar.**
-
-A la **línea de emergencias única 911** llegó la llamada de alerta a las 07:57 de este miércoles 20 de noviembre de 2024.
-
-En ella se informaba sobre un siniestro de tránsito en la **av. Simón Bolívar**, a la altura del sector de El Troje.
-
-Para brindar la asistencia necesaria, se coordinó la ayuda desde el Centro Zonal 2-9 con la Agencia Metropolitana de Tránsito (AMT) y el **Ministerio de Salud** (MSP).
-
-Según la información difundida, se trató de un **volcamiento de un vehículo** color blanco que al parecer perdió pista.
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 📍 Sector: El Troje  
-> 🚧 Cierre: av. Simón Bolívar  
-> 🛤️ Carriles cerrados: derecho y central en sentido sur – norte  
-> 🛑 Motivo: siniestro de tránsito  
->   
-> 👮☀ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/efpYhq6syK](https://t.co/efpYhq6syK)
-> 
-> — AMTQuito (@AMT\_Quito) [November 20, 2024](https://twitter.com/AMT_Quito/status/1859231784669430120?ref_src=twsrc%5Etfw)
-
-Trucos para escribir ‘prompts’ en un ‘chatbot’ de inteligencia artificial
-=========================================================================
-
-Aprende a escribir ‘prompts’ efectivos para maximizar el potencial de herramientas de inteligencia artificial.
---------------------------------------------------------------------------------------------------------------
-
-![Un ‘prompt’ bien formulado mejora resultados de inteligencia artificial. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/prompts-inteligencia-artificial.jpg)
-
-Un **buen ‘prompt’** es la clave para interactuar eficazmente con **modelos de inteligencia artificial** como **ChatGPT y Gemini**. Estos sistemas requieren **instrucciones claras** para generar **respuestas útiles**. A continuación, **consejos prácticos** sobre cómo formular **‘prompts’ efectivos.** 
-
-### Más noticias
-
-* [Google e inteligencia artificial se alían para transcribir reuniones en tiempo real](https://www.elcomercio.com/tecnologia/google-transcribir-reuniones-ia.html "https://www.elcomercio.com/tecnologia/google-transcribir-reuniones-ia.html") 
-* [Llegaron los borradores de WhatsApp, nueva función útil](https://www.elcomercio.com/tecnologia/whatsapp-borradores-actualizacion-tutorial.html "https://www.elcomercio.com/tecnologia/whatsapp-borradores-actualizacion-tutorial.html") 
-
-**¿Qué son los ‘prompts’?** 
-----------------------------
-
-Un **‘prompt’** es una instrucción o texto inicial que se proporciona a un **modelo de inteligencia artificial**. Este **texto guía** la generación de respuestas o resultados específicos. Los ‘prompts’ son esenciales para **establecer el contexto y la tarea** que se espera que la IA complete, lo que permite una **comunicación efectiva** en lenguaje natural, de acuerdo con [](https://panamericanlatam.com/que-es-un-prompt-en-ia-y-para-que-sirve/ "https://panamericanlatam.com/que-es-un-prompt-en-ia-y-para-que-sirve/")[Panamerican Business School](https://panamericanlatam.com/que-es-un-prompt-en-ia-y-para-que-sirve/ "https://panamericanlatam.com/que-es-un-prompt-en-ia-y-para-que-sirve/").  
-
-Los ‘prompts’ pueden **variar en complejidad**, desde **simples preguntas** hasta párrafos completos. Su **correcta formulación** influye directamente en la **calidad de las respuestas** generadas por la IA. Por ejemplo, a decir de la [web Cebra](https://www.cebra.com/blog/que-es-un-prompt "https://www.cebra.com/blog/que-es-un-prompt"), un **‘prompt’ bien estructurado** puede resultar en un **texto coherente y relevante**, mientras que uno mal formulado puede llevar a **resultados insatisfactorios.** 
-
-**Importancia de los ‘prompts’** 
+La narrativa del excéntrico Milei
 ---------------------------------
 
-La **calidad del resultado** obtenido de una IA depende en gran medida del ‘prompt’ utilizado. Un **buen ‘prompt’** proporciona el **contexto necesario** y reduce las interpretaciones erróneas. Por lo tanto, **aprender a escribir ‘prompts’** efectivos es crucial para quienes desean aprovechar al máximo las capacidades de estas herramientas, de acuerdo con [Xataka](https://www.xataka.com/basics/que-prompt-que-importantes-para-usar-inteligencia-artificial "https://www.xataka.com/basics/que-prompt-que-importantes-para-usar-inteligencia-artificial").  
+Ambos analistas coinciden en la habilidad de Milei para **construir una narrativa en torno al concepto** de “la casta”, que consideran clave para su llegada a la Presidencia al diferenciarse de los políticos tradicionales.
 
-Los ‘prompts’ no solo son importantes para la **interacción con los modelos de lenguaje**, sino también durante su **entrenamiento**. Los modelos **aprenden a responder adecuadamente** a partir de ejemplos proporcionados en forma de ‘prompts’, según [aula CM](https://aulacm.com/que-es/prompt-significado-definicion/ "https://aulacm.com/que-es/prompt-significado-definicion/"). Esto resalta la relevancia de **formular preguntas claras y específicas**. 
+Cree que su capacidad para moldear la definición de esa “casta” durante estos 11 meses de gobierno le han permitido seguir presentándose la **única alternativa viabl**e y así mantener sus niveles de popularidad, que se ubican en torno al 50 %.
 
-**Consejos para escribir ‘prompts’ efectivos** 
------------------------------------------------
+Consultados por el aspecto personal, consideran que la llegada a la Casa Rosada no ha moderado los aspectos más impulsivos e **irreverentes del excéntrico líder**, quien -según afirman- ha mantenido la autenticidad de la campaña.
 
-### **Definir el objetivo** 
+“Veo más continuidades que cambios. Es lo que uno podía imaginar que iba a suceder si tomabas a un líder político inestable, violento, solitario y muy seguro de sí mismo, y le ponías 14 millones de votos y lo mandabas a la quinta de Olivos (residencia presidencial)”, señala González.
 
-Antes de redactar un ‘prompt’, es esencial **tener claro el objetivo** del contenido que se desea generar. Es importante identificar si se busca informar, persuadir o entretener. Contar con esta claridad permite formular ‘prompts’ más efectivos. 
+El escritor y periodista resalta, sin embargo, como principal aspecto de su evolución “el ejercicio de la crueldad” contra todo aquel que considera su enemigo.
 
-### **Ser claro y específico** 
+De cara al futuro, si bien vaticinan que su partido, La Libertad Avanza (LLA), tendrá un buen desempeño en las elecciones legislativas de 2025, ambos indican en que todo se reducirá al éxito o al fracaso del modelo económico implementado por Milei.
 
-Un ‘prompt’ efectivo debe **incluir información relevante** y estar redactado de forma precisa. Por ejemplo, para obtener contenido sobre los beneficios del yoga, un ‘prompt’ adecuado sería: “Escribe un artículo sobre los beneficios del yoga para la salud mental”, en lugar de usar una instrucción genérica como “hablar sobre yoga”, según Cebra.  
+“Va a tener que empezar a responder con la economía y no solo con sus **baluartes de campaña**”, anticipa González.
 
-### **Considerar a la audiencia** 
+Walter Solís cuenta con condición de refugiado, según SRE de México
+===================================================================
 
-**Definir al público objetivo** es fundamental, ya que la presentación de la información varía según el perfil de los lectores. Incluir detalles sobre la audiencia en el ‘prompt’ facilita que la IA ajuste su tono y estilo. 
+SRE confirma condición de refugiado de Walter Solís y garantiza su protección bajo leyes mexicanas y acuerdos internacionales.
+------------------------------------------------------------------------------------------------------------------------------
 
-### **Especificar el formato y la extensión** 
+![Walter Solís, refugiado en México, estaría protegido por leyes y convenios internacionales, según SRE de México.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-44-2.jpg)
 
-Si se requiere un **formato o extensión específica**, es útil mencionarlo en el ‘prompt’. Por ejemplo: “Crea un resumen de 150 palabras sobre los efectos del cambio climático” ofrece directrices claras para obtener el contenido deseado, a decir de Aula CM.  
+Tras la detención de **Walter Solís**, la **Secretaría de Relaciones Exteriores (SRE) de México** emitió un comunicado en el que confirma que el **ciudadano ecuatoriano** cuenta con la ‘**condición de refugiado**‘ en el país. Esta fue otorgada conforme a lo dispuesto en la **Ley sobre Refugiados, Protección Complementaria y Asilo Político**.
 
-### **Probar diferentes formulaciones** 
+### Más noticias
 
-Experimentar con **distintas formas de redactar ‘prompts’** puede mejorar los resultados. Cambiar palabras o incluir detalles adicionales permite identificar qué enfoques generan respuestas más efectivas. La práctica constante optimiza este proceso.
+* [Exministro del correísmo, Walter Solís, fue capturado por la Interpol en México](https://www.elcomercio.com/actualidad/seguridad/exministro-correismo-walter-solis-capturado-interpol-mexico.html "Exministro del correísmo, Walter Solís, fue capturado por la Interpol en México")
+* [Venezuela solicitó la alerta roja de Interpol para Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezuela-alerta-roja-interpol-edmundo-gonzalez.html "Venezuela solicitó la alerta roja de Interpol para Edmundo González")
+* [México y la nueva presidencia de Trump, oportunidades económicas y fricciones políticas](https://www.elcomercio.com/actualidad/mundo/mexico-nueva-presidencia-trump-oportunidades-economicas-fricciones-politicas.html "México y la nueva presidencia de Trump, oportunidades económicas y fricciones políticas")
+
+La SRE enfatizó que dicha condición le garantiza la protección establecida por la normativa mexicana.
+
+El organismo también subrayó que Solís está amparado por el principio de **“no devolución” al país de origen**. Esto contemplado en la **Convención sobre el Estatuto de los Refugiados**, de la cual México es signatario.
+
+Este principio impide que las **personas refugiadas** sean regresadas a un lugar donde su vida o libertad puedan estar en riesgo.
+
+“La Secretaría de Relaciones Exteriores ha mantenido comunicación constante con la **Fiscalía General de la República** para coordinar las **acciones necesarias para garantizar la libertad** del señor **Solís Valarezo y su derecho a permanecer en México como residente**,” señala el comunicado.
+
+> La [@SRE\_mx](https://twitter.com/SRE_mx?ref_src=twsrc%5Etfw) informa que el Sr. Walter Hipólito Solís Valarezo cuenta con la “condición de refugiado” en nuestro país, de conformidad con el procedimiento establecido en la Ley sobre Refugiados, Protección Complementaria y Asilo Político, y recibirá, por tanto, la protección que la…
+> 
+> — Relaciones Exteriores (@SRE\_mx) [November 20, 2024](https://twitter.com/SRE_mx/status/1859327522078335249?ref_src=twsrc%5Etfw)
+
+¿Qué pasó con Walter Solís?
+---------------------------
+
+El **exministro de Transporte y Obras Públicas en el Gobierno de Rafael Correa**, **Walter Solís**, fue c**apturado en México por la Interpol** este miércoles 20 de noviembre de 2024.
+
+La aprehensión se produjo tras la solicitud de la **Corte Nacional de Justicia (CNJ)**. En abril de 2024 emitió una orden de prisión preventiva en su contra. El juez **Julio César Inga** requirió a Interpol localizar a Solís y pidió **formalmente su extradición**.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCmxUGTxzDg/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCmxUGTxzDg/?utm_source=ig_embed&utm_campaign=loading)
+
+Casos judiciales acumulados por Walter Solís
+--------------------------------------------
+
+Walter Solís enfrenta múltiples procesos penales en Ecuador, destacando su implicación en los casos Senagua, Sobornos y Reconstrucción de Manabí. En el **caso Senagua**, lo sentenciaron a ocho años de prisión por un presunto desvío de más de **8 millones de dólares.** Estos fondos debían destinarse al pago de una mediación contractual.
+
+En el caso Sobornos, el tribunal condenó al exministro a ocho años por cohecho pasivo agravado. Esto ocurrió por su participación como uno de los **20 procesados en el esquema de corrupción** que habría perjudicado al Estado con **2,5 millones de dólares**. Este caso involucró pagos ilícitos por parte de la empresa Odebrecht.
+
+Caso Reconstrucción de Manabí
+-----------------------------
+
+El caso Reconstrucción de Manabí motivó la última orden de prisión preventiva contra Solís. La Fiscalía indaga un presunto desvío de **367 millones de dólares.** Estos serían recaudados por la Ley Solidaria, fondos destinados a la reconstrucción de Manabí y Esmeraldas tras el terremoto de 2016.
+
+WhatsApp trabaja en su “modo fiesta” para este Fin de Año 
+==========================================================
+
+WhatsApp introducirá un "modo fiesta" con confeti.
+--------------------------------------------------
+
+![En WhatsApp, reacciones con emojis llenarán de confeti los chats. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-modo-fiesta.jpg)
+
+**WhatsApp** prepara una **nueva función** que cambiará la manera en que celebramos dentro de la ‘app’. Según información de [Hipertextual](https://hipertextual.com/2024/11/nuevo-modo-fiesta-en-whatsapp-este-es-el-truco-para-llenar-tus-chats-de-confeti "https://hipertextual.com/2024/11/nuevo-modo-fiesta-en-whatsapp-este-es-el-truco-para-llenar-tus-chats-de-confeti"), gracias a las capturas de la **versión beta**, se ha descubierto un **“modo fiesta”** que añadirá **confeti a los chats**. Aunque aún no está disponible en su **versión final**, se espera que esta función sea una de las más populares de la aplicación en los próximos meses. 
+
+### Más noticias
+
+* [WhatsApp y Google permitirán la verificación de imágenes falsas en las conversaciones](https://www.elcomercio.com/tecnologia/whatsapp-google-imagenes-desinformacion-deepfakes.html "https://www.elcomercio.com/tecnologia/whatsapp-google-imagenes-desinformacion-deepfakes.html")
+* [La lupa escondida de WhatsApp trae novedades relacionadas con la seguridad](https://www.elcomercio.com/tecnologia/whatsapp-lupa-enlaces-seguridad.html "https://www.elcomercio.com/tecnologia/whatsapp-lupa-enlaces-seguridad.html") 
+
+**Modo fiesta: reacciones llenas de confeti** 
+----------------------------------------------
+
+La novedad se centra en las **reacciones a los mensajes**. Cuando el **“modo fiesta”** esté disponible, los usuarios podrán seleccionar uno de los **emojis** relacionados con la celebración, como la **carita sonriente**, la **corneta que expulsa confeti** o la **bola de confeti.** Al elegir uno de estos emojis, la pantalla se llenará de una **animación de confeti,** lo que creará una experiencia más divertida y festiva. 
+
+**Celebración en grupo** 
+-------------------------
+
+Lo más interesante de esta función, siguiendo con Hipertextual, es que no se limita a un solo usuario. Los **miembros de un grupo** podrán reaccionar a los mensajes con estos emojis, lo que generará una **explosión de confeti** en toda la pantalla. Esto convertirá los chats en un **espacio de celebración colectiva**, algo que sin duda hará que la ‘app’ sea aún más entretenida para quienes buscan compartir momentos especiales. 
+
+**Cómo activar el modo fiesta** 
+--------------------------------
+
+![Foto: wabetainfo.com. ](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-modo-fiesta-1-1024x683.jpg)
+
+Foto: wabetainfo.com.
+
+Según [Infobae](https://www.infobae.com/tecno/2024/11/19/como-activar-el-modo-fiesta-en-whatsapp-y-comenzar-a-celebrar-el-ano-nuevo-desde-ya/ "https://www.infobae.com/tecno/2024/11/19/como-activar-el-modo-fiesta-en-whatsapp-y-comenzar-a-celebrar-el-ano-nuevo-desde-ya/"), si eres **usuario de Android** y formas parte del **programa beta,** solo debes seguir unos sencillos pasos para activar esta animación festiva. 
+
+Para **disfrutar del confeti**, abre un chat en WhatsApp y **mantén pulsado un mensaje**. Luego, selecciona el emoji relacionado con el **confeti.** Al hacerlo, una **animación de confeti** aparecerá en tu pantalla. 
+
+**WhatsApp Beta: lo que necesitas saber** 
+------------------------------------------
+
+El “modo fiesta” es una función exclusiva de **WhatsApp Beta**, una versión de prueba donde los usuarios pueden **experimentar características nuevas** antes de su lanzamiento oficial. Esta plataforma, siguiendo con Infobae, permite a la empresa **recopilar ‘feedback’**, detectar errores y **mejorar las funciones** antes de implementarlas en la versión estable de la ‘app’, lo que asegura una **mejor experiencia** para todos los usuarios. 
+
+**Acceso limitado al programa WhatsApp Beta** 
+----------------------------------------------
+
+El **programa WhatsApp Beta** está disponible tanto para dispositivos Android como iOS. Sin embargo, **el acceso es limitado**, por lo que los interesados deben unirse al programa a través de las tiendas de aplicaciones de sus dispositivos.  
+
+Cortes de luz en Quito este jueves 21 de noviembre
+==================================================
+
+Los cortes de luz en la capital para este jueves 21 de noviembre son definidos por la Empresa Eléctrica Quito.
+--------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz para Quito este jueves 21 de noviembre son de siete horas consecutivas para el sector industrial.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-jueves-21-noviembre.jpg)
+
+Los **cortes de luz** en **Quito** este **jueves 21 de noviembre** son de hasta ocho horas para el sector residencial y de siete para el sector industrial.
+
+La **Empresa Eléctrica Quito** definió la programación de la suspensión del servicio de energía eléctrica para la capital.
+
+### Más noticias:
+
+* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
+* [Hidroeléctrica Mazar está apagada cinco días y su embalse se recupera lentamente](https://www.elcomercio.com/actualidad/negocios/hidroelectrica-mazar-esta-apagada-cinco-dias-y-su-embalse-se-recupera-lentamente.html "Hidroeléctrica Mazar está apagada cinco días y su embalse se recupera lentamente")
+
+Horarios de los cortes de luz en Quito el jueves 21 de noviembre
+----------------------------------------------------------------
+
+Ecuador se acerca a los **dos meses** de cortes de luz programados por la falta de **generación** de energía.
+
+El país es dependiente de las **lluvias** para generar energía eléctrica y se enfrenta a una de las más fuertes sequías de las últimas décadas.
+
+En los últimos días, la mejora en las condiciones de producción de Coca Codo Sinclair hizo que el Gobierno de **Daniel Noboa** disponga una nueva reducción.
+
+Además, el acuerdo energético entre **Ecuador y Colombia** alivia la crisis energética en el país.
+
+La ministra de Energía encargada, **Inés Manzano**, señaló que el suministro de energía desde Colombia empezó el domingo 17 de noviembre.
+
+En tanto, la situación de los embalses y las hidroeléctricas en el país es regular.
+
+El apagón en **Mazar** lleva cinco días y su embalse se recupera lentamente.
+
+Los cortes de luz **disminuyeron** de 12 a ocho horas para esta semana.
+
+La ciudadanía está a la **expectativa** de la nueva programación para el viernes 22, sábado 23 y domingo 24 de noviembre, que aún no se ha dado a conocer.
+
+Así, en la capital, los cortes de luz son de ocho horas, divididas en dos franjas horarias para el **sector residencial.**
+
+Para el **sector industrial**, los cortes de luz son de siete horas consecutivas, de 17:00 a 24:00.
+
+A continuación, los **cortes de luz en Quito para este jueves 21 de noviembre** de 2024:
+
+¿Cuándo hay carteleras de boxeo en Ecuador?
+===========================================
+
+El boxeo en Ecuador tendrá carteleras en este mes. Erick Bone, Carlos Mina, Pedro Villegas son algunos de los boxeadores que pelearán.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Pedro Villegas, boxeador ecuatoriano de 25 años, será estelarista en una de las carteleras de boxeo en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/pedrovillegas.jpg)
+
+Los aficionados del boxeo tendrán mucha acción en la segunda quincena de noviembre del 2024, con la organización de carteleras profesionales de boxeo en Ecuador que incluirán a estelares de la talla de **Erick Bone**, **Pedro Villegas**, **Diego Quiñónez** y el debut del olímpico **Carlos Mina**.
+
+Para este y el próximo fin de semana están anunciadas carteleras de boxeo en Quito, organizadas por distintas empresas.
+
+El 23 de noviembre del 2024 será la **Quorum Fight Night IX** de Showbox con **Erick Bone** contra el mexicano **Víctor de Liga Quezada.**
+
+En tanto, para el 29 de noviembre será La Noche de Boxeo II en el coliseo de la Universidad Central. La organizan Capital Box y Knockout Promotions.
+
+### Más noticias:
+
+* [Mike Tyson regresa al boxeo a los 58 años. ¿Un riesgo para su salud?](https://www.elcomercio.com/deportes/boxeo/mike-tyson-boxeo-salud-riesgo-jake-paul.html "Mike Tyson regresa al boxeo a los 58 años. ¿Un riesgo para su salud?")
+* [Madre de Jake Paul amenazó a Mike Tyson por abofetear a su hijo](https://www.elcomercio.com/deportes/boxeo/madre-jake-paul-amenaza-tyson.html "Madre de Jake Paul amenazó a Mike Tyson por abofetear a su hijo")
+* [Mike Tyson y Jake Paul calientan la pelea de Netflix](https://www.elcomercio.com/deportes/boxeo/mike-tyson-jake-paul-pelea-netflix-cachetada.html "Mike Tyson y Jake Paul calientan la pelea de Netflix")
+
+Erick Bone vuelve al cuadrilátero
+---------------------------------
+
+El manabita **Erick Bone** ha sido uno de los mejores boxeadores de los últimos años en Ecuador. Con 28 victorias y siete derrotas, el tricolor de 35 años se medirá ante **Victor Alfonso de Lira Quezada**, mexicano de 30 años, con un récord profesional de 7 triunfos y una derrota.
+
+Ese será el combate estelar de la cartelera anunciada para el 23 de noviembre del 2024 en el **Paseo San Francisco.**
+
+Se trata de una cartelera que incluirá a peleadores de la talla de **Andrés Muñoz**, Luis Díaz Pestana, entre otros.
+
+Noche de Boxeo II
+-----------------
+
+**Pedro ‘Insoportable’ Villegas**, de 25 años, tendrá una nueva oportunidad sobre el cuadrilátero cuando se enfrente al mexicano **Axel ‘El Lobo’ Talavera** en el combate estelar de la cartelera prevista para el 29 de noviembre del 2024 en el coliseo de la **Universidad Centra**l, en Quito.
+
+“El primer paso es buscar mi clasificación entre los mejores del mundo. Mi equipo y yo estamos trabajando bastante fuerte para conseguir el objetivo, pero el primer paso es derrotar al mexicano Axel Talavera para continuar con mis planes”, le contó el boxeador ecuatoriano a EL COMERCIO.
+
+La **Noche de Boxeo II** también marcará el debut profesional de **Carlos Mina**, boxeador que ha representado al país en [**Juegos Olímpicos**.](https://es.wikipedia.org/wiki/Juegos_Ol%C3%ADmpicos)
+
+**Mina**, de 32 años, se medirá al experimentado **Diego ‘Impacto’ Quiñónez**.
+
+Donald Trump promete acabar con la guerra de Ucrania en 24 horas
+================================================================
+
+Vladímir Putin, congratuló en público al republicano, al que calificó de “valiente”.
+------------------------------------------------------------------------------------
+
+![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-noviembre-2.jpg)
+
+El regreso de [Donald Trump](https://www.elcomercio.com/actualidad/mundo/senado-ultima-trump-formacion-controvertido-gobierno.html "https://www.elcomercio.com/actualidad/mundo/senado-ultima-trump-formacion-controvertido-gobierno.html") a la **Casa Blanca** abre un nuevo e incierto capítulo en la **guerra de Ucrania**, un conflicto al que el republicano promete **poner fin en solo 24 horas,** aunque Kiev teme que su solución pase por la **anexión a Rusia** del territorio ucraniano ocupado.
+
+### Más noticias:
+
+* [¿La elección de Donald Trump influirá en el comercio entre Ecuador y EE.UU.?](https://www.elcomercio.com/actualidad/negocios/la-eleccion-de-donald-trump-influira-en-el-comercio-entre-ecuador-y-ee-uu.html "¿La elección de Donald Trump influirá en el comercio entre Ecuador y EE.UU.?")
+* [Matt Gaetz fue nominado a fiscal general de Donald Trump](https://www.elcomercio.com/actualidad/mundo/matt-gaetz-nominado-fiscal-general-donald-trump.html "Matt Gaetz fue nominado a fiscal general de Donald Trump")
+* [Donald Trump agradece a Joe Biden una transición pacífica](https://www.elcomercio.com/actualidad/mundo/trump-destaca-politica-dura-agradece-biden-transicion-pacifica.html "Donald Trump agradece a Joe Biden una transición pacífica")
+
+La incertidumbre aumenta tras la **decisión estadounidense de autorizar a Ucrania** el uso de los misiles ATACMS (300 kilómetros de alcance) en suelo ruso, decisión de la que informó la prensa de Estados Unidos.
+
+Según algunos medios, la utilización de estos misiles se circunscribiría a la **región rusa de Kursk,** parcialmente ocupada por los ucranianos y donde, según la **inteligencia militar occidental,** participan del lado ruso soldados norcoreanos.
+
+Trump y su relación con Ucrania y Rusia
+---------------------------------------
+
+Sabiendo lo que está en juego, el presidente ucraniano, **Volodímir Zelenski**, fue uno de los primeros líderes que felicitó por su victoria a Trump, con quien tuvo una llamada telefónica en la que también participó Elon Musk, que apoya a Ucrania con su red de satélites de internet Starlink.
+
+Por su parte, el mandatario ruso, Vladímir Putin, congratuló en público al republicano, al que calificó de “valiente” por su **reacción al intento de asesinato que sufrió en julio**, y se mostró “dispuesto” a mantener contactos con él sobre el conflicto en Ucrania.
+
+Pero el Kremlin desmintió una información del diario The Washington Post según la cual ambos habrían hablado ya por teléfono.
+
+Lo cierto es que Trump expresó en el pasado su **admiración por el presidente ruso**, mientras su relación con Zelenski fue más controvertida.
+
+De hecho, en 2019, durante su primer mandato (2017-2021), Trump fue sometido a un **juicio político** en el Congreso estadounidense, del que resultó absuelto, por haber presionado a Zelenski para que investigara a Joe Biden y su hijo Hunter por los negocios que estos tenían en Ucrania.
+
+¿El fin del envío de armas?
+---------------------------
+
+Cinco años después, el futuro de ese país puede estar en manos de Trump, quien durante la campaña electoral dijo que lograría un acuerdo con **Putin y Zelenski** para poner fin a la guerra en 24 horas, incluso antes de que el republicano asuma el poder el 20 de enero, aunque no ofreció más detalles al respecto.
+
+Lo que sí se sabe es que, bajo el lema de **‘Estados Unidos primero’,** Trump propone un repliegue de la presencia estadounidense en el mundo, lo que afectaría a la ayuda militar que recibe Ucrania, país al que Washingotn ha destinado 108 000 millones de dólares desde el inicio de la invasión rusa en febrero de 2022.
+
+Y en lo que se refiere a las armas, Biden le deja como herencia a Trump la **autorización a Ucrania** del uso de los misiles ATACMS en territorio ruso.
+
+El magnate neoyorquino, de hecho, ordenó a los republicanos bloquear durante varios meses la aprobación de un paquete extraordinario de **61 000 millones de dólares** para Kiev que el presidente, Joe Biden, solicitó al Congreso a finales de 2023.
+
+El Congreso acabó dando luz verde a ese presupuesto, pero uno de los senadores que votaron en contra fue Marco Rubio, nominado por Trump como futuro secretario de Estado.
+
+¿Se avecina un giro de EE.UU. frente a Putin?
+---------------------------------------------
+
+El próximo jefe de la diplomacia estadounidense condenó con vehemencia la invasión rusa cuando Putin ordenó el ataque, pero recientemente ha expresado posiciones favorables a buscar una solución negociada al conflicto.
+
+Algunos laboratorios de ideas de Washington vinculados al trumpismo apuntan a una negociación para declarar un **armisticio en la actual línea del frente de batalla**, lo que en la práctica supondría la anexión a Rusia de parte del este de Ucrania.
+
+Zelenski afirma que su país quiere la paz, pero sostiene que esta debe ser justa y rechaza cualquier tipo de cesión de territorios.
+
+Pero cierto es que Trump tendrá **mucha más influencia para arrancar concesiones a Kiev que a Moscú,** dado que puede condicionar el envío de armas a Ucrania para la guerra a que Zelenski se siente a negociar con Putin.
+
+Consciente del escepticismo de la nueva Administración de Trump, Biden ordenó a su equipo acelerar la entrega a Ucrania de todos los fondos autorizados por el Congreso que todavía no se han desembolsado.
+
+Desechos plásticos de todo el mundo se acumulan al norte del Pacífico
+=====================================================================
+
+Los desechos plásticos dañan el ecosistema marino y alteran el equilibrio entre especies.
+-----------------------------------------------------------------------------------------
+
+![La mancha de basura del Pacífico Norte está creciendo más rápido de lo previsto.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-4-1.jpg)
+
+**Residuos plásticos descompuestos**, desechados en todo el mundo hace décadas, se están acumulando y aumentando exponencialmente en la **isla flotante de basura** que crece en el norte del **Océano Pacífico**.
+
+### Más noticias
+
+* [Las ballenas azules forman una sola gran población en la Antártida](https://www.elcomercio.com/tendencias/ciencia/ballenas-azules-forman-gran-poblacion-antartida.html "Las ballenas azules forman una sola gran población en la Antártida")
+* [El trabajo invisible de las mujeres ecuatorianas que reciclan plástico](https://www.elcomercio.com/actualidad/ecuador/el-trabajo-invisible-de-las-mujeres-ecuatorianas-que-reciclan-plastico.html "El trabajo invisible de las mujeres ecuatorianas que reciclan plástico")
+* [Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático](https://www.elcomercio.com/actualidad/mundo/trump-llega-a-la-casa-blanca-dispuesto-a-demoler-la-lucha-contra-el-cambio-climatico.html "Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático")
+
+Un estudio publicado en la revista Environmental Research Letters revela que los **fragmentos** de **plástico** de un centímetro están aumentando mucho más rápido que los **plásticos flotantes** de mayor tamaño en esta **concentración** de **residuos oceánica**, lo que **amenaza** el **ecosistema local** y potencialmente el **ciclo global** del **carbono**.
+
+Aumento de plásticos en el Pacífico
+-----------------------------------
+
+La investigación, que se basa en los **estudios sistemáticos** de la NPGP (North Pacific Garbage Patch, como se denomina en inglés) realizados entre 2015 y 2022 por la organización sin fines de lucro The Ocean Cleanup, encontró un **aumento** inesperado en la **concentración masiva** de **fragmentos** de **plástico** que probablemente sean nuevos en la región y no resulten de la **degradación** de objetos ya presentes. Los **investigadores** plantean la **hipótesis** de que estos **fragmentos** provenientes de la descomposición de **plásticos** de hace décadas que se desechan en todo el mundo ahora se están acumulando y aumentando exponencialmente en esta remota región del Océano Pacífico.
+
+El estudio examina 917 muestras de redes de arrastre con dispositivos similares a mantarrayas, 162 muestras de redes de arrastre con dispositivos de megaarrastre, 74 estudios aéreos y 40 extracciones del sistema de limpieza de 50 expediciones individuales entre 2015 y 2022.
+
+Los hallazgos clave incluyen
+----------------------------
+
+* Los fragmentos de plástico aumentaron de 2,9 kg por km² a 14,2 kg por km² en 7 años.
+* Entre el 74 % y el 96 % de este aumento puede tener su origen en fuentes extranjeras.
+* Los puntos críticos de desechos pequeños aumentaron en concentración de 1 millón por km² en 2015 a más de 10 millones por km² en 2022.
+* Por km², el número promedio de cada clase de tamaño de plásticos flotantes ha aumentado significativamente: Los microplásticos (0,5 mm-5 mm) aumentaron de 960 000 a 1 500 000 elementos; los mesoplásticos (5 mm-50 mm) aumentaron de 34 000 a 235 000 elementos; los macroplásticos (50 mm-500 mm) aumentaron de 800 a 1800 elementos por km².
+
+Una amenaza para el ecosistema marino
+-------------------------------------
+
+El volumen de **desechos plásticos** en la región supera al de los **organismos vivos**, lo que amenaza el **ecosistema** no solo por la **ingestión** o enredo de plástico por parte de la vida marina, sino que también puede afectar el **ciclo global del carbono** debido al pastoreo del zooplancton afectado por la presencia de **microplásticos flotantes**. Debido al aumento de los **plásticos flotantes**, los animales marinos endémicos se encuentran ahora en **competencia** directa con nuevas especies que han colonizado los **desechos plásticos** y se han desplazado hasta esta parte remota del océano.
+
+Llamado urgente a la acción contra la contaminación plástica
+------------------------------------------------------------
+
+Laurent Lebreton, autor principal del artículo, afirma: “El aumento exponencial de los fragmentos de **plástico** observado en nuestros estudios de campo es una consecuencia directa de décadas de gestión inadecuada de los **residuos plásticos,** lo que lleva a la acumulación incesante de **plásticos** en el entorno marino. Esta **contaminación** está causando daños a la **vida marina**, con impactos que apenas estamos empezando a comprender por completo. Nuestros hallazgos deberían servir como un llamado urgente a la acción para los **legisladores** involucrados en la negociación de un **tratado global** para poner fin a la **contaminación** plástica. Ahora, más que nunca, es esencial una intervención global decisiva y unificada”.
+
+Eliminar plásticos del océano, una prioridad urgente
+----------------------------------------------------
+
+Los **investigadores** enfatizan que, si bien los países están priorizando la prevención de la **contaminación** plástica aguas arriba, la **interceptación** y **eliminación** de los **plásticos** ya presentes en el entorno marino global es esencial para mitigar urgentemente la **generación** de **fragmentos** de plástico cada vez más pequeños en el **océano** durante las próximas décadas.
