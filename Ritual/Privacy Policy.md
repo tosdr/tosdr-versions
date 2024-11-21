@@ -1005,12 +1005,4 @@ Your Cart
 
 Loading...
 
-Subtotal
-
-$0.00
-
-Shipping
-
-Free
-
-Continue to Checkout
+Checkout
