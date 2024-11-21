@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [The complete guide to third-party management](https://www.onetrust.com/resources/the-complete-guide-to-third-party-management-ebook/)
+* [Staying equipped for compliance: A global recap of emerging privacy laws](https://www.onetrust.com/resources/staying-equipped-for-compliance-a-global-recap-of-emerging-privacy-laws-webinar/)
 * [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
-* [How OneTrust helps SMEs stay ahead of third-party risk](https://www.onetrust.com/resources/how-onetrust-helps-smes-stay-ahead-of-third-party-risk/)
-* [Rise above risk: Third-party management in technology](https://www.onetrust.com/resources/rise-above-risk-third-party-management-in-technology-infographic/)
 
 ### Platform
 
