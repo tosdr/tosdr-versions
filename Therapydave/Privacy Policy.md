@@ -112,7 +112,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 _Last updated: November 14, 2024_
 
-_“I’ve had a lot of therapists over the last 17 years and I’ve never had a counselor bring me through this much progress... ever. Not even close.”_
+_“A lot of times I didn’t let myself be happy. After working with Dave, I’ve learned to change my focus. I’m not lying to myself anymore, I’m just allowing myself to just let it happen.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
