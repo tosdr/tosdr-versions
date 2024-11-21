@@ -359,16 +359,14 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Storm alert Updated Nov 20, 11:59 PM](#collapseOne)  
+[Storm alert Updated Nov 21, 6:00 AM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-We understand the stress and disruption that outages can cause for you and your family and that it's especially challenging on cold days and nights. We continue our around-the-clock work to restore your power due to Tuesday’s damaging windstorm.
+Overnight, crews made steady progress restoring power to customers impacted by Tuesday’s windstorm, restoring more than half the total customers who’ve been affected since the start of the storm. However, we understand that for those still affected it remains incredibly challenging, especially with the cold conditions. For customers needing support, please check with your local government or call 211 to find warming shelters and other resources. King 5 also has this list of resources. We are working around the clock and will continue to do so until every customer is restored.
 
-As of 11:59 p.m., we have 298,294 customers out of power, with more than 297,566 customers restored since the start of the storm. However, due to extensive wind and equipment damage, power for some customers may be out for an extended period. We are updating our outage map with the best information available and will continue to provide updates as restoration continues. Please note that outage numbers will fluctuate as restorations are occurring throughout the system. Our focus overnight continues to be on transmission lines to critical infrastructure and public safety. Our PSE dispatch team has fielded over 2,000 escalated 911 calls since Tuesday afternoon.
-
-Our first step in restoring power is damage assessment: getting a look at what’s been done to the system and determining the extent of repairs that are needed. Crews continue to survey damage on the ground overnight and helicopter patrols will resume tomorrow morning. On Wednesday, helicopter patrols spent 9 hours in total flight assessing our transmission lines for damage. We will provide restoration updates through our outage map at [pse.com/outages](https://www.pse.com/en/outage/outage-map) as information becomes available.
+Crews have been able to restore power to 57 schools with known power outages over the last two days, with continued efforts to restore remaining schools, medical facilities and hospitals. The high winds and resulting tree damage not only downed the smaller, local power lines, but also damaged the larger transmission lines – the larger lines that bring power into communities. Crews are beginning to bring transmission lines back online; these lines need to be brought back into service before crews can focus on the local distribution system. Please note that as transmission comes online, there will be temporary spikes in data as those systems are energized, you may see numbers go up and down on the outage map as the process occurs.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
