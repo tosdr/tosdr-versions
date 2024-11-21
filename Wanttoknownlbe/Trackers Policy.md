@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/adempauze/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/voedsel/rusland-per-juli-2014-alle-gmo-in-de-ban/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -91,16 +91,6 @@ Inschrijven
 > Een samenleving wordt totalitair wanneer haar structuur flagrant kunstmatig wordt: dat is wanneer de heersende klasse haar functie heeft verloren, maar erin slaagt zich aan de macht vast te klampen door middel van geweld of fraude.
 > 
 > George Orwell (1903-1950), journalist-auteur
-
-#### WantToKnow Aanbieding
-
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/mamutc-flesjes.jpg?fit=730%2C337&ssl=1)
-
-### [MAMUT C: Tijd voor de immuunboost uit Nederland..!](https://www.wanttoknow.nl/aanbieding/mamut-c-tijd-voor-de-immuunboost-uit-nederland/)
-
-[– Let op! Geldig t/m donderdag 21 november! – Het is herfst, de winter aan de horizon; dé tijd om je weerstand een stevig steuntje in de rug te geven! Daarom stelden we voor jou deze mooie aanbieding samen, in coöperatie met MAMUT C, dé OER-Hollandse maker van gefermenteerde kruidenelixers; de gezondste voedingssupplementen uit Nederlandse bodem..! De nieuwe oogst is gemaakt en we mogen nu deze aanbieding doen. De weerstands-boost voor de aankomende winterse dagen. Uitgaande van onze eigen ervaringen én de enorm positieve mailtjes die wij vorige jaren ontvingen, gaan we samen opnieuw gezond die winter door..! Met Mamut C en Mamut C Moringa; splinternieuwe kruidenremedies, gemaakt van maar liefst 12-14 natuurlijke superfoods. Bedacht en ambachtelijk gemaakt door Ed van Poldergoed. Lees meer over de drie fantastische weerstandsboosters die we voor je selecteerden en profiteer van de bijzondere aanbieding die wij voor je hebben samengesteld.. …](https://www.wanttoknow.nl/aanbieding/mamut-c-tijd-voor-de-immuunboost-uit-nederland/)
-
-[Order now](https://www.wanttoknow.nl/aanbieding/mamut-c-tijd-voor-de-immuunboost-uit-nederland/#pt-field-text-5)
 
 [![Energetische atlasprofilax](https://www.wanttoknow.nl/wp-content/uploads/Atlas-banner2.jpg)](https://lucardie.eu/de-energetische-atlascorrectieeen-nieuwe-balans/)
 
