@@ -2,14 +2,14 @@ Thursday, November 21 2024
 
 Breaking News
 
+* [Matt Gaetz Withdraws From Attorney General Nomination](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
+* [Foreign Officials Make Serious Push For Global Climate Taxes Ahead Of Trump’s Second Term](https://www.conservativedailynews.com/2024/11/foreign-officials-make-serious-push-for-global-climate-taxes-ahead-of-trumps-second-term/)
+* [Have the Lawless Democrats Learned their Lesson Yet?](https://www.conservativedailynews.com/2024/11/have-the-lawless-democrats-learned-their-lesson-yet/)
+* [GOP Challenger Unseats Dem Incumbent To Win Alaska’s Lone House Seat](https://www.conservativedailynews.com/2024/11/gop-challenger-unseats-dem-incumbent-to-win-alaskas-lone-house-seat/)
+* [President Joe Biden’s Schedule for Thursday, November 21, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-21-2024/)
+* [White House Press Briefing with Karine Jean-Pierre – 11/21/24](https://www.conservativedailynews.com/2024/11/white-house-press-briefing-with-karine-jean-pierre-11-21-24/)
 * [Joe Rogan Rips Into Bill Gates Over COVID Profits, Claims Vaccine Push Ruined Millions Of Lives](https://www.conservativedailynews.com/2024/11/joe-rogan-rips-into-bill-gates-over-covid-profits-claims-vaccine-push-ruined-millions-of-lives/)
 * [Our Elections Need To Be Fixed Before The 2026 Midterms](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/)
-* [Elon Musk, Vivek Ramaswamy Outline Sweeping Plan to Cut Federal Regulations And Staffing](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
-* [House Ethics Committee Decides Not To Release Gaetz Investigation Findings](https://www.conservativedailynews.com/2024/11/house-ethics-committee-decides-not-to-release-gaetz-investigation-findings/)
-* [Los Angeles Passes ‘Sanctuary City’ Ordinance In Wake Of Trump’s Deportation Plan](https://www.conservativedailynews.com/2024/11/los-angeles-passes-sanctuary-city-ordinance-in-wake-of-trumps-deportation-plan/)
-* [Barrage Of Liberal Judges Will Be Schumer’s Swan Song](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/)
-* [America In The Age Of Stupidity: My Answer To Those Crazy Lib-O-Tards](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-my-answer-to-those-crazy-lib-o-tards/)
-* [FEMA Just Another Arrow In Biden’s Quiver](https://www.conservativedailynews.com/2024/11/fema-just-another-arrow-in-bidens-quiver/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,82 +115,82 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![breaking news banner](https://www.conservativedailynews.com/wp-content/uploads/2018/02/breaking-news-banner.jpg)](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
+    
+    [Matt Gaetz Withdraws From Attorney General Nomination](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
+    
+    November 21, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Elon-Musk-Donald-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
     
     [Elon Musk, Vivek Ramaswamy Outline Sweeping Plan to Cut Federal Regulations And Staffing](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
     
     November 20, 2024
-    
-* [![Matt Gaetz department of Justice corruption](https://www.conservativedailynews.com/wp-content/uploads/2024/11/03-gaetz-doj-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/)
-    
-    [Why Matt Gaetz Makes Sense As Attorney General](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/)
-    
-    November 19, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/religious-belief-and-the-2024-election/)
+* [![breaking news banner](https://www.conservativedailynews.com/wp-content/uploads/2018/02/breaking-news-banner.jpg)](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
     
-    [Religious Belief and the 2024 Election](https://www.conservativedailynews.com/2024/11/religious-belief-and-the-2024-election/)
-    
-    November 21, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/newtons-third-law-of-politics/)
-    
-    [Newton’s Third Law of Politics](https://www.conservativedailynews.com/2024/11/newtons-third-law-of-politics/)
+    [Matt Gaetz Withdraws From Attorney General Nomination](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
     
     November 21, 2024
     
-* [![Sarah McBride transgender](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/a-tim-by-any-other-name/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/taxes-220x150.jpg)](https://www.conservativedailynews.com/2024/11/foreign-officials-make-serious-push-for-global-climate-taxes-ahead-of-trumps-second-term/)
     
-    [A Tim by Any Other Name…](https://www.conservativedailynews.com/2024/11/a-tim-by-any-other-name/)
-    
-    November 21, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/08/Coins-money-220x150.png)](https://www.conservativedailynews.com/2024/11/the-joys-of-raising-financially-confident-teens/)
-    
-    [The Joys of Raising Financially Confident Teens](https://www.conservativedailynews.com/2024/11/the-joys-of-raising-financially-confident-teens/)
+    [Foreign Officials Make Serious Push For Global Climate Taxes Ahead Of Trump’s Second Term](https://www.conservativedailynews.com/2024/11/foreign-officials-make-serious-push-for-global-climate-taxes-ahead-of-trumps-second-term/)
     
     November 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/10/Joe-Rogan-220x150.png)](https://www.conservativedailynews.com/2024/11/joe-rogan-rips-into-bill-gates-over-covid-profits-claims-vaccine-push-ruined-millions-of-lives/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/trump-could-make-bidens-ev-mandates-obsolete-revamp-auto-industry-with-one-move/)
     
-    [Joe Rogan Rips Into Bill Gates Over COVID Profits, Claims Vaccine Push Ruined Millions Of Lives](https://www.conservativedailynews.com/2024/11/joe-rogan-rips-into-bill-gates-over-covid-profits-claims-vaccine-push-ruined-millions-of-lives/)
+    [Trump Could Make Biden’s EV Mandates Obsolete, Revamp Auto Industry With One Move](https://www.conservativedailynews.com/2024/11/trump-could-make-bidens-ev-mandates-obsolete-revamp-auto-industry-with-one-move/)
     
-    November 20, 2024
+    November 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/caution-democrat-voter-fraud-ahead-corrupt-treasonous-democrats-hope-to-cheat-election-220x150.jpg)](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/11/have-the-lawless-democrats-learned-their-lesson-yet/)
     
-    [Our Elections Need To Be Fixed Before The 2026 Midterms](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/)
+    [Have the Lawless Democrats Learned their Lesson Yet?](https://www.conservativedailynews.com/2024/11/have-the-lawless-democrats-learned-their-lesson-yet/)
     
-    November 20, 2024
+    November 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Elon-Musk-Donald-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/03/Thumbs-up-approval-approve-220x150.jpg)](https://www.conservativedailynews.com/2024/11/gop-challenger-unseats-dem-incumbent-to-win-alaskas-lone-house-seat/)
     
-    [Elon Musk, Vivek Ramaswamy Outline Sweeping Plan to Cut Federal Regulations And Staffing](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
+    [GOP Challenger Unseats Dem Incumbent To Win Alaska’s Lone House Seat](https://www.conservativedailynews.com/2024/11/gop-challenger-unseats-dem-incumbent-to-win-alaskas-lone-house-seat/)
     
-    November 20, 2024
+    November 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/House-of-Representatives.jpg)](https://www.conservativedailynews.com/2024/11/house-ethics-committee-decides-not-to-release-gaetz-investigation-findings/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/11/Opioids.jpg)](https://www.conservativedailynews.com/2024/11/the-extended-release-culture-pills-ercp/)
     
-    [House Ethics Committee Decides Not To Release Gaetz Investigation Findings](https://www.conservativedailynews.com/2024/11/house-ethics-committee-decides-not-to-release-gaetz-investigation-findings/)
+    [The Extended Release Culture Pills (#ERCP)](https://www.conservativedailynews.com/2024/11/the-extended-release-culture-pills-ercp/)
     
-    November 20, 2024
+    November 21, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental.jpg)](https://www.conservativedailynews.com/2024/11/international-criminal-court-issues-arrest-warrant-for-netanyahu/)
+    
+    [International Criminal Court Issues Arrest Warrant For Netanyahu](https://www.conservativedailynews.com/2024/11/international-criminal-court-issues-arrest-warrant-for-netanyahu/)
+    
+    November 21, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-signing-bill-Jill-Biden-supervising-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-21-2024/)
+    
+    [President Joe Biden’s Schedule for Thursday, November 21, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-21-2024/)
+    
+    November 21, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [POF-USA Launches Light Modular Rifle (LMR) BASE Rifle](https://www.thegunpage.com/pof-usa-launches-light-modular-rifle-lmr-base-rifle/10612031)
+* [Mother Confronts Man Texting Her Daughter Before He Is Shot By Police](https://www.thegunpage.com/mother-confronts-man-texting-her-daughter-before-he-is-shot-by-police/10612026)
+* [GOA Reaction: PA Supreme Court Guts Philadelphia Gun Control, Upholds State Preemption Law](https://www.thegunpage.com/goa-reaction-pa-supreme-court-guts-philadelphia-gun-control-upholds-state-preemption-law/10612025)
+* [Freedom Munitions Moves Jobs To Idaho From Nevada](https://www.thegunpage.com/freedom-munitions-moves-jobs-to-idaho-from-nevada/10612023)
+* [Dem Governors Seek to Hamper Trump; Ignore the Will of the People](https://www.thegunpage.com/dem-governors-seek-to-hamper-trump-ignore-the-will-of-the-people/10612022)
+* [TFB Behind the Gun #141: Cold War Guns & Competition w/ Matt & Dan](https://www.thegunpage.com/tfb-behind-the-gun-141-cold-war-guns-competition-w-matt-dan/10612024)
+* [Armed Rideshare Drivers May Be An Option Soon For Texans](https://www.thegunpage.com/armed-rideshare-drivers-may-be-an-option-soon-for-texans/10612021)
 * [Bill would let police ‘briefly seize’ firearms during domestics](https://www.thegunpage.com/bill-would-let-police-briefly-seize-firearms-during-domestics/10612019)
 * [More Than 6,000 Shooters Experience An Improved Range: 1961 National Matches](https://www.thegunpage.com/more-than-6000-shooters-experience-an-improved-range-1961-national-matches/10612018)
 * [Best Concealed Carry Revolvers](https://www.thegunpage.com/best-concealed-carry-revolvers/10612014)
-* [POTD: Heckler & Koch HK421 – The New Light Machine Gun](https://www.thegunpage.com/potd-heckler-koch-hk421-the-new-light-machine-gun/10612015)
-* [Wheelgun Wednesday: Taurus 650 .357 Magnum](https://www.thegunpage.com/wheelgun-wednesday-taurus-650-357-magnum/10612016)
-* [Warbird: Ghost Wolf Eye Protection](https://www.thegunpage.com/warbird-ghost-wolf-eye-protection/10612008)
-* [Smith & Wesson Performance Center M&P9 M2.0 Full Size Metal Carry Comp](https://www.thegunpage.com/smith-wesson-performance-center-mp9-m2-0-full-size-metal-carry-comp/10612010)
-* [New York Judge Allows Lawsuit Against Body Armor Ban To Go To Trial](https://www.thegunpage.com/new-york-judge-allows-lawsuit-against-body-armor-ban-to-go-to-trial/10612004)
-* [CMP Auctioning M1D Sniper Rifle To Benefit Museum Exhibit](https://www.thegunpage.com/cmp-auctioning-m1d-sniper-rifle-to-benefit-museum-exhibit/10612003)
-* [Public Support For An Assault Weapons Ban Continues To Tumble](https://www.thegunpage.com/public-support-for-an-assault-weapons-ban-continues-to-tumble/10612001)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,15 +232,15 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Our Elections Need To Be Fixed Before The 2026 Midterms](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/#comment-783327)
+* [Bill](http://conservativedailynews.com/) on [Crap Fight](https://www.conservativedailynews.com/2024/11/crap-fight/#comment-783326)
+* [Bill](http://conservativedailynews.com/) on [Barrage Of Liberal Judges Will Be Schumer’s Swan Song](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/#comment-783325)
+* Stanley Warner on [Religious Belief and the 2024 Election](https://www.conservativedailynews.com/2024/11/religious-belief-and-the-2024-election/#comment-783324)
 * Stanley Warner on [Why Matt Gaetz Makes Sense As Attorney General](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/#comment-783304)
 * MeMyself&I on [Jen Psaki Admits Dems Are ‘In The Wilderness’ Without A ‘Clear Leader Of The Party’](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/#comment-783298)
 * Stanley Warner on [If You Think Kamala Harris Was Serious About The Things She Promised During The Recent Presidential Campaign, You’re Dead Wrong](https://www.conservativedailynews.com/2024/11/if-you-think-kamala-harris-was-serious-about-the-things-she-promised-during-the-recent-presidential-campaign-youre-dead-wrong/#comment-783295)
 * Stanley Warner on [Five Government Programs That Musk’s Government Efficiency Agency Could Put On The Chopping Block](https://www.conservativedailynews.com/2024/11/five-government-programs-that-musks-government-efficiency-agency-could-put-on-the-chopping-block/#comment-783286)
 * Stanley Warner on [Trump Sends His Clearest Message Yet To DOJ Bureaucrats With Unexpected Leadership Picks](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/#comment-783285)
-* Beverly Sellers on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783274)
-* Stanley Warner on [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/#comment-783269)
-* Stanley Warner on [Can A FOX Weekend Host Run Our Military? Absolutely](https://www.conservativedailynews.com/2024/11/can-a-fox-weekend-host-run-our-military-absolutely/#comment-783268)
-* Stanley Warner on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783267)
 
 [Close](#)
 
