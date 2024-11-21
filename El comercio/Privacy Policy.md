@@ -31,993 +31,1002 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre
-================================================================
+Corte Constitucional declara inconstitucional una parte del estado de excepción
+===============================================================================
 
-El cronograma de cortes de luz para Quito contempla ocho horas de reducción del servicio eléctrico. Este se aplica en dos franjas
----------------------------------------------------------------------------------------------------------------------------------
+Corte Constitucional declara inconstitucionales varias medidas del estado de excepción por exceder el marco constitucional.
+---------------------------------------------------------------------------------------------------------------------------
 
-![La Empresa Eléctrica Quito dio a conocer los nuevos horarios de cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-21T082305.729.jpg)
+![Operativos de control de las Fuerzas Armadas por el estado de excepción.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-46-3.jpg)
 
-El **Ministerio de Energía** dio a conocer los horarios de **cortes de luz** con la aplicación de la reducción de horas, hasta el domingo 24 de noviembre.
-
-### Más noticias
-
-* [Cortes de luz se mantienen en ocho horas hasta el domingo 24 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-mantienen-ocho-horas-hasta-domingo-24-de-noviembre-ecuador.html "Cortes de luz se mantienen en ocho horas hasta el domingo 24 de noviembre en Ecuador")
-* [Cortes de luz en Quito este jueves 21 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-21-noviembre.html "Cortes de luz en Quito este jueves 21 de noviembre")
-* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
-
-Cortes de luz reducidos
------------------------
-
-El cronograma contempla **la suspensión del servicio eléctrico** de ocho horas para los días viernes 22, sábado 23 y domingo 24 de noviembre de 2024.
-
-Esta programación incluye el horario generado por las **[nueve empresas distribuidoras](https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/ "https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/")** de energía eléctrica en Ecuador.
-
-Estos horarios están sujetos a los cambios de las **condiciones hidrológicas** y podrían reducirse dentro de la programación establecida.
-
-La reducción en las horas de cortes de luz se debe a que el suministro de **energía desde Colombia** empezó desde el domingo 17 de noviembre.
-
-Cortes de luz en Quito
-----------------------
-
-La Empresa Eléctrica Quito publicó la **programación de cortes de luz** para el viernes 22, sábado 23 y domingo 24 de noviembre de 2024.
-
-Estos horarios se mantienen en ocho horas, distribuidas en **dos franjas horarias de cuatro horas** para cada bloque de barrios afectados.
-
-El sector industrial, en cambio, mantendrá una **suspensión del servicio e**n un horario de siete horas continuas.
-
-Los comentarios de los usuarios no se hicieron esperar y se pueden leer **varias quejas** en las redes sociales. La mayoría de personas reclama que **no existe una rotación en los horarios** establecidos a lo largo de las semanas.
-
-Piden que se haga una **rotación entre los sectores y la aplicación** de los cortes a lo largo del día. Algunos usuarios se quejan de la suspensión de energía en las madrugadas debido a la delincuencia.
-
-Aquí puede revisar el **cronograma completo** de los tres días:
-
-Cortes de luz se mantienen en ocho horas hasta el domingo 24 de noviembre en Ecuador
-====================================================================================
-
-La reducción en los apagones se debe a que Colombia inició la venta de energía a Ecuador desde el domingo 17
-------------------------------------------------------------------------------------------------------------
-
-![Cortes de luz se mantienen en Ecuador durante ocho horas.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-21T080723.629.jpg)
-
-El **Ministerio de Energía** dio a conocer los horarios de **cortes de luz** con la aplicación de la reducción de horas, hasta el domingo 24 de noviembre.
+La **Corte Constitucional** emitió el dictamen relacionado con el **estado de excepción** declarado por **Daniel Noboa** mediante el **Decreto Ejecutivo 410** del 3 de octubre de 2024.
 
 ### Más noticias
 
-* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
-* [¿Cómo reclamar por electrodomésticos dañados por cortes de luz en Guayaquil?](https://www.elcomercio.com/actualidad/guayaquil/cortes-luz-electrodomesticos-guayaquil-reclamo.html "¿Cómo reclamar por electrodomésticos dañados por cortes de luz en Guayaquil?")
-* [Cortes de luz afectan las ventas, pero no a usuarios de autos eléctricos](https://www.elcomercio.com/actualidad/ecuador/efecto-cortes-luz-vehiculos-electricos.html "Cortes de luz afectan las ventas, pero no a usuarios de autos eléctricos")
+* [¿Qué función tienen los nuevos veedores de la renovación de la Corte Constitucional?](https://www.elcomercio.com/actualidad/politica/que-funcion-tienen-nuevos-veedores-renovacion-corte-constitucional.html "¿Qué función tienen los nuevos veedores de la renovación de la Corte Constitucional?")
+* [Nueve candidatos avanzan en el proceso de selección para la Corte Constitucional](https://www.elcomercio.com/actualidad/politica/nueve-candidatos-avanzan-proceso-seleccion-corte-constitucional.html "Nueve candidatos avanzan en el proceso de selección para la Corte Constitucional")
+* [Corte Constitucional pone plazo a Daniel Noboa para explicar estado de excepción](https://www.elcomercio.com/actualidad/politica/corte-constitucional-plazo-daniel-noboa-estado-excepcion.html "Corte Constitucional pone plazo a Daniel Noboa para explicar estado de excepción")
 
-Cortes de luz reducidos
------------------------
+En este dictamen, la Corte **resolvió validar únicamente las medidas que suspenden la inviolabilidad de correspondencia**, la inviolabilidad de **domicilio en casos específicos** y la restricción focalizada del derecho a la libertad de tránsito en **19 cantones y una parroquia**.
 
-El cronograma contempla **la suspensión del servicio eléctrico** de ocho horas para los días viernes 22, sábado 23 y domingo 24 de noviembre de 2024.
+En cambio, la Corte determinó la **inconstitucionalidad de medidas consideradas incompatibles con el marco constitucional ecuatoriano**.
 
-Esta programación incluye el horario generado por las **nueve empresas distribuidoras** de energía eléctrica en Ecuador.
+Medidas declaradas inconstitucionales
+-------------------------------------
 
-Estos horarios están sujetos a los cambios de las **condiciones hidrológicas** y podrían reducirse dentro de la programación establecida.
+Entre las disposiciones declaradas inconstitucionales, se encuentra la suspensión del **derecho a la libertad de reunión para evitar amenazas a la seguridad ciudadana** en espacios públicos.
 
-Colombia entrega energía desde esta semana
-------------------------------------------
+Asimismo, la Corte rechazó la orden de **requisición de armas, explosivos o accesorios relacionados sin la debida autorización**.
 
-La ministra de Energía encargada, **Inés Manzano,** anunció la reducción de horas en los cortes de luz que sufre Ecuador.
-
-La ministra señaló que el suministro de **energía desde Colombia** empezó desde este domingo 17 de noviembre. Lo cual se reflejó en una reducción en los tiempos de cortes de luz en todo el Ecuador.
-
-La compra de **energía desde Colombia** se concretó tras la aprobación de una resolución en el país vecino, que permitió retomar las exportaciones de electricidad a Ecuador. Estas se habían suspendido desde el 30 de septiembre pasado.
-
-Además, señaló que las condiciones hídricas de los afluentes de la zona oriental se incrementaron y se vio una mejora en la generación de la **central hidroeléctrica Coca Codo Sinclair**, ubicada entre las provincias de Napo y Sucumbíos.
-
-Además, señaló que se espera que desde **diciembre los cortes de luz se reduzcan**, siempre y cuando las condiciones climáticas sean favorables. “A nivel regional tenemos problemas por el cambio del clima”, afirmó Manzano.
-
-Sin embargo, en la tarde del miércoles 21 de noviembre, el **presidente Daniel Noboa r**atificó su compromiso de un diciembre sin apagones.
-
-Aquí puedes revisar **los [horarios de cada provincia](https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/ "https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/"):**
-
-> 📍¡IMPORTANTE!  
+> 🔵[#BoletínCC](https://twitter.com/hashtag/Bolet%C3%ADnCC?src=hash&ref_src=twsrc%5Etfw) | La Corte Constitucional emite el Dictamen 11-24-EE/24 relativo al estado de excepción declarado mediante Decreto Ejecutivo 410 del 3 de octubre de 2024.  
 >   
-> Informamos sobre los horarios de suspensión del servicio de energía eléctrica para el periodo comprendido desde el viernes 22 hasta el domingo 24 de noviembre, que contempla racionamientos de 8 horas, a escala nacional.  
->   
-> 🔸Programación➡️ [https://t.co/cJm2DJXGgO](https://t.co/cJm2DJXGgO) [pic.twitter.com/xw8L3GphzR](https://t.co/xw8L3GphzR)
+> Accede al texto íntegro ⬇[https://t.co/rQJyt7XN1o](https://t.co/rQJyt7XN1o) [pic.twitter.com/sEbhJLR47R](https://t.co/sEbhJLR47R)
 > 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 21, 2024](https://twitter.com/RecNaturalesEC/status/1859569611773026436?ref_src=twsrc%5Etfw)
+> — Corte Constitucional (@CorteConstEcu) [November 21, 2024](https://twitter.com/CorteConstEcu/status/1859655144776008073?ref_src=twsrc%5Etfw)
 
-Gobierno advierte sobre movilizaciones en estado de excepción
-=============================================================
+También se declaró inconstitucional la intervención de la **Policía Nacional y las Fuerzas Armadas** con el objetivo de combatir **grupos de crimen organizado**. Según el dictamen, estas medidas pueden implementarse sin necesidad de un estado de excepción, al estar contempladas en el **régimen ordinario**.
 
-El Bloque de Seguridad se refirió a las movilizaciones convocadas para este jueves 21 de noviembre. El tránsito vehicular tendrá cambios
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![La noche del miércoles 20 de noviembre, el Bloque de Seguridad emitió un comunicado.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-21T073431.580.jpg)
-
-En la noche del miércoles 20 de noviembre, el **Ministerio del Interior** compartió un video en sus redes sociales y se refirió a las movilizaciones.
-
-### Más noticias
-
-* [Motores para central térmica de Salitral están en camino, asegura Ministerio](https://www.elcomercio.com/actualidad/negocios/motores-para-central-termica-salitral-estan-camino-asegura-ministerio.html "Motores para central térmica de Salitral están en camino, asegura Ministerio")
-* [Walter Solís mantiene su libertad, según SRE de México](https://www.elcomercio.com/actualidad/seguridad/walter-solis-cuenta-condicion-refugiao-segun-sre-mexico.html "Walter Solís mantiene su libertad, según SRE de México")
-* [Exministro del correísmo, Walter Solís, fue capturado por la Interpol en México](https://www.elcomercio.com/actualidad/seguridad/exministro-correismo-walter-solis-capturado-interpol-mexico.html "Exministro del correísmo, Walter Solís, fue capturado por la Interpol en México")
-
-El estado de excepción vigente
-------------------------------
-
-El **Bloque de Seguridad,** compuesto por la Policía, Fuerzas Armadas, ministerios de Interior y de Gobierno, se pronunciaron en cuanto al **estado de excepción** que se encuentra vigente en Quito.
-
-La ministra del Interior, Mónica Palencia, dijo que, en nombre del **Gobierno Nacional,** recuerdan a la ciudadanía la vigencia del estado de excepción.
-
-Esto limita de manera temporal el **derecho de asociación** y el derecho a la inviolabilidad del domicilio, según el decreto ejecutivo 410.
-
-Palencia informó que la Intendencia General de Policía **no recibió ninguna solicitud de autorización** para realizar actividades de movilización o manifestación hasta la tarde del miércoles.
-
-Marchas previstas
------------------
-
-Mencionó como antecedente las **movilizaciones del pasado 15 de noviembre**, cuando se dieron “**actos violentos en contra del patrimonio ciudadano** y de las fuerzas del orden”. Agregó que en esas movilizaciones se dieron graves actos en medio de una manifestación aparentemente pacífica.
-
-Este pronunciamiento se dio debido a que, por información de Inteligencia, se conoció que **se habría programado manifestaciones para este jueves 21 de noviembre** de 2024. Estas abarcarían zonas a las que a las que la Policía y las Fuerzas Armadas no permitirán el ingreso.
-
-El comandante General de la Policía, **Víctor Zárate,** añadió que estará restringido el ingreso al Centro Histórico de Quito.
-
-Para el **tránsito vehicula**r se realizará el siguiente desvío: en sentido norte sur desde la av. Patria hacia el oriente y occidente de la ciudad. En sentido sur norte **estará cerrado** a la altura del puente del Sena, la av. Maldonado, sector de La Recoleta, para desviarse a la av. Velasco Ibarra.
-
-Zárate recalcó que es **deber de las fuerzas del orden mantener la paz** y la seguridad interna del país y repeler toda agresión en uso legítimo de la fuerza.
-
-El jefe de Operaciones de las FF.AA., Pablo Caicedo, agregó que este comunicado tiene el objetivo de **garantizar la protección de la vid**a, integridad personal y patrimonio.
-
-Por ello, exhortan a la ciudadanía a no participar en actitudes provocativas a las fuerzas del orden con la intención de causar terror o **hechos violentos**.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)  
->   
-> COMUNICADO IMPORTANTE  
->   
-> El Bloque de Seguridad y el [@MinGobiernoEc](https://twitter.com/MinGobiernoEc?ref_src=twsrc%5Etfw) a la ciudadanía  
-> ⬇️ [pic.twitter.com/2C2GrXboOy](https://t.co/2C2GrXboOy)
-> 
-> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [November 21, 2024](https://twitter.com/MinInteriorEc/status/1859451190104256649?ref_src=twsrc%5Etfw)
-
-Dos días para la arborización de Quito tras los incendios, se vienen
-====================================================================
-
-Este fin de semana se realizará la siembre de 20 000 árboles nativos en las zonas afectadas por los incendios de septiembre.
-----------------------------------------------------------------------------------------------------------------------------
-
-![El cerro Auqui fue uno de los más afectados por los incendios de septiembre. Ahora está en el plan de reforestación.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-52-2.jpg)
-
-Luego de los **incendios forestales** de septiembre, que dejaron en zozobra a la población, este fin de semana del 23 y 24 de noviembre se llevará adelante una campaña para la **arborización** de **Quito**. El **Municipio** de Quito lidera este proceso que pretende dotar de plantas nativas a muchas de las zonas afectadas por el fuego.
-
-### Más noticias
-
-* [Se cierra una parada de la Ecovía de Quito para rehabilitación](https://www.elcomercio.com/actualidad/quito/parada-clave-ecovia-cerrara-tres-dias-rehabilitacion.html "Se cierra una parada de la Ecovía de Quito para rehabilitación")
-* [Así se puede pedir un tanquero de agua en Quito](https://www.elcomercio.com/actualidad/quito/tanquero-agua-quito-contactos-servicio.html "Así se puede pedir un tanquero de agua en Quito")
-* [Concejo de Quito exhorta al Alcalde analizar tarifas diferenciadas de agua](https://www.elcomercio.com/actualidad/quito/quito-tarifas-diferenciadas-agua.html "Concejo de Quito exhorta al Alcalde analizar tarifas diferenciadas de agua")
-
-Arborizar Quito, en fin de semana
----------------------------------
-
-Este fin de semana del 23 y 24 de noviembre será la minga de **arborización** que organiza la **Secretaría del Ambiente** del **Municipio de Quito.** La intención es plantar **20 000 árboles** durante este fin de semana en las zonas afectadas por los **incendios forestales.**
-
-Las jornadas son de **08:00 a 11:00** y se enfocará en **10 puntos del Distrito Metropolitano** de Quito. Se sembrarán arbustos, plantas y semillas, todas **nativas**.
-
-¿Dónde son las jornadas de arborización?
+Recuento de estados de excepción en 2024
 ----------------------------------------
 
-El primer día, **sábado 23 de noviembre**, se llevará a cabo la primera jornada de arborización. Y estos son los lugares destinados:
+El dictamen incluye un análisis de los estados de **excepción decretado**s a lo largo del año 2024. En el mismo se observa que la población ecuatoriana permanece bajo este régimen durante **9 de los primeros 11 meses del año**, lo que revela un uso frecuente de esta herramienta para enfrentar problemas de violencia.
 
-* El Panecillo
-* La Toglla
-* Rumiloma
-* Chilibulo
-* Cerro Auqui
-* Perla Quiteña
+En este contexto, la Corte exhortó a las autoridades a emplear los mecanismos **previstos en el régimen ordinario para atender la crisis de violencia**. También a implementar políticas públicas y legislativas necesarias, y respetar el carácter excepcional y **temporal de los estados de excepción**.
 
-El **domingo 24 de noviembre** se arborizará en:
+Joel Ordóñez, la joya ecuatoriana por la que se pelean en la Premier League
+===========================================================================
 
-* San Enrique de Velasco
-* Carapungo – Llano Grande
-* Calipiedra – Guamaní
-* Parque Guangüiltagua
-
-Las especies nativas a sembrar
-------------------------------
-
-Para la **Secretaría del Ambiente**, las especias nativas también implican un componente cultural. Algunas de ellas tienen propiedades que benefician al entorno y la vida humana. Los **alisos**, por ejemplo, tiene una gran capacidad de asimilar el CO2 y da más oxígeno; el **arrayán**, en cambio, tiene su valor en la gastronomía, pues se puede preparar agua de arrayán o guayabilla con chía.
-
-Las **especies nativas** seleccionadas para la reforestación incluyen **pusupato**, **cholán**, **pumamaqui**, **nogal**, **aliso**, **guaba**, **arrayán** y **yalomán**.
-
-“Cada una de estas plantas contribuye a fortalecer los ecosistemas locales, ofreciendo múltiples beneficios ambientales: mejoran la calidad del suelo, regulan la temperatura, atraen fauna nativa y ayudan a mitigar los efectos del cambio climático”, dicen desde la Secretaría de Ambiente.
-
-¿Cómo participar en la arborización?
-------------------------------------
-
-Ya hay más de **6 000 personas registradas** para participar de estas jornadas de arborización. Sin embargo, es posible acudir voluntariamente los mismos días de la siembra. **Se puede ir con niños y también con sus mascotas.**
-
-Sin embargo, si quiere cumplir con el requisito de **inscripción**, puede hacer [clic aquí](https://forms.gle/AQ4XNvurv5HWbvzn9 "https://forms.gle/AQ4XNvurv5HWbvzn9").
-
-Además, siempre será mejor tomar en cuenta el **mapa de ‘georeferenciación’** que la Secretaría del Ambiente elaboró de los distintos puntos de la arborización. [La puede encontrar aquí.](https://ambiente.quito.gob.ec/reforestacion-quito-2024/ "https://ambiente.quito.gob.ec/reforestacion-quito-2024/")
-
-¿Qué hacer y cómo hacer para la siembra de árboles?
----------------------------------------------------
-
-Hay algunos **procedimientos** que se recomienda cumplir para que la jornada tenga éxito, tanto en lo que tiene que ver con las plantas en sí, como los cuidados personales.
-
-* Llegar a tiempo al punto de encuentro.
-* Habrá personal de la secretaría de Ambiente que organizará las actividades y orientará a los voluntarios en los ocho pasos que debes seguir para plantar en esta reforestación.
-* Asegúrate de portar ropa adecuada, usar gorra, bloqueador, guantes y calzado apropiado.
-* Lleva materiales de jardinería.
-* Lleva un termo o botellón para portar agua y regar a la planta.
-* Una vez que empiecen los trabajos, recibirás tu planta.
-* Revisa que el hoyo en el que plantarás tu árbol sea de una profundidad de al menos 30 cm, cuente con abono e hidrogel.
-* Retira la bolsa de plástico que protege a las raíces sin lastimar a la planta.
-* Coloque la planta y cúbrala con la tierra. Nuestro personal ha realizado tareas de preparación previa del terreno en las que podrás apoyarte.
-* Una vez que termines, apisona el suelo asegurándote de que no queden espacio de aire.
-* Riega tu planta generosamente.
-
-Así funciona el Pico y placa en Quito este jueves 21 de noviembre
-=================================================================
-
-Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
-------------------------------------------------------------------------------------------------------------------------------
-
-![El Pico y placa se estableció como medida para regular el tránsito vehicular en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-20T143701.029.jpg)
-
-El **pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementó para mejorar el flujo vehicular en las horas de mayor tránsito.
-
-### Más noticias
-
-* [Así se puede pedir un tanquero de agua en Quito](https://www.elcomercio.com/actualidad/quito/tanquero-agua-quito-contactos-servicio.html "Así se puede pedir un tanquero de agua en Quito")
-* [Chofer de bus amenazó con un machete a otro conductor en Quito](https://www.elcomercio.com/actualidad/quito/chofer-bus-machete-quito-amt.html "Chofer de bus amenazó con un machete a otro conductor en Quito")
-* [Nuevo Ministro de Gobierno advirtió sobre las protestas en Quito](https://www.elcomercio.com/actualidad/nuevo-ministro-gobierno-advirtio-protestas-quito.html "Nuevo Ministro de Gobierno advirtió sobre las protestas en Quito")
-
-El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
-
-El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
-
-El esquema de aplicación:
--------------------------
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes:** los que finalizan en 3 y 4.
-* **Miércoles:** los de dígitos 5 y 6.
-* **Jueves:** los que tengan 7 y 8.
-* **Viernes:** las placas 9 y 0.
-
-Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
-
-Multas por infringir Pico y placa
----------------------------------
-
-La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
-
-Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
-
-Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
-
-Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
-
-Matriculación vehicular
------------------------
-
-Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de noviembre los automotores con placa terminada en 0 deben cumplir con el proceso de matriculación. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
->   
-> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
->   
-> Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/PsjaUTUJC0](https://t.co/PsjaUTUJC0)
-> 
-> — AMTQuito (@AMT\_Quito) [October 17, 2024](https://twitter.com/AMT_Quito/status/1846853759294472282?ref_src=twsrc%5Etfw)
-
-Acoso y manipulación detrás de una foto
-=======================================
-
-Las denuncias contra un fotógrafo revelan la persistencia del acoso y la manipulación en el sector creativo del país.
----------------------------------------------------------------------------------------------------------------------
-
-![A través de redes sociales, influencers denunciaron acoso y manipulación, por parte de un fotógrafo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Editorial-fotografo.jpg)
-
-Las recientes denuncias contra un fotógrafo, acusado por influencers de solicitar fotos explícitas y de haberlas manipulado y acosado, revelan un problema persistente en el sector creativo y digital.
-
-Estos entornos, a menudo percibidos como modernos y abiertos, aún esconden dinámicas de poder que algunos aprovechan para su propio beneficio.
-
-En este caso, las acusaciones giran en torno a un patrón de acoso y manipulación [para obtener imágenes privadas](https://www.elcomercio.com/actualidad/seguridad/fotografo-acoso-mujeres-influencers-explicitas.html "https://www.elcomercio.com/actualidad/seguridad/fotografo-acoso-mujeres-influencers-explicitas.html"). Según los testimonios, el fotógrafo habría utilizado su influencia desde 2022 para cruzar los límites de la confianza bajo la excusa de una colaboración profesional.
-
-Este tipo de abusos no es nuevo. En 2020 también se reportaron denuncias en redes sociales contra otros dos fotógrafos. Los acusaron de subir fotos de modelos, tomadas con y sin ropa, a la plataforma OnlyFans sin su consentimiento.
-
-> La visibilidad de estas conductas suele darse cuando una o dos víctimas rompen el silencio, lo que a menudo anima a otras a sumarse.
-
-La rapidez con la que estos casos ganan notoriedad destaca el poder de las redes sociales, que, aunque imperfectas, permiten que las víctimas sean escuchadas. Sin embargo, una vez que el escándalo se desvanece, el ciclo de acoso o manipulación continúa.
-
-Por otra parte, los canales tradicionales de justicia muchas veces resultan ineficaces, y las víctimas enfrentan la revictimización. De ahí que muchas mujeres descartan esta opción.
-
-Es importante recordar que la difusión de fotos íntimas sin consentimiento o autorización legal es un delito tipificado en el art. **178 del Código Orgánico Integral Penal (COIP).** Está considerado como violación a la intimidad, con una pena de uno a tres años.
-
-Esta ley sanciona a quienes acceden, intercepten, examinen, retengan, graben, reproduzcan, difundan o publiquen datos personales, mensajes de datos, voz, audio y vídeo, objetos postales. Además de información contenida en soportes informáticos, comunicaciones privadas o reservadas de otra persona por cualquier medio.
-
-Pero, más allá de los procesos legales, y que en el mejor de los casos lleguen a sanciones, es urgente establecer protocolos y reglas claras para prevenir que estas situaciones se repitan.
-
-Se debe garantizar que los entornos creativos, como cualquier otro ámbito laboral, sean espacios seguros y formales. Esto implica respaldar las colaboraciones mediante contratos firmados y notariados, que protejan a influencers, modelos y a sus colaboradores.
-
-> La integridad, el bienestar y el respeto mutuo deben ser principios inquebrantables en todo trabajo profesional.
-
-Si no se implementan medidas efectivas ahora, no debería sorprendernos que estos y otros espacios laborales continúen siendo un terreno fértil para el acoso y la manipulación.
-
-Cartas a Quito / 21 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este jueves 21 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
- La inacción del Gobierno está matando al país
-----------------------------------------------
-
-Después que el expresidente Lasso tirara la toalla, el Ecuador se vio obligado ir a las urnas para defender la democracia, y de esta manera desterrar a los adeptos del prófugo sentenciado, llegando de esta manera Daniel Noboa, un joven con nuevas ideas y con una imagen sin mancha de corrupción, era la esperanza de mejores días, ya que los anteriores poco o nada hicieron por el país.
-
-Por lo dicho, los ecuatorianos tenemos derecho a exigirle al Primer Mandatario que, así como subió el IVA y el precio de los combustibles -encareciendo todo-, termine con las desgracias que azotan al país, empezando por los racionamientos de energía eléctrica, los crímenes, secuestros, extorsiones y robos que son el pan de cada día.
-
-Las llamadas “vacunas” están matando la microeconomía, pequeños emprendedores cierran sus negocios porque la fuerza pública (el Estado) no los protege, mandando a la quiebra a cientos de hogares. A esto se le suma las pérdidas económicas por la falta de electricidad que afecta la producción, por ende, menos ventas.
-
-Si usted desea la reelección, en vez de hacer videos de TikTok, póngase a trabajar en serio y tome las decisiones que el Ecuador necesita con urgencia, pues estamos viviendo un infierno en las calles de todas las ciudades. Lo invito a que camine por el Guasmo en una noche de apagón, y que la experiencia de sentir miedo en carne propia lo haga reflexionar y salga de su burbuja, escuche a los profesionales que dan sugerencias para salir de este caos. La inacción del Gobierno está matando al país. No queremos videos con árboles de Navidad llenos de luces, sería un insulto.
-
-Julio César Navas Pazmiño
-
-Tiempos de soñar o despertar
-============================
-
-Las utopías reflejan aspiraciones humanas y han influido en la historia, proponiendo un futuro más justo y sostenible.
+El nuevo valuarte defensivo de la Selección de Ecuador, Joel Ordóñez, tiene a los mejores equipos con los ojos encima.
 ----------------------------------------------------------------------------------------------------------------------
 
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+![Joel Ordóñez (izq.) enfrentando a James Rodríguez en el Ecuador vs. Colombia por las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-21T140345.533.jpg)
 
-**En todas las culturas los pueblos han creado utopías, sueños, ideales que representan aspiraciones o metas**. Las utopías y los sueños responden a necesidades de justicia, paz e igualdad económica y política de signo contradictorio, porque **“una sociedad justa y homogénea no es compatible con la heterogeneidad natural de todo grupo humano”.**
+**Joel** **Ordóñez** es uno de los nombres más codiciados en la **Premier League de Inglaterra**. A sus 20 años, el defensor ecuatoriano, actualmente en el **Club Brujas** de Bélgica, se ha convertido en uno de los proyectos defensivos más prometedores y está atrayendo la atención de los clubes más importantes de la liga inglesa.
 
-Los sueños -muchos de ellos utópicos- tienen marcos ideológicos, contextos históricos y riesgos, de acuerdo a los métodos a los que se adscriben.
-
-**La palabra utopía apareció por primera vez en 1516, en el libro Utopía, de Tomás Moro** (1478-1535), quien describió una sociedad perfecta en una isla ficticia de América, que contrastaba con la Inglaterra de la época. Proviene del griego ou (“no”) y topos (“lugar”), por lo que significa “no lugar” o “lugar inexistente”. Lo más probable es que Tomás Moro haya querido jugar con ambas ideas: un **“no lugar”** que es a la vez un **“buen lugar”.**
-
-**El vulgo piensa que las utopías son proyectos, doctrinas e ideales irrealizables. La historia demuestra lo contrario.** Todas las culturas subyacen en utopías que dan fuerza y consistencia a sus instituciones. Podría decirse que no hay pueblo sin utopías, sueños, quimeras, metas altas, difíciles de conseguir, pero que significan la razón de ser de su existencia.
-
-**Algunos ejemplos ilustran lo dicho:** el **Reino de Dios**, la parusía entre judíos y cristianos; el **paraíso comunista** para los marxistas; **el racismo y el totalitarismo** para los nazis; el **“sueño americano” y el “sueño cubano”,** que marcaron a millones de personas y a varias generaciones.
-
-**Estas representaciones religiosas, políticas e ideológicas son evidentes y han sido descritas por científicos, historiadores, políticos y literatos**. Algunos hablan, inclusive, del fin de la historia, como proclama **Francis Fukuyama**, y la disolución de la modernidad de **Zygmunt Bauman** como metáfora de la transitoriedad, del cambio, y la desregulación de los mercados y la economía.
-
-**¿Es tiempo de seguir soñando en utopías, o despertar -hacia algo significativo- en un mundo que camina hacia la incertidumbre y el caos?** Una sociedad futura centrada en el bien de los seres humanos, que respetan la naturaleza y la vida parece posible, **si los ciudadanos y las instituciones vuelven las miradas hacia el pasado para aprender sus lecciones, y construir juntos en el presente-futuro una sociedad plural y viable, con menos intereses individuales en juego. ¿Otra emancipación?**
-
-El polémico plátano pegado a la pared se vendió en millonaria cifra
-===================================================================
-
-'Comedian', el controversial plátano alcanzó un impensado valor durante una subasta realizada en Estados Unidos.
-----------------------------------------------------------------------------------------------------------------
-
-![El plàtano 'Comedian' fue presentado en 2019, desde entonces, ha causado polémica entre expertos de arte](https://www.elcomercio.com/wp-content/uploads/2024/11/platano-subasta.jpg)
-
-El polémico ‘**Comedian**’, el plátano pegado a la pared del artista conceptual **Maurizio Cattelan** fue subastada en una **millonaria cifra**, este miércoles 20 de noviembre de 2024 en la feria en casa Sotheby’s de Nueva York, Estados Unidos.
-
-### Más noticias
-
-* [Las claves del éxito en los musicales cinematográficos](https://www.elcomercio.com/tendencias/las-claves-del-exito-en-los-musicales-cinematograficos.html "Las claves del éxito en los musicales cinematográficos")
-* [Quincy Jones deja un gran legado en la música popular](https://www.elcomercio.com/tendencias/quincy-jones-deja-un-gran-legado-en-la-musica-popular.html "Quincy Jones deja un gran legado en la música popular")
-* [‘Dalia y el Libro Rojo’, primer filme de animación producido en Ecuador](https://www.elcomercio.com/tendencias/dalia-libro-rojo-ecuador.html "‘Dalia y el Libro Rojo’, primer filme de animación producido en Ecuador")
-
-El comprador, un **emprendedor chino de las criptomonedas** llamado **Justin Sun**, recibirá, junto a la **pieza de fruta** y la **cinta adhesiva** que la sostiene en la pared, un **certificado de autenticidad**[.](https://es.wikipedia.org/wiki/Comediante_(obra_de_arte) "https://es.wikipedia.org/wiki/Comediante_(obra_de_arte)")
-
-El plátano iene que reponerse más o menos cada **siete días**, según las recomendaciones del propio artista y de la **casa de subastas**.
-
-Contrariamente a lo que suele ser habitual, que los **compradores de grandes obras** sean anónimos, **Justin Sun** se identificó y habló del tema:
-
-“Esto no es solo una **obra de arte**; representa un **fenómeno cultural**, un puente entre los mundos del arte, los **memes** y la comunidad **cripto**“, dijo en una declaración distribuida por **Sotheby’s**.
-
-“Además, en los próximos días voy a comerme personalmente la **banana** como parte de esa experiencia **artística única**, honrando así su lugar en la historia del **arte** y la **cultura popular**“, añadió.
-
-Plátano ‘Comedian’ se vendió en millonaria cifra
-------------------------------------------------
-
-El **precio final** que pagó **Sun** por la polémica **banana** fue **6,5 millones de dólares**.
-
-Con esta subasta se reabre la gran controversia generada por el **artista italiano** **Maurizio Cattelan** y su curiosa obra en **2019** y, por ende, uno de los grandes debates que existen en el mundo artístico: ¿Qué es **arte** y qué no?
-
-La banana más cara del mundo
-----------------------------
-
-En una puja **encarnizada** en la que de inmediato se superó el **millón y medio de dólares** que **Sotheby’s** había estimado para la obra. El subastador definió a la pieza de **Cattelan** como “la **banana** más cara del mundo”.
-
-Este miércoles, ‘**Comedian**’ superó con creces los precios que recaudaron tres ediciones originales de la obra en la feria **Art Basel** de **Miami**, todas vendidas entre **108,000** y **137,000 dólares**.
-
-La presentación de la **banana** derivó en una semana de locura en **2019**, en la que el público se aglutinaba cada día frente a la obra para hacerse fotografías y que culminó con el **artista David Datuna** comiéndose el plátano a modo de **‘performance’**.
-
-‘**Comedian**’ se hizo **viral** en redes sociales, derivando en múltiples **memes** y en la comercialización de **gorras** y **camisetas** que llevaban la **banana** en sus estampados, y además sirvió como inspiración para otros artistas como **Sebastian Errazuriz**, que puso a la venta un **consolador** pegado a la pared con **cinta adhesiva** por **12,000 dólares**.
-
-¿Qué es arte y qué no?
-----------------------
-
-‘**Comedian**’, que llegó a estar expuesta en el prestigioso **museo Guggenheim** de **Nueva York**, vuelve a poner en el foco una de las grandes preguntas del mundo del **arte** que aún no ha conseguido poner de acuerdo a los expertos: ¿Qué es **arte** y qué no?
-
-Muchos se preguntan qué quiere expresar el italiano con esta **banana**: “Para mí, ‘**Comedian**’ no era una **broma**, sino un comentario sincero y una reflexión sobre lo que valoramos. En las **ferias de arte** reinan la rapidez y el negocio, así que yo podía vender un plátano como otros venden sus cuadros. Podía jugar dentro del **sistema**, pero con mis reglas”, expresó el **artista** en una cita recogida por **Sotheby’s**.
-
-Algunos **expertos** han interpretado la **banana** como un acto “**transgresor**” que se burla directamente de aquel que, de tanta **riqueza** que posee, puede gastar **6 millones de dólares** en una **pieza de fruta**: “‘**Comedian**’ es un comentario, no muy especialmente sutil, pero muy potente, sobre la **riqueza** y la **fugacidad**, pero también, quizás, sobre lo efímero del **arte**”, indica en su libro ‘Otra historia del **arte**’ el escritor **Miguel Ángel Cajigal Vera “El Barroquista”**.
-
-El autor señala además las referencias culturales que hacen del plátano una **obra de arte**, como el hecho de que sea una **banana** -que en el inglés coloquial “simboliza la locura”- o la paradoja de la pieza: “Quien la compre sabe que desaparecerá pronto y el **valor** de su dinero se habrá evaporado”.
-
-Quizá sea esto último lo que se ponga en el foco tras la subasta: el **efímero valor del dinero**, que puede desaparecer con la misma rapidez con la que un **plátano** se pudre sobre una pared.
-
-La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica
-==================================================================================
-
-La morosidad en el sistema financiero ecuatoriano subió en septiembre de 2024, con mayor impacto en cooperativas (8,75%) que en bancos privados (3,72%).
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La desaceleración económica del Ecuador y el empleo informal dificultan el pago de créditos](https://www.elcomercio.com/wp-content/uploads/2024/11/morosidad.jpg)
-
-El **retraso en el pago de los créditos** de los ecuatorianos va aumento. En septiembre de 2024, las cooperativas y los bancos experimentaron un crecimiento en los índices de **morosidad**, en comparación con el mismo del 2023[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Por estas razones subió la morosidad en las cooperativas de Ecuador](https://www.elcomercio.com/actualidad/negocios/razones-subio-morosidad-cooperativas-ecuador.html "Por estas razones subió la morosidad en las cooperativas de Ecuador")
-* [Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz](https://www.elcomercio.com/actualidad/negocios/deudores-ecuador-podran-refinanciar-diferir-pagos-creditos.html "Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz")
-* [Así serán los créditos de BanEcuador para la compra de paneles y generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/creditos-banecuador-compra-paneles-solares-generadores-electricos.html "Así serán los créditos de BanEcuador para la compra de paneles y generadores eléctricos")
-
-La **morosidad promedio** del sistema financiero nacional es del 5,68%. La más alta es de las cooperativas de ahorro y crédito, con un índice del 8,30%, frente al 3,55% de los bancos privados.
-
-En septiembre de 2024, los **bancos privados** del país registraron una morosidad del 3,72%. La cifra es mayor al evidenciado en el mismo mes del 2023, que fue del 3,41%, según datos de la aplicación DataLab de la Asociación de Bancos Privados del Ecuador (Asobanca).
-
-Por su parte, las cooperativas de ahorro y crédito registraron una morosidad del 8,75% en septiembre de este año, mientras que en septiembre del 2023 fue del 6,67%.
-
-Según el **Banco Central del Ecuador** (BCE), históricamente los créditos educativos y de vivienda son los que registran mayores índices **morosidad**. Mientras que el crédito **productivo** muestra la cifra más baja de atrasos.
-
-Entre las personas que no han podido pagar sus créditos está **Andrés, de 47 años**. El padre de familia estuvo desempleado por un año y en ese tiempo no pudo cumplir con sus obligaciones. El que más le preocupa es su **crédito hipotecario**. Sin embargo, el hombre contó que en octubre de 2024 logró conseguir un empleo fijo y espera poder llegar a un acuerdo con las entidades bancarias para arreglar su situación financiera pronto.
-
-Incremento de la morosidad preocupa al sistema financiero
----------------------------------------------------------
-
-La morosidad sigue siendo un desafío crucial para las instituciones financieras en Ecuador, en un contexto económico marcado por **desaceleración** y **dificultades laborales**.
-
-Según un informe reciente de la **Red de Instituciones Financieras de Desarrollo (RFD)**, la cartera improductiva (préstamos que los clientes no pueden pagar a tiempo) creció un 183% desde 2017, alcanzando en junio de 2024 niveles preocupantes.
-
-Esta situación es el reflejo del impacto de una economía en contracción, que vive el Ecuador. En el que el **empleo informal** y la **inseguridad** dificultan el pago de obligaciones por parte de empresas y hogares, señaló la RFD.
-
-Factores detrás de la crisis y su impacto en la economía
---------------------------------------------------------
-
-El informe señala que la **baja en los ingresos de las familias**, causada por la caída del consumo y el deterioro del mercado laboral, es un factor clave detrás del incremento en la morosidad.
-
-Además, las entidades endurecieron sus políticas de crédito, lo que frena el crecimiento de la **cartera crediticia**. Esta desaceleración, combinada con altos **costos de captación** y una creciente competencia por recursos, reducen significativamente la rentabilidad del sector.
-
-Esta situación plantea serios retos para las instituciones financieras, que deben equilibrar la necesidad de garantizar su sostenibilidad con el apoyo a la reactivación económica, agregó la RFD.
-
-El informe advierte sobre la urgencia de **implementar estrategias integrales** que incluyan una mejor gestión del riesgo crediticio y políticas que fomenten el acceso al crédito, para evitar una contracción económica más severa.
-
-Las proyecciones para los próximos meses son inciertas, y el **sistema financiero** enfrenta el reto de encontrar un **equilibrio entre rentabilidad, sostenibilidad** y **apoyo a los sectores más vulnerables**.
-
-Bomba ciclónica causa fuertes tormentas y vientos en Estados Unidos y Canadá
-============================================================================
-
-Las fuertes tormentas en Estados Unidos y Canadá causaron la muerte de una persona y dejaron sin luz a otros 250 000 ciudadanos.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Los vientos en Estados Unidos y Canadá alcanzan los 170 km/h](https://www.elcomercio.com/wp-content/uploads/2024/11/bomba-ciclonica-estados-unidos.jpg)
-
-Una **bomba ciclónica** provocó fuertes **tormentas** que azotan la costa del Pacífico de **Canadá**, con vientos que alcanzan hasta los 170 kilómetros por hora.
-
-### Más noticias
-
-* [Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela](https://www.elcomercio.com/actualidad/mundo/estados-unidos-reconoce-a-edmundo-gonzalez-urrutia-como-presidente-electo-de-venezuela.html "Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela")
-* [Donald Trump promete acabar con la guerra de Ucrania en 24 horas](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-acabar-guerra-ucrania-24-horas.html "Donald Trump promete acabar con la guerra de Ucrania en 24 horas")
-* [Zelenski pide a Alemania misiles de largo alcance tras amenaza nuclear de Putin](https://www.elcomercio.com/actualidad/mundo/zelenski-pide-alemania-misiles-largo-alcance-amenaza-nuclear-putin.html "Zelenski pide a Alemania misiles de largo alcance tras amenaza nuclear de Putin")
-
-Las **intensas lluvias** registradas entre el martes 19 y miércoles 20 de noviembre en esta zona provocaron que alrededor de **100 000 personas** continúen **sin energía eléctrica**.
-
-La mayoría de los afectados por el corte eléctrico, desencadenado por la caída de postes y árboles, se concentran en la **isla de Vancouver**, en la provincia de Columbia Británica.
-
-En la noche del martes, cuando el fenómeno hizo contacto con la isla de Vancouver, hasta **250 000** se vieron afectadas.
-
-Las autoridades provinciales también se han visto obligadas a cancelar el servicio de transporte tipo **ferry** entre la isla y en el territorio continental[.](https://es.wikipedia.org/wiki/Cicl%C3%B3n_tropical "https://es.wikipedia.org/wiki/Cicl%C3%B3n_tropical")
-
-Una mujer falleció en estados unidos por las fuertes tormentas
---------------------------------------------------------------
-
-La tormenta **no causó víctimas mortales en Canadá**, pero en Estados Unidos **una mujer falleció** cuando el viento derribó un árbol en un campamento de personas sin techo en el estado de **Washington**.
-
-El Servicio Meteorológico de Canadá indicó que la bomba ciclónica se formó a unos **400 kilómetros** al oeste de la isla de Vancouver cuando masas de aire cálido y frío chocaron sobre el Pacífico, creando una rápida caída de la presión atmosférica.
-
-Los meteorólogos advirtieron que en estas condiciones los vientos ciclónicos pueden persistir hasta **20 horas** en algunas zonas costeras.
-
-Esta bomba ciclónica es la segunda **gran tormenta** que afecta la costa del Pacífico de Canadá en la última semana. 
-
-¿Qué es una bomba ciclónica?
-----------------------------
-
-Una **bomba ciclónica** es un término utilizado para describir una **explosión rápida** de una **baja presión atmosférica** en un corto período de tiempo.
-
-Este fenómeno está asociado con un proceso meteorológico llamado **ciclón explosivo** o **explosión ciclónica**, y generalmente se refiere a una caída rápida de la presión en el centro de una tormenta, lo que lleva a una intensificación súbita de las tormentas.
-
-Riesgos reporta 18 500 hectáreas afectadas por los incendios en Azuay y Loja
-============================================================================
-
-El COE Nacional tomó varias medidas por los incendios forestales en Azuay, Loja y El Oro.
------------------------------------------------------------------------------------------
-
-![Los incendios forestales en Azuay y Loja consumieron miles de hectáreas.](https://www.elcomercio.com/wp-content/uploads/2024/11/incendios-Azuay-Loja-1.jpg)
-
-El secretario de Gestión de Riesgos, **Jorge Carrillo**, informó que los **incendios** han afectado a un total de 18 500 hectáreas de vegetación en **Azuay y Loja**, este miércoles 20 de noviembre de 2024.
-
-Carrillo hizo estas declaraciones a propósito de la reunión del **Comité de Operaciones de Emergencia Nacional (COE-N)**, en Cuenca.
+Recientemente, **Ordóñez** hizo su debut como titular en partidos oficiales con la **Selección de Ecuador** durante las eliminatorias sudamericanas. Su destacada actuación ante Bolivia, en un partido menos exigente, y su solidez defensiva en la histórica victoria contra Colombia han disparado el interés de varios equipos de la Premier League.
 
 ### Más noticias:
 
-* [COE Nacional definió acciones por los incendios forestales en Loja, Azuay y El Oro](https://www.elcomercio.com/actualidad/ecuador/coe-nacional-acciones-incendios-forestales-loja-azuay-el-oro.html "COE Nacional definió acciones por los incendios forestales en Loja, Azuay y El Oro")
-* [Incendios forestales en Azuay siguen activos a pesar de las lluvias](https://www.elcomercio.com/actualidad/ecuador/incendios-forestales-en-azuay-siguen-activos-a-pesar-de-las-lluvias.html "Incendios forestales en Azuay siguen activos a pesar de las lluvias")
+* [Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions](https://www.elcomercio.com/deportes/futbol/joel-ordonez-brujas-champions-league.html "Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions")
+* [Joel Ordóñez está entre los 10 defensores sub-21 más costosos](https://www.elcomercio.com/deportes/futbol/joel-ordonez-entre-los-10-defensores-sub-21-mas-costosos.html "Joel Ordóñez está entre los 10 defensores sub-21 más costosos")
+* [Joel Ordóñez y Brujas lucharon, pero perdieron ante Milan](https://www.elcomercio.com/deportes/futbol/joel-ordonez-champions-league-milan.html "Joel Ordóñez y Brujas lucharon, pero perdieron ante Milan")
 
-Afectaciones por incendios en Azuay y Loja
-------------------------------------------
-
-En una rueda de prensa del COE Nacional, Carillo añadió que, a ese momento, se registraban **21 incendios** en Ecuador: 16 activos y cinco controlados.
-
-La mayoría de esos incendios se encuentran en estas **dos provincias**.
-
-En la provincia de Loja, desde el 1 de noviembre hasta la fecha, se han registrado **47 incendios** forestales.
-
-Estos han afectado a **11 municipios**, y han ocasionado la pérdida de cerca de 10 700 hectáreas de cobertura vegetal.
-
-Actualmente, esta provincia cuenta con **cuatro incendios activos** y uno controlado, indicó Carrillo.
-
-En **Azuay**, desde el primero de noviembre, se han producido incendios en 14 cantones.
-
-Esto ha ocasionado la pérdida de **7 800 hectáreas** de cobertura vegetal.
-
-Carrillo añadió que en este momento **cuatro incendios** se mantienen activos y dos han sido controlados en esta zona del país.
-
-El pasado lunes la presidenta del COE, **Inés Manzano**, confirmó la declaratoria de **emergencia nacional**.
-
-Las causas son la **crisis climática** que se evidencia en incendios forestales, **déficit hídrico y sequía**.
-
-Este miércoles, Manzano declaró en la rueda de prensa que se buscará a los **delincuentes** que causaron los incendios.
-
-La funcionaria dijo que estos casos van “más allá de un **delito ambiental**” y las denuncias serán por “delitos ambientales, terrorismo, sabotaje y delitos contra la vida humana”.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/image-25-1024x787.png)
-
-Foto: Bomberos de Cuenca
-
-El COE se pronunció sobre los incendios de Azuay, Loja y El Oro
----------------------------------------------------------------
-
-Entre las resoluciones del COE Nacional está que el **Ministerio de Gobierno** actúe de manera efectiva en las investigaciones que conlleven la presentación de las correspondientes denuncias.
-
-Que el **Ministerio de Agricultura y Ganadería** y los **cuerpos de bomberos** emitan los informes técnicos correspondientes a las afectaciones producidas por los incendios.
-
-Desde inicios de año, los incendios en **Ecuador** han afectado más de **75 500 hectáreas**, según el último reporte publicado este miércoles por la Secretaría de Riesgos.
-
-La gran mayoría a partir de agosto, cuando se recrudeció la **época seca** debido a una **grave sequía** que las autoridades ecuatorianas han definido como la peor en los últimos 60 años.
-
-La mitad de la superficie calcinada se encuentra en **Loja**, con cera de 32 200 hectáreas, seguida de **Azuay**, con 14 000 hectáreas,
-
-Video captó furiosa reacción de Richard Ríos ante Ecuador
-=========================================================
-
-Richard Ríos fue el primer señalado en el gol de Ecuador ante Colombia en Barranquilla.
----------------------------------------------------------------------------------------
-
-![Richard Ríos (d) de Colombia disputa un balón con Moisés Caicedo de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/rios_video_1.jpg)
-
-El mediocampista **Richard Ríos es uno de los nuevos rostros del fútbol de Colombia** que en los últimos 14 meses se ganó un espacio en la selección nacional y empezó a destacar en el fútbol sudamericano.
-
-Richard Ríos nació hace 24 años en el municipio de Vegachí, departamento de Antioquia. Sus inicios **fueron en el fútbol sala en su natal país y luego el Flamengo se fijó en su talento** y lo fichó para que integre sus equipos juveniles.
-
-### Más noticias:
-
-* [Periodista colombiano ‘explota’ tras la derrota ante Ecuador](https://www.elcomercio.com/deportes/futbol/periodista-colombiano-explota-tras-derrota-ante-ecuador.html "Periodista colombiano ‘explota’ tras la derrota ante Ecuador")
-* [Así resolvió Colombia la dura sanción ante Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-resolvio-dura-sancion-partido-ecuador.html "Así resolvió Colombia la dura sanción ante Ecuador")
-* [Enner Valencia es el ‘GOAT’ de Ecuador, ¿qué significa?](https://www.elcomercio.com/deportes/futbol/enner-valencia-goat-de-ecuador-que-significa.html "Enner Valencia es el ‘GOAT’ de Ecuador, ¿qué significa?")
-
-En el Flamengo jugó apenas siete partidos. Luego se marchó al Mazatlán de México y **regresó a Brasil para enfundarse la camiseta del Guaraní**, pero de la segunda división del fútbol de los pentacampeones mundiales.
-
-En marzo de **2023 su camino dio un giro de 180 grados al ser contratado por Palmeiras** y su nombre empezó a ser más común en el continente y fue citado por primera vez por su país en septiembre de 2023.
-
-Ríos es un jugador de plena confianza de Néstor Lorenzo. Lleva jugados 19 partidos y anotó dos goles.
-
-Fue una de las **figuras de los ‘cafeteros’ en la Copa América Estados Unidos 2024** y uno de los responsables de haber ganado el segundo lugar. La final la perdieron 1-0 contra Argentina con un tanto de Lautaro Martínez.
-
-Sin embargo, en la doble fecha de noviembre fue uno de los principales señalados en las derrotas 3-2 ante Uruguay en el Centenario de Montevideo y 0-1 contra Ecuador en el Metropolitano de Barranquilla.
-
-La furibunda reacción al ser sustituido
----------------------------------------
-
-Contra Ecuador empezó de titular, **pero a los 7 minutos entregó mal un pase**. Esto dio pie a la jugada que terminó con el golazo de Enner Valencia y la posterior victoria ecuatoriana.
-
-A los 59 minutos del segundo tiempo, Néstor Lorenzo decidió **sustituirlo para darla cabida al talentoso Juan Fernando Quintero**, figura de Racing de Argentina, que poco pudo hacer para llegar al buscado empate en el marcador.
-
-Los sitios especializados **SofaScore y 365Scores lo calificaron con 6,6 puntos**, entre las más bajas de los titulares. Por ejemplo, Hernán Galíndez, la gran figura del duelo, tuvo un promedio de 7,9 puntos.
-
-Una vez que abandonó el terreno de juego y llegó a la banca de suplentes estalló en rabia. Primero golpeó la una de las butacas y luego lanza otro golpe de puño al aire. Unas vendas también son lanzadas al piso mientras se sentaba.
-
-Pero eso no fue todo para Ríos. En la **zona mixta tuvo un cruce con un periodista** que le consultó sobre el bajo rendimiento personal mostrado ante Ecuador.
-
-¿**Por qué viene la pregunta básicamente a mí**?, le dijo el futbolista al periodista que le respondió que tuvo responsabilidad en el gol.
-
-“No tengo nada contra ustedes y siempre les respondo. Acepto tu crítica. **El gol sale de un error mío**. Son cosas que tengo que trabajar, llegar a casa y mirar los errores y aprender de lo que se hizo mal para no volver a cometerlos”, agregó.
-
-> [#Viral](https://twitter.com/hashtag/Viral?src=hash&ref_src=twsrc%5Etfw) Richard Ríos perdió el control y agarró el banco de Colombia a puños y patadas. El jugador de la Selección Colombia se mostró disgustado al ser reemplazado en el encuentro que la 'Tricolor' perdió con Ecuador en Barranquilla por Eliminatorias. Ríos, molesto, mandó un duro… [pic.twitter.com/T2cegabBDp](https://t.co/T2cegabBDp)
-> 
-> — Última Hora Col (@ultimahoracol\_) [November 20, 2024](https://twitter.com/ultimahoracol_/status/1859217679669690429?ref_src=twsrc%5Etfw)
-
-San viernes
------------
-
-Un hijo y dos exparejas de Junior Roldán, llamados a juicio por lavado de activos
-=================================================================================
-
-Un juez llamó a juicio a siete personas naturales y una jurídica por el presunto delito de lavado de activos, en el caso 'Blanqueo JR'
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Entre los procesados constan familiares del excabecilla de Los Choneros, Junior Roldán](https://www.elcomercio.com/wp-content/uploads/2024/11/junior-roldan-juicio-lavado-activos.jpg)
-
-Un juez dictaminó el llamado a **juicio** para **siete personas**, entre ellas, un hijo y dos exparejas de **Junior Roldán**, exlíder de la banda criminal **Los Choneros**.
-
-### Más noticias
-
-* [Denuncian en la Fiscalía de Guayas a presunto fotógrafo acosador](https://www.elcomercio.com/actualidad/seguridad/fotografo-denuncia-fiscalia-violacion-acoso.html "Denuncian en la Fiscalía de Guayas a presunto fotógrafo acosador")
-* [Femicida recibió sentencia por cometer cruel asesinato en Imbabura](https://www.elcomercio.com/actualidad/ecuador/femicida-sentencia-cruel-asesinato-imbabura.html "Femicida recibió sentencia por cometer cruel asesinato en Imbabura")
-* [Padre de Dana Ramos, y otros dos familiares, fueron sentenciados por su asesinato](https://www.elcomercio.com/actualidad/ecuador/dana-ramos-familia-sentencia.html "Padre de Dana Ramos, y otros dos familiares, fueron sentenciados por su asesinato")
-
-Los ciudadanos, además de la empresa **Vicmarent S.A.**, son investigados por el presunto delito de **lavado de activos**, en el caso denominado ‘**Blanqueo JR**‘.
-
-La decisión se tomó este miércoles 20 de noviembre de 2024, tras analizar el dictamen acusatorio presentado por la **Fiscalía General del Estado**.
-
-Durante la audiencia de evaluación y preparatoria de juicio, el fiscal a cargo presentó **155 elementos de convicción** del presunto ingreso de **altas sumas de dinero** al sistema financiero nacional, la adquisición de bienes muebles e inmuebles y la creación de empresas para ocultar el origen ilícito de los fondos.
-
-6,5 millones de dólares ingresaron sin justificación
+Joel Ordóñez atrae a los clubes de la Premier League
 ----------------------------------------------------
 
-Según las investigaciones de **Fiscalía**, al menos **6,5 millones de dólares** injustificados se habrían registrado entre los años 2020 y 2024.
+El ecuatoriano es titular indiscutido en el Club Brujas y, esta temporada, debutó en la **Uefa Champions League**, donde ha mostrado sus habilidades en el torneo de clubes más prestigioso. Equipos como el **Chelsea**, que cuenta con su compatriota Moisés Caicedo, y el **Liverpool** ya habían manifestado interés por el central.
 
-Se presume que **Leidi R.**, exesposa de alias ‘JR’, habría ingresado **1 823 069 dólares** al sistema financiero nacional y lavado dinero mediante la empresa **Vicmarent**.
+Ahora, según información de _TBR Football_, **dos nuevos clubes** se suman a la lista de interesados: Aston Villa y Newcastle. Ambos equipos, que están protagonizando una excelente campaña en la Premier League y en Champions, buscan fichar a Ordóñez lo antes posible, con una posible oferta para el mercado de enero.
 
-Mientras que una segunda expareja sentimental de Roldán, **Liseth H.**, habría participado con **4 603 409 dólares**.
+El Club Brujas estaría pidiendo un mínimo de **30 millones de dólares** por el defensor, lo que refleja la importancia y el potencial del jugador.
 
-**Azhael R.**, hijo del excabecilla de **Los Choneros**, también habría sido parte del ilícito con el ingreso de **741 548 dólares**.
+Joel Ordóñez y su carrera
+-------------------------
 
-Los otros acusados son **Jael B.**, supuesta administradora de los activos de origen ilícito; **Melitón R.**, **Olivia R.** y **Eduard D.**, quienes habrían recibido depósitos de grandes cantidades de dinero, usadas en la compra de bienes con pagos en efectivo de origen desconocido.
+**Joel Ordóñez llegó a Europa en 2022**, con solo 18 años, tras destacarse en Independiente del Valle. Fichó por el Club Brujas y, en su primera temporada, formó parte del equipo filial en la segunda división de Bélgica, donde jugó 29 partidos y anotó un gol.
 
-Ratificación de prisión preventiva
-----------------------------------
+En la campaña 2023/2024, Ordóñez comenzó en el filial, pero sus excelentes actuaciones le valieron un ascenso al primer equipo. Desde entonces, se consolidó como titular y figura clave en la conquista del título liguero. En la presente temporada, Ordóñez ha disputado 14 partidos entre la liga belga y la Uefa **Champions** **League**.
 
-El juez que conoció la causa acogió el pedido de **Fiscalía** y dictó auto de llamamiento a juicio contra las siete personas naturales, además de la persona jurídica utilizada en el delito.
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
 
-El magistrado también ratificó la **prisión preventiva** que mantienen y dispuso la suspensión de las cuentas bancarias para los procesados.
+Al menos cinco calles cerradas para atender incendio estructural en Quito
+=========================================================================
 
-Los investigados tienen prohibido **enajenar sus bienes** mientras dura la causa; la empresa, por su parte, no puede ejercer sus actividades en este mismo tiempo[.](https://www.fiscalia.gob.ec/ "https://www.fiscalia.gob.ec/")
+Los bomberos de Quito trabajan en el control del fuego por más de una hora. No se registran al momento personas heridas
+-----------------------------------------------------------------------------------------------------------------------
 
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#CasoBlanqueoJR](https://twitter.com/hashtag/CasoBlanqueoJR?src=hash&ref_src=twsrc%5Etfw): con base en los elementos de convicción presentados por [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw), 7 personas naturales y una jurídica son llamadas a juicio por presunto [#LavadoDeActivos](https://twitter.com/hashtag/LavadoDeActivos?src=hash&ref_src=twsrc%5Etfw).  
+![Un incendio se registra en un inmueble del sector de San Blas.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-21T135925.322.jpg)
+
+El ECU911 informó este jueves 21 de noviembre sobre un **incendio estructural** que se registró en el sector de la Elizalde y Ríos, **Centro Histórico de Quito.**
+
+### Más noticias
+
+* [Servicios de transporte modifican operación en Quito por movilizaciones](https://www.elcomercio.com/actualidad/quito/servicios-de-transporte-modifican-operacion-en-quito-por-movilizaciones.html "Servicios de transporte modifican operación en Quito por movilizaciones")
+* [Vías cerradas en Quito este jueves 21 de noviembre por movilizaciones](https://www.elcomercio.com/actualidad/quito/vias-cerradas-quito-jueves-21-de-noviembre-movilizaciones-centro-historico.html "Vías cerradas en Quito este jueves 21 de noviembre por movilizaciones")
+* [Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-viernes-22-a-domingo-24-de-noviembre.html "Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre")
+
+Incendio estructural
+--------------------
+
+Desde la **Sala Operativa** se informó que se recibió la llamada de emergencia a las 12:10 que alertaba que el incendio se dio en la zona de San Blas, en la calle Ríos.
+
+Para la atención de la emergencia se coordinó con el **Cuerpo de Bomberos Quito** y la Policía Nacional, cuyos efectivos acudieron al sitio para ayudar a las personas afectadas.
+
+Los bomberos permanecen en el sitio por **más de una hora tratando** de controlar el fuego en el inmueble. Hasta el momento no se reportan personas heridas en este incidente.
+
+El Cuerpo de Bomberos informó que trabaja con **más de 40 efectivos y 17 vehículos** en labores de control del fuego para precautelar la seguridad de los habitantes y viviendas aledañas.
+
+La Agencia Metropolitana de Tránsito (AMT) informó que se realizaron **cierres viales** para precautelar la seguridad de transeúntes y del personal que atiende la emergencia.
+
+Las calles cerradas son:
+
+* Ríos y Antonio Elizalde
+* Ríos y Miguel Espinoza
+* Ríos y Briceño
+* Ríos y Sodiro
+
+Si necesitas circular por el sector, [toma vías alternas](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Los cierres viales por el incendio estructural en el sector de San Blas.  
 >   
-> Detalles ⬇️[https://t.co/33Fil3CNs4](https://t.co/33Fil3CNs4) [pic.twitter.com/2fgBU6TLSH](https://t.co/2fgBU6TLSH)
+> 🚧 Calle Ríos y Elizalde  
+> 🚧 Calle Ríos y Espinoza  
+> 🚧 Calle Ríos y Briceño  
+> 🚧 Calle Ríos y Luis Sodiro [pic.twitter.com/9BUcwg4cMT](https://t.co/9BUcwg4cMT)
 > 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [November 20, 2024](https://twitter.com/FiscaliaEcuador/status/1859379761547559286?ref_src=twsrc%5Etfw)
+> — AMTQuito (@AMT\_Quito) [November 21, 2024](https://twitter.com/AMT_Quito/status/1859657704916254995?ref_src=twsrc%5Etfw)
 
-Asesinato de Junior Roldán, alias ‘JR’
---------------------------------------
+Otros cierres viales en el centro
+---------------------------------
 
-Junior Roldán, alias ‘JR’, uno de los líderes del grupo delictivo Los Choneros en Ecuador, fue asesinado el **6 de mayo de 2023** en Colombia.
+Ante la **convocatoria a movilizaciones,** la Policía Nacional y la Agencia Metropolitana de Tránsito (AMT) implementaron un operativo de tránsito. Este contempla el cierre de varias calles dentro del Centro Histórico; sin embargo, las vías de acceso al centro se cerrarán según se requiera.
 
-Su cuerpo fue hallado enterrado en un cementerio clandestino en Antioquia. Según los reportes, habría sido asesinado a tiros. Su muerte marcó un golpe significativo en la estructura de la agrupación delictiva.
+La AMT informó que los **alrededores del Centro Histórico** ya se encuentran cerrados desde la mañana de este jueves 21 de noviembre.
 
-Roldán había estado prófugo desde el año anterior y enfrentaba múltiples acusaciones por **delitos graves** relacionados con el narcotráfico y la violencia en el país.
+Para ello, se realizó el cierre total de las vías del **perímetro de Carondelet.** Las calles que están cerradas son:
 
-Video recopiló partidazo de Moisés Caicedo vs. Colombia
-=======================================================
+* Calle Guayaquil y Rocafuerte
+* Calle Benalcázar y Mejía
+* Calle Benalcázar y Sucre
+* Pasaje Espejo y calle Guayaquil
+* Calle Venezuela y Sucre
+* Calle García Moreno y Sucre
+* Calle Guayaquil y Sucre
+* Calle Guayaquil y Chile
+* Calle Guayaquil y Espejo
 
-Moisés Caicedo jugó con la Selección de Ecuador 51 partidos y anotó tres goles.
--------------------------------------------------------------------------------
+Ten precaución además en las avenidas antes señaladas como de ingreso al centro como la **av. Patria**, av. 12 de Octubre, **av. Maldonado.**
 
-![Moisés Caicedo, jugador de la Selección de Ecuador en el Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/11/moi_video_1.jpg)
+Fiscalía solicitó estas condenas para 21 vinculados en el caso Metástasis
+=========================================================================
 
-**Moisés Caicedo** es la figura emergente con la que cuenta la Selección de Ecuador en las eliminatorias al Mundial 2026. Desde su debut en el 2020 su crecimiento no ha parado y aún no tiene techo.
+Fiscalía solicita penas de 7 a 10 años para 21 procesados por red criminal de Norero en el caso Metástasis.
+-----------------------------------------------------------------------------------------------------------
 
-El debut de **Moisés Caicedo con la Selección de Ecuador** se produjo con 18 años, 11 meses y seis días, en el primer partido del argentino Gustavo Alfaro como entrenador en las eliminatorias a Catar 2022.
+![Este 21 de noviembre se reinstaló la audiencia de juicio contra 21 procesados por presunta delincuencia organizada en el caso Metástasis.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-45-3.jpg)
+
+El juicio del **caso Metástasis**, que investiga una presunta **red de delincuencia organizada liderada** por **Leandro ‘El Patrón’ Norero**, entró en su etapa final. El fiscal general subrogante, **Wilson Toainga**, presentó su alegato de cierre y pidió penas de cárcel que van desde los **siete hasta los 10 años para 21 procesados**.
+
+### Más noticias
+
+* [Caso Metástasis, procesados mencionan supuesto incumplimiento de derechos](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-procesados-mencionan-supuestos-incumplimientos-derechos.html "Caso Metástasis, procesados mencionan supuesto incumplimiento de derechos")
+* [Fiscalía presentó varias pruebas en los primeros días de audiencia del caso Metástasis](https://www.elcomercio.com/actualidad/seguridad/fiscalia-presento-varias-pruebas-audiencia-caso-metastasis.html "Fiscalía presentó varias pruebas en los primeros días de audiencia del caso Metástasis")
+* [Caso Metástasis, juicio contra 21 procesados se inicia en la CNJ](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-juicio-contra-21-procesados-inicia-corte-nacional-justicia.html "Caso Metástasis, juicio contra 21 procesados se inicia en la CNJ")
+
+La Fiscalía sostiene que esta o**rganización criminal buscaba obtener beneficios judiciales ilícitos** para Norero, quien se encuentra **vinculado al narcotráfico** en el **[caso Metástasis](https://es.wikipedia.org/wiki/Caso_Met%C3%A1stasis "https://es.wikipedia.org/wiki/Caso_Met%C3%A1stasis")**.
+
+Las pruebas presentadas incluyeron **documentos, testimonios y pericias** que, según Toainga, confirman la existencia y operación de esta **estructura delictiva**.
+
+Principales señalados por Fiscalía en el caso Metástasis
+--------------------------------------------------------
+
+Entre los señalados como líderes de la organización figura**n Helive A.**; **Xavier N.**; y el empresario Xavier J.
+
+Helive A. logró una reducción de su condena tras **cooperar con la investigación**, mientras que Xavier J. sigue **prófugo**, junto con otros ocho procesados.
+
+En el caso de Xavier N., la Fiscalía pidió una **condena de 10 años**, argumentando que habría liderado una red de sobornos para influir en **decisiones judiciales favorables a Norero**. Estas acciones habrían permitido que el narcotraficante obtuviera **ventajas ilegales en procesos judiciales**.
+
+Exfuncionarios y colaboradores vinculados
+-----------------------------------------
+
+Catorce **exfuncionarios públicos** también enfrentan cargos como colaboradores del grupo delictivo, para quienes se solicitó una pena de **nueve años y cuatro meses**. Dentro de este grupo está Wilman T., quien habría aceptado un soborno de **10 000 dólares** para **retrasar una resolución judicial**.
+
+Otro de los involucrados es **Pablo R., exdirector del SNAI**, acusado de facilitar beneficios indebidos a Norero mientras estaba recluido en la **cárcel de Cotopaxi**.
+
+Además, la Fiscalía pidió **siete años de prisión para seis colaboradores adicionales**, entre ellos Claudia G., quien habría gestionado **favores carcelarios para el narcotraficante**.
+
+Nuevo ‘Cruce seguro’ deja a un lado otro puente peatonal en Quito
+=================================================================
+
+Por la avenida América, a la altura de la Universidad pasan el Corredor Suroccidental, ciclovía y buses, Por allí cruzan miles de estudiantes.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![El nuevo cruce seguro de la Universidad Central reemplaza al puente peatonal, que se encontraba allí.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-72.jpg)
+
+Los **peatones** en Quito viven en **constante riesgo**. Los conductores de los vehículos no suelen respetar los pasos cebra. Los puentes peatonales se habían convertido en la alternativa, pero pocos de los que van a pie los usan; muchos preferían correr para cruzar una avenida. Por eso, el **Municipio de Quito** apostó por los “**cruces seguros**“, que dejaban atrás los puentes peatonales.
+
+### Más noticias
+
+* [Vías cerradas en Quito este jueves 21 de noviembre por movilizaciones](https://www.elcomercio.com/actualidad/quito/vias-cerradas-quito-jueves-21-de-noviembre-movilizaciones-centro-historico.html "Vías cerradas en Quito este jueves 21 de noviembre por movilizaciones")
+* [Dos días para la arborización de Quito tras los incendios, se vienen](https://www.elcomercio.com/actualidad/quito/fin-semana-arborizacion-quito-incendios.html "Dos días para la arborización de Quito tras los incendios, se vienen")
+* [Se cierra una parada de la Ecovía de Quito para rehabilitación](https://www.elcomercio.com/actualidad/quito/parada-clave-ecovia-cerrara-tres-dias-rehabilitacion.html "Se cierra una parada de la Ecovía de Quito para rehabilitación")
+
+Con cruce seguro, pero sin puente
+---------------------------------
+
+Este 21 de noviembre del 2024, la **Empresa Pública Metropolitana de Movilidad y Obras Públicas** (Epmmop) inauguró un nuevo cruce seguro que deja atrás otro puente peatonal. Está ubicado en la Avenida América y deja atrás el puente peatonal que unía las calles Ramírez Dávalos con el campus de la Universidad Central del Ecuador.
+
+Cruzar la avenida **América** por la **Universidad Central** no dejaba de ser una de las tareas más arduas. Sin embargo, el puente peatonal era muy usado porque dejaba al peatón ya dentro del campus.
+
+Puentes peatonales sirven más a los autos
+-----------------------------------------
+
+La **Universidad Central** agradeció intervención. Su **rector**, Patricio Espinosa, fue parte de la inauguración, que se enmarca en el programa “**Peatón Primero**“, de Municipio de Quito y que ejecuta la **Epmmop**[.](https://es.wikipedia.org/wiki/Universidad_Central_del_Ecuador "https://es.wikipedia.org/wiki/Universidad_Central_del_Ecuador")
+
+Si bien el puente peatonal daba seguridad a los peatones, era el indicador de que Quito es una ciudad que piensa más en los vehículos. Por eso, estos cruces seguros están diseñados y tienen una señalización que los conductores no pueden obviar.
+
+Según el **Municipio**, “los refugios peatonales se implementan en **intersecciones extensas donde existe, entre dos calzadas vehiculares, un parterre.** Esta área se demarca con bolardos, lo que permite al transeúnte esperar de forma segura para continuar el cruce”.
+
+Asamblea decide sobre la creación de la Universidad Pública de Santo Domingo
+============================================================================
+
+La Asamblea definió el destino de la Universidad Pública de Santo Domingo, este 21 de noviembre.
+------------------------------------------------------------------------------------------------
+
+![Este 21 de noviembre, la Asamblea aprobó la creación de la Universidad Pública de Santo Domingo.](https://www.elcomercio.com/wp-content/uploads/2024/11/asamblea-santo-domingo.jpg)
+
+El **Pleno de la Asamblea** se reunió este jueves, 21 de noviembre de 2024, para tratar la Ley para la creación de la **Universidad Pública de Santo Domingo**.
+
+La votación se realizó cerca del mediodía. Viviana Veloz, presidenta del Legislativo, y el asambleísta **Geovanny Benítez**, presentaron el proyecto el 6 de octubre.
+
+### Más noticias
+
+* [Daniel Noboa ratificó construcción de nueva universidad para Santo Domingo](https://www.elcomercio.com/actualidad/ecuador/homicidios-daniel-noboa-santo-domingo.html "Daniel Noboa ratificó construcción de nueva universidad para Santo Domingo")
+* [Asamblea Nacional sesionó en Santo Domingo de los Tsáchilas](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-sesiono-santo-domingo-de-los-tsachilas.html "Asamblea Nacional sesionó en Santo Domingo de los Tsáchilas")
+* [Asamblea rechazó sumario administrativo a Verónica Abad, ¿qué impacto tiene?](https://www.elcomercio.com/actualidad/politica/asamblea-rechazo-sumario-administrativo-veronica-abad-impacto.html "Asamblea rechazó sumario administrativo a Verónica Abad, ¿qué impacto tiene?")
+
+> ¡Histórico! Asamblea Nacional aprueba por unanimidad la creación de la [#UniversidadSantoDomingo](https://twitter.com/hashtag/UniversidadSantoDomingo?src=hash&ref_src=twsrc%5Etfw) de los Tsáchilas.  
+> Conoce los detalles: 🔗 [https://t.co/oATXV0LtUh](https://t.co/oATXV0LtUh)[#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/y3toPTam4o](https://t.co/y3toPTam4o)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [November 21, 2024](https://twitter.com/AsambleaEcuador/status/1859649321890918855?ref_src=twsrc%5Etfw)
+
+Asamblea y la Universidad pública para Santo Domingo
+----------------------------------------------------
+
+Según datos de la Asamblea, la **Universidad de Santo Domingo de los Tsáchilas** contará con cuatro carreras: Agronegocios, Emprendimiento e innovación social, Alimentos y Medicina veterinaria.
+
+La inversión contemplada para el proyecto es de **35 millones de dólares**, en un plazo de cinco años. El Ministerio de Economía y Finanzas deberá garantizar los recursos.
+
+La aprobación de la Ley para la implementación de la institución de educación superior tomó un mes y medio. Se aprobó con 115 votos.
+
+Los beneficiarios de la norma
+-----------------------------
+
+De acuerdo con los datos del Legislativo, unos **20 000 bachilleres** recibirán los beneficios de la creación de una universidad pública para Santo Domingo de los Tsáchilas.
+
+Alrededor de **10 000 estudiantes** son de la provincia Tsáchila y el resto de las zonas aledañas: Cotopaxi, Esmeraldas, Los Ríos y el noroccidente de Pichincha.
+
+La construcción de la universidad está prevista en un terreno de **35 hectáreas** para la creación de esta universidad.
+
+La recta final de Liga Pro vuelve con pugna de Liga e IDV
+=========================================================
+
+Liga de Quito e Independiente del Valle pelean por la segunda etapa de la Liga Pro a falta de dos fechas de que termine.
+------------------------------------------------------------------------------------------------------------------------
+
+![Álex Arce (centro) disputa el balón con jugadores de Independiente del Valle en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-21T130638.842.jpg)
+
+Los técnicos argentinos **Javier Gandolfi**, del Independiente del Valle, y **Pablo ‘Vitamina’ Sánchez**, con Liga de Quito, continuarán desde el próximo domingo en puja por el título de 2024 en Ecuador, en la penúltima fecha de la segunda fase de la Liga Pro.
+
+Ambos equipos están con **26 puntos**, pero el Independiente, con la ventaja de haber ganado la primera fase, saldrá en la dos últimas fechas por repetir el primer puesto, que le otorgaría el título de la actual temporada en forma directa.
 
 ### Más noticias:
 
-* [Rafael Nadal se despide del tenis profesional tras una exitosa carrera](https://www.elcomercio.com/deportes/tenis/rafael-nadal-tenis-vida-retiro-sin-raqueta.html "Rafael Nadal se despide del tenis profesional tras una exitosa carrera")
-* [Ecuador y Argentina son las mejores selecciones de Sudamérica](https://www.elcomercio.com/deportes/futbol/ecuador-argentina-son-las-mejores-selecciones-de-sudamerica.html "Ecuador y Argentina son las mejores selecciones de Sudamérica")
-* [Ecuador cierra el año en zona mundialista y así está la tabla de posiciones](https://www.elcomercio.com/deportes/futbol/ecuador-zona-mundialista-tabla-posiciones-eliminatorias.html "Ecuador cierra el año en zona mundialista y así está la tabla de posiciones")
+* [Duelo de goleadores nacionales en la Liga Pro](https://www.elcomercio.com/deportes/futbol/diego-armas-janner-corozo-goleadores.html "Duelo de goleadores nacionales en la Liga Pro")
+* [Segundo Castillo el mejor DT de la fecha 13 de la Liga Pro](https://www.elcomercio.com/deportes/futbol/segundo-castillo-mejor-dt-fecha13.html "Segundo Castillo el mejor DT de la fecha 13 de la Liga Pro")
+* [¿Qué necesita Liga de Quito para ganar la etapa de la Liga Pro?](https://www.elcomercio.com/deportes/futbol/que-necesita-liga-de-quito-para-ganar-la-etapa-ligapro.html "¿Qué necesita Liga de Quito para ganar la etapa de la Liga Pro?")
 
-La noche del 8 de octubre de 2020, **la Tri visitó la Bombonera para enfrentarse a Argentina**. Los locales ganaron por 1-0 con un tanto de penal de Lionel Messi. Caicedo arrancó de titular y se mantuvo en la cancha 79 minutos.
+Por su parte, **Liga Deportiva Universitaria de Quito** se aferrará a ganar la segunda fase. Con ello buscará defender el título ecuatoriano que ganó el año pasado, en partidos de ida y vuelta contra el Independiente.
 
-Compartió titularidad con Alan Franco, Carlos Gruezo y Renato Ibarra. Los dos primeros siguen como seleccionados. Fue sustituido por Romario Ibarra, jugador que en Catar 2022 portó la camiseta número 10 en su espalda.
+El favoritismo de Liga se frenó la semana pasada, pues sus directivos no cumplieron ante la **Federación Ecuatoriana de Fútbol** (FEF) con una exigencia reglamentaria local y el equipo que tenía 29 unidades, fue castigado con la reducción de tres puntos.
 
-El primer gol del ‘Niño’ Moi no se hizo esperar. Fue el **12 de octubre en la victoria 4-2 ante Uruguay** en el Rodrigo Paz Delgado. Jugó 85 minutos en la segunda fecha de ese exitoso proceso eliminatorio.
+**Liga** echará manos del máximo goleador del torneo, con **21 tantos**, el paraguayo Álex Arce para su enfrentamiento contra la **Universidad Católica**, que tendrá a los atacantes panameños Ismael Díaz y José Fajardo.
 
-En estos cuatro años su crecimiento es notable. Pasó de ser una joven promesa de Independiente del Valle a ser formando, con paciencia, por el **Brighton antes de ser traspasado al Chelsea** y convertirse en la transacción más cara de la Premier League.
+Entretanto, el cuadro del Valle recibirá a **Macará**, que se jugará la última oportunidad para seguir en puja por algún billete para la próxima Copa Sudamericana.
 
-Con Ecuador también tiene un proceso de evolución ascendente. En el 2024 se consolidó como uno de los referentes e incluso llegó a ser uno de los capitanes con los que cuenta el entrenador argentino Sebastián Beccacece.
+El segundo goleador del actual torneo en Ecuador, el colombiano **Jeison Medina**, con 19 goles, comandará el ataque del Independiente.
 
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/moi_video_2-1024x683.jpg)
+Tres clubes al acecho de Liga e Independiente del Valle
+-------------------------------------------------------
 
-Foto: EFE.
+Detrás de Independiente y de **Liga, aparecen Barcelona, Universidad Católica y el Orense**, con 23 puntos cada uno, y con alguna esperanza para ganar la fase, pero dependerán de que Liga e Independiente pierdan sus próximos encuentros[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
+
+El Barcelona visitará a Técnico Universitario, con dos opciones: ganar la segunda fase o asegurarse un billete para la **Copa Libertadores de 2025**.
+
+Para el Técnico será un decisivo partido en su lucha por alcanzar la clasificación para la próxima **Sudamericana**. Mientras tanto, el **Orense**, además de intentar ganar la segunda fase, también tiene aquella posibilidad.
+
+¿Qué partidos se juegan la penúltima fecha de Liga Pro?
+-------------------------------------------------------
+
+**Sábado 23 de noviembre**: Deportivo Cuenca-Libertad; Cumbayá-Orense; Técnico Universitario-Barcelona y Emelec-Imbabura.
+
+**Domingo 24 de noviembre**: Mushuc Runa-El Nacional; Aucas-Delfín; Independiente del Valle-Macará y Universidad Católica-Liga de Quito. 
+
+‘Cómo entrenar a tu dragón’ desata un aluvión de reacciones con su primer adelanto
+==================================================================================
+
+El formato realista o 'live action' de esta película animada se estrenará en 2025.
+----------------------------------------------------------------------------------
+
+!['Cómo entrenar a tu dragón' en formato real se estrenará en 2025.](https://www.elcomercio.com/wp-content/uploads/2024/11/dragon-El-Comercio-6.jpg)
+
+El **adelanto** del **live action de ‘Cómo entrenar a tu dragón**‘ despertó emociones entre los seguidores de esta saga animada de DreamWorks.
+
+Estas **primer**as **imágenes** lanzadas por **Universal Pictures** presentó el regreso a la **isla de Berk**, pero ahora con personajes y dragones recreados en un formato realista.
+
+### Más noticias
+
+* **[Las claves del éxito en los musicales cinematográficos](https://www.elcomercio.com/tendencias/las-claves-del-exito-en-los-musicales-cinematograficos.html "https://www.elcomercio.com/tendencias/las-claves-del-exito-en-los-musicales-cinematograficos.html")**
+* **[El mayor temor del tío Jesse se volvió realidad por una razón que no creerías](https://www.elcomercio.com/afull/tio-jesse-full-house-john-stamos.html "https://www.elcomercio.com/afull/tio-jesse-full-house-john-stamos.html")** 
+
+La trilogía original, basada en los **libros de** **Cressida Cowell**, fue un fenómeno desde su debut en 2010, con más de 1,6 millones de dólares recaudados en taquilla.
+
+![Escena del adelanto de la película live action 'Cómo entrenar a tu dragón'. ](https://www.elcomercio.com/wp-content/uploads/2024/11/dragon-El-Comercio-5-1024x683.jpg)
+
+Escena del adelanto de la película live action ‘Cómo entrenar a tu dragón’.
+
+Dirigida por Dean DeBlois, quien también está detrás de esta nueva adaptación, la película promete mantener el corazón de la historia, aunque con un enfoque visual completamente renovado.
+
+**Reacciones al _teaser_**
+--------------------------
+
+![Escena del adelanto de la película live action 'Cómo entrenar a tu dragón'.](https://www.elcomercio.com/wp-content/uploads/2024/11/dragon-El-Comercio-4-1024x683.jpg)
+
+Escena del adelanto de la película live action ‘Cómo entrenar a tu dragón’.
+
+El _teaser_ ha sido recibido con opiniones mixtas. Usuarios como @JoséSantiagoLópez en YouTube destacaron que el diseño del **dragón Chimuelo**,”se ve igualito a las películas animadas, aunque con un toque diferente”, mientras que Stoico, el padre de Hipo, “parece haber sido trasladado directamente de la animación al _live action_“.
+
+Por su parte, el **actor** **Mason Thames** (Hipo) también ha generado reacciones positivas al ser considerado “una buena elección para el papel”.
+
+Otro usuario, @HolaSoyElFenix, afirmó que este tráiler ya le da mucha “más fe a esta película”. Sin embargo, no todos están convencidos, ya que algunos señalan que la magia de la animación podría perderse al intentar adaptarla al realismo.
+
+**Momentos clave del adelanto**
+-------------------------------
+
+![Escena del adelanto de la película live action 'Cómo entrenar a tu dragón'. ](https://www.elcomercio.com/wp-content/uploads/2024/11/dragon-El-Comercio-3-1024x683.jpg)
+
+Escena del adelanto de la película live action ‘Cómo entrenar a tu dragón’.
+
+En el adelanto se aprecian escenas icónicas de la historia original: el primer **encuentro entre Hipo y Chimuelo**, el entrenamiento para montar dragones y los paisajes que caracterizan la isla de Berk. La música también juega un papel crucial. Evoca nostalgia entre los seguidores más fieles.
+
+**El desafío del _live-action_**
+--------------------------------
+
+La acción en vivo plantea grandes retos. Los estudios de Universal deben encontrar el equilibrio entre la fidelidad a la historia original y la innovación visual.
+
+Según un análisis de **The Hollywood Reporter**, adaptaciones como esta suelen enfrentarse a las altas expectativas de los fanáticos, quienes no buscan solo espectacularidad, sino también profundidad emocional.
+
+El estreno de esta película coincide con la apertura del parque temático Dragones: El mundo oculto en Universal Orlando, lo que incrementa la emoción entre los seguidores.
+
+![Hipo en la película animada y en el live action interpretado por el actor Mason Thames. ](https://www.elcomercio.com/wp-content/uploads/2024/11/dragon-El-Comercio-1-1024x683.jpg)
+
+Hipo en la película animada y en el live action interpretado por el **actor [Mason Thames](https://www.instagram.com/masonthamesofficial/?hl=es "https://www.instagram.com/masonthamesofficial/?hl=es").**
+
+En Instagram, la usuaria @michelele93 comentó: “Lloré con el _teaser_. La saga es muy importante para mí, y ahora con el parque temático, parece un sueño hecho realidad”.
+
+**Fecha de estreno de ‘Cómo entrenar a tu dragón’**
+---------------------------------------------------
+
+Con fecha de estreno programada para el **13 de junio de 2025**, ‘Cómo entrenar a tu dragón’ en su versión _live action_ enfrenta la difícil tarea de enamorar tanto a las nuevas generaciones como a los seguidores de la trilogía original.
+
+En Garabot sabrás cuál es el nuevo perfil del consumidor en Ecuador
+===================================================================
+
+José Luis Fernández, gerente Regional de Ventas en Essity, analiza las nuevas demandas de los consumidores en Ecuador
+---------------------------------------------------------------------------------------------------------------------
+
+![José Luis Fernández es Gerente Regional de Ventas en Essity.](https://www.elcomercio.com/wp-content/uploads/2024/11/1200X800-GARABOT-10.jpg)
+
+El **consumidor ecuatoriano** ha vivido transformaciones profundas en su comportamiento, especialmente tras la pandemia.
+
+En un contexto de crisis económica y digitalización acelerada, los hábitos de compra han cambiado. Aunque el comercio electrónico sigue en crecimiento, su desarrollo es aún incipiente en Ecuador, comparado con otras naciones de América Latina y Europa.
+
+Para las marcas y emprendedores, entender estas tendencias es clave para aprovechar las nuevas oportunidades. **José Luis Fernánde**z, **gerente Regional de Ventas en Essity**, cuenta cuáles son las nuevas demandas de los consumidores en **Ecuador** y cómo la tecnología ha mejorado las interacciones.
+
+Escucha todos sus consejos en este capítulo de la segunda temporada del **podcast Garabot.**
+
+Sugerencias para entender al consumidor ecuatoriano
+---------------------------------------------------
+
+* **La pandemia aceleró la digitalización**. La pandemia obligó a muchos consumidores a adaptarse a las compras en línea. Aunque aún no se ha alcanzado el nivel de consumo digital de países como Alemania o Brasil, el comercio electrónico ha crecido un 40% en Ecuador. Sin embargo, aún es incipiente comparado con otras naciones de la región.
+* **El comercio electrónico está en desarrollo**. En Ecuador, el comercio electrónico representa solo un 1% de la canasta de consumo masivo, un porcentaje muy bajo si se compara con el 15-20% de países europeos. Esto refleja un retraso en la infraestructura y en la oferta digital local.
+* **El consumo depende de la oferta disponible**. A diferencia de otros países, el consumidor ecuatoriano se siente atraído por la experiencia física de compra. Las plataformas locales de ecommerce aún no logran convencer completamente, especialmente en categorías fuera de alimentos y productos básicos.
+* **Los ecuatorianos valoran la comparación de precios**. En Ecuador, los consumidores prefieren ir a las tiendas físicas para comparar precios, tocar los productos y “cazar ofertas”. Esto se debe a una idiosincrasia cultural que valora el regateo y la interacción directa con el vendedor.
+* **El ahorro se vuelve crucial**. La economía ecuatoriana, marcada por el desempleo y la alta informalidad laboral, ha hecho que el consumidor sea más cauteloso con su dinero. Un 65% de la población tiene trabajos por debajo del salario básico, lo que ha llevado a los ecuatorianos a buscar precios bajos y ofertas.
+* **La desconfianza ante las ofertas digitales**. Muchos consumidores ecuatorianos desconfían de las ofertas online, creyendo que los precios ya se han incrementado antes de ofrecer descuentos. Esta percepción crea una barrera para el comercio electrónico, que necesita transmitir mayor transparencia.
+* **La experiencia de compra sigue siendo híbrida**. Aunque el comercio electrónico está en crecimiento, muchos consumidores prefieren visitar entre seis y ocho canales de venta antes de tomar una decisión, lo que incluye tiendas físicas, supermercados y canales de distribución más informales.
+* **El efecto de la idiosincrasia latina**. A nivel cultural, los ecuatorianos, como muchos otros latinoamericanos, disfrutan de la experiencia de “vitrinear”. Esto significa que prefieren ver el producto en persona, evaluar opciones y sentir que tienen el control sobre la compra antes de hacerla.
+* **La confianza en la calidad es clave**. Aunque el consumidor ecuatoriano es más consciente del precio, también valora la calidad. Por eso, las plataformas de ecommerce deben ofrecer productos de buena calidad y respaldados por garantías claras para ganar la confianza del comprador.
+
+Segundo Alejandro Castillo le devolvió la alegría a Barcelona SC
+================================================================
+
+Desde la llegada de Segundo Alejandro Castillo al banquillo de Barcelona SC, el equipo ha mostrado una actitud renovada.
+------------------------------------------------------------------------------------------------------------------------
+
+![Segundo Alejandro Castillo le devolvió la alegría a Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-21T120852.261.jpg)
+
+**Segundo Alejandro Castillo** llegó como un salvador a Barcelona SC, tras un año lleno de dificultades para los toreros, quienes previamente tuvieron a dos entrenadores extranjeros cuya gestión dejó mucho que desear.
+
+Con ‘Sir Second Castle’ al mando, el **equipo ha mostrado una renovada actitud** en el campeonato ecuatoriano. Cuando parecía que ya no tendrían opciones de título, de manera casi milagrosa, siguen con vida y aún mantienen una mínima posibilidad de llegar a la final de la Liga Pro.
+
+### Más noticias:
+
+* [Barcelona SC confía en Segundo Alejandro Castillo como su DT](https://www.elcomercio.com/deportes/futbol/barcelona-sc-confia-en-segundo-alejandro-castillo-como-su-dt.html "Barcelona SC confía en Segundo Alejandro Castillo como su DT")
+* [Barcelona SC ganó con una aplastante goleada a Cumbayá](https://www.elcomercio.com/deportes/futbol/barcelona-gano-goleada-cumbaya.html "Barcelona SC ganó con una aplastante goleada a Cumbayá")
+
+Segundo Castillo le devolvió la alegría a Barcelona SC
+------------------------------------------------------
+
+Gracias a la **reciente sanción de Liga de Quito** por parte de la Federación Ecuatoriana de Fútbol (FEF), que restó tres puntos a los albos, Barcelona SC, con solo dos fechas restantes en la etapa, todavía mantiene posibilidades de clasificar a la final.
+
+El equipo de Segundo **Alejandro Castillo ocupa el tercer lugar con 23 puntos**, a tres de LDU e Independiente del Valle. Además, los toreros han mostrado un gran nivel de juego, con una racha de cuatro partidos invictos bajo la dirección del ecuatoriano.
+
+El siguiente compromiso de **Barcelona SC** será contra Técnico Universitario en la penúltima fecha de la segunda etapa de la Liga Pro, el sábado 23 de noviembre, a las 15:30, en el Bellavista de Ambato.
+
+Los números de ‘Sir Second’
+---------------------------
+
+**Segundo** **Alejandro** **Castillo** ha dirigido dos etapas en Barcelona SC en 2024. La primera fue en abril, cuando asumió al equipo tras la salida de Diego López, previo a la llegada de Ariel Holan.
+
+En esa etapa, logró un empate 1-1 ante Emelec en el Capwell. Su segunda etapa comenzó a finales de octubre, después de la salida de Holan.
+
+Desde entonces, ha dirigido cuatro partidos, con **tres victorias y un empate**. Además, desde su regreso, ningún equipo ha marcado más goles que Barcelona SC, con 15 goles en esos cuatro partidos.
+
+¿Se renovará el contrato del DT ecuatoriano?
+--------------------------------------------
+
+Aunque aún no hay un anuncio oficial, el periodista Eduardo Erazo, quien sigue de cerca al club, informó que **Barcelona SC está satisfecho con el rendimiento de Castillo**. Según Erazo, el club está listo para renovarle el contrato.
+
+“Se queda para 2025. **El técnico del centenario será Segundo Alejandro Castillo**“, detalló en el programa De Una.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Sabrina Carpenter provocó la remoción de un sacerdote
+=====================================================
+
+El afectado es un sacerdote de Brooklyn.
+----------------------------------------
+
+![Sabrina Carpenter tiene 25 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-21T122600.609.jpg)
+
+Un sacerdote de **Brooklyn, Nueva York**, fue despedido tras permitir que la cantante **Sabrina Carpenter** filmara su video musical en la Iglesia de la Anunciación de la Santísima Virgen María.
+
+### **Más noticias:**
+
+* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html")
+* [El cuerpo de Liam Payne finalmente llegó a casa](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html?source=Internal&ref=Single+Content+Link")
+* [Ángela Aguilar ya es la Mujer del Año 2024](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html?source=Internal&ref=Single+Content+Link")
+
+**¿Quién es Sabrina Carpenter?**
+--------------------------------
+
+**Sabrina Carpenter** es una cantante, actriz y compositora estadounidense. La artista estadounidense logró destacarse en la industria del **entretenimiento** desde que era una niña.
+
+Nacida el 11 de mayo de 1999 en Allentown, Pensilvania, su carrera comenzó en la actuación, participando en series como ‘Girl Meets World’. En esa ocasión interpretó a Maya Hart.
+
+Sin embargo, su verdadero despegue ocurrió cuando la joven artista decidió incursionar en la música, lanzando su primer álbum ‘**Eyes Wide Open**‘ en 2015.
+
+A lo largo de los años, **Sabrina** ha consolidado una exitosa carrera musical con discos como ‘Singular Act I’ y ‘Emails I Can’t Send’.
+
+**Sabrina Carpenter provocó la remoción de un sacerdote**
+---------------------------------------------------------
+
+La controversia surgió después de que el video de tema Feather, lanzado el 31 de octubre, mostrara a **Carpenter** en un funeral comunitario, celebrando la **muerte** de cuatro hombres. Eso fue considerado inapropiado por la diócesis local, según [The New York Times.](https://www.nytimes.com/2023/11/25/nyregion/sabrina-carpenter-brooklyn-church-video.html "https://www.nytimes.com/2023/11/25/nyregion/sabrina-carpenter-brooklyn-church-video.html")
+
+El obispo **Robert Brennan** expresó su consternación por el contenido del video y responsabilizó al **sacerdote Mons. Jamie J. Gigantiello** por no revisar el guion antes de autorizar la filmación.
+
+En un comunicado, Gigantiello se disculpó públicamente, afirmando que no tenía conocimiento del tipo de escenas que se iban a grabar y que aprobó la filmación con la intención de fortalecer los vínculos entre jóvenes creativos y la comunidad parroquial.
+
+La diócesis organizó una misa especial para “reparar” lo que consideraron una violación a la santidad del lugar.
+
+Tras el escándalo, **Gigantiello** fue removido de sus deberes administrativos y se comprometió a donar los 5 000 dólares recibidos por el alquiler del espacio a una organización benéfica.
+
+Servicios de transporte modifican operación en Quito por movilizaciones
+=======================================================================
+
+Algunas paradas de la Ecovía, Trolebús y Metro de Quito se cerrarán por seguridad en las estaciones del Centro Histórico
+------------------------------------------------------------------------------------------------------------------------
+
+![La parada De las Universidades de la Ecovía reanudó el servicio a los usuarios.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-21T122227.111.jpg)
+
+**Organizaciones sociales** convocaron a movilizaciones en Quito para mostrar el desacuerdo a la gestión del Gobierno central para este jueves 21 de noviembre.
+
+### Más noticias
+
+* [Vías cerradas en Quito este jueves 21 de noviembre por movilizaciones](https://www.elcomercio.com/actualidad/quito/vias-cerradas-quito-jueves-21-de-noviembre-movilizaciones-centro-historico.html "Vías cerradas en Quito este jueves 21 de noviembre por movilizaciones")
+* [Marchas están convocadas en 12 provincias de Ecuador para este 21 de noviembre](https://www.elcomercio.com/actualidad/ecuador/marchas-12-provincias-ecuador-estan-convocadas-21-de-noviembre.html "Marchas están convocadas en 12 provincias de Ecuador para este 21 de noviembre")
+* [Eventos de fiestas de Quito del 21 de noviembre se aplazan por movilizaciones](https://www.elcomercio.com/actualidad/quito/eventos-de-fiestas-de-quito-del-21-de-noviembre-se-aplazan-por-movilizaciones.html "Eventos de fiestas de Quito del 21 de noviembre se aplazan por movilizaciones")
+
+Ecovía modifica operación y cierra paradas
+------------------------------------------
+
+La Empresa Metropolitana de **Transporte de Pasajeros de Quito** anunció los cambios en la operación del servicio del corredor Ecovía.
+
+Estos cambios se implementaron debido a lo**s cierres que se implementan e**n Quito por causa de las marchas que se desplazarán con dirección al centro.
+
+En sentido norte-sur, el corredor operará solamente entre las paradas **Río Coca y Manuela Cañizares,** ya que el acceso a la estación Playón de la Marín está cerrado.
+
+En cambio, en sentido sur-norte la operación **saldrá normalmente del terminal Quitumbe** y estación Guamaní pero llegará solamente hasta la estación Playón de La Marín. Es decir, que los articulados no llegarán a la estación Marín Central.
+
+Este jueves 21 de noviembre, **se suspenderá la operación de las siguientes paradas:**
+
+* Marín Central
+* Simón Bolívar
+* Eugenio Espejo
+* Casa de la Cultura
+* Galo Plaza
+
+> 🚎🚧[#MuéveteInformado](https://twitter.com/hashtag/Mu%C3%A9veteInformado?src=hash&ref_src=twsrc%5Etfw) | Conoce la operación de la [#Ecovía](https://twitter.com/hashtag/Ecov%C3%ADa?src=hash&ref_src=twsrc%5Etfw) durante las marchas:  
+>   
+> 📍Norte-Sur: Río Coca – Manuela Cañizares  
+> 📍Sur-Norte: Quitumbe y Guamaní – Playón de La Marín  
+>   
+> 📍Paradas suspendidas: Marín Central, Simón Bolívar, Eugenio Espejo, Casa de la Cultura y Galo Plaza [pic.twitter.com/ISSZbC9wfj](https://t.co/ISSZbC9wfj)
+> 
+> — Empresa de Pasajeros Quito (@TransporteQuito) [November 21, 2024](https://twitter.com/TransporteQuito/status/1859638323448344845?ref_src=twsrc%5Etfw)
+
+Cambios en la operación del Trolebús
+------------------------------------
+
+Durante la jornada de movilizaciones este jueves 21 de noviembre, el **corredor Trolebús** implementará algunos cambios.
+
+En sentido norte-sur, saldrá de **El Labrador** y llegará hasta la parada **Santa Clara,** luego regresará hacia el norte. En sentido sur-norte, irá desde **Quitumbe hasta El Recreo** y retornará hacia el sur.
+
+Todas las paradas del **Centro Histórico** estarán suspendidas.
+
+> 🚎🚧[#MuéveteInformado](https://twitter.com/hashtag/Mu%C3%A9veteInformado?src=hash&ref_src=twsrc%5Etfw) | Conoce la operación del [#Trolebús](https://twitter.com/hashtag/Troleb%C3%BAs?src=hash&ref_src=twsrc%5Etfw) durante las marchas de este jueves 21 de noviembre👇👇  
+>   
+> 📍Norte-Sur: El Labrador – Parada Santa Clara y retorna al norte.  
+> 📍Sur-Norte: Quitumbe – El Recreo  
+> 📍Se suspenderán todas las paradas del Centro Histórico. [pic.twitter.com/AT0WH0rhEo](https://t.co/AT0WH0rhEo)
+> 
+> — Empresa de Pasajeros Quito (@TransporteQuito) [November 21, 2024](https://twitter.com/TransporteQuito/status/1859627184362500411?ref_src=twsrc%5Etfw)
+
+Operación del Metro de Quito
+----------------------------
+
+La Empresa del **Metro de Quito** informó este jueves 21 de noviembre que debido a las disposiciones emitidas desde el Gobierno, se tomaron medidas de seguridad.
+
+Debido a las movilizaciones previstas, el **Metro de Quito cerrará el acceso de la calle Sucr**e de la estación San Francisco, en pleno centro.
+
+Para ingresar al Metro, estarán habilitados los ingresos del **bulevar 24 de Mayo** y de la calle [Benalcázar](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 📌Comunicado Operacional  
+>   
+> Debido al cierre vial dispuesto por el Gobierno Nacional ante posibles manifestaciones ciudadanas, se cierra el acceso de la calle Sucre de la estación San Francisco.  
+>   
+> ➡️Accesos habilitados: Bulevar 24 de Mayo y calle Benalcázar. [pic.twitter.com/eYpixQwHjb](https://t.co/eYpixQwHjb)
+> 
+> — Metro de Quito (@MetrodeQuito) [November 21, 2024](https://twitter.com/MetrodeQuito/status/1859633543694950516?ref_src=twsrc%5Etfw)
+
+Moisés Caicedo envía aliento tras vencer con la Selección de Ecuador
+====================================================================
+
+Moisés Caicedo envió un mensaje tras vencer a Colombia con la Selección de Ecuador durante el mismo día en el que nació su hija.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo, volante de la Selección de Ecuador, en su partido contra Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-21T114810.186.jpg)
+
+**Moisés Caicedo** volvió a lucirse con la **Selección de Ecuador** en la última doble jornada de eliminatorias y también vivió un momento especial con el nacimiento de su hija. Tras aquellos sucesos, este se refirió al más reciente triunfo conseguido y envió un mensaje de aliento.
+
+El jugador oriundo de **Santo Domingo** se refirió al compromiso que existe a nivel de la plantilla que conforma el combinado ecuatoriano. Además, también resaltó la valía de aquel choque y del trabajo realizado.
+
+### Más noticias:
+
+* [Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-capitanes-sebastian-beccacece.html "Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador")
+* [Moisés Caicedo fue padre en un día histórico para la Selección de Ecuador](https://www.elcomercio.com/deportes/moises-caicedo-hija-nacimiento-seleccion-ecuador.html "Moisés Caicedo fue padre en un día histórico para la Selección de Ecuador")
+* [DT de Colombia destacó a Hernán Galíndez en la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-hernan-galindez-nestor-lorenzo-colombia.html "DT de Colombia destacó a Hernán Galíndez en la Selección de Ecuador")
+
+“**Este grupo nunca dejará de luchar. Contento por este gran triunfo y por demostrar quiénes somos. Hoy no puedo pedirle más a Dios. Gracias por este día. Josué 1:9**” escribió el futbolista en sus redes y adjuntó postales del pasado compromiso ante Colombia[.](https://en.wikipedia.org/wiki/Mois%C3%A9s_Caicedo "https://en.wikipedia.org/wiki/Mois%C3%A9s_Caicedo")
+
+Frente a los cafeteros, **Moisés Caicedo** estuvo presente desde el silbatazo inicial y durante los 90 minutos de juego. A su vez, fue fundamental para asegurar los tres puntos una vez que Piero Hincapié fue expulsado a los 34′, pues debió fortalecer sus funciones como volante de contención y aportar más en defensa.
+
+En aquel partido, la Selección de Ecuador consiguió vencer gracias a un gol tempranero de **Enner Valencia**. El delantero dejó cinco marcas en el camino y definió. El único tiro realizado con dirección a puerta de parte de la Tri fue lo que marcó la diferencia.
+
+El nacimiento de la hija de Moisés Caicedo y el triunfo de la Tri
+-----------------------------------------------------------------
+
+Antes de referirse al compromiso de la **Selección de Ecuador**, Moisés Caicedo también anunció otra gran noticia para él y su familia. En horas previas, este hizo público el nacimiento de su hija Zoe.
+
+El futbolista tricolor señaló que su primogénita llegó al mundo durante el mismo día en el que la Tri consiguió su histórico triunfo ante **Colombia**. A su vez, este retrató y grabó sus primeros momentos junto a ella.
+
+La victoria frente a los cafeteros queda en la historia para la escuadra ecuatoriana y sus futbolistas debido a que se dio como visitante y fue la segunda del combinado como visitante en tierras colombianas. El único que se había registrado en una clasificación al **Mundial** había sido en 1965.
+
+Moisés Caicedo vuelve al Chelsea tras sus duelos con la Selección de Ecuador
+----------------------------------------------------------------------------
+
+Después de su partido con la Selección de Ecuador y el nacimiento de su hija, Moisés Caicedo deberá retornar a las prácticas con el Chelsea. Allí, el volante tendrá acción apenas se reanuden las competencias europeas.
+
+En su equipo, Caicedo también ha sido una de las figuras. Además, su escuadra disputa Premier League, Carabao Cup, FA Cup y UEFA Conference League.
+
+El futuro de la televisión está en la inteligencia artificial
+=============================================================
+
+La televisión del futuro combina inteligencia artificial, pantallas inalámbricas y ‘smart homes’.
+-------------------------------------------------------------------------------------------------
+
+![La televisión nació en el siglo XIX, lo que supuso una revolución en la comunicación. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Television-inteligencia-artificial.jpg)
+
+El **Día Mundial de la Televisión** se celebra cada 21 de noviembre. Esta fecha fue establecida por la **Asamblea General de las Naciones Unidas** en 1996.  
+
+### Más noticias
+
+* [WhatsApp trabaja en su “modo fiesta” para este Fin de Año](https://www.elcomercio.com/tecnologia/whatsapp-modo-fiesta-tutorial.html "https://www.elcomercio.com/tecnologia/whatsapp-modo-fiesta-tutorial.html") 
+* [Cómo borrar contenido de iCloud de la forma más sencilla](https://www.elcomercio.com/tecnologia/icloud-almacenamiento-memoria-tutorial.html "https://www.elcomercio.com/tecnologia/icloud-almacenamiento-memoria-tutorial.html") 
+
+La elección de este día coincide con el **primer Foro Mundial de la Televisión**, que tuvo lugar el 21 y 22 de noviembre de ese mismo año. Este evento reunió a líderes y figuras destacadas del ámbito mediático para discutir el **papel crucial de la televisión** en temas como la paz, la seguridad y el desarrollo social, según recoge la web [Telefónica](https://www.telefonica.com/es/sala-comunicacion/blog/dia-television-21-noviembre/ "https://www.telefonica.com/es/sala-comunicacion/blog/dia-television-21-noviembre/").  
+
+La **ONU** busca promover un **uso responsable de este medio**. Se pretende que la televisión sirva como un **canal para difundir información relevante** y educativa. En un mundo donde Internet ha cobrado protagonismo, la televisión sigue siendo un **medio fundamental para informar** y educar a las audiencias, a decir de [Día Internacional De](https://www.diainternacionalde.com/ficha/dia-mundial-television "https://www.diainternacionalde.com/ficha/dia-mundial-television").  
+
+**Historia de la televisión** 
+------------------------------
+
+Los **orígenes de la televisión** se remontan al final del siglo XIX. En 1884, **Paul Gottlieb Nipkow** inventó el **disco de Nipkow**, un dispositivo que permitió las primeras experiencias en transmisión visual, según Telefónica.  
+
+Sin embargo, las **primeras emisiones regulares** se llevaron a cabo en los años 30. La **BBC** fue pionera en emitir **programación regular** en alta definición desde el 2 de noviembre de 1936. En Estados Unidos, **NBC** inició sus **transmisiones en 1939** durante la Feria Mundial de Nueva York, siguiendo Telefónica.  
+
+**La llegada del ‘streaming’** 
+-------------------------------
+
+La televisión ha evolucionado significativamente desde sus inicios. Inicialmente, se utilizaba principalmente para **entretenimiento**. Con el tiempo, se ha convertido en una herramienta poderosa para **informar a las masas** sobre eventos importantes y cuestiones sociales. 
+
+En los últimos años, con la expansión de los **servicios de ‘streaming’**, la televisión se ha convertido en el **medio principal** para ver este tipo de contenido y **jugar videojuegos**. Además, el **diseño de los televisores** ha cambiado, al pasar de grandes muebles a **pantallas delgadas**.  
+
+**La televisión en cifras**
+---------------------------
+
+De acuerdo con [Mordor Intelligence](https://www.mordorintelligence.com/es/industry-reports/smart-tv-market "https://www.mordorintelligence.com/es/industry-reports/smart-tv-market"), el **mercado de los televisores inteligentes** se estima en 275,69 mil millones de dólares en 2024, con un crecimiento proyectado del 2,19% anual hasta alcanzar los 307,22 mil millones de dólares en 2029.
+
+Este crecimiento está impulsado por factores como la **mayor penetración de Internet**, avances tecnológicos, caída de precios y la **transformación digital** de la industria de la radiodifusión.
+
+Los fabricantes compiten por **innovaciones** en interfaces de usuario, agregación de contenido y **desarrollo de aplicaciones**, como sistemas operativos que permiten ejecutar aplicaciones y transmitir contenido. Además, la caída de precios de los televisores **4K UHD** y la adopción de tecnologías innovadoras como **QLED** han **impulsado la demanda**, especialmente en economías emergentes.
+
+**Asia-Pacífico** domina el mercado, siguiendo con la misma fuente, con un **crecimiento significativo** en países como **India, China y Japón**, gracias a la creciente **demanda de televisores inteligentes** y a la popularidad de **plataformas de ‘streaming’** como Netflix y Amazon Prime Video.
+
+Las empresas están centradas en **mejorar la calidad de imagen y sonido**, y en ofrecer productos adaptados a las necesidades locales, como los **televisores inteligentes** con integración de **dispositivos OTT**. Aunque algunos fabricantes, como Samsung, apuestan por **tecnologías como QLED**, se espera que la región siga siendo clave para el **crecimiento del mercado**, especialmente debido a la presencia de actores chinos que han facilitado la **competencia en precios** y la penetración en mercados emergentes.
+
+**Futuro de la televisión**  
+-----------------------------
+
+En el **CES 2024** (la mayor **feria de electrónica** de consumo del mundo), de acuerdo con [El País](https://elpais.com/tecnologia/2024-01-11/pantallas-transparentes-en-las-que-hacer-compras-asi-sera-la-television-del-futuro.html "https://elpais.com/tecnologia/2024-01-11/pantallas-transparentes-en-las-que-hacer-compras-asi-sera-la-television-del-futuro.html"), marcas como **Panasonic, Samsung y LG** presentaron **televisores innovadores** que van más allá del entretenimiento, convirtiéndose en el centro del hogar inteligente.  
+
+Estos aparatos, con **pantallas más grandes** y mejor calidad de imagen, integran **inteligencia artificial** para conectar electrodomésticos y ofrecer **nuevas funciones** como recomendaciones personalizadas y control de dispositivos.  
+
+Además, los **modelos inalámbricos y transparentes**, como el de LG, buscan sorprender al usuario, mientras que la inteligencia artificial mejora la experiencia de imagen y sonido, al acercar a la televisión al futuro de la tecnología doméstica. 
+
+Ecuador reconoce a Edmundo González como presidente electo de Venezuela
+=======================================================================
+
+El Gobierno de Ecuador señala que un verdadero ejercicio de la democracia exige el respeto incondicional de la voluntad de los votantes.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Edmundo González en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/edmundo-gonzalez-efe-1.jpg)
+
+El Gobierno de Ecuador reconoce a [Edmundo González](https://www.elcomercio.com/actualidad/mundo/estados-unidos-reconoce-a-edmundo-gonzalez-urrutia-como-presidente-electo-de-venezuela.html "https://www.elcomercio.com/actualidad/mundo/estados-unidos-reconoce-a-edmundo-gonzalez-urrutia-como-presidente-electo-de-venezuela.html") como presidente electo de la República Bolivariana de Venezuela, con base en los resultados de las elecciones del 28 de julio, que representa la voluntad soberana de los Venezolanos, según informa el **Ministerio de Relaciones Exteriores y Movilidad Humana.**
+
+### Más noticias
+
+* [Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela](https://www.elcomercio.com/actualidad/mundo/estados-unidos-reconoce-a-edmundo-gonzalez-urrutia-como-presidente-electo-de-venezuela.html "https://www.elcomercio.com/actualidad/mundo/estados-unidos-reconoce-a-edmundo-gonzalez-urrutia-como-presidente-electo-de-venezuela.html")
+* [A Nicolás Maduro tampoco le gustó la canción +57](https://www.elcomercio.com/tendencias/entretenimiento/nicolas-maduro-57-cancion-critica-karol-g-maluma.html "https://www.elcomercio.com/tendencias/entretenimiento/nicolas-maduro-57-cancion-critica-karol-g-maluma.html")
+* [Nicolás Maduro recibe apoyo de Vladímir Putin, pero Brasil frena su ingreso a BRICS](https://www.elcomercio.com/actualidad/mundo/nicolas-maduro-recibe-apoyo-vladimir-putin-brasil-frena-ingreso-brics.html "Nicolás Maduro recibe apoyo de Vladímir Putin, pero Brasil frena su ingreso a BRICS")
+
+Ecuador al igual que otros miembros de la comunidad internacional realizó un llamado a la **verificación imparcial y transparente de los resultados electorales**, lo cual no ha sucedido. La actuación de los órganos electorales de Venezuela ha debilitado los principios de Estado de Derecho y ha agrabado la persecución y la situación de derechos humanos en ese país, de acuerdo con el comunicado del Ministerio.
+
+El Gobierno de Ecuador señala que un verdadero ejercicio de la democracia exige el respeto incondicional de la **voluntad de los votantes**, y en este sentido respalda a Edmundo González como triunfador legítimo de elecciones presidenciales en Venezuela, según indica el comunicado.
+
+Triunfador de las elecciones
+----------------------------
+
+La **Cancillería** señaló que el 2 de agosto de 2024 reconoció a Edmundo González como **triunfador de las elecciones.** Ahora, se lo reconoce como presidente electo. Y el nuevo comunicado resalta que no se ha dado la verificación imparcial y tras aparente de resultados.
+
+Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela
+--------------------------------------------------------------------------------------
+
+Estados Unidos reconoció el martes, 19 de noviembre de 2024, por primera vez en público al abanderado de la oposición mayoritaria, Edmundo González Urrutia, como **presidente electo de Venezuela** tras las elecciones del pasado 28 de julio, señaló la agencia Efe.
+
+“El pueblo venezolano se pronunció contundentemente el 28 de julio y nombró a Edmundo González como presidente electo. La **democracia exige respeto a la voluntad de los votantes“,** dijo el secretario de Estado, Antony Blinken, en redes sociales.
+
+La Administración de Joe Biden reconoció el pasado 1 de agosto a González Urrutia como el ganador de los comicios, pero evitó hasta ahora declararlo “presidente electo” de Venezuela, indica Efe.
+
+  
+
+Robo de taquilla alerta el partido Liga de Portoviejo vs. Deportivo Quito
+=========================================================================
+
+Liga (P) recibirá a Deportivo Quito el 24 de noviembre del 2024, pero en la capital manabita se denunció el robo de una parte de la taquilla.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Se investiga el robo de parte de la taquilla del partido entre Liga de Portoviejo y Deportivo Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-28.jpg)
+
+El tan esperado partido entre **Liga de Portoviejo** y **Deportivo Quito**, correspondiente a los cuartos de final del Torneo de Ascenso Nacional, se vio empañado por un lamentable suceso ocurrido en la noche del 20 de noviembre de 2024.
+
+Según confirmaron fuentes locales, una parte del dinero de la **taquilla** recaudada por la venta de entradas fue robada en un asalto en Manabí. Las autoridades ya están investigando.
+
+### Más noticias:
+
+* [Deportivo Quito cayó con Liga de Portoviejo y prende velas](https://www.elcomercio.com/deportes/futbol/depotivo-quito-liga-portoviejo-marcador.html "Deportivo Quito cayó con Liga de Portoviejo y prende velas")
+* [Liga de Portoviejo confirmó horario para recibir al Deportivo Quito](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-deportivo-quito-nacional.html "Liga de Portoviejo confirmó horario para recibir al Deportivo Quito")
+* [Deportivo Quito va por la revancha en Portoviejo con la consigna ‘prohibido rendirse’](https://www.elcomercio.com/deportes/futbol/deportivo-quito-revancha-liga-portoviejo-prohibido-rendirse.html "Deportivo Quito va por la revancha en Portoviejo con la consigna ‘prohibido rendirse’")
+
+“En los mejores momentos se ven tristezas, se conoció extraoficialmente que la taquilla del partido de LDU de Portoviejo vs. Deportivo Quito fue robada, las autoridades se encuentran investigando el hecho, esperemos por el bien de Liga se esclarezca este lamentable suceso”, publicó en X **Pedro Aníbal Fernández** de Radio Escándalo.
+
+Por su parte, **El** **Diario** publicó: “De acuerdo con información preliminar, sujetos entraron a eso de las 23:30 a la fuerza al domicilio y se robaron la taquilla recaudada. El dinero correspondería a lo recaudado de la venta de entradas del día martes 19 de noviembre. El monto sustraído ascendería a unos **32 mil 500 dólares**, además de otros objetos de valor”.
+
+El robo fue reportado al ECU 911 y las autoridades locales, incluida la Policía Judicial, empezaron a investigar el hecho.
+
+En redes sociales se afirma que el robo se produjo en el **domicilio** de un alto dirigente de Liga de Portoviejo.
+
+Liga de Portoviejo vs. Deportivo Quito
+--------------------------------------
+
+En cuanto al partido, se mantiene el horario previsto para el domingo 24 de noviembre a las 15:00 en el estadio **Reales Tamarindos de Portoviejo**, donde se espera un estadio lleno.
+
+Las entradas para este crucial encuentro siguen a la venta, y se reportan largas filas en las boleterías del estadio.
+
+El ganador de llave del **Ascenso Nacional** se clasificará para las semifinales.
+
+En la ida, disputada en Quito ante unas 15 mil personas, la **Liga de Portoviejo** se impuso de visita por 0-1 ante la **‘Academia’**.
+
+No obstante, los chullas se han mentalizado y van por la épica. Los jugadores del DT [Carlos Castro](https://es.wikipedia.org/wiki/Carlos_Ernesto_Castro) viajarán a Portoviejo con la consigna de ‘prohibido rendirse’ y prometen dejarlo todo en la cancha para buscar la clasificación a **semifinales.**
+
+Los hinchas del Quito también se organizan para viajar a Portoviejo y respalda a su club.
+
+Solo los dos finalistas del torneo accederán a la Serie B del fútbol ecuatoriano.
+
+(Video) Moisés Caicedo silenció a una leyenda de Colombia
+=========================================================
+
+Moisés Caicedo está acostumbrado a responder a sus detractores con su rendimiento en el campo de juego.
+-------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo dio otra exhibición con la Selección de Ecuador, esta vez contra Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-21T110628.936.jpg)
+
+En la previa del partido entre Ecuador y Colombia, **Faustino Asprilla**, una leyenda de la selección colombiana, criticó a **Moisés Caicedo**, uno de los líderes de la ‘Tri’ y actualmente uno de los mejores jugadores de la Premier League.
+
+El exdelantero colombiano, que brilló en los años noventa, señaló que, a su juicio, **Caicedo no es un jugador extraordinario**, sino uno más del montón, a pesar de los constantes elogios que recibe de exjugadores, jugadores actuales y la prensa internacional.
+
+### Más noticias:
+
+* [Chelsea y otros clubes felicitan a Moisés Caicedo por ser padre](https://www.elcomercio.com/deportes/futbol/chelsea-y-otros-clubes-felicitan-a-moises-caicedo-por-ser-padre.html "Chelsea y otros clubes felicitan a Moisés Caicedo por ser padre")
+* [Video recopiló partidazo de Moisés Caicedo vs. Colombia](https://www.elcomercio.com/deportes/futbol/moises-caicedo-video-ecuador-colombia.html "Video recopiló partidazo de Moisés Caicedo vs. Colombia")
+* [Chelsea presume el impacto de Moisés Caicedo en la Premier League](https://www.elcomercio.com/deportes/futbol/chelsea-presume-el-impacto-moises-caicedo-en-la-premier-league.html "Chelsea presume el impacto de Moisés Caicedo en la Premier League")
+
+Moisés Caicedo silenció a una leyenda de Colombia
+-------------------------------------------------
+
+Durante un análisis previo al enfrentamiento entre Colombia y Ecuador en Barranquilla, los panelistas de un programa de ESPN comentaron que Moisés Caicedo regresaría al equipo tras cumplir una suspensión por acumulación de tarjetas.
+
+Sin embargo, Asprilla opinó que su regreso “no era una gran noticia” y afirmó que “**no es un jugador que valga 130 millones, es un jugador normalito**“, comentario que no pasó desapercibido.
+
+Para desgracia de la leyenda colombiana, Colombia perdió 0-1 en casa ante Ecuador, con una destacada actuación de **Moisés Caicedo**, quien comandó el mediocampo y volvió a demostrar que es un jugador de talla mundial. Este desempeño seguramente hizo que Asprilla reconsiderara sus palabras sobre el ecuatoriano.
+
+> Qué pena por ese comentario tan desatinado del Tino Asprilla sobre Moisés Caicedo, pero le recuerdo que el Moi es 10 veces más que el mejor 5 que tuvieron los colombianos que fue Leonel Álvarez.  
+>   
+> Ecuador tiene un ecualizador en el mediocampo. [pic.twitter.com/rjWC0J4r5F](https://t.co/rjWC0J4r5F)
+> 
+> — Dante 🇪🇨⚽️🏆 (@justDant\_) [November 21, 2024](https://twitter.com/justDant_/status/1859599748094656653?ref_src=twsrc%5Etfw)
 
 El partidazo de Caicedo contra Colombia
 ---------------------------------------
 
-Son 51 partidos los que Moisés Caicedo lleva jugados con la Selección de Ecuador. Anotó tres goles, uno de ellos en Catar 2022 en el transitorio empate 1-1 ante Senegal en la fase de grupos.
+Moisés Caicedo suma 51 partidos con la **Selección de Ecuador,** habiendo anotado tres goles. Uno de los goles del volante fue en el empate 1-1 contra Senegal en la Copa del Mundo Catar 2022.
 
-Ante Colombia se paró en la mitad de la cancha con **Alan Minda, Pedro Vite, Gonzalo Plata y Franco**.
+En el partido ante Colombia, **Caicedo ocupó el centro del campo** junto a Alan Minda, Pedro Vite, Gonzalo Plata y Franco. Su presencia se hizo aún más relevante a partir del minuto 34, cuando Piero Hincapié fue expulsado. Esto obligó a la ‘Tri’ a cambiar su estrategia, renunciando al ataque y concentrando todo el juego en el mediocampo y la defensa.
 
-Su presencia se agigantó aún más desde el minuto 34 por la expulsión de Piero Hincapié. Esto provocó que **la Tri cambie su estrategia de juego y renuncie por completo al ataque** y todo el peso del juego recayó en el mediocampo y en el bloque defensivo.
+Caicedo, con su habitual calma e **inteligencia para manejar el balón,** se convirtió en el eje fundamental sobre el que giró el desempeño del equipo, siendo siempre una opción de pase para sus compañeros.
 
-Caicedo, con su habitual tranquilidad e inteligencia para manejar el balón a un solo toque, fue el eje sobre el que giró el desempeño del combinado nacional, siempre mostrándose como una opción de pase.
-
-La vehemencia con la que juega el ‘Niño’ Moi lo tiene como uno de los candidatos a ser amonestado.
-
-Con **Colombia vio la tarjeta amarilla a los 85 minutos**. Hay que recordar que contra Bolivia no fue tomado en cuenta por acarrear una suspensión por acumular dos amarillas de los compromisos ante Perú y Paraguay.
-
-El sitio CFC Ecuadorians es una **cuenta dedicada a Caicedo y Kendry Páez** y se encargó de hacer una recopilación del partidazo del mediocampista oriundo de Santo Domingo de los Tsáchilas.
-
-Simplemente**, pase y disfrute de este complicado** que demuestra que el fútbol ecuatoriano tiene un crack de clase mundial.
+Aunque su estilo de juego es sereno, la intensidad con la que juega lo ha convertido en uno de los candidatos a ser amonestado. En este partido, Caicedo vio la tarjeta amarilla al minuto 85.
 
 > 🇪🇨💙 Moisés Caicedo's monster performance vs. Colombia. Was all over the pitch! [#ChelseaFC](https://twitter.com/hashtag/ChelseaFC?src=hash&ref_src=twsrc%5Etfw) [#CFC](https://twitter.com/hashtag/CFC?src=hash&ref_src=twsrc%5Etfw) [#Chelsea](https://twitter.com/hashtag/Chelsea?src=hash&ref_src=twsrc%5Etfw) [#LaTri](https://twitter.com/hashtag/LaTri?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/FnDdDXbnPB](https://t.co/FnDdDXbnPB)
 > 
 > — CFC Ecuadorians (@CFCEcuador25) [November 20, 2024](https://twitter.com/CFCEcuador25/status/1859058184091992317?ref_src=twsrc%5Etfw)
 
-San viernes
------------
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
 
-Daniel Noboa emitió veto parcial al proyecto de Ley de Cuidados Paliativos
-==========================================================================
+Kiev denuncia un ataque ruso con misil intercontinental
+=======================================================
 
-El veto parcial de Daniel Noboa al proyecto de Ley de Cuidados Paliativos abarca aspectos de inconstitucionalidad y de inconveniencia.
---------------------------------------------------------------------------------------------------------------------------------------
+La Fuerza Aérea ucraniana informó sobre el lanzamiento por parte de Rusia de un misil balístico intercontinental contra una infraestructura de la ciudad de Dnipró del centro de Ucrania, en una nueva jornada de la presente escalada entre ambos bandos, en la que el Kremlin confirmó un nuevo ataque ucraniano contra su territorio con misiles \[…\]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![El veto parcial de Daniel Noboa al proyecto de Ley de Cuidados Paliativos tiene dos ejes.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-veto-ley-cuidados-paliativos.jpg)
+![Un participante deposita flores en el monumento a los 'Héroes de la Centena Celestial', en memoria de los activistas asesinados durante las protestas de Euromaidán en 2014, cerca de la Plaza de la Independencia en Kiev.](https://www.elcomercio.com/wp-content/uploads/2024/11/ucrania-efe.jpg)
 
-El presidente **Daniel Noboa** emitió un veto parcial al proyecto de L**ey Orgánica de Cuidados Paliativos**, el 18 de noviembre de 2024.
+La **Fuerza Aérea ucraniana** informó sobre el lanzamiento por parte de [Rusia](https://www.elcomercio.com/actualidad/mundo/ucrania-afirma-rusia-posibilidad-prigozhin.html "https://www.elcomercio.com/actualidad/mundo/ucrania-afirma-rusia-posibilidad-prigozhin.html") de un **misil balístico** intercontinental contra una **infraestructura de la ciudad** de Dnipró del centro de Ucrania, en una nueva jornada de la presente escalada entre ambos bandos, en la que el Kremlin confirmó un **nuevo ataque** ucraniano contra su territorio con misiles de largo alcance occidentales.
 
-La objeción parcial de Noboa tiene dos ejes: **inconveniencia e inconstitucionalidad**.
+Más noticias
+------------
 
-### Más noticias:
+* [Donald Trump promete acabar con la guerra de Ucrania en 24 horas](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-acabar-guerra-ucrania-24-horas.html "Donald Trump promete acabar con la guerra de Ucrania en 24 horas")
+* [10 momentos clave de los 1000 días de guerra de Rusia en Ucrania](https://www.elcomercio.com/actualidad/mundo/10-momentos-clave-1000-dias-guerra-rusia-ucrania.html "10 momentos clave de los 1000 días de guerra de Rusia en Ucrania")
+* [Maduro se reúne con líderes de Turquía, Bielorrusia y Palestina la cumbre BRICS](https://www.elcomercio.com/actualidad/mundo/maduro-reune-lideres-turquia-bielorrusia-palestina-cumbre-brics.html "Maduro se reúne con líderes de Turquía, Bielorrusia y Palestina la cumbre BRICS")
 
-* [Asamblea aprobó proyecto de Ley de Cuidados Paliativos ¿A quiénes beneficia?](https://www.elcomercio.com/actualidad/ecuador/asamblea-aprobo-proyecto-de-ley-de-cuidados-paliativos-a-quienes-beneficia.html "Asamblea aprobó proyecto de Ley de Cuidados Paliativos ¿A quiénes beneficia?")
-* [Esta es la realidad de los cuidados paliativos en Ecuador y los beneficios que se buscan con la aprobación de una ley](https://www.elcomercio.com/actualidad/ecuador/cuidados-paliativos-ecuador-ley-beneficios-realidad.html "Esta es la realidad de los cuidados paliativos en Ecuador y los beneficios que se buscan con la aprobación de una ley")
+“Ucrania es el primer país del mundo contra el que se emplea un **misil balístico intercontinental**”, ha escrito el Centro de Comunicaciones de las Fuerzas Armadas ucranianas en Telegram y X.
 
-Veto parcial de Daniel Noboa al proyecto de Ley de Cuidados Paliativos
-----------------------------------------------------------------------
+Los misiles intercontinentales pueden portar varias cargas nucleares. En respuesta al lanzamiento por parte de Kiev de **misiles de largo alcance occidentales ATACAMS** y Storm Shadow, Rusia cambió hace unos días su doctrina militar, que ahora contempla el uso de **armas nucleares** en caso de ataques convencionales que amenacen la **soberanía de Rusia y Bielorrusia.**
 
-El veto parcial del Ejecutivo dispone **siete objeciones por inconstitucionalidad y 14 por inconveniencia**.
+Horas después de que apareciera la **información de la Fuerza Aérea,** el presidente Volodímir Zelenski se pronunciaba sobre el ataque y explicaba que expertos ucranianos trabajan para confirmar al cien por cien que las fuerzas rusas emplearon ese tipo de misil en el ataque.
 
-### Veto parcial por inconstitucionalidad
+“Todas las características, la velocidad, la altura, son las de un **misil balístico internacional.** Hay una evaluación en marcha”, dijo Zelenski, que **reprochó a Rusia estar “utilizando Ucrania** como campo de pruebas” para su armamento.
 
-En las de inconstitucionalidad, el presidente Daniel Noboa señala la creación de un S**istema Nacional de Cuidados Paliativos adicional** o paralelo al Sistema Nacional de Salud.
+Reacción internacional
+----------------------
 
-Esto vulneraría el derecho a la **seguridad jurídica** consagrado en el artículo 82 de la Constitución.
+Fuentes oficiales de Washington aseguraron al **medio estadounidense ABC News** que el misil en cuestión disparado por Rusia contra Dnipró -que según numerosas fuentes no oficiales ucranianas y rusas habría ido dirigido contra la planta de **producción de misiles y equipamiento aeroespacial** que hay en la ciudad- no sería un misil intercontinental sino simplemente un misil balístico.
 
-“Proponer la creación del “Sistema Nacional de Cuidados Paliativos” **segmenta y fracciona** al Sistema Nacional de Salud, ocasionando su debilitamiento”, asegura.
+A aclarar la situación no contribuyó la **inusual situación protagonizada por la portavoz de Exteriores rusa, María Zajárova.** Durante una rueda de prensa, Zajárova recibió una llamada en la que la voz al otro lado del teléfono le pedía que **no dijera nada sobre el ataque del “misil balístico”** y mencionaba como objetivo del ataque la infraestructura militar de Dnipró.
 
-Además, la **“coexistencia de sistemas**” requeriría de distintas modalidades de financiamiento,  
-funcionamiento, afiliación y provisión, cuestiones que no han sido consideradas en el proyecto de Ley.
+Según se aprecia en un vídeo publicado en redes sociales, la voz del interlocutor de Zajárova se escuchó a través del micrófono del atril, que se encuentra a poca **distancia del teléfono móvil** de la portavoz rusa.
 
-El Ejecutivo agrega que el texto de la Asamblea tampoco señala **el alcance de los servicios** que se proporcionarán a los familiares de los pacientes de cuidados paliativos.
+Mientras, el ministro de Defensa británico, John Healey, ha dicho que su Gobierno tenía constancia de que Rusia llevaba tiempo preparando el lanzamiento de “un nuevo misil balístico” contra Ucrania.
 
-“Dejando de lado, además, la regulación respecto hasta qué **grado de consanguinidad o afinidad** se brindará atención a los familiares”.
+En una declaración oficial, el Ministerio de Exteriores francés ha señalado que, “si se confirma”, “se trataría de un evento extremadamente grave”.
 
-Noboa señala que crear un nuevo sistema, implica incremento en el **gasto público**, facultad que solo la tiene el Presidente de la República en iniciativas legales.
+La Comisión Europea se refirió a “las informaciones” sobre el uso de un **misil intercontinental** contra Ucrania y ha señalado que supondría “otra escalada clara” por parte del Kremlin.
 
-“Sin considerar la **atribución privativa** del señor Presidente de la República para asignar recursos en función de la planificación nacional”.
+Sin respuesta oficial rusa
+--------------------------
 
-Sobre estas objeciones por inconstitucionalidad, el Presidente solicitó a la **Corte Constitucional** que dictamine la inconstitucionalidad.
+En su rueda de prensa diaria, el portavoz del Kremlin declinó pronunciarse sobre el supuesto lanzamiento de un misil intercontinental contra Ucrania y remitió al **Ministerio de Defensa para preguntas sobre la cuestión.**
 
-### Veto parcial de Daniel Noboa por inconveniencia al proyecto de Ley de Cuidados Paliativos
+“Hemos subrayado en el contexto de nuestra doctrina nuclear que Rusia mantiene una postura responsable en el sentido de hacer el máximo **esfuerzo para impedir un conflicto de esa clase**“, dijo Peskov sobre la situación.
 
-Entre las 14 objeciones por inconveniencia, el presidente Daniel Noboa sugiere agregar que, para las personas que se encuentren en **situación de abandono o sin referente familiar**, y cuando no se encuentren en capacidad de decidir su tratamiento, la Autoridad Sanitaria Nacional establecerá el mejor tratamiento posible.
+Al mismo tiempo, el **Ministerio de Defensa ruso** informó del **derribo de dos misiles Storm Shadow** británicos después de que medios del Reino Unido informaran ayer del lanzamiento por parte del Ejército ucraniano contra el óblast ruso de Kursk de los primeros misiles de este tipo.
 
-Propone incluir en el articulado los principios de **bioética e interculturalidad**.
+La guerra entró en una nueva fase esta semana al emplear Kiev por primera vez contra territorio ruso misiles de largo alcance ATACMS suministrados por EEUU, que permitió finalmente a Ucrania hacer este uso de este armamento después de resistirse durante meses por miedo a las posibles **represalias de Moscú.** 
 
-Señala que la calificación de cuidados paliativos como un derecho humano en el proyecto de Ley, implica una situación **“supra constitucional”**.
+Eventos de fiestas de Quito del 21 de noviembre se aplazan por movilizaciones
+=============================================================================
 
-Sugiere eliminar el artículo que dispone a las prefecturas y municipios la **coordinación de acciones** y la realización de estudios y seguimientos.
+Las vías de acceso al Centro Histórico están cerradas al tránsito vehicular. Así también, las del interior del casco colonial.
+------------------------------------------------------------------------------------------------------------------------------
 
-Así como la incorporación de **recursos** para cubrir lo dispuesto en el proyecto de Ley en sus planificaciones anuales.
+![Las calles del Centro Histórico están cerradas este miércoles 21 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-21T105151.822.jpg)
 
-Esto, porque se estaría **sobrepasando las competencias** constitucionales y legales que poseen estos niveles de gobierno, así como el respeto a su autonomía.
-
-Líder republicano veta a legisladora trans de usar baño de mujeres en Congreso de Estados Unidos
-================================================================================================
-
-La legisladora trans del Congreso de Estados Unidos respondió al veto.
-----------------------------------------------------------------------
-
-![La legisladora trans está en el Congreso de Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/11/legisladora-trans-estados-unidos.jpg)
-
-El presidente de la Cámara de Representantes de Estados Unidos y líder republicano, **Mike Johnson**, vetó a la primera legisladora trans elegida al Congreso, Sarah McBride, de usar los baños de mujeres.
-
-Johnson subrayó que “las mujeres merecen espacios solo para **mujeres**”, este miércoles 20 de noviembre de 2024.
-
-### Más noticias:
-
-* [Estados Unidos veta resolución de la ONU que pide alto el fuego en Gaza](https://www.elcomercio.com/actualidad/mundo/estados-unidos-veta-resolucion-onu-pide-alto-fuego-gaza.html "Estados Unidos veta resolución de la ONU que pide alto el fuego en Gaza")
-* [Kristi Noem será la secretaria de Seguridad Nacional de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/kristi-noem-sera-secretaria-seguridad-nacional.html "Kristi Noem será la secretaria de Seguridad Nacional de Estados Unidos")
-
-Veto a legisladora trans en el Congreso de Estados Unidos
----------------------------------------------------------
-
-En el **comunicado** del líder republicano se indicó que el uso de los baños del Capitolio está reservado para los individuos, conforme “a su sexo biológico”.
-
-“Las mujeres merecen tener espacios solo para mujeres”, apuntó Johnson, del ala más a la derecha del **Partido Republicano**.
-
-Esa formación ha usado el acceso a los baños para atacar a **McBride**, la primera persona transgénero en ser elegida para la Cámara de Representantes de Estados Unidos, que asumirá el cargo el 3 de enero.
-
-En su cuenta de X, la legisladora dijo que se acatará a las normas, aunque “**esté en desacuerdo**”.
-
-“No estoy aquí para pelear sobre baños, sino por las personas de **Delaware** (el estado que representa)”, indicó.
-
-La decisión de Johnson llega después de que **Nancy Mace**, representante republicana de Carolina del Sur, presentara una resolución para modificar las reglas de la Cámara de Representantes y prohibir que McBride use los baños de mujeres del Capitolio.
-
-“Es un **hombre biológico**” y “no pertenece a los espacios de mujeres, baños de mujeres y vestuarios”, dijo a la prensa el lunes.
-
-### La justificación para veto a legisladora trans de Estados Unidos
-
-Esta petición tuvo el apoyo de figuras como la representante por **Georgia Marjorie Taylor Greene**.
-
-“Es un hombre biológico y no debería usar ninguno de nuestros baños en el **Capitolio**, y menos en nuestros edificios de oficinas. Pero la resolución de Nancy Mace no es suficiente”, dijo.
-
-McBride derrotó en las elecciones del pasado 5 de noviembre al **candidato republicano** John Whalen III.
-
-La política resultó elegida para el Senado de Delaware en 2021 y se convirtió en la primera persona transgénero en ocupar un puesto de **senadora estatal** en EE.UU.
-
-### Biden rechazó la discriminación
-
-El presidente de Estados Unidos, **Joe Biden**, reivindicó que las personas trans merecen trato “con dignidad y respeto”.
-
-Biden lamentó los **“horribles ataques”** que sufre el colectivo.
-
-> “No debería haber lugar para el odio en Estados Unidos y, sin embargo, demasiados estadounidenses **transgénero**, incluidos jóvenes, son cruelmente perseguidos y sufren **acoso** simplemente por ser ellos mismos”, declaró Biden, en un comunicado con motivo del Día Internacional de la Memoria de las Personas Transgénero.
-
-El presidente aseguró que bajo su mandato, que concluirá el próximo **20 de enero**, cuando lo relevará Donald Trump, se han tomado medidas para “combatir la violencia contra los estadounidenses transgénero”.
-
-“Todos los estadounidenses merecen ser tratados con **dignidad y respeto**, y vivir libres de discriminación”, subrayó.
-
-Femicida recibió sentencia por cometer cruel asesinato en Imbabura
-==================================================================
-
-Un tribunal sentenció a Roberto F. con una pena agravada tras comprobarse su autoría en el femicidio de Kerly G., de 17 años.
------------------------------------------------------------------------------------------------------------------------------
-
-![El autor del femicidio de Kerly utilizó un machete para cometer el delito](https://www.elcomercio.com/wp-content/uploads/2024/11/prision-femicidio-imbabura.jpg)
-
-El Tribunal de Garantías Penales de Imbabura **sentenció** a un hombre a **prisión** tras comprobar su culpabilidad como **autor del femicidio** de su pareja. El crimen conmocionó a los habitantes de esa provincia por la **forma** que se cometió.
+El **Municipio de Quito** informó que los eventos previstos para este jueves 21 de noviembre de 2024 por las **fiestas de Quito** se aplazaron por las movilizaciones.
 
 ### Más noticias
 
-* [Policía recuperó cinco osamentas humanas en Guayaquil](https://www.elcomercio.com/actualidad/guayaquil/policia-osamentas-humanas-guayaquil.html "Policía recuperó cinco osamentas humanas en Guayaquil")
-* [Caso Pamela Ati: Fiscalía tomó una decisión final](https://www.elcomercio.com/actualidad/seguridad/caso-pamela-ati-fiscalia-decision-final.html "Caso Pamela Ati: Fiscalía tomó una decisión final")
-* [‘Martillador’ de Urdesa recibió sentencia luego de 13 años de cometido el crimen](https://www.elcomercio.com/actualidad/guayaquil/martillador-urdesa-sentencia-crimen.html "‘Martillador’ de Urdesa recibió sentencia luego de 13 años de cometido el crimen")
+* [Vías cerradas en Quito este jueves 21 de noviembre por movilizaciones](https://www.elcomercio.com/actualidad/quito/vias-cerradas-quito-jueves-21-de-noviembre-movilizaciones-centro-historico.html "Vías cerradas en Quito este jueves 21 de noviembre por movilizaciones")
+* [Marchas están convocadas en 12 provincias de Ecuador para este 21 de noviembre](https://www.elcomercio.com/actualidad/ecuador/marchas-12-provincias-ecuador-estan-convocadas-21-de-noviembre.html "Marchas están convocadas en 12 provincias de Ecuador para este 21 de noviembre")
+* [Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-viernes-22-a-domingo-24-de-noviembre.html "Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre")
 
-Según detalló la Fiscalía, **Kerly G.** asistió a un repaso de un rito religioso en la iglesia de su barrio Mariano Acosta con un grupo de amigos**.** El hecho ocurrió la noche del 27 de marzo de 2024.
+Organizaciones sociales convocaron a **movilizaciones** para la tarde de este 21 de noviembre de 2024. El Centro Histórico de Quito está cercado.
 
-A las **22:00**, la menor de edad salió de este lugar para trasladarse a su domicilio, ubicado en el cantón **Pimampiro**. Un amigo se ofreció acompañarla.
+Eventos aplazados por las movilizaciones
+----------------------------------------
 
-En el trayecto, los jóvenes fueron sorprendidos por **Roberto Carlos F.**, pareja sentimental de Kerly, y otro individuo. El hombre increpó a la adolescente y a su amigo por caminar juntos y **los agredió con un machete**[.](https://www.fiscalia.gob.ec/ "https://www.fiscalia.gob.ec/")
+Para este 21 de noviembre estaba previsto que se realizara **el pregón de fiestas de Quito** y la entrega de escrituras para los barrios.
 
-El acompañante **logró huir** para pedir ayuda; mientras que la menor fue subida a la fuerza a la motocicleta en la que se movilizaban ambos hombres.
+Estos eventos **se efectuarán el viernes 22 de noviembre** en la Plaza de San Francisco a las 14:30.  
+Movilizaciones de este 21 de noviembre
 
-Autopsia reveló detalles del asesinato
---------------------------------------
+Las marchas en Ecuador se retoman este jueves, 21 de noviembre de 2024. Organizaciones sociales convocaron a las **jornadas para la tarde**.
 
-La Policía encontró el **cuerpo sin vida** de Kerly al día siguiente. Estaba **enterrado** en un páramo cercano del sector.
+Al menos hasta esta mañana, las **movilizaciones** estaban previstas en 12 provincias del país. Estas empezarán entre las 15:30 y las 17:00
 
-La **autopsia médico-legal** determinó que la causa de su muerte fue una hemorragia cerebral, fractura de cráneo y trauma craneoencefálico. Fueron provocados por **cinco heridas punzocortantes** provocadas con el machete.
+Nelson Erazo, dirigente del **Frente Popular**, informó que las marchas están previstas en Azuay, Cotopaxi, Loja, Pichincha, Manabí, Los Ríos, Napo, Guayas, Imbabura, El Oro, Santa Elena y Santo Domingo.
 
-La víctima también presentaba **otra herida en su mano izquierda**, producto de su intento por defenderse de los ataques.
+El directivo detalló que, en el caso de Pichincha, la **marcha saldrá de la Caja del Instituto** Ecuatoriano de Seguridad Social (IESS), en la av. 10 de Agosto y avanzará hacia el Centro Histórico.
 
-Además, se reveló que tenía una **fractura en el hueso hioides**, que se encuentra debajo de la mandíbula, en lo que pudo ser un intento de **estrangulación**.
+Cierres viales por las movilizaciones
+-------------------------------------
 
-Los dedos de los **pies de Kerly** presentaban heridas por fricción, lo que demuestra que **fue arrastrada** contra el suelo mientras era llevada en la moto, según las investigaciones.
+Ante la convocatoria a las movilizaciones, la Policía Nacional y la **Agencia Metropolitana de Tránsito (**AMT) implementaron un operativo de tránsito. Este contempla el **cierre de varias calles** dentro del Centro Histórico; sin embargo, las vías de acceso al centro se cerrarán según se requiera.
 
-Detención del femicida
-----------------------
+El Parque del Arbolito y la **Caja del Seguro** estarán resguardados por si se da acumulación de personas.
 
-El **menor de edad** que actuó como **cómplice** del agresor contó en su testimonio que, tras interceptar a Kerly, ambos la llevaron al sitio donde fue enterrada; en este lugar, “**Roberto la asesinó**“.
+La AMT informó que los alrededores del **Centro Histórico** ya se encuentran cerrados desde la mañana de este jueves 21 de noviembre.
 
-Luego, regresaron hasta la casa del femicida para **bañarse y cambiarse**. La Policía acudió a la vivienda tras recibir la alerta del acompañante herido.
+**Calles cerradas** en el [Centro Histórico de Quito](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
 
-En el lugar, los hombres **fueron capturados** y se hallaron varios indicios, entre ellas, las botas de caucho del agresor, **prendas con la sangre** de la víctima y el estuche del machete.
+* Calle Guayaquil y Rocafuerte
+* Calle Benalcázar y Mejía
+* Calle Benalcázar y Sucre
+* Pasaje Espejo y calle Guayaquil
+* Calle Venezuela y Sucre
+* Calle García Moreno y Sucre
+* Calle Guayaquil y Sucre
+* Calle Guayaquil y Chile
+* Calle Guayaquil y Espejo
 
-Otras evidencias del caso fueron los **testimonios** de los amigos de Kerly, su acompañante herido y de los policías que trabajaron el caso.
+Cortes de agua en Quito este jueves 21 de noviembre
+===================================================
 
-Así también, los informes de la pericia de la trabajadora social que concluyó que la menor de **17 años** vivía en un círculo de violencia.
+La Epmaps recomendó a moradores que se abastezcan del líquido necesario para cubrir sus necesidades de higiene, alimentación y salud.
+-------------------------------------------------------------------------------------------------------------------------------------
 
-Femicida recibió 34 años de prisión
+![La Epmaps informó el horario de racionamientos de agua en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-21T111215.861.jpg)
+
+La suspensión del **servicio de energía eléctrica** que realiza el Gobierno afecta el suministro de agua potable en Quito, por lo que se dispuso cortes de agua algunos barrios.
+
+### Más noticias
+
+* [Vías cerradas en Quito este jueves 21 de noviembre por movilizaciones](https://www.elcomercio.com/actualidad/quito/vias-cerradas-quito-jueves-21-de-noviembre-movilizaciones-centro-historico.html "Vías cerradas en Quito este jueves 21 de noviembre por movilizaciones")
+* [Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-viernes-22-a-domingo-24-de-noviembre.html "Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre")
+* [Chofer de bus amenazó con un machete a otro conductor en Quito](https://www.elcomercio.com/actualidad/quito/chofer-bus-machete-quito-amt.html "Chofer de bus amenazó con un machete a otro conductor en Quito")
+
+¿A qué se deben los cortes de agua?
 -----------------------------------
 
-La adolescente cursaba su último año de bachillerato y **tenía como sueño estudiar enfermería**. Vivía con su madre y hermanos, quienes quedaron con secuelas **psicológicas** tras el femicidio.
+La **Empresa Metropolitana de Agua Potable** (Epmaps) señaló que los cortes de luz impactan directamente la provisión de agua en los barrios de las **partes altas de Quito.** Esto debido a que a estas zonas el líquido llega mediante bombeo eléctrico.
 
-Por el asesinato de Kerly, Roberto Carlos F. fue sentenciado con una pena agravada de **34 años y ocho meses de prisión**.
+La Epmaps recomendó a quienes habiten en estos sectores que se **abastezcan del líquido** necesario para cubrir sus necesidades básicas de higiene, alimentación y salud.
 
-Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador
-=========================================================================
+Agregó que personal **técnico y operativo monitorea l**os sistemas de bombeo a fin de ponerlos en funcionamiento cuando el fluido eléctrico se normalice.
 
-Sebastián Beccacece, DT de la Selección de Ecuador, nombró a Willian Pacho como capitán en su último partido.
--------------------------------------------------------------------------------------------------------------
+Además, recuerda a la ciudadanía que la **recuperación del servicio de agua potable** en las zonas altas toma más tiempo debido al llenado de tanques.
 
-![Willian Pacho (izq.) como capitán de la Selección de Ecuador ante Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/ffc6161e213d629f1553df96c5103bb14b00f8b4.jpg)
+Barrios afectados en Quito de 20:00 a 23:59
+-------------------------------------------
 
-La **Selección de Ecuador** finalizó sus partidos de eliminatorias durante el 2024 y a partir de la llegada de Sebastián Beccacece hubo cambios en diversos aspectos. Desde su arribo, este ha nombrado seis capitanes distintos, uno por partido.
+* Parroquia Conocoto
+* Parroquia La Argelia
+* Parroquia La Ferroviaria
+* Parroquia Chimbacalle
+* Parroquia Belisario Quevedo
+* Parroquia Rumipamba
+* Parroquia San Juan
+* Parroquia Cochapamba
+* Parroquia Puengasí
 
-El último futbolista de la Tri en ponerse el brazalete de capitán fue **Willian Pacho** en el duelo ante Colombia. El defensa central del PSG ocupó por primera vez dicho rol dentro del equipo nacional y sucedió a **Hernán Galíndez**.
+Barrios con cortes de agua de 20:00 a 23:59
+-------------------------------------------
 
-### Más noticias:
+* Parroquia El Condado
+* Parroquia Cotocollao
+* Parroquia Ponceano
+* Parroquia Rumipamba
+* Parroquia Cochapamba
 
-* [Sebastián Beccacece planteará un Ecuador intenso ante Colombia](https://www.elcomercio.com/deportes/futbol/beccacece-ecuador-colombia-barranquilla-eliminatorias.html "Sebastián Beccacece planteará un Ecuador intenso ante Colombia")
-* [Sebastián Beccacece considera una final el Ecuador vs. Bolivia](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-considera-una-final-el-ecuador-vs-bolivia.html "Sebastián Beccacece considera una final el Ecuador vs. Bolivia")
-* [Sebastián Beccacece confirmó la baja de un titular de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-confirmo-baja-titular-ecuador-angelo-preciado.html "Sebastián Beccacece confirmó la baja de un titular de Ecuador")
+Parroquias afectadas de 08:00 a 14:00
+-------------------------------------
 
-Con Pacho como capitán, la **Selección de Ecuador** consiguió un triunfo histórico ante Colombia y ascendió hasta el tercer puesto de las eliminatorias sudamericanas. Aquella victoria representó el primero en 59 años ante los cafeteros como visitante dentro de una fase clasificatoria.
+* Parroquia Quitumbe
+* Parroquia Conocoto
+* Parroquia La Argelia
+* Parroquia La Ferroviaria
+* Parroquia Chimbacalle
 
-La Tri se impuso gracias a un gol de **Enner Valencia** en los primeros minutos de juego tras dejar cinco marcas y vencer al arquero. En el cotejo, Pacho estuvo presente durante los 90 minutos y mantuvo la capitanía en todo el partido[.](https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Ecuador")
+Sectores afectados en Quito de 09:00 a 16:00
+--------------------------------------------
 
-Hernán Galíndez, otro de los capitanes de Beccacece en la Selección de Ecuador
-------------------------------------------------------------------------------
+* Parroquia Belisario Quevedo
+* Parroquia Rumipamba
+* Parroquia San Juan
+* Parroquia Cochapamba
 
-En el partido previo al de la Selección de Ecuador ante Colombia, otro episodio similar en torno a las capitanías se llevó a cabo. **Hernán Galíndez**, arquero del conjunto, fue designado como el líder del equipo por primera vez durante la era de **Sebastián Beccacece**.
+Barrios con cortes de agua de 07:00 a 11:00
+-------------------------------------------
 
-Antes del arribo del entrenador argentino, sin embargo, este había sido capitán con otros entrenadores. Durante las etapas de **Félix Sánchez Bas y Gustavo Alfaro** también llegó a lucir el brazalete.
+* Parroquia Rumipamba
+* Parroquia Cochapamba
 
-En el duelo ante Bolivia, la Selección de Ecuador se impuso por una goleada de 4-0. Enner Valencia también anotó en dicho compromiso, al igual que **Alan Minda y Gonzalo Plata** logró conseguir un doblete.
+Corte de agua de 20:00 a 23:59
+------------------------------
 
-Los capitanes de la Selección de Ecuador con Beccacece
-------------------------------------------------------
+* Parroquia San Isidro del Inca
+* Parroquia Kennedy
+* Parroquia Comité del Pueblo
+* Parroquia Rumipamba
+* Parroquia Cochapamba
 
-En la segunda doble fecha de eliminatorias que disputó la Selección de Ecuador de **Sebastián Beccacece**, este señaló que habría una rotación de la capitanía. Aquello obedece a que existe un liderazgo compartido dentro de la escuadra.
+Barrios afectados en Quito de 13:00 a 19:00
+-------------------------------------------
 
-Los jugadores que han sido capitanes durante la era de Beccacece son Enner Valencia, Moisés Caicedo, Piero Hincapié y Pervis Estupiñán. A ellos se les suman **Hernán Galíndez y Willian Pacho** a partir de las últimas actuaciones.
+* Parroquia Belisario Quevedo
+* Parroquia Rumipamba
+* Parroquia Chilibulo
+* Parroquia La Mena
+* Parroquia La Libertad
+* Parroquia San Juan
 
-En Colombia se vuelve viral mujer que se durmió en pleno partido
-================================================================
+Sectores con cortes de agua en Quito de 11:00 a 15:00
+-----------------------------------------------------
 
-La Selección de Colombia navega en medio de duras críticas por la derrota ante Ecuador de local.
-------------------------------------------------------------------------------------------------
+* Parroquia Conocoto
+* Parroquia La Ferroviaria
+* Parroquia Puengasí
 
-![Daniel Muñoz, jugador de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/dormir_partido_2.jpg)
+La **restitución del servicio de agua** potable se reanudará de forma paulatina a partir del horario señalado. Para conocer si tu [barrio se verá afectado puedes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") enviar un mensaje de WhatsApp al 096 207 2222 opción 4.
 
-Las repercusiones por el partido que l**a Selección de Colombia perdió ante la de Ecuador por 0-1** en la fecha 12 de las eliminatorias sudamericanas al Mundial 2026, aún no se terminan.
+Puedes consultar la **programación completa de cortes de agua** en Quito [aquí.](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-agua/")
 
-La noche del martes 19 de noviembre de 2024, **Ecuador sorprendió a propios y extraños y consiguió** una merecida, luchada y celebrada victoria con un golazo de Enner Valencia, delantero del Inter de Porto Alegre de Brasil.
-
-### Más noticias:
-
-* [¿Cómo queda la Selección de Ecuador en las eliminatorias?](https://www.elcomercio.com/deportes/futbol/ecuaddor-tabla-posiciones-eliminatorias-mundial.html "¿Cómo queda la Selección de Ecuador en las eliminatorias?")
-* [¡A los medios de Colombia se les fue la luz! Esto dijeron tras la dura derrota de su selección](https://www.elcomercio.com/deportes/futbol/medios-colombia-dura-derrota-ecuador.html "¡A los medios de Colombia se les fue la luz! Esto dijeron tras la dura derrota de su selección")
-* [James Rodríguez arremetió contra la Selección de Colombia](https://www.elcomercio.com/deportes/futbol/james-rodriguez-colombia-ecuador-huevonada.html "James Rodríguez arremetió contra la Selección de Colombia")
-
-La victoria de Ecuador le permitió cerrar el año en la tercera casilla en la **tabla de posiciones con 19 puntos y un gol diferencia de +7**, mientras que Colombia descendió al cuarto con los mismos 19, pero con un gol diferencia de+5.
-
-Para la Tri por delante le quedan los partidos en casa contra Venezuela, Brasil y Argentina. De visitante **tendrá que ir a Chile, Perú y Paraguay para cerrar su camino** a la Copa del Mundo que en el 2026 será organizada por Canadá, Estados Unidos y México.
-
-Según los cálculos, con ocho puntos de los 18 que aún están en disputa serán suficientes para que los ecuatorianos abrochen la clasificación al quinto mundial de su historia, tras Catar 2022, Brasil 2014, Alemania 2006 y Corea-Japón 2002.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/dormir_partido_1-1-1024x683.jpg)
-
-Foto: EFE.
-
-La mujer que se durmió en las gradas
-------------------------------------
-
-Pero mientras en Ecuador todo es celebración y algarabía, en Colombia las críticas están a la orden del día, **pese a que en este 2024 fueron finalistas de la Copa América** de Estados Unidos y siempre se han sostenido en la zona de clasificación directo al máximo torneo de selecciones.
-
-Sin embargo, dentro de todo este ambiente negativo, se hizo viral la imagen de una **mujer que estuvo en las gradas del Metropolitano** para alentar a su selección, pero que quedó registrada en las imágenes de la señal de televisión en el momento menos oportuno.
-
-A los 87 minutos con el equipo local volcado al ataque para conseguir el ansiado 1-1 y con los ecuatorianos defendiendo la ventaja con todos los medios posibles, la cámara mostró la reacción de los hinchas en Barranquilla, pero con tan mala suerte que registró a la mujer dormida cuyo video rápidamente inundó las redes sociales.
-
-Delante de ella otra mujer se percató de la **cámara y se levantó para alzar sus manos y mostrar el apoyo** a su selección. En ese momento la mujer dormida se despertó y por un momento se mostró desorientada.
-
-“Lo de mi tía se salió de control. **Para los que no sepan ella es mi tía, se llama Sandra**, es hermosa, y se acaba de hacer viral porque se quedó dormida en el partido”, expresó la usuaria @nvell-maria que se identificó como su sobrina.
-
-La adolescente argumentó que su tía le comentó que el partido estaba “aburrido” y por eso se durmió po una segundos.
-
-> Está señora representa a todos los colombianos, que partido tan mediocre. Luis Díaz suelte el balón, Jhon Córdoba sopla monda. [pic.twitter.com/FS5eMKwjiK](https://t.co/FS5eMKwjiK)
+> 💧 [#AguaDeQuito](https://twitter.com/hashtag/AguaDeQuito?src=hash&ref_src=twsrc%5Etfw) | Debido a los cortes de luz anunciados por el Gobierno Nacional, las zonas altas se verán afectadas con el suministro de agua potable.  
+>   
+> Conoce los horarios y los barrios afectados 👉 [https://t.co/4h0ELptlEI](https://t.co/4h0ELptlEI)[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw) [@ambientequito](https://twitter.com/ambientequito?ref_src=twsrc%5Etfw) [pic.twitter.com/GG7tiAbmCz](https://t.co/GG7tiAbmCz)
 > 
-> — Calderón (@acaldeeronn) [November 20, 2024](https://twitter.com/acaldeeronn/status/1859038902012838272?ref_src=twsrc%5Etfw)
-
-San viernes
------------
+> — Epmaps – Agua de Quito (@aguadequito) [November 21, 2024](https://twitter.com/aguadequito/status/1859609835144102213?ref_src=twsrc%5Etfw)
