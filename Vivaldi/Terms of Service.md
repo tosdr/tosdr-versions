@@ -105,7 +105,7 @@ The information on the Website is not prescreened or censored by Vivaldi (with t
 
 We are not responsible or liable for content or services provided by any third-parties, that may be used on or linked from the Website.
 
-Please note that the email quota is of 5GB. As soon as your account reaches critical size, Vivaldi will send you a warning message. An account that has exceeded the quota limit will be blocked from receiving mail and from storing new messages. In such a case, you will not be able to send or receive mail.
+Please note that the email quota is of 10GB. As soon as your account reaches critical size, Vivaldi will send you a warning message. An account that has exceeded the quota limit will be blocked from receiving mail and from storing new messages. In such a case, you will not be able to send or receive mail.
 
 Please note that if you delete your data, including but not limited to your topics and comments on the forum, we will not be able to restore it for you.
 
