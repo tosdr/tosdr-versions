@@ -25,7 +25,7 @@
                 Course evaluations & surveys](https://www.watermarkinsights.com/solutions/course-evaluation-institutional-surveys/)
         * ### Learn what **Watermark**
             
-            ### has to offer your institution?
+            ### has to offer your institution.
             
             [Our Solutions](https://www.watermarkinsights.com/solutions/ "Our Solutions")
             
@@ -113,7 +113,7 @@
                 Course evaluations & surveys](https://www.watermarkinsights.com/solutions/course-evaluation-institutional-surveys/)
         * ### Learn what **Watermark**
             
-            ### has to offer your institution?
+            ### has to offer your institution.
             
             [Our Solutions](https://www.watermarkinsights.com/solutions/ "Our Solutions")
             
