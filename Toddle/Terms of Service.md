@@ -510,7 +510,7 @@ Any dispute, controversy or claim arising out of or in connection with this Lice
 
 ![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
 
-![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")
+[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)
 
 [![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)
 
@@ -522,9 +522,7 @@ Any dispute, controversy or claim arising out of or in connection with this Lice
 
 ![ISO logo](/wp-content/uploads/2024/10/Frame-628308-2.webp "logo of ISO")
 
-[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)
-
-![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")
+[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)
 
 ![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
 
@@ -538,9 +536,7 @@ Any dispute, controversy or claim arising out of or in connection with this Lice
 
 ![ISO logo](/wp-content/uploads/2024/10/Frame-628308-2.webp "logo of ISO")
 
-[![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)
-
-![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")
+[![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)
 
 ![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
 
