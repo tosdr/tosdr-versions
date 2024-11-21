@@ -2,29 +2,29 @@
 
 [](https://wetransfer.com/ "WeTransfer.com")
 
-Caractéristiques
+Özellikler
 
-[Partager vos fichiers](https://wetransfer.com/explore/file-sharing)[Protégez vos fichiers](https://wetransfer.com/explore/data-security)[Personnaliser votre page](https://wetransfer.com/explore/branding)[Laisser et recueillir des commentaires](https://wetransfer.com/explore/portals-reviews)[Collaborer avec votre équipe](https://wetransfer.com/explore/teams)[Obtenez une rémunération pour votre travail](https://wetransfer.com/explore/sell-files-get-paid)[Distribuez votre contenu](https://wetransfer.com/explore/distribution)[Créer des moodboards](https://wetransfer.com/explore/collect)[Profiter de nos avantages](https://wetransfer.com/explore/subscriber-benefits)
+[Dosyalarınızı paylaşın](https://wetransfer.com/explore/file-sharing)[Dosyalarınızı koruyun](https://wetransfer.com/explore/data-security)[Sayfanızı özelleştirin](https://wetransfer.com/explore/branding)[Geri bildirim verin ve alın](https://wetransfer.com/explore/portals-reviews)[Ekibinizle iş birliği yapın](https://wetransfer.com/explore/teams)[Çalışmalarınız için ödeme alın](https://wetransfer.com/explore/sell-files-get-paid)[İçeriğinizi dağıtın](https://wetransfer.com/explore/distribution)[İlham panoları oluştur](https://wetransfer.com/explore/collect)[Avantajlardan faydalanın](https://wetransfer.com/explore/subscriber-benefits)
 
-[Tarifs](https://wetransfer.com/pricing?trk=NAV_pricing)Cas d'utilisation
+[Fiyatlandırma](https://wetransfer.com/pricing?trk=NAV_pricing)Örnekleri kullanın
 
-[Pour les photographes](https://wetransfer.com/explore/photographers)[Pour les vidéastes](https://wetransfer.com/explore/videographers)[Pour les créateurs et les illustrateurs](https://wetransfer.com/explore/designers-illustrators)[Pour les étudiants](https://wetransfer.com/explore/for-students)
+[Fotoğrafçılar için](https://wetransfer.com/explore/photographers)[Video grafikerleri için](https://wetransfer.com/explore/videographers)[Tasarımcılar ve illüstratörler için](https://wetransfer.com/explore/designers-illustrators)[Öğrenciler için](https://wetransfer.com/explore/for-students)
 
-Ressources
+Kaynaklar
 
-À propos de nous
+Hakkımızda
 
-[Entreprise](https://wetransfer.com/explore)[Offres d'emploi](https://wetransfer.com/explore/careers)[Culture](https://wetransfer.com/explore/culture)[Leadership](https://wetransfer.com/explore/corporate/leadership)[Responsabilité sociale d'entreprise](https://wetransfer.com/explore/csr)[Récompenses](https://wetransfer.com/explore/corporate/awards)[Salle de presse](https://wetransfer.com/blog/newsroom/)
+[Şirket](https://wetransfer.com/explore)[Kkariyer](https://wetransfer.com/explore/careers)[Kültür](https://wetransfer.com/explore/culture)[Liderlik](https://wetransfer.com/explore/corporate/leadership)[Şirket Toplumsal Sorumluluğu](https://wetransfer.com/explore/csr)[Ödüller](https://wetransfer.com/explore/corporate/awards)[Haber Odası](https://wetransfer.com/blog/newsroom/)
 
 Advertising
 
-[Faites votre publicité chez nous](https://wetransfer.com/explore/advertising)[Pratiques responsables](https://wetransfer.com/explore/advertising/responsible)[Politiques publicitaires](https://wetransfer.com/explore/advertising/policies)
+[Bize reklam verin](https://wetransfer.com/explore/advertising)[Sorumlu uygulamalar](https://wetransfer.com/explore/advertising/responsible)[Reklam politikaları](https://wetransfer.com/explore/advertising/policies)
 
-Plus
+Daha fazlası
 
-[WePresent](https://wepresent.wetransfer.com/)[Blog](https://wetransfer.com/blog/)[Aide](https://help.wetransfer.com/hc/en-us)
+[WePresent](https://wepresent.wetransfer.com/)[Blog](https://wetransfer.com/blog/)[Yardım](https://help.wetransfer.com/hc/en-us)
 
-[Connexion](https://wetransfer.com/log-in)[S'inscrire](https://wetransfer.com/pricing?trk=WT202005_signup)
+[Giriş yap](https://wetransfer.com/log-in)[Kaydol](https://wetransfer.com/pricing?trk=WT202005_signup)
 
 * [Terms of Service](https://wetransfer.com/explore/legal/terms)
 * [Privacy & Cookie Statement](https://wetransfer.com/explore/legal/privacy)
