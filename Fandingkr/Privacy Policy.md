@@ -26,7 +26,7 @@
 
 [Powered by Channel Talk](https://channel.io/ko/documents)
 
-![thumbnail](/_next/image?url=https%3A%2F%2Fcf.channel.io%2Fdocument%2Fspaces%2F8568%2Fusermedia%2F6722d22050a72e46baab&w=3840&q=100)
+![thumbnail](/_next/image?url=https%3A%2F%2Fcf.channel.io%2Fdocument%2Fspaces%2F8568%2Fusermedia%2F673eddca4e6027cf33f3&w=3840&q=100)
 
 개인정보처리방침
 ========
