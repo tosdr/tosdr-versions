@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Is PayPal down? Thousands report login issues](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2181304403.jpg?ve=1&tl=1)
+ [![Matt Gaetz withdraws from attorney general consideration](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2162809705-scaled-e1732210872588.jpg?ve=1&tl=1)
 
- ![Is PayPal down? Thousands report login issues](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2181304403.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/is-paypal-down-thousands-report-issues-nov-21-2024)
+ ![Matt Gaetz withdraws from attorney general consideration](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2162809705-scaled-e1732210872588.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/matt-gaetz-withdraws-attorney-general-consideration)
 
-### [Is PayPal down? Thousands report login issues](https://www.fox4news.com/news/is-paypal-down-thousands-report-issues-nov-21-2024)
+### [Matt Gaetz withdraws from attorney general consideration](https://www.fox4news.com/news/matt-gaetz-withdraws-attorney-general-consideration)
 
- [![Shots fired, guns tossed out window: Police arrest 3 after high-speed chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/fortworthpd.jpg?ve=1&tl=1)
+ [![Taylor Swift, Elon Musk, Dak Prescott among write-in votes for president in Denton County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/swift-musk-dak.jpg?ve=1&tl=1)
 
- ![Shots fired, guns tossed out window: Police arrest 3 after high-speed chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/fortworthpd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-fort-worth-police-chase-guns)
+ ![Taylor Swift, Elon Musk, Dak Prescott among write-in votes for president in Denton County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/swift-musk-dak.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/taylor-swift-elon-musk-dak-prescott-write-in-votes-president)
 
-### [Shots fired, guns tossed out window: Police arrest 3 after high-speed chase](https://www.fox4news.com/news/arlington-fort-worth-police-chase-guns)
+### [Taylor Swift, Elon Musk, Dak Prescott among write-in votes for president in Denton County](https://www.fox4news.com/election/taylor-swift-elon-musk-dak-prescott-write-in-votes-president)
 
- [![New travel trend has Americans chasing the fountain of youth](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-527764232.jpg?ve=1&tl=1)
+ [![Ellen DeGeneres and Portia de Rossi reportedly flee US amid Trump victory](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/ellen-degeneres1.jpg?ve=1&tl=1)
 
- ![New travel trend has Americans chasing the fountain of youth](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-527764232.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/new-travel-trend-health-wellness-destinations-2025)
+ ![Ellen DeGeneres and Portia de Rossi reportedly flee US amid Trump victory](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/ellen-degeneres1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellen-degeneres-portia-de-rossi-reportedly-flee-us-amid-trump-victory)
 
-### [New travel trend has Americans seeking to 'extend their lifespan' in these destinations](https://www.fox4news.com/news/new-travel-trend-health-wellness-destinations-2025)
+### [Ellen DeGeneres and Portia de Rossi reportedly flee US amid Trump victory](https://www.fox4news.com/news/ellen-degeneres-portia-de-rossi-reportedly-flee-us-amid-trump-victory)
 
- [![Competition for homes is easing the fastest for buyers in these markets](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1882476651.jpg?ve=1&tl=1)
+ [![H-E-B breaks ground on 3 new stores in DFW](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-heb-euless-bedford-groundbreaking_00.00.22.52.jpg?ve=1&tl=1)
 
- ![Competition for homes is easing the fastest for buyers in these markets](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1882476651.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/buyers-market-november-2024-what-regions)
+ ![H-E-B breaks ground on 3 new stores in DFW](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-heb-euless-bedford-groundbreaking_00.00.22.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/h-e-b-breaks-ground-3-new-stores-dfw)
 
-### [Competition for homes is easing the fastest for buyers in these markets](https://www.fox4news.com/news/buyers-market-november-2024-what-regions)
+### [H-E-B breaks ground on 3 new stores in DFW](https://www.fox4news.com/news/h-e-b-breaks-ground-3-new-stores-dfw)
 
- [![Dallas shooting: Gunman at large after 1 killed, 2 injured in Southeast Oak Cliff gunfire](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1)
+ [![Mavs star Luka Doncic has a right wrist sprain and will be re-evaluated in a week](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185042400.jpg?ve=1&tl=1)
 
- ![Dallas shooting: Gunman at large after 1 killed, 2 injured in Southeast Oak Cliff gunfire](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Dallas-Police-generic-Dallas-PD-DPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-gunman-large-after-1-killed-2-injured-southeast-oak-cliff-gunfire)
+ ![Mavs star Luka Doncic has a right wrist sprain and will be re-evaluated in a week](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185042400.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/mavs-star-luka-doncic-has-right-wrist-sprain-will-be-re-evaluated-week)
 
-### [Dallas shooting: Gunman at large after 1 killed, 2 injured in Southeast Oak Cliff gunfire](https://www.fox4news.com/news/dallas-shooting-gunman-large-after-1-killed-2-injured-southeast-oak-cliff-gunfire)
+### [Mavs star Luka Doncic has a right wrist sprain and will be re-evaluated in a week](https://www.fox4news.com/sports/mavs-star-luka-doncic-has-right-wrist-sprain-will-be-re-evaluated-week)
 
 ###### [News](https://www.fox4news.com/news)
 
