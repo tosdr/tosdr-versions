@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Pac-Mania](https://www.myabandonware.com/game/pac-mania-5nq)
 * [АвтоФэны: Заряженные скоростью](https://www.myabandonware.com/game/avtofeny-zaryazhennye-skorostyu-t9i)
 * [Uncle Henry's Playhouse](https://www.myabandonware.com/game/uncle-henry-s-playhouse-t9h)
 * [Lose Your Marbles](https://www.myabandonware.com/game/lose-your-marbles-t9g)
 * [Mavis Beacon Teaches Typing! Version 4](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-4-t99)
-* [Mavis Beacon Teaches Typing! Version 3](https://www.myabandonware.com/game/mavis-beacon-teaches-typing-version-3-t98)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
