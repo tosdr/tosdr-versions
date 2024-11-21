@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5f4ea1ce-1cd1-422b-999e-950495e67b38/20241121T015404/5f4ea1ce-1cd1-422b-999e-950495e67b38_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5f4ea1ce-1cd1-422b-999e-950495e67b38/20241121T015404/5f4ea1ce-1cd1-422b-999e-950495e67b38_360x203.jpg)](https://www.king5.com/article/news/local/lightning-strikes-historic-hoquiam-church/281-b2e1a272-b2fa-4dea-9986-095f0b71c2a4)
+    *  [![](https://media.king5.com/assets/KING/images/c305d45d-4342-48a4-bd25-c6d29330748f/20241121T071451/c305d45d-4342-48a4-bd25-c6d29330748f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c305d45d-4342-48a4-bd25-c6d29330748f/20241121T071451/c305d45d-4342-48a4-bd25-c6d29330748f_360x203.jpg)](https://www.king5.com/article/news/local/redmond-residents-work-together-bomb-cyclone-damage/281-f0e11bca-7ec7-4455-8eb7-321eefe52995)
         
-        #### [Hoquiam church steeple destroyed by lightning strike](https://www.king5.com/article/news/local/lightning-strikes-historic-hoquiam-church/281-b2e1a272-b2fa-4dea-9986-095f0b71c2a4)
+        #### ['We'll get through this': Redmond residents work together after bomb cyclone damage](https://www.king5.com/article/news/local/redmond-residents-work-together-bomb-cyclone-damage/281-f0e11bca-7ec7-4455-8eb7-321eefe52995)
         
-    *  [![](https://media.king5.com/assets/KING/images/e739dede-74bc-4195-91f3-ec090901bd7c/20241120T224553/e739dede-74bc-4195-91f3-ec090901bd7c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e739dede-74bc-4195-91f3-ec090901bd7c/20241120T224553/e739dede-74bc-4195-91f3-ec090901bd7c_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
+    *  [![](https://media.king5.com/assets/KING/images/f6fc34c3-a3c4-478b-b968-7bb2c2f1253d/20241121T045030/f6fc34c3-a3c4-478b-b968-7bb2c2f1253d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6fc34c3-a3c4-478b-b968-7bb2c2f1253d/20241121T045030/f6fc34c3-a3c4-478b-b968-7bb2c2f1253d_360x203.jpg)](https://www.king5.com/article/news/local/woman-trapped-bellevue-home-debris-bomb-cyclone/281-d36badb9-f768-4849-8e22-42afcf4ec0b3)
         
-        #### [Recap: At least 5 hospitalized, 2 killed in deadly windstorm in western Washington](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
+        #### ['It would have been bad': Bellevue woman still trapped in home after tree nearly lands on roof](https://www.king5.com/article/news/local/woman-trapped-bellevue-home-debris-bomb-cyclone/281-d36badb9-f768-4849-8e22-42afcf4ec0b3)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a9f94c2c-21dc-484f-956c-57721696c219/20241121T002344/a9f94c2c-21dc-484f-956c-57721696c219_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a9f94c2c-21dc-484f-956c-57721696c219/20241121T002344/a9f94c2c-21dc-484f-956c-57721696c219_360x203.jpg)](https://www.king5.com/article/weather/tornado-warning-grays-harbor-pacific-counties/281-f9b72c3c-0f6d-43d9-a06f-36cf883772db)
+    *  [![](https://media.king5.com/assets/KING/images/c305d45d-4342-48a4-bd25-c6d29330748f/20241121T071451/c305d45d-4342-48a4-bd25-c6d29330748f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c305d45d-4342-48a4-bd25-c6d29330748f/20241121T071451/c305d45d-4342-48a4-bd25-c6d29330748f_360x203.jpg)](https://www.king5.com/article/news/local/redmond-residents-work-together-bomb-cyclone-damage/281-f0e11bca-7ec7-4455-8eb7-321eefe52995)
         
-        #### [Tornado Warning connected to bomb cyclone expires for SW Washington](https://www.king5.com/article/weather/tornado-warning-grays-harbor-pacific-counties/281-f9b72c3c-0f6d-43d9-a06f-36cf883772db)
+        #### ['We'll get through this': Redmond residents work together after bomb cyclone damage](https://www.king5.com/article/news/local/redmond-residents-work-together-bomb-cyclone-damage/281-f0e11bca-7ec7-4455-8eb7-321eefe52995)
         
-    *  [![](https://media.king5.com/assets/KING/images/e739dede-74bc-4195-91f3-ec090901bd7c/20241120T224553/e739dede-74bc-4195-91f3-ec090901bd7c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e739dede-74bc-4195-91f3-ec090901bd7c/20241120T224553/e739dede-74bc-4195-91f3-ec090901bd7c_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
+    *  [![](https://media.king5.com/assets/KING/images/e8e4e088-e9e7-41c4-9dcf-b27e20cb6015/20241121T013614/e8e4e088-e9e7-41c4-9dcf-b27e20cb6015_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e8e4e088-e9e7-41c4-9dcf-b27e20cb6015/20241121T013614/e8e4e088-e9e7-41c4-9dcf-b27e20cb6015_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-        #### [Recap: At least 5 hospitalized, 2 killed in deadly windstorm in western Washington](https://www.king5.com/article/weather/weather-impact/power-outages-closures-impacts-western-washington-weather/281-c90a2632-587c-4d21-ae99-a5eb25a932b8)
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-47°
+46°
 
 ![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
