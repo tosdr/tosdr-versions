@@ -17,6 +17,7 @@ _s_
         * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy)
         * [Правила применения рекомендательных технологий ресурса Mail](https://help.mail.ru/legal/terms/common/mainrecommendation)
         * [Правила применения рекомендательных технологий медиапроектов Mail](https://help.mail.ru/legal/terms/common/mediarecommendation)
+        * [Соглашение о порядке предоставления дополнительного функционала сервисов Почта Mail и Облако Mail](https://help.mail.ru/legal/terms/common/additional)
     * [Почта](https://help.mail.ru/legal/terms/mail)
         * [Пользовательское соглашение сервисов Mail](https://help.mail.ru/legal/terms/common/ua)
         * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy)
@@ -362,11 +363,11 @@ _s_
 
 _Редакция от 27.08.2024_
 
-Обновлено 26 августа 2024 г.
+Обновлено 21 ноября 2024 г.
 
 |     |     |
 | --- | --- |
-| [Mail](https://r.mail.ru/n154506914?sz=36&rnd=4253902306)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=4253902306)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=4253902306)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=4253902306) |     |
+| [Mail](https://r.mail.ru/n154506914?sz=36&rnd=3915678031)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=3915678031)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=3915678031)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=3915678031) |     |
 
             
 
