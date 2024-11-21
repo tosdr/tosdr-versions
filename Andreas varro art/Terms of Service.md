@@ -301,6 +301,8 @@ Navigation
 
 [Photographer Stockholm](https://www.andreasvarro.com/lp/photographer-stockholm)
 
+[Art Photographer](https://www.andreasvarro.com/l/art-photographer-13-powerful-images-by-award-winning-artist)
+
 [Staged Photography](https://www.andreasvarro.com/l/staged-photography)
 
 [Constructed Photography](https://www.andreasvarro.com/l/constructed-photography)
