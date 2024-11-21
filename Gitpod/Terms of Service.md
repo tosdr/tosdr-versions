@@ -10,7 +10,7 @@
 
 [13k](https://github.com/gitpod-io)
 
-* [Login](https://app.gitpod.io/)
+* [Login](https://www.gitpod.io/flex-or-classic)
 
 [Get a demo](https://www.gitpod.io/contact/get-demo)
 
