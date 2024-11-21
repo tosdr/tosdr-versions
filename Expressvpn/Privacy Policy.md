@@ -21,6 +21,7 @@
     * [ID Alerts](https://www.expressvpn.com/features/id-defender/id-alerts)
     * [ID Theft Insurance](https://www.expressvpn.com/features/id-defender/id-theft-insurance)
     * [Data Removal](https://www.expressvpn.com/features/id-defender/data-removal)
+    * [Credit Scanner](https://www.expressvpn.com/features/id-defender/credit-scanner)
     
 * Devices submenu
     
@@ -84,6 +85,7 @@
         * [ID Alerts](https://www.expressvpn.com/features/id-defender/id-alerts)
         * [ID Theft Insurance](https://www.expressvpn.com/features/id-defender/id-theft-insurance)
         * [Data Removal](https://www.expressvpn.com/features/id-defender/data-removal)
+        * [Credit Scanner](https://www.expressvpn.com/features/id-defender/credit-scanner)
         
     * Devices
         
