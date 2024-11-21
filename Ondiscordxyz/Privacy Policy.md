@@ -115,7 +115,7 @@ Note that Bots on Discord has no access to or control over these cookies that ar
 
 By using our website, you hereby consent to our Privacy Policy.
 
-**Tip:** Do you have feedback for us? Let us know on our [Discord server](https://discord.gg/bvm6vSv)!
+**Tip:** Reviewing bots helps others find good bots, and gives the owners valuable feedback.
 
 onDiscord.xyz is not affiliated with Discord Inc.
 
