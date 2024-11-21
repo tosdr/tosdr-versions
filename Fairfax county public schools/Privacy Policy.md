@@ -96,7 +96,7 @@ Full Menu Menu
         * [Community Use of School Facilities](https://www.fcps.edu/services/community-use-school-facilities)
         * [Healthcare Resources](https://www.fcps.edu/services/community-healthcare-resources)
         * [School Age Child Care (SACC)](https://www.fcps.edu/community-resources/school-age-child-care-sacc)
-        * [Student and Career Records](https://www.fcps.edu/family-resources/college-and-career-planning/college-and-post-secondary-planning)
+        * [Student and Alumni Records](https://www.fcps.edu/services/community-resources/student-and-career-records/transcripts-and-records)
     
 * Academics
     
