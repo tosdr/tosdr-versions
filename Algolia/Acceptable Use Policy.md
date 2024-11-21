@@ -158,7 +158,7 @@ Select Policy
 
 [Legal Information](https://www.algolia.com/policies/legal)
 
-[Cookies](https://www.algolia.com/policies/cookies)
+[Cookies 🍪](https://www.algolia.com/policies/cookies)
 
 [Infrastructure & Sub-Processors](https://www.algolia.com/policies/infrastructure-and-sub-processors)
 
