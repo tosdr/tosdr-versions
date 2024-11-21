@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![23 Facts About Juan Guaid ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/23-facts-about-juan-guaido/)
+[![28 Facts About International Cooperation ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/28-facts-about-international-cooperation/)
+
+Society & Social Sciences
+
+21 Nov 2024
+
+[28 Facts About International Cooperation](https://facts.net/society-and-social-sciences/28-facts-about-international-cooperation/)
+
+[![35 Facts About Rieli Franciscato ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-rieli-franciscato/)
 
 People
 
-20 Nov 2024
+21 Nov 2024
 
-[23 Facts About Juan Guaid](https://facts.net/history/people/23-facts-about-juan-guaido/)
-
-[![21 Facts About Johann Sebastian Bach ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/performing-arts/21-facts-about-johann-sebastian-bach/)
-
-Performing Arts
-
-20 Nov 2024
-
-[21 Facts About Johann Sebastian Bach](https://facts.net/culture-and-the-arts/performing-arts/21-facts-about-johann-sebastian-bach/)
+[35 Facts About Rieli Franciscato](https://facts.net/history/people/35-facts-about-rieli-franciscato/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
