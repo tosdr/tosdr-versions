@@ -1,6 +1,6 @@
-WEBINAR Nov 19 - Measuring ROI and Impact in Drive-to-Store Advertising
+WEBINAR RECORDING AVAILABLE - Measuring ROI and Impact in Drive-to-Store Advertising
 
-[Register](https://illumin.com/insights/podcasts-webinars/webinar-measuring-roi-impact-data-drive-store-ads/)
+[Watch Now](https://illumin.com/insights/podcasts-webinars/webinar-measuring-roi-impact-data-drive-store-ads/)
 
  [![logo-white](https://illumin.com/wp-content/uploads/2024/09/logo-white.svg) ![logo black](https://illumin.com/wp-content/uploads/2024/09/logo-1.svg)](https://illumin.com/)
 
@@ -16,9 +16,9 @@ WEBINAR Nov 19 - Measuring ROI and Impact in Drive-to-Store Advertising
         * [illumin for Brands](https://illumin.com/illumin-for-brands/)
         * [illumin for Political](https://illumin.com/illumin-for-political/)
         * [illumin for Health](https://illumin.com/illumin-for-health/)
-    * ![Inside Scoop - adsquare](https://illumin.com/wp-content/uploads/2024/11/illumin_InsideScoop-Blog-2.png)
+    * ![](https://illumin.com/wp-content/uploads/2024/11/1731949265400.jpg)
         
-        Webinar - Nov 19
+        Webinar - Recording
         
         Tracking ad exposure with real-time mobile and foot traffic data.
         
@@ -224,3 +224,7 @@ Newsletter signup
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
+
+![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
