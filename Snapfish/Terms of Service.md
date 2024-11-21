@@ -25,7 +25,7 @@ Your Snapfish account credentials will work across all Snapfish websites. Howeve
 
 **“Active Participation” Required**
 
-Snapfish offers unlimited storage of online photos to customers who maintain Active Participation. “Active Participation” is defined as purchasing or ordering product through the Services at least once every eighteen (18) months. Purchases through Snapfish third-party advertisers do not count towards Active Participation. If you cease Active Participation for any reason, Snapfish reserves the right to terminate your account (or any part thereof) and your use of the Services, subject to the Termination provision in Section XIV of these Terms, and may remove and discard all information, communications, postings, albums, image files, creative material, photographs, videos, links, comments, and other content (collectively "Content") uploaded by you or otherwise made available by you via the Services.
+Snapfish offers unlimited storage of online photos to customers who maintain Active Participation. “Active Participation” is defined as purchasing or ordering product through the Services at least once every eighteen (18) months.  Purchases through Snapfish third-party advertisers do not count towards Active Participation. If you cease Active Participation for any reason, Snapfish reserves the right to terminate your account (or any part thereof) and your use of the Services, subject to the Termination provision in Section XIV of these Terms, and may remove and discard all information, communications, postings, albums, image files, creative material, photographs, videos, links, comments, and other content (collectively "Content") uploaded by you or otherwise made available by you via the Services.
 
 **Termination of Services in Certain Locations**
 
@@ -47,15 +47,16 @@ Snapfish may remove Saved Projects from your account if they have not been modif
 
 ###### III. User Conduct
 
-You may not use the Services to process Prohibited Content. “Prohibited Content” includes, but is not limited to, Content or other material that:
+You may not use the Services to process or generate Prohibited Content. “Prohibited Content” includes, but is not limited to, Content or other material that:
 
 * Is abusive, deceptive, pornographic, obscene, defamatory, slanderous, violent, offensive, constitutes hate speech or is otherwise inappropriate;
 * Consists of copyrighted material used without the express permission of the owner or material that has been altered so that the copyright, trademark or other proprietary notice is removed;
-* Violates or otherwise encroaches on the rights of others including, but not limited to, intellectual property, privacy, publicity or privacy rights;
-* Contains viruses, worms, corrupt files, Trojan horses or other forms of corruptive code, or any other content which may compromise the Services (collectively “Corruptive Code”);
+* Violates or otherwise encroaches on the rights of others including, but not limited to, intellectual property, publicity or privacy rights;
+* Contains viruses, worms, corrupt files, Trojan horses or other forms of corruptive code, or any other content which may harm, interfere with, disrupt, or compromise the Services (collectively “Corruptive Code”);
 * Advocates illegal activity;
 * Violates any law or regulation;
-* Harms or advocates harm against anyone, including minors; or,
+* Harms or advocates harm against anyone, including minors; 
+* Generates defamatory or libelous content, or content that includes misinformation, or is otherwise misleading; or 
 * Provides a link to material associated with any of the above.
 
 Though Snapfish is not required to do so, it may from time to time examine any Content submitted to the Services. Although Snapfish does not and will not examine or otherwise review all Content submitted or transmitted to the Services, Snapfish may delete, move, or edit Content for any reason, at any time, without notice.
