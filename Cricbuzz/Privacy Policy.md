@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[MLSW vs SYTW - SYTW Won](https://www.cricbuzz.com/live-cricket-scores/101408/mlsw-vs-sytw-33rd-match-womens-big-bash-league-2024 "Melbourne Stars Women v Sydney Thunder Women, 33rd Match - SYTW Won")[SYSW vs PRSW - Preview](https://www.cricbuzz.com/live-cricket-scores/101411/sysw-vs-prsw-34th-match-womens-big-bash-league-2024 "Sydney Sixers Women v Perth Scorchers Women, 34th Match - Preview")[SLA vs PAKA - Stumps](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")[HBHW vs MLRW - Preview](https://www.cricbuzz.com/live-cricket-scores/101417/hbhw-vs-mlrw-35th-match-womens-big-bash-league-2024 "Hobart Hurricanes Women v Melbourne Renegades Women, 35th Match - Preview")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[PRSW vs SYSW - Live](https://www.cricbuzz.com/live-cricket-scores/101411/prsw-vs-sysw-34th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Sydney Sixers Women, 34th Match - Live")[HBHW vs MLRW - Preview](https://www.cricbuzz.com/live-cricket-scores/101417/hbhw-vs-mlrw-35th-match-womens-big-bash-league-2024 "Hobart Hurricanes Women v Melbourne Renegades Women, 35th Match - Preview")[AUS vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/91778/aus-vs-ind-1st-test-india-tour-of-australia-2024-25 "Australia v India, 1st Test - Preview")[SLA vs PAKA - Lunch](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Lunch")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")
 
 AllLive NowToday
 
@@ -56,7 +56,7 @@ AllLive NowToday
     
     Australia v India
     
-    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91778/aus-vs-ind-1st-test-australia-v-india "Australia v India, 1st Test - Upcoming")
+    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91778/aus-vs-ind-1st-test-australia-v-india "Australia v India, 1st Test - Preview")
     
     1st Test
     
@@ -92,35 +92,37 @@ AllLive NowToday
     
     3rd Match
     
-* [Bhutan vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108970/btn-vs-qat-5th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Qatar, 5th Match - Toss")
+* [Bhutan vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108970/btn-vs-qat-5th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Qatar, 5th Match - QAT Won")
     
     5th Match
     
-* [Thailand vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108963/thai-vs-cbd-4th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Cambodia, 4th Match - Toss")
+* [Thailand vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108963/thai-vs-cbd-4th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Cambodia, 4th Match - THAI Won")
     
     4th Match
     
-* [Saudi Arabia vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/108973/sau-vs-uae-6th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Saudi Arabia v United Arab Emirates, 6th Match - Toss")
+* [United Arab Emirates vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/108973/uae-vs-sau-6th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "United Arab Emirates v Saudi Arabia, 6th Match - UAE Won")
     
     6th Match
-    
-* [United Arab Emirates vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108980/uae-vs-cbd-7th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "United Arab Emirates v Cambodia, 7th Match - Upcoming")
-    
-    7th Match
     
 * [Bahrain vs Thailand](https://www.cricbuzz.com/live-cricket-scores/108984/bhr-vs-thai-8th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bahrain v Thailand, 8th Match - Upcoming")
     
     8th Match
     
+* [United Arab Emirates vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108980/uae-vs-cbd-7th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "United Arab Emirates v Cambodia, 7th Match - Upcoming")
+    
+    7th Match
+    
 * [Saudi Arabia vs Bhutan](https://www.cricbuzz.com/live-cricket-scores/108987/sau-vs-btn-9th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Saudi Arabia v Bhutan, 9th Match - Upcoming")
     
     9th Match
     
-* Indonesia v Myanmar, 2024
+* [Thailand vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/109012/thai-vs-uae-11th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v United Arab Emirates, 11th Match - Upcoming")
     
-    [Myanmar vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/109246/mmr-vs-idn-6th-t20i-indonesia-v-myanmar-2024 "Myanmar v Indonesia, 6th T20I - IDN Won")
+    11th Match
     
-    6th T20I
+* [Bhutan vs Bahrain](https://www.cricbuzz.com/live-cricket-scores/109005/btn-vs-bhr-10th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Bahrain, 10th Match - Upcoming")
+    
+    10th Match
     
 * T20 LEAGUE
     
@@ -166,9 +168,51 @@ AllLive NowToday
     
     11th Match
     
+* SMA Trophy 2024
+    
+    [Haryana vs Manipur](https://www.cricbuzz.com/live-cricket-scores/98222/har-vs-mnp-group-c-sma-trophy-2024 "Haryana v Manipur, Group C - Upcoming")
+    
+    Group C
+    
+* [Saurashtra vs Sikkim](https://www.cricbuzz.com/live-cricket-scores/98213/saur-vs-skm-group-b-sma-trophy-2024 "Saurashtra v Sikkim, Group B - Upcoming")
+    
+    Group B
+    
+* [Tamil Nadu vs Tripura](https://www.cricbuzz.com/live-cricket-scores/98204/tn-vs-tri-group-b-sma-trophy-2024 "Tamil Nadu v Tripura, Group B - Upcoming")
+    
+    Group B
+    
+* [Hyderabad vs Meghalaya](https://www.cricbuzz.com/live-cricket-scores/98195/hyd-vs-mgly-group-a-sma-trophy-2024 "Hyderabad v Meghalaya, Group A - Upcoming")
+    
+    Group A
+    
+* [Goa vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/98247/goa-vs-mum-group-e-sma-trophy-2024 "Goa v Mumbai, Group E - Upcoming")
+    
+    Group E
+    
+* [Madhya Pradesh vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98186/mp-vs-miz-group-a-sma-trophy-2024 "Madhya Pradesh v Mizoram, Group A - Upcoming")
+    
+    Group A
+    
+* [Maharashtra vs Nagaland](https://www.cricbuzz.com/live-cricket-scores/98238/mah-vs-ngl-group-e-sma-trophy-2024 "Maharashtra v Nagaland, Group E - Upcoming")
+    
+    Group E
+    
+* [Chandigarh vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/98233/cdg-vs-pdc-group-d-sma-trophy-2024 "Chandigarh v Puducherry, Group D - Upcoming")
+    
+    Group D
+    
+* [Assam vs Railways](https://www.cricbuzz.com/live-cricket-scores/98229/asm-vs-rlys-group-d-sma-trophy-2024 "Assam v Railways, Group D - Upcoming")
+    
+    Group D
+    
+* [Arunachal Pradesh vs Himachal Pradesh](https://www.cricbuzz.com/live-cricket-scores/98224/arnp-vs-hp-group-c-sma-trophy-2024 "Arunachal Pradesh v Himachal Pradesh, Group C - Upcoming")
+    
+    Group C
+    
 * Pakistan A v Sri Lanka A, 2024
     
-    [Sri Lanka A vs Pakistan A](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-pakistan-a-v-sri-lanka-a-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")
+    [Sri Lanka A vs Pakistan A](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-pakistan-a-v-sri-lanka-a-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Lunch")
     
     2nd Unofficial Test
     
@@ -180,15 +224,15 @@ AllLive NowToday
     
 * Plunket Shield
     
-    [Wellington vs Otago](https://www.cricbuzz.com/live-cricket-scores/107465/wel-vs-otg-6th-match-plunket-shield "Wellington v Otago, 6th Match - Break")
+    [Wellington vs Otago](https://www.cricbuzz.com/live-cricket-scores/107465/wel-vs-otg-6th-match-plunket-shield "Wellington v Otago, 6th Match - Stumps")
     
     6th Match
     
-* [Central Districts vs Canterbury  LIVE](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Live")
+* [Central Districts vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Stumps")
     
     5th Match
     
-* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Break")
+* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Stumps")
     
     4th Match
     
@@ -204,7 +248,7 @@ AllLive NowToday
     
     33rd Match
     
-* [Sydney Sixers Women vs Perth Scorchers Women](https://www.cricbuzz.com/live-cricket-scores/101411/sysw-vs-prsw-34th-match-wbbl-2024 "Sydney Sixers Women v Perth Scorchers Women, 34th Match - Preview")
+* [Perth Scorchers Women vs Sydney Sixers Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/101411/prsw-vs-sysw-34th-match-wbbl-2024 "Perth Scorchers Women v Sydney Sixers Women, 34th Match - Live")
     
     34th Match
     
@@ -527,39 +571,39 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132476/ipl-2025-mega-auction-the-likely-trends "IPL 2025 Mega Auction: The Likely Trends")
+
+[IPL 2025 Mega Auction: The Likely Trends](https://www.cricbuzz.com/cricket-news/132476/ipl-2025-mega-auction-the-likely-trends "IPL 2025 Mega Auction: The Likely Trends")
+
+3h ago
+
   [](https://www.cricbuzz.com/cricket-news/132475/west-indies-eager-to-end-2024-on-winning-note-insists-andre-coley "West Indies eager to end 2024 on winning note, insists Andre Coley ")
 
 [West Indies eager to end 2024 on winning note, insists Andre Coley](https://www.cricbuzz.com/cricket-news/132475/west-indies-eager-to-end-2024-on-winning-note-insists-andre-coley "West Indies eager to end 2024 on winning note, insists Andre Coley ")
 
-14m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132474/thunder-maintain-top-spot-with-thrilling-win "Thunder maintain top spot with thrilling win")
 
 [Thunder maintain top spot with thrilling win](https://www.cricbuzz.com/cricket-news/132474/thunder-maintain-top-spot-with-thrilling-win "Thunder maintain top spot with thrilling win")
 
-14h ago
+20h ago
 
   [](https://www.cricbuzz.com/cricket-news/132473/salahuddin-to-essay-batting-coach-role-in-bangladeshs-tour-of-wi "Salahuddin to essay batting coach role in Bangladesh's tour of WI")
 
 [Salahuddin to essay batting coach role in Bangladesh's tour of WI](https://www.cricbuzz.com/cricket-news/132473/salahuddin-to-essay-batting-coach-role-in-bangladeshs-tour-of-wi "Salahuddin to essay batting coach role in Bangladesh's tour of WI")
 
-16h ago
+22h ago
 
   [](https://www.cricbuzz.com/cricket-news/132472/nitish-reddy-a-guy-to-keep-an-eye-on-this-series-morne-morkel "Nitish Reddy a guy to keep an eye on this series - Morne Morkel")
 
 [Nitish Reddy a guy to keep an eye on this series - Morne Morkel](https://www.cricbuzz.com/cricket-news/132472/nitish-reddy-a-guy-to-keep-an-eye-on-this-series-morne-morkel "Nitish Reddy a guy to keep an eye on this series - Morne Morkel")
 
-17h ago
+23h ago
 
   [](https://www.cricbuzz.com/cricket-news/132471/sri-lanka-take-series-2-0-after-pallekele-odi-called-off-due-to-rain "Sri Lanka take series 2-0 after Pallekele ODI called off due to rain")
 
 [Sri Lanka take series 2-0 after Pallekele ODI called off due to rain](https://www.cricbuzz.com/cricket-news/132471/sri-lanka-take-series-2-0-after-pallekele-odi-called-off-due-to-rain "Sri Lanka take series 2-0 after Pallekele ODI called off due to rain")
-
-1d ago
-
-  [](https://www.cricbuzz.com/cricket-news/132470/coetzee-handed-demerit-point-for-dissenting-wide-call-in-johannesburg-t20i "Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I")
-
-[Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I](https://www.cricbuzz.com/cricket-news/132470/coetzee-handed-demerit-point-for-dissenting-wide-call-in-johannesburg-t20i "Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I")
 
 1d ago
 
