@@ -22,6 +22,7 @@ Switch Language
 
 [](https://www.zalando.nl/cart/)
 
+* [Cyber Week](https://www.zalando.nl/outlet/)
 * [Nieuw](#)
 * [Kleding](https://www.zalando.nl/kleding/)
 * [Schoenen](https://www.zalando.nl/schoenen/)
@@ -31,7 +32,6 @@ Switch Language
 * [Sport](https://www.zalando.nl/sports/)
 * [Beauty](https://www.zalando.nl/beauty-verzorging/)
 * [Merken](#)
-* [Outlet](https://www.zalando.nl/outlet/)
 
 Gebruik de pijltjes om eerdere zoekopdrachten of voorstellen te selecteren
 
