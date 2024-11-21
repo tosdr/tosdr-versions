@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-[China may soon resume visa exemptions for Japanese nationals, reports say](https://www.japantimes.co.jp/business/2024/11/19/economy/china-japan-visa/ "China may soon resume visa exemptions for Japanese nationals, reports say")
+[Japan ranks last in romance satisfaction for second straight year](https://www.japantimes.co.jp/news/2024/11/20/japan/society/japan-love-satisfaction-survey/ "Japan ranks last in romance satisfaction for second straight year")
 
-  [![A view inside Beijing Daxing International Airport. Japanese nationals could soon visit China without a visa for up to 15 days, according to reports.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/435016.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A view inside Beijing Daxing International Airport. Japanese nationals could soon visit China without a visa for up to 15 days, according to reports.")](https://www.japantimes.co.jp/business/2024/11/19/economy/china-japan-visa/ "China may soon resume visa exemptions for Japanese nationals, reports say")
+  [![In a survey of 31 countries, Japan ranked last in terms of those who felt loved, with just 51% of respondents saying so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/20/435180.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In a survey of 31 countries, Japan ranked last in terms of those who felt loved, with just 51% of respondents saying so.")](https://www.japantimes.co.jp/news/2024/11/20/japan/society/japan-love-satisfaction-survey/ "Japan ranks last in romance satisfaction for second straight year")
 
-[Why Yamanashi gave up building a light-rail system on Mount Fuji](https://www.japantimes.co.jp/news/2024/11/19/japan/society/yamanashi-mount-fuji-lrt-scrapped/ "Why Yamanashi gave up building a light-rail system on Mount Fuji")
+[Ruling coalition and DPP strike last-minute deal over economic policy](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/economic-threshold-political-wrangling/ "Ruling coalition and DPP strike last-minute deal over economic policy")
 
-  [![A rubber-tired tram system, tentatively called the “Fuji Tram,” would run along magnetic markers, reducing environmental damage, according to the Yamanashi Prefectural Government.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/435001.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A rubber-tired tram system, tentatively called the “Fuji Tram,” would run along magnetic markers, reducing environmental damage, according to the Yamanashi Prefectural Government.")](https://www.japantimes.co.jp/news/2024/11/19/japan/society/yamanashi-mount-fuji-lrt-scrapped/ "Why Yamanashi gave up building a light-rail system on Mount Fuji")
+  [![DPP policy chief Makoto Mahaguchi speaks at the party's policy gathering in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435490.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP policy chief Makoto Mahaguchi speaks at the party's policy gathering in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/economic-threshold-political-wrangling/ "Ruling coalition and DPP strike last-minute deal over economic policy")
 
 Editors' Picks
 --------------
@@ -178,21 +178,21 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
   [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[China may soon resume visa exemptions for Japanese nationals, reports say](https://www.japantimes.co.jp/business/2024/11/19/economy/china-japan-visa/ "China may soon resume visa exemptions for Japanese nationals, reports say")
+[Japan ranks last in romance satisfaction for second straight year](https://www.japantimes.co.jp/news/2024/11/20/japan/society/japan-love-satisfaction-survey/ "Japan ranks last in romance satisfaction for second straight year")
 
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![A view inside Beijing Daxing International Airport. Japanese nationals could soon visit China without a visa for up to 15 days, according to reports.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/435016.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A view inside Beijing Daxing International Airport. Japanese nationals could soon visit China without a visa for up to 15 days, according to reports.")](https://www.japantimes.co.jp/business/2024/11/19/economy/china-japan-visa/ "China may soon resume visa exemptions for Japanese nationals, reports say")
+  [![In a survey of 31 countries, Japan ranked last in terms of those who felt loved, with just 51% of respondents saying so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/20/435180.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In a survey of 31 countries, Japan ranked last in terms of those who felt loved, with just 51% of respondents saying so.")](https://www.japantimes.co.jp/news/2024/11/20/japan/society/japan-love-satisfaction-survey/ "Japan ranks last in romance satisfaction for second straight year")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Why Yamanashi gave up building a light-rail system on Mount Fuji](https://www.japantimes.co.jp/news/2024/11/19/japan/society/yamanashi-mount-fuji-lrt-scrapped/ "Why Yamanashi gave up building a light-rail system on Mount Fuji")
+[Ruling coalition and DPP strike last-minute deal over economic policy](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/economic-threshold-political-wrangling/ "Ruling coalition and DPP strike last-minute deal over economic policy")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-  [![A rubber-tired tram system, tentatively called the “Fuji Tram,” would run along magnetic markers, reducing environmental damage, according to the Yamanashi Prefectural Government.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/435001.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A rubber-tired tram system, tentatively called the “Fuji Tram,” would run along magnetic markers, reducing environmental damage, according to the Yamanashi Prefectural Government.")](https://www.japantimes.co.jp/news/2024/11/19/japan/society/yamanashi-mount-fuji-lrt-scrapped/ "Why Yamanashi gave up building a light-rail system on Mount Fuji")
+  [![DPP policy chief Makoto Mahaguchi speaks at the party's policy gathering in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435490.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP policy chief Makoto Mahaguchi speaks at the party's policy gathering in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/economic-threshold-political-wrangling/ "Ruling coalition and DPP strike last-minute deal over economic policy")
 
 Podcast
 -------
@@ -213,9 +213,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Strategic subsea cables: the vulnerable links that enable our digital lives](https://www.japantimes.co.jp/news/2024/11/21/world/explainer-strategic-subsea-cables/ "Strategic subsea cables: the vulnerable links that enable our digital lives")
-
-47 mins ago
-
-[Nomura ex-employee charged with attempted murder](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/nomura-ex-employee-charge/ "Nomura ex-employee charged with attempted murder")
-
-56 mins ago
-
-[Nvidia's AI chip demand still booming but slowing sales worry investors](https://www.japantimes.co.jp/business/2024/11/21/tech/nvidia-ai-chip-growth/ "Nvidia's AI chip demand still booming but slowing sales worry investors")
+[Japanese court rejects injunction against flights at Atsugi Air Base](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/yokohama-court-rejection-atsugi/ "Japanese court rejects injunction against flights at Atsugi Air Base")
 
 1 hour ago
 
-[Korea Zinc takeover battle tests Seoul's resolve on tackling 'Korea discount'](https://www.japantimes.co.jp/business/2024/11/21/companies/korea-zinc-takeover-seoul-discount/ "Korea Zinc takeover battle tests Seoul's resolve on tackling 'Korea discount'")
+[Russia launched intercontinental ballistic missile during attack on Ukraine, Kyiv says](https://www.japantimes.co.jp/news/2024/11/21/world/russia-icbm-attack-on-dnipro-ukraine/ "Russia launched intercontinental ballistic missile during attack on Ukraine, Kyiv says")
 
 1 hour ago
 
-[Apple Daily: The Hong Kong tabloid that dared to challenge China](https://www.japantimes.co.jp/news/2024/11/21/world/politics/apple-daily-hong-kong-china/ "Apple Daily: The Hong Kong tabloid that dared to challenge China")
+[Lutnick's China ties draw fire after Trump taps him for U.S. trade roles](https://www.japantimes.co.jp/news/2024/11/21/world/politics/lutnick-china-ties-trump-trade/ "Lutnick's China ties draw fire after Trump taps him for U.S. trade roles")
 
 1 hour ago
+
+[Tokyo Metro’s overseas efforts begin in earnest with London deal](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
+
+1 hour ago
+
+[Around a quarter of Japan married couples in their 20s met through dating apps](https://www.japantimes.co.jp/news/2024/11/21/japan/society/young-couples-dating-app/ "Around a quarter of Japan married couples in their 20s met through dating apps")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
