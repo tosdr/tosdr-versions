@@ -1,6 +1,6 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -215,13 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [John Stossel Destructive Environmentalists](https://patriotpost.us/opinion/112165-destructive-environmentalists-2024-11-20)
 *      [Star Parker Young, Black, Hispanic Americans Would Opt Out of Social Security Even if It Wasn’t Broken](https://patriotpost.us/opinion/112164-young-black-hispanic-americans-would-opt-out-of-social-security-even-if-it-wasnt-broken-2024-11-20)
 *      [Ian Haworth Biden Wants War on His Way Out](https://patriotpost.us/opinion/112163-biden-wants-war-on-his-way-out-2024-11-20)
-*      [Byron York Schumer to GOP: Please Don’t Do What We Were Going to Do to You](https://patriotpost.us/opinion/112162-schumer-to-gop-please-dont-do-what-we-were-going-to-do-to-you-2024-11-20)
-*      [Betsy McCaughey Kamala’s Defeat Ushers in New, Law-and-Order Future for Cities](https://patriotpost.us/opinion/112161-kamalas-defeat-ushers-in-new-law-and-order-future-for-cities-2024-11-20)
-*      [Hans von Spakovsky Pennsylvania Officials Openly Admit to Trying to Steal Senate Seat](https://patriotpost.us/opinion/112158-pennsylvania-officials-openly-admit-to-trying-to-steal-senate-seat-2024-11-20)
-*      [Christine Flowers Advise and Consent as Important as Ever](https://patriotpost.us/opinion/112156-advise-and-consent-as-important-as-ever-2024-11-20)
-*      [Allen West Cleanup on Aisle 7](https://patriotpost.us/opinion/112154-cleanup-on-aisle-7-2024-11-20)
-*      [The Washington Stand Dems Continue Infighting Over Trans Issues After Election Loss](https://patriotpost.us/opinion/112160-dems-continue-infighting-over-trans-issues-after-election-loss-2024-11-20)
-*      [The Babylon Bee Kamala Asks Biden to Stop Doing Trump Dance in Cabinet Meetings](https://patriotpost.us/opinion/112152-kamala-asks-biden-to-stop-doing-trump-dance-in-cabinet-meetings-2024-11-20)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -235,7 +228,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
