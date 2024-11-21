@@ -195,7 +195,6 @@ BY USING THIS WEBSITE, YOU: (A) ASSUME ALL RISKS OF LOSSES OR DAMAGES RESULTING 
 * [Parent FAQs](https://factsmgt.com/parent-faqs/)
 
 * [Facebook](https://www.facebook.com/FACTSmgt)
-* [Twitter](https://twitter.com/FACTSMgt)
 * [Instagram](https://www.instagram.com/factsmgt1/)
 * [YouTube](https://www.youtube.com/@FACTSMGT)
 
