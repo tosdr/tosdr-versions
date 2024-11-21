@@ -75,21 +75,21 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Demo Shot of the LED RGB Pebble Pixel, Addressable string light/DC5V, 100 LED/pcs.](https://cdn-shop.adafruit.com/230x173/6026-06.jpg)[Adafruit NeoPixel Pebble / Seed LED Strand - 100 LEDs - 4" Pitch
+    ![Demo Shot of the SD to MicroSD Extender.](https://cdn-shop.adafruit.com/230x173/6060-01.jpg)[SD to MicroSD Extender
     
-    $17.50](https://www.adafruit.com/product/6026)
+    $6.95](https://www.adafruit.com/product/6060)
     
-    ![Pebble strand LED strips lit up yellow-pink and blue.](https://cdn-shop.adafruit.com/230x173/6023-04.jpg)[Adafruit NeoPixel Pebble / Seed LED Strand - 300 LEDs - 2" Pitch
+    ![Angled shot of 256GB NVMe SSD.](https://cdn-shop.adafruit.com/230x173/6090-00.jpg)[Raspberry Pi NVMe SSD - 256GB
     
-    $39.95](https://www.adafruit.com/product/6023)
+    $30.00](https://www.adafruit.com/product/6090)
     
-    ![Demo Shot of the LED RGB Pebble Pixel, Addressable string light/DC5V, 150 LED/pcs.](https://cdn-shop.adafruit.com/230x173/6025-03.jpg)[Adafruit NeoPixel Pebble / Seed LED Strand - 150 LEDs - 4" Pitch
+    ![Angled shot of lipo charger PCB.](https://cdn-shop.adafruit.com/230x173/6092-03.jpg)[Adafruit bq25185 USB / DC / Solar Charger with 3.3V Buck Board
     
-    $24.95](https://www.adafruit.com/product/6025)
+    $8.95](https://www.adafruit.com/product/6092)
     
-    ![Demo Shot of the LED RGB Pebble Pixel, Addressable string light/DC5V, 200 LED/pcs.](https://cdn-shop.adafruit.com/230x173/6024-03.jpg)[Adafruit NeoPixel Pebble / Seed LED Strand - 200 LEDs - 2" Pitch
+    ![Angled shot of black, square-shaped lipoly battery charger PCB.](https://cdn-shop.adafruit.com/230x173/6091-00.jpg)[Adafruit bq25185 USB / DC / Solar Lithium Ion/Polymer charger
     
-    $29.95](https://www.adafruit.com/product/6024)
+    $6.95](https://www.adafruit.com/product/6091)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Remember what the dormouse said: feed your head, feed your head”
+“ The great advantage about telling the truth is that nobody ever believes it”
 
-[Grace Slick](https://en.wikipedia.org/wiki/White_Rabbit_(song))
+[Dorothy L. Sayers](https://en.wikipedia.org/wiki/Dorothy_L._Sayers)
 
 [](https://www.adafruit.com/about)
 
