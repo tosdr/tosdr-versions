@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/07910991-94f2-45ca-85be-3649114b5e94/20241120T223558/07910991-94f2-45ca-85be-3649114b5e94_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/07910991-94f2-45ca-85be-3649114b5e94/20241120T223558/07910991-94f2-45ca-85be-3649114b5e94_360x203.jpg)](https://www.wqad.com/article/news/local/whiteys-ice-cream-sandwich-win/526-53cf7831-6562-499f-af2c-522218e0791a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d7168cb9-82c7-4efe-bb46-f1742d0fefd1/20241121T040815/d7168cb9-82c7-4efe-bb46-f1742d0fefd1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d7168cb9-82c7-4efe-bb46-f1742d0fefd1/20241121T040815/d7168cb9-82c7-4efe-bb46-f1742d0fefd1_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/iowa-dot-prepares-snow-plow-crews-winter/526-086808a9-97e3-4f4b-b567-1a9a747aa20a)
         
-        #### [Whitey's Ice Cream sandwich earns first-place honor in 2024 World Dairy Expo Championship](https://www.wqad.com/article/news/local/whiteys-ice-cream-sandwich-win/526-53cf7831-6562-499f-af2c-522218e0791a)
+        #### [Iowa DOT prepares snow plow crews for winter](https://www.wqad.com/article/news/local/public-safety/iowa-dot-prepares-snow-plow-crews-winter/526-086808a9-97e3-4f4b-b567-1a9a747aa20a) [![](https://media.tegna-media.com/assets/WQAD/images/d7168cb9-82c7-4efe-bb46-f1742d0fefd1/20241121T040815/d7168cb9-82c7-4efe-bb46-f1742d0fefd1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d7168cb9-82c7-4efe-bb46-f1742d0fefd1/20241121T040815/d7168cb9-82c7-4efe-bb46-f1742d0fefd1_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/iowa-dot-prepares-snow-plow-crews-winter/526-086808a9-97e3-4f4b-b567-1a9a747aa20a)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_360x203.jpg)](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
+        #### [Snow plow crews with the Iowa DOT are getting ready for winter](https://www.wqad.com/article/news/local/public-safety/iowa-dot-prepares-snow-plow-crews-winter/526-086808a9-97e3-4f4b-b567-1a9a747aa20a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/15542ad3-0ee1-4618-9628-3bf3c4f2caac/20241121T041344/15542ad3-0ee1-4618-9628-3bf3c4f2caac_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/15542ad3-0ee1-4618-9628-3bf3c4f2caac/20241121T041344/15542ad3-0ee1-4618-9628-3bf3c4f2caac_360x203.jpg)](https://www.wqad.com/article/news/community/community-gifts-new-bed-davenport-shooting-victim/526-bf18f86c-f55a-46e5-b91e-b2ccb307ead0)
         
-        #### [Holiday happenings: Quad Cities events to get you in the holiday mood](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
+        #### ['Don't give up' l Community helps gift new bed for Davenport shooting victim](https://www.wqad.com/article/news/community/community-gifts-new-bed-davenport-shooting-victim/526-bf18f86c-f55a-46e5-b91e-b2ccb307ead0)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,11 +57,11 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/VERIFY/images/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb_16x9.jpg) ![](https://media.tegna-media.com/assets/VERIFY/images/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb_360x203.jpg)](https://www.wqad.com/article/weather/how-to-stay-warm-protect-your-home-freezing-cold-temperatures-in-winter/536-05d13af0-a6d9-4190-bdb2-2dc1ef4555a3)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0762dac0-a7a7-40b4-89d5-a660c6d85c88/20241120T235023/0762dac0-a7a7-40b4-89d5-a660c6d85c88_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0762dac0-a7a7-40b4-89d5-a660c6d85c88/20241120T235023/0762dac0-a7a7-40b4-89d5-a660c6d85c88_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [VERIFYING 5 claims about staying warm and protecting your home from the cold](https://www.wqad.com/article/weather/how-to-stay-warm-protect-your-home-freezing-cold-temperatures-in-winter/536-05d13af0-a6d9-4190-bdb2-2dc1ef4555a3)
+        #### [Weather Impact Alert: Gusty snow showers to reduce visibility throughout the evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/wind-gusts-45-mph-thursday-storm-track-8-weather-impact-alert/526-a1d5b40b-159e-4c2c-b08e-5c2aed0245c8)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/wind-gusts-45-mph-thursday-storm-track-8-weather-impact-alert/526-a1d5b40b-159e-4c2c-b08e-5c2aed0245c8)
         
         #### [Wind gusts could reach 45 mph on Thursday: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/wind-gusts-45-mph-thursday-storm-track-8-weather-impact-alert/526-a1d5b40b-159e-4c2c-b08e-5c2aed0245c8)
         
