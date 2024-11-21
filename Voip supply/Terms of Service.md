@@ -262,7 +262,6 @@ We may ask for this help code:
     * [Clarity](https://www.voipsupply.com/manufacturer/clarity)
     * [CounterPath](https://www.voipsupply.com/manufacturer/counterpath)
     * [CyberData](https://www.voipsupply.com/manufacturer/cyberdata)
-    * [Digium](https://www.voipsupply.com/manufacturer/digium)
     * [EnGenius Technologies](https://www.voipsupply.com/manufacturer/engenius-technologies)
     * [Fanvil](https://www.voipsupply.com/manufacturer/fanvil)
     * [FreePBX](https://www.voipsupply.com/manufacturer/freepbx)
