@@ -995,14 +995,14 @@ QUICK BUY! Get 15% off on medicines\*
     
 * [Anti-Pollution](https://www.1mg.com/categories/anti-pollution-237)
     
-    * [Air Purifiers](https://www.1mg.com/categories/anti-pollution/air-purifiers-882)
-    * [Humidifier](https://www.1mg.com/categories/anti-pollution/humidifier-64)
-    * [Nasal Drops & Sprays](https://www.1mg.com/categories/anti-pollution/nasal-drops-sprays-669)
     * [Respiratory & Surgical Mask](https://www.1mg.com/categories/anti-pollution/respiratory-surgical-mask-158)
     * [Face Shield](https://www.1mg.com/categories/anti-pollution/respiratory-surgical-mask/face-shield-633)
     * [Surgical Masks](https://www.1mg.com/categories/anti-pollution/respiratory-surgical-mask/surgical-masks-304)
     * [N95 Masks](https://www.1mg.com/categories/anti-pollution/respiratory-surgical-mask/n95-masks-675)
+    * [Air Purifiers](https://www.1mg.com/categories/anti-pollution/air-purifiers-882)
     * [Vaporizers & Nebulizers](https://www.1mg.com/categories/anti-pollution/vaporizers-nebulizers-186)
+    * [Nasal Drops & Sprays](https://www.1mg.com/categories/anti-pollution/nasal-drops-sprays-669)
+    * [Humidifier](https://www.1mg.com/categories/anti-pollution/humidifier-64)
     * [Oxygen Concentrators & Cans](https://www.1mg.com/categories/anti-pollution/oxygen-concentrators-cans-308)
     
 * [Stomach Care](https://www.1mg.com/categories/stomach-care-30)
