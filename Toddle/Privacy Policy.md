@@ -60,7 +60,7 @@ Privacy Policy | Toddle
         
         Explore Toddle for your school
         
-        [Get a demo](https://toddleapp.com/book-a-free-demo/)
+        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
         
         ![](https://www.toddleapp.com/wp-content/uploads/2024/07/MacBook-Pro.webp)
         
@@ -88,7 +88,7 @@ Privacy Policy | Toddle
         
         Plan your curriculum, assess student learning and so much more - all from one place.
         
-        [Get a demo](https://toddleapp.com/book-a-free-demo/)
+        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
         
         ![](https://www.toddleapp.com/wp-content/uploads/2024/09/Group-27574.webp)
         
@@ -160,7 +160,7 @@ Privacy Policy | Toddle
         
         Explore Toddle for your school
         
-        [Get a demo](https://toddleapp.com/book-a-free-demo/)
+        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
         
         ![](https://www.toddleapp.com/wp-content/uploads/2024/07/MacBook-Pro.webp)
         
@@ -188,7 +188,7 @@ Privacy Policy | Toddle
         
         Plan your curriculum, assess student learning and so much more - all from one place.
         
-        [Get a demo](https://toddleapp.com/book-a-free-demo/)
+        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
         
         ![](https://www.toddleapp.com/wp-content/uploads/2024/09/Group-27574.webp)
         
@@ -307,14 +307,14 @@ PLATFORM
 
 Explore Toddle for your school
 
-[Get a demo](https://toddleapp.com/book-a-free-demo/)
+[Get a demo](https://www.toddleapp.com/book-a-free-demo/)
 
 ![](https://www.toddleapp.com/wp-content/uploads/2024/09/Group-27574.webp)
 
 Our Privacy Policy
 ==================
 
-Last Updated: November 21, 2024
+Last Updated: November 20, 2024
 
 It is our mission to help teachers deliver meaningful learning experiences. To achieve this, we build easy to use tools that help make things simple for teachers and empower them to focus on the important things. It is hence critical that we create a safe and secure environment where teachers, children, and parents freely share content and ideas. Creating such a safe and secure environment is central to the success of our endeavours.
 
@@ -326,10 +326,10 @@ It is our mission to help teachers deliver meaningful learning experiences. To a
 
 ![Privacy Policy illustration](https://www.toddleapp.com/wp-content/uploads/2021/04/pp_hero-3b524a28802035bc74268e25631941a2.png)
 
-Introduction 
--------------
+Introduction
+------------
 
-This Privacy Policy governs the use of data collected by our websites [toddleapp.com](https://toddleapp.com/), [web.toddleapp.com](https://web.toddleapp.com/), [web.toddleapp.cn](https://web.toddleapp.cn/), and our apps – Toddle Family, Toddle Educator and Toddle Student (hereafter, collectively referred to as “the Service”, “Toddle”, or, “the Toddle Service”).
+This Privacy Policy governs the use of data collected by our websites [toddleapp.com](https://www.toddleapp.com/), [web.toddleapp.com](https://web.toddleapp.com/), [web.toddleapp.cn](https://web.toddleapp.cn/), and our apps - Toddle Family, Toddle Educator and Toddle Student (hereafter, collectively referred to as “the Service”, “Toddle”, or, “the Toddle Service”).
 
 By using Toddle, you are agreeing to this Privacy Policy. If you do not agree, please refrain from using Toddle. You can contact us anytime with queries about this Privacy Policy at [privacy@toddleapp.com](mailto:privacy@toddleapp.com).
 
@@ -347,7 +347,7 @@ This includes all the content added to the class journal.
 This includes the Programme of Inquiry, Unit Plans, Learning Experiences, Assessments, Schedule, Reflections created by the teachers using the planning elements on Toddle. The external resources added by the teacher are not included in this.
 
 **“Messages”**  
-This includes the messages sent via Toddle – both from parents to teachers and vice- versa.
+This includes the messages sent via Toddle - both from parents to teachers and vice- versa.
 
 **“Student Portfolio”**  
 This includes all the content added to a specific student’s portfolio.
@@ -377,7 +377,7 @@ Toddle is a Data Processor. Toddle stores and manages information according to t
 
 ### What is Toddle?
 
-Toddle is one stop solution for educators that seamlessly integrates curriculum planning, portfolios, evidence collection, progress reports and communication. Toddle has a web end as well as a mobile end. The Toddle platform has 4 different types of users – Teachers, Students, Parents, and School Administrators. Below is a brief summary of what each type of user can use the platform for:
+Toddle is one stop solution for educators that seamlessly integrates curriculum planning, portfolios, evidence collection, progress reports and communication. Toddle has a web end as well as a mobile end. The Toddle platform has 4 different types of users - Teachers, Students, Parents, and School Administrators. Below is a brief summary of what each type of user can use the platform for:
 
 **Teachers:** Teachers use Toddle for planning (Unit Plans, Lesson Plans etc), for collecting evidence of learning, for continuous reflection, for assessment evaluation and for contributing to student portfolios.
 
@@ -413,7 +413,7 @@ Toddle partners with and is certified by iKeepSafe for compliance with FERPA.
 
 FERPA is the “Family Education Rights and Privacy Act”. It governs the terms to protect personally identifiable information (PII) of students. Data collected by Toddle may include personally identifiable information from “education records” (Education Records in FERPA refers to documents, digital or otherwise, that may contain information related to a student and maintained by an educational agency).
 
-Under this Privacy Policy, you designate Toddle as a “School Official” (School Official in FERPA refers to an agency that provides a service to schools for use and maintenance of FERPA records, is under the direct control of the school and uses PII only for authorised purposes). Toddle agrees to comply with FERPA. You can find more details on Toddle and FERPA [here](https://toddleapp.com/ferpa).
+Under this Privacy Policy, you designate Toddle as a "School Official" (School Official in FERPA refers to an agency that provides a service to schools for use and maintenance of FERPA records, is under the direct control of the school and uses PII only for authorised purposes). Toddle agrees to comply with FERPA. You can find more details on Toddle and FERPA [here](https://www.toddleapp.com/ferpa).
 
 ### Compliance with COPPA
 
@@ -421,11 +421,11 @@ Under this Privacy Policy, you designate Toddle as a “School Official” (Scho
 
 Toddle partners with and is certified by iKeepSafe for compliance with COPPA.
 
-As a third party operator Toddle relies on School Consent for all underage children under COPPA.  Toddle operates as a School Official under the FERPA regulations and complies with these regulations as it relates to children under the age of 13.  If you are a school or teacher and you would like to obtain direct parental consent from the parent, Toddle has provided a consent form which can be downloaded [here](https://www.toddleapp.com/wp-content/uploads/2023/06/Parental+Consent+Form.pdf). We do not encourage children to share their work publicly. We continuously review and update our practices to ensure compliance with COPPA requirements. You can find more details on Toddle and COPPA [here](https://toddleapp.com/coppa).
+As a third party operator Toddle relies on School Consent for all underage children under COPPA.  Toddle operates as a School Official under the FERPA regulations and complies with these regulations as it relates to children under the age of 13.  If you are a school or teacher and you would like to obtain direct parental consent from the parent, Toddle has provided a consent form which can be downloaded [here](https://www.toddleapp.com/wp-content/uploads/2023/06/Parental+Consent+Form.pdf). We do not encourage children to share their work publicly. We continuously review and update our practices to ensure compliance with COPPA requirements. You can find more details on Toddle and COPPA [here](https://www.toddleapp.com/coppa).
 
 ### Compliance with GDPR
 
-Toddle collects minimal information from you and only uses it for the purposes explicitly called out in the Privacy Policy. The data collected is stored securely using industry standards. All the details with regards to the nature of the data collected and the reason for collecting it can be found in the Privacy Policy. Toddle executes a Data Processing Agreement with all the schools in the EU/ EEA and Switzerland Regions. You can find more details on Toddle and GDPR [here](https://toddleapp.com/gdpr).
+Toddle collects minimal information from you and only uses it for the purposes explicitly called out in the Privacy Policy. The data collected is stored securely using industry standards. All the details with regards to the nature of the data collected and the reason for collecting it can be found in the Privacy Policy. Toddle executes a Data Processing Agreement with all the schools in the EU/ EEA and Switzerland Regions. You can find more details on Toddle and GDPR [here](https://www.toddleapp.com/gdpr).
 
 ### Compliance with California Consumer Privacy Act (CCPA)
 
@@ -435,15 +435,15 @@ As a service provider, Toddle is dedicated to complying with the California Cons
 
 We are committed to complying with the Digital Personal Data Protection Act, 2023 (DPDPA), a comprehensive legislation that governs the collection, use, storage, and disclosure of personal data in India.
 
-To ensure compliance with DPDPA, we have implemented robust data security practices and procedures. We only collect minimal data necessary for our services and store it securely using industry-standard measures. Our Privacy Policy outlines what data we collect and how we use it. Additionally, we have established transparent data governance processes to ensure responsible data handling. Learn more about Toddle and DPDPA [here](https://toddleapp.com/dpdpa/).
+To ensure compliance with DPDPA, we have implemented robust data security practices and procedures. We only collect minimal data necessary for our services and store it securely using industry-standard measures. Our Privacy Policy outlines what data we collect and how we use it. Additionally, we have established transparent data governance processes to ensure responsible data handling. Learn more about Toddle and DPDPA [here](https://www.toddleapp.com/dpdpa/).
 
 ### Compliance with Australian Privacy Principles
 
-Toddle is committed to maintaining the highest standards of privacy protection and complying with the Australian Privacy Principles (APPs) set out in the Privacy Act 1988. We only gather and handle personal information when necessary for delivering our services, subject to your explicit consent. Your data is securely stored using industry-standard methods and we are open about how we collect, use, and disclose it as outlined in our Privacy Policy. More details about our conformity with the APPs can be found [here](https://toddleapp.com/australianprivacyprinciples/).
+Toddle is committed to maintaining the highest standards of privacy protection and complying with the Australian Privacy Principles (APPs) set out in the Privacy Act 1988. We only gather and handle personal information when necessary for delivering our services, subject to your explicit consent. Your data is securely stored using industry-standard methods and we are open about how we collect, use, and disclose it as outlined in our Privacy Policy. More details about our conformity with the APPs can be found [here](https://www.toddleapp.com/australianprivacyprinciples/).
 
 ### Compliance with KSA’s Personal Data Protection Law (PDPL)
 
-At Toddle, we are dedicated to ensuring that your personal data is handled with the utmost care and in accordance with the Kingdom of Saudi Arabia’s Personal Data Protection Law (PDPL). Our approach to data protection is guided by the principles and rights outlined in PDPL, ensuring transparency, security, and respect for your personal information. Learn more about Toddle and KSA PDPL [here](https://toddleapp.com/ksapdpl/).
+At Toddle, we are dedicated to ensuring that your personal data is handled with the utmost care and in accordance with the Kingdom of Saudi Arabia’s Personal Data Protection Law (PDPL). Our approach to data protection is guided by the principles and rights outlined in PDPL, ensuring transparency, security, and respect for your personal information. Learn more about Toddle and KSA PDPL [here](https://www.toddleapp.com/ksapdpl/).
 
 ### Data collected by Toddle
 
@@ -461,9 +461,9 @@ Below is a list of data that we collect from our different users and and how we 
 
 **“Academic Plans”**: This includes the Programme of Inquiry, Unit Plans, Learning Experiences, Schedule, Reflections created by the teachers using all the planning elements as specified in the customisable templates. The external resources added by the teacher are not included in this.
 
-**“Messages”**: This includes the messages sent via Toddle – both from parents to teachers and vice- versa.
+**“Messages”**: This includes the messages sent via Toddle - both from parents to teachers and vice- versa.
 
-**“Student Portfolio”**: This includes all the content added to a specific student’s portfolio – photos, videos, notes, comments etc.
+**“Student Portfolio”**: This includes all the content added to a specific student’s portfolio - photos, videos, notes, comments etc.
 
 **“Student Data”**: Any data collected by us that can be linked back to an individual student. This contains name, age, Email ID, name of parents and the school name.
 
@@ -491,7 +491,7 @@ We use the collected data only to provide services to you as laid out in the Pri
 * For our users in Australia, we store the data in servers in Sydney to ensure compliance with APA.
 * For our users in China, we store the data in servers in Beijing to ensure compliance with PIPL.
 * For users in other regions, they can opt for data storage in any of the following locations:    
-     – Australia, Ireland, Singapore, United Arab Emirates, and United States of America
+     - Australia, Ireland, Singapore, United Arab Emirates, and United States of America
 
 ### What is the data NOT collected for?
 
@@ -506,20 +506,20 @@ Toddle will retain your information for 7 years or as long as necessary to fulfi
 
 ### When does Toddle share data with third parties?
 
-We use a few third-party services in order to operate and improve Toddle. All these services are contractually prohibited from using that information for any other purpose other than to provide the Toddle service. You can find a list of our third party service providers [here](https://toddleapp.com/3rdparty/).
+We use a few third-party services in order to operate and improve Toddle. All these services are contractually prohibited from using that information for any other purpose other than to provide the Toddle service. You can find a list of our third party service providers [here](https://www.toddleapp.com/3rdparty/).
 
 In case of the sale, merger, bankruptcy, sale of assets or reorganisation of our company, we may disclose or transfer your data. We will notify you of the same and the terms of this Privacy Policy will apply to your data when transferred to the new entity.
 
 ### Third Party Analytics
 
-* In order to improve your experience with Toddle, we collect and use aggregate data about usage patterns of how you use Toddle – for example, how you interact with various features on a page, the buttons that you click, the time that you spend on a page, etc. This is done to streamline existing user experience and to provide you a better experience of using Toddle.
+* In order to improve your experience with Toddle, we collect and use aggregate data about usage patterns of how you use Toddle - for example, how you interact with various features on a page, the buttons that you click, the time that you spend on a page, etc. This is done to streamline existing user experience and to provide you a better experience of using Toddle.
     
 * We use a small number of third-party services to collect and analyse this data (such as Google Analytics, Sentry). These services are contractually obligated only to use data about your usage of Toddle to provide analytics services to us and are prohibited from sharing it or using it for other purposes. You can find details of all the third party analytics services that we use [here](https://toddleapp.com/3rdparty).
     
 
 ### **Toddle’s Use of AI**
 
-This section explains how we collect, use, disclose, and protect your information when using Toddle AI’s services. Please read this section carefully to understand how we handle your data. Kindly note that this section is only applicable if your school has subscribed to using Toddle AI. By accessing or using Toddle AI’s services, you agree to the practices described in this section:
+This section explains how we collect, use, disclose, and protect your information when using Toddle AI’s services. Please read this section carefully to understand how we handle your data. Kindly note that this section is only applicable if your school has subscribed to using Toddle AI. By accessing or using Toddle AI's services, you agree to the practices described in this section:
 
 1. **Information Collection and Use**
 
@@ -549,11 +549,11 @@ Toddle AI may update this policy from time to time to reflect changes in our pra
 
 7. **Contact Information**
 
-If you have any questions, concerns, or requests regarding this policy or Toddle AI’s use of LLMs, please contact us at [privacy@toddleapp.com](mailto:privacy@toddleapp.com)
+If you have any questions, concerns, or requests regarding this policy or Toddle AI's use of LLMs, please contact us at [privacy@toddleapp.com](mailto:privacy@toddleapp.com)
 
 ### Use of Cookies and Advertising
 
-We use Cookies and other similar services (such as Local Storage) to keep you logged in to Toddle, customize your Toddle experience, understand how you use Toddle, and promote Toddle to relevant teachers and schools. On the Toddle Website ([toddleapp.com](https://toddleapp.com/)), we also use the Facebook pixel to understand how visitors, including those who may be directed from our apps, use our website. Information collected through the Facebook pixel may be shared with Facebook. We do not use these technologies on our website ([web.toddleapp.com](https://web.toddleapp.com/)) and our apps for advertising or marketing purposes, and we do not knowingly collect personal information from children under 13 without verifiable parental consent.
+We use Cookies and other similar services (such as Local Storage) to keep you logged in to Toddle, customize your Toddle experience, understand how you use Toddle, and promote Toddle to relevant teachers and schools. On the Toddle Website ([toddleapp.com](https://www.toddleapp.com/)), we also use the Facebook pixel to understand how visitors, including those who may be directed from our apps, use our website. Information collected through the Facebook pixel may be shared with Facebook. We do not use these technologies on our website ([web.toddleapp.com](https://web.toddleapp.com/)) and our apps for advertising or marketing purposes, and we do not knowingly collect personal information from children under 13 without verifiable parental consent.
 
 You can remove or disable cookies via your browser settings, in which case your experience with Toddle will not be optimal.
 
