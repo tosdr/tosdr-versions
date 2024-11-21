@@ -43,7 +43,7 @@
         * * #### Integrations
                 
     * * * [AI DetectorThe only enterprise solution designed to verify whether content was written by a person or AI.](https://copyleaks.com/ai-content-detector)
-            * [Plagiarism DetectorInstantly detect direct plagiarism, paraphrased content, similar text, and verify originality.](https://copyleaks.com/plagiarism-detector)
+            * [Plagiarism CheckerInstantly detect plagiarism, paraphrased content, and similar text while verifying originality.](https://copyleaks.com/plagiarism-checker)
             * [Writing AssistantEmpower error-free writing with suggestions on sentence structure, mechanics, word choice, and more.](https://copyleaks.com/writing-assistant)
         * * [API IntegrationAward-winning AI & Plagiarism Detection and Writing Assistance to ensure complete content integrity and transparency.](https://copyleaks.com/api)
             * [LMS IntegrationThoroughly scan for multiple forms of plagiarism, AI-generated content, and more from your educational organization’s LMS.](https://copyleaks.com/learning-management-systems)
@@ -58,17 +58,17 @@
         * * [News & MediaThe latest Copyleaks announcements, updates, news and media features.](https://copyleaks.com/about-us/media)
         * * [AI Testing MethodologiesExplore the various testing methodologies used to assess the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
         * * [Help CenterGet the support you need for integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![A Classroom with floating images signifying the use of AI](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20301'%3E%3C/svg%3E)
+        * * [![AI prompt bubbles and a computer screen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201485%201116'%3E%3C/svg%3E)
+                
+                ![AI prompt bubbles and a computer screen](https://copyleaks.com/wp-content/uploads/2024/11/AI_Prompts.webp)](https://copyleaks.com/blog/the-process-of-ai-prompt-generation)
+                
+                [From Data to Text: The Process of AI Prompt Generation](https://copyleaks.com/blog/the-process-of-ai-prompt-generation)
+                
+                [![A Classroom with floating images signifying the use of AI](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20301'%3E%3C/svg%3E)
                 
                 ![A Classroom with floating images signifying the use of AI](https://copyleaks.com/wp-content/uploads/2023/12/AI_In_The_classroom.png)](https://copyleaks.com/blog/talking-to-students-about-ai)
                 
                 [Bringing AI Into the Classroom: Talking to Students About AI](https://copyleaks.com/blog/talking-to-students-about-ai)
-                
-                [![Paywalled content locks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%20483'%3E%3C/svg%3E)
-                
-                ![Paywalled content locks](https://copyleaks.com/wp-content/uploads/2024/10/Access_Denied_Article_Hero.webp)](https://copyleaks.com/blog/exploring-ais-interaction-with-paywalled-content)
-                
-                [Access Denied? Not Quite. Exploring AI’s Interaction with Paywalled Content](https://copyleaks.com/blog/exploring-ais-interaction-with-paywalled-content)
                 
     * * * #### Learn
                 
@@ -261,7 +261,7 @@ Products
 
 [AI Detector](https://copyleaks.com/ai-content-detector)
 
-[Plagiarism Detector](https://copyleaks.com/plagiarism-detector)
+[Plagiarism Checker](https://copyleaks.com/plagiarism-checker)
 
 [Writing Assistant](https://copyleaks.com/writing-assistant)
 
@@ -286,8 +286,6 @@ Company
 [Affiliates](https://copyleaks.com/affiliate)
 
 Resources
-
-[Plagiarism Checker](https://copyleaks.com/plagiarism-checker)
 
 [Help Center](https://help.copyleaks.com/)
 
