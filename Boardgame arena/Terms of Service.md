@@ -2861,7 +2861,7 @@ Top
 * [Notify your browser](https://boardgamearena.com/preferences?section=notifications)
 * [Subscribe to our newsletter](https://boardgamearena.com/preferences?section=email)
 
-Board Game Arena 1203 [Board Game Arena](https://boardgamearena.com/) • Release 241120-1145-ST • [Legal information](https://boardgamearena.com/legal?section=legal) • [Terms of Use](https://boardgamearena.com/legal?section=tosv) • [Terms of Services](https://boardgamearena.com/legal?section=tos) • [Privacy](https://boardgamearena.com/legal?section=ppac) • [Cookies](https://boardgamearena.com/legal?section=cook) [π](#)
+Board Game Arena 124 [Board Game Arena](https://boardgamearena.com/) • Release 241120-1145-ST • [Legal information](https://boardgamearena.com/legal?section=legal) • [Terms of Use](https://boardgamearena.com/legal?section=tosv) • [Terms of Services](https://boardgamearena.com/legal?section=tos) • [Privacy](https://boardgamearena.com/legal?section=ppac) • [Cookies](https://boardgamearena.com/legal?section=cook) [π](#)
 
 1
 
