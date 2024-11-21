@@ -62,7 +62,7 @@
     * [Integrations](https://bitwarden.com/integrations/)
     
 
-[Enterprise sales](https://bitwarden.com/contact-sales/)[Get started](https://vault.bitwarden.com/#/register?layout=default)[Log in](https://vault.bitwarden.com/#/login)
+[Enterprise sales](https://bitwarden.com/contact-sales/)[Get started](https://bitwarden.com/go/start-free/)[Log in](https://vault.bitwarden.com/#/login)
 
 [](https://bitwarden.com/)
 
@@ -74,7 +74,7 @@
 * Resources
     
 
-[Enterprise sales](https://bitwarden.com/contact-sales/)[Get started](https://vault.bitwarden.com/#/register?layout=default)[Log in](https://vault.bitwarden.com/#/login)
+[Enterprise sales](https://bitwarden.com/contact-sales/)[Get started](https://bitwarden.com/go/start-free/)[Log in](https://vault.bitwarden.com/#/login)
 
 [](#bitwarden-inc-privacy-policy "#bitwarden-inc-privacy-policy")
 
