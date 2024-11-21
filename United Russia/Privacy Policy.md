@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Женское движение Единой России» приняло участие в международном форуме «Содружество моды»](https://cdn.er.ru/media/news/November2024/QmD7KzGum3wJgIxnuhGO-small.jpg)](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-prinyalo-uchastie-v-mezhdunarodnom-forume-sodruzhestvo-mody)
+[![Дмитрий Медведев – Ростиславу Гольдштейну: Рассчитываем, что вы сможете показать хорошие результаты на выборах в Коми и добиваться целей, установленных народной программой «Единой России»](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/dmitrij-medvedev-rostislavu-goldshtejnu-rasschityvaem-chto-vy-smozhete-pokazat-horoshie-rezultaty-na-vyborah-v-komi-i-dobivatsya-celej-ustanovlennyh-narodnoj-programmoj-edinoj-rossii)
 
-[«Женское движение Единой России» приняло участие в международном форуме «Содружество моды»](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-prinyalo-uchastie-v-mezhdunarodnom-forume-sodruzhestvo-mody)
+[Дмитрий Медведев – Ростиславу Гольдштейну: Рассчитываем, что вы сможете показать хорошие результаты на выборах в Коми и добиваться целей, установленных народной программой «Единой России»](https://er.ru/activity/news/dmitrij-medvedev-rostislavu-goldshtejnu-rasschityvaem-chto-vy-smozhete-pokazat-horoshie-rezultaty-na-vyborah-v-komi-i-dobivatsya-celej-ustanovlennyh-narodnoj-programmoj-edinoj-rossii)
 
-[#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407)
+[#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Гольдштейн](https://er.ru/activity/news?tags%5B0%5D=1795) [#Республика Коми](https://er.ru/activity/news?tags%5B0%5D=1026)
 
-20.11.24
+Сегодня 12:51
 
-[![Владимир Якушев обратил внимание на необходимость закрепить «мастер-план» на законодательном уровне](https://cdn.er.ru/media/news/November2024/iD7C2zS8MiAcDM2XHEkZ-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-obratil-vnimanie-na-neobhodimost-zakrepit-master-plan-na-zakonodatelnom-urovne)
+[![Евгений Первышов, врио губернатора Тамбовской области: Безусловный приоритет – работа с участниками СВО](https://cdn.er.ru/media/news/November2024/GGmAzqfTjKOr3VksagrC-small.JPG)](https://er.ru/activity/news/evgenij-pervyshov-vrio-gubernatora-tambovskoj-oblasti-bezuslovnyj-prioritet-rabota-s-uchastnikami-svo)
 
-[Владимир Якушев обратил внимание на необходимость закрепить «мастер-план» на законодательном уровне](https://er.ru/activity/news/vladimir-yakushev-obratil-vnimanie-na-neobhodimost-zakrepit-master-plan-na-zakonodatelnom-urovne)
+[Евгений Первышов, врио губернатора Тамбовской области: Безусловный приоритет – работа с участниками СВО](https://er.ru/activity/news/evgenij-pervyshov-vrio-gubernatora-tambovskoj-oblasti-bezuslovnyj-prioritet-rabota-s-uchastnikami-svo)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СоветФедерации](https://er.ru/activity/news?tags%5B0%5D=67479) [#мастер-план](https://er.ru/activity/news?tags%5B0%5D=1092102) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327)
+[#Первышов](https://er.ru/activity/news?tags%5B0%5D=101048) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#собеседования](https://er.ru/activity/news?tags%5B0%5D=118216)
 
-20.11.24
+Сегодня 12:39
 
-[![Госдума приняла в первом чтении законопроект «Единой России» о бесплатной юридической помощи для многодетных семей](https://cdn.er.ru/media/news/November2024/a2wcIWyAC4RLtL3UsaoH-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-besplatnoj-yuridicheskoj-pomoshi-dlya-mnogodetnyh-semej)
+[![Мария Костюк, врио главы ЕАО: Задачи «Единой России» в регионе будут выполнены](https://cdn.er.ru/media/news/November2024/AvoykdwHZUfykL1WMI7T-small.JPG)](https://er.ru/activity/news/mariya-kostyuk-vrio-glavy-eao-zadachi-edinoj-rossii-v-regione-budut-vypolneny)
 
-[Госдума приняла в первом чтении законопроект «Единой России» о бесплатной юридической помощи для многодетных семей](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-besplatnoj-yuridicheskoj-pomoshi-dlya-mnogodetnyh-semej)
+[Мария Костюк, врио главы ЕАО: Задачи «Единой России» в регионе будут выполнены](https://er.ru/activity/news/mariya-kostyuk-vrio-glavy-eao-zadachi-edinoj-rossii-v-regione-budut-vypolneny)
 
-[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#бесплатнаяюридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=120547) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Еврейская АО](https://er.ru/activity/news?tags%5B0%5D=5312) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#собеседование](https://er.ru/activity/news?tags%5B0%5D=10221)
 
-20.11.24
+Сегодня 12:33
 
-[![«Единая Россия» поддержала создание единой программы воспитания в детских лагерях](https://cdn.er.ru/media/news/November2024/Ula7Rg5X8V0x0nAdolDP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podderzhala-sozdanie-edinoj-programmy-vospitaniya-v-detskih-lageryah)
+[![Владимир Якушев о новых кандидатах в секретари региональных отделений «Единой России»: В их лице мы получим серьёзную поддержку и опору](https://cdn.er.ru/media/news/November2024/At5jKqiXahVFtpeLH8PE-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-o-novyh-kandidatah-v-sekretari-regionalnyh-otdelenij-edinoj-rossii-v-ih-lice-my-poluchim-seryoznuyu-podderzhku-i-oporu)
 
-[«Единая Россия» поддержала создание единой программы воспитания в детских лагерях](https://er.ru/activity/news/edinaya-rossiya-podderzhala-sozdanie-edinoj-programmy-vospitaniya-v-detskih-lageryah)
+[Владимир Якушев о новых кандидатах в секретари региональных отделений «Единой России»: В их лице мы получим серьёзную поддержку и опору](https://er.ru/activity/news/vladimir-yakushev-o-novyh-kandidatah-v-sekretari-regionalnyh-otdelenij-edinoj-rossii-v-ih-lice-my-poluchim-seryoznuyu-podderzhku-i-oporu)
 
-[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#детскийлагерь](https://er.ru/activity/news?tags%5B0%5D=110135) [#летнийотдыхдетей](https://er.ru/activity/news?tags%5B0%5D=134120) [#образование](https://er.ru/activity/news?tags%5B0%5D=57)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#секретари](https://er.ru/activity/news?tags%5B0%5D=11802) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#кандидаты](https://er.ru/activity/news?tags%5B0%5D=130915) [#собеседование](https://er.ru/activity/news?tags%5B0%5D=10221)
 
-20.11.24
+Сегодня 12:28
 
-[![Владимир Якушев о расселении сирот: Нужно максимально задействовать в регионах жилой фонд, который построен за счёт бюджетных средств](https://cdn.er.ru/media/news/November2024/0b9MZNu46Ywko9092HWQ-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-o-rasselenii-sirot-nuzhno-maksimalno-zadejstvovat-v-regionah-zhiloj-fond-kotoryj-postroen-za-schyot-byudzhetnyh-sredstv)
+[![Дмитрий Медведев: «Единая Россия» на Съезде обсудит вопросы развития партии и поставит новые цели, сформулирует стратегию их достижения](https://cdn.er.ru/media/news/November2024/IRAxvDocFwTtBy7fqX1h-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-na-sezde-obsudit-voprosy-razvitiya-partii-i-postavit-novye-celi-sformuliruet-strategiyu-ih-dostizheniya)
 
-[Владимир Якушев о расселении сирот: Нужно максимально задействовать в регионах жилой фонд, который построен за счёт бюджетных средств](https://er.ru/activity/news/vladimir-yakushev-o-rasselenii-sirot-nuzhno-maksimalno-zadejstvovat-v-regionah-zhiloj-fond-kotoryj-postroen-za-schyot-byudzhetnyh-sredstv)
+[Дмитрий Медведев: «Единая Россия» на Съезде обсудит вопросы развития партии и поставит новые цели, сформулирует стратегию их достижения](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-na-sezde-obsudit-voprosy-razvitiya-partii-i-postavit-novye-celi-sformuliruet-strategiyu-ih-dostizheniya)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хуснуллин](https://er.ru/activity/news?tags%5B0%5D=2916) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=135932) [#сироты](https://er.ru/activity/news?tags%5B0%5D=1090754) [#жилье](https://er.ru/activity/news?tags%5B0%5D=113) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#секретарьреготделения](https://er.ru/activity/news?tags%5B0%5D=147029) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#собеседования](https://er.ru/activity/news?tags%5B0%5D=118216) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751)
 
-20.11.24
+Сегодня 12:20
 
-[![«Единая Россия» проводит День юридической помощи по вопросам защиты детства](https://cdn.er.ru/media/news/November2024/tLzwkvkcvO3k3YJ3OaNE-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-den-yuridicheskoj-pomoshi-po-voprosam-zashity-detstva)
+[![Дмитрий Медведев: «Единая Россия» – самая влиятельная и системообразующая политическая сила страны](https://cdn.er.ru/media/news/November2024/sZMKhwzaBNnWgu5HDtlR-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-samaya-vliyatelnaya-i-sistemoobrazuyushaya-politicheskaya-sila-strany)
 
-[«Единая Россия» проводит День юридической помощи по вопросам защиты детства](https://er.ru/activity/news/edinaya-rossiya-provodit-den-yuridicheskoj-pomoshi-po-voprosam-zashity-detstva)
+[Дмитрий Медведев: «Единая Россия» – самая влиятельная и системообразующая политическая сила страны](https://er.ru/activity/news/dmitrij-medvedev-edinaya-rossiya-samaya-vliyatelnaya-i-sistemoobrazuyushaya-politicheskaya-sila-strany)
 
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#юридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=110126) [#защитадетства](https://er.ru/activity/news?tags%5B0%5D=105383) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ЕдинаяРоссия](https://er.ru/activity/news?tags%5B0%5D=29001)
 
-20.11.24
+Сегодня 12:10
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
