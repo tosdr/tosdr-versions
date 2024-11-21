@@ -21,8 +21,8 @@ Menu icon Menu
     
     New Products
     
-    * [Seasonal Hand Soaps](https://www.soapboxsoaps.com/products/frosted-pomegranate-holiday-moisturizing-hand-soap-3-pack)
-    * [Holiday Favorites](https://www.soapboxsoaps.com/products/holiday-bath-body-bundle-medium)
+    * [Seasonal Hand Soaps](https://www.soapboxsoaps.com/collections/liquid-hand-soap)
+    * [Holiday Favorites](https://www.soapboxsoaps.com/collections/holiday-shop-2024)
     * [Natural Deodorant](https://www.soapboxsoaps.com/products/coconut-vanilla-aluminum-free-deodorant)
     * [Luxe Bath Bombs](https://www.soapboxsoaps.com/products/bath-bomb-assorted-12-pack)
     
@@ -88,8 +88,8 @@ Search icon Search
     
     New Products
     
-    * [Seasonal Hand Soaps](https://www.soapboxsoaps.com/products/frosted-pomegranate-holiday-moisturizing-hand-soap-3-pack)
-    * [Holiday Favorites](https://www.soapboxsoaps.com/products/holiday-bath-body-bundle-medium)
+    * [Seasonal Hand Soaps](https://www.soapboxsoaps.com/collections/liquid-hand-soap)
+    * [Holiday Favorites](https://www.soapboxsoaps.com/collections/holiday-shop-2024)
     * [Natural Deodorant](https://www.soapboxsoaps.com/products/coconut-vanilla-aluminum-free-deodorant)
     * [Luxe Bath Bombs](https://www.soapboxsoaps.com/products/bath-bomb-assorted-12-pack)
     
