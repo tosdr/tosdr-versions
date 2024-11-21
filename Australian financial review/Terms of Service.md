@@ -293,43 +293,46 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![The object of Woolton’s affection: Lot 1175 at Sotheby’s Royal & Noble Jewels.](https://static.ffx.io/images/$zoom_0.3311%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d2a98590b37ff9d722e1bb00ea95175a40104c79)](https://www.afr.com/life-and-luxury/fashion-and-style/how-to-invest-in-jewellery-20241111-p5kpin)
+[![MB&F Horological Machine 8 Mark 2](https://static.ffx.io/images/$zoom_0.781%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_97/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9ef7df2d1402fcbe16b66d37d66fbcb00c9f68b5)](https://www.afr.com/life-and-luxury/fashion-and-style/you-don-t-know-these-watch-brands-you-should-20241111-p5kphy)
 
-### [How to invest in jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/how-to-invest-in-jewellery-20241111-p5kpin)
+### [You don’t know these watch brands. You should](https://www.afr.com/life-and-luxury/fashion-and-style/you-don-t-know-these-watch-brands-you-should-20241111-p5kphy)
 
-* Eugenie Kelly
+* 54 mins ago
+* Bani McSpedden
 
-* ### [The Australian chef bringing lamingtons and damper to New York City](https://www.afr.com/life-and-luxury/food-and-wine/the-australian-chef-bringing-lamingtons-and-damper-to-new-york-city-20241016-p5kir5)
+* ### [The 70s furniture trend making an unlikely (but welcome) comeback](https://www.afr.com/life-and-luxury/design/the-70s-furniture-trend-making-an-unlikely-but-welcome-comeback-20241023-p5kkjy)
     
-* ### [Is Australian fashion really as dire as it seems?](https://www.afr.com/life-and-luxury/fashion-and-style/is-australian-fashion-really-as-dire-as-it-seems-20241002-p5kffw)
+* ### [How to invest in jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/how-to-invest-in-jewellery-20241111-p5kpin)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Sandra McNeil (left), Janet Menzies (middle) and Kate Gooden in Sydney.](https://static.ffx.io/images/$zoom_0.3758%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_253%2C$y_434/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/684ee04574d16155d0f4d44b837afe293c61d11a)](https://www.afr.com/work-and-careers/leaders/how-these-top-female-amazon-execs-are-conquering-australia-20241112-p5kq2i)
+[![VFMC CEO Kate Galvin.](https://static.ffx.io/images/$zoom_1.0024%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_2048%2C$y_177/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7c9ed2fb1f586df0f078478a7d7085b903aa45ea)](https://www.afr.com/work-and-careers/workplace/how-a-jibe-from-this-ceo-s-teenage-daughter-triggered-a-career-rethink-20241111-p5kplc)
 
-### [How these top female Amazon execs are conquering Australia](https://www.afr.com/work-and-careers/leaders/how-these-top-female-amazon-execs-are-conquering-australia-20241112-p5kq2i)
+### [How a jibe from this CEO’s teenage daughter triggered a career rethink](https://www.afr.com/work-and-careers/workplace/how-a-jibe-from-this-ceo-s-teenage-daughter-triggered-a-career-rethink-20241111-p5kplc)
 
-* Sally Patten
+* 54 mins ago
+* Patrick Durkin
 
-* ### [Social cohesion hits record lows, support for immigration slumps](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
+* ### [How these top female Amazon execs are conquering Australia](https://www.afr.com/work-and-careers/leaders/how-these-top-female-amazon-execs-are-conquering-australia-20241112-p5kq2i)
     
-* ### [This former investment banker now runs a $2b caravan park business](https://www.afr.com/work-and-careers/leaders/this-former-investment-banker-now-runs-a-2bn-caravan-park-business-20241106-p5koim)
+* ### [Social cohesion hits record lows, support for immigration slumps](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Australian surfer Mick Fanning is investing in something close to home.](https://static.ffx.io/images/$zoom_0.7613%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1010%2C$y_636/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1eda4fe9175c9e29e36eb1f6e0aef11671e37338)](https://www.afr.com/companies/infrastructure/mick-fanning-s-next-investment-is-a-new-wave-resort-20241120-p5ks5c)
+[![Dylan Grigg amid the vines of Vinya Vella.](https://static.ffx.io/images/$zoom_0.5082%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_12/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d6da210cfeabcf9076743393c87e163ea20b0126)](https://www.afr.com/life-and-luxury/food-and-wine/how-one-man-s-mission-to-save-a-rundown-vineyard-won-him-global-renown-20241113-p5kq8u)
 
-### [Mick Fanning’s next investment is a new wave resort](https://www.afr.com/companies/infrastructure/mick-fanning-s-next-investment-is-a-new-wave-resort-20241120-p5ks5c)
+### [How one man’s mission to save a rundown vineyard won him global renown](https://www.afr.com/life-and-luxury/food-and-wine/how-one-man-s-mission-to-save-a-rundown-vineyard-won-him-global-renown-20241113-p5kq8u)
 
-* Zoe Samios
+* 54 mins ago
+* Max Allen
 
-* ### [This HR executive is always striving for a better position](https://www.afr.com/life-and-luxury/health-and-wellness/this-hr-executive-is-always-striving-for-a-better-position-20241113-p5kq8h)
+* ### [Mick Fanning’s next investment is a new wave resort](https://www.afr.com/companies/infrastructure/mick-fanning-s-next-investment-is-a-new-wave-resort-20241120-p5ks5c)
     
-* ### [Benz hits the Goldilocks spot with its new AMG SUV](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/benz-hits-the-goldilocks-spot-with-its-new-amg-suv-20241105-p5knxp)
+* ### [This HR executive is always striving for a better position](https://www.afr.com/life-and-luxury/health-and-wellness/this-hr-executive-is-always-striving-for-a-better-position-20241113-p5kq8h)
     
 
 [Rich List](https://www.afr.com/rich-list)
