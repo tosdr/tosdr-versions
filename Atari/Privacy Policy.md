@@ -256,7 +256,7 @@ Apparel & Collectibles
     
     [Jaguar](https://www.atari.com/collections/jaguar)
     
-    [Atari Club](https://www.atari.com/collections/atari-club)
+    [Bentley Bear](https://www.atari.com/collections/bentley-bear)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
     
@@ -302,7 +302,7 @@ COLLECTIONS
     
     [Jaguar](https://www.atari.com/collections/jaguar)
     
-    [Atari Club](https://www.atari.com/collections/atari-club)
+    [Bentley Bear](https://www.atari.com/collections/bentley-bear)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
     
@@ -318,7 +318,7 @@ Shop All Tees](https://www.atari.com/collections/atari-tshirts)
 
 Shop All Hats](https://www.atari.com/collections/hats)
 
-\*\*New!\*\*/collections/holiday-collection; \*\*New!\*\*/collections/jaguar; \*\*Trending\*\*/collections/sweatshirts
+\*\*New!\*\*/collections/holiday-collection; \*\*New!\*\*/collections/bentley-bear; \*\*Trending\*\*/collections/sweatshirts
 
 New
 
@@ -373,6 +373,15 @@ Don't let "Sold Out" spoil the holidays. Shop early before your wishlist sells o
 
  
 
+RCT Classic
+===========
+
+RollerCoaster Tycoon Classic is coming to Nintendo Switch
+
+[Coming Soon](https://www.atari.com/products/rollercoaster-tycoon-classic)
+
+ 
+
 **Introducing the Atari 7800+**
 
 New console, new games, and new accessories!
@@ -405,15 +414,6 @@ Fatal Run 2089
 A re-imagining of the Atari 2600 cult classic.
 
 [Coming Soon](https://www.atari.com/products/fatal-run-2089)
-
- 
-
-Atari 400 Mini
-==============
-
-Includes 25 8-bit classic games. Act fast, supplies are limited!
-
-[Available Now](https://www.atari.com/collections/atari-400-mini-collection)
 
 [![Atari VCS](files/Atari_VCS.jpg)
 
@@ -645,6 +645,14 @@ FEATURED GAMES
 
 [View All](https://www.atari.com/collections/games)
 
+![RollerCoaster Tycoon Classic](products/boxshot_rctc_50.webp)
+
+Available on
+
+[](https://www.nintendo.com/us/store/products/rollercoaster-tycoon-classic-switch/)[](https://itunes.apple.com/us/app/rollercoaster-tycoon-classic/id1113736426?mt=8)[](https://play.google.com/store/apps/details?id=com.atari.mobile.rctclassic)[](https://store.steampowered.com/app/683900/RollerCoaster_Tycoon_Classic/)[](https://www.gog.com/en/game/rollercoaster_tycoon_classic)
+
+#### RollerCoaster Tycoon Classic
+
 ![Atari 50: the Anniversary Celebration](files/1080px_1920px.jpg)
 
 Available on
@@ -692,14 +700,6 @@ Available on
 [](https://store.steampowered.com/app/2243510/qomp_2)[](https://store.playstation.com/concept/10007565)[](https://www.nintendo.com/store/products/qomp2-switch/)[](https://www.xbox.com/games/store/qomp-2/9NSRM6LC5LFN)[](https://store.epicgames.com/p/qomp-2-f3ee6d)[](https://atari.com/pages/atari-vcs)[](https://www.gog.com/en/game/qomp2)
 
 #### qomp2
-
-![RollerCoaster Tycoon Adventures Deluxe](files/rctad-gamebox.webp)
-
-Available on
-
-[](https://www.nintendo.com/store/products/rollercoaster-tycoon-adventures-deluxe-switch/)[](https://store.playstation.com/concept/10008746)[](https://www.xbox.com/games/store/rollercoaster-tycoon-adventures-deluxe/9N46FXWKHZ24)[](https://www.gog.com/en/game/rollercoaster_tycoon_deluxe)
-
-#### RollerCoaster Tycoon Adventures Deluxe
 
 ![Haunted House](files/hauntedhouse-gamebox.webp)
 
