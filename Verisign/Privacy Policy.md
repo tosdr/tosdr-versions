@@ -489,7 +489,7 @@ Language:
 
 [English](https://www.verisign.com/en_US/index.xhtml?loc=en_US)[Chinese (Simplified)](https://www.verisign.com/zh_CN/index.xhtml?loc=zh_CN)
 
-[Legal Notices](https://www.verisign.com/en_US/legal-notices/index.xhtml) [Privacy](https://www.verisign.com/en_US/privacy-center/index.xhtml) [CCPA NOTICE AT COLLECTION](https://www.verisign.com/en_US/privacy-statement/index.xhtml#section-3e) [Repository](https://www.verisign.com/en_US/verisign-repository/index.xhtml) [Site Map](https://www.verisign.com/en_US/site-map/index.xhtml) [Cookie Settings](javascript:;)
+[Legal Notices](https://www.verisign.com/en_US/legal-notices/index.xhtml) [Privacy](https://www.verisign.com/en_US/privacy-center/index.xhtml) [CCPA NOTICE AT COLLECTION](https://www.verisign.com/en_US/privacy-statement/index.xhtml#section-3e) [Repository](https://www.verisign.com/en_US/verisign-repository/index.xhtml) [Report Abuse](https://www.verisign.com/en_US/company-information/dns-abuse/index.xhtml#reportdnsabuse) [Site Map](https://www.verisign.com/en_US/site-map/index.xhtml) [Cookie Settings](javascript:;)
 
 © 2024 VeriSign, Inc. All rights reserved.
 
