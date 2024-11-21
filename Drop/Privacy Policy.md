@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop + Mr. Bingo DCD Flower Journal
+[Drop + grell OAE1 Headphones
 
-Brilliant specimens for your keyboard.
+New finish, same incredible fidelity.
 
-Shop Now
+LISTEN IN
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-mr-bingo-dcd-flower-journal-keycap-set)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-grell-oae1-headphones/)
 
 Free Standard Shipping in the US on orders over $99
 
