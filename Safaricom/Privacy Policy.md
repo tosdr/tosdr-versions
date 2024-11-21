@@ -136,6 +136,30 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 21, 2024
+
+> Friendly and super efficient service
+
+> Prompt and helpful response by your agents when I had to change my bookings. Friendly and super efficient service.
+
+Margret Slyper
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 21, 2024
+
+> Heleen was great
+
+> Heleen was meticulous with our requirements and recomendations. We changed a number of times so it was a bit awkward but nothing too much for her. Its not easy booking from abroad but we received all the information we needed and actual booking and payment was simple
+
+Vaughan Moss
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 20, 2024
 
 > Outstanding Experience! (Cape Town, Sabi Sands, Vic Falls)
@@ -227,34 +251,6 @@ CH
 > Responsive, knowledgeable, professional, patient, friendly and courteous, more than expected.
 
 Gordon Myers
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 14, 2024
-
-> Incredibly helpful and experienced agent Anja
-
-> Anja was incredibly helpful and organized the most beautiful safari for us at a small lodge and also arranged our transport. She always responded within minutes no matter the day and took time for all my questions. I will recommend anyone who is looking for a premium experience to get in contact with Anja! Thanks for everything!
-
-Julia Heckmanns
-
-,
-
-NL
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 14, 2024
-
-> Very helpful and attentive to my needs
-
-> Very helpful and attentive to my needs
-
-GP
 
 ,
 
