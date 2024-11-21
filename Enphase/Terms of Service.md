@@ -335,6 +335,28 @@ Sales
 
 [Sales Terms and Conditions](https://enphase.com/legal/sales-terms-and-conditions)
 
+Solargraf Terms of Use
+
+[United States, Canada, Puerto Rico](https://enphase.com/legal/solargraf-terms-united-states-canada-puerto-rico)
+
+[Australia and New Zealand](https://enphase.com/legal/solargraf-terms-australia-and-new-zealand)
+
+[Brazil](https://enphase.com/legal/solargraf-terms-brazil)
+
+[Belgium (French)](https://enphase.com/legal/solargraf-terms-belgium-french)
+
+[Netherlands](https://enphase.com/legal/solargraf-terms-netherlands)
+
+[Germany](https://enphase.com/legal/germany)
+
+[France](https://enphase.com/legal/france)
+
+[Belgium (Dutch)](https://enphase.com/legal/solargraf-terms-belgium-dutch)
+
+[India](https://enphase.com/legal/solargraf-terms-india)
+
+[Philippines](https://enphase.com/legal/solargraf-terms-philippines)
+
 Enphase Maintenance Services
 
 [Enphase Services Agreement (Individual Work Order)](https://enphase.com/legal/enphase-services-agreement-individual-work-order)
@@ -355,28 +377,6 @@ Enphase Care
 
 [365 Pronto Customer Platform Services Agreement](https://enphase.com/legal/365-pronto-customer-platform-services-agreement)
 
-Solargraf Terms of Use
-
-[United States, Canada, Puerto Rico](https://enphase.com/legal/solargraf-terms-united-states-canada-puerto-rico)
-
-[Australia and New Zealand](https://enphase.com/legal/solargraf-terms-australia-and-new-zealand)
-
-[Brazil](https://enphase.com/legal/solargraf-terms-brazil)
-
-[Netherlands](https://enphase.com/legal/solargraf-terms-netherlands)
-
-[Germany](https://enphase.com/legal/germany)
-
-[France](https://enphase.com/legal/france)
-
-[Belgium (Dutch)](https://enphase.com/legal/solargraf-terms-belgium-dutch)
-
-[Belgium (French)](https://enphase.com/legal/solargraf-terms-belgium-french)
-
-[India](https://enphase.com/legal/solargraf-terms-india)
-
-[Philippines](https://enphase.com/legal/solargraf-terms-philippines)
-
 Enphase Installer Network Terms and Conditions
 
 [United States](https://enphase.com/legal/united-states)
@@ -384,10 +384,6 @@ Enphase Installer Network Terms and Conditions
 [Spain](https://enphase.com/legal/installer-network-terms-conditions-spain)
 
 [Brazil](https://enphase.com/legal/installer-network-terms-conditions-brazil)
-
-Questions? Contact us. We’ll help you build your system, today.
-
-[Get Enphase](https://start.enphase.com/form-enph/?lsid=692)
 
 Services and Frequently bought products
 
@@ -517,7 +513,7 @@ Your session expired. Please login again to continue to purchase.
     * [Accessories](https://enphase.com/installers/accessories)
     * [Apps](https://enphase.com/installers/apps)
     * [Documentation](https://enphase.com/installers/resources/documentation)
-    * [Training](https://enphase.com/installers/training-and-certifications)
+    * [Training](https://enphase.com/installers/training)
     * [Resources](https://enphase.com/installers/resources)
     * [O&M Marketplace](https://enphase.com/installers/om-marketplace)
     * [Leads Program](https://start.enphase.com/appointments-program-signup)
