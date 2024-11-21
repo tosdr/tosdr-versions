@@ -58,199 +58,199 @@ Want the latest fibromyalgia info & tips?
 
 [Yes!](https://www.myfibroteam.com/email_users)
 
-Cookie Policy
-=============
+Política de Cookies
+===================
 
-Last updated on November 14th, 2024
+Última actualización el 14 de noviembre de 2024
 
-### Use of cookies and other Tracking Technologies
+### Uso de cookies y otras tecnologías de seguimiento
 
-MyHealthTeams, Inc. and our social networks ("MyHealthTeam," "MHT", "the Platform", "Services", "community", "social network", "we," "us," "our") and certain third parties, use cookies and other technologies ("Tracking Technologies") to collect personal data and to store information or gain access to information stored on your device, when you use our website, our app, and our services (together, the "Platform"). This policy tells you more about Tracking Technologies and how we use them in our Services.
+MyHealthTeam, Inc. y nuestras redes sociales ("MyHealthTeam", "MHT", "la Plataforma", "Servicios", "comunidad", "red social", "nosotros", "nos", "nuestro") y ciertos terceros, usamos cookies y otras tecnologías ("Tecnologías de seguimiento") para recopilar datos personales y almacenar información u obtener acceso a información almacenada en su dispositivo cuando usted usa nuestro sitio web, nuestra aplicación y nuestros servicios (en conjunto, la "Plataforma"). Esta política le da más información sobre las Tecnologías de seguimiento y cómo las usamos en nuestros Servicios.
 
-If you do not consent to the use of these Tracking Technologies, please disable them by following the 'opt-out' links provided below or by changing your browser settings so that cookies from the Platform cannot be placed on your computer or mobile device (see [Controlling and Disabling Cookies and Other Tracking Technologies](#control-disable)).
+Si no da su consentimiento para el uso de estas Tecnologías de seguimiento, desactívelas siguiendo los enlaces para rechazar la opción que se proporcionan a continuación o cambiando la configuración de su navegador para que no se puedan colocar cookies de la Plataforma en su computadora o dispositivo móvil (consulte [Controlar y deshabilitar cookies y otras tecnologías de seguimiento](#control-disable)).
 
-We may change this policy from time to time. If we make any material changes to the way we handle your personal data in relation to Tracking Technologies, we will let you know by posting an updated version of this policy on our website.
+Ocasionalmente, podemos modificar esta política. Si hacemos algún cambio importante en la forma en que manejamos sus datos personales en relación con las Tecnologías de seguimiento, se lo informaremos publicando una versión actualizada de esta política en nuestro sitio web.
 
-### What are Cookies and Other Tracking Technologies?
+### ¿Qué son las cookies y otras Tecnologías de seguimiento?
 
-In order to personalize your experience on the social network, we use Tracking Technologies, including cookies, pixel tags, web beacons and similar files or technologies to collect and store information about your computer, device, and your interactions with the Platform.
+Para personalizar su experiencia en la red social, usamos Tecnologías de seguimiento, incluidas cookies, etiquetas de pixeles, balizas web y archivos u otras tecnologías similares para recopilar y almacenar información sobre su computadora, dispositivo y sus interacciones con la Plataforma.
 
-For instance, we use cookies when you are logged in to the Platform to make sure that access to restricted features of the Platform are only available to registered members. We also use cookies when you visit the Platform as a non-member, as well, to understand and improve the platform performance for everyone.
+Por ejemplo, usamos cookies cuando inicia sesión en la Plataforma para asegurarnos de que funciones restringidas de la Plataforma solo estén disponibles para los miembros registrados. También usamos cookies cuando visita la Plataforma como alguien que no es miembro, para comprender y mejorar el rendimiento de la plataforma para todos.
 
-A cookie is a small text file which includes a unique identifier that is sent by a web server to the browser on your computer, mobile phone or any other internet enabled device when you visit an on-line website. Cookies and similar technologies are widely used to make websites work efficiently and to collect information about your online preferences.
+Una cookie es un pequeño archivo de texto que incluye un identificador único enviado por un servidor web al navegador de su computadora, teléfono móvil o cualquier otro dispositivo con acceso a internet cuando usted visita un sitio web en línea. Las cookies y tecnologías similares se emplean ampliamente para asegurarse de que los sitios web funcionen eficientemente y para recopilar información sobre sus preferencias en línea.
 
-Some of our website pages may contain electronic images known as web beacons (also known as clear gifs, tags or pixels) that allow us to count users who have visited our pages. Web beacons collect only limited information, e.g. a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any information that could directly identify you.
+Algunas de las páginas de nuestro sitio web pueden contener imágenes electrónicas conocidas como balizas web (también conocidos como gifs transparentes, etiquetas o pixeles), que nos permiten contar los usuarios que visitaron nuestras páginas. Las balizas web solo recopilan información limitada, p. ej., número de cookie, hora y fecha en que se visitó la página, y una descripción de la página en la que se encuentra la baliza web. También puede haber balizas web colocadas por terceros anunciantes. Esas balizas no llevan ninguna información que pudiera identificarlo directamente.
 
-We also include web beacons in e-mail messages or newsletters to track whether you open the messages. We use this information to customize our services and measure the overall effectiveness of our online content, advertising campaigns, and products and services we offer through the Platform.
+También incluimos balizas web en los mensajes de correo electrónico o boletines informativos para saber si usted abre los mensajes. Usamos esa información para personalizar nuestros servicios y medir la eficacia general de nuestro contenido en línea, campañas publicitarias y productos y servicios que ofrecemos a través de la Plataforma.
 
-### How do we use Cookies and other Tracking Technologies?
+### ¿Cómo usamos las cookies y otras Tecnologías de seguimiento?
 
-We use cookies and other tracking technologies to customize content and advertising, provide social media features and to see how our visitors move through our website. We use this information to make decisions about ways to improve the services we offer you.
+Usamos las cookies y otras tecnologías de seguimiento para personalizar el contenido y la publicidad, brindar funciones en las redes sociales y ver cómo se mueven nuestros visitantes en el sitio web. Usamos esa información para tomar decisiones sobre maneras de mejorar los servicios que le ofrecemos.
 
-We may engage third party tracking and advertising providers such as those named below to act on our behalf to track and analyze your usage of our website through the use of cookies. These third parties collect, and share with us, usage information about visits to our website and, sometimes by correlating this information with other information (e.g. your IP address), measure and research the effectiveness of our advertisements, track page usage, help us target our recommendations and advertising, and track use of our recommendations and advertisements.
+Podemos utilizar seguimiento de terceros y proveedores de publicidad como los que se mencionan a continuación para que actúen en nuestro nombre en el seguimiento y análisis del uso que usted hace de nuestro sitio web mediante el uso de cookies. Esos terceros, recopilan y nos envían información sobre el uso en relación con las visitas a nuestro sitio web y, en ocasiones, al correlacionar esa información con otra (p. ej., su dirección IP), miden e investigan la eficacia de nuestras publicidades, hacen un seguimiento del uso de la página, nos ayudan a dirigir nuestras recomendaciones y publicidad, y hacen un seguimiento del uso de nuestras recomendaciones y publicidad.
 
-| Cookie Type | What these cookies do |
+| Tipo de cookie | Qué hacen esas cookies |
 | --- | --- |
-| Essential cookies | These cookies are essential to the functioning of the Platform, to provide a service requested by you or to comply with the law (e.g. the security requirements of data protection law). They enable users to move around our website and allow us to recognize a user within our website so that we can provide them with the service they asked for such as remembering the user's sign-in details. |
-| Functionality cookies | These cookies help us customize our website content based on a user's preferences. They remember the user's choices, their language, the country pages visited and any changes the user makes to text size or other parts of our website pages. The information these cookies collect may be anonymized and they cannot track browsing activity on other websites. |
-| Targeting/Advertising cookies | We may use other cookies to target and re-target visitors to our websites with digital advertising that is most relevant to the user. These cookies are also used to limit the number of times you see an advert or particular content, as well as help measure the effectiveness of an advertising or marketing campaign. Using existing cookies from many sites already on your computer, we partner with Third Party Sites to deliver advertising. For more information about digital advertising visit AdChoices at: [www.youradchoices.com](https://www.youradchoices.com/).<br><br>We advertise the Platform on Facebook, Bing, Reddit, Quora, Taboola, X, Alta, Google Search and Display, and StackAdapt (referred to here as Third Party Site) to help let other people with this condition learn about the Platform. To ensure we better reach Third Party Site members with our advertising, we use the Third Party webite's advertising pixel on the Platform, such as the Meta Pixel. These Third Party websites do not have access to any of the information you share on the Platform and do not post to their Third Party websites. The links below will allow you to learn more about the Third Party website's cookies:<br><br>[Facebook](https://www.facebook.com/policies/cookies/)<br><br>[Bing](https://privacy.microsoft.com/en-US/privacystatement)<br><br>[Reddit](https://www.reddit.com/policies/privacy-policy)<br><br>[Quora](https://www.quora.com/about/privacy)<br><br>[Taboola](https://www.taboola.com/policies/cookie-policy)<br><br>[X](https://help.x.com/en/rules-and-policies/x-cookies)<br><br>[Alta](https://www.altamediapartners.com/privacy-policy)<br><br>[Google Search and Display](https://policies.google.com/technologies/cookies)<br><br>[StackAdapt](https://www.stackadapt.com/privacy-policy) |
-| Performance cookies | These cookies collect information on how users use our websites, in order to help us improve areas such as navigation, and to help us fix technical issues or errors. For example, we use these cookies to help us understand how you arrive at our website, browse or use our website and highlight areas where we can improve our website.<br><br>These cookies provided by Google Analytics, New Relic, and HotJar, enable us to provide a better user experience based on how you use our Platform.<br><br>These cookies track things such as a randomly-generated unique, de-identified user ID, how long you spend on the Platform and the pages that you visit so we can continue to produce engaging content. |
-| Social media cookies | These cookies allow users to share our websites on social media such as Facebook and X. These cookies are not within our control. Please refer to the respective privacy policies of the social media provider for how their cookies work. |
+| Cookies esenciales | Estas cookies son esenciales para el funcionamiento de la Plataforma, para brindar el servicio que usted solicita o para cumplir con la ley (p. ej., requisitos de seguridad de la ley de proyección de datos). Permiten a los usuarios moverse en nuestro sitio web y, a nosotros, reconocer un usuario en nuestro sitio web para que podamos brindarle el servicio que solicitó, como por ejemplo, para recordar los datos de inicio de sesión del usuario. |
+| Cookies de funcionalidad | Estas cookies nos ayudan a personalizar el contenido de nuestro sitio web en función de las preferencias del usuario. Recuerdan las elecciones del usuario, su idioma, las páginas visitadas y cualquier cambio que el usuario haga al tamaño de fuente u otras partes de las páginas de nuestro sitio web. La información que recopilan estas cookies puede anonimizarse y las cookies no pueden hacer un seguimiento de la actividad de navegación en otros sitios web. |
+| Cookies dirigidas/de publicidad | Podemos usar otras cookies para dirigir y redirigir a los visitantes a nuestros sitios web con la publicidad digital más relevante para el usuario. Estas cookies también se usan para limitar la cantidad de veces que usted ve una publicidad o determinado contenido, y también como ayuda para medir la eficacia de una publicidad o campaña de marketing. Usando cookies existentes de muchos sitios que ya están en su computadora, nos asociamos con Sitios de terceros para hacer llegar publicidad. Para ver más información sobre la publicidad digital, visite AdChoices en [www.youradchoices.com](https://www.youradchoices.com/).<br><br>Publicitamos la Plataforma en Facebook, Bing, Reddit, Quora, Taboola, X, Alta, Google Search y Display, y StackAdapt (mencionados aquí como Sitios de terceros) para ayudar a otras personas que tienen esta afección a enterarse de la Plataforma. Para asegurarnos de llegar mejor a los miembros de Sitios de terceros con nuestra publicidad, usamos el pixel de publicidad del sitio web del tercero en la Plataforma, como Meta Pixel. Estos sitios web de terceros no tienen acceso a ninguna información que usted comparte en la Plataforma y no publica en los sitios web de terceros. Los siguientes enlaces le permitirán obtener más información sobre las cookies de los sitios web de terceros:<br><br>[Facebook](https://www.facebook.com/policies/cookies/)<br><br>[Bing](https://privacy.microsoft.com/es-es/privacystatement)<br><br>[Reddit](https://www.reddit.com/policies/privacy-policy)<br><br>[Quora](https://www.quora.com/about/privacy)<br><br>[Taboola](https://www.taboola.com/policies/cookie-policy)<br><br>[X](https://help.x.com/es/rules-and-policies/x-cookies)<br><br>[Alta](https://www.altamediapartners.com/privacy-policy)<br><br>[Google Search y Display](https://policies.google.com/technologies/cookies?hl=es)<br><br>[StackAdapt](https://www.stackadapt.com/privacy-policy) |
+| Cookies de rendimiento | Estas cookies recopilan información sobre la manera en que los usuarios usan nuestros sitios web, para ayudarnos a mejorar áreas como la navegación, y corregir problemas técnicos o errores. Por ejemplo, usamos estas cookies como ayuda para comprender cómo llega usted a nuestro sitio web, cómo navega por el sitio web o cómo lo usa, y destacar áreas en las que podamos mejorar nuestro sitio web.<br><br>Google Analytics, New Relic y HotJar proporcionan estas cookies que nos permiten brindar una mejor experiencia para el usuario en función del uso que usted hace de nuestra Plataforma.<br><br>Estas cookies hacen un seguimiento de características como una identificación de usuario única anonimizada y generada al azar, el tiempo que usted pasa en la Plataforma y las páginas que visita, para que podamos seguir produciendo contenido de interés. |
+| Cookies de redes sociales | Estas cookies permiten a los usuarios compartir nuestros sitios web en redes sociales como Facebook y X. Estas cookies no están bajo nuestro control. Consulte las políticas de privacidad respectivas del proveedor de la red social para ver cómo funcionan sus cookies. |
 
-The table below sets out the types of Tracking Technologies we and our partners use in connection with our Platform, and the purposes for which we use them.
+La siguiente tabla establece los tipos de Tecnologías de seguimiento usadas por nosotros y nuestros socios en relación con nuestra Plataforma, y los fines con los que las usamos.
 
-| Provider | Name | Function and Purpose | Duration |
+| Proveedor | Nombre | Función y propósito | Duración |
 | --- | --- | --- | --- |
 | Tecnologías de seguimiento esenciales |     |     |     |
-| MyHealthTeam | fb\_username | Stores the user's Facebook account name that is used for their new account name. | session |
-| MyHealthTeam | google\_username | Stores the user's Google account name that is used for their new account name. | session |
-| MyHealthTeam | human\_signup | Stores if the new sign up attempt is actually a human sign up and not a bot. | session |
-| MyHealthTeam | invisible\_recaptcha | Tracks when an invisible recaptcha fails. | session |
-| MyHealthTeam | link\_sso\_account | Stores user's sso account identifier to merge the user's email account and sso account. | session |
-| Functionality Tracking Technologies |     |     |     |
-| MyHealthTeam | articles\_shown\_in\_feed | Shows recommended articles module once a day. | 24 hours |
-| MyHealthTeam | members\_shown\_in\_feed | Shows recommended members modules once a day. | 24 hours |
-| MyHealthTeam | topics\_shown\_in\_feed | Shows the promoted articles module once a day. | 24 hours |
-| MyHealthTeam | default\_question | Sets the default question in the Activity Feed Post module. | Variable from 1 minute to X years |
-| MyHealthTeam | pwa\_install\_cookie\_hide | Prevents the pwa app install module to be shown after clicking the module's close button or installs pwa app. | 30 days or 1 year |
-| MyHealthTeam | hide\_interest\_update\_cta | Prevents the update interests slide out from showing when a member doesn't engage with the slideout. | 3 months |
-| MyHealthTeam | xxxx\_slideout | Prevents certain slide out modules from displaying when the user clicks on the module's close button or engages with the module. | 1 day or 100 days |
-| MyHealthTeam | utm\_tags\_data\_key | Stores the utm tags from the most recent url the user visited. | 24 hours |
-| MyHealthTeam | cookie\_policy | Stores that a user saw the latest policy update. | 1 year |
-| MyHealthTeam | popular\_resource | Prevents daily pinned resource from being displayed again for the rest of day. | End of day |
-| MyHealthTeam | promoted\_note | Prevents daily promoted article's comment from being displayed again for the rest of day. | End of day |
-| MyHealthTeam | promoted\_content | Prevents promoted content to be seen again for a certain amount of days. | 100 days |
-| MyHealthTeam | ads\_permitted | Tracks how many more native ads can be shown. | session |
-| MyHealthTeam | ambassador\_dashboard\_members | Tracks how many new members joined since the last time an ambassador went to their dashboard. | session |
-| MyHealthTeam | city\_id | Stores the last city unique identifier the user performed in a provider search. | session |
-| MyHealthTeam | conversion\_page | Stores the last page the user was located prior to signing up. | session |
-| MyHealthTeam | current\_filters | Stores the filters a user has selected when searching for other users. | session |
-| MyHealthTeam | day | Stores today's date in the following format dd-month-yyyy. Session Analytics. | session |
-| MyHealthTeam | discovery\_username | Stores the user's Discovery account's name that is used for their new account name. | session |
-| MyHealthTeam | displayed\_ads | Tracks the native ads that have been shown. | session |
-| MyHealthTeam | email\_signup\_cta | Prevents the email signup modal from displaying after being shown. | session |
-| MyHealthTeam | hideRecommendedXXXXX | Automatically collapses the recommended users module. | session |
-| MyHealthTeam | highlight\_activity | Stores the activity id. This is used to focus the user to a specific piece of content visible on the page. | session |
-| MyHealthTeam | hug | Stores what resources a user without an account has hugged during their session. | session |
-| MyHealthTeam | last\_search\_location | Stores the last location the user performed for a provider search. | session |
-| MyHealthTeam | like | Stores what resources a user without an account has liked during their session. | session |
-| MyHealthTeam | login\_action\_docid | Stores the document id for the action that will occur after the user logins into their account. | session |
-| MyHealthTeam | login\_action\_doctype | Stores the document type for the action that will occur after the user logins into their account. | session |
-| MyHealthTeam | login\_email | Stores the email used during a failed sign in attempt. The stored email is used to prefill the email field so the user can try to sign in again. | session |
-| MyHealthTeam | onboard\_modules | Stores the onboard modules that should appear during the user's session. | session |
-| MyHealthTeam | partner\_id | Stores partner's unique identifier to track partner company sign up conversions. | session |
-| MyHealthTeam | partner-redirect | Stores the partner redirect url that redirects the user to the site's partner home page. | session |
-| MyHealthTeam | qualtrics\_mht\_id | Stores the user's unique identifier for targeted Qualtrics surveys. | session |
-| MyHealthTeam | recent\_activity | Stores the count of new activities since the last time the user signed into their account. | session |
-| MyHealthTeam | region | Store the signed in user's country code if available. | session |
-| MyHealthTeam | screen-width | Stores the user's device width. | session |
-| MyHealthTeam | seen\_modal\_cta | Tracks if a signup or login modal has already been shown for the user's session. | session |
-| MyHealthTeam | show\_interest\_full\_page\_cta | Stores whether the add interest slideout should appear for existing members. | session |
-| MyHealthTeam | show\_tour | Tracks if a tour to a new feature needs to be shown to a user. | session |
-| MyHealthTeam | showstopper\_policy | Stores whether to show new policy update popup. | session |
-| MyHealthTeam | signup\_email | Stores the email used during a failed sign up attempt. The stored email is used to prefill the email field so the user can try to sign up again. | session |
-| MyHealthTeam | signup\_user\_id | Stores the user's account unique identifier for an unconfirmed account. Used when updating a provider listing. | session |
-| MyHealthTeam | throttle\_count | Stores the amount of times a sign up has failed due to their account name being invalid. | session |
-| MyHealthTeam | todo\_module\_display\_limit | Tracks the user's display limit of the todo module. | session |
-| MyHealthTeam | token | Stores a unique identifier to track whether a new sign up is associated with a MHT partner. | session |
-| MyHealthTeam | user\_return\_to | Stores the page the user was last at before signing up. | session |
-| MyHealthTeam | zpp | Tracks if the update information modal should be shown. | session |
-| AdButler | \_adbcv | This cookie is for tracking ad conversions. | 180 days |
-| AdButler | \_advbc | This cookie is for tracking ad conversions. | 180 days |
-| [Google](https://business.safety.google/adscookies) | \_\_gads | Google sets this cookie under the DoubleClick domain and it's used to measure campaign performance. This cookie can only be read from the domain they are currently on and will not track any data while users are browsing other sites. | 1 year 24 days |
-| [Google](https://business.safety.google/adscookies) | \_\_gpi | Google Ads Service uses this cookie for retargeting ads. | 1 year 24 days |
-| [Google](https://business.safety.google/adscookies) | \_\_Secure-3PSIDCC | This cookie is used to profile the interests of website visitors and display relevant and personalized ads. | 2 years |
-| [Google](https://business.safety.google/adscookies) | \_\_Secure-1PSIDCC | This cookie is used to profile the interests of website visitors and display relevant and personalized ads. | 2 years |
-| [Google](https://business.safety.google/adscookies) | 1P\_JAR | This cookie is for advertising attribution purposes. | 1 week |
-| [Google](https://business.safety.google/adscookies) | NID | This cookie contains a unique ID Google uses to remember your preferences. | 6 months |
-| [Google](https://business.safety.google/adscookies) | SAPISID | This cookie is used to display personalized ads on Google sites, based on recent searches and previous activity. | 2 years |
-| [Google](https://business.safety.google/adscookies) | SSID | This cookie is for advertising attribution. | Persistent |
-| [Google](https://business.safety.google/adscookies) | \_\_Secure-3PSID | This cookie is used to profile the interests of website visitors and display relevant and personalized ads. | 2 years |
-| [Google](https://business.safety.google/adscookies) | ANID | This cookie lists Google Ads on Google sites based on recent searches. | Persistent |
-| [Google](https://business.safety.google/adscookies) | \_\_Secure-ENID | This cookie is used to prevent fraudulent login attempts. It also contains a unique ID Google uses for statistics and marketing purposes. | 13 months |
-| [Google](https://business.safety.google/adscookies) | AEC | This cookie ensures that requests within a browsing session are made by the user, and not by other sites. | 6 months |
-| [Google](https://business.safety.google/adscookies) | HSID | This cookie is used to display personalized ads on Google sites, based on recent searches and previous activity. | 2 years |
-| [Google](https://business.safety.google/adscookies) | APISID | This cookie is used to display personalized ads on Google sites, based on recent searches and previous activity. | Persistent |
-| [Google](https://business.safety.google/adscookies) | \_\_Secure-3PAPISID | This cookie is used to display personalized ads on Google sites, based on recent searches and previous activity. | 2 years |
-| [Google](https://business.safety.google/adscookies) | SID | This cookie is used for session state management. | 2 years |
-| [Google](https://business.safety.google/adscookies) | \_\_Secure-1PSID | This cookie is used to profile the interests of website visitors and display relevant and personalized ads. | 2 years |
-| [Google](https://business.safety.google/adscookies) | \_\_Secure-1PAPISID | This cookie is used to profile the interests of website visitors and display relevant and personalized ads. | 2 years |
-| [Google](https://business.safety.google/adscookies) | SIDCC | This cookie is used to prevent fraudulent login attempts, unauthorized access and to confirm visitor authenticity. | Persistent |
-| Doubleclick | test\_cookie | Doubleclick.net sets this cookie to determine if the user's browser supports cookies. | 15 minutes |
-| Doubleverify | \_mkto\_trk | This is a Marketo cookie that is used to track and store interaction. | 2 years |
-| [Taboola](https://www.taboola.com/policies/cookie-policy) | t\_gid | This cookie assigns a unique User ID that Taboola uses for attribution and reporting purposes. | 1 year |
-| Bing | MUID | This cookie identifies unique web browsers visiting Microsoft sites. This is used in campaign performance measurement and other purposes. | 13 months |
-| Bing | MR  | This cookie indicates whether to refresh MUID. |     |
-| Bing | \_uetvid | This cookie is used to track visitors on multiple websites, in order to show relevant ads based on the visitor's preferences. | 3 weeks |
-| Bing | \_uetsid | This cookie is utilized by Microsoft Bing Ads and it is a tracking cookie. It allows engaging with a user that previously visited the site. | 1 day |
-| StackAdapt | sa-used-id | This cookie is set as a random ID for user identification to display relevant ads. | 1 year |
-| StackAdapt | sa-userd-id-V2 | This cookie is set as a random ID for user identification to display relevant ads. (Newer version of ID) | 1 year |
+| MyHealthTeam | fb\_username | Almacena el nombre de la cuenta de Facebook del usuario que se usa como el nombre de cuenta nueva. | sesión |
+| MyHealthTeam | google\_username | Almacena el nombre de la cuenta de Google del usuario que se usa como el nombre de cuenta nueva. | sesión |
+| MyHealthTeam | human\_signup | Almacena si el nuevo intento de registro es en efecto un registro realizado por un ser humano y no por un bot. | sesión |
+| MyHealthTeam | invisible\_recaptcha | Hace un seguimiento de los fallos de recaptcha invisible. | sesión |
+| MyHealthTeam | link\_sso\_account | Almacena el identificador de cuenta de inicio de sesión único del usuario para combinar la cuenta de correo electrónico del usuario y la cuenta de inicio de sesión único. | sesión |
+| Tecnologías de seguimiento de funcionalidad |     |     |     |
+| MyHealthTeam | articles\_shown\_in\_feed | Muestra un módulo de artículos recomendados una vez al día. | 24 horas |
+| MyHealthTeam | members\_shown\_in\_feed | Muestra módulos recomendados de los miembros una vez al día. | 24 horas |
+| MyHealthTeam | topics\_shown\_in\_feed | Muestra el módulo de artículos promocionados una vez al día. | 24 horas |
+| MyHealthTeam | default\_question | Establece la pregunta predeterminada en el módulo de Actividad de publicación en el feed. | Variable de 1 minuto a X años |
+| MyHealthTeam | pwa\_install\_cookie\_hide | Impide que se muestre el módulo de instalación de la aplicación pwa después de hacer clic en el botón de cierre del módulo o instala la aplicación pwa. | 30 días o 1 año |
+| MyHealthTeam | hide\_interest\_update\_cta | Impide que se muestre el elemento deslizable de actualizar intereses cuando un miembro no interactúa con el elemento deslizable. | 3 meses |
+| MyHealthTeam | xxxx\_slideout | Impide que se muestren ciertos módulos deslizables cuando el usuario hace clic en el botón de cierre del módulo o interactúa con el módulo. | 1 día o 100 días |
+| MyHealthTeam | utm\_tags\_data\_key | Almacena las etiquetas utm de la url más reciente visitada por el usuario. | 24 horas |
+| MyHealthTeam | cookie\_policy | Almacena la confirmación de que un usuario vio la actualización más reciente de la política. | 1 año |
+| MyHealthTeam | popular\_resource | Impide que se muestre nuevamente un recurso fijo diario durante el resto del día. | Final del día |
+| MyHealthTeam | promoted\_note | Impide que se muestre nuevamente el comentario de un artículo promocionado diario durante el resto del día. | Final del día |
+| MyHealthTeam | promoted\_content | Impide que se vuelva a ver contenido promocionado durante una cantidad determinada de días. | 100 días |
+| MyHealthTeam | ads\_permitted | Hace un seguimiento de cuántas más publicidades nativas se pueden mostrar. | sesión |
+| MyHealthTeam | ambassador\_dashboard\_members | Hace un seguimiento de cuántos miembros nuevos se unieron desde la última vez que un embajador fue a su panel de control. | sesión |
+| MyHealthTeam | city\_id | Almacena el último identificador único de la ciudad que indicó el usuario en una búsqueda de proveedores. | sesión |
+| MyHealthTeam | conversion\_page | Almacena la última página en la que estuvo el usuario antes de registrarse. | sesión |
+| MyHealthTeam | current\_filters | Almacena los filtros que seleccionó el usuario al buscar a otros usuarios. | sesión |
+| MyHealthTeam | day | Almacena la fecha de hoy en el formato dd-mes-aaaa. Análisis de la sesión. | sesión |
+| MyHealthTeam | discovery\_username | Almacena el nombre de la cuenta de Discovery del usuario que se usa como nombre de cuenta nueva. | sesión |
+| MyHealthTeam | displayed\_ads | Hace un seguimiento de las publicidades nativas que se mostraron. | sesión |
+| MyHealthTeam | email\_signup\_cta | Impide que se muestre el elemento modal de registro por correo electrónico después de que se ha mostrado. | sesión |
+| MyHealthTeam | hideRecommendedXXXXX | Contrae automáticamente el módulo del usuario recomendado. | sesión |
+| MyHealthTeam | highlight\_activity | Almacena el identificador de la actividad. Esto se usa para concentrar al usuario en un contenido específico visible en la página. | sesión |
+| MyHealthTeam | hug | Almacena los recursos de adaptación de un usuario que no tiene cuenta durante la sesión. | sesión |
+| MyHealthTeam | last\_search\_location | Almacena la última ubicación usada por el usuario para realizar una búsqueda de proveedores. | sesión |
+| MyHealthTeam | like | Almacena los recursos a los que un usuario que no tiene cuenta les dio "me gusta" durante la sesión. | sesión |
+| MyHealthTeam | login\_action\_docid | Almacena el identificador del documento para la acción que ocurrirá después de que el usuario inicia sesión en su cuenta. | sesión |
+| MyHealthTeam | login\_action\_doctype | Almacena el tipo de documento para la acción que ocurrirá después de que el usuario inicia sesión en su cuenta. | sesión |
+| MyHealthTeam | login\_email | Almacena el correo electrónico usado durante un intento fallido de inicio de sesión. El correo electrónico almacenado se usa para completar de antemano el campo de correo electrónico, para que el usuario pueda intentar nuevamente iniciar sesión. | sesión |
+| MyHealthTeam | onboard\_modules | Almacena los módulos integrados que deben aparecer durante la sesión del usuario. | sesión |
+| MyHealthTeam | partner\_id | Almacena el identificador único del socio para hacer un seguimiento de las conversiones de registro de la compañía asociada. | sesión |
+| MyHealthTeam | partner-redirect | Almacena la url de redireccionamiento del socio que redirige al usuario a la página de inicio del sitio del socio. | sesión |
+| MyHealthTeam | qualtrics\_mht\_id | Almacena el identificador único del usuario para encuestas dirigidas de Qualtrics. | sesión |
+| MyHealthTeam | recent\_activity | Almacena el recuento de actividades nuevas desde la última vez que el usuario inició sesión en su cuenta. | sesión |
+| MyHealthTeam | region | Almacena el código del país del usuario que inició sesión si está disponible. | sesión |
+| MyHealthTeam | screen-width | Almacena el ancho del dispositivo del usuario. | sesión |
+| MyHealthTeam | seen\_modal\_cta | Hace un seguimiento de si un elemento modal de registro o inicio de sesión ya se ha mostrado para la sesión del usuario. | sesión |
+| MyHealthTeam | show\_interest\_full\_page\_cta | Almacena si debe aparecer el elemento deslizable de interés publicitario para miembros existentes. | sesión |
+| MyHealthTeam | show\_tour | Hace un seguimiento de si se debe mostrar la explicación de una nueva función a un usuario. | sesión |
+| MyHealthTeam | showstopper\_policy | Almacena si se debe mostrar un mensaje emergente de nueva actualización de una política. | sesión |
+| MyHealthTeam | signup\_email | Almacena el correo electrónico usado durante un intento fallido de registro. El correo electrónico almacenado se usa para completar de antemano el campo de correo electrónico, para que el usuario pueda intentar nuevamente el registro. | sesión |
+| MyHealthTeam | signup\_user\_id | Almacena el identificador único de la cuenta del usuario para una cuenta no confirmada. Se usa al actualizar una lista de proveedores. | sesión |
+| MyHealthTeam | throttle\_count | Almacena la cantidad de veces que ha fallado un registro debido a que el nombre de la cuenta no es válido. | sesión |
+| MyHealthTeam | todo\_module\_display\_limit | Hace un seguimiento del límite de visualización del usuario para el módulo de pendientes. | sesión |
+| MyHealthTeam | token | Almacena un identificador único para hacer un seguimiento de si un nuevo registro está relacionado con un socio de MHT. | sesión |
+| MyHealthTeam | user\_return\_to | Almacena la última página en la que estuvo el usuario antes de registrarse. | sesión |
+| MyHealthTeam | zpp | Hace un seguimiento de si se debe mostrar el elemento modal actualizar información. | sesión |
+| AdButler | \_adbcv | Esta cookie es para el seguimiento de conversiones de publicidades. | 180 días |
+| AdButler | \_advbc | Esta cookie es para el seguimiento de conversiones de publicidades. | 180 días |
+| [Google](https://business.safety.google/adscookies) | \_\_gads | Google establece esta cookie en virtud del dominio DoubleClick y se usa para medir el rendimiento de campañas. Esta cookie solo puede leerse desde el dominio en el que se encuentra actualmente y no hará un seguimiento de ningún dato mientras los usuarios están navegando en otros sitios. | 1 año 24 días |
+| [Google](https://business.safety.google/adscookies) | \_\_gpi | Google Ads Service usa esta cookie para redirigir las publicidades. | 1 año 24 días |
+| [Google](https://business.safety.google/adscookies) | \_\_Secure-3PSIDCC | Esta cookie se usa para establecer un perfil de los intereses de los visitantes de un sitio web y mostrar publicidades relevantes y personalizadas. | 2 años |
+| [Google](https://business.safety.google/adscookies) | \_\_Secure-1PSIDCC | Esta cookie se usa para establecer un perfil de los intereses de los visitantes de un sitio web y mostrar publicidades relevantes y personalizadas. | 2 años |
+| [Google](https://business.safety.google/adscookies) | 1P\_JAR | Esta cookie se usa con fines de atribución de la publicidad. | 1 semana |
+| [Google](https://business.safety.google/adscookies) | NID | Esta cookie contiene un identificador único que Google usa para recordar sus preferencias. | 6 meses |
+| [Google](https://business.safety.google/adscookies) | SAPISID | Esta cookie se usa para mostrar publicidades personalizadas en sitios de Google, en función de sus búsquedas recientes y actividad pasada. | 2 años |
+| [Google](https://business.safety.google/adscookies) | SSID | Esta cookie se usa para atribución de la publicidad. | Persistente |
+| [Google](https://business.safety.google/adscookies) | \_\_Secure-3PSID | Esta cookie se usa para establecer un perfil de los intereses de los visitantes de un sitio web y mostrar publicidades relevantes y personalizadas. | 2 años |
+| [Google](https://business.safety.google/adscookies) | ANID | Esta cookie muestra una lista de publicidades de Google Ads en sitios de Google en función de búsquedas recientes. | Persistente |
+| [Google](https://business.safety.google/adscookies) | \_\_Secure-ENID | Esta cookie se usa para impedir intentos de inicio de sesión fraudulentos. También contiene un identificador único que Google usa con fines de estadística y marketing. | 13 meses |
+| [Google](https://business.safety.google/adscookies) | AEC | Esta cookie se asegura de que las solicitudes dentro de una sesión de navegación sean hechas por el usuario y no por otros sitios. | 6 meses |
+| [Google](https://business.safety.google/adscookies) | HSID | Esta cookie se usa para mostrar publicidades personalizadas en sitios de Google, en función de sus búsquedas recientes y actividad pasada. | 2 años |
+| [Google](https://business.safety.google/adscookies) | APISID | Esta cookie se usa para mostrar publicidades personalizadas en sitios de Google, en función de sus búsquedas recientes y actividad pasada. | Persistente |
+| [Google](https://business.safety.google/adscookies) | \_\_Secure-3PAPISID | Esta cookie se usa para mostrar publicidades personalizadas en sitios de Google, en función de sus búsquedas recientes y actividad pasada. | 2 años |
+| [Google](https://business.safety.google/adscookies) | SID | Esta cookie se usa para el manejo del estado de la sesión. | 2 años |
+| [Google](https://business.safety.google/adscookies) | \_\_Secure-1PSID | Esta cookie se usa para establecer un perfil de los intereses de los visitantes de un sitio web y mostrar publicidades relevantes y personalizadas. | 2 años |
+| [Google](https://business.safety.google/adscookies) | \_\_Secure-1PAPISID | Esta cookie se usa para establecer un perfil de los intereses de los visitantes de un sitio web y mostrar publicidades relevantes y personalizadas. | 2 años |
+| [Google](https://business.safety.google/adscookies) | SIDCC | Esta cookie se usa para impedir intentos de inicio de sesión fraudulentos, acceso no autorizado y para confirmar la autenticidad del visitante. | Persistente |
+| Doubleclick | test\_cookie | Doubleclick.net establece esta cookie para determinar si el navegador del usuario tiene las cookies habilitadas. | 15 minutos |
+| Doubleverify | \_mkto\_trk | Esta es una cookie de Marketo que se usa para hacer un seguimiento y almacenar la interacción. | 2 años |
+| [Taboola](https://www.taboola.com/es/policies/politica-de-cookies) | t\_gid | Esta cookie asigna un identificador de usuario único que Taboola usa con fines de atribución e informe. | 1 año |
+| Bing | MUID | Esta cookie identifica navegadores web únicos que visitan sitios de Microsoft. Se usa en la medición del rendimiento de una campaña y con otros fines. | 13 meses |
+| Bing | MR  | Esta cookie indica si se debe actualizar MUID. |     |
+| Bing | \_uetvid | Esta cookie se usa para hacer un seguimiento de los visitantes en múltiples sitios web, para mostrar publicidades relevantes en función de las preferencias del visitante. | 3 semanas |
+| Bing | \_uetsid | Microsoft Bing Ads utiliza esta cookie y es una cookie de seguimiento. Permite interactuar con un usuario que visitó el sitio previamente. | 1 día |
+| StackAdapt | sa-used-id | Esta cookie establece un identificador aleatorio para la identificación del usuario con el fin de mostrar publicidades relevantes. | 1 año |
+| StackAdapt | sa-userd-id-V2 | Esta cookie establece un identificador aleatorio para la identificación del usuario con el fin de mostrar publicidades relevantes. (Versión de identificador más nuevo) | 1 año |
 | AdButler | mht\_adb\_id |     |     |
 | Qualtrics | qualtrics\_mht\_id |     |     |
-| Performance Tracking Technologies |     |     |     |
-| MyHealthTeam | ga\_user\_cohort | Stores what date the user signed up to the site. | session |
-| MyHealthTeam | ga\_user\_type | Stores what type of user is visiting the site. | session |
-| MyHealthTeam | gtm\_user\_cohort | Stores what date the user signed up to the site. | session |
-| MyHealthTeam | month | Stores the month and year in the following format (month-yyyy). Session analytics. | session |
-| MyHealthTeam | new\_signup | Stores if the user is a new signup to track session analytics. | session |
-| MyHealthTeam | week | Stores the week of the year and year in the following format (week-yyyy). Session analytics. | session |
-| [Google](https://business.safety.google/adscookies) | \_gid | Google Analytics sets this cookie to store information on how visitors use a website while also creating an analytics report of the website's performance. Some of the collected data includes the number of visitors, their source, and the pages they visit anonymously. | 1 day |
-| [Google](https://business.safety.google/adscookies) | \_ga | Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors. | Variable de 1 minute a 2 years |
-| [Google](https://business.safety.google/adscookies) | \_gat\_UA-\* | Google Analytics sets this cookie for user behavior tracking. | 1 minute |
-| [Google](https://business.safety.google/adscookies) | \_ga\_\* | Google Analytics sets this cookie to store and count page views. | 1 year 1 month 4 days |
-| [Google](https://business.safety.google/adscookies) | \_rollupGA\_ |     | 1 year 1 month 4 days |
-| [Google](https://business.safety.google/adscookies) | \_rollupGA\_gid |     | 1 day |
-| [Google](https://business.safety.google/adscookies) | \_\_gads | Google sets this cookie under the DoubleClick domain and it's used to measure campaign performance. This cookie can only be read from the domain they are currently on and will not track any data while users are browsing other sites. | 1 year 24 days |
-| [HotJar](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code) | \_hjFirstSeen | This cookie is used to generate statistical data on how the visitor uses the website. | Variable from 1 minute to 1 year |
-| [HotJar](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code) | \_hjIncludedInSessionSample\_{site\_id} | This cookie is set to determine if a user is included in the data sampling defined by a site's daily session limit. | 2 min |
-| [HotJar](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code) | hjSession\_{site\_id} | This cookie holds current session data. | 30 min |
-| [HotJar](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code) | \_hjSessionUser\_{site\_id} | This cookie is set when a user first lands on a page. | 1 year |
-| [HotJar](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code) | hjViewportid | This cookie stores user viewport details such as size and dimensions. | session |
-| [HotJar](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code) | \_hjAbsoluteSessionInProgress | This cookie is used to detect the first pageview session of a user. | 30 min |
-| [HotJar](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code) | \_hjDonePolls | This cookie is set when a user completes an on-site Survey. | 1 year |
+| Tecnologías de seguimiento de rendimiento |     |     |     |
+| MyHealthTeam | ga\_user\_cohort | Almacena la fecha en la que el usuario se registró en el sitio. | sesión |
+| MyHealthTeam | ga\_user\_type | Almacena el tipo de usuario que visita el sitio. | sesión |
+| MyHealthTeam | gtm\_user\_cohort | Almacena la fecha en la que el usuario se registró en el sitio. | sesión |
+| MyHealthTeam | month | Almacena el mes y el año en el siguiente formato (mes-aaaa). Análisis de la sesión. | sesión |
+| MyHealthTeam | new\_signup | Almacena si un usuario es alguien nuevo que se registró, para hacer un seguimiento del análisis de la sesión. | sesión |
+| MyHealthTeam | week | Almacena la semana del año y el año en el siguiente formato (semana-aaaa). Análisis de la sesión. | sesión |
+| [Google](https://business.safety.google/adscookies) | \_gid | Google Analytics establece esta cookie para almacenar información sobre cómo los visitantes usan un sitio web y, a la vez, crear un informe de análisis sobre el rendimiento del sitio web. Parte de los datos recopilados incluye la cantidad de visitantes, su origen y las páginas que visitan de forma anónima. | 1 día |
+| [Google](https://business.safety.google/adscookies) | \_ga | Google Analytics establece esta cookie para calcular datos de visitantes, sesión y campaña, y para hacer un seguimiento del uso del sitio web para el informe de análisis del sitio. La cookie almacena información de forma anónima y asigna un número generado aleatoriamente para reconocer a visitantes individuales. | Variable de 1 minuto a 2 años |
+| [Google](https://business.safety.google/adscookies) | \_gat\_UA-\* | Google Analytics establece esta cookie para hacer un seguimiento del comportamiento. | 1 minuto |
+| [Google](https://business.safety.google/adscookies) | \_ga\_\* | Google Analytics establece esta cookie para almacenar y contar las vistas de páginas. | 1 año 1 mes 4 días |
+| [Google](https://business.safety.google/adscookies) | \_rollupGA\_ |     | 1 año 1 mes 4 días |
+| [Google](https://business.safety.google/adscookies) | \_rollupGA\_gid |     | 1 día |
+| [Google](https://business.safety.google/adscookies) | \_\_gads | Google establece esta cookie en virtud del dominio DoubleClick y se usa para medir el rendimiento de campañas. Esta cookie solo puede leerse desde el dominio en el que se encuentra actualmente y no hará un seguimiento de ningún dato mientras los usuarios están navegando en otros sitios. | 1 año 24 días |
+| [HotJar](https://help.hotjar.com/hc/es/articles/6952777582999-Cookies-establecidas-por-el-c%C3%B3digo-de-seguimiento-de-Hotjar) | \_hjFirstSeen | Esta cookie se usa para generar datos estadísticos sobre cómo el visitante usa el sitio web. | Variable de 1 minuto a 1 año |
+| [HotJar](https://help.hotjar.com/hc/es/articles/6952777582999-Cookies-establecidas-por-el-c%C3%B3digo-de-seguimiento-de-Hotjar) | \_hjIncludedInSessionSample\_{site\_id} | Esta cookie se establece para determinar si un usuario está incluido en el muestreo de datos definido por el límite de sesión diario de un sitio. | 2 min |
+| [HotJar](https://help.hotjar.com/hc/es/articles/6952777582999-Cookies-establecidas-por-el-c%C3%B3digo-de-seguimiento-de-Hotjar) | hjSession\_{site\_id} | Esta cookie contiene los datos de la sesión actual. | 30 min |
+| [HotJar](https://help.hotjar.com/hc/es/articles/6952777582999-Cookies-establecidas-por-el-c%C3%B3digo-de-seguimiento-de-Hotjar) | \_hjSessionUser\_{site\_id} | Esta cookie se establece cuando un usuario llega por primera vez a una página. | 1 año |
+| [HotJar](https://help.hotjar.com/hc/es/articles/6952777582999-Cookies-establecidas-por-el-c%C3%B3digo-de-seguimiento-de-Hotjar) | hjViewportid | Esta cookie almacena detalles de la ventana gráfica, como tamaño y dimensiones. | sesión |
+| [HotJar](https://help.hotjar.com/hc/es/articles/6952777582999-Cookies-establecidas-por-el-c%C3%B3digo-de-seguimiento-de-Hotjar) | \_hjAbsoluteSessionInProgress | Esta cookie se usa para detectar la primera sesión de visualización de una página de un usuario. | 30 min |
+| [HotJar](https://help.hotjar.com/hc/es/articles/6952777582999-Cookies-establecidas-por-el-c%C3%B3digo-de-seguimiento-de-Hotjar) | \_hjDonePolls | Esta cookie se establece cuando un usuario completa una encuesta en el sitio. | 1 año |
 
-**Controlling and Disabling Cookies and other Tracking Technologies**
+**Controlar y deshabilitar cookies y otras Tecnologías de seguimiento**
 
-You have the right to choose whether or not to accept cookies. However, please note that if you choose to refuse cookies you may not be able to use the full functionality of the Platform.
+Usted tiene derecho a elegir si acepta o no las cookies. Sin embargo, tenga en cuenta que si elige rechazar cookies, tal vez no pueda utilizar la funcionalidad de la Plataforma en su totalidad.
 
-If you do not want to be tracked by Google Analytics cookies you can opt-out by installing a browser plug-in here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
+Si no desea el seguimiento por parte de las cookies de Google Analytics, puede rechazarlas instalando un complemento para el navegador ingresando aquí: [https://tools.google.com/dlpage/gaoptout/?hl=es](https://tools.google.com/dlpage/gaoptout/?hl=es)
 
-We have provided the following link for you below should you wish to opt out of these cookies.
+Proporcionamos el siguiente enlace por si desea rechazar estas cookies.
 
 **Google Analytics**
 
-For more information on Google Analytics cookies, you can visit their [cookie policy](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage).
+Para más información sobre las cookies de Google Analytics, puede visitar la [política de cookies](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage?hl=es) de Google.
 
-You can also [Opt out](https://tools.google.com/dlpage/gaoptout) of Google Analytics Tracking.
+También puede [rechazar](https://tools.google.com/dlpage/gaoptout/?hl=es) el seguimiento de Google Analytics.
 
 **Hotjar**
 
-For more information on HotJar cookies, you can visit their [cookie policy](https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code).
+Para más información sobre las cookies de HotJar, puede visitar la [política de cookies](https://help.hotjar.com/hc/es/articles/6952777582999-Cookies-establecidas-por-el-c%C3%B3digo-de-seguimiento-de-Hotjar) de HotJar.
 
-You can also [Opt out](https://help.hotjar.com/hc/en-us/articles/115011789248-Cookies-on-hotjar-com#cookies_faq) of HotJar tracking.
+También puede [rechazar](https://help.hotjar.com/hc/es/articles/115011789248-Cookies-en-hotjar-com#cookies_faq) el seguimiento de HotJar.
 
 **New Relic**
 
-For more information on New Relic cookies, you can visit their [cookie policy](https://newrelic.com/termsandconditions/cookie-policy).
+Para más información sobre las cookies de New Relic, puede visitar la [política de cookies](https://newrelic.com/termsandconditions/cookie-policy) de New Relic.
 
-You can also [Opt out](https://www.allaboutcookies.org/) of New Relic tracking.
+También puede [rechazar](https://www.allaboutcookies.org/) el seguimiento de New Relic.
 
-In addition, at any time, you can prevent cookies from being set on your browser. For instructions on how to block, delete or disable any cookies, please consult your browser's 'Help' or 'Support' section. Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
+Además, en cualquier momento, puede impedir que se envíen cookies a su navegador. Para ver instrucciones sobre cómo bloquear, borrar o deshabilitar cualquier cookie, consulte la sección "Ayuda" o "Soporte" de su navegador. Tenga en cuenta que, al borrar nuestras cookies o deshabilitar cookies futuras, tal vez no pueda acceder a determinadas áreas o funciones de nuestro sitio web.
 
-Please consult the following links for information on cookie management and blocking according to your browser:
+Consulte los siguientes enlaces para obtener información sobre cómo administrar las cookies y su bloqueo según el navegador que usa:
 
-* Edge: [https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)
-* Firefox: [https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop)
-* Chrome: [https://support.google.com/chrome/answer/95647](https://support.google.com/chrome/answer/95647)
-* Safari: [https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac)
+* Edge: [https://support.microsoft.com/es-es/windows/microsoft-edge-datos-de-exploraci%C3%B3n-y-privacidad-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd](https://support.microsoft.com/es-es/windows/microsoft-edge-datos-de-exploraci%C3%B3n-y-privacidad-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)
+* Firefox: [https://support.mozilla.org/es/kb/Protecci%C3%B3n-contra-el-rastreo-mejorada-en-Firefox-para-escritorio](https://support.mozilla.org/es/kb/Protecci%C3%B3n-contra-el-rastreo-mejorada-en-Firefox-para-escritorio)
+* Chrome: [https://support.google.com/chrome/answer/95647?hl=es](https://support.google.com/chrome/answer/95647?hl=es)
+* Safari: [https://support.apple.com/es-es/guide/safari/manage-cookies-sfri11471/mac](https://support.apple.com/es-es/guide/safari/manage-cookies-sfri11471/mac)
 
-In addition, you may opt-out of some third-party cookies through the [Network Advertising Initiative's Opt-Out Tool](https://optout.networkadvertising.org/?c=1).
+Además, puede rechazar algunas cookies de terceros usando la [herramienta de exclusión voluntaria de la Network Advertising Initiative](https://optout.networkadvertising.org/?c=1).
 
-You can find more information about cookies and how to manage and delete them at [www.allaboutcookies.org](https://www.allaboutcookies.org/).
+Puede obtener más información sobre las cookies y cómo administrarlas y eliminarlas ingresando en [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
-**Contact Us**
+**Contáctenos**
 
-If you have any questions regarding cookies which are deployed on our website, you can contact us at [privacy@myhealthteam.com](mailto:privacy@myhealthteam.com)
+Si tiene preguntas sobre las cookies que se utilizan en nuestro sitio web, puede contactarnos escribiendo a [privacy@myhealthteam.com](mailto:privacy@myhealthteam.com)
 
 MyHealthTeam One Post Street, Suite 2250, San Francisco, CA 94104 [privacy@myhealthteam.com](mailto:privacy@myhealthteam.com)
 
