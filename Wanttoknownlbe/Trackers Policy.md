@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/a-last-goodbye/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/adempauze/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
