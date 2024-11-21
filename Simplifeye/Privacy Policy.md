@@ -96,63 +96,63 @@ Vyne Trellis® is an end-to-end revenue acceleration platform for your practice 
 
 [Learn More](https://vynedental.com/simplifeye-form/)
 
-![Electronic Claims & Attachments](https://vynedental.com/wp-content/uploads/elementor/thumbs/1_Unlimited-Electronic-Claims-Attachments-in-One-Seamless-Flow-qc2rc9fr2yap3xj6f68r7m7um5r7dsxo5oz1b5kn1c.png)
+![Electronic Claims & Attachments](https://vynedental.com/wp-content/uploads/elementor/thumbs/1_Unlimited-Electronic-Claims-Attachments-in-One-Seamless-Flow-qx1nc3ul6ubb1y4s883blz2yegwjiaf8ujcclp9ig0.png)
 
 Electronic Claims & Attachments
 
-![Batch and Real-Time Eligibility](https://vynedental.com/wp-content/uploads/elementor/thumbs/2_Batch-and-Real-Time-Eligibility-Verification-and-Benefit-Breakdown-qc2rce4y14h4pzccnq9w2315l341gagbuc8gpjdo68.png)
+![Batch and Real-Time Eligibility](https://vynedental.com/wp-content/uploads/elementor/thumbs/2_Batch-and-Real-Time-Eligibility-Verification-and-Benefit-Breakdown-qx1nbk3z7bkaa4xgfhk5nm29xdlu0n8vrtn5iw2s2o.png)
 
 Batch and Real-Time Eligibility
 
-![Electronic Patient Forms](https://vynedental.com/wp-content/uploads/elementor/thumbs/3_Customizable-Integrated-Electronic-Patient-Forms-qc2rciu4zankc15iwab0wjugk0gviryzizhw3x6pb4.png)
+![Electronic Patient Forms](https://vynedental.com/wp-content/uploads/elementor/thumbs/3_Customizable-Integrated-Electronic-Patient-Forms-qx1nbl1te5lklqw39zys83tqirh78ccm3yan061dwg.png)
 
 Electronic Patient Forms
 
-![Payments](https://vynedental.com/wp-content/uploads/elementor/thumbs/4_Payments-qc2rcnjbxgtzy2yp4uc5r0nrixtpl9hn7mrbiazqg0.png)
+![Payments](https://vynedental.com/wp-content/uploads/elementor/thumbs/4_Payments-qx1nclpisozr6jeubxt8fckposgikje58zqkpyj15s.png)
 
 Payments
 
-![Patient Text and Email Reminders](https://vynedental.com/wp-content/uploads/elementor/thumbs/5_Automated-Integrated-Patient-Text-and-Email-Reminders-qc2rcraoosz58it8ivyo0zplwhb6g1wkk5d9feu5r4.png)
+![Patient Text and Email Reminders](https://vynedental.com/wp-content/uploads/elementor/thumbs/5_Automated-Integrated-Patient-Text-and-Email-Reminders-qx1nd5g4s7qrycm64ocedple5vr826kibpfrsrprj4.png)
 
 Patient Text and Email Reminders
 
-![Dental Team Chat](https://vynedental.com/wp-content/uploads/elementor/thumbs/6_Dental-Team-Chat-qc2rcvzvmz5kukmerfzsvgiwveo0ijf88smotsn6w0.png)
+![Dental Team Chat](https://vynedental.com/wp-content/uploads/elementor/thumbs/6_Dental-Team-Chat-qx1n9xtzflciaba3vsdad0rp3hl2retivt71rqh6sg.png)
 
 Dental Team Chat
 
-![Clinical Case Collaboration](https://vynedental.com/wp-content/uploads/elementor/thumbs/8_Electronic-Clinical-Case-Collaboration-qc2rd0p2l5c0gmfl000xpxc7uc0ul0xvxfw486g80w.png)
+![Clinical Case Collaboration](https://vynedental.com/wp-content/uploads/elementor/thumbs/8_Electronic-Clinical-Case-Collaboration-qx1nbot65hqpw6qmo1lai2vkwayo34rjggwkx9vt7k.png)
 
 Clinical Case Collaboration
 
-![Online Reviews](https://vynedental.com/wp-content/uploads/elementor/thumbs/7_Online-Reviews-qc2rd5e9jbig2o8r8k22ke5it9donigjm35jmk995s.png)
+![Online Reviews](https://vynedental.com/wp-content/uploads/elementor/thumbs/7_Online-Reviews-qx1n8mu1xvk65t6di81xwcmne80q2jmy1ckrrwevfk.png)
 
 Online Reviews
 
-![Claim Denial Support](https://vynedental.com/wp-content/uploads/elementor/thumbs/9_Claim-Denial-Support-qc2rd95mannld43amlokud7d6sv5iavgylrhjo3ogw.png)
+![Claim Denial Support](https://vynedental.com/wp-content/uploads/elementor/thumbs/9_Claim-Denial-Support-qx1nd7bt5vtclkjftp5nip4bcnhyhkryzyqqrbmz6o.png)
 
 Claim Denial Support
 
-![Secure Email](https://vynedental.com/wp-content/uploads/elementor/thumbs/11_Secure-Email-qc2rdcwz1zsqnjxu0nb34c97kccmd3aeb4dfgry3s0.png)
+![Secure Email](https://vynedental.com/wp-content/uploads/elementor/thumbs/11_Secure-Email-qx1n7ozv3u9ujujiztfdel620cnidfwlwp3ahxt1nk.png)
 
 Secure Email
 
-![Electronic Remittance Advice](https://vynedental.com/wp-content/uploads/elementor/thumbs/10_Electronic-Remittance-Advice-ERA-qc2rdhm605z69lr097c7yt2ij9pgfkt1zrmuv5r4ww.png)
+![Electronic Remittance Advice](https://vynedental.com/wp-content/uploads/elementor/thumbs/10_Electronic-Remittance-Advice-ERA-qx1n9lm2yqvs3druv534ylupdh9azch0i4pqj4zb1c.png)
 
 Electronic Remittance Advice
 
-![Online Scheduling](https://vynedental.com/wp-content/uploads/elementor/thumbs/12_Online-Scheduling-qc2rdldiri4bk1ljn8yq8s4cwt6xad7zca8ss9lk80.png)
+![Online Scheduling](https://vynedental.com/wp-content/uploads/elementor/thumbs/12_Online-Scheduling-qx1n9lm2yqvs3druv534ylupdh9azch0i4pqj4zb1c.png)
 
 Online Scheduling
 
-![Live Webchat](https://vynedental.com/wp-content/uploads/elementor/thumbs/13_Live-Chat-qc2rdq2ppoar63epvszv38xnvqjrcuqn0xi86nelcw.png)
+![Live Webchat](https://vynedental.com/wp-content/uploads/elementor/thumbs/13_Live-Chat-qx1nc4sfdocldk3f2qhy6guezurwpziz6nzu2z849s.png)
 
 Live Webchat
 
-![Campaigns](https://vynedental.com/wp-content/uploads/elementor/thumbs/14_Campaigns-qc2rdtu2h0fwgj999umdd7zi9a187n5kdg463r90o0.png)
+![Campaigns](https://vynedental.com/wp-content/uploads/elementor/thumbs/14_Campaigns-qx1n8ucrgjugqovgabaygaqc5azns4gsqdsnm43q1s.png)
 
 Campaigns
 
-![Vyne Dental Plans](https://vynedental.com/wp-content/uploads/elementor/thumbs/15_Vyne-Dental-Plans-qgdgyaz49tycalbgyihhy45xwezq8v0y6gp6yv9jmo.png)
+![Vyne Dental Plans](https://vynedental.com/wp-content/uploads/elementor/thumbs/15_Vyne-Dental-Plans-qx1n9yrtmfdslx8qqarwxij5ovgfz3x97xuj90fsm8.png)
 
 Vyne Dental Plans
 
