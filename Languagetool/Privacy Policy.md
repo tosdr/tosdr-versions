@@ -1386,4 +1386,4 @@ If the GDPR, US State privacy laws, or other privacy law grants you the right to
 Cookie Policy
 -------------
 
-To view our Cookie Policy, [click here](https://languagetool.org/%7B%E2%80%8Blang%7D/legal/cookie-settings) .
+To view our Cookie Policy, [click here](https://languagetool.org/legal/cookie-settings) .
