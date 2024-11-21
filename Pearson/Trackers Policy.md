@@ -1,5 +1,3 @@
-     
-
 * [For School](https://www.pearson.com/en-us/schools.html)
 * [For College](https://www.pearson.com/en-us/higher-education.html)
 * [For Work](https://www.pearson.com/en-us/work.html)
