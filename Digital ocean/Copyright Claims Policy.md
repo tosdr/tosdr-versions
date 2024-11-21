@@ -30,8 +30,9 @@
         AI / ML
         
         * [GPU Droplets](https://www.digitalocean.com/products/gpu-droplets)
-        * [GenAI Platform](https://www.digitalocean.com/products/gen-ai)
         * [1-Click Models](https://www.digitalocean.com/products/ai-ml/1-click-models)
+        * [GenAI Platform](https://www.digitalocean.com/products/gen-ai)
+        * [Bare Metal](https://www.digitalocean.com/products/bare-metal-gpu)
         
         Backups & Snapshots
         
@@ -170,7 +171,7 @@
         * [Hatch Startup Program](https://www.digitalocean.com/hatch)
         * [Open Source Sponsorships](https://www.digitalocean.com/open-source)
         * [Hacktoberfest](https://hacktoberfest.com/)
-        * [Deploy 2024](https://www.digitalocean.com/deploy)
+        * [Deploy 2025](https://www.digitalocean.com/deploy)
         * [DO Impact](https://www.digitalocean.com/impact)
         * [Nonprofits](https://www.digitalocean.com/impact/nonprofits)
         * [Wavemakers Program](https://www.digitalocean.com/wavemakers)
@@ -300,7 +301,9 @@ Consistent with the requirements of the DMCA, the Company will terminate, in app
 * [Functions](https://www.digitalocean.com/products/functions)
 * [App Platform](https://www.digitalocean.com/products/app-platform)
 * [GPU Droplets](https://www.digitalocean.com/products/gpu-droplets)
+* [1-Click Models](https://www.digitalocean.com/products/ai-ml/1-click-models)
 * [GenAI Platform](https://www.digitalocean.com/products/gen-ai)
+* [Bare Metal](https://www.digitalocean.com/products/bare-metal-gpu)
 * [Load Balancers](https://www.digitalocean.com/products/load-balancers)
 * [Managed Databases](https://www.digitalocean.com/products/managed-databases)
 * [Spaces](https://www.digitalocean.com/products/spaces)
@@ -376,7 +379,9 @@ Consistent with the requirements of the DMCA, the Company will terminate, in app
 * [Functions](https://www.digitalocean.com/products/functions)
 * [App Platform](https://www.digitalocean.com/products/app-platform)
 * [GPU Droplets](https://www.digitalocean.com/products/gpu-droplets)
+* [1-Click Models](https://www.digitalocean.com/products/ai-ml/1-click-models)
 * [GenAI Platform](https://www.digitalocean.com/products/gen-ai)
+* [Bare Metal](https://www.digitalocean.com/products/bare-metal-gpu)
 * [Load Balancers](https://www.digitalocean.com/products/load-balancers)
 * [Managed Databases](https://www.digitalocean.com/products/managed-databases)
 * [Spaces](https://www.digitalocean.com/products/spaces)
