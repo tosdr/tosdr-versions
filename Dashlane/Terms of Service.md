@@ -362,8 +362,6 @@ d. _Germany_. If you are a resident of Germany, the Terms, including Section 13f
 
 Dashlane and the Dashlane logo are trademarks of Dashlane SAS, registered in the U.S. and other countries.
 
-[Level Access](https://www.levelaccess.com/dashlane?utm_source=dashlanehomepage&utm_medium=iconlarge&utm_term=eachannelpage&utm_content=header&utm_campaign=dashlane)
-
 * [Terms](https://www.dashlane.com/terms)
 * [Privacy](https://www.dashlane.com/privacy/overview)
 * [Legal](https://www.dashlane.com/legal)
