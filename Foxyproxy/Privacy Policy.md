@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for your great service and for all.
+Fantastic support as usual.
 
-Michel Polanchet
+Frederic Delaroche
