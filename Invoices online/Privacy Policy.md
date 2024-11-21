@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Jannie Schutte - myFinance-Online.co.za
+Henry Venter
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=12358823)  
-OrgChart Hosting Pty Ltd
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=36306985)  
+NIMAWELL
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=166163069)  
-J.M. HUMAN RESOURCES
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=126728628)  
+Vplay Letsheng Mall
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=52447427)  
-Imvubu General Trading
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=1591972)  
+Redlum Group (Pty) Ltd
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=99583937)  
-AMS Ambu Medical Supplies
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=214615131)  
+Sophia's Roses
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=84662021)  
-MR Compressors& Industrial Supplies
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=10382609)  
+NGB HOLDINGS PTY LTD
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=94559362)  
-West Coast Horse Trails
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=132094252)  
+LEONARD
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=54934535)  
-Wiselink Broadband Dundee
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=45456110)  
+WIP Digital Solutions
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=29849272)  
-Tantra Sound and Lightz
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=3667143)  
+OptaServ
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=133495957)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=78448113)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=198774121)  
-Brilliant Roof Products
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=93290519)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=152350638)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=9604195)  
+Fox Alarms & Security
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=71914000)  
-Lion Software Develepment
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=60610243)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=147414211)  
-Nilbet T/A Waterman
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=178224002)  
+Three Moons Emporium
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=100921955)  
-Website Café (PTY) LTD
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=104384773)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=609af0d2248dc795bb16508711d479f8a4fad6cb4fe6aa97cd8ebdc5deafbf83&c=22647787)  
-Vplay Grafix
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=ed4de61cadb8c35454832d86f3b3aa865bb39c2627e454a3b2c1ce3b6415bf55&c=61319172)  
+Roamfree Boerdery (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
