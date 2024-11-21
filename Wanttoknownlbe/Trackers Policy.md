@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/ziekmakend-zoet/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/a-last-goodbye/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
