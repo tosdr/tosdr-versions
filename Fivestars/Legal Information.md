@@ -207,11 +207,6 @@ Error
 * [Salon](https://www.fivestars.com/small-business-marketing/salon/)
 * [Spa](https://www.fivestars.com/small-business-marketing/spa/)
 
-* [Company](https://www.fivestars.com/about-us/)
-* [About Us](https://www.fivestars.com/about-us/)
-* [New Chapter](https://www.fivestars.com/about-us/new-chapter-for-fivestars/)
-* [Careers](https://www.fivestars.com/careers/)
-* [Engineering @ Fivestars](https://www.fivestars.com/careers/engineering/)
 * [Press](https://blog.fivestars.com/in-the-press/)
 * [Terms](https://www.fivestars.com/legal/)
 * [Privacy Policy](https://www.fivestars.com/privacy/)
