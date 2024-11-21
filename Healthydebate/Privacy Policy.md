@@ -21,7 +21,7 @@ Most popular today
 * [Addiction](https://healthydebate.ca/topic/addiction/) (163)
 * [Racism](https://healthydebate.ca/topic/racism/) (37)
 * [Alcohol](https://healthydebate.ca/topic/alcohol/) (23)
-* [Infectious Disease](https://healthydebate.ca/topic/infectious-disease/) (660)
+* [Infectious Disease](https://healthydebate.ca/topic/infectious-disease/) (661)
 * [Marijuana](https://healthydebate.ca/topic/marijuana/) (22)
 * [Tobacco](https://healthydebate.ca/topic/tobacco/) (20)
 * [Aging](https://healthydebate.ca/topic/aging/) (204)
