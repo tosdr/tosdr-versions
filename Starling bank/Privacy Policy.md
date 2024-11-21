@@ -28,7 +28,6 @@ Online Banking](https://app.starlingbank.com/)
             
             Better banking for 16 and 17 year olds](https://www.starlingbank.com/current-account/bank-account-for-teenagers/)
     * Features
-        * [Fixed rate savings](https://www.starlingbank.com/current-account/fixed-rate-savings/)
         * [Virtual cards](https://www.starlingbank.com/features/virtual-cards/)
         * [Online banking](https://www.starlingbank.com/online-banking/)
         * [Mobile cheque deposits](https://www.starlingbank.com/features/deposit-cheques-from-mobile/)
@@ -77,7 +76,6 @@ Online Banking](https://app.starlingbank.com/)
         * [Bills Manager](https://www.starlingbank.com/features/bills-manager/)
         * [Business spending insights](https://www.starlingbank.com/features/business-spending-insights/)
         * [Business marketplace](https://www.starlingbank.com/business-account/marketplace-for-businesses/)
-        * [Fixed rate business savings](https://www.starlingbank.com/business-account/business-fixed-rate-savings/)
         * [Browse all app features](https://www.starlingbank.com/features/)
     * The essentials
         * [How to apply for an account](https://www.starlingbank.com/open-bank-account-online/)
@@ -92,6 +90,20 @@ Online Banking](https://app.starlingbank.com/)
         * [Business Class](https://www.starlingbank.com/resources/business/business-webinars/)
         * [In-app help centre](https://www.starlingbank.com/contact/in-app-help-centre/)
         * [Coronavirus government support](https://www.starlingbank.com/resources/business/covid19-tool-to-find-out-how-gov-supports-my-business/)
+    
+    * [Log in to Online Banking](https://app.starlingbank.com/)
+    * [Apply now](https://www.starlingbank.com/apply/)
+    
+* [Savings](#)
+    
+    Savings
+    
+    * Personal Savings
+        * [Fixed Saver
+            
+            Set money aside for a year in just a few taps.](https://www.starlingbank.com/current-account/fixed-rate-savings/)
+    * Business Savings
+        * [Business Fixed Saver](https://www.starlingbank.com/business-account/business-fixed-rate-savings/)
     
     * [Log in to Online Banking](https://app.starlingbank.com/)
     * [Apply now](https://www.starlingbank.com/apply/)
