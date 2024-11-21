@@ -1,4 +1,4 @@
-                            [Skip to content](#MainContent)
+                             [Skip to content](#MainContent)
 
 [](https://www.perfectsleepchair.com/collections/black-friday-deals)
 
