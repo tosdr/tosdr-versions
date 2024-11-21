@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Russia launched intercontinental ballistic missile during attack on Ukraine, Kyiv says](https://nypost.com/2024/11/21/world-news/russia-launches-nuclear-capable-icbm-into-ukraine-first-time-since-2022-invasion/)
+[Trump's attorney general pick Matt Gaetz withdraws from consideration](https://nypost.com/2024/11/21/us-news/matt-gaetz-withdraws-from-attorney-general-consideration/)
 
 Privacy Notice Highlights
 =========================
