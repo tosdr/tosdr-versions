@@ -31,6 +31,285 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre
+================================================================
+
+El cronograma de cortes de luz para Quito contempla ocho horas de reducción del servicio eléctrico. Este se aplica en dos franjas
+---------------------------------------------------------------------------------------------------------------------------------
+
+![La Empresa Eléctrica Quito dio a conocer los nuevos horarios de cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-21T082305.729.jpg)
+
+El **Ministerio de Energía** dio a conocer los horarios de **cortes de luz** con la aplicación de la reducción de horas, hasta el domingo 24 de noviembre.
+
+### Más noticias
+
+* [Cortes de luz se mantienen en ocho horas hasta el domingo 24 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-mantienen-ocho-horas-hasta-domingo-24-de-noviembre-ecuador.html "Cortes de luz se mantienen en ocho horas hasta el domingo 24 de noviembre en Ecuador")
+* [Cortes de luz en Quito este jueves 21 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-21-noviembre.html "Cortes de luz en Quito este jueves 21 de noviembre")
+* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
+
+Cortes de luz reducidos
+-----------------------
+
+El cronograma contempla **la suspensión del servicio eléctrico** de ocho horas para los días viernes 22, sábado 23 y domingo 24 de noviembre de 2024.
+
+Esta programación incluye el horario generado por las **[nueve empresas distribuidoras](https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/ "https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/")** de energía eléctrica en Ecuador.
+
+Estos horarios están sujetos a los cambios de las **condiciones hidrológicas** y podrían reducirse dentro de la programación establecida.
+
+La reducción en las horas de cortes de luz se debe a que el suministro de **energía desde Colombia** empezó desde el domingo 17 de noviembre.
+
+Cortes de luz en Quito
+----------------------
+
+La Empresa Eléctrica Quito publicó la **programación de cortes de luz** para el viernes 22, sábado 23 y domingo 24 de noviembre de 2024.
+
+Estos horarios se mantienen en ocho horas, distribuidas en **dos franjas horarias de cuatro horas** para cada bloque de barrios afectados.
+
+El sector industrial, en cambio, mantendrá una **suspensión del servicio e**n un horario de siete horas continuas.
+
+Los comentarios de los usuarios no se hicieron esperar y se pueden leer **varias quejas** en las redes sociales. La mayoría de personas reclama que **no existe una rotación en los horarios** establecidos a lo largo de las semanas.
+
+Piden que se haga una **rotación entre los sectores y la aplicación** de los cortes a lo largo del día. Algunos usuarios se quejan de la suspensión de energía en las madrugadas debido a la delincuencia.
+
+Aquí puede revisar el **cronograma completo** de los tres días:
+
+Cortes de luz se mantienen en ocho horas hasta el domingo 24 de noviembre en Ecuador
+====================================================================================
+
+La reducción en los apagones se debe a que Colombia inició la venta de energía a Ecuador desde el domingo 17
+------------------------------------------------------------------------------------------------------------
+
+![Cortes de luz se mantienen en Ecuador durante ocho horas.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-21T080723.629.jpg)
+
+El **Ministerio de Energía** dio a conocer los horarios de **cortes de luz** con la aplicación de la reducción de horas, hasta el domingo 24 de noviembre.
+
+### Más noticias
+
+* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
+* [¿Cómo reclamar por electrodomésticos dañados por cortes de luz en Guayaquil?](https://www.elcomercio.com/actualidad/guayaquil/cortes-luz-electrodomesticos-guayaquil-reclamo.html "¿Cómo reclamar por electrodomésticos dañados por cortes de luz en Guayaquil?")
+* [Cortes de luz afectan las ventas, pero no a usuarios de autos eléctricos](https://www.elcomercio.com/actualidad/ecuador/efecto-cortes-luz-vehiculos-electricos.html "Cortes de luz afectan las ventas, pero no a usuarios de autos eléctricos")
+
+Cortes de luz reducidos
+-----------------------
+
+El cronograma contempla **la suspensión del servicio eléctrico** de ocho horas para los días viernes 22, sábado 23 y domingo 24 de noviembre de 2024.
+
+Esta programación incluye el horario generado por las **nueve empresas distribuidoras** de energía eléctrica en Ecuador.
+
+Estos horarios están sujetos a los cambios de las **condiciones hidrológicas** y podrían reducirse dentro de la programación establecida.
+
+Colombia entrega energía desde esta semana
+------------------------------------------
+
+La ministra de Energía encargada, **Inés Manzano,** anunció la reducción de horas en los cortes de luz que sufre Ecuador.
+
+La ministra señaló que el suministro de **energía desde Colombia** empezó desde este domingo 17 de noviembre. Lo cual se reflejó en una reducción en los tiempos de cortes de luz en todo el Ecuador.
+
+La compra de **energía desde Colombia** se concretó tras la aprobación de una resolución en el país vecino, que permitió retomar las exportaciones de electricidad a Ecuador. Estas se habían suspendido desde el 30 de septiembre pasado.
+
+Además, señaló que las condiciones hídricas de los afluentes de la zona oriental se incrementaron y se vio una mejora en la generación de la **central hidroeléctrica Coca Codo Sinclair**, ubicada entre las provincias de Napo y Sucumbíos.
+
+Además, señaló que se espera que desde **diciembre los cortes de luz se reduzcan**, siempre y cuando las condiciones climáticas sean favorables. “A nivel regional tenemos problemas por el cambio del clima”, afirmó Manzano.
+
+Sin embargo, en la tarde del miércoles 21 de noviembre, el **presidente Daniel Noboa r**atificó su compromiso de un diciembre sin apagones.
+
+Aquí puedes revisar **los [horarios de cada provincia](https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/ "https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/"):**
+
+> 📍¡IMPORTANTE!  
+>   
+> Informamos sobre los horarios de suspensión del servicio de energía eléctrica para el periodo comprendido desde el viernes 22 hasta el domingo 24 de noviembre, que contempla racionamientos de 8 horas, a escala nacional.  
+>   
+> 🔸Programación➡️ [https://t.co/cJm2DJXGgO](https://t.co/cJm2DJXGgO) [pic.twitter.com/xw8L3GphzR](https://t.co/xw8L3GphzR)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 21, 2024](https://twitter.com/RecNaturalesEC/status/1859569611773026436?ref_src=twsrc%5Etfw)
+
+Gobierno advierte sobre movilizaciones en estado de excepción
+=============================================================
+
+El Bloque de Seguridad se refirió a las movilizaciones convocadas para este jueves 21 de noviembre. El tránsito vehicular tendrá cambios
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![La noche del miércoles 20 de noviembre, el Bloque de Seguridad emitió un comunicado.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-21T073431.580.jpg)
+
+En la noche del miércoles 20 de noviembre, el **Ministerio del Interior** compartió un video en sus redes sociales y se refirió a las movilizaciones.
+
+### Más noticias
+
+* [Motores para central térmica de Salitral están en camino, asegura Ministerio](https://www.elcomercio.com/actualidad/negocios/motores-para-central-termica-salitral-estan-camino-asegura-ministerio.html "Motores para central térmica de Salitral están en camino, asegura Ministerio")
+* [Walter Solís mantiene su libertad, según SRE de México](https://www.elcomercio.com/actualidad/seguridad/walter-solis-cuenta-condicion-refugiao-segun-sre-mexico.html "Walter Solís mantiene su libertad, según SRE de México")
+* [Exministro del correísmo, Walter Solís, fue capturado por la Interpol en México](https://www.elcomercio.com/actualidad/seguridad/exministro-correismo-walter-solis-capturado-interpol-mexico.html "Exministro del correísmo, Walter Solís, fue capturado por la Interpol en México")
+
+El estado de excepción vigente
+------------------------------
+
+El **Bloque de Seguridad,** compuesto por la Policía, Fuerzas Armadas, ministerios de Interior y de Gobierno, se pronunciaron en cuanto al **estado de excepción** que se encuentra vigente en Quito.
+
+La ministra del Interior, Mónica Palencia, dijo que, en nombre del **Gobierno Nacional,** recuerdan a la ciudadanía la vigencia del estado de excepción.
+
+Esto limita de manera temporal el **derecho de asociación** y el derecho a la inviolabilidad del domicilio, según el decreto ejecutivo 410.
+
+Palencia informó que la Intendencia General de Policía **no recibió ninguna solicitud de autorización** para realizar actividades de movilización o manifestación hasta la tarde del miércoles.
+
+Marchas previstas
+-----------------
+
+Mencionó como antecedente las **movilizaciones del pasado 15 de noviembre**, cuando se dieron “**actos violentos en contra del patrimonio ciudadano** y de las fuerzas del orden”. Agregó que en esas movilizaciones se dieron graves actos en medio de una manifestación aparentemente pacífica.
+
+Este pronunciamiento se dio debido a que, por información de Inteligencia, se conoció que **se habría programado manifestaciones para este jueves 21 de noviembre** de 2024. Estas abarcarían zonas a las que a las que la Policía y las Fuerzas Armadas no permitirán el ingreso.
+
+El comandante General de la Policía, **Víctor Zárate,** añadió que estará restringido el ingreso al Centro Histórico de Quito.
+
+Para el **tránsito vehicula**r se realizará el siguiente desvío: en sentido norte sur desde la av. Patria hacia el oriente y occidente de la ciudad. En sentido sur norte **estará cerrado** a la altura del puente del Sena, la av. Maldonado, sector de La Recoleta, para desviarse a la av. Velasco Ibarra.
+
+Zárate recalcó que es **deber de las fuerzas del orden mantener la paz** y la seguridad interna del país y repeler toda agresión en uso legítimo de la fuerza.
+
+El jefe de Operaciones de las FF.AA., Pablo Caicedo, agregó que este comunicado tiene el objetivo de **garantizar la protección de la vid**a, integridad personal y patrimonio.
+
+Por ello, exhortan a la ciudadanía a no participar en actitudes provocativas a las fuerzas del orden con la intención de causar terror o **hechos violentos**.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> COMUNICADO IMPORTANTE  
+>   
+> El Bloque de Seguridad y el [@MinGobiernoEc](https://twitter.com/MinGobiernoEc?ref_src=twsrc%5Etfw) a la ciudadanía  
+> ⬇️ [pic.twitter.com/2C2GrXboOy](https://t.co/2C2GrXboOy)
+> 
+> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [November 21, 2024](https://twitter.com/MinInteriorEc/status/1859451190104256649?ref_src=twsrc%5Etfw)
+
+Dos días para la arborización de Quito tras los incendios, se vienen
+====================================================================
+
+Este fin de semana se realizará la siembre de 20 000 árboles nativos en las zonas afectadas por los incendios de septiembre.
+----------------------------------------------------------------------------------------------------------------------------
+
+![El cerro Auqui fue uno de los más afectados por los incendios de septiembre. Ahora está en el plan de reforestación.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-52-2.jpg)
+
+Luego de los **incendios forestales** de septiembre, que dejaron en zozobra a la población, este fin de semana del 23 y 24 de noviembre se llevará adelante una campaña para la **arborización** de **Quito**. El **Municipio** de Quito lidera este proceso que pretende dotar de plantas nativas a muchas de las zonas afectadas por el fuego.
+
+### Más noticias
+
+* [Se cierra una parada de la Ecovía de Quito para rehabilitación](https://www.elcomercio.com/actualidad/quito/parada-clave-ecovia-cerrara-tres-dias-rehabilitacion.html "Se cierra una parada de la Ecovía de Quito para rehabilitación")
+* [Así se puede pedir un tanquero de agua en Quito](https://www.elcomercio.com/actualidad/quito/tanquero-agua-quito-contactos-servicio.html "Así se puede pedir un tanquero de agua en Quito")
+* [Concejo de Quito exhorta al Alcalde analizar tarifas diferenciadas de agua](https://www.elcomercio.com/actualidad/quito/quito-tarifas-diferenciadas-agua.html "Concejo de Quito exhorta al Alcalde analizar tarifas diferenciadas de agua")
+
+Arborizar Quito, en fin de semana
+---------------------------------
+
+Este fin de semana del 23 y 24 de noviembre será la minga de **arborización** que organiza la **Secretaría del Ambiente** del **Municipio de Quito.** La intención es plantar **20 000 árboles** durante este fin de semana en las zonas afectadas por los **incendios forestales.**
+
+Las jornadas son de **08:00 a 11:00** y se enfocará en **10 puntos del Distrito Metropolitano** de Quito. Se sembrarán arbustos, plantas y semillas, todas **nativas**.
+
+¿Dónde son las jornadas de arborización?
+----------------------------------------
+
+El primer día, **sábado 23 de noviembre**, se llevará a cabo la primera jornada de arborización. Y estos son los lugares destinados:
+
+* El Panecillo
+* La Toglla
+* Rumiloma
+* Chilibulo
+* Cerro Auqui
+* Perla Quiteña
+
+El **domingo 24 de noviembre** se arborizará en:
+
+* San Enrique de Velasco
+* Carapungo – Llano Grande
+* Calipiedra – Guamaní
+* Parque Guangüiltagua
+
+Las especies nativas a sembrar
+------------------------------
+
+Para la **Secretaría del Ambiente**, las especias nativas también implican un componente cultural. Algunas de ellas tienen propiedades que benefician al entorno y la vida humana. Los **alisos**, por ejemplo, tiene una gran capacidad de asimilar el CO2 y da más oxígeno; el **arrayán**, en cambio, tiene su valor en la gastronomía, pues se puede preparar agua de arrayán o guayabilla con chía.
+
+Las **especies nativas** seleccionadas para la reforestación incluyen **pusupato**, **cholán**, **pumamaqui**, **nogal**, **aliso**, **guaba**, **arrayán** y **yalomán**.
+
+“Cada una de estas plantas contribuye a fortalecer los ecosistemas locales, ofreciendo múltiples beneficios ambientales: mejoran la calidad del suelo, regulan la temperatura, atraen fauna nativa y ayudan a mitigar los efectos del cambio climático”, dicen desde la Secretaría de Ambiente.
+
+¿Cómo participar en la arborización?
+------------------------------------
+
+Ya hay más de **6 000 personas registradas** para participar de estas jornadas de arborización. Sin embargo, es posible acudir voluntariamente los mismos días de la siembra. **Se puede ir con niños y también con sus mascotas.**
+
+Sin embargo, si quiere cumplir con el requisito de **inscripción**, puede hacer [clic aquí](https://forms.gle/AQ4XNvurv5HWbvzn9 "https://forms.gle/AQ4XNvurv5HWbvzn9").
+
+Además, siempre será mejor tomar en cuenta el **mapa de ‘georeferenciación’** que la Secretaría del Ambiente elaboró de los distintos puntos de la arborización. [La puede encontrar aquí.](https://ambiente.quito.gob.ec/reforestacion-quito-2024/ "https://ambiente.quito.gob.ec/reforestacion-quito-2024/")
+
+¿Qué hacer y cómo hacer para la siembra de árboles?
+---------------------------------------------------
+
+Hay algunos **procedimientos** que se recomienda cumplir para que la jornada tenga éxito, tanto en lo que tiene que ver con las plantas en sí, como los cuidados personales.
+
+* Llegar a tiempo al punto de encuentro.
+* Habrá personal de la secretaría de Ambiente que organizará las actividades y orientará a los voluntarios en los ocho pasos que debes seguir para plantar en esta reforestación.
+* Asegúrate de portar ropa adecuada, usar gorra, bloqueador, guantes y calzado apropiado.
+* Lleva materiales de jardinería.
+* Lleva un termo o botellón para portar agua y regar a la planta.
+* Una vez que empiecen los trabajos, recibirás tu planta.
+* Revisa que el hoyo en el que plantarás tu árbol sea de una profundidad de al menos 30 cm, cuente con abono e hidrogel.
+* Retira la bolsa de plástico que protege a las raíces sin lastimar a la planta.
+* Coloque la planta y cúbrala con la tierra. Nuestro personal ha realizado tareas de preparación previa del terreno en las que podrás apoyarte.
+* Una vez que termines, apisona el suelo asegurándote de que no queden espacio de aire.
+* Riega tu planta generosamente.
+
+Así funciona el Pico y placa en Quito este jueves 21 de noviembre
+=================================================================
+
+Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
+------------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa se estableció como medida para regular el tránsito vehicular en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-20T143701.029.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementó para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+### Más noticias
+
+* [Así se puede pedir un tanquero de agua en Quito](https://www.elcomercio.com/actualidad/quito/tanquero-agua-quito-contactos-servicio.html "Así se puede pedir un tanquero de agua en Quito")
+* [Chofer de bus amenazó con un machete a otro conductor en Quito](https://www.elcomercio.com/actualidad/quito/chofer-bus-machete-quito-amt.html "Chofer de bus amenazó con un machete a otro conductor en Quito")
+* [Nuevo Ministro de Gobierno advirtió sobre las protestas en Quito](https://www.elcomercio.com/actualidad/nuevo-ministro-gobierno-advirtio-protestas-quito.html "Nuevo Ministro de Gobierno advirtió sobre las protestas en Quito")
+
+El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación:
+-------------------------
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de noviembre los automotores con placa terminada en 0 deben cumplir con el proceso de matriculación. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/PsjaUTUJC0](https://t.co/PsjaUTUJC0)
+> 
+> — AMTQuito (@AMT\_Quito) [October 17, 2024](https://twitter.com/AMT_Quito/status/1846853759294472282?ref_src=twsrc%5Etfw)
+
 Acoso y manipulación detrás de una foto
 =======================================
 
@@ -65,6 +344,27 @@ Se debe garantizar que los entornos creativos, como cualquier otro ámbito labor
 
 Si no se implementan medidas efectivas ahora, no debería sorprendernos que estos y otros espacios laborales continúen siendo un terreno fértil para el acoso y la manipulación.
 
+Cartas a Quito / 21 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este jueves 21 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+ La inacción del Gobierno está matando al país
+----------------------------------------------
+
+Después que el expresidente Lasso tirara la toalla, el Ecuador se vio obligado ir a las urnas para defender la democracia, y de esta manera desterrar a los adeptos del prófugo sentenciado, llegando de esta manera Daniel Noboa, un joven con nuevas ideas y con una imagen sin mancha de corrupción, era la esperanza de mejores días, ya que los anteriores poco o nada hicieron por el país.
+
+Por lo dicho, los ecuatorianos tenemos derecho a exigirle al Primer Mandatario que, así como subió el IVA y el precio de los combustibles -encareciendo todo-, termine con las desgracias que azotan al país, empezando por los racionamientos de energía eléctrica, los crímenes, secuestros, extorsiones y robos que son el pan de cada día.
+
+Las llamadas “vacunas” están matando la microeconomía, pequeños emprendedores cierran sus negocios porque la fuerza pública (el Estado) no los protege, mandando a la quiebra a cientos de hogares. A esto se le suma las pérdidas económicas por la falta de electricidad que afecta la producción, por ende, menos ventas.
+
+Si usted desea la reelección, en vez de hacer videos de TikTok, póngase a trabajar en serio y tome las decisiones que el Ecuador necesita con urgencia, pues estamos viviendo un infierno en las calles de todas las ciudades. Lo invito a que camine por el Guasmo en una noche de apagón, y que la experiencia de sentir miedo en carne propia lo haga reflexionar y salga de su burbuja, escuche a los profesionales que dan sugerencias para salir de este caos. La inacción del Gobierno está matando al país. No queremos videos con árboles de Navidad llenos de luces, sería un insulto.
+
+Julio César Navas Pazmiño
+
 Tiempos de soñar o despertar
 ============================
 
@@ -86,27 +386,6 @@ Los sueños -muchos de ellos utópicos- tienen marcos ideológicos, contextos hi
 **Estas representaciones religiosas, políticas e ideológicas son evidentes y han sido descritas por científicos, historiadores, políticos y literatos**. Algunos hablan, inclusive, del fin de la historia, como proclama **Francis Fukuyama**, y la disolución de la modernidad de **Zygmunt Bauman** como metáfora de la transitoriedad, del cambio, y la desregulación de los mercados y la economía.
 
 **¿Es tiempo de seguir soñando en utopías, o despertar -hacia algo significativo- en un mundo que camina hacia la incertidumbre y el caos?** Una sociedad futura centrada en el bien de los seres humanos, que respetan la naturaleza y la vida parece posible, **si los ciudadanos y las instituciones vuelven las miradas hacia el pasado para aprender sus lecciones, y construir juntos en el presente-futuro una sociedad plural y viable, con menos intereses individuales en juego. ¿Otra emancipación?**
-
-Cartas a Quito / 21 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este jueves 21 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
- La inacción del Gobierno está matando al país
-----------------------------------------------
-
-Después que el expresidente Lasso tirara la toalla, el Ecuador se vio obligado ir a las urnas para defender la democracia, y de esta manera desterrar a los adeptos del prófugo sentenciado, llegando de esta manera Daniel Noboa, un joven con nuevas ideas y con una imagen sin mancha de corrupción, era la esperanza de mejores días, ya que los anteriores poco o nada hicieron por el país.
-
-Por lo dicho, los ecuatorianos tenemos derecho a exigirle al Primer Mandatario que, así como subió el IVA y el precio de los combustibles -encareciendo todo-, termine con las desgracias que azotan al país, empezando por los racionamientos de energía eléctrica, los crímenes, secuestros, extorsiones y robos que son el pan de cada día.
-
-Las llamadas “vacunas” están matando la microeconomía, pequeños emprendedores cierran sus negocios porque la fuerza pública (el Estado) no los protege, mandando a la quiebra a cientos de hogares. A esto se le suma las pérdidas económicas por la falta de electricidad que afecta la producción, por ende, menos ventas.
-
-Si usted desea la reelección, en vez de hacer videos de TikTok, póngase a trabajar en serio y tome las decisiones que el Ecuador necesita con urgencia, pues estamos viviendo un infierno en las calles de todas las ciudades. Lo invito a que camine por el Guasmo en una noche de apagón, y que la experiencia de sentir miedo en carne propia lo haga reflexionar y salga de su burbuja, escuche a los profesionales que dan sugerencias para salir de este caos. La inacción del Gobierno está matando al país. No queremos videos con árboles de Navidad llenos de luces, sería un insulto.
-
-Julio César Navas Pazmiño
 
 El polémico plátano pegado a la pared se vendió en millonaria cifra
 ===================================================================
@@ -739,268 +1018,6 @@ La adolescente argumentó que su tía le comentó que el partido estaba “aburr
 > Está señora representa a todos los colombianos, que partido tan mediocre. Luis Díaz suelte el balón, Jhon Córdoba sopla monda. [pic.twitter.com/FS5eMKwjiK](https://t.co/FS5eMKwjiK)
 > 
 > — Calderón (@acaldeeronn) [November 20, 2024](https://twitter.com/acaldeeronn/status/1859038902012838272?ref_src=twsrc%5Etfw)
-
-San viernes
------------
-
-Chelsea presume el impacto de Moisés Caicedo en la Premier League
-=================================================================
-
-En el Chelsea están orgullosos de contar con un jugador de talla mundial como Moisés Caicedo.
----------------------------------------------------------------------------------------------
-
-![Moisés Caicedo es una de las figuras del Chelsea de Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-20T171103.205.jpg)
-
-Aprovechando la tendencia que generó **Moisés Caicedo** tras su gran actuación con la Selección de Ecuador en la histórica victoria 0-1 contra Colombia, el **Chelsea** presumió a su mediocampista estrella.
-
-En un post en _X_ (antes Twitter), el club londinense destacó las estadísticas sobresalientes del ecuatoriano en la **Premier League**, donde se ha consolidado como uno de los mejores jugadores del torneo.
-
-### Más noticias:
-
-* [Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia](https://www.elcomercio.com/deportes/futbol/moises-caicedo-patron-ecuador-regresa-colombia.html "Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia")
-* [Moisés Caicedo, el jefe del Chelsea de Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-jefe-del-chelsea-de-inglaterra.html "Moisés Caicedo, el jefe del Chelsea de Inglaterra")
-* [Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-perfila-como-reemplazo-moises-caicedo-ecuador.html "Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador")
-
-Chelsea presume de Moisés Caicedo
----------------------------------
-
-El Chelsea compartió datos impresionantes sobre el rendimiento de **Caicedo**, apuntándolo como el mejor volante central de la Premier League.
-
-_“**Moisés es el único jugador de la Premier** esta temporada que completa más de 30 tackles, 500 pases, gana más de 50 duelos y recupera la posesión más de 50 veces”,_ escribió la cuenta oficial de los ‘Blues’.
-
-Desde la llegada del técnico italiano Enzo Maresca, Caicedo no solo se ha ganado la titularidad, sino que también **es uno de los líderes del equipo**, a pesar de estar apenas en su segunda temporada con el club.
-
-> Moises is the only player in the [#PL](https://twitter.com/hashtag/PL?src=hash&ref_src=twsrc%5Etfw) this season to:  
->   
-> 💪 Complete 30+ tackles  
-> 💫 Complete 500+ passes  
-> 👊 Win 50+ duels  
-> 🌟 Win possession 50+ times [pic.twitter.com/AM4lUmnJse](https://t.co/AM4lUmnJse)
-> 
-> — Chelsea FC (@ChelseaFC) [November 20, 2024](https://twitter.com/ChelseaFC/status/1859234645201608883?ref_src=twsrc%5Etfw)
-
-El impacto del ecuatoriano ha llevado a figuras históricas del **Chelsea** a rendirle elogios, como el exmediocampista John Obi Mikel, quien destacó a Caicedo en su podcast.
-
-_“Míralo jugar con el Chelsea, es el jefe, es el hombre. La forma en que se mueve, su actitud, la confianza… Este es el equipo de Caicedo,”_ comentó Mikel.
-
-El mejor volante central de la Premier League
----------------------------------------------
-
-Su dominio en el mediocampo llevó a la **Premier League** a destacarlo como el mejor volante central de la liga, con un análisis detallado de su temporada. Caicedo lidera en varios aspectos: es el número uno en tacles ganados, segundo en duelos ganados, tercero en intercepciones y quinto en pases exitosos.
-
-“Caicedo **siempre está a la ofensiva**, buscando la oportunidad de recuperar el balón y avanzando para desestabilizar a los oponentes,” comentó Adrian Clarke, exfutbolista y comentarista de la Premier League.
-
-¿Cuándo vuelve a jugar Caicedo con el Chelsea?
-----------------------------------------------
-
-Moisés Caicedo y el Chelsea regresan a la acción el sábado 23 de noviembre. Los ‘Blues’ se enfrentarán al **Leicester City** por la jornada 12 de la Premier League.
-
-El partido se disputará a las 07:30 (hora Ecuador) en el King Power Stadium, casa de los ‘Foxes’.
-
-Actualmente, el **Chelsea** ocupa el tercer lugar en la **Premier League** con 19 puntos, por detrás de Manchester City (23) y Liverpool (28).
-
-Enner Valencia cerca de ‘arrebatarle’ otro récord a Agustín Delgado
-===================================================================
-
-Enner Valencia y Agustín Delgado son los dos máximos goleadores de la Selección de Ecuador.
--------------------------------------------------------------------------------------------
-
-![Enner Valencia, jugador de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_agustin_2.jpg)
-
-**Enner Valencia** camina a paso firme a dominar todas las estadísticas goleadoras de la Selección de Ecuador. A sus 34 años es uno de los capitanes y principales referentes del actual plantel.
-
-El camino de **Enner Valencia con la Selección de Ecuador** se unió el 29 de febrero de 2012, en un año bisiesto, que sirvió para que Barcelona SC rompa el malefició de 15 años sin títulos nacionales, mientras ‘Superman’ era jugador de Emelec.
-
-### Más noticias:
-
-* [Ecuador consiguió una victoria histórica ante Colombia](https://www.elcomercio.com/deportes/futbol/ecuador-colombia-partido-eliminatorias-sudamericanas-resultado.html "Ecuador consiguió una victoria histórica ante Colombia")
-* [La Selección de Ecuador tiene rendimiento de lujo en eliminatorias](https://www.elcomercio.com/deportes/seleccion-ecuador-rendimiento-eliminatorias-colombia.html "La Selección de Ecuador tiene rendimiento de lujo en eliminatorias")
-* [¿Cuándo vuelve a jugar la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-eliminatorias-marzo.html "¿Cuándo vuelve a jugar la Selección de Ecuador?")
-
-El colombiano **Reinaldo Rueda hizo debutar a Valencia con 22 años**, tres meses y 25 días. Lo citó y le dio nueve minutos en el triunfo 2-0 ante Honduras en el estadio George Capwell con un doblete de Jaime ‘La Yoya’ Ayoví.
-
-El esmeraldeño **ingresó al campo a los 81 minutos en lugar de Jefferson Montero**, otro deportista identificado con los colores de Emelec y que en la actualidad milita en el AV25 de la Segunda Categoría de Pichincha.
-
-Esa tarde la Tri formó con Alexander Domínguez en el arco; en la defensa contó con Gabriel Achilier, Diego Armando Calderón, Frickson ‘El Elegante’ Erazo y Jorge Guagua; el mediocampo estuvo a cargo de Segundo Alejandro Castillo, David Quiroz y Joao Roja; el tridente de ataque lo conformaron Montero, Christian ‘Chucho’ Benítez y Ayoví.
-
-Tuvieron que pasar **seis partidos para que el delantero debute en la red contrario**. Fue ante la misma Honduras en un amistoso disputado el 19 de noviembre de 2013.
-
-El juego terminó empatado 2-2 en el Shell Energy Stadium en Houston, Texas. **El otro tanto tricolor fue del mismo Ayoví,** que por esos días vivía uno de sus mejores momentos como seleccionado nacional, a pesar de jugar en el fútbol de Arabia Saudita.
-
-Ese fue el inicio goleador del delantero esmeraldeño que **ya tiene en su cuenta personal 45 tantos en 95 partidos**. Poco a poco se acerca al centenario en este rubro, un espacio reservado para un puñado de futbolistas.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_agustin_1-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-Valencia cerca de Agustín Delgado
----------------------------------
-
-El primer récord que **Valencia le ‘quitó’ a Delgado fue el del máximo goleador** de la Tri. El ‘Tin’ se quedó con 31 tantos en 72 partidos en 12 años de servicio al combinado nacional.
-
-En referente a mundiales, ambos jugaron dos, pero Valencia anotó seis tantos (tres en Brasil 2014 y tres en Catar 2022), mientras que Delgado se quedó con tres (uno en Corea-Japón 2022 y dos en Alemania 2006).
-
-El récord que **nunca perderá Delgado es el de ser el primer jugador** ecuatoriano en marcar en un Mundial.
-
-Finalmente, **Valencia quedó a cuatro goles de igualar y a cinco de superar a Delgado** como el máximo goleador ecuatoriano en las eliminatorias sudamericanas.
-
-El ‘Tin’ tiene 16 y Valencia 12. En la mitad de los dos está Felipe Caicedo con 15 y detrás de todos ellos Édison Méndez, el único jugador nacional con tres mundiales, que se quedó con 11 gritos de gol.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/enner_agustin_3-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-San viernes
------------
-
-Compra seguro en el Black Friday con estos consejos
-===================================================
-
-Te compartimos varias recomendaciones para que hagas tus compras con seguridad en los descuentos del Black Friday.
-------------------------------------------------------------------------------------------------------------------
-
-![El Black Friday es la época comercial más importante del año](https://www.elcomercio.com/wp-content/uploads/2024/11/compra-seguridad-black-friday.jpg)
-
-El **Black Friday** es una de las fechas comerciales más esperadas del año por **compradores y vendedores** del mundo; **Ecuador** no es la excepción. Por ello, te compartimos varios consejos para que tus compras sean **seguras** y evites **estafas** en esta fecha.
-
-### Más noticias
-
-* [Hoy es el Día del Soltero, conocido como el ‘Black Friday chino’](https://www.elcomercio.com/tendencias/curiosidades/dia-soltero-black-friday-chino-efemeride.html "Hoy es el Día del Soltero, conocido como el ‘Black Friday chino’ ")
-* [¿Cuándo será el Black Friday en 2024?](https://www.elcomercio.com/actualidad/mundo/cuando-es-el-black-friday.html "¿Cuándo será el Black Friday en 2024?")
-* [Estas son las ofertas del último CyberDay de 2024](https://www.elcomercio.com/empresariales/ofertas-ultimo-cyberday-2024.html "Estas son las ofertas del último CyberDay de 2024")
-
-El **Viernes Negro** ofrece grandes **descuentos y promociones** en una amplia variedad de productos y servicios. Durante esta jornada, las **tiendas físicas y en línea** reducen sus precios para atraer a los consumidores.
-
-¿Cuándo es el Black Friday en Ecuador?
---------------------------------------
-
-En Ecuador, el **Black Friday** se celebrará el **29 de noviembre** de 2024.
-
-Esta fecha siempre coincide con el viernes siguiente al **Día de Acción de Gracias** en los Estados Unidos, que se celebra el cuarto jueves de noviembre.
-
-Compra con seguridad en el Black Friday
----------------------------------------
-
-Procura realizar tus compras en línea en sitios webs y **tiendas reconocidas**. Por lo general, las grandes plataformas mantienen procesos claros de compra y venta.
-
-Una vez compruebes que el negocio existe en Google, otros navegadores y redes sociales, revisa los **comentarios** de la plataforma y de los productos de tu interés.
-
-Si la entrega de lo que pides no corre a cargo de un courier, evita comprar artículos muy costos, pide imágenes y videos previamente y, de ser posible, **no realices pagos totales**.
-
-En caso de que tus productos no cuenten con envío a domicilio, coordina **puntos de encuentro** con los vendedores en lugares públicos.
-
-### Reconoce estafas comunes
-
-* **Correos y mensajes sospechosos:** Cuidado con mensajes de texto o correos electrónicos que tengan mala redacción, faltas ortográficas o usen un lenguaje genérico. Estas son señales típicas de intentos de estafas virtuales.
-* **Urgencia exagerada:** Si un mensaje te dice que actúes con inmediatez, duda. Estas prácticas buscan que no te detengas a verificar la autenticidad de los mensajes.
-* **Ofertas demasiado buenas para ser verdad:** Los descuentos desproporcionados o regalos increíbles suelen ser un anzuelo para dirigirte a sitios falsos.
-* **Verifica el sitio web:** Asegúrate de que la URL comience con “https” y tenga un candado en la barra de direcciones. Los sitios sin estas medidas de seguridad podrían ser fraudulentos[.](https://es.wikipedia.org/wiki/Viernes_negro_(compras) "https://es.wikipedia.org/wiki/Viernes_negro_(compras)")
-
-### Cuida tus datos bancarios y tarjetas de crédito
-
-* **Usa contraseñas robustas y únicas:** Crea combinaciones de palabras, números y caracteres especiales para tus cuentas bancarias. Evita usar datos personales evidentes como tu fecha de nacimiento.
-* **Minimiza los datos compartidos:** No publiques información personal o detalles de tus compras en redes sociales. Recuerda que los bancos no solicitan tus datos confidenciales.
-* **Cuidado con los permisos de aplicaciones:** Descarga apps solo de tiendas oficiales y revisa qué permisos solicitan antes de instalarlas.
-* **Si caíste en una estafa:** actúa rápido y contáctate con tu banco; cambia tus contraseñas y reporta el incidente a la Policía.
-
-Planifica tus compras, elige sitios confiables y **mantén la calma** ante ofertas irresistibles. Con estos consejos, estarás listo para aprovechar las promociones sin comprometer tu seguridad.
-
-Cortes de luz en Guayaquil este jueves 21 de noviembre
-======================================================
-
-Los cortes de luz en Guayaquil este jueves 21 de noviembre son de hasta ocho horas en el sector residencial y de hasta tres en el sector idustrial.
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz para Guayaquil este jueves 21 de noviembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-jueves-21-noviembre.jpg)
-
-Los **cortes de luz** en **Guayaquil** este **jueves 21 de noviembre** son de hasta ocho horas para el sector residencial y de seis para el sector industrial.
-
-**CNEL** definió la programación de la suspensión del servicio de energía eléctrica para la urbe porteña.
-
-### Más noticias:
-
-* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
-* [Hidroeléctrica Mazar está apagada cinco días y su embalse se recupera lentamente](https://www.elcomercio.com/actualidad/negocios/hidroelectrica-mazar-esta-apagada-cinco-dias-y-su-embalse-se-recupera-lentamente.html "Hidroeléctrica Mazar está apagada cinco días y su embalse se recupera lentamente")
-
-Horarios de los cortes de luz en Guayaquil el jueves 21 de noviembre
---------------------------------------------------------------------
-
-Ecuador se acerca a los **dos meses** de cortes de luz programados por la falta de **generación** de energía.
-
-El país es dependiente de las **lluvias** para generar energía eléctrica y se enfrenta a una de las más fuertes sequías de las últimas décadas.
-
-En los últimos días, la mejora en las condiciones de producción de Coca Codo Sinclair hizo que el Gobierno de **Daniel Noboa** disponga una nueva reducción.
-
-Además, el acuerdo energético entre **Ecuador y Colombia** alivia la crisis energética en el país.
-
-La ministra de Energía encargada, **Inés Manzano**, señaló que el suministro de energía desde Colombia empezó el domingo 17 de noviembre.
-
-En tanto, la situación de los embalses y las hidroeléctricas en el país es regular.
-
-El apagón en **Mazar** lleva cinco días y su embalse se recupera lentamente.
-
-Los cortes de luz **disminuyeron** de 12 a ocho horas para esta semana.
-
-La ciudadanía está a la **expectativa** de la nueva programación para el viernes 22, sábado 23 y domingo 24 de noviembre, que aún no se ha dado a conocer.
-
-Así, Guayaquil, los cortes de luz son de ocho horas, divididas en hasta tres franjas horarias para el **sector residencial.**
-
-Para el **sector industrial**, los cortes de luz son de seis horas consecutivas.
-
-A continuación, los **cortes de luz en Guayaquil para este jueves 21 de noviembre** de 2024:
-
-Duelo de goleadores nacionales en la Liga Pro
-=============================================
-
-Técnico Universitario y Barcelona SC jugarán en el Bellavista de Ambato en la fecha 14 de la Liga Pro.
-------------------------------------------------------------------------------------------------------
-
-![Janner Corozo, jugador de Barcelona SC en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/armas_corozo_1.jpg)
-
-La segunda etapa de la **Liga Pro está a dos partidos de finalizar el calendario**. Independiente del Valle y Liga de Quito son los principales candidatos para quedarse con el primer puesto.
-
-Las dos fechas finales de la Liga Pro tomaron mayor relevancia por los tres puntos que Liga de Quito perdió por disposición de la **Comisión Disciplinaria de la Federación Ecuatoriana de Fútbol (FEF)**, pero que están en etapa de apelación.
-
-### Más noticias:
-
-* [¿Cuándo vuelve a jugar la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-eliminatorias-marzo.html "¿Cuándo vuelve a jugar la Selección de Ecuador?")
-* [El ‘pulpo’ Hernán Galíndez, la figura de la Selección Ecuador](https://www.elcomercio.com/deportes/futbol/hernan-galindez-figura-ecuador-colombia.html "El ‘pulpo’ Hernán Galíndez, la figura de la Selección Ecuador")
-* [Para Beccacece, la Selección de Ecuador dio “un pasito más” al Mundial](https://www.elcomercio.com/deportes/futbol/beccacece-ecuador-pasito-mundialista-2026.html "Para Beccacece, la Selección de Ecuador dio “un pasito más” al Mundial")
-
-En la Liga Pro está en juego el equipo finalista de la segunda etapa o definir al campeón de forma directa, **los cupos a torneos internacionales y los dos conjuntos que en el 2025** jugarán en la Liga Pro Serie B.
-
-En la jornada 14 destacan los encuentros de Universidad Católica vs. Liga de Quito en el estadio Olímpico Atahualpa y el **Independiente del Valle vs. Macará** en el Complejo de los del Valle en el sur oriente de Quito.
-
-En la zona del descenso jugarán en horario unificado Deportivo Cuenca vs. Libertad en el Alejandro Serrano Aguilar; Cumbayá vs. **Orense en el Olímpico Atahualpa**; y Emelec vs. Imbabura en el George Capwell.
-
-Otro de los partidos destacados es el de **Técnico Universitario vs. Barcelona Sporting Club** en el Bellavista de Ambato. Se espera casa llena para mirar este encuentro que puede poner más cerca a los guayaquileños de la Copa Libertadores 2025.
-
-Pero ese no es el único atractivo de este duelo. También estarán frente a frente los dos máximos goleadores ecuatorianos de la Liga Pro.
-
-Diego Armas vs. Janner Corozo
------------------------------
-
-El paraguayo Alex Arce, delantero de Liga de Quito, es el goleador de la Liga Pro con 21 goles.
-
-El segundo lugar le corresponde al colombiano **Jeison Medina que tiene 19**. En la primera etapa jugó con Aucas y en la segunda con Independiente del Valle.
-
-El primer ecuatoriano en la lista es **Diego Armas. El deportista de 34 años es el capitán** de los ambateños y su principal carta ofensiva. Anotó 18 tantos y dio cinco asistencias.
-
-El mediocampista quiteño le marcó a Mushuc Runa (3), Imbabura (3), Cumbayá (2), Aucas (2), Orense (2), Universidad Católica (2), **Macará (1), Deportivo Cuenca (1), Libertad (1)** y Liga de Quito (1).
-
-Según Transfermarkt, Armas tiene jugados en la Liga Pro 2 188 minutos, es decir, anota un gol cada 121 minutos.
-
-Janner Corozo **comparte el quinto lugar con el argentino Pablo Magnín** del Deportivo Cuenca. Tiene 15 goles y siete asistencias en 27 partidos con Barcelona SC.
-
-En cancha tiene 2 038 minutos y su promedio goleador es de un tanto cada 135 minutos.
-
-Le anotó a Delfín (3), Imbabura (2), **Independiente del Valle (2), Emelec (2), Cumbayá (2)**, Macará (1), Deportivo Cuenca (1), Delfín (1) y Aucas (1).
-
-El buen presente lo llevó a ser citado para la **Copa América Estados Unidos 2024** y para las eliminatorias al Mundial 2026.
-
-![Diego Armas (c), jugador de Técnico Universitario.](https://www.elcomercio.com/wp-content/uploads/2024/11/armas_corozo_2-1024x683.jpg)
-
-Diego Armas (c), jugador de Técnico Universitario.
 
 San viernes
 -----------
