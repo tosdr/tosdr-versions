@@ -104,6 +104,36 @@ Nov 14 2024
 
 By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/), [Reade Ben](https://admin.mi52siterestore.com/person/reade-ben/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/moving-left-a-study-of-ideological-and-demographic-change-among-federal-reserve-bank-directors/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-can-teach-the-education-department-a-lesson-nominee-needs-boldness-back-school-choice-oppose-woke-indoctrination.jpg)[](https://admin.mi52siterestore.com/article/how-trump-can-teach-the-department-of-education-a-lesson/ "Read More")
+
+Commentary Education, Governance Pre K-12
+
+Nov 19 2024
+
+[How Trump Can Teach the Department of Education a Lesson](https://admin.mi52siterestore.com/article/how-trump-can-teach-the-department-of-education-a-lesson/)
+
+By **[Jason L. Riley](https://admin.mi52siterestore.com/person/jason-l-riley/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/how-trump-can-teach-the-department-of-education-a-lesson/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/horrific-stabbing-spree-in-manhattan-shows-how-politicians-still-wont-lock-up-the-dangerous-mentally-ill.jpg)[](https://admin.mi52siterestore.com/article/horrific-stabbing-spree-in-manhattan-shows-how-politicians-still-wont-lock-up-the-dangerous-mentally-ill/ "Read More")
+
+Commentary Public Safety, Cities Crime Control, Serious Mental Illness, Policing, New York City
+
+Nov 19 2024
+
+[Horrific Stabbing Spree in Manhattan Shows How Politicians Still Won’t Lock Up the Dangerous Mentally Ill](https://admin.mi52siterestore.com/article/horrific-stabbing-spree-in-manhattan-shows-how-politicians-still-wont-lock-up-the-dangerous-mentally-ill/)
+
+By **[Carolyn D. Gorman](https://admin.mi52siterestore.com/person/carolyn-d-gorman/), [Stephen Eide](https://admin.mi52siterestore.com/person/stephen-eide/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/horrific-stabbing-spree-in-manhattan-shows-how-politicians-still-wont-lock-up-the-dangerous-mentally-ill/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/immigration-is-a-mess-heres-how-to.jpg)[](https://admin.mi52siterestore.com/article/immigration-is-a-mess-heres-how-to-fix-it/ "Read More")
+
+Commentary Governance, Culture Immigration
+
+Nov 19 2024
+
+[Immigration Is a Mess. Here’s How to Fix It.](https://admin.mi52siterestore.com/article/immigration-is-a-mess-heres-how-to-fix-it/)
+
+By **[Reihan Salam](https://admin.mi52siterestore.com/person/reihan-salam/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/immigration-is-a-mess-heres-how-to-fix-it/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/heres_why_asian_americans_shifted_right_.jpg)[](https://admin.mi52siterestore.com/article/heres-why-asian-americans-shifted-right/ "Read More")
 
 Commentary Governance Elections
@@ -113,36 +143,6 @@ Nov 19 2024
 [Here’s Why Asian Americans Shifted Right](https://admin.mi52siterestore.com/article/heres-why-asian-americans-shifted-right/)
 
 By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/heres-why-asian-americans-shifted-right/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-economy-prosperity.jpg)[](https://admin.mi52siterestore.com/article/a-lot-of-trump-voters-saw-more-light-than-darkness-in-his-message/ "Read More")
-
-Commentary Governance Elections
-
-Nov 14 2024
-
-[A Lot of Trump Voters Saw More Light than Darkness in His Message](https://admin.mi52siterestore.com/article/a-lot-of-trump-voters-saw-more-light-than-darkness-in-his-message/)
-
-By **[Robert Henderson](https://admin.mi52siterestore.com/person/robert-henderson/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/a-lot-of-trump-voters-saw-more-light-than-darkness-in-his-message/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-might-have-won-the-first-postracial-election-black-hispanic-minorities.jpg)[](https://admin.mi52siterestore.com/article/trump-might-have-won-the-first-postracial-election/ "Read More")
-
-Commentary Governance Elections
-
-Nov 12 2024
-
-[Trump Might Have Won the First Postracial Election](https://admin.mi52siterestore.com/article/trump-might-have-won-the-first-postracial-election/)
-
-By **[Jason L. Riley](https://admin.mi52siterestore.com/person/jason-l-riley/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/trump-might-have-won-the-first-postracial-election/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/Trillion-dollar-deficits.jpeg)[](https://admin.mi52siterestore.com/article/2024-chart-book-examines-spending-taxes-and-deficits/ "Read More")
-
-Commentary Economics Tax & Budget
-
-Nov 12 2024
-
-[2024 Chart Book Examines Spending, Taxes, and Deficits](https://admin.mi52siterestore.com/article/2024-chart-book-examines-spending-taxes-and-deficits/)
-
-By **[Brian Riedl](https://admin.mi52siterestore.com/person/brian-riedl/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/2024-chart-book-examines-spending-taxes-and-deficits/)
 
 Our Policy Areas
 ----------------
