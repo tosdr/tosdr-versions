@@ -31,7 +31,7 @@ Subscribe
  ![Search](/theme_japantimes/images/search_icon.svg)
 
 * [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
-* [LDP / DPP](https://www.japantimes.co.jp/tag/LDP/ "LDP / DPP")
+* [Japan tax cuts](https://www.japantimes.co.jp/trending/ "Japan tax cuts")
 * [Russia-Ukraine war](https://www.japantimes.co.jp/tag/russia-ukraine-war/ "Russia-Ukraine war")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
@@ -213,9 +213,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,19 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.S. envoy en route to Israel in bid toward ceasefire with Hezbollah](https://www.japantimes.co.jp/news/2024/11/21/world/politics/israel-hezbollah-ceasefire-talks/ "U.S. envoy en route to Israel in bid toward ceasefire with Hezbollah")
+[Strategic subsea cables: the vulnerable links that enable our digital lives](https://www.japantimes.co.jp/news/2024/11/21/world/explainer-strategic-subsea-cables/ "Strategic subsea cables: the vulnerable links that enable our digital lives")
 
-6 hours ago
+47 mins ago
 
-[Japanese publisher Kadokawa shares roar on Sony buyout report](https://www.japantimes.co.jp/business/2024/11/20/kadokawa-shares-roar-sony-buyout/ "Japanese publisher Kadokawa shares roar on Sony buyout report")
+[Nomura ex-employee charged with attempted murder](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/nomura-ex-employee-charge/ "Nomura ex-employee charged with attempted murder")
 
-10 hours ago
+56 mins ago
 
-[Japan's 3.31 million visitors in October set monthly record](https://www.japantimes.co.jp/news/2024/11/20/japan/japan-visitors-month-record/ "Japan's 3.31 million visitors in October set monthly record")
+[Nvidia's AI chip demand still booming but slowing sales worry investors](https://www.japantimes.co.jp/business/2024/11/21/tech/nvidia-ai-chip-growth/ "Nvidia's AI chip demand still booming but slowing sales worry investors")
 
-[Senior JP Dragon member linked to Luffy crime group arrested](https://www.japantimes.co.jp/news/2024/11/20/japan/crime-legal/jp-dragon-arrest/ "Senior JP Dragon member linked to Luffy crime group arrested")
+1 hour ago
 
-[Ruling coalition and DPP strike last-minute deal over economic policy](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/economic-threshold-political-wrangling/ "Ruling coalition and DPP strike last-minute deal over economic policy")
+[Korea Zinc takeover battle tests Seoul's resolve on tackling 'Korea discount'](https://www.japantimes.co.jp/business/2024/11/21/companies/korea-zinc-takeover-seoul-discount/ "Korea Zinc takeover battle tests Seoul's resolve on tackling 'Korea discount'")
+
+1 hour ago
+
+[Apple Daily: The Hong Kong tabloid that dared to challenge China](https://www.japantimes.co.jp/news/2024/11/21/world/politics/apple-daily-hong-kong-china/ "Apple Daily: The Hong Kong tabloid that dared to challenge China")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
