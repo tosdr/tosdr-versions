@@ -8,7 +8,7 @@
 Privacy Policy
 ==============
 
-Effective Date: November 6th, 2024.
+Effective Date: November 21st, 2024.
 
 [theamericansweepstakes.com](https://theamericansweepstakes.com/) (the "Website", “Company”, “us”, “we”, or “our”) developed this Privacy Policy. This Privacy Policy, together with our [Terms and Conditions](https://theamericansweepstakes.com/terms-and-conditions.html) (collectively, the "Agreement") form a legally binding agreement between you (“you” or “your”) and the Company. This Agreement governs your access to and use of any Company website and your use or attempted use of our products and services (collectively, "Your Use"). Continued use of the Website constitutes your consent to be bound by this Agreement and shall be enforceable in the same way as if it was signed by you.
 
@@ -48,7 +48,7 @@ A. Information You Provide to Us
 
 We collect information that you provide on our Website, such as your name, telephone number, email address, physical address, date of birth or other personal information shared by you. Please note that we do not collect any unique identifiable information about you except when you specifically and knowingly share such information with us.
 
-When you use the Website or interact with us, we may collect any information that you share with us as a part of such interactions, including your responses to the survey questions and the content of the messages and/or attachments you may send us. When you take a survey on our Website, we may ask questions related to your legally protected characteristics and employment information, as defined under CCPA, including without limitation, your employment status, medical condition and genetic information. Please note that to access the free samples through our Website, successfully completing the survey is a requirement. You can choose not to take the survey and respond to the questions therein, but please be advised that in such a case, you will not be able to access the samples.
+When you use the Website or interact with us, we may collect any information that you share with us as a part of such interactions, including your responses to the survey questions and the content of the messages and/or attachments you may send us. When you take a survey on our Website, we may ask questions related to your legally protected characteristics and employment information, as defined under CCPA, including without limitation, your employment status, medical condition and genetic information. You can choose not to take the survey and respond to the questions therein.
 
 B. Information We Collect When You Use the Website
 --------------------------------------------------
