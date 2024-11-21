@@ -97,7 +97,7 @@ Support
 
 Help Center
 
-**Chat** : Online
+**Chat** : Busy
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
@@ -246,7 +246,7 @@ Support
 
 Help Center
 
-Chat: Online
+Chat: Busy
 
 [Tickets](https://www.dynadot.com/account/ticket/open.html)
 
@@ -2124,7 +2124,7 @@ USD ($)
 * [Indonesian Rupiah IDR (Rp)](https://www.dynadot.com/change_currency.html?chg_currency=IDR&pg=%2Fterms-of-use)
 * [Australian Dollar AUD (AU$)](https://www.dynadot.com/change_currency.html?chg_currency=AUD&pg=%2Fterms-of-use)
 
-[](https://www.facebook.com/pages/Dynadot/119239589383 "Dynadot on Facebook")[](https://instagram.com/dynadot/ "Dynadot on Instagram")[](https://pinterest.com/teamdynadot/ "Dynadot on Pinterest")[](https://www.linkedin.com/company/dynadot?trk=fc_badge "Dynadot on LinkedIn")[](https://www.twitter.com/dynadot "Dynadot on Twitter")[](https://www.youtube.com/user/teamdynadot "Dynadot on YouTube")
+[](https://www.facebook.com/pages/Dynadot/119239589383 "Dynadot on Facebook")[](https://instagram.com/dynadot/ "Dynadot on Instagram")[](https://www.linkedin.com/company/dynadot?trk=fc_badge "Dynadot on LinkedIn")[](https://www.twitter.com/dynadot "Dynadot on Twitter")[](https://www.youtube.com/user/teamdynadot "Dynadot on YouTube")[](https://www.reddit.com/r/dynadot/ "Dynadot on Reddit")
 
 Newsletter sign-up
 
