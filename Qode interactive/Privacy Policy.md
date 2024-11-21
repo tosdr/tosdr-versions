@@ -1,5 +1,13 @@
 ![theme placeholder](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)
 
+Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024 Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024 Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024
+
+Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024 Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024 Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024
+
+[](https://qodeinteractive.com/products/plugins/)
+
+[](#)
+
   [![logo](https://qodeinteractive.com/wp-content/uploads/2019/09/logo.png) ![dark logo](https://qodeinteractive.com/wp-content/uploads/2019/09/logo.png) ![light logo](https://qodeinteractive.com/wp-content/uploads/2019/09/logo.png)](https://qodeinteractive.com/)
 
 * [Qode Plugins & Templates](https://qodeinteractive.com/products/plugins/)
@@ -9,8 +17,8 @@
     * [Categories](https://qodeinteractive.com/themes-list/)
         * [All](https://qodeinteractive.com/themes-list/)
             * [Our Featured Items](#)
-            * [![Bridge - Creative Multi-Purpose WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
-            * [![Stockholm - A Genuinely Multi-Concept Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
+            * [![Bridge - Creative Elementor and WooCommerce WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
+            * [![Stockholm - Elementor Theme for Creative Business & WooCommerce](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
             * [![Startit - A Fresh Startup Business Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Startit](https://qodeinteractive.com/wordpress-theme/startit-a-fresh-startup-business-theme/)
             * [![Search & Go - Smart Directory Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Search & Go](https://qodeinteractive.com/wordpress-theme/search-go-smart-directory-theme/)
             * [![Depot - eCommerce Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Depot](https://qodeinteractive.com/wordpress-theme/depot-a-contemporary-theme-for-ecommerce/)
@@ -18,8 +26,8 @@
         * [Creative](https://qodeinteractive.com/theme-category/creative-wordpress-themes/)
             * [All](https://qodeinteractive.com/theme-category/creative-wordpress-themes/)
                 * [Featured Themes for Creatives](#)
-                * [![Bridge - Creative Multi-Purpose WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
-                * [![Stockholm - A Genuinely Multi-Concept Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
+                * [![Bridge - Creative Elementor and WooCommerce WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
+                * [![Stockholm - Elementor Theme for Creative Business & WooCommerce](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
                 * [![Zermatt - Agency Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Zermatt](https://qodeinteractive.com/wordpress-theme/zermatt-multi-concept-agency-theme/)
                 * [![Lekker - Portfolio WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Lekker](https://qodeinteractive.com/wordpress-theme/lekker-portfolio-wordpress-theme/)
                 * [![Struktur - Creative Agency Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Struktur](https://qodeinteractive.com/wordpress-theme/struktur-creative-agency-theme/)
@@ -42,8 +50,8 @@
                 * [![Marceau - Creative Portfolio Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Marceau](https://qodeinteractive.com/wordpress-theme/marceau-creative-portfolio-theme/)
             * [Multipurpose](https://qodeinteractive.com/theme-category/multipurpose-wordpress-themes/)
                 * [Featured Themes for Various Uses](#)
-                * [![Bridge - Creative Multi-Purpose WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
-                * [![Stockholm - A Genuinely Multi-Concept Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
+                * [![Bridge - Creative Elementor and WooCommerce WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
+                * [![Stockholm - Elementor Theme for Creative Business & WooCommerce](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
                 * [![Madelyn - Elegant Creative Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Madelyn](https://qodeinteractive.com/wordpress-theme/madelyn-elegant-creative-theme/)
                 * [![Carmona - Creative Multipurpose Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Carmona](https://qodeinteractive.com/wordpress-theme/carmona-creative-multipurpose-theme/)
                 * [![Sahel - An Elegant Multi-Concept Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Sahel](https://qodeinteractive.com/wordpress-theme/sahel-an-elegant-multi-concept-theme/)
@@ -363,7 +371,7 @@
         * [Colors](#)
             * [White](https://qodeinteractive.com/theme-color/white-wordpress-themes/)
                 * [White Palette Themes](#)
-                * [![Stockholm - A Genuinely Multi-Concept Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
+                * [![Stockholm - Elementor Theme for Creative Business & WooCommerce](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
                 * [![Depot - eCommerce Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Depot](https://qodeinteractive.com/wordpress-theme/depot-a-contemporary-theme-for-ecommerce/)
                 * [![Ottar - Contemporary Portfolio Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Ottar](https://qodeinteractive.com/wordpress-theme/ottar-contemporary-portfolio-theme/)
                 * [![Dessau - Contemporary Theme for Architects and Interior Designers](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Dessau](https://qodeinteractive.com/wordpress-theme/dessau-contemporary-theme-for-architects-and-interior-designers/)
@@ -371,7 +379,7 @@
                 * [![Santé - Organic Shop Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Santé](https://qodeinteractive.com/wordpress-theme/sante-organic-shop-theme/)
             * [Grey](https://qodeinteractive.com/theme-color/grey-wordpress-themes/)
                 * [Grey Palette Themes](#)
-                * [![Bridge - Creative Multi-Purpose WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
+                * [![Bridge - Creative Elementor and WooCommerce WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
                 * [![Zermatt - Agency Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Zermatt](https://qodeinteractive.com/wordpress-theme/zermatt-multi-concept-agency-theme/)
                 * [![Breton - Creative Agency Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Breton](https://qodeinteractive.com/wordpress-theme/breton-creative-agency-theme/)
                 * [![Any - Freelancer Portfolio Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Any](https://qodeinteractive.com/wordpress-theme/any-urban-agency-freelancer-portfolio-theme/)
@@ -467,7 +475,7 @@
                 * [![Justicia - Lawyer and Law Firm Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Justicia](https://qodeinteractive.com/wordpress-theme/justicia-lawyer-and-law-firm-theme/)
             * [Multicolor](https://qodeinteractive.com/theme-color/multi-wordpress-themes/)
                 * [Multicolored Palette Themes](#)
-                * [![Bridge - Creative Multi-Purpose WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
+                * [![Bridge - Creative Elementor and WooCommerce WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
                 * [![Superfood - Organic Food Products Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Superfood](https://qodeinteractive.com/wordpress-theme/superfood-organic-food-and-healthy-food-products-theme/)
                 * [![Boldlab - Creative Agency Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Boldlab](https://qodeinteractive.com/wordpress-theme/boldlab-creative-agency-theme/)
                 * [![Tahoe - Freelancer Portfolio Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Tahoe](https://qodeinteractive.com/wordpress-theme/tahoe-portfolio-theme-for-creatives-and-freelancers/)
@@ -476,8 +484,8 @@
         * [Styles](#)
             * [Modern](https://qodeinteractive.com/theme-style/modern-wordpress-themes/)
                 * [Modern Design](#)
-                * [![Bridge - Creative Multi-Purpose WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
-                * [![Stockholm - A Genuinely Multi-Concept Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
+                * [![Bridge - Creative Elementor and WooCommerce WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
+                * [![Stockholm - Elementor Theme for Creative Business & WooCommerce](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
                 * [![Brünn - Creative Agency Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Brünn](https://qodeinteractive.com/wordpress-theme/brunn-creative-agency-theme/)
                 * [![Eiddo - Real Estate Agency and Realtor Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Eiddo](https://qodeinteractive.com/wordpress-theme/eiddo-real-estate-agency-and-realtor-theme/)
                 * [![Stål - Industry WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stål](https://qodeinteractive.com/wordpress-theme/stal-industry-wordpress-theme/)
@@ -492,8 +500,8 @@
                 * [![Kenozoik - Vibrant Portfolio Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Kenozoik](https://qodeinteractive.com/wordpress-theme/kenozoik-vibrant-portfolio-theme/)
             * [Clean](https://qodeinteractive.com/theme-style/clean-wordpress-themes/)
                 * [Clean Design](#)
-                * [![Bridge - Creative Multi-Purpose WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
-                * [![Stockholm - A Genuinely Multi-Concept Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
+                * [![Bridge - Creative Elementor and WooCommerce WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Bridge](https://qodeinteractive.com/wordpress-theme/bridge-creative-multi-purpose-wordpress-theme/)
+                * [![Stockholm - Elementor Theme for Creative Business & WooCommerce](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
                 * [![Santé - Organic Shop Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Santé](https://qodeinteractive.com/wordpress-theme/sante-organic-shop-theme/)
                 * [![Depot - eCommerce Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Depot](https://qodeinteractive.com/wordpress-theme/depot-a-contemporary-theme-for-ecommerce/)
                 * [![Ottar - Contemporary Portfolio Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Ottar](https://qodeinteractive.com/wordpress-theme/ottar-contemporary-portfolio-theme/)
@@ -548,7 +556,7 @@
                 * [![Esben - Elegant Fashion Photography Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Esben](https://qodeinteractive.com/wordpress-theme/esben-elegant-fashion-photography-theme/)
             * [Minimal](https://qodeinteractive.com/theme-style/minimal-wordpress-themes/)
                 * [Minimal Design](#)
-                * [![Stockholm - A Genuinely Multi-Concept Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
+                * [![Stockholm - Elementor Theme for Creative Business & WooCommerce](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
                 * [![Depot - eCommerce Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Depot](https://qodeinteractive.com/wordpress-theme/depot-a-contemporary-theme-for-ecommerce/)
                 * [![Die Finnhütte - Modern Architecture and Interior Design Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Die Finnhütte](https://qodeinteractive.com/wordpress-theme/die-finnhutte-modern-architecture-and-interior-design-theme/)
                 * [![MINIMUM - Professional WordPress Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)MINIMUM](https://qodeinteractive.com/wordpress-theme/minimum-professional-wordpress-theme/)
@@ -605,7 +613,7 @@
                 * [![Leitmotif - Movie and Film Studio Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Leitmotif](https://qodeinteractive.com/wordpress-theme/leitmotif-movie-and-film-studio-theme/)
             * [Parallax Effects](https://qodeinteractive.com/theme-effect/parallax-effects-wordpress-themes/)
                 * [Themes with Parallax Effects](#)
-                * [![Stockholm - A Genuinely Multi-Concept Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
+                * [![Stockholm - Elementor Theme for Creative Business & WooCommerce](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
                 * [![Shuffle - Music Theme for Bands, Stores and Labels](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Shuffle](https://qodeinteractive.com/wordpress-theme/shuffle-music-theme-for-bands-stores-and-labels/)
                 * [![Cortex - A Multi-concept Agency Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Cortex](https://qodeinteractive.com/wordpress-theme/cortex-a-multi-concept-theme-for-agencies-and-freelancers/)
                 * [![TopFit - Fitness and Gym Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)TopFit](https://qodeinteractive.com/wordpress-theme/topfit-fitness-and-gym-theme/)
@@ -653,7 +661,7 @@
                 * [![Iver - A Modern Hotel and Booking Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Iver](https://qodeinteractive.com/wordpress-theme/iver-a-modern-hotel-and-booking-theme/)
             * [Horizontal Scroll](https://qodeinteractive.com/theme-effect/horizontal-scroll-wordpress-themes/)
                 * [Themes with Horizontal Scrolling](#)
-                * [![Stockholm - A Genuinely Multi-Concept Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
+                * [![Stockholm - Elementor Theme for Creative Business & WooCommerce](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Stockholm](https://qodeinteractive.com/wordpress-theme/stockholm-a-genuinely-multi-concept-theme/)
                 * [![Struktur - Creative Agency Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Struktur](https://qodeinteractive.com/wordpress-theme/struktur-creative-agency-theme/)
                 * [![Nightshade - Photography Portfolio Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Nightshade](https://qodeinteractive.com/wordpress-theme/nightshade-photography-portfolio-theme/)
                 * [![Breton - Creative Agency Theme](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)Breton](https://qodeinteractive.com/wordpress-theme/breton-creative-agency-theme/)
@@ -965,7 +973,7 @@ Powered by Qode Interactive 2024
 
 Your cart is currently empty
 
-Subtotal: $0
+Subtotal: ~$0~ $0.00
 
 \*Taxes are calculated at the checkout
 
