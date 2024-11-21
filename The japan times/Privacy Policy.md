@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 21, 2024](https://www.japantimes.co.jp/archive/2024/11/21/ "archive page")
+[November 22, 2024](https://www.japantimes.co.jp/archive/2024/11/22/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -464,17 +464,17 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
-
-  [![Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434480.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
-
 [Two of America’s biggest debt holders are dumping Treasurys](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
 
   [![The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/434967.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.")](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
 
-[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+[Ishiba aggravates his own political failures with diplomatic faux pas](https://www.japantimes.co.jp/commentary/2024/11/20/japan/ishiba-promises/ "Ishiba aggravates his own political failures with diplomatic faux pas")
 
-  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+  [![Prime Minster Shigeru Ishiba is greeted at the APEC summit in Lima by Canadian Prime Minister Justin Trudeau on Friday. The Japanese leader was criticized for remaining seated while meeting several world leaders at the event. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/20/435177.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minster Shigeru Ishiba is greeted at the APEC summit in Lima by Canadian Prime Minister Justin Trudeau on Friday. The Japanese leader was criticized for remaining seated while meeting several world leaders at the event. ")](https://www.japantimes.co.jp/commentary/2024/11/20/japan/ishiba-promises/ "Ishiba aggravates his own political failures with diplomatic faux pas")
+
+[Japan's 3.31 million visitors in October set monthly record](https://www.japantimes.co.jp/news/2024/11/20/japan/japan-visitors-month-record/ "Japan's 3.31 million visitors in October set monthly record")
+
+  [![Kiyomizu Temple in Kyoto in December 2023. Famous autumn leaf colors contributed to increased tourism demand last month from many markets across Asia, Europe and North America, the Japan National Tourism Organization has said.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/20/435313.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kiyomizu Temple in Kyoto in December 2023. Famous autumn leaf colors contributed to increased tourism demand last month from many markets across Asia, Europe and North America, the Japan National Tourism Organization has said.")](https://www.japantimes.co.jp/news/2024/11/20/japan/japan-visitors-month-record/ "Japan's 3.31 million visitors in October set monthly record")
 
 [Japan ranks last in romance satisfaction for second straight year](https://www.japantimes.co.jp/news/2024/11/20/japan/society/japan-love-satisfaction-survey/ "Japan ranks last in romance satisfaction for second straight year")
 
@@ -525,9 +525,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,25 +567,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Bracing for Trump tariffs, China's Xi makes diplomatic push at global summits](https://www.japantimes.co.jp/news/2024/11/21/world/trump-tariff-xi-diplomatic-push/ "Bracing for Trump tariffs, China's Xi makes diplomatic push at global summits")
+
+5 hours ago
+
 [Japanese court rejects injunction against flights at Atsugi Air Base](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/yokohama-court-rejection-atsugi/ "Japanese court rejects injunction against flights at Atsugi Air Base")
 
-1 hour ago
+7 hours ago
 
 [Russia launched intercontinental ballistic missile during attack on Ukraine, Kyiv says](https://www.japantimes.co.jp/news/2024/11/21/world/russia-icbm-attack-on-dnipro-ukraine/ "Russia launched intercontinental ballistic missile during attack on Ukraine, Kyiv says")
 
-1 hour ago
+7 hours ago
 
 [Lutnick's China ties draw fire after Trump taps him for U.S. trade roles](https://www.japantimes.co.jp/news/2024/11/21/world/politics/lutnick-china-ties-trump-trade/ "Lutnick's China ties draw fire after Trump taps him for U.S. trade roles")
 
-1 hour ago
+7 hours ago
 
 [Tokyo Metro’s overseas efforts begin in earnest with London deal](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
 
-1 hour ago
-
-[Around a quarter of Japan married couples in their 20s met through dating apps](https://www.japantimes.co.jp/news/2024/11/21/japan/society/young-couples-dating-app/ "Around a quarter of Japan married couples in their 20s met through dating apps")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
