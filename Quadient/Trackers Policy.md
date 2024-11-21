@@ -139,11 +139,11 @@ Intro to Interaction Experience Management (IXM)
 
 The next big customer experience technology trend](https://www.quadient.com/en/blog/interaction-experience-management)
 
-[![Aspire 2024 Interaction Experience Management Leader Badge](https://backend.quadient.com/files/default/2024-09/aspire_2024_ixm_leaderboard_resource_thumb_720x480.png "Aspire 2024 IXM Software Leader | Quadient")
+[![Three Aspire 2024 Leader Badges against blue background with multi-colored light beams](https://backend.quadient.com/files/default/2024-05/aspire-q1-2024-720x480-thumb.png "2024 Q3 Aspire CCM-CXM Leaderboard")
 
-Quadient is a Leader on New Aspire IXM Grid
+Quadient Advances Leader Position on Aspire CCM-CXM Leaderboard 2024 Q3
 
-Interaction Experience Management Leaderboard Grid](https://www.quadient.com/en/resources/quadient-leader-new-aspire-ixm-grid)
+Sponsors Complimentary Premium Leaderboard Access](https://www.quadient.com/en/resources/aspire-leaderboard-ccm-cxm)
 
 Communications
 
