@@ -86,7 +86,7 @@ Country selection[to cart](https://breastfeedingsupply.com/)
 
 [Hospital & Healthcare Professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
 
-[Articles](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles) [Professional Education](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/professional-education) [Leading Lactation Insights](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/sign-up-for-newsletter) [Commitment to Breastfeeding](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/commitment-to-breastfeeding) [Important Product Updates](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/important-product-updates)
+[Articles](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles) [Professional Education](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/professional-education) [Medela Newsletters](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/sign-up-for-newsletter) [Commitment to Breastfeeding](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/commitment-to-breastfeeding) [Important Product Updates](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/important-product-updates)
 
 [Articles](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles) [Breastfeeding](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/breastfeeding) [Benefits of Breastmilk](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/benefits-of-breastmilk) [Special Needs](https://www.medela.us/Special%20Needs:%20Expert%20Insights%20and%20Guidance%20|%20Medela) [Pumping](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/pumping) [NICU](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/nicu) [Research & Literature](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/lactation-articles/research-literature)
 
@@ -270,7 +270,7 @@ Close menu
     * [Professional Education](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/professional-education)
         * [Professional Education](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/professional-education)
         * [Webinars](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/professional-education/webinars)
-    * [Leading Lactation Insights](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/sign-up-for-newsletter)
+    * [Medela Newsletters](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/sign-up-for-newsletter)
     * [Commitment to Breastfeeding](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/commitment-to-breastfeeding)
         * [Commitment to Breastfeeding](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/commitment-to-breastfeeding)
         * [Marketing guidelines](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals/commitment-to-breastfeeding/marketing-guidelines)
