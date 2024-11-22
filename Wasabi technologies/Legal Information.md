@@ -23,8 +23,10 @@ Wasabi Privacy Policy
 
 [**Sub Processors**](https://wasabi.com/legal/sub-processors)
 
-  
-  
+**Previous Versions:**
+
+* [February 15, 2023](https://cdn.brandfolder.io/BFD8NB05/at/vnk93cwjbpq3v8p28r658/Wasabi_Technologies_Privacy_Policy_21523_REFERENCE_ONLY.pdf)
+    
 
 [Company](https://wasabi.com/legal/privacy-policy#)
 
