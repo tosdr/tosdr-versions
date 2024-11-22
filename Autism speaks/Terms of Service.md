@@ -287,6 +287,14 @@ Autism news
 
 All the latest that matters to our community
 
+![Vincent Feng standing in front of Capitol steps in DC](/sites/default/files/styles/content_list/public/Vincent-Feng-standing-in-front-of-Capitol-steps-in-DC_0.jpg.webp?itok=XOCZPihX)
+
+11.21.24
+
+[### US Senate passes the Autism CARES Act of 2024, sending it back to House for final passage](https://guide.autismspeaks.org/advocacy-news/us-senate-passes-autism-cares-act-2024-sending-it-back-house-final-passage)
+
+In a significant step forward for autism advocacy, the United States Senate has passed the Autism CARES Act of 2024, advancing the critical
+
 ![Andy Shih, Autism Speaks Chief Science Officer at the congressional hearing on global public health](/sites/default/files/styles/content_list/public/Andy-Shih%2C-Autism-Speaks-Chief-Science-Officer-at-the-congressional-hearing-on-global-public-health.jpg.webp?itok=AheKYS5F)
 
 11.20.24
@@ -326,14 +334,6 @@ Autism Digest shares the journey to employment for Autism Speaks Champions of Ch
 [### Honoring the legacy of Bernie Marcus](https://guide.autismspeaks.org/news/honoring-legacy-bernie-marcus)
 
 Bernie Marcus was a visionary and trailblazer whose boundless compassion reshaped the autism community and empowered millions to reach their potential
-
-![People Magazine logo](/sites/default/files/styles/content_list/public/People%20Mag%20logo.jpg.webp?itok=5VIudaKN)
-
-11.5.24
-
-[### Rumer Willis celebrates sister Tallulah Willis at Autism Speaks Los Angeles Gala](https://guide.autismspeaks.org/news/rumer-willis-celebrates-tallulah-willis)
-
-People spotlights Tallulah and Rumer Willis, daughters of Demi Moore and Bruce Willis, as Tallulah is recognized by her sister at the Autism Speaks
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
