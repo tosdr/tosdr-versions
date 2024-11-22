@@ -42,7 +42,7 @@ Main menu
         
         Icon calendar 14 November 2024
         
-        Proof
+        Final
         
     * [**Legislative Council**  
         Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-28861)
@@ -117,6 +117,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Tobacco licensing scheme debated](https://parliament.vic.gov.au/link/5e97d0a9930249d8b47c7a581821664f.aspx)
+        
+        22 November 2024
+        
     * [The room where it happens](https://parliament.vic.gov.au/link/c4aa1d6b049a478cbe12f9605eed2420.aspx)
         
         21 November 2024
@@ -124,10 +128,6 @@ Main menu
     * [Hungry kids find it hard to learn](https://parliament.vic.gov.au/link/2a3a38934cdb409a884b5552b1879795.aspx)
         
         20 November 2024
-        
-    * [Research leads to reward for interns](https://parliament.vic.gov.au/link/ef520a1125b24eed83eead31a37ddee7.aspx)
-        
-        19 November 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
