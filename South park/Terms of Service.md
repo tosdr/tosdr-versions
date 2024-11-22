@@ -330,8 +330,8 @@ By clicking Subscribe, you confirm that you have read and agree to our [Terms o
 SUBSCRIBE
 
 * [Creator Bios](https://southpark.cc.com/info/jveh1j/creator-bios "Creator Bios")
-* [Cast and Crew](https://southpark.cc.com/info/tkdxo6/cast-and-crew "Cast and Crew")
-* [Web Credits](https://southpark.cc.com/info/ea4cty/web-credits "Web Credits")
+* [Cast and Crew](https://southpark.cc.com/legal/tkdxo6/cast-and-crew "Cast and Crew")
+* [Web Credits](https://southpark.cc.com/legal/ea4cty/web-credits "Web Credits")
 * [Contact](https://southpark.cc.com/info/z67g4e/contact "Contact")
 * [Privacy Policy](https://privacy.paramount.com/policy "Privacy Policy")
 * [Your Privacy Choices](# "Your Privacy Choices")
@@ -340,7 +340,7 @@ SUBSCRIBE
 * [Closed Captioning](https://privacy.paramount.com/closed-captioning "Closed Captioning")
 * [Copyright Compliance](https://southpark.cc.com/legal/xuqfse/copyright-compliance "Copyright Compliance")
 * [Keep Paramount](https://www.keepparamount.com/ "Keep Paramount")
-* [Show Disclaimer](https://southpark.cc.com/info/thmcbs/show-disclaimer "Show Disclaimer")
+* [Show Disclaimer](https://southpark.cc.com/legal/thmcbs/show-disclaimer "Show Disclaimer")
 
 * [](https://www.facebook.com/southpark/)
 * [](https://twitter.com/SouthPark)
