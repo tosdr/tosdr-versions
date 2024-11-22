@@ -1,4 +1,4 @@
-![](https://px.ads.linkedin.com/collect/?pid=4315145&fmt=gif) ![](https://www.facebook.com/tr?id=1382125555583020&ev=PageView&noscript=1)    Terms of Use - Wordable                                        [Skip to the content](#site-content)
+![](https://px.ads.linkedin.com/collect/?pid=4315145&fmt=gif) ![](https://www.facebook.com/tr?id=1382125555583020&ev=PageView&noscript=1)     Terms of Use - Wordable                                        [Skip to the content](#site-content)
 
 [![](/wp-content/themes/wordable/images/text-logo-white.svg)](https://wordable.io/)
 
