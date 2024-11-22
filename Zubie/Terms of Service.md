@@ -31,9 +31,9 @@
     * [RV and Campervan Rental](https://zubie.com/industries/rv-rental/)
 * [Partners](https://zubie.com/partners/)
     * [Our Partners](https://zubie.com/partners/)
-        * [Fleet Management Agent Partners](https://zubie.com/partners/agent-partners/)
-        * [Fleet Management Referral Partners](https://zubie.com/partners/referral-partners/)
-        * [Fleet Management Technology Partners](https://zubie.com/partners/technology-partners/)
+        * [Agent Partners](https://zubie.com/partners/agent-partners/)
+        * [Referral Partners](https://zubie.com/partners/referral-partners/)
+        * [Technology Partners](https://zubie.com/partners/technology-partners/)
 * [Resources](#)
     * [About](https://zubie.com/about/)
     * [Case Studies](https://zubie.com/case-studies/)
@@ -371,7 +371,6 @@ For Support
     * [For Business Fleets](https://zubie.com/zubie-fleet-connect/)
     * [For Rental Fleets](https://zubie.com/zubie-rental-connect/)
     * [For Dealership Fleets](https://zubie.com/dealership/)
-    * [For Auto Insurance](https://zubie.com/?page_id=28)
     * [For Developers](https://developer.zubie.com/)
 * [Apps](#)
     * [Android](https://play.google.com/store/apps/details?id=com.zubie.v2)
@@ -385,7 +384,7 @@ For Support
 * [Company](#)
     * [About](https://zubie.com/about/)
     * [Careers At Zubie](https://zubie.com/careers/)
-    * [Reseller Program](https://zubie.com/?page_id=26)
+    * [Partners](https://zubie.com/partners/)
 
 Latest Press Release
 
