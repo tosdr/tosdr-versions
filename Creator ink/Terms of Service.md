@@ -44,19 +44,20 @@ icon-X Close menu
     
 * [Shop](https://creatorink.com/collections/all-available)
     
-    * [Products](https://creatorink.com/collections/all)
+    * [Products](https://creatorink.com/collections/all-available)
         
         * [Jackets & Outerwear](https://creatorink.com/collections/all-available/jacket)
         * [Hoodies & Sweatshirts](https://creatorink.com/collections/all-available/hoodie)
         * [T-Shirts & Tops](https://creatorink.com/collections/all-available/t-shirt)
         * [Plushies](https://creatorink.com/collections/all-available/plush)
-        * [Apparel](https://creatorink.com/collections/apparel)
         * [Accessories](https://creatorink.com/collections/accessories)
         * [Gift Cards](https://creatorink.com/collections/gift-cards)
+        * [All Apparel](https://creatorink.com/collections/apparel)
         * [All Available](https://creatorink.com/collections/all-available)
         
     * [Collections](https://creatorink.com/collections)
         
+        * [Authorized Collection](https://creatorink.com/collections/authorized)
         * [Pre-Orders](https://creatorink.com/collections/pre-order-1)
         * [Available in Youth Sizes](https://creatorink.com/collections/available-in-kids-sizes)
         * [Final Sale!](https://creatorink.com/collections/evergreen-sale-collection)
@@ -140,7 +141,7 @@ icon-X Close menu
     
 * Shop
     
-    [Products](https://creatorink.com/collections/all)
+    [Products](https://creatorink.com/collections/all-available)
     
     [Jackets & Outerwear](https://creatorink.com/collections/all-available/jacket)
     
@@ -150,15 +151,17 @@ icon-X Close menu
     
     [Plushies](https://creatorink.com/collections/all-available/plush)
     
-    [Apparel](https://creatorink.com/collections/apparel)
-    
     [Accessories](https://creatorink.com/collections/accessories)
     
     [Gift Cards](https://creatorink.com/collections/gift-cards)
     
+    [All Apparel](https://creatorink.com/collections/apparel)
+    
     [All Available](https://creatorink.com/collections/all-available)
     
     [Collections](https://creatorink.com/collections)
+    
+    [Authorized Collection](https://creatorink.com/collections/authorized)
     
     [Pre-Orders](https://creatorink.com/collections/pre-order-1)
     
