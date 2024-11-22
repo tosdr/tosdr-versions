@@ -328,7 +328,6 @@ Visit our [Find Us Page](https://www.voodoodoughnut.com/findus) and reach out!
 
 Please ensure Javascript is enabled for purposes of [website accessibility](https://userway.org/)
 
-##### Never Miss A Moment Of Voodoo Magic![](https://www.voodoodoughnut.com/wp-content/uploads/2023/05/fan-page-splash-1-e1711752692825-300x263.jpg)Be the first to know about limited time doughnuts, deals, store openings & more
+##### ![](https://www.voodoodoughnut.com/wp-content/uploads/2024/11/Pink-Week-POS-300x188.jpg)
 
-#####   
-[Sign Up](https://lp.constantcontactpages.com/su/w59k7xH/joinus)
+###### [Order Now](https://www.voodoodoughnut.com/order-online/)
