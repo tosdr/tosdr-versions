@@ -240,11 +240,26 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Designed for everyone, everywhere
+#### Great Users
 
   
-Our services are easy to use and meant to enhance convenience. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.  
+
+![Partner](/content/images/content/strip/wyatt.house.png)
+
   
+
+  
+![Partner](/content/images/content/strip/clearviewnetworks.com.png)
+
+  
+
+  
+![Partner](/content/images/content/strip/Skyrim.co.png)
+
+  
+
+  
+![Partner](/content/images/content/strip/coreit.ro.png)
 
 ### News
 
