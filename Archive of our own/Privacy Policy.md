@@ -45,7 +45,7 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: arthur merlin words>1000 sort:hits 
+* Work Search  tip: "uchiha sasuke/uzumaki naruto" angst kudos>10 
     
 
 Terms of Service
