@@ -433,6 +433,7 @@ More Detailed Information
 * [Customers](https://www.gitpod.io/customers)
 * [Whitepapers](https://www.gitpod.io/whitepapers)
 * [Gartner reports](https://www.gitpod.io/gartner-platform-engineering-hype-cycle-2024)
+* [State of Platform engineering report](https://www.gitpod.io/state-of-platform-engineering-report-vol3-2024)
 
 * Solutions
 * [Developer onboarding](https://www.gitpod.io/solutions/onboarding)
