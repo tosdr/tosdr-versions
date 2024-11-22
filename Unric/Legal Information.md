@@ -151,6 +151,14 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
+ [![Play2Act banner](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+![Play2Act banner](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/11/play2act-banner-100x70.jpg)](https://unric.org/en/play2act-uniting-gamers-for-climate-action/ "Play2Act: Uniting Gamers for Climate Action")
+
+### [Play2Act: Uniting Gamers for Climate Action](https://unric.org/en/play2act-uniting-gamers-for-climate-action/ "Play2Act: Uniting Gamers for Climate Action")
+
+21/11/2024
+
  [![Latest UNRIC Library Newsletter](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-november-2024/ "UNRIC Info Point & Library Newsletter: November 2024")
 
 ### [UNRIC Info Point & Library Newsletter: November 2024](https://unric.org/en/unric-info-point-library-newsletter-november-2024/ "UNRIC Info Point & Library Newsletter: November 2024")
@@ -175,17 +183,11 @@ The information will be used internally only for web site traffic analysis. If t
 
 29/08/2024
 
- [![UNRIC Library Backgrounder: Mpox](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/backgrounder-MPOX-100x70.png)](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
-
-### [UNRIC Library Backgrounder: Mpox](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
-
-20/08/2024
-
 [Load more](#)
 
 #### Publications
 
-* [November 2024](https://unric.org/en/2024/11/) (14)
+* [November 2024](https://unric.org/en/2024/11/) (15)
 * [October 2024](https://unric.org/en/2024/10/) (38)
 * [September 2024](https://unric.org/en/2024/09/) (34)
 * [August 2024](https://unric.org/en/2024/08/) (12)
