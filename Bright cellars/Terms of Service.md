@@ -382,3 +382,17 @@ Add Membership
 ### Not ready to commit?
 
 Say no more. Shop our packs – no membership required. You miss that membership pricing though. Just saying…
+
+Sign In to Unlock
+
+Sign in below to unlock member-only pricing.
+
+Sign In Forgot your password?
+
+Not a member yet? Click here
+
+Commitment-phobe?
+
+Say no more. Shop our packs – no membership required. You might miss the good stuff, though. Just saying…
+
+[Shop Packs](https://www.brightcellars.com/collections/packs)
