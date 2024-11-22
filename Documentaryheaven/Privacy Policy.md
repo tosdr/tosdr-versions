@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Story of Queen: Mercury Rising](/wp-content/thumbnails/14346-100x70.jpg?x53432)
+* [![To Infinity and Beyond](/wp-content/thumbnails/5490-100x70.jpg?x53432)
     
-    The Story of Queen: Mercury Rising
+    To Infinity and Beyond
     
-    Queen, it can be safely said they were one of the worlds greatest rock bands of all time, having set records never before seen in the music industry, selling out tours like no tomorrow and topping all](https://documentaryheaven.com/story-of-queen-mercury-rising/ "The Story of Queen: Mercury Rising")
-* [![Ross Kemp: Extreme World – Mexico EP3](/wp-content/thumbnails/5394-100x70.jpg?x53432)
+    Documentary examining current ideas about very large numbers and infinity in regards to mathematics and the observable universe.By our third year, most of us will have learned to count. Once we know](https://documentaryheaven.com/to-infinity-and-beyond/ "To Infinity and Beyond")
+* [![Boarding Schools: The Secret Shame](/wp-content/thumbnails/13883-100x70.jpg?x53432)
     
-    Ross Kemp: Extreme World – Mexico EP3
+    Boarding Schools: The Secret Shame
     
-    Ross travels to the war torn city of Juarez in Mexico where the drug cartels fight for ownership of smuggling routes into the US worth $40 billion.](https://documentaryheaven.com/ross-kemp-extreme-world-mexico/ "Ross Kemp: Extreme World – Mexico EP3")
-* [![The Buzz Around Niue](/wp-content/thumbnails/10230-100x70.jpg?x53432)
+    Boarding schools are amongst the most influential institutions in Britain, responsible for education many of our politicians, judges and business leaders, even three quarters of England's Prime Minist](https://documentaryheaven.com/boarding-schools-secret-shame/ "Boarding Schools: The Secret Shame")
+* [![Inside The Secret World of Incels](/wp-content/thumbnails/14632-100x70.jpg?x53432)
     
-    The Buzz Around Niue
+    Inside The Secret World of Incels
     
-    Bee's pollinate about a third of the worlds food but all around the globe they are dying from colony collapse and diseases at an alarming rate. As scientists search for solutions there's a buzz around](https://documentaryheaven.com/buzz-around-niue/ "The Buzz Around Niue")
-* [![Eminem A.K.A.](/wp-content/thumbnails/7976-100x70.jpg?x53432)
+    A BBC special which takes an in depth look at the "incel" community that can be found online, they are more of a subculture and have now been linked to multiple mass murder cases and hate crimes again](https://documentaryheaven.com/inside-secret-world-of-incels/ "Inside The Secret World of Incels")
+* [![Darcey Bussell’s Looking for Audrey](/wp-content/thumbnails/9499-100x70.jpg?x53432)
     
-    Eminem A.K.A.
+    Darcey Bussell’s Looking for Audrey
     
-    Groundbreaking rapper Eminem (born Marshall Mathers) burst onto the scene in 1999 and left it breathless with his powerhouse rhythms, in-your-face rhymes, astounding live performances and creative mus](https://documentaryheaven.com/eminem-aka/ "Eminem A.K.A.")
-* [![Jimi Hendrix the Uncut Story](/wp-content/thumbnails/1807-100x70.jpg?x53432)
+    We all think we know Audrey Hepburn, the ultimate style icon, the star of Breakfast at Tiffany's an oscar winner at just 24 and all this from a girl who never planned to become an actress. However ben](https://documentaryheaven.com/darcey-bussells-looking-audrey/ "Darcey Bussell’s Looking for Audrey")
+* [![Only Human: Make Me Normal](/wp-content/thumbnails/8662-100x70.jpg?x53432)
     
-    Jimi Hendrix the Uncut Story
+    Only Human: Make Me Normal
     
-    Those looking for historical details, insights, and heartfelt testimonials from family, friends, music industry royalty, and fellow musicians will be greatly satisfied with Jimi Hendrix: The Uncut Sto](https://documentaryheaven.com/jimi-hendrix-the-uncut-story/ "Jimi Hendrix the Uncut Story")
+    Make me normal, is a documentary that follows several children and teenagers with Autism and Aspergers syndrome all of whom attend a special school in the UK. Its an eye opening glimpse into the world](https://documentaryheaven.com/only-human-make-me-normal/ "Only Human: Make Me Normal")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
