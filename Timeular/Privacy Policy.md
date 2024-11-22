@@ -101,11 +101,11 @@
     
     [Go to blog](https://timeular.com/blog/)
     
+    [How to Fill Out a Timesheet Correctly: Guide and Free Templates](https://timeular.com/blog/how-fill-out-timesheet/)
+    
+    [Time Management Goals to Maximize Your Productivity](https://timeular.com/blog/time-management-goals/)
+    
     [Multiple Employee Timesheet: 3 Free Templates + Setup Guide](https://timeular.com/blog/multiple-employee-timesheet/)
-    
-    [Poor Time Management: Signs and Immediate Ways to Tackle it](https://timeular.com/blog/poor-time-management/)
-    
-    [Top Work Habits To Hack Your Day](https://timeular.com/blog/work-habits/)
     
 * [Pricing](https://timeular.com/pricing/)
 * [Enterprise](https://timeular.com/enterprise-time-tracking/)
