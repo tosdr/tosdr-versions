@@ -286,7 +286,7 @@
 Privacy Questions and Answers
 =============================
 
-Table of contents
+See DetailsTable of contents
 
 * [What's most important?](#whats-most-important)
 * [How does npm collect data about me?](#how-does-npm-collect-data-about-me)
