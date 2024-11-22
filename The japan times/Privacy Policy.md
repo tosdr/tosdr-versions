@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 22, 2024](https://www.japantimes.co.jp/archive/2024/11/22/ "archive page")
+[November 23, 2024](https://www.japantimes.co.jp/archive/2024/11/23/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -464,13 +464,13 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Two of America’s biggest debt holders are dumping Treasurys](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
-
-  [![The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/434967.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.")](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
-
 [Tokyo Metro’s overseas efforts begin in earnest with London deal](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
 
   [![Tokyo Metro will soon have a role in the running of London's Elizabeth Line, a major train route serving the U.K.’s capital city and environs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Metro will soon have a role in the running of London's Elizabeth Line, a major train route serving the U.K.’s capital city and environs.")](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
+
+[Man charged with murder allegedly made victim date other men for money](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/beat-girlfriend-arrest/ "Man charged with murder allegedly made victim date other men for money")
+
+  [![A car carrying suspect Ryotaro Masuda, who was indicted for allegedly beating his 25-year-old girlfriend to death, leaves the Shibuya Police Station in Tokyo on Thursday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435475.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A car carrying suspect Ryotaro Masuda, who was indicted for allegedly beating his 25-year-old girlfriend to death, leaves the Shibuya Police Station in Tokyo on Thursday. ")](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/beat-girlfriend-arrest/ "Man charged with murder allegedly made victim date other men for money")
 
 [Russia fired experimental ballistic missile at Ukraine, Putin says](https://www.japantimes.co.jp/news/2024/11/22/world/russia-icbm-attack-on-dnipro-ukraine/ "Russia fired experimental ballistic missile at Ukraine, Putin says")
 
@@ -480,9 +480,9 @@ Revised June 1, 2022
 
   [![Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435471.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.")](https://www.japantimes.co.jp/sports/2024/11/21/sumo/kitanofuji-dies-at-82/ "Ex-yokozuna Kitanofuji dies at 82")
 
-[Man charged with murder allegedly made victim date other men for money](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/beat-girlfriend-arrest/ "Man charged with murder allegedly made victim date other men for money")
+[The slow-burn success of ‘A Samurai in Time’](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
 
-  [![A car carrying suspect Ryotaro Masuda, who was indicted for allegedly beating his 25-year-old girlfriend to death, leaves the Shibuya Police Station in Tokyo on Thursday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435475.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A car carrying suspect Ryotaro Masuda, who was indicted for allegedly beating his 25-year-old girlfriend to death, leaves the Shibuya Police Station in Tokyo on Thursday. ")](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/beat-girlfriend-arrest/ "Man charged with murder allegedly made victim date other men for money")
+  [![A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”")](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
 
 [Shohei Ohtani wins National League MVP award](https://www.japantimes.co.jp/sports/2024/11/22/baseball/mlb/ohtani-wins-mvp-award/ "Shohei Ohtani wins National League MVP award")
 
@@ -525,9 +525,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -569,23 +569,23 @@ Latest News
 
 [Japan chipmaker Kioxia IPO set for next month](https://www.japantimes.co.jp/business/2024/11/22/companies/kioxia-set-for-ipo/ "Japan chipmaker Kioxia IPO set for next month")
 
-22 mins ago
+6 hours ago
 
 [MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/mufg-fire-worker-theft/ "MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes")
 
-25 mins ago
+6 hours ago
 
 [Japan will spend ¥325 million in government funds on Princess Yuriko's funeral](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
 
-1 hour ago
+7 hours ago
 
 [Japan approves ¥21.9 trillion stimulus plan](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
 
-1 hour ago
+7 hours ago
 
 [In Spain's Canaries, rescuers exhausted as new migrant routes open](https://www.japantimes.co.jp/news/2024/11/22/world/society/new-migrant-routes-open/ "In Spain's Canaries, rescuers exhausted as new migrant routes open")
 
-1 hour ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
