@@ -1,12 +1,12 @@
 Sections
 
-[![Action News Jax Logo](/pf/resources/images/sites/cmg-tv-10050/station-logo.png?d=859)](https://www.actionnewsjax.com/ "Action News Jax Logo")
+[![Action News Jax Logo](/pf/resources/images/sites/cmg-tv-10050/station-logo.png?d=939)](https://www.actionnewsjax.com/ "Action News Jax Logo")
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[63°
+[58°
 
-![Fair](/pf/resources/images/weather/status-icons/34.png?d=859)](https://www.actionnewsjax.com/weather/)
+![Fair](/pf/resources/images/weather/status-icons/33.png?d=939)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
@@ -430,7 +430,8 @@ We may share personal information about you that we collect or receive with the 
 
 [](https://www.actionnewsjax.com/florida-lottery/)
 
-#### Latest Trending
+Latest Trending
+---------------
 
 [News](https://www.actionnewsjax.com/news)
 
