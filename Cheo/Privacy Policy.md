@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![A child with a cochlear implant, holding a teddy bear](/en/rotatingimages/defaultInterior/Banner-19.jpeg)
+![A young girl in a winter coat, smiling at the camera](/en/rotatingimages/defaultInterior/Banner-16.jpeg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
