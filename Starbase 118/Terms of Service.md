@@ -350,6 +350,18 @@ Read More
 Community News
 --------------
 
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/07/image-768x775-1.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/cooperation-between-nassau-news-and-federation-news-service-in-the-making/)
+
+### [Cooperation between Nassau News and Federation News Service in the making](https://www.starbase118.net/2024/cooperation-between-nassau-news-and-federation-news-service-in-the-making/)
+
+Federation News Service November 22, 2024
+
+NASSAU — After narrowly surviving their first Borg encounter, the USS Gorkon (NCC-82293) sought temporary refuge within the depths of the Nassau asteroid. While the
+
+[Read More »](https://www.starbase118.net/2024/cooperation-between-nassau-news-and-federation-news-service-in-the-making/)
+
 [![You'll Always Be My Number One](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![You'll Always Be My Number One](https://b108297.smushcdn.com/108297/wp-content/uploads/2016/05/riker-instagram_4049ce46b3-768x768.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/first-officer-in-focus-wil-ukinix-amity-outpost-4/)
@@ -373,18 +385,6 @@ skhuss November 15, 2024
 Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-alora-deveau-denali-station-chiefs-citation-award/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2015/02/starbase12-768x540.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/starbase-118-ops-celebrates-frontier-day-and-welcomes-new-commanding-officer/)
-
-### [StarBase 118 Ops Celebrates Frontier Day and Welcomes New Commanding Officer](https://www.starbase118.net/2024/starbase-118-ops-celebrates-frontier-day-and-welcomes-new-commanding-officer/)
-
-Federation News Service November 13, 2024
-
-STARBASE 118 – The crew of StarBase 118 celebrated their victory during Frontier Day and welcomed a new Commanding Officer. Following the events of Frontier
-
-[Read More »](https://www.starbase118.net/2024/starbase-118-ops-celebrates-frontier-day-and-welcomes-new-commanding-officer/)
 
 Ready to get started?
 ---------------------
