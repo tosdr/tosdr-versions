@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/wp-content/uploads/2024/01/24016-Gysi-warweg.jpg "Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“")](https://www.nachdenkseiten.de/?p=109563)
+[![Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt](https://www.nachdenkseiten.de/wp-content/uploads/2023/07/230705-Gespraech-Rashmawi-Mueller-Titelbild_s.jpg "Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt")](https://www.youtube.com/watch?v=FZnuNzX0NeU)
 
-* [Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/?p=109563)
+* [Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt](https://www.youtube.com/watch?v=FZnuNzX0NeU)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [Der alternativlose Merz – ist die K-Frage wirklich schon entschieden?](https://www.nachdenkseiten.de/?p=124657)
-* [„Im Wirtschaftskrieg“ – ein neues Buch über die Sanktionspolitik des Westens gegen Russland und den Rest der Welt](https://www.nachdenkseiten.de/?p=124661)
-* [Der „kleine Marco“ wird Außenminister? Das war’s dann wohl mit der Hoffnung auf eine friedlichere US-Außenpolitik](https://www.nachdenkseiten.de/?p=124633)
-* [Neue UN-Analyse: 70 Prozent der Toten in Gaza sind Frauen und Kinder – Was sagt Bundesregierung?](https://www.nachdenkseiten.de/?p=124720)
-* [D-Ticket ade!? Und bereitmachen für die Bahn-Zerschlagung](https://www.nachdenkseiten.de/?p=124680)
-* [Corona aufarbeiten – Ohne Psychologinnen und Psychologen?](https://www.nachdenkseiten.de/?p=124625)
+* [Jetzt beginnt die Hochkonjunktur für den Missbrauch von Umfragen zur Meinungsmache](https://www.nachdenkseiten.de/?p=125022)
+* [Ach, das bisschen Atomkriegsrisiko …](https://www.nachdenkseiten.de/?p=125064)
+* [Nach Skandalurteil: Mainzer Justizministerium lässt NATO-Truppenstatut und Zusatzabkommen prüfen – Was sagt Bundesregierung?](https://www.nachdenkseiten.de/?p=125077)
+* [Habecks energiepolitische „Lösung aller Probleme“ … was redet der Mann da?](https://www.nachdenkseiten.de/?p=125025)
+* [Wirtschaftsminister Habeck als Werbegesicht des Abmahn-Start-ups SO DONE, Anzeigen als Geldquelle und die Lüge seines Sprechers](https://www.nachdenkseiten.de/?p=125123)
+* [Ein Kind wird kommen – An der A2, Rasthof Marienborn Süd](https://www.nachdenkseiten.de/?p=125112)
 
 ### Audioangebot
 
