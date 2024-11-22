@@ -359,14 +359,24 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Storm alert Updated Nov 21, 6:00 AM](#collapseOne)  
+[Storm alert Updated Nov 21, 2:00 PM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-Overnight, crews made steady progress restoring power to customers impacted by Tuesday’s windstorm, restoring more than half the total customers who’ve been affected since the start of the storm. However, we understand that for those still affected it remains incredibly challenging, especially with the cold conditions. For customers needing support, please check with your local government or call 211 to find warming shelters and other resources. King 5 also has this list of resources. We are working around the clock and will continue to do so until every customer is restored.
+##### Letter to our customers
 
-Crews have been able to restore power to 57 schools with known power outages over the last two days, with continued efforts to restore remaining schools, medical facilities and hospitals. The high winds and resulting tree damage not only downed the smaller, local power lines, but also damaged the larger transmission lines – the larger lines that bring power into communities. Crews are beginning to bring transmission lines back online; these lines need to be brought back into service before crews can focus on the local distribution system. Please note that as transmission comes online, there will be temporary spikes in data as those systems are energized, you may see numbers go up and down on the outage map as the process occurs.
+To our customers without power: we know you are frustrated. The limited information we have been able to provide on-line, and the fact that you do not yet see our crews working in your neighborhood, is causing you to wonder what is happening.
+
+This system was so strong that it was comparable to a hurricane and did unprecedented damage to our high-voltage transmission system – the poles and wires that carry electricity from where it is produced to the communities we serve. Without fixing those lines first, we cannot get power back into many neighborhoods. Much of this work takes place in hard to reach, remote parts of western Washington.
+
+We have 143 line crews working around the clock – 3.5 times what we have usually, thanks to crews from other utilities in Washington, Oregon, Idaho and Canada.
+
+[Read more](https://www.pse.com/en/outage/alerts-and-advisories)
+
+##### Progress continues
+
+Throughout the morning crews made steady progress restoring power to customers impacted by Tuesday’s windstorm. Notably, power has been restored to an additional 10 substations and 9 transmission line segments allowing restoration of power to many schools, critical infrastructure and medical facilities. However, we understand that for those still affected it remains incredibly challenging, especially with the cold conditions. For customers needing support, please check with your local government or call 211 to find warming shelters and other resources. King 5 also has this [list of resources](https://www.king5.com/article/news/local/list-shelters-warming-centers-open-western-washington-residents-power-outages/281-8b4d0ed6-ecd4-44b8-a283-53e9ff8797d1).
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
