@@ -1,4 +1,4 @@
-Thursday, November 21 2024
+Friday, November 22 2024
 
 Breaking News
 
@@ -181,6 +181,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: DNT Optics TheOne 7-35×56 MRAD Scope](https://www.thegunpage.com/tfb-review-dnt-optics-theone-7-35x56-mrad-scope/10612042)
+* [POTD: JP Rifles JP CTR-02 With New Spuhr RDF Aimpoint Mount](https://www.thegunpage.com/potd-jp-rifles-jp-ctr-02-with-new-spuhr-rdf-aimpoint-mount/10612043)
+* [Concealed Carry Corner: Lights For Carrying Concealed](https://www.thegunpage.com/concealed-carry-corner-lights-for-carrying-concealed/10612044)
 * [PF-1 EDC Bag: Fast Access Concealed Carry EDC Bag For The Unpredictable](https://www.thegunpage.com/pf-1-edc-bag-fast-access-concealed-carry-edc-bag-for-the-unpredictable/10612035)
 * [3D Printer Software Can’t Stop Gun Making](https://www.thegunpage.com/3d-printer-software-cant-stop-gun-making/10612033)
 * [POF-USA Launches Light Modular Rifle (LMR) BASE Rifle](https://www.thegunpage.com/pof-usa-launches-light-modular-rifle-lmr-base-rifle/10612031)
@@ -188,9 +191,6 @@ Recent Posts
 * [GOA Reaction: PA Supreme Court Guts Philadelphia Gun Control, Upholds State Preemption Law](https://www.thegunpage.com/goa-reaction-pa-supreme-court-guts-philadelphia-gun-control-upholds-state-preemption-law/10612025)
 * [Freedom Munitions Moves Jobs To Idaho From Nevada](https://www.thegunpage.com/freedom-munitions-moves-jobs-to-idaho-from-nevada/10612023)
 * [Dem Governors Seek to Hamper Trump; Ignore the Will of the People](https://www.thegunpage.com/dem-governors-seek-to-hamper-trump-ignore-the-will-of-the-people/10612022)
-* [TFB Behind the Gun #141: Cold War Guns & Competition w/ Matt & Dan](https://www.thegunpage.com/tfb-behind-the-gun-141-cold-war-guns-competition-w-matt-dan/10612024)
-* [Guide To Building Stage Speed](https://www.thegunpage.com/guide-to-building-stage-speed/10612032)
-* [Armed Rideshare Drivers May Be An Option Soon For Texans](https://www.thegunpage.com/armed-rideshare-drivers-may-be-an-option-soon-for-texans/10612021)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
