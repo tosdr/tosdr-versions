@@ -219,6 +219,8 @@ Main navigation
             
         * [Quest EBT](https://www.nacha.org/content/quest)
             
+        * [IFX Business Message Specification](https://www.nacha.org/content/ifx-standard)
+            
         
     * [Solutions & Services](https://www.nacha.org/content/solutions-and-services)
         
