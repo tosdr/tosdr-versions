@@ -1,4 +1,4 @@
-[![](data:image/gif;nitro-empty-id=MjAxOjE0Mw==-1;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.currentware.com/)
+[![](https://cdn-aogbe.nitrocdn.com/LYdLTjFVvLmCmiqbCPnUYWCzZdgiptoK/assets/images/source/rev-ef5f336/currentware.com/wp-content/uploads/2022/05/currentware-webconsole-logo-white-bg.svg#34740)](https://www.currentware.com/)
 
 * Products
     
