@@ -240,10 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### 90% Renewals
+### Designed for everyone, everywhere
 
   
-Over 90% of our clients renew their services for over one year.  
+Our services are easy to use and meant to enhance convenience. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.  
   
 
 ### News
