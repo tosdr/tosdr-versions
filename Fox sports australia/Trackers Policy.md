@@ -18,24 +18,14 @@ FOX SCORES
     
 * [Men's Test
     
-    22/11 13:20 AEST
+    Day 1 Session 3
     
     |     |     |
     | --- | --- |
-    | AUS | –   |
-    | IND | –   |
+    | AUS | 1 /14 |
+    | IND | 150 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250501)
-* [Women's BBL
-    
-    MELR won by 22 runs
-    
-    |     |     |
-    | --- | --- |
-    | HOB | 8 /128 |
-    | MELR | 5 /150 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250135)
 * [Women's BBL
     
     22/11 20:10 AEST
@@ -74,76 +64,66 @@ FOX SCORES
     
 * [NFL
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CLE | 0   |
-    | PIT | 0   |
+    | CLE | 24  |
+    | PIT | 19  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251203)
 * Basketball
     
 * [NBA
     
-    3 Qtr Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CHA | 93  |
-    | DET | 79  |
+    | CHA | 123 |
+    | DET | 121 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010244/box-score)
 * [NBA
-    
-    Half Time
-    
-    |     |     |
-    | --- | --- |
-    | TOR | 52  |
-    | MIN | 51  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010245/box-score)
-* [NBA
-    
-    2nd Qtr
-    
-    |     |     |
-    | --- | --- |
-    | SA  | 31  |
-    | UTA | 44  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010246/box-score)
-* [NBA
-    
-    22/11 14:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | LAL | –   |
-    | ORL | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010247)
-* [Men's ACQ
     
     Full Time
     
     |     |     |
     | --- | --- |
-    | THA | 48  |
-    | AUS | 101 |
+    | TOR | 110 |
+    | MIN | 105 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/fiba-asia-cup-qualifying/match-centre/MACQ2024010003/play-by-play)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010245/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | SA  | 126 |
+    | UTA | 118 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010246/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | LAL | 118 |
+    | ORL | 119 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010247/box-score)
 * Football
     
 * [A-League M
     
-    22/11 17:30 AEST
+    2nd Half
     
     |     |     |
     | --- | --- |
-    | PER | –   |
-    | WUN | –   |
+    | PER | 1   |
+    | WUN | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250501)
 * [A-League M
@@ -158,12 +138,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250502)
 * [A-League W
     
-    22/11 17:30 AEST
+    2nd Half
     
     |     |     |
     | --- | --- |
-    | ADL | –   |
-    | WEL | –   |
+    | ADL | 0   |
+    | WEL | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250401)
 * [A-League W
