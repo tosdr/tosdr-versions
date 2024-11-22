@@ -1,6 +1,6 @@
 The site's javascripts are blocked. This disables some functionality on the site.
 
-[We have our winners! Thank you for reading and voting](https://storiesonline.net/contest/halloween-2024) \[ [Dismiss](javascript:hn();) \]
+[Please read. Significant change on the site that will affect compatibility](https://storiesonline.net/d/s1/t12865/huge-change) \[ [Dismiss](javascript:hn();) \]
 
 [Home](https://storiesonline.net/)
 
