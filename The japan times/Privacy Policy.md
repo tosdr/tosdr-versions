@@ -468,6 +468,10 @@ Revised June 1, 2022
 
   [![The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/434967.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The U.S. Treasury building in Washington. Investors in Japan and China sold a pile of U.S. debt in the last quarter, just before the U.S. presidential election.")](https://www.japantimes.co.jp/business/2024/11/19/markets/japan-china-treasuries-sale/ "Two of America’s biggest debt holders are dumping Treasurys")
 
+[Russia fired experimental ballistic missile at Ukraine, Putin says](https://www.japantimes.co.jp/news/2024/11/22/world/russia-icbm-attack-on-dnipro-ukraine/ "Russia fired experimental ballistic missile at Ukraine, Putin says")
+
+  [![Ukrainian firefighters work on a spot following an airstrike in Dnipro on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435586.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ukrainian firefighters work on a spot following an airstrike in Dnipro on Thursday.")](https://www.japantimes.co.jp/news/2024/11/22/world/russia-icbm-attack-on-dnipro-ukraine/ "Russia fired experimental ballistic missile at Ukraine, Putin says")
+
 [Ishiba aggravates his own political failures with diplomatic faux pas](https://www.japantimes.co.jp/commentary/2024/11/20/japan/ishiba-promises/ "Ishiba aggravates his own political failures with diplomatic faux pas")
 
   [![Prime Minster Shigeru Ishiba is greeted at the APEC summit in Lima by Canadian Prime Minister Justin Trudeau on Friday. The Japanese leader was criticized for remaining seated while meeting several world leaders at the event. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/20/435177.png?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minster Shigeru Ishiba is greeted at the APEC summit in Lima by Canadian Prime Minister Justin Trudeau on Friday. The Japanese leader was criticized for remaining seated while meeting several world leaders at the event. ")](https://www.japantimes.co.jp/commentary/2024/11/20/japan/ishiba-promises/ "Ishiba aggravates his own political failures with diplomatic faux pas")
@@ -480,9 +484,17 @@ Revised June 1, 2022
 
   [![In a survey of 31 countries, Japan ranked last in terms of those who felt loved, with just 51% of respondents saying so.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/20/435180.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In a survey of 31 countries, Japan ranked last in terms of those who felt loved, with just 51% of respondents saying so.")](https://www.japantimes.co.jp/news/2024/11/20/japan/society/japan-love-satisfaction-survey/ "Japan ranks last in romance satisfaction for second straight year")
 
-[Ruling coalition and DPP strike last-minute deal over economic policy](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/economic-threshold-political-wrangling/ "Ruling coalition and DPP strike last-minute deal over economic policy")
+[The slow-burn success of ‘A Samurai in Time’](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
 
-  [![DPP policy chief Makoto Mahaguchi speaks at the party's policy gathering in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435490.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP policy chief Makoto Mahaguchi speaks at the party's policy gathering in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/11/20/japan/politics/economic-threshold-political-wrangling/ "Ruling coalition and DPP strike last-minute deal over economic policy")
+  [![A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”")](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
+
+[Around a quarter of Japan married couples in their 20s met through dating apps](https://www.japantimes.co.jp/news/2024/11/21/japan/society/young-couples-dating-app/ "Around a quarter of Japan married couples in their 20s met through dating apps")
+
+  [![A survey released by an organization promoting “Good Couples Day” shows that 24% of couples in their 20s met their marriage partner through a dating app.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435515.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A survey released by an organization promoting “Good Couples Day” shows that 24% of couples in their 20s met their marriage partner through a dating app.")](https://www.japantimes.co.jp/news/2024/11/21/japan/society/young-couples-dating-app/ "Around a quarter of Japan married couples in their 20s met through dating apps")
+
+['Tokyo Swindlers': Get deep into the minds of real estate con artists](https://www.japantimes.co.jp/culture/2024/11/21/books/tokyo-swindlers/ "'Tokyo Swindlers': Get deep into the minds of real estate con artists")
+
+  [![In Ko Shinjo's "Tokyo Swindlers," a group of con artists manipulates real estate giants into falsified deals within the highly competitive, quick market.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/434325.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In Ko Shinjo's "Tokyo Swindlers," a group of con artists manipulates real estate giants into falsified deals within the highly competitive, quick market.")](https://www.japantimes.co.jp/culture/2024/11/21/books/tokyo-swindlers/ "'Tokyo Swindlers': Get deep into the minds of real estate con artists")
 
 [Japan, U.K. and Italy discuss inviting more countries to joint fighter project](https://www.japantimes.co.jp/news/2024/11/20/japan/gcap-fighter-jets/ "Japan, U.K. and Italy discuss inviting more countries to joint fighter project")
 
@@ -493,18 +505,6 @@ Revised June 1, 2022
 [Haruki Murakami's 'The City and Its Uncertain Walls' gives deep deja vu](https://www.japantimes.co.jp/culture/2024/11/19/books/haruki-murakami-the-city-and-its-uncertain-walls/ "Haruki Murakami's 'The City and Its Uncertain Walls' gives deep deja vu")
 
   [![For “The City and Its Uncertain Walls,” translated into English by Philip Gabriel, Haruki Murakami confronts the ghosts who won't leave him alone.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/434832.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "For “The City and Its Uncertain Walls,” translated into English by Philip Gabriel, Haruki Murakami confronts the ghosts who won't leave him alone.")](https://www.japantimes.co.jp/culture/2024/11/19/books/haruki-murakami-the-city-and-its-uncertain-walls/ "Haruki Murakami's 'The City and Its Uncertain Walls' gives deep deja vu")
-
-[Japanese expats in Asia find community through rugby](https://www.japantimes.co.jp/sports/2024/11/19/more-sports/japanese-expat-rugby-asia/ "Japanese expats in Asia find community through rugby")
-
-  [![The Taiwan Fivewoods celebrate their victory at the 2023 Asian Japanese Rugby Cup in December of last year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/19/431958.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Taiwan Fivewoods celebrate their victory at the 2023 Asian Japanese Rugby Cup in December of last year. ")](https://www.japantimes.co.jp/sports/2024/11/19/more-sports/japanese-expat-rugby-asia/ "Japanese expats in Asia find community through rugby")
-
-[In Fukushima, a weekend of prose, poetry and translation](https://www.japantimes.co.jp/community/2024/11/18/our-lives/japan-writers-conference-fukushima/ "In Fukushima, a weekend of prose, poetry and translation")
-
-  [![Aomori-based writer JJ Carter presented on tabletop gaming as creative inspiration for building characters and narratives.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434238.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Aomori-based writer JJ Carter presented on tabletop gaming as creative inspiration for building characters and narratives.")](https://www.japantimes.co.jp/community/2024/11/18/our-lives/japan-writers-conference-fukushima/ "In Fukushima, a weekend of prose, poetry and translation")
-
-[For Dr. Nakamats, aging is just experience in action](https://www.japantimes.co.jp/news/2024/11/18/japan/society/dr-nakamatsu-japanese-inventor/ "For Dr. Nakamats, aging is just experience in action")
-
-  [![Though he didn't win the recent gubernatorial election in Tokyo, the 96-year-old Dr. Nakamats' run was seen as inspirational in Japan's aging society. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434614.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Though he didn't win the recent gubernatorial election in Tokyo, the 96-year-old Dr. Nakamats' run was seen as inspirational in Japan's aging society. ")](https://www.japantimes.co.jp/news/2024/11/18/japan/society/dr-nakamatsu-japanese-inventor/ "For Dr. Nakamats, aging is just experience in action")
 
 Podcast
 -------
@@ -525,9 +525,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,17 +567,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Bracing for Trump tariffs, China's Xi makes diplomatic push at global summits](https://www.japantimes.co.jp/news/2024/11/21/world/trump-tariff-xi-diplomatic-push/ "Bracing for Trump tariffs, China's Xi makes diplomatic push at global summits")
+[Brazil police accuse Bolsonaro and ex-ministers of 2022 coup plot](https://www.japantimes.co.jp/news/2024/11/22/world/crime-legal/brazil-police-accuse-bolsonaro-coup-plot/ "Brazil police accuse Bolsonaro and ex-ministers of 2022 coup plot")
 
-11 hours ago
+22 mins ago
 
-[Japanese court rejects injunction against flights at Atsugi Air Base](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/yokohama-court-rejection-atsugi/ "Japanese court rejects injunction against flights at Atsugi Air Base")
+[Saitama court bans demonstrations over anti-Kurd hate speech](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/kurds-hate-speech/ "Saitama court bans demonstrations over anti-Kurd hate speech")
 
-[Russia launched intercontinental ballistic missile during attack on Ukraine, Kyiv says](https://www.japantimes.co.jp/news/2024/11/21/world/russia-icbm-attack-on-dnipro-ukraine/ "Russia launched intercontinental ballistic missile during attack on Ukraine, Kyiv says")
+29 mins ago
 
-[Lutnick's China ties draw fire after Trump taps him for U.S. trade roles](https://www.japantimes.co.jp/news/2024/11/21/world/politics/lutnick-china-ties-trump-trade/ "Lutnick's China ties draw fire after Trump taps him for U.S. trade roles")
+[Riken and others develop plastic material that dissolves in seawater](https://www.japantimes.co.jp/news/2024/11/22/japan/plastic-dissolving-in-seawater/ "Riken and others develop plastic material that dissolves in seawater")
 
-[Tokyo Metro’s overseas efforts begin in earnest with London deal](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
+55 mins ago
+
+[Trump’s education secretary pick named in sexual abuse lawsuit](https://www.japantimes.co.jp/news/2024/11/22/world/crime-legal/linda-mcmahon-child-abuse-lawsuit/ "Trump’s education secretary pick named in sexual abuse lawsuit")
+
+1 hour ago
+
+[Putin, ascendant in Ukraine, eyes contours of a Trump peace deal](https://www.japantimes.co.jp/news/2024/11/22/world/politics/putin-eyes-trump-peace-deal/ "Putin, ascendant in Ukraine, eyes contours of a Trump peace deal")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
