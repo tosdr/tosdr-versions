@@ -366,7 +366,7 @@ Gentlent™ is a software company aiming to make complex web technologies easy a
 
 Gentlent
 
-[Privacy Policy](https://gentlent.com/policies/privacy)[Terms of Service](https://gentlent.com/policies/terms)[Code of Conduct](https://gentlent.com/policies/code-of-conduct)[Right of Withdrawal](https://gentlent.com/policies/right-of-withdrawal)[Legal Notice](https://gentlent.com/policies/legal-notice)
+[Privacy Policy](https://gentlent.com/policies/privacy)[Terms of Service](https://gentlent.com/policies/terms)[SLA](https://gentlent.com/policies/sla)[Code of Conduct](https://gentlent.com/policies/code-of-conduct)[Right of Withdrawal](https://gentlent.com/policies/right-of-withdrawal)[Legal Notice](https://gentlent.com/policies/legal-notice)
 
 Copyright © 2019 - 2024 by Gentlent and/or its subsidiaries. All rights reserved. Gentlent® is a registered trademark of Gentlent UG (haftungsbeschränkt) in Germany or other countries. All trademarks, service marks, and company names are the property of their respective owners. Made with ❤ remotely.  
   
