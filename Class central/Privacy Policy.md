@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. marketing
+1. c
     
-2. psychology
+2. harvard
     
-3. cyber security
+3. graphic design
     
 
 Popular subjects
 
-1. [Digital Marketing
+1. [Data Analysis
     
-    6,278 courses](https://www.classcentral.com/subject/digital-marketing)
-2. [Computer Science
+    8,818 courses](https://www.classcentral.com/subject/data-analysis)
+2. [Microsoft Excel
     
-    43,575 courses](https://www.classcentral.com/subject/cs)
-3. [Graphic Design
+    1,823 courses](https://www.classcentral.com/subject/microsoft-excel)
+3. [Artificial Intelligence
     
-    4,347 courses](https://www.classcentral.com/subject/graphic-design)
+    13,940 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 
-1. [Mining Massive Datasets
+1. [An Introduction to Interactive Programming in Python (Part 1)
     
-    Stanford University](https://www.classcentral.com/course/mining-stanford-university-mining-massive-dataset-2406)
-2. [Making Successful Decisions through the Strategy, Law & Ethics Model
+    Rice University](https://www.classcentral.com/course/interactivepython1-408)
+2. [Excel: Fundamentos y herramientas
     
-    University of Michigan](https://www.classcentral.com/course/strategy-law-ethics-6195)
-3. [The Science of Well-Being
+    Universitat Politècnica de València](https://www.classcentral.com/course/excel-universitat-politecnica-de-valencia-excel-f-2962)
+3. [The Future of Work: Preparing for Disruption
     
-    Yale University](https://www.classcentral.com/course/the-science-of-well-being-10346)
+    Online Learning Campus - World Bank Group](https://www.classcentral.com/course/future-work-world-bank-group-the-future-of-work-p-13702)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
