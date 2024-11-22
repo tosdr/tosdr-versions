@@ -169,3 +169,22 @@ Copyright © 2024 Oxfam International. All rights reserved.
 [CHS-certiﬁed by HQAI](https://www.hqai.org/en/network/audited-partners/certified-partners/oxfam/)
 
 [Oxfam International](https://www.oxfam.org/en)
+
+Fabeha Monir/Oxfam
+
+![Woman and child washing their hands at Oxfam supported water tank.](https://oi-files-d8-prod.s3.eu-west-2.amazonaws.com/s3fs-public/2024-11/Oxfam_InuruID_371941_South_Sudan_2.2e16d0ba.fill-480x400%20%281%29.jpg)
+
+Now is the time to build a more equal future.
+---------------------------------------------
+
+Triple your gift to fight inequality.
+
+Enter amount to donate
+
+$ 
+
+Donate Now
+
+Continue without donating
+
+Oxfam
