@@ -637,12 +637,6 @@ Creating a web app without any coding experience is now…
         
         Learn about how to set up and expand your app.
         
-    * [Certification Program![Certification Program](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        ![Certification Program](https://www.knack.com/wp-content/uploads/2023/11/Education.svg)](https://help.knack.com/training-cert)
-        
-        Become a certified Knack Expert.
-        
     * [Developer Docs![Developer Docs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         ![Developer Docs](https://www.knack.com/wp-content/uploads/2023/11/Development-Docs.svg)](https://docs.knack.com/)
