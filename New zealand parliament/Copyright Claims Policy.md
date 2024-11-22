@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/54SCEDUW_SCF_602A4FF6-A1BB-4C1E-5001-08DC48797499/employment-relations-employee-remuneration-disclosure/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/make-a-submission/document/54SCEDUW_SCF_602A4FF6-A1BB-4C1E-5001-08DC48797499/employment-relations-employee-remuneration-disclosure/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
