@@ -332,6 +332,7 @@ Accepted Web-Rings.
 Recent Comments
 ---------------
 
+* abrahem on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-92678)
 * [Ren](http://strangedefinition.com/) on [OpenNIC](https://www.s-config.com/opennic/comment-page-1/#comment-92542)
 * [S-Config](https://www.s-config.com/) on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-91177)
 * .Mimic on [Hi Koss.](https://www.s-config.com/hi-koss/comment-page-1/#comment-90674)
@@ -339,7 +340,6 @@ Recent Comments
 * Jack Meoff on [IntelliMouse lives again.](https://www.s-config.com/intellimouse-lives-again/comment-page-1/#comment-90482)
 * [S-Config](https://www.s-config.com/) on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-90036)
 * [S-Config](https://www.s-config.com/) on [Sleeper E-Server PC](https://www.s-config.com/sleeper-e-server-pc/comment-page-1/#comment-89927)
-* WinDVD on [Sleeper E-Server PC](https://www.s-config.com/sleeper-e-server-pc/comment-page-1/#comment-89926)
 
 The only advertisement banner you will see.
 -------------------------------------------
