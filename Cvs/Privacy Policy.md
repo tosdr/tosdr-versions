@@ -1253,7 +1253,6 @@ table of contents
     
 
 * [![facebook logo](//images.ctfassets.net/nu3qzhcv2o1c/4lDnItYXzVHNIoNSLsYEvZ/0f634ddd94aaa4be75ff821982fc95c2/facebook.svg)](https://www.facebook.com/CVS)
-* [![X logo](//images.ctfassets.net/nu3qzhcv2o1c/5y9a7q6TBMjWthpqfEHeP7/a28da59fbaa0577cd51f4a06fed7edaa/twitter.svg)](https://twitter.com/cvspharmacy)
 * [![Linkedin logo](//images.ctfassets.net/nu3qzhcv2o1c/7iVpeVc0Bvpaa7If8qXuHw/2e07ea870af899a0ad93fa54d26613b3/Linkedin.svg)](https://www.linkedin.com/company/cvs-health)
 * [![Youtube logo](//images.ctfassets.net/nu3qzhcv2o1c/1v8ah8HEt5TpDpLgm86iTa/52d471e7efea263d4f7d0c9840db310c/youtube.svg)](https://www.youtube.com/cvspharmacyvideos)
 
