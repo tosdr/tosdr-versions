@@ -526,8 +526,6 @@ Subject to Section 9 above, these Influencer Terms of Use are governed by the in
 
 [](https://later.com/)
 
-The best social media marketing app, influencer marketing management platform & Link in Bio tool.
-
 * [Later Social](https://later.com/index/)
     
     Later Social submenu
