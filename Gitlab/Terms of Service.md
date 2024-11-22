@@ -2202,7 +2202,6 @@
         * [ ]  [People Group Engineering](https://handbook.gitlab.com/handbook/people-group/engineering/)
             * [ ]  [Career Mobility Automation Flow](https://handbook.gitlab.com/handbook/people-group/engineering/career-mobility/)
             * [ ]  [Employment Issues](https://handbook.gitlab.com/handbook/people-group/engineering/employment-issues/)
-            * [ ]  [Greenhouse <> BambooHR sync](https://handbook.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/)
             * [ ]  [Miscellaneous](https://handbook.gitlab.com/handbook/people-group/engineering/miscellaneous/)
             * [ ]  [Nominator bot](https://handbook.gitlab.com/handbook/people-group/engineering/nominatorbot/)
             * [ ]  [Offboarding Automation Flow](https://handbook.gitlab.com/handbook/people-group/engineering/offboarding/)
