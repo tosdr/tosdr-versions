@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 160 utilisateurs actifs
+##### 394 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Navigateur Arc : comment accéder aux paramètres et les modifier ?](https://lecrabeinfo.net/navigateur-arc-comment-acceder-aux-parametres-et-les-modifier.html)
 * [Bing Wallpaper : un piège de Microsoft pour imposer Edge et Bing ?](https://lecrabeinfo.net/bing-wallpaper-un-piege-de-microsoft-pour-imposer-edge-et-bing.html)
 * [Windows App : à quoi sert la nouvelle application de Microsoft ?](https://lecrabeinfo.net/windows-app-a-quoi-sert-la-nouvelle-application-de-microsoft.html)
-* [Windows 11 : comment restaurer WordPad, l’éditeur de texte historique (et gratuit) de Windows ?](https://lecrabeinfo.net/windows-11-comment-restaurer-wordpad-lediteur-de-texte-historique-et-gratuit-de-windows.html)
 
 ### Tendance
 
