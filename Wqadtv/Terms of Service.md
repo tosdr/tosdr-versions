@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/7752d4e4-edb9-4b20-b0f6-5d40b0addecf/20241122T040846/7752d4e4-edb9-4b20-b0f6-5d40b0addecf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7752d4e4-edb9-4b20-b0f6-5d40b0addecf/20241122T040846/7752d4e4-edb9-4b20-b0f6-5d40b0addecf_360x203.jpg)](https://www.wqad.com/article/news/local/putnam-museum-the-vault-unseen-artifacts/526-78c9da0f-a10e-48e1-9057-6ba58bd6dd93)
         
         #### [Take a walk through 'The Vault' of unseen relics at the Putnam Museum](https://www.wqad.com/article/news/local/putnam-museum-the-vault-unseen-artifacts/526-78c9da0f-a10e-48e1-9057-6ba58bd6dd93)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_360x203.jpg)](https://www.wqad.com/article/news/local/mr-thanksgiving-holiday-dinner-return/526-905ac4a7-461d-4ef0-9ccf-399cc1b72ad7)
-        
-        #### [Mr. Thanksgiving's holiday dinner to be held at Mercado on Fifth in Moline](https://www.wqad.com/article/news/local/mr-thanksgiving-holiday-dinner-return/526-905ac4a7-461d-4ef0-9ccf-399cc1b72ad7)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b1f1a86c-250b-4fb3-9e17-2afe0e994891/20241121T234139/b1f1a86c-250b-4fb3-9e17-2afe0e994891_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b1f1a86c-250b-4fb3-9e17-2afe0e994891/20241121T234139/b1f1a86c-250b-4fb3-9e17-2afe0e994891_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9ce50bbe-7d62-40cf-bf5e-90233011c9e3/20241122T131058/9ce50bbe-7d62-40cf-bf5e-90233011c9e3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9ce50bbe-7d62-40cf-bf5e-90233011c9e3/20241122T131058/9ce50bbe-7d62-40cf-bf5e-90233011c9e3_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Weather Impact Alert: Gusty winds expected through midnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Much quieter skies today and for the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KGW/images/e46b6948-feb8-4071-ae44-3740d3010c4c/20241121T003202/e46b6948-feb8-4071-ae44-3740d3010c4c_16x9.jpg) ![](https://media.tegna-media.com/assets/KGW/images/e46b6948-feb8-4071-ae44-3740d3010c4c/20241121T003202/e46b6948-feb8-4071-ae44-3740d3010c4c_360x203.jpg)](https://www.wqad.com/article/weather/severe-weather/amtrak-cascades-train-damaged-downed-tree-windstorm/283-83fcb056-a7ae-4caa-84d0-0ee781857374)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-38°
+39°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
