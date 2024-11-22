@@ -44,6 +44,7 @@ Main menu
     * [Sky Café](https://www.airarabia.com/sky-cafe)
     * [SkyTime](https://www.airarabia.com/sky-time)
     * [Inflight Magazine](https://www.airarabia.com/en/inflight-magazine)
+    * [FLYING WITH FAMILY](https://www.airarabia.com/en/flying-with-family)
     
 * [Manage](https://www.airarabia.com/en/manage-bookings) [More](# )
     
