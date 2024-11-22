@@ -2848,7 +2848,7 @@ Mehr anzeigen
 
 * [Sichere Bestellung](https://kundenservice.lidl.de/SelfServiceDE/s/article/Ist-der-Lidl-Onlineshop-EHI-zertifiziert?q=EHI "Sichere Online-Bestellung bei Lidl.de")
 * [Kostenlose Retoure](https://kundenservice.lidl.de/SelfServiceDE/s/article/Ist-die-R%C3%BCcksendung-f%C3%BCr-mich-kostenlos "Kostenlose Retouren für Lidl Online-Kunden!")
-* [Rückgabefrist von 30 Tagen](https://kundenservice.lidl.de/SelfServiceDE/s/article/Wie-lange-habe-ich-die-M%C3%B6glichkeit-der-Warenr%C3%BCcksendung "Rückgabefrist bei Lidl.de bis zu 30 Tagen!")
+* [Verlängerte Rückgabefrist bis 09.02.25 für alle Bestellungen bis einschließlich 24.12.24](https://kundenservice.lidl.de/SelfServiceDE/s/article/Wie-lange-habe-ich-die-M%C3%B6glichkeit-der-Warenr%C3%BCcksendung "Verlängerte Rückgabefrist bis 09.02.25 für alle Bestellungen bis einschließlich 24.12.24")
 * [Lieferung an Packstation](https://kundenservice.lidl.de/SelfServiceDE/s/article/Kategorie-ecommerce-Delivery-Wohin-kann-das-Paket-geliefert-werden?q=Wohin%20kann%20das%20Paket%20geliefert%20werden%20 "Lieferung an Ihre Packstation mit Lidl.de!")
 
 Kontakt![](/n/footer/icons/arrow-bottom.svg)
