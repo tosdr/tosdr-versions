@@ -17,12 +17,12 @@ Login with username, password and session length
 News:
 -----
 
-**Any thread that is unlocked** is free to be posted in! Threads are not considered "dead" until they are locked.
+Join our chat room on [Discord](https://www.thefurryforum.com/forums/index.php?topic=38553.0)! We'd love to chat with you!
 
   
   
 
-[![Your ad here](adverts/tff_ad_blank.jpg "Your ad here")](https://www.thefurryforum.com/forums/index.php?topic=18442.0)
+[![WingedZephyr](adverts/zeph.gif "WingedZephyr")](http://www.furaffinity.net/user/wingedzephyr)
 
   
 
