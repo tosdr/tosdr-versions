@@ -284,6 +284,14 @@ Recurs yearly
 
 1994
 
+#### Thu, Nov 28
+
+Alfonso Cuarón's birthday
+
+Recurs yearly
+
+Director (PoA)
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -294,15 +302,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-In the world of wizard currency, there are 29 bronze Knuts to a silver Sickle and 17 Sickles to a gold Galleon. In Muggle money, a Galleon is worth about £5, but exchange rates can vary.
+Term at Hogwarts begins on September 1.
 
 ### Potter History
 
-July 16, 2007 – Harry Potter and the Order of the Phoenix film grosses $330 million worldwide.
+September 9, 2008 – Electronic Arts officially announces the delay of their Harry Potter and the Half-Blood Prince video game. The news was expected after Warner Bros. delayed the film.
 
 ### Potter Quote
 
-“There is nothing worse than death, Dumbledore!”
+“Longbottom, kindly do not reveal that you can’t even perform a simple Switching Spell in front of anyone from Durmstrang!”
 
 [](#)
 
