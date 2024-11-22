@@ -23,8 +23,9 @@ Wasabi Acceptable Use Policy
 
 [**Sub Processors**](https://wasabi.com/legal/sub-processors)
 
-  
-  
+**Previous Versions:**
+
+[June 1, 2021](https://cdn.brandfolder.io/BFD8NB05/at/rstz5cjkk3sswzfx9mv9tx7/Acceptable_Use_Policy_-1June2021_REFERENCE_ONLY.pdf)
 
 [Company](https://wasabi.com/legal/acceptable-use-policy#)
 
