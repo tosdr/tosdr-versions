@@ -81,11 +81,11 @@ Login to your account, download forms, view auth grids and more.
 
 ### Provider Resources
 
-* [COVID-19 Updates](https://www.fideliscare.org/Provider/Provider-Resources/Coronavirus-COVID-19-Updates)
 * [Authorization Grids](https://www.fideliscare.org/Provider/Provider-Resources/Authorization-Grids)
 * [Provider Bulletins](https://www.fideliscare.org/Provider/Provider-Resources/Provider-Bulletins)
 * [Pharmacy Services](https://www.fideliscare.org/Provider/Provider-Resources/Pharmacy-Services)
 * [Manuals, Forms and Policies](https://www.fideliscare.org/Provider/Provider-Resources/Manuals-Forms-and-Policies)
+* [Quality](https://www.fideliscare.org/Provider/Provider-Resources/Quality)
 
 * * *
 
