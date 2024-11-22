@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Drunk On YouLuke Bryan<br><br>10:40pm |
-| Whiskey DrinkJason Aldean<br><br>10:37pm |
-| Son Of A SinnerJelly Roll<br><br>10:34pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>10:31pm |
-| AustinDasha<br><br>10:20pm |
+| Would If I CouldErnest<br><br>4:38am |
+| Love Ain'TEli Young Band<br><br>4:35am |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:32am |
+| Wind Up Missing YouTucker Wetmore<br><br>4:29am |
+| I Could Be That RainRandall King<br><br>4:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
+Top 40 • Pacific NW
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-News Talk • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
