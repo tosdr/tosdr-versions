@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/3819.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -86,7 +86,7 @@ Jusqu'à 50%de rabais sur une sélection de matériel IT](https://www.microspot.
 
 [![Gaming Special](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0753-CM2-PS5-BF2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMDkxNDV8aW1hZ2UvanBlZ3xhR1kyTDJoa1pDODROakI0TkRnMFgwa3lORjh3TnpVelgwTk5NbDlRVXpWZlFrWXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TmpCNE5EZzBYMGt5TkY4d056VXpYME5OTWw5UVV6VmZRa1l5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8NzM2MzMwZmM1ODc5NTZlZGI5M2RkOGU4NGU0YTI4ZThiMGUxZWQzMTZlZTJiNDEyNDdkNDYwOGU5YzQ5YzRhMw&w=2360&q=75)
 
-Actionsur une sélection de produits SONY Playstation](https://www.microspot.ch/fr/cms/console-de-jeu)
+ACTIONsur une sélection de produits SONY Playstation](https://www.microspot.ch/fr/cms/sony-playstation)
 
 [![Samsung TV](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-24-0726-CM1-Samsung-Big-Inch-Week.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMTE3Njl8aW1hZ2UvanBlZ3xhRGMyTDJoalpTODROakI0TkRnMFh6STBYekEzTWpaZlEwMHhYMU5oYlhOMWJtZGZRbWxuWDBsdVkyaGZWMlZsYXk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY4eU5GOHdOekkyWDBOTk1WOVRZVzF6ZFc1blgwSnBaMTlKYm1Ob1gxZGxaV3N1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfGU4MDU1MmNhMDFmMjI1NzVlNzdjY2JiY2E0YjViNGQzYjI2MmNjMGIxZmIyOTM1MTg5Mjk5MzNkM2Q4N2YxNjM&w=2360&q=75)
 
@@ -223,9 +223,9 @@ Achetez comme vous aimez
 
 dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Commandé aujourd'hui avant 20h
+[Garantie Plus
 
-livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 [Frais de port gratuits pour livraison
 
