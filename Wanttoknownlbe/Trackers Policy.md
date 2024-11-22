@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/het-cda-en-rentmeesterschap-een-lachertje/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/magnesium-speelt-een-hoofdrol/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
