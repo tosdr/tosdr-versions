@@ -26,8 +26,7 @@ More industries
 
 High-Ticket Merchants](https://www.seamlesschex.com/high-volume-merchant-account-services)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/645a915e385f631613a0dcf0_Financial%20Services.png)
 
-Financial Service  
-Companies](https://www.seamlesschex.com/financialservices)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/62cc27e2a8762a579278ae41_Icon%20(21).png)
+Financial Services](https://www.seamlesschex.com/financialservices)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/62cc27e2a8762a579278ae41_Icon%20(21).png)
 
 **TMF/MATCH  
 List Merchants**](https://www.seamlesschex.com/tmf-match-list-merchant-accounts)[![](https://cdn.prod.website-files.com/629f4f1071598e2325b33b7f/6596e7a8cac7dc060285c93f_Icon%20(5).png)
