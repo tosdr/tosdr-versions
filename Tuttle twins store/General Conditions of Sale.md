@@ -55,6 +55,19 @@ SECS](https://shop.angel.com/collections/veterans-day-sale-25-off-with-code-vet2
 
      
 
+* BFCM Deals
+    
+    BFCM Deals
+    
+    * [$5 Shirts](https://tuttletwins.store/collections/bfcm-5-shirts)
+    * [10% Off](https://tuttletwins.store/collections/bfcm-10)
+    * [30% Off](https://tuttletwins.store/collections/bfcm-30-off)
+    * [40% Off](https://tuttletwins.store/collections/bfcm-40)
+    * [50% Off](https://tuttletwins.store/collections/bfcm-50-off)
+    * [60% Off](https://tuttletwins.store/collections/bfcm-60-off)
+    * [70% Off](https://tuttletwins.store/collections/bfcm-70-off)
+    * [Shop All](https://tuttletwins.store/collections/black-friday-early-preview)
+    
 * [Home](https://tuttletwins.store/)
 * Shop Shows
     
@@ -379,10 +392,45 @@ USD $ | United States
 * [TikTok](https://www.tiktok.com/@angelstudiosinc)
 * [YouTube](https://www.youtube.com/channel/UCQIjTyWmLEdsfqMQay0yGMA)
 
-[![Angel Studios Gift Factory](//shop.angel.com/cdn/shop/files/Angel_Studios_logo-white_1.png?v=1725550543&width=600)](https://tuttletwins.store/)[Member Sign In](https://auth.angelstudios.com/authorize?client_id=shopify_multipass&redirect_uri=https://shop.angel.com/account&response_type=code)
+[![Angel Studios Gift Factory](//shop.angel.com/cdn/shop/files/Angel_Studios_logo-white_1.png?v=1725550543&width=600)](https://tuttletwins.store/)[Shop All Deals](https://tuttletwins.store/collections/black-friday-early-preview)
 
-[Member Sign In](https://auth.angelstudios.com/authorize?client_id=shopify_multipass&redirect_uri=https://shop.angel.com/account&response_type=code)
+[Shop All Deals](https://tuttletwins.store/collections/black-friday-early-preview)
 
+* BFCM Deals
+    
+    * [![header icon](//shop.angel.com/cdn/shop/files/All_Deals_1024x1024.png?v=1732135996)](https://tuttletwins.store/collections/black-friday-early-preview)
+        
+        Shop All Deals
+        
+    * [![header icon](//shop.angel.com/cdn/shop/files/5_Shirts_1024x1024.png?v=1732135996)](https://tuttletwins.store/collections/bfcm-5-shirts)
+        
+        $5 Shirts
+        
+    * [![header icon](//shop.angel.com/cdn/shop/files/70_Off_1024x1024.png?v=1732135996)](https://tuttletwins.store/collections/bfcm-70-off)
+        
+        70% Off
+        
+    * [![header icon](//shop.angel.com/cdn/shop/files/60_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-60-off)
+        
+        60% Off
+        
+    * [![header icon](//shop.angel.com/cdn/shop/files/50_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-50-off)
+        
+        50% Off
+        
+    * [![header icon](//shop.angel.com/cdn/shop/files/40_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-40)
+        
+        40% Off
+        
+    * [![header icon](//shop.angel.com/cdn/shop/files/30_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-30-off)
+        
+        30% Off
+        
+    * [![header icon](//shop.angel.com/cdn/shop/files/10_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-10)
+        
+        10% Off
+        
+    
 * Shop Shows
     
     Shop Shows
