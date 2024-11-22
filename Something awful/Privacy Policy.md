@@ -205,26 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [September 22, 2008](https://www.somethingawful.com/forum-fridays/ff09-22-08/1/)
-* [I MIGHT OF GOT SIX GIRLS PREGNANT LAST WEEK](https://www.somethingawful.com/levi-johnston/bristol-levi-split/1/)
-* [The Scroll of Unfortunate Prophecy Predicts: Cinema](https://www.somethingawful.com/news/cinema-unfortunate-prophecy/1/)
-* [Dungeons & Dragons Monsters](https://www.somethingawful.com/photoshop-phriday/dungeons-dragons-monsters/1/)
-* [MSPaint Your Climax Face](https://www.somethingawful.com/comedy-goldmine/climax-faces/1/)
+* [Chapter Twenty One](https://www.somethingawful.com/feature-articles/chapter-twenty-one/1/)
+* [You Knowing You(rself): A Sexual Self Assessment for the Hot Woman](https://www.somethingawful.com/feature-articles/you-knowing-yourself/1/)
+* [World War C: An Oral History of the Cobra War (Part 2)](https://www.somethingawful.com/feature-articles/world-war-an-2/1/)
+* [AwfulVision: Is We Is!](https://www.somethingawful.com/awfulvision/rap-wrestling-rainbows/1/)
+* [SkyMall Catalogue Jamboree](https://www.somethingawful.com/comedy-goldmine/skymall-catalogue-jamboree/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [Oreos](http://forums.somethingawful.com/showthread.php?threadid=4075812 "Oreos")
+* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [Cartoon Characters you would betray](http://forums.somethingawful.com/showthread.php?threadid=4075802 "Cartoon Characters you would betray")
 * ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Made up QCS drama thread](http://forums.somethingawful.com/showthread.php?threadid=4075797 "Made up QCS drama thread")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [ceilings: how tall is too tall?](http://forums.somethingawful.com/showthread.php?threadid=4075771 "ceilings: how tall is too tall?")
-* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [Cartoon Characters you would betray](http://forums.somethingawful.com/showthread.php?threadid=4075802 "Cartoon Characters you would betray")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Build a 15 dollar breakfast](http://forums.somethingawful.com/showthread.php?threadid=4075800 "Build a 15 dollar breakfast")
 
 ### Random Articles
 
-* [Weezing to a Halt](https://www.somethingawful.com/your-band-sucks/weezing-halt/)
-* [THE GIRLS OF YOUR DREAMS ARE WAITING!](https://www.somethingawful.com/news/sexy-dream-girls/)
-* [Beware, the Shadow Government!](https://www.somethingawful.com/news/rock-on-shadow/)
-* [D&D's The Tomb of Horror, except every player is operating a bulldozer](https://www.somethingawful.com/comedy-goldmine/dungeons-dragons-bulldozers/)
-* [The Truth About Israel](https://www.somethingawful.com/feature-articles/israel-red-pill/)
+* [Know Your Overwatch Skills](https://www.somethingawful.com/news/overwatch-know-skills/)
+* [Update From the Frontlines](https://www.somethingawful.com/news/update-from-frontlines/)
+* [ChampbrOH's Homepage](https://www.somethingawful.com/awful-links/awful-link-1069/)
+* [This Generation Sucks](https://www.somethingawful.com/news/this-generation-sucks/)
+* [LUSENET, Hermit Crab Association, Lion King Roleplay, and Vanguard News Network](https://www.somethingawful.com/weekend-web/lusenet-hermit-crab/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
