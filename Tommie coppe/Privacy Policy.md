@@ -1,30 +1,30 @@
 [Skip to main content](#main-content)
 
-Best Sellers: BOGO Free! DETAILS
+Save 50% Sitewide! DETAILS
 
-BEST SELLERS
-
-Close the Modal
-
-#### BUY 1 GET 1 FREE
-
-[SHOP NOW](https://www.tommiecopper.com/special/melonis-must-haves/)
-
-Offer valid 11/20/2024 8AM ET - 11/22/2024 6AM ET.
-
-To receive Buy 1 Get 1 Free discount on Best Sellers, must add two (2) eligible items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-COMPRESSION SOCKS
+BLACK FRIDAY SNEAK PEEK
 
 Close the Modal
 
-#### Buy 1 Get 1 Free Today!
+#### Save 50% Sitewide!
 
-[SHOP NOW](https://www.tommiecopper.com/compression-socks/)
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 11/1/2024 8AM ET - 11/4/2024 6AM ET.
+Offer valid 11/22/2024 8AM ET - 11/23/2024 6AM ET.
 
-To receive Buy 1 Get 1 Free discount on all compression socks, must add two (2) eligible full-price items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+FREE GIFT WITH PURCHASE
+
+Close the Modal
+
+#### Free Tommie Copper Baseball Hat on Orders $125+
+
+[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+
+Offer valid 10/11/2024 8AM ET - 10/12/2024 6AM ET.
+
+Free Baseball Hat automatically applied on orders $125+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
