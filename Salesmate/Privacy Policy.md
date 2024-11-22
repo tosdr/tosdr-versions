@@ -11,6 +11,7 @@ Get 10% off on all Salesmate annual plans. Enter this code: **"BLACKFRIDAY24"** 
     *  [![Conversations](https://res.cloudinary.com/drkqomsgx/images/w_48,h_48,c_fill,g_auto/f_auto,q_auto:best/v1699506884/Conversation@2x/Conversation@2x.png?_i=AA)**Conversations** Engage and support customers across all channels](https://www.salesmate.io/conversations/)
     *  [![Campaigns](https://res.cloudinary.com/drkqomsgx/images/w_48,h_48,c_fill,g_auto/f_auto,q_auto:best/v1699506886/Campaign@2x_121717b9646/Campaign@2x_121717b9646.png?_i=AA)**Campaigns** Generate leads with personalized marketing campaigns](https://www.salesmate.io/campaigns/)
     *  [![Analytics](https://res.cloudinary.com/drkqomsgx/images/w_48,h_48,c_fill,g_auto/f_auto,q_auto:best/v1699506889/Analytics@2x/Analytics@2x.png?_i=AA)**Analytics** Make better decisions with rich data and insights](https://www.salesmate.io/analytics/)
+    *  [![Sandy AI](https://www.salesmate.io/wp-content/uploads/2024/11/Sandy-AI-boat.png)**Sandy AI** First AI-powered co-pilot inside your CRM](https://www.salesmate.io/sandy-ai/)
     
     Popular Features
     
@@ -88,6 +89,7 @@ Get 10% off on all Salesmate annual plans. Enter this code: **"BLACKFRIDAY24"** 
         *  [![Conversations](https://res.cloudinary.com/drkqomsgx/images/w_48,h_48,c_fill,g_auto/f_auto,q_auto:best/v1699506884/Conversation@2x/Conversation@2x.png?_i=AA)Conversations](https://www.salesmate.io/conversations/)
         *  [![Campaigns](https://res.cloudinary.com/drkqomsgx/images/w_48,h_48,c_fill,g_auto/f_auto,q_auto:best/v1699506886/Campaign@2x_121717b9646/Campaign@2x_121717b9646.png?_i=AA)Campaigns](https://www.salesmate.io/campaigns/)
         *  [![Analytics](https://res.cloudinary.com/drkqomsgx/images/w_48,h_48,c_fill,g_auto/f_auto,q_auto:best/v1699506889/Analytics@2x/Analytics@2x.png?_i=AA)Analytics AI](https://www.salesmate.io/analytics/)
+        *  [![Sandy AI](https://www.salesmate.io/wp-content/uploads/2024/11/Sandy-AI-boat.png)Sandy AI](https://www.salesmate.io/sandy-ai/)
         
         **Popular Features**
         
