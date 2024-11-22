@@ -332,11 +332,12 @@ Web: www.aki.ee/en
 58\. Feel free to get in touch with us if you have any questions about this Policy or our data processing practices or if you would like to exercise any of your ‘data subject’ rights with respect to the Personal Data we maintain on you.
 
 Email us: [toggl@toggl.com](mailto:toggl@toggl.com)  
-Call us: [+372 712 1144](tel:+372 712 1144)  
-Write to Toggl OÜ, Tornimäe 5, 2nd floor, Tallinn 10145, Estonia  
-Write to Toggl Inc: Suite 403-A, 1013 Centre Road, Wilmington, DE 19805, USA  
+Call us: +372 712 1144  
+Write to Toggl OÜ: Tornimäe 5, 2nd floor, Tallinn 10145, Estonia  
+Write to Toggl, Inc.: Suite 403-A, 1013 Centre Road, Wilmington, DE 19805, USA  
+DPO: dotlaw Skrzywanek Stępniowski i Wspólnicy sp. k. - [damian@dotlaw.co](mailto:damian@dotlaw.co) or [legal@toggl.com](mailto:legal@toggl.com)
 
-Last updated: October 3rd, 2023
+Last updated: November 22nd, 2024
 
 More legal documents
 --------------------
