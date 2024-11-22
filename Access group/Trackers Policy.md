@@ -72,6 +72,14 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
+    ![](/media/bddfnfg4/screenshot-2024-11-22-122950.png?rmode=max&width=230&height=295&v=1db3cce7b93b990)
+    
+    Posted 22nd November 2024
+    
+    The Access Group to Acquire Charity CRM Provider Donorfy
+    
+    [Read article on The Access Group to Acquire Charity CRM Provider Donorfy](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-to-acquire-charity-crm-provider-donorfy/)
+    
     ![](/media/dcoajkae/bannerads_group_airesearchreport_1200x627-min.png?rmode=max&width=230&height=295&v=1db3a694cb0e4c0)
     
     Posted 19th November 2024
