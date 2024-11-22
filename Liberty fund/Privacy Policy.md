@@ -422,7 +422,7 @@ Stay connected with Liberty Fund’s quarterly newsletter featuring the latest n
 
 Email\*
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
