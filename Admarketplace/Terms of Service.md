@@ -26,7 +26,7 @@ Learn more](https://www.admarketplace.com/blog/unwrap-search-advertising-success
 
 **Open Web Search**
 
-Just Browsing: Shaping Consumer Intent with Media Opportunities on Open Web Privacy Browsers
+Shaping Consumer Intent with Media Opportunities on Open Web Privacy Browsers
 
 Learn More](https://www.admarketplace.com/blog/just-browsing-shaping-consumer-intent-with-media-opportunities-on-open-web-privacy-browsers)
 
