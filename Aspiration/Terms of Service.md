@@ -18,9 +18,10 @@
     * [Planet Protection](https://www.aspiration.com/planet-protection)
     * [Carbon Program](https://www.aspiration.com/carbonprogram)
 * [Learn](https://www.aspiration.com/%23)
+    * [FAQs](https://my.aspiration.com/faq/)
     * [Who We Are](https://www.aspiration.com/who-we-are)
     * [Resources](https://www.aspiration.com/resources)
-    * [FAQs](https://my.aspiration.com/faq/)
+    * [Partner with Us](https://www.aspiration.com/partners)
 
 * [Sign In](https://my.aspiration.com/auth/login/)
 * Get Started
