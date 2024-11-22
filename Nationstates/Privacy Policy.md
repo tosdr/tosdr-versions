@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [2025 CCA Leaders Summit \[In-Character… (72)](https://forum.nationstates.net/viewtopic.php?t=558317&f=5&view=unread#unread ""2025 CCA Leaders Summit [In-Character - CCA ONLY]" (72 posts)")
-* [Based on the Flag, which Hoi4 Kaiserr… (722)](https://forum.nationstates.net/viewtopic.php?t=544426&f=25&view=unread#unread ""Based on the Flag, which Hoi4 Kaiserreich ideology AN is?" (722 posts)")
-* [Tapity Invitational Cup I | Signup Th… (10)](https://forum.nationstates.net/viewtopic.php?t=558426&f=7&view=unread#unread ""Tapity Invitational Cup I | Signup Thread (Please Signup)" (10 posts)")
-* [\[REPORT\] Routine action requests (Mov… (9,443)](https://forum.nationstates.net/viewtopic.php?t=473656&f=16&view=unread#unread ""[REPORT] Routine action requests (Moves, Adbots, Spam, etc)" (9,443 posts)")
-* [Passwords problem (5)](https://forum.nationstates.net/viewtopic.php?t=558577&f=15&view=unread#unread ""Passwords problem" (5 posts)")
+* [\[R\] Trolling (2)](https://forum.nationstates.net/viewtopic.php?t=558585&f=16&view=unread#unread ""[R] Trolling" (2 posts)")
+* [American Politics: Turnabout Trump (6,000)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (6,000 posts)")
+* [What is your relationship with AU? II (3,410)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (3,410 posts)")
+* [The Amsterdam Pogrom (546)](https://forum.nationstates.net/viewtopic.php?t=558081&f=20&view=unread#unread ""The Amsterdam Pogrom" (546 posts)")
 
 Advertisement
 
