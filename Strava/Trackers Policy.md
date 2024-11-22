@@ -172,7 +172,7 @@ If you have questions about this policy, you may reach us at DPO@strava.com.
 * [Community Forum](https://communityhub.strava.com/)
 * [About Our Maps](https://support.strava.com/hc/en-us/articles/216917717-About-Strava-Maps)
 
-#### [Business](https://business.strava.com/?utm_source=footer&utm_medium=referral)
+#### [Business](https://partners.strava.com/business?utm_source=footer&utm_medium=referral)
 
 #### [Mobile](https://www.strava.com/mobile)
 
@@ -186,7 +186,7 @@ If you have questions about this policy, you may reach us at DPO@strava.com.
 
 * [Mobile](https://www.strava.com/mobile)
 * [Subscription](https://www.strava.com/premium)
-* [Business](https://business.strava.com/?utm_source=footer&utm_medium=referral)
+* [Business](https://partners.strava.com/business?utm_source=footer&utm_medium=referral)
 
 [Privacy Policy](https://www.strava.com/legal/privacy) | [Terms and Conditions](https://www.strava.com/legal/terms)
 
