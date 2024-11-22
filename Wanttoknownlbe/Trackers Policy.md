@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/voedsel/rusland-per-juli-2014-alle-gmo-in-de-ban/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/het-cda-en-rentmeesterschap-een-lachertje/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
