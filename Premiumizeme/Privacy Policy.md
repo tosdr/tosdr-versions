@@ -11,6 +11,8 @@
 * [Log in](https://www.premiumize.me/login)
 * [Signup](https://www.premiumize.me/register)
 
+[Black friday pricing is live! Get it here](https://www.premiumize.me/blackfriday-cybermonday-2024)
+
 Our Terms of Service and Privacy Policy are available in English only. We ask for your understanding.
 
 Last updated August 14, 2024
