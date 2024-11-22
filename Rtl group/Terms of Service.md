@@ -1,4 +1,4 @@
-[![RTL Deutschland](/system/modules/com.netrtl.cms.dachpressezentrum/elements/logo.svg)](https://company.rtl.com/en/homepage)
+[![RTL Deutschland](/system/modules/com.netrtl.cms.dachpressezentrum/resources/images/svg/logo_rtl_0.svg)](https://company.rtl.com/en/homepage)
 
 * About RTL
     
@@ -202,7 +202,7 @@
     [Deutsch](https://www.rtlgroup.com/de/homepage/) [English](https://www.rtlgroup.com/en/homepage/)
     
 
-[![RTL Deutschland](/system/modules/com.netrtl.cms.dachpressezentrum/elements/logo.svg)](https://company.rtl.com/en/homepage)
+[![RTL Deutschland](/system/modules/com.netrtl.cms.dachpressezentrum/resources/images/svg/logo_rtl_0.svg)](https://company.rtl.com/en/homepage)
 
 * [About RTL](https://www.rtlgroup.com/en/about-rtl/)
     * [An introduction to RTL Group](https://company.rtl.com/export/sites/rtlunited/.galleries/downloads/presentations/240405_AnIntroductionToRTLGroup.pdf)
@@ -411,7 +411,7 @@ More about RTL
 
 [Pictures and logos](https://www.rtlgroup.com/en/media/overview/pictures-and-logos/)
 
-![RTL Deutschland](/system/modules/com.netrtl.cms.dachpressezentrum/elements/logo.svg)
+![RTL Deutschland](/system/modules/com.netrtl.cms.dachpressezentrum/resources/images/svg/logo_rtl_0.svg)
 
 RTL is Europe’s leading entertainment brand standing for entertainment, independent journalism, inspiration, energy and attitude. With our TV channels, streaming services, radio stations and online platforms in Germany, the Netherlands, France, Hungary and Luxembourg, we reach millions of people across Europe every day. The RTL brand is owned by RTL Group.
 
