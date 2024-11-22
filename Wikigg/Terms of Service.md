@@ -1,6 +1,6 @@
 top of page
 
-[![indie.io logo](https://static.wixstatic.com/media/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png/v1/fill/w_144,h_35,al_c,q_85,enc_auto/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png)](https://www.indie.io/)
+[![indie.io logo](https://static.wixstatic.com/media/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png/v1/fill/w_144,h_35,al_c,q_85,enc_avif,quality_auto/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png)](https://www.indie.io/)
 
 * [The indie.io difference](https://www.indie.io/)
 * [Services](https://www.indie.io/)
@@ -169,7 +169,7 @@ Updates and Revisions
   
 We’ll update our Terms from time to time to reflect changes in technology, law, our business operations, or any other reason we determine is necessary or appropriate. When we do make changes, we’ll update the “Last Modified” date at the top of the policy and post it to the Services, which you are expected to regularly visit. If we make material changes to the policy or the ways we process private information, we’ll provide you additional notices as well (such as by prominently posting a notice of the changes on the Services before they take effect or sending you a notification directly). Continued use of the Services after any such changes shall constitute your consent to such changes.
 
-![indie.io logo](https://static.wixstatic.com/media/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png/v1/fill/w_144,h_35,al_c,q_85,blur_3,enc_auto/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png)
+![indie.io logo](https://static.wixstatic.com/media/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png/v1/fill/w_144,h_35,al_c,q_85,blur_3,enc_avif,quality_auto/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png)
 
 © 2024 indie.io
 
