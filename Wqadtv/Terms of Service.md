@@ -30,18 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_360x203.jpg)](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/7752d4e4-edb9-4b20-b0f6-5d40b0addecf/20241122T040846/7752d4e4-edb9-4b20-b0f6-5d40b0addecf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7752d4e4-edb9-4b20-b0f6-5d40b0addecf/20241122T040846/7752d4e4-edb9-4b20-b0f6-5d40b0addecf_360x203.jpg)](https://www.wqad.com/article/news/local/putnam-museum-the-vault-unseen-artifacts/526-78c9da0f-a10e-48e1-9057-6ba58bd6dd93)
         
-        #### [ISP releases video from fatal DeKalb police shooting](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5) [![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_360x203.jpg)](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5)
+        #### [Take a walk through 'The Vault' of unseen relics at the Putnam Museum](https://www.wqad.com/article/news/local/putnam-museum-the-vault-unseen-artifacts/526-78c9da0f-a10e-48e1-9057-6ba58bd6dd93)
         
-        #### [DeKalb fatal police shooting bodycam video released by Illinois State Police](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5) [![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe/20241121T205636/c8c9d2e7-8a5e-4b2e-ba5e-86aae476a8fe_360x203.jpg)](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c05db046-ee17-4597-b317-476c450b2858/20241029T011355/c05db046-ee17-4597-b317-476c450b2858_360x203.jpg)](https://www.wqad.com/article/news/local/mr-thanksgiving-holiday-dinner-return/526-905ac4a7-461d-4ef0-9ccf-399cc1b72ad7)
         
-        #### [Illinois State Police releases video of DeKalb fatal police shooting](https://www.wqad.com/article/news/crime/isp-releases-video-from-fatal-dekalb-police-shooting/526-32524c64-4683-442a-80a4-5ff46d8ec2e5)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-arrest-2-car-burglaries/526-291d36ef-de2a-4cd7-9ada-e0aee6f531b1)
+        #### [Mr. Thanksgiving's holiday dinner to be held at Mercado on Fifth in Moline](https://www.wqad.com/article/news/local/mr-thanksgiving-holiday-dinner-return/526-905ac4a7-461d-4ef0-9ccf-399cc1b72ad7)
         
-        #### [Muscatine police arrest 2 men in connection to string of car burglaries](https://www.wqad.com/article/news/local/muscatine-police-arrest-2-car-burglaries/526-291d36ef-de2a-4cd7-9ada-e0aee6f531b1) [![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bf1dd9e4-a428-4e65-9124-469fedda17fb/bf1dd9e4-a428-4e65-9124-469fedda17fb_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-arrest-2-car-burglaries/526-291d36ef-de2a-4cd7-9ada-e0aee6f531b1)
-        
-        #### [2 arrested following Muscatine car burglaries](https://www.wqad.com/article/news/local/muscatine-police-arrest-2-car-burglaries/526-291d36ef-de2a-4cd7-9ada-e0aee6f531b1)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -60,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b1f1a86c-250b-4fb3-9e17-2afe0e994891/20241121T234139/b1f1a86c-250b-4fb3-9e17-2afe0e994891_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b1f1a86c-250b-4fb3-9e17-2afe0e994891/20241121T234139/b1f1a86c-250b-4fb3-9e17-2afe0e994891_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Weather Impact Alert: Gusty winds expected through midnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/KGW/images/e46b6948-feb8-4071-ae44-3740d3010c4c/20241121T003202/e46b6948-feb8-4071-ae44-3740d3010c4c_16x9.jpg) ![](https://media.tegna-media.com/assets/KGW/images/e46b6948-feb8-4071-ae44-3740d3010c4c/20241121T003202/e46b6948-feb8-4071-ae44-3740d3010c4c_360x203.jpg)](https://www.wqad.com/article/weather/severe-weather/amtrak-cascades-train-damaged-downed-tree-windstorm/283-83fcb056-a7ae-4caa-84d0-0ee781857374)
         
         #### [Amtrak train impaled through windshield by downed tree during bomb cyclone](https://www.wqad.com/article/weather/severe-weather/amtrak-cascades-train-damaged-downed-tree-windstorm/283-83fcb056-a7ae-4caa-84d0-0ee781857374)
-        
-    *  [![](https://media.tegna-media.com/assets/CCT/images/c2df261c-07de-44c7-ae60-0c4d5661ca1a/20241121T121844/c2df261c-07de-44c7-ae60-0c4d5661ca1a_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/c2df261c-07de-44c7-ae60-0c4d5661ca1a/20241121T121844/c2df261c-07de-44c7-ae60-0c4d5661ca1a_360x203.jpg)](https://www.wqad.com/article/news/nation-world/volcanoi-n-iceland-erupts-for-the-7th-time-in-a-year/507-eeca1c06-0cf1-41fd-b593-fa6009934221)
-        
-        #### [Volcano on Iceland's Reykjanes Peninsula erupts for the 7th time in a year](https://www.wqad.com/article/news/nation-world/volcanoi-n-iceland-erupts-for-the-7th-time-in-a-year/507-eeca1c06-0cf1-41fd-b593-fa6009934221)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -90,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-38°
+36°
 
-![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
