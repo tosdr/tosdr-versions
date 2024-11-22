@@ -30,7 +30,7 @@ Du bist bereits Bergfreunde Kunde, dann logge Dich hier ein
 
 Einloggen loader
 
-[![Bergfreunde Logo](https://www.bergfreunde.de/out/pictures/img/bergfreunde-logo.svg)](https://www.bergfreunde.de/ "Zur Startseite von Bergfreunde")
+[![Bergfreunde Logo](https://www.bergfreunde.de/out/pictures/img/blackfriday-logo.svg)](https://www.bergfreunde.de/ "Zur Startseite von Bergfreunde")
 
 * [Zum Shop](https://www.bergfreunde.de/ "Zur Startseite von Bergfreunde")
     
@@ -73,13 +73,13 @@ Portofrei ab € 69 (DE)
 
 HINWEIS: Um bei uns bestellen zu können musst Du [» Bitte aktiviere Javascript!» Javascript aktivieren!](https://www.bergfreunde.de/javascript-aktivieren/ "Anleitung zum Aktivieren von Javascript")
 
-[](https://www.bergfreunde.de/bergfreunde-geschenke-guide/ "Geschenkeshop")
+[](https://www.bergfreunde.de/outlet/outdoor-bekleidung/material--merinowolle/?bfc-material[]=wolle&listorderby=bfcustomsort&listorder=asc "Black Sheep! ")
 
-Geschenkideen gesucht? Hier entlang »
+Bis zu 50% auf MERINO & WOLLE »
 
 Menü
 
-[![Bergfreunde Logo](https://www.bergfreunde.de/out/pictures/img/bergfreunde-logo.svg)](https://www.bergfreunde.de/ "Zur Startseite von Bergfreunde")
+[![Bergfreunde Logo](https://www.bergfreunde.de/out/pictures/img/blackfriday-logo.svg)](https://www.bergfreunde.de/ "Zur Startseite von Bergfreunde")
 
 * [Bekleidung](https://www.bergfreunde.de/outdoor-bekleidung/)
     
@@ -1066,9 +1066,9 @@ Von Zeit zu Zeit ist es erforderlich, den Inhalt der vorliegenden Datenschutzhin
 
 Stand: Juli 2024
 
-![Bergfreund Matthias - Geschäftsführung](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-matthias.png) Bergfreund Matthias - Geschäftsführung
+![Bergfreund Jürgen - Einkäufer](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-juergen.png) Bergfreund Jürgen - Einkäufer
 
-"Wir alle müssen mehr Verantwortung übernehmen, damit die Natur uns erhalten bleibt."
+"Ich finde die besten & neuesten Outdoor-Produkte für Dich!"
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -1076,11 +1076,11 @@ Stand: Juli 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43141 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43155 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.141 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.155 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
