@@ -191,7 +191,7 @@ Users who reside in California and have provided their personal information to S
 
 ![barn](https://www.stonyfield.com/wp-content/themes/stonyfield/assets/imgs/barn.webp)
 
-We Began As An Organic Farming School Before We Became Yogurt Makers. Almost 40 Years Later, Our Mission Is Still Healthy.
+We Began As An Organic Farming School Before We Became Yogurt Makers. Over 40 Years Later, Our Mission Is Still Healthy.
 
 ### Join The Herd
 
@@ -250,7 +250,7 @@ Only pasture raised milk
 
 [](https://facebook.com/stonyfield)[](https://twitter.com/stonyfield)[](https://pinterest.com/stonyfield)[](https://instagram.com/stonyfield)[](https://youtube.com/stonyfield)
 
-© 2023 Stonyfield Farm, Inc. | \*Our products are made without the use of toxic persistent pesticides
+© 2024 Stonyfield Farm, Inc. | \*Our products are made without the use of toxic persistent pesticides
 
 * [Contact Us](https://www.stonyfield.com/about/contact-us/)
 * [Careers](https://www.stonyfield.com/about/careers/)
