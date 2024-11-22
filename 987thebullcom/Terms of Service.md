@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Truck BedHardy<br><br>10:38am |
-| Am I OkMegan Moroney<br><br>10:34am |
-| Ridin' RoadsDustin Lynch<br><br>10:31am |
-| 23Chayce Beckham<br><br>10:27am |
-| A Bar Song (Tipsy)Shaboozey<br><br>10:24am |
+| KinfolksSam Hunt<br><br>4:41pm |
+| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:36pm |
+| Fast CarLuke Combs<br><br>4:32pm |
+| Love SomebodyMorgan Wallen<br><br>4:29pm |
+| Free And EasyDierks Bentley<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -364,17 +364,17 @@ Featured Brands
 
 Spanish • Western
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Top 40 • Eastern
+Country • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
