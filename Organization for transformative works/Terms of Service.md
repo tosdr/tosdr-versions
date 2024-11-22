@@ -4,7 +4,7 @@
 
 MENU
 
-* [Home](https://www.transformativeworks.org/ "Home")
+* [Home](https://www.transformativeworks.org/)
 * [Projects](https://www.transformativeworks.org/our-projects)
 * [News](https://www.transformativeworks.org/news-feed)
 * [Join Us](https://www.transformativeworks.org/how-you-can-help)
