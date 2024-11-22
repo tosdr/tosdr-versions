@@ -2,11 +2,11 @@ Shop Now
 
 20% off Frame, Canvas & Mount on Orders $99+ Ends in..
 
-4DAYS1HRS8MINS
+3DAYS19HRS10MINS
 
 20% off Frame, Canvas & Mount on Orders $99+ Ends in..
 
-4DAYS1HRS8MINS
+3DAYS19HRS10MINS
 
 Shop Now
 
@@ -246,6 +246,40 @@ Cancel
 
 [Watercolor](https://www.art.com/gallery/id--b1963238/watercolor-posters.htm "Watercolor")
 
+[Design Styles](https://www.art.com/shop/wall-art/ "Design Styles")
+
+[Boho](https://www.art.com/gallery/id--b1887246/bohemian-posters.htm "Boho")
+
+[Contemporary](https://www.art.com/gallery/id--c207116/contemporary-prints.htm "Contemporary")
+
+[Farmhouse](https://www.art.com/gallery/id--b7569/farmhouse-posters.htm "Farmhouse")
+
+[Glam](https://www.art.com/gallery/id--b41108/glam-art-posters.htm "Glam")
+
+[Global](https://www.art.com/gallery/id--b14676/global-posters.htm "Global")
+
+[Grand Millennial](https://www.art.com/gallery/id--b41069/grand-millennial-posters.htm "Grand Millennial")
+
+[Hygge](https://www.art.com/gallery/id--b41409/hygge-posters.htm "Hygge")
+
+[Industrial](https://www.art.com/gallery/id--b1800564/industrial-posters.htm "Industrial")
+
+[Mid-Century Modern](https://www.art.com/gallery/id--b964518/mid-century-modern-art-posters.htm "Mid-Century Modern")
+
+[Modern](https://www.art.com/gallery/id--c207115/modern-prints.htm "Modern")
+
+[Rustic](https://www.art.com/gallery/id--b26372/rustic-posters.htm "Rustic")
+
+[Scandinavian](https://www.art.com/gallery/id--b1958213/scandinavian-style-posters.htm "Scandinavian")
+
+[Southwestern](https://www.art.com/gallery/id--b26507/southwestern-art-posters.htm "Southwestern")
+
+[Traditional](https://www.art.com/gallery/id--b26378/traditional-posters.htm "Traditional")
+
+[Transitional](https://www.art.com/gallery/id--b31475/transitional-art-posters.htm "Transitional")
+
+[Vintage](https://www.art.com/gallery/id--c1837/vintage-art-prints.htm "Vintage")
+
 [Decor Trends](https://www.art.com/shop/wall-art/ "Decor Trends")
 
 [Japandi](https://www.art.com/gallery/id--b38921/japandi-posters.htm "Japandi")
@@ -340,13 +374,13 @@ Cancel
 
 [Art Colors](https://www.art.com/shop/wall-art-by-color "Art Colors")
 
-[Golds](https://www.art.com/gallery/id--b27280/metallic-prints-posters.htm "Golds")
-
-[Pinks](https://www.art.com/gallery/id--b31892/shades-of-pink-posters.htm "Pinks")
-
 [Black & White](https://www.art.com/gallery/id--h207276/posters.htm "Black & White")
 
+[Browns](https://www.art.com/gallery/id--h207275/posters.htm "Browns")
+
 [Blues](https://www.art.com/gallery/id--h207272/posters.htm "Blues")
+
+[Golds](https://www.art.com/gallery/id--b27280/metallic-prints-posters.htm "Golds")
 
 [Grays](https://www.art.com/gallery/id--h223167/posters.htm "Grays")
 
@@ -361,6 +395,8 @@ Cancel
 [Reds & Pinks](https://www.art.com/gallery/id--h207268/posters.htm "Reds & Pinks")
 
 [Yellows](https://www.art.com/gallery/id--h207270/posters.htm "Yellows")
+
+[Pinks](https://www.art.com/gallery/id--b31892/shades-of-pink-posters.htm "Pinks")
 
 [Art Ideas by Room](https://www.art.com/lp/shopbyrooms "Art Ideas by Room")
 
@@ -381,46 +417,6 @@ Cancel
 [Living Room Art Ideas](https://www.art.com/lp/living-room-art-ideas "Living Room Art Ideas")
 
 [Shop All Room Ideas](https://www.art.com/lp/shopbyrooms "Shop All Room Ideas")
-
-[Design Styles](https://www.art.com/lp/shopbyrooms "Design Styles")
-
-[Global](https://www.art.com/gallery/id--b14676/global-posters.htm "Global")
-
-[Boho](https://www.art.com/gallery/id--b1887246/bohemian-posters.htm "Boho")
-
-[Coastal](https://www.art.com/gallery/id--b27418/coastal-posters.htm "Coastal")
-
-[Contemporary](https://www.art.com/gallery/id--c207116/contemporary-prints.htm "Contemporary")
-
-[Farmhouse](https://www.art.com/gallery/id--b7569/farmhouse-posters.htm "Farmhouse")
-
-[Glam](https://www.art.com/gallery/id--b41108/glam-art-posters.htm "Glam")
-
-[Grand Millennial](https://www.art.com/gallery/id--b41069/grand-millennial-posters.htm "Grand Millennial")
-
-[Hygge](https://www.art.com/gallery/id--b41409/hygge-posters.htm "Hygge")
-
-[Industrial](https://www.art.com/gallery/id--b1800564/industrial-posters.htm "Industrial")
-
-[Mid-Century Modern](https://www.art.com/gallery/id--b964518/mid-century-modern-art-posters.htm "Mid-Century Modern")
-
-[Modern](https://www.art.com/gallery/id--c207115/modern-prints.htm "Modern")
-
-[Preppy Pop Art](https://www.art.com/gallery/id--b41984/preppy-posters.htm "Preppy Pop Art")
-
-[Rustic](https://www.art.com/gallery/id--b26372/rustic-posters.htm "Rustic")
-
-[Scandinavian](https://www.art.com/gallery/id--b1958213/scandinavian-style-posters.htm "Scandinavian")
-
-[Southwestern](https://www.art.com/gallery/id--b26507/southwestern-art-posters.htm "Southwestern")
-
-[Traditional](https://www.art.com/gallery/id--b26378/traditional-posters.htm "Traditional")
-
-[Transitional](https://www.art.com/gallery/id--b31475/transitional-art-posters.htm "Transitional")
-
-[Vintage](https://www.art.com/gallery/id--c1837/vintage-art-prints.htm "Vintage")
-
-[Tropical](https://www.art.com/gallery/id--b26379/tropical-posters.htm "Tropical")
 
 Help
 ----
