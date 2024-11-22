@@ -2,29 +2,29 @@
 
 [](https://wetransfer.com/ "WeTransfer.com")
 
-Uso
+Özellikler
 
-[Comparte tus archivos](https://wetransfer.com/explore/file-sharing)[Protege tus archivos](https://wetransfer.com/explore/data-security)[Personaliza tu página](https://wetransfer.com/explore/branding)[Da y recibe comentarios](https://wetransfer.com/explore/portals-reviews)[Colabora con tu equipo](https://wetransfer.com/explore/teams)[Cobra por tu trabajo](https://wetransfer.com/explore/sell-files-get-paid)[Distribuye tu contenido](https://wetransfer.com/explore/distribution)[Crear paneles de tendencias](https://wetransfer.com/explore/collect)[Consigue ventajas y beneficios](https://wetransfer.com/explore/subscriber-benefits)
+[Dosyalarınızı paylaşın](https://wetransfer.com/explore/file-sharing)[Dosyalarınızı koruyun](https://wetransfer.com/explore/data-security)[Sayfanızı özelleştirin](https://wetransfer.com/explore/branding)[Geri bildirim verin ve alın](https://wetransfer.com/explore/portals-reviews)[Ekibinizle iş birliği yapın](https://wetransfer.com/explore/teams)[Çalışmalarınız için ödeme alın](https://wetransfer.com/explore/sell-files-get-paid)[İçeriğinizi dağıtın](https://wetransfer.com/explore/distribution)[İlham panoları oluştur](https://wetransfer.com/explore/collect)[Avantajlardan faydalanın](https://wetransfer.com/explore/subscriber-benefits)
 
-[Tarifas](https://wetransfer.com/pricing?trk=NAV_pricing)Casos prácticos
+[Fiyatlandırma](https://wetransfer.com/pricing?trk=NAV_pricing)Örnekleri kullanın
 
-[Para fotógrafos](https://wetransfer.com/explore/photographers)[Para camarógrafos](https://wetransfer.com/explore/videographers)[Para diseñadores e ilustradores](https://wetransfer.com/explore/designers-illustrators)[Para estudiantes](https://wetransfer.com/explore/for-students)
+[Fotoğrafçılar için](https://wetransfer.com/explore/photographers)[Video grafikerleri için](https://wetransfer.com/explore/videographers)[Tasarımcılar ve illüstratörler için](https://wetransfer.com/explore/designers-illustrators)[Öğrenciler için](https://wetransfer.com/explore/for-students)
 
-Recursos
+Kaynaklar
 
-Sobre nosotros
+Hakkımızda
 
-[Empresa](https://wetransfer.com/explore)[Empleo](https://wetransfer.com/explore/careers)[Cultura](https://wetransfer.com/explore/culture)[Liderazgo](https://wetransfer.com/explore/corporate/leadership)[Responsabilidad social corporativa](https://wetransfer.com/explore/csr)[Premios](https://wetransfer.com/explore/corporate/awards)[Sala de prensa](https://wetransfer.com/blog/newsroom/)
+[Şirket](https://wetransfer.com/explore)[Kkariyer](https://wetransfer.com/explore/careers)[Kültür](https://wetransfer.com/explore/culture)[Liderlik](https://wetransfer.com/explore/corporate/leadership)[Şirket Toplumsal Sorumluluğu](https://wetransfer.com/explore/csr)[Ödüller](https://wetransfer.com/explore/corporate/awards)[Haber Odası](https://wetransfer.com/blog/newsroom/)
 
 Advertising
 
-[Anúnciate con nosotros](https://wetransfer.com/explore/advertising)[Prácticas responsables](https://wetransfer.com/explore/advertising/responsible)[Políticas de anuncios](https://wetransfer.com/explore/advertising/policies)
+[Bize reklam verin](https://wetransfer.com/explore/advertising)[Sorumlu uygulamalar](https://wetransfer.com/explore/advertising/responsible)[Reklam politikaları](https://wetransfer.com/explore/advertising/policies)
 
-más
+Daha fazlası
 
-[WePresent](https://wepresent.wetransfer.com/)[Blog](https://wetransfer.com/blog/)[Ayuda](https://help.wetransfer.com/hc/en-us)
+[WePresent](https://wepresent.wetransfer.com/)[Blog](https://wetransfer.com/blog/)[Yardım](https://help.wetransfer.com/hc/en-us)
 
-[Iniciar sesión](https://wetransfer.com/log-in)[Registrarse](https://wetransfer.com/pricing?trk=WT202005_signup)
+[Giriş yap](https://wetransfer.com/log-in)[Kaydol](https://wetransfer.com/pricing?trk=WT202005_signup)
 
 * [Terms of Service](https://wetransfer.com/explore/legal/terms)
 * [Privacy & Cookie Statement](https://wetransfer.com/explore/legal/privacy)
