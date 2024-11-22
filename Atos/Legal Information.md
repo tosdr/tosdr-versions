@@ -70,9 +70,9 @@ Atos homepage](https://atos.net/en/)
         Atos Hybrid Cloud and Infrastructure Services
         ---------------------------------------------
         
-        [![Atos Hybrid Cloud brochure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://atos.net/wp-content/uploads/2024/02/atos-hybrid-cloud-and-infrastructure-services-brochure.pdf)
+        [![Atos Hybrid Cloud brochure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://atos.net/wp-content/uploads/2024/10/atos-hybrid-cloud-and-infrastructure-brochure.pdf)
         
-        [**Download the brochure >**](https://atos.net/wp-content/uploads/2024/02/atos-hybrid-cloud-and-infrastructure-services-brochure.pdf)
+        [**Download the brochure >**](https://atos.net/wp-content/uploads/2024/10/atos-hybrid-cloud-and-infrastructure-brochure.pdf)
         
     * Digital Business Platforms
         
