@@ -4,6 +4,8 @@ We’re sorry, but Coda doesn’t work properly without JavaScript enabled.
 
 Skip to content
 
+[Webinar: Join Lane, Coda's CPO, for lessons on creating clarity out of ambiguity. Register now.](https://app.livestorm.co/coda/rituals-of-great-product-teams-how-to-turn-ambiguity-into-clarity-december-2024?utm_source=website&utm_medium=rainbow_bar&utm_campaign=rituals_lane_webinar&utm_term=12-3-2024)
+
 [](https://coda.io/welcome)
 
 Product
@@ -95,6 +97,8 @@ How to build a team hub on Coda](https://coda.io/resources/guides/how-to-build-a
 [Gallery](https://coda.io/gallery)[Blog](https://coda.io/blog)[Pricing](https://coda.io/pricing)[Request a demo](https://coda.io/contact/sales/request-a-demo)
 
 [Get started](https://coda.io/signup?continueTo=%2Ftrust%2Ftos)
+
+[Webinar: Join Lane, Coda's CPO, for lessons on creating clarity out of ambiguity. Register now.](https://app.livestorm.co/coda/rituals-of-great-product-teams-how-to-turn-ambiguity-into-clarity-december-2024?utm_source=website&utm_medium=rainbow_bar&utm_campaign=rituals_lane_webinar&utm_term=12-3-2024)
 
 [](https://coda.io/welcome)
 
