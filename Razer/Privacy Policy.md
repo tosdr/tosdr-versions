@@ -1655,7 +1655,7 @@ Last Modified: 27 Oct 2023
       
     
 17. **17\. Cookies policy**  
-    We use cookies on the websites. To find out more about how we use cookies, please see our Cookies Policy at [http://www.razer.com/legal](http://www.razer.com/legal).  
+    We use cookies on the websites. To find out more about how we use cookies, please see our Cookies Policy at [https://www.razer.com/legal/cookies](https://www.razer.com/legal/cookies).  
       
     
 18. **18\. Changes to our Privacy Policy and/or Cookies Policy**  
