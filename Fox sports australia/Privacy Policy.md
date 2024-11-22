@@ -28,16 +28,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250501)
 * [Women's BBL
     
-    Tied After S/O
-    
-    |     |     |
-    | --- | --- |
-    | SYD6 | 7 /126 |
-    | PER | 126 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250134)
-* [Women's BBL
-    
     MELR won by 22 runs
     
     |     |     |
@@ -72,7 +62,7 @@ FOX SCORES
     
 * [APGA
     
-    Round 2
+    Round 1
     
     |     |
     | --- |
@@ -84,76 +74,46 @@ FOX SCORES
     
 * [NFL
     
-    22/11 12:15 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | CLE | –   |
-    | PIT | –   |
+    | CLE | 0   |
+    | PIT | 0   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251203)
 * Basketball
     
 * [NBA
     
-    Full Time
+    3 Qtr Time
     
     |     |     |
     | --- | --- |
-    | GS  | 120 |
-    | ATL | 97  |
+    | CHA | 93  |
+    | DET | 79  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010241/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010244/box-score)
 * [NBA
     
-    Full Time
+    Half Time
     
     |     |     |
     | --- | --- |
-    | PHO | 122 |
-    | NY  | 138 |
+    | TOR | 52  |
+    | MIN | 51  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010242/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010245/box-score)
 * [NBA
     
-    Full Time
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | LAC | 104 |
-    | ORL | 93  |
+    | SA  | 31  |
+    | UTA | 44  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010243/box-score)
-* [NBA
-    
-    22/11 11:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | CHA | –   |
-    | DET | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010244)
-* [NBA
-    
-    22/11 11:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | TOR | –   |
-    | MIN | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010245)
-* [NBA
-    
-    22/11 12:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | SA  | –   |
-    | UTA | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010246)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010246/box-score)
 * [NBA
     
     22/11 14:30 AEST
@@ -164,16 +124,16 @@ FOX SCORES
     | ORL | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010247)
-* [WNBL
+* [Men's ACQ
     
     Full Time
     
     |     |     |
     | --- | --- |
-    | CAN | 81  |
-    | TWN | 80  |
+    | THA | 48  |
+    | AUS | 101 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25040002/play-by-play)
+    Match Centre](https://www.foxsports.com.au/basketball/fiba-asia-cup-qualifying/match-centre/MACQ2024010003/play-by-play)
 * Football
     
 * [A-League M
@@ -914,7 +874,6 @@ FOX SCORES
 [UFC](https://www.foxsports.com.au/video/ufc)
 
 * [UFC](https://www.foxsports.com.au/video/ufc/ufc)
-* [Fight Week](https://www.foxsports.com.au/video/ufc/fight-week)
 * [Press Conferences](https://www.foxsports.com.au/video/ufc/press-conferences)
 
 [Sponsored](https://www.foxsports.com.au/video/sponsored)
@@ -948,7 +907,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
