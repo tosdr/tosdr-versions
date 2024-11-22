@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/wat-het-leven-je-wil-vertellen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/joris-demmink-toch-vervolgd/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
