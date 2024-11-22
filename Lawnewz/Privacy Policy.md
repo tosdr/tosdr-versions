@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Reese Myers appears in a booking photo.](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Reese-Myers-432x243.jpg)](https://lawandcrime.com/crime/mom-left-toddler-home-alone-with-2-dogs-so-she-could-travel-out-of-town-to-visit-a-man-she-met-on-a-dating-app-police/)
+1. [![Leilani Simon during her sentencing hearing on Nov. 21, 2024 (Law&Crime).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/adfafadfa-432x243.jpg)](https://lawandcrime.com/crime/mom-who-told-cops-she-was-disposing-of-stinky-shrimp-pasta-when-dumping-toddlers-body-in-dumpster-learns-her-fate/)
+    
+    ### [Mom who told cops she was disposing of ‘stinky shrimp pasta’ when dumping toddler's body in dumpster learns her fate](https://lawandcrime.com/crime/mom-who-told-cops-she-was-disposing-of-stinky-shrimp-pasta-when-dumping-toddlers-body-in-dumpster-learns-her-fate/)
+    
+2. [![Photo of 6-month-old Jada Hickman at the cemetery where her remains went missing (WRDW/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Jada-Hickman-432x243.jpg)](https://lawandcrime.com/lawsuit/funeral-home-gives-grieving-family-dirt-from-6-month-olds-grave-site-as-a-replacement-for-the-remains-they-lost-lawsuit/)
+    
+    ### [Funeral home gives grieving family dirt from 6-month-old's grave site as a 'replacement' for the remains they lost: Lawsuit](https://lawandcrime.com/lawsuit/funeral-home-gives-grieving-family-dirt-from-6-month-olds-grave-site-as-a-replacement-for-the-remains-they-lost-lawsuit/)
+    
+3. [![Kelsey Glover being escorted by Osceola County Sheriff's Office](https://am23.mediaite.com/lc/cnt/uploads/2024/11/grab-5-432x243.jpg)](https://lawandcrime.com/crime/video-shows-florida-mom-smiling-for-perp-walk-after-14-year-old-daughter-found-submerged-in-bathtub/)
+    
+    ### [Video shows Florida mom smiling for perp walk after 14-year-old daughter found submerged in bathtub](https://lawandcrime.com/crime/video-shows-florida-mom-smiling-for-perp-walk-after-14-year-old-daughter-found-submerged-in-bathtub/)
+    
+4. [![Reese Myers appears in a booking photo.](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Reese-Myers-432x243.jpg)](https://lawandcrime.com/crime/mom-left-toddler-home-alone-with-2-dogs-so-she-could-travel-out-of-town-to-visit-a-man-she-met-on-a-dating-app-police/)
     
     ### [Mom left toddler home alone with 2 dogs so she could travel out-of-town to visit a man she met on a dating app: Police](https://lawandcrime.com/crime/mom-left-toddler-home-alone-with-2-dogs-so-she-could-travel-out-of-town-to-visit-a-man-she-met-on-a-dating-app-police/)
     
-2. [![Austin Bailey arrest](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Austin-Bailey-arrest-432x243.jpg)](https://lawandcrime.com/video/f-ing-shoot-me-teen-who-just-stabbed-15-year-old-girl-he-called-love-of-my-life-begs-cops-to-kill-him-video-shows/)
+5. [![Matt Gaetz and Marjorie Taylor Greene at America First rally in Florida (YouTube screenshot)](https://am23.mediaite.com/lc/cnt/uploads/2024/03/Matt-Gaetz-and-Marjorie-Taylor-Greene-at-America-First-rally-in-Florida-YouTube-screenshot-432x243.jpg)](https://lawandcrime.com/high-profile/frivolous-unreasonable-and-devoid-of-foundation-matt-gaetz-majorie-taylor-greene-owe-almost-550k-for-failed-conspiracy-lawsuit-civil-rights-groups-say/)
     
-    ### ['F---ing shoot me': Teen who just stabbed 15-year-old girl he called 'love of my life' begs cops to kill him, video shows](https://lawandcrime.com/video/f-ing-shoot-me-teen-who-just-stabbed-15-year-old-girl-he-called-love-of-my-life-begs-cops-to-kill-him-video-shows/)
-    
-3. [![Background: The couch where victim Tiffany Dunford was sitting when she was set on fire (WSLS/YouTube). Inset: Victim Tiffany Dunford and her alleged killer Savannah Adams (Facebook/New River Valley Regional Jail).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Savannah-Adams-and-1-432x243.jpg)](https://lawandcrime.com/crime/woman-poured-gasoline-on-victim-sitting-on-couch-before-setting-her-ablaze-and-watching-her-burn-to-death-cops/)
-    
-    ### [Woman poured gasoline on victim sitting on couch before setting her ablaze and watching her burn to death: Cops](https://lawandcrime.com/crime/woman-poured-gasoline-on-victim-sitting-on-couch-before-setting-her-ablaze-and-watching-her-burn-to-death-cops/)
-    
-4. [![Elise Nelson (Stearns County Jail).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/dfasdfsa-432x243.jpg)](https://lawandcrime.com/crime/mom-who-turned-off-disabled-daughters-oxygen-alarm-while-getting-blacked-out-drunk-learns-her-fate/)
-    
-    ### [Mom who turned off disabled daughter's oxygen alarm while getting 'blacked out' drunk learns her fate](https://lawandcrime.com/crime/mom-who-turned-off-disabled-daughters-oxygen-alarm-while-getting-blacked-out-drunk-learns-her-fate/)
-    
-5. [![Inset, left to right: Yusef Salaam, Antron McCray, Korey Wise, Kevin Richardson, Raymond Santana (CBS Sunday Morning). Background: Donald Trump speaks at the annual Road to Majority conference in Washington, DC, June 22, 2024. (Allison Bailey/NurPhoto via AP)](https://am23.mediaite.com/lc/cnt/uploads/2024/11/sdfadsf-432x243.jpg)](https://lawandcrime.com/high-profile/attempt-to-stifle-constitutionally-protected-speech-trump-demands-central-park-five-legally-deficient-defamation-suit-be-tossed/)
-    
-    ### ['Attempt to stifle constitutionally protected speech': Trump demands Central Park Five 'legally deficient' defamation suit be tossed](https://lawandcrime.com/high-profile/attempt-to-stifle-constitutionally-protected-speech-trump-demands-central-park-five-legally-deficient-defamation-suit-be-tossed/)
+    ### ['Frivolous, unreasonable, and devoid of foundation': Matt Gaetz, Majorie Taylor Greene owe almost $550K for failed 'conspiracy' lawsuit, civil rights groups say](https://lawandcrime.com/high-profile/frivolous-unreasonable-and-devoid-of-foundation-matt-gaetz-majorie-taylor-greene-owe-almost-550k-for-failed-conspiracy-lawsuit-civil-rights-groups-say/)
     
 
 [](http://eepurl.com/c89Jdb)
