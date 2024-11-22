@@ -4,7 +4,7 @@
 
 [About Us](https://www.avaloncommunities.com/about-us/)
 
-[Purpose and Values](https://www.avaloncommunities.com/about-us/purpose-and-values/)[Strategy](https://www.avaloncommunities.com/about-us/strategy/)[ESG](https://www.avaloncommunities.com/about-us/esg/)[Inclusion and Diversity](https://www.avaloncommunities.com/-/media/Images/Corp/About%20Us/Corporate%20Responsibility/environment/2022-Inclusion-And-Diversity.pdf)[Leadership](https://www.avaloncommunities.com/about-us/leadership/)[Investor Relations](https://investors.avalonbay.com/)[Press Releases](https://investors.avalonbay.com/news-events-and-presentations/default.aspx)[Retail](https://www.avaloncommunities.com/about-us/retail/)[Mixed Use Development](https://www.avaloncommunities.com/about-us/mixed-use-development/)
+[Purpose and Values](https://www.avaloncommunities.com/about-us/purpose-and-values/)[Strategy](https://www.avaloncommunities.com/about-us/strategy/)[ESG](https://www.avaloncommunities.com/about-us/esg/)[Inclusion and Diversity](https://www.avaloncommunities.com/-/media/Images/Corp/About%20Us/Corporate%20Responsibility/environment/2022-Inclusion-And-Diversity.pdf)[Leadership](https://www.avaloncommunities.com/about-us/leadership/)[Investor Relations](https://investors.avalonbay.com/)[Newsroom](https://www.avaloncommunities.com/newsroom/)[Retail](https://www.avaloncommunities.com/about-us/retail/)[Mixed Use Development](https://www.avaloncommunities.com/about-us/mixed-use-development/)
 
 [Careers](https://jobs.avalonbay.com/)
 
