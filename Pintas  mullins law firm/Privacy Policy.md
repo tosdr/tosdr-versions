@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/ "Is Clergy Sexual Abuse Common in the Mormon Church?")
+[![What cancers can asbestos cause?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-what-cancers-can-asbestos-cause.jpg "What Cancers Can Asbestos Cause?")](https://www.pintas.com/lung-cancer/what-cancers-can-asbestos-cause/ "What Cancers Can Asbestos Cause?")
 
-[#### Is Clergy Sexual Abuse Common in the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-sexual-abuse-common-in-the-mormon-church/)
+[#### What Cancers Can Asbestos Cause?](https://www.pintas.com/lung-cancer/what-cancers-can-asbestos-cause/)
 
-[![Can a brain bleed heal itself?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-brain-bleed-heal-itself.jpg "Can a Brain Bleed Heal Itself?")](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/ "Can a Brain Bleed Heal Itself?")
+[![What are the criteria to file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-what-are-the-criteria-to-file-a-talcum-powder-lawsuit.jpg "What Are the Criteria to File a Talcum Powder Lawsuit?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/who-can-file-a-talcum-powder-lawsuit "What Are the Criteria to File a Talcum Powder Lawsuit?")
 
-[#### Can a Brain Bleed Heal Itself?](https://www.pintas.com/faq/can-a-brain-bleed-heal-itself/)
+[#### What Are the Criteria to File a Talcum Powder Lawsuit?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/who-can-file-a-talcum-powder-lawsuit)
 
-[![Who can file a sex abuse claim against the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "Who Can File a Sex Abuse Claim Against the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-can-file-a-sexual-abuse-claim-against-the-mormon-church/ "Who Can File a Sex Abuse Claim Against the Mormon Church?")
+[![What can a sexual abuse attorney do for victims of the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/general-law3-300x200.jpg "What Can a Sexual Abuse Attorney Do for Victims of the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-can-a-sexual-abuse-lawyer-do-for-victims-of-the-mormon-church/ "What Can a Sexual Abuse Attorney Do for Victims of the Mormon Church?")
 
-[#### Who Can File a Sex Abuse Claim Against the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-can-file-a-sexual-abuse-claim-against-the-mormon-church/)
+[#### What Can a Sexual Abuse Attorney Do for Victims of the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-can-a-sexual-abuse-lawyer-do-for-victims-of-the-mormon-church/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
