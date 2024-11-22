@@ -492,6 +492,8 @@ For example, we collect information you provide in order to access our solutions
 
 If you make a purchase from Rapid7, become one of our vendors, or otherwise establish a relationship with us that involves financial transactions, we collect information about those transactions. This may include, but is not limited to, your credit or debit card information, account and authentication information, tax identifiers, and other billing, delivery, and contact details.
 
+Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes. Text messaging originator opt-in data and consent information will not be shared with any other third parties/Affiliates.
+
 **Information we collect to deliver and improve our solutions and services**
 
 In order to provide our solutions and services, we must necessarily collect certain information automatically. This also helps us to ensure that our solutions and services are operating correctly. The types of information we collect include:
