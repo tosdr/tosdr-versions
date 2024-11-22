@@ -234,7 +234,7 @@ Planned Parenthood Federation of America (PPFA) offers an optional text messagin
 
 We collect mobile phone numbers and consent to send messages when you text message PPFA's SMS numbers with a short code (such as PPFA), sign up via website forms, or register at a PPFA-related event. Message and data rates may apply. User will receive receive 1 SMS per request, and will receive SMS MT if the device does not support MMS.
 
-For general text message updates from PPFA, text PPFA to 22422. If you wish to unsubscribe from text messages at any time, simply text message STOP to 22422. Text HELP to 22422 with any questions or concerns. You can re-subscribe at any time by texting PPFA to 22422.
+For general text message updates from PPFA, text PPFA to 22422. If you wish to unsubscribe from text messages at any time, simply text message STOP to 22422. Text HELP to 22422 with any questions or concerns, email [\[email protected\]](https://www.plannedparenthood.org/cdn-cgi/l/email-protection), or for the fastest service submit a ticket to [www.plannedparenthood.org/donor-services](https://www.plannedparenthood.org/donor-services). You can re-subscribe at any time by texting PPFA to 22422.
 
 **SMS/MMS Policy for Health Educators Program**
 
