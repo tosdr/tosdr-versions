@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![To Infinity and Beyond](/wp-content/thumbnails/5490-100x70.jpg?x53432)
+* [![The Trouble with Chicken](/wp-content/thumbnails/16608-100x70.jpg?x53432)
     
-    To Infinity and Beyond
+    The Trouble with Chicken
     
-    Documentary examining current ideas about very large numbers and infinity in regards to mathematics and the observable universe.By our third year, most of us will have learned to count. Once we know](https://documentaryheaven.com/to-infinity-and-beyond/ "To Infinity and Beyond")
-* [![Boarding Schools: The Secret Shame](/wp-content/thumbnails/13883-100x70.jpg?x53432)
+    With more than 1 in 4 pieces of raw chicken carrying salmonella, it is responsible for sickening and killing more of us than any other foodborne pathogen. The strains of salmonella that show up on th](https://documentaryheaven.com/trouble-with-chicken/ "The Trouble with Chicken")
+* [![Scientology And Me](/wp-content/thumbnails/822-100x70.png?x53432)
     
-    Boarding Schools: The Secret Shame
+    Scientology And Me
     
-    Boarding schools are amongst the most influential institutions in Britain, responsible for education many of our politicians, judges and business leaders, even three quarters of England's Prime Minist](https://documentaryheaven.com/boarding-schools-secret-shame/ "Boarding Schools: The Secret Shame")
-* [![Inside The Secret World of Incels](/wp-content/thumbnails/14632-100x70.jpg?x53432)
+    John Sweeney investigates the Church of Scientology, endorsed by some major Hollywood celebrities, but which continues to face the criticism that it is less of a religion and more of a cult. Some form](https://documentaryheaven.com/scientology-and-me/ "Scientology And Me")
+* [![America’s Secret War](/wp-content/thumbnails/16623-100x70.jpeg?x53432)
     
-    Inside The Secret World of Incels
+    America’s Secret War
     
-    A BBC special which takes an in depth look at the "incel" community that can be found online, they are more of a subculture and have now been linked to multiple mass murder cases and hate crimes again](https://documentaryheaven.com/inside-secret-world-of-incels/ "Inside The Secret World of Incels")
-* [![Darcey Bussell’s Looking for Audrey](/wp-content/thumbnails/9499-100x70.jpg?x53432)
+    As the United States publicly engaged in the Vietnam War, there was a secret conflict raging right next door in the country of Laos. Under the direction of the CIA, a full-blown military operation to](https://documentaryheaven.com/americas-secret-war/ "America’s Secret War")
+* [![Lil Wayne: The Carter](/wp-content/thumbnails/6629-100x70.png?x53432)
     
-    Darcey Bussell’s Looking for Audrey
+    Lil Wayne: The Carter
     
-    We all think we know Audrey Hepburn, the ultimate style icon, the star of Breakfast at Tiffany's an oscar winner at just 24 and all this from a girl who never planned to become an actress. However ben](https://documentaryheaven.com/darcey-bussells-looking-audrey/ "Darcey Bussell’s Looking for Audrey")
-* [![Only Human: Make Me Normal](/wp-content/thumbnails/8662-100x70.jpg?x53432)
+    An in-depth look at the artist Dwayne LIL’ WAYNE Carter Jr, proclaimed by many as the “greatest rapper alive” With comprehensive and personal interviews with Lil’ Wayne, this film will also feature in](https://documentaryheaven.com/lil-wayne-the-carter/ "Lil Wayne: The Carter")
+* [![Al Capone](/wp-content/thumbnails/8207-100x70.jpeg?x53432)
     
-    Only Human: Make Me Normal
+    Al Capone
     
-    Make me normal, is a documentary that follows several children and teenagers with Autism and Aspergers syndrome all of whom attend a special school in the UK. Its an eye opening glimpse into the world](https://documentaryheaven.com/only-human-make-me-normal/ "Only Human: Make Me Normal")
+    Alphonse Gabriel "Al" Capone was an American gangster who led a Prohibition-era crime syndicate. The Chicago Outfit, which subsequently also became known as the "Cap](https://documentaryheaven.com/al-capone/ "Al Capone")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
