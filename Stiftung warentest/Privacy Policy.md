@@ -806,21 +806,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
 * [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
-* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 
 test.de entdecken
 
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
 
 Fußbereich
 
@@ -3840,59 +3840,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
 * [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
-* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 
 test.de entdecken
 
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
 * [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
-* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 
 test.de entdecken
 
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Jetzt noch die Chance nutzen – güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Jetzt noch die Chance nutzen – günstige Autoversicherung finden")
 * [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
 * [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
-* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 
 test.de entdecken
 
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
-* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
 
 Service Stiftung Warentest
 
