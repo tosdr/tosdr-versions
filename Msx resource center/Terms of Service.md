@@ -153,9 +153,9 @@ Latest reactions
 
 Latest forum posts
 
+* [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/forum/msx-talk/hardware/msx-pico-multi-flash-rom-cartridge?page=3 "MSX Pico - multi Flash ROM cartridge")
 * [Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.](https://www.msx.org/forum/msx-talk/hardware/obsonet-raspberrypi-internestor-lite-23-freeze-on-install "Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.")
-* [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
 * [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=7 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
