@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Justice
+[Respect
 
-### Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu](https://www.csmonitor.com/World/Middle-East/2024/1121/netanyahu-arrest-gaza-starves "Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu")
+### Of dogs and din](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1122/Of-dogs-and-din "Of dogs and din")
 
-[Trust
+[Honesty
 
-### Why many in Ukraine oppose a ‘land for peace’ formula to end the war](https://www.csmonitor.com/World/Europe/2024/1121/ukraine-territory-russia-peace-deal "Why many in Ukraine oppose a ‘land for peace’ formula to end the war")
+### Moody chickens? Playful bumblebees? Science decodes the rich inner lives of animals.](https://www.csmonitor.com/Science/2024/1122/farm-animal-rights-science-consciousness "Moody chickens? Playful bumblebees? Science decodes the rich inner lives of animals.")
 
-[Integrity
+[Prosperity
 
-### A shield from war for Iraq](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1121/A-shield-from-war-for-Iraq "A shield from war for Iraq")
+### In the race to attract students, historically Black colleges sprint out front](https://www.csmonitor.com/USA/Education/2024/1122/hbcu-college-enrollment-north-carolina "In the race to attract students, historically Black colleges sprint out front")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Recurring blackouts have roiled Cuba. What’s behind the crisis?](https://www.csmonitor.com/World/Americas/2024/1122/cuba-blackouts-electricity-failure "Recurring blackouts have roiled Cuba. What’s behind the crisis?")
+
 [### Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu](https://www.csmonitor.com/World/Middle-East/2024/1121/netanyahu-arrest-gaza-starves "Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu")
 
 [### Why many in Ukraine oppose a ‘land for peace’ formula to end the war](https://www.csmonitor.com/World/Europe/2024/1121/ukraine-territory-russia-peace-deal "Why many in Ukraine oppose a ‘land for peace’ formula to end the war")
-
-[### Loggers were stealing the forest. These women started stealing their chain saws.](https://www.csmonitor.com/World/Africa/2024/1121/deforestation-cross-river-nigeria-boki-women "Loggers were stealing the forest. These women started stealing their chain saws.")
 
 * * *
 
