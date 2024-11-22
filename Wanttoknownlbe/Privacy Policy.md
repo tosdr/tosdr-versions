@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/hoe-zit-het-met-die-nep-testen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/de-bondgenoten-van-de-mensheid/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
