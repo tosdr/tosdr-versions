@@ -77,7 +77,7 @@ The buyer’s origin is determined according to the legal identity declared in t
 5\. Third-Parties
 -----------------
 
-5.1. We employ other parties to perform functions on our behalf. Examples include, hosting services, customer relationship management, analytics, advertising, social login and payment processing services. These selected parties may process your personal information only to the extent that is necessary to perform such functions on our behalf and subject to our instructions. We have procedures in place to ensure that these third party companies value your privacy.
+5.1. We employ other parties to perform functions on our behalf. Examples include, hosting services, customer relationship management, analytics, advertising, authentication and payment processing services. These selected parties may process your personal information only to the extent that is necessary to perform such functions on our behalf and subject to our instructions. We have procedures in place to ensure that these third party companies value your privacy.
 
 5.2. These parties may be located in the EU/EEA or the United States of America (“USA”). Any party employed by us that is located in the USA adheres to the Privacy Shield. This means that an adequate level of privacy protection is provided. To learn more about the Privacy Shield, please visit [this website](https://www.export.gov/welcome).
 
