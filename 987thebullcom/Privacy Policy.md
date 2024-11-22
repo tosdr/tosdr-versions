@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Would If I CouldErnest<br><br>4:38am |
-| Love Ain'TEli Young Band<br><br>4:35am |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:32am |
-| Wind Up Missing YouTucker Wetmore<br><br>4:29am |
-| I Could Be That RainRandall King<br><br>4:26am |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:33am |
+| Heartache MedicationJon Pardi<br><br>10:30am |
+| Tennessee OrangeMegan Moroney<br><br>10:26am |
+| Friends Like ThatJohn Morgan Ft Jason Aldean<br><br>10:23am |
+| Check Yes Or NoGeorge Strait<br><br>10:20am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
