@@ -103,6 +103,8 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
+[BREAKING: Domestic violence call leads to barricaded man in Cape Coral home](https://www.fox4now.com/cape-coral/heavy-police-presence-reported-in-northeast-cape-coral)
+
 Terms of Use
 ============
 
