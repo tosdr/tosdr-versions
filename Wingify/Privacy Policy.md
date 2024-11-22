@@ -114,7 +114,6 @@
         * [Build or Buy?](https://vwo.com/why-us/experimentation-platform-build-or-buy/)
         * [Usage-Based Billing](https://vwo.com/monthly-tracked-users/)
     * [Guarantee of Success](https://vwo.com/why-us/customer-success/)
-        * [Dedicated CSM](https://vwo.com/why-us/customer-success/dedicated-managers/)
         * [24x7 Support](https://vwo.com/why-us/customer-success/24-7-support/)
     * [Thoughtful Technology](https://vwo.com/why-us/technology/)
         * [Bayesian Statistics](https://vwo.com/why-us/technology/bayesian-statistics/)
