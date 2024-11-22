@@ -4,6 +4,8 @@ Changing the site language for you. Please wait ...
 
 Our website is available in your language, would you like to switch to that? Yes No
 
+**FAN FRIDAY WEEK STARTS NOV 25**
+
 [![Plex](https://www.plex.tv/wp-content/themes/plex/assets/img/plex-logo.svg)](https://www.plex.tv/)
 
 {{navBar.searchScope}} 
