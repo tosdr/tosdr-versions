@@ -206,28 +206,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Pistorius verzichtet auf SPD-Kanzler-Kandidatur – Video-Botschaft an Partei-Mitglieder
-
-Pistorius verzichtet auf SPD-Kanzler-Kandidatur – Video-Botschaft an Partei-Mitglieder
-
-Pistorius verzichtet auf SPD-Kanzler-Kandidatur – Video-Botschaft an Partei-Mitglieder
-
-Pistorius verzichtet auf SPD-Kanzler-Kandidatur – Video-Botschaft an Partei-Mitglieder
-
-Pistorius verzichtet auf SPD-Kanzler-Kandidatur – Video-Botschaft an Partei-Mitglieder
-
-Pistorius verzichtet auf SPD-Kanzler-Kandidatur – Video-Botschaft an Partei-Mitglieder
-
-Pistorius verzichtet auf SPD-Kanzler-Kandidatur – Video-Botschaft an Partei-Mitglieder
-
-Pistorius verzichtet auf SPD-Kanzler-Kandidatur – Video-Botschaft an Partei-Mitglieder
-
-Pistorius verzichtet auf SPD-Kanzler-Kandidatur – Video-Botschaft an Partei-Mitglieder
-
-Pistorius verzichtet auf SPD-Kanzler-Kandidatur – Video-Botschaft an Partei-Mitglieder](https://www.bild.de/politik/video-botschaft-an-spd-mitglieder-pistorius-verzichtet-auf-kanzler-kandidatur-673f7c1983652b12822d92b7)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
