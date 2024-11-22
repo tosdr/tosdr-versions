@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Power outages: nursing homes’ temperature safety](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages-scaled.jpg "Power Outages: Nursing Homes’ Temperature Safety")](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/ "Power Outages: Nursing Homes’ Temperature Safety")
+[![How to help mormon church victims of sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "How to Help Mormon Church Victims of Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/ "How to Help Mormon Church Victims of Sexual Abuse")
 
-[#### Power Outages: Nursing Homes’ Temperature Safety](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/)
+[#### How to Help Mormon Church Victims of Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/)
 
-[![How dangerous is second-hand smoke?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-dangerous-is-second-hand-smoke.jpg "How Dangerous Is Second-hand Smoke?")](https://www.pintas.com/practice-areas/lung-cancer/how-dangerous-is-second-hand-smoke/ "How Dangerous Is Second-hand Smoke?")
+[![What is elopement in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-elopement-in-nursing-homes-scaled.jpg "What Is Elopement in Nursing Homes?")](https://www.pintas.com/faq/what-is-elopement-in-nursing-homes/ "What Is Elopement in Nursing Homes?")
 
-[#### How Dangerous Is Second-hand Smoke?](https://www.pintas.com/practice-areas/lung-cancer/how-dangerous-is-second-hand-smoke/)
+[#### What Is Elopement in Nursing Homes?](https://www.pintas.com/faq/what-is-elopement-in-nursing-homes/)
 
-[![Best hospitals for lung cancer treatment](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-best-hospitals-for-lung-cancer-treatment.jpg "Best Hospitals for Lung Cancer Treatment")](https://www.pintas.com/practice-areas/lung-cancer/best-hospitals-for-lung-cancer-treatment/ "Best Hospitals for Lung Cancer Treatment")
+[![What is a lesion on the lung?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-is-a-lesion-on-the-lung.jpg "What Is a Lesion on the Lung?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-a-lesion-on-the-lung/ "What Is a Lesion on the Lung?")
 
-[#### Best Hospitals for Lung Cancer Treatment](https://www.pintas.com/practice-areas/lung-cancer/best-hospitals-for-lung-cancer-treatment/)
+[#### What Is a Lesion on the Lung?](https://www.pintas.com/practice-areas/lung-cancer/what-is-a-lesion-on-the-lung/)
 
 ### Injured?  
 Tell Us What Happened.
