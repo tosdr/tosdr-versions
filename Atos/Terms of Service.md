@@ -169,7 +169,7 @@ Atos homepage](https://atos.net/en/)
         * [Reshaping employee experience with a data-driven digital workplace](https://atos.net/en/blog/reshaping-employee-experience-data-driven-digital-workplace)
         * [Modernize without compromise: Why hybrid cloud still matters](https://atos.net/en/blog/modernize-without-compromise-why-hybrid-cloud-still-matters)
         * [Ensure your virtual infrastructure is sustainable infrastructure](https://atos.net/en/blog/ensure-your-virtual-infrastructure-is-sustainable-infrastructure)
-        * [AI in customer service operations: Automation and human empathy](https://atos.net/en/blog/ai-in-customer-service-operations-automation-and-human-empathy)
+        * [Creating connections with athlete engagement portals](https://atos.net/en/blog/experience-matters-creating-connections-with-athlete-engagement-portals)
         
         [All articles](https://atos.net/en/blog)
         
@@ -202,15 +202,14 @@ Atos homepage](https://atos.net/en/)
         Upcoming events
         ---------------
         
-        * [Atos Group at Microsoft Ignite 2024](https://atos.net/en/events/microsoft-ignite-2024)
         * [AWS re:Invent 2024](https://atos.net/en/events/aws-reivent-2024)
         * [Innovation in Disability Inclusion event 2024](https://atos.net/en/events/innovation-in-disability-inclusion-event-2024)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 19, 2024 - Nov 22, 2024
+        Dec 2, 2024 - Dec 6, 2024
         
-        ### Atos Group at Microsoft Ignite 2024
+        ### AWS re:Invent 2024
         
 * About Us
     * <<
