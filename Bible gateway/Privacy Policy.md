@@ -41,11 +41,11 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[THE BEST DEAL in digital Bible study is here. Start for FREE.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_bestdeal20241111)
+[Focus and SAVE on Scripture AD-FREE with BibleGateway+](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_5permonth_foucsadfree20241111)
 
 close
 
-[Early access to OUR BEST OFFER - as low as $3.33/mo! Access $3,100 worth of resources and UNDERSTAND Scripture. Includes 14-day free trial!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_3100aslowas333_20241111)
+[THE BEST DEAL in digital Bible study IS HERE! Access $3,100 worth of premium resources to help understand Scripture. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_BestDeal3100_20241111)
 
 close
 
