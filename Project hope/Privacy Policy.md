@@ -241,7 +241,7 @@ Sign up to receive the latest news and alerts from Project HOPE
 
 Enter your email address(Required)
 
-Submit        
+Submit           
 
 Thank you for signing up for news and information alerts from Project HOPE!
 
