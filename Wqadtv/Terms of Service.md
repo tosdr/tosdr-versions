@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+    *  [![](https://media.tegna-media.com/assets/KBMT/images/fb101b82-ece0-4981-a894-53cd3cfacd84/fb101b82-ece0-4981-a894-53cd3cfacd84_16x9.jpg) ![](https://media.tegna-media.com/assets/KBMT/images/fb101b82-ece0-4981-a894-53cd3cfacd84/fb101b82-ece0-4981-a894-53cd3cfacd84_360x203.jpg)](https://www.wqad.com/article/news/local/where-to-go-for-a-thanksgiving-meal-in-the-quad-cities-area/526-7f823ed0-419b-466e-bc5e-100c97d4de76)
         
-        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        #### [Where to go for a Thanksgiving meal in the Quad Cities area](https://www.wqad.com/article/news/local/where-to-go-for-a-thanksgiving-meal-in-the-quad-cities-area/526-7f823ed0-419b-466e-bc5e-100c97d4de76)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/7752d4e4-edb9-4b20-b0f6-5d40b0addecf/20241122T040846/7752d4e4-edb9-4b20-b0f6-5d40b0addecf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7752d4e4-edb9-4b20-b0f6-5d40b0addecf/20241122T040846/7752d4e4-edb9-4b20-b0f6-5d40b0addecf_360x203.jpg)](https://www.wqad.com/article/news/local/putnam-museum-the-vault-unseen-artifacts/526-78c9da0f-a10e-48e1-9057-6ba58bd6dd93)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c16475e9-dd59-41fb-b255-89bca5c70d6f/20241122T202550/c16475e9-dd59-41fb-b255-89bca5c70d6f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c16475e9-dd59-41fb-b255-89bca5c70d6f/20241122T202550/c16475e9-dd59-41fb-b255-89bca5c70d6f_360x203.jpg)](https://www.wqad.com/article/news/local/the-project-of-the-quad-cities-red-ribbon-gala-candyland-ball/526-3bc96a16-a688-4455-b9c6-ccc898b178b7)
         
-        #### [Take a walk through 'The Vault' of unseen relics at the Putnam Museum](https://www.wqad.com/article/news/local/putnam-museum-the-vault-unseen-artifacts/526-78c9da0f-a10e-48e1-9057-6ba58bd6dd93)
+        #### ['Sweeten the fight against HIV/AIDS' | The Project of the QC to host Red Ribbon Gala](https://www.wqad.com/article/news/local/the-project-of-the-quad-cities-red-ribbon-gala-candyland-ball/526-3bc96a16-a688-4455-b9c6-ccc898b178b7)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-39°
+38°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
