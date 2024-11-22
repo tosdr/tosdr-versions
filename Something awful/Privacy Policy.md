@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Alternative Movie Endings](https://www.somethingawful.com/comedy-goldmine/alternative-movie-endings/1/)
-* [Teen Movies](https://www.somethingawful.com/photoshop-phriday/teen-movies/1/)
-* [Fashion SWAT Jr.: Tea Party SWAT](https://www.somethingawful.com/news/tea-party-swat/1/)
-* [Paintings of Light (Part 1)](https://www.somethingawful.com/photoshop-phriday/paintings-light-part/1/)
-* [Notable Quotables: The Era of the Internet](https://www.somethingawful.com/news/internet-quotes/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Danny DeVito is on the move!](https://www.somethingawful.com/photoshop-phriday/danny-devito-crawl/1/)
+* [Lord of the Rings: ON THE GO!](https://www.somethingawful.com/comedy-goldmine/lord-rings-on/1/)
+* [Glitch Faces!](https://www.somethingawful.com/photoshop-phriday/glitch-faces-gifs/1/)
+* [Synonymous Movies](https://www.somethingawful.com/photoshop-phriday/synonymous-movies/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [ceilings: how tall is too tall?](http://forums.somethingawful.com/showthread.php?threadid=4075771 "ceilings: how tall is too tall?")
 * ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [Cartoon Characters you would betray](http://forums.somethingawful.com/showthread.php?threadid=4075802 "Cartoon Characters you would betray")
-* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Made up QCS drama thread](http://forums.somethingawful.com/showthread.php?threadid=4075797 "Made up QCS drama thread")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Build a 15 dollar breakfast](http://forums.somethingawful.com/showthread.php?threadid=4075800 "Build a 15 dollar breakfast")
 * ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [Oreos](http://forums.somethingawful.com/showthread.php?threadid=4075812 "Oreos")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Has anyone else noticed nerds are obsessed with being technically correct?](http://forums.somethingawful.com/showthread.php?threadid=4075867 "Has anyone else noticed nerds are obsessed with being technically correct?")
+* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Made up QCS drama thread](http://forums.somethingawful.com/showthread.php?threadid=4075797 "Made up QCS drama thread")
 
 ### Random Articles
 
-* [Edges2Cats! \[And Shoes, And Facades, And Handbags...\]](https://www.somethingawful.com/photoshop-phriday/pix2pix-generated-images/)
-* [Thursday Night Fights (Thanks, Evil Raiden!)](https://www.somethingawful.com/awful-links/thursday-night-fights/)
-* [Million Dollar Horse](https://www.somethingawful.com/awful-links/million-dollar-horse/)
-* [Rapture Letters](https://www.somethingawful.com/awful-links/awful-link-1178/)
-* [EULA](https://www.somethingawful.com/news/eula/)
+* [Redpilled My Little Pony Headcanons (Thanks, kate bush feelings!)](https://www.somethingawful.com/awful-links/redpilled-mlp-headcanon/)
+* [PANTHEONS OF GODS](https://www.somethingawful.com/news/pantheons-of-gods/)
+* [December 22, 2008](https://www.somethingawful.com/forum-fridays/ff12-22-08/)
+* [Burt's Power Points Summer Sale Spectacular](https://www.somethingawful.com/news/burts-powerpoint-summer/1/)
+* [\[Restricted\] The Wendy Show Archive for October 1st - 15th](https://www.somethingawful.com/news/wendy-show-october/)
 
 [Random!](https://www.somethingawful.com/random/)
 
