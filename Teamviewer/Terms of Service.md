@@ -455,7 +455,11 @@ Notwithstanding the above, termination by Customer based on non-performance of s
 
 #### B.5.4. Termination notice
 
-Termination notice, including the notification of non-renewal of Subscription pursuant to section B.5.1, must be made in text form (by signed letter, telefax or email). Customer shall address its termination notice to TeamViewer Germany GmbH, Bahnhofsplatz 2, 73033 Göppingen, Germany, or by email to [\[email protected\]](https://www.teamviewer.com/cdn-cgi/l/email-protection), or by submitting a ticket on the Customer Portal provided by TeamViewer under the link [here](https://www.teamviewer.com/en/global/support/customer-support/). TeamViewer may also terminate a Contract by means of a respective notification within the Software.
+Termination notice, including the notification of non-renewal of Subscription pursuant to sec. B.5.1, must be submitted in text form (by signed letter, telefax or email) or orally, provided the termination is subsequently acknowledged by the other party in text form.
+
+Customer shall address its termination notice to TeamViewer Germany GmbH, Bahnhofsplatz 2, 73033 Göppingen, Germany, or by email to [\[email protected\]](https://www.teamviewer.com/cdn-cgi/l/email-protection). Alternatively, Customer may submit a support request, or use the subscription management function (if available) in the customer portal provided by TeamViewer under the link [https://www.teamviewer.com/en/customer-support/](https://www.teamviewer.com/en/global/support/customer-support/ "https://www.teamviewer.com/en/customer-support/").
+
+TeamViewer may also terminate a Contract by means of a respective notification within the Software. 
 
 #### B.5.5. Consequences of termination
 
