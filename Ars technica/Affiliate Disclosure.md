@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [Google stops letting sites like Forbes rule search for “Best CBD Gummies“](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
     
-3. 3. [The key moment came 38 minutes after Starship roared off the launch pad](https://arstechnica.com/space/2024/11/the-key-moment-came-38-minutes-after-starship-roared-off-the-launch-pad/)
+3. 3. [Horrifying medical device malfunction: Abdominal implant erupts from leg](https://arstechnica.com/health/2024/11/womans-abdominal-implant-erupts-from-her-leg-experts-call-for-fda-reforms/)
     
-4. 4. [Scientist behind superconductivity claims ousted](https://arstechnica.com/science/2024/11/scientist-behind-superconductivity-claims-ousted/)
+4. 4. [As NASA increasingly relies on commercial space, there are some troubling signs](https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/)
     
-5. 5. [As NASA increasingly relies on commercial space, there are some troubling signs](https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/)
+5. 5. [The key moment came 38 minutes after Starship roared off the launch pad](https://arstechnica.com/space/2024/11/the-key-moment-came-38-minutes-after-starship-roared-off-the-launch-pad/)
     
 
 Customize
