@@ -1,4 +1,4 @@
-                         [Skip to content](#MainContent)
+           [Skip to content](#MainContent)
 
 [](https://www.perfectsleepchair.com/collections/black-friday-deals)
 
@@ -568,7 +568,6 @@ Closed 4th of July, Christmas, Thanksgiving, and New Year's Day
 * [Blog](https://www.perfectsleepchair.com/blogs/lets-live-past-100)
 * [Refer a Friend](https://www.perfectsleepchair.com/pages/referral-program)
 * [Careers](https://www.perfectsleepchair.com/pages/careers)
-* [Patents and Trademarks](https://www.perfectsleepchair.com/pages/patents-and-trademarks)
 * [Terms & Conditions](https://www.perfectsleepchair.com/policies/terms-of-service)
 * [Privacy Policy](https://www.perfectsleepchair.com/policies/privacy-policy)
 
