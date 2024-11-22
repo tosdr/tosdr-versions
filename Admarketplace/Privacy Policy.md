@@ -22,13 +22,17 @@ Stay up-to-date on all the latest learnings and insights to optimize your campai
 
 Unwrap Search Advertising Success During the Most Wonderful Time of the Year
 
-Learn more](https://www.admarketplace.com/blog/unwrap-search-advertising-success-during-the-most-wonderful-time-of-the-year)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6737855ab3d5c02312af6048_Privacy%20Browsers.png)
+Learn more
+
+![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6736b24095fdfb599ceb66a9_arrow%20right.svg)](https://www.admarketplace.com/blog/unwrap-search-advertising-success-during-the-most-wonderful-time-of-the-year)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6737855ab3d5c02312af6048_Privacy%20Browsers.png)
 
 **Open Web Search**
 
 Shaping Consumer Intent with Media Opportunities on Open Web Privacy Browsers
 
-Learn More](https://www.admarketplace.com/blog/just-browsing-shaping-consumer-intent-with-media-opportunities-on-open-web-privacy-browsers)
+Learn More
+
+![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6736b24095fdfb599ceb66a9_arrow%20right.svg)](https://www.admarketplace.com/blog/just-browsing-shaping-consumer-intent-with-media-opportunities-on-open-web-privacy-browsers)
 
 [See all articles](https://www.admarketplace.com/blog)
 
@@ -66,13 +70,17 @@ Discover the culture that powers our success and browse our open roles for your 
 
 Mozilla Expands Partnership with adMarketplace
 
-Learn more](https://www.admarketplace.com/blog/mozilla-expands-partnership-with-admarketplace-on-the-journey-to-protect-consumer-privacy-while-delivering-value-to-advertisers)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bd3f3cf3f80a4d68e8349_Tair.jpg)
+Learn more
+
+![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6736b24095fdfb599ceb66a9_arrow%20right.svg)](https://www.admarketplace.com/blog/mozilla-expands-partnership-with-admarketplace-on-the-journey-to-protect-consumer-privacy-while-delivering-value-to-advertisers)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bd3f3cf3f80a4d68e8349_Tair.jpg)
 
 **Spotlight**
 
 Transforming Marketing Expertise into Product Innovation
 
-Learn more](https://www.admarketplace.com/blog/marketing-leader-to-senior-product-manager-transforming-marketing-expertise-into-product-innovation-transitioning-from-a-career)
+Learn more
+
+![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6736b24095fdfb599ceb66a9_arrow%20right.svg)](https://www.admarketplace.com/blog/marketing-leader-to-senior-product-manager-transforming-marketing-expertise-into-product-innovation-transitioning-from-a-career)
 
 [Log In](https://amplify.admarketplace.com/performance-overview)
 
