@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 21, 2024**
+**November 22, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Wolves as Pollinators, Feeding On Nectar](https://www.sciencedaily.com/releases/2024/11/241120122020.htm)
+* [Athletes Have Better Working Memory](https://www.sciencedaily.com/releases/2024/11/241120122147.htm)
+* [Pumping Drugs Directly Into the GI Tract](https://www.sciencedaily.com/releases/2024/11/241120121836.htm)
+* [2 Million Mph Galaxy Smash-Up](https://www.sciencedaily.com/releases/2024/11/241121225909.htm)
+* [Previously Unknown Compound in Drinking Water](https://www.sciencedaily.com/releases/2024/11/241121141048.htm)
+* [Detailed RNA Analysis of the Whole Brain](https://www.sciencedaily.com/releases/2024/11/241121141005.htm)
+* [Microbiome of US Rivers](https://www.sciencedaily.com/releases/2024/11/241120121731.htm)
 * [Early Skeleton Map: How Bones Form in Humans](https://www.sciencedaily.com/releases/2024/11/241120121741.htm)
 * [Human Gut: Mapping 1.6 Million Gut Cells](https://www.sciencedaily.com/releases/2024/11/241120121728.htm)
 * [Human Immune System Ready Long Before Birth](https://www.sciencedaily.com/releases/2024/11/241120121641.htm)
-* [Human Heart: Hidden Ability to Repair Itself](https://www.sciencedaily.com/releases/2024/11/241121141348.htm)
-* [Oldest Known Alphabet Unearthed](https://www.sciencedaily.com/releases/2024/11/241120193145.htm)
-* [Supernova Could End Search for Dark Matter](https://www.sciencedaily.com/releases/2024/11/241121141213.htm)
-* [Whale-Ship Collisions: Few Precautions Taken](https://www.sciencedaily.com/releases/2024/11/241121141110.htm)
-* [Chemists Create World's Thinnest Spaghetti](https://www.sciencedaily.com/releases/2024/11/241121141211.htm)
-* [Climate: Millions of Coastal Residences at Risk](https://www.sciencedaily.com/releases/2024/11/241121115809.htm)
-* [Zooming in On a Star Outside Our Galaxy](https://www.sciencedaily.com/releases/2024/11/241121115752.htm)
 
 Trending Topics
 ---------------
@@ -253,23 +253,23 @@ this week
 
 [Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
-
-[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
-
 [Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
+
+[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
+
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
+
 [Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
 
-[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
-
-[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
+[Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
   
 
