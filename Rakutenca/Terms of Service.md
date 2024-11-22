@@ -1,4 +1,4 @@
-[Uniqlo: UNIQLO’s Thank You event is on: Up to 50% off! + 7% Cash Back
+[Uniqlo: Thank You event is on! Up to 50% off! + 7% Cash Back
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/uniqlo?store=uniqlo&sourceName=sitewide-sticky-header)
 
@@ -23,7 +23,7 @@ FR
         
         up to 12% Cash Back](https://www.rakuten.ca/lego-canada)[Joe Fresh
         
-        2% Cash Back](https://www.rakuten.ca/joe-fresh-canada)[Carter’s OshKosh B’gosh
+        12% Cash Back](https://www.rakuten.ca/joe-fresh-canada)[Carter’s OshKosh B’gosh
         
         4% Cash Back](https://www.rakuten.ca/carters-oshkosh-bgosh)[Baby Gap
         
@@ -161,7 +161,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/canadian-tire)[HelloFresh
         
-        12% Cash Back](https://www.rakuten.ca/hellofresh)[TEMU
+        30% Cash Back](https://www.rakuten.ca/hellofresh)[TEMU
         
         12% Cash Back](https://www.rakuten.ca/temu)
         
