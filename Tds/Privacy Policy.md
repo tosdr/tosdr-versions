@@ -266,7 +266,7 @@ The TDS web servers also automatically collect limited information about your co
 **TDS is in your Community**
 ----------------------------
 
-### [Colorado](https://hellotds.com/colorado.html), [Nevada](https://hellotds.com/nevada.html), [New Mexico](https://hellotds.com/new-mexico.html), [Oregon](https://hellotds.com/oregon.html), [North Carolina](https://ourtds.com/), [Utah](https://hellotds.com/utah.html), and [Texas](https://hellotds.com/deactivated-pages/texas.html).
+### [Colorado](https://hellotds.com/colorado.html), [Nevada](https://hellotds.com/nevada.html), [New Mexico](https://hellotds.com/new-mexico.html), [Oregon](https://hellotds.com/oregon.html), [North Carolina](https://ourtds.com/), and [Utah](https://hellotds.com/utah.html).
 
 Find out for yourself what TDS has to offer for you.
 
