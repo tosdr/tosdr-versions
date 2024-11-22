@@ -7,7 +7,7 @@
 * [Privacy](https://prepaidcompare.net/privacy.html "Privacy Policy")
 * [Help](https://prepaidcompare.net/help.html)
 
-[![Mastodon](/masto.png)](https://mastodon.social/@yeswap "Mastodon") [![Facebook](fb.png)](https://www.facebook.com/PrepaidCompare "Facebook")
+[![Mastodon](/masto.png)](https://mas.to/@PrepaidCompare "Mastodon") [![Facebook](fb.png)](https://www.facebook.com/PrepaidCompare "Facebook")
 
 Privacy Policy for PrepaidCompare.net
 -------------------------------------
