@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Openness and sharing are the sources of innovation. Alibaba is excited to join Open Invention Network and share our cutting edge innovations with industry leaders.  
-
-Jiangwei JiangAlgorithm EngineerAlibaba Cloud Computing
-
-> Open Source technologies, especially Embedded Linux, have enabled the rapid development of intelligent products that can be found throughout the infrastructure of homes. LIXIL’s participation in the OIN community shows our consistent commitment to open source innovation.  
-
-Yugo KanazawaChief Digital OfficerLIXIL
-
-> Alibaba and Ant congratulate Open Invention Network on this impressive milestone. OIN has taken a leadership role and worked tirelessly to improve intellectual property protection for Linux system and open source software. Alibaba and Ant look forward to continued partnership with OIN and the international open source community to foster innovation and reduce IP risks.  
-
-Roger Shang - Alibaba Group Senior Legal Director // Benjamin Bai - Ant Group VP of Intellectual Property
-
-> We look forward to participating in the Open Invention Network. Many of the services and apps that our customers depend on every day have been developed using open source software and we look forward to helping safeguard its future.  
-
-Luke IbbetsonHead of Group R&DVodaphone
-
-> China Mobile is committed to becoming a world-class information services and sci-tech innovation enterprise, and understands that Linux System and open source technology is a cornerstone to drive technological innovation and accelerate service innovation. After joining OIN, China Mobile will not only continue to support the innovative practice of open source projects, but also work closely with OIN and its members to promote the high-level implementation of the Linux System and open source techn… [Read more](https://openinventionnetwork.com/testimonial/china-mobile/ "Complete testimonial by Jia Liu")
+> China Mobile is committed to becoming a world-class information services and sci-tech innovation enterprise, and understands that Linux System and open source technology is a cornerstone to drive technological innovation and accelerate service innovation. After joining OIN, China Mobile will not only continue to support the innovative practice of open source projects, but also work closely with OIN and its members to promote the high-level implementation of the Linux System and open source techn… [Read more](https://www.openinventionnetwork.com/testimonial/china-mobile/ "Complete testimonial by Jia Liu")
 
 Jia LiuDeputy GM, Science & Technology Innovation, China Mobile
 
-> For more than two decades, we have been a steadfast supporter of open source and the numerous benefits it provides. We have and continue to support the OIN and the Linux Foundation. IBM and Red Hat believe this is a key initiative to significantly deter non-practicing entities from asserting patents against the open source community.  
+> UNISOC is committed to the independent development and design of core chips in the field of mobile communications and AIoT, and Linux and open source software are the key elements of our technology development. By joining the OIN community, Zhanrui demonstrates its strong commitment to innovation and will continue to support patent protection for projects such as Linux.  
 
-Todd MooreCTO, Developer EcosystemsIBM
+Yang JiejingHead of Legal DepartmentUNISOC
 
-> More than 70% of D-Link’s networking and communication solutions have implemented open source software since the beginning phase of research and development. We have and will continue to advocate for OSS and patent non-aggression, and we look forward to making our contributions to the OIN community to encourage innovation.  
+> Google has been a proud member of OIN since joining the community in 2007. Linux and adjacent open source software power the cloud-based services of today and tomorrow. Throughout, OIN has been there to ensure that open source remains safe for users, consumers, and developers alike to consume and upon which to build.
 
-Mark ChenPresidentD-Link
+Chris DiBonaDirector of Open SourceGoogle
 
-> Huawei is committed to offering the highest-quality ICT and smart devices. Linux and OSS are critical elements of technologies we are developing and integrating with carriers and enterprises around the globe. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux and other core open source projects.  
+> _We remain focused on integrating the best technologies in our payment networks, which help to deliver services that our banks’ customers value and trust. We enable all financial institutions to offer safer, faster, and smarter digital transaction services and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting open source software._
 
-Jianxin DingHead of Global Intellectual PropertyHuawei
+Sean ReillySVP & Associate General Counsel, The Clearing House
+
+> For the past several years we have increased our involvement in, and contributions to, the open source community. We are pleased to stand with OIN, the Linux Foundation and IBM in protecting Linux and other important OSS technologies against patent aggression.  
+
+Erich AndersonCorporate VP & Chief IP CounselMicrosoft
 
 > Protecting open source is critical to us, our users and to the ongoing health of the Internet. We’re proud of our new role within OIN. We’re very happy with the direction OIN has been going.  
 
 Chris DiBonaDirector of Open SourceGoogle
 
-> OIN is an organization which helps protect the Linux ecosystem by building a variety of defenses against patent attacks. By joining, Mozilla receives cross-licenses from other OIN licensees, but more importantly, for the long term, it affords us a chance to work with OIN in reducing IP threats to open source development and innovation.  
+> Linux, and more broadly open source software, is a foundational technology in the desktop, mobile, networking, cloud and embedded computing environments. We are committed to open solutions that promote advances in all of the sectors that depend on advanced x86 and ARM platforms. Joining OIN is another way we are demonstrating our commitment to open innovation and collaboration.  
 
-Harvey AndersonVP & General CounselMozilla
+Richard BrownVP MarketingVIA Technologies
+
+> Open source technology, especially Linux, drives innovation in areas that are critical to the customers that we serve, including technologies such as servers, storage, cloud, converged applications, big data and IoT. By joining Open Invention Network, we are demonstrating our continued commitment to open source technology, and supporting it with patent non-aggression in Linux.  
+
+Norihiro SuzukiVice President and Executive Officer - CTOHitachi
+
+> Linux plays an important role at TomTom as the core of all our Portable Navigation Devices. We believe that by becoming an Open Invention Network licensee, we encourage Linux development and foster innovation in a technical community that benefits everyone.  
+
+Peter SpoursDirector of IPTomTom
+
+> OIN protects the open-source community through a patent cross-license for Linux and related open-source technologies. The license is free and available to companies, organizations, and individual developers if they agree not to assert their own patents against Linux.  
+
+Chris DiBonaDirector of Open SourceGoogle
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
