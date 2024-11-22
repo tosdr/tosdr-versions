@@ -3,8 +3,8 @@
 Menu
 
 * [Explore](https://cookidoo.thermomix.com/foundation/en-US)
-* [My Recipes](https://cookidoo.thermomix.com/organize/en-US/my-recipes)
-* [My Week](https://cookidoo.thermomix.com/planning/en-US/my-week)
+* [Membership](https://cookidoo.thermomix.com/foundation/en-US/membership)
+* [Help](https://cookidoo.thermomix.com/foundation/en-US/help)
 
 * [Sign up](https://cookidoo.thermomix.com/ciam/register/start)
 * [Login](https://cookidoo.thermomix.com/profile/en-US/login)
