@@ -1,6 +1,6 @@
 [Skip to main content](#adt-content-id)
 
-[![ADT LOGO](/content/dam/adt7/navigation/Nav_ADT_Logo.svg)](https://www.adt.com/)
+[![ADT company LOGO image](/content/dam/adt7/navigation/Nav_ADT_Logo.svg)](https://www.adt.com/)
 
 Home & Personal
 
@@ -10,7 +10,7 @@ Home & Personal
 
 ![Phone icon is used to show the phone number to call for information](/content/dam/adt7/navigation/Nav_Phone_Icon.svg)
 
-[![ADT LOGO](/content/dam/adt7/navigation/Nav_ADT_Logo.svg)](https://www.adt.com/)
+[![ADT company LOGO image](/content/dam/adt7/navigation/Nav_ADT_Logo.svg)](https://www.adt.com/)
 
 [![This customer icon is used to show that it links to customer page with information](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.adt.com/customer/login)
 
@@ -22,11 +22,11 @@ Home & Personal
 
 Close Close mobile menu
 
-[![Google Nest Doorbell Camera](/content/dam/adt7/global/navigation/QuickTiles-VideoDoorbell-2x.png)
+[![Person clicking on Google Nest Doorbell Camera](/content/dam/adt7/global/navigation/QuickTiles-VideoDoorbell-2x.png)
 
-Video Cameras](https://www.adt.com/security-cameras)[![ADT Base](/content/dam/adt7/global/navigation/adt-base.png)
+Video Cameras](https://www.adt.com/security-cameras)[![Image shows ADT Base product](/content/dam/adt7/global/navigation/adt-base.png)
 
-Smart Security](https://www.adt.com/smarthome)[![BYO package](/content/dam/adt7/global/navigation/adt-byo.png)
+Smart Security](https://www.adt.com/smarthome)[![Image shows a customizable bundle of ADT base, sensors and yard signs package](/content/dam/adt7/global/navigation/adt-byo.png)
 
 Build Your Own](https://www.adt.com/shop/unified/packages/unified-build-your-own.html)[![Woman looking at her phone while taking the ADT quiz](/content/dam/adt7/global/navigation/QuickTiles-Quiz-2x.png)
 
@@ -73,6 +73,10 @@ Take Our Quiz](https://www.adt.com/quiz)
 [![Phone icon is used to show the phone number to call for information](/content/dam/adt7/navigation/Nav_Phone_Icon.svg)](# "Call")
 
  [![This customer icon is used to show that it links to customer page with information](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.adt.com/customer/login)[![This cart icon is used to show the products that are added to cart](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.adt.com/shop/diy/cart)
+
+[Get a Free Quote](javascript:void(0); "Open Form")
+
+[Get a Free Quote](javascript:void(0); "Open Form")
 
 [](#)
 
@@ -302,7 +306,7 @@ Accessibility
 
 [](https://www.bbb.org/us/fl/boca-raton/profile/burglar-alarm-systems/adt-security-services-0633-30001337#bbbseal "ADT Security Services, Burglar Alarm Systems, Boca Raton, FL")
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=43511e02-5eda-4726-b218-13daec452d49 "TRUSTe")
+[](https://privacy.truste.com/privacy-seal/validation?rid=43511e02-5eda-4726-b218-13daec452d49 "Privacy Feedback Powered By TRUSTe")
 
 ![close](/content/dam/adt7/images/mobile-flyout-close-button.svg)
 
