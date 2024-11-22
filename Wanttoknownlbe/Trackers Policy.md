@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/een-berichtje-van-jendayi/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/het-mysterie-van-israel-opgelost/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
