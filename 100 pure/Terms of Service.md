@@ -1,5 +1,4 @@
-![](
-https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  Legal Terms & Conditions – 100% PURE                                                                                                         
+![](https://px.ads.linkedin.com/collect/?pid=6473260&fmt=gif)                                  Legal Terms & Conditions – 100% PURE                                                                                                         
 
 My Tote
 -------
