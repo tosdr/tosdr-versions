@@ -19,7 +19,7 @@ Privacy Policy \- A Wiki.
 * [10
     
     Likes](https://gamebanana.com/wikis/likes/1873)
-* [6
+* [7
     
     Subscribers](https://gamebanana.com/wikis/subscribers/1873)
 * [0
