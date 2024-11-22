@@ -287,15 +287,15 @@ FR
         
         [SkinCeuticals Canada
         
-        6% Cash Back](https://www.rakuten.ca/skinceuticals)[Aveda
+        6% Cash Back](https://www.rakuten.ca/skinceuticals)[Clinique
+        
+        6% Cash Back](https://www.rakuten.ca/clinique)[Aveda
         
         3% Cash Back](https://www.rakuten.ca/aveda)[Clearly
         
         up to 5% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
-        9% Cash Back](https://www.rakuten.ca/esteelauder)[WeightWatchers
-        
-        $3 Cash Back](https://www.rakuten.ca/weight-watchers-canada)
+        9% Cash Back](https://www.rakuten.ca/esteelauder)
         
         Featured Shops & Deals
         
