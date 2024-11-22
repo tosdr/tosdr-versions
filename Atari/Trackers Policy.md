@@ -152,7 +152,9 @@ Games
 
 * [PC & Console](https://atari.com/collections/games)
     
-    [Physical Cartridges](https://www.atari.com/collections/physical-cartridges)
+    [Physical Console](https://www.atari.com/collections/physical-games)
+    
+    [Atari Cartridges](https://www.atari.com/collections/physical-cartridges)
 
 #### BRANDS
 
@@ -200,7 +202,9 @@ Games
 
 * [PC & Console](https://atari.com/collections/games)
     
-    [Physical Cartridges](https://www.atari.com/collections/physical-cartridges)
+    [Physical Console](https://www.atari.com/collections/physical-games)
+    
+    [Atari Cartridges](https://www.atari.com/collections/physical-cartridges)
 
 BRANDS
 
@@ -734,7 +738,7 @@ $20 Back $40 Back $60 Back | |
 
 Subtotal
 
-~$0.00~ $0.00 \- Liquid error (sections/cart-flyout line 526): divided by 0% OFF
+$0.00
 
 Checkout
 
