@@ -1,6 +1,7 @@
 ![](https://www.facebook.com/tr?id=1657184227709652&ev=PageView
 &noscript=1)        
 
+* [Black Friday Deals](https://www.therapyshoppe.com/products/1850-black-friday-deals "Black Friday Deals")
 * [New Products](https://www.therapyshoppe.com/products/1138-new-products-brand-new-innovative-therapy-sensory-products "New Products")
 * [Shop by Challenge](https://www.therapyshoppe.com/products/1702-shop-by-challenge-sensory-solutions-fidgets-special-needs-kids "Shop by Challenge")
 * [450+ Favorites Under $10](https://www.therapyshoppe.com/products/1475-products-under-five-dollars-affordable-ot-sensory-tools-toy-products "450+ Favorites Under $10")
@@ -75,6 +76,7 @@
 
    
 
+* [Black Friday Deals](https://www.therapyshoppe.com/products/1850-black-friday-deals "Black Friday Deals")
 * [New Products](https://www.therapyshoppe.com/products/1138-new-products-brand-new-innovative-therapy-sensory-products "New Products")
 * [Shop by Challenge](https://www.therapyshoppe.com/products/1702-shop-by-challenge-sensory-solutions-fidgets-special-needs-kids "Shop by Challenge")
 * [450+ Favorites Under $10](https://www.therapyshoppe.com/products/1475-products-under-five-dollars-affordable-ot-sensory-tools-toy-products "450+ Favorites Under $10")
