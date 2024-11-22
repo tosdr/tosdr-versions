@@ -302,15 +302,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Term at Hogwarts begins on September 1.
+Natalie McDonald, who appeared in Harry Potter and Goblet of Fire, is named after a real girl who was dying of leukemia.
 
 ### Potter History
 
-September 9, 2008 – Electronic Arts officially announces the delay of their Harry Potter and the Half-Blood Prince video game. The news was expected after Warner Bros. delayed the film.
+March 27, 2012 – The Harry Potter e-books are released exclusively on the Pottermore Shop.
 
 ### Potter Quote
 
-“Longbottom, kindly do not reveal that you can’t even perform a simple Switching Spell in front of anyone from Durmstrang!”
+“Sadly, accidental rudeness occurs alarmingly often. Best to say nothing at all, my dear man.”
 
 [](#)
 
