@@ -58,17 +58,16 @@ Navigation menu
 * [Rules & Editing Help](https://tcrf.net/Help:Contents)
 * [FAQ](https://tcrf.net/Help:Contents/FAQ)
 * [To-do list](https://tcrf.net/Category:To_do)
-* [Donate](https://tcrf.net/The_Cutting_Room_Floor:Donate)
-* [Related Links](https://tcrf.net/The_Cutting_Room_Floor:Related_Links)
 
-### Community
+### Community + Links
 
-* [Message Board](https://jul.rustedlogic.net/forum.php?id=12)
-* [Chat (Web client)](https://kiwiirc.com/client/irc.badnik.zone/tcrf)
-* [Chat (IRC)](irc://irc.badnik.zone/tcrf)
 * [Discord](https://discord.com/invite/SGeE8dcWR6)
-* [Reddit](https://www.reddit.com/r/TCRF)
-* [@CuttingRoomWiki](https://twitter.com/CuttingRoomWiki)
+* [IRC Channel](https://kiwiirc.com/client/irc.badnik.zone/tcrf)
+* [Message Board](https://jul.rustedlogic.net/forum.php?id=12)
+* [BlueSky](https://bsky.app/profile/tcrf.net)
+* [Patreon](https://www.patreon.com/tcrfwiki)
+* [Donate](https://tcrf.net/The_Cutting_Room_Floor:Donate)
+* [Related Sites](https://tcrf.net/The_Cutting_Room_Floor:Related_Links)
 
 ### Games
 
