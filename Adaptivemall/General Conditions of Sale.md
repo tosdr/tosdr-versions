@@ -278,7 +278,7 @@ MY ACCOUNT
 
 CUSTOMER SERVICE
 
-* [Contact Us](https://www.adaptivemall.com/contact/)
+* [Contact Us](https://www.adaptivemall.com/aboutus#contactus)
 * [About Us](https://www.adaptivemall.com/aboutus/)
 * [Current Promotions](https://www.adaptivemall.com/promos/)
 * [FAQ](https://www.adaptivemall.com/customer-service-q-a/)
