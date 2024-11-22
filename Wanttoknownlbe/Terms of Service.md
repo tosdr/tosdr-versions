@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/veranderend-tijdsbewustzijn/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/stoelriemen-vast-de-time-wave-theorie-van-terence-mckenna/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
