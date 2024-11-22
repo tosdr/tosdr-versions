@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Stories from the SOC: Registry Clues to PDF Blues: A Tale of PUA Persistence
+            ##### DSPM vs CSPM: Key Differences and Their Roles in Data Protection
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/stories-from-the-soc-registry-clues-to-pdf-blues-a-tale-of-pua-persistence)
+            [Learn more](https://levelblue.com/blogs/security-essentials/dspm-vs-cspm-key-differences-and-their-roles-in-data-protection)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -399,13 +399,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Jeff Kieschnick](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Joe Pettit](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Jeff Kieschnick
+#### Joe Pettit
 
-Nov 21, 2024
+Nov 22, 2024
 
-### [Stories from the SOC: Registry Clues to PDF Blues: A Tale of PUA Persistence](https://levelblue.com/blogs/security-essentials/stories-from-the-soc-registry-clues-to-pdf-blues-a-tale-of-pua-persistence)
+### [DSPM vs CSPM: Key Differences and Their Roles in Data Protection](https://levelblue.com/blogs/security-essentials/dspm-vs-cspm-key-differences-and-their-roles-in-data-protection)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
