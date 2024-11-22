@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)\-2°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)\-2°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
+* [Genève](https://www.watson.ch/fr/geneve/)
+* [En direct](https://www.watson.ch/fr/en-direct/)
+* [Technologie](https://www.watson.ch/fr/technologie/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Voyage](https://www.watson.ch/fr/voyage/)
 * [Sciences](https://www.watson.ch/fr/sciences/)
+* [France](https://www.watson.ch/fr/france/)
+* [Union Européenne](https://www.watson.ch/fr/union-europeenne/)
 * [Israël](https://www.watson.ch/fr/israel/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Art](https://www.watson.ch/fr/art/)
-* [En direct](https://www.watson.ch/fr/en-direct/)
+* [Entreprise](https://www.watson.ch/fr/entreprise/)
+* [voiture](https://www.watson.ch/fr/voiture/)
 * [Gaza](https://www.watson.ch/fr/gaza/)
-* [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
 * [Médecine](https://www.watson.ch/fr/medecine/)
-* [Culture](https://www.watson.ch/fr/culture/)
-* [route](https://www.watson.ch/fr/route/)
-* [Hiver](https://www.watson.ch/fr/hiver/)
 * [CFF](https://www.watson.ch/fr/cff/)
+* [route](https://www.watson.ch/fr/route/)
 * [Météo](https://www.watson.ch/fr/meteo/)
 * [Justice](https://www.watson.ch/fr/justice/)
 * [Neige](https://www.watson.ch/fr/neige/)
 * [RTS](https://www.watson.ch/fr/rts/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
