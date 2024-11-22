@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Thursday: Partytime out and about in Derry's Metro Bar (2007)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Derry's Metro Bar (2007)")](https://www.derrynow.com/story-telling/pictures---videos/1660456/throwback-thursday-partytime-out-and-about-in-derry-s-metro-bar-2007.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about in Derry's Metro Bar (2007)](https://www.derrynow.com/story-telling/pictures---videos/1660456/throwback-thursday-partytime-out-and-about-in-derry-s-metro-bar-2007.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man jailed for 15 months for series of domestic abuse offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man jailed for 15 months for series of domestic abuse offences")](https://www.derrynow.com/news/newsletter-derrynow/1661383/derry-man-jailed-for-15-months-for-series-of-domestic-abuse-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -282,39 +275,12 @@ Derry Crown Court
 [Four people returned for trial to Derry Crown Court on charge of affray](https://www.derrynow.com/news/newsletter-derrynow/1661378/four-people-returned-for-trial-to-derry-crown-court-on-charge-of-affray.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.")](https://www.derrynow.com/news/sociallinkedin-derrynow/1661185/ardnashee-s-new-head-girl-aoibh-cutliff-has-overcome-many-life-challenges.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1661667/derry-death-notices-friday-november-22-2024.html)
 
-Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Ardnashee's new head girl Aoibh Cutliff has overcome many life challenges](https://www.derrynow.com/news/sociallinkedin-derrynow/1661185/ardnashee-s-new-head-girl-aoibh-cutliff-has-overcome-many-life-challenges.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman charged in connection with drug-related offences after police search Derry property](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged in connection with drug-related offences after police search Derry property")](https://www.derrynow.com/news/newsletter-derrynow/1661069/woman-charged-in-connection-with-drug-related-offences-after-police-search-derry-property.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman charged in connection with drug-related offences after police search Derry property](https://www.derrynow.com/news/newsletter-derrynow/1661069/woman-charged-in-connection-with-drug-related-offences-after-police-search-derry-property.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry judge says until threat against suspected drug dealers is lifted, anonymity orders will be granted](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge says until threat against suspected drug dealers is lifted, anonymity orders will be granted")](https://www.derrynow.com/news/crime---courts/1661204/derry-judge-says-until-threat-against-suspected-drug-dealers-is-lifted-anonymity-orders-will-be-granted.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry judge says until threat against suspected drug dealers is lifted, anonymity orders will be granted](https://www.derrynow.com/news/crime---courts/1661204/derry-judge-says-until-threat-against-suspected-drug-dealers-is-lifted-anonymity-orders-will-be-granted.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Date set for preliminary enquiry for two Derry men facing firearms charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Date set for preliminary enquiry for two Derry men facing firearms charges")](https://www.derrynow.com/news/newsletter-derrynow/1661359/date-set-for-preliminary-enquiry-for-two-derry-men-facing-firearms-charges.html)
-
-The AKM rifle seized by police
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Date set for preliminary enquiry for two Derry men facing firearms charges](https://www.derrynow.com/news/newsletter-derrynow/1661359/date-set-for-preliminary-enquiry-for-two-derry-men-facing-firearms-charges.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Friday, November 22, 2024](https://www.derrynow.com/news/deaths/1661667/derry-death-notices-friday-november-22-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry one of the most likely places in the UK to see snow this Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry one of the most likely places in the UK to see snow this Christmas")](https://www.derrynow.com/news/county-derry-post/1661262/derry-one-of-the-most-likely-places-in-the-uk-to-see-snow-this-christmas.html)
 
@@ -322,6 +288,13 @@ The AKM rifle seized by police
 
 [Derry one of the most likely places in the UK to see snow this Christmas](https://www.derrynow.com/news/county-derry-post/1661262/derry-one-of-the-most-likely-places-in-the-uk-to-see-snow-this-christmas.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady")](https://www.derrynow.com/news/derrynow/1662091/male-33-due-to-appear-before-court-after-being-charged-in-connection-with-suspicious-man-report-in-limavady.html)
+
+[Home](https://www.derrynow.com/)
+
+[Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady](https://www.derrynow.com/news/derrynow/1662091/male-33-due-to-appear-before-court-after-being-charged-in-connection-with-suspicious-man-report-in-limavady.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry, celebrating winning the Best Choir Award 2024 at Dublin Ceoil in March.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry, celebrating winning the Best Choir Award 2024 at Dublin Ceoil in March.")](https://www.derrynow.com/news/arts---entertainment/1661395/talented-derry-singer-in-semi-final-of-bbc-young-chorister-of-the-year.html)
 
@@ -332,18 +305,48 @@ Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry
 [Talented Derry Singer in semi final of BBC Young Chorister of the Year](https://www.derrynow.com/news/arts---entertainment/1661395/talented-derry-singer-in-semi-final-of-bbc-young-chorister-of-the-year.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Derry marks World Children's Day with candlelight procession and vigil](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry marks World Children's Day with candlelight procession and vigil")](https://www.derrynow.com/story-telling/pictures---videos/1661352/in-pictures-derry-marks-world-children-s-day-with-candlelight-procession-and-vigil.html)
+[![Derry man pleads guilty to charge of sexual assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man pleads guilty to charge of sexual assault")](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+Derry courthouse
 
-[IN PICTURES: Derry marks World Children's Day with candlelight procession and vigil](https://www.derrynow.com/story-telling/pictures---videos/1661352/in-pictures-derry-marks-world-children-s-day-with-candlelight-procession-and-vigil.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man pleads guilty to charge of sexual assault](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man who admitted charge of arson endangering life to be sentenced in January](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who admitted charge of arson endangering life to be sentenced in January")](https://www.derrynow.com/news/newsletter-derrynow/1662153/man-who-admitted-charge-of-arson-endangering-life-to-be-sentenced-in-january.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man who admitted charge of arson endangering life to be sentenced in January](https://www.derrynow.com/news/newsletter-derrynow/1662153/man-who-admitted-charge-of-arson-endangering-life-to-be-sentenced-in-january.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Cold and frosty conditions to continue with nationwide yellow warning in place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cold and frosty conditions to continue with nationwide yellow warning in place")](https://www.derrynow.com/news/weather/1661403/cold-and-frosty-conditions-to-continue-with-nationwide-yellow-warning-in-place.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Cold and frosty conditions to continue with nationwide yellow warning in place](https://www.derrynow.com/news/weather/1661403/cold-and-frosty-conditions-to-continue-with-nationwide-yellow-warning-in-place.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Your best years will be in a united Ireland, McDonald tells Dublin students](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Your best years will be in a united Ireland, McDonald tells Dublin students")](https://www.derrynow.com/news/national-news/1661770/your-best-years-will-be-in-a-united-ireland-mcdonald-tells-dublin-students.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Your best years will be in a united Ireland, McDonald tells Dublin students](https://www.derrynow.com/news/national-news/1661770/your-best-years-will-be-in-a-united-ireland-mcdonald-tells-dublin-students.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza")](https://www.derrynow.com/story-telling/pictures---videos/1662246/in-pictures-st-joseph-s-boys-school-coffee-morning-for-uisce-for-gaza.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza](https://www.derrynow.com/story-telling/pictures---videos/1662246/in-pictures-st-joseph-s-boys-school-coffee-morning-for-uisce-for-gaza.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Derry marks World Children's Day with candlelight procession and vigil](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry marks World Children's Day with candlelight procession and vigil")](https://www.derrynow.com/story-telling/pictures---videos/1661352/in-pictures-derry-marks-world-children-s-day-with-candlelight-procession-and-vigil.html)
 
@@ -407,13 +410,6 @@ Multimedia
 
 [IN PICTURES: Derry Gaelic Masters Team annual prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1658458/in-pictures-derry-gaelic-masters-team-annual-prizegiving.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall")](https://www.derrynow.com/story-telling/pictures---videos/1657940/in-pictures-revive-pre-loved-pop-up-show-in-derry-s-st-columb-s-hall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Revive pre loved pop up show in Derry's St. Columb's Hall](https://www.derrynow.com/story-telling/pictures---videos/1657940/in-pictures-revive-pre-loved-pop-up-show-in-derry-s-st-columb-s-hall.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,53 +511,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1661667/derry-death-notices-friday-november-22-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, November 22, 2024](https://www.derrynow.com/news/deaths/1661667/derry-death-notices-friday-november-22-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Roadside Garages Kia Coleraine named double-award winner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roadside Garages Kia Coleraine named double-award winner")](https://www.derrynow.com/news/derrynow/1661522/roadside-garages-kia-coleraine-named-double-award-winner.html)
-
-Ian Lamont (left), of Roadside Garages Kia Coleraine, receiving the award.
-
-[Home](https://www.derrynow.com/)
-
-[Roadside Garages Kia Coleraine named double-award winner](https://www.derrynow.com/news/derrynow/1661522/roadside-garages-kia-coleraine-named-double-award-winner.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Cold and frosty conditions to continue with nationwide yellow warning in place](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_21/1732193716518_0.jpg--.jpg "Cold and frosty conditions to continue with nationwide yellow warning in place")](https://www.derrynow.com/news/weather/1661403/cold-and-frosty-conditions-to-continue-with-nationwide-yellow-warning-in-place.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Cold and frosty conditions to continue with nationwide yellow warning in place](https://www.derrynow.com/news/weather/1661403/cold-and-frosty-conditions-to-continue-with-nationwide-yellow-warning-in-place.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry one of the most likely places in the UK to see snow this Christmas](https://www.derrynow.com/resizer/165/93/true/GN4_DAT_11525182.jpg--.jpg "Derry one of the most likely places in the UK to see snow this Christmas")](https://www.derrynow.com/news/county-derry-post/1661262/derry-one-of-the-most-likely-places-in-the-uk-to-see-snow-this-christmas.html)
+[![The Bloody Sunday trust has stated that Derry is an Anti-Apartheid zone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Bloody Sunday trust has stated that Derry is an Anti-Apartheid zone")](https://www.derrynow.com/news/county-derry-post/1662248/the-bloody-sunday-trust-has-stated-that-derry-is-an-anti-apartheid-zone.html)
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Derry one of the most likely places in the UK to see snow this Christmas](https://www.derrynow.com/news/county-derry-post/1661262/derry-one-of-the-most-likely-places-in-the-uk-to-see-snow-this-christmas.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[The Bloody Sunday trust has stated that Derry is an Anti-Apartheid zone](https://www.derrynow.com/news/county-derry-post/1662248/the-bloody-sunday-trust-has-stated-that-derry-is-an-anti-apartheid-zone.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Four people returned for trial to Derry Crown Court on charge of affray](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Four people returned for trial to Derry Crown Court on charge of affray")](https://www.derrynow.com/news/newsletter-derrynow/1661378/four-people-returned-for-trial-to-derry-crown-court-on-charge-of-affray.html)
+[![Derry man pleads guilty to charge of sexual assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man pleads guilty to charge of sexual assault")](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
 
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Four people returned for trial to Derry Crown Court on charge of affray](https://www.derrynow.com/news/newsletter-derrynow/1661378/four-people-returned-for-trial-to-derry-crown-court-on-charge-of-affray.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry, celebrating winning the Best Choir Award 2024 at Dublin Ceoil in March.](https://www.derrynow.com/resizer/165/93/true/2024_11_21/EJ_and_Cameron_Crop_2-1732189500619.jpg--.jpg?1732189500637 "Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry, celebrating winning the Best Choir Award 2024 at Dublin Ceoil in March.")](https://www.derrynow.com/news/arts---entertainment/1661395/talented-derry-singer-in-semi-final-of-bbc-young-chorister-of-the-year.html)
-
-Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry, celebrating winning the Best Choir Award 2024 at Dublin Ceoil in March.
+Derry courthouse
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Talented Derry Singer in semi final of BBC Young Chorister of the Year](https://www.derrynow.com/news/arts---entertainment/1661395/talented-derry-singer-in-semi-final-of-bbc-young-chorister-of-the-year.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man pleads guilty to charge of sexual assault](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man who admitted charge of arson endangering life to be sentenced in January](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Man who admitted charge of arson endangering life to be sentenced in January")](https://www.derrynow.com/news/newsletter-derrynow/1662153/man-who-admitted-charge-of-arson-endangering-life-to-be-sentenced-in-january.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man who admitted charge of arson endangering life to be sentenced in January](https://www.derrynow.com/news/newsletter-derrynow/1662153/man-who-admitted-charge-of-arson-endangering-life-to-be-sentenced-in-january.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Craigbane set on making history for Derry GAA in Ulster championship final](https://www.derrynow.com/resizer/165/93/true/2024_10_12/Derry_Junior_Final_1-1728761228689.jpg--.jpg?1728761229885 "Craigbane set on making history for Derry GAA in Ulster championship final")](https://www.derrynow.com/news/county-derry-post/1662078/craigbane-set-on-making-history-for-derry-gaa-in-ulster-championship-final.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Craigbane set on making history for Derry GAA in Ulster championship final](https://www.derrynow.com/news/county-derry-post/1662078/craigbane-set-on-making-history-for-derry-gaa-in-ulster-championship-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![AIB GOAL Mile](https://www.derrynow.com/resizer/165/93/true/2024_11_22/AIB_GOAL_Mile-1732272879812.jpg--.jpg?1732272880513 "AIB GOAL Mile")](https://www.derrynow.com/news/home/1662092/aib-ni-calling-on-communities-to-step-up-for-the-2024-goal-mile.html)
+
+Pictured stepping up for the GOAL Mile, proudly supported by AIB, is Denise Curran and her husband Michael and their two children, Reece (aged 1) and Sienna (aged 2).
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[AIB NI calling on communities to ‘Step Up’ for the 2024 GOAL Mile](https://www.derrynow.com/news/home/1662092/aib-ni-calling-on-communities-to-step-up-for-the-2024-goal-mile.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Media Concierge launches £56.2m takeover move for National World](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_22/1732265704484_0.jpg--.jpg "Media Concierge launches £56.2m takeover move for National World")](https://www.derrynow.com/news/derry-news/1662108/media-concierge-launches-56-2m-takeover-move-for-national-world.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Media Concierge launches £56.2m takeover move for National World](https://www.derrynow.com/news/derry-news/1662108/media-concierge-launches-56-2m-takeover-move-for-national-world.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
