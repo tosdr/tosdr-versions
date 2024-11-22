@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/ea658575-830b-4cb1-895c-7820aae2f18f/20241121T151036/ea658575-830b-4cb1-895c-7820aae2f18f_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/ea658575-830b-4cb1-895c-7820aae2f18f/20241121T151036/ea658575-830b-4cb1-895c-7820aae2f18f_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-teen-last-seen-on-nov-20-2024-in-college-station-area/500-efbf8677-59e1-46f2-b799-81238c19adf4)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/c71896e3-4ae8-432b-814d-6beb5341812d/20241122T175826/c71896e3-4ae8-432b-814d-6beb5341812d_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/c71896e3-4ae8-432b-814d-6beb5341812d/20241122T175826/c71896e3-4ae8-432b-814d-6beb5341812d_360x203.jpg)](https://www.kagstv.com/article/news/crime/nov-21-2024-grimes-county-narcotics-search-warrant-arrests/500-6e40380d-490f-4e85-8c4e-561effa4d23f)
         
-        #### [Have you seen this person? Authorities seeking information on missing teen last seen in College Station](https://www.kagstv.com/article/news/local/missing-teen-last-seen-on-nov-20-2024-in-college-station-area/500-efbf8677-59e1-46f2-b799-81238c19adf4)
+        #### [Narcotics search leads to seizure of over 200 grams of illegal substances in Grimes County](https://www.kagstv.com/article/news/crime/nov-21-2024-grimes-county-narcotics-search-warrant-arrests/500-6e40380d-490f-4e85-8c4e-561effa4d23f)
         
-    *  [![](https://media.kagstv.com/assets/KAGS/images/c1e17186-410b-4de2-a15b-a11535cc085f/c1e17186-410b-4de2-a15b-a11535cc085f_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/c1e17186-410b-4de2-a15b-a11535cc085f/c1e17186-410b-4de2-a15b-a11535cc085f_360x203.jpg)](https://www.kagstv.com/article/traffic/train-pedestrian-crash-college-station-nov-21-2024/500-587515c8-c8ed-4854-9573-b7f0d5c4b98c)
+    *  [![](https://media.kagstv.com/assets/KAGS/images/e0cd799e-bfeb-41b3-8bb6-4f66cfe75eb4/20241122T141124/e0cd799e-bfeb-41b3-8bb6-4f66cfe75eb4_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/e0cd799e-bfeb-41b3-8bb6-4f66cfe75eb4/20241122T141124/e0cd799e-bfeb-41b3-8bb6-4f66cfe75eb4_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-a-m-u/texas-tribune-copy-texas-am-university-president-mark-welsh/499-d1720d4d-2ed0-402d-8b01-9fd290ef68b1)
         
-        #### [One hospitalized after train-pedestrian crash in College Station](https://www.kagstv.com/article/traffic/train-pedestrian-crash-college-station-nov-21-2024/500-587515c8-c8ed-4854-9573-b7f0d5c4b98c)
+        #### [A year into the job, Texas A&M president performs balancing act with growth, tuition, faculty and state leaders](https://www.kagstv.com/article/news/local/texas-a-m-u/texas-tribune-copy-texas-am-university-president-mark-welsh/499-d1720d4d-2ed0-402d-8b01-9fd290ef68b1)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-49°
+76°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
