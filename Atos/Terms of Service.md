@@ -70,9 +70,9 @@ Atos homepage](https://atos.net/en/)
         Atos Hybrid Cloud and Infrastructure Services
         ---------------------------------------------
         
-        [![Atos Hybrid Cloud brochure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://atos.net/wp-content/uploads/2024/02/atos-hybrid-cloud-and-infrastructure-services-brochure.pdf)
+        [![Atos Hybrid Cloud brochure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://atos.net/wp-content/uploads/2024/10/atos-hybrid-cloud-and-infrastructure-brochure.pdf)
         
-        [**Download the brochure >**](https://atos.net/wp-content/uploads/2024/02/atos-hybrid-cloud-and-infrastructure-services-brochure.pdf)
+        [**Download the brochure >**](https://atos.net/wp-content/uploads/2024/10/atos-hybrid-cloud-and-infrastructure-brochure.pdf)
         
     * Digital Business Platforms
         
@@ -169,7 +169,7 @@ Atos homepage](https://atos.net/en/)
         * [Reshaping employee experience with a data-driven digital workplace](https://atos.net/en/blog/reshaping-employee-experience-data-driven-digital-workplace)
         * [Modernize without compromise: Why hybrid cloud still matters](https://atos.net/en/blog/modernize-without-compromise-why-hybrid-cloud-still-matters)
         * [Ensure your virtual infrastructure is sustainable infrastructure](https://atos.net/en/blog/ensure-your-virtual-infrastructure-is-sustainable-infrastructure)
-        * [Creating connections with athlete engagement portals](https://atos.net/en/blog/experience-matters-creating-connections-with-athlete-engagement-portals)
+        * [AI in customer service operations: Automation and human empathy](https://atos.net/en/blog/ai-in-customer-service-operations-automation-and-human-empathy)
         
         [All articles](https://atos.net/en/blog)
         
