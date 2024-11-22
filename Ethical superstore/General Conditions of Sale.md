@@ -24,8 +24,8 @@ Customer Services Helpline
             * [Cooking Oils](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/oils/)
             * [Tinned Tomatoes & Veg](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/tinned-veg-and-pulses/)
             * [Soup](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/soup/)
-            * [Coconut](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/coconut/)
             * [Fish & Seafood](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/fish-and-seafood/)
+            * [Coconut](https://www.ethicalsuperstore.com/category/groceries-and-everyday/store-cupboard/coconut/)
         * [Pasta & Noodles](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/)
             * [Pasta](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/pasta/)
             * [Noodles](https://www.ethicalsuperstore.com/category/groceries-and-everyday/pasta-and-noodles/noodles/)
@@ -140,9 +140,9 @@ Customer Services Helpline
             
         * [Bin Bags & Foils](https://www.ethicalsuperstore.com/category/cleaning-and-household/bin-bags-and-foils/)
             
-        * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
-            
         * [Utility & DIY](https://www.ethicalsuperstore.com/category/cleaning-and-household/diy/)
+            
+        * [Tissues & Towels](https://www.ethicalsuperstore.com/category/cleaning-and-household/tissues-and-towels/)
             
         * [Shopping & Storage Bags](https://www.ethicalsuperstore.com/category/cleaning-and-household/shopping-and-storage-bags/)
             
@@ -266,8 +266,8 @@ Customer Services Helpline
             * [Nail Polish](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/make-up/nail-polish/)
         * [For Men](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/)
             * [Shaving](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/shaving/)
-            * [Skin Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/skin-care/)
             * [Bath & Shower](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/bath-and-shower/)
+            * [Skin Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/for-men/skin-care/)
         
         * [Dental Care](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/)
             * [Toothbrushes](https://www.ethicalsuperstore.com/category/beauty-health-and-wellbeing/dental-care/toothbrushes/)
@@ -409,8 +409,8 @@ You are here:
 
 You haven't viewed any products yet
 
-* [£10 Off £70\* - Use Code X10FES](https://www.ethicalsuperstore.com/christmas-24/)
-* [99p Standard Delivery\*](https://www.ethicalsuperstore.com/help-despatch-and-delivery/)
+* [Christmas Gift Shop](https://www.ethicalsuperstore.com/ethical-gifts/)
+* [Special Offers](https://www.ethicalsuperstore.com/special-offers/)
 * [Extended Christmas Returns](https://www.ethicalsuperstore.com/help-returns-and-refunds/)
 
 Help - Returns & Refunds
