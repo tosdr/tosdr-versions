@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [ТрюкМания: Гонки экстремалов](https://www.myabandonware.com/game/tryukmaniya-gonki-ekstremalov-tag)
+* [Pro-Race: Запредельная скорость](https://www.myabandonware.com/game/pro-race-zapredelnaya-skorost-tae)
 * [Стритрейсеры](https://www.myabandonware.com/game/stritreysery-tad)
 * [BlockBall Evolution](https://www.myabandonware.com/game/blockball-evolution-ta5)
 * [Ro(c)k Podvraťáků](https://www.myabandonware.com/game/ro-c-k-podvrataku-ta3)
-* [Pac-Mania](https://www.myabandonware.com/game/pac-mania-5nq)
-* [АвтоФэны: Заряженные скоростью](https://www.myabandonware.com/game/avtofeny-zaryazhennye-skorostyu-t9i)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
