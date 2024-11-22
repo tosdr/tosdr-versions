@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Private Alters­vorsorge: Mit Vorsorgebeiträgen Steuern sparen](https://www.test.de/Private-Altersvorsorge-Mit-Vorsorgebeitraegen-Steuern-sparen-5973366-0/ "Private Altersvorsorge - Mit Vorsorgebeiträgen Steuern sparen")
-* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
 
 Service Stiftung Warentest
 
