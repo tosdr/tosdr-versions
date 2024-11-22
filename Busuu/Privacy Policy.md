@@ -1,18 +1,6 @@
 PRIVACY POLICY
 ==============
 
-  
-We're updating our Privacy Policy to make it easier to read, be more transparent, and to reflect improvements we are making at Busuu. **These changes will come into effect on November 17, 2024, and your continued use of the Busuu service after this date will be subject to our updated Privacy Policy.**
-
-These changes include:  
-
-* The data controller for the Busuu service will change to our parent company, Chegg, Inc. This means that Chegg will process your personal data in accordance with the updated Privacy Policy.  
-    
-* We have consolidated two separate policies into one. You will now see a Supplemental Privacy Policy for Busuu along with a single Privacy Policy for all Chegg services.  
-    
-* The Supplemental Privacy Policy for Busuu provides information about some of the features that Busuu offers to help improve your pronunciation and conversation skills, including our use of artificial intelligence (AI) and machine learning (ML).  
-    
-
 **Supplemental Privacy Policy for Busuu**
 -----------------------------------------
 
