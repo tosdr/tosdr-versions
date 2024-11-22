@@ -1,5 +1,55 @@
 [](#)
 
+**BLACK FRIDAY OFFER: 99¢\* per Month for 2 Months!** Offer Ends 12/2/2024.\*Discounted price may vary internationally.
+
+[Learn More](https://www.wondrium.com/customer/plans)
+
+**BLACK FRIDAY OFFER: 99¢\* per Month for 2 Months!** Offer Ends 12/2/2024.\*Discounted price may vary internationally.
+
+[Learn More](https://www.wondrium.com/customer/plans)
+
+[](#)
+
+**BLACK FRIDAY OFFER: 99¢\* per Month for 2 Months!** Offer Ends 12/2/2024.\*Discounted price may vary internationally.
+
+[Learn More](https://www.wondrium.com/customer/plans)
+
+**BLACK FRIDAY OFFER: 99¢\* per Month for 2 Months!** Offer Ends 12/2/2024.\*Discounted price may vary internationally.
+
+[Learn More](https://www.wondrium.com/customer/plans)
+
+[](#)
+
+**BLACK FRIDAY OFFER: 99¢\* per Month for 2 Months!** Offer Ends 12/2/2024.\*Discounted price may vary internationally.
+
+[Learn More](https://www.wondrium.com/customer/plans)
+
+**BLACK FRIDAY OFFER: 99¢\* per Month for 2 Months!** Offer Ends 12/2/2024.\*Discounted price may vary internationally.
+
+[Learn More](https://www.wondrium.com/customer/plans)
+
+[](#)
+
+**BLACK FRIDAY OFFER: 99¢\* per Month for 2 Months!** Offer Ends 12/2/2024.\*Discounted price may vary internationally.
+
+[Learn More](https://www.wondrium.com/customer/plans)
+
+**BLACK FRIDAY OFFER: 99¢\* per Month for 2 Months!** Offer Ends 12/2/2024.\*Discounted price may vary internationally.
+
+[Learn More](https://www.wondrium.com/customer/plans)
+
+[](#)
+
+**BLACK FRIDAY OFFER: 99¢\* per Month for 2 Months!** Offer Ends 12/2/2024.\*Discounted price may vary internationally.
+
+[Learn More](https://www.wondrium.com/customer/plans)
+
+**BLACK FRIDAY OFFER: 99¢\* per Month for 2 Months!** Offer Ends 12/2/2024.\*Discounted price may vary internationally.
+
+[Learn More](https://www.wondrium.com/customer/plans)
+
+[](#)
+
 You updated your password.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
@@ -64,7 +114,7 @@ SHARE VIA EMAIL
     
 *   Search Programs, Episodes, experts 
     
-* [Start Free Trial](https://www.wondrium.com/customer/plans)
+* [Join Now](https://www.wondrium.com/customer/plans)
 * [Give a Gift](https://www.thegreatcoursesplus.com/gift/)
 * [Sign In](#)
 * [](https://www.thegreatcoursesplus.com/gift/cart/)
@@ -87,7 +137,7 @@ Sign In
 
 Start your free trial to unlock over 18,000 lectures from the world’s greatest professors and experts on history, science, philosophy, religion, literature, health, travel, and more.
 
-[Start Free Trial](https://www.wondrium.com/customer/plans)
+[Join Now](https://www.wondrium.com/customer/plans)
 
 #### Reset Password
 
