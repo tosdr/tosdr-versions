@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Who gave to Jeb Bush's gubernatorial campaigns?](/assets/Images/teasers/small/JebBushIndNonInd98-02.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-jeb-bush/)
+[![ThirdParty](/assets/logos/ThirdParty.png)](http://www.followthemoney.org/research/institute-research/third-party-candidates-face-long-odds)
 
-Jeb Bush: 55 percent of his gubernatorial contributions came from individuals.
+How many third-party candidates were successful 2000-2009?
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
