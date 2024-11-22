@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [what is the saddest song you've liste… (26)](https://forum.nationstates.net/viewtopic.php?t=558516&f=19&view=unread#unread ""what is the saddest song you've listened to?" (26 posts)")
-* [A Victory in the East (Alternate Hist… (3,826)](https://forum.nationstates.net/viewtopic.php?t=505022&f=31&view=unread#unread ""A Victory in the East (Alternate History RP/OOC) Open" (3,826 posts)")
-* [Passwords problem (9)](https://forum.nationstates.net/viewtopic.php?t=558577&f=15&view=unread#unread ""Passwords problem" (9 posts)")
-* [Ukrainian War VII: Everything has a p… (10,697)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (10,697 posts)")
-* [Tiami's Endless Tacos (765)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (765 posts)")
+* [Favorite line from AN's Factbooks II (12,054)](https://forum.nationstates.net/viewtopic.php?t=510652&f=25&view=unread#unread ""Favorite line from AN's Factbooks II" (12,054 posts)")
+* [Does Your Nation Support? (8,595)](https://forum.nationstates.net/viewtopic.php?t=524926&f=25&view=unread#unread ""Does Your Nation Support?" (8,595 posts)")
+* [\[For comments\] - Peddling Fake Degrees (9)](https://forum.nationstates.net/viewtopic.php?t=558610&f=9&view=unread#unread ""[For comments] - Peddling Fake Degrees" (9 posts)")
+* [American Politics: Turnabout Trump (6,066)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (6,066 posts)")
 
 Advertisement
 
