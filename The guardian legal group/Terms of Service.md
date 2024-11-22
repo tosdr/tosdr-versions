@@ -11,7 +11,7 @@ MENUMENU
     * [Blog](https://theguardianlegalnetwork.com/blog/)
     * [Frequently Asked Questions](https://theguardianlegalnetwork.com/faq/)
     * [Glossary](https://theguardianlegalnetwork.com/glossary/)
-* [Defective Drug Lawsuit](https://theguardianlegalnetwork.com/defective-drugs/)
+* [Defective Drugs](https://theguardianlegalnetwork.com/defective-drugs/)
     * [Belviq Lawsuit](https://theguardianlegalnetwork.com/defective-drugs/belviq/)
     * [Depo-Provera Birth Control Lawsuit](https://theguardianlegalnetwork.com/defective-drugs/depo-provera-birth-control/)
     * [Elmiron Lawsuit](https://theguardianlegalnetwork.com/defective-drugs/elmiron/)
@@ -34,6 +34,8 @@ MENUMENU
     * [Philips CPAP Machine Recall](https://theguardianlegalnetwork.com/defective-medical-devices/philips-cpap-machine/)
     * [PowerPort Lawsuit](https://theguardianlegalnetwork.com/defective-medical-devices/powerport-lawsuit/)
     * [Transvaginal Mesh Lawsuit](https://theguardianlegalnetwork.com/defective-medical-devices/transvaginal-mesh/)
+* [Denied Benefits](https://theguardianlegalnetwork.com/denied-benefits/)
+    * [Disability Insurance Lawsuit](https://theguardianlegalnetwork.com/denied-benefits/disability-insurance-lawsuit/)
 * [Product Liability](https://theguardianlegalnetwork.com/product-liability/)
     * [3M Earplugs Lawsuit](https://theguardianlegalnetwork.com/product-liability/3m-earplugs/)
     * [Dacthal Herbicide Lawsuit](https://theguardianlegalnetwork.com/product-liability/dacthal-herbicide-lawsuit/)
@@ -44,7 +46,7 @@ MENUMENU
     * [Paraquat Lawsuit](https://theguardianlegalnetwork.com/product-liability/paraquat/)
     * [Roundup Lawsuit](https://theguardianlegalnetwork.com/product-liability/monsanto-roundup/)
     * [Talcum Powder Lawsuit](https://theguardianlegalnetwork.com/product-liability/talcum-powder/)
-* [Personal Injury Lawsuits](https://theguardianlegalnetwork.com/personal-injury/)
+* [Personal Injury](https://theguardianlegalnetwork.com/personal-injury/)
     * [9/11 Victim Compensation Fund](https://theguardianlegalnetwork.com/personal-injury/9-11-victim-compensation-fund/)
     * [Asbestos Lawsuit](https://theguardianlegalnetwork.com/personal-injury/asbestos/)
     * [Auto Accident](https://theguardianlegalnetwork.com/personal-injury/auto-accident/)
@@ -178,7 +180,7 @@ _email_
 
 Select a Case Type
 
-Select a Case Type3M Earplugs9/11 Victim Compensation FundAuto Accident LawsuitBirth InjuryCamp LejeuneClergy AbuseDacthal Herbicide LawsuitDepo-Provera Birth Control LawsuitElmironFirefighting FoamHair Relaxer LawsuitHernia MeshMedical Malpractice LawsuitNEC Infant FormulaNursing Home AbuseParagardParaquatPFAS ContaminationPhilips CPAP MachinePowerportRoundupSemaglutideSexual Misconduct LawsuitSocial Media AddictionSunscreenTalcum PowderTexas StormTransvaginal MeshVideo Game AddictionXeljanzZantacOther
+Select a Case Type3M Earplugs9/11 Victim Compensation FundAuto Accident LawsuitBirth InjuryCamp LejeuneClergy AbuseDacthal Herbicide LawsuitDepo-Provera Birth Control LawsuitDisability Insurance LawsuitElmironFirefighting FoamHair Relaxer LawsuitHernia MeshMedical Malpractice LawsuitNEC Infant FormulaNursing Home AbuseParagardParaquatPFAS ContaminationPhilips CPAP MachinePowerportRoundupSemaglutideSexual Misconduct LawsuitSocial Media AddictionSunscreenTalcum PowderTexas StormTransvaginal MeshVideo Game AddictionXeljanzZantacOther
 
 Case Typecase type
 
