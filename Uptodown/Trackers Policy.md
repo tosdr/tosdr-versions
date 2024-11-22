@@ -121,7 +121,7 @@ LEGAL
 
 Uptodown Turbo
 
-Join our premium subscription service, enjoy exclusive features and support the project.
+Seize the promo and join our Premium service now!
 
 Subscribe
 
