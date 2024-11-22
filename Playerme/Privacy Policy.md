@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/stardew-valley-concert-symphony-of-seasons-returns/)
+    [](https://player.me/guntouchables-is-launching-early-access-in-spring-2025/)
     
-    ![Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Guntouchables, An Online Co-Op Shooter Title by Ghost Ship Publishing, Is Launching Early Access in Spring 2025](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/stardew-valley-concert-symphony-of-seasons-returns/)
+    [](https://player.me/guntouchables-is-launching-early-access-in-spring-2025/)
     
-    ![Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Guntouchables, An Online Co-Op Shooter Title by Ghost Ship Publishing, Is Launching Early Access in Spring 2025](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Guntouchables, An Online Co-Op Shooter Title by Ghost Ship Publishing, Is Launching Early Access in Spring 2025](https://player.me/wp-content/uploads/2024/11/Guntouchables-An-Online-Co-Op-Shooter-Title-by-Ghost-Ship-Publishing-Is-Launching-Early-Access-in-Spring-2025-1.png)
+
+[Guntouchables, An Online Co-Op Shooter Title by Ghost Ship Publishing, Is Launching Early Access in Spring 2025](https://player.me/guntouchables-is-launching-early-access-in-spring-2025/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 22, 2024/
+
+The creators of the acclaimed cooperative shooter Deep Rock Galactic, Ghost Ship Games, have unveiled their next venture, Guntouchables, in…
+
+[Read More](https://player.me/guntouchables-is-launching-early-access-in-spring-2025/)
+
+![Platypus Reclayed, A Remake of the Original Platypus Game in 2002, Is Launching in 2025](https://player.me/wp-content/uploads/2024/11/Platypus-Reclayed-A-Remake-of-the-Original-Platypus-Game-in-2002-Is-Launching-in-2025.png)
+
+[Platypus Reclayed, A Remake of the Original Platypus Game in 2002, Is Launching in 2025](https://player.me/platypus-reclayed-is-launching-in-2025/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 22, 2024/
+
+The wait is over for fans of the classic indie shoot ’em up Platypus! After over twenty years, the cult-favorite…
+
+[Read More](https://player.me/platypus-reclayed-is-launching-in-2025/)
+
 ![Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026](https://player.me/wp-content/uploads/2024/11/Stardew-Valley-Concert-Symphony-of-Seasons-Runs-From-2025-to-2026.png)
 
 [Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026](https://player.me/stardew-valley-concert-symphony-of-seasons-returns/)
@@ -218,32 +244,6 @@ November 19, 2024/
 The Game Awards 2024, one of the most prestigious annual events in gaming, is set to take place on Thursday,…
 
 [Read More](https://player.me/the-game-awards-2024-nominees-complete-list/)
-
-![Ranking the 10 Best ARPG to Play in 2024 and Beyond](https://player.me/wp-content/uploads/2024/11/Ranking-the-10-Best-ARPG-to-Play-in-2024-and-Beyond.png)
-
-[Ranking the 10 Best ARPG to Play in 2024 and Beyond](https://player.me/ranking-the-10-best-arpg-to-play-in-2024-and-beyond/)
-
-
----------------------------------------------------------------------------------------------------------------------------------
-
-November 18, 2024/
-
-Action Role-Playing Games (ARPGs) offer a unique blend of fast-paced combat, immersive gameplay, and the satisfying loop of looting and…
-
-[Read More](https://player.me/ranking-the-10-best-arpg-to-play-in-2024-and-beyond/)
-
-![SOGA Studio’s New Weldiver Underwater Simulation Game, Releasing in Q2 2025, Is Like a Mix Between Subnautica and The Forest](https://player.me/wp-content/uploads/2024/11/SOGA-Studios-New-Weldiver-Underwater-Simulation-Game-Releasing-in-Q2-2025.png)
-
-[SOGA Studio’s New Weldiver Underwater Simulation Game, Releasing in Q2 2025, Is Like a Mix Between Subnautica and The Forest](https://player.me/weldiver-underwater-simulation-game-is-releasing-in-2025/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 18, 2024/
-
-SOGA Studio, an indie developer known for innovative and heartfelt projects, has unveiled a new title that promises to immerse…
-
-[Read More](https://player.me/weldiver-underwater-simulation-game-is-releasing-in-2025/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Guntouchables, An Online Co-Op Shooter Title by Ghost Ship Publishing, Is Launching Early Access in Spring 2025](https://player.me/wp-content/uploads/2024/11/Guntouchables-An-Online-Co-Op-Shooter-Title-by-Ghost-Ship-Publishing-Is-Launching-Early-Access-in-Spring-2025-1.png)
+
+[Guntouchables, An Online Co-Op Shooter Title by Ghost Ship Publishing, Is Launching Early Access in Spring 2025](https://player.me/guntouchables-is-launching-early-access-in-spring-2025/)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 22, 2024/
+
+The creators of the acclaimed cooperative shooter Deep Rock Galactic, Ghost Ship Games, have unveiled their next venture, Guntouchables, in…
+
+[Read More](https://player.me/guntouchables-is-launching-early-access-in-spring-2025/)
+
+![Platypus Reclayed, A Remake of the Original Platypus Game in 2002, Is Launching in 2025](https://player.me/wp-content/uploads/2024/11/Platypus-Reclayed-A-Remake-of-the-Original-Platypus-Game-in-2002-Is-Launching-in-2025.png)
+
+[Platypus Reclayed, A Remake of the Original Platypus Game in 2002, Is Launching in 2025](https://player.me/platypus-reclayed-is-launching-in-2025/)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 22, 2024/
+
+The wait is over for fans of the classic indie shoot ’em up Platypus! After over twenty years, the cult-favorite…
+
+[Read More](https://player.me/platypus-reclayed-is-launching-in-2025/)
+
 ![Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026](https://player.me/wp-content/uploads/2024/11/Stardew-Valley-Concert-Symphony-of-Seasons-Runs-From-2025-to-2026.png)
 
 [Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026](https://player.me/stardew-valley-concert-symphony-of-seasons-returns/)
@@ -379,32 +405,6 @@ November 18, 2024/
 SOGA Studio, an indie developer known for innovative and heartfelt projects, has unveiled a new title that promises to immerse…
 
 [Read More](https://player.me/weldiver-underwater-simulation-game-is-releasing-in-2025/)
-
-![Avowed Is Launching on February 18, 2025, with Early Access Planned for Premium Edition Players](https://player.me/wp-content/uploads/2024/11/Launching-on-February-18-2025.png)
-
-[Avowed Is Launching on February 18, 2025, with Early Access Planned for Premium Edition Players](https://player.me/avowed-is-launching-on-february-18-2025/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 15, 2024/
-
-Avowed, the highly anticipated first-person RPG developed by Obsidian Entertainment is launching on February 18, 2025, for PC and Xbox…
-
-[Read More](https://player.me/avowed-is-launching-on-february-18-2025/)
-
-![Infinity Nikki Release Date Set on December 5: Everything to Know About the 30 Million Pre-Register Cozy Game](https://player.me/wp-content/uploads/2024/11/Infinity-Nikki-Release-Date-Set-on-December-5.png)
-
-[Infinity Nikki Release Date Set on December 5: Everything to Know About the 30 Million Pre-Register Cozy Game](https://player.me/infinity-nikki-release-date-set-on-december-5/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 15, 2024/
-
-After months of eager anticipation, Infinity Nikki, an open-world dress-up game, is finally set for release on December 5, 2024,…
-
-[Read More](https://player.me/infinity-nikki-release-date-set-on-december-5/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Diversify. This was the motto for Apple after the US-China trade ties soured and
 
 player.me
 
+[](https://player.me/guntouchables-is-launching-early-access-in-spring-2025/ "Guntouchables, An Online Co-Op Shooter Title by Ghost Ship Publishing, Is Launching Early Access in Spring 2025")
+
+[Guntouchables, An Online Co-Op Shooter Title by Ghost Ship Publishing, Is Launching Early Access in Spring 2025](https://player.me/guntouchables-is-launching-early-access-in-spring-2025/)
+
+November 22, 2024
+
+[](https://player.me/platypus-reclayed-is-launching-in-2025/ "Platypus Reclayed, A Remake of the Original Platypus Game in 2002, Is Launching in 2025")
+
+[Platypus Reclayed, A Remake of the Original Platypus Game in 2002, Is Launching in 2025](https://player.me/platypus-reclayed-is-launching-in-2025/)
+
+November 22, 2024
+
 [](https://player.me/stardew-valley-concert-symphony-of-seasons-returns/ "Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026")
 
 [Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026](https://player.me/stardew-valley-concert-symphony-of-seasons-returns/)
@@ -853,22 +865,10 @@ November 19, 2024
 
 November 19, 2024
 
-[](https://player.me/ranking-the-10-best-arpg-to-play-in-2024-and-beyond/ "Ranking the 10 Best ARPG to Play in 2024 and Beyond")
-
-[Ranking the 10 Best ARPG to Play in 2024 and Beyond](https://player.me/ranking-the-10-best-arpg-to-play-in-2024-and-beyond/)
-
-November 18, 2024
-
-[](https://player.me/weldiver-underwater-simulation-game-is-releasing-in-2025/ "SOGA Studio’s New Weldiver Underwater Simulation Game, Releasing in Q2 2025, Is Like a Mix Between Subnautica and The Forest")
-
-[SOGA Studio’s New Weldiver Underwater Simulation Game, Releasing in Q2 2025, Is Like a Mix Between Subnautica and The Forest](https://player.me/weldiver-underwater-simulation-game-is-releasing-in-2025/)
-
-November 18, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 582,653 times, 16 visit(s) today
+Visited 582,809 times, 172 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
