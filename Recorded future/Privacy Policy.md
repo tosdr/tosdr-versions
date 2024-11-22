@@ -22,7 +22,7 @@ Privacy Policy
 
 _View the most recent [archived version](https://www.recordedfuture.com/privacy-policy/4-0)._
 
-_**Version 4.0 — Updated December 5th, 2023**_
+_**Version 4.0 — Updated November 22nd, 2024**_
 
 Recorded Future is the world’s most comprehensive and independent threat intelligence cloud platform. It enables organizations to identify and mitigate threats across cyber, supply-chain, physical, and fraud domains. It is trusted by organizations to provide real-time, unbiased and actionable intelligence.
 
@@ -261,7 +261,7 @@ In compliance with the DPFs, Recorded Future commits to refer unresolved complai
 
 If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution) for more information or to file a complaint. The services of JAMS are provided at no cost to you.
 
-You have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other mechanisms set out in this DPF Notice or our Privacy Policy. For more information, please see Annex 1 of the DPF Principles, available [here](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2).
+You have the possibility, under certain conditions, to invoke binding arbitration for complaints regarding DPF compliance not resolved by any of the other mechanisms set out in this DPF Notice or our Privacy Policy. For more information, please see Annex 1 of the DPF Principles, available [here](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction).
 
 The Federal Trade Commission has jurisdiction over Recorded Future’s compliance with the EU-US Data Privacy Framework (EU-US DPF) and the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (Swiss-US DPF). We may be required to disclose personal information we receive under the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
