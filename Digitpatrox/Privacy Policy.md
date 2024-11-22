@@ -20,16 +20,16 @@ Friday, November 22 2024
 
 Latest
 
-* [Google faces scrutiny as DuckDuckGo calls for fresh EU probes into compliance – Computerworld](https://digitpatrox.com/google-faces-scrutiny-as-duckduckgo-calls-for-fresh-eu-probes-into-compliance-computerworld/)
-* [The Best Deals From Amazon’s Black Friday Sale So Far](https://digitpatrox.com/the-best-deals-from-amazons-black-friday-sale-so-far/)
-* [How to Choose and Use the Right Bike Rack](https://digitpatrox.com/how-to-choose-and-use-the-right-bike-rack/)
-* [What Is Latency in Audio and Does It Matter for Gaming, Movies, and Music?](https://digitpatrox.com/what-is-latency-in-audio-and-does-it-matter-for-gaming-movies-and-music/)
-* [Apple Patches Two Zero-Day Attack Vectors](https://digitpatrox.com/apple-patches-two-zero-day-attack-vectors/)
-* [I’m a Black Friday mattress deals expert — what I recommend buying this year](https://digitpatrox.com/im-a-black-friday-mattress-deals-expert-what-i-recommend-buying-this-year/)
-* [Chinese hackers target Linux with new WolfsBane malware](https://digitpatrox.com/chinese-hackers-target-linux-with-new-wolfsbane-malware/)
-* [Snap says New Mexico intentionally friended alleged child predators, then blamed the company](https://digitpatrox.com/snap-says-new-mexico-intentionally-friended-alleged-child-predators-then-blamed-the-company/)
-* [Deadlock Patch Notes (November 21): Matchmaking Rework, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-november-21-matchmaking-rework-buffs-nerfs-other-changes/)
-* [Will new Apple Pay oversight make Apple Bank a good idea? – Computerworld](https://digitpatrox.com/will-new-apple-pay-oversight-make-apple-bank-a-good-idea-computerworld/)
+* [FCC passes auto safety spectrum rules](https://digitpatrox.com/fcc-passes-auto-safety-spectrum-rules/)
+* [Honkai Star Rail Sunday: Kit, Eidolons & Signature Light Cone](https://digitpatrox.com/honkai-star-rail-sunday-kit-eidolons-signature-light-cone/)
+* [HPE Discover Barcelona: What’s the business benefit of supercomputers?](https://digitpatrox.com/hpe-discover-barcelona-whats-the-business-benefit-of-supercomputers/)
+* [AI agents are unlike any technology ever – Computerworld](https://digitpatrox.com/ai-agents-are-unlike-any-technology-ever-computerworld/)
+* [Why the DOJ Wants Google to Sell Chrome (and How It Might Affect You)](https://digitpatrox.com/why-the-doj-wants-google-to-sell-chrome-and-how-it-might-affect-you/)
+* [Smart Appliances Could Expose Your WiFi to Hacking Risks](https://digitpatrox.com/smart-appliances-could-expose-your-wifi-to-hacking-risks/)
+* [5 Ways to Improve Your TV’s Sound Without a Full Sound System](https://digitpatrox.com/5-ways-to-improve-your-tvs-sound-without-a-full-sound-system/)
+* [Key Differences for Startup Success](https://digitpatrox.com/key-differences-for-startup-success/)
+* [Netflix just dropped a new Christmas movie — and it’s already grabbed the No. 1 spot](https://digitpatrox.com/netflix-just-dropped-a-new-christmas-movie-and-its-already-grabbed-the-no-1-spot/)
+* [Over 2,000 Palo Alto firewalls hacked using recently patched bugs](https://digitpatrox.com/over-2000-palo-alto-firewalls-hacked-using-recently-patched-bugs/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3610220-0-98541600-1732186270-shutterstock_2252004599.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/google-faces-scrutiny-as-duckduckgo-calls-for-fresh-eu-probes-into-compliance-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/LkXbMw6BwFq1t-UwdzV1c5-RJBQ=/0x0:682x366/1200x628/filters:focal(341x183:342x184)/cdn.vox-cdn.com/uploads/chorus_asset/file/24035514/Fcyv3EnWQAEQFMm.png)](https://digitpatrox.com/fcc-passes-auto-safety-spectrum-rules/)
     
-    [Google faces scrutiny as DuckDuckGo calls for fresh EU probes into compliance – Computerworld](https://digitpatrox.com/google-faces-scrutiny-as-duckduckgo-calls-for-fresh-eu-probes-into-compliance-computerworld/)
+    [FCC passes auto safety spectrum rules](https://digitpatrox.com/fcc-passes-auto-safety-spectrum-rules/)
     
-    54 minutes ago
+    5 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JD83531D9GT35GC5E3353TQB/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-deals-from-amazons-black-friday-sale-so-far/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/Sunday-Honkai-Star-Rail-Drip-Marketing.jpg)](https://digitpatrox.com/honkai-star-rail-sunday-kit-eidolons-signature-light-cone/)
     
-    [The Best Deals From Amazon’s Black Friday Sale So Far](https://digitpatrox.com/the-best-deals-from-amazons-black-friday-sale-so-far/)
+    [Honkai Star Rail Sunday: Kit, Eidolons & Signature Light Cone](https://digitpatrox.com/honkai-star-rail-sunday-kit-eidolons-signature-light-cone/)
     
-    1 hour ago
+    21 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1653067038/prod/content/dam/CRO-Images-2022/Cars/05May/CR-Cars-InlineHero-Hanging-Bike-Rack-MM-Allen-9309-5-22)](https://digitpatrox.com/how-to-choose-and-use-the-right-bike-rack/)
+* [![](https://cdn.mos.cms.futurecdn.net/ANxVNEo3cUg79ke7PYkDoQ-1200-80.jpg)](https://digitpatrox.com/hpe-discover-barcelona-whats-the-business-benefit-of-supercomputers/)
     
-    [How to Choose and Use the Right Bike Rack](https://digitpatrox.com/how-to-choose-and-use-the-right-bike-rack/)
-    
-    2 hours ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/untitled-design.png)](https://digitpatrox.com/what-is-latency-in-audio-and-does-it-matter-for-gaming-movies-and-music/)
-    
-    [What Is Latency in Audio and Does It Matter for Gaming, Movies, and Music?](https://digitpatrox.com/what-is-latency-in-audio-and-does-it-matter-for-gaming-movies-and-music/)
+    [HPE Discover Barcelona: What’s the business benefit of supercomputers?](https://digitpatrox.com/hpe-discover-barcelona-whats-the-business-benefit-of-supercomputers/)
     
     2 hours ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241121-apple-patches-zero-day-vulnerabilities.jpg)](https://digitpatrox.com/apple-patches-two-zero-day-attack-vectors/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3608973-0-10586200-1732273399-Swarm2.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/ai-agents-are-unlike-any-technology-ever-computerworld/)
     
-    [Apple Patches Two Zero-Day Attack Vectors](https://digitpatrox.com/apple-patches-two-zero-day-attack-vectors/)
+    [AI agents are unlike any technology ever – Computerworld](https://digitpatrox.com/ai-agents-are-unlike-any-technology-ever-computerworld/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JD8484BZRB9C48TR4Y9RV6BZ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/why-the-doj-wants-google-to-sell-chrome-and-how-it-might-affect-you/)
+    
+    [Why the DOJ Wants Google to Sell Chrome (and How It Might Affect You)](https://digitpatrox.com/why-the-doj-wants-google-to-sell-chrome-and-how-it-might-affect-you/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [54 minutes ago
+* [5 minutes ago
     
-    ### Google faces scrutiny as DuckDuckGo calls for fresh EU probes into compliance – Computerworld](https://digitpatrox.com/google-faces-scrutiny-as-duckduckgo-calls-for-fresh-eu-probes-into-compliance-computerworld/)
-* [1 hour ago
+    ### FCC passes auto safety spectrum rules](https://digitpatrox.com/fcc-passes-auto-safety-spectrum-rules/)
+* [21 minutes ago
     
-    ### The Best Deals From Amazon’s Black Friday Sale So Far](https://digitpatrox.com/the-best-deals-from-amazons-black-friday-sale-so-far/)
+    ### Honkai Star Rail Sunday: Kit, Eidolons & Signature Light Cone](https://digitpatrox.com/honkai-star-rail-sunday-kit-eidolons-signature-light-cone/)
 * [2 hours ago
     
-    ### How to Choose and Use the Right Bike Rack](https://digitpatrox.com/how-to-choose-and-use-the-right-bike-rack/)
+    ### HPE Discover Barcelona: What’s the business benefit of supercomputers?](https://digitpatrox.com/hpe-discover-barcelona-whats-the-business-benefit-of-supercomputers/)
 
 Most Popular Topics
 
-* [September 4, 2024
+* [October 12, 2024
     
-    ### Listeria Outbreak Linked to Deli Meat, CDC Says](https://digitpatrox.com/listeria-outbreak-linked-to-deli-meat-cdc-says/)
+    ### Today’s Wordle Answer and Hints (October 12, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-12-2024/)
 * [3 weeks ago
     
-    ### Samsung Galaxy Tab S10 Ultra review](https://digitpatrox.com/samsung-galaxy-tab-s10-ultra-review/)
-* [August 20, 2024
+    ### 8K Will Never Be a Thing, Stop Trying to Make it a Thing](https://digitpatrox.com/8k-will-never-be-a-thing-stop-trying-to-make-it-a-thing/)
+* [3 weeks ago
     
-    ### How to troubleshoot a Windows PC that won’t boot](https://digitpatrox.com/how-to-troubleshoot-a-windows-pc-that-wont-boot/)
+    ### Miniot’s split-flap clock is what nostalgia sounds like](https://digitpatrox.com/miniots-split-flap-clock-is-what-nostalgia-sounds-like/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Chinese hackers target Linux with new WolfsBane malware](https://digitpatrox.com/chinese-hackers-target-linux-with-new-wolfsbane-malware/)
+    ### 5 Ways to Improve Your TV’s Sound Without a Full Sound System](https://digitpatrox.com/5-ways-to-improve-your-tvs-sound-without-a-full-sound-system/)
 * [4 hours ago
     
-    ### Snap says New Mexico intentionally friended alleged child predators, then blamed the company](https://digitpatrox.com/snap-says-new-mexico-intentionally-friended-alleged-child-predators-then-blamed-the-company/)
+    ### Key Differences for Startup Success](https://digitpatrox.com/key-differences-for-startup-success/)
 * [4 hours ago
     
-    ### Deadlock Patch Notes (November 21): Matchmaking Rework, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-november-21-matchmaking-rework-buffs-nerfs-other-changes/)
+    ### Netflix just dropped a new Christmas movie — and it’s already grabbed the No. 1 spot](https://digitpatrox.com/netflix-just-dropped-a-new-christmas-movie-and-its-already-grabbed-the-no-1-spot/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 12, 2024
+* [August 13, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
