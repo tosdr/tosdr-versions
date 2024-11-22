@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [NARUTO TO BORUTO: SHINOBI STRIKER welcomes Naruto Uzumaki (Young Version)](https://en.bandainamcoent.eu/naruto/news/naruto-boruto-shinobi-striker-welcomes-naruto-uzumaki-young-version)
 * [A new DLC and Free Update #4 for Jujutsu Kaisen Cursed Clash released today!](https://en.bandainamcoent.eu/jujutsu-kaisen/news/new-dlc-and-free-update-4-jujutsu-kaisen-cursed-clash-released-today)
-* [ARMORED CORE VI FIRES OF RUBICON - Ranked Match Season Update Notice (November 2024)](https://en.bandainamcoent.eu/armored-core/news/armored-core-vi-fires-of-rubicon-ranked-match-season-update-notice-november-2024)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
