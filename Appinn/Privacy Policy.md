@@ -257,7 +257,7 @@
 
 [提问](https://meta.appinn.net/c/wen-ti-qiu-zhu/7)
 
-任何问题都可以
+找软件、找应用、问问题
 
 ### 关注我们
 
