@@ -36,18 +36,18 @@
         
         Amazon and Audible flooded with 'forex trading' and warez listings](https://www.bleepingcomputer.com/news/security/amazon-and-audible-flooded-with-forex-trading-and-warez-listings/)
     
-    * [![Microsoft pulls WinAppSDK update breaking Windows 10 app uninstalls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Windows 11 KB5046740 update released with 14 changes and fixes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft pulls WinAppSDK update breaking Windows 10 app uninstalls](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-winappsdk-update-breaking-windows-10-app-uninstalls/)
-    * [![CISA says BianLian ransomware now focuses only on data theft](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows 11 KB5046740 update released with 14 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5046740-update-released-with-14-changes-and-fixes/)
+    * [![Chinese hackers target Linux with new WolfsBane malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CISA says BianLian ransomware now focuses only on data theft](https://www.bleepingcomputer.com/news/security/cisa-says-bianlian-ransomware-now-focuses-only-on-data-theft/)
-    * [![Microsoft disrupts ONNX phishing-as-a-service infrastructure](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Chinese hackers target Linux with new WolfsBane malware](https://www.bleepingcomputer.com/news/security/chinese-gelsemium-hackers-use-new-wolfsbane-linux-malware/)
+    * [![Over 2,000 Palo Alto firewalls hacked using recently patched bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft disrupts ONNX phishing-as-a-service infrastructure](https://www.bleepingcomputer.com/news/security/microsoft-disrupts-onnx-phishing-as-a-service-infrastructure/)
-    * [![US seizes PopeyeTools cybercrime marketplace, charges administrators](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Over 2,000 Palo Alto firewalls hacked using recently patched bugs](https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/)
+    * [![This AdGuard deal gives you ad-free internet for the whole family](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        US seizes PopeyeTools cybercrime marketplace, charges administrators](https://www.bleepingcomputer.com/news/legal/us-seizes-popeyetools-cybercrime-marketplace-charges-administrators/)
+        This AdGuard deal gives you ad-free internet for the whole family](https://www.bleepingcomputer.com/offer/deals/this-adguard-deal-gives-you-ad-free-internet-for-the-whole-family/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
