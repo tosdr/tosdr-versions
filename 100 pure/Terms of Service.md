@@ -794,11 +794,11 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2410 reviews (2410)
+2414 reviews (2414)
 
 $28.00 $28.00
 
-Dark Chocolate - $28 Black Tea - $28 Blackberry - $28
+Dark Chocolate - $28 Blackberry - $28 Black Tea - $28
 
 Black Tea
 
@@ -806,7 +806,7 @@ Blackberry
 
 Dark Chocolate
 
-[NOTIFY ME](#-338769739800)
+ADD TO TOTE
 
 CHOOSE Color
 
@@ -1058,20 +1058,6 @@ Default Title - $45
 
 ADD TO TOTE
 
-[![green-tea-egcg-concentrate-cream](https://www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_239x254.webp?v=1725380733)](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
-
-![ Green Tea EGCG Concentrate Cream](//www.100percentpure.com/cdn/shop/files/1FEGCGCC_Green_Tea_EGCG_Concentrate_Cream_Primary_6f98d162-56fd-4d08-9d5a-703d2ea902e6_220x.webp?v=1725380733)
-
-### [Green Tea EGCG Concentrate Cream](https://www.100percentpure.com/products/green-tea-egcg-concentrate-cream)
-
-697 reviews (697)
-
-$48.00
-
-Default Title - $48
-
-ADD TO TOTE
-
 [![Featured](https://www.100percentpure.com/cdn/shop/files/Awards-2024-global-green-beauty-silver.png?crop=center&height=85&v=1725096491&width=85)](https://www.100percentpure.com/products/hydra-drench-cream)
 
 [![hydra-drench-cream](https://www.100percentpure.com/cdn/shop/files/1FHDC_Hydra_Drench_Cream_Primary_239x254.png?v=1696526624)](https://www.100percentpure.com/products/hydra-drench-cream)
@@ -1178,7 +1164,7 @@ CHOOSE Color
 
 ### [Coffee Bean Caffeine Restorative Moisturizer](https://www.100percentpure.com/products/coffee-bean-caffeine-restorative-moisturizer)
 
-125 reviews (125)
+127 reviews (127)
 
 $55.00
 
