@@ -228,11 +228,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
 [Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
+[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -248,7 +248,7 @@ this week
 
 [Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
 
-[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
   
 
