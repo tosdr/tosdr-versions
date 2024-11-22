@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you for FoxyProxy. I have now purchased for an additional year.
+I found foxy proxy to be fantastic in it's speed compared to other proxies. Furthermore, finding a legit proxy was difficult and so having both advantages in one package was great.
 
-Ray Brown
+Nick Bruce
