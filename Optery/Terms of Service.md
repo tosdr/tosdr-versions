@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[🏆Cybersecurity Excellence Award Winner for Employee Privacy Protection and Attack Surface Management🙏](https://www.optery.com/optery-wins-2024-cybersecurity-excellence-award/)
+[🏆Optery Named Top InfoSec Innovator Award Winner for Attack Surface Management by Cyber Defense Magazine for 2024🙏](https://www.optery.com/optery-top-infosec-innovator-2024-attack-surface-management/)
 
 [![Optery logo](https://www.optery.com/wp-content/themes/theme-optery/theme/images/optery_logo.svg)](https://www.optery.com/)
 
