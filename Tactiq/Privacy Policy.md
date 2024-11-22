@@ -284,7 +284,7 @@ Summary of updates:
 
 ###### Product  
 
-[How it works](https://tactiq.io/howitworks)[Integrations](https://tactiq.io/integrations)[Pricing](https://tactiq.io/buy)[Vision](https://tactiq.io/vision)[Impact](https://tactiq.io/impact)[Customer meetings](https://tactiq.io/use-cases/customer-meetings)[Team meetings](https://tactiq.io/use-cases/team-meetings)[Workflows
+[How it works](https://tactiq.io/howitworks)[Integrations](https://tactiq.io/integrations)[Pricing](https://tactiq.io/buy)[Enterprise](https://tactiq.io/enterprise)[Vision](https://tactiq.io/vision)[Impact](https://tactiq.io/impact)[Customer meetings](https://tactiq.io/use-cases/customer-meetings)[Team meetings](https://tactiq.io/use-cases/team-meetings)[Workflows
 
 New](https://tactiq.io/workflows)
 
