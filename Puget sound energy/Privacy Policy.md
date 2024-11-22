@@ -359,7 +359,15 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Storm alert Updated Nov 22, 6:00 AM](#collapseOne)  
+[Outage Map Alert Updated Nov 22, 12:00 PM](#collapseOne)  
+
+We are aware of an issue with our outage map. It is not reflecting all of the customers whose power has been restored, and is not showing a set of customers who are still without power. Our internal systems for identifying outages and prioritizing restorations are still functioning. The map issue appears to stem from a technology change-over for the mapping system that was implemented this fall.
+
+We know it is frustrating for our customers and we are working hard to reconcile the data showing on the map. We ask that you continue to report outages if needed.
+
+Our crews will continue to work around the clock until the last customer is restored.
+
+[Storm alert Updated Nov 22, 10:40 AM](#collapseOne)  
 
 November Wind Storm
 -------------------
@@ -376,6 +384,8 @@ We understand it can be frustrating waking up to continued power outages in the 
 PSE will have two info resource hubs where customers can get basic support, including charging for small devices, Wi-Fi, water, coffee, light snacks and information from PSE staff. Please note that these staff have the same restoration information available as the outage map and cannot provide individualized customer restoration info.
 
 **Hours are: 10-5, Friday, November 22**
+
+Note: We are working to get our vendor on site, we apologize for the delay and are working as hard as we can to get our hubs up and running.
 
 **In the parking lots of the following locations:**
 
