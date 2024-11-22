@@ -199,7 +199,3 @@ Light Mode
 Dark Mode
 
 * Website made with 💙 by [Jessica Tate](https://jessicatate.com/) & [Sam Alexander](https://extendedplay.io/ "Fractional CTO for Creative Folk")
-
-           
-
-Our website uses cookies, both our own and from third parties, to improve our content and your experience on the site. For more information, please read the cookie section of our Privacy Policy.[I understand](#)[Privacy Policy](https://www.innersloth.com/privacy-policy/)
