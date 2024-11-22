@@ -95,6 +95,11 @@
     
     [See All](https://www.coolthings.com/house/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/kayuso-quick-defrosting-box-fast-safe-thawing-fan-uv-light/)
+    
+    [Kayuso Quick Defrosting Box Gives You a Fast, Safe, and Nutrient-Preserving Way To Thaw Any Frozen Food](https://www.coolthings.com/kayuso-quick-defrosting-box-fast-safe-thawing-fan-uv-light/)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-kitchen-gifts-for-the-avid-home-cook/)
     
     [The Best Kitchen Gifts for the Avid Home Cook](https://www.coolthings.com/the-best-kitchen-gifts-for-the-avid-home-cook/)
@@ -104,11 +109,6 @@
     
     [Anova Precision Oven 2.0 Improves the Countertop Combi Oven with Guided Cooking and Other Smart Features](https://www.coolthings.com/anova-precision-oven-2-0-smart-combi-oven-guided-cooking-steam-cooking/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-blackout-curtains-to-keep-out-sunlight-car-lights-and-more/)
-    
-    [The Best Blackout Curtains to Keep Out Sunlight, Car Lights, and More](https://www.coolthings.com/the-best-blackout-curtains-to-keep-out-sunlight-car-lights-and-more/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
