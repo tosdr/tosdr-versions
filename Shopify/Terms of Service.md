@@ -645,7 +645,7 @@ Shopify
 
 * [About](https://www.shopify.com/about)
 * [Careers](https://www.shopify.com/careers)
-* [Investors](https://investors.shopify.com/home/default.aspx)
+* [Investors](https://shopifyinvestors.com/home/default.aspx)
 * [Press and Media](https://www.shopify.com/news)
 * [Partners](https://www.shopify.com/partners)
 * [Affiliates](https://www.shopify.com/affiliates)
