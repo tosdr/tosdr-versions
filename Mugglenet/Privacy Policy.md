@@ -302,15 +302,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Natalie McDonald, who appeared in Harry Potter and Goblet of Fire, is named after a real girl who was dying of leukemia.
+Nicholas Flamel was a real person who made it his life’s work to try to create a Philosopher’s Stone after learning about alchemy.
 
 ### Potter History
 
-March 27, 2012 – The Harry Potter e-books are released exclusively on the Pottermore Shop.
+July 23, 2010 – StarKid releases A Very Potter Sequel on their YouTube account.
 
 ### Potter Quote
 
-“Sadly, accidental rudeness occurs alarmingly often. Best to say nothing at all, my dear man.”
+“Pathetic! With the whole wide world of ear-related humor before you, you go for holey?”
 
 [](#)
 
