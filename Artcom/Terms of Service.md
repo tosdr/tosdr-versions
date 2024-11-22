@@ -1,12 +1,12 @@
 Shop Now
 
-20% Off on Orders $99+ Ends in..
+20% off Frame, Canvas & Mount on Orders $99+ Ends in..
 
-0DAYS4HRS9MINS
+4DAYS1HRS8MINS
 
-20% Off on Orders $99+ Ends in..
+20% off Frame, Canvas & Mount on Orders $99+ Ends in..
 
-0DAYS4HRS9MINS
+4DAYS1HRS8MINS
 
 Shop Now
 
@@ -689,7 +689,7 @@ If any of the terms or conditions herein shall be deemed invalid, void, or for a
 
 Updated: October 2018
 
-![Logo](/mobify/bundle/889/static/img/logo.svg)
+![Logo](/mobify/bundle/897/static/img/logo.svg)
 
 World's largest selection of art
 
