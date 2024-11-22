@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Zoo Tycoon 2: Extinct Animals](https://www.myabandonware.com/game/zoo-tycoon-2-extinct-animals-tam)
+* [Zoo Tycoon 2: Marine Mania](https://www.myabandonware.com/game/zoo-tycoon-2-marine-mania-tak)
+* [Zoo Tycoon 2: Dino Danger Pack](https://www.myabandonware.com/game/zoo-tycoon-2-dino-danger-pack-taj)
 * [Zoo Tycoon 2: African Adventure](https://www.myabandonware.com/game/zoo-tycoon-2-african-adventure-tai)
 * [Zoo Tycoon 2: Endangered Species](https://www.myabandonware.com/game/zoo-tycoon-2-endangered-species-tah)
-* [ТрюкМания: Гонки экстремалов](https://www.myabandonware.com/game/tryukmaniya-gonki-ekstremalov-tag)
-* [Pro-Race: Запредельная скорость](https://www.myabandonware.com/game/pro-race-zapredelnaya-skorost-tae)
-* [Стритрейсеры](https://www.myabandonware.com/game/stritreysery-tad)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
