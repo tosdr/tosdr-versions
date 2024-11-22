@@ -295,9 +295,8 @@ Advertise
 
 [![MB&F Horological Machine 8 Mark 2](https://static.ffx.io/images/$zoom_0.781%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_97/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9ef7df2d1402fcbe16b66d37d66fbcb00c9f68b5)](https://www.afr.com/life-and-luxury/fashion-and-style/you-don-t-know-these-watch-brands-you-should-20241111-p5kphy)
 
-### [You don’t know these watch brands. You should](https://www.afr.com/life-and-luxury/fashion-and-style/you-don-t-know-these-watch-brands-you-should-20241111-p5kphy)
+### [You probably don’t know these watch brands. You should](https://www.afr.com/life-and-luxury/fashion-and-style/you-don-t-know-these-watch-brands-you-should-20241111-p5kphy)
 
-* 54 mins ago
 * Bani McSpedden
 
 * ### [The 70s furniture trend making an unlikely (but welcome) comeback](https://www.afr.com/life-and-luxury/design/the-70s-furniture-trend-making-an-unlikely-but-welcome-comeback-20241023-p5kkjy)
@@ -312,7 +311,6 @@ Advertise
 
 ### [How a jibe from this CEO’s teenage daughter triggered a career rethink](https://www.afr.com/work-and-careers/workplace/how-a-jibe-from-this-ceo-s-teenage-daughter-triggered-a-career-rethink-20241111-p5kplc)
 
-* 54 mins ago
 * Patrick Durkin
 
 * ### [How these top female Amazon execs are conquering Australia](https://www.afr.com/work-and-careers/leaders/how-these-top-female-amazon-execs-are-conquering-australia-20241112-p5kq2i)
@@ -327,7 +325,6 @@ Advertise
 
 ### [How one man’s mission to save a rundown vineyard won him global renown](https://www.afr.com/life-and-luxury/food-and-wine/how-one-man-s-mission-to-save-a-rundown-vineyard-won-him-global-renown-20241113-p5kq8u)
 
-* 54 mins ago
 * Max Allen
 
 * ### [Mick Fanning’s next investment is a new wave resort](https://www.afr.com/companies/infrastructure/mick-fanning-s-next-investment-is-a-new-wave-resort-20241120-p5ks5c)
