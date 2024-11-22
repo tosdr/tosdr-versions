@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I think there's something strangely musical about noise”
+“ Human history becomes more and more a race between education and catastrophe”
 
-[Trent Reznor](http://en.wikipedia.org/wiki/Trent_Reznor)
+[H. G. Wells](http://en.wikipedia.org/wiki/H._G._Wells)
 
 [](https://www.adafruit.com/about)
 
