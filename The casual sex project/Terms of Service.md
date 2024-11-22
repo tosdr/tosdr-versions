@@ -90,19 +90,29 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/moving-left-a-study-of-ideological-and-demographic-change-among-federal-reserve-bank-directors.jpg)[](https://admin.mi52siterestore.com/article/moving-left-a-study-of-ideological-and-demographic-change-among-federal-reserve-bank-directors/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/Top-Public-Policy-Programs-Have-Almost-No-Conservative-Faculty.jpg)[](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/ "Read More")
 
-Report Economics, Governance
+Issue Brief Education, Governance
 
-Nov 14 2024
+Nov 21 2024
 
-Report Economics, Governance
+Issue Brief Education, Governance
 
-Nov 14 2024
+Nov 21 2024
 
-### [Moving Left](https://admin.mi52siterestore.com/article/moving-left-a-study-of-ideological-and-demographic-change-among-federal-reserve-bank-directors/) A Study of Ideological and Demographic Change Among Federal Reserve Bank Directors
+### [Top Public Policy Programs Have Almost No Conservative Faculty](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/)
 
-By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/), [Reade Ben](https://admin.mi52siterestore.com/person/reade-ben/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/moving-left-a-study-of-ideological-and-demographic-change-among-federal-reserve-bank-directors/)
+By **[Frederick M. Hess](https://admin.mi52siterestore.com/person/frederick-m-hess/), [Riley Fletcher](https://admin.mi52siterestore.com/person/riley-fletcher/)** Read time **12 mins** [Read More](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/bragg-vs-trump-nyc-drowning-crime-how-does-convicting-former-president-make-us-safe.jpg)[](https://admin.mi52siterestore.com/article/bragg-vs-trump-nyc-is-drowning-in-crime-how-does-convicting-the-former-president-make-us-safe/ "Read More")
+
+Commentary Governance, Public Safety Crime Control, Policing
+
+Nov 21 2024
+
+[Bragg vs. Trump: NYC Is Drowning in Crime. How Does Convicting the Former President Make Us Safe?](https://admin.mi52siterestore.com/article/bragg-vs-trump-nyc-is-drowning-in-crime-how-does-convicting-the-former-president-make-us-safe/)
+
+By **[Rafael A. Mangual](https://admin.mi52siterestore.com/person/rafael-a-mangual/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/bragg-vs-trump-nyc-is-drowning-in-crime-how-does-convicting-the-former-president-make-us-safe/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-can-teach-the-education-department-a-lesson-nominee-needs-boldness-back-school-choice-oppose-woke-indoctrination.jpg)[](https://admin.mi52siterestore.com/article/how-trump-can-teach-the-department-of-education-a-lesson/ "Read More")
 
@@ -133,16 +143,6 @@ Nov 19 2024
 [Immigration Is a Mess. Here’s How to Fix It.](https://admin.mi52siterestore.com/article/immigration-is-a-mess-heres-how-to-fix-it/)
 
 By **[Reihan Salam](https://admin.mi52siterestore.com/person/reihan-salam/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/immigration-is-a-mess-heres-how-to-fix-it/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/heres_why_asian_americans_shifted_right_.jpg)[](https://admin.mi52siterestore.com/article/heres-why-asian-americans-shifted-right/ "Read More")
-
-Commentary Governance Elections
-
-Nov 19 2024
-
-[Here’s Why Asian Americans Shifted Right](https://admin.mi52siterestore.com/article/heres-why-asian-americans-shifted-right/)
-
-By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/heres-why-asian-americans-shifted-right/)
 
 Our Policy Areas
 ----------------
