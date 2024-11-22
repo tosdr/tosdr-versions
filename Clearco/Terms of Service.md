@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/673e2eb1697196b3f6959dcb_clearco-funds-advertising-budget-allocation-for-ecommerce.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/673fab6877198680abaedcae_eco-friendly-cleaning-clean-mama-story.png)
 
-###### Clearco will fund your digital advertising budget ahead of spend to boost success for the holiday shopped season
+###### How Clean Mama is Redefining Eco-Friendly Housekeeping
 
-[Read now >](https://clear.co/blog/fund-ecommerce-digital-advertising-google-meta-youtube-tiktok)
+[Read now >](https://clear.co/blog/eco-friendly-cleaning-clean-mama-story)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
