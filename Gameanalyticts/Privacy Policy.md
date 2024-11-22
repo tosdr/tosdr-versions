@@ -110,7 +110,7 @@
 * [Sign up](https://tool.gameanalytics.com/signup)
 * [Go to tool](https://tool.gameanalytics.com/)
 
-Terms & Conditions EU Data Processing Addendum China Data Processing Agreement Developer Policy Privacy Notice for Game Developers Privacy Notice for Job Applicants China PIPL Privacy Notice Cookie Policy Trust Report Our ISO/IEC 27001 Certification SOC 2 Type II ePrivacy Seal & OBA Compliance KidSAFE COPPA Certified
+Terms & Conditions EU Data Processing Addendum China Data Processing Agreement Developer Policy Copyright Infringement Reporting Privacy Notice for Game Developers Privacy Notice for Job Applicants China PIPL Privacy Notice Cookie Policy Trust Report SOC 2 Type II Our ISO/IEC 27001 Certification KidSAFE COPPA Certified ePrivacy Seal & OBA Compliance
 
 ### Legal
 
@@ -118,6 +118,7 @@ Terms & Conditions EU Data Processing Addendum China Data Processing Agreement D
 * [EU Data Processing Addendum](https://gameanalytics.com/trust/legal/eu-data-processing-addendum/)
 * [China Data Processing Agreement](https://gameanalytics.com/trust/legal/dpa-china/)
 * [Developer Policy](https://gameanalytics.com/trust/legal/privacy-faq/)
+* [Copyright Infringement Reporting](https://gameanalytics.com/trust/legal/copyright-infringement-reporting/)
 
 ### Privacy
 
@@ -129,10 +130,10 @@ Terms & Conditions EU Data Processing Addendum China Data Processing Agreement D
 ### Security
 
 * [Trust Report](https://gameanalytics.com/trust/security/trust-report/)
-* [Our ISO/IEC 27001 Certification](https://gameanalytics.com/trust/security/our-iso-iec-27001-certification/)
 * [SOC 2 Type II](https://gameanalytics.com/trust/security/soc-2-type-ii/)
-* [ePrivacy Seal & OBA Compliance](https://gameanalytics.com/trust/security/eprivacy-seal-oba-compliance/)
+* [Our ISO/IEC 27001 Certification](https://gameanalytics.com/trust/security/our-iso-iec-27001-certification/)
 * [KidSAFE COPPA Certified](https://gameanalytics.com/trust/security/kidsafe-coppa-certified/)
+* [ePrivacy Seal & OBA Compliance](https://gameanalytics.com/trust/security/eprivacy-seal-oba-compliance/)
 
 **Privacy Notice for Game Developers**
 ======================================
