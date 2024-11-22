@@ -1,6 +1,6 @@
 [Get The Black Friday & Cyber Monday Deal](https://tuta.com/black-friday)
 
-[**Save 62%**](https://tutanota.com/black-friday?t-src=black-friday)
+[**Save 62%**](https://tutanota.com/black-friday)
 
 [](https://tutanota.com/ "Tuta")
 
