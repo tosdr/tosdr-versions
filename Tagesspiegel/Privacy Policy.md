@@ -31,10 +31,9 @@ zurückscrollen
     
     * [Krieg in Nahost](https://www.tagesspiegel.de/internationales/themen/nahostkonflikt)
     * [Krieg in der Ukraine](https://www.tagesspiegel.de/politik/themen/krieg-in-der-ukraine)
-    * [US-Wahl](https://www.tagesspiegel.de/internationales/themen/us-wahl)
-    * [Kamala Harris](https://www.tagesspiegel.de/internationales/themen/kamala-harris)
     * [Donald Trump](https://www.tagesspiegel.de/politik/themen/donald-trump)
     * [Wladimir Putin](https://www.tagesspiegel.de/internationales/themen/wladimir-putin)
+    * [USA](https://www.tagesspiegel.de/wissen/themen/usa)
     * [China](https://www.tagesspiegel.de/internationales/themen/china)
     * [International Friday](https://www.tagesspiegel.de/internationales/themen/newsletter-international-friday)
     
@@ -132,6 +131,7 @@ zurückscrollen
     * [Achtsamkeit](https://www.tagesspiegel.de/gesundheit/themen/achtsamkeit)
     * [Pflege-Ratgeber](https://www.tagesspiegel.de/gesundheit/themen/pflege-ratgeber)
     * [Beste Kliniken](https://www.tagesspiegel.de/gesundheit/themen/beste-kliniken)
+    * [Long Covid](https://www.tagesspiegel.de/gesundheit/themen/long-covid)
     
     vorscrollen
     
@@ -201,6 +201,7 @@ zurückscrollen
     vorscrollen
     
 * [Podcasts](https://www.tagesspiegel.de/podcasts/)
+* [Videos](https://www.tagesspiegel.de/videos/)
 
 vorscrollen
 
