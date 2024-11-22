@@ -22,7 +22,7 @@ Hi
 
 [SIGN OUT](#)
 
-[63°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearDay.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
+[42°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
 
 * [News](https://www.reviewjournal.com/news/)
 * [Local](https://www.reviewjournal.com/local/)
@@ -39,9 +39,9 @@ Hi
 
 [](#)
 
-63°F
+42°F
 
-![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearDay.png) Clear
+![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/ClearNight.png) Mostly Clear
 
 [Las Vegas, NV](https://www.reviewjournal.com/weather "Weather Forecast")
 
@@ -49,16 +49,15 @@ Hi
 
 * [Home](https://www.reviewjournal.com/)
 * [Latest Headlines](https://www.reviewjournal.com/archive/)
+* [Formula 1 in Las Vegas](https://www.reviewjournal.com/sports/motor-sports/formula-1/)
 * [RJESPAÑOL](https://espanol.reviewjournal.com/?utm_campaign=RJ_Cross_Traffic&utm_source=Main_Nav_Link&utm_medium=NavLink)
 * [7@7 video](https://www.reviewjournal.com/7at7/)
-* [Election 2024](https://www.reviewjournal.com/tag/2024-election/)
 * [Top 100 Restaurants](https://www.reviewjournal.com/top-100-restaurants/)
 * [Things To Do In Vegas](https://www.reviewjournal.com/things-to-do-in-vegas/)
 * [Israel at War](https://www.reviewjournal.com/tag/war-in-israel/)
 * [News](https://www.reviewjournal.com/news/)
     * [Education](https://www.reviewjournal.com/local/education/)
     * [Politics and Government](https://www.reviewjournal.com/news/politics-and-government/)
-        * [Your 2024 Voter Guide](https://www.reviewjournal.com/voter-guide-2024/)
         * [2024 Election](https://www.reviewjournal.com/tag/2024-election/)
         * [Nevada](https://www.reviewjournal.com/news/politics-and-government/nevada/)
         * [Clark County](https://www.reviewjournal.com/news/politics-and-government/clark-county/)
