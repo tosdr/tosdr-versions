@@ -12,7 +12,7 @@
     
     By Role
     
-    [Teacher](https://www.kamiapp.com/solutions/teacher/)[School leader](https://www.kamiapp.com/solutions/school-leader/)
+    [Teacher](https://www.kamiapp.com/solutions/teacher/)[SPED teacher](https://www.kamiapp.com/sped-teacher/)[School leader](https://www.kamiapp.com/solutions/school-leader/)
     
     By Use Case
     
@@ -277,7 +277,7 @@ And **Kami Limited** in New Zealand
 
 ### BY ROLES
 
-[Teacher](https://www.kamiapp.com/solutions/teacher/)[School leader](https://www.kamiapp.com/solutions/school-leader/)
+[Teacher](https://www.kamiapp.com/solutions/teacher/)[SPED Teacher](https://www.kamiapp.com/sped-teacher/)[School leader](https://www.kamiapp.com/solutions/school-leader/)
 
 ### Product comparison
 
