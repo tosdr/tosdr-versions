@@ -1,17 +1,27 @@
-![](https://www.facebook.com/tr?id=1513851155447195&ev=PageView&noscript=1)      
+![](https://www.facebook.com/tr?id=1513851155447195&ev=PageView&noscript=1)       
 
-[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-f1c0a97f921c1f549406a076bde7ce7d8d7905c49a1754cb91755e6093514779.svg)](https://www.rescuetime.com/)
+[![](https://assets.rescuetime.com/assets/logo-wordmark-53h-096d80aad6488c87173f58a24d91549184e4898a91b23cd1a93c5edf3e255a61.svg)](https://www.rescuetime.com/)
 
-* [For Teams](https://teams.rescuetime.com/)
-* [Guided Focus Sessions (Live!)](https://getfocused.rescuetime.com/guided-focus-sessions/)
-* [Sign In](https://www.rescuetime.com/login)
+* [![](https://assets.rescuetime.com/assets/logo-wordmark-53h-096d80aad6488c87173f58a24d91549184e4898a91b23cd1a93c5edf3e255a61.svg)](https://www.rescuetime.com/)
+* [Home](https://www.rescuetime.com/)
+* [Timesheets](https://timesheets.rescuetime.com/)
+* [Blog](https://blog.rescuetime.com/)
+
+* [Guided Focus Sessions](https://workfrom.com/browse/jwgseb)
+* [Log In](https://www.rescuetime.com/login)
+
 * [Try For Free](https://www.rescuetime.com/unified/users/new)
+* [Try For Free](https://www.rescuetime.com/unified/teams/new)
+
+RescueTime Privacy
+==================
 
 **Most recent version: July 10, 2023.**
 
 By using RescueTime, you are agreeing to the collection and use of your personal information for the purposes of providing you our product services as described below. We will notify all active accounts of any significant changes to this policy.
 
-### Your data is never shared
+Your data is never shared
+-------------------------
 
 Your privacy is really important to us. At RescueTime, your data, analyzed, is the product we offer back to you. We are not an ad supported company. Our free service is intended to entice you to premium service. If you have any concerns that aren't covered here, please [contact us](https://www.rescuetime.com/rtx/contact). Below are the details of this policy:
 
@@ -22,13 +32,15 @@ Your privacy is really important to us. At RescueTime, your data, analyzed, is t
 5. For individual accounts, no other user can see any of your data or personal information. We may provide features to allow you to share selections of your data, but this will be voluntary and opt-in only, and handled per-situation, and not buried in a terms of service.
 6. For team accounts, sharing of data is controlled by the administrator of the account and by default does not allow anyone in the team account access to your data. No one outside of your organization will have access to any of your data. Default team implementations do not permit the sharing of individual data in any form that is not aggregated (eg, your team's average communication per week). When consulting with team implementations, we promote transparency and user driven control.
 
-### How do we protect your data?
+How do we protect your data?
+----------------------------
 
 1. Your data is always encrypted in transit. All requests with the RescueTime web app and client apps are encrypted with current best practice SSL configurations.
 2. Your data is always encrypted at rest. All of our storage uses volume encryption.
 3. We maintain ongoing vulnerability scanning, respond immediately to security advisories, and stay PCI compliant.
 
-### What information does RescueTime collect? How is it used?
+What information does RescueTime collect? How is it used?
+---------------------------------------------------------
 
 Account information includes email address (verification optional), city, state, and country. Optional demographic information includes gender, date of birth, industry, job title, company size, and income may be requested, to enrich the accuracy of our reporting for your work patterns.
 
@@ -36,13 +48,15 @@ RescueTime records information about the currently active application or website
 
 We do not (and never will) collect keystrokes, form input, screenshots, window or page body content, or anything nefarious. Before storage for your reports, URLs are trimmed to the site name and sometimes top level directory when a site has distinct web apps. Query strings are discarded. Site controls allow you to selectively delete and ignore forever any item you prefer not be stored.
 
-### How long is your data retained?
+How long is your data retained?
+-------------------------------
 
 1. All your data is destroyed in its entirety when you delete your account, except account activity logs required for business audit records. This process can take up to 3 days to protect against accidental deletion. Users can request immediate deletion by contacting support.
 2. You can delete your own data at any time on our website in the Data & Privacy section of account settings.
 3. Free account user data older than 15 months is automatically deleted on a continuous basis.
 
-### Cookies and Log Files
+Cookies and Log Files
+---------------------
 
 RescueTime.com sends a "cookie" to your computer that contains an identifier that is unique to your browser session. We use this cookie to validate your authentication, provide you with a continuous experience, and to record how our site/service is being used. It is not used for marketing purposes.
 
@@ -56,15 +70,13 @@ RescueTime works with some sub-processors to offer our services. [Here is our li
 
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
 
-[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-f1c0a97f921c1f549406a076bde7ce7d8d7905c49a1754cb91755e6093514779.svg)](https://www.rescuetime.com/)
+[![](https://assets.rescuetime.com/assets/logo-wordmark-53h-096d80aad6488c87173f58a24d91549184e4898a91b23cd1a93c5edf3e255a61.svg)](https://www.rescuetime.com/)
 
 **Product**
 
-[Sign Up](https://www.rescuetime.com/unified/users/new)
+[Sign Up](https://www.rescuetime.com/unified/users/new) [Sign Up](https://www.rescuetime.com/unified/teams/new)
 
 [Sign In](https://www.rescuetime.com/login)
-
-[Android](https://play.google.com/store/apps/details?id=com.rescuetime.rtx&hl=en_US&gl=US&pli=1)
 
 [iOS](https://apps.apple.com/us/app/rescuetime/id1629924958)
 
@@ -72,9 +84,7 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 [Help](https://help.rescuetime.com/)
 
-[Contact Us](https://www.rescuetime.com/rtx/contact)
-
-[Security](https://www.rescuetime.com/rtx/security)
+[Security](https://www.rescuetime.com/security)
 
 [Privacy](https://www.rescuetime.com/rtx/privacy)
 
@@ -84,11 +94,7 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 **Company**
 
-[Who We Are](https://www.rescuetime.com/about)
-
-[Press Resources](https://www.rescuetime.com/press)
-
-[Jobs](https://www.rescuetime.com/jobs)
+[Contact Us](https://www.rescuetime.com/contact)
 
 **Resources**
 
@@ -96,16 +102,8 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 [Community](https://community.rescuetime.com/)
 
-[Customer Stories](https://www.rescuetime.com/customer_stories)
-
 [System Status](https://status.rescuetime.com/)
 
-Take back control of your Time
+[![](https://assets.rescuetime.com/assets/marketing/2024/socials/youtube-714581ec29253a9d5c44c96b9900bb32202fef8b16b03b2f58abf6d7cbe2bdfc.svg)](https://www.youtube.com/@RescueTimeOfficial) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/facebook-acb7cbe6722d1a2d152706cfb9754b5c1fe962a32f62858071d765d65e83ecb7.svg)](https://facebook.com/rescuetime) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/linkedin-213ab6bb375c5062aee259fa8210c976cbad9e8cea4dad4f875d964d1196b528.svg)](https://linkedin.com/company/rescuetime/) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/instagram-bfefd23ec9b3bcdd9520cfdd5710f0368cab66f9056ea3ae0a0a10a176aa3311.svg)](https://www.instagram.com/rescuetime/) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/tiktok-e133429ab213c0db5397b6f818a30eb2c80b0080f105b977075d12087d1dfaeb.svg)](https://www.tiktok.com/@rescuetime) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/reddit-7737d01d4a6599fcb3e9ba1ee3bf4f24a1eb2b13a94da675ec62ebf3f26bed55.svg)](https://www.reddit.com/r/RescueTime) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/twitter-fdca7a570a008afab2f347c0b689a12caf6abcdeebb06ad2a2a76a76484f2053.svg)](https://twitter.com/rescuetime)
 
-[![](https://assets.rescuetime.com/assets/rtx_marketing/twitter-085cb38e93b8212fcc74189112070b0d9eca28aa2a97d8202682464c4382480f.svg)](https://twitter.com/rescuetime)
-
-[![](https://assets.rescuetime.com/assets/rtx_marketing/facebook-62f06ba3e379402c5a6e82d0113dfaf2c238b45a1d8cb7e7e35a2a80b625dbc8.svg)](https://facebook.com/rescuetime)
-
-[![](https://assets.rescuetime.com/assets/rtx_marketing/linkedin-626559d3fbf16554836b9fb6482688efcbb522e943fb1e78dae6e860c7714475.svg)](https://linkedin.com/company/rescuetime/)
-
-[![](https://assets.rescuetime.com/assets/rtx_marketing/rss-small-ba0a5e27525f16f5689e6e34820e686e52abab1795abcaefc8a1cd02fd86129d.svg)](https://blog.rescuetime.com/)
+Subscribe
