@@ -539,41 +539,7 @@ Terms of Use
 
 [Skip Sidebar Navigation](#ctl00_ContentPlaceHolder1_ctl05_linkLastNav)
 
-[Terms of Use](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=203398)[](javascript:void(0); "Expand Side navigation")
-
 [About Us](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87600)
-
-[Advertise with OCPS](https://www.ocps.net/cms/one.aspx?objectId=89603)
-
-[Annual Report](https://issuu.com/orangecountypublicschools/docs/annual_report_2022-23_6?fr=xKAE9_zU1NQ)
-
-[Budget](https://www.ocps.net/cms/one.aspx?objectId=101519)
-
-[Building Schools](https://www.ocps.net/departments/facilities/your_tax_dollars_at_work/)
-
-[Calendars](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=87628)
-
-[Do Business with OCPS](https://www.ocps.net/departments/procurement_services)
-
-[Executive Leadership](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=188562)
-
-[Foundation for OCPS](http://www.foundationforocps.org/)
-
-[General Information](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=134783)
-
-[Get Involved](https://www.ocps.net/cms/one.aspx?objectId=87669)
-
-[Hall of Fame](https://www.ocps.net/cms/one.aspx?objectId=89552)
-
-[History](http://anniversary.ocps.net/cms/One.aspx?portalId=1206398&pageId=1206420)
-
-[Pocket Guide](http://issuu.com/orangecountypublicschools/docs/pocket_guide_web_23-24?fr=xKAE9_zU1NQ)
-
-[Terms of Use](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=203398)
-
-[Sitemap](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=115120)
-
-[Contact Us](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=197670)
 
 [Last item for navigation](https://www.ocps.net/cms/portlets/#)
 
