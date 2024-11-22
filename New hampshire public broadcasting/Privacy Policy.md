@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Mexico Preview** | Made With Love](https://video.nhpbs.org/video/mexico-made-with-love-preview-30fwlq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview** | Whitney Houston - The Concert for a New South Africa (Durban)](https://video.nhpbs.org/video/whitney-houston-the-concert-for-a-new-south-africa-durban-preview-za5ay2?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview** | The Who at Kilburn 1977](https://video.nhpbs.org/video/the-who-at-kilburn-1977-preview-aieg8t?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview** | Peter Bence: Pianosphere in Paris](https://video.nhpbs.org/video/peter-bence-pianosphere-in-paris-preview-bfh7p8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Leonard Cohen - Live in Dublin](https://video.nhpbs.org/video/leonard-cohen-live-in-dublin-preview-znqhho?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Vanessa Haynes performs "O Thou That Tellest Good Tidings to Zion"** | Too Hot to Handel: The Gospel Messiah](https://video.nhpbs.org/video/vanessa-haynes-performs-o-thou-that-tellest-good-tidings-to-zion-xno2hn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**StoryCorps Shorts: Dear Mrs. Doyle** | POV](https://video.nhpbs.org/video/storycorps-shorts-dear-mrs-doyle-e4w9cy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Deer Hunt Wisconsin 2024** | Milwaukee PBS Specials](https://video.nhpbs.org/video/deer-hunt-wisconsin-2024-6fa4j0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Brooklyn Tower and the Wrigley Building** | Songs About Buildings and Moods](https://video.nhpbs.org/video/brooklyn-tower-and-the-wrigley-building-xcecqx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Ethics committee member says Senate needs Gaetz information** | PBS News Hour](https://video.nhpbs.org/video/trump-s-team-ethics-geoff-dis-1732141015?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Wicked** | Flicks](https://video.nhpbs.org/video/wicked-dvjrby?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**November 20, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-20-2024-gxfsn5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Extended Readers Club Leonardo Da Vinci** | PBS Books](https://video.nhpbs.org/video/extended-readers-club-leonardo-da-vinci-usp316?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 21, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-21-2024-pbs-news-hour-full-episode-1732165201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Broken Promises And Black Revolutionary War Soldiers** | In the Margins](https://video.nhpbs.org/video/broken-promises-and-black-revolutionary-war-soldiers-pe3hz7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Lacewing LOVE is Noisier Than You Think** | Deep Look](https://video.nhpbs.org/video/lacewing-love-is-noisier-than-you-think-dbjq3s?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
