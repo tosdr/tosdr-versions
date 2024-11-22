@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/de-bondgenoten-van-de-mensheid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/geschiedenis/onze-jfk-memorial/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
