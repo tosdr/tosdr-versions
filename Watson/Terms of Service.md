@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)\-2°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)\-1°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [Genève](https://www.watson.ch/fr/geneve/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
-* [Technologie](https://www.watson.ch/fr/technologie/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Sciences](https://www.watson.ch/fr/sciences/)
+* [Best of watson](https://www.watson.ch/fr/best-of-watson/)
+* [Technologie](https://www.watson.ch/fr/technologie/)
+* [voiture](https://www.watson.ch/fr/voiture/)
+* [Valais](https://www.watson.ch/fr/valais/)
+* [Vidéo](https://www.watson.ch/fr/video/)
+* [Emmanuel Macron](https://www.watson.ch/fr/emmanuel-macron/)
 * [France](https://www.watson.ch/fr/france/)
 * [Union Européenne](https://www.watson.ch/fr/union-europeenne/)
 * [Israël](https://www.watson.ch/fr/israel/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Entreprise](https://www.watson.ch/fr/entreprise/)
-* [voiture](https://www.watson.ch/fr/voiture/)
+* [Disney](https://www.watson.ch/fr/disney/)
+* [Iphone](https://www.watson.ch/fr/iphone/)
 * [Gaza](https://www.watson.ch/fr/gaza/)
-* [Médecine](https://www.watson.ch/fr/medecine/)
-* [CFF](https://www.watson.ch/fr/cff/)
-* [route](https://www.watson.ch/fr/route/)
+* [Travail](https://www.watson.ch/fr/travail/)
+* [Séries](https://www.watson.ch/fr/series/)
 * [Météo](https://www.watson.ch/fr/meteo/)
-* [Justice](https://www.watson.ch/fr/justice/)
 * [Neige](https://www.watson.ch/fr/neige/)
-* [RTS](https://www.watson.ch/fr/rts/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
