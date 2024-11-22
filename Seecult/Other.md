@@ -329,24 +329,26 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
-    [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
+    [10:00 Nika Erjavec, LJ](javascript:void(0);)
     
     **20.09.2024 | 10:00**
     
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    Muzej sodobne umetnosti Metelkova, +MSUM, Maistrova 3, Ljubljana
     
-    **[SLIKARSKA ZBIRKA MUZEJA ZA UMETNOST IN OBRT, ZAGREB](https://www.ng-slo.si/si/razstave-in-projekti/razstava/slikarska-zbirka-muzeja-za-umetnost-in-obrt-zagreb?id=5859)** - razstava (19.9.2024.-9.2.2025.)
+    **NIKA ERJAVEC** (1994): **(NE)STVARNOST, 2024** - intermedijska instalacija (19.9.-25.11.2024.)
     
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    Kustosinja razstave: Ana Mizerit
+    
+    [https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarno...](https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarnost-2024)
     
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/slike/paitings/regata-97-akril-cca90x70.jpg?itok=jKQaENmB)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/slikepaitings)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/slike.jpg?itok=ve7ZUGe5)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/foto-arhiva-2004/karanovic1.jpg?itok=Sadv9BRN)](http://seecult.org/galerija/foto-galerija/foto-arhiva/foto-arhiva-2004)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/akademija-gig-001.jpg?itok=3yMIR-WI)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -355,26 +357,27 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Oktanski koncert Eda Širana pred 50.000 fanova na Ušću](http://seecult.org/vest/oktanski-koncert-eda-sirana-pred-50000-fanova-na-uscu)
 * [Aleksandar Denić predstavlja Srbiju na 60. Bijenalu u Veneciji](http://seecult.org/vest/aleksandar-denic-predstavlja-srbiju-na-60-bijenalu-u-veneciji)
 * [Iskustvo u gužvi u Zrenjaninu](http://seecult.org/vest/iskustvo-u-guzvi-u-zrenjaninu)
-* [Praviti se lud ili otvoriti oči](http://seecult.org/vest/praviti-se-lud-ili-otvoriti-oci)
 * [Marijana Cvetković: Raste bes u svim sektorima kulture](http://seecult.org/vest/marijana-cvetkovic-raste-bes-u-svim-sektorima-kulture)
 * [A1 Kinoteka letnji bioskop ponovo na krovu Doma Vojske](http://seecult.org/vest/a1-kinoteka-letnji-bioskop-ponovo-na-krovu-doma-vojske)
 * [Uži izbor za Politikinu nagradu za 2023.](http://seecult.org/vest/uzi-izbor-za-politikinu-nagradu-za-2023)
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
+* [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Milija Belić u izboru za nagradu Andre Evard](http://seecult.org/vest/milija-belic-u-izboru-za-nagradu-andre-evard)
+* [Mariborski Amadeus u JDP-u](http://seecult.org/vest/mariborski-amadeus-u-jdp-u)
+* [16\. Merlinka u Jugoslovenskoj kinoteci](http://seecult.org/vest/16-merlinka-u-jugoslovenskoj-kinoteci)
+* [Evropa Nostra Srbija - odbrana nasleđa i struke](http://seecult.org/vest/evropa-nostra-srbija-odbrana-nasleda-i-struke)
+* [Odbrana slobode izražavanja](http://seecult.org/vest/odbrana-slobode-izrazavanja)
 * [Digitalno restaurisana Virdžina](http://seecult.org/vest/digitalno-restaurisana-virdzina)
 * [Izbor radova iz Kolekcije Momčilović](http://seecult.org/vest/izbor-radova-iz-kolekcije-momcilovic)
 * [Decenija Hrabrog Balkana i Bande à part, uz jubilej FAF-a](http://seecult.org/vest/decenija-hrabrog-balkana-i-bande-part-uz-jubilej-faf)
 * [Zamerka glumcima zbog čitanja saopštenja](http://seecult.org/vest/zamerka-glumcima-zbog-citanja-saopstenja)
 * [Mogućnost raja na 30. FAF-u](http://seecult.org/vest/mogucnost-raja-na-30-faf-u)
-* [Selekcija filmova 15. MikroFAF-a – Fresh Frames](http://seecult.org/vest/selekcija-filmova-15-mikrofaf-fresh-frames)
-* [FDU zahteva oslobađanje pritvorenih](http://seecult.org/vest/fdu-zahteva-oslobadanje-pritvorenih)
-* [Izmenjena vodom](http://seecult.org/vest/izmenjena-vodom)
-* [Specijalne nagrade FAF-a povodom 30 godina](http://seecult.org/vest/specijalne-nagrade-faf-povodom-30-godina)
-* [Radovan Vujović dobitnik nagrade Raša Plaović](http://seecult.org/vest/radovan-vujovic-dobitnik-nagrade-rasa-plaovic)
 
 * [Konkursi](#tab1_1)
 
+* [Poziv fotografima i pesnicima iz regiona - klimatska akcija kroz umetnost](http://seecult.org/konkurs/poziv-fotografima-i-pesnicima-iz-regiona-klimatska-akcija-kroz-umetnost)
 * [Produžen rok za konkurs Press Photo Srbija 2024.](http://seecult.org/konkurs/produzen-rok-za-konkurs-press-photo-srbija-2024)
 * [Konkurs za dodelu nagrade Zadužbine Đoke Vlajkovića](http://seecult.org/konkurs/konkurs-za-dodelu-nagrade-zaduzbine-doke-vlajkovica)
 * [Konkurs za filmove za 72. Martovski festival](http://seecult.org/konkurs/konkurs-za-filmove-za-72-martovski-festival)
@@ -382,7 +385,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Konkurs Galerije SKC Kragujevac za 2025.](http://seecult.org/konkurs/konkurs-galerije-skc-kragujevac-za-2025)
 * [Konkurs Press Photo Srbija 2024.](http://seecult.org/konkurs/konkurs-press-photo-srbija-2024)
 * [Konkurs za izlaganje u Galeriji Kuće legata u 2025.](http://seecult.org/konkurs/konkurs-za-izlaganje-u-galeriji-kuce-legata-u-2025)
-* [Konkurs Memorijalne galerije Dušan Starčević za 2025.](http://seecult.org/konkurs/konkurs-memorijalne-galerije-dusan-starcevic-za-2025)
 
 * [Kritika](#tab2_1)
 
