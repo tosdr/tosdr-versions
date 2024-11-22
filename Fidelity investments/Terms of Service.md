@@ -414,7 +414,7 @@ Please enter a valid ZIP code
 * ![](/bin-public/060_www_fidelity_com/images/icon/FidCom_SocialIcons_0006_Reddit.png)  [Reddit, (Opens in a new window)](https://www.reddit.com/r/fidelityinvestments/)
 * ![](/bin-public/060_www_fidelity_com/images/icon/FidCom_SocialIcons_0007_X.png)  [X (Twitter), (Opens in a new window)](https://www.twitter.com/fidelity)
 * ![](/bin-public/060_www_fidelity_com/images/icon/FidCom_SocialIcons_0000_Facebook.png)  [Facebook, (Opens in a new window)](https://www.facebook.com/fidelityinvestments)
-* ![](/bin-public/060_www_fidelity_com/images/tiktok%20icon.png)  [TikTok, (Opens in a new window)](https://www.tiktok.com/@fidelity)
+* ![](/bin-public/060_www_fidelity_com/images/tiktok%20icon.png)  [TikTok, (Opens in a new window)](https://www.tiktok.com/@fidelityinvestments)
 * ![](/bin-public/060_www_fidelity_com/images/icon/Discord-Logo-Color-1.png)  [Discord, (Opens in a new window)](https://discord.gg/FidelityInvestments)
 * ![](/bin-public/060_www_fidelity_com/images/icon/fidelitymobile26x26.png)  [Fidelity Apps](https://www.fidelity.com/mobile/overview)
 * ![](/bin-public/060_www_fidelity_com/images/icon/refer26x26.png)  [Refer a Friend](https://www.fidelity.com/customer-service/friendsandfamily3a?ccsource=RAFFooterNav)
@@ -429,7 +429,7 @@ Please enter a valid ZIP code
 Copyright 1998-2024 FMR LLC. All Rights Reserved.
 
 * [Terms of Use](https://www.fidelity.com/terms-of-use)
-* [Privacy](https://www.fidelity.com/privacy-policy)
+* [Privacy](https://www.fidelity.com/privacy/overview)
 * [Security](https://www.fidelity.com/security/overview)
 * [Site Map](https://www.fidelity.com/sitemap/overview)
 * [Accessibility](https://www.fidelity.com/accessibility/overview)
