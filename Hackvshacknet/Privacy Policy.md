@@ -220,18 +220,18 @@ This site is protected by FingerprintJS and its [privacy policy](https://dev.fin
 
 ### Newest members
 
+* [![wtfzeft](/data/avatars/s/111/111442.jpg?1732257746)](http://hackvshack.net/members/wtfzeft.111442/)
+* [](http://hackvshack.net/members/suiaj12.111441/)
+* [](http://hackvshack.net/members/prime-cos.111440/)
+* [](http://hackvshack.net/members/kingloverboy.111439/)
+* [![2424dadsw](/data/avatars/s/111/111438.jpg?1732246576)](http://hackvshack.net/members/2424dadsw.111438/)
+* [![PhG1411](/data/avatars/s/111/111437.jpg?1732246113)](http://hackvshack.net/members/phg1411.111437/)
+* [![Nolqy420](/data/avatars/s/111/111436.jpg?1732244447)](http://hackvshack.net/members/nolqy420.111436/)
 * [](http://hackvshack.net/members/left.111435/)
 * [![yolo1088](/data/avatars/s/111/111434.jpg?1732237087)](http://hackvshack.net/members/yolo1088.111434/)
 * [![lunas](/data/avatars/s/111/111433.jpg?1732235520)](http://hackvshack.net/members/lunas.111433/)
 * [![wewewewewew](/data/avatars/s/111/111432.jpg?1732234997)](http://hackvshack.net/members/wewewewewew.111432/)
 * [![hgt67yuhjnooo](/data/avatars/s/111/111431.jpg?1732234995)](http://hackvshack.net/members/hgt67yuhjnooo.111431/)
-* [](http://hackvshack.net/members/negerc.111430/)
-* [](http://hackvshack.net/members/hhrrgaad.111429/)
-* [](http://hackvshack.net/members/jimbabwe.111428/)
-* [](http://hackvshack.net/members/jamalahah.111427/)
-* [![WTLTOKAA](/data/avatars/s/111/111426.jpg?1732230045)](http://hackvshack.net/members/wtltokaa.111426/)
-* [![VIKTORAS15](/data/avatars/s/111/111425.jpg?1732229562)](http://hackvshack.net/members/viktoras15.111425/)
-* [![sudokae](/data/avatars/s/111/111424.jpg?1732229020)](http://hackvshack.net/members/sudokae.111424/)
 
 ### Partners
 
@@ -255,11 +255,11 @@ Messages
 
 Members
 
-111,435
+111,442
 
 Latest member
 
-[left](http://hackvshack.net/members/left.111435/)
+[wtfzeft](http://hackvshack.net/members/wtfzeft.111442/)
 
 Most visitors online was 4044 , on 21 Oct 2024
 
@@ -267,15 +267,15 @@ Most visitors online was 4044 , on 21 Oct 2024
 
 Members online
 
-21
+19
 
 Guests online
 
-172
+307
 
 Total visitors
 
-193
+326
 
 Totals may include hidden visitors.
 
