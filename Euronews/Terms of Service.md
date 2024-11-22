@@ -16,55 +16,55 @@
     Trending
     
     * [COP29](https://www.euronews.com/tag/cop29)
-    * [War in Ukraine](https://www.euronews.com/tag/war-in-ukraine)
-    * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
-    * [Ukraine](https://www.euronews.com/tag/ukraine)
-    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
+    * [European Union](https://www.euronews.com/tag/european-union)
+    * [Music](https://www.euronews.com/tag/music)
+    * [EU Policy](https://www.euronews.com/tag/eu-policy)
     * [Vladimir Putin](https://www.euronews.com/tag/vladimir-putin)
+    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
     
     * * *
     
     Latest stories
     
-    [![EU still needs work to meet the 2030 antimicrobial resistance targets.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "EU still needs work to meet the 2030 antimicrobial resistance targets.")
+    [![Kate Nash in 2019 and some peaches](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Kate Nash in 2019 and some peaches")
     
-    ![EU still needs work to meet the 2030 antimicrobial resistance targets.](https://static.euronews.com/articles/stories/08/85/78/22/368x207_cmsv2_b4ca1b8d-db7b-5223-9397-a22e47022ab7-8857822.jpg "EU still needs work to meet the 2030 antimicrobial resistance targets.")](https://www.euronews.com/health/2024/11/18/eu-isnt-cutting-antibiotic-use-fast-enough-health-agency-says)
-    
-    Now playing Next
-    
-    [Health news](https://www.euronews.com/health/health-news)
-    
-    ### [EU isn’t cutting antibiotic use fast enough, health agency says](https://www.euronews.com/health/2024/11/18/eu-isnt-cutting-antibiotic-use-fast-enough-health-agency-says)
-    
-    [![Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ")
-    
-    ![Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ](https://static.euronews.com/articles/stories/08/85/80/28/368x207_cmsv2_77b54dce-bd5c-5967-85db-d3c2449a0471-8858028.jpg "Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ")](https://www.euronews.com/culture/2024/11/18/portugal-wins-world-cheese-awards-as-uk-misses-out-due-to-post-brexit-customs)
+    ![Kate Nash in 2019 and some peaches](https://static.euronews.com/articles/stories/08/86/82/44/368x207_cmsv2_818cf4ae-6b02-5e38-bba5-75eb2ff218fc-8868244.jpg "Kate Nash in 2019 and some peaches")](https://www.euronews.com/culture/2024/11/22/butts-4-tour-busses-kate-nash-starts-onlyfans-to-fund-tour)
     
     Now playing Next
     
-    [Food and Drink](https://www.euronews.com/culture/food-and-drink)
+    [Culture news](https://www.euronews.com/culture/culture-news)
     
-    ### [World Cheese Awards: Portugal triumphs as Brexit torpedoes UK chances](https://www.euronews.com/culture/2024/11/18/portugal-wins-world-cheese-awards-as-uk-misses-out-due-to-post-brexit-customs)
+    ### ['Butts 4 Tour Busses': Kate Nash starts OnlyFans to fund tour](https://www.euronews.com/culture/2024/11/22/butts-4-tour-busses-kate-nash-starts-onlyfans-to-fund-tour)
     
-    [![People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.")
+    [![People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018")
     
-    ![People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.](https://static.euronews.com/articles/stories/08/85/73/54/368x207_cmsv2_34fdad62-2a3c-5ac8-8cb0-3cc1838739e0-8857354.jpg "People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.")](https://www.euronews.com/my-europe/2024/11/18/1000-days-of-war-sea-of-flags-honour-ukraines-fallen-in-kyiv)
+    ![People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018](https://static.euronews.com/articles/stories/08/86/83/72/368x207_cmsv2_8f7441a1-05ed-5354-8e00-a5d4469ac4a5-8868372.jpg "People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018")](https://www.euronews.com/travel/2024/11/22/major-london-airport-evacuated-due-to-suspicious-item-in-luggage-are-flights-cancelled)
+    
+    Now playing Next
+    
+    [Travel News](https://www.euronews.com/travel/travel-news)
+    
+    ### [London's Gatwick airport evacuated over bomb scare](https://www.euronews.com/travel/2024/11/22/major-london-airport-evacuated-due-to-suspicious-item-in-luggage-are-flights-cancelled)
+    
+    [![Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ")
+    
+    ![Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ](https://static.euronews.com/articles/stories/08/86/80/42/368x207_cmsv2_2845c942-faab-58fd-b7af-a53b2048e906-8868042.jpg "Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ")](https://www.euronews.com/my-europe/2024/11/22/polish-pm-tusks-party-holds-presidential-primary-to-choose-candidate)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [1,000 days of war: Kyiv square filled with flags for Ukraine's fallen](https://www.euronews.com/my-europe/2024/11/18/1000-days-of-war-sea-of-flags-honour-ukraines-fallen-in-kyiv)
+    ### [Polish PM Tusk's party holds presidential primary to choose candidate](https://www.euronews.com/my-europe/2024/11/22/polish-pm-tusks-party-holds-presidential-primary-to-choose-candidate)
     
-    [![President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024")
+    [![400 legs of the specialty Spanish ham were stolen. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "400 legs of the specialty Spanish ham were stolen. ")
     
-    ![President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024](https://static.euronews.com/articles/stories/08/85/76/02/368x207_cmsv2_3e49e1c6-9659-5de1-a644-e24bd55c17e6-8857602.jpg "President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024")](https://www.euronews.com/2024/11/18/trumps-re-election-will-test-europes-democratic-integrity-and-its-treatment-of-minorities)
+    ![400 legs of the specialty Spanish ham were stolen. ](https://static.euronews.com/articles/stories/08/86/80/60/368x207_cmsv2_21e8ec83-5cbf-534e-973d-802aedee18ce-8868060.jpg "400 legs of the specialty Spanish ham were stolen. ")](https://www.euronews.com/culture/2024/11/22/this-is-a-destruction-of-years-of-work-thieves-steal-200000-worth-of-festive-ham-in-spain)
     
     Now playing Next
     
-    [World News](https://www.euronews.com/programs/world)
+    [Food and Drink](https://www.euronews.com/culture/food-and-drink)
     
-    ### [Euroviews. Trump’s re-election will test Europe’s treatment of minorities](https://www.euronews.com/2024/11/18/trumps-re-election-will-test-europes-democratic-integrity-and-its-treatment-of-minorities)
+    ### [Hamburglars: Thieves steal €200,000 worth of gourmet Christmas meat](https://www.euronews.com/culture/2024/11/22/this-is-a-destruction-of-years-of-work-thieves-steal-200000-worth-of-festive-ham-in-spain)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -317,6 +317,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -362,61 +364,61 @@ Close menu sidebar
 Trending
 
 * [COP29](https://www.euronews.com/tag/cop29)
-* [War in Ukraine](https://www.euronews.com/tag/war-in-ukraine)
-* [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
-* [Ukraine](https://www.euronews.com/tag/ukraine)
-* [Donald Trump](https://www.euronews.com/tag/donald-trump)
+* [European Union](https://www.euronews.com/tag/european-union)
+* [Music](https://www.euronews.com/tag/music)
+* [EU Policy](https://www.euronews.com/tag/eu-policy)
 * [Vladimir Putin](https://www.euronews.com/tag/vladimir-putin)
+* [Donald Trump](https://www.euronews.com/tag/donald-trump)
 
 * * *
 
 Latest stories
 
-[![EU still needs work to meet the 2030 antimicrobial resistance targets.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "EU still needs work to meet the 2030 antimicrobial resistance targets.")
+[![Kate Nash in 2019 and some peaches](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Kate Nash in 2019 and some peaches")
 
-![EU still needs work to meet the 2030 antimicrobial resistance targets.](https://static.euronews.com/articles/stories/08/85/78/22/368x207_cmsv2_b4ca1b8d-db7b-5223-9397-a22e47022ab7-8857822.jpg "EU still needs work to meet the 2030 antimicrobial resistance targets.")](https://www.euronews.com/health/2024/11/18/eu-isnt-cutting-antibiotic-use-fast-enough-health-agency-says)
-
-Now playing Next
-
-[Health news](https://www.euronews.com/health/health-news)
-
-### [EU isn’t cutting antibiotic use fast enough, health agency says](https://www.euronews.com/health/2024/11/18/eu-isnt-cutting-antibiotic-use-fast-enough-health-agency-says)
-
-* * *
-
-[![Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ")
-
-![Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ](https://static.euronews.com/articles/stories/08/85/80/28/368x207_cmsv2_77b54dce-bd5c-5967-85db-d3c2449a0471-8858028.jpg "Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ")](https://www.euronews.com/culture/2024/11/18/portugal-wins-world-cheese-awards-as-uk-misses-out-due-to-post-brexit-customs)
+![Kate Nash in 2019 and some peaches](https://static.euronews.com/articles/stories/08/86/82/44/368x207_cmsv2_818cf4ae-6b02-5e38-bba5-75eb2ff218fc-8868244.jpg "Kate Nash in 2019 and some peaches")](https://www.euronews.com/culture/2024/11/22/butts-4-tour-busses-kate-nash-starts-onlyfans-to-fund-tour)
 
 Now playing Next
 
-[Food and Drink](https://www.euronews.com/culture/food-and-drink)
+[Culture news](https://www.euronews.com/culture/culture-news)
 
-### [World Cheese Awards: Portugal triumphs as Brexit torpedoes UK chances](https://www.euronews.com/culture/2024/11/18/portugal-wins-world-cheese-awards-as-uk-misses-out-due-to-post-brexit-customs)
+### ['Butts 4 Tour Busses': Kate Nash starts OnlyFans to fund tour](https://www.euronews.com/culture/2024/11/22/butts-4-tour-busses-kate-nash-starts-onlyfans-to-fund-tour)
 
 * * *
 
-[![People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.")
+[![People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018")
 
-![People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.](https://static.euronews.com/articles/stories/08/85/73/54/368x207_cmsv2_34fdad62-2a3c-5ac8-8cb0-3cc1838739e0-8857354.jpg "People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.")](https://www.euronews.com/my-europe/2024/11/18/1000-days-of-war-sea-of-flags-honour-ukraines-fallen-in-kyiv)
+![People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018](https://static.euronews.com/articles/stories/08/86/83/72/368x207_cmsv2_8f7441a1-05ed-5354-8e00-a5d4469ac4a5-8868372.jpg "People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018")](https://www.euronews.com/travel/2024/11/22/major-london-airport-evacuated-due-to-suspicious-item-in-luggage-are-flights-cancelled)
+
+Now playing Next
+
+[Travel News](https://www.euronews.com/travel/travel-news)
+
+### [London's Gatwick airport evacuated over bomb scare](https://www.euronews.com/travel/2024/11/22/major-london-airport-evacuated-due-to-suspicious-item-in-luggage-are-flights-cancelled)
+
+* * *
+
+[![Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ")
+
+![Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ](https://static.euronews.com/articles/stories/08/86/80/42/368x207_cmsv2_2845c942-faab-58fd-b7af-a53b2048e906-8868042.jpg "Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ")](https://www.euronews.com/my-europe/2024/11/22/polish-pm-tusks-party-holds-presidential-primary-to-choose-candidate)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [1,000 days of war: Kyiv square filled with flags for Ukraine's fallen](https://www.euronews.com/my-europe/2024/11/18/1000-days-of-war-sea-of-flags-honour-ukraines-fallen-in-kyiv)
+### [Polish PM Tusk's party holds presidential primary to choose candidate](https://www.euronews.com/my-europe/2024/11/22/polish-pm-tusks-party-holds-presidential-primary-to-choose-candidate)
 
 * * *
 
-[![President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024")
+[![400 legs of the specialty Spanish ham were stolen. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "400 legs of the specialty Spanish ham were stolen. ")
 
-![President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024](https://static.euronews.com/articles/stories/08/85/76/02/368x207_cmsv2_3e49e1c6-9659-5de1-a644-e24bd55c17e6-8857602.jpg "President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024")](https://www.euronews.com/2024/11/18/trumps-re-election-will-test-europes-democratic-integrity-and-its-treatment-of-minorities)
+![400 legs of the specialty Spanish ham were stolen. ](https://static.euronews.com/articles/stories/08/86/80/60/368x207_cmsv2_21e8ec83-5cbf-534e-973d-802aedee18ce-8868060.jpg "400 legs of the specialty Spanish ham were stolen. ")](https://www.euronews.com/culture/2024/11/22/this-is-a-destruction-of-years-of-work-thieves-steal-200000-worth-of-festive-ham-in-spain)
 
 Now playing Next
 
-[World News](https://www.euronews.com/programs/world)
+[Food and Drink](https://www.euronews.com/culture/food-and-drink)
 
-### [Euroviews. Trump’s re-election will test Europe’s treatment of minorities](https://www.euronews.com/2024/11/18/trumps-re-election-will-test-europes-democratic-integrity-and-its-treatment-of-minorities)
+### [Hamburglars: Thieves steal €200,000 worth of gourmet Christmas meat](https://www.euronews.com/culture/2024/11/22/this-is-a-destruction-of-years-of-work-thieves-steal-200000-worth-of-festive-ham-in-spain)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -671,6 +673,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
