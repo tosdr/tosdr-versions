@@ -31,6 +31,146 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz en Guayaquil este viernes 22 de noviembre
+=======================================================
+
+El cronograma de cortes de luz para Guayaquil contempla ocho horas de reducción del servicio eléctrico. Este se aplica en dos franjas
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Guayaquil tendrá cortes de luz de ocho horas este viernes 22 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-22T081349.199.jpg)
+
+El **Ministerio de Energía** dio a conocer los horarios de **cortes de luz** con la aplicación de la reducción de horas, hasta el domingo 24 de noviembre.
+
+### Más noticias
+
+* [¿Cómo reclamar por electrodomésticos dañados por cortes de luz en Guayaquil?](https://www.elcomercio.com/actualidad/guayaquil/cortes-luz-electrodomesticos-guayaquil-reclamo.html "¿Cómo reclamar por electrodomésticos dañados por cortes de luz en Guayaquil?")
+* [Aquiles Alvarez dice que no permitirá que se apague ‘el espíritu de la Navidad’ en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/aquiles-alvarez-dice-que-no-permitira-que-se-apague-espiritu-navidad-guayaquil.html "Aquiles Alvarez dice que no permitirá que se apague ‘el espíritu de la Navidad’ en Guayaquil")
+* [Esto se conoce sobre el secuestro del dueño de locales de empanadas en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/secuestro-dueno-locales-empanadas-guayaquil.html "Esto se conoce sobre el secuestro del dueño de locales de empanadas en Guayaquil")
+
+Cortes de luz reducidos
+-----------------------
+
+El cronograma contempla **la suspensión del servicio eléctrico** de ocho horas para los días viernes 22, sábado 23 y domingo 24 de noviembre de 2024.
+
+Esta programación incluye el horario generado por las **[nueve empresas distribuidoras](https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/ "https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/")** de energía eléctrica en Ecuador.
+
+Estos horarios están sujetos a los cambios de las **condiciones hidrológicas** y podrían reducirse dentro de la programación establecida.
+
+La reducción en las horas de cortes de luz se debe a que el suministro de **energía desde Colombia** empezó desde el domingo 17 de noviembre.
+
+Cortes de luz en Guayaquil
+--------------------------
+
+La empresa distribuidora de energía CNEL publicó la **programación de cortes de luz** para el viernes 22, sábado 23 y domingo 24 de noviembre de 2024.
+
+Estos horarios se mantienen en ocho horas, distribuidas en **dos franjas horarias de cuatro horas** para cada bloque de barrios afectados.
+
+El sector industrial, en cambio, mantendrá una **suspensión del servicio** de solamente cuatro horas continuas.
+
+Los comentarios de los usuarios no se hicieron esperar y se pueden leer **varias quejas** en las redes sociales. La mayoría de personas reclama que **no existe una rotación en los horarios** establecidos a lo largo de las semanas.
+
+Piden que se haga una **rotación entre los sectores y la aplicación** de los cortes a lo largo del día. Algunos usuarios se quejan de la suspensión de energía en las madrugadas debido a la delincuencia y otros, que no pueden trabajar en sus negocios.
+
+Aquí puede revisar el **cronograma completo** de este viernes 22 de noviembre:
+
+Cortes de luz en Quito este viernes 22 de noviembre
+===================================================
+
+El cronograma de cortes de luz para Quito contempla ocho horas de reducción del servicio eléctrico. Este se aplica en dos franjas
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito se aplican durante ocho horas.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-22T074228.221.jpg)
+
+El **Ministerio de Energía** dio a conocer los horarios de **cortes de luz** con la aplicación de la reducción de horas, hasta el domingo 24 de noviembre para Ecuador.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este viernes 22 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-viernes-22-de-noviembre.html "Así funciona el Pico y placa en Quito este viernes 22 de noviembre")
+* [Daniel Noboa habla de desestabilización, luego de las marchas de la oposición](https://www.elcomercio.com/actualidad/politica/daniel-noboa-desestabilizacion-marchas-oposicion.html "Daniel Noboa habla de desestabilización, luego de las marchas de la oposición")
+* [Cortes de luz se mantienen en ocho horas hasta el domingo 24 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-mantienen-ocho-horas-hasta-domingo-24-de-noviembre-ecuador.html "Cortes de luz se mantienen en ocho horas hasta el domingo 24 de noviembre en Ecuador")
+
+Cortes de luz reducidos
+-----------------------
+
+El cronograma publicado contempla **la suspensión del servicio eléctrico** de ocho horas para este viernes 22 de noviembre de 2024.
+
+Esta programación incluye el horario generado por las **[nueve empresas distribuidoras](https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/ "https://www.recursosyenergia.gob.ec/programacion-racionamientos-de-energia-por-distribuidora-3ultifin/")** de energía eléctrica en Ecuador.
+
+Estos horarios están sujetos a los cambios de las **condiciones hidrológicas** y podrían reducirse dentro de la programación establecida.
+
+La reducción en las horas de cortes de luz se debe a que el suministro de **energía desde Colombia** empezó desde el domingo 17 de noviembre.
+
+Cortes de luz en Quito
+----------------------
+
+La Empresa Eléctrica Quito publicó la **programación de cortes de luz** para el viernes 22 de noviembre de 2024 distribuida por franjas horarias y sectores.
+
+Estos horarios se mantienen en ocho horas, distribuidas en **dos franjas horarias de cuatro horas** para cada bloque de barrios afectados.
+
+El sector industrial, en cambio, mantendrá una **suspensión del servicio e**n un horario de siete horas continuas.
+
+Los comentarios de los usuarios no se hicieron esperar y se pueden leer **varias quejas** en las redes sociales. La mayoría de personas reclama que **no existe una rotación en los horarios** establecidos a lo largo de las semanas.
+
+Piden que se haga una **rotación entre los sectores y la aplicación** de los cortes a lo largo del día. Algunos usuarios se quejan de la suspensión de energía en las madrugadas debido a la delincuencia.
+
+Aquí puede revisar el **cronograma completo** de este viernes 22 de noviembre:
+
+Así funciona el Pico y placa en Quito este viernes 22 de noviembre
+==================================================================
+
+Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
+------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa se aplica en Quito para controlar el tránsito vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-21T151440.066.jpg)
+
+El **Pico y placa** es una restricción vehicular que rige en todo el Distrito Metropolitano de **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
+
+Esta **restricción excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
+
+### Más noticias
+
+* [Al menos cinco calles cerradas para atender incendio estructural en Quito](https://www.elcomercio.com/actualidad/quito/al-menos-cinco-calles-cerradas-para-atender-incendio-estructural-en-quito.html "Al menos cinco calles cerradas para atender incendio estructural en Quito")
+* [Eventos de fiestas de Quito del 21 de noviembre se aplazan por movilizaciones](https://www.elcomercio.com/actualidad/quito/eventos-de-fiestas-de-quito-del-21-de-noviembre-se-aplazan-por-movilizaciones.html "Eventos de fiestas de Quito del 21 de noviembre se aplazan por movilizaciones")
+* [Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-viernes-22-a-domingo-24-de-noviembre.html "Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre")
+
+Horarios de Pico y placa
+------------------------
+
+El Pico y placa se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
+
+Estos son los horarios de aplicación:
+
+* En la **mañana**: de 06:00 a 09:30
+* En la **tarde**: de 16:00 a 20:00
+
+El **Pico y placa** es una medida que se implementó en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
+
+Multas por infringir el Pico y placa
+------------------------------------
+
+La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
+
+Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
+
+Recuerda retirar tu auto de las plazas de parqueo
+-------------------------------------------------
+
+Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
+
+Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
+
+Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/UFguFjnMCB](https://t.co/UFguFjnMCB)
+> 
+> — AMTQuito (@AMT\_Quito) [October 18, 2024](https://twitter.com/AMT_Quito/status/1847210996382740688?ref_src=twsrc%5Etfw)
+
 Reactivación económica: algunas líneas para el corto plazo
 ==========================================================
 
@@ -57,31 +197,28 @@ La **reactivación** del **consumo** interno deberá recurrir a los **subsidios 
 
 El largo plazo debe enfocarse en fortalecer la **estructura económica del país**, diversificar fuentes de ingresos y mejorar la **competitividad**. Es necesario **construir una base sólida** para garantizar un **crecimiento sostenible** y una **economía diversificada**.
 
-Recuperar el crecimiento
-========================
+Cartas a Quito / 22 de noviembre de 2024
+========================================
 
-El comercio debe ser el motor de desarrollo y la economía abierta a la competencia internacional.
--------------------------------------------------------------------------------------------------
+Estas son las cartas a Quito de este viernes 22 de noviembre de 2024
+--------------------------------------------------------------------
 
-![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
 
-Tema siempre pertinente y más aún cuando una **política pública** mal llevada y ex profesamente empeorada con grandilocuencia a partir de la **década perdida**, donde se realiza todo lo posible por boicotear el **bienestar del país** y su gente. Según los enunciados del grupo de Puebla, hay que tener a la gente pobre para que sigan votando por ellos.
+Cambios en la Constitución 
+---------------------------
 
-Pues basta preguntar ¿Qué es necesario para lograr restablecer el **crecimiento**?
+En este estado de cosas (apagones, crisis social y económica, etc.) y con esta incertidumbre permanente, los ecuatorianos afrontamos un nuevo reto: la proximidad de las elecciones, asunto que, como es obvio,  nos inquieta sobremanera y nos deja muchas dudas al respecto…¿Tantos candidatos? Es la pregunta que todos nos hacemos  ¿Es que acaso priman los intereses económicos, personales o políticos, dejando de lado  el  bienestar y la seguridad de los ecuatorianos? 
 
-El **impulso inicial** provino de la **liberación y expansión del comercio mundial** y del **sistema financiero** en la segunda mitad del siglo XX. La apertura de **mercados de las naciones industrializadas**, la expansión del flujo de **capitales internacionales privados** y el comercio recíproco de mercancías, a través de los acuerdos de **libre comercio,** proporcionan oportunidades sin precedentes para la diversificación, **modernización** y el **desarrollo**.
+Esto, aparte de mantenernos confundidos, representa un incalculable  despilfarro  en esta época de crisis por la que nos encontramos atravesando. 
 
-La **inversión extranjera** directa junto con el **financiamiento** de los **bancos privados** llego a hacer la fuente principal del capital para el desarrollo, complementado por el apoyo de los entes multilaterales; pero lamentablemente estas fuentes no están disponibles para nuestro país como resultado del alto **endeudamiento público** generado en esa década perdida, que ha dejado a los últimos tres gobiernos ilíquidos y pagando cuentas del derroche ajenas.
+Señor presidente: 
 
-Con lo que viene sucediendo en los últimos dos años debería ser suficiente para convencer al país que lo único estratégico es la **disponibilidad** de recursos, sean estos de alimentos, de infraestructura de **comunicaciones**, de salud, de energía y para ello nada mejor que un Estado con una **burocracia** pequeña, pero eficiente que lleve adelante las **políticas públicas** en apoyo a los **sectores productivos** que son al postre los que pagan con su **contribución impositiva** el **funcionamiento** del **sector público**.
+Hacen falta muchos cambios en la Constitución vigente; entre otras cosas, métodos y formas para  evaluar y seleccionar a los aspirantes a las diversas candidaturas, para evitar la inscripción de cualquier “hijo de vecino” simplemente porque tiene amigos de barrio (Gallada)  y familia numerosa; sin antes revisar, concienzuda y minuciosamente, sus antecedentes personales, policiales y políticos. 
 
-El **sector privado** es el eslabón crucial y solamente la iniciativa individual puede reunir los recursos adicionales, financieros y empresariales para aprovechar cabalmente de las **oportunidades** que presentan. Si concordamos que es preciso aprovechar de este gran recurso, entonces tenemos la **responsabilidad** de hacer todo lo necesario por utilizar racionalmente, a **nivel privado** y también como parte de la **política** global del país.
+¿Por qué no empezar por ahí, señor Presidente? Tratemos de unir fuerzas y hacer Patria, mejorando las absurdas y caducas leyes y reglamentos  elaborados a la medida y conveniencia de sus antecesores;  leyes que, desde luego, nos afectan y van en mengua de nuestros intereses y prioridades. Debemos tomar en consideración que países desarrollados del primer mundo cuya economía es completamente superior a la nuestra, cuentan tan solo con dos o tres candidatos, con lo que el panorama para los votantes se vuelve mucho más fácil y transparente y no se presta para  manipulaciones ni fraudes; además el egreso económico que representa  es, obviamente, más sustentable. 
 
-Por ello, si es preciso abogar por una **estrategia** de **desarrollo** que opere dentro del seno de una **economía abierta**, que recompense la iniciativa de inversión y el **esfuerzo** lucrativo, para lo cual se debe contar con varios elementos claves. El **crecimiento** debe basarse primordialmente en el ahorro interno. Esto entraña la retención del **capital interno** en el país. Cuando se premia el afán de lucro de la gente, el capital se vuelve **asequible** para la **inversión**. Cuando se premia y recompensa el **espíritu empresarial,** la gente responde con **productividad** e **innovación**
-
-Cómo complemento de ellos hay que dar un trato igual a la **inversión nacional y extranjera**. Esta última puede aportarnos, no solamente en la parte económica; sino que trae tecnología, capacitación e **innovaciones administrativas** y vinculación con el comercio internacional. Además, esta **inversión** extranjera no constituye deuda, al contrario, es un aporte al **desarrollo** contrariamente a lo que sucede con la **política estatista**, que no genera recursos, pero que sí se endeuda en el exterior.
-
-Estos **recursos de extranjeros** vienen a complementar el ahorro interno y no a su plantearlo. Finalmente, el **comercio** debe ser el motor de d**esarrollo y la economía** abierta a la competencia internacional trae como resultado elevar los niveles de vida, calidad de los productos elaborados en el país y **competitividad**. Todo esto se basa en un sencillo y poderoso principio: Un sistema que delega la fuerza productiva al individuo y sus organizaciones, financiados por capitales privados. En general, este riesgo de sector privado, que reconoce y **recompensa su laboriosidad y creatividad,** es un sistema que crece y prospera, **creando oportunidades, empleo y bienestar para el país**.
+Fabiola Carrera Alemán 
 
 El duro golpe a Loja y Azuay
 ============================
@@ -109,28 +246,31 @@ El Estado ecuatoriano ha buscado créditos internacionales para enfrentar la eme
 
 La crisis ambiental provocada por los incendios forestales en Azuay y Loja es un llamado urgente a la acción. La combinación de sequía e intervención humana ha llevado a una situación crítica que afecta tanto al medio ambiente como a la salud pública. Es fundamental evitar el uso político de estas emergencias y centrarse en soluciones efectivas que promuevan la sostenibilidad. La educación, la prevención y la colaboración son claves para enfrentar este desafío y proteger nuestro patrimonio natural para las **futuras generaciones.**
 
-Cartas a Quito / 22 de noviembre de 2024
-========================================
+Recuperar el crecimiento
+========================
 
-Estas son las cartas a Quito de este viernes 22 de noviembre de 2024
---------------------------------------------------------------------
+El comercio debe ser el motor de desarrollo y la economía abierta a la competencia internacional.
+-------------------------------------------------------------------------------------------------
 
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
 
-Cambios en la Constitución 
----------------------------
+Tema siempre pertinente y más aún cuando una **política pública** mal llevada y ex profesamente empeorada con grandilocuencia a partir de la **década perdida**, donde se realiza todo lo posible por boicotear el **bienestar del país** y su gente. Según los enunciados del grupo de Puebla, hay que tener a la gente pobre para que sigan votando por ellos.
 
-En este estado de cosas (apagones, crisis social y económica, etc.) y con esta incertidumbre permanente, los ecuatorianos afrontamos un nuevo reto: la proximidad de las elecciones, asunto que, como es obvio,  nos inquieta sobremanera y nos deja muchas dudas al respecto…¿Tantos candidatos? Es la pregunta que todos nos hacemos  ¿Es que acaso priman los intereses económicos, personales o políticos, dejando de lado  el  bienestar y la seguridad de los ecuatorianos? 
+Pues basta preguntar ¿Qué es necesario para lograr restablecer el **crecimiento**?
 
-Esto, aparte de mantenernos confundidos, representa un incalculable  despilfarro  en esta época de crisis por la que nos encontramos atravesando. 
+El **impulso inicial** provino de la **liberación y expansión del comercio mundial** y del **sistema financiero** en la segunda mitad del siglo XX. La apertura de **mercados de las naciones industrializadas**, la expansión del flujo de **capitales internacionales privados** y el comercio recíproco de mercancías, a través de los acuerdos de **libre comercio,** proporcionan oportunidades sin precedentes para la diversificación, **modernización** y el **desarrollo**.
 
-Señor presidente: 
+La **inversión extranjera** directa junto con el **financiamiento** de los **bancos privados** llego a hacer la fuente principal del capital para el desarrollo, complementado por el apoyo de los entes multilaterales; pero lamentablemente estas fuentes no están disponibles para nuestro país como resultado del alto **endeudamiento público** generado en esa década perdida, que ha dejado a los últimos tres gobiernos ilíquidos y pagando cuentas del derroche ajenas.
 
-Hacen falta muchos cambios en la Constitución vigente; entre otras cosas, métodos y formas para  evaluar y seleccionar a los aspirantes a las diversas candidaturas, para evitar la inscripción de cualquier “hijo de vecino” simplemente porque tiene amigos de barrio (Gallada)  y familia numerosa; sin antes revisar, concienzuda y minuciosamente, sus antecedentes personales, policiales y políticos. 
+Con lo que viene sucediendo en los últimos dos años debería ser suficiente para convencer al país que lo único estratégico es la **disponibilidad** de recursos, sean estos de alimentos, de infraestructura de **comunicaciones**, de salud, de energía y para ello nada mejor que un Estado con una **burocracia** pequeña, pero eficiente que lleve adelante las **políticas públicas** en apoyo a los **sectores productivos** que son al postre los que pagan con su **contribución impositiva** el **funcionamiento** del **sector público**.
 
-¿Por qué no empezar por ahí, señor Presidente? Tratemos de unir fuerzas y hacer Patria, mejorando las absurdas y caducas leyes y reglamentos  elaborados a la medida y conveniencia de sus antecesores;  leyes que, desde luego, nos afectan y van en mengua de nuestros intereses y prioridades. Debemos tomar en consideración que países desarrollados del primer mundo cuya economía es completamente superior a la nuestra, cuentan tan solo con dos o tres candidatos, con lo que el panorama para los votantes se vuelve mucho más fácil y transparente y no se presta para  manipulaciones ni fraudes; además el egreso económico que representa  es, obviamente, más sustentable. 
+El **sector privado** es el eslabón crucial y solamente la iniciativa individual puede reunir los recursos adicionales, financieros y empresariales para aprovechar cabalmente de las **oportunidades** que presentan. Si concordamos que es preciso aprovechar de este gran recurso, entonces tenemos la **responsabilidad** de hacer todo lo necesario por utilizar racionalmente, a **nivel privado** y también como parte de la **política** global del país.
 
-Fabiola Carrera Alemán 
+Por ello, si es preciso abogar por una **estrategia** de **desarrollo** que opere dentro del seno de una **economía abierta**, que recompense la iniciativa de inversión y el **esfuerzo** lucrativo, para lo cual se debe contar con varios elementos claves. El **crecimiento** debe basarse primordialmente en el ahorro interno. Esto entraña la retención del **capital interno** en el país. Cuando se premia el afán de lucro de la gente, el capital se vuelve **asequible** para la **inversión**. Cuando se premia y recompensa el **espíritu empresarial,** la gente responde con **productividad** e **innovación**
+
+Cómo complemento de ellos hay que dar un trato igual a la **inversión nacional y extranjera**. Esta última puede aportarnos, no solamente en la parte económica; sino que trae tecnología, capacitación e **innovaciones administrativas** y vinculación con el comercio internacional. Además, esta **inversión** extranjera no constituye deuda, al contrario, es un aporte al **desarrollo** contrariamente a lo que sucede con la **política estatista**, que no genera recursos, pero que sí se endeuda en el exterior.
+
+Estos **recursos de extranjeros** vienen a complementar el ahorro interno y no a su plantearlo. Finalmente, el **comercio** debe ser el motor de d**esarrollo y la economía** abierta a la competencia internacional trae como resultado elevar los niveles de vida, calidad de los productos elaborados en el país y **competitividad**. Todo esto se basa en un sencillo y poderoso principio: Un sistema que delega la fuerza productiva al individuo y sus organizaciones, financiados por capitales privados. En general, este riesgo de sector privado, que reconoce y **recompensa su laboriosidad y creatividad,** es un sistema que crece y prospera, **creando oportunidades, empleo y bienestar para el país**.
 
 Quito tendrá 247 cierres viales este domingo 24 de noviembre por competencia ciclística
 =======================================================================================
@@ -837,164 +977,3 @@ La primera etapa de la Vuelta Femenina, además, contó con el retiro de dos ped
 En la Vuelta Juvenil, **Mateo Ramírez** del Team Pichincha fue quien se estableció como líder de la clasificación. Dentro de las metas volantes, Anthony Trávez y Kevin Narváez del Movistar Best PC pasaron primeros las dos que se establecieron.
 
 En el sector femenino, **Nahomi Játiva** fue quien se constituyó en la cima.
-
-Consejo de la Judicatura tomó una decisión sobre concurso para jueces y conjueces de la CNJ
-===========================================================================================
-
-La CNJ reaccionó a la decisión del Consejo de la Judicatura sobre el concurso para jueces y conjueces.
-------------------------------------------------------------------------------------------------------
-
-![El concurso para jueces y conjueces de la CNJ tuvo varias anomalías.](https://www.elcomercio.com/wp-content/uploads/2024/11/concurso-jueces-conjueces-cnj.jpg)
-
-El Consejo de la Judicatura (CJ) tomó una decisión sobre el **Concurso para Seleccionar y Designar Jueces y Conjueces de la Corte Nacional de Justicia (CNJ)**, la tarde de este jueves 21 de noviembre de 2024.
-
-Tras la salida de **Álvaro Román** de la Presidencia del CJ, se identificaron varias anomalías en el desarrollo del concurso.
-
-### Más noticias:
-
-* [Futuro del concurso de jueces y conjueces de la CNJ se conocerá esta semana](https://www.elcomercio.com/actualidad/seguridad/futuro-del-concurso-jueces-conjueces-cnj-conocera-esta-semana.html "Futuro del concurso de jueces y conjueces de la CNJ se conocerá esta semana")
-* [El CJ hizo un pedido a Contraloría sobre el concurso de jueces y conjueces nacionales](https://www.elcomercio.com/actualidad/politica/cj-pedido-contraloria-concurso-jueces-conjueces-nacionales.html)
-
-Decisión del Consejo de la Judicatura sobre el concurso de jueces y conjueces de la CNJ
----------------------------------------------------------------------------------------
-
-El Pleno del Consejo de la Judicatura (CJ) declaró la **nulidad total** insanable del proceso del Concurso para Seleccionar y Designar Jueces y Conjueces de la Corte Nacional de Justicia (CNJ).
-
-La decisión fue aprobada con el voto de los vocales: **Solanda Goyes, Merck Benavides** y el presidente **Mario Godoy**.
-
-Esta mayoría tomó la decisión por la magnitud de las **anomalías insanables** detectadas en las calificaciones otorgadas en la fase de Méritos.
-
-Se dispuso remitir los informes y la Resolución aprobada a la **Dirección Nacional de Transparencia**.
-
-Además, a la **Subdirección Nacional de Control Disciplinario y a la Unidad de Auditoría Interna** del CJ para que realicen una investigación y procedan con las acciones legales que correspondan.
-
-Se notificará a la **Contraloría General del Estado** para que realice un examen especial al Concurso.
-
-Así, el proceso de selección de 10 jueces y 15 conjueces nacionales vuelve a **cero**.
-
-La CNJ reaccionó a la decisión sobre el concurso de jueces y conjueces
-----------------------------------------------------------------------
-
-En un comunicado, firmado por el presidente **José Suing**, la Corte Nacional de Justicia (CNJ) se pronunció sobre la decisión del CJ.
-
-Suing señaló que resolución del Pleno del Consejo de la Judicatura “**preocupa** a toda la comunidad jurídica del país, toda vez que es prioritario que el máximo órgano de justicia ordinaria complete su  
-integración total”.
-
-Suing señaló que es imperativo que el CJ **asuma con responsabilidad** las observaciones realizadas, rectifique los errores cometidos, y proceda con la mayor **celeridad** a organizar un nuevo concurso.
-
-El nuevo proceso debe garantizar la **transparencia**, la imparcialidad y el cumplimiento estricto de los principios constitucionales y legales.
-
-“Solo de esta manera será posible avanzar hacia la **reinstitucionalización** efectiva de la Corte Nacional de Justicia”, dijo.
-
-Además de asegurar que los servidores judiciales designados cumplan con los más **altos estándares éticos, técnicos y profesionales**“, agregó.
-
-La sociedad ecuatoriana necesita recuperar la **confianza** en el sistema judicial, indicó Suing.
-
-“Es imperativo que el nuevo concurso se desarrolle con **celeridad, rigor y transparencia**“, sentenció.
-
-Deportivo Quito recibe respaldo de hinchas antes de viajar a Portoviejo
-=======================================================================
-
-Los jugadores del Deportivo Quito recibieron el apoyo de la barra organizada antes de viajar para visitar a Liga de Portoviejo.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores del Deportivo Quito viajaron a Portoviejo. Antes, los futbolistas mantuvieron una charla con hinchas.](https://www.elcomercio.com/wp-content/uploads/2024/11/deportivoquito-2.jpg)
-
-En un encuentro cargado de emociones, los jugadores del **Deportivo Quito** se despidieron de sus hinchas antes de viajar a **Manabí** para enfrentar a **Liga de Portoviej**o en el partido de vuelta de los cuartos de final del **Ascenso Nacional.**
-
-La barra organizada, **Mafia Azul Grana**, encabezó el encuentro con los futbolistas, quienes recibieron palabras de aliento y el compromiso de su hinchada de acompañarlos en cada paso. Ocurrió este 21 de noviembre del 2024.
-
-### Más noticias:
-
-* [Robo de taquilla alerta el partido Liga de Portoviejo vs. Deportivo Quito](https://www.elcomercio.com/deportes/futbol/robo-taquilla-partido-liga-portoviejo-deportivo-quito.html "Robo de taquilla alerta el partido Liga de Portoviejo vs. Deportivo Quito")
-* [Liga de Portoviejo confirmó horario para recibir al Deportivo Quito](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-deportivo-quito-nacional.html "Liga de Portoviejo confirmó horario para recibir al Deportivo Quito")
-* [Deportivo Quito cayó con Liga de Portoviejo y prende velas](https://www.elcomercio.com/deportes/futbol/depotivo-quito-liga-portoviejo-marcador.html "Deportivo Quito cayó con Liga de Portoviejo y prende velas")
-* [Deportivo Quito va por la revancha en Portoviejo con la consigna ‘prohibido rendirse’](https://www.elcomercio.com/deportes/futbol/deportivo-quito-revancha-liga-portoviejo-prohibido-rendirse.html "Deportivo Quito va por la revancha en Portoviejo con la consigna ‘prohibido rendirse’")
-
-“La entrega no se negocia”, fue el mensaje unánime de los hinchas, quienes aseguraron que estarán presentes en Portoviejo para alentar al equipo.
-
-A través de sus redes sociales, la barra organizada expresó su agradecimiento a los jugadores y reafirmó su compromiso con el club.
-
-“Hoy se tuvo una pequeña charla con el plantel y el cuerpo técnico, ellos saben que no estarán solos en ninguna cancha y que en Portoviejo no será la excepción. Quedó claro que la entrega no debe ser negociable, en el fútbol todo puede pasar pero la actitud siempre debe estar por delante… Que Dios te bendiga **Sociedad Deportivo Quito,** jamás jugarás en silencio”, publicaron los hinchas.
-
-Como parte de un acuerdo previo entre ambas instituciones, el **Deportivo Quito** contará con un contingente de 300 entradas para sus aficionados en el estadio **Reales Tamarindos.**
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-7-1024x683.jpg)
-
-Un momento emotivo vivieron los jugadores y los hinchas en el Complejo Ney Mancheno de Carcelén.
-
-Deportivo Quito buscará remontar ante Liga de Portoviejo
---------------------------------------------------------
-
-Cabe recordar que en el partido de ida, jugado en el estadio **Gonzalo Pozo Ripalda**, Liga de Portoviejo se impuso por la mínima diferencia.
-
-El **Deportivo Quito** deberá remontar este resultado si quiere seguir con vida en el torneo y acercarse a su objetivo de regresar a la Serie B.
-
-La afición quiteña vive con gran expectativa este encuentro, ya que representa una oportunidad de oro para que su equipo se clasifique a las semifinales del Ascenso Nacional y se ponga a un paso de lograr el ansiado ascenso.
-
-Robo de taquilla en Portoviejo
-
-Robo empaña el partido Liga de Portoviejo vs. Deportivo Quito
--------------------------------------------------------------
-
-Días antes del partido, válido por los cuartos de final del **Ascenso Nacional,** se produjo el robo de una considerable suma de dinero de la taquilla del encuentro.
-
-Las autoridades locales ya iniciaron una investigación para dar con los responsables.
-
-Según las denuncias, unos **32 mil 500 dólares** fueron robados de la casa de un alto dirigente del equipo de Liga de Portoviejo. Ese dinero era de la taquilla por venta de entradas para cotejo contra Deportivo Quito.
-
-A pesar de este incidente, el partido se llevará a cabo según lo programado, con ambos equipos disputando un cupo a las semifinales. La hinchada de ambos clubes se prepara para vivir una jornada memorable en el estadio **Reales Tamarindos.**
-
-Mia Khalifa desmiente romance con campeón del mundo
-===================================================
-
-Mia Khalifa estuvo vinculada con la industria del cine para adultos en 2014. Luego se retiró.
----------------------------------------------------------------------------------------------
-
-![Mia Khalifa, modelo y actriz.](https://www.elcomercio.com/wp-content/uploads/2024/11/khalifa_alvarez_1.jpg)
-
-El nombre de **Mia Khalifa es mundialmente conocido por haberse convertido** en 2014 en la actriz más buscada y vista en los sitios dedicados al cine para adultos. Luego decidió retirarse y enfocarse en otras actividades.
-
-Mia Khalifa es un boom en redes sociales. Entre Facebook, X, Instagram y TikTok acumula una legión de más de **75 millones de seguidores, que siguen muy atentos las publicaciones** que la modelo realiza de forma continua.
-
-### Más noticias:
-
-* [Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-capitanes-sebastian-beccacece.html "Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador")
-* [Video recopiló partidazo de Moisés Caicedo vs. Colombia](https://www.elcomercio.com/deportes/futbol/moises-caicedo-video-ecuador-colombia.html "Video recopiló partidazo de Moisés Caicedo vs. Colombia")
-* [Video captó furiosa reacción de Richard Ríos ante Ecuador](https://www.elcomercio.com/deportes/futbol/richard-rios-video-cambio-ecuador.html "Video captó furiosa reacción de Richard Ríos ante Ecuador")
-
-Khalifa nació en Beirut, Líbano, el 10 de febrero de 1993, con el nombre de Sarah Joe Chamoun. En 2001 se mudó a **Estados Unidos junto con su familia y se afincaron en Maryland**, huyendo del conflicto armado que se desarrolló en el sur de su país.
-
-En 2019 reveló en una entrevista con la BBC, que por un total de seis videos recibió 12 000 dólares.
-
-Sin embargo, los productores se enriquecieron con los millones de dólares generados por la aparición de la joven de origen árabe en la industria. Ella no obtuvo regalías, **ni ningún tipo de recompensa por su popularidad, aseguró en ese momento**.
-
-Khalifa comentó que siente que se aprovecharon de ella y de su edad, porque no contaba con las herramientas para identificar que la estaban manipulando. Aunque reconoció que tomó sus propias decisiones y asume al 100% la responsabilidad de haber aceptado la propuesta.
-
-Uno de los últimos **romances conocidos de la actriz fue con el cantante y compositor** de música urbana Jhay Cortéz. Con el puertorriqueño mantuvo una relación sentimental entre 2021 y 2022.
-
-Khalifa y Julián Álvarez
-------------------------
-
-Infobae menciona este 21 de noviembre de 2024 que el vínculo entre Mia Khalifa y el jugador Julián Álvarez empezó a trascender en los diarios **The Sun de Inglaterra, A Bola de Portugal**, Il Messaggero de Italia y el portal de España Ok Diario.
-
-Las publicaciones se hicieron pese a que el jugador del Atlético Madrid mantiene una relación con María Emilia Ferrero, a **quien conoce desde que tiene nueve años** y con la que convive en la capital española.
-
-Khalifa utilizó su cuenta de X para aclarar el supuesto romance. Lo hizo tras recibir varias consultas de sus seguidores, que querían confirmar o desmentir la supuesta relación.
-
-“Para aclarar las cosas: **no estoy saliendo con nadie, y si lo estuviera, ciertamente, no sería** con alguien que no tenga la edad suficiente para recordar dónde estaba el 11 de septiembre”, dijo.
-
-Álvarez nació el 31 de enero de 2000. **Su debut profesional fue con River Plate en 2017**. En 2022 fue transferido al Manchester City y en el 2024 al Atlético Madrid por pedido de su compatriota Diego Simeone.
-
-La ‘Araña’ fue clave para que **Argentina gane la Copa del Mundo Catar 2022**. Anotó cuatro goles en los siete partidos que jugó.
-
-También tiene en su palmarés personal el título del Preolímpico Sudamericano 2020 en Colombia, el de la **Copa América Brasil 2021 y Estados Unidos 2024**, y la Copa de Campeones Conmebol-UEFA 2022 en la que vencieron a Italia en Londres.
-
-Para zanjar de una vez por todas el rumor, **Álvarez publicó el miércoles 20 una historia** en su cuenta de Instagram con la fotografía de su actual pareja. La frase “Te amo”, más un corazón blanco, complementaron el posteo.
-
-![Foto: Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/11/khalifa_alvarez_3-1024x683.jpg)
-
-Foto: Instagram del futbolista.
-
-San viernes
------------
