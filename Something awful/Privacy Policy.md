@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Game SWAT](https://www.somethingawful.com/fashion-swat/game-swat/1/)
-* [The Final Myth Busted](https://www.somethingawful.com/news/final-mythbusters-episode/1/)
-* [The World of Bongo (Thanks, Fiddy Pea!)](https://www.somethingawful.com/awful-links/world-bongo-awards/)
-* [Definitive Movies](https://www.somethingawful.com/photoshop-phriday/definitive-movies/1/)
-* [Movie Cats! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/cat-movies/)
+* [September 22, 2008](https://www.somethingawful.com/forum-fridays/ff09-22-08/1/)
+* [I MIGHT OF GOT SIX GIRLS PREGNANT LAST WEEK](https://www.somethingawful.com/levi-johnston/bristol-levi-split/1/)
+* [The Scroll of Unfortunate Prophecy Predicts: Cinema](https://www.somethingawful.com/news/cinema-unfortunate-prophecy/1/)
+* [Dungeons & Dragons Monsters](https://www.somethingawful.com/photoshop-phriday/dungeons-dragons-monsters/1/)
+* [MSPaint Your Climax Face](https://www.somethingawful.com/comedy-goldmine/climax-faces/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Made up QCS drama thread](http://forums.somethingawful.com/showthread.php?threadid=4075797 "Made up QCS drama thread")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [ceilings: how tall is too tall?](http://forums.somethingawful.com/showthread.php?threadid=4075771 "ceilings: how tall is too tall?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-toucan.gif) [Name a Vibe](http://forums.somethingawful.com/showthread.php?threadid=4075712 "Name a Vibe")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/goonmeet.png) [Have any goons lived in a halfway house?](http://forums.somethingawful.com/showthread.php?threadid=4075727 "Have any goons lived in a halfway house?")
+* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [Cartoon Characters you would betray](http://forums.somethingawful.com/showthread.php?threadid=4075802 "Cartoon Characters you would betray")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Build a 15 dollar breakfast](http://forums.somethingawful.com/showthread.php?threadid=4075800 "Build a 15 dollar breakfast")
 
 ### Random Articles
 
-* [Yet Another Ronald Reagan Retrospective](https://www.somethingawful.com/news/yet-another-ronald/)
-* [The Meatship Sets Sail](https://www.somethingawful.com/comedy-goldmine/meatship-seinfeld-script/1/)
-* [Productive Corvosations](https://www.somethingawful.com/news/dishonored-corvo-food/)
-* [SpEds Paintball](https://www.somethingawful.com/awful-links/awful-link-953/)
-* [eBay USA USA USA!](https://www.somethingawful.com/news/ebay-usa-usa/)
+* [Weezing to a Halt](https://www.somethingawful.com/your-band-sucks/weezing-halt/)
+* [THE GIRLS OF YOUR DREAMS ARE WAITING!](https://www.somethingawful.com/news/sexy-dream-girls/)
+* [Beware, the Shadow Government!](https://www.somethingawful.com/news/rock-on-shadow/)
+* [D&D's The Tomb of Horror, except every player is operating a bulldozer](https://www.somethingawful.com/comedy-goldmine/dungeons-dragons-bulldozers/)
+* [The Truth About Israel](https://www.somethingawful.com/feature-articles/israel-red-pill/)
 
 [Random!](https://www.somethingawful.com/random/)
 
