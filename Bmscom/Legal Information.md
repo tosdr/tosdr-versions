@@ -314,9 +314,9 @@ Business development
 
 [Business development leadership team](https://www.bms.com/business-development/partnering-leadership-team.html)
 
-[Begin a discussion](https://www.bms.com/business-development/begin-discussion.html)
-
 [Early innovation at BMS](https://www.bms.com/business-development/early-innovation.html)
+
+[Contact Business Development](https://www.bms.com/business-development/begin-discussion.html)
 
 Related links
 
