@@ -128,50 +128,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Johan Botha - Brand Xplosion
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=74575478)  
-Dombieterfontein (PTY) LTD
+![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=77759305)  
+Sportspro Group (Pty) Ltd
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=179139125)  
-Electro-Heat
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=143700901)  
+NJR ICT Services (Pty) Ltd
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=166355011)  
-OrgChart Hosting Pty Ltd
-
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=1547648)  
-Camp 4 Africa (Pty) Ltd
-
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=180194256)  
-Wiselink Broadband Vryheid
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=120163828)  
-Prosper Park
-
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=107942305)  
-Roekeloos Group
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=32063484)  
-Forgotten Goods (Pty) Ltd
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=174155582)  
-Safe-Train Consulting (PTY) Ltd
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=162415174)  
-Dr V Naik Consult
-
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=38233028)  
-Tantra Sound and Lightz
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=8699069)  
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=131349061)  
 National Elite Security Services (PTY) LTD
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=9701134)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=17132035)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=12574048)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=123092594)  
+NIMAWELL
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=0321a2240fe9193931558c124b4a62f1328a613339e78e3361d5c2c0f8e524ac&c=73497485)  
-MONSTER SECURITY SERVICES
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=198085899)  
+Sarabi
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=95840252)  
+Tagline Brands
+
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=21888383)  
+Moremi Kitchens Rustenburg
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=111870762)  
+VIV'S TRUCKS (Pty) Ltd. (117)
+
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=185578271)  
+Redlum Group (Pty) Ltd
+
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=44216527)  
+APTV Telecoms CC
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=169099962)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=207641391)  
+African Roots
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=102478171)  
+Firstweb Hosting & Design
+
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=9d3c71eb35126e63e8780847f048d61375f589b3ab22fe5c0b568686f04d1b74&c=14658793)  
+AMS Ambu Medical Supplies
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
