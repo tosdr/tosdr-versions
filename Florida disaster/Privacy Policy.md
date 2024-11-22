@@ -54,13 +54,13 @@ Search
             * [Substantial Damage Resources](https://www.floridadisaster.org/dem/mitigation/floodplain/substantial-damage-resources/)
         * [Flood Mitigation Assistance Program](https://www.floridadisaster.org/dem/mitigation/flood-mitigation-assistance-program/)
         * [Hazard Mitigation Grant Program](https://www.floridadisaster.org/dem/mitigation/hazard-mitigation-grant-program/)
+            * [Watershed Planning Program](https://www.floridadisaster.org/dem/mitigation/hazard-mitigation-grant-program/watershed-planning/)
         * [Hurricane Loss Mitigation Program](https://www.floridadisaster.org/dem/mitigation/hurricane-loss-mitigation-program/)
         * [Local Mitigation Strategy](https://www.floridadisaster.org/dem/mitigation/local-mitigation-strategy/)
         * [State Mitigation Strategy](https://www.floridadisaster.org/dem/mitigation/statemitigationstrategy/)
             * [State Hazard Mitigation Plan](https://www.floridadisaster.org/dem/mitigation/statemitigationstrategy/state-hazard-mitigation-plan/)
         * [Pre-Disaster Mitigation Grant Program](https://www.floridadisaster.org/dem/mitigation/pre-disaster-mitigation-grant-program/)
         * [Building Resilient Infrastructure and Communities (BRIC) Grant Program](https://www.floridadisaster.org/dem/mitigation/builing-resilient-infrastructure-and-communities-bric-grant-program/)
-        * [Watershed Planning Initiative](https://www.floridadisaster.org/dem/mitigation/watershed-planning-initiative/)
         * [STORM Revolving Loan Fund](https://www.floridadisaster.org/dem/mitigation/safeguarding-tomorrow-through-ongoing-risk-mitigation-storm-revolving-loan-fund/)
         * [Swift Current](https://www.floridadisaster.org/dem/mitigation/swift-current/)
     * [Procurement](https://www.floridadisaster.org/dem/procurement-and-contract-management/)
@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, November 21, 2024**
+**Friday, November 22, 2024**
 
-**...Mostly Sunny and Dry Conditions Today As a Cool and Dry Airmass Moves In Behind the Recent Cold Front...Breezy Northerly to Northwesterly Winds With Gusts Upwards of 15-25 MPH Throughout the Day...Locally Sensitive Wildfire Conditions Across North and Central Florida As Relative Humidity Values Fall Below Critical Thresholds This Afternoon (25-45%)...Low Temperatures Will Fall Into the Upper 30s to Middle 40s Across North Florida Tonight But Feel Like They Are In The Middle 30s to Low 40s Early Friday Morning Thanks to Elevated Winds...Moderate to High Risk for Rip Currents and Hazardous Beach and Boating Conditions Statewide...Minor to Locally Moderate Saltwater Flooding Along the Middle and Upper Keys...**
+**...Mostly Sunny and Dry Conditions Expected Statewide With A Cool and Dry Area of High Pressure Building In...Breezy Winds With Gusts Upwards of 15-25 MPH Persist Across the State...Elevated Risk for Fire Weather Across the North-Central Peninsula Today; Sensitive to Elevated Wildfire Conditions Expected Across Portions of North and Central Florida With Locally Sensitive Wildfire Conditions Elsewhere As Relative Humidity Values Fall Near or Below Critical Thresholds...Elevated Winds To Cause Temperatures to Feel Like They Are In The Low to Middle 30s Across North Florida Overnight Into Early Saturday Morning...Frost Advisories Issued Along the Western Panhandle Diminishing Winds Will Allow For Areas of Frost Across North Florida Overnight Into Early Saturday Morning; Additional Frost Advisories Will Likely Be Issued Later Today...Moderate to High Risk for Rip Currents and Hazardous Beach and Boating Conditions Persist Statewide...Minor Saltwater Flooding Continues Along the Upper and Middle Keys...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
