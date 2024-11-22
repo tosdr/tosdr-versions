@@ -27,14 +27,13 @@
     
     * Testing
     * [About DUX Authentication & The Genuinity Guarantee](https://silverbullion.com.sg/DUX)
-    * [Request Authentication (via Contact form)](https://silverbullion.com.sg/ContactUs)
     * [Retrieve DUX Test Results](https://silverbullion.com.sg/InspectionVerification.aspx)
 * Vaulting
+    * [Transfer Precious Metals To Us](https://silverbullion.com.sg/StorageTransfer.aspx)
+    * [Borrow Against Your Holdings](https://silverbullion.com.sg/Loans/ForBorrowers)
     * [Store With Us](https://silverbullion.com.sg/store-precious-metals-singapore)
     * [S.T.A.R. Parcels and Fees](https://silverbullion.com.sg/STAR)
     * [S.T.A.R. Grams and Fees](https://silverbullion.com.sg/STAR-Grams)
-    * [Transfer Precious Metals To Us](https://silverbullion.com.sg/StorageTransfer.aspx)
-    * [Collateralize Precious Metals](https://silverbullion.com.sg/Loans/ForBorrowers)
     * [Open a S.T.A.R. Storage Account](https://silverbullion.com.sg/Register)
     
     * YOUR 4 ASSET PROTECTION PILLARS
@@ -52,21 +51,21 @@
     * [Our Insurance Certificate](https://silverbullion.com.sg/Report/TshInsuranceCertificate)
     * [Quarterly Vault Audits](https://silverbullion.com.sg/Report/TshVaultAudit)
     * [Retrieve Bullion Test Certificates](https://silverbullion.com.sg/InspectionVerification.aspx)
-    * [Confirm Our LBMA Membership](https://www.lbma.org.uk/membership/current-membership#%7B%22filters%22%3A%5B%7B%22property%22%3A%22country%22%2C%22label%22%3A%22Singapore%22%7D%5D%7D)
-    * [Contact Us](https://silverbullion.com.sg/ContactUs)
+    * [Our LBMA Membership](https://www.lbma.org.uk/membership/current-membership#%7B%22filters%22%3A%5B%7B%22property%22%3A%22country%22%2C%22label%22%3A%22Singapore%22%7D%5D%7D)
 * P2P Loans
+    * [Open a S.T.A.R. Account](https://silverbullion.com.sg/precious-metal-loans#GetStarted)
     * [Bid/Ask Market](https://silverbullion.com.sg/P2P-Market)
-    * [P2P Lending Overview](https://silverbullion.com.sg/precious-metal-loans)
+    * Get Started
+    
+    * [P2P Loans Overview](https://silverbullion.com.sg/precious-metal-loans)
+    * [P2P Funding Options](https://silverbullion.com.sg/P2P-Funding-Options)
     * [How To Lend](https://silverbullion.com.sg/Loans/ForLenders)
     * [How To Borrow](https://silverbullion.com.sg/Loans/ForBorrowers)
-    
-    * Get Started
-    * [Open a S.T.A.R. Account](https://silverbullion.com.sg/precious-metal-loans#GetStarted)
-    
     * Important Concepts
+    
     * [How Lender Funds Are Protected?](https://silverbullion.com.sg/Loans/ForLenders#Protect)
     * [Late Payments and The Sweeper Fund](https://silverbullion.com.sg/Loans/ForBorrowers#LatePayment)
-    * [Loans Start On The 1st , 8th, 15th, 22nd](https://silverbullion.com.sg/P2P-Funding-Options)
+    * [Loans Start On The 1st , 8th, 15th, 22nd](https://silverbullion.com.sg/P2P-Funding-Options#P2P-StartDates)
     * [The Regulatory Basis and More](https://silverbullion.com.sg/Loans/MoreInfo#Regulation)
     * [Frequently Asked Questions](https://silverbullion.com.sg/Faq/Category/P2P-Loans)
 * Resources
@@ -123,7 +122,7 @@
     *  [![](data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSIjMDAwMDAwIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPGcgZmlsbD0ibm9uZSI+IDxjaXJjbGUgZmlsbD0iIzNFNzNDNCIgY3g9IjE2IiBjeT0iMTYiIHI9IjE2Ii8+IDxnIGZpbGw9IiNGRkYiPiA8cGF0aCBkPSJNMjAuMDIyIDE4LjEyNGMwLTIuMTI0LTEuMjgtMi44NTItMy44NC0zLjE1Ni0xLjgyOC0uMjQzLTIuMTkzLS43MjgtMi4xOTMtMS41NzggMC0uODUuNjEtMS4zOTYgMS44MjgtMS4zOTYgMS4wOTcgMCAxLjcwNy4zNjQgMi4wMTEgMS4yNzVhLjQ1OC40NTggMCAwMC40MjcuMzAzaC45NzVhLjQxNi40MTYgMCAwMC40MjctLjQyNXYtLjA2YTMuMDQgMy4wNCAwIDAwLTIuNzQzLTIuNDg5VjkuMTQyYzAtLjI0My0uMTgzLS40MjUtLjQ4Ny0uNDg2aC0uOTE1Yy0uMjQzIDAtLjQyNi4xODItLjQ4Ny40ODZ2MS4zOTZjLTEuODI5LjI0Mi0yLjk4NiAxLjQ1Ni0yLjk4NiAyLjk3NCAwIDIuMDAyIDEuMjE4IDIuNzkxIDMuNzc4IDMuMDk1IDEuNzA3LjMwMyAyLjI1NS42NjggMi4yNTUgMS42MzkgMCAuOTctLjg1MyAxLjYzOC0yLjAxMSAxLjYzOC0xLjU4NSAwLTIuMTMzLS42NjctMi4zMTYtMS41NzgtLjA2LS4yNDItLjI0NC0uMzY0LS40MjctLjM2NGgtMS4wMzZhLjQxNi40MTYgMCAwMC0uNDI2LjQyNXYuMDZjLjI0MyAxLjUxOCAxLjIxOSAyLjYxIDMuMjMgMi45MTR2MS40NTdjMCAuMjQyLjE4My40MjUuNDg3LjQ4NWguOTE1Yy4yNDMgMCAuNDI2LS4xODIuNDg3LS40ODVWMjEuMzRjMS44MjktLjMwMyAzLjA0Ny0xLjU3OCAzLjA0Ny0zLjIxN3oiLz4gPHBhdGggZD0iTTEyLjg5MiAyNC40OTdjLTQuNzU0LTEuNy03LjE5Mi02Ljk4LTUuNDI0LTExLjY1My45MTQtMi41NSAyLjkyNS00LjQ5MSA1LjQyNC01LjQwMi4yNDQtLjEyMS4zNjUtLjMwMy4zNjUtLjYwN3YtLjg1YzAtLjI0Mi0uMTIxLS40MjQtLjM2NS0uNDg1LS4wNjEgMC0uMTgzIDAtLjI0NC4wNmExMC44OTUgMTAuODk1IDAgMDAtNy4xMyAxMy43MTdjMS4wOTYgMy40IDMuNzE3IDYuMDEgNy4xMyA3LjEwMi4yNDQuMTIxLjQ4OCAwIC41NDgtLjI0My4wNjEtLjA2LjA2MS0uMTIyLjA2MS0uMjQzdi0uODVjMC0uMTgyLS4xODItLjQyNC0uMzY1LS41NDZ6bTYuNDYtMTguOTM2Yy0uMjQ0LS4xMjItLjQ4OCAwLS41NDguMjQyLS4wNjEuMDYxLS4wNjEuMTIyLS4wNjEuMjQzdi44NWMwIC4yNDMuMTgyLjQ4NS4zNjUuNjA3IDQuNzU0IDEuNyA3LjE5MiA2Ljk4IDUuNDI0IDExLjY1My0uOTE0IDIuNTUtMi45MjUgNC40OTEtNS40MjQgNS40MDItLjI0NC4xMjEtLjM2NS4zMDMtLjM2NS42MDd2Ljg1YzAgLjI0Mi4xMjEuNDI0LjM2NS40ODUuMDYxIDAgLjE4MyAwIC4yNDQtLjA2YTEwLjg5NSAxMC44OTUgMCAwMDcuMTMtMTMuNzE3Yy0xLjA5Ni0zLjQ2LTMuNzc4LTYuMDctNy4xMy03LjE2MnoiLz4gPC9nPiA8L2c+IDwvZz4KDTwvc3ZnPg==) USDC - USD Coin](https://silverbullion.com.sg/Widgets/SetPreferredCurrency/USDC)
     *  [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAwIiBoZWlnaHQ9IjE3NTAiIHZpZXdCb3g9IjAgMCAyMDAwIDE3NTAiPjxwYXRoIGZpbGw9IiM1M2FlOTQiIGQ9Ik0xNjMyLjMgMCAzNjcuNyAwIDAgNzg1Ljk4IDEwMDAgMTc1MCAyMDAwIDc4NS45OCAxNjMyLjMgMHoiLz48cGF0aCBkPSJNMTEzOC44OCw2MjYuMTJWNDczLjU4SDE0ODcuN1YyNDEuMTdINTM3Ljg3VjQ3My41OEg4ODYuNzJWNjI2QzYwMy4yLDYzOSwzOTAsNjk1LjE3LDM5MCw3NjIuNDNTNjAzLjMsODg1Ljg1LDg4Ni43Miw4OTl2NDg4LjU5SDExMzlWODk4LjkxYzI4My0xMy4wNiw0OTUuNzUtNjkuMTcsNDk1Ljc1LTEzNi4zOFMxNDIyLDYzOS4yMiwxMTM5LDYyNi4xNm0wLDIzMS4zN3YtLjEzYy03LjExLjQ1LTQzLjY4LDIuNjUtMTI1LjA5LDIuNjUtNjUuMDksMC0xMTAuODktMS44NS0xMjctMi42OXYuMjFDNjM2LjM2LDg0Ni40Nyw0NDkuNCw4MDIuODUsNDQ5LjQsNzUwLjY2czE4Ny05NS43NSw0MzcuNDQtMTA2Ljg2VjgxNC4xMWMxNi40MSwxLjEzLDYzLjMzLDMuOSwxMjguMDksMy45LDc3Ljc5LDAsMTE2LjktMy4yNCwxMjQuMDctMy45VjY0My44YzI1MCwxMS4xMyw0MzYuNTMsNTQuNzksNDM2LjUzLDEwNi44UzEzODguOTEsODQ2LjI5LDExMzksODU3LjQyIiBmaWxsPSIjZmZmIi8+PC9zdmc+) USDT - Tether USD](https://silverbullion.com.sg/Widgets/SetPreferredCurrency/USDT)
     
-* [**Silver** 41.67 SGD **Gold** 3,612.56 SGD **Platinum** 1,310.66 SGD **USD/SGD:** 1.3451 Prices & charts](https://silverbullion.com.sg/Chart/Prices)
+* [**Silver** 42.13 SGD **Gold** 3,637.23 SGD **Platinum** 1,305.67 SGD **USD/SGD:** 1.3487 Prices & charts](https://silverbullion.com.sg/Chart/Prices)
 * [Retail Shop](https://silverbullion.com.sg/Retail)
 * [SBTV](https://silverbullion.com.sg/SBTV)
 * [**Silver Bullion Singapore**](#)
@@ -183,14 +182,13 @@
     
     * Testing
     * [About DUX Authentication & The Genuinity Guarantee](https://silverbullion.com.sg/DUX)
-    * [Request Authentication (via Contact form)](https://silverbullion.com.sg/ContactUs)
     * [Retrieve DUX Test Results](https://silverbullion.com.sg/InspectionVerification.aspx)
 * [Vaulting](https://silverbullion.com.sg/store-precious-metals-singapore)
+    * [Transfer Precious Metals To Us](https://silverbullion.com.sg/StorageTransfer.aspx)
+    * [Borrow Against Your Holdings](https://silverbullion.com.sg/Loans/ForBorrowers)
     * [Store With Us](https://silverbullion.com.sg/store-precious-metals-singapore)
     * [S.T.A.R. Parcels and Fees](https://silverbullion.com.sg/STAR)
     * [S.T.A.R. Grams and Fees](https://silverbullion.com.sg/STAR-Grams)
-    * [Transfer Precious Metals To Us](https://silverbullion.com.sg/StorageTransfer.aspx)
-    * [Collateralize Precious Metals](https://silverbullion.com.sg/Loans/ForBorrowers)
     * [Open a S.T.A.R. Storage Account](https://silverbullion.com.sg/Register)
     
     * YOUR 4 ASSET PROTECTION PILLARS
@@ -208,21 +206,21 @@
     * [Our Insurance Certificate](https://silverbullion.com.sg/Report/TshInsuranceCertificate)
     * [Quarterly Vault Audits](https://silverbullion.com.sg/Report/TshVaultAudit)
     * [Retrieve Bullion Test Certificates](https://silverbullion.com.sg/InspectionVerification.aspx)
-    * [Confirm Our LBMA Membership](https://www.lbma.org.uk/membership/current-membership#%7B%22filters%22%3A%5B%7B%22property%22%3A%22country%22%2C%22label%22%3A%22Singapore%22%7D%5D%7D)
-    * [Contact Us](https://silverbullion.com.sg/ContactUs)
+    * [Our LBMA Membership](https://www.lbma.org.uk/membership/current-membership#%7B%22filters%22%3A%5B%7B%22property%22%3A%22country%22%2C%22label%22%3A%22Singapore%22%7D%5D%7D)
 * [P2P Loans](https://silverbullion.com.sg/precious-metal-loans)
+    * [Open a S.T.A.R. Account](https://silverbullion.com.sg/precious-metal-loans#GetStarted)
     * [Bid/Ask Market](https://silverbullion.com.sg/P2P-Market)
-    * [P2P Lending Overview](https://silverbullion.com.sg/precious-metal-loans)
+    * Get Started
+    
+    * [P2P Loans Overview](https://silverbullion.com.sg/precious-metal-loans)
+    * [P2P Funding Options](https://silverbullion.com.sg/P2P-Funding-Options)
     * [How To Lend](https://silverbullion.com.sg/Loans/ForLenders)
     * [How To Borrow](https://silverbullion.com.sg/Loans/ForBorrowers)
-    
-    * Get Started
-    * [Open a S.T.A.R. Account](https://silverbullion.com.sg/precious-metal-loans#GetStarted)
-    
     * Important Concepts
+    
     * [How Lender Funds Are Protected?](https://silverbullion.com.sg/Loans/ForLenders#Protect)
     * [Late Payments and The Sweeper Fund](https://silverbullion.com.sg/Loans/ForBorrowers#LatePayment)
-    * [Loans Start On The 1st , 8th, 15th, 22nd](https://silverbullion.com.sg/P2P-Funding-Options)
+    * [Loans Start On The 1st , 8th, 15th, 22nd](https://silverbullion.com.sg/P2P-Funding-Options#P2P-StartDates)
     * [The Regulatory Basis and More](https://silverbullion.com.sg/Loans/MoreInfo#Regulation)
     * [Frequently Asked Questions](https://silverbullion.com.sg/Faq/Category/P2P-Loans)
 * [Resources](https://silverbullion.com.sg/Articles/Latest)
@@ -445,4 +443,4 @@ S.T.A.R. Bullion Storage and Silver Bullion logos and names are registered trade
 
 ×Close
 
-[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.608241259403639)
+[](https://silverbullion.com.sg/Account/DormantPopup?rand=0.603526464478824)
