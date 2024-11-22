@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Matios.N](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4a862%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256561-matiosn/ "Ir ao perfil de Matios.N")
+    * [![msupern](https://www.clubedohardware.com.br/uploads/members/monthly_2022_11/imported-photo-1208303.thumb.png.89fdc3a50b9ae940ff489e2ba62de424.png)](https://www.clubedohardware.com.br/profile/1208303-msupern/ "Ir ao perfil de msupern")
         
         0
         
-        [Qual memória devo usar com esta placa (não conheço nada de configuração de PC)](https://www.clubedohardware.com.br/forums/topic/1703073-qual-mem%C3%B3ria-devo-usar-com-esta-placa-n%C3%A3o-conhe%C3%A7o-nada-de-configura%C3%A7%C3%A3o-de-pc/?do=getNewComment "Qual memória devo usar com esta placa  (não conheço nada de configuração de PC)")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Matios.N](https://www.clubedohardware.com.br/profile/1256561-matiosn/ "Ir ao perfil de Matios.N")  
-        3 minutos atrás
-        
-    * [![Gabriel U](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/Perfil.thumb.jpg.993bd3e064a08deadceb0ce9d80fee0d.jpg)](https://www.clubedohardware.com.br/profile/1248187-gabriel-u/ "Ir ao perfil de Gabriel U")
-        
-        1
-        
-        [Confiabilidade em SSDs SATA III: Kingston, Crucial ou Adata? Quem ganha?](https://www.clubedohardware.com.br/forums/topic/1703072-confiabilidade-em-ssds-sata-iii-kingston-crucial-ou-adata-quem-ganha/?do=getNewComment "Confiabilidade em SSDs SATA III: Kingston, Crucial ou Adata? Quem ganha?")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Gabriel U](https://www.clubedohardware.com.br/profile/1248187-gabriel-u/ "Ir ao perfil de Gabriel U")  
-        9 minutos atrás
-        
-    * [![Diego Caruso Baes](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236c62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EDC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1203760-diego-caruso-baes/ "Ir ao perfil de Diego Caruso Baes")
-        
-        1
-        
-        [Qual fonte comprar para futuro upgrade RTX 4070 Super e Ryzen 7?](https://www.clubedohardware.com.br/forums/topic/1703071-qual-fonte-comprar-para-futuro-upgrade-rtx-4070-super-e-ryzen-7/?do=getNewComment "Qual fonte comprar para futuro upgrade RTX 4070 Super e Ryzen 7?")
+        [Existe algum condicionador ou protetor para desligar com sub e sobre tensão?](https://www.clubedohardware.com.br/forums/topic/1703111-existe-algum-condicionador-ou-protetor-para-desligar-com-sub-e-sobre-tens%C3%A3o/?do=getNewComment "Existe algum condicionador ou protetor para desligar com sub e sobre tensão?")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Diego Caruso Baes](https://www.clubedohardware.com.br/profile/1203760-diego-caruso-baes/ "Ir ao perfil de Diego Caruso Baes")  
-        24 minutos atrás
+        Por [msupern](https://www.clubedohardware.com.br/profile/1208303-msupern/ "Ir ao perfil de msupern")  
+        8 minutos atrás
         
-    * [![Gianluca Bracali](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/FotodePerfil2000x2000LowQuality(2)(2).thumb.jpg.b9f4ea24afce3a6003985837b59957a2.jpg)](https://www.clubedohardware.com.br/profile/1256471-gianluca-bracali/ "Ir ao perfil de Gianluca Bracali")
-        
-        3
-        
-        [Sinal Intermitente e Erro na Velocidade - GPS no Samsung Galaxy A54](https://www.clubedohardware.com.br/forums/topic/1703070-sinal-intermitente-e-erro-na-velocidade-gps-no-samsung-galaxy-a54/?do=getNewComment "Sinal Intermitente e Erro na Velocidade - GPS no Samsung Galaxy A54")
-        
-        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
-        Por [Gianluca Bracali](https://www.clubedohardware.com.br/profile/1256471-gianluca-bracali/ "Ir ao perfil de Gianluca Bracali")  
-        25 minutos atrás
-        
-    * [![Caioo213](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1245526.thumb.jpeg.d3581e5a5306b05c060ca6734b739c2f.jpeg)](https://www.clubedohardware.com.br/profile/1245526-caioo213/ "Ir ao perfil de Caioo213")
+    * [![LokoCrazy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1241196.thumb.jpeg.22226de737919e855c1ed89acae9a42d.jpeg)](https://www.clubedohardware.com.br/profile/1241196-lokocrazy/ "Ir ao perfil de LokoCrazy")
         
         0
         
-        [Devo optar por ajazz-ak820 ou attack shark k86?](https://www.clubedohardware.com.br/forums/topic/1703069-devo-optar-por-ajazz-ak820-ou-attack-shark-k86/?do=getNewComment "Devo optar por ajazz-ak820 ou attack shark k86?")
+        [congelamento após oscilação de energia](https://www.clubedohardware.com.br/forums/topic/1703110-congelamento-ap%C3%B3s-oscila%C3%A7%C3%A3o-de-energia/?do=getNewComment "congelamento após oscilação de energia")
         
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Caioo213](https://www.clubedohardware.com.br/profile/1245526-caioo213/ "Ir ao perfil de Caioo213")  
-        36 minutos atrás
+        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
+        Por [LokoCrazy](https://www.clubedohardware.com.br/profile/1241196-lokocrazy/ "Ir ao perfil de LokoCrazy")  
+        11 minutos atrás
         
-    * [![CarlosHenrique9](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4b2%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256498-carloshenrique9/ "Ir ao perfil de CarlosHenrique9")
+    * [![Willis_silvaa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256287.thumb.jpeg.db044a74adcd49b67588af6cbe21b689.jpeg)](https://www.clubedohardware.com.br/profile/1256287-willis_silvaa/ "Ir ao perfil de Willis_silvaa")
         
         0
         
-        [Qual marca de GeForce RTX 4070 Super comprar?](https://www.clubedohardware.com.br/forums/topic/1703068-qual-marca-de-geforce-rtx-4070-super-comprar/?do=getNewComment "Qual marca de GeForce RTX 4070 Super comprar?")
+        [RTX 4060 ou AMD Radeon RX 7600](https://www.clubedohardware.com.br/forums/topic/1703109-rtx-4060-ou-amd-radeon-rx-7600/?do=getNewComment "RTX 4060 ou AMD Radeon RX 7600")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [CarlosHenrique9](https://www.clubedohardware.com.br/profile/1256498-carloshenrique9/ "Ir ao perfil de CarlosHenrique9")  
-        37 minutos atrás
+        Por [Willis\_silvaa](https://www.clubedohardware.com.br/profile/1256287-willis_silvaa/ "Ir ao perfil de Willis_silvaa")  
+        13 minutos atrás
         
-    * [![Daniels_s](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46294%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EDS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1014430-daniels_s/ "Ir ao perfil de Daniels_s")
-        
-        1
-        
-        [Teclas Side Printed são uma boa ?](https://www.clubedohardware.com.br/forums/topic/1703067-teclas-side-printed-s%C3%A3o-uma-boa/?do=getNewComment "Teclas Side Printed são uma boa ?")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Daniels\_s](https://www.clubedohardware.com.br/profile/1014430-daniels_s/ "Ir ao perfil de Daniels_s")  
-        44 minutos atrás
-        
-    * [![will9595](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362adc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/893033-will9595/ "Ir ao perfil de will9595")
+    * [![vitupires](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1113370.thumb.jpeg.c552af1f15aae492aa3de59b193b05c2.jpeg)](https://www.clubedohardware.com.br/profile/1113370-vitupires/ "Ir ao perfil de vitupires")
         
         0
         
-        [Indicação microfone até R$1.000](https://www.clubedohardware.com.br/forums/topic/1703066-indica%C3%A7%C3%A3o-microfone-at%C3%A9-r1000/?do=getNewComment "Indicação microfone até R$1.000")
+        [HD Externo com outro sistema operacional](https://www.clubedohardware.com.br/forums/topic/1703108-hd-externo-com-outro-sistema-operacional/?do=getNewComment "HD Externo com outro sistema operacional")
         
-        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [will9595](https://www.clubedohardware.com.br/profile/893033-will9595/ "Ir ao perfil de will9595")  
-        53 minutos atrás
-        
-    * [![Marlon Calixto Morandi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244677.thumb.png.9b7aae9c07c2f9b1b03dc41450261d5a.png)](https://www.clubedohardware.com.br/profile/1244677-marlon-calixto-morandi/ "Ir ao perfil de Marlon Calixto Morandi")
-        
-        0
-        
-        [Mouse Redragon Griffin M607W simplesmente apagou, sensor ligado, leds apagados.](https://www.clubedohardware.com.br/forums/topic/1703065-mouse-redragon-griffin-m607w-simplesmente-apagou-sensor-ligado-leds-apagados/?do=getNewComment "Mouse Redragon Griffin M607W simplesmente apagou, sensor ligado, leds apagados.")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Marlon Calixto Morandi](https://www.clubedohardware.com.br/profile/1244677-marlon-calixto-morandi/ "Ir ao perfil de Marlon Calixto Morandi")  
-        1 hora atrás
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [vitupires](https://www.clubedohardware.com.br/profile/1113370-vitupires/ "Ir ao perfil de vitupires")  
+        18 minutos atrás
         
     * [![CristianCDS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247041.thumb.jpeg.d087c51a2322ac7f4e0e8a325ce3d158.jpeg)](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")
         
         0
         
-        [Tablets ainda valem a pena para lazer hoje em dia?](https://www.clubedohardware.com.br/forums/topic/1703064-tablets-ainda-valem-a-pena-para-lazer-hoje-em-dia/?do=getNewComment "Tablets ainda valem a pena para lazer hoje em dia?")
+        [Recomendação de assistência ou loja que conserte PS3.](https://www.clubedohardware.com.br/forums/topic/1703106-recomenda%C3%A7%C3%A3o-de-assist%C3%AAncia-ou-loja-que-conserte-ps3/?do=getNewComment "Recomendação de assistência ou loja que conserte PS3.")
         
-        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
+        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
         Por [CristianCDS](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")  
+        38 minutos atrás
+        
+    * [![S1mon](https://www.clubedohardware.com.br/uploads/members/monthly_2016_09/d818b426f57e4d0ac91f68b77f5d16d597738393_full.jpg.9338ec4a46e1e6c11163b29ff90e3596.jpg)](https://www.clubedohardware.com.br/profile/803841-s1mon/ "Ir ao perfil de S1mon")
+        
+        4
+        
+        [Informação preocupante (?) no HWMonitor](https://www.clubedohardware.com.br/forums/topic/1703105-informa%C3%A7%C3%A3o-preocupante-no-hwmonitor/?do=getNewComment "Informação preocupante (?) no HWMonitor")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [S1mon](https://www.clubedohardware.com.br/profile/803841-s1mon/ "Ir ao perfil de S1mon")  
+        38 minutos atrás
+        
+    * [![Gabriel Vechiatoo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1226236.thumb.jpeg.60f4322ebfec85db73d2a4070fde40c3.jpeg)](https://www.clubedohardware.com.br/profile/1226236-gabriel-vechiatoo/ "Ir ao perfil de Gabriel Vechiatoo")
+        
+        1
+        
+        [quanto vale essa config](https://www.clubedohardware.com.br/forums/topic/1703104-quanto-vale-essa-config/?do=getNewComment "quanto vale essa config")
+        
+        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
+        Por [Gabriel Vechiatoo](https://www.clubedohardware.com.br/profile/1226236-gabriel-vechiatoo/ "Ir ao perfil de Gabriel Vechiatoo")  
+        1 hora atrás
+        
+    * [![Mateus Buster](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48662%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/772152-mateus-buster/ "Ir ao perfil de Mateus Buster")
+        
+        4
+        
+        [memória RAM, SSD, placa-mãe da marca OxyBR são boas?](https://www.clubedohardware.com.br/forums/topic/1703103-mem%C3%B3ria-ram-ssd-placa-m%C3%A3e-da-marca-oxybr-s%C3%A3o-boas/?do=getNewComment "memória RAM, SSD, placa-mãe da marca OxyBR são boas?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Mateus Buster](https://www.clubedohardware.com.br/profile/772152-mateus-buster/ "Ir ao perfil de Mateus Buster")  
+        1 hora atrás
+        
+    * [![Will Ü](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251115.thumb.jpeg.7371366c5ab84b80272ff2eb459372a4.jpeg)](https://www.clubedohardware.com.br/profile/1251115-will-%C3%BC/ "Ir ao perfil de Will Ü")
+        
+        1
+        
+        [Fonte Super Frame 500w ou Galax Omega 500w ?](https://www.clubedohardware.com.br/forums/topic/1703102-fonte-super-frame-500w-ou-galax-omega-500w/?do=getNewComment "Fonte Super Frame 500w ou Galax Omega 500w ?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Will Ü](https://www.clubedohardware.com.br/profile/1251115-will-%C3%BC/ "Ir ao perfil de Will Ü")  
+        1 hora atrás
+        
+    * [![TheDemonLena](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1090527.thumb.jpeg.46d8e381bc7d55d703f4d44ef16fc161.jpeg)](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")
+        
+        3
+        
+        [Recomendação de Notebook até R$ 6.500 para rodar jogos no alto/ultra](https://www.clubedohardware.com.br/forums/topic/1703101-recomenda%C3%A7%C3%A3o-de-notebook-at%C3%A9-r-6500-para-rodar-jogos-no-altoultra/?do=getNewComment "Recomendação de Notebook até R$ 6.500 para rodar jogos no alto/ultra")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [TheDemonLena](https://www.clubedohardware.com.br/profile/1090527-thedemonlena/ "Ir ao perfil de TheDemonLena")  
         1 hora atrás
         
     
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
