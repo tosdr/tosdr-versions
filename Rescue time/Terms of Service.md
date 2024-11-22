@@ -1,11 +1,17 @@
-![](https://www.facebook.com/tr?id=1513851155447195&ev=PageView&noscript=1)      
+![](https://www.facebook.com/tr?id=1513851155447195&ev=PageView&noscript=1)       
 
-[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-f1c0a97f921c1f549406a076bde7ce7d8d7905c49a1754cb91755e6093514779.svg)](https://www.rescuetime.com/)
+[![](https://assets.rescuetime.com/assets/logo-wordmark-53h-096d80aad6488c87173f58a24d91549184e4898a91b23cd1a93c5edf3e255a61.svg)](https://www.rescuetime.com/)
 
-* [For Teams](https://teams.rescuetime.com/)
-* [Guided Focus Sessions (Live!)](https://getfocused.rescuetime.com/guided-focus-sessions/)
-* [Sign In](https://www.rescuetime.com/login)
+* [![](https://assets.rescuetime.com/assets/logo-wordmark-53h-096d80aad6488c87173f58a24d91549184e4898a91b23cd1a93c5edf3e255a61.svg)](https://www.rescuetime.com/)
+* [Home](https://www.rescuetime.com/)
+* [Timesheets](https://timesheets.rescuetime.com/)
+* [Blog](https://blog.rescuetime.com/)
+
+* [Guided Focus Sessions](https://workfrom.com/browse/jwgseb)
+* [Log In](https://www.rescuetime.com/login)
+
 * [Try For Free](https://www.rescuetime.com/unified/users/new)
+* [Try For Free](https://www.rescuetime.com/unified/teams/new)
 
 ### 1\. ACCEPTANCE
 
@@ -80,15 +86,13 @@ RescueTime may provide notices to you pursuant to the TOS through email, regular
 
 Cookies help us deliver our services. By using our services, you agree to our use of cookies. OK
 
-[![](https://assets.rescuetime.com/assets/rt2024-logo-wordmark-light-40h-f1c0a97f921c1f549406a076bde7ce7d8d7905c49a1754cb91755e6093514779.svg)](https://www.rescuetime.com/)
+[![](https://assets.rescuetime.com/assets/logo-wordmark-53h-096d80aad6488c87173f58a24d91549184e4898a91b23cd1a93c5edf3e255a61.svg)](https://www.rescuetime.com/)
 
 **Product**
 
-[Sign Up](https://www.rescuetime.com/unified/users/new)
+[Sign Up](https://www.rescuetime.com/unified/users/new) [Sign Up](https://www.rescuetime.com/unified/teams/new)
 
 [Sign In](https://www.rescuetime.com/login)
-
-[Android](https://play.google.com/store/apps/details?id=com.rescuetime.rtx&hl=en_US&gl=US&pli=1)
 
 [iOS](https://apps.apple.com/us/app/rescuetime/id1629924958)
 
@@ -96,9 +100,7 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 [Help](https://help.rescuetime.com/)
 
-[Contact Us](https://www.rescuetime.com/rtx/contact)
-
-[Security](https://www.rescuetime.com/rtx/security)
+[Security](https://www.rescuetime.com/security)
 
 [Privacy](https://www.rescuetime.com/rtx/privacy)
 
@@ -108,11 +110,7 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 **Company**
 
-[Who We Are](https://www.rescuetime.com/about)
-
-[Press Resources](https://www.rescuetime.com/press)
-
-[Jobs](https://www.rescuetime.com/jobs)
+[Contact Us](https://www.rescuetime.com/contact)
 
 **Resources**
 
@@ -120,16 +118,8 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 [Community](https://community.rescuetime.com/)
 
-[Customer Stories](https://www.rescuetime.com/customer_stories)
-
 [System Status](https://status.rescuetime.com/)
 
-Take back control of your Time
+[![](https://assets.rescuetime.com/assets/marketing/2024/socials/youtube-714581ec29253a9d5c44c96b9900bb32202fef8b16b03b2f58abf6d7cbe2bdfc.svg)](https://www.youtube.com/@RescueTimeOfficial) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/facebook-acb7cbe6722d1a2d152706cfb9754b5c1fe962a32f62858071d765d65e83ecb7.svg)](https://facebook.com/rescuetime) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/linkedin-213ab6bb375c5062aee259fa8210c976cbad9e8cea4dad4f875d964d1196b528.svg)](https://linkedin.com/company/rescuetime/) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/instagram-bfefd23ec9b3bcdd9520cfdd5710f0368cab66f9056ea3ae0a0a10a176aa3311.svg)](https://www.instagram.com/rescuetime/) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/tiktok-e133429ab213c0db5397b6f818a30eb2c80b0080f105b977075d12087d1dfaeb.svg)](https://www.tiktok.com/@rescuetime) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/reddit-7737d01d4a6599fcb3e9ba1ee3bf4f24a1eb2b13a94da675ec62ebf3f26bed55.svg)](https://www.reddit.com/r/RescueTime) [![](https://assets.rescuetime.com/assets/marketing/2024/socials/twitter-fdca7a570a008afab2f347c0b689a12caf6abcdeebb06ad2a2a76a76484f2053.svg)](https://twitter.com/rescuetime)
 
-[![](https://assets.rescuetime.com/assets/rtx_marketing/twitter-085cb38e93b8212fcc74189112070b0d9eca28aa2a97d8202682464c4382480f.svg)](https://twitter.com/rescuetime)
-
-[![](https://assets.rescuetime.com/assets/rtx_marketing/facebook-62f06ba3e379402c5a6e82d0113dfaf2c238b45a1d8cb7e7e35a2a80b625dbc8.svg)](https://facebook.com/rescuetime)
-
-[![](https://assets.rescuetime.com/assets/rtx_marketing/linkedin-626559d3fbf16554836b9fb6482688efcbb522e943fb1e78dae6e860c7714475.svg)](https://linkedin.com/company/rescuetime/)
-
-[![](https://assets.rescuetime.com/assets/rtx_marketing/rss-small-ba0a5e27525f16f5689e6e34820e686e52abab1795abcaefc8a1cd02fd86129d.svg)](https://blog.rescuetime.com/)
+Subscribe
