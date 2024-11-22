@@ -36,6 +36,9 @@
         
         Amazon and Audible flooded with 'forex trading' and warez listings](https://www.bleepingcomputer.com/news/security/amazon-and-audible-flooded-with-forex-trading-and-warez-listings/)
     
+    * [![Early Black Friday: This lifetime 1TB cloud storage plan is now $60](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Early Black Friday: This lifetime 1TB cloud storage plan is now $60](https://www.bleepingcomputer.com/offer/deals/early-black-friday-this-lifetime-1tb-cloud-storage-plan-is-now-60/)
     * [![Windows 11 KB5046740 update released with 14 changes and fixes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows 11 KB5046740 update released with 14 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5046740-update-released-with-14-changes-and-fixes/)
@@ -45,9 +48,6 @@
     * [![Over 2,000 Palo Alto firewalls hacked using recently patched bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Over 2,000 Palo Alto firewalls hacked using recently patched bugs](https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/)
-    * [![This AdGuard deal gives you ad-free internet for the whole family](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        This AdGuard deal gives you ad-free internet for the whole family](https://www.bleepingcomputer.com/offer/deals/this-adguard-deal-gives-you-ad-free-internet-for-the-whole-family/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -309,12 +309,12 @@ Popular Stories
 * [![Ubuntu](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Ubuntu Linux impacted by decade-old 'needrestart' flaw that gives root](https://www.bleepingcomputer.com/news/security/ubuntu-linux-impacted-by-decade-old-needrestart-flaw-that-gives-root/)
-* [![ford2](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Ford rejects breach allegations, says customer data not impacted](https://www.bleepingcomputer.com/news/security/ford-rejects-breach-allegations-says-customer-data-not-impacted/)
 * [![Fortinet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
+* [![ford2](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Ford rejects breach allegations, says customer data not impacted](https://www.bleepingcomputer.com/news/security/ford-rejects-breach-allegations-says-customer-data-not-impacted/)
 
 ##### Follow us:
 
