@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Scientists identify a long-sought by-product of some drinking water treatments](https://www.sciencenews.org/article/drinking-water-treatment-byproduct-chloramine)
             
-            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")2 hours ago
+            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")6 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [For adult chimps, playing may be more important than previously thought](https://www.sciencenews.org/article/adult-chimps-play-importance-chimpanzee)
             
-            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")5 hours ago
+            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")9 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [This is the first close-up image of a star beyond our galaxy](https://www.sciencenews.org/article/first-close-image-star-beyond-galaxy)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")8 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")12 hours ago
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
