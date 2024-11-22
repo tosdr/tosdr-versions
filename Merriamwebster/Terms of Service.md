@@ -256,11 +256,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![silhouette of a man with a megaphone against a british flag ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![turkey-looking-at-camera](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Another Great British Vocabulary Quiz, Innit? A double-decker quiz with words from across the pond
+Giving Thanks Quiz Decide which words express gratitude and which gi...
 
-Take the quiz](https://www.merriam-webster.com/games/british-quiz-2)
+Take the quiz](https://www.merriam-webster.com/games/giving-thanks)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
