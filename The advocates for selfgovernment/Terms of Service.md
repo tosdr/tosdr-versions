@@ -255,11 +255,11 @@ Enable Dark Mode
     
     * [![Disarming the Deep State: AI’s Role in Government Transparency](https://www.theadvocates.org/wp-content/uploads/2024/11/AdobeStock_231962136-300x200.jpeg)
         
-        Underthrow Series
+        Innovation
         
         Disarming the Deep State: AI’s Role in Government Transparency
         
-        by **Balaji Srinivasan via X | Max Borders** • Nov 20 • 3 mins Read](https://www.theadvocates.org/disarming-the-deep-state-ais-role-in-government-transparency/)
+        by **Editor** • Nov 20 • 3 mins Read](https://www.theadvocates.org/disarming-the-deep-state-ais-role-in-government-transparency/)
         
     * [![The Status of Status](https://www.theadvocates.org/wp-content/uploads/2024/11/Screenshot-2024-11-11-at-1.03.05 PM-300x200.png)
         
@@ -699,11 +699,11 @@ Articles
 
 * [![Disarming the Deep State: AI’s Role in Government Transparency](https://www.theadvocates.org/wp-content/uploads/2024/11/AdobeStock_231962136-300x200.jpeg)
     
-    Underthrow Series
+    Innovation
     
     Disarming the Deep State: AI’s Role in Government Transparency
     
-    by **Balaji Srinivasan via X | Max Borders** • Nov 20 • 3 mins Read](https://www.theadvocates.org/disarming-the-deep-state-ais-role-in-government-transparency/)
+    by **Editor** • Nov 20 • 3 mins Read](https://www.theadvocates.org/disarming-the-deep-state-ais-role-in-government-transparency/)
     
 * [![The Status of Status](https://www.theadvocates.org/wp-content/uploads/2024/11/Screenshot-2024-11-11-at-1.03.05 PM-300x200.png)
     
