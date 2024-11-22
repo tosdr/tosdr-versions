@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Horrifying medical device malfunction: Abdominal implant erupts from leg](https://cdn.arstechnica.net/wp-content/uploads/2024/11/G34309_3D_001-768x432.jpg)](https://arstechnica.com/health/2024/11/womans-abdominal-implant-erupts-from-her-leg-experts-call-for-fda-reforms/)
+1. [![Listing image for first story in Most Read: Surgeons remove 2.5-inch hairball from teen with rare Rapunzel syndrome](https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-653058010-768x432.jpg)](https://arstechnica.com/health/2024/11/surgeons-remove-2-5-inch-hairball-from-teen-with-rare-rapunzel-syndrome/)
     
-    1. [Horrifying medical device malfunction: Abdominal implant erupts from leg](https://arstechnica.com/health/2024/11/womans-abdominal-implant-erupts-from-her-leg-experts-call-for-fda-reforms/)
+    1. [Surgeons remove 2.5-inch hairball from teen with rare Rapunzel syndrome](https://arstechnica.com/health/2024/11/surgeons-remove-2-5-inch-hairball-from-teen-with-rare-rapunzel-syndrome/)
     
-2. 2. [As NASA increasingly relies on commercial space, there are some troubling signs](https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/)
+2. 2. [Horrifying medical device malfunction: Abdominal implant erupts from leg](https://arstechnica.com/health/2024/11/womans-abdominal-implant-erupts-from-her-leg-experts-call-for-fda-reforms/)
     
-3. 3. [SpaceX just got exactly what it wanted from the FAA for Texas Starship launches](https://arstechnica.com/space/2024/11/spacex-just-got-exactly-what-it-wanted-from-the-faa-for-texas-starship-launches/)
+3. 3. [As NASA increasingly relies on commercial space, there are some troubling signs](https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/)
     
-4. 4. [Surgeons remove 2.5-inch hairball from teen with rare Rapunzel syndrome](https://arstechnica.com/health/2024/11/surgeons-remove-2-5-inch-hairball-from-teen-with-rare-rapunzel-syndrome/)
+4. 4. [Study: Why Aztec “death whistles” sound like human screams](https://arstechnica.com/science/2024/11/study-why-aztec-death-whistles-sound-like-human-screams/)
     
-5. 5. [Google stops letting sites like Forbes rule search for “Best CBD Gummies“](https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/)
+5. 5. [Obsidian’s Avowed is the cure for “Souls-like” action-RPG fatigue](https://arstechnica.com/gaming/2024/11/obsidians-avowed-is-the-cure-for-souls-like-action-rpg-fatigue/)
     
 
 Customize
