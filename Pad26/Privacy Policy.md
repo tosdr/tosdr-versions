@@ -19,7 +19,7 @@ We collect **communication data** from people who contact us via email or by any
 
 We sometimes collect **survey data** from people who respond to specific requests for information, either as opinion polling or for marketing. Each survey has a clear end date, after which the results will be aggregated and anonymised, and all personal data will be deleted.
 
-We collect **marketing data** from people who deliberately opt-in to newsletters and mailing lists, so we can provide those mailings to them. **We never subscribe anyone to a mailing list without explicit, “double opt-in” consent.** You can unsubscribe from the mailing list at any time by clicking the link at the bottom of every edition. (This won't affect whether we contact you for other transactional or business purposes, like replying to messages you send.) Our partner [AWeber](https://www.aweber.com/) ([privacy policy](https://www.aweber.com/privacy.htm)) tracks analytics data from newsletters, which helps us deliver newsletters only to people who want to read them, unsubscribe people who don't read them any more, and get data on link performance.
+We collect **marketing data** from people who deliberately opt-in to newsletters and mailing lists, so we can provide those mailings to them. **We never subscribe anyone to a mailing list without explicit, “double opt-in” consent.** You can unsubscribe from the mailing list at any time by clicking the link at the bottom of every edition. (This won't affect whether we contact you for other transactional or business purposes, like replying to messages you send.) Our partners [AWeber](https://www.aweber.com/) ([privacy policy](https://www.aweber.com/privacy.htm)) and [Kit](https://kit.com/) ([privacy policy](https://kit.com/privacy)) track analytics data from newsletters, which helps us deliver newsletters only to people who want to read them, unsubscribe people who don't read them any more, and get data on link performance.
 
 Third party data
 ----------------
@@ -29,7 +29,7 @@ We may share information with partners or service providers to allow them to car
 Partners include:
 
 * [Google](https://www.google.com/) ([privacy policy](https://policies.google.com/privacy)), for email and business operations.
-* [AWeber](https://www.aweber.com/) ([privacy policy](https://www.aweber.com/privacy.htm)), to administer newsletters and mailing lists.
+* [AWeber](https://www.aweber.com/) ([privacy policy](https://www.aweber.com/privacy.htm)) and [Kit](https://kit.com/) ([privacy policy](https://kit.com/privacy)), to administer newsletters and mailing lists.
 * Our accountants and legal advisors
 
 We also post and communicate on social media platforms including but not limited to YouTube, Facebook and Twitter, which are governed by those companies' terms and policies.
@@ -56,4 +56,4 @@ You can request a copy of information we hold about you, to correct incorrect in
 Last updated
 ------------
 
-This policy was last updated on 21st June, 2021. From time to time, we may update it: if so, the amended policy will apply from the date it's posted and will govern our use of personal information from then on.
+This policy was last updated on 22nd November, 2024, to add Kit as a specific email/newsletter provider. From time to time, we may update this policy: if so, the amended policy will apply from the date it's posted and will govern our use of personal information from then on.
