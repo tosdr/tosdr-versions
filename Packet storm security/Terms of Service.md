@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-exploit the possibilities
+what you don't know can hurt you
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -53,21 +53,45 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 240 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 63 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 21 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 14 files
-* [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 250 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 62 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 22 files
+* [Apple](https://packetstormsecurity.com/files/authors/2397) 14 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 12 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 8 files
+* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 4 files
 * [Alter Prime](https://packetstormsecurity.com/files/authors/17574) 3 files
-* [EQSTLab](https://packetstormsecurity.com/files/authors/17258) 2 files
-* [Yehia Elghaly](https://packetstormsecurity.com/files/authors/16023) 2 files
-* [Pierre Kim](https://packetstormsecurity.com/files/authors/11740) 2 files
+* [Jann Horn](https://packetstormsecurity.com/files/authors/10455) 3 files
+* [Andrey Stoykov](https://packetstormsecurity.com/files/authors/14375) 3 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Helpline For Yakuza Victims Fears It Leaked Their Personal Info](https://packetstormsecurity.com/news/view/36635/Helpline-For-Yakuza-Victims-Fears-It-Leaked-Their-Personal-Info.html)
+
+Posted [Nov 22, 2024](https://packetstormsecurity.com/news/date/2024-11-22/ "14:12:33 UTC")
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36635/) | [View](https://www.theregister.com/2024/11/22/helpline_for_yakuza_victims_may/)
+
+[US Takes Down Stolen Credit Card Marketplace PopeyeTools](https://packetstormsecurity.com/news/view/36634/US-Takes-Down-Stolen-Credit-Card-Marketplace-PopeyeTools.html)
+
+Posted [Nov 22, 2024](https://packetstormsecurity.com/news/date/2024-11-22/ "14:12:18 UTC")
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36634/) | [View](https://www.securityweek.com/us-takes-down-stolen-credit-card-marketplace-popeyetools/)
+
+[Microsoft Disrupts ONNX Phishing Service, Names Its Operator](https://packetstormsecurity.com/news/view/36633/Microsoft-Disrupts-ONNX-Phishing-Service-Names-Its-Operator.html)
+
+Posted [Nov 22, 2024](https://packetstormsecurity.com/news/date/2024-11-22/ "14:12:12 UTC")
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36633/) | [View](https://www.securityweek.com/microsoft-disrupts-onnx-phishing-service-names-its-operator/)
+
+[Google's AI Powered Fuzzing Tool Discovers 26 New Vulns](https://packetstormsecurity.com/news/view/36632/Googles-AI-Powered-Fuzzing-Tool-Discovers-26-New-Vulns.html)
+
+Posted [Nov 22, 2024](https://packetstormsecurity.com/news/date/2024-11-22/ "14:12:06 UTC")
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36632/) | [View](https://www.scworld.com/news/googles-ai-powered-fuzzing-tool-discovers-26-new-vulnerabilities)
 
 [Russian Women Stepping Up For Cybercrime Outfits](https://packetstormsecurity.com/news/view/36627/Russian-Women-Stepping-Up-For-Cybercrime-Outfits.html)
 
@@ -93,61 +117,29 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [governme
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36625/) | [View](https://www.theregister.com/2024/11/21/japan_digital_end_of_life/)
 
-[CISA Director Jen Easterly To Step Down Jan. 20](https://packetstormsecurity.com/news/view/36620/CISA-Director-Jen-Easterly-To-Step-Down-Jan.-20.html)
+[Ubuntu Affected By 10-Year-Old Flaws In needrestart Package](https://packetstormsecurity.com/news/view/36624/Ubuntu-Affected-By-10-Year-Old-Flaws-In-needrestart-Package.html)
 
-Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:39:02 UTC")
+Posted [Nov 21, 2024](https://packetstormsecurity.com/news/date/2024-11-21/ "15:30:47 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [linux](https://packetstormsecurity.com/news/tags/linux), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36620/) | [View](https://www.scworld.com/news/cisa-director-jen-easterly-will-step-down-jan-20-security-community-reacts)
+[Favorite](https://packetstormsecurity.com/news/favorite/36624/) | [View](https://www.scworld.com/news/ubuntu-affected-by-10-year-old-flaws-in-needrestart-package)
 
-[Equinox Notifies 21,000 Patients And Staff Of Data Theft](https://packetstormsecurity.com/news/view/36619/Equinox-Notifies-21-000-Patients-And-Staff-Of-Data-Theft.html)
+[FBI And CISA Warn Of Continued Cyberattacks On US Telecoms](https://packetstormsecurity.com/news/view/36623/FBI-And-CISA-Warn-Of-Continued-Cyberattacks-On-US-Telecoms.html)
 
-Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:39:00 UTC")
+Posted [Nov 21, 2024](https://packetstormsecurity.com/news/date/2024-11-21/ "15:29:57 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [phone](https://packetstormsecurity.com/news/tags/phone), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36619/) | [View](https://www.theregister.com/2024/11/20/equinox_patients_employees_data/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36623/) | [View](https://www.scworld.com/news/fbi-and-cisa-warn-of-continued-cyberattacks-on-us-telecoms)
 
-[D-Link Tells Users To Trash Old VPN Routers Due To Bug](https://packetstormsecurity.com/news/view/36618/D-Link-Tells-Users-To-Trash-Old-VPN-Routers-Due-To-Bug.html)
+[MITRE Updates List Of 25 Most Dangerous Software Vulnerabilities](https://packetstormsecurity.com/news/view/36622/MITRE-Updates-List-Of-25-Most-Dangerous-Software-Vulnerabilities.html)
 
-Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:38:58 UTC")
+Posted [Nov 21, 2024](https://packetstormsecurity.com/news/date/2024-11-21/ "15:29:50 UTC")
 
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cisco](https://packetstormsecurity.com/news/tags/cisco)
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
 
-[Favorite](https://packetstormsecurity.com/news/favorite/36618/) | [View](https://www.theregister.com/2024/11/20/dlink_rip_replace_router/)
-
-[Helldown Ransomware Evolves To Target VMware Systems Via Linux](https://packetstormsecurity.com/news/view/36617/Helldown-Ransomware-Evolves-To-Target-VMware-Systems-Via-Linux.html)
-
-Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:38:55 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [linux](https://packetstormsecurity.com/news/tags/linux), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36617/) | [View](https://www.scworld.com/news/helldown-evolves-to-target-vmware-systems-via-linux)
-
-[Apple Confirms Zero Day Attacks Hitting macOS Systems](https://packetstormsecurity.com/news/view/36616/Apple-Confirms-Zero-Day-Attacks-Hitting-macOS-Systems.html)
-
-Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:38:42 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [apple](https://packetstormsecurity.com/news/tags/apple), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36616/) | [View](https://www.securityweek.com/apple-confirms-zero-day-attacks-hitting-intel-based-macs/)
-
-[Oracle Patches Exploited Agile PLM Zero-Day](https://packetstormsecurity.com/news/view/36615/Oracle-Patches-Exploited-Agile-PLM-Zero-Day.html)
-
-Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:38:36 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [oracle](https://packetstormsecurity.com/news/tags/oracle), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36615/) | [View](https://www.securityweek.com/oracle-patches-exploited-agile-plm-zero-day/)
-
-[Bitcoin Bursts Past $94,000 For The First Time](https://packetstormsecurity.com/news/view/36614/Bitcoin-Bursts-Past-94-000-For-The-First-Time.html)
-
-Posted [Nov 20, 2024](https://packetstormsecurity.com/news/date/2024-11-20/ "15:38:31 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36614/) | [View](https://www.reuters.com/technology/bitcoin-breaches-94000-first-time-2024-11-20/)
+[Favorite](https://packetstormsecurity.com/news/favorite/36622/) | [View](https://www.securityweek.com/mitre-updates-list-of-25-most-dangerous-software-vulnerabilities/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +185,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2619729056&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2619729056.1732287995.1732287995.1732287995.1%3B%2B__utmz%3D32867617.1732287995.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1889937495&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1889937495.1732309807.1732309807.1732309807.1%3B%2B__utmz%3D32867617.1732309807.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
