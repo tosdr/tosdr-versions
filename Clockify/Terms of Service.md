@@ -810,6 +810,8 @@ If any provision of this Agreement violates any mandatory rule of applicable Law
 
 [![](/assets/images/icons/logo.svg)](https://cake.com/)
 
+Simplifying work one piece at a time
+
 2100 Geng Rd STE 210, Palo Alto, CA 94303, USA
 
 [+1-866-348-6668](tel:+18663486668)
