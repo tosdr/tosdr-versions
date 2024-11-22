@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Fri, Nov 22, 2024
+Sat, Nov 23, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Ind vs Aus Live](https://www.news18.com/cricket/india-vs-australia-1st-test-day-1-live-score-ind-vs-aus-today-match-latest-scorecard-at-optus-stadium-perthindia-vs-australia-1st-test-day-1-live-score-ind-vs-aus-today-match-latest-scorecard-at-optus-liveblog-9128371.html)
-    * [Maharashtra Elections](https://www.news18.com/elections/maharashtra-jharkhand-assembly-elections-2024-nda-mahayuti-mva-jmm-congress-bjp-india-nov-22-latest-news-exit-polls-liveblog-9128977.html)
-    * [AR Rahman](https://www.news18.com/movies/ar-rahmans-wife-sairas-lawyer-reveals-reason-behind-bollywood-divorces-expectations-from-sex-life-9127737.html)
+    * [Mohini Dey](https://www.news18.com/movies/ar-rahmans-bassist-mohini-breaks-silence-on-rumours-linking-her-divorce-to-him-i-know-exactly-9130491.html)
+    * [Maharashtra Elections](https://www.news18.com/elections/maharashtra-jharkhand-election-results-will-there-be-saturday-surprises-in-final-countdown-of-2024-9130487.html)
+    * [Marnus Labuschagne](https://www.news18.com/cricket/marnus-labuschagne-gives-flying-kiss-to-harshit-rana-video-goes-viral-watch-9129439.html)
     * [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
-    * [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-shares-post-about-birthdays-after-fans-note-his-absence-in-aaradhyas-party-9127790.html)
+    * [8th Pay Commission](https://www.news18.com/business/8th-pay-commission-central-govt-employees-may-see-186-jump-in-salary-announcement-likely-in-budget-9129662.html)
+    * [Ukraine Conflict](https://www.news18.com/explainers/has-world-war-3-begun-a-look-at-russias-allies-ukraines-arms-suppliers-indias-stand-9129806.html)
     * [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
-    * [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/5-rashmika-mandanna-inspired-saree-blouses-for-marriage-season-2627333/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Ind vs Aus Live](https://www.news18.com/cricket/india-vs-australia-1st-test-day-1-live-score-ind-vs-aus-today-match-latest-scorecard-at-optus-stadium-perthindia-vs-australia-1st-test-day-1-live-score-ind-vs-aus-today-match-latest-scorecard-at-optus-liveblog-9128371.html)
-* [Maharashtra Elections](https://www.news18.com/elections/maharashtra-jharkhand-assembly-elections-2024-nda-mahayuti-mva-jmm-congress-bjp-india-nov-22-latest-news-exit-polls-liveblog-9128977.html)
-* [AR Rahman](https://www.news18.com/movies/ar-rahmans-wife-sairas-lawyer-reveals-reason-behind-bollywood-divorces-expectations-from-sex-life-9127737.html)
+* [Mohini Dey](https://www.news18.com/movies/ar-rahmans-bassist-mohini-breaks-silence-on-rumours-linking-her-divorce-to-him-i-know-exactly-9130491.html)
+* [Maharashtra Elections](https://www.news18.com/elections/maharashtra-jharkhand-election-results-will-there-be-saturday-surprises-in-final-countdown-of-2024-9130487.html)
+* [Marnus Labuschagne](https://www.news18.com/cricket/marnus-labuschagne-gives-flying-kiss-to-harshit-rana-video-goes-viral-watch-9129439.html)
 * [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
-* [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-shares-post-about-birthdays-after-fans-note-his-absence-in-aaradhyas-party-9127790.html)
+* [8th Pay Commission](https://www.news18.com/business/8th-pay-commission-central-govt-employees-may-see-186-jump-in-salary-announcement-likely-in-budget-9129662.html)
+* [Ukraine Conflict](https://www.news18.com/explainers/has-world-war-3-begun-a-look-at-russias-allies-ukraines-arms-suppliers-indias-stand-9129806.html)
 * [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
-* [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/5-rashmika-mandanna-inspired-saree-blouses-for-marriage-season-2627333/)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 22, 2024
+Nov 23, 2024
 
 [View All](https://www.news18.com/short-news/)
 
