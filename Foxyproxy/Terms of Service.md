@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Steve in Customer Support really knocked this one out of the park. We were on the phone for about an hour on the first call with no luck. We decided to take a break and have a second call. Steve in Customer Support ... fixed everything immediately. Just want you to know I went from a super pissed-off customer to very happy.
+Thanks FoxyProxy - I bought your service whilst living out in the US last year and loved it - having The Apprentice on BBC iPlayer was my evening saviour on a few occasions as the US TV is rubbish!! I'm home to London but but if I'm abroad again, I'll definitely be back to re-subscribe.
 
-Jeff Cochran
+Jane Baker
