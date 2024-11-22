@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Lewisville woman confronts man she says was taking inappropriate photos of her at Walmart](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/lewisville-walmart-investigation.png?ve=1&tl=1)
+
+ ![Lewisville woman confronts man she says was taking inappropriate photos of her at Walmart](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/lewisville-walmart-investigation.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lewisville-woman-confronts-man-she-says-was-taking-photos-up-her-skirt-walmart)
+
+### [Lewisville woman confronts man she says was taking inappropriate photos of her at Walmart](https://www.fox4news.com/news/lewisville-woman-confronts-man-she-says-was-taking-photos-up-her-skirt-walmart)
+
+ [![Ellis County sanitation worker finds dead baby during garbage route](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-ellis-co-deceased-baby-9p_00.00.18.02.jpg?ve=1&tl=1)
+
+ ![Ellis County sanitation worker finds dead baby during garbage route](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-ellis-co-deceased-baby-9p_00.00.18.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-county-dead-baby-investigation-november-21)
+
+### [Ellis County sanitation worker finds dead baby during garbage route](https://www.fox4news.com/news/ellis-county-dead-baby-investigation-november-21)
+
+ [![Euless man says he mutilated victims' bodies, ate human heart as part of 'ritualistic sacrifices'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-jason-thornburg-convicted-4a_00.00.05.22.jpg?ve=1&tl=1)
+
+ ![Euless man says he mutilated victims' bodies, ate human heart as part of 'ritualistic sacrifices'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-jason-thornburg-convicted-4a_00.00.05.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-thornburg-murder-conviction-trial-fort-worth-dumpster-fire-dismembered-bodies)
+
+### [Euless man says he mutilated victims' bodies, ate human heart as part of 'ritualistic sacrifices'](https://www.fox4news.com/news/jason-thornburg-murder-conviction-trial-fort-worth-dumpster-fire-dismembered-bodies)
+
  [![Tarrant Area Food Bank gets help from Amazon to deliver meals to homebound residents](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/6p-296-tz-tafb-home-delivery-program_00.00.06.06.jpg?ve=1&tl=1)
 
  ![Tarrant Area Food Bank gets help from Amazon to deliver meals to homebound residents](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/6p-296-tz-tafb-home-delivery-program_00.00.06.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tarrant-area-food-bank-gets-help-from-amazon-deliver-meals-homebound-residents)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![ChatGPT outperformed doctors in diagnostic accuracy, study reveals](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1246494152.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chatgpt-outperforms-doctors-diagnoses-study)
 
 ### [ChatGPT outperformed doctors in diagnostic accuracy, study reveals](https://www.fox4news.com/news/chatgpt-outperforms-doctors-diagnoses-study)
-
- [![Ellis County sanitation worker finds dead baby during garbage route](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1)
-
- ![Ellis County sanitation worker finds dead baby during garbage route](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-county-dead-baby-investigation-november-21)
-
-### [Ellis County sanitation worker finds dead baby during garbage route](https://www.fox4news.com/news/ellis-county-dead-baby-investigation-november-21)
-
- [![Trump to nominate Pam Bondi for attorney general](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/pam-bondi.jpg?ve=1&tl=1)
-
- ![Trump to nominate Pam Bondi for attorney general](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/pam-bondi.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominate-pam-bondi-attorney-general)
-
-### [Trump to nominate Pam Bondi for attorney general](https://www.fox4news.com/news/trump-nominate-pam-bondi-attorney-general)
-
- [![Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/trump-picks-1.jpg?ve=1&tl=1)
-
- ![Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/trump-picks-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trumps-cabinet-white-house-staff-picks-whos-been-nominated-so-far)
-
-### [Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://www.fox4news.com/news/trumps-cabinet-white-house-staff-picks-whos-been-nominated-so-far)
 
 ###### [News](https://www.fox4news.com/news)
 
