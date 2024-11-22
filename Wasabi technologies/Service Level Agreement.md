@@ -23,8 +23,10 @@ Wasabi Service Level Agreement
 
 [**Sub Processors**](https://wasabi.com/legal/sub-processors)
 
-  
-  
+**Previous Versions:**
+
+* [August 1, 2023](https://cdn.brandfolder.io/BFD8NB05/at/8w26674f7bxb6rg4q3qbf3/SLA_Original_-_1Aug2023_REFERENCE_ONLY.pdf)
+    
 
 [Company](https://wasabi.com/legal/sla#)
 
