@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg_goldberg_hostin-1200x630.webp)](https://americanwirenews.com/whoopi-cuts-to-commercial-when-the-view-goes-off-the-rails-just-know-that-something-is-chewing-on-us/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-joy-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/joe-rogan-updates-his-bio-in-hilarious-response-to-joy-behar-trashing-him-on-the-view/)
 
-[Whoopi cuts to commercial when ‘The View’ goes off the rails: ‘Just know that something is chewing on us’](https://americanwirenews.com/whoopi-cuts-to-commercial-when-the-view-goes-off-the-rails-just-know-that-something-is-chewing-on-us/)
+[Joe Rogan updates his bio in hilarious response to Joy Behar trashing him on ‘The View’](https://americanwirenews.com/joe-rogan-updates-his-bio-in-hilarious-response-to-joy-behar-trashing-him-on-the-view/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nancy-mace-on-scripps-1200x630.jpg)](https://americanwirenews.com/its-a-man-nancy-mace-takes-on-leftist-anchor-and-holds-no-punches-defending-trans-ban-in-bathrooms/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-redlightcam-1200-x-628-1200x630.jpg)](https://americanwirenews.com/apparently-chicago-traffic-light-cameras-are-racist-too-dem-lawmaker-calls-for-probe/)
 
-[‘It’s a MAN!’ Nancy Mace holds NO punches taking on leftist anchor over ‘trans ban’](https://americanwirenews.com/its-a-man-nancy-mace-takes-on-leftist-anchor-and-holds-no-punches-defending-trans-ban-in-bathrooms/)
+[Apparently, Chicago traffic light cameras are racist too, Dem lawmaker calls for probe](https://americanwirenews.com/apparently-chicago-traffic-light-cameras-are-racist-too-dem-lawmaker-calls-for-probe/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-latino-voters-1200x630.jpg)](https://americanwirenews.com/minority-blue-collar-workers-across-america-explain-dumping-dems-were-the-laughingstock-of-the-world/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mace-1200x630.png)](https://americanwirenews.com/nancy-mace-gets-last-laugh-after-being-heckled-by-a-man-in-a-dress/)
 
-[Minority blue collar workers across America explain dumping Dems: ‘We’re the laughingstock of the world’](https://americanwirenews.com/minority-blue-collar-workers-across-america-explain-dumping-dems-were-the-laughingstock-of-the-world/)
+[Nancy Mace gets last laugh after being heckled by angry man in a dress](https://americanwirenews.com/nancy-mace-gets-last-laugh-after-being-heckled-by-a-man-in-a-dress/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ejochi-1200x630.jpg)](https://americanwirenews.com/abc-journalist-turns-himself-into-a-pretzel-trying-to-pin-laken-riley-murder-on-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-gaetz-1200x630.jpg)](https://americanwirenews.com/nyt-reveals-names-of-gang-of-4-gop-senators-who-sunk-gaetz/)
 
-[ABC ‘journalist’ turns himself into a pretzel trying to pin Laken Riley murder on Trump](https://americanwirenews.com/abc-journalist-turns-himself-into-a-pretzel-trying-to-pin-laken-riley-murder-on-trump/)
+[NYT reveals names of ‘Gang of 4’ GOP Senators who sunk Gaetz](https://americanwirenews.com/nyt-reveals-names-of-gang-of-4-gop-senators-who-sunk-gaetz/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bragg-attack-1200x630.jpg)](https://americanwirenews.com/tren-de-aragua-affiliated-illegal-arrested-for-sexual-motivated-robbery-of-alvin-braggs-assistant/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-classroom-students-1200x630.jpg)](https://americanwirenews.com/education-department-agrees-to-rescind-mandatory-woke-curriculum-standards/)
 
-[Tren de Aragua-affiliated illegal arrested for ‘sexual motivated robbery’ of Alvin Bragg’s assistant](https://americanwirenews.com/tren-de-aragua-affiliated-illegal-arrested-for-sexual-motivated-robbery-of-alvin-braggs-assistant/)
+[Education department agrees to rescind mandatory ‘woke’ curriculum standards](https://americanwirenews.com/education-department-agrees-to-rescind-mandatory-woke-curriculum-standards/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kellyanne-conway-q-and-a-1200x630.jpg)](https://americanwirenews.com/harvard-student-attempts-to-pin-kellyanne-conway-with-loaded-gotcha-question-big-mistake/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-1-1200x630.jpg)](https://americanwirenews.com/the-view-co-host-has-to-read-another-note-after-smearing-trump-nominees/)
 
-[Harvard student attempts to pin Kellyanne Conway with loaded ‘gotcha’ question. Big mistake.](https://americanwirenews.com/harvard-student-attempts-to-pin-kellyanne-conway-with-loaded-gotcha-question-big-mistake/)
+[‘The View’ co-host has to read ANOTHER note after smearing Trump nominees](https://americanwirenews.com/the-view-co-host-has-to-read-another-note-after-smearing-trump-nominees/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-richards-1200x630.jpg)](https://americanwirenews.com/biden-torched-for-awarding-medal-of-freedom-to-ex-planned-parenthood-pres-in-oddly-quiet-ceremony/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kith-1200x630.jpg)](https://americanwirenews.com/nyc-migrant-arrested-for-throwing-ex-pals-puppy-off-of-14th-floor-balcony-walks-free/)
 
-(Official White House Photo by Erin Scott)
-
-[Biden torched for awarding Medal of Freedom to ex-Planned Parenthood Pres in oddly quiet ceremony](https://americanwirenews.com/biden-torched-for-awarding-medal-of-freedom-to-ex-planned-parenthood-pres-in-oddly-quiet-ceremony/)
+[NYC migrant arrested for throwing ex-pal’s puppy off of 14th floor balcony walks free](https://americanwirenews.com/nyc-migrant-arrested-for-throwing-ex-pals-puppy-off-of-14th-floor-balcony-walks-free/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-trailers-1200x630.jpg)](https://americanwirenews.com/fema-rv-trailers-sit-empty-while-homeless-nc-hurricane-victims-face-snow-and-freezing-temps-report/)
 
 [FEMA RV trailers sit EMPTY while homeless NC hurricane victims face snow and freezing temps: report](https://americanwirenews.com/fema-rv-trailers-sit-empty-while-homeless-nc-hurricane-victims-face-snow-and-freezing-temps-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/03/SG-Rob-Reiner-1-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fett-bibi-rash-split-1200-x-628-1200x630.jpg)
 
-### Rob Reiner’s less-than-triumphant return to X met with mockery: ‘Cry harder’](https://americanwirenews.com/rob-reiners-less-than-triumphant-return-to-x-met-with-mockery-cry-harder/)
+### Lawmakers react to rogue global court’s arrest warrant for Netanyahu](https://americanwirenews.com/lawmakers-react-to-rogue-global-courts-arrest-warrant-for-netanyahu/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
