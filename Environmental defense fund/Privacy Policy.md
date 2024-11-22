@@ -113,8 +113,8 @@ If we act now — together — there’s still time to build a future where peop
 
 * [Donate](https://www.edf.org/donate/)
 * [Donate monthly](https://www.edf.org/donate/?frequency=monthly)
-* [Renew your gift](https://donate.edf.org/give/505786/)
-* [Make a tribute gift](https://donate.edf.org/give/342007/)
+* [Renew your gift](https://www.edf.org/renew)
+* [Make a tribute gift](https://www.edf.org/honor)
 * [Plan a gift in your will](https://edf.giftplans.org/)
 * [Other ways to give](https://www.edf.org/ways-give)
 
