@@ -6,7 +6,7 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
 
 [Contact Us](https://www.threeforksmontana.us/contact-us)
 
-![](/imgD/weatherbit_icons/c04d.png) Today's weather: Overcast clouds 51°/28°
+![](/imgD/weatherbit_icons/c04d.png) Today's weather: Overcast clouds 48°/27°
 
 [![City of Three Forks - A Place to Call Home...](/images/logos_mi/C_650_mi_650_SEAL-favicon_1352902479_7058_1352756831_1286.jpeg)](https://www.threeforksmontana.us/home)[City of Three Forks](https://www.threeforksmontana.us/home)
 
@@ -60,8 +60,9 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
     * [Open Records](https://www.threeforksmontana.us/open-records)
         * [Public Information Request](https://www.threeforksmontana.us/public-information-request)
         * [Public Notices](https://www.threeforksmontana.us/public-notices)
-    * [Ordinances (City Laws)](https://www.threeforksmontana.us/ordinances-city-laws)
+    * [Ordinances (City Laws), Including Zoning & Floodplain](https://www.threeforksmontana.us/ordinances-city-laws-including-zoning-and-floodplain)
     * [Public Design Standards](https://www.threeforksmontana.us/public-design-standards)
+    * [Subdivision Regulations](https://www.threeforksmontana.us/subdivision-regulations)
 * [Residents](#)
     * [New Resident Resources](https://www.threeforksmontana.us/new-resident-resources)
     * [Payment Options](https://www.threeforksmontana.us/payment-options)
