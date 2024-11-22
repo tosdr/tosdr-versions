@@ -41,7 +41,7 @@ My Account
 
 * [Solutions](#)
 * [Products](#)
-* [Services](https://www.juniper.net/us/en/services.html)
+* [Services](#)
 * [Partners](#)
 * [Support and Documentation](#)
 * [Learn](#)
@@ -62,32 +62,16 @@ All Company Products And Solutions Support Documentation Training Blogs
     * [The Netherlands - Nederlands](https://www.juniper.net/nl/nl.html)
     * [United Kingdom - English](https://www.juniper.net/gb/en.html)
     
-* [Try](https://www.juniper.net/us/en/try.html)
+* [Trials and Demos](https://www.juniper.net/us/en/trials-demos.html)
 * [](#)
 
-### Solutions
+Solutions
 
-Featured solutions
+[Featured solutions](#) [AI](#) [Campus and branch](#) [Data center](#) [WAN](#) [Security](#) [Service provider](#) [Cloud operator](#) [Industries](#)
 
-AI
+![Campus and Branch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Campus and Branch")
 
-Campus and branch
-
-Data center
-
-WAN
-
-Security
-
-Service provider
-
-Cloud operator
-
-Industries
-
-![Friends group having addicted fun using mobile smart phone - Close up of people hands sharing content on social media network with smartphone - Technology concept with millenials online with cellphone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Friends group having addicted fun using mobile smart phone - Close up of people hands sharing content on social media network with smartphone - Technology concept with millenials online with cellphone")
-
-###### Welcome to the NOW Way to Wi-Fi
+Welcome to the NOW Way to Wi-Fi
 
 Take your networking performance to new heights with a modern, cloud-native, AI-Native architecture. Only Juniper can help you unleash the full potential of Wi-Fi 7 with our AI-Native platform for innovation.
 
@@ -95,7 +79,7 @@ Take your networking performance to new heights with a modern, cloud-native, AI-
 
 ![Business intelligence analyst dashboard on virtual screen. Big data Graphs Charts.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Business intelligence analyst dashboard on virtual screen. Big data Graphs Charts.")
 
-###### AI Data Center Networking
+AI Data Center Networking
 
 Juniper’s AI data center solution is a quick way to deploy high performing AI training and inference networks that are the most flexible to design and easiest to manage with limited IT resources.
 
@@ -103,7 +87,7 @@ Juniper’s AI data center solution is a quick way to deploy high performing AI 
 
 ![Enterprise AI-Native Networking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Enterprise AI-Native Networking")
 
-###### Enterprise AI‑Native Routing
+Enterprise AI‑Native Routing
 
 Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabilities for unmatched performance, reliability, and sustainability at scale.
 
@@ -168,7 +152,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 ![Zero trust security](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Zero trust security")
 
-###### Ops4AI Lab
+Ops4AI Lab
 
 Visit our lab in Sunnyvale, CA and see our AI data center solution for yourself. You can try out your own model’s functionality and performance, too.
 
@@ -182,7 +166,7 @@ Visit our lab in Sunnyvale, CA and see our AI data center solution for yourself.
 
 ![Enterprise AI-Native Networking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Enterprise AI-Native Networking")
 
-###### Enterprise AI‑Native Routing
+Enterprise AI‑Native Routing
 
 Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabilities for unmatched performance, reliability, and sustainability at scale.
 
@@ -255,7 +239,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 ![Handsome Hispanic Student Uses Laptop while Listening to a Lecture at the University, He Raises Hand and Asks Lecturer a Question. Multi Ethnic Group of Modern Bright Students.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Handsome Hispanic Student Uses Laptop while Listening to a Lecture at the University, He Raises Hand and Asks Lecturer a Question. Multi Ethnic Group of Modern Bright Students.")
 
-###### Webinar: Achieving Digital Transformation in Higher Education with AI Networking
+Webinar: Achieving Digital Transformation in Higher Education with AI Networking
 
 Digital transformation is a top priority for Higher Education IT leaders, but the foundation for change is reliable, simplified network connectivity.
 
@@ -265,27 +249,9 @@ Digital transformation is a top priority for Higher Education IT leaders, but th
 * [Juniper Validated Designs (JVD)](https://www.juniper.net/us/en/solutions/blueprint-for-ai-native-acceleration/juniper-validated-designs.html)
 * [See all solutions](https://www.juniper.net/us/en/solutions.html)
 
-### Products
+Products
 
-Wireless access
-
-Wired access
-
-SD-WAN / SASE
-
-Routing and switching
-
-Security
-
-Mist AI™
-
-Management software
-
-Network operating system
-
-Blueprint for AI-Native Acceleration
-
-Optics
+[Wireless access](#) [Wired access](#) [SD-WAN / SASE](#) [Routing and switching](#) [Security](#) [Mist AI™](#) [Management software](#) [Network operating system](#) [Blueprint for AI-Native Acceleration](#) [Optics](#)
 
 * [Wireless access points](https://www.juniper.net/us/en/products/access-points.html)
     
@@ -395,7 +361,7 @@ Optics
 
 ![Bob Friday and Jessica Garrison speaking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bob Friday and Jessica Garrison speaking")
 
-###### Bob Friday Talks
+Bob Friday Talks
 
 Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
 
@@ -476,9 +442,43 @@ Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
 * [Trial and demos](https://www.juniper.net/us/en/try.html)
 * [All products A-Z](https://www.juniper.net/us/en/products/products-a-to-z.html)
 
-### Partners
+Services
+
+[Services](#)
+
+* * [Services overview](https://www.juniper.net/us/en/services.html)
+    * [Campus and branch](https://www.juniper.net/us/en/services/services-for-campus-and-branch.html)
+    * [Data center](https://www.juniper.net/us/en/services/services-for-data-center.html)
+    * [WAN](https://www.juniper.net/us/en/services/services-for-automated-wan.html)
+    * [Security](https://www.juniper.net/us/en/services/services-for-security.html)
+    * [Support services](https://www.juniper.net/us/en/services/support-services.html)
+
+* Tools and resources
+    
+* * [Juniper Support Insights (JSI)](https://www.juniper.net/us/en/services/support-services/support-insights.html)
+    * [Training and certification](https://www.juniper.net/us/en/training.html)
+
+![Services AI Care](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Services AI Care")
+
+Juniper AI Care Services Revolutionize Your Service Experience
+
+Our industry-first AI-Native services couple AIOps with our deep expertise across the full network life cycle. You can move from reactive response to proactive insight and action.
+
+[Explore AI Care Services](https://www.juniper.net/us/en/services/juniper-ai-care-services-for-mist-ai-datasheet.html)
+
+![Services AI Data Center](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Services AI Data Center")
+
+Juniper AI Data Center Deployment Services Optimize Your AI Model Runs
+
+We use our expertise and validated designs to help design, deploy, validate and tune networks, including GPUs and storage, to get the most from your AI infrastructure operation.
+
+[Learn about AI Data Center Deployment Services](https://www.juniper.net/us/en/services/ai-data-center-deployment-services-datasheet.html)
+
+* [Guidelines and policies](https://support.juniper.net/support/guidelines/)
 
 Partners
+
+[Partners](#)
 
 * Our partners
     
@@ -501,9 +501,9 @@ Partners
     * [Learning Academy](https://jpartnertraining.juniper.net/)
     * [Juniper Champions](https://content.juniper.net/champions)
 
-### Support and Documentation
-
 Support and Documentation
+
+[Support and Documentation](#)
 
 * Documentation
     
@@ -540,7 +540,7 @@ Support and Documentation
 
 ![Business professional holding a tablet with digital screen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Business professional holding a tablet with digital screen")
 
-###### The Juniper Support Portal (JSP) mobile app is now available!
+The Juniper Support Portal (JSP) mobile app is now available!
 
 Get Juniper support anytime, anywhere with the JSP mobile application, now available for Android and iOS!
 
@@ -548,21 +548,9 @@ Get Juniper support anytime, anywhere with the JSP mobile application, now avail
 
 * [End of Life (EoL)](https://support.juniper.net/support/eol/)
 
-### Learn
+Learn
 
-About Juniper
-
-Training
-
-Events
-
-The Feed
-
-Resources
-
-Technology learning topics
-
-Thought leadership and insights
+[About Juniper](#) [Training](#) [Events](#) [The Feed](#) [Resources](#) [Technology learning topics](#) [Thought leadership and insights](#)
 
 * Company
     
@@ -610,19 +598,19 @@ Thought leadership and insights
 
 ![Audience raising hands up while businessman is speaking in training at the office.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Audience raising hands up while businessman is speaking in training at the office.")
 
-###### Juniper certification and training news
+Juniper certification and training news
 
 [See the latest](https://www.juniper.net/us/en/training/news.html)
 
 ![Ringing of the bell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ringing of the bell")
 
-###### All global events
+All global events
 
 [See the latest](https://www.juniper.net/us/en/events.html)
 
 ![AI-native-now](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AI-native-now")
 
-###### AI-Native NOW event series
+AI-Native NOW event series
 
 [Register now](https://www.juniper.net/us/en/events/ai-native-now.html)
 
@@ -640,7 +628,7 @@ Thought leadership and insights
 
 ![Juniper's Christina Hendrix at the head of a conference table. With the text "The NOW Way to Network" overlayed, with "NOW" emphasizing the "O" in green color.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glowing")
 
-###### The NOW Way to Network
+The NOW Way to Network
 
 [Watch the video series](https://www.juniper.net/us/en/the-feed/series/the-now-way-to-network.html)
 
@@ -713,7 +701,7 @@ Thought leadership and insights
 
 ![AI Native Now](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AI Native Now")
 
-###### Executive insights
+Executive insights
 
 Dive deep with leading experts and thought leaders on all the topics that matter most to your business, from AI to network security to driving rapid, relevant transformation for your business.
 
@@ -721,15 +709,23 @@ Dive deep with leading experts and thought leaders on all the topics that matter
 
 ![A keynote speaker giving a presentation at a conference. There are dozens of people sitting around them. The presentation is displayed via projector on all the walls in the room.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A keynote speaker giving a presentation at a conference. There are dozens of people sitting around them. The presentation is displayed via projector on all the walls in the room.")
 
-###### Leadership voices
+Leadership voices
 
 Juniper Networks’ leaders operate on the front lines of creating the network of the future. Take a look around to see what’s on their minds.
 
 [Watch now](https://www.juniper.net/us/en/the-feed/series/leadership-voices.html)
 
+![Bob Friday and Jessica Garrison speaking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bob Friday and Jessica Garrison speaking")
+
+Bob Friday Talks
+
+Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
+
+[Catch the latest episode](https://www.juniper.net/us/en/executive-insights/bob-friday.html)
+
 * Solutions
 * Products
-* [Services](https://www.juniper.net/us/en/services.html)
+* Services
 * Partners
 * Support and Documentation
 * Learn
@@ -756,9 +752,9 @@ Cloud operator
 
 Industries
 
-![Friends group having addicted fun using mobile smart phone - Close up of people hands sharing content on social media network with smartphone - Technology concept with millenials online with cellphone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Friends group having addicted fun using mobile smart phone - Close up of people hands sharing content on social media network with smartphone - Technology concept with millenials online with cellphone")
+![Campus and Branch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Campus and Branch")
 
-###### Welcome to the NOW Way to Wi-Fi
+Welcome to the NOW Way to Wi-Fi
 
 Take your networking performance to new heights with a modern, cloud-native, AI-Native architecture. Only Juniper can help you unleash the full potential of Wi-Fi 7 with our AI-Native platform for innovation.
 
@@ -766,7 +762,7 @@ Take your networking performance to new heights with a modern, cloud-native, AI-
 
 ![Business intelligence analyst dashboard on virtual screen. Big data Graphs Charts.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Business intelligence analyst dashboard on virtual screen. Big data Graphs Charts.")
 
-###### AI Data Center Networking
+AI Data Center Networking
 
 Juniper’s AI data center solution is a quick way to deploy high performing AI training and inference networks that are the most flexible to design and easiest to manage with limited IT resources.
 
@@ -774,7 +770,7 @@ Juniper’s AI data center solution is a quick way to deploy high performing AI 
 
 ![Enterprise AI-Native Networking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Enterprise AI-Native Networking")
 
-###### Enterprise AI‑Native Routing
+Enterprise AI‑Native Routing
 
 Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabilities for unmatched performance, reliability, and sustainability at scale.
 
@@ -839,7 +835,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 ![Zero trust security](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Zero trust security")
 
-###### Ops4AI Lab
+Ops4AI Lab
 
 Visit our lab in Sunnyvale, CA and see our AI data center solution for yourself. You can try out your own model’s functionality and performance, too.
 
@@ -853,7 +849,7 @@ Visit our lab in Sunnyvale, CA and see our AI data center solution for yourself.
 
 ![Enterprise AI-Native Networking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Enterprise AI-Native Networking")
 
-###### Enterprise AI‑Native Routing
+Enterprise AI‑Native Routing
 
 Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabilities for unmatched performance, reliability, and sustainability at scale.
 
@@ -926,7 +922,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
 
 ![Handsome Hispanic Student Uses Laptop while Listening to a Lecture at the University, He Raises Hand and Asks Lecturer a Question. Multi Ethnic Group of Modern Bright Students.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Handsome Hispanic Student Uses Laptop while Listening to a Lecture at the University, He Raises Hand and Asks Lecturer a Question. Multi Ethnic Group of Modern Bright Students.")
 
-###### Webinar: Achieving Digital Transformation in Higher Education with AI Networking
+Webinar: Achieving Digital Transformation in Higher Education with AI Networking
 
 Digital transformation is a top priority for Higher Education IT leaders, but the foundation for change is reliable, simplified network connectivity.
 
@@ -1068,7 +1064,7 @@ Optics
 
 ![Bob Friday and Jessica Garrison speaking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bob Friday and Jessica Garrison speaking")
 
-###### Bob Friday Talks
+Bob Friday Talks
 
 Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
 
@@ -1151,6 +1147,42 @@ Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
 
 Back
 
+Services
+
+Services
+
+* * [Services overview](https://www.juniper.net/us/en/services.html)
+    * [Campus and branch](https://www.juniper.net/us/en/services/services-for-campus-and-branch.html)
+    * [Data center](https://www.juniper.net/us/en/services/services-for-data-center.html)
+    * [WAN](https://www.juniper.net/us/en/services/services-for-automated-wan.html)
+    * [Security](https://www.juniper.net/us/en/services/services-for-security.html)
+    * [Support services](https://www.juniper.net/us/en/services/support-services.html)
+
+* Tools and resources
+    
+* * [Juniper Support Insights (JSI)](https://www.juniper.net/us/en/services/support-services/support-insights.html)
+    * [Training and certification](https://www.juniper.net/us/en/training.html)
+
+![Services AI Care](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Services AI Care")
+
+Juniper AI Care Services Revolutionize Your Service Experience
+
+Our industry-first AI-Native services couple AIOps with our deep expertise across the full network life cycle. You can move from reactive response to proactive insight and action.
+
+[Explore AI Care Services](https://www.juniper.net/us/en/services/juniper-ai-care-services-for-mist-ai-datasheet.html)
+
+![Services AI Data Center](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Services AI Data Center")
+
+Juniper AI Data Center Deployment Services Optimize Your AI Model Runs
+
+We use our expertise and validated designs to help design, deploy, validate and tune networks, including GPUs and storage, to get the most from your AI infrastructure operation.
+
+[Learn about AI Data Center Deployment Services](https://www.juniper.net/us/en/services/ai-data-center-deployment-services-datasheet.html)
+
+* [Guidelines and policies](https://support.juniper.net/support/guidelines/)
+
+Back
+
 Partners
 
 Partners
@@ -1217,7 +1249,7 @@ Support and Documentation
 
 ![Business professional holding a tablet with digital screen](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Business professional holding a tablet with digital screen")
 
-###### The Juniper Support Portal (JSP) mobile app is now available!
+The Juniper Support Portal (JSP) mobile app is now available!
 
 Get Juniper support anytime, anywhere with the JSP mobile application, now available for Android and iOS!
 
@@ -1289,19 +1321,19 @@ Thought leadership and insights
 
 ![Audience raising hands up while businessman is speaking in training at the office.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Audience raising hands up while businessman is speaking in training at the office.")
 
-###### Juniper certification and training news
+Juniper certification and training news
 
 [See the latest](https://www.juniper.net/us/en/training/news.html)
 
 ![Ringing of the bell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ringing of the bell")
 
-###### All global events
+All global events
 
 [See the latest](https://www.juniper.net/us/en/events.html)
 
 ![AI-native-now](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AI-native-now")
 
-###### AI-Native NOW event series
+AI-Native NOW event series
 
 [Register now](https://www.juniper.net/us/en/events/ai-native-now.html)
 
@@ -1319,7 +1351,7 @@ Thought leadership and insights
 
 ![Juniper's Christina Hendrix at the head of a conference table. With the text "The NOW Way to Network" overlayed, with "NOW" emphasizing the "O" in green color.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Glowing")
 
-###### The NOW Way to Network
+The NOW Way to Network
 
 [Watch the video series](https://www.juniper.net/us/en/the-feed/series/the-now-way-to-network.html)
 
@@ -1392,7 +1424,7 @@ Thought leadership and insights
 
 ![AI Native Now](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AI Native Now")
 
-###### Executive insights
+Executive insights
 
 Dive deep with leading experts and thought leaders on all the topics that matter most to your business, from AI to network security to driving rapid, relevant transformation for your business.
 
@@ -1400,13 +1432,21 @@ Dive deep with leading experts and thought leaders on all the topics that matter
 
 ![A keynote speaker giving a presentation at a conference. There are dozens of people sitting around them. The presentation is displayed via projector on all the walls in the room.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "A keynote speaker giving a presentation at a conference. There are dozens of people sitting around them. The presentation is displayed via projector on all the walls in the room.")
 
-###### Leadership voices
+Leadership voices
 
 Juniper Networks’ leaders operate on the front lines of creating the network of the future. Take a look around to see what’s on their minds.
 
 [Watch now](https://www.juniper.net/us/en/the-feed/series/leadership-voices.html)
 
-[Try](https://www.juniper.net/us/en/try.html)
+![Bob Friday and Jessica Garrison speaking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bob Friday and Jessica Garrison speaking")
+
+Bob Friday Talks
+
+Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
+
+[Catch the latest episode](https://www.juniper.net/us/en/executive-insights/bob-friday.html)
+
+[Trials and Demos](https://www.juniper.net/us/en/trials-demos.html)
 
 Juniper Networks’ Privacy Notice
 ================================
