@@ -94,9 +94,6 @@
 
 Toggle navigation
 
-Privacy BCLIC - colonialpenn.com
---------------------------------
-
 [![Back](/documents/7880008/7878581/Back.svg/778c67cc-393d-e31d-d25f-a793873d69fb?t=1631092921271)Back to Privacy Policy](https://colonialpenn.com/privacy)
 
 Privacy Notice
