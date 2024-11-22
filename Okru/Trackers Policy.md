@@ -14,7 +14,7 @@ Close
 
 [![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdQVFXbtO3zWrJOpnzGUvi3yJF9JVQZJhPpPOIcIDc5ec)![](//i.okcdn.ru/i?r=BDEtjN7Zne-BVzZrRFypJtPdEtdJG3557Xn52fp90WnrNCJF9JVQZJhPpPOIcIDc5ec)](https://ok.ru/dk?st.cmd=anonymMain)
 
-[](https://ok.ru/ria/topic/157701262503317)
+[](https://ok.ru/marathons/157701262503317?cmd=PopLayer&st.layer.cmd=PopLayerChallenge&st.layer.cid=157701262503317)
 
 Mothers' Day
 
