@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Justice
+
+### Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu](https://www.csmonitor.com/World/Middle-East/2024/1121/netanyahu-arrest-gaza-starves "Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu")
+
 [Trust
 
 ### Why many in Ukraine oppose a ‘land for peace’ formula to end the war](https://www.csmonitor.com/World/Europe/2024/1121/ukraine-territory-russia-peace-deal "Why many in Ukraine oppose a ‘land for peace’ formula to end the war")
@@ -100,21 +104,17 @@ Recent Stories
 
 ### A shield from war for Iraq](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1121/A-shield-from-war-for-Iraq "A shield from war for Iraq")
 
-[Justice
-
-### Loggers were stealing the forest. These women started stealing their chain saws.](https://www.csmonitor.com/World/Africa/2024/1121/deforestation-cross-river-nigeria-boki-women "Loggers were stealing the forest. These women started stealing their chain saws.")
-
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
 Monitor Daily
 
-November 20, 2024
+November 21, 2024
 
-Does the golden rule always apply?
+Safeguarding a forest home
 
-Few of us have likely heard of the Chagossians. In the 1960s and ’70s, they were forcibly evicted from their Indian Ocean islands because the United States wanted them for a military base, which remains in operation. Today, we write about an effort to allow them to return home and the challenges involved. The issue affects 10,000 people directly – but all of us indirectly. Most societies have some version of the golden rule. Is that moral rule a law of convenience? Are there conditions when it does not apply? These questions usually do not have simple answers. But how we answer them is perhaps one of our surest markers of the progress of the human race.
+Poachers and fires threaten the forest community of Olum, Nigeria. So does illegal logging, which robs wildlife of habitat and can trigger mudslides. Lucrative for outside firms, the practice also pays off for some in the community who help them. Others take a longer view, and choose to exert agency. Contributor Saint Ekpali reports today on a remarkable band of women. The land has given them food, remedies, and what wood they need. In return, they now go on patrol, giving protection to the forest they love.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu](https://www.csmonitor.com/World/Middle-East/2024/1121/netanyahu-arrest-gaza-starves "Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu")
+
 [### Why many in Ukraine oppose a ‘land for peace’ formula to end the war](https://www.csmonitor.com/World/Europe/2024/1121/ukraine-territory-russia-peace-deal "Why many in Ukraine oppose a ‘land for peace’ formula to end the war")
 
 [### Loggers were stealing the forest. These women started stealing their chain saws.](https://www.csmonitor.com/World/Africa/2024/1121/deforestation-cross-river-nigeria-boki-women "Loggers were stealing the forest. These women started stealing their chain saws.")
-
-[### It’s more than money dividing nations at UN climate change conference](https://www.csmonitor.com/World/2024/1121/climate-global-cooperation-threat-COP29-china-trump "It’s more than money dividing nations at UN climate change conference")
 
 * * *
 
