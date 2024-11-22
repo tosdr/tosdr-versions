@@ -4,6 +4,10 @@ Map of Australia Map of Canada Map of European Union United States United Kingdo
 
 Close×
 
+![icon](//www.morphe.com/cdn/shop/t/929/assets/checkmark_cart.svg?v=32248314250182966831732137166)
+
+![icon](//www.morphe.com/cdn/shop/t/929/assets/gift_icon.svg?v=3524224353090864161732137196)
+
 ![](//www.morphe.com/cdn/shop/t/929/assets/shipping_icon.svg?v=127807994505907103401732137268)
 
   One or more of the items in your cart is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
