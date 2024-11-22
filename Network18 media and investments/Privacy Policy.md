@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Maharashtra Elections](https://www.news18.com/elections/assembly/maharashtra/)
-    * [Jharkhand Elections](https://www.news18.com/elections/assembly/jharkhand/)
-    * [Ind vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
+    * [Ind vs Aus Live](https://www.news18.com/cricket/india-vs-australia-1st-test-day-1-live-score-ind-vs-aus-today-match-latest-scorecard-at-optus-stadium-perthindia-vs-australia-1st-test-day-1-live-score-ind-vs-aus-today-match-latest-scorecard-at-optus-liveblog-9128371.html)
+    * [Maharashtra Elections](https://www.news18.com/elections/maharashtra-jharkhand-assembly-elections-2024-nda-mahayuti-mva-jmm-congress-bjp-india-nov-22-latest-news-exit-polls-liveblog-9128977.html)
+    * [AR Rahman](https://www.news18.com/movies/ar-rahmans-wife-sairas-lawyer-reveals-reason-behind-bollywood-divorces-expectations-from-sex-life-9127737.html)
     * [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
-    * [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/5-rashmika-mandanna-inspired-saree-blouses-for-marriage-season-2627333/)
-    * [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
     * [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-shares-post-about-birthdays-after-fans-note-his-absence-in-aaradhyas-party-9127790.html)
+    * [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
+    * [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/5-rashmika-mandanna-inspired-saree-blouses-for-marriage-season-2627333/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Maharashtra Elections](https://www.news18.com/elections/assembly/maharashtra/)
-* [Jharkhand Elections](https://www.news18.com/elections/assembly/jharkhand/)
-* [Ind vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
+* [Ind vs Aus Live](https://www.news18.com/cricket/india-vs-australia-1st-test-day-1-live-score-ind-vs-aus-today-match-latest-scorecard-at-optus-stadium-perthindia-vs-australia-1st-test-day-1-live-score-ind-vs-aus-today-match-latest-scorecard-at-optus-liveblog-9128371.html)
+* [Maharashtra Elections](https://www.news18.com/elections/maharashtra-jharkhand-assembly-elections-2024-nda-mahayuti-mva-jmm-congress-bjp-india-nov-22-latest-news-exit-polls-liveblog-9128977.html)
+* [AR Rahman](https://www.news18.com/movies/ar-rahmans-wife-sairas-lawyer-reveals-reason-behind-bollywood-divorces-expectations-from-sex-life-9127737.html)
 * [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
-* [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/5-rashmika-mandanna-inspired-saree-blouses-for-marriage-season-2627333/)
-* [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
 * [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-shares-post-about-birthdays-after-fans-note-his-absence-in-aaradhyas-party-9127790.html)
+* [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
+* [Rashmika Mandanna](https://www.news18.com/web-stories/celebrities/5-rashmika-mandanna-inspired-saree-blouses-for-marriage-season-2627333/)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
