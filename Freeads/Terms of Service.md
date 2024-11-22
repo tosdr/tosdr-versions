@@ -299,7 +299,7 @@ Articles in this folder -
 You may like to read -
 ----------------------
 
-* [The PAAG's New Pet Advertising Standards](https://help.freeads.co.uk/support/solutions/articles/47001246584-the-paag-s-new-pet-advertising-standards)
-* [Terms and conditions](https://help.freeads.co.uk/support/solutions/articles/47000874306-terms-and-conditions)
-* [Refund Policy](https://help.freeads.co.uk/support/solutions/articles/47001128557-refund-policy)
-* [Dogs & Puppies checklist](https://help.freeads.co.uk/support/solutions/articles/47000873639-dogs-puppies-checklist)
+* [About our Petsafe deposit scheme](https://help.freeads.co.uk/support/solutions/articles/47001189529-about-our-petsafe-deposit-scheme)
+* [How to accept Petsafe deposits on your advert](https://help.freeads.co.uk/support/solutions/articles/47001189531-how-to-accept-petsafe-deposits-on-your-advert)
+* [How am i paid?](https://help.freeads.co.uk/support/solutions/articles/47001196327-how-am-i-paid-)
+* [How long does it take for funds to reach my account](https://help.freeads.co.uk/support/solutions/articles/47001202248-how-long-does-it-take-for-funds-to-reach-my-account)
