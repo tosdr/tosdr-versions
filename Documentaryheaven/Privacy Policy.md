@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Blind Spot](/wp-content/thumbnails/5024-100x70.jpg?x53432)
+* [![The Story of Queen: Mercury Rising](/wp-content/thumbnails/14346-100x70.jpg?x53432)
     
-    Blind Spot
+    The Story of Queen: Mercury Rising
     
-    Blind Spot is a documentary that establishes the inextricable link between the energy we use, the way we run our economy and the effect it has had on our environment.It takes as a starting point t](https://documentaryheaven.com/blind-spot/ "Blind Spot")
-* [![Space Tourists](/wp-content/thumbnails/110-100x70.png?x53432)
+    Queen, it can be safely said they were one of the worlds greatest rock bands of all time, having set records never before seen in the music industry, selling out tours like no tomorrow and topping all](https://documentaryheaven.com/story-of-queen-mercury-rising/ "The Story of Queen: Mercury Rising")
+* [![Ross Kemp: Extreme World – Mexico EP3](/wp-content/thumbnails/5394-100x70.jpg?x53432)
     
-    Space Tourists
+    Ross Kemp: Extreme World – Mexico EP3
     
-    This documentary deals with an issue that many still find hard to believe is possible.Over 40 years ago man first went into space. Ever since ordinary people have dreamt of getting there themselves. B](https://documentaryheaven.com/space-tourists/ "Space Tourists")
-* [![The Missing Link](/wp-content/thumbnails/7093-100x70.jpg?x53432)
+    Ross travels to the war torn city of Juarez in Mexico where the drug cartels fight for ownership of smuggling routes into the US worth $40 billion.](https://documentaryheaven.com/ross-kemp-extreme-world-mexico/ "Ross Kemp: Extreme World – Mexico EP3")
+* [![The Buzz Around Niue](/wp-content/thumbnails/10230-100x70.jpg?x53432)
     
-    The Missing Link
+    The Buzz Around Niue
     
-    Last year the discovery of a tiny fossilised jawbone hit the headlines. The jawbone, only a few centimetres long with seven rows of teeth, was found abandoned in a dusty museum where it had lain unnot](https://documentaryheaven.com/the-missing-link/ "The Missing Link")
-* [![The True Story of Black Hawk Down](/wp-content/thumbnails/695-100x70.png?x53432)
+    Bee's pollinate about a third of the worlds food but all around the globe they are dying from colony collapse and diseases at an alarming rate. As scientists search for solutions there's a buzz around](https://documentaryheaven.com/buzz-around-niue/ "The Buzz Around Niue")
+* [![Eminem A.K.A.](/wp-content/thumbnails/7976-100x70.jpg?x53432)
     
-    The True Story of Black Hawk Down
+    Eminem A.K.A.
     
-    Real footage is shown to prove that the film Black Hawk Down (2001) was very true to the real events that occurred in Mogadishu in 1993. Actual militia and US rangers are interviewed to tell us the di](https://documentaryheaven.com/the-true-story-of-black-hawk-down/ "The True Story of Black Hawk Down")
-* [![Afraid of People](/wp-content/thumbnails/7123-100x70.jpg?x53432)
+    Groundbreaking rapper Eminem (born Marshall Mathers) burst onto the scene in 1999 and left it breathless with his powerhouse rhythms, in-your-face rhymes, astounding live performances and creative mus](https://documentaryheaven.com/eminem-aka/ "Eminem A.K.A.")
+* [![Jimi Hendrix the Uncut Story](/wp-content/thumbnails/1807-100x70.jpg?x53432)
     
-    Afraid of People
+    Jimi Hendrix the Uncut Story
     
-    Social anxiety is anxiety (emotional discomfort, fear, apprehension, or worry) about social situations, interactions with others, and being evaluated or scrutinized by other people. The difference bet](https://documentaryheaven.com/afraid-of-people/ "Afraid of People")
+    Those looking for historical details, insights, and heartfelt testimonials from family, friends, music industry royalty, and fellow musicians will be greatly satisfied with Jimi Hendrix: The Uncut Sto](https://documentaryheaven.com/jimi-hendrix-the-uncut-story/ "Jimi Hendrix the Uncut Story")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
