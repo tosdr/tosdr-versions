@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Two people in bed](https://www.women.com/img/gallery/how-to-handle-being-asked-about-your-body-count-not-that-it-matters/intro-1731694030.jpg)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+*  [![](https://www.women.com/img/gallery/what-is-the-4b-movement-and-why-it-packs-more-punch-this-time-around/intro-1732302064.jpg)](https://www.women.com/1720857/4b-movement-trend-explained/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Relationships](https://www.women.com/category/relationships/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
     
-    [How To Handle Being Asked About Your Body Count (Not That It Matters)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
-    =========================================================================================================================================================
+    [What Is The 4B Movement? (And Why It Packs More Punch This Time Around)](https://www.women.com/1720857/4b-movement-trend-explained/)
+    =====================================================================================================================================
     
-    Your body count refers to how many people you've had sex with. While it's no one's business but your own, it can be made into a bigger deal than it is.
+    The 4B movement has made waves across college campuses in the U.S. and gained serious steam since Donald Trump was controversially elected for his second term.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+    By Emily Hutchinson [Read More](https://www.women.com/1720857/4b-movement-trend-explained/)
     
-* *  [![Halle Berry on the red carpet smiling](https://www.women.com/img/gallery/5-celebs-who-have-been-vocal-about-avoiding-plastic-surgery/intro-1731690800.jpg)](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
+* *  [![Two people in bed](https://www.women.com/img/gallery/how-to-handle-being-asked-about-your-body-count-not-that-it-matters/intro-1731694030.jpg)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+        
+        ### [How To Handle Being Asked About Your Body Count (Not That It Matters)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+        
+        Your body count refers to how many people you've had sex with. While it's no one's business but your own, it can be made into a bigger deal than it is.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+        
+    *  [![Halle Berry on the red carpet smiling](https://www.women.com/img/gallery/5-celebs-who-have-been-vocal-about-avoiding-plastic-surgery/intro-1731690800.jpg)](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
         
         [Wellness](https://www.women.com/category/wellness/)
         
@@ -66,22 +78,22 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
         
-    *  [![Dolly Parton on the red carpet with arms outstretched](https://www.women.com/img/gallery/dolly-partons-most-philanthropic-efforts-across-her-long-career/intro-1731613196.jpg)](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Emily Hutchinson
-        
-        ### [Dolly Parton's Most Philanthropic Efforts Across Her Long Career](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
-        
-        Dolly Parton is a philanthropic icon, repeatedly investing in the creativity and futures for people across the globe, as well as her home town.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
-        
 
 More Stories
 ------------
 
+*  [![Dolly Parton on the red carpet with arms outstretched](https://www.women.com/img/gallery/dolly-partons-most-philanthropic-efforts-across-her-long-career/intro-1731613196.jpg)](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [Dolly Parton's Most Philanthropic Efforts Across Her Long Career](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+    
+    Dolly Parton is a philanthropic icon, repeatedly investing in the creativity and futures for people across the globe, as well as her home town.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+    
 *  [![Gabrielle Union and Dwayne Wade at a basketball event](https://www.women.com/img/gallery/5-celeb-parents-who-are-loud-proud-supporters-of-their-trans-and-non-binary-children/intro-1731522385.jpg)](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
     
     [Politics](https://www.women.com/category/politics/)
@@ -393,18 +405,6 @@ More Stories
     The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
-    
-*  [![gwen stefani and husband](https://www.women.com/img/gallery/the-5-biggest-glow-downs-in-celebrity-fashion-history/intro-1730321365.jpg)](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
-    
-    ### [The 5 Biggest Glow-Downs In Celebrity Fashion History](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
-    
-    Celebrity glow-downs don't have to be bad. As Lady Gaga and Angelina Jolie age, they're leaving behind bold statement pieces in favor of timeless classics.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
     
 
 Back
