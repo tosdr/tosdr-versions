@@ -355,7 +355,7 @@ FR
         
         [Brilliant Earth
         
-        up to 5% Cash Back](https://www.rakuten.ca/brilliant-earth)[Michael Kors
+        up to 10% Cash Back](https://www.rakuten.ca/brilliant-earth)[Michael Kors
         
         6% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
