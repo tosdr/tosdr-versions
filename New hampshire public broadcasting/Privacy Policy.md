@@ -190,9 +190,9 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Preview** | Peter Bence: Pianosphere in Paris](https://video.nhpbs.org/video/peter-bence-pianosphere-in-paris-preview-bfh7p8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Leonard Cohen - Live in Dublin](https://video.nhpbs.org/video/leonard-cohen-live-in-dublin-preview-znqhho?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Vanessa Haynes performs "O Thou That Tellest Good Tidings to Zion"** | Too Hot to Handel: The Gospel Messiah](https://video.nhpbs.org/video/vanessa-haynes-performs-o-thou-that-tellest-good-tidings-to-zion-xno2hn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Deer Hunt Wisconsin 2024** | Milwaukee PBS Specials](https://video.nhpbs.org/video/deer-hunt-wisconsin-2024-6fa4j0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Gaetz ends AG bid amid sex trafficking allegations** | PBS News Hour](https://video.nhpbs.org/video/gaetz-out-1732227813?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Broken Promises And Black Revolutionary War Soldiers** | In the Margins](https://video.nhpbs.org/video/broken-promises-and-black-revolutionary-war-soldiers-pe3hz7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Lacewing LOVE is Noisier Than You Think** | Deep Look](https://video.nhpbs.org/video/lacewing-love-is-noisier-than-you-think-dbjq3s?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**StoryCorps Shorts: Dear Mrs. Doyle** | POV](https://video.nhpbs.org/video/storycorps-shorts-dear-mrs-doyle-e4w9cy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
