@@ -1,6 +1,6 @@
 [Jump to content](#ipsLayout_mainArea "Go to main content on this page")
 
-[![CreativeClash](//cdn.xcreativeclashx.net/monthly_2024_08/CCBannerLogo.png.0136900bac0ce2821aa2596aa949115f.png)](https://xcreativeclashx.net/)
+[![CreativeClash](https://xcreativeclashx.net/uploads/monthly_2024_08/CCBannerLogo.png.6b2af97e4bc16393ac17c2b983b27982.png)](https://xcreativeclashx.net/)
 
 * [Community Home](https://xcreativeclashx.net/ "Go to the community homepage")
 
