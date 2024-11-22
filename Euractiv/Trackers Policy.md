@@ -111,6 +111,16 @@ Most recent
 
 [22-11-2024
 
+US sanctions on Gazprombank will accelerate EU-Russia decoupling, analysts say](https://www.euractiv.com/section/economy-jobs/news/us-sanctions-on-gazprombank-will-accelerate-eu-russia-decoupling-analysts-say/)[22-11-2024
+
+Closing rule of law procedure against Poland ‘a good decision’, Reynders said](https://www.euractiv.com/section/politics/news/closing-rule-of-law-procedure-against-poland-a-good-decision-reynders-said/)[22-11-2024
+
+Europe’s broken food system, time to finance resilient and sustainable food systems](https://www.euractiv.com/section/agriculture-food/news/europes-broken-food-system-time-to-finance-resilient-and-sustainable-food-systems/)[22-11-2024
+
+Businesses urge EU to become more like the US](https://www.euractiv.com/section/economy-jobs/news/businesses-urge-eu-to-become-more-like-the-us/)[22-11-2024
+
+EU regulators scrap probe into Apple’s e-book rules after complaint was withdrawn](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L8N3MT0SC:569717771)[22-11-2024
+
 Hungarian presidency secures full Schengen membership for Bulgaria, Romania](https://www.euractiv.com/section/politics/news/hungarian-presidency-secures-full-schengen-membership-for-bulgaria-romania/)[22-11-2024
 
 Hungary seeks organ transplant increase, boost to organ recipient life quality and reduced stigma](https://www.euractiv.com/section/health-consumers/news/hungary-seeks-organ-transplant-increase-boost-to-organ-recipient-life-quality-and-reduced-stigma/)[22-11-2024
@@ -119,17 +129,7 @@ Orbán to host Netanyahu in Hungary as EU divided over ICC decision](http://rmb.
 
 Barnier: Franco-German tandem should enter ‘ménage à trois’ with Italy](https://www.euractiv.com/section/politics/news/barnier-franco-german-tandem-should-enter-menage-a-trois-with-italy/)[22-11-2024
 
-UK and France investigate over suspected corruption by Thales](https://www.euractiv.com/section/defence-and-security/news/uk-and-france-investigate-over-suspected-corruption-by-thales/)[22-11-2024
-
-US Treasury targets Russia’s Gazprombank with new sanctions](https://www.euractiv.com/section/global-europe/news/us-treasury-targets-russias-gazprombank-with-new-sanctions/)[22-11-2024
-
-Irish economy faces the test of Trump’s protectionism](https://www.euractiv.com/section/politics/news/irish-economy-faces-the-test-of-trumps-protectionism/)[22-11-2024
-
-Unpopular Scholz set to run for second term after Pistorius bows out](https://www.euractiv.com/section/politics/news/unpopular-scholz-set-to-run-for-second-term-after-pistorius-bows-out/)[22-11-2024
-
-Romania’s radical right leader Simion, a Trump fan, eyes presidency](https://www.euractiv.com/section/politics/news/romanias-radical-right-leader-simion-a-trump-fan-eyes-presidency/)[22-11-2024
-
-Nuclear sector pins hopes on 2026 for ‘low-carbon’ hydrogen label](https://www.euractiv.com/section/eet/news/nuclear-sector-pins-hopes-on-2026-for-low-carbon-hydrogen-label/)
+UK and France investigate over suspected corruption by Thales](https://www.euractiv.com/section/defence-and-security/news/uk-and-france-investigate-over-suspected-corruption-by-thales/)
 
 ###### Advertisement
 
