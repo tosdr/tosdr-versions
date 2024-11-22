@@ -31,6 +31,435 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Reactivación económica: algunas líneas para el corto plazo
+==========================================================
+
+El largo plazo debe enfocarse en fortalecer la estructura económica del país, diversificar fuentes de ingresos y mejorar la competitividad.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Rodrigo Albuja Chaves, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/Rodrigo-Albuja-Chaves.jpg)
+
+Diseñar una **estrategia** para reactivar la **economía** de **Ecuador** es una tarea compleja. Se requiere un enfoque integral que aborde tanto las necesidades inmediatas como los retos estructurales, es decir, combinar la atención a **problemas** de corto plazo  con proyectos de **desarrollo sostenible** a futuro.
+
+En los **momentos actuales**, las condiciones de **crisis multidimensional** exigen, en primer lugar, contar con la **voluntad política** de quienes triunfen en las **elecciones presidenciales del 2025**; su misión trascendental será atender las **necesidades** prioritarias, que tocan al estado de **pobreza** y **marginalidad** de la mayoría de la **población**. Sin la renuncia a los intereses de grupos y sin **acuerdos nacionales** que involucren a la **sociedad civil,** ningún plan coherente será viable.
+
+La **crisis de energía eléctrica** ha creado estragos en la **economía** y en las **condiciones de vida** de la mayoría. Pero la desinstitucionalización del país, acompañada de la **corrupción** rampante y de la **inseguridad** en **crecimiento**,  dificulta la definición del camino viable hacia la **recuperación económica** con **equidad social**. Se ha abandonado la planificación como el proceso imprescindible para definir objetivos y asignar recursos; se intensifica la **desvalorización** del Estado por parte de interesados en privatizar sectores clave para el bienestar de la **población**; se ha disminuido la **inversión pública** a un mínimo absurdo; se ha abandonado a **poblaciones** con larga data de **pobreza**, creando las condiciones para que jóvenes sin futuro engrosen las filas del **narcotráfico**. La cultura de la **previsión** y definición de prioridades ha cedido lugar a la arremetida del **neoliberalismo** y su **ortodoxia** económica  estructuralmente generadora de **pobreza**, **desigualdad**, **precariedad** y **desintegración social**.
+
+Existen también sólidas razones para pensar que buena parte de la **situación socioeconómica** vigente tiene una raigambre **cultural** más honda, y que la búsqueda de **derroteros alternos** implica trascender el ámbito de las **ideologías** en su acepción **convencional**. Este debe ser el punto de partida para incursionar en un **proceso** de **planificación** de la **reactivación económica** que disponga de la **viabilidad** política y social. Frente a ello, la **participación** de la **sociedad** representada por los sectores académicos, productivos e institucionales que aúnen **esfuerzos** en pro de la definición de un modelo de desarrollo propio, es determinante. Las **ambigüedades** y **contradicciones** propias de la vieja concepción de los planes de desarrollo, sin consistencia por falta de apoyo de la **participación social**, deberán superarse.
+
+Cualquier esfuerzo por definir una **estrategia viable** deberá abordar la **superación** de la carencia de **recursos** que sufre actualmente el país por **falta de decisiones** que instauren un proceso de redistribución, a partir de la **creación de un excedente económico**.
+
+En el corto plazo, el punto de partida debe ser mejorar el **acceso a la liquidez** para estabilizar la  **economía** y **recuperar la confianza de la población**. El estímulo a la **inversión pública** y **privada**  en **sectores estratégicos**  –**energía renovable y tecnología**,  la **agricultura**, la **manufactura** y el turismo-. que puedan generar empleo y crecimiento económico rápido, se torna clave. A esto deben contribuir  también  los **incentivos fiscales temporales**. Establecer líneas de crédito blandas para pequeñas y medianas empresas (PYMEs) y emprendedores, con **tasas de interés bajas** o **subsidios parciales**, para que puedan reiniciar sus actividades, será una **política** de las más importantes para impulsar la **reactivación productiva.**
+
+La **negociación** para alcanzar una adecuada reestructuración de la **deuda externa**, o la apertura hacia nuevos **acuerdos de financiamiento** para asegurar la **estabilidad económica,** debe ser  impostergable, de manera que abra **nuevos horizontes** en la relación con los sectores prestamistas.
+
+La **reactivación** del **consumo** interno deberá recurrir a los **subsidios directo**s a favor de sectores vulnerables, con transferencias monetarias, a fin de aumentar el poder adquisitivo y fomentar el consumo. Asimismo, la **creación de empleos temporales** en obras de **infraestructura pública**, como la reparación de caminos, viviendas y obras viales, puede ser un mecanismo para absorber rápidamente la mano de obra disponible.
+
+El largo plazo debe enfocarse en fortalecer la **estructura económica del país**, diversificar fuentes de ingresos y mejorar la **competitividad**. Es necesario **construir una base sólida** para garantizar un **crecimiento sostenible** y una **economía diversificada**.
+
+Recuperar el crecimiento
+========================
+
+El comercio debe ser el motor de desarrollo y la economía abierta a la competencia internacional.
+-------------------------------------------------------------------------------------------------
+
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+
+Tema siempre pertinente y más aún cuando una **política pública** mal llevada y ex profesamente empeorada con grandilocuencia a partir de la **década perdida**, donde se realiza todo lo posible por boicotear el **bienestar del país** y su gente. Según los enunciados del grupo de Puebla, hay que tener a la gente pobre para que sigan votando por ellos.
+
+Pues basta preguntar ¿Qué es necesario para lograr restablecer el **crecimiento**?
+
+El **impulso inicial** provino de la **liberación y expansión del comercio mundial** y del **sistema financiero** en la segunda mitad del siglo XX. La apertura de **mercados de las naciones industrializadas**, la expansión del flujo de **capitales internacionales privados** y el comercio recíproco de mercancías, a través de los acuerdos de **libre comercio,** proporcionan oportunidades sin precedentes para la diversificación, **modernización** y el **desarrollo**.
+
+La **inversión extranjera** directa junto con el **financiamiento** de los **bancos privados** llego a hacer la fuente principal del capital para el desarrollo, complementado por el apoyo de los entes multilaterales; pero lamentablemente estas fuentes no están disponibles para nuestro país como resultado del alto **endeudamiento público** generado en esa década perdida, que ha dejado a los últimos tres gobiernos ilíquidos y pagando cuentas del derroche ajenas.
+
+Con lo que viene sucediendo en los últimos dos años debería ser suficiente para convencer al país que lo único estratégico es la **disponibilidad** de recursos, sean estos de alimentos, de infraestructura de **comunicaciones**, de salud, de energía y para ello nada mejor que un Estado con una **burocracia** pequeña, pero eficiente que lleve adelante las **políticas públicas** en apoyo a los **sectores productivos** que son al postre los que pagan con su **contribución impositiva** el **funcionamiento** del **sector público**.
+
+El **sector privado** es el eslabón crucial y solamente la iniciativa individual puede reunir los recursos adicionales, financieros y empresariales para aprovechar cabalmente de las **oportunidades** que presentan. Si concordamos que es preciso aprovechar de este gran recurso, entonces tenemos la **responsabilidad** de hacer todo lo necesario por utilizar racionalmente, a **nivel privado** y también como parte de la **política** global del país.
+
+Por ello, si es preciso abogar por una **estrategia** de **desarrollo** que opere dentro del seno de una **economía abierta**, que recompense la iniciativa de inversión y el **esfuerzo** lucrativo, para lo cual se debe contar con varios elementos claves. El **crecimiento** debe basarse primordialmente en el ahorro interno. Esto entraña la retención del **capital interno** en el país. Cuando se premia el afán de lucro de la gente, el capital se vuelve **asequible** para la **inversión**. Cuando se premia y recompensa el **espíritu empresarial,** la gente responde con **productividad** e **innovación**
+
+Cómo complemento de ellos hay que dar un trato igual a la **inversión nacional y extranjera**. Esta última puede aportarnos, no solamente en la parte económica; sino que trae tecnología, capacitación e **innovaciones administrativas** y vinculación con el comercio internacional. Además, esta **inversión** extranjera no constituye deuda, al contrario, es un aporte al **desarrollo** contrariamente a lo que sucede con la **política estatista**, que no genera recursos, pero que sí se endeuda en el exterior.
+
+Estos **recursos de extranjeros** vienen a complementar el ahorro interno y no a su plantearlo. Finalmente, el **comercio** debe ser el motor de d**esarrollo y la economía** abierta a la competencia internacional trae como resultado elevar los niveles de vida, calidad de los productos elaborados en el país y **competitividad**. Todo esto se basa en un sencillo y poderoso principio: Un sistema que delega la fuerza productiva al individuo y sus organizaciones, financiados por capitales privados. En general, este riesgo de sector privado, que reconoce y **recompensa su laboriosidad y creatividad,** es un sistema que crece y prospera, **creando oportunidades, empleo y bienestar para el país**.
+
+El duro golpe a Loja y Azuay
+============================
+
+La sequía y el accionar humano han desatado incendios devastadores en Azuay y Loja, afectando el medio ambiente y la salud pública.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Los incendios forestales en Azuay y Loja han devastado ecosistemas, afectando gravemente el medio ambiente y la salud pública.](https://www.elcomercio.com/wp-content/uploads/2024/11/Incendio-en-el-Cajas.jpg)
+
+**Ecuador** enfrenta una crisis ambiental sin precedentes en 2024, marcada por incendios forestales devastadores que han arrasado miles de hectáreas de vegetación en las provincias de **Azuay y Loja.** La combinación de una prolongada sequía y la intervención humana ha creado un escenario alarmante, donde la quema de vegetación no solo ha provocado pérdidas ecológicas, sino que también ha generado alertas de contaminación ambiental en ciudades como **Loja.**
+
+Esta situación demanda una reflexión profunda sobre las causas subyacentes y las medidas necesarias para prevenir futuros desastres, así como la importancia de evitar el uso político de estas emergencias.
+
+Los incendios forestales en Ecuador durante este año han sido impulsados principalmente por dos factores: la sequía severa que afecta al país y las acciones irresponsables del ser humano.
+
+> Según datos de la **Secretaría Nacional de Gestión de Riesgos**, más de **18 500 hectáreas han sido consumidas por el fuego en Azuay y Loja** desde principios de noviembre, con un total de 21 incendios activos reportados a nivel nacional. Esta situación se ha visto agravada por la falta de lluvias, que ha llevado a condiciones extremadamente secas y propensas a incendios.
+
+Los efectos de estos incendios son devastadores. En Loja, se han registrado niveles críticos de contaminación del aire debido a las emisiones generadas por los incendios, con índices que superan los límites saludables. La calidad del aire se ha deteriorado significativamente, afectando la salud pública y provocando malestar entre los habitantes.
+
+Además, los incendios han causado daños irreparables a la fauna local; miles de animales han perdido sus hábitats y algunos han muerto en el proceso. La quema indiscriminada de vegetación no solo destruye ecosistemas, sino que también contribuye al cambio climático al liberar grandes cantidades de dióxido de carbono a la atmósfera. Esta crisis ambiental exige una respuesta inmediata y efectiva por parte del Estado ecuatoriano.
+
+En medio de esta **crisis energética y ambiental**, es fundamental que los actores políticos eviten capitalizar la situación para obtener beneficios electorales. El uso político de las emergencias puede desviar la atención de las verdaderas soluciones necesarias para abordar los problemas subyacentes. La transparencia y la rendición de cuentas son esenciales para garantizar que los recursos destinados a combatir los incendios sean utilizados adecuadamente.
+
+El Estado ecuatoriano ha buscado créditos internacionales para enfrentar la emergencia causada por los incendios forestales en **Azuay y Loja**. Sin embargo, es crucial que estos fondos se utilicen para desarrollar estrategias sostenibles que aborden tanto la prevención como la mitigación del impacto ambiental.
+
+La crisis ambiental provocada por los incendios forestales en Azuay y Loja es un llamado urgente a la acción. La combinación de sequía e intervención humana ha llevado a una situación crítica que afecta tanto al medio ambiente como a la salud pública. Es fundamental evitar el uso político de estas emergencias y centrarse en soluciones efectivas que promuevan la sostenibilidad. La educación, la prevención y la colaboración son claves para enfrentar este desafío y proteger nuestro patrimonio natural para las **futuras generaciones.**
+
+Cartas a Quito / 22 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este viernes 22 de noviembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Cambios en la Constitución 
+---------------------------
+
+En este estado de cosas (apagones, crisis social y económica, etc.) y con esta incertidumbre permanente, los ecuatorianos afrontamos un nuevo reto: la proximidad de las elecciones, asunto que, como es obvio,  nos inquieta sobremanera y nos deja muchas dudas al respecto…¿Tantos candidatos? Es la pregunta que todos nos hacemos  ¿Es que acaso priman los intereses económicos, personales o políticos, dejando de lado  el  bienestar y la seguridad de los ecuatorianos? 
+
+Esto, aparte de mantenernos confundidos, representa un incalculable  despilfarro  en esta época de crisis por la que nos encontramos atravesando. 
+
+Señor presidente: 
+
+Hacen falta muchos cambios en la Constitución vigente; entre otras cosas, métodos y formas para  evaluar y seleccionar a los aspirantes a las diversas candidaturas, para evitar la inscripción de cualquier “hijo de vecino” simplemente porque tiene amigos de barrio (Gallada)  y familia numerosa; sin antes revisar, concienzuda y minuciosamente, sus antecedentes personales, policiales y políticos. 
+
+¿Por qué no empezar por ahí, señor Presidente? Tratemos de unir fuerzas y hacer Patria, mejorando las absurdas y caducas leyes y reglamentos  elaborados a la medida y conveniencia de sus antecesores;  leyes que, desde luego, nos afectan y van en mengua de nuestros intereses y prioridades. Debemos tomar en consideración que países desarrollados del primer mundo cuya economía es completamente superior a la nuestra, cuentan tan solo con dos o tres candidatos, con lo que el panorama para los votantes se vuelve mucho más fácil y transparente y no se presta para  manipulaciones ni fraudes; además el egreso económico que representa  es, obviamente, más sustentable. 
+
+Fabiola Carrera Alemán 
+
+Quito tendrá 247 cierres viales este domingo 24 de noviembre por competencia ciclística
+=======================================================================================
+
+La AMT ejecutará un plan operativo de movilidad este domingo, que incluye el cierre de 46 vías principales y 201 calles secundarias.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cierres viales en Quito se deben a una competencia ciclística que se realizará en la mañana](https://www.elcomercio.com/wp-content/uploads/2024/11/cierres-viales-quito-calles.jpg)
+
+La Agencia Metropolitana de Tránsito (**AMT**) detalló el **plan operativo** que se realizará en Quito, el domingo 24 de noviembre de 2024. En total, se ejecutarán **247 cierres viales** en la capital, debido a una **competencia** **ciclística**.
+
+### Más noticias
+
+* [Personajes del Centro Histórico cuentan los cambios de Quito y sus fiestas](https://www.elcomercio.com/actualidad/quito/fiestas-quito-centro-historico-personajes.html "Personajes del Centro Histórico cuentan los cambios de Quito y sus fiestas")
+* [Al menos cinco calles cerradas para atender incendio estructural en Quito](https://www.elcomercio.com/actualidad/quito/al-menos-cinco-calles-cerradas-para-atender-incendio-estructural-en-quito.html "Al menos cinco calles cerradas para atender incendio estructural en Quito")
+* [Nue](https://www.elcomercio.com/actualidad/cruce-seguro-america-universidad-central-quito-puente.html "Nuevo ‘Cruce seguro’ deja a un lado otro puente peatonal en Quito")[vo ‘Cruce seguro’ deja a un lado otro pue](https://www.elcomercio.com/actualidad/cruce-seguro-america-universidad-central-quito-puente.html "Nuevo ‘Cruce seguro’ deja a un lado otro puente peatonal en Quito")[nte peatonal en Quito](https://www.elcomercio.com/actualidad/cruce-seguro-america-universidad-central-quito-puente.html "Nuevo ‘Cruce seguro’ deja a un lado otro puente peatonal en Quito")
+
+Los cierres viales comenzarán a las **05:00** y se habilitarán conforme avancen los ciclistas, hasta pasadas las **13:30**; pese a que la competencia se iniciará a las 06:00 y culminará a las 13:00.
+
+Cierres viales en Quito
+-----------------------
+
+Los ciclistas recorrerán sectores del **centro, sur y valle de Quito**. La ruta de salida y llegada se encontrará en la **av. Ladrón de Guevara**, en La Vicentina.
+
+El **sábado 23 de noviembre** se adelantará el cierre de esta vía, entre las calles Iberia y Toledo, para el armado de la tarima.
+
+Según informó la AMT, en el operativo de movilidad trabajarán **950 Agentes Civiles de Tránsito** (ACT), en los **46 cierres principales** y 201 secundarios que habrá este domingo.
+
+Los cierres viales comprenden algunos **sectores**, entre ellos:
+
+* Tumbaco
+* Redondel de Puembo
+* Redondel de Palugo
+* Pintag
+* Sangolquí
+* Amaguaña
+* Conocoto
+* El Tingo
+* Coliseo General Rumiñahui
+
+En el trayecto se realizarán controles de **vehículos mal estaciones**, afirmó la AMT[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
+
+> 🚴‍♂️ [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 🚲Este domingo 24 de noviembre se desarrollará en Quito la competencia El Giro de Rigo, la AMT realizará un plan operativo de tránsito para la movilidad de los ciudadanos.  
+>   
+> 🚴‍♀️Planifica tus rutas con anticipación  
+>   
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/AKnrAIqpry](https://t.co/AKnrAIqpry)
+> 
+> — AMTQuito (@AMT\_Quito) [November 22, 2024](https://twitter.com/AMT_Quito/status/1859784324721279377?ref_src=twsrc%5Etfw)
+
+Contraflujo en la avenida Velasco Ibarra
+----------------------------------------
+
+Para reducir la congestión vehicular este domingo, la Agencia Metropolitana de Tránsito habilitará un **contraflujo** en la **av. Velasco Ibarra**, de 07:00 a 13:00.
+
+El contraflujo se implementará desde la **av. Napo** hasta la **av. Sena**, en sentido oriente-occidente.
+
+En esta vía la circulación será normal en el sentido occidente-oriente.
+
+Personajes del Centro Histórico cuentan los cambios de Quito y sus fiestas
+==========================================================================
+
+Quito celebra 490 años de fundación y muchas personas que frecuentan el Centro Histórico a diario han sido testigos de su evolución a lo largo del tiempo.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Humberto Vega trabaja en el Centro Histórico de Quito desde hace 30 años.](https://www.elcomercio.com/wp-content/uploads/2024/11/Personajes-de-Quito-historias.jpg)
+
+El **Centro Histórico de Quito**, con sus calles empedradas y su título de Patrimonio Cultural de la Humanidad, no solo es un espacio de tradición y cultura, sino también un lugar donde se cuentan **historias** de vida únicas[.](https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Quito "https://es.wikipedia.org/wiki/Centro_hist%C3%B3rico_de_Quito")
+
+Más noticias
+------------
+
+* [Eventos de fiestas de Quito del 21 de noviembre se aplazan por movilizaciones](https://www.elcomercio.com/actualidad/quito/eventos-de-fiestas-de-quito-del-21-de-noviembre-se-aplazan-por-movilizaciones.html "Eventos de fiestas de Quito del 21 de noviembre se aplazan por movilizaciones")
+* [Las fiestas de Quito arrancan este miércoles 20 de noviembre](https://www.elcomercio.com/actualidad/quito/fiestas-quito-agenda-inicio-ceremonia.html "Las fiestas de Quito arrancan este miércoles 20 de noviembre")
+* [Está listo el programa por las fiestas de Quito del 2024](https://www.elcomercio.com/actualidad/programa-fiestas-quito-2024.html "Está listo el programa por las fiestas de Quito del 2024")
+
+Entre **lustrabotas**, vendedores de **espumillas**, artistas **callejeros** y **comerciantes**, cada personaje aporta una pieza al mosaico de la identidad quiteña.
+
+Humberto Vega, el lustrabotas de la Plaza Grande
+------------------------------------------------
+
+**Humberto Vega** lleva más de tres décadas en la **Plaza Grande** ofreciendo su servicio como lustrabotas.
+
+Durante su jornada, que empieza a las 06:30 y termina a las 17:00, ha atendido a personajes, reconocidos como J**osé Francisco Cevallos** y varios políticos locales. Sus clientes suelen conversar con él sobre la **economía**, **política** y **seguridad**.
+
+“En estos años observé cómo el pueblo se organizó para defender sus **derechos**”, comenta Humberto, quien asegura que las **fiestas de Quito** son una oportunidad para que el comercio prospere.
+
+“Durante las fiestas de Quito, viene bastante gente hasta el **Centro** **Histórico** y ahí tengo la oportunidad de lustrar más zapatos”, detalló.  
+
+De su oficio dependen sus tres hijas y su pareja. Cobra 0,60 centavos por cada lustrada, que realiza con destreza y rapidez.
+
+Alicia Guevara, guardiana del sabor tradicional
+-----------------------------------------------
+
+Debajo de la **Catedral Metropolitana**, el local de sánduche de pernil de **Alicia Guevara** es un punto infaltable del recorrido gastronómico.
+
+Este negocio, iniciado por su madre y tía, se mantuvo durante 79 años en el mismo lugar, 35 de ellos bajo la administración de **Alicia**.
+
+“Las **fiestas de Quito** ya no son como antes. Antes había **bandas de pueblo** y una radio que ponía música para bailar”, recuerda.
+
+Entre las bandas que asistían, según cuenta, estaban la de la **FAE** y la **Metropolitana**. También señala que antes había muchos desfiles de colegios y comparsas, pero ahora son menos frecuentes.
+
+Comenta que la situación actual del **Ecuador**, sumada al hecho de que junto a su local está el Palacio de Carondelet, mantiene todo cercado, lo que aleja a la gente.
+
+A pesar de los cambios, su local recibe a estudiantes, turistas y autoridades, quienes encuentran en su espacio un rincón lleno de historia y sabor.
+
+Recuerda con entusiasmo que en una ocasión el personal del **Ministerio de Turismo** visitó su local e incluso la llevó al Palacio de Carondelet, donde fue premiada y felicitada por su aporte al turismo local.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Personaje-de-Quito-1024x683.jpg)
+
+La familia de Alicia Guevara tiene un negocio desde hace más de 70 años en el Centro Histórico de Quito. Foto: Julio Estrella / EL COMERCIO.
+
+Norma Gualli, dulzura en las calles
+-----------------------------------
+
+Con solo 26 años, Norma Gualli recorre las calles del **Centro Histórico** para vender espumilla. Su jornada empieza a las cinco de la mañana, cuando prepara este dulce tradicional para ofrecerlo desde las 07:00 hasta las 11:00 a 0.50 centavos.
+
+Madre de dos pequeños, divide su tiempo entre el trabajo y las necesidades de su hogar. Hace tres años comenzó a trabajar en el Centro Histórico de Quito.
+
+“El **Metro de Quito** trajo más movimiento, pero las **fiestas de Quito** son los días en los que más vendo”, afirma.
+
+Durante las fiestas de Quito dice que es difícil caminar entre la multitud que visita el **Centro** **Histórico** mientras carga a su bebé en la espalda. Considera los eventos festivos de la ciudad una oportunidad para generar más ingresos para su hogar.
+
+Para Norma, estos días representan una oportunidad de **generar ingresos** adicionales para su familia.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Personaje-de-Quito-1-1024x683.jpg)
+
+Norma Gualli trabaja desde hae tres años en las calles del Centro Histórico de Quito. Foto: Julio Estrella / EL COMERCIO.
+
+Luis Caizatoa, el artista que llena Quito de boleros
+----------------------------------------------------
+
+Luis Caizatoa, músico con **discapacidad visual**, lleva 16 años alegrando las calles del **Centro Histórico** con su acordeón.
+
+Su repertorio, compuesto por boleros, resuena entre la **Plaza Grande y la Catedral Metropolitana.** Aunque su jornada es breve, de 09:00 a 11:00, su música deja una huella en los transeúntes.
+
+En su puesto, siempre sentado sobre un **taburete**, toca sus boleros en el acordeón mientras las personas que aprecian su música dejan monedas en un plato de metal.
+
+Aunque prefiere esta ubicación, menciona que se desplaza por varios puntos del **Centro** **Histórico**, como la Plaza de San Francisco.
+
+Para él, las horas no son lentas, ya que las amistades que formó a lo largo del tiempo en el **Centro** **Histórico** suelen pasar a saludarlo con frecuencia.
+
+Caizatoa también forma parte de un **grupo musical** integrado por personas con **discapacidad visual.** Este colectivo se reúne todas las semanas para ensayar canciones, perfeccionar su técnica y compartir su pasión por la música.
+
+“**Quito** cambia constantemente, pero las obras y proyectos suelen quedar a la mitad”, lamenta Luis, quien, a pesar de las dificultades, encuentra en su música una forma de conectar con la **ciudad** y su **gente**.
+
+Estos personajes representan la esencia del **Centro Histórico**: un lugar donde tradición, esfuerzo y vida cotidiana se unen para crear un espacio único que evoluciona junto a sus protagonistas.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Personaje-de-Quito-2-1024x683.jpg)
+
+Luis Caizatoa toca su música en el Centro Histórico de Quito desde hace 16 años. Foto: Julio Estrella / EL COMERCIO.
+
+1,2 millones de ecuatorianos tienen intención de emigrar, según informe
+=======================================================================
+
+La Organización Internacional de las Migraciones presentó los resultados sobre las motivaciones de los ecuatorianos para emigrar.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![La mayoría de los ecuatorianos que quieren emigrar son jóvenes entre 18 a 39 años](https://www.elcomercio.com/wp-content/uploads/2024/11/migracion-ecuatorianos-extranjero.jpg)
+
+Una informe realizado por la Organización Internacional de las Migraciones (**OIM**) concluyó que **1,2 millones** **de ecuatorianos** tienen la intención de emigrar.
+
+### Más noticias
+
+* [Trump confirma que usará al Ejército para deportar a migrantes indocumentados](https://www.elcomercio.com/actualidad/mundo/trump-confirma-que-usara-a-fuerzas-armadas-para-deportar-a-migrantes-indocumentados.html "Trump confirma que usará al Ejército para deportar a migrantes indocumentados")
+* [La inmigración es necesaria](https://www.elcomercio.com/opinion/inmigracion-necesaria-washington-herrera-columnista.html "La inmigración es necesaria")
+* [Combatir las causas de la migración forzada en Ecuador](https://www.elcomercio.com/opinion/editorial/combatir-las-causas-de-la-migracion-forzada-en-ecuador.html "Combatir las causas de la migración forzada en Ecuador")
+
+La encuesta se realizó en **13 ciudades** del país, tanto en el área urbana como rural, entre el 19 de marzo y el 9 de abril de 2024.
+
+Allí se encuestó a **5 436 personas** mayores de 18 años, seleccionadas mediante un muestreo de características amplias y probabilístico. La muestra fue representativa a nivel cantonal y permitió estimar resultados con proyección al **total de la población**.
+
+Las ciudades en las que se realizó el estudio fueron: Tulcán, Ibarra, Lago Agrio, Coca, Manta, Guayaquil, Santo Domingo, Quito, Ambato, Cuenca, Loja, Machala y Huaquillas.
+
+Este análisis, presentado a mediados de **noviembre** tuvo como objetivo identificar las **dinámicas migratorias** de población ecuatoriana y de otras nacionalidades que viven en el país[.](https://www.iom.int/es "https://www.iom.int/es")
+
+Jóvenes ecuatorianos buscan emigrar
+-----------------------------------
+
+De este total de más de un millón de personas, “la mayor parte que busca migrar son **jóvenes de entre 18 y 39 años**“, afirmó la OIM.
+
+Asimismo, el estudio refleja que cerca del **20 %** de los jóvenes entre 18 y 29 años bachilleres, unos **370 000 ciudadanos**, también desean salir del país. En este grupo de edad son las **mujeres** las que muestran mayor interés por migrar.
+
+De los encuestados, el informe detalla que el **73 %** de aquellos que tienen intención de migrar cuentan con un **trabajo**. Sin embargo, de este grupo, el 36,7 % consideran que sus **empleos** son **precarios**, es decir, que no tienen ingresos superiores al sueldo mínimo, **460 dólares**, o no cuentan con un trabajo fijo.
+
+Países de destino
+-----------------
+
+El 76,4 % de los encuestados, que en la estimación representaría a unas **950 000 personas**, tienen definido un país para migrar, entre los que destaca como principal destino **Estados Unidos**, con un 52,8 %, lo que supondría alrededor de medio millón de personas.
+
+A este país le siguen **España** (18,3 %), **Alemania, Francia e Italia** (8,3 %), otros países de **Sudamérica** (8,3 %) y **Canadá** (6,1 %).
+
+Motivaciones para emigrar
+-------------------------
+
+En cuanto a las **principales razones** que la gente alegó para migrar al extranjero, la **búsqueda de oportunidades laborales** es la primera motivación, con el **64 %**, seguida de su deseo de reencontrarse con su familia, con el 9 %.
+
+Otros de los motivos que se plantean son **estudios** y oportunidades educativas, búsqueda de mejores condiciones de vida o huir de la violencia y la inseguridad.
+
+Violencia e inseguridad
+-----------------------
+
+En relación con la pregunta sobre cuáles serían los **peligros y desafíos** que tendrían los ecuatorianos de no poder emigrar, la respuesta más repetida fue “situaciones de **violencia e inseguridad**“.
+
+Así como padecer “dificultades derivadas de la **crisis económica** y la falta de empleo”.
+
+Defensa de la Selección de Ecuador a la altura de campeonas mundiales
+=====================================================================
+
+Brasil le marcó el último gol a la Selección de Ecuador en las eliminatorias al Mundial 2026.
+---------------------------------------------------------------------------------------------
+
+![Willian Pacho (i), Pervis Estupiñán y Joel Ordóñez con la Selección de Ecuador en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_defensa_1.jpg)
+
+La **Selección de Ecuador** se ufana de tener a la mejor defensa de las 10 selecciones de la Conmebol que juegan las eliminatorias sudamericanas rumbo a la Copa del Mundo 2026.
+
+En las 12 fechas, **la Selección de Ecuador solo recibió cuatro goles**: de Argentina en Buenos Aires (1), de Uruguay en Quito (1), de Bolivia en La Paz (1) y de Brasil en Curitiba (1). Los ocho juegos restantes los cerró con su valla invicta.
+
+### Más noticias:
+
+* [(Video) Moisés Caicedo silenció a una leyenda de Colombia](https://www.elcomercio.com/deportes/futbol/moises-caicedo-silencio-leyenda-colombia-faustino-asprilla.html "(Video) Moisés Caicedo silenció a una leyenda de Colombia")
+* [Moisés Caicedo envía aliento tras vencer con la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-moises-caicedo-mensaje-aliento.html "Moisés Caicedo envía aliento tras vencer con la Selección de Ecuador")
+* [Segundo Alejandro Castillo le devolvió la alegría a Barcelona SC](https://www.elcomercio.com/deportes/futbol/segundo-alejandro-castillo-le-devolvio-la-alegria-barcelona-sc.html "Segundo Alejandro Castillo le devolvió la alegría a Barcelona SC")
+
+En promedio, la Tri recibe un gol cada 270 minutos, o lo que es equivalente a uno cada tres partidos.
+
+El delantero del **Real Madrid, Rodrygo, fue el último en anotarle un gol a Ecuador**. Fue en la séptima fecha en el debut de Sebastián Beccacece como nuevo DT de los tricolores.
+
+La segunda mejor defensa es la de Argentina y Paraguay que vieron su arco derrotado en siete oportunidades. Luego vienen Uruguay (9), Colombia (10), Brasil (11), Venezuela (15), Perú (15), Chile (20) y Bolivia (27).
+
+Beccacece se encargó de consolidar un bloque defensivo con el argentino-ecuatoriano Hernán Galíndez como el arquero titular.
+
+La defensa tiene en **Willian Pacho, Piero Hincapié, Félix Torres y Joel Ordóñez**, a cuatro centrales que se desenvuelven a cabalidad en línea de tres o cuatro.
+
+Las laterales frecuentes han sido Pervis Estupiñán y Angelo Preciado, ambos con la obligación de defender y atacar con la misma intensidad.
+
+Toda esa estructura está respalda por el trabajo **de Moisés Caicedo y Alan Franco, dueños del centro del terreno de juego**, que son titulares fijos y se han complementado con otros nombres como los de Carlos Gruezo, Pedro Vite y hasta Jhegson Méndez.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_defensa_2-1024x683.jpg)
+
+Foto: API.
+
+A la altura de grandes selecciones
+----------------------------------
+
+Numéricamente, la defensa de Ecuador está al mismo nivel que las selecciones europeas que compiten en la Nations League.
+
+En la Liga A, **Alemania, campeona del mundo en 1954, 1974, 1990 y 2014; y España**, campeona mundial en 2010, también han recibido cuatro tantos, pero con la salvedad que han jugado seis encuentros, es decir, la mitad que los sudamericanos.
+
+En la Liga B los combinados de Grecia, campeona de la Eurocopa en 2004 y Gales, solo encajaron cuatro tantos.
+
+En la C, **Suecia, y en la D, Andorra**, completan el grupo de selecciones europeas con defensas sólidas.
+
+Pero existe un reducido grupo de selecciones cuyas defensas tienen menos de cuatro goles en contra.
+
+**Inglaterra (3), Rumania (3), Irlanda del Norte (3) y Macedonia del Norte (1)** superan a Ecuador en este ítem.
+
+En la Liga D están San Marino (3), Malta (2) y Moldavia (1), pero con cuatro partidos.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_defensa_3-1024x683.jpg)
+
+San viernes
+-----------
+
+Daniel Noboa habla de desestabilización, luego de las marchas de la oposición
+=============================================================================
+
+Daniel Noboa se refiere a la vieja política y los ánimos de desestabilización, luego de las marchas.
+----------------------------------------------------------------------------------------------------
+
+![Daniel Noboa menciona a la vieja política y el objetivo de desestabilización, luego de las marchas.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-marchas-desestabilizacion.jpg)
+
+El presidente **Daniel Noboa** habló de desestabilización la noche de este jueves 21 de noviembre, luego de las **marchas** de la oposición.
+
+En un comunicado emitido por la **Presidencia**, el mandatario se refirió a varios temas de coyuntura política y judicial.
+
+### Más noticias:
+
+* [Este es el saldo de heridos y aprehendidos que deja las marchas](https://www.elcomercio.com/actualidad/politica/heridos-aprehendidos-marchas.html "Este es el saldo de heridos y aprehendidos que deja las marchas")
+* [Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto](https://www.elcomercio.com/actualidad/politica/daniel-noboa-denuncia-irregularidades-marchas-decomiso-aeropuesto.html "Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto")
+
+Daniel Noboa habla de desestabilización, luego de las marchas
+-------------------------------------------------------------
+
+Este jueves, organizaciones sociales desarrollaron **marchas** en contra de algunas medidas del Gobierno de Daniel Noboa.
+
+Varias **provincias** del país se unieron a las medidas de hecho.
+
+Las movilizaciones en **Quito** provocaron enfrentamientos entre la Fuerza Pública y los manifestantes.
+
+En un balance preliminar, la **Policía** informó de tres policías heridos y 10 personas aprehendidas, durante la jornada de protestas.
+
+El **Puesto de Mando Unificado,** integrado por varias autoridades del Gobierno, se reunió para analizar las movilizaciones.
+
+Terminada la jornada, la Presidencia emitió un comunicado hablando de la vieja política y de **desestabilización**.
+
+El documento menciona lo ocurrido con el cuñado del expresidente **Guillermo Lasso**, Danilo Carrera y el exministro del correísmo, Walter Solís.
+
+### Comunicado
+
+El presidente Daniel Noboa, a través de un comunicado de la Presidencia, señaló que “la **vieja política** no se cansa”.
+
+“No se cansa de atacar a un gobierno que, en un año, ha roto – y sigue rompiendo – los vínculos con la **corrupción** que ellos dejaron enraizados por años”, señaló.
+
+Aseguró que la “vieja política” no tiene vergüenza y después de “feriarse” todos los sectores, especialmente el **sector eléctrico y de telecomunicaciones,** “ahora tienen la osadía de señalar a este gobierno como antidemocrático”.
+
+“Hemos visto cómo se apoyan entre ellos: porque no somos parte de su juego, porque no les somos rentables. Sin importar la intensidad de sus **ataques**, a cada uno de ellos les repetimos: este gobierno no tranza con la vieja política y jamás lo hará”, dijo.
+
+Luego mencionó casos de corrupción como el de **Danilo Carrera**, sentenciado a 10 años por liderar una red de corrupción en el sector eléctrico durante el gobierno de su cuñado.
+
+**Antonio Icaza**, exgerente de CNEL quien, recibió nueve años de prisión.
+
+“Hoy vemos las consecuencias dejaron a **un país sumido en la oscuridad y en la incertidumbre**“, indicó.
+
+Después, menciona a **Walter Solís**, quien enfrenta múltiples procesos por malversación de fondos públicos.
+
+“Estos son los mismos que ahora dicen preocuparse por el pueblo. Se dan el pésame entre ellos, e incluso se alían ¿Dónde estaban sus discursos y preocupaciones de hoy cuando la **narcopolítica** alcanzaba al Estado?”, sentenció.
+
+El mandatario aseguró que el objetivo de estos grupos no es proteger a esa gente que engañaron, sino **“desestabilizar a un gobierno que no pertenece a las mafias del pasado”.**
+
+“Seguiremos enfrentando a quienes dejaron al país a merced del **narcotráfico y la corrupción**. Y lo haremos porque respetamos la voluntad del pueblo ecuatoriano, defender y proteger su dignidad.  
+Ellos van a estar donde se lo merecen: en la **Cárcel del Encuentro**“, concluyó.
+
+> Ellos van a estar donde se lo merecen: en la Cárcel del Encuentro. [pic.twitter.com/dlw1jqXET2](https://t.co/dlw1jqXET2)
+> 
+> — Daniel Noboa Azin (@DanielNoboaOk) [November 22, 2024](https://twitter.com/DanielNoboaOk/status/1859762132025557456?ref_src=twsrc%5Etfw)
+
 Incautan 44 mil dosis de cocaína antes de la final de la Sudamericana
 =====================================================================
 
@@ -142,7 +571,9 @@ La segunda jornada de marchas en contra de algunas medidas del **Gobierno de Dan
 
 Se registraron algunos enfrentamientos entre **los policías y los manifestantes** que dejaron heridos y aprehendidos.
 
-En una información preliminar, la Policía informó que existen **tres policías heridos y la aprehensión de 10 personas** por estos actos de violencia.
+En una información preliminar, la Policía informó que existen **cuatro policías heridos y la aprehensión de 12 personas** por estos actos de violencia.
+
+Entre los aprehendidos está una **presunta funcionaria pública**, quien habría agredido físicamente a una servidora policial
 
 Las cifras surgen en medio de la reunión del **Puesto de Mando Unificado**, en la sala de crisis nacional del ECU 911.
 
@@ -285,7 +716,7 @@ En la tabla de posiciones **los cafeteros descendieron al cuarto puesto con 19 p
 
 Para la Copa del Mundo que será organizada en el 2026 por Canadá, Estados Unidos y México, la Conmebol tiene asignados seis cupos directos y uno adicional para el repechaje que se disputará en el 2025.
 
-Bajo el actual formato del todos contra todos, Colombia clasificó a los mundiales de **Francia 1998, Brasil 2014, Rusia 2018 y Catar 2022**. Las tres últimas fueron con una camada de jugadores comandados por James Rodríguez.
+Bajo el actual formato del todos contra todos, Colombia clasificó a los mundiales de **Francia 1998, Brasil 2014 y Rusia 2018**. Las dos últimas fueron con una camada de jugadores comandados por James Rodríguez.
 
 Una de las voces que se levantó en contra de la Selección de Colombia, fue la del periodista Carlos Antonio Vélez, que no dudó en hacer una dura reflexión sobre el presente de los de Néstor Lorenzo y destacó el juego de los de Sebastián Beccacece.
 
@@ -567,456 +998,3 @@ Foto: Instagram del futbolista.
 
 San viernes
 -----------
-
-Claudia Sheinbaum exige paz tras el misil balístico de Rusia en Ucrania
-=======================================================================
-
-Sheinbaum se pronunció después de que el Centro de Comunicaciones de las Fuerzas Armadas ucranianas afirmó que Rusia lanzó un misil balístico intercontinental
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Claudia Sheinbaum durante una rueda de prensa.](https://www.elcomercio.com/wp-content/uploads/2024/11/claudia-sheinbaum-octubre.jpg)
-
-La presidenta de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-propone-fondo-global-g20-reforestacion-paz.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-propone-fondo-global-g20-reforestacion-paz.html"), exigió paz después de que Ucrania denunció este jueves, 21 de noviembre de 2024 que Rusia lanzó, por primera vez, una ataque con un **misil balístico** intercontinental, aunque aseveró que la economía mexicana resistirá el posible escalamiento del conflicto.
-
-### Más noticias
-
-* [Claudia Sheinbaum propone fondo global en el G20 para la reforestación y la paz](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-propone-fondo-global-g20-reforestacion-paz.html "Claudia Sheinbaum propone fondo global en el G20 para la reforestación y la paz")
-* [Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-reafirma-confianza-buena-relacion-donald-trump.html "Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump")
-* [Sheinbaum insistirá en la demanda de México contra Ecuador y en un salvoconducto para Glas](https://www.elcomercio.com/actualidad/mundo/sheinbaum-insistira-demanda-mexico-contra-ecuador-salvoconducto-glas.html "Sheinbaum insistirá en la demanda de México contra Ecuador y en un salvoconducto para Glas")
-
-“Esto que ocurre en **Europa impacta a toda la economía mundial,** pero más allá de los impactos económicos **no podemos quedarnos callados**, tenemos que exigir la paz en el mundo frente a acontecimientos como estos”, expresó la mandataria en su conferencia matutina.
-
-Las declaraciones de la gobernante mexicana se producen después de que el **Centro de Comunicaciones de las Fuerzas Armadas** ucranianas afirmó que Rusia lanzó un **misil balístico intercontinental**, por lo que países como Francia han condenado el hecho y lo han calificado de “especialmente grave”.
-
-Por otro lado, una funcionaria estadounidense aseguró que Washington concluyó que el misil empleado fue de alcance medio, con un rango máximo de entre 1 000 y 3 000 kilómetros, a diferencia de los balísticos intercontinentales, diseñados para portar armas nucleares y que superan los **5 500 kilómetros** de alcance.
-
-En este contexto, Sheinbaum hizo eco de un **comunicado conjunto que el miércoles emitieron México,** Brasil, Chile y Colombia para hacer un llamado “urgente a evitar acciones que escalen la carrera armamentista y agraven el conflicto” entre Rusia y Ucrania.
-
-México pide paz en el mundo
----------------------------
-
-“México tiene una tradición pacifista, y la vamos a seguir teniendo, de la búsqueda de la paz en el mundo, y el diálogo y la política como la forma de resolver los conflictos, **está en nuestra Constitución”**, argumentó ahora.
-
-La posibilidad de que Rusia haya usado un **misil balístico intercontinental** generó preocupación en las últimas horas entre las potencias por las implicaciones nucleares de este tipo de armamento.
-
-Hace solo unos días, Washington autorizó a las fuerzas ucranianas a usar misiles tácticos de largo alcance ATACMS para atacar objetivos rusos y, en respuesta, Moscú modificó su doctrina militar, que ahora contempla el uso de **armas nucleares en caso de ataques convencionales** que comprometan la soberanía de Rusia y Bielorrusia.
-
-Pese a los riesgos que esto implica, Sheinbaum sostuvo que “la economía mexicana está bien, va a estar bien”, al defender el pronóstico oficial del Gobierno de un crecimiento de entre 2 % y 3 % del producto interior bruto (PIB) en 2025.
-
-Quitofest, las bandas y cantantes nacionales que debutarán en 2024
-==================================================================
-
-El Quitofest 2024 contará con 36 protagonistas.
------------------------------------------------
-
-![Paola Navarrete llega con su propuesta de música alternativa. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-21T172927.791.jpg)
-
-**Bandas** y cantantes de rap, rock, pop y más géneros musicales debutarán en la nueva edición de **[Quitofest](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html")**. En la lista están **La Sagrada Familia, Paola Navarrete, Leteléfono, Paulatinamente, Alex Eugenio, Flix Pussy ColaIlyari** y más. 
-
-### **Más noticias:**
-
-* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html")
-* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html?source=Internal&ref=Single+Content+Link")
-* [Ángela Aguilar ya es la Mujer del Año 2024](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html?source=Internal&ref=Single+Content+Link")
-
-**¿Cuándo será el Quitofest?**
-------------------------------
-
-Para el 5, 6 y 7 de diciembre está previsto el Quitofest 2024; será en el parque Bicentenario. La fiesta arrancará el jueves, con la presentación de bandas como Los Mirlos, La Sagrada Familia, Machaka, Mula.
-
-**¿Cuántas bandas y artistas nacionales participarán en el Quitofest 2024?**
-----------------------------------------------------------------------------
-
-En la lista están Bajo Sueños, Lolabúm, Rocola Bacalao, Mugre Sur, Estamos perdidos… De acuerdo con la cartelera compartida por la organización, 25 representantes ecuatorianos animarán esta nueva edición durante los tres días.
-
-> [View this post on Instagram](https://www.instagram.com/p/DCiYDrkom0Y/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCiYDrkom0Y/?utm_source=ig_embed&utm_campaign=loading)
-
-**¿Cuántas bandas y artistas nacionales debutarán en esta edición?**
---------------------------------------------------------------------
-
-Son 18 bandas y cantantes los que debutarán en la nueva edición de este encuentro musical. Te compartimos la lista: 
-
-* Mugre Sur
-* Banda 24 de Mayo
-* Wañukta Tonic
-* Mel Mourelle
-* La Mafiandina
-* Machaka
-* La Sagrada Familia
-* Paola Navarrete
-* Leteléfono
-* Paulatinamente
-* Alex Eugenio
-* Flix Pussy Cola
-* Ilyari
-* Estamos Perdidos
-* Bajo Sueños
-* Sublevación Post Mortem
-* Sacrificium Tagaeri
-* The Psychokiller
-
-Marchas en Quito se desarrollaron con tensión en las calles
-===========================================================
-
-Varias organizaciones sociales marchan por las calles de Quito contra el Gobierno, la tarde de este jueves 21 de noviembre.
----------------------------------------------------------------------------------------------------------------------------
-
-![La Policía bloquea el acceso al Palacio de Carondelet durante las marchas en Quito](https://www.elcomercio.com/wp-content/uploads/2024/11/marchas-quito-gobierno.jpg)
-
-Este jueves 21 de noviembre de 2024, varias **organizaciones sociales** del Ecuador salieron a las **calles** para expresar su descontento ante lo que consideran un mal manejo del Gobierno.
-
-### Más noticias
-
-* [(Video) Esta es la situación de Quito por las marchas](https://www.elcomercio.com/actualidad/quito/esta-es-la-situacion-de-quito-por-las-marchas.html "(Video) Esta es la situación de Quito por las marchas")
-* [Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto](https://www.elcomercio.com/actualidad/politica/daniel-noboa-denuncia-irregularidades-marchas-decomiso-aeropuesto.html "Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto")
-* [Daniel Noboa habla de crisis eléctrica y del caso Encuentro al entregar fondos a gobiernos locales](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-habla-de-crisis-electrica-y-del-caso-encuentro-al-entregar-fondos-a-gobiernos-locales.html "Daniel Noboa habla de crisis eléctrica y del caso Encuentro al entregar fondos a gobiernos locales")
-
-Desde las **16:00**, pequeños grupos comenzaron a concentrarse en la **Caja del Seguro**, en el centro norte de Quito. Media hora después, la marcha inició su recorrido con destino al **Palacio de Carondelet**, en el Centro Histórico.
-
-Las **consignas** principales giraron en torno a la **inseguridad** y los recurrentes **cortes eléctricos** que afectan al país.
-
-Según los manifestantes, estas problemáticas reflejan una **falta de gestión** adecuada por parte del Gobierno liderado por **Daniel Noboa**[.](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")
-
-“Los trabajadores y los distintos sectores nos hemos dado cita hoy para marchar porque el Gobierno es valiente para reprimir a los ecuatorianos, pero cobarde para combatir el narcotráfico y la delincuencia”, afirmó **José Villavicencio**, presidente del Frente Unitario de Trabajadores (**FUT**).
-
-Tensión en las calles, el Centro Histórico, restringido
--------------------------------------------------------
-
-El recorrido de la marcha avanzó por la avenida 10 de Agosto en dirección al Centro de Quito, pero se topó con un **fuerte control policial**. Vallas metálicas y decenas de uniformados impidieron el acceso de los manifestantes más allá de las calles **Briceño y 10 de Agosto**.
-
-La decisión de **bloquear** el paso fue criticada por los asistentes, quienes señalaron que su derecho a la protesta había sido vulnerado.
-
-Cerca de las **17:05**, un grupo de personas intentó retirar las vallas que bloqueaban el paso hacia la calle **Guayaquil** y el Centro Histórico. Sin embargo, la Policía Nacional intervino de inmediato, reforzando el perímetro y evitando el avance de los manifestantes.
-
-“Deberían estar cuidando las **fronteras**, donde ingresan el narcotráfico y el contrabando, no reprimiendo a los ecuatorianos. Exigimos que se respete el derecho constitucional a manifestarse”, reiteró Villavicencio.
-
-> Salida de los manifestantes desde la Caja del Seguro hacia el Centro Histórico de Quito  
->   
-> Vía: [@osilvaca7](https://twitter.com/osilvaca7?ref_src=twsrc%5Etfw) [pic.twitter.com/eNYojppa0E](https://t.co/eNYojppa0E)
-> 
-> — El Comercio (@elcomerciocom) [November 21, 2024](https://twitter.com/elcomerciocom/status/1859730586577010872?ref_src=twsrc%5Etfw)
-
-Con organizaciones como la **UNE**, el **Seguro Campesino** y jóvenes estudiantes en las filas, la movilización buscó dar un mensaje contundente. “La gente tiene el **derecho de expresar su inconformidad**, y el Gobierno debería escucharnos en lugar de cerrar las puertas de la ciudad”, concluyó Villavicencio.
-
-Policía resultó herido
-----------------------
-
-Cerca de las 17:35, la tensión en la marcha aumentó cuando un grupo de manifestantes comenzó a **lanzar piedras** contra los agentes de la Policía Nacional que custodiaban las vallas en la calle 10 de Agosto.
-
-Varias de estas impactaron en los uniformados, provocando lesiones en algunos de ellos. Uno de los policías recibió un **fuerte golpe en la cabeza** por una piedra, lo que obligó a sus compañeros a atenderlo de inmediato mientras se mantenían en formación.
-
-A las 17:40, la respuesta policial no se hizo esperar. Un grupo de agentes salió del vallado para **dispersar a los manifestantes** que permanecían en el lugar. Poco después, efectivos en motocicletas intervinieron, obligando a los manifestantes a retirarse del sector.
-
-Giorgia Meloni reconoce a Edmundo González como ‘presidente electo’ de Venezuela
-================================================================================
-
-La jefa de Gobierno de Italia también afirmó que no reconoce la “victoria proclamada” por el presidente venezolano, Nicolás Maduro.
------------------------------------------------------------------------------------------------------------------------------------
-
-![La primera ministra italiana, Giorgia Meloni, que reconoció a Edmundo González como presidente electo de Venezuela.](https://www.elcomercio.com/wp-content/uploads/2024/11/georgia-italia-efe.jpg)
-
-La **primera ministra de Italia**, [Giorgia Meloni](https://www.elcomercio.com/actualidad/mundo/giorgia-meloni-neofascismo-politico-primera-ministra-italia.html "https://www.elcomercio.com/actualidad/mundo/giorgia-meloni-neofascismo-politico-primera-ministra-italia.html"), reconoció a Edmundo González como **“presidente electo”** de Venezuela durante un encuentro en **Buenos Aires** con el presidente argentino, Javier Milei.
-
-### Más noticias
-
-* [Ecuador reconoce a Edmundo González como presidente electo de Venezuela](https://www.elcomercio.com/actualidad/mundo/ecuador-reconoce-edmundo-gonzalez-como-presidente-electo-venezuela.html "Ecuador reconoce a Edmundo González como presidente electo de Venezuela")
-* [Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela](https://www.elcomercio.com/actualidad/mundo/estados-unidos-reconoce-a-edmundo-gonzalez-urrutia-como-presidente-electo-de-venezuela.html "https://www.elcomercio.com/actualidad/mundo/estados-unidos-reconoce-a-edmundo-gonzalez-urrutia-como-presidente-electo-de-venezuela.html")
-* [Venezuela solicitó la alerta roja de Interpol para Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezuela-alerta-roja-interpol-edmundo-gonzalez.html "Venezuela solicitó la alerta roja de Interpol para Edmundo González")
-
-“Junto con la Unión Europea trabajamos por una **transición democrática** y en paz de Venezuela para que finalmente se hagan realidad la **preferencia expresada por el pueblo venezolano** por el presidente electo Edmundo González y las legítimas aspiraciones de libertad y democracia”, expresó Meloni.
-
-La jefa de Gobierno de Italia también afirmó que no reconoce la **“victoria proclamada”** por el presidente venezolano, Nicolás Maduro, tras las elecciones del 28 de julio pasado, que la oposición calificó de “fraude” al considerar que el vencedor fue González Urrutia.
-
-Meloni pronunció estas palabras tras encuentro con Milei
---------------------------------------------------------
-
-Meloni pronunció estas palabras tras un **encuentro con Milei en la Casa Rosada** (sede del Ejecutivo argentino) con motivo de su primera visita oficial a este país.
-
-“Seguimos condenando la brutal represión del régimen que provocó la muerte de decenas de manifestantes, la detención arbitraria de miles de opositores políticos y al exilio del candidato presidencial de la oposición democrática”, prosiguió Meloni.
-
-Tras las presidenciales, en las que el **Consejo Nacional Electoral (CNE)** proclamó como ganador a Maduro, se registraron **múltiples protestas** contra el resultado oficial, considerado por la Plataforma Unitaria Democrática (PUD), la principal coalición opositora del país, como fraudulento, que se saldaron con más de 2.400 detenidos, según cifras del Ejecutivo.
-
-“La crisis que está atravesando Venezuela es una cuestión que, tanto para Italia como para Argentina, es particularmente importante”, indicó.
-
-La primera ministra italiana se une así a EE.UU., que en la víspera reconoció por primera vez en público al abanderado de la **oposición mayoritaria como “presidente electo”.**
-
-“El pueblo venezolano se pronunció contundentemente el 28 de julio y nombró a Edmundo González como presidente electo. La democracia exige **respeto a la voluntad de los votantes**“, dijo el secretario de Estado, Antony Blinken, en sus redes sociales.
-
-Meloni llegó en la noche del martes a Buenos Aires procedente de Río de Janeiro, donde participó en la Cumbre del G20, y este miércoles se reunió con **Milei en la Casa Rosada,** donde ambos se pronunciaron al final del encuentro sobre distintos temas tras exponer públicamente su simpatía mutua
-
-Medallistas paralímpicas reciben casas por sus logros en París 2024
-===================================================================
-
-Ecuador tuvo su mejor participación en unos Juegos Paralímpicos en París 2024, y las deportistas destacadas recibieron viviendas como reconocimiento a su esfuerzo.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![En el centro, Estefany López y Poleth Méndes, medallistas en los Juegos Paralímpicos de París 2024, en sus nuevos hogares.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-21T164537.616.jpg)
-
-Los **Juegos Olímpicos de París 2024** quedarán grabados en la memoria de la delegación ecuatoriana, que escribió una página dorada en su historia deportiva con una participación histórica.
-
-Como reconocimiento a esta hazaña, el Ministerio del Deporte se **comprometió a entregar viviendas** a los medallistas de los Juegos Olímpicos y Paralímpicos, como muestra de agradecimiento por sus logros y su contribución al deporte ecuatoriano.
-
-### Más noticias:
-
-* [Estefany López con su medalla de bronce que ganó en los Juegos Paralímpicos de París 2024.](https://www.elcomercio.com/wp-content/uploads/2024/10/ENDRICK-PALMEIRAS-2024-10-04T160509.353.jpg "Estefany López con su medalla de bronce que ganó en los Juegos Paralímpicos de París 2024.")
-* [Kiara Rodríguez muestra orgullosa sus medallas de oro a su arribo a Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/09/KiaraRodriguez-1.jpg "Kiara Rodríguez muestra orgullosa sus medallas de oro a su arribo a Guayaquil.")
-* [El deporte ecuatoriano tendrá nuevo Plan de Alto Rendimiento en 2025](https://www.elcomercio.com/deportes/plan-alto-rendimiento-deporte-ecuador-ministerio-jose-jimesnez.html "El deporte ecuatoriano tendrá nuevo Plan de Alto Rendimiento en 2025")
-
-Deportistas paralímpicas recibieron casas
------------------------------------------
-
-La delegación de Ecuador logró cuatro medallas en los Juegos Paralímpicos, todas conquistadas por tres extraordinarias mujeres: **Kiara Rodríguez, Poleth Mendes y Estefany López**.
-
-**Kiara** **Rodríguez**, quien ganó dos medallas de oro en las pruebas de 100 metros y salto largo T47, fue la primera en recibir su hogar, gracias a la coordinación del Ministerio del Deporte y el Ministerio de Desarrollo Humano y Vivienda, el pasado 9 de octubre.
-
-Para completar esta gestión, el 21 de noviembre, el Ministerio de Deporte entregó las casas restantes a **Poleth Mendes y Estefany López**, las otras dos medallistas en los Juegos Paralímpicos de París 2024.
-
-“Con este tipo de reconocimientos buscamos destacar los logros de nuestros deportistas”, expresó el Ministerio del Deporte en sus redes sociales.
-
-> ¡Promesa cumplida! ✅  
->   
-> Junto a [@ViviendaEc](https://twitter.com/ViviendaEc?ref_src=twsrc%5Etfw), entregamos casas 🏡 a nuestras medallistas paralímpicas Poleth Méndes y Estefanía López, quienes destacaron en [#Paris2024](https://twitter.com/hashtag/Paris2024?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Con este tipo de reconocimientos se busca destacar los logros de nuestros deportistas. 🏅[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) 🇪🇨 [pic.twitter.com/FlEYNg36MZ](https://t.co/FlEYNg36MZ)
-> 
-> — Ministerio del Deporte 🇪🇨 (@DeporteEc) [November 21, 2024](https://twitter.com/DeporteEc/status/1859642874700366189?ref_src=twsrc%5Etfw)
-
-Las medallas de Poleth y Estefany
----------------------------------
-
-Poleth Mendes fue la primera representante de Ecuador en subir al podio en París 2024. La tricolor logró una **medalla de bronce** en el impulso de bala F20.
-
-La última en hacerlo fue **Estefany** **López**, quien además consiguió medalla en su primera participación en unos Juegos Paralímpicos. La ecuatoriana conquistó el bronce en lanzamiento de disco F41.
-
-Gracias a estas dos medallas, junto a las dos de oro de Kiara Rodríguez, Ecuador logró la mejor participación de su historia en los **Juegos Paralímpicos**.
-
-Además de las cuatro medallas, **Ecuador** **consiguió una destacada cantidad de diplomas** paralímpicos, reafirmando su excelente desempeño en París 2024.
-
-La delegación ecuatoriana sumó siete diplomas paralímpicos gracias a Lizanshela Angulo, Jimmy Caicedo (2), Grecely Padilla, Sixto Moreta, Darwin Castro y Jordi Congo.
-
-Antes de **París 2024**, el récord era de tres medallas, logrado en Tokio 2020+1, con una medalla de oro y dos de bronce.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Daniel Noboa habla de crisis eléctrica y del caso Encuentro al entregar fondos a gobiernos locales
-==================================================================================================
-
-El Gobierno de Daniel Noboa transfirió 3,56 millones de dólares a los GAD de cuatro provincias para proyectos de agua potable, saneamiento y vialidad.
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa entregó 3,5 millones dólares para los gobiernos autónomos descentralizados, en Guayas.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-2111.jpg)
-
-Este jueves 21 de noviembre de 2024, el gobierno de **Daniel Noboa** transfirió 3,56 millones de dólares a los gobiernos autónomos descentralizados (GAD) de **Guayas, El Oro, Loja y Zamora Chinchipe**. Durante el acto de entrega, que se realizó en el cantón **Santa Lucía,** en Guayas, se refirió a la **crisis eléctrica** y a las sentencias de exfuncionarios[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Daniel Noboa: ‘En diciembre se acabarán los apagones’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-apagones-cortes-luz-diciembre.html "Daniel Noboa: ‘En diciembre se acabarán los apagones’")
-* [Daniel Noboa denuncia irregularidades relacionadas con las marchas tras decomiso en aeropuerto](https://www.elcomercio.com/actualidad/politica/daniel-noboa-denuncia-irregularidades-marchas-decomiso-aeropuesto.html "Daniel Noboa denuncia irregularidades relacionadas con las marchas tras decomiso en aeropuerto")
-* [Daniel Noboa emitió veto parcial al proyecto de Ley de Cuidados Paliativos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-veto-parcial-proyecto-ley-cuidados-paliativos.html "Daniel Noboa emitió veto parcial al proyecto de Ley de Cuidados Paliativos")
-
-Los recursos entregados este jueves forman parte de un paquete total de 23 millones de dólares asignados a 49 GAD de todo el país. Los montos estarán destinados a proyectos de **agua potable, saneamiento, riego y vialidad**, dijo Noboa.
-
-“Este dinero corresponde a pagos de obligaciones de convenios suscritos durante gobiernos anteriores. Seguro que para firmar esos convenios se tomaron muchas fotos, seguro que se dieron muchas declaraciones y luego todo eso quedó en el olvido”, dijo Noboa.
-
-Además, agregó que el **Banco de Desarrollo del Ecuador** (BDE) cuenta con 23,06 millones de dólares para los GAD de todo el país. Estos recursos permitirán avanzar con obras que quedaron inconclusas en **administraciones pasadas**, señaló.
-
-Durante el acto, Noboa también abordó otros temas. Por ejemplo, reconoció los **desafíos de la crisis eléctrica** que vive el país. Además, se refirió a las investigaciones de la Fiscalía sobre casos de corrupción en administraciones anteriores.
-
-“Ayer vimos cómo funcionarios, en un entramado de corrupción en las empresas eléctricas, específicamente, fueron condenados a 10 años de cárcel. Hoy en día vivimos esa **crisis eléctrica**, pero, más que sea, los culpables ya están sentenciados”, dijo.
-
-Ayer, 20 de noviembre de 2024, la Justicia sentenció a **Danilo Carrera**, cuñado del expresidente **Guillermo Lasso**, líder principal en el caso Encuentro.
-
-En este caso también se investiga a exfuncionarios del gobierno Lasso, entre ellos **Hernán Luque**, quien enfrenta acusaciones por delincuencia organizada. Según las investigaciones, él pretendía obtener réditos económicos indebidos valiéndose de su posición cercana con la política y, así, interferir en instituciones públicas como la Corporación Nacional de Electricidad (CNEL).
-
-Guía para activar el ‘modo Windows’ en WhatsApp 
-================================================
-
-Organiza tus chats en WhatsApp con listas personalizadas.
----------------------------------------------------------
-
-![El “modo Windows” de WhatsApp organiza chats de manera eficiente. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-listas-1.jpg)
-
-**WhatsApp** sigue adelante con las **actualizaciones de su interfaz** con herramientas que facilitan la vida de sus usuarios. Según [La Vanguardia](https://www.lavanguardia.com/andro4all/whatsapp/whatsapp-lanza-la-funcion-de-listas-para-organizar-chats-y-hacer-la-app-aun-mas-practica "https://www.lavanguardia.com/andro4all/whatsapp/whatsapp-lanza-la-funcion-de-listas-para-organizar-chats-y-hacer-la-app-aun-mas-practica"), la aplicación cuenta con una nueva función llamada **“Listas”**, diseñada para **categorizar los chats** de forma personalizada.  
-
-### Más noticias
-
-* [WhatsApp trabaja en su “modo fiesta” para este Fin de Año](https://www.elcomercio.com/tecnologia/whatsapp-modo-fiesta-tutorial.html "https://www.elcomercio.com/tecnologia/whatsapp-modo-fiesta-tutorial.html") 
-* [WhatsApp y Google permitirán la verificación de imágenes falsas en las conversacione](https://www.elcomercio.com/tecnologia/whatsapp-google-imagenes-desinformacion-deepfakes.html "https://www.elcomercio.com/tecnologia/whatsapp-google-imagenes-desinformacion-deepfakes.html")s 
-
-Esta opción es ideal para quienes necesitan **mantener orden** en sus conversaciones, ya que **divide sus mensajes** según temas, grupos o intereses. 
-
-**Crear y organizar listas en WhatsApp** 
------------------------------------------
-
-**Android Authority**, citado por La Vanguardia, detalla que esto permite **clasificar los chats** bajo categorías como “trabajo”, “amigos” o “vecinos”, lo que **personaliza** aún más la experiencia. Además, esta **herramienta** complementa otras funciones existentes, como los filtros de “no leídos” y “favoritos”. 
-
-**El “modo Windows” de WhatsApp** 
-----------------------------------
-
-Esta característica ha sido bautizada como **“modo Windows”** por su similitud con la **organización por carpetas** en el sistema operativo de **Microsoft.** La función resulta especialmente útil para quienes manejan **múltiples chats** y desean acceder rápidamente a los mensajes más relevantes. 
-
-**Pasos para activar el “modo Windows”** 
------------------------------------------
-
-![Foto: Captura de pantalla.  ](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-listas-2-1024x683.jpg)
-
-Foto: Captura de pantalla.
-
-A decir de [Infobae](https://www.infobae.com/tecno/2024/11/20/activa-en-whatsapp-el-modo-windows-y-revive-la-nostalgia-de-los-anos-80-y-90/ "https://www.infobae.com/tecno/2024/11/20/activa-en-whatsapp-el-modo-windows-y-revive-la-nostalgia-de-los-anos-80-y-90/"), activar esta opción en **iPhone y Android** es sencillo. Solo se deben seguir estos pasos: 
-
-1. Abrir la aplicación de WhatsApp. 
-
-2. Tocar el ícono de “+” en los **filtros de chats**, ubicado en la parte superior de la interfaz. 
-
-3. Crear un nombre para la lista personalizada. 
-
-4. Añadir las personas o grupos que se desean incluir en la lista. 
-
-5. Seleccionar ‘Continuar’ para finalizar. 
-
-**Ejemplos de listas personalizadas** 
---------------------------------------
-
-Por ejemplo, siguiendo con Infobae, los usuarios pueden **crear listas** para conversaciones laborales, que incluyan chats con colegas, clientes y grupos de proyectos. De igual manera, se pueden **organizar listas** para familiares, separando a padres, hermanos y primos. Incluso es posible crear listas para **eventos especiales**, como bodas o viajes, y centralizar toda la comunicación en un solo lugar. 
-
-**Beneficios de las listas personalizadas** 
---------------------------------------------
-
-Esta función **facilita el acceso rápido y ordenado** a las conversaciones, lo que mejora sustancialmente la experiencia de los usuarios al mantener todo bajo control. WhatsApp sigue adelante para adaptarse a las necesidades de los usuarios modernos. 
-
-(Video) Esta es la situación de Quito por las marchas
-=====================================================
-
-Las marchas en Quito provocan la movilización de cientos de policías y militares.
----------------------------------------------------------------------------------
-
-![Manifestantes intentan abrirse paso a Carondelet, a la altura del Banco Central, en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-17.jpg)
-
-Varias vías de **Quito** están bloqueadas por las **marchas** anunciadas para la tarde de este jueves 21 de noviembre de 2024.
-
-La **congestión** y el tráfico vehicular se incrementaron en varias zonas de la capital, en medio del registro esporádico de **lluvias**.
-
-### Más noticias:
-
-* [Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto](https://www.elcomercio.com/actualidad/politica/daniel-noboa-denuncia-irregularidades-marchas-decomiso-aeropuesto.html "Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto")
-* [Marchas están convocadas en 12 provincias de Ecuador para este 21 de noviembre](https://www.elcomercio.com/actualidad/ecuador/marchas-12-provincias-ecuador-estan-convocadas-21-de-noviembre.html "Marchas están convocadas en 12 provincias de Ecuador para este 21 de noviembre")
-
-La situación en Quito por las marchas
--------------------------------------
-
-Las marchas anunciadas para la tarde de este jueves provocó la **movilización de policías y militares** en Quito.
-
-Además, la restricción de la circulación vehicular alrededor de la **Presidencia** de la República en el Centro Histórico y de la **Asamblea** en el centro norte de la capital.
-
-El acceso al Centro Histórico por la **calle Guayaquil** fue bloqueado desde San Blas.
-
-Mientras que, en los alrededores de la Asamblea, un fuerte operativo de control se desplegó desde el sector de **El Dorado** hasta el **Parque El Arbolito**.
-
-Policías en **moticicletas** y a pie rondaban las calles aledañas al **Palacio Legislativo.**
-
-El acceso también se restringió con la colocación de **vallas** para impedir el paso vehicular y peatonal.
-
-Debido a esto, se registró **congestión vehicular** en varios puntos de la ciudad: la av. Gran Colombia, la av. Velasco Ibarra, desde El Trébol, la calle Guayaquil y otros.
-
-Además, el ECU 911 reportó presencia de **lluvias** en varios sectores de la capital: El Ejido, El Arbolito, Centro Histórico, El Calzado.
-
-Cambios en el transporte público por las marchas en Quito
----------------------------------------------------------
-
-La **Ecovía** empezó a operar de manera emergente por las marchas.
-
-**Norte-Sur**: Río Coca – Manuela Cañizares
-
-**Sur-Norte**: Quitumbe y Guamaní – Playón de La Marín
-
-Las **paradas suspendidas** son: Marín Central, Simón Bolívar, Eugenio Espejo, Casa de la Cultura y Galo Plaza.
-
-El **Trolebús** empezó a operar de manera emergente por cierres viales:
-
-**Norte-Sur**: El Labrador – Parada Santa Clara y retorna al norte.
-
-**Sur-Norte**: Quitumbe – El Recreo
-
-Se suspendieron todas las paradas del **Centro Histórico.**
-
-Marchas en Quito y el resto del país
-------------------------------------
-
-**Nelson Erazo**, dirigente del Frente Popular, informó que las marchas están previstas en Azuay, Cotopaxi, Loja, Pichincha, Manabí, Los Ríos, Napo, Guayas, Imbabura, El Oro, Santa Elena y Santo Domingo.
-
-> Salida de los manifestantes desde la Caja del Seguro hacia el Centro Histórico de Quito  
->   
-> Vía: [@osilvaca7](https://twitter.com/osilvaca7?ref_src=twsrc%5Etfw) [pic.twitter.com/eNYojppa0E](https://t.co/eNYojppa0E)
-> 
-> — El Comercio (@elcomerciocom) [November 21, 2024](https://twitter.com/elcomerciocom/status/1859730586577010872?ref_src=twsrc%5Etfw)
-
-El directivo detalló que, en el caso de Pichincha, la marcha saldrá de la **Caja del Instituto Ecuatoriano de Seguridad Social (IESS)**, en la av. 10 de Agosto de Quito, y avanzará hacia el Centro Histórico.
-
-Este 21 de noviembre, en el **Centro Histórico de Quito** se colocaron vallas de seguridad.
-
-La protesta en la capital ecuatoriana estaba prevista para las **16:00**.
-
-Sin embargo, desde la **Policía Nacional** ya se anunció que se restringiría el paso a la zona patrimonial.
-
-La **Agencia Metropolitana de Tránsito (AMT),** por su parte, anunció desvíos y rutas alternas ante las movilizaciones.
-
-Frente a eso, **Nelson Erazo** indicó que la meta es llegar al Centro.
-
-No obstante, no adelantó las acciones que tomarán en caso de no poder avanzar. Según él, la marcha es pacífica, pero “**son los policías los que provocan el caos**”. Descartó que se trate de un paro.
-
-La Policía informó que más de **2 000 servidores**, las Fuerzas Armadas se movilizan con un número similar de uniformados.
-
-La medida se toma para precautelar la seguridad de los ciudadanos y evitar que el patrimonio cultural de la humanidad sea **vandalizado**.
-
-Video capta el secuestro de una mujer frente a su hijo en Quevedo
-=================================================================
-
-La administradora de una gasolinera fue secuestrada en Quevedo, mientras forcejeaba para que no la aparten de su pequeño hijo.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Se desconoce el paradero de la mujer tras su secuestro](https://www.elcomercio.com/wp-content/uploads/2024/11/quevedo-secuestro-gasolinera.jpg)
-
-**20 segundos** fueron suficientes para que un grupo de hombres **armados** secuestrara a una mujer de una gasolinera ubicada en el sector de El Atascoso, en **Quevedo**, provincia de Los Ríos.
-
-### Más noticias
-
-* [Femicida recibió sentencia por cometer cruel asesinato en Imbabura](https://www.elcomercio.com/actualidad/ecuador/femicida-sentencia-cruel-asesinato-imbabura.html "Femicida recibió sentencia por cometer cruel asesinato en Imbabura")
-* [Policía libera a mujer víctima de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/policia-libera-mujer-victima-secuestro-guayas.html "Policía libera a mujer víctima de secuestro en Guayas")
-* [Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-libera-a-joven-secuestrada-en-cristo-del-consuelo-guayaquil.html "Policía libera a joven secuestrada en Cristo del Consuelo, Guayaquil")
-
-Los videos captados por las **cámaras de seguridad** del establecimiento dieron cuenta de cómo sucedió el hecho.
-
-Eran pasadas las **17:15** del miércoles 20 de noviembre de 2024, cuando los delincuentes aprovecharon que no había clientes en la gasolinera para cometer su **delito**.
-
-Los desconocidos llegaron en una **camioneta negra** doble cabina al lugar, identificaron a su víctima y procedieron a **secuestrarla**[.](https://es.wikipedia.org/wiki/Quevedo_(Ecuador) "https://es.wikipedia.org/wiki/Quevedo_(Ecuador)")
-
-Mujer fue secuestrada en presencia de su pequeño hijo
------------------------------------------------------
-
-Los **tres hombres armados** que se bajaron del vehículo forcejearon con la mujer, quien tenía a su **hijo** entre sus brazos cuando la sorprendieron.
-
-El niño se aferró a su madre, pero uno de los individuos **lo separó con fuerza** y lo arrojó contra el piso.
-
-La resistencia de la madre no pudo contra los armados, quienes finalmente la subieron a la camioneta.
-
-En las imágenes se ve al pequeño levantarse asustado por el hecho, mientras veía como el automotor **se alejaba** con su familiar.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCpndAwKTaV/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCpndAwKTaV/?utm_source=ig_embed&utm_campaign=loading)
-
-Otros **dos trabajadores** que se encontraban en el lugar, entre ellos, una mujer que acompañaba a la secuestrada, **lograron huir** de la escena a penas se percataron de la llegada de los armados.
-
-La víctima era la encargada de **administrar la gasolinera**. Desde la tarde de este miércoles **se desconoce su paradero**.
-
-La **Policía Nacional** afirmó que se encuentra trabajando en las investigaciones para encontrar a la mujer.
-
-Secuestros en Los Ríos no paran
--------------------------------
-
-Según recoge El Diario, **otras cinco personas** fueron secuestradas en Los Ríos en los últimos días.
-
-Dos hijos de un médico de la parroquia **El Guayacá**n fueron víctimas de este delito; asimismo, **una abogada y su chofer** fueron secuestrados en Palenque; mientras que el director de una institución educativa de **Mocache** también fue víctima de secuestradores.
