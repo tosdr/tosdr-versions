@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-21 Nov 2024
+22 Nov 2024
 
 * [Home
     
@@ -280,15 +280,6 @@ Most Popular
 [Derry man jailed for 15 months for series of domestic abuse offences](https://www.derrynow.com/news/newsletter-derrynow/1661383/derry-man-jailed-for-15-months-for-series-of-domestic-abuse-offences.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman charged in connection with drug-related offences after police search Derry property](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged in connection with drug-related offences after police search Derry property")](https://www.derrynow.com/news/newsletter-derrynow/1661069/woman-charged-in-connection-with-drug-related-offences-after-police-search-derry-property.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman charged in connection with drug-related offences after police search Derry property](https://www.derrynow.com/news/newsletter-derrynow/1661069/woman-charged-in-connection-with-drug-related-offences-after-police-search-derry-property.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.")](https://www.derrynow.com/news/sociallinkedin-derrynow/1661185/ardnashee-s-new-head-girl-aoibh-cutliff-has-overcome-many-life-challenges.html)
 
 Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.
@@ -298,14 +289,23 @@ Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head
 [Ardnashee's new head girl Aoibh Cutliff has overcome many life challenges](https://www.derrynow.com/news/sociallinkedin-derrynow/1661185/ardnashee-s-new-head-girl-aoibh-cutliff-has-overcome-many-life-challenges.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards")](https://www.derrynow.com/news/home/1660284/county-derry-man-wins-prestigious-award-for-restoring-a-historic-lifeboat-at-2024-national-historic-ships-uk-awards.html)
+[![Four people returned for trial to Derry Crown Court on charge of affray](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Four people returned for trial to Derry Crown Court on charge of affray")](https://www.derrynow.com/news/newsletter-derrynow/1661378/four-people-returned-for-trial-to-derry-crown-court-on-charge-of-affray.html)
 
-Bernard aboard historic lifeboat, Grace Patterson Ritchie.
+Derry Crown Court
 
-[Home](https://www.derrynow.com/)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[County Derry man wins prestigious award for restoring a historic lifeboat at 2024 National Historic Ships UK Awards](https://www.derrynow.com/news/home/1660284/county-derry-man-wins-prestigious-award-for-restoring-a-historic-lifeboat-at-2024-national-historic-ships-uk-awards.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Four people returned for trial to Derry Crown Court on charge of affray](https://www.derrynow.com/news/newsletter-derrynow/1661378/four-people-returned-for-trial-to-derry-crown-court-on-charge-of-affray.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman charged in connection with drug-related offences after police search Derry property](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged in connection with drug-related offences after police search Derry property")](https://www.derrynow.com/news/newsletter-derrynow/1661069/woman-charged-in-connection-with-drug-related-offences-after-police-search-derry-property.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman charged in connection with drug-related offences after police search Derry property](https://www.derrynow.com/news/newsletter-derrynow/1661069/woman-charged-in-connection-with-drug-related-offences-after-police-search-derry-property.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry judge says until threat against suspected drug dealers is lifted, anonymity orders will be granted](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry judge says until threat against suspected drug dealers is lifted, anonymity orders will be granted")](https://www.derrynow.com/news/crime---courts/1661204/derry-judge-says-until-threat-against-suspected-drug-dealers-is-lifted-anonymity-orders-will-be-granted.html)
 
@@ -323,21 +323,21 @@ The AKM rifle seized by police
 [Date set for preliminary enquiry for two Derry men facing firearms charges](https://www.derrynow.com/news/newsletter-derrynow/1661359/date-set-for-preliminary-enquiry-for-two-derry-men-facing-firearms-charges.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Four people returned for trial to Derry Crown Court on charge of affray](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Four people returned for trial to Derry Crown Court on charge of affray")](https://www.derrynow.com/news/newsletter-derrynow/1661378/four-people-returned-for-trial-to-derry-crown-court-on-charge-of-affray.html)
+[![Derry one of the most likely places in the UK to see snow this Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry one of the most likely places in the UK to see snow this Christmas")](https://www.derrynow.com/news/county-derry-post/1661262/derry-one-of-the-most-likely-places-in-the-uk-to-see-snow-this-christmas.html)
 
-Derry Crown Court
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry one of the most likely places in the UK to see snow this Christmas](https://www.derrynow.com/news/county-derry-post/1661262/derry-one-of-the-most-likely-places-in-the-uk-to-see-snow-this-christmas.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry, celebrating winning the Best Choir Award 2024 at Dublin Ceoil in March.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry, celebrating winning the Best Choir Award 2024 at Dublin Ceoil in March.")](https://www.derrynow.com/news/arts---entertainment/1661395/talented-derry-singer-in-semi-final-of-bbc-young-chorister-of-the-year.html)
+
+Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry, celebrating winning the Best Choir Award 2024 at Dublin Ceoil in March.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Four people returned for trial to Derry Crown Court on charge of affray](https://www.derrynow.com/news/newsletter-derrynow/1661378/four-people-returned-for-trial-to-derry-crown-court-on-charge-of-affray.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Weather warnings in place as cold snap grips Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Weather warnings in place as cold snap grips Ireland")](https://www.derrynow.com/news/national-news/1660921/weather-warnings-in-place-as-cold-snap-grips-ireland.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Weather warnings in place as cold snap grips Ireland](https://www.derrynow.com/news/national-news/1660921/weather-warnings-in-place-as-cold-snap-grips-ireland.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Talented Derry Singer in semi final of BBC Young Chorister of the Year](https://www.derrynow.com/news/arts---entertainment/1661395/talented-derry-singer-in-semi-final-of-bbc-young-chorister-of-the-year.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +515,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Roadside Garages Kia Coleraine named double-award winner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roadside Garages Kia Coleraine named double-award winner")](https://www.derrynow.com/news/derrynow/1661522/roadside-garages-kia-coleraine-named-double-award-winner.html)
+
+Ian Lamont (left), of Roadside Garages Kia Coleraine, receiving the award.
+
+[Home](https://www.derrynow.com/)
+
+[Roadside Garages Kia Coleraine named double-award winner](https://www.derrynow.com/news/derrynow/1661522/roadside-garages-kia-coleraine-named-double-award-winner.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Cold and frosty conditions to continue with nationwide yellow warning in place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cold and frosty conditions to continue with nationwide yellow warning in place")](https://www.derrynow.com/news/weather/1661403/cold-and-frosty-conditions-to-continue-with-nationwide-yellow-warning-in-place.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -522,7 +531,7 @@ Advertise with Us
 [Cold and frosty conditions to continue with nationwide yellow warning in place](https://www.derrynow.com/news/weather/1661403/cold-and-frosty-conditions-to-continue-with-nationwide-yellow-warning-in-place.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry one of the most likely places in the UK to see snow this Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry one of the most likely places in the UK to see snow this Christmas")](https://www.derrynow.com/news/county-derry-post/1661262/derry-one-of-the-most-likely-places-in-the-uk-to-see-snow-this-christmas.html)
+[![Derry one of the most likely places in the UK to see snow this Christmas](https://www.derrynow.com/resizer/165/93/true/GN4_DAT_11525182.jpg--.jpg "Derry one of the most likely places in the UK to see snow this Christmas")](https://www.derrynow.com/news/county-derry-post/1661262/derry-one-of-the-most-likely-places-in-the-uk-to-see-snow-this-christmas.html)
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
@@ -555,15 +564,6 @@ Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry
 
 [‘Moneydig Young Conquerors Flute Band add to incredible fundraising total of over £50,000 for Air Ambulance NI in memory of Isaac Roxborough’](https://www.derrynow.com/news/home/1661283/moneydig-young-conquerors-flute-band-add-to-incredible-fundraising-total-of-over-50-000-for-air-ambulance-ni-in-memory-of-isaac-roxborough.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Children in Crossfire’s Santa aiming to break £100,000 mark this Christmas at Derry’s Guildhall](https://www.derrynow.com/resizer/165/93/true/2024_11_20/Photo_-_Children_in_Crossfire_2024_Santa_Appeal-1732112324867.jpg--.jpg?1732112325692 "Children in Crossfire’s Santa aiming to break £100,000 mark this Christmas at Derry’s Guildhall")](https://www.derrynow.com/news/local-news/1660500/children-in-crossfires-santa-aiming-to-break-100-000-mark-this-christmas-at-derrys-guildhall.html)
-
-Martin Gallagher (Santa), Richard Moore (Children in Crossfire Chief Executive), Mary Gallagher (Mrs Claus).
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Children in Crossfire’s Santa aiming to break £100,000 mark this Christmas at Derry’s Guildhall](https://www.derrynow.com/news/local-news/1660500/children-in-crossfires-santa-aiming-to-break-100-000-mark-this-christmas-at-derrys-guildhall.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
