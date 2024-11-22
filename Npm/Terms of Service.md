@@ -286,7 +286,7 @@
 npm Open-Source Terms
 =====================
 
-Table of contents
+See DetailsTable of contents
 
 * [Important Terms](#important-terms)
 * [Other Terms](#other-terms)
