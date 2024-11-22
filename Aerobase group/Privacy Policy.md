@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Russia attacked Ukraine with new ballistic missile, Putin says](https://www.defensenews.com/global/europe/2024/11/21/russia-attacked-ukraine-with-new-ballistic-missile-putin-says/)  
+    11/21/24 04:15pm  
+    
+    Ukrainian rescue workers put out a fire of a burning house damaged by a Russian strike on Dnipro, Ukraine, on Thursday. (Ukrainian Emergency Service via AP)
+    
 * [The F-15 fighter jet is having a second spring in Asia](https://www.defensenews.com/global/asia-pacific/2024/11/21/the-f-15-fighter-jet-is-having-a-second-spring-in-asia/)  
     11/21/24 05:38am  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     11/19/24 01:43pm  
     
     AeroVironment announced Tuesday its plans to acquire BlueHalo, well-known for its drone swarm and counter-drone technology, for roughly $4.1 billion through an all-stock transaction. (Getty Images)
-    
-* [Pentagon announces hypersonic testing pact with UK, Australia](https://www.defensenews.com/pentagon/2024/11/18/pentagon-announces-hypersonic-testing-pact-with-uk-australia/)  
-    11/18/24 03:40pm  
-    
-    A new hypersonic testing partnership between the U.S., Australia and the U.K. will pool the three nations' expertise in testing high-speed weapons, including the U.S. Air Force's Air-launched Rapid Response Weapon, pictured here mounted on a B-52 bomber. (Giancarlo Casem/U.S. Air Force)
     
 
 Recent parts by keyword  
