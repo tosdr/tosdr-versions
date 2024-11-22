@@ -15,9 +15,9 @@
     
     Black Friday](https://www.philips-hue.com/en-us/products/promotions/black-friday-cyber-monday-deals)
     
-    [![Sync box](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
+    [![New! Table lamps](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
     
-    Sync box](https://www.philips-hue.com/en-us/products/smart-light-accessories?filters=FK_HUE_LIGHTING_ACCESSORY_DEVICES&page=1&sort=relevance)
+    New! Table lamps](https://www.philips-hue.com/en-us/products/smart-table-lamps/table-lamp-lightguide)
     
     [![Home security](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
     
