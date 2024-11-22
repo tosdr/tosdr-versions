@@ -34,7 +34,7 @@
     * [How to swap](https://www.ledger.com/swap "How to swap")
     * [How to stake](https://www.ledger.com/staking "How to stake")
 * For Business
-    * [Ledger Entreprise Solution](https://enterprise.ledger.com/?utm_source=mainsite&utm_medium=header "Ledger Entreprise Solution")
+    * [Ledger Enterprise Solution](https://enterprise.ledger.com/?utm_source=mainsite&utm_medium=header "Ledger Enterprise Solution")
     * [Ledger Partners](https://www.ledger.com/partners "Ledger Partners")
     * [Ledger Co-branded Partnership](https://www.ledger.com/co-branded-partnership "Ledger Co-branded Partnership")
 * [For Developers](https://developers.ledger.com/ "For Developers")
@@ -82,7 +82,7 @@
     * [How to swap](https://www.ledger.com/swap "How to swap")
     * [How to stake](https://www.ledger.com/staking "How to stake")
 * For Business
-    * [Ledger Entreprise Solution](https://enterprise.ledger.com/?utm_source=mainsite&utm_medium=header "Ledger Entreprise Solution")
+    * [Ledger Enterprise Solution](https://enterprise.ledger.com/?utm_source=mainsite&utm_medium=header "Ledger Enterprise Solution")
     * [Ledger Partners](https://www.ledger.com/partners "Ledger Partners")
     * [Ledger Co-branded Partnership](https://www.ledger.com/co-branded-partnership "Ledger Co-branded Partnership")
 * [For Developers](https://developers.ledger.com/ "For Developers")
@@ -133,7 +133,7 @@
     * [How to swap](https://www.ledger.com/swap "How to swap")
     * [How to stake](https://www.ledger.com/staking "How to stake")
 * For Business
-    * [Ledger Entreprise Solution](https://enterprise.ledger.com/?utm_source=mainsite&utm_medium=header "Ledger Entreprise Solution")
+    * [Ledger Enterprise Solution](https://enterprise.ledger.com/?utm_source=mainsite&utm_medium=header "Ledger Enterprise Solution")
     * [Ledger Partners](https://www.ledger.com/partners "Ledger Partners")
     * [Ledger Co-branded Partnership](https://www.ledger.com/co-branded-partnership "Ledger Co-branded Partnership")
 * [For Developers](https://developers.ledger.com/ "For Developers")
@@ -181,7 +181,7 @@
     * [How to swap](https://www.ledger.com/swap "How to swap")
     * [How to stake](https://www.ledger.com/staking "How to stake")
 * For Business
-    * [Ledger Entreprise Solution](https://enterprise.ledger.com/?utm_source=mainsite&utm_medium=header "Ledger Entreprise Solution")
+    * [Ledger Enterprise Solution](https://enterprise.ledger.com/?utm_source=mainsite&utm_medium=header "Ledger Enterprise Solution")
     * [Ledger Partners](https://www.ledger.com/partners "Ledger Partners")
     * [Ledger Co-branded Partnership](https://www.ledger.com/co-branded-partnership "Ledger Co-branded Partnership")
 * [For Developers](https://developers.ledger.com/ "For Developers")
