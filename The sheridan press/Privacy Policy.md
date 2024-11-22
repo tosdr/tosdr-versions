@@ -78,7 +78,7 @@ Public Notices
 
 * [About Us](https://www.thesheridanpress.com/site/about.html)
 * [Meet our team](https://www.thesheridanpress.com/site/meet_our_team.html)
-* [Contact Us](https://www.thesheridanpress.com/site/contact.html)
+* [Contact Us](https://www.thesheridanpress.com/contact/)
 * [Work with us](https://www.thesheridanpress.com/site/work_with_us.html)
 * [Subscribe](https://www.thesheridanpress.com/subscribe/)
 * [e-Edition](https://www.thesheridanpress.com/eedition)
@@ -108,11 +108,12 @@ Public Notices
 
 [![site-logo](https://bloximages.newyork1.vip.townnews.com/thesheridanpress.com/content/tncms/assets/v3/media/0/34/034efc38-8684-11ef-8f8b-0fb42e3dd0c1/6706f31e1aac1.image.png?resize=200%2C34)](https://www.thesheridanpress.com/)
 
-[Support Elk Fire Relief](https://bit.ly/elkfirerelief2024)
+**Your Community, Your News, Your Way!**
+----------------------------------------
 
-[Contact Us!](https://www.thesheridanpress.com/site/forms)
+[Contact Us](https://www.thesheridanpress.com/contact)
 
-[Place a Classified Ad!](https://www.thesheridanpress.com/place_an_ad/)
+[Place a Classified Ad](https://www.thesheridanpress.com/place_an_ad/)
 
 Toggle navigation
 
