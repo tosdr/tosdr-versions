@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Matt Gaetz withdraws as President-elect Donald Trump's pick for attorney general](https://www.ajc.com/news/nation-world/gaetz-withdraws-as-trumps-pick-for-attorney-general/RCTGZPESX5FMBHPOY6MBXETWGA/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1834)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1834)](https://www.ajc.com/)
 
 Log In
