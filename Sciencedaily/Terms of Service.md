@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Human Heart: Hidden Ability to Repair Itself](https://www.sciencedaily.com/releases/2024/11/241121141348.htm)
+* [Oldest Known Alphabet Unearthed](https://www.sciencedaily.com/releases/2024/11/241120193145.htm)
+* [Supernova Could End Search for Dark Matter](https://www.sciencedaily.com/releases/2024/11/241121141213.htm)
+* [Whale-Ship Collisions: Few Precautions Taken](https://www.sciencedaily.com/releases/2024/11/241121141110.htm)
+* [Chemists Create World's Thinnest Spaghetti](https://www.sciencedaily.com/releases/2024/11/241121141211.htm)
+* [Climate: Millions of Coastal Residences at Risk](https://www.sciencedaily.com/releases/2024/11/241121115809.htm)
+* [Zooming in On a Star Outside Our Galaxy](https://www.sciencedaily.com/releases/2024/11/241121115752.htm)
 * [Adaptation of Early Europeans](https://www.sciencedaily.com/releases/2024/11/241119181845.htm)
 * [Faster Battery Charging, Biosensing](https://www.sciencedaily.com/releases/2024/11/241119133504.htm)
 * [Females Sleep Less, Awaken More Frequently](https://www.sciencedaily.com/releases/2024/11/241121115806.htm)
-* [Zooming in On a Star Outside Our Galaxy](https://www.sciencedaily.com/releases/2024/11/241121115752.htm)
-* [These Wild Adult Chimps Play Together](https://www.sciencedaily.com/releases/2024/11/241121115643.htm)
-* [Learning to Trust Robots: Synchronized Motion](https://www.sciencedaily.com/releases/2024/11/241120122448.htm)
-* [Wearable Ultrasound Patch for BP Monitoring](https://www.sciencedaily.com/releases/2024/11/241120122153.htm)
-* [Novel Antibiotic for Drug-Resistant Bacteria](https://www.sciencedaily.com/releases/2024/11/241120122028.htm)
-* [Dinosaur Drumsticks and the Turkey Trot](https://www.sciencedaily.com/releases/2024/11/241120121648.htm)
-* [Key to Climate-Resilient Crops](https://www.sciencedaily.com/releases/2024/11/241120121644.htm)
 
 Trending Topics
 ---------------
@@ -253,21 +253,21 @@ this week
 
 [Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
+[Anemia](https://www.sciencedaily.com/news/health_medicine/anemia/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Neural Interfaces](https://www.sciencedaily.com/news/computers_math/neural_interfaces/)
-
 [Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
+
+[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
 
 [Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
-
 [Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
+
+[Biotechnology and Bioengineering](https://www.sciencedaily.com/news/plants_animals/biotechnology_and_bioengineering/)
 
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
