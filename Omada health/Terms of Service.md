@@ -244,7 +244,7 @@ Quality virtual care that is personal, connected, & sustainable.](#)[Contact Sal
             Careers](https://www.omadahealth.com/about-us/careers)
         * [![OH_Icons__PRESS_Phone](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__PRESS_Phone+Paper_White.svg)
             
-            Media Center](https://resourcecenter.omadahealth.com/press-releases)
+            Media Center](https://www.omadahealth.com/media-center-omada-health)
         * [![OH_Icons__Security_White](https://www.omadahealth.com/hubfs/omada-assets/OH_Icons__Security_White.svg)
             
             Data Security](https://www.omadahealth.com/about-us/security)
@@ -1255,7 +1255,7 @@ Effective Date: April 1, 2024
     * [About](https://www.omadahealth.com/about-us)
     * [Leadership](https://www.omadahealth.com/about-us/leadership-team)
     * [Careers](https://www.omadahealth.com/about-us/careers)
-    * [Media Center](https://resourcecenter.omadahealth.com/press-releases)
+    * [Media Center](https://www.omadahealth.com/media-center-omada-health)
     * [Data Security](https://www.omadahealth.com/about-us/security)
     * [Contact Sales](https://www.omadahealth.com/contact-sales)
 
