@@ -2,11 +2,11 @@
 
 SALE ENDS IN
 
-07HRS
+05HRS
 
-41MIN
+37MIN
 
-16SEC
+32SEC
 
 [![Aceable Logo](https://xgrit-ecom.imgix.net/ace/Aceable-Logo1.svg?v=1712674234&auto=compress,format)](https://www.aceable.com/)
 
@@ -32,7 +32,7 @@ Drivers Ed ![](https://xgrit-ecom.imgix.net/ace/Drop-Down.svg?v=1712674559)
 
 [**Texas** Adult Drivers Ed](https://www.aceable.com/drivers-ed/texas-adult/)
 
-[**Texas** Permit Test Prep](https://www.aceable.com/drivers-ed/texas-learners-permit-test-study-guide/)
+[**Texas** Knowledge Test Prep Course](https://www.aceable.com/drivers-ed/texas/knowledge-test-prep-course/)
 
 Defensive Driving ![](https://xgrit-ecom.imgix.net/ace/Drop-Down.svg?v=1712674559) 
 
