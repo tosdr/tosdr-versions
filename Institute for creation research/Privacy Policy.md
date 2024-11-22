@@ -95,6 +95,64 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Days of Praise
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/what-put)
+
+[What to Put On](https://www.icr.org/article/what-put/)
+
+“And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.”...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/prerequisites-for-christian-unity)
+
+[Prerequisites for Christian Unity](https://www.icr.org/article/prerequisites-for-christian-unity/)
+
+“If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies, Fulfill...
+
+BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/prepared-hearts)
+
+[Prepared Hearts](https://www.icr.org/article/prepared-hearts/)
+
+“For Ezra had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments.” (Ezra 7:10) It...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10476476/file.jpg)
+
+The Revelation Record](https://store.icr.org/dr-henry-morris-the-revelation-record.html)
+
+$24.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32689/file.jpg)
+
+The Henry Morris Study Bible - Imitation Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-imita.html)
+
+$59.99
+
+$69.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475255/file.jpg)
+
+The God Who is Real](https://store.icr.org/dr-henry-morris-the-god-who-is-real.html)
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
+
+Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
+
+$12.99
+
+[](https://store.icr.org/.html)
+
+$
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
