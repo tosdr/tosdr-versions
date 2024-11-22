@@ -111,25 +111,25 @@ Most recent
 
 [22-11-2024
 
+Hungarian presidency secures full Schengen membership for Bulgaria, Romania](https://www.euractiv.com/section/politics/news/hungarian-presidency-secures-full-schengen-membership-for-bulgaria-romania/)[22-11-2024
+
+Hungary seeks organ transplant increase, boost to organ recipient life quality and reduced stigma](https://www.euractiv.com/section/health-consumers/news/hungary-seeks-organ-transplant-increase-boost-to-organ-recipient-life-quality-and-reduced-stigma/)[22-11-2024
+
+Orbán to host Netanyahu in Hungary as EU divided over ICC decision](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_S8N3FE00M:1546537596)[22-11-2024
+
+Barnier: Franco-German tandem should enter ‘ménage à trois’ with Italy](https://www.euractiv.com/section/politics/news/barnier-franco-german-tandem-should-enter-menage-a-trois-with-italy/)[22-11-2024
+
+UK and France investigate over suspected corruption by Thales](https://www.euractiv.com/section/defence-and-security/news/uk-and-france-investigate-over-suspected-corruption-by-thales/)[22-11-2024
+
+US Treasury targets Russia’s Gazprombank with new sanctions](https://www.euractiv.com/section/global-europe/news/us-treasury-targets-russias-gazprombank-with-new-sanctions/)[22-11-2024
+
+Irish economy faces the test of Trump’s protectionism](https://www.euractiv.com/section/politics/news/irish-economy-faces-the-test-of-trumps-protectionism/)[22-11-2024
+
 Unpopular Scholz set to run for second term after Pistorius bows out](https://www.euractiv.com/section/politics/news/unpopular-scholz-set-to-run-for-second-term-after-pistorius-bows-out/)[22-11-2024
 
 Romania’s radical right leader Simion, a Trump fan, eyes presidency](https://www.euractiv.com/section/politics/news/romanias-radical-right-leader-simion-a-trump-fan-eyes-presidency/)[22-11-2024
 
-Nuclear sector pins hopes on 2026 for ‘low-carbon’ hydrogen label](https://www.euractiv.com/section/eet/news/nuclear-sector-pins-hopes-on-2026-for-low-carbon-hydrogen-label/)[22-11-2024
-
-EU funded scheme delivers one million ammunition to Ukraine, looks at industry direct investment](https://www.euractiv.com/section/global-europe/news/eu-funded-scheme-delivers-one-million-ammunition-to-ukraine-looks-direct-investment-into-industry/)[22-11-2024
-
-Sweden’s Northvolt files for bankruptcy, in blow to Europe’s EV ambitions](https://www.euractiv.com/section/eet/news/swedens-northvolt-files-for-bankruptcy-in-blow-to-europes-ev-ambitions/)[22-11-2024
-
-Slovakia’s Fico backs Serbia over Kosovo, pledges to increase KFOR troops](https://www.euractiv.com/section/politics/news/the-capitals-slovakias-fico-backs-serbia-over-kosovo-pledges-to-increase-kfor-troops/)[22-11-2024
-
-Romanian government approves energy strategy](https://www.euractiv.com/section/politics/news/romanian-government-approves-energy-strategy/)[22-11-2024
-
-Dismissed chief prosecutor sues Bulgaria before Strasbourg human rights court](https://www.euractiv.com/section/politics/news/dismissed-chief-prosecutor-sues-bulgaria-before-strasbourg-human-rights-court/)[22-11-2024
-
-Polish MEP urges Trump to back World War II reparations demands from Germany](https://www.euractiv.com/section/politics/news/polish-mep-urges-trump-to-back-world-war-ii-reparations-demands-from-germany/)[22-11-2024
-
-Former Portuguese president fears global conflict, particularly worrying for Europe](https://www.euractiv.com/section/politics/news/former-portuguese-president-fears-global-conflict-particularly-worrying-for-europe/)
+Nuclear sector pins hopes on 2026 for ‘low-carbon’ hydrogen label](https://www.euractiv.com/section/eet/news/nuclear-sector-pins-hopes-on-2026-for-low-carbon-hydrogen-label/)
 
 ###### Advertisement
 
