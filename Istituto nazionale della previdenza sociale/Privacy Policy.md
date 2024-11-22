@@ -486,7 +486,7 @@ it
             * [Video guida per beneficiari di NASpI](https://www.inps.it/it/it/inps-comunica/video-personalizzati-e-guide-interattive/video-personalizzati-e-interattivi/video-guida-per-beneficiari-di-naspi.html)
             * [Video guida per neopensionati](https://www.inps.it/it/it/inps-comunica/video-personalizzati-e-guide-interattive/video-personalizzati-e-interattivi/video-guida-per-neopensionati.html)
             * [Video guida per genitori richiedenti Assegno unico e universale](https://www.inps.it/it/it/inps-comunica/video-personalizzati-e-guide-interattive/video-personalizzati-e-interattivi/video-guida-per-genitori-richiedenti-assegno-unico-e-universale.html)
-            * [Video guida interattiva per chi ha diritto a richiedere il Supporto per la Formazione e il lavoro](https://www.inps.it/it/it/inps-comunica/video-personalizzati-e-guide-interattive/video-personalizzati-e-interattivi/video-guida-interattiva-per-chi-ha-diritto-a-richiedere-il-suppo.html)
+            * [Video guida interattiva per chi ha diritto a richiedere il Supporto per la Formazione e il Lavoro](https://www.inps.it/it/it/inps-comunica/video-personalizzati-e-guide-interattive/video-personalizzati-e-interattivi/video-guida-interattiva-per-chi-ha-diritto-a-richiedere-il-suppo.html)
             * [Video/Audio guida per destinatari di Verbale sanitario di invalidità, di sordità o di cecità](https://www.inps.it/it/it/inps-comunica/video-personalizzati-e-guide-interattive/video-personalizzati-e-interattivi/Video-Audio-guida-per-destinatari-di-Verbale-sanitario-di-invalidita-di-sordita-o-di-cecita.html)
             
         * [Guide interattive](#)
