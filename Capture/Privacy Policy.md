@@ -21,7 +21,7 @@
     You’ll receive a free digital download with paid USB and DVD options available.
     
       
-    [Help Me Place An Order >](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     [Digitize All Videotapes](https://www.capture.com/products/video-conversion-service)  
     
@@ -33,7 +33,7 @@
     
     Select a specific format above or click the button to digitize all types of videotapes to start your order.
     
-    [Help Me Place An Order](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     ![](//www.capture.com/cdn/shop/files/Product_Video250x250.png?v=1732215921&width=400)
     
@@ -53,7 +53,7 @@
     You’ll receive a free digital download with paid USB and DVD options available.
     
       
-    [Help Me Place An Order >](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     [Digitize All Film Reels](https://www.capture.com/products/film-transfer)  
     
@@ -65,7 +65,7 @@
     
     Select a specific format above or click the button to digitize all types of film reels to start your order.
     
-    [Help Me Place An Order](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     ![](//www.capture.com/cdn/shop/files/Product_Film250x250.png?v=1732215921&width=400)
     
@@ -87,7 +87,7 @@
     You’ll receive a free digital download with paid USB and DVD options available.
     
       
-    [Help Me Place An Order >](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     [Digitize All Photos & Prints](https://www.capture.com/products/photo-digitization)  
     
@@ -99,7 +99,7 @@
     
     Select a specific format above or click the button to digitize all types of photos & prints to start your order. For photos in albums, use our Album Scanning service to digitize them without removing them from the album.
     
-    [Help Me Place An Order](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     ![](//www.capture.com/cdn/shop/files/Product_AllPhoto250x250.png?v=1732215921&width=400)
     
@@ -121,7 +121,7 @@
     You’ll receive a free digital download with paid USB and DVD options available.
     
       
-    [Help Me Place An Order >](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     [Digitize All Devices](https://www.capture.com/products/digital-scanning)  
     
@@ -135,7 +135,7 @@
     
     Select a specific format above or click the button to digitize all types of devices to start your order.
     
-    [Help Me Place An Order](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     ![](//www.capture.com/cdn/shop/files/Product_DM250x250.png?v=1732215921&width=400)
     
@@ -179,7 +179,7 @@
     You’ll receive a free digital download with paid USB and DVD options available.
     
       
-    [Help Me Place An Order >](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     [Digitize All Videotapes](https://www.capture.com/products/video-conversion-service)  
     
@@ -191,7 +191,7 @@
     
     Select a specific format above or click the button to digitize all types of videotapes to start your order.
     
-    [Help Me Place An Order](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     ![](//www.capture.com/cdn/shop/files/Product_Video250x250.png?v=1732215921&width=400)
     
@@ -209,7 +209,7 @@
     You’ll receive a free digital download with paid USB and DVD options available.
     
       
-    [Help Me Place An Order >](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     [Digitize All Film Reels](https://www.capture.com/products/film-transfer)  
     
@@ -221,7 +221,7 @@
     
     Select a specific format above or click the button to digitize all types of film reels to start your order.
     
-    [Help Me Place An Order](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     ![](//www.capture.com/cdn/shop/files/Product_Film250x250.png?v=1732215921&width=400)
     
@@ -241,7 +241,7 @@
     You’ll receive a free digital download with paid USB and DVD options available.
     
       
-    [Help Me Place An Order >](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     [Digitize All Photos & Prints](https://www.capture.com/products/photo-digitization)  
     
@@ -253,7 +253,7 @@
     
     Select a specific format above or click the button to digitize all types of photos & prints to start your order. For photos in albums, use our Album Scanning service to digitize them without removing them from the album.
     
-    [Help Me Place An Order](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     ![](//www.capture.com/cdn/shop/files/Product_AllPhoto250x250.png?v=1732215921&width=400)
     
@@ -273,7 +273,7 @@
     You’ll receive a free digital download with paid USB and DVD options available.
     
       
-    [Help Me Place An Order >](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     [Digitize All Devices](https://www.capture.com/products/digital-scanning)  
     
@@ -287,7 +287,7 @@
     
     Select a specific format above or click the button to digitize all types of devices to start your order.
     
-    [Help Me Place An Order](https://www.capture.com/pages/free-quote)
+    [**Help Me Place An Order >**](https://www.capture.com/pages/free-quote)
     
     ![](//www.capture.com/cdn/shop/files/Product_DM250x250.png?v=1732215921&width=400)
     
