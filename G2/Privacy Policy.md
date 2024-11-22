@@ -284,7 +284,7 @@ G2 has further committed to refer unresolved privacy complaints under the EU-U.S
 
 If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke [binding arbitration](https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf?tabset-35584=2) for some residual claims not resolved by other redress mechanisms. With respect to personal data received or transferred pursuant to the Data Privacy Framework.
 
-G2.com, Inc. is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC) respect to personal data received or transferred pursuant to the Data Privacy Framework, the Federal Trade Commission has jurisdiction over G2’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+G2.com, Inc. is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC) with respect to personal data received or transferred pursuant to the Data Privacy Framework.
 
 Pursuant to the EU-U.S. Data Privacy Framework program (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework program (Swiss-U.S. DPF) principles, G2 may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
