@@ -1,14 +1,14 @@
  
 
 * Es noticia:
+* [La Revuelta](https://www.marca.com/tiramillas/actualidad/2024/11/21/673fa9afe2704ea6508b459d.html)
+* [El Hormiguero](https://www.marca.com/tiramillas/television/2024/11/21/673fba3b268e3eb7688b457b.html)
 * [Guerra Ucrania](https://www.marca.com/tiramillas/actualidad/2024/11/21/673ef788f49425d14d68811f-directo.html)
 * [Montse Tomé](https://www.marca.com/futbol/futbol-femenino/seleccion/2024/11/21/tweet-vuelve-montse-tome-enhorabuena-transmites-fuera-campo.html)
 * [Real Madrid Alba Berlin](https://www.marca.com/baloncesto/euroliga/real-madrid-alba-berlin/2024/11/21/02_0203_20241121_6210_6392-directo.html)
 * [Jove Español - Real Sociedad](https://www.marca.com/futbol/copa-del-rey/jove-r-sociedad/2024/11/21/01_0105_20241121_22143_188-directo.html)
-* [Jove Español - Real Sociedad hora](https://www.marca.com/futbol/copa-rey/2024/11/20/jove-espanol-real-sociedad-horario-ver-tv-partido-copa-rey.html)
 * [Barcelona femenino](https://www.marca.com/futbol/champions-league-femenina/st-polten-spratzern-barcelona/2024/11/21/01_0183_20241121_11211_9121-directo.html)
-* [Baskonia](https://www.marca.com/baloncesto/euroliga/olympiacos-baskonia/2024/11/21/02_0203_20241121_7400_6205-directo.html)
-* [Real Sociedad](https://www.marca.com/apuestas-deportivas/pronosticos/2024/11/21/673f7ebe268e3e387c8b457b.html)
+* [Baskonia](https://www.marca.com/baloncesto/euroliga/2024/11/21/olympiacos-destroza-baskonia-incapaz-reaccionar.html)
 * [Carlos Sainz](https://marca.com/motor/formula1/gp-las-vegas/2024/11/21/673ecedbe2704e98b58b457e.html)
 * [Santiago Bernabéu](https://www.marca.com/futbol/real-madrid/2024/11/21/escandalo-sky-bar-empresa-experiencia-capital-impagos-deuda-millonaria-cierre-trae-cabeza-madrid.html)
 * [Cañizares](https://www.marca.com/radio/2024/11/21/673f0f0322601df77c8b4586.html)
