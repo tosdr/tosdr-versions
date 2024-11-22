@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2023/11/Johnson-red-light-326x245.jpg)](https://cwbchicago.com/2024/11/legislator-wants-investigation-to-determine-why-south-side-red-light-cameras-issued-2-5x-more-tickets-than-north-side-cameras.html "Legislator wants ‘investigation’ to determine why South Side red light cameras issued 2.5x more tickets than North Side cameras")
+
+Citywide
+
+### [Legislator wants ‘investigation’ to determine why South Side red light cameras issued 2.5x more tickets than North Side cameras](https://cwbchicago.com/2024/11/legislator-wants-investigation-to-determine-why-south-side-red-light-cameras-issued-2-5x-more-tickets-than-north-side-cameras.html "Legislator wants ‘investigation’ to determine why South Side red light cameras issued 2.5x more tickets than North Side cameras")
+
+[November 20, 2024 11:25 AM](https://cwbchicago.com/2024/11)
+
+Illinois State Rep. La Shawn Ford is again calling for change after new data shows more than 2.5 times as many red-light camera tickets were issued on Chicago’s South Side over a yearlong period than at intersections where cameras are installed on the city’s North Side.[](https://cwbchicago.com/2024/11/legislator-wants-investigation-to-determine-why-south-side-red-light-cameras-issued-2-5x-more-tickets-than-north-side-cameras.html "Legislator wants ‘investigation’ to determine why South Side red light cameras issued 2.5x more tickets than North Side cameras")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/narveal-raggs-lakeside-food-wine-spirits-326x245.jpg)](https://cwbchicago.com/2024/11/parolee-had-a-machine-gun-while-trying-to-burglarize-lincoln-park-liquor-store-prosecutors-say.html "Parolee had a machine gun while trying to burglarize Lincoln Park liquor store, prosecutors say")
 
 Lincoln Park
@@ -262,16 +272,6 @@ Back of the Yards
 [November 20, 2024 7:00 AM](https://cwbchicago.com/2024/11)
 
 CHICAGO — A Venezuelan migrant is charged with attempted murder, accused of trying to shoot a co-worker who made a joke at his expense. “See how you die?” Jorber Pena Acosta allegedly asked the man before opening fire on him outside their workplace last Thursday afternoon. Prosecutors said Acosta, 26, the 29-year-old victim, and others[](https://cwbchicago.com/2024/11/migrant-charged-with-trying-to-murder-co-worker-who-made-a-joke-about-him-see-how-you-die.html "Migrant charged with trying to murder co-worker who made a joke about him; ‘See how you die?’")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/5600-leland-326x245.jpg)](https://cwbchicago.com/2024/11/man-suspected-of-murdering-wife-on-nw-side-was-on-pretrial-release-for-a-felony-domestic-violence-case.html "Man suspected of murdering wife on NW Side was on pretrial release for a felony domestic violence case")
-
-Portage Park
-
-### [Man suspected of murdering wife on NW Side was on pretrial release for a felony domestic violence case](https://cwbchicago.com/2024/11/man-suspected-of-murdering-wife-on-nw-side-was-on-pretrial-release-for-a-felony-domestic-violence-case.html "Man suspected of murdering wife on NW Side was on pretrial release for a felony domestic violence case")
-
-[November 20, 2024 5:56 AM](https://cwbchicago.com/2024/11)
-
-The man police believe is responsible for fatally stabbing his wife in Portage Park on Tuesday afternoon, later found dead inside a parked car near the attack site, was on pretrial release for felony domestic violence charges involving the woman he killed, court records show.[](https://cwbchicago.com/2024/11/man-suspected-of-murdering-wife-on-nw-side-was-on-pretrial-release-for-a-felony-domestic-violence-case.html "Man suspected of murdering wife on NW Side was on pretrial release for a felony domestic violence case")
 
 Search
 
