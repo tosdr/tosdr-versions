@@ -164,7 +164,7 @@ If a user is uploading their own content, they should be expected to tag them as
 
 06/23/23 07:45PM
 
-Videos up to **3 minutes** in length are allowed, but any longer and they will be deleted or never approved to begin with.
+Videos up to **8 minutes** in length are allowed, but any longer and they will be deleted or never approved to begin with.
 
 [quote](#) | [link](https://realbooru.com/index.php?page=forum&s=view&id=6749&pid=0#267508)  
 
