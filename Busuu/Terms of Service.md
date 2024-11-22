@@ -1,8 +1,6 @@
 TERMS OF SERVICE
 ================
 
-We're updating our Terms of Service ("Terms") to take into account improvements to our operational processes and to ensure that our Terms reflect the current legal and regulatory frameworks we work within. **These changes will come into effect on November 17, 2024, and your continued use of the Busuu service after this date will be subject to our updated Terms.**
-
 Please read these Terms of Service carefully before using our Service or the Premium Services.
 
 ### INTRODUCTION
