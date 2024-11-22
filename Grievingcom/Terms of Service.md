@@ -66,8 +66,6 @@ We do not sell, share, or make your data available to any parties other than Gri
 
 If you have any questions or feedback, please let us know at Guardians@Grieving.com. Thank you.
 
-**L**
-
 * [All Activity](https://forums.grieving.com/discover/)
 
 * [Home](https://forums.grieving.com/ "Home")
@@ -103,8 +101,8 @@ Copyright @ Grieving.com 2024 [Powered by Invision Community](https://www.invisi
     * [Events](https://forums.grieving.com/events/)
     * [Gallery](https://forums.grieving.com/gallery/)
     * [Guidelines](https://forums.grieving.com/guidelines/)
-* [Clubs](https://forums.grieving.com/clubs/)
-* [Blogs](https://forums.grieving.com/blogs/)
+* [Circles](https://forums.grieving.com/clubs/)
+* [Journals](https://forums.grieving.com/blogs/)
 
 [×](#)
 
