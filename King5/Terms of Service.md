@@ -32,12 +32,11 @@ Navigation
     
     *  [![](https://media.king5.com/assets/KING/images/1cba25af-f989-4b54-a648-ffbb77e0bd3c/20241122T140640/1cba25af-f989-4b54-a648-ffbb77e0bd3c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1cba25af-f989-4b54-a648-ffbb77e0bd3c/20241122T140640/1cba25af-f989-4b54-a648-ffbb77e0bd3c_360x203.jpg)](https://www.king5.com/article/news/local/driver-crashes-car-roof-west-seattle-garage/281-558976f1-d2da-4eaa-9593-5e7af9dacad1)
         
-        #### [Driver veers off road, crashes car on roof of West Seattle garage](https://www.king5.com/article/news/local/driver-crashes-car-roof-west-seattle-garage/281-558976f1-d2da-4eaa-9593-5e7af9dacad1) [![](https://media.king5.com/assets/KING/images/1cba25af-f989-4b54-a648-ffbb77e0bd3c/20241122T140640/1cba25af-f989-4b54-a648-ffbb77e0bd3c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1cba25af-f989-4b54-a648-ffbb77e0bd3c/20241122T140640/1cba25af-f989-4b54-a648-ffbb77e0bd3c_360x203.jpg)](https://www.king5.com/article/news/local/driver-crashes-car-roof-west-seattle-garage/281-558976f1-d2da-4eaa-9593-5e7af9dacad1)
+        #### [Driver veers off road, crashes car on roof of West Seattle garage](https://www.king5.com/article/news/local/driver-crashes-car-roof-west-seattle-garage/281-558976f1-d2da-4eaa-9593-5e7af9dacad1)
         
-        #### [Car winds up on roof of West Seattle garage after veering off road](https://www.king5.com/article/news/local/driver-crashes-car-roof-west-seattle-garage/281-558976f1-d2da-4eaa-9593-5e7af9dacad1)
-    *  [![](https://media.king5.com/assets/KING/images/836299bf-0afe-4d5d-942e-c199555324a9/20241122T024040/836299bf-0afe-4d5d-942e-c199555324a9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/836299bf-0afe-4d5d-942e-c199555324a9/20241122T024040/836299bf-0afe-4d5d-942e-c199555324a9_360x203.jpg)](https://www.king5.com/article/weather/king-county-residents-expect-to-have-power-restored-saturday/281-76b7fcf6-2316-4344-adb3-02f8fb372011)
+    *  [![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
         
-        #### [Power being restored to some, PSE expects all customers to be out of the dark by Saturday afternoon](https://www.king5.com/article/weather/king-county-residents-expect-to-have-power-restored-saturday/281-76b7fcf6-2316-4344-adb3-02f8fb372011)
+        #### [Power outage restoration timeline unchanged for PSE after overnight wind gusts](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/836299bf-0afe-4d5d-942e-c199555324a9/20241122T024040/836299bf-0afe-4d5d-942e-c199555324a9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/836299bf-0afe-4d5d-942e-c199555324a9/20241122T024040/836299bf-0afe-4d5d-942e-c199555324a9_360x203.jpg)](https://www.king5.com/article/weather/king-county-residents-expect-to-have-power-restored-saturday/281-76b7fcf6-2316-4344-adb3-02f8fb372011)
-        
-        #### [Power being restored to some, PSE expects all customers to be out of the dark by Saturday afternoon](https://www.king5.com/article/weather/king-county-residents-expect-to-have-power-restored-saturday/281-76b7fcf6-2316-4344-adb3-02f8fb372011)
-        
-    *  [![](https://media.king5.com/assets/KING/images/b86dcfcf-46e8-42de-b829-c5e84832f72e/20241122T130205/b86dcfcf-46e8-42de-b829-c5e84832f72e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b86dcfcf-46e8-42de-b829-c5e84832f72e/20241122T130205/b86dcfcf-46e8-42de-b829-c5e84832f72e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/d548728c-06ce-404d-95a4-7092bd253f73/20241122T202716/d548728c-06ce-404d-95a4-7092bd253f73_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d548728c-06ce-404d-95a4-7092bd253f73/20241122T202716/d548728c-06ce-404d-95a4-7092bd253f73_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
+        
+        #### [Power outage restoration timeline unchanged for PSE after overnight wind gusts](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-47°
+55°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
