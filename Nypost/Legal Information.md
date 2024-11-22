@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Trump picks former Florida AG to replace Gaetz](https://nypost.com/2024/11/21/us-news/trump-picks-former-florida-ag-to-replace-matt-gaetz/)
+
 Privacy Notice Highlights
 =========================
 
