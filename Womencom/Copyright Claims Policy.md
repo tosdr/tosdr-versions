@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Halle Berry on the red carpet smiling](https://www.women.com/img/gallery/5-celebs-who-have-been-vocal-about-avoiding-plastic-surgery/intro-1731690800.jpg)](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
+*  [![Two people in bed](https://www.women.com/img/gallery/how-to-handle-being-asked-about-your-body-count-not-that-it-matters/intro-1731694030.jpg)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
     
-    [Wellness](https://www.women.com/category/wellness/)
+    [Exclusives](https://www.women.com/category/exclusives/)
     
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
     
-    [5 Celebs Who Have Been Vocal About Avoiding Plastic Surgery](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
-    ================================================================================================================================
+    [How To Handle Being Asked About Your Body Count (Not That It Matters)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+    =========================================================================================================================================================
     
-    Hollywood will always deliver unrealistic beauty standards. But luckily, some celebrities are taking a stand and are opting to age naturally.
+    Your body count refers to how many people you've had sex with. While it's no one's business but your own, it can be made into a bigger deal than it is.
     
-    By Amanda Chatel [Read More](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
+    By Emily Hutchinson [Read More](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
     
-* *  [![Dolly Parton on the red carpet with arms outstretched](https://www.women.com/img/gallery/dolly-partons-most-philanthropic-efforts-across-her-long-career/intro-1731613196.jpg)](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
+* *  [![Halle Berry on the red carpet smiling](https://www.women.com/img/gallery/5-celebs-who-have-been-vocal-about-avoiding-plastic-surgery/intro-1731690800.jpg)](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
+        
+        [Wellness](https://www.women.com/category/wellness/)
+        
+        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+        
+        ### [5 Celebs Who Have Been Vocal About Avoiding Plastic Surgery](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
+        
+        Hollywood will always deliver unrealistic beauty standards. But luckily, some celebrities are taking a stand and are opting to age naturally.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
+        
+    *  [![Dolly Parton on the red carpet with arms outstretched](https://www.women.com/img/gallery/dolly-partons-most-philanthropic-efforts-across-her-long-career/intro-1731613196.jpg)](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
         
         [Living](https://www.women.com/category/living/)
         
@@ -66,22 +78,22 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
         
-    *  [![Gabrielle Union and Dwayne Wade at a basketball event](https://www.women.com/img/gallery/5-celeb-parents-who-are-loud-proud-supporters-of-their-trans-and-non-binary-children/intro-1731522385.jpg)](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
-        
-        [Politics](https://www.women.com/category/politics/)
-        
-        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
-        
-        ### [5 Celeb Parents Who Are Loud & Proud Supporters Of Their Trans And Non-Binary Children](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
-        
-        Unlike generations before, our understanding of sexuality and gender is finally catching up with the experiences others have had since the dawn of time.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
-        
 
 More Stories
 ------------
 
+*  [![Gabrielle Union and Dwayne Wade at a basketball event](https://www.women.com/img/gallery/5-celeb-parents-who-are-loud-proud-supporters-of-their-trans-and-non-binary-children/intro-1731522385.jpg)](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+    
+    [Politics](https://www.women.com/category/politics/)
+    
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    
+    ### [5 Celeb Parents Who Are Loud & Proud Supporters Of Their Trans And Non-Binary Children](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+    
+    Unlike generations before, our understanding of sexuality and gender is finally catching up with the experiences others have had since the dawn of time.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+    
 *  [![Emma Watson posing at the British Academy Film Awards](https://www.women.com/img/gallery/try-emma-watsons-viral-daily-journaling-practice-for-a-simple-effective-mindfulness-habit/intro-1731619992.jpg)](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
     
     [Living](https://www.women.com/category/living/)
@@ -393,18 +405,6 @@ More Stories
     Celebrity glow-downs don't have to be bad. As Lady Gaga and Angelina Jolie age, they're leaving behind bold statement pieces in favor of timeless classics.
     
     By Amanda Chatel [Read More](https://www.women.com/1701703/biggest-glow-downs-celebrity-fashion-history/)
-    
-*  [![Kourtney Kardashian kissing Travis Barker](https://www.women.com/img/gallery/10-awkward-celebrity-pda-moments-we-wish-we-didnt-have-to-see/intro-1730224757.jpg)](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
-    
-    ### [10 Awkward Celebrity PDA Moments We Wish We Didn't Have To See](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
-    
-    We love to see celebrity couples happy, but sometimes their public displays of affection get a little too steamy. These awkward moments were definitely NSFW.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1700545/awkward-celebrity-pda-moments/)
     
 
 Back
