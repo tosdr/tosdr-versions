@@ -190,7 +190,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Preview** | Peter Bence: Pianosphere in Paris](https://video.nhpbs.org/video/peter-bence-pianosphere-in-paris-preview-bfh7p8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Leonard Cohen - Live in Dublin](https://video.nhpbs.org/video/leonard-cohen-live-in-dublin-preview-znqhho?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Vanessa Haynes performs "O Thou That Tellest Good Tidings to Zion"** | Too Hot to Handel: The Gospel Messiah](https://video.nhpbs.org/video/vanessa-haynes-performs-o-thou-that-tellest-good-tidings-to-zion-xno2hn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**November 21, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-21-2024-pbs-news-hour-full-episode-1732165201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Gaetz ends AG bid amid sex trafficking allegations** | PBS News Hour](https://video.nhpbs.org/video/gaetz-out-1732227813?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Broken Promises And Black Revolutionary War Soldiers** | In the Margins](https://video.nhpbs.org/video/broken-promises-and-black-revolutionary-war-soldiers-pe3hz7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Lacewing LOVE is Noisier Than You Think** | Deep Look](https://video.nhpbs.org/video/lacewing-love-is-noisier-than-you-think-dbjq3s?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
