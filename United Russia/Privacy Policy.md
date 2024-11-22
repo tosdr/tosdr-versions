@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Женское движение Единой России» запустило в новом формате проект «Ты не одна» по поддержке жён участников СВО](https://cdn.er.ru/media/news/November2024/DTOhxRs0pMIZXnDBf6ir-small.JPG)](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-zapustilo-v-novom-formate-proekt-ty-ne-odna-po-podderzhke-zhyon-uchastnikov-svo)
+
+[«Женское движение Единой России» запустило в новом формате проект «Ты не одна» по поддержке жён участников СВО](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-zapustilo-v-novom-formate-proekt-ty-ne-odna-po-podderzhke-zhyon-uchastnikov-svo)
+
+[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#помощьсемьяммобилизованных](https://er.ru/activity/news?tags%5B0%5D=1093275)
+
+Сегодня 18:12
+
+[![Марат Хуснуллин обсудил с Владимиром Якушевым участие «Единой России» в программах благоустройства, развития дорог и модернизации ЖКХ](https://cdn.er.ru/media/news/November2024/HFJx4cQr3hOXZKP9HHdi-small.JPG)](https://er.ru/activity/news/marat-husnullin-obsudil-s-vladimirom-yakushevym-uchastie-edinoj-rossii-v-programmah-blagoustrojstva-razvitiya-dorog-i-modernizacii-zhkh)
+
+[Марат Хуснуллин обсудил с Владимиром Якушевым участие «Единой России» в программах благоустройства, развития дорог и модернизации ЖКХ](https://er.ru/activity/news/marat-husnullin-obsudil-s-vladimirom-yakushevym-uchastie-edinoj-rossii-v-programmah-blagoustrojstva-razvitiya-dorog-i-modernizacii-zhkh)
+
+[#Хуснуллин](https://er.ru/activity/news?tags%5B0%5D=2916) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#дороги](https://er.ru/activity/news?tags%5B0%5D=872)
+
+Сегодня 16:52
+
+[![«Единая Россия» представила лучшие практики организации работы медицинских студотрядов в вузах](https://cdn.er.ru/media/news/November2024/gpkpfl3viaeVLaqo7DkP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predstavila-luchshie-praktiki-organizacii-raboty-medicinskih-studotryadov-v-vuzah)
+
+[«Единая Россия» представила лучшие практики организации работы медицинских студотрядов в вузах](https://er.ru/activity/news/edinaya-rossiya-predstavila-luchshie-praktiki-organizacii-raboty-medicinskih-studotryadov-v-vuzah)
+
+[#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#Дрожжина](https://er.ru/activity/news?tags%5B0%5D=79696) [#Сидорова](https://er.ru/activity/news?tags%5B0%5D=12624) [#Семенова](https://er.ru/activity/news?tags%5B0%5D=1077) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#круглыйстол](https://er.ru/activity/news?tags%5B0%5D=108586) [#студотряд](https://er.ru/activity/news?tags%5B0%5D=23087) [#медики](https://er.ru/activity/news?tags%5B0%5D=648) [#студенты-медики](https://er.ru/activity/news?tags%5B0%5D=16719)
+
+Сегодня 15:00
+
 [![Врио губернатора ЕАО Мария Костюк возглавила региональное отделение «Единой России»](https://cdn.er.ru/media/news/November2024/gkXUAbDDhI3bQDQwSApg-small.jpg)](https://er.ru/activity/news/vrio-gubernatora-eao-mariya-kostyuk-vozglavila-regionalnoe-otdelenie-edinoj-rossii)
 
 [Врио губернатора ЕАО Мария Костюк возглавила региональное отделение «Единой России»](https://er.ru/activity/news/vrio-gubernatora-eao-mariya-kostyuk-vozglavila-regionalnoe-otdelenie-edinoj-rossii)
@@ -320,30 +344,6 @@
 [Дмитрий Медведев согласовал кандидатуры на должности секретарей реготделений «Единой России»](https://er.ru/activity/news/dmitrij-medvedev-soglasoval-kandidatury-na-dolzhnosti-sekretarej-regotdelenij-edinoj-rossii)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#собеседования](https://er.ru/activity/news?tags%5B0%5D=118216) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Гольдштейн](https://er.ru/activity/news?tags%5B0%5D=1795) [#Костюк](https://er.ru/activity/news?tags%5B0%5D=19523) [#Первышов](https://er.ru/activity/news?tags%5B0%5D=101048) [#Бусаргин](https://er.ru/activity/news?tags%5B0%5D=105265) [#Бельский](https://er.ru/activity/news?tags%5B0%5D=1092725) [#Ялбаков](https://er.ru/activity/news?tags%5B0%5D=1095897) [#Республика Коми](https://er.ru/activity/news?tags%5B0%5D=1026) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#Еврейская автономная область](https://er.ru/activity/news?tags%5B0%5D=8459) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#Республика Алтай](https://er.ru/activity/news?tags%5B0%5D=3973)
-
-21.11.24
-
-[![Госдума приняла бюджет на 2025-2027 годы с ключевыми поправками «Единой России»](https://cdn.er.ru/media/news/November2024/FDkX3rwAMlw90zpW8MQU-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-byudzhet-na-2025-2027-gody-s-klyuchevymi-popravkami-edinoj-rossii)
-
-[Госдума приняла бюджет на 2025-2027 годы с ключевыми поправками «Единой России»](https://er.ru/activity/news/gosduma-prinyala-byudzhet-na-2025-2027-gody-s-klyuchevymi-popravkami-edinoj-rossii)
-
-[#федеральныйбюджет](https://er.ru/activity/news?tags%5B0%5D=123642) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094)
-
-21.11.24
-
-[![Дмитрий Медведев: Правящий характер «Единой России» – это не преимущество, а ответственность](https://cdn.er.ru/media/news/November2024/KV1UyKkswzI4sLfDbvog-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-pravyashij-harakter-edinoj-rossii-eto-ne-preimushestvo-a-otvetstvennost)
-
-[Дмитрий Медведев: Правящий характер «Единой России» – это не преимущество, а ответственность](https://er.ru/activity/news/dmitrij-medvedev-pravyashij-harakter-edinoj-rossii-eto-ne-preimushestvo-a-otvetstvennost)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#секретарьреготделения](https://er.ru/activity/news?tags%5B0%5D=147029) [#кандидаты](https://er.ru/activity/news?tags%5B0%5D=130915) [#собеседование](https://er.ru/activity/news?tags%5B0%5D=10221) [#народнаяпрограммаЕР](https://er.ru/activity/news?tags%5B0%5D=1093363) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094)
-
-21.11.24
-
-[![Роман Бусаргин, губернатор Саратовской области: «Единая Россия» выстроила в регионе системную работу по поддержке участников СВО](https://cdn.er.ru/media/news/November2024/42QZytoT1sSIBNKIaocc-small.JPG)](https://er.ru/activity/news/roman-busargin-gubernator-saratovskoj-oblasti-edinaya-rossiya-vystroila-v-regione-sistemnuyu-rabotu-po-podderzhke-uchastnikov-svo)
-
-[Роман Бусаргин, губернатор Саратовской области: «Единая Россия» выстроила в регионе системную работу по поддержке участников СВО](https://er.ru/activity/news/roman-busargin-gubernator-saratovskoj-oblasti-edinaya-rossiya-vystroila-v-regione-sistemnuyu-rabotu-po-podderzhke-uchastnikov-svo)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#собеседование](https://er.ru/activity/news?tags%5B0%5D=10221)
 
 21.11.24
 
