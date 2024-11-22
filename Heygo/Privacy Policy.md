@@ -542,6 +542,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![12 idyllic beach destinations in Southern Europe](https://media.restless.co.uk/uploads/2023/08/idyllic-beach-destinations-in-southern-europe-768x512.jpg)](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
+
+### [12 idyllic beach holidays in Southern Europe](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
+
+[Read More »](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
+
 [![From Arctic to Equator - 11 amazing adventures for every season](https://media.restless.co.uk/uploads/2024/10/from-arctic-to-equator-11-amazing-adventures-for-every-season-768x287.jpg)](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)
 
 ### [From Arctic to Equator – 11 amazing adventures for every season](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)  
@@ -571,12 +577,6 @@ New in travel
 ### [10 of the most popular holidays in 2025](https://restless.co.uk/travel/the-most-popular-holidays/)
 
 [Read More »](https://restless.co.uk/travel/the-most-popular-holidays/)
-
-[![10 unique holiday destinations](https://media.restless.co.uk/uploads/2022/12/unique-holiday-destinations-768x512.jpg)](https://restless.co.uk/travel/unique-holiday-destinations/)
-
-### [10 unique holiday destinations](https://restless.co.uk/travel/unique-holiday-destinations/)
-
-[Read More »](https://restless.co.uk/travel/unique-holiday-destinations/)
 
 Popular travel guides
 ---------------------
