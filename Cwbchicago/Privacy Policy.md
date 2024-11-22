@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/narveal-raggs-lakeside-food-wine-spirits-326x245.jpg)](https://cwbchicago.com/2024/11/parolee-had-a-machine-gun-while-trying-to-burglarize-lincoln-park-liquor-store-prosecutors-say.html "Parolee had a machine gun while trying to burglarize Lincoln Park liquor store, prosecutors say")
+
+Lincoln Park
+
+### [Parolee had a machine gun while trying to burglarize Lincoln Park liquor store, prosecutors say](https://cwbchicago.com/2024/11/parolee-had-a-machine-gun-while-trying-to-burglarize-lincoln-park-liquor-store-prosecutors-say.html "Parolee had a machine gun while trying to burglarize Lincoln Park liquor store, prosecutors say")
+
+[November 20, 2024 10:09 AM](https://cwbchicago.com/2024/11)
+
+A man on parole for his fourth felony firearms conviction had a machine gun as he tried to burglarize a Lincoln Park liquor store, prosecutors say.[](https://cwbchicago.com/2024/11/parolee-had-a-machine-gun-while-trying-to-burglarize-lincoln-park-liquor-store-prosecutors-say.html "Parolee had a machine gun while trying to burglarize Lincoln Park liquor store, prosecutors say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jorber-Acosta-326x245.jpg)](https://cwbchicago.com/2024/11/migrant-charged-with-trying-to-murder-co-worker-who-made-a-joke-about-him-see-how-you-die.html "Migrant charged with trying to murder co-worker who made a joke about him; ‘See how you die?’")
+
+Back of the Yards
+
+### [Migrant charged with trying to murder co-worker who made a joke about him; ‘See how you die?’](https://cwbchicago.com/2024/11/migrant-charged-with-trying-to-murder-co-worker-who-made-a-joke-about-him-see-how-you-die.html "Migrant charged with trying to murder co-worker who made a joke about him; ‘See how you die?’")
+
+[November 20, 2024 7:00 AM](https://cwbchicago.com/2024/11)
+
+CHICAGO — A Venezuelan migrant is charged with attempted murder, accused of trying to shoot a co-worker who made a joke at his expense. “See how you die?” Jorber Pena Acosta allegedly asked the man before opening fire on him outside their workplace last Thursday afternoon. Prosecutors said Acosta, 26, the 29-year-old victim, and others[](https://cwbchicago.com/2024/11/migrant-charged-with-trying-to-murder-co-worker-who-made-a-joke-about-him-see-how-you-die.html "Migrant charged with trying to murder co-worker who made a joke about him; ‘See how you die?’")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/5600-leland-326x245.jpg)](https://cwbchicago.com/2024/11/man-suspected-of-murdering-wife-on-nw-side-was-on-pretrial-release-for-a-felony-domestic-violence-case.html "Man suspected of murdering wife on NW Side was on pretrial release for a felony domestic violence case")
 
 Portage Park
@@ -252,26 +272,6 @@ Portage Park
 [November 20, 2024 5:56 AM](https://cwbchicago.com/2024/11)
 
 The man police believe is responsible for fatally stabbing his wife in Portage Park on Tuesday afternoon, later found dead inside a parked car near the attack site, was on pretrial release for felony domestic violence charges involving the woman he killed, court records show.[](https://cwbchicago.com/2024/11/man-suspected-of-murdering-wife-on-nw-side-was-on-pretrial-release-for-a-felony-domestic-violence-case.html "Man suspected of murdering wife on NW Side was on pretrial release for a felony domestic violence case")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Marvell-Colone-and-suspects-326x245.jpg)](https://cwbchicago.com/2024/11/3rd-person-charged-with-robbing-woman-on-the-red-line-after-his-mom-called-911-to-turn-him-in.html "3rd person charged with robbing woman on the Red Line after his mom called 911 to turn him in")
-
-CTA
-
-### [3rd person charged with robbing woman on the Red Line after his mom called 911 to turn him in](https://cwbchicago.com/2024/11/3rd-person-charged-with-robbing-woman-on-the-red-line-after-his-mom-called-911-to-turn-him-in.html "3rd person charged with robbing woman on the Red Line after his mom called 911 to turn him in")
-
-[November 19, 2024 12:32 PM](https://cwbchicago.com/2024/11)
-
-The police decision to release CTA surveillance photos of five people suspected of robbing a woman on the Red Line continues to pay dividends as prosecutors on Monday charged a third person with participating in the crime.[](https://cwbchicago.com/2024/11/3rd-person-charged-with-robbing-woman-on-the-red-line-after-his-mom-called-911-to-turn-him-in.html "3rd person charged with robbing woman on the Red Line after his mom called 911 to turn him in")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb16-326x245.jpg)](https://cwbchicago.com/2024/11/man-found-fatally-shot-near-school-playground-that-used-to-be-served-by-shotspotter.html "Man found fatally shot near school playground that used to be served by ShotSpotter")
-
-Austin
-
-### [Man found fatally shot near school playground that used to be served by ShotSpotter](https://cwbchicago.com/2024/11/man-found-fatally-shot-near-school-playground-that-used-to-be-served-by-shotspotter.html "Man found fatally shot near school playground that used to be served by ShotSpotter")
-
-[November 19, 2024 7:21 AM](https://cwbchicago.com/2024/11)
-
-Police are conducting a death investigation after a man was found fatally shot near a school playground in the Austin neighborhood Monday night. The 66-year-old was found shortly after 11 p.m. in the 1800 block of North Sayre, a neighborhood that used to be served by the city’s ShotSpotter gunfire detection network.[](https://cwbchicago.com/2024/11/man-found-fatally-shot-near-school-playground-that-used-to-be-served-by-shotspotter.html "Man found fatally shot near school playground that used to be served by ShotSpotter")
 
 Search
 
