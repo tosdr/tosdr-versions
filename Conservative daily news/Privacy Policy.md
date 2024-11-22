@@ -2,6 +2,7 @@ Thursday, November 21 2024
 
 Breaking News
 
+* [Biden Admin Moves To Forgive Multi-Billion Dollar Loan To Ukraine](https://www.conservativedailynews.com/2024/11/biden-admin-moves-to-forgive-multi-billion-dollar-loan-to-ukraine/)
 * [Matt Gaetz Withdraws From Attorney General Nomination](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
 * [Foreign Officials Make Serious Push For Global Climate Taxes Ahead Of Trump’s Second Term](https://www.conservativedailynews.com/2024/11/foreign-officials-make-serious-push-for-global-climate-taxes-ahead-of-trumps-second-term/)
 * [Have the Lawless Democrats Learned their Lesson Yet?](https://www.conservativedailynews.com/2024/11/have-the-lawless-democrats-learned-their-lesson-yet/)
@@ -9,7 +10,6 @@ Breaking News
 * [President Joe Biden’s Schedule for Thursday, November 21, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-21-2024/)
 * [White House Press Briefing with Karine Jean-Pierre – 11/21/24](https://www.conservativedailynews.com/2024/11/white-house-press-briefing-with-karine-jean-pierre-11-21-24/)
 * [Joe Rogan Rips Into Bill Gates Over COVID Profits, Claims Vaccine Push Ruined Millions Of Lives](https://www.conservativedailynews.com/2024/11/joe-rogan-rips-into-bill-gates-over-covid-profits-claims-vaccine-push-ruined-millions-of-lives/)
-* [Our Elections Need To Be Fixed Before The 2026 Midterms](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![Ukraine Zelenskyy Biden](https://www.conservativedailynews.com/wp-content/uploads/2023/12/image-22-220x150.png)](https://www.conservativedailynews.com/2024/11/biden-admin-moves-to-forgive-multi-billion-dollar-loan-to-ukraine/)
+    
+    [Biden Admin Moves To Forgive Multi-Billion Dollar Loan To Ukraine](https://www.conservativedailynews.com/2024/11/biden-admin-moves-to-forgive-multi-billion-dollar-loan-to-ukraine/)
+    
+    November 21, 2024
+    
 * [![breaking news banner](https://www.conservativedailynews.com/wp-content/uploads/2018/02/breaking-news-banner.jpg)](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
     
     [Matt Gaetz Withdraws From Attorney General Nomination](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
@@ -172,25 +178,19 @@ Recent Posts
     
     November 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-signing-bill-Jill-Biden-supervising-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-21-2024/)
-    
-    [President Joe Biden’s Schedule for Thursday, November 21, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-21-2024/)
-    
-    November 21, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [PF-1 EDC Bag: Fast Access Concealed Carry EDC Bag For The Unpredictable](https://www.thegunpage.com/pf-1-edc-bag-fast-access-concealed-carry-edc-bag-for-the-unpredictable/10612035)
+* [3D Printer Software Can’t Stop Gun Making](https://www.thegunpage.com/3d-printer-software-cant-stop-gun-making/10612033)
 * [POF-USA Launches Light Modular Rifle (LMR) BASE Rifle](https://www.thegunpage.com/pof-usa-launches-light-modular-rifle-lmr-base-rifle/10612031)
 * [Mother Confronts Man Texting Her Daughter Before He Is Shot By Police](https://www.thegunpage.com/mother-confronts-man-texting-her-daughter-before-he-is-shot-by-police/10612026)
 * [GOA Reaction: PA Supreme Court Guts Philadelphia Gun Control, Upholds State Preemption Law](https://www.thegunpage.com/goa-reaction-pa-supreme-court-guts-philadelphia-gun-control-upholds-state-preemption-law/10612025)
 * [Freedom Munitions Moves Jobs To Idaho From Nevada](https://www.thegunpage.com/freedom-munitions-moves-jobs-to-idaho-from-nevada/10612023)
 * [Dem Governors Seek to Hamper Trump; Ignore the Will of the People](https://www.thegunpage.com/dem-governors-seek-to-hamper-trump-ignore-the-will-of-the-people/10612022)
 * [TFB Behind the Gun #141: Cold War Guns & Competition w/ Matt & Dan](https://www.thegunpage.com/tfb-behind-the-gun-141-cold-war-guns-competition-w-matt-dan/10612024)
+* [Guide To Building Stage Speed](https://www.thegunpage.com/guide-to-building-stage-speed/10612032)
 * [Armed Rideshare Drivers May Be An Option Soon For Texans](https://www.thegunpage.com/armed-rideshare-drivers-may-be-an-option-soon-for-texans/10612021)
-* [Bill would let police ‘briefly seize’ firearms during domestics](https://www.thegunpage.com/bill-would-let-police-briefly-seize-firearms-during-domestics/10612019)
-* [More Than 6,000 Shooters Experience An Improved Range: 1961 National Matches](https://www.thegunpage.com/more-than-6000-shooters-experience-an-improved-range-1961-national-matches/10612018)
-* [Best Concealed Carry Revolvers](https://www.thegunpage.com/best-concealed-carry-revolvers/10612014)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
