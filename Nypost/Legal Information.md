@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Trump's attorney general pick Matt Gaetz withdraws from consideration](https://nypost.com/2024/11/21/us-news/matt-gaetz-withdraws-from-attorney-general-consideration/)
-
 Privacy Notice Highlights
 =========================
 
