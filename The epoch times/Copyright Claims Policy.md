@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [SEC Chair to Step Down Upon Trump Administration’s Return](https://www.theepochtimes.com/us/sec-chair-to-step-down-upon-trump-administrations-return-5763909)
+* [Job Market Shows Mixed Signals as Layoffs Remain Low, Rehiring Slows](https://www.theepochtimes.com/us/job-market-shows-mixed-signals-as-layoffs-remain-low-but-rehiring-slows-5764014)
     
-    NEW By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![SEC Chair to Step Down Upon Trump Administration’s Return](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Job Market Shows Mixed Signals as Layoffs Remain Low, Rehiring Slows](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![SEC Chair to Step Down Upon Trump Administration’s Return](https://img.theepochtimes.com/assets/uploads/2024/09/24/id5729311-09242024-DSC00870-Gary-Gensler-205x123.jpg.webp)](https://www.theepochtimes.com/us/sec-chair-to-step-down-upon-trump-administrations-return-5763909)
-* [Trump Plans to Use Impoundment to Cut Spending—What Is It?](https://www.theepochtimes.com/article/trump-plans-to-use-impoundment-to-cut-spending-what-is-it-5761779)
+    ![Job Market Shows Mixed Signals as Layoffs Remain Low, Rehiring Slows](https://img.theepochtimes.com/assets/uploads/2024/08/22/id5710989-GettyImages-2160789373-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/job-market-shows-mixed-signals-as-layoffs-remain-low-but-rehiring-slows-5764014)
+* [ICE Deportation Officer Arrested for Identity Theft, Leaking Confidential Records](https://www.theepochtimes.com/us/ice-deportation-officer-arrested-for-identity-theft-leaking-confidential-records-5764096)
     
-    NEW By [Lawrence Wilson](https://www.theepochtimes.com/author/lawrence-wilson)
+    2hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
-    [![Trump Plans to Use Impoundment to Cut Spending—What Is It?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![ICE Deportation Officer Arrested for Identity Theft, Leaking Confidential Records](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Plans to Use Impoundment to Cut Spending—What Is It?](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763925-Trump-impoundment-9-205x123.jpg.webp)](https://www.theepochtimes.com/article/trump-plans-to-use-impoundment-to-cut-spending-what-is-it-5761779)
-* [Record-Setting Travel Expected for Thanksgiving](https://www.theepochtimes.com/us/record-setting-travel-expected-for-thanksgiving-5763553)
-    
-    1hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Record-Setting Travel Expected for Thanksgiving](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Record-Setting Travel Expected for Thanksgiving](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5764015-10202024-DSC04975-Washington-DC-Airport-DCA-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/record-setting-travel-expected-for-thanksgiving-5763553)
-* [Buttigieg Defends New Airline Rules After CEOs Make Critical Comments](https://www.theepochtimes.com/business/buttigieg-defends-new-airline-rules-after-ceos-make-critical-comments-5763886)
-    
-    1hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
-    
-    [![Buttigieg Defends New Airline Rules After CEOs Make Critical Comments](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Buttigieg Defends New Airline Rules After CEOs Make Critical Comments](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5764017-04092024-DSC04008-Sen-Chris-Van-Hollen-LSedit-205x123.jpg)](https://www.theepochtimes.com/business/buttigieg-defends-new-airline-rules-after-ceos-make-critical-comments-5763886)
-* [High-Dose Vitamin C Doubles Pancreatic Cancer Patient Survival Rates: Clinical Trial](https://www.theepochtimes.com/health/high-dose-vitamin-c-doubles-pancreatic-cancer-patient-survival-rates-clinical-trial-5763201)
-    
-    2hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
-    
-    [![High-Dose Vitamin C Doubles Pancreatic Cancer Patient Survival Rates: Clinical Trial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![High-Dose Vitamin C Doubles Pancreatic Cancer Patient Survival Rates: Clinical Trial](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763882-IV-Vitamin-C-205x123.jpg.webp)](https://www.theepochtimes.com/health/high-dose-vitamin-c-doubles-pancreatic-cancer-patient-survival-rates-clinical-trial-5763201)
-* [Mexican President Says She Has Plan to Receive Deported Mexicans From US](https://www.theepochtimes.com/world/mexican-president-says-she-has-plan-to-receive-deported-mexicans-from-us-5763781)
+    ![ICE Deportation Officer Arrested for Identity Theft, Leaking Confidential Records](https://img.theepochtimes.com/assets/uploads/2020/07/25/ICE-3-205x123.jpg.webp)](https://www.theepochtimes.com/us/ice-deportation-officer-arrested-for-identity-theft-leaking-confidential-records-5764096)
+* [FCC Chair to Step Down Upon Trump’s Inauguration](https://www.theepochtimes.com/us/fcc-chair-to-step-down-upon-trumps-inauguration-5763914)
     
     2hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
-    [![Mexican President Says She Has Plan to Receive Deported Mexicans From US](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FCC Chair to Step Down Upon Trump’s Inauguration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Mexican President Says She Has Plan to Receive Deported Mexicans From US](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5764018-cbp-officer-2-LSedit-205x123.jpg)](https://www.theepochtimes.com/world/mexican-president-says-she-has-plan-to-receive-deported-mexicans-from-us-5763781)
-* [Senators on Both Sides Reprimand Visa, Mastercard Over Swipe Fees](https://www.theepochtimes.com/us/senators-on-both-sides-reprimand-visa-mastercard-over-swipe-fees-5763777)
+    ![FCC Chair to Step Down Upon Trump’s Inauguration](https://img.theepochtimes.com/assets/uploads/2024/07/26/id5694210-GettyImages-1388801318-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/fcc-chair-to-step-down-upon-trumps-inauguration-5763914)
+* [What Should Trump Do About the Border on Day 1?—Todd Bensman](https://www.theepochtimes.com/epochtv/what-should-trump-do-about-the-border-on-day-1-todd-bensman-5763204)
     
-    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    3hr By [Jan Jekielek](https://www.theepochtimes.com/author/jan-jekielek), Epoch TV
     
-    [![Senators on Both Sides Reprimand Visa, Mastercard Over Swipe Fees](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![What Should Trump Do About the Border on Day 1?—Todd Bensman](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Senators on Both Sides Reprimand Visa, Mastercard Over Swipe Fees](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763907-GettyImages-2184988045-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/senators-on-both-sides-reprimand-visa-mastercard-over-swipe-fees-5763777)
-* [Brazilian Authorities Indict Former President Bolsonaro on Coup Allegations](https://www.theepochtimes.com/world/brazilian-authorities-indict-former-president-bolsonaro-on-coup-allegations-5763880)
+    ![What Should Trump Do About the Border on Day 1?—Todd Bensman](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763747-241120-TTP_Todd-Bensman_HD_TN-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/what-should-trump-do-about-the-border-on-day-1-todd-bensman-5763204)
+* [Women in Military ‘Make Us Stronger’: Defense Secretary](https://www.theepochtimes.com/us/women-in-military-make-us-stronger-defense-secretary-austin-5764063)
     
-    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Brazilian Authorities Indict Former President Bolsonaro on Coup Allegations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Women in Military ‘Make Us Stronger’: Defense Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Brazilian Authorities Indict Former President Bolsonaro on Coup Allegations](https://img.theepochtimes.com/assets/uploads/2024/02/08/id5583719-Jair-BolsonaroKO-205x123.jpg.webp)](https://www.theepochtimes.com/world/brazilian-authorities-indict-former-president-bolsonaro-on-coup-allegations-5763880)
-* [FEMA Director Sounds Alarm Over Disaster Funding After Recent Hurricanes](https://www.theepochtimes.com/us/fema-director-sounds-alarm-over-disaster-funding-after-recent-hurricanes-5763868)
+    ![Women in Military ‘Make Us Stronger’: Defense Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753135-lloyd-austin-feb-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/women-in-military-make-us-stronger-defense-secretary-austin-5764063)
+* [US Imposes New Sanctions on Dozens of Russian Financial Institutions](https://www.theepochtimes.com/world/us-imposes-new-sanctions-on-dozens-of-russian-financial-institutions-5763845)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    4hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![FEMA Director Sounds Alarm Over Disaster Funding After Recent Hurricanes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Imposes New Sanctions on Dozens of Russian Financial Institutions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FEMA Director Sounds Alarm Over Disaster Funding After Recent Hurricanes](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758475-Deanne-Criswell-GettyImages-1646719042.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-director-sounds-alarm-over-disaster-funding-after-recent-hurricanes-5763868)
-* [Beijing Denies Knowledge of Its Ship Being Monitored Following Baltic Sea Data Cable Cuts](https://www.theepochtimes.com/world/china-denies-knowledge-of-its-ship-being-monitored-following-baltic-sea-data-cable-cuts-5763787)
+    ![US Imposes New Sanctions on Dozens of Russian Financial Institutions](https://img.theepochtimes.com/assets/uploads/2024/06/12/id5667871-2.download-28KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-imposes-new-sanctions-on-dozens-of-russian-financial-institutions-5763845)
+* [Forensic Pathologist Testifies in Daniel Penny Trial That Jordan Neely Didn’t Die of Chokehold](https://www.theepochtimes.com/us/forensic-pathologist-testifies-in-daniel-penny-trial-that-jordan-neely-did-not-die-of-chokehold-5763993)
     
-    3hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    4hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
-    [![Beijing Denies Knowledge of Its Ship Being Monitored Following Baltic Sea Data Cable Cuts](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Forensic Pathologist Testifies in Daniel Penny Trial That Jordan Neely Didn’t Die of Chokehold](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Beijing Denies Knowledge of Its Ship Being Monitored Following Baltic Sea Data Cable Cuts](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5764019-MK7-LSedit-205x123.jpg)](https://www.theepochtimes.com/world/china-denies-knowledge-of-its-ship-being-monitored-following-baltic-sea-data-cable-cuts-5763787)
+    ![Forensic Pathologist Testifies in Daniel Penny Trial That Jordan Neely Didn’t Die of Chokehold](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763999-GettyImages-2185407480-205x123.jpg.webp)](https://www.theepochtimes.com/us/forensic-pathologist-testifies-in-daniel-penny-trial-that-jordan-neely-did-not-die-of-chokehold-5763993)
+* [CDC Declares Listeria Outbreak From Boar’s Head Strain Over](https://www.theepochtimes.com/us/cdc-declares-listeria-outbreak-from-boars-head-strain-over-5763981)
+    
+    5hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    
+    [![CDC Declares Listeria Outbreak From Boar’s Head Strain Over](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![CDC Declares Listeria Outbreak From Boar’s Head Strain Over](https://img.theepochtimes.com/assets/uploads/2024/09/01/id5716510-boars-head-factory-AP24242774567718-205x123.jpg.webp)](https://www.theepochtimes.com/us/cdc-declares-listeria-outbreak-from-boars-head-strain-over-5763981)
+* [Inositol: A Sugar That Stabilizes Mood and Hormones–Here’s How to Get It](https://www.theepochtimes.com/health/inositol-a-sugar-that-stabilizes-mood-heres-how-to-get-it-5759038)
+    
+    5hr By [Sina McCullough](https://www.theepochtimes.com/expert/sina-mccullough)
+    
+    [![Inositol: A Sugar That Stabilizes Mood and Hormones–Here’s How to Get It](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Inositol: A Sugar That Stabilizes Mood and Hormones–Here’s How to Get It](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763978-Inositol_feature2-205x123.jpg.webp)](https://www.theepochtimes.com/health/inositol-a-sugar-that-stabilizes-mood-heres-how-to-get-it-5759038)
+* [Existing Home Sales Log First Year-Over-Year Increase in More Than 3 Years](https://www.theepochtimes.com/real-estate/existing-home-sales-log-first-year-over-year-increase-in-more-than-3-years-5763865)
+    
+    5hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
+    
+    [![Existing Home Sales Log First Year-Over-Year Increase in More Than 3 Years](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Existing Home Sales Log First Year-Over-Year Increase in More Than 3 Years](https://img.theepochtimes.com/assets/uploads/2024/08/13/id5705069-House-for-sale_2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/existing-home-sales-log-first-year-over-year-increase-in-more-than-3-years-5763865)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
