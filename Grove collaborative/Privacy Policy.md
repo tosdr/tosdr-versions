@@ -297,6 +297,7 @@ Support
 * [Investor Relations](https://investors.grove.co/)
 * [Recycling](https://community.grove.co/hc/en-us/articles/360052887091-How-can-I-recycle-my-used-and-empty-products)
 * [Blog](https://homeplanet.grove.co/)
+* [Guides & Tips](https://www.grove.co/blog/)
 * [Contact Us](https://community.grove.co/hc/en-us/requests/new)
 
 Shop
