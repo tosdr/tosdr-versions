@@ -593,3 +593,5 @@ Company
 © 2024 AnyDesk Software GmbH • [Terms & Conditions](https://anydesk.com/en/terms) • [Privacy Policy](https://anydesk.com/en/privacy) • [Legal Notice](https://anydesk.com/en/imprint)
 
 [](https://www.tiktok.com/@anydesksoftware "TikTok")[](https://twitter.com/anydesk "Twitter")[](https://www.reddit.com/r/AnyDesk/ "reddit")[](https://www.youtube.com/channel/UCFkLwT67lnyruZWVw78-NjA "YouTube")[](https://de.linkedin.com/company/anydesk-software-gmbh "LinkedIn")[](https://www.facebook.com/AnyDesk/ "Facebook")[](https://www.instagram.com/anydesksoftware/ "Instagram")
+
+![](https://px.ads.linkedin.com/collect/?pid=665812&fmt=gif)
