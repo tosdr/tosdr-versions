@@ -182,6 +182,12 @@ Hello, 你好!
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
+* [![江山快手](/img/wallpaper/pw01971.jpg)
+    
+    ###### 江山快手](https://www.pili.com.tw/img/wallpaper/pw01971.jpg)
+* [![蒲卅蠻](/img/wallpaper/pw01970.jpg)
+    
+    ###### 蒲卅蠻](https://www.pili.com.tw/img/wallpaper/pw01970.jpg)
 * [![吹刃小子](/img/wallpaper/pw01969.jpg)
     
     ###### 吹刃小子](https://www.pili.com.tw/img/wallpaper/pw01969.jpg)
@@ -206,12 +212,6 @@ Hello, 你好!
 * [![等活天羅](/img/wallpaper/pw01962.jpg)
     
     ###### 等活天羅](https://www.pili.com.tw/img/wallpaper/pw01962.jpg)
-* [![時間城主](/img/wallpaper/pw01961.jpg)
-    
-    ###### 時間城主](https://www.pili.com.tw/img/wallpaper/pw01961.jpg)
-* [![南宮取](/img/wallpaper/pw01960.jpg)
-    
-    ###### 南宮取](https://www.pili.com.tw/img/wallpaper/pw01960.jpg)
 
 [探索全部](https://www.pili.com.tw/wallpaper-browse.php)
 
