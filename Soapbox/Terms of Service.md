@@ -12,21 +12,23 @@ Menu icon Menu
 
 * [Shop Chevron down icon](https://www.soapboxsoaps.com/collections/all?sort_by=best-selling)
     
-    Best Sellers
+    [Best Sellers](https://www.soapboxsoaps.com/collections/all?sort_by=best-selling)
     
     * [Biotin Haircare](https://www.soapboxsoaps.com/products/biotin-superfruit-volumizing-haircare-bundle)
     * [Coconut Bath & Body](https://www.soapboxsoaps.com/products/coconut-nourishing-body-care-bundle)
     * [Vanilla Hand Soap](https://www.soapboxsoaps.com/products/vanilla-lily-blossom-nourishing-moisture-liquid-hand-soap-3-pack)
     * [Oh My Growth](https://www.soapboxsoaps.com/products/oh-my-growth-vitamin-booster-treatment)
+    * [All Best Sellers](https://www.soapboxsoaps.com/collections/all?sort_by=best-selling)
     
-    New Products
+    [New Products](https://www.soapboxsoaps.com/collections/all?sort_by=created-descending)
     
     * [Seasonal Hand Soaps](https://www.soapboxsoaps.com/collections/liquid-hand-soap)
     * [Holiday Favorites](https://www.soapboxsoaps.com/collections/holiday-shop-2024)
     * [Natural Deodorant](https://www.soapboxsoaps.com/products/coconut-vanilla-aluminum-free-deodorant)
     * [Luxe Bath Bombs](https://www.soapboxsoaps.com/products/bath-bomb-assorted-12-pack)
+    * [All New Products](https://www.soapboxsoaps.com/collections/all?sort_by=created-descending)
     
-    Hair Care
+    [Hair Care](https://www.soapboxsoaps.com/collections/haircare)
     
     * [Shampoos](https://www.soapboxsoaps.com/collections/shampoos)
     * [Conditioners](https://www.soapboxsoaps.com/collections/conditioners)
@@ -34,8 +36,9 @@ Menu icon Menu
     * [Conditioner Bars](https://www.soapboxsoaps.com/collections/conditioner-bars)
     * [Treatments](https://www.soapboxsoaps.com/collections/treatments)
     * [Stylers](https://www.soapboxsoaps.com/collections/stylers)
+    * [All Hair Care](https://www.soapboxsoaps.com/collections/haircare)
     
-    Bath & Body Care
+    [Bath & Body Care](https://www.soapboxsoaps.com/collections/all-personal-care)
     
     * [Body Washes](https://www.soapboxsoaps.com/collections/body-wash)
     * [Lotions](https://www.soapboxsoaps.com/collections/body-lotion)
@@ -43,13 +46,15 @@ Menu icon Menu
     * [Bar Soaps](https://www.soapboxsoaps.com/collections/bar-soap)
     * [Bath Bombs](https://www.soapboxsoaps.com/collections/bath-bombs)
     * [Body Scrubs](https://www.soapboxsoaps.com/collections/body-scrubs)
+    * [All Bath & Body Care](https://www.soapboxsoaps.com/collections/all-personal-care)
     
-    Hand Care
+    [Hand Care](https://www.soapboxsoaps.com/collections/hand-care)
     
     * [Liquid Hand Soap](https://www.soapboxsoaps.com/collections/liquid-hand-soap)
     * [Foaming Hand Soap](https://www.soapboxsoaps.com/collections/foaming-hand-soap)
-    * [Lotion](https://www.soapboxsoaps.com/collections/body-lotion)
     * [Hand Soap Refills](https://www.soapboxsoaps.com/collections/refill-hand-soap)
+    * [Lotion](https://www.soapboxsoaps.com/collections/body-lotion)
+    * [All Hand Care](https://www.soapboxsoaps.com/collections/hand-care)
     
     [![Shop bundles](//www.soapboxsoaps.com/cdn/shop/files/image_5_300x300.jpg?v=1731095560)
     
@@ -85,6 +90,7 @@ Search icon Search
     * [Coconut Bath & Body](https://www.soapboxsoaps.com/products/coconut-nourishing-body-care-bundle)
     * [Vanilla Hand Soap](https://www.soapboxsoaps.com/products/vanilla-lily-blossom-nourishing-moisture-liquid-hand-soap-3-pack)
     * [Oh My Growth](https://www.soapboxsoaps.com/products/oh-my-growth-vitamin-booster-treatment)
+    * [All Best Sellers](https://www.soapboxsoaps.com/collections/all?sort_by=best-selling)
     
     New Products
     
@@ -92,6 +98,7 @@ Search icon Search
     * [Holiday Favorites](https://www.soapboxsoaps.com/collections/holiday-shop-2024)
     * [Natural Deodorant](https://www.soapboxsoaps.com/products/coconut-vanilla-aluminum-free-deodorant)
     * [Luxe Bath Bombs](https://www.soapboxsoaps.com/products/bath-bomb-assorted-12-pack)
+    * [All New Products](https://www.soapboxsoaps.com/collections/all?sort_by=created-descending)
     
     Hair Care
     
@@ -101,6 +108,7 @@ Search icon Search
     * [Conditioner Bars](https://www.soapboxsoaps.com/collections/conditioner-bars)
     * [Treatments](https://www.soapboxsoaps.com/collections/treatments)
     * [Stylers](https://www.soapboxsoaps.com/collections/stylers)
+    * [All Hair Care](https://www.soapboxsoaps.com/collections/haircare)
     
     Bath & Body Care
     
@@ -110,13 +118,15 @@ Search icon Search
     * [Bar Soaps](https://www.soapboxsoaps.com/collections/bar-soap)
     * [Bath Bombs](https://www.soapboxsoaps.com/collections/bath-bombs)
     * [Body Scrubs](https://www.soapboxsoaps.com/collections/body-scrubs)
+    * [All Bath & Body Care](https://www.soapboxsoaps.com/collections/all-personal-care)
     
     Hand Care
     
     * [Liquid Hand Soap](https://www.soapboxsoaps.com/collections/liquid-hand-soap)
     * [Foaming Hand Soap](https://www.soapboxsoaps.com/collections/foaming-hand-soap)
-    * [Lotion](https://www.soapboxsoaps.com/collections/body-lotion)
     * [Hand Soap Refills](https://www.soapboxsoaps.com/collections/refill-hand-soap)
+    * [Lotion](https://www.soapboxsoaps.com/collections/body-lotion)
+    * [All Hand Care](https://www.soapboxsoaps.com/collections/hand-care)
     
     [![Shop bundles](//www.soapboxsoaps.com/cdn/shop/files/image_5_300x300.jpg?v=1731095560)
     
