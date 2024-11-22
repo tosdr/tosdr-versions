@@ -1,5 +1,9 @@
 [![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/)
 
+en
+
+[DE](https://wire.com/de/datenschutz-und-agb)
+
 * Products
     
     * [Features](https://wire.com/en/features)
@@ -22,6 +26,9 @@
     
 * [Plans & Pricing](https://wire.com/en/pricing)
     
+
+* [English](https://wire.com/en/legal)
+* [Deutsch](https://wire.com/de/datenschutz-und-agb)
 
 [Log in](https://app.wire.com/) [Contact Sales](https://wire.com/en/contact-sales)
 
