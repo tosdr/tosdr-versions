@@ -94,7 +94,7 @@ Suggest an edit to this page, or provide/view feedback for this page.
 
 Home Assistant is a project from the [Open Home Foundation](https://www.openhomefoundation.org/), sponsored by [Nabu Casa](https://www.nabucasa.com/).
 
-#### Join us and contribute!
+### Join us and contribute!
 
 * [GitHub repo](https://github.com/home-assistant/)
 * [Developers Portal](https://developers.home-assistant.io/)
@@ -104,19 +104,19 @@ Home Assistant is a project from the [Open Home Foundation](https://www.openhome
 * [Reporting issues](https://www.home-assistant.io/help/reporting_issues/)
 * [Community Merch Store](https://home-assistant-store.creator-spring.com/)
 
-#### System status
+### System status
 
 * [Integration Alerts](https://alerts.home-assistant.io/)
 * [Security Alerts](https://www.home-assistant.io/security/)
 * [System Status](https://status.home-assistant.io/)
 
-#### Companion apps
+### Companion apps
 
 * [iOS and Apple devices](https://apps.apple.com/us/app/home-assistant/id1099568401)
 * [Android and Wear OS](https://play.google.com/store/apps/details?id=io.homeassistant.companion.android)
 * [...and more!](https://companion.home-assistant.io/)
 
-#### Governance
+### Governance
 
 * [Privacy Notices](https://www.home-assistant.io/privacy/)
 * [Contributor License Agreement](https://www.home-assistant.io/developers/cla/)
@@ -125,7 +125,7 @@ Home Assistant is a project from the [Open Home Foundation](https://www.openhome
 * [Credits](https://www.home-assistant.io/developers/credits/)
 * [License](https://www.home-assistant.io/developers/license/)
 
-#### Follow us
+### Follow us
 
 [Sign up for our newsletter](https://building.open-home.io/#/portal)
 
