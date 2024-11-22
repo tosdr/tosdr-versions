@@ -246,6 +246,14 @@ No thanks, I want to stay on Vodafone.com
         * [Corporate and Financial](https://www.vodafone.com/news/corporate-and-financial)
         * [Empowering People](https://www.vodafone.com/news/empowering-people)
         * [Protecting the Planet](https://www.vodafone.com/news/protecting-the-planet)
+        * [Digital Society](https://www.vodafone.com/sustainable-business/our-purpose-pillars/digital-society)
+            
+            * [Go to **Digital Society**](https://www.vodafone.com/sustainable-business/our-purpose-pillars/digital-society)
+            * [Supporting small businesses](https://www.vodafone.com/sustainable-business/our-purpose-pillars/digital-society/supporting-small-businesses)
+            * [Revolutionising healthcare](https://www.vodafone.com/sustainable-business/our-purpose-pillars/digital-society/revolutionising-healthcare)
+            * [Digitalising agriculture](https://www.vodafone.com/sustainable-business/our-purpose-pillars/digital-society/digitialising-agriculture)
+            * [Creating smart cities](https://www.vodafone.com/sustainable-business/our-purpose-pillars/digital-society/creating-smart-cities)
+            
         * [Products](https://www.vodafone.com/news/products)
         * [Public Policy](https://www.vodafone.com/news/public-policy)
         * [Services](https://www.vodafone.com/news/services)
