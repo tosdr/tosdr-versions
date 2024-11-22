@@ -429,6 +429,7 @@ We are user supported. We may earn an affiliate commission if you buy stuff afte
     * CNY
     * EUR
     * GBP
+    * HKD
     * JPY
     * MXN
     * NZD
