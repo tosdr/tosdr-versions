@@ -27,7 +27,6 @@ Navigation Menu
     * [Kids](https://www.nhl.com/shop/link.html?id=NHLSubNavKids)
     * [Photos.com](https://photos.com/art/nhl)
     * [NHL Shop - NYC](https://www.nhl.com/fans/nhl-shop-nyc)
-    * [Get NHL Credit Card](https://www.discovercard.com/application/displayLanding?pageFileId=double-display-nhl&sc=GAXW&cmpgnid=affinity-pl-nhl-shtb)
     
 * [Tickets](https://www.nhl.com/tickets)
 
@@ -180,11 +179,129 @@ We collect and receive the following categories of information:
         We will not discriminate against you for exercising these rights, although some of the functionality and features available to you may change or no longer be available to you.
         
 
+* 6\. **Your Other Privacy Choices.**
+    
+    You have a number of additional choices about how we handle information we collect and receive about you.
+    
+    * **Email.** You may opt out of receiving future promotional email communications from us by clicking the "Unsubscribe" link in the footer of promotional email communications and updating your preferences. Please note that we may continue to send you transactional or service-related emails regarding your account. To opt-out of receiving emails from Member Clubs or Business Partners, please contact those parties directly.
+    * **SMS and MMS.** You may opt out of receiving promotional SMS and MMS messages (i.e., text messages) from us by replying "STOP" to any message, which is free of charge. Please note that we may respond to your opt-out request with a message confirming that you have successfully opted out.
+    
+    **Targeted Advertising.** You have various choices related to targeted advertising.
+    
+    * You may opt out of receiving certain targeted advertising from participating companies by visiting the websites of the [Network Advertising Initiative](https://www.networkadvertising.org/), [Digital Advertising Alliance](http://www.aboutads.info/), and the [Digital Advertising Alliance of Canada](http://youradchoices.ca/).
+    * Where available, and depending on the jurisdiction in which you live, you also may disable optional cookies, web beacons, and similar technologies by visiting the NHL's "Cookie Settings" tool [here](https://www.nhl.com/info/cookie-settings).
+    * Depending on your jurisdiction, we also will support the Global Privacy Control ("GPC"), a universal opt-out preference signal that communicates your privacy preferences to the websites you visit. For more information on the GPC, please visit their website [here](https://globalprivacycontrol.org/#about).
+    
+    These choices generally apply to the web browser you use, which means that you generally must opt out of each web browser on each device you use. If you opt out, you may still see ads from NHL, but the ads will be less relevant to you and your interests.
+    
+    In addition, depending on the jurisdiction in which you live, you may have the right to opt out of the sharing of hashed email addresses and similar personal information with third parties (such as social media platforms) for targeted advertising purposes. Please submit a request by filling out the following form: [NHL.com/contact](https://www.nhl.com/info/contact-us). Please select the "Privacy" option in the subject line and include your first name, last name, and email address in the body of the email. Please insert into the description box, "_Opt Out of Sale/ Opt Out of Sharing for Targeted Advertising._"
+    
+    * **Do Not Track.** As distinct from the choices described above, some web browsers may transmit "do not track" signals to the websites and other online services with which the browser communicates. There is no standard that governs what, if anything, websites and online services should do when they receive these signals. We currently do not take action in response to these signals. If and when a standard for responding is established, we may revisit our policy on responding to these signals.
+        
+    * **Disclosure of Personal Information to Member Clubs and Business Partners.**
+        
+        * Depending on the jurisdiction in which you live, you may have the right to request to opt out of the "sale" or "sharing" of your personal information in accordance with state laws. Please submit a request by filling out the following form: [NHL.com/contact](https://www.nhl.com/info/contact-us). Please select the "Privacy" option in the subject line and include your first name, last name, and email address in the body of the email. Please insert into the description box, "_Opt Out of Sale/Opt Out of Sharing for Targeted Advertising._"
+        * You can opt out of (or, where you have provided consent, withdraw your consent to) the future sharing of your personal information with Member Clubs and Business Partners for those parties' own promotional purposes by filling out the following form: [NHL.com/contact](https://www.nhl.com/info/contact-us). Please select the "Privacy" option in the subject line and include your first name, last name, and email address in the body of the email. Please insert into the description box, "Opt Out of Business Partner Sharing" or "Opt Out of Member Club Sharing." Please note that even if you exercise these choices, the NHL may still share your information with Business Partners and Member Clubs where we are permitted to do so such as when they use that information to perform services we request and at your direction or pursuant to your interactions with them.
+        * If you have an NHL.com account, you also may visit the "Email Preferences" tab to limit how we share certain information.
+    * **League Fan Engagement:** For individuals in Canada, you can limit the NHL's use of information about your engagement across the NHL and its Member Clubs to build models that we use to better understand NHL fans and fan engagement across the NHL and its Member Clubs so that we can customize and improve our Services, advertising and communications. To opt-out, contact us at [\[email protected\]](https://www.nhl.com/cdn-cgi/l/email-protection) or complete the form available [here](https://privacyportal.onetrust.com/webform/c48a335c-3316-4893-8bc6-fcacbf57fc4a/5b38eaa6-1ff7-462b-9f7e-e26b7d448b46). Please note that if you have signed up to receive our marketing emails you will still receive emails that may be tailored to your engagement with the NHL, but they may be less relevant to you. In addition, please note that you will separately need to opt out of the use of any processing activities via cookies and similar technologies by clicking on the "Cookie Settings" link [here](https://www.nhl.com/info/cookie-settings).
+    * **Location Information.** If you choose to use location-enabled services or applications covered by this Privacy Policy, you may opt out of having your location information collected and/or used for certain purposes. However, if you exercise such an opt-out option you may not be able to enjoy all of the functionalities offered by those services or applications. You also may be able to limit the collection of your location information through the settings on your device.
+    
+    7\. **Security & Retention**
+    
+    We have adopted physical, technical, and administrative safeguards to help protect against theft, loss, misuse, and unauthorized access to or disclosure of the information we collect and receive. However, please note that no data transmission or storage can be guaranteed to be 100% secure. As a result, while we strive to protect your information and privacy, we cannot and do not guarantee or warrant the security of any information you disclose or transmit to our Services and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information, or any other disclosures out of our control.
+    
+    Your online access to some of your information may be protected with a password that you select. We strongly recommend that you select a unique password that is difficult to guess and that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls, or email messages).
+    
+    We retain personal information for only as long as we need it to provide the Services, for purposes described in this Privacy Policy, after which we take steps to delete or anonymize information. Among the criteria used to determine our retention periods include the length of your relationship with us, any retention periods that are mandated by law, and whether retention is required pursuant to litigation or regulatory investigations.
+    
+    8\. **Children's Privacy.**
+    
+    Our Services do not knowingly collect, use, or disclose personal information from children under the age of 13 or as otherwise defined by local law without prior parental consent, except as permitted by the Children's Online Privacy Protection Act ("COPPA") or other applicable local law.
+    
+    9\. **Third Party Links.**
+    
+    Our Services may contain links to other sites that we do not own or operate. Also, links to our Services may be featured on third party services on which we advertise. We provide links to third-party services as a convenience to our users. These links are not intended as an endorsement of or referral to the linked services. The linked services should have separate and independent privacy statements, notices, and terms of use, which we recommend you read carefully. We do not have any control over such services, and therefore we take no responsibility and assume no liability for the manner in which the entities that operate such linked services may collect, use, disclose, secure, or otherwise treat your information.
+    
+    10\. **Additional California Disclosures**
+    
+    This section provides certain disclosures intended to address California law requirements. We have tried to explain our privacy practices in full in the other sections of this Privacy Policy, but the disclosures in this section should be read to supplement those other sections with disclosures designed to conform to specific state law requirements.
+    
+    This Privacy Policy provides information about the categories of personal information that we have collected and disclosed or otherwise made accessible to third parties during the preceding 12 months. This information includes, for example:
+    
+    _Identifiers, such as your name, address, phone number, zip code, IP address, and online identifiers._ We may use this information to respond to your questions, to enable you to participate in our programs (including sweepstakes or contests), to process your registration with our Services, and for other business purposes.
+    
+    _Commercial information, such as a record of your purchases and services you have obtained._ We may use this information to improve your experience with our Services, to serve you ads about products and offers, and for other business purposes.
+    
+    _Internet and electronic network activity information, such as information about your interactions with our Services._ We may use this information to improve our Services, to better understand the visitors who come to our Services and the content of interest to them, and for other business purposes.
+    
+    _Geolocation data._ We may use this information to improve the quality, security, and relevance of our Services and for other business purposes.
+    
+    _Inferences about you, including about your preferences and characteristics._ We may use this information to provide our Services to you in an individual and personalized way and to send you marketing we believe may interest you, and for other business purposes.
+    
+    Some of this information also is considered personal information under Cal. Civ. Code Section 1798.80.
+    
+    **Additional California Rights**
+    
+    Please see the [Your Other Privacy Choices](https://www.nhl.com/info/privacy-policy#choices) section for information on how to request access, deletion, or correction of your personal information and how to opt-out of certain disclosures of your personal information. In addition to the methods outlined in that section, if you are a California resident, you can also exercise your rights to know, correct, and delete personal information by calling 1-833-977-2095.
+    
+    Please see the Your Other Privacy Choices section for information on how to request to opt out of the sale/sharing of personal information. We do not knowingly sell or share the personal information of children under the age of 16 without affirmative consent.
+    
+    In addition to those rights outlined in the Your Other Privacy Choices section, California residents may also opt out of having their personally identifiable information shared with third parties for those third parties' direct marketing purposes by contacting us as set out in the [Contact Us](https://www.nhl.com/info/privacy-policy#contact) section below.
+    
+    In addition, California residents who are registered users of the Services and are under the age of 18 are entitled, in accordance with California law, to request and obtain removal of content and information that they themselves post as user content on the Services. You may request such removal by filling out the following form: [NHL.com/contact](https://www.nhl.com/info/contact-us). Please select the "Privacy" option in the subject line and include in the body of the email (i) a statement that you are requesting, in accordance with California law, the removal of user content; (ii) a description of the material you want removed and information reasonably sufficient to permit us to locate the material; and (iii) your first name, last name, email address, mailing address (including city, state, and zip) and year of birth so that we can process your request. Please note that your request does not ensure the complete or comprehensive removal of the material.
+    
+    11\. **Further Information for visitors outside of the United States, including European Economic Area ("EEA"), Canada and China Residents.**
+    
+    International Transfers of Personal Information
+    
+    The NHL's headquarters is in the United States, and, regardless of where you use our Services or otherwise provide information to us, your information may be transferred to, maintained, and processed by the NHL, its affiliates, and our operational partners and service providers in the United States or other locations outside of your jurisdiction of residence. Please note that U.S. privacy laws, regulations, and standards may not be equivalent to the laws in your country of residence and such information may be subject to lawful access by U.S. courts, law enforcement, and governmental authorities. Please be aware that information we obtain as a result of your use of the Services may be collected, transferred, stored, and processed outside of your jurisdiction (which includes, for residents of Quebec, outside of Quebec) including in the United States or another country in accordance with applicable law.
+    
+    Legal Basis for Processing for EEA Residents
+    
+    To the extent our activities are subject to international data protection laws that specify limited legal grounds to process your information, the legal bases for our processing activities are to perform our contract(s) with you; to meet our legal obligations; and for our legitimate business purposes, including to improve our operations and Services, detect and prevent fraud, and enforce our Terms of Service. We rely on your consent to send you direct marketing messages about our products, services and promotions and to deliver targeted advertisements to you, both on and off the Services. If you do not provide certain information to us, we may, in some circumstances, be unable to comply with our obligations or provide you with the services that you request. We will tell you about the implications of not providing certain information.
+    
+    EEA Privacy Rights
+    
+    Please see the [Your Other Privacy Choices](https://www.nhl.com/info/privacy-policy#choices) section for more information on how to withdraw your consent at any time and your data protection rights. In addition, you may lodge a complaint with the relevant supervisory authority if you consider that our processing of your personal information infringes applicable law. Contact details for all EEA Supervisory Authorities can be found [here](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080). You may exercise these rights by contacting us as provided in the Contact Us section below.
+    
+    Information for China Residents
+    
+    In order to achieve the purposes described in the “How We Use the Information We Collect and Receive” section of this Privacy Policy, we may transfer your personal information to NHL headquarters and affiliates or other third parties outside of China.
+    
+    If your personal information is transferred to such parties, we will use lawful cross-border transfer mechanisms to transfer your personal information and adopt necessary measures to ensure that such overseas recipients can provide the same level of protection as required under applicable Chinese laws.
+    
+    12\. **Information about our Privacy Governance Practices in Canada**
+    
+    We have designated a Privacy Officer who is responsible for overseeing the company's compliance with privacy legislation. We have established policies and practices that govern our treatment of personal information and set out the responsibilities of our employees. These policies and practices include, among other things, the following:
+    
+    * Policies and practices to collect, use and disclose personal information with consent, where required by applicable Canadian privacy laws.
+    * Policies and procedures to protect personal information in our custody and control from unauthorized access, use or disclosure.
+    * Policies and processes to respond to data subject requests and complaints in a timely and effective manner.
+    * A framework for the retention and destruction of personal information to ensure compliance with legal obligations.
+    
+    13\. **Changes To This Privacy Policy.**
+    
+    We may update this Privacy Policy from time to time to reflect changes in our privacy practices, so we encourage you to review this Privacy Policy periodically. If we make significant changes to this Privacy Policy, we will provide appropriate notice to you.
+    
+    14\. **Contact Us.**
+    
+    If you have any questions about this Privacy Policy or the manner in which we or our service providers treat personal information, please contact us at [NHL.com/contact](https://www.nhl.com/info/contact-us) and select "Privacy" for the subject line or write to us at:
+    
+    **Privacy Officer**  
+    **NHL Enterprises, L.P.**  
+    **One Manhattan West**
+    
+    395 Ninth Ave.
+    
+    New York, NY 10001
+    
+    [\[email protected\]](https://www.nhl.com/cdn-cgi/l/email-protection)
+    
+
 * [YouTube](https://www.youtube.com/nhl)
 * [Instagram](https://www.instagram.com/nhl)
 * [Discord](https://discord.gg/nhlbreakaway)
 * [Facebook](https://www.facebook.com/NHL)
-* [Threads](https://www.threads.net/@nhl)
 * [Snapchat](https://www.snapchat.com/add/nhl)
 * [Twitch](https://www.twitch.tv/nhl)
 * [X](https://www.twitter.com/nhl)
