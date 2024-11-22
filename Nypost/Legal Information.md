@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Matt Gaetz reveals if he will rejoin Congress next year](https://nypost.com/2024/11/22/us-news/matt-gaetz-reveals-he-will-not-rejoin-congress-when-it-convenes-early-next-year/)
+
 Privacy Notice Highlights
 =========================
 
