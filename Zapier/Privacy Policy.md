@@ -225,6 +225,7 @@ Follow us
 * [Jobs](https://zapier.com/jobs)
 * [Enterprise](https://zapier.com/enterprise)
 * [Templates](https://zapier.com/templates)
+* [App Integrations](https://zapier.com/apps)
 
 [](https://zapier.com/)
 
