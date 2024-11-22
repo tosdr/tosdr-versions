@@ -286,7 +286,7 @@
 npm Code of Conduct
 ===================
 
-Table of contents
+See DetailsTable of contents
 
 * [tl;dr](#tldr)
 * [Scope](#scope)
