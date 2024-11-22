@@ -653,6 +653,14 @@ Zaki Aslam Calgary 06/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Great guys, very friendly and efficient. Hard workers. Would definitely recommend them to anyone
+
+Karen Hanson Calgary 05/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Fast friendly arrived on time Could not have asked for A better experience
 
 Ralph Gubler Calgary 05/11/2024
@@ -672,14 +680,6 @@ Ilse Calgary 05/11/2024
 The guys were very polite, and super efficient. I will totally use them again! Great job. And thank you.
 
 Diana Ruff Calgary 05/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great guys, very friendly and efficient. Hard workers. Would definitely recommend them to anyone
-
-Karen Hanson Calgary 05/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -893,6 +893,14 @@ Becca Cihlar Wisconsin 16/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Max and will did a super great job
+
+Jacob Nielsen Wisconsin 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Hired them a second time. John and Alex did a great job. On time, very professional, and upfront about cost. Will use services again.
 
 Steve Chesna Wisconsin 16/11/2024
@@ -904,14 +912,6 @@ Steve Chesna Wisconsin 16/11/2024
 Bo and Jon perfect service
 
 Bruce Mumm Seattle 16/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Max and will did a super great job
-
-Jacob Nielsen Wisconsin 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -952,6 +952,14 @@ Donald Sarvis Seattle 16/11/2024
 Fast, professional and nice. Kegan and Harold
 
 Katrina Jones Naples 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great guys, bo and Jon were awesome!
+
+Donny Sarvis Seattle 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1016,14 +1024,6 @@ Lyn Wi Madison 15/11/2024
 Great service from Dom and David. Arrived on time and with great communication!!!!
 
 Chad McCall Austin 15/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Very helpful and reliable. Nice job!
-
-kim miller Madison 15/11/2024
 
 ### 
 
