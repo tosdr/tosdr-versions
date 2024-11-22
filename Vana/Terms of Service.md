@@ -106,11 +106,11 @@ Earn from your LinkedIn data](https://www.ldatadao.org/home)[![](https://cdn.pro
 
 SixGPT
 
-Run a gpt model that proxies as a Vana miner on your hardware](https://sixgpt.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c823803d042562d9575796_vnFlzXBS_400x400.jpg)
+Run a gpt model that proxies as a Vana miner on your hardware](https://sixgpt.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/6740ecb6fcb45f62565b583d_ykyr_logo.jpg)
 
 YKYR
 
-User-owned AI web analytics](https://x.com/ykyrnow)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c8244c186b7bacc52676a2_OoTNe_uo_400x400.jpg)
+User-owned AI web analytics](https://chromewebstore.google.com/detail/ykyr-preview/gfogbpcdlcihfaejpmdhigejhpckdamh)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c8244c186b7bacc52676a2_OoTNe_uo_400x400.jpg)
 
 Sydintel
 
