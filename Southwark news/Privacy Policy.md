@@ -20,13 +20,9 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![The new mural on the Old Kent Road railway bridge](https://southwarknews.co.uk/wp-content/uploads/2024/11/home_from_home_okr_mural_211124-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
+    [![Labour Councillor Sam Dalton spoke about the council's support schemes at Council Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Labour-Councillor-Sam-Dalton-spoke-about-the-councils-support-schemes-at-Council-Assembly-360x180.png)](https://southwarknews.co.uk/news/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
     
-    ### [Ugly railway bridge on Old Kent Road gets bright makeover ahead of area’s transformation](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
-    
-    [![Labour Councillor Sam Dalton spoke about the council's support schemes at Council Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Labour-Councillor-Sam-Dalton-spoke-about-the-councils-support-schemes-at-Council-Assembly-360x180.png)](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
-    
-    ### [Winter Fuel Payments: Southwark Council offering pensioners emergency £200 payments after government cut winter support](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    ### [Winter Fuel Payments: Southwark Council offering pensioners emergency £200 payments after government cut winter support](https://southwarknews.co.uk/news/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
     
     [![Fredericks Playground. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/Fredericks-Playground-1-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
     
@@ -55,6 +51,10 @@
     [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
     
     ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
+    
+    [![Tram-style buses are hitting the 358 route from Crystal Palace. Image: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/11/358-Side-view-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
+    
+    ### [New tram-style buses now departing from Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,13 +105,9 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![The new mural on the Old Kent Road railway bridge](https://southwarknews.co.uk/wp-content/uploads/2024/11/home_from_home_okr_mural_211124-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
+    [![Labour Councillor Sam Dalton spoke about the council's support schemes at Council Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Labour-Councillor-Sam-Dalton-spoke-about-the-councils-support-schemes-at-Council-Assembly-360x180.png)](https://southwarknews.co.uk/news/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
     
-    ### [Ugly railway bridge on Old Kent Road gets bright makeover ahead of area’s transformation](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
-    
-    [![Labour Councillor Sam Dalton spoke about the council's support schemes at Council Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Labour-Councillor-Sam-Dalton-spoke-about-the-councils-support-schemes-at-Council-Assembly-360x180.png)](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
-    
-    ### [Winter Fuel Payments: Southwark Council offering pensioners emergency £200 payments after government cut winter support](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    ### [Winter Fuel Payments: Southwark Council offering pensioners emergency £200 payments after government cut winter support](https://southwarknews.co.uk/news/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
     
     [![Fredericks Playground. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/Fredericks-Playground-1-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
     
@@ -140,6 +136,10 @@ View All Result
     [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
     
     ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
+    
+    [![Tram-style buses are hitting the 358 route from Crystal Palace. Image: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/11/358-Side-view-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
+    
+    ### [New tram-style buses now departing from Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
