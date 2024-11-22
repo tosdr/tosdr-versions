@@ -30,9 +30,9 @@ WEBINAR RECORDING AVAILABLE - Measuring ROI and Impact in Drive-to-Store Adverti
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![What it will take to win over Holiday shoppers in 2024](https://illumin.com/wp-content/uploads/2024/11/holiday-shoppers-2024-1-263x300.jpg)
+    * ![Holiday shopping trends for 2024](https://illumin.com/wp-content/uploads/2024/11/holiday-trends-1-263x300.jpg)
         
-        What it will take to win over Holiday shoppers in 2024[Read More](https://illumin.com/insights/blog/win-over-holiday-shoppers-in-2024/)
+        Holiday shopping trends for 2024[Read More](https://illumin.com/insights/blog/holiday-shopping-trends-for-2024/)
         
 * [Company](#)
     * [Company](#)
