@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| KinfolksSam Hunt<br><br>4:41pm |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:36pm |
-| Fast CarLuke Combs<br><br>4:32pm |
-| Love SomebodyMorgan Wallen<br><br>4:29pm |
-| Free And EasyDierks Bentley<br><br>4:25pm |
+| Drunk On YouLuke Bryan<br><br>10:40pm |
+| Whiskey DrinkJason Aldean<br><br>10:37pm |
+| Son Of A SinnerJelly Roll<br><br>10:34pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>10:31pm |
+| AustinDasha<br><br>10:20pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,6 +360,10 @@ State
 Featured Brands
 ---------------
 
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
@@ -367,10 +371,6 @@ Spanish • Western
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
