@@ -4,7 +4,7 @@
 
 * * *
 
-[anuncie](https://drive.google.com/file/d/1-GEZ6Qjl91dysRXU5g549JHrqHwlXYuj/view?usp=drive_link)
+[anuncie](https://www.tnh1.com.br/media/uploads/midiakit/midiakit_agosto2024.pdf)
 
 * * *
 
@@ -126,7 +126,7 @@ O Portal TNH1 não entra em contato com os ganhadores de qualquer promoção atr
 
 [TV PAJUÇARA](https://www.tnh1.com.br/videos) [ENTRETENIMENTO](https://www.tnh1.com.br/noticias/editoria/cinema) [PSCOM](https://pajucara.tnh1.com.br/)
 
-[ANUNCIE NO TNH1](https://drive.google.com/file/d/1-GEZ6Qjl91dysRXU5g549JHrqHwlXYuj/view?usp=drive_link) [TERMOS E CONDIÇÕES DE USO](https://www.tnh1.com.br/termos-e-condicoes-de-uso) [FALE CONOSCO](https://www.tnh1.com.br/contato)
+[ANUNCIE NO TNH1](https://www.tnh1.com.br/media/uploads/midiakit/midiakit_agosto2024.pdf) [TERMOS E CONDIÇÕES DE USO](https://www.tnh1.com.br/termos-e-condicoes-de-uso) [FALE CONOSCO](https://www.tnh1.com.br/contato)
 
 [![Pscom](/static/img/logo_pscom_footer.png)](https://pajucara.tnh1.com.br/)
 
