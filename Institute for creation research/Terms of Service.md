@@ -165,6 +165,92 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Man Was Created Distinct from Apes
+
+[![](/i/Main%20Stage%20-%201400x1050/Human_Genome_Anniversary_1400x1050.jpg)](https://www.icr.org/article/Human-Genome-20th-Anniversary)
+
+[Human Genome 20th Anniversary…Junk DNA Hits the Trash](https://www.icr.org/article/Human-Genome-20th-Anniversary/)
+
+The first rough drafts of the human genome were reported in 2001 (one in the private sector and one in the public sector).1-2 Since then, after...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/Main%20Stage%20-%201400x1050/apespit-1400x1050-MainPage.jpg)](https://www.icr.org/article/ape-spit-radically-different-from-human)
+
+[Ape Spit Radically Different from Human](https://www.icr.org/article/ape-spit-radically-different-from-human/)
+
+In their quest to try and find some sort of evolutionary similarity between humans and apes, scientists have compared DNA, proteins, anatomy, behavior,...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/Main%20Stage%20-%201400x1050/Sahelanthropus_1400x1050.jpg)](https://www.icr.org/article/sahelanthropus-femur-likely-makes-it-a-chimp)
+
+[Sahelanthropus Femur Likely Makes It a Chimp](https://www.icr.org/article/sahelanthropus-femur-likely-makes-it-a-chimp/)
+
+Nearly 20 years ago, a team of anthropologists presented the finding of a fossil skull that was very chimp-like in many respects.1 However,...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/seascorpion_1400x1050.jpg)](https://www.icr.org/article/sea-scorpion)
+
+[Another Sea Scorpion](https://www.icr.org/article/sea-scorpion/)
+
+There are few animals more nightmarish than an 8-foot sea scorpion. Although, they were not true scorpions, their fossils display a menacing and formidable...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/SunTuned_1400x1050.jpg)](https://www.icr.org/article/sun-finely-tuned)
+
+[Our Sun, Finely Tuned for Life on Earth](https://www.icr.org/article/sun-finely-tuned/)
+
+Aside from appreciating the splendor of the sun during a beautiful sunrise or sunset, many rarely consider how special, necessary, and finely tuned...
+
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+
+[![](/i/Main%20Stage%20-%201400x1050/newjelly_1400x1050.jpg)](https://www.icr.org/article/new-jellyfish)
+
+[A New Jellyfish](https://www.icr.org/article/new-jellyfish/)
+
+One of the more fascinating animals in God’s creation is the ubiquitous and strange jellyfish. They are members of the subphylum Medusozoa,...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
+
+Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
+
+$15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
+
+Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
+
+Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
+
+$15.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
+
+Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
+
+Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
+
+$4.99
+
+$9.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
