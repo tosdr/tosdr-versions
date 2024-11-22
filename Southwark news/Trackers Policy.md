@@ -225,17 +225,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
-[![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-
-### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-
-[13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-
 [![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-120x86.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
 
 ### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
 
 [18th November 2024](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+
+[![Neil Harris ahead of his side's game against Stoke City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/N-Harris-987654-2024-11-09T13_20_30.418-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-aiming-to-humble-another-huge-football-club-ahead-of-saturdays-clash-with-sunderland/)
+
+### [Millwall head coach aiming to ‘humble another huge football club’ ahead of Saturday’s clash with Sunderland at The Den](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-aiming-to-humble-another-huge-football-club-ahead-of-saturdays-clash-with-sunderland/)
+
+[19th November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-aiming-to-humble-another-huge-football-club-ahead-of-saturdays-clash-with-sunderland/)
 
 ### Featured Articles
 
