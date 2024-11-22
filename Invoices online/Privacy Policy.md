@@ -117,57 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Jannie Schutte - myFinance-Online.co.za
+Kobus Venter
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=118237007)  
-Blue Bulls Rugby Coaches Association
-
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=202494813)  
-SR Travel Services
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=195140124)  
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=208164373)  
 BD Maintenance
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=82378344)  
-Skinz Printing & Branding
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=177647884)  
+Multi CNC Solutions CC
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=111242943)  
-McKaynine Mobility
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=175994662)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=132684221)  
-Druce Digital
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=44916200)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=35183301)  
-Digifax Pty) Ltd t/a Findfish
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=53804241)  
+NWET Pty LTD
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=108305559)  
-Kaylas Creations
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=129327359)  
+KTEN PARTS
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=174740358)  
-WIP Digital Solutions
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=41244376)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=88125107)  
-Konsortium Operations (PTY) LTD
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=109633996)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=191515088)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=133382410)  
+Baby Toddles Infant Care
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=43745496)  
-ARCHITEK PTY LTD
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=205076714)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=67053953)  
-AMS Ambu Medical Supplies
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=51659044)  
+Firstweb Hosting & Design
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=209363703)  
-Imvubu General Trading
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=174193517)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=25bc3709a44191138279a5f0a2a8ea6c75a2093ec5fc7b1d71ebc26a4da8605e&c=140823025)  
-TechnoDezi PTY(LTD)
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=48146765)  
+BEE SURE CONSULTING (PTY) LTD
+
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=171363794)  
+Three Moons Emporium
+
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=92920f37b0dc7b65f3c8de2a85670759b0e33afa7e5be3351ef5f08db45f5fe5&c=34533744)  
+Lily Fern & Co
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
