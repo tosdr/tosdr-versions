@@ -1168,12 +1168,6 @@ Wellness
 
 More
 
-[22% Off K-Beauty
-
- 
-
-‌‌Shop Now‌‌](https://www.iherb.com/c/k-beauty?pcode=22KBEAUTY24)
-
       
 
 [Home](https://de.iherb.com/) Terms of Use Agreement
