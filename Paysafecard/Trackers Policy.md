@@ -320,6 +320,6 @@ Support
 
 [Google Play](https://play.google.com/store/apps/details?id=at.paysafecard.android&referrer=adjust_reftag%3DcIGmAvoU2TFcK%26utm_source%3DWebsite%2B-%2BApp%2BSeite) [Apple iOS](https://apps.apple.com/app/id588324792)
 
-_©_2024 PaysafeCard.com Wertkarten GmbH. All rights reserved. PaysafeCard closed loop gift card ticket is issued by The Bancorp Bank N.A. Member FDIC. PaysafeCard is a registered trademark of PaysafeCard.com Wertkarten GmbH.
+_©_2024 paysafecard.com Wertkarten GmbH. All rights reserved. PaysafeCard closed loop gift card ticket is issued by The Bancorp Bank N.A. Member FDIC. PaysafeCard is a registered trademark of paysafecard.com Wertkarten GmbH.
 
 [![PaysafeCard - a Paysafe Experience](/typo3conf/ext/theme/Resources/Public/images/icons/psc_experience_logo.svg)](https://www.paysafe.com/)
