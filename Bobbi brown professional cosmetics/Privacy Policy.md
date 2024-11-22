@@ -2,8 +2,6 @@
 
 Previous
 
-[Play our scratch-off game to win an exclusive beauty offer. Play now.](https://www.bobbibrowncosmetics.com/holiday-scratch-off-game)
-
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
 Enjoy Free Standard Shipping on any $65+ order.
