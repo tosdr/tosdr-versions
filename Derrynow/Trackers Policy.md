@@ -259,51 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![Derry man jailed for 15 months for series of domestic abuse offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man jailed for 15 months for series of domestic abuse offences")](https://www.derrynow.com/news/newsletter-derrynow/1661383/derry-man-jailed-for-15-months-for-series-of-domestic-abuse-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man jailed for 15 months for series of domestic abuse offences](https://www.derrynow.com/news/newsletter-derrynow/1661383/derry-man-jailed-for-15-months-for-series-of-domestic-abuse-offences.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Four people returned for trial to Derry Crown Court on charge of affray](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Four people returned for trial to Derry Crown Court on charge of affray")](https://www.derrynow.com/news/newsletter-derrynow/1661378/four-people-returned-for-trial-to-derry-crown-court-on-charge-of-affray.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Four people returned for trial to Derry Crown Court on charge of affray](https://www.derrynow.com/news/newsletter-derrynow/1661378/four-people-returned-for-trial-to-derry-crown-court-on-charge-of-affray.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1661667/derry-death-notices-friday-november-22-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Friday, November 22, 2024](https://www.derrynow.com/news/deaths/1661667/derry-death-notices-friday-november-22-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry one of the most likely places in the UK to see snow this Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry one of the most likely places in the UK to see snow this Christmas")](https://www.derrynow.com/news/county-derry-post/1661262/derry-one-of-the-most-likely-places-in-the-uk-to-see-snow-this-christmas.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry one of the most likely places in the UK to see snow this Christmas](https://www.derrynow.com/news/county-derry-post/1661262/derry-one-of-the-most-likely-places-in-the-uk-to-see-snow-this-christmas.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady")](https://www.derrynow.com/news/derrynow/1662091/male-33-due-to-appear-before-court-after-being-charged-in-connection-with-suspicious-man-report-in-limavady.html)
-
-[Home](https://www.derrynow.com/)
-
-[Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady](https://www.derrynow.com/news/derrynow/1662091/male-33-due-to-appear-before-court-after-being-charged-in-connection-with-suspicious-man-report-in-limavady.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry, celebrating winning the Best Choir Award 2024 at Dublin Ceoil in March.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry, celebrating winning the Best Choir Award 2024 at Dublin Ceoil in March.")](https://www.derrynow.com/news/arts---entertainment/1661395/talented-derry-singer-in-semi-final-of-bbc-young-chorister-of-the-year.html)
-
-Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry, celebrating winning the Best Choir Award 2024 at Dublin Ceoil in March.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Talented Derry Singer in semi final of BBC Young Chorister of the Year](https://www.derrynow.com/news/arts---entertainment/1661395/talented-derry-singer-in-semi-final-of-bbc-young-chorister-of-the-year.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man pleads guilty to charge of sexual assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man pleads guilty to charge of sexual assault")](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
 
@@ -314,6 +275,31 @@ Derry courthouse
 [Derry man pleads guilty to charge of sexual assault](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry man charged with possession of cocaine and possession with intent to supply](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possession of cocaine and possession with intent to supply")](https://www.derrynow.com/news/newsletter-derrynow/1662157/derry-man-charged-with-possession-of-cocaine-and-possession-with-intent-to-supply.html)
+
+Derry courthouse
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with possession of cocaine and possession with intent to supply](https://www.derrynow.com/news/newsletter-derrynow/1662157/derry-man-charged-with-possession-of-cocaine-and-possession-with-intent-to-supply.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady")](https://www.derrynow.com/news/derrynow/1662091/male-33-due-to-appear-before-court-after-being-charged-in-connection-with-suspicious-man-report-in-limavady.html)
+
+[Home](https://www.derrynow.com/)
+
+[Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady](https://www.derrynow.com/news/derrynow/1662091/male-33-due-to-appear-before-court-after-being-charged-in-connection-with-suspicious-man-report-in-limavady.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for man and woman who attacked two people in Derry with hammer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man and woman who attacked two people in Derry with hammer")](https://www.derrynow.com/news/newsletter-derrynow/1662233/suspended-sentence-for-man-and-woman-who-attacked-two-people-in-derry-with-hammer.html)
+
+Derry Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for man and woman who attacked two people in Derry with hammer](https://www.derrynow.com/news/newsletter-derrynow/1662233/suspended-sentence-for-man-and-woman-who-attacked-two-people-in-derry-with-hammer.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man who admitted charge of arson endangering life to be sentenced in January](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who admitted charge of arson endangering life to be sentenced in January")](https://www.derrynow.com/news/newsletter-derrynow/1662153/man-who-admitted-charge-of-arson-endangering-life-to-be-sentenced-in-january.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -321,25 +307,50 @@ Derry courthouse
 [Man who admitted charge of arson endangering life to be sentenced in January](https://www.derrynow.com/news/newsletter-derrynow/1662153/man-who-admitted-charge-of-arson-endangering-life-to-be-sentenced-in-january.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Cold and frosty conditions to continue with nationwide yellow warning in place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cold and frosty conditions to continue with nationwide yellow warning in place")](https://www.derrynow.com/news/weather/1661403/cold-and-frosty-conditions-to-continue-with-nationwide-yellow-warning-in-place.html)
+[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/national-news/1662008/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-line-up.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Picture credit: Matt Crossick/PA Wire
 
-[Cold and frosty conditions to continue with nationwide yellow warning in place](https://www.derrynow.com/news/weather/1661403/cold-and-frosty-conditions-to-continue-with-nationwide-yellow-warning-in-place.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[![Your best years will be in a united Ireland, McDonald tells Dublin students](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Your best years will be in a united Ireland, McDonald tells Dublin students")](https://www.derrynow.com/news/national-news/1661770/your-best-years-will-be-in-a-united-ireland-mcdonald-tells-dublin-students.html)
+[Who are the guests on tonight's Graham Norton Show on BBC? Here's the line-up](https://www.derrynow.com/news/national-news/1662008/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-line-up.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[![IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza")](https://www.derrynow.com/story-telling/pictures---videos/1662246/in-pictures-st-joseph-s-boys-school-coffee-morning-for-uisce-for-gaza.html)
 
-[Your best years will be in a united Ireland, McDonald tells Dublin students](https://www.derrynow.com/news/national-news/1661770/your-best-years-will-be-in-a-united-ireland-mcdonald-tells-dublin-students.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza](https://www.derrynow.com/story-telling/pictures---videos/1662246/in-pictures-st-joseph-s-boys-school-coffee-morning-for-uisce-for-gaza.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Council issues advice in advance of Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Council issues advice in advance of Storm Bert")](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
+
+Photo from Storm Emma
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry Council issues advice in advance of Storm Bert](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway")](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway")](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza")](https://www.derrynow.com/story-telling/pictures---videos/1662246/in-pictures-st-joseph-s-boys-school-coffee-morning-for-uisce-for-gaza.html)
 
@@ -403,13 +414,6 @@ Multimedia
 
 [IN PICTURES: St. Mary's Faughanvale GAC annual prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1658457/in-pictures-st-mary-s-faughanvale-gac-annual-prizegiving.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry Gaelic Masters Team annual prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Gaelic Masters Team annual prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1658458/in-pictures-derry-gaelic-masters-team-annual-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Gaelic Masters Team annual prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1658458/in-pictures-derry-gaelic-masters-team-annual-prizegiving.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,51 +515,59 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![The Bloody Sunday trust has stated that Derry is an Anti-Apartheid zone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Bloody Sunday trust has stated that Derry is an Anti-Apartheid zone")](https://www.derrynow.com/news/county-derry-post/1662248/the-bloody-sunday-trust-has-stated-that-derry-is-an-anti-apartheid-zone.html)
+[![Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story")](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
+
+Martina Tierney will be the guest speaker at December's meeting of Ballinascreen Historical Society.
+
+[Home](https://www.derrynow.com/)
+
+[Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Council issues advice in advance of Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Council issues advice in advance of Storm Bert")](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
+
+Photo from Storm Emma
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[The Bloody Sunday trust has stated that Derry is an Anti-Apartheid zone](https://www.derrynow.com/news/county-derry-post/1662248/the-bloody-sunday-trust-has-stated-that-derry-is-an-anti-apartheid-zone.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Council issues advice in advance of Storm Bert](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man pleads guilty to charge of sexual assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man pleads guilty to charge of sexual assault")](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
+[![Bank of Ireland defibrillator awareness event.](https://www.derrynow.com/resizer/165/93/true/2024_11_22/MF1-1732286957533.jpg--.jpg?1732286965371 "Bank of Ireland defibrillator awareness event.")](https://www.derrynow.com/news/home/1662400/bank-of-ireland-begins-roll-out-of-defibrillators-across-branch-network-in-magherafelt.html)
 
-Derry courthouse
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man pleads guilty to charge of sexual assault](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who admitted charge of arson endangering life to be sentenced in January](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Man who admitted charge of arson endangering life to be sentenced in January")](https://www.derrynow.com/news/newsletter-derrynow/1662153/man-who-admitted-charge-of-arson-endangering-life-to-be-sentenced-in-january.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who admitted charge of arson endangering life to be sentenced in January](https://www.derrynow.com/news/newsletter-derrynow/1662153/man-who-admitted-charge-of-arson-endangering-life-to-be-sentenced-in-january.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Craigbane set on making history for Derry GAA in Ulster championship final](https://www.derrynow.com/resizer/165/93/true/2024_10_12/Derry_Junior_Final_1-1728761228689.jpg--.jpg?1728761229885 "Craigbane set on making history for Derry GAA in Ulster championship final")](https://www.derrynow.com/news/county-derry-post/1662078/craigbane-set-on-making-history-for-derry-gaa-in-ulster-championship-final.html)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Craigbane set on making history for Derry GAA in Ulster championship final](https://www.derrynow.com/news/county-derry-post/1662078/craigbane-set-on-making-history-for-derry-gaa-in-ulster-championship-final.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![AIB GOAL Mile](https://www.derrynow.com/resizer/165/93/true/2024_11_22/AIB_GOAL_Mile-1732272879812.jpg--.jpg?1732272880513 "AIB GOAL Mile")](https://www.derrynow.com/news/home/1662092/aib-ni-calling-on-communities-to-step-up-for-the-2024-goal-mile.html)
-
-Pictured stepping up for the GOAL Mile, proudly supported by AIB, is Denise Curran and her husband Michael and their two children, Reece (aged 1) and Sienna (aged 2).
+Nuala McDaid, Senior Branch Manager with some of the attendees at the Bank of Ireland defibrillator awareness event.
 
 [County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[AIB NI calling on communities to ‘Step Up’ for the 2024 GOAL Mile](https://www.derrynow.com/news/home/1662092/aib-ni-calling-on-communities-to-step-up-for-the-2024-goal-mile.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Bank of Ireland Begins Roll Out of Defibrillators Across Branch Network in Magherafelt](https://www.derrynow.com/news/home/1662400/bank-of-ireland-begins-roll-out-of-defibrillators-across-branch-network-in-magherafelt.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Media Concierge launches £56.2m takeover move for National World](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_22/1732265704484_0.jpg--.jpg "Media Concierge launches £56.2m takeover move for National World")](https://www.derrynow.com/news/derry-news/1662108/media-concierge-launches-56-2m-takeover-move-for-national-world.html)
+[![Mid Ulster District Council’s sixth Enterprise Week](https://www.derrynow.com/resizer/165/93/true/2024_11_22/1_%281%29-1732286559823.jpg--.jpg?1732286560549 "Mid Ulster District Council’s sixth Enterprise Week")](https://www.derrynow.com/news/mid-ulster-district-council/1662398/businesses-in-mid-ulster-learn-to-create-connect-inspire-at-successful-enterprise-week.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Pictured at the launch event of Enterprise Week 2024, 'The Road Ahead: Economic Insights and Trends for 2025, are, l–r, Susan Hayes Culleton, Host; Catherine Martin, Cavanagh Kelly; Stephen McCammon,
 
-[Media Concierge launches £56.2m takeover move for National World](https://www.derrynow.com/news/derry-news/1662108/media-concierge-launches-56-2m-takeover-move-for-national-world.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Businesses in Mid Ulster learn to ‘Create, Connect, Inspire’ at Successful Enterprise Week](https://www.derrynow.com/news/mid-ulster-district-council/1662398/businesses-in-mid-ulster-learn-to-create-connect-inspire-at-successful-enterprise-week.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Limavady Christmas lights switch on](https://www.derrynow.com/resizer/165/93/true/1571844761880.jpg--.jpg?1571844761890 "Limavady Christmas lights switch on")](https://www.derrynow.com/news/home/1662394/causeway-coast-and-glens-council-christmas-tree-light-switch-on.html)
+
+Limavady Christmas light switch on
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Causeway Coast and Glens Council Christmas Tree Light Switch-On](https://www.derrynow.com/news/home/1662394/causeway-coast-and-glens-council-christmas-tree-light-switch-on.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ava Boyle (left) and Rebecca Cunning (right)](https://www.derrynow.com/resizer/165/93/true/2024_11_22/Untitled_design-1732286619313.jpg--.jpg?1732286621023 "Ava Boyle (left) and Rebecca Cunning (right)")](https://www.derrynow.com/news/newsletter-derrynow/1662397/ulster-call-two-city-of-derry-rugby-players-into-their-development-squads.html)
+
+Ava Boyle (left) and Rebecca Cunning (right)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ulster call two City of Derry rugby players into their development squads](https://www.derrynow.com/news/newsletter-derrynow/1662397/ulster-call-two-city-of-derry-rugby-players-into-their-development-squads.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
