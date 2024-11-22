@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Matt Gaetz withdraws from attorney general consideration](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2162809705-scaled-e1732210872588.jpg?ve=1&tl=1)
+ [![Tarrant Area Food Bank gets help from Amazon to deliver meals to homebound residents](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/6p-296-tz-tafb-home-delivery-program_00.00.06.06.jpg?ve=1&tl=1)
 
- ![Matt Gaetz withdraws from attorney general consideration](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2162809705-scaled-e1732210872588.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/matt-gaetz-withdraws-attorney-general-consideration)
+ ![Tarrant Area Food Bank gets help from Amazon to deliver meals to homebound residents](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/6p-296-tz-tafb-home-delivery-program_00.00.06.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tarrant-area-food-bank-gets-help-from-amazon-deliver-meals-homebound-residents)
 
-### [Matt Gaetz withdraws from attorney general consideration](https://www.fox4news.com/news/matt-gaetz-withdraws-attorney-general-consideration)
+### [Tarrant Area Food Bank gets help from Amazon to deliver meals to homebound residents](https://www.fox4news.com/news/tarrant-area-food-bank-gets-help-from-amazon-deliver-meals-homebound-residents)
 
- [![Taylor Swift, Elon Musk, Dak Prescott among write-in votes for president in Denton County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/swift-musk-dak.jpg?ve=1&tl=1)
+ [![ChatGPT outperformed doctors in diagnostic accuracy, study reveals](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1246494152.jpg?ve=1&tl=1)
 
- ![Taylor Swift, Elon Musk, Dak Prescott among write-in votes for president in Denton County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/swift-musk-dak.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/election/taylor-swift-elon-musk-dak-prescott-write-in-votes-president)
+ ![ChatGPT outperformed doctors in diagnostic accuracy, study reveals](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1246494152.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chatgpt-outperforms-doctors-diagnoses-study)
 
-### [Taylor Swift, Elon Musk, Dak Prescott among write-in votes for president in Denton County](https://www.fox4news.com/election/taylor-swift-elon-musk-dak-prescott-write-in-votes-president)
+### [ChatGPT outperformed doctors in diagnostic accuracy, study reveals](https://www.fox4news.com/news/chatgpt-outperforms-doctors-diagnoses-study)
 
- [![Ellen DeGeneres and Portia de Rossi reportedly flee US amid Trump victory](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/ellen-degeneres1.jpg?ve=1&tl=1)
+ [![Ellis County sanitation worker finds dead baby during garbage route](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1)
 
- ![Ellen DeGeneres and Portia de Rossi reportedly flee US amid Trump victory](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/ellen-degeneres1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellen-degeneres-portia-de-rossi-reportedly-flee-us-amid-trump-victory)
+ ![Ellis County sanitation worker finds dead baby during garbage route](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/04/32/18/592/333/9aa2ffa8-78b9ff20-Generic-police-lights-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-county-dead-baby-investigation-november-21)
 
-### [Ellen DeGeneres and Portia de Rossi reportedly flee US amid Trump victory](https://www.fox4news.com/news/ellen-degeneres-portia-de-rossi-reportedly-flee-us-amid-trump-victory)
+### [Ellis County sanitation worker finds dead baby during garbage route](https://www.fox4news.com/news/ellis-county-dead-baby-investigation-november-21)
 
- [![H-E-B breaks ground on 3 new stores in DFW](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-heb-euless-bedford-groundbreaking_00.00.22.52.jpg?ve=1&tl=1)
+ [![Trump to nominate Pam Bondi for attorney general](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/pam-bondi.jpg?ve=1&tl=1)
 
- ![H-E-B breaks ground on 3 new stores in DFW](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-heb-euless-bedford-groundbreaking_00.00.22.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/h-e-b-breaks-ground-3-new-stores-dfw)
+ ![Trump to nominate Pam Bondi for attorney general](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/pam-bondi.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominate-pam-bondi-attorney-general)
 
-### [H-E-B breaks ground on 3 new stores in DFW](https://www.fox4news.com/news/h-e-b-breaks-ground-3-new-stores-dfw)
+### [Trump to nominate Pam Bondi for attorney general](https://www.fox4news.com/news/trump-nominate-pam-bondi-attorney-general)
 
- [![Mavs star Luka Doncic has a right wrist sprain and will be re-evaluated in a week](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185042400.jpg?ve=1&tl=1)
+ [![Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/trump-picks-1.jpg?ve=1&tl=1)
 
- ![Mavs star Luka Doncic has a right wrist sprain and will be re-evaluated in a week](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185042400.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/mavs-star-luka-doncic-has-right-wrist-sprain-will-be-re-evaluated-week)
+ ![Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/trump-picks-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trumps-cabinet-white-house-staff-picks-whos-been-nominated-so-far)
 
-### [Mavs star Luka Doncic has a right wrist sprain and will be re-evaluated in a week](https://www.fox4news.com/sports/mavs-star-luka-doncic-has-right-wrist-sprain-will-be-re-evaluated-week)
+### [Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://www.fox4news.com/news/trumps-cabinet-white-house-staff-picks-whos-been-nominated-so-far)
 
 ###### [News](https://www.fox4news.com/news)
 
