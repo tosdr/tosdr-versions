@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2046'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2021'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/how-virtualization-works-1-80x46.jpeg.optimal.jpeg)](https://thebackroomtech.com/2019/03/11/how-to-enable-virtualization-in-windows-10/ "How to Enable Virtualization in Windows 10")[How to Enable Virtualization in Windows 10](https://thebackroomtech.com/2019/03/11/how-to-enable-virtualization-in-windows-10/ "How to Enable Virtualization in Windows 10")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2024'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/powershell-1-1-80x21.png)](https://thebackroomtech.com/2019/03/25/how-to-remove-a-hyper-v-vm-snapshot-using-powershell/ "How to Remove a Hyper-V VM Snapshot using PowerShell")[How to Remove a Hyper-V VM Snapshot using PowerShell](https://thebackroomtech.com/2019/03/25/how-to-remove-a-hyper-v-vm-snapshot-using-powershell/ "How to Remove a Hyper-V VM Snapshot using PowerShell")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2037'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/rwinsta-80x24.jpg.optimal.jpg)](https://thebackroomtech.com/2008/04/09/howto-remotely-disconnect-a-terminal-services-session/ "How to Remotely Disconnect a Terminal Services Session")[How to Remotely Disconnect a Terminal Services Session](https://thebackroomtech.com/2008/04/09/howto-remotely-disconnect-a-terminal-services-session/ "How to Remotely Disconnect a Terminal Services Session")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2059%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/ntdsutil-files-80x37.png)](https://thebackroomtech.com/2018/08/23/active-directory-dsrm-and-defragmentation/ "Active Directory DSRM and Defragmentation")[Active Directory DSRM and Defragmentation](https://thebackroomtech.com/2018/08/23/active-directory-dsrm-and-defragmentation/ "Active Directory DSRM and Defragmentation")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2047'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/telnet-client-59x52.png)](https://thebackroomtech.com/2009/05/28/fix-blank-screen-when-using-windows-xp-telnet-client/ "Fix: Blank Screen When using Windows XP Telnet Client")[Fix: Blank Screen When using Windows XP Telnet Client](https://thebackroomtech.com/2009/05/28/fix-blank-screen-when-using-windows-xp-telnet-client/ "Fix: Blank Screen When using Windows XP Telnet Client")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2022'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/remotely-viewing-vm-80x47.png)](https://thebackroomtech.com/2017/09/13/setup-vmware-workstation-server-connect-shared-vms/ "How to Setup VMware Workstation Server and Connect to Shared VMs")[How to Setup VMware Workstation Server and Connect to Shared VMs](https://thebackroomtech.com/2017/09/13/setup-vmware-workstation-server-connect-shared-vms/ "How to Setup VMware Workstation Server and Connect to Shared VMs")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2030'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-80x22.png)](https://thebackroomtech.com/2008/03/14/howto-shut-down-or-reboot-a-windows-2008-server-core-system/ "Howto: Shut down or reboot a Windows 2008 Server Core System")[Howto: Shut down or reboot a Windows 2008 Server Core System](https://thebackroomtech.com/2008/03/14/howto-shut-down-or-reboot-a-windows-2008-server-core-system/ "Howto: Shut down or reboot a Windows 2008 Server Core System")
+    ![](https://s11921.pcdn.co/wp-content/uploads/suse-linux-80x30.png)](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")[Howto: Mount a Windows share on SLES linux using cifs](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")
 
 #### Our Publishing Family
 
