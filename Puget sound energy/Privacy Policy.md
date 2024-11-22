@@ -359,20 +359,35 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Storm alert Updated Nov 21, 6:00 PM](#collapseOne)  
+[Storm alert Updated Nov 22, 6:00 AM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-##### Progress continues
+As of 6 a.m. we have 166,464 customers out. In the past 24 hours, we’ve restored power to an estimated 120,000 customers.
 
-Throughout the day crews made steady progress restoring power to customers impacted by Tuesday’s windstorm. 18 transmission lines, 42 distribution circuits and 15 substations were put back on-line today. These important pieces of infrastructure bring back on sometimes thousands of customers at once. Today we’ve seen the most progress with restoration of power to our schools, critical infrastructure and medical facilities. However, we understand that for those still affected it remains incredibly challenging, especially with the cold conditions. For customers needing support, please check with your local government or call 211 to find warming shelters and other resources. King 5 also has this [list of resources](https://www.king5.com/article/news/local/list-shelters-warming-centers-open-western-washington-residents-power-outages/281-8b4d0ed6-ecd4-44b8-a283-53e9ff8797d1).
+A message to our customers was sent through several channels yesterday. Please see the letter [here](https://www.pse.com/en/letter-to-our-customers).
 
-A message to our customers was sent through several channels this afternoon. Please see the letter [here](https://www.pse.com/en/letter-to-our-customers).
+We understand it can be frustrating waking up to continued power outages in the cold. For customers looking for resources, please check for information from 211, your local jurisdictions or media sources:
 
-The high winds and resulting tree damage not only downed the smaller, local power lines, but also damaged transmission lines – the larger lines that bring power into communities. Crews are steadily bringing transmission lines back online; this is an important step before crews can focus on the local distribution system. Please note that there will be temporary spikes in outage numbers as those systems are energized so you may see numbers go up and down on the PSE outage map as the process occurs. In some cases, customers may receive a notification that their power is restored when substations are energized – if you are still without power, please report your outage through the myPSE app or our outage map.
+* [KUOW - How to find warmth, electricity, and other storm resources in the Seattle area](https://www.kuow.org/stories/storm-resources-for-seattle-area)
+* [List: Shelters, warming centers open in western WA | king5.com](https://www.king5.com/article/news/local/list-shelters-warming-centers-open-western-washington-residents-power-outages/281-8b4d0ed6-ecd4-44b8-a283-53e9ff8797d1)
 
-Work will continue around the clock until every customer has power restored. We have the equipment and materials that are needed for the type of outages that can be caused by high winds. As crews finish work in one area, they are assigned to repair damage in another.
+PSE will have two info resource hubs where customers can get basic support, including charging for small devices, Wi-Fi, water, coffee, light snacks and information from PSE staff. Please note that these staff have the same restoration information available as the outage map and cannot provide individualized customer restoration info.
+
+**Hours are: 10-5, Friday, November 22**
+
+**In the parking lots of the following locations:**
+
+* Maple Valley Fred Meyer located at Maple Valley Town Square  
+    26520 Maple Valley Black Diamond Rd SE, Maple Valley
+* Kent Fred Meyer  
+    10201 SE 240th St, Kent
+
+We will be also at warming shelters set up by our community partners, where customers can connect with PSE staff to help with questions they have. These locations are:
+
+* **Warming Shelter - Issaquah Senior Center**  
+    75 NE Creek Way, Issaquah, WA 98027
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
