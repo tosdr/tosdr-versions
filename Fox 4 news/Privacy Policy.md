@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Lewisville woman confronts man she says was taking inappropriate photos of her at Walmart](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/lewisville-walmart-investigation.png?ve=1&tl=1)
+ [!['He's got a gun!' Shots fired, 1 in custody near Southlake Central Market](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/7b101b12e1aa6e68c1e149a028e92a41.jpg?ve=1&tl=1)
 
- ![Lewisville woman confronts man she says was taking inappropriate photos of her at Walmart](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/lewisville-walmart-investigation.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lewisville-woman-confronts-man-she-says-was-taking-photos-up-her-skirt-walmart)
+ !['He's got a gun!' Shots fired, 1 in custody near Southlake Central Market](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/7b101b12e1aa6e68c1e149a028e92a41.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shots-fired-southlake-central-market)
 
-### [Lewisville woman confronts man she says was taking inappropriate photos of her at Walmart](https://www.fox4news.com/news/lewisville-woman-confronts-man-she-says-was-taking-photos-up-her-skirt-walmart)
+### ['He's got a gun!' Shots fired, 1 in custody near Southlake Central Market](https://www.fox4news.com/news/shots-fired-southlake-central-market)
 
- [![Ellis County sanitation worker finds dead baby during garbage route](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-ellis-co-deceased-baby-9p_00.00.18.02.jpg?ve=1&tl=1)
+ [![1st US bird flu infection in a child confirmed by CDC](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/gettyimages-73225724.jpg?ve=1&tl=1)
 
- ![Ellis County sanitation worker finds dead baby during garbage route](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-ellis-co-deceased-baby-9p_00.00.18.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-county-dead-baby-investigation-november-21)
+ ![1st US bird flu infection in a child confirmed by CDC](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/592/333/gettyimages-73225724.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bird-flu-infection-child-california-confimed-cdc)
 
-### [Ellis County sanitation worker finds dead baby during garbage route](https://www.fox4news.com/news/ellis-county-dead-baby-investigation-november-21)
+### [1st US bird flu infection in a child confirmed by CDC](https://www.fox4news.com/news/bird-flu-infection-child-california-confimed-cdc)
 
- [![Euless man says he mutilated victims' bodies, ate human heart as part of 'ritualistic sacrifices'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-jason-thornburg-convicted-4a_00.00.05.22.jpg?ve=1&tl=1)
+ [![Kendrick Lamar drops 'GNX,' new surprise album](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1515117715-scaled.jpg?ve=1&tl=1)
 
- ![Euless man says he mutilated victims' bodies, ate human heart as part of 'ritualistic sacrifices'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-jason-thornburg-convicted-4a_00.00.05.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-thornburg-murder-conviction-trial-fort-worth-dumpster-fire-dismembered-bodies)
+ ![Kendrick Lamar drops 'GNX,' new surprise album](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1515117715-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gnx-kendrick-lamar-surprise-album)
 
-### [Euless man says he mutilated victims' bodies, ate human heart as part of 'ritualistic sacrifices'](https://www.fox4news.com/news/jason-thornburg-murder-conviction-trial-fort-worth-dumpster-fire-dismembered-bodies)
+### [Kendrick Lamar drops 'GNX,' new surprise album](https://www.fox4news.com/news/gnx-kendrick-lamar-surprise-album)
 
- [![Tarrant Area Food Bank gets help from Amazon to deliver meals to homebound residents](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/6p-296-tz-tafb-home-delivery-program_00.00.06.06.jpg?ve=1&tl=1)
+ [![What is Glicked? What to know about this year's Barbenheimer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/05/32/18/GCT-00008.jpg?ve=1&tl=1)
 
- ![Tarrant Area Food Bank gets help from Amazon to deliver meals to homebound residents](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/6p-296-tz-tafb-home-delivery-program_00.00.06.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tarrant-area-food-bank-gets-help-from-amazon-deliver-meals-homebound-residents)
+ ![What is Glicked? What to know about this year's Barbenheimer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/05/32/18/592/333/GCT-00008.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/what-is-glicked-what-know-barbenheimer)
 
-### [Tarrant Area Food Bank gets help from Amazon to deliver meals to homebound residents](https://www.fox4news.com/news/tarrant-area-food-bank-gets-help-from-amazon-deliver-meals-homebound-residents)
+### [What is Glicked? What to know about this year's Barbenheimer](https://www.fox4news.com/news/what-is-glicked-what-know-barbenheimer)
 
- [![ChatGPT outperformed doctors in diagnostic accuracy, study reveals](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1246494152.jpg?ve=1&tl=1)
+ [![Trump's hush money sentencing postponed indefinitely](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183885737.jpg?ve=1&tl=1)
 
- ![ChatGPT outperformed doctors in diagnostic accuracy, study reveals](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1246494152.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chatgpt-outperforms-doctors-diagnoses-study)
+ ![Trump's hush money sentencing postponed indefinitely](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183885737.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-hush-money-sentencing-postponed-indefinitely)
 
-### [ChatGPT outperformed doctors in diagnostic accuracy, study reveals](https://www.fox4news.com/news/chatgpt-outperforms-doctors-diagnoses-study)
+### [Trump's hush money sentencing postponed indefinitely](https://www.fox4news.com/news/trump-hush-money-sentencing-postponed-indefinitely)
 
 ###### [News](https://www.fox4news.com/news)
 
