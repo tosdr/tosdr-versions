@@ -6,6 +6,14 @@
 
 * [Who we are](http://corporate.exxonmobil.com/who-we-are)
     
+    ![](/dfsmedia/203ddbf073b24e7dac6f6243dabf7669/140572-50059/options/keepaspectratio/joliet-2-postv2-240712-842-x-474-landscape-169-2880-x-1620 )
+    
+    #### Who we are
+    
+    We're committed to responsibly meeting society’s evolving energy needs.
+    
+    [Who we are](http://corporate.exxonmobil.com/who-we-are)
+    
     [Who we are](http://corporate.exxonmobil.com/who-we-are)
     
     * * [Our global organization](http://corporate.exxonmobil.com/who-we-are/our-global-organization)
@@ -14,6 +22,14 @@
         * [Policy](http://corporate.exxonmobil.com/who-we-are/policy)
     
 * [What we do](http://corporate.exxonmobil.com/what-we-do)
+    
+    ![](/dfsmedia/203ddbf073b24e7dac6f6243dabf7669/126011-50059/options/keepaspectratio/gettyimages-1205972143-7360-x-4144-landscape-169-2880-x-1620 )
+    
+    #### What we do
+    
+     Creating energy and sustainable solutions that improve quality of life and meet society’s evolving needs.
+    
+    [What we do](http://corporate.exxonmobil.com/what-we-do)
     
     [What we do](http://corporate.exxonmobil.com/what-we-do)
     
@@ -24,13 +40,47 @@
     
 * [Sustainability and reports](http://corporate.exxonmobil.com/sustainability-and-reports)
     
+    ![](/dfsmedia/203ddbf073b24e7dac6f6243dabf7669/120402-50059/options/keepaspectratio/strath20220909-132-x-landscape-169-2880-x-1620 )
+    
+    #### Sustainability and reports
+    
+    ExxonMobil is committed to improving quality of life by meeting the needs of society.
+    
+    [Sustainability and reports](http://corporate.exxonmobil.com/sustainability-and-reports)
+    
     [Sustainability and reports](http://corporate.exxonmobil.com/sustainability-and-reports)
     
     * * [Global Outlook](http://corporate.exxonmobil.com/sustainability-and-reports/global-outlook)
         * [Advancing Climate Solutions](http://corporate.exxonmobil.com/sustainability-and-reports/advancing-climate-solutions)
         * [Sustainability](http://corporate.exxonmobil.com/sustainability-and-reports/sustainability)
     
+* [Community](http://corporate.exxonmobil.com/community)
+    
+    ![](/dfsmedia/203ddbf073b24e7dac6f6243dabf7669/143108-50059/options/keepaspectratio/dsc03076-4176-x-2350-landscape-169-2880-x-1620 )
+    
+    #### Investing in communities
+    
+    We’re committed to being a good corporate citizen, helping to improve society and quality of life where we operate around the world.
+    
+    [Community](http://corporate.exxonmobil.com/community)
+    
+    [Community](http://corporate.exxonmobil.com/community)
+    
+    * * [Managing socioeconomic impacts](http://corporate.exxonmobil.com/sustainability-and-reports/sustainability/engaging-communities-and-our-supply-chain/managing-socioeconomic-impacts)
+        * [Philanthropy and social contributions](http://corporate.exxonmobil.com/sustainability-and-reports/sustainability/engaging-communities-and-our-supply-chain/managing-socioeconomic-impacts/philanthropy-and-social-contributions)
+        * [Respecting human rights](http://corporate.exxonmobil.com/sustainability-and-reports/sustainability/engaging-communities-and-our-supply-chain/respecting-human-rights)
+        * [STEM education](http://corporate.exxonmobil.com/stem)
+        * [Worldwide giving](http://corporate.exxonmobil.com/who-we-are/corporate-giving/worldwide-giving)
+    
 * [Newsroom](http://corporate.exxonmobil.com/news)
+    
+    ![](/dfsmedia/203ddbf073b24e7dac6f6243dabf7669/83402-50059/options/keepaspectratio/company-news-and-updates-speeches-natural-gas-and-the-transformation-supporting-i )
+    
+    #### Global newsroom
+    
+    Stay up to date with the latest news releases and publications from around the globe.
+    
+    [Newsroom](http://corporate.exxonmobil.com/news)
     
     [Newsroom](http://corporate.exxonmobil.com/news)
     
@@ -39,6 +89,14 @@
         * [Subscription center](http://corporate.exxonmobil.com/news/subscribe)
     
 * [Investors](https://investor.exxonmobil.com/)
+    
+    ![](/dfsmedia/203ddbf073b24e7dac6f6243dabf7669/142828-50059/options/keepaspectratio/20240926-xom-permian-03423-edit-8192-x-4610-landscape-169-2880-x-1620 )
+    
+    #### Investors
+    
+    Explore financials, strategy and reports showcasing our growth and investor value.
+    
+    [Investors](https://investor.exxonmobil.com/)
     
     [Investors](https://investor.exxonmobil.com/)
     
