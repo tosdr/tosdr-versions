@@ -613,25 +613,25 @@ Most recent
 
 [22-11-2024
 
-Ukrainians battling for culture in the shadow of war](https://www.euractiv.com/section/politics/news/ukrainians-battling-for-culture-in-the-shadow-of-war/)[21-11-2024
+Unpopular Scholz set to run for second term after Pistorius bows out](https://www.euractiv.com/section/politics/news/unpopular-scholz-set-to-run-for-second-term-after-pistorius-bows-out/)[22-11-2024
 
-Energy savings coalition hopes Jørgensen sets ambitious energy efficiency targets](https://www.euractiv.com/section/eet/news/energy-savings-coalition-hopes-jorgensen-sets-ambitious-energy-efficiency-targets/)[21-11-2024
+Romania’s radical right leader Simion, a Trump fan, eyes presidency](https://www.euractiv.com/section/politics/news/romanias-radical-right-leader-simion-a-trump-fan-eyes-presidency/)[22-11-2024
 
-Political groups’ agreement on Health Commissioner Várhelyi leaves deep divisions](https://www.euractiv.com/section/health-consumers/news/political-groups-agreement-on-health-commissioner-varhelyi-leaves-deep-divisions/)[21-11-2024
+Nuclear sector pins hopes on 2026 for ‘low-carbon’ hydrogen label](https://www.euractiv.com/section/eet/news/nuclear-sector-pins-hopes-on-2026-for-low-carbon-hydrogen-label/)[22-11-2024
 
-ICC arrest warrant for Netanyahu ‘binding’ on all member states, says EU chief diplomat](https://www.euractiv.com/section/global-europe/news/icc-arrest-warrant-for-netanyahu-binding-on-all-member-states-says-eu-chief-diplomat/)[21-11-2024
+EU funded scheme delivers one million ammunition to Ukraine, looks at industry direct investment](https://www.euractiv.com/section/global-europe/news/eu-funded-scheme-delivers-one-million-ammunition-to-ukraine-looks-direct-investment-into-industry/)[22-11-2024
 
-UK cuts €500 billion from defence budget, retires several major aircraft and ships](https://www.euractiv.com/section/global-europe/news/uk-cuts-e500-billion-from-defence-budget-retires-several-major-aircraft-and-ships/)[21-11-2024
+Sweden’s Northvolt files for bankruptcy, in blow to Europe’s EV ambitions](https://www.euractiv.com/section/eet/news/swedens-northvolt-files-for-bankruptcy-in-blow-to-europes-ev-ambitions/)[22-11-2024
 
-Large capex investment needed for Europe’s district heating solutions, tailored approach preferred](https://www.euractiv.com/section/eet/news/large-capex-investment-needed-for-europes-district-heating-solutions-tailored-approach-preferred/)[21-11-2024
+Slovakia’s Fico backs Serbia over Kosovo, pledges to increase KFOR troops](https://www.euractiv.com/section/politics/news/the-capitals-slovakias-fico-backs-serbia-over-kosovo-pledges-to-increase-kfor-troops/)[22-11-2024
 
-Universal access to diabetes care urgently needed in Europe, but political will is lacking](https://www.euractiv.com/section/health-consumers/news/universal-access-to-diabetes-care-urgently-needed-in-europe-but-political-will-is-lacking/)[21-11-2024
+Romanian government approves energy strategy](https://www.euractiv.com/section/politics/news/romanian-government-approves-energy-strategy/)[22-11-2024
 
-European shellfish producers call for common policy to combat sea warming](https://www.euractiv.com/section/agriculture-food/news/european-shellfish-producers-call-for-common-policy-to-combat-sea-warming/)[21-11-2024
+Dismissed chief prosecutor sues Bulgaria before Strasbourg human rights court](https://www.euractiv.com/section/politics/news/dismissed-chief-prosecutor-sues-bulgaria-before-strasbourg-human-rights-court/)[22-11-2024
 
-Bitter tensions in Slovak healthcare growing, still no deal between ministry and unions](https://www.euractiv.com/section/health-consumers/news/bitter-tensions-in-slovak-healthcare-growing-still-no-deal-between-ministry-and-unions/)[21-11-2024
+Polish MEP urges Trump to back World War II reparations demands from Germany](https://www.euractiv.com/section/politics/news/polish-mep-urges-trump-to-back-world-war-ii-reparations-demands-from-germany/)[22-11-2024
 
-A remarriage built on mistrust](https://www.euractiv.com/section/politics/news/a-remarriage-built-on-mistrust/)
+Former Portuguese president fears global conflict, particularly worrying for Europe](https://www.euractiv.com/section/politics/news/former-portuguese-president-fears-global-conflict-particularly-worrying-for-europe/)
 
 ###### Advertisement
 
