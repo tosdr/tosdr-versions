@@ -61,6 +61,7 @@ SECS](https://shop.angel.com/collections/veterans-day-sale-25-off-with-code-vet2
     
     * [$5 Shirts](https://tuttletwins.store/collections/bfcm-5-shirts)
     * [10% Off](https://tuttletwins.store/collections/bfcm-10)
+    * [20% Off](https://tuttletwins.store/collections/bfcm-20)
     * [30% Off](https://tuttletwins.store/collections/bfcm-30-off)
     * [40% Off](https://tuttletwins.store/collections/bfcm-40)
     * [50% Off](https://tuttletwins.store/collections/bfcm-50-off)
@@ -425,6 +426,10 @@ USD $ | United States
     * [![header icon](//shop.angel.com/cdn/shop/files/30_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-30-off)
         
         30% Off
+        
+    * [![header icon](//shop.angel.com/cdn/shop/files/Christmas_Icons_100_x_100_px_1024x1024.png?v=1732299933)](https://tuttletwins.store/collections/bfcm-20)
+        
+        20% Off
         
     * [![header icon](//shop.angel.com/cdn/shop/files/10_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-10)
         
