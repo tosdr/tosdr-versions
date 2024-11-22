@@ -7,7 +7,7 @@
 Terms and Conditions
 ====================
 
-Terms of ServiceTerms of ServicePrivacy PolicyCookie PolicyMusic DistributionSocial PlatformsFacebook MonetizationYouTube Sound Recording RevenueStore AutomatorCopyright PolicyPublishing AdministrationSync LicensingTunecore SocialTuneCore AI Technologies Terms and Conditions
+Terms of ServiceTerms of ServicePrivacy PolicyCookie PolicyMusic DistributionSocial PlatformsFacebook MonetizationYouTube Sound Recording RevenueStore AutomatorCopyright PolicyPublishing AdministrationSync LicensingTunecore Social AI and Data Protection Program Terms and Conditions
 
 **These Terms and Conditions were last revised and are effective as of April 1st, 2021**
 
@@ -21,7 +21,7 @@ BEFORE USING THE DISTRIBUTOR SITES, PLEASE READ THE FOLLOWING TERMS CAREFULLY. B
 
 **Eligibility**. In order to use the Distributor Sites, you must either be at least eighteen (18) years of age or older (or be at least thirteen (13) years of age and possess the consent of your parent(s) and/or legal guardian), and fully able and competent to (i) enter into the terms, conditions, obligations, affirmations, representations and warranties set forth in these Terms; and (ii) abide by and comply with these Terms. You hereby represent that you meet the eligibility requirements in this Section.
 
-**Privacy Notice**. Your privacy is important to us. Please read the Distributor Sites’ Privacy Policy at \[insert link\] carefully for information relating to Distributor's collection, use, and disclosure of your personal information.
+**Privacy Notice**. Your privacy is important to us. Please read the Distributor Sites’ [Privacy Policy](https://www.tunecore.com/terms#privacy-policy) at [https://www.tunecore.com/terms#privacy-policy](https://www.tunecore.com/terms#privacy-policy) carefully for information relating to Distributor's collection, use, and disclosure of your personal information.
 
 **Modification of the Terms**. Distributor reserves the right, at our discretion, to change, modify, add, or remove portions of these Terms, including the Supplemental Terms, at any time for any reason, and we may notify you of such changes through any of a variety of means, including a change to the “Last Updated” date set forth above and other reasonable means to be determined in our discretion. All changes shall be effective immediately. In the event of a material change that may directly affect your account, we will use reasonable efforts to notify you via the most recent email address that you have provided to us in conjunction with your account. Please check these Terms periodically for changes. Your continued use of the Distributor Sites after the posting of changes constitutes your binding acceptance of such changes.
 
