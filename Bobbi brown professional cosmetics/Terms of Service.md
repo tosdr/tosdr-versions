@@ -284,8 +284,6 @@ Special offers
 
 [See Today's Offer](https://www.bobbibrowncosmetics.com/offers-landing-page "See Today's Offer")
 
-[Scratch Off To Win](https://www.bobbibrowncosmetics.com/holiday-scratch-off-game "Scratch Off To Win")
-
 [Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
 
 [Auto Replenishment](https://www.bobbibrowncosmetics.com/products/15597/makeup/auto-replenishment "Auto Replenishment")
