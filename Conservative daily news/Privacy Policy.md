@@ -2,14 +2,14 @@ Friday, November 22 2024
 
 Breaking News
 
+* [Trump Announces New Attorney General After Gaetz Withdrawal](https://www.conservativedailynews.com/2024/11/trump-announces-new-attorney-general-after-gaetz-withdrawal/)
+* [FINALLY: Bob Casey Concedes To Dave McCormick](https://www.conservativedailynews.com/2024/11/finally-bob-casey-concedes-to-dave-mccormick/)
+* [It Is A Coming Out Party For Trump Supporters](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/)
+* [President Joe Biden’s Schedule for Friday, November 22, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-22-2024/)
 * [Biden Admin Moves To Forgive Multi-Billion Dollar Loan To Ukraine](https://www.conservativedailynews.com/2024/11/biden-admin-moves-to-forgive-multi-billion-dollar-loan-to-ukraine/)
 * [Matt Gaetz Withdraws From Attorney General Nomination](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
 * [Foreign Officials Make Serious Push For Global Climate Taxes Ahead Of Trump’s Second Term](https://www.conservativedailynews.com/2024/11/foreign-officials-make-serious-push-for-global-climate-taxes-ahead-of-trumps-second-term/)
 * [Have the Lawless Democrats Learned their Lesson Yet?](https://www.conservativedailynews.com/2024/11/have-the-lawless-democrats-learned-their-lesson-yet/)
-* [GOP Challenger Unseats Dem Incumbent To Win Alaska’s Lone House Seat](https://www.conservativedailynews.com/2024/11/gop-challenger-unseats-dem-incumbent-to-win-alaskas-lone-house-seat/)
-* [President Joe Biden’s Schedule for Thursday, November 21, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-thursday-november-21-2024/)
-* [White House Press Briefing with Karine Jean-Pierre – 11/21/24](https://www.conservativedailynews.com/2024/11/white-house-press-briefing-with-karine-jean-pierre-11-21-24/)
-* [Joe Rogan Rips Into Bill Gates Over COVID Profits, Claims Vaccine Push Ruined Millions Of Lives](https://www.conservativedailynews.com/2024/11/joe-rogan-rips-into-bill-gates-over-covid-profits-claims-vaccine-push-ruined-millions-of-lives/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,36 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Donald-Trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/trump-announces-new-attorney-general-after-gaetz-withdrawal/)
+    
+    [Trump Announces New Attorney General After Gaetz Withdrawal](https://www.conservativedailynews.com/2024/11/trump-announces-new-attorney-general-after-gaetz-withdrawal/)
+    
+    November 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Counting-ballots-220x150.jpg)](https://www.conservativedailynews.com/2024/11/finally-bob-casey-concedes-to-dave-mccormick/)
+    
+    [FINALLY: Bob Casey Concedes To Dave McCormick](https://www.conservativedailynews.com/2024/11/finally-bob-casey-concedes-to-dave-mccormick/)
+    
+    November 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5805-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/)
+    
+    [It Is A Coming Out Party For Trump Supporters](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/)
+    
+    November 22, 2024
+    
+* [![Joe Biden war Ukraine Russia](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv112224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/parting-gift/)
+    
+    [Parting Gift](https://www.conservativedailynews.com/2024/11/parting-gift/)
+    
+    November 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/05/Joe-Biden-White-House-Spring-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-22-2024/)
+    
+    [President Joe Biden’s Schedule for Friday, November 22, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-22-2024/)
+    
+    November 22, 2024
+    
 * [![Ukraine Zelenskyy Biden](https://www.conservativedailynews.com/wp-content/uploads/2023/12/image-22-220x150.png)](https://www.conservativedailynews.com/2024/11/biden-admin-moves-to-forgive-multi-billion-dollar-loan-to-ukraine/)
     
     [Biden Admin Moves To Forgive Multi-Billion Dollar Loan To Ukraine](https://www.conservativedailynews.com/2024/11/biden-admin-moves-to-forgive-multi-billion-dollar-loan-to-ukraine/)
@@ -148,49 +178,19 @@ Recent Posts
     
     November 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/trump-could-make-bidens-ev-mandates-obsolete-revamp-auto-industry-with-one-move/)
-    
-    [Trump Could Make Biden’s EV Mandates Obsolete, Revamp Auto Industry With One Move](https://www.conservativedailynews.com/2024/11/trump-could-make-bidens-ev-mandates-obsolete-revamp-auto-industry-with-one-move/)
-    
-    November 21, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/11/have-the-lawless-democrats-learned-their-lesson-yet/)
-    
-    [Have the Lawless Democrats Learned their Lesson Yet?](https://www.conservativedailynews.com/2024/11/have-the-lawless-democrats-learned-their-lesson-yet/)
-    
-    November 21, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/03/Thumbs-up-approval-approve-220x150.jpg)](https://www.conservativedailynews.com/2024/11/gop-challenger-unseats-dem-incumbent-to-win-alaskas-lone-house-seat/)
-    
-    [GOP Challenger Unseats Dem Incumbent To Win Alaska’s Lone House Seat](https://www.conservativedailynews.com/2024/11/gop-challenger-unseats-dem-incumbent-to-win-alaskas-lone-house-seat/)
-    
-    November 21, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/11/Opioids.jpg)](https://www.conservativedailynews.com/2024/11/the-extended-release-culture-pills-ercp/)
-    
-    [The Extended Release Culture Pills (#ERCP)](https://www.conservativedailynews.com/2024/11/the-extended-release-culture-pills-ercp/)
-    
-    November 21, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental.jpg)](https://www.conservativedailynews.com/2024/11/international-criminal-court-issues-arrest-warrant-for-netanyahu/)
-    
-    [International Criminal Court Issues Arrest Warrant For Netanyahu](https://www.conservativedailynews.com/2024/11/international-criminal-court-issues-arrest-warrant-for-netanyahu/)
-    
-    November 21, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Ohio Democrats Push 10-Day Waiting Period for Gun Purchases](https://www.thegunpage.com/ohio-democrats-push-10-day-waiting-period-for-gun-purchases/10612056)
+* [Lawsuit Challenges Maine's 72-Hour Waiting Period](https://www.thegunpage.com/lawsuit-challenges-maines-72-hour-waiting-period/10612051)
+* [Canadian Woman Arrested In Texas For Stolen Guns Bound For Canada](https://www.thegunpage.com/canadian-woman-arrested-in-texas-for-stolen-guns-bound-for-canada/10612049)
+* [Preserve History, Win A Classic Sniper Rifle](https://www.thegunpage.com/preserve-history-win-a-classic-sniper-rifle/10612052)
+* [How Democrats Are Trying To Resurrect The Bump Stock Ban](https://www.thegunpage.com/how-democrats-are-trying-to-resurrect-the-bump-stock-ban/10612046)
 * [Family At The Heart Of Competition: Inland Empire USPSA Sectional Championships](https://www.thegunpage.com/family-at-the-heart-of-competition-inland-empire-uspsa-sectional-championships/10612045)
 * [TFB Review: DNT Optics TheOne 7-35×56 MRAD Scope](https://www.thegunpage.com/tfb-review-dnt-optics-theone-7-35x56-mrad-scope/10612042)
 * [POTD: JP Rifles JP CTR-02 With New Spuhr RDF Aimpoint Mount](https://www.thegunpage.com/potd-jp-rifles-jp-ctr-02-with-new-spuhr-rdf-aimpoint-mount/10612043)
 * [Concealed Carry Corner: Lights For Carrying Concealed](https://www.thegunpage.com/concealed-carry-corner-lights-for-carrying-concealed/10612044)
 * [PF-1 EDC Bag: Fast Access Concealed Carry EDC Bag For The Unpredictable](https://www.thegunpage.com/pf-1-edc-bag-fast-access-concealed-carry-edc-bag-for-the-unpredictable/10612035)
-* [3D Printer Software Can’t Stop Gun Making](https://www.thegunpage.com/3d-printer-software-cant-stop-gun-making/10612033)
-* [POF-USA Launches Light Modular Rifle (LMR) BASE Rifle](https://www.thegunpage.com/pof-usa-launches-light-modular-rifle-lmr-base-rifle/10612031)
-* [Mother Confronts Man Texting Her Daughter Before He Is Shot By Police](https://www.thegunpage.com/mother-confronts-man-texting-her-daughter-before-he-is-shot-by-police/10612026)
-* [GOA Reaction: PA Supreme Court Guts Philadelphia Gun Control, Upholds State Preemption Law](https://www.thegunpage.com/goa-reaction-pa-supreme-court-guts-philadelphia-gun-control-upholds-state-preemption-law/10612025)
-* [Freedom Munitions Moves Jobs To Idaho From Nevada](https://www.thegunpage.com/freedom-munitions-moves-jobs-to-idaho-from-nevada/10612023)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Parting Gift](https://www.conservativedailynews.com/2024/11/parting-gift/#comment-783343)
 * Stanley Warner on [Our Elections Need To Be Fixed Before The 2026 Midterms](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/#comment-783327)
 * [Bill](http://conservativedailynews.com/) on [Crap Fight](https://www.conservativedailynews.com/2024/11/crap-fight/#comment-783326)
 * [Bill](http://conservativedailynews.com/) on [Barrage Of Liberal Judges Will Be Schumer’s Swan Song](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/#comment-783325)
@@ -240,7 +241,6 @@ Recent Comments
 * MeMyself&I on [Jen Psaki Admits Dems Are ‘In The Wilderness’ Without A ‘Clear Leader Of The Party’](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/#comment-783298)
 * Stanley Warner on [If You Think Kamala Harris Was Serious About The Things She Promised During The Recent Presidential Campaign, You’re Dead Wrong](https://www.conservativedailynews.com/2024/11/if-you-think-kamala-harris-was-serious-about-the-things-she-promised-during-the-recent-presidential-campaign-youre-dead-wrong/#comment-783295)
 * Stanley Warner on [Five Government Programs That Musk’s Government Efficiency Agency Could Put On The Chopping Block](https://www.conservativedailynews.com/2024/11/five-government-programs-that-musks-government-efficiency-agency-could-put-on-the-chopping-block/#comment-783286)
-* Stanley Warner on [Trump Sends His Clearest Message Yet To DOJ Bureaucrats With Unexpected Leadership Picks](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/#comment-783285)
 
 [Close](#)
 
