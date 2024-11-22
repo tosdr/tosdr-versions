@@ -37,7 +37,7 @@
         * [Login](https://www.mobygames.com/user/login/)
         * [Register](https://www.mobygames.com/user/register/)
 
-🐳 10,296 items were approved and added to [the database](https://www.mobygames.com/stats/) in the past week!
+🕹️ [Pre-Order the NEW Atari 7800+ Today!](https://atari.com/products/atari-7800?utm_source=mobygames&utm_medium=referral&utm_campaign=launch)
 
 [![Tetris Forever](https://www.mobygames.com/static/img/tf_1180x90.909323bd.png)](https://www.digitaleclipse.com/games/tetrisforever)
 
