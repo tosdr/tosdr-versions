@@ -8,7 +8,7 @@ Nov
 
 * * *
 
-21](https://www.kingcounty.gov/en/calendar)
+22](https://www.kingcounty.gov/en/calendar)
 
 language English
 
@@ -62,7 +62,7 @@ Global Navigation
 * [Marriage licenses](https://kingcounty.gov/legacy/depts/records-licensing/recorders-office/marriage-licensing.aspx)
 * [Birth certificates](https://www.kingcounty.gov/en/dept/dph/certificates-permits-licenses/order-birth-certificate)
 * [Death certificates](https://www.kingcounty.gov/en/dept/dph/certificates-permits-licenses/order-death-certificate)
-* [Gun (concealed pistol) licenses](https://kingcounty.gov/legacy/depts/sheriff/services/concealed-pistol-license.aspx)
+* [Gun (concealed pistol) licenses](https://www.kingcounty.gov/en/dept/sheriff/courts-jails-legal-system/sheriff-services/concealed-pistol-license)
 * [Car, truck, and boat licenses](https://kingcounty.gov/legacy/depts/records-licensing/licensing/vehicle-vessel.aspx)
 * [Food business permits](https://www.kingcounty.gov/en/dept/dph/certificates-permits-licenses/food-business-permits)
 * [Pet licenses](https://www.kingcounty.gov/en/dept/executive-services/animals-pets-pests/regional-animal-services/pet-licenses)
@@ -73,7 +73,7 @@ Global Navigation
 * [Adult jails](https://www.kingcounty.gov/en/dept/dajd/courts-jails-legal-system/facilities-programs/adult-jails-seattle-kent)
 * [Apply for a passport](https://www.kingcounty.gov/en/court/district-court/courts-jails-legal-system/passports)
 * [Find someone in jail](https://www.kingcounty.gov/en/dept/dajd/courts-jails-legal-system/information-services-jail-detention/locate-person-jail)
-* [Sex offender registry](https://kingcounty.gov/legacy/depts/sheriff/sex-offender-search)
+* [Sex offender registry](https://www.kingcounty.gov/en/dept/sheriff/courts-jails-legal-system/sheriff-services/sex-offender-registration)
 
 ### Data and information services expand\_more
 
