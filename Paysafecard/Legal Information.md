@@ -481,15 +481,15 @@ The Paysafe Group comprises Paysafe Group Holdings Limited, together with its su
 * Paysafe Prepaid Services Limited (Ireland)
 * Paysafe Technologies Inc. / Technologies Paysafe Inc. (Canada)
 * PaysafeCard Ön Ödeme Servisleri Ltd. Şti. (Turkey)
-* PaysafeCard.com Argentina S.R.L. (Argentina)
-* PaysafeCard.com MENA DMCC (UAE)
-* PaysafeCard.com Mexico S.A. de C.V.(Mexico)
-* PaysafeCard.com Schweiz GmbH (Switzerland)
+* paysafecard.com Argentina S.R.L. (Argentina)
+* paysafecard.com MENA DMCC (UAE)
+* paysafecard.com Mexico S.A. de C.V.(Mexico)
+* paysafecard.com Schweiz GmbH (Switzerland)
 * Paysafecard.com USA Inc (USA)
-* PaysafeCard.com Wertkarten GmbH (Austria)
-* PaysafeCard.com Wertkarten UK (UK)
-* PaysafeCard.com Wertkarten (Irish Branch; Ireland)
-* PaysafeCard.com Wertkarten Vertriebs GmbH (Austria)
+* paysafecard.com Wertkarten GmbH (Austria)
+* paysafecard.com Wertkarten UK (UK)
+* paysafecard.com Wertkarten (Irish Branch; Ireland)
+* paysafecard.com Wertkarten Vertriebs GmbH (Austria)
 * Prepaid Services Company Limited (UK)
 * SaftPay Inc. (US)
 * SaftyPay del Peru S.A.C (Peru)
@@ -545,6 +545,6 @@ Support
 
 [Google Play](https://play.google.com/store/apps/details?id=at.paysafecard.android&referrer=adjust_reftag%3DcIGmAvoU2TFcK%26utm_source%3DWebsite%2B-%2BApp%2BSeite) [Apple iOS](https://apps.apple.com/app/id588324792)
 
-_©_2024 PaysafeCard.com Wertkarten GmbH. All rights reserved. PaysafeCard closed loop gift card ticket is issued by The Bancorp Bank N.A. Member FDIC. PaysafeCard is a registered trademark of PaysafeCard.com Wertkarten GmbH.
+_©_2024 paysafecard.com Wertkarten GmbH. All rights reserved. PaysafeCard closed loop gift card ticket is issued by The Bancorp Bank N.A. Member FDIC. PaysafeCard is a registered trademark of paysafecard.com Wertkarten GmbH.
 
 [![PaysafeCard - a Paysafe Experience](/typo3conf/ext/theme/Resources/Public/images/icons/psc_experience_logo.svg)](https://www.paysafe.com/)
