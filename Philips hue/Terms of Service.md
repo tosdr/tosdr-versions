@@ -4,7 +4,7 @@
     
     Shop
     
-    * [New Year sale](https://www.philips-hue.com/en-us/products/promotions/light-up-your-resolutions)
+    * [Black Friday](https://www.philips-hue.com/en-us/products/promotions/black-friday-cyber-monday-deals)
     * [New](https://www.philips-hue.com/en-us/products/promotions/newest-philips-hue-products)
     * [Exclusives](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive)
     * [Top sellers](https://www.philips-hue.com/en-us/products/all-products?sort=most-sold)
@@ -15,9 +15,9 @@
     
     Black Friday](https://www.philips-hue.com/en-us/products/promotions/black-friday-cyber-monday-deals)
     
-    [![New! Table lamps](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
+    [![Sync box](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
     
-    New! Table lamps](https://www.philips-hue.com/en-us/products/smart-table-lamps/table-lamp-lightguide)
+    Sync box](https://www.philips-hue.com/en-us/products/smart-light-accessories?filters=FK_HUE_LIGHTING_ACCESSORY_DEVICES&page=1&sort=relevance)
     
     [![Home security](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
     
