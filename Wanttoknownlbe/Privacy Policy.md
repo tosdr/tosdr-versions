@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/geschiedenis/onze-jfk-memorial/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/wat-het-leven-je-wil-vertellen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -197,6 +197,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
+
+##### **ikzie** reacts on:
+
+##### In de schaduw van de geneeskunde…
+
+[Minister Agema: werkloze arbeidsmigranten zonder zorgverzeke…](https://www.wanttoknow.nl/gezondheid/in-de-schaduw-van-de-geneeskunde/comment-page-1/#comment-626374)
 
 ![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
 
@@ -445,14 +453,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### De sluiers worden opgelicht..!
 
 [Blijkbaar is de "redder" Trump nog steeds het oogappeltje va…](https://www.wanttoknow.nl/inspiratie/de-sluiers-worden-opgelicht/comment-page-1/#comment-626342)
-
-![Senjutsu](https://secure.gravatar.com/avatar/744ec16c6541fe3eb3d9745c3bf7eff8?s=50&d=identicon&r=g)
-
-##### **Senjutsu** reacts on:
-
-##### Wat is er met ons bloed aan de hand?
-
-[Gelukkig is er voor ieder probleem een oplossing. EDTA verni…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/wat-is-er-met-ons-bloed-aan-de-hand/comment-page-1/#comment-626341)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
