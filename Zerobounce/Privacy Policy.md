@@ -125,7 +125,7 @@ Last updated: March 22, 2024
 Privacy Policy
 ==============
 
-This privacy policy discloses the privacy practices for [www.zerobounce.net](https://www.zerobounce.net/ "Homepage") (the “Site”), including ZeroBounce’s policies on the collection, use, and disclosure of information in connection with Your use of the Site and any related email validation_ⓘ_A process that determines if an email address uses valid syntax, exists on a given domain, and is configured to receive incoming email messages services (the “Services”). When You access or use the Site or the Services, You agree to the terms and conditions of this Privacy Policy.
+This privacy policy discloses the privacy practices for [www.zerobounce.net](https://www.zerobounce.net/ "Homepage") (the “Site”), including ZeroBounce’s policies on the collection, use, and disclosure of information in connection with Your use of the Site and any related email validation services (the “Services”). When You access or use the Site or the Services, You agree to the terms and conditions of this Privacy Policy.
 
 PARTICIPATION IN EU-U.S. DATA PRIVACY FRAMEWORK AND U.K. EXTENSION AND SWISS-U.S. DATA PRIVACY FRAMEWORK
 --------------------------------------------------------------------------------------------------------
