@@ -202,15 +202,14 @@ Atos homepage](https://atos.net/en/)
         Upcoming events
         ---------------
         
-        * [Atos Group at Microsoft Ignite 2024](https://atos.net/en/events/microsoft-ignite-2024)
         * [AWS re:Invent 2024](https://atos.net/en/events/aws-reivent-2024)
         * [Innovation in Disability Inclusion event 2024](https://atos.net/en/events/innovation-in-disability-inclusion-event-2024)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 19, 2024 - Nov 22, 2024
+        Dec 2, 2024 - Dec 6, 2024
         
-        ### Atos Group at Microsoft Ignite 2024
+        ### AWS re:Invent 2024
         
 * About Us
     * <<
