@@ -515,4 +515,4 @@ Resources
 
 Legal
 
-[Security](https://hinge.co/security)[Terms](https://hinge.co/terms)[Privacy](https://hinge.co/privacy)[Cookie Policy](https://hinge.co/cookie-policy)Cookie Settings[Consumer Health Data Privacy Policy](https://hinge.co/consumer-health-data-privacy-policy)
+[Security](https://hinge.co/security)[Terms](https://hinge.co/terms)[Privacy](https://hinge.co/privacy)[Cookie Policy](https://hinge.co/cookie-policy)[Consumer Health Data Privacy Policy](https://hinge.co/consumer-health-data-privacy-policy)Your Privacy Choices
