@@ -1,6 +1,6 @@
 [Skip to Main Content](#main-content)
 
-**FREE SHIPPING ON ORDERS OVER $60**
+**FREE SHIPPING AND FREE GIFT ON ORDERS OVER $60**
 
 [](#menu-mobile)
 
@@ -28,7 +28,7 @@ WATCH VIDEO
 
 Everything on **SALE** This Week!
 
-**FREE SHIPPING ON ORDERS OVER $60**
+**FREE SHIPPING AND FREE GIFT ON ORDERS OVER $60**
 
 [![Snuggie Store](//snuggiestore.com/cdn/shop/files/Snuggie_Shopify_Logo_a8832295-c9a7-48dc-81f4-76e4947ade17_600x.png?v=1702394708)](https://snuggiestore.com/)
 
