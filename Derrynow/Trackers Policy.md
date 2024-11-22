@@ -266,28 +266,12 @@ Most Popular
 [Throwback Thursday: Partytime out and about in Derry's Metro Bar (2007)](https://www.derrynow.com/story-telling/pictures---videos/1660456/throwback-thursday-partytime-out-and-about-in-derry-s-metro-bar-2007.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1660455/derry-death-notices-thursday-november-21st-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, November 21st, 2024](https://www.derrynow.com/news/deaths/1660455/derry-death-notices-thursday-november-21st-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man jailed for 15 months for series of domestic abuse offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man jailed for 15 months for series of domestic abuse offences")](https://www.derrynow.com/news/newsletter-derrynow/1661383/derry-man-jailed-for-15-months-for-series-of-domestic-abuse-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Derry man jailed for 15 months for series of domestic abuse offences](https://www.derrynow.com/news/newsletter-derrynow/1661383/derry-man-jailed-for-15-months-for-series-of-domestic-abuse-offences.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.")](https://www.derrynow.com/news/sociallinkedin-derrynow/1661185/ardnashee-s-new-head-girl-aoibh-cutliff-has-overcome-many-life-challenges.html)
-
-Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Ardnashee's new head girl Aoibh Cutliff has overcome many life challenges](https://www.derrynow.com/news/sociallinkedin-derrynow/1661185/ardnashee-s-new-head-girl-aoibh-cutliff-has-overcome-many-life-challenges.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Four people returned for trial to Derry Crown Court on charge of affray](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Four people returned for trial to Derry Crown Court on charge of affray")](https://www.derrynow.com/news/newsletter-derrynow/1661378/four-people-returned-for-trial-to-derry-crown-court-on-charge-of-affray.html)
 
@@ -297,6 +281,15 @@ Derry Crown Court
 
 [Four people returned for trial to Derry Crown Court on charge of affray](https://www.derrynow.com/news/newsletter-derrynow/1661378/four-people-returned-for-trial-to-derry-crown-court-on-charge-of-affray.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.")](https://www.derrynow.com/news/sociallinkedin-derrynow/1661185/ardnashee-s-new-head-girl-aoibh-cutliff-has-overcome-many-life-challenges.html)
+
+Ardnashee Junior Leadership Team: Sinead Crossan (VP), Jack Nicholl (deputy head boy), Niamh Glenn (deputy head girl), Ethan Moore (head boy), Aoibe Cutliff (head girl), Paul Beattie & Bríd Cutliff.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Ardnashee's new head girl Aoibh Cutliff has overcome many life challenges](https://www.derrynow.com/news/sociallinkedin-derrynow/1661185/ardnashee-s-new-head-girl-aoibh-cutliff-has-overcome-many-life-challenges.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Woman charged in connection with drug-related offences after police search Derry property](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman charged in connection with drug-related offences after police search Derry property")](https://www.derrynow.com/news/newsletter-derrynow/1661069/woman-charged-in-connection-with-drug-related-offences-after-police-search-derry-property.html)
 
@@ -338,6 +331,13 @@ Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry
 
 [Talented Derry Singer in semi final of BBC Young Chorister of the Year](https://www.derrynow.com/news/arts---entertainment/1661395/talented-derry-singer-in-semi-final-of-bbc-young-chorister-of-the-year.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry marks World Children's Day with candlelight procession and vigil](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry marks World Children's Day with candlelight procession and vigil")](https://www.derrynow.com/story-telling/pictures---videos/1661352/in-pictures-derry-marks-world-children-s-day-with-candlelight-procession-and-vigil.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry marks World Children's Day with candlelight procession and vigil](https://www.derrynow.com/story-telling/pictures---videos/1661352/in-pictures-derry-marks-world-children-s-day-with-candlelight-procession-and-vigil.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1661667/derry-death-notices-friday-november-22-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, November 22, 2024](https://www.derrynow.com/news/deaths/1661667/derry-death-notices-friday-november-22-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Roadside Garages Kia Coleraine named double-award winner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roadside Garages Kia Coleraine named double-award winner")](https://www.derrynow.com/news/derrynow/1661522/roadside-garages-kia-coleraine-named-double-award-winner.html)
 
 Ian Lamont (left), of Roadside Garages Kia Coleraine, receiving the award.
@@ -524,7 +531,7 @@ Ian Lamont (left), of Roadside Garages Kia Coleraine, receiving the award.
 [Roadside Garages Kia Coleraine named double-award winner](https://www.derrynow.com/news/derrynow/1661522/roadside-garages-kia-coleraine-named-double-award-winner.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Cold and frosty conditions to continue with nationwide yellow warning in place](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Cold and frosty conditions to continue with nationwide yellow warning in place")](https://www.derrynow.com/news/weather/1661403/cold-and-frosty-conditions-to-continue-with-nationwide-yellow-warning-in-place.html)
+[![Cold and frosty conditions to continue with nationwide yellow warning in place](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_21/1732193716518_0.jpg--.jpg "Cold and frosty conditions to continue with nationwide yellow warning in place")](https://www.derrynow.com/news/weather/1661403/cold-and-frosty-conditions-to-continue-with-nationwide-yellow-warning-in-place.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -555,15 +562,6 @@ Cameron Kelly with Emma Jayne Kelly, Choral Director at St Mary's College, Derry
 
 [Talented Derry Singer in semi final of BBC Young Chorister of the Year](https://www.derrynow.com/news/arts---entertainment/1661395/talented-derry-singer-in-semi-final-of-bbc-young-chorister-of-the-year.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![‘Moneydig Young Conquerors Flute Band](https://www.derrynow.com/resizer/165/93/true/2024_11_21/moneydig_flute_band1-1732190654032.jpg--.jpg?1732190654981 "‘Moneydig Young Conquerors Flute Band")](https://www.derrynow.com/news/home/1661283/moneydig-young-conquerors-flute-band-add-to-incredible-fundraising-total-of-over-50-000-for-air-ambulance-ni-in-memory-of-isaac-roxborough.html)
-
-‘Moneydig Young Conquerors Flute Band
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[‘Moneydig Young Conquerors Flute Band add to incredible fundraising total of over £50,000 for Air Ambulance NI in memory of Isaac Roxborough’](https://www.derrynow.com/news/home/1661283/moneydig-young-conquerors-flute-band-add-to-incredible-fundraising-total-of-over-50-000-for-air-ambulance-ni-in-memory-of-isaac-roxborough.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
