@@ -12,7 +12,7 @@
 * [Azərbaycanca (Azerbaijani)](https://amaze.org/azerbaijani/)
 * [Bahasa Indonesia (Indonesian)](https://amaze.org/bahasa-indonesia/)
 * [বাংলা (Bengali)](https://amaze.org/bengali/)
-* [中文 (Chinese)](https://amaze.org/chinese/)
+* [中文 (Simplified Chinese)](https://amaze.org/chinese/)
 * [Chuukese](https://amaze.org/chuukese/)
 * [Deutsch (German)](https://amaze.org/german/)
 * [(Dhivehi) ދިވެހި](https://amaze.org/dhivehi/)
