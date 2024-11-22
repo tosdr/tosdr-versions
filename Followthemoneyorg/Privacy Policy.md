@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Scorecard: Essential Disclosure Requirements for Contributions to State Campaigns, 2016](/assets/Images/teasers/full/Screen-Shot-2016-05-12-at-2.25.17-PM.png)](https://www.followthemoney.org/research/institute-reports/scorecard-essential-disclosure-requirements-for-contributions-to-state-campaigns-2016/)
+[![Who gave to Jeb Bush's gubernatorial campaigns?](/assets/Images/teasers/small/JebBushIndNonInd98-02.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-jeb-bush/)
+
+Jeb Bush: 55 percent of his gubernatorial contributions came from individuals.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
