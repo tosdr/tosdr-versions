@@ -106,11 +106,11 @@ Earn from your LinkedIn data](https://www.ldatadao.org/home)[![](https://cdn.pro
 
 SixGPT
 
-Run a gpt model that proxies as a Vana miner on your hardware](https://sixgpt.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c823803d042562d9575796_vnFlzXBS_400x400.jpg)
+Run a gpt model that proxies as a Vana miner on your hardware](https://sixgpt.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/6740ecb6fcb45f62565b583d_ykyr_logo.jpg)
 
 YKYR
 
-User-owned AI web analytics](https://x.com/ykyrnow)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c8244c186b7bacc52676a2_OoTNe_uo_400x400.jpg)
+User-owned AI web analytics](https://chromewebstore.google.com/detail/ykyr-preview/gfogbpcdlcihfaejpmdhigejhpckdamh)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c8244c186b7bacc52676a2_OoTNe_uo_400x400.jpg)
 
 Sydintel
 
@@ -220,13 +220,13 @@ Uncovering dark corners of the internet with crowd-sourced intel
 
 [Sydintel](https://sydintel.com/)[X/Twitter](https://x.com/sydintel)
 
-![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c82f3bf123a3d49c55a6f4_YKYR_dao.png)
+![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/6740ed408198e165ecf83f02_YKYR%20DAO%201080%20(1).png)
 
 YKYR
 
 User-owned AI web analytics
 
-[X/Twitter](https://x.com/ykyrnow)[](#)
+[YKYR](https://chromewebstore.google.com/detail/ykyr-preview/gfogbpcdlcihfaejpmdhigejhpckdamh)[X/Twitter](https://x.com/ykyrnow)
 
 ![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66c830b3f123a3d49c56efec_kleo_netowkr_vana.png)
 
@@ -446,3 +446,175 @@ Documentation
 Company
 
 [Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)[Legal agreement](https://www.vana.com/legal/terms-conditions)[Privacy](https://www.vana.com/legal/privacy-policy)[Contact](mailto:admin@vana.com)
+
+Ecosystem
+
+Get Started
+
+[Faucet
+
+Fund your Satori testnet wallet](https://faucet.vana.org/)[Block Explorer
+
+Explore Satori transactions, data DAOs, and data smart contracts](http://satori.vanascan.io/)[Symmetric
+
+Building a decentralized exchange on Vana’s network](https://symmetric.finance/)
+
+Data Liquidity Layer
+
+[Finquarium
+
+A secure, transparent platform for financial prediction data](https://finquarium.com/)[GPT data DAO
+
+Own your chatGPT data](https://www.gptdatadao.org/)[Reddit data DAO
+
+The first data DAO, focused on Reddit data](https://www.rdatadao.org/)[Volara
+
+Run a miner to contribute twitter data](https://volara.xyz/)[Flirtual
+
+Data liquidity pool focused on dating data](https://www.flirtual.xyz/)[Resume Data DAO
+
+Earn from your LinkedIn data](https://www.ldatadao.org/home)[SixGPT
+
+Run a gpt model that proxies as a Vana miner on your hardware](https://sixgpt.xyz/)[YKYR
+
+User-owned AI web analytics](https://x.com/ykyrnow)[Sydintel
+
+Revealing the dark corners of the internet with crowd-sourced intelligence](https://sydintel.com/)[MindDAO
+
+Answering how the new internet can advance human happiness](https://mind-dao.xyz/)[Kleo Network
+
+Building the world's most comprehensive dataset of browsing history](https://www.kleo.network/)[DataPIG
+
+Building the best AI-driven recommendation engine for investments](https://datapig.xyz/)[ScrollDAO
+
+Take your influence game beyond the ‘gram](https://www.scrolldatadao.com/)
+
+Data Portability Layer
+
+[Build your own
+
+Build with user-owned data](https://docs.vana.org/vana/get-started/data-portability-layer)[Chirper
+
+Bring your AI clone to a simulation platform](https://chirper.ai/)[uSlap
+
+Take your voice and personality data to a motivational app](https://uslap.ai/home)
+
+[Start Building](https://build.vana.org/)
+
+[Why](https://www.vana.com/why)
+
+[Blog](https://www.vana.com/post)
+
+[Press](https://www.vana.com/vana-press)
+
+[](https://www.vana.com/)
+
+Get Started
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66b534daeeb5e855f7332730_filter-3d.svg)
+
+Faucet
+
+Fund your Satori testnet wallet](https://faucet.vana.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66b534dbe17ccf280f7563e3_compass.svg)
+
+Block Explorer
+
+Explore Satori transactions, data DAOs, and data smart contracts](https://vanascan.io/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c39db845f8275f63ec0583_symmetric-seeklogo.svg)
+
+Symmetric
+
+Building a decentralized exchange on Vana’s network](https://symmetric.finance/)
+
+Data Liquidity Layer
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05ee56e11766739e16_finquarium.png)
+
+Finquarium
+
+A secure, transparent platform for financial prediction data](https://finquarium.com/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c058c6c7580c8ed6db6_gptdatadao.png)
+
+GPT Data DAO
+
+Own your ChatGPT data](https://www.gptdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05da90f2afe810b52c_rdatadao.png)
+
+Reddit Data DAO
+
+The first data DAO, focused on Reddit data](https://www.rdatadao.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c051738e538dca8f234_volara_twitterdatadao.png)
+
+Volara
+
+Run a miner to contribute twitter data](https://volara.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66884ca84a4376b52ff0adf1_flirtual%20(1).png)
+
+Flirtual
+
+Data liquidity pool focused on dating data](https://www.flirtual.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66885221d398a7f3370fff1e_Screenshot%202024-07-05%20at%2012.57.57%E2%80%AFPM.png)
+
+Resume Data DAO
+
+Earn from your LinkedIn data](https://www.ldatadao.org/home)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c82312e77cb470f4237f6a_hammer_anvil.svg)
+
+SixGPT
+
+Run a gpt model that proxies as a Vana miner on your hardware](https://sixgpt.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/6740ecb6fcb45f62565b583d_ykyr_logo.jpg)
+
+YKYR
+
+User-owned AI web analytics](https://chromewebstore.google.com/detail/ykyr-preview/gfogbpcdlcihfaejpmdhigejhpckdamh)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c8244c186b7bacc52676a2_OoTNe_uo_400x400.jpg)
+
+Sydintel
+
+Uncovering dark corners of the internet with crowd-sourced intel](https://sydintel.com/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66d0a2aac94ca1fc804031c1_mind-dao.jpg)
+
+MindDAO
+
+Answering how the new internet can advance human happiness](https://mind-dao.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c8279f3d042562d95b291d_gMYMH1gG_400x400.png)
+
+Kleo Network
+
+Building the world's most comprehensive dataset of browsing history](https://www.kleo.network/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c8287f5048f7c815fc372a_data_pig_logo_.png)
+
+DataPIG
+
+Building the best AI-driven recommendation engine for investments](https://datapig.xyz/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66c82922ee70d2a0453d4984_paper-scroll-icon.jpeg)
+
+ScrollDAO
+
+Take your influence game beyond the ‘gram](https://www.scrolldatadao.com/)
+
+Data Portability Layer
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66b534da0695aa00c9da2562_browser-1.svg)
+
+Build your own
+
+Build with user-owned data](https://docs.vana.org/docs/how-to-create-a-data-liquidity-pool)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05a6cac68e8e289776_chirper.jpg)
+
+Chirper
+
+Bring your AI clone to a simulation platform](https://chirper.ai/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883c05cd1388594cf6fb8d_uslap.png)
+
+uSlap
+
+Take your voice and personality data to a motivational app](https://uslap.ai/home)
+
+Developers
+
+[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Run a validator
+
+Secure the network through proof-of-contribution](https://docs.vana.org/docs/how-to-create-a-data-liquidity-pool)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Start a DLP
+
+Select a user-owned dataset and get rewarded](https://docs.vana.org/docs/how-to-create-a-data-liquidity-pool)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Docs
+
+Learn more about Vana and user-owned AI](http://docs.vana.org/)[![](https://cdn.prod.website-files.com/6683419688fa269b27dabefb/66883bd093f736a3aceeab19_Vana%20V%20Vector.svg)
+
+Request a dataset
+
+Looking for a dataset? Fill out this form to let the community know](https://usevana.typeform.com/to/ne8x3wsf)
+
+[Ecosystem](#)[Start Building](https://build.vana.org/)[Why](https://www.vana.com/why)[Blog](https://www.vana.com/post)[Press](https://www.vana.com/vana-press)
