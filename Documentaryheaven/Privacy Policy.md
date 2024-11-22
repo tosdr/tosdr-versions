@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Igor: Child of Chernobyl](/wp-content/thumbnails/16025-100x70.jpeg?x53432)
+* [![Blind Spot](/wp-content/thumbnails/5024-100x70.jpg?x53432)
     
-    Igor: Child of Chernobyl
+    Blind Spot
     
-    Igor Pavlovets was one of the first children to be born during the aftermath of the Chernobyl disaster in 1986. He was eight years old at the time this documentary was filmed. He is missing his right](https://documentaryheaven.com/igor-child-of-chernobyl/ "Igor: Child of Chernobyl")
-* [![Promises](/wp-content/thumbnails/6024-100x70.jpg?x53432)
+    Blind Spot is a documentary that establishes the inextricable link between the energy we use, the way we run our economy and the effect it has had on our environment.It takes as a starting point t](https://documentaryheaven.com/blind-spot/ "Blind Spot")
+* [![Space Tourists](/wp-content/thumbnails/110-100x70.png?x53432)
     
-    Promises
+    Space Tourists
     
-    Several Jewish and Palestinian children are followed for three years and put in touch with each other, in this alternative look at the Jewish-Palestinian conflict. The three filmmakers followed a grou](https://documentaryheaven.com/promises/ "Promises")
-* [![Dogs That Changed the World](/wp-content/thumbnails/6640-100x70.png?x53432)
+    This documentary deals with an issue that many still find hard to believe is possible.Over 40 years ago man first went into space. Ever since ordinary people have dreamt of getting there themselves. B](https://documentaryheaven.com/space-tourists/ "Space Tourists")
+* [![The Missing Link](/wp-content/thumbnails/7093-100x70.jpg?x53432)
     
-    Dogs That Changed the World
+    The Missing Link
     
-    Broadcast (2007) NATURE’s two-part special DOGS THAT CHANGED THE WORLD tells the epic story of the wolf’s evolution, how “man’s best friend” changed human society and we in turn have radically transfo](https://documentaryheaven.com/dogs-that-changed-the-world/ "Dogs That Changed the World")
-* [![Out of Shadows](/wp-content/thumbnails/16083-100x70.jpg?x53432)
+    Last year the discovery of a tiny fossilised jawbone hit the headlines. The jawbone, only a few centimetres long with seven rows of teeth, was found abandoned in a dusty museum where it had lain unnot](https://documentaryheaven.com/the-missing-link/ "The Missing Link")
+* [![The True Story of Black Hawk Down](/wp-content/thumbnails/695-100x70.png?x53432)
     
-    Out of Shadows
+    The True Story of Black Hawk Down
     
-    Out of Shadows is a film that attempts to lift the mask on how the mainstream media and Hollywood try to manipulate and control the masses by spreading propaganda via their platform. Released on YouT](https://documentaryheaven.com/out-of-shadows/ "Out of Shadows")
-* [![The Cove](/wp-content/thumbnails/2618-100x70.jpg?x53432)
+    Real footage is shown to prove that the film Black Hawk Down (2001) was very true to the real events that occurred in Mogadishu in 1993. Actual militia and US rangers are interviewed to tell us the di](https://documentaryheaven.com/the-true-story-of-black-hawk-down/ "The True Story of Black Hawk Down")
+* [![Afraid of People](/wp-content/thumbnails/7123-100x70.jpg?x53432)
     
-    The Cove
+    Afraid of People
     
-    The Cove begins in Taiji, Japan, where former dolphin trainer Ric O’Barry has come to set things right after a long search for redemption. In the 1960s, it was O’Barry who captured and trained the 5 d](https://documentaryheaven.com/the-cove/ "The Cove")
+    Social anxiety is anxiety (emotional discomfort, fear, apprehension, or worry) about social situations, interactions with others, and being evaluated or scrutinized by other people. The difference bet](https://documentaryheaven.com/afraid-of-people/ "Afraid of People")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
