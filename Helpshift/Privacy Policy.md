@@ -208,13 +208,13 @@
     
     #### Featured Resource
     
-    [![Multilingual Support Guide](https://www.helpshift.com/wp-content/uploads/2024/06/Multilingual-Support-Guide-1024x649.png)](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
+    [![](https://www.helpshift.com/wp-content/uploads/2024/11/2024-Digital-Support-Benchmark-Report-1200x600-1-1024x512.png)](https://get.helpshift.com/2024-digital-support-benchmark-report)
     
     **read**
     
-    ### [How Multilingual Support Improves Global Customer Experiences](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
+    ### [2024 Digital Support Benchmark Report](https://get.helpshift.com/2024-digital-support-benchmark-report)
     
-    [Read more](https://get.helpshift.com/how-multilingual-support-improves-global-customer-experiences)
+    [Read more](https://get.helpshift.com/2024-digital-support-benchmark-report)
     
 
 [Free Trial](https://get.helpshift.com/experience-helpshift)
