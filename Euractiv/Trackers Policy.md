@@ -109,7 +109,11 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 Most recent
 -----------
 
-[21-11-2024
+[22-11-2024
+
+Ukrainians battling for culture in the shadow of war](https://www.euractiv.com/section/politics/news/ukrainians-battling-for-culture-in-the-shadow-of-war/)[21-11-2024
+
+Energy savings coalition hopes Jørgensen sets ambitious energy efficiency targets](https://www.euractiv.com/section/eet/news/energy-savings-coalition-hopes-jorgensen-sets-ambitious-energy-efficiency-targets/)[21-11-2024
 
 Political groups’ agreement on Health Commissioner Várhelyi leaves deep divisions](https://www.euractiv.com/section/health-consumers/news/political-groups-agreement-on-health-commissioner-varhelyi-leaves-deep-divisions/)[21-11-2024
 
@@ -125,11 +129,7 @@ European shellfish producers call for common policy to combat sea warming](https
 
 Bitter tensions in Slovak healthcare growing, still no deal between ministry and unions](https://www.euractiv.com/section/health-consumers/news/bitter-tensions-in-slovak-healthcare-growing-still-no-deal-between-ministry-and-unions/)[21-11-2024
 
-A remarriage built on mistrust](https://www.euractiv.com/section/politics/news/a-remarriage-built-on-mistrust/)[21-11-2024
-
-Council set to take a cautious stance on future of telecoms](https://www.euractiv.com/section/tech/news/council-set-to-take-a-cautious-stance-on-future-of-telecoms/)[21-11-2024
-
-Russia launches intercontinental ballistic missile in attack on Ukraine](https://www.euractiv.com/section/global-europe/news/russia-launches-intercontinental-ballistic-missile-in-attack-on-ukraine/)
+A remarriage built on mistrust](https://www.euractiv.com/section/politics/news/a-remarriage-built-on-mistrust/)
 
 ###### Advertisement
 
