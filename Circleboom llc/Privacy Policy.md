@@ -1,3 +1,9 @@
+You know, I like my **Fridays black** and **Mondays cyber**
+
+50% OFF
+
+Use code**MYFRIDAY2024**
+
 [![circleboom_logo](https://assets.circleboom.com/website/images/circleboom_logo.svg)](https://circleboom.com/)
 
 [Home](https://circleboom.com/)
