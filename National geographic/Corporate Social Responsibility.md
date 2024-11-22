@@ -276,7 +276,7 @@ Washington, DC 20036
 
 GIVE TODAY!
 
-The National Geographic Society is proud to invest in a global community of intrepid Explorers working to illuminate and protect the wonder of our world. Make a tax-deductible gift to support the Society today, and your support will help fund the next generation of changemakers.
+**Make your impact for Giving Tuesday (December 3)!** Join National Geographic Explorers as they illuminate and protect the wonder of our world. 100% of your gift will go directly toward our Explorer-led projects and mission work helping to create a future enriched by wonder. Make your tax-deductible contribution today and help fund the next generation of changemakers.
 
 [Give $35](https://give.nationalgeographic.org/page/49060/donate/1?transaction.donationAmt=35)
 
@@ -286,12 +286,12 @@ The National Geographic Society is proud to invest in a global community of intr
 
 [Give $500](https://give.nationalgeographic.org/page/49060/donate/1?transaction.donationAmt=500)
 
-[Give $35](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=35)
+[Give $35](https://give.nationalgeographic.org/page/160565/donate/1?ea.tracking.id=EA241W&utm_campaign=DecemberGT2024&utm_content=wApp&utm_medium=web&utm_source=ngs&utm_term=gt2024&en_txn6=EA241W&en_txn7=YAXD&transaction.donationAmt=35)
 
-[Give $50](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=50)
+[Give $50](https://give.nationalgeographic.org/page/160565/donate/1?ea.tracking.id=EA241W&utm_campaign=DecemberGT2024&utm_content=wApp&utm_medium=web&utm_source=ngs&utm_term=gt2024&en_txn6=EA241W&en_txn7=YAXD&transaction.donationAmt=50)
 
-[Give $100](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=100)
+[Give $100](https://give.nationalgeographic.org/page/160565/donate/1?ea.tracking.id=EA241W&utm_campaign=DecemberGT2024&utm_content=wApp&utm_medium=web&utm_source=ngs&utm_term=gt2024&en_txn6=EA241W&en_txn7=YAXD&transaction.donationAmt=100)
 
-[Give $250](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=250)
+[Give $500](https://give.nationalgeographic.org/page/160565/donate/1?ea.tracking.id=EA241W&utm_campaign=DecemberGT2024&utm_content=wApp&utm_medium=web&utm_source=ngs&utm_term=gt2024&en_txn6=EA241W&en_txn7=YAXD&transaction.donationAmt=500)
 
-[OTHER GIFT](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=Other)
+[OTHER GIFT](https://give.nationalgeographic.org/page/160565/donate/1?ea.tracking.id=EA241W&utm_campaign=DecemberGT2024&utm_content=wApp&utm_medium=web&utm_source=ngs&utm_term=gt2024&en_txn6=EA241W&en_txn7=YAXD&transaction.donationAmt=other)
