@@ -1,4 +1,4 @@
-[**$4.99/mo - Black Friday Deal: 2 Years + 6 Months Free—Save Up to 61% Now** Claim Now!](https://www.vpnranks.com/visit-provider/expressvpn-generic-VR)
+[**$4.99/mo - Black Friday Deal: 2 Years + 6 Months Free—Save Up to 61% Now** Claim Now](https://www.vpnranks.com/visit-provider/expressvpn-generic-VR?subID3=privacy-policy/)
 
 [](https://www.vpnranks.com/)
 
@@ -72,7 +72,7 @@
 * Events
     * [Big Brother UK 2024](https://www.vpnranks.com/access/shows/watch-big-brother-2024-in-usa-on-itvx/)
     * [UEFA Champions League 2024-2025](https://www.vpnranks.com/access/channels/paramount-plus/watch-uefa-champions-league-outside-usa/)
-    * [out-of-market NFL games](https://www.vpnranks.com/access/sports/watch-out-of-market-nfl-games-outside-usa/)
+    * [Australia vs India Test Series](https://www.vpnranks.com/access/sports/watch-australia-vs-india-border-gavaskar-trophy-without-cable-from-anywhere/)
     * [Big Boss 18](https://www.vpnranks.com/access/shows/watch-big-boss-18-in-usa-on-jiocinema/)
 * [News](https://www.vpnranks.com/news/)
 * [About Us](https://www.vpnranks.com/about-us/)
