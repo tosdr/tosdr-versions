@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can an elderly person die from bone fractures?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-an-elderly-person-die-from-bone-fractures-scaled.jpg "Can an Elderly Person Die from Bone Fractures?")](https://www.pintas.com/faq/can-an-elderly-person-die-from-bone-fractures/ "Can an Elderly Person Die from Bone Fractures?")
+[![Power outages: nursing homes’ temperature safety](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages-scaled.jpg "Power Outages: Nursing Homes’ Temperature Safety")](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/ "Power Outages: Nursing Homes’ Temperature Safety")
 
-[#### Can an Elderly Person Die from Bone Fractures?](https://www.pintas.com/faq/can-an-elderly-person-die-from-bone-fractures/)
+[#### Power Outages: Nursing Homes’ Temperature Safety](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/)
 
-[![Can a patient be kicked out of a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-patient-be-kicked-out-of-a-nursing-home.jpg "Can a Patient Be Kicked Out of a Nursing Home?")](https://www.pintas.com/faq/can-a-patient-be-kicked-out-of-a-nursing-home/ "Can a Patient Be Kicked Out of a Nursing Home?")
+[![How dangerous is second-hand smoke?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-dangerous-is-second-hand-smoke.jpg "How Dangerous Is Second-hand Smoke?")](https://www.pintas.com/practice-areas/lung-cancer/how-dangerous-is-second-hand-smoke/ "How Dangerous Is Second-hand Smoke?")
 
-[#### Can a Patient Be Kicked Out of a Nursing Home?](https://www.pintas.com/faq/can-a-patient-be-kicked-out-of-a-nursing-home/)
+[#### How Dangerous Is Second-hand Smoke?](https://www.pintas.com/practice-areas/lung-cancer/how-dangerous-is-second-hand-smoke/)
 
-[![Can roundup cause cancer in dogs?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-roundup-cause-cancer-in-dogs.jpg "Can Roundup Cause Cancer in Dogs?")](https://www.pintas.com/lawsuit/roundup-weed-killer/can-roundup-cause-cancer-in-dogs/ "Can Roundup Cause Cancer in Dogs?")
+[![Best hospitals for lung cancer treatment](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-best-hospitals-for-lung-cancer-treatment.jpg "Best Hospitals for Lung Cancer Treatment")](https://www.pintas.com/practice-areas/lung-cancer/best-hospitals-for-lung-cancer-treatment/ "Best Hospitals for Lung Cancer Treatment")
 
-[#### Can Roundup Cause Cancer in Dogs?](https://www.pintas.com/lawsuit/roundup-weed-killer/can-roundup-cause-cancer-in-dogs/)
+[#### Best Hospitals for Lung Cancer Treatment](https://www.pintas.com/practice-areas/lung-cancer/best-hospitals-for-lung-cancer-treatment/)
 
 ### Injured?  
 Tell Us What Happened.
