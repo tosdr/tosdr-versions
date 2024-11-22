@@ -305,7 +305,7 @@
 
 [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#помощьсемьяммобилизованных](https://er.ru/activity/news?tags%5B0%5D=1093275)
 
-Сегодня 18:12
+22.11.24
 
 [![Марат Хуснуллин обсудил с Владимиром Якушевым участие «Единой России» в программах благоустройства, развития дорог и модернизации ЖКХ](https://cdn.er.ru/media/news/November2024/HFJx4cQr3hOXZKP9HHdi-small.JPG)](https://er.ru/activity/news/marat-husnullin-obsudil-s-vladimirom-yakushevym-uchastie-edinoj-rossii-v-programmah-blagoustrojstva-razvitiya-dorog-i-modernizacii-zhkh)
 
@@ -313,7 +313,7 @@
 
 [#Хуснуллин](https://er.ru/activity/news?tags%5B0%5D=2916) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#дороги](https://er.ru/activity/news?tags%5B0%5D=872)
 
-Сегодня 16:52
+22.11.24
 
 [![«Единая Россия» представила лучшие практики организации работы медицинских студотрядов в вузах](https://cdn.er.ru/media/news/November2024/gpkpfl3viaeVLaqo7DkP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predstavila-luchshie-praktiki-organizacii-raboty-medicinskih-studotryadov-v-vuzah)
 
@@ -321,7 +321,7 @@
 
 [#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#Дрожжина](https://er.ru/activity/news?tags%5B0%5D=79696) [#Сидорова](https://er.ru/activity/news?tags%5B0%5D=12624) [#Семенова](https://er.ru/activity/news?tags%5B0%5D=1077) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#круглыйстол](https://er.ru/activity/news?tags%5B0%5D=108586) [#студотряд](https://er.ru/activity/news?tags%5B0%5D=23087) [#медики](https://er.ru/activity/news?tags%5B0%5D=648) [#студенты-медики](https://er.ru/activity/news?tags%5B0%5D=16719)
 
-Сегодня 15:00
+22.11.24
 
 [![Врио губернатора ЕАО Мария Костюк возглавила региональное отделение «Единой России»](https://cdn.er.ru/media/news/November2024/gkXUAbDDhI3bQDQwSApg-small.jpg)](https://er.ru/activity/news/vrio-gubernatora-eao-mariya-kostyuk-vozglavila-regionalnoe-otdelenie-edinoj-rossii)
 
@@ -329,7 +329,7 @@
 
 [#Костюк](https://er.ru/activity/news?tags%5B0%5D=19523) [#Еврейская автономная область](https://er.ru/activity/news?tags%5B0%5D=8459) [#реготделение](https://er.ru/activity/news?tags%5B0%5D=19972) [#конференция](https://er.ru/activity/news?tags%5B0%5D=17) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416)
 
-Сегодня 12:37
+22.11.24
 
 [![«Единая Россия» проведёт по всей стране праздничные мероприятия ко Дню матери](https://cdn.er.ru/media/news/November2024/i6JiWFyZIftg5Xgyiib0-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provedyot-po-vsej-strane-prazdnichnye-meropriyatiya-ko-dnyu-materi)
 
@@ -337,7 +337,7 @@
 
 [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#крепкаясемья](https://er.ru/activity/news?tags%5B0%5D=109105) [#женскоедвижениеединойроссии](https://er.ru/activity/news?tags%5B0%5D=1093285) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Деньматери](https://er.ru/activity/news?tags%5B0%5D=1094956) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646)
 
-Сегодня 00:00
+22.11.24
 
 [![Дмитрий Медведев согласовал кандидатуры на должности секретарей реготделений «Единой России»](https://cdn.er.ru/media/news/November2024/bCJiGQJcsq5tmybDixzr-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-soglasoval-kandidatury-na-dolzhnosti-sekretarej-regotdelenij-edinoj-rossii)
 
