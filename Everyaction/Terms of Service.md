@@ -126,7 +126,7 @@ Search for:  Search
 Dismiss Search Modal
 
 Legal
------
+=====
 
 ### Bonterra website terms & conditions
 
