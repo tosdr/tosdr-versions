@@ -115,6 +115,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Health](https://www.artofmanliness.com/health-fitness/health/)
 * [Program Review](https://www.artofmanliness.com/health-fitness/program-review/)
 
+[![A group of weekend warriors jogs on a dirt path in a dry landscape, their endurance tested by the terrain, with a solitary tree standing in the distance.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1040-tribal-runners-weekend-warriors-and-our-changing-relationship-to-endurance-sports/)
+
+[Podcast #1,040: Tribal Runners, Weekend Warriors, and Our Changing Relationship to Endurance Sports](https://www.artofmanliness.com/health-fitness/fitness/podcast-1040-tribal-runners-weekend-warriors-and-our-changing-relationship-to-endurance-sports/)
+
 [![Illustration of a person performing a barbell lift. Start with the bar just above knees in an RDL position, grip outside knees, take two steps back, and stand tall with chest out. Know Your Lifts to ensure proper form and maximize efficiency in your Romanian Deadlift routine.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/know-your-lifts-the-romanian-deadlift-rdl/)
 
 [Know Your Lifts: The Romanian Deadlift (RDL)](https://www.artofmanliness.com/health-fitness/fitness/know-your-lifts-the-romanian-deadlift-rdl/)
@@ -126,10 +130,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A vintage black and white photo captures the essence of Physical Culture, featuring a strongman in a singlet and striped socks, confidently posing with large, round weights.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
 
 [Podcast #1,026: 5,000 Years of Sweat — Lost Workout Wisdom From the History of Physical Culture](https://www.artofmanliness.com/health-fitness/fitness/podcast-1026-5000-years-of-sweat-lost-workout-wisdom-from-the-history-of-physical-culture/)
-
-[![As morning light kisses the grassy field, a person, seemingly born to run, glides effortlessly through nature's embrace. With hills and trees painting the horizon, each step syncs with the rhythm of their internal podcast of thoughts and dreams.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
-
-[Podcast #1,021: You Were Born to Run](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
 
 [![A clock resembling a white plate has black fork and knife hands, and a red second hand, set against a dark blue background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1036-when-to-eat-the-optimal-schedule-for-metabolic-health/)
 
@@ -170,6 +170,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Relationships](https://www.artofmanliness.com/people/relationships/)
 * [Social Skills](https://www.artofmanliness.com/people/social-skills/)
 
+[![Illustration of orange paper cutouts of a person holding hands with another person wearing a dress on a plain background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-1039-whats-behind-the-rise-of-parent-child-estrangement/)
+
+[Podcast #1,039: What’s Behind the Rise of Parent-Child Estrangement?](https://www.artofmanliness.com/people/family/podcast-1039-whats-behind-the-rise-of-parent-child-estrangement/)
+
 [![Two cartoon-style hands holding each other across a table, one pale and one tan, as if bridging any ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/take-the-d-word-off-the-table/)
 
 [Take the D Word Off the Table](https://www.artofmanliness.com/people/family/take-the-d-word-off-the-table/)
@@ -181,10 +185,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Text reading ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/podcast-1017-when-hes-married-to-mom/)
 
 [Podcast #1,017: When He’s Married to Mom](https://www.artofmanliness.com/people/family/podcast-1017-when-hes-married-to-mom/)
-
-[![Illustration of a family walking in a line against a green background. The child in front is playing a toy flute, followed by another child with a drum, a woman with a backpack, and a man carrying a rake. This scene reflects the harmony and bond of these little platoons as they cherish simple moments together.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/family/sunday-firesides-in-praise-of-little-platoons/)
-
-[Sunday Firesides: In Praise of Little Platoons](https://www.artofmanliness.com/people/family/sunday-firesides-in-praise-of-little-platoons/)
 
 [![A man and a boy are repairing a bicycle tire outside. Demonstrating the skills of successful fathers, the man carefully explains each step while the boy watches closely, eager to learn.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/fatherhood/some-reasons-why-some-men-are-successful-fathers/)
 
@@ -218,6 +218,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Why Are Female Friendships the Ideal? (‘Cause Dude Friendships Also Rock)](https://www.artofmanliness.com/people/relationships/why-are-women-s-friendships-the-ideal/)
 
+[![Illustration of a bearded man in a red headscarf next to the text ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/the-ancient-art-of-saying-no-plutarch-s-guide-to-breaking-free-from-people-pleasing/)
+
+[The Ancient Art of Saying No: Plutarch’s Guide to Breaking Free from People-Pleasing](https://www.artofmanliness.com/people/social-skills/the-ancient-art-of-saying-no-plutarch-s-guide-to-breaking-free-from-people-pleasing/)
+
 [![An elderly man in a suit writes at his desk, head resting on his hand, reflecting perhaps on the ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/dale-carnegie-s-damned-fool-things-i-have-done/)
 
 [Dale Carnegie’s “Damned Fool Things I Have Done”](https://www.artofmanliness.com/people/social-skills/dale-carnegie-s-damned-fool-things-i-have-done/)
@@ -229,10 +233,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A group of people dressed in casual clothing relax and converse on an outdoor deck with wicker furniture, magazines, and a small cart. The background shows a body of water, creating a personal atmosphere perfect for unwinding.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/masterful-personality/)
 
 [The Power of Personal Atmosphere](https://www.artofmanliness.com/people/social-skills/masterful-personality/)
-
-[![The Science of Motivating Young Adults](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/podast-1012-the-science-of-motivating-your-kids-and-any-young-adult/)
-
-[Podcast #1,012: The Science of Motivating Your Kids (And Any Young Adult)](https://www.artofmanliness.com/people/social-skills/podast-1012-the-science-of-motivating-your-kids-and-any-young-adult/)
 
 [Browse all Get Social](https://www.artofmanliness.com/people/)
 
@@ -649,6 +649,18 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1040-tribal-runners-weekend-warriors-and-our-changing-relationship-to-endurance-sports/)
+
+[Podcast #1,040
+
+###### Tribal Runners, Weekend Warriors, and Our Changing Relationship to Endurance Sports](https://www.artofmanliness.com/health-fitness/fitness/podcast-1040-tribal-runners-weekend-warriors-and-our-changing-relationship-to-endurance-sports/)
+
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/family/podcast-1039-whats-behind-the-rise-of-parent-child-estrangement/)
+
+[Podcast #1,039
+
+###### What’s Behind the Rise of Parent-Child Estrangement?](https://www.artofmanliness.com/people/family/podcast-1039-whats-behind-the-rise-of-parent-child-estrangement/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/living/food-drink/podcast-1038-the-art-and-spirituality-of-bread/)
 
 [Podcast #1,038
@@ -660,18 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,037
 
 ###### An Undercover Cop’s Tips on How to Influence Others and Navigate Life](https://www.artofmanliness.com/character/behavior/podcast-1037-an-undercover-cops-tips-on-how-to-influence-others-and-navigate-life/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/health/podcast-1036-when-to-eat-the-optimal-schedule-for-metabolic-health/)
-
-[Podcast #1,036
-
-###### When to Eat — The Optimal Schedule for Metabolic Health](https://www.artofmanliness.com/health-fitness/health/podcast-1036-when-to-eat-the-optimal-schedule-for-metabolic-health/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/knowledge-of-men/podcast-plutarchs-lives/)
-
-[Podcast #1,035
-
-###### A Bible for Heroes — The Influential Book Read By History’s Eminent Men](https://www.artofmanliness.com/character/knowledge-of-men/podcast-plutarchs-lives/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
