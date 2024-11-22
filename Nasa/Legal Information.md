@@ -269,13 +269,13 @@ article 1 week ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-d
 
 ### Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
 
-article 16 hours ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 22 hours ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 6 min read
 
 ### FAQ: The Real Story About Astronaut Health Care in Space
 
-article 16 hours ago](https://www.nasa.gov/missions/station/faq-the-real-story-about-astronaut-health-care-in-space/)[![An artist’s concept of SpaceX’s Starship Human Landing System (HLS) on the Moon. NASA is working with SpaceX to develop the Starship HLS to carry astronauts from lunar orbit to the Moon’s surface and back for Artemis III and Artemis IV. Starship HLS is roughly 50 meters tall, or about the length of an Olympic swimming pool.](https://www.nasa.gov/wp-content/uploads/2024/11/11-03-24-artemis-3-on-surface.jpg?w=1024)
+article 22 hours ago](https://www.nasa.gov/missions/station/faq-the-real-story-about-astronaut-health-care-in-space/)[![An artist’s concept of SpaceX’s Starship Human Landing System (HLS) on the Moon. NASA is working with SpaceX to develop the Starship HLS to carry astronauts from lunar orbit to the Moon’s surface and back for Artemis III and Artemis IV. Starship HLS is roughly 50 meters tall, or about the length of an Olympic swimming pool.](https://www.nasa.gov/wp-content/uploads/2024/11/11-03-24-artemis-3-on-surface.jpg?w=1024)
 
 2 min read
 
@@ -291,7 +291,7 @@ article 2 days ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-dev
 
 ### Amendment 70: New Opportunity: A.62 FarmFlux Science Team
 
-article 19 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-70-new-opportunity-a-62-farmflux-science-team/)[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-70-new-opportunity-a-62-farmflux-science-team/)[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
 
 5 min read
 
@@ -313,7 +313,7 @@ article 2 days ago](https://science.nasa.gov/people-of-nasa/nasas-brad-doorn-bri
 
 ### Ready, Set, Action! Our Sun is the Star in Dazzling Simulation
 
-article 19 hours ago](https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/)[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
+article 1 day ago](https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/)[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
 
 5 min read
 
@@ -335,13 +335,13 @@ article 2 days ago](https://www.nasa.gov/solar-system/planets/jupiter/jupiter-mo
 
 ### Hubble Captures an Edge-On Spiral with Curve Appeal
 
-article 37 mins ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/artist-concepts/Hubble_FUOrionis_STScI-01JD10SWK9VB6MQ9440ERZ8QP0.jpg)
+article 7 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/artist-concepts/Hubble_FUOrionis_STScI-01JD10SWK9VB6MQ9440ERZ8QP0.jpg)
 
 5 min read
 
 ### NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis
 
-article 19 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-sizzling-details-about-young-star-fu-orionis/)[![The guitar shape in the “Guitar Nebula” comes from bubbles blown by particles ejected from the pulsar through a steady wind as it moves through space. Images from Chandra taken in 2000, 2006, 2012 and 2021 have been combined with a single image in optical light from Palomar. X-rays from Chandra show a filament of energetic matter and antimatter particles, about two light-years long, blasting away from the pulsar (seen as the bright white dot). The movie shows how this filament has changed over two decades. An inset shows a closeup of the “guitar head” from NASA’s Hubble Space Telescope also changing over time from 1994-2021.](https://www.nasa.gov/wp-content/uploads/2024/11/guitar.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-sizzling-details-about-young-star-fu-orionis/)[![The guitar shape in the “Guitar Nebula” comes from bubbles blown by particles ejected from the pulsar through a steady wind as it moves through space. Images from Chandra taken in 2000, 2006, 2012 and 2021 have been combined with a single image in optical light from Palomar. X-rays from Chandra show a filament of energetic matter and antimatter particles, about two light-years long, blasting away from the pulsar (seen as the bright white dot). The movie shows how this filament has changed over two decades. An inset shows a closeup of the “guitar head” from NASA’s Hubble Space Telescope also changing over time from 1994-2021.](https://www.nasa.gov/wp-content/uploads/2024/11/guitar.jpg?w=1024)
 
 5 min read
 
@@ -357,19 +357,19 @@ article 2 days ago](https://www.nasa.gov/missions/chandra/nasas-chandra-hubble-t
 
 ### Hubble Captures an Edge-On Spiral with Curve Appeal
 
-article 37 mins ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![An image from a 3D simulation showing the evolution of turbulent flows in the upper layers of the Sun. The more saturated and bright reds represent the most vigorous upward or downward twisting motions. Clear areas represent areas where there is only relatively slow up-flows, with very little twisting.](https://www.nasa.gov/wp-content/uploads/2024/11/11-kitiashvili-i-sc24-sunhelicitytour0.jpg?w=1024)
+article 7 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![An image from a 3D simulation showing the evolution of turbulent flows in the upper layers of the Sun. The more saturated and bright reds represent the most vigorous upward or downward twisting motions. Clear areas represent areas where there is only relatively slow up-flows, with very little twisting.](https://www.nasa.gov/wp-content/uploads/2024/11/11-kitiashvili-i-sc24-sunhelicitytour0.jpg?w=1024)
 
 3 min read
 
 ### Ready, Set, Action! Our Sun is the Star in Dazzling Simulation
 
-article 19 hours ago](https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/)[![A diagram of the left- and right-hand versions of an amino acid.](https://www.nasa.gov/wp-content/uploads/2024/11/l-r-isovaline-print.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/)[![A diagram of the left- and right-hand versions of an amino acid.](https://www.nasa.gov/wp-content/uploads/2024/11/l-r-isovaline-print.jpg?w=1024)
 
 4 min read
 
 ### NASA: Mystery of Life’s Handedness Deepens
 
-article 19 hours ago](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
+article 1 day ago](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
 
 ### Highlights
 
@@ -417,7 +417,13 @@ article 2 days ago](https://www.nasa.gov/solar-system/planets/mars/making-mars-m
 
 ### Featured
 
-[![Northwestern University team members pose with lunar inflatable prototypes from their METALS project in NASA’s 2024 BIG Idea Challenge.](https://www.nasa.gov/wp-content/uploads/2024/11/2024-big-idea-photo-northwestern-university.jpg?w=1024)
+[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
+
+2 min read
+
+### Why NASA Is a Great Place to Launch Your Career 
+
+article 6 mins ago](https://www.nasa.gov/learning-resources/launch-your-career/)[![Northwestern University team members pose with lunar inflatable prototypes from their METALS project in NASA’s 2024 BIG Idea Challenge.](https://www.nasa.gov/wp-content/uploads/2024/11/2024-big-idea-photo-northwestern-university.jpg?w=1024)
 
 3 min read
 
@@ -429,13 +435,7 @@ article 3 days ago](https://www.nasa.gov/directorates/stmd/northwestern-universi
 
 ### NASA Engineer Carries Indigenous Roots into New Aviation Era
 
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![Two images - Left, Diana Acosta holding her daughter in front of the cab of NASA's Vertical Motion Simulator. Right, Diana Acosta with her daughter inside the control deck of the Vertical Motion Simulator.](https://www.nasa.gov/wp-content/uploads/2024/02/acosta-daughter-vms-igted.png?w=1024)
-
-5 min read
-
-### Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
-
-article 2 weeks ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)
+article 3 days ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)
 
 ### Featured
 
