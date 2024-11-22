@@ -230,6 +230,8 @@ Online Banking
 
 Serving California counties of Alameda, Sacramento, San Diego, Santa Clara, or Yolo with checking accounts, savings accounts, auto loans, mortgages, personal loans, credit cards, and more banking products and services.
 
+ [![Apple App Store Icon](https://www.blupeak.com/wp-content/themes/blupeakcu-theme/images/apple_app_store_icon_big.png)](https://apps.apple.com/us/app/use-credit-union/id390555899)[![Google Play Icon](https://www.blupeak.com/wp-content/themes/blupeakcu-theme/images/google_play_icon_big.png)](https://play.google.com/store/apps/details?id=com.ifs.androidmobilebanking.fiid3265&hl)
+
 [Insured by NCUA](https://www.ncua.gov/) | [Equal Housing Opportunity](https://www.hud.gov/program_offices/fair_housing_equal_opp)
 
 NMLS #411617 | 2024 BluPeak Credit Union. All Rights Reserved
