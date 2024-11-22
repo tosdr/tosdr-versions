@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, November 21 2024
+Friday, November 22 2024
 
 Latest
 
-* [Is the time right for asynchronous collaboration?](https://digitpatrox.com/is-the-time-right-for-asynchronous-collaboration/)
-* [How AI Drives Supply Chain Automation for Retailers Worldwide](https://digitpatrox.com/how-ai-drives-supply-chain-automation-for-retailers-worldwide/)
-* [Microsoft will finally let you stream Xbox games you already own via Game Pass — here’s what you can play right now](https://digitpatrox.com/microsoft-will-finally-let-you-stream-xbox-games-you-already-own-via-game-pass-heres-what-you-can-play-right-now/)
-* [Microsoft disrupts ONNX phishing-as-a-service infrastructure](https://digitpatrox.com/microsoft-disrupts-onnx-phishing-as-a-service-infrastructure/)
-* [Sonos speakers and soundbars are up to $200 off ahead of Black Friday](https://digitpatrox.com/sonos-speakers-and-soundbars-are-up-to-200-off-ahead-of-black-friday/)
-* [What’s Free on the Epic Games Store Right Now?](https://digitpatrox.com/whats-free-on-the-epic-games-store-right-now/)
-* [Snowflake and Anthropic partner up on agentic AI, model sharing](https://digitpatrox.com/snowflake-and-anthropic-partner-up-on-agentic-ai-model-sharing/)
-* [AI agents are coming to work — here’s what businesses need to know – Computerworld](https://digitpatrox.com/ai-agents-are-coming-to-work-heres-what-businesses-need-to-know-computerworld/)
-* [YouTube Music Is Already Rolling Out Its Version of Spotify Wrapped](https://digitpatrox.com/youtube-music-is-already-rolling-out-its-version-of-spotify-wrapped/)
-* [New ransomware gang SafePay claims cyber attack on Microlise – 1.2TB of data stolen](https://digitpatrox.com/new-ransomware-gang-safepay-claims-cyber-attack-on-microlise-1-2tb-of-data-stolen/)
+* [Will new Apple Pay oversight make Apple Bank a good idea? – Computerworld](https://digitpatrox.com/will-new-apple-pay-oversight-make-apple-bank-a-good-idea-computerworld/)
+* [Apple’s Powerful New M4 Mac Mini Is Already $100 Off](https://digitpatrox.com/apples-powerful-new-m4-mac-mini-is-already-100-off/)
+* [2025 Volkswagen Tiguan Preview – Consumer Reports](https://digitpatrox.com/2025-volkswagen-tiguan-preview-consumer-reports/)
+* [Western Digital Has New External SSDs and NVMe Drives](https://digitpatrox.com/western-digital-has-new-external-ssds-and-nvme-drives/)
+* [CISPE unveils cloud watchdog for Microsoft – and plans to monitor Broadcom, VMware too](https://digitpatrox.com/cispe-unveils-cloud-watchdog-for-microsoft-and-plans-to-monitor-broadcom-vmware-too/)
+* [DataStax CTO Discusses RAG’s Role in Reducing AI Hallucinations](https://digitpatrox.com/datastax-cto-discusses-rags-role-in-reducing-ai-hallucinations/)
+* [AOC Black Friday gaming monitor sale at Amazon — deals from $139](https://digitpatrox.com/aoc-black-friday-gaming-monitor-sale-at-amazon-deals-from-139/)
+* [Windows 11 KB5046740 update released with 14 changes and fixes](https://digitpatrox.com/windows-11-kb5046740-update-released-with-14-changes-and-fixes/)
+* [Rabbit now lets you teach the R1 to perform tasks for you](https://digitpatrox.com/rabbit-now-lets-you-teach-the-r1-to-perform-tasks-for-you/)
+* [Today’s Wordle Answer and Hints for November 22, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-22-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/9M97AurUh3nUu4egusqSok-1200-80.jpg)](https://digitpatrox.com/is-the-time-right-for-asynchronous-collaboration/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3610451-0-34998300-1732214328-Apple-Pay-coming-to-partners-Customer-checking-out-with-Apple-Pay-at-Target-01222019.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/will-new-apple-pay-oversight-make-apple-bank-a-good-idea-computerworld/)
     
-    [Is the time right for asynchronous collaboration?](https://digitpatrox.com/is-the-time-right-for-asynchronous-collaboration/)
+    [Will new Apple Pay oversight make Apple Bank a good idea? – Computerworld](https://digitpatrox.com/will-new-apple-pay-oversight-make-apple-bank-a-good-idea-computerworld/)
     
     16 minutes ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241120-ai-supply-chain-automation-global.jpg)](https://digitpatrox.com/how-ai-drives-supply-chain-automation-for-retailers-worldwide/)
+* [![](https://lifehacker.com/imagery/articles/01JD87XK8ZTR4Q3DDTZ8X2XG7Z/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/apples-powerful-new-m4-mac-mini-is-already-100-off/)
     
-    [How AI Drives Supply Chain Automation for Retailers Worldwide](https://digitpatrox.com/how-ai-drives-supply-chain-automation-for-retailers-worldwide/)
+    [Apple’s Powerful New M4 Mac Mini Is Already $100 Off](https://digitpatrox.com/apples-powerful-new-m4-mac-mini-is-already-100-off/)
     
-    20 minutes ago
+    45 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/wJMF9HvGJKStLp8F3pdAuV-1200-80.jpg)](https://digitpatrox.com/microsoft-will-finally-let-you-stream-xbox-games-you-already-own-via-game-pass-heres-what-you-can-play-right-now/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732116728/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2025-Volkswagen-Tiguan-f-driving-11-24)](https://digitpatrox.com/2025-volkswagen-tiguan-preview-consumer-reports/)
     
-    [Microsoft will finally let you stream Xbox games you already own via Game Pass — here’s what you can play right now](https://digitpatrox.com/microsoft-will-finally-let-you-stream-xbox-games-you-already-own-via-game-pass-heres-what-you-can-play-right-now/)
+    [2025 Volkswagen Tiguan Preview – Consumer Reports](https://digitpatrox.com/2025-volkswagen-tiguan-preview-consumer-reports/)
     
-    24 minutes ago
+    55 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/10/19/Microsoft_headpic.jpg)](https://digitpatrox.com/microsoft-disrupts-onnx-phishing-as-a-service-infrastructure/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/sandisk-extreme-pro-usb-4-portable-ssd-on-a-laptop-near-a-thumb.jpg)](https://digitpatrox.com/western-digital-has-new-external-ssds-and-nvme-drives/)
     
-    [Microsoft disrupts ONNX phishing-as-a-service infrastructure](https://digitpatrox.com/microsoft-disrupts-onnx-phishing-as-a-service-infrastructure/)
+    [Western Digital Has New External SSDs and NVMe Drives](https://digitpatrox.com/western-digital-has-new-external-ssds-and-nvme-drives/)
     
-    2 hours ago
+    57 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/7H5xyF1wgZOrYjIvYh2MTjrUsWM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24530056/DSCF0433.jpg)](https://digitpatrox.com/sonos-speakers-and-soundbars-are-up-to-200-off-ahead-of-black-friday/)
+* [![](https://cdn.mos.cms.futurecdn.net/qnGSwbfzp9zTsFt2t49oUT-1200-80.jpg)](https://digitpatrox.com/cispe-unveils-cloud-watchdog-for-microsoft-and-plans-to-monitor-broadcom-vmware-too/)
     
-    [Sonos speakers and soundbars are up to $200 off ahead of Black Friday](https://digitpatrox.com/sonos-speakers-and-soundbars-are-up-to-200-off-ahead-of-black-friday/)
+    [CISPE unveils cloud watchdog for Microsoft – and plans to monitor Broadcom, VMware too](https://digitpatrox.com/cispe-unveils-cloud-watchdog-for-microsoft-and-plans-to-monitor-broadcom-vmware-too/)
     
     2 hours ago
     
@@ -210,46 +210,46 @@ Recent Topics
 
 * [16 minutes ago
     
-    ### Is the time right for asynchronous collaboration?](https://digitpatrox.com/is-the-time-right-for-asynchronous-collaboration/)
-* [20 minutes ago
+    ### Will new Apple Pay oversight make Apple Bank a good idea? – Computerworld](https://digitpatrox.com/will-new-apple-pay-oversight-make-apple-bank-a-good-idea-computerworld/)
+* [45 minutes ago
     
-    ### How AI Drives Supply Chain Automation for Retailers Worldwide](https://digitpatrox.com/how-ai-drives-supply-chain-automation-for-retailers-worldwide/)
-* [24 minutes ago
+    ### Apple’s Powerful New M4 Mac Mini Is Already $100 Off](https://digitpatrox.com/apples-powerful-new-m4-mac-mini-is-already-100-off/)
+* [55 minutes ago
     
-    ### Microsoft will finally let you stream Xbox games you already own via Game Pass — here’s what you can play right now](https://digitpatrox.com/microsoft-will-finally-let-you-stream-xbox-games-you-already-own-via-game-pass-heres-what-you-can-play-right-now/)
+    ### 2025 Volkswagen Tiguan Preview – Consumer Reports](https://digitpatrox.com/2025-volkswagen-tiguan-preview-consumer-reports/)
 
 Most Popular Topics
 
-* [1 week ago
+* [August 30, 2024
     
-    ### A Universal Share Button is Coming to Windows 11](https://digitpatrox.com/a-universal-share-button-is-coming-to-windows-11/)
-* [4 weeks ago
+    ### Microsoft will let you uninstall Windows Recall AI feature on Windows 11](https://digitpatrox.com/microsoft-will-let-you-uninstall-windows-recall-ai-feature-on-windows-11/)
+* [August 16, 2024
     
-    ### 6 top new TV shows to stream this week on Netflix, Disney Plus and more (Oct. 28-Nov. 3)](https://digitpatrox.com/6-top-new-tv-shows-to-stream-this-week-on-netflix-disney-plus-and-more-oct-28-nov-3/)
-* [August 31, 2024
+    ### What Is an “Asset Flip” Game and Are They a Bad Thing?](https://digitpatrox.com/what-is-an-asset-flip-game-and-are-they-a-bad-thing/)
+* [August 13, 2024
     
-    ### The best wireless earbuds of 2024](https://digitpatrox.com/the-best-wireless-earbuds-of-2024/)
+    ### TikTok owner tipped to release Meta Quest 3 XR headset rival — what we know](https://digitpatrox.com/tiktok-owner-tipped-to-release-meta-quest-3-xr-headset-rival-what-we-know/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [2 hours ago
     
-    ### Snowflake and Anthropic partner up on agentic AI, model sharing](https://digitpatrox.com/snowflake-and-anthropic-partner-up-on-agentic-ai-model-sharing/)
-* [4 hours ago
+    ### AOC Black Friday gaming monitor sale at Amazon — deals from $139](https://digitpatrox.com/aoc-black-friday-gaming-monitor-sale-at-amazon-deals-from-139/)
+* [3 hours ago
     
-    ### AI agents are coming to work — here’s what businesses need to know – Computerworld](https://digitpatrox.com/ai-agents-are-coming-to-work-heres-what-businesses-need-to-know-computerworld/)
-* [4 hours ago
+    ### Windows 11 KB5046740 update released with 14 changes and fixes](https://digitpatrox.com/windows-11-kb5046740-update-released-with-14-changes-and-fixes/)
+* [3 hours ago
     
-    ### YouTube Music Is Already Rolling Out Its Version of Spotify Wrapped](https://digitpatrox.com/youtube-music-is-already-rolling-out-its-version-of-spotify-wrapped/)
+    ### Rabbit now lets you teach the R1 to perform tasks for you](https://digitpatrox.com/rabbit-now-lets-you-teach-the-r1-to-perform-tasks-for-you/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 12, 2024
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 13, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
