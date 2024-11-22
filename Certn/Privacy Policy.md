@@ -90,7 +90,6 @@ Error
 * [Roomies Custom Criminal Consent](#contract-r13kih61a)
 * [FCRA Authorization (Supernal,LLC)](#contract-jx9omk4aa)
 * [Canadian Criminal Record Consent Form NEW\*](#contract-s11zu-f7r)
-* [TEST K 1](#contract-hy96bhhf0)
 * [Canadian Criminal Record Consent Form NEW\* (French)](#contract-evru8dyya)
 * [Identity Fraud Notice](#contract-bjksxbw00)
 * [California Credit Disclosure](#contract-bk8o6a-ar)
@@ -102,6 +101,7 @@ Error
 * [mg - la - con-648](#contract-xmifpf3vk)
 * [Income Verification Terms of Use](#contract-sjctngdzke)
 * [Conditions D'Utilisation Du Demandeur](#contract-hk1b1gfm1g)
+* [FCRA Disclosure](#contract-hyxjlua1jl)
 
 Test Contract 2
 ---------------
@@ -2579,7 +2579,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective November 19th 2024
+##### Effective November 21st 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -5364,24 +5364,6 @@ Personal Information on this form is collected under the authority of the Federa
 | --- | --- | --- | --- |
 | Signature: | {{first\_name}} {{last\_name}} | Date: | {{todays\_date}} |
 
-TEST K 1
---------
-
-### Version 1.0
-
-##### Effective July 29th 2024
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/66a7c5c32bf2239555a4ccd6.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-Testing testing testing  
-  
-
 Canadian Criminal Record Consent Form NEW\* (French)
 ----------------------------------------------------
 
@@ -6203,6 +6185,29 @@ Vous pouvez demander du soutien par un courriel envoyé à [support@certn.co](ma
 Vous consentez à recevoir tous les accords, avis, divulgations et autres communications (collectivement, les « **Avis »)** auxquels les présentes Conditions font référence par voie électronique, y compris, mais sans s’y limiter, par courriel ou par publication d’avis sur l’Application. Vous acceptez que tous les Avis fournis par voie électronique satisfont à toute exigence légale selon laquelle ces communications doivent être faites par écrit. Si vous avez des questions au sujet des présentes Conditions, vous pouvez communiquer avec le service à la clientèle dans l’Application ou par courriel à l’adresse [support@certn.co](mailto:support@certn.co).
 
 « **Certn** » comprend Certn Holdings Inc. et chacune de ses filiales.
+
+FCRA Disclosure
+---------------
+
+### Version 1.2
+
+##### Effective November 21st 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/673f86a3b0b2c7e410626d13.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**DISCLOSURE**
+
+**CONSUMER REPORT**
+
+{{company\_name}} (the “**Company**") has requested a "consumer report" on you for the purpose of {{purpose}}, through [Certn](https://certn.co/) (a consumer reporting agency). A "**consumer report**" is a background screening report that may contain information regarding your domestic and international background history, including but not limited to, your social security number and identification documents, criminal history, sex offender registry status, credit history, employment history, education history, driving history, professional licenses, drug testing results and other information about you.
+
+  
 
 * * *
 
