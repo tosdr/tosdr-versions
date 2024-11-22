@@ -8,6 +8,8 @@
 
 [FAQ](https://paywithmoon.com/faqs)
 
+[For Business](https://paywithmoon.com/business)
+
 [Careers](#)
 
 [About Us](https://paywithmoon.com/about)
