@@ -253,7 +253,7 @@ article 4 days ago](https://www.nasa.gov/missions/mars-science-laboratory/curios
 
 ### Hubble Takes a Look at Tangled Galaxies
 
-article 7 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
+article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
 
 5 min read
 
@@ -269,19 +269,19 @@ article 1 week ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-d
 
 ### Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
 
-article 10 hours ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 16 hours ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 6 min read
 
 ### FAQ: The Real Story About Astronaut Health Care in Space
 
-article 10 hours ago](https://www.nasa.gov/missions/station/faq-the-real-story-about-astronaut-health-care-in-space/)[![An artist’s concept of SpaceX’s Starship Human Landing System (HLS) on the Moon. NASA is working with SpaceX to develop the Starship HLS to carry astronauts from lunar orbit to the Moon’s surface and back for Artemis III and Artemis IV. Starship HLS is roughly 50 meters tall, or about the length of an Olympic swimming pool.](https://www.nasa.gov/wp-content/uploads/2024/11/11-03-24-artemis-3-on-surface.jpg?w=1024)
+article 16 hours ago](https://www.nasa.gov/missions/station/faq-the-real-story-about-astronaut-health-care-in-space/)[![An artist’s concept of SpaceX’s Starship Human Landing System (HLS) on the Moon. NASA is working with SpaceX to develop the Starship HLS to carry astronauts from lunar orbit to the Moon’s surface and back for Artemis III and Artemis IV. Starship HLS is roughly 50 meters tall, or about the length of an Olympic swimming pool.](https://www.nasa.gov/wp-content/uploads/2024/11/11-03-24-artemis-3-on-surface.jpg?w=1024)
 
 2 min read
 
 ### NASA, SpaceX Illustrate Key Moments of Artemis Lunar Lander Mission
 
-article 1 day ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-illustrate-key-moments-of-artemis-lunar-lander-mission/)
+article 2 days ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-illustrate-key-moments-of-artemis-lunar-lander-mission/)
 
 ### Highlights
 
@@ -291,7 +291,7 @@ article 1 day ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-deve
 
 ### Amendment 70: New Opportunity: A.62 FarmFlux Science Team
 
-article 13 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-70-new-opportunity-a-62-farmflux-science-team/)[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
+article 19 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-70-new-opportunity-a-62-farmflux-science-team/)[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
 
 5 min read
 
@@ -313,7 +313,7 @@ article 2 days ago](https://science.nasa.gov/people-of-nasa/nasas-brad-doorn-bri
 
 ### Ready, Set, Action! Our Sun is the Star in Dazzling Simulation
 
-article 13 hours ago](https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/)[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
+article 19 hours ago](https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/)[![5 Surprising NASA Heliophysics Discoveries Not Related to the Sun](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/691/GRB_Jet.jpeg)
 
 5 min read
 
@@ -329,47 +329,47 @@ article 2 days ago](https://www.nasa.gov/solar-system/planets/jupiter/jupiter-mo
 
 ### Featured
 
-[![NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/artist-concepts/Hubble_FUOrionis_STScI-01JD10SWK9VB6MQ9440ERZ8QP0.jpg)
+[![Hubble Captures an Edge-On Spiral with Curve Appeal](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_UGC10043_potw2447a.jpg)
+
+2 min read
+
+### Hubble Captures an Edge-On Spiral with Curve Appeal
+
+article 37 mins ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/artist-concepts/Hubble_FUOrionis_STScI-01JD10SWK9VB6MQ9440ERZ8QP0.jpg)
 
 5 min read
 
 ### NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis
 
-article 13 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-sizzling-details-about-young-star-fu-orionis/)[![The guitar shape in the “Guitar Nebula” comes from bubbles blown by particles ejected from the pulsar through a steady wind as it moves through space. Images from Chandra taken in 2000, 2006, 2012 and 2021 have been combined with a single image in optical light from Palomar. X-rays from Chandra show a filament of energetic matter and antimatter particles, about two light-years long, blasting away from the pulsar (seen as the bright white dot). The movie shows how this filament has changed over two decades. An inset shows a closeup of the “guitar head” from NASA’s Hubble Space Telescope also changing over time from 1994-2021.](https://www.nasa.gov/wp-content/uploads/2024/11/guitar.jpg?w=1024)
+article 19 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-sizzling-details-about-young-star-fu-orionis/)[![The guitar shape in the “Guitar Nebula” comes from bubbles blown by particles ejected from the pulsar through a steady wind as it moves through space. Images from Chandra taken in 2000, 2006, 2012 and 2021 have been combined with a single image in optical light from Palomar. X-rays from Chandra show a filament of energetic matter and antimatter particles, about two light-years long, blasting away from the pulsar (seen as the bright white dot). The movie shows how this filament has changed over two decades. An inset shows a closeup of the “guitar head” from NASA’s Hubble Space Telescope also changing over time from 1994-2021.](https://www.nasa.gov/wp-content/uploads/2024/11/guitar.jpg?w=1024)
 
 5 min read
 
 ### NASA’s Chandra, Hubble Tune Into ‘Flame-Throwing’ Guitar Nebula
 
-article 1 day ago](https://www.nasa.gov/missions/chandra/nasas-chandra-hubble-tune-into-flame-throwing-guitar-nebula/)[![Discovery Alert: A Rare Glimpse of a Newborn Planet](https://science.nasa.gov/wp-content/uploads/2024/11/unknown.jpeg)
-
-4 min read
-
-### Discovery Alert: A Rare Glimpse of a Newborn Planet
-
-article 1 day ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-rare-glimpse-of-a-newborn-planet/)
+article 2 days ago](https://www.nasa.gov/missions/chandra/nasas-chandra-hubble-tune-into-flame-throwing-guitar-nebula/)
 
 ### Highlights
 
-[![An image from a 3D simulation showing the evolution of turbulent flows in the upper layers of the Sun. The more saturated and bright reds represent the most vigorous upward or downward twisting motions. Clear areas represent areas where there is only relatively slow up-flows, with very little twisting.](https://www.nasa.gov/wp-content/uploads/2024/11/11-kitiashvili-i-sc24-sunhelicitytour0.jpg?w=1024)
+[![Hubble Captures an Edge-On Spiral with Curve Appeal](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_UGC10043_potw2447a.jpg)
+
+2 min read
+
+### Hubble Captures an Edge-On Spiral with Curve Appeal
+
+article 37 mins ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![An image from a 3D simulation showing the evolution of turbulent flows in the upper layers of the Sun. The more saturated and bright reds represent the most vigorous upward or downward twisting motions. Clear areas represent areas where there is only relatively slow up-flows, with very little twisting.](https://www.nasa.gov/wp-content/uploads/2024/11/11-kitiashvili-i-sc24-sunhelicitytour0.jpg?w=1024)
 
 3 min read
 
 ### Ready, Set, Action! Our Sun is the Star in Dazzling Simulation
 
-article 13 hours ago](https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/)[![A diagram of the left- and right-hand versions of an amino acid.](https://www.nasa.gov/wp-content/uploads/2024/11/l-r-isovaline-print.jpg?w=1024)
+article 19 hours ago](https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/)[![A diagram of the left- and right-hand versions of an amino acid.](https://www.nasa.gov/wp-content/uploads/2024/11/l-r-isovaline-print.jpg?w=1024)
 
 4 min read
 
 ### NASA: Mystery of Life’s Handedness Deepens
 
-article 13 hours ago](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)[![NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/artist-concepts/Hubble_FUOrionis_STScI-01JD10SWK9VB6MQ9440ERZ8QP0.jpg)
-
-5 min read
-
-### NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis
-
-article 13 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-sizzling-details-about-young-star-fu-orionis/)
+article 19 hours ago](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
 
 ### Highlights
 
@@ -391,7 +391,7 @@ article 4 days ago](https://www.nasa.gov/neat/)[![A blue circle with white type 
 
 ### Dynamic Spin Rig Publications
 
-article 6 days ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
+article 7 days ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
 
 ### Highlights
 
@@ -423,7 +423,7 @@ article 2 days ago](https://www.nasa.gov/solar-system/planets/mars/making-mars-m
 
 ### Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge 
 
-article 2 days ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
 
 5 min read
 
@@ -445,7 +445,7 @@ article 2 weeks ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood
 
 ### Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge 
 
-article 2 days ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
+article 3 days ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
 
 2 min read
 
