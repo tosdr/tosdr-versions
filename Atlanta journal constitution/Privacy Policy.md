@@ -1,4 +1,6 @@
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1834)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1834)](https://www.ajc.com/)
+[Breaking: Certified: Georgia election chief finalizes Trump’s win and statewide results](https://www.ajc.com/politics/trumps-2024-win-in-georgia-certified-by-secretary-of-state-brad-raffensperger/Q2DURKBX2FHKFGI3QUE34KVG5Y/)
+
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
 
@@ -14,7 +16,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-lax-care-little-punishment/HURDSGEXKNDMHJSVYTYCNWZMP4/)
 * [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-nov-22-24/Y4QM323HXJASJG6FMVQVGNS7FA/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
@@ -22,7 +23,7 @@ Log In
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1834)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1836)
 
 * Quick Links
     
@@ -146,7 +147,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1834)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1836)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
