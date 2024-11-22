@@ -18,6 +18,8 @@
 
 * [Sign in](https://cp.sync.com/)
 
+[![BLACK FRIDAY](https://no-cache.hubspot.com/cta/default/47231785/interactive-182992689325.png)](https://cta-service-cms2.hubspot.com/web-interactives/public/v1/track/redirect?encryptedPayload=AVxigLIV3KJvjjXuy6DhaKzmu8xm0nYqm2g4hafxkCR9N09jS5sF5r4XeKg0QoftlLUEp6OYxuIyZC1WVaH59M7BeZI3gg%2BNJm9e61c7iPVl9g4v6QU%3D&webInteractiveContentId=182992689325&portalId=47231785)  
+
 Terms of service
 ================
 
