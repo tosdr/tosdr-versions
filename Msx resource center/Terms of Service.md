@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)](https://www.msx.org/photoshoots/nijmegen-2010/new-stuff-sale-bitwise-booth-including-many-msxdev-games-and-advanced-vers "New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
@@ -149,11 +150,11 @@ Latest reactions
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
 * [MSXdev24 #09 Wizsoul](https://www.msx.org/news/challenges/en/msxdev24-09 "MSXdev24 #09 Wizsoul")
-* [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
 
 Latest forum posts
 
 * [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
+* [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/forum/msx-talk/hardware/msx-pico-multi-flash-rom-cartridge?page=3 "MSX Pico - multi Flash ROM cartridge")
 * [Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.](https://www.msx.org/forum/msx-talk/hardware/obsonet-raspberrypi-internestor-lite-23-freeze-on-install "Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.")
 * [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
@@ -165,7 +166,6 @@ Latest forum posts
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
 * [Some facts about Konami 32kb game cartridges](https://www.msx.org/forum/msx-talk/hardware/some-facts-about-konami-32kb-game-cartridges "Some facts about Konami 32kb game cartridges")
 * [MSX music arrangements on the net](https://www.msx.org/forum/msx-talk/graphics-and-music/msx-arrangements-on-the-net?page=11 "MSX music arrangements on the net")
-* [DSKPRO Full 17.0](https://www.msx.org/forum/msx-talk/software/dskpro-full-170?page=1 "DSKPRO Full 17.0")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
