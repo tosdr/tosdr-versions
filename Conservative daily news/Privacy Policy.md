@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Family At The Heart Of Competition: Inland Empire USPSA Sectional Championships](https://www.thegunpage.com/family-at-the-heart-of-competition-inland-empire-uspsa-sectional-championships/10612045)
 * [TFB Review: DNT Optics TheOne 7-35×56 MRAD Scope](https://www.thegunpage.com/tfb-review-dnt-optics-theone-7-35x56-mrad-scope/10612042)
 * [POTD: JP Rifles JP CTR-02 With New Spuhr RDF Aimpoint Mount](https://www.thegunpage.com/potd-jp-rifles-jp-ctr-02-with-new-spuhr-rdf-aimpoint-mount/10612043)
 * [Concealed Carry Corner: Lights For Carrying Concealed](https://www.thegunpage.com/concealed-carry-corner-lights-for-carrying-concealed/10612044)
@@ -190,7 +191,6 @@ Recent Posts
 * [Mother Confronts Man Texting Her Daughter Before He Is Shot By Police](https://www.thegunpage.com/mother-confronts-man-texting-her-daughter-before-he-is-shot-by-police/10612026)
 * [GOA Reaction: PA Supreme Court Guts Philadelphia Gun Control, Upholds State Preemption Law](https://www.thegunpage.com/goa-reaction-pa-supreme-court-guts-philadelphia-gun-control-upholds-state-preemption-law/10612025)
 * [Freedom Munitions Moves Jobs To Idaho From Nevada](https://www.thegunpage.com/freedom-munitions-moves-jobs-to-idaho-from-nevada/10612023)
-* [Dem Governors Seek to Hamper Trump; Ignore the Will of the People](https://www.thegunpage.com/dem-governors-seek-to-hamper-trump-ignore-the-will-of-the-people/10612022)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
