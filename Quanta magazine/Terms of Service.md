@@ -241,6 +241,12 @@ Past Week
 
 ### Most Read Articles
 
+[![Bessis sitting at an outdoor café in Paris.](https://www.quantamagazine.org/wp-content/uploads/2024/11/QADavidBessis-crLaurenceGeai-Thumbnail.webp)](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+
+[#### Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+
+_By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-houston-edwards)
+
 [![An illustration of a man using a telescope to look at a constellation in the shape of a mathematical curve.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Elliptic-Curve-Record_crDaniel-Garcia-Thumbnail.webp)](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
 
 [#### New Elliptic Curve Breaks 18-Year-Old Record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
@@ -253,17 +259,11 @@ _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
 _By_ [John Pavlus](https://www.quantamagazine.org/authors/john-pavlus)
 
-[![Bessis sitting at an outdoor café in Paris.](https://www.quantamagazine.org/wp-content/uploads/2024/11/QADavidBessis-crLaurenceGeai-Thumbnail.webp)](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Meet-Luca_crRobertNeubeker-Thumbnail.webp)](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
 
-[#### Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+[#### All Life on Earth Today Descended From a Single Cell. Meet LUCA.](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
 
-_By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-houston-edwards)
-
-[![A meteorite floating in space](https://www.quantamagazine.org/wp-content/uploads/2024/11/TheComet_crChristianStangl-Thumbnail.webp)](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
-
-[#### The Cosmos Teems with Complex Organic Molecules](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
-
-_By_ [Elise Cutts](https://www.quantamagazine.org/authors/elise-cutts)
+_By_ [Jonathan Lambert](https://www.quantamagazine.org/authors/jonathan-lambert)
 
 The Quanta Newsletter
 
