@@ -768,7 +768,6 @@ Projects
 * [Browser Extension](https://nopecha.com/github/extension)
 * [Python Library](https://nopecha.com/github/python)
 * [Node.js Library](https://nopecha.com/github/nodejs)
-* [Steam Account Generator](https://sage.party/)
 
 Community
 
