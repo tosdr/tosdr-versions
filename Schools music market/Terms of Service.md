@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/the-guitar-components-worksheet/)
+ [](https://schoolsmusicmarket.com/product/weekly-song-review-classical-edition/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/playalong-christmas-recorders/)
+ [](https://schoolsmusicmarket.com/product/large-music-note-display-cutout/)
 
 ###### Browse By Year/Grade
 
