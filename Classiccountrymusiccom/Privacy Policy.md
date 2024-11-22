@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [George Strait’s Wife Tears Up As...](https://classiccountrymusic.com/george-straits-wife-tears-up-as-he-thanks-her-in-cma-lifetime-achievement-award-speech/)
+* [George Strait’s Grandkids Make Rare Public...](https://classiccountrymusic.com/george-straits-grandkids-make-rare-public-appearance-at-2024-cma-awards/)
 * [Dierks Bentley & Friends Give Tom...](https://classiccountrymusic.com/dierks-bentley-friends-give-tom-pettys-american-girl-a-bluegrass-twist/)
-* [Top Country Music Artists Tribute George...](https://classiccountrymusic.com/top-country-music-artists-tribute-george-strait-at-the-cma-awards/)
-* [Blake Shelton & Luke Bryan Sing...](https://classiccountrymusic.com/blake-shelton-luke-bryan-sing-alabamas-mountain-music-to-honor-bmi-icon-randy-owen/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
