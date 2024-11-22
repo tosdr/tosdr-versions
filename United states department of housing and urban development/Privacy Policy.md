@@ -110,6 +110,8 @@ Agency
 
 [Office of Inspector General](https://www.hudoig.gov/)
 
+[HUD Jobs Search](https://www.usajobs.gov/Search/Results?d=HU)
+
 Resources
 
 [Laws and Regulations](https://www.hud.gov/program_offices/general_counsel/lawsandregulations)
