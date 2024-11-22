@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/ea658575-830b-4cb1-895c-7820aae2f18f/20241121T151036/ea658575-830b-4cb1-895c-7820aae2f18f_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/ea658575-830b-4cb1-895c-7820aae2f18f/20241121T151036/ea658575-830b-4cb1-895c-7820aae2f18f_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-teen-last-seen-on-nov-20-2024-in-college-station-area/500-efbf8677-59e1-46f2-b799-81238c19adf4)
+        
+        #### [Have you seen this person? Authorities seeking information on missing teen last seen in College Station](https://www.kagstv.com/article/news/local/missing-teen-last-seen-on-nov-20-2024-in-college-station-area/500-efbf8677-59e1-46f2-b799-81238c19adf4)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/c1e17186-410b-4de2-a15b-a11535cc085f/c1e17186-410b-4de2-a15b-a11535cc085f_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/c1e17186-410b-4de2-a15b-a11535cc085f/c1e17186-410b-4de2-a15b-a11535cc085f_360x203.jpg)](https://www.kagstv.com/article/traffic/train-pedestrian-crash-college-station-nov-21-2024/500-587515c8-c8ed-4854-9573-b7f0d5c4b98c)
         
         #### [One hospitalized after train-pedestrian crash in College Station](https://www.kagstv.com/article/traffic/train-pedestrian-crash-college-station-nov-21-2024/500-587515c8-c8ed-4854-9573-b7f0d5c4b98c)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/fff7d49d-4901-4890-80f6-b420d0b485e4/20241121T171404/fff7d49d-4901-4890-80f6-b420d0b485e4_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/fff7d49d-4901-4890-80f6-b420d0b485e4/20241121T171404/fff7d49d-4901-4890-80f6-b420d0b485e4_360x203.jpg)](https://www.kagstv.com/article/news/crime/new-image-of-baby-madison-from-2016-madisonville-jane-doe-cold-case/500-c67d13f7-7110-456a-ae10-4b73a26a0d02)
-        
-        #### [Authorities release new image of victim in 2016 Madisonville cold case](https://www.kagstv.com/article/news/crime/new-image-of-baby-madison-from-2016-madisonville-jane-doe-cold-case/500-c67d13f7-7110-456a-ae10-4b73a26a0d02)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-45°
+49°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
