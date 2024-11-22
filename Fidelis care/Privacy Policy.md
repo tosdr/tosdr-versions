@@ -86,6 +86,7 @@ Login to your account, download forms, view auth grids and more.
 * [Provider Bulletins](https://www.fideliscare.org/Provider/Provider-Resources/Provider-Bulletins)
 * [Pharmacy Services](https://www.fideliscare.org/Provider/Provider-Resources/Pharmacy-Services)
 * [Manuals, Forms and Policies](https://www.fideliscare.org/Provider/Provider-Resources/Manuals-Forms-and-Policies)
+* [Quality](https://www.fideliscare.org/Provider/Provider-Resources/Quality)
 
 * * *
 
