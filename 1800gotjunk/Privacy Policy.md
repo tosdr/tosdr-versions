@@ -153,8 +153,6 @@ Sub Menu
 
 search
 
-Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
-
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -887,6 +885,38 @@ Fella Gaouar Monteregie Metro 18/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Samuel and Keith were absolute all stars hauling all my junk away. Will definitely be using this service again!
+
+Becca Cihlar Wisconsin 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Hired them a second time. John and Alex did a great job. On time, very professional, and upfront about cost. Will use services again.
+
+Steve Chesna Wisconsin 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Bo and Jon perfect service
+
+Bruce Mumm Seattle 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Max and will did a super great job
+
+Jacob Nielsen Wisconsin 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Avron and Bobby were fantastic and I appreciate how pleasant and efficient they were! Great job guys!
 
 Kim Kelly Naples 16/11/2024
@@ -895,9 +925,9 @@ Kim Kelly Naples 16/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great customer service from Bobby and Louis! Fast and friendly.
+Ronnie & Marcel
 
-Kati Harrell Austin 16/11/2024
+Lisa Jenness Seattle 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -906,6 +936,30 @@ Kati Harrell Austin 16/11/2024
 Kegan and Harold did and amazing job! They were quick and gave us a great price!
 
 Tyler Emerson Naples 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great guys, bo and Jon were awesome!
+
+Donald Sarvis Seattle 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Fast, professional and nice. Kegan and Harold
+
+Katrina Jones Naples 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great customer service from Bobby and Louis! Fast and friendly.
+
+Kati Harrell Austin 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -935,14 +989,6 @@ No\_BiGGy LA Metro 16/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Fast, professional and nice. Kegan and Harold
-
-Katrina Jones Naples 16/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Darren and Noah are great! Super nice and easy to work with :)
 
 Beth Baker Madison 16/11/2024
@@ -951,73 +997,9 @@ Beth Baker Madison 16/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Samuel and Keith were absolute all stars hauling all my junk away. Will definitely be using this service again!
+Don and Deon were amazing! Unfortunately out of budget but customer service was excellent!
 
-Becca Cihlar Wisconsin 16/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Bo and Jon perfect service
-
-Bruce Mumm Seattle 16/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Max and will did a super great job
-
-Jacob Nielsen Wisconsin 16/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Ronnie & Marcel
-
-Lisa Jenness Seattle 16/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great guys, bo and Jon were awesome!
-
-Donald Sarvis Seattle 16/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Hired them a second time. John and Alex did a great job. On time, very professional, and upfront about cost. Will use services again.
-
-Steve Chesna Wisconsin 16/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Dylan and Pablo - fast, efficient and friendly
-
-Kaylee Marcum Seattle 15/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Max and Kieth crushed it
-
-Dan Appino Wisconsin 15/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Noe and Gio Great service. Very helpful and polite!
-
-Stacy Howe Naples 15/11/2024
+Empire Beauty Austin 15/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1026,6 +1008,22 @@ Stacy Howe Naples 15/11/2024
 August and Canyon were fantastic! Pleasant to work with and came time, fair estimate and removed all! Easy peasy!
 
 Lyn Wi Madison 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great service from Dom and David. Arrived on time and with great communication!!!!
+
+Chad McCall Austin 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Very helpful and reliable. Nice job!
+
+kim miller Madison 15/11/2024
 
 ### 
 
