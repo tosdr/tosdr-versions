@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![Human Rights Foundation](data:image/svg+xml;nitro-empty-id=MTE0Mzo2NDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjgzMiA3NzkiIHdpZHRoPSIyODMyIiBoZWlnaHQ9Ijc3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://hrf.org/)
+[![Human Rights Foundation](data:image/svg+xml;nitro-empty-id=MTE1MDo2NDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjgzMiA3NzkiIHdpZHRoPSIyODMyIiBoZWlnaHQ9Ijc3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://hrf.org/)
 
 * [About Us](https://hrf.org/about-us/) Close About Us Open About Us
     
@@ -47,7 +47,7 @@ Close this search box.
 
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU1NTgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
-![](data:image/svg+xml;nitro-empty-id=MTYwMjo0Mzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](data:image/svg+xml;nitro-empty-id=MTYwOTo0Mzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 * [About Us](https://hrf.org/about-us/)
 
@@ -79,7 +79,8 @@ Store
 
 [Donate](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjMxMTYiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
-### Privacy Policy
+Privacy Policy
+==============
 
 ###### Last updated: August 25, 2020
 
@@ -416,7 +417,7 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 [Back to homepage](https://hrf.org/)
 
-![HRF](data:image/svg+xml;nitro-empty-id=MjIwNToxNjY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjY0IDcyIiB3aWR0aD0iMjY0IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
+![HRF](data:image/svg+xml;nitro-empty-id=MjIzNjoxNjY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjY0IDcyIiB3aWR0aD0iMjY0IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
 
 ##### We believe that when we rise, tyranny falls.
 
@@ -447,7 +448,7 @@ Find answers to commonly asked questions in our FAQs.
 
 #### Join the cause by subscribing to our newsletter.
 
-   
+  
 
 First Name 
 
@@ -468,7 +469,7 @@ Hit enter to search or ESC to close
 
 #### Email Us
 
-   
+  
 
 First Name 
 
@@ -486,7 +487,7 @@ Submit
 
 #### Join the cause by subscribing to our newsletter.
 
-   
+  
 
 First Name 
 
