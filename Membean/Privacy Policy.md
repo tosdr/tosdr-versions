@@ -38,7 +38,7 @@ Protecting your personal information is important to us.
 Our Commitment to Your Privacy
 ------------------------------
 
-Membean, Inc., an Oregon corporation ("Membean"), respects your individual privacy. Our privacy policy documents our adherence to industry standards for the protection of your personal information.
+ [![Student Privacy Pledge Badge](https://cdn0.membean.com/images/student-privacy-pledge-badge.png)](https://studentprivacypledge.org/privacy-pledge-2-0/)Membean, Inc., an Oregon corporation ("Membean"), respects your individual privacy. Our privacy policy documents our adherence to industry standards for the protection of your personal information.
 
 Scope of the Privacy Policy
 ---------------------------
