@@ -1,43 +1,47 @@
-[Skip to main content](#main-content)[Skip to Xpert Chatbot](#xpert_chatbot__floating-action-btn)
-
-[![edX Online](/images/logos/edx-logo-elm.svg)](https://www.edx.org/)
-
-Toggle mobile menu
-
-* [Sign In](https://authn.edx.org/login)[Register for free](https://authn.edx.org/register)
-* [All Courses & Programs](https://www.edx.org/search)
-* Degrees & ProgramsNew
-    
-* Boot Camps
-    
-* [Schools & Partners](https://www.edx.org/schools-partners)
-* [edX For Business](https://business.edx.org/?utm_campaign=edX.org+Referral&utm_source=prospectus.edx.org&utm_medium=Top-Link)
-
-Search for courses and programs
-
-[![edX Online](/images/logos/edx-logo-elm.svg)](https://www.edx.org/)
+[![edX Online Homepage](/trademark-logos/edx-logo-elm.svg)](https://www.edx.org/)
 
 Learn
 
-Submit your search query
+Search
 
-Submit your search query
+Most popular programs
 
-Explore the Career resources resources
+* [![CS50's Introduction to Computer Science](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2Fda1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png&w=96&q=75)
+    
+    CS50's Introduction to Computer ScienceHarvardX | Course](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?correlationId=4dbb2116-f52f-4116-b5a9-245782f3520b)
+* [![Artificial Intelligence: Implications for Business Strategy](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2F32ab61e5-44b4-4316-ad59-9f04fc876e0a-aeb25306d62b.small.jpg&w=96&q=75)
+    
+    Artificial Intelligence: Implications for Business StrategyMIT Sloan School of Management | Executive Education](https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-implications-for-business-strategy?correlationId=73990751-cb88-49c1-912e-7eb6ca605a18)
+* [![Supply Chain Management](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F2fc3236d-78a9-45a1-8c0c-fc290e74259e-f3b970b5cd3a.jpg&w=96&q=75)
+    
+    Supply Chain ManagementMITx | MicroMasters](https://www.edx.org/masters/micromasters/mitx-supply-chain-management?correlationId=e48673ad-e448-426e-bbb8-758450ddf28c)
+* [![Computer Science for Game Development](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F64b3c632-8610-4b17-9a48-9efee7fa3266-6a1e055774b4.jpg&w=96&q=75)
+    
+    Computer Science for Game DevelopmentHarvardX | Professional Certificate](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-game-development?correlationId=bc435ce8-8697-460a-831d-544361e7d168)
 
-[Schools & Partners](https://www.edx.org/schools-partners)
+Trending now
 
-#### Still unsure?
+* [data science](https://www.edx.org/search?q=data%20science)
+* [ai](https://www.edx.org/search?q=ai)
+* [finance](https://www.edx.org/search?q=finance)
+* [business](https://www.edx.org/search?q=business)
 
-Try a course for free.
+[View all results](https://www.edx.org/search)
 
-[Free online courses](https://www.edx.org/free-online-courses)
+[edX For Business](https://business.edx.org/)[Sign In](https://authn.edx.org/login)[Register for free](https://authn.edx.org/register)
 
-**Cyber Monday savings — get up to 30% off** select programs until December 3. Use code **EDXCYBER24.** [Learn more](https://www.edx.org/cyber-monday).
+**Cyber Monday savings — get up to 30% off** select programs until December 3. Use code **EDXCYBER24**. [Learn more](https://www.edx.org/cyber-monday).
 
 Close site banner.
 
-### edX Privacy Policy
+[![edX Online](/trademark-logos/edx-logo-elm.svg)](https://www.edx.org/)
+
+**Cyber Monday savings — get up to 30% off** select programs until December 3. Use code **EDXCYBER24**. [Learn more](https://www.edx.org/cyber-monday).
+
+Close site banner.
+
+edX privacy policy
+==================
 
 **Last updated June 15, 2023**
 
@@ -265,7 +269,7 @@ If you do not agree with the terms of this Privacy Policy, please do not access,
     * Potential employers (Contact Information and Identifiers, Customer Records, Employment History, Education Information), or
     * Third parties for legal matters or safety purposes (all categories of Personal Information).
     
-    In some cases, we disclose Identifiers and Usage Data to business partners in order to deliver ads that are more relevant to you and to measure and report on the effectiveness of our advertising campaigns. Under the CCPA, some of these data disclosures may be broadly considered a “sale” of information or “sharing” of information for cross-context behavioral advertising, even though these activities do not fit what most people would understand “sale” or “sharing” to mean. Except for these types of disclosures, we do not sell or share your information. To opt out of the sale of your Personal Information or the sharing of your Personal Information for cross-context behavioral advertising, please visit Your Privacy Choices, also linked at the bottom of each page on the edX Site.
+    In some cases, we disclose Identifiers and Usage Data to business partners in order to deliver ads that are more relevant to you and to measure and report on the effectiveness of our advertising campaigns. Under the CCPA, some of these data disclosures may be broadly considered a “sale” of information or “sharing” of information for cross-context behavioral advertising, even though these activities do not fit what most people would understand “sale” or “sharing” to mean. Except for these types of disclosures, we do not sell or share your information. To opt out of the sale of your Personal Information or the sharing of your Personal Information for cross-context behavioral advertising, please visit [Your Privacy Choices](#), also linked at the bottom of each page on the edX Site.
     
     _Data Retention Periods_
     
@@ -281,7 +285,7 @@ If you do not agree with the terms of this Privacy Policy, please do not access,
     * The right to correct inaccurate Personal Information that we maintain about you.
     * The right to request more details about the Personal Information we collect and how and why we use and share it, including the categories of Personal Information we have collected about you, the categories of sources for Personal Information we collect, the business or commercial purposes for collecting Personal Information, and the categories of third parties with which we share Personal Information.
     
-    You can submit a copy, deletion, correction or right-to-know request online by following the steps outlined in [How to manage your Personal Information](#manage-personal-info) above, by calling us at (1) 888-278-0813, or by emailing [privacy@edx.org](mailto:privacy@edx.org). To opt out of the sale of your Personal Information or the sharing of your Personal Information for cross-context behavioral advertising, please visit Your Privacy Choices, also linked at the bottom of each page on the edX Site.
+    You can submit a copy, deletion, correction or right-to-know request online by following the steps outlined in [How to manage your Personal Information](#manage-personal-info) above, by calling us at (1) 888-278-0813, or by emailing [privacy@edx.org](mailto:privacy@edx.org). To opt out of the sale of your Personal Information or the sharing of your Personal Information for cross-context behavioral advertising, please visit [Your Privacy Choices](#), also linked at the bottom of each page on the edX Site.
     
     If you implement browser-based opt-out preference signals, edX will opt you out of the sale of your Personal Information and sharing of your Personal Information for cross-context behavioral advertising. You can enable these signals through your browser settings for browsers that offer them. Please refer to your browser for additional information and instructions.
     
@@ -316,14 +320,11 @@ If you do not agree with the terms of this Privacy Policy, please do not access,
 
 [View the previous version of this Privacy Policy](https://www.edx.org/edx-privacy-policy-previous)
 
-[![edx footer logo](/images/logos/edX_by2U_white.svg)](https://www.edx.org/)
+[![edX homepage](/trademark-logos/edx-by-2u-white.svg)](https://www.edx.org/)
 
-* [Like edX on Facebook](https://www.facebook.com/EdxOnline "Facebook")
-* [Follow edX on Twitter](https://twitter.com/edXOnline "Twitter")
-* [Follow edX on LinkedIn](https://www.linkedin.com/company/edx "LinkedIn")
-* [Subscribe to the edX subreddit](https://www.reddit.com/r/edx "Reddit")
+[](https://www.facebook.com/EdxOnline)[](https://twitter.com/edXOnline)[](https://www.linkedin.com/company/edx)[](https://www.reddit.com/r/edx)
 
-### BROWSE COURSES
+Browse Courses
 
 * [Learn AI](https://www.edx.org/learn/artificial-intelligence)
 * [Learn ChatGPT](https://www.edx.org/learn/chatgpt)
@@ -340,7 +341,7 @@ If you do not agree with the terms of this Privacy Policy, please do not access,
 
 [see more Courses](https://www.edx.org/learn)
 
-### START A NEW CAREER
+Start a new career
 
 * [Coding Boot Camp](https://www.edx.org/boot-camps/coding)
 * [AI Boot Camp](https://www.edx.org/boot-camps/ai)
@@ -351,7 +352,7 @@ If you do not agree with the terms of this Privacy Policy, please do not access,
 
 [see more Boot Camps](https://www.edx.org/boot-camps)
 
-### STEP-BY-STEP GUIDES
+step-by-step guides
 
 * [Become a Cybersecurity Analyst](https://www.edx.org/become/how-to-become-a-cybersecurity-analyst)
 * [Become a Data Scientist](https://www.edx.org/become/how-to-become-a-data-scientist)
@@ -361,7 +362,7 @@ If you do not agree with the terms of this Privacy Policy, please do not access,
 
 [see more Guides](https://www.edx.org/become)
 
-### COMPLETE YOUR BACHELOR'S ONLINE
+Complete your bachelor's online
 
 * [Bachelor's in Business](https://www.edx.org/bachelors/business)
 * [Bachelor's in Computer Science / Data Science](https://www.edx.org/bachelors/computer-data-sciences)
@@ -374,7 +375,7 @@ If you do not agree with the terms of this Privacy Policy, please do not access,
 
 [see more Undergraduate Degrees](https://www.edx.org/bachelors)
 
-### EARN YOUR ONLINE GRADUATE DEGREE
+Earn your online graduate degree
 
 * [Master's in Business Administration](https://www.edx.org/masters/online-mba)
 * [Master's in Public Health](https://www.edx.org/masters/masters-in-public-health-online)
@@ -383,41 +384,35 @@ If you do not agree with the terms of this Privacy Policy, please do not access,
 * [Master's in Data Science](https://www.edx.org/masters/online-masters-in-data-science)
 * [Master's in Engineering](https://www.edx.org/masters/online-masters-in-engineering)
 * [Master's in Speech Pathology](https://www.edx.org/masters/online-slp-programs)
-* [Master's in Counseling/Psychology](https://www.edx.org/masters/counseling-psychology)
+* [Master's in Counseling/Psychology](https://www.edx.org/masters/online-slp-programs)
 * [Master's Degree in Healthcare](https://www.edx.org/masters/healthcare)
 * [Master's Degree in Education](https://www.edx.org/masters/masters-in-education-online)
 * [Master's Degree in AI](https://www.edx.org/masters/online-masters-in-artificial-intelligence)
 * [Master's Degree in Computer Science](https://www.edx.org/masters/online-masters-in-computer-science)
 
-[see more Graduate Degrees](https://www.edx.org/masters)  
-[see more Doctorate Degrees](https://www.edx.org/doctorate)
+[see more Graduate Degrees](https://www.edx.org/masters)[see more Doctorate Degrees](https://www.edx.org/doctorate)
 
-* * *
-
-edX
----
+edx
 
 * [Partner With Us](https://business.edx.org/partner)
 * [Boot Camps](https://www.edx.org/boot-camps)
 * [About](https://www.edx.org/about-us)
-* [edX For Business](https://business.edx.org/)
+* [edX For Business](https://business.edx.org/?_gl=1*y0gcxr*_gcl_au*NDExMDUyMjIxLjE3MTUxMDI2MjM.*_ga*MTQzNjQ4NzY3NC4xNzA3MzE1NzUx*_ga_D3KS4KMDT0*MTcyMTkxMjUxNC4xODEuMS4xNzIxOTE0NDczLjQ1LjAuMA..)
 * [Affiliates](https://www.edx.org/affiliate-program)
-* [Open edX](http://open.edx.org/)
-* [2U Advisory Council](http://www.edx.org/advisory-groups)
+* [Open edX](http://open.edx.org/?_gl=1*lt6kx3*_gcl_au*NDExMDUyMjIxLjE3MTUxMDI2MjM.*_ga*MTQzNjQ4NzY3NC4xNzA3MzE1NzUx*_ga_D3KS4KMDT0*MTcyMTkxMjUxNC4xODEuMS4xNzIxOTE0NTQ5LjU5LjAuMA..)
+* [2U Advisory Council](https://www.edx.org/advisory-groups)
 * [Careers](https://www.edx.org/careers)
-* [News](https://press.edx.org/)
+* [News](https://press.edx.org/?_gl=1*8w80my*_gcl_au*NDExMDUyMjIxLjE3MTUxMDI2MjM.*_ga*MTQzNjQ4NzY3NC4xNzA3MzE1NzUx*_ga_D3KS4KMDT0*MTcyMTkxMjUxNC4xODEuMS4xNzIxOTE0NTgzLjI1LjAuMA..)
 
 Connect
--------
 
 * [Idea Hub](https://www.edx.org/resources)
-* [Contact Us](https://courses.edx.org/support/contact_us)
-* [Help Center](https://support.edx.org/)
+* [Contact Us](https://courses.edx.org/support/contact_us?_gl=1*13dq6q5*_gcl_au*NDExMDUyMjIxLjE3MTUxMDI2MjM.*_ga*MTQzNjQ4NzY3NC4xNzA3MzE1NzUx*_ga_D3KS4KMDT0*MTcyMTkxMjUxNC4xODEuMS4xNzIxOTE0NjYyLjYuMC4w)
+* [Help Center](https://support.edx.org/?_gl=1*1ej7jnc*_gcl_au*NDExMDUyMjIxLjE3MTUxMDI2MjM.*_ga*MTQzNjQ4NzY3NC4xNzA3MzE1NzUx*_ga_D3KS4KMDT0*MTcyMTkxMjUxNC4xODEuMS4xNzIxOTE1MDgxLjUuMC4w)
 * [Security](https://www.edx.org/policy/security)
 * [Media Kit](https://www.edx.org/media-kit)
 
 Legal
------
 
 * [Terms of Service & Honor Code](https://www.edx.org/edx-terms-service)
 * [Privacy Policy](https://www.edx.org/edx-privacy-policy)
@@ -430,11 +425,9 @@ Legal
 
 Choose your language
 
-EnglishespañolApply
-
-* * *
+EnglishSpanishApply
 
 © 2024 edX LLC. All rights reserved.  
-| 深圳市恒宇博科技有限公司 [粤ICP备17044299号-2](https://beian.miit.gov.cn/)
+| 深圳市恒宇博科技有限公司
 
-[![Download on the App Store](https://www.edx.org/cdn-cgi/image/width=120,height=40,format=webp,quality=75/images/logos/apple-store-badge-en.svg)](https://itunes.apple.com/us/app/edx/id945480667?mt=8&external_link=true)[![Get it on Google Play](https://www.edx.org/cdn-cgi/image/width=undefined,height=undefined,format=webp,quality=75/images/logos/google-play-badge-en.png)](https://play.google.com/store/apps/details?id=org.edx.mobile&external_link=true)
+[![Download on the App Store](/_next/image?url=%2Fimages%2Fapple-store-badge-en.png&w=256&q=75)](https://itunes.apple.com/us/app/edx/id945480667?mt=8&external_link=true)[![Get it on Google Play](/_next/image?url=%2Fimages%2Fgoogle-play-badge-en.png&w=384&q=75)](https://play.google.com/store/apps/details?id=org.edx.mobile&external_link=true)
