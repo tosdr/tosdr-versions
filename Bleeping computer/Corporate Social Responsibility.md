@@ -306,15 +306,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
+* [![Ubuntu](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Ubuntu Linux impacted by decade-old 'needrestart' flaw that gives root](https://www.bleepingcomputer.com/news/security/ubuntu-linux-impacted-by-decade-old-needrestart-flaw-that-gives-root/)
+* [![ford2](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Ford rejects breach allegations, says customer data not impacted](https://www.bleepingcomputer.com/news/security/ford-rejects-breach-allegations-says-customer-data-not-impacted/)
 * [![Fortinet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Chinese hackers exploit Fortinet VPN zero-day to steal credentials](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-fortinet-vpn-zero-day-to-steal-credentials/)
-* [![VMware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Critical RCE bug in VMware vCenter Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
-* [![Microsoft 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Microsoft 365 Admin portal abused to send sextortion emails](https://www.bleepingcomputer.com/news/security/microsoft-365-admin-portal-abused-to-send-sextortion-emails/)
+    Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
 
 ##### Follow us:
 
