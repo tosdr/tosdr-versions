@@ -45,7 +45,7 @@ account
 
 close
 
-[FIND FOCUS with an AD-FREE experience with Bible Gateway Plus. Save 20% OFF FOR LIFE for a limited time!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_adfreefocus20241111)
+[THE BEST DEAL in digital Bible study IS HERE! Access $3,100 worth of premium resources to help understand Scripture. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_BestDeal3100_20241111)
 
 close
 
