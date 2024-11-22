@@ -335,15 +335,16 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Lonely Planet founders Tony and Maureen Wheeler.](https://static.ffx.io/images/$zoom_0.8487%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1481%2C$y_407/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6777264d0db564ee19d7457541fc964234eab6d6)](https://www.afr.com/wealth/people/lonely-planet-founders-not-content-with-giving-away-half-their-wealth-20241119-p5krsr)
+[![Dr Rohan Hockings and Alan Tribe have led the turnaround of PYC Therapeutics.](https://static.ffx.io/images/$zoom_0.4578%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_239%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a9db55d941dfc3382be409d69405919a8c0da5ac)](https://www.afr.com/rich-list/the-stock-set-to-propel-one-of-wa-s-richest-back-onto-the-rich-list-20241120-p5ks3m)
 
-### [Lonely Planet founders not content with giving away half their wealth](https://www.afr.com/wealth/people/lonely-planet-founders-not-content-with-giving-away-half-their-wealth-20241119-p5krsr)
+### [The stock set to propel one of WA’s richest back onto the Rich List](https://www.afr.com/rich-list/the-stock-set-to-propel-one-of-wa-s-richest-back-onto-the-rich-list-20241120-p5ks3m)
 
+* 1 hr ago
 * Yolanda Redrup
 
-* ### [The Rich List region that’s become Sydney’s Hamptons](https://www.afr.com/property/residential/the-rich-list-region-that-s-become-sydney-s-hamptons-20241113-p5kqfy)
+* ### [Lonely Planet founders not content with giving away half their wealth](https://www.afr.com/wealth/people/lonely-planet-founders-not-content-with-giving-away-half-their-wealth-20241119-p5krsr)
     
-* ### [Nufarm entrepreneur Doug Rathbone a winner in $475m Elders buyout](https://www.afr.com/companies/agriculture/nufarm-entrepreneur-doug-rathbone-a-winner-in-475m-elders-buyout-20241119-p5krr8)
+* ### [The Rich List region that’s become Sydney’s Hamptons](https://www.afr.com/property/residential/the-rich-list-region-that-s-become-sydney-s-hamptons-20241113-p5kqfy)
     
 
 [The Australian Financial Review](https://www.afr.com/)
