@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Network deployment strategy for Backup4all](https://www.backup4all.com/network-deployment-strategy-for-backup4all-kb.html)  
+* [How to backup your data to HostEurope](https://www.backup4all.com/how-to-backup-your-data-to-hosteurope-kb.html)  
     
-* [Ordering - FAQ](https://www.backup4all.com/ordering-faq-kb.html)  
+* [Partnerships - FAQ](https://www.backup4all.com/partnerships-faq-kb.html)  
     
-* [How to backup your data to HiDrive](https://www.backup4all.com/how-to-backup-your-data-to-hidrive-kb.html)  
+* [How to enable on Linux the ciphers supported ...](https://www.backup4all.com/how-to-enable-on-linux-the-ciphers-supported-by-backup4all-kb.html)  
     
-* [How to force Backup4all to copy again some mi ...](https://www.backup4all.com/how-to-force-backup4all-to-copy-again-some-missing-files-in-destination-kb.html)  
+* [How to backup your data to HGST](https://www.backup4all.com/how-to-backup-your-data-to-hgst-kb.html)  
     
-* [How to schedule an existing backup job](https://www.backup4all.com/how-to-schedule-an-existing-backup-job-kb.html)  
+* [Backup from FTP](https://www.backup4all.com/backup-from-ftp-kb.html)  
     
 
 Choose language:
