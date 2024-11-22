@@ -1,10 +1,10 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/112217-mid-day-digest-2024-11-21?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/112257-mid-day-digest-2024-11-22?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,7 +108,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/112217-mid-day-digest-2024-11-21?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/112257-mid-day-digest-2024-11-22?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -120,7 +120,7 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34554)
+     [](https://patriotpost.us/cartoons/34557)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
@@ -133,6 +133,7 @@ Last Updated: November 15, 2011.
 *      [Josh Hammer What Was the Matt Gaetz Attorney General Pick Really About?](https://patriotpost.us/opinion/112239-what-was-the-matt-gaetz-attorney-general-pick-really-about-2024-11-22)
 *      [Victor Davis Hanson The Trump Counterrevolution Is a Return to Sanity](https://patriotpost.us/opinion/112237-the-trump-counterrevolution-is-a-return-to-sanity-2024-11-22)
 *      [David Harsanyi Don’t Trash the Constitution to Dunk on the Liberals](https://patriotpost.us/opinion/112236-dont-trash-the-constitution-to-dunk-on-the-liberals-2024-11-22)
+*      [Rich Lowry Why We Love Rockets](https://patriotpost.us/opinion/112258-why-we-love-rockets-2024-11-22)
 *      [Michael Barone Trump Gains Among Nonwhite People: Historical Precedent and Possible Harbinger](https://patriotpost.us/opinion/112235-trump-gains-among-nonwhite-people-historical-precedent-and-possible-harbinger-2024-11-22)
 *      [Michael Reagan Don’t Let Politics Spoil Thanksgiving](https://patriotpost.us/opinion/112234-dont-let-politics-spoil-thanksgiving-2024-11-22)
 *      [Jeff Jacoby No, Trump Didn’t Earn an ‘Unprecedented and Powerful’ Mandate](https://patriotpost.us/opinion/112245-no-trump-didnt-earn-an-unprecedented-and-powerful-mandate-2024-11-22)
@@ -153,7 +154,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
