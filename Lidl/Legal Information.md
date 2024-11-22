@@ -742,6 +742,23 @@ The personal data relating to the duration of time spent in surveys and date and
 
 All the remaining personal data stored as log files using cookies is archived after 7 days and deleted after 14 days. For a full list of cookies used in the “Have Your Say” survey and our Customer Care experience survey (NPS) see below:
 
+Table
+-----
+
+| Type | Name | Provider | Purpose | Storage Time |
+| --- | --- | --- | --- | --- |
+| Required | BrowserID | Salesforce | Used for security protections. | 1 year |
+| Required | BrowserId\_sec | Salesforce | Used for security protections. | 1 year |
+| Required | CookieConsentPolicy | Salesforce | Used to apply end-user cookie consent preferences set by our client-side utility. | 1 year |
+| Required | LSKey-c$CookieConsentPolicy | Salesforce | Used to apply end-user cookie consent preferences set by our client-side utility. | 1 year |
+| Required | renderCtx (2x) | Salesforce | Used to store site parameters in the session for reuse across requests by a single client for functionality and performance reasons. | Session |
+| Required | sfdc-stream | Salesforce | Used to properly route server requests with Salesforce infrastructure for sticky sessions. | 3 hours |
+| Required | ak\_bmsc | Salesforce | Used to distinguish between humans and bots. | 1 day |
+| Required | bm\_sv | Salesforce | Used in conjunction with the website's BotManager feature - This feature detects, categorizes and generates reports on potential bots attempting to access the website for the website operator. | 1 day |
+| Required | NSC\_tvswfz.nfebmmjb.dpn | Medallia | Cookie is used to enable load balancing. | Session |
+| Required | Consent | Medallia | Records whether the respondent has accepted the cookie terms and conditions. | 1 year |
+| Required | ADRUM | AppDynamics | Helps to understand the respondent's experience and provides support. | Session |
+
 12.1 Customer Surveys- continued
 
 **Providing further feedback to our customer service**
@@ -807,23 +824,6 @@ When submitting your data to participate in the Have Your Say Prize Draw, you ca
   
 
 Further information regarding how we process your personal data can be found in sections 17.-19. Of our Customer Privacy Notice.
-
-Table
------
-
-| Type | Name | Provider | Purpose | Storage Time |
-| --- | --- | --- | --- | --- |
-| Required | BrowserID | Salesforce | Used for security protections. | 1 year |
-| Required | BrowserId\_sec | Salesforce | Used for security protections. | 1 year |
-| Required | CookieConsentPolicy | Salesforce | Used to apply end-user cookie consent preferences set by our client-side utility. | 1 year |
-| Required | LSKey-c$CookieConsentPolicy | Salesforce | Used to apply end-user cookie consent preferences set by our client-side utility. | 1 year |
-| Required | renderCtx (2x) | Salesforce | Used to store site parameters in the session for reuse across requests by a single client for functionality and performance reasons. | Session |
-| Required | sfdc-stream | Salesforce | Used to properly route server requests with Salesforce infrastructure for sticky sessions. | 3 hours |
-| Required | ak\_bmsc | Salesforce | Used to distinguish between humans and bots. | 1 day |
-| Required | bm\_sv | Salesforce | Used in conjunction with the website's BotManager feature - This feature detects, categorizes and generates reports on potential bots attempting to access the website for the website operator. | 1 day |
-| Required | NSC\_tvswfz.nfebmmjb.dpn | Medallia | Cookie is used to enable load balancing. | Session |
-| Required | Consent | Medallia | Records whether the respondent has accepted the cookie terms and conditions. | 1 year |
-| Required | ADRUM | AppDynamics | Helps to understand the respondent's experience and provides support. | Session |
 
 13\. Sending of advertising
 
