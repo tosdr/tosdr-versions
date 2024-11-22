@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Favorite line from AN's Factbooks II (12,054)](https://forum.nationstates.net/viewtopic.php?t=510652&f=25&view=unread#unread ""Favorite line from AN's Factbooks II" (12,054 posts)")
-* [Does Your Nation Support? (8,595)](https://forum.nationstates.net/viewtopic.php?t=524926&f=25&view=unread#unread ""Does Your Nation Support?" (8,595 posts)")
-* [\[For comments\] - Peddling Fake Degrees (9)](https://forum.nationstates.net/viewtopic.php?t=558610&f=9&view=unread#unread ""[For comments] - Peddling Fake Degrees" (9 posts)")
-* [American Politics: Turnabout Trump (6,066)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (6,066 posts)")
+* [Rate the AN's Chosen Factbook! (1,723)](https://forum.nationstates.net/viewtopic.php?t=532319&f=25&view=unread#unread ""Rate the AN's Chosen Factbook!" (1,723 posts)")
+* [Automatic Statistic Updating Query (30)](https://forum.nationstates.net/viewtopic.php?t=385192&f=15&view=unread#unread ""Automatic Statistic Updating Query" (30 posts)")
+* [Ukrainian War VII: Everything has a p… (10,799)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (10,799 posts)")
+* [YOU'RE FIRED! (730)](https://forum.nationstates.net/viewtopic.php?t=555261&f=25&view=unread#unread ""YOU'RE FIRED!" (730 posts)")
+* [American Politics: Turnabout Trump (6,115)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (6,115 posts)")
 
 Advertisement
 
