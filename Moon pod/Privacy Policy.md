@@ -2,7 +2,8 @@
 
 [Skip to content](#main-content)
 
-UP TO $270 OFF + FREE DELIVERY | BIGGEST SALE OF 2024
+**BLACK FRIDAY**: UP TO $474 OFF BUNDLES  
+SAVE 25%-45% + FREE DELIVERY
 
  [![Moon Pod](//www.moonpod.co/cdn/shop/files/Moonpod_logo_transparent_2_ccf0cdbc-718b-411a-b019-baa70d680154.png?v=1614316087&width=260)](https://www.moonpod.co/)
 
@@ -18,7 +19,7 @@ Menu
     * [The Moon Pod](https://www.moonpod.co/products/moon-pod)
     * [Double Moon Pod](https://www.moonpod.co/products/super-moon-pod)
     * [Outdoor Moon Pod](https://www.moonpod.co/products/outdoor-bundle)
-    * [Beanbag Bundles (Save)](https://www.moonpod.co/collections/moon-pod-bundles)
+    * [Beanbag Bundles](https://www.moonpod.co/collections/moon-pod-bundles)
     * [Beanbag Accessories](https://www.moonpod.co/collections/moon-pod-accessories)
     * [Shop All Beanbags](https://www.moonpod.co/collections/moon-pod-beanbags)
     
