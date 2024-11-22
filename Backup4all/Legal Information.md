@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to HostEurope](https://www.backup4all.com/how-to-backup-your-data-to-hosteurope-kb.html)  
+* [How to create a mirror backup](https://www.backup4all.com/how-to-create-a-mirror-backup-kb.html)  
     
-* [Partnerships - FAQ](https://www.backup4all.com/partnerships-faq-kb.html)  
+* [How to backup your data to Hitachi](https://www.backup4all.com/how-to-backup-your-data-to-hitachi-kb.html)  
     
-* [How to enable on Linux the ciphers supported ...](https://www.backup4all.com/how-to-enable-on-linux-the-ciphers-supported-by-backup4all-kb.html)  
+* [How to backup your data to Cloudian](https://www.backup4all.com/how-to-backup-your-data-to-cloudian-kb.html)  
     
-* [How to backup your data to HGST](https://www.backup4all.com/how-to-backup-your-data-to-hgst-kb.html)  
+* [How to move a backup from a failing hard driv ...](https://www.backup4all.com/how-to-move-a-backup-from-a-failing-hard-drive-to-a-new-one-kb.html)  
     
-* [Backup from FTP](https://www.backup4all.com/backup-from-ftp-kb.html)  
+* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
     
 
 Choose language:
