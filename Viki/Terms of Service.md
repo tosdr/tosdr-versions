@@ -2,14 +2,14 @@
 * * [Community](https://contribute.viki.com/)
     * [Apps](https://www.viki.com/apps)
     
-    [Sign up](https://www.viki.com/sign-up)[Log in](https://www.viki.com/sign-in)
+    Sign upLog in
     
 
 * 
 
-* [Log in](https://www.viki.com/sign-in)
-* [Create Account](https://www.viki.com/sign-up)
-* [](https://www.viki.com/sign-in)
+* Log in
+* Create Account
+
 * 
 
 ![Rakuten Viki](https://1.viki.io/a/vwk8s/_next/static/images/rakuten-viki-horizontal-white.c2156eedbe0.svg)
