@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/easy-boomwhacker-music-stand-by-me/)
+ [](https://schoolsmusicmarket.com/product/music-quotes-minamilist-boho-series-display-poster/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
