@@ -525,9 +525,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -569,23 +569,13 @@ Latest News
 
 [Japan chipmaker Kioxia IPO set for next month](https://www.japantimes.co.jp/business/2024/11/22/companies/kioxia-set-for-ipo/ "Japan chipmaker Kioxia IPO set for next month")
 
-6 hours ago
-
 [MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/mufg-fire-worker-theft/ "MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes")
-
-6 hours ago
 
 [Japan will spend ¥325 million in government funds on Princess Yuriko's funeral](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
 
-7 hours ago
-
 [Japan approves ¥21.9 trillion stimulus plan](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
 
-7 hours ago
-
 [In Spain's Canaries, rescuers exhausted as new migrant routes open](https://www.japantimes.co.jp/news/2024/11/22/world/society/new-migrant-routes-open/ "In Spain's Canaries, rescuers exhausted as new migrant routes open")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
