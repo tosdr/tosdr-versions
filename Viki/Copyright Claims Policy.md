@@ -2,62 +2,62 @@
 * * [Community](https://contribute.viki.com/)
     * [Apps](https://www.viki.com/apps)
     
-    Sign upLog in
+    [Sign up](https://www.viki.com/sign-up)[Log in](https://www.viki.com/sign-in)
     
 
 * 
 
-* Log in
-* Create Account
-
+* [Log in](https://www.viki.com/sign-in)
+* [Create Account](https://www.viki.com/sign-up)
+* [](https://www.viki.com/sign-in)
 * 
 
-版权政策
-----
+Copyright Policy
+----------------
 
-最近更新日期: 2020 年 09 月 16 日
+Last updated: 16 September 2020
 
-Viki, Inc. 为您提供了一个互动平台，您可通过该平台观看电视节目，电影和其他内容（统称为“**内容**”），与其他用户互动，并加入在线社群，对内容发表意见和评论并为内容提供字幕以及做出其他贡献（“**Rakuten Viki**”，“**我们**”，“**我们的**”和/或“**我方**”）。
+Viki, Inc. provides you with an interactive platform that allows you to access television shows, movies and other content (collectively, “**Content**”), interact with other users and be part of an online community where you may review, comment andprovide subtitles for the Content (“**Rakuten Viki**”, “**We**”, “**Our**” and/or “**Us**”).
 
-本版权政策描述了我们如何对通过 Viki.com，Rakuten Viki 品牌应用程序，Soompi.com，Soompi 品牌应用程序以及其他完全符合《数字千年版权法》（“**DMCA**”）的 Rakuten Viki 相关网站，应用程序，通信和服务（统称为“**服务**”）提供的材料或材料链接的明确版权侵权声明做出回应。
+This Copyright Policy describes how We respond to clear notices of claimed copyright infringement relating to material or links to material made available through Viki.com, Rakuten Viki branded applications, Soompi.com, Soompi branded applications, and other Rakuten Viki related sites, applications, communications and services (collectively, “**Services**”) that fully comply with the Digital Millennium Copyright Act (“**DMCA**”).
 
-请注意，根据《美国法典》第 17 篇第 512(f) 条，如果任何人在知情情况下做出虚假陈述，声称材料侵权，或者材料因错误或误认而被删除或禁用，都可能承担责任。
+Please note that under 17 U.S.C. Section 512(f), any person who knowingly materially misrepresents that material is infringing, or that material was removed or disabled by mistake or misidentification, may be subject to liability.
 
-1. **如何提交 DMCA 版权通知？**
+1. **HOW TO SUBMIT A DMCA COPYRIGHT NOTICE?**
     
-    如果您是版权所有者或其代理人，并且您认为在我们的服务上提供的任何材料侵犯了您的版权，则您（“**索赔人**”）可以向 Viki 的指定版权代理人提交一份书面的 DMCA 版权通知（接受电子邮件），提供以下所有信息：
+    If you are a copyright owner or agent thereof, and you believe that any material made available on our Services infringes your copyright, then you (“**Claimant**”) may submit a written DMCA Copyright Notice (email is accepted) to Viki’s Designated Copyright Agent with all the following information:
     
-    1. 声称被侵权的版权作品的鉴别信息，或者，如果一份通知涵盖多个版权作品，需提供该等作品的代表性清单（例如：原作品的副本或链接）；
-    2. 被指侵权或属于侵权活动标的以及应删除或禁止访问的材料的鉴别信息，以及我们在我们的服务上找到该材料合理所需的信息（例如：侵权材料的链接）；
-    3. 一份声明，表明：
-        1. 您善意相信以所申诉的方式使用该版权作品没有获得版权所有人，其代理人或相关法律授权；以及
-        2. 通知中的信息是准确的，且您获得了授权，可代表声称专有权受到侵犯的版权所有人行事并愿意受伪证罪惩罚。
-    4. 我们联系您所合理需要的信息，如地址，电话号码以及电子邮件地址（如有）；以及
-    5. 获授权代表声称专有权受到侵犯的版权所有人行事的人士的亲笔签名或电子签名（键入您的法定全名即可）。
-2. **我们如何回应 DMCA 版权通知？**
+    1. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works are covered by a single notification, a representative list of such works (e.g. a copy of or link to the original work);
+    2. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit Us to locate the material on Our Services (e.g. a link to the infringing material);
+    3. A statement that:
+        1. you have a good faith belief that use of the copyrighted work in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+        2. the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the copyright owner of an exclusive right that is allegedly infringed;
+    4. Information reasonably sufficient to permit Us to contact you, such as an address, telephone number, and email address (if available); and
+    5. A physical or electronic signature of the person authorized to act on behalf of the copyright owner of an exclusive right that is allegedly infringed (typing your full legal name is sufficient).
+2. **HOW WE MAY RESPOND TO DMCA COPYRIGHT NOTICE?**
     
-    我们可能会删除或禁止访问任何侵权材料。如果我们根据 DMCA 版权通知决定删除或禁止访问材料，我们会尽力联系发布或提供争议材料的人（“**涉嫌侵权人**”）。我们可以自行决定与涉嫌侵权人共享 DMCA 版权通知。
+    We may remove or disable access to any infringing material. If We decide to remove or disable access to material in response to a DMCA Copyright Notice, We will make efforts to contact the person who has posted or made available the material at issue (“**Alleged Infringer**”). We may, at Our discretion, share a copy of the DMCA Copyright Notice to the Alleged Infringer.
     
-3. **如何提交 DMCA 反通知？**
+3. **HOW TO SUBMIT A DMCA COUNTER NOTICE?**
     
-    如果您认为您的材料由于错误或误认而被删除或限制访问，您可以向 Viki 的指定版权代理提交 DMCA 反通知，提供以下所有信息：
+    If you believe your material was removed or to which access was restricted as a result of mistake or misidentification, you may submit a DMCA Counter Notice to Viki’s Designated Copyright Agent with all the following information:
     
-    1. 材料的识别信息及其删除或被禁用前的位置；
-    2. 一份声明，表明：
-        1. 您发誓并愿意受伪证罪惩罚，您善意相信材料是因为错误或误认而被删除或禁用；以及
-        2. 您同意联邦地区法院对所提供的地址的管辖权，或者，如果您的地址在美国境外，您同意 Rakuten Viki 所在的任何司法管辖区的管辖权，并且您将接收提起原始 DMCA 版权通知的人士送达的诉讼文件；以及
-    3. 您的法定全名，实际地址，电子邮件地址（如有），电话号码以及亲笔或电子签名（键入您的法定全名即可）。
-4. **您提交 DMCA 反通知后的后续事宜？**
+    1. Identification of the material and its location before removal or being disabled;
+    2. A statement that:
+        1. You swear, under penalty of perjury that you have a good faith belief that the material was removed or disabled by mistake or misidentification; and
+        2. You consent to the jurisdiction of the Federal District court for the address provided or, if your address is outside of the United States, you consent to the jurisdiction of any juridical district in which Rakuten Viki is located, and that you will accept service of process from the person who filed the original DMCA Copyright Notice; and
+    3. Your full legal name, physical address, email address (if available), telephone number, and physical or electronic signature (typing your full legal name is sufficient).
+4. **WHAT HAPPENS AFTER YOU SUBMIT A DMCA COUNTER NOTICE?**
     
-    我们可以自行决定与索赔人共享 DMCA 反通知。在我们与索赔人共享 DMCA 反通知后的 10 个工作日内，如果我们没有收到索赔人的通知，即已经提起诉讼寻求法院命令以防止进一步侵权，我们可以恢复对争议材料的访问或不再限制访问。
+    We may, at Our discretion, share a copy of the DMCA Counter Notice with the Claimant. We may restore or cease disabling access to the material at issue if we do not receive notice from the Claimant that an action has been filed seeking a court order to prevent further infringement, within 10 business days after We shared the DMCA Counter Notice with the Claimant.
     
-5. **反复侵权者政策**
+5. **REPEAT INFRINGER POLICY**
     
-    我们的政策规定，在适当的情况下会停用反复侵权者或一次性侵权者的用户帐户。这不限制我们寻求我们可能享有的其他救济以解决涉嫌或实际侵权情形的能力。
+    Our policy is to terminate in the appropriate circumstances, the accounts of users who are repeat infringers or who infringe on a single occasion if the circumstances warrant. This does not limit Our ability to pursue other remedies We may have to address suspected or actual infringement.
     
-6. **我们的指定版权代理人**
+6. **OUR DESIGNATED COPYRIGHT AGENT**
     
-    您可发送电子邮件至 [dmca@viki.com](mailto:dmca@viki.com)，联系我们的指定版权代理人；也可以向以下地址发函：
+    You can contact Our Designated Copyright Agent by sending an email to [dmca@viki.com](mailto:dmca@viki.com) or by mail to the following address:
     
     **Viki, Inc**  
     Attention: Designated Copyright Agent/ Legal Department  
