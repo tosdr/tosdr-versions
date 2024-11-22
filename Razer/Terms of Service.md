@@ -6,7 +6,7 @@ Select a location to view location-specific content and shop online.
 
 Switch to
 
-[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fgeneral-terms-of-use)
+[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fgeneral-terms-of-use%3Fsrsltid%3DAfmBOoq6Q_Oduhd41JdZcvg4E3JJ1SRWU5T_6Ua0pIKr3eggqsBNBRF6)
 
 ![](../assets/images/mega-menu/menu-open.png)
 
