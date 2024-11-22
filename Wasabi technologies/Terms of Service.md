@@ -23,8 +23,10 @@ Website Terms of Use
 
 [**Sub Processors**](https://wasabi.com/legal/sub-processors)
 
-  
-  
+**Previous Versions:**
+
+* [June 1, 2021](https://cdn.brandfolder.io/BFD8NB05/at/s8nbtc95mwqg4x9tsn5mrkbr/Website_Terms_of_Use_-_1June2021_REFERENCE_ONLY.pdf)
+    
 
 [Company](https://wasabi.com/legal/terms-of-use#)
 
