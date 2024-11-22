@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -30,7 +30,7 @@
     
     [Забыли пароль?](https://www.russianfood.com/forum/ucp.php?mode=sendpassword)
     
-    [Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F)
+    [Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F%3Futm_source%3Dhomescreen%26utm_medium%3Dpwa-icon)
     
 
 [![](/images/common/bottom_logo3_1_cr.gif)](https://www.russianfood.com/)
@@ -50,7 +50,7 @@
 
 [Забыли пароль?](https://www.russianfood.com/forum/ucp.php?mode=sendpassword)  
 
-[Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F)
+[Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F%3Futm_source%3Dhomescreen%26utm_medium%3Dpwa-icon)
 
 ![](/images/loading_16_green2.gif)
 
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
+* [Лагман с курицей и фасолью](https://www.russianfood.com/recipes/recipe.php?rid=173302)
 * [Томатный суп с фаршем и фасолью](https://www.russianfood.com/recipes/recipe.php?rid=154639)
 * [Пряники с глазурью](https://www.russianfood.com/recipes/recipe.php?rid=41461)
 * [Яйца в «муфточке»](https://www.russianfood.com/recipes/recipe.php?rid=50298)
 * [Суп-пюре из картофеля с томатом-пюре](https://www.russianfood.com/recipes/recipe.php?rid=53204)
 * [Запеканка из рыбы с грибами](https://www.russianfood.com/recipes/recipe.php?rid=53375)
 * [Боярские блины](https://www.russianfood.com/recipes/recipe.php?rid=64114)
-* [Говяжьи зразы с сыром 1-й способ](https://www.russianfood.com/recipes/recipe.php?rid=69759)
-* [Пирог «Вкуснейший»](https://www.russianfood.com/recipes/recipe.php?rid=71049)
-* [Пирожки песочные с начинкой из тыквы и чернослива](https://www.russianfood.com/recipes/recipe.php?rid=71171)
-* [Сельдерей и помидоры а луковом соусе](https://www.russianfood.com/recipes/recipe.php?rid=71339)
+* [Сладкая лазанья с фруктами](https://www.russianfood.com/recipes/recipe.php?rid=81231)
+* [Запеканка со шпикачкой «Северное сияние»](https://www.russianfood.com/recipes/recipe.php?rid=82911)
+* [Торт «Еловые ветки»](https://www.russianfood.com/recipes/recipe.php?rid=83190)
 
 |     |
 | --- |
@@ -179,6 +179,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Хотим домашнюю еду! Лучшие рецепты НА ВЫХОДНЫЕ №24-47](https://www.russianfood.com/reading/?post_id=22912) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/737/sm_736303.jpg)](https://www.russianfood.com/reading/?post_id=22912)
+
+Трубочки из лаваша со скумбрией и помидорами. Сочные котлеты из фарша с кабачком. Лазанья-рататуй. "Лазанья" из кабачков. Ленивый плов с говядиной. Гуляш из курицы в томатно-йогуртовой подливе. Грибная запеканка.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22912)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22912#comments) | 22.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Пеки, ешь, наслаждайся! Лучшие рецепты ПИРОГОВ (69)](https://www.russianfood.com/reading/?post_id=22911) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/741/sm_740921.jpg)](https://www.russianfood.com/reading/?post_id=22911)
+
+Многослойный пирог с картошкой и мясом. Пряная шарлотка с апельсинами. Слоёный пирог с творогом и шпинатом. Сладкий пирог с манной начинкой. Постный яблочный пирог.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22911)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22911#comments) | 22.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -234,7 +262,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173025#comments) | 21.11.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173025#comments) | 21.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -318,7 +346,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174866#comments) | 21.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174866#comments) | 21.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -332,7 +360,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174867#comments) | 20.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174867#comments) | 20.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -346,7 +374,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174865#comments) | 20.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174865#comments) | 20.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -361,34 +389,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174856#comments) | 20.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Шарлотка с тыквой и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174863) |     |
-
-[![Фото к рецепту: Шарлотка с тыквой и яблоками](//img1.russianfood.com/dycontent/images_upl/753/sm_752743.jpg "Фото к рецепту: Шарлотка с тыквой и яблоками")](https://www.russianfood.com/recipes/recipe.php?rid=174863)
-
-Бисквитное тесто готовится самым простым способом, яйца долго не взбиваются, добавляется разрыхлитель. В тесто вмешиваются кусочки яблок и тёртая тыква. Шарлотка нежная, не сухая, с гармоничным сочетанием вкусов тыквы и яблока.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174863)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_14 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174863#comments) | 20.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[В копилку экономных блюд. Лучшие рецепты ЭКОНОМНЕЕ! №24-47](https://www.russianfood.com/reading/?post_id=22905) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/732/sm_731861.jpg)](https://www.russianfood.com/reading/?post_id=22905)
-
-Макароны с овощным соусом. Котлеты из куриных сердечек. Рыбный рассольник с перловой крупой. Стручковая фасоль в соусе бешамель. Слойки с куриной печенью и луком.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22905)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ЭКОНОМНЕЕ!](https://www.russianfood.com/blogs/?id=338625) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22905#comments) | 20.11.24 |     |
 
 |     |
 | --- |
@@ -461,8 +461,8 @@
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753375.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174823) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736074.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173397) | [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734745.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173200) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753079.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174054) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753866.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174818) |
-| [Дрожжевой кекс с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174823) | [Постный фасолевый суп со щавелем](https://www.russianfood.com/recipes/recipe.php?rid=173397) | [Суп с курицей, шпинатом, вермишелью и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173200) | [Куриный суп с брокколи и цветной капустой](https://www.russianfood.com/recipes/recipe.php?rid=174054) | [Пирог с айвой и клюквой](https://www.russianfood.com/recipes/recipe.php?rid=174818) |
+| [![](//img1.russianfood.com/dycontent/images_upl/735/alt1_734745.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173200) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753079.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174054) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736074.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173397) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753866.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174818) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753375.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174823) |
+| [Суп с курицей, шпинатом, вермишелью и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173200) | [Куриный суп с брокколи и цветной капустой](https://www.russianfood.com/recipes/recipe.php?rid=174054) | [Постный фасолевый суп со щавелем](https://www.russianfood.com/recipes/recipe.php?rid=173397) | [Пирог с айвой и клюквой](https://www.russianfood.com/recipes/recipe.php?rid=174818) | [Дрожжевой кекс с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=174823) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -478,5 +478,3 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
-
-(103)
