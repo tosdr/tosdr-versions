@@ -36,6 +36,9 @@
         
         Amazon and Audible flooded with 'forex trading' and warez listings](https://www.bleepingcomputer.com/news/security/amazon-and-audible-flooded-with-forex-trading-and-warez-listings/)
     
+    * [![Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-plus-pcs/)
     * [![Early Black Friday: This lifetime 1TB cloud storage plan is now $60](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Early Black Friday: This lifetime 1TB cloud storage plan is now $60](https://www.bleepingcomputer.com/offer/deals/early-black-friday-this-lifetime-1tb-cloud-storage-plan-is-now-60/)
@@ -45,9 +48,6 @@
     * [![Chinese hackers target Linux with new WolfsBane malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Chinese hackers target Linux with new WolfsBane malware](https://www.bleepingcomputer.com/news/security/chinese-gelsemium-hackers-use-new-wolfsbane-linux-malware/)
-    * [![Over 2,000 Palo Alto firewalls hacked using recently patched bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Over 2,000 Palo Alto firewalls hacked using recently patched bugs](https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -312,9 +312,9 @@ Popular Stories
 * [![Fortinet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
-* [![ford2](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Palo Alto Networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Ford rejects breach allegations, says customer data not impacted](https://www.bleepingcomputer.com/news/security/ford-rejects-breach-allegations-says-customer-data-not-impacted/)
+    Over 2,000 Palo Alto firewalls hacked using recently patched bugs](https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/)
 
 ##### Follow us:
 
