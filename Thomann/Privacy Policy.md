@@ -1,5 +1,9 @@
 [To the page content](#main)
 
+[22.11 - 02.12
+
+![cyberweek-deal](https://images.static-thomann.de/pics//images/special/cyberweek2023/cyberweek-logo-oneliner.png) Get your deals Get your deals](https://www.thomannmusic.com/special_cyberweek.html)
+
 * [Service](https://www.thomannmusic.com/helpdesk_service.html)
 * [Contact us](https://www.thomann.de/intl/compinfo_contact.html)
 * [About Us](https://www.thomannmusic.com/compinfo.html)
@@ -15,7 +19,7 @@
 search  
 
 * [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
-* [Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
+* [30-Days Money-Back](https://www.thomannmusic.com/helpdesk_moneyback.html)
 
 en · $
 
@@ -49,7 +53,7 @@ en · $
 * Service
 * About Us
 
-* [Cyberweek Countdown](https://www.thomannmusic.com/special_cyberweek.html)
+* [Our Cyberweek Highlights](https://www.thomannmusic.com/special_cyberweek.html)
 
 * [Guitars and Basses](https://www.thomannmusic.com/guitars_and_basses.html)
 * [Drums and Percussion](https://www.thomannmusic.com/drums_and_percussion.html)
