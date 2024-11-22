@@ -316,6 +316,7 @@ Arlington, Virginia 22201
 * [Apple Motion Templates](https://www.storyblocks.com/video/templates/apple-motion)
 * [DaVinci Resolve Templates](https://www.storyblocks.com/video/templates/davinci-resolve)
 * [Templates](https://www.storyblocks.com/video/templates)
+* [Re:Stock](https://www.storyblocks.com/diverse-stock-footage)
 
 [Stock Audio](https://www.storyblocks.com/audio)
 
@@ -338,7 +339,6 @@ Creative Tools
 
 * [Storyblocks for Business](https://www.storyblocks.com/business-solutions)
 * [Storyblocks for Education](https://www.storyblocks.com/resources/business-solutions/education)
-* [Compare Licenses](https://www.storyblocks.com/business-solutions/license-comparison)
 * [Demo Video](https://www.storyblocks.com/business-solutions/storyblocks-demo)
 * [Data Licensing](https://www.storyblocks.com/business-solutions/data-licensing)
 * [Storyblocks API](https://www.storyblocks.com/business-solutions/api)
@@ -348,6 +348,7 @@ Creative Tools
 * [Membership Plans](https://www.storyblocks.com/pricing)
 * [Individual License](https://www.storyblocks.com/license/individual-license)
 * [Business License](https://www.storyblocks.com/license/business-license)
+* [Compare Licenses](https://www.storyblocks.com/business-solutions/license-comparison)
 
 * * *
 
