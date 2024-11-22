@@ -124,19 +124,19 @@ last week
 Trending Apps
 =============
 
-[WNEM TV5 News](https://wnem-ios.apps112.com/ "Continue to app")
+[Kathi Remote](https://kathi-remote.apps112.com/ "Continue to app")
 
-[TecladoBR](https://tecladobr.apps112.com/ "Continue to app")
+[Beach Watchfaces](https://beach-watchfaces.apps112.com/ "Continue to app")
 
-[Delicious recipes](https://delicious-recipes-59.apps112.com/ "Continue to app")
+[Color Hole Devouring Bugs](https://color-hole-devouring-bugs.apps112.com/ "Continue to app")
+
+[Portal CIA](https://portal-cia.apps112.com/ "Continue to app")
+
+[Planeta Radio](https://planeta-radio.apps112.com/ "Continue to app")
 
 [Drive Recorder 360](https://drive-recorder-360-ios.apps112.com/ "Continue to app")
 
-[Renegade Products USA](https://renegade-products-usa.apps112.com/ "Continue to app")
-
-[Haunted (beta)](https://haunted-beta.apps112.com/ "Continue to app")
-
-[Color Hole Devouring Bugs](https://color-hole-devouring-bugs.apps112.com/ "Continue to app")
+[WNEM TV5 News](https://wnem-ios.apps112.com/ "Continue to app")
 
   
 
