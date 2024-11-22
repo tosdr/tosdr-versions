@@ -806,21 +806,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
 * [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
-* [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
 
 test.de entdecken
 
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
 
 Fußbereich
 
@@ -3840,59 +3840,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
 * [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
-* [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
 
 test.de entdecken
 
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
 * [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
-* [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
 
 test.de entdecken
 
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
 
 Neueste Tests
 
+* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Smartphones im Test: Gute Handys gibt es für weniger als 200 Euro](https://www.test.de/Handys-und-Smartphones-im-Test-4222793-0/ "Smartphones im Test - Gute Handys gibt es für weniger als 200 Euro")
 * [Elektrische Zahnbürsten im Test: Gründlich putzen für weniger als 50 Euro](https://www.test.de/elektrische-Zahnbuersten-im-Test-4621863-0/ "Elektrische Zahnbürsten im Test - Gründlich putzen für weniger als 50 Euro")
 * [Kinder­hoch­stühle im Test: Drei sind gut, drei fallen durch](https://www.test.de/Kinderhochstuehle-im-Test-1557913-0/ "Kinderhochstühle im Test - Drei sind gut, drei fallen durch")
 * [Fahr­radversicherungen im Vergleich: Fahr­rad und E-Bike günstig versichern](https://www.test.de/Fahrradversicherungen-Vergleich-5205101-0/ "Fahrradversicherungen im Vergleich - Fahrrad und E-Bike günstig versichern")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
-* [Weihnachts­gebäck im Test: Wie viel Schad­stoff ist im Gebäck?](https://www.test.de/Acrylamid-in-Weihnachtsgebaeck-5439781-0/ "Weihnachtsgebäck im Test - Wie viel Schadstoff ist im Gebäck?")
 
 test.de entdecken
 
-* [Kranken­versicherung für Studierende: Zum Uni-Start richtig kranken­versichert](https://www.test.de/Krankenversicherung-fuer-Studierende-6057464-0/ "Krankenversicherung für Studierende - Zum Uni-Start richtig krankenversichert")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
+* [Fahr­tauglich­keit im Alter: Was Senioren am Steuer für die Sicherheit tun können](https://www.test.de/Fahrtauglichkeit-im-Alter-Was-Senioren-tun-koennen-6111611-0/ "Fahrtauglichkeit im Alter - Was Senioren am Steuer für die Sicherheit tun können")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
 
 Service Stiftung Warentest
 
