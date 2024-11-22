@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Врио губернатора ЕАО Мария Костюк возглавила региональное отделение «Единой России»](https://cdn.er.ru/media/news/November2024/gkXUAbDDhI3bQDQwSApg-small.jpg)](https://er.ru/activity/news/vrio-gubernatora-eao-mariya-kostyuk-vozglavila-regionalnoe-otdelenie-edinoj-rossii)
+
+[Врио губернатора ЕАО Мария Костюк возглавила региональное отделение «Единой России»](https://er.ru/activity/news/vrio-gubernatora-eao-mariya-kostyuk-vozglavila-regionalnoe-otdelenie-edinoj-rossii)
+
+[#Костюк](https://er.ru/activity/news?tags%5B0%5D=19523) [#Еврейская автономная область](https://er.ru/activity/news?tags%5B0%5D=8459) [#реготделение](https://er.ru/activity/news?tags%5B0%5D=19972) [#конференция](https://er.ru/activity/news?tags%5B0%5D=17) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416)
+
+Сегодня 12:37
+
 [![«Единая Россия» проведёт по всей стране праздничные мероприятия ко Дню матери](https://cdn.er.ru/media/news/November2024/i6JiWFyZIftg5Xgyiib0-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provedyot-po-vsej-strane-prazdnichnye-meropriyatiya-ko-dnyu-materi)
 
 [«Единая Россия» проведёт по всей стране праздничные мероприятия ко Дню матери](https://er.ru/activity/news/edinaya-rossiya-provedyot-po-vsej-strane-prazdnichnye-meropriyatiya-ko-dnyu-materi)
@@ -315,9 +323,9 @@
 
 21.11.24
 
-[![Госдума приняла бюджет на 2025-2027 годы с ключевыми поправки «Единой России»](https://cdn.er.ru/media/news/November2024/FDkX3rwAMlw90zpW8MQU-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-byudzhet-na-2025-2027-gody-s-klyuchevymi-popravki-edinoj-rossii)
+[![Госдума приняла бюджет на 2025-2027 годы с ключевыми поправками «Единой России»](https://cdn.er.ru/media/news/November2024/FDkX3rwAMlw90zpW8MQU-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-byudzhet-na-2025-2027-gody-s-klyuchevymi-popravkami-edinoj-rossii)
 
-[Госдума приняла бюджет на 2025-2027 годы с ключевыми поправки «Единой России»](https://er.ru/activity/news/gosduma-prinyala-byudzhet-na-2025-2027-gody-s-klyuchevymi-popravki-edinoj-rossii)
+[Госдума приняла бюджет на 2025-2027 годы с ключевыми поправками «Единой России»](https://er.ru/activity/news/gosduma-prinyala-byudzhet-na-2025-2027-gody-s-klyuchevymi-popravkami-edinoj-rossii)
 
 [#федеральныйбюджет](https://er.ru/activity/news?tags%5B0%5D=123642) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальныеинициативы](https://er.ru/activity/news?tags%5B0%5D=140070) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#технологии](https://er.ru/activity/news?tags%5B0%5D=1090612) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094)
 
@@ -336,14 +344,6 @@
 [Роман Бусаргин, губернатор Саратовской области: «Единая Россия» выстроила в регионе системную работу по поддержке участников СВО](https://er.ru/activity/news/roman-busargin-gubernator-saratovskoj-oblasti-edinaya-rossiya-vystroila-v-regione-sistemnuyu-rabotu-po-podderzhke-uchastnikov-svo)
 
 [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#собеседование](https://er.ru/activity/news?tags%5B0%5D=10221)
-
-21.11.24
-
-[![Дмитрий Медведев – Ростиславу Гольдштейну: Рассчитываем, что вы сможете показать хорошие результаты на выборах в Коми и добиваться целей, установленных народной программой «Единой России»](https://cdn.er.ru/media/news/November2024/BvKu2YgVDkWVXJM66AK0-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-rostislavu-goldshtejnu-rasschityvaem-chto-vy-smozhete-pokazat-horoshie-rezultaty-na-vyborah-v-komi-i-dobivatsya-celej-ustanovlennyh-narodnoj-programmoj-edinoj-rossii)
-
-[Дмитрий Медведев – Ростиславу Гольдштейну: Рассчитываем, что вы сможете показать хорошие результаты на выборах в Коми и добиваться целей, установленных народной программой «Единой России»](https://er.ru/activity/news/dmitrij-medvedev-rostislavu-goldshtejnu-rasschityvaem-chto-vy-smozhete-pokazat-horoshie-rezultaty-na-vyborah-v-komi-i-dobivatsya-celej-ustanovlennyh-narodnoj-programmoj-edinoj-rossii)
-
-[#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Гольдштейн](https://er.ru/activity/news?tags%5B0%5D=1795) [#Республика Коми](https://er.ru/activity/news?tags%5B0%5D=1026)
 
 21.11.24
 
