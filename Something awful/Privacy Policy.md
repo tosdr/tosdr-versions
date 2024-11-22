@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Chapter Twenty One](https://www.somethingawful.com/feature-articles/chapter-twenty-one/1/)
-* [You Knowing You(rself): A Sexual Self Assessment for the Hot Woman](https://www.somethingawful.com/feature-articles/you-knowing-yourself/1/)
-* [World War C: An Oral History of the Cobra War (Part 2)](https://www.somethingawful.com/feature-articles/world-war-an-2/1/)
-* [AwfulVision: Is We Is!](https://www.somethingawful.com/awfulvision/rap-wrestling-rainbows/1/)
-* [SkyMall Catalogue Jamboree](https://www.somethingawful.com/comedy-goldmine/skymall-catalogue-jamboree/1/)
+* [Alternative Movie Endings](https://www.somethingawful.com/comedy-goldmine/alternative-movie-endings/1/)
+* [Teen Movies](https://www.somethingawful.com/photoshop-phriday/teen-movies/1/)
+* [Fashion SWAT Jr.: Tea Party SWAT](https://www.somethingawful.com/news/tea-party-swat/1/)
+* [Paintings of Light (Part 1)](https://www.somethingawful.com/photoshop-phriday/paintings-light-part/1/)
+* [Notable Quotables: The Era of the Internet](https://www.somethingawful.com/news/internet-quotes/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [Oreos](http://forums.somethingawful.com/showthread.php?threadid=4075812 "Oreos")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [ceilings: how tall is too tall?](http://forums.somethingawful.com/showthread.php?threadid=4075771 "ceilings: how tall is too tall?")
 * ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [Cartoon Characters you would betray](http://forums.somethingawful.com/showthread.php?threadid=4075802 "Cartoon Characters you would betray")
 * ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Made up QCS drama thread](http://forums.somethingawful.com/showthread.php?threadid=4075797 "Made up QCS drama thread")
-* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [ceilings: how tall is too tall?](http://forums.somethingawful.com/showthread.php?threadid=4075771 "ceilings: how tall is too tall?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Build a 15 dollar breakfast](http://forums.somethingawful.com/showthread.php?threadid=4075800 "Build a 15 dollar breakfast")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [Oreos](http://forums.somethingawful.com/showthread.php?threadid=4075812 "Oreos")
 
 ### Random Articles
 
-* [Know Your Overwatch Skills](https://www.somethingawful.com/news/overwatch-know-skills/)
-* [Update From the Frontlines](https://www.somethingawful.com/news/update-from-frontlines/)
-* [ChampbrOH's Homepage](https://www.somethingawful.com/awful-links/awful-link-1069/)
-* [This Generation Sucks](https://www.somethingawful.com/news/this-generation-sucks/)
-* [LUSENET, Hermit Crab Association, Lion King Roleplay, and Vanguard News Network](https://www.somethingawful.com/weekend-web/lusenet-hermit-crab/1/)
+* [Edges2Cats! \[And Shoes, And Facades, And Handbags...\]](https://www.somethingawful.com/photoshop-phriday/pix2pix-generated-images/)
+* [Thursday Night Fights (Thanks, Evil Raiden!)](https://www.somethingawful.com/awful-links/thursday-night-fights/)
+* [Million Dollar Horse](https://www.somethingawful.com/awful-links/million-dollar-horse/)
+* [Rapture Letters](https://www.somethingawful.com/awful-links/awful-link-1178/)
+* [EULA](https://www.somethingawful.com/news/eula/)
 
 [Random!](https://www.somethingawful.com/random/)
 
