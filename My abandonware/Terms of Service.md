@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Zoo Tycoon 2: Endangered Species](https://www.myabandonware.com/game/zoo-tycoon-2-endangered-species-tah)
 * [ТрюкМания: Гонки экстремалов](https://www.myabandonware.com/game/tryukmaniya-gonki-ekstremalov-tag)
 * [Pro-Race: Запредельная скорость](https://www.myabandonware.com/game/pro-race-zapredelnaya-skorost-tae)
 * [Стритрейсеры](https://www.myabandonware.com/game/stritreysery-tad)
 * [BlockBall Evolution](https://www.myabandonware.com/game/blockball-evolution-ta5)
-* [Ro(c)k Podvraťáků](https://www.myabandonware.com/game/ro-c-k-podvrataku-ta3)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Lords of Chaos: Expansion Kit One](https://www.myabandonware.com/game/lords-of-chaos-expansion-kit-one-kbj)
-* [Banbam](https://www.myabandonware.com/game/banbam-s85)
-* [Champions Forever Boxing](https://www.myabandonware.com/game/champions-forever-boxing-krl)
+* [Reversi](https://www.myabandonware.com/game/reversi-hil)
+* [Out of the Sun](https://www.myabandonware.com/game/out-of-the-sun-3o5)
+* [Darwin 4078](https://www.myabandonware.com/game/darwin-4078-qrk)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
