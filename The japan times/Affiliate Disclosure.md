@@ -147,6 +147,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435471.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.")](https://www.japantimes.co.jp/sports/2024/11/21/sumo/kitanofuji-dies-at-82/ "Ex-yokozuna Kitanofuji dies at 82")
 
+[The slow-burn success of ‘A Samurai in Time’](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
+
+  [![A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”")](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
+
 Editors' Picks
 --------------
 
@@ -178,6 +182,14 @@ By [Anastasiia Malenko](https://www.japantimes.co.jp/author/5924/anastasiia-male
 
   [![Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435471.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.")](https://www.japantimes.co.jp/sports/2024/11/21/sumo/kitanofuji-dies-at-82/ "Ex-yokozuna Kitanofuji dies at 82")
 
+[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
+
+[The slow-burn success of ‘A Samurai in Time’](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
+
+By [James Hadfield](https://www.japantimes.co.jp/author/243/james-hadfield/ "James Hadfield")  
+
+  [![A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”")](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
+
 Podcast
 -------
 
@@ -197,9 +209,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -241,23 +253,13 @@ Latest News
 
 [Japan chipmaker Kioxia IPO set for next month](https://www.japantimes.co.jp/business/2024/11/22/companies/kioxia-set-for-ipo/ "Japan chipmaker Kioxia IPO set for next month")
 
-6 hours ago
-
 [MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/mufg-fire-worker-theft/ "MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes")
-
-6 hours ago
 
 [Japan will spend ¥325 million in government funds on Princess Yuriko's funeral](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
 
-7 hours ago
-
 [Japan approves ¥21.9 trillion stimulus plan](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
 
-7 hours ago
-
 [In Spain's Canaries, rescuers exhausted as new migrant routes open](https://www.japantimes.co.jp/news/2024/11/22/world/society/new-migrant-routes-open/ "In Spain's Canaries, rescuers exhausted as new migrant routes open")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
