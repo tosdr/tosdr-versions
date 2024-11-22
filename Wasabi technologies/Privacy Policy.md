@@ -23,8 +23,12 @@ Data Processing Agreement
 
 [**Sub Processors**](https://wasabi.com/legal/sub-processors)
 
-  
-  
+**Previous Versions:**
+
+* [March 28, 2024](https://cdn.brandfolder.io/BFD8NB05/at/ph988gk9rxmcmvjq46pgkv/Wasabi_-_DPA_-_28Mar2024_-_REFERENCE_ONLY.pdf)
+    
+* [November 29, 2023](https://cdn.brandfolder.io/BFD8NB05/at/2kwb7m7jtj7jvvkn3xsn4j9/Wasabi_-_DPA_-_November_2023_-_REFERENCE_ONLY.pdf)
+    
 
 [Company](https://wasabi.com/legal/data-processing-agreement#)
 
