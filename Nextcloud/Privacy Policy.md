@@ -21,7 +21,7 @@
 
 [![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
 
-* [Products](# "Products")
+* [Products](#)
     * [![Nextcloud Hub](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Nextcloud Hub](https://nextcloud.com/c/uploads/2024/02/nc-hub-icons-square.svg)
@@ -58,7 +58,7 @@
         
         RoundcubeThe most popular on-prem webmail](https://nextcloud.com/roundcube/)
     * [Microsoft integrations](https://nextcloud.com/microsoft-integrations/)
-* [Solutions](# "Solutions")
+* [Solutions](#)
     * [![Nextcloud Enterprise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Nextcloud Enterprise](https://nextcloud.com/c/uploads/2022/10/nc-enterprise-icon.svg)
@@ -68,7 +68,7 @@
         * [Enterprises](https://nextcloud.com/enterprises/)
         * [Service providers](https://nextcloud.com/service-providers/)
         * [Education](https://nextcloud.com/education/)
-        * [Pricing](https://nextcloud.com/pricing/ "Pricing")
+        * [Pricing](https://nextcloud.com/pricing/)
     * [![Nextcloud at home](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Nextcloud at home](https://nextcloud.com/c/uploads/2022/10/nc-icon-at-home.svg)
@@ -105,7 +105,7 @@
     * [Partners](https://nextcloud.com/partners/)
     * [Search our site](https://nextcloud.com/search/)
 * [Instant trial](https://nextcloud.com/instant-trial/)
-* [Download](https://nextcloud.com/install/ "Download")
+* [Download](https://nextcloud.com/install/)
     * [![Desktop & mobile apps](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Desktop & mobile apps](https://nextcloud.com/c/uploads/2024/02/nc-clients-icon-blue.svg)
@@ -1047,7 +1047,7 @@ Nextcloud offers a modern, on-premises content collaboration platform with real-
 
 Search: 
 
-* [About Nextcloud](# "About Nextcloud")
+* [About Nextcloud](#)
     * [About us](https://nextcloud.com/about/)
     * [Jobs](https://nextcloud.com/jobs/)
     * [Code of conduct](https://nextcloud.com/contribute/code-of-conduct/)
