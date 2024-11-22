@@ -408,11 +408,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2022/12/CITlocal-CITY-1200x800_Dallas-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/11/Kaseya-365-USER-Webina-1200x800-px-300x200.jpg)
     
-    Kaseya+Datto Connect Local :: Dallas
+    Master the Tech: Technical Deep Dive into Kaseya 365 User
     
-    November 21
+    November 22
     
     [View All Events](https://www.kaseya.com/events/)
     
