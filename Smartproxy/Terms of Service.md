@@ -98,7 +98,7 @@ from$2.2/GB](https://smartproxy.com/proxies/residential-proxies/pricing)
 
 NEW
 
-from$2/IP](https://smartproxy.com/proxies/isp-proxies/pricing)
+from$0.35/IP](https://smartproxy.com/proxies/isp-proxies/pricing)
 
 [Mobile Proxies
 
