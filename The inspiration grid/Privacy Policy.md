@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/branding-the-brass-onion-feature.jpg)
+
+[](https://theinspirationgrid.com/the-brass-onion-branding-by-carpenter-collective/)
+
+### The Brass Onion Branding by Carpenter Collective
+
+![](https://inspgr.id/app/uploads/2024/11/art-brown-garrett-feature.jpg)
+
+[](https://theinspirationgrid.com/a-whisper-in-the-eye-of-the-storm-an-immersive-art-installation/)
+
+### A Whisper in the Eye of the Storm: An Immersive Optical Art Installation
+
 ![](https://inspgr.id/app/uploads/2024/11/3d-shalinder-matharu-feature.jpg)
 
 [](https://theinspirationgrid.com/material-play-3d-creations-by-shalinder-matharu/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/ukiyo-works-illustrations-by-shinji-tsuchimochi/)
 
 ### Ukiyo Works: Illustrations by Shinji Tsuchimochi
-
-![](https://inspgr.id/app/uploads/2024/11/art-jason-sims-feature.jpg)
-
-[](https://theinspirationgrid.com/perceptual-art-mesmerizing-installations-by-jason-sims/)
-
-### Perceptual Art: Mesmerizing Installations by Jason Sims
-
-![](https://inspgr.id/app/uploads/2024/11/illustration-valentin-tkach-feature.jpg)
-
-[](https://theinspirationgrid.com/editorial-illustrations-by-valentin-tkach/)
-
-### Editorial Illustrations by Valentin Tkach
 
 Awesome products for creatives
 ------------------------------
