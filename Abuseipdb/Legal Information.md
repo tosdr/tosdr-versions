@@ -1,7 +1,3 @@
-**Notice:** If you attempted to contact AbuseIPDB between September 27th and November 12th via the contact page, please try again.
-
-[Contact Us](https://www.abuseipdb.com/contact)
-
 [![AbuseIPDB - IP Address Blacklist](/img/abuseipdb.png.pagespeed.ce.CI8T6WsXU7.png)](https://www.abuseipdb.com/)
 
 [Login](https://www.abuseipdb.com/login) [Sign Up](https://www.abuseipdb.com/pricing)
