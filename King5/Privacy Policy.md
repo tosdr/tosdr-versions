@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cb1df4e3-11c3-476c-af89-52d9d4d34a4a/20241121T182535/cb1df4e3-11c3-476c-af89-52d9d4d34a4a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb1df4e3-11c3-476c-af89-52d9d4d34a4a/20241121T182535/cb1df4e3-11c3-476c-af89-52d9d4d34a4a_360x203.jpg)](https://www.king5.com/article/news/local/stolen-car-smashes-elementary-school/281-b50b4d98-5901-4707-bfb6-0a09bd4b3686)
+    *  [![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_360x203.jpg)](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
         
-        #### [Stolen car used to smash into Graham elementary school](https://www.king5.com/article/news/local/stolen-car-smashes-elementary-school/281-b50b4d98-5901-4707-bfb6-0a09bd4b3686)
+        #### [Washington cities are recovering from the bomb cyclone. Here's when the next system arrives](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
         
-    *  [![](https://media.king5.com/assets/KING/images/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f/20241121T153843/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f/20241121T153843/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/utility-companies-brace-more-power-outages-storm-bomb-cyclone/281-1918e5d6-5fd1-4826-9b5f-7d4c7970bf73)
+    *  [![](https://media.king5.com/assets/KING/images/b460fee4-e291-405b-9eb4-eec22b68f436/20241121T225750/b460fee4-e291-405b-9eb4-eec22b68f436_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b460fee4-e291-405b-9eb4-eec22b68f436/20241121T225750/b460fee4-e291-405b-9eb4-eec22b68f436_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
         
-        #### [New storm system could cause more power outages in western Washington Friday](https://www.king5.com/article/weather/weather-impact/utility-companies-brace-more-power-outages-storm-bomb-cyclone/281-1918e5d6-5fd1-4826-9b5f-7d4c7970bf73)
+        #### [Power restored for over 300,000 people after western Washington windstorm](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -58,11 +58,11 @@ Navigation
     
     *  [![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_360x203.jpg)](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
         
-        #### [Washington cities are recovering from the bomb cyclone. Is another storm on the way?](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
+        #### [Washington cities are recovering from the bomb cyclone. Here's when the next system arrives](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
         
-    *  [![](https://media.king5.com/assets/KING/images/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f/20241121T153843/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f/20241121T153843/c87bad12-b7ce-485b-bb77-dc8a1e6e4b8f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/utility-companies-brace-more-power-outages-storm-bomb-cyclone/281-1918e5d6-5fd1-4826-9b5f-7d4c7970bf73)
+    *  [![](https://media.king5.com/assets/KING/images/c5fc4408-1512-4958-a248-c3f7b29fd17b/20241121T202513/c5fc4408-1512-4958-a248-c3f7b29fd17b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c5fc4408-1512-4958-a248-c3f7b29fd17b/20241121T202513/c5fc4408-1512-4958-a248-c3f7b29fd17b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-        #### [New storm system could cause more power outages in western Washington Friday](https://www.king5.com/article/weather/weather-impact/utility-companies-brace-more-power-outages-storm-bomb-cyclone/281-1918e5d6-5fd1-4826-9b5f-7d4c7970bf73)
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-51°
+47°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
