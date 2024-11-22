@@ -344,11 +344,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/slike.jpg?itok=ve7ZUGe5)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2007/2008/25-g.jpg?itok=532-Ip18)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20072008)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/akademija-gig-001.jpg?itok=3yMIR-WI)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/34-mot-skoplje/kasandra15.jpg?itok=RaBthIDt)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/34-mot-skoplje)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
