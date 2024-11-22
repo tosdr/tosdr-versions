@@ -208,6 +208,9 @@ this hour
 
 * * *
 
+* [Early Skeleton Map: How Bones Form in Humans](https://www.sciencedaily.com/releases/2024/11/241120121741.htm)
+* [Human Gut: Mapping 1.6 Million Gut Cells](https://www.sciencedaily.com/releases/2024/11/241120121728.htm)
+* [Human Immune System Ready Long Before Birth](https://www.sciencedaily.com/releases/2024/11/241120121641.htm)
 * [Human Heart: Hidden Ability to Repair Itself](https://www.sciencedaily.com/releases/2024/11/241121141348.htm)
 * [Oldest Known Alphabet Unearthed](https://www.sciencedaily.com/releases/2024/11/241120193145.htm)
 * [Supernova Could End Search for Dark Matter](https://www.sciencedaily.com/releases/2024/11/241121141213.htm)
@@ -215,9 +218,6 @@ this hour
 * [Chemists Create World's Thinnest Spaghetti](https://www.sciencedaily.com/releases/2024/11/241121141211.htm)
 * [Climate: Millions of Coastal Residences at Risk](https://www.sciencedaily.com/releases/2024/11/241121115809.htm)
 * [Zooming in On a Star Outside Our Galaxy](https://www.sciencedaily.com/releases/2024/11/241121115752.htm)
-* [Adaptation of Early Europeans](https://www.sciencedaily.com/releases/2024/11/241119181845.htm)
-* [Faster Battery Charging, Biosensing](https://www.sciencedaily.com/releases/2024/11/241119133504.htm)
-* [Females Sleep Less, Awaken More Frequently](https://www.sciencedaily.com/releases/2024/11/241121115806.htm)
 
 Trending Topics
 ---------------
@@ -230,9 +230,9 @@ this week
 
 [Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
 
-[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[Anemia](https://www.sciencedaily.com/news/health_medicine/anemia/)
+[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
