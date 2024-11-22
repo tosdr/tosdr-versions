@@ -20,16 +20,16 @@ Friday, November 22 2024
 
 Latest
 
+* [Google faces scrutiny as DuckDuckGo calls for fresh EU probes into compliance – Computerworld](https://digitpatrox.com/google-faces-scrutiny-as-duckduckgo-calls-for-fresh-eu-probes-into-compliance-computerworld/)
+* [The Best Deals From Amazon’s Black Friday Sale So Far](https://digitpatrox.com/the-best-deals-from-amazons-black-friday-sale-so-far/)
+* [How to Choose and Use the Right Bike Rack](https://digitpatrox.com/how-to-choose-and-use-the-right-bike-rack/)
+* [What Is Latency in Audio and Does It Matter for Gaming, Movies, and Music?](https://digitpatrox.com/what-is-latency-in-audio-and-does-it-matter-for-gaming-movies-and-music/)
+* [Apple Patches Two Zero-Day Attack Vectors](https://digitpatrox.com/apple-patches-two-zero-day-attack-vectors/)
+* [I’m a Black Friday mattress deals expert — what I recommend buying this year](https://digitpatrox.com/im-a-black-friday-mattress-deals-expert-what-i-recommend-buying-this-year/)
+* [Chinese hackers target Linux with new WolfsBane malware](https://digitpatrox.com/chinese-hackers-target-linux-with-new-wolfsbane-malware/)
+* [Snap says New Mexico intentionally friended alleged child predators, then blamed the company](https://digitpatrox.com/snap-says-new-mexico-intentionally-friended-alleged-child-predators-then-blamed-the-company/)
+* [Deadlock Patch Notes (November 21): Matchmaking Rework, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-november-21-matchmaking-rework-buffs-nerfs-other-changes/)
 * [Will new Apple Pay oversight make Apple Bank a good idea? – Computerworld](https://digitpatrox.com/will-new-apple-pay-oversight-make-apple-bank-a-good-idea-computerworld/)
-* [Apple’s Powerful New M4 Mac Mini Is Already $100 Off](https://digitpatrox.com/apples-powerful-new-m4-mac-mini-is-already-100-off/)
-* [2025 Volkswagen Tiguan Preview – Consumer Reports](https://digitpatrox.com/2025-volkswagen-tiguan-preview-consumer-reports/)
-* [Western Digital Has New External SSDs and NVMe Drives](https://digitpatrox.com/western-digital-has-new-external-ssds-and-nvme-drives/)
-* [CISPE unveils cloud watchdog for Microsoft – and plans to monitor Broadcom, VMware too](https://digitpatrox.com/cispe-unveils-cloud-watchdog-for-microsoft-and-plans-to-monitor-broadcom-vmware-too/)
-* [DataStax CTO Discusses RAG’s Role in Reducing AI Hallucinations](https://digitpatrox.com/datastax-cto-discusses-rags-role-in-reducing-ai-hallucinations/)
-* [AOC Black Friday gaming monitor sale at Amazon — deals from $139](https://digitpatrox.com/aoc-black-friday-gaming-monitor-sale-at-amazon-deals-from-139/)
-* [Windows 11 KB5046740 update released with 14 changes and fixes](https://digitpatrox.com/windows-11-kb5046740-update-released-with-14-changes-and-fixes/)
-* [Rabbit now lets you teach the R1 to perform tasks for you](https://digitpatrox.com/rabbit-now-lets-you-teach-the-r1-to-perform-tasks-for-you/)
-* [Today’s Wordle Answer and Hints for November 22, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-22-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3610451-0-34998300-1732214328-Apple-Pay-coming-to-partners-Customer-checking-out-with-Apple-Pay-at-Target-01222019.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/will-new-apple-pay-oversight-make-apple-bank-a-good-idea-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3610220-0-98541600-1732186270-shutterstock_2252004599.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/google-faces-scrutiny-as-duckduckgo-calls-for-fresh-eu-probes-into-compliance-computerworld/)
     
-    [Will new Apple Pay oversight make Apple Bank a good idea? – Computerworld](https://digitpatrox.com/will-new-apple-pay-oversight-make-apple-bank-a-good-idea-computerworld/)
+    [Google faces scrutiny as DuckDuckGo calls for fresh EU probes into compliance – Computerworld](https://digitpatrox.com/google-faces-scrutiny-as-duckduckgo-calls-for-fresh-eu-probes-into-compliance-computerworld/)
     
-    16 minutes ago
+    54 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JD87XK8ZTR4Q3DDTZ8X2XG7Z/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/apples-powerful-new-m4-mac-mini-is-already-100-off/)
+* [![](https://lifehacker.com/imagery/articles/01JD83531D9GT35GC5E3353TQB/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-deals-from-amazons-black-friday-sale-so-far/)
     
-    [Apple’s Powerful New M4 Mac Mini Is Already $100 Off](https://digitpatrox.com/apples-powerful-new-m4-mac-mini-is-already-100-off/)
+    [The Best Deals From Amazon’s Black Friday Sale So Far](https://digitpatrox.com/the-best-deals-from-amazons-black-friday-sale-so-far/)
     
-    45 minutes ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732116728/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2025-Volkswagen-Tiguan-f-driving-11-24)](https://digitpatrox.com/2025-volkswagen-tiguan-preview-consumer-reports/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1653067038/prod/content/dam/CRO-Images-2022/Cars/05May/CR-Cars-InlineHero-Hanging-Bike-Rack-MM-Allen-9309-5-22)](https://digitpatrox.com/how-to-choose-and-use-the-right-bike-rack/)
     
-    [2025 Volkswagen Tiguan Preview – Consumer Reports](https://digitpatrox.com/2025-volkswagen-tiguan-preview-consumer-reports/)
+    [How to Choose and Use the Right Bike Rack](https://digitpatrox.com/how-to-choose-and-use-the-right-bike-rack/)
     
-    55 minutes ago
+    2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/sandisk-extreme-pro-usb-4-portable-ssd-on-a-laptop-near-a-thumb.jpg)](https://digitpatrox.com/western-digital-has-new-external-ssds-and-nvme-drives/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/untitled-design.png)](https://digitpatrox.com/what-is-latency-in-audio-and-does-it-matter-for-gaming-movies-and-music/)
     
-    [Western Digital Has New External SSDs and NVMe Drives](https://digitpatrox.com/western-digital-has-new-external-ssds-and-nvme-drives/)
+    [What Is Latency in Audio and Does It Matter for Gaming, Movies, and Music?](https://digitpatrox.com/what-is-latency-in-audio-and-does-it-matter-for-gaming-movies-and-music/)
     
-    57 minutes ago
+    2 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/qnGSwbfzp9zTsFt2t49oUT-1200-80.jpg)](https://digitpatrox.com/cispe-unveils-cloud-watchdog-for-microsoft-and-plans-to-monitor-broadcom-vmware-too/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241121-apple-patches-zero-day-vulnerabilities.jpg)](https://digitpatrox.com/apple-patches-two-zero-day-attack-vectors/)
     
-    [CISPE unveils cloud watchdog for Microsoft – and plans to monitor Broadcom, VMware too](https://digitpatrox.com/cispe-unveils-cloud-watchdog-for-microsoft-and-plans-to-monitor-broadcom-vmware-too/)
+    [Apple Patches Two Zero-Day Attack Vectors](https://digitpatrox.com/apple-patches-two-zero-day-attack-vectors/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [16 minutes ago
+* [54 minutes ago
     
-    ### Will new Apple Pay oversight make Apple Bank a good idea? – Computerworld](https://digitpatrox.com/will-new-apple-pay-oversight-make-apple-bank-a-good-idea-computerworld/)
-* [45 minutes ago
+    ### Google faces scrutiny as DuckDuckGo calls for fresh EU probes into compliance – Computerworld](https://digitpatrox.com/google-faces-scrutiny-as-duckduckgo-calls-for-fresh-eu-probes-into-compliance-computerworld/)
+* [1 hour ago
     
-    ### Apple’s Powerful New M4 Mac Mini Is Already $100 Off](https://digitpatrox.com/apples-powerful-new-m4-mac-mini-is-already-100-off/)
-* [55 minutes ago
+    ### The Best Deals From Amazon’s Black Friday Sale So Far](https://digitpatrox.com/the-best-deals-from-amazons-black-friday-sale-so-far/)
+* [2 hours ago
     
-    ### 2025 Volkswagen Tiguan Preview – Consumer Reports](https://digitpatrox.com/2025-volkswagen-tiguan-preview-consumer-reports/)
+    ### How to Choose and Use the Right Bike Rack](https://digitpatrox.com/how-to-choose-and-use-the-right-bike-rack/)
 
 Most Popular Topics
 
-* [August 30, 2024
+* [September 4, 2024
     
-    ### Microsoft will let you uninstall Windows Recall AI feature on Windows 11](https://digitpatrox.com/microsoft-will-let-you-uninstall-windows-recall-ai-feature-on-windows-11/)
-* [August 16, 2024
+    ### Listeria Outbreak Linked to Deli Meat, CDC Says](https://digitpatrox.com/listeria-outbreak-linked-to-deli-meat-cdc-says/)
+* [3 weeks ago
     
-    ### What Is an “Asset Flip” Game and Are They a Bad Thing?](https://digitpatrox.com/what-is-an-asset-flip-game-and-are-they-a-bad-thing/)
-* [August 13, 2024
+    ### Samsung Galaxy Tab S10 Ultra review](https://digitpatrox.com/samsung-galaxy-tab-s10-ultra-review/)
+* [August 20, 2024
     
-    ### TikTok owner tipped to release Meta Quest 3 XR headset rival — what we know](https://digitpatrox.com/tiktok-owner-tipped-to-release-meta-quest-3-xr-headset-rival-what-we-know/)
+    ### How to troubleshoot a Windows PC that won’t boot](https://digitpatrox.com/how-to-troubleshoot-a-windows-pc-that-wont-boot/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### AOC Black Friday gaming monitor sale at Amazon — deals from $139](https://digitpatrox.com/aoc-black-friday-gaming-monitor-sale-at-amazon-deals-from-139/)
 * [3 hours ago
     
-    ### Windows 11 KB5046740 update released with 14 changes and fixes](https://digitpatrox.com/windows-11-kb5046740-update-released-with-14-changes-and-fixes/)
-* [3 hours ago
+    ### Chinese hackers target Linux with new WolfsBane malware](https://digitpatrox.com/chinese-hackers-target-linux-with-new-wolfsbane-malware/)
+* [4 hours ago
     
-    ### Rabbit now lets you teach the R1 to perform tasks for you](https://digitpatrox.com/rabbit-now-lets-you-teach-the-r1-to-perform-tasks-for-you/)
+    ### Snap says New Mexico intentionally friended alleged child predators, then blamed the company](https://digitpatrox.com/snap-says-new-mexico-intentionally-friended-alleged-child-predators-then-blamed-the-company/)
+* [4 hours ago
+    
+    ### Deadlock Patch Notes (November 21): Matchmaking Rework, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-november-21-matchmaking-rework-buffs-nerfs-other-changes/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 12, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
