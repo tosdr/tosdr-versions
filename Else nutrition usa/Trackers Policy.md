@@ -3,7 +3,7 @@ elsenutrition
 
 [Skip to content](#MainContent)
 
-[Get 50% OFF Baby Cereals for a Limited Time! CODE: CEREALS50 or click](https://elsenutrition.com/discount/CEREALS50?redirect=%2Fcollections%2Fbaby-cereal) [Learn About Our Ingredients!](https://elsenutrition.com/pages/ingredients) ' + '' + ' ' + '' + '
+BLACK FRIDAY starts early! Get 15% OFF Sitewide! CODE: DEAL15 [Learn About Our Ingredients!](https://elsenutrition.com/pages/ingredients) ' + '' + ' ' + '' + '
 
    [![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935) ![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935)](https://elsenutrition.com/)
 
