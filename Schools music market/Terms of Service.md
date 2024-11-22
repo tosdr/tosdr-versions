@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/weekly-song-review-classical-edition/)
+ [](https://schoolsmusicmarket.com/product/composition-stimuli-mood-boards/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/large-music-note-display-cutout/)
+ [](https://schoolsmusicmarket.com/product/ornament-originals-beginner-composing-sheet-set/)
 
 ###### Browse By Year/Grade
 
