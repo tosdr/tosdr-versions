@@ -1,6 +1,6 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -114,7 +114,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112218-bye-jag-2024-11-21)
+     [](https://patriotpost.us/memes/112227-shopper-beware-2024-11-22)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -134,9 +134,6 @@ Last Updated: November 15, 2011.
 *      [Laura Hollis Religious Belief and the 2024 Election](https://patriotpost.us/opinion/112200-religious-belief-and-the-2024-election-2024-11-21)
 *      [Hans von Spakovsky Getting New Leadership Confirmed Quickly for Next Trump Admin](https://patriotpost.us/opinion/112195-getting-new-leadership-confirmed-quickly-for-next-trump-admin-2024-11-21)
 *      [Allen West Constitutional Governance](https://patriotpost.us/opinion/112193-constitutional-governance-2024-11-21)
-*      [Armstrong Williams Mr. Trump, Follow Mr. Lincoln](https://patriotpost.us/opinion/112205-mr-trump-follow-mr-lincoln-2024-11-21)
-*      [The Washington Stand Speaker Johnson Protects Women-Only Spaces in U.S. Capitol](https://patriotpost.us/opinion/112196-speaker-johnson-protects-women-only-spaces-in-us-capitol-2024-11-21)
-*      [The Babylon Bee Here’s How 14 Different News Outlets Are Covering the ‘Trump Dance’ Craze](https://patriotpost.us/opinion/112192-heres-how-14-different-news-outlets-are-covering-the-trump-dance-craze-2024-11-21)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -150,9 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
