@@ -10,11 +10,11 @@
 
 * [Home](https://pingperfect.com/)
 * [Blog](https://blog.pingperfect.com/)
-* [Rent a game server](#)
+* [Rent a game server](https://pingperfect.com/game)
     * [| Choose a game...](https://pingperfect.com/game)
     * [| Location](https://pingperfect.com/locations)
     * [| Hardware](https://pingperfect.com/hardware)
-* [Dedicated Servers](#)
+* [Dedicated Hardware](#)
     * [| Dedicated Servers](https://pingperfect.com/dedicated-servers)
 * [VPS](https://pingperfect.com/vps)
     
