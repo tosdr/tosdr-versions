@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_360x203.jpg)](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
+    *  [![](https://media.king5.com/assets/KING/images/836299bf-0afe-4d5d-942e-c199555324a9/20241122T024040/836299bf-0afe-4d5d-942e-c199555324a9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/836299bf-0afe-4d5d-942e-c199555324a9/20241122T024040/836299bf-0afe-4d5d-942e-c199555324a9_360x203.jpg)](https://www.king5.com/article/weather/king-county-residents-expect-to-have-power-restored-saturday/281-76b7fcf6-2316-4344-adb3-02f8fb372011)
         
-        #### [Washington cities are recovering from the bomb cyclone. Here's when the next system arrives](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
+        #### [Power being restored to some, PSE expects all customers to be out of the dark by Saturday afternoon](https://www.king5.com/article/weather/king-county-residents-expect-to-have-power-restored-saturday/281-76b7fcf6-2316-4344-adb3-02f8fb372011)
         
-    *  [![](https://media.king5.com/assets/KING/images/b460fee4-e291-405b-9eb4-eec22b68f436/20241121T225750/b460fee4-e291-405b-9eb4-eec22b68f436_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b460fee4-e291-405b-9eb4-eec22b68f436/20241121T225750/b460fee4-e291-405b-9eb4-eec22b68f436_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
+    *  [![](https://media.king5.com/assets/KING/images/d6f27089-4974-4442-962c-e4d9230aa49b/20241122T060430/d6f27089-4974-4442-962c-e4d9230aa49b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d6f27089-4974-4442-962c-e4d9230aa49b/20241122T060430/d6f27089-4974-4442-962c-e4d9230aa49b_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/some-mercer-island-residents-under-shelter-in-place-order/281-f686c2ff-6448-4b85-a41e-2cecb1b3c7d3)
         
-        #### [Power restored for over 300,000 people after western Washington windstorm](https://www.king5.com/article/weather/weather-impact/power-outages-western-washington-wind-storm-updates/281-ef2b2051-9470-48f0-98f3-2e838116d469)
+        #### [Some Mercer Island residents under shelter-in-place order due to hazardous road conditions](https://www.king5.com/article/weather/severe-weather/some-mercer-island-residents-under-shelter-in-place-order/281-f686c2ff-6448-4b85-a41e-2cecb1b3c7d3)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,11 +56,11 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_360x203.jpg)](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
+    *  [![](https://media.king5.com/assets/KING/images/836299bf-0afe-4d5d-942e-c199555324a9/20241122T024040/836299bf-0afe-4d5d-942e-c199555324a9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/836299bf-0afe-4d5d-942e-c199555324a9/20241122T024040/836299bf-0afe-4d5d-942e-c199555324a9_360x203.jpg)](https://www.king5.com/article/weather/king-county-residents-expect-to-have-power-restored-saturday/281-76b7fcf6-2316-4344-adb3-02f8fb372011)
         
-        #### [Washington cities are recovering from the bomb cyclone. Here's when the next system arrives](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
+        #### [Power being restored to some, PSE expects all customers to be out of the dark by Saturday afternoon](https://www.king5.com/article/weather/king-county-residents-expect-to-have-power-restored-saturday/281-76b7fcf6-2316-4344-adb3-02f8fb372011)
         
-    *  [![](https://media.king5.com/assets/KING/images/c5fc4408-1512-4958-a248-c3f7b29fd17b/20241121T202513/c5fc4408-1512-4958-a248-c3f7b29fd17b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c5fc4408-1512-4958-a248-c3f7b29fd17b/20241121T202513/c5fc4408-1512-4958-a248-c3f7b29fd17b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/d533a6e0-02d7-4a9c-a50d-080e1014a211/20241122T022415/d533a6e0-02d7-4a9c-a50d-080e1014a211_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d533a6e0-02d7-4a9c-a50d-080e1014a211/20241122T022415/d533a6e0-02d7-4a9c-a50d-080e1014a211_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-47°
+46°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
