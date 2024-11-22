@@ -82,13 +82,19 @@ HOLIDAY TYPES
 
 ABOUT US
 
-[Our Story](https://www.safari.com/about-us)[Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Testimonials](https://www.trustpilot.com/review/safari.com)[Financial Protection](https://www.safari.com/travel-with-us#financial-protection)[Meet the Team](https://www.safari.com/meet-the-team)[Partner with us](https://www.safari.com/affiliates)[Contact us](https://www.safari.com/contact)
+[Our Story](https://www.safari.com/about-us)[Why travel with us](https://www.safari.com/travel-with-us)[Awards](https://www.safari.com/travel-with-us#accreditations-and-awards)[FAQ](https://www.safari.com/faq)[Testimonials](https://www.trustpilot.com/review/safari.com)[Financial Protection](https://www.safari.com/travel-with-us#financial-protection)[Meet the Team](https://www.safari.com/meet-the-team)[Partner with us](https://www.safari.com/affiliates)[Contact us](https://www.safari.com/contact)
 
 Start Planning
+
+[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/673fc737a6ec1d43fb64226a_icons8-whatsapp-100%20(1).png)
+
+Chat now on WhatsApp](https://wa.me/27639006627?text=I%27d%20like%20help%20planning%20a%20safari%20trip)
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/673d14cebb5761e9953d9faa_icons8-search-96.png)
 
 Menu
+
+Start Planning
 
 Terms & Conditions
 ------------------
@@ -221,6 +227,18 @@ out of 5 based on
 
 > Nov 21, 2024
 
+> Mel made our booking experience a…
+
+> Mel made our booking experience a dream. Quick response with various options absolutely stress free. And trailer made our experience 5 star
+
+James
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 21, 2024
+
 > Friendly and super efficient service
 
 > Prompt and helpful response by your agents when I had to change my bookings. Friendly and super efficient service.
@@ -325,20 +343,6 @@ Julian
 
 CH
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 15, 2024
-
-> Responsive
-
-> Responsive, knowledgeable, professional, patient, friendly and courteous, more than expected.
-
-Gordon Myers
-
-,
-
-US
-
 VIP service
 
 Your own personal travel assistant
@@ -373,7 +377,7 @@ Contact a safari expert now
 
 ### About us
 
-* [Contact us](https://www.safari.com/contact)[Why travel with us](https://www.safari.com/travel-with-us)[Ethical wildlife policy](https://www.safari.com/travel-with-us#ethical-wildlife-tourism-policy)[FAQ](https://www.safari.com/faq)[Our story](https://www.safari.com/about-us)[Meet the team](https://www.safari.com/meet-the-team)[Careers](https://www.safari.com/careers)[Traveler reviews](https://www.trustpilot.com/review/safari.com)[Africa's Leading Safari Company 2024](https://www.safari.com/blog/safari-com-world-travel-awards-nominee-2024-vote-for-us)
+* [Contact us](https://www.safari.com/contact)[Why travel with us](https://www.safari.com/travel-with-us)[Awards](https://www.safari.com/travel-with-us#accreditations-and-awards)[Ethical wildlife policy](https://www.safari.com/travel-with-us#ethical-wildlife-tourism-policy)[FAQ](https://www.safari.com/faq)[Our story](https://www.safari.com/about-us)[Meet the team](https://www.safari.com/meet-the-team)[Careers](https://www.safari.com/careers)[Traveler reviews](https://www.trustpilot.com/review/safari.com)[Africa's Leading Safari Company 2024](https://www.safari.com/blog/safari-com-world-travel-awards-nominee-2024-vote-for-us)
 * [Join Our Affiliate Program](https://www.safari.com/affiliates)
 
 ### Blog
