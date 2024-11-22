@@ -9,6 +9,8 @@
             MetLife Stadium](https://www.songkick.com/concerts/42275668-zach-bryan-at-metlife-stadium)
         *  [![The Goo Goo Dolls Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Goo Goo Dolls  
             PNC Bank Arts Center](https://www.songkick.com/concerts/42279912-goo-goo-dolls-at-pnc-bank-arts-center)
+        *  [![The Damned Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Damned  
+            White Eagle Hall](https://www.songkick.com/concerts/42281797-damned-at-white-eagle-hall)
         *  [![Mannequin Pussy Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mannequin Pussy  
             White Eagle Hall](https://www.songkick.com/concerts/42285218-mannequin-pussy-at-white-eagle-hall)
         *  [![Redd Kross Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Redd Kross  
