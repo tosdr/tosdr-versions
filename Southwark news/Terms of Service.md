@@ -20,6 +20,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The new mural on the Old Kent Road railway bridge](https://southwarknews.co.uk/wp-content/uploads/2024/11/home_from_home_okr_mural_211124-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
+    
+    ### [Ugly railway bridge on Old Kent Road gets bright makeover ahead of area’s transformation](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
+    
+    [![Labour Councillor Sam Dalton spoke about the council's support schemes at Council Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Labour-Councillor-Sam-Dalton-spoke-about-the-councils-support-schemes-at-Council-Assembly-360x180.png)](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    
+    ### [Winter Fuel Payments: Southwark Council offering pensioners emergency £200 payments after government cut winter support](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    
+    [![Fredericks Playground. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/Fredericks-Playground-1-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
+    
+    ### [Kennington playground once riddled with abestos reopens after £700,000 revamp](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
+    
+    [![Police are trying to identify this man in connection with a stabbing on Walworth Road. Image: Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-trying-to-identify-this-man-in-connection-with-a-stabbing-on-Walworth-Road.-Image-Southwark-MPS-360x180.png)](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
+    
+    ### [Man wanted in connection with Walworth Road stabbing](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
+    
     [![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
     
     ### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
@@ -39,22 +55,6 @@
     [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
     
     ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
-    
-    [![Tram-style buses are hitting the 358 route from Crystal Palace. Image: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/11/358-Side-view-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
-    
-    ### [New tram-style buses now departing from Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
-    
-    [![From left: Harrun, a biomedical student at KCL; Dennis at the Blue. R: An ambulance outside Guy's Hospital.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-14.37-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-    
-    ### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-    
-    [![City of London Academy in Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/City-of-London-Academy-in-Southwark-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
-    
-    ### [Parents who ‘shove’ screens in kids’ faces to blame for ADHD, says Bermondsey headteacher](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
-    
-    [![Thurlow Street was the scene of the blaze. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/thurlow-street-10-pump-pic-3-360x180.webp)](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
-    
-    ### [Brigade tackles blaze in Walworth residential block](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The new mural on the Old Kent Road railway bridge](https://southwarknews.co.uk/wp-content/uploads/2024/11/home_from_home_okr_mural_211124-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
+    
+    ### [Ugly railway bridge on Old Kent Road gets bright makeover ahead of area’s transformation](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
+    
+    [![Labour Councillor Sam Dalton spoke about the council's support schemes at Council Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Labour-Councillor-Sam-Dalton-spoke-about-the-councils-support-schemes-at-Council-Assembly-360x180.png)](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    
+    ### [Winter Fuel Payments: Southwark Council offering pensioners emergency £200 payments after government cut winter support](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    
+    [![Fredericks Playground. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/Fredericks-Playground-1-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
+    
+    ### [Kennington playground once riddled with abestos reopens after £700,000 revamp](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
+    
+    [![Police are trying to identify this man in connection with a stabbing on Walworth Road. Image: Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-trying-to-identify-this-man-in-connection-with-a-stabbing-on-Walworth-Road.-Image-Southwark-MPS-360x180.png)](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
+    
+    ### [Man wanted in connection with Walworth Road stabbing](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
+    
     [![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
     
     ### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
@@ -124,22 +140,6 @@ View All Result
     [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
     
     ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
-    
-    [![Tram-style buses are hitting the 358 route from Crystal Palace. Image: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/11/358-Side-view-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
-    
-    ### [New tram-style buses now departing from Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
-    
-    [![From left: Harrun, a biomedical student at KCL; Dennis at the Blue. R: An ambulance outside Guy's Hospital.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-14.37-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-    
-    ### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-    
-    [![City of London Academy in Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/City-of-London-Academy-in-Southwark-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
-    
-    ### [Parents who ‘shove’ screens in kids’ faces to blame for ADHD, says Bermondsey headteacher](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
-    
-    [![Thurlow Street was the scene of the blaze. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/thurlow-street-10-pump-pic-3-360x180.webp)](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
-    
-    ### [Brigade tackles blaze in Walworth residential block](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -217,17 +217,17 @@ Terms of Use
 
 [18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
 
-[![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-120x86.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-
-### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-
-[16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-
 [![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
 ### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
 [21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+
+[![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-120x86.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
+### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
+[16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
 
 [![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-120x86.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
 
@@ -235,13 +235,25 @@ Terms of Use
 
 [18th November 2024](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
 
-[![Neil Harris ahead of his side's game against Stoke City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/N-Harris-987654-2024-11-09T13_20_30.418-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-aiming-to-humble-another-huge-football-club-ahead-of-saturdays-clash-with-sunderland/)
+[![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
 
-### [Millwall head coach aiming to ‘humble another huge football club’ ahead of Saturday’s clash with Sunderland at The Den](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-aiming-to-humble-another-huge-football-club-ahead-of-saturdays-clash-with-sunderland/)
+### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
 
-[19th November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-aiming-to-humble-another-huge-football-club-ahead-of-saturdays-clash-with-sunderland/)
+[20th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
 
 ### Featured Articles
+
+[![Fredericks Playground. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/Fredericks-Playground-1-120x86.jpeg)](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
+
+### [Kennington playground once riddled with abestos reopens after £700,000 revamp](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
+
+[22nd November 2024](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
+
+[![Police are trying to identify this man in connection with a stabbing on Walworth Road. Image: Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-trying-to-identify-this-man-in-connection-with-a-stabbing-on-Walworth-Road.-Image-Southwark-MPS-120x86.png)](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
+
+### [Man wanted in connection with Walworth Road stabbing](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
+
+[22nd November 2024](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
 
 [![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
@@ -266,18 +278,6 @@ Terms of Use
 ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
 
 [20th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
-
-[![Tram-style buses are hitting the 358 route from Crystal Palace. Image: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/11/358-Side-view-120x86.jpeg)](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
-
-### [New tram-style buses now departing from Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
-
-[20th November 2024](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
-
-[![From left: Harrun, a biomedical student at KCL; Dennis at the Blue. R: An ambulance outside Guy's Hospital.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-14.37-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-
-### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-
-[20th November 2024](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
 
 ### USEFUL PAGES
 
