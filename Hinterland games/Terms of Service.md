@@ -35,7 +35,7 @@ Our software uses cookies to distinguish you from other users of our website. Th
 are registered trademarks or trademarks of Hinterland Studio Inc.  
 All rights reserved.
 
-**[THELONGDARK.COM](https://www.thelongdark.com/)     [HINTERLANDGAMES.COM](https://www.hinterland.com/)    |    [Privacy Policy](https://hinterlandforums.com/privacy)**
+**[THELONGDARK.COM](https://www.thelongdark.com/)     [HINTERLAND.COM](https://www.hinterland.com/)    |    [Privacy Policy](https://hinterlandforums.com/privacy)**
 
 ### COMMUNITY
 
