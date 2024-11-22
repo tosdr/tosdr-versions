@@ -228,7 +228,7 @@ Industries
 
 [Help](https://www.labcorp.com/contact-us "Help")
 
-Medtech
+Compliance
 
 * [Ethics, Security & Compliance](https://www.labcorp.com/content/labcorp/us/en/compliance)
     
