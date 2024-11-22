@@ -1,6 +1,6 @@
 top of page
 
-[![ReppublikaLogoColor.png](https://static.wixstatic.com/media/c61bc3_ba148be25aa1455db728be51d01f8ac7~mv2.png/v1/fill/w_441,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/ReppublikaLogoColor.png)](https://www.reppublika.com/)
+[![ReppublikaLogoColor.png](https://static.wixstatic.com/media/c61bc3_ba148be25aa1455db728be51d01f8ac7~mv2.png/v1/fill/w_441,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ReppublikaLogoColor.png)](https://www.reppublika.com/)
 
 [LOGIN](http://app.reppublika.com/home)
 
@@ -143,7 +143,7 @@ As of the 25th of May 2018, the responsible authority for any complaints regardi
 
 ​
 
-![ReppublikaLogoWhite.png](https://static.wixstatic.com/media/c61bc3_9f69bd3f98da4b3f93cddf8879930c99~mv2.png/v1/fill/w_77,h_15,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/ReppublikaLogoWhite.png)
+![ReppublikaLogoWhite.png](https://static.wixstatic.com/media/c61bc3_9f69bd3f98da4b3f93cddf8879930c99~mv2.png/v1/fill/w_77,h_15,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ReppublikaLogoWhite.png)
 
 ###### COMPANY
 
@@ -171,16 +171,16 @@ Reppublika Data Analytics & Technologies GmbH
 
 [\[email protected\]](https://www.reppublika.com/cdn-cgi/l/email-protection) 
 
-[![IAB_Austria.png](https://static.wixstatic.com/media/c61bc3_f85ade8b36554c7bbd10f68db48350c8~mv2.png/v1/fill/w_99,h_75,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/IAB_Austria.png)](https://www.bvdw.org/)
+[![IAB_Austria.png](https://static.wixstatic.com/media/c61bc3_f85ade8b36554c7bbd10f68db48350c8~mv2.png/v1/fill/w_99,h_75,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/IAB_Austria.png)](https://www.bvdw.org/)
 
 [![bvdw_Mitglied_neg.gif](https://static.wixstatic.com/media/c61bc3_c8b4e7256ecd46e692f7a2fd1ab39d4a~mv2.gif/v1/fill/w_97,h_71,al_c,usm_0.66_1.00_0.01,blur_3,pstr/bvdw_Mitglied_neg_gif.gif)](https://www.bvdw.org/)
 
 ##### Member of IAB Austria and of Germany's  Bundesverband Digitale Wirtschaft
 
-[![](https://static.wixstatic.com/media/82fcd3_99994e1b68424451a8bc63dad54b0e5f~mv2.png/v1/fill/w_41,h_42,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/82fcd3_99994e1b68424451a8bc63dad54b0e5f~mv2.png)
+[![](https://static.wixstatic.com/media/82fcd3_99994e1b68424451a8bc63dad54b0e5f~mv2.png/v1/fill/w_41,h_42,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/82fcd3_99994e1b68424451a8bc63dad54b0e5f~mv2.png)
 
-![](https://static.wixstatic.com/media/82fcd3_f9877785657b4cf983bf37d2047967a6~mv2.png/v1/fill/w_41,h_41,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/82fcd3_f9877785657b4cf983bf37d2047967a6~mv2.png)
+![](https://static.wixstatic.com/media/82fcd3_f9877785657b4cf983bf37d2047967a6~mv2.png/v1/fill/w_41,h_41,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/82fcd3_f9877785657b4cf983bf37d2047967a6~mv2.png)
 
-![](https://static.wixstatic.com/media/82fcd3_f9877785657b4cf983bf37d2047967a6~mv2.png/v1/fill/w_41,h_41,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/82fcd3_f9877785657b4cf983bf37d2047967a6~mv2.png)](https://www.reppublika.com/privacy-policy)
+![](https://static.wixstatic.com/media/82fcd3_f9877785657b4cf983bf37d2047967a6~mv2.png/v1/fill/w_41,h_41,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/82fcd3_f9877785657b4cf983bf37d2047967a6~mv2.png)](https://www.reppublika.com/privacy-policy)
 
 bottom of page
