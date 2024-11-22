@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 833 active visitors** | **Friday, November 22, 2024** |
+| **You are 1 of 589 active visitors** | **Friday, November 22, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -42,7 +42,7 @@ State Email Lists:
 |     |
 | --- |
 | Do you oppose Biden's anti-gun executive orders?  <br>Yes  <br>No  <br>Undecided |
-| [Current results](http://keepandbeararms.com/polls/pollmentorres.asp)  <br>[Earlier poll results](http://keepandbeararms.com/polls/pollmentorhist.asp)4776 people voted |
+| [Current results](http://keepandbeararms.com/polls/pollmentorres.asp)  <br>[Earlier poll results](http://keepandbeararms.com/polls/pollmentorhist.asp)4780 people voted |
 
 ![](/images/clear.gif)![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**Arms discourage and keep the invader and plunderer in awe, and preserve order in the world as well as property . . . Horrid mischief would ensue were the law-abiding deprived of the use of them. � Thomas Paine, Thoughts on Defensive War (1775).
+ **QUOTES TO REMEMBER**No human rights can exist without property rights. Since material goods are produced by the mind and effort of individual men, and are needed to sustain their lives, if the producer does not own the result of his effort, he does not own his life. -- Ayn Rand
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
