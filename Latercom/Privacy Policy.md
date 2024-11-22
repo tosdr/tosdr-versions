@@ -1388,8 +1388,6 @@ Phone number: 1-844-MAVRCK1
 
 [](https://later.com/)
 
-The best social media marketing app, influencer marketing management platform & Link in Bio tool.
-
 * [Later Social](https://later.com/index/)
     
     Later Social submenu
