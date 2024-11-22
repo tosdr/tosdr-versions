@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [The strategic imperative of operationalizing Consent & Preferences in modern marketing](https://www.onetrust.com/resources/the-strategic-imperative-of-operationalizing-consent--preferences-in-modern-marketing-webinar/)
 * [Virtual Lunch & Learn: A deep dive into OneTrust's Third Party Management capabilities](https://www.onetrust.com/resources/virtual-lunch-learn-a-deep-dive-into-onetrusts-third-party-management-capabilities-webinar/)
 * [The complete guide to third-party management](https://www.onetrust.com/resources/the-complete-guide-to-third-party-management-ebook/)
-* [Staying equipped for compliance: A global recap of emerging privacy laws](https://www.onetrust.com/resources/staying-equipped-for-compliance-a-global-recap-of-emerging-privacy-laws-webinar/)
 
 ### Platform
 
