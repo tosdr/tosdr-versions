@@ -196,63 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Kobus Venter
+Shaun Gartshore
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=94562696)  
-Forgotten Goods (Pty) Ltd
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=76618369)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=103798960)  
-FX ACCOUNTING
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=49400274)  
+Echo Recording Studio cc
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=35689620)  
-Xpress Designs
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=115453406)  
+AMS Ambu Medical Supplies
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=14055338)  
-Bchange Online CC
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=3703699)  
+TechnoDezi PTY(LTD)
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=162092171)  
-VIR Electrical (PTY) LTD
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=156781099)  
+Leef in Afrikaans
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=122549618)  
-Lindani Protection Services & Projects
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=37710918)  
+Dombieterfontein (PTY) LTD
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=74018003)  
-APTV Telecoms CC
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=43774846)  
+CBR Verwe/Paints
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=198742631)  
-McKaynine Mobility
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=152896150)  
+BD Maintenance
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=146268176)  
-Lily Fern & Co
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=101647066)  
+Cape Adventure Zone
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=170804841)  
-kidoscabbie
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=180976280)  
+The Gourmet Artisans Ltd.
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=79798044)  
-Frameless Fanatix (Pty) Ltd.
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=116790320)  
+Vplay Grafix
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=136055611)  
-Highlands Auto Engineering
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=66335185)  
+LEONARD
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=177170801)  
-Lion Software Develepment
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=128892622)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=166549974)  
-Alliance Energy
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=180100427)  
+IYD
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=a3f31afe519917c9e7340ca0262b27754788908e399eb7da3cc9fdda9cbf53e3&c=27087955)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=1d45f3b4f474923f5356819d255417a6e09874d73f434c2abb352c85f18b6a15&c=24968915)  
+Tracknetics
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
