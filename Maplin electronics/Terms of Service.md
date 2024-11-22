@@ -820,7 +820,8 @@ Browse
         * [15% off Kodak Film Cameras](https://www.maplin.co.uk/collections/kodak-film-camera-deals)
         * [25% off Praktica Binoculars](https://www.maplin.co.uk/collections/praktica-binoculars-deals)
         * [Up to 20% off Praktica Cameras](https://www.maplin.co.uk/collections/praktica-camera-deals)
-        * [Up to £30 off Road Angel](https://www.maplin.co.uk/collections/road-angel-deals)
+        * [Up to £100 off Road Angel](https://www.maplin.co.uk/collections/road-angel-deals)
+        * [Up to £50 off Pentax Cameras](https://www.maplin.co.uk/collections/pentax-camera-deals)
         
     * Stage & Audio Deals
         
@@ -850,6 +851,7 @@ Browse
         * [Extra 5% off Maplin Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
         * [15% off Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys-deals)
         * [Up to £50 off Security Tech](https://www.maplin.co.uk/collections/security-deals)
+        * [Up to 30% off OtterBox](https://www.maplin.co.uk/collections/otterbox-deals)
         
     * Other Deals
         
@@ -1650,7 +1652,8 @@ Browse
     * [15% off Kodak Film Cameras](https://www.maplin.co.uk/collections/kodak-film-camera-deals)
     * [25% off Praktica Binoculars](https://www.maplin.co.uk/collections/praktica-binoculars-deals)
     * [Up to 20% off Praktica Cameras](https://www.maplin.co.uk/collections/praktica-camera-deals)
-    * [Up to £30 off Road Angel](https://www.maplin.co.uk/collections/road-angel-deals)
+    * [Up to £100 off Road Angel](https://www.maplin.co.uk/collections/road-angel-deals)
+    * [Up to £50 off Pentax Cameras](https://www.maplin.co.uk/collections/pentax-camera-deals)
     
     [Stage & Audio Deals](https://www.maplin.co.uk/collections/audio-deals)
     
@@ -1677,6 +1680,7 @@ Browse
     * [Extra 5% off Maplin Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
     * [15% off Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys-deals)
     * [Up to £50 off Security Tech](https://www.maplin.co.uk/collections/security-deals)
+    * [Up to 30% off OtterBox](https://www.maplin.co.uk/collections/otterbox-deals)
     
     [Other Deals](https://www.maplin.co.uk/collections/deals)
     
