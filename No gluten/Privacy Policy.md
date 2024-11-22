@@ -260,8 +260,6 @@ Connect with me
 
 [](https://twitter.com/noglutenio)[](https://www.facebook.com/noglutenio/)[](https://instagram.com/noglutenio/)[](https://www.pinterest.com/noglutenio/)
 
-![Brian Jackson](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='130'%20height='130'%20viewBox='0%200%20130%20130'%3E%3C/svg%3E)
-
 ![Brian Jackson](https://nogluten.com/wp-content/uploads/2020/01/brian-jackson.png)
 
 **Hi there, I'm Brian.**  
@@ -270,35 +268,25 @@ I was diagnosed with Ulcerative Colitis at 27. Going gluten-free literally saved
 You may also like
 -----------------
 
-[![icelandic glacial water vs fiji water](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1600'%20height='832'%20viewBox='0%200%201600%20832'%3E%3C/svg%3E)
-
-![icelandic glacial water vs fiji water](https://nogluten.com/wp-content/uploads/2015/05/icelandic-glacial-water-vs-fiji-water-1.jpg)](https://nogluten.com/alkaline-water-icelandic-glacial-water-vs-fiji-water/)
+[![icelandic glacial water vs fiji water](https://nogluten.com/wp-content/uploads/2015/05/icelandic-glacial-water-vs-fiji-water-1.jpg)](https://nogluten.com/alkaline-water-icelandic-glacial-water-vs-fiji-water/)
 
 [Alkaline Water: Icelandic Glacial Water Vs Fiji Water](https://nogluten.com/alkaline-water-icelandic-glacial-water-vs-fiji-water/)
 -----------------------------------------------------------------------------------------------------------------------------------
 
-[![gluten-free fad](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='830'%20height='450'%20viewBox='0%200%20830%20450'%3E%3C/svg%3E)
-
-![gluten-free fad](https://nogluten.com/wp-content/uploads/2015/07/gluten-free-fad.jpg)](https://nogluten.com/gluten-free-fad/)
+[![gluten-free fad](https://nogluten.com/wp-content/uploads/2015/07/gluten-free-fad.jpg)](https://nogluten.com/gluten-free-fad/)
 
 [Why The Gluten-Free Fad Isn’t Going Anywhere](https://nogluten.com/gluten-free-fad/)
 -------------------------------------------------------------------------------------
 
-[![living with ulcerative colitis](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1600'%20height='832'%20viewBox='0%200%201600%20832'%3E%3C/svg%3E)
-
-![living with ulcerative colitis](https://nogluten.com/wp-content/uploads/2015/04/living-with-ulcerative-colitis-1.jpg)](https://nogluten.com/living-with-ulcerative-colitis/)
+[![living with ulcerative colitis](https://nogluten.com/wp-content/uploads/2015/04/living-with-ulcerative-colitis-1.jpg)](https://nogluten.com/living-with-ulcerative-colitis/)
 
 [Living with Ulcerative Colitis as an entrepreneur (I’m not done)](https://nogluten.com/living-with-ulcerative-colitis/)
 ------------------------------------------------------------------------------------------------------------------------
 
-[![gluten-free blogs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1600'%20height='832'%20viewBox='0%200%201600%20832'%3E%3C/svg%3E)
-
-![gluten-free blogs](https://nogluten.com/wp-content/uploads/2016/10/gluten-free-blogs.jpg)](https://nogluten.com/gluten-free-blogs/)
+[![gluten-free blogs](https://nogluten.com/wp-content/uploads/2016/10/gluten-free-blogs.jpg)](https://nogluten.com/gluten-free-blogs/)
 
 [50+ best gluten-free blogs to follow in 2024](https://nogluten.com/gluten-free-blogs/)
 ---------------------------------------------------------------------------------------
-
-![No Gluten](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='185'%20height='35'%20viewBox='0%200%20185%2035'%3E%3C/svg%3E)
 
 ![No Gluten](https://nogluten.com/wp-content/uploads/2017/07/no-gluten-logo-v2.svg)
 
