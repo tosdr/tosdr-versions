@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+    
+    ### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+    
     [![Missing: Joshua. Image provided by Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Missing-Joshua.-Image-provided-by-Southwark-MPS-360x180.png)](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
     
     ### [Missing: Police search for Southwark man](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
@@ -51,10 +55,6 @@
     [![Thurlow Street was the scene of the blaze. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/thurlow-street-10-pump-pic-3-360x180.webp)](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
     
     ### [Brigade tackles blaze in Walworth residential block](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
-    
-    [![Crystal Palace Subway. Credit: Historic England](https://southwarknews.co.uk/wp-content/uploads/2024/11/DP232790-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
-    
-    ### [Victorian Crystal Palace subway and South London cemetery among conservations making ‘good progress’](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+    
+    ### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+    
     [![Missing: Joshua. Image provided by Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Missing-Joshua.-Image-provided-by-Southwark-MPS-360x180.png)](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
     
     ### [Missing: Police search for Southwark man](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
@@ -136,10 +140,6 @@ View All Result
     [![Thurlow Street was the scene of the blaze. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/thurlow-street-10-pump-pic-3-360x180.webp)](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
     
     ### [Brigade tackles blaze in Walworth residential block](https://southwarknews.co.uk/news/brigade-tackles-blaze-in-walworth-residential-block/)
-    
-    [![Crystal Palace Subway. Credit: Historic England](https://southwarknews.co.uk/wp-content/uploads/2024/11/DP232790-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
-    
-    ### [Victorian Crystal Palace subway and South London cemetery among conservations making ‘good progress’](https://southwarknews.co.uk/area/crystal-palace/victorian-crystal-palace-subway-and-south-london-cemetery-among-conservations-making-good-progress/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -345,17 +345,17 @@ Website
 
 ### Popular Articles
 
-[![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
-
-### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
-
-[18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
-
 [![From left: Harrun, a biomedical student at KCL; Dennis at the Blue. R: An ambulance outside Guy's Hospital.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-14.37-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
 
 ### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
 
 [20th November 2024](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
+
+[![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+[18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
 
 [![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-120x86.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
 
@@ -363,11 +363,11 @@ Website
 
 [16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
 
-[![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+[![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
-### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
-[13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+[21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
 [![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-120x86.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
 
@@ -382,6 +382,12 @@ Website
 [19th November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-head-coach-aiming-to-humble-another-huge-football-club-ahead-of-saturdays-clash-with-sunderland/)
 
 ### Featured Articles
+
+[![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+
+### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+
+[21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
 [![Missing: Joshua. Image provided by Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Missing-Joshua.-Image-provided-by-Southwark-MPS-120x86.png)](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
 
@@ -412,12 +418,6 @@ Website
 ### [‘Haven’t they got enough money?’: Locals react as royals charge Guy’s and St Thomas’ Trust £11.4m to store ambulances on King’s land in Bermondsey](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
 
 [20th November 2024](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
-
-[![City of London Academy in Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/City-of-London-Academy-in-Southwark-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
-
-### [Parents who ‘shove’ screens in kids’ faces to blame for ADHD, says Bermondsey headteacher](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
-
-[20th November 2024](https://southwarknews.co.uk/area/bermondsey/parents-who-shove-screens-in-kids-faces-to-blame-for-adhd-says-south-london-headteacher/)
 
 ### USEFUL PAGES
 
