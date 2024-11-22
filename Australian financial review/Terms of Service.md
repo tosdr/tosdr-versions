@@ -339,7 +339,6 @@ Advertise
 
 ### [The stock set to propel one of WA’s richest back onto the Rich List](https://www.afr.com/rich-list/the-stock-set-to-propel-one-of-wa-s-richest-back-onto-the-rich-list-20241120-p5ks3m)
 
-* 1 hr ago
 * Yolanda Redrup
 
 * ### [Lonely Planet founders not content with giving away half their wealth](https://www.afr.com/wealth/people/lonely-planet-founders-not-content-with-giving-away-half-their-wealth-20241119-p5krsr)
