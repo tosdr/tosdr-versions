@@ -182,6 +182,8 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[With rising concerns about climate change, dental ![With rising concerns about climate change, dental practices can contribute to sustainability through small, effective actions. From reducing transportation emissions to minimizing single-use plastics, these strategies help make dental care more eco-friendly. Link in bio.](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCos-6JNLVb/) 
+
 [Surgical treatment strategies for aesthetic crown ![Surgical treatment strategies for aesthetic crown lengthening depend on gingival thickness and crestal bone position. Understanding the variations between cases, such as the need for osseous reduction or flap repositioning, is crucial for achieving optimal functional and aesthetic outcomes. Link in bio.⁠
 ⁠
 ⁠
@@ -224,13 +226,6 @@ Visit decisionsindentistry.com/ce or click the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCZXEZfvtKD/) 
-
-[Explore the dynamic role of occlusal guards in red ![Explore the dynamic role of occlusal guards in reducing muscle activity in the short term and safeguarding dental health. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCW5I2OhjeD/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
