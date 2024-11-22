@@ -196,7 +196,7 @@ Initializing search
             * [Contact Information](#contact-information)
             
         
-    * [Identity, affiliation, and registration](https://info.arxiv.org/help/registerhelp.html)
+    * [Identity, affiliation, and registration](https://info.arxiv.org/help/policies/identity_and_affiliation.html)
     * [Submission terms and agreement](https://info.arxiv.org/help/policies/submission_agreement.html)
     * [Paper ownership](https://info.arxiv.org/help/authority.html)
     * [General submission policies](https://info.arxiv.org/help/submit/index.html)
