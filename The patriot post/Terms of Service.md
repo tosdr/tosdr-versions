@@ -1,6 +1,6 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -201,20 +201,26 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34545)
+     [](https://patriotpost.us/cartoons/34554)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Ben Shapiro Newton’s Third Law of Politics](https://patriotpost.us/opinion/112206-newtons-third-law-of-politics-2024-11-21)
-*      [Gary Bauer Left-Wing Lunacy](https://patriotpost.us/opinion/112204-left-wing-lunacy-2024-11-21)
-*      [Ann Coulter The Enemy of My Enemy Is RFK](https://patriotpost.us/opinion/112203-the-enemy-of-my-enemy-is-rfk-2024-11-21)
-*      [Cal Thomas To Vet or Not to Vet](https://patriotpost.us/opinion/112202-to-vet-or-not-to-vet-2024-11-21)
-*      [Larry Elder Trump: From ‘Fascist’ to ‘Let’s Do Lunch’](https://patriotpost.us/opinion/112201-trump-from-fascist-to-lets-do-lunch-2024-11-21)
-*      [Laura Hollis Religious Belief and the 2024 Election](https://patriotpost.us/opinion/112200-religious-belief-and-the-2024-election-2024-11-21)
-*      [Hans von Spakovsky Getting New Leadership Confirmed Quickly for Next Trump Admin](https://patriotpost.us/opinion/112195-getting-new-leadership-confirmed-quickly-for-next-trump-admin-2024-11-21)
-*      [Allen West Constitutional Governance](https://patriotpost.us/opinion/112193-constitutional-governance-2024-11-21)
+*      [Mark Alexander Gaetz Out, Bondi In!](https://patriotpost.us/alexander/112249-gaetz-out-bondi-in-2024-11-22)
+*      [Hans von Spakovsky What Everyone Is Missing in the Argument Over Mass Deportation](https://patriotpost.us/opinion/112247-what-everyone-is-missing-in-the-argument-over-mass-deportation-2024-11-22)
+*      [Tim Graham Is It the End of the ‘Big Media Era’?](https://patriotpost.us/opinion/112243-is-it-the-end-of-the-big-media-era-2024-11-22)
+*      [Erick Erickson Worldview Matters](https://patriotpost.us/opinion/112241-worldview-matters-2024-11-22)
+*      [Josh Hammer What Was the Matt Gaetz Attorney General Pick Really About?](https://patriotpost.us/opinion/112239-what-was-the-matt-gaetz-attorney-general-pick-really-about-2024-11-22)
+*      [Victor Davis Hanson The Trump Counterrevolution Is a Return to Sanity](https://patriotpost.us/opinion/112237-the-trump-counterrevolution-is-a-return-to-sanity-2024-11-22)
+*      [David Harsanyi Don’t Trash the Constitution to Dunk on the Liberals](https://patriotpost.us/opinion/112236-dont-trash-the-constitution-to-dunk-on-the-liberals-2024-11-22)
+*      [Michael Barone Trump Gains Among Nonwhite People: Historical Precedent and Possible Harbinger](https://patriotpost.us/opinion/112235-trump-gains-among-nonwhite-people-historical-precedent-and-possible-harbinger-2024-11-22)
+*      [Michael Reagan Don’t Let Politics Spoil Thanksgiving](https://patriotpost.us/opinion/112234-dont-let-politics-spoil-thanksgiving-2024-11-22)
+*      [Jeff Jacoby No, Trump Didn’t Earn an ‘Unprecedented and Powerful’ Mandate](https://patriotpost.us/opinion/112245-no-trump-didnt-earn-an-unprecedented-and-powerful-mandate-2024-11-22)
+*      [Gary Bauer What’s Going On?](https://patriotpost.us/opinion/112231-whats-going-on-2024-11-22)
+*      [Mark Alexander Profiles of Valor: Reconciliation Among Warriors](https://patriotpost.us/alexander/112228-profiles-of-valor-reconciliation-among-warriors-2024-11-22)
+*      [The Washington Stand Four Messes Trump Will Have to Mop Up From Biden’s Military Fails](https://patriotpost.us/opinion/112233-four-messes-trump-will-have-to-mop-up-from-bidens-military-fails-2024-11-22)
+*      [The Babylon Bee Cheer Up, Libs: Here Are 10 Things You Can Still Be Thankful for This Year](https://patriotpost.us/opinion/112232-cheer-up-libs-here-are-10-things-you-can-still-be-thankful-for-this-year-2024-11-22)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +234,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“The best and only safe road to honor, glory, and true dignity is justice.” —George Washington (1779)
+“The great principles of right and wrong are legible to every reader; to pursue them requires not the aid of many counselors. The whole art of government consists in the art of being honest.” —Thomas Jefferson (1775)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
