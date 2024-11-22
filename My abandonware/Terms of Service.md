@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Zoo Tycoon 2: African Adventure](https://www.myabandonware.com/game/zoo-tycoon-2-african-adventure-tai)
 * [Zoo Tycoon 2: Endangered Species](https://www.myabandonware.com/game/zoo-tycoon-2-endangered-species-tah)
 * [ТрюкМания: Гонки экстремалов](https://www.myabandonware.com/game/tryukmaniya-gonki-ekstremalov-tag)
 * [Pro-Race: Запредельная скорость](https://www.myabandonware.com/game/pro-race-zapredelnaya-skorost-tae)
 * [Стритрейсеры](https://www.myabandonware.com/game/stritreysery-tad)
-* [BlockBall Evolution](https://www.myabandonware.com/game/blockball-evolution-ta5)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
