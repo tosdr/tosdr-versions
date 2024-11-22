@@ -20,16 +20,16 @@ Friday, November 22 2024
 
 Latest
 
-* [FCC passes auto safety spectrum rules](https://digitpatrox.com/fcc-passes-auto-safety-spectrum-rules/)
-* [Honkai Star Rail Sunday: Kit, Eidolons & Signature Light Cone](https://digitpatrox.com/honkai-star-rail-sunday-kit-eidolons-signature-light-cone/)
-* [HPE Discover Barcelona: What’s the business benefit of supercomputers?](https://digitpatrox.com/hpe-discover-barcelona-whats-the-business-benefit-of-supercomputers/)
-* [AI agents are unlike any technology ever – Computerworld](https://digitpatrox.com/ai-agents-are-unlike-any-technology-ever-computerworld/)
-* [Why the DOJ Wants Google to Sell Chrome (and How It Might Affect You)](https://digitpatrox.com/why-the-doj-wants-google-to-sell-chrome-and-how-it-might-affect-you/)
-* [Smart Appliances Could Expose Your WiFi to Hacking Risks](https://digitpatrox.com/smart-appliances-could-expose-your-wifi-to-hacking-risks/)
-* [5 Ways to Improve Your TV’s Sound Without a Full Sound System](https://digitpatrox.com/5-ways-to-improve-your-tvs-sound-without-a-full-sound-system/)
-* [Key Differences for Startup Success](https://digitpatrox.com/key-differences-for-startup-success/)
-* [Netflix just dropped a new Christmas movie — and it’s already grabbed the No. 1 spot](https://digitpatrox.com/netflix-just-dropped-a-new-christmas-movie-and-its-already-grabbed-the-no-1-spot/)
-* [Over 2,000 Palo Alto firewalls hacked using recently patched bugs](https://digitpatrox.com/over-2000-palo-alto-firewalls-hacked-using-recently-patched-bugs/)
+* [Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](https://digitpatrox.com/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-pcs/)
+* [Judge rules Sirius XM’s annoying cancellation process is illegal](https://digitpatrox.com/judge-rules-sirius-xms-annoying-cancellation-process-is-illegal/)
+* [How to Train Your Dragon Live-Action Director Claps Back at Fans Over Astrid Casting Backlash](https://digitpatrox.com/how-to-train-your-dragon-live-action-director-claps-back-at-fans-over-astrid-casting-backlash/)
+* [Finastra breach puts file transfer security in the spotlight, says expert](https://digitpatrox.com/finastra-breach-puts-file-transfer-security-in-the-spotlight-says-expert/)
+* [Windows 11 will soon be available on Meta Quest 3 headsets – Computerworld](https://digitpatrox.com/windows-11-will-soon-be-available-on-meta-quest-3-headsets-computerworld/)
+* [What Closing the Department of Education Could Mean for the FAFSA](https://digitpatrox.com/what-closing-the-department-of-education-could-mean-for-the-fafsa/)
+* [How Adopting a Cat Can Change Your Cleaning Habits](https://digitpatrox.com/how-adopting-a-cat-can-change-your-cleaning-habits/)
+* [The Best Tech Gifts for Photography Geeks in 2024](https://digitpatrox.com/the-best-tech-gifts-for-photography-geeks-in-2024/)
+* [HPE announces VM Essentials – the VMWare competitor that isn’t](https://digitpatrox.com/hpe-announces-vm-essentials-the-vmware-competitor-that-isnt/)
+* [Pay Once and Use This PDF Tool Forever](https://digitpatrox.com/pay-once-and-use-this-pdf-tool-forever/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/LkXbMw6BwFq1t-UwdzV1c5-RJBQ=/0x0:682x366/1200x628/filters:focal(341x183:342x184)/cdn.vox-cdn.com/uploads/chorus_asset/file/24035514/Fcyv3EnWQAEQFMm.png)](https://digitpatrox.com/fcc-passes-auto-safety-spectrum-rules/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/22/Windows_Recall.jpg)](https://digitpatrox.com/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-pcs/)
     
-    [FCC passes auto safety spectrum rules](https://digitpatrox.com/fcc-passes-auto-safety-spectrum-rules/)
+    [Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](https://digitpatrox.com/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-pcs/)
     
-    5 minutes ago
+    30 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/Sunday-Honkai-Star-Rail-Drip-Marketing.jpg)](https://digitpatrox.com/honkai-star-rail-sunday-kit-eidolons-signature-light-cone/)
+* [![](https://cdn.vox-cdn.com/thumbor/oJ8nIj9s3HdFos2lGY0xpAbhzBk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954043/VRG_Illo_STK427_Podcasting_playbars.jpg)](https://digitpatrox.com/judge-rules-sirius-xms-annoying-cancellation-process-is-illegal/)
     
-    [Honkai Star Rail Sunday: Kit, Eidolons & Signature Light Cone](https://digitpatrox.com/honkai-star-rail-sunday-kit-eidolons-signature-light-cone/)
+    [Judge rules Sirius XM’s annoying cancellation process is illegal](https://digitpatrox.com/judge-rules-sirius-xms-annoying-cancellation-process-is-illegal/)
     
-    21 minutes ago
+    47 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/ANxVNEo3cUg79ke7PYkDoQ-1200-80.jpg)](https://digitpatrox.com/hpe-discover-barcelona-whats-the-business-benefit-of-supercomputers/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Still-of-Hiccup-and-Astrid-from-How-To-Train-Your-Dragon.jpg)](https://digitpatrox.com/how-to-train-your-dragon-live-action-director-claps-back-at-fans-over-astrid-casting-backlash/)
     
-    [HPE Discover Barcelona: What’s the business benefit of supercomputers?](https://digitpatrox.com/hpe-discover-barcelona-whats-the-business-benefit-of-supercomputers/)
+    [How to Train Your Dragon Live-Action Director Claps Back at Fans Over Astrid Casting Backlash](https://digitpatrox.com/how-to-train-your-dragon-live-action-director-claps-back-at-fans-over-astrid-casting-backlash/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3608973-0-10586200-1732273399-Swarm2.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/ai-agents-are-unlike-any-technology-ever-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/QhXDydfx8Rnhp8fteDi5C-1200-80.jpg)](https://digitpatrox.com/finastra-breach-puts-file-transfer-security-in-the-spotlight-says-expert/)
     
-    [AI agents are unlike any technology ever – Computerworld](https://digitpatrox.com/ai-agents-are-unlike-any-technology-ever-computerworld/)
+    [Finastra breach puts file transfer security in the spotlight, says expert](https://digitpatrox.com/finastra-breach-puts-file-transfer-security-in-the-spotlight-says-expert/)
     
-    2 hours ago
+    3 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JD8484BZRB9C48TR4Y9RV6BZ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/why-the-doj-wants-google-to-sell-chrome-and-how-it-might-affect-you/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3611326-0-34246200-1732287252-03_comfort-100946615-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/windows-11-will-soon-be-available-on-meta-quest-3-headsets-computerworld/)
     
-    [Why the DOJ Wants Google to Sell Chrome (and How It Might Affect You)](https://digitpatrox.com/why-the-doj-wants-google-to-sell-chrome-and-how-it-might-affect-you/)
+    [Windows 11 will soon be available on Meta Quest 3 headsets – Computerworld](https://digitpatrox.com/windows-11-will-soon-be-available-on-meta-quest-3-headsets-computerworld/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 minutes ago
+* [30 minutes ago
     
-    ### FCC passes auto safety spectrum rules](https://digitpatrox.com/fcc-passes-auto-safety-spectrum-rules/)
-* [21 minutes ago
+    ### Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](https://digitpatrox.com/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-pcs/)
+* [47 minutes ago
     
-    ### Honkai Star Rail Sunday: Kit, Eidolons & Signature Light Cone](https://digitpatrox.com/honkai-star-rail-sunday-kit-eidolons-signature-light-cone/)
-* [2 hours ago
+    ### Judge rules Sirius XM’s annoying cancellation process is illegal](https://digitpatrox.com/judge-rules-sirius-xms-annoying-cancellation-process-is-illegal/)
+* [1 hour ago
     
-    ### HPE Discover Barcelona: What’s the business benefit of supercomputers?](https://digitpatrox.com/hpe-discover-barcelona-whats-the-business-benefit-of-supercomputers/)
+    ### How to Train Your Dragon Live-Action Director Claps Back at Fans Over Astrid Casting Backlash](https://digitpatrox.com/how-to-train-your-dragon-live-action-director-claps-back-at-fans-over-astrid-casting-backlash/)
 
 Most Popular Topics
 
-* [October 12, 2024
+* [4 days ago
     
-    ### Today’s Wordle Answer and Hints (October 12, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-october-12-2024/)
-* [3 weeks ago
+    ### What has happened to the Right to Repair?](https://digitpatrox.com/what-has-happened-to-the-right-to-repair/)
+* [August 14, 2024
     
-    ### 8K Will Never Be a Thing, Stop Trying to Make it a Thing](https://digitpatrox.com/8k-will-never-be-a-thing-stop-trying-to-make-it-a-thing/)
-* [3 weeks ago
+    ### Convenience has a cost, privacy has iPhone – Computerworld](https://digitpatrox.com/convenience-has-a-cost-privacy-has-iphone-computerworld/)
+* [September 7, 2024
     
-    ### Miniot’s split-flap clock is what nostalgia sounds like](https://digitpatrox.com/miniots-split-flap-clock-is-what-nostalgia-sounds-like/)
+    ### You Can Get a 9th-Gen iPad and Beats Flex Headphones on Sale for $300 Right Now](https://digitpatrox.com/you-can-get-a-9th-gen-ipad-and-beats-flex-headphones-on-sale-for-300-right-now/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### 5 Ways to Improve Your TV’s Sound Without a Full Sound System](https://digitpatrox.com/5-ways-to-improve-your-tvs-sound-without-a-full-sound-system/)
 * [4 hours ago
     
-    ### Key Differences for Startup Success](https://digitpatrox.com/key-differences-for-startup-success/)
+    ### How Adopting a Cat Can Change Your Cleaning Habits](https://digitpatrox.com/how-adopting-a-cat-can-change-your-cleaning-habits/)
 * [4 hours ago
     
-    ### Netflix just dropped a new Christmas movie — and it’s already grabbed the No. 1 spot](https://digitpatrox.com/netflix-just-dropped-a-new-christmas-movie-and-its-already-grabbed-the-no-1-spot/)
+    ### The Best Tech Gifts for Photography Geeks in 2024](https://digitpatrox.com/the-best-tech-gifts-for-photography-geeks-in-2024/)
+* [4 hours ago
+    
+    ### HPE announces VM Essentials – the VMWare competitor that isn’t](https://digitpatrox.com/hpe-announces-vm-essentials-the-vmware-competitor-that-isnt/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 11, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
