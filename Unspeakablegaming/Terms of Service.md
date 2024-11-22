@@ -44,21 +44,21 @@ Header - Shapes Theme
     * [![RED ICON T-SHIRT](//www.unspeakable.com/cdn/shop/files/DSC_1138.jpg?v=1732025904&width=700)
         
         RED ICON T-SHIRT](https://www.unspeakable.com/products/red-icon-t-shirt)
+    * [![ICON NOGGIN HAT](//www.unspeakable.com/cdn/shop/files/BigHat4_1.jpg?v=1731949221&width=700)
+        
+        ICON NOGGIN HAT](https://www.unspeakable.com/products/unspeakable-icon-noggin)
+    * [![SPLATTER NOGGIN HAT](//www.unspeakable.com/cdn/shop/files/BigHat2_1.jpg?v=1731949024&width=700)
+        
+        SPLATTER NOGGIN HAT](https://www.unspeakable.com/products/unspeakable-splatter-noggin)
+    * [![UNSPEAKABLE NOGGIN HAT](//www.unspeakable.com/cdn/shop/files/BigHat1_2.jpg?v=1731949147&width=700)
+        
+        UNSPEAKABLE NOGGIN HAT](https://www.unspeakable.com/products/unspeakable-noggin)
     * [![2024 HOLIDAY CARD](//www.unspeakable.com/cdn/shop/files/CardFront.png?v=1731949431&width=700)
         
         2024 HOLIDAY CARD](https://www.unspeakable.com/products/2024-holiday-card)
     * [![GREY T-SHIRT WITH BLUE FONT](//www.unspeakable.com/cdn/shop/files/DSC_1088.jpg?v=1729534063&width=700)
         
         GREY T-SHIRT WITH BLUE FONT](https://www.unspeakable.com/products/unisex-t-shirt)
-    * [![UNCHOMPABLE HAT](//www.unspeakable.com/cdn/shop/files/DSC_1087_1.jpg?v=1729087901&width=700)
-        
-        UNCHOMPABLE HAT](https://www.unspeakable.com/products/unchompable-hat)
-    * [![2024 ORNAMENT](//www.unspeakable.com/cdn/shop/files/DSC_1050.jpg?v=1727797820&width=700)
-        
-        2024 ORNAMENT](https://www.unspeakable.com/products/2024-ornament)
-    * [![GUUBER DECO CUBE](//www.unspeakable.com/cdn/shop/files/DSC_1069.jpg?v=1729006371&width=700)
-        
-        GUUBER DECO CUBE](https://www.unspeakable.com/products/guuber-deco-cube)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
