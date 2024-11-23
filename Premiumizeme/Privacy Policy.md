@@ -43,7 +43,7 @@ Terms of Service
 
 ### Introduction
 
-The following terms and conditions govern all use of the Premiumize.me website and all content, services and products available at or through the website (collectively, the Website", "Site" or "Service"). The Website is owned and operated by Phonalyse SPRL (the "Company"), doing business as Premiumize.me ("Premiumize.me", “we”, “us”, or “our”). The Website is offered subject to your acceptance without modification of all the terms and conditions contained herein and all other operating rules, policies and procedures that may be published from time to time on the Website (collectively, the “Agreement”).
+The following terms and conditions govern all use of the Premiumize.me website and all content, services and products available at or through the website (collectively, the Website", "Site" or "Service"). The Website is owned and operated by its Malaysian agent Meta Connect (the "Company"), doing business as Premiumize.me ("Premiumize.me", “we”, “us”, or “our”). The Website is offered subject to your acceptance without modification of all the terms and conditions contained herein and all other operating rules, policies and procedures that may be published from time to time on the Website (collectively, the “Agreement”).
 
 Please read this Agreement carefully before accessing or using the Service. By accessing or using any part of the Website, you agree to become bound by the terms and conditions of this Agreement. If you do not agree to all the terms and conditions of this Agreement, then you may not access the Website or use the Service. The Website is available only to individuals who are at least 18 years old.
 
@@ -179,7 +179,7 @@ The Website may contain links to other websites ("Third Party Sites"), as well a
 
 ### Applicable Law
 
-These conditions are governed by and construed in accordance with the laws of the Kingdom of Belgium, and the application of the United Nations Convention of Contracts for the International Sale of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country to residence. The Company and yourself both agree to submit to the non-exclusive jurisdiction of the courts of the Kingdom of Belgium, which means that you may make a claim to defend your consumer protection rights in regards to these Conditions of Use in Belgium, or in the EU country in which you reside.
+These conditions are governed by and construed in accordance with the laws of Malaysia, and the application of the United Nations Convention of Contracts for the International Sale of Goods is expressly excluded. The Company and yourself both agree to submit to the non-exclusive jurisdiction of the courts of Malaysia, which means that you may make a claim to defend your consumer protection rights in regards to these Conditions of Use in Malaysia.
 
 The European Commission provides a platform for online dispute resolution, which you can access at the following URL: https://ec.europa.eu/consumers/odr/. We prefer to resolve your requests in direct contact with you, so please contact our customer service. We are neither willing nor obliged to participate in alternative consumer dispute resolution proceedings.
 
