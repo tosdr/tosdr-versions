@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Trouble with Chicken](/wp-content/thumbnails/16608-100x70.jpg?x53432)
+* [![Secrets Of The Great Wall](/wp-content/thumbnails/16429-100x70.jpg?x53432)
     
-    The Trouble with Chicken
+    Secrets Of The Great Wall
     
-    With more than 1 in 4 pieces of raw chicken carrying salmonella, it is responsible for sickening and killing more of us than any other foodborne pathogen. The strains of salmonella that show up on th](https://documentaryheaven.com/trouble-with-chicken/ "The Trouble with Chicken")
-* [![Scientology And Me](/wp-content/thumbnails/822-100x70.png?x53432)
+    The Great Wall of China, it's been studied for decades but now new technology is revealing its secrets like never before. In this National Geographic special we see archaeologist Allan Maca, an exper](https://documentaryheaven.com/secrets-of-great-wall/ "Secrets Of The Great Wall")
+* [![Ireland’s Traveller Women](/wp-content/thumbnails/16378-100x70.jpg?x53432)
     
-    Scientology And Me
+    Ireland’s Traveller Women
     
-    John Sweeney investigates the Church of Scientology, endorsed by some major Hollywood celebrities, but which continues to face the criticism that it is less of a religion and more of a cult. Some form](https://documentaryheaven.com/scientology-and-me/ "Scientology And Me")
-* [![America’s Secret War](/wp-content/thumbnails/16623-100x70.jpeg?x53432)
+    Ireland, it's a place that has been long associated with religion and conservative values, but over the last few years, the country has reinvented itself as a new and progressive Ireland. In 2017, th](https://documentaryheaven.com/irelands-traveller-women/ "Ireland’s Traveller Women")
+* [![The Fundamentalists](/wp-content/thumbnails/2083-100x70.jpg?x53432)
     
-    America’s Secret War
+    The Fundamentalists
     
-    As the United States publicly engaged in the Vietnam War, there was a secret conflict raging right next door in the country of Laos. Under the direction of the CIA, a full-blown military operation to](https://documentaryheaven.com/americas-secret-war/ "America’s Secret War")
-* [![Lil Wayne: The Carter](/wp-content/thumbnails/6629-100x70.png?x53432)
+    In this documentary, Mark Dowd travels across the world to trace the origins of fundamentalism and find out how it developed into the global phenomenon it is today. He discovers fundamentalists of all](https://documentaryheaven.com/the-fundamentalists/ "The Fundamentalists")
+* [![Magic: The Gathering](/wp-content/thumbnails/9824-100x70.jpg?x53432)
     
-    Lil Wayne: The Carter
+    Magic: The Gathering
     
-    An in-depth look at the artist Dwayne LIL’ WAYNE Carter Jr, proclaimed by many as the “greatest rapper alive” With comprehensive and personal interviews with Lil’ Wayne, this film will also feature in](https://documentaryheaven.com/lil-wayne-the-carter/ "Lil Wayne: The Carter")
-* [![Al Capone](/wp-content/thumbnails/8207-100x70.jpeg?x53432)
+    Magic: The Gathering is a collectable card game, its strategic in nature, its got a little bit of hidden information were your hiding your cards from your opponent and playing them onto the battlefiel](https://documentaryheaven.com/magic-the-gathering/ "Magic: The Gathering")
+* [![Last Chance High](/wp-content/thumbnails/8760-100x70.jpg?x53432)
     
-    Al Capone
+    Last Chance High
     
-    Alphonse Gabriel "Al" Capone was an American gangster who led a Prohibition-era crime syndicate. The Chicago Outfit, which subsequently also became known as the "Cap](https://documentaryheaven.com/al-capone/ "Al Capone")
+    Located on the West Side of Chicago is a school best known for taking in the city's most at-risk teens its called the "Moses Montefiore Academy". The school itself is seen as a last resort for these y](https://documentaryheaven.com/last-chance-high/ "Last Chance High")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
