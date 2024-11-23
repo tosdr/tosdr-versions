@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Certified: Georgia election chief finalizes Trump’s win and statewide results](https://www.ajc.com/politics/trumps-2024-win-in-georgia-certified-by-secretary-of-state-brad-raffensperger/Q2DURKBX2FHKFGI3QUE34KVG5Y/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
