@@ -117,57 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Anri van der Linde
+Shaun Gartshore
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=145727649)  
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=126034772)  
+Printo
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=213290421)  
+NEW BEGINNINGS DESIGNS
+
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=57649324)  
+Druce Digital
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=214167511)  
+LEO DEVELOPMENT GROUP
+
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=164399747)  
+M's Frozen Delights
+
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=6245265)  
+Cooper Logistics (Pty) Ltd
+
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=38698769)  
+Fox Alarms & Security
+
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=142954376)  
+United Paintball Federation
+
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=122135037)  
+Tiny Cuddles Photography
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=57363835)  
 Skinz Printing & Branding
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=143892568)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=109893732)  
+Little Nutty Professors
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=46725485)  
-WIP Digital Solutions
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=91392571)  
+Website Café (PTY) LTD
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=190787008)  
-Goju Ryu Karate Centre
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=8397010)  
+Lindani Protection Services & Projects
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=110257736)  
-Gemini-IT Group
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=106343968)  
+West Coast Horse Trails
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=199023870)  
-ARCHITEK PTY LTD
-
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=109085269)  
-NIMAWELL
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=184082444)  
-OrgChart Hosting Pty Ltd
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=77205815)  
-Vplay Letsheng Mall
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=211851415)  
-Forgotten Goods (Pty) Ltd
-
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=125123099)  
-Iurus Inc
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=194785866)  
-OptaServ
-
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=198036585)  
-Blue Bulls Rugby Coaches Association
-
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=109466328)  
-Lion Software Develepment
-
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=140648138)  
-Imvubu General Trading
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=aa1e7d8330b3d90ab5ac4a23e98d73524fe78c6a08f5289f45ac537beb735e1e&c=109385660)  
+Frameless Fanatix (Pty) Ltd.
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
