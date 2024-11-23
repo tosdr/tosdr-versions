@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Terri Winfield
+Anri van der Linde
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=105142643)  
-Gemini-IT Group
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=102185083)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=8676722)  
-Vplay Letsheng Mall
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=99414050)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=40633147)  
-Sonic Electrical Services PTY Ltd
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=167266943)  
+Cooper Logistics (Pty) Ltd
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=163168734)  
-Imhoff Equestrian Centre
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=150770373)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=2074503)  
-Import Maaw
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=62188192)  
+Depot Diesel (Pty) Ltd
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=195904784)  
-Multi CNC Solutions CC
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=108521322)  
+Vplay Grafix
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=67001656)  
-Cooper Power South Africa (Pty) LTD
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=136154534)  
+Konsortium Operations (PTY) LTD
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=81444822)  
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=16243498)  
 Digifax (Pty) Ltd trading as Digirent
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=174237714)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=79887347)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=26516846)  
-Moremi Kitchens Rustenburg
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=193358361)  
+Little Nutty Professors
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=100592886)  
-Camp 4 Africa (Pty) Ltd
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=80602666)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=14885261)  
-MSPCloud (Pty) Ltd
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=209466181)  
+Import Maaw
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=194787835)  
-Westside Car Audio CC
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=51107275)  
+Immediate Health (pty)ltd
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=3608997)  
-IYD
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=102411597)  
+Cape Adventure Zone
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=42691375)  
-Salvage Genie
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=67809037)  
+Norton Medical & Consult - Namibia
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
