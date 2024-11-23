@@ -197,6 +197,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * Kitchen & Tabletop
 * Holiday
 * More
+* Sale
 
 * [Bath](https://www.houzz.com/products/bath-products)
 * [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles)
@@ -262,6 +263,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [TV Stands](https://www.houzz.com/products/entertainment-centers-and-tv-stands)
 * [Chaise Lounges](https://www.houzz.com/products/chaise-lounge-chairs)
 * [Ottomans & Poufs](https://www.houzz.com/products/ottomans-and-cubes)
+* [Best Selling Living Room](https://www.houzz.com/products/living-room-furniture/best-sellers--best-sellers)
 
 * [Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture)
 * [Beds](https://www.houzz.com/products/beds)
@@ -271,6 +273,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Bed Frames](https://www.houzz.com/products/bed-frames)
 * [Bedroom Sets](https://www.houzz.com/products/bedroom-furniture-sets)
 * [Mattresses](https://www.houzz.com/products/mattresses)
+* [Best Selling Bedroom](https://www.houzz.com/products/bedroom-furniture/best-sellers--best-sellers)
 
 * [Kitchen & Dining](https://www.houzz.com/products/kitchen-and-dining-furniture)
 * [Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools)
@@ -278,6 +281,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Dining Chairs](https://www.houzz.com/products/dining-chairs)
 * [Dining Room Sets](https://www.houzz.com/products/dining-sets)
 * [Sideboards & Buffets](https://www.houzz.com/products/buffets-and-sideboards)
+* [Best Selling Kitchen & Dining](https://www.houzz.com/products/kitchen-and-dining-furniture/best-sellers--best-sellers)
 
 * [Office](https://www.houzz.com/products/home-office-furniture)
 * [Desks](https://www.houzz.com/products/desks)
@@ -285,12 +289,14 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [File Cabinets](https://www.houzz.com/products/filing-cabinets)
 * [Office Chairs](https://www.houzz.com/products/office-chairs)
 * [Room Dividers](https://www.houzz.com/products/screens-and-room-dividers)
+* [Best Selling Office](https://www.houzz.com/products/home-office-furniture/best-sellers--best-sellers)
 
 * [Outdoor](https://www.houzz.com/products/patio-furniture)
 * [Outdoor Dining Furniture](https://www.houzz.com/products/outdoor-dining-furniture)
 * [Outdoor Lounge Furniture](https://www.houzz.com/products/outdoor-lounge-furniture)
 * [Outdoor Chairs](https://www.houzz.com/products/outdoor-chairs)
 * [Outdoor Benches](https://www.houzz.com/products/outdoor-benches)
+* [Best Selling Patio Furniture](https://www.houzz.com/products/patio-furniture/best-sellers--best-sellers)
 
 * [Furniture Sale](https://www.houzz.com/products/furniture/on-sale)
 * [Trending in Furniture](https://www.houzz.com/shop-houzz/furniture)
@@ -323,6 +329,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Toilets](https://www.houzz.com/products/toilets)
 * [Shower Doors](https://www.houzz.com/products/shower-doors)
 * [Showerheads & Body Sprays](https://www.houzz.com/products/showerheads-and-body-sprays)
+* [Best Selling Bathroom Fixtures](https://www.houzz.com/products/bathroom-fixtures/best-sellers--best-sellers)
 
 * [Bathroom Accessories](https://www.houzz.com/products/bathroom-accessories)
 
@@ -348,6 +355,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Runners](https://www.houzz.com/products/hall-and-stair-runners)
 * [Doormats](https://www.houzz.com/products/doormats)
 * [Rug Pads](https://www.houzz.com/products/rug-pads)
+* [Best Selling Rugs](https://www.houzz.com/products/rugs/best-sellers--best-sellers)
 
 * [Home Decor & Accents](https://www.houzz.com/products/home-decor)
 * [Pillows & Throws](https://www.houzz.com/products/pillows-and-throws)
@@ -356,6 +364,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Decorative Storage](https://www.houzz.com/products/decorative-storage)
 * [Faux Florals](https://www.houzz.com/products/artificial-flowers-and-plants)
 * [Bedding](https://www.houzz.com/products/bedding)
+* [Best Selling Home Decor](https://www.houzz.com/products/home-decor/best-sellers--best-sellers)
 
 * [Wall Decor](https://www.houzz.com/products/wall-decor)
 * [Mirrors](https://www.houzz.com/products/mirrors)
@@ -363,16 +372,20 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Artwork](https://www.houzz.com/products/artwork)
 * [Wallpaper](https://www.houzz.com/products/wallpaper)
 * [Wall Panels](https://www.houzz.com/products/wall-panels)
+* [Best Selling Wall Decor](https://www.houzz.com/products/wall-decor/best-sellers--best-sellers)
 
 * [Window Treatments](https://www.houzz.com/products/window-treatments)
 * [Curtains](https://www.houzz.com/products/curtains)
 * [Curtain Rods](https://www.houzz.com/products/curtain-rods)
 * [Blackout Curtains](https://www.houzz.com/products/curtains/features_window_treatments--Blackout)
 * [Blinds & Shades](https://www.houzz.com/products/blinds-and-shades)
+* [Best Selling Window Treatments](https://www.houzz.com/products/window-treatments/best-sellers--best-sellers)
 
 * [Outdoor Decor](https://www.houzz.com/products/outdoor-decor)
 * [Outdoor Cushions & Pillows](https://www.houzz.com/products/outdoor-cushions-and-pillows)
 * [Planters & Pots](https://www.houzz.com/products/outdoor-pots-and-planters)
+* [Best Selling Decor](https://www.houzz.com/products/outdoor-decor/best-sellers--best-sellers)
+* [Best Selling Lawn & Garden](https://www.houzz.com/products/lawn-and-garden/best-sellers--best-sellers)
 
 * [Rugs & Decor Sale](https://www.houzz.com/products/home-decor/on-sale)
 * [Trending in Rugs & Decor](https://www.houzz.com/shop-houzz/home-decor)
@@ -397,6 +410,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Mosaic Tile](https://www.houzz.com/products/mosaic-tile)
 * [Wall & Floor Tile](https://www.houzz.com/products/wall-and-floor-tile)
 * [Accent, Trim & Border Tile](https://www.houzz.com/products/accent-trim-and-border-tile)
+* [Best Selling Tile](https://www.houzz.com/products/tile/best-sellers--best-sellers)
 
 * [Whole House Remodel](https://www.houzz.com/products/home-improvement)
 * [Heating & Cooling](https://www.houzz.com/products/heating-and-cooling)
@@ -416,21 +430,26 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Flush-Mounts](https://www.houzz.com/products/flush-mount-ceiling-lighting)
 * [Ceiling Fans](https://www.houzz.com/products/ceiling-fans)
 * [Track Lighting](https://www.houzz.com/products/track-lighting)
+* [Best Selling Ceiling Lighting](https://www.houzz.com/products/ceiling-lighting/best-sellers--best-sellers)
 
 * [Wall Lighting](https://www.houzz.com/products/wall-lighting)
 * [Wall Sconces](https://www.houzz.com/products/wall-sconces)
 * [Swing Arm Wall Lights](https://www.houzz.com/products/swing-arm-wall-lamps)
 * [Display Lighting](https://www.houzz.com/products/display-and-picture-lights)
+* [Best Selling Wall Lighting](https://www.houzz.com/products/wall-lighting/best-sellers--best-sellers)
 
 * [Lamps](https://www.houzz.com/products/lamps)
 * [Table Lamps](https://www.houzz.com/products/table-lamps)
 * [Floor Lamps](https://www.houzz.com/products/floor-lamps)
 * [Desk Lamps](https://www.houzz.com/products/desk-lamps)
 * [Lamp Shades](https://www.houzz.com/products/lamp-shades)
+* [Best Selling Lamps](https://www.houzz.com/products/lamps/best-sellers--best-sellers)
 
 * [Outdoor Lighting](https://www.houzz.com/products/outdoor-lighting)
 * [Wall Lights & Sconces](https://www.houzz.com/products/outdoor-wall-lights-and-sconces)
 * [Landscape Lighting](https://www.houzz.com/products/landscape-lighting)
+* [Wall Lights & Sconces](https://www.houzz.com/products/outdoor-wall-lights-and-sconces)
+* [Best Selling Outdoor Lighting](https://www.houzz.com/products/outdoor-lighting/best-sellers--best-sellers)
 
 * [Lighting Sale](https://www.houzz.com/products/lighting/on-sale)
 * [Trending in Lighting](https://www.houzz.com/shop-houzz/lighting)
@@ -462,6 +481,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Tools & Gadgets](https://www.houzz.com/products/kitchen-tools-and-gadgets)
 
 * [Kitchen Fixtures](https://www.houzz.com/products/kitchen-fixtures)
+* [Best Selling Kitchen Fixtures](https://www.houzz.com/products/kitchen-fixtures/best-sellers--best-sellers)
 
 * [Kitchen & Tabletop Sale](https://www.houzz.com/products/kitchen-and-dining/on-sale)
 * [Trending in Kitchen & Tabletop](https://www.houzz.com/shop-houzz/kitchen)
@@ -532,6 +552,62 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 * [Buying Guides](https://www.houzz.com/products/houzz-buying-guides)
 
 * [View All Products](https://www.houzz.com/products)
+
+* [Bath Sale](https://www.houzz.com/products/bath-products/on-sale)
+
+* [Bathroom Vanities Sale](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)
+* [Bathroom Vanity Lighting Sale](https://www.houzz.com/products/bathroom-lighting-and-vanity-lighting/on-sale)
+* [Bathroom Mirrors Sale](https://www.houzz.com/products/bathroom-mirrors/on-sale)
+* [Bathroom Sinks Sale](https://www.houzz.com/products/bathroom-sinks/on-sale)
+* [Bathroom Faucets Sale](https://www.houzz.com/products/bathroom-faucets/on-sale)
+* [Bathtubs Sale](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles)
+
+* [Lighting Sale](https://www.houzz.com/products/lighting/on-sale)
+
+* [Pendant Lighting Sale](https://www.houzz.com/products/pendant-lighting/on-sale)
+* [Chandeliers Sale](https://www.houzz.com/products/chandeliers/on-sale)
+* [Ceiling Fans Sale](https://www.houzz.com/products/ceiling-fans/on-sale)
+
+* [Furniture Sale](https://www.houzz.com/products/furniture/on-sale)
+
+* [Living Room Furniture Sale](https://www.houzz.com/products/living-room-furniture/on-sale)
+* [Sofas and Sectionals Sale](https://www.houzz.com/products/sofas/on-sale)
+* [Accent Chairs Sale](https://www.houzz.com/products/armchairs-and-accent-chairs/on-sale)
+* [End Tables Sale](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)
+* [Living Room Tables Sale](https://www.houzz.com/products/living-room-tables/on-sale)
+* [TV Stands Sale](https://www.houzz.com/products/entertainment-centers-and-tv-stands/on-sale)
+* [Recliners Sale](https://www.houzz.com/products/recliner-chairs/on-sale)
+* [Platform Beds Sale](https://www.houzz.com/products/platform-beds/on-sale)
+* [Desks Sale](https://www.houzz.com/products/desks/on-sale)
+
+* [Dining Sale](https://www.houzz.com/products/kitchen-and-dining/on-sale)
+
+* [Dining Chairs Sale](https://www.houzz.com/products/dining-chairs/on-sale)
+* [Dining Tables Sale](https://www.houzz.com/products/dining-tables/on-sale)
+* [Bar Stools Sale](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)
+
+* [Decor Sale](https://www.houzz.com/products/home-decor/on-sale)
+
+* [Area Rugs Sale](https://www.houzz.com/products/area-rugs/on-sale)
+* [Wall Mirrors Sale](https://www.houzz.com/products/wall-mirrors/on-sale)
+
+* [Outdoor Sale](https://www.houzz.com/products/outdoor-products/on-sale)
+
+* [Patio Furniture Sale](https://www.houzz.com/products/patio-furniture/on-sale)
+
+* [Shop All Sale](https://www.houzz.com/products/on-sale)
+
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/4901cf8d073e6f51_4978-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--black-friday-sale)
+
+[![Kitchen Essentials Under $299](https://st.hzcdn.com/fimgs/b1c1d791073ea805_9493-w150-h150-b4-p0--home-design.jpg)
+
+Kitchen Essentials Under $299Up to 65% off](https://www.houzz.com/ideabooks/178767630)[![Black Friday Deals Under $199](https://st.hzcdn.com/fimgs/55218505073ea806_9495-w150-h150-b4-p0--home-design.jpg)
+
+Black Friday Deals Under $199Up to 75% off](https://www.houzz.com/ideabooks/178767844)[![Must-Have Furniture](https://st.hzcdn.com/fimgs/d91138c9073ea803_9492-w150-h150-b4-p0--home-design.jpg)
+
+Must-Have FurnitureUp to 75% off](https://www.houzz.com/ideabooks/178860888)[![Black Friday Favorites](https://st.hzcdn.com/fimgs/7b813d95073ea808_9497-w150-h150-b4-p0--home-design.jpg)
+
+Black Friday FavoritesUp to 70% off](https://www.houzz.com/ideabooks/178865007)
 
 Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gift-card)
 
