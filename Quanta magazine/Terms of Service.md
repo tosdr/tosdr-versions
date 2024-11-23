@@ -247,11 +247,11 @@ Past Week
 
 _By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-houston-edwards)
 
-[![An illustration of a man using a telescope to look at a constellation in the shape of a mathematical curve.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Elliptic-Curve-Record_crDaniel-Garcia-Thumbnail.webp)](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Meet-Luca_crRobertNeubeker-Thumbnail.webp)](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
 
-[#### New Elliptic Curve Breaks 18-Year-Old Record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
+[#### All Life on Earth Today Descended From a Single Cell. Meet LUCA.](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
 
-_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
+_By_ [Jonathan Lambert](https://www.quantamagazine.org/authors/jonathan-lambert)
 
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/11/PublicKeyCryptoExplainer-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
 
@@ -259,11 +259,11 @@ _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
 _By_ [John Pavlus](https://www.quantamagazine.org/authors/john-pavlus)
 
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Meet-Luca_crRobertNeubeker-Thumbnail.webp)](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
+[![An illustration of a man using a telescope to look at a constellation in the shape of a mathematical curve.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Elliptic-Curve-Record_crDaniel-Garcia-Thumbnail.webp)](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
 
-[#### All Life on Earth Today Descended From a Single Cell. Meet LUCA.](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
+[#### New Elliptic Curve Breaks 18-Year-Old Record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
 
-_By_ [Jonathan Lambert](https://www.quantamagazine.org/authors/jonathan-lambert)
+_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
 The Quanta Newsletter
 
