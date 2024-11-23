@@ -3,7 +3,7 @@
 Please confirm that you and not a robot are sending requests
 ============================================================
 
-We're sorry, but it looks like requests sent from your device are automated.   [Why might this happen?](https://yandex.com/support/smart-captcha/problems.html?form-unique_key=5573246143783001654)
+We're sorry, but it looks like requests sent from your device are automated.   [Why might this happen?](https://yandex.com/support/smart-captcha/problems.html?form-unique_key=5574665648728088426)
 
 JavaScript is disabled. After checkbox you will have additional check. [How to enable JavaScript?](https://yandex.com/support/common/browsers-settings/browsers-java-js-settings.html)
 
@@ -11,10 +11,10 @@ I'm not a robot Press to continue
 
 [SmartCaptcha by Yandex Cloud](https://cloud.yandex.com/services/smartcaptcha?utm_source=captcha&utm_medium=chbx&utm_campaign=security)
 
-If you have any problems, please use the [feedback form](https://yandex.com/support/smart-captcha/problems.html?form-unique_key=5573246143783001654)
+If you have any problems, please use the [feedback form](https://yandex.com/support/smart-captcha/problems.html?form-unique_key=5574665648728088426)
 
-5573246143783001654:1732315281
+5574665648728088426:1732336433
 
 ![](https://mc.yandex.ru/watch/10630330?ut=noindex)
 
-![](https://adfstat.yandex.ru/captcha?req_id=1732315281248193-10161590039460716921-balancer-l7leveler-kubr-yp-vla-103-BAL&unique_key=5573246143783001654)
+![](https://adfstat.yandex.ru/captcha?req_id=1732336433484837-4186484564705172656-balancer-l7leveler-kubr-yp-vla-196-BAL&unique_key=5574665648728088426)
