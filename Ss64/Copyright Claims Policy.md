@@ -72,7 +72,7 @@ Mirror Sites
 
 > While not expressly forbidden, mirror sites are not encouraged because duplicate pages on the internet tend to lower the google ranking of both sites. Of course if SS64.com were to disappear completely at some point in the future, then do 'mirror away'.
 > 
-> Something a number of people have done which works well (and stays up-to-date) is to save the main command list (in any web browser - File, Save as) that gives you an HTML page with all the links back to ss64.com. You can then copy the HTML into your own blog or forum.
+> Something a number of people have done which works well (and stays up-to-date) is to save the main command list (in any web browser - File, Save as) that gives you an HTML page with all the links back to SS64.com. You can then copy the HTML into your own blog or forum.
 
 Last updated: 1 Nov 2024
 
