@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
+* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
+* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
+* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Amazon Prime Video: Wie Sie 2,99 Euro je Monat zurück­fordern](https://www.test.de/Amazon-Prime-Videos-Werbung-6083427-0/ "Amazon Prime Video - Wie Sie 2,99 Euro je Monat zurückfordern")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Craft Beer: IPA und Pale Ale im Test: Die Sieger kommen von der See](https://www.test.de/craft-beer-ipa-pale-ale-test-6142292-0/ "Craft Beer: IPA und Pale Ale im Test - Die Sieger kommen von der See")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
+* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
+* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
 
 Service Stiftung Warentest
 
