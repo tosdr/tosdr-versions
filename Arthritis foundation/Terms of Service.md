@@ -394,7 +394,7 @@ _Revised April 27, 2021_
 
 Atlanta, GA
 
-41° Arthritis Index Beneficial
+42° Arthritis Index Beneficial
 
 [See More Details](https://www.arthritis.org/weather)
 
