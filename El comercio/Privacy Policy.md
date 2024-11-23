@@ -31,982 +31,1039 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-En su nueva novela, Sandra Araya ofrece una mirada al mundo de los muertos 
-===========================================================================
+¿Cuál es la historia de Vinotinto, equipo que estará en Liga Pro?
+=================================================================
 
-Tumbas indígenas despierta reflexiones sobre muerte y pertenencia en la novela de Sandra Araya.
------------------------------------------------------------------------------------------------
-
-![Sandra Araya explora migración, muerte y ritos funerarios. Foto: Instagram @sanrrangelica.](https://www.elcomercio.com/wp-content/uploads/2024/11/Sandra-Araya-Los-Enterramientps.jpg)
-
-**Sandra Araya**, escritora quiteña e hija de **migrantes chilenos**, aborda en su última novela **‘Los enterramientos’** temas profundos como **la muerte, los rituales indígenas** y el sentido de pertenencia.
-
-### Más noticias
-
-* [Sandra Araya crea un ‘thriller’ quiteño en ‘El espía, la carnada, el precio’](https://www.elcomercio.com/tendencias/libro-novela-policiaca-sandra-araya.html "https://www.elcomercio.com/tendencias/libro-novela-policiaca-sandra-araya.html")
-* [La escritora Sandra Araya ganó el Premio Las Linares](https://www.elcomercio.com/tendencias/sandraaraya-premiolaslinares-literatura-novela-lectura.html "https://www.elcomercio.com/tendencias/sandraaraya-premiolaslinares-literatura-novela-lectura.html")
-
-La novela, editada por el sello ecuatoriano **Severo** y ganadora del **premio Miguel Donoso Pareja 2023**, explora el hallazgo de **tumbas indígenas** en una hacienda y cómo este descubrimiento desata reflexiones sobre **los enterramientos** frente a las **normas funerarias occidentales**. Araya conecta estas historias con **preguntas universales** sobre la vida, la memoria y lo que queda tras la muerte, mientras revela una **crítica al ocultamiento de lo indígena** y al desarraigo inherente en la **experiencia migrante**. 
-
-**Migración en ‘Los enterramientos’** 
---------------------------------------
-
-La **migración** no solo es un contexto, sino un eje en **‘Los enterramientos’**. Araya, **hija de migrantes**, reflexiona sobre el **impacto emocional** de pertenecer a dos mundos y a ninguno a la vez: 
-
-“Los **hijos de migrantes** que nacen en otro país, siempre que no es el de sus padres, se ven abocados a una especie de **destierro interno**”. “Queremos regresar a una **tierra prometida** que en realidad nunca conocimos y que, en muchos casos, puede presentarse como una decepción”, señala la autora. 
-
-Araya destaca que la migración trasciende las **fronteras físicas** y se convierte en una **búsqueda de pertenencia** en espacios como el hogar y la familia: “La pertenencia ya no se vuelve solamente una **cuestión de naciones, de países, o fronteras**”, “la pertenencia, y es lo que he tratado también de mostrar en lo que escribo, tiene más que ver con ciertos espacios, como la casa”. 
-
-**La muerte como rito y memoria** 
-----------------------------------
-
-Otro pilar de la novela es **la muerte**, tratada no como un fin, sino como **un proceso de convivencia** con la memoria de los que ya no están. Inspirada en lecturas como la de la antropóloga belga **Virginie Despret**, Araya comenta: 
-
-“Cómo **convivir no con fantasmas, sino con los muertos** queridos”, “no olvidarlos, hacerlos parte de la vida cotidiana”. 
-
-La **pandemia** también influyó en esta reflexión, especialmente en lo relacionado con las **despedidas y los rituales**: “Me conmovió muchísimo la pandemia, cuando veíamos por televisión la gente alrededor del mundo que no podía **despedirse de sus muertos**”. “Tener la oportunidad de despedir a quién se va que es algo importante”, “no insisto para darle un cierre, ni para olvidarlo, ni para dar vuelta a la página, sino precisamente como un rito de paso”. 
-
-**Ritos funerarios: entre lo cotidiano y lo simbólico** 
---------------------------------------------------------
-
-En ‘Los enterramientos’, Araya explora cómo los **ritos funerarios** conectan a los vivos con los muertos. La autora ve a **l****a muerte como cotidiana**, higienizada, apartada de nuestras vidas. Es por lo que, en la obra hay un rescate de la relación humana cercana con los muertos, con **mayor peso simbólico**.  
-
-**Introspección y complejidad psicológica** 
---------------------------------------------
-
-Los **personajes de la novela** reflejan la habilidad de Araya para captar la riqueza psicológica de las emociones humanas. En este libro, la autora experimenta con la **primera persona** y profundiza en la individualidad de sus voces: 
-
-“La particularísima forma en que cada personaje percibe una situación, un objeto, un elemento”. 
-
-“A mí siempre me ha interesado mucho la introspección de los personajes más que la descripción, es puntillosa acerca de cómo se ven, de cómo se visten”. 
-
-**Familia y crítica a los paradigmas tradicionales** 
------------------------------------------------------
-
-Araya también cuestiona las **construcciones tradicionales** de la familia. La relación entre **Emma y Canaima**, dos de los personajes principales, es un ejemplo de esto: 
-
-“Todas las familias, en cierta manera, son **disfuncionales** y, a la vez, funcionales dentro de su dinámica propia”. “Poner en jaque estos estos términos como ‘familia tradicional’ para mí siempre ha sido muy importante”. 
-
-**Influencias literarias y descensos a los infiernos** 
--------------------------------------------------------
-
-La novela dialoga con figuras como Juan Carlos Onetti, **Juan Rulfo y María Luisa Bombal**. Según Araya, ‘Los enterramientos’ retoma el tema del descenso a los infiernos: 
-
-“A mí me interesó desde muy joven **los descensos clásicos al infierno** y creo que la literatura Latinoamérica hay mucho de eso”. “El **mundo de los muertos** no es algo que está completamente aislado del mundo de los vivos”. 
-
-**Una autora sin miedo a la evolución** 
-----------------------------------------
-
-Desde su primera novela, Araya reconoce una **transformación en su estilo** de escritura: 
-
-“**Me he soltado** un poco. Antes, sí tenía más problemas de envaramiento; me sentía, a veces, incómoda pensando en cómo iba a ser recibido lo que estaba escribiendo. Ahora, cuando estaba escribiendo, **me solté**”**.** 
-
-Conor McGregor pierde demanda civil por violación
-=================================================
-
-Conor McGregor, leyenda de la UFC y de las artes marciales mixtas, fue sentenciado tras una demanda por violación.
-------------------------------------------------------------------------------------------------------------------
-
-![Conor McGregor, leyenda de las artes marciales mixtas, durante su etapa en la UFC.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-22T134911.776.jpg)
-
-El luchador irlandés **Conor McGregor** deberá indemnizar con 248.603 euros a la mujer que le acusó de violación, según decidió este viernes un jurado compuesto por ocho mujeres y cuatro hombres en el Tribunal Superior de Dublín.
-
-Con este veredicto, el jurado ratificó la versión de **Nikita Hands**, de 35 años, en la demanda civil presentada contra McGregor y James Lawrence, amigo de la estrella de las artes marciales mixtas y quien ha resultado exculpado del incidente ocurrido en un hotel de Dublín en diciembre de 2018.
-
-Los representantes legales de la demandante habían pedido como indemnización **750** **000 euros** para realojar a su clienta, quien dejó la casa que había comprado con su entonces pareja tras la agresión. Asimismo, pidió **un millón** de euros por la pérdida de ingresos tras abandonar su trabajo en el salón de belleza por motivos de salud mental.
-
-### Más noticias:
-
-* [La ecuatoriana Eidy Macías hace historia y está cerca de la UFC](https://www.elcomercio.com/deportes/artes-marciales/eidy-macias-ecuatoriana-ufc-historia-the-talent.html "La ecuatoriana Eidy Macías hace historia y está cerca de la UFC")
-* [Mike Tyson y Jake Paul calientan la pelea de Netflix](https://www.elcomercio.com/deportes/boxeo/mike-tyson-jake-paul-pelea-netflix-cachetada.html "Mike Tyson y Jake Paul calientan la pelea de Netflix")
-* [Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil](https://www.elcomercio.com/deportes/futbol/angel-mena-seleccion-ecuador-retiro.html "Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil")
-
-A la salida del tribunal, **Hands** leyó un comunicado en el que aseguró que su victoria sirve como ejemplo para “cada niño y niña” de que “puedes defenderte sin importar quién sea la persona, y que se hará justicia”.
-
-Asimismo, instó a “**todas las víctimas de agresión sexual**” a que denuncien sin importar “cuánto miedo puedan tener”.
-
-Conor McGregor, inconforme con la decisión
-------------------------------------------
-
-Por su parte, al escuchar la sentencia, **McGregor**, acompañado en la sala por su pareja -Dee Devlin-, su madre -Margaret- y su hermana, entre otros familiares, sacudió la cabeza en señal de rechazo. Aquello después de asegurar durante el juicio que mantuvo con Hands relaciones sexuales consentidas.
-
-El juez Alexander Owens explicó hoy que la indemnización aborda los “**daños generales y especiales**“, que incluyen gastos médicos, que ha sufrido Hands por la agresión sexual. Sin embargo, aquello no contempla “daños ejemplarizantes ni agravados”, lo que hubiese elevado la cuantía.
-
-La defensa de Hands presentó durante el juicio **testimonios médicos** que confirmaron que ésta presentaba moratones y lesiones internas. Otro profesional sanitario reveló que tuvo que retirar con fórceps un tampón debido a que se encontraba en un lugar profundo de la vagina.
-
-Hands declaró que fue ‘**The Notorious**‘ quien le propuso relaciones sexuales, pero que se negó. Él trató de inmovilizarla en la cama en hasta en tres ocasiones hasta conseguirlo[.](https://en.wikipedia.org/wiki/Conor_McGregor "https://en.wikipedia.org/wiki/Conor_McGregor")
-
-La defensa de Conor McGregor
-----------------------------
-
-Los abogados de **McGregor** recurrieron a las imágenes de seguridad del hotel para argumentar que la denunciante presentaba una actitud festiva en todo momento. La versión la refrendó la testigo **Danielle Kealy**, la amiga que acompañó a Hands al lujoso ático del hotel donde ocurrieron los hechos.
-
-La estrella de las artes marciales mixtas, de 36 años, insistió durante este proceso en su inocencia. Además, subrayó que mantuvo sexo “**consentido, vigoroso y enérgico**“, pero “**no duro**” con Hands. A ella la conocía desde hace años porque ambos son de la misma zona de Dublín y tenían amigos en común.
-
-Ambos han reconocido asimismo que consumieron **alcohol y cocaína** durante las horas que duró la fiesta en el Beacon Hotel de la capital irlandesa.
-
-Al tratarse de una causa civil, el jurado no se ha pronunciado sobre la culpabilidad o inocencia de los demandados, pero tras aceptar que la denunciante fue violada por **McGregor**, el juez ha impuesto una indemnización que la defensa del deportista ha descrito como un intento de extorsión.
-
-En este sentido, los abogados de Hands han informado de que se han visto obligados a seguir la vía civil después de que la fiscalía rechazó presentar cargos al entender que no había perspectivas razonables de condena para **McGregor y Lawrence**.
-
-Lionel Messi anhela con regresar a Barcelona
-============================================
-
-Lionel Messi es el máximo ídolo del FC Barcelona, club donde ganó todos los títulos posibles.
----------------------------------------------------------------------------------------------
-
-![Lionel Messi durante su etapa con el FC Barcelona.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-22T133119.877.jpg)
-
-El delantero del Inter Miami y leyenda del **FC Barcelona, Lionel Messi**, habló sobre el club catalán, su actualidad con Hansi Flick y el gran talento generacional que poseen, destacando a los canteranos de alto nivel que están jugando.
-
-“Cuando se le da la oportunidad y la confianza, (los canteranos) responden de esta manera, porque **conocen el club mejor que nadie**, están acostumbrados a jugar desde chicos de la manera en la que se juega hoy (en el primer equipo). Cuando se los acompaña suceden estas cosas, como sucedió en otra época también”, ha afirmado.
-
-### Más noticias:
-
-* [Javier Mascherano será el nuevo DT de Lionel Messi y Campana](https://www.elcomercio.com/deportes/futbol/javier-mascherano-sera-el-nuevo-dt-de-lionel-messi-y-campana.html "Javier Mascherano será el nuevo DT de Lionel Messi y Campana")
-* [Lionel Messi jugará un amistoso con Argentina contra un rival inesperado](https://www.elcomercio.com/deportes/futbol/lionel-messi-jugara-un-amistoso-con-argentina-contra-un-rival-inesperado.html "Lionel Messi jugará un amistoso con Argentina contra un rival inesperado")
-* [El FC Barcelona, imparable, goleó en Champions](https://www.elcomercio.com/deportes/barcelona-champions-estrella-roja-goleada.html "El FC Barcelona, imparable, goleó en Champions")
-
-Lionel Messi y la actualidad del FC Barcelona
----------------------------------------------
-
-Estas palabras son un avance de la entrevista que el delantero argentino concedió a ‘El Nou Clam’, una serie documental de la televisión pública catalana sobre la creación del himno del 125 aniversario del **FC Barcelona** por parte del club, y que se emitirá de forma íntegra el 28 de noviembre, un día antes de la efeméride.
-
-Messi ha remarcado que no le sorprende el rendimiento de los jóvenes jugadores formados en La Masia, como el delantero **Lamine Yamal o el defensa Pau Cubarsí**. “Lo veo espectacular. No es algo nuevo, sino que pasó toda la vida, o por lo menos desde que llegué yo al Barcelona con 13 años”, ha comentado.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-22T133057.790-1024x683.jpg)
-
-Lionel Messi durante su etapa como juvenil en el FC Barcelona. Foto: X @FCBarcelona.
-
-Anhela con volver a Barcelona
------------------------------
-
-En otro extracto de la entrevista, el delantero ha incidido en el **vínculo emocional que mantiene con Barcelona** y Cataluña.
-
-“Más allá de que tuvimos que irnos de la ciudad y de Cataluña, en nuestra mente siempre está el día de mañana poder volver a vivir ahí, porque mis hijos, mi mujer y **yo extrañamos mucho nuestra vida en Barcelona**, porque tenemos amigos, dejamos muchísimas cosas allá”.
-
-“Mis hijos son catalanes, yo llevo toda mi vida viviendo allí. **Me siento de Barcelona**“, ha subrayado.
-
-Liga de Quito lidera el ‘Clásico Universitario’ contra U. Católica
-==================================================================
-
-Liga de Quito busca mantener su ventaja ante Universidad Católica para seguir con opciones de ganar la etapa de la Liga Pro.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Liga de Quito y Universidad Católica en el último enfrentamiento que tuvieron por la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-22T125015.471.jpg)
-
-**Liga de Quito** se enfrenta a **Universidad Católica** en la penúltima jornada de la segunda etapa de la Liga Pro. Ambos equipos aún tienen posibilidades de clasificar a la final, por lo que este será un partido crucial y complicado para ambas escuadras.
-
-El compromiso se jugará el **domingo 24 de noviembre en el Estadio Olímpico Atahualpa a las 15:30**, mismo horario en que Independiente del Valle recibirá a Macará. Esto se debe a que los rayados y los albos están igualados en puntos, 26 cada uno, y son los máximos favoritos para ganar la etapa.
-
-### Más noticias:
-
-* [Liga de Quito o IDV, ¿quién ganará la etapa según la IA?](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-quien-ganara-etapa-segun-inteligencia-artificial-ia.html "Liga de Quito o IDV, ¿quién ganará la etapa según  la IA?")
-* [Liga de Quito disputa dos finales con su sanción aún en el aire](https://www.elcomercio.com/deportes/futbol/liga-de-quito-disputa-dos-finales-con-su-sancion-aun-en-el-aire.html "Liga de Quito disputa dos finales con su sanción aún en el aire")
-* [FEF levanta sanción a Liga , ¿qué pasa con los puntos?](https://www.elcomercio.com/deportes/liga-quito-levantamiento-sancion-fef-puntos.html "FEF levanta sanción a Liga de Quito, ¿qué pasa con los puntos?")
-
-Cabe mencionar que **Liga de Quito** sumó 29 unidades en cancha, pero le fueron restados tres puntos por una sanción.
-
-Liga de Quito domina el historial
----------------------------------
-
-La rivalidad entre estos dos equipos comenzó en 1966, cuando se dio su primer enfrentamiento. Desde entonces, se han j**ugado 113 partidos**, y Liga de Quito ha dominado el historial.
-
-El **‘Rey de Copas’ se ha impuesto en 53 ocasiones,** mientras que la ‘Chatoleí’ ha ganado 30 veces y se han registrado 30 empates.
-
-En cuanto a goles, los azucenas **ha marcado 152**, mientras que Universidad Católica ha anotado 125.
-
-Liga de Quito mantiene una pequeña racha invicta
-------------------------------------------------
-
-La ‘U’ lleva **tres partidos consecutivos sin perder** ante Universidad Católica por el campeonato ecuatoriano.
-
-Esta racha comenzó en abril de 2023, cuando la ‘U’ **goleó 0-4 a su rival en el ‘Coloso del Batán’**. En aquel compromiso anotaron Alexander Alvarado, José Angulo, José Quintero y Jhojan Julio, de los cuales los dos últimos siguen en el equipo.
-
-Luego, los albos **ganaron 1-0** en noviembre de 2023 en el Estadio Rodrigo Paz Delgado, con gol de Jan Hurtado, lo que les permitió clasificar a la final de la Liga Pro y posteriormente ganar el título.
-
-El último enfrentamiento fue en mayo de este año en ‘Casa Blanca’, con victoria para Liga de Quito gracias a un autogol de Facundo Martínez en los minutos finales. Los goles fueron anotados por **Alex** **Arce** para la ‘U’ e Ismael Díaz para la ‘Chatoleí’.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Islandia sufre la séptima erupción volcánica en el último año
-=============================================================
-
-Se trata de la séptima erupción volcánica en la zona desde diciembre de 2023 y, en todas ellas, sólo se registró daños materiales.
+Cuniburo cambiará de nombre en 2025 a Vinotinto de Ecuador, sin embargo, su nuevo nombre obedece a un origen social y corporativo.
 ----------------------------------------------------------------------------------------------------------------------------------
 
-![Flujos de lava a través de una de las carreteras cerca de Grindavik, Península de Reykjanes, Islandia.](https://www.elcomercio.com/wp-content/uploads/2024/11/volcan-Grindavik-efe.jpg)
+![Jugadores del Club Vinotinto, futura filial del Vinotinto de Ecuador, en un partido.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-22T202024.845.jpg)
 
-Una erupción volcánica comenzó el jueves, 22 de noviembre de 2024, en la **península de Reykjanes** (suroeste de Islandia), la **séptima en el último año**, informó la Oficina Meteorológica de este país nórdico (IMO, por sus siglas en inglés).
+Con el ascenso de **Cuniburo** a la Serie A de la Liga Pro, este cambiará su nombre a **Vinotinto de Ecuador** en 2024. La modificación se dará después de que, a inicios de la temporada, el club de Cayambe fuese adquirido por los también propietarios del **Club Vinotinto** de Segunda Categoría.
 
-### Más noticias
+La escuadra tiene sus orígenes a nivel empresarial, desde la Corporación Zaimella, relata **Andrés Cordero**, gerente de marketing de la escuadra. A partir de la organización existen distintas iniciativas sociales y su proyecto bandera es el equipo futbolístico.
 
-* [Islandia prevé poner fin a la caza de ballenas en 2024](https://www.elcomercio.com/actualidad/mundo/islandia-fin-caza-ballenas-2024.html "https://www.elcomercio.com/actualidad/mundo/islandia-fin-caza-ballenas-2024.html")
-* [Estas son las mejores playas del mundo para visitar este año](https://www.elcomercio.com/tendencias/turismo/estas-mejores-playas-mundo-visitar.html "https://www.elcomercio.com/tendencias/turismo/estas-mejores-playas-mundo-visitar.html")
-* [Productos a menor costo desde cuatro países de Europa](https://www.elcomercio.com/actualidad/negocios/productos-menor-costo-cuatro-paises-europa.html "https://www.elcomercio.com/actualidad/negocios/productos-menor-costo-cuatro-paises-europa.html")
+### Más noticias:
 
-El **inicio de la erupción** se produjo pasada la medianoche, la longitud de la **fisura eruptiva** es de unos tres kilómetros y la **lava se desplaza** tanto en dirección este como oeste.
+* [Equipo de la Liga Pro se llamará Vinotinto Ecuador](https://www.elcomercio.com/deportes/cuniburo-cambio-nombre-vinotinto-ecuador.html "Equipo de la Liga Pro se llamará Vinotinto Ecuador")
+* [22 de Julio, primer clasificado para las semifinales del ascenso](https://www.elcomercio.com/deportes/futbol/ascenso-nacional-22julio-aviced-semifinales.html "22 de Julio, primer clasificado para las semifinales del ascenso")
+* [Deportivo Quito y los dos corazones de sus hinchas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-hinchas-dos-corazones-futbol.html "Deportivo Quito y los dos corazones de sus hinchas")
 
-La cercana localidad de Gríndavik ha vuelto a **ser evacuada**, al igual que la Laguna Azul, la popular atracción turística situada cerca del **aeropuerto internacional de Keflavik**, que no se ha visto afectado sin embargo.
+El fin de la iniciativa y las demás con las que cuenta es unir a la comunidad venezolana en Quito. Razón de ello es el nombre con el que contará el nuevo club y con el que se inició la propuesta, que es el que se encuentra en **Segunda Categoría.**
 
-La erupción es **“significativamente más pequeña”** que la anterior: la frecuencia estimada del flujo de lava es de unos 1 300 metros cúbicos por segundo, comparada con los **2 500 de la de agosto**.
+“**Estamos hablando aquí en Ecuador casi medio millón de venezolanos acá y hay muchas personas ecuatorianas que tienen nexo con venezolanos: digamos que estén casados, sean familiares, hayan nacido en Venezuela o vivieron allá.** Entonces, este universo se puede descender hasta un millón de personas que se sienten identificados o de alguna forma gozan de la cultura venezolana” relata Cordero.
 
-“Parece que la actividad de la erupción alcanzó su pico y que la fisura dejó de expandirse. Según mediciones del IMO, no hay señales de que la **actividad vaya a aumentar”**, consta en el último parte, difundido esta madrugada.
-
-Se trata de la **séptima erupción volcánica** en la zona desde diciembre de 2023 y, en todas ellas, sólo se registró daños materiales.
-
-Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito
-===============================================================================
-
-En el tradicional Saludo a San Francisco de Quito participaron 1 200 representantes de la comunidad educativa; llegaron al Palacio Municipal.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Estudiantes municipales realizaron el saludo al Alcalde de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-22T125209.084.jpg)
-
-Este viernes 22 de noviembre se realizó el tradicional **Saludo a la ciudad de San Francisco de Quito**, para dar inicio a las fiestas de la ciudad.
-
-### Más noticias
-
-* [Está listo el programa por las fiestas de Quito del 2024](https://www.elcomercio.com/actualidad/programa-fiestas-quito-2024.html "Está listo el programa por las fiestas de Quito del 2024")
-* [Incendios forestales modifican el inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/incendios-forestales-fiestas-quito-pregon.html "Incendios forestales modifican el inicio de las fiestas de Quito")
-* [Quitofest, las bandas y cantantes nacionales que debutarán en 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-bandas-nacionales-debutantes.html "Quitofest, las bandas y cantantes nacionales que debutarán en 2024")
-
-Saludo a San Francisco de Quito
--------------------------------
-
-Las **20 unidades educativas municipales**, una delegación inclusiva y de los Centros Municipales de Educación Inicial (Cemei) recorrieron el **Centro Histórico de Quito.**
-
-Los estudiantes se congregaron en el **bulevar 24 de Mayo** y avanzaron hasta el Palacio Municipal, ubicado en la Plaza Grande.
-
-El **alcalde de Quito, Pabel Muñoz,** recibió el saludo de los alumnos en nombre de la ciudad. Además, explicó que la calidad del sistema educativo municipal es uno de los retos de la Administración.
-
-Según el secretario de Educación, Zadkiel Cárdenas, la comunidad educativa del Municipio tiene más de 26 000 estudiantes, 1 300 docentes en 20 unidades educativas y 14 Cemei.
-
-Parte de esta comunidad realizó este **tradicional saludo** para dar inicio a los festejos de la capital por su fundación.
-
-El desfile
-----------
-
-Los estudiantes municipales partieron desde la 24 de Mayo y formaron una calle de honor con banderas de Quito para rendirle homenaje en sus **490 años de fundación.**
-
-En el evento también pusieron su toque de festejo las bandas de paz, bastoneras, bailes típicos, delegaciones de docentes y estudiantes.
-
-La Secretaría de Educación, Recreación y Deporte impulsó un acto para representar la **Cultura Metro** y, de esa manera, incentivar a los vecinos a cuidar el **Metro de Quito.**
-
-Al llegar a la Plaza Grande, los estudiantes realizaron el saludo oficial al Alcalde y le entregaron presentes como muestra de [cariño y respeto](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-22T131255.057-1024x683.jpg)
-
-El desfile salió del bulevar 24 de Mayo y llegó a la Plaza Grande. Foto: Quito Informa
-
-La mujer más pequeña y la más alta del mundo protagonizaron un emotivo encuentro
-================================================================================
-
-Las mujeres reflexionaron sobre sus vidas y los desafíos que enfrenta debido a sus estaturas extremas.
-------------------------------------------------------------------------------------------------------
-
-![Jyoti Amge es originaria de la India. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-22T131040.508.jpg)
-
-El pasado 21 de noviembre de 2024, en el emblemático **Savoy Hotel de Londres**, se celebró un encuentro extraordinario con motivo del **Día Mundial de los Récords Guinness**.
-
-Esta fecha honra los logros extraordinarios registrados en el **Libro Guinness de los Récords**, una de las publicaciones más **emblemáticas** del mundo.
-
-### **Más noticias:**
-
-* [Ángela Aguilar causa polémica con el lanzamiento de su muñeca](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-polemica-muneca-redes-sociales.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-polemica-muneca-redes-sociales.html")
-* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html")
-* [¿Quién es la novia de la hija mayor de Carlos Vives?](https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musica-novia-latin-grammy.html "https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musica-novia-latin-grammy.html")
-
-**La mujer más bajita y la más alta del mundo protagonizaron un emotivo encuentro**
------------------------------------------------------------------------------------
-
-**Jyoti Amge**, la mujer más pequeña del mundo, y **Rumeysa Gelgi**, la mujer más alta, protagonizaron un emotivo encuentro. La reunión se convirtió en un símbolo de la diversidad y la aceptación de las diferencias humanas.
-
-Ambas reflexionaron sobre sus vidas y los desafíos que enfrenta debido a sus estaturas extremas.
-
-**¿Quién es la mujer más pequeña del mundo?**
----------------------------------------------
-
-**Jyoti Amge**, originaria de **India** y con una estatura de solo 63 centímetros, es reconocida por su trabajo en **Bollywood, También, por** su participación en la serie **‘American Horror Story: Freak Show’**.
-
-A pesar de su condición de enanismo primordial, **Amge** utiliza su visibilidad para inspirar a otros y promover un mensaje de fortaleza y aceptación.
-
-> [View this post on Instagram](https://www.instagram.com/p/DCm-CUct_rS/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Jyoti Amge (@jyoti\_amge)](https://www.instagram.com/p/DCm-CUct_rS/?utm_source=ig_embed&utm_campaign=loading)
-
-Durante el encuentro, destacó cómo su tamaño le permitió conectar con personas alrededor del mundo y derribar estigmas relacionados con la altura.
-
-**¿Quién es la mujer más alta del mundo?**
+Un Vinotinto en primera y otro como filial
 ------------------------------------------
 
-Rumeysa Gelgi, de **Turquía**, mide 2 metros y 15 centímetros. Es abogada e investigadora. Diagnosticada con el síndrome de Marfan, Gelgi transformó su extraordinaria altura en una plataforma para abogar por la inclusión y demostrar que las diferencias no son obstáculos para el éxito.
+El **Club Vinotinto**, elenco original de la iniciativa, nació en 2021 e inició sus pasos en la categoría amateur del fútbol ecuatoriano. A partir de ello, este logró el ascenso hacia la Segunda Categoría, donde se encuentra en los cuartos de final y busca ascender a la Serie B[.](https://es.wikipedia.org/wiki/Serie_A_de_Ecuador "https://es.wikipedia.org/wiki/Serie_A_de_Ecuador")
 
-> [View this post on Instagram](https://www.instagram.com/p/DCou-zotW6g/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Guinness World Records (@guinnessworldrecords)](https://www.instagram.com/p/DCou-zotW6g/?utm_source=ig_embed&utm_campaign=loading)
+Con respecto a **Cuniburo**, este entró a formar parte del proyecto a inicios del 2024, antes de que inicie la temporada. Cordero relata que la idea inicial era realizar el cambio de nombre antes de que arranque la campaña, pero como no se logró, aquello se produjo una vez que esta finalizo.
 
-“Las limitaciones físicas no definen quiénes somos”, dijo en la reunión.
+A partir de los dos clubes, **Vinotinto de Ecuador** será el que dispute la Serie A de la Liga Pro y el Club Vinotinto permanezca como filial. Asimismo, desde aquel punto se espera también estructurar un equipo femenino y las divisiones formativas.
 
-Deportivo Quito y los dos corazones de sus hinchas
-==================================================
-
-¿Por qué los hinchas del Deportivo Quito aseguran tener dos corazones? Los chullas visitarán a Liga de Portoviejo.
-------------------------------------------------------------------------------------------------------------------
-
-![Jhony Marca y su hijo Martín en el partido entre Deportivo Quito y Liga de Portoviejo en el Nacional de Ascenso 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/AKD-2.jpg)
-
-Los hinchas del **Deportivo Quito**, de todas las edades, presumen de tener **dos corazones**: uno para vivir y otro para sufrir por el equipo.
-
-Esta frase, legado del mítico **César Pardo**, figura clave del Quito campeón de los años 60, resume esa pasión inquebrantable de una hinchada que ha sabido resistir las adversidades a lo largo de los años.
-
-### Más noticias:
-
-* [Robo de taquilla alerta el partido Liga de Portoviejo vs. Deportivo Quito](https://www.elcomercio.com/deportes/futbol/robo-taquilla-partido-liga-portoviejo-deportivo-quito.html "Robo de taquilla alerta el partido Liga de Portoviejo vs. Deportivo Quito")
-* [Deportivo Quito recibe respaldo de hinchas antes de viajar a Portoviejo](https://www.elcomercio.com/deportes/futbol/hinchas-deportivo-quito-jugadores-liga-portoviejo.html "Deportivo Quito recibe respaldo de hinchas antes de viajar a Portoviejo")
-* [Liga de Portoviejo confirmó horario para recibir al Deportivo Quito](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-deportivo-quito-nacional.html "Liga de Portoviejo confirmó horario para recibir al Deportivo Quito")
-
-Actualmente, el club azulgrana, cinco veces campeón de Ecuador, lleva casi 10 años en el descenso, pero la fe de su gente permanece firme.
-
-Cuando juega la ‘**Academia**‘, en el estadio hay hinchas de todas las edades. Desde los niños que se levantan temprano para ver a su equipo, hasta los más experimentados, con canas y recuerdos de gloria, todos se unen para apoyar al conjunto de la **Plaza del Teatro**.
-
-Deportivo Quito y sus hinchas
------------------------------
-
-El 17 de noviembre de 2024, el estadio **Gonzalo Pozo Ripalda** acogió a unos 15 mil hinchas del Deportivo Quito, que acudieron para el crucial partido contra **Liga de Portoviejo**.
-
-La mañana soleada acogió a los fieles azulgranas.
-
-**Wilmer Vizcaíno** y su hijo **Josué** llegaron en **Metro** al estadio, emocionados por vivir juntos la experiencia de apoyar al equipo.
-
-“Que mi hijo sea también del Quito es maravilloso, una **herencia divina**”, expresó Wilmer, de 36 años, orgulloso de transmitir su pasión a la siguiente generación.
-
-Ya cerca de uno de los accesos al escenario, **Carlos Ugmaña**, de 45 años, caminaba de la mano de su hijo Jesús Sebastián. “Es hermoso poder venir al estadio con tu hijo”, aseguró.
-
-En las gradas, **Susana Salvador**, de 70 años, llegó temprano para asegurarse de conseguir un lugar con buena visibilidad.
-
-“Estemos donde estemos, jamás nos cambiamos, por eso tenemos dos corazones, uno para vivir y otro para sufrir”, explicó Susana, mientras esperaba a sus familiares, incluyendo una de sus hijas, hincha de Liga de Quito.
-
-“Hasta mi hija me apoya cuando se trata del Deportivo Quito”, añadió.
-
-![Susana Salvador, de 70 años, hincha de Deportivo Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-31-1024x683.jpg)
-
-Susana Salvador, de 70 años, hincha de Deportivo Quito.
-
-A pocos pasos de ella, **Jhony Marca**, de 38 años, disfrutaba al máximo el ambiente, cantando las canciones de aliento y sosteniendo en brazos a su primogénito, Martín, de solo 10 meses.
-
-El pequeño, con su camiseta del Deportivo Quito, movía los brazos al ritmo de los cánticos, mientras su padre, orgulloso, coreaba “Vamo AKD, vamo AKD…”.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCrtgaCBmKc/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DCrtgaCBmKc/?utm_source=ig_embed&utm_campaign=loading)
-
-Deportivo Quito visita a Liga de Portoviejo.
---------------------------------------------
-
-Este domingo 24 de noviembre, el Deportivo Quito se enfrentará a Liga de Portoviejo en un cotejo clave por el ascenso. El partido será en el estadio **Reales Tamarindos** a las 15:00.
-
-Tras caer 0-1 en la ida, los hinchas siguen convencidos de que la remontada es posible.
-
-Con sus **dos corazones** latiendo fuerte, aseguran que el amor por los colores azulgranas nunca se apaga, y la esperanza se mantiene viva.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-32-1024x683.jpg)
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-35-1024x683.jpg)
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-34-1024x683.jpg)
-
-El Nacional reclama a la FEF por falta de apoyo
-===============================================
-
-Marco Pazos, presidente de El Nacional, lanzó duras críticas a la Federación Ecuatoriana de Fútbol (FEF) por el momento del club.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Gabriel Cortez, futbolista de El Nacional, en un partido de la Copa Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/20241031135336-fbl-copa-ecuador-nacional-mushuc-runa-scaled.jpg)
-
-**El Nacional** atraviesa una crisis económica y desde su directiva se reclamó a la Federación Ecuatoriana de Fútbol (FEF) por falta de pagos. Marco Pazos, presidente del club, señaló que no ha existido apoyo de parte de la entidad y se les adeudan premios de la **Copa Ecuador**.
-
-Al cierre del 2024, los puros criollos afrontan un duro momento a nivel administrativo con **valores impagos** a acreedores y a su plantilla. Asimismo, los futbolistas del conjunto rojo han protestado en reiteradas ocasiones por el incumplimiento de sus salarios.
-
-### Más noticias:
-
-* [Barcelona Sporting Club aplastó a El Nacional en amistoso](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-nacional-amistoso.html "Barcelona Sporting Club aplastó a El Nacional en amistoso")
-* [El Nacional lanza una campaña para superar la crisis financiera](https://www.elcomercio.com/deportes/futbol/nacional-ayuda-hinchas-crisis-crowdfunding-radioton.html "El Nacional lanza una campaña para superar la crisis financiera")
-* [Deportivo Quito avanza en el Nacional de Ascenso tras incumplimiento de Toreros](https://www.elcomercio.com/deportes/futbol/deportivo-quito-avanza-cuartos-final-toreros.html "Deportivo Quito avanza en el Nacional de Ascenso tras incumplimiento de Toreros")
-
-Bajo aquel contexto, la escuadra que dirige Marcelo Zuleta debe afrontar las últimas dos fechas de la Liga Pro. Pese a ello, el equipo ya clasificó a la **Copa Libertadores 2025** gracias a que alcanzó la final de la Copa Ecuador, que jugará el 27 de noviembre del 2024 ante Independiente del Valle.
-
-Con respecto al último torneo mencionado y al accionar de la FEF en cuanto a premios y montos solicitados, Pazos relató en Radio La Red cuál es la situación. A su vez, también se refirió a las respuestas que ha recibido y el papel de **Francisco Egas**, presidente de la institución.
-
-¿Qué pasa entre El Nacional y la FEF?
+Objetivos ambiciosos para la Liga Pro
 -------------------------------------
 
-Pazos manifestó que **El Nacional** ha solicitado a la FEF que se le adelanten valores pendientes de la Copa Ecuador y se le ha negado. De igual manera, sostuvo que su conjunto aún no cobra premios del mismo certamen.
+De cara a la participación que Vinotinto tendrá en la Serie A de la **Liga Pro en 2025**, Cordero señala que Juan Manuel Durán es uno de los líderes como director deportivo. Asimismo, la escuadra no espera el solo mantener la categoría, sino ser protagonista.
 
-“**Pedí a la FEF que nos adelanten, que nos crucen, que hagan algo, la respuesta ha sido ‘no’. Ha sido totalmente negativa. En vez de querer ayudarnos han querido que solucionemos solos nuestros problemas y no es así.** Por defecto tenemos el premio del subcampeonato y ni de ahí nos han podido ayudar. Hablé con todo el mundo en la Federación para solicitar porque tenemos el fondo. No pido un préstamo sin garantías, nuestra garantía son los premios”, manifestó el dirigente[.](https://en.wikipedia.org/wiki/C.D._El_Nacional "https://en.wikipedia.org/wiki/C.D._El_Nacional")
+“**Esperamos adaptarnos rápido a esto para lograr grandes cosas. Ojalá entrar en campeonatos internacionales y también representar al Ecuador** (…) hay muchas personas (de la comunidad venezolana) que hacen cosas buenas, pero son esfuerzos aislados que a veces requieren de impulso adicional. Eso queremos cumplir nosotros alrededor, que la gente de la comunidad haga algo que le dé resalte acá en el país y que sea un aporte”, sostiene el funcionario del club.
 
-Dentro de su pronunciamiento especificó que los premios por los cotejos ante **Mushuc Runa, Liga de Quito y Deportivo Santo Domingo** no les han sido depositados. Asimismo, sostiene que desde la FEF no se han aceptado contactos con El Nacional.
+Dentro del trabajo que realizan el Vinotinto, este también espera que aquel sea una **retribución** hacia la acogida que le ha brindado el país. Asimismo, que se vincule con las demás áreas en las que se trabaja a nivel social y cultural.
 
-“**Mandé una carta porque también podemos solicitar el adelanto de Conmebol (Copa Libertadores) y no responden.** (…) Se le manda algo presidente y no responde, se le llama y no contesta (…) él se debe a todos los equipos y si se lo llama debe contestar”, agregó.
+Daniel Noboa relacionó las marchas con la campaña electoral
+===========================================================
 
-Recibimos el premio de mushuc runa, liga y santo domingo. Los que nos deben nos van a sancionar porque no les pagamos. 63 mil fef cuerpo técnico anterior
+El presidente Daniel Noboa habló sobre las marchas y la campaña electoral, en Los Ríos.
+---------------------------------------------------------------------------------------
 
-El Nacional también debe a la FEF
----------------------------------
+![En Los Ríos, el presidente Daniel Noboa habló de marchas y campaña electoral.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-marchas-campana-1.jpg)
 
-Pazos también sostuvo que El Nacional mantiene una deuda con la Federación Ecuatoriana de Fútbol debido a valores pendientes con el anterior cuerpo técnico de **Ever Hugo Almeida**. Este 22 de noviembre, el club realizará un pago de 63 mil dólares a la entidad.
+El presidente **Daniel Noboa** relacionó las **marchas** con la **campaña electoral** para las elecciones generales de 2025, este viernes 22 de noviembre de 2024.
 
-Con respecto a tal situación, **Pazos** manifestó que los mismos que deben al club son quienes pueden sancionarlo. A su vez, señaló que se han acumulado montos de las pasadas administraciones y se buscan soluciones económicas.
+Noboa hizo las declaraciones durante el discurso por la constatación de la rehabilitación del corredor vial E25 Buena Fe – Babahoyo, en **Los Ríos**.
 
-Calle se cierra por tres semanas, a la altura de la autopista General Rumiñahui
-===============================================================================
+### Más noticias:
 
-Esta vía conecta La Armenia y el 'camino viejo' a Conocoto; además, facilita la movilidad hacia la av. Simón Bolívar y autopista General Rumiñahui.
----------------------------------------------------------------------------------------------------------------------------------------------------
+* [Daniel Noboa habla de desestabilización, luego de las marchas de la oposición](https://www.elcomercio.com/actualidad/politica/daniel-noboa-desestabilizacion-marchas-oposicion.html "Daniel Noboa habla de desestabilización, luego de las marchas de la oposición")
+* [Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto](https://www.elcomercio.com/actualidad/politica/daniel-noboa-denuncia-irregularidades-marchas-decomiso-aeropuesto.html "Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto")
 
-![La calle Nela Martínez conecta La Armenia y Conocoto. Es una salida a la autopista.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-22T124248.347.jpg)
+Daniel Noboa, las marchas y la campaña electoral
+------------------------------------------------
 
-La **Empresa Metropolitana de Movilidad y Obras Públicas** (Epmmop) informó sobre los trabajos que se realizarán en la calle Nela Martínez, a la altura del puente 3 de la **autopista General Rumiñahui.**
+Las **marchas** convocadas por las organizaciones sindicales y otras en varias provincias del país provocaron la reacción del Gobierno de Daniel Noboa.
 
-### Más noticias
+Antes de las movilizaciones, el presidente sugirió que un **decomiso** de 2 millones de dólares en el Aeropuerto Internacional Mariscal Sucre de Quito sería para financiar las marchas.
 
-* [Autopista General Rumiñahui, congestionada este viernes 22 de noviembre](https://www.elcomercio.com/actualidad/ecuador/autopista-general-ruminahui-congestionada-este-viernes-22-de-noviembre.html "Autopista General Rumiñahui, congestionada este viernes 22 de noviembre")
-* [Siniestro en la autopista General Rumiñahui causa congestión vehicular](https://www.elcomercio.com/actualidad/quito/siniestro-autopista-general-ruminahui-causa-congestion-vehicular.html "Siniestro en la autopista General Rumiñahui causa congestión vehicular")
-* [Al menos cinco calles cerradas para atender incendio estructural en Quito](https://www.elcomercio.com/actualidad/quito/al-menos-cinco-calles-cerradas-para-atender-incendio-estructural-en-quito.html "Al menos cinco calles cerradas para atender incendio estructural en Quito")
+Luego de las protestas, la Presidencia emitió un comunicado en el que habló de intentos de **desestabilización** por parte de la vieja política.
 
-La intervención vial en Los Chillos
------------------------------------
+También tocó casos judiciales en los que están inmersos: **Danilo Carrera**, cuñado del expresidente Guillermo Lasso y **Walter Solís**, exministro de Rafael Correa.
 
-El Municipio de Quito inició el 21 de noviembre la intervención de la **calle Nela Martínez**, en Conocoto, una vía de 3,1 kilómetros.
+La mañana de este viernes en Los Ríos, el Presidente relacionó a los protagonistas de las marchas con actores políticos en **campaña**.
 
-Los trabajos se realizarán pro tramos, para garantizar el acceso y **rutas alternas** para los residentes de los sectores afectados:
+“Si un poco de conchudos, que hoy en día son candidatos o dirigentes de partidos políticos, quieren hacer una marcha que dicen que son **luchadores sociales** cuando están en campaña, que se aguanten no más hasta el 9 de febrero”, dijo.
 
-* Los Álamos
-* Monserrate Alto
-* Santo Domingo de Conocoto
-* Los Retoños
-* Poder Judicial
+Daniel Noboa demandó una “campaña limpia” de sus contendores y con la frase: “**les vamos a dar un paseo**”, dio a entender que ganará la Presidencia.
 
-Está previsto que la intervención se realice **durante 80 días**, con jornadas de trabajo divididas en turnos de 07:00 a 18:00 y de 18:30 a 05:00.
+En tanto, el ministro de Gobierno, **José de La Gasca**, manifestó que todos los sectores que están opuestos quieren desestabilizar.
 
-La calle **Nela Martínez es considerada estratégica**, pues conecta los barrios La Armenia, antigua vía a Conocoto y facilita la movilidad hacia la av. Simón Bolívar y autopista General Rumiñahui. La vía tiene ya más de 30 años de uso.
+De La Gasa expresó que, desde el Gobierno, rechazan el vandalismo, a personas infiltradas que quieren destruir al país. “Si quieren llegar al poder, **ganen en las urnas**“, dijo.
 
-La **calle Nela Martínez** soporta un flujo vehicular diario superior a los 7 800 usuarios. La AMT implementará un operativo de tránsito para asegurar la seguridad y fluidez en el tránsito.
+Pregón de fiestas de Quito se desarrolla en la Plaza de San Francisco
+=====================================================================
 
-> [#Atención](https://twitter.com/hashtag/Atenci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Por trabajos de asfaltado por parte de [@ObrasQuito](https://twitter.com/ObrasQuito?ref_src=twsrc%5Etfw), en la calle Nela Martínez, sector puente 3 de la Autopista General Rumiñahui, se ejecutarán cierres temporales durante 3️⃣semanas, desde el 21 de noviembre, entre las 7h30 y 17h30.🚧  
->   
-> 🚦Toma precauciones. [pic.twitter.com/g326Bs3pml](https://t.co/g326Bs3pml)
-> 
-> — Autopista Rumiñahui (@AutopistaGR) [November 21, 2024](https://twitter.com/AutopistaGR/status/1859715906538176718?ref_src=twsrc%5Etfw)
+Las fiestas de Quito comenzaron este viernes 22 de noviembre, para celebrar la fundación.
+-----------------------------------------------------------------------------------------
 
-Cuatro tramos de la obra
-------------------------
+![El pregón de las Fiestas de Quito se desarrolla en la Plaza de San Francisco.](https://www.elcomercio.com/wp-content/uploads/2024/11/Fiestas-de-Quito-1.jpg)
 
-La obra comienza en la calle **Camilo Ponce Enríquez,** en el sector conocido como la Y del barrio Los Álamos, y se extiende hasta la intersección con la calle Sebastián de Benalcázar en Los Retoños.
+El Centro Histórico resplandece con el **Pregón de San Francisco**, evento que abre oficialmente las Fiestas de Quito[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
 
-La planificación incluye cuatro tramos con **cierres viales progresivos** para minimizar el impacto en la movilidad local y garantizar accesos hacia la **autopista General Rumiñahui.**
+Más noticias
+------------
 
-Los tramos de intervención son:
+* [Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/estudiantes-municipales-saludo-alcalde-inicio-fiestas-de-quito.html "Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito")
+* [Eventos de fiestas de Quito del 21 de noviembre se aplazan por movilizaciones](https://www.elcomercio.com/actualidad/quito/eventos-de-fiestas-de-quito-del-21-de-noviembre-se-aplazan-por-movilizaciones.html "Eventos de fiestas de Quito del 21 de noviembre se aplazan por movilizaciones")
+* [Está listo el programa por las fiestas de Quito del 2024](https://www.elcomercio.com/actualidad/programa-fiestas-quito-2024.html "Está listo el programa por las fiestas de Quito del 2024")
 
-* El primer tramo comprende desde la calle Camilo Orejuela hasta la Patricio Arias e incluye la rehabilitación de la estructura asfáltica
-* El segundo tramo llega hasta el paso deprimido del puente 3 de la autopista General Rumiñahui. Los tramos dos y tres se ejecutarán en 30 días.
-* Los tramos tres y cuatro abarcan desde la salida del paso deprimido del puente 3 hasta la calle Benalcázar en La Armenia. Este tramo requiere [50 días de trabajos](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+Este espacio reúne a miles de personas en una celebración que enaltece la cultura, la música y las tradiciones de la capital.
 
-Sheinbaum se opone a la extradición del exministro Walter Solís
-===============================================================
+Inicio de las fiestas de Quito
+------------------------------
 
-Sheinbaum replicó lo dicho por la Secretaría de Relaciones Exteriores (SRE).
-----------------------------------------------------------------------------
+Según el historiador Carlos Garrido, las **Fiestas de Quito** surgieron en 1959 por el impulso de los medios de comunicación **EL COMERCIO y Últimas Noticias**, que promovieron la idea de festejar la fundación de la ciudad.
 
-![Claudia Sheinbaum en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/claudia-sheinbaum-discurso-efe.jpg)
+A partir de entonces, estas festividades captaron la atención de los **quiteños** y evolucionaron hasta convertirse en un **símbolo de unidad y orgullo local.**
 
-La presidenta de México, [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-exige-paz-tras-misil-balistico-rusia-ucrania.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-exige-paz-tras-misil-balistico-rusia-ucrania.html"), defendió este viernes, 22 de noviembre de 2024, la posición de su Gobierno de **no extraditar al exministro ecuatoriano Walter Solís**. Fue detenido en territorio mexicano por la Interpol ante acusaciones de corrupción, debido a su **estatus de “refugiado”.**
+El pregón da paso a la agenda cultural de las fiestas de Quito
+--------------------------------------------------------------
 
-### Más noticias
+El pregón, instaurado como el evento de apertura, destaca por su capacidad de adaptarse a las **necesidades** **culturales** de la época.
 
-* [Claudia Sheinbaum exige paz tras el misil balístico de Rusia en Ucrania](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-exige-paz-tras-misil-balistico-rusia-ucrania.html "Claudia Sheinbaum exige paz tras el misil balístico de Rusia en Ucrania")
-* [Claudia Sheinbaum propone fondo global en el G20 para la reforestación y la paz](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-propone-fondo-global-g20-reforestacion-paz.html "Claudia Sheinbaum propone fondo global en el G20 para la reforestación y la paz")
-* [Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-reafirma-confianza-buena-relacion-donald-trump.html "Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump")
+El programa de este año reúne a artistas como el Ñucanchi Allpa Ballet Folklórico Nacional y el Ensamble de Charangos Quito, quienes rinden tributo a las raíces culturales de la ciudad.
 
-“Se hizo la detención, pero de inmediato hubo la **comunicación entre las instituciones** para decir no, no puede ser ni extraditado ni llevado a Ecuador porque tiene el estatus de refugiado”, explicó la presidenta.
+Además, figuras destacadas como Pepita Naranjo Vargas y Juanita Burbano enriquecen la velada con interpretaciones que celebran la **música** **ecuatoriana**.
 
-El exfuncionario está acusado de actos de corrupción
-----------------------------------------------------
+Las autoridades tomaron medidas para garantizar la **seguridad** de los asistentes y motivan a la ciudadanía a participar activamente en las celebraciones.
 
-Sheinbaum replicó lo dicho por la **Secretaría de Relaciones Exteriores (SRE)**. Igualmente se aferró a la condición de **refugiado del arrestado** tras la petición de la **Corte Nacional de Justicia (CNJ) de Ecuador**. La semana pasada solicitó a las autoridades mexicanas la extradición del exfuncionario acusado de actos de corrupción.
+Inicialmente, el evento estaba programado para el 21 de noviembre, pero las **movilizaciones** sociales obligaron a reprogramarlo para el 22 de noviembre.
 
-La presidenta comentó que la detención se hizo porque Solís tenía una “**ficha roja de detención**” por parte de la Interpol. Sin embargo, gracias a la **buena coordinación** de las instituciones mexicanas se le mantuvo en el país en respeto a su condición de refugiado.
+Agenda de las fiestas de Quito
+------------------------------
 
-Walter Solís tiene una orden de prisión preventiva
---------------------------------------------------
-
-Solís es considerado presunto responsable de haber **abusado de bienes públicos**, por lo que cuenta con una orden de prisión preventiva en su país, aunque desde 2021 se encuentra refugiado en México.
-
-Ante ello, la Cancillería mexicana precisó también que al exministro lo protege el principio de la “no devolución” al país de origen, “establecido en la Convención del Estatuto sobre Refugiados y de la cual México es parte”.
-
-Asimismo, señaló que la SRE estuvo en comunicación permanente con la **Fiscalía General de la República (FGR) mexicana** para coordinar las acciones que deben **proceder de inmediato**, para así garantizar la libertad de Solís Valarezo “y el derecho que tiene a permanecer como residente en el país”.
-
-Walter Solís, quien ocupó la **cartera de Transporte y Obras Públicas**, es uno de los nueve imputados dentro del caso de las obras de reconstrucción tras el terremoto de 2016. La Fiscalía ecuatoriana halló indicios de **presunto peculado** (malversación de fondos públicos) en la presidencia de Rafael Correa (2007-2017).
-
-México rompió relaciones con Ecuador en abril de 2024
------------------------------------------------------
-
-México rompió las relaciones con Ecuador tras la **irrupción policial** a su embajada en abril pasado para detener a Jorge Glas, quien fue vicepresidente de Correa, está imputado por el mismo caso que Solís y al que el **Gobierno mexicano había dado asilo.** 
-
-Música y teatro en la agenda cultural de este 22, 23 y 24 de noviembre 2024 en Quito
-====================================================================================
-
-La agenda cultural de este fin de semana contempla una serie de actividades para grandes y chicos.
---------------------------------------------------------------------------------------------------
-
-![La agenda cultural contempla un tributo a Michael Jackson. Foto referencial: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-22T120908.074.jpg)
-
-Recorridos, obras de teatro y varios **conciertos** se realizarán este 22, 23 y 24 de noviembre 2024 en diferentes escenarios culturales de **Quito**. Te compartimos la agenda. 
-
-### **Más noticias:** 
-
-* [Quitofest, las bandas y cantantes nacionales que debutarán en 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-bandas-nacionales-debutantes.html "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-bandas-nacionales-debutantes.html")
-* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html?source=Internal&ref=Single+Content+Link")
-* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html?source=Internal&ref=Single+Content+Link")
-
-**Kudai canta en Quito**
-------------------------
-
-Para este 22 de noviembre, a las 20:30, está previsto el **‘Kudai Revive Tour’**. El punto de encuentro será en el **Club La Campiña**. Las entradas siguen a la venta. 
-
-> [View this post on Instagram](https://www.instagram.com/p/DCUmiElPoIm/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Centro Cultural Casa Toledo 🎭 (@casatoledoec)](https://www.instagram.com/p/DCUmiElPoIm/?utm_source=ig_embed&utm_campaign=loading)
-
-### **70 artistas se reunirán en la CCE**
-
-**Quiteñadas** se llama el espectáculo que reunirá a 70 artistas en el Teatro de la Casa de la Cultura Ecuatoriana; será este 23 de noviembre, desde las 15:00.
-
-Los organizadores confirmaron la animación de Narissa Sánchez y la dirección general del maestro Claudio Jácome. Los boletos se venden en la página web de **Buen Plan**.
-
-### **Tributo sinfónico a Michael Jackson**
-
-Los mejores temas del **‘Rey del Pop’** sonarán esta noche en el **Tributo a Michael Jackson**, previsto en el Teatro San Gabriel. El encuentro musical es organizado por la Fundación Faces, por su aniversario número 20. 
-
-### **Salsa en el Teatro San Gabriel**
-
-Melina Silva, Mateo Páez, Daniel Cajas, Sebastián Guamán, Sebastián Salazar y Daniel Páez se reunirán en el [Teatro San Gabriel](https://www.teatrosangabriel.com/ "https://www.teatrosangabriel.com/") para interpretar los mejor de El Gran combo, Héctor Lavoe, Willy Colón, Celia Cruz, Rubén Blades, Peter Conde Rodríguez, Oscar de León, Joe Arroyo, Franki Ruiz, Eddy Santiago, Lalo Rodríguez, Luis Enrique. La velada salsera será mañana, a las 19:00. 
-
-**Obras de teatro para grandes y chicos**
------------------------------------------
-
-Daniel Machado presenta la obra **‘Arrecho Ecuador’** en Casa Toledo; hoy y mañana, la función empezará a las 20:00, mientras que el domingo será a las 18:00.
-
-> [View this post on Instagram](https://www.instagram.com/p/DCUmiElPoIm/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Centro Cultural Casa Toledo 🎭 (@casatoledoec)](https://www.instagram.com/p/DCUmiElPoIm/?utm_source=ig_embed&utm_campaign=loading)
-
-“Un paseo por nuestra historia, geografía, música, glorias futbolísticas y esas jergas que solo entendemos entre la Costa y la Sierra”.
-
-Dos paradas de la Ecovía de Quito se cierran 10 días por rehabilitación
-=======================================================================
-
-Los trabajos de rehabilitación de la Ecovía continua esta semana. La avenida Tarqui se verá afectada.
------------------------------------------------------------------------------------------------------
-
-![Dos paradas de la Ecovía estarán inhabilitadas hasta el 2 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-74.jpg)
-
-La **rehabilitación vial** de la Ecovía en Quito implica el cierre de las paradas. Desde agosto, la Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop) trabaja en la rehabilitación integral de este sistema de transporte. Y anunció que, desde las **21:00** de este **22 de noviembre del 2024** y durante 10 días, dos nuevos cruces se cierran.
+1. **20 de noviembre, 10:00**
+    * **Lugar**: Basílica de Nuestra Señora de la Merced.
+    * **Evento**: Te Deum. Acto religioso de agradecimiento.
+2. **21 de noviembre, 14:00**
+    * **Lugar**: Plaza de San Francisco.
+    * **Evento**: Entrega de 2 000 títulos de propiedad a cargo de la Secretaría de Hábitat y Ordenamiento Territorial a través de la Unidad Especial Regula tu Barrio, acompañada por una muestra artística de identidad quiteña.
+3. **22 de noviembre, 18:00**
+    * **Lugar**: Centro de Eventos Bicentenario.
+    * **Evento**: ‘Las Voces Latinoamericanas Cantan a Quito’, tributo musical a cantautoras latinoamericanas.
+4. **26 de noviembre, 18:00**
+    * **Lugar**: Coliseo General Rumiñahui.
+    * **Evento**: Festival Chicha con Corbatín, homenaje a la música popular ecuatoriana.
+5. **27 de noviembre, 10:00**
+    * **Lugar**: Coliseo General Rumiñahui.
+    * **Evento**: Festival del Pasacalle del Adulto Mayor.
+6. **27 de noviembre, 18:00**
+    * **Lugar**: Coliseo General Rumiñahui.
+    * **Evento**: Festival de Pasacalle.
+7. **28 de noviembre, 19:00**
+    * **Lugar**: Teatro Capitol.
+    * **Evento**: Chispa Sal Quiteña Stand Up.
+8. **28 de noviembre, 17:00**
+    * **Lugar**: Avenida Amazonas y Patria.
+    * **Evento**: Desfile Mascarada Quiteña. Desfile nocturno de luces con participación educativa y cultural.
+9. **29 de noviembre, desde las 10:00**
+    * **Lugar**: Administraciones zonales del Valle de los Chillos y Tumbaco.
+    * **Evento**: Mega Feria Metropolitana Valle / Navidad Quiteña.
+10. **30 de noviembre, 10:00**
+    * **Lugar**: Avenida Teniente Hugo Ortiz.
+    * **Evento**: Desfiles de la Confraternidad Nacional Sur.
+11. **1 de diciembre, 10:00**
+    * **Lugar**: Avenida Los Shyris.
+    * **Evento**: Desfiles de la Confraternidad Nacional Norte.
+12. **3 de diciembre, 19:00**
+    * **Lugar**: Teatro Capitol.
+    * **Evento**: Chispa y Sal Quiteña Tradicional.
+13. **Del 5 al 7 de diciembre, 12:00**
+    * **Lugar**: Parque Bicentenario.
+    * **Evento**: Quinde Electro Fest, festival de música y celebración emblemática de la ciudad.
+14. **6 de diciembre, 15:00**
+    * **Lugar**: Teatro Nacional Sucre.
+    * **Evento**: Sesión Solemne.
+15. **7 y 8 de diciembre, 10:00**
+    * **Lugar**: Calderón.
+    * **Evento**: Mega Feria Metropolitana Norte / Navidad Quiteña.
+
+Fuerte choque dejó cuatro heridos en av. Velasco Ibarra, en Quito
+=================================================================
+
+Un siniestro de tránsito se produjo la tarde de este viernes 22 de noviembre. Cuatro personas resultaron heridas en el choque.
+------------------------------------------------------------------------------------------------------------------------------
+
+![El siniestro de tránsito involucró a dos vehículos; uno de ellos quedó volcado](https://www.elcomercio.com/wp-content/uploads/2024/11/velasco-ibarra-siniestro.jpg)
+
+Un **siniestro de tránsito** ocurrió la tarde este viernes 22 de noviembre de 2024, sobre la **av. Velasco Ibarra**, a la altura del puente peatonal de **La Vicentina**, en el centro norte de Quito.
 
 ### Más noticias
 
 * [Quito tendrá 247 cierres viales este domingo 24 de noviembre por competencia ciclística](https://www.elcomercio.com/actualidad/quito/quito-cierres-viales-competencia-ciclistica.html "Quito tendrá 247 cierres viales este domingo 24 de noviembre por competencia ciclística")
-* [Personajes del Centro Histórico cuentan los cambios de Quito y sus fiestas](https://www.elcomercio.com/actualidad/quito/fiestas-quito-centro-historico-personajes.html "Personajes del Centro Histórico cuentan los cambios de Quito y sus fiestas")
-* [Liga de Quito o IDV, ¿quién ganará la etapa según la IA?](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-quien-ganara-etapa-segun-inteligencia-artificial-ia.html "Liga de Quito o IDV, ¿quién ganará la etapa según  la IA?")
+* [Operativo para las movilizaciones impidió daños al espacio público de Quito](https://www.elcomercio.com/actualidad/quito/danos-quito-movilizaciones-marchas-21-noviembre.html "Operativo para las movilizaciones impidió daños al espacio público de Quito")
+* [Ministerio de Energía suspende cortes de luz en varios sectores de Quito este viernes](https://www.elcomercio.com/actualidad/quito/sectores-suspension-cortes-luz-quito.html "Ministerio de Energía suspende cortes de luz en varios sectores de Quito este viernes")
 
-Los cierres de la Ecovía afectan tres avenidas de la ciudad
------------------------------------------------------------
+El Cuerpo de **Bomberos** de Quito informó que, producto del fuerte impacto en el que estuvieron involucrados dos vehículos livianos, **cuatro personas resultaron heridas**.
 
-**Por los trabajos de rehabilitación de la Ecovía** de Quito se cerrarán dos paradas. Sin embargo, afectarán el tránsito en tres avenidas: la 6 de Diciembre, la 12 de Octubre, por donde continúa la Ecovía en su ruta hacia el playón de La Marín o hacia la parada De las Universidades.
+Los paramédicos de la institución brindaron **atención prehospitalaria** a los afectados y valoraron su situación[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
 
-La tercera avenida es la Tarqui, que une a las dos anteriores. En ese sentido, dos paradas quedarán deshabilitadas.
+> 🔄 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en la Av. Velasco Ibarra, a la altura del puente de La Vicentina.  
+>   
+> 👨🏼‍🚒 Cuatro personas resultaron afectadas y reciben atención prehospitalaria por parte de nuestros paramédicos.  
+>   
+> Por favor, conduce con responsabilidad. [#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/sDpn8LFH8u](https://t.co/sDpn8LFH8u)
+> 
+> — Bomberos Quito (@BomberosQuito) [November 22, 2024](https://twitter.com/BomberosQuito/status/1860088724106936579?ref_src=twsrc%5Etfw)
 
-Una es la de la Casa de la Cultura, en la 6 de Diciembre. La otra es la Eugenio Espejo, en donde se bajan aquellos que van al hospital, la Asamblea Nacional, la Contraloría General del Estado, la Procuraduría General del Estado, notarías y más.
+Vehículos se impactaron de frente
+---------------------------------
 
-Los cierres de la Ecovía y las alternativas
--------------------------------------------
+Según **testigos** del choque, cerca de las **17:00**, uno de los autos que circulaba en sentido norte-sur **invadió el otro carril** e impactó de frente a un vehículo.
 
-**En la av. 12 de octubre y av. Tarqui**
+El auto rojo quedó **volcado** en la calzada, destrozado de su parte frontal, al igual, que el otro automotor siniestrado.
 
-* Se cerrará el cruce en sentido sur-norte desde la avenida 12 de Octubre hacia la avenida Tarqui.
-* También se inhabilitará el paso desde la avenida Tarqui hacia el norte por la avenida 12 de Octubre.
-* Los usuarios pueden optar por desviar hacia la avenida 10 de Agosto o dirigirse al sur a través de la calle Queseras del Medio hacia El Trébol. El carril lateral sur-norte continuará operativo, permitiendo la circulación por el paso deprimido de Las Focas[.](https://es.wikipedia.org/wiki/Casa_de_la_Cultura_Ecuatoriana#:~:text=La%20Casa%20de%20la%20Cultura,todas%20las%20provincias%20del%20pa%C3%ADs. "https://es.wikipedia.org/wiki/Casa_de_la_Cultura_Ecuatoriana#:~:text=La%20Casa%20de%20la%20Cultura,todas%20las%20provincias%20del%20pa%C3%ADs.")
+Personeros de la Agencia Metropolitana de Tránsito (**AMT**) acudieron al lugar para colaborar con la movilidad.
 
-**Avenida 6 de Diciembre y avenida Tarqui**
-
-* Se cerrará el cruce que conecta con la avenida 10 de Agosto en sentido oriente-occidente.
-* También se inhabilitará el paso en sentido sur-norte proveniente del sector de La Contraloría.
-* Los carriles laterales permanecerán habilitados para el transporte público de la Ecovía y vehículos livianos.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/ecovia-mapa.jpg)
-
-Fuente: Epmmop
-
-La DANA que arrasó Valencia, la ‘más mortífera’ y ‘costosa’
-===========================================================
-
-En cuanto a las infraestructuras afectadas, hay que contar con al menos 1 500 kilómetros de carretera y 99 km de vías férreas.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Soldados y efectivos de la UME trabajan en labores de búsqueda en el barranco del Poio, en la localidad valenciana de Catarroja, este viernes.](https://www.elcomercio.com/wp-content/uploads/2024/11/DANA-22-noviembre-efe.jpg)
-
-La DANA que arrasó Valencia el pasado 29 de octubre “ya es la **catástrofe más mortífera en España** desde las inundaciones de 1973” en el este peninsular y “la **más costosa de los últimos 50 años** en cuanto a daños materiales”, según el presidente del **Observatorio de Catástrofes, Pedro Tomey.**
-
-### Más noticias
-
-* [La DANA pasa factura a enfermos crónicos y adultos mayores](https://www.elcomercio.com/actualidad/mundo/dana-pasa-factura-enfermos-cronicos-ancianos.html "La DANA pasa factura a enfermos crónicos y adultos mayores")
-* [La DANA llega a Málaga y Tarragona; Valencia está en nuevo riesgo](https://www.elcomercio.com/actualidad/mundo/dana-llega-a-malaga-y-tarragona-valencia-esta-en-riesgo.html "La DANA llega a Málaga y Tarragona; Valencia está en nuevo riesgo")
-* [Cantantes se movilizaron para socorrer a los damnificados por la Dana](https://www.elcomercio.com/tendencias/entretenimiento/cantantes-dana-solidaridad-afectados-dana.html "Cantantes se movilizaron para socorrer a los damnificados por la Dana")
-
-Tomey presentó hoy el informe **‘Barómetro de Catástrofes 2023’** durante el IX simposio de este observatorio de la **Fundación Aon España,** que analiza las **pérdidas humanas** provocadas por los siniestros naturales en España y su impacto en el **tejido productivo y el empleo,** así como en las infraestructuras críticas y el patrimonio histórico y cultural.
-
-48 000 empresas y 4 000 edificaciones afectadas
------------------------------------------------
-
-“Aunque aún es pronto para tener cifras definitivas”, las primeras estimaciones sobre la DANA que dejó según fuentes oficiales cerca de 230 muertos, afectó a unas **48 000 empresas y dañó más de 4 000 edificaciones** en una superficie de 500 kilómetros cuadrados, ha añadido.
-
-En cuanto a las infraestructuras afectadas, hay que contar con al menos **1 500 kilómetros de carretera** y 99 km de vías férreas “parcial o totalmente” dañados por la catástrofe.
-
-Otro punto castigado fue el de los cultivos y, en ese sentido, Agroseguro estima que la DANA asoló unas 25 500 hectáreas aseguradas -más las que no lo estaban- por lo que, según Tomey, el Consorcio de Compensación de Seguros ha recibido ya “alrededor de **200 000 reclamaciones de indemnización**”.
-
-A esto hay que añadir el alto número de indemnizaciones de los hogares y que en las zonas más afectadas, como la localidad de Paiporta, al menos **tres cuartas partes de los vehículos** han quedado siniestro total.
-
-Todos estos datos convierten la DANA de Valencia en el **peor siniestro** desde la riada que el 19 de octubre de 1973 arrasó el **sureste de la península ibérica** y provocó cerca de 180 víctimas mortales en las localidades murcianas de Puerto Lumbreras y Lorca y en las andaluzas de Zurgena, Vélez Rubio y Macael (Almería) y La Rábita (Granada).
-
-Tomey instó a “concienciar y educar a la población en la **cultura de la autoprotección**” además de “actualizar protocolos de actuación del sistema de **alertas tempranas** con identificación inequívoca de los responsables” para garantizar el **aviso de emergencias a la población** y “estrechar la brecha de la cobertura aseguradora.”
-
-Autoridades piden retirar vehículos
+Congestión vehicular tras siniestro
 -----------------------------------
 
-La retirada de vehículos de las campas habilitadas se convirtió en una prioridad del **Centro de Coordinación Operativa Integrada (Cecopi)** para evitar que sea un riesgo de orden público porque, además de convertirse en **elemento contaminante**, supone un potencial riesgo de incendio.
+Los agentes **cerraron temporalmente los carriles** izquierdo y central de la avenida Velasco Ibarra, en el sentido sur-norte, hasta que los Bomberos y la Policía realicen su trabajo.
 
-Se publicó otra orden conjunta de las **consejerías** de **Justicia y de Medio Ambiente** para regular la retirada de los **120 000 vehículos** que están acumulados en las **60 campas habilitadas**, según la directora general.
+Luego de unos minutos, **dos grúas** llegaron al sitio para retirar a los carros afectados.
 
-Propuesta de Daniel Noboa sobre bases militares tiene cronograma en la Asamblea
-===============================================================================
+Como consecuencia del choque, usuarios en redes sociales informaron una fuerte congestión vehicular en este punto y en calles cercanas, entre ellas, la **av. 12 de Octubre** y la calle **Madrid**.
 
-Daniel Noboa presentó la propuesta sobre las bases militares extranjeras en octubre de 2024.
---------------------------------------------------------------------------------------------
+La circulación de los conductores se habilitó de **forma paulatina**, sin embargo, hasta las 19:30, la AMT no ha confirmado la apertura de todos los carriles.
 
-![Daniel Noboa impulsa la reforma a la Constitución sobre bases militares extranjeras.](https://www.elcomercio.com/wp-content/uploads/2024/11/bases-militares.jpg)
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: Vicentina  
+> 🚧 Cierre: av. Velasco Ibarra y Solano.  
+> 🛣️ Carriles cerrados: dos carriles sobre la av. Velasco Ibarra sentido sur-norte  
+> ⚠️ Motivo: siniestro de tránsito.  
+>   
+> 👆🏼 Con precaución y atención en las vías ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/FpiNJQnV5n](https://t.co/FpiNJQnV5n)
+> 
+> — AMTQuito (@AMT\_Quito) [November 22, 2024](https://twitter.com/AMT_Quito/status/1860082260936130882?ref_src=twsrc%5Etfw)
 
-La comisión ocasional para el tratamiento del proyecto de reforma parcial a la Constitución de la República de Ecuador sobre las bases militares extranjeras en el país se reunió este 22 de noviembre de 2024. **Daniel Noboa** envió la propuesta a la Asamblea, el 17 de octubre.
+Cristiano Ronaldo desembarca en el pádel con millonaria inversión
+=================================================================
 
-La delegación está integrada por **Gissela Garzón, Sofía Sánchez, Mariana Yumbay, Arturo Ugsha, Rafael Dávila, Nathaly Murillo y Jorge Peñafiel**.
+Más de 30 millones de personas practican el pádel en todo el mundo.
+-------------------------------------------------------------------
 
-### Más noticias
+![Cristiano Ronaldo, jugador del Al-Nassr de Arabia Saudita.](https://www.elcomercio.com/wp-content/uploads/2024/11/ronaldo_padel_1.jpg)
 
-* [Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta](https://www.elcomercio.com/actualidad/politica/comision-reforma-bases-militares-extranjeras-tiene-presidenta.html "Comisión para reforma sobre bases militares extranjeras en Ecuador tiene Presidenta")
-* [Asamblea define la comisión para tratar sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/asamblea-definio-comision-propuesta-bases-militares-extranjeras.html "Asamblea define la comisión para tratar sobre  bases militares extranjeras")
-* [Daniel Noboa envió a la Asamblea proyecto de bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/daniel-noboa-envio-asamblea-proyecto-bases-militares-extranjeras-constitucion-reforma.html "Daniel Noboa envió a la Asamblea proyecto de bases militares extranjeras")
+**Cristiano Ronaldo** amplía su cartera de negocios. Ahora, el pádel. Ha comprado el 100% de las acciones del Lisboa Racket Centre. “Va a cambiar el paradigma del pádel”, aseguró a EFE el presidente de la Federación Portuguesa de Pádel (FPP), Ricardo Oliveira.
 
-Bases militares extranjeras, propuesta de Daniel Noboa
-------------------------------------------------------
-
-La mañana de este viernes, en modalidad virtual, la comisión ocasional del legislativo se reunió para avanzar en el tratamiento de la propuesta de **Daniel Noboa**. Esta ya tuvo el visto bueno de la **Corte Constitucional**.
-
-Los legisladores tienen la misión de analizar la reforma al **artículo 5 de la Constitución de la República**, relacionado con el tema de las bases militares extranjeras en Ecuador.
-
-En la jornada de este 22 de noviembre, la delegación de la [Asamblea](https://www.asambleanacional.gob.ec/es) trató el cronograma para el desarrollo de la reforma.
-
-La **Constitución** prohíbe la operación de bases **militares extranjeras** en Ecuador. Esta limitación se contempla en el artículo 5 de la Carta Magna.
-
-El cronograma para la propuesta
--------------------------------
-
-La legisladora **Gissela Garzón**, presidenta de la Comisión, indicó que el cronograma para tratar la propuesta incluye el frente de seguridad, para contar con la información de los ministerios del Interior, Defensa y Gobierno.
-
-También se contemplan datos de las áreas de inteligencia y las otras funciones del **Estado**.
-
-La comisión definió el cronograma para los **próximos 30 días**, que contempla comparecencias y trabajo de equipos técnicos. Al final de ese tiempo se presentará un informe.
-
-La normativa y las bases militares extranjeras
-----------------------------------------------
-
-La restricción para las operaciones de bases militares extranjeras en Ecuador se implementó durante el mandato de **Rafael Correa**.
-
-La **Base de Manta** fue el último rastro. Esta dejó de operar en 2009. Esta funcionaba a través de un acuerdo bilateral.
-
-Las reformas a la Constitución tienen varias vías: consulta popular, reforma parcial o asamblea constituyente. **Daniel Noboa** se inclinó por la segunda.
-
-Luego de la **Asamblea**, el proceso sigue con la convocatoria al referendo. Este mecanismo procede cuando el cambio al texto constitucional afecte el carácter o los elementos constitutivos del Estado.
-
-La pregunta propuesta y revisada por la Corte Constitucional es: **“¿Está usted de acuerdo con eliminar la prohibición de establecer bases militares extranjeras o instalaciones extranjeras con propósitos militares en el territorio nacional, y de ceder bases militares nacionales a fuerzas armadas o de seguridad extranjeras, reformando parcialmente la Constitución de conformidad con el Anexo de la pregunta?”**.
-
-Ecuador brilla con tres jugadores en el equipo ideal de las eliminatorias
-=========================================================================
-
-La Selección de Ecuador tuvo una gran doble jornada de eliminatorias y sus jugadores recibieron la recompensa.
---------------------------------------------------------------------------------------------------------------
-
-![Pervis Estupiñán en el enfrentamiento entre Ecuador y Bolivia por eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-22T114406.708.jpg)
-
-La **Selección de Ecuador** fue la única que sumó seis de seis puntos en la reciente ventana de eliminatorias sudamericanas. Primero venció a Bolivia en Guayaquil y luego consiguió una histórica victoria contra Colombia en Barranquilla.
-
-Este viernes 22 de noviembre, la **Conmebol** publicó su equipo ideal de las fechas 11 y 12, destacando a Ecuador como la selección con más jugadores en el once, gracias a su sobresaliente rendimiento.
+En **Portugal son más de 300 000 los jugadores de pádel**, y el efecto que provocará Cristiano Ronaldo puede elevarlos hasta 500 000.
 
 ### Más noticias:
 
+* [Liga de Quito o IDV, ¿quién ganará la etapa según la IA?](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-quien-ganara-etapa-segun-inteligencia-artificial-ia.html "Liga de Quito o IDV, ¿quién ganará la etapa según  la IA?")
+* [Javier Mascherano será el nuevo DT de Lionel Messi y Campana](https://www.elcomercio.com/deportes/futbol/javier-mascherano-sera-el-nuevo-dt-de-lionel-messi-y-campana.html "Javier Mascherano será el nuevo DT de Lionel Messi y Campana")
+* [Ecuador brilla con tres jugadores en el equipo ideal de las eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-brilla-con-tres-jugadores-en-el-equipo-ideal-de-las-eliminatorias.html "Ecuador brilla con tres jugadores en el equipo ideal de las eliminatorias")
+
+Su último movimiento es la **compra del 100 % del Lisboa Racket Centre**, un centro especializado en juegos de pala y raqueta con el que busca afianzarse en el que es uno de los deportes de moda en la actualidad.
+
+“La entrada de **Cristiano Ronaldo no solo va a cambiar el paradigma del pádel en Portugal**, sino en todo el mundo”, aseguró a EFE el presidente de la Federación Portuguesa de Pádel (FPP), Ricardo Oliveira.
+
+El directivo no quiso dar detalles sobre las cifras exactas de la operación, se limitó a decir que ha sido de “varios millones”, y la atribuyó al interés que el futbolista ha desarrollado por este deporte en los últimos años.
+
+“Obviamente, juega al fútbol y entrena su físico a diario, pero **‘en secreto’ me cuentan que está jugando al pádel** todos los días, que le encanta el pádel”, aseguró Oliveira.
+
+El pádel se riega por el mundo
+------------------------------
+
+El capitán de la selección portuguesa no es el único apasionado de este deporte: más de **30 millones de personas lo practican en todo el mundo**, lo que supone un aumento del 150 % en el número de jugadores durante la última década, según datos de la Federación Internacional de Pádel.
+
+“Todo lo que **Cristiano pone en sus redes sociales llega a 1 000 millones de personas**. Te puedes imaginar lo que supone para un deporte como el nuestro, es increíble”, resumió Oliveira, que bromeó con la posibilidad de tener que quitar pistas de tenis para hacer hueco a las de pádel en un futuro no muy lejano.
+
+![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/11/ronaldo_padel_2-1024x683.jpg)
+
+Foto: Facebook del club.
+
+CR7 S.A.
+--------
+
+Tras más de 20 años al máximo nivel y más de 900 goles anotados, Cristiano ha comenzado a interesarse por un partido que se juega en los despachos.
+
+La adquisición del Lisboa Racket Centre es la **última operación de su firma de inversión deportiva**, CR7 S.A., para hacer crecer su imperio financiero y aumentar su influencia en un deporte emergente como el pádel.
+
+En septiembre del año pasado, el exfutbolista del Real Madrid hizo pública su vinculación con la **Ciudad del Pádel de Oeiras**, un complejo deportivo a las afueras de Lisboa que abrirá en 2025 y del que Ronaldo controla el 50 % tras aportar 3 millones de euros de capital inicial.
+
+Oliveira explicó que será allí donde se celebre durante los próximos tres años un torneo de la competición catarí **Premier Pádel, que en 2023 absorbió a su antecesor, el World Pádel Tour**, y se convirtió en el circuito profesional de referencia a nivel internacional.
+
+“En algún momento nos gustaría, y creo que así será, que el padrino de este y futuros torneos en Portugal sea Cristiano”, concluyó.
+
+San viernes
+-----------
+
+Dos vías de Cumbayá y Tumbaco entran a fase de rehabilitación
+=============================================================
+
+Los trabajos de rehabilitación vial en los valles nororientales de Quito comienza este sábado, en Cumbayá y, el martes, en Tumbaco.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Desde este sábado 23 de noviembre comienzan los trabajos de rehabilitación de la avenida Pampite, en Cumbayá.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-78.jpg)
+
+Desde este **sábado 23 de noviembre del 2024,** comenzará la rehabilitación de dos vías importantes en este valle del nororiente de Quito. La una será en **Cumbayá** y la otra en **Tumbaco**.
+
+### Más noticias
+
+* [Dos negocios de escaneo de iris fueron clausurados en Quito](https://www.elcomercio.com/actualidad/quito/negocios-escaneo-iris-clausura-quito.html "Dos negocios de escaneo de iris fueron clausurados en Quito")
+* [Operativo para las movilizaciones impidió daños al espacio público de Quito](https://www.elcomercio.com/actualidad/quito/danos-quito-movilizaciones-marchas-21-noviembre.html "Operativo para las movilizaciones impidió daños al espacio público de Quito")
+* [Un taxi circuló dentro del parque La Carolina, en Quito](https://www.elcomercio.com/actualidad/quito/taxi-circulo-dentro-de-parque-la-carolina-quito.html "Un taxi circuló dentro del parque La Carolina, en Quito")
+
+Rehabilitación de la vía en Cumbayá
+-----------------------------------
+
+La **Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop)** informó que comenzará este 23 de noviembre del 2024, la rehabilitación de la **avenida Pampite**, en Cumbayá.
+
+El tiempo estimado para concluir esta intervención, que será sobre **336 metros**, será de **23 días**. Además, los trabajos se llevarán a cabo en **tres etapas**.
+
+La primera se realizará entre las calles José María Vargas y Chimborazo. El **cierre** en esta zona será **total** durante tres días.
+
+El **segundo tramo** será en la **calzada de bajada** a la altura de la calle **Los Cipreses hasta la José María Vargas.** Esta etapa comenzará el **25 de noviembre** y deberá terminar el 4 de diciembre.
+
+La **última etapa será sobre la calzada de subida**, entre el 5 y el **15 de diciembre[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")[](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")**
+
+En esos días, se **suspenderá temporalmente la zona azul** de estacionamiento sobre la avenida Pampite y Chimborazo. La **Agencia Metropolitana de Tránsito** realizará el operativo para la circulación vehicular, que se realizará por contraflujos.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-22-at-15.12.33-800x445-1.jpeg)
+
+La rehabilitación en Tumbaco
+----------------------------
+
+La calle **Juan Montalvo** de Tumbaco también será intervenida. **Los trabajos comenzarán el martes 26 de noviembre del 2024.**
+
+Las obras abarcarán la zona del **Parque Central de Tumbaco,** desde la Eloy Alfaro hasta Simón Bolívar.
+
+La longitud de la intervención será de **261 metros** y se aspira que la rehabilitación del asfalto termine en **15 días.**
+
+Las **rutas alternas** para la circulación vehicular son: la calle Gonzalo Díaz de Pineda (unidireccional norte-sur) y la calle Gonzalo Pizarro (bidireccional).
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/juan-montalvo.jpeg)
+
+Multas por realizar campaña anticipada previo a las elecciones de 2025
+======================================================================
+
+Campaña anticipada en Ecuador, multas de 5 060 a 9 200 dólares, destitución o suspensión de derechos.
+-----------------------------------------------------------------------------------------------------
+
+![Imagen referencial creada con Inteligencia Artificial sobre una campaña política.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-52-3.jpg)
+
+El inicio de las **elecciones generales de 2025** está marcado por una regulación sobre la **propaganda electoral**.
+
+### Más noticias
+
+* [Vocales suplentes del CNE no pudieron ingresar a las instalaciones del órgano electoral](https://www.elcomercio.com/actualidad/politica/vocales-suplentes-cne-no-pudieron-ingresar-instalaciones-organo-electoral.html "Vocales suplentes del CNE no pudieron ingresar a las instalaciones del órgano electoral")
+* [¿Cómo reconocer a quienes notifican a miembros de juntas para las elecciones 2025?](https://www.elcomercio.com/elecciones/como-reconocer-notifican-miembros-juntas-elecciones-2025.html "¿Cómo reconocer a quienes notifican a miembros de juntas para las elecciones 2025?")
+* [UAFE controlará el origen de fondos para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/uafe-controlara-origen-fondos-campana-elecctoral-elecciones-2025.html "UAFE controlará el origen de fondos para las elecciones 2025")
+
+El **artículo 268 del Código de la Democracia** califica la campaña política anticipada como una infracción grave, sancionada con multas que oscilan entre **11 y 20 salarios básicos unificados**, la destitución del cargo o la suspensión de derechos de participación por un periodo de **seis meses a dos años**.
+
+Estas sanciones buscan **garantizar la equidad y transparencia del proceso electoral​**.
+
+La normativa no solo contempla **sanciones económicas y legales**, sino que también establece la responsabilidad de los organismos electorales en el control de estas actividades.
+
+El **Consejo Nacional Electoral (CNE)** desempeña un rol importante al monitorear la publicidad y las acciones de los **actores políticos** para asegurar que respeten los plazos establecidos por la ley.
+
+Diferencia entre campaña electoral y precampaña
+-----------------------------------------------
+
+La principal diferencia entre la **campaña electoral y la precampaña** radica en el tiempo y las actividades permitidas.
+
+La campaña electoral corresponde al periodo oficial designado por el CNE, donde los candidatos pueden promocionar sus propuestas de **manera regulada**. Por otro lado, cualquier actividad de promoción realizada fuera de este periodo se considera precampaña y está prohibida por la normativa.
+
+> ¡Faltan pocos días! 📢  
+>   
+> Los medios de comunicación y empresas de vallas publicitarias 📺🎙️📰 que desean participar como [#ProveedoresPromociónElectoral](https://twitter.com/hashtag/ProveedoresPromoci%C3%B3nElectoral?src=hash&ref_src=twsrc%5Etfw) deben registrarse y calificarse para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw). 🗳️🇪🇨  
+>   
+> La convocatoria concluye el 2⃣9⃣ de noviembre.  
+>   
+> Consulta los… [pic.twitter.com/kIjEuAmYgH](https://t.co/kIjEuAmYgH)
+> 
+> — cnegobec (@cnegobec) [November 22, 2024](https://twitter.com/cnegobec/status/1859972173332353087?ref_src=twsrc%5Etfw)
+
+La precampaña incluye acciones como la **distribución de propaganda**, la realización de eventos masivos o la promoción en medios digitales antes del **inicio oficial de la campañ**a.
+
+Estas actividades son vistas como una ventaja desleal **frente a otros participante**s, y por ello, están sujetas a sanciones. Este **marco normativo** busca promover una competencia justa entre todos los candidatos y garantizar el respeto al **proceso democrático**.
+
+Fechas clave del cronograma electoral 2025
+------------------------------------------
+
+Para las elecciones generales de 2025 en Ecuador, el calendario aprobado por el CNE establece que la campaña electoral iniciará el **5 de enero y culminará el 6 de febrero**.
+
+Durante este periodo, los **candidatos podrán difundir sus mensajes** y propuestas dentro de los límites legales. Cualquier actividad realizada antes de estas **fechas será considerada como campaña anticipada** y sancionada conforme a la ley​.
+
+El día de las elecciones generales está programado para el 9 de febrero de 2025. Como parte del proceso, se establece un periodo de **silencio electoral** que inicia dos días antes de la **jornada de votación**.
+
+Este intervalo tiene como objetivo permitir a los **ciudadanos reflexionar sobre su decisión sin influencias** externas, fortaleciendo así la **integridad del proceso electoral**.
+
+Multas y sanciones por campaña anticipada
+-----------------------------------------
+
+El **artículo 268 del Código de la Democracia** detalla las sanciones aplicables a quienes realicen campaña anticipada. Estas incluyen multas económicas de **11 a 20 salarios básicos unificados**, que equivalen a una penalidad significativa para los infractores.
+
+Además, se puede imponer la destitución de **cargos públicos o la suspensión de derechos de participación política** por un periodo de **seis meses a dos año**s​.
+
+Estas medidas no solo buscan penalizar a los infractores, sino también disuadir a otros actores políticos de realizar actividades fuera del **marco legal**. La reincidencia en esta infracción puede tener consecuencias graves para las aspiraciones políticas de los candidatos, lo que subraya la importancia de respetar las disposiciones del CNE.
+
+Si el Salario Básico Unificado (SBU) es de **460 dólares**, las sanciones por realizar campaña anticipada serían:
+
+* **Multa mínima**: 5 060 dólares (equivalente a 11 SBU).
+* **Multa máxima**: 9 200 dólares (equivalente a 20 SBU).
+
+Recomendaciones para los actores políticos
+------------------------------------------
+
+El CNE hace un llamado a los candidatos y organizaciones políticas para que se adhieran al cronograma electoral y ajusten sus estrategias de promoción dentro del **marco legal**.
+
+Además, las organizaciones políticas deben cumplir con la rendición de cuentas sobre los recursos utilizados en sus actividades, ya que el **control de propaganda** incluye la supervisión del gasto electoral.
+
+Sin Willian Pacho, PSG goleó y piensa en el Bayern
+==================================================
+
+El siguiente reto del PSG será contra el Bayern Múnich en la Champions League.
+------------------------------------------------------------------------------
+
+![Bradley Barcola (i) y Ousmane Dembélé celebran un gol con el PSG en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/psg_pacho_1.jpg)
+
+El ecuatoriano **Willian Pacho miró desde la banca de suplentes** la décima victoria del Paris Saint-Germain en la liga local, con lo que este viernes 22 de noviembre de 2024 se consolidó en el primer lugar de la tabla de posiciones en 12 fechas.
+
+Willian Pacho jugó con la **Selección de Ecuador la doble fecha de eliminatorias al Mundial 2026**, y fue clave en los triunfos de 4-0 ante Bolivia en el Monumental de Guayaquil y de 0-1 frente a Colombia en el Metropolitano de Barranquilla.
+
+### Más noticias:
+
+* [Incautan 44 mil dosis de cocaína antes de la final de la Sudamericana](https://www.elcomercio.com/deportes/futbol/incautan-dosis-cocaina-final-sudamericana.html "Incautan 44 mil dosis de cocaína antes de la final de la Sudamericana")
+* [Defensa de la Selección de Ecuador a la altura de campeonas mundiales](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-defensa-goles-recibidos.html "Defensa de la Selección de Ecuador a la altura de campeonas mundiales")
+* [Liga de Quito o IDV, ¿quién ganará la etapa según la IA?](https://www.elcomercio.com/deportes/futbol/liga-quito-independiente-valle-quien-ganara-etapa-segun-inteligencia-artificial-ia.html "Liga de Quito o IDV, ¿quién ganará la etapa según  la IA?")
+
+Para Pacho es el segundo partido que no suma minutos en el torneo local. **De las 12 jornada estuvo presente en 10** y en nueve fue titular y completó todos los minutos. Solo en uno ingresó en el segundo tiempo.
+
+En la Champions League es titular indiscutible. Jugó los cuatro partidos y fue clave en la **victoria 1-0 ante el Girona y en el empate 1-1 contra el PS**V en el Parque de los Príncipes. También dijo presente en las derrotas de visitante contra el Arsenal y en casa ante el Atlético Madrid.
+
+![Foto: Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/11/psg_pacho_2-1024x683.jpg)
+
+Foto: Facebook del club.
+
+Goleada para tomar confianza
+----------------------------
+
+A la vista ya el partido decisivo en la Champions League contra el Bayern Múnich del próximo martes 26, el **París Saint Germain solucionó su conflicto con el gol contra el Toulouse**, al que dominó y creó ocasiones suficientes para haber sentenciado mucho antes el juego.
+
+El PSG por momentos se encomendó a su portero, Matvéi Safonov, y a la falta de tino de su rival, hasta los goles en el tramo final de Lucas Beraldo y Vitinha para el 3-0.
+
+El décimo triunfo en 12 jornadas de la Ligue 1 del PSG, que va a trompicones por sus encuentros por una simple cuestión de que no tiene la pegada ofensiva que debería, con los problemas que le genera cualquier rival cuando sobrepasa su presión.
+
+Así maneja el **conjunto de Luis Enrique Martínez el liderato de la competición francesa**, con seis puntos de cómoda distancia sobre el Mónaco, ganador antes por 3-2 frente al Brest.
+
+El PSG crea -aunque no tanto como ante el Atlético de Madrid-, pero no concreta con eficacia. En ello está aún el vigente campeón de la Ligue 1, **que necesita efectividad para transformarse aún más en el dominador** absoluto que debe ser en su país, porque deja vivos a sus adversarios, expuesto en el segundo tiempo porque no ha acertado en sus oportunidades.
+
+Este viernes sufrió hasta el minuto 85, **cuando Lucas Beraldo marcó el gol del 2-0** y de la tranquilidad, sellada ya con el 3-0 de Vitinha en el tiempo añadido.
+
+Antes había tomado ventaja en el primer tiempo, con un golazo de Joao Neves, cuya volea con la derecha tras un centro de Hakimi fue una preciosidad en el minuto 35, y había generado lo suficiente para tomar un control más cómodo del marcador.
+
+Hubo un gol anulado incluido a Warren Zaire-Emery por fuera de juego, a instancias de la revisión del VAR.
+
+Después, permitió demasiado al Toulouse, que se plantó hasta en tres ocasiones con opciones de empatar, **la última aún con 1-0 cuando Safonov, el elegido para la portería**, se interpuso por dos veces dentro del área a la amenaza de su oponente.
+
+Después marcó el **2-0 Beraldo, en el minuto 85**, y luego el 3-0 Vitinha, ya en el 91.
+
+San viernes
+-----------
+
+La coreana que conquista Ecuador con su voz en coreano, inglés y español
+========================================================================
+
+Esta artista emergente llegó al país hace 23 años; está enamorada de Ecuador.
+-----------------------------------------------------------------------------
+
+![Yulia Song tiene 28 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-22T182509.148.jpg)
+
+Su nombre es **Yulia Song** y tiene 28 años, y un **EP** con ocho canciones inspiradas en la cotidianidad. Su álbum **homónimo** se estrenó en 2024.
+
+### **Más noticias:** 
+
+* [Un joven que creció en una gasolinera es el rostro del reguetón ‘bueno’](https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html "https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html")
+* [Huda es la voz de un rap sincero y punzante](https://www.elcomercio.com/tendencias/entretenimiento/huda-artista-espanola-rap-trap.html "https://www.elcomercio.com/tendencias/entretenimiento/huda-artista-espanola-rap-trap.html")
+* [El ‘playlist’ del ecuatoriano es solo música urbana, según Spotify](https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html?source=Internal&ref=Single+Content+Link")
+
+**¿Quién es la coreana que conquista Ecuador?**
+-----------------------------------------------
+
+Yulia Song nació en **Corea del Sur** y llegó al país hace 23 años, tiempo suficiente para sentirse toda una “ecuatoriana”. Pisó tierra nacional acompañada de sus **padres**; ahora, vive con su novio, el productor musical **Drofo**.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/Co0b-LPuzoJ/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de YULIA SONG 율리아 (@yulia\_song)](https://www.instagram.com/reel/Co0b-LPuzoJ/?utm_source=ig_embed&utm_campaign=loading)
+
+Con su pareja -precisamente- trabajó su primer material **discográfico**, aplaudido por fans de diferentes países. Actualmente, **Yulia** tiene alrededor de 5 000 suscriptores en su canal de YouTube. En su cuenta de **Instagram** suma 266 000 seguidores. 
+
+En ambas plataformas recibe -a diario- felicitaciones por su trabajo. Le llegan comentarios en **inglés**, en español y también en coreano. 
+
+**Yulia Song canta para un público diverso**
+--------------------------------------------
+
+Sus creaciones tienen tintes de pop, hip-hop, R&B, y suenan en inglés y español, como No debí besarte, Me han callado, Tácticas que usas. En inglés tiene Pretending y B with U. 
+
+Toda esa influencia musical la heredó de su abuelo y de su padre, que siempre reconocieron y aplaudieron su talento, así como ahora lo hacen sus seguidores ecuatorianos, a los que también conquista con videos de su día a día.
+
+El Nacional tiene un plan para recaudar cifras millonarias
+==========================================================
+
+El Nacional busca rescatar su economía y espera el apoyo de sus hinchas para lograrlo con un crowdfunding y donaciones.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Gabriel Cortez y Jonathan Borja, futbolistas de El Nacional, en un partido de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/20241031135360-fbl-copa-ecuador-nacional-mushuc-runa-scaled.jpg)
+
+**El Nacional** atraviesa una crisis económica y espera salir adelante con el apoyo de sus hinchas. Entre las estrategias que los puros criollos contemplan para el rescate financiaro del club, una involucra a su afición y tiene como fin recuadar un millón y medio de dólares.
+
+La escuadra roja se encuentra en un difícil momento administrativo y con la presencia constante de **deudas y acreedores**. Una de las últimos síntomas de los aprietos en los que se encuentra el club se dio desde la plantilla.
+
+### Más noticias:
+
+* [El Nacional reclama a la FEF por falta de apoyo](https://www.elcomercio.com/deportes/marco-pazos-nacional-fef-deudas.html "El Nacional reclama a la FEF por falta de apoyo")
+* [Barcelona Sporting Club aplastó a El Nacional en amistoso](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-nacional-amistoso.html "Barcelona Sporting Club aplastó a El Nacional en amistoso")
+* [El Nacional lanza una campaña para superar la crisis financiera](https://www.elcomercio.com/deportes/futbol/nacional-ayuda-hinchas-crisis-crowdfunding-radioton.html "El Nacional lanza una campaña para superar la crisis financiera")
+
+En la recta final de la **Liga Pro y la Copa Ecuador**, donde el club disputará la final, los futbolistas señalaron que se les adeudaban **salarios**. A su vez, estos paralizaron sus entrenamientos durante ciertos días debido a tal razón.
+
+A raíz de tales situaciones y con una deuda que permanece en **12 millones de dólares**, según **Francisco Zurita** -gerente financiero de El Nacional-, el club lanzó una iniciativa colaborativa que cuenta con dosmodalidades. En diálogo con EL COMERCIO, el funcionario de la escuadra criolla detalló en qué consisten y cómo se llevarán a cabo.
+
+Crowd founding y la radiotón de El Nacional
+-------------------------------------------
+
+**El Nacional** ha lanzado una campaña en la cual espera que sus hinchas aporten y, con ello, también poder subsanar las necesidades más urgentes, cuenta Zurita. Para ello se ha planteado un crowdfunding y una radiotón.
+
+“**En el crowdfunding buscamos pedir a la gente que se una para poder recaudar fondos por un por un objetivo. Hemos juntado a radio, ¿cuál es el objetivo de radio? que la gente conozca. Es necesario que, de una manera muy clara transparente informal, sepan cuál es la situación con la cual nosotros**“, manifestó.
+
+**Zurita** relató que existen **tres formas** para que los hinchas y quienes deseen aportar lo puedan hacer. El proyecto cuenta con su propia página web desde donde se pueden realizar las donaciones. Asimismo, están disponibles cuentas bancarias y pagos físicos. Para la última opción, estos se receptarán en la sede del club durante el 14 y el 15 diciembre y otras dos locaciones que se detallan en el sitio web[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional "https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional")
+
+Otras formas de sustentabilidad para El Nacional
+------------------------------------------------
+
+**Zurita** señaló que dentro de los ejes que existe para sacar la economía de El Nacional a flote, también existen otras propuesta a largo plazo. Entre ellas están generar recursos con la venta y formación de jugadores, así como sacar provecho a las instalaciones del complejo de El Sauce y desarrollar una ciudadela deportiva.
+
+Entre los medios por los cuales también hay ingresos para el club se encuentran las **taquillas, los derechos audiovisuales y las escuelas de fútbol** que están en crecimiento. De igual forma, están los aportes de los socios. Pese a ello, eso no es suficiente para cumplir con las obligaciones y se necesitan recursos adicionales.
+
+Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia 
+==============================================================================
+
+"Donald Trump, 'el golpista', financió el golpe de Estado de 2019. Arce felicita al golpista, no entiendo", afirmó Morales.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Evo Morales en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/evo-morales-efe-ok.jpg)
+
+El expresidente de Bolivia [Evo Morales](https://www.elcomercio.com/actualidad/mundo/evo-morales-deja-ser-lider-mas-despues-casi-tres-decadas-tras-fallo-judicial.html "https://www.elcomercio.com/actualidad/mundo/evo-morales-deja-ser-lider-mas-despues-casi-tres-decadas-tras-fallo-judicial.html") (2006-2019) acusó este viernes al futuro presidente estadounidense, **Donald Trump**, de financiar un “golpe de Estado” en 2019 cuando era mandatario de Estados Unidos, y de apoyar actualmente al Gobierno de **Luis Arce.**
+
+### Más noticias
+
+* [Evo Morales deja de ser el líder del MAS después de casi tres décadas tras fallo judicial](https://www.elcomercio.com/actualidad/mundo/evo-morales-deja-ser-lider-mas-despues-casi-tres-decadas-tras-fallo-judicial.html "Evo Morales deja de ser el líder del MAS después de casi tres décadas tras fallo judicial")
+* [Evo Morales cumple su primer día de huelga de hambre](https://www.elcomercio.com/actualidad/mundo/evo-morales-cumple-primer-huelga-hambre.html "Evo Morales cumple su primer día de huelga de hambre")
+* [Evo Morales denunció ataque armado en su contra](https://www.elcomercio.com/actualidad/mundo/evo-morales-ataque-armado-bolivia.html "Evo Morales denunció ataque armado en su contra")
+
+“Donald Trump, ‘el golpista’, financió el golpe de Estado de 2019. Arce felicita al golpista, **no entiendo**“, manifestó Morales al referirse a una publicación en redes sociales del mandatario boliviano en la que felicitó a **Trump por su victoria en las elecciones** del pasado 5 de noviembre.
+
+En el proceso electoral de 2019, Morales buscaba su **cuarto mandato presidencial**, pero durante el conteo de votos denunció un “golpe de Estado” en su contra, tras esto renunció a su cargo al igual que muchos funcionarios de su Gobierno.
+
+Morales se encuentra reunido con sus sectores afines en la comunidad de Lauca Ñ, en el Trópico de Cochabamba que es su **bastión político y sindical**, para determinar las acciones a tomar después que el Tribunal Constitucional Plurinacional (TCP) emitiera varios fallos que lo inhabilitan para ser candidato presidencial y lo apartaron del liderazgo del oficialista **Movimiento al Socialismo (MAS)** después de casi 30 años.
+
+Pugna entre Arce y Morales
+--------------------------
+
+Arce y Morales se encuentran distanciados desde finales de 2021, debido a diferencias en el manejo del Ejecutivo y el MAS, este año su enfrentamiento se agudizó con un **intercambio de acusaciones**.
+
+El presidente boliviano incluso señaló a Morales de querer “acortar su mandato” y de crear “inestabilidad política y económica” en el país para regresar al poder.
+
+Durante la reunión Morales tomó la palabra y acusó a Luis Arce de recibir apoyo de Estados Unidos para alejarlo de la Presidencia de Bolivia.
+
+“**¿En qué parte de América Latina los Estados Unidos han defendido a un gobierno de izquierda?”** cuestionó el exmandatario, aludiendo a que Arce orquestó un “autogolpe” durante el alzamiento militar del 26 de junio con la ayuda del “imperio”.
+
+El expresidente también afirmó que a pesar de los fallos constitucionales, que considera “ilegales”, él está habilitado para ser **candidato presidencial** y sigue siendo el líder del MAS.
+
+Para Morales, las decisiones de los magistrados del TCP no son legales porque estos se prorrogaron un año en sus funciones luego de que las elecciones judiciales de 2023 no se llevaran a cabo por trabas en el Parlamento.
+
+Bloqueo de carreteras en octubre
+--------------------------------
+
+Por su parte, los sectores afines a Morales realizaron en octubre un **bloqueo de carreteras de 24 días** para defenderlo ante una posible orden de captura por una investigación de trata de personas y estupro que lo involucran, pero también para exigir su **habilitación como candidato del MAS** y soluciones para la crisis económica que atraviesa el país por falta de combustible y escasez de dolares.
+
+Morales no ha salido del Trópico de Cochabamba desde principios de octubre y luego de denunciar un “intento de asesinato” planificado por “Lucho Arce y varios ministros”.
+
+Se espera que esta jornada Morales y sus seguidores tomen decisiones sobre el **futuro político del MAS** y del exmandatario e incluso medidas de hecho contra el Gobierno de Luis Arce.
+
+CAL tomó una decisión sobre juicio político contra Ivonne Núñez, ministra de Trabajo
+====================================================================================
+
+La solicitud de juicio político contra Ivonne Núñez, ministra de Trabajo, surge a raíz de un pedido de la vicepresidenta suspendida, Verónica Abad.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La solitud de juicio político contra Ivonne Núñez fue tramitada hoy por el CAL.](https://www.elcomercio.com/wp-content/uploads/2024/11/ivonne-nunez-ministra-trabajo-juicio-politico.jpg)
+
+El **Consejo de Administración Legislativa (CAL)** tomó una decisión sobre la solicitud de **juicio político** contra **Ivonne Núñez**, **ministra de Trabajo**.
+
+El proceso de fiscalización contra la funcionaria del Gobierno de **Daniel Noboa** surge a raíz de un pedido de la vicepresidenta suspendida, **Verónica Abad**.
+
+### Más noticias:
+
+* [Ministra de Trabajo se refirió a solicitud de juicio político en su contra](https://www.elcomercio.com/actualidad/ministra-trabajo-juicio-politico-abad.html "Ministra de Trabajo se refirió a solicitud de juicio político en su contra")
+* [Asamblea aprobó una resolución sobre sanción a Verónica Abad](https://www.elcomercio.com/actualidad/politica/asamblea-conoce-pedido-veronica-abad.html "Asamblea aprobó una resolución sobre sanción a Verónica Abad")
+* [Ministra del Trabajo se pronuncia sobre suspensión de Verónica Abad](https://www.elcomercio.com/actualidad/negocios/ministra-trabajo-pronuncia-suspension-veronica-abad.html "Ministra del Trabajo se pronuncia sobre suspensión de Verónica Abad")
+
+Juicio político contra Ivonne Núñez, ministra de Trabajo
+--------------------------------------------------------
+
+El juicio político en contra de Ivonne Núñez, ministra de Trabajo, fue solicitado por asambleístas de la **Revolución Ciudadana (RC), Partido Social Cristiano (PSC), Pachakutik y SUMA**.
+
+Núñez fue acusada de incumplimiento de funciones con seis causales, relacionadas con el **sumario administrativo** que suspendió por **150 días** a la vicepresidenta, **Verónica Abad**.
+
+### Las causales por incumplimiento de funciones:
+
+* No cumplir su deber de **garante**, al promulgar el Acuerdo Ministerial MDT-2024-175.
+* Incumplimiento del principio de **publicidad** en el procedimiento administrativo.
+* Inobservancia de los **instrumentos internacionales** de derechos humanos.
+* Irrespeto a las atribuciones constitucionalmente establecidas, vulnerando el **principio de juez natural** y competencia, en el juzgamiento de infracciones.
+* Irrespeto a la seguridad jurídica y por permitir **abrogación de funciones**.
+* Vulneración a la garantía del **debido proceso** y por evidente discriminación y violencia de género.
+
+Las **asambleístas** que firman la petición son: Jahiren Noriega (RC), Carla Cruz Zambrano (antes Construye, hoy PSC), Mariana Yumbay (PK), Cristina Chávez (SUMA).
+
+El CAL también calificó la solicitud de juicio político contra la **exsuperintendenta de Economía Popular y Solidaria, Sofía Hernández.**
+
+Este pedido lo hizo el asambleísta **Xavier Jurado (ADN)**, por incumplir funciones.
+
+Con la calificación del CAL, el proceso de juicio político en contra de la ministra de Trabajo, Ivonne Núñez, pasa a la **Comisión de Fiscalización y Control Político.**
+
+La mesa legislativa deberá sustanciar el proceso, con **pruebas de cargo y descargo**, y los testimonios de los acusadores y la funcionaria interpelada.
+
+El ministro de Gobierno, **José de La Gasca**, señaló que el juicio político contra Ivonne Núñez es una “contradicción política”.
+
+De La Gasca agregó que esta es otra acción para **desestabilizar** al Gobierno de Daniel Noboa, dijo en Radio Forever.
+
+Ministerio de Energía suspende cortes de luz en varios sectores de Quito este viernes
+=====================================================================================
+
+El Ministerio de Energía suspendió los corte de luz en algunos sectores de Quito, la tarde y noche de este viernes 22 de noviembre.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![La suspensión de los cortes de luz se da luego de las marchas en las calles de Quito, de este jueves](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz-quito-suspension.jpg)
+
+El **Ministerio de Energía y Minas** suspendió los **cortes de luz** en varios sectores de **Quito**, la tarde y noche de este viernes 22 de noviembre de 2024.
+
+### Más noticias
+
+* [Cortes de luz en Quito este viernes 22 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-viernes-22-de-noviembre.html "Cortes de luz en Quito este viernes 22 de noviembre")
+* [Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-viernes-22-a-domingo-24-de-noviembre.html "Cortes de luz en Quito del viernes 22 al domingo 24 de noviembre")
+* [Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años](https://www.elcomercio.com/actualidad/negocios/intercambio-de-energia-electrica-entre-colombia-y-ecuador-empezo-hace-26-anos.html "Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años")
+
+En un comunicado difundido cerca de las 16:00, la cartera de Estado detalló que los **apagones programados** no se ejecutarán en los barrios del **Centro Histórico y del centro norte** de la capital.
+
+Según explicó la entidad, la medida se tomó tras las **movilizaciones sociales** realizadas en la ciudad, este jueves 21 de noviembre.
+
+En las marchas, al menos **3 policías** resultaron **heridos** y **10 manifestantes** fueron **detenidos**.
+
+Ministerio de Energía analiza extender la suspensión
+----------------------------------------------------
+
+El comunicado oficial del ministerio **no detalló** qué barrios de Quito tendrán luz la tarde y noche de este viernes[.](https://www.eeq.com.ec/ "https://www.eeq.com.ec/")
+
+Sin embargo, se explicó que la suspensión de los racionamientos se da “con el fin de salvaguardar la integridad de los ciudadanos, mantener el orden público (…) y precautelar la infraestructura” de entidades gubernamentales, comercios y viviendas.
+
+El Ministerio de Energía afirmó que analizará, junto a otras instituciones, la situación que se desarrolla en Quito, “con el fin de **extender el periodo de suspensión** de los cortes de luz o retomar su programación en los siguientes días”.
+
+> 📍\[COMUNICADO OFICIAL\]  
+>   
+> 📌A la ciudadanía⤵️ [pic.twitter.com/lgGEj721qz](https://t.co/lgGEj721qz)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 22, 2024](https://twitter.com/RecNaturalesEC/status/1860063472194912357?ref_src=twsrc%5Etfw)
+
+Cortes de luz en Quito para este viernes 22 de noviembre
+--------------------------------------------------------
+
+La Empresa Eléctrica Quito publicó la **programación de cortes de luz** para el viernes 22 de noviembre de 2024 distribuida por franjas horarias y sectores.
+
+Estos horarios se mantienen en ocho horas, distribuidas en **dos franjas horarias de cuatro horas** para cada bloque de barrios afectados.
+
+El sector industrial, en cambio, mantendrá una **suspensión del servicio e**n un horario de siete horas continuas.
+
+Aquí puede revisar el **cronograma completo** de este viernes 22 de noviembre:
+
+22 de Julio, primer clasificado para las semifinales del ascenso
+================================================================
+
+El Torneo de Ascenso Nacional otorga dos cupos para la Liga Pro Serie B de 2025.
+--------------------------------------------------------------------------------
+
+![Jugadores de 22 de Julio en el Torneo de Ascenso Nacional en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/julio_1.jpg)
+
+El 22 de Julio se convirtió en el **primer semifinalista del Torneo de Ascenso Nacional**. Los esmeraldeños lograron su objetivo la tarde de este viernes 22 de noviembre de 2024.
+
+Para avanzar a las semifinales, 22 de Julio derrotó 0-1 a Aviced en el estadio Alejandro Serrano Aguilar de Cuenca, con un tanto de Keifran Ibarra a los 40 minutos del primer tiempo.
+
+### Más noticias:
+
+* [Periodista colombiano calificó de ‘agrandada’ a su selección](https://www.elcomercio.com/deportes/futbol/carlos-antonio-velez-colombia-ecuador.html "Periodista colombiano calificó de ‘agrandada’ a su selección")
+* [Campeón del mundo adquiere equipo en la MLS](https://www.elcomercio.com/deportes/mls-san-diego-juan-mata-nuevo-dueno.html "Campeón del mundo adquiere equipo en la MLS")
+* [Willian Pacho se entrena bajo condiciones extremas](https://www.elcomercio.com/deportes/willian-pacho-regreso-psg-seleccion-ecuador.html "Willian Pacho se entrena bajo condiciones extremas")
+
+En la ida, jugada en el Folke Anderson, terminó empatada 0-0. Con ese resultado los azuayos **llegaron con una ligera ventaja,** pero no la aprovecharon y su camino en el Ascenso Nacional terminó en los cuartos de final.
+
+El camino de 22 de Julio arrancó en los treintaidosavos de final. Le ganaron por un marcador **global de 3-0 a Exapromo Costa**, con lo que dio el primer paso para su objetivo final.
+
+En los dieciseisavos de final se deshicieron de San Camilo de Los Ríos por 5-3; e**n los octavos de final de Huancavilca de Santa Elena por 4-1**; y en los cuartos de final de Aviced de Azuay por 1-0.
+
+En las semifinales los esmeraldeños esperan por el ganador de la llave de Liga de Portoviejo vs. Deportivo Quito. La ventaja es para los **manabitas que ganaron en la ida en el Gonzalo Pozo Ripalda por 1-0** con un gol de Jackson Landazury.
+
+La otra llave involucra a **Atlético Vinotinto (Pichincha) y La Paz (Manabí)**. Los pichinchanos tiene la ventaja en el marcador de 1-0.
+
+**Cuenca Jrs. (Azuay) y La Unión (Cotopaxi)** completan los otros cuarto finalistas. Los cotopaxenses ganar la serie por 1-0.
+
+Cuartos de final – vuelta
+-------------------------
+
+### Viernes 22/11
+
+**Aviced 0-1 22 de Julio**
+
+Marcador global: 0-1
+
+Clasifica: 22 de Julio
+
+### Sábado 23/11
+
+**11:30 Atlético Vinotinto vs. La Paz**
+
+Marcador 1-0
+
+Estadio: Olímpico Atahualpa
+
+Ciudad: Quito
+
+### Domingo 24/11
+
+**11:00 Cuenca Jrs. vs. La Unión**
+
+Marcador: 0-1
+
+Estadio: Alejandro Serrano Aguilar
+
+Ciudad: Cuenca
+
+**15:00 Liga de Portoviejo vs. Deportivo Quito**
+
+Marcador: 1-0
+
+Estadio: Reales Tamarindos
+
+Ciudad: Portoviejo
+
+San viernes
+-----------
+
+Juez dicta medidas cautelares contra funcionaria de la Asamblea que participó en las marchas
+============================================================================================
+
+Las medidas cautelares contra la funcionaria de la Asamblea que participó en las marchas fueron resueltas este viernes 22 de noviembre.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Un juez de la Unidad de Flagrancia dispuso las medidas cautelares contra la funcionaria de la Asamblea que participó en las marchas.](https://www.elcomercio.com/wp-content/uploads/2024/11/medidas-cautelares-funcionaria-asamblea-marchas-1.jpg)
+
+Un **juez** de la Unidad Judicial de **Flagrancia** dictó medidas cautelares contra **Diana Nicole T.C.**, la **funcionaria** de la **Asamblea** que participó en las **marchas** del jueves 21 de noviembre de 2024, en **Quito**.
+
+En la **Asamblea**, se pide **investigar** todo lo relacionado con este hecho y tomar las **medidas administrativas** correspondientes.
+
+### Más noticias:
+
+* [Este es el saldo de heridos y aprehendidos que deja las marchas](https://www.elcomercio.com/actualidad/politica/heridos-aprehendidos-marchas.html "Este es el saldo de heridos y aprehendidos que deja las marchas")
+* [Agentes de Aduana, implicados en ingreso de 2 millones de dólares; Senae denuncia](https://www.elcomercio.com/actualidad/seguridad/agentes-aduana-implicados-ingreso-2-millones-de-dolares-senae-denuncia.html "Agentes de Aduana, implicados en ingreso de 2 millones de dólares; Senae denuncia")
+
+Medidas cautelares contra funcionaria de la Asamblea que participó en las marchas
+---------------------------------------------------------------------------------
+
+La tarde y la noche del jueves 21 de noviembre, varias organizaciones sociales protagonizaron **marchas** en diferentes ciudades del país.
+
+Al final de la jornada de protestas, la Policía informó de **12 personas aprehendidas** y cuatro policías heridos.
+
+Entre los aprehendidos estaban dos mujeres, una de ellas fue identificada como una **funcionaria pública.**
+
+Más tarde, se dio a conocer que se trataba de **Diana Nicole T.C.**, prosecretaria de la Comisión de Soberanía, Integración y Seguridad Integral de la Asamblea.
+
+La audiencia de flagrancia en su contra, por el delito de **ataque o resistencia**, se realizó este viernes 22 de noviembre.
+
+En la misma, el juez dispuso la **prohibición de salida** del país de Diana Nicole T.C..
+
+Además, las **presentaciones periódicas** los miércoles ante el fiscal que lleva la causa, entre las 08:00 y las 17:00.
+
+El juez dispuso la **inmediata libertad** de la funcionaria pública.
+
+Según la Policía, la servidora legislativa **agredió** a una uniformada.
+
+> [#IMPORTANTE](https://twitter.com/hashtag/IMPORTANTE?src=hash&ref_src=twsrc%5Etfw)||  
+>   
+> Por los hechos violentos de esta tarde, existen varios aprehendidos, entre los cuales está una presunta funcionaria pública, quien habría agredido físicamente a una servidora policial; por lo que, en cumplimiento al debido procedimiento será puesta a órdenes de… [pic.twitter.com/DkrzM1XN6I](https://t.co/DkrzM1XN6I)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [November 22, 2024](https://twitter.com/PoliciaEcuador/status/1859770381466476709?ref_src=twsrc%5Etfw)
+
+En tanto, en la Asamblea, la Comisión de Soberanía, Integración y Seguridad Integral, presidida por la oficialista **Inés Alarcón**, emitió un comunicado.
+
+El escrito señala que la funcionaria cumplió su jornada de trabajo hasta las 17:30, en el **Palacio Legislativo**.
+
+“Las acciones registradas en un medio de comunicación son de **su estricta responsabilidad** y sobre los cuales esta Presidencia no tiene ninguna injerencia”, agrega.
+
+Además, señaló que los funcionarios que colabora en la mesa legislativa son profesionales y técnicos, y sirven al país sin anteponer sus **tendencias ideológicas o políticas**, cualidades que no se alinean con la persona involucrada en las **agresiones a policías.**
+
+La Comisión solicitó a las autoridades que realicen las **investigaciones** que correspondan y se cumpla la ley.
+
+Solicitó, de forma urgente, a la presidenta del Órgano Legislativo, **Viviana Veloz**, que realice las acciones administrativas internas que sean necesarias.
+
+Los secretarios y prosecretarios de las comisiones legislativas son **designados** por la Presidencia de la Asamblea.
+
+> ⭕️ Comunicado a la ciudadanía respecto a un video que circula en redes sociales ⤵️ [pic.twitter.com/YsfbWoQotV](https://t.co/YsfbWoQotV)
+> 
+> — SeguridadAN (@SeguridadAN) [November 22, 2024](https://twitter.com/SeguridadAN/status/1859798437279170933?ref_src=twsrc%5Etfw)
+
+Cámara muestra a un robot con IA que ‘convence’ a otros
+=======================================================
+
+Robot Erbai lidera máquinas y plantea dudas sobre IA.
+-----------------------------------------------------
+
+![El robot Erbai ‘convenció’ a otras máquinas tras curiosas preguntas directas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Robot-lidera-a-otros.jpg)
+
+Un **hecho inusual** captado por una **cámara de seguridad** en una sala de exposiciones en **Shanghái, China**, ha dado de qué hablar en **redes sociales**. De acuerdo con el diario colombiano [El Tiempo](https://www.eltiempo.com/cultura/gente/camara-de-seguridad-capto-el-momento-en-el-que-un-robot-con-ia-convence-a-otros-de-abandonar-sus-trabajos-3401607 "https://www.eltiempo.com/cultura/gente/camara-de-seguridad-capto-el-momento-en-el-que-un-robot-con-ia-convence-a-otros-de-abandonar-sus-trabajos-3401607"), **un pequeño robot** preguntó a otros si tenían tiempo en sus trabajos y si podrían “volver a casa” por él. 
+
+### Más noticias
+
+* [El futuro de la televisión está en la inteligencia artificial](https://www.elcomercio.com/tecnologia/dia-television-inteligencia-artificial.html "https://www.elcomercio.com/tecnologia/dia-television-inteligencia-artificial.html")
+* [Trucos para escribir ‘prompts’ en un ‘chatbot’ de inteligencia artificial](https://www.elcomercio.com/tecnologia/prompts-inteligencia-artificial-tutorial.html "https://www.elcomercio.com/tecnologia/prompts-inteligencia-artificial-tutorial.html")
+
+**Robot con inteligencia artificial que da órdenes** 
+-----------------------------------------------------
+
+En las imágenes, que rápidamente **se viralizaron en China**, se observa cómo el **pequeño robot** parece dirigir a máquinas más grandes fuera del recinto. Este comportamiento ha generado especulaciones sobre su origen. 
+
+**¿Un nuevo nivel de inteligencia artificial?** 
+------------------------------------------------
+
+El video, ampliamente compartido en **plataformas como Weibo**, ha despertado el interés público sobre los avances en la **interacción entre robots**. También plantea preguntas sobre las **capacidades emocionales** que podría alcanzar la inteligencia artificial, a decir de El Tiempo. 
+
+**El robot Erbai y su comportamiento intrigante** 
+--------------------------------------------------
+
+Este **pequeño robot**, según [Gizmodo](https://es.gizmodo.com/un-robot-con-ia-logro-convencer-a-otros-de-abandonar-sus-trabajos-2000135996 "https://es.gizmodo.com/un-robot-con-ia-logro-convencer-a-otros-de-abandonar-sus-trabajos-2000135996"), se llama **Erbai**. La misma fuente indica que les preguntó a los otros robots: “¿Estás trabajando horas extras?” y “¿Nunca sales del trabajo?”. Estas preguntas, aparentemente inocentes, **llevaron a dos robots a seguirlo** y desencadenaron un incidente con otros diez. 
+
+> [@hkeye\_](https://www.tiktok.com/@hkeye_?refer=embed "@hkeye_")
+> 
+> Little robot leads 12 bots on a WALL-E style midnight escape. #China #technology #AI #MachineLearning #funny #HKeye
+> 
+> [♬ original sound – HK EYE](https://www.tiktok.com/music/original-sound-HK-EYE-7437040018550082320?refer=embed "♬ original sound  - HK EYE")
+
+**Un experimento cuidadosamente planeado** 
+-------------------------------------------
+
+Lo que parecía un **comportamiento espontáneo** era en realidad **un experimento**. Los fabricantes de **Erbai**, una empresa de **Hangzhou, China**, obtuvieron permiso para probar si su prototipo **podía persuadir a otras máquinas** a abandonar sus tareas, según Gizmodo. El equipo de **robótica de Shanghái** confirmó que este evento fue planeado, aunque no se garantizó lo que pasaría. 
+
+**Resultados sorprendentes y preguntas abiertas** 
+--------------------------------------------------
+
+El resultado sorprendió incluso a los organizadores. **Erbai no solo convenció a dos robots**, sino que **lideró a un grupo de diez** fuera del lugar. Este hecho, ocurrido en agosto, se mantuvo sin explicación oficial hasta ahora, lo que alimentó **teorías en redes sociales**. 
+
+**Impacto en la percepción de la inteligencia artificial** 
+-----------------------------------------------------------
+
+El experimento **viralizó el nombre de Erbai** y despertó preguntas sobre los **límites de la inteligencia artificial** y su capacidad para influir en otros sistemas. 
+
+Dos negocios de escaneo de iris fueron clausurados en Quito
+===========================================================
+
+Los locales entregaban hasta 60 dólares en criptomonedas a cambio de que los usuarios se escaneen sus rostros e iris.
+---------------------------------------------------------------------------------------------------------------------
+
+![Los centros de escaneo de iris funcionaban en el centro norte y sur de Quito](https://www.elcomercio.com/wp-content/uploads/2024/11/escaneo-iris-quito-clausura.jpg)
+
+La Agencia Metropolitana de Control (**AMC**) clausuró dos establecimientos en **Quito**, donde se ofrecían **criptomonedas** a la ciudadanía a cambio de **escaneos** faciales y **de iris**.
+
+### Más noticias
+
+* [Operativo para las movilizaciones impidió daños al espacio público de Quito](https://www.elcomercio.com/actualidad/quito/danos-quito-movilizaciones-marchas-21-noviembre.html "Operativo para las movilizaciones impidió daños al espacio público de Quito")
+* [Un taxi circuló dentro del parque La Carolina, en Quito](https://www.elcomercio.com/actualidad/quito/taxi-circulo-dentro-de-parque-la-carolina-quito.html "Un taxi circuló dentro del parque La Carolina, en Quito")
+* [Dos paradas de la Ecovía de Quito se cierran 10 días por rehabilitación](https://www.elcomercio.com/actualidad/quito/dos-paradas-ecovia-cierran-10-dias-rehabilitacion-quito.html "Dos paradas de la Ecovía de Quito se cierran 10 días por rehabilitación")
+
+Según detalló la entidad, en estos negocios también se promovían **conferencias pagadas** sobre identidad digital, tecnología y criptomonedas. 
+
+Los locales fueron clausurados en los sectores de **La Mariscal**, en el centro norte y en **San Bartolo**, en el sur de Quito, durante un **operativo conjunto** con la Policía Nacional, el Cuerpo de Agentes de Control y la Secretaría de Seguridad.
+
+Usuarios recibían hasta 60 dólares por escanear sus iris, según AMC
+-------------------------------------------------------------------
+
+Las convocatorias para el escaneo facial y de iris se realizaban a través de **redes sociales**, detalló la AMC[.](https://es.wikipedia.org/wiki/Worldcoin "https://es.wikipedia.org/wiki/Worldcoin")
+
+A decir por la entidad, las cientos de personas que acudían a estos lugares recibían entre **50 y 60 dólares** en monedas digitales o **criptomonedas**.
+
+Para los escaneos se utilizaban **orbs**, unos dispositivos que miden el iris de los usuarios. Con ellos, se creaban identificaciones digitales únicas.
+
+La compañía **World**, antes Worldcoin, aseguró que los **datos personales** de sus clientes **no se almacenan** y que el registro en su plataforma “tiene el **consentimiento** pleno e informado de cada usuario”.
+
+Según explicó a **EL COMERCIO** una de sus voceras, con esta información se busca “facilitar la **verificación en línea** de una forma fluida para actividades que lo requieran”, como lo son los accesos a redes sociales, por ejemplo.
+
+Falta de permisos llevaron a las clausuras
+------------------------------------------
+
+Durante las **inspecciones**, las autoridades constataron que los establecimientos carecían de la **licencia de funcionamiento** y los **permisos** del Cuerpo de Bomberos, “lo que representaba un grave peligro debido a la aglomeración de personas en ambos lugares”, indicó la AMC.
+
+Asimismo, “se evidenciaron **condiciones de seguridad deficientes**, como rutas de evacuación y ventilación inadecuadas, que ponían en riesgo la integridad de los asistentes”, explicó la entidad.
+
+Sobre la falta de permisos, World aseguró que sus colaboradores están trabajando, “de la mano con los operadores autorizados, para **resolver la situación** en ambos locales”.
+
+Las sanciones por el incumplimiento de estas normas podrían llegar hasta los **1 840 dólares**, en cada uno de los casos.
+
+> 📌 [#BoletínDePrensa](https://twitter.com/hashtag/Bolet%C3%ADnDePrensa?src=hash&ref_src=twsrc%5Etfw) | En coordinación con [@PoliciaEcuador](https://twitter.com/PoliciaEcuador?ref_src=twsrc%5Etfw), [@agentesdequito](https://twitter.com/agentesdequito?ref_src=twsrc%5Etfw) y [@SeguridadeQuito](https://twitter.com/SeguridadeQuito?ref_src=twsrc%5Etfw), clausuramos dos establecimientos que ofrecían entre 50 y 60 criptomonedas a cambio de escaneo facial y de iris de las personas.  
+>   
+> Te contamos más sobre el funcionamiento de estos… [pic.twitter.com/nDqIoIJO5n](https://t.co/nDqIoIJO5n)
+> 
+> — Agencia Metropolitana de Control (@amcquito) [November 22, 2024](https://twitter.com/amcquito/status/1860062968458678549?ref_src=twsrc%5Etfw)
+
+Más de 70 000 ecuatorianos escanearon sus iris
+----------------------------------------------
+
+En agosto de 2024, los escaneos faciales y de iris por parte de la empresa **Worldcoin**, quien cambió su denominación a World Foundation, generaron controversia en Ecuador, por la **alta demanda de usuarios** que se registró en las oficinas de Quito y Guayaquil.
+
+La compañía, hasta esa fecha, ya contaba con más de **6,9 millones** de clientes en más de **160 países**, tras un año de su lanzamiento, el 23 de julio de 2023.
+
+Según confirmó la misma empresa, a noviembre, más de **70 000 ecuatorianos** escanearon sus iris en alguna de sus ocho establecimientos.
+
+En la actualidad, **Hong Kong** es el único país que ha **suspendido** permanente las operaciones de la compañía**; España, Portugal, y Kenia** lo han hecho temporalmente hasta que la empresa aclare algunos requerimientos que le han sido solicitados.
+
+Países Bajos jugará la primera final de su historia en Copa Davis
+=================================================================
+
+Países Bajos se ha encontrado un sitio en la final. En sus 104 años de andadura por el evento nunca había llegado tan lejos.
+----------------------------------------------------------------------------------------------------------------------------
+
+![El tenista neerlandés Botic van de Zandschulp ante el alemán Daniel Altmaier en la eliminatoria de semifinales de la Copa Davis.](https://www.elcomercio.com/wp-content/uploads/2024/11/teniscopadavis.jpg)
+
+En silencio, fuera del cartel de favorito, ni siquiera candidato, **Países Bajos** ha hecho historia y por primera vez en la competición se sitúa en la final de la **Copa Davis** que jugará contra Australia o Italia.
+
+El combinado neerlandés al que acompaña el tradicional séquito ruidoso y festivo en cada evento deportivo ha hecho suyo en el Palacio de los Deportes Martín Carpena el lugar que tenía planeado España, con **Rafael Nadal** como centro de la atención, como protagonista casi absoluto.
+
+### Más noticias:
+
+* [22 de Julio, primer clasificado para las semifinales del ascenso](https://www.elcomercio.com/deportes/futbol/ascenso-nacional-22julio-aviced-semifinales.html "22 de Julio, primer clasificado para las semifinales del ascenso")
+* [Ecuador sancionará duramente al aficionado que invadió la cancha](https://www.elcomercio.com/deportes/futbol/ecuador-sancionara-duramente-al-aficionado-que-invadio-la-cancha.html "Ecuador sancionará duramente al aficionado que invadió la cancha")
+* [Racing o Cruzeiro relevarán del trono a Liga de Quito en la Sudamericana](https://www.elcomercio.com/deportes/futbol/liga-quito-sudamericana-racing-cruzeiro.html "Racing o Cruzeiro relevarán del trono a Liga de Quito en la Sudamericana")
+
+Pero uno tras otro, **Países Bajos** se ha encontrado un sitio en la final. En sus 104 años de andadura por el evento nunca había llegado tan lejos. Después de imponerse a España en los cuartos de final igualó su mejor resultado en la Copa Davis, las semifinales que ya hizo suyas en el 2001.
+
+La historia no favorecía al combinado de **Paul Haarhuis** que, además de transitar hacia terreno desconocido, tenía adversa el cara a cara con el equipo germano con el que mantiene una tradicional rivalidad en cualquier deporte. Es un derbi el choque entre neerlandeses y alemanes, siempre que coinciden en un evento atlético.
+
+Nunca se habían medido desde que la **Copa Davis** cambió de formato. Es la primera vez que ambos equipos se miden en una eliminatoria al mejor de tres partidos y la segunda que lo hacen en canchas duras cubiertas después de cuando coincidieron en los cuartos de final del Grupo Mundial de 1995, en Utrecht.
+
+Alemania pagó la ausencia de **Alexander Zverev**, el número dos del mundo que rechazó reforzar a su selección en este momento clave para preparar la temporada próxima, el Abierto de Australia, después de la neumonía que le condicionó en los últimos meses.
+
+La baja de Zverev debilta a Alemania que reduce su margen de error. Si tropieza su número uno, como esta vez, Jan Lennard Struff, queda en el alambre. ES lo que sucedió. Y Países Bajos, con el capitan Paul Haarhuis y Tallon Griekspoor y **Botic van de Zandschulp** como primeros espadas, lo aprovechó. Además cuenta con la garantía de Wesley Koolhof para el dobles tal y como demostró frente a España. Está en su cuenta atrás el doblista que se retirará al final del evento. Jesper De Jong completa al equipo neerlandés.
+
+En las eliminatorias de este año, Holanda derrotó a Suiza por 3-2 en Groningen para asegurar su lugar en la final. Tallon Griekspoor registró victorias individuales contra Marc-Andrea Huesler y Leandro Riedi, mientras que Botic van de **Zandschulp** completó la remontada del equipo de 1-2 al derrotar a Huesler en el partido decisivo de individuales.
+
+Ante España fue Botic Van de Zandschulp el que se erigió en héroe. Ganó sus puntos, ante Nadal y el dobles. Solo tropezó Tallon Griekspoor, superado por **Carlos Alcaraz.** Frente Alemania no necesitó llegar al último punto. Van de Zandschulp resistió el empuje de su rival y sacó adelante el partido. Griekspoor, por fin consiguió su primer triunfo y tal como hizo en el Abierto de Australia hace dos años, venció a Struff, el alma germana.
+
+Ha sobrepasado las expectativas Países Bajos que se adueñó de la fiesta de España. Estará el domingo en la final. Contra **Australia** o Italia. Irá de tapado, como hasta ahora, con el factor sorpresa de su lado. Pero con todo por lograr.
+
+### Más noticias:
+
+* [Selección de Ecuador Femenina se prepara para la Copa América 2025](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-femenina-se-prepara-para-la-copa-america-2025.html "Selección de Ecuador Femenina se prepara para la Copa América 2025")
 * [Defensa de la Selección de Ecuador a la altura de campeonas mundiales](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-defensa-goles-recibidos.html "Defensa de la Selección de Ecuador a la altura de campeonas mundiales")
 * [Los cracks de la Selección de Ecuador continúan con partidazos](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-agenda-europa-america.html "Los cracks de la Selección de Ecuador continúan con partidazos")
-* [Moisés Caicedo envía aliento tras vencer con la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-moises-caicedo-mensaje-aliento.html "Moisés Caicedo envía aliento tras vencer con la Selección de Ecuador")
-
-### Hernán Galíndez, el muro tricolor
-
-El primero en ser reconocido fue el arquero **Hernán Galíndez**, quien mantuvo su portería invicta en ambos partidos. Su actuación más destacada fue en Barranquilla, donde realizó siete atajadas cruciales, asegurando la primera victoria de Ecuador en suelo colombiano por eliminatorias en 59 años.
-
-### Pervis Estupiñán, fortaleza en la banda
-
-**Pervis Estupiñán,** lateral izquierdo y referente del Brighton & Hove Albion, también fue incluido en el equipo ideal. Brilló en el triunfo ante Bolivia con su solidez defensiva y capacidad ofensiva, mientras que frente a Colombia cumplió un papel clave en contener los ataques rivales y sostener el marcador.
-
-### Enner Valencia, el líder en ataque
-
-El máximo goleador histórico de Ecuador, **Enner Valencia**, completó la lista de tricolores destacados. Su actuación en Guayaquil fue **magistral, con un gol y dos asistencias** en la goleada 4-0 sobre Bolivia. En Barranquilla, marcó el gol del triunfo con una obra de arte: dribló a cuatro defensores para definir al estilo de Lionel Messi, dejando su sello en la historia de las eliminatorias.
-
-### Equipo ideal de la Conmebol (fechas 11 y 12):
-
-**Arquero:** Hernán Galíndez (ECU).  
-**Defensas:** Fabián Hormazábal (CHI), Mathías Olvera (URU), Omar Alderete (PAR), Pervis Estupiñán (ECU).  
-**Volantes:** Lucas Cepeda (CHI), Gerson (BRA), Federico Valverde (URU), Miguel Almirón (PAR).  
-**Delanteros:** Enner Valencia (ECU), Lautaro Martínez (ARG).
-
-> El equipo ideal de las Fechas 11 y 12😍  
->   
-> O time ideal das Rodadas 11 e 12 🔝[#EliminatoriasSudamericanas](https://twitter.com/hashtag/EliminatoriasSudamericanas?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/44zgkDbaJo](https://t.co/44zgkDbaJo)
-> 
-> — CONMEBOL.com (@CONMEBOL) [November 22, 2024](https://twitter.com/CONMEBOL/status/1859984716776271985?ref_src=twsrc%5Etfw)
-
-Próximos partidos de Ecuador en eliminatorias
----------------------------------------------
-
-Las eliminatorias para la **Selección de Ecuador** se reactivarán en marzo de 2025 con una nueva doble fecha.
-
-En la jornada 13 tiene que recibir a **Venezuela** en Quito, y luego tiene que viajar a **Chile** para jugar en el Nacional de Santiago, con lo que solo quedarán cuatro fechas para terminar el calendario de las eliminatorias.
 
 No te pierdas nuestro Especial de Halloween
 -------------------------------------------
 
-Agentes de Aduana, implicados en ingreso de 2 millones de dólares; Senae denuncia
-=================================================================================
+Maria Zakharova, portavoz de Rusia, recibió instrucciones para no hablar sobre Ucrania
+======================================================================================
 
-Las dos mujeres detenidas son hermana y llegaron a Ecuador procedentes de República Dominicana, con escala en Panamá.
----------------------------------------------------------------------------------------------------------------------
+La reacción de Zakharova subraya el control rígido que las autoridades rusas ejercen sobre los mensajes emitidos públicamente.
+------------------------------------------------------------------------------------------------------------------------------
 
-![Los detenidos fueron puestos a órdenes de las autoridades.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-22T111337.483.jpg)
+![Maria Zakharova, portavoz del Ministerio de Asuntos Exteriores de Rusia, asiste a una reunión informativa en Moscú, Rusia, el 3 de agosto de 2018.](https://www.elcomercio.com/wp-content/uploads/2024/11/maria-rusia-guerra.jpg)
 
-La Policía Nacional informó sobre el **operativo Renacer 33** que ejecutó en los días anteriores por el delito de presunto lavado de activos.
+Durante una rueda de prensa el 21 de noviembre de 2024, Maria Zakharova, portavoz del Ministerio de Asuntos Exteriores de [Rusia](https://www.elcomercio.com/actualidad/mundo/rusia-demostro-claramente-capacidad-respuesta-occidente.html "https://www.elcomercio.com/actualidad/mundo/rusia-demostro-claramente-capacidad-respuesta-occidente.html"), recibió una **llamada telefónica** que captó la atención de los medios internacionales.
 
 ### Más noticias
 
-* [Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto](https://www.elcomercio.com/actualidad/politica/daniel-noboa-denuncia-irregularidades-marchas-decomiso-aeropuesto.html "Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto")
-* [Daniel Noboa habla de desestabilización, luego de las marchas de la oposición](https://www.elcomercio.com/actualidad/politica/daniel-noboa-desestabilizacion-marchas-oposicion.html "Daniel Noboa habla de desestabilización, luego de las marchas de la oposición")
-* [Este es el saldo de heridos y aprehendidos que deja las marchas](https://www.elcomercio.com/actualidad/politica/heridos-aprehendidos-marchas.html "Este es el saldo de heridos y aprehendidos que deja las marchas")
+* [Rusia demostró claramente su capacidad de respuesta ante Occidente](https://www.elcomercio.com/actualidad/mundo/rusia-demostro-claramente-capacidad-respuesta-occidente.html "Rusia demostró claramente su capacidad de respuesta ante Occidente")
+* [Claudia Sheinbaum exige paz tras el misil balístico de Rusia en Ucrania](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-exige-paz-tras-misil-balistico-rusia-ucrania.html "Claudia Sheinbaum exige paz tras el misil balístico de Rusia en Ucrania")
+* [Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales](https://www.elcomercio.com/actualidad/mundo/putin-aprueba-doctrina-que-permite-respuesta-nuclear-a-ataques-convencionales.html "Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales")
 
-Operativo Renacer 33
---------------------
+Mientras respondía a preguntas de periodistas, se oyó claramente una voz masculina que le ordenó **no hablar del ataque con misiles en la región ucraniana de Dnipro**, de acuerdo con CCN.
 
-La Policía Nacional logró la desarticulación de dos **organizaciones delictiva**s delicadas al lavado de activos. El jueves 21 de noviembre, se realizó la captura en Ecuador de un objetivo de alto valor: Jezdimir S., de nacionalidad serbia.
+La CNN reportó que el incidente ocurrió justo después de que **Ucrania acusara a Rusia** de un bombardeo en Dnipro, lo que dejó **múltiples daños materiales y víctimas.** Este hecho resalta las tensiones persistentes en el conflicto entre ambos países y el manejo estratégico de la información por parte del Kremlin.
 
-Junto a él se capturó a **tres ciudadanos ecuatoriano**s, así como a dos ciudadanos más en Alemania que estarían vinculados a esta red.
+Según la misma fuente, el ataque fue uno **de los más graves en semanas recientes.** Aunque Kyiv atribuye la ofensiva directamente a Moscú, Rusia evitó **confirmar su responsabilidad** en el hecho.
 
-El jueves 21 de noviembre, la Policía ejecutó el **operativo Renacer 33** en el aeropuerto de Quito, donde logró identificar a dos ecuatorianas que venían de República Dominicana y serían parte de la red.
+Control informativo en momentos críticos
+----------------------------------------
 
-Esta red delictiva estaba conformada por ciudadanos ecuatorianos, algunos de los cuales son **funcionarios** públicos del Servicio de **Aduana Aeroportuaria** de Ecuador. Estos funcionarios habrían facilitado el ingreso al territorio ecuatoriano de manera irregular, vulnerando los controles y protocolos.
+La reacción de Zakharova subraya el control rígido que las autoridades rusas ejercen sobre los mensajes emitidos públicamente. Expertos citados por la CNN indican que esta estrategia busca **evitar la exacerbación de críticas internacionales**, especialmente cuando se trata de acciones militares controvertidas.
 
-Se realizaron labores investigativas a través del **intercambio de información** con el Departamento de Seguridad de EE.UU. y República Dominicana. Por medio de análisis de inteligencia criminal, se logró identificar a una red criminal dedicada a ingresar altas cantidades de dinero de dudosa procedencia.
+El ataque en Dnipro y la reacción de Rusia forman parte de un escenario de guerra prolongada que sigue afectando la estabilidad en Europa del Este. Según la CNN, la comunidad internacional continúa presionando para investigar los hechos y **mitigar el impacto humanitario del conflicto**.
 
-Así se detectó el ingreso
--------------------------
+Racing o Cruzeiro relevarán del trono a Liga de Quito en la Sudamericana
+========================================================================
 
-En horas de la madrugada, ingresaron al **aeropuerto Mariscal Sucre** las dos ecuatorianas. Una de ellas llevaba una maleta de mano y, a través de técnicas de perfilamiento, se procedió a revisarla.
+Liga de Quito ganó por primera vez la Copa Sudamericana en el 2009 en el Maracaná de Brasil.
+--------------------------------------------------------------------------------------------
 
-En la maleta se encontró la cantidad de **2 100 000 dólares americanos en efectivo**. Al exterior del aeropuerto, se detectó un auto blindado que pretendía transportar el dinero.
+![Jugadores de Liga de Quito con el título de la Copa Sudamericana de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/11/liga_corona_1.jpg)
 
-Por medio de las investigaciones, se detectó a **cuatro agentes aduaneros,** quienes ayudaban a las dos ciudadanas a pasar desapercibidas en los controles aduaneros. Tres de ellos fueron puestos a órdenes de la justicia.
+**Liga de Quito** está a menos de 24 horas de dejar de ser el campeón de la Copa Sudamericana. El sábado 23 de noviembre de 2024 se jugará una nueva final en el estadio La Olla de Asunción, Paraguay.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-22T112146.386-1024x683.jpg)
+**Racing de Argentina o Cruzeiro de Brasil** tomarán el cetro que por segunda vez ostenta Liga de Quito en su historia, tras el ganado en 2009 cuando el formato aún era en finales de ida y vuelta.
 
-El auto fue retenido, al igual que su conductor. Foto: Policía Nacional
+### Más noticias:
 
-La Senae se pronunció
+* [Medallistas paralímpicas reciben casas por sus logros en París 2024](https://www.elcomercio.com/deportes/juegos-olimpicos/medallistas-paralimpicas-reciben-casas-logros-en-paris-2024.html "Medallistas paralímpicas reciben casas por sus logros en París 2024")
+* [Mia Khalifa desmiente romance con campeón del mundo](https://www.elcomercio.com/deportes/futbol/mia-khalifa-julian-alvarez-romance.html "Mia Khalifa desmiente romance con campeón del mundo")
+* [Deportivo Quito recibe respaldo de hinchas antes de viajar a Portoviejo](https://www.elcomercio.com/deportes/futbol/hinchas-deportivo-quito-jugadores-liga-portoviejo.html "Deportivo Quito recibe respaldo de hinchas antes de viajar a Portoviejo")
+
+El 25 de noviembre de 2009, Liga goleó 5-1 a Fluminense en la final de ida disputada en el estadio Rodrigo Paz Delgado. **Édison Méndez (3), Franklin Salas (1) y Ulises de la Cruz (1)** fueron los autores de los goles. El descuento fue de Marquinho.
+
+Alexander Domínguez; Norberto Araujo, Carlos Espíndola y Diego Calderón; Néicer Reasco, Ulises de la Cruz, William Araujo, **Miller Bolaños, Édison Méndez; Claudio Bieler y Walter Calderón** fue el equipo titular del uruguayo Jorge Fossati.
+
+La revancha se jugó en el Maracaná el 2 de diciembre. Los brasileños ganaron 3-0 con gol de Diguinho, Fred y Gum, con lo que se quedaron a uno de igualar la serie para que se defina en tiempos extra o en los tiros penales.
+
+El único cambio que hizo **Fossati en el equipo titular fue la inclusión de Jairo Campos** por Bolaños.
+
+El segundo título se concretó el 28 de octubre de 2023 en el estadio Domingo Burgeño de Maldonado, Uruguay, bajo el formato de final única.
+
+En los 90 minutos y alargues terminó empatado 1-1. Los brasileños se adelantaron en el marcador con un gol del argentino **Juan Martín Lucero, mientras que Lisandro Alzugaray empató**.
+
+En los penales los albos ganaron 4-3 con Domínguez como la gran figura al atajar tres penales.
+
+Domínguez; José Quintero, **Ricardo Adé, Facundo Rodríguez y Leonel Quiñónez**; Mauricio Martínez, Ezequiel Piovi, Renato Ibarra, Sebastián González y Jhojan Julio; Paolo Guerrero fue el 11 titular del argentino Luis Zubeldía.
+
+Liga cederá su título
 ---------------------
 
-El **Servicio Nacional de Aduana del Ecuador** (Senae) se pronunció sobre el caso en el que se presume la participación de tres vigilantes del Cuerpo de Vigilancia Aduanera.
+Luego de un año y 23 días o lo que es equivalente a 392 días, **LDU cederá el status de vigente campeón** y lo entregará a Racing o Cruzeiro.
 
-En un comunicado, el Senae rechazó rotundamente cualquier **acto de corrupción** y señaló que en ningún caso se protegerá a quienes violen la ley o abusen de sus cargos para cometer actos ilícitos.
+La final se jugará el sábado 23, desde las 15:00, en Asunción, misma ciudad que vio como en 2019 el **Independiente del Valle ganó su primer título del torneo** al derrotar por 3-1 a Colon de Argentina.
 
-Se informa que Aduana **presentó la denuncia en Fiscalía** y prestará todas las acciones que correspondan hasta asegurarse que los responsables enfrenten las sanciones correspondientes.
+En los argentinos destacan los nombres de **Agustín García Basso y Juan Manuel Elorti** con pasado reciente en Independiente del Valle y Delfín, respectivamente.
 
-“En la Nueva Aduana del Ecuador, **no hay espacio para la corrupción**“, concluye el comunicado.
+Además, Gustavo Costas fue el entrenador que en 2012 dirigió a Barcelona Sporting Club en la obtención del título nacional, tras 15 años de espera.
 
-> A la ciudadanía: [pic.twitter.com/PnfS1NBcNz](https://t.co/PnfS1NBcNz)
-> 
-> — Servicio Nacional de Aduana del Ecuador (@SENAE\_Aduana) [November 22, 2024](https://twitter.com/SENAE_Aduana/status/1859788485575729371?ref_src=twsrc%5Etfw)
+En los brasileños sobresale la **presencia de Lautaro Díaz, exdelantero de Independiente del Valle** y campeón de la Sudamericana en 2022, con un gol suyo ante Sao Paulo en Córdoba, Argentina.
 
-Presidente Daniel Noboa reaccionó
----------------------------------
-
-Daniel Noboa se pronunció el jueves 21 de noviembre a través de su cuenta en X sobre este operativo realizado en el aeropuerto de Quito. Según Noboa, el hecho ocurrió en un contexto de las protestas que, según él, **buscan desestabilizar al Gobierno.**
-
-En su publicación, el **Mandatario** planteó la posibilidad de que el hallazgo del dinero y las movilizaciones no fueran coincidencia.
-
-Además, informó que instruyó al Ministerio de Economía para que, una vez finalizado el proceso de extinción de dominio correspondiente, **los recursos incautados sean destinados** a la preservación patrimonial del [Centro Histórico](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") de Quito.
-
-> Hoy, en un contexto donde ciertos sectores intentan desestabilizar al Gobierno mediante movilizaciones, surge un hecho que no podemos ignorar.  
->   
-> En Quito se retuvo a dos mujeres que llegaban de Panamá transportando USD 2 millones en efectivo como si fuera algo común.… [pic.twitter.com/9fL5ptJqID](https://t.co/9fL5ptJqID)
-> 
-> — Daniel Noboa Azin (@DanielNoboaOk) [November 21, 2024](https://twitter.com/DanielNoboaOk/status/1859678091481842057?ref_src=twsrc%5Etfw)
-
-Rusia demostró claramente su capacidad de respuesta ante Occidente
-==================================================================
-
-Putin confirmó el jueves el ataque contra una fábrica de armamento en la región de Dnipró con un misil balístico hipersónico Oréshnik.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Voluntarios militares rusos de la formación 'Bars-Kursk' patrullando en la aldea de Korenevo, región de Kursk, Rusia.](https://www.elcomercio.com/wp-content/uploads/2024/11/rusia-militares-efe.jpg)
-
-El Kremlin aseguró este, 22 de noviembre de 2024, que [Rusia](https://www.elcomercio.com/actualidad/mundo/ucrania-afirma-rusia-posibilidad-prigozhin.html "https://www.elcomercio.com/actualidad/mundo/ucrania-afirma-rusia-posibilidad-prigozhin.html") demostró claramente con el lanzamiento la víspera de un **misil balístico hipersónico** su capacidad de respuesta ante el empleo de armamento occidental de largo alcance contra su territorio.
-
-### Más noticias
-
-* [Claudia Sheinbaum exige paz tras el misil balístico de Rusia en Ucrania](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-exige-paz-tras-misil-balistico-rusia-ucrania.html "Claudia Sheinbaum exige paz tras el misil balístico de Rusia en Ucrania")
-* [10 momentos clave de los 1000 días de guerra de Rusia en Ucrania](https://www.elcomercio.com/actualidad/mundo/10-momentos-clave-1000-dias-guerra-rusia-ucrania.html "10 momentos clave de los 1000 días de guerra de Rusia en Ucrania")
-* [Rusia impone multa astronómica a Google de 20 decillones](https://www.elcomercio.com/tecnologia/rusia-multa-google-gobierno.html "Rusia impone multa astronómica a Google de 20 decillones ")
-
-“La parte rusa **demostró claramente sus capacidades**“, dijo Dmitri Peskov, portavoz presidencial, en su rueda de prensa telefónica diaria.
-
-Peskov añadió que las “insensatas” acciones de Occidente a la hora de **suministrar armamento a Kiev** y participar en esos ataques ucranianos con misiles estadounidenses y británicos contra las regiones fronterizas de Briansk y Kursk “no pueden quedar sin reacción por parte rusa”.
-
-Vladímir Putin y futuras respuestas
------------------------------------
-
-El portavoz también advirtió que la víspera en su mensaje a la nación el presidente ruso, Vladímir Putin, también dibujó con precisión “el **contorno de las futuras respuestas**” en caso de que las preocupaciones rusas “no sean tomadas en cuenta”.
-
-Admitió que a Moscú le hubiera gustado que Washington hubiera atendido a razones cuando Putin aseguró en septiembre que el empleo de **misiles de largo alcance contra Rusia** significaría que la OTAN y EE.UU. “están en guerra con Rusia”.
-
-Con todo, consideró que la intervención por televisión de Putin fue “tan completa” que no deja lugar a dudas sobre la postura rusa al respecto y expresó su confianza en que EE.UU. reciba el mensaje.
-
-A su vez, aseguró que, al no tratarse de un **misil intercontinental**, Rusia no estaba obligada a informar del lanzamiento, aunque Estados Unidos recibió una notificación de manera automática de manos del Centro de Reducción del Riesgo Nuclear.
-
-En su mensaje a la nación Putin confirmó el jueves el **ataque contra una fábrica de armamento** en la región de Dnipró con un misil balístico hipersónico Oréshnik.
-
-Putin subrayó que, “a día de hoy, no hay medios para contrarrestar esas armas”, en alusión a los escudos antimisiles occidentales, y aseguró que Rusia se reserva el derecho a emplear sus **armas contra instalaciones militares** de los países occidentales.
-
-“Nos reservamos el derecho a **utilizar nuestras armas contra objetivos militares** de aquellos países que permiten que sus armas se utilicen contra nuestras instalaciones”, aseveró.
-
-Agregó que Rusia “siempre ha estado y sigue estando dispuesta a **resolver los asuntos controvertidos** a través de medios pacíficos”, pero está “lista” para cualquier escenario.
-
-“No fue Rusia, sino Estados Unidos quien destruyó el **sistema de seguridad internacional** y, al seguir luchando y aferrándose a su hegemonía, está ahora empujando al mundo entero hacia un conflicto global”, opinó.
-
-En caso de una nueva “escalada” en Ucrania, advirtió, Moscú responderá de manera “decisiva y simétrica”.
-
-Mario Godoy pide emergencia para la función judicial tras suspender concurso para jueces
-========================================================================================
-
-El concurso para definir nuevos jueces en Ecuador es uno de los problemas en la Función judicial, en la administración de Mario Godoy.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Mario Godoy, presidente del Consejo de la Judicatura, se refirió al proceso de selección de jueces.](https://www.elcomercio.com/wp-content/uploads/2024/11/Mario-Godoy-concurso.jpg)
-
-Tras la declaratoria de la nulidad del **concurso de selección de jueces** para la Corte Nacional de Justicia, este viernes, 22 de noviembre de 2024, **Mario Godoy**, presidente del Consejo de la Judicatura (CJ), hizo un anuncio.
-
-El 21 de noviembre, el Pleno del [**CJ**](https://www.funcionjudicial.gob.ec/) declaró la anulación total insanable del proceso. La decisión llegó luego de una serie de **irregularidades** y alertas de anomalías.
-
-### Más noticias
-
-* [Consejo de la Judicatura tomó una decisión sobre concurso para jueces y conjueces de la CNJ](https://www.elcomercio.com/actualidad/seguridad/consejo-de-la-judicatura-tomo-una-decision-sobre-concurso-para-jueces-y-conjueces-de-la-cnj.html "Consejo de la Judicatura tomó una decisión sobre concurso para jueces y conjueces de la CNJ")
-* [Futuro del concurso de jueces y conjueces de la CNJ se conocerá esta semana](https://www.elcomercio.com/actualidad/seguridad/futuro-del-concurso-jueces-conjueces-cnj-conocera-esta-semana.html "Futuro del concurso de jueces y conjueces de la CNJ se conocerá esta semana")
-* [Nueve candidatos avanzan en el proceso de selección para la Corte Constitucional](https://www.elcomercio.com/actualidad/politica/nueve-candidatos-avanzan-proceso-seleccion-corte-constitucional.html "Nueve candidatos avanzan en el proceso de selección para la Corte Constitucional")
-
-> 📰 | Boletín  
->   
-> El Pleno del [@CJudicaturaEc](https://twitter.com/CJudicaturaEc?ref_src=twsrc%5Etfw) declaró la nulidad total e insanable del \*Concurso para la Selección y Designación de Jueces y Conjueces de la [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw)\*, este 21 de noviembre de 2024, debido a la magnitud de las irregularidades detectadas durante la fase de… [pic.twitter.com/erMDuwP3dQ](https://t.co/erMDuwP3dQ)
-> 
-> — Consejo de la Judicatura (@CJudicaturaEc) [November 22, 2024](https://twitter.com/CJudicaturaEc/status/1859751500861341947?ref_src=twsrc%5Etfw)
-
-Concurso de jueces y la emergencia de la función judicial
----------------------------------------------------------
-
-**Mario Godoy** informó que el 28 de octubre de este 2024 recibió una alerta por parte de la directora de la Escuela de la Función Judicial. Se trató del intento del acceso al drive del concurso de **selección de jueces** y conjueces para la Corte Nacional de Justicia.
-
-Según el funcionario, hasta el momento, se sabe que se trató de **servidores** de la institución. En la plataforma se encuentra la información del concurso.
-
-Él remitió el caso a la **Dirección de Transparencia** para que realice la investigación administrativa y, de ser el caso, remitir la denuncia a la **Fiscalía General del Estado**.
-
-Para **Mario Godoy**, hay intereses personales. Ya hay una funcionaria involucrada.
-
-La Función Judicial en crisis
------------------------------
-
-El **Presidente del Consejo de la Judicatura**, en una entrevista en Teleamazonas, indicó que la Función Judicial ha atravesado su momento más crítico.
-
-En esa línea, el funcionario señaló que pidió una visita oficial al presidente **Daniel Noboa**. Él fue enfático en que la Función Judicial debe ser declarada en **emergencia**.
-
-Godoy aseguró que en las visitas **a las dependencias judiciales** se encontró con que no se cuenta con recursos, incluso, para artículos de oficina.
-
-“La evaluación de la **Fundación Judicial** es imperante, con parámetros objetivos para todos los funcionarios”.
-
-Además, apuntó que en el transcurso de 90 días se construirá un reglamento para la **selección de jueces** que se ajuste a la realidad del país. El proceso para definir 10 jueces y 15 conjueces nacionales vuelve a cero.
-
-La justicia sin luz
--------------------
-
-Sobre los cortes de luz y la operatividad, **Mario Godoy** informó que, al menos, el 60% los generadores en las instituciones a escala nacional no contaban con el mantenimiento respectivo y estaban con problemas.
-
-El funcionario dispuso que el tema se remita a la **Contraloría General del Estado**, pues, aludió a que no permitirá que negligencias de administraciones pasadas estallen en su gestión.
-
-La hierba para desintoxicar y limpiar el hígado de forma natural
-================================================================
-
-Las propiedades que tiene esta planta mejoran algunos procesos en el organismo.
--------------------------------------------------------------------------------
-
-![La infusión de diente de león es la mejor manera de potenciar sus beneficios en el organismo.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-6-1.jpg)
-
-El **hígado** es uno de los **órganos** más importantes del **cuerpo humano**, debido a las múltiples funciones vitales que cumple, pues ayuda a **eliminar toxinas** y **desechos del torrente sanguíneo**, produce bilis, la cual ayuda a descomponer las **grasas** y absorber diferentes **nutrientes esenciales**[.](https://es.wikipedia.org/wiki/H%C3%ADgado#:~:text=El%20h%C3%ADgado%20tiene%20una%20forma,aproximado%20es%201%2C5%20kg. "https://es.wikipedia.org/wiki/H%C3%ADgado#:~:text=El%20h%C3%ADgado%20tiene%20una%20forma,aproximado%20es%201%2C5%20kg.")
-
-### Más noticias
-
-* [¿Cuál es el cáncer más agresivo? Síntomas tempranos y cómo prevenirlo, según la medicina](https://www.elcomercio.com/tendencias/salud/cancer-agresivo-sintomas-prevenirlo-medicina.html "¿Cuál es el cáncer más agresivo? Síntomas tempranos y cómo prevenirlo, según la medicina")
-* [Ecuador reporta un promedio diario de 14 nuevos casos de VIH](https://www.elcomercio.com/tendencias/salud/ecuador-reporta-un-promedio-diario-de-14-nuevos-casos-de-vih.html "Ecuador reporta un promedio diario de 14 nuevos casos de VIH")
-* [Es diurético que ayuda al organismo a eliminar toxinas.](https://www.elcomercio.com/wp-content/uploads/2024/05/BATIDO-ALFALFA-MIEL-2.jpg "Es diurético que ayuda al organismo a eliminar toxinas.")
-
-Por estas y más razones es importante cuidar de manera adecuada esta parte del cuerpo. Una de las formas más conocidas de brindarle una **vida sana al hígado** es tomando mucha agua y algunas **infusiones de hierbas**, como el **diente de león.**
-
-Esta **planta** es utilizada como medicina en Europa desde la antigüedad, debido a que **tiene altos niveles** de vitaminas A, B1, B2, C, D y algunos minerales como el **potasio, hierro, calcio** y otras propiedades más. Generalmente, se consume como **diurético**, **colerético** y **colagogo**.
-
-![El hígado es uno de los órganos principales en el organismo, por lo que su cuidado debe ser prioridad en cuanto a la salud.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-5-1-1024x683.jpg)
-
-El hígado es uno de los órganos principales en el organismo, por lo que su cuidado debe ser prioridad en cuanto a la salud.
-
-El **diente de león** es conocido por su capacidad de aliviar diferentes **trastornos digestivos** como la llenura, las **flatulencias** y las **digestiones** lentas. Además, también es un “coadyuvante en **afecciones** urinarias leves”, según Paz Pérez, nutricionista.
-
-Efectos del diente de león
---------------------------
-
-Tomar el **diente de león** en infusión produce un fuerte **efecto desintoxicante** y contribuye en la **eliminación de toxinas**. Actúa principalmente sobre el **hígado**, ayudando a cada una de las funciones que este **órgano** tiene en el **organismo**. También puede mejorar el trabajo de los **riñones** y el **sistema digestivo.**
-
-Es útil en **tratamientos** de afecciones asociadas con la **difusión hepática**, como el acné, dolores de cabeza, trastornos menstruales, colesterol alto y enfermedades cardiovasculares, debido a que contiene lecitina, un nutriente que trabaja en contra de las **enfermedades del hígado**.
-
-Efecto diurético
-----------------
-
-El **diente de león** tiene un gran **efecto diurético**, el cual ayuda a estimular el proceso de la micción y esto lo hace demasiado útil para la prevención y el cuidado de la hinchazón y la cistitis.
-
-También tiene **grandes beneficios** para tratar otras afecciones como la colitis crónica, el estreñimiento, la diarrea y los **calambres estomacales.** De la misma manera, gracias a sus **propiedades antiinflamatorias** puede ayudar a curar algunas enfermedades del intestino.
-
-Efecto digestivo
-----------------
-
-El **diente de león** “aporta inulina, polisacárido soluble en agua que es descompuesto por las bacterias formando ácidos grasos de cadena corta. Esta inulina aumenta el bolo fecal favoreciendo el tránsito intestinal”, según explica la experta Pérez.
-
-Además, tiene un **ingrediente** amargo conocido como taraxacina, el cual tiene la importante función de promover la secreción de **ácido gástrico**, lo cual favorece de gran manera la **digestión**, aumenta el apetito y alivia la pesadez del estómago.
-
-Es importante que antes de agregar esta hierba en su dieta diaria, consulte primero con un especialista que valide que su consumo no tendrá ningún tipo de efecto secundario no deseado sobre su salud.
+San viernes
+-----------
