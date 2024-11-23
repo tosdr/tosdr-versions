@@ -13,6 +13,10 @@
             White Eagle Hall](https://www.songkick.com/concerts/42281797-damned-at-white-eagle-hall)
         *  [![Mannequin Pussy Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mannequin Pussy  
             White Eagle Hall](https://www.songkick.com/concerts/42285218-mannequin-pussy-at-white-eagle-hall)
+        *  [![Richard Thompson Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Richard Thompson  
+            White Eagle Hall](https://www.songkick.com/concerts/42288262-richard-thompson-at-white-eagle-hall)
+        *  [![Mekons Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mekons  
+            White Eagle Hall](https://www.songkick.com/concerts/42285217-mekons-at-white-eagle-hall)
         *  [![Redd Kross Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Redd Kross  
             WFMU 91.1 FM](https://www.songkick.com/concerts/42282278-redd-kross-at-wfmu-911-fm)
         *  [![Public Serpents Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Public Serpents  
