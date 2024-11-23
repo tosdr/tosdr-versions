@@ -137,9 +137,9 @@ MSX Music player
 
 Latest reactions
 
+* [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
-* [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)](https://www.msx.org/photoshoots/nijmegen-2010/new-stuff-sale-bitwise-booth-including-many-msxdev-games-and-advanced-vers "New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [JPT-PANAKEY-V2 Panasonic MSX2+ and turbo R keyboard replacement by Leonardo Padial](https://www.msx.org/news/hardware/en/jpt-panakey-v2-pansonic-msx2-and-turbo-r-keyboard-replacement-leonardo-padial "JPT-PANAKEY-V2 Panasonic MSX2+ and turbo R keyboard replacement by Leonardo Padial")
@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
+* [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun "Run Bubble Rain with Sofarun")
+* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
+* [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
 * [MSX on Miyoo Mini+ with ONION-OS](https://www.msx.org/forum/msx-talk/emulation/msx-on-myioo-mini-with-onion-os "MSX on Miyoo Mini+ with ONION-OS")
+* [FutureDisk 48 and 49](https://www.msx.org/forum/msx-talk/software/futuredisk-48-and-49 "FutureDisk 48 and 49")
+* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
 * [Sony MSX HB-75B - Picture Won't Sync](https://www.msx.org/forum/msx-talk/hardware/sony-msx-hb-75b-picture-wont-sync "Sony MSX HB-75B - Picture Won't Sync")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=77 "WonderTANG! Who wants to juice up your MSX?")
-* [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
 * [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/forum/msx-talk/hardware/msx-pico-multi-flash-rom-cartridge?page=3 "MSX Pico - multi Flash ROM cartridge")
 * [Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.](https://www.msx.org/forum/msx-talk/hardware/obsonet-raspberrypi-internestor-lite-23-freeze-on-install "Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.")
 * [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
-* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=7 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
-* [problems with Megaflashrom SCC+](https://www.msx.org/forum/msx-talk/general-discussion/problems-with-megaflashrom-scc "problems with Megaflashrom SCC+")
-* [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250?page=1 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
-* [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o?page=1 "RTC batteries actually working? :O")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
