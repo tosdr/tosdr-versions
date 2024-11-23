@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Surgeons remove 2.5-inch hairball from teen with rare Rapunzel syndrome](https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-653058010-768x432.jpg)](https://arstechnica.com/health/2024/11/surgeons-remove-2-5-inch-hairball-from-teen-with-rare-rapunzel-syndrome/)
+1. [![Listing image for first story in Most Read: Russian ballistic missile attack on Ukraine portends new era of warfare](https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-1232783815-scaled-768x432-1732290065.jpg)](https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/)
     
-    1. [Surgeons remove 2.5-inch hairball from teen with rare Rapunzel syndrome](https://arstechnica.com/health/2024/11/surgeons-remove-2-5-inch-hairball-from-teen-with-rare-rapunzel-syndrome/)
+    1. [Russian ballistic missile attack on Ukraine portends new era of warfare](https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/)
     
-2. 2. [Russian ballistic missile attack on Ukraine portends new era of warfare](https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/)
+2. 2. [Surgeons remove 2.5-inch hairball from teen with rare Rapunzel syndrome](https://arstechnica.com/health/2024/11/surgeons-remove-2-5-inch-hairball-from-teen-with-rare-rapunzel-syndrome/)
     
 3. 3. [Study: Why Aztec “death whistles” sound like human screams](https://arstechnica.com/science/2024/11/study-why-aztec-death-whistles-sound-like-human-screams/)
     
 4. 4. [School did nothing wrong when it punished student for using AI, court rules](https://arstechnica.com/tech-policy/2024/11/school-did-nothing-wrong-when-it-punished-student-for-using-ai-court-rules/)
     
-5. 5. [Obsidian’s Avowed is the cure for “Souls-like” action-RPG fatigue](https://arstechnica.com/gaming/2024/11/obsidians-avowed-is-the-cure-for-souls-like-action-rpg-fatigue/)
+5. 5. [Rocket Report: Next Vulcan launch slips into 2025; Starship gets a green light](https://arstechnica.com/space/2024/11/rocket-report-next-vulcan-launch-slips-into-2025-starship-gets-a-green-light/)
     
 
 Customize
