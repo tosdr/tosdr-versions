@@ -95,15 +95,27 @@ SearchCtrl + K
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=SgLvK6k3LdBXRGNUVQN6)
 
+![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)
+
+This website and its contents are copyright © 1999 - 2024 Jagex Ltd.
+
 On this page
 
 Legal Portal
 ============
 
-[Contact us](https://www.jagex.com/readme/contact-us)[Annual reports](https://www.jagex.com/readme/annual-reports)[Partners and third parties](https://www.jagex.com/readme/partners-and-third-parties)[Policies](https://www.jagex.com/readme/policies)[Terms](https://www.jagex.com/readme/terms)[Rules](https://www.jagex.com/readme/rules)[Imprint](https://www.jagex.com/readme/imprint)
-
 Last updated 3 months ago
 
-![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)
+[Contact us](https://www.jagex.com/readme/contact-us)
 
-This website and its contents are copyright © 1999 - 2024 Jagex Ltd.
+[Annual reports](https://www.jagex.com/readme/annual-reports)
+
+[Partners and third parties](https://www.jagex.com/readme/partners-and-third-parties)
+
+[Policies](https://www.jagex.com/readme/policies)
+
+[Terms](https://www.jagex.com/readme/terms)
+
+[Rules](https://www.jagex.com/readme/rules)
+
+[Imprint](https://www.jagex.com/readme/imprint)
