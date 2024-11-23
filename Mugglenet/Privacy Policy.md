@@ -302,15 +302,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Nicholas Flamel was a real person who made it his life’s work to try to create a Philosopher’s Stone after learning about alchemy.
+Shirley Henderson was aged 35 at the time that she first played Moaning Myrtle. She is the oldest actor to play a Hogwarts student in the Harry Potter films.
 
 ### Potter History
 
-July 23, 2010 – StarKid releases A Very Potter Sequel on their YouTube account.
+June 18, 2010 – The Wizarding World of Harry Potter opens at Universal Orlando Resort.
 
 ### Potter Quote
 
-“Pathetic! With the whole wide world of ear-related humor before you, you go for holey?”
+“Wangoballwime?”
 
 [](#)
 
