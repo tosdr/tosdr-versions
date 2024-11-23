@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_674105419e78f)
+* [fun from day one!](#tab_67415803e40f3)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_674105419e78f)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_67415803e40f3)
     
-* [fomo no more!](#tab_674105419e7a3)
+* [fomo no more!](#tab_67415803e4105)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_674105419e7a3)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_67415803e4105)
     
-* [we’ve got you covered, dude](#tab_674105419e7b1)
+* [we’ve got you covered, dude](#tab_67415803e4112)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_674105419e7b1)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_67415803e4112)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,9 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[We hate when this happens🤷🏽‍♀️ Tag a f ![We hate when this happens🤷🏽‍♀️ Tag a friend who doesn’t know left and right🤣👇🏼
+#leftrightleft #viaamsterdam #amsterdambar #bartenderlife #amsterdam🇳🇱](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCrR1ictOzy/) 
+
 [Amsterdam tip!!🚨 Until Sunday, the world's larg ![Amsterdam tip!!🚨
 Until Sunday, the world's largest documentary festival takes place in Amsterdam! With various workshops and over 300 movies that tell stories about life around the world🎞🍿 We highly recommend catching a film or two if you are here this week!
 Check out their website to see the whole program, psst students get discounted ticket price😉💸](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCoKr7KojxA/) 
@@ -150,8 +153,6 @@ Footage from @amsterdamlightfestival 😍
 
 [Our Hallo-week was a blast! Fun times and spooky v ![Our Hallo-week was a blast! Fun times and spooky vibes all around! We are already planning our costume for next year…👻😂🙌🏼
 #halloweenparty #halloweekend #amsterdamcity #hostellife😍 #solotraveler](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB9XAS1tFTE/) 
-
-[Via – your place for buzzing experiences and con ![Via – your place for buzzing experiences and connections👯‍♀️💛⭐](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DB50XE5CtF4/) 
 
 current & upcoming events
 -------------------------
