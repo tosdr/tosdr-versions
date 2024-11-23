@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Listening for Early Signs of Alzheimer's](https://www.sciencedaily.com/releases/2024/11/241120122700.htm)
+* [Finding a Solution to Insecticide Resistance](https://www.sciencedaily.com/releases/2024/11/241122172740.htm)
+* [Earliest Fish-Trapping Facility: Maya Lowlands](https://www.sciencedaily.com/releases/2024/11/241122160753.htm)
+* [Wolves as Pollinators, Feeding On Nectar](https://www.sciencedaily.com/releases/2024/11/241120122020.htm)
+* [Athletes Have Better Working Memory](https://www.sciencedaily.com/releases/2024/11/241120122147.htm)
+* [Pumping Drugs Directly Into the GI Tract](https://www.sciencedaily.com/releases/2024/11/241120121836.htm)
+* [2 Million Mph Galaxy Smash-Up](https://www.sciencedaily.com/releases/2024/11/241121225909.htm)
+* [Previously Unknown Compound in Drinking Water](https://www.sciencedaily.com/releases/2024/11/241121141048.htm)
+* [Detailed RNA Analysis of the Whole Brain](https://www.sciencedaily.com/releases/2024/11/241121141005.htm)
 * [Microbiome of US Rivers](https://www.sciencedaily.com/releases/2024/11/241120121731.htm)
-* [Early Skeleton Map: How Bones Form in Humans](https://www.sciencedaily.com/releases/2024/11/241120121741.htm)
-* [Human Gut: Mapping 1.6 Million Gut Cells](https://www.sciencedaily.com/releases/2024/11/241120121728.htm)
-* [Human Immune System Ready Long Before Birth](https://www.sciencedaily.com/releases/2024/11/241120121641.htm)
-* [Human Heart: Hidden Ability to Repair Itself](https://www.sciencedaily.com/releases/2024/11/241121141348.htm)
-* [Oldest Known Alphabet Unearthed](https://www.sciencedaily.com/releases/2024/11/241120193145.htm)
-* [Supernova Could End Search for Dark Matter](https://www.sciencedaily.com/releases/2024/11/241121141213.htm)
-* [Whale-Ship Collisions: Few Precautions Taken](https://www.sciencedaily.com/releases/2024/11/241121141110.htm)
-* [Chemists Create World's Thinnest Spaghetti](https://www.sciencedaily.com/releases/2024/11/241121141211.htm)
-* [Climate: Millions of Coastal Residences at Risk](https://www.sciencedaily.com/releases/2024/11/241121115809.htm)
 
 Trending Topics
 ---------------
@@ -228,19 +228,19 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
-
 [Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
 
 [Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
+[PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
 
-[Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
+[Computer Modeling](https://www.sciencedaily.com/news/computers_math/computer_modeling/)
+
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -248,7 +248,7 @@ this week
 
 [Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
 
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+[Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
   
 
