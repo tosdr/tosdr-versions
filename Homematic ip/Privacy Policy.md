@@ -329,6 +329,14 @@ Homematic IP Home Control Unit: Timeline für die Cloud-Migration und Plug-In-En
 
 [Nov.
 
+28-30
+
+Event
+
+BAUHAUS Würselen: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-11-28-bauhaus-wuerselen)
+
+[Nov.
+
 21-23
 
 Event
