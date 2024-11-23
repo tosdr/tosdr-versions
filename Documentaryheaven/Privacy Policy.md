@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Today I Died](/wp-content/thumbnails/5981-100x70.jpg?x53432)
+* [![PQ17 An Arctic Convoy Disaster](/wp-content/thumbnails/8539-100x70.jpg?x53432)
     
-    Today I Died
+    PQ17 An Arctic Convoy Disaster
     
-    This BBC documentary is about the scientific studies of after death experiences. What happens after the body has stopped living? What experiences does the dying go through? Can the brain live on after](https://documentaryheaven.com/today-i-died/ "Today I Died")
-* [![One Killer Punch](/wp-content/thumbnails/13920-100x70.gif?x53432)
+    Man has fought wars in many terrible places over the centuries, but never has he fought in a place as terrible as this, this is the place where the men who ran the second world war arctic convoys went](https://documentaryheaven.com/pq17-an-arctic-convoy-disaster/ "PQ17 An Arctic Convoy Disaster")
+* [![Bill Hicks: Archived Scraps From Beyond](/wp-content/thumbnails/6147-100x70.jpg?x53432)
     
-    One Killer Punch
+    Bill Hicks: Archived Scraps From Beyond
     
-    One Killer Punch is an incredibly hard hitting film which sets out to explore the phenomenon of a one punch kill. With regards to the law and sentencing it is certainly in the grey area because it can](https://documentaryheaven.com/one-killer-punch/ "One Killer Punch")
-* [![Stabbed: Britain’s Knife Crime Crisis](/wp-content/thumbnails/14499-100x70.jpg?x53432)
+    Back in January of 2009, I was busy digging up some old, \*old\* bits & pieces of material from the internet and stitching them together. Here is a bit of an eulogy for Bill, the mood suddenly struc](https://documentaryheaven.com/bill-hicks-archived-scraps-from-beyond/ "Bill Hicks: Archived Scraps From Beyond")
+* [![Brian Douglas Wells](/wp-content/thumbnails/6192-100x70.jpg?x53432)
     
-    Stabbed: Britain’s Knife Crime Crisis
+    Brian Douglas Wells
     
-    The first person to be fatally stabbed in 2018 in the United Kingdom died just 12 minutes into the new year. Three hours later a second person is killed in a knife attack, the year goes on to become t](https://documentaryheaven.com/stabbed-britains-knife-crime-crisis/ "Stabbed: Britain’s Knife Crime Crisis")
-* [![Chiraq](/wp-content/thumbnails/8576-100x70.png?x53432)
+    Brian Douglas Wells (November 15, 1956 – August 28, 2003) was an American pizza delivery man who was killed by a time bomb fastened to his neck, purportedly under coercion from the maker of the bomb.](https://documentaryheaven.com/brian-douglas-wells/ "Brian Douglas Wells")
+* [![The Pyramid Code](/wp-content/thumbnails/6328-100x70.jpg?x53432)
     
-    Chiraq
+    The Pyramid Code
     
-    This is an eight part documentary by Vice's music devision, Noisey. They venture to Englewood which is one of the sketchiest areas in Chicago city and hook up with Chief Keef, a famous rapper in the H](https://documentaryheaven.com/chiraq/ "Chiraq")
-* [![Unraveling the Madness of Kanye West](/wp-content/thumbnails/16540-100x70.jpg?x53432)
+    The Band of Peace The Pyramid Code is a documentary series of 5 parts that explores the pyramid fields and ancient temples in Egypt as well as ancient megalithic sites around the world looking for clu](https://documentaryheaven.com/the-pyramid-code/ "The Pyramid Code")
+* [![Louis Theroux: Law and Disorder in Philadelphia](/wp-content/thumbnails/395-100x70.png?x53432)
     
-    Unraveling the Madness of Kanye West
+    Louis Theroux: Law and Disorder in Philadelphia
     
-    In today's musical landscape there are few artists more polarising than Kanye West. Unlike most entertainers, it's Kanye's unparalleled boldness that simultaneously propels him to new heights whilst](https://documentaryheaven.com/unraveling-madness-of-kanye-west/ "Unraveling the Madness of Kanye West")
+    Louis Theroux: Law and Disorder in Philadelphia Louis Theroux joins the Philadelphia Police Department patrolling the most dangerous part of one of the most violent cities in America. from the Telegra](https://documentaryheaven.com/louis-theroux-law-and-disorder-in-philadelphia/ "Louis Theroux: Law and Disorder in Philadelphia")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
