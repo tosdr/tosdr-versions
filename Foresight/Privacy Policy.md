@@ -14,8 +14,11 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [79k+ Downloads](https://foresight.is/users/)
-* [Blog](https://foresight.is/blog/)
-* [Changelog](https://foresight.is/changelog/)
+* [Updates 1](#)
+    
+    * [Changelog](https://foresight.is/changelog/)
+    * [Venture Studio Model Update](https://foresight.is/changelog/#2024-11-22-venture-studio-edit)
+    
 * [Docs](https://foresight.is/docs/)
 
 Login
@@ -44,7 +47,7 @@ Close
 
 [Templates](https://foresight.is/templates) [Courses](https://foresight.is/courses) [Services](https://foresight.is/services)
 
-[About](https://foresight.is/hello/) [79k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog](https://foresight.is/changelog/) [Documentation](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
+[About](https://foresight.is/hello/) [79k+ Downloads](https://foresight.is/users/) [Blog](https://foresight.is/blog/) [Changelog 1](https://foresight.is/changelog/) [Documentation](https://foresight.is/docs/) [Help](https://foresight.is/help/) [Talent](https://foresight.is/talent/) [Contact](https://foresight.is/contact/) [Home](https://foresight.is/)
 
 [Legal](https://foresight.is/legal/)
 
