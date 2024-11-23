@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)\-1°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)\-2°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,24 +54,24 @@
 
 Thèmes du moment
 
-* [Politique](https://www.watson.ch/fr/politique/)
-* [Météo](https://www.watson.ch/fr/meteo/)
-* [Séries](https://www.watson.ch/fr/series/)
-* [Neige](https://www.watson.ch/fr/neige/)
 * [France](https://www.watson.ch/fr/france/)
-* [Union Européenne](https://www.watson.ch/fr/union-europeenne/)
+* [Gaza](https://www.watson.ch/fr/gaza/)
+* [ONU](https://www.watson.ch/fr/onu/)
 * [Russie](https://www.watson.ch/fr/russie/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Musique](https://www.watson.ch/fr/musique/)
+* [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
+* [Séries](https://www.watson.ch/fr/series/)
 * [Poutine](https://www.watson.ch/fr/poutine/)
+* [guerre](https://www.watson.ch/fr/guerre/)
 * [Paris](https://www.watson.ch/fr/paris/)
+* [Suisse alémanique](https://www.watson.ch/fr/suisse-alemanique/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Jeux olympiques](https://www.watson.ch/fr/jeux-olympiques/)
 * [votations 2024](https://www.watson.ch/fr/votations-2024/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Transports](https://www.watson.ch/fr/transports/)
 * [voiture](https://www.watson.ch/fr/voiture/)
-* [route](https://www.watson.ch/fr/route/)
-* [Best of watson](https://www.watson.ch/fr/best-of-watson/)
-* [Genève](https://www.watson.ch/fr/geneve/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [En direct](https://www.watson.ch/fr/en-direct/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
