@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Word Yo!](https://www.myabandonware.com/game/word-yo-tap)
+* [Dirt Bike Maniacs](https://www.myabandonware.com/game/dirt-bike-maniacs-tao)
 * [Zoo Tycoon 2: Extinct Animals](https://www.myabandonware.com/game/zoo-tycoon-2-extinct-animals-tam)
 * [Zoo Tycoon 2: Marine Mania](https://www.myabandonware.com/game/zoo-tycoon-2-marine-mania-tak)
 * [Zoo Tycoon 2: Dino Danger Pack](https://www.myabandonware.com/game/zoo-tycoon-2-dino-danger-pack-taj)
-* [Zoo Tycoon 2: African Adventure](https://www.myabandonware.com/game/zoo-tycoon-2-african-adventure-tai)
-* [Zoo Tycoon 2: Endangered Species](https://www.myabandonware.com/game/zoo-tycoon-2-endangered-species-tah)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
