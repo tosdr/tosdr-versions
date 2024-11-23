@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/alles-vergaat-liefde-en-licht-blijven-bestaan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/help-de-amazone-houtkap-tegenhouden/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
