@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2021'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2046'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/powershell-1-1-80x21.png)](https://thebackroomtech.com/2019/03/25/how-to-remove-a-hyper-v-vm-snapshot-using-powershell/ "How to Remove a Hyper-V VM Snapshot using PowerShell")[How to Remove a Hyper-V VM Snapshot using PowerShell](https://thebackroomtech.com/2019/03/25/how-to-remove-a-hyper-v-vm-snapshot-using-powershell/ "How to Remove a Hyper-V VM Snapshot using PowerShell")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2037'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/vmware-workstation-80x46.png)](https://thebackroomtech.com/2009/04/02/fix-for-vmware-error-could-not-open-virtual-machine-this-virtual-machine-appears-to-be-in-use/ "Fix for VMWare error: Could not open virtual machine, this virtual machine appears to be in use")[Fix for VMWare error: Could not open virtual machine, this virtual machine appears to be in use](https://thebackroomtech.com/2009/04/02/fix-for-vmware-error-could-not-open-virtual-machine-this-virtual-machine-appears-to-be-in-use/ "Fix for VMWare error: Could not open virtual machine, this virtual machine appears to be in use")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/ntdsutil-files-80x37.png)](https://thebackroomtech.com/2018/08/23/active-directory-dsrm-and-defragmentation/ "Active Directory DSRM and Defragmentation")[Active Directory DSRM and Defragmentation](https://thebackroomtech.com/2018/08/23/active-directory-dsrm-and-defragmentation/ "Active Directory DSRM and Defragmentation")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2047'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/amazon-sns-ft-80x45.png)](https://thebackroomtech.com/2021/03/12/how-to-setup-amazon-sns/ "How to Setup Amazon SNS")[How to Setup Amazon SNS](https://thebackroomtech.com/2021/03/12/how-to-setup-amazon-sns/ "How to Setup Amazon SNS")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/remotely-viewing-vm-80x47.png)](https://thebackroomtech.com/2017/09/13/setup-vmware-workstation-server-connect-shared-vms/ "How to Setup VMware Workstation Server and Connect to Shared VMs")[How to Setup VMware Workstation Server and Connect to Shared VMs](https://thebackroomtech.com/2017/09/13/setup-vmware-workstation-server-connect-shared-vms/ "How to Setup VMware Workstation Server and Connect to Shared VMs")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2030'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/networking-1626665_640-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2019/07/20/how-to-encrypt-data-in-amazon-s3/ "How To Encrypt Data In Amazon S3")[How To Encrypt Data In Amazon S3](https://thebackroomtech.com/2019/07/20/how-to-encrypt-data-in-amazon-s3/ "How To Encrypt Data In Amazon S3")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2059%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/suse-linux-80x30.png)](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")[Howto: Mount a Windows share on SLES linux using cifs](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")
+    ![](https://s11921.pcdn.co/wp-content/uploads/telnet-client-59x52.png)](https://thebackroomtech.com/2009/05/28/fix-blank-screen-when-using-windows-xp-telnet-client/ "Fix: Blank Screen When using Windows XP Telnet Client")[Fix: Blank Screen When using Windows XP Telnet Client](https://thebackroomtech.com/2009/05/28/fix-blank-screen-when-using-windows-xp-telnet-client/ "Fix: Blank Screen When using Windows XP Telnet Client")
 
 #### Our Publishing Family
 
