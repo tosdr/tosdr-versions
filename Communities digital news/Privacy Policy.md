@@ -26,43 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-joy-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/joe-rogan-updates-his-bio-in-hilarious-response-to-joy-behar-trashing-him-on-the-view/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-gaetz-1200x630.jpg)](https://americanwirenews.com/matt-gaetzs-wife-teases-cryptic-photo-ahead-of-announcement-he-wont-be-rejoining-congress/)
 
-[Joe Rogan updates his bio in hilarious response to Joy Behar trashing him on ‘The View’](https://americanwirenews.com/joe-rogan-updates-his-bio-in-hilarious-response-to-joy-behar-trashing-him-on-the-view/)
+[Matt Gaetz’s wife teases cryptic photo ahead of announcement he won’t be rejoining Congress](https://americanwirenews.com/matt-gaetzs-wife-teases-cryptic-photo-ahead-of-announcement-he-wont-be-rejoining-congress/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-redlightcam-1200-x-628-1200x630.jpg)](https://americanwirenews.com/apparently-chicago-traffic-light-cameras-are-racist-too-dem-lawmaker-calls-for-probe/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gillis-budlight-1200x630.jpg)](https://americanwirenews.com/bud-light-teams-up-with-superstar-comedian-to-claw-back-customers/)
 
-[Apparently, Chicago traffic light cameras are racist too, Dem lawmaker calls for probe](https://americanwirenews.com/apparently-chicago-traffic-light-cameras-are-racist-too-dem-lawmaker-calls-for-probe/)
+[Bud Light teams up with superstar comedian to claw back customers](https://americanwirenews.com/bud-light-teams-up-with-superstar-comedian-to-claw-back-customers/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mace-1200x630.png)](https://americanwirenews.com/nancy-mace-gets-last-laugh-after-being-heckled-by-a-man-in-a-dress/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-collins-1200x630.jpg)](https://americanwirenews.com/dan-scavino-squashes-cnn-scoop-trump-picked-anti-maga-fbi-head/)
 
-[Nancy Mace gets last laugh after being heckled by angry man in a dress](https://americanwirenews.com/nancy-mace-gets-last-laugh-after-being-heckled-by-a-man-in-a-dress/)
+[Dan Scavino squashes CNN ‘scoop’ Trump picked ‘anti-MAGA’ FBI head](https://americanwirenews.com/dan-scavino-squashes-cnn-scoop-trump-picked-anti-maga-fbi-head/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-gaetz-1200x630.jpg)](https://americanwirenews.com/nyt-reveals-names-of-gang-of-4-gop-senators-who-sunk-gaetz/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-marjorie-taylor-greene-commitee-hearing-1200x630.jpg)](https://americanwirenews.com/mtg-puts-do-nothing-bureaucrats-on-pink-slip-notice-as-new-doge-sub-committee-chair/)
 
-[NYT reveals names of ‘Gang of 4’ GOP Senators who sunk Gaetz](https://americanwirenews.com/nyt-reveals-names-of-gang-of-4-gop-senators-who-sunk-gaetz/)
+[MTG puts do-nothing bureaucrats on ‘pink slip’ notice as new DOGE subcommittee chair](https://americanwirenews.com/mtg-puts-do-nothing-bureaucrats-on-pink-slip-notice-as-new-doge-sub-committee-chair/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-classroom-students-1200x630.jpg)](https://americanwirenews.com/education-department-agrees-to-rescind-mandatory-woke-curriculum-standards/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-view-bondi.jpg)](https://americanwirenews.com/the-view-spirals-over-pam-bondi-pick-she-hasnt-beheaded-a-whale-my-gd/)
 
-[Education department agrees to rescind mandatory ‘woke’ curriculum standards](https://americanwirenews.com/education-department-agrees-to-rescind-mandatory-woke-curriculum-standards/)
+[‘The View’ SPIRALS over Pam Bondi pick: ‘She hasn’t beheaded a whale … my, G\*d!’](https://americanwirenews.com/the-view-spirals-over-pam-bondi-pick-she-hasnt-beheaded-a-whale-my-gd/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-1-1200x630.jpg)](https://americanwirenews.com/the-view-co-host-has-to-read-another-note-after-smearing-trump-nominees/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-perry-harris-1200x630.jpg)](https://americanwirenews.com/not-the-own-you-think-it-is-singer-who-campaigned-for-kamala-tells-fans-to-watch-idiocracy/)
 
-[‘The View’ co-host has to read ANOTHER note after smearing Trump nominees](https://americanwirenews.com/the-view-co-host-has-to-read-another-note-after-smearing-trump-nominees/)
+[‘Not the own you think it is’: Singer who campaigned for Kamala tells fans to watch ‘Idiocracy’](https://americanwirenews.com/not-the-own-you-think-it-is-singer-who-campaigned-for-kamala-tells-fans-to-watch-idiocracy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kith-1200x630.jpg)](https://americanwirenews.com/nyc-migrant-arrested-for-throwing-ex-pals-puppy-off-of-14th-floor-balcony-walks-free/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/jefferson-county-castillo-1-1200x630.jpg)](https://americanwirenews.com/illegal-alien-from-venezuela-arrested-for-alleged-sexual-assault-on-employers-teen-daughter/)
 
-[NYC migrant arrested for throwing ex-pal’s puppy off of 14th floor balcony walks free](https://americanwirenews.com/nyc-migrant-arrested-for-throwing-ex-pals-puppy-off-of-14th-floor-balcony-walks-free/)
+Jefferson County Sheriff's Office
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1370393143-1200x630.jpg)](https://americanwirenews.com/elon-musk-trolls-ellen-degeneres-over-move-sets-off-hilarious-meme-fest/)
+[Illegal alien from Venezuela arrested for alleged sexual assault on employer’s teen daughter](https://americanwirenews.com/illegal-alien-from-venezuela-arrested-for-alleged-sexual-assault-on-employers-teen-daughter/)
 
-(Getty Images for Roc Nation)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jaguar-1200x630.png)](https://americanwirenews.com/soon-youll-see-things-our-way-jaguar-warns-those-not-onboard-with-its-dei-agenda/)
 
-[Elon Musk Diddy-trolls Ellen DeGeneres over move, sets off hilarious meme-fest](https://americanwirenews.com/elon-musk-trolls-ellen-degeneres-over-move-sets-off-hilarious-meme-fest/)
+[‘Soon you’ll see things our way’: Jaguar warns those not onboard with its DEI agenda](https://americanwirenews.com/soon-youll-see-things-our-way-jaguar-warns-those-not-onboard-with-its-dei-agenda/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fett-bibi-rash-split-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kjp-1200x630.png)
 
-### Lawmakers react to rogue global court’s arrest warrant for Netanyahu](https://americanwirenews.com/lawmakers-react-to-rogue-global-courts-arrest-warrant-for-netanyahu/)
+### KJP gets wrecked after boasting how much cheaper Thanksgiving meals are](https://americanwirenews.com/kjp-gets-wrecked-after-boasting-how-much-cheaper-thanksgiving-meals-are/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -80,43 +80,15 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-gaetz-220x180.jpg)](https://americanwirenews.com/matt-gaetzs-wife-teases-cryptic-photo-ahead-of-announcement-he-wont-be-rejoining-congress/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ibarra-220x180.jpg)](https://americanwirenews.com/msnbc-buried-in-backlash-for-sympathetic-headline-addressing-laken-rileys-killer/)
 
-[Matt Gaetz’s wife teases cryptic photo ahead of announcement he won’t be rejoining Congress](https://americanwirenews.com/matt-gaetzs-wife-teases-cryptic-photo-ahead-of-announcement-he-wont-be-rejoining-congress/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-view-bondi-220x180.jpg)](https://americanwirenews.com/the-view-spirals-over-pam-bondi-pick-she-hasnt-beheaded-a-whale-my-gd/)
-
-[‘The View’ SPIRALS over Pam Bondi pick: ‘She hasn’t beheaded a whale … my, G\*d!’](https://americanwirenews.com/the-view-spirals-over-pam-bondi-pick-she-hasnt-beheaded-a-whale-my-gd/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gillis-budlight-220x180.jpg)](https://americanwirenews.com/bud-light-teams-up-with-superstar-comedian-to-claw-back-customers/)
-
-[Bud Light teams up with superstar comedian to claw back customers](https://americanwirenews.com/bud-light-teams-up-with-superstar-comedian-to-claw-back-customers/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-collins-220x180.jpg)](https://americanwirenews.com/dan-scavino-squashes-cnn-scoop-trump-picked-anti-maga-fbi-head/)
-
-[Dan Scavino squashes CNN ‘scoop’ Trump picked ‘anti-MAGA’ FBI head](https://americanwirenews.com/dan-scavino-squashes-cnn-scoop-trump-picked-anti-maga-fbi-head/)
+[MSNBC buried in backlash for ‘sympathetic’ headline addressing Laken Riley’s killer](https://americanwirenews.com/msnbc-buried-in-backlash-for-sympathetic-headline-addressing-laken-rileys-killer/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-celtics-220x180.jpg)](https://americanwirenews.com/celtics-right-biden-spills-secret-service-code-name-after-trying-to-recall-nba-champs-hes-meeting/)
 
 [‘Celtics, right?’ Biden spills Secret Service code name after trying to recall NBA champs he’s meeting](https://americanwirenews.com/celtics-right-biden-spills-secret-service-code-name-after-trying-to-recall-nba-champs-hes-meeting/)
 
 (IMage: White House/X)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kjp-220x180.png)](https://americanwirenews.com/kjp-gets-wrecked-after-boasting-how-much-cheaper-thanksgiving-meals-are/)
-
-[KJP gets wrecked after boasting how much cheaper Thanksgiving meals are](https://americanwirenews.com/kjp-gets-wrecked-after-boasting-how-much-cheaper-thanksgiving-meals-are/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jaguar-220x180.png)](https://americanwirenews.com/soon-youll-see-things-our-way-jaguar-warns-those-not-onboard-with-its-dei-agenda/)
-
-[‘Soon you’ll see things our way’: Jaguar warns those not onboard with its DEI agenda](https://americanwirenews.com/soon-youll-see-things-our-way-jaguar-warns-those-not-onboard-with-its-dei-agenda/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-perry-harris-220x180.jpg)](https://americanwirenews.com/not-the-own-you-think-it-is-singer-who-campaigned-for-kamala-tells-fans-to-watch-idiocracy/)
-
-[‘Not the own you think it is’: Singer who campaigned for Kamala tells fans to watch ‘Idiocracy’](https://americanwirenews.com/not-the-own-you-think-it-is-singer-who-campaigned-for-kamala-tells-fans-to-watch-idiocracy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-marjorie-taylor-greene-commitee-hearing-220x180.jpg)](https://americanwirenews.com/mtg-puts-do-nothing-bureaucrats-on-pink-slip-notice-as-new-doge-sub-committee-chair/)
-
-[MTG puts do-nothing bureaucrats on ‘pink slip’ notice as new DOGE subcommittee chair](https://americanwirenews.com/mtg-puts-do-nothing-bureaucrats-on-pink-slip-notice-as-new-doge-sub-committee-chair/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dana-white-220x180.png)](https://americanwirenews.com/dana-white-is-done-with-politics-its-gross-its-disgusting/)
 
@@ -148,6 +120,44 @@ Search for:
 
 (Photo by Kevin Dietsch/Getty Images)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1370393143-220x180.jpg)](https://americanwirenews.com/elon-musk-trolls-ellen-degeneres-over-move-sets-off-hilarious-meme-fest/)
+
+[Elon Musk Diddy-trolls Ellen DeGeneres over move, sets off hilarious meme-fest](https://americanwirenews.com/elon-musk-trolls-ellen-degeneres-over-move-sets-off-hilarious-meme-fest/)
+
+(Getty Images for Roc Nation)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kith-220x180.jpg)](https://americanwirenews.com/nyc-migrant-arrested-for-throwing-ex-pals-puppy-off-of-14th-floor-balcony-walks-free/)
+
+[NYC migrant arrested for throwing ex-pal’s puppy off of 14th floor balcony walks free](https://americanwirenews.com/nyc-migrant-arrested-for-throwing-ex-pals-puppy-off-of-14th-floor-balcony-walks-free/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hostin-1-220x180.jpg)](https://americanwirenews.com/the-view-co-host-has-to-read-another-note-after-smearing-trump-nominees/)
+
+[‘The View’ co-host has to read ANOTHER note after smearing Trump nominees](https://americanwirenews.com/the-view-co-host-has-to-read-another-note-after-smearing-trump-nominees/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-classroom-students-220x180.jpg)](https://americanwirenews.com/education-department-agrees-to-rescind-mandatory-woke-curriculum-standards/)
+
+[Education department agrees to rescind mandatory ‘woke’ curriculum standards](https://americanwirenews.com/education-department-agrees-to-rescind-mandatory-woke-curriculum-standards/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-gaetz-220x180.jpg)](https://americanwirenews.com/nyt-reveals-names-of-gang-of-4-gop-senators-who-sunk-gaetz/)
+
+[NYT reveals names of ‘Gang of 4’ GOP Senators who sunk Gaetz](https://americanwirenews.com/nyt-reveals-names-of-gang-of-4-gop-senators-who-sunk-gaetz/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mace-220x180.png)](https://americanwirenews.com/nancy-mace-gets-last-laugh-after-being-heckled-by-a-man-in-a-dress/)
+
+[Nancy Mace gets last laugh after being heckled by angry man in a dress](https://americanwirenews.com/nancy-mace-gets-last-laugh-after-being-heckled-by-a-man-in-a-dress/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-redlightcam-1200-x-628-220x180.jpg)](https://americanwirenews.com/apparently-chicago-traffic-light-cameras-are-racist-too-dem-lawmaker-calls-for-probe/)
+
+[Apparently, Chicago traffic light cameras are racist too, Dem lawmaker calls for probe](https://americanwirenews.com/apparently-chicago-traffic-light-cameras-are-racist-too-dem-lawmaker-calls-for-probe/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-joy-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/joe-rogan-updates-his-bio-in-hilarious-response-to-joy-behar-trashing-him-on-the-view/)
+
+[Joe Rogan updates his bio in hilarious response to Joy Behar trashing him on ‘The View’](https://americanwirenews.com/joe-rogan-updates-his-bio-in-hilarious-response-to-joy-behar-trashing-him-on-the-view/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fett-bibi-rash-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/lawmakers-react-to-rogue-global-courts-arrest-warrant-for-netanyahu/)
+
+[Lawmakers react to rogue global court’s arrest warrant for Netanyahu](https://americanwirenews.com/lawmakers-react-to-rogue-global-courts-arrest-warrant-for-netanyahu/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg_goldberg_hostin-220x180.webp)](https://americanwirenews.com/whoopi-cuts-to-commercial-when-the-view-goes-off-the-rails-just-know-that-something-is-chewing-on-us/)
 
 [Whoopi cuts to commercial when ‘The View’ goes off the rails: ‘Just know that something is chewing on us’](https://americanwirenews.com/whoopi-cuts-to-commercial-when-the-view-goes-off-the-rails-just-know-that-something-is-chewing-on-us/)
@@ -171,16 +181,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-latino-voters-220x180.jpg)](https://americanwirenews.com/minority-blue-collar-workers-across-america-explain-dumping-dems-were-the-laughingstock-of-the-world/)
 
 [Minority blue collar workers across America explain dumping Dems: ‘We’re the laughingstock of the world’](https://americanwirenews.com/minority-blue-collar-workers-across-america-explain-dumping-dems-were-the-laughingstock-of-the-world/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-aoc-bathroom-220x180.jpg)](https://americanwirenews.com/fuming-aoc-accuses-mace-of-wanting-women-girls-to-have-to-drop-trou-in-order-to-enter-correct-bathroom/)
-
-[Fuming AOC accuses Mace of wanting women, girls to have to ‘drop trou’ in order to enter correct bathroom](https://americanwirenews.com/fuming-aoc-accuses-mace-of-wanting-women-girls-to-have-to-drop-trou-in-order-to-enter-correct-bathroom/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-biden-richards-220x180.jpg)](https://americanwirenews.com/biden-torched-for-awarding-medal-of-freedom-to-ex-planned-parenthood-pres-in-oddly-quiet-ceremony/)
-
-[Biden torched for awarding Medal of Freedom to ex-Planned Parenthood Pres in oddly quiet ceremony](https://americanwirenews.com/biden-torched-for-awarding-medal-of-freedom-to-ex-planned-parenthood-pres-in-oddly-quiet-ceremony/)
-
-(Official White House Photo by Erin Scott)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
