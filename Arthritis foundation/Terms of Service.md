@@ -55,21 +55,33 @@ Gout is an inflammatory type of arthritis that can come and go.](https://www.art
         * [News & Stories](https://www.arthritis.org/news)
         
     
-* [Treatments](https://www.arthritis.org/treatments)
+* [Managing Arthritis](#)
     
     [](#)
     
-    * [Biologics & Biosimilars](https://www.arthritis.org/treatments/about-biosimilars)
-    * [Complementary Therapies](https://www.arthritis.org/health-wellness/detail?content=treatment&filter=ComplementaryTherapies)
-    * [Drug Guide](https://www.arthritis.org/health-wellness/detail?content=Medication)
-    * [Joint Surgery](https://www.arthritis.org/health-wellness/detail?content=treatment&filter=JointSurgery)
-    * [Treatment Plan](https://www.arthritis.org/health-wellness/detail?content=treatment&filter=TreatmentPlan)
-    * [Clinical Trials](https://www.arthritis.org/science/clinical-trials)
-    
-* [Health & Wellness](https://www.arthritis.org/health-wellness)
-    
-    [](#)
-    
+    * [Healthy Living](https://www.arthritis.org/healthy-living)
+        
+        [](#)
+        
+        * [Arthritis Pain Relief](https://www.arthritis.org/pain)
+        * [Ease of Use Products](https://www.arthritis.org/partnership/ease-of-use)
+        * [Eating Healthy](https://www.arthritis.org/health-wellness/detail?content=healthyliving&filter=nutrition)
+        * [Emotional Well-being](https://www.arthritis.org/health-wellness/detail?content=healthyliving&filter=emotionalwell-being)
+        * [Pregnancy & Parenting](https://www.arthritis.org/health-wellness/healthy-living/family-relationships/family-planning-pregnancy-parenting)
+        * [Long Covid & Arthritis](https://www.arthritis.org/health-wellness/about-arthritis/related-conditions/other-diseases/seeking-clues-to-long-covid)
+        * [Physical Activity](https://www.arthritis.org/health-wellness/detail?content=healthyliving&filter=physicalactivity)
+        
+    * [Treatments](https://www.arthritis.org/treatments)
+        
+        [](#)
+        
+        * [Biologics & Biosimilars](https://www.arthritis.org/treatments/about-biosimilars)
+        * [Clinical Trials](https://www.arthritis.org/science/clinical-trials)
+        * [Complementary Therapies](https://www.arthritis.org/health-wellness/detail?content=treatment&filter=ComplementaryTherapies)
+        * [Drug Guide](https://www.arthritis.org/health-wellness/detail?content=Medication)
+        * [Joint Surgery](https://www.arthritis.org/health-wellness/detail?content=treatment&filter=JointSurgery)
+        * [Treatment Plan](https://www.arthritis.org/health-wellness/detail?content=treatment&filter=TreatmentPlan)
+        
     * Patient Education
         
         [](#)
@@ -81,18 +93,6 @@ Gout is an inflammatory type of arthritis that can come and go.](https://www.art
         * [Podcasts](https://www.arthritis.org/liveyes/podcast)
         * [Webinars](https://www.arthritis.org/events/webinars)
         
-    * [Healthy Living](https://www.arthritis.org/healthy-living)
-        
-        [](#)
-        
-        * [Arthritis Pain Relief](https://www.arthritis.org/pain)
-        * [Ease of Use Products](https://www.arthritis.org/partnership/ease-of-use)
-        * [Eating Healthy](https://www.arthritis.org/health-wellness/detail?content=healthyliving&filter=nutrition)
-        * [Emotional Well-being](https://www.arthritis.org/health-wellness/detail?content=healthyliving&filter=emotionalwell-being)
-        * [Family Planning, Pregnancy & Parenting](https://www.arthritis.org/health-wellness/healthy-living/family-relationships/family-planning-pregnancy-parenting)
-        * [Long Covid & Arthritis](https://www.arthritis.org/health-wellness/about-arthritis/related-conditions/other-diseases/seeking-clues-to-long-covid)
-        * [Physical Activity](https://www.arthritis.org/health-wellness/detail?content=healthyliving&filter=physicalactivity)
-        
     
 * [Juvenile Arthritis](https://www.arthritis.org/juvenile-arthritis)
     
@@ -103,11 +103,11 @@ Gout is an inflammatory type of arthritis that can come and go.](https://www.art
         [](#)
         
         * [About Juvenile Arthritis](https://www.arthritis.org/juvenile-arthritis-patient-education)
+        * [Eating Healthy](https://www.arthritis.org/health-wellness/detail?content=healthyliving&filter=nutrition)
         * [Emotional Well-being](https://www.arthritis.org/health-wellness/detail?content=healthyliving&filter=emotionalwell-being)
         * [JA Treatment](https://www.arthritis.org/health-wellness/detail?content=treatment&filter=juvenilearthritis)
         * [Managing JA Pain](https://www.arthritis.org/pain)
         * [Medical Decisions](https://www.arthritis.org/health-wellness/detail?content=treatment&filter=jamedicaldecisions)
-        * [Nutrition](https://www.arthritis.org/health-wellness/detail?content=healthyliving&filter=nutrition)
         
     * Connections
         
@@ -136,11 +136,20 @@ Gout is an inflammatory type of arthritis that can come and go.](https://www.art
         
         [](#)
         
+        * Awards
         * [Clinical Trials](https://www.arthritis.org/science/clinical-trials)
         * [Funding Opportunities](https://www.arthritis.org/science/current-science-events)
         * [Partnerships](https://www.arthritis.org/science/partnerships-collaborations/our-partnerships)
         * [Publications](https://www.arthritis.org/science/events-publications)
         
+    
+* [Advocacy](https://www.arthritis.org/advocate)
+    
+    [](#)
+    
+    * [Advocacy 101](https://www.arthritis.org/advocate/tools-and-resources/advocacy-101)
+    * [Be an Ambassador](https://www.arthritis.org/advocate/ambassador-program)
+    * [Legislator Lookup](https://www.arthritis.org/advocate/find-legislators-track-legislations)
     
 * [Providers](https://www.arthritis.org/health-care-provider)
     
@@ -148,7 +157,7 @@ Gout is an inflammatory type of arthritis that can come and go.](https://www.art
     
     * [Our Issue Briefs](https://www.arthritis.org/health-care-provider/resources-for-you/our-issue-briefs)
     * [Fellowships](https://www.arthritis.org/science/focus/workforce-development/fellowships)
-    * [Joint Matters Newsletter](https://www.arthritis.org/forms/hcp-e-newsletter)
+    * [HCP Newsletter](https://www.arthritis.org/forms/hcp-e-newsletter)
     
 * [Get Involved](https://www.arthritis.org/get-involved)
     
@@ -385,7 +394,7 @@ _Revised April 27, 2021_
 
 Atlanta, GA
 
-52° Arthritis Index Beneficial
+46° Arthritis Index Beneficial
 
 [See More Details](https://www.arthritis.org/weather)
 
