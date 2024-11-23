@@ -46,7 +46,6 @@ Kanalübersicht
 * [Kanalanalysen](https://nindo.de/features/analytics)
 * [Botting Detection](https://nindo.de/features#botting)
 * [Gewinnspiel Erkennung](https://nindo.de/features#gewinnspiele)
-* [Shitstorm Erkennung](https://nindo.de/features#shitstorms)
 * [Teamwork](https://nindo.de/features#teamwork)
 
 * Resources
