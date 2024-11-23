@@ -28,8 +28,8 @@
     * [NHL JOHN TAVARES](https://www.airestech.com/pages/john-tavares)
     * [UFC OFFICIAL PARTNER](https://airestech.com/pages/ufc)
     * [WWE OFFICIAL PARTNER](https://airestech.com/pages/wwe)
-    * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
     * [SPONSOR OF CELTIC WARRIOR WORKOUT](https://www.airestech.com/pages/wwecelticwarrior)
+    * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
     
 * [HOLIDAY GIFT GUIDE](https://airestech.com/pages/holiday-gift)
 
@@ -561,8 +561,8 @@ United States (USD $)
     * [NHL JOHN TAVARES](https://www.airestech.com/pages/john-tavares)
     * [UFC OFFICIAL PARTNER](https://airestech.com/pages/ufc)
     * [WWE OFFICIAL PARTNER](https://airestech.com/pages/wwe)
-    * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
     * [SPONSOR OF CELTIC WARRIOR WORKOUT](https://www.airestech.com/pages/wwecelticwarrior)
+    * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
     
 * [HOLIDAY GIFT GUIDE](https://airestech.com/pages/holiday-gift)
 
