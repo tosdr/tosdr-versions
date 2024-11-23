@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [Summer lovin': Balmoral Beach](https://independentaustralia.net/article-display/summer-lovin-balmoral-beach,19196 "Permanent Link : Summer lovin': Balmoral Beach")
+* [Alan Jones’ touching story](https://independentaustralia.net/article-display/alan-jones-touching-story,19199 "Permanent Link : Alan Jones’ touching story")
 * [Forty years on, Threads still delivers chilling nuclear message](https://independentaustralia.net/article-display/forty-years-on-threads-still-delivers-chilling-nuclear-message,19198 "Permanent Link : Forty years on, Threads still delivers chilling nuclear message")
 * [EDITORIAL: Alan Jones’ touching story](https://independentaustralia.net/article-display/editorial-alan-jones-touching-story,19195 "Permanent Link : EDITORIAL: Alan Jones’ touching story")
 * [Migrant settler nations at a crossroads on immigration policy](https://independentaustralia.net/article-display/migrant-settler-nations-at-a-crossroads-on-immigration-policy,19197 "Permanent Link : Migrant settler nations at a crossroads on immigration policy")
 * [CARTOONS: How long before Elon owns the galaxy?](https://independentaustralia.net/article-display/cartoons-how-long-before-elon-owns-the-galaxy,19191 "Permanent Link : CARTOONS: How long before Elon owns the galaxy?")
 * [Trump's tariffs and their effect on the Australian economy](https://independentaustralia.net/article-display/trumps-tariffs-and-their-effect-on-the-australian-economy,19194 "Permanent Link : Trump's tariffs and their effect on the Australian economy")
-* [Tim Winton’s latest novel 'Juice' poses a dreadful question](https://independentaustralia.net/article-display/tim-wintons-latest-novel-juice-poses-a-dreadful-question,19188 "Permanent Link : Tim Winton’s latest novel 'Juice' poses a dreadful question")
-* [Senators and MPs encouraged to educate themselves on Palestine](https://independentaustralia.net/article-display/senators-and-mps-encouraged-to-educate-themselves-on-palestine,19189 "Permanent Link : Senators and MPs encouraged to educate themselves on Palestine")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
