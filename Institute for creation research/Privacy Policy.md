@@ -97,61 +97,61 @@ Return to our [subscription form](https://www.icr.org/subscriptions).
 
 More Days of Praise
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/what-put)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/three-appearings-of-Christ)
 
-[What to Put On](https://www.icr.org/article/what-put/)
+[The Three Appearings of Christ](https://www.icr.org/article/three-appearings-of-Christ/)
 
-“And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.”...
+“For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in...
 
 BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/prerequisites-for-christian-unity)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/thine-o-lord)
 
-[Prerequisites for Christian Unity](https://www.icr.org/article/prerequisites-for-christian-unity/)
+[Thine, O Lord](https://www.icr.org/article/thine-o-lord/)
 
-“If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies, Fulfill...
+“Thine, O LORD, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the...
 
-BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/prepared-hearts)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/dayspring-from-high)
 
-[Prepared Hearts](https://www.icr.org/article/prepared-hearts/)
+[The Dayspring from on High](https://www.icr.org/article/dayspring-from-high/)
 
-“For Ezra had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments.” (Ezra 7:10) It...
+“Through the tender mercy of our God; whereby the dayspring from on high hath visited us.” (Luke 1:78) This is an unusual, but beautiful,...
 
 BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10476476/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/359222/file.jpg)
 
-The Revelation Record](https://store.icr.org/dr-henry-morris-the-revelation-record.html)
+Unlocking the Mysteries of Genesis (book)](https://store.icr.org/dr-henry-morris-iii-unlocking-the-mysteries-of-gen.html)
 
-$24.99
+$15.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32689/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/37284258/file.jpg)
 
-The Henry Morris Study Bible - Imitation Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-imita.html)
+6 Días De Creación (Spanish)](https://store.icr.org/seis-dias-de-creacion-spanish.html)
 
-$59.99
+$7.99
 
-$69.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/37284337/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475255/file.jpg)
+Tus Orígenes Importan (Spanish)](https://store.icr.org/tus-origines-importan-spanish.html)
 
-The God Who is Real](https://store.icr.org/dr-henry-morris-the-god-who-is-real.html)
+$7.99
 
-$9.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216743/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
+Your Origins Matter - eBook](https://store.icr.org/your-origins-matter-ebook.html)
 
-Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
+$2.99
 
-$12.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10892599/file.jpg)
 
-[](https://store.icr.org/.html)
+Stand Fast](https://store.icr.org/stand-fast.html)
 
-$
+$4.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
