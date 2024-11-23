@@ -1,4 +1,4 @@
-[![CyberPowerPC.com - Gaming Computers](/template/common/images/brand/brand_new2016.png)](https://www.cyberpowerpc.com/ "CyberPowerPC.com - Gaming Computers")
+[![cyberpowerpc.com - Gaming Computers](/template/common/images/brand/brand_new2016.png)](https://www.cyberpowerpc.com/ "cyberpowerpc.com - Gaming Computers")
 
 * [Gaming PCs](https://www.cyberpowerpc.com/category/gaming-pcs/)
 * [Gaming Laptops](https://www.cyberpowerpc.com/category/gaming-laptops/)
@@ -704,7 +704,7 @@ Order Online or Call Our Sales Dept **(800) 707-0393**
 
 **Fax:** (626) 813-3810
 
-**Email:** [sales@CyberPowerPC.com](mailto:sales@CyberPowerPC.com)
+**Email:** [sales@cyberpowerpc.com](mailto:sales@cyberpowerpc.com)
 
 * [](https://www.facebook.com/CyberPowerInc/ "Become our fan on Facebook")
 * [](https://www.youtube.com/CyberPowerPCinc "Watch our videos on YouTube")
