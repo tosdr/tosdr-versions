@@ -29,17 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![HorusApl](plugins/MineCraft/icons/25x25xHorusApl_1720169128.png.pagespeed.ic.dbPZXbDd8P.png)
+[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
 
-ExeosCraft (1.21) | Economy SMP | McMMO | No Resets](https://minecraft-server.net/details/HorusApl/ "ExeosCraft (1.21) | Economy SMP | McMMO | No Resets")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![xREALDEALx](plugins/MineCraft/icons/25x25xxREALDEALx_1731641395.png.pagespeed.ic.nUeX1Tows0.png)
 
-1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![Nekonecny_pribeh](plugins/MineCraft/icons/25x25xNekonecny_pribeh_1716904567.png.pagespeed.ic.eqSFnj3yeR.png)
+Coastal SMP](https://minecraft-server.net/details/xREALDEALx/ "Coastal SMP")[![EcoSMP](plugins/MineCraft/icons/25x25xEcoSMP_1714532090.png.pagespeed.ic._cNYKCUl0B.png)
 
-Nekonečný příběh](https://minecraft-server.net/details/Nekonecny_pribeh/ "Nekonečný příběh")[![sentinelcraft](plugins/MineCraft/icons/25x25xsentinelcraft_1673873644.png.pagespeed.ic.SfsA6s1Vtr.png)
+EcoSMP](https://minecraft-server.net/details/EcoSMP/ "EcoSMP")[![Advancius](plugins/MineCraft/icons/25x25xAdvancius_1710775022.png.pagespeed.ic.Rl94rqItDF.png)
 
-SentinelCraft \[1.21\]](https://minecraft-server.net/details/sentinelcraft/ "SentinelCraft [1.21]")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
+Advancius Network ⭐FREE RANKS⭐](https://minecraft-server.net/details/Advancius/ "Advancius Network ⭐FREE RANKS⭐")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")
+1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05887 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05745 - Created by [Debaucus](https://debauc.us/)
