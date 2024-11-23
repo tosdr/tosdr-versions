@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1852264365_menu)
+ [Compartilhar](#elShareItem_1634208980_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -312,7 +312,7 @@ As regras do Clube do Hardware poderão ser atualizadas periodicamente, sem avis
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_169747805_menu)
+ [Compartilhar](#elShareItem_2129002124_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -355,25 +355,75 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![soriel80](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1134449.thumb.jpeg.2eed8d7c7db07a2b636c4d7fbbe641cb.jpeg)](https://www.clubedohardware.com.br/profile/1134449-soriel80/ "Ir ao perfil de soriel80")
+    * [![Samuel8122](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253335.thumb.png.2d75ad4520ead0755c0abb75a423595a.png)](https://www.clubedohardware.com.br/profile/1253335-samuel8122/ "Ir ao perfil de Samuel8122")
+        
+        2
+        
+        [Pc não reconhece o SSD e vai pra BIOS quando liga](https://www.clubedohardware.com.br/forums/topic/1703184-pc-n%C3%A3o-reconhece-o-ssd-e-vai-pra-bios-quando-liga/?do=getNewComment "Pc não reconhece o SSD e vai pra BIOS quando liga")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Samuel8122](https://www.clubedohardware.com.br/profile/1253335-samuel8122/ "Ir ao perfil de Samuel8122")  
+        2 horas atrás
+        
+    * [![Anderson Edu](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47662%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255990-anderson-edu/ "Ir ao perfil de Anderson Edu")
         
         0
+        
+        [Os filmes e séries lançados recentemente na TVBOX estão sem o áudio dos diálogos](https://www.clubedohardware.com.br/forums/topic/1703183-os-filmes-e-s%C3%A9ries-lan%C3%A7ados-recentemente-na-tvbox-est%C3%A3o-sem-o-%C3%A1udio-dos-di%C3%A1logos/?do=getNewComment "Os filmes e séries lançados recentemente na TVBOX estão sem o áudio dos diálogos")
+        
+        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
+        Por [Anderson Edu](https://www.clubedohardware.com.br/profile/1255990-anderson-edu/ "Ir ao perfil de Anderson Edu")  
+        4 horas atrás
+        
+    * [![Toni1836](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1236948.thumb.jpeg.6be9b719c0824493114704fb8be6cf6c.jpeg)](https://www.clubedohardware.com.br/profile/1236948-toni1836/ "Ir ao perfil de Toni1836")
+        
+        2
+        
+        [memória RAM DDR3 dando tela Azul](https://www.clubedohardware.com.br/forums/topic/1703182-mem%C3%B3ria-ram-ddr3-dando-tela-azul/?do=getNewComment "memória RAM DDR3 dando tela Azul")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Toni1836](https://www.clubedohardware.com.br/profile/1236948-toni1836/ "Ir ao perfil de Toni1836")  
+        4 horas atrás
+        
+    * [![andrekm](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256615.thumb.png.2d361aa277876283ec70e6980cf6aced.png)](https://www.clubedohardware.com.br/profile/1256615-andrekm/ "Ir ao perfil de andrekm")
+        
+        1
+        
+        [Placa-Mãe Gigabyte H81M-S1 é compatível com a Placa de Vídeo GeForce RTX 3050?](https://www.clubedohardware.com.br/forums/topic/1703181-placa-m%C3%A3e-gigabyte-h81m-s1-%C3%A9-compat%C3%ADvel-com-a-placa-de-v%C3%ADdeo-geforce-rtx-3050/?do=getNewComment "Placa-Mãe Gigabyte H81M-S1 é compatível com a Placa de Vídeo GeForce RTX 3050?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [andrekm](https://www.clubedohardware.com.br/profile/1256615-andrekm/ "Ir ao perfil de andrekm")  
+        4 horas atrás
+        
+    * [![car_edu29](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-605516.thumb.jpeg.7316888c5f1b7791a2bc3797517729c5.jpeg)](https://www.clubedohardware.com.br/profile/605516-car_edu29/ "Ir ao perfil de car_edu29")
+        
+        2
+        
+        [Processador i5 2500 travado na velocidade](https://www.clubedohardware.com.br/forums/topic/1703180-processador-i5-2500-travado-na-velocidade/?do=getNewComment "Processador i5 2500 travado na velocidade")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [car\_edu29](https://www.clubedohardware.com.br/profile/605516-car_edu29/ "Ir ao perfil de car_edu29")  
+        5 horas atrás
+        
+    * [![soriel80](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1134449.thumb.jpeg.2eed8d7c7db07a2b636c4d7fbbe641cb.jpeg)](https://www.clubedohardware.com.br/profile/1134449-soriel80/ "Ir ao perfil de soriel80")
+        
+        1
         
         [Upgrade de PC (sugestões)](https://www.clubedohardware.com.br/forums/topic/1703179-upgrade-de-pc-sugest%C3%B5es/?do=getNewComment "Upgrade de PC (sugestões)")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
         Por [soriel80](https://www.clubedohardware.com.br/profile/1134449-soriel80/ "Ir ao perfil de soriel80")  
-        1 hora atrás
+        7 horas atrás
         
     * [![Djeverson](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256614.thumb.jpeg.e25254751bd7ab1b8d9b4404a7a47ee7.jpeg)](https://www.clubedohardware.com.br/profile/1256614-djeverson/ "Ir ao perfil de Djeverson")
         
         0
         
-        [ASUS Tuf Gaming B650-E Wifi](https://www.clubedohardware.com.br/forums/topic/1703178-asus-tuf-gaming-b650-e-wifi/?do=getNewComment "ASUS Tuf Gaming B650-E Wifi")
+        [ASUS Tuf Gaming B650-E Wifi é boa para um Ryzen 9 7900x?](https://www.clubedohardware.com.br/forums/topic/1703178-asus-tuf-gaming-b650-e-wifi-%C3%A9-boa-para-um-ryzen-9-7900x/?do=getNewComment "ASUS Tuf Gaming B650-E Wifi é boa para um Ryzen 9 7900x?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [Djeverson](https://www.clubedohardware.com.br/profile/1256614-djeverson/ "Ir ao perfil de Djeverson")  
-        1 hora atrás
+        7 horas atrás
         
     * [![Ryan carvalho](https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg)](https://www.clubedohardware.com.br/profile/826458-ryan-carvalho/ "Ir ao perfil de Ryan carvalho")
         
@@ -383,7 +433,7 @@ Mais opções...
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
         Por [Ryan carvalho](https://www.clubedohardware.com.br/profile/826458-ryan-carvalho/ "Ir ao perfil de Ryan carvalho")  
-        2 horas atrás
+        8 horas atrás
         
     * [![Luigorkazama](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253875.thumb.jpeg.966ff45db6264419631fddce4bf1fd95.jpeg)](https://www.clubedohardware.com.br/profile/1253875-luigorkazama/ "Ir ao perfil de Luigorkazama")
         
@@ -393,67 +443,17 @@ Mais opções...
         
         [Periféricos - outros](https://www.clubedohardware.com.br/forums/forum/280-perif%C3%A9ricos-outros/ "Periféricos - outros")  
         Por [Luigorkazama](https://www.clubedohardware.com.br/profile/1253875-luigorkazama/ "Ir ao perfil de Luigorkazama")  
-        2 horas atrás
+        8 horas atrás
         
     * [![Nelson Lopes](https://www.clubedohardware.com.br/uploads/members/monthly_2020_02/imported-photo-1075304.thumb.jpeg.16eebcd5eb7afa50934614febd8cc96b.jpeg)](https://www.clubedohardware.com.br/profile/1075304-nelson-lopes/ "Ir ao perfil de Nelson Lopes")
         
-        0
+        1
         
         [Placa de vídeo para Ryzen 5 5600GT](https://www.clubedohardware.com.br/forums/topic/1703175-placa-de-v%C3%ADdeo-para-ryzen-5-5600gt/?do=getNewComment "Placa de vídeo para Ryzen 5 5600GT")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
         Por [Nelson Lopes](https://www.clubedohardware.com.br/profile/1075304-nelson-lopes/ "Ir ao perfil de Nelson Lopes")  
-        2 horas atrás
-        
-    * [![RMS3363](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256612.thumb.png.30f1298b7ee89313edd980109608692c.png)](https://www.clubedohardware.com.br/profile/1256612-rms3363/ "Ir ao perfil de RMS3363")
-        
-        0
-        
-        [Telas azuis constantes acusando ntoskrnl.exe](https://www.clubedohardware.com.br/forums/topic/1703174-telas-azuis-constantes-acusando-ntoskrnlexe/?do=getNewComment "Telas azuis constantes acusando ntoskrnl.exe")
-        
-        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
-        Por [RMS3363](https://www.clubedohardware.com.br/profile/1256612-rms3363/ "Ir ao perfil de RMS3363")  
-        2 horas atrás
-        
-    * [![Gustavojsc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256611.thumb.jpeg.9902538479dadcd6a18b2bfa3c41684c.jpeg)](https://www.clubedohardware.com.br/profile/1256611-gustavojsc/ "Ir ao perfil de Gustavojsc")
-        
-        0
-        
-        [TPM 2.0 B450m steel Legend](https://www.clubedohardware.com.br/forums/topic/1703173-tpm-20-b450m-steel-legend/?do=getNewComment "TPM 2.0 B450m steel Legend")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Gustavojsc](https://www.clubedohardware.com.br/profile/1256611-gustavojsc/ "Ir ao perfil de Gustavojsc")  
-        3 horas atrás
-        
-    * [![Victoraguiar81](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48562%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256258-victoraguiar81/ "Ir ao perfil de Victoraguiar81")
-        
-        1
-        
-        [Placa de Vídeo no Gabinete](https://www.clubedohardware.com.br/forums/topic/1703172-placa-de-v%C3%ADdeo-no-gabinete/?do=getNewComment "Placa de Vídeo no Gabinete")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Victoraguiar81](https://www.clubedohardware.com.br/profile/1256258-victoraguiar81/ "Ir ao perfil de Victoraguiar81")  
-        3 horas atrás
-        
-    * [![geluka10](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4627e%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/431340-geluka10/ "Ir ao perfil de geluka10")
-        
-        1
-        
-        [Qual a Finalidade desse Comando no PowerShell ?](https://www.clubedohardware.com.br/forums/topic/1703171-qual-a-finalidade-desse-comando-no-powershell/?do=getNewComment "Qual a Finalidade desse Comando no PowerShell ?")
-        
-        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
-        Por [geluka10](https://www.clubedohardware.com.br/profile/431340-geluka10/ "Ir ao perfil de geluka10")  
-        3 horas atrás
-        
-    * [![MGC](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/_afbc44fc-abb2-4fa7-9bd0-e17de21e624b(1)-compressed.thumb.jpg.2d673f491c8040a736005074acda0b7c.jpg)](https://www.clubedohardware.com.br/profile/730650-mgc/ "Ir ao perfil de MGC")
-        
-        2
-        
-        [Indicação de teclados até R$ 350](https://www.clubedohardware.com.br/forums/topic/1703170-indica%C3%A7%C3%A3o-de-teclados-at%C3%A9-r-350/?do=getNewComment "Indicação de teclados até R$ 350")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [MGC](https://www.clubedohardware.com.br/profile/730650-mgc/ "Ir ao perfil de MGC")  
-        3 horas atrás
+        8 horas atrás
         
     
 
