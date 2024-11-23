@@ -190,34 +190,26 @@
 
 Subscribe
 
-[#### Drugs](https://www.healthline.com/drugs)
+[#### Nutrition](https://www.healthline.com/nutrition)
 
-* [A](https://www.healthline.com/drugs/drugs-a)
-* [B](https://www.healthline.com/drugs/drugs-b)
-* [C](https://www.healthline.com/drugs/drugs-c)
-* [D](https://www.healthline.com/drugs/drugs-d)
-* [E](https://www.healthline.com/drugs/drugs-e)
-* [F](https://www.healthline.com/drugs/drugs-f)
-* [G](https://www.healthline.com/drugs/drugs-g)
-* [H](https://www.healthline.com/drugs/drugs-h)
-* [I](https://www.healthline.com/drugs/drugs-i)
-* [J](https://www.healthline.com/drugs/drugs-j)
-* [K](https://www.healthline.com/drugs/drugs-k)
-* [L](https://www.healthline.com/drugs/drugs-l)
-* [M](https://www.healthline.com/drugs/drugs-m)
-* [N](https://www.healthline.com/drugs/drugs-n)
-* [O](https://www.healthline.com/drugs/drugs-o)
-* [P](https://www.healthline.com/drugs/drugs-p)
-* [Q](https://www.healthline.com/drugs/drugs-q)
-* [R](https://www.healthline.com/drugs/drugs-r)
-* [S](https://www.healthline.com/drugs/drugs-s)
-* [T](https://www.healthline.com/drugs/drugs-t)
-* [U](https://www.healthline.com/drugs/drugs-u)
-* [V](https://www.healthline.com/drugs/drugs-v)
-* [W](https://www.healthline.com/drugs/drugs-w)
-* [X](https://www.healthline.com/drugs/drugs-x)
-* [Y](https://www.healthline.com/drugs/drugs-y)
-* [Z](https://www.healthline.com/drugs/drugs-z)
+* Meal Kits
+    
+    * [Overview](https://www.healthline.com/nutrition/meal-kits)
+    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
+    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
+    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
+    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
+    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
+    
+* [Special Diets](https://www.healthline.com/nutrition/diets)
+* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
+* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
+* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
+* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
+* [Products](https://www.healthline.com/reviews/nutrition-products)
+* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
+* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
+* [Weight Management](https://www.healthline.com/nutrition/weight-management)
 
 Terms of Use
 ============
