@@ -304,23 +304,11 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-#### Great Users
+#### Spin up a new instance of Virtual Private Server with your preferred operating system in minutes!
 
   
-
-![Partner](/content/images/content/strip/Strip-Charter.png)
-
+[Deploy Instance](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
   
-
-![Partner](/content/images/content/strip/Strip-BMW.png)
-
-  
-
-![Partner](/content/images/content/strip/Strip-certifyeu.png)
-
-  
-
-![Partner](/content/images/content/strip/Strip-Estructuras.png)
 
 ### News
 
