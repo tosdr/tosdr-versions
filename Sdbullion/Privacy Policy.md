@@ -8,7 +8,7 @@
 
   [![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
 
-     [![Shop The Latest Release From The Commander Series - Julius Caesar](https://sdbullion.com/media/wysiwyg/sticky_header/caesar-585x75_1_.jpg)   ![Shop The Latest Release From The Commander Series - Julius Caesar](https://sdbullion.com/media/wysiwyg/sticky_header/caesar-585x75_1_.jpg)](https://sdbullion.com/shop-commander-coin-series)
+       [![Shop The Latest Release From The Commander Series - Julius Caesar](https://sdbullion.com/media/wysiwyg/sticky_header/caesar-585x75_1_.jpg)    ![Shop The Latest Release From The Commander Series - Julius Caesar](https://sdbullion.com/media/wysiwyg/sticky_header/caesar-585x75_1_.jpg)](https://sdbullion.com/shop-commander-coin-series)
 
 Search  Search
 
