@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About Hawaii Events ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/25-facts-about-hawaii-events/)
+[![26 Facts About Epigraphy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/26-facts-about-epigraphy/)
 
-Events
+History
 
-22 Nov 2024
+23 Nov 2024
 
-[25 Facts About Hawaii Events](https://facts.net/events/25-facts-about-hawaii-events/)
+[26 Facts About Epigraphy](https://facts.net/history/26-facts-about-epigraphy/)
 
-[![38 Facts About Rok Runestone ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/38-facts-about-rok-runestone/)
+[![34 Facts About Olivier Lepick ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/34-facts-about-olivier-lepick/)
 
-Landmarks
+People
 
-22 Nov 2024
+23 Nov 2024
 
-[38 Facts About Rok Runestone](https://facts.net/world/landmarks/38-facts-about-rok-runestone/)
+[34 Facts About Olivier Lepick](https://facts.net/history/people/34-facts-about-olivier-lepick/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
