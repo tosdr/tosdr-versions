@@ -6,6 +6,7 @@
 * [Games](https://www.atari.com/collections/games)
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
+* [Gifts & Holiday Deals](https://www.atari.com/pages/holiday-gift-guides)
 
 [Log in](https://atari.com/customer_authentication/redirect?locale=en&region_country=US) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
@@ -20,6 +21,7 @@
 * [Games](https://www.atari.com/collections/games)
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
+* [Gifts & Holiday Deals](https://www.atari.com/pages/holiday-gift-guides)
 
 Search [Log in](https://atari.com/customer_authentication/redirect?locale=en&region_country=US)
 
@@ -228,6 +230,8 @@ Fatal Run 2089 - Coming Soon](https://www.atari.com/products/fatal-run-2089)
 
 Yars Rising - Available Now](https://www.atari.com/products/yars-rising)
 
+\*\*New!\*\*/collections/physical-games
+
 Apparel & Collectibles
 
 #### APPAREL
@@ -320,7 +324,7 @@ Shop All Tees](https://www.atari.com/collections/atari-tshirts)
 
 Shop All Hats](https://www.atari.com/collections/hats)
 
-\*\*New!\*\*/collections/holiday-collection; \*\*New!\*\*/collections/bentley-bear; \*\*Trending\*\*/collections/sweatshirts
+\*\*New!\*\*/collections/holiday-collection; \*\*New!\*\*/collections/bentley-bear; \*\*Popular\*\*/collections/sweatshirts
 
 New
 
@@ -710,7 +714,7 @@ Regular price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
-![CX30+ Paddle Controller Bundle](files/ProductImage-C_696d7529-b2bb-4547-92d9-4ad55294abd2.jpg)
+![CX30+ Paddle Controller Bundle](files/Atari2023pt02_DSC00878.jpg)
 
 Add to cart
 
@@ -758,7 +762,7 @@ Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
 [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
-![CX30+ Paddle Controller Bundle](files/ProductImage-C_696d7529-b2bb-4547-92d9-4ad55294abd2.jpg)
+![CX30+ Paddle Controller Bundle](files/Atari2023pt02_DSC00878.jpg)
 
 Add to cart
 
