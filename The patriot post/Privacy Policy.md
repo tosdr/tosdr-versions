@@ -1,6 +1,6 @@
-**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -134,13 +134,6 @@ Last Updated: November 15, 2011.
 *      [Victor Davis Hanson The Trump Counterrevolution Is a Return to Sanity](https://patriotpost.us/opinion/112237-the-trump-counterrevolution-is-a-return-to-sanity-2024-11-22)
 *      [David Harsanyi Don’t Trash the Constitution to Dunk on the Liberals](https://patriotpost.us/opinion/112236-dont-trash-the-constitution-to-dunk-on-the-liberals-2024-11-22)
 *      [Rich Lowry Why We Love Rockets](https://patriotpost.us/opinion/112258-why-we-love-rockets-2024-11-22)
-*      [Michael Barone Trump Gains Among Nonwhite People: Historical Precedent and Possible Harbinger](https://patriotpost.us/opinion/112235-trump-gains-among-nonwhite-people-historical-precedent-and-possible-harbinger-2024-11-22)
-*      [Michael Reagan Don’t Let Politics Spoil Thanksgiving](https://patriotpost.us/opinion/112234-dont-let-politics-spoil-thanksgiving-2024-11-22)
-*      [Jeff Jacoby No, Trump Didn’t Earn an ‘Unprecedented and Powerful’ Mandate](https://patriotpost.us/opinion/112245-no-trump-didnt-earn-an-unprecedented-and-powerful-mandate-2024-11-22)
-*      [Gary Bauer What’s Going On?](https://patriotpost.us/opinion/112231-whats-going-on-2024-11-22)
-*      [Mark Alexander Profiles of Valor: Reconciliation Among Warriors](https://patriotpost.us/alexander/112228-profiles-of-valor-reconciliation-among-warriors-2024-11-22)
-*      [The Washington Stand Four Messes Trump Will Have to Mop Up From Biden’s Military Fails](https://patriotpost.us/opinion/112233-four-messes-trump-will-have-to-mop-up-from-bidens-military-fails-2024-11-22)
-*      [The Babylon Bee Cheer Up, Libs: Here Are 10 Things You Can Still Be Thankful for This Year](https://patriotpost.us/opinion/112232-cheer-up-libs-here-are-10-things-you-can-still-be-thankful-for-this-year-2024-11-22)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -154,11 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
