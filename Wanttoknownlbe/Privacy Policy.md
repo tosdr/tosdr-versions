@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/lubach-is-dom-gewoon-op-fb-blijven-toch/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/onderzoeker-van-big-pharma-geeft-grove-fraude-toe/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
