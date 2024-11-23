@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -137,21 +137,22 @@ MSX Music player
 
 Latest reactions
 
+* [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)](https://www.msx.org/photoshoots/nijmegen-2010/new-stuff-sale-bitwise-booth-including-many-msxdev-games-and-advanced-vers "New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [JPT-PANAKEY-V2 Panasonic MSX2+ and turbo R keyboard replacement by Leonardo Padial](https://www.msx.org/news/hardware/en/jpt-panakey-v2-pansonic-msx2-and-turbo-r-keyboard-replacement-leonardo-padial "JPT-PANAKEY-V2 Panasonic MSX2+ and turbo R keyboard replacement by Leonardo Padial")
 * [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
-* [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
 * [MSXdev24 #09 Wizsoul](https://www.msx.org/news/challenges/en/msxdev24-09 "MSXdev24 #09 Wizsoul")
 
 Latest forum posts
 
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=77 "WonderTANG! Who wants to juice up your MSX?")
+* [MSX on Miyoo Mini+ with ONION-OS](https://www.msx.org/forum/msx-talk/emulation/msx-on-myioo-mini-with-onion-os "MSX on Miyoo Mini+ with ONION-OS")
 * [Sony MSX HB-75B - Picture Won't Sync](https://www.msx.org/forum/msx-talk/hardware/sony-msx-hb-75b-picture-wont-sync "Sony MSX HB-75B - Picture Won't Sync")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=77 "WonderTANG! Who wants to juice up your MSX?")
 * [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
 * [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/forum/msx-talk/hardware/msx-pico-multi-flash-rom-cartridge?page=3 "MSX Pico - multi Flash ROM cartridge")
@@ -162,7 +163,6 @@ Latest forum posts
 * [problems with Megaflashrom SCC+](https://www.msx.org/forum/msx-talk/general-discussion/problems-with-megaflashrom-scc "problems with Megaflashrom SCC+")
 * [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250?page=1 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
 * [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o?page=1 "RTC batteries actually working? :O")
-* [Some facts about Konami 32kb game cartridges](https://www.msx.org/forum/msx-talk/hardware/some-facts-about-konami-32kb-game-cartridges "Some facts about Konami 32kb game cartridges")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
