@@ -4,7 +4,7 @@ Accept Cookies and Terms
 
 [Leave Site](https://google.com/)
 
-[![Minecraft Servers](minecraft-servers.png.pagespeed.ce.7HRxM5qnQd.png)](https://minecraft-server.net/)
+[![Minecraft Servers](pagespeed_static/1.JiBnMqyl6S.gif)](https://minecraft-server.net/)
 
 * [Home](https://minecraft-server.net/)
 * [Server Login](https://minecraft-server.net/user_cpl/)
@@ -29,15 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![StarlightVanilla](plugins/MineCraft/icons/25x25xStarlightVanilla_1709993469.png.pagespeed.ic.z7HQX3Tv5_.jpg)
+[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
 
-VPG | Modern Anarchy](https://minecraft-server.net/details/StarlightVanilla/ "VPG | Modern Anarchy")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![KretMCPL](plugins/MineCraft/icons/25x25xKretMCPL_1716618508.png.pagespeed.ic.csO5XeMY1u.png)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+KretMC.PL - STAFF NEEDED](https://minecraft-server.net/details/KretMCPL/ "KretMC.PL - STAFF NEEDED")[![TheosisMC](plugins/MineCraft/icons/25x25xTheosisMC_1723365735.png.pagespeed.ic.rP37hCYpnu.png)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft") [BuildixMC](https://minecraft-server.net/details/Buildix1/ "BuildixMC")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+TheosisMC • Hardcore Survival • 1.21.3](https://minecraft-server.net/details/TheosisMC/ "TheosisMC • Hardcore Survival • 1.21.3")[![projectsurvival](plugins/MineCraft/icons/25x25xprojectsurvival_1731348416.png.pagespeed.ic.hQETp6pFjB.png)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")
+MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4](https://minecraft-server.net/details/projectsurvival/ "MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1731694115.png.pagespeed.ic.GN-yKvGqoG.png)
+
+Fermium MC - SURVIVAL](https://minecraft-server.net/details/A2rath/ "Fermium MC - SURVIVAL")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -140,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06069 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06534 - Created by [Debaucus](https://debauc.us/)
