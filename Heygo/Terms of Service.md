@@ -542,6 +542,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![8 fascinating tours where you can really get to know a country](https://media.restless.co.uk/uploads/2024/10/fascinating-tours-where-you-can-really-get-to-know-a-country-768x349.jpg)](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
+
+### [8 fascinating tours where you can really get to know a country](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/) 
+
+[Read More »](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
+
 [![12 idyllic beach destinations in Southern Europe](https://media.restless.co.uk/uploads/2023/08/idyllic-beach-destinations-in-southern-europe-768x512.jpg)](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
 
 ### [12 idyllic beach holidays in Southern Europe](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
@@ -572,14 +578,14 @@ New in travel
 
 [Read More »](https://restless.co.uk/travel/enriching-uk-breaks/)
 
-[![10 of the most popular travel destinations in 2024/25](https://media.restless.co.uk/uploads/2024/04/the-most-popular-travel-destinations-in-2024-25-e1712224038762-768x453.jpg)](https://restless.co.uk/travel/the-most-popular-holidays/)
-
-### [10 of the most popular holidays in 2025](https://restless.co.uk/travel/the-most-popular-holidays/)
-
-[Read More »](https://restless.co.uk/travel/the-most-popular-holidays/)
-
 Popular travel guides
 ---------------------
+
+[![10 budget-friendly all-inclusive holiday destinations](https://media.restless.co.uk/uploads/2023/10/budget-friendly-all-inclusive-holiday-destinations-1-768x511.jpg)](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/)
+
+### [10 budget-friendly all-inclusive holiday destinations](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/) 
+
+[Read More »](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/)
 
 [![10 amazing countries you can get to in under four hours](https://media.restless.co.uk/uploads/2023/10/amazing-countries-you-can-get-to-in-under-four-hours-768x512.jpg)](https://restless.co.uk/travel/amazing-countries-you-can-get-to-in-under-four-hours/)
 
@@ -622,12 +628,6 @@ Popular travel guides
 ### [28 of the best historical sites to visit in the UK](https://restless.co.uk/travel/the-best-historical-sites-to-visit-in-the-uk/)
 
 [Read More »](https://restless.co.uk/travel/the-best-historical-sites-to-visit-in-the-uk/)
-
-[![10 budget-friendly all-inclusive holiday destinations](https://media.restless.co.uk/uploads/2023/10/budget-friendly-all-inclusive-holiday-destinations-1-768x511.jpg)](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/)
-
-### [10 budget-friendly all-inclusive holiday destinations](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/) 
-
-[Read More »](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/)
 
 [![10 places with Viking connections to visit in the UK](https://media.restless.co.uk/uploads/2023/05/places-with-viking-connections-to-visit-in-the-uk-768x459.jpg)](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
 
