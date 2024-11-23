@@ -1,3 +1,5 @@
+![](//www.softorbits.net/stat/matomo.php?idsite=1&rec=1)
+
 SoftOrbits
 
 * [Our products](https://www.softorbits.net/download.html)
@@ -87,5 +89,3 @@ Copyright © 2024 SoftOrbits™ Co. Ltd. All rights reserved. [About Us](https:/
 Create Content Like a Pro, Effortlessly ★ Create Content Like a Pro, Effortlessly ★ Create Content Like a Pro, Effortlessly ★ Create Content Like a Pro, Effortlessly ★ Create Content Like a Pro, Effortlessly ★ Create Content Like a Pro, Effortlessly ★
 
 [](#top)
-
-![](//www.softorbits.net/stat/matomo.php?idsite=1&rec=1)
