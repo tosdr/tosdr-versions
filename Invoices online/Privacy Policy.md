@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Henry Venter
+Anri van der Linde
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=90413209)  
-Import Maaw
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=145727649)  
+Skinz Printing & Branding
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=128948820)  
-All Trucking Solutions
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=143892568)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=9245391)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=46725485)  
+WIP Digital Solutions
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=209722531)  
-Mountain Lion Properties
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=190787008)  
+Goju Ryu Karate Centre
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=114962965)  
-Kainos (Pty) Ltd
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=110257736)  
+Gemini-IT Group
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=75176544)  
-kidoscabbie
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=199023870)  
+ARCHITEK PTY LTD
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=122722230)  
-AMS Ambu Medical Supplies
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=109085269)  
+NIMAWELL
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=120275561)  
-Hydroworld T/A Milliqua
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=184082444)  
+OrgChart Hosting Pty Ltd
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=20034028)  
-Norton Medical & Consult - Namibia
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=77205815)  
+Vplay Letsheng Mall
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=45442160)  
-Little Nutty Professors
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=211851415)  
+Forgotten Goods (Pty) Ltd
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=190120680)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=125123099)  
+Iurus Inc
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=17421220)  
-Nilbet T/A Waterman
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=194785866)  
+OptaServ
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=65019364)  
-Tracknetics
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=198036585)  
+Blue Bulls Rugby Coaches Association
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=158529768)  
-MSPCloud (Pty) Ltd
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=109466328)  
+Lion Software Develepment
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=38f40cbd70cca77fc554ca1ff6225d67763d0a36e5666b9b47d7377be8fbb43b&c=173820538)  
-Moremi Kitchens Rustenburg
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=c87feea4ea5322af822036840986ed64ea65a5c6ac091c73534dccee27531f70&c=140648138)  
+Imvubu General Trading
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
