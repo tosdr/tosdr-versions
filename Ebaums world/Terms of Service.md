@@ -255,13 +255,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![hot teacher in grey dress](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/) [Here Is One Great Reason To Stay In School](https://www.ebaumsworld.com/videos/heres-a-great-reason-to-stay-in-school/85153430/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/) [Guy Rips a Massive Fart After Finding Out He Was Being Charged With Possession of a Firearm](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/)
     
-    [![Hilarious Pic to Sum Up Each State - Redneck in Alabama | Funny pic of a redneck living in a trailer in Alabama](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/) [50 Funny Photos that Perfectly Sums Up Each of the American States](https://www.ebaumsworld.com/pictures/50-funny-photos-that-perfectly-sums-up-each-of-the-american-states/85216290/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/) [Russian Man With Balls of Steel Doesn't Shoot Mama Bear that Charges Him](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/)
     
-    [![Millionaire Karen Meets Karma After Fleeing From Police](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/millionaire-karen-meets-karma-after-fleeing-from-police/87424857/) [Millionaire Karen Meets Karma After Fleeing From Police](https://www.ebaumsworld.com/videos/millionaire-karen-meets-karma-after-fleeing-from-police/87424857/)
+    [![james corden](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/james-corden-ripps-a-joke-off-of-ricky-gervais-word-for-word/87297984/) [James Corden Once Stole a Joke From Ricky Gervais Word for Word](https://www.ebaumsworld.com/videos/james-corden-ripps-a-joke-off-of-ricky-gervais-word-for-word/87297984/)
     
-    [![Touring the “Worst Resort in Las Vegas”](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/touring-the-worst-resort-in-las-vegas/87422977/) [Touring the “Worst Resort in Las Vegas”](https://www.ebaumsworld.com/videos/touring-the-worst-resort-in-las-vegas/87422977/)
+    [![people get called out - you can only choose one, which door do you choose - time travel so i can go back to when i didn't follow this shitty account - im unvaccinated my super powers  include spreading a disease i dont have - do they make these in adult s](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/) [25 Foolish People Being Savagely Called Out Online](https://www.ebaumsworld.com/pictures/25-people-being-called-out-online/86420660/)
     
 
 * Advertisement
