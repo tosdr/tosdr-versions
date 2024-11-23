@@ -24,9 +24,7 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/2Bz3JgN)
-
-[](https://drawabox.com/rec/zapata/shading)
+[](https://drawabox.com/rec/uncomfortable/whattodraw)
 
 USE CODE BLACK20
 
@@ -34,9 +32,23 @@ FOR 20% OFF
 
 SALE ENDS November 29th
 
-[](https://amzn.to/3KZMtFM)
+[](https://drawabox.com/rec/bucci/digitalpainting)
 
-[](https://amzn.to/4cdoFKu)
+USE CODE BLACK20
+
+FOR 20% OFF
+
+SALE ENDS November 29th
+
+[](https://drawabox.com/rec/proko/drawingbasics)
+
+USE CODE BLACK20
+
+FOR 20% OFF
+
+SALE ENDS November 29th
+
+[](https://amzn.to/2SjhDei)
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
