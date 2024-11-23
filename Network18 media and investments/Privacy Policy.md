@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Mohini Dey](https://www.news18.com/movies/ar-rahmans-bassist-mohini-breaks-silence-on-rumours-linking-her-divorce-to-him-i-know-exactly-9130491.html)
-    * [Maharashtra Elections](https://www.news18.com/elections/maharashtra-jharkhand-election-results-will-there-be-saturday-surprises-in-final-countdown-of-2024-9130487.html)
-    * [Marnus Labuschagne](https://www.news18.com/cricket/marnus-labuschagne-gives-flying-kiss-to-harshit-rana-video-goes-viral-watch-9129439.html)
-    * [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
-    * [8th Pay Commission](https://www.news18.com/business/8th-pay-commission-central-govt-employees-may-see-186-jump-in-salary-announcement-likely-in-budget-9129662.html)
-    * [Ukraine Conflict](https://www.news18.com/explainers/has-world-war-3-begun-a-look-at-russias-allies-ukraines-arms-suppliers-indias-stand-9129806.html)
+    * [ECI Result Updates](https://www.news18.com/india/eci-election-results-2024-live-updates-eci-gov-in-maharashtra-jharkhand-bypolls-uttar-pradesh-liveblog-9129801.html)
+    * [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-vote-counting-today-liveblog-9130535.html)
+    * [Mumbai Results](https://www.news18.com/elections/mumbai-election-results-2024-live-updates-maharashtra-assembly-election-vote-counting-today-mahayuti-bjp-congress-shiv-sena-liveblog-9129378.html)
+    * [Election Analytics Centre](https://www.news18.com/elections/analytics-center/?v=map&s=MH&t=AS&)
+    * [WhatsApp](https://www.news18.com/tech/whatsapp-offers-secret-code-to-protect-your-chats-how-it-works-9118719.html)
+    * [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-2-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9130447.html)
     * [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Mohini Dey](https://www.news18.com/movies/ar-rahmans-bassist-mohini-breaks-silence-on-rumours-linking-her-divorce-to-him-i-know-exactly-9130491.html)
-* [Maharashtra Elections](https://www.news18.com/elections/maharashtra-jharkhand-election-results-will-there-be-saturday-surprises-in-final-countdown-of-2024-9130487.html)
-* [Marnus Labuschagne](https://www.news18.com/cricket/marnus-labuschagne-gives-flying-kiss-to-harshit-rana-video-goes-viral-watch-9129439.html)
-* [Belly Fat](https://www.news18.com/lifestyle/5-morning-rituals-you-should-adopt-to-reduce-belly-fat-9124509.html)
-* [8th Pay Commission](https://www.news18.com/business/8th-pay-commission-central-govt-employees-may-see-186-jump-in-salary-announcement-likely-in-budget-9129662.html)
-* [Ukraine Conflict](https://www.news18.com/explainers/has-world-war-3-begun-a-look-at-russias-allies-ukraines-arms-suppliers-indias-stand-9129806.html)
+* [ECI Result Updates](https://www.news18.com/india/eci-election-results-2024-live-updates-eci-gov-in-maharashtra-jharkhand-bypolls-uttar-pradesh-liveblog-9129801.html)
+* [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-vote-counting-today-liveblog-9130535.html)
+* [Mumbai Results](https://www.news18.com/elections/mumbai-election-results-2024-live-updates-maharashtra-assembly-election-vote-counting-today-mahayuti-bjp-congress-shiv-sena-liveblog-9129378.html)
+* [Election Analytics Centre](https://www.news18.com/elections/analytics-center/?v=map&s=MH&t=AS&)
+* [WhatsApp](https://www.news18.com/tech/whatsapp-offers-secret-code-to-protect-your-chats-how-it-works-9118719.html)
+* [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-2-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9130447.html)
 * [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
 
 * Follow Us
