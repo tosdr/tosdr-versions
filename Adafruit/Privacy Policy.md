@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We are what we celebrate”
+“ Everyone you will ever meet knows something you don't”
 
-[Dean Kamen](http://en.wikipedia.org/wiki/Dean_Kamen)
+[Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye)
 
 [](https://www.adafruit.com/about)
 
