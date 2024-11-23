@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/help-de-amazone-houtkap-tegenhouden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oorlog/agent-zelensky/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
