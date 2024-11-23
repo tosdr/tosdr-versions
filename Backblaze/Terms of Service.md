@@ -34,7 +34,7 @@ Solutions
 
 Systems Backup & Archive
 
-Safeguard VM, server, NAS, K8, and workstation data](https://www.backblaze.com/cloud-storage/solutions/data-backup-archive)[
+Safeguard server, VM, NAS, Microsoft 365, and K8 data](https://www.backblaze.com/cloud-storage/solutions/backup-and-archive)[
 
 Ransomware & DR Readiness
 
