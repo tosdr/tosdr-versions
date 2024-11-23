@@ -240,10 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### 90% Renewals
+#### Launch and scale compute workloads on KVM instances featuring hyperfast NVMe SSD storage and best price-to-performance ratio!
 
   
-Over 90% of our clients renew their services for over one year.  
+[Get Started](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
   
 
 ### News
