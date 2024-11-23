@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Who gave to Jeb Bush's gubernatorial campaigns?](/assets/Images/teasers/small/JebBushIndNonInd98-02.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-jeb-bush/)
+[![high court 09-10](/assets/logos/HighCourtRaces.png)](http://www.followthemoney.org/research/institute-research/money-in-judicial-elections-2009-2010)
 
-Jeb Bush: 55 percent of his gubernatorial contributions came from individuals.
+Is the judiciary “above politics”? See high court races.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
