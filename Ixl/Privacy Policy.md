@@ -6,7 +6,7 @@
 
  
 
-![Search for skill](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/icon-mag-glass-white.svg)
+![Search for skill](/dv3/YHjnjQg9UPumViA4GwBd6l4xSOs/yui3/site-nav/assets/icon-mag-glass-white.svg)
 
   Sign in  Remember
 
@@ -19,14 +19,14 @@
     * [Math](https://www.ixl.com/math)
         
         * [Skills](https://www.ixl.com/math)
-        ![](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/ellipse.svg)* [Lessons](https://www.ixl.com/math/lessons)
-        ![](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/ellipse.svg)* [Videos](https://www.ixl.com/math/videos)
-        ![](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/math/games)
+        ![](/dv3/YHjnjQg9UPumViA4GwBd6l4xSOs/yui3/site-nav/assets/ellipse.svg)* [Lessons](https://www.ixl.com/math/lessons)
+        ![](/dv3/YHjnjQg9UPumViA4GwBd6l4xSOs/yui3/site-nav/assets/ellipse.svg)* [Videos](https://www.ixl.com/math/videos)
+        ![](/dv3/YHjnjQg9UPumViA4GwBd6l4xSOs/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/math/games)
     * [Language arts](https://www.ixl.com/ela)
         
         * [Skills](https://www.ixl.com/ela)
-        ![](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/ellipse.svg)* [Videos](https://www.ixl.com/ela/videos)
-        ![](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/ela/games)
+        ![](/dv3/YHjnjQg9UPumViA4GwBd6l4xSOs/yui3/site-nav/assets/ellipse.svg)* [Videos](https://www.ixl.com/ela/videos)
+        ![](/dv3/YHjnjQg9UPumViA4GwBd6l4xSOs/yui3/site-nav/assets/ellipse.svg)* [Games](https://www.ixl.com/ela/games)
     * [Science](https://www.ixl.com/science)
         
     * [Social studies](https://www.ixl.com/social-studies)
@@ -335,4 +335,4 @@ Fax (650) 372-4072
 
 [Company](https://www.ixl.com/company) | [Membership](https://www.ixl.com/membership) | [Blog](https://blog.ixl.com/) | [Help center](https://www.ixl.com/help-center) | [User guides](https://www.ixl.com/userguides) | [Tell us what you think](https://www.ixl.com/feedback) | [Testimonials](https://www.ixl.com/testimonials) | [Careers](https://www.ixl.com/company/careers) | [Contact us](https://www.ixl.com/contact) | [Terms of service](https://www.ixl.com/termsofservice) | [**Privacy policy**](https://www.ixl.com/privacypolicy)
 
-[![IXL Learning](/dv3/gRsmvZSoMALmR-zDByq4oIdqCIg/yui3/site-nav/assets/footer-logo.svg "IXL Learning")](https://www.ixl.com/company/) © 2024 IXL Learning. All rights reserved. Follow us [![Facebook](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/facebook-icon.svg)](https://www.facebook.com/IXL)[![X](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/x-icon.svg)](https://x.com/IXLLearning)[![Pinterest](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/pinterest-icon.svg)](https://www.pinterest.com/IXL/)[![Instagram](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/instagram-icon.svg)](https://www.instagram.com/ixl/)[![Youtube](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/youtube-icon.svg)](https://www.youtube.com/ixl/)[![LinkedIn](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/linkedin-icon.svg)](https://www.linkedin.com/company/ixl-learning)
+[![IXL Learning](/dv3/YHjnjQg9UPumViA4GwBd6l4xSOs/yui3/site-nav/assets/footer-logo.svg "IXL Learning")](https://www.ixl.com/company/) © 2024 IXL Learning. All rights reserved. Follow us [![Facebook](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/facebook-icon.svg)](https://www.facebook.com/IXL)[![X](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/x-icon.svg)](https://x.com/IXLLearning)[![Pinterest](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/pinterest-icon.svg)](https://www.pinterest.com/IXL/)[![Instagram](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/instagram-icon.svg)](https://www.instagram.com/ixl/)[![Youtube](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/youtube-icon.svg)](https://www.youtube.com/ixl/)[![LinkedIn](/dv3/A2vqHJyFlaMN_o6y7TtBCzzb5Kw/yui3/home-page/assets/home-2019/linkedin-icon.svg)](https://www.linkedin.com/company/ixl-learning)
