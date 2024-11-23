@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Mumble Jumble](https://www.myabandonware.com/game/mumble-jumble-taq)
 * [Word Yo!](https://www.myabandonware.com/game/word-yo-tap)
 * [Dirt Bike Maniacs](https://www.myabandonware.com/game/dirt-bike-maniacs-tao)
 * [Zoo Tycoon 2: Extinct Animals](https://www.myabandonware.com/game/zoo-tycoon-2-extinct-animals-tam)
 * [Zoo Tycoon 2: Marine Mania](https://www.myabandonware.com/game/zoo-tycoon-2-marine-mania-tak)
-* [Zoo Tycoon 2: Dino Danger Pack](https://www.myabandonware.com/game/zoo-tycoon-2-dino-danger-pack-taj)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Reversi](https://www.myabandonware.com/game/reversi-hil)
-* [Out of the Sun](https://www.myabandonware.com/game/out-of-the-sun-3o5)
-* [Darwin 4078](https://www.myabandonware.com/game/darwin-4078-qrk)
+* [Virtual Worlds: The 3D Game Collection](https://www.myabandonware.com/game/virtual-worlds-the-3d-game-collection-k1g)
+* [Blinky Bill: Play and Learn - Year 1](https://www.myabandonware.com/game/blinky-bill-play-and-learn-year-1-m88)
+* [Disney's Winnie the Pooh Holiday Print Studio](https://www.myabandonware.com/game/disney-s-winnie-the-pooh-holiday-print-studio-m8r)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
