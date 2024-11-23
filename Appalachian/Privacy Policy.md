@@ -37,11 +37,6 @@ Main Menu
 
 * [Home](https://www.appstate.edu/)
 
-* Adverse Weather Update: Nov. 22, 2024
-    
-    Classes scheduled to meet in Boone on Friday, Nov. 22, will meet online. [Condition 2 (Suspended Operations)](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) is in effect for non-faculty employees in Boone through 1 p.m. on Friday, Nov. 22. [Condition 1 (Reduced Operations)](https://hr.appstate.edu/hr-services/policies-and-forms/adverse-weather) will take effect in Boone from 1 p.m. on Friday, Nov. 22, until 7 a.m. on Saturday, Nov. 23. [Read full message](https://appstatealert.com/)
-    
-
 Appalachian Privacy Statement
 =============================
 
