@@ -242,7 +242,7 @@ We also use social media Cookies. You may register for Platform membership and â
 
 We also use Cookies to enable us to track and target the interests of Platform visitors to enhance the experience on our Platform by researching visiting patterns and conducting interest-based advertising; assisting our partners in tracking user visits to the Platforms; and to track progress and participation in promotions and the success of our email marketing campaigns. We use first- and third-party Cookies for these purposes.
 
-For more information about the Cookies we use, please see our [Cookie Notice](https://cdn.contract.alibaba.com/terms/privacy_other/20240528193730388/20240528193730388.html).
+For more information about the Cookies we use, please see our [Cookie Notice](https://terms.alicdn.com/legal-agreement/terms/c_platform_service_agreement/20240401172006520/20240401172006520.html).
 
 **G.**Â **MINORS**
 
