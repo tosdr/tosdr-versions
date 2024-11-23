@@ -56,12 +56,12 @@ Telegram FAQ
 
 * [Who can I message?](#q-who-can-i-write-to)
 * [Who can message me?](#q-who-can-contact-me)
+* [Does Telegram send Verification Codes for other apps?](#q-does-telegram-send-verification-codes-for-other-apps)
 * [Who has Telegram?](#q-how-do-i-know-who-in-my-contacts-has-telegram)
 * [Inviting friends](#q-how-do-i-invite-my-friends)
 * [What do the check marks mean in Telegram?](#q-what-do-the-check-marks-mean)
 * [Can I hide my 'last seen'?](#q-can-i-hide-my-last-seen-time)
 * [Who can see me 'online'?](#q-who-can-see-me-39online-39)
-* [What is 'People Nearby'?](#q-what-is-people-nearby)
 * [Can I delete my messages?](#q-can-i-delete-my-messages)
 * [Voice, Video and Group calls](#q-can-i-make-calls-via-telegram)
 * [Using emoticons](#q-how-can-i-use-emoticons)
@@ -317,7 +317,22 @@ If they don't know your phone number, they can find you in these cases:
 
 * When you both are members of the **same group**.
 * If you set a [**public username**](#usernames-and-t-me). Others can use **Global Search** and find you by your username.
-* If you **opt-in** to appear in the [People Nearby](#q-what-is-people-nearby) section (this is **turned off** by default).
+
+##### [](#q-does-telegram-send-verification-codes-for-other-apps)Q: Does Telegram send Verification Codes for other apps?
+
+Telegram allows third-party services to [send verification codes](https://telegram.org/blog/gifts-verification-platform#verification-platform) to their users via Telegram. These codes only appear in the **verified _'Verification Codes'_ chat**, and let you tap to instantly copy the code.
+
+[![](/file/400780400405/5/DJtYqf_wYiU.829923/a5d5fc8092802cab46 "verif codes.png, 437.12KB")](https://telegram.org/file/400780400405/5/DJtYqf_wYiU.829923/a5d5fc8092802cab46)
+
+> Services that do not specify a name or profile picture for their codes will appear with the default name and photo of _'Verification Codes'_.
+
+If you receive a code in the _'Verification Codes'_ chat, it's probably because you requested to log in to a third-party service, like an **external website, app or marketplace**. It's also possible that someone else accidentally entered your phone number when logging in to another service. **Either way, your Telegram account is completely safe** — if you didn’t request a code, simply tap on it and select _'Report'_, no need to do anything else.
+
+Third-party services determine which way your verification codes are sent – and Telegram is not able to control this or make a service aware of your preferences. Unlike SMS codes that frequently fail to arrive and can be interecepted, verification codes sent via Telegram are **delivered instantly** and are **securely encrypted** – making them safer and more reliable for both users and services.
+
+The _'Verification Codes'_ chat is only used for codes from **third-party services**. Login codes for your [Telegram account](https://telegram.org/faq#getting-a-code-via-telegram) itself are sent to the **verified service notifications** chat named _'Telegram'_ in your chat list and should **never be shared** with anyone, including other services or apps.
+
+> If you'd like to save money and increase efficiency by sending verification codes for your app or service via Telegram, check out the [Telegram Gateway](https://core.telegram.org/gateway).
 
 #### [](#q-how-do-i-know-who-in-my-contacts-has-telegram)Q: How do I know who in my contacts has Telegram?
 
