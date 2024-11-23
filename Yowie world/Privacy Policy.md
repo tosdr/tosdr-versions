@@ -263,3 +263,9 @@ Password \*Required
  Remember me  Log in
 
 [Lost your password?](https://yowie.com/my-account/lost-password/)
+
+![](https://www.facebook.com/tr?id=2305133513080338&ev=PageView&noscript=1&cd%5Bpage_title%5D=Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=633&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=yowie.com%2Fprivacy-policy%2F)
+
+                 
+
+We use cookies to ensure that we give you the best experience on our website. By continuing to use this site you are accepting the [terms and conditions](https://yowie.com/terms-conditions/), [Privacy policy](https://yowie.com/privacy-policy/) and the use of cookies.[Close](#)
