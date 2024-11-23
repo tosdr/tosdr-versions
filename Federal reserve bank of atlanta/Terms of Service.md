@@ -22,7 +22,7 @@
     
 * [Education](https://www.atlantafed.org/education)
     
-    [Teach](https://www.atlantafed.org/education/teach) [Learn](https://www.atlantafed.org/education/learn) [Visit](https://www.atlantafed.org/education/visit) [Contact](https://www.atlantafed.org/cweo/data-tools/opportunity-occupations-monitor)
+    [Teach](https://www.atlantafed.org/education/teach) [Learn](https://www.atlantafed.org/education/learn) [Visit](https://www.atlantafed.org/education/visit) [Contact](https://www.atlantafed.org/education/contact)
     
 * [Community Development](https://www.atlantafed.org/community-development)
     
