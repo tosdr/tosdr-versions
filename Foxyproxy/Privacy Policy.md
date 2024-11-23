@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Amazing how quickly you answer
+We are extremely happy with FoxyProxy, it allows us to use US based streaming services from France without any issue. We will for sure re-subscribe as soon as we have internet access again. Thanks, and congratulations for the great service!
 
-Alexandre Martin
+Jean Moniatte
