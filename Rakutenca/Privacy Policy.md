@@ -521,7 +521,9 @@ FR
         
         Recommended Stores
         
-        [Airalo
+        [Expedia.ca
+        
+        up to 10% Cash Back](https://www.rakuten.ca/expedia-ca)[Airalo
         
         4% Cash Back](https://www.rakuten.ca/airalo)[TravelPro
         
@@ -529,9 +531,7 @@ FR
         
         12% Cash Back](https://www.rakuten.ca/bikini-village)[Flight Centre
         
-        up to 6% Cash Back](https://www.rakuten.ca/flight-centre)[Holiday Inn
-        
-        4% Cash Back](https://www.rakuten.ca/holiday-inn)
+        up to 6% Cash Back](https://www.rakuten.ca/flight-centre)
         
         Featured Shops & Deals
         
