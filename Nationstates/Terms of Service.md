@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Turnabout Trump (6,192)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (6,192 posts)")
-* [What do you think your card rating wi… (210)](https://forum.nationstates.net/viewtopic.php?t=553763&f=42&view=unread#unread ""What do you think your card rating will be in season 4?" (210 posts)")
-* [The Lords' Fall \[All - Tech | SEMI-CL… (122)](https://forum.nationstates.net/viewtopic.php?t=549649&f=5&view=unread#unread ""The Lords' Fall [All - Tech | SEMI-CLOSED | IC]" (122 posts)")
-* [Would You Rather Chill with AU or AAU? (421)](https://forum.nationstates.net/viewtopic.php?t=556519&f=25&view=unread#unread ""Would You Rather Chill with AU or AAU?" (421 posts)")
+* [The Solitary Throne \[OOC | Closed\] (994)](https://forum.nationstates.net/viewtopic.php?t=555477&f=31&view=unread#unread ""The Solitary Throne [OOC | Closed]" (994 posts)")
+* [American Politics: Turnabout Trump (6,238)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (6,238 posts)")
+* [Guess AN's least favorite nation (70)](https://forum.nationstates.net/viewtopic.php?t=558572&f=25&view=unread#unread ""Guess AN's least favorite nation" (70 posts)")
+* [Rate the AL's looks (revival) (80)](https://forum.nationstates.net/viewtopic.php?t=554226&f=25&view=unread#unread ""Rate the AL's looks (revival)" (80 posts)")
+* [Is AN pro-Palestine or pro-Israel? (1,245)](https://forum.nationstates.net/viewtopic.php?t=551641&f=25&view=unread#unread ""Is AN pro-Palestine or pro-Israel?" (1,245 posts)")
 
 Advertisement
 
