@@ -243,7 +243,7 @@ Your modern coding superpowers.
 
 Mail[mail](mailto:hello@codeium.com)
 
-Twitter[twitter](https://twitter.com/codeiumdev)
+Twitter[twitter](https://x.com/codeiumdev)
 
 Discord[discordDiscord](https://discord.gg/3XFf78nAx5)
 
