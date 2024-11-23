@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ There are a few people out there who really enjoy hacking things...”
+“ We are what we celebrate”
 
-[Helen Greiner](http://www.nytimes.com/2006/03/08/technology/08iht-ptbot09.html?_r=0)
+[Dean Kamen](http://en.wikipedia.org/wiki/Dean_Kamen)
 
 [](https://www.adafruit.com/about)
 
