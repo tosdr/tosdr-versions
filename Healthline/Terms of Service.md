@@ -190,6 +190,35 @@
 
 Subscribe
 
+[#### Drugs](https://www.healthline.com/drugs)
+
+* [A](https://www.healthline.com/drugs/drugs-a)
+* [B](https://www.healthline.com/drugs/drugs-b)
+* [C](https://www.healthline.com/drugs/drugs-c)
+* [D](https://www.healthline.com/drugs/drugs-d)
+* [E](https://www.healthline.com/drugs/drugs-e)
+* [F](https://www.healthline.com/drugs/drugs-f)
+* [G](https://www.healthline.com/drugs/drugs-g)
+* [H](https://www.healthline.com/drugs/drugs-h)
+* [I](https://www.healthline.com/drugs/drugs-i)
+* [J](https://www.healthline.com/drugs/drugs-j)
+* [K](https://www.healthline.com/drugs/drugs-k)
+* [L](https://www.healthline.com/drugs/drugs-l)
+* [M](https://www.healthline.com/drugs/drugs-m)
+* [N](https://www.healthline.com/drugs/drugs-n)
+* [O](https://www.healthline.com/drugs/drugs-o)
+* [P](https://www.healthline.com/drugs/drugs-p)
+* [Q](https://www.healthline.com/drugs/drugs-q)
+* [R](https://www.healthline.com/drugs/drugs-r)
+* [S](https://www.healthline.com/drugs/drugs-s)
+* [T](https://www.healthline.com/drugs/drugs-t)
+* [U](https://www.healthline.com/drugs/drugs-u)
+* [V](https://www.healthline.com/drugs/drugs-v)
+* [W](https://www.healthline.com/drugs/drugs-w)
+* [X](https://www.healthline.com/drugs/drugs-x)
+* [Y](https://www.healthline.com/drugs/drugs-y)
+* [Z](https://www.healthline.com/drugs/drugs-z)
+
 Terms of Use
 ============
 
