@@ -3,7 +3,7 @@
 [Skip to content](#main-content)
 
 **BLACK FRIDAY**: UP TO $474 OFF BUNDLES  
-SAVE 25%-45% + FREE DELIVERY
+SAVE 25-45% + FREE DELIVERY
 
  [![Moon Pod](//www.moonpod.co/cdn/shop/files/Moonpod_logo_transparent_2_ccf0cdbc-718b-411a-b019-baa70d680154.png?v=1614316087&width=260)](https://www.moonpod.co/)
 
@@ -20,7 +20,6 @@ Menu
     * [Double Moon Pod](https://www.moonpod.co/products/super-moon-pod)
     * [Outdoor Moon Pod](https://www.moonpod.co/products/outdoor-bundle)
     * [Beanbag Bundles](https://www.moonpod.co/collections/moon-pod-bundles)
-    * [Beanbag Accessories](https://www.moonpod.co/collections/moon-pod-accessories)
     * [Shop All Beanbags](https://www.moonpod.co/collections/moon-pod-beanbags)
     
 * [Galaxy Blankets](https://www.moonpod.co/collections/blankets)
@@ -31,6 +30,7 @@ Menu
     * [Sleep Products](#)
     * [The Moon Cloud Mattress Topper](https://www.moonpod.co/products/cloud-cover)
     * [4D Pillow](https://www.moonpod.co/products/moonpod-4d-pillow)
+    * [Galaxy Throw Blankets](https://www.moonpod.co/collections/blankets)
     * [Shop All Sleep Products](https://www.moonpod.co/collections/sleep-products)
     
 * [Bundle & Save](https://www.moonpod.co/collections/moon-pod-bundles)
