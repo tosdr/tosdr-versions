@@ -29,6 +29,7 @@
     * [UFC OFFICIAL PARTNER](https://airestech.com/pages/ufc)
     * [WWE OFFICIAL PARTNER](https://airestech.com/pages/wwe)
     * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
+    * [SPONSOR OF CELTIC WARRIOR WORKOUT](https://www.airestech.com/pages/wwecelticwarrior)
     
 * [HOLIDAY GIFT GUIDE](https://airestech.com/pages/holiday-gift)
 
@@ -561,6 +562,7 @@ United States (USD $)
     * [UFC OFFICIAL PARTNER](https://airestech.com/pages/ufc)
     * [WWE OFFICIAL PARTNER](https://airestech.com/pages/wwe)
     * [CANADA BASKETBALL OFFICIAL PARTNER](https://investors.airestech.com/2024/07/11/aires-tech-partners-with-canada-basketball-as-official-emf-protection-technology-partner/)
+    * [SPONSOR OF CELTIC WARRIOR WORKOUT](https://www.airestech.com/pages/wwecelticwarrior)
     
 * [HOLIDAY GIFT GUIDE](https://airestech.com/pages/holiday-gift)
 
