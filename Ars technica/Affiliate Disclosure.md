@@ -87,13 +87,13 @@ Most Read
     
     1. [Russian ballistic missile attack on Ukraine portends new era of warfare](https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/)
     
-2. 2. [Surgeons remove 2.5-inch hairball from teen with rare Rapunzel syndrome](https://arstechnica.com/health/2024/11/surgeons-remove-2-5-inch-hairball-from-teen-with-rare-rapunzel-syndrome/)
+2. 2. [The good, the bad, and the ugly behind the push for more smart displays](https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/)
     
-3. 3. [Study: Why Aztec “death whistles” sound like human screams](https://arstechnica.com/science/2024/11/study-why-aztec-death-whistles-sound-like-human-screams/)
+3. 3. [Spies hack Wi-Fi networks in far-off land to launch attack on target next door](https://arstechnica.com/security/2024/11/spies-hack-wi-fi-networks-in-far-off-land-to-launch-attack-on-target-next-door/)
     
-4. 4. [School did nothing wrong when it punished student for using AI, court rules](https://arstechnica.com/tech-policy/2024/11/school-did-nothing-wrong-when-it-punished-student-for-using-ai-court-rules/)
+4. 4. [Our Universe is not fine-tuned for life, but it’s still kind of OK](https://arstechnica.com/science/2024/11/our-universe-is-not-fine-tuned-for-life-but-its-still-kind-of-ok/)
     
-5. 5. [Rocket Report: Next Vulcan launch slips into 2025; Starship gets a green light](https://arstechnica.com/space/2024/11/rocket-report-next-vulcan-launch-slips-into-2025-starship-gets-a-green-light/)
+5. 5. [Ted Cruz wants to overhaul $42B broadband program, nix low-cost requirement](https://arstechnica.com/tech-policy/2024/11/ted-cruz-wants-to-overhaul-42b-broadband-program-nix-low-cost-requirement/)
     
 
 Customize
