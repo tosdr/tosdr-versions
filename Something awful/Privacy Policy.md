@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Kids Korner: Drugs are Nature's Hugs](https://www.somethingawful.com/feature-articles/kids-korner-drugs/1/)
-* [Furrs for Christ, Multiplicity, and Bigfoot Forums](https://www.somethingawful.com/weekend-web/furs-bigfoot-multiplicity/1/)
-* [Movie Posters](https://www.somethingawful.com/photoshop-phriday/movie-posters-2/1/)
-* [IT'S A WONDERFUL LIFE, MITCH!](https://www.somethingawful.com/levi-johnston/mitt-pumping-gas/1/)
-* [HOLD UP, "GAY MARRIAGE" MEANS DUDES MARRYING??](https://www.somethingawful.com/levi-johnston/obama-gay-marriage/)
+* [Boy Bliss, Olsen Twins Forum, and the Singapore Discussion Network](https://www.somethingawful.com/weekend-web/boy-bliss-olsen/1/)
+* [AwfulVision: Cross-face chicken wings and tap water!](https://www.somethingawful.com/awfulvision/benoit-fat-werewolf/1/)
+* [Chapter Five](https://www.somethingawful.com/feature-articles/chapter-five/1/)
+* [Chapter Four](https://www.somethingawful.com/feature-articles/chapter-four/1/)
+* [The Last Six Months Retrospective Extravaganza](https://www.somethingawful.com/weekend-web/last-six-months/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/poll.png) [are you posting here on browser or app](http://forums.somethingawful.com/showthread.php?threadid=4075926 "are you posting here on browser or app")
 * ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Do you have a forums crush?](http://forums.somethingawful.com/showthread.php?threadid=4075920 "Do you have a forums crush?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/stupid.png) [ITT we're people ITT](http://forums.somethingawful.com/showthread.php?threadid=4075886 "ITT we're people ITT")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/poll.png) [are you posting here on browser or app](http://forums.somethingawful.com/showthread.php?threadid=4075926 "are you posting here on browser or app")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/repeat.png) [ITT it's Seinfeld but it takes place in the Benghazi embassy](http://forums.somethingawful.com/showthread.php?threadid=4075877 "ITT it's Seinfeld but it takes place in the Benghazi embassy")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/stupid.png) [ITT we're people ITT](http://forums.somethingawful.com/showthread.php?threadid=4075886 "ITT we're people ITT")
 
 ### Random Articles
 
-* [More Forgotten Origins Of Comic Book Characters](https://www.somethingawful.com/news/more-forgotten-origins/)
-* [Why Beto O'Rourke is Perfect for Democrats in 2020](https://www.somethingawful.com/news/lanyards-love-beto/)
-* [Testing the Limits of Stupidity](https://www.somethingawful.com/news/testing-limits-stupidity/)
-* [Let's Play CARTOONS #6](https://www.somethingawful.com/flash-tub/letsplay-cartoons-6/)
-* [A Week in the Life of The Sims 3](https://www.somethingawful.com/feature-articles/sims-3-life/1/)
+* [HuffPo Parenting Blog Headlines!](https://www.somethingawful.com/comedy-goldmine/huffpo-parents-blog/)
+* [Hippie Personals](https://www.somethingawful.com/awful-links/awful-link-2587/)
+* [Video Game Confessions](https://www.somethingawful.com/news/video-game-confessions/)
+* [This Might Be Our Stupidest Deal Yet!](https://www.somethingawful.com/news/debt-ceiling-deal/)
+* [Blue Stripe 40,000 Interview Special](https://www.somethingawful.com/news/warhammer-chaos-birdhouse/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
