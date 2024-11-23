@@ -131,28 +131,36 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Japan approves ¥21.9 trillion stimulus plan](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
+
+  [![The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435769.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.")](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
+
 [Tokyo Metro’s overseas efforts begin in earnest with London deal](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
 
   [![Tokyo Metro will soon have a role in the running of London's Elizabeth Line, a major train route serving the U.K.’s capital city and environs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Metro will soon have a role in the running of London's Elizabeth Line, a major train route serving the U.K.’s capital city and environs.")](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
+
+[Saitama court bans demonstrations over anti-Kurd hate speech](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/kurds-hate-speech/ "Saitama court bans demonstrations over anti-Kurd hate speech")
+
+  [![Kurdish people in Japan in 2015. A court injunction has banned acts that defame the Japan Kurdish Cultural Association and are disrespectful, such as putting up banner flags or handing out fliers with hate speech like “Refugees should go back to their home countries.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435679.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kurdish people in Japan in 2015. A court injunction has banned acts that defame the Japan Kurdish Cultural Association and are disrespectful, such as putting up banner flags or handing out fliers with hate speech like “Refugees should go back to their home countries.”")](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/kurds-hate-speech/ "Saitama court bans demonstrations over anti-Kurd hate speech")
+
+[China reinstates visa-free travel for Japanese nationals](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
+
+  [![Beijing Daxing International Airport ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435832.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Beijing Daxing International Airport ")](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
 
 [U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
 
   [![U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435630.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.")](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
 
-[Man charged with murder allegedly made victim date other men for money](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/beat-girlfriend-arrest/ "Man charged with murder allegedly made victim date other men for money")
-
-  [![A car carrying suspect Ryotaro Masuda, who was indicted for allegedly beating his 25-year-old girlfriend to death, leaves the Shibuya Police Station in Tokyo on Thursday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435475.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A car carrying suspect Ryotaro Masuda, who was indicted for allegedly beating his 25-year-old girlfriend to death, leaves the Shibuya Police Station in Tokyo on Thursday. ")](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/beat-girlfriend-arrest/ "Man charged with murder allegedly made victim date other men for money")
-
-[Russia fired experimental ballistic missile at Ukraine, Putin says](https://www.japantimes.co.jp/news/2024/11/22/world/russia-icbm-attack-on-dnipro-ukraine/ "Russia fired experimental ballistic missile at Ukraine, Putin says")
-
-  [![Ukrainian firefighters work on a spot following an airstrike in Dnipro on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435586.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ukrainian firefighters work on a spot following an airstrike in Dnipro on Thursday.")](https://www.japantimes.co.jp/news/2024/11/22/world/russia-icbm-attack-on-dnipro-ukraine/ "Russia fired experimental ballistic missile at Ukraine, Putin says")
-
-[Ex-yokozuna Kitanofuji dies at 82](https://www.japantimes.co.jp/sports/2024/11/21/sumo/kitanofuji-dies-at-82/ "Ex-yokozuna Kitanofuji dies at 82")
-
-  [![Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435471.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.")](https://www.japantimes.co.jp/sports/2024/11/21/sumo/kitanofuji-dies-at-82/ "Ex-yokozuna Kitanofuji dies at 82")
-
 Editors' Picks
 --------------
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Japan approves ¥21.9 trillion stimulus plan](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435769.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.")](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -164,31 +172,25 @@ By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kaz
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Saitama court bans demonstrations over anti-Kurd hate speech](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/kurds-hate-speech/ "Saitama court bans demonstrations over anti-Kurd hate speech")
+
+  [![Kurdish people in Japan in 2015. A court injunction has banned acts that defame the Japan Kurdish Cultural Association and are disrespectful, such as putting up banner flags or handing out fliers with hate speech like “Refugees should go back to their home countries.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435679.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kurdish people in Japan in 2015. A court injunction has banned acts that defame the Japan Kurdish Cultural Association and are disrespectful, such as putting up banner flags or handing out fliers with hate speech like “Refugees should go back to their home countries.”")](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/kurds-hate-speech/ "Saitama court bans demonstrations over anti-Kurd hate speech")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[China reinstates visa-free travel for Japanese nationals](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
+
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![Beijing Daxing International Airport ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435832.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Beijing Daxing International Airport ")](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
 
 By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
 
   [![U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435630.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.")](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Man charged with murder allegedly made victim date other men for money](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/beat-girlfriend-arrest/ "Man charged with murder allegedly made victim date other men for money")
-
-  [![A car carrying suspect Ryotaro Masuda, who was indicted for allegedly beating his 25-year-old girlfriend to death, leaves the Shibuya Police Station in Tokyo on Thursday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435475.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A car carrying suspect Ryotaro Masuda, who was indicted for allegedly beating his 25-year-old girlfriend to death, leaves the Shibuya Police Station in Tokyo on Thursday. ")](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/beat-girlfriend-arrest/ "Man charged with murder allegedly made victim date other men for money")
-
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
-
-[Russia fired experimental ballistic missile at Ukraine, Putin says](https://www.japantimes.co.jp/news/2024/11/22/world/russia-icbm-attack-on-dnipro-ukraine/ "Russia fired experimental ballistic missile at Ukraine, Putin says")
-
-By [Anastasiia Malenko](https://www.japantimes.co.jp/author/5924/anastasiia-malenko/ "Anastasiia Malenko"), [Tom Balmforth](https://www.japantimes.co.jp/author/2056/tom-balmforth/ "Tom Balmforth") and [Max Hunder](https://www.japantimes.co.jp/author/3467/max-hunder/ "Max Hunder")  
-
-  [![Ukrainian firefighters work on a spot following an airstrike in Dnipro on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435586.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Ukrainian firefighters work on a spot following an airstrike in Dnipro on Thursday.")](https://www.japantimes.co.jp/news/2024/11/22/world/russia-icbm-attack-on-dnipro-ukraine/ "Russia fired experimental ballistic missile at Ukraine, Putin says")
-
-[SUMO](https://www.japantimes.co.jp/sports/sumo/ "SUMO")
-
-[Ex-yokozuna Kitanofuji dies at 82](https://www.japantimes.co.jp/sports/2024/11/21/sumo/kitanofuji-dies-at-82/ "Ex-yokozuna Kitanofuji dies at 82")
-
-  [![Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435471.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.")](https://www.japantimes.co.jp/sports/2024/11/21/sumo/kitanofuji-dies-at-82/ "Ex-yokozuna Kitanofuji dies at 82")
 
 Podcast
 -------
@@ -209,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,23 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Tokyo police care for lost umbrellas, keys and flying squirrels](https://www.japantimes.co.jp/news/2024/11/23/japan/tokyo-police-lost-items-care/ "Tokyo police care for lost umbrellas, keys and flying squirrels")
+[Trump tariffs may target Japanese cars, economist says](https://www.japantimes.co.jp/business/2024/11/23/trump-japanese-cars-tariffs/ "Trump tariffs may target Japanese cars, economist says")
+
+40 mins ago
+
+[Woman in critical condition after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman in critical condition after train collides with car in Tochigi")
 
 1 hour ago
 
-[Nissan persuades U.S. court to decertify brake defect class actions](https://www.japantimes.co.jp/business/2024/11/23/companies/nissan-us-court-brake-defect/ "Nissan persuades U.S. court to decertify brake defect class actions")
+[Japan to aid introduction of multilingual ride-hailing apps](https://www.japantimes.co.jp/news/2024/11/23/japan/society/japan-multilingual-ride-hailing-app/ "Japan to aid introduction of multilingual ride-hailing apps")
 
 1 hour ago
 
-[Trump taps Scott Bessent for U.S. Treasury](https://www.japantimes.co.jp/news/2024/11/23/world/trump-us-treasury-pick-scott-bessent/ "Trump taps Scott Bessent for U.S. Treasury")
+[Lebanon says at least four killed in Israeli strike on central Beirut](https://www.japantimes.co.jp/news/2024/11/23/world/israel-beirut-strike/ "Lebanon says at least four killed in Israeli strike on central Beirut")
 
-2 hours ago
+1 hour ago
 
-[Northvolt crisis may be make or break for Europe's EV battery ambitions](https://www.japantimes.co.jp/business/2024/11/23/companies/northvolt-crisis-europe-ev-ambitions/ "Northvolt crisis may be make or break for Europe's EV battery ambitions")
-
-3 hours ago
-
-[Gaetz exit puts spotlight on other Trump nominees accused of sexual misconduct](https://www.japantimes.co.jp/news/2024/11/23/world/politics/trump-nominees-sexual-misconduct-spotlight/ "Gaetz exit puts spotlight on other Trump nominees accused of sexual misconduct")
+[Failed Hyogo governor candidate's team questions X account suspension](https://www.japantimes.co.jp/news/2024/11/23/japan/politics/hyogo-governor-candidate-x/ "Failed Hyogo governor candidate's team questions X account suspension")
 
 3 hours ago
 
