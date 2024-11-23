@@ -1,6 +1,6 @@
 [Skip To Content](#page-content-section) [Skip To Navigation](#)
 
-[Win $10,000 to Spend on Fine Jewelry. Ends 11/24, Terms Apply >](https://www.shaneco.com/10ksparklespree?promo_name=global&promo_id=holidaygiveaway) [Get an Engagement Ring for Thanksgiving! Order by Sat 11/23 Noon MST.](https://www.shaneco.com/engagement-rings/c?promo_name=global_thanksgiving)
+[Win $10,000 to Spend on Fine Jewelry. Ends 11/24, Terms Apply >](https://www.shaneco.com/10ksparklespree?promo_name=global&promo_id=holidaygiveaway) [Final Hours — Get a Ring for Thanksgiving! Order by Mon 11/25 Noon MST with Overnight Shipping.](https://www.shaneco.com/engagement-rings/c?promo_name=global_thanksgiving)
 
 **Item**  has been added to your bag
 
