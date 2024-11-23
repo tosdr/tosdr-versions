@@ -33,7 +33,7 @@ Shipping & taxes calculated at checkout
 
   
 
-[Free shipping on orders $70+ (USA Only)](https://tuttletwins.store/collections/all)
+[Free shipping on orders $70+ (USA Only)](https://tuttletwins.store/collections/shop-all)
 
 [LAST CHANCE Veterans Day Sale, Get 25% OFF with Code VET25
 
@@ -55,9 +55,9 @@ SECS](https://shop.angel.com/collections/veterans-day-sale-25-off-with-code-vet2
 
      
 
-* BFCM Deals
+* Best Deals
     
-    BFCM Deals
+    Best Deals
     
     * [$5 Shirts](https://tuttletwins.store/collections/bfcm-5-shirts)
     * [10% Off](https://tuttletwins.store/collections/bfcm-10)
@@ -397,11 +397,11 @@ USD $ | United States
 
 [Shop All Deals](https://tuttletwins.store/collections/black-friday-early-preview)
 
-* BFCM Deals
+* Best Deals
     
     * [![header icon](//shop.angel.com/cdn/shop/files/All_Deals_1024x1024.png?v=1732135996)](https://tuttletwins.store/collections/black-friday-early-preview)
         
-        Shop All Deals
+        All Deals
         
     * [![header icon](//shop.angel.com/cdn/shop/files/5_Shirts_1024x1024.png?v=1732135996)](https://tuttletwins.store/collections/bfcm-5-shirts)
         
