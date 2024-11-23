@@ -80,6 +80,18 @@ Jefferson County Sheriff's Office
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2023/11/SG-Donald-Trump-6-220x180.jpg)](https://americanwirenews.com/trump-could-reportedly-ax-jack-smiths-team-have-doj-probe-election-fraud/)
+
+[Trump could reportedly ax Jack Smith’s team, have DOJ probe election fraud](https://americanwirenews.com/trump-could-reportedly-ax-jack-smiths-team-have-doj-probe-election-fraud/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rogersfox-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-puts-the-kibosh-on-rumors-about-unpopular-pick-as-fbi-boss/)
+
+[Trump puts the kibosh on rumors about unpopular pick as FBI boss](https://americanwirenews.com/trump-puts-the-kibosh-on-rumors-about-unpopular-pick-as-fbi-boss/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-elon-rachel-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/musk-teases-he-could-scoop-up-msnbc-how-much-does-it-cost/)
+
+[Musk teases he could scoop up MSNBC: ‘How much does it cost?’](https://americanwirenews.com/musk-teases-he-could-scoop-up-msnbc-how-much-does-it-cost/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ibarra-220x180.jpg)](https://americanwirenews.com/msnbc-buried-in-backlash-for-sympathetic-headline-addressing-laken-rileys-killer/)
 
 [MSNBC buried in backlash for ‘sympathetic’ headline addressing Laken Riley’s killer](https://americanwirenews.com/msnbc-buried-in-backlash-for-sympathetic-headline-addressing-laken-rileys-killer/)
@@ -169,18 +181,6 @@ Jefferson County Sheriff's Office
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-degeneres-de-rossi-220x180.jpg)](https://americanwirenews.com/bon-voyage-ellen-degeneres-reportedly-bolts-for-europe-never-to-return-to-u-s-after-trump-win/)
 
 [Ellen DeGeneres reportedly bolts for Europe, ‘never’ to return to U.S. after Trump win](https://americanwirenews.com/bon-voyage-ellen-degeneres-reportedly-bolts-for-europe-never-to-return-to-u-s-after-trump-win/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-trailers-220x180.jpg)](https://americanwirenews.com/fema-rv-trailers-sit-empty-while-homeless-nc-hurricane-victims-face-snow-and-freezing-temps-report/)
-
-[FEMA RV trailers sit EMPTY while homeless NC hurricane victims face snow and freezing temps: report](https://americanwirenews.com/fema-rv-trailers-sit-empty-while-homeless-nc-hurricane-victims-face-snow-and-freezing-temps-report/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ejochi-220x180.jpg)](https://americanwirenews.com/abc-journalist-turns-himself-into-a-pretzel-trying-to-pin-laken-riley-murder-on-trump/)
-
-[ABC ‘journalist’ turns himself into a pretzel trying to pin Laken Riley murder on Trump](https://americanwirenews.com/abc-journalist-turns-himself-into-a-pretzel-trying-to-pin-laken-riley-murder-on-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-latino-voters-220x180.jpg)](https://americanwirenews.com/minority-blue-collar-workers-across-america-explain-dumping-dems-were-the-laughingstock-of-the-world/)
-
-[Minority blue collar workers across America explain dumping Dems: ‘We’re the laughingstock of the world’](https://americanwirenews.com/minority-blue-collar-workers-across-america-explain-dumping-dems-were-the-laughingstock-of-the-world/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
