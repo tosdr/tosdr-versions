@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
+* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
+* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
+* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fünf-Punkte-Strategie mit ETF: Mit ETF den Markt schlagen – so gehts](https://www.test.de/Fuenf-Punkte-Strategie-mit-ETF-Mit-ETF-den-Markt-schlagen-so-gehts-6166129-0/ "Fünf-Punkte-Strategie mit ETF - Mit ETF den Markt schlagen – so gehts")
-* [Gesichts­rasur Dermaplaning: Verletzungs­gefahr nicht unterschätzen](https://www.test.de/Gesichtsrasur-Dermaplaning-Verletzungsgefahr-nicht-unterschaetzen-6156986-0/ "Gesichtsrasur Dermaplaning - Verletzungsgefahr nicht unterschätzen")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Dubioses Fest­geld: Webseite Zinsbox ist unseriös](https://www.test.de/Dubioses-Festgeld-Webseite-Zinsbox-ist-unserioes-6149417-0/ "Dubioses Festgeld - Webseite Zinsbox ist unseriös")
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
+* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
+* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
 
 Service Stiftung Warentest
 
