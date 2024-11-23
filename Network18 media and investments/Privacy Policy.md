@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Sat, Nov 23, 2024
+Sun, Nov 24, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,7 +128,7 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [ECI Result Updates](https://www.news18.com/india/eci-election-results-2024-live-updates-eci-gov-in-maharashtra-jharkhand-bypolls-uttar-pradesh-liveblog-9129801.html)
+    * [Maharashtra Winners](https://www.news18.com/elections/maharashtra-election-results-full-list-of-winners-of-288-assembly-seats_seat_winner_votes-polled_2nd-place_votes-polled-9129523.html)
     * [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-vote-counting-today-liveblog-9130535.html)
     * [Election Analytics Centre](https://www.news18.com/elections/analytics-center/?v=map&s=MH&t=AS&)
     * [Shalini Passi](https://www.news18.com/movies/sanjay-passi-reacts-to-shalini-passis-husband-tag-after-fabulous-lives-i-feel-9130969.html)
@@ -170,7 +170,7 @@ Follow us on
 
 In Trends:
 
-* [ECI Result Updates](https://www.news18.com/india/eci-election-results-2024-live-updates-eci-gov-in-maharashtra-jharkhand-bypolls-uttar-pradesh-liveblog-9129801.html)
+* [Maharashtra Winners](https://www.news18.com/elections/maharashtra-election-results-full-list-of-winners-of-288-assembly-seats_seat_winner_votes-polled_2nd-place_votes-polled-9129523.html)
 * [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-vote-counting-today-liveblog-9130535.html)
 * [Election Analytics Centre](https://www.news18.com/elections/analytics-center/?v=map&s=MH&t=AS&)
 * [Shalini Passi](https://www.news18.com/movies/sanjay-passi-reacts-to-shalini-passis-husband-tag-after-fabulous-lives-i-feel-9130969.html)
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 23, 2024
+Nov 24, 2024
 
 [View All](https://www.news18.com/short-news/)
 
