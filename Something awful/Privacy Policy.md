@@ -205,27 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Danny DeVito is on the move!](https://www.somethingawful.com/photoshop-phriday/danny-devito-crawl/1/)
-* [Lord of the Rings: ON THE GO!](https://www.somethingawful.com/comedy-goldmine/lord-rings-on/1/)
-* [Glitch Faces!](https://www.somethingawful.com/photoshop-phriday/glitch-faces-gifs/1/)
-* [Synonymous Movies](https://www.somethingawful.com/photoshop-phriday/synonymous-movies/1/)
+* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
+* [World of Workraft](https://www.somethingawful.com/great-goon-database/great-goon-work/1/)
+* [Shot Put Showdown](https://www.somethingawful.com/photoshop-phriday/shot-put-showdown/1/)
+* [AwfulVision: What Would Dick & Nut Do?](https://www.somethingawful.com/awfulvision/alexyss-blob-ugly/1/)
+* [Fark Fotoshop Friday: Lazy Cops](https://www.somethingawful.com/feature-articles/fark-fotoshop-friday/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tails.gif) [Cartoon Characters you would betray](http://forums.somethingawful.com/showthread.php?threadid=4075802 "Cartoon Characters you would betray")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Build a 15 dollar breakfast](http://forums.somethingawful.com/showthread.php?threadid=4075800 "Build a 15 dollar breakfast")
 * ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [Oreos](http://forums.somethingawful.com/showthread.php?threadid=4075812 "Oreos")
-* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Has anyone else noticed nerds are obsessed with being technically correct?](http://forums.somethingawful.com/showthread.php?threadid=4075867 "Has anyone else noticed nerds are obsessed with being technically correct?")
-* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Made up QCS drama thread](http://forums.somethingawful.com/showthread.php?threadid=4075797 "Made up QCS drama thread")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/repeat.png) [ITT it's Seinfeld but it takes place in the Benghazi embassy](http://forums.somethingawful.com/showthread.php?threadid=4075877 "ITT it's Seinfeld but it takes place in the Benghazi embassy")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/stupid.png) [ITT we're people ITT](http://forums.somethingawful.com/showthread.php?threadid=4075886 "ITT we're people ITT")
 
 ### Random Articles
 
-* [Redpilled My Little Pony Headcanons (Thanks, kate bush feelings!)](https://www.somethingawful.com/awful-links/redpilled-mlp-headcanon/)
-* [PANTHEONS OF GODS](https://www.somethingawful.com/news/pantheons-of-gods/)
-* [December 22, 2008](https://www.somethingawful.com/forum-fridays/ff12-22-08/)
-* [Burt's Power Points Summer Sale Spectacular](https://www.somethingawful.com/news/burts-powerpoint-summer/1/)
-* [\[Restricted\] The Wendy Show Archive for October 1st - 15th](https://www.somethingawful.com/news/wendy-show-october/)
+* [The 10 Most Awful Cures](https://www.somethingawful.com/most-awful/most-awful-cures/1/)
+* [COURAGE: The Diabetic Superhero](https://www.somethingawful.com/awful-links/awful-link-2340/)
+* [Released Reactions: Giga Promo (Thanks, William X!)](https://www.somethingawful.com/awful-links/released-reactions-futanari/)
+* [Martha Stewart, I Ain't](https://www.somethingawful.com/news/martha-stewart-aint/)
+* [Ellie Crystal's Metaphysical and Science Website](https://www.somethingawful.com/awful-links/awful-link-2087/)
 
 [Random!](https://www.somethingawful.com/random/)
 
