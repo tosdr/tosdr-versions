@@ -72,7 +72,7 @@ Lexia https://www.lexialearning.com https://www.lexialearning.com/img/logo.svg 1
     
     Efficacy Overview
     
-    [Setting a higher standard of efficacy](https://www.lexialearning.com/Research/) 
+    [Setting a higher standard of efficacy](https://www.lexialearning.com/research/) 
     
     * [Product Efficacy](https://www.lexialearning.com/research/product-efficacy)
     * [ESSA Evidence: Strong ESSA Ratings](https://www.lexialearning.com/research/essa-evidence)
@@ -84,14 +84,14 @@ Lexia https://www.lexialearning.com https://www.lexialearning.com/img/logo.svg 1
     
     [Resources for literacy learning](https://www.lexialearning.com/resources/) 
     
-    * [Research](https://www.lexialearning.com/resources/?resourceType=132)
-    * [White Papers](https://www.lexialearning.com/resources/?resourceType=45)
-    * [Webinars](https://www.lexialearning.com/resources/?resourceType=131)
-    * [Infographics](https://www.lexialearning.com/resources/?resourceType=129)
-    * [Guides](https://www.lexialearning.com/resources/?resourceType=130)
-    * [Podcasts](https://www.lexialearning.com/resources/?resourceType=134)
-    * [Blog Posts](https://www.lexialearning.com/resources/?resourceType=124)
-    * [Videos](https://www.lexialearning.com/resources/?resourceType=169)
+    * [Research](https://www.lexialearning.com/resources/?resourcetype=132)
+    * [White Papers](https://www.lexialearning.com/resources/?resourcetype=45)
+    * [Webinars](https://www.lexialearning.com/resources/?resourcetype=131)
+    * [Infographics](https://www.lexialearning.com/resources/?resourcetype=129)
+    * [Guides](https://www.lexialearning.com/resources/?resourcetype=130)
+    * [Podcasts](https://www.lexialearning.com/resources/?resourcetype=134)
+    * [Blog Posts](https://www.lexialearning.com/resources/?resourcetype=124)
+    * [Videos](https://www.lexialearning.com/resources/?resourcetype=169)
     
 * Company 
     
@@ -99,12 +99,12 @@ Lexia https://www.lexialearning.com https://www.lexialearning.com/img/logo.svg 1
     
     [Lexia is a science of reading leader](https://www.lexialearning.com/company/) 
     
-    * [Careers](https://www.lexialearning.com/Company/careers)
-    * [History](https://www.lexialearning.com/Company/history)
-    * [News](https://www.lexialearning.com/Company/news)
-    * [Customer Advisory Board](https://www.lexialearning.com/Company/customer-advisory-board)
-    * [Educational Leadership Council](https://www.lexialearning.com/Company/Educational-Leadership-Council/)
-    * [FAQs](https://www.lexialearning.com/Company/faqs)
+    * [Careers](https://www.lexialearning.com/company/careers)
+    * [History](https://www.lexialearning.com/company/history)
+    * [News](https://www.lexialearning.com/company/news)
+    * [Customer Advisory Board](https://www.lexialearning.com/company/customer-advisory-board)
+    * [Educational Leadership Council](https://www.lexialearning.com/company/educational-leadership-council/)
+    * [FAQs](https://www.lexialearning.com/company/faqs)
     * [Contact Lexia](https://www.lexialearning.com/company/contact)
     
 
@@ -272,7 +272,7 @@ Copyright© 2023 Lexia, a Cambium Learning Group company. All Rights Reserved.
 * [Awards](https://www.lexialearning.com/why-lexia/awards)
 * [The Future of Literacy](https://www.lexialearning.com/why-lexia/the-future-of-literacy)
 
-[Research](https://www.lexialearning.com/research/)
+[Research](https://www.lexialearning.com/Research/)
 
 * * *
 
@@ -401,7 +401,7 @@ A Cambium Learning® Group Brand
     * [Podcasts](https://www.lexialearning.com/resources/?resourcetype=134)
     * [Blog Posts](https://www.lexialearning.com/resources/?resourcetype=124)
     * [Videos](https://www.lexialearning.com/resources/?resourcetype=169)
-* [Company](https://www.lexialearning.com/Company/) Toggle Navigation
+* [Company](https://www.lexialearning.com/company/) Toggle Navigation
     
     * [Overview](https://www.lexialearning.com/company/)
     * [Careers](https://www.lexialearning.com/company/careers)
