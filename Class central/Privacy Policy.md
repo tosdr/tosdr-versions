@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. digital marketing
+1. English
     
-2. psychology
+2. graphic design
     
-3. project management
+3. flutter
     
 
 Popular subjects
 
-1. [Computer Science
+1. [Artificial Intelligence
     
-    43,626 courses](https://www.classcentral.com/subject/cs)
-2. [Data Analysis
+    13,992 courses](https://www.classcentral.com/subject/ai)
+2. [Web Development
     
-    8,832 courses](https://www.classcentral.com/subject/data-analysis)
+    13,771 courses](https://www.classcentral.com/subject/web-development)
 3. [Computer Networking
     
     1,754 courses](https://www.classcentral.com/subject/computer-networking)
 
 Popular courses
 
-1. [Medicine and the Arts: Humanising Healthcare
+1. [Introductory Human Physiology
     
-    University of Cape Town](https://www.classcentral.com/course/medicine-and-the-arts-3015)
-2. [Exploring Play: The Importance of Play in Everyday Life
+    Duke University](https://www.classcentral.com/course/humanphysio-380)
+2. [Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading
     
-    The University of Sheffield](https://www.classcentral.com/course/play-2134)
-3. [Songwriting: Writing the Lyrics
+    Georgia Institute of Technology](https://www.classcentral.com/course/mechanics-1-5031)
+3. [Philosophy, Science and Religion: Religion and Science
     
-    Berklee College of Music](https://www.classcentral.com/course/songwriting-lyrics-523)
+    University of Edinburgh](https://www.classcentral.com/course/philosophy-science-religion-3-10623)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
