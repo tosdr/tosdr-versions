@@ -107,6 +107,7 @@ Search
         * [Browse Events and Training](https://www.commonsense.org/education/search?sort_by=field_search_sort_date&f%5B0%5D=search_type%3Aevent)
     * [Self-paced Courses](https://www.commonsense.org/)
         * [AI Foundations for Educators](https://www.commonsense.org/education/training/ai-foundations)
+        * [ChatGPT Foundations for K–12 Educators](https://www.commonsense.org/education/training/chatgpt-k12-foundations)
         * [Digital Citizenship Teacher Training](https://www.commonsense.org/education/training/teaching-digital-citizenship)
         * [Modeling Digital Habits Teacher Training](https://www.commonsense.org/education/training/healthy-digital-habits)
         * [Student Privacy Teacher Training](https://www.commonsense.org/education/training/privacy)
