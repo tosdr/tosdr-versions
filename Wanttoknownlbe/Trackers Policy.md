@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/het-mysterie-van-israel-opgelost/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/2-erudiete-mensen-en-n-integer-mh17-gesprek/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
