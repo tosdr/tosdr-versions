@@ -1,4 +1,4 @@
-🎫 KubeCon + CloudNativeCon India · Dec 11-12 · Delhi [REGISTER TODAY](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/register/)
+🎫 KubeCon + CloudNativeCon India · Dec 11-12 · Delhi [REGISTER TODAY](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/register/?utm_campaign=KubeCon%20India&utm_source=LF&utm_medium=Top-banner)
 
 English Japan China Europe
 
