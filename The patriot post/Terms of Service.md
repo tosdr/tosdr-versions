@@ -1,6 +1,6 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112227-shopper-beware-2024-11-22)
+     [](https://patriotpost.us/memes/112266-innate-immorality-2024-11-23)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -207,6 +207,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Matthew Continetti Resist the Global Intifada](https://patriotpost.us/opinion/112248-resist-the-global-intifada-2024-11-23)
 *      [Mark Alexander Gaetz Out, Bondi In!](https://patriotpost.us/alexander/112249-gaetz-out-bondi-in-2024-11-22)
 *      [Hans von Spakovsky What Everyone Is Missing in the Argument Over Mass Deportation](https://patriotpost.us/opinion/112247-what-everyone-is-missing-in-the-argument-over-mass-deportation-2024-11-22)
 *      [Tim Graham Is It the End of the ‘Big Media Era’?](https://patriotpost.us/opinion/112243-is-it-the-end-of-the-big-media-era-2024-11-22)
@@ -214,7 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Josh Hammer What Was the Matt Gaetz Attorney General Pick Really About?](https://patriotpost.us/opinion/112239-what-was-the-matt-gaetz-attorney-general-pick-really-about-2024-11-22)
 *      [Victor Davis Hanson The Trump Counterrevolution Is a Return to Sanity](https://patriotpost.us/opinion/112237-the-trump-counterrevolution-is-a-return-to-sanity-2024-11-22)
 *      [David Harsanyi Don’t Trash the Constitution to Dunk on the Liberals](https://patriotpost.us/opinion/112236-dont-trash-the-constitution-to-dunk-on-the-liberals-2024-11-22)
-*      [Rich Lowry Why We Love Rockets](https://patriotpost.us/opinion/112258-why-we-love-rockets-2024-11-22)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,7 +228,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
