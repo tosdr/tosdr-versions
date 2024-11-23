@@ -604,7 +604,7 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 
 * Products
     
-    * [Arkose Labs' Solution](https://www.arkoselabs.com/platform "Arkose Labs' Solution")
+    * [Arkose Labs Solution](https://www.arkoselabs.com/platform "Arkose Labs Solution")
     * [Support Services](https://www.arkoselabs.com/services/ "Support Services")
     * [Integrations](https://www.arkoselabs.com/integrations/ "Integrations")
     * [Warranties](https://www.arkoselabs.com/warranties/ "Warranties")
