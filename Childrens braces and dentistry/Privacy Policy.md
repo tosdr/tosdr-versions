@@ -89,15 +89,15 @@ Recent Blog Posts
 
 ##### [Why Do Kids Need Teeth Extractions? Common Reasons and What Parents Should Know](https://sandiegokidsdentist.com/why-do-kids-need-teeth-extractions-common-reasons-and-what-parents-should-know/)
 
-Nov 14, 2024 58 Comments Off on Why Do Kids Need Teeth Extractions? Common Reasons and What Parents Should Know
+Nov 14, 2024 60 Comments Off on Why Do Kids Need Teeth Extractions? Common Reasons and What Parents Should Know
 
 ##### [Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids](https://sandiegokidsdentist.com/pulpectomy-vs-root-canal-a-parents-guide-to-tooth-treatment-for-kids/)
 
-Sep 16, 2024 290 Comments Off on Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids
+Sep 16, 2024 291 Comments Off on Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids
 
 ##### [Common Bite Issues and Their Solutions](https://sandiegokidsdentist.com/common-bite-issues-and-their-solutions/)
 
-Jul 23, 2024 491 Comments Off on Common Bite Issues and Their Solutions
+Jul 23, 2024 492 Comments Off on Common Bite Issues and Their Solutions
 
 Quick Links
 -----------
