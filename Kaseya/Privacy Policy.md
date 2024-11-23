@@ -408,11 +408,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/11/Kaseya-365-USER-Webina-1200x800-px-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/11/1200x628-Kaseya-365-Webinar-The-Right-Ingredients-300x157.png)
     
-    Master the Tech: Technical Deep Dive into Kaseya 365 User
+    The Right Ingredients and a Powerful Recipe at the Best Price: Manage and Secure IT With Kaseya 365
     
-    November 22
+    November 26
     
     [View All Events](https://www.kaseya.com/events/)
     
