@@ -32,6 +32,8 @@
 * LOGIN SIGN UP
     
 
+#### New: WhatPulse for organizations! [Learn more here](https://whatpulse.pro/?ref=wporg).
+
 Privacy Policy
 ==============
 
