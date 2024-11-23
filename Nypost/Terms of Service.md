@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Matt Gaetz reveals if he will rejoin Congress next year](https://nypost.com/2024/11/22/us-news/matt-gaetz-reveals-he-will-not-rejoin-congress-when-it-convenes-early-next-year/)
+[Trump makes choice for Treasury secretary, ending fierce battle for key job, sources say](https://nypost.com/2024/11/22/business/donald-trump-taps-scott-bessent-as-treasury-secretary/)
 
 Terms Of Use
 ============
