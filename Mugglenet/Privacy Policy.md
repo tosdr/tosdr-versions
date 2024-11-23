@@ -278,15 +278,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall had been briefly engaged to a Muggle at the age of 18 but broke off the engagement when she realized it would mean having to sacrifice her other ambitions.
+Albus Dumbledore sees his family in the Mirror of Erised, just as Harry Potter does.
 
 ### Potter History
 
-November 19, 2004 – Harry Potter and the Prisoner of Azkaban DVD launch party is held in London; DVD released in the United Kingdom the following day.
+December 21, 2010 – The final scene of the Harry Potter film series is shot at Leavesden Film Studios.
 
 ### Potter Quote
 
-“I can’t tell if you’re making a joke or if you’re just…French.”
+“It only put me in Gryffindor because I asked not to go in Slytherin. . . .”
 
 [](#)
 
