@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 23, 2024](https://www.japantimes.co.jp/archive/2024/11/23/ "archive page")
+[November 24, 2024](https://www.japantimes.co.jp/archive/2024/11/24/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,58 +131,28 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Japan approves ¥21.9 trillion stimulus plan](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
-
-  [![The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435769.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.")](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
-
-[Tokyo Metro’s overseas efforts begin in earnest with London deal](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
-
-  [![Tokyo Metro will soon have a role in the running of London's Elizabeth Line, a major train route serving the U.K.’s capital city and environs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Metro will soon have a role in the running of London's Elizabeth Line, a major train route serving the U.K.’s capital city and environs.")](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
-
-[Saitama court bans demonstrations over anti-Kurd hate speech](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/kurds-hate-speech/ "Saitama court bans demonstrations over anti-Kurd hate speech")
-
-  [![Kurdish people in Japan in 2015. A court injunction has banned acts that defame the Japan Kurdish Cultural Association and are disrespectful, such as putting up banner flags or handing out fliers with hate speech like “Refugees should go back to their home countries.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435679.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kurdish people in Japan in 2015. A court injunction has banned acts that defame the Japan Kurdish Cultural Association and are disrespectful, such as putting up banner flags or handing out fliers with hate speech like “Refugees should go back to their home countries.”")](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/kurds-hate-speech/ "Saitama court bans demonstrations over anti-Kurd hate speech")
-
-[China reinstates visa-free travel for Japanese nationals](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
-
-  [![Beijing Daxing International Airport ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435832.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Beijing Daxing International Airport ")](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
-
 [U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
 
   [![U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435630.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.")](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
 
-Editors' Picks
---------------
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
 [Japan approves ¥21.9 trillion stimulus plan](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
-
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
 
   [![The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435769.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.")](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[Japan will spend ¥325 million in government funds on Princess Yuriko's funeral](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
 
-[Tokyo Metro’s overseas efforts begin in earnest with London deal](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
+  [![Princess Yuriko waves during the New Year's public greeting at the Imperial Palace in Tokyo in January 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435838.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko waves during the New Year's public greeting at the Imperial Palace in Tokyo in January 2019.")](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
 
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+[MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/mufg-fire-worker-theft/ "MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes")
 
-  [![Tokyo Metro will soon have a role in the running of London's Elizabeth Line, a major train route serving the U.K.’s capital city and environs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Metro will soon have a role in the running of London's Elizabeth Line, a major train route serving the U.K.’s capital city and environs.")](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Saitama court bans demonstrations over anti-Kurd hate speech](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/kurds-hate-speech/ "Saitama court bans demonstrations over anti-Kurd hate speech")
-
-  [![Kurdish people in Japan in 2015. A court injunction has banned acts that defame the Japan Kurdish Cultural Association and are disrespectful, such as putting up banner flags or handing out fliers with hate speech like “Refugees should go back to their home countries.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435679.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kurdish people in Japan in 2015. A court injunction has banned acts that defame the Japan Kurdish Cultural Association and are disrespectful, such as putting up banner flags or handing out fliers with hate speech like “Refugees should go back to their home countries.”")](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/kurds-hate-speech/ "Saitama court bans demonstrations over anti-Kurd hate speech")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+  [![Mitsubishi UFJ Financial Group is investigating the incident and consulting with the police.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435833.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Mitsubishi UFJ Financial Group is investigating the incident and consulting with the police.")](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/mufg-fire-worker-theft/ "MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes")
 
 [China reinstates visa-free travel for Japanese nationals](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
 
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
-
   [![Beijing Daxing International Airport ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435832.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Beijing Daxing International Airport ")](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
+
+Editors' Picks
+--------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -191,6 +161,36 @@ By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Franci
 By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
 
   [![U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435630.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.")](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Japan approves ¥21.9 trillion stimulus plan](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435769.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.")](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan will spend ¥325 million in government funds on Princess Yuriko's funeral](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
+
+  [![Princess Yuriko waves during the New Year's public greeting at the Imperial Palace in Tokyo in January 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435838.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko waves during the New Year's public greeting at the Imperial Palace in Tokyo in January 2019.")](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/mufg-fire-worker-theft/ "MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes")
+
+By [Russell Ward](https://www.japantimes.co.jp/author/5793/russell-ward/ "Russell Ward")  
+
+  [![Mitsubishi UFJ Financial Group is investigating the incident and consulting with the police.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435833.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Mitsubishi UFJ Financial Group is investigating the incident and consulting with the police.")](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/mufg-fire-worker-theft/ "MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[China reinstates visa-free travel for Japanese nationals](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
+
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![Beijing Daxing International Airport ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435832.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Beijing Daxing International Airport ")](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
 
 Podcast
 -------
@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Seven & I founding family sounded out KKR and others about buyout: report](https://www.japantimes.co.jp/business/2024/11/23/seven-i-buyout-talks/ "Seven & I founding family sounded out KKR and others about buyout: report")
+
+5 hours ago
+
 [Trump tariffs may target Japanese cars, economist says](https://www.japantimes.co.jp/business/2024/11/23/trump-japanese-cars-tariffs/ "Trump tariffs may target Japanese cars, economist says")
 
-40 mins ago
+6 hours ago
 
-[Woman in critical condition after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman in critical condition after train collides with car in Tochigi")
+[Woman dies after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
 
-1 hour ago
+7 hours ago
 
 [Japan to aid introduction of multilingual ride-hailing apps](https://www.japantimes.co.jp/news/2024/11/23/japan/society/japan-multilingual-ride-hailing-app/ "Japan to aid introduction of multilingual ride-hailing apps")
 
-1 hour ago
+7 hours ago
 
-[Lebanon says at least four killed in Israeli strike on central Beirut](https://www.japantimes.co.jp/news/2024/11/23/world/israel-beirut-strike/ "Lebanon says at least four killed in Israeli strike on central Beirut")
+[Powerful Israeli airstrike in central Beirut kills 11, Lebanese health ministry says](https://www.japantimes.co.jp/news/2024/11/23/world/israel-beirut-strike/ "Powerful Israeli airstrike in central Beirut kills 11, Lebanese health ministry says")
 
-1 hour ago
-
-[Failed Hyogo governor candidate's team questions X account suspension](https://www.japantimes.co.jp/news/2024/11/23/japan/politics/hyogo-governor-candidate-x/ "Failed Hyogo governor candidate's team questions X account suspension")
-
-3 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
