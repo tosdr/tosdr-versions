@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
-* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
+* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [TV-Einrichtungs­service im Test: Anschluss gesucht](https://www.test.de/TV-Einrichtungsservice-im-Test-Anschluss-gesucht-6030987-0/ "TV-Einrichtungsservice im Test - Anschluss gesucht")
+* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
+* [Inkasso­dienst Euro Collect GmbH: Kein „Voll­stre­ckung.NRW“ mehr](https://www.test.de/Inkassodienst-Euro-Collect-GmbH-Kein-VollstreckungNRW-mehr-6009352-0/ "Inkassodienst Euro Collect GmbH - Kein „Vollstreckung.NRW“ mehr")
 
 Service Stiftung Warentest
 
