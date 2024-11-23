@@ -303,11 +303,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
 [Children and Young Peoples’ Privacy Policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm)
 
-"Spellzone is incredibly easy to access and caters for a wide range of abilities, which means you can use it throughout the school at a range of levels, making it fantastic value for money as a learning resource."
+"I would like to thank you so much for this great website. I have always been ashamed of my spelling but after a few lessons I am already better. It is filling in all the gaps. Thanks."
 
-**Anne Shisler, SENCO, City of London School for Girls**
-
-[read more...](https://www.spellzone.com/pages/case-studies/city-of-london-school.cfm)
+**Student, France**
 
 ### Curriculum...
 
