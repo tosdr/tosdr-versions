@@ -87,13 +87,13 @@ Most Read
     
     1. [Surgeons remove 2.5-inch hairball from teen with rare Rapunzel syndrome](https://arstechnica.com/health/2024/11/surgeons-remove-2-5-inch-hairball-from-teen-with-rare-rapunzel-syndrome/)
     
-2. 2. [Study: Why Aztec “death whistles” sound like human screams](https://arstechnica.com/science/2024/11/study-why-aztec-death-whistles-sound-like-human-screams/)
+2. 2. [Russian ballistic missile attack on Ukraine portends new era of warfare](https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/)
     
-3. 3. [Russian ballistic missile attack on Ukraine portends new era of warfare](https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/)
+3. 3. [Study: Why Aztec “death whistles” sound like human screams](https://arstechnica.com/science/2024/11/study-why-aztec-death-whistles-sound-like-human-screams/)
     
 4. 4. [School did nothing wrong when it punished student for using AI, court rules](https://arstechnica.com/tech-policy/2024/11/school-did-nothing-wrong-when-it-punished-student-for-using-ai-court-rules/)
     
-5. 5. [NASA is stacking the Artemis II rocket, implying a simple heat shield fix](https://arstechnica.com/space/2024/11/nasa-begins-assembling-rocket-to-send-astronauts-around-far-side-of-the-moon/)
+5. 5. [Obsidian’s Avowed is the cure for “Souls-like” action-RPG fatigue](https://arstechnica.com/gaming/2024/11/obsidians-avowed-is-the-cure-for-souls-like-action-rpg-fatigue/)
     
 
 Customize
