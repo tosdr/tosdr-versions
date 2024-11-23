@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, November 22, 2024**
+**Saturday, November 23, 2024**
 
-**...Mostly Sunny and Dry Conditions Expected Statewide With A Cool and Dry Area of High Pressure Building In...Breezy Winds With Gusts Upwards of 15-25 MPH Persist Across the State...Elevated Risk for Fire Weather Across the North-Central Peninsula Today; Sensitive to Elevated Wildfire Conditions Expected Across Portions of North and Central Florida With Locally Sensitive Wildfire Conditions Elsewhere As Relative Humidity Values Fall Near or Below Critical Thresholds...Elevated Winds To Cause Temperatures to Feel Like They Are In The Low to Middle 30s Across North Florida Overnight Into Early Saturday Morning...Frost Advisories Issued Along the Western Panhandle Diminishing Winds Will Allow For Areas of Frost Across North Florida Overnight Into Early Saturday Morning; Additional Frost Advisories Will Likely Be Issued Later Today...Moderate to High Risk for Rip Currents and Hazardous Beach and Boating Conditions Persist Statewide...Minor Saltwater Flooding Continues Along the Upper and Middle Keys...**
+**...High Pressure Sliding Eastward Over the State To Bring Clear and Dry Conditions Today and Tonight...Locally Sensitive Wildfire Conditions Possible Over Areas That Have Seen Little to No Rainfall Recently As Relative Humidity Values Fall to Near Critical Thresholds (30-45%) This Afternoon...Low Temperatures in the Middle 30s to Low 40s Across Interior Portions of North Florida Overnight...Patchy Areas of Frost Possible Across the Suwannee Valley and Inland Portions of Northeast Florida...Some Frost Cannot Be Ruled Out Across Cooler Sheltered Locations Along the Florida Panhandle...Moderate Risk For Rip Currents Nearly Statewide...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
