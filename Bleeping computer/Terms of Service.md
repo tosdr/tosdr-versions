@@ -23,18 +23,18 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Helldown ransomware exploits Zyxel VPN flaw to breach networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack'](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Helldown ransomware exploits Zyxel VPN flaw to breach networks](https://www.bleepingcomputer.com/news/security/helldown-ransomware-exploits-zyxel-vpn-flaw-to-breach-networks/)
-    * [![Apple fixes two zero-days used in attacks on Intel-based Macs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack'](https://www.bleepingcomputer.com/news/security/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/)
+    * [![Over 2,000 Palo Alto firewalls hacked using recently patched bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Apple fixes two zero-days used in attacks on Intel-based Macs](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-days-used-in-attacks-on-intel-based-macs/)
-    * [![New Windows 11 recovery tool to let admins remotely fix unbootable devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Over 2,000 Palo Alto firewalls hacked using recently patched bugs](https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/)
+    * [![Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New Windows 11 recovery tool to let admins remotely fix unbootable devices](https://www.bleepingcomputer.com/news/microsoft/windows-quick-machine-recovery-lets-admins-remotely-fix-unbootable-devices/)
-    * [![Amazon and Audible flooded with 'forex trading' and warez listings](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-plus-pcs/)
+    * [![Fortinet VPN design flaw hides successful brute-force attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Amazon and Audible flooded with 'forex trading' and warez listings](https://www.bleepingcomputer.com/news/security/amazon-and-audible-flooded-with-forex-trading-and-warez-listings/)
+        Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
     
     * [![Windows 10 KB5046714 update fixes bug preventing app uninstalls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
@@ -355,12 +355,12 @@ Popular Stories
 * [![Ubuntu](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Ubuntu Linux impacted by decade-old 'needrestart' flaw that gives root](https://www.bleepingcomputer.com/news/security/ubuntu-linux-impacted-by-decade-old-needrestart-flaw-that-gives-root/)
-* [![Fortinet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Bug bounty](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
-* [![Palo Alto Networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    MITRE shares 2024's top 25 most dangerous software weaknesses](https://www.bleepingcomputer.com/news/security/mitre-shares-2024s-top-25-most-dangerous-software-weaknesses/)
+* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Over 2,000 Palo Alto firewalls hacked using recently patched bugs](https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/)
+    Windows 11 KB5046740 update released with 14 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5046740-update-released-with-14-changes-and-fixes/)
 
 ##### Follow us:
 
