@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, November 22 2024
+Saturday, November 23 2024
 
 Latest
 
-* [Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](https://digitpatrox.com/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-pcs/)
-* [Judge rules Sirius XM’s annoying cancellation process is illegal](https://digitpatrox.com/judge-rules-sirius-xms-annoying-cancellation-process-is-illegal/)
-* [How to Train Your Dragon Live-Action Director Claps Back at Fans Over Astrid Casting Backlash](https://digitpatrox.com/how-to-train-your-dragon-live-action-director-claps-back-at-fans-over-astrid-casting-backlash/)
-* [Finastra breach puts file transfer security in the spotlight, says expert](https://digitpatrox.com/finastra-breach-puts-file-transfer-security-in-the-spotlight-says-expert/)
-* [Windows 11 will soon be available on Meta Quest 3 headsets – Computerworld](https://digitpatrox.com/windows-11-will-soon-be-available-on-meta-quest-3-headsets-computerworld/)
-* [What Closing the Department of Education Could Mean for the FAFSA](https://digitpatrox.com/what-closing-the-department-of-education-could-mean-for-the-fafsa/)
-* [How Adopting a Cat Can Change Your Cleaning Habits](https://digitpatrox.com/how-adopting-a-cat-can-change-your-cleaning-habits/)
-* [The Best Tech Gifts for Photography Geeks in 2024](https://digitpatrox.com/the-best-tech-gifts-for-photography-geeks-in-2024/)
-* [HPE announces VM Essentials – the VMWare competitor that isn’t](https://digitpatrox.com/hpe-announces-vm-essentials-the-vmware-competitor-that-isnt/)
-* [Pay Once and Use This PDF Tool Forever](https://digitpatrox.com/pay-once-and-use-this-pdf-tool-forever/)
+* [A CIO’s perspective on enterprise AI strategies and the importance of freeing up employee time](https://digitpatrox.com/a-cios-perspective-on-enterprise-ai-strategies-and-the-importance-of-freeing-up-employee-time/)
+* [8 Tech Nonprofits Changing the World with Innovation](https://digitpatrox.com/8-tech-nonprofits-changing-the-world-with-innovation/)
+* [Today’s Premier League matches – EPL fixtures for Saturday, November 23](https://digitpatrox.com/todays-premier-league-matches-epl-fixtures-for-saturday-november-23/)
+* [Windows 10 KB5046714 update fixes bug preventing app uninstalls](https://digitpatrox.com/windows-10-kb5046714-update-fixes-bug-preventing-app-uninstalls/)
+* [DirecTV and Dish’s on-and-off merger saga switches back to off](https://digitpatrox.com/directv-and-dishs-on-and-off-merger-saga-switches-back-to-off/)
+* [NYT Strands Today: Hints, Answers & Spangram for November 23](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-23/)
+* [AI PCs not yet understood well enough to deliver full benefits, study suggests](https://digitpatrox.com/ai-pcs-not-yet-understood-well-enough-to-deliver-full-benefits-study-suggests/)
+* [OpenAI is thinking about building its own browser – Computerworld](https://digitpatrox.com/openai-is-thinking-about-building-its-own-browser-computerworld/)
+* [The JBL Tune 770NC Headphones Are Less Than $80 for Black Friday](https://digitpatrox.com/the-jbl-tune-770nc-headphones-are-less-than-80-for-black-friday/)
+* [Florida High School hacked by ransomware gang; SSNs and credit cards stolen](https://digitpatrox.com/florida-high-school-hacked-by-ransomware-gang-ssns-and-credit-cards-stolen/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/22/Windows_Recall.jpg)](https://digitpatrox.com/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-pcs/)
+* [![](https://cdn.mos.cms.futurecdn.net/LbzKBUBRncZqMbAUKE7SYR-1200-80.jpg)](https://digitpatrox.com/a-cios-perspective-on-enterprise-ai-strategies-and-the-importance-of-freeing-up-employee-time/)
     
-    [Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](https://digitpatrox.com/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-pcs/)
+    [A CIO’s perspective on enterprise AI strategies and the importance of freeing up employee time](https://digitpatrox.com/a-cios-perspective-on-enterprise-ai-strategies-and-the-importance-of-freeing-up-employee-time/)
     
-    30 minutes ago
+    4 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/oJ8nIj9s3HdFos2lGY0xpAbhzBk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954043/VRG_Illo_STK427_Podcasting_playbars.jpg)](https://digitpatrox.com/judge-rules-sirius-xms-annoying-cancellation-process-is-illegal/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241122-8-awesome-technology-nonprofits-you-should-know-about.jpg)](https://digitpatrox.com/8-tech-nonprofits-changing-the-world-with-innovation/)
     
-    [Judge rules Sirius XM’s annoying cancellation process is illegal](https://digitpatrox.com/judge-rules-sirius-xms-annoying-cancellation-process-is-illegal/)
+    [8 Tech Nonprofits Changing the World with Innovation](https://digitpatrox.com/8-tech-nonprofits-changing-the-world-with-innovation/)
     
-    47 minutes ago
+    8 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Still-of-Hiccup-and-Astrid-from-How-To-Train-Your-Dragon.jpg)](https://digitpatrox.com/how-to-train-your-dragon-live-action-director-claps-back-at-fans-over-astrid-casting-backlash/)
+* [![](https://cdn.mos.cms.futurecdn.net/tQy96u8kKJuW4JqV3DrkMh-1200-80.jpg)](https://digitpatrox.com/todays-premier-league-matches-epl-fixtures-for-saturday-november-23/)
     
-    [How to Train Your Dragon Live-Action Director Claps Back at Fans Over Astrid Casting Backlash](https://digitpatrox.com/how-to-train-your-dragon-live-action-director-claps-back-at-fans-over-astrid-casting-backlash/)
+    [Today’s Premier League matches – EPL fixtures for Saturday, November 23](https://digitpatrox.com/todays-premier-league-matches-epl-fixtures-for-saturday-november-23/)
+    
+    12 minutes ago
+    
+* [![](https://www.bleepstatic.com/content/hl-images/2021/04/17/windows-10-sapphire.jpg)](https://digitpatrox.com/windows-10-kb5046714-update-fixes-bug-preventing-app-uninstalls/)
+    
+    [Windows 10 KB5046714 update fixes bug preventing app uninstalls](https://digitpatrox.com/windows-10-kb5046714-update-fixes-bug-preventing-app-uninstalls/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/QhXDydfx8Rnhp8fteDi5C-1200-80.jpg)](https://digitpatrox.com/finastra-breach-puts-file-transfer-security-in-the-spotlight-says-expert/)
+* [![](https://cdn.vox-cdn.com/thumbor/OklE5CLWhC37ZnP5IuJ6iufq8j4=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23630242/acastro_STK052_02.jpg)](https://digitpatrox.com/directv-and-dishs-on-and-off-merger-saga-switches-back-to-off/)
     
-    [Finastra breach puts file transfer security in the spotlight, says expert](https://digitpatrox.com/finastra-breach-puts-file-transfer-security-in-the-spotlight-says-expert/)
+    [DirecTV and Dish’s on-and-off merger saga switches back to off](https://digitpatrox.com/directv-and-dishs-on-and-off-merger-saga-switches-back-to-off/)
     
-    3 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3611326-0-34246200-1732287252-03_comfort-100946615-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/windows-11-will-soon-be-available-on-meta-quest-3-headsets-computerworld/)
-    
-    [Windows 11 will soon be available on Meta Quest 3 headsets – Computerworld](https://digitpatrox.com/windows-11-will-soon-be-available-on-meta-quest-3-headsets-computerworld/)
-    
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [30 minutes ago
+* [4 minutes ago
     
-    ### Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](https://digitpatrox.com/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-pcs/)
-* [47 minutes ago
+    ### A CIO’s perspective on enterprise AI strategies and the importance of freeing up employee time](https://digitpatrox.com/a-cios-perspective-on-enterprise-ai-strategies-and-the-importance-of-freeing-up-employee-time/)
+* [8 minutes ago
     
-    ### Judge rules Sirius XM’s annoying cancellation process is illegal](https://digitpatrox.com/judge-rules-sirius-xms-annoying-cancellation-process-is-illegal/)
-* [1 hour ago
+    ### 8 Tech Nonprofits Changing the World with Innovation](https://digitpatrox.com/8-tech-nonprofits-changing-the-world-with-innovation/)
+* [12 minutes ago
     
-    ### How to Train Your Dragon Live-Action Director Claps Back at Fans Over Astrid Casting Backlash](https://digitpatrox.com/how-to-train-your-dragon-live-action-director-claps-back-at-fans-over-astrid-casting-backlash/)
+    ### Today’s Premier League matches – EPL fixtures for Saturday, November 23](https://digitpatrox.com/todays-premier-league-matches-epl-fixtures-for-saturday-november-23/)
 
 Most Popular Topics
 
-* [4 days ago
+* [September 9, 2024
     
-    ### What has happened to the Right to Repair?](https://digitpatrox.com/what-has-happened-to-the-right-to-repair/)
-* [August 14, 2024
+    ### Apple’s iPhone 16 event: how to watch and what to expect](https://digitpatrox.com/apples-iphone-16-event-how-to-watch-and-what-to-expect/)
+* [4 weeks ago
     
-    ### Convenience has a cost, privacy has iPhone – Computerworld](https://digitpatrox.com/convenience-has-a-cost-privacy-has-iphone-computerworld/)
-* [September 7, 2024
+    ### Best Heated Blankets | Electric Blankets](https://digitpatrox.com/best-heated-blankets-electric-blankets/)
+* [October 22, 2024
     
-    ### You Can Get a 9th-Gen iPad and Beats Flex Headphones on Sale for $300 Right Now](https://digitpatrox.com/you-can-get-a-9th-gen-ipad-and-beats-flex-headphones-on-sale-for-300-right-now/)
+    ### How to fix 0xC1900101 errors on Windows 11, 10](https://digitpatrox.com/how-to-fix-0xc1900101-errors-on-windows-11-10/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### AI PCs not yet understood well enough to deliver full benefits, study suggests](https://digitpatrox.com/ai-pcs-not-yet-understood-well-enough-to-deliver-full-benefits-study-suggests/)
 * [4 hours ago
     
-    ### How Adopting a Cat Can Change Your Cleaning Habits](https://digitpatrox.com/how-adopting-a-cat-can-change-your-cleaning-habits/)
+    ### OpenAI is thinking about building its own browser – Computerworld](https://digitpatrox.com/openai-is-thinking-about-building-its-own-browser-computerworld/)
 * [4 hours ago
     
-    ### The Best Tech Gifts for Photography Geeks in 2024](https://digitpatrox.com/the-best-tech-gifts-for-photography-geeks-in-2024/)
-* [4 hours ago
-    
-    ### HPE announces VM Essentials – the VMWare competitor that isn’t](https://digitpatrox.com/hpe-announces-vm-essentials-the-vmware-competitor-that-isnt/)
+    ### The JBL Tune 770NC Headphones Are Less Than $80 for Black Friday](https://digitpatrox.com/the-jbl-tune-770nc-headphones-are-less-than-80-for-black-friday/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
