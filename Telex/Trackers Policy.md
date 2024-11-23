@@ -4,7 +4,7 @@ Kelemen, Klementina
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "derült")
 
-\-1°4°
+\-2°3°
 
 Menü
 
