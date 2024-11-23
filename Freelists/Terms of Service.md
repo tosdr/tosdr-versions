@@ -1,4 +1,4 @@
-Toggle navigation [![FreeLists logo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22217%22%20height%3D%2265%22%3E%3C%2Fsvg%3E)](https://www.freelists.org/)
+Toggle navigation [![FreeLists logo](/images/freelists-2.8.png)](https://www.freelists.org/)
 
 * [Home](https://www.freelists.org/)
 * [Create](https://www.freelists.org/signup.html)
@@ -45,9 +45,9 @@ As a list participant (subscriber), which includes list administrators, you are 
 3. Provide consent. You may not participate in a mailing list without willfully accepting the Terms;
 4. Comply with copyright, trademark, and patent laws: You affirm that you own all right, title and interest in and to all content you submit to and share with the Service, including but not limited to all copyrights, trademarks, and patents contained therein. Violation of another's rights may result in immediate termination of Service; repeat offenders guarantee termination;
 5. Agree that your posts (content) may not include pornography, adult content or nudity. We foster an open and inclusive environment but ask you to use common sense judgement when it comes to how acceptable content will be;
-8. Agree that any suggestions or comments you submit to FreeLists, including but not limited to ideas for or potential improvements to the Service are both non-confidential and become our property. We may for example use your testimonials on our site, or encorporate a suggestion for a feature into the Service without acknowledgment or compensation of any kind;
-9. Not interfere with the Service or others' ability to use it;
-10. Not post any content that contains viruses or any other code, files or programs designed to interrupt, damage or limit the functionality of any telecommunications equipment.
+6. Agree that any suggestions or comments you submit to FreeLists, including but not limited to ideas for or potential improvements to the Service are both non-confidential and become our property. We may for example use your testimonials on our site, or encorporate a suggestion for a feature into the Service without acknowledgment or compensation of any kind;
+7. Not interfere with the Service or others' ability to use it;
+8. Not post any content that contains viruses or any other code, files or programs designed to interrupt, damage or limit the functionality of any telecommunications equipment.
 
 ### Your responsibilities as a list administrator
 
@@ -57,7 +57,7 @@ ADDITIONALLY, as a list owner, administrator, or moderator, you are required to:
 2. Accept responsibility for the content of your list. Keep content appropriate for public consumption: Enforce our policy of banning racism, hate speech, bullying, nudity and sexually explicit material, violence, gore from your list(s);
 3. Ensure consent: every subscriber must opt-in and provide formal consent to participate in a list. Be particularly careful with this if you intend to send content that is commercial in nature;
 4. Understand that you are using the Service with thousands of others. Friendly use of the Service such that it doesn't interfere with others' uses is required;
-7. Ensure that you and your subscribers are familiar with and comply with the Terms. Be forthcoming with FreeLists if you become aware of any violation of them.
+5. Ensure that you and your subscribers are familiar with and comply with the Terms. Be forthcoming with FreeLists if you become aware of any violation of them.
 
 ### Disclaimer of Warranty
 
