@@ -367,16 +367,24 @@ We know it is frustrating for our customers and we are working hard to reconcile
 
 Our crews will continue to work around the clock until the last customer is restored.
 
-[Storm alert Updated Nov 22, 12:00 PM](#collapseOne)  
+[Storm alert Updated Nov 22, 11:59 PM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-##### System-wide:
+##### Updated ETRs
 
-* We’ve made significant progress restoring transmission and substations are getting back online, crews are finding extensive damage to local distribution lines that need to be repaired before power can be restored.
-* In King County crews are saying the damage is comparable to the worst storms of past decades.
-* We are aware of an issue with our outage map. It is not reflecting all of the customers whose power has been restored, and is not showing a set of customers who are still without power. Our internal systems for identifying outages and prioritizing restorations are still functioning. The map issue appears to stem from a technology change-over for the mapping system that was implemented this fall. We know it is frustrating for our customers, and we are working hard to reconcile the data showing on the map. We ask that you continue to report outages if needed. Our crews will continue to work around the clock until the last customer is restored.
+To our customers without power:
+
+We know it has been a difficult three days. And we have some hard news to share for some of our customers. Due to the substantial amount of damage we are encountering from the hurricane force winds of the storm, which has made our work slower than expected, we have to push back estimated restoration times for customers.
+
+We will have three restoration times:
+
+* Saturday at 12pm
+* Sunday at 6pm
+* Monday at 10am
+
+We are in the process this evening of updating our outage map with the estimated restoration times for your outage. We are working as hard as we can to get power restored to you sooner than the times listed above. As our field crews gain more detailed information about your outage, we will update the outage map with a more specific time.  
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
