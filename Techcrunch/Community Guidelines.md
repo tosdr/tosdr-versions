@@ -181,12 +181,12 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [X Exodus](https://techcrunch.com/2024/11/18/mastodon-sees-a-boost-from-the-x-exodus-too-founder-says/)
-* [Sam Altman](https://techcrunch.com/2024/11/18/sam-altman-will-co-chair-the-new-mayor-of-san-franciscos-transition-team/)
-* [Partiful](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/)
-* [Perplexity Shopping Feature](https://techcrunch.com/2024/11/18/perplexity-introduces-a-shopping-feature-for-pro-users/)
-* [Josh Kushner](https://techcrunch.com/2024/11/18/openai-investor-josh-kushner-praises-musk-despite-musks-openai-lawsuit/)
+* [Hyundai And Kia Recalls](https://techcrunch.com/2024/11/22/hyundai-and-kia-recall-208000-evs/)
+* [Bluesky](https://techcrunch.com/2024/11/22/how-to-turn-a-bluesky-starter-pack-into-a-list/)
+* [OpenAI Lawsuit](https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/)
+* [Anthropic](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/)
+* [Google Monopoly](https://techcrunch.com/2024/11/20/doj-google-must-sell-chrome-to-end-monopoly/)
 * [Tech Layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/)
-* [ChatGPT](https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
+* [ChatGPT](https://techcrunch.com/2024/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 © 2024 Yahoo.
