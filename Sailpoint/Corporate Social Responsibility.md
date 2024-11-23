@@ -286,7 +286,7 @@ Company
 
 Careers
 
-[Join the crew](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs)[Careers at SailPoint](https://www.sailpoint.com/company/careers)[Sail-U](https://www.sailpoint.com/company/careers/sail-u)[Diversity, Inclusion & Belonging](https://www.sailpoint.com/why-us/diversity-inclusion-belonging)
+[Join the crew](https://sailpoint.wd1.myworkdayjobs.com/SailPoint/jobs)[Careers at SailPoint](https://www.sailpoint.com/company/careers) [Sail-U](https://www.sailpoint.com/company/careers/sail-u)[Diversity, Inclusion & Belonging](https://www.sailpoint.com/why-us/diversity-inclusion-belonging)
 
 More
 
