@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 21, 2024
+November 22, 2024
 
-Safeguarding a forest home
+Talk with the animals?
 
-Poachers and fires threaten the forest community of Olum, Nigeria. So does illegal logging, which robs wildlife of habitat and can trigger mudslides. Lucrative for outside firms, the practice also pays off for some in the community who help them. Others take a longer view, and choose to exert agency. Contributor Saint Ekpali reports today on a remarkable band of women. The land has given them food, remedies, and what wood they need. In return, they now go on patrol, giving protection to the forest they love.
+You’ve probably wondered at one time or another about how animals think. What motivates a dog to cajole us to play, or to protect us from a danger we may not perceive? Do cows think only about chewing their cud when out in the field? How do the many creatures we see every day, in cities and in the wild, experience the world?It’s a question that occupies a growing number of scientists studying animal consciousness. They’re painting, as writer Stephanie Hanes reports in her fascinating story today, an increasingly complex portrait of how nonhuman creatures from goats to bumblebees interact with their environment. It’s work that may inform all sorts of human activity, from where we build roads to what we eat. It may change your perspective.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
