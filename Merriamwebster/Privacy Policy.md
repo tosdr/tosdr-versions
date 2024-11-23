@@ -388,9 +388,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [paroxysm](https://www.merriam-webster.com/word-of-the-day)
+#### [negotiate](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of paroxysm](/dist-cross-dungarees/2024-11-21--20-21-26-7n0flg/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of paroxysm")
+[![Listen to the pronunciation of negotiate](/dist-cross-dungarees/2024-11-21--20-21-26-7n0flg/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of negotiate")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
