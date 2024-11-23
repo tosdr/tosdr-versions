@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Aint Nothing Bout YouBrooks And Dunn<br><br>4:25pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:21pm |
-| Truck BedHardy<br><br>4:18pm |
-| Mama'S Broken HeartMiranda Lambert<br><br>4:15pm |
-| She'S Somebody'S DaughterDrew Baldridge<br><br>4:12pm |
+| Every Little ThingRussell Dickerson<br><br>10:41pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>10:38pm |
+| You ProofMorgan Wallen<br><br>10:35pm |
+| Tough PeopleDrew Baldridge<br><br>10:23pm |
+| Wind Up Missing YouTucker Wetmore<br><br>10:21pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Sports • Midwest
+Top 40 • Pacific NW
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
