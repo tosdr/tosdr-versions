@@ -56,6 +56,7 @@
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
     * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Charity Navigator Account](https://www.charitynavigator.org/donor-basics/tools-for-giving/benefits-of-charity-navigator-account.html)
+    * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
     
     * [Giving 101](https://www.charitynavigator.org/donor-basics/giving-101.html)
     * [Give a Donation in Your Loved One’s Name](https://www.charitynavigator.org/donor-basics/giving-101/Gifting-Donations/)
@@ -152,6 +153,7 @@
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
     * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Charity Navigator Account](https://www.charitynavigator.org/donor-basics/tools-for-giving/benefits-of-charity-navigator-account.html)
+    * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
     
     * [Giving 101](https://www.charitynavigator.org/donor-basics/giving-101.html)
     * [Give a Donation in Your Loved One’s Name](https://www.charitynavigator.org/donor-basics/giving-101/Gifting-Donations/)
