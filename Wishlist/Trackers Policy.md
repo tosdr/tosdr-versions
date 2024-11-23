@@ -3,7 +3,7 @@
 [![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListLogo2019.png?srcv=202411222301)![WishList](https://d2h7q74hv1e614.cloudfront.net/assets/v21/img/WishListIcon-48.png?srcv=202411222301)](https://www.wishlist.com/home)
 
 * [Sign up](https://www.wishlist.com/joinwishlist?clear=1)
-* [Shop](https://www.wishlist.com/shop)
+* [Shop](https://www.wishlist.com/shop?search_string=black%20friday%20deals)
 * [Find WishList](https://www.wishlist.com/findWishlists)
 * [My WishList](https://www.wishlist.com/mywishlists)
 * [Create](https://www.wishlist.com/create)
