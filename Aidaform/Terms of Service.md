@@ -1,3 +1,7 @@
+[BLACK FRIDAY SALE 30% off Expert and Ultimate Annual Plans Expires on December 3](https://aidaform.com/pricing.html)
+
+×
+
 [](https://aidaform.com/)[![AidaForm Awards](/images/g2-users-love-us.svg)](https://aidaform.com/blog/awards.html)
 
 * [Forms](https://aidaform.com/forms/)
