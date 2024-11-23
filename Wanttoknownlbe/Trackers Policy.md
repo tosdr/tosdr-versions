@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/2-erudiete-mensen-en-n-integer-mh17-gesprek/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/alles-vergaat-liefde-en-licht-blijven-bestaan/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
