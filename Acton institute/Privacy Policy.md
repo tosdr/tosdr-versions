@@ -216,7 +216,7 @@ You may reprint Acton Institute's writings online or in print as long as you pro
     * [Our Team](https://www.acton.org/about/our-team-old)
     * [Careers](https://www.acton.org/careers)
     * [Collins Center](https://www.acton.org/collinscenter)
-    * [Internships](https://www.acton.org/internship-opportunities)
+    * [Internships](https://www.acton.org/internship)
     * [News](https://www.acton.org/news)
 * [Events](https://www.acton.org/events "Events")
     * [Events Calendar](https://www.acton.org/events/calendar)
