@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/joris-demmink-toch-vervolgd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/nu-de-totale-censuurfase-van-wereldwijde-tirannie/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
