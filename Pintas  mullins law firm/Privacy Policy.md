@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the misconceptions about a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-misconceptions-about-a-nursing-home-scaled.jpg "What Are the Misconceptions About a Nursing Home?")](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/ "What Are the Misconceptions About a Nursing Home?")
+[![Can you sue for lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-you-sue-for-lung-cancer-2-scaled.jpg "Can You Sue For Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-sue-for-lung-cancer/ "Can You Sue For Lung Cancer?")
 
-[#### What Are the Misconceptions About a Nursing Home?](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/)
+[#### Can You Sue For Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-you-sue-for-lung-cancer/)
 
-[![How do nursing homes deal with understaffing?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-how-do-nursing-homes-deal-with-understaffing-300x200-1.jpg "How Do Nursing Homes Deal With Understaffing?")](https://www.pintas.com/faq/how-do-nursing-homes-deal-with-understaffing/ "How Do Nursing Homes Deal With Understaffing?")
+[![Alternative ovarian cancer treatments](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-alternative-ovarian-cancer-treatments.jpg "Alternative Ovarian Cancer Treatments")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/alternative-ovarian-cancer-treatments/ "Alternative Ovarian Cancer Treatments")
 
-[#### How Do Nursing Homes Deal With Understaffing?](https://www.pintas.com/faq/how-do-nursing-homes-deal-with-understaffing/)
+[#### Alternative Ovarian Cancer Treatments](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/alternative-ovarian-cancer-treatments/)
 
-[![Who do i file a complaint with about a home health aide?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-do-i-file-a-complaint-with-about-a-home-health-aide-scaled.jpg "Who Do I File a Complaint With About a Home Health Aide?")](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/ "Who Do I File a Complaint With About a Home Health Aide?")
+[![Elderly hip fracture recovery time frames](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip-scaled.jpg "Elderly Hip Fracture Recovery Time Frames")](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/ "Elderly Hip Fracture Recovery Time Frames")
 
-[#### Who Do I File a Complaint With About a Home Health Aide?](https://www.pintas.com/faq/who-do-i-file-a-complaint-with-about-a-home-health-aide/)
+[#### Elderly Hip Fracture Recovery Time Frames](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
