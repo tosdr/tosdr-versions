@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. c
+1. marketing
     
-2. sql
+2. psychology
     
-3. project management
+3. javascript
     
 
 Popular subjects
 
-1. [Data Analysis
+1. [Computer Science
     
-    8,818 courses](https://www.classcentral.com/subject/data-analysis)
-2. [Microsoft Excel
+    43,626 courses](https://www.classcentral.com/subject/cs)
+2. [Data Analysis
     
-    1,823 courses](https://www.classcentral.com/subject/microsoft-excel)
-3. [Artificial Intelligence
+    8,832 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Computer Networking
     
-    13,940 courses](https://www.classcentral.com/subject/ai)
+    1,754 courses](https://www.classcentral.com/subject/computer-networking)
 
 Popular courses
 
-1. [An Introduction to Interactive Programming in Python (Part 1)
+1. [Medicine and the Arts: Humanising Healthcare
     
-    Rice University](https://www.classcentral.com/course/interactivepython1-408)
-2. [Excel: Fundamentos y herramientas
+    University of Cape Town](https://www.classcentral.com/course/medicine-and-the-arts-3015)
+2. [Exploring Play: The Importance of Play in Everyday Life
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/excel-universitat-politecnica-de-valencia-excel-f-2962)
-3. [The Future of Work: Preparing for Disruption
+    The University of Sheffield](https://www.classcentral.com/course/play-2134)
+3. [Songwriting: Writing the Lyrics
     
-    Online Learning Campus - World Bank Group](https://www.classcentral.com/course/future-work-world-bank-group-the-future-of-work-p-13702)
+    Berklee College of Music](https://www.classcentral.com/course/songwriting-lyrics-523)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
