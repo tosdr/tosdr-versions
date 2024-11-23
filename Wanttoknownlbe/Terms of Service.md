@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/mh17-oproep-aan-alle-bewuste-mensen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/gerotzooi-met-commentaar-op-youtube/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
