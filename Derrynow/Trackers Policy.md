@@ -268,12 +268,14 @@ Picture credit: Matt Crossick/PA Wire
 [Who are the guests on tonight's Graham Norton Show on BBC? Here's the line-up](https://www.derrynow.com/news/national-news/1662008/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-line-up.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1661667/derry-death-notices-friday-november-22-2024.html)
+[![Derry Council issues advice in advance of Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Council issues advice in advance of Storm Bert")](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Photo from Storm Emma
 
-[Derry Death Notices - Friday, November 22, 2024](https://www.derrynow.com/news/deaths/1661667/derry-death-notices-friday-november-22-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Derry Council issues advice in advance of Storm Bert](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man pleads guilty to charge of sexual assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man pleads guilty to charge of sexual assault")](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
 
@@ -283,15 +285,6 @@ Derry courthouse
 
 [Derry man pleads guilty to charge of sexual assault](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Council issues advice in advance of Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Council issues advice in advance of Storm Bert")](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
-
-Photo from Storm Emma
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry Council issues advice in advance of Storm Bert](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspended sentence for man and woman who attacked two people in Derry with hammer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man and woman who attacked two people in Derry with hammer")](https://www.derrynow.com/news/newsletter-derrynow/1662233/suspended-sentence-for-man-and-woman-who-attacked-two-people-in-derry-with-hammer.html)
 
@@ -325,6 +318,13 @@ Derry courthouse
 [Man who admitted charge of arson endangering life to be sentenced in January](https://www.derrynow.com/news/newsletter-derrynow/1662153/man-who-admitted-charge-of-arson-endangering-life-to-be-sentenced-in-january.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway")](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza")](https://www.derrynow.com/story-telling/pictures---videos/1662246/in-pictures-st-joseph-s-boys-school-coffee-morning-for-uisce-for-gaza.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -332,12 +332,14 @@ Derry courthouse
 [IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza](https://www.derrynow.com/story-telling/pictures---videos/1662246/in-pictures-st-joseph-s-boys-school-coffee-morning-for-uisce-for-gaza.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway")](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
+[![Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story")](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+Martina Tierney will be the guest speaker at December's meeting of Ballinascreen Historical Society.
 
-[IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
+
+[Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, November 23, 2024](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Santa thrills the crowds as Derry lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
 
 The magical scene in Guildhall Square on Friday night as the Christmas Tree is switched on.
@@ -524,7 +533,7 @@ The magical scene in Guildhall Square on Friday night as the Christmas Tree is s
 [Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story")](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
+[![Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](https://www.derrynow.com/resizer/165/93/true/2024_11_22/lkHzp7Wh9D4G9rkahNxGFlBw-1732276474916.png--.png?1732276475073 "Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story")](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
 
 Martina Tierney will be the guest speaker at December's meeting of Ballinascreen Historical Society.
 
@@ -559,15 +568,6 @@ Pictured at the launch event of Enterprise Week 2024, 'The Road Ahead: Economic 
 
 [Businesses in Mid Ulster learn to ‘Create, Connect, Inspire’ at Successful Enterprise Week](https://www.derrynow.com/news/mid-ulster-district-council/1662398/businesses-in-mid-ulster-learn-to-create-connect-inspire-at-successful-enterprise-week.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Limavady Christmas lights switch on](https://www.derrynow.com/resizer/165/93/true/1571844761880.jpg--.jpg?1571844761890 "Limavady Christmas lights switch on")](https://www.derrynow.com/news/home/1662394/causeway-coast-and-glens-council-christmas-tree-light-switch-on.html)
-
-Limavady Christmas light switch on
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Causeway Coast and Glens Council Christmas Tree Light Switch-On](https://www.derrynow.com/news/home/1662394/causeway-coast-and-glens-council-christmas-tree-light-switch-on.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
