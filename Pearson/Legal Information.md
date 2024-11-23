@@ -1,3 +1,5 @@
+Some of our digital platforms will be unavailable as we upgrade on Saturday, November 23, from 1 AM to 9 AM Eastern US time. We apologize for any inconvenience.
+
 * [For School](https://www.pearson.com/en-gb/schools.html)
 * [For College & University](https://www.pearson.com/en-gb/higher-education.html)
 * [For Work](https://www.pearson.com/en-gb/work.html)
