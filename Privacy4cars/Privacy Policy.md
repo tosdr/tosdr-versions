@@ -2,7 +2,7 @@
 
 Toggle Navigation
 
-* [REPORTING](https://dista-ai-us4.appspot.com/#!/login)
+* [REPORTING](#)
 * [TRAINING](https://privacy4cars.com/training/)
 * [FAQs](https://privacy4cars.com/faqs/)
 * [LOCATIONS](https://privacy4cars.com/p4c-partner-locations/)
@@ -45,7 +45,7 @@ Toggle Navigation
 
 Toggle Navigation
 
-* [REPORTING](https://dista-ai-us4.appspot.com/#!/login)
+* [REPORTING](#)
 * [TRAINING](https://privacy4cars.com/training/)
 * [FAQs](https://privacy4cars.com/faqs/)
 * [LOCATIONS](https://privacy4cars.com/p4c-partner-locations/)
