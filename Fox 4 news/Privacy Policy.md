@@ -401,11 +401,23 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Trump nominates former NFL player Scott Turner as housing and urban development secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-83361539-1.jpg?ve=1&tl=1)
+ [![Mesquite park shooting leaves 2 young men injured](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112224-sky-4-friday-315pm-kdfweme002_15_13_45_mpg_00.16.21.00.jpg?ve=1&tl=1)
 
- ![Trump nominates former NFL player Scott Turner as housing and urban development secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-83361539-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominates-nfl-player-scott-turner-housing-secretary)
+ ![Mesquite park shooting leaves 2 young men injured](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112224-sky-4-friday-315pm-kdfweme002_15_13_45_mpg_00.16.21.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mesquite-shooting-high-school-city-lake-park)
+
+### [Mesquite park shooting leaves 2 young men injured](https://www.fox4news.com/news/mesquite-shooting-high-school-city-lake-park)
+
+ [![Trump nominates former NFL player Scott Turner as housing and urban development secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/scott-turner-2-getty.jpg?ve=1&tl=1)
+
+ ![Trump nominates former NFL player Scott Turner as housing and urban development secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/scott-turner-2-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominates-nfl-player-scott-turner-housing-secretary)
 
 ### [Trump nominates former NFL player Scott Turner as housing and urban development secretary](https://www.fox4news.com/news/trump-nominates-nfl-player-scott-turner-housing-secretary)
+
+ [![Baby dies from listeria outbreak linked to recalled ready-to-eat meat and poultry](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-72342665.jpg?ve=1&tl=1)
+
+ ![Baby dies from listeria outbreak linked to recalled ready-to-eat meat and poultry](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-72342665.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/listeria-outbreak-recalled-meat)
+
+### [Baby dies from listeria outbreak linked to recalled ready-to-eat meat and poultry](https://www.fox4news.com/news/listeria-outbreak-recalled-meat)
 
  [![Jason and Kylie Kelce announce they are pregnant with fourth daughter](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/11/32/18/kylie-jason-kelce-from-kylie-kelce-instagram.jpg?ve=1&tl=1)
 
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Trump to nominate Scott Bessent as treasury secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/scott-bessent-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominate-scott-bessent-treasury-secretary)
 
 ### [Trump to nominate Scott Bessent as treasury secretary](https://www.fox4news.com/news/trump-nominate-scott-bessent-treasury-secretary)
-
- [![Art students paint mural to brighten TWU walkway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-lori-twu-murals-honor-fmr-art-students-5p_00.00.02.36.jpg?ve=1&tl=1)
-
- ![Art students paint mural to brighten TWU walkway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-lori-twu-murals-honor-fmr-art-students-5p_00.00.02.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/art-students-paint-mural-brighten-twu-walkway)
-
-### [Art students paint mural to brighten TWU walkway](https://www.fox4news.com/news/art-students-paint-mural-brighten-twu-walkway)
-
- [![Tarrant County celebrates National Adoption Day with 33 child adoptions](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-tarrant-co-nat_l-adoption-day-4p_00.00.04.10.jpg?ve=1&tl=1)
-
- ![Tarrant County celebrates National Adoption Day with 33 child adoptions](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-tarrant-co-nat_l-adoption-day-4p_00.00.04.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/33-children-were-adopted-tarrant-county-today)
-
-### [Tarrant County celebrates National Adoption Day with 33 child adoptions](https://www.fox4news.com/news/33-children-were-adopted-tarrant-county-today)
 
 ###### [News](https://www.fox4news.com/news)
 
