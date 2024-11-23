@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 532 utilisateurs actifs
+##### 144 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [PlayStation 2 : installer ses jeux PS1 sur une clé USB avec POPStarter Game Installer for OPL](https://lecrabeinfo.net/playstation-2-installer-ses-jeux-ps1-sur-une-cle-usb-avec-popstarter-game-installer-for-opl.html)
 * [Navigateur Arc : comment accéder aux paramètres et les modifier ?](https://lecrabeinfo.net/navigateur-arc-comment-acceder-aux-parametres-et-les-modifier.html)
 * [Bing Wallpaper : un piège de Microsoft pour imposer Edge et Bing ?](https://lecrabeinfo.net/bing-wallpaper-un-piege-de-microsoft-pour-imposer-edge-et-bing.html)
-* [Windows App : à quoi sert la nouvelle application de Microsoft ?](https://lecrabeinfo.net/windows-app-a-quoi-sert-la-nouvelle-application-de-microsoft.html)
 
 ### Tendance
 
@@ -152,9 +152,9 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 965 membres
+* 67 966 membres
 * 953 articles
-* 26 945 commentaires
+* 26 947 commentaires
 * [2 665 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
 * [873 abonnés X](https://x.com/lecrabeinfo)
 * [67 500 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
