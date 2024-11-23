@@ -41,30 +41,30 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![](https://www.women.com/img/gallery/what-is-the-4b-movement-and-why-it-packs-more-punch-this-time-around/intro-1732302064.jpg)](https://www.women.com/1720857/4b-movement-trend-explained/)
+*  [![Jenna Bush Hager at an event wearing red](https://www.women.com/img/gallery/the-best-read-with-jenna-book-club-picks-of-all-time/intro-1731948738.jpg)](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Living](https://www.women.com/category/living/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
     
-    [What Is The 4B Movement? (And Why It Packs More Punch This Time Around)](https://www.women.com/1720857/4b-movement-trend-explained/)
-    =====================================================================================================================================
+    [The Best Read With Jenna Book Club Picks Of All Time](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
+    ====================================================================================================================================
     
-    The 4B movement has made waves across college campuses in the U.S. and gained serious steam since Donald Trump was controversially elected for his second term.
+    Jenna Bush Hager is an eager reader who loves sharing her favorite books, creating Read With Jenna to promote the stories of marginalized voices.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1720857/4b-movement-trend-explained/)
+    By Bernadette Roe [Read More](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
     
-* *  [![Jenna Bush Hager at an event wearing red](https://www.women.com/img/gallery/the-best-read-with-jenna-book-club-picks-of-all-time/intro-1731948738.jpg)](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
+* *  [![Woman in a march with writing on her collarbone](https://www.women.com/img/gallery/what-is-the-4b-movement-and-why-it-packs-more-punch-this-time-around/intro-1732302064.jpg)](https://www.women.com/1720857/4b-movement-trend-explained/)
         
-        [Living](https://www.women.com/category/living/)
+        [Relationships](https://www.women.com/category/relationships/)
         
-        [Living](https://www.women.com/category/living/) By Bernadette Roe
+        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
         
-        ### [The Best Read With Jenna Book Club Picks Of All Time](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
+        ### [What Is The 4B Movement? (And Why It Packs More Punch This Time Around)](https://www.women.com/1720857/4b-movement-trend-explained/)
         
-        Jenna Bush Hager is an eager reader who loves sharing her favorite books, creating Read With Jenna to promote the stories of marginalized voices.
+        The 4B movement has made waves across college campuses in the U.S. and gained serious steam since Donald Trump was controversially elected for his second term.
         
-        By Bernadette Roe [Read More](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
+        By Emily Hutchinson [Read More](https://www.women.com/1720857/4b-movement-trend-explained/)
         
     *  [![Two people in bed](https://www.women.com/img/gallery/how-to-handle-being-asked-about-your-body-count-not-that-it-matters/intro-1731694030.jpg)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
         
