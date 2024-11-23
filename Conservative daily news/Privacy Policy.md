@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [2024 Holiday Gift Guide: Shotguns](https://www.thegunpage.com/2024-holiday-gift-guide-shotguns/10612070)
 * [TFB Review: The Stinger OTF Knife from Backup Tactical](https://www.thegunpage.com/tfb-review-the-stinger-otf-knife-from-backup-tactical/10612066)
 * [POTD: The CZ P-10 C Or The Dumbbell?](https://www.thegunpage.com/potd-the-cz-p-10-c-or-the-dumbbell/10612063)
 * [TFB Podcast Roundup 156: The November 22nd Roundup](https://www.thegunpage.com/tfb-podcast-roundup-156-the-november-22nd-roundup/10612064)
@@ -190,7 +191,6 @@ Recent Posts
 * [Lawsuit Challenges Maine's 72-Hour Waiting Period](https://www.thegunpage.com/lawsuit-challenges-maines-72-hour-waiting-period/10612051)
 * [Canadian Woman Arrested In Texas For Stolen Guns Bound For Canada](https://www.thegunpage.com/canadian-woman-arrested-in-texas-for-stolen-guns-bound-for-canada/10612049)
 * [Preserve History, Win A Classic Sniper Rifle](https://www.thegunpage.com/preserve-history-win-a-classic-sniper-rifle/10612052)
-* [How Democrats Are Trying To Resurrect The Bump Stock Ban](https://www.thegunpage.com/how-democrats-are-trying-to-resurrect-the-bump-stock-ban/10612046)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
