@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Elektronische Patienten­akte: Digitale Akte kommt 2025 für alle – bisher keine Verzögerung](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte kommt 2025 für alle – bisher keine Verzögerung")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Elektronische Patienten­akte: Digitale Akte kommt 2025 für alle – bisher keine Verzögerung](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte kommt 2025 für alle – bisher keine Verzögerung")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Elektronische Patienten­akte: Digitale Akte kommt 2025 für alle – bisher keine Verzögerung](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte kommt 2025 für alle – bisher keine Verzögerung")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Powerstations im Test: Steck­dosen für unterwegs](https://www.test.de/Powerstation-Test-6023127-0/ "Powerstations im Test - Steckdosen für unterwegs")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
-* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [E-Growing: Fest­nahmen bei der Platt­form Juicyfields](https://www.test.de/E-Growing-Festnahmen-bei-der-Plattform-Juicyfields-6113321-0/ "E-Growing - Festnahmen bei der Plattform Juicyfields")
+* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
+* [Smartwatches: Uhren täuschen Blut­zucker-Messung vor](https://www.test.de/Smartwatches-Uhren-taeuschen-Blutzucker-Messung-vor-6124003-0/ "Smartwatches - Uhren täuschen Blutzucker-Messung vor")
+* [Elektronische Patienten­akte: Digitale Akte kommt 2025 für alle – bisher keine Verzögerung](https://www.test.de/Elektronische-Patientenakte-Bald-automatisch-fuer-alle-5943459-0/ "Elektronische Patientenakte - Digitale Akte kommt 2025 für alle – bisher keine Verzögerung")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
 
 Service Stiftung Warentest
 
