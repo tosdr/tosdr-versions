@@ -279,25 +279,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Leilani Simon during her sentencing hearing on Nov. 21, 2024 (Law&Crime).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/adfafadfa-432x243.jpg)](https://lawandcrime.com/crime/mom-who-told-cops-she-was-disposing-of-stinky-shrimp-pasta-when-dumping-toddlers-body-in-dumpster-learns-her-fate/)
+1. [![Special counsel Jack Smith arrives to speak about an indictment of former President Donald Trump, Aug. 1, 2023, at a Department of Justice office in Washington. The indictment of Donald Trump for attempting to overturn his election defeat is a new front in what Joe Biden has described as the battle for American democracy. It's the issue that Biden has described as the most consequential struggle of his presidency. The criminal charges are a reminder of the stakes of next year's campaign, when Trump is hoping for a rematch with Biden. (AP Photo/Jacquelyn Martin, File)](https://am22.mediaite.com/lc/cnt/uploads/2023/11/smith-432x243.jpg)](https://lawandcrime.com/high-profile/paper-shredding-truck-outside-doj-means-court-must-order-jack-smith-to-preserve-records-from-abomination-of-investigation-into-trump-ken-paxton-says/)
+    
+    ### ['Paper shredding truck' outside DOJ means court must order Jack Smith to preserve records from 'abomination' of investigation into Trump, Ken Paxton says](https://lawandcrime.com/high-profile/paper-shredding-truck-outside-doj-means-court-must-order-jack-smith-to-preserve-records-from-abomination-of-investigation-into-trump-ken-paxton-says/)
+    
+2. [![Left to right: Donald Trump, Juan Merchan, Alvin Bragg, and Jack Smith.](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Trump-Merchan-Bragg-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/hush-money-judge-gives-trump-one-final-twist-of-the-knife-by-rejecting-lengthy-deadlines-in-favor-of-das-quick-turnaround-and-deals-jack-smith-one-final-card-to-play/)
+    
+    ### [Hush-money judge gives Trump one final twist of the knife by rejecting lengthy deadlines in favor of DA's quick turnaround — and deals Jack Smith one final card to play](https://lawandcrime.com/high-profile/hush-money-judge-gives-trump-one-final-twist-of-the-knife-by-rejecting-lengthy-deadlines-in-favor-of-das-quick-turnaround-and-deals-jack-smith-one-final-card-to-play/)
+    
+3. [![Leilani Simon during her sentencing hearing on Nov. 21, 2024 (Law&Crime).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/adfafadfa-432x243.jpg)](https://lawandcrime.com/crime/mom-who-told-cops-she-was-disposing-of-stinky-shrimp-pasta-when-dumping-toddlers-body-in-dumpster-learns-her-fate/)
     
     ### [Mom who told cops she was disposing of ‘stinky shrimp pasta’ when dumping toddler's body in dumpster learns her fate](https://lawandcrime.com/crime/mom-who-told-cops-she-was-disposing-of-stinky-shrimp-pasta-when-dumping-toddlers-body-in-dumpster-learns-her-fate/)
-    
-2. [![Photo of 6-month-old Jada Hickman at the cemetery where her remains went missing (WRDW/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Jada-Hickman-432x243.jpg)](https://lawandcrime.com/lawsuit/funeral-home-gives-grieving-family-dirt-from-6-month-olds-grave-site-as-a-replacement-for-the-remains-they-lost-lawsuit/)
-    
-    ### [Funeral home gives grieving family dirt from 6-month-old's grave site as a 'replacement' for the remains they lost: Lawsuit](https://lawandcrime.com/lawsuit/funeral-home-gives-grieving-family-dirt-from-6-month-olds-grave-site-as-a-replacement-for-the-remains-they-lost-lawsuit/)
-    
-3. [![Kelsey Glover being escorted by Osceola County Sheriff's Office](https://am23.mediaite.com/lc/cnt/uploads/2024/11/grab-5-432x243.jpg)](https://lawandcrime.com/crime/video-shows-florida-mom-smiling-for-perp-walk-after-14-year-old-daughter-found-submerged-in-bathtub/)
-    
-    ### [Video shows Florida mom smiling for perp walk after 14-year-old daughter found submerged in bathtub](https://lawandcrime.com/crime/video-shows-florida-mom-smiling-for-perp-walk-after-14-year-old-daughter-found-submerged-in-bathtub/)
     
 4. [![Reese Myers appears in a booking photo.](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Reese-Myers-432x243.jpg)](https://lawandcrime.com/crime/mom-left-toddler-home-alone-with-2-dogs-so-she-could-travel-out-of-town-to-visit-a-man-she-met-on-a-dating-app-police/)
     
     ### [Mom left toddler home alone with 2 dogs so she could travel out-of-town to visit a man she met on a dating app: Police](https://lawandcrime.com/crime/mom-left-toddler-home-alone-with-2-dogs-so-she-could-travel-out-of-town-to-visit-a-man-she-met-on-a-dating-app-police/)
     
-5. [![Matt Gaetz and Marjorie Taylor Greene at America First rally in Florida (YouTube screenshot)](https://am23.mediaite.com/lc/cnt/uploads/2024/03/Matt-Gaetz-and-Marjorie-Taylor-Greene-at-America-First-rally-in-Florida-YouTube-screenshot-432x243.jpg)](https://lawandcrime.com/high-profile/frivolous-unreasonable-and-devoid-of-foundation-matt-gaetz-majorie-taylor-greene-owe-almost-550k-for-failed-conspiracy-lawsuit-civil-rights-groups-say/)
+5. [![Alexandria G. Ring (Vanderburgh County Sheriff's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Alexandria-G.-Ring-Vanderburgh-County-Sheriffs-Office-432x243.jpg)](https://lawandcrime.com/crime/couldnt-handle-the-crying-mom-said-she-threw-1-year-old-because-babys-tantrum-set-her-off/)
     
-    ### ['Frivolous, unreasonable, and devoid of foundation': Matt Gaetz, Majorie Taylor Greene owe almost $550K for failed 'conspiracy' lawsuit, civil rights groups say](https://lawandcrime.com/high-profile/frivolous-unreasonable-and-devoid-of-foundation-matt-gaetz-majorie-taylor-greene-owe-almost-550k-for-failed-conspiracy-lawsuit-civil-rights-groups-say/)
+    ### ['Couldn't handle the crying': Mom said she 'threw' 1-year-old because baby's tantrum 'set her off'](https://lawandcrime.com/crime/couldnt-handle-the-crying-mom-said-she-threw-1-year-old-because-babys-tantrum-set-her-off/)
     
 
 [](http://eepurl.com/c89Jdb)
