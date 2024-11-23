@@ -107,65 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Juha Rämö](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1330802-1666092002.jpg)](https://lyricstranslate.com/en/translator/juha-r%C3%A4m%C3%B6 "Juha Rämö")
-
-New song
-
-[Pablo Neruda - Almería](https://lyricstranslate.com/en/pablo-neruda-almeria-lyrics)
-
-Spanish
-
-[![Miral Hijazi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1401736-1688407880.jpg)](https://lyricstranslate.com/en/translator/miral-hijazi "Miral Hijazi")
-
-New song
-
-[Gülben Ergen - Defoluyorum Kalbinden](https://lyricstranslate.com/en/gulben-ergen-defoluyorum-kalbinden-lyrics)
-
-Turkish
-
-[![Globophobe](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1554539-1706215364.gif)](https://lyricstranslate.com/en/translator/globophobe "Globophobe")
+[![xuen97](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/xuen97 "xuen97")
 
 New translation
 
-[Divine (USA) - Born To Be Cheap](https://lyricstranslate.com/en/divine-usa-born-be-cheap-german)
+[Lovelyz - 여름 한 조각 (yeoleum han jogag)](https://lyricstranslate.com/en/lovelyz-yeoleum-han-jogag-english)
 
-English → German
+Korean → English
 
-[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1726261869.jpg)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
-
-New song
-
-[Kiiko Tokunaga - 六本木トランジット](https://lyricstranslate.com/en/kiiko-tokunaga-roppongi-transit-lyrics)
-
-Japanese
-
-[![uji na](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496118-1655268553.jpg)](https://lyricstranslate.com/en/translator/uji-na "uji na")
-
-New annotation
-
-Probably, here is, 時が二人を変えた  [more](https://lyricstranslate.com/en/node/4860329)
-
-[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
-
-New comment
-
-\[@FrozenHeart\] Ciao! Would you mind checking the ...  [more](https://lyricstranslate.com/en/comment/1177427#comment-1177427)
-
-[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
+[![Tobiasz2009](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628700-1726411730.png)](https://lyricstranslate.com/en/translator/tobiasz2009 "Tobiasz2009")
 
 New song
 
-[Arianna Rozzo - J'adore](https://lyricstranslate.com/en/arianna-rozzo-jadore-lyrics)
+[Otsochodzi - Nienawidzą](https://lyricstranslate.com/en/otsochodzi-nienawidza-lyrics)
 
-Italian
+Polish
 
-[![Albert Braam](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1315727.jpg)](https://lyricstranslate.com/en/translator/albert-braam "Albert Braam")
+[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
+
+New song
+
+[LaRose - Buzz Buzz Buzz](https://lyricstranslate.com/en/larose-buzz-buzz-buzz-lyrics)
+
+French (Antillean Creole)
+
+[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
+
+New request
+
+[Leonid Kaganov - Сейчас в России только две проблемы (Seychas v Rossii tolʹko dve problemy)](https://lyricstranslate.com/en/request/%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81-%D0%B2-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-%D0%B4%D0%B2%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-0)
+
+Russian → Polish
+
+[![HiiJin](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/hiijin "HiiJin")
 
 New translation
 
-[Tom Jones - It's Not Unusual](https://lyricstranslate.com/en/tom-jones-its-not-unusual-dutch)
+[LBI - 小城夏天 (xiǎo chéng xià tiān)](https://lyricstranslate.com/en/lbi-xiao-cheng-xia-tian-transliteration)
 
-English → Dutch
+Chinese → Transliteration
+
+[![Tobiasz2009](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628700-1726411730.png)](https://lyricstranslate.com/en/translator/tobiasz2009 "Tobiasz2009")
+
+New song
+
+[Włodi - Zapałki](https://lyricstranslate.com/en/wlodi-zapalki-lyrics)
+
+Polish
+
+[![Thyra](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1636871-1731794965.png)](https://lyricstranslate.com/en/translator/thyra "Thyra")
+
+New song
+
+[Mordechai Gebirtig - Vig Lid](https://lyricstranslate.com/en/mordechai-gebirtig-vig-lid-lyrics)
+
+Yiddish
+
+[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
+
+New song
+
+[Chantal Goya - Adieu les jolis foulards](https://lyricstranslate.com/en/chantal-goya-adieu-les-jolis-foulards-lyrics)
+
+French
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
