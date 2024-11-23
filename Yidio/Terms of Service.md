@@ -6,8 +6,8 @@
 * [Sign In](https://www.yidio.com/login.php)
 * [Sign Up](https://www.yidio.com/signup.php)
 
-Yidio Terms of Use
-==================
+Terms of Use
+============
 
   
 Welcome! You may use the Web sites, software, services and media applications of Yidio provided that you agree to the following terms.  
