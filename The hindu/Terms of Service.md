@@ -1,98 +1,208 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1) />
 
-[![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/thehindu-logo.svg "The Hindu Logo")](https://www.thehindu.com/)
-
-* [![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/)
-* [India](https://www.thehindu.com/news/national/)
-* [World](https://www.thehindu.com/news/international/)
-* [Elections](https://www.thehindu.com/elections/)
-* [Technology](https://www.thehindu.com/sci-tech/technology/)
-* [e-Paper](https://epaper.thehindu.com/?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header)
-
-1. [Science](https://www.thehindu.com/sci-tech/science/)
-2. [Data](https://www.thehindu.com/data/)
-3. [Opinion](https://www.thehindu.com/opinion/)
-4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/optional-subject-fees/?utm_source=thehindu&utm_medium=ad&utm_campaign=The_Hindu_traffic)
-5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
-
-[FREE TRIAL](https://www.thehindu.com/subscription/freetrial/?utm_source=TheHindu&utm_medium=section&utm_campaign=FTbutton)[GIFT a Subscription![Gift](https://www.thehindu.com/theme/images/th-online/myaccount-gift-black-icon.svg "Icon")](https://www.thehindu.com/subscription/gift/?tpcc=giftasubs) [Subscribe](https://www.thehindu.com/subscription/) LOGIN [ACCOUNT ![](https://www.thehindu.com/theme/images/th-online/account-btn-icon-black.svg)](https://www.thehindu.com/myaccount/)[PREMIUM ![](https://www.thehindu.com/theme/images/th-online/account-btn-icon-black.svg)](https://www.thehindu.com/myaccount/) 
-
-![HamberMenu](https://www.thehindu.com/theme/images/th-online/menu-hamber-icon.svg)
-
-Open in The Hindu App![Open Arrow](https://www.thehindu.com/theme/images/th-online/open-app-arrow.svg)
-
-[FREE TRIAL](https://www.thehindu.com/subscription/freetrial/?utm_source=TheHindu&utm_medium=&utm_campaign=FTbutton)LOGIN[GIFT a Subscription![Gift](https://www.thehindu.com/theme/images/th-online/myaccount-gift-black-icon.svg "Icon")](https://www.thehindu.com/subscription/gift/?tpcc=giftasubs) [ACCOUNT ![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/account-btn-icon-black.svg "Icon")](https://www.thehindu.com/myaccount/)[PREMIUM ![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/account-btn-icon-black.svg "Icon")](https://www.thehindu.com/myaccount/) 
+November 22, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
 
 [![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/thehindu-logo.svg "The Hindu Logo")](https://www.thehindu.com/)
 
-[Subscribe](https://www.thehindu.com/subscription/)![Share Article](https://www.thehindu.com/theme/images/th-online/share-page-icon.svg "Share")
+LOGIN[Account](https://www.thehindu.com/myaccount/)
 
-![HamberMenu](https://www.thehindu.com/theme/images/th-online/menu-hamber-icon.svg)
+[FREE TRIAL](https://www.thehindu.com/subscription/freetrial/?utm_source=TheHindu&utm_medium=section&utm_campaign=FTbutton) [Subscribe](https://www.thehindu.com/subscription/) [FRAME FRONT PAGE](https://www.thehindu.com/frontpage/)
 
-1. [Science](https://www.thehindu.com/sci-tech/science/)
-2. [Data](https://www.thehindu.com/data/)
-3. [Opinion](https://www.thehindu.com/opinion/)
-4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/optional-subject-fees/?utm_source=thehindu&utm_medium=ad&utm_campaign=The_Hindu_traffic)
-5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
+[](https://www.thehindu.com/search/)
 
-* [![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/)
-* [India](https://www.thehindu.com/news/national/)
-* [World](https://www.thehindu.com/news/international/)
-* [Elections](https://www.thehindu.com/elections/)
-* [Technology](https://www.thehindu.com/sci-tech/technology/)
-* [e-Paper](https://epaper.thehindu.com/?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header)
+[India](https://www.thehindu.com/news/national/) [World](https://www.thehindu.com/news/international/) [Movies](https://www.thehindu.com/entertainment/movies/) [Sport](https://www.thehindu.com/sport/) [Data](https://www.thehindu.com/data/) [Health](https://www.thehindu.com/sci-tech/health/) [Opinion](https://www.thehindu.com/opinion/) [Sci-Tech](https://www.thehindu.com/sci-tech/) [Business](https://www.thehindu.com/business/) [Premium](https://www.thehindu.com/premium/)
 
-1. [Science](https://www.thehindu.com/sci-tech/science/)
-2. [Data](https://www.thehindu.com/data/)
-3. [Opinion](https://www.thehindu.com/opinion/)
-4. [![Plutus IAS](https://www.thehindu.com/static/content/thehindu/plutus02.svg)](https://plutusias.com/optional-subject-fees/?utm_source=thehindu&utm_medium=ad&utm_campaign=The_Hindu_traffic)
-5. [SEARCH ![Icon](https://www.thehindu.com/theme/images/th-online/search-gray-icon.svg "Icon")](https://www.thehindu.com/search/) 
+[Live Now](https://www.thehindu.com/topic/live-news/) [Agriculture](https://www.thehindu.com/sci-tech/agriculture/)
 
-* [News](https://www.thehindu.com/news/)
-* [Business](https://www.thehindu.com/business/)
-* [Entertainment](https://www.thehindu.com/entertainment/)
-* [Life & Style](https://www.thehindu.com/life-and-style/)
-* [Society](https://www.thehindu.com/society/)
-* [Technology](https://www.thehindu.com/sci-tech/technology/)
-* [Videos](https://www.thehindu.com/videos/)
-* [Sport](https://www.thehindu.com/sport/)
-* [Cities](https://www.thehindu.com/news/cities/)
-* [States](https://www.thehindu.com/news/states/)
-* [Science](https://www.thehindu.com/sci-tech/science/)
-* Show More ![](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png) 
+Books
 
-* [Chennai](https://www.thehindu.com/news/cities/chennai/)
-* [Delhi](https://www.thehindu.com/news/cities/Delhi/)
-* [Bengaluru](https://www.thehindu.com/news/cities/bangalore/)
-* [Hyderabad](https://www.thehindu.com/news/cities/Hyderabad/)
-* [Movies](https://www.thehindu.com/entertainment/movies/)
-* [Food](https://www.thehindu.com/food/)
-* [Children](https://www.thehindu.com/children/)
-* [Data](https://www.thehindu.com/data/)
-* [Kochi](https://www.thehindu.com/news/cities/Kochi/)
-* [Books](https://www.thehindu.com/books/)
-* [Education](https://www.thehindu.com/education/)
-* [Podcast](https://www.thehindu.com/podcast/)
-* [Brandhub](https://www.thehindu.com/brandhub/)
+SECTION
 
-[![Return to frontpage](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/)
+[Books](https://www.thehindu.com/books/)
 
-To enjoy additional benefits
+TOPICS
 
-[FREE TRIAL](https://www.thehindu.com/subscription/freetrial/?utm_source=TheHindu&utm_medium=section&utm_campaign=FTbutton)[GIFT a Subscription![Gift](https://www.thehindu.com/theme/images/th-online/myaccount-gift-black-icon.svg "Icon")](https://www.thehindu.com/subscription/gift/?tpcc=giftasubs) [Subscribe](https://www.thehindu.com/subscription/) LOGIN [ACCOUNT ![](https://www.thehindu.com/theme/images/th-online/account-btn-icon-black.svg)](https://www.thehindu.com/myaccount/)[PREMIUM ![](https://www.thehindu.com/theme/images/th-online/account-btn-icon-black.svg)](https://www.thehindu.com/myaccount/) 
+[Hindi Belt](https://www.thehindu.com/topic/Hindi_Belt/)
 
-[Showcase](https://www.thehindu.com/showcase/)[Subscribe to Newsletters](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)[Crossword+](https://crossword.thehindu.com/?utm_source=thehindu&utm_medium=mainmenu)
+NEWSLETTER[![](https://www.thehindu.com/static/content/newsletter/nl-card/13_thehinduonbooks.jpg)
 
-CONNECT WITH US
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.](https://www.thehindu.com/newsletter/the-hindu-on-books/?utm_source=books_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
 
-* [![Whatsapp](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://whatsapp.com/channel/0029VaAvwQJ90x34WZ6FDg36 "WhatsApp")
-* [![Twitter](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://twitter.com/The_Hindu "Twitter")
-* [![Facebook](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.facebook.com/thehindu "Facebook")
-* [![Instagram](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.instagram.com/the_hindu/?ref=badge "Instagram")
-* [![Linkedin](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.linkedin.com/school/the-hindu/ "Linkedin")
-* [![Youtube](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.youtube.com/user/The1878Hindu "Youtube")
-* [![Spotify](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://open.spotify.com/show/5yESTCj0iikA81EP3uXkQC "Spotify")
-* [![Telegram](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://t.me/THnewsupdates "Telegram")
+[Brandhub](https://www.thehindu.com/brandhub/)
+
+Business
+
+SECTION
+
+[Business](https://www.thehindu.com/business/) [Agri-Business](https://www.thehindu.com/business/agri-business/) [Economy](https://www.thehindu.com/business/Economy/) [Industry](https://www.thehindu.com/business/Industry/) [Markets](https://www.thehindu.com/business/markets/) [Budget](https://www.thehindu.com/business/budget/)
+
+[Children](https://www.thehindu.com/children/)
+
+Cities
+
+SECTION
+
+[Cities](https://www.thehindu.com/news/cities/) [Bengaluru](https://www.thehindu.com/news/cities/bangalore/) [Chennai](https://www.thehindu.com/news/cities/chennai/) [Coimbatore](https://www.thehindu.com/news/cities/Coimbatore/) [Delhi](https://www.thehindu.com/news/cities/Delhi/) [Hyderabad](https://www.thehindu.com/news/cities/Hyderabad/) [Kochi](https://www.thehindu.com/news/cities/Kochi/) [Kolkata](https://www.thehindu.com/news/cities/kolkata/) [Kozhikode](https://www.thehindu.com/news/cities/kozhikode/) [Madurai](https://www.thehindu.com/news/cities/Madurai/) [Mangaluru](https://www.thehindu.com/news/cities/Mangalore/) [Mumbai](https://www.thehindu.com/news/cities/mumbai/) [Puducherry](https://www.thehindu.com/news/cities/puducherry/) [Thiruvananthapuram](https://www.thehindu.com/news/cities/Thiruvananthapuram/) [Tiruchirapalli](https://www.thehindu.com/news/cities/Tiruchirapalli/) [Vijayawada](https://www.thehindu.com/news/cities/Vijayawada/) [Visakhapatnam](https://www.thehindu.com/news/cities/Visakhapatnam/)
+
+Data
+
+SECTION
+
+[Data](https://www.thehindu.com/data/)
+
+TOPICS
+
+[Data Point Podcast](https://www.thehindu.com/topic/data-point-podcast/)
+
+NEWSLETTER[![](https://www.thehindu.com/static/content/newsletter/nl-card/10_datapoint.jpg)
+
+Data Point Decoding the headlines with facts, figures, and numbers](https://www.thehindu.com/newsletter/newsletter-data/?utm_source=data_point_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+
+Education
+
+SECTION
+
+[Education](https://www.thehindu.com/education/) [Careers](https://www.thehindu.com/education/careers/) [Colleges](https://www.thehindu.com/education/colleges/) [Schools](https://www.thehindu.com/education/schools/)
+
+[Elections](https://www.thehindu.com/elections/)
+
+Entertainment
+
+SECTION
+
+[Entertainment](https://www.thehindu.com/entertainment/) [Art](https://www.thehindu.com/entertainment/art/) [Dance](https://www.thehindu.com/entertainment/dance/) [Movies](https://www.thehindu.com/entertainment/movies/) [Music](https://www.thehindu.com/entertainment/music/) [Reviews](https://www.thehindu.com/entertainment/reviews/) [Theatre](https://www.thehindu.com/entertainment/theatre/)
+
+NEWSLETTER[![](https://www.thehindu.com/static/content/newsletter/nl-card/14_firstdayfirstshow.jpg)
+
+First Day First Show News and reviews from the world of cinema and streaming.](https://www.thehindu.com/newsletter/first-day-first-show/?utm_source=fdfs_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+
+[Environment](https://www.thehindu.com/sci-tech/energy-and-environment/)
+
+Food
+
+SECTION
+
+[Food](https://www.thehindu.com/food/) [Dining](https://www.thehindu.com/food/dining/) [Features](https://www.thehindu.com/food/features/) [Guides](https://www.thehindu.com/food/guides/) [Recipes](https://www.thehindu.com/food/recipes/)
+
+TOPICS
+
+[Good Health Hunting](https://www.thehindu.com/topic/Good_Health_Hunting/)
+
+Health
+
+SECTION
+
+[Health](https://www.thehindu.com/sci-tech/health/)
+
+TOPICS
+
+[Monkeypox](https://www.thehindu.com/topic/monkeypox/)
+
+NEWSLETTER[![](https://www.thehindu.com/static/content/newsletter/nl-card/09_healthmatters.jpg)
+
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there](https://www.thehindu.com/newsletter/health-matters/?utm_source=health_matters_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+
+Life & Style
+
+SECTION
+
+[Life & Style](https://www.thehindu.com/life-and-style/) [Fashion](https://www.thehindu.com/life-and-style/fashion/) [Fitness](https://www.thehindu.com/life-and-style/fitness/) [Homes and gardens](https://www.thehindu.com/life-and-style/homes-and-gardens/) [Luxury](https://www.thehindu.com/life-and-style/luxury/) [Motoring](https://www.thehindu.com/life-and-style/motoring/) [Travel](https://www.thehindu.com/life-and-style/travel/)
+
+[Litfest](https://www.thehindu.com/litfest/)
+
+News
+
+SECTION
+
+[News](https://www.thehindu.com/news/) [India](https://www.thehindu.com/news/national/) [World](https://www.thehindu.com/news/international/) [States](https://www.thehindu.com/news/states/) [Cities](https://www.thehindu.com/news/cities/)
+
+TOPICS
+
+[Ground Zero](https://www.thehindu.com/topic/Ground_Zero/) [Spotlight](https://www.thehindu.com/topic/spotlight/)
+
+NEWSLETTER[![](https://www.thehindu.com/static/content/newsletter/nl-card/02_editorspick.jpg)
+
+The View From India Looking at World Affairs from the Indian perspective.](https://www.thehindu.com/newsletter/newsletter-international/?utm_source=vfi_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+
+Opinion
+
+SECTION
+
+[Opinion](https://www.thehindu.com/opinion/) [Editorial](https://www.thehindu.com/opinion/editorial/) [Cartoon](https://www.thehindu.com/opinion/cartoon/) [Columns](https://www.thehindu.com/opinion/columns/) [Comment](https://www.thehindu.com/opinion/op-ed/) [Interview](https://www.thehindu.com/opinion/interview/) [Lead](https://www.thehindu.com/opinion/lead/) [Letters](https://www.thehindu.com/opinion/letters/) [Open Page](https://www.thehindu.com/opinion/open-page/) [Corrections & Clarifications](https://www.thehindu.com/opinion/Readers-Editor/corrections-and-clarifications/)
+
+[Photos](https://www.thehindu.com/photos/) [Podcast](https://www.thehindu.com/podcast/) [Real Estate](https://www.thehindu.com/real-estate/)
+
+Science
+
+SECTION
+
+[Science](https://www.thehindu.com/sci-tech/science/)
+
+TOPICS
+
+[ISRO](https://www.thehindu.com/topic/isro/) [Question Corner](https://www.thehindu.com/topic/Question_Corner)
+
+NEWSLETTER[![](https://www.thehindu.com/static/content/newsletter/nl-card/12_scienceforall.jpg)
+
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!](https://www.thehindu.com/newsletter/newsletter-science/?utm_source=science_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+
+Society
+
+SECTION
+
+[Society](https://www.thehindu.com/society/) [Faith](https://www.thehindu.com/society/faith/) [History & Culture](https://www.thehindu.com/society/history-and-culture/)
+
+Sport
+
+SECTION
+
+[Sport](https://www.thehindu.com/sport/) [Cricket](https://www.thehindu.com/sport/cricket/) [Football](https://www.thehindu.com/sport/football/) [Hockey](https://www.thehindu.com/sport/hockey/) [Tennis](https://www.thehindu.com/sport/tennis/) [Athletics](https://www.thehindu.com/sport/athletics/) [Motorsport](https://www.thehindu.com/sport/motorsport/) [Races](https://www.thehindu.com/sport/races/) [Other Sports](https://www.thehindu.com/sport/other-sports/)
+
+TOPICS
+
+[Between Wickets](https://www.thehindu.com/topic/Between_Wickets/)
+
+[Specials](https://www.thehindu.com/specials/)
+
+States
+
+SECTION
+
+[States](https://www.thehindu.com/news/states/) [Andhra Pradesh](https://www.thehindu.com/news/national/andhra-pradesh/) [Karnataka](https://www.thehindu.com/news/national/karnataka/) [Kerala](https://www.thehindu.com/news/national/kerala/) [Maharashtra](https://www.thehindu.com/news/national/maharashtra/) [Tamil Nadu](https://www.thehindu.com/news/national/tamil-nadu/) [Telangana](https://www.thehindu.com/news/national/telangana/) [West Bengal](https://www.thehindu.com/news/national/west-bengal/)
+
+TOPICS
+
+[Decode Karnataka](https://www.thehindu.com/topic/decode-karnataka/) [Focus Tamil Nadu](https://www.thehindu.com/topic/focus-tamil-nadu/)
+
+NEWSLETTER[![](https://www.thehindu.com/static/content/newsletter/nl-card/07_karnatakatoday.jpg)
+
+Karnataka Today Your daily dose of news highlights from Karnataka](https://www.thehindu.com/newsletter/karnataka-today/?utm_source=karnataka_today_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+
+Technology
+
+SECTION
+
+[Technology](https://www.thehindu.com/sci-tech/technology/) [Gadgets](https://www.thehindu.com/sci-tech/technology/gadgets/) [Internet](https://www.thehindu.com/sci-tech/technology/internet/)
+
+NEWSLETTER[![](https://www.thehindu.com/static/content/newsletter/nl-card/11_todayscache.jpg)
+
+Today's Cache Your download of the top 5 technology stories of the day.](https://www.thehindu.com/newsletter/newsletter-today-cache/?utm_source=todays_cache_preview_link&utm_medium=website_nl-sub_page&utm_campaign=newsletter_signup)[SEE ALL NEWSLETTERS](https://www.thehindu.com/newsletter-subscription/?utm_source=site_menu&utm_medium=website&utm_campaign=newsletter_signup)
+
+[Videos](https://www.thehindu.com/videos/)
+
+Connect with us[](https://whatsapp.com/channel/0029VaAvwQJ90x34WZ6FDg36 "WhatsApp")[](https://twitter.com/The_Hindu "Twitter")[](https://www.facebook.com/thehindu "Facebook")[](https://www.instagram.com/the_hindu/?ref=badge "Instagram")[](https://www.linkedin.com/school/the-hindu/ "Linkedin")[](https://www.youtube.com/user/The1878Hindu "Youtube")[](https://open.spotify.com/show/5yESTCj0iikA81EP3uXkQC "Spotify")[](https://t.me/THnewsupdates "Telegram")
+
+November 22, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
+
+[Search for topics, people, articles...](https://www.thehindu.com/search/)
+
+[India](https://www.thehindu.com/news/national/) [World](https://www.thehindu.com/news/international/) [Movies](https://www.thehindu.com/entertainment/movies/) [Sport](https://www.thehindu.com/sport/) [Data](https://www.thehindu.com/data/) [Health](https://www.thehindu.com/sci-tech/health/) [Opinion](https://www.thehindu.com/opinion/) [Sci-Tech](https://www.thehindu.com/sci-tech/) [Business](https://www.thehindu.com/business/) [Premium](https://www.thehindu.com/premium/)
+
+[Videos](https://www.thehindu.com/videos/) [Podcast](https://www.thehindu.com/podcast/) [Photos](https://www.thehindu.com/photos/) [Crossword](https://crossword.thehindu.com/?utm_source=thehindu&utm_medium=mainmenu) [Newsletter Subscription](https://www.thehindu.com/newsletter-subscription/)
+
+Events
+
+[Litfest](https://www.thehindu.com/litfest/) [The Huddle](https://www.thehindu.com/the-huddle/)
 
 * [ABOUT US](https://www.thehindu.com/aboutus/)
 * [TERMS OF USE](https://www.thehindu.com/termsofuse/)
@@ -469,8 +579,6 @@ Email: [web.thehindu@thehindu.co.in](mailto:web.thehindu@thehindu.co.in)
 
 Effective Date - 18th January 2023
 
-Read in App
-
 [![Return to frontpage](https://www.thehindu.com/theme/images/th-online/1x1_spacer.png)](https://www.thehindu.com/)
 
 [](https://play.google.com/store/apps/details?id=com.mobstac.thehindu "Google Play")[](https://apps.apple.com/in/app/the-hindu-news/id771672321 "Apple Store")
@@ -521,11 +629,11 @@ Read in App
 
 ##### Trending on The Hindu
 
-[News](https://www.thehindu.com/news/) [Jharkhand elections phase 1 polling LIVE](https://www.thehindu.com/elections/jharkhand-assembly/first-phase-of-polling-for-jharkhand-assembly-polls-live-updates-on-november-13-2024/article68859540.ece) [Kanguva movie review](https://www.thehindu.com/entertainment/movies/kanguva-movie-review-a-fiery-suriya-headlines-sivas-damp-squib-of-a-film/article68868014.ece) [Bitcoin price](https://www.thehindu.com/sci-tech/technology/bitcoin-rises-above-90000-on-trump-euphoria/article68866597.ece) [Tamil Nadu rains: Schools, colleges closed](https://www.thehindu.com/news/national/tamil-nadu/tn-rains-nov-13-schools-colleges-closed-in-several-districts-amid-heavy-rain/article68862198.ece) [Mission Impossible: The final reckoning trailer released](https://www.thehindu.com/entertainment/movies/mission-impossible-the-final-reckoning-trailer-tom-cruise-returns-as-ethan-hunt-for-possible-franchise-conclusion/article68858418.ece) [Bitcoin price](https://www.thehindu.com/sci-tech/technology/record-breaking-bitcoin-rally-nears-90000-on-trump-boost/article68858244.ece) [Tulsi Gabbard news](https://www.thehindu.com/news/international/trump-taps-former-democrat-tulsi-gabbard-as-us-intel-chief-senator-marco-rubio-as-secretary-of-state/article68865674.ece) [Haryana earthquake](https://www.thehindu.com/news/national/haryana/mild-tremors-of-magnitude-3-on-richter-scale-hit-haryana/article68858374.ece) [AMD Layoffs](https://www.thehindu.com/sci-tech/technology/amd-to-cut-4-of-global-workforce-as-it-focuses-on-ai-chip-development/article68866599.ece)
+[News](https://www.thehindu.com/news/) [Maharashtra elections 1947-2024 timeline](https://thehindu.com/infographics/2024-11-22/maharashtra-congress-rule-to-coalition-rajya-1947-2024/index.html) [Delhi air pollution](https://www.thehindu.com/news/cities/Delhi/declining-air-quality-in-india-a-primer-on-how-to-survive-living-with-poor-aqi/article68855523.ece) [Bitcoin price](https://www.thehindu.com/sci-tech/technology/bitcoin-rises-above-90000-on-trump-euphoria/article68866597.ece) [Tamil Nadu rains: Schools, colleges closed](https://www.thehindu.com/news/national/tamil-nadu/tn-rains-nov-13-schools-colleges-closed-in-several-districts-amid-heavy-rain/article68862198.ece) [Mission Impossible: The final reckoning trailer released](https://www.thehindu.com/entertainment/movies/mission-impossible-the-final-reckoning-trailer-tom-cruise-returns-as-ethan-hunt-for-possible-franchise-conclusion/article68858418.ece) [Bitcoin price](https://www.thehindu.com/sci-tech/technology/record-breaking-bitcoin-rally-nears-90000-on-trump-boost/article68858244.ece) [Tulsi Gabbard news](https://www.thehindu.com/news/international/trump-taps-former-democrat-tulsi-gabbard-as-us-intel-chief-senator-marco-rubio-as-secretary-of-state/article68865674.ece) [Haryana earthquake](https://www.thehindu.com/news/national/haryana/mild-tremors-of-magnitude-3-on-richter-scale-hit-haryana/article68858374.ece) [AMD Layoffs](https://www.thehindu.com/sci-tech/technology/amd-to-cut-4-of-global-workforce-as-it-focuses-on-ai-chip-development/article68866599.ece)
 
 ##### Trending on Group sites
 
-[Stock Market Live Updates](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-1st-april-2024/article68012792.ece) [Stocks to buy today](https://www.thehindubusinessline.com/markets/stocks-that-will-see-action-todaymarch-22-2024/article67979002.ece) [Domestic cricket](https://sportstar.thehindu.com/cricket/domestic/) [Mogun Bagan](https://sportstar.thehindu.com/football/indian-football/mohun-bagan-super-giant-vs-bengaluru-fc-live-score-durand-cup-2024-semifinal-mbsg-v-bfc-highlights-updates/article68572298.ece) [Paralympics 2024](https://sportstar.thehindu.com/olympics/paris-paralympics-2024/news/sumit-antil-live-updates-paris-2024-paralympics-javelin-throw-f64-final-highlights-details-medal/article68597541.ece) [Gold Rate Today](https://www.thehindubusinessline.com/gold-rate-today/Chennai/) [Silver Rate Today](https://www.thehindubusinessline.com/silver-rate-today/) [BJP is back to its favourite bogey: ‘The Other’](https://frontline.thehindu.com/columns/bjp-modi-aggresive-hindutva-language-jharkhand-assembly-election-2024-hemant-soren/article68841509.ece?utm_source=th&utm_medium=footer&utm_campaign=internal) [Editor’s Note: Putting Muslims in their place?](https://frontline.thehindu.com/the-nation/waqf-amendment-bill-impact-indian-muslims-reforms-consultative-process-othering-backwardness/article68849163.ece?utm_source=th&utm_medium=footer&utm_campaign=internal) [Frontline Current Issue](https://frontline.thehindu.com/current-issue/)
+[Stock Market Live Updates](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-1st-april-2024/article68012792.ece) [Stocks to buy today](https://www.thehindubusinessline.com/markets/stocks-that-will-see-action-todaymarch-22-2024/article67979002.ece) [Domestic cricket](https://sportstar.thehindu.com/cricket/domestic/) [Mohun Bagan](https://sportstar.thehindu.com/football/indian-football/mohun-bagan-super-giant-vs-bengaluru-fc-live-score-durand-cup-2024-semifinal-mbsg-v-bfc-highlights-updates/article68572298.ece) [Paralympics 2024](https://sportstar.thehindu.com/olympics/paris-paralympics-2024/news/sumit-antil-live-updates-paris-2024-paralympics-javelin-throw-f64-final-highlights-details-medal/article68597541.ece) [Gold Rate Today](https://www.thehindubusinessline.com/gold-rate-today/Chennai/) [Silver Rate Today](https://www.thehindubusinessline.com/silver-rate-today/) [BJP is back to its favourite bogey: ‘The Other’](https://frontline.thehindu.com/columns/bjp-modi-aggresive-hindutva-language-jharkhand-assembly-election-2024-hemant-soren/article68841509.ece?utm_source=th&utm_medium=footer&utm_campaign=internal) [Editor’s Note: Putting Muslims in their place?](https://frontline.thehindu.com/the-nation/waqf-amendment-bill-impact-indian-muslims-reforms-consultative-process-othering-backwardness/article68849163.ece?utm_source=th&utm_medium=footer&utm_campaign=internal) [Frontline Current Issue](https://frontline.thehindu.com/current-issue/)
 
 [](https://whatsapp.com/channel/0029VaAvwQJ90x34WZ6FDg36)[](https://twitter.com/The_Hindu)[](https://www.facebook.com/thehindu)[](https://www.instagram.com/the_hindu/?ref=badge)[](https://www.linkedin.com/school/the-hindu/)[](https://www.youtube.com/user/The1878Hindu)[](https://open.spotify.com/show/5yESTCj0iikA81EP3uXkQC)[](https://t.me/THnewsupdates)
 
