@@ -111,6 +111,8 @@ Most recent
 
 [23-11-2024
 
+Warsaw Mayor runs for Polish president as ruling party’s candidate](https://www.euractiv.com/section/politics/news/warsaw-mayor-runs-for-polish-president-as-ruling-partys-candidate/)[23-11-2024
+
 COP29 braces for new deal after poorer nations reject climate offer](https://www.euractiv.com/section/eet/news/cop29-braces-for-new-deal-after-poorer-nations-reject-climate-offer/)[23-11-2024
 
 Putin says Russia will keep testing new missile in combat](https://www.euractiv.com/section/global-europe/news/putin-says-russia-will-keep-testing-new-missile-in-combat/)[22-11-2024
@@ -127,9 +129,7 @@ EU regulators scrap probe into Apple’s e-book rules after complaint was withdr
 
 Hungarian presidency secures full Schengen membership for Bulgaria, Romania](https://www.euractiv.com/section/politics/news/hungarian-presidency-secures-full-schengen-membership-for-bulgaria-romania/)[22-11-2024
 
-Hungary seeks organ transplant increase, boost to organ recipient life quality and reduced stigma](https://www.euractiv.com/section/health-consumers/news/hungary-seeks-organ-transplant-increase-boost-to-organ-recipient-life-quality-and-reduced-stigma/)[22-11-2024
-
-Orbán to host Netanyahu in Hungary as EU divided over ICC decision](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_S8N3FE00M:1546537596)
+Hungary seeks organ transplant increase, boost to organ recipient life quality and reduced stigma](https://www.euractiv.com/section/health-consumers/news/hungary-seeks-organ-transplant-increase-boost-to-organ-recipient-life-quality-and-reduced-stigma/)
 
 ###### Advertisement
 
