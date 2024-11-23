@@ -61,6 +61,8 @@
         * [Vases](https://www.crystalclassics.com/galway/vases/galvasecoll.htm)
     * [Halcyon Days](https://www.crystalclassics.com/halcyondays/halcyondays.htm)
         * [Halcyon Days](https://www.crystalclassics.com/halcyondays/halcyondays.htm)
+    * [Josephinenhutte](https://www.crystalclassics.com/josephinenhutte/josephinehutte.htm)
+        * [Josephinenhutte](https://www.crystalclassics.com/josephinenhutte/josephinehutte.htm)
     * [Kosta Boda](https://www.crystalclassics.com/kosta/bodastem.htm)
         * [Most Popular](https://www.crystalclassics.com/kosta/kostatopten.htm)
         * [SALE & Specials](https://www.crystalclassics.com/kosta/kbspecials.htm)
