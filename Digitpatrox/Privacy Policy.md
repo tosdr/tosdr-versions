@@ -20,16 +20,16 @@ Saturday, November 23 2024
 
 Latest
 
-* [A CIO’s perspective on enterprise AI strategies and the importance of freeing up employee time](https://digitpatrox.com/a-cios-perspective-on-enterprise-ai-strategies-and-the-importance-of-freeing-up-employee-time/)
-* [8 Tech Nonprofits Changing the World with Innovation](https://digitpatrox.com/8-tech-nonprofits-changing-the-world-with-innovation/)
-* [Today’s Premier League matches – EPL fixtures for Saturday, November 23](https://digitpatrox.com/todays-premier-league-matches-epl-fixtures-for-saturday-november-23/)
-* [Windows 10 KB5046714 update fixes bug preventing app uninstalls](https://digitpatrox.com/windows-10-kb5046714-update-fixes-bug-preventing-app-uninstalls/)
-* [DirecTV and Dish’s on-and-off merger saga switches back to off](https://digitpatrox.com/directv-and-dishs-on-and-off-merger-saga-switches-back-to-off/)
-* [NYT Strands Today: Hints, Answers & Spangram for November 23](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-23/)
-* [AI PCs not yet understood well enough to deliver full benefits, study suggests](https://digitpatrox.com/ai-pcs-not-yet-understood-well-enough-to-deliver-full-benefits-study-suggests/)
-* [OpenAI is thinking about building its own browser – Computerworld](https://digitpatrox.com/openai-is-thinking-about-building-its-own-browser-computerworld/)
-* [The JBL Tune 770NC Headphones Are Less Than $80 for Black Friday](https://digitpatrox.com/the-jbl-tune-770nc-headphones-are-less-than-80-for-black-friday/)
-* [Florida High School hacked by ransomware gang; SSNs and credit cards stolen](https://digitpatrox.com/florida-high-school-hacked-by-ransomware-gang-ssns-and-credit-cards-stolen/)
+* [AWS and Anthropic ink deal to accelerate model development, enhance AI chips – Computerworld](https://digitpatrox.com/aws-and-anthropic-ink-deal-to-accelerate-model-development-enhance-ai-chips-computerworld/)
+* [The Best Black Friday Deals on Laptops](https://digitpatrox.com/the-best-black-friday-deals-on-laptops/)
+* [What to Do If Your Head Really Hurts](https://digitpatrox.com/what-to-do-if-your-head-really-hurts/)
+* [Controversial Windows Recall Feature Now Available for Testing](https://digitpatrox.com/controversial-windows-recall-feature-now-available-for-testing/)
+* [Lenovo ThinkPad P1 Gen 7 review](https://digitpatrox.com/lenovo-thinkpad-p1-gen-7-review/)
+* [This Complete Ethical Hacking Bundle Is Now $35](https://digitpatrox.com/this-complete-ethical-hacking-bundle-is-now-35/)
+* [I review phones for a living — here’s what I look for when shopping for Black Friday deals](https://digitpatrox.com/i-review-phones-for-a-living-heres-what-i-look-for-when-shopping-for-black-friday-deals/)
+* [QNAP pulls buggy QTS firmware causing widespread NAS issues](https://digitpatrox.com/qnap-pulls-buggy-qts-firmware-causing-widespread-nas-issues/)
+* [Elon Musk is directing harassment toward individual federal workers](https://digitpatrox.com/elon-musk-is-directing-harassment-toward-individual-federal-workers/)
+* [Today’s Wordle Answer and Hints for November 23, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-23-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/LbzKBUBRncZqMbAUKE7SYR-1200-80.jpg)](https://digitpatrox.com/a-cios-perspective-on-enterprise-ai-strategies-and-the-importance-of-freeing-up-employee-time/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3611594-0-07390200-1732335968-shutterstock_2370612067_16.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/aws-and-anthropic-ink-deal-to-accelerate-model-development-enhance-ai-chips-computerworld/)
     
-    [A CIO’s perspective on enterprise AI strategies and the importance of freeing up employee time](https://digitpatrox.com/a-cios-perspective-on-enterprise-ai-strategies-and-the-importance-of-freeing-up-employee-time/)
+    [AWS and Anthropic ink deal to accelerate model development, enhance AI chips – Computerworld](https://digitpatrox.com/aws-and-anthropic-ink-deal-to-accelerate-model-development-enhance-ai-chips-computerworld/)
     
-    4 minutes ago
+    9 minutes ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241122-8-awesome-technology-nonprofits-you-should-know-about.jpg)](https://digitpatrox.com/8-tech-nonprofits-changing-the-world-with-innovation/)
+* [![](https://lifehacker.com/imagery/articles/01JDAXXYCE5JAQHRKNX9ECG2G0/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-black-friday-deals-on-laptops/)
     
-    [8 Tech Nonprofits Changing the World with Innovation](https://digitpatrox.com/8-tech-nonprofits-changing-the-world-with-innovation/)
+    [The Best Black Friday Deals on Laptops](https://digitpatrox.com/the-best-black-friday-deals-on-laptops/)
     
-    8 minutes ago
+    37 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/tQy96u8kKJuW4JqV3DrkMh-1200-80.jpg)](https://digitpatrox.com/todays-premier-league-matches-epl-fixtures-for-saturday-november-23/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729693230/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-What-to-Do-When-Your-Head-Really-Hurts-1024)](https://digitpatrox.com/what-to-do-if-your-head-really-hurts/)
     
-    [Today’s Premier League matches – EPL fixtures for Saturday, November 23](https://digitpatrox.com/todays-premier-league-matches-epl-fixtures-for-saturday-november-23/)
+    [What to Do If Your Head Really Hurts](https://digitpatrox.com/what-to-do-if-your-head-really-hurts/)
     
-    12 minutes ago
+    47 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2021/04/17/windows-10-sapphire.jpg)](https://digitpatrox.com/windows-10-kb5046714-update-fixes-bug-preventing-app-uninstalls/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg)](https://digitpatrox.com/controversial-windows-recall-feature-now-available-for-testing/)
     
-    [Windows 10 KB5046714 update fixes bug preventing app uninstalls](https://digitpatrox.com/windows-10-kb5046714-update-fixes-bug-preventing-app-uninstalls/)
+    [Controversial Windows Recall Feature Now Available for Testing](https://digitpatrox.com/controversial-windows-recall-feature-now-available-for-testing/)
+    
+    49 minutes ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/NdsxiriHvzyz8rnoBgB9nS-1200-80.jpg)](https://digitpatrox.com/lenovo-thinkpad-p1-gen-7-review/)
+    
+    [Lenovo ThinkPad P1 Gen 7 review](https://digitpatrox.com/lenovo-thinkpad-p1-gen-7-review/)
     
     1 hour ago
-    
-* [![](https://cdn.vox-cdn.com/thumbor/OklE5CLWhC37ZnP5IuJ6iufq8j4=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23630242/acastro_STK052_02.jpg)](https://digitpatrox.com/directv-and-dishs-on-and-off-merger-saga-switches-back-to-off/)
-    
-    [DirecTV and Dish’s on-and-off merger saga switches back to off](https://digitpatrox.com/directv-and-dishs-on-and-off-merger-saga-switches-back-to-off/)
-    
-    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [4 minutes ago
+* [9 minutes ago
     
-    ### A CIO’s perspective on enterprise AI strategies and the importance of freeing up employee time](https://digitpatrox.com/a-cios-perspective-on-enterprise-ai-strategies-and-the-importance-of-freeing-up-employee-time/)
-* [8 minutes ago
+    ### AWS and Anthropic ink deal to accelerate model development, enhance AI chips – Computerworld](https://digitpatrox.com/aws-and-anthropic-ink-deal-to-accelerate-model-development-enhance-ai-chips-computerworld/)
+* [37 minutes ago
     
-    ### 8 Tech Nonprofits Changing the World with Innovation](https://digitpatrox.com/8-tech-nonprofits-changing-the-world-with-innovation/)
-* [12 minutes ago
+    ### The Best Black Friday Deals on Laptops](https://digitpatrox.com/the-best-black-friday-deals-on-laptops/)
+* [47 minutes ago
     
-    ### Today’s Premier League matches – EPL fixtures for Saturday, November 23](https://digitpatrox.com/todays-premier-league-matches-epl-fixtures-for-saturday-november-23/)
+    ### What to Do If Your Head Really Hurts](https://digitpatrox.com/what-to-do-if-your-head-really-hurts/)
 
 Most Popular Topics
 
-* [September 9, 2024
+* [September 15, 2024
     
-    ### Apple’s iPhone 16 event: how to watch and what to expect](https://digitpatrox.com/apples-iphone-16-event-how-to-watch-and-what-to-expect/)
-* [4 weeks ago
+    ### Is the ‘Sugarcane’ Workout Any Better Than Regular Track Intervals?](https://digitpatrox.com/is-the-sugarcane-workout-any-better-than-regular-track-intervals/)
+* [3 weeks ago
     
-    ### Best Heated Blankets | Electric Blankets](https://digitpatrox.com/best-heated-blankets-electric-blankets/)
-* [October 22, 2024
+    ### How to Transcribe YouTube Videos](https://digitpatrox.com/how-to-transcribe-youtube-videos/)
+* [2 weeks ago
     
-    ### How to fix 0xC1900101 errors on Windows 11, 10](https://digitpatrox.com/how-to-fix-0xc1900101-errors-on-windows-11-10/)
+    ### Hands on with AI features in Windows 11 Paint and Notepad](https://digitpatrox.com/hands-on-with-ai-features-in-windows-11-paint-and-notepad/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### I review phones for a living — here’s what I look for when shopping for Black Friday deals](https://digitpatrox.com/i-review-phones-for-a-living-heres-what-i-look-for-when-shopping-for-black-friday-deals/)
 * [3 hours ago
     
-    ### AI PCs not yet understood well enough to deliver full benefits, study suggests](https://digitpatrox.com/ai-pcs-not-yet-understood-well-enough-to-deliver-full-benefits-study-suggests/)
-* [4 hours ago
+    ### QNAP pulls buggy QTS firmware causing widespread NAS issues](https://digitpatrox.com/qnap-pulls-buggy-qts-firmware-causing-widespread-nas-issues/)
+* [3 hours ago
     
-    ### OpenAI is thinking about building its own browser – Computerworld](https://digitpatrox.com/openai-is-thinking-about-building-its-own-browser-computerworld/)
-* [4 hours ago
-    
-    ### The JBL Tune 770NC Headphones Are Less Than $80 for Black Friday](https://digitpatrox.com/the-jbl-tune-770nc-headphones-are-less-than-80-for-black-friday/)
+    ### Elon Musk is directing harassment toward individual federal workers](https://digitpatrox.com/elon-musk-is-directing-harassment-toward-individual-federal-workers/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
