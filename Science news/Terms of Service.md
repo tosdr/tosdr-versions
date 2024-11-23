@@ -94,13 +94,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Refurbished heart pacemakers work like new](https://www.sciencenews.org/article/refurbished-heart-pacemakers-work-new)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")12 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")18 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [Ancient Central Americans built a massive fish-trapping system](https://www.sciencenews.org/article/ancient-fish-trapping-system-maya)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")14 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")20 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Satellite space junk might wreak havoc on the stratosphere](https://www.sciencenews.org/article/satellite-space-junk-havoc-stratosphere)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")19 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")November 22, 2024
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
