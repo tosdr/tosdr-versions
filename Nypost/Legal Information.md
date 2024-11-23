@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Matt Gaetz reveals if he will rejoin Congress next year](https://nypost.com/2024/11/22/us-news/matt-gaetz-reveals-he-will-not-rejoin-congress-when-it-convenes-early-next-year/)
+[Trump announces picks for FDA, CDC, HUD, and surgeon general](https://nypost.com/2024/11/22/us-news/donald-trump-cabinet-news-11-22-2024/)
 
 Privacy Notice Highlights
 =========================
