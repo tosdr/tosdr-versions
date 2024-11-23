@@ -1,16 +1,18 @@
 [Skip to main content](#main-content)
 
-Save 50% Sitewide! DETAILS
+Save 40% Sitewide! DETAILS
 
-BLACK FRIDAY SNEAK PEEK
+\+ Free Gift With Purchase! DETAILS
+
+SAVE 40% SITEWIDE
 
 Close the Modal
 
-#### Save 50% Sitewide!
+#### Huge Sale Going on Now!
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 11/22/2024 8AM ET - 11/23/2024 6AM ET.
+Offer valid 11/23/2024 8AM ET - 11/29/2024 6AM ET.
 
 Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
@@ -18,13 +20,13 @@ FREE GIFT WITH PURCHASE
 
 Close the Modal
 
-#### Free Tommie Copper Baseball Hat on Orders $125+
+#### All Orders $150+ Get a Free Gift!
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
 
-Offer valid 10/11/2024 8AM ET - 10/12/2024 6AM ET.
+Offer valid 11/23/2024 8AM ET - 11/29/2024 6AM ET.
 
-Free Baseball Hat automatically applied on orders $125+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Free gift automatically applied in cart on all orders $150+. Order subtotal must reach $150 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
