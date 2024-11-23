@@ -220,18 +220,18 @@ This site is protected by FingerprintJS and its [privacy policy](https://dev.fin
 
 ### Newest members
 
-* [![kanker123421dsa](/data/avatars/s/111/111523.jpg?1732306253)](http://hackvshack.net/members/kanker123421dsa.111523/)
-* [![emir3253](/data/avatars/s/111/111522.jpg?1732306003)](http://hackvshack.net/members/emir3253.111522/)
-* [![bibmbaryss](/data/avatars/s/111/111521.jpg?1732305946)](http://hackvshack.net/members/bibmbaryss.111521/)
-* [![mustafa25](/data/avatars/s/111/111520.jpg?1732305720)](http://hackvshack.net/members/mustafa25.111520/)
-* [![razsx](/data/avatars/s/111/111519.jpg?1732305287)](http://hackvshack.net/members/razsx.111519/)
-* [![BinAcktiv](/data/avatars/s/111/111517.jpg?1732304461)](http://hackvshack.net/members/binacktiv.111517/)
-* [](http://hackvshack.net/members/zukax.111516/)
-* [![killer345](/data/avatars/s/111/111515.jpg?1732304267)](http://hackvshack.net/members/killer345.111515/)
-* [![franktupa](/data/avatars/s/111/111514.jpg?1732303784)](http://hackvshack.net/members/franktupa.111514/)
-* [![jasamtata1](/data/avatars/s/111/111513.jpg?1732303693)](http://hackvshack.net/members/jasamtata1.111513/)
-* [![rubbb](/data/avatars/s/111/111512.jpg?1732303676)](http://hackvshack.net/members/rubbb.111512/)
-* [](http://hackvshack.net/members/ilyxaeblan.111511/)
+* [![IsaiahXDDD](/data/avatars/s/111/111554.jpg?1732327163)](http://hackvshack.net/members/isaiahxddd.111554/)
+* [![xyrtzii](/data/avatars/s/111/111553.jpg?1732326547)](http://hackvshack.net/members/xyrtzii.111553/)
+* [](http://hackvshack.net/members/jacob-fiset.111552/)
+* [![beshketfun123](/data/avatars/s/111/111551.jpg?1732326350)](http://hackvshack.net/members/beshketfun123.111551/)
+* [](http://hackvshack.net/members/kent52.111550/)
+* [![queirozz2k24_](/data/avatars/s/111/111549.jpg?1732325274)](http://hackvshack.net/members/queirozz2k24_.111549/)
+* [](http://hackvshack.net/members/ricibabo.111548/)
+* [](http://hackvshack.net/members/raresfed.111547/)
+* [![Xafhiew](/data/avatars/s/111/111546.jpg?1732320001)](http://hackvshack.net/members/xafhiew.111546/)
+* [![8dtttt](/data/avatars/s/111/111545.jpg?1732317535)](http://hackvshack.net/members/8dtttt.111545/)
+* [![akiking](/data/avatars/s/111/111544.jpg?1732316628)](http://hackvshack.net/members/akiking.111544/)
+* [](http://hackvshack.net/members/viix.111543/)
 
 ### Partners
 
@@ -247,19 +247,19 @@ This site is protected by FingerprintJS and its [privacy policy](https://dev.fin
 
 Threads
 
-2,712
+2,714
 
 Messages
 
-23,331
+23,339
 
 Members
 
-111,517
+111,553
 
 Latest member
 
-[BinAcktiv](http://hackvshack.net/members/binacktiv.111517/)
+[xyrtzii](http://hackvshack.net/members/xyrtzii.111553/)
 
 Most visitors online was 4044 , on 21 Oct 2024
 
@@ -267,15 +267,15 @@ Most visitors online was 4044 , on 21 Oct 2024
 
 Members online
 
-71
+30
 
 Guests online
 
-276
+178
 
 Total visitors
 
-347
+208
 
 Totals may include hidden visitors.
 
