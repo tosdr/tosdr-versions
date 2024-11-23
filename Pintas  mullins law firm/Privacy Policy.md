@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Power outages: nursing homes’ temperature safety](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages-scaled.jpg "Power Outages: Nursing Homes’ Temperature Safety")](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/ "Power Outages: Nursing Homes’ Temperature Safety")
+[![Brookhaven clergy abuse lawyer](https://www.pintas.com/wp-content/uploads/2020/11/sexual-assault-lawyer-new-york-clergy-abuse-brookhaven.jpg "Brookhaven Clergy Abuse Lawyer")](https://www.pintas.com/near-me/new-york/brookhaven/clergy-sexual-abuse "Brookhaven Clergy Abuse Lawyer")
 
-[#### Power Outages: Nursing Homes’ Temperature Safety](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/)
+[#### Brookhaven Clergy Abuse Lawyer](https://www.pintas.com/near-me/new-york/brookhaven/clergy-sexual-abuse)
 
-[![Is mesothelioma a slow growing cancer?](https://www.pintas.com/wp-content/uploads/2020/07/is-mesothelioma-a-slow-growing-cancer-scaled.jpg "Is Mesothelioma a Slow Growing Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-a-slow-growing-cancer/ "Is Mesothelioma a Slow Growing Cancer?")
+[![Can you request a second opinion for an autopsy?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-request-a-second-opinion-for-an-autopsy.jpg "Can You Request a Second Opinion For an Autopsy?")](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/ "Can You Request a Second Opinion For an Autopsy?")
 
-[#### Is Mesothelioma a Slow Growing Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-a-slow-growing-cancer/)
+[#### Can You Request a Second Opinion For an Autopsy?](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/)
 
-[![Can a chest x-ray show mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-can-a-chest-xray-show-mesothelioma.jpg "Can a Chest X-ray Show Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-a-chest-xray-show-mesothelioma/ "Can a Chest X-ray Show Mesothelioma?")
+[![How can you help prevent nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-can-you-help-prevent-nursing-home-abuse-scaled.jpg "How Can You Help Prevent Nursing Home Abuse?")](https://www.pintas.com/faq/how-can-you-help-prevent-nursing-home-abuse/ "How Can You Help Prevent Nursing Home Abuse?")
 
-[#### Can a Chest X-ray Show Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-a-chest-xray-show-mesothelioma/)
+[#### How Can You Help Prevent Nursing Home Abuse?](https://www.pintas.com/faq/how-can-you-help-prevent-nursing-home-abuse/)
 
 ### Injured?  
 Tell Us What Happened.
