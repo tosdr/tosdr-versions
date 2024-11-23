@@ -103,7 +103,6 @@
 * [Communities Recruitment](https://www.questionpro.com/help/community-recruitment.html)
 * [TubePulse](https://www.questionpro.com/help/tubepulse-video-rating.html)
 * [Open Card Sorting](https://www.questionpro.com/help/open-card-sorting.html)
-* [Map Question Type](https://www.questionpro.com/help/maps-question-type.html)
 
 #### [Question settings _arrow\_right_](#collapse6071)
 
