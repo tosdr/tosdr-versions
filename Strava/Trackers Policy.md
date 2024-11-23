@@ -25,7 +25,7 @@
 Cookie Policy
 =============
 
-Effective Date: September 30, 2024
+Effective Date: November 22, 2024
 
 Set your cookies preferences
 ----------------------------
@@ -135,6 +135,7 @@ In some cases, you can manage or opt out of third-party cookies on a cookie-by-c
 | Meta Pixel | [https://www.facebook.com/help/336858938174917/](https://www.facebook.com/help/336858938174917/) | [https://www.facebook.com/policies/cookies](https://www.facebook.com/policies/cookies) |
 | Branch | [https://branch.app.link/optout](https://branch.app.link/optout) | [https://www.branchapp.com/privacy](https://www.branchapp.com/privacy) |
 | Snap | [https://snap.com/cookie-settings](https://snap.com/cookie-settings) | [https://snap.com/cookie-policy](https://snap.com/cookie-policy) |
+| TikTok | [https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en](https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en) | [https://www.tiktok.com/legal/page/us/privacy-policy/en](https://www.tiktok.com/legal/page/us/privacy-policy/en) |
 
 Do Not Track (DNT)
 ------------------
