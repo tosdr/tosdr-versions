@@ -342,11 +342,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/aleksandar-rafajlovic/slikao-sam-airtona-senu/ruke.jpg?itok=8P4r33rL)](http://seecult.org/galerija/galerija-umetnika/aleksandar-rafajlovic/slikao-sam-airtona-senu)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike/paintings/kruska.jpg?itok=RXBa_Jjz)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dzimi-tenor-skc.jpg?itok=1I6Rs1of)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/40-majska-izlozba-ulupuds/rakanovic-biljana-lana.jpg?itok=RZnbrUbw)](http://seecult.org/galerija/foto-galerija/foto-arhiva/40-majska-izlozba-ulupuds)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
