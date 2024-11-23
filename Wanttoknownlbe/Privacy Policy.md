@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/nu-de-totale-censuurfase-van-wereldwijde-tirannie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/wetenschappelijke-dwalingen-of/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
