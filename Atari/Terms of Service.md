@@ -6,7 +6,6 @@
 * [Games](https://www.atari.com/collections/games)
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
-* [Sale](https://www.atari.com/collections/early-access-sale)
 
 [Log in](https://atari.com/customer_authentication/redirect?locale=en&region_country=US) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
@@ -21,7 +20,6 @@
 * [Games](https://www.atari.com/collections/games)
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
-* [Sale](https://www.atari.com/collections/early-access-sale)
 
 Search [Log in](https://atari.com/customer_authentication/redirect?locale=en&region_country=US)
 
@@ -733,8 +731,6 @@ Close
 ### Your cart is empty
 
 Loading...
-
-$20 Back $40 Back $60 Back | |
 
 Subtotal
 
