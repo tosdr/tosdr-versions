@@ -5,9 +5,7 @@
 [![MalCare](https://www.malcare.com/wp-content/uploads/2022/08/malcare-white-logo.png)](https://www.malcare.com/)
 
 * FeaturesExpand
-    *  
-        
-        [![](https://www.malcare.com/wp-content/uploads/2022/09/Frame-37535.png)
+    * [![](https://www.malcare.com/wp-content/uploads/2022/09/Frame-37535.png)
         
         ###### Malware Scanner
         
@@ -414,6 +412,10 @@ Copyright 2024 Malcare. All Rights Reserved.
 We use cookies to provide and improve our services. By using our site, you consent to cookies. [Learn More](https://www.malcare.com/cookie-policy/)
 
 We use cookies to provide and improve our services. By using our site, you consent to cookies. [Learn More ->](https://www.malcare.com/cookie-policy/)
+
+Black Friday Sale – 35% off on all plans!
+
+[Check The Plans!](https://www.malcare.com/pricing/?loc=BFCM2024&utm_medium=website)
 
 ![](https://px.ads.linkedin.com/collect/?pid=5419777&fmt=gif)
 
