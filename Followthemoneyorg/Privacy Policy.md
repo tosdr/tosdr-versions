@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![disclosure map](/assets/logos/isrequirementsmap.png)](http://www.followthemoney.org/research/institute-research/best-practices-for-independent-spending-part-one)
+[![Who gave to Jeb Bush's gubernatorial campaigns?](/assets/Images/teasers/small/JebBushIndNonInd98-02.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-jeb-bush/)
 
-How does your state stack up for essential disclosure requirements?
+Jeb Bush: 55 percent of his gubernatorial contributions came from individuals.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
