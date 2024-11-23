@@ -185,14 +185,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [**After Gaetz, Senate scrutiny moves to Trump's other picks** | Washington Week with The Atlantic](https://video.nhpbs.org/video/clip1-rvidij?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Brenda Lee had a fully formed career before even signing a contract** | American Masters](https://video.nhpbs.org/video/brenda-lee-had-a-fully-formed-career-before-even-signing-a-contract-ngi7jd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**What Happened to America's First Megacity?** | Overview](https://video.nhpbs.org/video/what-happened-to-americas-first-megacity-yemsv8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Brenda Lee's career started when she was just 8 years old** | American Masters](https://video.nhpbs.org/video/brenda-lees-career-started-when-she-was-just-8-years-old-zovyyx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Black Friday** | The State We're In](https://video.nhpbs.org/video/black-friday-leyrci?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 22, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-22-2024-pbs-news-hour-full-episode-1732251601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**What Happened to America's First Megacity?** | Overview](https://video.nhpbs.org/video/what-happened-to-americas-first-megacity-yemsv8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Valley Ventures Paths Across Silicon Valley** | Roadtrip Nation](https://video.nhpbs.org/video/valley-ventures-paths-across-silicon-valley-gf9mbw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Sebastien Lai, Jonathan Price** | Firing Line](https://video.nhpbs.org/video/sebastien-lai-jonathan-price-olnsyh?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**November 22, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-22-2024-i0eqtw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trans Rights; Women in Government** | To The Contrary](https://video.nhpbs.org/video/trans-rights-women-in-government-jwm1mw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 22, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-22-2024-i0eqtw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
