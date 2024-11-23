@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Peckham Rye Station Square today.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5228-2-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
+    
+    ### [What is going on with Peckham Rye Station Square?](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
+    
     [![The new mural on the Old Kent Road railway bridge](https://southwarknews.co.uk/wp-content/uploads/2024/11/home_from_home_okr_mural_211124-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
     
     ### [Ugly railway bridge on Old Kent Road gets bright makeover ahead of area’s transformation](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
@@ -51,10 +55,6 @@
     [![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
     
     ### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-    
-    [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
-    
-    ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Peckham Rye Station Square today.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5228-2-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
+    
+    ### [What is going on with Peckham Rye Station Square?](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
+    
     [![The new mural on the Old Kent Road railway bridge](https://southwarknews.co.uk/wp-content/uploads/2024/11/home_from_home_okr_mural_211124-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
     
     ### [Ugly railway bridge on Old Kent Road gets bright makeover ahead of area’s transformation](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
@@ -136,10 +140,6 @@ View All Result
     [![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
     
     ### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-    
-    [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
-    
-    ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
