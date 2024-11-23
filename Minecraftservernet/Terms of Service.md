@@ -4,7 +4,7 @@ Accept Cookies and Terms
 
 [Leave Site](https://google.com/)
 
-[![Minecraft Servers](minecraft-servers.png.pagespeed.ce.7HRxM5qnQd.png)](https://minecraft-server.net/)
+[![Minecraft Servers](pagespeed_static/1.JiBnMqyl6S.gif)](https://minecraft-server.net/)
 
 * [Home](https://minecraft-server.net/)
 * [Server Login](https://minecraft-server.net/user_cpl/)
@@ -29,17 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
+[![minetown-5791](plugins/MineCraft/icons/25x25xminetown-5791_1731099950.png.pagespeed.ic.SSZzXPSpx_.jpg)
 
-Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![KretMCPL](plugins/MineCraft/icons/25x25xKretMCPL_1716618508.png.pagespeed.ic.csO5XeMY1u.png)
+Minetown - 1.8 - 1.21.3](https://minecraft-server.net/details/minetown-5791/ "Minetown - 1.8 - 1.21.3")[![StarTux](plugins/MineCraft/icons/25x25xStarTux_1675022703.png.pagespeed.ic.9LkoBbpSSY.png)
 
-KretMC.PL - STAFF NEEDED](https://minecraft-server.net/details/KretMCPL/ "KretMC.PL - STAFF NEEDED")[![TheosisMC](plugins/MineCraft/icons/25x25xTheosisMC_1723365735.png.pagespeed.ic.rP37hCYpnu.png)
+Cavetale](https://minecraft-server.net/details/StarTux/ "Cavetale")[![Origins-Reborn-MC](plugins/MineCraft/icons/25x25xOrigins-Reborn-MC_1717474049.png.pagespeed.ic.w13Lk2sXfR.png)
 
-TheosisMC • Hardcore Survival • 1.21.3](https://minecraft-server.net/details/TheosisMC/ "TheosisMC • Hardcore Survival • 1.21.3")[![projectsurvival](plugins/MineCraft/icons/25x25xprojectsurvival_1731348416.png.pagespeed.ic.hQETp6pFjB.png)
+Origins Reborn MC - A new take on Origins](https://minecraft-server.net/details/Origins-Reborn-MC/ "Origins Reborn MC - A new take on Origins")[![Folas1337](plugins/MineCraft/icons/Folas1337_1706960544.png)
 
-MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4](https://minecraft-server.net/details/projectsurvival/ "MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1731694115.png.pagespeed.ic.GN-yKvGqoG.png)
+~~ MetaUnion ~~ \[Friendly Community, No Pay2Win, RPG Survival, Creative\]](https://minecraft-server.net/details/Folas1337/ "~~ MetaUnion ~~ [Friendly Community, No Pay2Win, RPG Survival, Creative]")[![TheCavernMC](plugins/MineCraft/icons/25x25xTheCavernMC_1730281447.png.pagespeed.ic.l_7w2MQwbX.png)
 
-Fermium MC - SURVIVAL](https://minecraft-server.net/details/A2rath/ "Fermium MC - SURVIVAL")
+The Cavern \[1.21\] Survival Towny](https://minecraft-server.net/details/TheCavernMC/ "The Cavern [1.21] Survival Towny")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06308 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06047 - Created by [Debaucus](https://debauc.us/)
