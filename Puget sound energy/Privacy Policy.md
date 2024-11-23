@@ -359,32 +359,26 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[Outage Map Alert Updated Nov 22, 12:00 PM](#collapseOne)  
+[Outage Map Alert Updated Nov 23, 12:15 PM](#collapseOne)  
 
-We are aware of an issue with our outage map. It is not reflecting all of the customers whose power has been restored, and is not showing a set of customers who are still without power. Our internal systems for identifying outages and prioritizing restorations are still functioning. The map issue appears to stem from a technology change-over for the mapping system that was implemented this fall.
+As storm recovery continues, we are aware that the Outage Map is not showing some customers who are still without power. Our internal systems for identifying outages and prioritizing restorations are still functioning.
 
-We know it is frustrating for our customers and we are working hard to reconcile the data showing on the map. We ask that you continue to report outages if needed.
+We know it is frustrating for our customers and are working hard to reconcile the outages shown on the map. Please continue to report outages, as needed.
 
 Our crews will continue to work around the clock until the last customer is restored.
 
-[Storm alert Updated Nov 22, 11:59 PM](#collapseOne)  
+[Storm alert Updated Nov 23, 10:00 AM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-##### Updated ETRs
+##### Customer Updates
 
-To our customers without power:
+As of 10 a.m., 85,000 customers remain without power, and more than 150 crews will be in the field today working to restore power. We will be prioritizing bringing the remaining schools back online and moving from neighborhood to neighborhood to repair distribution-level outages. We added more new crews overnight and also have crews wrapping up restoration efforts in other parts of our service area moving in to provide additional support to King County.
 
-We know it has been a difficult three days. And we have some hard news to share for some of our customers. Due to the substantial amount of damage we are encountering from the hurricane force winds of the storm, which has made our work slower than expected, we have to push back estimated restoration times for customers.
+Crews made steady progress restoring power to customers overnight. Since the onset of the storm, we’ve restored power to more than 570,000 customers and brought all hospitals back online. We have nearly completed work on our high-voltage transmission system and repaired 47 of 49 substations – this work was necessary to complete so that power can reach your community.
 
-We will have three restoration times:
-
-* Saturday at 12pm
-* Sunday at 6pm
-* Monday at 10am
-
-We are in the process this evening of updating our outage map with the estimated restoration times for your outage. We are working as hard as we can to get power restored to you sooner than the times listed above. As our field crews gain more detailed information about your outage, we will update the outage map with a more specific time.  
+While we’re making progress, the substantial amount of damage we are encountering from the hurricane force winds of the storm has made our work slower than expected, and we had to push back estimated restoration times for customers yesterday evening. We know that you are disappointed to be without power for this extended period. We appreciate your patience—we are working as hard as we can to restore your power as quickly as possible.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
