@@ -4,7 +4,7 @@ Features
 
 [#### Podcast Hosting
 
-Host unlimited podcasts on one account](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)[#### Distribution
+Host unlimited shows on one account](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)[#### Distribution
 
 Easily submit your podcast everywhere](https://transistor.fm/features/distribution/)[#### Analytics
 
@@ -14,11 +14,11 @@ Automatically transcribe your podcast](https://transistor.fm/features/ai-transcr
 
 Podcast website builder](https://transistor.fm/features/podcast-website-builder/)[#### Network Website Builder
 
-Build a website to showcase your network](https://transistor.fm/features/network-websites/)[#### Private Podcasts
+A website for your podcast network](https://transistor.fm/features/network-websites/)[#### Private Podcasts
 
 Create a private podcast for your team](https://transistor.fm/features/private-podcasts/)[#### Dynamic Ads
 
-Automatically insert ads in episodes.](https://transistor.fm/features/dynamic-ads/)[#### Collaborate
+Automatically insert ads in episodes](https://transistor.fm/features/dynamic-ads/)[#### Collaborate
 
 Invite team members to your podcast](https://transistor.fm/features/invite-multiple-collaborators/)[#### Integrations
 
@@ -36,13 +36,13 @@ Company
 
 [#### Blog
 
-Read our latest podcasting articles and guides.](https://transistor.fm/blog/)[#### About Us
+Read our latest podcasting articles and guides](https://transistor.fm/blog/)[#### About Us
 
-Transistor's story so far.](https://transistor.fm/about/)[#### Our customers
+Transistor's story so far](https://transistor.fm/about/)[#### Our Customers
 
 Who is using Transistor for their podcast?](https://transistor.fm/customers/)[#### Reviews
 
-Podcast hosting reviews.](https://transistor.fm/reviews/)
+Podcast hosting reviews](https://transistor.fm/reviews/)
 
 ### Recent Posts
 
@@ -50,31 +50,39 @@ Podcast hosting reviews.](https://transistor.fm/reviews/)
 
 [View all Posts](https://transistor.fm/blog/)
 
-[Sign in](https://dashboard.transistor.fm/signin) [Start free trial](https://dashboard.transistor.fm/signup)
+[Sign in](https://dashboard.transistor.fm/signin/) [Start free trial](https://dashboard.transistor.fm/signup) [Sign in](https://dashboard.transistor.fm/signin/) [Free trial](https://dashboard.transistor.fm/signup/)
 
-[Dashboard](https://dashboard.transistor.fm/)
+[Dashboard](https://dashboard.transistor.fm/) [Dashboard](https://dashboard.transistor.fm/)
 
 Toggle menu
 
+### Menu
+
+[#### Pricing
+
+How much does it cost?](https://transistor.fm/pricing/)[#### Blog
+
+Read our latest podcasting articles and guides](https://transistor.fm/blog/)[#### About Us
+
+Transistor's story so far](https://transistor.fm/about/)[#### Our Customers
+
+Who is using Transistor for their podcast?](https://transistor.fm/customers/)[#### Reviews
+
+Podcast hosting reviews](https://transistor.fm/reviews/)
+
 ### Features
+
+[View all](https://transistor.fm/features/)
 
 [#### Podcast Hosting
 
-Host unlimited podcasts on one account](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)[#### Distribution
+Host unlimited shows on one account](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)[#### Distribution
 
 Easily submit your podcast everywhere](https://transistor.fm/features/distribution/)[#### Analytics
 
 Podcast analytics software](https://transistor.fm/features/podcast-analytics-software/)[#### AI Transcription
 
-Automatically transcribe your podcast](https://transistor.fm/features/ai-transcription/)[#### Website Builder
-
-Podcast website builder](https://transistor.fm/features/podcast-website-builder/)[View all Features](https://transistor.fm/features/)
-
-### Menu
-
-[How to start a podcast](https://transistor.fm/how-to-start-a-podcast/) [Pricing](https://transistor.fm/pricing/) [Blog](https://transistor.fm/blog/) [About us](https://transistor.fm/about/) [Our customers](https://transistor.fm/customers/) [Reviews](https://transistor.fm/reviews/)
-
-[Dashboard](https://dashboard.transistor.fm/) [Sign In](https://dashboard.transistor.fm/signin) [Start free trial](https://dashboard.transistor.fm/signup)
+Automatically transcribe your podcast](https://transistor.fm/features/ai-transcription/)
 
 Terms of Service
 ================
