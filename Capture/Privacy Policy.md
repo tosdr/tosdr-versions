@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[❄️❄️ Give the gift of memories this holiday season! Ship your order by 12/3 for delivery by 12/24! ❄️❄️](#)
+[❄️❄️ Give the gift of memories this holiday season! Ship your order by 12/3 for delivery by 12/24! ❄️❄️](https://www.capture.com/pages/gift-ideas)
 
      
 
