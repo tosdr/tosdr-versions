@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Evans-mail-rob-susp-USPIS-326x245.jpg)](https://cwbchicago.com/2024/11/150000-reward-offered-for-information-about-postal-service-robber.html "$150,000 reward offered for information about postal service robber")
+
+Woodlawn
+
+### [$150,000 reward offered for information about postal service robber](https://cwbchicago.com/2024/11/150000-reward-offered-for-information-about-postal-service-robber.html "$150,000 reward offered for information about postal service robber")
+
+[November 21, 2024 9:24 AM](https://cwbchicago.com/2024/11)
+
+The U.S. Postal Inspection service is offering up to $150,000 in holiday cash for information that helps them identify and arrest the man who robbed a mail carrier.[](https://cwbchicago.com/2024/11/150000-reward-offered-for-information-about-postal-service-robber.html "$150,000 reward offered for information about postal service robber")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Vincent-Parks-cc-326x245.jpg)](https://cwbchicago.com/2024/11/busted-with-211-catalytic-converters-in-a-storage-unit-man-gets-probation.html "Busted with 211 catalytic converters in a storage unit, man gets probation")
+
+Citywide
+
+### [Busted with 211 catalytic converters in a storage unit, man gets probation](https://cwbchicago.com/2024/11/busted-with-211-catalytic-converters-in-a-storage-unit-man-gets-probation.html "Busted with 211 catalytic converters in a storage unit, man gets probation")
+
+[November 21, 2024 6:29 AM](https://cwbchicago.com/2024/11)
+
+When Chicago police arrested two men and seized 211 catalytic converters last year, prosecutors said it was the culmination of a nearly year-long investigation. Now, one of those men has pleaded guilty to playing a role in the crime. His sentence? Probation.[](https://cwbchicago.com/2024/11/busted-with-211-catalytic-converters-in-a-storage-unit-man-gets-probation.html "Busted with 211 catalytic converters in a storage unit, man gets probation")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/JH471425-suspect-1-326x245.jpg)](https://cwbchicago.com/2024/11/cops-seek-brazen-gunmen-who-killed-victim-at-south-side-gas-station-video.html "Cops seek brazen gunmen who killed victim at South Side gas station (video)")
 
 Auburn Gresham
@@ -252,26 +272,6 @@ Auburn Gresham
 [November 21, 2024 5:35 AM](https://cwbchicago.com/2024/11)
 
 Video released by Chicago police shows just how brazen our city’s violent killers can be. Cops are hoping the footage, recorded at a Gresham gas station last month, will lead them to a couple of murderers.[](https://cwbchicago.com/2024/11/cops-seek-brazen-gunmen-who-killed-victim-at-south-side-gas-station-video.html "Cops seek brazen gunmen who killed victim at South Side gas station (video)")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/12/Joshua-Savado-326x245.jpg)](https://cwbchicago.com/2024/11/4%c2%bd-years-for-knocking-a-man-unconscious-on-a-red-line-train-in-the-loop.html "4½ years for knocking a man unconscious on a Red Line train in the Loop")
-
-CTA
-
-### [4½ years for knocking a man unconscious on a Red Line train in the Loop](https://cwbchicago.com/2024/11/4%c2%bd-years-for-knocking-a-man-unconscious-on-a-red-line-train-in-the-loop.html "4½ years for knocking a man unconscious on a Red Line train in the Loop")
-
-[November 20, 2024 6:43 PM](https://cwbchicago.com/2024/11)
-
-A man with a violent criminal history has been sentenced to 4½ years for knocking a man unconscious on a Red Line train in the Loop.[](https://cwbchicago.com/2024/11/4%c2%bd-years-for-knocking-a-man-unconscious-on-a-red-line-train-in-the-loop.html "4½ years for knocking a man unconscious on a Red Line train in the Loop")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Teon-Ticey-326x245.jpg)](https://cwbchicago.com/2024/11/man-charged-with-robbing-off-duty-cop-at-gunpoint-in-rogers-park.html "Man charged with robbing off-duty cop at gunpoint in Rogers park")
-
-Rogers Park
-
-### [Man charged with robbing off-duty cop at gunpoint in Rogers park](https://cwbchicago.com/2024/11/man-charged-with-robbing-off-duty-cop-at-gunpoint-in-rogers-park.html "Man charged with robbing off-duty cop at gunpoint in Rogers park")
-
-[November 20, 2024 6:41 PM](https://cwbchicago.com/2024/11)
-
-Prosecutors have charged a man with robbing two people, including an off-duty Chicago police officer, in Rogers Park over the weekend.[](https://cwbchicago.com/2024/11/man-charged-with-robbing-off-duty-cop-at-gunpoint-in-rogers-park.html "Man charged with robbing off-duty cop at gunpoint in Rogers park")
 
 Search
 
