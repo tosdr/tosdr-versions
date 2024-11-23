@@ -259,15 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/national-news/1662008/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-line-up.html)
-
-Picture credit: Matt Crossick/PA Wire
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Who are the guests on tonight's Graham Norton Show on BBC? Here's the line-up](https://www.derrynow.com/news/national-news/1662008/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-here-s-the-line-up.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Council issues advice in advance of Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Council issues advice in advance of Storm Bert")](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
 
 Photo from Storm Emma
@@ -276,15 +267,6 @@ Photo from Storm Emma
 
 [Derry Council issues advice in advance of Storm Bert](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man pleads guilty to charge of sexual assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man pleads guilty to charge of sexual assault")](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
-
-Derry courthouse
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man pleads guilty to charge of sexual assault](https://www.derrynow.com/news/newsletter-derrynow/1662156/derry-man-pleads-guilty-to-charge-of-sexual-assault.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspended sentence for man and woman who attacked two people in Derry with hammer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man and woman who attacked two people in Derry with hammer")](https://www.derrynow.com/news/newsletter-derrynow/1662233/suspended-sentence-for-man-and-woman-who-attacked-two-people-in-derry-with-hammer.html)
 
@@ -295,28 +277,12 @@ Derry Crown Court
 [Suspended sentence for man and woman who attacked two people in Derry with hammer](https://www.derrynow.com/news/newsletter-derrynow/1662233/suspended-sentence-for-man-and-woman-who-attacked-two-people-in-derry-with-hammer.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man charged with possession of cocaine and possession with intent to supply](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with possession of cocaine and possession with intent to supply")](https://www.derrynow.com/news/newsletter-derrynow/1662157/derry-man-charged-with-possession-of-cocaine-and-possession-with-intent-to-supply.html)
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
 
-Derry courthouse
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with possession of cocaine and possession with intent to supply](https://www.derrynow.com/news/newsletter-derrynow/1662157/derry-man-charged-with-possession-of-cocaine-and-possession-with-intent-to-supply.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady")](https://www.derrynow.com/news/derrynow/1662091/male-33-due-to-appear-before-court-after-being-charged-in-connection-with-suspicious-man-report-in-limavady.html)
-
-[Home](https://www.derrynow.com/)
-
-[Male (33) due to appear before court after being charged in connection with suspicious man report in Limavady](https://www.derrynow.com/news/derrynow/1662091/male-33-due-to-appear-before-court-after-being-charged-in-connection-with-suspicious-man-report-in-limavady.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who admitted charge of arson endangering life to be sentenced in January](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who admitted charge of arson endangering life to be sentenced in January")](https://www.derrynow.com/news/newsletter-derrynow/1662153/man-who-admitted-charge-of-arson-endangering-life-to-be-sentenced-in-january.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who admitted charge of arson endangering life to be sentenced in January](https://www.derrynow.com/news/newsletter-derrynow/1662153/man-who-admitted-charge-of-arson-endangering-life-to-be-sentenced-in-january.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Saturday, November 23, 2024](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway")](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
 
@@ -325,12 +291,28 @@ Derry courthouse
 [IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza")](https://www.derrynow.com/story-telling/pictures---videos/1662246/in-pictures-st-joseph-s-boys-school-coffee-morning-for-uisce-for-gaza.html)
+[![Santa thrills the crowds as Derry lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
+
+The magical scene in Guildhall Square on Friday night as the Christmas Tree is switched on.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal")](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two men killed and three other people hospitalised in Donegal collision](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/story-telling/pictures---videos/1662811/in-pictures-santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: St. Joseph's Boys' School coffee morning for Uisce for Gaza](https://www.derrynow.com/story-telling/pictures---videos/1662246/in-pictures-st-joseph-s-boys-school-coffee-morning-for-uisce-for-gaza.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/story-telling/pictures---videos/1662811/in-pictures-santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story")](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
 
@@ -341,11 +323,34 @@ Martina Tierney will be the guest speaker at December's meeting of Ballinascreen
 [Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Sections of Letterkenny and Foyle roads in Derry currently flooded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sections of Letterkenny and Foyle roads in Derry currently flooded")](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ava Boyle (left) and Rebecca Cunning (right)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ava Boyle (left) and Rebecca Cunning (right)")](https://www.derrynow.com/news/newsletter-derrynow/1662397/ulster-call-two-city-of-derry-rugby-players-into-their-development-squads.html)
+
+Ava Boyle (left) and Rebecca Cunning (right)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ulster call two City of Derry rugby players into their development squads](https://www.derrynow.com/news/newsletter-derrynow/1662397/ulster-call-two-city-of-derry-rugby-players-into-their-development-squads.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession")](https://www.derrynow.com/story-telling/pictures---videos/1662940/in-pictures-crowds-line-the-streets-for-derry-s-magical-christmas-lights-switch-on-procession.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession](https://www.derrynow.com/story-telling/pictures---videos/1662940/in-pictures-crowds-line-the-streets-for-derry-s-magical-christmas-lights-switch-on-procession.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/story-telling/pictures---videos/1662811/in-pictures-santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
 
@@ -409,13 +414,6 @@ Multimedia
 
 [WATCH: Tiernan Lynch 'proud and privileged' to be new Derry City manager](https://www.derrynow.com/news/derry-sport/1660322/watch-tiernan-lynch-proud-and-privileged-to-be-new-derry-city-manager.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1657938/in-pictures-st-mary-s-ardmore-gac-dinner-dance-in-the-maldron-hotel.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: St Mary's Ardmore GAC Dinner Dance in The Maldron Hotel](https://www.derrynow.com/story-telling/pictures---videos/1657938/in-pictures-st-mary-s-ardmore-gac-dinner-dance-in-the-maldron-hotel.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,14 +515,44 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
+[![Requiem Mass for popular Derry-born priest Fr William John Bradley](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Requiem Mass for popular Derry-born priest Fr William John Bradley")](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
+
+The late Fr John Bradley.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Requiem Mass for popular Derry-born priest Fr William John Bradley](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal")](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two men killed and three other people hospitalised in Donegal collision](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.derrynow.com/resizer/165/93/true/2024_11_23/manhole_failure-1732357859019.jpg--.jpg?1732357859089 "Sections of Letterkenny and Foyle roads in Derry currently flooded")](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Poor weather conditions impacting roads across Causeway Coast and Glens District](https://www.derrynow.com/resizer/165/93/true/1487065443216.jpg--.jpg?1487065444000 "Poor weather conditions impacting roads across Causeway Coast and Glens District")](https://www.derrynow.com/news/local-news/1662884/poor-weather-conditions-impacting-roads-across-causeway-coast-and-glens-district.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Poor weather conditions impacting roads across Causeway Coast and Glens District](https://www.derrynow.com/news/local-news/1662884/poor-weather-conditions-impacting-roads-across-causeway-coast-and-glens-district.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Saturday, November 23, 2024](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Santa thrills the crowds as Derry lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
+[![Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/resizer/165/93/true/2024_11_22/22-11-24_DCSDC_xmas_lights_03-1732313992914.jpg--.jpg?1732313993818 "Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
 
 The magical scene in Guildhall Square on Friday night as the Christmas Tree is switched on.
 
@@ -532,42 +560,6 @@ The magical scene in Guildhall Square on Friday night as the Christmas Tree is s
 
 [Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](https://www.derrynow.com/resizer/165/93/true/2024_11_22/lkHzp7Wh9D4G9rkahNxGFlBw-1732276474916.png--.png?1732276475073 "Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story")](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
-
-Martina Tierney will be the guest speaker at December's meeting of Ballinascreen Historical Society.
-
-[Home](https://www.derrynow.com/)
-
-[Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Council issues advice in advance of Storm Bert](https://www.derrynow.com/resizer/165/93/true/1521025345268.jpg--.jpg?1521025345000 "Derry Council issues advice in advance of Storm Bert")](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
-
-Photo from Storm Emma
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry Council issues advice in advance of Storm Bert](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Bank of Ireland defibrillator awareness event.](https://www.derrynow.com/resizer/165/93/true/2024_11_22/MF1-1732286957533.jpg--.jpg?1732286965371 "Bank of Ireland defibrillator awareness event.")](https://www.derrynow.com/news/home/1662400/bank-of-ireland-begins-roll-out-of-defibrillators-across-branch-network-in-magherafelt.html)
-
-Nuala McDaid, Senior Branch Manager with some of the attendees at the Bank of Ireland defibrillator awareness event.
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Bank of Ireland Begins Roll Out of Defibrillators Across Branch Network in Magherafelt](https://www.derrynow.com/news/home/1662400/bank-of-ireland-begins-roll-out-of-defibrillators-across-branch-network-in-magherafelt.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mid Ulster District Council’s sixth Enterprise Week](https://www.derrynow.com/resizer/165/93/true/2024_11_22/1_%281%29-1732286559823.jpg--.jpg?1732286560549 "Mid Ulster District Council’s sixth Enterprise Week")](https://www.derrynow.com/news/mid-ulster-district-council/1662398/businesses-in-mid-ulster-learn-to-create-connect-inspire-at-successful-enterprise-week.html)
-
-Pictured at the launch event of Enterprise Week 2024, 'The Road Ahead: Economic Insights and Trends for 2025, are, l–r, Susan Hayes Culleton, Host; Catherine Martin, Cavanagh Kelly; Stephen McCammon,
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Businesses in Mid Ulster learn to ‘Create, Connect, Inspire’ at Successful Enterprise Week](https://www.derrynow.com/news/mid-ulster-district-council/1662398/businesses-in-mid-ulster-learn-to-create-connect-inspire-at-successful-enterprise-week.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
