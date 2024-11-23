@@ -275,13 +275,6 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
-![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
-
-Football Fridays Game of the week | Playoffs Rd 2- Lowndes at Buford - At 7:30 P.M.
------------------------------------------------------------------------------------
-
-[WATCH LIVE!](https://www.gpb.org/sports/football/match/2024/11/22/2024-ghsa-playoffs-round-2-lowndes-at-buford)
-
 Messages
 --------
 
