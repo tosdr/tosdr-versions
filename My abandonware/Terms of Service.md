@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Brick Buster](https://www.myabandonware.com/game/brick-buster-tar)
 * [Mumble Jumble](https://www.myabandonware.com/game/mumble-jumble-taq)
 * [Word Yo!](https://www.myabandonware.com/game/word-yo-tap)
 * [Dirt Bike Maniacs](https://www.myabandonware.com/game/dirt-bike-maniacs-tao)
 * [Zoo Tycoon 2: Extinct Animals](https://www.myabandonware.com/game/zoo-tycoon-2-extinct-animals-tam)
-* [Zoo Tycoon 2: Marine Mania](https://www.myabandonware.com/game/zoo-tycoon-2-marine-mania-tak)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
