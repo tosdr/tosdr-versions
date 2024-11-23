@@ -285,7 +285,7 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 
 * Products
     
-    * [Arkose Labs' Solution](https://www.arkoselabs.com/platform "Arkose Labs' Solution")
+    * [Arkose Labs Solution](https://www.arkoselabs.com/platform "Arkose Labs Solution")
     * [Support Services](https://www.arkoselabs.com/services/ "Support Services")
     * [Integrations](https://www.arkoselabs.com/integrations/ "Integrations")
     * [Warranties](https://www.arkoselabs.com/warranties/ "Warranties")
