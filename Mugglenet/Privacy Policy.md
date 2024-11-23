@@ -278,15 +278,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
+Minerva McGonagall had been briefly engaged to a Muggle at the age of 18 but broke off the engagement when she realized it would mean having to sacrifice her other ambitions.
 
 ### Potter History
 
-July 18, 2007 – The New York Times posts an early review of Harry Potter and the Deathly Hallows, which sets off fury among fans.
+November 19, 2004 – Harry Potter and the Prisoner of Azkaban DVD launch party is held in London; DVD released in the United Kingdom the following day.
 
 ### Potter Quote
 
-“The Elder Wand cannot serve me properly, Severus, because I am not its true master. The Elder Wand belongs to the wizard who killed its last owner. You killed Albus Dumbledore. While you live, Severus, the Elder Wand cannot be truly mine.”
+“I can’t tell if you’re making a joke or if you’re just…French.”
 
 [](#)
 
