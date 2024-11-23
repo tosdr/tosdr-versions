@@ -31,6 +31,152 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz reducidos en Ecuador del lunes 25 al jueves 28 de noviembre
+=========================================================================
+
+El Ministerio de Energía informó que la condición de los caudales que alimentan las hidroeléctricas permite una reducción en los horarios
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Ecuador lleva 60 días con cortes de luz diarios.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-19-2.jpg)
+
+El **Ministerio de Energía y Minas** informó sobre las condiciones hidrológicas presentes en Ecuador y compartió los nuevos **horarios de cortes de luz** hasta el jueves 28 de noviembre.
+
+### Más noticias
+
+* [Ministerio de Energía suspende cortes de luz en varios sectores de Quito este viernes](https://www.elcomercio.com/actualidad/quito/sectores-suspension-cortes-luz-quito.html "Ministerio de Energía suspende cortes de luz en varios sectores de Quito este viernes")
+* [Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?](https://www.elcomercio.com/actualidad/negocios/ecuador-lleva-60-dias-cortes-luz-esta-cerca-salir-crisis.html "Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?")
+* [Cortes de luz en Quito para este sábado 23 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-sabado-23-de-noviembre.html "Cortes de luz en Quito para este sábado 23 de noviembre")
+
+Mejora en las condiciones hidrológicas
+--------------------------------------
+
+La **Cartera de Energía** compartió un comunicado la noche del viernes 22 de noviembre par informar sobre el estado de los caudales que alimentan las hidroeléctricas.
+
+El comunicado señala que, tras el constante monitoreo de las **condiciones hidrológicas**, se ha visto un incremento en el nivel de esos caudales.
+
+En ese contexto los **cronogramas de suspensión del servicio eléctrico** para el período entre el lunes 25 y el jueves 28 de noviembre se ajustarán con una reducción.
+
+Los nuevos horarios contemplan racionamientos de **entre seis y siete horas** a escala nacional.
+
+Ecuador cumple hoy 60 días con apagones
+---------------------------------------
+
+Este sábado, 23 de noviembre de 2024, **se cumplen dos meses de cortes de luz p**rogramados en Ecuador.
+
+La crisis energética, provocada por un déficit de 1 080 megavatios (MW) y una de las peores sequías en la historia del país, afecta todos los aspectos de la vida diaria de los ecuatorianos. Y no tiene una fecha exacta de solución.
+
+Sin embargo, el presidente Daniel Noboa aseguró que los apagones finalizarán en diciembre.
+
+Horarios de cortes de luz en Ecuador
+------------------------------------
+
+Las nueve distribuidoras de energía en [Ecuador](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") publicaron los horarios de cortes de luz de sus unidades de negocio este sábado 23 de noviembre. Los racionamientos comtemplan entre seis y siete horas de apagones.
+
+[Aquí puede revisar los horarios de cortes de luz](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/") según su provincia y ciudad.
+
+> 📍¡IMPORTANTE!  
+>   
+> Informamos sobre los horarios de suspensión del servicio de energía eléctrica para el periodo comprendido desde el lunes 25 hasta el jueves 28 de noviembre a escala nacional.  
+>   
+> 🔸Programación➡️ [https://t.co/4YfPN33hy5](https://t.co/4YfPN33hy5) [pic.twitter.com/cBqtGcnLY9](https://t.co/cBqtGcnLY9)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 23, 2024](https://twitter.com/RecNaturalesEC/status/1860295016909824114?ref_src=twsrc%5Etfw)
+
+En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes
+========================================================================================
+
+El mercado laboral es clave para una transición verde en lo económico, social y ambiental.
+------------------------------------------------------------------------------------------
+
+![Un empleo verde reduce el impacto ambiental de empresas y sectores económicos hasta alcanzar niveles sostenibles. Foto:](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-55-1.jpg)
+
+Frente a las crisis que afronta Ecuador y el planeta hablar de transición verde o ecológica en lo económico, social y ambiental no es opcional. La Organización Internacional del Trabajo (OIT) resume así: sin producción más responsable con el ambiente no habrá un mejor futuro para los trabajadores y comunidades. Y, sin empleos decentes, no habrá sociedades y producción sostenibles.
+
+Más noticias
+------------
+
+* [La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica](https://www.elcomercio.com/actualidad/negocios/la-morosidad-sigue-en-aumento-en-ecuador-debido-al-desempleo-y-la-crisis-economica.html "La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica")
+* [Estas son las cifras del empleo adecuado en Ecuador](https://www.elcomercio.com/actualidad/negocios/cifras-empleo-adecuado-ecuador.html "Estas son las cifras del empleo adecuado en Ecuador")
+
+El mercado laboral es clave para avanzar en esta transición verde, de formas múltiples y transversales. Entre las variables están la salud de los trabajadores, la evolución de las profesiones, la formación, la reconversión profesional, las relaciones laborales, la inclusión social. Tomando en cuenta este antecedente es importante entender el concepto que engloba un empleo verde.
+
+¿Qué es un empleo verde?
+------------------------
+
+Un empleo verde reduce el impacto ambiental de empresas y sectores económicos hasta alcanzar niveles sostenibles. Ayuda a reducir el consumo de energía, materias primas y agua con estrategias eficientes. 
+
+Según la OIT, también descarboniza la economía y baja las emisiones de CO2. Disminuye todas las formas de desechos y de contaminación; protege y restablece los ecosistemas y su biodiversidad. 
+
+Pero no todos estos trabajos conocidos mundialmente como ‘green jobs’ pueden considerarse decentes. Es decir, que ofrezcan salarios y protección social adecuados, condiciones laborales seguras y se respeten los derechos de los trabajadores. Un ejemplo de esto es el empleo informal del reciclado donde se recuperan materias primas, pero el proceso suele ser peligroso y afecta al medioambiente y a la salud. Y, esto, a su vez, se refleja en ingresos económicos bajos.
+
+**¿Qué es un trabajo verde y decente?** 
+----------------------------------------
+
+El precio que la sociedad paga por las consecuencias de la contaminación o la mala salud debe reflejarse en los costos pagados en el mercado, enfatiza la OIT. Por esto, los empleos verdes deben ser decentes. 
+
+Para la OIT, se entiende por trabajo decente el que ofrece “oportunidades para que los hombres y mujeres puedan conseguir un trabajo decente y productivo en condiciones de libertad, equidad, seguridad y dignidad humana. Resume las aspiraciones de las personas en su vida laboral en cuanto a ingresos, voz, reconocimiento, estabilidad familiar, desarrollo personal, justicia e igualdad de género”.
+
+Tomando en cuenta estos dos conceptos, los empleos verdes se perfilan para hacer frente a dos desafíos determinantes que afronta el planeta: 
+
+1. Evitar un cambio climático peligroso y potencialmente inmanejable con la protección del ambiente. 
+2. Ofrecer trabajo decente, que permita bajar la pobreza y la inseguridad 
+
+**¿Por qué hablar de empleos verdes?** 
+---------------------------------------
+
+La actual crisis energética y de agua que se vive en Ecuador pone en evidencia la fragilidad de los recursos naturales. Los empleos verdes, que promueven prácticas sostenibles y el uso eficiente de los recursos, son parte de la solución. Al apostar, por ejemplo, por más energías renovables como la solar, eólica o geotérmica y gestionar el agua de manera más eficiente se generarían oportunidades laborales mientras se protege el medio ambiente.
+
+La escasez de agua y los cortes en el suministro energético están estrechamente relacionadas con el estiaje. Y frente a esto promover empleos verdes ayudaría a mitigar el impacto, por ejemplo, con industrias enfocadas a reducir sus emisiones de carbono, a través de la generación de energía limpia. Agricultura sostenible, reforestación, protección de las cuencas hidrográficas y una serie de soluciones basadas en la naturaleza ahora son transversales al ambiente y al desarrollo de una economía verde.
+
+¿Cómo avanza el Ecuador en empleo verde?
+----------------------------------------
+
+El Ministerio del Trabajo con apoyo del Banco Interamericano de Desarrollo (BID) lleva adelante la estrategia ‘Empleos Verdes’. El objetivo es apoyar la recuperación de empleos verdes y resilientes con enfoque de género. Para esto se trabaja en la mejora de las capacidades del Ministerio y el fortalecimiento del servicio público de empleo.
+
+Tras un estudio se identificaron tres sectores potenciales para crear trabajos verdes, en el contexto de la recuperación económica sostenible con inclusión social. Estos son: **energía, transporte y agricultura**.
+
+Con esa línea, el 4 de marzo de 2022, esta cartera de Estado emitió la resolución MDT-2022-024, en la que dispone la ejecución de dos lineamientos para:
+
+* Incorporar una oferta de capacitación híbrida en empleos verdes para el desarrollo de habilidades
+* Un nuevo modelo de empleo verde para brindar más oportunidades a grupos de atención prioritaria
+
+Como parte del primer lineamiento, este ministerio explica que capacitaron con enfoque verde a 44 pequeños productores de banano en cultivo de ciclo perenne. 36 personas se certificaron por competencias. Otras 96 personas de albañilería, en cambio, se certificaron en proyectos hídricos del sector de la construcción.
+
+Ambas certificaciones están disponibles para que la ciudadanía se evalúe y certifique, a través de los evaluadores habilitados a escala nacional, como el Secap.
+
+Respecto al segundo lineamiento, en la [plataforma del Servicio Público de Empleo](https://www.serviciodeempleo.gov.co/inicio) (SPE) se implementaron [opciones que permiten a los empleadores](https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/empVerde/index.jsf "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/empVerde/index.jsf") publicar ofertas laborales para empleos verdes, y filtros para que la ciudadanía busque y se vincule a estas oportunidades.
+
+¿Qué resultados tiene este nuevo modelo de empleo verde?
+--------------------------------------------------------
+
+Para calcular el nivel de empleo verde en las vacantes publicadas en la plataforma del Servicio Público de Empleo y las colocaciones logradas, durante el 2023 se tomó en cuenta la clasificación de ocupaciones, según su grado de greening (nivel de transición hacia un crecimiento verde o amigable con el medio ambiente de cada ocupación). Y, por otra parte, se adoptó una metodología aceptada internacionalmente para determinar puestos de trabajo que se clasifiquen como verdes.
+
+El análisis reveló que de **125 011 vacantes** publicadas en la plataforma del SPE y asimismo de las **73 493** contrataciones logradas, el 97,5% pudieron ser clasificadas, según su nivel de greening.
+
+Adicionalmente, tras una limpieza de la base de datos y la aplicación de la metodología se calculó cuántas de las 73 493 colocaciones exitosas corresponden a empleos verdes. El resultado fue que 12 001 trabajos son considerados como verdes. Esto representa el 16,3%.
+
+  
+
+Los políticos han renunciado a gobernar
+=======================================
+
+Ecuador enfrenta miedo, crisis política y dominio económico sobre las instituciones.
+------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+Desde hace tiempo se viene repitiendo que **Ecuador** es un país ingobernable, que los **ecuatorianos** somos conflictivos. Sin embargo, los **ecuatorianos** que viven en el exterior son calificados como gente pacífica, trabajadora, responsable y disciplinada. Los culpables no son los **gobernados**, sino los **políticos** que nos gobiernan; más bien, que han dejado de gobernar.
+
+Estamos sufriendo una etapa de miedo y sobresalto, no sabemos qué puede pasarnos en el **futuro inmediato**, no tenemos energía eléctrica, no tenemos **seguridad**, no sabemos si conservaremos el empleo. Lo que creíamos seguro se esfuma. Cuando el miedo se generaliza, los **electores** buscan un hombre fuerte, alguien que se muestre seguro y prometa milagros.
+
+Los favoritos son dos autoritarismos: Correísmo  y Noboísmo. La **política** ya no persigue el bien común, persigue intereses, cobra venganzas, atropella la **Constitución** y las leyes, inutiliza al **parlamento** y pastorea la justicia.
+
+Nada de eso es gobierno, es un juego de simulaciones que Zygmunt Bauman resume así: “Los políticos fingen gobernar, mientras que quienes ostentan el **poder económico** fingen ser gobernados. Para mantener las formas, la gente se acerca a regañadientes a los **colegios electorales** cada pocos años, simulando ser **ciudadanos**”.
+
+El pleito de Telconex, tal vez, está demostrando que los poderosos del **país** han decidido prescindir de los **políticos** y dejar de simular que son gobernados. En el **Consejo Nacional Electoral** están imponiendo, al margen de toda ley y toda lógica democrática, a unos vocales perennizados mediante vallas y policías. Quien les da **seguridad** les dará luego **instrucciones**.
+
+Los **electores** somos arrinconados a decidir entre dos bandos con claras **tendencias autoritarias**. Para una parte de los **electores** el peor temor es volver al pasado de **autoritarismo** y **corrupción** y para otra parte la peor opción es entregar el futuro a otro **autoritarismo**. Desde que perdimos a los partidos, perdimos a los **políticos** y a la **Política**.
+
 Deliciosa torta de tres leches para endulzar tu día
 ===================================================
 
@@ -112,101 +258,6 @@ Preparación de la torta de tres leches
 * Puedes **decorar** con frutas frescas o chocolate rallado al gusto.
 
 La **receta de la torna de tres leches** es perfecta para cualquier ocasión, ya sea un cumpleaños, una celebración familiar o simplemente para disfrutar en casa. Su **sabor dulce** y su textura suave harán que todos quieran repetir. ¡Anímate a prepararla y sorprende a tus seres queridos con este clásico postre latinoamericano!
-
-Los políticos han renunciado a gobernar
-=======================================
-
-Ecuador enfrenta miedo, crisis política y dominio económico sobre las instituciones.
-------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-Desde hace tiempo se viene repitiendo que **Ecuador** es un país ingobernable, que los **ecuatorianos** somos conflictivos. Sin embargo, los **ecuatorianos** que viven en el exterior son calificados como gente pacífica, trabajadora, responsable y disciplinada. Los culpables no son los **gobernados**, sino los **políticos** que nos gobiernan; más bien, que han dejado de gobernar.
-
-Estamos sufriendo una etapa de miedo y sobresalto, no sabemos qué puede pasarnos en el **futuro inmediato**, no tenemos energía eléctrica, no tenemos **seguridad**, no sabemos si conservaremos el empleo. Lo que creíamos seguro se esfuma. Cuando el miedo se generaliza, los **electores** buscan un hombre fuerte, alguien que se muestre seguro y prometa milagros.
-
-Los favoritos son dos autoritarismos: Correísmo  y Noboísmo. La **política** ya no persigue el bien común, persigue intereses, cobra venganzas, atropella la **Constitución** y las leyes, inutiliza al **parlamento** y pastorea la justicia.
-
-Nada de eso es gobierno, es un juego de simulaciones que Zygmunt Bauman resume así: “Los políticos fingen gobernar, mientras que quienes ostentan el **poder económico** fingen ser gobernados. Para mantener las formas, la gente se acerca a regañadientes a los **colegios electorales** cada pocos años, simulando ser **ciudadanos**”.
-
-El pleito de Telconex, tal vez, está demostrando que los poderosos del **país** han decidido prescindir de los **políticos** y dejar de simular que son gobernados. En el **Consejo Nacional Electoral** están imponiendo, al margen de toda ley y toda lógica democrática, a unos vocales perennizados mediante vallas y policías. Quien les da **seguridad** les dará luego **instrucciones**.
-
-Los **electores** somos arrinconados a decidir entre dos bandos con claras **tendencias autoritarias**. Para una parte de los **electores** el peor temor es volver al pasado de **autoritarismo** y **corrupción** y para otra parte la peor opción es entregar el futuro a otro **autoritarismo**. Desde que perdimos a los partidos, perdimos a los **políticos** y a la **Política**.
-
-En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes
-========================================================================================
-
-El mercado laboral es clave para una transición verde en lo económico, social y ambiental.
-------------------------------------------------------------------------------------------
-
-![Un empleo verde reduce el impacto ambiental de empresas y sectores económicos hasta alcanzar niveles sostenibles. Foto:](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-55-1.jpg)
-
-Frente a las crisis que afronta Ecuador y el planeta hablar de transición verde o ecológica en lo económico, social y ambiental no es opcional. La Organización Internacional del Trabajo (OIT) resume así: sin producción más responsable con el ambiente no habrá un mejor futuro para los trabajadores y comunidades. Y, sin empleos decentes, no habrá sociedades y producción sostenibles.
-
-Más noticias
-------------
-
-* [La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica](https://www.elcomercio.com/actualidad/negocios/la-morosidad-sigue-en-aumento-en-ecuador-debido-al-desempleo-y-la-crisis-economica.html "La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica")
-* [Estas son las cifras del empleo adecuado en Ecuador](https://www.elcomercio.com/actualidad/negocios/cifras-empleo-adecuado-ecuador.html "Estas son las cifras del empleo adecuado en Ecuador")
-
-El mercado laboral es clave para avanzar en esta transición verde, de formas múltiples y transversales. Entre las variables están la salud de los trabajadores, la evolución de las profesiones, la formación, la reconversión profesional, las relaciones laborales, la inclusión social. Tomando en cuenta este antecedente es importante entender el concepto que engloba un empleo verde.
-
-¿Qué es un empleo verde?
-------------------------
-
-Un empleo verde reduce el impacto ambiental de empresas y sectores económicos hasta alcanzar niveles sostenibles. Ayuda a reducir el consumo de energía, materias primas y agua con estrategias eficientes. 
-
-Según la OIT, también descarboniza la economía y baja las emisiones de CO2. Disminuye todas las formas de desechos y de contaminación; protege y restablece los ecosistemas y su biodiversidad. 
-
-Pero no todos estos trabajos conocidos mundialmente como ‘green jobs’ pueden considerarse decentes. Es decir, que ofrezcan salarios y protección social adecuados, condiciones laborales seguras y se respeten los derechos de los trabajadores. Un ejemplo de esto es el empleo informal del reciclado donde se recuperan materias primas, pero el proceso suele ser peligroso y afecta al medioambiente y a la salud. Y, esto, a su vez, se refleja en ingresos económicos bajos.
-
-**¿Qué es un trabajo verde y decente?** 
-----------------------------------------
-
-El precio que la sociedad paga por las consecuencias de la contaminación o la mala salud debe reflejarse en los costos pagados en el mercado, enfatiza la OIT. Por esto, los empleos verdes deben ser decentes. 
-
-Para la OIT, se entiende por trabajo decente el que ofrece “oportunidades para que los hombres y mujeres puedan conseguir un trabajo decente y productivo en condiciones de libertad, equidad, seguridad y dignidad humana. Resume las aspiraciones de las personas en su vida laboral en cuanto a ingresos, voz, reconocimiento, estabilidad familiar, desarrollo personal, justicia e igualdad de género”.
-
-Tomando en cuenta estos dos conceptos, los empleos verdes se perfilan para hacer frente a dos desafíos determinantes que afronta el planeta: 
-
-1. Evitar un cambio climático peligroso y potencialmente inmanejable con la protección del ambiente. 
-2. Ofrecer trabajo decente, que permita bajar la pobreza y la inseguridad 
-
-**¿Por qué hablar de empleos verdes?** 
----------------------------------------
-
-La actual crisis energética y de agua que se vive en Ecuador pone en evidencia la fragilidad de los recursos naturales. Los empleos verdes, que promueven prácticas sostenibles y el uso eficiente de los recursos, son parte de la solución. Al apostar, por ejemplo, por más energías renovables como la solar, eólica o geotérmica y gestionar el agua de manera más eficiente se generarían oportunidades laborales mientras se protege el medio ambiente.
-
-La escasez de agua y los cortes en el suministro energético están estrechamente relacionadas con el estiaje. Y frente a esto promover empleos verdes ayudaría a mitigar el impacto, por ejemplo, con industrias enfocadas a reducir sus emisiones de carbono, a través de la generación de energía limpia. Agricultura sostenible, reforestación, protección de las cuencas hidrográficas y una serie de soluciones basadas en la naturaleza ahora son transversales al ambiente y al desarrollo de una economía verde.
-
-¿Cómo avanza el Ecuador en empleo verde?
-----------------------------------------
-
-El Ministerio del Trabajo con apoyo del Banco Interamericano de Desarrollo (BID) lleva adelante la estrategia ‘Empleos Verdes’. El objetivo es apoyar la recuperación de empleos verdes y resilientes con enfoque de género. Para esto se trabaja en la mejora de las capacidades del Ministerio y el fortalecimiento del servicio público de empleo.
-
-Tras un estudio se identificaron tres sectores potenciales para crear trabajos verdes, en el contexto de la recuperación económica sostenible con inclusión social. Estos son: **energía, transporte y agricultura**.
-
-Con esa línea, el 4 de marzo de 2022, esta cartera de Estado emitió la resolución MDT-2022-024, en la que dispone la ejecución de dos lineamientos para:
-
-* Incorporar una oferta de capacitación híbrida en empleos verdes para el desarrollo de habilidades
-* Un nuevo modelo de empleo verde para brindar más oportunidades a grupos de atención prioritaria
-
-Como parte del primer lineamiento, este ministerio explica que capacitaron con enfoque verde a 44 pequeños productores de banano en cultivo de ciclo perenne. 36 personas se certificaron por competencias. Otras 96 personas de albañilería, en cambio, se certificaron en proyectos hídricos del sector de la construcción.
-
-Ambas certificaciones están disponibles para que la ciudadanía se evalúe y certifique, a través de los evaluadores habilitados a escala nacional, como el Secap.
-
-Respecto al segundo lineamiento, en la [plataforma del Servicio Público de Empleo](https://www.serviciodeempleo.gov.co/inicio) (SPE) se implementaron [opciones que permiten a los empleadores](https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/empVerde/index.jsf "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/empVerde/index.jsf") publicar ofertas laborales para empleos verdes, y filtros para que la ciudadanía busque y se vincule a estas oportunidades.
-
-¿Qué resultados tiene este nuevo modelo de empleo verde?
---------------------------------------------------------
-
-Para calcular el nivel de empleo verde en las vacantes publicadas en la plataforma del Servicio Público de Empleo y las colocaciones logradas, durante el 2023 se tomó en cuenta la clasificación de ocupaciones, según su grado de greening (nivel de transición hacia un crecimiento verde o amigable con el medio ambiente de cada ocupación). Y, por otra parte, se adoptó una metodología aceptada internacionalmente para determinar puestos de trabajo que se clasifiquen como verdes.
-
-El análisis reveló que de **125 011 vacantes** publicadas en la plataforma del SPE y asimismo de las **73 493** contrataciones logradas, el 97,5% pudieron ser clasificadas, según su nivel de greening.
-
-Adicionalmente, tras una limpieza de la base de datos y la aplicación de la metodología se calculó cuántas de las 73 493 colocaciones exitosas corresponden a empleos verdes. El resultado fue que 12 001 trabajos son considerados como verdes. Esto representa el 16,3%.
-
-  
 
 Cartas a Quito / 23 de noviembre de 2024
 ========================================
@@ -1152,49 +1203,3 @@ Oliveira explicó que será allí donde se celebre durante los próximos tres a�
 
 San viernes
 -----------
-
-Dos vías de Cumbayá y Tumbaco entran a fase de rehabilitación
-=============================================================
-
-Los trabajos de rehabilitación vial en los valles nororientales de Quito comienza este sábado, en Cumbayá y, el martes, en Tumbaco.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Desde este sábado 23 de noviembre comienzan los trabajos de rehabilitación de la avenida Pampite, en Cumbayá.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-78.jpg)
-
-Desde este **sábado 23 de noviembre del 2024,** comenzará la rehabilitación de dos vías importantes en este valle del nororiente de Quito. La una será en **Cumbayá** y la otra en **Tumbaco**.
-
-### Más noticias
-
-* [Dos negocios de escaneo de iris fueron clausurados en Quito](https://www.elcomercio.com/actualidad/quito/negocios-escaneo-iris-clausura-quito.html "Dos negocios de escaneo de iris fueron clausurados en Quito")
-* [Operativo para las movilizaciones impidió daños al espacio público de Quito](https://www.elcomercio.com/actualidad/quito/danos-quito-movilizaciones-marchas-21-noviembre.html "Operativo para las movilizaciones impidió daños al espacio público de Quito")
-* [Un taxi circuló dentro del parque La Carolina, en Quito](https://www.elcomercio.com/actualidad/quito/taxi-circulo-dentro-de-parque-la-carolina-quito.html "Un taxi circuló dentro del parque La Carolina, en Quito")
-
-Rehabilitación de la vía en Cumbayá
------------------------------------
-
-La **Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop)** informó que comenzará este 23 de noviembre del 2024, la rehabilitación de la **avenida Pampite**, en Cumbayá.
-
-El tiempo estimado para concluir esta intervención, que será sobre **336 metros**, será de **23 días**. Además, los trabajos se llevarán a cabo en **tres etapas**.
-
-La primera se realizará entre las calles José María Vargas y Chimborazo. El **cierre** en esta zona será **total** durante tres días.
-
-El **segundo tramo** será en la **calzada de bajada** a la altura de la calle **Los Cipreses hasta la José María Vargas.** Esta etapa comenzará el **25 de noviembre** y deberá terminar el 4 de diciembre.
-
-La **última etapa será sobre la calzada de subida**, entre el 5 y el **15 de diciembre[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")[](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")**
-
-En esos días, se **suspenderá temporalmente la zona azul** de estacionamiento sobre la avenida Pampite y Chimborazo. La **Agencia Metropolitana de Tránsito** realizará el operativo para la circulación vehicular, que se realizará por contraflujos.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-22-at-15.12.33-800x445-1.jpeg)
-
-La rehabilitación en Tumbaco
-----------------------------
-
-La calle **Juan Montalvo** de Tumbaco también será intervenida. **Los trabajos comenzarán el martes 26 de noviembre del 2024.**
-
-Las obras abarcarán la zona del **Parque Central de Tumbaco,** desde la Eloy Alfaro hasta Simón Bolívar.
-
-La longitud de la intervención será de **261 metros** y se aspira que la rehabilitación del asfalto termine en **15 días.**
-
-Las **rutas alternas** para la circulación vehicular son: la calle Gonzalo Díaz de Pineda (unidireccional norte-sur) y la calle Gonzalo Pizarro (bidireccional).
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/juan-montalvo.jpeg)
