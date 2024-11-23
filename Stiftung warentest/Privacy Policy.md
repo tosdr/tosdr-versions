@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
 * [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
 * [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
 * [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Depot­wechsel zu Morgen­fund: Was DWS-Kunden wissen müssen](https://www.test.de/Depotwechsel-zu-Morgenfund-Was-DWS-Kunden-wissen-muessen-5943029-0/ "Depotwechsel zu Morgenfund - Was DWS-Kunden wissen müssen")
-* [Gesund­heits­daten auf dem Smartphone: Im Notfall leicht zugäng­lich](https://www.test.de/Gesundheitsdaten-auf-dem-Smartphone-Im-Notfall-leicht-zugaenglich-6156109-0/ "Gesundheitsdaten auf dem Smartphone - Im Notfall leicht zugänglich")
-* [Gendermedizin: Geschlechts­spezi­fische Behand­lung rettet Frauenleben](https://www.test.de/Gendermedizin-Geschlechtsspezifische-Behandlung-rettet-Frauenleben-5988536-0/ "Gendermedizin - Geschlechtsspezifische Behandlung rettet Frauenleben")
 * [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
+* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
+* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
 
 Service Stiftung Warentest
 
