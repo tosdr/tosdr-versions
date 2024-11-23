@@ -1,13 +1,5 @@
 ![](https://www.facebook.com/tr?id=2747422148905832&ev=PageView&noscript=1)                                                                            
 
-**Scheduled Maintenance on November 23**
-
-Due to scheduled maintenance, our platforms, including the Contact Center, website, and Mi LUMA app, will be temporarily unavailable on **November 23 from 12:00 a.m. to 4:00 a.m.**
-
-We apologize for any inconvenience and appreciate your understanding as we work to improve our systems.
-
-**In case of an electrical emergency, please contact 911.**
-
 * [English](https://lumapr.com/terms-and-conditions-of-use/?lang=en&switch_language=en)
 * [Español (Spanish)](https://lumapr.com/terminos-y-condiciones-de-uso/?switch_language=es)
 
