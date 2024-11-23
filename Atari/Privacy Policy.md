@@ -6,6 +6,7 @@
 * [Games](https://www.atari.com/collections/games)
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
+* [Gifts & Holiday Deals](https://www.atari.com/pages/holiday-gift-guides)
 
 [Log in](https://atari.com/customer_authentication/redirect?locale=en&region_country=US) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
@@ -20,6 +21,7 @@
 * [Games](https://www.atari.com/collections/games)
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
+* [Gifts & Holiday Deals](https://www.atari.com/pages/holiday-gift-guides)
 
 Search [Log in](https://atari.com/customer_authentication/redirect?locale=en&region_country=US)
 
@@ -228,6 +230,8 @@ Fatal Run 2089 - Coming Soon](https://www.atari.com/products/fatal-run-2089)
 
 Yars Rising - Available Now](https://www.atari.com/products/yars-rising)
 
+\*\*New!\*\*/collections/physical-games
+
 Apparel & Collectibles
 
 #### APPAREL
@@ -320,7 +324,7 @@ Shop All Tees](https://www.atari.com/collections/atari-tshirts)
 
 Shop All Hats](https://www.atari.com/collections/hats)
 
-\*\*New!\*\*/collections/holiday-collection; \*\*New!\*\*/collections/bentley-bear; \*\*Trending\*\*/collections/sweatshirts
+\*\*New!\*\*/collections/holiday-collection; \*\*New!\*\*/collections/bentley-bear; \*\*Popular\*\*/collections/sweatshirts
 
 New
 
@@ -408,21 +412,24 @@ A re-imagining of the Atari 2600 cult classic.
 
 [Coming Soon](https://www.atari.com/products/fatal-run-2089)
 
-[![Atari VCS](files/Atari_VCS.jpg)
+THE HOLIDAYS ARE HERE
+---------------------
 
-### Hardware
+[![](files/wrapping-paper-sheets-_3_-white-matte-28.75x19.75-front-673c847b84c27copy.jpg)
 
-Shop Now](https://www.atari.com/collections/hardware)[![Atari Gear 4](files/Atari_Gear-4.jpg)
+### NEW HOLIDAY MERCH
 
-### GEAR
+Check out our seasonal sweatshirts, wrapping paper, and RCT holiday gear.
 
-Shop Now](https://www.atari.com/collections/gear)[![Atari Games](files/atari-games.webp)
+Shop Now](https://www.atari.com/collections/holiday-collection)[![](files/Home_Arcade-Banner_245f070b-4d45-4ac5-aa31-123b38372580.jpg)
 
-### Games
+### HOLIDAY GIFT GUIDES
 
-Shop Now](https://www.atari.com/collections/games)
+We have something for everyone - Give the gift of Atari.
 
-### Popular Right Now
+SHOP NOW](https://www.atari.com/pages/holiday-gift-guides)
+
+### BEST SELLERS
 
 [![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct1.jpg)
 
@@ -468,7 +475,7 @@ Unit price /  per](https://www.atari.com/products/oversized-fuji-hoodie)    �
 
 [![Atari 2600+ Controller Mega Bundle](files/2600__Bundle.webp)
 
-![Atari 2600+ Controller Mega Bundle](files/2600-console-1.webp)
+![Atari 2600+ Controller Mega Bundle](files/Atari_10102024_485_b711271d-98e5-4ee4-b459-2d23fd1b84c4.jpg)
 
 Add to cart
 
@@ -512,13 +519,13 @@ Unit price /  per](https://www.atari.com/products/super-pocket-atari-edition) 
 
 [![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Group.jpg)
 
-![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Front.jpg)
+![VCS All-In Bundle](files/Atari_VCS_Black_Walnut_02.jpg)
 
 Add to cart
 
 ##### VCS All-In Bundle
 
-Regular price Sale price $200.00
+Regular price $239.97 Sale price $200.00
 
 Regular price $200
 
@@ -592,6 +599,20 @@ Regular price $199
 
 Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-25th-anniversary-shadowbox-art-limited-edition) 
 
+[![Atari VCS](files/Atari_VCS.jpg)
+
+### Hardware
+
+Shop Now](https://www.atari.com/collections/hardware)[![Atari Gear 4](files/Atari_Gear-4.jpg)
+
+### GEAR
+
+Shop Now](https://www.atari.com/collections/gear)[![Atari Games](files/atari-games.webp)
+
+### Games
+
+Shop Now](https://www.atari.com/collections/games)
+
 ![](//atari.com/cdn/shop/files/atari-symbol.svg?v=1692708467)
 
 Atari 2600+
@@ -602,23 +623,6 @@ Enjoy your favorite Atari 2600 and 7800 games on one system! Not only does the A
 [Shop Now](https://www.atari.com/collections/atari-2600-plus)
 
 ![](files/image_70679709-4dae-40f9-a153-5713cf2f7e01.png)
-
-NEW RELEASES
-------------
-
-[![Super Pocket Atari Edition](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
-
-### Super Pocket - Atari Edition
-
-Includes a whopping 50 Atari games, with arcade greats, console wonders, and portable Atari rarities!
-
-Shop Now](https://www.atari.com/products/super-pocket-atari-edition)[![Yars Rising](files/Product_Image_abea9221-7178-4364-9526-7d5870fc8671.png)
-
-### YARS RISING
-
-Run, jump, sneak, and hack your way to the heart of the mystery
-
-Physical & Digital Available Today](https://www.atari.com/products/yars-rising)
 
 ![](//atari.com/cdn/shop/files/atari-symbol.svg?v=1692708467)
 
@@ -744,7 +748,7 @@ Regular price $24.99
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
-![CX30+ Paddle Controller Bundle](files/ProductImage-C_696d7529-b2bb-4547-92d9-4ad55294abd2.jpg)
+![CX30+ Paddle Controller Bundle](files/Atari2023pt02_DSC00878.jpg)
 
 Add to cart
 
@@ -792,7 +796,7 @@ Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
 [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
-![CX30+ Paddle Controller Bundle](files/ProductImage-C_696d7529-b2bb-4547-92d9-4ad55294abd2.jpg)
+![CX30+ Paddle Controller Bundle](files/Atari2023pt02_DSC00878.jpg)
 
 Add to cart
 
