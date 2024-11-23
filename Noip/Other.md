@@ -778,7 +778,7 @@ Resources
     
 * [Identifier Systems Security, Stability and Resiliency (OCTO IS-SSR)](https://www.icann.org/resources/pages/octo-ssr-2016-10-10-en)
     
-    * [IS-SSR Team Blogs](https://www.icann.org/resources/pages/is-ssr-blogs-2015-12-16-en)
+    * [SSR Team Blogs](https://www.icann.org/resources/pages/is-ssr-blogs-2015-12-16-en)
         
     * [Security Terminology](https://www.icann.org/resources/pages/security-terminology-2015-09-16-en)
         
