@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/1cba25af-f989-4b54-a648-ffbb77e0bd3c/20241122T140640/1cba25af-f989-4b54-a648-ffbb77e0bd3c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1cba25af-f989-4b54-a648-ffbb77e0bd3c/20241122T140640/1cba25af-f989-4b54-a648-ffbb77e0bd3c_360x203.jpg)](https://www.king5.com/article/news/local/driver-crashes-car-roof-west-seattle-garage/281-558976f1-d2da-4eaa-9593-5e7af9dacad1)
+    *  [![](https://media.king5.com/assets/KING/images/d21a99d4-f855-4a4e-8ccb-c9ff7957553c/20241123T014151/d21a99d4-f855-4a4e-8ccb-c9ff7957553c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d21a99d4-f855-4a4e-8ccb-c9ff7957553c/20241123T014151/d21a99d4-f855-4a4e-8ccb-c9ff7957553c_360x203.jpg)](https://www.king5.com/article/news/crime/long-beach-2015-homicide-charles-watts-jeff-beach/281-3d8106ab-faca-408e-96e6-f666b8f62388)
         
-        #### [Driver veers off road, crashes car on roof of West Seattle garage](https://www.king5.com/article/news/local/driver-crashes-car-roof-west-seattle-garage/281-558976f1-d2da-4eaa-9593-5e7af9dacad1)
+        #### [Suspect in 2015 Long Beach homicide enters plea agreement](https://www.king5.com/article/news/crime/long-beach-2015-homicide-charles-watts-jeff-beach/281-3d8106ab-faca-408e-96e6-f666b8f62388)
         
-    *  [![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
+    *  [![](https://media.king5.com/assets/KING/images/ce7c0330-1c42-44c9-a387-a88db3857db5/20241123T012600/ce7c0330-1c42-44c9-a387-a88db3857db5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ce7c0330-1c42-44c9-a387-a88db3857db5/20241123T012600/ce7c0330-1c42-44c9-a387-a88db3857db5_360x203.jpg)](https://www.king5.com/article/news/local/crystal-mountain-opens-for-the-ski-season-nine-days-earlier-than-last-year/281-d53e6d92-7760-4e1c-9515-98c589cf43d4)
         
-        #### [Power outage restoration timeline unchanged for PSE after overnight wind gusts](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
+        #### [Crystal Mountain has about as much natural snow now as they did last January](https://www.king5.com/article/news/local/crystal-mountain-opens-for-the-ski-season-nine-days-earlier-than-last-year/281-d53e6d92-7760-4e1c-9515-98c589cf43d4)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d548728c-06ce-404d-95a4-7092bd253f73/20241122T202716/d548728c-06ce-404d-95a4-7092bd253f73_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d548728c-06ce-404d-95a4-7092bd253f73/20241122T202716/d548728c-06ce-404d-95a4-7092bd253f73_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/ce7c0330-1c42-44c9-a387-a88db3857db5/20241123T012600/ce7c0330-1c42-44c9-a387-a88db3857db5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ce7c0330-1c42-44c9-a387-a88db3857db5/20241123T012600/ce7c0330-1c42-44c9-a387-a88db3857db5_360x203.jpg)](https://www.king5.com/article/news/local/crystal-mountain-opens-for-the-ski-season-nine-days-earlier-than-last-year/281-d53e6d92-7760-4e1c-9515-98c589cf43d4)
         
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        #### [Crystal Mountain has about as much natural snow now as they did last January](https://www.king5.com/article/news/local/crystal-mountain-opens-for-the-ski-season-nine-days-earlier-than-last-year/281-d53e6d92-7760-4e1c-9515-98c589cf43d4)
         
-    *  [![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
+    *  [![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cbedd7b6-e2c3-4314-a465-b3f96bbf7788/20241121T050748/cbedd7b6-e2c3-4314-a465-b3f96bbf7788_360x203.jpg)](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
         
-        #### [Power outage restoration timeline unchanged for PSE after overnight wind gusts](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
+        #### [Wind Advisory expires for much of western Washington after second storm this week](https://www.king5.com/article/weather/forecast/washington-bomb-cyclone-another-storm-forecast/281-02e022a9-88fc-4eb4-a9f6-135ac64ce7cc)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-55°
+51°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
