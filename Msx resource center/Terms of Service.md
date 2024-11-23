@@ -153,6 +153,7 @@ Latest reactions
 
 Latest forum posts
 
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=77 "WonderTANG! Who wants to juice up your MSX?")
 * [Sony MSX HB-75B - Picture Won't Sync](https://www.msx.org/forum/msx-talk/hardware/sony-msx-hb-75b-picture-wont-sync "Sony MSX HB-75B - Picture Won't Sync")
 * [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
 * [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
@@ -164,7 +165,6 @@ Latest forum posts
 * [problems with Megaflashrom SCC+](https://www.msx.org/forum/msx-talk/general-discussion/problems-with-megaflashrom-scc "problems with Megaflashrom SCC+")
 * [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250?page=1 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
 * [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o?page=1 "RTC batteries actually working? :O")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
 * [Some facts about Konami 32kb game cartridges](https://www.msx.org/forum/msx-talk/hardware/some-facts-about-konami-32kb-game-cartridges "Some facts about Konami 32kb game cartridges")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
