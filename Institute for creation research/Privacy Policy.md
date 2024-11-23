@@ -95,63 +95,31 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More Creation Science Update
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/three-appearings-of-Christ)
+[![](/i/Main%20Stage%20-%201400x1050/shrinkingmercury_1400x1050.jpg)](https://www.icr.org/article/shrinking-mercury)
 
-[The Three Appearings of Christ](https://www.icr.org/article/three-appearings-of-Christ/)
+[Youthful Mercury: Still Cooling and Shrinking](https://www.icr.org/article/shrinking-mercury/)
 
-“For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in...
+The analysis of data from the MESSENGER spacecraft has revealed evidence of recent tectonic activity on Mercury—activity caused by the ongoing...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/thine-o-lord)
+[![](/i/Main%20Stage%20-%201400x1050/BeeConstruct_1400x1050.jpg)](https://www.icr.org/article/honey-bee-nest-constructing)
 
-[Thine, O Lord](https://www.icr.org/article/thine-o-lord/)
+[Incredible Honey Bees and Their Nest Constructing Skills](https://www.icr.org/article/honey-bee-nest-constructing/)
 
-“Thine, O LORD, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the...
+It seems not a month goes by that more remarkable discoveries are made regarding the humble honey bee. They have been found capable of basic math,...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/dayspring-from-high)
+[![](/i/ICR_Feb23_wallpaper-Main.jpg)](https://www.icr.org/article/february-2023-icr-wallpaper)
 
-[The Dayspring from on High](https://www.icr.org/article/dayspring-from-high/)
+[February 2023 ICR Wallpaper](https://www.icr.org/article/february-2023-icr-wallpaper/)
 
-“Through the tender mercy of our God; whereby the dayspring from on high hath visited us.” (Luke 1:78) This is an unusual, but beautiful,...
+"Let all that you do be done with love." 1 Corinthians 16:14 NKJV ICR February 2023 wallpapers are now available for mobile, tablet, and...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/359222/file.jpg)
-
-Unlocking the Mysteries of Genesis (book)](https://store.icr.org/dr-henry-morris-iii-unlocking-the-mysteries-of-gen.html)
-
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/37284258/file.jpg)
-
-6 Días De Creación (Spanish)](https://store.icr.org/seis-dias-de-creacion-spanish.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/37284337/file.jpg)
-
-Tus Orígenes Importan (Spanish)](https://store.icr.org/tus-origines-importan-spanish.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216743/file.jpg)
-
-Your Origins Matter - eBook](https://store.icr.org/your-origins-matter-ebook.html)
-
-$2.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10892599/file.jpg)
-
-Stand Fast](https://store.icr.org/stand-fast.html)
-
-$4.99
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
