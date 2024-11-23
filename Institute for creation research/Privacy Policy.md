@@ -95,31 +95,69 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Creation Science Update
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/shrinkingmercury_1400x1050.jpg)](https://www.icr.org/article/shrinking-mercury)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/no-vision)
 
-[Youthful Mercury: Still Cooling and Shrinking](https://www.icr.org/article/shrinking-mercury/)
+[No Vision](https://www.icr.org/article/no-vision/)
 
-The analysis of data from the MESSENGER spacecraft has revealed evidence of recent tectonic activity on Mercury—activity caused by the ongoing...
+“Where there is no vision, the people perish: but he that keepeth the law, happy is he.” (Proverbs 29:18) The “vision”...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/BeeConstruct_1400x1050.jpg)](https://www.icr.org/article/honey-bee-nest-constructing)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/doctrines-salvation)
 
-[Incredible Honey Bees and Their Nest Constructing Skills](https://www.icr.org/article/honey-bee-nest-constructing/)
+[The Doctrines of Salvation](https://www.icr.org/article/doctrines-salvation/)
 
-It seems not a month goes by that more remarkable discoveries are made regarding the humble honey bee. They have been found capable of basic math,...
+“For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/ICR_Feb23_wallpaper-Main.jpg)](https://www.icr.org/article/february-2023-icr-wallpaper)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/things-flee)
 
-[February 2023 ICR Wallpaper](https://www.icr.org/article/february-2023-icr-wallpaper/)
+[Things to Flee](https://www.icr.org/article/things-flee/)
 
-"Let all that you do be done with love." 1 Corinthians 16:14 NKJV ICR February 2023 wallpapers are now available for mobile, tablet, and...
+“Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.”...
 
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
+
+The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
+
+$29.99
+
+$34.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32640/file.jpg)
+
+The Genesis Flood, 50th Anniversary Edition](https://store.icr.org/dr-henry-morris-the-genesis-flood-50th-anniversary.html)
+
+$12.99
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
+
+The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475587/file.jpg)
+
+The Remarkable Journey of Jonah](https://store.icr.org/dr-henry-morris-the-remarkable-journey-of-jonah.html)
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32688/file.jpg)
+
+The Henry Morris Study Bible - Case](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-case.html)
+
+$34.99
+
+$39.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
