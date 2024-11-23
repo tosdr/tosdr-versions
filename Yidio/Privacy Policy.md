@@ -6,8 +6,8 @@
 * [Sign In](https://www.yidio.com/login.php)
 * [Sign Up](https://www.yidio.com/signup.php)
 
-Yidio Privacy Policy
-====================
+Privacy Policy
+==============
 
 This Privacy Policy applies to information we collect about you at [https://www.yidio.com/](https://www.yidio.com/ "Yidio") (the "Website") and Yidio applications and how we use this information.  
   
