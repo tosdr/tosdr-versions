@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 10,999
+* 11,010
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,691
+* 8,692
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 18,504
+* 18,510
 * 11
 
 Announcing the end of life of Waterfall​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,054
+* 15,060
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 27,833
+* 27,847
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 9,043
+* 9,046
 * 1
 
 ### The 1.20.4 Update​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,293
+* 15,297
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,246
+* 14,251
 * 9
 
 ### The 1.20(.1) Update​
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,533
+* 8,537
 * 3
 
 ### The 1.19.4 Update​
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,813
+* 37,816
 * 18
 
 ### The 1.19 Update​
@@ -1166,7 +1166,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 24,003
+* 24,004
 * 12
 
 ### The 1.18.2 Update​
@@ -1318,7 +1318,7 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 70 (members: 0, guests: 70)
+Total: 52 (members: 0, guests: 52)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1362,7 +1362,7 @@ Replies
 
 Views
 
-72
+73
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Monday at 8:11 PM](https://papermc.io/threads/generate-a-dimension-with-a-set-list-of-biomes.1444/latest)
 
@@ -1432,7 +1432,7 @@ Replies
 
 Views
 
-187
+189
 
 [Help](https://papermc.io/forums/paper-help/) [Nov 14, 2024](https://papermc.io/threads/how-do-i-set-up-groups-so-that-i-cant-make-changes-to-a-higher-ranked-group-paper-1-21-1-luckperms.1435/latest)
 
@@ -1454,7 +1454,7 @@ Replies
 
 Views
 
-135
+137
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 14, 2024](https://papermc.io/threads/cannot-place-torch-on-wall.1441/latest)
 
@@ -1478,7 +1478,7 @@ Replies
 
 Views
 
-533
+535
 
 [Help](https://papermc.io/forums/paper-help/) [Nov 13, 2024](https://papermc.io/threads/server-problem.1400/latest)
 
@@ -1525,7 +1525,7 @@ Replies
 
 Views
 
-131
+132
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 10, 2024](https://papermc.io/threads/cannot-invoke-net-minecraft-server-network-servergamepacketlistenerimpl-latency-because-player-connection-is-null.1439/latest)
 
@@ -1547,7 +1547,7 @@ Replies
 
 Views
 
-129
+130
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 9, 2024](https://papermc.io/threads/mockbukkit-a-testing-framework-for-minecraft-plugins.1438/latest)
 
