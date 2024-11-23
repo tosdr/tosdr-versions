@@ -185,9 +185,9 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Nils Aron Andersson](https://cdn.returningveterans.org/images/honor/Nils_Aron_Andersson.jpg)  
+![Col. Farrell Patrick](https://cdn.returningveterans.org/images/honor/COL_Patrick.jpg)  
 
-**In Memory of Nils Aron Andersson**  
+**In Honor of Col. Farrell Patrick**  
 United States Army  
 Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/23/24 - 1:17:13  
+Printed 11/23/24 - 7:24:25  
 © 2024 Returning Veterans Project
