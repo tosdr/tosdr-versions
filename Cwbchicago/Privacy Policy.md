@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2023/11/Johnson-red-light-326x245.jpg)](https://cwbchicago.com/2024/11/legislator-wants-investigation-to-determine-why-south-side-red-light-cameras-issued-2-5x-more-tickets-than-north-side-cameras.html "Legislator wants ‘investigation’ to determine why South Side red light cameras issued 2.5x more tickets than North Side cameras")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH471425-suspect-1-326x245.jpg)](https://cwbchicago.com/2024/11/cops-seek-brazen-gunmen-who-killed-victim-at-south-side-gas-station-video.html "Cops seek brazen gunmen who killed victim at South Side gas station (video)")
 
-Citywide
+Auburn Gresham
 
-### [Legislator wants ‘investigation’ to determine why South Side red light cameras issued 2.5x more tickets than North Side cameras](https://cwbchicago.com/2024/11/legislator-wants-investigation-to-determine-why-south-side-red-light-cameras-issued-2-5x-more-tickets-than-north-side-cameras.html "Legislator wants ‘investigation’ to determine why South Side red light cameras issued 2.5x more tickets than North Side cameras")
+### [Cops seek brazen gunmen who killed victim at South Side gas station (video)](https://cwbchicago.com/2024/11/cops-seek-brazen-gunmen-who-killed-victim-at-south-side-gas-station-video.html "Cops seek brazen gunmen who killed victim at South Side gas station (video)")
 
-[November 20, 2024 11:25 AM](https://cwbchicago.com/2024/11)
+[November 21, 2024 5:35 AM](https://cwbchicago.com/2024/11)
 
-Illinois State Rep. La Shawn Ford is again calling for change after new data shows more than 2.5 times as many red-light camera tickets were issued on Chicago’s South Side over a yearlong period than at intersections where cameras are installed on the city’s North Side.[](https://cwbchicago.com/2024/11/legislator-wants-investigation-to-determine-why-south-side-red-light-cameras-issued-2-5x-more-tickets-than-north-side-cameras.html "Legislator wants ‘investigation’ to determine why South Side red light cameras issued 2.5x more tickets than North Side cameras")
+Video released by Chicago police shows just how brazen our city’s violent killers can be. Cops are hoping the footage, recorded at a Gresham gas station last month, will lead them to a couple of murderers.[](https://cwbchicago.com/2024/11/cops-seek-brazen-gunmen-who-killed-victim-at-south-side-gas-station-video.html "Cops seek brazen gunmen who killed victim at South Side gas station (video)")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/narveal-raggs-lakeside-food-wine-spirits-326x245.jpg)](https://cwbchicago.com/2024/11/parolee-had-a-machine-gun-while-trying-to-burglarize-lincoln-park-liquor-store-prosecutors-say.html "Parolee had a machine gun while trying to burglarize Lincoln Park liquor store, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2023/12/Joshua-Savado-326x245.jpg)](https://cwbchicago.com/2024/11/4%c2%bd-years-for-knocking-a-man-unconscious-on-a-red-line-train-in-the-loop.html "4½ years for knocking a man unconscious on a Red Line train in the Loop")
 
-Lincoln Park
+CTA
 
-### [Parolee had a machine gun while trying to burglarize Lincoln Park liquor store, prosecutors say](https://cwbchicago.com/2024/11/parolee-had-a-machine-gun-while-trying-to-burglarize-lincoln-park-liquor-store-prosecutors-say.html "Parolee had a machine gun while trying to burglarize Lincoln Park liquor store, prosecutors say")
+### [4½ years for knocking a man unconscious on a Red Line train in the Loop](https://cwbchicago.com/2024/11/4%c2%bd-years-for-knocking-a-man-unconscious-on-a-red-line-train-in-the-loop.html "4½ years for knocking a man unconscious on a Red Line train in the Loop")
 
-[November 20, 2024 10:09 AM](https://cwbchicago.com/2024/11)
+[November 20, 2024 6:43 PM](https://cwbchicago.com/2024/11)
 
-A man on parole for his fourth felony firearms conviction had a machine gun as he tried to burglarize a Lincoln Park liquor store, prosecutors say.[](https://cwbchicago.com/2024/11/parolee-had-a-machine-gun-while-trying-to-burglarize-lincoln-park-liquor-store-prosecutors-say.html "Parolee had a machine gun while trying to burglarize Lincoln Park liquor store, prosecutors say")
+A man with a violent criminal history has been sentenced to 4½ years for knocking a man unconscious on a Red Line train in the Loop.[](https://cwbchicago.com/2024/11/4%c2%bd-years-for-knocking-a-man-unconscious-on-a-red-line-train-in-the-loop.html "4½ years for knocking a man unconscious on a Red Line train in the Loop")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jorber-Acosta-326x245.jpg)](https://cwbchicago.com/2024/11/migrant-charged-with-trying-to-murder-co-worker-who-made-a-joke-about-him-see-how-you-die.html "Migrant charged with trying to murder co-worker who made a joke about him; ‘See how you die?’")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Teon-Ticey-326x245.jpg)](https://cwbchicago.com/2024/11/man-charged-with-robbing-off-duty-cop-at-gunpoint-in-rogers-park.html "Man charged with robbing off-duty cop at gunpoint in Rogers park")
 
-Back of the Yards
+Rogers Park
 
-### [Migrant charged with trying to murder co-worker who made a joke about him; ‘See how you die?’](https://cwbchicago.com/2024/11/migrant-charged-with-trying-to-murder-co-worker-who-made-a-joke-about-him-see-how-you-die.html "Migrant charged with trying to murder co-worker who made a joke about him; ‘See how you die?’")
+### [Man charged with robbing off-duty cop at gunpoint in Rogers park](https://cwbchicago.com/2024/11/man-charged-with-robbing-off-duty-cop-at-gunpoint-in-rogers-park.html "Man charged with robbing off-duty cop at gunpoint in Rogers park")
 
-[November 20, 2024 7:00 AM](https://cwbchicago.com/2024/11)
+[November 20, 2024 6:41 PM](https://cwbchicago.com/2024/11)
 
-CHICAGO — A Venezuelan migrant is charged with attempted murder, accused of trying to shoot a co-worker who made a joke at his expense. “See how you die?” Jorber Pena Acosta allegedly asked the man before opening fire on him outside their workplace last Thursday afternoon. Prosecutors said Acosta, 26, the 29-year-old victim, and others[](https://cwbchicago.com/2024/11/migrant-charged-with-trying-to-murder-co-worker-who-made-a-joke-about-him-see-how-you-die.html "Migrant charged with trying to murder co-worker who made a joke about him; ‘See how you die?’")
+Prosecutors have charged a man with robbing two people, including an off-duty Chicago police officer, in Rogers Park over the weekend.[](https://cwbchicago.com/2024/11/man-charged-with-robbing-off-duty-cop-at-gunpoint-in-rogers-park.html "Man charged with robbing off-duty cop at gunpoint in Rogers park")
 
 Search
 
