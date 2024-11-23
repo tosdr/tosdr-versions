@@ -137,7 +137,7 @@ Site search input
     
     [All Warm Ups](https://www.teachervision.com/resources/daily-warm-ups)
     
-* [Graphic Organizers](https://www.teachervision.com/lesson-planning/graphic-organizer)
+* [Graphic Organizers](https://www.teachervision.com/graphic-organizers/printable/6293.html)
     
     [Top 10 Most Popular](https://www.teachervision.com/graphic-organizer/top-10-most-popular-graphic-organizers)
     
@@ -167,7 +167,7 @@ Site search input
     
     [Writing](https://www.teachervision.com/writing/top-10-writing-graphic-organizers-gallery)
     
-    [All Graphic Organizers](https://www.teachervision.com/lesson-planning/graphic-organizer)
+    [All Graphic Organizers](https://www.teachervision.com/graphic-organizers/printable/6293.html)
     
 * [Blog](https://www.teachervision.com/blog/morning-announcements "TeacherVision Blog")
 
