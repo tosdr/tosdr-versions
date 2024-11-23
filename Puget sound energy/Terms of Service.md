@@ -367,37 +367,16 @@ We know it is frustrating for our customers and we are working hard to reconcile
 
 Our crews will continue to work around the clock until the last customer is restored.
 
-[Storm alert Updated Nov 22, 10:40 AM](#collapseOne)  
+[Storm alert Updated Nov 22, 12:00 PM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-As of 6 a.m. we have 166,464 customers out. In the past 24 hours, we’ve restored power to an estimated 120,000 customers.
+##### System-wide:
 
-A message to our customers was sent through several channels yesterday. Please see the letter [here](https://www.pse.com/en/letter-to-our-customers).
-
-We understand it can be frustrating waking up to continued power outages in the cold. For customers looking for resources, please check for information from 211, your local jurisdictions or media sources:
-
-* [KUOW - How to find warmth, electricity, and other storm resources in the Seattle area](https://www.kuow.org/stories/storm-resources-for-seattle-area)
-* [List: Shelters, warming centers open in western WA | king5.com](https://www.king5.com/article/news/local/list-shelters-warming-centers-open-western-washington-residents-power-outages/281-8b4d0ed6-ecd4-44b8-a283-53e9ff8797d1)
-
-PSE will have two info resource hubs where customers can get basic support, including charging for small devices, Wi-Fi, water, coffee, light snacks and information from PSE staff. Please note that these staff have the same restoration information available as the outage map and cannot provide individualized customer restoration info.
-
-**Hours are: 10-5, Friday, November 22**
-
-Note: We are working to get our vendor on site, we apologize for the delay and are working as hard as we can to get our hubs up and running.
-
-**In the parking lots of the following locations:**
-
-* Maple Valley Fred Meyer located at Maple Valley Town Square  
-    26520 Maple Valley Black Diamond Rd SE, Maple Valley
-* Kent Fred Meyer  
-    10201 SE 240th St, Kent
-
-We will be also at warming shelters set up by our community partners, where customers can connect with PSE staff to help with questions they have. These locations are:
-
-* **Warming Shelter - Issaquah Senior Center**  
-    75 NE Creek Way, Issaquah, WA 98027
+* We’ve made significant progress restoring transmission and substations are getting back online, crews are finding extensive damage to local distribution lines that need to be repaired before power can be restored.
+* In King County crews are saying the damage is comparable to the worst storms of past decades.
+* We are aware of an issue with our outage map. It is not reflecting all of the customers whose power has been restored, and is not showing a set of customers who are still without power. Our internal systems for identifying outages and prioritizing restorations are still functioning. The map issue appears to stem from a technology change-over for the mapping system that was implemented this fall. We know it is frustrating for our customers, and we are working hard to reconcile the data showing on the map. We ask that you continue to report outages if needed. Our crews will continue to work around the clock until the last customer is restored.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
