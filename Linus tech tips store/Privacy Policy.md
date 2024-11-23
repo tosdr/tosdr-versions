@@ -25,6 +25,7 @@ Canadian customers: due to strike action, new orders will not be shipped via Can
     * [Bottles](https://www.lttstore.com/bottles)
     * [Deskpads](https://www.lttstore.com/deskpads)
     * [Tools](https://www.lttstore.com/tools)
+    * [Cable Management](https://www.lttstore.com/collections/mcm-landing)
     * [Plushies](https://www.lttstore.com/plushies)
     
     * [Stickers](https://www.lttstore.com/stickers)
@@ -53,7 +54,6 @@ Canadian customers: due to strike action, new orders will not be shipped via Can
     * [Underwear](https://www.lttstore.com/underwear)
     * [Headwear](https://www.lttstore.com/headwear)
     
-* [Cable Management](https://www.lttstore.com/collections/mcm-landing)
 * All Products
     
     All Products
@@ -74,7 +74,7 @@ Sign in
 * [Home](https://www.lttstore.com/)
 * [Gear](https://www.lttstore.com/collections/accessories)
     
-    [Bags](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bags+%26+Backpacks&sort_by=best-selling) [Bottles](https://www.lttstore.com/bottles) [Deskpads](https://www.lttstore.com/deskpads) [Tools](https://www.lttstore.com/tools)
+    [Bags](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bags+%26+Backpacks&sort_by=best-selling) [Bottles](https://www.lttstore.com/bottles) [Deskpads](https://www.lttstore.com/deskpads) [Tools](https://www.lttstore.com/tools) [Cable Management](https://www.lttstore.com/collections/mcm-landing)
     
     [Plushies](https://www.lttstore.com/plushies) [Stickers](https://www.lttstore.com/stickers) [Pets](https://www.lttstore.com/pets) [Other](https://www.lttstore.com/other-gear)
     
@@ -86,7 +86,6 @@ Sign in
     
     [Unisex](https://www.lttstore.com/unisex) [Mens](https://www.lttstore.com/mens) [Womens](https://www.lttstore.com/womens) [Underwear](https://www.lttstore.com/underwear) [Headwear](https://www.lttstore.com/headwear)
     
-* [Cable Management](https://www.lttstore.com/collections/mcm-landing)
 * [All Products](https://www.lttstore.com/collections/all-products-1)
     
     [New Arrivals](https://www.lttstore.com/collections/all-products-1) [Best Sellers](https://www.lttstore.com/collections/all-products) [Our Favorites](https://www.lttstore.com/collections/top-sellers)
