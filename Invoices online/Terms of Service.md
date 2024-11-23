@@ -196,57 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Anri van der Linde
+Terri Winfield
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=111810395)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=105142643)  
+Gemini-IT Group
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=191127859)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=8676722)  
+Vplay Letsheng Mall
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=23715669)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=40633147)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=94092016)  
-Oak Tree Immigration
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=163168734)  
+Imhoff Equestrian Centre
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=136569829)  
-Prosper Park
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=2074503)  
+Import Maaw
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=35452942)  
-RADIO TYGERBERG 104FM NPC
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=195904784)  
+Multi CNC Solutions CC
 
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=25949378)  
-Roekeloos Group
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=67001656)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=186608288)  
-Forgotten Goods (Pty) Ltd
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=81444822)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=57111293)  
-VerdanTech Pty Ltd
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=174237714)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=23261008)  
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=26516846)  
+Moremi Kitchens Rustenburg
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=100592886)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=14885261)  
+MSPCloud (Pty) Ltd
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=194787835)  
+Westside Car Audio CC
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=3608997)  
+IYD
+
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=3c9a1d68b4452a151c366cba01aba9f34a1952295b34ff93e4c263e5a4c5c2ce&c=42691375)  
 Salvage Genie
-
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=138535823)  
-Firstweb Hosting & Design
-
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=142991957)  
-Dombieterfontein (PTY) LTD
-
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=118003901)  
-FX ACCOUNTING
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=71652534)  
-Kaylas Creations
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=205546168)  
-Network Grey (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
