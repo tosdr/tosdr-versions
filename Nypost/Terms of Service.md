@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Trump announces picks for FDA, CDC, HUD, and surgeon general](https://nypost.com/2024/11/22/us-news/donald-trump-cabinet-news-11-22-2024/)
-
 Terms Of Use
 ============
 
