@@ -1,11 +1,5 @@
 [Skip to main content](#content) [Go to site search](#siteSearch) [Go to primary navigation](#primary-navigation) [Go to resources navigation](#resources-navigation)
 
-### [**Penn’s Way – Give from the Heart**](https://pennsway.upenn.edu/)
-
-[Penn's Way](https://pennsway.upenn.edu/), our annual workplace giving campaign (October 1- November 22) is making strides toward supporting critical programs that benefit those in need. This year, double your donation with a 100% match for every dollar to help make a difference in our communities.
-
-Close
-
 [Penn Home](https://www.upenn.edu/) Toggle Site Navigation Toggle Site Search
 
 * [Academics](https://www.upenn.edu/academics) More Academics
