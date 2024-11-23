@@ -259,23 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Council issues advice in advance of Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Council issues advice in advance of Storm Bert")](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
+[![IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession")](https://www.derrynow.com/story-telling/pictures---videos/1662940/in-pictures-crowds-line-the-streets-for-derry-s-magical-christmas-lights-switch-on-procession.html)
 
-Photo from Storm Emma
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Derry Council issues advice in advance of Storm Bert](https://www.derrynow.com/news/newsletter-derrynow/1662483/derry-council-issues-advice-in-advance-of-storm-bert.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for man and woman who attacked two people in Derry with hammer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man and woman who attacked two people in Derry with hammer")](https://www.derrynow.com/news/newsletter-derrynow/1662233/suspended-sentence-for-man-and-woman-who-attacked-two-people-in-derry-with-hammer.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspended sentence for man and woman who attacked two people in Derry with hammer](https://www.derrynow.com/news/newsletter-derrynow/1662233/suspended-sentence-for-man-and-woman-who-attacked-two-people-in-derry-with-hammer.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession](https://www.derrynow.com/story-telling/pictures---videos/1662940/in-pictures-crowds-line-the-streets-for-derry-s-magical-christmas-lights-switch-on-procession.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
 
@@ -284,12 +273,12 @@ Derry Crown Court
 [Derry Death Notices - Saturday, November 23, 2024](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway")](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
+[![Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal")](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[IN PICTURES: Christmas delights galore as Derry's Guildhall Craft Fair gets underway](https://www.derrynow.com/story-telling/pictures---videos/1662507/in-pictures-christmas-delights-galore-as-derry-s-guildhall-craft-fair-gets-underway.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Two men killed and three other people hospitalised in Donegal collision](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Santa thrills the crowds as Derry lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
 
@@ -300,12 +289,12 @@ The magical scene in Guildhall Square on Friday night as the Christmas Tree is s
 [Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal")](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
+[![Sections of Letterkenny and Foyle roads in Derry currently flooded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sections of Letterkenny and Foyle roads in Derry currently flooded")](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Two men killed and three other people hospitalised in Donegal collision](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/story-telling/pictures---videos/1662811/in-pictures-santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
 
@@ -314,30 +303,35 @@ The magical scene in Guildhall Square on Friday night as the Christmas Tree is s
 [IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/story-telling/pictures---videos/1662811/in-pictures-santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story")](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
-
-Martina Tierney will be the guest speaker at December's meeting of Ballinascreen Historical Society.
-
-[Home](https://www.derrynow.com/)
-
-[Ballinascreen Historical Society's guest speaker for December to give talk on her remarkable life story](https://www.derrynow.com/news/home/1662170/ballinascreen-historical-society-s-guest-speaker-for-december-to-give-talk-on-her-remarkable-life-story.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Sections of Letterkenny and Foyle roads in Derry currently flooded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sections of Letterkenny and Foyle roads in Derry currently flooded")](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
+[![Derry and Strabane Council issues update on services in relation to Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry and Strabane Council issues update on services in relation to Storm Bert")](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
+[Derry and Strabane Council issues update on services in relation to Storm Bert](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Requiem Mass for popular Derry-born priest Fr William John Bradley](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Requiem Mass for popular Derry-born priest Fr William John Bradley")](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
+
+The late Fr John Bradley.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Requiem Mass for popular Derry-born priest Fr William John Bradley](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ava Boyle (left) and Rebecca Cunning (right)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ava Boyle (left) and Rebecca Cunning (right)")](https://www.derrynow.com/news/newsletter-derrynow/1662397/ulster-call-two-city-of-derry-rugby-players-into-their-development-squads.html)
+[![Poor weather conditions impacting roads across Causeway Coast and Glens District](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Poor weather conditions impacting roads across Causeway Coast and Glens District")](https://www.derrynow.com/news/local-news/1662884/poor-weather-conditions-impacting-roads-across-causeway-coast-and-glens-district.html)
 
-Ava Boyle (left) and Rebecca Cunning (right)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Poor weather conditions impacting roads across Causeway Coast and Glens District](https://www.derrynow.com/news/local-news/1662884/poor-weather-conditions-impacting-roads-across-causeway-coast-and-glens-district.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Ulster call two City of Derry rugby players into their development squads](https://www.derrynow.com/news/newsletter-derrynow/1662397/ulster-call-two-city-of-derry-rugby-players-into-their-development-squads.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Clean-up begins after Storm Bert as thousands still left without power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clean-up begins after Storm Bert as thousands still left without power")](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,7 +509,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Requiem Mass for popular Derry-born priest Fr William John Bradley](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Requiem Mass for popular Derry-born priest Fr William John Bradley")](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
+[![Second half goals deny Craigbane Ulster title at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Second half goals deny Craigbane Ulster title at Celtic Park")](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
+
+There was devastation for Craigbane in the Ulster final at Celtic Park. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Second half goals deny Craigbane Ulster title at Celtic Park](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry and Strabane Council issues update on services in relation to Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry and Strabane Council issues update on services in relation to Storm Bert")](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry and Strabane Council issues update on services in relation to Storm Bert](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Requiem Mass for popular Derry-born priest Fr William John Bradley](https://www.derrynow.com/resizer/165/93/true/2024_11_22/IDNT_21-11-24_John_Bradley_30218845-1732282035724_1732282053.jpg--.jpg?1732282053854 "Requiem Mass for popular Derry-born priest Fr William John Bradley")](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
 
 The late Fr John Bradley.
 
@@ -524,7 +534,7 @@ The late Fr John Bradley.
 [Requiem Mass for popular Derry-born priest Fr William John Bradley](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal")](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
+[![Donegal](https://www.derrynow.com/resizer/165/93/true/2024_11_23/Obit_and_deaths-1709651481930.jpg--deaths_in_donegal__monday_evening__march_4__2024__Cropped-1732345698768.jpg--.jpg?1732345698788 "Donegal")](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -544,22 +554,6 @@ The late Fr John Bradley.
 
 [Poor weather conditions impacting roads across Causeway Coast and Glens District](https://www.derrynow.com/news/local-news/1662884/poor-weather-conditions-impacting-roads-across-causeway-coast-and-glens-district.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, November 23, 2024](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/resizer/165/93/true/2024_11_22/22-11-24_DCSDC_xmas_lights_03-1732313992914.jpg--.jpg?1732313993818 "Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
-
-The magical scene in Guildhall Square on Friday night as the Christmas Tree is switched on.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
