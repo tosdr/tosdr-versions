@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [!['He's got a gun!' Shots fired, 1 in custody near Southlake Central Market](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/7b101b12e1aa6e68c1e149a028e92a41.jpg?ve=1&tl=1)
+ [![Trump nominates former NFL player Scott Turner as housing and urban development secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-83361539-1.jpg?ve=1&tl=1)
 
- !['He's got a gun!' Shots fired, 1 in custody near Southlake Central Market](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/7b101b12e1aa6e68c1e149a028e92a41.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shots-fired-southlake-central-market)
+ ![Trump nominates former NFL player Scott Turner as housing and urban development secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-83361539-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominates-nfl-player-scott-turner-housing-secretary)
 
-### ['He's got a gun!' Shots fired, 1 in custody near Southlake Central Market](https://www.fox4news.com/news/shots-fired-southlake-central-market)
+### [Trump nominates former NFL player Scott Turner as housing and urban development secretary](https://www.fox4news.com/news/trump-nominates-nfl-player-scott-turner-housing-secretary)
 
- [![1st US bird flu infection in a child confirmed by CDC](https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/gettyimages-73225724.jpg?ve=1&tl=1)
+ [![Jason and Kylie Kelce announce they are pregnant with fourth daughter](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/11/32/18/kylie-jason-kelce-from-kylie-kelce-instagram.jpg?ve=1&tl=1)
 
- ![1st US bird flu infection in a child confirmed by CDC](https://images.foxtv.com/images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2024/11/32/18/592/333/gettyimages-73225724.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bird-flu-infection-child-california-confimed-cdc)
+ ![Jason and Kylie Kelce announce they are pregnant with fourth daughter](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/11/32/18/592/333/kylie-jason-kelce-from-kylie-kelce-instagram.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-kylie-kelce-announce-pregnant-fourth-daughter)
 
-### [1st US bird flu infection in a child confirmed by CDC](https://www.fox4news.com/news/bird-flu-infection-child-california-confimed-cdc)
+### [Jason and Kylie Kelce announce they are pregnant with fourth daughter](https://www.fox4news.com/news/jason-kylie-kelce-announce-pregnant-fourth-daughter)
 
- [![Kendrick Lamar drops 'GNX,' new surprise album](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1515117715-scaled.jpg?ve=1&tl=1)
+ [![Trump to nominate Scott Bessent as treasury secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/scott-bessent-getty.jpg?ve=1&tl=1)
 
- ![Kendrick Lamar drops 'GNX,' new surprise album](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1515117715-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gnx-kendrick-lamar-surprise-album)
+ ![Trump to nominate Scott Bessent as treasury secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/scott-bessent-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominate-scott-bessent-treasury-secretary)
 
-### [Kendrick Lamar drops 'GNX,' new surprise album](https://www.fox4news.com/news/gnx-kendrick-lamar-surprise-album)
+### [Trump to nominate Scott Bessent as treasury secretary](https://www.fox4news.com/news/trump-nominate-scott-bessent-treasury-secretary)
 
- [![What is Glicked? What to know about this year's Barbenheimer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/05/32/18/GCT-00008.jpg?ve=1&tl=1)
+ [![Art students paint mural to brighten TWU walkway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-lori-twu-murals-honor-fmr-art-students-5p_00.00.02.36.jpg?ve=1&tl=1)
 
- ![What is Glicked? What to know about this year's Barbenheimer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/05/32/18/592/333/GCT-00008.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/what-is-glicked-what-know-barbenheimer)
+ ![Art students paint mural to brighten TWU walkway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-lori-twu-murals-honor-fmr-art-students-5p_00.00.02.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/art-students-paint-mural-brighten-twu-walkway)
 
-### [What is Glicked? What to know about this year's Barbenheimer](https://www.fox4news.com/news/what-is-glicked-what-know-barbenheimer)
+### [Art students paint mural to brighten TWU walkway](https://www.fox4news.com/news/art-students-paint-mural-brighten-twu-walkway)
 
- [![Trump's hush money sentencing postponed indefinitely](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183885737.jpg?ve=1&tl=1)
+ [![Tarrant County celebrates National Adoption Day with 33 child adoptions](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-tarrant-co-nat_l-adoption-day-4p_00.00.04.10.jpg?ve=1&tl=1)
 
- ![Trump's hush money sentencing postponed indefinitely](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183885737.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-hush-money-sentencing-postponed-indefinitely)
+ ![Tarrant County celebrates National Adoption Day with 33 child adoptions](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-tarrant-co-nat_l-adoption-day-4p_00.00.04.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/33-children-were-adopted-tarrant-county-today)
 
-### [Trump's hush money sentencing postponed indefinitely](https://www.fox4news.com/news/trump-hush-money-sentencing-postponed-indefinitely)
+### [Tarrant County celebrates National Adoption Day with 33 child adoptions](https://www.fox4news.com/news/33-children-were-adopted-tarrant-county-today)
 
 ###### [News](https://www.fox4news.com/news)
 
