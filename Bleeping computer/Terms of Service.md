@@ -36,18 +36,18 @@
         
         Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
     
+    * [![Microsoft testing Windows 11 support for third-party passkeys](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft testing Windows 11 support for third-party passkeys](https://www.bleepingcomputer.com/news/security/microsoft-testing-windows-11-support-for-third-party-passkeys/)
+    * [![Hackers abuse Avast anti-rootkit driver to disable defenses](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Hackers abuse Avast anti-rootkit driver to disable defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-avast-anti-rootkit-driver-to-disable-defenses/)
+    * [![Gain lifetime access to top cybersecurity courses at Infosec4TC in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Gain lifetime access to top cybersecurity courses at Infosec4TC in this deal](https://www.bleepingcomputer.com/offer/deals/gain-lifetime-access-to-top-cybersecurity-courses-at-infosec4tc-in-this-deal/)
     * [![Windows 10 KB5046714 update fixes bug preventing app uninstalls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows 10 KB5046714 update fixes bug preventing app uninstalls](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5046714-update-fixes-bug-preventing-app-uninstalls/)
-    * [![QNAP pulls buggy QTS firmware causing widespread NAS issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        QNAP pulls buggy QTS firmware causing widespread NAS issues](https://www.bleepingcomputer.com/news/technology/qnap-pulls-buggy-qts-firmware-causing-widespread-nas-issues/)
-    * [![Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack'](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack'](https://www.bleepingcomputer.com/news/security/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/)
-    * [![Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-plus-pcs/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
