@@ -196,63 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Kobus Venter
+Anri van der Linde
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=147590545)  
-FJW Security Cc
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=111810395)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=147023747)  
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=191127859)  
+VIV'S TRUCKS (Pty) Ltd. (117)
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=23715669)  
+Beyond Laser CNC Cutting Technology South Africa CC
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=94092016)  
+Oak Tree Immigration
+
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=136569829)  
+Prosper Park
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=35452942)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=25949378)  
+Roekeloos Group
+
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=186608288)  
+Forgotten Goods (Pty) Ltd
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=57111293)  
+VerdanTech Pty Ltd
+
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=23261008)  
+Salvage Genie
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=138535823)  
 Firstweb Hosting & Design
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=136064255)  
-AquariumSmiths
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=142991957)  
+Dombieterfontein (PTY) LTD
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=75789056)  
-Lion Software Develepment
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=118003901)  
+FX ACCOUNTING
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=61411640)  
-Cpower Projects t/a Pro Pure Water
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=95696128)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=154052848)  
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=71652534)  
 Kaylas Creations
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=97217629)  
-Imhoff Equestrian Centre
-
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=202848481)  
-TIGERDSL
-
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=101581470)  
-Imvubu General Trading
-
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=143086239)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
-
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=100308342)  
-Cape Adventure Zone
-
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=84845634)  
-Konsortium Operations (PTY) LTD
-
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=185263041)  
-Blue Sky Solar Services
-
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=88bbaffdcb46a6a813bc4268ceadf359838ca98f55e263bfc2f277b16483e7d5&c=175181421)  
-Nogana Events and Decor
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=eaaf05270c4cf7669f3963c7c5a7d4ab87907fbca1e08f7db3697772273eea67&c=205546168)  
+Network Grey (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
