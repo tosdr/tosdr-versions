@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/distruggiamo-la-luna/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/dr-quanto-si-puo-sopravvivere-senza-dormire/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
