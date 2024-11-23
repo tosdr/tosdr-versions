@@ -2,13 +2,15 @@
 
 CHEXY](https://www.chexy.co/)
 
-[Paying rent](https://www.chexy.co/#:A4EXDeSUE)
+[Rent](https://www.chexy.co/#:A4EXDeSUE)
 
 [Rewards](https://www.chexy.co/Rewards)
 
 [Features](https://www.chexy.co/Features)
 
-[Chexy Insider](https://www.chexy.co/insider)
+[Insider](https://www.chexy.co/insider)
+
+[Newlestter](https://www.chexy.co/rundown)
 
 [Wallet](https://www.chexy.co/wallet)
 
