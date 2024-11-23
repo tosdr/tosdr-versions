@@ -269,19 +269,19 @@ article 1 week ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-d
 
 ### NASA Marshall Thermal Engineering Lab Provides Key Insight to Human Landing System
 
-article 11 hours ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-thermal-engineering-lab-provides-key-insight-to-human-landing-system/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 17 hours ago](https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-marshall-thermal-engineering-lab-provides-key-insight-to-human-landing-system/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 8 min read
 
 ### Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
 
-article 1 day ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 2 days ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 6 min read
 
 ### FAQ: The Real Story About Astronaut Health Care in Space
 
-article 1 day ago](https://www.nasa.gov/missions/station/faq-the-real-story-about-astronaut-health-care-in-space/)
+article 2 days ago](https://www.nasa.gov/missions/station/faq-the-real-story-about-astronaut-health-care-in-space/)
 
 ### Highlights
 
@@ -335,7 +335,7 @@ article 3 days ago](https://www.nasa.gov/solar-system/planets/jupiter/jupiter-mo
 
 ### Hubble Captures an Edge-On Spiral with Curve Appeal
 
-article 20 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/artist-concepts/Hubble_FUOrionis_STScI-01JD10SWK9VB6MQ9440ERZ8QP0.jpg)
+article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/artist-concepts/Hubble_FUOrionis_STScI-01JD10SWK9VB6MQ9440ERZ8QP0.jpg)
 
 5 min read
 
@@ -357,7 +357,7 @@ article 3 days ago](https://www.nasa.gov/missions/chandra/nasas-chandra-hubble-t
 
 ### Hubble Captures an Edge-On Spiral with Curve Appeal
 
-article 20 hours ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![An image from a 3D simulation showing the evolution of turbulent flows in the upper layers of the Sun. The more saturated and bright reds represent the most vigorous upward or downward twisting motions. Clear areas represent areas where there is only relatively slow up-flows, with very little twisting.](https://www.nasa.gov/wp-content/uploads/2024/11/11-kitiashvili-i-sc24-sunhelicitytour0.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![An image from a 3D simulation showing the evolution of turbulent flows in the upper layers of the Sun. The more saturated and bright reds represent the most vigorous upward or downward twisting motions. Clear areas represent areas where there is only relatively slow up-flows, with very little twisting.](https://www.nasa.gov/wp-content/uploads/2024/11/11-kitiashvili-i-sc24-sunhelicitytour0.jpg?w=1024)
 
 3 min read
 
@@ -423,7 +423,7 @@ article 3 days ago](https://www.nasa.gov/solar-system/planets/mars/making-mars-m
 
 ### Why NASA Is a Great Place to Launch Your Career 
 
-article 13 hours ago](https://www.nasa.gov/learning-resources/launch-your-career/)[![Northwestern University team members pose with lunar inflatable prototypes from their METALS project in NASA’s 2024 BIG Idea Challenge.](https://www.nasa.gov/wp-content/uploads/2024/11/2024-big-idea-photo-northwestern-university.jpg?w=1024)
+article 19 hours ago](https://www.nasa.gov/learning-resources/launch-your-career/)[![Northwestern University team members pose with lunar inflatable prototypes from their METALS project in NASA’s 2024 BIG Idea Challenge.](https://www.nasa.gov/wp-content/uploads/2024/11/2024-big-idea-photo-northwestern-university.jpg?w=1024)
 
 3 min read
 
