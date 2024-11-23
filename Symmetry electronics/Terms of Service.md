@@ -319,7 +319,6 @@ Back
     * [u-blox](https://www.symmetryelectronics.com/manufacturers/u-blox/)
     * [VIA Technologies, Inc.](https://www.symmetryelectronics.com/manufacturers/via-technologies-inc/)
     * [Virtium](https://www.symmetryelectronics.com/manufacturers/virtium/)
-    * [Virtium](https://www.symmetryelectronics.com/manufacturers/virtium-a4c82e6f3623a1a14be268b2aa47e6a5/)
     * [Well Shin](https://www.symmetryelectronics.com/manufacturers/well-shin/)
     * [XMOS](https://www.symmetryelectronics.com/manufacturers/xmos/)
     * [XYC](https://www.symmetryelectronics.com/manufacturers/xyc/)
