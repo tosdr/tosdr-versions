@@ -137,65 +137,63 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Tera4](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1615562-1724699096.jpg)](https://lyricstranslate.com/en/translator/tera4 "Tera4")
-
-New translation
-
-[Taylor Swift - Fortnight](https://lyricstranslate.com/en/taylor-swift-fortnight-czech)
-
-English → Czech
-
-[![want](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521183-1723169121.jpg)](https://lyricstranslate.com/en/translator/want "want")
+[![altermetax](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1360194-1684108359.png)](https://lyricstranslate.com/en/translator/altermetax "altermetax")
 
 New comment
 
-https://www.merriam-webster.com/dictionary/suffer ...  [more](https://lyricstranslate.com/en/comment/1177530#comment-1177530)
+Danke Hansi :) Hast du eine Ahnung, was in den ...  [more](https://lyricstranslate.com/en/comment/1177860#comment-1177860)
 
-[![Olga Ledo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1563930-1677416532.jpg)](https://lyricstranslate.com/en/translator/olga-ledo "Olga Ledo")
-
-New song
-
-[Tetiana Vlasova - двадцять четверте лютого сталося вчора](https://lyricstranslate.com/en/tetiana-vlasova-dvadtsyat-chetverte-lyut-lyrics)
-
-Ukrainian
-
-[![다이아](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/%EB%8B%A4%EC%9D%B4%EC%95%84 "다이아")
-
-New request
-
-[Fish in a Birdcage - Rule #34](https://lyricstranslate.com/en/request/rule-34-0)
-
-English → Korean
-
-[![Gabi Leon](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637665-1732144640.png)](https://lyricstranslate.com/en/translator/gabi-leon "Gabi Leon")
-
-New request
-
-[Jukjae - 그리워 (Monologue) (geuliwo)](https://lyricstranslate.com/en/request/%EA%B7%B8%EB%A6%AC%EC%9B%8C-monologue)
-
-Korean → Spanish
-
-[![MariusWoodward](https://lyricstranslate.com/files/styles/micro/public/avatar-default-m.png)](https://lyricstranslate.com/en/translator/mariuswoodward "MariusWoodward")
-
-New translation
-
-[Jo Stafford - If](https://lyricstranslate.com/en/jo-stafford-if-german-0)
-
-English → German
-
-[![theguy](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/theguy "theguy")
-
-New translation
-
-[Deine Lakaien - Sometimes](https://lyricstranslate.com/en/deine-lakaien-sometimes-german)
-
-English → German
-
-[![Cristopher Ladines J.](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1567891-1680388447.jpg)](https://lyricstranslate.com/en/translator/cristopher-ladines-j "Cristopher Ladines J.")
+[![Connor Langille](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399875-1669484245.png)](https://lyricstranslate.com/en/translator/connor-langille "Connor Langille")
 
 New song
 
-[Casuarina - Disritmia](https://lyricstranslate.com/en/casuarina-disritmia-lyrics)
+[NoGoD - 愚蓮](https://lyricstranslate.com/en/nogod-guren-lyrics)
+
+Japanese
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Diaframma - Indubitabile](https://lyricstranslate.com/en/diaframma-indubitabile-english)
+
+Italian → English
+
+[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
+
+New song
+
+[INÊS APENAS - sonho lindo](https://lyricstranslate.com/en/ines-apenas-sonho-lindo-lyrics)
+
+Portuguese
+
+[![Lilmon](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472495-1660587951.jpg)](https://lyricstranslate.com/en/translator/lilmon "Lilmon")
+
+Transcription request fulfilled
+
+[Oublier](https://lyricstranslate.com/en/nicky-doll-oublier-lyrics)
+
+French
+
+[![Lilmon](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472495-1660587951.jpg)](https://lyricstranslate.com/en/translator/lilmon "Lilmon")
+
+New song
+
+[Nicky Doll - Oublier](https://lyricstranslate.com/en/nicky-doll-oublier-lyrics)
+
+French
+
+[![Freigeist](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1249237-1553665246.jpg)](https://lyricstranslate.com/en/translator/freigeist "Freigeist")
+
+New comment
+
+\>"Kele: Gebt mir noch nur einen Baum und etwas ...  [more](https://lyricstranslate.com/en/comment/1177859#comment-1177859)
+
+[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
+
+New song
+
+[INÊS APENAS - VEM CÁ](https://lyricstranslate.com/en/ines-apenas-vem-ca-lyrics)
 
 Portuguese
 
