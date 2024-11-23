@@ -1,15 +1,15 @@
-Friday, November 22 2024
+Saturday, November 23 2024
 
 Breaking News
 
+* [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
+* [Trump Reveals Scott Bessent As Pick For Treasury Secretary](https://www.conservativedailynews.com/2024/11/trump-reveals-scott-bessent-as-pick-for-treasury-secretary/)
+* [Chinese Agents Can Now Access Every American’s Phone Calls And Texts, GOP Senator Warns](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
+* [Who Would Be Surprised To Learn That Patrons Of The Radical, Political Left Would Behave Like Patrons Of The Radical, Political Left?](https://www.conservativedailynews.com/2024/11/who-would-be-surprised-to-learn-that-patrons-of-the-radical-political-left-would-behave-like-patrons-of-the-radical-political-left/)
+* [May The Spirit Of Laken Riley Shed Light On A Broken Judicial System](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/)
 * [Trump Announces New Attorney General After Gaetz Withdrawal](https://www.conservativedailynews.com/2024/11/trump-announces-new-attorney-general-after-gaetz-withdrawal/)
 * [FINALLY: Bob Casey Concedes To Dave McCormick](https://www.conservativedailynews.com/2024/11/finally-bob-casey-concedes-to-dave-mccormick/)
 * [It Is A Coming Out Party For Trump Supporters](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/)
-* [President Joe Biden’s Schedule for Friday, November 22, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-22-2024/)
-* [Biden Admin Moves To Forgive Multi-Billion Dollar Loan To Ukraine](https://www.conservativedailynews.com/2024/11/biden-admin-moves-to-forgive-multi-billion-dollar-loan-to-ukraine/)
-* [Matt Gaetz Withdraws From Attorney General Nomination](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
-* [Foreign Officials Make Serious Push For Global Climate Taxes Ahead Of Trump’s Second Term](https://www.conservativedailynews.com/2024/11/foreign-officials-make-serious-push-for-global-climate-taxes-ahead-of-trumps-second-term/)
-* [Have the Lawless Democrats Learned their Lesson Yet?](https://www.conservativedailynews.com/2024/11/have-the-lawless-democrats-learned-their-lesson-yet/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,21 +115,57 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![Made in China](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
+    
+    [Chinese Agents Can Now Access Every American’s Phone Calls And Texts, GOP Senator Warns](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
+    
+    November 22, 2024
+    
 * [![breaking news banner](https://www.conservativedailynews.com/wp-content/uploads/2018/02/breaking-news-banner.jpg)](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
     
     [Matt Gaetz Withdraws From Attorney General Nomination](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
     
     November 21, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Elon-Musk-Donald-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
-    
-    [Elon Musk, Vivek Ramaswamy Outline Sweeping Plan to Cut Federal Regulations And Staffing](https://www.conservativedailynews.com/2024/11/elon-musk-vivek-ramaswamy-outline-sweeping-plan-to-cut-federal-regulations-and-staffing/)
-    
-    November 20, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Transgender-threatens-violence-on-Christians-Conservatives-220x150.jpg)](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
+    
+    [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
+    
+    November 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/Department-of-the-Treasury.jpg)](https://www.conservativedailynews.com/2024/11/trump-reveals-scott-bessent-as-pick-for-treasury-secretary/)
+    
+    [Trump Reveals Scott Bessent As Pick For Treasury Secretary](https://www.conservativedailynews.com/2024/11/trump-reveals-scott-bessent-as-pick-for-treasury-secretary/)
+    
+    November 22, 2024
+    
+* [![Made in China](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
+    
+    [Chinese Agents Can Now Access Every American’s Phone Calls And Texts, GOP Senator Warns](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
+    
+    November 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Screaming-Dems-220x150.png)](https://www.conservativedailynews.com/2024/11/who-would-be-surprised-to-learn-that-patrons-of-the-radical-political-left-would-behave-like-patrons-of-the-radical-political-left/)
+    
+    [Who Would Be Surprised To Learn That Patrons Of The Radical, Political Left Would Behave Like Patrons Of The Radical, Political Left?](https://www.conservativedailynews.com/2024/11/who-would-be-surprised-to-learn-that-patrons-of-the-radical-political-left-would-behave-like-patrons-of-the-radical-political-left/)
+    
+    November 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/say-her-name/)
+    
+    [Say Her Name](https://www.conservativedailynews.com/2024/11/say-her-name/)
+    
+    November 22, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5803-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/)
+    
+    [May The Spirit Of Laken Riley Shed Light On A Broken Judicial System](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/)
+    
+    November 22, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Donald-Trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/trump-announces-new-attorney-general-after-gaetz-withdrawal/)
     
     [Trump Announces New Attorney General After Gaetz Withdrawal](https://www.conservativedailynews.com/2024/11/trump-announces-new-attorney-general-after-gaetz-withdrawal/)
@@ -142,55 +178,19 @@ Recent Posts
     
     November 22, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5805-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/)
-    
-    [It Is A Coming Out Party For Trump Supporters](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/)
-    
-    November 22, 2024
-    
-* [![Joe Biden war Ukraine Russia](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv112224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/parting-gift/)
-    
-    [Parting Gift](https://www.conservativedailynews.com/2024/11/parting-gift/)
-    
-    November 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/05/Joe-Biden-White-House-Spring-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-22-2024/)
-    
-    [President Joe Biden’s Schedule for Friday, November 22, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-22-2024/)
-    
-    November 22, 2024
-    
-* [![Ukraine Zelenskyy Biden](https://www.conservativedailynews.com/wp-content/uploads/2023/12/image-22-220x150.png)](https://www.conservativedailynews.com/2024/11/biden-admin-moves-to-forgive-multi-billion-dollar-loan-to-ukraine/)
-    
-    [Biden Admin Moves To Forgive Multi-Billion Dollar Loan To Ukraine](https://www.conservativedailynews.com/2024/11/biden-admin-moves-to-forgive-multi-billion-dollar-loan-to-ukraine/)
-    
-    November 21, 2024
-    
-* [![breaking news banner](https://www.conservativedailynews.com/wp-content/uploads/2018/02/breaking-news-banner.jpg)](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
-    
-    [Matt Gaetz Withdraws From Attorney General Nomination](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
-    
-    November 21, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/taxes-220x150.jpg)](https://www.conservativedailynews.com/2024/11/foreign-officials-make-serious-push-for-global-climate-taxes-ahead-of-trumps-second-term/)
-    
-    [Foreign Officials Make Serious Push For Global Climate Taxes Ahead Of Trump’s Second Term](https://www.conservativedailynews.com/2024/11/foreign-officials-make-serious-push-for-global-climate-taxes-ahead-of-trumps-second-term/)
-    
-    November 21, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: The Stinger OTF Knife from Backup Tactical](https://www.thegunpage.com/tfb-review-the-stinger-otf-knife-from-backup-tactical/10612066)
+* [POTD: The CZ P-10 C Or The Dumbbell?](https://www.thegunpage.com/potd-the-cz-p-10-c-or-the-dumbbell/10612063)
+* [TFB Podcast Roundup 156: The November 22nd Roundup](https://www.thegunpage.com/tfb-podcast-roundup-156-the-november-22nd-roundup/10612064)
+* [Hands on with the C&H Precision ERD-1](https://www.thegunpage.com/hands-on-with-the-ch-precision-erd-1/10612061)
+* [Pennsylvania Supreme Court Upholds State’s Firearms Preemption Law](https://www.thegunpage.com/pennsylvania-supreme-court-upholds-states-firearms-preemption-law/10612059)
 * [Ohio Democrats Push 10-Day Waiting Period for Gun Purchases](https://www.thegunpage.com/ohio-democrats-push-10-day-waiting-period-for-gun-purchases/10612056)
 * [Lawsuit Challenges Maine's 72-Hour Waiting Period](https://www.thegunpage.com/lawsuit-challenges-maines-72-hour-waiting-period/10612051)
 * [Canadian Woman Arrested In Texas For Stolen Guns Bound For Canada](https://www.thegunpage.com/canadian-woman-arrested-in-texas-for-stolen-guns-bound-for-canada/10612049)
 * [Preserve History, Win A Classic Sniper Rifle](https://www.thegunpage.com/preserve-history-win-a-classic-sniper-rifle/10612052)
 * [How Democrats Are Trying To Resurrect The Bump Stock Ban](https://www.thegunpage.com/how-democrats-are-trying-to-resurrect-the-bump-stock-ban/10612046)
-* [Family At The Heart Of Competition: Inland Empire USPSA Sectional Championships](https://www.thegunpage.com/family-at-the-heart-of-competition-inland-empire-uspsa-sectional-championships/10612045)
-* [TFB Review: DNT Optics TheOne 7-35×56 MRAD Scope](https://www.thegunpage.com/tfb-review-dnt-optics-theone-7-35x56-mrad-scope/10612042)
-* [POTD: JP Rifles JP CTR-02 With New Spuhr RDF Aimpoint Mount](https://www.thegunpage.com/potd-jp-rifles-jp-ctr-02-with-new-spuhr-rdf-aimpoint-mount/10612043)
-* [Concealed Carry Corner: Lights For Carrying Concealed](https://www.thegunpage.com/concealed-carry-corner-lights-for-carrying-concealed/10612044)
-* [PF-1 EDC Bag: Fast Access Concealed Carry EDC Bag For The Unpredictable](https://www.thegunpage.com/pf-1-edc-bag-fast-access-concealed-carry-edc-bag-for-the-unpredictable/10612035)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
