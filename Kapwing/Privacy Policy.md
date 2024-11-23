@@ -358,10 +358,10 @@ If you have any questions or suggestions about our privacy policy, do not hesita
 
 Learn
 
-[About Us](https://www.kapwing.com/about)[Resources](https://www.kapwing.com/help/)[Help Center](https://www.kapwing.com/help/)[Blog](https://www.kapwing.com/blog/)[EDU](https://www.kapwing.com/edu)[Create](https://www.kapwing.com/create)[Explore](https://www.kapwing.com/explore)[Teams](https://www.kapwing.com/teams)[Contact Us](https://www.kapwing.com/contact-us)
+[About Us](https://www.kapwing.com/about)[Resources](https://www.kapwing.com/resources/)[Help Center](https://www.kapwing.com/help/)[Blog](https://www.kapwing.com/blog/)[EDU](https://www.kapwing.com/edu)[Teams](https://www.kapwing.com/teams)[Contact Us](https://www.kapwing.com/contact-us)
 
 Company
 
-[Pricing](https://www.kapwing.com/pricing)[Careers](https://www.kapwing.com/careers)[Partnerships](https://www.kapwing.com/partnerships)[Affiliates](https://www.kapwing.com/affiliates)[Plugins](https://www.kapwing.com/plugins)[Release Notes](https://www.kapwing.com/help/tag/release-notes/)[Creators Fund](https://www.kapwing.com/creators-fund)[Refund Policy](https://www.kapwing.com/policies/refund)[Privacy Policy](https://www.kapwing.com/policies/privacy)[Terms of Service](https://www.kapwing.com/policies/terms-of-service)
+[Pricing](https://www.kapwing.com/pricing)[Careers](https://www.kapwing.com/careers)[Partnerships](https://www.kapwing.com/partnerships)[Affiliates](https://www.kapwing.com/affiliates)[Plugins](https://www.kapwing.com/plugins)[Release Notes](https://www.kapwing.com/help/tag/release-notes/)[Refund Policy](https://www.kapwing.com/policies/refund)[Privacy Policy](https://www.kapwing.com/policies/privacy)[Terms of Service](https://www.kapwing.com/policies/terms-of-service)
 
 © 2024 Kapwing. Made with love in San Francisco, California.
