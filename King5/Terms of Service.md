@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e739dede-74bc-4195-91f3-ec090901bd7c/20241120T224553/e739dede-74bc-4195-91f3-ec090901bd7c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e739dede-74bc-4195-91f3-ec090901bd7c/20241120T224553/e739dede-74bc-4195-91f3-ec090901bd7c_360x203.jpg)](https://www.king5.com/article/news/local/list-shelters-warming-centers-open-western-washington-residents-power-outages/281-8b4d0ed6-ecd4-44b8-a283-53e9ff8797d1)
-        
-        #### [List: Shelters, warming centers open for western WA residents without power](https://www.king5.com/article/news/local/list-shelters-warming-centers-open-western-washington-residents-power-outages/281-8b4d0ed6-ecd4-44b8-a283-53e9ff8797d1)
-        
     *  [![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
         
         #### [Power outage restoration timeline pushed back for some PSE customers](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
+        
+    *  [![](https://media.king5.com/assets/KING/images/51da3cae-951c-476f-97ee-489ad83d7cef/20241123T184708/51da3cae-951c-476f-97ee-489ad83d7cef_16x9.jpg) ![](https://media.king5.com/assets/KING/images/51da3cae-951c-476f-97ee-489ad83d7cef/20241123T184708/51da3cae-951c-476f-97ee-489ad83d7cef_360x203.jpg)](https://www.king5.com/article/money/business/small-business/shopping-local-holiday-gifts-millions-revenue-washington-state/281-b2fe5a2d-eb51-4447-8dbc-53ce0d53bcd8)
+        
+        #### [Shopping local for holiday gifts could mean millions in added revenue in Washington state](https://www.king5.com/article/money/business/small-business/shopping-local-holiday-gifts-millions-revenue-washington-state/281-b2fe5a2d-eb51-4447-8dbc-53ce0d53bcd8)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/eb7333a6-075a-4030-b8ed-6c01feb56e24/20241123T030310/eb7333a6-075a-4030-b8ed-6c01feb56e24_16x9.jpg) ![](https://media.king5.com/assets/KING/images/eb7333a6-075a-4030-b8ed-6c01feb56e24/20241123T030310/eb7333a6-075a-4030-b8ed-6c01feb56e24_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
     *  [![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
         
         #### [Power outage restoration timeline pushed back for some PSE customers](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
+        
+    *  [![](https://media.king5.com/assets/KING/images/0a3afdb8-eaf9-42a6-8c61-d88e539859bd/20241123T163059/0a3afdb8-eaf9-42a6-8c61-d88e539859bd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0a3afdb8-eaf9-42a6-8c61-d88e539859bd/20241123T163059/0a3afdb8-eaf9-42a6-8c61-d88e539859bd_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-45°
+51°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
