@@ -299,6 +299,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев – о проекте «Героям нашего времени»: Этот лозунг войдёт в учебники истории, поможет сохранить и увековечить немало имен](https://cdn.er.ru/media/news/November2024/JitvWavoqCJaQnKiyd2Y-small.jpeg)](https://er.ru/activity/news/vladimir-yakushev-o-proekte-geroyam-nashego-vremeni-etot-lozung-vojdyot-v-uchebniki-istorii-pomozhet-sohranit-i-uvekovechit-nemalo-imen)
+
+[Владимир Якушев – о проекте «Героям нашего времени»: Этот лозунг войдёт в учебники истории, поможет сохранить и увековечить немало имен](https://er.ru/activity/news/vladimir-yakushev-o-proekte-geroyam-nashego-vremeni-etot-lozung-vojdyot-v-uchebniki-istorii-pomozhet-sohranit-i-uvekovechit-nemalo-imen)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#благотворительныйконцерт](https://er.ru/activity/news?tags%5B0%5D=113222) [#героямнашеговремени](https://er.ru/activity/news?tags%5B0%5D=1095941)
+
+Сегодня 12:00
+
+[![Андрей Климов: Авторитет «Единой России» на международной арене растёт](https://cdn.er.ru/media/news/November2024/j3udpVwnl5XmHLjBJArV-small.jpeg)](https://er.ru/activity/news/andrej-klimov-avtoritet-edinoj-rossii-na-mezhdunarodnoj-arene-rastyot)
+
+[Андрей Климов: Авторитет «Единой России» на международной арене растёт](https://er.ru/activity/news/andrej-klimov-avtoritet-edinoj-rossii-na-mezhdunarodnoj-arene-rastyot)
+
+[#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#Камбоджа](https://er.ru/activity/news?tags%5B0%5D=70061) [#МКАПП](https://er.ru/activity/news?tags%5B0%5D=77053) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
+
+Сегодня 11:39
+
+[![Губернатор Роман Бусаргин стал секретарём Саратовского отделения «Единой России»](https://cdn.er.ru/media/news/November2024/VR9M8uriZhlrnkUS2Pm9-small.jpeg)](https://er.ru/activity/news/gubernator-roman-busargin-stal-sekretaryom-saratovskogo-otdeleniya-edinoj-rossii)
+
+[Губернатор Роман Бусаргин стал секретарём Саратовского отделения «Единой России»](https://er.ru/activity/news/gubernator-roman-busargin-stal-sekretaryom-saratovskogo-otdeleniya-edinoj-rossii)
+
+[#Бусаргин](https://er.ru/activity/news?tags%5B0%5D=105265) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#региональнаяконференцияер](https://er.ru/activity/news?tags%5B0%5D=127428)
+
+Сегодня 11:23
+
+[![«Единая Россия» поможет выработать комплекс мер по поддержке жителей приграничных и новых регионов в сфере труда и занятости](https://cdn.er.ru/media/news/November2024/tsEtcFBt61pO4felPsts-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-pomozhet-vyrabotat-kompleks-mer-po-podderzhke-zhitelej-prigranichnyh-i-novyh-regionov-v-sfere-truda-i-zanyatosti)
+
+[«Единая Россия» поможет выработать комплекс мер по поддержке жителей приграничных и новых регионов в сфере труда и занятости](https://er.ru/activity/news/edinaya-rossiya-pomozhet-vyrabotat-kompleks-mer-po-podderzhke-zhitelej-prigranichnyh-i-novyh-regionov-v-sfere-truda-i-zanyatosti)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#занятость](https://er.ru/activity/news?tags%5B0%5D=1799) [#поддержкаграждан](https://er.ru/activity/news?tags%5B0%5D=149237)
+
+Сегодня 10:00
+
 [![«Женское движение Единой России» запустило в новом формате проект «Ты не одна» по поддержке жён участников СВО](https://cdn.er.ru/media/news/November2024/DTOhxRs0pMIZXnDBf6ir-small.JPG)](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-zapustilo-v-novom-formate-proekt-ty-ne-odna-po-podderzhke-zhyon-uchastnikov-svo)
 
 [«Женское движение Единой России» запустило в новом формате проект «Ты не одна» по поддержке жён участников СВО](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-zapustilo-v-novom-formate-proekt-ty-ne-odna-po-podderzhke-zhyon-uchastnikov-svo)
@@ -314,38 +346,6 @@
 [#Хуснуллин](https://er.ru/activity/news?tags%5B0%5D=2916) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#дороги](https://er.ru/activity/news?tags%5B0%5D=872)
 
 22.11.24
-
-[![«Единая Россия» представила лучшие практики организации работы медицинских студотрядов в вузах](https://cdn.er.ru/media/news/November2024/gpkpfl3viaeVLaqo7DkP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-predstavila-luchshie-praktiki-organizacii-raboty-medicinskih-studotryadov-v-vuzah)
-
-[«Единая Россия» представила лучшие практики организации работы медицинских студотрядов в вузах](https://er.ru/activity/news/edinaya-rossiya-predstavila-luchshie-praktiki-organizacii-raboty-medicinskih-studotryadov-v-vuzah)
-
-[#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#Дрожжина](https://er.ru/activity/news?tags%5B0%5D=79696) [#Сидорова](https://er.ru/activity/news?tags%5B0%5D=12624) [#Семенова](https://er.ru/activity/news?tags%5B0%5D=1077) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#круглыйстол](https://er.ru/activity/news?tags%5B0%5D=108586) [#студотряд](https://er.ru/activity/news?tags%5B0%5D=23087) [#медики](https://er.ru/activity/news?tags%5B0%5D=648) [#студенты-медики](https://er.ru/activity/news?tags%5B0%5D=16719)
-
-22.11.24
-
-[![Врио губернатора ЕАО Мария Костюк возглавила региональное отделение «Единой России»](https://cdn.er.ru/media/news/November2024/gkXUAbDDhI3bQDQwSApg-small.jpg)](https://er.ru/activity/news/vrio-gubernatora-eao-mariya-kostyuk-vozglavila-regionalnoe-otdelenie-edinoj-rossii)
-
-[Врио губернатора ЕАО Мария Костюк возглавила региональное отделение «Единой России»](https://er.ru/activity/news/vrio-gubernatora-eao-mariya-kostyuk-vozglavila-regionalnoe-otdelenie-edinoj-rossii)
-
-[#Костюк](https://er.ru/activity/news?tags%5B0%5D=19523) [#Еврейская автономная область](https://er.ru/activity/news?tags%5B0%5D=8459) [#реготделение](https://er.ru/activity/news?tags%5B0%5D=19972) [#конференция](https://er.ru/activity/news?tags%5B0%5D=17) [#избрание](https://er.ru/activity/news?tags%5B0%5D=416)
-
-22.11.24
-
-[![«Единая Россия» проведёт по всей стране праздничные мероприятия ко Дню матери](https://cdn.er.ru/media/news/November2024/i6JiWFyZIftg5Xgyiib0-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provedyot-po-vsej-strane-prazdnichnye-meropriyatiya-ko-dnyu-materi)
-
-[«Единая Россия» проведёт по всей стране праздничные мероприятия ко Дню матери](https://er.ru/activity/news/edinaya-rossiya-provedyot-po-vsej-strane-prazdnichnye-meropriyatiya-ko-dnyu-materi)
-
-[#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#крепкаясемья](https://er.ru/activity/news?tags%5B0%5D=109105) [#женскоедвижениеединойроссии](https://er.ru/activity/news?tags%5B0%5D=1093285) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Деньматери](https://er.ru/activity/news?tags%5B0%5D=1094956) [#поздравления](https://er.ru/activity/news?tags%5B0%5D=2646)
-
-22.11.24
-
-[![Дмитрий Медведев согласовал кандидатуры на должности секретарей реготделений «Единой России»](https://cdn.er.ru/media/news/November2024/bCJiGQJcsq5tmybDixzr-small.JPG)](https://er.ru/activity/news/dmitrij-medvedev-soglasoval-kandidatury-na-dolzhnosti-sekretarej-regotdelenij-edinoj-rossii)
-
-[Дмитрий Медведев согласовал кандидатуры на должности секретарей реготделений «Единой России»](https://er.ru/activity/news/dmitrij-medvedev-soglasoval-kandidatury-na-dolzhnosti-sekretarej-regotdelenij-edinoj-rossii)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#реготделения](https://er.ru/activity/news?tags%5B0%5D=82524) [#собеседования](https://er.ru/activity/news?tags%5B0%5D=118216) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Гольдштейн](https://er.ru/activity/news?tags%5B0%5D=1795) [#Костюк](https://er.ru/activity/news?tags%5B0%5D=19523) [#Первышов](https://er.ru/activity/news?tags%5B0%5D=101048) [#Бусаргин](https://er.ru/activity/news?tags%5B0%5D=105265) [#Бельский](https://er.ru/activity/news?tags%5B0%5D=1092725) [#Ялбаков](https://er.ru/activity/news?tags%5B0%5D=1095897) [#Республика Коми](https://er.ru/activity/news?tags%5B0%5D=1026) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#Еврейская автономная область](https://er.ru/activity/news?tags%5B0%5D=8459) [#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#Республика Алтай](https://er.ru/activity/news?tags%5B0%5D=3973)
-
-21.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
