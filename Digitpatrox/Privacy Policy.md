@@ -20,16 +20,16 @@ Saturday, November 23 2024
 
 Latest
 
+* [How to bring Android 16’s Notification Cooldown brilliance to any phone today – Computerworld](https://digitpatrox.com/how-to-bring-android-16s-notification-cooldown-brilliance-to-any-phone-today-computerworld/)
+* [The PlayStation VR2 Headset Is $150 Off for Black Friday](https://digitpatrox.com/the-playstation-vr2-headset-is-150-off-for-black-friday/)
+* [Talking Cars 458: Driving the 2025 Jeep Compass](https://digitpatrox.com/talking-cars-458-driving-the-2025-jeep-compass/)
+* [A Flawed but Performant Gaming Keyboard](https://digitpatrox.com/a-flawed-but-performant-gaming-keyboard/)
+* [Is It Still Reliable in 2024?](https://digitpatrox.com/is-it-still-reliable-in-2024/)
+* [Xbox Black Friday deals — biggest savings on Series X, Series S and more](https://digitpatrox.com/xbox-black-friday-deals-biggest-savings-on-series-x-series-s-and-more/)
+* [Hackers breach US firm over Wi-Fi from Russia in ‘Nearest Neighbor Attack’](https://digitpatrox.com/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/)
+* [The Supreme Court will decide the fate of America’s low-income broadband fund](https://digitpatrox.com/the-supreme-court-will-decide-the-fate-of-americas-low-income-broadband-fund/)
+* [10 Best Animated TV Shows Like Arcane, Ranked](https://digitpatrox.com/10-best-animated-tv-shows-like-arcane-ranked/)
 * [AWS and Anthropic ink deal to accelerate model development, enhance AI chips – Computerworld](https://digitpatrox.com/aws-and-anthropic-ink-deal-to-accelerate-model-development-enhance-ai-chips-computerworld/)
-* [The Best Black Friday Deals on Laptops](https://digitpatrox.com/the-best-black-friday-deals-on-laptops/)
-* [What to Do If Your Head Really Hurts](https://digitpatrox.com/what-to-do-if-your-head-really-hurts/)
-* [Controversial Windows Recall Feature Now Available for Testing](https://digitpatrox.com/controversial-windows-recall-feature-now-available-for-testing/)
-* [Lenovo ThinkPad P1 Gen 7 review](https://digitpatrox.com/lenovo-thinkpad-p1-gen-7-review/)
-* [This Complete Ethical Hacking Bundle Is Now $35](https://digitpatrox.com/this-complete-ethical-hacking-bundle-is-now-35/)
-* [I review phones for a living — here’s what I look for when shopping for Black Friday deals](https://digitpatrox.com/i-review-phones-for-a-living-heres-what-i-look-for-when-shopping-for-black-friday-deals/)
-* [QNAP pulls buggy QTS firmware causing widespread NAS issues](https://digitpatrox.com/qnap-pulls-buggy-qts-firmware-causing-widespread-nas-issues/)
-* [Elon Musk is directing harassment toward individual federal workers](https://digitpatrox.com/elon-musk-is-directing-harassment-toward-individual-federal-workers/)
-* [Today’s Wordle Answer and Hints for November 23, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-23-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3611594-0-07390200-1732335968-shutterstock_2370612067_16.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/aws-and-anthropic-ink-deal-to-accelerate-model-development-enhance-ai-chips-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609666-0-25960300-1732272511-google-android-16.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-to-bring-android-16s-notification-cooldown-brilliance-to-any-phone-today-computerworld/)
     
-    [AWS and Anthropic ink deal to accelerate model development, enhance AI chips – Computerworld](https://digitpatrox.com/aws-and-anthropic-ink-deal-to-accelerate-model-development-enhance-ai-chips-computerworld/)
+    [How to bring Android 16’s Notification Cooldown brilliance to any phone today – Computerworld](https://digitpatrox.com/how-to-bring-android-16s-notification-cooldown-brilliance-to-any-phone-today-computerworld/)
     
-    9 minutes ago
+    22 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDAXXYCE5JAQHRKNX9ECG2G0/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-black-friday-deals-on-laptops/)
+* [![](https://lifehacker.com/imagery/articles/01JDAH3BM8XD1REKBTGNAW8VYP/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-playstation-vr2-headset-is-150-off-for-black-friday/)
     
-    [The Best Black Friday Deals on Laptops](https://digitpatrox.com/the-best-black-friday-deals-on-laptops/)
+    [The PlayStation VR2 Headset Is $150 Off for Black Friday](https://digitpatrox.com/the-playstation-vr2-headset-is-150-off-for-black-friday/)
     
-    37 minutes ago
+    50 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729693230/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-What-to-Do-When-Your-Head-Really-Hurts-1024)](https://digitpatrox.com/what-to-do-if-your-head-really-hurts/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732213768/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Talking-Cars-458-tout-10-24)](https://digitpatrox.com/talking-cars-458-driving-the-2025-jeep-compass/)
     
-    [What to Do If Your Head Really Hurts](https://digitpatrox.com/what-to-do-if-your-head-really-hurts/)
+    [Talking Cars 458: Driving the 2025 Jeep Compass](https://digitpatrox.com/talking-cars-458-driving-the-2025-jeep-compass/)
     
-    47 minutes ago
+    60 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg)](https://digitpatrox.com/controversial-windows-recall-feature-now-available-for-testing/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/11/54019472529_32cca7fc8a_o.jpg)](https://digitpatrox.com/a-flawed-but-performant-gaming-keyboard/)
     
-    [Controversial Windows Recall Feature Now Available for Testing](https://digitpatrox.com/controversial-windows-recall-feature-now-available-for-testing/)
-    
-    49 minutes ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/NdsxiriHvzyz8rnoBgB9nS-1200-80.jpg)](https://digitpatrox.com/lenovo-thinkpad-p1-gen-7-review/)
-    
-    [Lenovo ThinkPad P1 Gen 7 review](https://digitpatrox.com/lenovo-thinkpad-p1-gen-7-review/)
+    [A Flawed but Performant Gaming Keyboard](https://digitpatrox.com/a-flawed-but-performant-gaming-keyboard/)
     
     1 hour ago
+    
+* [![](https://assets.techrepublic.com/uploads/2023/09/tr_09212023-protonvpn-review.jpg)](https://digitpatrox.com/is-it-still-reliable-in-2024/)
+    
+    [Is It Still Reliable in 2024?](https://digitpatrox.com/is-it-still-reliable-in-2024/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [9 minutes ago
+* [22 minutes ago
     
-    ### AWS and Anthropic ink deal to accelerate model development, enhance AI chips – Computerworld](https://digitpatrox.com/aws-and-anthropic-ink-deal-to-accelerate-model-development-enhance-ai-chips-computerworld/)
-* [37 minutes ago
+    ### How to bring Android 16’s Notification Cooldown brilliance to any phone today – Computerworld](https://digitpatrox.com/how-to-bring-android-16s-notification-cooldown-brilliance-to-any-phone-today-computerworld/)
+* [50 minutes ago
     
-    ### The Best Black Friday Deals on Laptops](https://digitpatrox.com/the-best-black-friday-deals-on-laptops/)
-* [47 minutes ago
+    ### The PlayStation VR2 Headset Is $150 Off for Black Friday](https://digitpatrox.com/the-playstation-vr2-headset-is-150-off-for-black-friday/)
+* [60 minutes ago
     
-    ### What to Do If Your Head Really Hurts](https://digitpatrox.com/what-to-do-if-your-head-really-hurts/)
+    ### Talking Cars 458: Driving the 2025 Jeep Compass](https://digitpatrox.com/talking-cars-458-driving-the-2025-jeep-compass/)
 
 Most Popular Topics
 
-* [September 15, 2024
+* [September 17, 2024
     
-    ### Is the ‘Sugarcane’ Workout Any Better Than Regular Track Intervals?](https://digitpatrox.com/is-the-sugarcane-workout-any-better-than-regular-track-intervals/)
-* [3 weeks ago
+    ### OpenAI Confirms ChatGPT Did Message Users First, But It Won’t Anymore](https://digitpatrox.com/openai-confirms-chatgpt-did-message-users-first-but-it-wont-anymore/)
+* [October 2, 2024
     
-    ### How to Transcribe YouTube Videos](https://digitpatrox.com/how-to-transcribe-youtube-videos/)
-* [2 weeks ago
+    ### Microsoft Copilot gets Voice and Vision features – Computerworld](https://digitpatrox.com/microsoft-copilot-gets-voice-and-vision-features-computerworld/)
+* [August 31, 2024
     
-    ### Hands on with AI features in Windows 11 Paint and Notepad](https://digitpatrox.com/hands-on-with-ai-features-in-windows-11-paint-and-notepad/)
+    ### Researcher sued for sharing data stolen by ransomware with media](https://digitpatrox.com/researcher-sued-for-sharing-data-stolen-by-ransomware-with-media/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### I review phones for a living — here’s what I look for when shopping for Black Friday deals](https://digitpatrox.com/i-review-phones-for-a-living-heres-what-i-look-for-when-shopping-for-black-friday-deals/)
 * [3 hours ago
     
-    ### QNAP pulls buggy QTS firmware causing widespread NAS issues](https://digitpatrox.com/qnap-pulls-buggy-qts-firmware-causing-widespread-nas-issues/)
+    ### Hackers breach US firm over Wi-Fi from Russia in ‘Nearest Neighbor Attack’](https://digitpatrox.com/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/)
 * [3 hours ago
     
-    ### Elon Musk is directing harassment toward individual federal workers](https://digitpatrox.com/elon-musk-is-directing-harassment-toward-individual-federal-workers/)
+    ### The Supreme Court will decide the fate of America’s low-income broadband fund](https://digitpatrox.com/the-supreme-court-will-decide-the-fate-of-americas-low-income-broadband-fund/)
+* [3 hours ago
+    
+    ### 10 Best Animated TV Shows Like Arcane, Ranked](https://digitpatrox.com/10-best-animated-tv-shows-like-arcane-ranked/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
+* [September 27, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 21, 2024
-    
-    ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
+    ### The new EufyCam S3 Pro promises impressive night vision](https://digitpatrox.com/the-new-eufycam-s3-pro-promises-impressive-night-vision/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
