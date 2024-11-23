@@ -20,9 +20,21 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Labour Councillor Sam Dalton spoke about the council's support schemes at Council Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Labour-Councillor-Sam-Dalton-spoke-about-the-councils-support-schemes-at-Council-Assembly-360x180.png)](https://southwarknews.co.uk/news/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    [![There will be magical characters around every corner (credit: Kingswood House)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-16.53-1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
     
-    ### [Winter Fuel Payments: Southwark Council offering pensioners emergency £200 payments after government cut winter support](https://southwarknews.co.uk/news/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    ### [Victorian Dulwich mansion to be transformed into an immersive Christmas experience](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
+    
+    [![Peckham Rye Station Square today.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5228-2-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
+    
+    ### [What is going on with Peckham Rye Station Square?](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
+    
+    [![The new mural on the Old Kent Road railway bridge](https://southwarknews.co.uk/wp-content/uploads/2024/11/home_from_home_okr_mural_211124-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
+    
+    ### [Ugly railway bridge on Old Kent Road gets bright makeover ahead of area’s transformation](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
+    
+    [![Labour Councillor Sam Dalton spoke about the council's support schemes at Council Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Labour-Councillor-Sam-Dalton-spoke-about-the-councils-support-schemes-at-Council-Assembly-360x180.png)](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    
+    ### [Winter Fuel Payments: Southwark Council offering pensioners emergency £200 payments after government cut winter support](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
     
     [![Fredericks Playground. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/Fredericks-Playground-1-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
     
@@ -43,18 +55,6 @@
     [![photo: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
     
     ### [Comment: Southwark Council is leading the charge on kids’ nutrition](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
-    
-    [![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-    
-    ### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-    
-    [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
-    
-    ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
-    
-    [![Tram-style buses are hitting the 358 route from Crystal Palace. Image: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/11/358-Side-view-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
-    
-    ### [New tram-style buses now departing from Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,9 +105,21 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Labour Councillor Sam Dalton spoke about the council's support schemes at Council Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Labour-Councillor-Sam-Dalton-spoke-about-the-councils-support-schemes-at-Council-Assembly-360x180.png)](https://southwarknews.co.uk/news/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    [![There will be magical characters around every corner (credit: Kingswood House)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-16.53-1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
     
-    ### [Winter Fuel Payments: Southwark Council offering pensioners emergency £200 payments after government cut winter support](https://southwarknews.co.uk/news/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    ### [Victorian Dulwich mansion to be transformed into an immersive Christmas experience](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
+    
+    [![Peckham Rye Station Square today.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5228-2-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
+    
+    ### [What is going on with Peckham Rye Station Square?](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
+    
+    [![The new mural on the Old Kent Road railway bridge](https://southwarknews.co.uk/wp-content/uploads/2024/11/home_from_home_okr_mural_211124-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
+    
+    ### [Ugly railway bridge on Old Kent Road gets bright makeover ahead of area’s transformation](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
+    
+    [![Labour Councillor Sam Dalton spoke about the council's support schemes at Council Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Labour-Councillor-Sam-Dalton-spoke-about-the-councils-support-schemes-at-Council-Assembly-360x180.png)](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
+    
+    ### [Winter Fuel Payments: Southwark Council offering pensioners emergency £200 payments after government cut winter support](https://southwarknews.co.uk/news/politics/winter-fuel-payments-southwark-council-offering-pensioners-emergency-200-payments-after-government-cut-winter-support/)
     
     [![Fredericks Playground. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/Fredericks-Playground-1-360x180.jpeg)](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
     
@@ -128,18 +140,6 @@ View All Result
     [![photo: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
     
     ### [Comment: Southwark Council is leading the charge on kids’ nutrition](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
-    
-    [![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-    
-    ### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-    
-    [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
-    
-    ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
-    
-    [![Tram-style buses are hitting the 358 route from Crystal Palace. Image: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/11/358-Side-view-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
-    
-    ### [New tram-style buses now departing from Crystal Palace](https://southwarknews.co.uk/area/crystal-palace/new-tram-style-buses-now-departing-from-crystal-palace/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -351,17 +351,17 @@ Website
 
 [20th November 2024](https://southwarknews.co.uk/area/bermondsey/havent-they-got-enough-money-locals-react-as-royals-charge-guys-and-st-thomas-trust-11-4m-to-store-ambulances-on-kings-land-in-bermondsey/)
 
-[![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
-
-### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
-
-[18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
-
 [![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
 ### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
 [21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+
+[![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+[18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
 
 [![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-120x86.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
 
@@ -369,17 +369,17 @@ Website
 
 [16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
 
-[![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-120x86.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
-
-### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
-
-[18th November 2024](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
-
 [![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
 
 ### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
 
 [20th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
+
+[![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-120x86.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+
+### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+
+[18th November 2024](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
 
 ### Featured Articles
 
