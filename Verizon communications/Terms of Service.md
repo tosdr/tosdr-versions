@@ -278,13 +278,10 @@ Close
 
 [Español](https://espanol.verizon.com/)
 
-Get the [iPhone 15](https://www.verizon.com/smartphones/apple-iphone-15/) or [iPhone 15 Plus](https://www.verizon.com/smartphones/apple-iphone-15-plus/) on us with new line on any plan. l Or, [iPhone 16 Pro](https://www.verizon.com/smartphones/apple-iphone-16-pro/) on us with new line on Unlimited Ultimate. Online only.  |  [Details](javascript:void(0);)
+Everyone can get a [free phone](https://www.verizon.com/smartphones/?special-offers=free) on us! Plus switchers receive an additional $300 gift card. Online only. Applies in cart. Limited Time offer.  |  [Details](javascript:void(0);)
 
-iPhone 15: $729.99 (128 GB only) purchase w/ new smartphone line on Unlimited Ultimate, postpaid Unlimited Plus or Unlimited Welcome plan (min. $65/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $729.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.   
-  
-iPhone 15 Plus: $829.99 (128 GB only) purchase w/ new smartphone line on Unlimited Ultimate, postpaid Unlimited Plus or Unlimited Welcome plan (min. $65/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $829.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.  
-  
-iPhone 16 Pro: $999.99 (128 GB only) purchase w/ new smartphone line on Unlimited Ultimate plan (min. $90/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $999.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.
+Details  
+Get a $300 Verizon e-Gift Card on us, when you complete the smartphone purchase from your cart. You’ll be able to redeem a $300 Verizon e-Gift Card in My Verizon or [vzw.com/myverizon](https://secure.verizon.com/signin) after placing your order. You must submit for redemption within 60 days of order. Your reward will be sent via email within 8 weeks after receipt and validation of claim to the submitted email address. If service is canceled or device is returned, claim will be invalid. We reserve the right to charge the amount of the Verizon e-Gift Card to your Verizon Wireless account if, within 12 months, service is canceled, price plan changes from an eligible unlimited plan, or the line is connected to a device payment plan regardless of whether the new device is activated. A suspension without billing will add the time you are suspended to your 12 month chargeback window. Add’l terms apply.
 
 end of navigation menu
 
