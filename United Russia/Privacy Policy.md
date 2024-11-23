@@ -305,7 +305,7 @@
 
 [#Ульяновская область](https://er.ru/activity/news?tags%5B0%5D=2044) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#экспозиция](https://er.ru/activity/news?tags%5B0%5D=3390) [#Лобунец](https://er.ru/activity/news?tags%5B0%5D=1094786)
 
-Сегодня 14:00
+23.11.24
 
 [![Владимир Якушев – о проекте «Героям нашего времени»: Этот лозунг войдёт в учебники истории, поможет сохранить и увековечить немало имен](https://cdn.er.ru/media/news/November2024/JitvWavoqCJaQnKiyd2Y-small.jpeg)](https://er.ru/activity/news/vladimir-yakushev-o-proekte-geroyam-nashego-vremeni-etot-lozung-vojdyot-v-uchebniki-istorii-pomozhet-sohranit-i-uvekovechit-nemalo-imen)
 
@@ -313,7 +313,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#благотворительныйконцерт](https://er.ru/activity/news?tags%5B0%5D=113222) [#героямнашеговремени](https://er.ru/activity/news?tags%5B0%5D=1095941)
 
-Сегодня 12:00
+23.11.24
 
 [![Андрей Климов: Авторитет «Единой России» на международной арене растёт](https://cdn.er.ru/media/news/November2024/BUrpOdHYoooG2K4KF0eR-small.jpeg)](https://er.ru/activity/news/andrej-klimov-avtoritet-edinoj-rossii-na-mezhdunarodnoj-arene-rastyot)
 
@@ -321,7 +321,7 @@
 
 [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#Камбоджа](https://er.ru/activity/news?tags%5B0%5D=70061) [#МКАПП](https://er.ru/activity/news?tags%5B0%5D=77053) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
 
-Сегодня 11:39
+23.11.24
 
 [![Губернатор Роман Бусаргин стал секретарём Саратовского отделения «Единой России»](https://cdn.er.ru/media/news/November2024/VR9M8uriZhlrnkUS2Pm9-small.jpeg)](https://er.ru/activity/news/gubernator-roman-busargin-stal-sekretaryom-saratovskogo-otdeleniya-edinoj-rossii)
 
@@ -329,7 +329,7 @@
 
 [#Бусаргин](https://er.ru/activity/news?tags%5B0%5D=105265) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#региональнаяконференцияер](https://er.ru/activity/news?tags%5B0%5D=127428)
 
-Сегодня 11:23
+23.11.24
 
 [![«Единая Россия» поможет выработать комплекс мер по поддержке жителей приграничных и новых регионов в сфере труда и занятости](https://cdn.er.ru/media/news/November2024/tsEtcFBt61pO4felPsts-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-pomozhet-vyrabotat-kompleks-mer-po-podderzhke-zhitelej-prigranichnyh-i-novyh-regionov-v-sfere-truda-i-zanyatosti)
 
@@ -337,7 +337,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#занятость](https://er.ru/activity/news?tags%5B0%5D=1799) [#поддержкаграждан](https://er.ru/activity/news?tags%5B0%5D=149237)
 
-Сегодня 10:00
+23.11.24
 
 [![«Женское движение Единой России» запустило в новом формате проект «Ты не одна» по поддержке жён участников СВО](https://cdn.er.ru/media/news/November2024/DTOhxRs0pMIZXnDBf6ir-small.JPG)](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-zapustilo-v-novom-formate-proekt-ty-ne-odna-po-podderzhke-zhyon-uchastnikov-svo)
 
