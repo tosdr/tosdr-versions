@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Children donned zebra crossing in their campaign for more crossings along Croxted Road](https://southwarknews.co.uk/wp-content/uploads/2024/11/ZebraKids-6222-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
+    
+    ### [Stripey schoolchildren demand more zebra crossings in Dulwich](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
+    
+    [![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+    
+    ### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+    
+    [![M.Manze Tower Bridge Road.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-15-11-2024-at-15.47-360x180.jpg)](https://southwarknews.co.uk/area/borough/pie-and-mash-getting-protected-status-could-be-what-our-beloved-shops-need-to-survive/)
+    
+    ### [Pie and mash getting protected status could be what our beloved shops need to survive](https://southwarknews.co.uk/area/borough/pie-and-mash-getting-protected-status-could-be-what-our-beloved-shops-need-to-survive/)
+    
     [![There will be magical characters around every corner (credit: Kingswood House)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-16.53-1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
     
     ### [Victorian Dulwich mansion to be transformed into an immersive Christmas experience](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
@@ -43,18 +55,6 @@
     [![Police are trying to identify this man in connection with a stabbing on Walworth Road. Image: Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-trying-to-identify-this-man-in-connection-with-a-stabbing-on-Walworth-Road.-Image-Southwark-MPS-360x180.png)](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
     
     ### [Man wanted in connection with Walworth Road stabbing](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
-    
-    [![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
-    
-    ### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
-    
-    [![Missing: Joshua. Image provided by Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Missing-Joshua.-Image-provided-by-Southwark-MPS-360x180.png)](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
-    
-    ### [Missing: Police search for Southwark man](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
-    
-    [![photo: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
-    
-    ### [Comment: Southwark Council is leading the charge on kids’ nutrition](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Children donned zebra crossing in their campaign for more crossings along Croxted Road](https://southwarknews.co.uk/wp-content/uploads/2024/11/ZebraKids-6222-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
+    
+    ### [Stripey schoolchildren demand more zebra crossings in Dulwich](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
+    
+    [![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+    
+    ### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+    
+    [![M.Manze Tower Bridge Road.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-15-11-2024-at-15.47-360x180.jpg)](https://southwarknews.co.uk/area/borough/pie-and-mash-getting-protected-status-could-be-what-our-beloved-shops-need-to-survive/)
+    
+    ### [Pie and mash getting protected status could be what our beloved shops need to survive](https://southwarknews.co.uk/area/borough/pie-and-mash-getting-protected-status-could-be-what-our-beloved-shops-need-to-survive/)
+    
     [![There will be magical characters around every corner (credit: Kingswood House)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-16.53-1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
     
     ### [Victorian Dulwich mansion to be transformed into an immersive Christmas experience](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
@@ -128,18 +140,6 @@ View All Result
     [![Police are trying to identify this man in connection with a stabbing on Walworth Road. Image: Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-trying-to-identify-this-man-in-connection-with-a-stabbing-on-Walworth-Road.-Image-Southwark-MPS-360x180.png)](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
     
     ### [Man wanted in connection with Walworth Road stabbing](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
-    
-    [![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
-    
-    ### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
-    
-    [![Missing: Joshua. Image provided by Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Missing-Joshua.-Image-provided-by-Southwark-MPS-360x180.png)](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
-    
-    ### [Missing: Police search for Southwark man](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
-    
-    [![photo: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/image004-360x180.jpg)](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
-    
-    ### [Comment: Southwark Council is leading the charge on kids’ nutrition](https://southwarknews.co.uk/area/southwark/comment-southwark-council-is-leading-the-charge-on-kids-nutrition/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,6 +243,18 @@ Terms of Use
 
 ### Featured Articles
 
+[![Children donned zebra crossing in their campaign for more crossings along Croxted Road](https://southwarknews.co.uk/wp-content/uploads/2024/11/ZebraKids-6222-2-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
+
+### [Stripey schoolchildren demand more zebra crossings in Dulwich](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
+
+[23rd November 2024](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
+
+[![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+
+### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+
+[23rd November 2024](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+
 [![Fredericks Playground. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/Fredericks-Playground-1-120x86.jpeg)](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
 
 ### [Kennington playground once riddled with abestos reopens after £700,000 revamp](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
@@ -266,18 +278,6 @@ Terms of Use
 ### [Missing: Police search for Southwark man](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
 
 [21st November 2024](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
-
-[![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-
-### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-
-[20th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
-
-[![Mohamed Hamad, 72 (photo: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5548-2-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
-
-### [Exclusive: ‘It’s not my baby,’ says 72-year-old amid claims of bizarre suspected identity mix-up](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
-
-[20th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-its-not-my-baby-says-72-year-old-amid-claims-of-suspected-identity-mix-up/)
 
 ### USEFUL PAGES
 
