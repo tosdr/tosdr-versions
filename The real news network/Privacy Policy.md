@@ -73,6 +73,7 @@ Follow Us
 Trending Posts
 --------------
 
+* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [‘Let this election galvanize and radicalize us’: Abby Martin, Francesca Fiorentini, and Kat Abughazaleh respond to Trump’s win](https://therealnews.com/let-this-election-galvanize-and-radicalize-us-abby-martin-francesca-fiorentini-and-kat-abughazaleh-respond-to-trumps-win)
@@ -82,7 +83,6 @@ Trending Posts
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
 * [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
-* [New DC bill seeks to abolish solitary confinement](https://therealnews.com/new-dc-bill-seeks-to-abolish-solitary-confinement)
 
 Close
 
@@ -137,6 +137,7 @@ Follow Us
 Trending Posts
 --------------
 
+* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [‘Let this election galvanize and radicalize us’: Abby Martin, Francesca Fiorentini, and Kat Abughazaleh respond to Trump’s win](https://therealnews.com/let-this-election-galvanize-and-radicalize-us-abby-martin-francesca-fiorentini-and-kat-abughazaleh-respond-to-trumps-win)
@@ -146,7 +147,6 @@ Trending Posts
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
 * [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
-* [New DC bill seeks to abolish solitary confinement](https://therealnews.com/new-dc-bill-seeks-to-abolish-solitary-confinement)
 
 [Skip to content](#main)
 
