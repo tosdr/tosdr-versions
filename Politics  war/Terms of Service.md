@@ -30,14 +30,14 @@ World[* Nations](https://politicsandwar.com/nations/)[* Alliances](https://polit
 Community[* Forum](https://forum.politicsandwar.com/)[* Discord](https://discord.gg/H9XnGxc)[* Wiki](https://politicsandwar.fandom.com/wiki/Politics_and_War_Wiki)[* Reddit](https://reddit.com/r/politicsandwar)[* Test Server](https://test.politicsandwar.com/)
 
 Orbis Date  
-June 12, 2106  
+June 15, 2106  
   
 Server Time  
-November 23 09:06 am  
-Next turn in **0:54**  
+November 23 03:12 pm  
+Next turn in **0:48**  
   
 Players Online Now  
-91
+163
 
 Terms and Conditions of Use
 
