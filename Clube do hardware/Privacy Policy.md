@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Samuel8122](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253335.thumb.png.2d75ad4520ead0755c0abb75a423595a.png)](https://www.clubedohardware.com.br/profile/1253335-samuel8122/ "Ir ao perfil de Samuel8122")
-        
-        2
-        
-        [Pc não reconhece o SSD e vai pra BIOS quando liga](https://www.clubedohardware.com.br/forums/topic/1703184-pc-n%C3%A3o-reconhece-o-ssd-e-vai-pra-bios-quando-liga/?do=getNewComment "Pc não reconhece o SSD e vai pra BIOS quando liga")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Samuel8122](https://www.clubedohardware.com.br/profile/1253335-samuel8122/ "Ir ao perfil de Samuel8122")  
-        2 horas atrás
-        
-    * [![Anderson Edu](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47662%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255990-anderson-edu/ "Ir ao perfil de Anderson Edu")
+    * [![Pridepjl](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256640.thumb.jpeg.8edc28b30fc6f9fad25c464132b3f628.jpeg)](https://www.clubedohardware.com.br/profile/1256640-pridepjl/ "Ir ao perfil de Pridepjl")
         
         0
         
-        [Os filmes e séries lançados recentemente na TVBOX estão sem o áudio dos diálogos](https://www.clubedohardware.com.br/forums/topic/1703183-os-filmes-e-s%C3%A9ries-lan%C3%A7ados-recentemente-na-tvbox-est%C3%A3o-sem-o-%C3%A1udio-dos-di%C3%A1logos/?do=getNewComment "Os filmes e séries lançados recentemente na TVBOX estão sem o áudio dos diálogos")
+        [Pc desligando sozinho depois de um tempo e não ligando mais](https://www.clubedohardware.com.br/forums/topic/1703222-pc-desligando-sozinho-depois-de-um-tempo-e-n%C3%A3o-ligando-mais/?do=getNewComment "Pc desligando sozinho depois de um tempo e não ligando mais")
         
-        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
-        Por [Anderson Edu](https://www.clubedohardware.com.br/profile/1255990-anderson-edu/ "Ir ao perfil de Anderson Edu")  
-        4 horas atrás
+        [Computador desligando sozinho](https://www.clubedohardware.com.br/forums/forum/258-computador-desligando-sozinho/ "Computador desligando sozinho")  
+        Por [Pridepjl](https://www.clubedohardware.com.br/profile/1256640-pridepjl/ "Ir ao perfil de Pridepjl")  
+        2 minutos atrás
         
-    * [![Toni1836](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1236948.thumb.jpeg.6be9b719c0824493114704fb8be6cf6c.jpeg)](https://www.clubedohardware.com.br/profile/1236948-toni1836/ "Ir ao perfil de Toni1836")
-        
-        2
-        
-        [memória RAM DDR3 dando tela Azul](https://www.clubedohardware.com.br/forums/topic/1703182-mem%C3%B3ria-ram-ddr3-dando-tela-azul/?do=getNewComment "memória RAM DDR3 dando tela Azul")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Toni1836](https://www.clubedohardware.com.br/profile/1236948-toni1836/ "Ir ao perfil de Toni1836")  
-        4 horas atrás
-        
-    * [![andrekm](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256615.thumb.png.2d361aa277876283ec70e6980cf6aced.png)](https://www.clubedohardware.com.br/profile/1256615-andrekm/ "Ir ao perfil de andrekm")
-        
-        1
-        
-        [Placa-Mãe Gigabyte H81M-S1 é compatível com a Placa de Vídeo GeForce RTX 3050?](https://www.clubedohardware.com.br/forums/topic/1703181-placa-m%C3%A3e-gigabyte-h81m-s1-%C3%A9-compat%C3%ADvel-com-a-placa-de-v%C3%ADdeo-geforce-rtx-3050/?do=getNewComment "Placa-Mãe Gigabyte H81M-S1 é compatível com a Placa de Vídeo GeForce RTX 3050?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [andrekm](https://www.clubedohardware.com.br/profile/1256615-andrekm/ "Ir ao perfil de andrekm")  
-        4 horas atrás
-        
-    * [![car_edu29](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-605516.thumb.jpeg.7316888c5f1b7791a2bc3797517729c5.jpeg)](https://www.clubedohardware.com.br/profile/605516-car_edu29/ "Ir ao perfil de car_edu29")
-        
-        2
-        
-        [Processador i5 2500 travado na velocidade](https://www.clubedohardware.com.br/forums/topic/1703180-processador-i5-2500-travado-na-velocidade/?do=getNewComment "Processador i5 2500 travado na velocidade")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [car\_edu29](https://www.clubedohardware.com.br/profile/605516-car_edu29/ "Ir ao perfil de car_edu29")  
-        5 horas atrás
-        
-    * [![soriel80](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1134449.thumb.jpeg.2eed8d7c7db07a2b636c4d7fbbe641cb.jpeg)](https://www.clubedohardware.com.br/profile/1134449-soriel80/ "Ir ao perfil de soriel80")
-        
-        1
-        
-        [Upgrade de PC (sugestões)](https://www.clubedohardware.com.br/forums/topic/1703179-upgrade-de-pc-sugest%C3%B5es/?do=getNewComment "Upgrade de PC (sugestões)")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [soriel80](https://www.clubedohardware.com.br/profile/1134449-soriel80/ "Ir ao perfil de soriel80")  
-        7 horas atrás
-        
-    * [![Djeverson](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256614.thumb.jpeg.e25254751bd7ab1b8d9b4404a7a47ee7.jpeg)](https://www.clubedohardware.com.br/profile/1256614-djeverson/ "Ir ao perfil de Djeverson")
+    * [![starborboleta](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462bd%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256636-starborboleta/ "Ir ao perfil de starborboleta")
         
         0
         
-        [ASUS Tuf Gaming B650-E Wifi é boa para um Ryzen 9 7900x?](https://www.clubedohardware.com.br/forums/topic/1703178-asus-tuf-gaming-b650-e-wifi-%C3%A9-boa-para-um-ryzen-9-7900x/?do=getNewComment "ASUS Tuf Gaming B650-E Wifi é boa para um Ryzen 9 7900x?")
+        [xiaomi 13 pro + tela apresenta estar usando filtro cinza](https://www.clubedohardware.com.br/forums/topic/1703221-xiaomi-13-pro-tela-apresenta-estar-usando-filtro-cinza/?do=getNewComment "xiaomi 13 pro + tela apresenta estar usando filtro cinza")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Djeverson](https://www.clubedohardware.com.br/profile/1256614-djeverson/ "Ir ao perfil de Djeverson")  
-        7 horas atrás
+        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
+        Por [starborboleta](https://www.clubedohardware.com.br/profile/1256636-starborboleta/ "Ir ao perfil de starborboleta")  
+        17 minutos atrás
         
-    * [![Ryan carvalho](https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg)](https://www.clubedohardware.com.br/profile/826458-ryan-carvalho/ "Ir ao perfil de Ryan carvalho")
-        
-        0
-        
-        [water cooler sangue frio v3 240mm dá conta de um r7 5800x?](https://www.clubedohardware.com.br/forums/topic/1703177-water-cooler-sangue-frio-v3-240mm-d%C3%A1-conta-de-um-r7-5800x/?do=getNewComment "water cooler sangue frio v3 240mm dá conta de um r7 5800x?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Ryan carvalho](https://www.clubedohardware.com.br/profile/826458-ryan-carvalho/ "Ir ao perfil de Ryan carvalho")  
-        8 horas atrás
-        
-    * [![Luigorkazama](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1253875.thumb.jpeg.966ff45db6264419631fddce4bf1fd95.jpeg)](https://www.clubedohardware.com.br/profile/1253875-luigorkazama/ "Ir ao perfil de Luigorkazama")
+    * [![trdnt-](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256639.thumb.png.fb74a021838dcded5a65f499575ccfb8.png)](https://www.clubedohardware.com.br/profile/1256639-trdnt/ "Ir ao perfil de trdnt-")
         
         0
         
-        [Meu Wi-Fi fica caindo e conectando a cada 3 segundos, porém no celular funciona!](https://www.clubedohardware.com.br/forums/topic/1703176-meu-wi-fi-fica-caindo-e-conectando-a-cada-3-segundos-por%C3%A9m-no-celular-funciona/?do=getNewComment "Meu Wi-Fi fica caindo e conectando a cada 3 segundos, porém no celular funciona!")
-        
-        [Periféricos - outros](https://www.clubedohardware.com.br/forums/forum/280-perif%C3%A9ricos-outros/ "Periféricos - outros")  
-        Por [Luigorkazama](https://www.clubedohardware.com.br/profile/1253875-luigorkazama/ "Ir ao perfil de Luigorkazama")  
-        8 horas atrás
-        
-    * [![Nelson Lopes](https://www.clubedohardware.com.br/uploads/members/monthly_2020_02/imported-photo-1075304.thumb.jpeg.16eebcd5eb7afa50934614febd8cc96b.jpeg)](https://www.clubedohardware.com.br/profile/1075304-nelson-lopes/ "Ir ao perfil de Nelson Lopes")
-        
-        1
-        
-        [Placa de vídeo para Ryzen 5 5600GT](https://www.clubedohardware.com.br/forums/topic/1703175-placa-de-v%C3%ADdeo-para-ryzen-5-5600gt/?do=getNewComment "Placa de vídeo para Ryzen 5 5600GT")
+        [Qual peça devo fazer o upgrade primeiro?](https://www.clubedohardware.com.br/forums/topic/1703220-qual-pe%C3%A7a-devo-fazer-o-upgrade-primeiro/?do=getNewComment "Qual peça devo fazer o upgrade primeiro?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Nelson Lopes](https://www.clubedohardware.com.br/profile/1075304-nelson-lopes/ "Ir ao perfil de Nelson Lopes")  
-        8 horas atrás
+        Por [trdnt-](https://www.clubedohardware.com.br/profile/1256639-trdnt/ "Ir ao perfil de trdnt-")  
+        42 minutos atrás
+        
+    * [![Gabriel Neves21](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256577.thumb.jpeg.d97f584b721b2b188fc25c8406abce6c.jpeg)](https://www.clubedohardware.com.br/profile/1256577-gabriel-neves21/ "Ir ao perfil de Gabriel Neves21")
+        
+        0
+        
+        [Estou montando um PC com a possibilidade de upgrades futuros](https://www.clubedohardware.com.br/forums/topic/1703219-estou-montando-um-pc-com-a-possibilidade-de-upgrades-futuros/?do=getNewComment "Estou montando um PC com a possibilidade de upgrades futuros")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Gabriel Neves21](https://www.clubedohardware.com.br/profile/1256577-gabriel-neves21/ "Ir ao perfil de Gabriel Neves21")  
+        52 minutos atrás
+        
+    * [![Luan Nunes Janvrin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256637.thumb.png.1af322110900eeeed7dcc0832f1c2ca1.png)](https://www.clubedohardware.com.br/profile/1256637-luan-nunes-janvrin/ "Ir ao perfil de Luan Nunes Janvrin")
+        
+        0
+        
+        [Recomendação de placa-mãe e processador](https://www.clubedohardware.com.br/forums/topic/1703218-recomenda%C3%A7%C3%A3o-de-placa-m%C3%A3e-e-processador/?do=getNewComment "Recomendação de placa-mãe e processador")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Luan Nunes Janvrin](https://www.clubedohardware.com.br/profile/1256637-luan-nunes-janvrin/ "Ir ao perfil de Luan Nunes Janvrin")  
+        56 minutos atrás
+        
+    * [![JPCK](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1008465.thumb.jpeg.7d7bf74eea2a4a3506faa5c9d0c867fc.jpeg)](https://www.clubedohardware.com.br/profile/1008465-jpck/ "Ir ao perfil de JPCK")
+        
+        0
+        
+        [Placa de Vídeo não aplica as mudanças](https://www.clubedohardware.com.br/forums/topic/1703217-placa-de-v%C3%ADdeo-n%C3%A3o-aplica-as-mudan%C3%A7as/?do=getNewComment "Placa de Vídeo não aplica as mudanças")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [JPCK](https://www.clubedohardware.com.br/profile/1008465-jpck/ "Ir ao perfil de JPCK")  
+        1 hora atrás
+        
+    * [![Deathstroke177](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256521.thumb.png.7e36068e4cbae40ac89cc5992cd4f7c3.png)](https://www.clubedohardware.com.br/profile/1256521-deathstroke177/ "Ir ao perfil de Deathstroke177")
+        
+        1
+        
+        [placa-mãe ASUS TUF B360M-PLUS suporta SSD NVMe 4.0?](https://www.clubedohardware.com.br/forums/topic/1703216-placa-m%C3%A3e-asus-tuf-b360m-plus-suporta-ssd-nvme-40/?do=getNewComment "placa-mãe ASUS TUF B360M-PLUS suporta SSD NVMe 4.0?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Deathstroke177](https://www.clubedohardware.com.br/profile/1256521-deathstroke177/ "Ir ao perfil de Deathstroke177")  
+        1 hora atrás
+        
+    * [![Yamura5810](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239fc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EY%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1180721-yamura5810/ "Ir ao perfil de Yamura5810")
+        
+        2
+        
+        [placa-mãe não está reconhecendo memória ram](https://www.clubedohardware.com.br/forums/topic/1703215-placa-m%C3%A3e-n%C3%A3o-est%C3%A1-reconhecendo-mem%C3%B3ria-ram/?do=getNewComment "placa-mãe não está reconhecendo memória ram")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Yamura5810](https://www.clubedohardware.com.br/profile/1180721-yamura5810/ "Ir ao perfil de Yamura5810")  
+        1 hora atrás
+        
+    * [![Jonas E .](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4627e%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256634-jonas-e/ "Ir ao perfil de Jonas E .")
+        
+        3
+        
+        [Qual placa devo pegar, RTX 3070 Ti ou 4060](https://www.clubedohardware.com.br/forums/topic/1703214-qual-placa-devo-pegar-rtx-3070-ti-ou-4060/?do=getNewComment "Qual placa devo pegar, RTX 3070 Ti ou 4060")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Jonas E .](https://www.clubedohardware.com.br/profile/1256634-jonas-e/ "Ir ao perfil de Jonas E .")  
+        2 horas atrás
+        
+    * [![Obiso12122](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a8%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EO%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256633-obiso12122/ "Ir ao perfil de Obiso12122")
+        
+        2
+        
+        [A fonte Rise Mode Zeus 550w é boa?](https://www.clubedohardware.com.br/forums/topic/1703213-a-fonte-rise-mode-zeus-550w-%C3%A9-boa/?do=getNewComment "A fonte Rise Mode Zeus 550w é boa?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Obiso12122](https://www.clubedohardware.com.br/profile/1256633-obiso12122/ "Ir ao perfil de Obiso12122")  
+        2 horas atrás
         
     
 
