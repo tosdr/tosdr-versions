@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KBMT/images/fb101b82-ece0-4981-a894-53cd3cfacd84/fb101b82-ece0-4981-a894-53cd3cfacd84_16x9.jpg) ![](https://media.tegna-media.com/assets/KBMT/images/fb101b82-ece0-4981-a894-53cd3cfacd84/fb101b82-ece0-4981-a894-53cd3cfacd84_360x203.jpg)](https://www.wqad.com/article/news/local/where-to-go-for-a-thanksgiving-meal-in-the-quad-cities-area/526-7f823ed0-419b-466e-bc5e-100c97d4de76)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_360x203.jpg)](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d)
         
-        #### [Where to go for a Thanksgiving meal in the Quad Cities area](https://www.wqad.com/article/news/local/where-to-go-for-a-thanksgiving-meal-in-the-quad-cities-area/526-7f823ed0-419b-466e-bc5e-100c97d4de76)
+        #### [QC audiences flock to 'Wicked' on the big screen](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d) [![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_360x203.jpg)](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c16475e9-dd59-41fb-b255-89bca5c70d6f/20241122T202550/c16475e9-dd59-41fb-b255-89bca5c70d6f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c16475e9-dd59-41fb-b255-89bca5c70d6f/20241122T202550/c16475e9-dd59-41fb-b255-89bca5c70d6f_360x203.jpg)](https://www.wqad.com/article/news/local/the-project-of-the-quad-cities-red-ribbon-gala-candyland-ball/526-3bc96a16-a688-4455-b9c6-ccc898b178b7)
+        #### ['Wicked' makes its way to movie screens in the Quad Cities](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/076332eb-3312-459b-96c3-19f6806a8fb6/20241123T000908/076332eb-3312-459b-96c3-19f6806a8fb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/076332eb-3312-459b-96c3-19f6806a8fb6/20241123T000908/076332eb-3312-459b-96c3-19f6806a8fb6_360x203.jpg)](https://www.wqad.com/article/news/local/new-carpentry-training-facility-east-moline/526-9c8d636e-811d-4627-b21a-f3af16c9f6f8)
         
-        #### ['Sweeten the fight against HIV/AIDS' | The Project of the QC to host Red Ribbon Gala](https://www.wqad.com/article/news/local/the-project-of-the-quad-cities-red-ribbon-gala-candyland-ball/526-3bc96a16-a688-4455-b9c6-ccc898b178b7)
+        #### [New carpentry training facility opens in East Moline](https://www.wqad.com/article/news/local/new-carpentry-training-facility-east-moline/526-9c8d636e-811d-4627-b21a-f3af16c9f6f8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +57,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/9ce50bbe-7d62-40cf-bf5e-90233011c9e3/20241122T131058/9ce50bbe-7d62-40cf-bf5e-90233011c9e3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9ce50bbe-7d62-40cf-bf5e-90233011c9e3/20241122T131058/9ce50bbe-7d62-40cf-bf5e-90233011c9e3_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/67504906-1d0a-40a0-911a-625aa0d0421b/20241122T225101/67504906-1d0a-40a0-911a-625aa0d0421b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/67504906-1d0a-40a0-911a-625aa0d0421b/20241122T225101/67504906-1d0a-40a0-911a-625aa0d0421b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Much quieter skies today and for the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Dry skies continue through the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KGW/images/e46b6948-feb8-4071-ae44-3740d3010c4c/20241121T003202/e46b6948-feb8-4071-ae44-3740d3010c4c_16x9.jpg) ![](https://media.tegna-media.com/assets/KGW/images/e46b6948-feb8-4071-ae44-3740d3010c4c/20241121T003202/e46b6948-feb8-4071-ae44-3740d3010c4c_360x203.jpg)](https://www.wqad.com/article/weather/severe-weather/amtrak-cascades-train-damaged-downed-tree-windstorm/283-83fcb056-a7ae-4caa-84d0-0ee781857374)
         
@@ -86,7 +87,7 @@ Navigation
 
 Davenport, IA »
 
-38°
+34°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
