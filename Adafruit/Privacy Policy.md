@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Everyone you will ever meet knows something you don't”
+“ Art is I; science is we”
 
-[Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye)
+[Claude Bernard](http://en.wikipedia.org/wiki/Claude_Bernard)
 
 [](https://www.adafruit.com/about)
 
