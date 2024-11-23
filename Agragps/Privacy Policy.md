@@ -54,6 +54,7 @@ Close
     Best Fit with
     
     * [Accessories](https://www.agragps.com/product-category/accessories/)
+    * [GPS Bridge/Receiver](https://www.agragps.com/product-category/gps/)
     * [AGCO](https://www.agragps.com/product-category/agco/)
     * [CAT](https://www.agragps.com/product-category/cat/)
     * [Claas](https://www.agragps.com/product-category/claas/)
@@ -203,6 +204,7 @@ Menu
     Best Fit with
     
     * [Accessories](https://www.agragps.com/product-category/accessories/)
+    * [GPS Bridge/Receiver](https://www.agragps.com/product-category/gps/)
     * [AGCO](https://www.agragps.com/product-category/agco/)
     * [CAT](https://www.agragps.com/product-category/cat/)
     * [Claas](https://www.agragps.com/product-category/claas/)
