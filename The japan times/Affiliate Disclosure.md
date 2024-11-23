@@ -255,23 +255,15 @@ Latest News
 
 [Seven & I founding family sounded out KKR and others about buyout: report](https://www.japantimes.co.jp/business/2024/11/23/seven-i-buyout-talks/ "Seven & I founding family sounded out KKR and others about buyout: report")
 
-5 hours ago
+11 hours ago
 
 [Trump tariffs may target Japanese cars, economist says](https://www.japantimes.co.jp/business/2024/11/23/trump-japanese-cars-tariffs/ "Trump tariffs may target Japanese cars, economist says")
 
-6 hours ago
-
 [Woman dies after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
-
-7 hours ago
 
 [Japan to aid introduction of multilingual ride-hailing apps](https://www.japantimes.co.jp/news/2024/11/23/japan/society/japan-multilingual-ride-hailing-app/ "Japan to aid introduction of multilingual ride-hailing apps")
 
-7 hours ago
-
 [Powerful Israeli airstrike in central Beirut kills 11, Lebanese health ministry says](https://www.japantimes.co.jp/news/2024/11/23/world/israel-beirut-strike/ "Powerful Israeli airstrike in central Beirut kills 11, Lebanese health ministry says")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
