@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
 * [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
-* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
+* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
 * [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
-* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
+* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
 * [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
-* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
+* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
 * [Feste Tages­creme von Foamie im Test: Spart Müll – aber pflegt sie auch?](https://www.test.de/Feste-Tagescreme-mit-UV-Schutz-von-Foamie-im-Test-Spart-Muell-aber-pflegt-sie-auch-6067707-0/ "Feste Tagescreme von Foamie im Test - Spart Müll – aber pflegt sie auch?")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
-* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
-* [Kern­investment im Portfolio: Muss es immer MSCI World sein?](https://www.test.de/Kerninvestment-im-Portfolio-Muss-es-immer-MSCI-World-sein-6164684-0/ "Kerninvestment im Portfolio - Muss es immer MSCI World sein?")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
+* [Fyshr AG: Dubioses Fischen nach Anlegergeld](https://www.test.de/Fyshr-AG-Dubioses-Fischen-nach-Anlegergeld-6123126-0/ "Fyshr AG - Dubioses Fischen nach Anlegergeld")
+* [Privatrente vererben: Höheres Erbe, geringere Rente](https://www.test.de/Privatrente-vererben-Hoeheres-Erbe-geringere-Rente-6118926-0/ "Privatrente vererben - Höheres Erbe, geringere Rente")
 
 Service Stiftung Warentest
 
