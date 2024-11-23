@@ -24,7 +24,6 @@
     
 * Template
     
-    * [Create Template](https://docs.zeabur.com/docs/en-US/template/create-template)
     * [Creating Templates from YAML](https://docs.zeabur.com/docs/en-US/template/template-in-code)
     * [Fork Code from Template Services](https://docs.zeabur.com/docs/en-US/template/fork-git-repo-from-template)
     
