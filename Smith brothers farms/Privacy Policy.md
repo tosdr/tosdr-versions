@@ -44,7 +44,7 @@
     * [Yogurt](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
-        * [Kefir](https://www.smithbrothersfarms.com/kefir)
+        * [Kefir & Drinkable Yogurt](https://www.smithbrothersfarms.com/kefir)
             
         * [Greek Yogurt](https://www.smithbrothersfarms.com/greek)
             
@@ -194,7 +194,7 @@ Hi
         
     * [New! (87)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (41)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (64)](https://www.smithbrothersfarms.com/on-special)
         
     * [Thanksgiving Essentials (29)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
@@ -227,7 +227,7 @@ Hi
     * [Yogurt (78)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
-        * [Kefir (3)](https://www.smithbrothersfarms.com/kefir)
+        * [Kefir & Drinkable Yogurt (10)](https://www.smithbrothersfarms.com/kefir)
             
         * [Greek Yogurt (52)](https://www.smithbrothersfarms.com/greek)
             
