@@ -98,7 +98,7 @@ Everything you need for better hearing — all for as low as $995 per pair. Fina
 Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'll refund your entire order.
 
 * Up to 3-year warranty
-* Customer support 7 days a week
+* US-based support, 7 days a week
     
 * Free shipping and returns
 
