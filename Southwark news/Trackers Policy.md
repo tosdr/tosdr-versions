@@ -20,10 +20,6 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Children donned zebra crossing in their campaign for more crossings along Croxted Road](https://southwarknews.co.uk/wp-content/uploads/2024/11/ZebraKids-6222-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-    
-    ### [Stripey schoolchildren demand more zebra crossings in Dulwich](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-    
     [![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
     
     ### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
@@ -55,6 +51,10 @@
     [![Police are trying to identify this man in connection with a stabbing on Walworth Road. Image: Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-trying-to-identify-this-man-in-connection-with-a-stabbing-on-Walworth-Road.-Image-Southwark-MPS-360x180.png)](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
     
     ### [Man wanted in connection with Walworth Road stabbing](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
+    
+    [![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+    
+    ### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,10 +105,6 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
-    [![Children donned zebra crossing in their campaign for more crossings along Croxted Road](https://southwarknews.co.uk/wp-content/uploads/2024/11/ZebraKids-6222-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-    
-    ### [Stripey schoolchildren demand more zebra crossings in Dulwich](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-    
     [![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
     
     ### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
@@ -140,6 +136,10 @@ View All Result
     [![Police are trying to identify this man in connection with a stabbing on Walworth Road. Image: Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-trying-to-identify-this-man-in-connection-with-a-stabbing-on-Walworth-Road.-Image-Southwark-MPS-360x180.png)](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
     
     ### [Man wanted in connection with Walworth Road stabbing](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
+    
+    [![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
+    
+    ### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -239,12 +239,6 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
-[![Children donned zebra crossing in their campaign for more crossings along Croxted Road](https://southwarknews.co.uk/wp-content/uploads/2024/11/ZebraKids-6222-2-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-
-### [Stripey schoolchildren demand more zebra crossings in Dulwich](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-
-[23rd November 2024](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-
 [![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
 
 ### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
@@ -274,6 +268,12 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Missing: Police search for Southwark man](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
 
 [21st November 2024](https://southwarknews.co.uk/area/southwark/missing-police-search-for-southwark-man/)
+
+[![Professor Green (supplied by PR)](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-2-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
+
+### [British rapper Professor Green to switch on Christmas lights in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
+
+[20th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/british-rapper-professor-green-to-switch-on-christmas-lights-in-elephant-and-castle/)
 
 ### USEFUL PAGES
 
