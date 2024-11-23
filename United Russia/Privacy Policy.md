@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» открыла для посетителей выставки «Сила V правде – гордость и победа» в Ульяновске экспозицию поисковых отрядов](https://cdn.er.ru/media/news/November2024/UhE9DaCw8Aly5tGveAZT-small.png)](https://er.ru/activity/news/edinaya-rossiya-otkryla-dlya-posetitelej-vystavki-sila-v-pravde-gordost-i-pobeda-v-ulyanovske-ekspoziciyu-poiskovyh-otryadov)
+
+[«Единая Россия» открыла для посетителей выставки «Сила V правде – гордость и победа» в Ульяновске экспозицию поисковых отрядов](https://er.ru/activity/news/edinaya-rossiya-otkryla-dlya-posetitelej-vystavki-sila-v-pravde-gordost-i-pobeda-v-ulyanovske-ekspoziciyu-poiskovyh-otryadov)
+
+[#Ульяновская область](https://er.ru/activity/news?tags%5B0%5D=2044) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#экспозиция](https://er.ru/activity/news?tags%5B0%5D=3390) [#Лобунец](https://er.ru/activity/news?tags%5B0%5D=1094786)
+
+Сегодня 14:00
+
 [![Владимир Якушев – о проекте «Героям нашего времени»: Этот лозунг войдёт в учебники истории, поможет сохранить и увековечить немало имен](https://cdn.er.ru/media/news/November2024/JitvWavoqCJaQnKiyd2Y-small.jpeg)](https://er.ru/activity/news/vladimir-yakushev-o-proekte-geroyam-nashego-vremeni-etot-lozung-vojdyot-v-uchebniki-istorii-pomozhet-sohranit-i-uvekovechit-nemalo-imen)
 
 [Владимир Якушев – о проекте «Героям нашего времени»: Этот лозунг войдёт в учебники истории, поможет сохранить и увековечить немало имен](https://er.ru/activity/news/vladimir-yakushev-o-proekte-geroyam-nashego-vremeni-etot-lozung-vojdyot-v-uchebniki-istorii-pomozhet-sohranit-i-uvekovechit-nemalo-imen)
@@ -307,7 +315,7 @@
 
 Сегодня 12:00
 
-[![Андрей Климов: Авторитет «Единой России» на международной арене растёт](https://cdn.er.ru/media/news/November2024/j3udpVwnl5XmHLjBJArV-small.jpeg)](https://er.ru/activity/news/andrej-klimov-avtoritet-edinoj-rossii-na-mezhdunarodnoj-arene-rastyot)
+[![Андрей Климов: Авторитет «Единой России» на международной арене растёт](https://cdn.er.ru/media/news/November2024/BUrpOdHYoooG2K4KF0eR-small.jpeg)](https://er.ru/activity/news/andrej-klimov-avtoritet-edinoj-rossii-na-mezhdunarodnoj-arene-rastyot)
 
 [Андрей Климов: Авторитет «Единой России» на международной арене растёт](https://er.ru/activity/news/andrej-klimov-avtoritet-edinoj-rossii-na-mezhdunarodnoj-arene-rastyot)
 
@@ -336,14 +344,6 @@
 [«Женское движение Единой России» запустило в новом формате проект «Ты не одна» по поддержке жён участников СВО](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-zapustilo-v-novom-formate-proekt-ty-ne-odna-po-podderzhke-zhyon-uchastnikov-svo)
 
 [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#помощьсемьяммобилизованных](https://er.ru/activity/news?tags%5B0%5D=1093275)
-
-22.11.24
-
-[![Марат Хуснуллин обсудил с Владимиром Якушевым участие «Единой России» в программах благоустройства, развития дорог и модернизации ЖКХ](https://cdn.er.ru/media/news/November2024/HFJx4cQr3hOXZKP9HHdi-small.JPG)](https://er.ru/activity/news/marat-husnullin-obsudil-s-vladimirom-yakushevym-uchastie-edinoj-rossii-v-programmah-blagoustrojstva-razvitiya-dorog-i-modernizacii-zhkh)
-
-[Марат Хуснуллин обсудил с Владимиром Якушевым участие «Единой России» в программах благоустройства, развития дорог и модернизации ЖКХ](https://er.ru/activity/news/marat-husnullin-obsudil-s-vladimirom-yakushevym-uchastie-edinoj-rossii-v-programmah-blagoustrojstva-razvitiya-dorog-i-modernizacii-zhkh)
-
-[#Хуснуллин](https://er.ru/activity/news?tags%5B0%5D=2916) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#дороги](https://er.ru/activity/news?tags%5B0%5D=872)
 
 22.11.24
 
