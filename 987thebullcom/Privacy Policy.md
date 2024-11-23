@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Lies, Lies, LiesMorgan Wallen<br><br>4:39pm |
-| Lose ItKane Brown<br><br>4:35pm |
-| Dirt CheapCody Johnson<br><br>4:32pm |
-| I Never LieZach Top<br><br>4:28pm |
-| Aint Nothing Bout YouBrooks And Dunn<br><br>4:25pm |
+| Every Little ThingRussell Dickerson<br><br>10:41pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>10:38pm |
+| You ProofMorgan Wallen<br><br>10:35pm |
+| Tough PeopleDrew Baldridge<br><br>10:23pm |
+| Wind Up Missing YouTucker Wetmore<br><br>10:21pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,17 +497,17 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Top 40 • Pacific NW
+Country • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
