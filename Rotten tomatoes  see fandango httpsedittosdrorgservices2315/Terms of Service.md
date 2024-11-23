@@ -18,14 +18,10 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
 *  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Set sail with Moana's Ticket 2 Adventure** Get 2 tickets to Moana 2 & more!
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Mufasa: The Lion King** Chance to win a vacation!
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy select titles on Fandango at Home** Get $5 off Gladiator II on Fandango!
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
-*  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
 
 Go to next offer
 
@@ -67,14 +63,6 @@ Offers
     
     [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer)
     
-* [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
-    
-    ### Gladiator II Prop Auction
-    
-    Take a piece of history home with official props straight from the movie set!
-    
-    [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
-    
 * [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
     
     ### Popular Poster Pack
@@ -82,6 +70,14 @@ Offers
     Get 2 movie tickets to Wicked, a limited edition poster, and more!
     
     [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
+    
+* [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
+    
+    ### Gladiator II Prop Auction
+    
+    Take a piece of history home with official props straight from the movie set!
+    
+    [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
     
 * [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
     
@@ -192,6 +188,16 @@ New & Coming soon
 
 Close
 
+![Rise to victory with The Champion's Collection](https://images.fandango.com/cms/assets/74fa1520-9e30-11ef-8321-2b978811c524--fan-globalnavbar-gladiator2bundle-343x362.png)
+
+#### Ascend to victory with The Champion's Collection featuring 1 ticket to Gladiator II at a Regal theatre, an exclusive 27"x40” Gladiator II physical poster (shipping & handling included), and Gladiator II on Fandango at Home (when available).
+
+The Champion’s Collection Exclusive Movie Pack is non-refundable. While supplies last. Movie ticket is non-refundable,non-exchangeable and valid at Regal theatres only. You must be 18 years of age or older to purchase The Champion’s Collection Exclusive Movie Pack. You must have, and be logged into, a Fandango at Home account to buy The Champion’s Collection Exclusive Movie Pack and receive Gladiator II (pre-order so that you can view it when the studio makes it available) on Fandango at Home. The exclusive Gladiator II poster is 27"x40” and will begin shipping in the month of December. Please use a physical address where the exclusive Gladiator II poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See full terms and conditions at https://fandan.co/TheChampionsCollection for each item included in The Champion’s Collection Exclusive Movie Pack. [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_promomodule)
+
+### Special Offer
+
+Close
+
 ![Gladiator II Prop Auction](https://images.fandango.com/cms/assets/6d178c20-989a-11ef-a07e-5b03d6159fe4--fan-globalnavbar-gladiator2auction-343x362-v5.jpg)
 
 #### Take a piece of history home with our Gladiator II Prop Auction. Check out the Auction for official props straight from the movie set!
@@ -217,53 +223,3 @@ Close
 #### Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more!
 
 Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Moana 2’ between 7:00am PT on 10/28/24 and 11:59pm PT on 11/10/24. Purchaser will receive a post purchase email containing one Fandango at Home Promotional Code (“Code”) that is good for $5 off the purchase (and not the rental) of Moana in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 11/15/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes, shipping and handling additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. If cost of purchase or rental is more than maximum value of the Code, then user must pay the difference. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code are subject to Fandango at Home’s Terms and Policies and Privacy Policy at http://www.fandango.com/terms-and-policies. [BUY TICKETS](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_GlobalNav)
-
-### Special Offer
-
-Close
-
-![Buy a ticket to Mufasa: The Lion King](https://images.fandango.com/cms/assets/678979e0-a3ac-11ef-8321-2b978811c524--fan-globalnavbar-mufasa-343x362.png)
-
-#### Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
-
-Full official rules here: https://nbcuni.sharepoint.com/:w:/s/MarketingHub/Ef8WWBof2rJFrYGy6uqtjpsBVySk2cYBXvC366Y29mRHQg?e=t5p0E2 Abbreviated: NO PURCHASE OR APP NECESSARY. Open to legal residents of the 50 United States and D.C., 18 years of age and older. Void where prohibited. Ends December 29, 2024. For Official Rules/Odds/Free Entry visit https://www.fandangomovietickets.com/ fandangoscrownofthepridesweepstakes.com. Sponsor: Fandango Media, LLC, 12180 Millennium Dr., Ste. 200, Playa Vista, CA, 90094 [LEARN MORE](https://www.fandangomovietickets.com/%20fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_promomodule)
-
-### Special Offer
-
-Close
-
-![Rise to victory with The Champion's Collection](https://images.fandango.com/cms/assets/74fa1520-9e30-11ef-8321-2b978811c524--fan-globalnavbar-gladiator2bundle-343x362.png)
-
-#### Ascend to victory with The Champion's Collection featuring 1 ticket to Gladiator II at a Regal theatre, an exclusive 27"x40” Gladiator II physical poster (shipping & handling included), and Gladiator II on Fandango at Home (when available).
-
-The Champion’s Collection Exclusive Movie Pack is non-refundable. While supplies last. Movie ticket is non-refundable,non-exchangeable and valid at Regal theatres only. You must be 18 years of age or older to purchase The Champion’s Collection Exclusive Movie Pack. You must have, and be logged into, a Fandango at Home account to buy The Champion’s Collection Exclusive Movie Pack and receive Gladiator II (pre-order so that you can view it when the studio makes it available) on Fandango at Home. The exclusive Gladiator II poster is 27"x40” and will begin shipping in the month of December. Please use a physical address where the exclusive Gladiator II poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See full terms and conditions at https://fandan.co/TheChampionsCollection for each item included in The Champion’s Collection Exclusive Movie Pack. [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_promomodule)
-
-### Special Offer
-
-Close
-
-![Buy select titles on Fandango at Home](https://images.fandango.com/cms/assets/52227ad0-98a2-11ef-a588-3b078e6b3d8a--fan-globalnavbar-gladiator2gwp-343x362.png)
-
-#### Save on select movies and get up to $5.00 towards a movie ticket\* to see Gladiator II in theaters.
-
-\*Purchase any of the titles (in any format) listed at \[LINK\] on Fandango at Home or via participating Fandango at Home apps between 12:01 am PT on 11/5/2024 and 11:59 pm PT on 11/25/2024 and receive a Fandango Promotional Code ("Code") good towards the purchase of one movie ticket (up to $5 total ticket price and associated fees and charges) to see Gladiator II partner theaters in the US. Code is void if not redeemed by 12/2/24 or when Gladiator II is in theaters, whichever comes first. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. and D.C., excluding U.S. territories and where prohibited by law. One-time use only. Not for resale; void if sold or exchanged. One Code per transaction. If cost of movie ticket and associated fees and charges are more than maximum value of the Code, then user must pay the difference. Any price difference between movie ticket purchased and maximum value of the Code will not be refunded. The redemption of the Code is subject to Fandango's Terms and Policies at https://www.fandango.com/policies/terms-and-policies. [Learn More](https://www.watchfandangoathome.com/Gladiator2?cmp=TARS~FANDANGO~RewardsGladiator2Promo_GlobalNav)
-
-### SPECIAL OFFER
-
-Close
-
-![Seize the We Are Venom Bundle](https://images.fandango.com/cms/assets/f95099d0-7d41-11ef-8321-2b978811c524--fan-globalnavbar-venom-343x362.jpg)
-
-#### Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more for $99.80!
-
-We Are Venom bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Venom: The Last Dance (pre-order so that you can view it when the studio makes it available), Venom, and Venom: Let There Be Carnage on Fandango at Home. The collectible cup and exclusive poster will begin shipping in the month of November. Please use a physical address where the collectible cup and exclusive poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See Offer Terms (https://www.watchfandangoathome.com/wearevenombundle/) for full terms and conditions for each item included in the We Are Venom bundle. [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_GlobalNav)
-
-### Apple Pay Wednesday
-
-Close
-
-![New Audience Score Badge Unveiled: Verified Hot](https://images.fandango.com/cms/assets/43da3a80-5c02-11ef-a588-3b078e6b3d8a--fan-globalnavbar-applepay-week7-tickets-343x362.png)
-
-#### Today only! Save $5 off your order with Apple Pay.
-
-Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 8/21/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 8/21/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a registered mark of Apple Inc. [Buy Tickets](https://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
