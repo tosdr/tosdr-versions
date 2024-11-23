@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Mesquite park shooting leaves 2 young men injured](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112224-sky-4-friday-315pm-kdfweme002_15_13_45_mpg_00.16.21.00.jpg?ve=1&tl=1)
+ [![Arrest made in connection to Highland Park High School threat](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/highland-park.jpg?ve=1&tl=1)
 
- ![Mesquite park shooting leaves 2 young men injured](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112224-sky-4-friday-315pm-kdfweme002_15_13_45_mpg_00.16.21.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mesquite-shooting-high-school-city-lake-park)
+ ![Arrest made in connection to Highland Park High School threat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/592/333/highland-park.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arrest-made-connection-highland-park-high-school-threat)
 
-### [Mesquite park shooting leaves 2 young men injured](https://www.fox4news.com/news/mesquite-shooting-high-school-city-lake-park)
+### [Arrest made in connection to Highland Park High School threat](https://www.fox4news.com/news/arrest-made-connection-highland-park-high-school-threat)
 
- [![Trump nominates former NFL player Scott Turner as housing and urban development secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/scott-turner-2-getty.jpg?ve=1&tl=1)
+ [![American tourist among those killed in mass alcohol poisoning in Laos](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1077773396-scaled.jpg?ve=1&tl=1)
 
- ![Trump nominates former NFL player Scott Turner as housing and urban development secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/scott-turner-2-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominates-nfl-player-scott-turner-housing-secretary)
+ ![American tourist among those killed in mass alcohol poisoning in Laos](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1077773396-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mass-alcohol-poisoning-laos-american-killed)
 
-### [Trump nominates former NFL player Scott Turner as housing and urban development secretary](https://www.fox4news.com/news/trump-nominates-nfl-player-scott-turner-housing-secretary)
+### [American tourist among those killed in mass alcohol poisoning in Laos](https://www.fox4news.com/news/mass-alcohol-poisoning-laos-american-killed)
 
- [![Baby dies from listeria outbreak linked to recalled ready-to-eat meat and poultry](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-72342665.jpg?ve=1&tl=1)
+ [![Girls on the Run DFW holds 5K in Grand Prairie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/128540a86fe45bd71e4e016229553278.jpg?ve=1&tl=1)
 
- ![Baby dies from listeria outbreak linked to recalled ready-to-eat meat and poultry](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-72342665.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/listeria-outbreak-recalled-meat)
+ ![Girls on the Run DFW holds 5K in Grand Prairie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/128540a86fe45bd71e4e016229553278.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/girls-run-dfw-holds-5k-grand-prairie)
 
-### [Baby dies from listeria outbreak linked to recalled ready-to-eat meat and poultry](https://www.fox4news.com/news/listeria-outbreak-recalled-meat)
+### [Girls on the Run DFW holds 5K in Grand Prairie](https://www.fox4news.com/news/girls-run-dfw-holds-5k-grand-prairie)
 
- [![Jason and Kylie Kelce announce they are pregnant with fourth daughter](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/11/32/18/kylie-jason-kelce-from-kylie-kelce-instagram.jpg?ve=1&tl=1)
+ [![Here's who Trump has picked for his administration so far](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2185178383-scaled.jpg?ve=1&tl=1)
 
- ![Jason and Kylie Kelce announce they are pregnant with fourth daughter](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/11/32/18/592/333/kylie-jason-kelce-from-kylie-kelce-instagram.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-kylie-kelce-announce-pregnant-fourth-daughter)
+ ![Here's who Trump has picked for his administration so far](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185178383-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-cabinet-white-house-appointments-november-2024)
 
-### [Jason and Kylie Kelce announce they are pregnant with fourth daughter](https://www.fox4news.com/news/jason-kylie-kelce-announce-pregnant-fourth-daughter)
+### [Here's who Trump has picked for his administration so far](https://www.fox4news.com/news/trump-cabinet-white-house-appointments-november-2024)
 
- [![Trump to nominate Scott Bessent as treasury secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/scott-bessent-getty.jpg?ve=1&tl=1)
+ [![Woman killed, man critically injured in University Park five-car crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/Ambulance-sized.jpg?ve=1&tl=1)
 
- ![Trump to nominate Scott Bessent as treasury secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/scott-bessent-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominate-scott-bessent-treasury-secretary)
+ ![Woman killed, man critically injured in University Park five-car crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/592/333/Ambulance-sized.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/university-park-deadly-crash-lovers-preston)
 
-### [Trump to nominate Scott Bessent as treasury secretary](https://www.fox4news.com/news/trump-nominate-scott-bessent-treasury-secretary)
+### [Woman killed, man critically injured in University Park five-car crash](https://www.fox4news.com/news/university-park-deadly-crash-lovers-preston)
 
 ###### [News](https://www.fox4news.com/news)
 
