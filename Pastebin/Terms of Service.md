@@ -328,37 +328,37 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐ FREE giftcards method ON](https://pastebin.com/ZufcWM6S)
+* [⭐ FREE giftcards method⭐ TO](https://pastebin.com/WknCB9r9)
     
-    JavaScript | 8 sec ago | 0.17 KB
+    JavaScript | 49 sec ago | 0.17 KB
     
-* [⭐ FREE giftcards method⭐ TO](https://pastebin.com/n5iyTeGd)
-    
-    JavaScript | 1 min ago | 0.17 KB
-    
-* [Xeno executor download link \*WORKING 2024\*](https://pastebin.com/zmCsH3wx)
-    
-    Lua | 8 min ago | 0.20 KB
-    
-* [⭐ get any gift card for AF](https://pastebin.com/0RktruFM)
+* [⭐️ EARN $500 INSTANTLY⭐ NB](https://pastebin.com/02ihJztv)
     
     JavaScript | 8 min ago | 0.17 KB
     
-* [Best working arsenal script 2024](https://pastebin.com/SUXnUKLf)
+* [⭐ get any gift card for FREE⭐ 2I](https://pastebin.com/G1jqiEmK)
     
-    Lua | 9 min ago | 80.78 KB
+    JavaScript | 9 min ago | 0.17 KB
     
-* [⭐ Binance Account hack 3B](https://pastebin.com/qrnxj9CT)
+* [⭐ get any gift card for AF](https://pastebin.com/pWMwEXeT)
     
-    JavaScript | 10 min ago | 0.17 KB
+    JavaScript | 16 min ago | 0.17 KB
     
-* [⭐️ EARN $500 INSTANTLY⭐ NB](https://pastebin.com/Bc1efwY7)
+* [Funny Class](https://pastebin.com/wDaBi3FL)
     
-    JavaScript | 17 min ago | 0.17 KB
+    C# | 17 min ago | 2.65 KB
     
-* [⭐ get any gift card for FREE⭐ 2I](https://pastebin.com/5c3aj7gT)
+* [⭐️ EARN $500 INSTANTLY KE](https://pastebin.com/3xMvthuJ)
     
     JavaScript | 18 min ago | 0.17 KB
+    
+* [⭐️ EARN $500 INSTANTLY⭐ NB](https://pastebin.com/AtUKktm1)
+    
+    JavaScript | 25 min ago | 0.17 KB
+    
+* [⭐ FREE giftcards method⭐ TO](https://pastebin.com/cjUUjPEU)
+    
+    JavaScript | 26 min ago | 0.17 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
