@@ -246,36 +246,6 @@ MuggleNet Archive Select Month November 2024  (15) October 2024  (27) Septembe
 
 ### November 2024
 
-#### Fri, Nov 22
-
-Hagrid leads Harry to dragon enclosure
-
-Recurs yearly
-
-1994
-
-Jamie Campbell Bower's birthday
-
-Recurs yearly
-
-Young Gellert Grindelwald
-
-Mads Mikkelsen's birthday
-
-Recurs yearly
-
-Gellert Grindelwald – FB
-
-Silvanus Kettleburn's birthday
-
-Recurs yearly
-
-Sirius's head appears in the Gryffindor common room fire
-
-Recurs yearly
-
-1994
-
 #### Sun, Nov 24
 
 First task of the Triwizard Tournament
@@ -292,6 +262,12 @@ Recurs yearly
 
 Director (PoA)
 
+#### Fri, Nov 29
+
+Bill Weasley's birthday
+
+Recurs yearly
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -302,15 +278,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Shirley Henderson was aged 35 at the time that she first played Moaning Myrtle. She is the oldest actor to play a Hogwarts student in the Harry Potter films.
+Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
 
 ### Potter History
 
-June 18, 2010 – The Wizarding World of Harry Potter opens at Universal Orlando Resort.
+July 18, 2007 – The New York Times posts an early review of Harry Potter and the Deathly Hallows, which sets off fury among fans.
 
 ### Potter Quote
 
-“Wangoballwime?”
+“The Elder Wand cannot serve me properly, Severus, because I am not its true master. The Elder Wand belongs to the wizard who killed its last owner. You killed Albus Dumbledore. While you live, Severus, the Elder Wand cannot be truly mine.”
 
 [](#)
 
