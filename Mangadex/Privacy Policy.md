@@ -1,5 +1,7 @@
 [MangaDex Hosting](https://mangadex.com/ "MangaDex Hosting")
 
+Toggle Navigation
+
 * [Register](https://mangadex.com/wp-login.php?action=register "Register")
 * [Login](https://mangadex.com/wp-login.php "Login")
 * [MangaDex Reader](https://mangadex.org/ "MangaDex Reader")
