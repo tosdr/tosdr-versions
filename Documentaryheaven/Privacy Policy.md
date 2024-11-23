@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![When Will Humans Live on Mars?](/wp-content/thumbnails/9310-100x70.jpg?x53432)
+* [![Today I Died](/wp-content/thumbnails/5981-100x70.jpg?x53432)
     
-    When Will Humans Live on Mars?
+    Today I Died
     
-    Planet Earth is the only home we have ever known but it's becoming more apparent that we cant stay here forever and whether thats down to climate change, killer asteroids or some other horrifying disa](https://documentaryheaven.com/will-humans-live-mars/ "When Will Humans Live on Mars?")
-* [![Who Were the Greeks?](/wp-content/thumbnails/8014-100x70.jpg?x53432)
+    This BBC documentary is about the scientific studies of after death experiences. What happens after the body has stopped living? What experiences does the dying go through? Can the brain live on after](https://documentaryheaven.com/today-i-died/ "Today I Died")
+* [![One Killer Punch](/wp-content/thumbnails/13920-100x70.gif?x53432)
     
-    Who Were the Greeks?
+    One Killer Punch
     
-    A two part documentary published by the BBC, exploring the ancient Greeks and their way of life.Episode 1:Classicist Dr Michael Scott uncovers the strange, alien world of the ancient Greeks, e](https://documentaryheaven.com/who-were-greeks/ "Who Were the Greeks?")
-* [![The Manhattan Project](/wp-content/thumbnails/321-100x70.png?x53432)
+    One Killer Punch is an incredibly hard hitting film which sets out to explore the phenomenon of a one punch kill. With regards to the law and sentencing it is certainly in the grey area because it can](https://documentaryheaven.com/one-killer-punch/ "One Killer Punch")
+* [![Stabbed: Britain’s Knife Crime Crisis](/wp-content/thumbnails/14499-100x70.jpg?x53432)
     
-    The Manhattan Project
+    Stabbed: Britain’s Knife Crime Crisis
     
-    In a race against the Nazis to develop an atomic bomb, the USA assigned leading scientists like Albert Einstein from all over the world to The Manhattan Project, an incredible scientific, engineering](https://documentaryheaven.com/the-manhattan-project/ "The Manhattan Project")
-* [![Dark Days](/wp-content/thumbnails/1115-100x70.jpg?x53432)
+    The first person to be fatally stabbed in 2018 in the United Kingdom died just 12 minutes into the new year. Three hours later a second person is killed in a knife attack, the year goes on to become t](https://documentaryheaven.com/stabbed-britains-knife-crime-crisis/ "Stabbed: Britain’s Knife Crime Crisis")
+* [![Chiraq](/wp-content/thumbnails/8576-100x70.png?x53432)
     
-    Dark Days
+    Chiraq
     
-    Dark Days is a documentary made by Marc Singer, a British filmmaker. The film follows a group of people living in an abandoned section of the New York City underground railway system, more precisely t](https://documentaryheaven.com/dark-days/ "Dark Days")
-* [![Lockup Raw: The Daily Grind](/wp-content/thumbnails/1067-100x70.jpg?x53432)
+    This is an eight part documentary by Vice's music devision, Noisey. They venture to Englewood which is one of the sketchiest areas in Chicago city and hook up with Chief Keef, a famous rapper in the H](https://documentaryheaven.com/chiraq/ "Chiraq")
+* [![Unraveling the Madness of Kanye West](/wp-content/thumbnails/16540-100x70.jpg?x53432)
     
-    Lockup Raw: The Daily Grind
+    Unraveling the Madness of Kanye West
     
-    In this episode, our producers take you behind the scenes and behind prison walls. You will see how the monotony of prison life can push some inmates to the brink. While some use the time wisely, othe](https://documentaryheaven.com/lockup-raw-the-daily-grind/ "Lockup Raw: The Daily Grind")
+    In today's musical landscape there are few artists more polarising than Kanye West. Unlike most entertainers, it's Kanye's unparalleled boldness that simultaneously propels him to new heights whilst](https://documentaryheaven.com/unraveling-madness-of-kanye-west/ "Unraveling the Madness of Kanye West")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
