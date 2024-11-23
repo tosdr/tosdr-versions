@@ -574,11 +574,11 @@ Rated 5.0 out of 5 stars
 
 1 Review
 
-4.0
+5.0
 
-Rated 4.0 out of 5 stars
+Rated 5.0 out of 5 stars
 
-4 Reviews
+1 Review
 
 4.7
 
