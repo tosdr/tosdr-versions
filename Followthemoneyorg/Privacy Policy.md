@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ThirdParty](/assets/logos/ThirdParty.png)](http://www.followthemoney.org/research/institute-research/third-party-candidates-face-long-odds)
+[![disclosure map](/assets/logos/isrequirementsmap.png)](http://www.followthemoney.org/research/institute-research/best-practices-for-independent-spending-part-one)
 
-How many third-party candidates were successful 2000-2009?
+How does your state stack up for essential disclosure requirements?
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
