@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you very much! The new server works well!
+You are a saint!!! I've spent 3 days looking for this. I'm gonna pay for the upgraded version!
 
-Jen
+Glenn Patchen, Jr.
