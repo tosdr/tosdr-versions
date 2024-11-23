@@ -93,7 +93,7 @@ Discover CNBCTV18
 [LIVE TV](https://www.cnbctv18.com/live-tv/ "live-tv")
 
 * [![androidIcon](/static/images/common/ggl_play_store.png?impolicy=website&width=95&height=30 "CNBC TV18 Play Store")](https://play.google.com/store/apps/details?id=com.network18.cnbctv18&pli=1 "CNBCTV18")
-* [LiveAssembly Elections](https://www.cnbctv18.com/assembly-elections-results "Assembly Elections")
+* [LiveAssembly Elections](https://www.cnbctv18.com/assembly-elections-results/ "Assembly Elections")
 * [Latest News](https://www.cnbctv18.com/latest-news/ "Latest News")
 * [NewStartup Gurukul](https://hindi.cnbctv18.com/startup-gurukul?utm_source=cnbc_hp&utm_medium=website_redirect&utm_campaign=startup_gurukul "Startup Gurukul")
 * [LiveMarket Live](https://www.cnbctv18.com/market-live/ "Market Live")
