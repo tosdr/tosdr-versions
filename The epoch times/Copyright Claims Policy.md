@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Putin Says Russia Will Keep Testing New Hypersonic Ballistic Missile in Combat](https://www.theepochtimes.com/world/putin-says-russia-will-keep-testing-new-hypersonic-ballistic-missile-in-combat-5765090)
+    
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Putin Says Russia Will Keep Testing New Hypersonic Ballistic Missile in Combat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Putin Says Russia Will Keep Testing New Hypersonic Ballistic Missile in Combat](https://img.theepochtimes.com/assets/uploads/2024/06/14/id5669063-Putin-GettyImages-2156859538KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/putin-says-russia-will-keep-testing-new-hypersonic-ballistic-missile-in-combat-5765090)
+* [Americans Need $5.3 Million Net Worth to Be Considered Financially Successful: Survey](https://www.theepochtimes.com/business/americans-need-5-3-million-net-worth-to-be-considered-financially-successful-survey-5765038)
+    
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Americans Need $5.3 Million Net Worth to Be Considered Financially Successful: Survey](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Americans Need $5.3 Million Net Worth to Be Considered Financially Successful: Survey](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735637-10042024-L1150983-US-dollar-bills-205x123.jpg.webp)](https://www.theepochtimes.com/business/americans-need-5-3-million-net-worth-to-be-considered-financially-successful-survey-5765038)
+* [NATO Chief Meets With Trump Amid Rising Tensions With Russia](https://www.theepochtimes.com/world/nato-chief-meets-with-trump-amid-rising-tensions-with-russia-5764999)
+    
+    4hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![NATO Chief Meets With Trump Amid Rising Tensions With Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![NATO Chief Meets With Trump Amid Rising Tensions With Russia](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758619-AP24317480690007-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/nato-chief-meets-with-trump-amid-rising-tensions-with-russia-5764999)
+* [Stocks Gain for the Week, Nvidia Fails to Impress, and Gold Shines](https://www.theepochtimes.com/business/stocks-gain-for-the-week-nvidia-fails-to-impress-and-gold-shines-5765002)
+    
+    4hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    
+    [![Stocks Gain for the Week, Nvidia Fails to Impress, and Gold Shines](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Stocks Gain for the Week, Nvidia Fails to Impress, and Gold Shines](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5765036-GettyImages-2183884045-205x123.jpeg.webp)](https://www.theepochtimes.com/business/stocks-gain-for-the-week-nvidia-fails-to-impress-and-gold-shines-5765002)
+* [UK Regulator Mulls Probe of Apple, Google Mobile Browser Duopoly](https://www.theepochtimes.com/world/uk-regulator-mulls-probe-of-apple-google-mobile-browser-duopoly-5764979)
+    
+    5hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![UK Regulator Mulls Probe of Apple, Google Mobile Browser Duopoly](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![UK Regulator Mulls Probe of Apple, Google Mobile Browser Duopoly](https://img.theepochtimes.com/assets/uploads/2021/11/17/2021-11-16T111250Z_1_LYNXMPEHAF0GU_RTROPTP_4_GOOGLE-APPLE-205x123.jpg.webp)](https://www.theepochtimes.com/world/uk-regulator-mulls-probe-of-apple-google-mobile-browser-duopoly-5764979)
+* [‘Let the Party Fall’: Experts Hail Quit-the-CCP Movement as Cultural Awakening in China](https://www.theepochtimes.com/china/let-the-party-fall-experts-hail-quit-the-ccp-movement-as-cultural-awakening-in-china-5765014)
+    
+    5hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    
+    [![‘Let the Party Fall’: Experts Hail Quit-the-CCP Movement as Cultural Awakening in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![‘Let the Party Fall’: Experts Hail Quit-the-CCP Movement as Cultural Awakening in China](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5764945-DSC05427-quit-ccp-205x123.jpg.webp)](https://www.theepochtimes.com/china/let-the-party-fall-experts-hail-quit-the-ccp-movement-as-cultural-awakening-in-china-5765014)
 * [Supreme Court to Hear Challenge to Broadband Subsidy](https://www.theepochtimes.com/us/supreme-court-to-hear-challenge-to-broadband-subsidy-5764699)
     
-    NEW By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    7hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
     
     [![Supreme Court to Hear Challenge to Broadband Subsidy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Supreme Court to Hear Challenge to Broadband Subsidy](https://img.theepochtimes.com/assets/uploads/2024/04/25/id5637826-FCC-logo-AP24116651634855-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-to-hear-challenge-to-broadband-subsidy-5764699)
-* [Trump Has Vowed to Close the Department of Education—How Would That Work?](https://www.theepochtimes.com/us/trump-has-vowed-to-close-the-department-of-education-how-would-that-work-5764378)
+* [Trump Has Vowed to Close the Department of Education–How Would That Work?](https://www.theepochtimes.com/us/trump-has-vowed-to-close-the-department-of-education-how-would-that-work-5764378)
     
-    6hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    12hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
     
-    [![Trump Has Vowed to Close the Department of Education—How Would That Work?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Has Vowed to Close the Department of Education–How Would That Work?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Has Vowed to Close the Department of Education—How Would That Work?](https://img.theepochtimes.com/assets/uploads/2023/07/09/id5383715-07062023-DSC05590-Education-Department-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-has-vowed-to-close-the-department-of-education-how-would-that-work-5764378)
+    ![Trump Has Vowed to Close the Department of Education–How Would That Work?](https://img.theepochtimes.com/assets/uploads/2023/07/09/id5383715-07062023-DSC05590-Education-Department-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-has-vowed-to-close-the-department-of-education-how-would-that-work-5764378)
 * [Florida’s Surgeon General Comes Out Against Fluoride in Water Supply](https://www.theepochtimes.com/us/floridas-surgeon-general-comes-out-against-fluoride-in-water-supply-5764769)
     
-    6hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
+    12hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
     
     [![Florida’s Surgeon General Comes Out Against Fluoride in Water Supply](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Florida’s Surgeon General Comes Out Against Fluoride in Water Supply](https://img.theepochtimes.com/assets/uploads/2022/11/21/joseph-ladapo-205x123.jpeg.webp)](https://www.theepochtimes.com/us/floridas-surgeon-general-comes-out-against-fluoride-in-water-supply-5764769)
 * [Biden Administration Races to Issue Final Grants, Spending Projects Before Trump Takes Office](https://www.theepochtimes.com/us/biden-administration-races-to-issue-final-grants-spending-projects-before-trump-takes-office-5764476)
     
-    6hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    12hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Biden Administration Races to Issue Final Grants, Spending Projects Before Trump Takes Office](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Administration Races to Issue Final Grants, Spending Projects Before Trump Takes Office](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756609-GettyImages-2183520431-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-administration-races-to-issue-final-grants-spending-projects-before-trump-takes-office-5764476)
-* [US Employees Are Taking on Extra Jobs to Be Able to Afford Christmas This Year](https://www.theepochtimes.com/business/us-employees-are-taking-on-extra-jobs-to-be-able-to-afford-christmas-this-year-5764584)
-    
-    6hr By [Mark Gilman](https://www.theepochtimes.com/author/mark-gilman)
-    
-    [![US Employees Are Taking on Extra Jobs to Be Able to Afford Christmas This Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Employees Are Taking on Extra Jobs to Be Able to Afford Christmas This Year](https://img.theepochtimes.com/assets/uploads/2024/10/31/id5751272-GettyImages-1451627383-205x123.jpeg.webp)](https://www.theepochtimes.com/business/us-employees-are-taking-on-extra-jobs-to-be-able-to-afford-christmas-this-year-5764584)
-* [Newsom Visits California County That Voted for Trump, Says He Represents All Voters](https://www.theepochtimes.com/us/newsom-visits-california-county-that-voted-for-trump-says-he-represents-all-voters-5764809)
-    
-    12hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
-    
-    [![Newsom Visits California County That Voted for Trump, Says He Represents All Voters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Newsom Visits California County That Voted for Trump, Says He Represents All Voters](https://img.theepochtimes.com/assets/uploads/2024/10/28/id5749037-GettyImages-2181409621-205x123.jpg.webp)](https://www.theepochtimes.com/us/newsom-visits-california-county-that-voted-for-trump-says-he-represents-all-voters-5764809)
-* [US National Debt Exceeds $36 Trillion as Fed Survey Warns of Risk to Financial Stability](https://www.theepochtimes.com/business/us-national-debt-exceeds-36-trillion-as-fed-survey-warns-of-risk-to-financial-stability-5764662)
-    
-    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![US National Debt Exceeds $36 Trillion as Fed Survey Warns of Risk to Financial Stability](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US National Debt Exceeds $36 Trillion as Fed Survey Warns of Risk to Financial Stability](https://img.theepochtimes.com/assets/uploads/2024/08/07/id5701720-319month-day-year-national-debt-clock-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-national-debt-exceeds-36-trillion-as-fed-survey-warns-of-risk-to-financial-stability-5764662)
-* [5 Things to Know About Scott Bessent, Trump’s Treasury Secretary Nominee](https://www.theepochtimes.com/article/5-things-to-know-about-scott-bessent-trumps-treasury-secretary-nominee-5758522)
-    
-    13hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![5 Things to Know About Scott Bessent, Trump’s Treasury Secretary Nominee](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![5 Things to Know About Scott Bessent, Trump’s Treasury Secretary Nominee](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5764963-Lead-205x123.jpg.webp)](https://www.theepochtimes.com/article/5-things-to-know-about-scott-bessent-trumps-treasury-secretary-nominee-5758522)
-* [Trump Names NFL Veteran Scott Turner as HUD Secretary](https://www.theepochtimes.com/us/trump-names-nfl-veteran-scott-turner-as-hud-secretary-5764892)
-    
-    14hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Trump Names NFL Veteran Scott Turner as HUD Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Names NFL Veteran Scott Turner as HUD Secretary](https://img.theepochtimes.com/assets/uploads/2019/09/10/HBCUs-event-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-nfl-veteran-scott-turner-as-hud-secretary-5764892)
-* [Sebastian Gorka, Alex Wong to Join Trump Administration as Senior National Security Staff](https://www.theepochtimes.com/us/sebastian-gorka-alex-wong-to-join-trump-administration-as-senior-national-security-staff-5764876)
-    
-    14hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![Sebastian Gorka, Alex Wong to Join Trump Administration as Senior National Security Staff](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Sebastian Gorka, Alex Wong to Join Trump Administration as Senior National Security Staff](https://img.theepochtimes.com/assets/uploads/2020/12/20/Epoch_Times9A6A8800-205x123.jpg.webp)](https://www.theepochtimes.com/us/sebastian-gorka-alex-wong-to-join-trump-administration-as-senior-national-security-staff-5764876)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
