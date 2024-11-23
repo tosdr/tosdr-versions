@@ -76,7 +76,7 @@ September 7, 2018
 
 [Contact Us](https://unitsmaster.com/en/contact.html)  
 
-Friday, November 22, 2024  
+Saturday, November 23, 2024  
 [Privacy Policy](https://unitsmaster.com/privacy.html)  
 [Terms & Conditions](https://unitsmaster.com/terms.html)  
   
