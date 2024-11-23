@@ -441,7 +441,11 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[22-11-2024
+[23-11-2024
+
+COP29 braces for new deal after poorer nations reject climate offer](https://www.euractiv.com/section/eet/news/cop29-braces-for-new-deal-after-poorer-nations-reject-climate-offer/)[23-11-2024
+
+Putin says Russia will keep testing new missile in combat](https://www.euractiv.com/section/global-europe/news/putin-says-russia-will-keep-testing-new-missile-in-combat/)[22-11-2024
 
 US sanctions on Gazprombank will accelerate EU-Russia decoupling, analysts say](https://www.euractiv.com/section/economy-jobs/news/us-sanctions-on-gazprombank-will-accelerate-eu-russia-decoupling-analysts-say/)[22-11-2024
 
@@ -457,11 +461,7 @@ Hungarian presidency secures full Schengen membership for Bulgaria, Romania](htt
 
 Hungary seeks organ transplant increase, boost to organ recipient life quality and reduced stigma](https://www.euractiv.com/section/health-consumers/news/hungary-seeks-organ-transplant-increase-boost-to-organ-recipient-life-quality-and-reduced-stigma/)[22-11-2024
 
-Orbán to host Netanyahu in Hungary as EU divided over ICC decision](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_S8N3FE00M:1546537596)[22-11-2024
-
-Barnier: Franco-German tandem should enter ‘ménage à trois’ with Italy](https://www.euractiv.com/section/politics/news/barnier-franco-german-tandem-should-enter-menage-a-trois-with-italy/)[22-11-2024
-
-UK and France investigate over suspected corruption by Thales](https://www.euractiv.com/section/defence-and-security/news/uk-and-france-investigate-over-suspected-corruption-by-thales/)
+Orbán to host Netanyahu in Hungary as EU divided over ICC decision](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_S8N3FE00M:1546537596)
 
 ###### Advertisement
 
