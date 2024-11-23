@@ -142,6 +142,18 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 23, 2024
+
+> The preparation for our future Victoria…
+
+> The preparation for our future Victoria Falls excursion was fast, informative, efficient and a fair price. Shann Shaw responded quickly to my inquiry and had a full itinerary and price within a day. Kudos to Safari.com
+
+Gogo and Tiffany.
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 21, 2024
 
 > Mel made our booking experience a…
@@ -251,20 +263,6 @@ customer
 ,
 
 MX
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 15, 2024
-
-> Great service and knowledge
-
-> Great service and knowledge
-
-Julian
-
-,
-
-CH
 
 VIP service
 
