@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 667 active visitors** | **Saturday, November 23, 2024** |
+| **You are 1 of 1089 active visitors** | **Saturday, November 23, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -42,7 +42,7 @@ State Email Lists:
 |     |
 | --- |
 | Do you oppose Biden's anti-gun executive orders?  <br>Yes  <br>No  <br>Undecided |
-| [Current results](http://keepandbeararms.com/polls/pollmentorres.asp)  <br>[Earlier poll results](http://keepandbeararms.com/polls/pollmentorhist.asp)4780 people voted |
+| [Current results](http://keepandbeararms.com/polls/pollmentorres.asp)  <br>[Earlier poll results](http://keepandbeararms.com/polls/pollmentorhist.asp)4781 people voted |
 
 ![](/images/clear.gif)![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**The provision in the Constitution granting the right to all persons to bear arms is a limitation upon the power of the Legislature to enact any law to the contrary. The exercise of a right guaranteed by the Constitution cannot be made subject to the will of the sheriff. \[People vs. Zerillo, 219 Mich. 635, 189 N.W. 927, at 928 (1922)\]
+ **QUOTES TO REMEMBER**"There's no legitimate use for a gun like this." --Chicago Police Superintendent Philip Cline, brandishing a 9mm semiautomatic handgun at a news conference (Chicago Tribune, "Special unit hauling in guns, drugs" by Glenn Jeffers, January 29, 2004)
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
