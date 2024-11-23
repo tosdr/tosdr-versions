@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Салат "Оливье" с копчёной курицей и яблоком](https://www.russianfood.com/recipes/recipe.php?rid=159267)
-* [Слоёные пирожки с рыбой, грибами и рисом](https://www.russianfood.com/recipes/recipe.php?rid=172831)
-* [Постные картофельные лепёшки (на сковороде)](https://www.russianfood.com/recipes/recipe.php?rid=173329)
-* [Утка, томлённая в сидре, с яблоками, клюквой и пряными травами](https://www.russianfood.com/recipes/recipe.php?rid=172359)
-* [Овощное рагу с куриными фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=173966)
+* [Дрожжевая вертута с жареным репчатым луком, чесноком и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174543)
 * [Курица с грушами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=163549)
-* [Томатный суп с фаршем и фасолью](https://www.russianfood.com/recipes/recipe.php?rid=154639)
 * [Пряники с глазурью](https://www.russianfood.com/recipes/recipe.php?rid=41461)
 * [Яйца в «муфточке»](https://www.russianfood.com/recipes/recipe.php?rid=50298)
 * [Тартелетка из рубленого теста со взбитыми сливками](https://www.russianfood.com/recipes/recipe.php?rid=88556)
+* [Пирожки «Морозные»](https://www.russianfood.com/recipes/recipe.php?rid=106777)
+* [Соус из окорока](https://www.russianfood.com/recipes/recipe.php?rid=113505)
+* [Горячие бутерброды с копченой салакой](https://www.russianfood.com/recipes/recipe.php?rid=19)
+* [Горячие творожные бутерброды с сыром](https://www.russianfood.com/recipes/recipe.php?rid=21)
+* [Аргентина, запеченная с рисом](https://www.russianfood.com/recipes/recipe.php?rid=34)
 
 |     |
 | --- |
@@ -179,6 +179,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Хороша каша наша.) ГРЕЧКА по-необычному (22)](https://www.russianfood.com/reading/?post_id=22914) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/551/sm_550092.jpg)](https://www.russianfood.com/reading/?post_id=22914)
+
+Гречка с грибами в микроволновке. Гречка с капустой и морковью. Гречневая запеканка с курицей и шампиньонами. Котлеты из гречки с консервированной рыбой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22914)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22914#comments) | 23.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -206,7 +220,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174546#comments) | 22.11.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174546#comments) | 22.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -248,7 +262,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174194#comments) | 22.11.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174194#comments) | 22.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -262,7 +276,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174265#comments) | 22.11.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174265#comments) | 22.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -304,7 +318,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174297#comments) | 22.11.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174297#comments) | 22.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -375,20 +389,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты для начинающих](https://www.russianfood.com/blogs/?id=338566) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22909#comments) | 21.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Вкусно, сытно, ярко. Лучшие СУПЫ №24-47](https://www.russianfood.com/reading/?post_id=22908) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/737/sm_736074.jpg)](https://www.russianfood.com/reading/?post_id=22908)
-
-Постный фасолевый суп со щавелем. Суп с брокколи и цветной капустой. Лагман с фасолью. Суп со шпинатом и яйцами. Томатный суп с булгуром и плавленым сыром. Томатный суп с рыбными фрикадельками. Томатный суп с фаршем и фасолью.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22908)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22908#comments) | 21.11.24 |     |
 
 |     |
 | --- |
@@ -461,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753866.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174818) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739188.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174289) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739830.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174265) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738999.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174263) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752851.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174546) | [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751120.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174533) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754209.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174350) |
-| [Пирог с айвой и клюквой](https://www.russianfood.com/recipes/recipe.php?rid=174818) | [Рисовая запеканка с брокколи и помидорами черри](https://www.russianfood.com/recipes/recipe.php?rid=174289) | [Стейки из цветной капусты с курицей и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174265) | [Макароны с курицей, брокколи и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174263) | [Тёртый сливовый пирог](https://www.russianfood.com/recipes/recipe.php?rid=174546) | [Яблочный пирог на молоке, с корицей](https://www.russianfood.com/recipes/recipe.php?rid=174533) | [Гречка с курицей и тыквой (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174350) |
-| [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751118.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174543) | [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746717.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174297) |
-| [Дрожжевая вертута с жареным репчатым луком, чесноком и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174543) | [Картошка, запечённая с курицей и яблоками, в рукаве](https://www.russianfood.com/recipes/recipe.php?rid=174297) |
+| [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751118.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174543) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754209.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174350) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738999.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174263) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739188.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174289) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753866.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174818) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752851.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174546) | [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739830.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174265) |
+| [Дрожжевая вертута с жареным репчатым луком, чесноком и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174543) | [Гречка с курицей и тыквой (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174350) | [Макароны с курицей, брокколи и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174263) | [Рисовая запеканка с брокколи и помидорами черри](https://www.russianfood.com/recipes/recipe.php?rid=174289) | [Пирог с айвой и клюквой](https://www.russianfood.com/recipes/recipe.php?rid=174818) | [Тёртый сливовый пирог](https://www.russianfood.com/recipes/recipe.php?rid=174546) | [Стейки из цветной капусты с курицей и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174265) |
+| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746717.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174297) | [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751120.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174533) |
+| [Картошка, запечённая с курицей и яблоками, в рукаве](https://www.russianfood.com/recipes/recipe.php?rid=174297) | [Яблочный пирог на молоке, с корицей](https://www.russianfood.com/recipes/recipe.php?rid=174533) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -481,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(101)
+(237)
