@@ -165,6 +165,32 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/shrinkingmercury_1400x1050.jpg)](https://www.icr.org/article/shrinking-mercury)
+
+[Youthful Mercury: Still Cooling and Shrinking](https://www.icr.org/article/shrinking-mercury/)
+
+The analysis of data from the MESSENGER spacecraft has revealed evidence of recent tectonic activity on Mercury—activity caused by the ongoing...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/BeeConstruct_1400x1050.jpg)](https://www.icr.org/article/honey-bee-nest-constructing)
+
+[Incredible Honey Bees and Their Nest Constructing Skills](https://www.icr.org/article/honey-bee-nest-constructing/)
+
+It seems not a month goes by that more remarkable discoveries are made regarding the humble honey bee. They have been found capable of basic math,...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/ICR_Feb23_wallpaper-Main.jpg)](https://www.icr.org/article/february-2023-icr-wallpaper)
+
+[February 2023 ICR Wallpaper](https://www.icr.org/article/february-2023-icr-wallpaper/)
+
+"Let all that you do be done with love." 1 Corinthians 16:14 NKJV ICR February 2023 wallpapers are now available for mobile, tablet, and...
+
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
