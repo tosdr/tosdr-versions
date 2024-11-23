@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/wetenschappelijke-dwalingen-of/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/lubach-is-dom-gewoon-op-fb-blijven-toch/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
