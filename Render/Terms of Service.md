@@ -41,7 +41,7 @@ Runtimes
 * [Pricing](https://render.com/pricing)
 * [Customers](https://render.com/customers)
 * [Blog](https://render.com/blog)
-* [Docs](https://docs.render.com/)
+* [Docs](https://render.com/docs/)
 * [Changelog](https://render.com/changelog)
 * [Careers](https://render.com/careers)
 * [About](https://render.com/about)
