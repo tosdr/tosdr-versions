@@ -45,7 +45,7 @@ This privacy notice provides you with details of how we collect and process your
 
 Our email address is [\[email protected\]](https://www.pseudomyxomasurvivor.org/cdn-cgi/l/email-protection)**.**
 
-Our postal address is 9 Ilmington Close, Hatton Park, Warwick, CV35 7TL, UK**.**
+Our postal address is Appletree House, Ellerton, York, YO42 4PA, UK**.**
 
 If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([_www.ico.org.uk_](http://www.ico.org.uk/)). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
 
@@ -58,7 +58,7 @@ This policy is available in paper, by request in writing.
 Written by: A Brook  
 Approved by: S Oliver
 
-Review by 31 December 2024
+Review by 31 December 2026
 
 [Home](https://www.pseudomyxomasurvivor.org/) > [Our Policies](https://www.pseudomyxomasurvivor.org/our-policies/) > Privacy
 
@@ -72,11 +72,7 @@ Review by 31 December 2024
 * [Code of Conduct](https://www.pseudomyxomasurvivor.org/our-policies/code-of-conduct/)
 * [Terms of Sale](https://www.pseudomyxomasurvivor.org/our-policies/terms-of-sale/)
 
-![Pseudomyxoma Survivor logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%20102'%3E%3C/svg%3E)
-
-![Pseudomyxoma Survivor logo](https://www.pseudomyxomasurvivor.org/wp-content/uploads/2020/07/pseudomyxoma-survivor-logo-180x180-comp.png)
-
-Pseudomyxoma Survivor is dedicated to supporting those affected by pseudomyxoma peritonei (PMP),  
+![Pseudomyxoma Survivor logo](https://www.pseudomyxomasurvivor.org/wp-content/uploads/2020/07/pseudomyxoma-survivor-logo-180x180-comp.png)Pseudomyxoma Survivor is dedicated to supporting those affected by pseudomyxoma peritonei (PMP),  
 appendix cancer and other peritoneal surface malignancies through practical and emotional support. We also raise awareness and support research.
 
 As survivors and carers, information here is from our perspective – we are _not_ health care professionals. We are all individuals, everyone is different. We recommend that you take advice from your doctors for specific information.
@@ -89,8 +85,6 @@ Our patron is Sean Hepburn Ferrer, the son of Audrey Hepburn who passed away fro
 * [We need your stamps!](https://www.pseudomyxomasurvivor.org/recycle-stamps/)
 * [Your Account](https://www.pseudomyxomasurvivor.org/my-account/)
 * [Let us know you’ve visited](https://www.pseudomyxomasurvivor.org/guestbook/)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2092'%3E%3C/svg%3E)
 
 ![](https://www.pseudomyxomasurvivor.org/wp-content/uploads/2020/07/FR_RegLogo_WO_HR-300x92_lossless.png)
 
