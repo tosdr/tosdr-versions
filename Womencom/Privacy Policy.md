@@ -54,7 +54,19 @@
     
     By Emily Hutchinson [Read More](https://www.women.com/1720857/4b-movement-trend-explained/)
     
-* *  [![Two people in bed](https://www.women.com/img/gallery/how-to-handle-being-asked-about-your-body-count-not-that-it-matters/intro-1731694030.jpg)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+* *  [![Jenna Bush Hager at an event wearing red](https://www.women.com/img/gallery/the-best-read-with-jenna-book-club-picks-of-all-time/intro-1731948738.jpg)](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Bernadette Roe
+        
+        ### [The Best Read With Jenna Book Club Picks Of All Time](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
+        
+        Jenna Bush Hager is an eager reader who loves sharing her favorite books, creating Read With Jenna to promote the stories of marginalized voices.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
+        
+    *  [![Two people in bed](https://www.women.com/img/gallery/how-to-handle-being-asked-about-your-body-count-not-that-it-matters/intro-1731694030.jpg)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
@@ -66,22 +78,34 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
         
-    *  [![Halle Berry on the red carpet smiling](https://www.women.com/img/gallery/5-celebs-who-have-been-vocal-about-avoiding-plastic-surgery/intro-1731690800.jpg)](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
-        
-        [Wellness](https://www.women.com/category/wellness/)
-        
-        [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-        
-        ### [5 Celebs Who Have Been Vocal About Avoiding Plastic Surgery](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
-        
-        Hollywood will always deliver unrealistic beauty standards. But luckily, some celebrities are taking a stand and are opting to age naturally.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
-        
 
 More Stories
 ------------
 
+*  [![Short Christmas nails in front of a Christmas tree](https://www.women.com/img/gallery/15-stunning-holiday-manicure-ideas-for-short-nails/intro-1731955638.jpg)](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [15 Stunning Holiday Manicure Ideas For Short Nails](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
+    
+    Short nails don't have to keep you from a stunning holiday manicure. Try festive colors or add sparkle for the New Year.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
+    
+*  [![Halle Berry on the red carpet smiling](https://www.women.com/img/gallery/5-celebs-who-have-been-vocal-about-avoiding-plastic-surgery/intro-1731690800.jpg)](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
+    
+    [Wellness](https://www.women.com/category/wellness/)
+    
+    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
+    
+    ### [5 Celebs Who Have Been Vocal About Avoiding Plastic Surgery](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
+    
+    Hollywood will always deliver unrealistic beauty standards. But luckily, some celebrities are taking a stand and are opting to age naturally.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
+    
 *  [![Dolly Parton on the red carpet with arms outstretched](https://www.women.com/img/gallery/dolly-partons-most-philanthropic-efforts-across-her-long-career/intro-1731613196.jpg)](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
     
     [Living](https://www.women.com/category/living/)
@@ -381,30 +405,6 @@ More Stories
     While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
-    
-*  [![Ehan and Vinay Kamat](https://www.women.com/img/gallery/heres-what-went-down-with-solemender-after-shark-tank/intro-1730216668.jpg)](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [Here's What Went Down With Solemender After Shark Tank](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
-    
-    As a young entrepreneur, a lot of doors closed when Ehan Kamat tried to get the word out about Solmender. But all he needed was a little time.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1700084/what-went-down-solemender-after-shark-tank/)
-    
-*  [![Dolly Parton smiling](https://www.women.com/img/gallery/why-dolly-parton-is-childless-by-choice-not-that-we-deserve-to-ask/intro-1730135417.jpg)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
-    
-    ### [Why Dolly Parton Is Childless By Choice (Not That We Deserve To Ask)](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
-    
-    The decision to have or not have a child is a big one. For Dolly Parton, her career played a major role in her choice to not have kids.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1699213/why-dolly-parton-childless-by-choice-not-that-we-deserve-ask/)
     
 
 Back
