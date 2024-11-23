@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
-* [World of Workraft](https://www.somethingawful.com/great-goon-database/great-goon-work/1/)
-* [Shot Put Showdown](https://www.somethingawful.com/photoshop-phriday/shot-put-showdown/1/)
-* [AwfulVision: What Would Dick & Nut Do?](https://www.somethingawful.com/awfulvision/alexyss-blob-ugly/1/)
-* [Fark Fotoshop Friday: Lazy Cops](https://www.somethingawful.com/feature-articles/fark-fotoshop-friday/1/)
+* [Chimpout](https://www.somethingawful.com/weekend-web/chimpout/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Dragon Spot](https://www.somethingawful.com/weekend-web/dragon-spot/1/)
+* [Edges2Cats! \[And Shoes, And Facades, And Handbags...\]](https://www.somethingawful.com/photoshop-phriday/pix2pix-generated-images/)
+* [\*splap\*!](https://www.somethingawful.com/awfulvision/fat-caveman-sword/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/hell-jabroni.gif) [Oreos](http://forums.somethingawful.com/showthread.php?threadid=4075812 "Oreos")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/repeat.png) [ITT it's Seinfeld but it takes place in the Benghazi embassy](http://forums.somethingawful.com/showthread.php?threadid=4075877 "ITT it's Seinfeld but it takes place in the Benghazi embassy")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/stupid.png) [ITT we're people ITT](http://forums.somethingawful.com/showthread.php?threadid=4075886 "ITT we're people ITT")
+* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Do you have a forums crush?](http://forums.somethingawful.com/showthread.php?threadid=4075920 "Do you have a forums crush?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/repeat.png) [ITT it's Seinfeld but it takes place in the Benghazi embassy](http://forums.somethingawful.com/showthread.php?threadid=4075877 "ITT it's Seinfeld but it takes place in the Benghazi embassy")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/poll.png) [are you posting here on browser or app](http://forums.somethingawful.com/showthread.php?threadid=4075926 "are you posting here on browser or app")
 
 ### Random Articles
 
-* [The 10 Most Awful Cures](https://www.somethingawful.com/most-awful/most-awful-cures/1/)
-* [COURAGE: The Diabetic Superhero](https://www.somethingawful.com/awful-links/awful-link-2340/)
-* [Released Reactions: Giga Promo (Thanks, William X!)](https://www.somethingawful.com/awful-links/released-reactions-futanari/)
-* [Martha Stewart, I Ain't](https://www.somethingawful.com/news/martha-stewart-aint/)
-* [Ellie Crystal's Metaphysical and Science Website](https://www.somethingawful.com/awful-links/awful-link-2087/)
+* [Wreck-It Ralph; The Man with the Iron Fists; Philadelphia Film Festival Coverage](https://www.somethingawful.com/current-movie-reviews/wreck-ralph-iron/1/)
+* [Feeders](https://www.somethingawful.com/movie-reviews/feeders/1/)
+* [Trepanation Guide](https://www.somethingawful.com/awful-links/awful-link-3784/)
+* [That Insidious Beast: Fall Sweeps](https://www.somethingawful.com/news/insidious-fall-sweeps/1/)
+* [Time Changer](https://www.somethingawful.com/movie-reviews/time-changer/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
