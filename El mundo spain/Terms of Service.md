@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z0DfOAoAAVEAAABcWY0)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z0EykAoAAVAAAABbO3I)
 
 Es noticia
 
@@ -19,6 +19,7 @@ Es noticia
 * [Entradas Chayanne](https://www.elmundo.es/como/2024/11/22/6740761021efa00f688b45b5.html)
 * [Mazón](https://www.elmundo.es/comunidad-valenciana/2024/11/22/67402934e9cf4aa22f8b4587.html)
 * [Salma Hayek](https://www.elmundo.es/loc/famosos/2024/11/22/673f4f24fc6c83105b8b45bf.html)
+* [Barco chino](https://www.elmundo.es/internacional/2024/11/22/6740b122e9cf4a6f358b4591.html)
 * [Rosa Rodríguez Pasapalabra](https://www.elmundo.es/como/2024/11/22/67404f47e4d4d8a96b8b459a.html)
 * [Borjamina](https://www.elmundo.es/television/2024/11/22/6740438021efa037528b4578.html)
 * [Festivos Madrid 2024](https://www.elmundo.es/como/2024/03/25/66014a62e9cf4aea7a8b4576.html)
