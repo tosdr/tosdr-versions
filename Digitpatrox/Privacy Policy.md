@@ -20,16 +20,16 @@ Saturday, November 23 2024
 
 Latest
 
+* [NYT Connections Today: Hints and Answers for November 24, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-24-2024/)
+* [In the age of AI, what is a PC? Arm has its answer](https://digitpatrox.com/in-the-age-of-ai-what-is-a-pc-arm-has-its-answer/)
+* [Apple’s AirPods Pro Are on Sale During Black Friday](https://digitpatrox.com/apples-airpods-pro-are-on-sale-during-black-friday/)
+* [Baby Gear Rental: What to Know](https://digitpatrox.com/baby-gear-rental-what-to-know/)
+* [I Make Apple Music Better With These 7 Third-Party Apps](https://digitpatrox.com/i-make-apple-music-better-with-these-7-third-party-apps/)
+* [Not a typo! This pair of Sony noise cancelling headphones is only $60 right now for Black Friday](https://digitpatrox.com/not-a-typo-this-pair-of-sony-noise-cancelling-headphones-is-only-60-right-now-for-black-friday/)
+* [CISA says BianLian ransomware now focuses only on data theft](https://digitpatrox.com/cisa-says-bianlian-ransomware-now-focuses-only-on-data-theft/)
+* [What’s on your desk, Kylie Robison?](https://digitpatrox.com/whats-on-your-desk-kylie-robison/)
+* [How Does Ambessa Die in Arcane and Who Kills Her?](https://digitpatrox.com/how-does-ambessa-die-in-arcane-and-who-kills-her/)
 * [How to bring Android 16’s Notification Cooldown brilliance to any phone today – Computerworld](https://digitpatrox.com/how-to-bring-android-16s-notification-cooldown-brilliance-to-any-phone-today-computerworld/)
-* [The PlayStation VR2 Headset Is $150 Off for Black Friday](https://digitpatrox.com/the-playstation-vr2-headset-is-150-off-for-black-friday/)
-* [Talking Cars 458: Driving the 2025 Jeep Compass](https://digitpatrox.com/talking-cars-458-driving-the-2025-jeep-compass/)
-* [A Flawed but Performant Gaming Keyboard](https://digitpatrox.com/a-flawed-but-performant-gaming-keyboard/)
-* [Is It Still Reliable in 2024?](https://digitpatrox.com/is-it-still-reliable-in-2024/)
-* [Xbox Black Friday deals — biggest savings on Series X, Series S and more](https://digitpatrox.com/xbox-black-friday-deals-biggest-savings-on-series-x-series-s-and-more/)
-* [Hackers breach US firm over Wi-Fi from Russia in ‘Nearest Neighbor Attack’](https://digitpatrox.com/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/)
-* [The Supreme Court will decide the fate of America’s low-income broadband fund](https://digitpatrox.com/the-supreme-court-will-decide-the-fate-of-americas-low-income-broadband-fund/)
-* [10 Best Animated TV Shows Like Arcane, Ranked](https://digitpatrox.com/10-best-animated-tv-shows-like-arcane-ranked/)
-* [AWS and Anthropic ink deal to accelerate model development, enhance AI chips – Computerworld](https://digitpatrox.com/aws-and-anthropic-ink-deal-to-accelerate-model-development-enhance-ai-chips-computerworld/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3609666-0-25960300-1732272511-google-android-16.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-to-bring-android-16s-notification-cooldown-brilliance-to-any-phone-today-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/NYT-Connections-Featured.webp?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-24-2024/)
     
-    [How to bring Android 16’s Notification Cooldown brilliance to any phone today – Computerworld](https://digitpatrox.com/how-to-bring-android-16s-notification-cooldown-brilliance-to-any-phone-today-computerworld/)
+    [NYT Connections Today: Hints and Answers for November 24, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-24-2024/)
     
-    22 minutes ago
+    15 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDAH3BM8XD1REKBTGNAW8VYP/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-playstation-vr2-headset-is-150-off-for-black-friday/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3610877-0-58479900-1732304280-shutterstock_2473384115.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/in-the-age-of-ai-what-is-a-pc-arm-has-its-answer/)
     
-    [The PlayStation VR2 Headset Is $150 Off for Black Friday](https://digitpatrox.com/the-playstation-vr2-headset-is-150-off-for-black-friday/)
-    
-    50 minutes ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732213768/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Talking-Cars-458-tout-10-24)](https://digitpatrox.com/talking-cars-458-driving-the-2025-jeep-compass/)
-    
-    [Talking Cars 458: Driving the 2025 Jeep Compass](https://digitpatrox.com/talking-cars-458-driving-the-2025-jeep-compass/)
-    
-    60 minutes ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/11/54019472529_32cca7fc8a_o.jpg)](https://digitpatrox.com/a-flawed-but-performant-gaming-keyboard/)
-    
-    [A Flawed but Performant Gaming Keyboard](https://digitpatrox.com/a-flawed-but-performant-gaming-keyboard/)
-    
-    1 hour ago
-    
-* [![](https://assets.techrepublic.com/uploads/2023/09/tr_09212023-protonvpn-review.jpg)](https://digitpatrox.com/is-it-still-reliable-in-2024/)
-    
-    [Is It Still Reliable in 2024?](https://digitpatrox.com/is-it-still-reliable-in-2024/)
+    [In the age of AI, what is a PC? Arm has its answer](https://digitpatrox.com/in-the-age-of-ai-what-is-a-pc-arm-has-its-answer/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JDAN77E27Z23V1V4FN0WEC7W/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/apples-airpods-pro-are-on-sale-during-black-friday/)
+    
+    [Apple’s AirPods Pro Are on Sale During Black Friday](https://digitpatrox.com/apples-airpods-pro-are-on-sale-during-black-friday/)
+    
+    3 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732133948/prod/content/dam/CRO-Images-2024/Babies/CR-Babies-InlineHero-Baby-Gear-While-Traveling-1124)](https://digitpatrox.com/baby-gear-rental-what-to-know/)
+    
+    [Baby Gear Rental: What to Know](https://digitpatrox.com/baby-gear-rental-what-to-know/)
+    
+    3 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/apple.jpg)](https://digitpatrox.com/i-make-apple-music-better-with-these-7-third-party-apps/)
+    
+    [I Make Apple Music Better With These 7 Third-Party Apps](https://digitpatrox.com/i-make-apple-music-better-with-these-7-third-party-apps/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [22 minutes ago
+* [15 minutes ago
     
-    ### How to bring Android 16’s Notification Cooldown brilliance to any phone today – Computerworld](https://digitpatrox.com/how-to-bring-android-16s-notification-cooldown-brilliance-to-any-phone-today-computerworld/)
-* [50 minutes ago
+    ### NYT Connections Today: Hints and Answers for November 24, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-24-2024/)
+* [2 hours ago
     
-    ### The PlayStation VR2 Headset Is $150 Off for Black Friday](https://digitpatrox.com/the-playstation-vr2-headset-is-150-off-for-black-friday/)
-* [60 minutes ago
+    ### In the age of AI, what is a PC? Arm has its answer](https://digitpatrox.com/in-the-age-of-ai-what-is-a-pc-arm-has-its-answer/)
+* [3 hours ago
     
-    ### Talking Cars 458: Driving the 2025 Jeep Compass](https://digitpatrox.com/talking-cars-458-driving-the-2025-jeep-compass/)
+    ### Apple’s AirPods Pro Are on Sale During Black Friday](https://digitpatrox.com/apples-airpods-pro-are-on-sale-during-black-friday/)
 
 Most Popular Topics
 
-* [September 17, 2024
+* [October 14, 2024
     
-    ### OpenAI Confirms ChatGPT Did Message Users First, But It Won’t Anymore](https://digitpatrox.com/openai-confirms-chatgpt-did-message-users-first-but-it-wont-anymore/)
+    ### What to Eat During a Power Outage](https://digitpatrox.com/what-to-eat-during-a-power-outage/)
+* [October 19, 2024
+    
+    ### Quietest Midsized SUVs – Consumer Reports](https://digitpatrox.com/quietest-midsized-suvs-consumer-reports/)
 * [October 2, 2024
     
-    ### Microsoft Copilot gets Voice and Vision features – Computerworld](https://digitpatrox.com/microsoft-copilot-gets-voice-and-vision-features-computerworld/)
-* [August 31, 2024
-    
-    ### Researcher sued for sharing data stolen by ransomware with media](https://digitpatrox.com/researcher-sued-for-sharing-data-stolen-by-ransomware-with-media/)
+    ### FIN7 hackers launch deepfake nude “generator” sites to spread malware](https://digitpatrox.com/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [5 hours ago
     
-    ### Hackers breach US firm over Wi-Fi from Russia in ‘Nearest Neighbor Attack’](https://digitpatrox.com/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/)
-* [3 hours ago
+    ### CISA says BianLian ransomware now focuses only on data theft](https://digitpatrox.com/cisa-says-bianlian-ransomware-now-focuses-only-on-data-theft/)
+* [5 hours ago
     
-    ### The Supreme Court will decide the fate of America’s low-income broadband fund](https://digitpatrox.com/the-supreme-court-will-decide-the-fate-of-americas-low-income-broadband-fund/)
-* [3 hours ago
+    ### What’s on your desk, Kylie Robison?](https://digitpatrox.com/whats-on-your-desk-kylie-robison/)
+* [5 hours ago
     
-    ### 10 Best Animated TV Shows Like Arcane, Ranked](https://digitpatrox.com/10-best-animated-tv-shows-like-arcane-ranked/)
+    ### How Does Ambessa Die in Arcane and Who Kills Her?](https://digitpatrox.com/how-does-ambessa-die-in-arcane-and-who-kills-her/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 11, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [September 27, 2024
-    
-    ### The new EufyCam S3 Pro promises impressive night vision](https://digitpatrox.com/the-new-eufycam-s3-pro-promises-impressive-night-vision/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
