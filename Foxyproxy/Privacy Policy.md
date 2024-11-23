@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great service, relaible, had no speed or connection issues.
+I was always very happy with your service - I will renew the subscription ASAP. Excellent quality, reliable, no issues whatsoever.
 
-Adam Limon
+Niko Neufeld
