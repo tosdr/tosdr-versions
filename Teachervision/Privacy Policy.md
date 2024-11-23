@@ -119,23 +119,11 @@ Site search input
     
 * [Warm Ups](https://www.teachervision.com/resources/daily-warm-ups)
     
-    [2nd Grade](https://www.teachervision.com/resources/daily-warm-ups/2nd-grade)
-    
     [Hispanic Heritage Month](https://www.teachervision.com/activity/hispanic-heritage-month-warm-up-writing-prompts)
-    
-    [4th Grade](https://www.teachervision.com/resources/daily-warm-ups/4th-grade)
-    
-    [5th Grade](https://www.teachervision.com/resources/daily-warm-ups/5th-grade)
-    
-    [6th Grade](https://www.teachervision.com/resources/daily-warm-ups/6th-grade)
-    
-    [7th Grade](https://www.teachervision.com/resources/daily-warm-ups/7th-grade)
     
     [Animal Habitats](https://www.teachervision.com/reading-comprehension/science-reading-warm-up-animal-habitats)
     
     [High School Grammar Packet](https://www.teachervision.com/grammar/high-school-grammar-warm-ups-packet)
-    
-    [Language Arts and Writing](https://www.teachervision.com/resources/daily-warm-ups/language-arts-writing)
     
     [Math](https://www.teachervision.com/daily-warm-ups/math)
     
@@ -149,7 +137,7 @@ Site search input
     
     [All Warm Ups](https://www.teachervision.com/resources/daily-warm-ups)
     
-* [Graphic Organizers](https://www.teachervision.com/lesson-planning/graphic-organizer)
+* [Graphic Organizers](https://www.teachervision.com/graphic-organizers/printable/6293.html)
     
     [Top 10 Most Popular](https://www.teachervision.com/graphic-organizer/top-10-most-popular-graphic-organizers)
     
@@ -179,9 +167,7 @@ Site search input
     
     [Writing](https://www.teachervision.com/writing/top-10-writing-graphic-organizers-gallery)
     
-    [Writing Research Papers](https://www.teachervision.com/resources/graphic-organizers/writing-research-papers)
-    
-    [All Graphic Organizers](https://www.teachervision.com/lesson-planning/graphic-organizer)
+    [All Graphic Organizers](https://www.teachervision.com/graphic-organizers/printable/6293.html)
     
 * [Blog](https://www.teachervision.com/blog/morning-announcements "TeacherVision Blog")
 
