@@ -13,7 +13,7 @@
     * [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/newhome/flag-spain@2x.png)ES](https://vwo.com/es/#locale_lang)
     * [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/flag-portuguese-brazil.svg)BR](https://vwo.com/br/#locale_lang)
     
-* [EN](https://vwo.com/terms/)[DE](https://vwo.com/de/terms/)[ES](https://vwo.com/es/)[BR](https://vwo.com/br/)
+* [EN](https://vwo.com/terms/#locale_lang)[DE](https://vwo.com/de/terms/#locale_lang)[ES](https://vwo.com/es/#locale_lang)[BR](https://vwo.com/br/#locale_lang)
 * [Logout](https://app.vwo.com/logout/)
 
 [![VWO Logo](https://static.wingify.com/gcp/images/vwo-logo-color.svg)](https://vwo.com/)
@@ -469,7 +469,7 @@
     * [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/newhome/flag-spain@2x.png)ES](https://vwo.com/es/#locale_lang)
     * [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/flag-portuguese-brazil.svg)BR](https://vwo.com/br/#locale_lang)
     
-* [EN](https://vwo.com/terms/)[DE](https://vwo.com/de/terms/)[ES](https://vwo.com/es/)[BR](https://vwo.com/br/)
+* [EN](https://vwo.com/terms/#locale_lang)[DE](https://vwo.com/de/terms/#locale_lang)[ES](https://vwo.com/es/#locale_lang)[BR](https://vwo.com/br/#locale_lang)
 
 [Pricing](https://vwo.com/pricing/)
 
