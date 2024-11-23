@@ -322,7 +322,7 @@ USD $ | United States
     * [Skeppy](https://skeppyshop.com/)
     
 
- Search[![](//georgenotfound.shop/cdn/shop/t/57/assets/cart-sad.svg?v=99485669083633826651722456451 )](https://georgenotfound.shop/cart)Cart
+ Search[![](//georgenotfound.shop/cdn/shop/t/60/assets/cart-sad.svg?v=99485669083633826651732304000 )](https://georgenotfound.shop/cart)Cart
 
 Item added to your cart
 -----------------------
