@@ -101,4 +101,5 @@ Other definitions used in the Terms and Conditions of Use:
 * [Abuse](https://krakenfiles.com/contact)
 * [Terms](https://krakenfiles.com/terms)
 * [Privacy](https://krakenfiles.com/terms)
+* [Cookies settings](javascript:Sddan.cmp.displayUI())
 * [Help](https://krakenfiles.com/faq)
