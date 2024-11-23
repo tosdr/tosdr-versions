@@ -468,6 +468,10 @@ Revised June 1, 2022
 
   [![Tokyo Metro will soon have a role in the running of London's Elizabeth Line, a major train route serving the U.K.’s capital city and environs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Metro will soon have a role in the running of London's Elizabeth Line, a major train route serving the U.K.’s capital city and environs.")](https://www.japantimes.co.jp/business/2024/11/21/companies/tokyo-metro-london-elizabeth-line/ "Tokyo Metro’s overseas efforts begin in earnest with London deal")
 
+[U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
+
+  [![U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435630.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.")](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
+
 [Man charged with murder allegedly made victim date other men for money](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/beat-girlfriend-arrest/ "Man charged with murder allegedly made victim date other men for money")
 
   [![A car carrying suspect Ryotaro Masuda, who was indicted for allegedly beating his 25-year-old girlfriend to death, leaves the Shibuya Police Station in Tokyo on Thursday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435475.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A car carrying suspect Ryotaro Masuda, who was indicted for allegedly beating his 25-year-old girlfriend to death, leaves the Shibuya Police Station in Tokyo on Thursday. ")](https://www.japantimes.co.jp/news/2024/11/21/japan/crime-legal/beat-girlfriend-arrest/ "Man charged with murder allegedly made victim date other men for money")
@@ -479,10 +483,6 @@ Revised June 1, 2022
 [Ex-yokozuna Kitanofuji dies at 82](https://www.japantimes.co.jp/sports/2024/11/21/sumo/kitanofuji-dies-at-82/ "Ex-yokozuna Kitanofuji dies at 82")
 
   [![Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435471.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yokozuna Kitanofuji enters the ring during the May 1970 grand sumo tournament in Tokyo.")](https://www.japantimes.co.jp/sports/2024/11/21/sumo/kitanofuji-dies-at-82/ "Ex-yokozuna Kitanofuji dies at 82")
-
-[The slow-burn success of ‘A Samurai in Time’](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
-
-  [![A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”")](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
 
 [Shohei Ohtani wins National League MVP award](https://www.japantimes.co.jp/sports/2024/11/22/baseball/mlb/ohtani-wins-mvp-award/ "Shohei Ohtani wins National League MVP award")
 
@@ -525,9 +525,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,15 +567,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan chipmaker Kioxia IPO set for next month](https://www.japantimes.co.jp/business/2024/11/22/companies/kioxia-set-for-ipo/ "Japan chipmaker Kioxia IPO set for next month")
+[Tokyo police care for lost umbrellas, keys and flying squirrels](https://www.japantimes.co.jp/news/2024/11/23/japan/tokyo-police-lost-items-care/ "Tokyo police care for lost umbrellas, keys and flying squirrels")
 
-[MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/mufg-fire-worker-theft/ "MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes")
+1 hour ago
 
-[Japan will spend ¥325 million in government funds on Princess Yuriko's funeral](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
+[Nissan persuades U.S. court to decertify brake defect class actions](https://www.japantimes.co.jp/business/2024/11/23/companies/nissan-us-court-brake-defect/ "Nissan persuades U.S. court to decertify brake defect class actions")
 
-[Japan approves ¥21.9 trillion stimulus plan](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
+1 hour ago
 
-[In Spain's Canaries, rescuers exhausted as new migrant routes open](https://www.japantimes.co.jp/news/2024/11/22/world/society/new-migrant-routes-open/ "In Spain's Canaries, rescuers exhausted as new migrant routes open")
+[Trump taps Scott Bessent for U.S. Treasury](https://www.japantimes.co.jp/news/2024/11/23/world/trump-us-treasury-pick-scott-bessent/ "Trump taps Scott Bessent for U.S. Treasury")
+
+2 hours ago
+
+[Northvolt crisis may be make or break for Europe's EV battery ambitions](https://www.japantimes.co.jp/business/2024/11/23/companies/northvolt-crisis-europe-ev-ambitions/ "Northvolt crisis may be make or break for Europe's EV battery ambitions")
+
+3 hours ago
+
+[Gaetz exit puts spotlight on other Trump nominees accused of sexual misconduct](https://www.japantimes.co.jp/news/2024/11/23/world/politics/trump-nominees-sexual-misconduct-spotlight/ "Gaetz exit puts spotlight on other Trump nominees accused of sexual misconduct")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
