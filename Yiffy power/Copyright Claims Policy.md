@@ -75,7 +75,7 @@ Latest commented posts
 
 [ash and dean (no nut november) created by drako1997](https://yiff-party.com/yiff/ash-and-dean-no-nut-november-created-by-drako1997/)
 
-0 227 1
+0 235 1
 
 November 2, 2024
 
@@ -83,21 +83,21 @@ November 2, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 198 1
+0 208 1
 
 November 18, 2024
 
-[](https://yiff-party.com/yiff-gif/bulma-and-oolong-dragon-ball-created-by-d-art/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-aurugy-5/)
 
-[bulma and oolong (dragon ball) created by d-art](https://yiff-party.com/yiff-gif/bulma-and-oolong-dragon-ball-created-by-d-art/)
+[directed by aurugy](https://yiff-party.com/yiff-ai-premium/directed-by-aurugy-5/)
 
-0 287 0
+0 41 0
 
 October 24, 2024
 
-[](https://yiff-party.com/yiff/noelle-holiday-and-toriel-undertale-series-and-etc-created-by-cold-blooded-twilight/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-quantaized-4/)
 
-[noelle holiday and toriel (undertale (series) and etc) created by cold-blooded-twilight](https://yiff-party.com/yiff/noelle-holiday-and-toriel-undertale-series-and-etc-created-by-cold-blooded-twilight/)
+[directed by quantaized](https://yiff-party.com/yiff-ai-premium/directed-by-quantaized-4/)
 
 0 1 0
 
