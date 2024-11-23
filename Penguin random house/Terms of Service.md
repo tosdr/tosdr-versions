@@ -14,6 +14,14 @@ Recommendations
 
 Audio
 
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+    
+    Books Bans Are on the Rise in America
+    
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+
+* * *
+
 * [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
     
     New Releases
@@ -22,19 +30,11 @@ Audio
 
 * * *
 
-* [![Children’s & YA Books That Celebrate Native American Heritage](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/04160201/Diversity-Nov-Native-American-Heritage-Month-HL-1500x500-v3.jpg)
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
     
-    Children’s & YA Books That Celebrate Native American Heritage
+    How To Read More in 2024
     
-    Learn More >](https://www.readbrightly.com/native-american-history-experience-kids-teens/)
-
-* * *
-
-* [![A Guide to Colson Whitehead Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/10/22134851/PRH_Site_1200x628_ColsonWhite.jpg)
-    
-    A Guide to Colson Whitehead Books
-    
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/colson-whitehead-books/)
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
 
 * <
     
