@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_360x203.jpg)](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d)
         
-        #### [QC audiences flock to 'Wicked' on the big screen](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d) [![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_360x203.jpg)](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d)
-        
         #### ['Wicked' makes its way to movie screens in the Quad Cities](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/076332eb-3312-459b-96c3-19f6806a8fb6/20241123T000908/076332eb-3312-459b-96c3-19f6806a8fb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/076332eb-3312-459b-96c3-19f6806a8fb6/20241123T000908/076332eb-3312-459b-96c3-19f6806a8fb6_360x203.jpg)](https://www.wqad.com/article/news/local/new-carpentry-training-facility-east-moline/526-9c8d636e-811d-4627-b21a-f3af16c9f6f8)
         
         #### [New carpentry training facility opens in East Moline](https://www.wqad.com/article/news/local/new-carpentry-training-facility-east-moline/526-9c8d636e-811d-4627-b21a-f3af16c9f6f8)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/67504906-1d0a-40a0-911a-625aa0d0421b/20241122T225101/67504906-1d0a-40a0-911a-625aa0d0421b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/67504906-1d0a-40a0-911a-625aa0d0421b/20241122T225101/67504906-1d0a-40a0-911a-625aa0d0421b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/442cd9e1-06a9-4a66-9224-bfe243d5b490/20241123T043321/442cd9e1-06a9-4a66-9224-bfe243d5b490_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/442cd9e1-06a9-4a66-9224-bfe243d5b490/20241123T043321/442cd9e1-06a9-4a66-9224-bfe243d5b490_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Dry skies continue through the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -87,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-34°
+33°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
