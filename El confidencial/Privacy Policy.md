@@ -1,3 +1,5 @@
+![](https://sb.scorecardresearch.com/p?c1=2&c2=7215267&cv=2.0&cj=1)
+
 * [Últimas noticias](https://www.elconfidencial.com/ultima-hora-en-vivo/ "Noticias de Últimas noticias")
 * [Opinión](https://blogs.elconfidencial.com/ "Noticias de Opinión")
     * [Nacho Cardero](https://blogs.elconfidencial.com/espana/caza-mayor/ "Noticias de Nacho Cardero")
