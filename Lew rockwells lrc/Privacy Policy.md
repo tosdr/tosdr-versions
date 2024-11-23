@@ -64,6 +64,9 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [Political Theatre](https://www.lewrockwell.com/political-theatre/)
 
+* [Immoral, Illogical, and Thomas Jefferson](https://www.lewrockwell.com/political-theatre/immoral-illogical-and-thomas-jefferson/)
+* [Women Need Choice](https://www.lewrockwell.com/political-theatre/women-need-choice/)
+* [November 22nd 1963](https://www.lewrockwell.com/political-theatre/november-22nd-1963/)
 * [How the Democrats Became the War Party](https://www.lewrockwell.com/political-theatre/how-the-democrats-became-the-war-party/)
 * [The Wars That Wouldn’t Have Been](https://www.lewrockwell.com/political-theatre/the-wars-that-wouldnt-have-been/)
 * [The Religion Of The One World Order -AI Luciferianism](https://www.lewrockwell.com/political-theatre/the-religion-of-the-one-world-order-ai-luciferianism/)
@@ -71,15 +74,13 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [The UN Is Using Africa as a Testing Ground for Controversial Digital ID Systems](https://www.lewrockwell.com/political-theatre/the-un-is-using-africa-as-a-testing-ground-for-controversial-digital-id-systems/)
 * [For DOGE to Hunt Waste, It Needs Ron Paul to Sic Itt](https://www.lewrockwell.com/political-theatre/for-doge-to-hunt-waste-it-needs-ron-paul-to-sic-itt/)
 * [Defend Rudy!](https://www.lewrockwell.com/political-theatre/defend-rudy/)
-* [Bishop Strickland: God will punish bishops for their silence while Pope Francis destroys the Church](https://www.lewrockwell.com/political-theatre/bishop-strickland-god-will-punish-bishops-for-their-silence-while-pope-francis-destroys-the-church/)
-* [Bill Gates wants to fight ‘climate change’ by vaccinating cows to stop them from emitting methane](https://www.lewrockwell.com/political-theatre/bill-gates-wants-to-fight-climate-change-by-vaccinating-cows-to-stop-them-from-emitting-methane/)
-* [Christmas present](https://www.lewrockwell.com/political-theatre/christmas-present/)
-* [MORE](https://www.lewrockwell.com/political-theatre/#post-896435)
+* [MORE](https://www.lewrockwell.com/political-theatre/#post-896454)
 
 [![](https://www.lewrockwell.com/wp-content/themes/lrc/images/burtspage300.png)](http://archive.lewrockwell.com/blumert/burt-gold.html)
 
 #### [LRC Blog](https://www.lewrockwell.com/lrc-blog/)
 
+* [America’s Untold Stories: Free-form Friday: JFK Assassination, Banana Art, and Trump’s Cabinet](https://www.lewrockwell.com/lrc-blog/americas-untold-stories-free-form-friday-jfk-assassination-banana-art-and-trumps-cabinet/)
 * [The Demo-Bolshevik Criminals are Shaking in Their Boots](https://www.lewrockwell.com/lrc-blog/the-demo-bolshevik-criminals-are-shaking-in-their-boots/)
 * [Deporting Illegals Is Legal — Military In America’s Streets Is Not!](https://www.lewrockwell.com/lrc-blog/deporting-illegals-is-legal-military-in-americas-streets-is-not/)
 * [“The CIA Was Directly Involved in the Assassination of JFK. Oswald was a Patsy.” The Accusations Made by Jim Garrison, the Investigating Attorney](https://www.lewrockwell.com/lrc-blog/the-cia-was-directly-involved-in-the-assassination-of-jfk-oswald-was-a-patsy-the-accusations-made-by-jim-garrison-the-investigating-attorney/)
@@ -89,8 +90,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [Even Elon Musk Cannot Make Government Bureaucracy “Efficient”](https://www.lewrockwell.com/lrc-blog/even-elon-musk-cannot-make-government-bureaucracy-efficient/)
 * [Trump’s Immigration Plans: The Good and the Bad](https://www.lewrockwell.com/lrc-blog/trumps-immigration-plans-the-good-and-the-bad/)
 * [The US Just Escalated its Proxy War with Russia. Rothbard Explains Why that’s a Problem.](https://www.lewrockwell.com/lrc-blog/the-us-just-escalated-its-proxy-war-with-russia-rothbard-explains-why-thats-a-problem/)
-* [Definitive Proof that Trump Made the Right Choices with Tulsi and Gaetz](https://www.lewrockwell.com/lrc-blog/definitive-proof-that-trump-made-the-right-choices-with-tulsi-and-gaetz/)
-* [MORE](https://www.lewrockwell.com/lrc-blog/#post-896361)
+* [MORE](https://www.lewrockwell.com/lrc-blog/#post-896366)
 
 #### [LRC Podcasts](https://www.lewrockwell.com/podcast/)
 
