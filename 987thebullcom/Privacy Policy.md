@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:33am |
-| Heartache MedicationJon Pardi<br><br>10:30am |
-| Tennessee OrangeMegan Moroney<br><br>10:26am |
-| Friends Like ThatJohn Morgan Ft Jason Aldean<br><br>10:23am |
-| Check Yes Or NoGeorge Strait<br><br>10:20am |
+| Lies, Lies, LiesMorgan Wallen<br><br>4:39pm |
+| Lose ItKane Brown<br><br>4:35pm |
+| Dirt CheapCody Johnson<br><br>4:32pm |
+| I Never LieZach Top<br><br>4:28pm |
+| Aint Nothing Bout YouBrooks And Dunn<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -505,13 +505,13 @@ Top 40 • Pacific NW
 
 News Talk • Eastern
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
