@@ -150,6 +150,7 @@ Latest reactions
 
 Latest forum posts
 
+* [Sony MSX HB-75B - Picture Won't Sync](https://www.msx.org/forum/msx-talk/hardware/sony-msx-hb-75b-picture-wont-sync "Sony MSX HB-75B - Picture Won't Sync")
 * [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
 * [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/forum/msx-talk/hardware/msx-pico-multi-flash-rom-cartridge?page=3 "MSX Pico - multi Flash ROM cartridge")
@@ -162,7 +163,6 @@ Latest forum posts
 * [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o?page=1 "RTC batteries actually working? :O")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
 * [Some facts about Konami 32kb game cartridges](https://www.msx.org/forum/msx-talk/hardware/some-facts-about-konami-32kb-game-cartridges "Some facts about Konami 32kb game cartridges")
-* [MSX music arrangements on the net](https://www.msx.org/forum/msx-talk/graphics-and-music/msx-arrangements-on-the-net?page=11 "MSX music arrangements on the net")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
