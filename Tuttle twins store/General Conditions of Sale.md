@@ -31,9 +31,11 @@ Update
 
 Shipping & taxes calculated at checkout
 
-  
-
 [Free shipping on orders $70+ (USA Only)](https://tuttletwins.store/collections/shop-all)
+
+[Early Black Friday Sale - Save up to 70%](https://tuttletwins.store/collections/shop-all)
+
+   
 
 [LAST CHANCE Veterans Day Sale, Get 25% OFF with Code VET25
 
