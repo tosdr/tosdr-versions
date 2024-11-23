@@ -1,5 +1,6 @@
 Toggle navigation [WinningPrizeSearch.com](http://www.winningprizesearch.com/)
 
+* [Software](https://pro.winningprizesearch.com/)
 *  [Resources](http://www.winningprizesearch.com/resources.php)
 * [Guide](http://www.winningprizesearch.com/strategy-guide.php)
 * [Contact](http://www.winningprizesearch.com/contact-us.php)
