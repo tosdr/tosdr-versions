@@ -6,7 +6,6 @@
 * [Games](https://www.atari.com/collections/games)
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
-* [Sale](https://www.atari.com/collections/early-access-sale)
 
 [Log in](https://atari.com/customer_authentication/redirect?locale=en&region_country=US) [Help + FAQ](https://www.atari.com/pages/faq) [Investors](https://atari-investisseurs.fr/en/)
 
@@ -21,7 +20,6 @@
 * [Games](https://www.atari.com/collections/games)
 * [Apparel & Collectibles](https://www.atari.com/collections/collectibles)
 * [New](https://www.atari.com/collections)
-* [Sale](https://www.atari.com/collections/early-access-sale)
 
 Search [Log in](https://atari.com/customer_authentication/redirect?locale=en&region_country=US)
 
@@ -365,15 +363,6 @@ Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
 [![Atari 7800](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
 
 Atari 7800+](https://www.atari.com/collections/7800)
-
- 
-
-SHOP EARLY & SAVE
-=================
-
-Don't let "Sold Out" spoil the holidays. Shop early before your wishlist sells out!
-
-[Shop Now](https://www.atari.com/collections/early-access-sale)
 
  
 
@@ -776,8 +765,6 @@ Close
 ### Your cart is empty
 
 Loading...
-
-$20 Back $40 Back $60 Back | |
 
 Subtotal
 
