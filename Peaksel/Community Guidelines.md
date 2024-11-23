@@ -15,12 +15,12 @@
     
 
 * [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
-* [Casual Games](http://peaksel.com/category/casual-games/)
-* [Quiz Games](http://peaksel.com/category/quiz-games/)
-* [Coloring Pages](http://peaksel.com/category/coloring-pages/)
-* [Math Games](http://peaksel.com/category/math-games/)
-* [Escape Games](http://peaksel.com/category/escape-games/)
-* [Ringtones](http://peaksel.com/category/ringtones/)
+* [Casual Games](https://peaksel.com/category/casual-games/)
+* [Quiz Games](https://peaksel.com/category/quiz-games/)
+* [Coloring Pages](https://peaksel.com/category/coloring-pages/)
+* [Math Games](https://peaksel.com/category/math-games/)
+* [Escape Games](https://peaksel.com/category/escape-games/)
+* [Ringtones](https://peaksel.com/category/ringtones/)
 
 [![](https://peaksel.com/wp-content/uploads/2018/06/logo.png)](https://peaksel.com/)
 
@@ -39,12 +39,12 @@
 * [Contact Us](https://peaksel.com/contact/)
 
 * [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
-* [Casual Games](http://peaksel.com/category/casual-games/)
-* [Quiz Games](http://peaksel.com/category/quiz-games/)
-* [Coloring Pages](http://peaksel.com/category/coloring-pages/)
-* [Math Games](http://peaksel.com/category/math-games/)
-* [Escape Games](http://peaksel.com/category/escape-games/)
-* [Ringtones](http://peaksel.com/category/ringtones/)
+* [Casual Games](https://peaksel.com/category/casual-games/)
+* [Quiz Games](https://peaksel.com/category/quiz-games/)
+* [Coloring Pages](https://peaksel.com/category/coloring-pages/)
+* [Math Games](https://peaksel.com/category/math-games/)
+* [Escape Games](https://peaksel.com/category/escape-games/)
+* [Ringtones](https://peaksel.com/category/ringtones/)
 
 Fan Content Policy
 ==================
@@ -94,12 +94,12 @@ We reserve the right to modify this policy at any time. When using Peaksel Asset
 #### Our portfolio
 
 * [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
-* [Casual Games](http://peaksel.com/category/casual-games/)
-* [Quiz Games](http://peaksel.com/category/quiz-games/)
-* [Coloring Pages](http://peaksel.com/category/coloring-pages/)
-* [Math Games](http://peaksel.com/category/math-games/)
-* [Escape Games](http://peaksel.com/category/escape-games/)
-* [Ringtones](http://peaksel.com/category/ringtones/)
+* [Casual Games](https://peaksel.com/category/casual-games/)
+* [Quiz Games](https://peaksel.com/category/quiz-games/)
+* [Coloring Pages](https://peaksel.com/category/coloring-pages/)
+* [Math Games](https://peaksel.com/category/math-games/)
+* [Escape Games](https://peaksel.com/category/escape-games/)
+* [Ringtones](https://peaksel.com/category/ringtones/)
 
 #### Company
 
