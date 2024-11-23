@@ -97,6 +97,7 @@ United States
             * [Trust](https://trust.okta.com/?_ga=2.172244323.1131952190.1694551039-2108337227.1682701839&_gl=1%2Aww0l7q%2A_ga%2AMjEwODMzNzIyNy4xNjgyNzAxODM5%2A_ga_QKMSDV5369%2AMTY5NDU1MTAzOS4zOC4xLjE2OTQ1NTE3ODEuNjAuMC4w "Trust")
             
         
+    * [Okta for SaaS Builders](https://www.okta.com/saas-security/ "Okta for SaaS Builders")
     
 * Developers
     
