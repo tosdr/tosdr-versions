@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How to help mormon church victims of sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "How to Help Mormon Church Victims of Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/ "How to Help Mormon Church Victims of Sexual Abuse")
+[![Power outages: nursing homes’ temperature safety](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages-scaled.jpg "Power Outages: Nursing Homes’ Temperature Safety")](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/ "Power Outages: Nursing Homes’ Temperature Safety")
 
-[#### How to Help Mormon Church Victims of Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/)
+[#### Power Outages: Nursing Homes’ Temperature Safety](https://www.pintas.com/faq/why-do-nursing-homes-have-to-maintain-safe-temperatures-during-power-outages/)
 
-[![What is elopement in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-elopement-in-nursing-homes-scaled.jpg "What Is Elopement in Nursing Homes?")](https://www.pintas.com/faq/what-is-elopement-in-nursing-homes/ "What Is Elopement in Nursing Homes?")
+[![Is mesothelioma a slow growing cancer?](https://www.pintas.com/wp-content/uploads/2020/07/is-mesothelioma-a-slow-growing-cancer-scaled.jpg "Is Mesothelioma a Slow Growing Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-a-slow-growing-cancer/ "Is Mesothelioma a Slow Growing Cancer?")
 
-[#### What Is Elopement in Nursing Homes?](https://www.pintas.com/faq/what-is-elopement-in-nursing-homes/)
+[#### Is Mesothelioma a Slow Growing Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-a-slow-growing-cancer/)
 
-[![What is a lesion on the lung?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-is-a-lesion-on-the-lung.jpg "What Is a Lesion on the Lung?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-a-lesion-on-the-lung/ "What Is a Lesion on the Lung?")
+[![Can a chest x-ray show mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-can-a-chest-xray-show-mesothelioma.jpg "Can a Chest X-ray Show Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-a-chest-xray-show-mesothelioma/ "Can a Chest X-ray Show Mesothelioma?")
 
-[#### What Is a Lesion on the Lung?](https://www.pintas.com/practice-areas/lung-cancer/what-is-a-lesion-on-the-lung/)
+[#### Can a Chest X-ray Show Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-a-chest-xray-show-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
