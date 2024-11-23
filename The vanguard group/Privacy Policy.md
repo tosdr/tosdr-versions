@@ -1,13 +1,12 @@
-Trust & security
+* * *
 
 Vanguard's Online Privacy Notice
-================================
 
 The following Online Privacy Notice is provided by the Vanguard funds, The Vanguard Group, Inc., and their affiliates, including Vanguard Marketing Corporation, Vanguard Advisers, Inc., Vanguard Fiduciary Trust Company, Vanguard National Trust Company, and Vanguard Personalized Indexing Management, LLC (collectively, Vanguard). This Online Privacy Notice applies to personal information we collect about visitors to Vanguard.com websites, mobile applications, and other online services that link to this notice.
 
-* * *
+ 
 
-Our [U.S. Personal Investor Privacy Notice](https://investor.vanguard.com/trust-security/privacy-center/personal-investor-privacy-notice) applies to information that Vanguard collects about individuals who seek, apply for, or obtain our financial products and services for personal, family, or household purposes.
+Our [U.S. Personal Investor Privacy Notice](https://investor.vanguard.com/privacy-center/personal-investor-privacy-notice) applies to information that Vanguard collects about individuals who seek, apply for, or obtain our financial products and services for personal, family, or household purposes.
 
 Please click [here](https://investor.vanguard.com/privacy-center/privacy-notice-for-california-residents) to view our Privacy notice for California residents.
 
@@ -117,7 +116,7 @@ Last updated:  June 2024.
 We take your privacy seriously
 ------------------------------
 
-[Privacy center](https://investor.vanguard.com/privacy-center)
+[Privacy center](https://investor.vanguard.com/privacy-center/home-page)
 
   
 We take your privacy seriously
