@@ -342,11 +342,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Zoran Popovic, Eros, detalj crteza Fragmenti, Cikago, 1985.](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-crtezidrawings/zoran-popovic-crtezi/drawings/eros-detail-drawing-named-fragments-pen-and-transparent-acrylic-paper-chicago-december-29-1985.jpg?itok=GYiki-Ic)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-crtezidrawings/zoran-popovic-13)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ana-krstic/otvaranje-izlozbe/cacak-001.jpg?itok=wZto8bKZ)](http://seecult.org/galerija/galerija-umetnika/ana-krstic/otvaranje-izlozbe)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/beyer.jpg?itok=ulkqOu6E)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/nagradjeni-filmovi-4-animateke/refrains-1.jpg?itok=7rUWhEmY)](http://seecult.org/galerija/foto-galerija/foto-arhiva/nagradjeni-filmovi-4-animateke)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
