@@ -130,11 +130,11 @@ English
 * Top Trends
     * [ECI Result Updates](https://www.news18.com/india/eci-election-results-2024-live-updates-eci-gov-in-maharashtra-jharkhand-bypolls-uttar-pradesh-liveblog-9129801.html)
     * [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-vote-counting-today-liveblog-9130535.html)
-    * [Mumbai Results](https://www.news18.com/elections/mumbai-election-results-2024-live-updates-maharashtra-assembly-election-vote-counting-today-mahayuti-bjp-congress-shiv-sena-liveblog-9129378.html)
     * [Election Analytics Centre](https://www.news18.com/elections/analytics-center/?v=map&s=MH&t=AS&)
+    * [Shalini Passi](https://www.news18.com/movies/sanjay-passi-reacts-to-shalini-passis-husband-tag-after-fabulous-lives-i-feel-9130969.html)
     * [WhatsApp](https://www.news18.com/tech/whatsapp-offers-secret-code-to-protect-your-chats-how-it-works-9118719.html)
     * [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-2-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9130447.html)
-    * [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
+    * [IPL Auction](https://www.news18.com/ipl-auction/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -172,11 +172,11 @@ In Trends:
 
 * [ECI Result Updates](https://www.news18.com/india/eci-election-results-2024-live-updates-eci-gov-in-maharashtra-jharkhand-bypolls-uttar-pradesh-liveblog-9129801.html)
 * [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-vote-counting-today-liveblog-9130535.html)
-* [Mumbai Results](https://www.news18.com/elections/mumbai-election-results-2024-live-updates-maharashtra-assembly-election-vote-counting-today-mahayuti-bjp-congress-shiv-sena-liveblog-9129378.html)
 * [Election Analytics Centre](https://www.news18.com/elections/analytics-center/?v=map&s=MH&t=AS&)
+* [Shalini Passi](https://www.news18.com/movies/sanjay-passi-reacts-to-shalini-passis-husband-tag-after-fabulous-lives-i-feel-9130969.html)
 * [WhatsApp](https://www.news18.com/tech/whatsapp-offers-secret-code-to-protect-your-chats-how-it-works-9118719.html)
 * [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-2-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9130447.html)
-* [IPL Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
+* [IPL Auction](https://www.news18.com/ipl-auction/)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
