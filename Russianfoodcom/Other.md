@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -149,15 +149,15 @@
 Сейчас читают
 
 * [Пряники с глазурью](https://www.russianfood.com/recipes/recipe.php?rid=41461)
-* [Яйца в «муфточке»](https://www.russianfood.com/recipes/recipe.php?rid=50298)
 * [Пирожки «Морозные»](https://www.russianfood.com/recipes/recipe.php?rid=106777)
 * [Соус из окорока](https://www.russianfood.com/recipes/recipe.php?rid=113505)
 * [Шницель из мерлузы](https://www.russianfood.com/recipes/recipe.php?rid=124)
 * [Завтрак из хека](https://www.russianfood.com/recipes/recipe.php?rid=573)
 * [Скриглики, запеченные с томатами](https://www.russianfood.com/recipes/recipe.php?rid=731)
-* [Репа, фаршированная манной кашей (иначе)](https://www.russianfood.com/recipes/recipe.php?rid=755)
-* [Капуста, тушенная с рисом и грибами](https://www.russianfood.com/recipes/recipe.php?rid=787)
-* [Капуста, фаршированная рисом и грибами](https://www.russianfood.com/recipes/recipe.php?rid=790)
+* [Капуста цветная, запеченная под соусом сливочным](https://www.russianfood.com/recipes/recipe.php?rid=799)
+* [Яблоки, фаршированные мясом цыпленка](https://www.russianfood.com/recipes/recipe.php?rid=926)
+* [Горячий паштет из курицы](https://www.russianfood.com/recipes/recipe.php?rid=930)
+* [Начинка фруктовая](https://www.russianfood.com/recipes/recipe.php?rid=1121)
 
 |     |
 | --- |
@@ -461,8 +461,8 @@
 
 |     |     |
 | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751118.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174543) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753866.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174818) |
-| [Дрожжевая вертута с жареным репчатым луком, чесноком и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174543) | [Пирог с айвой и клюквой](https://www.russianfood.com/recipes/recipe.php?rid=174818) |
+| [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753866.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174818) | [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751118.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174543) |
+| [Пирог с айвой и клюквой](https://www.russianfood.com/recipes/recipe.php?rid=174818) | [Дрожжевая вертута с жареным репчатым луком, чесноком и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174543) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(138)
+(116)
