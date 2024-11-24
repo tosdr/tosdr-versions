@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Would you Live in AN'S (4,284)](https://forum.nationstates.net/viewtopic.php?t=546200&f=25&view=unread#unread ""Would you Live in AN'S" (4,284 posts)")
-* [Ukrainian War VII: Everything has a p… (11,000)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (11,000 posts)")
-* [How disturbing is AN? (132)](https://forum.nationstates.net/viewtopic.php?t=556696&f=25&view=unread#unread ""How disturbing is AN?" (132 posts)")
-* [Trade between Pakania and Freedom Fre… (42)](https://forum.nationstates.net/viewtopic.php?t=558680&f=5&view=unread#unread ""Trade between Pakania and Freedom Freelandia (Invite Only)" (42 posts)")
-* [Describe a video game set in AN (6)](https://forum.nationstates.net/viewtopic.php?t=558696&f=25&view=unread#unread ""Describe a video game set in AN" (6 posts)")
+* [NFL Football Thread 24-25: The Road t… (8,715)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (8,715 posts)")
+* [Hyper translate the AN (81)](https://forum.nationstates.net/viewtopic.php?t=558650&f=25&view=unread#unread ""Hyper translate the AN" (81 posts)")
+* [American Politics: Turnabout Trump (6,385)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (6,385 posts)")
+* [The Aspen News Feed (5)](https://forum.nationstates.net/viewtopic.php?t=558715&f=4&view=unread#unread ""The Aspen News Feed" (5 posts)")
 
 Advertisement
 
