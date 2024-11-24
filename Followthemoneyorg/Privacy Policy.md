@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Incumbents2010](/assets/logos/IncumbentsGraph04-10.png)](http://www.followthemoney.org/research/institute-research/tea-party-in-the-2010-state-elections-hot-or-tepid)
+[![PA Supreme Court Donors](/assets/logos/RaisedByPASCCan.png)](https://www.followthemoney.org/research/institute-research/high-court-contests-competition-controversy-and-cash-in-pennsylvania-and-wisconsin)
 
-Look at the power of incumbency.
+Who gives to Pennsylvania’s supreme court candidates?
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
