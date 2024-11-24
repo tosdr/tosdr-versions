@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Springy](https://www.myabandonware.com/game/springy-taw)
 * [Polar Kubes](https://www.myabandonware.com/game/polar-kubes-tav)
 * [Ishido](https://www.myabandonware.com/game/ishido-tau)
 * [Harmony Blocks](https://www.myabandonware.com/game/harmony-blocks-tat)
 * [Arcade Chess](https://www.myabandonware.com/game/arcade-chess-tas)
-* [Brick Buster](https://www.myabandonware.com/game/brick-buster-tar)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Virtual Worlds: The 3D Game Collection](https://www.myabandonware.com/game/virtual-worlds-the-3d-game-collection-k1g)
-* [Blinky Bill: Play and Learn - Year 1](https://www.myabandonware.com/game/blinky-bill-play-and-learn-year-1-m88)
-* [Disney's Winnie the Pooh Holiday Print Studio](https://www.myabandonware.com/game/disney-s-winnie-the-pooh-holiday-print-studio-m8r)
+* [Albatross 2: Masters' History](https://www.myabandonware.com/game/albatross-2-masters-history-qtm)
+* [SpongeBob SquarePants Saves the Day](https://www.myabandonware.com/game/spongebob-squarepants-saves-the-day-msv)
+* [Rayman 3](https://www.myabandonware.com/game/rayman-3-mra)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
