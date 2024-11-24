@@ -3,7 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/un-accord-de-300-milliards-de-dollars-annuels-en-faveur-des-pays-pauvres-a-ete-trouve-a-bakou-28693437.html)
+* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-24-novembre/)
 
 * TV & Streaming
 * Audio
@@ -23,7 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/un-accord-de-300-milliards-de-dollars-annuels-en-faveur-des-pays-pauvres-a-ete-trouve-a-bakou-28693437.html)
+* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-24-novembre/)
 
 #### S'informer
 
@@ -60,7 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/un-accord-de-300-milliards-de-dollars-annuels-en-faveur-des-pays-pauvres-a-ete-trouve-a-bakou-28693437.html)
+* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-24-novembre/)
 
 * TV & Streaming
 * Audio
@@ -86,7 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/un-accord-de-300-milliards-de-dollars-annuels-en-faveur-des-pays-pauvres-a-ete-trouve-a-bakou-28693437.html)
+* [Votations fédérales](https://www.rts.ch/info/dossiers/2024/votations-federales-du-24-novembre/)
 
 #### S'informer
 
