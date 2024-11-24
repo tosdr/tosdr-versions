@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [MSX turbo R upgrade board by Hiroyuki](https://www.msx.org/news/hardware/en/msx-turbo-r-upgrade-board-by-hiroyuki "MSX turbo R upgrade board by Hiroyuki")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
@@ -149,13 +150,12 @@ Latest reactions
 * [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
-* [MSXdev24 #09 Wizsoul](https://www.msx.org/news/challenges/en/msxdev24-09 "MSXdev24 #09 Wizsoul")
 
 Latest forum posts
 
-* [Sony HWD-80](https://www.msx.org/forum/msx-talk/hardware/sony-hwd-80 "Sony HWD-80")
-* [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun "Run Bubble Rain with Sofarun")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
+* [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun "Run Bubble Rain with Sofarun")
+* [Sony HWD-80](https://www.msx.org/forum/msx-talk/hardware/sony-hwd-80 "Sony HWD-80")
 * [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
 * [MSX on Miyoo Mini+ with ONION-OS](https://www.msx.org/forum/msx-talk/emulation/msx-on-myioo-mini-with-onion-os "MSX on Miyoo Mini+ with ONION-OS")
 * [FutureDisk 48 and 49](https://www.msx.org/forum/msx-talk/software/futuredisk-48-and-49 "FutureDisk 48 and 49")
