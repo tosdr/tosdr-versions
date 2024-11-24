@@ -41,42 +41,42 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Jenna Bush Hager at an event wearing red](https://www.women.com/img/gallery/the-best-read-with-jenna-book-club-picks-of-all-time/intro-1731948738.jpg)](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
+*  [![Zooey Deschanel at an event](https://www.women.com/img/gallery/6-zooey-deschanel-outfits-that-could-have-come-straight-from-jess-days-closet/intro-1731960916.jpg)](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
     
-    [Living](https://www.women.com/category/living/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
     
-    [The Best Read With Jenna Book Club Picks Of All Time](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
-    ====================================================================================================================================
+    [6 Zooey Deschanel Outfits That Could Have Come Straight From Jess Day's Closet](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
+    ========================================================================================================================================================
     
-    Jenna Bush Hager is an eager reader who loves sharing her favorite books, creating Read With Jenna to promote the stories of marginalized voices.
+    Since leaving "New Girl," Zooey Deschanel has taken fashion inspo from Jess Day's signature style, wearing cute tights, headbands, and hair pieces.
     
-    By Bernadette Roe [Read More](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
+    By Bernadette Roe [Read More](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
     
-* *  [![Woman in a march with writing on her collarbone](https://www.women.com/img/gallery/what-is-the-4b-movement-and-why-it-packs-more-punch-this-time-around/intro-1732302064.jpg)](https://www.women.com/1720857/4b-movement-trend-explained/)
+* *  [![Jada Pinkett Smith at the Bad Boys premiere](https://www.women.com/img/gallery/5-celebs-that-have-been-open-about-their-battle-with-sex-addiction/intro-1731952801.jpg)](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
         
-        [Relationships](https://www.women.com/category/relationships/)
+        [Sex](https://www.women.com/category/sex-life/)
         
-        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
         
-        ### [What Is The 4B Movement? (And Why It Packs More Punch This Time Around)](https://www.women.com/1720857/4b-movement-trend-explained/)
+        ### [5 Celebs That Have Been Open About Their Battle With Sex Addiction](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
         
-        The 4B movement has made waves across college campuses in the U.S. and gained serious steam since Donald Trump was controversially elected for his second term.
+        Of all of the addictions out there, sex addiction isn't taken as seriously as it should be. But it can impact anyone, for any reason.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1720857/4b-movement-trend-explained/)
+        By Amanda Chatel [Read More](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
         
-    *  [![Two people in bed](https://www.women.com/img/gallery/how-to-handle-being-asked-about-your-body-count-not-that-it-matters/intro-1731694030.jpg)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+    *  [![Jenna Bush Hager at an event wearing red](https://www.women.com/img/gallery/the-best-read-with-jenna-book-club-picks-of-all-time/intro-1731948738.jpg)](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
         
-        [Exclusives](https://www.women.com/category/exclusives/)
+        [Living](https://www.women.com/category/living/)
         
-        [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+        [Living](https://www.women.com/category/living/) By Bernadette Roe
         
-        ### [How To Handle Being Asked About Your Body Count (Not That It Matters)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+        ### [The Best Read With Jenna Book Club Picks Of All Time](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
         
-        Your body count refers to how many people you've had sex with. While it's no one's business but your own, it can be made into a bigger deal than it is.
+        Jenna Bush Hager is an eager reader who loves sharing her favorite books, creating Read With Jenna to promote the stories of marginalized voices.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+        By Bernadette Roe [Read More](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
         
 
 More Stories
@@ -93,6 +93,30 @@ More Stories
     Short nails don't have to keep you from a stunning holiday manicure. Try festive colors or add sparkle for the New Year.
     
     By Emily Hutchinson [Read More](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
+    
+*  [![Woman in a march with writing on her collarbone](https://www.women.com/img/gallery/what-is-the-4b-movement-and-why-it-packs-more-punch-this-time-around/intro-1732302064.jpg)](https://www.women.com/1720857/4b-movement-trend-explained/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    
+    ### [What Is The 4B Movement? (And Why It Packs More Punch This Time Around)](https://www.women.com/1720857/4b-movement-trend-explained/)
+    
+    The 4B movement has made waves across college campuses in the U.S. and gained serious steam since Donald Trump was controversially elected for his second term.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1720857/4b-movement-trend-explained/)
+    
+*  [![Two people in bed](https://www.women.com/img/gallery/how-to-handle-being-asked-about-your-body-count-not-that-it-matters/intro-1731694030.jpg)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+    
+    ### [How To Handle Being Asked About Your Body Count (Not That It Matters)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
+    
+    Your body count refers to how many people you've had sex with. While it's no one's business but your own, it can be made into a bigger deal than it is.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
     
 *  [![Halle Berry on the red carpet smiling](https://www.women.com/img/gallery/5-celebs-who-have-been-vocal-about-avoiding-plastic-surgery/intro-1731690800.jpg)](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
     
@@ -381,30 +405,6 @@ More Stories
     While makeup is a form of expression, we can all take some pointers from beauty experts to learn from the makeup mistakes of Taylor Swift.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
-    
-*  [![Lena Dunham](https://www.women.com/img/gallery/5-celebs-who-have-spoken-out-about-how-therapy-has-improved-their-lives/intro-1730383316.jpg)](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-    
-    ### [5 Celebs Who Have Spoken Out About How Therapy Has Improved Their Lives](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
-    
-    Life is hard enough as it is, and managing a mental health issue with therapy is always the best decision anyone can make for themselves.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1702049/celebs-spoken-out-therapy-improved-lives/)
-    
-*  [![Stevie Nicks being photographed](https://www.women.com/img/gallery/stevie-nicks-reason-for-being-childless-by-choice-makes-so-much-sense/intro-1730325609.jpg)](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
-    
-    ### [Stevie Nicks' Reason For Being Childless By Choice Makes So Much Sense](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
-    
-    While Stevie Nicks has experienced major success in her career, she joins the ranks of the many celebrities who are unapologetically childfree.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1701787/stevie-nicks-reason-being-childless-by-choice-makes-much-sense/)
     
 
 Back
