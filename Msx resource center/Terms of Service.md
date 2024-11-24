@@ -153,8 +153,11 @@ Latest reactions
 
 Latest forum posts
 
-* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
+* [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx "DalSoRi R2 on OpenMSX")
+* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
+* [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
 * [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun "Run Bubble Rain with Sofarun")
+* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [Sony HWD-80](https://www.msx.org/forum/msx-talk/hardware/sony-hwd-80 "Sony HWD-80")
 * [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
 * [MSX on Miyoo Mini+ with ONION-OS](https://www.msx.org/forum/msx-talk/emulation/msx-on-myioo-mini-with-onion-os "MSX on Miyoo Mini+ with ONION-OS")
@@ -163,9 +166,6 @@ Latest forum posts
 * [Sony MSX HB-75B - Picture Won't Sync](https://www.msx.org/forum/msx-talk/hardware/sony-msx-hb-75b-picture-wont-sync "Sony MSX HB-75B - Picture Won't Sync")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=77 "WonderTANG! Who wants to juice up your MSX?")
 * [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
-* [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/forum/msx-talk/hardware/msx-pico-multi-flash-rom-cartridge?page=3 "MSX Pico - multi Flash ROM cartridge")
-* [Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.](https://www.msx.org/forum/msx-talk/hardware/obsonet-raspberrypi-internestor-lite-23-freeze-on-install "Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.")
-* [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
