@@ -80,8 +80,8 @@ Trending Posts
 * [‘Let this election galvanize and radicalize us’: Abby Martin, Francesca Fiorentini, and Kat Abughazaleh respond to Trump’s win](https://therealnews.com/let-this-election-galvanize-and-radicalize-us-abby-martin-francesca-fiorentini-and-kat-abughazaleh-respond-to-trumps-win)
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
 
 Close
@@ -144,8 +144,8 @@ Trending Posts
 * [‘Let this election galvanize and radicalize us’: Abby Martin, Francesca Fiorentini, and Kat Abughazaleh respond to Trump’s win](https://therealnews.com/let-this-election-galvanize-and-radicalize-us-abby-martin-francesca-fiorentini-and-kat-abughazaleh-respond-to-trumps-win)
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
-* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
+* [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
 
 [Skip to content](#main)
