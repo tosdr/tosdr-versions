@@ -525,9 +525,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -569,23 +569,19 @@ Latest News
 
 [Ex-deputy mayor expected to win Nagoya mayoral election](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/nagoya-mayoral-election/ "Ex-deputy mayor expected to win Nagoya mayoral election")
 
-3 hours ago
+10 hours ago
 
 [Japan and U.S. to form missile plan in case of Taiwan emergency](https://www.japantimes.co.jp/news/2024/11/24/japan/japan-us-taiwan-missile-plan/ "Japan and U.S. to form missile plan in case of Taiwan emergency")
 
-4 hours ago
+10 hours ago
 
 [Japan's foreign minister may visit China within this year](https://www.japantimes.co.jp/news/2024/11/24/japan/iwaya-eyes-china-visit/ "Japan's foreign minister may visit China within this year")
 
-5 hours ago
+11 hours ago
 
 [An iconic 32-foot donut might give Randy’s an edge in Japan](https://www.japantimes.co.jp/business/2024/11/24/companies/randys-donut-japan/ "An iconic 32-foot donut might give Randy’s an edge in Japan")
 
-6 hours ago
-
 [First ceremony held to remember Sado gold mine workers](https://www.japantimes.co.jp/news/2024/11/24/japan/first-ceremony-sado-gold-mine-workers/ "First ceremony held to remember Sado gold mine workers")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
