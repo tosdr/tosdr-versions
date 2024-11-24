@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I just made a new subscription. Thanks again for helping me. Your support is really great!
+I remain very happy with your service. Thank you in advance for the next six months. Cheers!
 
-Carsten Thienemann
+Brian Meredith
