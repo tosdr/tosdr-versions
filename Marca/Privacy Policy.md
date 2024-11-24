@@ -2,6 +2,7 @@
 
 * Es noticia:
 * [Celta - Barcelona](https://www.marca.com/futbol/laliga-ea-sports/celta-barcelona/2024/11/23/01_0101_20241123_176_178-directo.html)
+* [Iago Aspas](https://www.marca.com/radio/2024/11/23/67423c8f46163fa0198b4586.html)
 * [Horario Celta - Barcelona](https://www.marca.com/futbol/primera-division/2024/11/22/celta-vigo-barcelona-horario-ver-tv-partido-laliga-ea-sports.html)
 * [Muñiz Ruiz](https://www.marca.com/futbol/las-palmas/2024/11/23/decision-clave-muniz-ruiz-sorprendio-todos-palmas-mallorca.html)
 * [Mallorca](https://www.marca.com/futbol/primera-division/cronica/2024/11/23/6741ef36268e3e637d8b4589.html)
