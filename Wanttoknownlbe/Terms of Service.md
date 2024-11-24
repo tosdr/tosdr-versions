@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/gerotzooi-met-commentaar-op-youtube/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/toeval-grappig-dat-je-dat-precies-nu-leest/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
