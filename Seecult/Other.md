@@ -340,11 +340,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nes-paripovic/bez-naziva-detalj-1975c.jpg?itok=ktd0DrM-)](http://seecult.org/galerija/galerija-umetnika/nesa-paripovic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/arhiva-skc-beograd/remek-dela-savremene-srpske-umetnosti-od-1968-do-danas/marina-abramovic-ritam5.?itok=PMks21DK)](http://seecult.org/galerija/galerija-umetnika/arhiva-skc-beograd/remek-dela-savremene-srpske-umetnosti-od-1968-do-danas)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/laurie-anderson-skoplje/lori3.jpg?itok=PmsxNnpb)](http://seecult.org/galerija/foto-galerija/foto-arhiva/laurie-anderson-skoplje)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/dobitnici-yvaa/katarina-zdjelar-srbija.jpg?itok=J_ZofrVv)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/dobitnici-yvaa)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -360,6 +360,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Bitno je šta vaše oči vide](http://seecult.org/vest/bitno-je-sta-vase-oci-vide)
+* [37\. Fashion Selection - od veterana do mladih dizajnera](http://seecult.org/vest/37-fashion-selection-od-veterana-do-mladih-dizajnera)
 * [Uručene specijalne nagrade FAF-a, omaž Paradžanovu](http://seecult.org/vest/urucene-specijalne-nagrade-faf-omaz-paradzanovu)
 * [Svečano otvoren 30. FAF - drugačiji pogled na svet](http://seecult.org/vest/svecano-otvoren-30-faf-drugaciji-pogled-na-svet)
 * [Upozorenje ICOMOS-a povodom nasleđa 20. veka u Beogradu](http://seecult.org/vest/upozorenje-icomos-povodom-nasleda-20-veka-u-beogradu)
@@ -368,8 +370,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Mariborski Amadeus u JDP-u](http://seecult.org/vest/mariborski-amadeus-u-jdp-u)
 * [16\. Merlinka u Jugoslovenskoj kinoteci](http://seecult.org/vest/16-merlinka-u-jugoslovenskoj-kinoteci)
 * [Evropa Nostra Srbija - odbrana nasleđa i struke](http://seecult.org/vest/evropa-nostra-srbija-odbrana-nasleda-i-struke)
-* [Odbrana slobode izražavanja](http://seecult.org/vest/odbrana-slobode-izrazavanja)
-* [Digitalno restaurisana Virdžina](http://seecult.org/vest/digitalno-restaurisana-virdzina)
 
 * [Konkursi](#tab1_1)
 
