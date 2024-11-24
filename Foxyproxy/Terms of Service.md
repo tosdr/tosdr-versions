@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You are a saint!!! I've spent 3 days looking for this. I'm gonna pay for the upgraded version!
+It was a great service. I don't need it now, but I will need it again starting in April for six months, so I will get back to you then.
 
-Glenn Patchen, Jr.
+Douglas
