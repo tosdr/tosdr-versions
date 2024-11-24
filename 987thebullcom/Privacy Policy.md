@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| A Lot More FreeMax Mcnown<br><br>4:40pm |
-| Dont YaBrett Eldredge<br><br>4:37pm |
-| Ain'T No Love In OklahomaLuke Combs<br><br>4:33pm |
-| Pink SkiesZach Bryan<br><br>4:30pm |
-| AlrightDarius Rucker<br><br>4:27pm |
+| YouDan Shay<br><br>6:58pm |
+| I Never LieZach Top<br><br>6:54pm |
+| Cowboys Cry TooKelsea Ballerini Ft Noah Kahan<br><br>6:51pm |
+| The Kind Of Love We MakeLuke Combs<br><br>6:47pm |
+| No Shoes, No Shirt, No ProblemKenny Chesney<br><br>6:40pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -509,9 +509,9 @@ Country • Western
 
 Sports • Midwest
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Top 40 • Eastern
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
