@@ -95,57 +95,67 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Government and Politics
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/Jellyfish_Venoms_1400x1050.jpg)](https://www.icr.org/article/jellyfish-serves-variety-venoms-stinging-cocktail)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/kingdom-of-priests)
 
-[Jellyfish Serves Variety of Venoms in Stinging Cocktail](https://www.icr.org/article/jellyfish-serves-variety-venoms-stinging-cocktail/)
+[Kingdom of Priests](https://www.icr.org/article/kingdom-of-priests/)
 
-Chinese researchers recently reported on venomous toxins of the giant jellyfish. They revealed that this aquatic creature mixes a “cocktail”...
+“And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.”...
 
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/Global_Recession_1400x1050.jpg)](https://www.icr.org/article/international-monetary-fund-global-recession)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/snares)
 
-[International Monetary Fund Declares Global Recession](https://www.icr.org/article/international-monetary-fund-global-recession/)
+[Snares](https://www.icr.org/article/snares/)
 
-On April 3, 2020, International Monetary Fund Chief Kristalina Georgieva stated that the world economy is now in a global recession due to the coronavirus.1...
+“Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.” (1 Timothy 3:7) A...
 
-BY: [TREY BOWLING](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=237)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/Scottish_Population_1400x1050.jpg)](https://www.icr.org/article/scottish-population-movements-and-genesis-mandate)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/make-it-sure-you-can)
 
-[Scottish Population Movements and the Genesis Mandate](https://www.icr.org/article/scottish-population-movements-and-genesis-mandate/)
+[Make It as Sure as You Can](https://www.icr.org/article/make-it-sure-you-can/)
 
-Some lands welcome newcomers, while others oppose incoming foreigners. Scotland is no exception—and recent population news can be compared to prior...
+“Pilate said unto them, Ye have a watch: go your way, make it as sure as ye can. So they went, and made the sepulchre sure, sealing the stone,...
 
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
 
-More Impact
+Shop Related Products
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/Jupiter's_Young_Moons_1400x1050.jpg)](https://www.icr.org/article/jupiters-young-moons)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475194/file.jpg)
 
-[Jupiter's Young Moons](https://www.icr.org/article/jupiters-young-moons/)
+The Genesis Record](https://store.icr.org/dr-henry-morris-the-genesis-record.html)
 
-In 1610, Galileo Galilei aimed his telescope at Jupiter and discovered the four largest of the planet’s 95 known moons. He recognized them as...
+$47.99
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472152/file.jpg)
 
-[![](/i/articles/af/dna_science_disproves_ev_wide.jpg)](https://www.icr.org/article/dna-science-disproves-human-evolution)
+Biblical Creationism](https://store.icr.org/dr-henry-morris-biblical-creationism.html)
 
-[DNA Science Disproves Human Evolution](https://www.icr.org/article/dna-science-disproves-human-evolution/)
+$14.99
 
-The Bible describes humans as being created in the image of God—the pinnacle of His creation. In contrast, those who embrace the presupposition...
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/fossils_say_no_jostle_jurassic.jpg)](https://www.icr.org/article/the-fossils-still-say-no-jostle-in-the-jurassic)
+$12.99
 
-[The Fossils Still Say No: Jostle in the Jurassic](https://www.icr.org/article/the-fossils-still-say-no-jostle-in-the-jurassic/)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32640/file.jpg)
 
-The Jurassic system of the geologic column is an enigma to evolutionists because it represents a continuance of many life forms found buried below in...
+The Genesis Flood, 50th Anniversary Edition](https://store.icr.org/dr-henry-morris-the-genesis-flood-50th-anniversary.html)
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+$12.99
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
+
+The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
+
+$79.99
+
+$94.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
