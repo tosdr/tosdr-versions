@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![Prosper Logo link to Prosper homepage.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='186'%20height='30'%3E%3C/svg%3E)](https://www.prosper.com/)
+[![Prosper Logo link to Prosper homepage.](https://www.prosper.com/wp-content/uploads/2020/04/Logo.svg)](https://www.prosper.com/)
 
 * Logged (Mobile/Tablet)
     
@@ -132,123 +132,59 @@
 
 X
 
-Legal Compliance
-================
+Our site is undergoing maintenance
+----------------------------------
 
-Prosper is an online lending marketplace operated by Prosper Funding LLC («Prosper»). Prosper and its agents handle the registration of borrower members and investors; the receipt, display and matching of listings and investments on listings; the issuance and sale of Borrower Payment Dependent Notes («Notes») to investors; and the servicing and collection of principal and interest and other charges payable on loans.
+The Prosper site is down for scheduled maintenance and should be available after 7:00AM PST. We appreciate your patience during this time.
 
-* Our borrower members can post listings on our marketplace to request and obtain loans, which we call «borrower loans.»
-* Our investors can invest in listings and purchase Notes from Prosper, the payments of which are dependent on Prosper’s receipt of payments on the corresponding borrower loans described in the listing.
+Contact us
+----------
 
-All loans originated through the platform are made by WebBank, a Utah-chartered Industrial Bank. Our affiliate, Prosper Marketplace, Inc., provides services to WebBank in connection with the origination of such loans and services all loans made to Prosper borrowers for the benefit of our investors who purchase Notes dependent for payment on such loans.
+**General:** [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection)
 
-All borrower loans are fixed rate, unsecured, fully amortizing loans with simple interest. All loans are obligations of individual borrowers and not of corporations or businesses. Borrowers who obtain a loan to be used for business purposes, are personally obligated to repay the loan, regardless of the success or failure of the business for which the loan may be used. The following limits and fees apply:
+**Personal Loan**
 
-#### Borrower Limits and Fees
+866-615-6319
 
-![us_map.gif](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='276'%20height='200'%3E%3C/svg%3E)
+Monday – Friday  
+5 AM – 5 PM PT
 
-Loan amount:
+**Investor**
 
-$2,000 – $50,000
+877-646-5922
 
-Maximum interest rate:
+Monday – Friday  
+6 AM – 3 PM PT
 
-35.99%
+**Credit Card**
 
-Origination fee:
+800-903-4697
 
-Origination fees vary between 1% and 9.99%
+Monday – Sunday  
+5 AM – 7 PM PT
 
-**Late fee:**
+**Home Equity**
 
-At 15 days past due
+800-954-2172
 
-The greater of 5.00% of the unpaid installment amount, or $15
+Monday – Friday  
+7 AM – 4 PM PT
 
-Failed payment fee:
+IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT.
 
-$15
+To help the government fight the funding of terrorism and money laundering activities, Federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account.
 
-State of residence:
+What this means for you: When you open an account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see your driver’s license or other identifying documents.
 
-Prosper is available to Borrowers in all US states except Iowa and West Virginia.
+\*  For example, a three-year $10,000 personal loan would have an interest rate of 9.38% and a 9.99% origination fee for an annual percentage rate (APR) of 16.74% APR. You would receive $9,001.00 and make 36 scheduled monthly payments of $319.77. A five-year $10,000 personal loan would have an interest rate of 11.14% and a 9.99% origination fee with a 15.84% APR. You would receive $9,001.00 and make 60 scheduled monthly payments of $218.12. Origination fees vary between 1% and 9.99%. Personal loan APRs through Prosper range from 8.99% to 35.99%, with the lowest rates for the most creditworthy borrowers. Eligibility for personal loans up to $50,000 depends on the information provided by the applicant in the application form. Eligibility for personal loans is not guaranteed, and requires that a sufficient number of investors commit funds to your account and that you meet credit and other conditions. Refer to Borrower Registration Agreement for details and all terms and conditions. All personal loans made by WebBank.
 
-#### Investor Requirements
+Links to third party sites are provided for your convenience and do not constitute an endorsement.
 
-As an investor on our marketplace, you are not actually lending your money directly to borrower members, but are, instead, purchasing Notes from Prosper, the payments of which are dependent on Prosper’s receipt of payments on the corresponding borrower loans. An investment in a loan listing is an investor’s commitment to purchase the Note issued by Prosper, with the proceeds of the sale of the Note used by Prosper to purchase the specific borrower loan described in the listing on which the investment was made.
+All HELOCs are underwritten and issued by our banking partners.
 
-  
+Prosper and WebBank take your privacy seriously.
 
-Your rights and obligations as an investor on our marketplace are set forth in the Investor Registration Agreement.
-
-  
-
-For more information about Prosper, our Notes and Investor Requirement, please see our Prospectus. To the extent there is a conflict between the information contained in this section and the Prospectus, you should rely on the information in the Prospectus.
-
-**Residence:**
-
-Prosper is currently available only to investors who reside in the following states: Alaska, California, Colorado, Connecticut, Delaware, District of Columbia, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Louisiana, Maine, Michigan, Minnesota, Mississippi, Missouri, Montana, Nevada, New Hampshire, New York, Oregon, Rhode Island, South Carolina, South Dakota, Utah, Virginia, Washington, Wisconsin and Wyoming.
-
-  
-
-Individual investors may also be required to meet suitability requirements established by their state of residence.
-
-**Suitability:**
-
-If you are a resident of Alaska, Idaho, Missouri, Nevada, New Hampshire, Oregon, Virginia or Washington, you must have: (i) an Annual Gross Income of at least $80,000; AND a Net Worth of at least $80,000; OR (ii) a Net Worth of at least $280,000. In addition, you may not purchase Notes and PMI Management Rights in an amount in excess of 10% of your Net Worth. For residents of Maine and Oregon, the Maine Office of Securities recommends and the Oregon Division of Finance and Corporate Securities further requires that your aggregate investment in Notes, PMI Management Rights _and_ similar offerings by Prosper Marketplace, Inc., Prosper or their affiliates not exceed 10% of your liquid net worth. For this purpose, “liquid net worth” is defined as that portion of your Net Worth that consists of cash, cash equivalents and readily marketable securities.
-
- 
-
-If you are a resident of California, you must have: (i) had an Annual Gross Income of at least $85,000 during the last tax year; AND a good faith belief that you will have an Annual Gross Income of at least $85,000 for the current tax year; (ii) OR a Net Worth of at least $200,000 (or $300,000 together with your spouse); (iii) OR your Net Investment must not exceed $2,500. In addition, you may not purchase Notes and PMI Management Rights in an amount in excess of 10% of your Net Worth.
-
- 
-
-For purposes of the suitability requirements described above, except as provided otherwise, an investor and his or her spouse is considered to be a single person. In addition, the following definitions apply:
-
- 
-
-* «Annual gross income» means the total amount of money you earn each year, before deducting any amounts for taxes, insurance, retirement contributions or any other payment or expenses.
-* «Net Worth» means the total value of all assets, minus the total value of all liabilities. The value of an asset is equal to the price at which an investor could reasonably expect to sell the asset. In calculating net worth, an investor should only include assets that are liquid, meaning assets that consist of cash or something that could be quickly and easily converted into cash, such as publicly-traded stock. An investor should not include illiquid assets in the calculation of net worth, such as homes, home furnishings or cars.
-* «Net Investment» means the principal amount of Notes and PMI Management Rights purchased, minus principal payments received on the Notes and PMI Management Rights.
-
-**Minimum investment:**
-
-$25
-
-**Maximum investment (per listing):**
-
-The requested loan amount
-
-**Loan servicing fee:**
-
-An annual rate of 1.0% of the outstanding principal balance of the borrower loan
-
-**Collection agency fee rate:**
-
-Up to 40% of the amount recovered on pre and post charged-off loans, plus any legal fees and transaction fees associated with payment processing and litigation costs
-
-Notes and returns on Notes are not FDIC-insured and have no Prosper or bank guarantee. Notes may lose value.
-
-  
-
-Notes purchased by investors are not transferable and must be held until maturity.
-
-  
-
-THE COMMISSIONER OF CORPORATIONS OF THE STATE OF CALIFORNIA DOES NOT RECOMMEND OR ENDORSE THE PURCHASE OF THESE SECURITIES
-
-  
-
-IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT — To help the government fight the funding of terrorism and money laundering activities, federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account. What this means for you: When you open an account, we will ask for your name, address, date of birth, social security number, and other information that will allow us to identify you. We may also ask to see your driver’s license or other identifying documents.
-
-  
-
-Prosper Funding LLC or Prosper Marketplace, Inc. holds the State consumer lending licenses and registrations shown below.
-
-#### [Click here to see state licenses](https://www.prosper.com/heloc/licensing-and-disclosures "Licensing and Disclosures")
-
-Notes offered by Prospectus. Notes investors receive are dependent for payment on unsecured loans made to individual borrowers. Not FDIC-insured; investments may lose value; no Prosper or bank guarantee. Prosper does not verify all information provided by borrowers in listings. Investors should review the prospectus before investing.
+Please see [WebBank’s Privacy Policy](https://www.webbank.com/privacy) for more details.
 
 **[Personal Loans](https://www.prosper.com/personal-loans)**
 
@@ -310,9 +246,9 @@ Cookie Settings
 
 [Facebook](https://www.facebook.com/prosperloans) [Twitter](https://twitter.com/prosperloans) [Linkedin](http://www.linkedin.com/company/prosper-marketplace) [Instagram](https://www.instagram.com/letsgoprosper/)
 
-![Equal Housing Lender](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1'%20height='1'%3E%3C/svg%3E "Equal-Housing-Lender-1.svg")
+![Equal Housing Lender](https://www.prosper.com/wp-content/uploads/2023/01/Equal-Housing-Lender-1.svg?w=35 "Equal-Housing-Lender-1.svg")
 
-![Better Business Bureau](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1'%20height='1'%3E%3C/svg%3E "Better-Business-Bureau-1.svg")
+![Better Business Bureau](https://www.prosper.com/wp-content/uploads/2023/01/Better-Business-Bureau-1.svg?w=93 "Better-Business-Bureau-1.svg")
 
 [Licensing and Disclosures](https://www.prosper.com/legal/heloc-licensing-disclosures)
 
