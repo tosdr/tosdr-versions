@@ -1,6 +1,6 @@
 [Skip to main content](#skipnav)
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
 1. [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
 2. Cookie Policy [Cookie Policy](https://www.pinsentmasons.com/legal-notices/cookie-settings) 
@@ -500,7 +500,7 @@ Other notices and information
     * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
     
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
 * [Legal Notices](https://www.pinsentmasons.com/legal-notices)
 * [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
