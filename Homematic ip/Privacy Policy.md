@@ -321,12 +321,6 @@ News
 
 Macht jeden Garten smart: Das neue Homematic IP Schalt-Mess-Kabel – außen](https://homematic-ip.com/de/news/schalt-mess-kabel-aussen-smarter-garten)
 
- [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_2.jpg.webp?itok=vapN3H64)
-
-News
-
-Homematic IP Home Control Unit: Timeline für die Cloud-Migration und Plug-In-Entwicklung veröffentlicht](https://homematic-ip.com/de/news/hcu1-timeline-cloud-migration-plug-ins)
-
 [Nov.
 
 28-30
