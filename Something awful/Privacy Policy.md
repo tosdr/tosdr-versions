@@ -205,25 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
+* [Sad Posts Say So Much](https://www.somethingawful.com/great-goon-database/great-goon-sad/1/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [Battletech Loves the 80's](https://www.somethingawful.com/dungeons-and-dragons/battletech-art-1980s/1/)
+* [AOL Search Log Special, Part 3](https://www.somethingawful.com/weekend-web/aol-search-log-3/1/)
 * [Baby Bibs](https://www.somethingawful.com/photoshop-phriday/baby-bibs/1/)
-* [Best of @sheboyganscan](https://www.somethingawful.com/twitter-tuesday/tt03-27-12/1/)
-* [\[Mature\] Exalted's Most Mature Content (A Mature Article) for Matures Only](https://www.somethingawful.com/dungeons-and-dragons/burn-down-whitewolf/1/)
-* [Edjucatun First](https://www.somethingawful.com/email-pranks/email-spam-edjucatun/1/)
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [I've decided to take a break from creating threads](http://forums.somethingawful.com/showthread.php?threadid=4076040 "I've decided to take a break from creating threads")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/poll.png) [are you posting here on browser or app](http://forums.somethingawful.com/showthread.php?threadid=4075926 "are you posting here on browser or app")
-* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Do you have a forums crush?](http://forums.somethingawful.com/showthread.php?threadid=4075920 "Do you have a forums crush?")
-
 ### Random Articles
 
-* [THE JERK STORE CALLED](https://www.somethingawful.com/news/jerk-store-joke/)
-* [Drug3K Health Discussion Forum (Thanks, Lowtax!)](https://www.somethingawful.com/awful-links/drug3k-health-forum/)
-* [Our Site Will Be Pivoting to the Strange Object](https://www.somethingawful.com/news/strange-object-pivot/)
-* [Web Awards I'll Never Win](https://www.somethingawful.com/news/web-award-failure/)
-* [Conservative Otaku](https://www.somethingawful.com/awful-links/awful-link-4461/)
+* [McRorie Live Electronic (Thanks, P78M!)](https://www.somethingawful.com/awful-links/mcrorie-live-electronic/)
+* [Microsoft Stock Plummets: Here's Why](https://www.somethingawful.com/webcam-ward/halo-webcam-ward/)
+* [Nice and Accurate NFL Predictions](https://www.somethingawful.com/news/predictions-nfl-football/)
+* [Street Smarts](https://www.somethingawful.com/news/street-smarts/)
+* [Apple Time](https://www.somethingawful.com/flash-tub/apple-time-cartoon/)
 
 [Random!](https://www.somethingawful.com/random/)
 
