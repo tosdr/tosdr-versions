@@ -45,79 +45,125 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: words:100 
+* Work Search  tip: hetalia f/f sort:kudos 
     
 
 DMCA Policy
 -----------
 
-The Digital Millennium Copyright Act (17 U.S.C. § 512)("DMCA"), creates a safe harbor, or a legal exemption, from copyright infringement liability for Internet service providers (ISPs) and other intermediaries. To encourage and maintain free speech on our sites, the Organization for Transformative Works (OTW) will push back against DMCA takedown requests if we believe that the content in question is actually lawful. The law requires that DMCA requests be made by the holder of a valid copyright in the work or by an agent authorized to act on behalf of the owner, and requires that requests are made in good faith under penalty of perjury.
+The Digital Millennium Copyright Act (DMCA) establishes the procedure the Organization for Transformative Works (OTW) must follow when users of our sites, including the Archive of Our Own (AO3), [reproduce copyrighted material without authorization](https://archiveofourown.org/tos_faq#copyright_plagiarism_faq). Specifically, [17 U.S.C. § 512](https://www.law.cornell.edu/uscode/text/17/512) protects the OTW from potential liability when infringing content is present on our sites.
 
-If you are a copyright owner and you believe that your work is being infringed, in the spirit of open collaboration, we encourage you to seek resolution through the volunteer community. You may [contact abuse](https://archiveofourown.org/abuse_reports/new) with an informal request for content removal. Please provide the exact URL (the "address" or "location" of the page as shown by your web browser) of the content and provide enough information to substantiate your claim of copyright ownership. You must support your concern with a link to your publication, a scanned page of the work, and enough publication details for the volunteer community to evaluate your request.
+The OTW will respond promptly to notices of alleged copyright infringement that substantially comply with all [legal requirements](#takedown_requirements). However, we believe that [transformative fanworks are legal](https://www.transformativeworks.org/faq/#faq-WhydoestheOTWbelievethattransformativeworksarelegal), and we reserve the right to review the allegedly infringing content and independently determine whether it is infringing. If you have any questions about our DMCA Policy, please [contact the OTW Legal committee](https://www.transformativeworks.org/contact_us/?who=Legal%20Advocacy).
 
-Alternatively, you may initiate a formal DMCA takedown process. Please note that a third party may submit a counternotice challenging your takedown request, at which point the OTW is required to restore the previously-removed content. You may then initiate legal proceedings against the third party who files a DMCA counternotice in order to determine copyright ownership and the legality of the material’s use. You may also be liable for damages, such as costs and attorney fees, if you knowingly and materially misrepresent your claim.
+### Table of Contents
 
-### How to initiate a formal DMCA takedown request...
+1. [My work was posted on AO3 without my permission. What can I do?](#removal_options)
+    * [Filing a DMCA takedown notice](#takedown_instructions)
+    * [Requirements of a DMCA takedown notice](#takedown_requirements)
+    * [DMCA takedown process](#takedown_process)
+2. [I was notified that my work was removed from AO3 due to a DMCA takedown notice. What can I do?](#appeal_options)
+    * [Filing a DMCA counternotice](#counternotice_instructions)
+    * [Requirements of a DMCA counternotice](#counternotice_requirements)
+    * [DMCA counter-notification process](#counternotice_process)
+3. [Repeat offenses](#repeat_offenses)
 
-To initiate a formal DMCA takedown request, please send a letter to us at legal (at) transformativeworks.org or to our designated agent:
+### My work was posted on AO3 without my permission. What can I do?
 
-Organization for Transformative Works  
-228 Park Ave S #18156  
-New York, New York 10003-1502  
-Attention: Legal
+If you encounter content on AO3 that you believe infringes on your copyright, you have the following options:
 
-The takedown notice must substantially comply with the provisions of 17 U.S.C. § 512(c)(3)(A). Submission of a takedown notice further requires that you consent to the jurisdiction of a United States court. Statutory requirements of a valid DMCA takedown notice include:
+* **[Submit an Abuse report](https://archiveofourown.org/abuse_reports/new):** Abuse reports are evaluated by the Policy & Abuse committee for violations of the [AO3 Terms of Service](https://archiveofourown.org/tos), and held to a very high [standard of confidentiality](https://archiveofourown.org/tos_faq#report_anonymity). When submitting an Abuse report about copyright infringement, you must provide a link to the violating content on AO3 and clearly identify the original source in your report description. For more information, please refer to the [Terms of Service FAQ](https://archiveofourown.org/tos_faq#report_infringement).
+* **[File a DMCA takedown notice](#takedown_instructions):** DMCA takedown notices can only be filed by the copyright owner or someone legally authorized to act on their behalf. DMCA notices must be sent to the OTW's designated agent and comply with all [legal requirements](#takedown_requirements). DMCA notices are not subject to confidentiality. The OTW reserves the right to make public all DMCA notices that we receive, though some information may be redacted for privacy.
+
+Please **do not** submit an Abuse report if you intend to file a DMCA notice. Submitting both an Abuse report and a DMCA notice about the same content may delay the processing of both requests.
+
+#### Filing a DMCA takedown notice
+
+To initiate a formal DMCA takedown request, contact the OTW's designated agent using [the Legal committee's contact form](https://www.transformativeworks.org/contact_us/?who=Legal%20Advocacy), via email to [\[email protected\]](https://archiveofourown.org/cdn-cgi/l/email-protection), or by mailing a letter to:
+
+> Organization for Transformative Works  
+> 228 Park Ave S #18156  
+> New York, NY 10003-1502  
+> Attention: Legal
+
+We prefer to receive DMCA requests through the contact form or by email.
+
+#### Requirements of a DMCA takedown notice
+
+The takedown notice must substantially comply with the requirements of 17 U.S.C. § 512(c)(3)(A). You are also required to consent to the jurisdiction of a United States court. The legal requirements of a valid DMCA takedown notice include:
 
 1. your physical or electronic signature;
 2. your contact information;
-3. identification of what work is being infringed;
-4. identification of the material that you believe to be infringing and a description that allows us to locate the material on our website;
-5. a statement that you have a good faith belief that the use is not authorized by the copyright owner, its agent, or the law; and
-6. a statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+3. identification of the copyrighted work being infringed upon (for example, a URL or publication listing);
+4. the URL(s) of the specific content on our site that you believe to be infringing;
+5. a statement that you have a good-faith belief that the use of the content is not authorized by the copyright owner(s), their agent, or the law;
+6. 1. a statement, **made under penalty of perjury**, that you are authorized to act on behalf of the copyright owner; and
+    2. a statement that the information you have provided is accurate.
 
-### Once you have initiated a DMCA takedown notice...
+Per 17 U.S.C. § 512(f), you may be subject to liability if you knowingly and materially misrepresent your claim that the content infringes on your copyright.
 
-If the OTW receives a valid and statutorily-compliant DMCA takedown notice, the OTW will remove the content upon satisfactory review of the merits of the infringement claim. Once the content is removed, we will send the report to Lumen and other third parties if appropriate. We will also take reasonable steps to notify the content uploader of the DMCA notice.
+#### DMCA takedown process
 
-The content uploader may respond with a DMCA counternotice. The counternotice operates much like the original notice, but works in the reverse. Please note that there is no statute of limitations for counternotices.
+If the OTW receives a DMCA takedown notice that fulfills all [legal requirements](#takedown_requirements), we will remove the content once we review the validity of the infringement claim.
 
-If the OTW receives a valid counternotice, we will seek to notify you of its receipt. You will have 10 business days to file suit and enjoin continued use of the content. If you decline to file suit, the OTW will restore the content pursuant to 17 U.S.C. § 512 (g)(2)(B)-(C). The OTW may also post the counternotice online.
+When the content is removed from AO3, the information you provided in the DMCA takedown notice will be forwarded to the owner of the account responsible for posting the content. We may also send a redacted version of the DMCA takedown notice to [Lumen](https://lumendatabase.org/) and other third parties at our discretion.
 
-### If you are an uploader of content...
+If the account owner believes that their content does not infringe upon your copyright, they may file a DMCA counternotice disputing the takedown. The account owner can file a DMCA counternotice at any point after the content has been removed; there is no time limit.
 
-If you are the uploader of content that has been subject to removal in response to a DMCA takedown notice, we will make reasonable efforts to notify you of the action. In an effort to be transparent, we will also post the DMCA takedown notice on Lumen and elsewhere if appropriate.
+If the OTW receives a valid DMCA counternotice, we will make reasonable efforts to notify you. You will have 10 business days to file a lawsuit to prevent the restoration of the content. If you do not notify us within 10 business days that you have filed a lawsuit, we will allow the content to be restored in accordance with 17 U.S.C. § 512(g)(2)(B)-(C).
 
-If a contribution of yours was the subject of a DMCA takedown and you believe that the contribution did not violate copyright laws, you may wish to file a counternotice. Please consider that filing a counternotice may lead to legal proceedings between you and the sender of the takedown notice to determine ownership and legality of the use of the material. You may wish to consult an attorney before filing a counternotice.
+### I was notified that my work was removed from AO3 due to a DMCA takedown notice. What can I do?
 
-Any counternotice that you file must meet statutory provisions under the DMCA and requires that you consent to the jurisdiction of a United States court. Requirements of a compliant DMCA counternotice under 17 U.S.C. § 512 (g)(3) include:
+[Copyright infringement](https://archiveofourown.org/content#II.D) and [plagiarism](https://archiveofourown.org/content#II.E) are violations of Sections II.D and II.E of our [Terms of Service](https://archiveofourown.org/tos), respectively. For more information, please refer to our [Terms of Service FAQ](https://archiveofourown.org/tos_faq#copyright_plagiarism_faq).
+
+If the OTW receives a valid DMCA takedown notice for content you uploaded to AO3, we will [remove the content and notify you by email](https://archiveofourown.org/tos_faq#complaint_notification). We may also send a redacted version of the DMCA takedown notice to [Lumen](https://lumendatabase.org/) and other third parties at our discretion.
+
+If your content was removed due to a DMCA takedown notice, **you _cannot_ reupload or repost the content unless you have filed a DMCA counternotice to dispute the takedown**. If you reupload or repost the content without filing a DMCA counternotice, we may [suspend your account](#repeat_offenses).
+
+#### Filing a DMCA counternotice
+
+If you believe that your content does not infringe on the copyright owner's rights, you can file a DMCA counternotice to dispute the takedown. By filing a counternotice, you are indicating that **you are willing to defend your use of the original copyrighted material in court** if the party who submitted the original takedown notice chooses to pursue legal action against you.
+
+If you are considering whether to file a DMCA counternotice, we recommend that you contact an intellectual property lawyer licensed to practice in your jurisdiction, so that you are aware of your legal rights and obligations. You can also review the [Lumen DMCA Explanation and FAQ](https://lumendatabase.org/topics/14).
+
+To initiate a formal DMCA counter-notification request, contact the OTW's designated agent using [the Legal committee's contact form](https://www.transformativeworks.org/contact_us/?who=Legal%20Advocacy), via email to [\[email protected\]](https://archiveofourown.org/cdn-cgi/l/email-protection), or by mailing a letter to:
+
+> Organization for Transformative Works  
+> 228 Park Ave S #18156  
+> New York, NY 10003-1502  
+> Attention: Legal
+
+We prefer to receive DMCA requests through the contact form or by email.
+
+You can file a DMCA counternotice at any point after your content has been removed; there is no time limit.
+
+#### Requirements of a DMCA counternotice
+
+The counternotice must substantially comply with the requirements of 17 U.S.C. § 512(g)(3). You are also required to consent to the jurisdiction of a United States court. The legal requirements of a valid DMCA counternotice include:
 
 1. your physical or electronic signature;
 2. your name, address, and phone number;
-3. identification of the material and its location before it was removed;
-4. a statement under penalty of perjury that the material was removed by mistake or misidentification;
-5. your consent to the jurisdiction of a federal court in the district where you live (if you are in the U.S.), or your consent to the jurisdiction of a federal court in the district where your service provider is located (if you are not in the U.S.); and
-6. your consent to accept service of process from the party who submitted the takedown notice.
+3. the URL(s) of the content that was removed;
+4. a statement, **made under penalty of perjury**, that the content was removed due to a mistake or misidentification;
+5. a statement that you consent to the jurisdiction of a U.S. federal court in either:
+    1. the district where you live, if you are in the U.S.; or
+    2. the district where the OTW is located ([Manhattan, New York](https://archiveofourown.org/tos#I.A.3)), if you are not in the U.S.; and
+6. a statement that you will accept service of process from the party who submitted the original takedown notice.
 
-### What can I expect if I file a DMCA counternotice?
+Per 17 U.S.C. § 512(f), you may be subject to liability if you knowingly and materially misrepresent your claim that the content was removed due to a mistake or misidentification.
 
-If the OTW receives a statutorily-compliant counternotice, we will make reasonable efforts to notify the original requestor of the takedown that a counternotice was received. The original requestor will have 10 business days from the date the OTW notifies the original requestor of the counternotice to prevent the restoration of the content by filing a lawsuit. If the original requestor has not filed suit, the OTW will restore your content between 10 and 14 business days after receipt of the counternotice. The OTW may also post the counternotice online, with identifying information redacted.
+#### DMCA counter-notification process
 
-### What happens to repeat copyright infringers?
+If the OTW receives a valid DMCA counternotice, we will make reasonable efforts to notify the party who submitted the original takedown notice.
 
-Pursuant to the DMCA, we will terminate, in appropriate circumstances, users and account holders of our system and network who are repeat infringers (see 17 U.S.C. § 512 (i)(1)(A)).
+The original submitter will have 10 business days to prevent the restoration of your content by filing a lawsuit against you. If the original submitter does not file a lawsuit within 10 business days, the OTW will restore your content (or, if your content has already been deleted, allow you to reupload it) between 10 and 14 business days after we receive the counternotice. We may also send a redacted version of the DMCA counternotice to [Lumen](https://lumendatabase.org/) and other third parties at our discretion.
 
-In the event that material is removed due to a DMCA notice, the only recourse for restoring such material is to file a counter-notice with the OTW. If you believe that a take-down notice which has been acted upon by the OTW is without legal basis, please feel free to visit the following sites as a first step in learning about filing a counter-notice:
+### Repeat offenses
 
-1. ["Responding to a DMCA Takedown Notice Targeting Your Content"](http://www.dmlp.org/legal-guide/responding-dmca-takedown-notice-targeting-your-content) at Digital Media Law Project
-2. [Lumen FAQ](https://www.lumendatabase.org/topics/14)
-3. [Lumen DMCA Notices FAQ](https://www.lumendatabase.org/topics/29#topic-faqs)
-4. [newmediarights.org](http://www.newmediarights.org/guide/legal/copyright/dmca/Sample_DMCA_CounterNotice_letter_when_claiming_fair_use_of_a_copyrighted_work)
-
-All notices should be sent to the OTW's designated agent.
+As required by 17 U.S.C. § 512(i)(1)(A), we may [suspend](https://archiveofourown.org/tos_faq#penalty) users who repeatedly violate others' copyright. The OTW has the discretion to decide what qualifies as a repeated offense.
 
 * * *
 
-Adapted from Wikipedia's DMCA policy.
+AO3's DMCA policy is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Material in this policy has been drawn from Dreamwidth, the Electronic Frontier Foundation, and Wikipedia.
 
 ### Footer
 
@@ -135,6 +181,6 @@ Adapted from Wikipedia's DMCA policy.
     * [Technical Support & Feedback](https://archiveofourown.org/support)
 * #### Development
     
-    * [otwarchive v0.9.381.4](https://github.com/otwcode/otwarchive/commits/v0.9.381.4)
+    * [otwarchive v0.9.382.6}](https://github.com/otwcode/otwarchive/commits/v0.9.382.6%7D)
     * [Known Issues](https://archiveofourown.org/known_issues)
     * [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "View License") by the [OTW](https://transformativeworks.org/ "Organization for Transformative Works")
