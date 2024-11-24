@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![PA Supreme Court Donors](/assets/logos/RaisedByPASCCan.png)](https://www.followthemoney.org/research/institute-research/high-court-contests-competition-controversy-and-cash-in-pennsylvania-and-wisconsin)
+[![disclosure map](/assets/logos/isrequirementsmap.png)](http://www.followthemoney.org/research/institute-research/best-practices-for-independent-spending-part-one)
 
-Who gives to Pennsylvania’s supreme court candidates?
+How does your state stack up for essential disclosure requirements?
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
