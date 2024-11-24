@@ -1,6 +1,6 @@
 top of page
 
-[![Waves of Impact_sitelogo.png](https://static.wixstatic.com/media/3b041c_8ae6abe5a3504b0092a6ece280e61aa0~mv2.png/v1/fill/w_170,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Waves%20of%20Impact_sitelogo.png)](https://www.wavesofimpact.com/)
+[![Waves of Impact_sitelogo.png](https://static.wixstatic.com/media/3b041c_8ae6abe5a3504b0092a6ece280e61aa0~mv2.png/v1/fill/w_170,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Waves%20of%20Impact_sitelogo.png)](https://www.wavesofimpact.com/)
 
 * About
     
