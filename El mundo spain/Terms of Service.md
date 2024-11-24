@@ -1,8 +1,8 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z0KD@goAAVAAAABb4QA)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z0LYOwoAAVAAAABbbl4)
 
 Es noticia
 
-* [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/11/23/674174f3a75cca8941af7404-directo.html)
+* [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/11/24/6742cc78a75cca8941baf994-directo.html)
 * [Putin](https://www.elmundo.es/internacional/2024/11/22/6740d278e85ece425b8b4592.html)
 * [Broncano Pablo Motos](https://www.elmundo.es/television/2024/11/22/67405051fdddffa42b8b45a1.html)
 * [Aldama](https://www.elmundo.es/espana/2024/11/23/6740d8afe85ecec8128b4583.html)
