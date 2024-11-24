@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![3 injured in South Dallas crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112424-sh-dpd-major-crash-s-ewing-ave_kdfw5aa3_186_00.00.53.12.jpg?ve=1&tl=1)
+
+ ![3 injured in South Dallas crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112424-sh-dpd-major-crash-s-ewing-ave_kdfw5aa3_186_00.00.53.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/3-injured-south-dallas-crash)
+
+### [3 injured in South Dallas crash](https://www.fox4news.com/news/3-injured-south-dallas-crash)
+
+ [![Colorado's Shedeur Sanders pushes official in loss that could keep Buffaloes out of College Football Playoff](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2186521361-a.jpg?ve=1&tl=1)
+
+ ![Colorado's Shedeur Sanders pushes official in loss that could keep Buffaloes out of College Football Playoff](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186521361-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/colorados-shedeur-sanders-pushes-official-loss-could-keep-buffaloes-out-college-football-playoff)
+
+### [Colorado's Shedeur Sanders pushes official in loss that could keep Buffaloes out of College Football Playoff](https://www.fox4news.com/sports/colorados-shedeur-sanders-pushes-official-loss-could-keep-buffaloes-out-college-football-playoff)
+
+ [![Game show host Chuck Woolery of 'Wheel of Fortune,' 'Love Connection,' dies at 83](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2265526.jpg?ve=1&tl=1)
+
+ ![Game show host Chuck Woolery of 'Wheel of Fortune,' 'Love Connection,' dies at 83](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2265526.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/game-show-host-chuck-woolery-wheel-fortune-love-connection-dies-83)
+
+### [Game show host Chuck Woolery of 'Wheel of Fortune,' 'Love Connection,' dies at 83](https://www.fox4news.com/news/game-show-host-chuck-woolery-wheel-fortune-love-connection-dies-83)
+
  [![Helm’s 2 TD catches power No. 3 Texas over Kentucky 31-14 to keep Longhorns atop SEC](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2186546127.jpg?ve=1&tl=1)
 
  ![Helm’s 2 TD catches power No. 3 Texas over Kentucky 31-14 to keep Longhorns atop SEC](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186546127.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/helms-2-td-catches-power-no-3-texas-over-kentucky-31-14-keep-longhorns-atop-sec)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Jennings has 3 TDs as No. 13 SMU routs Virginia 33-7 to clinch a spot in the ACC title game](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185588519.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/smu-routs-virginia-clinch-spot-acc-title-game)
 
 ### [Jennings has 3 TDs as No. 13 SMU routs Virginia 33-7 to clinch a spot in the ACC title game](https://www.fox4news.com/sports/smu-routs-virginia-clinch-spot-acc-title-game)
-
- [![Here's who Trump has picked for his administration](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2185178383-scaled.jpg?ve=1&tl=1)
-
- ![Here's who Trump has picked for his administration](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185178383-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-cabinet-white-house-appointments-november-2024)
-
-### [Here's who Trump has picked for his administration](https://www.fox4news.com/news/trump-cabinet-white-house-appointments-november-2024)
-
- [![Dallas police arrest 2nd suspect in April Oak Cliff shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/denutebell.jpg?ve=1&tl=1)
-
- ![Dallas police arrest 2nd suspect in April Oak Cliff shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/denutebell.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-arrest-suspect-april-oak-cliff-shooting)
-
-### [Dallas police arrest 2nd suspect in April Oak Cliff shooting](https://www.fox4news.com/news/dallas-arrest-suspect-april-oak-cliff-shooting)
-
- [![Arrest made in connection to Highland Park High School threat](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/highland-park.jpg?ve=1&tl=1)
-
- ![Arrest made in connection to Highland Park High School threat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/592/333/highland-park.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arrest-made-connection-highland-park-high-school-threat)
-
-### [Arrest made in connection to Highland Park High School threat](https://www.fox4news.com/news/arrest-made-connection-highland-park-high-school-threat)
 
 ###### [News](https://www.fox4news.com/news)
 
