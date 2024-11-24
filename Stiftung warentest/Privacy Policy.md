@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Kopf­hörer Shokz OpenSwim Pro im Test: Musik hören beim Schwimmen](https://www.test.de/Kopfhoerer-Shokz-OpenSwim-Pro-im-Test-Musik-hoeren-beim-Schwimmen-6165705-0/ "Kopfhörer Shokz OpenSwim Pro im Test - Musik hören beim Schwimmen")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Kopf­hörer Shokz OpenSwim Pro im Test: Musik hören beim Schwimmen](https://www.test.de/Kopfhoerer-Shokz-OpenSwim-Pro-im-Test-Musik-hoeren-beim-Schwimmen-6165705-0/ "Kopfhörer Shokz OpenSwim Pro im Test - Musik hören beim Schwimmen")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Kopf­hörer Shokz OpenSwim Pro im Test: Musik hören beim Schwimmen](https://www.test.de/Kopfhoerer-Shokz-OpenSwim-Pro-im-Test-Musik-hoeren-beim-Schwimmen-6165705-0/ "Kopfhörer Shokz OpenSwim Pro im Test - Musik hören beim Schwimmen")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Neues Post­gesetz: Briefe länger unterwegs – mehr Zeit für Einspruch](https://www.test.de/Postreform-Neues-Postgesetz-Briefe-laenger-unterwegs-6127885-0/ "Neues Postgesetz - Briefe länger unterwegs – mehr Zeit für Einspruch")
-* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
-* [Lebens­versicherungen: Warten auf den Zins­anstieg](https://www.test.de/Lebensversicherungen-Warten-auf-den-Zinsanstieg-5942381-0/ "Lebensversicherungen - Warten auf den Zinsanstieg")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Buy now, pay later: Ratenkauf mit Risiko](https://www.test.de/Ratenkauf-Risiko-Buy-now-pay-later-5979579-0/ "Buy now, pay later - Ratenkauf mit Risiko")
-* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Krebs­versicherung der Hanse Merkur: Kranken­zusatz mit Haken](https://www.test.de/Krebsversicherung-der-Hanse-Merkur-Krankenzusatz-mit-Haken-6018375-0/ "Krebsversicherung der Hanse Merkur - Krankenzusatz mit Haken")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
+* [Kopf­hörer Shokz OpenSwim Pro im Test: Musik hören beim Schwimmen](https://www.test.de/Kopfhoerer-Shokz-OpenSwim-Pro-im-Test-Musik-hoeren-beim-Schwimmen-6165705-0/ "Kopfhörer Shokz OpenSwim Pro im Test - Musik hören beim Schwimmen")
+* [Wanderreisen im Test: Wandern leicht gemacht](https://www.test.de/Wanderreisen-im-Test-Wandern-leicht-gemacht-6052961-0/ "Wanderreisen im Test - Wandern leicht gemacht")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
 
 Service Stiftung Warentest
 
