@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/toeval-grappig-dat-je-dat-precies-nu-leest/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/de-akasha-ervaring/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
