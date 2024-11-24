@@ -86,11 +86,11 @@ We may make changes to this document with no less than 2 weeks notice. Notice of
 
 ### About this wiki
 
-commit [a4f0a78a7586b3bd39fd1e48c3d0a8bdcd808c94](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/a4f0a78a7586b3bd39fd1e48c3d0a8bdcd808c94)
+commit [42908ef074137468536bb04d7efafe888f3567d2](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/42908ef074137468536bb04d7efafe888f3567d2)
 Author: Drew DeVault <sir@cmpwn.com>
-Date:   2024-11-12T09:28:49+01:00
+Date:   2024-11-24T10:38:53+01:00
 
-builds.sr.ht/private-repos: remove obsolete warning
+builds.sr.ht: update details on secret leaks
 
 **Clone this wiki**
 
