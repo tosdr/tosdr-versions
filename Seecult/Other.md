@@ -340,11 +340,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/biografija/intervju/vlasta-i-mima-1982-beogra.jpg?itok=zdmjj7yd)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/biografija-intervju)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nes-paripovic/bez-naziva-detalj-1975c.jpg?itok=ktd0DrM-)](http://seecult.org/galerija/galerija-umetnika/nesa-paripovic)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/akcije-drustvo/za-kulturu-stop-unistavanju-kulture/beograd-004.jpg?itok=j9m8RO5H)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/akcije-dru%C5%A1tvo/za-kulturu-stop)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/laurie-anderson-skoplje/lori3.jpg?itok=PmsxNnpb)](http://seecult.org/galerija/foto-galerija/foto-arhiva/laurie-anderson-skoplje)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
