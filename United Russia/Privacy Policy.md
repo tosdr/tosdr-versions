@@ -311,7 +311,7 @@
 
 [«Единая Россия» открыла для посетителей выставки «Сила V правде – гордость и победа» в Ульяновске экспозицию поисковых отрядов](https://er.ru/activity/news/edinaya-rossiya-otkryla-dlya-posetitelej-vystavki-sila-v-pravde-gordost-i-pobeda-v-ulyanovske-ekspoziciyu-poiskovyh-otryadov)
 
-[#Ульяновская область](https://er.ru/activity/news?tags%5B0%5D=2044) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#экспозиция](https://er.ru/activity/news?tags%5B0%5D=3390) [#Лобунец](https://er.ru/activity/news?tags%5B0%5D=1094786)
+[#Ульяновская область](https://er.ru/activity/news?tags%5B0%5D=2044) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#экспозиция](https://er.ru/activity/news?tags%5B0%5D=3390) [#Лобунец](https://er.ru/activity/news?tags%5B0%5D=1094786) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 23.11.24
 
@@ -319,7 +319,7 @@
 
 [Владимир Якушев – о проекте «Героям нашего времени»: Этот лозунг войдёт в учебники истории, поможет сохранить и увековечить немало имен](https://er.ru/activity/news/vladimir-yakushev-o-proekte-geroyam-nashego-vremeni-etot-lozung-vojdyot-v-uchebniki-istorii-pomozhet-sohranit-i-uvekovechit-nemalo-imen)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#благотворительныйконцерт](https://er.ru/activity/news?tags%5B0%5D=113222) [#героямнашеговремени](https://er.ru/activity/news?tags%5B0%5D=1095941)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#благотворительныйконцерт](https://er.ru/activity/news?tags%5B0%5D=113222) [#героямнашеговремени](https://er.ru/activity/news?tags%5B0%5D=1095941) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 23.11.24
 
@@ -335,7 +335,7 @@
 
 [Губернатор Роман Бусаргин стал секретарём Саратовского отделения «Единой России»](https://er.ru/activity/news/gubernator-roman-busargin-stal-sekretaryom-saratovskogo-otdeleniya-edinoj-rossii)
 
-[#Бусаргин](https://er.ru/activity/news?tags%5B0%5D=105265) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#региональнаяконференцияер](https://er.ru/activity/news?tags%5B0%5D=127428)
+[#Бусаргин](https://er.ru/activity/news?tags%5B0%5D=105265) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#региональнаяконференцияер](https://er.ru/activity/news?tags%5B0%5D=127428) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314)
 
 23.11.24
 
