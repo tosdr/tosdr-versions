@@ -31,17 +31,529 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Racing y Cruzeiro definen al campeón de la Copa Sudamericana 2024
+‘La Sustancia’ inyectó a Margaret Qualley en los ojos del público
 =================================================================
 
-Una final con miles de hinchas y estadio lleno juegan Racing Club y Cruzeiro por el título de la Copa Sudamericana 2024
------------------------------------------------------------------------------------------------------------------------
+Margaret Qualley tiene la atención del público. La obtuvo este 2024 gracias a su actuación en ‘La Sustancia‘, una película que está en boca de todos. En la cinta, su personaje es la versión ‘modificada’ de una mujer famosa que se queda sin trabajo por su edad. Es la Demi Moore joven del filme, para \[…\]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Los hinchas de Racing llegaron por miles para la final de la Copa Sudamericana ante Cruzeiro.](https://www.elcomercio.com/wp-content/uploads/2024/11/racing.jpg)
+![La actriz Margaret Qualley encarnó a Sue en la cinta 'La Sustancia'.](https://www.elcomercio.com/wp-content/uploads/2024/11/la-sustancia-margaret-El-Comercio.jpg)
 
-Este sábado 23 de noviembre del 2024, el fútbol sudamericano vivirá una de las finales más esperadas: **Racing Club** de Argentina y **Cruzeiro** de Brasil se enfrentan por la **Copa Sudamericana 2024.**
+**Margaret Qualley** tiene la atención del público. La obtuvo este 2024 gracias a su actuación en ‘**La Sustancia**‘, una película que está en boca de todos.
 
-El encuentro, que se jugará en el estadio General Pablo Rojas, conocido como La Nueva Olla en Asunción, promete ser una fiesta deportiva con una gran presencia de hinchas, con mayoría de argentinos, que llegaron para apoyar a sus equipos en busca del primer título sudamericano desde 1988.
+En la cinta, su personaje es la versión ‘modificada’ de una mujer famosa que se queda sin trabajo por su edad. Es la **[Demi Moore](https://www.instagram.com/demimoore/?hl=es "https://www.instagram.com/demimoore/?hl=es")** joven del filme, para decirlo más rápido.
+
+### Más noticias
+
+* **[Justin Bieber preocupa por su aislamiento](https://www.elcomercio.com/afull/justin-bieber-caso-diddy.html "https://www.elcomercio.com/afull/justin-bieber-caso-diddy.html")**
+* **[¿Quién es Brandon Lee? El actor revelación que arrasa en ‘Cobra Kai’](https://www.elcomercio.com/afull/brandon-lee-cobra-kai-streaming.html "https://www.elcomercio.com/afull/brandon-lee-cobra-kai-streaming.html")** 
+
+Aunque su cara parezca nueva, **Qualley** es una actriz con experiencia. Ha tenido ya distintos papeles en la industria. ¿Cuáles?
+
+**Películas y series de Margaret Qualley**
+------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/la-sustancia-margaret-El-Comercio-3-1024x683.jpg)
+
+Fue una integrante del temido **clan de Charles Manson** en la **película ‘[Érase una vez en Hollywood’](https://www.imdb.com/title/tt7131622/ "https://www.imdb.com/title/tt7131622/")**. Eso significa que trabajó con el mismísimo **Quentin Tarantino**.
+
+También ha sido una madre soltera que subsiste como empleada en **‘[Las cosas por limpiar](https://www.netflix.com/ec/title/81166770 "https://www.netflix.com/ec/title/81166770")‘, una exitosa serie de Netflix**.
+
+**¿Quién es Margaret Qualley?**
+-------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo33-1024x683.jpg)
+
+Es hija de famosos. Su mamá es la **actriz Andie MacDowell** y su papá el **modelo Paul Qualley**. Hasta su hermana Rainey está en la industria.
+
+![Andie MacDowell es la mamá de Margaret Qualley.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo32-1024x683.jpg)
+
+Andie MacDowell es la mamá de Margaret Qualley.
+
+Por eso, hay quienes ubican a **Qualley** en la lista de los **nepo babies**, los hijos de famosos que logran conexiones y empleo por sus papás y no por sí mismos. Esos lazos familiares son arma de doble filo.
+
+Pueden ser un trampolín, en unos casos, y un peso cuando llegan las comparaciones. Además, el apellido puede facilitar la entrada, pero, para quedarse, hay que conquistar al público y el público no conoce de linajes.
+
+Que su cara de adolescente no te engañe, es una mujer de 30 años, casada desde 2023 y con un patrimonio de 3 millones de dólares, según el sitio [Nichess.com](https://nichesss.com/net-worth/margaret-qualley-net-worth-nBvVmEhB3). Su esposo es **Jack Antonoff**, un cantante, compositor y productor estadounidense 10 años mayor que ella.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/la-sustancia-margaret-El-Comercio-2-1024x683.jpg)
+
+Tras su éxito en ‘La sustancia’, protgonizará la película ‘**Victorian Psycho**‘, un **_thriller_ psicológico** dirigido por Zachary Wigon.
+
+La película, ambientada en 1858, sigue a Winifred Notty, una excéntrica institutriz que se enfrenta a misteriosas desapariciones en una sombría mansión conocida como Ensor House.
+
+Cortes de luz en Guayaquil este domingo 24 de noviembre
+=======================================================
+
+CNEL definió la programación de cortes de luz en Guayaquil para este domingo 24 de noviembre.
+---------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil este domingo 24 de noviembre son programados por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-domingo-24-noviembre.jpg)
+
+Los **cortes de luz** programados en **Guayaquil** para este **domingo 24 de noviembre** se mantienen con hasta ocho horas de duración.
+
+**CNEL** difundió los horarios de suspensión del servicio de energía en la urbe porteña.
+
+### Más noticias:
+
+* [Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito](https://www.elcomercio.com/actualidad/quito/gobierno-de-daniel-noboa-hizo-un-anuncio-sobre-los-cortes-de-luz-y-la-fundacion-de-quito.html "Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito")
+* [Cerca de cien barrios de Quito afectados por cortes de agua este domingo 24 de noviembre](https://www.elcomercio.com/actualidad/quito/barrios-quito-afectados-agua-domingo-24-noviembre.html "Cerca de cien barrios de Quito afectados por cortes de agua este domingo 24 de noviembre")
+
+Horarios de los cortes de luz en Guayaquil este domingo 24 de noviembre
+-----------------------------------------------------------------------
+
+El Gobierno de Daniel Noboa mantiene los cortes de luz programados para Guayaquil y el resto del país desde el 23 de **septiembre** pasado.
+
+La sequía, una de las más largas de las últimas décadas, y la dependencia de las lluvias para la generación eléctrica provocaron la actual **crisis energética**.
+
+Esta semana cierra con cortes de luz programados de hasta **ocho horas** en todo el país para el sector residencial.
+
+Esto, mientras se reactivó el intercambio de energía entre **Ecuador y Colombia**.
+
+Y el Gobierno de Daniel Noboa anuncia el inicio de **pruebas y transporte de equipos** para otras centrales generadoras de energía.
+
+Aunque la mejora de los niveles de los embalses es relativa, el Presidente aseguró que para **diciembre** ya no existirán cortes de luz y se podrá retomar las actividades con normalidad.
+
+El último anuncio del Gobierno sobre los cortes de luz es que, para el 6 de diciembre, fecha de la **fundación de Quito**, no habrá cortes de luz en la capital.
+
+La medida se toma para reactivar el **turismo y la economía** de esta ciudad, señaló la Presidencia.
+
+Desde la semana del 25 de noviembre, el Gobierno anunció una reducción de las horas de suspensión del servicio de energía eléctrica a **entre seis y siete horas** a escala nacional.
+
+A continuación, los **cortes de luz en Guayaquil para este domingo 24 de noviembre de 2024**:
+
+Libertad, Imbabura y Cumbayá aún luchan por evitar el descenso
+==============================================================
+
+Imbabura, Libertad y Cumbayá igualaron en sus respectivos partidos. El Cuenca también igualó y salvó la categoría.
+------------------------------------------------------------------------------------------------------------------
+
+![Jugadores del Deportivo Cuenca que recibió a Libertad en un cotejo clave por no descender.](https://www.elcomercio.com/wp-content/uploads/2024/11/cuenca-4.jpg)
+
+La penúltima fecha de la segunda etapa de la **Liga Pro 2024** se vivió con una alta dosis de tensión. Los equipos más comprometidos con el descenso, Imbabura, Libertad y Cumbayá, se jugaron una de sus últimas oportunidades para mantenerse en la Serie A.
+
+Este sábado 23 de noviembre del 2024, cuatro partidos se jugaron a la misma hora, desde las 15:30, con un solo objetivo: evitar caer a la Serie B. El Deportivo Cuenca aseguró la permanencia.
+
+### Más noticias:
+
+* [Piero Hincapié se redime con victoria en el Bayer Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-victoria-bayer-leverkusen-heidenheim.html "Piero Hincapié se redime con victoria en el Bayer Leverkusen")
+* [Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester](https://www.elcomercio.com/deportes/futbol/moises-caicedo-clave-triunfo-chelsea-leicester.html "Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester")
+* [Racing y Cruzeiro definen al campeón de la Copa Sudamericana 2024](https://www.elcomercio.com/deportes/futbol/racing-cruzeiro-copa-sudamericana-campeon-2024.html "Racing y Cruzeiro definen al campeón de la Copa Sudamericana 2024")
+
+Los resultados:
+
+* Deportivo Cuenca 1-1 Libertad
+* Cumbayá 1-1 Orense
+* Emelec 2-2 Imbabura
+* Técnico Universitario 2-2 Barcelona SC
+
+Con esos resultados, Libertad, Imbabura y Cumbayá llegaron a los 24 puntos. Solo queda una fecha y esa se definirá a los clubes que pierdan la categoría.
+
+El descenso
+-----------
+
+En la parte baja de la tabla, la lucha por la permanencia se estrecha, y solo una fecha más determinará qué equipos seguirán en la máxima categoría del **fútbol ecuatoriano.**
+
+Actualmente, **Libertad de Loja** ocupa la posición más segura, con 24 puntos, gracias a un mejor gol diferencia respecto a sus rivales directos, **Imbabura** y **Cumbayá,** que tienen el mismo puntaje
+
+Sin embargo, la diferencia con los dos últimos lugares, Imbabura y Cumbayá, es mínima. Ambos equipos tienen un gol diferencia negativo aún mayor, con -25 y -26, respectivamente, lo que los coloca en una situación muy complicada.
+
+Este sábado, Libertad se enfrenó al **Deportivo Cuenca,** que sumó 29 puntos y también buscaba asegurar su puesto en la Serie A.
+
+Mientras tanto, Imbabura visitó a Emelec en Guayaquil.
+
+Cumbayá, por su parte, jugó contra Orense, un club que luchaba por el título de la etapa.
+
+Las última fecha de la Liga Pro se presenta como una verdadera prueba de fuego para estos tres equipos, que no tienen margen de error.
+
+Sin enfrentarse entre sí, los rivales más cercanos también son complicados. En esta recta final, un tropiezo podría significar la condena al descenso.
+
+En la siguiente fecha, Libertad recibirá al Emelec, mientras Imbabura será local ante Aucas.
+
+En tanto, Cumbayá visitará al Delfín.
+
+El apoyo a la Selección de Ecuador más allá de los resultados
+=============================================================
+
+A través del deporte podemos recordar la importancia de la unión, el respeto y la tolerancia. Hay temas para reflexionar desde la Selección de Ecuador.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Hernán Galíndez y el DT Sebastián Beccacece se abrazan tras el triunfo de Ecuador en Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/GalindezBeccacece.jpg)
+
+La **Selección de Ecuador** atraviesa un momento de gloria, con la victoria ante **Colombia** en Barranquilla aún fresca en la memoria colectiva de los hinchas del fútbol.
+
+Un golazo de Enner Valencia, acompañado por una impresionante actuación del arquero Hernán Galíndez y una correcta estrategia del DT Sebastián Beccacece, ha renovado la esperanza y el optimismo para los aficionados.
+
+En este contexto, la Tricolor se sitúa en la tercera posición de la clasificatoria mundialista rumbo a la Copa del Mundo 2026, un logro que merece ser celebrado.
+
+> Sin embargo, este renacer del equipo ecuatoriano debe invitarnos a reflexionar sobre el apoyo que brindamos a nuestros futbolistas, un apoyo que debe ser incondicional, independientemente de los resultados.
+
+Hace apenas unos meses, en la **Copa América 2024**, el goleador **Enner Valencia** fue severamente criticado por fallar un penal ante Argentina a inicios de julio.
+
+Aquel fallo fue **duramente juzgado** por una parte de la afición, que mostró su frustración con el jugador en las redes sociales.
+
+Pero, como en la vida misma, en el fútbol el error forma parte del proceso. Caer es parte de crecer, y el resurgir de la Selección es un claro ejemplo de esa resiliencia.
+
+En lugar de cuestionar, lo que debería primar es el respaldo, el mismo que ahora celebramos con alegría tras una victoria que nos posiciona como contendientes en las eliminatorias.
+
+La llegada de **Sebastián Beccacece**, quien asumió como técnico en agosto, también fue recibida con **escepticismo**, pero su desempeño ha acallado a muchos de sus detractores.
+
+Con un saldo de tres victorias, dos empates y una derrota en seis partidos, el equipo ha demostrado consistencia y trabajo en conjunto. Ecuador ha marcado seis goles, ha recibido uno y tiene un 61% de efectividad en puntos. Estos números son prometedores, y revelan un progreso que debe ser valorado.
+
+Lo que debe llamar a la **reflexión** es la capacidad de muchos **ecuatorianos** para ser tan cambiantes en nuestras evaluaciones. Aplaudimos a nuestros futbolistas cuando ganan, pero a menudo olvidamos el principio básico de apoyo incondicional cuando las cosas no salen como esperamos.
+
+En los momentos difíciles, como en la derrota ante Argentina en la **Copa América,** es cuando más necesitamos estar junto a nuestros jugadores, sin caer en el juicio apresurado.
+
+En tiempos de dificultades económicas y sociales, donde la inseguridad y los **problemas energéticos** afectan al país, el fútbol se presenta como una vía de escape, una chispa de esperanza.
+
+El deporte une y nos recuerda que, más allá de las diferencias, somos un solo país. La Tricolor es ese sentimiento que nos trasciende, que nos une y nos hace soñar con un futuro mejor.
+
+El **fútbol** es un reflejo de nuestra sociedad, un espacio donde se cruzan nuestras pasiones, frustraciones y **esperanzas**. Y es a través de este deporte que podemos recordar la importancia de la unión, el respeto y la tolerancia. Así como en el campo de juego apoyamos a nuestra Selección en las buenas y en las malas, también debemos aplicar esos principios en nuestra vida cotidiana. Solo desde la unidad podremos superar los retos que enfrenta el Ecuador de hoy.
+
+Cortes de luz en Quito este domingo 24 de noviembre
+===================================================
+
+La Empresa Eléctrica Quito definió la programación de cortes de luz para la capital este domingo 24 de noviembre.
+-----------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito para este domingo 24 de noviembre son de hasta ocho horas.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-domingo-24-noviembre.jpg)
+
+Los **cortes de luz** programados en **Quito** para este **domingo 24 de noviembre** se mantienen con hasta ocho horas de duración.
+
+La **Empresa Eléctrica Quito (EEQ)** difundió los horarios de suspensión del servicio de energía en la capital.
+
+### Más noticias:
+
+* [Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito](https://www.elcomercio.com/actualidad/quito/gobierno-de-daniel-noboa-hizo-un-anuncio-sobre-los-cortes-de-luz-y-la-fundacion-de-quito.html "Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito")
+* [Cerca de cien barrios de Quito afectados por cortes de agua este domingo 24 de noviembre](https://www.elcomercio.com/actualidad/quito/barrios-quito-afectados-agua-domingo-24-noviembre.html "Cerca de cien barrios de Quito afectados por cortes de agua este domingo 24 de noviembre")
+
+Horarios de los cortes de luz en Quito este domingo 24 de noviembre
+-------------------------------------------------------------------
+
+El Gobierno de Daniel Noboa mantiene los cortes de luz programados para Quito y el resto del país desde el 23 de **septiembre** pasado.
+
+La sequía, una de las más largas de las últimas décadas, y la dependencia de las lluvias para la generación eléctrica provocaron la actual **crisis energética**.
+
+Esta semana cierra con cortes de luz programados de hasta **ocho horas** en todo el país para el sector residencial.
+
+Esto, mientras se reactivó el intercambio de energía entre **Ecuador y Colombia**.
+
+Y el Gobierno de Daniel Noboa anuncia el inicio de **pruebas y transporte de equipos** para otras centrales generadoras de energía.
+
+Aunque la mejora de los niveles de los embalses es relativa, el Presidente aseguró que para **diciembre** ya no existirán cortes de luz y se podrá retomar las actividades con normalidad.
+
+El último anuncio del Gobierno sobre los cortes de luz es que, para el 6 de diciembre, fecha de la **fundación de Quito**, no habrá cortes de luz en la capital.
+
+La medida se toma para reactivar el **turismo y la economía** de esta ciudad, señaló la Presidencia.
+
+Desde la semana del 25 de noviembre, el Gobierno anunció una reducción de las horas de suspensión del servicio de energía eléctrica a **entre seis y siete horas** a escala nacional.
+
+A continuación, los **cortes de luz en Quito para este domingo 24 de noviembre de 2024**:
+
+Equipos para nueva central térmica llegan en diciembre ¿Cuándo iniciará operaciones?
+====================================================================================
+
+Los equipos para la nueva central térmica se instalarán en Esmeraldas.
+----------------------------------------------------------------------
+
+![Los equipos de la nueva central térmica llegan a partir de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/equipo-nueva-central-termica.jpg)
+
+El **Ministerio de Energía** anunció la llegada de equipos para una **nueva central térmica** en **diciembre**, este sábado 23 de noviembre de 2024.
+
+La nueva central, que estará ubicada en **Esmeraldas**, es parte del plan de Gobierno para el cambio de la **matriz energética** en el Ecuador.
+
+### Más noticias:
+
+* [Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón](https://www.elcomercio.com/actualidad/negocios/inician-pruebas-mecanicas-en-la-central-alluriquin-parte-del-complejo-hidroelectrico-toachi-pilaton.html "Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón")
+* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
+
+Los equipos para la nueva central térmica
+-----------------------------------------
+
+El Ministerio de Energía informó que inició la movilización de las **unidades de generación** para la nueva central térmica que se instalará en Esmeraldas.
+
+La potencia de esta central será de **91 megavatios**.
+
+Desde el 5 de noviembre, salieron del puerto de **Beirut, Líbano**, cuatro embarques comerciales que transportan partes que constituyen las unidades de generación.
+
+Estas unidades están compuestas por el **motor, generador y radiador**, sistemas auxiliares para su operación.
+
+En los próximos embarques se completará todo el equipamiento, que incluye los equipos para el control y operación, así como para el **almacenamiento de combustible.**
+
+Los barcos llegarán al puerto de Guayaquil a partir del 27 de diciembre y serán trasladados hasta el sitio del **montaje** en Esmeraldas.
+
+Mientras esto sucede, también se trabaja en las **obras civiles** necesarias para su implementación.
+
+El Gobierno explicó que esta nueva central estará compuesta por **48 unidades de generación**, de 1.89 MW cada una.
+
+La inversión es de **89.93 millones de dólares**.
+
+Se espera que **inicie su operación**, de **forma progresiva**, a partir de **enero de 2025**, y de esa forma se contribuirá a enfrentar la emergencia energética.
+
+La empresa verificadora especializada realizó, el 5 de octubre, la **inspección de los equipos** y su embarque con destino a Ecuador.
+
+El 5 de noviembre, **CELEC EP** inició con el **pago de los valores**, conforme establece el contrato.
+
+Hasta el momento, se ha cancelado **58.45 millones de dólares,** que corresponde al inicio de la movilización del equipamiento.
+
+Seis películas que amarás si te gusta la moda
+=============================================
+
+Estas cintas icónicas combinan estilo, drama y comedia para inspirar a cualquier fashionista.
+---------------------------------------------------------------------------------------------
+
+![El vestuario es un elemento memorable en estas cintas.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo31.jpg)
+
+Si la moda es tu pasión, estas seis películas son una parada deseada. Cada una aborda el estilo desde diferentes perspectivas: comedia, drama y hasta misterio. ¿A cuáles te apuntas?
+
+### Más noticias
+
+* **[El estilo workwear transitó de la fábrica a la pasarela](https://www.elcomercio.com/afull/estilo-workwear-moda-outfits-ropa.html "https://www.elcomercio.com/afull/estilo-workwear-moda-outfits-ropa.html")**
+* **[Ropa que te abrigará más que tu ex cuando hace frío en Quito](https://www.elcomercio.com/tendencias/ropa-invierno-frio-clima-quito-moda-tendencias.html "https://www.elcomercio.com/tendencias/ropa-invierno-frio-clima-quito-moda-tendencias.html")** 
+
+**El diablo viste a la moda**
+-----------------------------
+
+Un clásico indiscutible del cine de moda. La historia de Andy Sachs (Anne Hathaway), una periodista que trabaja para Miranda Priestly (Meryl Streep), una editora feroz de una revista de moda, nos introduce al glamour y las exigencias del mundo editorial.
+
+Esta cinta es un desfile de marcas como Valentino, Chanel y Prada. Andy pasa de los básicos de la marca Gap a conjuntos icónicos gracias al estilismo de la experta en moda de las celebridades Patricia Field. Entre los _looks_ memorables están los abrigos de Marc Jacobs y las botas de Chanel. La escena del “suéter cerúleo” resalta cómo la moda influye en el día a día, incluso sin darnos cuenta. ​
+
+Mientras que el estilo de Emily, personaje interpretado por Emily Blunt, destacaba por sus atuendos cuidadosamente seleccionados, con un toque de dramatismo, como el icónico mini chaleco con hombreras que lució en combinación con una falda lápiz en una de las escenas más memorables de la película. Está en [Disney+](https://www.disneyplus.com/es-ec/movies/el-diablo-viste-a-la-moda/kaiaozWbNugM "https://www.disneyplus.com/es-ec/movies/el-diablo-viste-a-la-moda/kaiaozWbNugM").[](https://www.teenvogue.com/gallery/the-devil-wears-prada-fashion-outfits)
+
+**Ni idea**
+-----------
+
+Ver cómo la protagonista escoge su vestuario diario con un programa de computadora que combina prendas deslumbró a los espectadores fashionistas de la cinta. Este homenaje a los años noventa sigue a Cher Horowitz (Alicia Silverstone), una adolescente rica de Beverly Hills que nos regaló uno de los vestuarios más icónicos de la época, especialmente su traje amarillo de tartán que recibió un homenaje en el video de la cantante [Iggy Azalea – Fancy ft. Charli XCX](https://www.youtube.com/watch?v=O-zpOMYRi0w). La película incluye referencias a marcas como Calvin Klein y Alaïa. Los _blazers_ y faldas plisadas de Cher redefinieron el estilo _preppy_. Está en [Netflix](https://www.netflix.com/ec/title/384406 "https://www.netflix.com/ec/title/384406").
+
+**Loca por las compras**
+------------------------
+
+Rebecca Bloomwood, una joven periodista obsesionada con las compras, se encuentra atrapada entre su amor por la moda y una montaña de deudas. Interpretada por Isla Fisher, la película muestra un despliegue de **marcas de lujo** como **Gucci, Prada y Dior**, que representan la obsesión de la protagonista por el glamour.
+
+El vestuario destaca piezas icónicas como abrigos llamativos y accesorios extravagantes que reflejan su personalidad vibrante y caótica. La diseñadora **Patricia Field**, quien también trabajó en ‘**[El diablo viste a la moda](https://www.elcomercio.com/afull/el-diablo-viste-a-la-moda-2-tiene-excelentes-noticias-para-sus-fans.html "https://www.elcomercio.com/afull/el-diablo-viste-a-la-moda-2-tiene-excelentes-noticias-para-sus-fans.html")**‘, estuvo detrás de las miradas. Una escena inolvidable es cuando Rebecca combina un abrigo verde brillante con un bolso de diseñador, mostrando su habilidad.
+
+Esta película no solo celebra la moda, sino que también explora cómo las compras impulsivas y el consumo de lujo pueden convertirse en un refugio emocional.
+
+**En sus zapatos**
+------------------
+
+Aunque no tiene nada que ver con un tema de moda, sino más bien con relaciones familiares, una de las protagonistas posee una impresionante colección de zapatos de marcas como Manolo Blahnik y Jimmy Choo que resulta imposible de ignorar si te gusta la moda.
+
+Este detalle, que es simbólico dentro de la cinta, es aprovechado para darle nombre a la película, protagonizada por **Cameron Diaz** como Maggie y **Toni Collette** como Rose. En la cinta, Maggie, es una mujer rebelde que avanza si un objetivo claro en la vida y su vestuario desenfadado refleja su personalidad.
+
+Por su parte, Rose, hermana mayor de Maggie, tiene un estilo es más conservador, con piezas sofisticadas y menos llamativas. Las prendas que usa Rose, como **blusas de seda** y **trajes de corte clásico**, muestran su personalidad más seria y contenida. A través de su vestuario, la película muestra cómo el estilo de Rose está alineado con su rol protector y responsable en la familia. Está disponible en [Disney+](https://www.disneyplus.com/es-ec/movies/en-sus-zapatos/LAN5UxRBQUDQ "https://www.disneyplus.com/es-ec/movies/en-sus-zapatos/LAN5UxRBQUDQ").
+
+**Si tuviera 30**
+-----------------
+
+**Jennifer Garner**, que interpreta a Jenna Rink, encarna la nostalgia de los años 2000 con faldas coloridas, collares de cuentas y _looks_ románticos. Esta comedia romántica captura la esencia de la **moda Y2K**, grabando los días en que los colores pastel y los estilos femeninos dominaban el panorama. El inicio de la cinta es una reminiscencia a los años ochenta tanto en la música como en la vestimenta. La escena en la que la protagonista pasea por su armario es un sueño hecho realidad. Está en [Netflix](https://www.netflix.com/ec/title/60034573 "https://www.netflix.com/ec/title/60034573").
+
+**Personal Shopper**
+--------------------
+
+Este _thriller_ protagonizado por **Kristen Stewart** mezcla el mundo de la moda con lo sobrenatural. Maureen, una compradora personal en París, busca señales de su hermano fallecido, mientras navega por el lujo y el misterio. Kristen mezcla minimalismo y lujo mientras enfrenta dilemas sobrenaturales. **Chanel** se convierte en la marca estrella del vestuario, reflejando tanto el gusto cómodo de los personajes como el tono oscuro de la trama. Está en [Prime Video](https://www.primevideo.com/detail/Personal-Shopper/0IMRMUVEXGBVDYKK9OAO8QO864 "https://www.primevideo.com/detail/Personal-Shopper/0IMRMUVEXGBVDYKK9OAO8QO864").
+
+Cerca de cien barrios de Quito afectados por cortes de agua este domingo 24 de noviembre
+========================================================================================
+
+Los cortes de agua en Quito empiezan a las 06:00 de este domingo.
+-----------------------------------------------------------------
+
+![Los cortes de agua en Quito son este domingo desde las 06:00.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-agua-quito.jpg)
+
+La **Empresa Pública Metropolitana de Agua Potable y Saneamiento de Quito (Epmaps)** informó que más de **cien barrios** de la capital serán afectados por **cortes de agua** este domingo 24 de noviembre de 2024[.](https://es.wikipedia.org/wiki/Quito)
+
+La Epmaps realizará el **mantenimiento** de una de las plantas que abastece de agua potable a Quito.
+
+### Más noticias:
+
+* [Cortes de agua en Quito se inician en 95 barrios por 12 horas](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-se-inician-en-95-barrios-prevencion.html "Cortes de agua en Quito se inician en 95 barrios por 12 horas")
+* [Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito](https://www.elcomercio.com/actualidad/quito/gobierno-de-daniel-noboa-hizo-un-anuncio-sobre-los-cortes-de-luz-y-la-fundacion-de-quito.html "Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito")
+
+Más de cien barrios de Quito afectados por cortes de agua
+---------------------------------------------------------
+
+Este domingo 24 de noviembre, más de cien barrios serán afectados por **cortes de agua**.
+
+El motivo es el mantenimiento preventivo del Centro de Motores Unificado de la **Planta de Tratamiento de Agua Potable Bellavista.**
+
+Se realizará el cambio y **actualización tecnológica** de los disyuntores (interruptores diferenciales).
+
+La Empresa señaló que los trabajos tienen como objetivo garantizar la **operatividad del sistema**.
+
+Por estas intervenciones de mantenimiento, el servicio de agua potable se suspenderá **“temporalmente”**, en varios barrios.
+
+Agua de Quito no da horas exactas para el **reestablecimiento del servicio**, señala que será en el transcurso de la mañana, en algunos casos; y, en el de la tarde, en otros.
+
+### **Los cortes de agua en Quito desde las 06:00, el servicio se restablecerá en el transcurso de la mañana, en los barrios:**
+
+**Amagasí del Inca I**, Andrade Marín, Av. Real Audiencia, Bonanza Virgen del Quinche, California Alta, Cementerio Parques del Recuerdo, Condominio Buen Jesús, Condominios Torres de Quito, Conjunto Residencial La Farsalia, Conjunto Residencial Maribel.
+
+Conjunto Residencial Orquídeas del Norte, Conjunto Residencial Los Álamos, Conjunto Residencial Mediterráneo, Cuartel Rumiñahui, El Arbolito Sector de la Av. Eloy Alfaro, **El Batancito – Iess**, Equipamiento Cementerio El Batán.
+
+Escuela Aviación Civil, Industria, Julio Matovelle, La Brasilia, La Dammer II, La Farsalia I, La Farsalia II, La Kennedy, La Ofelia, Los Naranjos, **Los Nevados**, Los Pinos, Nazareth I, Parque Metropolitano, Plan Milenio, Policía Nacional del Ecuador, **San Isidro Del Inca I y II,** Sector Puente Eloy Alfaro, Vía A Zámbiza.
+
+Urbanizaciones: Agua Clara, COFAVI, Los Cedros, Villas Audi, Rumiñahui I, II, III, 24 de Mayo, Andalucía, Borja Yerovi, Gabriela Marina, Inecel, **Jardines del Batán**, Las Bromelias, Los Laureles III, Monteserrín III, Texaco, El Carmen II, Los Nogales.
+
+Aeropuerto Mariscal Sucre, Amazonas Aeropuerto, Área de Protección del Aeropuerto, Asilo Corazón de María, Barrio Aeropuerto I, II, III, IV, **Barrio Cotocollao**, Chaupicruz, Colegio Don Bosco, Colegio Ecuatoriano Suizo.
+
+Condominio Hammill, Condominio Los Andes, Condominios El Prado, Conjunto Residencial Las Acacias III, Conjunto Residencial Portal De Las Acacias, Conjunto Residencial Santa Cecilia, Conjunto La Recoleta, Conjunto Luis Calderón.
+
+Conjuntos Residenciales: Aldebarrán, Asturias, Sesquicentenario, Moringa, Santa Carolina, Alambra, Arteaga, Castilla Del Norte, **Residencial Cortijo**, El Dorado, Fuente La Reina, La Esperanza, Los Álamos, Maberey I, San Jaime, Santa Teresa, Tomás II, Solares Del Inca.
+
+### Más barrios:
+
+Cooperativa Unión Nacional, Dammer I, El Arbolito Sector Av. Eloy Alfaro, El Morlán, Equipamiento Reina De La Paz, Equipamiento Cementerio El Batán, **Escuela Aviación Civil,** Escuela de Policía, Granda Centeno.
+
+Industria: desde Av. La Prensa y Heredia hasta Miller Martínez, SIDEC, Pinto, Iñaquito Bajo, La Bakker II, La Concepción, La Florida I-II, **La Florida** Alta II, La Kennedy, La Luz I-II-III-IV-V, Los Cedros, Lotización Corazón De María.
+
+Multifamiliares San Pedro Claver II, Multifamiliares de Los Militares, Multifamiliares Inglaterra, Portal del Bosque, Quito Norte I-II, **Quito Tennis** I-II, San Isidro de El Inca, San José del Inca, San Patricio, San Pedro Claver I, Sector Calle Holguín.
+
+Sector Calle Río Blanco, Sector Industria Coca Cola, Sector Jabonería Nacional, Sector Los Granados, Sector Redondel del Inca, Urbanización **El Pinar Bajo**, Urb. Empleados Empresa Eléctrica.
+
+Urbanizaciones: Andalucía Baja, La Betania, Maldonado, **Rumiñahui** I-III, 24 de Mayo, Las Acacias, Los Laureles III, Los Oblatos, Quito Norte.
+
+Villa Regina, **Villas Amazonas**, Bosque Protector IESS, Colegio Ecuatoriano Suizo, Colegio Los Pinos, Condominios Occidentales, Conjunto Habitacional Cordillera.
+
+Conjuntos Residenciales: 2000, Asturias, Adriana II, Alambra, El Fundador, Los Almendros, Los Arrayanes, San Felipe Del Pinar, Tomás II, Cooperativa Unión Nacional, El Porvenir, Equipamiento Reina De La Paz, Equipamiento Olade, Jardines Del Pichincha, **Jefatura De Tránsito**, Lotización Corazón De María, Mena Del Hierro 1-2.
+
+Multifamiliares: Cataluña, **San Pedro Claver I y II**, Inglaterra, Quito Norte I-II, Quito Tennis II, San José Jarrín, San Patricio.
+
+Urbanizaciones: El Pinar Bajo, San Carlos, Andalucía, El Condado, Mexterior, Quito Norte, Thomas, Villas Amazonas, Altamira, **sector Embajada De Japón**, Club Santa Fe, Colinas Del Pichincha, Iñaquito Alto I, con cortes de agua.
+
+### **Los cortes de agua en Quito desde las 06:00, el servicio se restablecerá hasta el transcurso de la tarde en los barrios:**
+
+**Ciudadela Jipijapa** I, II, III, Condominio Ciudadela Jarrín La Y, Conjunto Amazonas III, Conjunto Habitacional Real, Conjunto Residencial Cesquicentenario, Conjunto Residencial Granja Azul.
+
+Conjunto Solares Del Inca, El Batán, El Batán Bajo, **El Batán** I, El Batancito – Iess, Equipamiento Colegio Americano, Equipamiento Estación Trole, Industria Comercio – Aeropuerto.
+
+Iñaquito Bajo, Iñaquito I y II, Motransa, **San José del Inca**, Sector Industria Coca Cola, Sector La Y, Sector Los Granados, Sector Los Sauces, Sector Redondel De El Inca.
+
+Sector **Río Coca – Ecovía**, Urbanizaciones: Drash, Maldonado, 6 De Diciembre Ii, Altos Oficiales Policía Nacional, Astra, Heinsten, Las Acacias, Los Oblatos, Manuela Cañizares, Zaldumbide I y II son los barrios de Quito con cortes de agua.
+
+Una nueva denuncia en contra del rapero Kanye West ¿De qué la acusa la modelo Jenn An?
+======================================================================================
+
+Kanye West ya fue acusado de supuesto acoso sexual, discriminación racial, incumplimiento de contrato, entre otros
+------------------------------------------------------------------------------------------------------------------
+
+![El cantante de rap Kanye West, que se hace llamar Ye, en una fotografía de archivo de EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-57-1.jpg)
+
+La modelo Jenn An, quien participó en el programa America’s Next Top Model, en 2009, denunció a Kanye West (ahora llamado Ye) por agresión sexual. Esto habría ocurrido durante la grabación de un videoclip en 2010.
+
+Más noticias
+------------
+
+* [Arturo Vidal y jugadores de Colo Colo son investigados por denuncia de agresión sexual](https://www.elcomercio.com/actualidad/arturo-vidal-y-jugadores-de-colo-colo-son-investigados-por-denuncia-de-agresion-sexual.html "Arturo Vidal y jugadores de Colo Colo son investigados por denuncia de agresión sexual")
+* [Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo](https://www.elcomercio.com/actualidad/mundo/unicef-informe-violencia-sexual-ninas-adolescentes.html "Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo")
+
+An presentó su demanda la tarde del viernes en un tribunal federal de Nueva York. En la denunicia contra West, al que accedió el medio TMZ, también denuncia a la discográfica [Universal Music Group](https://www.universalmusic.com/ "https://www.universalmusic.com/") y a la agencia Stink Digital USA. Las acusa de violar la Ley de Protección contra la Violencia de Género.
+
+La presunta agresión ocurrió durante el rodaje del videoclip ‘In for the Kill’, de Kanye West, y el grupo británico La Roux. Esto se grabó en el famoso Hotel Chelsea de Nueva York. El rapero supuestamente ordenó que se enfocara el rostro de An con la cámara mientras él “le asfixiaba la cara con ambas manos”.
+
+Según la denuncia contra Kanye West, el artista “le metió varios dedos en la garganta, moviéndolos continuamente dentro y fuera, y la amordazó para imitar el sexo oral forzado”, mientras gritaba “esto es arte. Soy como Picasso”.
+
+An expresa en la demanda en contra del rapero que, durante los hechos -que duraron aproximadamente un minuto- le costaba respirar y “sentía como si se hubiera desmayado temporalmente”.
+
+De acuerdo con TMZ, Jenn anota en la demanda que la escena se parecía más a un “fetiche BDSM” o un video pornográfico.
+
+Además, incide en que Universal “discrimina sistemáticamente a las mujeres al seguir trabajando con artistas con historiales bien documentados de acoso sexual y discriminación”.
+
+Asegura que tanto la discográfica como otras figuras de alto nivel dentro de la industria “intentaron ocultar el incidente”. De este modo, acusa al sello de “no haber aplicado un código de conducta”. Tampoco de “haber sabido que (West) era capaz de agredirla sexualmente, dado su historial públicamente documentado de comportamiento misógino”.
+
+El pasado junio, una exasistente también lo acusó de acoso sexual, incumplimiento de contrato, despido injustificado y ambiente de trabajo hostil. En abril fue demandado por otro exempleado por discriminación racial, acoso y despido injustificado.
+
+Barcelona SC ve esfumarse sus opciones tras empate con Técnico Universitario
+============================================================================
+
+Técnico Universitario frenó al Barcelona SC que parecía encaminarse al triunfo pero se dejó empatar en Ambato.
+--------------------------------------------------------------------------------------------------------------
+
+![Técnico Universitario y Barcelona SC jugaron en Ambato el 23 de noviembre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/tubsc.jpg)
+
+**Barcelona SC** no pudo sostener la ventaja y, tras empatar 2-2 en su visita al **Técnico Universitario**, vio cómo se desvanecían sus posibilidades de disputar la final de la Liga Pro 2024.
+
+El resultado dejó a los canarios sin opciones de ganar la etapa, y el sueño de lograr el título se terminó antes de la última jornada.
+
+### Más noticias:
+
+* [La explosión de alegría de los hinchas de Racing tras ganar la Copa Sudamericana](https://www.elcomercio.com/deportes/futbol/racing-cruzeiro-copa-sudamericana-campeon-2024.html "La explosión de alegría de los hinchas de Racing tras ganar la Copa Sudamericana")
+* [Partidos decisivos para evitar el descenso en la Liga Pro de Ecuador](https://www.elcomercio.com/deportes/futbol/descenso-cumbaya-imbabura-libertad-ligapro-cuenca.html "Partidos decisivos para evitar el descenso en la Liga Pro de Ecuador")
+* [Piero Hincapié se redime con victoria en el Bayer Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-victoria-bayer-leverkusen-heidenheim.html "Piero Hincapié se redime con victoria en el Bayer Leverkusen")
+
+El partido en **Ambato** fue vibrante y de altos y bajos para los dirigidos por Segundo Alejandro Castillo.
+
+En el primer tiempo, el local, **Técnico Universitario**, se adelantó con un gol de Diego Armas a los 19 minutos. Sin embargo, Barcelona SC reaccionó rápidamente, y Janner Corozo empató el partido en el minuto 45+2, justo antes de que se fueran al descanso.
+
+En la segunda mitad, los canarios se pusieron al frente del marcador a los 50 minutos gracias a un tanto de Octavio Rivero, que parecía encaminar a Barcelona hacia la victoria.
+
+No obstante, la alegría fue efímera, ya que **Diego Armas** volvió a marcar a los 69 minutos, firmando el empate definitivo para el ‘Rodillo Rojo’.
+
+Con ese gol, Armas se consolidó como uno de los máximos goleadores del torneo, mientras que el equipo de Ambato mantuvo vivas sus opciones de clasificar a un [torneo internacional.](https://es.wikipedia.org/wiki/Copa_Sudamericana)
+
+El empate dejó a **Barcelona SC** con 24 puntos y fuera de la lucha por el título.
+
+Ahora, solo **Liga de Quito** e **Independiente del Valle** siguen con opciones de ganar la etapa. Ambos clubes jugarán sus partidos el domingo 24 de noviembre del 2024.
+
+Aunque el equipo de Castillo mostró una mejor cara desde su llegada al banquillo, no lograron sostener las esperanzas hasta el final.
+
+Con la clasificación a la final fuera de alcance, Barcelona SC buscará cerrar la temporada con una victoria en la última fecha ante Mushuc Runa.
+
+Esta última jornada será crucial para definir a los equipos que lucharán por la permanencia y los que clasificarán a torneos internacionales, dejando a Barcelona SC sin el objetivo principal: el título de la Liga Pro 2024.
+
+Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito
+========================================================================================
+
+La decisión de Daniel Noboa sobre los cortes de luz y la fundación de Quito fue anunciada esta tarde.
+-----------------------------------------------------------------------------------------------------
+
+![El Gobierno anunció la decisión sobre los cortes de luz y la fundación de Quito este sábado.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-fundacion-quito.jpg)
+
+El **Gobierno de Daniel Noboa** hizo un anuncio sobre los **cortes de luz** y la **fundación de Quito**, la tarde de este sábado 23 de noviembre de 2024.
+
+Quito celebra **490 años** de fundación el próximo 6 de diciembre.
+
+### Más noticias:
+
+* [Pregón de fiestas de Quito se desarrolla en la Plaza de San Francisco](https://www.elcomercio.com/actualidad/quito/pregon-fiestas-quito-plaza-san-francisco.html "Pregón de fiestas de Quito se desarrolla en la Plaza de San Francisco")
+* [Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/estudiantes-municipales-saludo-alcalde-inicio-fiestas-de-quito.html "Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito")
+
+Anuncio de cortes de luz y la fundación de Quito por parte del Gobierno de Daniel Noboa
+---------------------------------------------------------------------------------------
+
+El Gobierno de Daniel Noboa mantiene **cortes de luz programados** para Quito y todo el país desde el 23 de septiembre pasado.
+
+La sequía, una de las más largas de las últimas décadas, y la **dependencia de las lluvias** para la generación de electricidad desencadenaron una crisis energética aún sin solución.
+
+Esta crisis ha impedido de que el Gobierno pueda cumplir, al menos, con la promesa de **reducción** de cortes de luz a cuatro horas.
+
+Una semana lo intentó, pero a la siguiente semana tuvo que aumentar hasta **14 horas** los cortes programados.
+
+Esto, debido a que la falta de lluvias hizo que el nivel de los **embalses** de las hidroeléctricas no mejore.
+
+En este escenario, la Presidencia emitió un comunicado la tarde de este sábado, dando a conocer la decisión del Gobierno sobre los cortes de luz y el **6 de diciembre,** fecha de fundación de la capital.
+
+La **Secretaría General de Comunicación de la Presidencia** informó que, el próximo 6 de diciembre, en conmemoración de los 490 años de la Fundación de San Francisco de Quito, no se realizarán los cortes de luz programados en la capital del Ecuador.
+
+El Gobierno señaló que, con esta decisión, se busca promover el **turismo local y dinamizar la economía**, permitiendo el desarrollo pleno de las festividades.
+
+“Como parte de estas celebraciones, el Gobierno Nacional llevará a cabo la tradicional serenata a la capital, en **homenaje** a la cultura e identidad de Quito”, informó.
+
+El comunicado concluye indicando que la administración de Daniel Noboa reafirma su compromiso de “**proteger Quito**“.
+
+Esto, a través de la seguridad y evitando que la ciudad “sea afectada por el **desorden o el vandalismo**“.
+
+La explosión de alegría de los hinchas de Racing tras ganar la Copa Sudamericana
+================================================================================
+
+Racing Club gana la Copa Sudamericana venciendo 3-1 a Cruzeiro en una final histórica en Asunción.
+--------------------------------------------------------------------------------------------------
+
+![Racing Club y Cruzeiro disputaron la final de la Copa Sudamericana 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/racincruzeiro.jpg)
+
+La emoción se desbordó en Asunción, Paraguay, el sábado 23 de noviembre de 2024, cuando **Racing Club de Argentina** levantó su primera **Copa Sudamericana**, tras vencer 3-1 a Cruzeiro de Brasil en una final vibrante y cargada de dramatismo.
+
+La Nueva Olla fue testigo de una fiesta deportiva, con miles de hinchas argentinos colmando el estadio para celebrar el ansiado título internacional, que no se veía desde 1988.
 
 ### Más noticias:
 
@@ -49,26 +561,27 @@ El encuentro, que se jugará en el estadio General Pablo Rojas, conocido como La
 * [Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester](https://www.elcomercio.com/deportes/futbol/moises-caicedo-clave-triunfo-chelsea-leicester.html "Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester")
 * [¿A qué hora juegan Racing y Cruzeiro la final de Copa Sudamericana?](https://www.elcomercio.com/deportes/racing-cruzeiro-copa-sudamerica-final-hora.html "¿A qué hora juegan Racing y Cruzeiro la final de Copa Sudamericana?")
 
-Racing, dirigido por Gustavo Costas -extécnico de Barcelona SC-, vivirá una ocasión especial, ya que el técnico es un exjugador del club y fue parte del último título internacional en 1988.
+El encuentro comenzó con intensidad y **Racing** mostró su carácter ofensivo desde el inicio.
 
-La ‘Academia’ llega a esta final después de haber superado a equipos como Huachipato, Athletico Paranaense y Corinthians.
+A los 15 minutos, **Gastón Martirena** abrió el marcador, poniendo a los argentinos al frente. Apenas cinco minutos después, Adrián ‘Maravilla’ Martínez amplió la ventaja, estableciendo un 2-0 que hizo estallar la algarabía de los fanáticos presentes. El equipo argentino dominó el primer tiempo, con un juego sólido y seguro.
 
-Entre las estrellas del equipo se destacan el colombiano Juan Fernando Quintero, el arquero Gabriel Arias y el goleador Adrián “Maravilla” Martínez.
+Sin embargo, Cruzeiro no se rindió y a los 52 minutos, Kaio Jorge descontó para los brasileños, reavivando la esperanza de su hinchada y poniendo presión a Racing.
 
-Por su parte, Cruzeiro, dirigido por Fernando Diniz, ha demostrado un juego sólido y una gran capacidad de superación.
+A pesar del gol de descuento, el elenco de **Gustavo Costas**, que conoce la importancia de estas finales como exjugador de Racing y parte del último título internacional en 1988, mantuvo su orden y no permitió que la presión los desbordara.
 
-El equipo brasileño, que busca su octavo título internacional, cuenta con figuras como Kaio Jorge, quien ha brillado en las últimas fases del torneo, y Gabriel Verón. Los brasileños tienen una rica historia internacional, con títulos en la Copa Libertadores, la Supercopa Sudamericana y más.
+El gol definitivo llegó en el minuto 90 + 5, cuando Roger Martínez marcó el tercer tanto y selló la victoria por 3-1. Ese gol llegó cuando el rival pugnaba y generaba opciones para igualar.
 
-Racing vs. Cruzeiro
--------------------
+La victoria no solo consagró a Racing como campeón de la Copa Sudamericana, sino que también terminó con una larga espera de títulos internacionales, reafirmando el resurgir de la ‘Academia’ en el fútbol sudamericano.
 
-El partido definirá no solo al campeón de la edición 2024 de la **Copa Sudamericana**, sino que también dejará a uno de los dos equipos con un trofeo que ha sido esquivo durante años.
+> 🤩💙🤍 Festejos de [@RacingClub](https://twitter.com/RacingClub?ref_src=twsrc%5Etfw): los goles, desde la tribuna de la Academia.  
+>   
+> 🏆 CONMEBOL [#Sudamericana](https://twitter.com/hashtag/Sudamericana?src=hash&ref_src=twsrc%5Etfw) | [#LaGranConquista](https://twitter.com/hashtag/LaGranConquista?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/JNRNijia4U](https://t.co/JNRNijia4U)
+> 
+> — CONMEBOL Sudamericana (@Sudamericana) [November 23, 2024](https://twitter.com/Sudamericana/status/1860439027750420793?ref_src=twsrc%5Etfw)
 
-El cotejo empezará desde las 15:00.
+El equipo argentino celebró el trofeo que les otorga seis millones de dólares, mientras que Cruzeiro, a pesar de la derrota, se llevó dos millones.
 
-El ganador recibirá un premio de seis millones de dólares, mientras que el subcampeón se llevará dos millones.
-
-El fútbol sudamericano vivirá una jornada histórica en Asunción, donde Racing y Cruzeiro lucharán por el ansiado trofeo.
+Esta final histórica dejó claro que el fútbol sudamericano sigue siendo un escenario de emociones y rivalidades intensas.
 
 > 🇦🇷🏆🇧🇷 ¡Formaciones confirmadas para la Final de la CONMEBOL [#Sudamericana](https://twitter.com/hashtag/Sudamericana?src=hash&ref_src=twsrc%5Etfw)!  
 >   
@@ -76,11 +589,208 @@ El fútbol sudamericano vivirá una jornada histórica en Asunción, donde Racin
 > 
 > — CONMEBOL Sudamericana (@Sudamericana) [November 23, 2024](https://twitter.com/Sudamericana/status/1860397848832909591?ref_src=twsrc%5Etfw)
 
-**Palabras clave:** Copa Sudamericana, Racing Club, Cruzeiro, final Sudamericana 2024, Juan Fernando Quintero, Kaio Jorge, Gustavo Costas, Asunción, fútbol sudamericano.
+Alerta por fuga de reos en la cárcel Regional Guayas este sábado 23 de noviembre
+================================================================================
 
-**Mid-tail:** Final Copa Sudamericana, Racing vs Cruzeiro, Racing y Cruzeiro historia, partido final Copa Sudamericana 2024.
+El SNAI organizó operativos de recaptura en coordinación con la Policía por la fuga de reos en la cárcel Regional Guayas.
+-------------------------------------------------------------------------------------------------------------------------
 
-**Long-tail:** Racing vs Cruzeiro final Copa Sudamericana 2024: qué equipos lucharán por el título, estadísticas Racing vs Cruzeiro Copa Sudamericana 2024, Racing y Cruzeiro definen campeón 2024 en La Nueva Olla.
+![La fuga de reos en la cárcel Regional Guayas se dio esta madrugada.](https://www.elcomercio.com/wp-content/uploads/2024/11/fuga-reos-carcel-regional-guayas.jpg)
+
+Una alerta por la **fuga** de **reos** se emitió desde la **cárcel Regional Guayas** este **sábado 23 de noviembre** de 2024.
+
+El **Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad y a Adolescentes Infractores (SNAI)**, en coordinación con la Policía, activó un operativo de recaptura.
+
+### Más noticias:
+
+* [Otra guía penitenciaria, asesinada en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/otra-guia-penitenciaria-asesinada-en-guayaquil.html "Otra guía penitenciaria, asesinada en Guayaquil")
+* [Vuelve la tensión a la Penitenciaría del Litoral, tras masacre](https://www.elcomercio.com/actualidad/seguridad/penitenciaria-litoral-tension-masacre.html "Vuelve la tensión a la Penitenciaría del Litoral, tras masacre")
+
+La fuga de reos en la cárcel Regional Guayas
+--------------------------------------------
+
+El SNAI informó que, este sábado, en el **Centro de Rehabilitación Social (CRS) Guayas N.°4**, ocho reos evadieron los filtros de seguridad del centro.
+
+Conocido el hecho ocurrido en la madrugada, se activaron los **protocolos** para la recaptura de los privados de la libertad, en coordinación con la Policía Nacional.
+
+Policiales y militares reforzaron los controles en los perímetros del complejo penitenciario, ubicado sobre la vía a **Daule**.
+
+Los uniformados lograron **recapturar** a siete de los ocho reos fugados.
+
+Continúan los operativos de búsqueda y recaptura de **uno** de los presos, en los sitios cercanos a la cárcel Regional Guayas.
+
+El SNAI anunció que presentará la denuncia de este suceso ante la **Fiscalía Provincial de Guayas**, para que se investigue y sancione a las personas vinculadas.
+
+Hace dos días, el SNAI también confirmó el **asesinato** de una de sus guías penitenciarias, al bajar de un bus, en la av. Narciza de Jesús.
+
+Y, el 12 de noviembre, la Penitenciaría del Litoral fue escenario de una **masacre** que dejó 17 reos asesinados en el pabellón 3.
+
+En Colombia al menos 100 niños sufren violencia al día, alerta Unicef
+=====================================================================
+
+La organización lamentó que esta cifra solo representa los casos atendidos por el Instituto Nacional de Medicina Legal.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial.](https://www.elcomercio.com/wp-content/uploads/2024/11/ninos-colombia-efe.jpg)
+
+ Al menos **100 niños y niñas** sufren algún acto de violencia al día en [Colombia](https://www.elcomercio.com/actualidad/mundo/dolar-sigue-ascenso-colombia-acercandose-4-500-pesos.html "https://www.elcomercio.com/actualidad/mundo/dolar-sigue-ascenso-colombia-acercandose-4-500-pesos.html"), 53 de ellos violencia sexual, **alertó Unicef** en el lanzamiento de su campaña **‘Trátame al derecho’,** que busca crear conciencia y movilizar a la sociedad para tomar acciones de cara a garantizar una vida sin violencia para la niñez y adolescencia.
+
+### Más noticias
+
+* [El dólar sigue su ascenso en Colombia, acercándose a los $4 500 pesos](https://www.elcomercio.com/actualidad/mundo/dolar-sigue-ascenso-colombia-acercandose-4-500-pesos.html "https://www.elcomercio.com/actualidad/mundo/dolar-sigue-ascenso-colombia-acercandose-4-500-pesos.html")
+* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html")
+* [Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz](https://www.elcomercio.com/actualidad/negocios/colombia-confirma-suministrara-electricidad-ecuador-cortes-de-luz.html "https://www.elcomercio.com/actualidad/negocios/colombia-confirma-suministrara-electricidad-ecuador-cortes-de-luz.html")
+
+La organización lamentó que esta cifra solo representa los casos atendidos por el **Instituto Nacional de Medicina Legal**, lo que significa que son “especialmente graves” y suponen un subregistro.
+
+En el **Día Mundial de la Infancia**, que este año conmemora los 35 años de la **Convención sobre los Derechos del Niño,** Unicef lanzó esta campaña para “amplificar” las voces de los niños y adolescentes, que “exigen” que sus derechos sean respetados y que sus escuelas y comunidades sean entornos donde puedan crecer en el respeto y la protección.
+
+Según datos compartidos por la organización a partir de las cifras de Medicina Legal, en 2023 en Colombia se atendieron **35 339 casos de violencia hacia niños**, niñas y adolescentes, entre ellos 607 homicidios, 6.369 casos de violencia intrafamiliar y 19.192 casos de violencia sexual.
+
+En este sentido, Unicef alertó que **“la niñez y la adolescencia representan el 81 % del total de reportes** de violencia sexual” en el país.
+
+“Queda mucho por hacer”
+-----------------------
+
+La iniciativa consiste en una **página web que facilita información, cursos, tests**, recursos pedagógicos sobre la **crianza de los niños y niñas** y cuenta con un portal de donaciones para la prevención de la vulneración y la **protección de los derechos de la infancia** y la adolescencia en Colombia.
+
+Además del portal **‘Trátame al derecho**‘, la organización cuenta con diferentes aliados de todo el país que iluminarán las fachadas de sus sedes de color azul para sumarse a la iniciativa, como la **Torre Colpatria** y el Movistar Arena en Bogotá y monumentos nacionales como el Santuario de Nuestra Señora del Rosario de Las Lajas.
+
+“**Los derechos de los niños son derechos humanos**“, manifestó la representante de Unicef en Colombia, Tanya Chapuisat, y agregó que “queda mucho por hacer” porque “se sigue fallando a los niños en muchos frentes”.
+
+Chapuisat recordó la **Conferencia Ministerial Mundial** para poner fin a la violencia contra la infancia, que tuvo lugar a principios de noviembre en Bogotá y en la que 91 estados **“hicieron compromisos puntuales”** para garantizar la **protección de los derechos** de la **infancia de manera tangible.**
+
+Por su parte, la directora del **Instituto de Bienestar Familiar**, Astrid Cáceres, reivindicó que los niños indígenas y los niños afro sufren una **especial discriminación** y que la vulneración de sus derechos “genera consecuencias en su **salud física y mental**” y les acompaña durante toda su vida.
+
+Niños del Amazonas
+------------------
+
+“Los **niños del Amazonas** viven en un tiempo distinto a los 35 años de la convención. Hay municipios a los que no llegó, Colombia es un país muy desigual en derechos del niño. Hay que lograr que esos 35 años lleguen al resto de niños. Ese es el reto”, agregó.
+
+Estrés en medio de cortes de luz, ¿qué opciones hay?
+====================================================
+
+Hay servicios y alternativas para problemáticas ante la crisis por cortes de luz.
+---------------------------------------------------------------------------------
+
+![La Unidad Patronato Municipal San José tiene servicios como acogida a mujeres sobrevivientes de violencia de género.](https://www.elcomercio.com/wp-content/uploads/2024/11/casa-de-la-mujer.jpg)
+
+Los **cortes de luz** en Ecuador llegaron con complicaciones en la salud mental. Las relaciones intrafamiliares también pueden verse afectadas por la tensión. Hay algunos pasos para actuar frente a una realidad latente.
+
+**Estrés, ansiedad y desgaste emocional** de las personas están entre los males que se generaron o se intensificaron con la crisis eléctrica.
+
+### Más noticias
+
+* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
+* [Cortes de luz en Quito para este martes 19 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-martes-19-de-noviembre.html "Cortes de luz en Quito para este martes 19 de noviembre")
+* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
+
+> 💜 [#QuitoMiHogarSeguro](https://twitter.com/hashtag/QuitoMiHogarSeguro?src=hash&ref_src=twsrc%5Etfw) | Prevenir la violencia intrafamiliar en tiempos de estrés y crisis energética, fomenta una cultura de paz. ¡Juntos apaguemos las violencias!  
+>   
+> ➡️Conoce más: [https://t.co/1HPoCvYbHq](https://t.co/1HPoCvYbHq)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/C4SBE4W1bx](https://t.co/C4SBE4W1bx)
+> 
+> — Patronato San José Quito (@PatronatoSJ) [November 17, 2024](https://twitter.com/PatronatoSJ/status/1858173179165876229?ref_src=twsrc%5Etfw)
+
+Cortes de luz, violencia intrafamiliar y otras afectaciones
+-----------------------------------------------------------
+
+Según la **Organización Mundial de la Salud (OMS)**, el estrés se define como un estado de preocupación o tensión mental generado por una situación difícil.
+
+Según la Primera Encuesta Distrital de Salud Mental aplicada a 1 392 familias de Quito, en este 2024, por parte de la Secretaría de Salud, 8 de cada 10 personas reconoce un nivel ‘algo estresante’ en sus vidas.
+
+La principal causa de estrés para casi la mitad de la población encuestada (49,8%) representa la situación económica-laboral.
+
+En Quito, la **[Unidad Patronato Municipal San José](https://www.facebook.com/PatronatoQuito/?locale=es_LA)** impulsa la campaña Quito, mi hogar seguro: juntos apagamos las violencias.
+
+La propuesta se encontrará vigente mientras dure la crisis y la meta es que los hogares de Quito sean espacios seguros y afectivos.
+
+Las acciones incluyen programas de educomunicativos y sensibilización a la ciudadanía sobre sus derechos, **rutas de protección** y cómo evitar las violencias.
+
+Acciones para aplicar en los hogares
+------------------------------------
+
+Desde Patronato San José, que cuenta con servicios para **poblaciones vulnerables**, detallan que es importante explicar a los niños lo que sucede para que puedan comprender los cambios que puedan presentarse.
+
+Además, es necesario dividir las tareas del hogar y planificar para aliviar la carga en una sola persona, evitando así **cansancio, fatiga y estrés**.
+
+Otra recomendación es no fomentar el **miedo a la oscuridad** en los niños y adolescentes con historias que pueda causarles malestar o ansiedad.
+
+En las actividades diarias
+--------------------------
+
+Para disminuir el estrés por las actividades diarias, en la medida de lo posible, se puede preparar los implementos, medicinas, alimentos y otros elementos necesarios antes del **corte de luz**.
+
+Se puede organizar el tiempo con **juegos, adivinanzas, contar historias**, entre otras actividades que motiven la unión y la creatividad.
+
+Acciones comunitarias
+---------------------
+
+En el ámbito comunitario, una práctica crucial es fomentar el cuidado y la solidaridad en los barrios, conjuntos, urbanizaciones o edificios.
+
+Las redes de apoyo son importantes, por ejemplo, para compartir recursos básicos, como agua o alimentos, incluso, retomando la práctica del trueque.
+
+Una buena opción es implementar actividades en **casas o centros comunitarios**, como ejercicios, talleres, charlas, etc.
+
+También es importante ubicar espacios donde se pueda trabajar, de ser necesario, en las horas de los apagones. En Quito se pueden encontrar espacios de [coworking](https://www.conquito.org.ec/red-metropolitana-de-coworking/).
+
+¿Qué hacer en casos de riesgo?
+------------------------------
+
+Los distintos tipos de violencia también son parte de las crisis. En caso de que una mujer y sus hijos se sientan amenazados, pueden llamar al **911**.
+
+A su vez, la Unidad Patronato Municipal San José cuenta con la línea gratuita **1800-288-523**. La entidad municipal cuenta con una persona especializada en temas de prevención de violencias.
+
+Del mismo modo, la ciudadanía puede llamar a la línea **101, opción 9** para acceder a una teleconsulta psicológica. Esto en caso de estrés, desesperación o que dificultad para controlar emociones.
+
+Servicios legales
+-----------------
+
+Cualquier persona natural o institución jurídica que conozca de un caso de amenaza o **violación de derechos**, puede denunciar en las Juntas Metropolitanas de Protección de Derechos, en casos de menores, mujeres y personas adultas mayores.
+
+La denuncia se puede realizar a través de los medios electrónicos y canales al alcance de la ciudadanía, en la página [web](https://inclusionsocial.quito.gob.ec/).
+
+En la capital ecuatoriana, a su vez, está el **Centro de Equidad y Justicia Tres Manuelas**. También las casas de acogida de la Mujer, de la Adolescente y de las Diversidades.
+
+El acuerdo sobre mercado de carbono, con el que finaliza la COP29, genera controversia
+======================================================================================
+
+El artículo 6 del Acuerdo de París insta a los países a cooperar para reducir sus emisiones de carbono.
+-------------------------------------------------------------------------------------------------------
+
+![Una foto proporcionada por ONU Cambio Climático a EFE muestra a activistas climáticos durante una protesta en la Conferencia de las Naciones Unidas sobre Cambio Climático COP29, en Bakú.](https://www.elcomercio.com/wp-content/uploads/2024/11/56ac15af75af409eee8ef6869945023de7333f1b.jpg)
+
+Los países representados en la COP29 de Bakú (Azerbaiyán) alcanzaron un acuerdo sobre comercio de emisiones de carbono y creación de un mercado mundial regulado. Esto con el fin de cumplir los objetivos del art. 6 del Acuerdo de París.
+
+Más noticias
+------------
+
+* [Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración](https://www.elcomercio.com/opinion/editorial/compromiso-g-20-de-mitigar-cambio-climatico-no-sea-solo-declaracion.html "Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración")
+* [En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes](https://www.elcomercio.com/tendencias/ambiente/en-ecuador-12-mil-puestos-de-trabajo-que-se-llenaron-en-2023-fueron-considerados-verdes.html "En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes")
+
+“Esta era una de las principales prioridades de la Presidencia para el año. Se impulsó a las partes hacia este hito mediante intensas negociaciones técnicas y políticas de doble vía. Esta estrategia rompió con años de estancamiento y finaliza el último punto pendiente del Acuerdo de París”. Esto lo destaca el comunicado de la organización.
+
+El acuerdo, según el documento, dio sus primeros pasos positivos cuando, en la primera semana, se acordó construir un mercado de carbono centralizado en el marco de NN.UU.
+
+El artículo 6 del Acuerdo de París insta a los países a cooperar para reducir sus emisiones de carbono. En ese sentido, un país puede transferir a otro los créditos de carbono que obtuvo mediante la reducción de sus emisiones.
+
+Esto supone que los países que liberen poco C02 pueden vender derechos de emisión a quienes más generen, bajo la gestión de NN.UU., con garantías de contabilidad y con registro de intercambios.
+
+Para la presidencia de la COP, que vivió hoy un día contrarreloj, el acuerdo proporciona “mercados de carbono fiables y transparentes” a los países que colaboran para alcanzar sus objetivos climáticos.
+
+Según la presidencia de Azerbaiyán, la creación del Mercado de Carbono de la ONU podría desbloquear flujos de inversión de 250 mil millones de dólares al año. Esto facilitaría a los países el cumplimiento de sus respectivas contribuciones climáticas nacionales (NDC).
+
+Acuerdo sobre mercado de carbono generó reacciones
+--------------------------------------------------
+
+La forma de llevar las negociaciones generó críticas y el acuerdo levantó una oleada de reacciones. Esto se debe a que es una parte controvertida de la política medioambiental.
+
+La ministra alemana de Exteriores, Annalena Baerbock, acusó a los estados petroleros de “juegos geopolíticos” y de maniobras “engañosas”, en las negociaciones contrarreloj.
+
+La negociadora principal de Panamá, Ana Aguilar, criticó la falta de transparencia en el proceso, algo que achacó a la presidencia azerí de la cumbre. Según ella tuvo más reuniones con unas partes que con otras.
+
+Para la organización Greenpeace, los mecanismos de mercado de carbono acordados “son una estafa”, al permitir a la industria fósil compensar las nuevas emisiones.
+
+Kelly Stone, analista política senior de ActionAid USA, destacó que el acuerdo elude la financiación climática en favor del “lavado verde”. “Los mercados de carbono que permiten la compensación – que son esencialmente permisos para seguir contaminando – no son acción climática”.
 
 Incendio de un tanquero deja un fallecido y tres heridos en la avenida Simón Bolívar
 ====================================================================================
@@ -88,7 +798,7 @@ Incendio de un tanquero deja un fallecido y tres heridos en la avenida Simón Bo
 Hay varios autos afectados debido al flagelo. El cielo de Quito se llenó de humo negro.
 ---------------------------------------------------------------------------------------
 
-![La explosión alertó a los habitantes del sector de la Loma de Puengasí, en el sur oriente de Quito. Foto: AMT](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-56.jpg)
+![El tanquero que se incendió en la Simón Bolívar llevaba combustible. Foto: Cuerpo de Bomberos de Quito](https://www.elcomercio.com/wp-content/uploads/2024/11/simon-bolivar-tanquero-invendio_720.jpg)
 
 Cerca del mediodía de este sábado 23 de noviembre del 2024 se produjo un siniestro de tránsito sobre la avenida Simón Bolívar. Según información disponible del ECU 911 se trata de un vehículo tipo tanquero que se incendió en el sitio y afectó a otros dos vehículos.
 
@@ -98,7 +808,7 @@ Más noticias
 * [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
 * [Que la prevención de los siniestros de tránsito no se detenga en Quito](https://www.elcomercio.com/opinion/editorial/prevencion-siniestros-transito-quito-accidentes.html "Que la prevención de los siniestros de tránsito no se detenga en Quito")
 
-Según las imágenes, el conductor del tanquero perdió los frenos y el control y se impactó contra los postes de luz y otros dos vehículos. Esta colisión provocó el incendio y la explosión, que alertó a los habitantes del sector de la Loma de Puengasí, en el sur oriente de Quito.
+Según las imágenes, el conductor del tanquero perdió los frenos y el control. Luego se impactó contra los postes de luz y otros dos vehículos. Esta colisión provocó el incendio y la explosión, que alertó a los habitantes del sector de la Loma de Puengasí, en el sur oriente de Quito.
 
 En tanto, en redes sociales empezaron a subir videos, en los que se observa como el fuego consumía a otros dos vehículos afectados por el impacto del tanquero.
 
@@ -112,7 +822,7 @@ Se trata del conductor de un vehículo que colisionó con el tanquero. Él iba j
 
 Adicionalmente, el Ministerio de Salud Pública (MSP) confirmó que hay tres personas heridas. Presentaron quemaduras y, por esto fueron trasladas a casas de salud.
 
-Además informó que la Avenida Simón Bolívar, en dirección norte-sur aún no se va a poder habilitar durante algunas horas. Esto se debe a que se están haciendo pericias para ver el tipo de combustible que llevaba el tanquero. En el sentido sur- norte de esta vía ya se habilitó la circulación de vehículos.
+Además informó que la avenida Simón Bolívar, en dirección norte-sur, aún no se va a poder habilitar por algunas horas. Esto se debe a que se están haciendo pericias para ver el tipo de combustible que llevaba el tanquero. En el sentido sur- norte de esta vía ya se habilitó la circulación de vehículos.
 
 El personal de la entidad recomienda tomar rutas alternas como la General Rumiñahui, avenida Maldonado, Velasco Ibarra y la Interoceánica.
 
@@ -304,741 +1014,3 @@ El gobierno de Daniel Noboa también enfrentó dos juicios políticos a las mini
 En cuanto a la relación con la Asamblea Nacional, Donoso-Muller destacó que Noboa logró inicialmente cierto consenso en temas prioritarios **como seguridad y crimen organizado**. Sin embargo, con el paso del tiempo y la cercanía de las elecciones, ese **consenso se diluyó**, dando paso a alianzas móviles que complicaron la gobernabilidad.
 
 A pesar de ello, resaltó que la aprobación de leyes clave, como el **incremento de impuestos**, reflejó una **estrategia política efectiva en el corto plazo**. Sin embargo, advirtió que esta dinámica podría haber tenido un **costo político para el gobierno** y su relación con las distintas bancadas.
-
-Cristina Fernández exige a Milei la restitución de las pensiones
-================================================================
-
-La exmandataria presentó un reclamo administrativo al organismo que administra el sistema de jubilaciones en Argentina
-----------------------------------------------------------------------------------------------------------------------
-
-![El gobierno de Javier Milei anunció el retiro de la pensión a Cristina Fernández.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-24-1.jpg)
-
-La expresidenta argentina **Cristina Fernández** (2007-2015) reclamó a la Administración Nacional de la Seguridad Social (Anses) que le **restituya las pensiones**. Estas cobraba por haber ocupado la Jefatura de Estado y por ser viuda del también expresidente **Néstor Kirchner** (2003-2007) y que se le quitaron por decisión del **Gobierno de Javier Milei.**
-
-### Más noticias
-
-* [Justicia argentina confirma condena de 6 años a Cristina Fernández por corrupción](https://www.elcomercio.com/actualidad/mundo/justicia-argentina-confirma-condena-seis-anos-cristina-fernandez-corrupcion.html "Justicia argentina confirma condena de 6 años a Cristina Fernández por corrupción")
-* [Tras un año del triunfo, Javier Milei reafirma su estilo excéntrico](https://www.elcomercio.com/actualidad/mundo/tras-ano-triunfo-javier-milei-reafirma-estilo-excentrico.html "Tras un año del triunfo, Javier Milei reafirma su estilo excéntrico")
-* [Trump felicita a Milei por ‘hacer grande a Argentina nuevamente’ y recibe respuesta](https://www.elcomercio.com/actualidad/mundo/trump-felicita-a-milei-por-hacer-grande-a-argentina-respuesta.html "Trump felicita a Milei por ‘hacer grande a Argentina nuevamente’ y recibe respuesta")
-
-El pedido de Fernández de Kirchner
-----------------------------------
-
-Fuentes oficiales consultadas por EFE indicaron este sábado que el reclamo administrativo presentado por la exmandataria será contestado “de acuerdo con los plazos de procedimiento”. Esto corresponde al área de Asuntos Legales de la Anses, el organismo estatal que administra el sistema de jubilaciones en Argentina.
-
-Mediante una resolución publicada el pasado 15 de noviembre en el Boletín Oficial, la Anses revocó los beneficios de pensión vitalicia que **cobraba Fernández** por haber sido jefa de Estado. Y también como viuda de otro expresidente, una medida que en la víspera se anunció por el propio **Gobierno de Milei.**
-
-La resolución recuerda que el 13 de noviembre un tribunal de alzada confirmó **una condena para Fernández a seis años de prisió**n. Además, la **inhabilitación perpetua para ejercer cargos públicos** en un juicio por irregularidades en la concesión de obras viales durante su Gobierno y el de Kirchner.
-
-La Anses alegó que las **pensiones vitalicias** para expresidentes “devienen jurídicamente incompatibles para quien haya cometido un delito en ejercicio de la misma función pública. Y por la cual ha accedido a dicha asignación de privilegio y en perjuicio del Estado Nacional”.
-
-Tras hacerse efectiva esa medida, Cristina Fernández la cuestionó bajo el argumento de que las pensiones para expresidentes no se conceden por buen desempeño. Sino por el “mérito” de haber sido elegidos como **jefes de Estado** por el voto popular.
-
-Alegó, además, que el supuest**o “mal desempeño”** de un presidente solo lo puede juzgar el Parlamento argentino a través del proceso constitucional de juicio político durante el ejercicio del mandato.
-
-En declaraciones a la radio La Red, Facundo Fernández Pastor, abogado de la expresidenta, señaló que si el reclamo administrativo **ante la Anses no prospera,** [Fernández irá a la Justicia](https://es.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner "https://es.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner").
-
-Piero Hincapié se redime con victoria en el Bayer Leverkusen
-============================================================
-
-Piero Hincapié fue titular en Bayer Leverkusen y deja atrás la expulsión del reciente partido con Ecuador en eliminatorias.
----------------------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié con la camiseta del Bayer Leverkusen en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/piero_liverpool_1.jpg)
-
-El **Bayer Leverkusen** se impuso con contundencia por 5-2 al **Heidenheim** este 23 de noviembre del 2024, en un partido correspondiente a la Bundesliga. **Piero Hincapié**, defensor ecuatoriano, fue titular en el conjunto dirigido por Xabi Alonso, quien sigue luchando por los primeros puestos del torneo alemán.
-
-El gran protagonista de la jornada fue Patrik Schick, quien anotó un triplete y fue clave en el triunfo de su equipo.
-
-### Más noticias:
-
-* [Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester](https://www.elcomercio.com/deportes/futbol/moises-caicedo-clave-triunfo-chelsea-leicester.html "Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester")
-* [Gonzalo Plata ‘revivió’ para la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-seleccion-ecuador-eliminatorias.html "Gonzalo Plata ‘revivió’ para la Selección de Ecuador")
-* [Piero Hincapié agradece a sus compañeros tras la victoria ante Colombia](https://www.elcomercio.com/deportes/futbol/piero-hincapie-agradece-a-sus-companeros-tras-la-victoria-ante-colombia.html "Piero Hincapié agradece a sus compañeros tras la victoria ante Colombia")
-
-Exequiel Palacios y Granit Xhaka completaron los goles para la victoria local.
-
-Por el Heidenheim, Niklas Dorsch y Mathias Honsak descontaron.
-
-Con esta victoria, el **Bayer Leverkusen** alcanzó los 20 puntos en 11 partidos y sigue en la lucha por las primeras posiciones.
-
-El líder de la Bundesliga sigue siendo Bayern Múnich, que lidera la clasificación con 29 puntos.
-
-Piero Hincapié
---------------
-
-Para **el esmeraldeño Piero Hincapié**, este partido representó una oportunidad para consolidarse tras una expulsión sufrida con la Selección de Ecuador en las eliminatorias sudamericanas.
-
-El 19 de noviembre del 2024, en la histórica victoria de Ecuador 0-1 ante Colombia en Barranquilla, Hincapié fue expulsado por una falta sobre Jhon Córdoba. Fue una jugada muy ajustada, pero al final salió de la cancha antes que el resto de sus compañeros.
-
-A pesar de no poder estar presente en durante todo ese partido, **Hincapié** agradeció a sus compañeros y a la hinchada ecuatoriana por su apoyo y reafirmó su compromiso con la Selección.
-
-El zaguero de 22 años, que no pudo terminar el partido ante Colombia, ahora se siente fortalecido tras el apoyo de su equipo y su titularidad en el Bayer Leverkusen.
-
-A medida que la temporada avanza, Hincapié sigue siendo un pilar fundamental tanto en su club como en la Selección nacional.
-
-Al menos 17 cierres viales este sábado 23 de noviembre en Quito
-===============================================================
-
-La Ronda Quiteña es el quinto evento parte de las Fiestas de Quito 2024. El desfile recorrerá La Michelena
-----------------------------------------------------------------------------------------------------------
-
-![15 agentes de tránsito están destinados a asistir en el sector.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-23.jpg)
-
-El **Municipio de Quito** continúa con la programación de **fiestas de Quito** en la ciudad. El quinto evento es el desfile de la Ronda Quiteña y para ello se dispusieron algunos **cierres viales**.
-
-### Más noticias
-
-* [Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-del-lunes-25-al-jueves-28-de-noviembre.html "Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre")
-* [Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/estudiantes-municipales-saludo-alcalde-inicio-fiestas-de-quito.html "Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito")
-* [Pregón de fiestas de Quito se desarrolla en la Plaza de San Francisco](https://www.elcomercio.com/actualidad/quito/pregon-fiestas-quito-plaza-san-francisco.html "Pregón de fiestas de Quito se desarrolla en la Plaza de San Francisco")
-
-Cierres viales
---------------
-
-La **Agencia Metropolitana de Tránsito** (AMT) informó sobre el operativo que se desarrollará como apoyo a este evento que reúne a los **moradores de los barrios del sur** de Quito.
-
-El desfile **Ronda Quiteña** recorrerá las calles del barrio **La Michelena.** La AMT dispuso a 15 agentes civiles de tránsito para controlar el flujo vehicular ante los cierres.
-
-Los participantes se reunirán en la calle **Joaquín Tipantuña** y avanzarán por la av. Michelena. Luego tomarán la av. Hugo Teniente Ortiz.
-
-El operativo se ejecutará de 15:00 a 21:30. Para ello, las **siguientes calles estarán cerradas** al tránsito vehicular:
-
-* Av. Cosme Osorio y av. Mariscal Sucre
-* Av. Cosme Osorio y Sgto. Grau
-* Av. Cosme Osorio y Luis Minacho
-* Av. Michelena y av. Mariscal Sucre
-* Av. Michelena y Joaquín Tipantuña
-* Av. Michelena y Sgto. Grau
-* Av. Michelena y Luis Minacho
-* Av. Michelena y Alberto Orellana
-* Av. Michelena y Francisco Coronel
-* Av. Michelena y Gonzalo Cabezas
-* Gonzalo Cabezas y av. Antonio Jaramillo
-* Av. Antonio Jaramillo y av. Tnt. Hugo Ortiz
-* Av. Tnte. Hugo Ortiz y av. Alonso de Angulo
-* Av. Tnte. Hugo Ortiz Francisco Ballesteros
-* Av. Tnte. Hugo Ortiz y Cbo. Luis Iturralde
-* Av. Tnte. Hugo Ortiz y Canelos
-* Av. Tnte. Hugo Ortiz y De Prado
-
-Rutas alternas
---------------
-
-Si necesitas circular por el sector, puedes tomar las siguientes [rutas alternas](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito"):
-
-* Av. Mariscal Sucre
-* Av. Alonso de Angulo
-* Av. Maldonado
-
-Cancillería confirma muerte del diplomático ecuatoriano Edmundo Morales
-=======================================================================
-
-El excónsul de Ecuador fue reportado desaparecido el 1 de noviembre en Newark, Estados Unidos. No se conocen detalles del hallazgo
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Edmundo Morales fue cónsul de Ecuador en Nueva Jersey.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-22-1.jpg)
-
-El **Ministerio de Relaciones Exteriores** de Ecuador compartió una nota de pesar en sus redes sociales ante el **fallecimiento del embajador Edmundo Alfonso Morales Suárez.**
-
-### Más noticias
-
-* [Cancillería se pronuncia sobre ecuatorianos en España ante las inundaciones](https://www.elcomercio.com/actualidad/ecuador/cancilleria-se-pronuncia-ecuatorianos-espana-fuertes-lluvias.html "Cancillería se pronuncia sobre ecuatorianos en España ante las inundaciones")
-* [Daniel Noboa habla de desestabilización, luego de las marchas de la oposición](https://www.elcomercio.com/actualidad/politica/daniel-noboa-desestabilizacion-marchas-oposicion.html "Daniel Noboa habla de desestabilización, luego de las marchas de la oposición")
-* [Agentes de Aduana, implicados en ingreso de 2 millones de dólares; Senae denuncia](https://www.elcomercio.com/actualidad/seguridad/agentes-aduana-implicados-ingreso-2-millones-de-dolares-senae-denuncia.html "Agentes de Aduana, implicados en ingreso de 2 millones de dólares; Senae denuncia")
-
-Fallecimiento del diplomático
------------------------------
-
-La Cancillería expresó su profundo **sentimiento de pesar y solidaridad** a su familia ante el sensible fallecimiento del embajador. Resaltó sus condolencias a la esposa, María Isabel Carneiro Martínez, y a sus hijos.
-
-Además, la institución del Estado **deseó paz en su tumba.** De esta manera, se confirmó el fallecimiento del diplomático ecuatoriano el viernes 22 de noviembre.
-
-Sin embargo, no se ha informado **cuáles fueron las circunstancias d**e la muerte.
-
-> El Ministerio de Relaciones Exteriores y Movilidad Humana expresa su profundo sentimiento de pesar ante el sensible fallecimiento del señor embajador Edmundo Alfonso Morales Suárez. [pic.twitter.com/2opArz91P4](https://t.co/2opArz91P4)
-> 
-> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [November 23, 2024](https://twitter.com/CancilleriaEc/status/1860121182986731568?ref_src=twsrc%5Etfw)
-
-La desaparición del excónsul
-----------------------------
-
-Morales Suárez, quien desempeñó un papel destacado como **excónsul de Ecuador,** fue visto por última vez el pasado viernes **1 de noviembre en la ciudad de Newark**. Se lo vio específicamente cerca de la sede consular en Market Street, donde trabajó durante años.
-
-Las autoridades **localizaron su vehículo** días después en Mulberry Street y Edison Place. En el interior del automóvil estaban su billetera y su teléfono celular, lo que añadió más preguntas al caso. 
-
-Morales Suárez, quien **solicitó su retiro en agosto** tras desempeñarse como cónsul general del Ecuador en Nueva Jersey y Pensilvania entre 2019 y julio de 2024, vestía ese día una camisa de franela azul a cuadros, jeans azules, zapatos marrones y un anillo de bodas de oro. 
-
-La familia proporcionó una **descripción física** y detalló que medía 1,75 metros, pesaba aproximadamente 77 kilos y era fácilmente identificable por su atuendo.
-
-La **Policía de Newark** señaló que Morales había **manifestado inquietudes** a sus familiares antes de su desaparición, lo que encendió las alarmas. Gracias al rastreo de su celular, las autoridades localizaron el vehículo, que permaneció **estacionado durante tres días** en el mismo lugar antes de ser encontrado.
-
-En los días posteriores, el hallazgo de un cadáver en el río Passaic incrementó las especulaciones sobre su posible vínculo con el caso. Sin embargo, hasta el momento, **las autoridades no han confirmado ninguna relación directa, y los resultados de las investigaciones forenses serán clave para esclarecer este misterio.**
-
-La Policía de Roseland, localidad donde residía Morales, trabaja junto al Departamento de Seguridad Pública de Newark revisando **grabaciones de cámaras de seguridad** de la zona en un intento por reconstruir sus [últimos movimientos.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")  
-
-El sabor y la bohemia se juntan en un lugar llamado La Carnicería
-=================================================================
-
-La Carnicería es un restaurante en el que se disfruta de los asados al estilo argentino, Disfrutamos de las mollejas y matambre de cerdo.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Nicolás Jaramillo, chef de La Carnicería, con sus dos matambres: a la pizza y con salsa criolla.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-86.jpg)
-
-Si bien uno va a un **restaurante** por la **comida**, no es menos cierto que siempre será bueno que la **experiencia** trascienda al plato. Hay algo más que se desea en un restaurante para que sea el sitio al que se vuelva irremediablemente. Y eso es precisamente La Carnicería: un lugar en donde se está cómodo, en donde el sabor de la buena comida y la bohemia se juntan y se pueden volver una fiesta.
-
-### Más noticias
-
-* [Chuletas de cerdo a la miel y ajo](https://www.elcomercio.com/sabores/chuletas-cerdo-miel-ajo-receta-sabores.html "Chuletas de cerdo a la miel y ajo")
-* [Ensalada arcoíris con garbanzos y aguacate](https://www.elcomercio.com/sabores/ensalada-arcoiris-garbanzos-aguacate-sabores.html "Ensalada arcoíris con garbanzos y aguacate")
-* [CATS, la buena comida de un restaurante clásico de Quito](https://www.elcomercio.com/videos/sabores-video/cats-restaurante-buena-comida-buen-ambiente.html "CATS, la buena comida de un restaurante clásico de Quito")
-
-La Carnicería, alma argentina en La Mariscal
---------------------------------------------
-
-**La Carnicería** es un lugar ‘**cool**‘. Recoge y conserva **el espíritu de La Mariscal**. Es un lugar que eligen artistas, escritores, músicos, gente con buena onda. Por eso, no ha de extrañar al comensal que a veces **la charla se extienda a otras mesas**. Es como si todos se juntaran a comer un asado, que es la especialidad de la casa.
-
-Está en una casona, que queda en las **calles Diego de Almagro y Wilson**. Tiene la arquitectura propia de la época en que este barrio comenzó a poblarse, alrededor de 1920, cuando las élites quiteñas emigraron del Centro Histórico. Y, sin embargo, tiene algo que le agrega personalidad propia que le hace una isla en La Mariscal.
-
-En su **decoración** predomina el **fileteado porteño**, una técnica de ilustración de líneas en espiral, colores fuertes, letras llamativas, propia de **Buenos Aires**. La decisión de decorar así un restaurante es de Nicolás Jaramillo, el chef y propietario.
-
-Vivió y estudió gastronomía en la capital de Argentina. Eso explica el nombre y el concepto gastronómico de Jaramillo en su restaurante: **la carne a la brasa, el asado**. Tiene **alma argentina:** sazón sencilla porque lo que se busca **destacar es el sabor de la carne**. Aunque claro, hay como agregarles ingredientes, como lo hizo Nicolás con el matambre de cerdo.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-88-1024x683.jpg)
-
-Pero antes del matambre, las mollejas
--------------------------------------
-
-**No hay asado sin una picada previa.** Y para eso, Nicolás ofrece unas **mollejas**, esa glándula que puede ser del corazón o del cuello o, como dicen, el cogote.
-
-No es usual esta ‘achura’ en Ecuador, en donde son más populares las mollejas de pollo. Pero las de res en Argentina son carísimas, casi **gourmet**[.](https://es.wikipedia.org/wiki/Asado "https://es.wikipedia.org/wiki/Asado")
-
-Los preparó de dos formas: **al limón,** que es la manera típica de los argentinos al asarla; y la otra es con **chimichurri**, que no solamente tiene ajo y perejil – eso es más un provenzal-, sino otros ingredientes, como orégano, un toque de pimentón. Cualquiera de los dos funcionan bien**: respetan el sabor de la molleja** y su textura blanda por dentro y con costras ligeramente crocantes por fuera.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-87-1024x683.jpg)
-
-La fiesta de la cocina siempre trae sorpresas
----------------------------------------------
-
-Durante el asado, el chef se emociona y propone: **“¿qué tal si hacemos una picaña?”**. Son las palabras mágicas a las que no se puede negar a un asador.
-
-Solo llevaba sal, como debe ser. Y luego, será el comensal el que decide cómo lo va a comer. En este caso, lo hicimos con en el campo argentino, aunque este corte sea propiamente brasileño. Es decir, un pedazo de la carne con su grasa (fundamental para dar más sabor), sobre un pedazo de pan, y el chimichurri.
-
-El punto ideal: bien cocido por fuera, rojo jugoso por dentro. Una grasa benevolente (hay algunas que se endurecen mucho y le dan una amargura desagradable, pero no fue este el caso).
-
-Y ahora sí: el matambre, la estrella de La Carnicería
------------------------------------------------------
-
-El matambre es uno de los cortes clásicos del cerdo en Argentina. Y nos preparó las dos versiones que tiene en el menú: **matambre a la pizza y a la criolla.**
-
-La primera, como su nombre lo indica, es la que lleva **pomodoro**, elaborado sencillamente con hojas de albahaca. Es la sensación de sentir que el **cerdo puede ser como una masa de pizza,** pero crocante y con ese sabor noble del cerdo.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-89-1024x683.jpg)
-
-Matambre a la pizza.
-
-El otro es aún más argentino, porque está hecho con salsa criolla. Esta tiene cebolla perla, tomate, pimiento verde, rojo, amarillo, aceite, vinagre y sal. **El sabor de esta salsa oscila fácilmente entre lo dulce y lo ácido,** que potencia el sabor del matambre. Es un lujo de plato por el que vale, también como con las otras preparaciones, volver siempre a La Carnicería.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-90-1024x683.jpg)
-
-Matambre con salsa criolla, un lujo de sabor.
-
-Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester
-==================================================================
-
-Moisés Caicedo fue figura ante Leicester. Los 'Blues' del Chelsea siguen firmes en la tabla de posiciones.
-----------------------------------------------------------------------------------------------------------
-
-![El ecuatoriano Moisés Caicedo fue titular en el Chelsea ante Leicester en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/11/chelseac.jpg)
-
-El **Chelsea** continúa mostrando una notable mejora bajo la dirección de **Enzo Maresca**, y el ecuatoriano **Moisés Caicedo** sigue consolidándose como pieza clave en el medio campo.
-
-El equipo, que ha visto un crecimiento colectivo con la presencia de figuras como Enzo Fernández, Nicolás Jackson y Cole Palmer, celebró una victoria más en la **Premier League**, esta vez ante Leicester City este 23 de noviembre del 2024.
-
-Más noticias:
-
-* [El Chelsea festejó la paternidad Moisés Caicedo](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-festejo-nacimiento-hija.html "El Chelsea festejó la paternidad Moisés Caicedo")
-* [(Video) Moisés Caicedo silenció a una leyenda de Colombia](https://www.elcomercio.com/deportes/futbol/moises-caicedo-silencio-leyenda-colombia-faustino-asprilla.html "(Video) Moisés Caicedo silenció a una leyenda de Colombia")
-* [Moisés Caicedo envía aliento tras vencer con la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-moises-caicedo-mensaje-aliento.html "Moisés Caicedo envía aliento tras vencer con la Selección de Ecuador")
-
-En el duelo, los ‘Blues’ se impusieron por 1-2, gracias a un golazo de Nicolás Jackson a los 15 minutos de juego y otro de Enzo Fernández a los 75′.
-
-El descuento de los locales llegó a los 90 + 5 de penal. Lo hizo Jordan Ayew.
-
-Con este resultado, el Chelsea alcanzó los 22 puntos en 12 partidos y sigue tercero en la lucha por los primeros lugares de la liga, que sigue siendo dominada por [Liverpool](https://es.wikipedia.org/wiki/Liverpool_Football_Club) con 28 puntos en 11 encuentros.
-
-Moisés Caicedo volvió a ser determinante al recuperar balones para su club. El balón pasó permanentemente por los pies del ecuatoriano, lo que demuestra la confianza de su equipo en él.
-
-Con ese nuevo triunfo, los seguidores del Chelsea se ilusionan en la Premier League.
-
-### Moisés Caicedo papá
-
-El partido contra Leicester City fue aún más especial para Moisés Caicedo, quien celebró en su entorno personal el nacimiento de su hija.
-
-El 19 de noviembre, mientras Ecuador hacía historia al vencer a Colombia en eliminatorias, el futbolista fue padre. Tras el partido, Caicedo se unió rápidamente a su familia para recibir a su primogénita.
-
-El Chelsea, al enterarse de la noticia, no tardó en unirse a la celebración. Durante un entrenamiento posterior, el equipo y cuerpo técnico realizaron un emotivo gesto: formaron una “calle de honor” para felicitar al volante ecuatoriano por su nuevo rol como padre.
-
-En las imágenes se pudo ver cómo Caicedo disfrutaba de este momento tan especial junto con sus compañeros.
-
-Luego de eso, este sábado 23 de noviembre el Chelsea visitó al Leicester y logró un triunfo para mantener su buena racha. Caicedo sigue siendo uno de los jugadores más destacados de la temporada, tanto dentro como fuera del campo.
-
-Cortes de luz en Guayaquil del lunes 25 al jueves 28 de noviembre
-=================================================================
-
-El cronograma de cortes de luz para Guayaquil contempla cinco y siete horas de reducción del servicio eléctrico. Este se aplica en dos franjas
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Guayaquil tendrá cortes de luz de cinco y siete horas.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-21-2.jpg)
-
-El **Ministerio de Energía y Minas** informó sobre las condiciones hidrológicas presentes en Ecuador y compartió los nuevos **horarios de cortes de luz** hasta el jueves 28 de noviembre.
-
-### Más noticias
-
-* [Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-del-lunes-25-al-jueves-28-de-noviembre.html "Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre")
-* [Cortes de luz reducidos en Ecuador del lunes 25 al jueves 28 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-reducidos-ecuador-lunes-25-a-jueves-28-de-noviembre.html "Cortes de luz reducidos en Ecuador del lunes 25 al jueves 28 de noviembre")
-* [Cortes de luz en Guayaquil este sábado 23 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-23-noviembre.html "Cortes de luz en Guayaquil este sábado 23 de noviembre")
-
-Mejora en las condiciones hidrológicas
---------------------------------------
-
-La **Cartera de Energía** compartió un comunicado la noche del viernes 22 de noviembre par informar sobre el estado de los caudales que alimentan las hidroeléctricas.
-
-El comunicado señala que, tras el constante monitoreo de las **condiciones hidrológicas**, se ha visto un incremento en el nivel de esos caudales.
-
-En ese contexto los **cronogramas de suspensión del servicio eléctrico** para el período entre el lunes 25 y el jueves 28 de noviembre se ajustarán con una reducción.
-
-Los nuevos horarios contemplan racionamientos de **entre seis y siete horas** a escala nacional.
-
-Este sábado, 23 de noviembre de 2024, **se cumplen dos meses de cortes de luz p**rogramados en Ecuador.
-
-La crisis energética se provocó por un déficit de 1 080 megavatios (MW) y una de las peores sequías en la historia del país. Y no tiene una fecha exacta de solución.
-
-Sin embargo, el **presidente Daniel Noboa** aseguró que los apagones finalizarán en diciembre.
-
-Cortes de luz en Guayaquil
---------------------------
-
-La empresa distribuidora de energía CNEL publicó la **programación de cortes de luz** para el viernes 22, sábado 23 y domingo 24 de noviembre de 2024.
-
-Los horarios en Guayaquil se aplicarán por cinco y siete horas, distribuidas en **dos franjas horarias de cuatro y tres horas** para cada bloque de barrios afectados.
-
-El sector industrial, en cambio, mantendrá una **suspensión del servicio** de solamente cuatro horas continuas.
-
-Los comentarios de los usuarios no se hicieron esperar y se pueden leer **varias quejas** en las redes sociales. La mayoría de personas reclama que **no existe una rotación en los horarios** establecidos a lo largo de las semanas.
-
-Piden que se haga una **rotación entre los sectores y la aplicación** de los cortes a lo largo del día. Algunos usuarios se quejan de la suspensión de energía en las madrugadas debido a la delincuencia y otros, que no pueden trabajar en sus negocios.
-
-Aquí puede revisar el [**cronograma completo**](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") de los tres días:
-
-¿A qué hora juegan Racing y Cruzeiro la final de Copa Sudamericana?
-===================================================================
-
-Racing de Avellaneda se medirá ante Cruzeiro en la final de la Copa Sudamericana durante el 22 de noviembre del 2024.
----------------------------------------------------------------------------------------------------------------------
-
-![Cruzeiro y Racing se enfrentarán en la final de la Copa Sudamericana.](https://www.elcomercio.com/wp-content/uploads/2024/11/ca99f8f6181d8fd5e0e8cc28606a217fd9b86d6b.jpg)
-
-Dos grandes del fútbol, **Racing** de Argentina y **Cruzeiro** de Brasil buscarán este sábado en Asunción su primera Copa Sudamericana, un trofeo que ha sido esquivo para estos viejos rivales en torneos continentales y que llegan a la final de la mano de estrellas como el colombiano **Juan Fernando Quintero** y la promesa brasileña **Kaio Jorge**.
-
-En el estadio General Pablo Rojas, “La Nueva Olla”, está pautado el duelo que definirá al **campeón 2024**, que se llevará un premio de seis millones de dólares, mientras el perdedor deberá conformarse con dos millones de dólares.
-
-### Más noticias:
-
-* [Racing o Cruzeiro relevarán del trono a Liga de Quito en la Sudamericana](https://www.elcomercio.com/deportes/futbol/liga-quito-sudamericana-racing-cruzeiro.html "Racing o Cruzeiro relevarán del trono a Liga de Quito en la Sudamericana")
-* [Racing clasificó a una final sudamericana luego de 32 años](https://www.elcomercio.com/deportes/futbol/racing-final-copa-sudamericana-paraguay.html "Racing clasificó a una final sudamericana luego de 32 años")
-* [Incautan 44 mil dosis de cocaína antes de la final de la Sudamericana](https://www.elcomercio.com/deportes/futbol/incautan-dosis-cocaina-final-sudamericana.html "Incautan 44 mil dosis de cocaína antes de la final de la Sudamericana")
-
-Las cuentas en cuanto a finales **protagonizadas** por ambos conjuntos están en tablas, con un triunfo por cada lado.
-
-Racing conquistó en 1988 la primera edición de la ya extinta **Supercopa Sudamericana** ante Cruzeiro, que tomó revancha y en 1992 se llevó la copa a casa.
-
-Desde ese año el **conjunto celeste y blanco** no alcanzaba una instancia definitiva de un torneo internacional.
-
-Las estadísticas globales inclinan la balanza a favor de los brasileños que en **11 choques internacionales**, de los cuales cinco han sido victorias para el Cruzeiro frente a cuatro de los argentinos. Los números incluyen dos empates.
-
-El sueño de un hincha devenido en entrenador de Racing
-------------------------------------------------------
-
-El conjunto de Avellaneda llegará a la final sin levantar una copa desde 1988, año en el que conquistó la **Supercopa** y la  **Interamericana** ante Herediano de Costa Rica. La ‘Academia’ estará bajo las órdenes del técnico Gustavo Costas, un hincha del equipo y quien militó como futbolista.
-
-Vistiendo los colores de **Racing**, Costas obtuvo en 1988 el último título internacional del club. Este sábado, intentará repetir esa hazaña desde el banquillo. Tiene como fichas fuertes al colombiano Juan Fernando Quintero, el experimentado cuidavallas **Gabriel Arias y Adrián ‘Maravilla’ Martínez** como goleador.
-
-**Racing** avanzó a la final de la Sudamericana primero de su llave en la fase de grupos y tras superar en las etapas siguientes al **Huachipato** de Chile y a los brasileños **Athletico Paranaense y Corinthians**, respectivamente.
-
-De quedarse con la **Sudamericana**, se sumaría a las Copa Aldao (1917 y 1918), de Honor Cusenier (1913), Libertadores e Intercontinental (1967) y Supercopa Sudamericana (1988) que ostenta El primer grande.
-
-Cruzeiro, por un resurgimiento
-------------------------------
-
-Con el pase corto y el dominio del juego como sello característico del estilo de su técnico, **Fernando Diniz**, Cruzeiro saldrá por su octavo título internacional que tendría sabor a recompensa para un equipo que ha sabido sobreponerse a altibajos deportivos y económicos.
-
-De la mano de Diniz, la escuadra de Belo Horizonte buscará seguir la senda marcada por su entrenador, quien consiguió en 2023 la **Copa Libertadores** como timonel del **Fluminense**.
-
-El delantero **Kaio Jorge**, de 22 años, es una de las cartas de presentación de los brasileños, con cuya camiseta marcó cuatro de los cinco goles del equipo en cuartos y semifinales. Kaio dejó así atrás su mala experiencia europea[.](https://es.wikipedia.org/wiki/Racing_Club "https://es.wikipedia.org/wiki/Racing_Club")
-
-También destacan en la alineación de Cruzeiro, que fue vendido este año por Ronaldo Luiz Nazário de Lima a un empresario local, el atacante Gabriel Verón y los defensas  argentinos Lucas Villalba y Lucas Romero.
-
-La ‘Bestia Negra’, equipo respaldado por una de **las hinchadas más numerosas de Brasil**, ostenta dos títulos en la Copa Libertadores (1976 y 199), dos en la Supercopa Sudamericana (1991 y 1992), uno en la Recopa Sudamericana (1998), uno en la Copa Oro Nicolás Leoz (1995) y uno más en la Copa Master de Supercopa (1994).
-
-Posibles alineaciones de Racing vs. Cruzeiro en la Copa Sudamericanas
----------------------------------------------------------------------
-
-**Racing**: Gabriel Arias; Gastón Martirena,  Agustín García Basso, Gabriel Rojas, Marco Di Césare, Agustín Almendra, Santiago Sosa, Juan Ignacio Nardoni, Juan Fernando Quintero, Maximiliano Salas y Adrián Martínez.
-
-**Cruzeiro**: Cássio; João Marcelo, William, Lucas Villalba, Marlon, Lucas Romero, Lucas Silva, Gabriel Verón, Matheus Pereira, Matheus Henrique y Kaio Jorge.
-
-Horario de la final de la Copa Sudamericana
--------------------------------------------
-
-**Partido**: Racing vs. Cruzeiro.
-
-**Fecha**: sábado 23 de noviembre del 2024.
-
-**Hora**: 15:00.
-
-**Estadio**: General Pablo Rojas, “La Nueva Olla”, con capacidad para 45.000 espectadores.
-
-¿Dónde ver?
------------
-
-El partido se podrá ver en Ecuador por Disney +.
-
-Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre
-=============================================================
-
-El cronograma de cortes de luz para Quito contempla seis horas de reducción del servicio eléctrico. Este se aplica en dos franjas
----------------------------------------------------------------------------------------------------------------------------------
-
-![La Empresa Eléctrica Quito informó los horarios de cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-20-1.jpg)
-
-El **Ministerio de Energía y Minas** informó sobre las condiciones hidrológicas presentes en Ecuador y compartió los nuevos **horarios de cortes de luz** hasta el jueves 28 de noviembre.
-
-### Más noticias
-
-* [Cortes de luz reducidos en Ecuador del lunes 25 al jueves 28 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-reducidos-ecuador-lunes-25-a-jueves-28-de-noviembre.html "Cortes de luz reducidos en Ecuador del lunes 25 al jueves 28 de noviembre")
-* [Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?](https://www.elcomercio.com/actualidad/negocios/ecuador-lleva-60-dias-cortes-luz-esta-cerca-salir-crisis.html "Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?")
-* [Cortes de luz en Quito para este sábado 23 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-sabado-23-de-noviembre.html "Cortes de luz en Quito para este sábado 23 de noviembre")
-
-Mejora en las condiciones hidrológicas
---------------------------------------
-
-La **Cartera de Energía** compartió un comunicado la noche del viernes 22 de noviembre par informar sobre el estado de los caudales que alimentan las hidroeléctricas.
-
-El comunicado señala que, tras el constante monitoreo de las **condiciones hidrológicas**, se ha visto un incremento en el nivel de esos caudales.
-
-En ese contexto los **cronogramas de suspensión del servicio eléctrico** para el período entre el lunes 25 y el jueves 28 de noviembre se ajustarán con una reducción.
-
-Los nuevos horarios contemplan racionamientos de **entre seis y siete horas** a escala nacional.
-
-Este sábado, 23 de noviembre de 2024, **se cumplen dos meses de cortes de luz p**rogramados en Ecuador.
-
-La crisis energética se provocó por un déficit de 1 080 megavatios (MW) y una de las peores sequías en la historia del país. Y no tiene una fecha exacta de solución.
-
-Sin embargo, el **presidente Daniel Noboa** aseguró que los apagones finalizarán en diciembre.
-
-Horarios de cortes de luz en Quito
-----------------------------------
-
-La Empresa Eléctrica Quito publicó la **programación de cortes de luz** para el lunes 25, martes 26, miércoles 27 y jueves 28 de noviembre de 2024.
-
-Estos horarios contemplan seis horas, distribuidas en **dos franjas horarias de tres horas** para cada bloque de barrios afectados.
-
-En cambio, el sector industrial, mantendrá una **suspensión del servicio e**n un horario de siete horas continuas.
-
-Aquí puede revisar el **[cronograma completo](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")** de los cuatro días:
-
-Cortes de luz reducidos en Ecuador del lunes 25 al jueves 28 de noviembre
-=========================================================================
-
-El Ministerio de Energía informó que la condición de los caudales que alimentan las hidroeléctricas permite una reducción en los horarios
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Ecuador lleva 60 días con cortes de luz diarios.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-19-2.jpg)
-
-El **Ministerio de Energía y Minas** informó sobre las condiciones hidrológicas presentes en Ecuador y compartió los nuevos **horarios de cortes de luz** hasta el jueves 28 de noviembre.
-
-### Más noticias
-
-* [Ministerio de Energía suspende cortes de luz en varios sectores de Quito este viernes](https://www.elcomercio.com/actualidad/quito/sectores-suspension-cortes-luz-quito.html "Ministerio de Energía suspende cortes de luz en varios sectores de Quito este viernes")
-* [Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?](https://www.elcomercio.com/actualidad/negocios/ecuador-lleva-60-dias-cortes-luz-esta-cerca-salir-crisis.html "Ecuador lleva 60 días con cortes de luz, ¿está cerca de salir de la crisis?")
-* [Cortes de luz en Quito para este sábado 23 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-sabado-23-de-noviembre.html "Cortes de luz en Quito para este sábado 23 de noviembre")
-
-Mejora en las condiciones hidrológicas
---------------------------------------
-
-La **Cartera de Energía** compartió un comunicado la noche del viernes 22 de noviembre par informar sobre el estado de los caudales que alimentan las hidroeléctricas.
-
-El comunicado señala que, tras el constante monitoreo de las **condiciones hidrológicas**, se ha visto un incremento en el nivel de esos caudales.
-
-En ese contexto los **cronogramas de suspensión del servicio eléctrico** para el período entre el lunes 25 y el jueves 28 de noviembre se ajustarán con una reducción.
-
-Los nuevos horarios contemplan racionamientos de **entre seis y siete horas** a escala nacional.
-
-Ecuador cumple hoy 60 días con apagones
----------------------------------------
-
-Este sábado, 23 de noviembre de 2024, **se cumplen dos meses de cortes de luz p**rogramados en Ecuador.
-
-La crisis energética, provocada por un déficit de 1 080 megavatios (MW) y una de las peores sequías en la historia del país, afecta todos los aspectos de la vida diaria de los ecuatorianos. Y no tiene una fecha exacta de solución.
-
-Sin embargo, el presidente Daniel Noboa aseguró que los apagones finalizarán en diciembre.
-
-Horarios de cortes de luz en Ecuador
-------------------------------------
-
-Las nueve distribuidoras de energía en [Ecuador](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") publicaron los horarios de cortes de luz de sus unidades de negocio este sábado 23 de noviembre. Los racionamientos comtemplan entre seis y siete horas de apagones.
-
-[Aquí puede revisar los horarios de cortes de luz](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/ "https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/") según su provincia y ciudad.
-
-> 📍¡IMPORTANTE!  
->   
-> Informamos sobre los horarios de suspensión del servicio de energía eléctrica para el periodo comprendido desde el lunes 25 hasta el jueves 28 de noviembre a escala nacional.  
->   
-> 🔸Programación➡️ [https://t.co/4YfPN33hy5](https://t.co/4YfPN33hy5) [pic.twitter.com/cBqtGcnLY9](https://t.co/cBqtGcnLY9)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 23, 2024](https://twitter.com/RecNaturalesEC/status/1860295016909824114?ref_src=twsrc%5Etfw)
-
-Los políticos han renunciado a gobernar
-=======================================
-
-Ecuador enfrenta miedo, crisis política y dominio económico sobre las instituciones.
-------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-Desde hace tiempo se viene repitiendo que **Ecuador** es un país ingobernable, que los **ecuatorianos** somos conflictivos. Sin embargo, los **ecuatorianos** que viven en el exterior son calificados como gente pacífica, trabajadora, responsable y disciplinada. Los culpables no son los **gobernados**, sino los **políticos** que nos gobiernan; más bien, que han dejado de gobernar.
-
-Estamos sufriendo una etapa de miedo y sobresalto, no sabemos qué puede pasarnos en el **futuro inmediato**, no tenemos energía eléctrica, no tenemos **seguridad**, no sabemos si conservaremos el empleo. Lo que creíamos seguro se esfuma. Cuando el miedo se generaliza, los **electores** buscan un hombre fuerte, alguien que se muestre seguro y prometa milagros.
-
-Los favoritos son dos autoritarismos: Correísmo  y Noboísmo. La **política** ya no persigue el bien común, persigue intereses, cobra venganzas, atropella la **Constitución** y las leyes, inutiliza al **parlamento** y pastorea la justicia.
-
-Nada de eso es gobierno, es un juego de simulaciones que Zygmunt Bauman resume así: “Los políticos fingen gobernar, mientras que quienes ostentan el **poder económico** fingen ser gobernados. Para mantener las formas, la gente se acerca a regañadientes a los **colegios electorales** cada pocos años, simulando ser **ciudadanos**”.
-
-El pleito de Telconex, tal vez, está demostrando que los poderosos del **país** han decidido prescindir de los **políticos** y dejar de simular que son gobernados. En el **Consejo Nacional Electoral** están imponiendo, al margen de toda ley y toda lógica democrática, a unos vocales perennizados mediante vallas y policías. Quien les da **seguridad** les dará luego **instrucciones**.
-
-Los **electores** somos arrinconados a decidir entre dos bandos con claras **tendencias autoritarias**. Para una parte de los **electores** el peor temor es volver al pasado de **autoritarismo** y **corrupción** y para otra parte la peor opción es entregar el futuro a otro **autoritarismo**. Desde que perdimos a los partidos, perdimos a los **políticos** y a la **Política**.
-
-En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes
-========================================================================================
-
-El mercado laboral es clave para una transición verde en lo económico, social y ambiental.
-------------------------------------------------------------------------------------------
-
-![Un empleo verde reduce el impacto ambiental de empresas y sectores económicos hasta alcanzar niveles sostenibles. Foto:](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-55-1.jpg)
-
-Frente a las crisis que afronta Ecuador y el planeta hablar de transición verde o ecológica en lo económico, social y ambiental no es opcional. La Organización Internacional del Trabajo (OIT) resume así: sin producción más responsable con el ambiente no habrá un mejor futuro para los trabajadores y comunidades. Y, sin empleos decentes, no habrá sociedades y producción sostenibles.
-
-Más noticias
-------------
-
-* [La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica](https://www.elcomercio.com/actualidad/negocios/la-morosidad-sigue-en-aumento-en-ecuador-debido-al-desempleo-y-la-crisis-economica.html "La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica")
-* [Estas son las cifras del empleo adecuado en Ecuador](https://www.elcomercio.com/actualidad/negocios/cifras-empleo-adecuado-ecuador.html "Estas son las cifras del empleo adecuado en Ecuador")
-
-El mercado laboral es clave para avanzar en esta transición verde, de formas múltiples y transversales. Entre las variables están la salud de los trabajadores, la evolución de las profesiones, la formación, la reconversión profesional, las relaciones laborales, la inclusión social. Tomando en cuenta este antecedente es importante entender el concepto que engloba un empleo verde.
-
-¿Qué es un empleo verde?
-------------------------
-
-Un empleo verde reduce el impacto ambiental de empresas y sectores económicos hasta alcanzar niveles sostenibles. Ayuda a reducir el consumo de energía, materias primas y agua con estrategias eficientes. 
-
-Según la OIT, también descarboniza la economía y baja las emisiones de CO2. Disminuye todas las formas de desechos y de contaminación; protege y restablece los ecosistemas y su biodiversidad. 
-
-Pero no todos estos trabajos conocidos mundialmente como ‘green jobs’ pueden considerarse decentes. Es decir, que ofrezcan salarios y protección social adecuados, condiciones laborales seguras y se respeten los derechos de los trabajadores. Un ejemplo de esto es el empleo informal del reciclado donde se recuperan materias primas, pero el proceso suele ser peligroso y afecta al medioambiente y a la salud. Y, esto, a su vez, se refleja en ingresos económicos bajos.
-
-**¿Qué es un trabajo verde y decente?** 
-----------------------------------------
-
-El precio que la sociedad paga por las consecuencias de la contaminación o la mala salud debe reflejarse en los costos pagados en el mercado, enfatiza la OIT. Por esto, los empleos verdes deben ser decentes. 
-
-Para la OIT, se entiende por trabajo decente el que ofrece “oportunidades para que los hombres y mujeres puedan conseguir un trabajo decente y productivo en condiciones de libertad, equidad, seguridad y dignidad humana. Resume las aspiraciones de las personas en su vida laboral en cuanto a ingresos, voz, reconocimiento, estabilidad familiar, desarrollo personal, justicia e igualdad de género”.
-
-Tomando en cuenta estos dos conceptos, los empleos verdes se perfilan para hacer frente a dos desafíos determinantes que afronta el planeta: 
-
-1. Evitar un cambio climático peligroso y potencialmente inmanejable con la protección del ambiente. 
-2. Ofrecer trabajo decente, que permita bajar la pobreza y la inseguridad 
-
-**¿Por qué hablar de empleos verdes?** 
----------------------------------------
-
-La actual crisis energética y de agua que se vive en Ecuador pone en evidencia la fragilidad de los recursos naturales. Los empleos verdes, que promueven prácticas sostenibles y el uso eficiente de los recursos, son parte de la solución. Al apostar, por ejemplo, por más energías renovables como la solar, eólica o geotérmica y gestionar el agua de manera más eficiente se generarían oportunidades laborales mientras se protege el medio ambiente.
-
-La escasez de agua y los cortes en el suministro energético están estrechamente relacionadas con el estiaje. Y frente a esto promover empleos verdes ayudaría a mitigar el impacto, por ejemplo, con industrias enfocadas a reducir sus emisiones de carbono, a través de la generación de energía limpia. Agricultura sostenible, reforestación, protección de las cuencas hidrográficas y una serie de soluciones basadas en la naturaleza ahora son transversales al ambiente y al desarrollo de una economía verde.
-
-¿Cómo avanza el Ecuador en empleo verde?
-----------------------------------------
-
-El Ministerio del Trabajo con apoyo del Banco Interamericano de Desarrollo (BID) lleva adelante la estrategia ‘Empleos Verdes’. El objetivo es apoyar la recuperación de empleos verdes y resilientes con enfoque de género. Para esto se trabaja en la mejora de las capacidades del Ministerio y el fortalecimiento del servicio público de empleo.
-
-Tras un estudio se identificaron tres sectores potenciales para crear trabajos verdes, en el contexto de la recuperación económica sostenible con inclusión social. Estos son: **energía, transporte y agricultura**.
-
-Con esa línea, el 4 de marzo de 2022, esta cartera de Estado emitió la resolución MDT-2022-024, en la que dispone la ejecución de dos lineamientos para:
-
-* Incorporar una oferta de capacitación híbrida en empleos verdes para el desarrollo de habilidades
-* Un nuevo modelo de empleo verde para brindar más oportunidades a grupos de atención prioritaria
-
-Como parte del primer lineamiento, este ministerio explica que capacitaron con enfoque verde a 44 pequeños productores de banano en cultivo de ciclo perenne. 36 personas se certificaron por competencias. Otras 96 personas de albañilería, en cambio, se certificaron en proyectos hídricos del sector de la construcción.
-
-Ambas certificaciones están disponibles para que la ciudadanía se evalúe y certifique, a través de los evaluadores habilitados a escala nacional, como el Secap.
-
-Respecto al segundo lineamiento, en la [plataforma del Servicio Público de Empleo](https://www.serviciodeempleo.gov.co/inicio) (SPE) se implementaron [opciones que permiten a los empleadores](https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/empVerde/index.jsf "https://encuentraempleo.trabajo.gob.ec/socioEmpleo-war/paginas/empVerde/index.jsf") publicar ofertas laborales para empleos verdes, y filtros para que la ciudadanía busque y se vincule a estas oportunidades.
-
-¿Qué resultados tiene este nuevo modelo de empleo verde?
---------------------------------------------------------
-
-Para calcular el nivel de empleo verde en las vacantes publicadas en la plataforma del Servicio Público de Empleo y las colocaciones logradas, durante el 2023 se tomó en cuenta la clasificación de ocupaciones, según su grado de greening (nivel de transición hacia un crecimiento verde o amigable con el medio ambiente de cada ocupación). Y, por otra parte, se adoptó una metodología aceptada internacionalmente para determinar puestos de trabajo que se clasifiquen como verdes.
-
-El análisis reveló que de **125 011 vacantes** publicadas en la plataforma del SPE y asimismo de las **73 493** contrataciones logradas, el 97,5% pudieron ser clasificadas, según su nivel de greening.
-
-Adicionalmente, tras una limpieza de la base de datos y la aplicación de la metodología se calculó cuántas de las 73 493 colocaciones exitosas corresponden a empleos verdes. El resultado fue que 12 001 trabajos son considerados como verdes. Esto representa el 16,3%.
-
-  
-
-Cartas a Quito / 23 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este sábado 23 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Exigencias de poner fin a la crisis energética
-----------------------------------------------
-
- Siempre he tenido la impresión que muchos de los movimientos sociales se han manejado por personas con poca o ninguna capacidad de análisis. Por suerte no son todos.   
-
-Las movilizaciones, bajo la consigna de exigir el poner fin a la crisis energética, es realmente un despropósito: demuestran nada más y nada menos que una falta brutal de razonamiento. Para cualquier mente, medianamente razonable, es obvio que o no entienden, o lo ignoran a propósito, que una crisis de esta naturaleza no se resuelve con exigencias, ni con gritos, ni con vandalismos.   
-
-Es mucho más que evidente que las intenciones no son resolver el problema existente, si no, el crear caos, el buscar protagonismo.   
-
-Aquí no se trata de buscar soluciones milagrosas, eso solamente lo hacen los dogmáticos, los ignorantes. O los que tengan una finalidad política definida, ya sea propia o inducida por financiamientos oscuros.  
-
-A nuestro País le hace falta, desde hace mucho tiempo, que la gente que sepa, que conozca no solamente la problemática sino que tenga los conocimientos técnicos necesarios, no como aquellos que se jactaron de saber del tema y construyeron la central Coca Codo Sinclair en la misma vertiente que se encuentran las otras grandes centrales y ponerla a merced exactamente de la misma contingencia. Es cierto también que, una solución a este tipo de problemas no se logra en corto tiempo, este tipo de soluciones deben ser previstas por verdaderos estadistas y verdaderos técnicos.   
-
-Las protestas que se realizan, las amenazas como las del señor Iza, no son más que manifestaciones de orden político que no llevan la intención de resolver el problema, sino de manipular la ignorancia.   
-
-Pensemos de una vez por todas que es necesario que todos nos involucremos en buscar y proponer soluciones: academia, gremios profesionales, organizaciones civiles, que los políticos dejen de lado sus apetencias grupales o personales y antepongan el bien del ciudadano común, que dejen de exacerbar el sentimiento popular con falsas proclamas vocingleras, que lo único que así consiguen es que los problemas permanezcan y de esa manera prometer soluciones que nunca cumplirán. 
-
-José M. Jalil Haas 
-
-Deliciosa torta de tres leches para endulzar tu día
-===================================================
-
-Un postre clásico que deleitará a todos con su sabor y textura irresistible. ¡Comparte esta receta con tus amigos!
-------------------------------------------------------------------------------------------------------------------
-
-![¡No te pierdas la experiencia de saborear la combinación perfecta de esponjosidad y cremosidad!](https://www.elcomercio.com/wp-content/uploads/2024/11/1-2.jpg)
-
-La **torta de tres** leches es un **postre** emblemático de la **gastronomía** latinoamericana, conocido por su **textura húmeda** y su dulzura equilibrada. Este delicioso **pastel** se elabora con tres tipos de leche: leche condensada, leche evaporada y crema de leche, lo que le confiere su nombre y su singular sabor. La historia de este **postre** se remonta a las **tradiciones** **culinarias** de varios países de América Latina, donde ha sido un favorito en celebraciones y reuniones familiares.
-
-Historia de la torta de tres leches
------------------------------------
-
-Se dice que la **torta de tres leches** tiene sus raíces en **México**, aunque también es popular en otros países como Nicaragua, Guatemala y El Salvador. Su popularidad ha crecido a lo largo de los años, convirtiéndose en un símbolo de la **repostería** en muchas **culturas**. Este postre no solo es un **deleite** para el **paladar**, sino que también representa **la fusión de ingredientes** simples que se convierten en una experiencia culinaria excepcional. La clave para lograr una **torta de tres leches** perfecta radica en el **bizcocho esponjoso** que absorbe la mezcla de leches. Este **proceso** de **impregnación** permite que cada bocado sea una explosión de sabor y suavidad. Además, la **cobertura** de **merengue** o **crema** **batida** añade un toque final que complementa la dulzura del **pastel**.
-
-Ingredientes
-------------
-
-4 huevos
-
-1 taza (200 g) de azúcar
-
-1 taza (140 g) de harina
-
-1 cucharadita de esencia de vainilla
-
-1 pizca de sal
-
-1 lata (397 g) de leche condensada
-
-1 lata (355 ml) de leche evaporada
-
-1 taza (250 ml) de leche entera
-
-3 claras de huevo
-
-1 taza (200 g) de azúcar
-
-1 cucharadita de esencia de vainilla
-
-* * *
-
-> Disfruta el postre de tres leches bien frío para resaltar su textura suave y su delicioso sabor cremoso.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/3-2-1024x538.jpg)
-
-Dulzura y suavidad única del postre de tres leches, un clásico que encanta a todos.
-
-Preparación de la torta de tres leches
---------------------------------------
-
- **Para el bizcocho**
-
-* **Precalentar** el horno a 180 °C (350 °F).
-* **Separar** las claras y las yemas de los huevos.
-* **Batir** las claras a punto de nieve en un bol grande. Agregar poco a poco el azúcar hasta obtener una mezcla brillante.
-* En otro bol, **batir** las yemas con la esencia de vainilla y una pizca de sal. Incorporar las claras batidas suavemente.
-* **Agregar** la harina tamizada con movimientos envolventes hasta que esté bien integrada.
-* **Verter** la mezcla en un molde previamente engrasado y hornear durante 25-30 minutos o hasta que al insertar un palillo salga limpio.
-
-**Preparar la mezcla de tres leches**
-
-* En un bol grande, **combinar** la leche condensada, la leche evaporada y la leche entera. **Mezclar** bien hasta obtener una consistencia homogénea.
-
-**Montar el merengue**
-
-* **Batir** las claras a punto de nieve nuevamente. **Agregar** el azúcar poco a poco mientras sigues batiendo hasta obtener picos firmes.
-* **Incorporar** la esencia de vainilla al merengue.
-
-**Montaje del pastel**
-
-* Una vez que el **bizcocho** esté frío, pinchar toda la superficie con un tenedor o palillo para permitir que la **mezcla** se absorba.
-* Verter lentamente la mezcla de **tres leches** sobre el bizcocho, asegurándote de cubrirlo completamente.
-* **Dejar** reposar en el **refrigerador** durante al menos 2 horas (preferiblemente toda la noche) para que absorba bien las leches.
-
-**Decorar**
-
-* **Cubrir** el pastel con el **merengue** utilizando una espátula o una manga pastelera para darle forma.
-* Puedes **decorar** con frutas frescas o chocolate rallado al gusto.
-
-La **receta de la torna de tres leches** es perfecta para cualquier ocasión, ya sea un cumpleaños, una celebración familiar o simplemente para disfrutar en casa. Su **sabor dulce** y su textura suave harán que todos quieran repetir. ¡Anímate a prepararla y sorprende a tus seres queridos con este clásico postre latinoamericano!
-
-Suspensión de Verónica Abad a consulta de la Corte Constitucional
-=================================================================
-
-La Corte Constitucional deberá pronunciarse sobre la suspensión de la vicepresidenta Verónica Abad.
----------------------------------------------------------------------------------------------------
-
-![La Corte Constitucional deberá pronunciarse sobre la suspensión de la vicepresidenta Verónica Abad.](https://www.elcomercio.com/wp-content/uploads/2024/11/veronica-abad-corte-constitucional.jpg)
-
-La **suspensión** por 150 días de la vicepresidenta **Verónica Abad** fue elevada a consulta de la **Corte Constitucional.**
-
-Verónica Abad fue suspendida vía **sumario administrativo** del Ministerio de Trabajo.
-
-### Más noticias:
-
-* [Verónica Abad ya está en Ecuador y llegó para ‘dar la cara’ a Daniel Noboa](https://www.elcomercio.com/actualidad/politica/veronica-abad-ya-esta-en-ecuador-y-llego-para-dar-la-cara-a-daniel-noboa.html "Verónica Abad ya está en Ecuador y llegó para ‘dar la cara’ a Daniel Noboa")
-* [Asamblea rechazó sumario administrativo a Verónica Abad, ¿qué impacto tiene?](https://www.elcomercio.com/actualidad/politica/asamblea-rechazo-sumario-administrativo-veronica-abad-impacto.html "Asamblea rechazó sumario administrativo a Verónica Abad, ¿qué impacto tiene?")
-
-Corte Constitucional debe pronunciarse sobre suspensión de Verónica Abad
-------------------------------------------------------------------------
-
-El 8 de noviembre, el **Ministerio de Trabajo** decidió suspender a la vicepresidenta Verónica Abad por “abandono injustificado del trabajo por tres o más días laborales”.
-
-Antes, la Vicepresidenta suspendida presentó una acción de protección contra el inicio del **sumario administrativo.**
-
-La jueza **Gloria Mayorga** negó esta acción de protección en primera instancia.
-
-La defensa de Abad apeló y el caso subió al **Tribunal de Justicia de Pichincha**, que tomó la decisión, tras conocer la apelación de la funcionaria.
-
-El Tribunal resolvió por unanimidad **suspender la tramitación** de la apelación y consultar sobre el tema a la **Corte Constitucional.**
-
-Los jueces señalaron que se somete a Abad a “un **procedimiento especial** asumiendo la función Ejecutiva un poder de control sobre la mencionada funcionaria (sumario administrativo), cosa no prevista en la Constitución, pues el control de pesos y contrapesos establecido otorga ese control a la Asamblea Nacional”.
-
-Abad presentó **otra acción de protección** por su suspensión que se conocerá el miércoles 27 de noviembre.
-
-Verónica Abad regresó al país en esta semana y dijo que regresó para llamar a la **reflexión** al presidente Daniel Noboa.
-
-El Gobierno de Daniel Noboa busca los mecanismos legales y constitucionales para impedir que Abad asuma la Presidencia, cuando el Presidente esté en **campaña electoral.**
-
-Todo esto ocurre mientras Fiscalía procesa a Francisco B., hijo de Abad, por oferta de tráfico de influencias, en el **caso Nene**.
