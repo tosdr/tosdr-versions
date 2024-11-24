@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Refurbished heart pacemakers work like new](https://www.sciencenews.org/article/refurbished-heart-pacemakers-work-new)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")24 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")November 22, 2024
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
