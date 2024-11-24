@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![A young girl in a winter coat, smiling at the camera](/en/rotatingimages/defaultInterior/Banner-16.jpeg)
+![Mother and daughter smiling at each other](/en/rotatingimages/defaultInterior/Banner-5.jpg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
