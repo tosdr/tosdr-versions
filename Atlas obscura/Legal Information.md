@@ -16,91 +16,11 @@ Open main menu
 
 Loading...
 
-Upcoming Experiences
-
-[View All Experiences »](https://www.atlasobscura.com/events)
-
-   [![](https://img.atlasobscura.com/BtMUa2zrDFXc-OVssjz_wOvaZew_1XXphWiyJnyDX48/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81YjU4/YTZlMS1jMDk3LTRh/M2EtOTVmZi1lMTI5/NDE0ZWQwYTBiY2I5/NDY5NjcwMDM3MmUw/MjdfVW50aXRsZWQu/anBn.jpg)
-
-Members Only
-
-Monster of the Month w/ Colin Dickey: Frankenstein](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-frankenstein)
-
-   [![](https://img.atlasobscura.com/AxNQpouM-DrINwgCwgsEyDu9s42tyihgwbMnl1wmoPc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kYTEz/M2VhZi1iM2FlLTRh/NTQtODEyNC03OGJm/ZWRlMjYyOTMwYjEx/OTcwZTNlOWZkZWVl/ZTVfYmY4N2JkNWEt/MmQ3NS00Y2Q1LTlk/YmEtOTU4MjU3YWRh/MWUyNDNlY2FiOTAw/MjJiMmM5N2M0X29k/ZHZlcnQuanBn.jpg)
-
-Members Only
-
-Antiques and Their Afterlives: Holiday Gift Guide](https://www.atlasobscura.com/experiences/antiques-and-their-afterlives-an-unusual-holiday-gift-guide)
+Loading...
 
 Loading...
 
-Top Destinations
-
-Latest Places
-
-[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
-
-Top Destinations
-
-[View All Destinations »](https://www.atlasobscura.com/destinations)
-
-### Countries
-
-* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
-* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
-* [China](https://www.atlasobscura.com/things-to-do/china "China")
-* [France](https://www.atlasobscura.com/things-to-do/france "France")
-* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
-* [India](https://www.atlasobscura.com/things-to-do/india "India")
-* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
-* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
-
-### Cities
-
-* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
-* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
-* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
-* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
-* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
-* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
-* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
-* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
-* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
-* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
-* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
-* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
-* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
-* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
-* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
-* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
-* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
-* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
-* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
-* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
-* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
-* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
-* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
-* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
-
-Latest Places
-
-[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
-
-   [![Addolorata Cemetery.](https://img.atlasobscura.com/xYt9WFqvL2-fWdcEPcuVGmX78QaGK2HUnom-V8a72Vk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81OTQ5/MWEwMy0yMWM4LTQ1/MmEtYmE5My0zMGRl/Y2RhMmEzNGU1MDFk/ZWQ0M2M1NTc3ZjMw/ZGNfY2VtZXRlcnkx/LmpwZw.jpg)
-
-Addolorata Cemetery](https://www.atlasobscura.com/places/addolorata-cemetery)
-
-   [![Exterior of the Katherine Mansfield House](https://img.atlasobscura.com/Y11_8aKJDzIDhN-LsxspgPZYGqWqtAgN2YtkAOXVDug/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xYmZk/OTUyZi03NjRkLTQ1/NDItYjYxZS1jZjUx/M2FkNDJlNGQ2MTE2/MGM5NjA0YzkyMTIz/N2VfMTU2MnB4LUth/dGhlcmluZV9NYW5z/ZmllbGRfQmlydGhw/bGFjZSxfTmV3X1pl/YWxhbmQuanBn.jpg)
-
-Katherine Mansfield House](https://www.atlasobscura.com/places/katherine-mansfield-house)
-
-   [![Cinema Rif](https://img.atlasobscura.com/97bzqCZu4ZLl_PwxyvCDhEltrgbzBb6VFWLuALDhFW8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yOGQ1/ZWY1Mi1iYmY5LTQ4/OWUtOWVlMi02ODcw/MWEzZjY1ZjFhY2Zi/NDZmMzIwMGRhMTU2/NGNfSU1HXzAyNDgu/anBlZw.jpg)
-
-Cinema Rif](https://www.atlasobscura.com/places/cinema-rif-tangier-morocco)
-
-   [![The Lacrosse Players, by Elmer P. Petersen, was dedicated in 1981.](https://img.atlasobscura.com/iVLPuNAYOZBgWlC971Xulc6iNgidXbI2ZR-d7BF6nJs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83YmIw/ZTM4ZS0wMjI0LTQ3/YzQtYjJjYi1hOTY1/ZGRhYjZiMDc3OWFi/YzkxNzMyY2I1YTNj/ZTRfaWlpZi1zZXJ2/aWNlX3BucF9oaWdo/c21fNDA0MDBfNDA0/NTgtZnVsbC1wY3Rf/MjUtMC1kZWZhdWx0/LmpwZw.jpg)
-
-'The Lacrosse Players'](https://www.atlasobscura.com/places/the-lacrosse-players)
+Loading...
 
 Loading...
 
