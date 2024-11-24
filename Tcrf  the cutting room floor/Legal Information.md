@@ -1,4 +1,3 @@
-**We just reached 30,000 articles on this wiki!** 🥳  
 If you appreciate the work done within the wiki, please consider supporting The Cutting Room Floor on [Patreon](https://www.patreon.com/tcrfwiki). Thanks for all your support!  
 
 The Cutting Room Floor:General disclaimer
