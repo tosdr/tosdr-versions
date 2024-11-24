@@ -116,7 +116,7 @@ triangle borderless
     arrow left Back
     
     * [Deals](https://www.lorex.com/pages/promotions)
-    * [Black Friday Price Guarantee](https://www.lorex.com/pages/promotions-backup)
+    * [Black Friday Starts Now!](https://www.lorex.com/pages/promotions)
     * [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     * [Not-for-profit Support Program](https://www.lorex.com/pages/nonprofit)
     * [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
