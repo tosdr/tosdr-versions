@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What is your relationship with AU? II (3,479)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (3,479 posts)")
-* [Tiami's Endless Tacos (1,014)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (1,014 posts)")
-* [Ukrainian War VII: Everything has a p… (10,973)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (10,973 posts)")
-* [The country game(a roleplay) (8,584)](https://forum.nationstates.net/viewtopic.php?t=546117&f=31&view=unread#unread ""The country game(a roleplay)" (8,584 posts)")
-* [Compliment the Above Nation III (7,432)](https://forum.nationstates.net/viewtopic.php?t=513965&f=25&view=unread#unread ""Compliment the Above Nation III" (7,432 posts)")
+* [What triggers you about the AN? (11,016)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (11,016 posts)")
+* [Limiting AI usage in warfare (1)](https://forum.nationstates.net/viewtopic.php?t=558685&f=24&view=unread#unread ""Limiting AI usage in warfare" (1 post)")
+* [The Problem about \[Radical\] Islam (es… (268)](https://forum.nationstates.net/viewtopic.php?t=557387&f=20&view=unread#unread ""The Problem about [Radical] Islam (especially to Turks)" (268 posts)")
+* [Preventing AI ascendancy (3)](https://forum.nationstates.net/viewtopic.php?t=558684&f=9&view=unread#unread ""Preventing AI ascendancy" (3 posts)")
+* [Fallen Nations: A Shadow of a New War… (23)](https://forum.nationstates.net/viewtopic.php?t=558662&f=31&view=unread#unread ""Fallen Nations: A Shadow of a New War [Dieselpunk|OOC|Open]" (23 posts)")
 
 Advertisement
 
