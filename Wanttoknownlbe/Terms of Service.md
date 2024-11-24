@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/de-akasha-ervaring/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/isis-en-parijs-een-persoonlijke-observatie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
