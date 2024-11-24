@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0356e617-2061-464c-ac42-cc848374fdca/20241123T233728/0356e617-2061-464c-ac42-cc848374fdca_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0356e617-2061-464c-ac42-cc848374fdca/20241123T233728/0356e617-2061-464c-ac42-cc848374fdca_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-deck-the-downtowns-cookie-crawl/526-a92a06dc-5ede-4429-9374-5408569ac6dd)
+    *  [![](https://media.tegna-media.com/assets/KBMT/images/fb101b82-ece0-4981-a894-53cd3cfacd84/fb101b82-ece0-4981-a894-53cd3cfacd84_16x9.jpg) ![](https://media.tegna-media.com/assets/KBMT/images/fb101b82-ece0-4981-a894-53cd3cfacd84/fb101b82-ece0-4981-a894-53cd3cfacd84_360x203.jpg)](https://www.wqad.com/article/life/holidays/where-to-go-for-a-thanksgiving-meal-in-the-quad-cities-area/526-7f823ed0-419b-466e-bc5e-100c97d4de76)
         
-        #### [Sweets and deals collide at Davenport's Deck the Downtowns Cookie Crawl](https://www.wqad.com/article/news/local/davenport-deck-the-downtowns-cookie-crawl/526-a92a06dc-5ede-4429-9374-5408569ac6dd)
+        #### [What to know ahead of Mr. Thanksgiving's annual community meal](https://www.wqad.com/article/life/holidays/where-to-go-for-a-thanksgiving-meal-in-the-quad-cities-area/526-7f823ed0-419b-466e-bc5e-100c97d4de76)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_360x203.jpg)](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/39cb408d-432c-44a2-a1ae-8f1d5effad09/20241122T220701/39cb408d-432c-44a2-a1ae-8f1d5effad09_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/39cb408d-432c-44a2-a1ae-8f1d5effad09/20241122T220701/39cb408d-432c-44a2-a1ae-8f1d5effad09_360x203.jpg)](https://www.wqad.com/article/news/local/new-mural-downtown-silvis/526-1b265440-3888-49d3-8406-c4f1640cff79)
         
-        #### ['Wicked' makes its way to movie screens in the Quad Cities](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d)
+        #### [New mural unveiled in downtown Silvis](https://www.wqad.com/article/news/local/new-mural-downtown-silvis/526-1b265440-3888-49d3-8406-c4f1640cff79)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-46°
+55°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
