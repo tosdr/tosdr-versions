@@ -321,15 +321,18 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Dylan Grigg amid the vines of Vinya Vella.](https://static.ffx.io/images/$zoom_0.5082%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_12/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d6da210cfeabcf9076743393c87e163ea20b0126)](https://www.afr.com/life-and-luxury/food-and-wine/how-one-man-s-mission-to-save-a-rundown-vineyard-won-him-global-renown-20241113-p5kq8u)
+[![xxYearBaliÂ coverÂ story a year in baliÂ indonesia ; text byÂ PennyÂ Watson
+(handoutÂ image supplied via journalist for use in Traveller, no credit, no syndication)
+Breakout:Â Banyan Tree Escape in Buahan](https://static.ffx.io/images/$zoom_0.776%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_424%2C$y_282/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8361f2ff09923c925744f6b2e7b3d0577aa3606d)](https://www.afr.com/life-and-luxury/travel/no-walls-no-doors-is-this-the-future-of-luxury-travel-20241118-p5krmq)
 
-### [How one man’s mission to save a rundown vineyard won him global renown](https://www.afr.com/life-and-luxury/food-and-wine/how-one-man-s-mission-to-save-a-rundown-vineyard-won-him-global-renown-20241113-p5kq8u)
+### [No walls, no doors – is this the future of luxury travel?](https://www.afr.com/life-and-luxury/travel/no-walls-no-doors-is-this-the-future-of-luxury-travel-20241118-p5krmq)
 
-* Max Allen
+* 55 mins ago
+* Ute Junker
 
-* ### [Mick Fanning’s next investment is a new wave resort](https://www.afr.com/companies/infrastructure/mick-fanning-s-next-investment-is-a-new-wave-resort-20241120-p5ks5c)
+* ### [More classic muscle car than tech warrior](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/more-classic-muscle-car-than-tech-warrior-20241105-p5knxo)
     
-* ### [This HR executive is always striving for a better position](https://www.afr.com/life-and-luxury/health-and-wellness/this-hr-executive-is-always-striving-for-a-better-position-20241113-p5kq8h)
+* ### [This jeweller creates custom memento pieces for times of bereavement](https://www.afr.com/life-and-luxury/fashion-and-style/this-jeweller-creates-custom-memento-pieces-for-times-of-bereavement-20240924-p5kd52)
     
 
 [Rich List](https://www.afr.com/rich-list)
