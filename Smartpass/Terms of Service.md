@@ -156,6 +156,10 @@ Hear from our Customers](https://www.smartpass.app/customers)
 
 Featured Success Stories
 
+[Simmons MS
+
+Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
+
 [Pinelands Regional HS
 
 Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
@@ -163,10 +167,6 @@ Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-p
 [Berlin HS
 
 Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
-
-[Simmons MS
-
-Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
 
 ![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
@@ -252,15 +252,15 @@ Webinars](https://www.smartpass.app/smartpass-shipped-registration-page)
 
 The Latest
 
-[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66beaa05873d8fc9b49c9306_Book%20Image.avif)
+[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/67437ca64321aa111c8acf1e_Hallpass%20Guide.webp)
 
 Free Whitepaper
 
-**The K-12 Guide to Bathroom Passes + Management**](https://www.smartpass.app/ebook/bathroom-passes-management)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66ec1b55e786d669639ecef7_Goodchland%20img.avif)
+**The K-12 Guide to Bathroom Passes + Management**](https://www.smartpass.app/ebook/bathroom-passes-management)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/67437ca6d0f8bd0ef827286a_Goodchland%20School.webp)
 
 Case Study
 
-SmartPass Transforms Student Movement and Boosts Safety at Goochland County Public Schools](https://www.smartpass.app/customers/goochland-county-public-schools)[![](https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6494770c8fdb7da48836b6b5_blog%20article%20img.avif)
+SmartPass Transforms Student Movement and Boosts Safety at Goochland County Public Schools](https://www.smartpass.app/customers/goochland-county-public-schools)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/67437ca67a771c9c209a6bf3_Empty%20hallways.webp)
 
 Blog Article
 
