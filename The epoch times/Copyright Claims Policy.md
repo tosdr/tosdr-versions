@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [After 8 Years of Torture in Chinese Prison, Retired Teacher Is Sentenced Again for Her Faith](https://www.theepochtimes.com/china/after-8-years-of-torture-in-a-chinese-prison-a-retired-chinese-teacher-is-sentenced-again-for-her-faith-5762352)
+    
+    NEW By [Sophia Lam](https://www.theepochtimes.com/author/sophia-lam)
+    
+    [![After 8 Years of Torture in Chinese Prison, Retired Teacher Is Sentenced Again for Her Faith](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![After 8 Years of Torture in Chinese Prison, Retired Teacher Is Sentenced Again for Her Faith](https://img.theepochtimes.com/assets/uploads/2024/07/11/id5684546-07112024-DSC08626-End-25years-persecution-of-Falun-Gong-205x123.jpg.webp)](https://www.theepochtimes.com/china/after-8-years-of-torture-in-a-chinese-prison-a-retired-chinese-teacher-is-sentenced-again-for-her-faith-5762352)
+* [John Kerry Says Trump’s ‘Unpredictability’ Is a Virtue in Negotiations](https://www.theepochtimes.com/us/john-kerry-says-trumps-unpredictability-is-a-virtue-in-negotiations-5765398)
+    
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![John Kerry Says Trump’s ‘Unpredictability’ Is a Virtue in Negotiations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![John Kerry Says Trump’s ‘Unpredictability’ Is a Virtue in Negotiations](https://img.theepochtimes.com/assets/uploads/2018/05/07/collage0134-205x123.jpg.webp)](https://www.theepochtimes.com/us/john-kerry-says-trumps-unpredictability-is-a-virtue-in-negotiations-5765398)
+* [Incoming National Security Adviser Waltz Vows to Bring Ukraine War to ‘Responsible End’](https://www.theepochtimes.com/world/incoming-national-security-adviser-waltz-vows-to-bring-ukraine-war-to-responsible-end-5765359)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Incoming National Security Adviser Waltz Vows to Bring Ukraine War to ‘Responsible End’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Incoming National Security Adviser Waltz Vows to Bring Ukraine War to ‘Responsible End’](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721860-09102024-DSC08027-Michael-Waltz-205x123.jpg.webp)](https://www.theepochtimes.com/world/incoming-national-security-adviser-waltz-vows-to-bring-ukraine-war-to-responsible-end-5765359)
+* [Senators Signal Trump Nominees Gabbard, Hegseth Will Face Grilling in Congress](https://www.theepochtimes.com/us/senators-signal-trump-nominees-gabbard-hegseth-will-face-grilling-in-congress-5765364)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Senators Signal Trump Nominees Gabbard, Hegseth Will Face Grilling in Congress](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Senators Signal Trump Nominees Gabbard, Hegseth Will Face Grilling in Congress](https://img.theepochtimes.com/assets/uploads/2024/11/24/id5765426-Gabbard-Hegseth-2000-205x123.jpg.webp)](https://www.theepochtimes.com/us/senators-signal-trump-nominees-gabbard-hegseth-will-face-grilling-in-congress-5765364)
+* [Russia Will Help China Advance Submarine Technology, US Indo-Pacific Commander Says](https://www.theepochtimes.com/china/russia-will-help-china-advance-submarine-technology-us-indo-pacific-commander-says-5765340)
+    
+    3hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    
+    [![Russia Will Help China Advance Submarine Technology, US Indo-Pacific Commander Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Russia Will Help China Advance Submarine Technology, US Indo-Pacific Commander Says](https://img.theepochtimes.com/assets/uploads/2024/11/24/id5765341-GettyImages-2168208168-205x123.jpg.webp)](https://www.theepochtimes.com/china/russia-will-help-china-advance-submarine-technology-us-indo-pacific-commander-says-5765340)
+* [White House Officials Meet With Telecom Executives Over China Hack](https://www.theepochtimes.com/us/white-house-officials-meet-with-telecom-executives-over-china-hack-5765313)
+    
+    5hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
+    
+    [![White House Officials Meet With Telecom Executives Over China Hack](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![White House Officials Meet With Telecom Executives Over China Hack](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758695-09292024-DSC02058-white-houseKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/white-house-officials-meet-with-telecom-executives-over-china-hack-5765313)
+* [\[PREMIERING 11/24 9PM ET\] My Life With Shen Yun: Lillian Parker Reflects on Her 7 Years Touring With the Company](https://www.theepochtimes.com/epochtv/my-life-with-shen-yun-lillian-parker-reflects-on-her-7-years-touring-with-the-company-5765190)
+    
+    6hr By [Jan Jekielek](https://www.theepochtimes.com/author/jan-jekielek), Epoch TV
+    
+    [![[PREMIERING 11/24 9PM ET] My Life With Shen Yun: Lillian Parker Reflects on Her 7 Years Touring With the Company](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![[PREMIERING 11/24 9PM ET] My Life With Shen Yun: Lillian Parker Reflects on Her 7 Years Touring With the Company](https://img.theepochtimes.com/assets/uploads/2024/11/24/id5765325-TN-SYArtistsResponse_Nov2024_v16@2x-205x123.jpg.webp)](https://www.theepochtimes.com/epochtv/my-life-with-shen-yun-lillian-parker-reflects-on-her-7-years-touring-with-the-company-5765190)
 * [Mortgage Rates Ticking Up to 7 Percent](https://www.theepochtimes.com/us/mortgage-rates-ticking-up-to-7-percent-5765284)
     
-    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    7hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Mortgage Rates Ticking Up to 7 Percent](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Mortgage Rates Ticking Up to 7 Percent](https://img.theepochtimes.com/assets/uploads/2024/09/30/id5732871-IrvineHomes_ForSale_JF_7_09212020-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/mortgage-rates-ticking-up-to-7-percent-5765284)
 * [Deficit Reduction and Growth Agenda: Bessent’s Treasury Portfolio](https://www.theepochtimes.com/business/deficit-reduction-and-growth-agenda-bessents-treasury-portfolio-5765264)
     
-    1hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Deficit Reduction and Growth Agenda: Bessent’s Treasury Portfolio](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Deficit Reduction and Growth Agenda: Bessent’s Treasury Portfolio](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5764888-USA-TRUMP-TREASURY-205x123.jpg.webp)](https://www.theepochtimes.com/business/deficit-reduction-and-growth-agenda-bessents-treasury-portfolio-5765264)
+    ![Deficit Reduction and Growth Agenda: Bessent’s Treasury Portfolio](https://img.theepochtimes.com/assets/uploads/2024/11/24/id5765394-USA-TRUMP-TREASURY-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/deficit-reduction-and-growth-agenda-bessents-treasury-portfolio-5765264)
 * [IDF Investigates Hamas Claim of Killing Israeli Hostage in Gaza](https://www.theepochtimes.com/world/idf-investigates-hamas-claim-of-killing-israeli-hostage-in-gaza-5765271)
     
-    2hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    8hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
     [![IDF Investigates Hamas Claim of Killing Israeli Hostage in Gaza](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![IDF Investigates Hamas Claim of Killing Israeli Hostage in Gaza](https://img.theepochtimes.com/assets/uploads/2024/11/24/id5765275-gaza-205x123.jpg.webp)](https://www.theepochtimes.com/world/idf-investigates-hamas-claim-of-killing-israeli-hostage-in-gaza-5765271)
-* [Election Shows Native American Vote Is ‘Force to Be Recognized’](https://www.theepochtimes.com/article/election-shows-native-american-vote-is-force-to-be-recognized-5762778)
-    
-    5hr By [Allan Stein](https://www.theepochtimes.com/author/allan-stein)
-    
-    [![Election Shows Native American Vote Is ‘Force to Be Recognized’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Election Shows Native American Vote Is ‘Force to Be Recognized’](https://img.theepochtimes.com/assets/uploads/2024/11/22/id5764826-final2-205x123.jpg.webp)](https://www.theepochtimes.com/article/election-shows-native-american-vote-is-force-to-be-recognized-5762778)
-* [Vertigo: A Common Condition—Here Are the Main Causes](https://www.theepochtimes.com/health/vertigo-symptoms-causes-treatments-and-natural-approaches-5760707)
-    
-    5hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
-    
-    [![Vertigo: A Common Condition—Here Are the Main Causes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Vertigo: A Common Condition—Here Are the Main Causes](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5765053-Vertigo1-205x123.jpg.webp)](https://www.theepochtimes.com/health/vertigo-symptoms-causes-treatments-and-natural-approaches-5760707)
-* [Tensions Rise Over ICC Arrest Warrants for Netanyahu, Gallant as US Allies Mull Response](https://www.theepochtimes.com/world/tensions-rise-over-icc-arrest-warrants-for-netanyahu-gallant-as-us-allies-mull-response-5765115)
-    
-    14hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Tensions Rise Over ICC Arrest Warrants for Netanyahu, Gallant as US Allies Mull Response](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Tensions Rise Over ICC Arrest Warrants for Netanyahu, Gallant as US Allies Mull Response](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763721-Israel_Knesset_24302581952246-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/tensions-rise-over-icc-arrest-warrants-for-netanyahu-gallant-as-us-allies-mull-response-5765115)
-* [‘State Organs’ Documentary Receives Award for Highlighting Abuse in China](https://www.theepochtimes.com/china/state-organs-documentary-receives-award-for-highlighting-abuse-in-china-5765088)
-    
-    15hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang) and [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
-    
-    [![‘State Organs’ Documentary Receives Award for Highlighting Abuse in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![‘State Organs’ Documentary Receives Award for Highlighting Abuse in China](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5765117-125793309cd852bb06ef44c4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/china/state-organs-documentary-receives-award-for-highlighting-abuse-in-china-5765088)
-* [Implications of Russia’s Experimental Missile Strike for Allied Strategy](https://www.theepochtimes.com/world/implications-of-russias-experimental-missile-strike-for-allied-strategy-5764972)
-    
-    15hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
-    
-    [![Implications of Russia’s Experimental Missile Strike for Allied Strategy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Implications of Russia’s Experimental Missile Strike for Allied Strategy](https://img.theepochtimes.com/assets/uploads/2024/11/22/id5764568-UKRAINE-CRISIS-ATTACK-DNIPRO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/implications-of-russias-experimental-missile-strike-for-allied-strategy-5764972)
-* [Day in Photos: Illegal Immigrants, Demonstrations, and Sado Mine Memorial](https://www.theepochtimes.com/article/day-in-photos-illegal-immigrants-demonstrations-and-sado-mine-memorial-5764991)
-    
-    17hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Illegal Immigrants, Demonstrations, and Sado Mine Memorial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Illegal Immigrants, Demonstrations, and Sado Mine Memorial](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5765151-GettyImages-2185542760-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-illegal-immigrants-demonstrations-and-sado-mine-memorial-5764991)
-* [Australia's Labor Government Withdraws Contentious Misinformation Bill](https://www.theepochtimes.com/world/cannot-pass-the-senate-greens-oppose-misinformation-bill-5765097)
-    
-    17hr By [Monica O’Shea](https://www.theepochtimes.com/author/monica-oshea)
-    
-    [![Australia's Labor Government Withdraws Contentious Misinformation Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Australia's Labor Government Withdraws Contentious Misinformation Bill](https://img.theepochtimes.com/assets/uploads/2024/11/24/id5765297-Michelle-Rowland-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/cannot-pass-the-senate-greens-oppose-misinformation-bill-5765097)
+    ![IDF Investigates Hamas Claim of Killing Israeli Hostage in Gaza](https://img.theepochtimes.com/assets/uploads/2024/11/24/id5765391-gaza-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/idf-investigates-hamas-claim-of-killing-israeli-hostage-in-gaza-5765271)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
