@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Jannie Schutte - myFinance-Online.co.za
+Hugo van Sittert
 
-![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=198127116)  
-Sportspro Group (Pty) Ltd
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=14917554)  
+Depot Diesel (Pty) Ltd
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=125483244)  
-Repairs In Motion
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=146093310)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=25525644)  
-Mtunzini Group
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=198650665)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=154281239)  
-UMVIKELI PRIVATE SECURITY
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=189075759)  
+Know Informatics
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=90188993)  
-Roamfree Boerdery (PTY) LTD
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=49795764)  
+WIP Digital Solutions
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=47509170)  
-J.M. HUMAN RESOURCES
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=29901548)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=55104328)  
-Camp 4 Africa (Pty) Ltd
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=163415528)  
+Atalie Scented Candles Pty Ltd
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=146464603)  
-Desygn
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=50470109)  
+Network Grey (Pty) Ltd
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=97103202)  
-Import Maaw
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=1420444)  
-Website Café (PTY) LTD
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=69596582)  
-Baby Toddles Infant Care
-
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=211908591)  
-Cooper Power South Africa (Pty) LTD
-
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=24301389)  
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=137799409)  
 Leef in Afrikaans
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=209049105)  
-MR Compressors& Industrial Supplies
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=155961425)  
+Enhle Oarabile Kea
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=d40f8d42c93f6787160fa7543d443ced4c0b7c67d4b4b9898a8ad0451354238a&c=122920457)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=61818740)  
+African Roots
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=194138980)  
+VerdanTech Pty Ltd
+
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=172009801)  
+TurboFibre
+
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=134023749)  
+Creative Characters
+
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=86145238)  
+Tiny Cuddles Photography
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
