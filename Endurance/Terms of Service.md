@@ -23,21 +23,9 @@
     * [Find a Repair Shop](https://www.endurancewarranty.com/repair/)
     
 
-EN
-
-[English](# "English")
-
-[English](# "English") [Spanish](https://www.endurancewarranty.com/es/offerdetails/ "Spanish")
-
 [(800) 253-8203](tel:8002538203) [Get a FREE Quote](#)
 
 [(800) 253-8203](tel:8002538203)
-
-EN
-
-[English](# "English")
-
-[English](# "English") [Spanish](https://www.endurancewarranty.com/es/offerdetails/ "Spanish")
 
 [Account Sign‑In](https://www.endurancewarranty.com/policy/) [See Your Price](https://buy.endurancewarranty.com/page?slugType=ecommerce_page_v2&slug=page-ecomm-manual-vehicle-entry-v2)
 
@@ -282,6 +270,23 @@ Send Message
 
 Δ
 
+Get this deal! Call now.
+------------------------
+
+Speak with a vehicle protection plan specialist and get **$300 off** any new contract instantly.
+
+Call **866-678-4172**
+
+**or scan the code below**
+
+![Scan to call 866-678-4172](https://www.endurancewarranty.com/wp-content/uploads/2024/10/QR8338170149-1.png)
+
+[Call 866-678-4172](tel:866-678-4172)
+
+No thanks, I'll continue unprotected
+
+![](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/wired_phone.webp)
+
 [![logo](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/logo-md.svg)](#)
 
 Request your FREE quote now
@@ -334,5 +339,3 @@ To speak to a vehicle protection plan specialist and **save $300**
 ![833-817-0149](https://www.endurancewarranty.com/wp-content/uploads/2024/10/QR8338170149-1.png) ![833-817-0146](https://www.endurancewarranty.com/wp-content/uploads/2024/10/QR8338170146-1.png) ![833-817-0148](https://www.endurancewarranty.com/wp-content/uploads/2024/10/QR8338170148-1.png)
 
 ![](https://api.trustedform.com/ns.gif)
-
-![](https://tags.w55c.net/rs?id=59c37735bef848dfb845cf6a7bebcc96&t=marketing) ![](https://tags.w55c.net/rs?id=c17013853dd04361a836769b469f5f03&t=completed_view) ![](https://tags.w55c.net/rs?id=5c0506e472014c6899c1713a77b90149&t=homepage)
