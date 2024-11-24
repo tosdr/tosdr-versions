@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 726 active visitors** | **Sunday, November 24, 2024** |
+| **You are 1 of 934 active visitors** | **Sunday, November 24, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**The greatest dangers to liberty lurk in insidious encroachment by men of zeal, well-meaning but without understanding. � JUSTICE LOUIS BRANDEIS (1928)
+ **QUOTES TO REMEMBER**As nightfall does not come all at once, neither does oppression. In both instances, there is a twilight. And it is in such twilight that we all must be aware of change in the air, however slight, lest we become unwitting victims of the darkness. � Justice William O. Douglas, US Supreme Court (1939-75)
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
