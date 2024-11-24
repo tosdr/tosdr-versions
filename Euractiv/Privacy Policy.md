@@ -443,6 +443,8 @@ Most recent
 
 [24-11-2024
 
+What ‘deal’ the EU can offer Trump](https://www.euractiv.com/section/global-europe/news/what-deal-the-eu-can-offer-trump/)[24-11-2024
+
 COP29 outcome: EU upbeat on finance, disappointed on climate action](https://www.euractiv.com/section/eet/news/cop29-outcome-eu-upbeat-on-finance-disappointed-on-climate-action/)[24-11-2024
 
 Hard right’s Simion in with a chance as Romanians vote for president](https://www.euractiv.com/section/politics/news/hard-rights-simion-in-with-a-chance-as-romanians-vote-for-president/)[23-11-2024
@@ -459,9 +461,7 @@ Closing rule of law procedure against Poland ‘a good decision’, Reynders sai
 
 Europe’s broken food system, time to finance resilient and sustainable food systems](https://www.euractiv.com/section/agriculture-food/news/europes-broken-food-system-time-to-finance-resilient-and-sustainable-food-systems/)[22-11-2024
 
-Businesses urge EU to become more like the US](https://www.euractiv.com/section/economy-jobs/news/businesses-urge-eu-to-become-more-like-the-us/)[22-11-2024
-
-EU regulators scrap probe into Apple’s e-book rules after complaint was withdrawn](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L8N3MT0SC:569717771)
+Businesses urge EU to become more like the US](https://www.euractiv.com/section/economy-jobs/news/businesses-urge-eu-to-become-more-like-the-us/)
 
 ###### Advertisement
 
