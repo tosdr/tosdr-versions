@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/van-slachtbank-naar-catwalk/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/astrologisch-jaaroverzicht-2012/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
