@@ -16,7 +16,7 @@
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
 * [Positively Portland Stories](http://www.positivelyportlandstories.com/)
-* [We Need Influencers!](https://music.musicdoodad.com/s3/bf8c50d44052)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/46719df10aa2)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -58,7 +58,7 @@
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
 * [Positively Portland Stories](http://www.positivelyportlandstories.com/)
-* [We Need Influencers!](https://music.musicdoodad.com/s3/bf8c50d44052)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/46719df10aa2)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>10:38am |
-| CruiseFlorida-Georgia Line<br><br>10:35am |
-| Small Town BoyDustin Lynch<br><br>10:31am |
-| LiarJelly Roll<br><br>10:28am |
-| Free And EasyDierks Bentley<br><br>10:25am |
+| A Lot More FreeMax Mcnown<br><br>4:40pm |
+| Dont YaBrett Eldredge<br><br>4:37pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>4:33pm |
+| Pink SkiesZach Bryan<br><br>4:30pm |
+| AlrightDarius Rucker<br><br>4:27pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -501,17 +501,17 @@ Featured Brands
 
 Top 40 • Pacific NW
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Spanish • Western
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
+Country • Western
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
