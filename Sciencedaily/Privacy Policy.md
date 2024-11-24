@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 23, 2024**
+**November 24, 2024**
 
 * * *
 
