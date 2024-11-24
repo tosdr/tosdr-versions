@@ -167,31 +167,41 @@ For stewardship purposes, we will not be able to write, edit, or proofread scien
 
 More Days of Praise
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/kingdom-of-priests)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/christ-at-creation)
 
-[Kingdom of Priests](https://www.icr.org/article/kingdom-of-priests/)
+[Christ at Creation](https://www.icr.org/article/christ-at-creation/)
 
-“And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel.”...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/snares)
-
-[Snares](https://www.icr.org/article/snares/)
-
-“Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.” (1 Timothy 3:7) A...
+“When he prepared the heavens, I was there: when he set a compass upon the face of the depth: When he established the clouds above: when he...
 
 BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/make-it-sure-you-can)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/true-worship)
 
-[Make It as Sure as You Can](https://www.icr.org/article/make-it-sure-you-can/)
+[True Worship](https://www.icr.org/article/true-worship/)
 
-“Pilate said unto them, Ye have a watch: go your way, make it as sure as ye can. So they went, and made the sepulchre sure, sealing the stone,...
+“God is a Spirit: and they that worship him must worship him in spirit and in truth.” (John 4:24) The word “worship” is...
 
-BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/voice-lord)
+
+[The Voice of the Lord](https://www.icr.org/article/voice-lord/)
+
+“The voice of the LORD is powerful; the voice of the LORD is full of majesty.” (Psalm 29:4) This solemn phrase, “the voice...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
+
+The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
+
+$13.99
+
+[](https://store.icr.org/.html)
+
+$
 
 [![](https://cdn.shoplightspeed.com/shops/601440/files/10475194/file.jpg)
 
@@ -199,33 +209,15 @@ The Genesis Record](https://store.icr.org/dr-henry-morris-the-genesis-record.htm
 
 $47.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472152/file.jpg)
+[](https://store.icr.org/.html)
 
-Biblical Creationism](https://store.icr.org/dr-henry-morris-biblical-creationism.html)
+$
 
-$14.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
+The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
 
-Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
-
-$12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32640/file.jpg)
-
-The Genesis Flood, 50th Anniversary Edition](https://store.icr.org/dr-henry-morris-the-genesis-flood-50th-anniversary.html)
-
-$12.99
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
-
-The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
-
-$79.99
-
-$94.99
+$9.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
