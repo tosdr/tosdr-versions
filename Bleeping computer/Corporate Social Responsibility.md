@@ -36,18 +36,18 @@
         
         Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
     
+    * [![Meta removes over 2 million accounts pushing pig butchering scams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Meta removes over 2 million accounts pushing pig butchering scams](https://www.bleepingcomputer.com/news/security/meta-removes-over-2-million-accounts-pushing-pig-butchering-scams/)
+    * [![Bangkok busts SMS Blaster sending 1 million scam texts from a van](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Bangkok busts SMS Blaster sending 1 million scam texts from a van](https://www.bleepingcomputer.com/news/security/bangkok-busts-sms-blaster-sending-1-million-scam-texts-from-a-van/)
+    * [![Enjoy Black Friday early on this portable Deeper Connect router VPN](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Enjoy Black Friday early on this portable Deeper Connect router VPN](https://www.bleepingcomputer.com/offer/deals/enjoy-black-friday-early-on-this-portable-deeper-connect-router-vpn/)
     * [![Windows 11 24H2 update blocked on PCs with Assassin's Creed, Star Wars Outlaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Windows 11 24H2 update blocked on PCs with Assassin's Creed, Star Wars Outlaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-halts-windows-11-24h2-update-on-pcs-assassins-creed-star-wars-outlaws/)
-    * [![Microsoft testing Windows 11 support for third-party passkeys](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft testing Windows 11 support for third-party passkeys](https://www.bleepingcomputer.com/news/security/microsoft-testing-windows-11-support-for-third-party-passkeys/)
-    * [![Hackers abuse Avast anti-rootkit driver to disable defenses](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Hackers abuse Avast anti-rootkit driver to disable defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-avast-anti-rootkit-driver-to-disable-defenses/)
-    * [![Gain lifetime access to top cybersecurity courses at Infosec4TC in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Gain lifetime access to top cybersecurity courses at Infosec4TC in this deal](https://www.bleepingcomputer.com/offer/deals/gain-lifetime-access-to-top-cybersecurity-courses-at-infosec4tc-in-this-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -312,9 +312,9 @@ Popular Stories
 * [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Chinese hackers target Linux with new WolfsBane malware](https://www.bleepingcomputer.com/news/security/chinese-gelsemium-hackers-use-new-wolfsbane-linux-malware/)
-* [![BlueSky](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Now BlueSky hit with crypto scams as it crosses 20 million users](https://www.bleepingcomputer.com/news/security/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/)
+    Windows 11 24H2 update blocked on PCs with Assassin's Creed, Star Wars Outlaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-halts-windows-11-24h2-update-on-pcs-assassins-creed-star-wars-outlaws/)
 
 ##### Follow us:
 
