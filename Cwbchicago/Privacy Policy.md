@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Cartez-Mcgary-326x245.jpg)](https://cwbchicago.com/2024/11/25-years-for-killing-man-over-a-half-pound-of-weed-while-on-felony-bail.html "25 years for killing man over a half-pound of weed while on felony bail")
+
+Washington Heights
+
+### [25 years for killing man over a half-pound of weed while on felony bail](https://cwbchicago.com/2024/11/25-years-for-killing-man-over-a-half-pound-of-weed-while-on-felony-bail.html "25 years for killing man over a half-pound of weed while on felony bail")
+
+[November 22, 2024 6:29 AM](https://cwbchicago.com/2024/11)
+
+A judge this week sentenced a man to 25 years in prison for murdering another man in a dispute over marijuana plus eight more years for shooting another man during a robbery—all while he was on bail for a felony case in 2021.[](https://cwbchicago.com/2024/11/25-years-for-killing-man-over-a-half-pound-of-weed-while-on-felony-bail.html "25 years for killing man over a half-pound of weed while on felony bail")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Andrew-Moran-326x245.jpg)](https://cwbchicago.com/2024/11/man-carjacked-a-woman-while-on-probation-for-trying-to-carjack-another-woman-prosecutors-say.html "Man carjacked a woman while on probation for trying to carjack another woman, prosecutors say")
 
 Portage Park
@@ -262,16 +272,6 @@ Citywide
 [November 21, 2024 5:46 PM](https://cwbchicago.com/2024/11)
 
 There’s a big change coming to the electronic monitoring system that is supposed to keep an eye on criminal defendants awaiting trial: Operation of the program will be moving from the Cook County Sheriff’s Office to the office of Chief Judge Timothy Evans.[](https://cwbchicago.com/2024/11/electronic-monitoring-operations-to-move-from-sheriff-to-the-chief-judges-office.html "Electronic monitoring operations to move from sheriff to the chief judge’s office")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Dimitri-Sanders-and-Cassandra-Sims-326x245.jpg)](https://cwbchicago.com/2024/11/man-charged-firing-group-women-behind-chicago.html "Man opened fire on group of women from behind, killing 1, injuring another: prosecutors")
-
-Austin
-
-### [Man opened fire on group of women from behind, killing 1, injuring another: prosecutors](https://cwbchicago.com/2024/11/man-charged-firing-group-women-behind-chicago.html "Man opened fire on group of women from behind, killing 1, injuring another: prosecutors")
-
-[November 21, 2024 11:33 AM](https://cwbchicago.com/2024/11)
-
-Prosecutors are accusing a man of opening fire on a group of women during a dispute on the Fourth of July, leaving one victim dead and another injured, saying he searched the internet for news about the crime.[](https://cwbchicago.com/2024/11/man-charged-firing-group-women-behind-chicago.html "Man opened fire on group of women from behind, killing 1, injuring another: prosecutors")
 
 Search
 
