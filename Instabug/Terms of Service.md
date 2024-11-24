@@ -82,7 +82,7 @@ Xamarin](https://instabug.com/platforms/xamarin)
 
 Blog and Resources  
 
-[Blog](https://instabug.com/blog)[Reviews](https://instabug.com/reviews)[FAQs](https://instabug.com/faq)
+[Blog](https://instabug.com/blog)[Reviews](https://instabug.com/reviews)[Newsroom](https://instabug.com/newsroom)
 
 [Featured
 
@@ -223,7 +223,7 @@ and Reviews](https://instabug.com/product/app-ratings-reviews)[Flows](https://in
 
 ### RESOURCES
 
-[Customers](https://instabug.com/customers)[Reviews](https://instabug.com/reviews)[Blog](https://instabug.com/blog)[Docs](https://docs.instabug.com/)[Help Center](https://help.instabug.com/en/?utm_source=website-hc&utm_medium=hc&utm_campaign=footer-hc&utm_content=v1)[FAQs](https://instabug.com/faq)[Research Program](https://instabug.com/ux-research-program)[ROI Calculator](https://instabug.com/roi-calculator)[Sentiment Analysis](https://instabug.com/sentiment-analysis)[Benchmark Report 2023](https://instabug.com/mobile-app-stability-outlook-2023)[Benchmark Report 2024](https://instabug.com/mobile-app-stability-outlook-2024)
+[Customers](https://instabug.com/customers)[Reviews](https://instabug.com/reviews)[Blog](https://instabug.com/blog)[Newsroom](https://instabug.com/newsroom)[Docs](https://docs.instabug.com/)[Help Center](https://help.instabug.com/en/?utm_source=website-hc&utm_medium=hc&utm_campaign=footer-hc&utm_content=v1)[FAQs](https://instabug.com/faq)[Research Program](https://instabug.com/ux-research-program)[ROI Calculator](https://instabug.com/roi-calculator)[Sentiment Analysis](https://instabug.com/sentiment-analysis)[Benchmark Report 2023](https://instabug.com/mobile-app-stability-outlook-2023)[Benchmark Report 2024](https://instabug.com/mobile-app-stability-outlook-2024)
 
 ### COMPANY
 
