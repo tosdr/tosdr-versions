@@ -58,12 +58,12 @@
             * [Download Spike for WindowsUse Spike from anywhere – on any device](https://www.spikenow.com/downloads/windows/ "Download Spike for Windows")
             * [Download Spike for MacUse Spike from anywhere – on any device](https://www.spikenow.com/downloads/mac/ "Download Spike for Mac")
 * [Book a demo](https://www.spikenow.com/contact-sales/ "Book a demo")
-* [Sign in](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fterms-and-conditions%252F "Sign in")
+* [Sign in](https://spikenow.com/r/a/?ref=google-unknown&lastPageUrl=%252Fterms-and-conditions%252F "Sign in")
 * [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload "Download Spike")
 
-[Sign in Spike Web App version](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fterms-and-conditions%252F "Click for the Sign In page")
+[Sign in Spike Web App version](https://spikenow.com/r/a/?ref=google-unknown&lastPageUrl=%252Fterms-and-conditions%252F "Click for the Sign In page")
 
-[Book a Demo](https://www.spikenow.com/contact-sales) [Get Started Free](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fterms-and-conditions%252F) [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload)
+[Book a Demo](https://www.spikenow.com/contact-sales) [Get Started Free](https://spikenow.com/r/a/?ref=google-unknown&lastPageUrl=%252Fterms-and-conditions%252F) [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload)
 
 User Terms and Conditions
 =========================
@@ -78,7 +78,7 @@ If you are using Spike on behalf of a group or organization, you agree to these 
 
 Spike is an application that helps you manage your email from different email providers, using your cellular phone, mobile device or personal computer. Currently, Spike can interact with a wide range of email providers (and we’re working on expanding the selection), but not all of them.
 
-When you add your email accounts, you authorize Spike to securely access your messages and contacts. Spike may securely store your email address and password in order to provide you with the service or use authentication methods to avoid storing your password, for email providers that support it.
+When you add your email accounts, you authorize Spike to securely access your messages and contacts. Spike may securely store your [email address](https://www.spikenow.com/blog/productivity/email-address-ideas/) and password in order to provide you with the service or use authentication methods to avoid storing your password, for email providers that support it.
 
 We store your messages, securely and temporarily, on our servers, in order to let us give you fast access to the messages most important to you (such as new emails) and provide you with access to the full Spike functionalities. It is important to understand that messages may be deleted from our servers after a few days. Spike will not be liable for any emails deleted due to the passage of time.
 
