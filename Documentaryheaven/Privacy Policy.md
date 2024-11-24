@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Rise of Acid Attacks in the UK](/wp-content/thumbnails/13351-100x70.jpg?x53432)
+* [![Lockup Raw: The Daily Grind](/wp-content/thumbnails/1067-100x70.jpg?x53432)
     
-    The Rise of Acid Attacks in the UK
+    Lockup Raw: The Daily Grind
     
-    Acid attacks have existed worldwide for as long as corrosive substances have been around but only in recent years have they become somewhat common place with a reported 1,800 attacks occuring in Londo](https://documentaryheaven.com/rise-of-acid-attacks-in-uk/ "The Rise of Acid Attacks in the UK")
-* [![Kids with Guns: UK’s Army Cadet Force](/wp-content/thumbnails/9529-100x70.jpg?x53432)
+    In this episode, our producers take you behind the scenes and behind prison walls. You will see how the monotony of prison life can push some inmates to the brink. While some use the time wisely, othe](https://documentaryheaven.com/lockup-raw-the-daily-grind/ "Lockup Raw: The Daily Grind")
+* [![Chaos Theory and Dynamic Systems](/wp-content/thumbnails/13397-100x70.jpg?x53432)
     
-    Kids with Guns: UK’s Army Cadet Force
+    Chaos Theory and Dynamic Systems
     
-    VICE releases a new episode to their on going series "Rule Britannia", the film follows United Kingdom's Army Cadet Force to get an inside view of how the Army trains and recruits young kids to join t](https://documentaryheaven.com/kids-guns-uks-army-cadet-force/ "Kids with Guns: UK’s Army Cadet Force")
-* [![How Robots Will Change the World](/wp-content/thumbnails/8754-100x70.jpg?x53432)
+    At one time we thought the universe ticked off its motions with stately regularity, however with every development in understanding the world around us we discovered that much of the universe operates](https://documentaryheaven.com/chaos-theory-dynamic-systems/ "Chaos Theory and Dynamic Systems")
+* [![Vice Guide to Congo](/wp-content/thumbnails/6254-100x70.jpg?x53432)
     
-    How Robots Will Change the World
+    Vice Guide to Congo
     
-    Robotics is the art and commerce of robots, their design, manufacture, application, and practical use. Robots will soon be everywhere, in our home and at work. They will change the way we live. This w](https://documentaryheaven.com/how-robots-will-change-world/ "How Robots Will Change the World")
-* [![History of Swords](/wp-content/thumbnails/9490-100x70.jpg?x53432)
+    The Democratic Republic of Congo is one of the poorest countries in the world and thanks to an insanely complicated mix of politics, armed conflict, and corruption... it's also one of the most under-r](https://documentaryheaven.com/vice-guide-to-congo/ "Vice Guide to Congo")
+* [![Shoah](/wp-content/thumbnails/5558-100x70.jpg?x53432)
     
-    History of Swords
+    Shoah
     
-    Since it's inception right up until the modern era the sword has always represented a sense of power and justice whilst influencing many significant moments throughout history. Today we can see many r](https://documentaryheaven.com/history-swords/ "History of Swords")
-* [![EP2/3 Genius of Britain](/wp-content/thumbnails/5810-100x70.jpg?x53432)
+    Claude Lanzmann directed this 9 and a half hour documentary about the Holocaust without using a single frame of archive footage.He interviews survivors, witnesses, and ex-Nazis (whom he had to film](https://documentaryheaven.com/shoah/ "Shoah")
+* [![Only the Dead](/wp-content/thumbnails/12475-100x70.jpg?x53432)
     
-    EP2/3 Genius of Britain
+    Only the Dead
     
-    A Roomful of Brilliant Minds This episode looks at the scientific spark that ignited the Industrial Revolution in Britain. James Dyson tells the story of how a young James Watt was inspired to perfect](https://documentaryheaven.com/genius-of-britain-2/ "EP2/3 Genius of Britain")
+    Only the Dead is a tale of war unlike any other, it is the story of what can happen when an ordinary reporter finds himself in the Middle East at a time when some of the more extreme combat was taking](https://documentaryheaven.com/only-dead/ "Only the Dead")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
