@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Jennings has 3 TDs as No. 13 SMU routs Virginia 33-7 to clinch a spot in the ACC title game](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185588519.jpg?ve=1&tl=1)
+
+ ![Jennings has 3 TDs as No. 13 SMU routs Virginia 33-7 to clinch a spot in the ACC title game](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185588519.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/smu-routs-virginia-clinch-spot-acc-title-game)
+
+### [Jennings has 3 TDs as No. 13 SMU routs Virginia 33-7 to clinch a spot in the ACC title game](https://www.fox4news.com/sports/smu-routs-virginia-clinch-spot-acc-title-game)
+
+ [![Here's who Trump has picked for his administration](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2185178383-scaled.jpg?ve=1&tl=1)
+
+ ![Here's who Trump has picked for his administration](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185178383-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-cabinet-white-house-appointments-november-2024)
+
+### [Here's who Trump has picked for his administration](https://www.fox4news.com/news/trump-cabinet-white-house-appointments-november-2024)
+
+ [![Dallas police arrest 2nd suspect in April Oak Cliff shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/denutebell.jpg?ve=1&tl=1)
+
+ ![Dallas police arrest 2nd suspect in April Oak Cliff shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/denutebell.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-arrest-suspect-april-oak-cliff-shooting)
+
+### [Dallas police arrest 2nd suspect in April Oak Cliff shooting](https://www.fox4news.com/news/dallas-arrest-suspect-april-oak-cliff-shooting)
+
  [![Arrest made in connection to Highland Park High School threat](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/highland-park.jpg?ve=1&tl=1)
 
  ![Arrest made in connection to Highland Park High School threat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/592/333/highland-park.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arrest-made-connection-highland-park-high-school-threat)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![American tourist among those killed in mass alcohol poisoning in Laos](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1077773396-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mass-alcohol-poisoning-laos-american-killed)
 
 ### [American tourist among those killed in mass alcohol poisoning in Laos](https://www.fox4news.com/news/mass-alcohol-poisoning-laos-american-killed)
-
- [![Girls on the Run DFW holds 5K in Grand Prairie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/128540a86fe45bd71e4e016229553278.jpg?ve=1&tl=1)
-
- ![Girls on the Run DFW holds 5K in Grand Prairie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/128540a86fe45bd71e4e016229553278.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/girls-run-dfw-holds-5k-grand-prairie)
-
-### [Girls on the Run DFW holds 5K in Grand Prairie](https://www.fox4news.com/news/girls-run-dfw-holds-5k-grand-prairie)
-
- [![Here's who Trump has picked for his administration so far](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2185178383-scaled.jpg?ve=1&tl=1)
-
- ![Here's who Trump has picked for his administration so far](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185178383-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-cabinet-white-house-appointments-november-2024)
-
-### [Here's who Trump has picked for his administration so far](https://www.fox4news.com/news/trump-cabinet-white-house-appointments-november-2024)
-
- [![Woman killed, man critically injured in University Park five-car crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/Ambulance-sized.jpg?ve=1&tl=1)
-
- ![Woman killed, man critically injured in University Park five-car crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/02/32/18/592/333/Ambulance-sized.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/university-park-deadly-crash-lovers-preston)
-
-### [Woman killed, man critically injured in University Park five-car crash](https://www.fox4news.com/news/university-park-deadly-crash-lovers-preston)
 
 ###### [News](https://www.fox4news.com/news)
 
