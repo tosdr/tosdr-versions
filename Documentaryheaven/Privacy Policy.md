@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Atkins Diet](/wp-content/thumbnails/7943-100x70.jpg?x53432)
+* [![The Dog Factory](/wp-content/thumbnails/10091-100x70.jpg?x53432)
     
-    The Atkins Diet
+    The Dog Factory
     
-    This is the truth about the world's most famous, most glamorous and most controversial diet. The Atkins diet says that eating fat can make you thin. It says you don't need to bother watching the calor](https://documentaryheaven.com/atkins-diet/ "The Atkins Diet")
-* [![Collaboration: On the Edge of a New Paradigm?](/wp-content/thumbnails/9587-100x70.jpg?x53432)
+    BBC Scotland goes on a journey through the ruthless world of dog trade, from the small-time illegal sellers to some of the counties biggest dog traffickers. Talking to the breeders and confronting tho](https://documentaryheaven.com/dog-factory/ "The Dog Factory")
+* [![PT 2/3 Atom – The Key to the Cosmos](/wp-content/thumbnails/1754-100x70.jpg?x53432)
     
-    Collaboration: On the Edge of a New Paradigm?
+    PT 2/3 Atom – The Key to the Cosmos
     
-    Collaboration is a film that sets about explaining a new way of thought or shift in paradigm with regards to the way we as humans create and educate ourselves. Collaboration is deeply routed within so](https://documentaryheaven.com/collaboration-on-edge-new-paradigm/ "Collaboration: On the Edge of a New Paradigm?")
-* [![I, Psychopath](/wp-content/thumbnails/2428-100x70.jpg?x53432)
+    In this three-part documentary series, Professor Jim Al-Khalili tells the story of one of the greatest scientific discoveries ever: that the material world is made up of atoms.This episode tackles w](https://documentaryheaven.com/pt-23-atom-the-key-to-the-cosmos/ "PT 2/3 Atom – The Key to the Cosmos")
+* [![Who Gets the Best Jobs?](/wp-content/thumbnails/7762-100x70.jpg?x53432)
     
-    I, Psychopath
+    Who Gets the Best Jobs?
     
-    Psychopaths… we usually only know them from Hollywood movies. We never expect them to enter our real life. But, the psychopath is closer than you think. Experts believe their number to be as high as o](https://documentaryheaven.com/i-psychopath/ "I, Psychopath")
-* [![Dark Days](/wp-content/thumbnails/1115-100x70.jpg?x53432)
+    Britain is a less equal society than at any time since World War One. In Who Gets the Best Jobs, Richard Bilton investigates access to the professions - and finds that the best jobs are being snapped](https://documentaryheaven.com/who-gets-best-jobs/ "Who Gets the Best Jobs?")
+* [![Tupac Shakur: Thug Angel](/wp-content/thumbnails/13324-100x70.jpg?x53432)
     
-    Dark Days
+    Tupac Shakur: Thug Angel
     
-    Dark Days is a documentary made by Marc Singer, a British filmmaker. The film follows a group of people living in an abandoned section of the New York City underground railway system, more precisely t](https://documentaryheaven.com/dark-days/ "Dark Days")
-* [![Body of War](/wp-content/thumbnails/3492-100x70.jpg?x53432)
+    Critically acclaimed documentary filmmaker Peter Spirer who is known for releasing the likes of Rhyme & Reason and other such hip-hop related titles has gone all in on this on](https://documentaryheaven.com/tupac-shakur-thug-angel/ "Tupac Shakur: Thug Angel")
+* [![A War on Science](/wp-content/thumbnails/564-100x70.png?x53432)
     
-    Body of War
+    A War on Science
     
-    Body of War is an intimate and transformational feature documentary about the true face of war today. Meet Tomas Young, 25 years old, paralyzed from a bullet to his spine - wounded after serving in Ir](https://documentaryheaven.com/body-of-war/ "Body of War")
+    An interesting documentary charting the war between religions creationist (Intelligent Design) theologies versus modern science's theories.](https://documentaryheaven.com/a-war-on-science/ "A War on Science")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
