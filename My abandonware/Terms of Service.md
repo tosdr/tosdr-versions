@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Puzzle Ring](https://www.myabandonware.com/game/puzzle-ring-tax)
 * [Springy](https://www.myabandonware.com/game/springy-taw)
 * [Polar Kubes](https://www.myabandonware.com/game/polar-kubes-tav)
 * [Ishido](https://www.myabandonware.com/game/ishido-tau)
 * [Harmony Blocks](https://www.myabandonware.com/game/harmony-blocks-tat)
-* [Arcade Chess](https://www.myabandonware.com/game/arcade-chess-tas)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
