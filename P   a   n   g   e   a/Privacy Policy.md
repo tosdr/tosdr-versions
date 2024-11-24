@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,725 members - 452,518,099 ads shown  
+131,726 members - 452,520,529 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -44,7 +44,7 @@ CREATE ACCOUNT
 WHAT IS LAYERED ADVERTISING?  
 This uses just ONE step to explode multiple ads out all at once, including: your email ad and post a banner ad all with just one click. No credits to assign, no hassles, so this is a serious time saver!  
   
-You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,725 MEMBERS!  
+You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,726 MEMBERS!  
   
   
 
@@ -55,11 +55,11 @@ Sometimes spelled Pangaea, was a single land mass 300 million years ago. All of 
 
 paid member banners
 
-[![](https://ymcempire.com/ban22.gif)](https://ymcempire.com/gr8traffic)
+[![](https://boomerangblaster.com/ban99.gif)](https://boomerangblaster.com/romanjeff)
 
-[![](https://viraltrafficgames.com/getimg.php?id=1)](https://viraltrafficgames.com/?rid=10247)
+[![](https://actualhits4u.com/getimg.php?id=1)](https://actualhits4u.com/?rid=11919)
 
-[![](https://boomerangblaster.com/banner2.gif)](https://boomerangblaster.com/nightmagic)
+[![](https://cherrytraffic.com/ban2.gif)](https://cherrytraffic.com/pickinpea)
 
 [![](https://imgallery.llsvr.com/jeffaman.665f8c470cd25.gif)](https://track.toprated.vip/maryanne450)
 
