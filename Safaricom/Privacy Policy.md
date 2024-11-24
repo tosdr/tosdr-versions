@@ -1,4 +1,4 @@
-[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/673c7f2b0dd9352c78cbd62b_logo_black.jpg)](https://www.safari.com/)
+[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/67432d918214d84174e76798_black_writing_no_margin.png)](https://www.safari.com/)
 
   
 
@@ -311,9 +311,9 @@ Contact a safari expert now
 * [Instagram](https://www.instagram.com/safaridotcom)
 * [LinkedIn](https://za.linkedin.com/company/safaridotcom)[YouTube](https://www.youtube.com/@Safaricom-iz5ff)
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/65ce94d8ce96361ca285c045_logo-green.svg)
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/67432d918214d84174e76798_black_writing_no_margin.png)
 
-#### Moments of Greatness  
+#### You are the Journey  
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/67132f71d8a5e523112b09ce_africas-leading-safari-company-2024-winner-shield-256.png)
 
