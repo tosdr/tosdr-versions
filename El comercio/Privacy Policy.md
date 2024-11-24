@@ -31,6 +31,344 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+En centro comercial de Quito, armados con uniformes de la Policía asaltan una joyería
+=====================================================================================
+
+Los hombres entran al local sin ningún problema con armas de fuego
+------------------------------------------------------------------
+
+![Una de las imágenes del video muestra a uno de los asaltantes con chaleco de la Policía y arma de fuego, afuera de la joyería.](https://www.elcomercio.com/wp-content/uploads/2024/11/Captura-video.jpg)
+
+Hombres armados y vestidos con uniformes de policía ingresaron a un centro comercial del norte de Quito y asaltaron una joyería, este sábado 23 de noviembre del 2024.
+
+Más noticias
+------------
+
+* [Asalto armado se registró en el norte de Quito este viernes 25 de octubre](https://www.elcomercio.com/actualidad/seguridad/asalto-armado-norte-quito-viernes-25-de-octubre-gaspar-de-villarroel.html "Asalto armado se registró en el norte de Quito este viernes 25 de octubre")
+* [Manifestantes y policías se enfrentaron durante marchas en Quito](https://www.elcomercio.com/actualidad/quito/manifestantes-policia-marcha-quito.html "Manifestantes y policías se enfrentaron durante marchas en Quito")
+
+Este nuevo caso de delincuencia, protagonizado por individuos que se hacían pasar por agentes del orden, se puede ver en un video compartido en redes sociales.
+
+Uno de ellos vestía un calentador policial blanco con azul, mientras el otro estaba de negro con el chaleco de la Policía. Ambos tenían mascarillas y gorras.
+
+> Audaz asalto a la joyería Vanitez en el CCI.  
+> Ningún guardia privado se percató.  
+> Los delincuentes huyeron 🫢 [pic.twitter.com/pe8GH3x3sO](https://t.co/pe8GH3x3sO)
+> 
+> — MARCO PEREZ TORRES (@MPerezTorres30) [November 24, 2024](https://twitter.com/MPerezTorres30/status/1860490189375750488?ref_src=twsrc%5Etfw)
+
+Las imágenes de este asalto causaron indignación en la ciudadanía, que reclama mayores controles por la inseguridad que se vive en la ciudad.
+
+El ECU 911 reportó La emergencia cerca de las 10:00. Una vez que la Policía fue alertada sobre este posible robo en el local comercial coordinó la respuesta. Pero los delincuentes ya se fugaron.
+
+Cerca de las 19:00, el coronel Jaime Ruales, comandante del distrito metropolitano, confirmó el asalto y robo. Los asaltantes, agregó, llevaban los uniformes de la Policía y uno de ellos portaba una arma larga.
+
+De esta manera intimidaron a los dependientes de este negocio y al guardia privado.
+
+> INFORMAMOS ||  
+>   
+> Nuestras unidades operativas, investigativas y de inteligencia se encuentran desplegadas, a fin de capturar a los presuntos implicados en el asalto y robo a un local comercial en Iñaquito, [#DMQ](https://twitter.com/hashtag/DMQ?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> Conoce los detalles:🎥👇[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/8dO3LLDB5G](https://t.co/8dO3LLDB5G)
+> 
+> — Policía DMQ Zona 9 (@PoliciaDMQZona9) [November 23, 2024](https://twitter.com/PoliciaDMQZona9/status/1860469576263164316?ref_src=twsrc%5Etfw)
+
+La Policía Judicial comenzó a levantar información de evidencias del lugar como a revisar las imágenes de las cámaras internas y externas. Esto con el fin de dar con estos individuos.
+
+Tres patrulleros, cinco motorizados y efectivos de Criminalística estuvieron trabajando en el sitio.
+
+Hasta la noche de este sábado, no conoció más detalles de la [Policía](https://noticias.policia.gob.ec/ "https://noticias.policia.gob.ec/"). Tampoco se conoce a cuánto asciende el monto robado a la joyería ni hay un pronunciamiento oficial del centro comercial.
+
+No se reportaron heridos ni víctimas durante este nuevo asalto.
+
+Guardaparques y brigadistas celebran las lluvias por segundo día en El Cajas-Azuay
+==================================================================================
+
+Las precipitaciones ayudan a extinguir los incendios en el Parque Nacional Cajas
+--------------------------------------------------------------------------------
+
+![Brigadistas y guardaparques celebran la caída de la lluvia en Azuay. Foto: Captura de la cuenta de Etapa](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-24-2.jpg)
+
+La lluvia que cayó en varias zonas de Azuay por segundo día causó alegría a los guardaparques y brigadistas del Ministerio del Ambiente (Maate).
+
+Más noticias
+------------
+
+* [Incendios forestales en Azuay siguen activos a pesar de las lluvias](https://www.elcomercio.com/actualidad/ecuador/incendios-forestales-en-azuay-siguen-activos-a-pesar-de-las-lluvias.html "Incendios forestales en Azuay siguen activos a pesar de las lluvias")
+* [El duro golpe a Loja y Azuay](https://www.elcomercio.com/opinion/editorial/incendios-loja-azuay-forestales.html "El duro golpe a Loja y Azuay")
+
+La empresa pública de agua potable de Cuenca, ETAPA, informó que las precipitaciones contribuyeron a extinguir por completo los incendios forestales. Estos fueron controlados, pero aún representaban riesgo de reactivación. Las lluvias se extienden desde la Amazonía.
+
+> Lluvia | Guardaparques de ETAPA EP y Brigadistas del [@MAATE\_Zonal6](https://twitter.com/MAATE_Zonal6?ref_src=twsrc%5Etfw) celebran las lluvias que caen en Chirimachay con ello se extinguen los focos del incendio forestal que aún quedaban.[#YaBastaNoEsUnJuego](https://twitter.com/hashtag/YaBastaNoEsUnJuego?src=hash&ref_src=twsrc%5Etfw)[@czamoramatute](https://twitter.com/czamoramatute?ref_src=twsrc%5Etfw) [@maveronicapolo](https://twitter.com/maveronicapolo?ref_src=twsrc%5Etfw) [@MunicipioCuenca](https://twitter.com/MunicipioCuenca?ref_src=twsrc%5Etfw) [pic.twitter.com/3zMrYpGmHs](https://t.co/3zMrYpGmHs)
+> 
+> — ETAPA EP (@ETAPAOficial) [November 23, 2024](https://twitter.com/ETAPAOficial/status/1860460110398493169?ref_src=twsrc%5Etfw)
+
+En un video subido a redes sociales de la empresa se muestra a brigadistas del Ministerio del Ambiente y guardaparques celebrando la caída de lluvia. Ellos luchan contra los incendios en el Parque Nacional Cajas.
+
+La lluvia que cae en Chirimachay, Llaviucu es una una zona donde el fuego ha permanecido activo durante más de 15 días.
+
+El alcalde de Cuenca y el Gobernador de Azuay, indicaron que botellas con combustibles y mecheros se hallaron en los sitios de los incendios forestales.
+
+El **Comité de Operaciones de Emergencia** (COE) Nacional declaró la emergencia en todo el país por la magnitud de los flagelos y el impacto del déficit hídrico y la sequía. Según el Gobierno es la peor en 60 años. La medida se extenderá por 60 días.
+
+El Parque Nacional Cajas, reconocido como el segundo más protegido de Ecuador después de Galápagos, se encuentra entre las zonas más afectadas por los incendios forestales en Azuay. 
+
+El secretario de Gestión de [Riesgos](https://www.gestionderiesgos.gob.ec/ "https://www.gestionderiesgos.gob.ec/"), Jorge Carrillo, informó el miércoles 20 de noviembre de 2024, que los incendios afectaron a 18 500 hectáreas de vegetación en Azuay y Loja.
+
+El COE solicitó al Ministerio de Agricultura y Ganadería y al Cuerpo de Bomberos que emitan los informes técnicos correspondientes a las afectaciones producidas por los incendios.
+
+Por otra parte, se espera que las lluvias y la llegada de los generadores termoeléctricos al país alivien la crisis energética que vive el país, debido al estiaje.
+
+Del feminismo como un humanismo
+===============================
+
+El feminismo es un humanismo que defiende la dignidad y los derechos plenos de las mujeres, libres de toda violencia.
+---------------------------------------------------------------------------------------------------------------------
+
+![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
+
+Desde 1999, cada 25 de noviembre se conmemora el **Día Internacional de Erradicación de la Violencia contra la Mujer**, por declaración de la Asamblea General de las Naciones Unidas. La fecha recuerda el día de 1960 en que las hermanas Mirabal fueron asesinadas por oponerse a la dictadura de Rafael Leonidas Trujillo, en República Dominicana.
+
+Si bien las **quejas de las mujeres** por la condición de subordinación y violencia (simbólica y física) en que han desarrollado su vida ha quedado registrada a lo largo de la historia, en **memoriales** de **agravios**, por ejemplo, fue con la **Revolución francesa** que las mujeres empezaron a **reclamar** para sí los **derechos** que las Constituciones modernas garantizaban a los hombres.
+
+A partir del último tercio del siglo XIX, las **mujeres** empezaron a organizarse como un **movimiento social** para reclamar en conjunto el acceso a **educación, trabajo y voto**. Así nació el feminismo que, a lo largo del siglo XX y lo que va del XXI, se ha constituido en un **corpus teórico** orientado a la reflexión colectiva sobre la **condición femenina** y las estrategias para superar las limitaciones que le impone la subordinación.
+
+Cuestionado desde sus inicios, las **críticas** se moderaron a partir de 1908, cuando el papa Pío X declaró que era aceptable, como todo lo que tendiera a ‘elevar el **nivel moral e intelectual de la humanidad**’ y si no contrariaba las **doctrinas** del **catolicismo**. Así nació la corriente del ‘feminismo sensato’, que impulsó la **acción social** de las militantes católicas, una de las variaciones del **movimiento** que a lo largo de del tiempo ha pasado por varios hitos de **construcción simbólica y teórica**.
+
+En este sentido, el **feminismo** es un tipo de **humanismo**, una filosofía política –y un movimiento social– que reflexiona sobre la **situación política** de las mujeres como **seres humanos** plenos, que merecen una vida digna, sin las **violencias simbólicas** o físicas a las que se someten en la vida cotidiana en espacios familiares, escolares y laborales.
+
+Cartas a Quito / 24 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este domingo 24 de noviembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+La ordenanza verde azul y el Valle de Uravía  (4) 
+--------------------------------------------------
+
+Como lo habíamos manifestado anteriormente, la Ordenanza Verde Azul (ORDM 060 – 2023), de fecha 4 de julio de 2023, es un cuerpo normativo “ecocentrista”, que “reconoce el valor intrínseco de la naturaleza, sus seres y elementos, independiente de su relación con la humanidad, existiendo el vínculo entre ambos, dado el origen y dependencia de esta última con la naturaleza”. 
+
+En los considerandos de la ordenanza “verde-azul” se hace énfasis en el art. 80 de la Ley Orgánica de Recursos Hídricos, Usos y Aprovechamiento del Agua, que prohíbe el vertido directo o indirecto de aguas o productos residuales, aguas servidas, sin tratamiento y lixiviados susceptibles de contaminar las aguas del dominio hídrico público. 
+
+Más, en la práctica sucede exactamente lo contrario, ya que, en el documento compartido por la propia Empresa Pública Metropolitana de Agua Potable y Saneamiento (EPMAPS), denominado “Términos de referencia”, Sección VII, “Servicio de consultoría para realizar los interceptores y actualización de la planta de tratamiento de aguas residuales en el sector de Checa, pág. 77, dice lo siguiente: 
+
+“La descarga actual de la zona central de la parroquia El Quinche y del barrio La Victoria de la misma parroquia se la realizará en el río Uravía, muy cerca del sitio de ubicación de la PTAR Checa; esta condición requiere la conducción y tratamiento de los caudales producidos en esta zona en una nueva PTAR denominada Quinche, así se cumplirá con el objetivo de sanear el río, obtener resultados visibles en el mismo y además mejorar la calidad de agua que se capta para riego en la toma existente ubicada aguas debajo de esta descarga”. (Las negrillas son mías) 
+
+Esto es, las propias autoridades municipales reconocen, de manera expresa, que están vertiendo las aguas residuales de El Quinche y La Victoria, sobre el río Uravía, 
+
+causando la contaminación existente en el río, y se ofrecen a sanear las aguas contaminadas por ellos mismo, con la construcción de una planta de tratamiento de aguas residuales (PTAR) sobre el milenario valle de Uravía, que, además, es un yacimiento arqueológico, debidamente inventariado en el Sistema de Información (SIPCE), del Instituto Nacional de Patrimonio Cultural (INPC). 
+
+En esta grave crisis energética que vivimos actualmente, producida por la escasez hídrica en nuestros ríos, la riesgosa decisión municipal de pretender ubicar la planta de tratamiento de aguas residuales, sobre el valle de Uravía – supuestamente para descontaminar el río que la misma EPMAPS lo contamina -, es claramente atentatoria contra las fuentes de agua, “pogios” y humedales existentes en el valle, así como sus centenarios árboles patrimoniales y, en general, contra todo tipo de vida existente en el valle, al violar flagrantemente los derechos de la naturaleza, con un potencial daño ambiental de incalculables consecuencias, acción que debe ser evitada a toda costa, aplicando el “principio precautorio”, previsto en el art. 73 de nuestra Constitución, que dice: 
+
+“El Estado aplicará medidas de precaución y restricción para las actividades que puedan conducir a la extinción de especies, la destrucción de ecosistemas o la alteración permanente de los ciclos naturales.” 
+
+Alfonso López J. 
+
+El poderoso y efímero poder
+===========================
+
+El poder económico busca influir en el político, pero ambos son frágiles y temporales.
+--------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+La riqueza de una persona, familia o **grupo económico**, sin duda,  embiste de poder, **influencia** y **exposición** a sus miembros ante la **sociedad**, lo cual per se no es malo, sino una **realidad social** y natural; sin embargo, se debe tener presente que, más poderoso que el **poder económico** es el Poder Político, y es justo por ese motivo que, muchas (no todas) de las fortunas apuestan – entiéndase apoyan y/o financian – a tal o cual **candidato**, incluso discreta pero simultáneamente a los caballos ganadores (finalistas) –  cuál carrera de un hipódromo “político” -.  Sin perjuicio, también por supuesto, de aventurarse  – en ciertos casos –  con candidatos propios de su núcleo familiar o íntimo,  todo lo cual – sin generalizar – a efecto de proteger sus **industrias** e intereses ante cualquier escenario futuro e incierto, percibido como una **amenaza**.
+
+Evidentemente, pueden existir otros **motivos** también, tales como un **auténtico** y desinteresado  ánimo de servicio a la patria, por un reto personal, vanidad, venganza,  un deseo irresistible de enriquecimiento o, una mezcla de éstos, etc….
+
+El poder del **dinero** colocándose prudentemente atrás, cede entonces el paso al **poder político**, ya que sabe bien que, este al final del día es el que manda, decide o por lo menos poderosamente influye en un momento dado, pese a que, de alguna u otra manera conviven ambos tipos de poderes, entre abrazos y traiciones, entre **sonrisas y aplausos**, algunos sinceros y otros no tanto, el uno en primera y el otro en una importante segunda fila, pero ambas apetecidas butacas, pero que paradójicamente en cierta medida, reflejan su **debilidad** y **fragilidad** en razón de la temporalidad, todo lo cual, expuesto al vaivén del compás del galopante y cambiante viento de la **conveniencia política** y de su influencia en la **justicia**.
+
+Por otro lado, la **resolución estatal** que afecta brindar el servicio de **telecomunicaciones** por cable submarino a la **empresa** liderada por la ya no tan poderosa familia Topic, así como, la sentencia (en primera instancia) que condena a Danilo Carrera a diez años de **prisión** por el caso Encuentro, nos deben invitar a **reflexionar** al respecto, independientemente de la **culpabilidad** o no de los aludidos, la **justicia** decidirá cumplidas las instancias respectivas.
+
+Ni el poder del dinero ni el poder **político** (efímero por esencia democrática), por más que estén asociados e incluso compartiendo por excepción primera fila, a la larga, si no se hacen las cosas bien,  nada garantizan…
+
+Sin embargo, algunos, si no muchos pensarán, peor es nada…  
+
+Turismo bancario
+================
+
+Las ideologías y la exclusión financiera en Ecuador fomentan desigualdad y economías ilícitas.
+----------------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+**Ecuador** está saturado de **ideologías** que satanizan el dinero y lo vinculan con **explotación**, codicia, **inequidad**, el pecado y hasta con el infierno, por lo que emprender en este país exige superar estos credos, buscar el dinero para apalancar la idea que se convertirá en un **emprendimiento** de cuya rentabilidad: viviremos, en caso sea exitoso.
+
+Si un **ser humano** no tiene dinero para comprar tres comidas, usará todos los **medios legales o ilegales** para llevar alimento a su estómago y al de su familia, aunque es claro que en **Ecuador**, a diferencia de en África, aquí la gente de hambre no muere. Hay una mortandad diaria por balazos, enfermedades, récord de fallecidos por accidentes, pero por hambre no.
+
+Cuando crecemos y no tenemos quien nos mantenga, buscamos una fuente de dinero y la más simple es un **empleo**, aunque la más escasa, a menos que se tenga palancas en el sector público, que es fuente de riqueza de muchas familias y **partidos políticos.** La otra es emprender por la vía legal, pero el **sistema bancario ecuatoriano** es excluyente, sus intereses son de usura y es un sistema cerrado sin **competencia internacional,** además que tecnológicamente vive una década atrás y su aporte al **desarrollo** del país es cuestionable.
+
+Negado el **crédito bancario,** toca buscar **fuentes** de dinero sucio o dinero manchado de sangre, algo muy atractivo en un país con un 90% de **impunidad** en el **castigo** de todo tipo de **delito**. El narco lavado ya es parte del ADN del Ecuador y cada vez se construyen más supermercados y hoteles de lujo.
+
+Las puertas al infierno de la **delincuencia** para nuestros jóvenes, la abren los banqueros y no todos los que llegan a empresarios usan la vía legal y en vez de 100 empleados trabajando en una **fábrica**, igual se mantiene a 100 muchachos delinquiendo, con niveles de **supervisión**, **evaluación**, **incentivos** y ascensos, como en cualquier organización.
+
+Que asalten camiones con toneladas de cacao o de camarón, requiere **costosas instalaciones** y personal calificado. Estos **empresarios** ingresan al **sistema bancario** el dinero sucio, que será prestado con un alto nivel de **discriminación**, por ello nuestro país es cada vez más desigual, porque junto a quienes no tienen para vivir, se construyen mansiones, edificios y centros comerciales gigantes abarrotados de productos importados, desigualdad aprovechada por los **partidos políticos** que adoctrinan el odio al dinero y con ese discurso ganan las **elecciones**.
+
+Así es viajar en Ecovía y Trolebús en Quito
+===========================================
+
+Viajar en la Ecovía y el Trolebús representa un desafío para miles de personas que usan estos sistemas de transporte.
+---------------------------------------------------------------------------------------------------------------------
+
+![El Municipio de Quito ejecutó operativos de seguridad en la Ecovía y el Trolebús.](https://www.elcomercio.com/wp-content/uploads/2024/11/Ecovia-1.jpg)
+
+Viajar en los sistemas de transporte público de Quito, como la **Ecovía** y el **Trolebús**, representa un reto por la saturación de las unidades en horas pico, el deterioro de los vehículos y las preocupaciones constantes por la seguridad[.](https://es.wikipedia.org/wiki/Transporte_p%C3%BAblico "https://es.wikipedia.org/wiki/Transporte_p%C3%BAblico")
+
+Más noticias
+------------
+
+* [Dos paradas de la Ecovía de Quito se cierran 10 días por rehabilitación](https://www.elcomercio.com/actualidad/quito/dos-paradas-ecovia-cierran-10-dias-rehabilitacion-quito.html "Dos paradas de la Ecovía de Quito se cierran 10 días por rehabilitación")
+* [Trabajos en carril exclusivo de la Ecovía cierran intersecciones de La Mariscal](https://www.elcomercio.com/actualidad/quito/trabajos-en-carril-exclusivo-ecovia-cierre-intersecciones-la-mariscal.html "Trabajos en carril exclusivo de la Ecovía cierran intersecciones de La Mariscal")
+* [Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito](https://www.elcomercio.com/actualidad/quito/paradas-de-la-ecovia-registran-nuevos-cierres-por-trabajos-en-quito.html "Paradas de la Ecovía registran nuevos cierres por trabajos, en Quito")
+
+A diario, 450 000 personas utilizan estos sistemas de transporte, divididas entre los 250 000 usuarios del **Trolebús** y los 200 000 de la **Ecovía**, según datos del Municipio de Quito.
+
+Tanto el **Trolebús** como la **Ecovía** movilizan principalmente a las clases media y baja, quienes encuentran en estos corredores una alternativa accesible para desplazarse por la ciudad, según la Empresa de Pasajeros Quito.
+
+En cuanto a los tiempos de viaje, el recorrido más corto toma aproximadamente **15 minutos**, mientras que el más largo alcanza **1 hora y 20 minutos**, según la ruta y la congestión en horas pico.
+
+Paradas cerradas complican la movilidad
+---------------------------------------
+
+Durante noviembre, el **Municipio de Quito** implementó operativos de **seguridad** y cerró temporalmente varias paradas, afectando significativamente la movilidad de los pasajeros.
+
+El 21 de noviembre de 2024, el **Municipio** de **Quito** cerró temporalmente la parada **Naciones** **Unidas** de la **Ecovía** para realizar obras en el carril exclusivo.
+
+Este cierre, que se extendió hasta el 24 de noviembre, obligó a las unidades a desviarse por el carril de vehículos livianos en ambos sentidos. Esto afectó la movilidad de los usuarios.
+
+Además, el 23 de noviembre se habilitaron las paradas **Bellavista**, **La Paz** y **San Martín,** y el 25 de noviembre, la parada **Orellana**, tras concluir las intervenciones correspondientes.
+
+Estos cierres y reaperturas impactaron la movilidad diaria de los pasajeros, especialmente en horas pico, obligándolos a buscar rutas alternativas y generando incomodidades.
+
+Operativos de seguridad intensificados
+--------------------------------------
+
+Frente a denuncias de robos y desorden, el **Municipio** de **Quito** ejecutó 26 operativos de seguridad en noviembre de 2024 en los corredores **Trolebús y Ecovía.**
+
+La Policía Metropolitana, la Agencia Metropolitana de Tránsito y otras entidades participaron en estas intervenciones.
+
+Según el Municipio de Quito, estos operativos resultaron en la retención de 19 **armas blancas** y la intervención en situaciones de **desorden público**.
+
+Luis Sánchez, estudiante universitario de 22 años, utiliza el sistema de transporte público de lunes a viernes para llegar a sus clases. Él manifestó su percepción sobre las medidas adoptadas: “He visto más policías, pero el problema sigue siendo la cantidad de gente en las horas pico. No se puede ni respirar, y eso facilita los robos”, expresó en declaraciones para **EL COMERCIO**.
+
+El trayecto de María López
+--------------------------
+
+María López, administradora de un local de comida en el centro de **Quito**, utiliza la **Ecovía** de miércoles a domingo para trasladarse desde su casa, ubicada cerca de la **Plaza de Toros**, hasta una parada próxima al Hospital Baca Ortiz. Su jornada laboral comienza temprano, por lo que depende del transporte público para llegar a tiempo a su trabajo.
+
+“Es difícil viajar, especialmente en las mañanas, porque las unidades están llenas y las paradas cerradas han complicado mucho más el trayecto. Termino tomando más tiempo del que debería”, afirmó María en conversación con **EL COMERCIO**.
+
+La mujer detalla que a veces no logra coger a tiempo la unidad que la lleva a su trabajo, por lo que llega tarde.
+
+Saturación en las unidades
+--------------------------
+
+La alta demanda genera un ambiente de saturación constante en las unidades, especialmente en horas pico.
+
+Los pasajeros enfrentan incomodidades y dificultades para abordar. Según datos del Municipio de Quito, esta realidad afecta principalmente a los sectores sociales que dependen exclusivamente de estos sistemas de transporte para movilizarse.
+
+Entre las principales **incomodidades** se encuentran la saturación en horas pico, que genera aglomeraciones dentro de las unidades y dificulta el abordaje. Además de **demoras** en los tiempos de viaje debido a congestiones o cierres temporales de paradas.
+
+El deterioro de los vehículos del **Trolebús**, con 20 años de antigüedad promedio, y de la **Ecovía**, con 15 años, según el Municipio de Quito, refleja desgaste mecánico y estructural.
+
+Para enfrentar esto, las autoridades anunciaron en mayo de 2024 la renovación de la flota con 50 nuevos trolebuses eléctricos y buses articulados. La entrega está prevista para el primer trimestre de 2025.
+
+Planes y demandas
+-----------------
+
+El **Municipio de Quito** anunció un plan integral para optimizar el servicio, que incluye la reapertura de paradas cerradas y la implementación de tecnología para mejorar la **seguridad** y el control de los pasajeros.
+
+Los usuarios, sin embargo, exigen soluciones inmediatas. “El transporte necesita mejoras ahora, no podemos seguir así”, comentó María López, quien señala que el tiempo perdido en el transporte público afecta directamente su jornada laboral.
+
+A pesar de los esfuerzos del Municipio, el **Trolebús y la Ecovía** enfrentan retos significativos para cumplir con las necesidades de movilidad de la población quiteña.
+
+Los comercios y clientes se alistan para el Black Friday en Ecuador
+===================================================================
+
+El Black Friday en Ecuador genera oportunidades financieras si se planifica con inteligencia, evitando compras impulsivas.
+--------------------------------------------------------------------------------------------------------------------------
+
+![El 'viernes negro' es el inicio de un periodo de inevitable exposición a promociones tentadoras. Planifique antes de salir a comprar.](https://www.elcomercio.com/wp-content/uploads/2024/11/black.jpg)
+
+A pocos días de que arranquen las promociones del **Black Friday en Ecuador**, los comercios y clientes se alistan para una de las épocas más comerciales del año. Esta fecha, que tiene origen en la cultura estadounidense, marca el inicio del periodo anual de mayor **intensidad comercia**l.
+
+### Más noticias
+
+* [Compra seguro en el Black Friday con estos consejos](https://www.elcomercio.com/actualidad/negocios/consejos-seguridad-compras-black-friday.html "Compra seguro en el Black Friday con estos consejos")
+* [¿Cuándo será el Black Friday en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/cuando-es-el-black-friday-en-ecuador.html "¿Cuándo será el Black Friday en Ecuador?")
+* [¿Cuándo será el Black Friday en 2024?](https://www.elcomercio.com/actualidad/mundo/cuando-es-el-black-friday.html "¿Cuándo será el Black Friday en 2024?")
+
+Según la **Cámara de Comercio de Quito (CCQ),** en 2023, la fecha movió cerca de 600 millones de dólares. En este 2024, las festividades representan un entorno de desafío y oportunidad para los consumidores ecuatorianos por la c**risis energética** y las bajas ventas registradas en meses previos.
+
+Las ventas internas de Ecuador durante agosto de 2024 presentaron una disminución del 1,7% en comparación con el mismo periodo de 2023, según datos del Servicio de Rentas Internas (SRI).
+
+Esta baja fue impulsada principalmente por la reducción en las **ventas de las empresas**, que cayó un 2% respecto al año anterior. Sin embargo, las **ventas de personas** también reportó un descenso del 0,9%.
+
+El sector **manufacturero** fue uno de los más afectados, con una caída del 7,1%, mientras que el sector **agrícola** mostró un crecimiento del 7,3%, compensando parcialmente la contracción en otros segmentos.
+
+Para captar clientes en esta época, los comercios lanzan sus mejores ofertas, con el objetivo de mejorar sus ventas. En **muchos locales** y centros comerciales, las promociones empezarán **el 28 de noviembre y se extenderán hasta el 1 de diciembre.**
+
+Recomendaciones para los compradores
+------------------------------------
+
+El impacto de las promociones va más allá del consumo. **Gonzalo Ruales**, gerente de Tesorería de Fideval, destaca que el evento puede convertirse en una herramienta para mejorar el bienestar financiero. “El bienestar no radica en los **ingresos que generamos**, sino en la capacidad para administrarlos y multiplicarlos a través de decisiones inteligentes”, señaló.
+
+Para aprovechar las ofertas sin comprometer las finanzas personales, los expertos recomiendan:
+
+* **Establecer un presupuesto** y priorizar necesidades.
+* **Evitar las compras impulsivas** mediante la comparación de precios.
+* **Evitar el uso de crédito** para artículos de consumo inmediato como ropa o comidas.
+
+Además, las promociones pueden ser vistas como una oportunidad para fomentar el ahorro. Por ejemplo, un descuento del 20% en una compra de 1 000 dólares hay un ahorro de 200 dólares que podrían destinarse a inversión. “Este enfoque transforma el consumo en una estrategia de crecimiento financiero”, señaló Ruales.
+
+Así, con el Black Friday, los ecuatorianos enfrentan el reto de elegir entre el **consumo impulsivo** y la oportunidad de transformar sus ahorros en inversión, una lección que puede extenderse a su planificación financiera a largo plazo.
+
+Gustavo Costas y la alegría tras el sufrimiento en Racing Club
+==============================================================
+
+Gustavo Costas, extécnico de Barcelona SC, se consagró campeón de la Copa Sudamericana con Racing Club.
+-------------------------------------------------------------------------------------------------------
+
+![Gustavo Costas y Juan Fernando Quintero fueron claves en el título de Racing en la Copa Sudamericana.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-8.jpg)
+
+ El entrenador **Gustavo Costas** se declaró en receso para hacer análisis tras conducir a Racing Club a la conquista por primera vez de la Copa Sudamericana.
+
+“Hoy no puedo hacer un análisis. Había que ganar como sea y lo hicimos. Lo merecimos y, si no sufrimos, no éramos Racing. Lo ganamos muy bien, este grupo y la gente lo merecen”, expresó el entrenador de 61 años que fue en su momento [campeón con Barcelona SC](https://www.elcomercio.com/deportes/futbol/gustavo-costas-barcelona-racing-sudamericana.html).
+
+### Más noticias:
+
+* [La explosión de alegría de los hinchas de Racing tras ganar la Copa Sudamericana](https://www.elcomercio.com/deportes/futbol/racing-cruzeiro-copa-sudamericana-campeon-2024.html "La explosión de alegría de los hinchas de Racing tras ganar la Copa Sudamericana")
+* [¿A qué hora juegan Racing y Cruzeiro la final de Copa Sudamericana?](https://www.elcomercio.com/deportes/racing-cruzeiro-copa-sudamerica-final-hora.html "¿A qué hora juegan Racing y Cruzeiro la final de Copa Sudamericana?")
+* [Libertad, Imbabura y Cumbayá aún luchan por evitar el descenso](https://www.elcomercio.com/deportes/futbol/descenso-cumbaya-imbabura-libertad-ligapro-cuenca.html "Libertad, Imbabura y Cumbayá aún luchan por evitar el descenso")
+
+**Costas**, quien cumplió casi toda su carrera de futbolista en el club de Avellaneda, trazó una sutil diferencia con la fuerza mediática de **River Plate** y **Boca Juniors**, y destacó la capacidad de sus jugadores de reponerse a las críticas.
+
+Gustavo Costas
+--------------
+
+“No somos millonarios, ni la mitad más uno, pero somos distintos a todos y hoy lo demostramos en Paraguay. Recibimos doscientos mil palazos y faltas de respeto, pero nos levantamos y luego de 36 años logramos clasificarnos a una final con título”, expresó.
+
+A su lado, el goleador de la **Copa Sudamericana** Adrián ‘Maravilla’ Martínez aseguró que cualquier colega “daría lo que sea para estar en estar” en la Academia.
+
+“Estoy contento por todos y por el profe porque es un hincha de Racing y nos dio todo para llegar hasta acá. Me pongo muy contento por él y por ser campeones”, expresó durante una distendida charla con la prensa.
+
+Costas anunció que tras la conquista de la edición 23 de la Copa Sudamericana, el objetivo es la lucha por el título en Argentina de la Liga Profesional de Fútbol.
+
+A falta de cuatro jornadas para el fin, Vélez Sarsfield lidera con 44 puntos, Huracán le escolta con 42 y Racing marcha en el tercer puesto con 40.
+
+“Seguro que vamos a pelear por el campeonato también. Antes no estábamos para ganar nada y ahora hay que ir por el doblete. Pero primero hay que valorar este título de hoy”, declaró el entrenador.
+
+De Martínez a Martínez
+----------------------
+
+“El calor fue terrible y a veinte minutos del fin le dije al ‘Profe’ que no daba más. Y Dios le dio la oportunidad a un compañero como Roger (Martínez) que por suerte, luego de tanto esfuerzo, hasta pudo convertir, porque es un gran profesional”, dijo ‘Maravilla’ en alusión al delantero colombiano, autor del gol que sentenció a los 95 minutos la final contra Cruzeiro (3-1).
+
+Costas dejó una reflexión para los hinchas y seguidores de la Racing. “La Academia se tiene que acostumbrar a ganar”.
+
+“Ahora nos falta descansar y el hincha de Racing tiene que disputar porque desde los 2 años que estoy en el cargo nunca se vio algo parecido a lo que generó este plantel”, puntualizó el técnico.
+
 ‘La Sustancia’ inyectó a Margaret Qualley en los ojos del público
 =================================================================
 
@@ -542,475 +880,3 @@ El Gobierno señaló que, con esta decisión, se busca promover el **turismo loc
 El comunicado concluye indicando que la administración de Daniel Noboa reafirma su compromiso de “**proteger Quito**“.
 
 Esto, a través de la seguridad y evitando que la ciudad “sea afectada por el **desorden o el vandalismo**“.
-
-La explosión de alegría de los hinchas de Racing tras ganar la Copa Sudamericana
-================================================================================
-
-Racing Club gana la Copa Sudamericana venciendo 3-1 a Cruzeiro en una final histórica en Asunción.
---------------------------------------------------------------------------------------------------
-
-![Racing Club y Cruzeiro disputaron la final de la Copa Sudamericana 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/racincruzeiro.jpg)
-
-La emoción se desbordó en Asunción, Paraguay, el sábado 23 de noviembre de 2024, cuando **Racing Club de Argentina** levantó su primera **Copa Sudamericana**, tras vencer 3-1 a Cruzeiro de Brasil en una final vibrante y cargada de dramatismo.
-
-La Nueva Olla fue testigo de una fiesta deportiva, con miles de hinchas argentinos colmando el estadio para celebrar el ansiado título internacional, que no se veía desde 1988.
-
-### Más noticias:
-
-* [Piero Hincapié se redime con victoria en el Bayer Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-victoria-bayer-leverkusen-heidenheim.html "Piero Hincapié se redime con victoria en el Bayer Leverkusen")
-* [Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester](https://www.elcomercio.com/deportes/futbol/moises-caicedo-clave-triunfo-chelsea-leicester.html "Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester")
-* [¿A qué hora juegan Racing y Cruzeiro la final de Copa Sudamericana?](https://www.elcomercio.com/deportes/racing-cruzeiro-copa-sudamerica-final-hora.html "¿A qué hora juegan Racing y Cruzeiro la final de Copa Sudamericana?")
-
-El encuentro comenzó con intensidad y **Racing** mostró su carácter ofensivo desde el inicio.
-
-A los 15 minutos, **Gastón Martirena** abrió el marcador, poniendo a los argentinos al frente. Apenas cinco minutos después, Adrián ‘Maravilla’ Martínez amplió la ventaja, estableciendo un 2-0 que hizo estallar la algarabía de los fanáticos presentes. El equipo argentino dominó el primer tiempo, con un juego sólido y seguro.
-
-Sin embargo, Cruzeiro no se rindió y a los 52 minutos, Kaio Jorge descontó para los brasileños, reavivando la esperanza de su hinchada y poniendo presión a Racing.
-
-A pesar del gol de descuento, el elenco de **Gustavo Costas**, que conoce la importancia de estas finales como exjugador de Racing y parte del último título internacional en 1988, mantuvo su orden y no permitió que la presión los desbordara.
-
-El gol definitivo llegó en el minuto 90 + 5, cuando Roger Martínez marcó el tercer tanto y selló la victoria por 3-1. Ese gol llegó cuando el rival pugnaba y generaba opciones para igualar.
-
-La victoria no solo consagró a Racing como campeón de la Copa Sudamericana, sino que también terminó con una larga espera de títulos internacionales, reafirmando el resurgir de la ‘Academia’ en el fútbol sudamericano.
-
-> 🤩💙🤍 Festejos de [@RacingClub](https://twitter.com/RacingClub?ref_src=twsrc%5Etfw): los goles, desde la tribuna de la Academia.  
->   
-> 🏆 CONMEBOL [#Sudamericana](https://twitter.com/hashtag/Sudamericana?src=hash&ref_src=twsrc%5Etfw) | [#LaGranConquista](https://twitter.com/hashtag/LaGranConquista?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/JNRNijia4U](https://t.co/JNRNijia4U)
-> 
-> — CONMEBOL Sudamericana (@Sudamericana) [November 23, 2024](https://twitter.com/Sudamericana/status/1860439027750420793?ref_src=twsrc%5Etfw)
-
-El equipo argentino celebró el trofeo que les otorga seis millones de dólares, mientras que Cruzeiro, a pesar de la derrota, se llevó dos millones.
-
-Esta final histórica dejó claro que el fútbol sudamericano sigue siendo un escenario de emociones y rivalidades intensas.
-
-> 🇦🇷🏆🇧🇷 ¡Formaciones confirmadas para la Final de la CONMEBOL [#Sudamericana](https://twitter.com/hashtag/Sudamericana?src=hash&ref_src=twsrc%5Etfw)!  
->   
-> ⚽️ Así van [@RacingClub](https://twitter.com/RacingClub?ref_src=twsrc%5Etfw) y [@Cruzeiro](https://twitter.com/Cruzeiro?ref_src=twsrc%5Etfw) para definir el campeón 2024.[#LaGranConquista](https://twitter.com/hashtag/LaGranConquista?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/xVTA3IwrlJ](https://t.co/xVTA3IwrlJ)
-> 
-> — CONMEBOL Sudamericana (@Sudamericana) [November 23, 2024](https://twitter.com/Sudamericana/status/1860397848832909591?ref_src=twsrc%5Etfw)
-
-Alerta por fuga de reos en la cárcel Regional Guayas este sábado 23 de noviembre
-================================================================================
-
-El SNAI organizó operativos de recaptura en coordinación con la Policía por la fuga de reos en la cárcel Regional Guayas.
--------------------------------------------------------------------------------------------------------------------------
-
-![La fuga de reos en la cárcel Regional Guayas se dio esta madrugada.](https://www.elcomercio.com/wp-content/uploads/2024/11/fuga-reos-carcel-regional-guayas.jpg)
-
-Una alerta por la **fuga** de **reos** se emitió desde la **cárcel Regional Guayas** este **sábado 23 de noviembre** de 2024.
-
-El **Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad y a Adolescentes Infractores (SNAI)**, en coordinación con la Policía, activó un operativo de recaptura.
-
-### Más noticias:
-
-* [Otra guía penitenciaria, asesinada en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/otra-guia-penitenciaria-asesinada-en-guayaquil.html "Otra guía penitenciaria, asesinada en Guayaquil")
-* [Vuelve la tensión a la Penitenciaría del Litoral, tras masacre](https://www.elcomercio.com/actualidad/seguridad/penitenciaria-litoral-tension-masacre.html "Vuelve la tensión a la Penitenciaría del Litoral, tras masacre")
-
-La fuga de reos en la cárcel Regional Guayas
---------------------------------------------
-
-El SNAI informó que, este sábado, en el **Centro de Rehabilitación Social (CRS) Guayas N.°4**, ocho reos evadieron los filtros de seguridad del centro.
-
-Conocido el hecho ocurrido en la madrugada, se activaron los **protocolos** para la recaptura de los privados de la libertad, en coordinación con la Policía Nacional.
-
-Policiales y militares reforzaron los controles en los perímetros del complejo penitenciario, ubicado sobre la vía a **Daule**.
-
-Los uniformados lograron **recapturar** a siete de los ocho reos fugados.
-
-Continúan los operativos de búsqueda y recaptura de **uno** de los presos, en los sitios cercanos a la cárcel Regional Guayas.
-
-El SNAI anunció que presentará la denuncia de este suceso ante la **Fiscalía Provincial de Guayas**, para que se investigue y sancione a las personas vinculadas.
-
-Hace dos días, el SNAI también confirmó el **asesinato** de una de sus guías penitenciarias, al bajar de un bus, en la av. Narciza de Jesús.
-
-Y, el 12 de noviembre, la Penitenciaría del Litoral fue escenario de una **masacre** que dejó 17 reos asesinados en el pabellón 3.
-
-En Colombia al menos 100 niños sufren violencia al día, alerta Unicef
-=====================================================================
-
-La organización lamentó que esta cifra solo representa los casos atendidos por el Instituto Nacional de Medicina Legal.
------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial.](https://www.elcomercio.com/wp-content/uploads/2024/11/ninos-colombia-efe.jpg)
-
- Al menos **100 niños y niñas** sufren algún acto de violencia al día en [Colombia](https://www.elcomercio.com/actualidad/mundo/dolar-sigue-ascenso-colombia-acercandose-4-500-pesos.html "https://www.elcomercio.com/actualidad/mundo/dolar-sigue-ascenso-colombia-acercandose-4-500-pesos.html"), 53 de ellos violencia sexual, **alertó Unicef** en el lanzamiento de su campaña **‘Trátame al derecho’,** que busca crear conciencia y movilizar a la sociedad para tomar acciones de cara a garantizar una vida sin violencia para la niñez y adolescencia.
-
-### Más noticias
-
-* [El dólar sigue su ascenso en Colombia, acercándose a los $4 500 pesos](https://www.elcomercio.com/actualidad/mundo/dolar-sigue-ascenso-colombia-acercandose-4-500-pesos.html "https://www.elcomercio.com/actualidad/mundo/dolar-sigue-ascenso-colombia-acercandose-4-500-pesos.html")
-* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html")
-* [Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz](https://www.elcomercio.com/actualidad/negocios/colombia-confirma-suministrara-electricidad-ecuador-cortes-de-luz.html "https://www.elcomercio.com/actualidad/negocios/colombia-confirma-suministrara-electricidad-ecuador-cortes-de-luz.html")
-
-La organización lamentó que esta cifra solo representa los casos atendidos por el **Instituto Nacional de Medicina Legal**, lo que significa que son “especialmente graves” y suponen un subregistro.
-
-En el **Día Mundial de la Infancia**, que este año conmemora los 35 años de la **Convención sobre los Derechos del Niño,** Unicef lanzó esta campaña para “amplificar” las voces de los niños y adolescentes, que “exigen” que sus derechos sean respetados y que sus escuelas y comunidades sean entornos donde puedan crecer en el respeto y la protección.
-
-Según datos compartidos por la organización a partir de las cifras de Medicina Legal, en 2023 en Colombia se atendieron **35 339 casos de violencia hacia niños**, niñas y adolescentes, entre ellos 607 homicidios, 6.369 casos de violencia intrafamiliar y 19.192 casos de violencia sexual.
-
-En este sentido, Unicef alertó que **“la niñez y la adolescencia representan el 81 % del total de reportes** de violencia sexual” en el país.
-
-“Queda mucho por hacer”
------------------------
-
-La iniciativa consiste en una **página web que facilita información, cursos, tests**, recursos pedagógicos sobre la **crianza de los niños y niñas** y cuenta con un portal de donaciones para la prevención de la vulneración y la **protección de los derechos de la infancia** y la adolescencia en Colombia.
-
-Además del portal **‘Trátame al derecho**‘, la organización cuenta con diferentes aliados de todo el país que iluminarán las fachadas de sus sedes de color azul para sumarse a la iniciativa, como la **Torre Colpatria** y el Movistar Arena en Bogotá y monumentos nacionales como el Santuario de Nuestra Señora del Rosario de Las Lajas.
-
-“**Los derechos de los niños son derechos humanos**“, manifestó la representante de Unicef en Colombia, Tanya Chapuisat, y agregó que “queda mucho por hacer” porque “se sigue fallando a los niños en muchos frentes”.
-
-Chapuisat recordó la **Conferencia Ministerial Mundial** para poner fin a la violencia contra la infancia, que tuvo lugar a principios de noviembre en Bogotá y en la que 91 estados **“hicieron compromisos puntuales”** para garantizar la **protección de los derechos** de la **infancia de manera tangible.**
-
-Por su parte, la directora del **Instituto de Bienestar Familiar**, Astrid Cáceres, reivindicó que los niños indígenas y los niños afro sufren una **especial discriminación** y que la vulneración de sus derechos “genera consecuencias en su **salud física y mental**” y les acompaña durante toda su vida.
-
-Niños del Amazonas
-------------------
-
-“Los **niños del Amazonas** viven en un tiempo distinto a los 35 años de la convención. Hay municipios a los que no llegó, Colombia es un país muy desigual en derechos del niño. Hay que lograr que esos 35 años lleguen al resto de niños. Ese es el reto”, agregó.
-
-Estrés en medio de cortes de luz, ¿qué opciones hay?
-====================================================
-
-Hay servicios y alternativas para problemáticas ante la crisis por cortes de luz.
----------------------------------------------------------------------------------
-
-![La Unidad Patronato Municipal San José tiene servicios como acogida a mujeres sobrevivientes de violencia de género.](https://www.elcomercio.com/wp-content/uploads/2024/11/casa-de-la-mujer.jpg)
-
-Los **cortes de luz** en Ecuador llegaron con complicaciones en la salud mental. Las relaciones intrafamiliares también pueden verse afectadas por la tensión. Hay algunos pasos para actuar frente a una realidad latente.
-
-**Estrés, ansiedad y desgaste emocional** de las personas están entre los males que se generaron o se intensificaron con la crisis eléctrica.
-
-### Más noticias
-
-* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
-* [Cortes de luz en Quito para este martes 19 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-martes-19-de-noviembre.html "Cortes de luz en Quito para este martes 19 de noviembre")
-* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
-
-> 💜 [#QuitoMiHogarSeguro](https://twitter.com/hashtag/QuitoMiHogarSeguro?src=hash&ref_src=twsrc%5Etfw) | Prevenir la violencia intrafamiliar en tiempos de estrés y crisis energética, fomenta una cultura de paz. ¡Juntos apaguemos las violencias!  
->   
-> ➡️Conoce más: [https://t.co/1HPoCvYbHq](https://t.co/1HPoCvYbHq)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/C4SBE4W1bx](https://t.co/C4SBE4W1bx)
-> 
-> — Patronato San José Quito (@PatronatoSJ) [November 17, 2024](https://twitter.com/PatronatoSJ/status/1858173179165876229?ref_src=twsrc%5Etfw)
-
-Cortes de luz, violencia intrafamiliar y otras afectaciones
------------------------------------------------------------
-
-Según la **Organización Mundial de la Salud (OMS)**, el estrés se define como un estado de preocupación o tensión mental generado por una situación difícil.
-
-Según la Primera Encuesta Distrital de Salud Mental aplicada a 1 392 familias de Quito, en este 2024, por parte de la Secretaría de Salud, 8 de cada 10 personas reconoce un nivel ‘algo estresante’ en sus vidas.
-
-La principal causa de estrés para casi la mitad de la población encuestada (49,8%) representa la situación económica-laboral.
-
-En Quito, la **[Unidad Patronato Municipal San José](https://www.facebook.com/PatronatoQuito/?locale=es_LA)** impulsa la campaña Quito, mi hogar seguro: juntos apagamos las violencias.
-
-La propuesta se encontrará vigente mientras dure la crisis y la meta es que los hogares de Quito sean espacios seguros y afectivos.
-
-Las acciones incluyen programas de educomunicativos y sensibilización a la ciudadanía sobre sus derechos, **rutas de protección** y cómo evitar las violencias.
-
-Acciones para aplicar en los hogares
-------------------------------------
-
-Desde Patronato San José, que cuenta con servicios para **poblaciones vulnerables**, detallan que es importante explicar a los niños lo que sucede para que puedan comprender los cambios que puedan presentarse.
-
-Además, es necesario dividir las tareas del hogar y planificar para aliviar la carga en una sola persona, evitando así **cansancio, fatiga y estrés**.
-
-Otra recomendación es no fomentar el **miedo a la oscuridad** en los niños y adolescentes con historias que pueda causarles malestar o ansiedad.
-
-En las actividades diarias
---------------------------
-
-Para disminuir el estrés por las actividades diarias, en la medida de lo posible, se puede preparar los implementos, medicinas, alimentos y otros elementos necesarios antes del **corte de luz**.
-
-Se puede organizar el tiempo con **juegos, adivinanzas, contar historias**, entre otras actividades que motiven la unión y la creatividad.
-
-Acciones comunitarias
----------------------
-
-En el ámbito comunitario, una práctica crucial es fomentar el cuidado y la solidaridad en los barrios, conjuntos, urbanizaciones o edificios.
-
-Las redes de apoyo son importantes, por ejemplo, para compartir recursos básicos, como agua o alimentos, incluso, retomando la práctica del trueque.
-
-Una buena opción es implementar actividades en **casas o centros comunitarios**, como ejercicios, talleres, charlas, etc.
-
-También es importante ubicar espacios donde se pueda trabajar, de ser necesario, en las horas de los apagones. En Quito se pueden encontrar espacios de [coworking](https://www.conquito.org.ec/red-metropolitana-de-coworking/).
-
-¿Qué hacer en casos de riesgo?
-------------------------------
-
-Los distintos tipos de violencia también son parte de las crisis. En caso de que una mujer y sus hijos se sientan amenazados, pueden llamar al **911**.
-
-A su vez, la Unidad Patronato Municipal San José cuenta con la línea gratuita **1800-288-523**. La entidad municipal cuenta con una persona especializada en temas de prevención de violencias.
-
-Del mismo modo, la ciudadanía puede llamar a la línea **101, opción 9** para acceder a una teleconsulta psicológica. Esto en caso de estrés, desesperación o que dificultad para controlar emociones.
-
-Servicios legales
------------------
-
-Cualquier persona natural o institución jurídica que conozca de un caso de amenaza o **violación de derechos**, puede denunciar en las Juntas Metropolitanas de Protección de Derechos, en casos de menores, mujeres y personas adultas mayores.
-
-La denuncia se puede realizar a través de los medios electrónicos y canales al alcance de la ciudadanía, en la página [web](https://inclusionsocial.quito.gob.ec/).
-
-En la capital ecuatoriana, a su vez, está el **Centro de Equidad y Justicia Tres Manuelas**. También las casas de acogida de la Mujer, de la Adolescente y de las Diversidades.
-
-El acuerdo sobre mercado de carbono, con el que finaliza la COP29, genera controversia
-======================================================================================
-
-El artículo 6 del Acuerdo de París insta a los países a cooperar para reducir sus emisiones de carbono.
--------------------------------------------------------------------------------------------------------
-
-![Una foto proporcionada por ONU Cambio Climático a EFE muestra a activistas climáticos durante una protesta en la Conferencia de las Naciones Unidas sobre Cambio Climático COP29, en Bakú.](https://www.elcomercio.com/wp-content/uploads/2024/11/56ac15af75af409eee8ef6869945023de7333f1b.jpg)
-
-Los países representados en la COP29 de Bakú (Azerbaiyán) alcanzaron un acuerdo sobre comercio de emisiones de carbono y creación de un mercado mundial regulado. Esto con el fin de cumplir los objetivos del art. 6 del Acuerdo de París.
-
-Más noticias
-------------
-
-* [Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración](https://www.elcomercio.com/opinion/editorial/compromiso-g-20-de-mitigar-cambio-climatico-no-sea-solo-declaracion.html "Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración")
-* [En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes](https://www.elcomercio.com/tendencias/ambiente/en-ecuador-12-mil-puestos-de-trabajo-que-se-llenaron-en-2023-fueron-considerados-verdes.html "En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes")
-
-“Esta era una de las principales prioridades de la Presidencia para el año. Se impulsó a las partes hacia este hito mediante intensas negociaciones técnicas y políticas de doble vía. Esta estrategia rompió con años de estancamiento y finaliza el último punto pendiente del Acuerdo de París”. Esto lo destaca el comunicado de la organización.
-
-El acuerdo, según el documento, dio sus primeros pasos positivos cuando, en la primera semana, se acordó construir un mercado de carbono centralizado en el marco de NN.UU.
-
-El artículo 6 del Acuerdo de París insta a los países a cooperar para reducir sus emisiones de carbono. En ese sentido, un país puede transferir a otro los créditos de carbono que obtuvo mediante la reducción de sus emisiones.
-
-Esto supone que los países que liberen poco C02 pueden vender derechos de emisión a quienes más generen, bajo la gestión de NN.UU., con garantías de contabilidad y con registro de intercambios.
-
-Para la presidencia de la COP, que vivió hoy un día contrarreloj, el acuerdo proporciona “mercados de carbono fiables y transparentes” a los países que colaboran para alcanzar sus objetivos climáticos.
-
-Según la presidencia de Azerbaiyán, la creación del Mercado de Carbono de la ONU podría desbloquear flujos de inversión de 250 mil millones de dólares al año. Esto facilitaría a los países el cumplimiento de sus respectivas contribuciones climáticas nacionales (NDC).
-
-Acuerdo sobre mercado de carbono generó reacciones
---------------------------------------------------
-
-La forma de llevar las negociaciones generó críticas y el acuerdo levantó una oleada de reacciones. Esto se debe a que es una parte controvertida de la política medioambiental.
-
-La ministra alemana de Exteriores, Annalena Baerbock, acusó a los estados petroleros de “juegos geopolíticos” y de maniobras “engañosas”, en las negociaciones contrarreloj.
-
-La negociadora principal de Panamá, Ana Aguilar, criticó la falta de transparencia en el proceso, algo que achacó a la presidencia azerí de la cumbre. Según ella tuvo más reuniones con unas partes que con otras.
-
-Para la organización Greenpeace, los mecanismos de mercado de carbono acordados “son una estafa”, al permitir a la industria fósil compensar las nuevas emisiones.
-
-Kelly Stone, analista política senior de ActionAid USA, destacó que el acuerdo elude la financiación climática en favor del “lavado verde”. “Los mercados de carbono que permiten la compensación – que son esencialmente permisos para seguir contaminando – no son acción climática”.
-
-Incendio de un tanquero deja un fallecido y tres heridos en la avenida Simón Bolívar
-====================================================================================
-
-Hay varios autos afectados debido al flagelo. El cielo de Quito se llenó de humo negro.
----------------------------------------------------------------------------------------
-
-![El tanquero que se incendió en la Simón Bolívar llevaba combustible. Foto: Cuerpo de Bomberos de Quito](https://www.elcomercio.com/wp-content/uploads/2024/11/simon-bolivar-tanquero-invendio_720.jpg)
-
-Cerca del mediodía de este sábado 23 de noviembre del 2024 se produjo un siniestro de tránsito sobre la avenida Simón Bolívar. Según información disponible del ECU 911 se trata de un vehículo tipo tanquero que se incendió en el sitio y afectó a otros dos vehículos.
-
-Más noticias
-------------
-
-* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
-* [Que la prevención de los siniestros de tránsito no se detenga en Quito](https://www.elcomercio.com/opinion/editorial/prevencion-siniestros-transito-quito-accidentes.html "Que la prevención de los siniestros de tránsito no se detenga en Quito")
-
-Según las imágenes, el conductor del tanquero perdió los frenos y el control. Luego se impactó contra los postes de luz y otros dos vehículos. Esta colisión provocó el incendio y la explosión, que alertó a los habitantes del sector de la Loma de Puengasí, en el sur oriente de Quito.
-
-En tanto, en redes sociales empezaron a subir videos, en los que se observa como el fuego consumía a otros dos vehículos afectados por el impacto del tanquero.
-
-Las llamas se propagaron hacia una de las laderas, que está cerca de varias casas. El Cuerpo de Bomberos informó que los equipos de primera respuesta atienden la emergencia y pidió a la ciudadanía evitar transitar por el sector y permitir el paso de los vehículos de emergencia.
-
-Debido a este siniestro, el sector se llenó de humo y desde varios puntos de la ciudad se ve una columna de humo negro, que se propaga rápidamente.
-
-La [Agencia Metropolitana de Tránsito](https://www.amt.gob.ec/ "https://www.amt.gob.ec/") (AMT) confirmó la muerte de una persona, a la que hasta las 13:30 no le podían extraer de uno de los vehículos afectados.
-
-Se trata del conductor de un vehículo que colisionó con el tanquero. Él iba junto con su madre, quien se encuentra estable, pero con heridas y contusiones.
-
-Adicionalmente, el Ministerio de Salud Pública (MSP) confirmó que hay tres personas heridas. Presentaron quemaduras y, por esto fueron trasladas a casas de salud.
-
-Además informó que la avenida Simón Bolívar, en dirección norte-sur, aún no se va a poder habilitar por algunas horas. Esto se debe a que se están haciendo pericias para ver el tipo de combustible que llevaba el tanquero. En el sentido sur- norte de esta vía ya se habilitó la circulación de vehículos.
-
-El personal de la entidad recomienda tomar rutas alternas como la General Rumiñahui, avenida Maldonado, Velasco Ibarra y la Interoceánica.
-
-Pese a esto se mantiene congestión vehicular a lo largo de la Simón Bolívar.
-
-**Noticia en desarrollo**
-
-Filtran videos y fotos del ‘live action’ de Moana con Dwayne Johnson, La Roca
-=============================================================================
-
-Las redes sociales se llenaron de elogios tras la filtración del material audiovisual.
---------------------------------------------------------------------------------------
-
-![Dwayne Johnson dará vida a dará vida a Maui, un carismático semidiós polinesio.](https://www.elcomercio.com/wp-content/uploads/2024/11/dwayne-johnson-moana_720.jpg)
-
-En fotos y videos, tomadas en Hawaii el miércoles 20 de noviembre, se ve a Dwayne Johnson con una falda de hojas naturales, un collar de dientes y una melena negra y larga. El actor, más conocido como La Roca, interpreta al persona **Maui.** Se trata del semidiós que en la versión animada deslumbró con su carisma y la canción ‘You’re Welcome’.
-
-Más noticias
-------------
-
-* [¿Qué tan fiel es la película de ‘Pedro Páramo’ en Netflix al libro de Juan Rulfo?](https://www.elcomercio.com/tendencias/pedro-paramo-netflix.html "¿Qué tan fiel es la película de ‘Pedro Páramo’ en Netflix al libro de Juan Rulfo?")
-* [Se prepara una adaptación al cine de la exitosa serie ‘Juego de Tronos’](https://www.elcomercio.com/tendencias/trending/juego-tronos-serie-pelicula.html "Se prepara una adaptación al cine de la exitosa serie ‘Juego de Tronos’ ")
-
-Mientras los fanáticos esperan la secuela animada, Moana 2, que llegará a los cines el 27 de noviembre, Disney avanza con esta versión en acción real, prevista para estrenarse en 2026.
-
-Johnson, de 52 años, quien también prestó su voz para el Maui animado, no tuvo que modificar su físico para el papel. A pesar de que el personaje en la película original tiene una complexión robusta, el exluchador profesional muestra su característico físico tonificado.
-
-“Es una forma de rendir homenaje a mi herencia y cultura polinesia, como también a una historia increíble que resuena en todo el mundo”, aseguró La Roca cuando fue confirmado para este papel.
-
-Las redes sociales se llenaron de elogios tras la filtración del material audiovisual. Destacan el parecido de Dwayne Johnson con Maui. Los seguidores esperan con ansia ver su interpretación en esta nueva adaptación.
-
-Por otra parte, la actriz que será Moana es la joven de 17 años llamada Catherine Laga’aia, originaria de Sidney Australia. La elección fue muy bien recibida por parte de los fans. A diferencia de otras producciones como La Sirenita, los seguidores señalan que Catherine sí tiene rasgos similares a los su personaje. “Estoy muy emocionada de abrazar a este papel; Moana es una de mis favoritas”, dijo la actriz.
-
-Con este proyecto, [Disney](https://www.disneylatino.com/peliculas/moana-2 "https://www.disneylatino.com/peliculas/moana-2") busca no solo revivir la magia de esta película, sino presentar una versión que atraiga a nuevos fanáticos como a aquellos que crecieron con el filme de 2016.
-
-Alarma por el estado de salud de la reina Camila
-================================================
-
-La esposa de Carlos III lleva varias semanas con una infección pulmonar que la mantiene alejada de compromisos reales.
-----------------------------------------------------------------------------------------------------------------------
-
-![Camila Parker luchas desde hace días contra una infección pulmonar. Foto: Archivo EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/camilla-parker_720.jpg)
-
-Saltan las alarmas por el estado de salud de la **reina Camila** tras las últimas actualizaciones de la Casa Real Británica. La esposa de Carlos III batalla por días contra una **infección pulmonar**.
-
-Pese a que se había dicho que su recuperación era satisfactoria y, de hecho, retomó sus quehaceres dentro de la monarquía. Pero parece que su incorporación fue precipitada, ahora se conoce que la royal británica continuará un tiempo más apartada, según publica Infobae.
-
-Más noticias
-------------
-
-* [Robaron el Castillo de Windsor mientras el príncipe William, Kate Middleton y sus hijos dormían](https://www.elcomercio.com/tendencias/robo-castillo-windsor.html "Robaron el Castillo de Windsor mientras el príncipe William, Kate Middleton y sus hijos dormían")
-* [Rey Carlos III cancela viaje en medio de su lucha contra el cáncer](https://www.elcomercio.com/actualidad/mundo/rey-carlos-cancer.html "Rey Carlos III cancela viaje en medio de su lucha contra el cáncer")
-
-El palacio de Buckingham emitió un comunicado sobre cómo evoluciona su enfermedad, provocando una gran preocupación. Esto ocurrió luego de que se conoció que Camila Parkles Bowles no estaría presente junto al rey en el acto fechado para este viernes, 22 de noviembre, el **Royal Variety Performance.**
-
-“Después de una reciente infección en pecho, la reina continúa experimentando algunos síntomas posvirales persistentes. Como resultado, los médicos han aconsejado que, después de una semana ocupada de compromisos, Su majestad debería priorizar el descanso suficiente”. Así lo anunciaron horas antes de que tuviese lugar dicho evento.
-
-“Con gran pesar, ella se ha retirado de la asistencia al Royal Variety Performance. Su Majestad no asistirá según lo planeado”, indican al medio británico The Mirror.
-
-“Espera volver a estar en plena forma y a sus deberes públicos habituales muy pronto”, ha señalado otra fuente al medio británico Exprés.
-
-Por otra parte, el padre del príncipe Guillermo recibe tratamiento de quimioterapia para hacer frente al cáncer que padece. Esto significa que sus defensas están más debilitadas que las de cualquier otra persona y, por lo tanto, más susceptibles de contagiar esta dolencia.
-
-El palacio de Buckingham ha emitido un comunicado en el que ha dado la **última hora de cómo evoluciona su enfermedad**, provocando una gran [preocupación en el estado de salud](https://www.infobae.com/espana/2024/11/09/preocupacion-por-el-estado-de-salud-de-la-reina-camila-su-ausencia-en-dos-importantes-eventos-a-los-que-si-asistira-kate-middleton/) de Camila Parkles Bowles tras desvelar que esta no estaría presente junto al rey en el acto fechado para la noche de este viernes, 22 de noviembre, el Royal Variety Performance.
-
-Daniel Noboa cumple su primer año de gobierno
-=============================================
-
-Daniel Noboa cumple un año de gestión con reformas económicas, crisis energética y desafíos en seguridad y relaciones internacionales.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa en el Palacio de Carondelet el pasado 23 de noviembre de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-48-3.jpg)
-
-El 23 de noviembre de 2023, **Daniel Noboa** asumió la Presidencia de Ecuador, marcando un hecho histórico como el mandatario más joven en dirigir el país.
-
-### Más noticias
-
-* [Propuesta de Daniel Noboa sobre bases militares tiene cronograma en la Asamblea](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-cronograma-asamblea.html "Propuesta de Daniel Noboa sobre bases militares tiene cronograma en la Asamblea")
-* [Daniel Noboa habla de desestabilización, luego de las marchas de la oposición](https://www.elcomercio.com/actualidad/politica/daniel-noboa-desestabilizacion-marchas-oposicion.html "Daniel Noboa habla de desestabilización, luego de las marchas de la oposición")
-* [Daniel Noboa: ‘En diciembre se acabarán los apagones’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-apagones-cortes-luz-diciembre.html "Daniel Noboa: ‘En diciembre se acabarán los apagones’")
-
-Su gestión en el primer año se centró en temas prioritarios como **la economía, la seguridad, la crisis energética** y el cumplimiento de **compromisos internacionales**. Estas decisiones han tenido repercusiones importantes tanto a escala nacional como internacional.
-
-> Estamos librando una guerra que debería ser la del Ecuador entero, pero hoy no lo es.  
->   
-> Hoy quedaron en evidencia: prefieren ver a Ecuador arder, con tal de reinar sobre sus cenizas. [pic.twitter.com/RFEBsnsqWJ](https://t.co/RFEBsnsqWJ)
-> 
-> — Daniel Noboa Azin (@DanielNoboaOk) [August 8, 2024](https://twitter.com/DanielNoboaOk/status/1821579773581443110?ref_src=twsrc%5Etfw)
-
-Noboa inició su mandato en un contexto desafiante, con **múltiples problemas estructurales** que requerían medidas inmediatas. A lo largo del año, implementó diversas políticas con el objetivo de mejorar las **condiciones económicas y sociales del país**, mientras gestionaba situaciones críticas como la violencia y el déficit energético.
-
-Reformas económicas durante el periodo de Daniel Noboa
-------------------------------------------------------
-
-En abril de 2024, el **Impuesto al Valor Agregado (IVA)** subió del **12% al 15%**, con el apoyo de la Asamblea que aprobó el proyecto económico. Este cambio fue aprobado en un **plan económico más amplio** para fortalecer las finanzas públicas del país.
-
-Según el Ministerio de Economía, la medida generará ingresos adicionales de **1 500 millones de dólares anuales**. El incremento se dio, a pesar de que en su campaña política dijo que no subiría los impuestos, y justificó el cambio como una medida necesaria ante la crisis que afecta al Ecuador.
-
-El 28 de junio de 2024, se eliminó el subsidio a las **gasolinas extra y ecopaís** y se implementó un sistema de bandas que ajusta las **tarifas mensualmente desde el 12 de julio de 2024**.
-
-Relación con el FMI, acuerdos financieros
------------------------------------------
-
-En mayo de 2024, Ecuador concretó un programa con el **Fondo Monetario Internacional (FMI)** que incluyó un préstamo de **4 000 millones de dólares**.
-
-El primer desembolso, por **1 000 millones de dólares**, se realizó a finales de ese mes, y un segundo, de **500 millones de dólares**, está previsto para diciembre.
-
-El programa con el FMI también incluye metas de **sostenibilidad fiscal y fortalecimiento de la economía** a largo plazo.
-
-Primer año con desafíos fiscales y deuda
-----------------------------------------
-
-**Fausto Ortiz**, exministro de Economía, evaluó el primer año de gestión de Daniel Noboa y mencionó que los atrasos económicos, que ascendían a más de **5 500 millones de dólares** al inicio del periodo, no han disminuido.
-
-Según Ortiz, el gobierno optó por pagar deudas antiguas y acumular nuevas, dejando el saldo de atrasos prácticamente igual al **año anterior**.
-
-En cuanto al déficit fiscal, señaló que se logró una **leve reducción**, aunque a costa de **no cumplir con gastos obligatorios en áreas como salud y educación**. Para Ortiz, la falta de a**cceso a financiamiento significativo** sigue siendo un obstáculo clave para la **gestión económica**.
-
-Limitado crecimiento económico y empleo
----------------------------------------
-
-En cuanto al empleo, Ortiz reconoció un incremento en las **plazas de trabajo** entre septiembre de 2023 y septiembre de 2024, aunque matizó que el avance es **menor al esperado**, según los planes del gobierno. Para Ortiz, este panorama refleja una economía con **pocos estímulos para la generación de oportunidades laborales**.
-
-El exministro también analizó la **inversión pública**. Califica su ejecución como **tardía y destacando que áreas críticas como el sector eléctrico** arrancaron con **presupuestos bajos**. Aunque se incrementaron recursos en septiembre, señaló que los efectos podrían haber sido **más significativos si se hubieran ejecutado desde inicios de año**.
-
-Por otro lado, Ortiz reconoció avances en la **reducción de subsidios a combustible**s, especialmente en gasolina, aunque consideró que el proceso sigue **siendo insuficiente**. En el caso del diésel, enfatizó que aún queda un largo camino por recorrer, dado que no se esperan mayores ajustes en este ámbito durante 2024.
-
-Crisis energética, apagones y otras medidas
--------------------------------------------
-
-El 23 de septiembre de 2024, el gobierno implementó cortes de luz de hasta **14 horas diarias en varias provincias,** debido a la falta de agua para las hidroeléctricas, por la sequía prolongada.
-
-Ecuador tiene un déficit de 1 080 megavatios que dejaron de producir Mazar y el complejo Paute, cuyos embalses están bajos, porque no llueve en el Austro. También hay complicaciones con la central Coca Codo Sinclair, por el bajo caudal del río Coca.
-
-> Conoce las acciones, a mediano plazo,👇que el Gobierno del presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) realiza para garantizar un futuro con soberanía energética y sin depender de las hidroeléctricas. [#EcuadorUniendoEsfuerzos](https://twitter.com/hashtag/EcuadorUniendoEsfuerzos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tW93WD3b71](https://t.co/tW93WD3b71)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [October 18, 2024](https://twitter.com/Presidencia_Ec/status/1847310093487927515?ref_src=twsrc%5Etfw)
-
-Para paliar la situación, se compra energía eléctrica a Colombia y Perú, pero con este país la cantidad es menor. Colombia nos vende -en promedio- 430 megavatios.
-
-Cierre del Bloque 43-ITT, Yasuní y biodiversidad
-------------------------------------------------
-
-El 28 de agosto de 2024, el gobierno comenzó el cierre progresivo del **Bloque 43-ITT (Ishpingo-Tambococha-Tiputini)**, ubicado en el **Parque Nacional Yasuní**, en cumplimiento del mandato de la Consulta Popular de 2023. Este proceso incluyó el **apagado de pozos y la suspensión de operaciones petroleras en la zona**.
-
-> 🔴INVITACIÓN A RUEDA DE PRENSA  
->   
-> La Veeduría para vigilar el proceso para conservar indefinidamente bajo tierra el crudo del Bloque 43 en el Yasuní entregará su informe parcial el día de mañana, 5 de septiembre de 2024, en las oficinas del [@CpccsEc](https://twitter.com/CpccsEc?ref_src=twsrc%5Etfw) [pic.twitter.com/qafztQpEhY](https://t.co/qafztQpEhY)
-> 
-> — YASunidos (@Yasunidos) [September 5, 2024](https://twitter.com/Yasunidos/status/1831498431292170699?ref_src=twsrc%5Etfw)
-
-La medida fue implementada bajo la **supervisión de las autoridades ambientales** y en cumplimiento de la orden de la Corte Constitucional. Este cierre tiene implicaciones **económicas**, dado que el bloque representó ingresos por 6 733 millones de dólares, entre 2016 y 2022**, según el Banco Central**. La explotación del bloque comenzó en 2016.
-
-Tema de seguridad
------------------
-
-En enero de 2024, el gobierno declaró un **“conflicto armado interno”** como estrategia para enfrentar al crimen organizado. Esto permitió un mayor despliegue de fuerzas militares en las calles y la intervención en cárceles para combatir la **violencia y el narcotráfico**.
-
-El presidente Noboa ha emitido ocho decretos de estado de excepción, incluidas las renovaciones, para controlar a las bandas del crimen organizado, relacionadas con el tráfico de drogas, armas, lavado, entre otras actividades ilícitas.
-
-Relaciones internacionales
---------------------------
-
-En el **ámbito internacional**, el gobierno gestionó situaciones diplomáticas complejas, como la intervención en la **embajada mexicana** en Quito para arrestar al exvicepresidente Jorge Glas.
-
-Sobre el incidente con la Embajada de México, **Donoso-Muller, analista político**, lo describió como un episodio con **múltiples implicaciones**. Internamente, destacó que la decisión de mantener a Jorge Glas en el país buscó preservar la popularidad del gobierno, a pesar de otros escándalos como la **fuga de Fito**.
-
-Donoso-Muller reconoció que, diplomáticamente, el conflicto generó tensiones internacionales, incluyendo procesos en organismos que podrían sancionar a Ecuador.
-
-No obstante, señaló que el gobierno utilizó esta **crisis para señalar a opositores** como enemigos del pueblo, lo que fortaleció su posición interna. Aunque el **riesgo internacional ha disminuido** con el tiempo, el caso sigue siendo un desafío para la **imagen del país en el exterior.**
-
-Desafíos políticos, conflictos internos y oposición creciente
--------------------------------------------------------------
-
-En el plano político, Noboa enfrentó conflictos internos, incluyendo tensiones con la **vicepresidenta Verónica Abad**, quien fue apartada del Gobierno mediante una sanción de **150 días impuesta por el Ministerio de Trabajo**, acusada de **“abandono del cargo”**.
-
-**Maximiliano Donoso-Muller**, analista político, calificó de **“complicada” la relación entre Daniel Noboa y su vicepresidenta**. Según él, la falta de **madurez política** tanto del presidente como de su equipo ha hecho imposible mantener un vínculo cordial y de respeto.
-
-Estas tensiones han sido evidentes y reflejan una falta de cohesión interna en el Ejecutivo. Para Donoso-Muller, este escenario no solo debilita la **imagen del gobierno**, sino que también afecta su capacidad de enfrentar otros **desafíos políticos**.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCmbouMx8jW/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCmbouMx8jW/?utm_source=ig_embed&utm_campaign=loading)
-
-Además, acusó a la **“vieja política”** de intentar desestabilizar su gobierno mediante ataques y alianzas que buscaban desacreditarlo.
-
-El gobierno de Daniel Noboa también enfrentó dos juicios políticos a las ministras **Gabriela Sommerfeld y Mónica Palencia**. El Pleno de la **Asamblea** no consiguió los votos necesarios para censurar a las Ministras.
-
-En cuanto a la relación con la Asamblea Nacional, Donoso-Muller destacó que Noboa logró inicialmente cierto consenso en temas prioritarios **como seguridad y crimen organizado**. Sin embargo, con el paso del tiempo y la cercanía de las elecciones, ese **consenso se diluyó**, dando paso a alianzas móviles que complicaron la gobernabilidad.
-
-A pesar de ello, resaltó que la aprobación de leyes clave, como el **incremento de impuestos**, reflejó una **estrategia política efectiva en el corto plazo**. Sin embargo, advirtió que esta dinámica podría haber tenido un **costo político para el gobierno** y su relación con las distintas bancadas.
