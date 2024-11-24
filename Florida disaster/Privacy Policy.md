@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Saturday, November 23, 2024**
+**Sunday, November 24, 2024**
 
-**...High Pressure Sliding Eastward Over the State To Bring Clear and Dry Conditions Today and Tonight...Locally Sensitive Wildfire Conditions Possible Over Areas That Have Seen Little to No Rainfall Recently As Relative Humidity Values Fall to Near Critical Thresholds (30-45%) This Afternoon...Low Temperatures in the Middle 30s to Low 40s Across Interior Portions of North Florida Overnight...Patchy Areas of Frost Possible Across the Suwannee Valley and Inland Portions of Northeast Florida...Some Frost Cannot Be Ruled Out Across Cooler Sheltered Locations Along the Florida Panhandle...Moderate Risk For Rip Currents Nearly Statewide...**
+**...High Pressure Over Southeast U.S. to Continue to Bring Mostly Sunny and Dry Conditions Statewide...Sensitive Wildfire Conditions Across Big Bend, Northeast and Central Florida this Afternoon; Relative Humidity Values Near or Below Critical Thresholds...Near Zero Chance of Rain Statewide...Patchy to Locally Dense Fog Possible Overnight and Early Monday Morning From Big Bend through Northern Peninsula...Moderate Risk for Rip Currents Along Numerous Panhandle and East Coast Beaches...Minor Flooding Continues for Withlacoochee River near Holder and St. Johns River at Astor...No Tropical Cyclone Activity Expected Within Next 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
