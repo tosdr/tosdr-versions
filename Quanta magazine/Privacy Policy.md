@@ -297,6 +297,12 @@ _By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-hous
 
 _By_ [Jonathan Lambert](https://www.quantamagazine.org/authors/jonathan-lambert)
 
+[![An illustration of a man with an apple and looking at his reflection, in which the apple has a bite taken out of it, evoking the way that quantum reference frames can affect the perceived order of events.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Quantum-Reference-Frames_crMichele-Sclafani-Thumbnail.webp)](https://www.quantamagazine.org/in-the-quantum-world-even-points-of-view-are-uncertain-20241122/)
+
+[#### In the Quantum World, Even Points of View Are Uncertain](https://www.quantamagazine.org/in-the-quantum-world-even-points-of-view-are-uncertain-20241122/)
+
+_By_ [Anil Ananthaswamy](https://www.quantamagazine.org/authors/anil-ananthaswamy)
+
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/11/PublicKeyCryptoExplainer-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
 
 [#### How Public Key Cryptography Really Works, Using Only Simple Math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
@@ -308,6 +314,12 @@ _By_ [John Pavlus](https://www.quantamagazine.org/authors/john-pavlus)
 [#### New Elliptic Curve Breaks 18-Year-Old Record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
 
 _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
+
+[![A meteorite floating in space](https://www.quantamagazine.org/wp-content/uploads/2024/11/TheComet_crChristianStangl-Thumbnail.webp)](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
+
+[#### The Cosmos Teems with Complex Organic Molecules](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
+
+_By_ [Elise Cutts](https://www.quantamagazine.org/authors/elise-cutts)
 
 The Quanta Newsletter
 
