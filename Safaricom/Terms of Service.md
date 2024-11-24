@@ -361,7 +361,7 @@ Consultants available 24/7
 
 58,000+ customers and counting
 
-[Read more](https://www.safari.com/travel-with-us)
+[Read more](#)
 
 Contact a safari expert now
 
