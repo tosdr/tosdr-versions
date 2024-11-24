@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Maharashtra Winners](https://www.news18.com/elections/maharashtra-election-results-full-list-of-winners-of-288-assembly-seats_seat_winner_votes-polled_2nd-place_votes-polled-9129523.html)
-    * [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-mahayuti-bjp-shiv-sena-ncp-devendra-fadnavis-eknath-shinde-chief-minister-post-liveblog-9132055.html)
+    * [IPL Auction Live](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
+    * [IPL Players List Live](https://www.news18.com/ipl-auction/)
     * [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-buys-luxurious-rolls-royce-takes-family-for-a-drive-watch-9132007.html)
+    * [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-mahayuti-bjp-shiv-sena-ncp-devendra-fadnavis-eknath-shinde-chief-minister-post-liveblog-9132055.html)
     * [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-opens-up-on-negativity-amid-aishwarya-rai-divorce-rumours-i-cant-change-9132011.html)
-    * [Shalini Passi](https://www.news18.com/movies/sanjay-passi-reacts-to-shalini-passis-husband-tag-after-fabulous-lives-i-feel-9130969.html)
     * [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-3-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9131750.html)
-    * [IPL Auction](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
+    * [Shalini Passi](https://www.news18.com/movies/sanjay-passi-reacts-to-shalini-passis-husband-tag-after-fabulous-lives-i-feel-9130969.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Maharashtra Winners](https://www.news18.com/elections/maharashtra-election-results-full-list-of-winners-of-288-assembly-seats_seat_winner_votes-polled_2nd-place_votes-polled-9129523.html)
-* [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-mahayuti-bjp-shiv-sena-ncp-devendra-fadnavis-eknath-shinde-chief-minister-post-liveblog-9132055.html)
+* [IPL Auction Live](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
+* [IPL Players List Live](https://www.news18.com/ipl-auction/)
 * [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-buys-luxurious-rolls-royce-takes-family-for-a-drive-watch-9132007.html)
+* [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-mahayuti-bjp-shiv-sena-ncp-devendra-fadnavis-eknath-shinde-chief-minister-post-liveblog-9132055.html)
 * [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-opens-up-on-negativity-amid-aishwarya-rai-divorce-rumours-i-cant-change-9132011.html)
-* [Shalini Passi](https://www.news18.com/movies/sanjay-passi-reacts-to-shalini-passis-husband-tag-after-fabulous-lives-i-feel-9130969.html)
 * [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-3-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9131750.html)
-* [IPL Auction](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
+* [Shalini Passi](https://www.news18.com/movies/sanjay-passi-reacts-to-shalini-passis-husband-tag-after-fabulous-lives-i-feel-9130969.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
