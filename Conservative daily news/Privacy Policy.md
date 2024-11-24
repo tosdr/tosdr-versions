@@ -1,15 +1,15 @@
-Saturday, November 23 2024
+Sunday, November 24 2024
 
 Breaking News
 
+* [Importing Poverty Is No Ticket To Prosperity](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
+* [Trump Caps Off The Week With Major Cabinet Picks](https://www.conservativedailynews.com/2024/11/trump-caps-off-the-week-with-major-cabinet-picks/)
+* [Mexican President Says She’s Prepared To Handle Trump’s Mass Deportations](https://www.conservativedailynews.com/2024/11/mexican-president-says-shes-prepared-to-handle-trumps-mass-deportations/)
 * [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
 * [Trump Reveals Scott Bessent As Pick For Treasury Secretary](https://www.conservativedailynews.com/2024/11/trump-reveals-scott-bessent-as-pick-for-treasury-secretary/)
 * [Chinese Agents Can Now Access Every American’s Phone Calls And Texts, GOP Senator Warns](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
 * [Who Would Be Surprised To Learn That Patrons Of The Radical, Political Left Would Behave Like Patrons Of The Radical, Political Left?](https://www.conservativedailynews.com/2024/11/who-would-be-surprised-to-learn-that-patrons-of-the-radical-political-left-would-behave-like-patrons-of-the-radical-political-left/)
 * [May The Spirit Of Laken Riley Shed Light On A Broken Judicial System](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/)
-* [Trump Announces New Attorney General After Gaetz Withdrawal](https://www.conservativedailynews.com/2024/11/trump-announces-new-attorney-general-after-gaetz-withdrawal/)
-* [FINALLY: Bob Casey Concedes To Dave McCormick](https://www.conservativedailynews.com/2024/11/finally-bob-casey-concedes-to-dave-mccormick/)
-* [It Is A Coming Out Party For Trump Supporters](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,21 +115,51 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
-* [![Made in China](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5814-220x150.png)](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
     
-    [Chinese Agents Can Now Access Every American’s Phone Calls And Texts, GOP Senator Warns](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
+    [Importing Poverty Is No Ticket To Prosperity](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
+    
+    November 23, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Transgender-threatens-violence-on-Christians-Conservatives-220x150.jpg)](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
+    
+    [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
     
     November 22, 2024
-    
-* [![breaking news banner](https://www.conservativedailynews.com/wp-content/uploads/2018/02/breaking-news-banner.jpg)](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
-    
-    [Matt Gaetz Withdraws From Attorney General Nomination](https://www.conservativedailynews.com/2024/11/matt-gaetz-withdraws-from-attorney-general-nomination/)
-    
-    November 21, 2024
     
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5814-220x150.png)](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
+    
+    [Importing Poverty Is No Ticket To Prosperity](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
+    
+    November 23, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/11/supreme-court-to-determine-whether-congress-unconstitutionally-granted-powers-to-the-fcc/)
+    
+    [Supreme Court To Determine Whether Congress Unconstitutionally Granted Powers To The FCC](https://www.conservativedailynews.com/2024/11/supreme-court-to-determine-whether-congress-unconstitutionally-granted-powers-to-the-fcc/)
+    
+    November 23, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Donald-Trump-success-pic-220x150.png)](https://www.conservativedailynews.com/2024/11/trump-caps-off-the-week-with-major-cabinet-picks/)
+    
+    [Trump Caps Off The Week With Major Cabinet Picks](https://www.conservativedailynews.com/2024/11/trump-caps-off-the-week-with-major-cabinet-picks/)
+    
+    November 23, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/1280px-Vice_President_Joe_Biden_greets_Russian_Prime_Minister_Vladimir_Putin-220x150.jpg)](https://www.conservativedailynews.com/2024/11/us-intelligence-issues-warning-to-defense-industries-about-russian-threats/)
+    
+    [US Intelligence Issues Warning To Defense Industries About Russian Threats](https://www.conservativedailynews.com/2024/11/us-intelligence-issues-warning-to-defense-industries-about-russian-threats/)
+    
+    November 23, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/03/ICE-arrests-illegal-aliens-at-cockfight.png)](https://www.conservativedailynews.com/2024/11/mexican-president-says-shes-prepared-to-handle-trumps-mass-deportations/)
+    
+    [Mexican President Says She’s Prepared To Handle Trump’s Mass Deportations](https://www.conservativedailynews.com/2024/11/mexican-president-says-shes-prepared-to-handle-trumps-mass-deportations/)
+    
+    November 23, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Transgender-threatens-violence-on-Christians-Conservatives-220x150.jpg)](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
     
     [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
@@ -148,39 +178,12 @@ Recent Posts
     
     November 22, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Screaming-Dems-220x150.png)](https://www.conservativedailynews.com/2024/11/who-would-be-surprised-to-learn-that-patrons-of-the-radical-political-left-would-behave-like-patrons-of-the-radical-political-left/)
-    
-    [Who Would Be Surprised To Learn That Patrons Of The Radical, Political Left Would Behave Like Patrons Of The Radical, Political Left?](https://www.conservativedailynews.com/2024/11/who-would-be-surprised-to-learn-that-patrons-of-the-radical-political-left-would-behave-like-patrons-of-the-radical-political-left/)
-    
-    November 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/say-her-name/)
-    
-    [Say Her Name](https://www.conservativedailynews.com/2024/11/say-her-name/)
-    
-    November 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5803-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/)
-    
-    [May The Spirit Of Laken Riley Shed Light On A Broken Judicial System](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/)
-    
-    November 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Donald-Trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/trump-announces-new-attorney-general-after-gaetz-withdrawal/)
-    
-    [Trump Announces New Attorney General After Gaetz Withdrawal](https://www.conservativedailynews.com/2024/11/trump-announces-new-attorney-general-after-gaetz-withdrawal/)
-    
-    November 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/Counting-ballots-220x150.jpg)](https://www.conservativedailynews.com/2024/11/finally-bob-casey-concedes-to-dave-mccormick/)
-    
-    [FINALLY: Bob Casey Concedes To Dave McCormick](https://www.conservativedailynews.com/2024/11/finally-bob-casey-concedes-to-dave-mccormick/)
-    
-    November 22, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Silencer Saturday #356: Reflex Silencer Roundup](https://www.thegunpage.com/silencer-saturday-356-reflex-silencer-roundup/10612074)
+* [NRL22 Base Class Setup: Savage B22 Precision and Arken SH4 6-24×50mm Review](https://www.thegunpage.com/nrl22-base-class-setup-savage-b22-precision-and-arken-sh4-6-24x50mm-review/10612073)
+* [Hawaii Gun Control Laws Targeting Young Adults Challenged](https://www.thegunpage.com/hawaii-gun-control-laws-targeting-young-adults-challenged/10612071)
 * [2024 Holiday Gift Guide: Shotguns](https://www.thegunpage.com/2024-holiday-gift-guide-shotguns/10612070)
 * [TFB Review: The Stinger OTF Knife from Backup Tactical](https://www.thegunpage.com/tfb-review-the-stinger-otf-knife-from-backup-tactical/10612066)
 * [POTD: The CZ P-10 C Or The Dumbbell?](https://www.thegunpage.com/potd-the-cz-p-10-c-or-the-dumbbell/10612063)
@@ -188,9 +191,6 @@ Recent Posts
 * [Hands on with the C&H Precision ERD-1](https://www.thegunpage.com/hands-on-with-the-ch-precision-erd-1/10612061)
 * [Pennsylvania Supreme Court Upholds State’s Firearms Preemption Law](https://www.thegunpage.com/pennsylvania-supreme-court-upholds-states-firearms-preemption-law/10612059)
 * [Ohio Democrats Push 10-Day Waiting Period for Gun Purchases](https://www.thegunpage.com/ohio-democrats-push-10-day-waiting-period-for-gun-purchases/10612056)
-* [Lawsuit Challenges Maine's 72-Hour Waiting Period](https://www.thegunpage.com/lawsuit-challenges-maines-72-hour-waiting-period/10612051)
-* [Canadian Woman Arrested In Texas For Stolen Guns Bound For Canada](https://www.thegunpage.com/canadian-woman-arrested-in-texas-for-stolen-guns-bound-for-canada/10612049)
-* [Preserve History, Win A Classic Sniper Rifle](https://www.thegunpage.com/preserve-history-win-a-classic-sniper-rifle/10612052)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,15 +232,15 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/#comment-783370)
+* Stanley Warner on [It Is A Coming Out Party For Trump Supporters](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/#comment-783368)
+* Stanley Warner on [May The Spirit Of Laken Riley Shed Light On A Broken Judicial System](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/#comment-783367)
 * charles wilkins on [Parting Gift](https://www.conservativedailynews.com/2024/11/parting-gift/#comment-783343)
 * Stanley Warner on [Our Elections Need To Be Fixed Before The 2026 Midterms](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/#comment-783327)
 * [Bill](http://conservativedailynews.com/) on [Crap Fight](https://www.conservativedailynews.com/2024/11/crap-fight/#comment-783326)
 * [Bill](http://conservativedailynews.com/) on [Barrage Of Liberal Judges Will Be Schumer’s Swan Song](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/#comment-783325)
 * Stanley Warner on [Religious Belief and the 2024 Election](https://www.conservativedailynews.com/2024/11/religious-belief-and-the-2024-election/#comment-783324)
 * Stanley Warner on [Why Matt Gaetz Makes Sense As Attorney General](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/#comment-783304)
-* MeMyself&I on [Jen Psaki Admits Dems Are ‘In The Wilderness’ Without A ‘Clear Leader Of The Party’](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/#comment-783298)
-* Stanley Warner on [If You Think Kamala Harris Was Serious About The Things She Promised During The Recent Presidential Campaign, You’re Dead Wrong](https://www.conservativedailynews.com/2024/11/if-you-think-kamala-harris-was-serious-about-the-things-she-promised-during-the-recent-presidential-campaign-youre-dead-wrong/#comment-783295)
-* Stanley Warner on [Five Government Programs That Musk’s Government Efficiency Agency Could Put On The Chopping Block](https://www.conservativedailynews.com/2024/11/five-government-programs-that-musks-government-efficiency-agency-could-put-on-the-chopping-block/#comment-783286)
 
 [Close](#)
 
