@@ -622,9 +622,7 @@ Contact Us:
 
 Phone: [1-800-472-1142](tel:+18004721142)
 
-Fax: 1-530-926-1162
-
-Address: Beaverton, OR
+Address: Anaheim , CA
 
 Social Media
 
