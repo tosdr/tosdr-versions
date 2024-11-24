@@ -706,11 +706,13 @@ For general questions, contact us at [support@atari.com](mailto:support@atari.c
 
 Add to cart
 
+25% OFF
+
 ##### CX40+ Joystick
 
-Regular price Sale price $24.99
+Regular price $24.99 Sale price $18.74
 
-Regular price $24.99
+Regular price $18.74
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
@@ -718,11 +720,13 @@ Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Padd
 
 Add to cart
 
+30% OFF
+
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99 Sale price $39.99
+Regular price $39.99 Sale price $27.99
 
-Regular price $39.99
+Regular price $27.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
@@ -752,11 +756,13 @@ Continue Shopping
 
 Add to cart
 
+25% OFF
+
 ##### CX40+ Joystick
 
-Regular price Sale price $24.99
+Regular price $24.99 Sale price $18.74
 
-Regular price $24.99
+Regular price $18.74
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
@@ -766,11 +772,13 @@ Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
 Add to cart
 
+30% OFF
+
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99 Sale price $39.99
+Regular price $39.99 Sale price $27.99
 
-Regular price $39.99
+Regular price $27.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
