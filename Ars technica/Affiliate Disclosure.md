@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [Russian ballistic missile attack on Ukraine portends new era of warfare](https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/)
     
-3. 3. [Spies hack Wi-Fi networks in far-off land to launch attack on target next door](https://arstechnica.com/security/2024/11/spies-hack-wi-fi-networks-in-far-off-land-to-launch-attack-on-target-next-door/)
+3. 3. [The good, the bad, and the ugly behind the push for more smart displays](https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/)
     
-4. 4. [The good, the bad, and the ugly behind the push for more smart displays](https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/)
+4. 4. [Spies hack Wi-Fi networks in far-off land to launch attack on target next door](https://arstechnica.com/security/2024/11/spies-hack-wi-fi-networks-in-far-off-land-to-launch-attack-on-target-next-door/)
     
-5. 5. [Our Universe is not fine-tuned for life, but it’s still kind of OK](https://arstechnica.com/science/2024/11/our-universe-is-not-fine-tuned-for-life-but-its-still-kind-of-ok/)
+5. 5. [Tweaking non-neural brain cells can cause memories to fade](https://arstechnica.com/science/2024/11/tweaking-non-neural-brain-cells-can-cause-memories-to-fade/)
     
 
 Customize
