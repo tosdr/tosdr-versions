@@ -36,6 +36,9 @@
         
         Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
     
+    * [![Windows 11 24H2 update blocked on PCs with Assassin's Creed, Star Wars Outlaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Windows 11 24H2 update blocked on PCs with Assassin's Creed, Star Wars Outlaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-halts-windows-11-24h2-update-on-pcs-assassins-creed-star-wars-outlaws/)
     * [![Microsoft testing Windows 11 support for third-party passkeys](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft testing Windows 11 support for third-party passkeys](https://www.bleepingcomputer.com/news/security/microsoft-testing-windows-11-support-for-third-party-passkeys/)
@@ -45,9 +48,6 @@
     * [![Gain lifetime access to top cybersecurity courses at Infosec4TC in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Gain lifetime access to top cybersecurity courses at Infosec4TC in this deal](https://www.bleepingcomputer.com/offer/deals/gain-lifetime-access-to-top-cybersecurity-courses-at-infosec4tc-in-this-deal/)
-    * [![Windows 10 KB5046714 update fixes bug preventing app uninstalls](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows 10 KB5046714 update fixes bug preventing app uninstalls](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5046714-update-fixes-bug-preventing-app-uninstalls/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -445,9 +445,9 @@ Popular Stories
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 11 KB5046740 update released with 14 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5046740-update-released-with-14-changes-and-fixes/)
-* [![Bug bounty](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    MITRE shares 2024's top 25 most dangerous software weaknesses](https://www.bleepingcomputer.com/news/security/mitre-shares-2024s-top-25-most-dangerous-software-weaknesses/)
+    Chinese hackers target Linux with new WolfsBane malware](https://www.bleepingcomputer.com/news/security/chinese-gelsemium-hackers-use-new-wolfsbane-linux-malware/)
 
 ##### Follow us:
 
