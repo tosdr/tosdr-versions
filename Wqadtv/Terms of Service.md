@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0356e617-2061-464c-ac42-cc848374fdca/20241123T233728/0356e617-2061-464c-ac42-cc848374fdca_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0356e617-2061-464c-ac42-cc848374fdca/20241123T233728/0356e617-2061-464c-ac42-cc848374fdca_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-deck-the-downtowns-cookie-crawl/526-a92a06dc-5ede-4429-9374-5408569ac6dd)
+        
+        #### [Sweets and deals collide at Davenport's Deck the Downtowns Cookie Crawl](https://www.wqad.com/article/news/local/davenport-deck-the-downtowns-cookie-crawl/526-a92a06dc-5ede-4429-9374-5408569ac6dd)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d8a55d76-b202-447a-bb89-865f7b134241/20241123T033533/d8a55d76-b202-447a-bb89-865f7b134241_360x203.jpg)](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d)
         
         #### ['Wicked' makes its way to movie screens in the Quad Cities](https://www.wqad.com/article/news/local/wicked-movie-quad-cities/526-8bf680f9-445b-4d56-95fd-7b9d93911a4d)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/076332eb-3312-459b-96c3-19f6806a8fb6/20241123T000908/076332eb-3312-459b-96c3-19f6806a8fb6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/076332eb-3312-459b-96c3-19f6806a8fb6/20241123T000908/076332eb-3312-459b-96c3-19f6806a8fb6_360x203.jpg)](https://www.wqad.com/article/news/local/new-carpentry-training-facility-east-moline/526-9c8d636e-811d-4627-b21a-f3af16c9f6f8)
-        
-        #### [New carpentry training facility opens in East Moline](https://www.wqad.com/article/news/local/new-carpentry-training-facility-east-moline/526-9c8d636e-811d-4627-b21a-f3af16c9f6f8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/6fe2dc67-7201-4fc7-8df4-6bf04fb9a8f8/20241123T125500/6fe2dc67-7201-4fc7-8df4-6bf04fb9a8f8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6fe2dc67-7201-4fc7-8df4-6bf04fb9a8f8/20241123T125500/6fe2dc67-7201-4fc7-8df4-6bf04fb9a8f8_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/aff9212e-0b89-4593-93f1-1f371a3cffad/20241124T001727/aff9212e-0b89-4593-93f1-1f371a3cffad_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aff9212e-0b89-4593-93f1-1f371a3cffad/20241124T001727/aff9212e-0b89-4593-93f1-1f371a3cffad_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Dry skies continue through the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [A warm, cloudy Sunday ahead](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/KGW/images/e46b6948-feb8-4071-ae44-3740d3010c4c/20241121T003202/e46b6948-feb8-4071-ae44-3740d3010c4c_16x9.jpg) ![](https://media.tegna-media.com/assets/KGW/images/e46b6948-feb8-4071-ae44-3740d3010c4c/20241121T003202/e46b6948-feb8-4071-ae44-3740d3010c4c_360x203.jpg)](https://www.wqad.com/article/weather/severe-weather/amtrak-cascades-train-damaged-downed-tree-windstorm/283-83fcb056-a7ae-4caa-84d0-0ee781857374)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-38°
+34°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
