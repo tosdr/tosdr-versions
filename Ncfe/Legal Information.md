@@ -337,6 +337,9 @@
 
  
 
+[Replacement certificates - learners](https://www.ncfe.org.uk/customer-and-learner-support/learner-support/replacement-certificates/ "Replacement certificates")  
+[Replacement certificates - centres](https://www.ncfe.org.uk/customer-and-learner-support/certificates/replacement-certificates-centres/ "Replacement certificates centres")
+
 Privacy notice
 ==============
 
@@ -633,11 +636,13 @@ Post: NCFE, Q6, Quorum Park, Benton Lane, Newcastle Upon Tyne, NE12 8BT
 * [Current opportunities](https://careers-ncfe.icims.com/jobs/intro?hashed=-435679188&mobile=false&width=897&height=500&bga=true&needsRedirect=false&jan1offset=0&jun1offset=60?login=false&originalUrl=https%3A%2F%2Fcareers-ncfe.icims.com.mcas.ms%2Fjobs%2Fintro%3Fhashed%3D-435679188%26mobile%3Dfalse%26width%3D897%26height%3D500%26bga%3Dtrue%26needsRedirect%3Dfalse%26jan1offset%3D0%26jun1offset%3D60%26McasTsid%3D20892&McasCSRF=2a04a17a9a924bcc526b4bd772189cf149d6804c98bb8c2c08d559e394f185f9)
 * [Privacy notice](https://www.ncfe.org.uk/customer-and-learner-support/legal-information/privacy-notice/)
 * [Accessibility](https://www.ncfe.org.uk/customer-and-learner-support/legal-information/accessibility/)
-* [Replacement certificates](https://www.ncfe.org.uk/customer-and-learner-support/learner-support/replacement-certificates/)
-* [FAQs](https://www.ncfe.org.uk/qualifications/faqs/)
-* [Colleagues' links](https://www.ncfe.org.uk/colleagues-links/)
 * [Mandatory policies and fees](https://www.ncfe.org.uk/qualifications/mandatory-policies-fees/)
+* [Frequently asked questions](https://www.ncfe.org.uk/qualifications/faqs/)
+* [Colleagues' links](https://www.ncfe.org.uk/colleagues-links/)
 * [Careers](https://www.ncfe.org.uk/careers/)
+* [Replacement certificates – learners](https://www.ncfe.org.uk/customer-and-learner-support/learner-support/replacement-certificates/)
+* [Replacement certificates – centres](https://www.ncfe.org.uk/customer-and-learner-support/certificates/replacement-certificates-centres/)
+* [Apply for approval](https://www.ncfe.org.uk/qualifications/centre-onboarding/)
 
 * [![Microsoftteams Image](/media/okkmaa43/microsoftteams-image.png)](https://www.linkedin.com/company/ncfe/ "https://www.linkedin.com/company/ncfe/")
 * [![Microsoftteams Image (2)](/media/zylgih3u/microsoftteams-image-2.png)](https://twitter.com/NCFE "https://twitter.com/NCFE")
