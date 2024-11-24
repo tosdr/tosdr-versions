@@ -278,15 +278,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Albus Dumbledore sees his family in the Mirror of Erised, just as Harry Potter does.
+Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
 
 ### Potter History
 
-December 21, 2010 – The final scene of the Harry Potter film series is shot at Leavesden Film Studios.
+January 20, 2010 – It is confirmed that Alexandre Desplat will compose the music for Harry Potter and the Deathly Hallows – Part 1.
 
 ### Potter Quote
 
-“It only put me in Gryffindor because I asked not to go in Slytherin. . . .”
+“Sir, I wondered what you know about . . . about Horcruxes?”
 
 [](#)
 
