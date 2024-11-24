@@ -3,7 +3,7 @@ top of page
 The Owl Works
 -------------
 
-![793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png](https://static.wixstatic.com/media/df3cf1_0bd083a5534e466cb6534bd2f28e7942~mv2.png/v1/fill/w_57,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png)
+![793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png](https://static.wixstatic.com/media/df3cf1_0bd083a5534e466cb6534bd2f28e7942~mv2.png/v1/fill/w_57,h_71,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png)
 
 * [home](https://www.theowlworks.com/)
 * [about](https://www.theowlworks.com/)
@@ -26,7 +26,7 @@ See below for details, where we say more formally that The Owl Works website onl
 
 If you do contact us, we will only use the information we will have through our communication to discuss what you contacted us about, and subsequently to provide any services you decide to engage. We will not sell your information to anyone, and we will not disclose information to other entities without your consent.
 
-![owl looking away](https://static.wixstatic.com/media/df3cf1_4c4b87dcecdf44179e6d5ecbe60c557d~mv2.jpg/v1/fill/w_243,h_345,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/P1020432_JPG.jpg)
+![owl looking away](https://static.wixstatic.com/media/df3cf1_4c4b87dcecdf44179e6d5ecbe60c557d~mv2.jpg/v1/fill/w_243,h_345,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/P1020432_JPG.jpg)
 
 ###### Essential Cookies
 
@@ -44,7 +44,7 @@ We don't use anything complex to build our web experience, so we don't need thes
 
 We hope your interaction with the website is a happy one. We don't collect cookies to find that out. 
 
-![793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png](https://static.wixstatic.com/media/df3cf1_0bd083a5534e466cb6534bd2f28e7942~mv2.png/v1/fill/w_84,h_105,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png)
+![793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png](https://static.wixstatic.com/media/df3cf1_0bd083a5534e466cb6534bd2f28e7942~mv2.png/v1/fill/w_84,h_105,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/793d58a9-9fe6-4ab9-9bf0-d08876d6c1a3.png)
 
 [privacy policy](https://www.theowlworks.com/privacy-policy)
 
