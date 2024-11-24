@@ -82,7 +82,7 @@ Trending Posts
 * [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
-* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
+* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
 
 Close
 
@@ -146,7 +146,7 @@ Trending Posts
 * [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
-* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
+* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
 
 [Skip to content](#main)
 
