@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from dinCloud using ...](https://www.backup4all.com/how-to-back-up-data-files-from-dincloud-using-backup4all-kb.html)  
+* [How to backup your data to Numergy](https://www.backup4all.com/how-to-backup-your-data-to-numergy-kb.html)  
     
-* [How to back up data files from DDN using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ddn-using-backup4all-kb.html)  
+* [Backup from FTP](https://www.backup4all.com/backup-from-ftp-kb.html)  
     
-* [How to create an exact copy of the source dri ...](https://www.backup4all.com/how-to-create-an-exact-copy-of-the-source-drive-on-another-driv-kb.html)  
+* [How to back up data files from SFTP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-sftp-using-backup4all-kb.html)  
     
-* [How to restore your backup from HiDrive](https://www.backup4all.com/how-to-restore-your-backup-from-hidrive-kb.html)  
+* [How to create a mirror with zip backup](https://www.backup4all.com/how-to-create-a-mirror-with-zip-backup-kb.html)  
     
-* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
+* [Backup music with Backup4all](https://www.backup4all.com/backup-music-with-backup4all-kb.html)  
     
 
 Choose language:
