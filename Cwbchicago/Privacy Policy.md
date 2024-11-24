@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Evans-mail-rob-susp-USPIS-326x245.jpg)](https://cwbchicago.com/2024/11/150000-reward-offered-for-information-about-postal-service-robber.html "$150,000 reward offered for information about postal service robber")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Andrew-Moran-326x245.jpg)](https://cwbchicago.com/2024/11/man-carjacked-a-woman-while-on-probation-for-trying-to-carjack-another-woman-prosecutors-say.html "Man carjacked a woman while on probation for trying to carjack another woman, prosecutors say")
 
-Woodlawn
+Portage Park
 
-### [$150,000 reward offered for information about postal service robber](https://cwbchicago.com/2024/11/150000-reward-offered-for-information-about-postal-service-robber.html "$150,000 reward offered for information about postal service robber")
+### [Man carjacked a woman while on probation for trying to carjack another woman, prosecutors say](https://cwbchicago.com/2024/11/man-carjacked-a-woman-while-on-probation-for-trying-to-carjack-another-woman-prosecutors-say.html "Man carjacked a woman while on probation for trying to carjack another woman, prosecutors say")
 
-[November 21, 2024 9:24 AM](https://cwbchicago.com/2024/11)
+[November 21, 2024 6:18 PM](https://cwbchicago.com/2024/11)
 
-The U.S. Postal Inspection service is offering up to $150,000 in holiday cash for information that helps them identify and arrest the man who robbed a mail carrier.[](https://cwbchicago.com/2024/11/150000-reward-offered-for-information-about-postal-service-robber.html "$150,000 reward offered for information about postal service robber")
+Just three months after being given probation for trying to carjack a woman on the Northwest Side, Andrew Moran is back in jail, accused of trying to carjack another woman on the Northwest Side.[](https://cwbchicago.com/2024/11/man-carjacked-a-woman-while-on-probation-for-trying-to-carjack-another-woman-prosecutors-say.html "Man carjacked a woman while on probation for trying to carjack another woman, prosecutors say")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Vincent-Parks-cc-326x245.jpg)](https://cwbchicago.com/2024/11/busted-with-211-catalytic-converters-in-a-storage-unit-man-gets-probation.html "Busted with 211 catalytic converters in a storage unit, man gets probation")
+[![](https://cwbchicago.com/wp-content/uploads/2022/06/Timothy-Evans-Tom-Dart-326x245.jpg)](https://cwbchicago.com/2024/11/electronic-monitoring-operations-to-move-from-sheriff-to-the-chief-judges-office.html "Electronic monitoring operations to move from sheriff to the chief judge’s office")
 
 Citywide
 
-### [Busted with 211 catalytic converters in a storage unit, man gets probation](https://cwbchicago.com/2024/11/busted-with-211-catalytic-converters-in-a-storage-unit-man-gets-probation.html "Busted with 211 catalytic converters in a storage unit, man gets probation")
+### [Electronic monitoring operations to move from sheriff to the chief judge’s office](https://cwbchicago.com/2024/11/electronic-monitoring-operations-to-move-from-sheriff-to-the-chief-judges-office.html "Electronic monitoring operations to move from sheriff to the chief judge’s office")
 
-[November 21, 2024 6:29 AM](https://cwbchicago.com/2024/11)
+[November 21, 2024 5:46 PM](https://cwbchicago.com/2024/11)
 
-When Chicago police arrested two men and seized 211 catalytic converters last year, prosecutors said it was the culmination of a nearly year-long investigation. Now, one of those men has pleaded guilty to playing a role in the crime. His sentence? Probation.[](https://cwbchicago.com/2024/11/busted-with-211-catalytic-converters-in-a-storage-unit-man-gets-probation.html "Busted with 211 catalytic converters in a storage unit, man gets probation")
+There’s a big change coming to the electronic monitoring system that is supposed to keep an eye on criminal defendants awaiting trial: Operation of the program will be moving from the Cook County Sheriff’s Office to the office of Chief Judge Timothy Evans.[](https://cwbchicago.com/2024/11/electronic-monitoring-operations-to-move-from-sheriff-to-the-chief-judges-office.html "Electronic monitoring operations to move from sheriff to the chief judge’s office")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH471425-suspect-1-326x245.jpg)](https://cwbchicago.com/2024/11/cops-seek-brazen-gunmen-who-killed-victim-at-south-side-gas-station-video.html "Cops seek brazen gunmen who killed victim at South Side gas station (video)")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Dimitri-Sanders-and-Cassandra-Sims-326x245.jpg)](https://cwbchicago.com/2024/11/man-charged-firing-group-women-behind-chicago.html "Man opened fire on group of women from behind, killing 1, injuring another: prosecutors")
 
-Auburn Gresham
+Austin
 
-### [Cops seek brazen gunmen who killed victim at South Side gas station (video)](https://cwbchicago.com/2024/11/cops-seek-brazen-gunmen-who-killed-victim-at-south-side-gas-station-video.html "Cops seek brazen gunmen who killed victim at South Side gas station (video)")
+### [Man opened fire on group of women from behind, killing 1, injuring another: prosecutors](https://cwbchicago.com/2024/11/man-charged-firing-group-women-behind-chicago.html "Man opened fire on group of women from behind, killing 1, injuring another: prosecutors")
 
-[November 21, 2024 5:35 AM](https://cwbchicago.com/2024/11)
+[November 21, 2024 11:33 AM](https://cwbchicago.com/2024/11)
 
-Video released by Chicago police shows just how brazen our city’s violent killers can be. Cops are hoping the footage, recorded at a Gresham gas station last month, will lead them to a couple of murderers.[](https://cwbchicago.com/2024/11/cops-seek-brazen-gunmen-who-killed-victim-at-south-side-gas-station-video.html "Cops seek brazen gunmen who killed victim at South Side gas station (video)")
+Prosecutors are accusing a man of opening fire on a group of women during a dispute on the Fourth of July, leaving one victim dead and another injured, saying he searched the internet for news about the crime.[](https://cwbchicago.com/2024/11/man-charged-firing-group-women-behind-chicago.html "Man opened fire on group of women from behind, killing 1, injuring another: prosecutors")
 
 Search
 
