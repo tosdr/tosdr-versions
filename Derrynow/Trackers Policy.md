@@ -259,20 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession")](https://www.derrynow.com/story-telling/pictures---videos/1662940/in-pictures-crowds-line-the-streets-for-derry-s-magical-christmas-lights-switch-on-procession.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession](https://www.derrynow.com/story-telling/pictures---videos/1662940/in-pictures-crowds-line-the-streets-for-derry-s-magical-christmas-lights-switch-on-procession.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal")](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two men killed and three other people hospitalised in Donegal collision](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry and Strabane Council issues update on services in relation to Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry and Strabane Council issues update on services in relation to Storm Bert")](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -280,28 +266,12 @@ Most Popular
 [Derry and Strabane Council issues update on services in relation to Storm Bert](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sections of Letterkenny and Foyle roads in Derry currently flooded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sections of Letterkenny and Foyle roads in Derry currently flooded")](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Requiem Mass for popular Derry-born priest Fr William John Bradley](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Requiem Mass for popular Derry-born priest Fr William John Bradley")](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
-
-The late Fr John Bradley.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Requiem Mass for popular Derry-born priest Fr William John Bradley](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Poor weather conditions impacting roads across Causeway Coast and Glens District](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Poor weather conditions impacting roads across Causeway Coast and Glens District")](https://www.derrynow.com/news/local-news/1662884/poor-weather-conditions-impacting-roads-across-causeway-coast-and-glens-district.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Poor weather conditions impacting roads across Causeway Coast and Glens District](https://www.derrynow.com/news/local-news/1662884/poor-weather-conditions-impacting-roads-across-causeway-coast-and-glens-district.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Sunday, November 24, 2024](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Second half goals deny Craigbane Ulster title at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Second half goals deny Craigbane Ulster title at Celtic Park")](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
 
@@ -319,19 +289,49 @@ There was devastation for Craigbane in the Ulster final at Celtic Park. Pic by T
 [Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Sections of Letterkenny and Foyle roads in Derry currently flooded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sections of Letterkenny and Foyle roads in Derry currently flooded")](https://www.ireland-live.ie/news/derry-now/1662918/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
+[![Historic Derry Funeral Directors aid organisations with Community Assistance Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Historic Derry Funeral Directors aid organisations with Community Assistance Awards")](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
 
-[Derry Now](https://www.ireland-live.ie/section/2227/derrynow)
+Kathleen Bradley, Grants & Foundations Fundraiser, Michelle Kosky, Children’s & Young Person’s Facilitator from Foyle Hospice with Funeral Home Manager Wayne Glenn.
 
-[Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.ireland-live.ie/news/derry-now/1662918/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar")](https://www.ireland-live.ie/story-telling/derry-now/1662917/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
+[Historic Derry Funeral Directors aid organisations with Community Assistance Awards](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Derry Now](https://www.ireland-live.ie/section/2227/derrynow)
+[![Storm Bert: Wind warnings in place in several counties across island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Storm Bert: Wind warnings in place in several counties across island of Ireland")](https://www.derrynow.com/news/northern-ireland/1663463/storm-bert-wind-warnings-in-place-in-several-counties-across-island-of-ireland.html)
 
-[IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](https://www.ireland-live.ie/story-telling/derry-now/1662917/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Storm Bert: Wind warnings in place in several counties across island of Ireland](https://www.derrynow.com/news/northern-ireland/1663463/storm-bert-wind-warnings-in-place-in-several-counties-across-island-of-ireland.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime")](https://www.derrynow.com/news/northern-ireland/1663508/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/news/northern-ireland/1663508/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New wind warning issued as Storm Bert threatens ‘danger to life’ flooding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New wind warning issued as Storm Bert threatens ‘danger to life’ flooding")](https://www.derrynow.com/news/northern-ireland/1663465/new-wind-warning-issued-as-storm-bert-threatens-danger-to-life-flooding.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[New wind warning issued as Storm Bert threatens ‘danger to life’ flooding](https://www.derrynow.com/news/northern-ireland/1663465/new-wind-warning-issued-as-storm-bert-threatens-danger-to-life-flooding.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![London urged to restrict gambling advertising in Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "London urged to restrict gambling advertising in Northern Ireland")](https://www.derrynow.com/news/northern-ireland/1663512/lisa-nandy-urged-to-restrict-gambling-advertising-in-northern-ireland.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Lisa Nandy urged to restrict gambling advertising in Northern Ireland](https://www.derrynow.com/news/northern-ireland/1663512/lisa-nandy-urged-to-restrict-gambling-advertising-in-northern-ireland.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Campaigners demand immediate action after 8% rise in suicides](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Campaigners demand immediate action after 8% rise in suicides")](https://www.derrynow.com/news/northern-ireland/1663536/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Campaigners demand immediate action after 8% rise in suicides](https://www.derrynow.com/news/northern-ireland/1663536/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,14 +509,30 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
+[![PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone")](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[PSNI urge Derry motorists to remember Fatal Five rules to help make roads safer for everyone](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Historic Derry Funeral Directors aid organisations with Community Assistance Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Historic Derry Funeral Directors aid organisations with Community Assistance Awards")](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
+
+Kathleen Bradley, Grants & Foundations Fundraiser, Michelle Kosky, Children’s & Young Person’s Facilitator from Foyle Hospice with Funeral Home Manager Wayne Glenn.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Historic Derry Funeral Directors aid organisations with Community Assistance Awards](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Sunday, November 24, 2024](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Second half goals deny Craigbane Ulster title at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Second half goals deny Craigbane Ulster title at Celtic Park")](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
+[![Second half goals deny Craigbane Ulster title at Celtic Park](https://www.derrynow.com/resizer/165/93/true/2024_11_23/GAA_Ulster_Junior_Cup_final_Craigbane_v_Naomh_Padraig__7-1732386028201.jpg--.jpg?1732386028821 "Second half goals deny Craigbane Ulster title at Celtic Park")](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
 
 There was devastation for Craigbane in the Ulster final at Celtic Park. Pic by Tom Heaney, nwpresspics
 
@@ -539,20 +555,6 @@ The late Fr John Bradley.
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Requiem Mass for popular Derry-born priest Fr William John Bradley](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Donegal](https://www.derrynow.com/resizer/165/93/true/2024_11_23/Obit_and_deaths-1709651481930.jpg--deaths_in_donegal__monday_evening__march_4__2024__Cropped-1732345698768.jpg--.jpg?1732345698788 "Donegal")](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two men killed and three other people hospitalised in Donegal collision](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.derrynow.com/resizer/165/93/true/2024_11_23/manhole_failure-1732357859019.jpg--.jpg?1732357859089 "Sections of Letterkenny and Foyle roads in Derry currently flooded")](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
