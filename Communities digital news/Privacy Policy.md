@@ -26,13 +26,13 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-stephanie-ruhle-1200x630.jpg)](https://americanwirenews.com/msnbc-host-freaks-out-about-x-the-social-media-arm-of-the-maga-movement/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jrubinmsnbc-1200-x-628-1200x630.jpg)](https://americanwirenews.com/msnbc-contributor-jen-rubin-takes-a-flamethrower-to-network-in-morning-joe-drubbing/)
 
-[MSNBC host freaks out about X: ‘The social media arm of the MAGA movement’](https://americanwirenews.com/msnbc-host-freaks-out-about-x-the-social-media-arm-of-the-maga-movement/)
+[MSNBC contributor Jen Rubin takes a flamethrower to network in ‘Morning Joe’ drubbing](https://americanwirenews.com/msnbc-contributor-jen-rubin-takes-a-flamethrower-to-network-in-morning-joe-drubbing/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kathy-hochul-1200x630.jpg)](https://americanwirenews.com/ice-official-slams-soft-on-crime-hochul-after-yet-another-wanted-illegal-alien-arrested/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hoganhulkfox-1200-x-628-1200x630.jpg)](https://americanwirenews.com/you-still-got-that-trump-pump-on-hulk-hogan-hints-at-possible-role-in-incoming-admin/)
 
-[ICE official slams soft-on-crime Hochul after yet another wanted illegal alien arrested](https://americanwirenews.com/ice-official-slams-soft-on-crime-hochul-after-yet-another-wanted-illegal-alien-arrested/)
+[‘You still got that Trump pump-on’: Hulk Hogan hints at possible role in incoming admin](https://americanwirenews.com/you-still-got-that-trump-pump-on-hulk-hogan-hints-at-possible-role-in-incoming-admin/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jamie-raskin-2-1200x630.jpg)](https://americanwirenews.com/raskin-defends-fema-workers-refusing-to-help-trump-supporters/)
 
@@ -77,6 +77,18 @@ Search for:
 ### [Laken Riley’s illegal alien killer found guilty, shows no emotion as he’s sentenced to life without parole](https://americanwirenews.com/laken-rileys-illegal-alien-killer-found-guilty-shows-no-emotion-as-hes-sentenced-to-life-without-parole/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-targettrustjesus-1200-x-628-220x180.jpg)](https://americanwirenews.com/retail-giant-hit-with-backlash-after-firing-woman-for-trust-in-jesus-message/)
+
+[Retail giant hit with backlash after firing woman for ‘Trust in Jesus’ message](https://americanwirenews.com/retail-giant-hit-with-backlash-after-firing-woman-for-trust-in-jesus-message/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bondi-220x180.jpg)](https://americanwirenews.com/pam-bondi-vows-prosecutors-will-be-prosecuted-in-resurfaced-video/)
+
+[Pam Bondi vows ‘prosecutors will be prosecuted’ in resurfaced video](https://americanwirenews.com/pam-bondi-vows-prosecutors-will-be-prosecuted-in-resurfaced-video/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trudeau-montreal-220x180.jpg)](https://americanwirenews.com/justin-trudeau-swoons-over-taylor-swift-as-violent-riots-rage-in-montreal-streets/)
+
+[Justin Trudeau swoons over Taylor Swift as violent riots rage in Montreal streets](https://americanwirenews.com/justin-trudeau-swoons-over-taylor-swift-as-violent-riots-rage-in-montreal-streets/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mace-kinzinger-220x180.jpg)](https://americanwirenews.com/nancy-mace-beautifully-rips-troll-adam-kinzinger-over-trans-restroom-controversy/)
 
@@ -165,18 +177,6 @@ Jefferson County Sheriff's Office
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dana-white-220x180.png)](https://americanwirenews.com/dana-white-is-done-with-politics-its-gross-its-disgusting/)
 
 [Dana White is done with politics: ’It’s gross. It’s disgusting’](https://americanwirenews.com/dana-white-is-done-with-politics-its-gross-its-disgusting/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rand-paul-on-newsmax-220x180.jpg)](https://americanwirenews.com/rand-paul-gets-lit-up-for-dissent-against-plans-for-military-to-round-up-illegals/)
-
-[Rand Paul gets lit up for dissent against plans for military to ’round-up illegals’](https://americanwirenews.com/rand-paul-gets-lit-up-for-dissent-against-plans-for-military-to-round-up-illegals/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-maddow-220x180.jpg)](https://americanwirenews.com/maddow-reportedly-gets-massive-pay-cut/)
-
-[Maddow reportedly gets massive pay cut](https://americanwirenews.com/maddow-reportedly-gets-massive-pay-cut/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pelosi-220x180.jpg)](https://americanwirenews.com/doge-fans-spot-job-of-pelosis-niece-say-she-needs-to-go/)
-
-[DOGE fans spot job of Pelosi’s niece, say she needs to go](https://americanwirenews.com/doge-fans-spot-job-of-pelosis-niece-say-she-needs-to-go/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
