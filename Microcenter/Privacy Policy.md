@@ -1,5 +1,3 @@
- 
-
 Member Pricing Free Until 2025
 
 Meet Micro Center Member Pricing
