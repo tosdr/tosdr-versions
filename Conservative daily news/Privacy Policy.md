@@ -130,6 +130,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/04-hegseth-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/homeboys/)
+    
+    [Homeboys](https://www.conservativedailynews.com/2024/11/homeboys/)
+    
+    November 24, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5814-220x150.png)](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
     
     [Importing Poverty Is No Ticket To Prosperity](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
@@ -172,25 +178,19 @@ Recent Posts
     
     November 22, 2024
     
-* [![Made in China](https://www.conservativedailynews.com/wp-content/uploads/2024/09/mrz092724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
-    
-    [Chinese Agents Can Now Access Every American’s Phone Calls And Texts, GOP Senator Warns](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
-    
-    November 22, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Is .357 Magnum Good For Self-Defense?](https://www.thegunpage.com/is-357-magnum-good-for-self-defense/10612087)
+* [6 Reasons Why the AR-15 is Better Than the Shotgun](https://www.thegunpage.com/6-reasons-why-the-ar-15-is-better-than-the-shotgun/10612086)
+* [New York bill would let police ‘briefly seize’ firearms during domestics](https://www.thegunpage.com/new-york-bill-would-let-police-briefly-seize-firearms-during-domestics/10612078)
+* [2024 Holiday Gift Guide: Ammunition](https://www.thegunpage.com/2024-holiday-gift-guide-ammunition/10612076)
 * [Silencer Saturday #356: Reflex Silencer Roundup](https://www.thegunpage.com/silencer-saturday-356-reflex-silencer-roundup/10612074)
 * [NRL22 Base Class Setup: Savage B22 Precision and Arken SH4 6-24×50mm Review](https://www.thegunpage.com/nrl22-base-class-setup-savage-b22-precision-and-arken-sh4-6-24x50mm-review/10612073)
 * [Hawaii Gun Control Laws Targeting Young Adults Challenged](https://www.thegunpage.com/hawaii-gun-control-laws-targeting-young-adults-challenged/10612071)
 * [2024 Holiday Gift Guide: Shotguns](https://www.thegunpage.com/2024-holiday-gift-guide-shotguns/10612070)
 * [TFB Review: The Stinger OTF Knife from Backup Tactical](https://www.thegunpage.com/tfb-review-the-stinger-otf-knife-from-backup-tactical/10612066)
 * [POTD: The CZ P-10 C Or The Dumbbell?](https://www.thegunpage.com/potd-the-cz-p-10-c-or-the-dumbbell/10612063)
-* [TFB Podcast Roundup 156: The November 22nd Roundup](https://www.thegunpage.com/tfb-podcast-roundup-156-the-november-22nd-roundup/10612064)
-* [Hands on with the C&H Precision ERD-1](https://www.thegunpage.com/hands-on-with-the-ch-precision-erd-1/10612061)
-* [Pennsylvania Supreme Court Upholds State’s Firearms Preemption Law](https://www.thegunpage.com/pennsylvania-supreme-court-upholds-states-firearms-preemption-law/10612059)
-* [Ohio Democrats Push 10-Day Waiting Period for Gun Purchases](https://www.thegunpage.com/ohio-democrats-push-10-day-waiting-period-for-gun-purchases/10612056)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Parting Gift](https://www.conservativedailynews.com/2024/11/parting-gift/#comment-783386)
 * KayCee on [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/#comment-783370)
 * Stanley Warner on [It Is A Coming Out Party For Trump Supporters](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/#comment-783368)
 * Stanley Warner on [May The Spirit Of Laken Riley Shed Light On A Broken Judicial System](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/#comment-783367)
@@ -240,7 +241,6 @@ Recent Comments
 * [Bill](http://conservativedailynews.com/) on [Crap Fight](https://www.conservativedailynews.com/2024/11/crap-fight/#comment-783326)
 * [Bill](http://conservativedailynews.com/) on [Barrage Of Liberal Judges Will Be Schumer’s Swan Song](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/#comment-783325)
 * Stanley Warner on [Religious Belief and the 2024 Election](https://www.conservativedailynews.com/2024/11/religious-belief-and-the-2024-election/#comment-783324)
-* Stanley Warner on [Why Matt Gaetz Makes Sense As Attorney General](https://www.conservativedailynews.com/2024/11/why-matt-gaetz-makes-sense-as-attorney-general/#comment-783304)
 
 [Close](#)
 
