@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Tensions Rise Over ICC Arrest Warrants for Netanyahu, Gallant as US Allies Mull Response](https://www.theepochtimes.com/world/tensions-rise-over-icc-arrest-warrants-for-netanyahu-gallant-as-us-allies-mull-response-5765115)
+    
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Tensions Rise Over ICC Arrest Warrants for Netanyahu, Gallant as US Allies Mull Response](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Tensions Rise Over ICC Arrest Warrants for Netanyahu, Gallant as US Allies Mull Response](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763721-Israel_Knesset_24302581952246-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/tensions-rise-over-icc-arrest-warrants-for-netanyahu-gallant-as-us-allies-mull-response-5765115)
+* [‘State Organs’ Documentary Receives Award for Highlighting Abuse in China](https://www.theepochtimes.com/china/state-organs-documentary-receives-award-for-highlighting-abuse-in-china-5765088)
+    
+    3hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang) and [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    
+    [![‘State Organs’ Documentary Receives Award for Highlighting Abuse in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![‘State Organs’ Documentary Receives Award for Highlighting Abuse in China](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5765117-125793309cd852bb06ef44c4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/china/state-organs-documentary-receives-award-for-highlighting-abuse-in-china-5765088)
+* [Implications of Russia’s Experimental Missile Strike for Allied Strategy](https://www.theepochtimes.com/world/implications-of-russias-experimental-missile-strike-for-allied-strategy-5764972)
+    
+    3hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    
+    [![Implications of Russia’s Experimental Missile Strike for Allied Strategy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Implications of Russia’s Experimental Missile Strike for Allied Strategy](https://img.theepochtimes.com/assets/uploads/2024/11/22/id5764568-UKRAINE-CRISIS-ATTACK-DNIPRO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/implications-of-russias-experimental-missile-strike-for-allied-strategy-5764972)
+* [Day in Photos: Illegal Immigrants, Demonstrations, and Sado Mine Memorial](https://www.theepochtimes.com/article/day-in-photos-illegal-immigrants-demonstrations-and-sado-mine-memorial-5764991)
+    
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Illegal Immigrants, Demonstrations, and Sado Mine Memorial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Illegal Immigrants, Demonstrations, and Sado Mine Memorial](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5765151-GettyImages-2185542760-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-illegal-immigrants-demonstrations-and-sado-mine-memorial-5764991)
+* [Australia's Labor Government Withdraws Contentious Misinformation Bill](https://www.theepochtimes.com/world/cannot-pass-the-senate-greens-oppose-misinformation-bill-5765097)
+    
+    5hr By [Monica O’Shea](https://www.theepochtimes.com/author/monica-oshea)
+    
+    [![Australia's Labor Government Withdraws Contentious Misinformation Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Australia's Labor Government Withdraws Contentious Misinformation Bill](https://img.theepochtimes.com/assets/uploads/2023/04/23/id5214919-Michelle-Rowland-205x123.jpg.webp)](https://www.theepochtimes.com/world/cannot-pass-the-senate-greens-oppose-misinformation-bill-5765097)
+* [Trump Selects Brooke Rollins to Lead Agriculture Department](https://www.theepochtimes.com/us/trump-selects-brooke-rollins-to-lead-agriculture-department-5764588)
+    
+    6hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [John Haughey](https://www.theepochtimes.com/author/john-haughey) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Trump Selects Brooke Rollins to Lead Agriculture Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Selects Brooke Rollins to Lead Agriculture Department](https://img.theepochtimes.com/assets/uploads/2019/07/30/B2S00048-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-brooke-rollins-to-lead-agriculture-department-5764588)
+* [Public Education System Set for Shake Up Under Trump](https://www.theepochtimes.com/article/public-education-system-set-for-shake-up-under-trump-5762357)
+    
+    6hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    
+    [![Public Education System Set for Shake Up Under Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Public Education System Set for Shake Up Under Trump](https://img.theepochtimes.com/assets/uploads/2024/11/22/id5764629-GettyImages-1237957061-205x123.jpg.webp)](https://www.theepochtimes.com/article/public-education-system-set-for-shake-up-under-trump-5762357)
 * [Putin Says Russia Will Keep Testing New Hypersonic Ballistic Missile in Combat](https://www.theepochtimes.com/world/putin-says-russia-will-keep-testing-new-hypersonic-ballistic-missile-in-combat-5765090)
     
-    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Putin Says Russia Will Keep Testing New Hypersonic Ballistic Missile in Combat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Putin Says Russia Will Keep Testing New Hypersonic Ballistic Missile in Combat](https://img.theepochtimes.com/assets/uploads/2024/06/14/id5669063-Putin-GettyImages-2156859538KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/putin-says-russia-will-keep-testing-new-hypersonic-ballistic-missile-in-combat-5765090)
 * [Americans Need $5.3 Million Net Worth to Be Considered Financially Successful: Survey](https://www.theepochtimes.com/business/americans-need-5-3-million-net-worth-to-be-considered-financially-successful-survey-5765038)
     
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    9hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Americans Need $5.3 Million Net Worth to Be Considered Financially Successful: Survey](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Americans Need $5.3 Million Net Worth to Be Considered Financially Successful: Survey](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735637-10042024-L1150983-US-dollar-bills-205x123.jpg.webp)](https://www.theepochtimes.com/business/americans-need-5-3-million-net-worth-to-be-considered-financially-successful-survey-5765038)
 * [NATO Chief Meets With Trump Amid Rising Tensions With Russia](https://www.theepochtimes.com/world/nato-chief-meets-with-trump-amid-rising-tensions-with-russia-5764999)
     
-    4hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    10hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![NATO Chief Meets With Trump Amid Rising Tensions With Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![NATO Chief Meets With Trump Amid Rising Tensions With Russia](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758619-AP24317480690007-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/nato-chief-meets-with-trump-amid-rising-tensions-with-russia-5764999)
-* [Stocks Gain for the Week, Nvidia Fails to Impress, and Gold Shines](https://www.theepochtimes.com/business/stocks-gain-for-the-week-nvidia-fails-to-impress-and-gold-shines-5765002)
-    
-    4hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
-    
-    [![Stocks Gain for the Week, Nvidia Fails to Impress, and Gold Shines](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Stocks Gain for the Week, Nvidia Fails to Impress, and Gold Shines](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5765036-GettyImages-2183884045-205x123.jpeg.webp)](https://www.theepochtimes.com/business/stocks-gain-for-the-week-nvidia-fails-to-impress-and-gold-shines-5765002)
-* [UK Regulator Mulls Probe of Apple, Google Mobile Browser Duopoly](https://www.theepochtimes.com/world/uk-regulator-mulls-probe-of-apple-google-mobile-browser-duopoly-5764979)
-    
-    5hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
-    
-    [![UK Regulator Mulls Probe of Apple, Google Mobile Browser Duopoly](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![UK Regulator Mulls Probe of Apple, Google Mobile Browser Duopoly](https://img.theepochtimes.com/assets/uploads/2021/11/17/2021-11-16T111250Z_1_LYNXMPEHAF0GU_RTROPTP_4_GOOGLE-APPLE-205x123.jpg.webp)](https://www.theepochtimes.com/world/uk-regulator-mulls-probe-of-apple-google-mobile-browser-duopoly-5764979)
-* [‘Let the Party Fall’: Experts Hail Quit-the-CCP Movement as Cultural Awakening in China](https://www.theepochtimes.com/china/let-the-party-fall-experts-hail-quit-the-ccp-movement-as-cultural-awakening-in-china-5765014)
-    
-    5hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
-    
-    [![‘Let the Party Fall’: Experts Hail Quit-the-CCP Movement as Cultural Awakening in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![‘Let the Party Fall’: Experts Hail Quit-the-CCP Movement as Cultural Awakening in China](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5764945-DSC05427-quit-ccp-205x123.jpg.webp)](https://www.theepochtimes.com/china/let-the-party-fall-experts-hail-quit-the-ccp-movement-as-cultural-awakening-in-china-5765014)
-* [Supreme Court to Hear Challenge to Broadband Subsidy](https://www.theepochtimes.com/us/supreme-court-to-hear-challenge-to-broadband-subsidy-5764699)
-    
-    7hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
-    
-    [![Supreme Court to Hear Challenge to Broadband Subsidy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Supreme Court to Hear Challenge to Broadband Subsidy](https://img.theepochtimes.com/assets/uploads/2024/04/25/id5637826-FCC-logo-AP24116651634855-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-to-hear-challenge-to-broadband-subsidy-5764699)
-* [Trump Has Vowed to Close the Department of Education–How Would That Work?](https://www.theepochtimes.com/us/trump-has-vowed-to-close-the-department-of-education-how-would-that-work-5764378)
-    
-    12hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
-    
-    [![Trump Has Vowed to Close the Department of Education–How Would That Work?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Has Vowed to Close the Department of Education–How Would That Work?](https://img.theepochtimes.com/assets/uploads/2023/07/09/id5383715-07062023-DSC05590-Education-Department-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-has-vowed-to-close-the-department-of-education-how-would-that-work-5764378)
-* [Florida’s Surgeon General Comes Out Against Fluoride in Water Supply](https://www.theepochtimes.com/us/floridas-surgeon-general-comes-out-against-fluoride-in-water-supply-5764769)
-    
-    12hr By [T.J. Muscaro](https://www.theepochtimes.com/author/t-j-muscaro)
-    
-    [![Florida’s Surgeon General Comes Out Against Fluoride in Water Supply](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Florida’s Surgeon General Comes Out Against Fluoride in Water Supply](https://img.theepochtimes.com/assets/uploads/2022/11/21/joseph-ladapo-205x123.jpeg.webp)](https://www.theepochtimes.com/us/floridas-surgeon-general-comes-out-against-fluoride-in-water-supply-5764769)
-* [Biden Administration Races to Issue Final Grants, Spending Projects Before Trump Takes Office](https://www.theepochtimes.com/us/biden-administration-races-to-issue-final-grants-spending-projects-before-trump-takes-office-5764476)
-    
-    12hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Biden Administration Races to Issue Final Grants, Spending Projects Before Trump Takes Office](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Administration Races to Issue Final Grants, Spending Projects Before Trump Takes Office](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756609-GettyImages-2183520431-Joe-Biden-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-administration-races-to-issue-final-grants-spending-projects-before-trump-takes-office-5764476)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
