@@ -266,13 +266,6 @@ Most Popular
 [IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession](https://www.derrynow.com/story-telling/pictures---videos/1662940/in-pictures-crowds-line-the-streets-for-derry-s-magical-christmas-lights-switch-on-procession.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, November 23, 2024](https://www.derrynow.com/news/deaths/1662378/derry-death-notices-saturday-november-23-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal")](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -310,13 +303,6 @@ The late Fr John Bradley.
 [Poor weather conditions impacting roads across Causeway Coast and Glens District](https://www.derrynow.com/news/local-news/1662884/poor-weather-conditions-impacting-roads-across-causeway-coast-and-glens-district.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Clean-up begins after Storm Bert as thousands still left without power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clean-up begins after Storm Bert as thousands still left without power")](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Second half goals deny Craigbane Ulster title at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Second half goals deny Craigbane Ulster title at Celtic Park")](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
 
 There was devastation for Craigbane in the Ulster final at Celtic Park. Pic by Tom Heaney, nwpresspics
@@ -326,12 +312,26 @@ There was devastation for Craigbane in the Ulster final at Celtic Park. Pic by T
 [Second half goals deny Craigbane Ulster title at Celtic Park](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.ireland-live.ie/news/derry-now/1662836/derry-death-notices-saturday-november-23-2024.html)
+[![Clean-up begins after Storm Bert as thousands still left without power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clean-up begins after Storm Bert as thousands still left without power")](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sections of Letterkenny and Foyle roads in Derry currently flooded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sections of Letterkenny and Foyle roads in Derry currently flooded")](https://www.ireland-live.ie/news/derry-now/1662918/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
 
 [Derry Now](https://www.ireland-live.ie/section/2227/derrynow)
 
-[Derry Death Notices - Saturday, November 23, 2024](https://www.ireland-live.ie/news/derry-now/1662836/derry-death-notices-saturday-november-23-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+[Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.ireland-live.ie/news/derry-now/1662918/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar")](https://www.ireland-live.ie/story-telling/derry-now/1662917/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
+
+[Derry Now](https://www.ireland-live.ie/section/2227/derrynow)
+
+[IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](https://www.ireland-live.ie/story-telling/derry-now/1662917/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,6 +509,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, November 24, 2024](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Second half goals deny Craigbane Ulster title at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Second half goals deny Craigbane Ulster title at Celtic Park")](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
 
 There was devastation for Craigbane in the Ulster final at Celtic Park. Pic by Tom Heaney, nwpresspics
@@ -518,7 +525,7 @@ There was devastation for Craigbane in the Ulster final at Celtic Park. Pic by T
 [Second half goals deny Craigbane Ulster title at Celtic Park](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry and Strabane Council issues update on services in relation to Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry and Strabane Council issues update on services in relation to Storm Bert")](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
+[![Derry and Strabane Council issues update on services in relation to Storm Bert](https://www.derrynow.com/resizer/165/93/true/2024_11_23/IMG_5929-1732382098056.jpg--.jpg?1732382098533 "Derry and Strabane Council issues update on services in relation to Storm Bert")](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -547,13 +554,6 @@ The late Fr John Bradley.
 
 [Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Poor weather conditions impacting roads across Causeway Coast and Glens District](https://www.derrynow.com/resizer/165/93/true/1487065443216.jpg--.jpg?1487065444000 "Poor weather conditions impacting roads across Causeway Coast and Glens District")](https://www.derrynow.com/news/local-news/1662884/poor-weather-conditions-impacting-roads-across-causeway-coast-and-glens-district.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Poor weather conditions impacting roads across Causeway Coast and Glens District](https://www.derrynow.com/news/local-news/1662884/poor-weather-conditions-impacting-roads-across-causeway-coast-and-glens-district.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
