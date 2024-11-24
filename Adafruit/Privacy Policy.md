@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I would rather entertain and hope that people learned something than educate people and hope they were entertained”
+“ We are what we celebrate”
 
-[Walt Disney](http://en.wikipedia.org/wiki/Walt_Disney)
+[Dean Kamen](http://en.wikipedia.org/wiki/Dean_Kamen)
 
 [](https://www.adafruit.com/about)
 
