@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
+    
+    ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
+    
+    [![Victor Rawlings poses for photos in the William Blake estate in London. Credit: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/11/Victor-Rawlings-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
+    
+    ### [Families sharing beds and windows fixed with tape on ‘cold, cold, cold’ Waterloo estate](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
+    
     [![Members of ACORN Southwark with Liberal Democrat councillors at Southwark Council\'s Tooley Street headquarters. CREDIT: ACORN Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/acron-lib-dem-e1732271874488-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
     
     ### [Southwark Council warns estate agents to stop waging ‘exploitative’ bidding wars](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
@@ -47,14 +55,6 @@
     [![There will be magical characters around every corner (credit: Kingswood House)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-16.53-1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
     
     ### [Victorian Dulwich mansion to be transformed into an immersive Christmas experience](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
-    
-    [![Peckham Rye Station Square today.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5228-2-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
-    
-    ### [What is going on with Peckham Rye Station Square?](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
-    
-    [![The new mural on the Old Kent Road railway bridge](https://southwarknews.co.uk/wp-content/uploads/2024/11/home_from_home_okr_mural_211124-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
-    
-    ### [Ugly railway bridge on Old Kent Road gets bright makeover ahead of area’s transformation](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
+    
+    ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
+    
+    [![Victor Rawlings poses for photos in the William Blake estate in London. Credit: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/11/Victor-Rawlings-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
+    
+    ### [Families sharing beds and windows fixed with tape on ‘cold, cold, cold’ Waterloo estate](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
+    
     [![Members of ACORN Southwark with Liberal Democrat councillors at Southwark Council\'s Tooley Street headquarters. CREDIT: ACORN Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/acron-lib-dem-e1732271874488-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
     
     ### [Southwark Council warns estate agents to stop waging ‘exploitative’ bidding wars](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
@@ -132,14 +140,6 @@ View All Result
     [![There will be magical characters around every corner (credit: Kingswood House)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-16.53-1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
     
     ### [Victorian Dulwich mansion to be transformed into an immersive Christmas experience](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
-    
-    [![Peckham Rye Station Square today.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5228-2-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
-    
-    ### [What is going on with Peckham Rye Station Square?](https://southwarknews.co.uk/area/peckham/what-is-going-on-with-peckham-rye-station-square/)
-    
-    [![The new mural on the Old Kent Road railway bridge](https://southwarknews.co.uk/wp-content/uploads/2024/11/home_from_home_okr_mural_211124-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
-    
-    ### [Ugly railway bridge on Old Kent Road gets bright makeover ahead of area’s transformation](https://southwarknews.co.uk/area/bermondsey/ugly-railway-bridge-on-old-kent-road-gets-bright-makeover-ahead-of-areas-transformation/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -369,19 +369,25 @@ Website
 
 [23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
 
-[![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
-
-### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
-
-[23rd November 2024](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
-
 [![Jake Cooper has every league game he's been healthy for this season.](https://southwarknews.co.uk/wp-content/uploads/2024/11/J-Cooper-55545-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
 
 ### [Millwall boss confirms Jake Cooper is out for ten weeks](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
 
 [23rd November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
 
+[![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+
+### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+
+[23rd November 2024](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+
 ### Featured Articles
+
+[![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
+
+### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
+
+[24th November 2024](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
 
 [![Members of ACORN Southwark with Liberal Democrat councillors at Southwark Council\'s Tooley Street headquarters. CREDIT: ACORN Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/acron-lib-dem-e1732271874488-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
 
@@ -412,12 +418,6 @@ Website
 ### [Man wanted in connection with Walworth Road stabbing](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
 
 [22nd November 2024](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
-
-[![Computer-generated image of the shared industrial unit. Image: Lambeth Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/cgi-of-planned-industrial-unit-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
-
-### [Hundreds of co-living flats to be built near South London station despite zero affordable housing](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
-
-[21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
 ### USEFUL PAGES
 
