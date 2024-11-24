@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can a patient be kicked out of a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-patient-be-kicked-out-of-a-nursing-home.jpg "Can a Patient Be Kicked Out of a Nursing Home?")](https://www.pintas.com/faq/can-a-patient-be-kicked-out-of-a-nursing-home/ "Can a Patient Be Kicked Out of a Nursing Home?")
+[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/why-do-nursing-homes-get-fines/ "Why Do Nursing Homes Get Fines?")
 
-[#### Can a Patient Be Kicked Out of a Nursing Home?](https://www.pintas.com/faq/can-a-patient-be-kicked-out-of-a-nursing-home/)
+[#### Why Do Nursing Homes Get Fines?](https://www.pintas.com/faq/why-do-nursing-homes-get-fines/)
 
-[![Why is mesothelioma so deadly?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-why-is-mesothelioma-so-deadly.jpg "Why Is Mesothelioma So Deadly?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/why-is-mesothelioma-so-deadly "Why Is Mesothelioma So Deadly?")
+[![How long do you have to file a lawsuit against a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home-scaled.jpg "How Long Do You Have to File a Lawsuit Against a Nursing Home?")](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/ "How Long Do You Have to File a Lawsuit Against a Nursing Home?")
 
-[#### Why Is Mesothelioma So Deadly?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/why-is-mesothelioma-so-deadly)
+[#### How Long Do You Have to File a Lawsuit Against a Nursing Home?](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/)
 
-[![Mormon sexual abuse: why are some in the church protecting sex abuse offenders?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/ "Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?")
+[![What powders are talc free?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-powders-are-talc-free-scaled.jpg "What Powders Are Talc Free?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders "What Powders Are Talc Free?")
 
-[#### Mormon Sexual Abuse: Why Are Some in the Church Protecting Sex Abuse Offenders?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/why-is-the-mormon-church-protecting-sexual-abuse-offenders/)
+[#### What Powders Are Talc Free?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders)
 
 ### Injured?  
 Tell Us What Happened.
