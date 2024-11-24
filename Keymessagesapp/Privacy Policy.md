@@ -207,27 +207,6 @@ _tablet\_android_Tablet
 
 1
 
-![](https://play-lh.googleusercontent.com/a/ACg8ocLZgx_1tm_I3rqQb0wt3Tntn70Lp42T3-psmRB49bZFVnu_WQ=s32-mo)
-
-Geno
-
-_more\_vert_
-
-* Flag inappropriate
-* Show review history
-
-November 19, 2024
-
-It's 4 years, now, and trouble free, but it's stuck on Android 15, need to know if there is a patch. Thanks! Works great! I was down as I really tried to protect this phone #, but in the last year I was dismayed at the amount of spam I was getting and notified each time one came in. Key Messages with just the free version worked well out of the box, then with premium version I was able to tune it, and now my # is saved! 🙌 And I've found them easy to discuss in email. Well done! 😁
-
-23 people found this review helpful
-
-Did you find this helpful?
-
-Yes
-
-No
-
 ![](https://play-lh.googleusercontent.com/a/ACg8ocLeMsgT8wO-8CDeH8YcZZBa7hwSZpYJTguhBG8wbMutc_JivQ=s32-mo)
 
 LonelyLeo100
@@ -254,6 +233,26 @@ Mezo SMS AI - Spam Blocker, Text Blocker
 March 31, 2024
 
 Hi. Thanks for the feedback. We are glad to know that Key Messages is working awesome for you.
+
+![](https://play-lh.googleusercontent.com/a/ACg8ocIDLt_Lr4kyKkfno2vDrRz8DSnqOIXiUBrsYU76WBZU0oR9gw=s32-mo)
+
+Kevin Rich
+
+_more\_vert_
+
+* Flag inappropriate
+
+October 11, 2024
+
+Features SMS blocking rules that, for whatever reason, don't seem to exist on competing apps. It's also nice that numbers in your contacts are separated into their own list, distinct from all unknown numbers. Finally, there's a handy feature where 2FA text message codes are automatically copied to the clipboard. However beyond that, there isn't much going for it. I have weird rendering errors on my device where occasionally older messages will float over or behind current messages. Strange.
+
+2 people found this review helpful
+
+Did you find this helpful?
+
+Yes
+
+No
 
 ![](https://play-lh.googleusercontent.com/a/ACg8ocLm6yMboh4OnkIO6hl2m4gQrHkZ4CV3GdU_sFRZX-rznWkpYw=s32-mo)
 
@@ -312,7 +311,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGFQ5NnRnbXJXK3FPZ3dVdi9KNW9sT1E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljJRYTg)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDRPNTN6QTBReXdLcUFYUS9DRDk5eHc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLZP5c)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
@@ -368,7 +367,7 @@ Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Point
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -380,4 +379,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English (United States))
+United States (English)
