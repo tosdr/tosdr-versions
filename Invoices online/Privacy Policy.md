@@ -117,59 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Henry Venter
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=183754820)  
-RADIO TYGERBERG 104FM NPC
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=60949631)  
+Highlands Auto Engineering
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=121404684)  
-McKaynine Mobility
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=113339583)  
+WIP Digital Solutions
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=84662531)  
-Salvage Genie
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=71261621)  
+Lily Fern & Co
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=176553746)  
-Gemini-IT Group
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=131051844)  
+Norton Medical & Consult - Namibia
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=136898436)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=4982344)  
+Sarabi
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=206521988)  
-Abandoned Vehicle and Truck Solutions
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=57119998)  
+Printo
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=213999217)  
-Repairs In Motion
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=2553441)  
+Wiselink Broadband Dundee
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=94157773)  
-Camp 4 Africa (Pty) Ltd
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=95178281)  
+Konsortium Operations (PTY) LTD
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=104646227)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=188878791)  
+Cooper Logistics (Pty) Ltd
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=33487268)  
-MONSTER SECURITY SERVICES
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=205299235)  
+Goju-Ryu Pretoria East
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=141180554)  
-All Trucking Solutions
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=59096360)  
+FX ACCOUNTING
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=121181355)  
-MR Compressors& Industrial Supplies
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=171158061)  
+TechnoDezi PTY(LTD)
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=136297585)  
-Kaylas Creations
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=27164525)  
+AFS Electrical
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=208957165)  
-IEMS (PTY) ltd
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=96199003)  
+Fox Alarms & Security
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=207362066)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=109491897)  
+Kinetic Power Solutions (Pty) Ltd.
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
