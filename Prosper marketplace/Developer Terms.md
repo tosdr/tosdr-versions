@@ -132,59 +132,132 @@
 
 X
 
-Our site is undergoing maintenance
-----------------------------------
+Prosper API Terms of Use
+========================
 
-The Prosper site is down for scheduled maintenance and should be available after 7:00AM PST. We appreciate your patience during this time.
+**As a condition to using Prosper’s application programming interface or other data supplied by Prosper (“API”), you must comply with the following API Terms of Use. If you do not agree to these terms without limitations or exclusions, Prosper does not grant you a license to use the API.**
 
-Contact us
-----------
+The following are terms of a legal agreement (the “Agreement”) between you, individually and/or as an agent on behalf of an entity or another registered user (“you”), and Prosper Funding LLC (“Prosper”, “we”, or “us”) that sets forth the terms and conditions for your use of Prosper’s API (the “API Terms of Use”). The API is owned and operated by Prosper. The API, together with all tools, data, text, articles, design, source code, software, photos, images and other content or information (including without limitation all information included on the Data Export page located at [DataExport](https://www.prosper.com/plp/tools/dataexport "Data Export")) made available through the API is collectively referred to in this Agreement as the “API Service.” By accessing, browsing or using the API Service, you acknowledge that you have read, understood, and agree to be bound by this Agreement between you and Prosper and to comply with all applicable laws and regulations. You also agree to comply with Prosper’s API Terms of Use, as they may be amended from time to time.
 
-**General:** [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection)
+We reserve the right to amend the API Terms of Use at any time and posting the revised API Terms of Use on the Prosper website (the “Site”) shall be notice to you of such changes. You should check the API Terms of Use periodically for changes. Unless otherwise indicated, all changes shall be effective upon posting and will supersede all previous versions. Your continued use of the API Service after any change to the API Terms of Use constitutes your agreement to be bound by all provisions of the most current API Terms of Use as posted on the Site. If you disagree with the API Terms of Use or any changes to the API Terms of Use, your only option is to discontinue your use of the API Service. We may, in our sole discretion, with or without cause, terminate this Agreement at any time without prior notice or liability to you or anyone else.
 
-**Personal Loan**
+LICENSE TO USE API SERVICE
+--------------------------
 
-866-615-6319
+Prosper grants you a limited, revocable, non-exclusive, non-transferable, non-assignable, non-sublicenseable license to use the API Service for any lawful use that does not compete with products and services offered by Prosper, its parent company, Prosper Marketplace, Inc., any affiliates or any subsidiaries, on the terms set forth in this Agreement. The license shall continue for as long as we make the API Service available to you; provided, however, that the license will terminate immediately if you violate any terms of this Agreement. We may, in our sole discretion, with or without cause, modify, enhance, suspend, terminate or discontinue this license, or restrict your access to all or any part of the API Service at any time without prior notice or liability to you or anyone else. The API Service may contain technical inaccuracies or typographical errors, and Prosper does not undertake any obligation or responsibility to update or amend the API Service, or to provide support for your use of the API Service.
 
-Monday – Friday  
-5 AM – 5 PM PT
+  
+All data obtained from or provided by Prosper, regardless of the method of delivery, is explicitly prohibited from publication and distribution. Moreover, you represent that all data provided by Prosper to a user, regardless of the method of delivery, is not used for any competing purposes and only used to permit investment using the products or services of Prosper.
 
-**Investor**
+COMPLIANCE WITH LAW
+-------------------
 
-877-646-5922
+You agree to use the API Service only for lawful purposes. You are prohibited from any use of the API Service that would constitute a violation of any applicable federal, state or local laws, including but not limited to, the Equal Credit Opportunity Act and other fair lending laws, Truth in Lending Act, Fair Debt Collection Practices Act, Federal Trade Commission Act, federal or state consumer privacy laws, state licensing laws, or state unfair and deceptive trade practices statutes, or in any manner that could give rise to any civil or criminal liability. In particular, any use or display any data, text, articles, design, source code, software, photos, images and other content or information made available through the API must be in full compliance with the federal Fair Credit Reporting Act as well as all applicable state credit reporting statutes and regulations. If you access the API Service from outside of the United States, you are solely responsible for ensuring compliance with the laws of your specific jurisdiction. Children under the age of 18 are not eligible to use the API Service.
 
-Monday – Friday  
-6 AM – 3 PM PT
+GENERAL RESTRICTIONS
+--------------------
 
-**Credit Card**
+You agree not to (i) modify, decompile or otherwise alter the API Service, (ii) use the API Service to reveal or display any non-public personally identifiable information of any user of the Site, (iii) use the API Service to defame, libel, threaten or harass any user of the Site or the API Service, (iv) use the API Service to bid on listings on behalf of other lenders without Prosper’s prior written consent, (v) query the API Service more than 20 times per second (the “Query Limitation”) or otherwise knowingly attempt to circumvent the Query Limitation, or (vi) use the data provided by Prosper, in any manner whatsoever (including, but not limited to via an API Service or data from the Site), for any competing uses or purposes. You further agree that you have never used data from Prosper, in any manner whatsoever (including, but not limited to via an API Service or data from the Site), in the past to compete with the products or services of Prosper.
 
-800-903-4697
+SUBMISSIONS TO THE SITE
+-----------------------
 
-Monday – Sunday  
-5 AM – 7 PM PT
+Any feedback, remarks, discussions, ideas, concepts, know-how, techniques, graphics or other submissions you make through the Site, including through any forums or other communications relating to the API Service (collectively, “Submissions”), shall be deemed and remain the property of Prosper, and Prosper is entitled to use any Submission for any purpose, without restriction or compensation to the individual who has provided the Submission. Prosper shall not be subject to any obligations of confidentiality regarding Submissions except as expressly agreed by Prosper or as otherwise required by applicable law. Nothing contained in this Agreement shall be construed as limiting Prosper’s responsibilities and obligations under its Privacy Policy.
 
-**Home Equity**
+PROPRIETARY RIGHTS
+------------------
 
-800-954-2172
+Prosper retains all right, title and interest, including without limitation all intellectual property rights, in and to the API Service, and any Submissions. Any unauthorized use of such material may violate copyright laws, trademark laws, the laws of privacy, and other statutes and regulations governing intellectual property. You shall agree to take such actions, including without limitation, execution of affidavits or other documents, as Prosper may reasonably request to effect, perfect or confirm any of Prosper’s rights with respect to the API Service or any Submission.
 
-Monday – Friday  
-7 AM – 4 PM PT
+INTELLECTUAL PROPERTY OF PROSPER
+--------------------------------
 
-IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT.
+The term “Prosper” (either alone or accompanied by the Prosper logo), the Prosper logo, Prosper.com, color schemes displayed on Prosper websites, and all related logos, (collectively the “Prosper marks”) are trademarks, service marks, and/or trade dress of Prosper. Other company, product, and service names and logos used and displayed on the API Service may be trademarks or service marks owned by Prosper or others. The offering of the API Service shall not be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of the Prosper marks, without our prior written permission in each instance. You may not use, copy, display, distribute, modify or reproduce any of the Prosper marks found in the API Service unless in accordance with written authorization by us. We prohibit use of any of the Prosper marks as part of a link to or from any website unless establishment of such a link is approved in writing by Prosper in advance. Prosper further prohibits the use of any color schemes displayed on any Prosper websites, and any use of the term “Prosper” in the title of any application using the Prosper API. Any questions concerning any Prosper marks, should be referred to Prosper.
 
-To help the government fight the funding of terrorism and money laundering activities, Federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account.
+ATTRIBUTION
+-----------
 
-What this means for you: When you open an account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see your driver’s license or other identifying documents.
+If you use the API Service in connection with any website or with any application that makes reference to Prosper and is designed for use by third parties, whether for free or for compensation, you must include the following notice in 8-point type or larger: “This website is not endorsed by, owned by or affiliated with Prosper Funding LLC.”
 
-\*  For example, a three-year $10,000 personal loan would have an interest rate of 9.38% and a 9.99% origination fee for an annual percentage rate (APR) of 16.74% APR. You would receive $9,001.00 and make 36 scheduled monthly payments of $319.77. A five-year $10,000 personal loan would have an interest rate of 11.14% and a 9.99% origination fee with a 15.84% APR. You would receive $9,001.00 and make 60 scheduled monthly payments of $218.12. Origination fees vary between 1% and 9.99%. Personal loan APRs through Prosper range from 8.99% to 35.99%, with the lowest rates for the most creditworthy borrowers. Eligibility for personal loans up to $50,000 depends on the information provided by the applicant in the application form. Eligibility for personal loans is not guaranteed, and requires that a sufficient number of investors commit funds to your account and that you meet credit and other conditions. Refer to Borrower Registration Agreement for details and all terms and conditions. All personal loans made by WebBank.
+FEES
+----
 
-Links to third party sites are provided for your convenience and do not constitute an endorsement.
+The API Service is currently offered free of charge. Prosper reserves the right to charge fees or royalties for use of the API Service in the future.
 
-All HELOCs are underwritten and issued by our banking partners.
+DISCLAIMER OF WARRANTIES
+------------------------
 
-Prosper and WebBank take your privacy seriously.
+You expressly understand and agree to the following disclaimers to the extent permitted by applicable law:
 
-Please see [WebBank’s Privacy Policy](https://www.webbank.com/privacy) for more details.
+  
+
+Your use of the API Service is at your sole risk. Prosper does not warrant or guarantee the accuracy, adequacy, timeliness, reliability, completeness, or usefulness of the API Service and prosper disclaims liability for errors or omissions in the API Service. The API Service is provided on an “as-is” and “as available” basis, without any warranty, either express or implied. Prosper disclaims all warranties, including, but not limited to, any implied warranties of non-infringement, title, merchantability or fitness for a particular purpose, or any warranty that the site is free of viruses or other harmful components. This does not affect those warranties that are incapable of exclusion, restriction or modification under the laws applicable to this Agreement.
+
+  
+
+Any material downloaded or otherwise obtained through the Site or the API Service is acquired at your own discretion and risk and you will be solely responsible for any damage to your own computer system or loss of data that results from the download of any such material.
+
+  
+
+No advice or information, whether written or oral, obtained by you from Prosper shall create any warranty not expressly stated in these API Terms of Use.
+
+INDEMNIFICATION
+---------------
+
+You agree to indemnify and hold harmless Prosper, its parent, any affiliates, any subsidiaries or their respective officers, directors, employees, agents, independent contractors or licensors (collectively the “Prosper Parties”) from and against any and all claims, losses, expenses, demands or liabilities, including attorneys’ fees and costs, incurred by the Prosper Parties in connection with any claim by a third party (including any intellectual property claim) arising out of (i) your use of the API Service and any material you access using the API Service or by any other means, (ii) a third party’s use of such material that you access using the API Service and make available to such third party, or (iii) your violation of this Agreement or any applicable law. You further agree that you will cooperate fully in the defense of any such claims. Prosper Parties reserve the right, at their own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and you shall not in any event settle any such claim or matter without the written consent of the relevant Prosper Parties.
+
+LIMITATION OF LIABILITY
+-----------------------
+
+You agree to the following limitation of liability to the extent permitted by applicable law:  
+Under no circumstances shall the Prosper Parties be liable to you or any other party for any direct, indirect, special, consequential or exemplary damages, including but not limited to damages for lost profits, business interruption, goodwill or other intangible losses of any kind (even if Prosper or its representatives has been advised of the possibility of such damages) arising from or relating in any way to: (a) your use of, or inability to use, the API Service, (b) any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus or line or system failure, (c) the cost of procurement of substitute goods or services, (d) unauthorized access to or alteration or your transmissions or data, or (e) any other matter relating to the API Service.
+
+AVAILABILITY
+------------
+
+The API Service not intended for distribution to, or use by, any person or entity in any jurisdiction or country where such distribution or use would be contrary to applicable law or regulation. By offering the API Service no distribution or solicitation is made by Prosper to any person to use the API Service in jurisdictions where the provision of the API Service is prohibited by law.
+
+RELATIONSHIP
+------------
+
+Your use of the API Service does not create, and nothing contained in this Agreement will be deemed to establish, an employment, agency, franchise, joint venture or partnership relationship between you and Prosper. You have no power or authority to enter into any agreement for or on behalf of Prosper, or incur any obligation or liability of, or otherwise bind Prosper, and you agree not to attempt to do so.
+
+WAIVER
+------
+
+Failure by Prosper to enforce any of its rights under this Agreement shall not be construed as a waiver of those rights or any other rights in any way whatsoever.
+
+APPLICABLE LAW AND DISPUTE RESOLUTION
+-------------------------------------
+
+This Agreement and all other aspects of your use of the API Service shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of laws rules. You agree that you will notify Prosper in writing of any claim or dispute concerning or relating to the API Service and the information or services provided through it, and give Prosper a reasonable period of time to address it before bringing any legal action, either individually or as a class member against Prosper. You agree to submit to the personal jurisdiction of the state and federal courts located in the City and County of San Francisco, California.
+
+OTHER AGREEMENTS
+----------------
+
+This Agreement shall be subject to any other agreements you have entered into with Prosper; however, with regard to your use of the API Services, in the event of any conflict between this Agreement and any other agreement to which you and Prosper are bound, the terms of this Agreement shall control.
+
+ADDITIONAL TERMS
+----------------
+
+Certain sections or pages on the Site may contain separate terms and conditions of use, which are in addition to the terms and conditions of this Agreement. In the event of a conflict, the additional terms and conditions will govern for those sections or pages.
+
+SEVERABILITY
+------------
+
+If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions shall be enforced to the fullest extent possible, and the remaining provisions of the Agreement shall remain in full force and effect.
+
+GENERAL PROVISIONS
+------------------
+
+This Agreement will be binding on, inure to the benefit of, and be enforceable against the parties to this Agreement and their respective successors and assignees. Neither the course of conduct between the parties to this Agreement nor trade practice shall serve to modify any provision of this Agreement. All rights not expressly granted herein are hereby reserved. Section headings are for reference purposes only and in no way define, limit, construe or describe the scope or extent of such section.
+
+CONTACTING US
+-------------
+
+If you have questions regarding the API Service, please contact us by e-mail at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection). If you have questions regarding the Agreement or the practices of Prosper, please contact us by e-mail at [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection) or by regular mail at Prosper Funding LLC, c/o Prosper Marketplace, Inc., 221 Main Street, 3rd Floor, San Francisco, California 94105, Attention: Compliance.
+
+Last Updated: September 20, 2016
 
 **[Personal Loans](https://www.prosper.com/personal-loans)**
 
