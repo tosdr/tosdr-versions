@@ -45,7 +45,7 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: "sherlock (tv)" m/m NOT "sherlock holmes/john watson" 
+* Work Search  tip: katekyou "alternate universe" sort:>words 
     
 
 Terms of Service
@@ -306,6 +306,6 @@ The AO3 [Terms of Service](https://archiveofourown.org/tos), including the [Cont
     * [Technical Support & Feedback](https://archiveofourown.org/support)
 * #### Development
     
-    * [otwarchive v0.9.381.4](https://github.com/otwcode/otwarchive/commits/v0.9.381.4)
+    * [otwarchive v0.9.382.6}](https://github.com/otwcode/otwarchive/commits/v0.9.382.6%7D)
     * [Known Issues](https://archiveofourown.org/known_issues)
     * [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "View License") by the [OTW](https://transformativeworks.org/ "Organization for Transformative Works")
