@@ -352,6 +352,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/Tuvok_promoted-768x585.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/promotions-for-october-6/)
+
+### [Promotions for October](https://www.starbase118.net/2024/promotions-for-october-6/)
+
+Alora DeVeau November 24, 2024
+
+We’d like to congratulate all who saw their hard work and dedication pay off the last couple of months with a promotion to a higher
+
+[Read More »](https://www.starbase118.net/2024/promotions-for-october-6/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/04/pic_s03_sp_hero_landscape-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/poll-of-the-month-im-all-eras/)
 
 ### [Poll of the Month: I’m All Eras!](https://www.starbase118.net/2024/poll-of-the-month-im-all-eras/)
@@ -373,18 +385,6 @@ Federation News Service November 22, 2024
 NASSAU — After narrowly surviving their first Borg encounter, the USS Gorkon (NCC-82293) sought temporary refuge within the depths of the Nassau asteroid. While the
 
 [Read More »](https://www.starbase118.net/2024/cooperation-between-nassau-news-and-federation-news-service-in-the-making/)
-
-[![You'll Always Be My Number One](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![You'll Always Be My Number One](https://b108297.smushcdn.com/108297/wp-content/uploads/2016/05/riker-instagram_4049ce46b3-768x768.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/first-officer-in-focus-wil-ukinix-amity-outpost-4/)
-
-### [First Officer in Focus – Wil Ukinix, Amity Outpost](https://www.starbase118.net/2024/first-officer-in-focus-wil-ukinix-amity-outpost-4/)
-
-srichardsciencenerd118 November 21, 2024
-
-Each month we interview a First Officer of the fleet as part of our “First Officer in Focus” column to get to know them better,
-
-[Read More »](https://www.starbase118.net/2024/first-officer-in-focus-wil-ukinix-amity-outpost-4/)
 
 Ready to get started?
 ---------------------
