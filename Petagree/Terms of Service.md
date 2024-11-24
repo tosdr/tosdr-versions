@@ -1,6 +1,6 @@
 ×
 
-         
+        
 
 _**Family Owned and Operated Since 1993!**_
 
@@ -249,7 +249,7 @@ Search results
     
     ### iGroom [iGroom Tearless Facial Shampoo - Gallon](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
-    4 in stock
+    3 in stock
     
     $64.00
     
