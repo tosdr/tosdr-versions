@@ -123,7 +123,7 @@ FR
         
         3.5% Cash Back](https://www.rakuten.ca/eufy)[HP Canada
         
-        20% Cash Back](https://www.rakuten.ca/hp-canada)[Lenovo Canada
+        10% Cash Back](https://www.rakuten.ca/hp-canada)[Lenovo Canada
         
         9% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
         
@@ -848,11 +848,11 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 20% Cash Back from Rakuten.ca with HP Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303021/en-stickyfooter-1170x60_hp-.png "HP Canada Coupons, Promo Codes")
+[![Earn 10% Cash Back from Rakuten.ca with HP Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303021/en-stickyfooter-1170x60_hp-.png "HP Canada Coupons, Promo Codes")
 
 was 2%, now
 
-20% Cash Back
+10% Cash Back
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/hp-canada?sourceName=stickyfooter1)
 
