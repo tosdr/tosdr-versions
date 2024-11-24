@@ -1,6 +1,4 @@
-🎉 Exciting Updates!
-
-[See What's New](https://quran.com/product-updates)
+🔊 Click any word, hear it pronounced!!
 
 [](https://quran.com/ "Quran.com")
 
