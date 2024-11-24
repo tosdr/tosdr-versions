@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/stoelriemen-vast-de-time-wave-theorie-van-terence-mckenna/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/wef-is-praatclubje-dan-6-ministers-naar-davos/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
