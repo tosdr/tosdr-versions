@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I've been using your UK Proxy service for a couple weeks now and like it very much. I'd like it to be extended to a yearly contract.
+19 minutes from request to solution - that's a new record, for sure :-) Thank you very much, keep up the good work and best regards from Berlin.
 
-Jeff Schmidt
+Per Kall
