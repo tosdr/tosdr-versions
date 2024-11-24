@@ -626,13 +626,13 @@ Rated 5.0 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-2,075 Reviews
+2,076 Reviews
 
 4.4
 
 Rated 4.4 out of 5 stars
 
-1,817 Reviews
+1,818 Reviews
 
 4.7
 
