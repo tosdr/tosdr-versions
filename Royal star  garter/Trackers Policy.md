@@ -357,18 +357,6 @@ Always Enabled
 
 Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
 
-Performance
-
- performance
-
-Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
-
-Others
-
- others
-
-Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
-
 Functional
 
  functional
@@ -386,5 +374,17 @@ Analytics
  analytics
 
 Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+
+Performance
+
+ performance
+
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+
+Others
+
+ others
+
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
 
 Save & Accept
