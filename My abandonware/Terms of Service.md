@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Ultimate Su Doku](https://www.myabandonware.com/game/ultimate-su-doku-tb0)
+* [Santa Slayer](https://www.myabandonware.com/game/santa-slayer-taz)
+* [Space Rocks 3D](https://www.myabandonware.com/game/space-rocks-3d-tay)
 * [Puzzle Ring](https://www.myabandonware.com/game/puzzle-ring-tax)
 * [Springy](https://www.myabandonware.com/game/springy-taw)
-* [Polar Kubes](https://www.myabandonware.com/game/polar-kubes-tav)
-* [Ishido](https://www.myabandonware.com/game/ishido-tau)
-* [Harmony Blocks](https://www.myabandonware.com/game/harmony-blocks-tat)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
