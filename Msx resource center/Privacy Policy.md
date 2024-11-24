@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -150,6 +150,7 @@ Latest reactions
 
 Latest forum posts
 
+* [Sony HWD-80](https://www.msx.org/forum/msx-talk/hardware/sony-hwd-80 "Sony HWD-80")
 * [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun "Run Bubble Rain with Sofarun")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [Use sounds from Philips Music Module with MIDI in](https://www.msx.org/forum/msx-talk/graphics-and-music/use-sounds-from-philips-music-module-with-midi-in "Use sounds from Philips Music Module with MIDI in")
@@ -162,7 +163,6 @@ Latest forum posts
 * [MSX Pico - multi Flash ROM cartridge](https://www.msx.org/forum/msx-talk/hardware/msx-pico-multi-flash-rom-cartridge?page=3 "MSX Pico - multi Flash ROM cartridge")
 * [Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.](https://www.msx.org/forum/msx-talk/hardware/obsonet-raspberrypi-internestor-lite-23-freeze-on-install "Obsonet, RaspberryPi & Internestor lite 2.3 freeze on install.")
 * [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
-* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
