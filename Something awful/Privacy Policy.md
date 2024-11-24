@@ -205,21 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Sad Posts Say So Much](https://www.somethingawful.com/great-goon-database/great-goon-sad/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [Battletech Loves the 80's](https://www.somethingawful.com/dungeons-and-dragons/battletech-art-1980s/1/)
-* [AOL Search Log Special, Part 3](https://www.somethingawful.com/weekend-web/aol-search-log-3/1/)
-* [Baby Bibs](https://www.somethingawful.com/photoshop-phriday/baby-bibs/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Sporting Superheroes! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/sporting-superheroes/1/)
+* [Lives In Baghdad!](https://www.somethingawful.com/news/lives-in-baghdad/)
+* [Pets](https://www.somethingawful.com/guides/guide-pets/1/)
+* [Merge Iconic Images!](https://www.somethingawful.com/photoshop-phriday/merge-iconic-photos/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [The GBS Awful Fiction Writing Workshop (56k Okay)](http://forums.somethingawful.com/showthread.php?threadid=4076082 "The GBS Awful Fiction Writing Workshop (56k Okay)")
+
 ### Random Articles
 
-* [McRorie Live Electronic (Thanks, P78M!)](https://www.somethingawful.com/awful-links/mcrorie-live-electronic/)
-* [Microsoft Stock Plummets: Here's Why](https://www.somethingawful.com/webcam-ward/halo-webcam-ward/)
-* [Nice and Accurate NFL Predictions](https://www.somethingawful.com/news/predictions-nfl-football/)
-* [Street Smarts](https://www.somethingawful.com/news/street-smarts/)
-* [Apple Time](https://www.somethingawful.com/flash-tub/apple-time-cartoon/)
+* [PlatMaster 10,000!](https://www.somethingawful.com/news/platmaster-platform-games/)
+* [Barcade Fly](https://www.somethingawful.com/news/barcade-fly/)
+* [The Augmented Reality AppStore](https://www.somethingawful.com/feature-articles/augmented-reality-apps/1/)
+* [I Hate You Page 74](https://www.somethingawful.com/cliff-yablonski/i-hate-you-74/)
+* [The Hunger Guides: Your Guide to Hunger Games Guides](https://www.somethingawful.com/guides/hunger-games-movie/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
