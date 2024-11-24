@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/wef-is-praatclubje-dan-6-ministers-naar-davos/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/bp-bilderberg-goldman-sachs-rockefeller/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
