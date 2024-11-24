@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/da7ff163-7307-4a28-97b6-bc4756ef5c01/20241124T061248/da7ff163-7307-4a28-97b6-bc4756ef5c01_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da7ff163-7307-4a28-97b6-bc4756ef5c01/20241124T061248/da7ff163-7307-4a28-97b6-bc4756ef5c01_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/enumclaw-nightmare-stolen-generator-used-to-power-ailing-mothers-oxygen-machine/281-48b24bc7-2ec1-4ec3-962d-f87a3e337863)
+        
+        #### [Enumclaw man describes 'nightmare' of stolen generator used to power ailing mother's oxygen machine](https://www.king5.com/article/weather/severe-weather/enumclaw-nightmare-stolen-generator-used-to-power-ailing-mothers-oxygen-machine/281-48b24bc7-2ec1-4ec3-962d-f87a3e337863)
+        
     *  [![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
         
         #### [Power outage restoration timeline pushed back for some PSE customers](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
-        
-    *  [![](https://media.king5.com/assets/KGW/images/d4d2edd8-e5ab-4ed7-ab08-d6538c78e139/20241123T022553/d4d2edd8-e5ab-4ed7-ab08-d6538c78e139_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/d4d2edd8-e5ab-4ed7-ab08-d6538c78e139/20241123T022553/d4d2edd8-e5ab-4ed7-ab08-d6538c78e139_360x203.jpg)](https://www.king5.com/article/news/local/i205-overpass-cinder-blocks-thrown-cars-damage/283-13babad0-4db6-4790-917c-a5b930f661dd)
-        
-        #### [Cars damaged by concrete blocks thrown off I-205 in Vancouver](https://www.king5.com/article/news/local/i205-overpass-cinder-blocks-thrown-cars-damage/283-13babad0-4db6-4790-917c-a5b930f661dd)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
-        
-        #### [Power outage restoration timeline pushed back for some PSE customers](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
-        
-    *  [![](https://media.king5.com/assets/KING/images/0a3afdb8-eaf9-42a6-8c61-d88e539859bd/20241123T163059/0a3afdb8-eaf9-42a6-8c61-d88e539859bd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0a3afdb8-eaf9-42a6-8c61-d88e539859bd/20241123T163059/0a3afdb8-eaf9-42a6-8c61-d88e539859bd_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/7e86b805-0592-4ef1-b737-c4d977d53d13/20241124T043420/7e86b805-0592-4ef1-b737-c4d977d53d13_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7e86b805-0592-4ef1-b737-c4d977d53d13/20241124T043420/7e86b805-0592-4ef1-b737-c4d977d53d13_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/da7ff163-7307-4a28-97b6-bc4756ef5c01/20241124T061248/da7ff163-7307-4a28-97b6-bc4756ef5c01_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da7ff163-7307-4a28-97b6-bc4756ef5c01/20241124T061248/da7ff163-7307-4a28-97b6-bc4756ef5c01_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/enumclaw-nightmare-stolen-generator-used-to-power-ailing-mothers-oxygen-machine/281-48b24bc7-2ec1-4ec3-962d-f87a3e337863)
+        
+        #### [Enumclaw man describes 'nightmare' of stolen generator used to power ailing mother's oxygen machine](https://www.king5.com/article/weather/severe-weather/enumclaw-nightmare-stolen-generator-used-to-power-ailing-mothers-oxygen-machine/281-48b24bc7-2ec1-4ec3-962d-f87a3e337863)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-46°
+44°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
