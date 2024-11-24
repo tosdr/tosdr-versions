@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Seek freedom and become captive of your desires. Seek discipline and find your liberty”
+“ I would rather entertain and hope that people learned something than educate people and hope they were entertained”
 
-[Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)
+[Walt Disney](http://en.wikipedia.org/wiki/Walt_Disney)
 
 [](https://www.adafruit.com/about)
 
