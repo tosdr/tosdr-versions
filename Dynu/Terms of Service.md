@@ -304,11 +304,26 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-#### Get started with our public cloud! Deliver computing services - servers, data, networking, software and more - over the internet (“the cloud”).
+#### Great Users
 
   
-[Learn More](https://www.dynu.com/Cloud-VPS-Phoenix)  
+
+![Partner](/content/images/content/strip/wyatt.house.png)
+
   
+
+  
+![Partner](/content/images/content/strip/clearviewnetworks.com.png)
+
+  
+
+  
+![Partner](/content/images/content/strip/Skyrim.co.png)
+
+  
+
+  
+![Partner](/content/images/content/strip/coreit.ro.png)
 
 ### News
 
