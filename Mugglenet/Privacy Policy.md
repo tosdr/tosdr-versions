@@ -278,15 +278,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
+The most Ordinary Wizarding Levels a witch or wizard can receive is 12.
 
 ### Potter History
 
-January 20, 2010 – It is confirmed that Alexandre Desplat will compose the music for Harry Potter and the Deathly Hallows – Part 1.
+January 17, 2005 – Rumors surfaced of a Harry Potter-themed restaurant, but they were quickly denied.
 
 ### Potter Quote
 
-“Sir, I wondered what you know about . . . about Horcruxes?”
+“Tina, you brought men home.”
 
 [](#)
 
