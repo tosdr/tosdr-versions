@@ -150,9 +150,12 @@ Latest reactions
 
 Latest forum posts
 
+* [Sony HB-F1XDJ not working](https://www.msx.org/forum/msx-talk/hardware/sony-hb-f1xdj-not-working "Sony HB-F1XDJ not working")
+* [MSX music arrangements on the net](https://www.msx.org/forum/msx-talk/graphics-and-music/msx-arrangements-on-the-net?page=11 "MSX music arrangements on the net")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx "DalSoRi R2 on OpenMSX")
-* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
+* [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
 * [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
+* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 * [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun "Run Bubble Rain with Sofarun")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [Sony HWD-80](https://www.msx.org/forum/msx-talk/hardware/sony-hwd-80 "Sony HWD-80")
@@ -160,14 +163,12 @@ Latest forum posts
 * [MSX on Miyoo Mini+ with ONION-OS](https://www.msx.org/forum/msx-talk/emulation/msx-on-myioo-mini-with-onion-os "MSX on Miyoo Mini+ with ONION-OS")
 * [FutureDisk 48 and 49](https://www.msx.org/forum/msx-talk/software/futuredisk-48-and-49 "FutureDisk 48 and 49")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
-* [Sony MSX HB-75B - Picture Won't Sync](https://www.msx.org/forum/msx-talk/hardware/sony-msx-hb-75b-picture-wont-sync "Sony MSX HB-75B - Picture Won't Sync")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=77 "WonderTANG! Who wants to juice up your MSX?")
-* [Is my new Carnivore2 faulty?](https://www.msx.org/forum/msx-talk/hardware/is-my-new-carnivore2-faulty "Is my new Carnivore2 faulty?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [63rd Barcelona MSX users meeting](https://www.msx.org/news/events/en/63rd-barcelona-msx-users-meeting "63rd Barcelona MSX users meeting")
 * [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
@@ -180,7 +181,6 @@ News headlines
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
-* [MSX2 GOTO40 ticket sales have started!](https://www.msx.org/news/en/msx2-goto40-ticket-sales-have-started "MSX2 GOTO40 ticket sales have started!")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
