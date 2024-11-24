@@ -6,7 +6,7 @@ Cancel
 
 * It seems that there's no more results to display.
 
-* About us Support [Myquadient](https://www.quadient.com/en/myquadient) [Contact us](https://www.quadient.com/en/contact-us)[eShop](https://shop.quadient.com/)
+* About us Support [Myquadient](https://www.quadient.com/en/myquadient) [Contact us](https://www.quadient.com/en/contact-us)[eShop](https://www.myquadient.com/US/en_US/Shop)
     
     ![English](/images/icon-us.png)
     
@@ -33,9 +33,9 @@ Join our growing team of innovators dedicated to keeping the connected world sec
 
 Support [Help & Support](https://www.quadient.com/en/support) [Contact us](https://www.quadient.com/en/contact-us)
 
-Self-Service [AP support helpcenter](https://help.beanworks.com/support/home) [AR support helpcenter](https://yaypay.helpjuice.com/) [Myquadient](https://www.quadient.com/en/myquadient) [Quadient university](https://university.quadient.com/)
+Self-Service [AP support helpcenter](https://help.beanworks.com/en/support/home) [AR support helpcenter](https://yaypay.helpjuice.com/) [Myquadient](https://www.quadient.com/en/myquadient) [Quadient university](https://university.quadient.com/web/site/login)
 
-Choose your language [Chinese](https://www.quadient.com/cn) [Dutch](https://www.quadient.com/nl) [French](https://www.quadient.com/fr) [German](https://www.quadient.com/de) [Italian](https://www.quadient.com/it) [Japanese](https://www.quadient.com/ja) [Portuguese](https://www.quadient.com/pt-br) [Spanish](https://www.quadient.com/es) [UK & Ireland](https://www.quadient.com/en-gb) [United States: English](https://www.quadient.com/en) [International: English](https://www.quadient.com/en-int)
+Choose your language [Dutch](https://www.quadient.com/nl) [French](https://www.quadient.com/fr) [German](https://www.quadient.com/de) [Italian](https://www.quadient.com/it) [Japanese](https://www.quadient.com/ja) [Portuguese](https://www.quadient.com/pt-br) [Spanish](https://www.quadient.com/es) [UK & Ireland](https://www.quadient.com/en-gb) [United States: English](https://www.quadient.com/en) [International: English](https://www.quadient.com/en-int)
 
 * Customer Communications
     
@@ -139,9 +139,9 @@ Intro to Interaction Experience Management (IXM)
 
 The next big customer experience technology trend](https://www.quadient.com/en/blog/interaction-experience-management)
 
-[![Three Aspire 2024 Leader Badges against blue background with multi-colored light beams](https://backend.quadient.com/files/default/2024-05/aspire-q1-2024-720x480-thumb.png "2024 Q3 Aspire CCM-CXM Leaderboard")
+[![Four Aspire 2024 Market Leader Badges against blue background with multi-colored light beams](https://backend.quadient.com/files/default/2024-11/aspire-q3-2024-720x480-thumb.jpg "2024 Q3 Aspire CCM-CXM Leaderboard")
 
-Quadient Advances Leader Position on Aspire CCM-CXM Leaderboard 2024 Q3
+Quadient Advances Leader Position on the Aspire CCM-CXM Leaderboard 2024 Q3
 
 Sponsors Complimentary Premium Leaderboard Access](https://www.quadient.com/en/resources/aspire-leaderboard-ccm-cxm)
 
@@ -159,24 +159,24 @@ Making the Case for CCM Consolidation
 
 More efficiency—less cost](https://www.quadient.com/en/blog/making-case-ccm-consolidation)
 
-About Quadient [News](https://www.quadient.com/en/news) Our story [Standard of excellence](https://www.quadient.com/en/about-us/standard-of-excellence) [A worldwide presence](https://www.quadient.com/en/about-us/worldwide-presence) [Corporate social responsibility](https://invest.quadient.com/en-US/about-us/corporate-social-responsibility)
+About Quadient [News](https://www.quadient.com/en/news) Our story [Standard of excellence](https://www.quadient.com/en/about-us/standard-of-excellence) [A worldwide presence](https://www.quadient.com/en/about-us/worldwide-presence) [Corporate social responsibility](https://invest.quadient.com/en/corporate-social-responsibility)
 
-Join, partner & invest [Contact us](https://www.quadient.com/en/contact-us) [Investor relations](https://invest.quadient.com/en-US) [Partner programs](https://www.quadient.com/en/quadient-experience-partner-network) [Careers](https://careers.quadient.com/global/en)
+Join, partner & invest [Contact us](https://www.quadient.com/en/contact-us) [Investor relations](https://invest.quadient.com/en/quadient-investor-relations) [Partner programs](https://www.quadient.com/en/quadient-experience-partner-network) [Careers](https://careers.quadient.com/)
 
 Other solutions [Quadient Smart Mail](https://www.mail-quadient.com/) [Parcel Pending by Quadient](https://www.parcelpending.com/)
 
-Support [Help & Support](https://www.quadient.com/en/support) [Contact us](https://www.quadient.com/en/contact-us) [Quadient university](https://university.quadient.com/) [AP support forum](https://help.beanworks.com/support/home)
+Support [Help & Support](https://www.quadient.com/en/support) [Contact us](https://www.quadient.com/en/contact-us) [Quadient university](https://university.quadient.com/web/site/login) [AP support forum](https://help.beanworks.com/support/home)
 
 [Contact](https://www.quadient.com/en/contact-us)
 
-Choose your language [Chinese](https://www.quadient.com/cn) [Dutch](https://www.quadient.com/nl) [French](https://www.quadient.com/fr) [German](https://www.quadient.com/de) [Italian](https://www.quadient.com/it) [Japanese](https://www.quadient.com/ja) [Portuguese](https://www.quadient.com/pt) [Spanish](https://www.quadient.com/es) [UK & Ireland](https://www.quadient.com/en-gb) [United States: English](https://www.quadient.com/en) [International English](https://www.quadient.com/en-int)
+Choose your language [Dutch](https://www.quadient.com/nl) [French](https://www.quadient.com/fr) [German](https://www.quadient.com/de) [Italian](https://www.quadient.com/it) [Japanese](https://www.quadient.com/ja) [Portuguese](https://www.quadient.com/pt) [Spanish](https://www.quadient.com/es) [UK & Ireland](https://www.quadient.com/en-gb) [United States: English](https://www.quadient.com/en) [International English](https://www.quadient.com/en-int)
 
 Quadient’s Website Privacy Statement
 ====================================
 
 Click [here](https://www.quadient.com/en/california-consumer-privacy-act) for Quadient's Privacy Notice for California Residents
 
-Access [Quadient's ACH Privacy Statement](https://mail.quadient.com/en/ach-privacy-notice)
+Access [Quadient's ACH Privacy Statement](https://www.quadient.com/en/preferences/ach-privacy-notice)
 
 Introduction and Scope
 ----------------------
@@ -243,11 +243,11 @@ Because connections matter.
 
 * Company
 * [About us](https://www.quadient.com/en/about-us)
-* [Commitments](https://invest.quadient.com/en-US/about-us/corporate-social-responsibility/)
-* [Investor Relations](https://invest.quadient.com/en-US)
+* [Commitments](https://invest.quadient.com/en/corporate-social-responsibility)
+* [Investor Relations](https://invest.quadient.com/en/quadient-investor-relations)
 * [Partner Programs](https://www.quadient.com/en/quadient-experience-partner-network)
 * [US Partner Portal](https://portal.neopostinc.com/myneopost.aspx)
-* [Careers](https://careers.quadient.com/global/en)
+* [Careers](https://careers.quadient.com/)
 
 * Solutions
 * [Industries](https://www.quadient.com/en/enterprise-industries)
@@ -255,7 +255,7 @@ Because connections matter.
 
 * Support
 * [Contact us](https://www.quadient.com/en/contact-us)
-* [Quadient university](https://university.quadient.com/)
+* [Quadient university](https://university.quadient.com/web/site/login)
 * [Knowledge base](https://kb.quadient.com/?sc_Lang=en-US)
 * [Compliance](https://www.quadient.com/en/security-privacy-compliance)
 
