@@ -305,7 +305,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Деньматери](https://er.ru/activity/news?tags%5B0%5D=1094956) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
 
-Сегодня 09:00
+24.11.24
 
 [![«Единая Россия» открыла для посетителей выставки «Сила V правде – гордость и победа» в Ульяновске экспозицию поисковых отрядов](https://cdn.er.ru/media/news/November2024/UhE9DaCw8Aly5tGveAZT-small.png)](https://er.ru/activity/news/edinaya-rossiya-otkryla-dlya-posetitelej-vystavki-sila-v-pravde-gordost-i-pobeda-v-ulyanovske-ekspoziciyu-poiskovyh-otryadov)
 
