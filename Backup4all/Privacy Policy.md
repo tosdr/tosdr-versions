@@ -303,13 +303,13 @@ We develop software that matters since 1999. These are our products: Backup4all/
 
 * [How to backup Outlook Express emails](https://www.backup4all.com/how-to-backup-outlook-express-emails-and-settings-kb.html)  
     
-* [How to back up and restore the Backup4all con ...](https://www.backup4all.com/how-to-back-up-and-restore-the-backup4all-configurations-kb.html)  
+* [How to backup your data to Seeweb](https://www.backup4all.com/how-to-backup-your-data-to-seeweb-kb.html)  
     
-* [Backup strategy: scheduled backup and cleanup ...](https://www.backup4all.com/backup-strategy-scheduled-daily-weekly-monthly-backups-combined-with-cleanup-operations-kb.html)  
+* [How to back up data files from HostEurope usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-hosteurope-using-backup4all-kb.html)  
     
-* [How to back up data files from Tiscali using ...](https://www.backup4all.com/how-to-back-up-data-files-from-tiscali-using-backup4all-kb.html)  
+* [How to use the backup list](https://www.backup4all.com/how-to-use-the-backup-list-kb.html)  
     
-* [Explanation of the backup job icons](https://www.backup4all.com/the-backup-job-icons-meaning-kb.html)  
+* [How to back up data files from ThinkOn using ...](https://www.backup4all.com/how-to-back-up-data-files-from-thinkon-using-backup4all-kb.html)  
     
 
 Choose language:
