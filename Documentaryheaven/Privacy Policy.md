@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![PQ17 An Arctic Convoy Disaster](/wp-content/thumbnails/8539-100x70.jpg?x53432)
+* [![The Atkins Diet](/wp-content/thumbnails/7943-100x70.jpg?x53432)
     
-    PQ17 An Arctic Convoy Disaster
+    The Atkins Diet
     
-    Man has fought wars in many terrible places over the centuries, but never has he fought in a place as terrible as this, this is the place where the men who ran the second world war arctic convoys went](https://documentaryheaven.com/pq17-an-arctic-convoy-disaster/ "PQ17 An Arctic Convoy Disaster")
-* [![Bill Hicks: Archived Scraps From Beyond](/wp-content/thumbnails/6147-100x70.jpg?x53432)
+    This is the truth about the world's most famous, most glamorous and most controversial diet. The Atkins diet says that eating fat can make you thin. It says you don't need to bother watching the calor](https://documentaryheaven.com/atkins-diet/ "The Atkins Diet")
+* [![Collaboration: On the Edge of a New Paradigm?](/wp-content/thumbnails/9587-100x70.jpg?x53432)
     
-    Bill Hicks: Archived Scraps From Beyond
+    Collaboration: On the Edge of a New Paradigm?
     
-    Back in January of 2009, I was busy digging up some old, \*old\* bits & pieces of material from the internet and stitching them together. Here is a bit of an eulogy for Bill, the mood suddenly struc](https://documentaryheaven.com/bill-hicks-archived-scraps-from-beyond/ "Bill Hicks: Archived Scraps From Beyond")
-* [![Brian Douglas Wells](/wp-content/thumbnails/6192-100x70.jpg?x53432)
+    Collaboration is a film that sets about explaining a new way of thought or shift in paradigm with regards to the way we as humans create and educate ourselves. Collaboration is deeply routed within so](https://documentaryheaven.com/collaboration-on-edge-new-paradigm/ "Collaboration: On the Edge of a New Paradigm?")
+* [![I, Psychopath](/wp-content/thumbnails/2428-100x70.jpg?x53432)
     
-    Brian Douglas Wells
+    I, Psychopath
     
-    Brian Douglas Wells (November 15, 1956 – August 28, 2003) was an American pizza delivery man who was killed by a time bomb fastened to his neck, purportedly under coercion from the maker of the bomb.](https://documentaryheaven.com/brian-douglas-wells/ "Brian Douglas Wells")
-* [![The Pyramid Code](/wp-content/thumbnails/6328-100x70.jpg?x53432)
+    Psychopaths… we usually only know them from Hollywood movies. We never expect them to enter our real life. But, the psychopath is closer than you think. Experts believe their number to be as high as o](https://documentaryheaven.com/i-psychopath/ "I, Psychopath")
+* [![Dark Days](/wp-content/thumbnails/1115-100x70.jpg?x53432)
     
-    The Pyramid Code
+    Dark Days
     
-    The Band of Peace The Pyramid Code is a documentary series of 5 parts that explores the pyramid fields and ancient temples in Egypt as well as ancient megalithic sites around the world looking for clu](https://documentaryheaven.com/the-pyramid-code/ "The Pyramid Code")
-* [![Louis Theroux: Law and Disorder in Philadelphia](/wp-content/thumbnails/395-100x70.png?x53432)
+    Dark Days is a documentary made by Marc Singer, a British filmmaker. The film follows a group of people living in an abandoned section of the New York City underground railway system, more precisely t](https://documentaryheaven.com/dark-days/ "Dark Days")
+* [![Body of War](/wp-content/thumbnails/3492-100x70.jpg?x53432)
     
-    Louis Theroux: Law and Disorder in Philadelphia
+    Body of War
     
-    Louis Theroux: Law and Disorder in Philadelphia Louis Theroux joins the Philadelphia Police Department patrolling the most dangerous part of one of the most violent cities in America. from the Telegra](https://documentaryheaven.com/louis-theroux-law-and-disorder-in-philadelphia/ "Louis Theroux: Law and Disorder in Philadelphia")
+    Body of War is an intimate and transformational feature documentary about the true face of war today. Meet Tomas Young, 25 years old, paralyzed from a bullet to his spine - wounded after serving in Ir](https://documentaryheaven.com/body-of-war/ "Body of War")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
