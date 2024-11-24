@@ -55,7 +55,7 @@ FREE SHIPPING ON YOUR FIRST ORDER!](https://www.artspace.com/account_creation)
         * [Art 101](https://www.artspace.com/magazine/art_101)
         * [Contributors](https://www.artspace.com/magazine/contributors)
         
-    * [The Holiday Store](https://www.artspace.com/collections/artful-holiday-event)
+    * [Holiday sale](https://www.artspace.com/collections/artful-holiday-event)
         
     
 * [ART](https://www.artspace.com/art)
@@ -90,7 +90,7 @@ FREE SHIPPING ON YOUR FIRST ORDER!](https://www.artspace.com/account_creation)
     * [Art 101](https://www.artspace.com/magazine/art_101)
     * [Contributors](https://www.artspace.com/magazine/contributors)
     
-* [The Holiday Store](https://www.artspace.com/collections/artful-holiday-event)
+* [Holiday sale](https://www.artspace.com/collections/artful-holiday-event)
     
 
 TERMS OF USE
