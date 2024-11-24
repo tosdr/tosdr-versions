@@ -122,16 +122,16 @@ Suche
 Kategorien
 ==========
 
-Kategorien Kategorie auswählen Andacht  (41) Archiv  (14) Basteln  (86) Fragen und Aufgaben  (5) Keine Kategorie  (13) Kochen  (16) Mitarbeiterinfo  (14) Outdoor  (9) Spiele  (233) Zeltlager  (33)
+Kategorien Kategorie auswählen Andacht  (41) Archiv  (14) Basteln  (87) Fragen und Aufgaben  (5) Keine Kategorie  (13) Kochen  (16) Mitarbeiterinfo  (14) Outdoor  (9) Spiele  (233) Zeltlager  (33)
 
 Neueste Beiträge
 ================
 
+* [Christbaumkugeln](https://jungscharwerkstatt.de/christbaumkugeln)
 * [Fake News: Tiergeschichten](https://jungscharwerkstatt.de/fake-news-tiergeschichten)
 * [Figuren gießen](https://jungscharwerkstatt.de/figuren-giessen)
 * [Black Stories 33 – Jubiläumsausgabe](https://jungscharwerkstatt.de/black-stories-33-jubilaeumsausgabe)
 * [Reise ins Verheißene – Ein komplettes Zeltlagerprogramm](https://jungscharwerkstatt.de/reise-ins-verheissene-ein-komplettes-zeltlagerprogramm)
-* [Nikolausaktion](https://jungscharwerkstatt.de/nikolausaktion)
 
 Top 10 Sterne (365 Tage)
 ========================
