@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. javascript
+1. excel
     
-2. finance
+2. computer science
     
-3. French
+3. cyber security
     
 
 Popular subjects
 
 1. [Artificial Intelligence
     
-    13,992 courses](https://www.classcentral.com/subject/ai)
-2. [Web Development
+    14,014 courses](https://www.classcentral.com/subject/ai)
+2. [Cybersecurity
     
-    13,771 courses](https://www.classcentral.com/subject/web-development)
+    16,866 courses](https://www.classcentral.com/subject/cybersecurity)
 3. [Computer Networking
     
-    1,754 courses](https://www.classcentral.com/subject/computer-networking)
+    1,755 courses](https://www.classcentral.com/subject/computer-networking)
 
 Popular courses
 
-1. [Introductory Human Physiology
+1. [How Things Work: An Introduction to Physics
     
-    Duke University](https://www.classcentral.com/course/humanphysio-380)
-2. [Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading
+    University of Virginia](https://www.classcentral.com/course/how-things-work-431)
+2. [End of Life Care: Challenges and Innovation
     
-    Georgia Institute of Technology](https://www.classcentral.com/course/mechanics-1-5031)
-3. [Philosophy, Science and Religion: Religion and Science
+    University of Glasgow](https://www.classcentral.com/course/end-of-life-care-16932)
+3. [Understanding Medical Research: Your Facebook Friend is Wrong
     
-    University of Edinburgh](https://www.classcentral.com/course/philosophy-science-religion-3-10623)
+    Yale University](https://www.classcentral.com/course/medical-research-19515)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
