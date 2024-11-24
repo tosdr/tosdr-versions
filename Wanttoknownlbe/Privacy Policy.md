@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/onderzoeker-van-big-pharma-geeft-grove-fraude-toe/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/stoelriemen-vast-de-time-wave-theorie-van-terence-mckenna/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
