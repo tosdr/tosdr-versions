@@ -1,4 +1,4 @@
-[![Logo](https://cdn-dneeo.nitrocdn.com/FNpfzQSpZJqHffsWdEdNgxclSkQFOiHV/assets/images/optimized/rev-0818581/paceline.fit/wp-content/uploads/2022/10/PL_LOGO_HIRES_WH.webp)](https://paceline.fit/)
+[![Logo](https://paceline.fit/wp-content/uploads/2022/10/PL_LOGO_HIRES_WH.webp)](https://paceline.fit/)
 
 * [The App](https://paceline.fit/the-paceline-app/)
 * [The Marketplace](https://marketplace.paceline.fit/)
@@ -18,7 +18,7 @@ Menu
 
 [Download The App](https://pacelinefit.app.link/WEB)
 
-[![Logo](https://cdn-dneeo.nitrocdn.com/FNpfzQSpZJqHffsWdEdNgxclSkQFOiHV/assets/images/optimized/rev-0818581/paceline.fit/wp-content/uploads/2022/10/PL_LOGO_HIRES_WH.webp)](https://paceline.fit/)
+[![Logo](https://paceline.fit/wp-content/uploads/2022/10/PL_LOGO_HIRES_WH.webp)](https://paceline.fit/)
 
 [Download The App](https://pacelinefit.app.link/WEB)
 
@@ -225,13 +225,13 @@ We may make changes to this Policy from time to time. When we do, we will post t
 
 ======
 
-[![Paceline Lock Up](https://cdn-dneeo.nitrocdn.com/FNpfzQSpZJqHffsWdEdNgxclSkQFOiHV/assets/images/optimized/rev-0818581/paceline.fit/wp-content/uploads/2022/10/Paceline-Tagline-Lock-up.png)](https://paceline.fit/)
+[![Paceline Lock Up](https://paceline.fit/wp-content/uploads/2022/10/Paceline-Tagline-Lock-up.png)](https://paceline.fit/)
 
-[![](https://cdn-dneeo.nitrocdn.com/FNpfzQSpZJqHffsWdEdNgxclSkQFOiHV/assets/images/optimized/rev-0818581/paceline.fit/wp-content/uploads/2022/10/instagram.png)](https://www.instagram.com/paceline.fit/)
+[![](https://paceline.fit/wp-content/uploads/2022/10/instagram.png)](https://www.instagram.com/paceline.fit/)
 
-[![](https://cdn-dneeo.nitrocdn.com/FNpfzQSpZJqHffsWdEdNgxclSkQFOiHV/assets/images/optimized/rev-0818581/paceline.fit/wp-content/uploads/2022/10/linkedin.png)](https://www.linkedin.com/company/paceline-fit/mycompany/)
+[![](https://paceline.fit/wp-content/uploads/2022/10/linkedin.png)](https://www.linkedin.com/company/paceline-fit/mycompany/)
 
-[![](https://cdn-dneeo.nitrocdn.com/FNpfzQSpZJqHffsWdEdNgxclSkQFOiHV/assets/images/optimized/rev-0818581/paceline.fit/wp-content/uploads/2022/10/tiktok.png)](https://www.tiktok.com/@paceline.fit)
+[![](https://paceline.fit/wp-content/uploads/2022/10/tiktok.png)](https://www.tiktok.com/@paceline.fit)
 
 * [Paceline](https://paceline.fit/)
 * [The Minutes](https://paceline.fit/blog/)
@@ -328,13 +328,13 @@ Privacy
 
 [How We Share Your Information](#share)
 
-[![Logo](https://cdn-dneeo.nitrocdn.com/FNpfzQSpZJqHffsWdEdNgxclSkQFOiHV/assets/images/optimized/rev-0818581/paceline.fit/wp-content/uploads/2021/08/black.svg)](https://paceline.fit/)
+[![Logo](https://paceline.fit/wp-content/uploads/2021/08/black.svg)](https://paceline.fit/)
 
 [Download the app](https://pacelinefit.app.link/WEBSITE)
 
 [](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
 
-![Extreme Workout](https://cdn-dneeo.nitrocdn.com/FNpfzQSpZJqHffsWdEdNgxclSkQFOiHV/assets/images/optimized/rev-0818581/paceline.fit/wp-content/uploads/2021/08/extreme-workout.jpg)
+![Extreme Workout](https://paceline.fit/wp-content/uploads/2021/08/extreme-workout.jpg)
 
 * [Rewards](https://paceline.fit/rewards/)
 * [Credit Card](https://paceline.fit/credit-card-old/)
