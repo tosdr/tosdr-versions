@@ -1,6 +1,8 @@
 [Skip to content](#content)
 
-[![Referrizer logo](https://business.referrizer.com/wp-content/uploads/2024/04/referrizer-logo.svg)](https://business.referrizer.com/)
+[![Referrizer logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20162%2032'%3E%3C/svg%3E)
+
+![Referrizer logo](https://business.referrizer.com/wp-content/uploads/2024/04/referrizer-logo.svg)](https://business.referrizer.com/)
 
 * [Solutions](#) Close Solutions Open Solutions
     
