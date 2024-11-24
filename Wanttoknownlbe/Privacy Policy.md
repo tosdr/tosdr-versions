@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/bp-bilderberg-goldman-sachs-rockefeller/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/kroniek-uit-de-toekomst-hoe-bijzonder/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
