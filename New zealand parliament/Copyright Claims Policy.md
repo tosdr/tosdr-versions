@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/ECommitteeSubmission/54SCJUST_SCF_227E6D0B-E632-42EB-CFFE-08DCFEB826C6/CreateSubmission/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/53SCJU_EVI_113397_JU10246/andrew-hoggard/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/ECommitteeSubmission/54SCJUST_SCF_227E6D0B-E632-42EB-CFFE-08DCFEB826C6/CreateSubmission/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/53SCJU_EVI_113397_JU10246/andrew-hoggard/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
