@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 24, 2024](https://www.japantimes.co.jp/archive/2024/11/24/ "archive page")
+[November 25, 2024](https://www.japantimes.co.jp/archive/2024/11/25/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -464,25 +464,31 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
+[Woman dies after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
 
-  [![U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435630.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.")](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
-
-[Tokyo police care for lost umbrellas, keys and flying squirrels](https://www.japantimes.co.jp/news/2024/11/23/japan/tokyo-police-lost-items-care/ "Tokyo police care for lost umbrellas, keys and flying squirrels")
-
-  [![An employee at the Tokyo Metropolitan Police Department Lost and Found Center in the Iidabashi area of central Tokyo bags, tags and organizes thousands of items.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435876.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An employee at the Tokyo Metropolitan Police Department Lost and Found Center in the Iidabashi area of central Tokyo bags, tags and organizes thousands of items.")](https://www.japantimes.co.jp/news/2024/11/23/japan/tokyo-police-lost-items-care/ "Tokyo police care for lost umbrellas, keys and flying squirrels")
+  [![A Moka Railway train car](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435894.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Moka Railway train car")](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
 
 [After Shohei Ohtani bump, Iwate ironware maker sees brighter future](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
 
   [![Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435319.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.")](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
 
-[Japan approves ¥21.9 trillion stimulus plan](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
+[Tokyo police care for lost umbrellas, keys and flying squirrels](https://www.japantimes.co.jp/news/2024/11/23/japan/tokyo-police-lost-items-care/ "Tokyo police care for lost umbrellas, keys and flying squirrels")
 
-  [![The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435769.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.")](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
+  [![An employee at the Tokyo Metropolitan Police Department Lost and Found Center in the Iidabashi area of central Tokyo bags, tags and organizes thousands of items.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435876.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An employee at the Tokyo Metropolitan Police Department Lost and Found Center in the Iidabashi area of central Tokyo bags, tags and organizes thousands of items.")](https://www.japantimes.co.jp/news/2024/11/23/japan/tokyo-police-lost-items-care/ "Tokyo police care for lost umbrellas, keys and flying squirrels")
 
-[Woman dies after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
+[Japan to aid introduction of multilingual ride-hailing apps](https://www.japantimes.co.jp/news/2024/11/23/japan/society/japan-multilingual-ride-hailing-app/ "Japan to aid introduction of multilingual ride-hailing apps")
 
-  [![A Moka Railway train car](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435894.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Moka Railway train car")](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
+  [![A Nihon Kotsu Co. taxi departs one of the company's service offices in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435893.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Nihon Kotsu Co. taxi departs one of the company's service offices in Tokyo.")](https://www.japantimes.co.jp/news/2024/11/23/japan/society/japan-multilingual-ride-hailing-app/ "Japan to aid introduction of multilingual ride-hailing apps")
+
+[Seven & I founding family sounded out KKR and others about buyout: report](https://www.japantimes.co.jp/business/2024/11/23/seven-i-buyout-talks/ "Seven & I founding family sounded out KKR and others about buyout: report")
+
+  [![A 7-Eleven convenience store in Tokyo](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435896.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A 7-Eleven convenience store in Tokyo")](https://www.japantimes.co.jp/business/2024/11/23/seven-i-buyout-talks/ "Seven & I founding family sounded out KKR and others about buyout: report")
+
+[Tokyo’s newest three-star chef wants ‘harmony across every detail’](https://www.japantimes.co.jp/life/2024/11/24/food-drink/daniel-calvert-sezanne-michelin/ "Tokyo’s newest three-star chef wants ‘harmony across every detail’")
+
+  [![British-born Daniel Calvert earned his third Michelin star last month — a stunning achievement considering his restaurant, Sezanne, has only been open for just over three years.
+](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435258.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "British-born Daniel Calvert earned his third Michelin star last month — a stunning achievement considering his restaurant, Sezanne, has only been open for just over three years.
+")](https://www.japantimes.co.jp/life/2024/11/24/food-drink/daniel-calvert-sezanne-michelin/ "Tokyo’s newest three-star chef wants ‘harmony across every detail’")
 
 [133-year-old Kyushu railway station remains to be partially preserved](https://www.japantimes.co.jp/news/2024/11/22/japan/society/kitakyushu-remains-preservation/ "133-year-old Kyushu railway station remains to be partially preserved")
 
@@ -499,10 +505,6 @@ Revised June 1, 2022
 [The slow-burn success of ‘A Samurai in Time’](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
 
   [![A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”")](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
-
-[Around a quarter of Japan married couples in their 20s met through dating apps](https://www.japantimes.co.jp/news/2024/11/21/japan/society/young-couples-dating-app/ "Around a quarter of Japan married couples in their 20s met through dating apps")
-
-  [![A survey released by an organization promoting “Good Couples Day” shows that 24% of couples in their 20s met their marriage partner through a dating app.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435515.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A survey released by an organization promoting “Good Couples Day” shows that 24% of couples in their 20s met their marriage partner through a dating app.")](https://www.japantimes.co.jp/news/2024/11/21/japan/society/young-couples-dating-app/ "Around a quarter of Japan married couples in their 20s met through dating apps")
 
 Podcast
 -------
@@ -523,9 +525,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +567,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Ex-deputy mayor expected to win Nagoya mayoral election](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/nagoya-mayoral-election/ "Ex-deputy mayor expected to win Nagoya mayoral election")
+
+3 hours ago
+
+[Japan and U.S. to form missile plan in case of Taiwan emergency](https://www.japantimes.co.jp/news/2024/11/24/japan/japan-us-taiwan-missile-plan/ "Japan and U.S. to form missile plan in case of Taiwan emergency")
+
+4 hours ago
+
+[Japan's foreign minister may visit China within this year](https://www.japantimes.co.jp/news/2024/11/24/japan/iwaya-eyes-china-visit/ "Japan's foreign minister may visit China within this year")
+
+5 hours ago
+
 [An iconic 32-foot donut might give Randy’s an edge in Japan](https://www.japantimes.co.jp/business/2024/11/24/companies/randys-donut-japan/ "An iconic 32-foot donut might give Randy’s an edge in Japan")
 
-26 mins ago
+6 hours ago
 
 [First ceremony held to remember Sado gold mine workers](https://www.japantimes.co.jp/news/2024/11/24/japan/first-ceremony-sado-gold-mine-workers/ "First ceremony held to remember Sado gold mine workers")
 
-2 hours ago
-
-[Legal threats close in on Israel's Netanyahu and could impact ongoing wars](https://www.japantimes.co.jp/news/2024/11/24/world/politics/legal-threats-israel-netanyahu-wars/ "Legal threats close in on Israel's Netanyahu and could impact ongoing wars")
-
-2 hours ago
-
-[Israeli settlers set sights on Trump support for full control of West Bank](https://www.japantimes.co.jp/news/2024/11/24/world/politics/israeli-settlers-trump-west-bank/ "Israeli settlers set sights on Trump support for full control of West Bank")
-
-2 hours ago
-
-[Iran braces for Trump reset with economy buckling from sanctions](https://www.japantimes.co.jp/news/2024/11/24/world/politics/iran-trump-economy-sanctions/ "Iran braces for Trump reset with economy buckling from sanctions")
-
-2 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
