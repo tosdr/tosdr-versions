@@ -20,16 +20,16 @@ Sunday, November 24 2024
 
 Latest
 
+* [5 Christmas action movies like ‘Red One’ but better](https://digitpatrox.com/5-christmas-action-movies-like-red-one-but-better/)
+* [Microsoft testing Windows 11 support for third-party passkeys](https://digitpatrox.com/microsoft-testing-windows-11-support-for-third-party-passkeys/)
+* [You can save $10 on Google’s 4K-ready Chromecast before it’s gone for good](https://digitpatrox.com/you-can-save-10-on-googles-4k-ready-chromecast-before-its-gone-for-good/)
+* [Today’s Wordle Answer and Hints for November 24, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-24-2024/)
+* [An Android-ChromeOS merger might actually make sense now – Computerworld](https://digitpatrox.com/an-android-chromeos-merger-might-actually-make-sense-now-computerworld/)
+* [The Best Deals From Walmart’s Black Friday Sale](https://digitpatrox.com/the-best-deals-from-walmarts-black-friday-sale/)
+* [Best Space Heaters for a Home Office](https://digitpatrox.com/best-space-heaters-for-a-home-office/)
+* [How to Spot Fake Reviews on Black Friday Deals](https://digitpatrox.com/how-to-spot-fake-reviews-on-black-friday-deals/)
+* [NYT Strands today — hints, spangram and answers for game #266 (Sunday, November 24 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-266-sunday-november-24-2024/)
 * [Windows 11 24H2 update blocked on PCs with Assassin’s Creed, Star Wars Outlaws](https://digitpatrox.com/windows-11-24h2-update-blocked-on-pcs-with-assassins-creed-star-wars-outlaws/)
-* [Microsoft pauses Windows 11 updates for PCs with some Ubisoft games installed](https://digitpatrox.com/microsoft-pauses-windows-11-updates-for-pcs-with-some-ubisoft-games-installed/)
-* [NYT Strands Today: Hints, Answers, and Spangram for November 24](https://digitpatrox.com/nyt-strands-today-hints-answers-and-spangram-for-november-24/)
-* [ChatGPT’s Windows app beats Microsoft Copilot for productivity – Computerworld](https://digitpatrox.com/chatgpts-windows-app-beats-microsoft-copilot-for-productivity-computerworld/)
-* [Threads Is Trying to Make Itself More Like Bluesky](https://digitpatrox.com/threads-is-trying-to-make-itself-more-like-bluesky/)
-* [Windows 11 Recall makes a comeback for arm64 PCs — What you need to know (preview)](https://digitpatrox.com/windows-11-recall-makes-a-comeback-for-arm64-pcs-what-you-need-to-know-preview/)
-* [How to Unlock Your Car Shifter’s Secret Powers](https://digitpatrox.com/how-to-unlock-your-car-shifters-secret-powers/)
-* [7 Things to Include in a Professional PowerPoint Presentation](https://digitpatrox.com/7-things-to-include-in-a-professional-powerpoint-presentation/)
-* [How to watch ‘Yellowstone’ season 5 episode 11 online — stream ‘Three Fifty-Three’ from anywhere](https://digitpatrox.com/how-to-watch-yellowstone-season-5-episode-11-online-stream-three-fifty-three-from-anywhere/)
-* [US seizes PopeyeTools cybercrime marketplace, charges administrators](https://digitpatrox.com/us-seizes-popeyetools-cybercrime-marketplace-charges-administrators/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/09/30/Windows-11-red.jpg)](https://digitpatrox.com/windows-11-24h2-update-blocked-on-pcs-with-assassins-creed-star-wars-outlaws/)
+* [![](https://cdn.mos.cms.futurecdn.net/6dvTg52MRFj5kjjFPUtTQ5-1200-80.jpg)](https://digitpatrox.com/5-christmas-action-movies-like-red-one-but-better/)
     
-    [Windows 11 24H2 update blocked on PCs with Assassin’s Creed, Star Wars Outlaws](https://digitpatrox.com/windows-11-24h2-update-blocked-on-pcs-with-assassins-creed-star-wars-outlaws/)
+    [5 Christmas action movies like ‘Red One’ but better](https://digitpatrox.com/5-christmas-action-movies-like-red-one-but-better/)
     
-    39 minutes ago
+    6 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/kTqHNybimk7DzqzMEMF0Jr1TNdM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24007866/acastro_STK109_microsoft_02.jpg)](https://digitpatrox.com/microsoft-pauses-windows-11-updates-for-pcs-with-some-ubisoft-games-installed/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/07/02/identity-cybersecurity-framework.jpg)](https://digitpatrox.com/microsoft-testing-windows-11-support-for-third-party-passkeys/)
     
-    [Microsoft pauses Windows 11 updates for PCs with some Ubisoft games installed](https://digitpatrox.com/microsoft-pauses-windows-11-updates-for-pcs-with-some-ubisoft-games-installed/)
-    
-    56 minutes ago
-    
-* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg)](https://digitpatrox.com/nyt-strands-today-hints-answers-and-spangram-for-november-24/)
-    
-    [NYT Strands Today: Hints, Answers, and Spangram for November 24](https://digitpatrox.com/nyt-strands-today-hints-answers-and-spangram-for-november-24/)
+    [Microsoft testing Windows 11 support for third-party passkeys](https://digitpatrox.com/microsoft-testing-windows-11-support-for-third-party-passkeys/)
     
     1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3608226-0-32841600-1732100590-Surface-Laptop-running-ChatGPT-and-Copilot.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/chatgpts-windows-app-beats-microsoft-copilot-for-productivity-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/qaLBORnfzzlbdBq9LsIzctfe4kc=/0x0:4320x2700/1200x628/filters:focal(2160x1350:2161x1351)/cdn.vox-cdn.com/uploads/chorus_asset/file/23024358/GoogleChromecastwithGoogleTV.jpg)](https://digitpatrox.com/you-can-save-10-on-googles-4k-ready-chromecast-before-its-gone-for-good/)
     
-    [ChatGPT’s Windows app beats Microsoft Copilot for productivity – Computerworld](https://digitpatrox.com/chatgpts-windows-app-beats-microsoft-copilot-for-productivity-computerworld/)
+    [You can save $10 on Google’s 4K-ready Chromecast before it’s gone for good](https://digitpatrox.com/you-can-save-10-on-googles-4k-ready-chromecast-before-its-gone-for-good/)
     
-    3 hours ago
+    2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDAA4ESVKSDGFCXV5C78MH2A/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/threads-is-trying-to-make-itself-more-like-bluesky/)
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-24-2024/)
     
-    [Threads Is Trying to Make Itself More Like Bluesky](https://digitpatrox.com/threads-is-trying-to-make-itself-more-like-bluesky/)
+    [Today’s Wordle Answer and Hints for November 24, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-24-2024/)
+    
+    2 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3608854-0-39182800-1732108153-android-chrome-os-100853141-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/an-android-chromeos-merger-might-actually-make-sense-now-computerworld/)
+    
+    [An Android-ChromeOS merger might actually make sense now – Computerworld](https://digitpatrox.com/an-android-chromeos-merger-might-actually-make-sense-now-computerworld/)
     
     4 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [39 minutes ago
+* [6 minutes ago
     
-    ### Windows 11 24H2 update blocked on PCs with Assassin’s Creed, Star Wars Outlaws](https://digitpatrox.com/windows-11-24h2-update-blocked-on-pcs-with-assassins-creed-star-wars-outlaws/)
-* [56 minutes ago
-    
-    ### Microsoft pauses Windows 11 updates for PCs with some Ubisoft games installed](https://digitpatrox.com/microsoft-pauses-windows-11-updates-for-pcs-with-some-ubisoft-games-installed/)
+    ### 5 Christmas action movies like ‘Red One’ but better](https://digitpatrox.com/5-christmas-action-movies-like-red-one-but-better/)
 * [1 hour ago
     
-    ### NYT Strands Today: Hints, Answers, and Spangram for November 24](https://digitpatrox.com/nyt-strands-today-hints-answers-and-spangram-for-november-24/)
+    ### Microsoft testing Windows 11 support for third-party passkeys](https://digitpatrox.com/microsoft-testing-windows-11-support-for-third-party-passkeys/)
+* [2 hours ago
+    
+    ### You can save $10 on Google’s 4K-ready Chromecast before it’s gone for good](https://digitpatrox.com/you-can-save-10-on-googles-4k-ready-chromecast-before-its-gone-for-good/)
 
 Most Popular Topics
 
-* [August 16, 2024
+* [October 11, 2024
     
-    ### 12 Single-Purpose Mac Apps I Couldn’t Live Without](https://digitpatrox.com/12-single-purpose-mac-apps-i-couldnt-live-without/)
-* [September 21, 2024
+    ### Over 31 Million User Accounts Exposed](https://digitpatrox.com/over-31-million-user-accounts-exposed/)
+* [October 22, 2024
     
-    ### Closing the SMB security gap](https://digitpatrox.com/closing-the-smb-security-gap/)
-* [August 21, 2024
+    ### AT&T finally has a network test drive program](https://digitpatrox.com/att-finally-has-a-network-test-drive-program/)
+* [October 14, 2024
     
-    ### NYT Connections today hints and answers — Wednesday, August 21 (#437)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-august-21-437/)
+    ### The Internet Archive is back as a read-only service after cyberattacks](https://digitpatrox.com/the-internet-archive-is-back-as-a-read-only-service-after-cyberattacks/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### How to Unlock Your Car Shifter’s Secret Powers](https://digitpatrox.com/how-to-unlock-your-car-shifters-secret-powers/)
+    ### Best Space Heaters for a Home Office](https://digitpatrox.com/best-space-heaters-for-a-home-office/)
 * [4 hours ago
     
-    ### 7 Things to Include in a Professional PowerPoint Presentation](https://digitpatrox.com/7-things-to-include-in-a-professional-powerpoint-presentation/)
+    ### How to Spot Fake Reviews on Black Friday Deals](https://digitpatrox.com/how-to-spot-fake-reviews-on-black-friday-deals/)
 * [5 hours ago
     
-    ### How to watch ‘Yellowstone’ season 5 episode 11 online — stream ‘Three Fifty-Three’ from anywhere](https://digitpatrox.com/how-to-watch-yellowstone-season-5-episode-11-online-stream-three-fifty-three-from-anywhere/)
+    ### NYT Strands today — hints, spangram and answers for game #266 (Sunday, November 24 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-266-sunday-november-24-2024/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
