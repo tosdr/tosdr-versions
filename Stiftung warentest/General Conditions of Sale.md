@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
 * [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
+* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
 * [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
+* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
 * [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
+* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
-* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
-* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
 * [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
+* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
+* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
+* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
 
 Service Stiftung Warentest
 
