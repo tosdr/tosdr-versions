@@ -315,31 +315,29 @@
 
 This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by [Factset](https://go.factset.com/legal). Powered and implemented by [FactSet Digital Solutions](https://www.factset.com/solutions/digital-solutions). [Legal Statement](https://www.factset.com/privacy). Mutual Fund and ETF data provided by [Refinitiv Lipper](https://lipperalpha.refinitiv.com/).
 
-     [![Trudeau torched after concert video emerges as riot rocks country: ‘Fiddling while Rome burned’ - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/8aeea328aa8da71360e2ed4b7b886e61.jpg?tl=1&ve=1)
+                                                           [![President-elect Trump’s top 15 Cabinet nominees set after pick for agriculture secretary named - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/d541f408e48a4362164e014298e9f5f3.jpg?tl=1&ve=1)     ![1 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/e06f758ab61aa6b69eadd85ab640680d.jpg?tl=1&ve=1)      ![2 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/64de2a35708b7664e8bfc4cde7a00344.jpg?tl=1&ve=1)      ![3 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/76fdeb91fdd31f808d08dcada6278cf2.jpg?tl=1&ve=1)      ![4 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/e7014b367c399e7864eb5c7033836d71.jpg?tl=1&ve=1)      ![5 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/b13d19a4d430985faf9befe11de2684a.jpg?tl=1&ve=1)      ![6 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/53977148dfe6c70169d5c2677f84bf8c.jpg?tl=1&ve=1)      ![7 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/4e3e61b26f6b160a11998406ba3ffd44.jpg?tl=1&ve=1)      ![8 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/4ac1da178c58705734ac32477ed30ee5.jpg?tl=1&ve=1)      ![9 - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/720/405/e7b543f5f80dc922a03a73796f6020cc.jpg?tl=1&ve=1)
 
-‘SWIFT’ BACKLASH](https://www.foxnews.com/world/justin-trudeau-dances-taylor-swift-concert-destructive-riot-montreal-sparking-outrage)
+MEET THE TEAM](https://www.foxnews.com/politics/trump-admin-takes-shape-president-elect-completes-top-15-cabinet-picks)
 
-### [Trudeau torched after concert video emerges as riot rocks country: ‘Fiddling while Rome burned’](https://www.foxnews.com/world/justin-trudeau-dances-taylor-swift-concert-destructive-riot-montreal-sparking-outrage)
+### [President-elect Trump’s top 15 Cabinet nominees set after pick for agriculture secretary named](https://www.foxnews.com/politics/trump-admin-takes-shape-president-elect-completes-top-15-cabinet-picks)
 
-     [![Social media CEO reportedly reaching out to Elon Musk as platform faces potential ban - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/f496c16be6c7d3b331109da19a2bb779.jpg?tl=1&ve=1)
+     [![TikTok CEO reportedly reaching out to Elon Musk for Trump advice as platform faces ban - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/f496c16be6c7d3b331109da19a2bb779.jpg?tl=1&ve=1)
 
 IN HIS EAR](https://www.foxbusiness.com/technology/tiktok-ceo-reaching-out-elon-musk-information-trump-presidency-wsj)
 
-### [Social media CEO reportedly reaching out to Elon Musk as platform faces potential ban](https://www.foxbusiness.com/technology/tiktok-ceo-reaching-out-elon-musk-information-trump-presidency-wsj)
+### [TikTok CEO reportedly reaching out to Elon Musk for Trump advice as platform faces ban](https://www.foxbusiness.com/technology/tiktok-ceo-reaching-out-elon-musk-information-trump-presidency-wsj)
 
-     [![President-elect Trump announces selection for agriculture secretary - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/gettyimages-1242253406.jpg?tl=1&ve=1)
+     [![Trudeau torched after video shows him dancing at pop concert while riot rocks country - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/8aeea328aa8da71360e2ed4b7b886e61.jpg?tl=1&ve=1)
 
-‘MY GREAT HONOR’](https://www.foxnews.com/politics/trump-taps-brooke-rollins-agriculture-secretary)
+‘SWIFT’ BACKLASH](https://www.foxnews.com/world/justin-trudeau-dances-taylor-swift-concert-destructive-riot-montreal-sparking-outrage)
 
-### [President-elect Trump announces selection for agriculture secretary](https://www.foxnews.com/politics/trump-taps-brooke-rollins-agriculture-secretary)
+### [Trudeau torched after video shows him dancing at pop concert while riot rocks country](https://www.foxnews.com/world/justin-trudeau-dances-taylor-swift-concert-destructive-riot-montreal-sparking-outrage)
 
-* [Cabinet takes shape with new picks for key administration jobs](https://www.foxnews.com/politics/from-cdc-labor-secretary-see-trumps-top-picks-cabinet-roles)
-
-     [![Poll reveals levels of gun ownership are changing across the United States - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/9e52fd6f3c5c65ceb7b1be1db051cfbb.png?tl=1&ve=1)
+     [![Gun ownership is changing among both Republicans and Democrats in different ways - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/9e52fd6f3c5c65ceb7b1be1db051cfbb.png?tl=1&ve=1)
 
 PACKIN’ HEAT](https://www.foxnews.com/us/more-republican-women-obtaining-firearms-gun-ownership-declines-male-democrats-poll)
 
-### [Poll reveals levels of gun ownership are changing across the United States](https://www.foxnews.com/us/more-republican-women-obtaining-firearms-gun-ownership-declines-male-democrats-poll)
+### [Gun ownership is changing among both Republicans and Democrats in different ways](https://www.foxnews.com/us/more-republican-women-obtaining-firearms-gun-ownership-declines-male-democrats-poll)
 
      [![Liberal scientist, Maher clash over issue of biological men competing in women's sports - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/19e3bbdf31badb91cbdd142e783690c3.jpg?tl=1&ve=1)
 
@@ -347,11 +345,11 @@ PACKIN’ HEAT](https://www.foxnews.com/us/more-republican-women-obtaining-firea
 
 ### [Liberal scientist, Maher clash over issue of biological men competing in women's sports](https://www.foxnews.com/media/bill-maher-clashes-neil-degrasse-tyson-refusing-admit-mens-sports-advantage-over-women)
 
-     [![Newsom’s family pays more than $9,000,000 for ‘architecturally stunning’ home - Fox News](//a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/343/193/newsom-couple-scaled.gif?tl=1&ve=1)
+     [![Blue state already cracking down on illegal migrant shelters before next president sworn in - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/a1f7b725bff167d778c45d11c1189c49.png?tl=1&ve=1)
 
-GOVERNOR’S MANSION](https://www.foxbusiness.com/real-estate/family-california-gov-newsom-acquires-marin-county-home-9-1m)
+THE TRUMP EFFECT](https://www.foxnews.com/us/blue-state-shutter-dozen-migrant-shelters-trumps-set-implement-deportation-agenda)
 
-### [Newsom’s family pays more than $9,000,000 for ‘architecturally stunning’ home](https://www.foxbusiness.com/real-estate/family-california-gov-newsom-acquires-marin-county-home-9-1m)
+### [Blue state already cracking down on illegal migrant shelters before next president sworn in](https://www.foxnews.com/us/blue-state-shutter-dozen-migrant-shelters-trumps-set-implement-deportation-agenda)
 
      [![Golf star heaps praise on ‘brilliant’ Trump — and wishes he was leader of her country - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/865626e60ac2cc3532c3e406bd7da47a.jpg?tl=1&ve=1)
 
@@ -359,17 +357,17 @@ BIG FAN](https://www.foxnews.com/sports/womens-golf-star-charley-hull-fawns-over
 
 ### [Golf star heaps praise on ‘brilliant’ Trump — and wishes he was leader of her country](https://www.foxnews.com/sports/womens-golf-star-charley-hull-fawns-over-brilliant-legend-trump-after-doing-his-dance-tournament)
 
-     [![Trump reportedly considering former White House official for brand-new administration role - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/343/193/richard-grenell.jpg?tl=1&ve=1)
+     [![Newsom’s family pays more than $9,000,000 for ‘architecturally stunning’ home - Fox News](//a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/11/343/193/newsom-couple-scaled.gif?tl=1&ve=1)
 
-POINT MAN](https://www.foxnews.com/politics/ric-grenell-under-consideration-trumps-point-man-ukraine-report)
+GOVERNOR’S MANSION](https://www.foxbusiness.com/real-estate/family-california-gov-newsom-acquires-marin-county-home-9-1m)
 
-### [Trump reportedly considering former White House official for brand-new administration role](https://www.foxnews.com/politics/ric-grenell-under-consideration-trumps-point-man-ukraine-report)
+### [Newsom’s family pays more than $9,000,000 for ‘architecturally stunning’ home](https://www.foxbusiness.com/real-estate/family-california-gov-newsom-acquires-marin-county-home-9-1m)
 
-     [![High school coach says he was fired over trans athlete stance — now a judge is weighing in - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/fce65c6723d1a665152bee8b53e92ce1.png?tl=1&ve=1)
+     [![Before he was Trump Cabinet nominee, Scott Turner played eight years in NFL - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/11/343/193/a6b78034737aa1ebd8af66bf104e3fcd.png?tl=1&ve=1)
 
-‘PROTECTED SPEECH’](https://www.foxnews.com/sports/judge-says-ex-coach-within-protected-speech-opposing-trans-athletes-inclusion-girls-competition)sports
+POLITICAL PLAYBOOK](https://www.foxnews.com/sports/trump-cabinet-pick-scott-turner-scored-only-nfl-touchdown-lone-bright-moment-historically-awful-season)sports
 
-### [High school coach says he was fired over trans athlete stance — now a judge is weighing in](https://www.foxnews.com/sports/judge-says-ex-coach-within-protected-speech-opposing-trans-athletes-inclusion-girls-competition)
+### [Before he was Trump Cabinet nominee, Scott Turner played eight years in NFL](https://www.foxnews.com/sports/trump-cabinet-pick-scott-turner-scored-only-nfl-touchdown-lone-bright-moment-historically-awful-season)
 
 [Video
 
@@ -412,7 +410,13 @@ Commerce
 
 [](https://www.foxnews.com/video/5614615980001)
 
-### [WATCH LIVE: Commentary on the week’s biggest stories on ‘Life, Liberty & Levin’](https://www.foxnews.com/video/5614615980001)
+### [WATCH LIVE: In-depth analysis on ‘One Nation with Brian Kilmeade’](https://www.foxnews.com/video/5614615980001)
+
+     [![Missing rabbi feared kidnapped and killed in ‘terrorist incident’: ‘Please pray’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/rabbi-feared-kidnapped-killed-terrorists-missing-prompting-investigation)
+
+[TERRORISM](https://www.foxnews.com/category/world/terrorism)
+
+### [Missing rabbi feared kidnapped and killed in ‘terrorist incident’: ‘Please pray’](https://www.foxnews.com/world/rabbi-feared-kidnapped-killed-terrorists-missing-prompting-investigation)
 
       [![Colorado's frustrations boil over as star QB pushes ref in season-altering loss - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/colorados-shedeur-sanders-pushes-official-loss-could-keep-buffaloes-out-college-football-playoff)sports
 
@@ -420,21 +424,15 @@ Commerce
 
 ### [Colorado's frustrations boil over as star QB pushes ref in season-altering loss](https://www.foxnews.com/sports/colorados-shedeur-sanders-pushes-official-loss-could-keep-buffaloes-out-college-football-playoff)
 
-     [![Greek life members facing charges after student's death at party - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/dartmouth-sorority-fraternity-members-face-charges-following-death-student-20-party)
-
-[US](https://www.foxnews.com/category/us)
-
-### [Greek life members facing charges after student's death at party](https://www.foxnews.com/us/dartmouth-sorority-fraternity-members-face-charges-following-death-student-20-party)
-
      [![Here's how your neighborhood voted in the 2024 election - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/elections)
 
 ### [DEMOCRACY '24: Here's how your neighborhood voted in the 2024 election](https://www.foxnews.com/elections)
 
-      [![Defense ‘made a mistake’ not letting Daniel Penny testify, attorney says - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365096241112) watch
+      [![Democratic governors, mayors say they won't cooperate with deportation efforts - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365107762112) WATCH
 
-[fox news live](https://www.foxnews.com/video)
+[big weekend show](https://www.foxnews.com/video)
 
-### [Defense ‘made a mistake’ not letting Daniel Penny testify, attorney says](https://www.foxnews.com/video/6365096241112)
+### [Democratic governors, mayors say they won't cooperate with deportation efforts](https://www.foxnews.com/video/6365107762112)
 
       [![Medical student goes on vegan diet as health experiment — and the results were surprising - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365009512112) WATCH
 
@@ -442,33 +440,11 @@ Commerce
 
 ### [Medical student goes on vegan diet as health experiment — and the results were surprising](https://www.foxnews.com/video/6365009512112)
 
-     [![Missing rabbi feared kidnapped, killed in 'a terrorist incident' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/rabbi-feared-kidnapped-killed-terrorists-missing-prompting-investigation)
-
-[TERRORISM](https://www.foxnews.com/category/world/terrorism)
-
-### [Missing rabbi feared kidnapped, killed in 'a terrorist incident'](https://www.foxnews.com/world/rabbi-feared-kidnapped-killed-terrorists-missing-prompting-investigation)
-
-      [![High school runner makes desperate plea: ‘It’s not okay, I’m a 16-year-old girl!’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/girls-distance-runner-pleads-removal-trans-athlete-amid-safety-fears-lgbt-shoved-down-our-throats)sports
+     [![Man accused of stabbing multiple people was released from police custody last week - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/california-man-allegedly-stabbed-multiple-people-arrested-released-week-prior)
 
 [CALIFORNIA](https://www.foxnews.com/category/us/us-regions/west/california)
 
-### [High school runner makes desperate plea: ‘It’s not okay, I’m a 16-year-old girl!’](https://www.foxnews.com/sports/girls-distance-runner-pleads-removal-trans-athlete-amid-safety-fears-lgbt-shoved-down-our-throats)
-
-[](https://www.foxnews.com/games)
-
-### [PLAY NOW! Crosswords ♠ Word Search ♦ Crazy Crystals ♣ Stack & Match ♥ 5 Across!](https://www.foxnews.com/games)
-
-      [![Chaos ensues as Arizona State fans storm field with time left on the clock - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/arizona-state-fans-storm-field-time-clock-causing-lengthy-delay-squeak-last-second-win)sports
-
-[ARIZONA STATE SUN DEVILS](https://www.foxnews.com/category/sports/ncaa/arizona-state-sun-devils)
-
-### [Chaos ensues as Arizona State fans storm field with time left on the clock](https://www.foxnews.com/sports/arizona-state-fans-storm-field-time-clock-causing-lengthy-delay-squeak-last-second-win)
-
-     [![Matthew McConaughey shares advice mom gave him after his 1999 arrest - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/matthew-mcconaughey-shares-advice-mom-gave-him-arrested-playing-bongos-naked-1999)
-
-[MATTHEW MCCONAUGHEY](https://www.foxnews.com/category/person/matthew-mcconaughey)
-
-### [Matthew McConaughey shares advice mom gave him after his 1999 arrest](https://www.foxnews.com/entertainment/matthew-mcconaughey-shares-advice-mom-gave-him-arrested-playing-bongos-naked-1999)
+### [Man accused of stabbing multiple people was released from police custody last week](https://www.foxnews.com/us/california-man-allegedly-stabbed-multiple-people-arrested-released-week-prior)
 
      [!['Wicked' fans warned not to sing in theaters in what some call a money-grab - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/entertainment/wicked-fans-warned-not-sing-theaters-must-wait-sing-along-screenings-money-grabbing-move)
 
@@ -476,23 +452,45 @@ Commerce
 
 ### ['Wicked' fans warned not to sing in theaters in what some call a money-grab](https://www.foxbusiness.com/entertainment/wicked-fans-warned-not-sing-theaters-must-wait-sing-along-screenings-money-grabbing-move)
 
-     [![State’s attorney general takes aim at California’s electric vehicle mandate - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/fox-news-auto/nebraska-ag-launches-assault-against-californias-electric-vehicle-push)
+[](https://www.foxnews.com/games)
 
-[Cars + Trucks](https://www.foxbusiness.com/category/fox-news-auto)
+### [PLAY NOW! Crosswords ♠ Word Search ♦ Crazy Crystals ♣ Stack & Match ♥ 5 Across!](https://www.foxnews.com/games)
 
-### [State’s attorney general takes aim at California’s electric vehicle mandate](https://www.foxbusiness.com/fox-news-auto/nebraska-ag-launches-assault-against-californias-electric-vehicle-push)
+      [![Cher 'shocked' when she discovered legal name decades after birth record error - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/cher-shocked-discover-legal-name-decades-birth-certificate-error)entertainment
 
-     [![Soros-backed prosecutor under fire over sentencing decision for Laken Riley’s killer - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/soros-backed-prosecutor-under-fire-over-laken-riley-killer-death-penalty-decision)
+[CHER](https://www.foxnews.com/category/person/cher)
 
-[CRIME](https://www.foxnews.com/category/us/crime)
+### [Cher 'shocked' when she discovered legal name decades after birth record error](https://www.foxnews.com/entertainment/cher-shocked-discover-legal-name-decades-birth-certificate-error)
 
-### [Soros-backed prosecutor under fire over sentencing decision for Laken Riley’s killer](https://www.foxnews.com/us/soros-backed-prosecutor-under-fire-over-laken-riley-killer-death-penalty-decision)
+     [![Sorority, frat members charged after party leads to Ivy League student’s death - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/dartmouth-sorority-fraternity-members-face-charges-following-death-student-20-party)
 
-      [![The 'All-American Christmas Tree' brings holiday cheer to FOX Square - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364910912112)
+[US](https://www.foxnews.com/category/us)
 
-[VIDEO](https://www.foxnews.com/video)
+### [Sorority, frat members charged after party leads to Ivy League student’s death](https://www.foxnews.com/us/dartmouth-sorority-fraternity-members-face-charges-following-death-student-20-party)
 
-### [WATCH LIVE: The 'All-American Christmas Tree' brings holiday cheer to FOX Square](https://www.foxnews.com/video/6364910912112)
+     [![Police say minors as young as 12 caught shoplifting $84K of merchandise - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/san-francisco-minors-young-12-caught-allegedly-shoplifting-84k-merchandise-police)
+
+[SAN FRANCISCO](https://www.foxnews.com/category/us/san-francisco)
+
+### [Police say minors as young as 12 caught shoplifting $84K of merchandise](https://www.foxnews.com/us/san-francisco-minors-young-12-caught-allegedly-shoplifting-84k-merchandise-police)
+
+      [![High school runner makes desperate plea: ‘It’s not okay, I’m a 16-year-old girl!’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/girls-distance-runner-pleads-removal-trans-athlete-amid-safety-fears-lgbt-shoved-down-our-throats)sports
+
+[CALIFORNIA](https://www.foxnews.com/category/us/us-regions/west/california)
+
+### [High school runner makes desperate plea: ‘It’s not okay, I’m a 16-year-old girl!’](https://www.foxnews.com/sports/girls-distance-runner-pleads-removal-trans-athlete-amid-safety-fears-lgbt-shoved-down-our-throats)
+
+     [![US scrambles as drones shape the landscape of war: 'The future is here' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/us-scrambles-drones-shape-landscape-war-future-here)
+
+[DEFENSE](https://www.foxnews.com/category/politics/defense)
+
+### [US scrambles as drones shape the landscape of war: 'The future is here'](https://www.foxnews.com/world/us-scrambles-drones-shape-landscape-war-future-here)
+
+     [![Van Halen's Sammy Hagar hopes to end years-long rift with former bandmate - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/van-halens-sammy-hagar-wants-friends-again-alex-van-halen-will-not-take-my-grave)
+
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment)
+
+### [Van Halen's Sammy Hagar hopes to end years-long rift with former bandmate](https://www.foxnews.com/entertainment/van-halens-sammy-hagar-wants-friends-again-alex-van-halen-will-not-take-my-grave)
 
      [![Political cartoons of the day - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/politics-cartoons-slideshow)
 
@@ -522,23 +520,35 @@ Commerce
 
 ### [Amazon Black Friday: Here are 15 of the biggest deals being offered now](https://www.foxnews.com/lifestyle/amazon-black-friday-biggest-deals)
 
-     [![Blue state changes course on immigration policy ahead of Trump taking office - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/blue-state-shutter-dozen-migrant-shelters-trumps-set-implement-deportation-agenda)
+      [![Michigan's new recruit tailgates with his high school coach tied to sign-stealing controversy - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/michigans-new-no-1-recruit-photographed-subject-sign-stealing-scandal-before-wolverines-game)sports
 
-[US](https://www.foxnews.com/category/us)
+[MICHIGAN WOLVERINES](https://www.foxnews.com/category/sports/ncaa/michigan-wolverines)
 
-### [Blue state changes course on immigration policy ahead of Trump taking office](https://www.foxnews.com/us/blue-state-shutter-dozen-migrant-shelters-trumps-set-implement-deportation-agenda)
+### [Michigan's new recruit tailgates with his high school coach tied to sign-stealing controversy](https://www.foxnews.com/sports/michigans-new-no-1-recruit-photographed-subject-sign-stealing-scandal-before-wolverines-game)
 
-      [![Karma strikes college football team after game delay over wet ball mishap - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/college-football-team-gives-up-embarrassing-safety-after-delaying-game-because-wet-ball)sports
+      [![High school coach says he was fired over trans athlete stance — now a judge is weighing in - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/judge-says-ex-coach-within-protected-speech-opposing-trans-athletes-inclusion-girls-competition)sports
 
-[UNLV REBELS](https://www.foxnews.com/category/sports/ncaa/unlv-rebels)
+[OREGON](https://www.foxnews.com/category/us/us-regions/west/oregon)
 
-### [Karma strikes college football team after game delay over wet ball mishap](https://www.foxnews.com/sports/college-football-team-gives-up-embarrassing-safety-after-delaying-game-because-wet-ball)
+### [High school coach says he was fired over trans athlete stance — now a judge is weighing in](https://www.foxnews.com/sports/judge-says-ex-coach-within-protected-speech-opposing-trans-athletes-inclusion-girls-competition)
 
-      [![What the latest twist in Trump's NY sentencing could really mean - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/gregg-jarrett-trumps-sentencing-delayed-reality-ever-take-bite-out-braggs-outrageous-case)OPINION
+      [![The 'All-American Christmas Tree' brings holiday cheer to FOX Square - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364910912112)
 
-[OPINION](https://www.foxnews.com/category/opinion)
+[VIDEO](https://www.foxnews.com/video)
 
-### [GREGG JARRETT: What the latest twist in Trump's NY sentencing could really mean](https://www.foxnews.com/opinion/gregg-jarrett-trumps-sentencing-delayed-reality-ever-take-bite-out-braggs-outrageous-case)
+### [WATCH LIVE: The 'All-American Christmas Tree' brings holiday cheer to FOX Square](https://www.foxnews.com/video/6364910912112)
+
+     [![Trump reportedly considering former White House official for brand-new administration role - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/ric-grenell-under-consideration-trumps-point-man-ukraine-report)
+
+[TRUMP TRANSITION](https://www.foxnews.com/category/politics/elections/presidential/trump-transition)
+
+### [Trump reportedly considering former White House official for brand-new administration role](https://www.foxnews.com/politics/ric-grenell-under-consideration-trumps-point-man-ukraine-report)
+
+      [![Chaos ensues as Arizona State fans storm field with time left on the clock - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/arizona-state-fans-storm-field-time-clock-causing-lengthy-delay-squeak-last-second-win)sports
+
+[ARIZONA STATE SUN DEVILS](https://www.foxnews.com/category/sports/ncaa/arizona-state-sun-devils)
+
+### [Chaos ensues as Arizona State fans storm field with time left on the clock](https://www.foxnews.com/sports/arizona-state-fans-storm-field-time-clock-causing-lengthy-delay-squeak-last-second-win)
 
      [![2 killed in Air Force auxiliary plane crash during training exercise - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/civil-air-patrol-plane-crash-colorado-training-exercise-2-dead-1-injured)
 
@@ -546,17 +556,29 @@ Commerce
 
 ### [2 killed in Air Force auxiliary plane crash during training exercise](https://www.foxnews.com/us/civil-air-patrol-plane-crash-colorado-training-exercise-2-dead-1-injured)
 
+     [![State’s attorney general takes aim at California’s electric vehicle mandate - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/fox-news-auto/nebraska-ag-launches-assault-against-californias-electric-vehicle-push)
+
+[Cars + Trucks](https://www.foxbusiness.com/category/fox-news-auto)
+
+### [State’s attorney general takes aim at California’s electric vehicle mandate](https://www.foxbusiness.com/fox-news-auto/nebraska-ag-launches-assault-against-californias-electric-vehicle-push)
+
      [![Conor McGregor erupts on social media after being found liable for assault - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/conor-mcgregor-lashes-out-rape-accuser-social-media-rant-after-being-found-liable-assault)
 
 [UFC](https://www.foxnews.com/category/sports/ufc)
 
 ### [Conor McGregor erupts on social media after being found liable for assault](https://www.foxnews.com/sports/conor-mcgregor-lashes-out-rape-accuser-social-media-rant-after-being-found-liable-assault)
 
-     [![MSNBC contributor trashes her own colleagues as audience flees sinking liberal network - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/msnbc-contributor-trashes-network-shreds-morning-joe-colleagues-trump-meeting)
+     [![Soros-backed prosecutor under fire over sentencing decision for Laken Riley’s killer - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/soros-backed-prosecutor-under-fire-over-laken-riley-killer-death-penalty-decision)
 
-[MEDIA](https://www.foxnews.com/category/media)
+[CRIME](https://www.foxnews.com/category/us/crime)
 
-### [MSNBC contributor trashes her own colleagues as audience flees sinking liberal network](https://www.foxnews.com/media/msnbc-contributor-trashes-network-shreds-morning-joe-colleagues-trump-meeting)
+### [Soros-backed prosecutor under fire over sentencing decision for Laken Riley’s killer](https://www.foxnews.com/us/soros-backed-prosecutor-under-fire-over-laken-riley-killer-death-penalty-decision)
+
+      [![What the latest twist in Trump's NY sentencing could really mean - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/opinion/gregg-jarrett-trumps-sentencing-delayed-reality-ever-take-bite-out-braggs-outrageous-case)OPINION
+
+[OPINION](https://www.foxnews.com/category/opinion)
+
+### [GREGG JARRETT: What the latest twist in Trump's NY sentencing could really mean](https://www.foxnews.com/opinion/gregg-jarrett-trumps-sentencing-delayed-reality-ever-take-bite-out-braggs-outrageous-case)
 
      [![Red state governor takes action against Chinese government operatives - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/texas-gov-abbott-orders-state-agencies-divest-from-china)
 
@@ -564,35 +586,11 @@ Commerce
 
 ### [Red state governor takes action against Chinese government operatives](https://www.foxbusiness.com/politics/texas-gov-abbott-orders-state-agencies-divest-from-china)
 
-     [![NBA legend says Bitcoin creator spoke to him 'in a dream' about a price surge - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/media/nba-legend-scottie-pippen-bitcoin-whale-satoshi-spoke-dream-saying-price-hit-84k)
-
-[BITCOIN](https://www.foxbusiness.com/tag/bitcoin)
-
-### [NBA legend says Bitcoin creator spoke to him 'in a dream' about a price surge](https://www.foxbusiness.com/media/nba-legend-scottie-pippen-bitcoin-whale-satoshi-spoke-dream-saying-price-hit-84k)
-
-     [![Liberal newspaper column advises Dems on how to handle Trump-supporting relatives - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/nyt-advice-column-ponders-how-democrats-should-deal-trump-supporting-family-members)
-
-[MEDIA](https://www.foxnews.com/category/media)
-
-### [Liberal newspaper column advises Dems on how to handle Trump-supporting relatives](https://www.foxnews.com/media/nyt-advice-column-ponders-how-democrats-should-deal-trump-supporting-family-members)
-
-      [![Nick Saban warns Texas A&M ahead of team's visit to Auburn: 'That place is haunted' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nick-saban-warns-texas-am-ahead-teams-visit-auburn-that-place-haunted)sports
+      [![Nick Saban sends warning to Texas A&M about Auburn's stadium: 'That place is haunted' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nick-saban-warns-texas-am-ahead-teams-visit-auburn-that-place-haunted)sports
 
 [ALABAMA CRIMSON TIDE](https://www.foxnews.com/category/sports/ncaa/alabama-crimson-tide)
 
-### [Nick Saban warns Texas A&M ahead of team's visit to Auburn: 'That place is haunted'](https://www.foxnews.com/sports/nick-saban-warns-texas-am-ahead-teams-visit-auburn-that-place-haunted)
-
-     [![Young CEO on why he turned down $10 million bonus to start his own company - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/technology/young-ceo-gave-up-10-million-dollar-bonus-launch-technology-company-wouldnt-trade-world)
-
-[Technology](https://www.foxbusiness.com/category/technology)
-
-### [Young CEO on why he turned down $10 million bonus to start his own company](https://www.foxbusiness.com/technology/young-ceo-gave-up-10-million-dollar-bonus-launch-technology-company-wouldnt-trade-world)
-
-     [![Social media erupts as liberal outlet appears to edit headline on nursing student's killer - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/after-backlash-msnbc-changes-headline-online-piece-claiming-laken-rileys-killer-never-stood-chance)
-
-[MEDIA](https://www.foxnews.com/category/media)
-
-### [Social media erupts as liberal outlet appears to edit headline on nursing student's killer](https://www.foxnews.com/media/after-backlash-msnbc-changes-headline-online-piece-claiming-laken-rileys-killer-never-stood-chance)
+### [Nick Saban sends warning to Texas A&M about Auburn's stadium: 'That place is haunted'](https://www.foxnews.com/sports/nick-saban-warns-texas-am-ahead-teams-visit-auburn-that-place-haunted)
 
      [![Legendary filmmaker Martin Scorsese's lifelong passion project lands on FOX Nation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/martin-scorsese-illuminates-historys-boldest-saints-fox-nation-series-he-didnt-believe-could-done)
 
@@ -600,9 +598,9 @@ Commerce
 
 ### [Legendary filmmaker Martin Scorsese's lifelong passion project lands on FOX Nation](https://www.foxnews.com/media/martin-scorsese-illuminates-historys-boldest-saints-fox-nation-series-he-didnt-believe-could-done)
 
-      [![How the US and Israel could thwart Iran’s nuclear efforts under a new Trump admin - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/topic/anti-semitism)ANTISEMITISM EXPOSED
+      [![Israel's UN ambassador issues stark warning to Iran after threat of retaliation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/topic/anti-semitism)ANTISEMITISM EXPOSED
 
-### [How the US and Israel could thwart Iran’s nuclear efforts under a new Trump admin](https://www.foxnews.com/category/topic/anti-semitism)
+### [Israel's UN ambassador issues stark warning to Iran after threat of retaliation](https://www.foxnews.com/category/topic/anti-semitism)
 
       [![ETFs soar as President-elect Trump vows to go all in on crypto - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxbusiness.com/video/6365059203112) WATCH
 
@@ -630,9 +628,9 @@ Commerce
 
 ### [Trans activist attempts to rush Nancy Mace in wild altercation](https://www.outkick.com/culture/nancy-mace-trans-activist-rush-stage-video)
 
-     [![New technology detects woman’s breast cancer after mammogram misses it - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/tech/artificial-intelligence)
+     [![Apple's new software update introduces AI features but may overstep privacy boundaries - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/tech/artificial-intelligence)
 
-### [New technology detects woman’s breast cancer after mammogram misses it](https://www.foxnews.com/category/tech/artificial-intelligence)
+### [Apple's new software update introduces AI features but may overstep privacy boundaries](https://www.foxnews.com/category/tech/artificial-intelligence)
 
      [![Delicious recipes, surprising power foods & juicy secrets to eating better - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink)
 
@@ -702,21 +700,23 @@ Travelers chase fountain of YOUTH](https://www.foxnews.com/travel/new-travel-tre
 [OutKick](https://www.outkick.com/)
 -----------------------------------
 
-     [![Nebraska Fans Behave In Pathetic And Embarrassing Fashion After Win: WATCH - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/nebraska-wisconsin-field-storming-win)
+     [![Oklahoma Derails Alabama's College Football Playoff Run, Igniting Further Chaos In The SEC After Wild Day - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/oklahoma-alabama-college-football-playoff-jackson-arnold)
 
-### [Nebraska Fans Behave In Pathetic And Embarrassing Fashion After Win: WATCH](https://www.outkick.com/sports/nebraska-wisconsin-field-storming-win)
+### [Oklahoma Derails Alabama's College Football Playoff Run, Igniting Further Chaos In The SEC After Wild Day](https://www.outkick.com/sports/oklahoma-alabama-college-football-playoff-jackson-arnold)
 
-### [Brad Pitt 'Faints' In Head-Scratching Scene While Filming Absurdly Expensive F1 Movie](https://www.outkick.com/sports/brad-pitt-faints-head-scratching-scene-while-absurdly-expensive-f1-movie)
+### [Patrick Mahomes Is The Latest To Get Ridiculous Fine For A 'Violent Gesture'](https://www.outkick.com/sports/patrick-mahomes-latest-get-ridiculous-fine-violent-gesture)
 
-   [![LAS VEGAS, NV - NOVEMBER 22: Actor Brad Pitt&apos;s stunt double acts out a scene as they film for his F1 movie after qualifying for the Formula 1 Heineken Silver Las Vegas Grand Prix on the Las Vegas Strip Circuit on November 22, 2024 in Las Vegas, Nevada. (Photo by Jeff Speer/Icon Sportswire via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/brad-pitt-faints-head-scratching-scene-while-absurdly-expensive-f1-movie)
+   [![ORCHARD PARK, NEW YORK - NOVEMBER 17: Patrick Mahomes #15 of the Kansas City Chiefs looks on prior to a game against the Buffalo Bills at Highmark Stadium on November 17, 2024 in Orchard Park, New York. (Photo by Bryan Bennett/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/patrick-mahomes-latest-get-ridiculous-fine-violent-gesture)
 
-### [Twice As Nice! Arizona State Fans Rush The Field Twice, As Sun Devils Beat BYU To Control Big 12 Destiny](https://www.outkick.com/sports/arizona-state-byu-kenny-dillingham-big-12)
+### [Deion Sanders Says Buffaloes Were ‘Intoxicated’ With Success In Sobering Loss To Kansas](https://www.outkick.com/sports/deion-sanders-says-buffaloes-were-intoxicated-success-sobering-loss-kansas)
 
-   [![TEMPE, ARIZONA - NOVEMBER 23: Fans rush the field after a resumption of play with 1 second left on the clock during the NCAAF game against the Brigham Young Cougars at Mountain America Stadium on November 23, 2024 in Tempe, Arizona. The Sun Devils defeated the Cougars 28-23. (Photo by Christian Petersen/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/arizona-state-byu-kenny-dillingham-big-12)
+   [![KANSAS CITY, MISSOURI - NOVEMBER 23: Head coach Deion Sanders of the Colorado Buffaloes walks the sideline in the second half against the Colorado Buffaloes at Arrowhead Stadium on November 23, 2024 in Kansas City, Missouri. (Photo by Ed Zurga/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/deion-sanders-says-buffaloes-were-intoxicated-success-sobering-loss-kansas)
 
-### [Playoff Hopes Now Dim, But Colorado Football Has Proven Its Future Is Bright](https://www.outkick.com/sports/playoff-hopes-now-dim-colorado-football-has-proven-its-future-bright)
+### [High School Student Speaks Out On Preferential Treatment For Transgender Athlete](https://www.outkick.com/sports/high-school-student-speaks-out-safety-concerns-transgender-athlete)
 
-   [![KANSAS CITY, MISSOURI - NOVEMBER 23: Quarterback Shedeur Sanders #2 of the Colorado Buffaloes looks to pass against the Kansas Jayhawks in the first half at Arrowhead Stadium on November 23, 2024 in Kansas City, Missouri.  (Photo by Ed Zurga/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/playoff-hopes-now-dim-colorado-football-has-proven-its-future-bright)
+   [![EDMONTON, CANADA - FEBRUARY 03, 2024:
+Activists hold placards as hundreds of activists, allies, and members of the transgender community gather at Dr. Wilbert McIntyre Park in Old Strathcona, protesting Premier Danielle Smith&apos;s proposed LGBTQ2S+ legislation and opposing legislation affecting transgender and non-binary youth, on February 03, 2024, in Edmonton, Alberta, Canada.
+Protests ignited after Premier Smith&apos;s recent announcement to restrict vital procedures for transgender youth, sparked by a social media video mandating parental notification and consent. (Photo by Artur Widak/NurPhoto via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/high-school-student-speaks-out-safety-concerns-transgender-athlete)
 
 [Digital Originals](https://www.foxnews.com/category/us/digital-originals)
 --------------------------------------------------------------------------
@@ -778,9 +778,13 @@ Travelers chase fountain of YOUTH](https://www.foxnews.com/travel/new-travel-tre
 [Elections](https://www.foxnews.com/elections)
 ----------------------------------------------
 
-     [![Trump taps Texan Brooke Rollins as agriculture secretary - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-taps-brooke-rollins-agriculture-secretary)
+     [![Trump administration takes shape: President-elect completes top 15 Cabinet picks - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-admin-takes-shape-president-elect-completes-top-15-cabinet-picks)
+
+### [Trump administration takes shape: President-elect completes top 15 Cabinet picks](https://www.foxnews.com/politics/trump-admin-takes-shape-president-elect-completes-top-15-cabinet-picks)
 
 ### [Trump taps Texan Brooke Rollins as agriculture secretary](https://www.foxnews.com/politics/trump-taps-brooke-rollins-agriculture-secretary)
+
+   [![Brooke Rollins, president and CEO of AFPI, is seen during the America First Policy Institute&apos;s America First Agenda Summit at the Marriott Marquis on Tuesday, July 26, 2022. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-taps-brooke-rollins-agriculture-secretary)
 
 ### [Ric Grenell under consideration to be Trump's point man on Ukraine: report](https://www.foxnews.com/politics/ric-grenell-under-consideration-trumps-point-man-ukraine-report)
 
@@ -789,10 +793,6 @@ Travelers chase fountain of YOUTH](https://www.foxnews.com/travel/new-travel-tre
 ### [Bill Maher vows he won't 'pre-hate' incoming Trump administration: 'Let's see what the disruptors can do'](https://www.foxnews.com/media/bill-maher-says-he-wont-pre-hate-incoming-trump-administration-lets-see-what-disruptors-can-do)
 
    [![HBO host Bill Maher rebuked Trump supporters who insist that the former president was saved from assassination by God. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/bill-maher-says-he-wont-pre-hate-incoming-trump-administration-lets-see-what-disruptors-can-do)
-
-### [Who is Pam Bondi, Trump's new pick for attorney general?](https://www.foxnews.com/politics/who-pam-bondi-trumps-new-pick-attorney-general)
-
-   [![President Elect Donald Trump, left, and nominee for AG Pam Bondi, right - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/who-pam-bondi-trumps-new-pick-attorney-general)
 
 [Personal Freedoms](https://www.foxnews.com/category/us/personal-freedoms)
 --------------------------------------------------------------------------
@@ -816,9 +816,13 @@ Travelers chase fountain of YOUTH](https://www.foxnews.com/travel/new-travel-tre
 [World](https://www.foxnews.com/world)
 --------------------------------------
 
-     [![Rabbi feared kidnapped, killed by terrorists after going missing, prompting investigation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/rabbi-feared-kidnapped-killed-terrorists-missing-prompting-investigation)
+     [![Man in India regains consciousness before his cremation on funeral pyre: reports - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/man-india-regains-consciousness-before-cremation-funeral-pyre)
+
+### [Man in India regains consciousness before his cremation on funeral pyre: reports](https://www.foxnews.com/world/man-india-regains-consciousness-before-cremation-funeral-pyre)
 
 ### [Rabbi feared kidnapped, killed by terrorists after going missing, prompting investigation](https://www.foxnews.com/world/rabbi-feared-kidnapped-killed-terrorists-missing-prompting-investigation)
+
+   [![Rabbi Zvi Kogan, a Chabad emissary, has gone missing. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/rabbi-feared-kidnapped-killed-terrorists-missing-prompting-investigation)
 
 ### [Justin Trudeau dances at Taylor Swift concert amid destructive riot in Montreal, sparking outrage](https://www.foxnews.com/world/justin-trudeau-dances-taylor-swift-concert-destructive-riot-montreal-sparking-outrage)
 
@@ -827,10 +831,6 @@ Travelers chase fountain of YOUTH](https://www.foxnews.com/travel/new-travel-tre
 ### [Scientists study ‘very rare’ frozen remains of 35,000-year-old saber-toothed cub](https://www.foxnews.com/world/scientists-study-very-rare-frozen-remains-35000-year-old-saber-toothed-cub)
 
    [![Scientists study &lsquo;very rare&rsquo; frozen remains of 35,000-year-old saber-toothed cub - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/scientists-study-very-rare-frozen-remains-35000-year-old-saber-toothed-cub)
-
-### [Philippine vice president makes public assassination threat against country's president](https://www.foxnews.com/world/philippine-vice-president-makes-public-assassination-threat-against-countrys-president)
-
-   [![FILE - Philippine Vice President-elect Sara Duterte, daughter of outgoing populist president of the Philippines, delivers her speech during her oath-taking rites in her hometown in Davao city, southern Philippines, on June 19, 2022. (AP Photo/Manman Dejeto) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/philippine-vice-president-makes-public-assassination-threat-against-countrys-president)
 
 [Opinion](https://www.foxnews.com/opinion)
 ------------------------------------------
@@ -873,21 +873,21 @@ Travelers chase fountain of YOUTH](https://www.foxnews.com/travel/new-travel-tre
 [Crime](https://www.foxnews.com/category/us/crime)
 --------------------------------------------------
 
-     [![Dartmouth sorority, fraternity members face charges after death of student, 20, at party - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/dartmouth-sorority-fraternity-members-face-charges-following-death-student-20-party)
+     [![California man allegedly stabbed multiple people; was arrested, released week prior - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/california-man-allegedly-stabbed-multiple-people-arrested-released-week-prior)
+
+### [California man allegedly stabbed multiple people; was arrested, released week prior](https://www.foxnews.com/us/california-man-allegedly-stabbed-multiple-people-arrested-released-week-prior)
+
+### [San Francisco minors, as young as 12, caught allegedly shoplifting over $84K of merchandise: police](https://www.foxnews.com/us/san-francisco-minors-young-12-caught-allegedly-shoplifting-84k-merchandise-police)
+
+   [![San Francisco minors, as young as 12, caught allegedly shoplifting over $84K of merchandise: police - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/san-francisco-minors-young-12-caught-allegedly-shoplifting-84k-merchandise-police)
 
 ### [Dartmouth sorority, fraternity members face charges after death of student, 20, at party](https://www.foxnews.com/us/dartmouth-sorority-fraternity-members-face-charges-following-death-student-20-party)
+
+   [![Dartmouth sorority, fraternity members face charges after death of student, 20, at party - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/dartmouth-sorority-fraternity-members-face-charges-following-death-student-20-party)
 
 ### [Civil Air Patrol plane crash during Colorado training exercise leaves 2 dead, 1 injured](https://www.foxnews.com/us/civil-air-patrol-plane-crash-colorado-training-exercise-2-dead-1-injured)
 
    [![Civil Air Patrol plane crash during Colorado training exercise leaves 2 dead, 1 injured - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/civil-air-patrol-plane-crash-colorado-training-exercise-2-dead-1-injured)
-
-### [Texas AG sues Dallas for decriminalizing marijuana](https://www.foxnews.com/politics/texas-ag-sues-dallas-decriminalizing-marijuana)
-
-   [![Juan Bermeo collects signatures for an initiative petition that would appear on the ballot as State Question 820, to legalize recreational marijuana, at the Engage the Rage rally at the Oklahoma Capitol in Oklahoma City Sunday, June 25, 2022. Rec Pot 003 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/texas-ag-sues-dallas-decriminalizing-marijuana)
-
-### [Los Angeles officials still on ‘progressive warpath’ despite overwhelming voter rebuke of leftist policies](https://www.foxnews.com/media/los-angeles-officials-still-progressive-warpath-despite-overwhelming-voter-rebuke-leftist-policies)
-
-   [![Public safety has become a top issue for voters in Los Angeles County amid organized smash-and-grab robberies, assaults and incidents involving homeless individuals. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/los-angeles-officials-still-progressive-warpath-despite-overwhelming-voter-rebuke-leftist-policies)
 
 [America Together](https://www.foxnews.com/category/us/personal-freedoms/america-together)
 ------------------------------------------------------------------------------------------
@@ -930,67 +930,59 @@ Travelers chase fountain of YOUTH](https://www.foxnews.com/travel/new-travel-tre
 [Entertainment](https://www.foxnews.com/entertainment)
 ------------------------------------------------------
 
-     [![Matthew McConaughey shares advice mom gave him after his arrest for playing bongos naked while high in 1999 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/matthew-mcconaughey-shares-advice-mom-gave-him-arrested-playing-bongos-naked-1999)
+     [![Cher was 'shocked' when she discovered legal name decades after birth certificate error - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/cher-shocked-discover-legal-name-decades-birth-certificate-error)
+
+### [Cher was 'shocked' when she discovered legal name decades after birth certificate error](https://www.foxnews.com/entertainment/cher-shocked-discover-legal-name-decades-birth-certificate-error)
+
+### [Van Halen's Sammy Hagar wants to 'be friends again' with Alex Van Halen: 'Will not take this to my grave'](https://www.foxnews.com/entertainment/van-halens-sammy-hagar-wants-friends-again-alex-van-halen-will-not-take-my-grave)
+
+   [![c - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/van-halens-sammy-hagar-wants-friends-again-alex-van-halen-will-not-take-my-grave)
 
 ### [Matthew McConaughey shares advice mom gave him after his arrest for playing bongos naked while high in 1999](https://www.foxnews.com/entertainment/matthew-mcconaughey-shares-advice-mom-gave-him-arrested-playing-bongos-naked-1999)
+
+   [![c - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/matthew-mcconaughey-shares-advice-mom-gave-him-arrested-playing-bongos-naked-1999)
 
 ### [Nicole Kidman, Demi Moore, Cameron Diaz turn heads at red carpet events: PHOTOS](https://www.foxnews.com/entertainment/nicole-kidman-demi-moore-cameron-diaz-turn-heads-red-carpet-events-photos)
 
    [![Nicole Kidman, Demi Moore and Cameron Diaz split - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/nicole-kidman-demi-moore-cameron-diaz-turn-heads-red-carpet-events-photos)
 
-### [Fox News Entertainment Newsletter: Jussie Smollett conviction overturned, Ellen DeGeneres reportedly leaves US](https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-jussie-smollett-conviction-overturned-ellen-degeneres-reportedly-leaves-us)
-
-   [![Jussie Smollett, Ellen DeGeneres - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-jussie-smollett-conviction-overturned-ellen-degeneres-reportedly-leaves-us)
-
-### [Jay Leno ‘feeling good’ despite suffering bruised face from fall](https://www.foxnews.com/entertainment/jay-leno-feeling-good-despite-suffering-bruised-face-from-fall)
-
-   [![EXCLUSIVE: Comedian Jay Leno is seen recovering from his recent injuries as he grabs a burger and fries from In &apos;n&apos; Out Burger in Burbank, CA.
-Pictured: jay leno
-Ref: BLU_S8050609 211124 EXCLUSIVE
-Picture by: London Entertainment / SplashNews.com
-Splash News and Pictures
-USA: 310-525-5808 
-UK: 020 8126 1009
-eamteam@shutterstock.com
-World Rights / LAS VEGAS, NEVADA - NOVEMBER 22: Jay Leno attends amfAR Las Vegas Presented by Paramount at Wynn Las Vegas on November 22, 2024 in Las Vegas, Nevada. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/jay-leno-feeling-good-despite-suffering-bruised-face-from-fall)
-
 [Sports](https://www.foxnews.com/sports)
 ----------------------------------------
 
-     [![Arizona State fans storm field with time on clock, causing lengthy delay; Sun Devils post last-second win - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/arizona-state-fans-storm-field-time-clock-causing-lengthy-delay-squeak-last-second-win)
+     [![2024 Heisman Watch: Travis Hunter continues to soar up leaderboard - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/2024-heisman-watch)
 
-### [Arizona State fans storm field with time on clock, causing lengthy delay; Sun Devils post last-second win](https://www.foxnews.com/sports/arizona-state-fans-storm-field-time-clock-causing-lengthy-delay-squeak-last-second-win)
+### [2024 Heisman Watch: Travis Hunter continues to soar up leaderboard](https://www.foxnews.com/sports/2024-heisman-watch)
 
-### [Nick Saban warns Texas A&M ahead of team's visit to Auburn: 'That place is haunted'](https://www.foxnews.com/sports/nick-saban-warns-texas-am-ahead-teams-visit-auburn-that-place-haunted)
+### [Jason Kelce chugs beers during eventful visit to Appalachian State tailgate](https://www.foxnews.com/sports/jason-kelce-chugs-beers-during-eventful-visit-appalachian-state-tailgate)
 
-   [![Sep 7, 2024; Tuscaloosa, Alabama, USA;  Nick Saban walks off the field after it was renamed in his honor at Bryant-Denny Stadium during halftime of Alabama&rsquo;s win over South Florida 42-16. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nick-saban-warns-texas-am-ahead-teams-visit-auburn-that-place-haunted)
+   [![ESPN Monday Night Football broadcaster Jason Kelce on the set before game between Philadelphia Eagles and Atlanta Falcons at Lincoln Financial Field. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/jason-kelce-chugs-beers-during-eventful-visit-appalachian-state-tailgate)
 
-### [Colorado's Shedeur Sanders pushes official in loss that could keep Buffaloes out of College Football Playoff](https://www.foxnews.com/sports/colorados-shedeur-sanders-pushes-official-loss-could-keep-buffaloes-out-college-football-playoff)
+### [Michigan's new No. 1 recruit photographed with subject of sign-stealing scandal before Wolverines' game](https://www.foxnews.com/sports/michigans-new-no-1-recruit-photographed-subject-sign-stealing-scandal-before-wolverines-game)
 
-   [![Quarterback Shedeur Sanders #2 of the Colorado Buffaloes looks to pass against the Kansas Jayhawks in the first half at Arrowhead Stadium on November 23, 2024 in Kansas City, Missouri. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/colorados-shedeur-sanders-pushes-official-loss-could-keep-buffaloes-out-college-football-playoff)
+   [![Newly committed QB recruit from Belleville, MI Bryce Underwood takes selfies with fans on the sidelines prior to the Michigan Wolverines versus the Northwestern Wildcats game on Saturday November 23, 2024 at Michigan Stadium in Ann Arbor, MI. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/michigans-new-no-1-recruit-photographed-subject-sign-stealing-scandal-before-wolverines-game)
 
-### [Stephen A. Smith's claim that Giants reached out to ESPN about Elle Duncan's criticism is false: report](https://www.foxnews.com/sports/stephen-a-smiths-claim-giants-reached-out-espn-about-elle-duncans-criticism-false-report)
+### [Trump Cabinet pick Scott Turner scored only NFL pick 6 in lone bright moment of historically awful season](https://www.foxnews.com/sports/trump-cabinet-pick-scott-turner-scored-only-nfl-touchdown-lone-bright-moment-historically-awful-season)
 
-   [![Stephen A. Smith in 2021. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/stephen-a-smiths-claim-giants-reached-out-espn-about-elle-duncans-criticism-false-report)
+   [![White House Opportunity and Revitalization Council Executive Director Scott Turner (R) speaks at the invitation of U.S. President Donald Trump during the National Historically Black Colleges and Universities Week Conference at the Renaissance Hotel September 10, 2019 in Washington, DC. Earlier in the day Trump fired his National Security Advisor John Bolton. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/trump-cabinet-pick-scott-turner-scored-only-nfl-touchdown-lone-bright-moment-historically-awful-season)
 
 [U.S.](https://www.foxnews.com/us)
 ----------------------------------
 
-     [![Dartmouth sorority, fraternity members face charges after death of student, 20, at party - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/dartmouth-sorority-fraternity-members-face-charges-following-death-student-20-party)
+     [![California man allegedly stabbed multiple people; was arrested, released week prior - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/california-man-allegedly-stabbed-multiple-people-arrested-released-week-prior)
+
+### [California man allegedly stabbed multiple people; was arrested, released week prior](https://www.foxnews.com/us/california-man-allegedly-stabbed-multiple-people-arrested-released-week-prior)
+
+### [San Francisco minors, as young as 12, caught allegedly shoplifting over $84K of merchandise: police](https://www.foxnews.com/us/san-francisco-minors-young-12-caught-allegedly-shoplifting-84k-merchandise-police)
+
+   [![San Francisco minors, as young as 12, caught allegedly shoplifting over $84K of merchandise: police - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/san-francisco-minors-young-12-caught-allegedly-shoplifting-84k-merchandise-police)
 
 ### [Dartmouth sorority, fraternity members face charges after death of student, 20, at party](https://www.foxnews.com/us/dartmouth-sorority-fraternity-members-face-charges-following-death-student-20-party)
+
+   [![Dartmouth sorority, fraternity members face charges after death of student, 20, at party - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/dartmouth-sorority-fraternity-members-face-charges-following-death-student-20-party)
 
 ### [Civil Air Patrol plane crash during Colorado training exercise leaves 2 dead, 1 injured](https://www.foxnews.com/us/civil-air-patrol-plane-crash-colorado-training-exercise-2-dead-1-injured)
 
    [![Civil Air Patrol plane crash during Colorado training exercise leaves 2 dead, 1 injured - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/civil-air-patrol-plane-crash-colorado-training-exercise-2-dead-1-injured)
-
-### [More Republican women buying firearms, while gun ownership declines among male Democrats: poll](https://www.foxnews.com/us/more-republican-women-obtaining-firearms-gun-ownership-declines-male-democrats-poll)
-
-   [![1248823719 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/more-republican-women-obtaining-firearms-gun-ownership-declines-male-democrats-poll)
-
-### [Human smugglers convicted after Indian family freezes to death trying to illegally cross northern border](https://www.foxnews.com/us/human-smugglers-convicted-after-indian-family-freezes-death-trying-illegally-cross-northern-border)
-
-   [![This combination image shows left to right; undated photo released by the Sherburne County Sheriff&rsquo;s Office shows Harshkumar Patel in Elk River, Minn., and undated photo released by the U.S. Immigration and Customs Enforcement shows Steve Shand. (AP Photo) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/human-smugglers-convicted-after-indian-family-freezes-death-trying-illegally-cross-northern-border)
 
 [Family](https://www.foxnews.com/family)
 ----------------------------------------
@@ -1052,9 +1044,13 @@ World Rights / LAS VEGAS, NEVADA - NOVEMBER 22: Jay Leno attends amfAR Las Vegas
 [Movies](https://www.foxnews.com/category/entertainment/movies)
 ---------------------------------------------------------------
 
-     [![Matthew McConaughey shares advice mom gave him after his arrest for playing bongos naked while high in 1999 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/matthew-mcconaughey-shares-advice-mom-gave-him-arrested-playing-bongos-naked-1999)
+     [![Cher was 'shocked' when she discovered legal name decades after birth certificate error - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/cher-shocked-discover-legal-name-decades-birth-certificate-error)
+
+### [Cher was 'shocked' when she discovered legal name decades after birth certificate error](https://www.foxnews.com/entertainment/cher-shocked-discover-legal-name-decades-birth-certificate-error)
 
 ### [Matthew McConaughey shares advice mom gave him after his arrest for playing bongos naked while high in 1999](https://www.foxnews.com/entertainment/matthew-mcconaughey-shares-advice-mom-gave-him-arrested-playing-bongos-naked-1999)
+
+   [![c - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/matthew-mcconaughey-shares-advice-mom-gave-him-arrested-playing-bongos-naked-1999)
 
 ### [Nicole Kidman, Demi Moore, Cameron Diaz turn heads at red carpet events: PHOTOS](https://www.foxnews.com/entertainment/nicole-kidman-demi-moore-cameron-diaz-turn-heads-red-carpet-events-photos)
 
@@ -1063,10 +1059,6 @@ World Rights / LAS VEGAS, NEVADA - NOVEMBER 22: Jay Leno attends amfAR Las Vegas
 ### ['Cobra Kai' used AI to bring back 'Karate Kid' character in controversial 'nightmare' scene](https://www.foxnews.com/entertainment/cobra-kai-used-ai-bring-back-karate-kid-character-controversial-nightmare-scene)
 
    [![Pat Morita and Ralph Macchio in a scene from the film &apos;The Karate Kid&apos;, 1984. (Photo by Columbia Pictures/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/cobra-kai-used-ai-bring-back-karate-kid-character-controversial-nightmare-scene)
-
-### [HBO stands by JK Rowling amid progressive furor over her trans views](https://www.foxnews.com/media/hbo-stands-jk-rowling-amid-progressive-furor-trans-views)
-
-   [![HBO, which is working on a new &ldquo;Harry Potter&rdquo; series, recently defended author J.K. Rowling right to express her views on trans issues. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/hbo-stands-jk-rowling-amid-progressive-furor-trans-views)
 
 [Business](https://www.foxbusiness.com/)
 ----------------------------------------
@@ -1147,21 +1139,21 @@ World Rights / LAS VEGAS, NEVADA - NOVEMBER 22: Jay Leno attends amfAR Las Vegas
 [Music](https://www.foxnews.com/category/entertainment/music)
 -------------------------------------------------------------
 
-     [![Jason Aldean's wife blames 'wokeness' for Billboard 100 greatest country artists of all time list snub - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/jason-aldeans-wife-blames-wokeness-billboard-100-greatest-country-artists-all-time-list-snub)
+     [![Cher was 'shocked' when she discovered legal name decades after birth certificate error - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/cher-shocked-discover-legal-name-decades-birth-certificate-error)
+
+### [Cher was 'shocked' when she discovered legal name decades after birth certificate error](https://www.foxnews.com/entertainment/cher-shocked-discover-legal-name-decades-birth-certificate-error)
+
+### [Van Halen's Sammy Hagar wants to 'be friends again' with Alex Van Halen: 'Will not take this to my grave'](https://www.foxnews.com/entertainment/van-halens-sammy-hagar-wants-friends-again-alex-van-halen-will-not-take-my-grave)
+
+   [![c - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/van-halens-sammy-hagar-wants-friends-again-alex-van-halen-will-not-take-my-grave)
 
 ### [Jason Aldean's wife blames 'wokeness' for Billboard 100 greatest country artists of all time list snub](https://www.foxnews.com/media/jason-aldeans-wife-blames-wokeness-billboard-100-greatest-country-artists-all-time-list-snub)
+
+   [![Brittany Aldean responded to backlash following a video shared on Instagram. She attended the 2022 iHeartRadio Music Awards  in March with husband Jason Aldean. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/jason-aldeans-wife-blames-wokeness-billboard-100-greatest-country-artists-all-time-list-snub)
 
 ### [Cher is fully aware men expect 'fabulous sex' from her, explains why](https://www.foxnews.com/entertainment/cher-fully-aware-men-expect-fabulous-sex-from-her-explains-why)
 
    [![CLEVELAND, OHIO - OCTOBER 19: Cher performs onstage during the 2024 Rock &amp; Roll Hall Of Fame Induction Ceremony streaming on Disney+ at Rocket Mortgage Fieldhouse on October 19, 2024 in Cleveland, Ohio. (Photo by Dia Dipasupil/Getty Images for The Rock and Roll Hall of Fame) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/cher-fully-aware-men-expect-fabulous-sex-from-her-explains-why)
-
-### [Taylor Swift went on ‘wild ride’ with former Victoria’s Secret model Cara Delevingne as roommates](https://www.foxnews.com/entertainment/taylor-swift-went-wild-ride-former-victorias-secret-model-cara-delevingne-roommates)
-
-   [![LONDON, ENGLAND - FEBRUARY 24: (L to R) Ellie Goulding, Cara Delevingne and Taylor Swift attend the Elle Style Awards 2015 at Sky Garden @ The Walkie Talkie Tower on February 24, 2015 in London, England. / - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/taylor-swift-went-wild-ride-former-victorias-secret-model-cara-delevingne-roommates)
-
-### [Ashley McBryde delivers moving acoustic performance in honor of Kris Kristofferson at the 2024 CMA Awards](https://www.foxnews.com/entertainment/ashley-mcbryde-delivers-moving-acoustic-performance-honor-kris-kristofferson-2024-cma-awards)
-
-   [![Ashley McBryde delivers moving acoustic performance in honor of Kris Kristofferson at the 2024 CMA Awards - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/ashley-mcbryde-delivers-moving-acoustic-performance-honor-kris-kristofferson-2024-cma-awards)
 
 [Food + Drink](https://www.foxnews.com/food-drink)
 --------------------------------------------------
@@ -1197,9 +1189,9 @@ World Rights / LAS VEGAS, NEVADA - NOVEMBER 22: Jay Leno attends amfAR Las Vegas
 
    [![Northeast blasted by snow, beneficial rain as major airport hubs face travel delays - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/northeast-winter-storm-snow-rain-forecast-thanksgiving-travel)
 
-### [Amtrak train impaled by tree near Seattle during bomb cyclone windstorm](https://www.foxweather.com/extreme-weather/amtrak-train-impaled-tree-bomb-cyclone-seattle)
+### [At least 4 dead after powerful atmospheric river event clobbers West Coast](https://www.foxweather.com/weather-news/four-weather-bomb-cyclone-electric-outage)
 
-   [![Amtrak train impaled by tree near Seattle during bomb cyclone windstorm - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/extreme-weather/amtrak-train-impaled-tree-bomb-cyclone-seattle)
+   [![At least 4 dead after powerful atmospheric river event clobbers West Coast - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/four-weather-bomb-cyclone-electric-outage)
 
 [Full Episodes](https://www.foxnews.com/video/topics/latest-news-video)
 -----------------------------------------------------------------------
