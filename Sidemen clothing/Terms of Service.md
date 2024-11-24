@@ -81,6 +81,7 @@ Open navigation menu [Open search](https://www.sidemenclothing.com/search)
 * [NEW](https://www.sidemenclothing.com/collections/new)
 * COLLECTIONS
     
+    * [W2S Birthday](https://www.sidemenclothing.com/collections/w2s-birthday)
     * [AW24 Space](https://www.sidemenclothing.com/collections/space)
     * [Sidemen Originals](https://www.sidemenclothing.com/collections/originals)
     * [SDMN x TMNT](https://www.sidemenclothing.com/collections/sdmn-x-tmnt)
@@ -94,11 +95,7 @@ Open navigation menu [Open search](https://www.sidemenclothing.com/search)
     * [Blueprint](https://www.sidemenclothing.com/collections/blueprint)
     * [Imperial Varsity](https://www.sidemenclothing.com/collections/imperial-varsity)
     * [Graffiti](https://www.sidemenclothing.com/collections/graffiti)
-    * [Activewear](https://www.sidemenclothing.com/collections/xix-activewear)
     * [SDMN x SpongeBob](https://www.sidemenclothing.com/collections/sdmn-x-spongebob)
-    * [Varsity](https://www.sidemenclothing.com/collections/varsity)
-    * [Nitro](https://www.sidemenclothing.com/collections/nitro)
-    * [Colour Block](https://www.sidemenclothing.com/collections/colour-block)
     
 * CLOTHING
     
@@ -113,6 +110,7 @@ Open navigation menu [Open search](https://www.sidemenclothing.com/search)
 * ACCESSORIES
     
     * [All](https://www.sidemenclothing.com/collections/accessories)
+    * [Golf](https://www.sidemenclothing.com/collections/golf)
     * [Youtooz](https://www.sidemenclothing.com/collections/youtooz)
     * [Sports](https://www.sidemenclothing.com/collections/sports)
     * [Headwear](https://www.sidemenclothing.com/collections/headwear/Headwear)
@@ -128,7 +126,17 @@ Open navigation menu [Open search](https://www.sidemenclothing.com/search)
     * [Car Freshener](https://www.sidemenclothing.com/collections/car-air-freshener)
     
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sdmn-digital-gift-card)
-* [SALE](https://www.sidemenclothing.com/collections/sale)
+* BLACK FRIDAY
+    
+    * [ALL](https://www.sidemenclothing.com/collections/black-friday)
+    * [20% AND ABOVE](https://www.sidemenclothing.com/collections/20-and-above)
+    * [40% AND ABOVE](https://www.sidemenclothing.com/collections/40-and-above)
+    * [60% AND ABOVE](https://www.sidemenclothing.com/collections/60-and-above)
+    * [HOODIES](https://www.sidemenclothing.com/collections/black-friday-hoodies)
+    * [T-SHIRTS](https://www.sidemenclothing.com/collections/black-friday-t-shirts)
+    * [JACKETS](https://www.sidemenclothing.com/collections/black-friday-jackets)
+    * [ACCESSORIES](https://www.sidemenclothing.com/collections/black-friday-accessories)
+    
 
 [Sidemen Clothing ![](//sidemenclothing.com/cdn/shop/files/NavigationClassicLogoWhite_7816ce09-0cd7-407b-9e6d-ba2a13b53178.webp?v=1704293088&width=2000)](https://www.sidemenclothing.com/) 
 
@@ -149,7 +157,7 @@ Country
 * CLOTHING
 * ACCESSORIES
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sdmn-digital-gift-card)
-* [SALE](https://www.sidemenclothing.com/collections/sale)
+* BLACK FRIDAY
 
 USD $
 
@@ -160,6 +168,7 @@ Country
 [Account](https://www.sidemenclothing.com/account)
 
 * COLLECTIONS
+* [W2S Birthday](https://www.sidemenclothing.com/collections/w2s-birthday)
 * [AW24 Space](https://www.sidemenclothing.com/collections/space)
 * [Sidemen Originals](https://www.sidemenclothing.com/collections/originals)
 * [SDMN x TMNT](https://www.sidemenclothing.com/collections/sdmn-x-tmnt)
@@ -173,11 +182,7 @@ Country
 * [Blueprint](https://www.sidemenclothing.com/collections/blueprint)
 * [Imperial Varsity](https://www.sidemenclothing.com/collections/imperial-varsity)
 * [Graffiti](https://www.sidemenclothing.com/collections/graffiti)
-* [Activewear](https://www.sidemenclothing.com/collections/xix-activewear)
 * [SDMN x SpongeBob](https://www.sidemenclothing.com/collections/sdmn-x-spongebob)
-* [Varsity](https://www.sidemenclothing.com/collections/varsity)
-* [Nitro](https://www.sidemenclothing.com/collections/nitro)
-* [Colour Block](https://www.sidemenclothing.com/collections/colour-block)
 
 * CLOTHING
 * [All](https://www.sidemenclothing.com/collections/clothing)
@@ -190,6 +195,7 @@ Country
 
 * ACCESSORIES
 * [All](https://www.sidemenclothing.com/collections/accessories)
+* [Golf](https://www.sidemenclothing.com/collections/golf)
 * [Youtooz](https://www.sidemenclothing.com/collections/youtooz)
 * [Sports](https://www.sidemenclothing.com/collections/sports)
 * [Headwear](https://www.sidemenclothing.com/collections/headwear/Headwear)
@@ -203,6 +209,16 @@ Country
 * [Phone](https://www.sidemenclothing.com/collections/phone-cases)
 * [Key Rings](https://www.sidemenclothing.com/collections/key-rings)
 * [Car Freshener](https://www.sidemenclothing.com/collections/car-air-freshener)
+
+* BLACK FRIDAY
+* [ALL](https://www.sidemenclothing.com/collections/black-friday)
+* [20% AND ABOVE](https://www.sidemenclothing.com/collections/20-and-above)
+* [40% AND ABOVE](https://www.sidemenclothing.com/collections/40-and-above)
+* [60% AND ABOVE](https://www.sidemenclothing.com/collections/60-and-above)
+* [HOODIES](https://www.sidemenclothing.com/collections/black-friday-hoodies)
+* [T-SHIRTS](https://www.sidemenclothing.com/collections/black-friday-t-shirts)
+* [JACKETS](https://www.sidemenclothing.com/collections/black-friday-jackets)
+* [ACCESSORIES](https://www.sidemenclothing.com/collections/black-friday-accessories)
 
 0
 
@@ -219,7 +235,7 @@ NAVIGATION BAR
 * [CLOTHING](https://www.sidemenclothing.com/collections/clothing)
 * [ACCESSORIES](https://www.sidemenclothing.com/collections/accessories)
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sdmn-digital-gift-card)
-* [SALE](https://www.sidemenclothing.com/collections/sale)
+* [BLACK FRIDAY](https://www.sidemenclothing.com/collections/black-friday)
 
 Terms & Conditions
 ==================
