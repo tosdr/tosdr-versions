@@ -278,15 +278,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The most Ordinary Wizarding Levels a witch or wizard can receive is 12.
+Ginny Weasley’s full first name is Ginevra, not Virginia.
 
 ### Potter History
 
-January 17, 2005 – Rumors surfaced of a Harry Potter-themed restaurant, but they were quickly denied.
+June 23, 2011 – Pottermore was announced in a YouTube video.
 
 ### Potter Quote
 
-“Tina, you brought men home.”
+“You’ve picked the losing side, Potter! I warned you! I told you you ought to choose your company more carefully, remember? When we met on the train, first day at Hogwarts? I told you not to hang around with riffraff like this!”
 
 [](#)
 
