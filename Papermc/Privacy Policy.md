@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 11,044
+* 11,063
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,704
+* 8,706
 * 6
 
 ### The 1.20.5/6 Update​
@@ -302,7 +302,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 18,530
+* 18,534
 * 11
 
 Announcing the end of life of Waterfall​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 27,872
+* 27,890
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 9,053
+* 9,054
 * 1
 
 ### The 1.20.4 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,262
+* 14,263
 * 9
 
 ### The 1.20(.1) Update​
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,547
+* 8,548
 * 3
 
 ### The 1.19.4 Update​
@@ -1051,7 +1051,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,202
+* 15,206
 * 1
 
 ### The 1.19.1 Update​
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,822
+* 37,825
 * 18
 
 ### The 1.19 Update​
@@ -1318,7 +1318,7 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 22 (members: 0, guests: 22)
+Total: 20 (members: 1, guests: 19)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1362,7 +1362,7 @@ Replies
 
 Views
 
-74
+75
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Monday at 8:11 PM](https://papermc.io/threads/generate-a-dimension-with-a-set-list-of-biomes.1444/latest)
 
@@ -1386,7 +1386,7 @@ Replies
 
 Views
 
-86
+89
 
 [Help](https://papermc.io/forums/paper-help/) [Monday at 4:48 PM](https://papermc.io/threads/error-when-trying-to-start-papermc-jar.1443/latest)
 
@@ -1408,7 +1408,7 @@ Replies
 
 Views
 
-76
+77
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 17, 2024](https://papermc.io/threads/error-when-connection-to-mongodb-database.1442/latest)
 
@@ -1432,7 +1432,7 @@ Replies
 
 Views
 
-189
+190
 
 [Help](https://papermc.io/forums/paper-help/) [Nov 14, 2024](https://papermc.io/threads/how-do-i-set-up-groups-so-that-i-cant-make-changes-to-a-higher-ranked-group-paper-1-21-1-luckperms.1435/latest)
 
@@ -1547,7 +1547,7 @@ Replies
 
 Views
 
-131
+132
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 9, 2024](https://papermc.io/threads/mockbukkit-a-testing-framework-for-minecraft-plugins.1438/latest)
 
