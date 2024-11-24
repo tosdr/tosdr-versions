@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/onderzoekers-er-sterven-wel-degelijk-mensen-na-vaccinaties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/van-slachtbank-naar-catwalk/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
