@@ -34,9 +34,9 @@ Navigation
         
         #### [Power outage restoration timeline pushed back for some PSE customers](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
         
-    *  [![](https://media.king5.com/assets/KING/images/51da3cae-951c-476f-97ee-489ad83d7cef/20241123T184708/51da3cae-951c-476f-97ee-489ad83d7cef_16x9.jpg) ![](https://media.king5.com/assets/KING/images/51da3cae-951c-476f-97ee-489ad83d7cef/20241123T184708/51da3cae-951c-476f-97ee-489ad83d7cef_360x203.jpg)](https://www.king5.com/article/money/business/small-business/shopping-local-holiday-gifts-millions-revenue-washington-state/281-b2fe5a2d-eb51-4447-8dbc-53ce0d53bcd8)
+    *  [![](https://media.king5.com/assets/KGW/images/d4d2edd8-e5ab-4ed7-ab08-d6538c78e139/20241123T022553/d4d2edd8-e5ab-4ed7-ab08-d6538c78e139_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/d4d2edd8-e5ab-4ed7-ab08-d6538c78e139/20241123T022553/d4d2edd8-e5ab-4ed7-ab08-d6538c78e139_360x203.jpg)](https://www.king5.com/article/news/local/i205-overpass-cinder-blocks-thrown-cars-damage/283-13babad0-4db6-4790-917c-a5b930f661dd)
         
-        #### [Shopping local for holiday gifts could mean millions in added revenue in Washington state](https://www.king5.com/article/money/business/small-business/shopping-local-holiday-gifts-millions-revenue-washington-state/281-b2fe5a2d-eb51-4447-8dbc-53ce0d53bcd8)
+        #### [Cars damaged by concrete blocks thrown off I-205 in Vancouver](https://www.king5.com/article/news/local/i205-overpass-cinder-blocks-thrown-cars-damage/283-13babad0-4db6-4790-917c-a5b930f661dd)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-51°
+46°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
