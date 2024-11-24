@@ -2,8 +2,6 @@
 
 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27208%27%20height=%2748%27/%3e)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
 ![](https://blocksite.co/wp-content/uploads/2023/12/blocksite-icon.5d769676.svg)](https://blocksite.co/)
 
 [![blocksite logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -20,8 +18,6 @@
         * * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
                 
                 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e)
-                
-                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
                 
                 ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
                 
@@ -40,8 +36,6 @@
                 
                 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27186%27%20height=%27174%27/%3e)
                 
-                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-                
                 ![](https://blocksite.co/wp-content/uploads/2024/02/green-woman.avif)
                 
                 Find out why our customers love us
@@ -56,8 +50,6 @@
         * * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
                 
                 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e)
-                
-                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
                 
                 ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
                 
@@ -131,8 +123,6 @@
                 
                 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e)
                 
-                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-                
                 ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
                 
                 Try our desktop app and block on multiple browser at once
@@ -150,8 +140,6 @@
                 
                 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27186%27%20height=%27174%27/%3e)
                 
-                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-                
                 ![](https://blocksite.co/wp-content/uploads/2024/02/green-woman.avif)
                 
                 Find out why our customers love us
@@ -166,8 +154,6 @@
         * * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
                 
                 ![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27187%27%20height=%27174%27/%3e)
-                
-                ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
                 
                 ![](https://blocksite.co/wp-content/uploads/2024/02/blue-man.avif)
                 
@@ -317,11 +303,7 @@ In order to enhance and further develop the Product and Service we may automatic
 
 If you have any questions about these terms, or wish to report violators of this Agreement, contact support@blocksite.co.
 
-![Close](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
 ![Close](https://blocksite.co/wp-content/themes/blocksite/assets/images/close-icon-dark.svg)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
 ![](https://blocksite.co/wp-content/uploads/2024/03/cookies.svg)
 
