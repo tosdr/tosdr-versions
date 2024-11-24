@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to create a mirror backup](https://www.backup4all.com/how-to-create-a-mirror-backup-kb.html)  
+* [How to backup your data to Minio](https://www.backup4all.com/how-to-backup-your-data-to-minio-kb.html)  
     
-* [How to backup your data to Hitachi](https://www.backup4all.com/how-to-backup-your-data-to-hitachi-kb.html)  
+* [How “Smart file scanning mode” works in B ...](https://www.backup4all.com/how-smart-file-scanning-mode-works-in-backup4all-kb.html)  
     
-* [How to backup your data to Cloudian](https://www.backup4all.com/how-to-backup-your-data-to-cloudian-kb.html)  
+* [How to backup your data to Box](https://www.backup4all.com/how-to-backup-your-data-to-box-kb.html)  
     
-* [How to move a backup from a failing hard driv ...](https://www.backup4all.com/how-to-move-a-backup-from-a-failing-hard-drive-to-a-new-one-kb.html)  
+* [How to back up files from Google Cloud Storag ...](https://www.backup4all.com/how-to-back-up-files-from-google-cloud-storage-with-backup4all-kb.html)  
     
-* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
+* [FTP backup](https://www.backup4all.com/ftp-backup-kb.html)  
     
 
 Choose language:
