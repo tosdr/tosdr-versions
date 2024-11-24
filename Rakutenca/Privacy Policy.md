@@ -25,7 +25,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/joe-fresh-canada)[Carter’s OshKosh B’gosh
         
-        4% Cash Back](https://www.rakuten.ca/carters-oshkosh-bgosh)[Baby Gap
+        2% Cash Back](https://www.rakuten.ca/carters-oshkosh-bgosh)[Baby Gap
         
         2% Cash Back](https://www.rakuten.ca/baby-gap)[Gymboree
         
@@ -95,7 +95,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/simons)[Gap Canada
         
-        6% Cash Back](https://www.rakuten.ca/gap-canada)
+        2% Cash Back](https://www.rakuten.ca/gap-canada)
         
         Featured Shops & Deals
         
@@ -285,11 +285,11 @@ FR
         
         Recommended Stores
         
-        [SkinCeuticals Canada
+        [Clinique
         
-        6% Cash Back](https://www.rakuten.ca/skinceuticals)[Clinique
+        6% Cash Back](https://www.rakuten.ca/clinique)[SkinCeuticals Canada
         
-        6% Cash Back](https://www.rakuten.ca/clinique)[Aveda
+        6% Cash Back](https://www.rakuten.ca/skinceuticals)[Aveda
         
         3% Cash Back](https://www.rakuten.ca/aveda)[Clearly
         
@@ -692,7 +692,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores.png)](https://www.rakuten.ca/new-stores)
+[![Earn 20% Cash Back from Rakuten.ca with HP Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303021/en-stickyfooter-1170x60_hp-.png "HP Canada Coupons, Promo Codes")
+
+was 2%, now
+
+20% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/hp-canada?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
