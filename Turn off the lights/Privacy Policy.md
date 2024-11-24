@@ -1,12 +1,10 @@
-[Please use and enjoy it, and if you can make a donation of any amount, we'd appreciate it immensely](https://www.turnoffthelights.com/privacy/donate.html)
-
 Privacy Policy
 ==============
 
 * [Privacy Policy (short version)](#shortprivacy)
 * [Privacy Policy (long version)](#longprivacy)
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This privacy policy should be read alongside, and in addition to, our Terms and Conditions, which can be found at: [Turn Off the Lights Terms of Service](https://www.turnoffthelights.com/privacy/terms-of-service.html).
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. This privacy policy should be read alongside, and in addition to, our Terms and Conditions, which can be found at: [Turn Off the Lights Terms of Service](https://www.turnoffthelights.com/terms-of-service/).
 
   
 
