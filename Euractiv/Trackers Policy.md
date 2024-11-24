@@ -109,7 +109,11 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 Most recent
 -----------
 
-[23-11-2024
+[24-11-2024
+
+Hard right’s Simion in with a chance as Romanians vote for president](https://www.euractiv.com/section/politics/news/hard-rights-simion-in-with-a-chance-as-romanians-vote-for-president/)[24-11-2024
+
+Developing nations blast $300 billion COP29 climate deal as insufficient](https://www.euractiv.com/section/eet/news/developing-nations-blast-300-billion-cop29-climate-deal-as-insufficient/)[23-11-2024
 
 Warsaw Mayor runs for Polish president as ruling party’s candidate](https://www.euractiv.com/section/politics/news/warsaw-mayor-runs-for-polish-president-as-ruling-partys-candidate/)[23-11-2024
 
@@ -125,11 +129,7 @@ Europe’s broken food system, time to finance resilient and sustainable food sy
 
 Businesses urge EU to become more like the US](https://www.euractiv.com/section/economy-jobs/news/businesses-urge-eu-to-become-more-like-the-us/)[22-11-2024
 
-EU regulators scrap probe into Apple’s e-book rules after complaint was withdrawn](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L8N3MT0SC:569717771)[22-11-2024
-
-Hungarian presidency secures full Schengen membership for Bulgaria, Romania](https://www.euractiv.com/section/politics/news/hungarian-presidency-secures-full-schengen-membership-for-bulgaria-romania/)[22-11-2024
-
-Hungary seeks organ transplant increase, boost to organ recipient life quality and reduced stigma](https://www.euractiv.com/section/health-consumers/news/hungary-seeks-organ-transplant-increase-boost-to-organ-recipient-life-quality-and-reduced-stigma/)
+EU regulators scrap probe into Apple’s e-book rules after complaint was withdrawn](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L8N3MT0SC:569717771)
 
 ###### Advertisement
 
