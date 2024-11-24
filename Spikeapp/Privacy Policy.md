@@ -58,12 +58,12 @@
             * [Download Spike for WindowsUse Spike from anywhere – on any device](https://www.spikenow.com/downloads/windows/ "Download Spike for Windows")
             * [Download Spike for MacUse Spike from anywhere – on any device](https://www.spikenow.com/downloads/mac/ "Download Spike for Mac")
 * [Book a demo](https://www.spikenow.com/contact-sales/ "Book a demo")
-* [Sign in](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fprivacy-policy%252F "Sign in")
+* [Sign in](https://spikenow.com/r/a/?ref=google-unknown&lastPageUrl=%252Fprivacy-policy%252F "Sign in")
 * [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload "Download Spike")
 
-[Sign in Spike Web App version](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fprivacy-policy%252F "Click for the Sign In page")
+[Sign in Spike Web App version](https://spikenow.com/r/a/?ref=google-unknown&lastPageUrl=%252Fprivacy-policy%252F "Click for the Sign In page")
 
-[Book a Demo](https://www.spikenow.com/contact-sales) [Get Started Free](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fprivacy-policy%252F) [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload)
+[Book a Demo](https://www.spikenow.com/contact-sales) [Get Started Free](https://spikenow.com/r/a/?ref=google-unknown&lastPageUrl=%252Fprivacy-policy%252F) [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload)
 
 Privacy Policy
 ==============
@@ -86,7 +86,7 @@ Here’s a little more detail on each of these categories:
 
 The Site collects personal information when you register with Spike, when you use the Service and when you visit Spike’s pages. Information which you submit to Spike during registration or performance of other actions at Spike, or when you use the Service may be recorded in Spike’s designated database (the **“Database”**).
 
-When you use our Services we collect personal data about you, as described below. The term “**Personal Data**” means any data that enables a person to be identified. We collect Personal Data that you provide to us when you purchase our Service and register for a Spike account, such as your family name, first name, profile photo, postal address, email address, telephone numbers, date of birth, data relating to your transactions on the Websites, detail of your orders and subscriptions, payment information, such as payment card details (collected by our payment service provider), and any other information about you that you choose to provide us with. Alternatively, Spike may offer you to log in through a third party provider, e.g. using your Facebook account, in which case the terms and privacy policy of such third party service may apply.
+When you use our Services we collect personal data about you, as described below. The term “**Personal Data**” means any data that enables a person to be identified. We collect Personal Data that you provide to us when you purchase our Service and register for a Spike account, such as your family name, first name, profile photo, postal address, [email address](https://www.spikenow.com/blog/productivity/email-address-ideas/), telephone numbers, date of birth, data relating to your transactions on the Websites, detail of your orders and subscriptions, payment information, such as payment card details (collected by our payment service provider), and any other information about you that you choose to provide us with. Alternatively, Spike may offer you to log in through a third party provider, e.g. using your Facebook account, in which case the terms and privacy policy of such third party service may apply.
 
 When you visit our Website, our servers record information, including information that your browser automatically sends whenever you visit the Website. This log data includes your Internet Protocol address (from which we understand the country you are connecting from at the time you visit the Site), browser type and settings, the date and time of your request.
 
