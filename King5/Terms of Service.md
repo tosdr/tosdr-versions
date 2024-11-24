@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/da7ff163-7307-4a28-97b6-bc4756ef5c01/20241124T061248/da7ff163-7307-4a28-97b6-bc4756ef5c01_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da7ff163-7307-4a28-97b6-bc4756ef5c01/20241124T061248/da7ff163-7307-4a28-97b6-bc4756ef5c01_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/enumclaw-nightmare-stolen-generator-used-to-power-ailing-mothers-oxygen-machine/281-48b24bc7-2ec1-4ec3-962d-f87a3e337863)
+    *  [![](https://media.king5.com/assets/KING/images/d258746f-a1cf-4ad1-b99e-fd19f2d07865/20241124T184348/d258746f-a1cf-4ad1-b99e-fd19f2d07865_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d258746f-a1cf-4ad1-b99e-fd19f2d07865/20241124T184348/d258746f-a1cf-4ad1-b99e-fd19f2d07865_360x203.jpg)](https://www.king5.com/article/news/local/seattle/capitol-hill-qfc-evacuated-after-fire-breaks-out-in-garage/281-b8ade6b2-63a7-4329-b9fa-1f686a30d2a6)
         
-        #### [Enumclaw man describes 'nightmare' of stolen generator used to power ailing mother's oxygen machine](https://www.king5.com/article/weather/severe-weather/enumclaw-nightmare-stolen-generator-used-to-power-ailing-mothers-oxygen-machine/281-48b24bc7-2ec1-4ec3-962d-f87a3e337863)
+        #### [Capitol Hill QFC evacuated after fire breaks out in garage](https://www.king5.com/article/news/local/seattle/capitol-hill-qfc-evacuated-after-fire-breaks-out-in-garage/281-b8ade6b2-63a7-4329-b9fa-1f686a30d2a6)
         
-    *  [![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3f168775-087b-4299-a71f-f8453dda9c7f/20241122T131815/3f168775-087b-4299-a71f-f8453dda9c7f_360x203.jpg)](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
+    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-impacto-tormentas-de-viento/281-346bf558-59cb-44c6-bb26-595da672b22c)
         
-        #### [Power outage restoration timeline pushed back for some PSE customers](https://www.king5.com/article/weather/weather-impact/pse-m-power-outage-restoration-timeline/281-8dcaaee4-dbcc-4a02-85f0-55de0ccc1157)
+        #### [Cinco Cosas: Impacto de las tormentas de viento, más tráfico durante Día de Acción de Gracias](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-impacto-tormentas-de-viento/281-346bf558-59cb-44c6-bb26-595da672b22c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,18 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
-        
-        #### [Forecasts warn of possible winter storms across US during Thanksgiving week](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971) [![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
-        
-        #### [Thanksgiving week could be rainy, cold this year](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971) [![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
-        
-        #### [Storms possible across the US for Thanksgiving week](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971) [![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
-        
-        #### [Planning trips for Thanksgiving? Prepare for rain](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
     *  [![](https://media.king5.com/assets/KING/images/7e86b805-0592-4ef1-b737-c4d977d53d13/20241124T043420/7e86b805-0592-4ef1-b737-c4d977d53d13_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7e86b805-0592-4ef1-b737-c4d977d53d13/20241124T043420/7e86b805-0592-4ef1-b737-c4d977d53d13_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
+        
+        #### [Forecasts warn of possible winter storms across US during Thanksgiving week](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -99,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-43°
+47°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
