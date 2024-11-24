@@ -2,7 +2,11 @@
 
 Previous
 
-[Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
+[Enjoy 30% off sitewide. Exclusions apply.\* Shop now.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
+
+[40% select beauty favorites. Shop now.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
+
+[Create your own 5-piece mini set on $80+. No code needed.](https://www.bobbibrowncosmetics.com/offers-landing-page)
 
 Enjoy Free Standard Shipping on any $65+ order.
 
@@ -284,7 +288,9 @@ Special offers
 
 [See Today's Offer](https://www.bobbibrowncosmetics.com/offers-landing-page "See Today's Offer")
 
-[Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
+[Shop 30% off Sitewide](https://www.bobbibrowncosmetics.com/products/14358/best-sellers "Shop 30% off Sitewide")
+
+[40% off Select Favorites](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "40% off Select Favorites")
 
 [Auto Replenishment](https://www.bobbibrowncosmetics.com/products/15597/makeup/auto-replenishment "Auto Replenishment")
 
