@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry and Strabane Council issues update on services in relation to Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry and Strabane Council issues update on services in relation to Storm Bert")](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry and Strabane Council issues update on services in relation to Storm Bert](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -273,21 +266,30 @@ Most Popular
 [Derry Death Notices - Sunday, November 24, 2024](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Second half goals deny Craigbane Ulster title at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Second half goals deny Craigbane Ulster title at Celtic Park")](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
+[![Police investigating reported arson attack in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating reported arson attack in Derry")](https://www.derrynow.com/news/local-news/1663680/police-investigating-reported-arson-attack-in-derry.html)
 
-There was devastation for Craigbane in the Ulster final at Celtic Park. Pic by Tom Heaney, nwpresspics
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police investigating reported arson attack in Derry](https://www.derrynow.com/news/local-news/1663680/police-investigating-reported-arson-attack-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
+
+Ciaran Coll's time at Derry City looks to have come to an end.
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Second half goals deny Craigbane Ulster title at Celtic Park](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ciaran Coll set to leave Derry City to join Glentoran](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Clean-up begins after Storm Bert as thousands still left without power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clean-up begins after Storm Bert as thousands still left without power")](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
+[![PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone")](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[PSNI urge Derry motorists to remember Fatal Five rules to help make roads safer for everyone](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Historic Derry Funeral Directors aid organisations with Community Assistance Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Historic Derry Funeral Directors aid organisations with Community Assistance Awards")](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
 
@@ -298,13 +300,6 @@ Kathleen Bradley, Grants & Foundations Fundraiser, Michelle Kosky, Children’s 
 [Historic Derry Funeral Directors aid organisations with Community Assistance Awards](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Storm Bert: Wind warnings in place in several counties across island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Storm Bert: Wind warnings in place in several counties across island of Ireland")](https://www.derrynow.com/news/northern-ireland/1663463/storm-bert-wind-warnings-in-place-in-several-counties-across-island-of-ireland.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Storm Bert: Wind warnings in place in several counties across island of Ireland](https://www.derrynow.com/news/northern-ireland/1663463/storm-bert-wind-warnings-in-place-in-several-counties-across-island-of-ireland.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime")](https://www.derrynow.com/news/northern-ireland/1663508/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
@@ -312,26 +307,33 @@ Kathleen Bradley, Grants & Foundations Fundraiser, Michelle Kosky, Children’s 
 [Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/news/northern-ireland/1663508/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Storm Bert: Wind warnings in place in several counties across island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Storm Bert: Wind warnings in place in several counties across island of Ireland")](https://www.derrynow.com/news/northern-ireland/1663463/storm-bert-wind-warnings-in-place-in-several-counties-across-island-of-ireland.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Storm Bert: Wind warnings in place in several counties across island of Ireland](https://www.derrynow.com/news/northern-ireland/1663463/storm-bert-wind-warnings-in-place-in-several-counties-across-island-of-ireland.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Campaigners demand immediate action after 8% rise in suicides](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Campaigners demand immediate action after 8% rise in suicides")](https://www.derrynow.com/news/local-news/1663605/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Campaigners demand immediate action after 8% rise in suicides](https://www.derrynow.com/news/local-news/1663605/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime")](https://www.derrynow.com/news/local-news/1663606/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/news/local-news/1663606/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![New wind warning issued as Storm Bert threatens ‘danger to life’ flooding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New wind warning issued as Storm Bert threatens ‘danger to life’ flooding")](https://www.derrynow.com/news/northern-ireland/1663465/new-wind-warning-issued-as-storm-bert-threatens-danger-to-life-flooding.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
 [New wind warning issued as Storm Bert threatens ‘danger to life’ flooding](https://www.derrynow.com/news/northern-ireland/1663465/new-wind-warning-issued-as-storm-bert-threatens-danger-to-life-flooding.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![London urged to restrict gambling advertising in Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "London urged to restrict gambling advertising in Northern Ireland")](https://www.derrynow.com/news/northern-ireland/1663512/lisa-nandy-urged-to-restrict-gambling-advertising-in-northern-ireland.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Lisa Nandy urged to restrict gambling advertising in Northern Ireland](https://www.derrynow.com/news/northern-ireland/1663512/lisa-nandy-urged-to-restrict-gambling-advertising-in-northern-ireland.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Campaigners demand immediate action after 8% rise in suicides](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Campaigners demand immediate action after 8% rise in suicides")](https://www.derrynow.com/news/northern-ireland/1663536/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Campaigners demand immediate action after 8% rise in suicides](https://www.derrynow.com/news/northern-ireland/1663536/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -509,53 +511,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone")](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1663740/ruaidhri-higgins-i-thought-i-was-being-brave-being-strong-and-showing-leadership-but-ultimately-i-was-wrong.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[PSNI urge Derry motorists to remember Fatal Five rules to help make roads safer for everyone](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Historic Derry Funeral Directors aid organisations with Community Assistance Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Historic Derry Funeral Directors aid organisations with Community Assistance Awards")](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
-
-Kathleen Bradley, Grants & Foundations Fundraiser, Michelle Kosky, Children’s & Young Person’s Facilitator from Foyle Hospice with Funeral Home Manager Wayne Glenn.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Historic Derry Funeral Directors aid organisations with Community Assistance Awards](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, November 24, 2024](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Second half goals deny Craigbane Ulster title at Celtic Park](https://www.derrynow.com/resizer/165/93/true/2024_11_23/GAA_Ulster_Junior_Cup_final_Craigbane_v_Naomh_Padraig__7-1732386028201.jpg--.jpg?1732386028821 "Second half goals deny Craigbane Ulster title at Celtic Park")](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
-
-There was devastation for Craigbane in the Ulster final at Celtic Park. Pic by Tom Heaney, nwpresspics
+Ruaidhri Higgins has been reflecting on his time as Derry City manager.
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Second half goals deny Craigbane Ulster title at Celtic Park](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ruaidhri Higgins: "I thought I was being brave, being strong and showing leadership, but ultimately I was wrong"](https://www.derrynow.com/news/derry-sport/1663740/ruaidhri-higgins-i-thought-i-was-being-brave-being-strong-and-showing-leadership-but-ultimately-i-was-wrong.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry and Strabane Council issues update on services in relation to Storm Bert](https://www.derrynow.com/resizer/165/93/true/2024_11_23/IMG_5929-1732382098056.jpg--.jpg?1732382098533 "Derry and Strabane Council issues update on services in relation to Storm Bert")](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
+
+Ciaran Coll's time at Derry City looks to have come to an end.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ciaran Coll set to leave Derry City to join Glentoran](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigating reported arson attack in Derry](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police investigating reported arson attack in Derry")](https://www.derrynow.com/news/local-news/1663680/police-investigating-reported-arson-attack-in-derry.html)
+
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry and Strabane Council issues update on services in relation to Storm Bert](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
+[Police investigating reported arson attack in Derry](https://www.derrynow.com/news/local-news/1663680/police-investigating-reported-arson-attack-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![MacD on Music: Two's Company - Laytha](https://www.derrynow.com/resizer/165/93/true/2024_11_22/Press_Photo_Two_s_company_30223330-1732286266287_1732286283.jpg--.jpg?1732286283263 "MacD on Music: Two's Company - Laytha")](https://www.derrynow.com/news/what-s-on/1662377/macd-on-music-two-s-company-laytha.html)
+
+Laytha is made up of cousins Niamh Carney and Philana Nolan. Their latest EP ‘Daphne' is out now
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[MacD on Music: Two's Company - Laytha](https://www.derrynow.com/news/what-s-on/1662377/macd-on-music-two-s-company-laytha.html)
+--------------------------------------------------------------------------------------------------------------------------------
+
+[![Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_24/1732446302362_0.jpg--.jpg?1732446302465 "Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime")](https://www.derrynow.com/news/local-news/1663606/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/news/local-news/1663606/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Requiem Mass for popular Derry-born priest Fr William John Bradley](https://www.derrynow.com/resizer/165/93/true/2024_11_22/IDNT_21-11-24_John_Bradley_30218845-1732282035724_1732282053.jpg--.jpg?1732282053854 "Requiem Mass for popular Derry-born priest Fr William John Bradley")](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
-
-The late Fr John Bradley.
+[![Campaigners demand immediate action after 8% rise in suicides](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_24/1732447514601_0.jpg--.jpg?1732447514668 "Campaigners demand immediate action after 8% rise in suicides")](https://www.derrynow.com/news/local-news/1663605/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Requiem Mass for popular Derry-born priest Fr William John Bradley](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Campaigners demand immediate action after 8% rise in suicides](https://www.derrynow.com/news/local-news/1663605/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
