@@ -973,7 +973,7 @@ EHGLogo](https://www.everydayhealthgroup.com/ "Everyday Health Group")
 * Health Hubs
 * [All Health Topics](https://www.everydayhealth.com/all-health-topics/)
 * [Popular Topics](https://www.everydayhealth.com/most-popular/)
-* [Drugs & Supplements](https://www.everydayhealth.com/drugs/)
+* [Drugs & Supplements](https://www.everydayhealth.com/all-drugs-supplements/)
 * [Sitemap](https://www.everydayhealth.com/sitemap/)
 * AdChoices![AdChoice](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
     
