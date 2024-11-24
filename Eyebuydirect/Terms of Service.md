@@ -32,13 +32,13 @@
     
     ![Black Friday Sale](https://img.ebdcdn.com/cms/BF_2d20869d15.jpg?q=85&seo=black-friday-sale)
     
-    Black Friday Sale](https://www.eyebuydirect.com/offers "Black Friday Sale")[![Under $50](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Black Friday Sale](https://www.eyebuydirect.com/offers "Black Friday Sale")[![Designer Sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Under $50](https://img.ebdcdn.com/cms/UNDER_50_c0078d4cf9.jpg?q=85&seo=under-$50)
+    ![Designer Sale](https://img.ebdcdn.com/cms/db_promo_updated_1fcec64a4a.jpg?q=85&seo=designer-sale)
     
-    Under $50](https://www.eyebuydirect.com/campaign/glasses-20-49 "Under $50")[![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Designer Sale](https://www.eyebuydirect.com/campaign/brands-promo?coupon=hauliday "Designer Sale")[![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Best Sellers](https://img.ebdcdn.com/cms/BEST_seller_update_ea4098f551.jpg?q=85&seo=best-sellers)
+    ![Best Sellers](https://img.ebdcdn.com/cms/BEST_2_5364e84f7d.jpg?q=85&seo=best-sellers)
     
     Best Sellers](https://www.eyebuydirect.com/collections/best-sellers "Best Sellers")
     
