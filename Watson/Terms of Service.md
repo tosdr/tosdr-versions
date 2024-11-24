@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)5°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)3°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,25 +55,25 @@
 Thèmes du moment
 
 * [Santé](https://www.watson.ch/fr/sante/)
-* [Musique](https://www.watson.ch/fr/musique/)
 * [Assurance maladie](https://www.watson.ch/fr/assurance-maladie/)
+* [Musique](https://www.watson.ch/fr/musique/)
 * [voiture](https://www.watson.ch/fr/voiture/)
+* [Immobilier](https://www.watson.ch/fr/immobilier/)
 * [Climat](https://www.watson.ch/fr/climat/)
 * [Jura](https://www.watson.ch/fr/jura/)
-* [Football](https://www.watson.ch/fr/football/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Genève](https://www.watson.ch/fr/geneve/)
 * [Israël](https://www.watson.ch/fr/israel/)
 * [Votation](https://www.watson.ch/fr/votation/)
 * [Argent](https://www.watson.ch/fr/argent/)
 * [Bâle](https://www.watson.ch/fr/bale/)
 * [Logement](https://www.watson.ch/fr/logement/)
+* [mort](https://www.watson.ch/fr/mort/)
 * [loyer](https://www.watson.ch/fr/loyer/)
 * [votations 2024](https://www.watson.ch/fr/votations-2024/)
 * [route](https://www.watson.ch/fr/route/)
 * [Interview](https://www.watson.ch/fr/interview/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [Vidéo](https://www.watson.ch/fr/video/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
