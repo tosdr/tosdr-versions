@@ -401,6 +401,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Helm’s 2 TD catches power No. 3 Texas over Kentucky 31-14 to keep Longhorns atop SEC](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2186546127.jpg?ve=1&tl=1)
+
+ ![Helm’s 2 TD catches power No. 3 Texas over Kentucky 31-14 to keep Longhorns atop SEC](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186546127.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/helms-2-td-catches-power-no-3-texas-over-kentucky-31-14-keep-longhorns-atop-sec)
+
+### [Helm’s 2 TD catches power No. 3 Texas over Kentucky 31-14 to keep Longhorns atop SEC](https://www.fox4news.com/sports/helms-2-td-catches-power-no-3-texas-over-kentucky-31-14-keep-longhorns-atop-sec)
+
  [![Jennings has 3 TDs as No. 13 SMU routs Virginia 33-7 to clinch a spot in the ACC title game](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185588519.jpg?ve=1&tl=1)
 
  ![Jennings has 3 TDs as No. 13 SMU routs Virginia 33-7 to clinch a spot in the ACC title game](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185588519.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/smu-routs-virginia-clinch-spot-acc-title-game)
@@ -424,12 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Arrest made in connection to Highland Park High School threat](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/592/333/highland-park.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arrest-made-connection-highland-park-high-school-threat)
 
 ### [Arrest made in connection to Highland Park High School threat](https://www.fox4news.com/news/arrest-made-connection-highland-park-high-school-threat)
-
- [![American tourist among those killed in mass alcohol poisoning in Laos](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1077773396-scaled.jpg?ve=1&tl=1)
-
- ![American tourist among those killed in mass alcohol poisoning in Laos](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1077773396-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mass-alcohol-poisoning-laos-american-killed)
-
-### [American tourist among those killed in mass alcohol poisoning in Laos](https://www.fox4news.com/news/mass-alcohol-poisoning-laos-american-killed)
 
 ###### [News](https://www.fox4news.com/news)
 
