@@ -367,18 +367,18 @@ We know it is frustrating for our customers and are working hard to reconcile th
 
 Our crews will continue to work around the clock until the last customer is restored.
 
-[Storm alert Updated Nov 23, 10:00 AM](#collapseOne)  
+[Storm alert Updated Nov 23, 6:00 PM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-##### Customer Updates
+##### Update for customers
 
-As of 10 a.m., 85,000 customers remain without power, and more than 150 crews will be in the field today working to restore power. We will be prioritizing bringing the remaining schools back online and moving from neighborhood to neighborhood to repair distribution-level outages. We added more new crews overnight and also have crews wrapping up restoration efforts in other parts of our service area moving in to provide additional support to King County.
+Crews were out in full force today, focusing on the neighborhood distribution lines that serve smaller pockets of customers. They are reporting additional damage at many locations, which will need to be repaired as well. Much of this work is time-consuming and slow-going, as it requires extensive work yet restores power in much smaller numbers, such as to 5, 10, or 20 customers at a time.
 
-Crews made steady progress restoring power to customers overnight. Since the onset of the storm, we’ve restored power to more than 570,000 customers and brought all hospitals back online. We have nearly completed work on our high-voltage transmission system and repaired 47 of 49 substations – this work was necessary to complete so that power can reach your community.
+As more and more neighborhoods are energized, some customers may feel like they are being left in the dark. If you’re seeing neighbors with their power on, it’s likely that they’re served by a different circuit that has been restored.
 
-While we’re making progress, the substantial amount of damage we are encountering from the hurricane force winds of the storm has made our work slower than expected, and we had to push back estimated restoration times for customers yesterday evening. We know that you are disappointed to be without power for this extended period. We appreciate your patience—we are working as hard as we can to restore your power as quickly as possible.
+We know many of you are wondering what is happening in your area. As crews get onsite, they will be entering more specific information about restoration times on the outage map. This may take time as we still have nearly 900 locations with damage.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
