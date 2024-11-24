@@ -429,15 +429,47 @@ We have something for everyone - Give the gift of Atari.
 
 SHOP NOW](https://www.atari.com/pages/holiday-gift-guides)
 
-### BEST SELLERS
+### BLACK FRIDAY DEALS
+
+[![Black Friday Exclusive: 2600+ Console w/ 2 Joysticks](files/2600_ControllerBundle_0136b687-8712-447b-b24a-dda916f8eb13.jpg)
+
+![Black Friday Exclusive: 2600+ Console w/ 2 Joysticks](files/ProductImage-C_ef1ac744-f63c-41f7-bed1-651965e40fa5.jpg)
+
+Add to cart
+
+Black Friday Deal
+
+##### Black Friday Exclusive: 2600+ Console w/ 2 Joysticks
+
+Regular price $154.98 Sale price $131.73
+
+Regular price $131.73
+
+Unit price /  per](https://www.atari.com/products/black-friday-deal-2600-console-w-2-joysticks) 
+
+[![Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/7800_ControllerBundle.jpg)
+
+![Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/Atari_10102024_257_b608435b-d8b4-4c1e-97e7-61e7c08ba8a5.jpg)
+
+Add to cart
+
+Black Friday Deal
+
+##### Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers
+
+Regular price $164.98 Sale price $131.98
+
+Regular price $131.98
+
+Unit price /  per](https://www.atari.com/products/black-friday-deal-7800-console-w-2-wireless-controllers) 
 
 [![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct1.jpg)
 
 ![Atari 7800+ Controller Mega Bundle](files/Atari_10102024_257_ca8b6865-86da-487e-b5a3-d9d9a58c483f.jpg)
 
-Pre-Order
+Add to cart
 
-PRE-ORDER
+15% OFF
 
 ##### Atari 7800+ Controller Mega Bundle
 
@@ -465,11 +497,13 @@ Add to cart
 
  3XL
 
+20% OFF
+
 ##### Oversized Fuji Hoodie
 
-Regular price Sale price $50.00
+Regular price $50 Sale price $40.00
 
-Regular price $50
+Regular price $40
 
 Unit price /  per](https://www.atari.com/products/oversized-fuji-hoodie)         
 
@@ -479,6 +513,8 @@ Unit price /  per](https://www.atari.com/products/oversized-fuji-hoodie)    �
 
 Add to cart
 
+15% OFF
+
 ##### Atari 2600+ Controller Mega Bundle
 
 Regular price $199.95 Sale price $169.95
@@ -487,75 +523,21 @@ Regular price $169.95
 
 Unit price /  per](https://www.atari.com/products/atari-2600-controller-mega-bundle) 
 
-[![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image1-291024-Dalia.jpg)
-
-![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
-
-Add to cart
-
-NEW
-
-##### Atari Joystick Decanter Set
-
-Regular price Sale price $125.00
-
-Regular price $125
-
-Unit price /  per](https://www.atari.com/products/atari-joystick-decanter-set) 
-
-[![Super Pocket Atari Edition](files/Image2-DualShotcopy.jpg)
-
-![Super Pocket Atari Edition](files/Image4-Lifestyle.png)
-
-Add to cart
-
-##### Super Pocket Atari Edition
-
-Regular price Sale price $59.99
-
-Regular price $59.99
-
-Unit price /  per](https://www.atari.com/products/super-pocket-atari-edition) 
-
 [![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Group.jpg)
 
 ![VCS All-In Bundle](files/Atari_VCS_Black_Walnut_02.jpg)
 
 Add to cart
 
+50% OFF
+
 ##### VCS All-In Bundle
 
-Regular price $239.97 Sale price $200.00
+Regular price $200 Sale price $99.99
 
-Regular price $200
+Regular price $99.99
 
 Unit price /  per](https://www.atari.com/products/atari-vcs-onyx-all-in)     
-
-[![Oversized Retro Tee](files/TeeTemplate-1_695b79bd-5f11-4215-8e0f-219415ecbad3.jpg)
-
-![Oversized Retro Tee](files/oversized-faded-t-shirt-faded-bone-front-670932c108482copy.jpg)
-
-Add to cart
-
- S
-
- M
-
- L
-
- XL
-
- 2XL
-
- 3XL
-
-##### Oversized Retro Tee
-
-Regular price $35 Sale price $35.00
-
-Regular price $35
-
-Unit price /  per](https://www.atari.com/products/oversized-retro-tee)         
 
 [![Classic Katakana Tee](files/AtariKatakanaLogoTee-2.jpg)
 
@@ -577,27 +559,31 @@ Add to cart
 
  4XL
 
+20% OFF
+
 ##### Classic Katakana Tee
 
-Regular price $28 Sale price $28.00
+Regular price $28 Sale price $22.40
 
-Regular price $28
+Regular price $22.40
 
 Unit price /  per](https://www.atari.com/products/atari-katakana-logo-tee)       
 
-[![Rollercoaster Tycoon Shadowbox Art (Signed Limited Edition)](files/rctarto-product-01-a.jpg)
+[![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
-![Rollercoaster Tycoon Shadowbox Art (Signed Limited Edition)](files/rctarto-product-02-c.jpg)
+![CX30+ Paddle Controller Bundle](files/Atari2023pt02_DSC00878.jpg)
 
 Add to cart
 
-##### Rollercoaster Tycoon Shadowbox Art (Signed Limited Edition)
+30% OFF
 
-Regular price Sale price $199.00
+##### CX30+ Paddle Controller Bundle
 
-Regular price $199
+Regular price $39.99 Sale price $27.99
 
-Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-25th-anniversary-shadowbox-art-limited-edition) 
+Regular price $27.99
+
+Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
 [![Atari VCS](files/Atari_VCS.jpg)
 
@@ -620,7 +606,7 @@ Atari 2600+
 
 Enjoy your favorite Atari 2600 and 7800 games on one system! Not only does the Atari 2600+ pull double cartridge duty, it also features HDMI and widescreen mode for easy connectivity to modern TVs.
 
-[Shop Now](https://www.atari.com/collections/atari-2600-plus)
+[Shop Now](https://www.atari.com/products/black-friday-deal-2600-console-w-2-joysticks)
 
 ![](files/image_70679709-4dae-40f9-a153-5713cf2f7e01.png)
 
@@ -631,7 +617,7 @@ Atari 7800+
 
 The new Atari 7800+ joins the ranks of such timeless design icons as shoulder pads, crop tops, and aviator sunglasses! Inspired by the original ‘80s design, this scaled-down version fits today’s living rooms and connects easily to modern TVs via HDMI.
 
-[Pre-Order Yours Today!](https://www.atari.com/products/atari-7800)
+[Pre-Order Yours Today!](https://www.atari.com/products/black-friday-deal-7800-console-w-2-wireless-controllers)
 
 ![7800 Home](files/7800_home.png)
 
@@ -740,11 +726,13 @@ Read More](https://www.atari.com/blogs/newsroom/atari-revives-infogrames-as-a-pu
 
 Add to cart
 
+25% OFF
+
 ##### CX40+ Joystick
 
-Regular price Sale price $24.99
+Regular price $24.99 Sale price $18.74
 
-Regular price $24.99
+Regular price $18.74
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
@@ -752,11 +740,13 @@ Unit price /  per](https://www.atari.com/products/cx40-joystick) [![CX30+ Padd
 
 Add to cart
 
+30% OFF
+
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99 Sale price $39.99
+Regular price $39.99 Sale price $27.99
 
-Regular price $39.99
+Regular price $27.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
@@ -786,11 +776,13 @@ Continue Shopping
 
 Add to cart
 
+25% OFF
+
 ##### CX40+ Joystick
 
-Regular price Sale price $24.99
+Regular price $24.99 Sale price $18.74
 
-Regular price $24.99
+Regular price $18.74
 
 Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
@@ -800,11 +792,13 @@ Unit price /  per](https://www.atari.com/products/cx40-joystick) 
 
 Add to cart
 
+30% OFF
+
 ##### CX30+ Paddle Controller Bundle
 
-Regular price $39.99 Sale price $39.99
+Regular price $39.99 Sale price $27.99
 
-Regular price $39.99
+Regular price $27.99
 
 Unit price /  per](https://www.atari.com/products/cx30-paddle-controller-bundle) 
 
