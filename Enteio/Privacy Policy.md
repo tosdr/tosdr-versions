@@ -279,9 +279,9 @@ You can also reach us by mail at: Ente Technologies, Inc., 1111B S Governors Ave
 
 [](https://ente.io/)
 
-Ente is a beautiful, private cloud for your memories, with apps for mobile, desktop and web.
+Ente is a private cloud for your memories, with apps for mobile, desktop and web.
 
-[X (formerly Twitter)](https://twitter.com/enteio "X (formerly Twitter)")[Discord](https://discord.gg/z2YVKkycX3 "Discord")[Reddit](https://reddit.com/r/enteio "Reddit")[Instagram](https://instagram.com/ente.app "Instagram")[Email](mailto:contact@ente.io "Email")[Mastodon](https://fosstodon.org/@ente "Mastodon")[Matrix](https://matrix.to/#/#ente:matrix.org "Matrix")[LinkedIn](https://www.linkedin.com/company/ente-io "LinkedIn")[GitHub](https://github.com/ente-io "GitHub")[RSS](https://ente.io/rss.xml "RSS")
+[Discord](https://discord.gg/z2YVKkycX3 "Discord")[Mastodon](https://fosstodon.org/@ente "Mastodon")[X (formerly Twitter)](https://twitter.com/enteio "X (formerly Twitter)")[Bluesky](https://bsky.app/profile/ente.io "Bluesky")[Reddit](https://reddit.com/r/enteio "Reddit")[Instagram](https://instagram.com/ente.app "Instagram")[Email](mailto:contact@ente.io "Email")[Matrix](https://matrix.to/#/#ente:matrix.org "Matrix")[LinkedIn](https://www.linkedin.com/company/ente-io "LinkedIn")[GitHub](https://github.com/ente-io "GitHub")[RSS](https://ente.io/rss.xml "RSS")
 
 **Open Source**[Mobile](https://github.com/ente-io/ente/tree/main/mobile#readme)[Web](https://github.com/ente-io/ente/tree/main/web#readme)[Desktop](https://github.com/ente-io/ente/tree/main/desktop#readme)[CLI](https://github.com/ente-io/ente/tree/main/cli#readme)
 
