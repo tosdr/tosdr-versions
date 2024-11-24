@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/astrologisch-jaaroverzicht-2012/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/zijn-vaccins-een-verzinsel-en-een-groot-gevaar/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
