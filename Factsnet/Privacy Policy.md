@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Dark John Lennon Quotes ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/35-facts-about-dark-john-lennon-quotes/)
+[![19 Facts About Illinois ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2289%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/us-states/19-facts-about-illinois/)
 
-Celebrity
+US States
 
-23 Nov 2024
+24 Nov 2024
 
-[35 Facts About Dark John Lennon Quotes](https://facts.net/celebrity/35-facts-about-dark-john-lennon-quotes/)
+[19 Facts About Illinois](https://facts.net/world/us-states/19-facts-about-illinois/)
 
-[![37 Facts About Bill Clinton Quotes ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/37-facts-about-bill-clinton-quotes/)
+[![35 Facts About Shirley Chisholm ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-shirley-chisholm/)
 
 People
 
-23 Nov 2024
+24 Nov 2024
 
-[37 Facts About Bill Clinton Quotes](https://facts.net/history/people/37-facts-about-bill-clinton-quotes/)
+[35 Facts About Shirley Chisholm](https://facts.net/history/people/35-facts-about-shirley-chisholm/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
