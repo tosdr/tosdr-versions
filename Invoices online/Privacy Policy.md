@@ -124,50 +124,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Hugo van Sittert
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=14917554)  
-Depot Diesel (Pty) Ltd
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=22804634)  
+United Paintball Federation
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=146093310)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=168950574)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=198650665)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=203130008)  
+Wiselink Broadband Pty Ltd
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=189075759)  
-Know Informatics
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=131459270)  
+LEONARD
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=49795764)  
-WIP Digital Solutions
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=29901548)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=163415528)  
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=108365832)  
 Atalie Scented Candles Pty Ltd
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=50470109)  
-Network Grey (Pty) Ltd
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=38062703)  
+AMS Ambu Medical Supplies
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=137799409)  
-Leef in Afrikaans
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=147622806)  
+Depot Diesel (Pty) Ltd
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=155961425)  
-Enhle Oarabile Kea
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=50420091)  
+Well Hung Art
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=61818740)  
-African Roots
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=173124763)  
+Itroniq (Pty) Ltd
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=194138980)  
-VerdanTech Pty Ltd
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=81426283)  
+Norton Medical & Consult - Namibia
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=172009801)  
-TurboFibre
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=141282708)  
+Baby Toddles Infant Care
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=134023749)  
-Creative Characters
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=173647426)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=86145238)  
-Tiny Cuddles Photography
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=143583663)  
+INVOICES/JOBCARDS ONLINE
+
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=137426075)  
+Iurus Inc
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=50436546)  
+Camp 4 Africa (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
