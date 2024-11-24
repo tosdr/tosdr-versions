@@ -167,7 +167,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Cybersecurity (268)](https://www.iplocation.net/blog/category/cybersecurity)
 * [Distributed Denial of Service (10)](https://www.iplocation.net/blog/category/ddos)
 * [Password (21)](https://www.iplocation.net/blog/category/password)
-* [Safety (25)](https://www.iplocation.net/blog/category/safety)
+* [Safety (26)](https://www.iplocation.net/blog/category/safety)
 * [Data & Database (22)](https://www.iplocation.net/blog/category/data)
 * [Digital Marketing (121)](https://www.iplocation.net/blog/category/digital-marketing)
 * [Education (43)](https://www.iplocation.net/blog/category/education)
