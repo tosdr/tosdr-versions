@@ -139,24 +139,22 @@ Save settings
 
 ### Featured Articles
 
+[![Connect My Phone to My TV](https://www.wikihow.com/images/thumb/c/c1/Connect-My-Phone-to-My-TV-Step-17-Version-2.jpg/-crop-126-120-126px-Connect-My-Phone-to-My-TV-Step-17-Version-2.jpg)
+
+4 Easy Ways to Connect an iPhone or Android to a TV](https://www.wikihow.com/Connect-My-Phone-to-My-TV)
+
+[![Happy Birthday Mother in Law](https://www.wikihow.com/images/thumb/b/ba/Happy-Birthday-Mother-in-Law-Step-8-Version-2.jpg/-crop-126-120-126px-Happy-Birthday-Mother-in-Law-Step-8-Version-2.jpg)
+
+150 Quotes, Jokes & Birthday Wishes for Your Mother-in-Law](https://www.wikihow.com/Happy-Birthday-Mother-in-Law)
+
+[![Red Spider Lily Meaning](https://www.wikihow.com/images/thumb/0/06/Red-Spider-Lily-Meaning-Step-12.jpg/-crop-126-120-126px-Red-Spider-Lily-Meaning-Step-12.jpg)
+
+A Guide to the Symbolism & Spiritual Lore of Red Spider Lilies](https://www.wikihow.com/Red-Spider-Lily-Meaning)
+
 [![Avoid Amazon](https://www.wikihow.com/images/thumb/4/47/Avoid-Amazon-Step-1.jpg/-crop-126-120-126px-Avoid-Amazon-Step-1.jpg)
 
 How to  
 Stop Using Amazon & Make More Ethical Purchases](https://www.wikihow.com/Avoid-Amazon)
-
-[![Make Your Boyfriend Go Crazy over You](https://www.wikihow.com/images/thumb/a/a8/Approach-a-Girl-if-You%27re-Shy-and-Don%27t-Know-What-to-Say-Step-5.jpg/-crop-126-120-126px-Approach-a-Girl-if-You%27re-Shy-and-Don%27t-Know-What-to-Say-Step-5.jpg)
-
-How to  
-Make Your Boyfriend Go Crazy over You](https://www.wikihow.com/Make-Your-Boyfriend-Go-Crazy-over-You)
-
-[![Take a Screenshot in Microsoft Windows](https://www.wikihow.com/images/thumb/0/01/Take-a-Screenshot-in-Microsoft-Windows-Step-44-Version-2.jpg/-crop-126-120-126px-Take-a-Screenshot-in-Microsoft-Windows-Step-44-Version-2.jpg)
-
-How to  
-Take a Screenshot on a Windows PC: 8 Simple Tricks](https://www.wikihow.com/Take-a-Screenshot-in-Microsoft-Windows)
-
-[![Celebrity Look Alike Quiz](https://www.wikihow.com/images/thumb/b/b0/Celebrity_lookalike_quiz.png/-crop-126-120-126px-Celebrity_lookalike_quiz.png)
-
-What Celebrity Do I Look Like Quiz](https://www.wikihow.com/Celebrity-Look-Alike-Quiz)
 
   
 
@@ -199,4 +197,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-145
+142
