@@ -1,7 +1,3 @@
-* **Central Library service issues**
-    
-    On Sunday, Nov. 24, the Central Library will open late at 11 a.m., and Levels 4 through 10 wil be closed to the public because several escalators and elevators are offline. Levels 1 and 3 will be open. 
-
 * **The Seattle Public Library Is Closed On Thanksgiving Day**
     
     All locations of The Seattle Public Library and book returns at the Central Library will be closed on Thanksgiving Day, Thursday, November 28.
