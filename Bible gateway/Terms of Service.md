@@ -45,7 +45,7 @@ account
 
 close
 
-[Early access to OUR BEST OFFER - as low as $3.33/mo! Access $3,100 worth of resources and UNDERSTAND Scripture. Includes 14-day free trial!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_3100aslowas333_20241111)
+[Our BEST DEAL is HERE! Start your Bible study with a Bible Gateway Plus 14-DAY FREE trial!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_bestdealishere_20241111)
 
 close
 
