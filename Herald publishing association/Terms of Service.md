@@ -1,6 +1,6 @@
 top of page
 
-[![RHPA_Logo_Reverse.png](https://static.wixstatic.com/media/9a69f3_a80b7153f66441e7b7a16d89aa1a9b16~mv2.png/v1/fill/w_427,h_73,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/RHPA_Logo_Reverse.png)](https://www.reviewandherald.com/)
+[![RHPA_Logo_Reverse.png](https://static.wixstatic.com/media/9a69f3_a80b7153f66441e7b7a16d89aa1a9b16~mv2.png/v1/fill/w_427,h_73,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/RHPA_Logo_Reverse.png)](https://www.reviewandherald.com/)
 
 * [](https://www.facebook.com/reviewandherald/)
 * [](https://twitter.com/reviewandherald?lang=en)
@@ -226,7 +226,7 @@ Our designated agent for notice for claims of copyright infringement can be reac
 
 NOTE: THE ABOVE CONTACT INFORMATION IS PROVIDED EXCLUSIVELY FOR NOTIFYING RHPA THAT YOUR COPYRIGHTED MATERIAL MAY HAVE BEEN INFRINGED. ALL OTHER INQUIRIES, (e.g., REQUESTS FOR TECHNICAL ASSISTANCE OR CUSTOMER SERVICE, REPORTS OF EMAIL ABUSE, AND PIRACY REPORTS), WILL NOT RECEIVE A RESPONSE THROUGH THIS PROCESS AND SHOULD BE DIRECTED TO OUR CUSTOMER SERVICE GROUP VIA EMAIL TO\_\_\_\_\_. WHILE RHPA WILL TRY TO ANSWER ALL CUSTOMER SERVICE INQUIRIES, WE CANNOT GUARANTEE SUCH RESPONSE.
 
-![RHPA_Logo_Reverse.png](https://static.wixstatic.com/media/9a69f3_a80b7153f66441e7b7a16d89aa1a9b16~mv2.png/v1/fill/w_77,h_14,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/RHPA_Logo_Reverse.png)
+![RHPA_Logo_Reverse.png](https://static.wixstatic.com/media/9a69f3_a80b7153f66441e7b7a16d89aa1a9b16~mv2.png/v1/fill/w_77,h_14,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/RHPA_Logo_Reverse.png)
 
 [Search Categories](https://www.reviewandherald.com/shop)
 
