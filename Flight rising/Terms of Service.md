@@ -1,6 +1,6 @@
 [![](/images/layout/trans.png)](http://flightrising.com/index.php)
 
- ![](/images/layout/revamp/clock_large.png) 05:50 | **[3992 Users Online](https://flightrising.com/main.php?p=active)**
+ ![](/images/layout/revamp/clock_large.png) 11:52 | **[6126 Users Online](https://flightrising.com/main.php?p=active)**
 
 [](https://www1.flightrising.com/registration/start)[](https://www1.flightrising.com/login?from=www)
 
