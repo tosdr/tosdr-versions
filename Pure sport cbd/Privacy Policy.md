@@ -51,7 +51,7 @@ Check out
         * [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support)
     
     * [APPAREL & ACCESSORIES](https://puresportcbd.com/en-us#)
-    * Apparel to propel you forward
+    * Apparel to propel you forward.
         
     * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
     * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
@@ -160,7 +160,7 @@ Check out
     
     * [APPAREL & ACCESSORIES](https://puresportcbd.com/en-us#)
         
-        Apparel to propel you forward
+        Apparel to propel you forward.
         
         * [APPAREL SALE](https://puresportcbd.com/en-us/collections/apparel-sale)
         * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
