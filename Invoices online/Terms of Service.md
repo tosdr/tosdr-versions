@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=102185083)  
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=108231647)  
+TIGERDSL
+
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=13195985)  
+PROGRAPHIX PTY LTD
+
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=57330520)  
+De light Investments(Pty)Ltd trading as Serene Memorials
+
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=152210198)  
+Tagline Brands
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=118677104)  
+Kaylas Creations
+
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=204424729)  
+Alliance Energy
+
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=195853201)  
+APTV Telecoms CC
+
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=53389409)  
+ELLIE'S CLEANING CHICKS
+
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=146004844)  
 Konsortium Operations ( Roamfree Meats )
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=99414050)  
-VIV'S TRUCKS (Pty) Ltd. (651)
-
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=167266943)  
-Cooper Logistics (Pty) Ltd
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=150770373)  
-Entidee Enterprise PTY (ltd)
-
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=62188192)  
-Depot Diesel (Pty) Ltd
-
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=108521322)  
-Vplay Grafix
-
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=136154534)  
-Konsortium Operations (PTY) LTD
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=16243498)  
-Digifax (Pty) Ltd trading as Digirent
-
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=79887347)  
-Sonic Electrical Services PTY Ltd
-
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=193358361)  
-Little Nutty Professors
-
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=80602666)  
-SAUL ATHOL ACRES RENTAL
-
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=209466181)  
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=54004095)  
 Import Maaw
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=51107275)  
-Immediate Health (pty)ltd
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=152866812)  
+AFS Electrical
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=102411597)  
-Cape Adventure Zone
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=175363495)  
+Website Café (PTY) LTD
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=8822aa420f0308cdb70b78f492f2a29c1981c36b9701eee74ba92cfd287a7008&c=67809037)  
-Norton Medical & Consult - Namibia
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=111281662)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=161657700)  
+MONSTER SECURITY SERVICES
+
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=d4545ea6a3eab9bda3646a62068394463fce8120b171efe3b0e4aca3ea8008e0&c=166642826)  
+Tiny Cuddles Photography
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
