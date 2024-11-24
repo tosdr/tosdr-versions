@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Aktien-ETF Japan: Mit oder ohne Währungs­sicherung?](https://www.test.de/Aktien-ETF-Japan-Mit-oder-ohne-Waehrungssicherung-6132893-0/ "Aktien-ETF Japan - Mit oder ohne Währungssicherung?")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
+* [Rück­ruf Thule Kinder­fahr­radsitz: Schad­stoff im Polster](https://www.test.de/Rueckruf-Thule-Kinderfahrradsitz-Schadstoff-im-Polster-6117327-0/ "Rückruf Thule Kinderfahrradsitz - Schadstoff im Polster")
+* [Teil­zeit und Steuern: Wie Sie möglichst viel Geld rausholen](https://www.test.de/teilzeit-und-steuern-6062297-0/ "Teilzeit und Steuern - Wie Sie möglichst viel Geld rausholen")
+* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
 
 Service Stiftung Warentest
 
