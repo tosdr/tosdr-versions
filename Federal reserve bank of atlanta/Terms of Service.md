@@ -123,7 +123,7 @@ Menutoggle menu
         * [Survey and Diary of Consumer Payment Choice](https://www.atlantafed.org/banking-and-payments/consumer-payments/survey-and-diary-of-consumer-payment-choice)
         * [Publications](https://www.atlantafed.org/banking-and-payments/consumer-payments/publications)
         * [Research Data Reports](https://www.atlantafed.org/banking-and-payments/consumer-payments/research-data-reports)
-    * [Lending](https://www.atlantafed.org/research/centers)
+    * [Lending](https://www.atlantafed.org/banking-and-payments/lending)
     * [Payments Inclusion](https://www.atlantafed.org/banking-and-payments/payments-inclusion)
     * [Payments Forum](https://www.atlantafed.org/payments-forum)
     * [Publications](https://www.atlantafed.org/banking-and-payments/publications)
