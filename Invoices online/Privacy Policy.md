@@ -117,57 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Hugo van Sittert
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=22804634)  
-United Paintball Federation
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=183754820)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=168950574)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=121404684)  
+McKaynine Mobility
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=203130008)  
-Wiselink Broadband Pty Ltd
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=84662531)  
+Salvage Genie
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=131459270)  
-LEONARD
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=176553746)  
+Gemini-IT Group
 
-![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=108365832)  
-Atalie Scented Candles Pty Ltd
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=136898436)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=38062703)  
-AMS Ambu Medical Supplies
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=206521988)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=147622806)  
-Depot Diesel (Pty) Ltd
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=213999217)  
+Repairs In Motion
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=50420091)  
-Well Hung Art
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=94157773)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=173124763)  
-Itroniq (Pty) Ltd
-
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=81426283)  
-Norton Medical & Consult - Namibia
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=141282708)  
-Baby Toddles Infant Care
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=173647426)  
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=104646227)  
 VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=143583663)  
-INVOICES/JOBCARDS ONLINE
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=33487268)  
+MONSTER SECURITY SERVICES
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=137426075)  
-Iurus Inc
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=141180554)  
+All Trucking Solutions
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=09bfd59254711aa10fa1d35f7ae216d4a5722b65451f2cf68c9e8d4350347d05&c=50436546)  
-Camp 4 Africa (Pty) Ltd
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=121181355)  
+MR Compressors& Industrial Supplies
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=136297585)  
+Kaylas Creations
+
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=208957165)  
+IEMS (PTY) ltd
+
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=588998555420dbc2106ca7ae8a4620b995da427fe8c6f5ccb0eb4b1359344267&c=207362066)  
+Environment Friendly Toilets (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
