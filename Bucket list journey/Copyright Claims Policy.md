@@ -243,6 +243,28 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[Ever wonder what a perfect day in the Napa Valley ![Ever wonder what a perfect day in the Napa Valley wine country looks like? Here’s my one-day bucket list itinerary for YOUNTVILLE, CALIFORNIA 🍷
+1️⃣ Start your day in #Yountville the only way you should—with pastries! @Bouchon_Bakery is tiny but mighty, serving up buttery scones, flaky croissants, and giant macarons 🥐 
+2️⃣ Next, hop aboard the Napa Valley @winetrain where you’ll be served a four course meal while riding through Napa valley Vineyards and sipping on local wine 🚂 They have plenty of experiences to choose from (we did the Vista Dome and loved it!)
+3️⃣ Head to @PriestRanchWines for wine AND bacon tasting. Yep, you heard me right—bacon. 🥓 It was six wines, four types of bacon, and one happy me. The mango mustard bacon was my favorite!
+4️⃣ Take a break from eating and drinking (if you can!) and wander the Yountville Art Walk. 🎨 Over 30 sculptures, each with a QR code for all the artsy details. My fave? The Chef. 
+Plus, you’ll pass lots of shops for a little retail therapy. A couple of my favs are @KollarChocolates and the boutique @AlchemyWorks
+5️⃣ Now it’s time for a pre-dinner cocktail at @NorthBlockYountville. 🍸 Trendy, chic, and perfect for happy hour vibes. 
+6️⃣ Dinner is at @BottegaNapaValley—Yountville’s foodie hotspot. Their Brodetto ai Frutti di Mare was the BEST thing I ate in Yountville 😋  It was so good I had to get the recipe from the Bottega cookbook!
+7️⃣ End your day with a nightcap in your room by the fireplace or next to the fire pits in the courtyard @NapaValleyLodge. 
+What’s on your Yountville, CA Bucket List?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![Ever wonder what a perfect day in the Napa Valley wine country looks like? Here’s my one-day bucket list itinerary for YOUNTVILLE, CALIFORNIA 🍷
+1️⃣ Start your day in #Yountville the only way you should—with pastries! @Bouchon_Bakery is tiny but mighty, serving up buttery scones, flaky croissants, and giant macarons 🥐 
+2️⃣ Next, hop aboard the Napa Valley @winetrain where you’ll be served a four course meal while riding through Napa valley Vineyards and sipping on local wine 🚂 They have plenty of experiences to choose from (we did the Vista Dome and loved it!)
+3️⃣ Head to @PriestRanchWines for wine AND bacon tasting. Yep, you heard me right—bacon. 🥓 It was six wines, four types of bacon, and one happy me. The mango mustard bacon was my favorite!
+4️⃣ Take a break from eating and drinking (if you can!) and wander the Yountville Art Walk. 🎨 Over 30 sculptures, each with a QR code for all the artsy details. My fave? The Chef. 
+Plus, you’ll pass lots of shops for a little retail therapy. A couple of my favs are @KollarChocolates and the boutique @AlchemyWorks
+5️⃣ Now it’s time for a pre-dinner cocktail at @NorthBlockYountville. 🍸 Trendy, chic, and perfect for happy hour vibes. 
+6️⃣ Dinner is at @BottegaNapaValley—Yountville’s foodie hotspot. Their Brodetto ai Frutti di Mare was the BEST thing I ate in Yountville 😋  It was so good I had to get the recipe from the Bottega cookbook!
+7️⃣ End your day with a nightcap in your room by the fireplace or next to the fire pits in the courtyard @NapaValleyLodge. 
+What’s on your Yountville, CA Bucket List?](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCwkMXdvIvW/) 
+
 [Save this hotel for your Yountville, California Bu ![Save this hotel for your Yountville, California Bucket List. @NapaValleyLodge is just minutes away from everything you’ll want to do in Yountville, but you may not want to leave. 
 The grounds alone are dreamy, with their relaxing fountains trickling in the background, fire pits crackling under the stars, a sparkling pool calling your name, and plenty of cozy spots to lounge with a glass of wine (or two 😉). 
 Oh, and did I mention the bocce ball court? Because a little friendly competition pairs perfectly with a day of wine tasting 🍷 
@@ -302,18 +324,6 @@ POINT REYES, CALIFORNIA RESTAURANTS
 1️⃣3️⃣ BoVida: Smoothies & acai bowls for a lighter bite @bovidabolinas 
 1️⃣4️⃣ Parkside Cafe: Seafood & sandwiches steps away from Stinson Beach @parksidecafestinsonbeach
 #pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia #california #travelbucketlist #bucketlistadventures](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCRnq6FJ3XV/) 
-
-[Here’s to you if you stepped out of your comfort ![Here’s to you if you stepped out of your comfort zone today—even just a little! Bucket lists aren’t always about jumping out of planes or climbing mountains—though if you did, you’re amazing! 👏
-Sometimes, it’s about the small victories, like trying a new recipe, signing up for a dance class, or saying yes to something you almost talked yourself out of. 🌟 So if you tried something new today, this glass of Zinfandel is for YOU! 
-What little adventure did you have today?
-PS: this was my reward for try saying yes to an invitation I’d normally turn down 😊
-#bucketlist #bucketlist✔️ #goals #motovation #bucketlistadventures #bucketlisters #faceyourfears #saynotofear #takearisk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Here’s to you if you stepped out of your comfort zone today—even just a little! Bucket lists aren’t always about jumping out of planes or climbing mountains—though if you did, you’re amazing! 👏
-Sometimes, it’s about the small victories, like trying a new recipe, signing up for a dance class, or saying yes to something you almost talked yourself out of. 🌟 So if you tried something new today, this glass of Zinfandel is for YOU! 
-What little adventure did you have today?
-PS: this was my reward for try saying yes to an invitation I’d normally turn down 😊
-#bucketlist #bucketlist✔️ #goals #motovation #bucketlistadventures #bucketlisters #faceyourfears #saynotofear #takearisk](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCHVXphvEsX/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
