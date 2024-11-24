@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/why-do-nursing-homes-get-fines/ "Why Do Nursing Homes Get Fines?")
+[![Suing memory care facilities for elopement](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-can-i-sue-a-memory-care-facility-for-the-wandering-and-elopement-of-a-loved-one-300x200.jpg "Suing Memory Care Facilities for Elopement")](https://www.pintas.com/faq/can-i-sue-a-memory-care-facility-for-the-wandering-and-elopement-of-a-loved-one/ "Suing Memory Care Facilities for Elopement")
 
-[#### Why Do Nursing Homes Get Fines?](https://www.pintas.com/faq/why-do-nursing-homes-get-fines/)
+[#### Suing Memory Care Facilities for Elopement](https://www.pintas.com/faq/can-i-sue-a-memory-care-facility-for-the-wandering-and-elopement-of-a-loved-one/)
 
-[![How long do you have to file a lawsuit against a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home-scaled.jpg "How Long Do You Have to File a Lawsuit Against a Nursing Home?")](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/ "How Long Do You Have to File a Lawsuit Against a Nursing Home?")
+[![Can a lung transplant cure lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-lung-transplant-cure-lung-cancer.jpg "Can a Lung Transplant Cure Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-lung-transplant-cure-lung-cancer/ "Can a Lung Transplant Cure Lung Cancer?")
 
-[#### How Long Do You Have to File a Lawsuit Against a Nursing Home?](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/)
+[#### Can a Lung Transplant Cure Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-a-lung-transplant-cure-lung-cancer/)
 
-[![What powders are talc free?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-powders-are-talc-free-scaled.jpg "What Powders Are Talc Free?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders "What Powders Are Talc Free?")
+[![How are asbestos cases paid out?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-are-asbestos-cases-paid-out.jpg "How Are Asbestos Cases Paid Out?")](https://www.pintas.com/practice-areas/lung-cancer/how-are-asbestos-cases-paid-out/ "How Are Asbestos Cases Paid Out?")
 
-[#### What Powders Are Talc Free?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders)
+[#### How Are Asbestos Cases Paid Out?](https://www.pintas.com/practice-areas/lung-cancer/how-are-asbestos-cases-paid-out/)
 
 ### Injured?  
 Tell Us What Happened.
