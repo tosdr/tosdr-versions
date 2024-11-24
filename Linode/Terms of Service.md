@@ -365,7 +365,7 @@ Law Enforcement & Regulatory Agencies
 © 2003-2024 Linode LLC.  
 All rights reserved.
 
-Cookie Preferences
+[Cookie Preferences](#open-consent-prefs)
 
 [](https://twitter.com/linode)[](https://www.linode.com/youtube)[](https://www.linkedin.com/company/linode/)[](https://github.com/linode/)
 
