@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Ubuntu](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Ubuntu Linux impacted by decade-old 'needrestart' flaw that gives root](https://www.bleepingcomputer.com/news/security/ubuntu-linux-impacted-by-decade-old-needrestart-flaw-that-gives-root/)
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 11 KB5046740 update released with 14 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5046740-update-released-with-14-changes-and-fixes/)
 * [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Chinese hackers target Linux with new WolfsBane malware](https://www.bleepingcomputer.com/news/security/chinese-gelsemium-hackers-use-new-wolfsbane-linux-malware/)
+* [![BlueSky](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Now BlueSky hit with crypto scams as it crosses 20 million users](https://www.bleepingcomputer.com/news/security/now-bluesky-hit-with-crypto-scams-as-it-crosses-20-million-users/)
 
 ##### Follow us:
 
