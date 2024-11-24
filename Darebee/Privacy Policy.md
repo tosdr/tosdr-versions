@@ -18,6 +18,8 @@
 * [my bookmarks](https://www.darebee.com/bookmarks.html)
 * [donate](https://www.darebee.com/support.html)
 
+[![](/images/promo/alerts/trun2024.jpg)](https://www.community.darebee.com/threads/turkey-run-2024.2076/)
+
 Privacy Policy
 ==============
 
