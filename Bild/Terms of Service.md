@@ -206,6 +206,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Trainer-Beben im Hamburg: HSV schmeißt Baumgart raus!
+
+Trainer-Beben im Hamburg: HSV schmeißt Baumgart raus!
+
+Trainer-Beben im Hamburg: HSV schmeißt Baumgart raus!
+
+Trainer-Beben im Hamburg: HSV schmeißt Baumgart raus!
+
+Trainer-Beben im Hamburg: HSV schmeißt Baumgart raus!
+
+Trainer-Beben im Hamburg: HSV schmeißt Baumgart raus!
+
+Trainer-Beben im Hamburg: HSV schmeißt Baumgart raus!
+
+Trainer-Beben im Hamburg: HSV schmeißt Baumgart raus!
+
+Trainer-Beben im Hamburg: HSV schmeißt Baumgart raus!
+
+Trainer-Beben im Hamburg: HSV schmeißt Baumgart raus!](https://www.bild.de/sport/fussball/hsv-steffen-baumgart-ist-nicht-mehr-hsv-trainer-674305632b41eb514b4dd152)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
