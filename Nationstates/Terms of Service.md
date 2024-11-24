@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What triggers you about the AN? (11,016)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (11,016 posts)")
-* [Limiting AI usage in warfare (1)](https://forum.nationstates.net/viewtopic.php?t=558685&f=24&view=unread#unread ""Limiting AI usage in warfare" (1 post)")
-* [The Problem about \[Radical\] Islam (es… (268)](https://forum.nationstates.net/viewtopic.php?t=557387&f=20&view=unread#unread ""The Problem about [Radical] Islam (especially to Turks)" (268 posts)")
-* [Preventing AI ascendancy (3)](https://forum.nationstates.net/viewtopic.php?t=558684&f=9&view=unread#unread ""Preventing AI ascendancy" (3 posts)")
-* [Fallen Nations: A Shadow of a New War… (23)](https://forum.nationstates.net/viewtopic.php?t=558662&f=31&view=unread#unread ""Fallen Nations: A Shadow of a New War [Dieselpunk|OOC|Open]" (23 posts)")
+* [Would you Live in AN'S (4,284)](https://forum.nationstates.net/viewtopic.php?t=546200&f=25&view=unread#unread ""Would you Live in AN'S" (4,284 posts)")
+* [Ukrainian War VII: Everything has a p… (11,000)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (11,000 posts)")
+* [How disturbing is AN? (132)](https://forum.nationstates.net/viewtopic.php?t=556696&f=25&view=unread#unread ""How disturbing is AN?" (132 posts)")
+* [Trade between Pakania and Freedom Fre… (42)](https://forum.nationstates.net/viewtopic.php?t=558680&f=5&view=unread#unread ""Trade between Pakania and Freedom Freelandia (Invite Only)" (42 posts)")
+* [Describe a video game set in AN (6)](https://forum.nationstates.net/viewtopic.php?t=558696&f=25&view=unread#unread ""Describe a video game set in AN" (6 posts)")
 
 Advertisement
 
