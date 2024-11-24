@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев: Материнство – тяжёлый труд и самая высокая награда](https://cdn.er.ru/media/news/November2024/WXiM9kZSlaJFFkUDUk7D-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-materinstvo-tyazhyolyj-trud-i-samaya-vysokaya-nagrada)
+
+[Владимир Якушев: Материнство – тяжёлый труд и самая высокая награда](https://er.ru/activity/news/vladimir-yakushev-materinstvo-tyazhyolyj-trud-i-samaya-vysokaya-nagrada)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Деньматери](https://er.ru/activity/news?tags%5B0%5D=1094956) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
+
+Сегодня 09:00
+
 [![«Единая Россия» открыла для посетителей выставки «Сила V правде – гордость и победа» в Ульяновске экспозицию поисковых отрядов](https://cdn.er.ru/media/news/November2024/UhE9DaCw8Aly5tGveAZT-small.png)](https://er.ru/activity/news/edinaya-rossiya-otkryla-dlya-posetitelej-vystavki-sila-v-pravde-gordost-i-pobeda-v-ulyanovske-ekspoziciyu-poiskovyh-otryadov)
 
 [«Единая Россия» открыла для посетителей выставки «Сила V правде – гордость и победа» в Ульяновске экспозицию поисковых отрядов](https://er.ru/activity/news/edinaya-rossiya-otkryla-dlya-posetitelej-vystavki-sila-v-pravde-gordost-i-pobeda-v-ulyanovske-ekspoziciyu-poiskovyh-otryadov)
@@ -338,14 +346,6 @@
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#занятость](https://er.ru/activity/news?tags%5B0%5D=1799) [#поддержкаграждан](https://er.ru/activity/news?tags%5B0%5D=149237)
 
 23.11.24
-
-[![«Женское движение Единой России» запустило в новом формате проект «Ты не одна» по поддержке жён участников СВО](https://cdn.er.ru/media/news/November2024/DTOhxRs0pMIZXnDBf6ir-small.JPG)](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-zapustilo-v-novom-formate-proekt-ty-ne-odna-po-podderzhke-zhyon-uchastnikov-svo)
-
-[«Женское движение Единой России» запустило в новом формате проект «Ты не одна» по поддержке жён участников СВО](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-zapustilo-v-novom-formate-proekt-ty-ne-odna-po-podderzhke-zhyon-uchastnikov-svo)
-
-[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#помощьсемьяммобилизованных](https://er.ru/activity/news?tags%5B0%5D=1093275)
-
-22.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
