@@ -8,17 +8,17 @@
 
 + 557.35
 
-##### CRUDEOIL   6,024.00
+##### CRUDEOIL   6,033.00
 
-+ 119.00
++ 5.00
 
-##### GOLD   77,612.00
+##### GOLD   77,685.00
 
-+ 919.00
++ 69.00
 
-##### SILVER   90,785.00
+##### SILVER   90,791.00
 
-+ 860.00
++ 866.00
 
 ##### SENSEX   79,117.11
 
@@ -32,17 +32,17 @@
 
 + 557.35
 
-##### CRUDEOIL   6,024.00
+##### CRUDEOIL   6,033.00
 
-+ 119.00
++ 5.00
 
-##### CRUDEOIL   6,024.00
+##### CRUDEOIL   6,033.00
 
-+ 119.00
++ 5.00
 
-##### GOLD   77,612.00
+##### GOLD   77,685.00
 
-+ 919.00
++ 69.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -708,7 +708,7 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 ##### Trending on businessline
 
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-11-november-2024/article68852303.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Maharashtra Election 2024 Live](https://www.thehindubusinessline.com/news/national/maharashtra-assembly-elections-2024-live-news-updates-20-november-2024/article68886334.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Maharashtra Election Results 2024 Live](https://www.thehindubusinessline.com/news/maharashtra-assembly-election-results-2024-live-news-updates/article68899648.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) NTPC IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/ntpc-green-energy-ipo-gmp-day-2-subscription-status-live-updates-20-november-2024/article68881686.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Swiggy Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/swiggy-stocks-share-price-today-swiggy-ipo-listing-live-13-nov-2024/article68859042.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Delhi Air Pollution Live](https://www.thehindubusinessline.com/news/national/delhi-weather-temperature-delhi-ncr-aqi-air-quality-pollution-live-updates-today-20-nov-2024/article68880880.ece)
