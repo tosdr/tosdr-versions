@@ -2,11 +2,11 @@
 
 Vimm's Lair](https://vimm.net/)
 
-[Emulation Lair](https://vimm.net/emulate)[The Vault](https://vimm.net/vault)[Manual Project](https://vimm.net/manual)[Message Boards](https://vimm.net/bbs)[FFA Links](https://vimm.net/links)
+[Emulation Lair](https://vimm.net/emulate)[The Vault](https://vimm.net/vault)[Manual Project](https://vimm.net/manual)[ROM Hacking](https://vimm.net/romhacking)[Message Boards](https://vimm.net/bbs)[FFA Links](https://vimm.net/links)
 
 ![](/js/awstats_misc_tracker.js?nojs=y)
 
-[![Home](/images/vimmbutton-100.png "Home")](https://vimm.net/) \-Main Menu- Emulation LairThe VaultManual ProjectMessage BoardsFFA Links [Emulation Lair](https://vimm.net/emulate)
+[![Home](/images/vimmbutton-100.png "Home")](https://vimm.net/) \-Main Menu- Emulation LairThe VaultManual ProjectROM HackingMessage BoardsFFA Links [Emulation Lair](https://vimm.net/emulate)
 
 The Vault ▼
 
@@ -20,7 +20,7 @@ The Vault ▼
 
 Message Boards ▼
 
-[Home](https://vimm.net/bbs/) [Message Board](https://vimm.net/bbs/?p=board&Board=1)[Request Board](https://vimm.net/bbs/?p=board&Board=2)[Misc Board](https://vimm.net/bbs/?p=board&Board=3)[Manual Project](https://vimm.net/bbs/?p=board&Board=4)
+[Home](https://vimm.net/bbs/) [Message Board](https://vimm.net/bbs/?p=board&Board=1)[Request Board](https://vimm.net/bbs/?p=board&Board=2)[Misc Board](https://vimm.net/bbs/?p=board&Board=3)[Manual Project](https://vimm.net/bbs/?p=board&Board=4)[ROM Hacking](https://vimm.net/bbs/?p=board&Board=5)
 
 [FFA Links](https://vimm.net/links)
 
