@@ -87,11 +87,11 @@ Most Read
     
     1. [Russian ballistic missile attack on Ukraine portends new era of warfare](https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/)
     
-2. 2. [The good, the bad, and the ugly behind the push for more smart displays](https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/)
+2. 2. [Elizabeth Warren calls for crackdown on Internet “monopoly” you’ve never heard of](https://arstechnica.com/tech-policy/2024/11/elizabeth-warren-calls-for-crackdown-on-internet-monopoly-youve-never-heard-of/)
     
 3. 3. [Spies hack Wi-Fi networks in far-off land to launch attack on target next door](https://arstechnica.com/security/2024/11/spies-hack-wi-fi-networks-in-far-off-land-to-launch-attack-on-target-next-door/)
     
-4. 4. [Our Universe is not fine-tuned for life, but it’s still kind of OK](https://arstechnica.com/science/2024/11/our-universe-is-not-fine-tuned-for-life-but-its-still-kind-of-ok/)
+4. 4. [The good, the bad, and the ugly behind the push for more smart displays](https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/)
     
 5. 5. [Ted Cruz wants to overhaul $42B broadband program, nix low-cost requirement](https://arstechnica.com/tech-policy/2024/11/ted-cruz-wants-to-overhaul-42b-broadband-program-nix-low-cost-requirement/)
     
