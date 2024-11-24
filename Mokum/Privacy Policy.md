@@ -22,11 +22,9 @@ II. a) **IP address** of every page and URL access; b) IP address of API calls e
 
 IP address information could be used to analyze service access patterns to improve quality of service and to prevent undesired activity. IP addresses will be erased after 21 days. They are never shared with anyone else.
 
-### Third-party website analytics.
+### No third-party data sharing
 
-We use Google Analytics to understand how our website is used.
-
-You can opt-out by enabling the “Do Not Track” feature of your browser, or by using privacy ad blocker software.
+Mokum does not share any of your data with third parties.
 
 ### Data portability
 
@@ -44,7 +42,13 @@ If you have any questions or requests please post to [@support](https://mokum.pl
 
 * * *
 
+Version 2. Last update: 2024-11-24.
+
+“No third-party data sharing” section was added, “Third-party website analytics” was removed (the only website analytics tool, Google Analytics, has been deleted in February 2020).
+
 Version 1. Last update: 2018-05-24.
+
+Initial version.
 
 LivePaused
 
