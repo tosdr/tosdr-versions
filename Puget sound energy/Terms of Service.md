@@ -367,16 +367,21 @@ We know it is frustrating for our customers and are working hard to reconcile th
 
 Our crews will continue to work around the clock until the last customer is restored.
 
-[Storm alert Updated Nov 23, 11:59 PM](#collapseOne)  
+[Storm alert Updated Nov 24, 6:00 AM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-A total of 153 line crews and 30 tree crews were out in full force today, focused on the neighborhood distribution lines that serve smaller pockets of customers. They were reporting additional damage at many locations, which will need to be repaired as well. Much of this work is time-consuming and slow-going, as it requires extensive work yet restores power in much smaller numbers, such as to 5, 10, or 20 customers at a time.
+##### Customer and Crew Safety
 
-As more and more neighborhoods are energized, some customers may feel like they are being left in the dark. If you’re seeing neighbors with their power on, it’s likely that they’re served by a different circuit that has been restored.
+If you encounter crews or service personnel in the field, please give them space to work. They need to be focused on the task at hand so they can bring power back on as quickly and safely as possible. We appreciate your cooperation.
 
-We know many of you are wondering what is happening in your area. As crews get onsite, they will be entering more specific information about restoration times on the outage map. This may take time as we still have just over 700 locations with damage.
+##### Community Specific Updates
+
+* **Issaquah:** Issaquah and the surrounding area experienced large/dense tree failures and extensive damage to poles, arms, and twisted wire.  Issaquah High School and Issaquah Preschool Academy are remaining schools in need of restoration in this area and have been given priority by our storm bases in preparation for Monday. The outage was primarily due to the West Issaquah substation which has been a prioritized effort during the last few days.  There are many resources assigned to this area, as we are expecting this to continue to be a large restoration effort.  With crews actively working to restore power, we expect significant progress today.
+* **Mirrormont:** Throughout the day on Saturday, 11 crews were working in this area and the work continues as the damage is massive; crews reported hundreds of trees are down on Tiger Mountain Road. Damage of this extent requires a heavily coordinated effort between tree crews and line crews, and an extended period of time may be required to restore power to every customer.
+* **Klahanie/Pine Lake/Sammamish Plateau:** Klahanie Substation was restored close to midnight on 11/23 Saturday. BPA was able to energize their transmission line serving the substation days earlier than originally estimated, and PSE’s distribution system is currently being assessed to identify any remaining damage requiring repair. The majority of outages have crews assigned and this is a location of concentrated restoration work planned for Sunday 11/24. 
+* **Hobart/Maple Valley:** Hobart/Maple Valley is one of the hardest hit areas from the windstorm.  It's a priority area for PSE crews and significant resources are being allocated here.  Crews are reporting damage mainly due to trees that fell during the windstorm.  This area will require a great deal of work and will take some time, but the crews are giving it their all to restore power to the area. Another priority in this location is the Lake Wilderness area; we’ve allocated a lot of crews to this area over the past few days.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
