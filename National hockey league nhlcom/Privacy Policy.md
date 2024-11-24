@@ -323,6 +323,7 @@ We collect and receive the following categories of information:
     * [Frequently Asked Questions](https://www.nhl.com/info/frequently-asked-questions)
     * [Online Transmission Policy](https://www.nhl.com/info/online-transmission-policy)
     * [Sponsorship Opportunities](https://www.nhl.com/info/sponsorship-opportunities)
+    * [Accessibility](https://www.nhl.com/info/aoda)
     * [Contact Us](https://www.nhl.com/info/contact-us)
     
 
