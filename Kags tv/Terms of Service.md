@@ -52,13 +52,8 @@ Navigation
     
     *  [![](https://media.kagstv.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
         
-        #### [Forecasts warn of possible winter storms across US during Thanksgiving week](https://www.kagstv.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971) [![](https://media.kagstv.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
+        #### [Forecasts warn of possible winter storms across US during Thanksgiving week](https://www.kagstv.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
         
-        #### [Thanksgiving week could be rainy, cold this year](https://www.kagstv.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971) [![](https://media.kagstv.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
-        
-        #### [Storms possible across the US for Thanksgiving week](https://www.kagstv.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971) [![](https://media.kagstv.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
-        
-        #### [Planning trips for Thanksgiving? Prepare for rain](https://www.kagstv.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
     *  [![](https://media.kagstv.com/assets/VERIFY/images/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb_16x9.jpg) ![](https://media.kagstv.com/assets/VERIFY/images/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb/f714b1fd-a467-401d-bbc2-e1c7ee88dbeb_360x203.jpg)](https://www.kagstv.com/article/weather/how-to-stay-warm-protect-your-home-freezing-cold-temperatures-in-winter/536-05d13af0-a6d9-4190-bdb2-2dc1ef4555a3)
         
         #### [VERIFYING 5 claims about staying warm and protecting your home from the cold](https://www.kagstv.com/article/weather/how-to-stay-warm-protect-your-home-freezing-cold-temperatures-in-winter/536-05d13af0-a6d9-4190-bdb2-2dc1ef4555a3)
@@ -91,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-61°
+80°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
