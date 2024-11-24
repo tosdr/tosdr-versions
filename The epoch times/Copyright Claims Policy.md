@@ -160,70 +160,70 @@ TOP NEWS
 
 * [Tensions Rise Over ICC Arrest Warrants for Netanyahu, Gallant as US Allies Mull Response](https://www.theepochtimes.com/world/tensions-rise-over-icc-arrest-warrants-for-netanyahu-gallant-as-us-allies-mull-response-5765115)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    8hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Tensions Rise Over ICC Arrest Warrants for Netanyahu, Gallant as US Allies Mull Response](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Tensions Rise Over ICC Arrest Warrants for Netanyahu, Gallant as US Allies Mull Response](https://img.theepochtimes.com/assets/uploads/2024/11/21/id5763721-Israel_Knesset_24302581952246-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/tensions-rise-over-icc-arrest-warrants-for-netanyahu-gallant-as-us-allies-mull-response-5765115)
 * [‘State Organs’ Documentary Receives Award for Highlighting Abuse in China](https://www.theepochtimes.com/china/state-organs-documentary-receives-award-for-highlighting-abuse-in-china-5765088)
     
-    3hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang) and [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    9hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang) and [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
     [![‘State Organs’ Documentary Receives Award for Highlighting Abuse in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![‘State Organs’ Documentary Receives Award for Highlighting Abuse in China](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5765117-125793309cd852bb06ef44c4-OP-205x123.jpg.webp)](https://www.theepochtimes.com/china/state-organs-documentary-receives-award-for-highlighting-abuse-in-china-5765088)
 * [Implications of Russia’s Experimental Missile Strike for Allied Strategy](https://www.theepochtimes.com/world/implications-of-russias-experimental-missile-strike-for-allied-strategy-5764972)
     
-    3hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    9hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
     
     [![Implications of Russia’s Experimental Missile Strike for Allied Strategy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Implications of Russia’s Experimental Missile Strike for Allied Strategy](https://img.theepochtimes.com/assets/uploads/2024/11/22/id5764568-UKRAINE-CRISIS-ATTACK-DNIPRO-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/implications-of-russias-experimental-missile-strike-for-allied-strategy-5764972)
 * [Day in Photos: Illegal Immigrants, Demonstrations, and Sado Mine Memorial](https://www.theepochtimes.com/article/day-in-photos-illegal-immigrants-demonstrations-and-sado-mine-memorial-5764991)
     
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Illegal Immigrants, Demonstrations, and Sado Mine Memorial](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Illegal Immigrants, Demonstrations, and Sado Mine Memorial](https://img.theepochtimes.com/assets/uploads/2024/11/23/id5765151-GettyImages-2185542760-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-illegal-immigrants-demonstrations-and-sado-mine-memorial-5764991)
 * [Australia's Labor Government Withdraws Contentious Misinformation Bill](https://www.theepochtimes.com/world/cannot-pass-the-senate-greens-oppose-misinformation-bill-5765097)
     
-    5hr By [Monica O’Shea](https://www.theepochtimes.com/author/monica-oshea)
+    11hr By [Monica O’Shea](https://www.theepochtimes.com/author/monica-oshea)
     
     [![Australia's Labor Government Withdraws Contentious Misinformation Bill](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Australia's Labor Government Withdraws Contentious Misinformation Bill](https://img.theepochtimes.com/assets/uploads/2023/04/23/id5214919-Michelle-Rowland-205x123.jpg.webp)](https://www.theepochtimes.com/world/cannot-pass-the-senate-greens-oppose-misinformation-bill-5765097)
 * [Trump Selects Brooke Rollins to Lead Agriculture Department](https://www.theepochtimes.com/us/trump-selects-brooke-rollins-to-lead-agriculture-department-5764588)
     
-    6hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [John Haughey](https://www.theepochtimes.com/author/john-haughey) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    12hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester), [John Haughey](https://www.theepochtimes.com/author/john-haughey) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Trump Selects Brooke Rollins to Lead Agriculture Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Selects Brooke Rollins to Lead Agriculture Department](https://img.theepochtimes.com/assets/uploads/2019/07/30/B2S00048-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-brooke-rollins-to-lead-agriculture-department-5764588)
 * [Public Education System Set for Shake Up Under Trump](https://www.theepochtimes.com/article/public-education-system-set-for-shake-up-under-trump-5762357)
     
-    6hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    12hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
     
     [![Public Education System Set for Shake Up Under Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Public Education System Set for Shake Up Under Trump](https://img.theepochtimes.com/assets/uploads/2024/11/22/id5764629-GettyImages-1237957061-205x123.jpg.webp)](https://www.theepochtimes.com/article/public-education-system-set-for-shake-up-under-trump-5762357)
 * [Putin Says Russia Will Keep Testing New Hypersonic Ballistic Missile in Combat](https://www.theepochtimes.com/world/putin-says-russia-will-keep-testing-new-hypersonic-ballistic-missile-in-combat-5765090)
     
-    6hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    12hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Putin Says Russia Will Keep Testing New Hypersonic Ballistic Missile in Combat](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Putin Says Russia Will Keep Testing New Hypersonic Ballistic Missile in Combat](https://img.theepochtimes.com/assets/uploads/2024/06/14/id5669063-Putin-GettyImages-2156859538KO-205x123.jpg.webp)](https://www.theepochtimes.com/world/putin-says-russia-will-keep-testing-new-hypersonic-ballistic-missile-in-combat-5765090)
 * [Americans Need $5.3 Million Net Worth to Be Considered Financially Successful: Survey](https://www.theepochtimes.com/business/americans-need-5-3-million-net-worth-to-be-considered-financially-successful-survey-5765038)
     
-    9hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    15hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Americans Need $5.3 Million Net Worth to Be Considered Financially Successful: Survey](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Americans Need $5.3 Million Net Worth to Be Considered Financially Successful: Survey](https://img.theepochtimes.com/assets/uploads/2024/10/04/id5735637-10042024-L1150983-US-dollar-bills-205x123.jpg.webp)](https://www.theepochtimes.com/business/americans-need-5-3-million-net-worth-to-be-considered-financially-successful-survey-5765038)
 * [NATO Chief Meets With Trump Amid Rising Tensions With Russia](https://www.theepochtimes.com/world/nato-chief-meets-with-trump-amid-rising-tensions-with-russia-5764999)
     
-    10hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    16hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![NATO Chief Meets With Trump Amid Rising Tensions With Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
