@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -30,7 +30,7 @@
     
     [Забыли пароль?](https://www.russianfood.com/forum/ucp.php?mode=sendpassword)
     
-    [Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F)
+    [Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F%3Futm_source%3Dhomescreen%26utm_medium%3Dpwa-icon)
     
 
 [![](/images/common/bottom_logo3_1_cr.gif)](https://www.russianfood.com/)
@@ -50,7 +50,7 @@
 
 [Забыли пароль?](https://www.russianfood.com/forum/ucp.php?mode=sendpassword)  
 
-[Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F)
+[Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F%3Futm_source%3Dhomescreen%26utm_medium%3Dpwa-icon)
 
 ![](/images/loading_16_green2.gif)
 
@@ -152,12 +152,12 @@
 * [Яйца в «муфточке»](https://www.russianfood.com/recipes/recipe.php?rid=50298)
 * [Пирожки «Морозные»](https://www.russianfood.com/recipes/recipe.php?rid=106777)
 * [Соус из окорока](https://www.russianfood.com/recipes/recipe.php?rid=113505)
-* [Горячие творожные бутерброды с сыром](https://www.russianfood.com/recipes/recipe.php?rid=21)
 * [Шницель из мерлузы](https://www.russianfood.com/recipes/recipe.php?rid=124)
-* [Плов из мидий](https://www.russianfood.com/recipes/recipe.php?rid=132)
-* [Горячие бутерброды с рыбой](https://www.russianfood.com/recipes/recipe.php?rid=158)
-* [Палтус в суфле из сыра](https://www.russianfood.com/recipes/recipe.php?rid=170)
-* [Палтус, жаренный во фритюре](https://www.russianfood.com/recipes/recipe.php?rid=173)
+* [Треска, запеченная в вине и сметане](https://www.russianfood.com/recipes/recipe.php?rid=533)
+* [Треска, запеченная в белом соусе](https://www.russianfood.com/recipes/recipe.php?rid=534)
+* [Треска, запеченная с овощами](https://www.russianfood.com/recipes/recipe.php?rid=535)
+* [Тельное из трески с сельдью (1-й вариант)](https://www.russianfood.com/recipes/recipe.php?rid=539)
+* [Улитки по-бургундски](https://www.russianfood.com/recipes/recipe.php?rid=567)
 
 |     |
 | --- |
@@ -332,7 +332,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174297#comments) | 22.11.24 |     |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174297#comments) | 22.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -478,5 +478,3 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
-
-(110)
