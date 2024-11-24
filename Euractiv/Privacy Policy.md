@@ -443,9 +443,9 @@ Most recent
 
 [24-11-2024
 
-Hard right’s Simion in with a chance as Romanians vote for president](https://www.euractiv.com/section/politics/news/hard-rights-simion-in-with-a-chance-as-romanians-vote-for-president/)[24-11-2024
+COP29 outcome: EU upbeat on finance, disappointed on climate action](https://www.euractiv.com/section/eet/news/cop29-outcome-eu-upbeat-on-finance-disappointed-on-climate-action/)[24-11-2024
 
-Developing nations blast $300 billion COP29 climate deal as insufficient](https://www.euractiv.com/section/eet/news/developing-nations-blast-300-billion-cop29-climate-deal-as-insufficient/)[23-11-2024
+Hard right’s Simion in with a chance as Romanians vote for president](https://www.euractiv.com/section/politics/news/hard-rights-simion-in-with-a-chance-as-romanians-vote-for-president/)[23-11-2024
 
 Warsaw Mayor runs for Polish president as ruling party’s candidate](https://www.euractiv.com/section/politics/news/warsaw-mayor-runs-for-polish-president-as-ruling-partys-candidate/)[23-11-2024
 
