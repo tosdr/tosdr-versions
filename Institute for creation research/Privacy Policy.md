@@ -95,6 +95,58 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Government and Politics
+
+[![](/i/Main%20Stage%20-%201400x1050/Jellyfish_Venoms_1400x1050.jpg)](https://www.icr.org/article/jellyfish-serves-variety-venoms-stinging-cocktail)
+
+[Jellyfish Serves Variety of Venoms in Stinging Cocktail](https://www.icr.org/article/jellyfish-serves-variety-venoms-stinging-cocktail/)
+
+Chinese researchers recently reported on venomous toxins of the giant jellyfish. They revealed that this aquatic creature mixes a “cocktail”...
+
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+[![](/i/Main%20Stage%20-%201400x1050/Global_Recession_1400x1050.jpg)](https://www.icr.org/article/international-monetary-fund-global-recession)
+
+[International Monetary Fund Declares Global Recession](https://www.icr.org/article/international-monetary-fund-global-recession/)
+
+On April 3, 2020, International Monetary Fund Chief Kristalina Georgieva stated that the world economy is now in a global recession due to the coronavirus.1...
+
+BY: [TREY BOWLING](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=237)
+
+[![](/i/Main%20Stage%20-%201400x1050/Scottish_Population_1400x1050.jpg)](https://www.icr.org/article/scottish-population-movements-and-genesis-mandate)
+
+[Scottish Population Movements and the Genesis Mandate](https://www.icr.org/article/scottish-population-movements-and-genesis-mandate/)
+
+Some lands welcome newcomers, while others oppose incoming foreigners. Scotland is no exception—and recent population news can be compared to prior...
+
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+More Impact
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/Jupiter's_Young_Moons_1400x1050.jpg)](https://www.icr.org/article/jupiters-young-moons)
+
+[Jupiter's Young Moons](https://www.icr.org/article/jupiters-young-moons/)
+
+In 1610, Galileo Galilei aimed his telescope at Jupiter and discovered the four largest of the planet’s 95 known moons. He recognized them as...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/articles/af/dna_science_disproves_ev_wide.jpg)](https://www.icr.org/article/dna-science-disproves-human-evolution)
+
+[DNA Science Disproves Human Evolution](https://www.icr.org/article/dna-science-disproves-human-evolution/)
+
+The Bible describes humans as being created in the image of God—the pinnacle of His creation. In contrast, those who embrace the presupposition...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/fossils_say_no_jostle_jurassic.jpg)](https://www.icr.org/article/the-fossils-still-say-no-jostle-in-the-jurassic)
+
+[The Fossils Still Say No: Jostle in the Jurassic](https://www.icr.org/article/the-fossils-still-say-no-jostle-in-the-jurassic/)
+
+The Jurassic system of the geologic column is an enigma to evolutionists because it represents a continuance of many life forms found buried below in...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
