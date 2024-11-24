@@ -282,7 +282,7 @@ Last Name (optional)
   
 Email  
 
- I want to receive email updates. 
+I want to receive email updates. 
 
 Subscribe
 
