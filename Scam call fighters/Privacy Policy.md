@@ -355,7 +355,7 @@ Email: [\[email protected\]](http://www.scamcallfighters.com/cdn-cgi/l/email-pr
 
 Địa chỉ: 78/4 Tân Hòa Đông, Phường 14, Quận 6, Thành phố Hồ Chí Minh
 
-Mô hình SEO: DK TRÙM SEO
+Mô hình SEO: DK AUTO
 
 [RSS](http://www.scamcallfighters.com/feed/) [Giới thiệu](http://www.scamcallfighters.com/gioi-thieu.html "Giới thiệu") [Liên hệ](http://www.scamcallfighters.com/lien-he.html "Liên hệ") [Điều khoản](http://www.scamcallfighters.com/dieu-khoan-html "Điều khoản")
 
