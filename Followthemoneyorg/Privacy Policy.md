@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![CA Health Industry Giving 2002-2012](/assets/Images/teasers/full/CAHealthIndGvg2002-2012.png)](http://www.followthemoney.org/ca-localelections/health-industry-ca-infographic)
-
-CA Health Industry Giving 2002-2012
+[![2014 Candidate Elections Overview](/assets/Images/teasers/full/Leg-by-Office-2014.png)](http://www.followthemoney.org/research/institute-reports/2014-candidate-elections-overview/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
