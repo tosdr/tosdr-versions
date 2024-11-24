@@ -1,5 +1,3 @@
-![](https://s.lalal.ai/img/sale-graphic/percent.svg)Act Fast! Get 650 Minutes![](https://s.lalal.ai/img/sale-graphic/percent.svg) for only $40 before 01/12/2024 ![](https://s.lalal.ai/img/sale-graphic/percent.svg)
-
 [](https://www.lalal.ai/)
 
 ProductsNew
