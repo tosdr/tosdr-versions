@@ -94,7 +94,7 @@ Chapitre 1 – Loi Applicable
 
 Le Site est soumis à la loi française. Toute utilisation qui en est faite doit l’être dans des conditions la respectant et sera réputée être intervenue sur le territoire français. Tout accès et/ou utilisation du Site vaut acceptation expresse et sans réserve des présentes conditions générales d’utilisation.
 
-Aux fins des présentes, les expressions “vous”, “votre “, “utilisateur “, et “membre” désignent toute personne consultant, ayant tenté de consulter ou ayant consulté tout élément, de quelque nature que ce soit, d’une page HTML accessible via le nom de domaine principal du Site indiqué ci-dessus.
+Aux fins des présentes, les expressions « vous », « votre « , « utilisateur « , et « membre » désignent toute personne consultant, ayant tenté de consulter ou ayant consulté tout élément, de quelque nature que ce soit, d’une page HTML accessible via le nom de domaine principal du Site indiqué ci-dessus.
 
 Chapitre 2 - Editeur du site
 ----------------------------
