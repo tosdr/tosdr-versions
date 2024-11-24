@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Fri, Nov 15, 2024
+Sun, Nov 24, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -25,8 +25,9 @@ Fri, Nov 15, 2024
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [India](https://www.news18.com/india/)
+* [Elections](https://www.news18.com/elections/)
 * [Cricket](https://www.news18.com/cricket/)
+* [India](https://www.news18.com/india/)
 * [Web Stories](https://www.news18.com/web-stories/)
 * [Lifestyle](https://www.news18.com/lifestyle/)
 * [Viral](https://www.news18.com/viral/)
@@ -34,15 +35,14 @@ Fri, Nov 15, 2024
 * [Videos](https://www.news18.com/videos/)
 * [Business](https://www.news18.com/business/)
 * [Education](https://www.news18.com/education-career/)
-* [Politics](https://www.news18.com/politics/)
 * More
     
+    * [Politics](https://www.news18.com/politics/)
     * [Showsha](https://www.news18.com/entertainment/)
     * [Opinion](https://www.news18.com/opinion/)
     * [Explainers](https://www.news18.com/explainers/)
     * [Podcast](https://www.news18.com/podcast/)
     * [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
-    * [Elections](https://www.news18.com/elections/)
     * [Sports](https://www.news18.com/sports/)
     * [Photos](https://www.news18.com/photogallery/)
     * [Tech](https://www.news18.com/tech/)
@@ -101,8 +101,9 @@ English
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [India](https://www.news18.com/india/)
+* [Elections](https://www.news18.com/elections/)
 * [Cricket](https://www.news18.com/cricket/)
+* [India](https://www.news18.com/india/)
 * [Web Stories](https://www.news18.com/web-stories/)
 * [Lifestyle](https://www.news18.com/lifestyle/)
 * [Viral](https://www.news18.com/viral/)
@@ -116,7 +117,6 @@ English
 * [Explainers](https://www.news18.com/explainers/)
 * [Podcast](https://www.news18.com/podcast/)
 * [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
-* [Elections](https://www.news18.com/elections/)
 * [Sports](https://www.news18.com/sports/)
 * [Photos](https://www.news18.com/photogallery/)
 * [Tech](https://www.news18.com/tech/)
@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Maheep Kapoor](https://www.news18.com/movies/maheep-kapoor-was-dead-drunk-when-she-first-met-sanjay-kapoor-sridevi-had-a-one-night-stand-9120981.html)
-    * [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-breaks-silence-on-leaving-kapil-sharma-show-there-were-political-9120820.html)
-    * [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
-    * [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
-    * [Haka Dance](https://www.news18.com/world/new-zealand-mp-performs-traditional-haka-dance-in-parliament-rips-up-copy-of-indigenous-treaty-bill-9120896.html)
-    * [JEE Main 2025](https://www.news18.com/education-career/jee-main-2025-only-5-10-lakh-applications-so-far-why-obc-and-ews-students-are-not-applying-9118860.html)
-    * [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
+    * [Maharashtra Winners](https://www.news18.com/elections/maharashtra-election-results-full-list-of-winners-of-288-assembly-seats_seat_winner_votes-polled_2nd-place_votes-polled-9129523.html)
+    * [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-mahayuti-bjp-shiv-sena-ncp-devendra-fadnavis-eknath-shinde-chief-minister-post-liveblog-9132055.html)
+    * [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-buys-luxurious-rolls-royce-takes-family-for-a-drive-watch-9132007.html)
+    * [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-opens-up-on-negativity-amid-aishwarya-rai-divorce-rumours-i-cant-change-9132011.html)
+    * [WhatsApp](https://www.news18.com/tech/whatsapp-offers-secret-code-to-protect-your-chats-how-it-works-9118719.html)
+    * [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-3-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9131750.html)
+    * [IPL Auction](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Maheep Kapoor](https://www.news18.com/movies/maheep-kapoor-was-dead-drunk-when-she-first-met-sanjay-kapoor-sridevi-had-a-one-night-stand-9120981.html)
-* [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-breaks-silence-on-leaving-kapil-sharma-show-there-were-political-9120820.html)
-* [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
-* [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
-* [Haka Dance](https://www.news18.com/world/new-zealand-mp-performs-traditional-haka-dance-in-parliament-rips-up-copy-of-indigenous-treaty-bill-9120896.html)
-* [JEE Main 2025](https://www.news18.com/education-career/jee-main-2025-only-5-10-lakh-applications-so-far-why-obc-and-ews-students-are-not-applying-9118860.html)
-* [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
+* [Maharashtra Winners](https://www.news18.com/elections/maharashtra-election-results-full-list-of-winners-of-288-assembly-seats_seat_winner_votes-polled_2nd-place_votes-polled-9129523.html)
+* [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-mahayuti-bjp-shiv-sena-ncp-devendra-fadnavis-eknath-shinde-chief-minister-post-liveblog-9132055.html)
+* [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-buys-luxurious-rolls-royce-takes-family-for-a-drive-watch-9132007.html)
+* [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-opens-up-on-negativity-amid-aishwarya-rai-divorce-rumours-i-cant-change-9132011.html)
+* [WhatsApp](https://www.news18.com/tech/whatsapp-offers-secret-code-to-protect-your-chats-how-it-works-9118719.html)
+* [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-3-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9131750.html)
+* [IPL Auction](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -289,7 +289,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 15, 2024
+Nov 24, 2024
 
 [View All](https://www.news18.com/short-news/)
 
