@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I'm an engineer. I see myself as a toolmaker and the musicians are my customers... They use my tools”
+“ Seek freedom and become captive of your desires. Seek discipline and find your liberty”
 
-[Robert Moog](http://en.wikipedia.org/wiki/Robert_Moog)
+[Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)
 
 [](https://www.adafruit.com/about)
 
