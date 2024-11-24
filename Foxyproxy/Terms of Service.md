@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-19 minutes from request to solution - that's a new record, for sure :-) Thank you very much, keep up the good work and best regards from Berlin.
+I did a new 6-month subscription with FoxyProxy this week, Still luv FoxyProxy!
 
-Per Kall
+Tim Relf
