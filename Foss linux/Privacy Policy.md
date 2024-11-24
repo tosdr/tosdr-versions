@@ -131,7 +131,7 @@ Whether you’re a beginner or an experienced user, FOSS Linux has something for
 
 * [Ubuntu (312)](https://www.fosslinux.com/category/ubuntu)
 * [Learn Linux (259)](https://www.fosslinux.com/category/learn-linux)
-* [Downloads (257)](https://www.fosslinux.com/category/downloads)
+* [Downloads (258)](https://www.fosslinux.com/category/downloads)
 * [News (186)](https://www.fosslinux.com/category/news)
 * [Beginner's Guide (183)](https://www.fosslinux.com/category/beginners-guide)
 * [Terminal Tuts (168)](https://www.fosslinux.com/category/terminal-tuts)
