@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Trump picks former adviser Brooke Rollins for Agriculture Secretary](https://nypost.com/2024/11/23/us-news/trump-picks-brooke-rollins-for-agriculture-secretary-report/)
+
 Privacy Notice Highlights
 =========================
 
