@@ -1,8 +1,8 @@
 top of page
 
-![](https://static.wixstatic.com/media/90e726_eb0bb24a1e8d4466b057cd692b719b8a~mv2_d_4908_4218_s_4_2.jpg/v1/fill/w_288,h_248,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/90e726_eb0bb24a1e8d4466b057cd692b719b8a~mv2_d_4908_4218_s_4_2.jpg)
+![](https://static.wixstatic.com/media/90e726_eb0bb24a1e8d4466b057cd692b719b8a~mv2_d_4908_4218_s_4_2.jpg/v1/fill/w_288,h_248,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/90e726_eb0bb24a1e8d4466b057cd692b719b8a~mv2_d_4908_4218_s_4_2.jpg)
 
-![sun-sounds 10year anniversary est 2014](https://static.wixstatic.com/media/90e726_854e450e66f94256963a04967aff9efd~mv2.png/v1/fill/w_158,h_136,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/10yearceleb2_edited_edited.png)
+![sun-sounds 10year anniversary est 2014](https://static.wixstatic.com/media/90e726_854e450e66f94256963a04967aff9efd~mv2.png/v1/fill/w_158,h_136,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/10yearceleb2_edited_edited.png)
 
 [\+ 356 79016222](tel:+356 79016222)
 
@@ -39,7 +39,7 @@ top of page
 
 Use tab to navigate through the menu items.
 
-![sun-sounds music shop malta](https://static.wixstatic.com/media/90e726_0365e41e0cce4dd39f7c83064d4682db~mv2.png/v1/fill/w_272,h_116,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/90e726_0365e41e0cce4dd39f7c83064d4682db~mv2.png)
+![sun-sounds music shop malta](https://static.wixstatic.com/media/90e726_0365e41e0cce4dd39f7c83064d4682db~mv2.png/v1/fill/w_272,h_116,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/90e726_0365e41e0cce4dd39f7c83064d4682db~mv2.png)
 
 Student Log In
 
