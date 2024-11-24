@@ -468,21 +468,29 @@ Revised June 1, 2022
 
   [![U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435630.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.")](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
 
+[After Shohei Ohtani bump, Iwate ironware maker sees brighter future](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
+
+  [![Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435319.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.")](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
+
 [Japan approves ¥21.9 trillion stimulus plan](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
 
   [![The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435769.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The policy chiefs of the Democratic Party for the People, Liberal Democratic Party and Komeito — Makoto Hamaguchi (left), Itsunori Onodera (center) and Mitsunari Okamoto — shake hands after reaching an agreement on an economic stimulus package on Wednesday.")](https://www.japantimes.co.jp/business/2024/11/22/economy/japan-stimulus-approved/ "Japan approves ¥21.9 trillion stimulus plan")
+
+[Woman dies after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
+
+  [![A Moka Railway train car](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435894.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Moka Railway train car")](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
 
 [Japan will spend ¥325 million in government funds on Princess Yuriko's funeral](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
 
   [![Princess Yuriko waves during the New Year's public greeting at the Imperial Palace in Tokyo in January 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435838.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko waves during the New Year's public greeting at the Imperial Palace in Tokyo in January 2019.")](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
 
-[MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/mufg-fire-worker-theft/ "MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes")
+[133-year-old Kyushu railway station remains to be partially preserved](https://www.japantimes.co.jp/news/2024/11/22/japan/society/kitakyushu-remains-preservation/ "133-year-old Kyushu railway station remains to be partially preserved")
 
-  [![Mitsubishi UFJ Financial Group is investigating the incident and consulting with the police.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435833.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Mitsubishi UFJ Financial Group is investigating the incident and consulting with the police.")](https://www.japantimes.co.jp/news/2024/11/22/japan/crime-legal/mufg-fire-worker-theft/ "MUFG fires worker over ¥2 billion theft from clients’ safe deposit boxes")
+  [![The remains of the original Moji Station in Kitakyushu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435643.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The remains of the original Moji Station in Kitakyushu")](https://www.japantimes.co.jp/news/2024/11/22/japan/society/kitakyushu-remains-preservation/ "133-year-old Kyushu railway station remains to be partially preserved")
 
-[China reinstates visa-free travel for Japanese nationals](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
+[After Shohei Ohtani bump, Iwate ironware maker sees brighter future](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
 
-  [![Beijing Daxing International Airport ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435832.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Beijing Daxing International Airport ")](https://www.japantimes.co.jp/news/2024/11/22/japan/china-visa-free-access-to-japan/ "China reinstates visa-free travel for Japanese nationals")
+  [![Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435319.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.")](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
 
 [Shohei Ohtani wins National League MVP award](https://www.japantimes.co.jp/sports/2024/11/22/baseball/mlb/ohtani-wins-mvp-award/ "Shohei Ohtani wins National League MVP award")
 
@@ -495,16 +503,6 @@ Revised June 1, 2022
 [Around a quarter of Japan married couples in their 20s met through dating apps](https://www.japantimes.co.jp/news/2024/11/21/japan/society/young-couples-dating-app/ "Around a quarter of Japan married couples in their 20s met through dating apps")
 
   [![A survey released by an organization promoting “Good Couples Day” shows that 24% of couples in their 20s met their marriage partner through a dating app.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435515.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A survey released by an organization promoting “Good Couples Day” shows that 24% of couples in their 20s met their marriage partner through a dating app.")](https://www.japantimes.co.jp/news/2024/11/21/japan/society/young-couples-dating-app/ "Around a quarter of Japan married couples in their 20s met through dating apps")
-
-['Tokyo Swindlers': Get deep into the minds of real estate con artists](https://www.japantimes.co.jp/culture/2024/11/21/books/tokyo-swindlers/ "'Tokyo Swindlers': Get deep into the minds of real estate con artists")
-
-  [![In Ko Shinjo's "Tokyo Swindlers," a group of con artists manipulates real estate giants into falsified deals within the highly competitive, quick market.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/434325.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In Ko Shinjo's "Tokyo Swindlers," a group of con artists manipulates real estate giants into falsified deals within the highly competitive, quick market.")](https://www.japantimes.co.jp/culture/2024/11/21/books/tokyo-swindlers/ "'Tokyo Swindlers': Get deep into the minds of real estate con artists")
-
-[Japan, U.K. and Italy discuss inviting more countries to joint fighter project](https://www.japantimes.co.jp/news/2024/11/20/japan/gcap-fighter-jets/ "Japan, U.K. and Italy discuss inviting more countries to joint fighter project")
-
-  [![A new concept model of a next-generation fighter jet to be jointly developed by Japan, Britain and Italy is on display in Farnborough, Hampshire, in July.
-](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/20/435168.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A new concept model of a next-generation fighter jet to be jointly developed by Japan, Britain and Italy is on display in Farnborough, Hampshire, in July.
-")](https://www.japantimes.co.jp/news/2024/11/20/japan/gcap-fighter-jets/ "Japan, U.K. and Italy discuss inviting more countries to joint fighter project")
 
 Podcast
 -------
@@ -525,9 +523,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,17 +565,21 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Former Prime Minister Kishida launches new group in ruling LDP](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/former-pm-kishida-new-group/ "Former Prime Minister Kishida launches new group in ruling LDP")
+
+2 hours ago
+
+[Biden rushes to bolster Ukraine before Trump takes control](https://www.japantimes.co.jp/news/2024/11/24/world/politics/biden-bolster-ukraine-trump-return/ "Biden rushes to bolster Ukraine before Trump takes control")
+
+2 hours ago
+
+[Trump casts long shadow over summits as world holds its breath](https://www.japantimes.co.jp/news/2024/11/24/world/politics/trump-shadow-summits/ "Trump casts long shadow over summits as world holds its breath")
+
+2 hours ago
+
 [Seven & I founding family sounded out KKR and others about buyout: report](https://www.japantimes.co.jp/business/2024/11/23/seven-i-buyout-talks/ "Seven & I founding family sounded out KKR and others about buyout: report")
 
-11 hours ago
-
 [Trump tariffs may target Japanese cars, economist says](https://www.japantimes.co.jp/business/2024/11/23/trump-japanese-cars-tariffs/ "Trump tariffs may target Japanese cars, economist says")
-
-[Woman dies after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
-
-[Japan to aid introduction of multilingual ride-hailing apps](https://www.japantimes.co.jp/news/2024/11/23/japan/society/japan-multilingual-ride-hailing-app/ "Japan to aid introduction of multilingual ride-hailing apps")
-
-[Powerful Israeli airstrike in central Beirut kills 11, Lebanese health ministry says](https://www.japantimes.co.jp/news/2024/11/23/world/israel-beirut-strike/ "Powerful Israeli airstrike in central Beirut kills 11, Lebanese health ministry says")
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
