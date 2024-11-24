@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I had a great experience using my Canadian proxy to watch CBC's coverage of the World Cup. I let my subscription expire because I'll have no need for a Canadian proxy for awhile, but I definitely enjoyed it while I had it.
+I just made a new subscription. Thanks again for helping me. Your support is really great!
 
-Philip Welch
+Carsten Thienemann
