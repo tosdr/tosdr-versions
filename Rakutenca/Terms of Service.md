@@ -25,7 +25,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/joe-fresh-canada)[Carter’s OshKosh B’gosh
         
-        4% Cash Back](https://www.rakuten.ca/carters-oshkosh-bgosh)[Baby Gap
+        2% Cash Back](https://www.rakuten.ca/carters-oshkosh-bgosh)[Baby Gap
         
         2% Cash Back](https://www.rakuten.ca/baby-gap)[Gymboree
         
@@ -95,7 +95,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/simons)[Gap Canada
         
-        6% Cash Back](https://www.rakuten.ca/gap-canada)
+        2% Cash Back](https://www.rakuten.ca/gap-canada)
         
         Featured Shops & Deals
         
@@ -285,11 +285,11 @@ FR
         
         Recommended Stores
         
-        [SkinCeuticals Canada
+        [Clinique
         
-        6% Cash Back](https://www.rakuten.ca/skinceuticals)[Clinique
+        6% Cash Back](https://www.rakuten.ca/clinique)[SkinCeuticals Canada
         
-        6% Cash Back](https://www.rakuten.ca/clinique)[Aveda
+        6% Cash Back](https://www.rakuten.ca/skinceuticals)[Aveda
         
         3% Cash Back](https://www.rakuten.ca/aveda)[Clearly
         
