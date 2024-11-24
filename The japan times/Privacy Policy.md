@@ -468,6 +468,10 @@ Revised June 1, 2022
 
   [![U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435630.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. 7th Fleet Commander Vice Adm. Fred Kacher speaks to reporters shortly after the arrival of aircraft carrier USS George Washington at Yokosuka naval base in Kanagawa Prefecture on Friday.")](https://www.japantimes.co.jp/news/2024/11/22/japan/uss-george-washington-yokosuka/ "U.S. aircraft carrier returns to Japan carrying navy’s ‘most capable fighter’")
 
+[Tokyo police care for lost umbrellas, keys and flying squirrels](https://www.japantimes.co.jp/news/2024/11/23/japan/tokyo-police-lost-items-care/ "Tokyo police care for lost umbrellas, keys and flying squirrels")
+
+  [![An employee at the Tokyo Metropolitan Police Department Lost and Found Center in the Iidabashi area of central Tokyo bags, tags and organizes thousands of items.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435876.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An employee at the Tokyo Metropolitan Police Department Lost and Found Center in the Iidabashi area of central Tokyo bags, tags and organizes thousands of items.")](https://www.japantimes.co.jp/news/2024/11/23/japan/tokyo-police-lost-items-care/ "Tokyo police care for lost umbrellas, keys and flying squirrels")
+
 [After Shohei Ohtani bump, Iwate ironware maker sees brighter future](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
 
   [![Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435319.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.")](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
@@ -479,10 +483,6 @@ Revised June 1, 2022
 [Woman dies after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
 
   [![A Moka Railway train car](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435894.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Moka Railway train car")](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
-
-[Japan will spend ¥325 million in government funds on Princess Yuriko's funeral](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
-
-  [![Princess Yuriko waves during the New Year's public greeting at the Imperial Palace in Tokyo in January 2019.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435838.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko waves during the New Year's public greeting at the Imperial Palace in Tokyo in January 2019.")](https://www.japantimes.co.jp/news/2024/11/22/japan/princess-yuriko-funeral-funds/ "Japan will spend ¥325 million in government funds on Princess Yuriko's funeral")
 
 [133-year-old Kyushu railway station remains to be partially preserved](https://www.japantimes.co.jp/news/2024/11/22/japan/society/kitakyushu-remains-preservation/ "133-year-old Kyushu railway station remains to be partially preserved")
 
@@ -523,9 +523,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,21 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Former Prime Minister Kishida launches new group in ruling LDP](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/former-pm-kishida-new-group/ "Former Prime Minister Kishida launches new group in ruling LDP")
+[An iconic 32-foot donut might give Randy’s an edge in Japan](https://www.japantimes.co.jp/business/2024/11/24/companies/randys-donut-japan/ "An iconic 32-foot donut might give Randy’s an edge in Japan")
+
+26 mins ago
+
+[First ceremony held to remember Sado gold mine workers](https://www.japantimes.co.jp/news/2024/11/24/japan/first-ceremony-sado-gold-mine-workers/ "First ceremony held to remember Sado gold mine workers")
 
 2 hours ago
 
-[Biden rushes to bolster Ukraine before Trump takes control](https://www.japantimes.co.jp/news/2024/11/24/world/politics/biden-bolster-ukraine-trump-return/ "Biden rushes to bolster Ukraine before Trump takes control")
+[Legal threats close in on Israel's Netanyahu and could impact ongoing wars](https://www.japantimes.co.jp/news/2024/11/24/world/politics/legal-threats-israel-netanyahu-wars/ "Legal threats close in on Israel's Netanyahu and could impact ongoing wars")
 
 2 hours ago
 
-[Trump casts long shadow over summits as world holds its breath](https://www.japantimes.co.jp/news/2024/11/24/world/politics/trump-shadow-summits/ "Trump casts long shadow over summits as world holds its breath")
+[Israeli settlers set sights on Trump support for full control of West Bank](https://www.japantimes.co.jp/news/2024/11/24/world/politics/israeli-settlers-trump-west-bank/ "Israeli settlers set sights on Trump support for full control of West Bank")
 
 2 hours ago
 
-[Seven & I founding family sounded out KKR and others about buyout: report](https://www.japantimes.co.jp/business/2024/11/23/seven-i-buyout-talks/ "Seven & I founding family sounded out KKR and others about buyout: report")
+[Iran braces for Trump reset with economy buckling from sanctions](https://www.japantimes.co.jp/news/2024/11/24/world/politics/iran-trump-economy-sanctions/ "Iran braces for Trump reset with economy buckling from sanctions")
 
-[Trump tariffs may target Japanese cars, economist says](https://www.japantimes.co.jp/business/2024/11/23/trump-japanese-cars-tariffs/ "Trump tariffs may target Japanese cars, economist says")
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
