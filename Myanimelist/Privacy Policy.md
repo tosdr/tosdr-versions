@@ -50,7 +50,7 @@ View all results for ${ keyword }
     * [Report](https://myanimelist.net/modules.php?go=report&_location=mal_h_m)
     * [Staff](https://myanimelist.net/staff?_location=mal_h_m)
     * [MAL Supporter](https://myanimelist.net/membership?_location=mal_h_m)
-* [![Bunkasai 2024](https://cdn.myanimelist.net/images/event/20230918_Bunkasai_2023/badge.png)](https://myanimelist.net/forum/?topicid=2189217%26utm_source%3DMAL%26utm_medium%3Dglobalmenu_bunkasai2024&_location=mal_h_m)
+* [![Santa Hat 2024](https://cdn.myanimelist.net/images/event/2016_christmas/MAL-Christmas-Hat.png)](https://myanimelist.net/forum/?topicid=2189767&utm_source=MAL&utm_medium=globalmenu_secretsanta2024)
 
 MyAnimeList Privacy Policy
 ==========================
