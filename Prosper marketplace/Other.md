@@ -132,59 +132,12 @@
 
 X
 
-Our site is undergoing maintenance
-----------------------------------
+Investor Credit Report Authorization
+====================================
 
-The Prosper site is down for scheduled maintenance and should be available after 7:00AM PST. We appreciate your patience during this time.
+I understand that I am providing “written instructions” to Prosper Funding LLC (“Prosper”) under the Fair Credit Reporting Act authorizing Prosper, Prosper’s parent company, Prosper Marketplace, Inc., or their respective agents (collectively, the “Prosper Parties”), to obtain information from my personal credit profile from one or more consumer reporting agencies. I authorize the Prosper Parties to obtain such information to confirm my eligibility to invest, including but not limited to my residence and identity.
 
-Contact us
-----------
-
-**General:** [\[email protected\]](https://www.prosper.com/cdn-cgi/l/email-protection)
-
-**Personal Loan**
-
-866-615-6319
-
-Monday – Friday  
-5 AM – 5 PM PT
-
-**Investor**
-
-877-646-5922
-
-Monday – Friday  
-6 AM – 3 PM PT
-
-**Credit Card**
-
-800-903-4697
-
-Monday – Sunday  
-5 AM – 7 PM PT
-
-**Home Equity**
-
-800-954-2172
-
-Monday – Friday  
-7 AM – 4 PM PT
-
-IMPORTANT INFORMATION ABOUT PROCEDURES FOR OPENING A NEW ACCOUNT.
-
-To help the government fight the funding of terrorism and money laundering activities, Federal law requires all financial institutions to obtain, verify, and record information that identifies each person who opens an account.
-
-What this means for you: When you open an account, we will ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see your driver’s license or other identifying documents.
-
-\*  For example, a three-year $10,000 personal loan would have an interest rate of 9.38% and a 9.99% origination fee for an annual percentage rate (APR) of 16.74% APR. You would receive $9,001.00 and make 36 scheduled monthly payments of $319.77. A five-year $10,000 personal loan would have an interest rate of 11.14% and a 9.99% origination fee with a 15.84% APR. You would receive $9,001.00 and make 60 scheduled monthly payments of $218.12. Origination fees vary between 1% and 9.99%. Personal loan APRs through Prosper range from 8.99% to 35.99%, with the lowest rates for the most creditworthy borrowers. Eligibility for personal loans up to $50,000 depends on the information provided by the applicant in the application form. Eligibility for personal loans is not guaranteed, and requires that a sufficient number of investors commit funds to your account and that you meet credit and other conditions. Refer to Borrower Registration Agreement for details and all terms and conditions. All personal loans made by WebBank.
-
-Links to third party sites are provided for your convenience and do not constitute an endorsement.
-
-All HELOCs are underwritten and issued by our banking partners.
-
-Prosper and WebBank take your privacy seriously.
-
-Please see [WebBank’s Privacy Policy](https://www.webbank.com/privacy) for more details.
+Notes offered by Prospectus. Notes investors receive are dependent for payment on unsecured loans made to individual borrowers. Not FDIC-insured; investments may lose value; no Prosper or bank guarantee. Prosper does not verify all information provided by borrowers in listings. Investors should review the prospectus before investing.
 
 **[Personal Loans](https://www.prosper.com/personal-loans)**
 
