@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-It was a great service. I don't need it now, but I will need it again starting in April for six months, so I will get back to you then.
+I've been using your UK Proxy service for a couple weeks now and like it very much. I'd like it to be extended to a yearly contract.
 
-Douglas
+Jeff Schmidt
