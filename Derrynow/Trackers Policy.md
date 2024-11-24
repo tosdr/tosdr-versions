@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-23 Nov 2024
+24 Nov 2024
 
 * [Home
     
@@ -280,14 +280,12 @@ Most Popular
 [Two men killed and three other people hospitalised in Donegal collision](https://www.derrynow.com/news/local-news/1662935/two-men-killed-and-three-other-people-hospitalised-in-donegal-collision.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Santa thrills the crowds as Derry lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
-
-The magical scene in Guildhall Square on Friday night as the Christmas Tree is switched on.
+[![Derry and Strabane Council issues update on services in relation to Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry and Strabane Council issues update on services in relation to Storm Bert")](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/news/local-news/1662788/santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry and Strabane Council issues update on services in relation to Storm Bert](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Sections of Letterkenny and Foyle roads in Derry currently flooded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sections of Letterkenny and Foyle roads in Derry currently flooded")](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
 
@@ -295,20 +293,6 @@ The magical scene in Guildhall Square on Friday night as the Christmas Tree is s
 
 [Sections of Letterkenny and Foyle roads in Derry currently flooded](https://www.derrynow.com/news/local-news/1662916/sections-of-letterkenny-and-foyle-roads-in-derry-currently-flooded.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/story-telling/pictures---videos/1662811/in-pictures-santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/story-telling/pictures---videos/1662811/in-pictures-santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry and Strabane Council issues update on services in relation to Storm Bert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry and Strabane Council issues update on services in relation to Storm Bert")](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry and Strabane Council issues update on services in relation to Storm Bert](https://www.derrynow.com/news/local-news/1663135/derry-and-strabane-council-issues-update-on-services-in-relation-to-storm-bert.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Requiem Mass for popular Derry-born priest Fr William John Bradley](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Requiem Mass for popular Derry-born priest Fr William John Bradley")](https://www.derrynow.com/news/local-news/1662262/requiem-mass-for-popular-derry-born-priest-fr-william-john-bradley.html)
 
@@ -332,6 +316,22 @@ The late Fr John Bradley.
 
 [Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Second half goals deny Craigbane Ulster title at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Second half goals deny Craigbane Ulster title at Celtic Park")](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
+
+There was devastation for Craigbane in the Ulster final at Celtic Park. Pic by Tom Heaney, nwpresspics
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Second half goals deny Craigbane Ulster title at Celtic Park](https://www.derrynow.com/news/derry-sport/1663212/second-half-goals-deny-craigbane-ulster-title-at-celtic-park.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.ireland-live.ie/news/derry-now/1662836/derry-death-notices-saturday-november-23-2024.html)
+
+[Derry Now](https://www.ireland-live.ie/section/2227/derrynow)
+
+[Derry Death Notices - Saturday, November 23, 2024](https://www.ireland-live.ie/news/derry-now/1662836/derry-death-notices-saturday-november-23-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
