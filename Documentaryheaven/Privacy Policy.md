@@ -108,16 +108,16 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
-    
-    Objectified
-    
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
     
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    
+    Objectified
+    
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Dog Factory](/wp-content/thumbnails/10091-100x70.jpg?x53432)
+* [![The Rise of Acid Attacks in the UK](/wp-content/thumbnails/13351-100x70.jpg?x53432)
     
-    The Dog Factory
+    The Rise of Acid Attacks in the UK
     
-    BBC Scotland goes on a journey through the ruthless world of dog trade, from the small-time illegal sellers to some of the counties biggest dog traffickers. Talking to the breeders and confronting tho](https://documentaryheaven.com/dog-factory/ "The Dog Factory")
-* [![PT 2/3 Atom – The Key to the Cosmos](/wp-content/thumbnails/1754-100x70.jpg?x53432)
+    Acid attacks have existed worldwide for as long as corrosive substances have been around but only in recent years have they become somewhat common place with a reported 1,800 attacks occuring in Londo](https://documentaryheaven.com/rise-of-acid-attacks-in-uk/ "The Rise of Acid Attacks in the UK")
+* [![Kids with Guns: UK’s Army Cadet Force](/wp-content/thumbnails/9529-100x70.jpg?x53432)
     
-    PT 2/3 Atom – The Key to the Cosmos
+    Kids with Guns: UK’s Army Cadet Force
     
-    In this three-part documentary series, Professor Jim Al-Khalili tells the story of one of the greatest scientific discoveries ever: that the material world is made up of atoms.This episode tackles w](https://documentaryheaven.com/pt-23-atom-the-key-to-the-cosmos/ "PT 2/3 Atom – The Key to the Cosmos")
-* [![Who Gets the Best Jobs?](/wp-content/thumbnails/7762-100x70.jpg?x53432)
+    VICE releases a new episode to their on going series "Rule Britannia", the film follows United Kingdom's Army Cadet Force to get an inside view of how the Army trains and recruits young kids to join t](https://documentaryheaven.com/kids-guns-uks-army-cadet-force/ "Kids with Guns: UK’s Army Cadet Force")
+* [![How Robots Will Change the World](/wp-content/thumbnails/8754-100x70.jpg?x53432)
     
-    Who Gets the Best Jobs?
+    How Robots Will Change the World
     
-    Britain is a less equal society than at any time since World War One. In Who Gets the Best Jobs, Richard Bilton investigates access to the professions - and finds that the best jobs are being snapped](https://documentaryheaven.com/who-gets-best-jobs/ "Who Gets the Best Jobs?")
-* [![Tupac Shakur: Thug Angel](/wp-content/thumbnails/13324-100x70.jpg?x53432)
+    Robotics is the art and commerce of robots, their design, manufacture, application, and practical use. Robots will soon be everywhere, in our home and at work. They will change the way we live. This w](https://documentaryheaven.com/how-robots-will-change-world/ "How Robots Will Change the World")
+* [![History of Swords](/wp-content/thumbnails/9490-100x70.jpg?x53432)
     
-    Tupac Shakur: Thug Angel
+    History of Swords
     
-    Critically acclaimed documentary filmmaker Peter Spirer who is known for releasing the likes of Rhyme & Reason and other such hip-hop related titles has gone all in on this on](https://documentaryheaven.com/tupac-shakur-thug-angel/ "Tupac Shakur: Thug Angel")
-* [![A War on Science](/wp-content/thumbnails/564-100x70.png?x53432)
+    Since it's inception right up until the modern era the sword has always represented a sense of power and justice whilst influencing many significant moments throughout history. Today we can see many r](https://documentaryheaven.com/history-swords/ "History of Swords")
+* [![EP2/3 Genius of Britain](/wp-content/thumbnails/5810-100x70.jpg?x53432)
     
-    A War on Science
+    EP2/3 Genius of Britain
     
-    An interesting documentary charting the war between religions creationist (Intelligent Design) theologies versus modern science's theories.](https://documentaryheaven.com/a-war-on-science/ "A War on Science")
+    A Roomful of Brilliant Minds This episode looks at the scientific spark that ignited the Industrial Revolution in Britain. James Dyson tells the story of how a young James Watt was inspired to perfect](https://documentaryheaven.com/genius-of-britain-2/ "EP2/3 Genius of Britain")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
