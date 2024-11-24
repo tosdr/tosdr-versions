@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| A Lot More FreeMax Mcnown<br><br>4:40pm |
-| Dont YaBrett Eldredge<br><br>4:37pm |
-| Ain'T No Love In OklahomaLuke Combs<br><br>4:33pm |
-| Pink SkiesZach Bryan<br><br>4:30pm |
-| AlrightDarius Rucker<br><br>4:27pm |
+| YouDan Shay<br><br>6:58pm |
+| I Never LieZach Top<br><br>6:54pm |
+| Cowboys Cry TooKelsea Ballerini Ft Noah Kahan<br><br>6:51pm |
+| The Kind Of Love We MakeLuke Combs<br><br>6:47pm |
+| No Shoes, No Shirt, No ProblemKenny Chesney<br><br>6:40pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -364,17 +364,17 @@ Featured Brands
 
 News Talk • Eastern
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Top 40 • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
+Top 40 • Pacific NW
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
