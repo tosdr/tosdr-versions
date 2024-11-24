@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Israel-Hezbollah conflict widens after Israeli strike kills Lebanese soldier](https://www.csmonitor.com/World/Middle-East/2024/1124/israel-attack-lebanon-hezbollah-war-strike "Israel-Hezbollah conflict widens after Israeli strike kills Lebanese soldier")
+
 [### Recurring blackouts have roiled Cuba. What’s behind the crisis?](https://www.csmonitor.com/World/Americas/2024/1122/cuba-blackouts-electricity-failure "Recurring blackouts have roiled Cuba. What’s behind the crisis?")
 
 [### Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu](https://www.csmonitor.com/World/Middle-East/2024/1121/netanyahu-arrest-gaza-starves "Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu")
-
-[### Why many in Ukraine oppose a ‘land for peace’ formula to end the war](https://www.csmonitor.com/World/Europe/2024/1121/ukraine-territory-russia-peace-deal "Why many in Ukraine oppose a ‘land for peace’ formula to end the war")
 
 * * *
 
