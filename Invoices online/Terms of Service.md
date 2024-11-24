@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Johan Botha - Brand Xplosion
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=75485165)  
-Cooper Logistics (Pty) Ltd
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=22640669)  
+BD Maintenance
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=62537809)  
-Frameless Fanatix (Pty) Ltd.
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=147770212)  
+Forgotten Goods (Pty) Ltd
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=156959998)  
-Vplay Grafix
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=210223444)  
+Website Café (PTY) LTD
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=119070009)  
-Cooper Power Cape Town (Pty) Ltd
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=173213894)  
-OrgChart Hosting Pty Ltd
-
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=130225988)  
-VerdanTech Pty Ltd
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=188334358)  
-AquariumSmiths
-
-![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=81043536)  
-M's Frozen Delights
-
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=59561497)  
-WIP Digital Solutions
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=156788631)  
-Peter Salvage Pty Ltd
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=6696081)  
-Desygn
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=17077461)  
-Vplay Letsheng Mall
-
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=105184536)  
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=153831124)  
 VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=41088437)  
-Chiron Medical Solutions
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=121466228)  
+NGB HOLDINGS PTY LTD
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=d2775abc98647e9c951cc6b3423f0b7a4292afe3192bf409ffa925b4532b789a&c=206523655)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=213331860)  
+Qothiphango Mining
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=159055570)  
+OptaServ
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=125062925)  
+Repairs In Motion
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=204128612)  
+MSPCloud (Pty) Ltd
+
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=205703992)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=162306086)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=19855522)  
+OrgChart Hosting Pty Ltd
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=210701671)  
+VerdanTech Pty Ltd
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=19893425)  
+Entidee Enterprise PTY (ltd)
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=e1454919b2a1918f56efc03692924bec02c9c8ba1746a741e7236ecfc07bf223&c=24058143)  
+NJR ICT Services (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
