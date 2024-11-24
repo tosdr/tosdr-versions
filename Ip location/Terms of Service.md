@@ -200,7 +200,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Software Testing (15)](https://www.iplocation.net/blog/category/software-testing)
 * [Mobile App Development (10)](https://www.iplocation.net/blog/category/mobile-app-development)
 * [Web Development (6)](https://www.iplocation.net/blog/category/web-development)
-* [Technology (55)](https://www.iplocation.net/blog/category/technology)
+* [Technology (56)](https://www.iplocation.net/blog/category/technology)
 * [Information Technology (9)](https://www.iplocation.net/blog/category/information-technology)
 * [Electronics (1)](https://www.iplocation.net/blog/category/electronics)
 * [Travel (18)](https://www.iplocation.net/blog/category/travel)
