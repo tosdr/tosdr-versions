@@ -103,6 +103,7 @@ Search
         * [Operations](https://www.floridadisaster.org/dem/response/operations/)
             * [State Watch Office](https://www.floridadisaster.org/dem/response/operations/state-watch-office/)
             * [EOC Position Credentialing Program](https://www.floridadisaster.org/dem/response/operations/eoc-position-credentialing-program/)
+                * [Historical Recognition](https://www.floridadisaster.org/dem/response/operations/eoc-position-credentialing-program/historical-recognition/)
                 * [EOC Credentialing Program Frequently Asked Questions](https://www.floridadisaster.org/dem/response/operations/eoc-position-credentialing-program/eoc-credentialing-program-frequently-asked-questions/)
         * [Regional Response Coordinators](https://www.floridadisaster.org/dem/response/regional-response-coordinators/)
         * [Technological Hazards](https://www.floridadisaster.org/dem/response/technological-hazards/)
@@ -226,9 +227,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Sunday, November 24, 2024**
+**Monday, November 25, 2024**
 
-**...High Pressure Over Southeast U.S. to Continue to Bring Mostly Sunny and Dry Conditions Statewide...Sensitive Wildfire Conditions Across Big Bend, Northeast and Central Florida this Afternoon; Relative Humidity Values Near or Below Critical Thresholds...Near Zero Chance of Rain Statewide...Patchy to Locally Dense Fog Possible Overnight and Early Monday Morning From Big Bend through Northern Peninsula...Moderate Risk for Rip Currents Along Numerous Panhandle and East Coast Beaches...Minor Flooding Continues for Withlacoochee River near Holder and St. Johns River at Astor...No Tropical Cyclone Activity Expected Within Next 7 Days...**
+**...Dense Fog and Low Clouds This Morning For Portions of Big Bend and Suwannee Valley; Patchy Fog Extending Into Northeast and Central Florida...Mostly Dry Conditions Statewide Courtesy og High Pressure; Sparse Showers Possible Along Western Panhandle Throughout the Day...Sensitive Wildfire Conditions for Interio Northeast Florida, I-75 Corridor and Portions of Central Florida...Pleasant Temperatures Statewide in 70s This Afternoon...Patchy to Locally Dense Fog Possible Overnight and Early Tuesday Morning Nearly Statewide; Greatest Chance Across Suwannee Valley...Moderate Risk for Rip Currents Along Numerous Panhandle and East Coast Beaches...Minor Flooding Continues for Withlacoochee River near Holder and St. Johns River at Astor...No Tropical Cyclone Activity Expected Within Next 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
