@@ -566,14 +566,14 @@ Depending on your device and operating system, you may not be able to delete or 
 These settings will typically be found in the "options" or "preferences" menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the "Help" option in your browser for more details.
 
 * (a) [Cookie settings in Internet Explorer](https://support.microsoft.com/en-gb/help/278835/how-to-delete-cookie-files-in-internet-explorer) and [Edge](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)
-* (b) [Cookie settings in Firefox](http://support.mozilla.org/en-US/kb/cookies)
+* (b) [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/websites-say-cookies-are-blocked-unblock-them)
 * (c) [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 * (d) [Cookie settings in Opera](https://help.opera.com/en/latest/web-preferences/)
 * (e) [Cookies settings in Safari web](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac) and [iOS](https://support.apple.com/en-gb/HT201265).
 
 .
 
-If you would like to find out more about cookies and other similar technologies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) or the Network Advertising Initiative's online sources at [www.networkadvertising.org](http://www.networkadvertising.org/).
+If you would like to find out more about cookies and other similar technologies, please visit [allaboutcookies.org](https://allaboutcookies.org/) or the Network Advertising Initiative's online sources at [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 #### 
 
@@ -658,7 +658,7 @@ We may update this European Data Annex from time to time and so you should revie
 
 If we need to provide you with information about something, whether for legal, marketing or other business related purposes, we will select what we believe is the best way to get in contact with you. We will usually do this through email. The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this European Data Annex.
 
-Updated about 1 month ago
+Updated about 4 hours ago
 
 * * *
 
