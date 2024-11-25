@@ -17,7 +17,6 @@
 * [Sponsoren](https://www.uscki.nl/?pagina=Sponsors)
     * [Formorrow](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=69)
     * [Joust](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=68)
-    * [Deloitte](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=74)
     * [Drukbedrijf.nl](https://www.uscki.nl/?pagina=Sponsors&action=detail&id=71)
     * [Voor bedrijven](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Samenwerking&menu=Sponsoren)
 * [Vacatures](https://www.uscki.nl/?pagina=Applications)
@@ -159,11 +158,9 @@ Commissies en groepen binnen Incognito die zich bezighouden met het ontwikkelen 
 
 [![](?pagina=Media/FileView&id=105302&size=normal)](https://www.joust.nl/)
 
-[![](?pagina=Media/FileView&id=108382&size=normal)](https://www.deloitte.com/nl/nl.html)
+[![](?pagina=Media/FileView&id=108315&size=normal)](https://www.dominos.nl/)
 
 [![](?pagina=Media/FileView&id=108280&size=normal)](https://www.drukbedrijf.nl/)
-
-[![](?pagina=Media/FileView&id=108315&size=normal)](https://www.dominos.nl/)
 
 © 2003-2024 - [Privacy Policy](https://www.uscki.nl/?pagina=Wicki/WPublic&subject=Privacy_Policy)  
 
