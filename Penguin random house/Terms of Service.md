@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![A Guide to Colson Whitehead Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/10/22134851/PRH_Site_1200x628_ColsonWhite.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    A Guide to Colson Whitehead Books
+    Books Bans Are on the Rise in America
     
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/colson-whitehead-books/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * * *
 
-* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
-    Audiobooks for Kids
+    Browse All Our Lists, Essays, and Interviews
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * * *
 
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+* [![Children’s & YA Books That Celebrate Native American Heritage](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/04160201/Diversity-Nov-Native-American-Heritage-Month-HL-1500x500-v3.jpg)
     
-    How To Read More in 2024
+    Children’s & YA Books That Celebrate Native American Heritage
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+    Learn More >](https://www.readbrightly.com/native-american-history-experience-kids-teens/)
 
 * <
     
