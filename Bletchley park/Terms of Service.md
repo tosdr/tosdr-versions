@@ -23,11 +23,6 @@ GPNQHZ987
 
 Type above to decrypt our story...
 
-Closure due to weather conditions
----------------------------------
-
-Due to high wind speeds, **Bletchley Park will be closed today (Sunday 24 November)** for the safety of our visitors. We plan to reopen as normal on Monday 25 November. Thank you for your understanding and we hope to see you soon.
-
 Back
 
 * [Tickets](https://bletchleypark.org.uk/book-now/)
