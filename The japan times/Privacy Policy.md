@@ -502,6 +502,10 @@ Revised June 1, 2022
 
   [![The remains of the original Moji Station in Kitakyushu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435643.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The remains of the original Moji Station in Kitakyushu")](https://www.japantimes.co.jp/news/2024/11/22/japan/society/kitakyushu-remains-preservation/ "133-year-old Kyushu railway station remains to be partially preserved")
 
+[After Shohei Ohtani bump, Iwate ironware maker sees brighter future](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
+
+  [![Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435319.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.")](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
+
 Podcast
 -------
 
@@ -565,23 +569,19 @@ Latest News
 
 [Japan and Italy to share fuel and ammo under new logistics deal](https://www.japantimes.co.jp/news/2024/11/25/japan/japan-italy-acsa/ "Japan and Italy to share fuel and ammo under new logistics deal")
 
-3 hours ago
+8 hours ago
 
 [Mercari to enhance item verification process to check frauds](https://www.japantimes.co.jp/business/2024/11/25/companies/mercari-frauds-verification-process/ "Mercari to enhance item verification process to check frauds")
 
-4 hours ago
+10 hours ago
 
 [Yamanashi Prefecture plans to raise entry fee for Mount Fuji climbers](https://www.japantimes.co.jp/news/2024/11/25/japan/mount-fuji-yamanashi-fee-increase/ "Yamanashi Prefecture plans to raise entry fee for Mount Fuji climbers")
 
-4 hours ago
+10 hours ago
 
 [Osaka court upholds 18-year sentence for murder of ALS patient](https://www.japantimes.co.jp/news/2024/11/25/japan/crime-legal/als-patient-murder-trial/ "Osaka court upholds 18-year sentence for murder of ALS patient")
 
-6 hours ago
-
 [93-year-old inmate imprisoned over fatal Tokyo car crash dies](https://www.japantimes.co.jp/news/2024/11/25/japan/crime-legal/ikebukuro-car-crash-inmate-dies/ "93-year-old inmate imprisoned over fatal Tokyo car crash dies")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
