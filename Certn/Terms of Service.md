@@ -46,7 +46,7 @@ Error
 * [Background Screening Consent - PM - French](#contract-bkzj1zi2i)
 * [Disclosure Scotland specific Consent - HR - English](#contract-bk9qaf03j)
 * [DBS Consent - HR - English](#contract-ryfitxbai)
-* [Tokenized Authorization (B2B) - EN](#contract-ryggbwf6i)
+* [Consent (collect, process and report) - EN](#contract-ryggbwf6i)
 * [International Criminal Consent](#contract-rye3vbwx3)
 * [Canadian Criminal Consent - Generic](#contract-bjga8wzgn)
 * [Canadian Criminal Consent - Generic (FR)](#contract-hypa1blgh)
@@ -77,7 +77,7 @@ Error
 * [UK Generic - Portal Version (EN)](#contract-b1labyz1p)
 * [DBS Consent - HR - French](#contract-qfwj5wbkb)
 * [Seneca College Non-Crim Consent](#contract-hkh3qmgvp)
-* [Tokenized Authorization (B2B) - FR (In Progress)](#contract-jqowqak5g)
+* [Consentement (collecte, traitement et rapport)](#contract-jqowqak5g)
 * [SGP Biometric Consent (B2B) -EN](#contract-bksu-m02a)
 * [Biometric Notice](#contract-s1qa70-t6)
 * [SGP Biometric Consent (B2B) - FR](#contract-hyaiarott)
@@ -95,7 +95,7 @@ Error
 * [California Credit Disclosure](#contract-bk8o6a-ar)
 * [Wallet Authorization - EN](#contract-hywkt6cca)
 * [DISCLOSURE: INVESTIGATIVE CONSUMER REPORT](#contract-ryp4k-vlkl)
-* [Tokenized Authorization (B2B) - EN-GB](#contract-robwm0vs)
+* [Consent (collect, process and report)](#contract-robwm0vs)
 * [Wallet Authorization en-GB](#contract-hzugruzvb)
 * [Applicant Terms of Use](#contract-skxc4ktljx)
 * [mg - la - con-648](#contract-xmifpf3vk)
@@ -2579,7 +2579,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective November 22nd 2024
+##### Effective November 24th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -2628,14 +2628,14 @@ To withdraw your consent whilst the application is in progress you can contact t
 
   
 
-Tokenized Authorization (B2B) - EN
-----------------------------------
+Consent (collect, process and report) - EN
+------------------------------------------
 
-### Version 25.1
+### Version 25.2
 
-##### Effective November 11th 2024
+##### Effective November 24th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667c2f737c9b1d735d8ca608.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/673e6bd60332954b0ac5a9b4.pdf)
 
 * * *
 
@@ -2651,7 +2651,9 @@ Certn will collect the following personal information for the purpose of complet
 
 It may be necessary for Certn to transfer and process Personal Information in multiple jurisdictions, specifically if you have lived, worked or attended school outside of the jurisdiction in which the Company has ordered the Report. Your Personal Information may be handled by our employees and contractors in Canada, Australia, the U.S., the U.K., South Africa, and the Philippines. Regardless of where Personal Information is processed, it will be handled in accordance with our privacy and security policies.
 
-You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).
+You can withdraw your consent, dispute the accuracy of a Report, or ask for a correction, deletion or copy of your Report at any time by contacting Certn’s Privacy at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). Further information regarding the collection, use, disclosure, or storage of your Personal Information can be found [here](https://certn.co/privacy-policy/).
+
+  
 
   
 
@@ -4671,14 +4673,14 @@ I understand and acknowledge that I am agreeing to this consent electronically a
 
 If you have any questions about the collection, use, disclosure, or storage of your Personal Information or if you would like to request more information about Certn's privacy policies and procedures, please contact Certn’s Privacy Officer at 1-844-987-0690 or privacy@certn.co.
 
-Tokenized Authorization (B2B) - FR (In Progress)
-------------------------------------------------
+Consentement (collecte, traitement et rapport)
+----------------------------------------------
 
-### Version 4.1
+### Version 4.2
 
-##### Effective November 19th 2024
+##### Effective November 24th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/667d4774962d1ad809541271.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6743a2edd8b62463cd243cd0.pdf)
 
 * * *
 
@@ -5622,14 +5624,14 @@ You have the right to request additional information regarding the nature and sc
 
   
 
-Tokenized Authorization (B2B) - EN-GB
+Consent (collect, process and report)
 -------------------------------------
 
-### Version 1.2
+### Version 1.3
 
-##### Effective November 11th 2024
+##### Effective November 24th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/672278ec0aaad50932a945f0.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6743a3797b01674ff9380d22.pdf)
 
 * * *
 
