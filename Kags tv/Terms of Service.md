@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/ea658575-830b-4cb1-895c-7820aae2f18f/20241121T151036/ea658575-830b-4cb1-895c-7820aae2f18f_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/ea658575-830b-4cb1-895c-7820aae2f18f/20241121T151036/ea658575-830b-4cb1-895c-7820aae2f18f_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-teen-last-seen-on-nov-20-2024-in-college-station-area/500-efbf8677-59e1-46f2-b799-81238c19adf4)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/d6dacde2-bdd7-42af-91ac-4532195ea922/20241125T182518/d6dacde2-bdd7-42af-91ac-4532195ea922_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/d6dacde2-bdd7-42af-91ac-4532195ea922/20241125T182518/d6dacde2-bdd7-42af-91ac-4532195ea922_360x203.jpg)](https://www.kagstv.com/article/news/crime/harlan-wayne-sekaquaptewa-sentenced-after-pleading-guilty-to-sexual-assault-of-a-child/500-24a12f6b-7c74-4bea-bc0c-064a0966e9ee)
         
-        #### [Have you seen this person? Authorities seeking information on missing teen last seen in College Station](https://www.kagstv.com/article/news/local/missing-teen-last-seen-on-nov-20-2024-in-college-station-area/500-efbf8677-59e1-46f2-b799-81238c19adf4)
+        #### [Man sentenced to 19 years after pleading guilty to sexual assault of a child in Milam County](https://www.kagstv.com/article/news/crime/harlan-wayne-sekaquaptewa-sentenced-after-pleading-guilty-to-sexual-assault-of-a-child/500-24a12f6b-7c74-4bea-bc0c-064a0966e9ee)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/c71896e3-4ae8-432b-814d-6beb5341812d/20241122T175826/c71896e3-4ae8-432b-814d-6beb5341812d_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/c71896e3-4ae8-432b-814d-6beb5341812d/20241122T175826/c71896e3-4ae8-432b-814d-6beb5341812d_360x203.jpg)](https://www.kagstv.com/article/news/crime/nov-21-2024-grimes-county-narcotics-search-warrant-arrests/500-6e40380d-490f-4e85-8c4e-561effa4d23f)
+    *  [![](https://media.kagstv.com/assets/KENS/images/a4e2dd0e-aff6-4060-a641-8ace186d51be/a4e2dd0e-aff6-4060-a641-8ace186d51be_16x9.jpg) ![](https://media.kagstv.com/assets/KENS/images/a4e2dd0e-aff6-4060-a641-8ace186d51be/a4e2dd0e-aff6-4060-a641-8ace186d51be_360x203.jpg)](https://www.kagstv.com/article/news/crime/juvenile-arrested-for-making-threat-to-bryan-isd-stephen-f-austin-middle-school-on-nov-14-2024/500-bdcf710b-cc9b-443c-979e-0eac31550617)
         
-        #### [Narcotics search leads to seizure of over 200 grams of illegal substances in Grimes County](https://www.kagstv.com/article/news/crime/nov-21-2024-grimes-county-narcotics-search-warrant-arrests/500-6e40380d-490f-4e85-8c4e-561effa4d23f)
+        #### [Juvenile charged with third-degree felony after making phone call threat to Bryan ISD middle school](https://www.kagstv.com/article/news/crime/juvenile-arrested-for-making-threat-to-bryan-isd-stephen-f-austin-middle-school-on-nov-14-2024/500-bdcf710b-cc9b-443c-979e-0eac31550617)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-68°
+81°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
