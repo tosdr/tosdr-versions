@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KPNX/images/dd69aecd-9a3c-45d6-a35a-c7b04ae9751a/20241117T032159/dd69aecd-9a3c-45d6-a35a-c7b04ae9751a_16x9.jpg) ![](https://media.tegna-media.com/assets/KPNX/images/dd69aecd-9a3c-45d6-a35a-c7b04ae9751a/20241117T032159/dd69aecd-9a3c-45d6-a35a-c7b04ae9751a_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/whooping-cough-cases-west-prairie-macomb-school-districts-mcdonough-county-illinois/526-9ce500bf-56be-48f0-8631-5f2d97d1fa5d)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/fedbaef7-48ed-40f3-866b-f9c8e2b240d9/fedbaef7-48ed-40f3-866b-f9c8e2b240d9_16x9.png) ![](https://media.tegna-media.com/assets/WNEP/images/fedbaef7-48ed-40f3-866b-f9c8e2b240d9/fedbaef7-48ed-40f3-866b-f9c8e2b240d9_360x203.png)](https://www.wqad.com/article/news/local/2-shot-1-dead-in-burlington-shooting/526-7fa8dec4-9146-4d89-950d-de9431066d72)
         
-        #### [More whooping cough cases reported in McDonough County school districts](https://www.wqad.com/article/news/local/public-safety/whooping-cough-cases-west-prairie-macomb-school-districts-mcdonough-county-illinois/526-9ce500bf-56be-48f0-8631-5f2d97d1fa5d)
+        #### [2 shot, 1 dead in Burlington shooting](https://www.wqad.com/article/news/local/2-shot-1-dead-in-burlington-shooting/526-7fa8dec4-9146-4d89-950d-de9431066d72)
         
-    *  [![](https://media.tegna-media.com/assets/KSDK/images/4bff5869-446c-4487-9bcf-7ba051d37612/4bff5869-446c-4487-9bcf-7ba051d37612_16x9.jpeg) ![](https://media.tegna-media.com/assets/KSDK/images/4bff5869-446c-4487-9bcf-7ba051d37612/4bff5869-446c-4487-9bcf-7ba051d37612_360x203.jpeg)](https://www.wqad.com/article/news/local/rubys-downtown-davenport-closing-november/526-1a7bc81a-bdcb-45f2-abb2-a69720dcbfb1)
+    *  [![](https://media.tegna-media.com/assets/WFAA/images/2cfcf39d-2a4c-42eb-bf89-512f9108719c/20241125T042558/2cfcf39d-2a4c-42eb-bf89-512f9108719c_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/2cfcf39d-2a4c-42eb-bf89-512f9108719c/20241125T042558/2cfcf39d-2a4c-42eb-bf89-512f9108719c_360x203.jpg)](https://www.wqad.com/article/news/local/wylie-mom-picks-up-daughter-from-school-horseback/287-9ae68da2-0857-4f61-ac47-b2ee99a313b9)
         
-        #### [Ruby's closing in downtown Davenport](https://www.wqad.com/article/news/local/rubys-downtown-davenport-closing-november/526-1a7bc81a-bdcb-45f2-abb2-a69720dcbfb1)
+        #### [Texas mom picks up daughter from school on horseback, honors region's rich rural history](https://www.wqad.com/article/news/local/wylie-mom-picks-up-daughter-from-school-horseback/287-9ae68da2-0857-4f61-ac47-b2ee99a313b9)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,16 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.wqad.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c35bc123-62bd-446a-96a0-399ea0c0d0b8/20241125T161027/c35bc123-62bd-446a-96a0-399ea0c0d0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c35bc123-62bd-446a-96a0-399ea0c0d0b8/20241125T161027/c35bc123-62bd-446a-96a0-399ea0c0d0b8_360x203.jpg)](https://www.wqad.com/article/weather/la-nina-winter-outlook/526-61fa0f76-a7de-4942-b5bb-003237a11cfc)
         
-        #### [Forecasts warn of possible winter storms across US during Thanksgiving week](https://www.wqad.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
+        #### [Weak La Niña watch issued, what that means for our winter outlook](https://www.wqad.com/article/weather/la-nina-winter-outlook/526-61fa0f76-a7de-4942-b5bb-003237a11cfc) [![](https://media.tegna-media.com/assets/WQAD/images/c35bc123-62bd-446a-96a0-399ea0c0d0b8/20241125T161027/c35bc123-62bd-446a-96a0-399ea0c0d0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c35bc123-62bd-446a-96a0-399ea0c0d0b8/20241125T161027/c35bc123-62bd-446a-96a0-399ea0c0d0b8_360x203.jpg)](https://www.wqad.com/article/weather/la-nina-winter-outlook/526-61fa0f76-a7de-4942-b5bb-003237a11cfc)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a4dfb40e-5b94-4bfd-8462-526da8ebbd80/20241125T001556/a4dfb40e-5b94-4bfd-8462-526da8ebbd80_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a4dfb40e-5b94-4bfd-8462-526da8ebbd80/20241125T001556/a4dfb40e-5b94-4bfd-8462-526da8ebbd80_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [La Niña outlook and its impact on the upcoming winter](https://www.wqad.com/article/weather/la-nina-winter-outlook/526-61fa0f76-a7de-4942-b5bb-003237a11cfc) [![](https://media.tegna-media.com/assets/WQAD/images/c35bc123-62bd-446a-96a0-399ea0c0d0b8/20241125T161027/c35bc123-62bd-446a-96a0-399ea0c0d0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c35bc123-62bd-446a-96a0-399ea0c0d0b8/20241125T161027/c35bc123-62bd-446a-96a0-399ea0c0d0b8_360x203.jpg)](https://www.wqad.com/article/weather/la-nina-winter-outlook/526-61fa0f76-a7de-4942-b5bb-003237a11cfc)
         
-        #### [Cooler temperatures for Thanksgiving week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [La Niña watch | How it could impact the upcoming winter](https://www.wqad.com/article/weather/la-nina-winter-outlook/526-61fa0f76-a7de-4942-b5bb-003237a11cfc)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c368e06d-c678-4a89-82fd-0c957b237ec0/20241125T131556/c368e06d-c678-4a89-82fd-0c957b237ec0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c368e06d-c678-4a89-82fd-0c957b237ec0/20241125T131556/c368e06d-c678-4a89-82fd-0c957b237ec0_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Clouds and cooler temperatures for Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +89,9 @@ Navigation
 
 Davenport, IA »
 
-46°
+44°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
