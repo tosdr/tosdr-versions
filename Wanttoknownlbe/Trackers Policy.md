@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/hersendode-hoort-orgaanoperatie-bij-zichzelf/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/israelische-president-israel-is-een-zieke-maatschappij/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
