@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![3 injured in South Dallas crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112424-sh-dpd-major-crash-s-ewing-ave_kdfw5aa3_186_00.00.53.12.jpg?ve=1&tl=1)
+ [![Lost penguin’s 2,000-mile journey to Australia ends with return to Southern Ocean](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/penguin-bkgd.jpg?ve=1&tl=1)
 
- ![3 injured in South Dallas crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112424-sh-dpd-major-crash-s-ewing-ave_kdfw5aa3_186_00.00.53.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/3-injured-south-dallas-crash)
+ ![Lost penguin’s 2,000-mile journey to Australia ends with return to Southern Ocean](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/penguin-bkgd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lost-penguins-2000-mile-journey-australia-ends-return-southern-ocean)
 
-### [3 injured in South Dallas crash](https://www.fox4news.com/news/3-injured-south-dallas-crash)
+### [Lost penguin’s 2,000-mile journey to Australia ends with return to Southern Ocean](https://www.fox4news.com/news/lost-penguins-2000-mile-journey-australia-ends-return-southern-ocean)
 
- [![Colorado's Shedeur Sanders pushes official in loss that could keep Buffaloes out of College Football Playoff](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2186521361-a.jpg?ve=1&tl=1)
+ [![Menendez brothers to appear at court hearing on Monday: What you need to know](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/03/32/18/Menendez-Brothers-.jpg?ve=1&tl=1)
 
- ![Colorado's Shedeur Sanders pushes official in loss that could keep Buffaloes out of College Football Playoff](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186521361-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/colorados-shedeur-sanders-pushes-official-loss-could-keep-buffaloes-out-college-football-playoff)
+ ![Menendez brothers to appear at court hearing on Monday: What you need to know](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/03/32/18/592/333/Menendez-Brothers-.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-appear-court-hearing-monday)
 
-### [Colorado's Shedeur Sanders pushes official in loss that could keep Buffaloes out of College Football Playoff](https://www.fox4news.com/sports/colorados-shedeur-sanders-pushes-official-loss-could-keep-buffaloes-out-college-football-playoff)
+### [Menendez brothers to appear at court hearing on Monday: What you need to know](https://www.fox4news.com/news/menendez-brothers-appear-court-hearing-monday)
 
- [![Game show host Chuck Woolery of 'Wheel of Fortune,' 'Love Connection,' dies at 83](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2265526.jpg?ve=1&tl=1)
+ [![Arlington woman investigates broken window at neighbor's apartment, finds man dead inside, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1)
 
- ![Game show host Chuck Woolery of 'Wheel of Fortune,' 'Love Connection,' dies at 83](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2265526.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/game-show-host-chuck-woolery-wheel-fortune-love-connection-dies-83)
+ ![Arlington woman investigates broken window at neighbor's apartment, finds man dead inside, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-apartment-death-center-street)
 
-### [Game show host Chuck Woolery of 'Wheel of Fortune,' 'Love Connection,' dies at 83](https://www.fox4news.com/news/game-show-host-chuck-woolery-wheel-fortune-love-connection-dies-83)
+### [Arlington woman investigates broken window at neighbor's apartment, finds man dead inside, police say](https://www.fox4news.com/news/arlington-apartment-death-center-street)
 
- [![Helm’s 2 TD catches power No. 3 Texas over Kentucky 31-14 to keep Longhorns atop SEC](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2186546127.jpg?ve=1&tl=1)
+ [![Texas Democrats say they won't back down from school choice fight | Texas: The Issue Is](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/11/32/18/abbott-talarico.jpg?ve=1&tl=1)
 
- ![Helm’s 2 TD catches power No. 3 Texas over Kentucky 31-14 to keep Longhorns atop SEC](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186546127.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/helms-2-td-catches-power-no-3-texas-over-kentucky-31-14-keep-longhorns-atop-sec)
+ ![Texas Democrats say they won't back down from school choice fight | Texas: The Issue Is](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/11/32/18/592/333/abbott-talarico.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-school-vouchers-choice-fight)
 
-### [Helm’s 2 TD catches power No. 3 Texas over Kentucky 31-14 to keep Longhorns atop SEC](https://www.fox4news.com/sports/helms-2-td-catches-power-no-3-texas-over-kentucky-31-14-keep-longhorns-atop-sec)
+### [Texas Democrats say they won't back down from school choice fight | Texas: The Issue Is](https://www.fox4news.com/news/texas-school-vouchers-choice-fight)
 
- [![Jennings has 3 TDs as No. 13 SMU routs Virginia 33-7 to clinch a spot in the ACC title game](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185588519.jpg?ve=1&tl=1)
+ [![Seibert misses an extra point late as the Commanders lose their 3rd in a row, 34-26 to the Cowboys](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2186669625.jpg?ve=1&tl=1)
 
- ![Jennings has 3 TDs as No. 13 SMU routs Virginia 33-7 to clinch a spot in the ACC title game](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185588519.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/smu-routs-virginia-clinch-spot-acc-title-game)
+ ![Seibert misses an extra point late as the Commanders lose their 3rd in a row, 34-26 to the Cowboys](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186669625.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-washington-commanders-nov-24-24)
 
-### [Jennings has 3 TDs as No. 13 SMU routs Virginia 33-7 to clinch a spot in the ACC title game](https://www.fox4news.com/sports/smu-routs-virginia-clinch-spot-acc-title-game)
+### [Cowboys break 5-game losing streak with wild 34-26 win in Washington](https://www.fox4news.com/sports/dallas-cowboys-washington-commanders-nov-24-24)
 
 ###### [News](https://www.fox4news.com/news)
 
