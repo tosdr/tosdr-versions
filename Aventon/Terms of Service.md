@@ -157,7 +157,7 @@ YOUR OFFERS
     
     [Ranked #1 Ebike Brand](https://www.aventon.com/blogs/aventon_bikes/best-ebike-brand)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM_8e5d481b-fc19-4e5f-aa64-168f0bf6ef07.png?v=1731621279&width=720)](https://www.aventon.com/collections/sale)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-Raffle.png?v=1732550930&width=720)](https://www.aventon.com/pages/giveaway-black-friday-2024)
     
 * [EQUIPMENT](https://www.aventon.com/collections/all-equipment)
     
@@ -460,7 +460,7 @@ Open menu
         
         Lightweight City Ebike](https://www.aventon.com/collections/ebikes?constraint=__soltera)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM_8e5d481b-fc19-4e5f-aa64-168f0bf6ef07.png?v=1731621279&width=720)](https://www.aventon.com/collections/sale)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-Raffle.png?v=1732550930&width=720)](https://www.aventon.com/pages/giveaway-black-friday-2024)
     
 * [EQUIPMENT](javascript:void(0))
     
@@ -515,7 +515,7 @@ Open menu
     * [Tools & Maintenance](https://www.aventon.com/collections/bike-tools)
     * [Wheels & Tires](https://www.aventon.com/collections/wheels)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM_8e5d481b-fc19-4e5f-aa64-168f0bf6ef07.png?v=1731621279&width=720)](https://www.aventon.com/collections/sale)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-Raffle.png?v=1732550930&width=720)](https://www.aventon.com/pages/giveaway-black-friday-2024)
     
 * [BLACK FRIDAY SALE](https://www.aventon.com/collections/ebikes)
 
