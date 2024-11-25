@@ -78,8 +78,7 @@
     Blogs & Guides
     
     [Blogs
-    -----](https://www.digitalriver.com/resources/?type=blog)[Client Stories
-    --------------](https://www.digitalriver.com/resources/client-stories/)
+    -----](https://www.digitalriver.com/resources/?type=blog)
     
     Videos
     
