@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Kemari-Johnson-326x245.jpg)](https://cwbchicago.com/2024/11/inmate-charged-with-having-loaded-gun-inside-cook-county-jail-can-i-surrender-something.html "Inmate charged with having loaded gun inside Cook County jail: ‘Can I surrender something?’")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Earnest-Lockett-326x245.jpg)](https://cwbchicago.com/2024/11/12-years-for-shooting-at-chicago-cops-while-on-parole-and-felony-bail.html "12 years for shooting at Chicago cops while on parole and felony bail")
 
-Citywide
+Englewood
 
-### [Inmate charged with having loaded gun inside Cook County jail: ‘Can I surrender something?’](https://cwbchicago.com/2024/11/inmate-charged-with-having-loaded-gun-inside-cook-county-jail-can-i-surrender-something.html "Inmate charged with having loaded gun inside Cook County jail: ‘Can I surrender something?’")
+### [12 years for shooting at Chicago cops while on parole and felony bail](https://cwbchicago.com/2024/11/12-years-for-shooting-at-chicago-cops-while-on-parole-and-felony-bail.html "12 years for shooting at Chicago cops while on parole and felony bail")
 
-[November 22, 2024 7:56 PM](https://cwbchicago.com/2024/11)
+[November 23, 2024 5:39 PM](https://cwbchicago.com/2024/11)
 
-An 18-year-old man who was supposed to leave the Cook County jail on Wednesday is not going home after all. That’s because Kemari Johnson is now facing a fresh charge of possessing a loaded firearm inside the jail.[](https://cwbchicago.com/2024/11/inmate-charged-with-having-loaded-gun-inside-cook-county-jail-can-i-surrender-something.html "Inmate charged with having loaded gun inside Cook County jail: ‘Can I surrender something?’")
+A man accused of shooting at Chicago cops while on parole and on felony bail last year has been handed a 12-year sentence.[](https://cwbchicago.com/2024/11/12-years-for-shooting-at-chicago-cops-while-on-parole-and-felony-bail.html "12 years for shooting at Chicago cops while on parole and felony bail")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Zondranika-Williams-326x245.jpg)](https://cwbchicago.com/2024/11/chicago-cop-gets-probation-for-falsely-claiming-she-was-robbed-at-gunpoint-of-5000.html "Chicago cop gets probation for falsely claiming she was robbed at gunpoint of $5,000")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Henry-Brito-Dominguez-326x245.jpg)](https://cwbchicago.com/2024/11/migrant-shot-another-migrant-he-suspected-of-murdering-a-friend-chicago-police-report-says.html "Migrant shot another migrant he suspected of murdering a friend, Chicago police report says")
 
-Chatham
+Greater Grand Crossing
 
-### [Chicago cop gets probation for falsely claiming she was robbed at gunpoint of $5,000](https://cwbchicago.com/2024/11/chicago-cop-gets-probation-for-falsely-claiming-she-was-robbed-at-gunpoint-of-5000.html "Chicago cop gets probation for falsely claiming she was robbed at gunpoint of $5,000")
+### [Migrant shot another migrant he suspected of murdering a friend, Chicago police report says](https://cwbchicago.com/2024/11/migrant-shot-another-migrant-he-suspected-of-murdering-a-friend-chicago-police-report-says.html "Migrant shot another migrant he suspected of murdering a friend, Chicago police report says")
 
-[November 22, 2024 10:45 AM](https://cwbchicago.com/2024/11)
+[November 23, 2024 1:32 PM](https://cwbchicago.com/2024/11)
 
-A Chicago cop received two years probation for filing a false police report on Thursday, the same day Jussie Smollett’s false report conviction was overturned by the Illinois Supreme Court.[](https://cwbchicago.com/2024/11/chicago-cop-gets-probation-for-falsely-claiming-she-was-robbed-at-gunpoint-of-5000.html "Chicago cop gets probation for falsely claiming she was robbed at gunpoint of $5,000")
+A Venezuelan migrant charged with trying to murder another migrant this week told cops he did it because the victim murdered a friend of his last week, a Chicago police report says.[](https://cwbchicago.com/2024/11/migrant-shot-another-migrant-he-suspected-of-murdering-a-friend-chicago-police-report-says.html "Migrant shot another migrant he suspected of murdering a friend, Chicago police report says")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jovan-Johnson-326x245.jpg)](https://cwbchicago.com/2024/11/mechanic-with-pending-gun-case-shot-a-co-worker-who-was-stealing-his-business-prosecutors.html "Mechanic with pending gun case shot a co-worker who was ‘stealing’ his business: prosecutors")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/state-hubbard-0420-326x245.jpg)](https://cwbchicago.com/2024/11/assailant-stabs-2-men-in-river-north.html "Assailant stabs 2 men in River North")
 
-North Lawndale
+River North
 
-### [Mechanic with pending gun case shot a co-worker who was ‘stealing’ his business: prosecutors](https://cwbchicago.com/2024/11/mechanic-with-pending-gun-case-shot-a-co-worker-who-was-stealing-his-business-prosecutors.html "Mechanic with pending gun case shot a co-worker who was ‘stealing’ his business: prosecutors")
+### [Assailant stabs 2 men in River North](https://cwbchicago.com/2024/11/assailant-stabs-2-men-in-river-north.html "Assailant stabs 2 men in River North")
 
-[November 22, 2024 9:36 AM](https://cwbchicago.com/2024/11)
+[November 23, 2024 10:23 AM](https://cwbchicago.com/2024/11)
 
-Prosecutors have charged a Chicago man with shooting his co-worker at a West Side auto shop while on pretrial release for a felony gun case.[](https://cwbchicago.com/2024/11/mechanic-with-pending-gun-case-shot-a-co-worker-who-was-stealing-his-business-prosecutors.html "Mechanic with pending gun case shot a co-worker who was ‘stealing’ his business: prosecutors")
+Two men are recovering after being stabbed in River North on Friday night. Their attacker remains at large.[](https://cwbchicago.com/2024/11/assailant-stabs-2-men-in-river-north.html "Assailant stabs 2 men in River North")
 
 Search
 
