@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/cameron-mark/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/all/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/members-of-parliament/cameron-mark/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/all/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
@@ -108,15 +108,6 @@ The House next meets on Tuesday, 10 December 2024](https://www.parliament.nz/en/
 There is no current live audio feed.
 
 * [About Us](https://www.parliament.nz/en/footer/about-us/)
-* [Glossary](https://www.parliament.nz/en/visit-and-learn/how-parliament-works/glossary/)
-* [FAQ](https://www.parliament.nz/en/footer/faq/)
-* [Careers](https://jobs.parliament.nz/)
-* [Contact us](https://www.parliament.nz/en/footer/contact-us/)
-* [Accessibility](https://www.parliament.nz/en/footer/accessibility/)
-* [Copyright](https://www.parliament.nz/en/footer/copyright/)
-* [Privacy](https://www.parliament.nz/en/footer/privacy/)
-* [Website Help](https://www.parliament.nz/en/footer/website-help/)
-* [Sitemap](https://www.parliament.nz/en/sitemap/)
 
 [![The debating chamber during question time.](/media/9850/img_0084.jpg?anchor=center&mode=crop&width=920&height=518&rnd=133137720610000000)
 
@@ -268,14 +259,5 @@ Email: [select.committees@parliament.govt.nz](mailto:select.committees@parliamen
 [View all](#)
 
 * [About Us](https://www.parliament.nz/en/footer/about-us/)
-* [Glossary](https://www.parliament.nz/en/visit-and-learn/how-parliament-works/glossary/)
-* [FAQ](https://www.parliament.nz/en/footer/faq/)
-* [Careers](https://jobs.parliament.nz/)
-* [Contact us](https://www.parliament.nz/en/footer/contact-us/)
-* [Accessibility](https://www.parliament.nz/en/footer/accessibility/)
-* [Copyright](https://www.parliament.nz/en/footer/copyright/)
-* [Privacy](https://www.parliament.nz/en/footer/privacy/)
-* [Website Help](https://www.parliament.nz/en/footer/website-help/)
-* [Sitemap](https://www.parliament.nz/en/sitemap/)
 
 ![The shielded site](https://shielded.co.nz/img/custom-logo.png)   [Back to top](# "Back to top")
