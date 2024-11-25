@@ -18,7 +18,7 @@
     * [Session Replay](https://mixpanel.com/releases/session-replay)
     * [Security & Privacy](https://mixpanel.com/security-privacy)
     * [Docs](https://docs.mixpanel.com/)
-    * [What's New](https://mixpanel.com/product-releases)
+    * [What's New](https://docs.mixpanel.com/changelogs)
     
 * Solutions
     
@@ -59,7 +59,7 @@
     * [Security & Privacy](https://mixpanel.com/security-privacy)
     * [Docs](https://docs.mixpanel.com/)
     * [Pricing](https://mixpanel.com/pricing)
-    * [What's New](https://mixpanel.com/product-releases)
+    * [What's New](https://docs.mixpanel.com/changelogs)
 * Solutions
     
     * [Teams](https://mixpanel.com/teams)
@@ -352,7 +352,7 @@ All notices to be provided by Mixpanel to Customer under this Agreement may be d
 
 Product
 
-[Acquire New Users](https://mixpanel.com/acquire)[Grow Your Business](https://mixpanel.com/grow)[Enterprise](https://mixpanel.com/enterprise)[Developer](https://mixpanel.com/developer)[Session Replay](https://mixpanel.com/releases/session-replay)[Integrations](https://mixpanel.com/partners/integrations)[Security & Privacy](https://mixpanel.com/security-privacy)[Docs](https://docs.mixpanel.com/)[Pricing](https://mixpanel.com/pricing)[What's New](https://mixpanel.com/product-releases)
+[Acquire New Users](https://mixpanel.com/acquire)[Grow Your Business](https://mixpanel.com/grow)[Enterprise](https://mixpanel.com/enterprise)[Developer](https://mixpanel.com/developer)[Session Replay](https://mixpanel.com/releases/session-replay)[Integrations](https://mixpanel.com/partners/integrations)[Security & Privacy](https://mixpanel.com/security-privacy)[Docs](https://docs.mixpanel.com/)[Pricing](https://mixpanel.com/pricing)[What's New](https://docs.mixpanel.com/changelogs)
 
 Solutions
 
