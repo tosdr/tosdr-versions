@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Ambulante Operation: Schneller nach Hause](https://www.test.de/Ambulante-Operation-Schneller-nach-Hause-6093075-0/ "Ambulante Operation - Schneller nach Hause")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
+* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Ambulante Operation: Schneller nach Hause](https://www.test.de/Ambulante-Operation-Schneller-nach-Hause-6093075-0/ "Ambulante Operation - Schneller nach Hause")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
+* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Ambulante Operation: Schneller nach Hause](https://www.test.de/Ambulante-Operation-Schneller-nach-Hause-6093075-0/ "Ambulante Operation - Schneller nach Hause")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
+* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [Interview Herkunft von Rosenquarz: Die unschöne Seite der Gesichts­roller](https://www.test.de/Interview-Herkunft-von-Rosenquarz-Die-unschoene-Seite-der-Gesichtsroller-5939857-0/ "Interview Herkunft von Rosenquarz - Die unschöne Seite der Gesichtsroller")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Ambulante Operation: Schneller nach Hause](https://www.test.de/Ambulante-Operation-Schneller-nach-Hause-6093075-0/ "Ambulante Operation - Schneller nach Hause")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Cookie-Eis im Test: Für Krümel­monster und Teignascher](https://www.test.de/cookie-eis-test-6126231-0/ "Cookie-Eis im Test - Für Krümelmonster und Teignascher")
+* [Kaffee und Gesundheit: So viele Tassen können Sie trinken](https://www.test.de/Wie-gesund-ist-Kaffee-5824772-0/ "Kaffee und Gesundheit - So viele Tassen können Sie trinken")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
 
 Service Stiftung Warentest
 
