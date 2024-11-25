@@ -1168,11 +1168,11 @@ Wellness
 
 More
 
-[22% Off Supplements 
+[22% Off Makeup
 
  
 
-‌‌Shop Now‌‌](https://www.iherb.com/c/supplements?pcode=22SUPP24)
+‌‌Shop Now‌‌](https://www.iherb.com/c/makeup?pcode=22MAKEUP24)
 
       
 
