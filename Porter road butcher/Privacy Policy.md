@@ -73,7 +73,9 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     Add to cart](https://porterroad.com/products/best-of-porter-road)
     
-    [### Digital Gift Card
+    [Save 15%
+    
+    ### Digital Gift Card
     
     From $25
     
@@ -81,11 +83,13 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     See Details](https://porterroad.com/products/gift-card-1)
     
-    [### Bone-In Ribeye
+    [Save 15%
+    
+    ### Bone-In Ribeye
     
     Dry Aged
     
-    On Sale for $34 Regular price ~$43~ ~ $27/LB
+    $43 ~ $34/LB
     
     You can prepare this by cooking
     
