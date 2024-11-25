@@ -156,13 +156,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=makeup)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/ambient-lighting-edit-unlocked-pimprod2046626?sku=2629660)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/award-winners-best-sellers-set-pimprod2047894?sku=2629605)
         
-        HOURGLASS
+        Tarte
         
-        Ambient Lighting Edit Unlocked
+        New & exclusive! The Award Winners Best-Sellers Set
         
-        [Shop now](https://www.ulta.com/p/ambient-lighting-edit-unlocked-pimprod2046626?sku=2629660)
+        [Shop now](https://www.ulta.com/p/award-winners-best-sellers-set-pimprod2047894?sku=2629605)
         
     * Skin Care
         
@@ -275,13 +275,13 @@ Free standard shipping on any $35 purchase
         * [Skinfatuation](https://www.ulta.com/discover/skin/best-face-serums)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/brand/starface)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/brand/peach-lily?sort=new_arrivals)
         
-        Starface
+        PEACH & LILY
         
-        New! Hydro-star® Patches + Salicyllic Acid
+        New & exclusive! Limited Edition Glass Skin Brilliance Kit
         
-        [Shop now](https://www.ulta.com/brand/starface)
+        [Shop now](https://www.ulta.com/brand/peach-lily?sort=new_arrivals)
         
     * Hair Care
         
@@ -456,13 +456,13 @@ Free standard shipping on any $35 purchase
         * [Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/discover/fragrance-perfume-crush)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/vault-collection-pimprod2048025?sku=2631803)
         
-        Fragrance Crush | Ariana Grande
+        Ariana Grande
         
-        Cloud Eau de Parfum
+        Online only & exclusive! Vault Collection
         
-        [Shop now](https://www.ulta.com/discover/fragrance-perfume-crush)
+        [Shop now](https://www.ulta.com/p/vault-collection-pimprod2048025?sku=2631803)
         
     * Body Care
         
@@ -648,13 +648,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=tools-brushes)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/positively-green-dual-ion-flat-iron-pimprod2047847?sku=2629967)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/airlight-pro-hair-dryer-augmented-with-infrared-light-technology-pimprod2048810?sku=2631456)
         
-        Conair
+        L'Oréal
         
-        New & exclusive! Positively Green Dual Ion Flat Iron
+        New & exclusive! Airlight Pro Dryer
         
-        [Shop now](https://www.ulta.com/p/positively-green-dual-ion-flat-iron-pimprod2047847?sku=2629967)
+        [Shop now](https://www.ulta.com/p/airlight-pro-hair-dryer-augmented-with-infrared-light-technology-pimprod2048810?sku=2631456)
         
     
     Browse By
