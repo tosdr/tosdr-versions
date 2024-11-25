@@ -77,7 +77,8 @@ Legislation & Compliance 
 
 [![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/)
 
-[](https://www.linkedin.com/company/wire-secure-communication)[](https://github.com/wireapp)
+* [](https://www.linkedin.com/company/wire-secure-communication)
+* [](https://github.com/wireapp)
 
 ### Products
 
