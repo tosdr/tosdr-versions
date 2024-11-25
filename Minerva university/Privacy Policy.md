@@ -328,6 +328,8 @@ General
 
 [Graduate Programs](https://www.minerva.edu/graduate)
 
+[Announcements](https://www.minerva.edu/announcements)
+
 [Press & Media](https://www.minerva.edu/press-media)
 
 [Careers](https://www.minerva.edu/careers)
