@@ -332,7 +332,7 @@ Website: [](https://adguard-dns.io/)[https://adguard-dns.io](https://adguard-dns
 
 Other documents:
 
-[Privacy policy](https://adguard-dns.io/en/privacy.html) [Privacy policy of AdGuard websites](https://adguard.com/website-privacy.html) [Terms and conditions](https://adguard.com/terms-and-conditions.html) [Terms of sale](https://adguard-dns.io/en/terms-of-sale.html) [Data Processing Agreement](https://adguard.com/data-processing-agreement.html)
+[Privacy policy](https://adguard-dns.io/en/privacy.html) [Privacy policy of AdGuard websites](https://adguard.com/website-privacy.html) [Terms and conditions](https://adguard.com/terms-and-conditions.html) [Terms of sale](https://adguard-dns.io/en/terms-of-sale.html) [Data processing agreement](https://adguard.com/data-processing-agreement.html)
 
 © 2016–2024 AdGuard DNS
 
@@ -352,4 +352,4 @@ Support center FAQ Knowledge base Version history Report an issue AdGuard status
 
 Legal documents
 
-EULA Privacy policy Privacy policy of AdGuard websites Terms and conditions Terms of sale Data Processing Agreement
+EULA Privacy policy Privacy policy of AdGuard websites Terms and conditions Terms of sale Data processing agreement
