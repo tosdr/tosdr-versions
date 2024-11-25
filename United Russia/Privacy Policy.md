@@ -305,7 +305,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Федорищев](https://er.ru/activity/news?tags%5B0%5D=1095521) [#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 18:40
+25.11.24
 
 [![«Молодая Гвардия Единой России» и «Волонтёрская Рота» организуют в новых регионах серию предновогодних мероприятий](https://cdn.er.ru/media/news/November2024/eE7WHhhJbDNpbmoboojV-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volontyorskaya-rota-organizuyut-v-novyh-regionah-seriyu-prednovogodnih-meropriyatij)
 
@@ -313,7 +313,7 @@
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285)
 
-Сегодня 18:11
+25.11.24
 
 [![Владимир Якушев высоко оценил реализацию партпроектов «Единой России» в Пермском крае](https://cdn.er.ru/media/news/November2024/sJZiHdpKos61uBahRNOA-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-vysoko-ocenil-realizaciyu-partproektov-edinoj-rossii-v-permskom-krae)
 
@@ -321,7 +321,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Махонин](https://er.ru/activity/news?tags%5B0%5D=144814) [#Пермский край](https://er.ru/activity/news?tags%5B0%5D=1082) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584)
 
-Сегодня 17:10
+25.11.24
 
 [![«Молодая Гвардия Единой России» установила в ДНР памятную табличку на доме погибшего участника СВО](https://cdn.er.ru/media/news/November2024/3LCyWuz8SjYP6SwCjVlZ-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-ustanovila-v-dnr-pamyatnuyu-tablichku-na-dome-pogibshego-uchastnika-svo)
 
@@ -329,7 +329,7 @@
 
 [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ГероиРоссии](https://er.ru/activity/news?tags%5B0%5D=114262) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [мемориальная табличка](https://er.ru/activity/news?tags%5B0%5D=153154) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 13:55
+25.11.24
 
 [![Активисты партпроекта «Единой России» «Крепкая семья» поздравили мам по всей стране](https://cdn.er.ru/media/news/November2024/bs5evkDVjzAqZEndXegH-small.jfif)](https://er.ru/activity/news/aktivisty-partproekta-edinoj-rossii-krepkaya-semya-pozdravili-mam-po-vsej-strane)
 
@@ -337,7 +337,7 @@
 
 [#Буцкая](https://er.ru/activity/news?tags%5B0%5D=83163) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#КрепкаяСемья](https://er.ru/activity/news?tags%5B0%5D=1091221) [#ДеньМатери](https://er.ru/activity/news?tags%5B0%5D=97934) [#праздники](https://er.ru/activity/news?tags%5B0%5D=5064) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#детисовз](https://er.ru/activity/news?tags%5B0%5D=119056) [#мастер-классы](https://er.ru/activity/news?tags%5B0%5D=34619) [#выставки](https://er.ru/activity/news?tags%5B0%5D=20390)
 
-Сегодня 13:15
+25.11.24
 
 [![В Москве при поддержке «Единой России» пройдёт ХI Международный фестиваль школьного спорта среди государств – участников Содружества Независимых Государств](https://cdn.er.ru/media/news/November2024/LtoGS2LlHhoXbzFWzo8e-small.jpg)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-projdyot-hi-mezhdunarodnyj-festival-shkolnogo-sporta-sredi-gosudarstv-uchastnikov-sodruzhestva-nezavisimyh-gosudarstv)
 
@@ -345,7 +345,7 @@
 
 [#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ДетскийСпорт](https://er.ru/activity/news?tags%5B0%5D=1091126) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#СНГ](https://er.ru/activity/news?tags%5B0%5D=747) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#состязания](https://er.ru/activity/news?tags%5B0%5D=39929) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671)
 
-Сегодня 12:41
+25.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
