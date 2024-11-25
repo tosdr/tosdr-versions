@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![National Rifle Association’s Political Spending, 2009-2016](/assets/Images/teasers/small/NRA.JPG)](https://www.followthemoney.org/research/blog/the-nra-fiercely-independent-spending)
+[![ Top Contributing Sectors to OR govs Kitzhaber and Brown](/assets/Images/teasers/small/KitzhabervBrownPercentbyIndustry.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-john-kitzhaber-and-kate-brown/)
+
+Sector giving to OR govs Kitzhaber and Brown.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
