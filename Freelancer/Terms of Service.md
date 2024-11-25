@@ -249,6 +249,8 @@ Such affiliates may include, without limitation, Freelancer Technology Pty Ltd, 
 
 If your payment is made through a Worldpay Group gateway or an Adyen Group gateway in GBP, your merchant of record will be Freelancer Outsourcing UK Limited as Payment Administration Agent under this agreement.
 
+If your payment is made through an NMI gateway, your merchant of record will be EC Services Corporation as Payment Administration Agent under this agreement.
+
 Such a third party will have the same rights, powers and privileges that we have under this User Agreement and will be entitled to exercise or enforce their rights, powers and privileges as our agent or in their own name. In no event shall we be liable to any User for any loss, damage or liability resulting from the Payment Administration Agent's negligence and/or acts beyond the authority given by Freelancer.
 
 9\. Promotion
