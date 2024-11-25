@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
+* [DORA Compliance Countdown: Are you ready?](https://www.onetrust.com/resources/dora-compliance-countdown-are-you-ready-webinar/)
 * [The strategic imperative of operationalizing Consent & Preferences in modern marketing](https://www.onetrust.com/resources/the-strategic-imperative-of-operationalizing-consent--preferences-in-modern-marketing-webinar/)
-* [Virtual Lunch & Learn: A deep dive into OneTrust's Third Party Management capabilities](https://www.onetrust.com/resources/virtual-lunch-learn-a-deep-dive-into-onetrusts-third-party-management-capabilities-webinar/)
-* [The complete guide to third-party management](https://www.onetrust.com/resources/the-complete-guide-to-third-party-management-ebook/)
 
 ### Platform
 
