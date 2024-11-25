@@ -54,19 +54,7 @@
     
     By Emily Hutchinson [Read More](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
     
-* *  [![](https://www.women.com/img/gallery/what-is-the-4b-movement-and-why-it-packs-more-punch-this-time-around/intro-1732302064.jpg)](https://www.women.com/1720857/4b-movement-trend-explained/)
-        
-        [Relationships](https://www.women.com/category/relationships/)
-        
-        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
-        
-        ### [What Is The 4B Movement? (And Why It Packs More Punch This Time Around)](https://www.women.com/1720857/4b-movement-trend-explained/)
-        
-        The 4B movement has made waves across college campuses in the U.S. and gained serious steam since Donald Trump was controversially elected for his second term.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1720857/4b-movement-trend-explained/)
-        
-    *  [![Woman laying down getting lip injections](https://www.women.com/img/gallery/can-you-lay-down-after-getting-botox/intro-1732041593.jpg)](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
+* *  [![Woman laying down getting lip injections](https://www.women.com/img/gallery/can-you-lay-down-after-getting-botox/intro-1732041593.jpg)](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
@@ -77,6 +65,18 @@
         As beneficial as Botox can be for many people, it's not free of downsides, migration being one of them. But don't let social media scare you.
         
         By Amanda Chatel [Read More](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
+        
+    *  [![Zooey Deschanel at an event](https://www.women.com/img/gallery/6-zooey-deschanel-outfits-that-could-have-come-straight-from-jess-days-closet/intro-1731960916.jpg)](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+        
+        ### [6 Zooey Deschanel Outfits That Could Have Come Straight From Jess Day's Closet](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
+        
+        Since leaving "New Girl," Zooey Deschanel has taken fashion inspo from Jess Day's signature style, wearing cute tights, headbands, and hair pieces.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
         
 
 More Stories
@@ -93,18 +93,6 @@ More Stories
     In a world of revolving trends, fashion experts emphasize the timelessness of personal style, a concept that artist Billie Eilish is very familiar with.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1717137/stunning-transformation-billie-eilish-personal-style/)
-    
-*  [![Zooey Deschanel at an event](https://www.women.com/img/gallery/6-zooey-deschanel-outfits-that-could-have-come-straight-from-jess-days-closet/intro-1731960916.jpg)](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [6 Zooey Deschanel Outfits That Could Have Come Straight From Jess Day's Closet](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
-    
-    Since leaving "New Girl," Zooey Deschanel has taken fashion inspo from Jess Day's signature style, wearing cute tights, headbands, and hair pieces.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
     
 *  [![Jada Pinkett Smith at the Bad Boys premiere](https://www.women.com/img/gallery/5-celebs-that-have-been-open-about-their-battle-with-sex-addiction/intro-1731952801.jpg)](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
     
@@ -141,6 +129,18 @@ More Stories
     Jenna Bush Hager is an eager reader who loves sharing her favorite books, creating Read With Jenna to promote the stories of marginalized voices.
     
     By Bernadette Roe [Read More](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
+    
+*  [![Woman in a march with writing on her collarbone](https://www.women.com/img/gallery/what-is-the-4b-movement-and-why-it-packs-more-punch-this-time-around/intro-1732302064.jpg)](https://www.women.com/1720857/4b-movement-trend-explained/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    
+    ### [What Is The 4B Movement? (And Why It Packs More Punch This Time Around)](https://www.women.com/1720857/4b-movement-trend-explained/)
+    
+    The 4B movement has made waves across college campuses in the U.S. and gained serious steam since Donald Trump was controversially elected for his second term.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1720857/4b-movement-trend-explained/)
     
 *  [![Two people in bed](https://www.women.com/img/gallery/how-to-handle-being-asked-about-your-body-count-not-that-it-matters/intro-1731694030.jpg)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
     
