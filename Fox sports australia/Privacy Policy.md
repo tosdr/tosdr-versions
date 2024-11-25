@@ -18,55 +18,35 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 3
+    Day 4 Session 3
     
     |     |     |
     | --- | --- |
-    | AUS | 104 & 3 /12 |
+    | AUS | 104 & 9 /238 |
     | IND | 150 & 6 /487d |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250501)
-* [Women's T20I
-    
-    ENG won by 4 wkts
-    
-    |     |     |
-    | --- | --- |
-    | RSA | 5 /142 |
-    | ENG | 6 /143 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250201)
-* [Women's BBL
-    
-    BRI won by 5 wkts
-    
-    |     |     |
-    | --- | --- |
-    | BRI | 5 /142 |
-    | SYD6 | 140 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250140)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | SA  | 4 /139 |
-    | WA  | 373 |
+    | SA  | 253 |
+    | WA  | 373 & 1 /20 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250113)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | NSW |     |
-    | TAS | 7 /348 |
+    | NSW | 4 /235 |
+    | TAS | 364 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250114)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | QLD | 5 /94 |
+    | QLD | 7 /216 |
     | VIC | 186 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250115)
@@ -82,18 +62,6 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=596)
-* Golf
-    
-* [APGA
-    
-    Complete
-    
-    |     |
-    | --- |
-    | Australian PGA |
-    | E. Smylie won by 2 |
-    
-    Match Centre](https://www.foxsports.com.au/golf/match?matchid=APGA20250010015D2A4)
 * NFL
     
 * [NFL
@@ -198,12 +166,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251226)
 * [NFL
     
-    1st Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | LAR | 0   |
-    | PHI | 3   |
+    | LAR | 20  |
+    | PHI | 37  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251202)
 * Basketball
@@ -218,16 +186,6 @@ FOX SCORES
     | MIN | 105 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010255/box-score)
-* [NBA
-    
-    Half Time
-    
-    |     |     |
-    | --- | --- |
-    | CLE | 65  |
-    | TOR | 55  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010258/box-score)
 * [NBA
     
     Full Time
@@ -247,7 +205,7 @@ FOX SCORES
     | PHI | 99  |
     | LAC | 125 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011052)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011052/box-score)
 * [NBA
     
     Full Time
@@ -260,26 +218,26 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010257/box-score)
 * [NBA
     
-    25/11 13:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | SAC | –   |
-    | BKN | –   |
+    | CLE | 122 |
+    | TOR | 108 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010259)
-* Football
-    
-* [Premier League
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010258/box-score)
+* [NBA
     
     Full Time
     
     |     |     |
     | --- | --- |
-    | SOU | 2   |
-    | LIV | 3   |
+    | SAC | 103 |
+    | BKN | 108 |
     
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251208)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010259/box-score)
+* Football
+    
 * [Premier League
     
     Full Time
@@ -290,28 +248,16 @@ FOX SCORES
     | MUN | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251204)
-* Rugby
+* [Premier League
     
-* [Men's Test
-    
-    Complete
+    26/11 7:00 AEST
     
     |     |     |
     | --- | --- |
-    | SCO | 27  |
-    | AUS | 13  |
+    | NEW | –   |
+    | WHU | –   |
     
-    Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20241505)
-* [Men's Test
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | ENG | 59  |
-    | JPN | 14  |
-    
-    Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20241506)
+    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251207)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
