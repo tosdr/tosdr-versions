@@ -22,6 +22,8 @@ Solutions
 
 [User Office](https://my.keepsolid.com/)
 
+[This Black Friday, choose between an annual plan at 50% off or for a month at 20% off.](https://www.keepsolid.com/promo/black-friday?utm_source=site_ks&utm_medium=banner_small&utm_campaign=black_friday_2024)
+
 KEEPSOLID INC. PRIVACY POLICY
 =============================
 
