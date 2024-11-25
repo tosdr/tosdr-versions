@@ -22,40 +22,42 @@ Log InSign Up
 Terms of Use
 ============
 
-June 25, 2024
+November 25, 2024
+
+November 25, 2024
 
 Versión en Español: [**https://www.iheartradio.com/terms-es-us**](https://www.iheartradio.com/terms-es-us)
 
 Quick Guide to Contents
 -----------------------
 
-1. [**MOBILE DEVICES**](https://www.iheart.com/content/terms-of-use/#otnotice-section-7749e071-1e5b-4833-8608-17c5432d41fc)
-2. [**CHANGES TO THIS AGREEMENT**](https://www.iheart.com/content/terms-of-use/#otnotice-section-4a58a81e-e06d-43fd-b940-704acd7db563)
-3. [**PRIVACY AND PROTECTION OF PERSONAL INFORMATION**](https://www.iheart.com/content/terms-of-use/#otnotice-section-88827431-2dd1-4658-842d-40e6f73a54f3)
-4. [**ACCOUNTS, SECURITY, PASSWORDS**](https://www.iheart.com/content/terms-of-use/#otnotice-section-ae0ca099-9883-45a2-8202-dca1b2692134)
-5. [**USER CODE OF CONDUCT**](https://www.iheart.com/content/terms-of-use/#otnotice-section-baf7660d-124f-4477-92e6-a25f3a84312b)
-6. [**FEES**](https://www.iheart.com/content/terms-of-use/#otnotice-section-f716f386-32a6-4758-a04c-e3335c3fd7a0)
-7. [**DISCLAIMER OF WARRANTIES**](https://www.iheart.com/content/terms-of-use/#otnotice-section-c6baaaa7-9f8e-443b-84a0-e7cf9faf0297)
-8. [**EXCEPTIONS**](https://www.iheart.com/content/terms-of-use/#otnotice-section-a954eda8-fe59-49d2-a781-5df3ffba8ed6)
-9. [**LIMITATIONS ON LIABILITY**](https://www.iheart.com/content/terms-of-use/#otnotice-section-fb85aab7-cd44-40db-b89a-76086760d00e)
-10. [**INDEMNIFICATION**](https://www.iheart.com/content/terms-of-use/#otnotice-section-3118dd8e-01b3-4cc7-9f00-2afd5ac6071e)
-11. [**MODIFICATION/TERMINATION BY IHEARTMEDIA**](https://www.iheart.com/content/terms-of-use/#otnotice-section-54bd5ae5-977f-4afc-971c-74a184e068b1)
-12. [**LINKS**](https://www.iheart.com/content/terms-of-use/#otnotice-section-5e226281-9c31-47e3-9d10-c6ef627e86af)
-13. [**SOFTWARE AND DOWNLOADS AVAILABLE THROUGH THIS SITE**](https://www.iheart.com/content/terms-of-use/#otnotice-section-bf57dd84-1710-4d77-bb95-80ce3aae2a66)
-14. [**INTERNATIONAL USE/U.S. EXPORT CONTROLS**](https://www.iheart.com/content/terms-of-use/#otnotice-section-1202abbe-1c25-4a6f-af4d-f67a26f99eeb)
-15. [**THIRD-PARTY MERCHANTS**](https://www.iheart.com/content/terms-of-use/#otnotice-section-c8acf2ea-c48e-434a-a80f-33d7b1fb10e1)
-16. [**ADVERTISEMENTS, SPONSORSHIPS, CO-PROMOTIONS AND OTHER PARTNERSHIPS**](https://www.iheart.com/content/terms-of-use/#otnotice-section-5e3cc6a7-e72f-474b-a614-1efced791cf5)
-17. [**EVENTS**](https://www.iheart.com/content/terms-of-use/#otnotice-section-b7b9e267-cf2c-429a-9715-9c2399d9659a)
-18. [**INTERACTIVE SERVICES AND USER MATERIALS**](https://www.iheart.com/content/terms-of-use/#otnotice-section-b2ed5bc6-25dd-4b7b-abd7-d10202ce5d9c)
-19. [**SUBSCRIPTION SERVICES**](https://www.iheart.com/content/terms-of-use/#otnotice-section-b2ed5bc6-25dd-4b7b-abd7-d10202ce5d9c)
-20. [**PREMIUM SERVICES**](https://www.iheart.com/content/terms-of-use/#otnotice-section-23910854-c024-4436-8bb7-27bcfd945b43)
-21. [**MEMBER ACCOUNT AND PASSWORD**](https://www.iheart.com/content/terms-of-use/#otnotice-section-fef95219-42a2-40f9-8a21-d50913f81668)
-22. [**CONTESTS/SWEEPSTAKES**](https://www.iheart.com/content/terms-of-use/#otnotice-section-698faa8b-1723-4abc-a317-e5d6b79c76ac)
+1. [**MOBILE DEVICES**](#otnotice-section-7749e071-1e5b-4833-8608-17c5432d41fc)
+2. [**CHANGES TO THIS AGREEMENT**](#otnotice-section-4a58a81e-e06d-43fd-b940-704acd7db563)
+3. [**PRIVACY AND PROTECTION OF PERSONAL INFORMATION**](#otnotice-section-88827431-2dd1-4658-842d-40e6f73a54f3)
+4. [**ACCOUNTS, SECURITY, PASSWORDS**](#otnotice-section-ae0ca099-9883-45a2-8202-dca1b2692134)
+5. [**USER CODE OF CONDUCT**](#otnotice-section-baf7660d-124f-4477-92e6-a25f3a84312b)
+6. [**FEES**](#otnotice-section-f716f386-32a6-4758-a04c-e3335c3fd7a0)
+7. [**DISCLAIMER OF WARRANTIES**](#otnotice-section-c6baaaa7-9f8e-443b-84a0-e7cf9faf0297)
+8. [**EXCEPTIONS**](#otnotice-section-a954eda8-fe59-49d2-a781-5df3ffba8ed6)
+9. [**LIMITATIONS ON LIABILITY**](#otnotice-section-fb85aab7-cd44-40db-b89a-76086760d00e)
+10. [**INDEMNIFICATION**](#otnotice-section-3118dd8e-01b3-4cc7-9f00-2afd5ac6071e)
+11. [**MODIFICATION/TERMINATION BY IHEARTMEDIA**](#otnotice-section-54bd5ae5-977f-4afc-971c-74a184e068b1)
+12. [**LINKS**](#otnotice-section-5e226281-9c31-47e3-9d10-c6ef627e86af)
+13. [**SOFTWARE AND DOWNLOADS AVAILABLE THROUGH THIS SITE**](#otnotice-section-bf57dd84-1710-4d77-bb95-80ce3aae2a66)
+14. [**INTERNATIONAL USE/U.S. EXPORT CONTROLS**](#otnotice-section-1202abbe-1c25-4a6f-af4d-f67a26f99eeb)
+15. [**THIRD-PARTY MERCHANTS**](#otnotice-section-c8acf2ea-c48e-434a-a80f-33d7b1fb10e1)
+16. [**ADVERTISEMENTS, SPONSORSHIPS, CO-PROMOTIONS AND OTHER PARTNERSHIPS**](#otnotice-section-5e3cc6a7-e72f-474b-a614-1efced791cf5)
+17. [**EVENTS**](#otnotice-section-b7b9e267-cf2c-429a-9715-9c2399d9659a)
+18. [**INTERACTIVE SERVICES AND USER MATERIALS**](#otnotice-section-b2ed5bc6-25dd-4b7b-abd7-d10202ce5d9c)
+19. [**SUBSCRIPTION SERVICES**](#otnotice-section-dbdd7446-2315-497c-84c1-5f9c14cabd08)
+20. [**PREMIUM SERVICES**](#otnotice-section-23910854-c024-4436-8bb7-27bcfd945b43)
+21. [**MEMBER ACCOUNT AND PASSWORD**](#otnotice-section-fef95219-42a2-40f9-8a21-d50913f81668)
+22. [**CONTESTS/SWEEPSTAKES**](#otnotice-section-698faa8b-1723-4abc-a317-e5d6b79c76ac)
 23. [**BINDING ARBITRATION**](#otnotice-section-0a8ccb89-c404-4500-9119-f5fd041f19d0)
 24. [**CLASS ACTION WAIVER**](#otnotice-section-b855ef94-92e8-4a05-9bf1-b0606bb2c59e)
-25. [**GENERAL**](https://www.iheart.com/content/terms-of-use/#otnotice-section-7ece5463-6631-4728-ac56-f289d24f9391)
-26. [**ARTIFICIAL INTELLIGENCE**](https://www.iheart.com/content/terms-of-use/#otnotice-section-8c30984f-c516-4697-8f9c-642822c6e8c4)
-27. [**COPYRIGHT AND TRADEMARK NOTICE**](https://www.iheart.com/content/terms-of-use/#otnotice-section-685a4386-31ba-48a1-a470-644463563cef)
+25. [**GENERAL**](#otnotice-section-7ece5463-6631-4728-ac56-f289d24f9391)
+26. [**ARTIFICIAL INTELLIGENCE**](#otnotice-section-8c30984f-c516-4697-8f9c-642822c6e8c44)
+27. [**COPYRIGHT AND TRADEMARK NOTICE**](#otnotice-section-685a4386-31ba-48a1-a470-644463563cef)
 
 This site or application is owned or managed by iHeartMedia, Inc. ("iHeartMedia") and is part of the iHeartMedia family of companies, which includes other quality entertainment brands such as broadcast and Internet radio stations, iHeartMedia, and the Premiere Networks, each of which operates or manages one or more websites or applications (each a "iHeartMedia Site," and collectively the "iHeartMedia Sites"). 
 
@@ -111,7 +113,7 @@ IHEARTMEDIA IS NOT RESPONSIBLE FOR ANY FAILURES CAUSED BY SERVER ERRORS, MISDIRE
  8. EXCEPTIONS
 --------------
 
-SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER, EXCLUSION OR LIMITATION OF CERTAIN WARRANTIES, LIABILITIES AND DAMAGES, SO SOME OF THE ABOVE DISCLAIMERS, EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU. IN SUCH JURISDICTIONS, IHEARTMEDIA’S LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW. 
+SOME JURISDICTIONS DO NOT ALLOW THE DISCLAIMER, EXCLUSION OR LIMITATION OF CERTAIN WARRANTIES, LIABILITIES AND DAMAGES, SO SOME OF THE ABOVE DISCLAIMERS, EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU.  IN SUCH JURISDICTIONS, IHEARTMEDIA’S LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW. 
 
  9. LIMITATIONS ON LIABILITY
 ----------------------------
@@ -250,7 +252,9 @@ Any sweepstakes, contests, games and/or promotional offers accessible on this 
 23\. BINDING ARBITRATION
 ------------------------
 
-This arbitration agreement is only applicable if you are located in the United States.  Any dispute, claim, or cause of action arising out of, or connected with, this Agreement and/or any Additional Terms, or in connection with any matters related to this iHeartMedia Site and/or the Privacy Statement, shall be resolved by means of arbitration conducted by and under the JAMS Comprehensive Arbitration Rules and Procedures in New York, New York. All applicable JAMS’ rules and procedures are available at the JAMS website [https://www.jamsadr.com/adr-rules-procedures/](https://www.jamsadr.com/adr-rules-procedures/). The arbitration shall be conducted by a panel of three arbitrators, each of whom shall be either a retired judge, or an attorney licensed to practice law in the state in which the arbitration is convened. To the extent the JAMS Rules conflict with any provision or aspect of this Agreement, this Agreement shall control. The arbitrators’ decision shall be final and binding. The arbitrators shall have the power to award, and the parties may seek, any type of legal or equitable relief that would be available under applicable law.  The JAMS Rules will govern the payment of arbitration costs unless applicable law requires a different allocation of costs in order for this arbitration provision to be enforceable. If you are unable to pay your share of the arbitration costs, we will consider a request to reimburse them and so long as your claim is not held by an arbitrator to be frivolous or brought for an improper purpose.
+This arbitration agreement is only applicable if you are located in the United States.  Any dispute, claim, or cause of action arising out of, or connected with, this Agreement and/or any Additional Terms, or in connection with any matters related to this iHeartMedia Site and/or the Privacy Statement, shall be resolved by means of arbitration conducted by and under the JAMS Comprehensive Arbitration Rules and Procedures in New York, New York.   In the event twenty-five (25) or more similar disputes sharing common issues of fact or law are asserted against us at or around the same time by the same or coordinated counsel or are otherwise consistent or coordinated, you and we agree that the demands will constitute a “Mass Arbitration.” If a Mass Arbitration is commenced, You agree that the JAMS Mass Arbitration Procedures and Guidelines including the Mass Arbitration Fee Schedule shall apply.   All applicable JAMS’ rules and procedures are available at the JAMS website [**https://www.jamsadr.com/adr-rules-procedures/**](https://www.jamsadr.com/adr-rules-procedures/).
+
+Except in the event of a Mass Arbitration (as defined above), the arbitration shall be conducted by a panel of three arbitrators, each of whom shall be either a retired judge, or an attorney licensed to practice law in the state in which the arbitration is convened. To the extent the JAMS Rules conflict with any provision or aspect of this Agreement, this Agreement shall control. The arbitrators’ decision shall be final and binding. The arbitrators shall have the power to award, and the parties may seek, any type of legal or equitable relief that would be available under applicable law.  The JAMS Rules will govern the payment of arbitration costs unless applicable law requires a different allocation of costs in order for this arbitration provision to be enforceable. If you are unable to pay your share of the arbitration costs, we will consider a request to reimburse them and so long as your claim is not held by an arbitrator to be frivolous or brought for an improper purpose.
 
 YOU ACKNOWLEDGE THAT, BY AGREEING TO ARBITRATE ALL DISPUTES THAT ARISE WITH US, YOU ARE IRREVOCABLY WAIVING YOUR RIGHT TO LITIGATE YOUR CLAIM IN COURT OR HAVE A JURY TRIAL.   DISCOVERY AND APPEAL RIGHTS MAY ALSO BE LIMITED IN ARBITRATION.  YOU KNOWINGLY ACCEPT THIS RISK BY AGREEING TO ENTER INTO THIS AGREEMENT AND ACCEPTING THE BENEFITS OF THIS AGREEMENT.  
 
@@ -259,14 +263,14 @@ NOTWITHSTANDING THE FOREGOING, EITHER PARTY MAY BRING ITS CLAIM IN ITS LOCAL SMA
 24\. CLASS ACTION WAIVER
 ------------------------
 
-If you are located in the United States, you and iHeartMedia each agree that any and all disputes, claims and causes of action arising out of, or connected with, this Agreement and/or the Additional Terms, or in connection with any matters related to this iHeartMedia Site and/or the Privacy Statement, shall be resolved on an individual basis, without resort to any form of class, consolidated, private attorney general, or representative action. You and we agree to waive any right to bring or to participate in such an action in arbitration or in court to the fullest extent permitted by applicable law.   Notwithstanding the foregoing, you and iHeartMedia each retain the right to participate in a class-wide settlement, if applicable.  
+If you are located in the United States, you and iHeartMedia each agree that any and all disputes, claims and causes of action arising out of, or connected with, this Agreement and/or the Additional Terms, or in connection with any matters related to this iHeartMedia Site and/or the Privacy Statement, shall be resolved on an individual basis, without resort to any form of class,  private attorney general, or representative action. You and we agree to waive any right to bring or to participate in such an action in arbitration (except coordinated proceedings under the Mass Arbitration Procedures and Guidelines)  or in court to the fullest extent permitted by applicable law.   Notwithstanding the foregoing, you and iHeartMedia each retain the right to participate in a class-wide settlement, if applicable.  
 
  25. GENERAL
 ------------
 
 This Agreement and any Additional Terms shall be governed by, construed and enforced in accordance with the laws of the State of New York, as it is applied to agreements entered into and to be performed entirely within such state, without regard to conflict of law principles. You agree to submit to the personal jurisdiction of the courts of the State of New York for any cause of action arising out of this Agreement. You agree to file any cause of action with respect to this Agreement within one year after the cause of action arises. You agree that a cause of action filed after this date is barred.
 
-If any provision of this Agreement, or the application thereof to any person or circumstances, is held invalid or unenforceable for any reason including, but not limited to, the arbitration, class action waiver, warranty disclaimers and liability limitations, then such provision shall be deemed stricken or superseded by a valid, enforceable provision that matches, as closely as possible if possible, the original provision, and the other provisions of this Agreement shall remain in full force and effect. The failure of either party to insist upon strict performance of any provision of this Agreement shall not be construed as a waiver of any provision or right. Unless expressly provided otherwise, this Agreement is the entire agreement between you and iHeartMedia with respect to the use of this iHeartMedia Site and shall not be modified except in writing, signed by an authorized representative of iHeartMedia.If you have any questions concerning this Agreement, you may send them by email to help@iheartradio.com. You must send any official correspondence via postal mail to: 
+If any provision of this Agreement, or the application thereof to any person or circumstances, is held invalid or unenforceable for any reason including, but not limited to, the arbitration, class action waiver, warranty disclaimers and liability limitations, then such provision shall be deemed stricken or superseded by a valid, enforceable provision that matches, as closely as possible if possible, the original provision, and the other provisions of this Agreement shall remain in full force and effect. The failure of either party to insist upon strict performance of any provision of this Agreement shall not be construed as a waiver of any provision or right. Unless expressly provided otherwise, this Agreement is the entire agreement between you and iHeartMedia with respect to the use of this iHeartMedia Site and shall not be modified except in writing, signed by an authorized representative of iHeartMedia. If you have any questions concerning this Agreement, you may send them by email to help@iheartradio.com. You must send any official correspondence via postal mail to: 
 
 Legal Department 
 
@@ -281,7 +285,7 @@ San Antonio, TX 78258 
 26\. ARTIFICIAL INTELLIGENCE
 ----------------------------
 
-You also agree not to use, nor to authorize the use of, any Intellectual Property or contact details, personal identifiers, metadata processes, source codes, algorithms or other data on the iHeartMedia Site, iHeartMedia’s platforms, or iHeartMedia’s services (the “iHeartMedia Data” and together with the Intellectual Property, the “iHeartMedia IP & Data”): (i) to create, train (whether directly or indirectly) and/or improve any generative or other artificial intelligence and/or machine learning models, applications, systems or technologies and any datasets therefor, whether now existing or hereafter created, in any manner, means or media and/or for any purpose whatsoever (e.g., machine learning, generative technology, data mining, cognitive computing, natural language processing, natural learning processes, computer vision, etc.) (“AI Technology") and/or (the All cryptocurrency and blockchain systems and assets (e.g., NFTs, bitcoin, wallets, etc.) ( “Blockchain Technology”); (ii)  to create, generate, edit, reproduce, translate, copy, publicly perform, distribute, transmit, adapt, modify, create any simulations and/or derivative works of, and/or manipulate, any iHeartMedia IP & Data nor (iii) to design, enable and/or otherwise be utilized for any AI Technology mimicking, replicating and/or simulating human appearance, thought processes, speech, emotions or actions**;** (iv) extract, scrape, harvest or collect any iHeartMedia IP & Data for use in connection with AI Technology and/or Blockchain Technology or otherwise; (v) discover, reverse engineer, decompile, disassemble, or attempt to derive iHeartMedia IP & Data source code or algorithms**;** (vi) process, collect, arrange or otherwise use iHeartMedia IP & Data into or in connection with datasets that are or may be used to train or otherwise in connection with AI Technology and/or Blockchain Technology; nor (vii) otherwise in connection with any AI Technology and/or Blockchain Technology.
+You also agree not to use, nor to authorize the use of, any Intellectual Property or contact details, personal identifiers, metadata processes, source codes, algorithms or other data on the iHeartMedia Site, iHeartMedia’s platforms, or iHeartMedia’s services (the “iHeartMedia Data” and together with the Intellectual Property, the “iHeartMedia IP & Data”): (i) to create, train (whether directly or indirectly) and/or improve any generative or other artificial intelligence and/or machine learning models, applications, systems or technologies and any datasets therefor, whether now existing or hereafter created, in any manner, means or media and/or for any purpose whatsoever (e.g., machine learning, generative technology, data mining, cognitive computing, natural language processing, natural learning processes, computer vision, etc.) (“AI Technology") and/or (the All cryptocurrency and blockchain systems and assets (e.g., NFTs, bitcoin, wallets, etc.) ( “Blockchain Technology”); (ii)  to create, generate, edit, reproduce, translate, copy, publicly perform, distribute, transmit, adapt, modify, create any simulations and/or derivative works of, and/or manipulate, any iHeartMedia IP & Data nor (iii) to design, enable and/or otherwise be utilized for any AI Technology mimicking, replicating and/or simulating human appearance, thought processes, speech, emotions or actions**;** (iv) extract, scrape, harvest or collect any iHeartMedia IP & Data for use in connection with AI Technology and/or Blockchain Technology or otherwise; (v) discover, reverse engineer, decompile, disassemble, or attempt to derive iHeartMedia IP & Data source code or algorithms**;** (vi) process, collect, arrange or otherwise use iHeartMedia IP & Data into or in connection with datasets that are or may be used to train or otherwise in connection with AI Technology and/or Blockchain Technology; nor (vii) otherwise in connection with any AI Technology and/or Blockchain Technology.
 
  27. COPYRIGHT AND TRADEMARK NOTICE
 -----------------------------------
