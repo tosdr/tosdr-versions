@@ -367,22 +367,26 @@ We know it is frustrating for our customers and are working hard to reconcile th
 
 Our crews will continue to work around the clock until the last customer is restored.
 
-[Storm alert Updated Nov 24, 12:00 PM](#collapseOne)  
+[Storm alert Updated Nov 24, 6:00 PM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-##### Restoration work continues today
+##### A customer update on estimated restoration times
 
-Crews are out in full force again today as we continue working around the clock to restore power to customers affected by Tuesday’s windstorm. We have more than 150 line crews, 70 tree crews and hundreds of staff members working 24/7 to support the work out in the field. We’ve restored power to more than 96% of customers.
+We know those of you yet to have your power restored are eager for that to happen. Unfortunately, while our crews have been working around the clock to restore power to our customers, the significant damage in the field is adding complexity and time to the restoration work. Some customers in our hardest-hit communities may see their estimated restoration time pushed back on the outage map this evening. We are sorry to do this, but we want you to have as much information as possible during this difficult period.
 
-We now have all substations back in power and continue working to repair damage on our local distribution lines – the lines that serve individual neighborhoods and smaller pockets of customers. Unfortunately, crews are reporting additional damage at many locations, which will need to be repaired as well. Much of this work is time-consuming and slow-going, as it requires extensive work yet restores power in much smaller numbers, such as to 5, 10, or 20 customers at a time.
+**South King County:**
 
-In some of our hardest hit areas, like Mirrormont and Hobart/Maple Valley, we have hundreds of fallen trees tied up in our power lines, which require tree crews to safely remove using specialized equipment before line crews can begin their work. We have crew resources dedicated to completing this work, but it will take time.
+We currently have less than 3,000 customers remaining without power, primarily in Renton Highlands, Enumclaw, Maple Valley, Hobart and Ravensdale. The majority of these customers will still see their outage restored by or within a few hours of 6 p.m. tonight. At this time, we expect that approximately 500 customers will have their estimated restoration time moved to Monday, Nov. 25 at 3:00 p.m.
 
-We also continue to prioritize restoring outages that are impacting schools. We’re confident that nearly all schools will have their power back on in time for the school day tomorrow and are proactively coordinating with schools so they can help plan.
+**North King County:**
 
-While we’ve made steady progress over these past several days, for our customers still without power, we know the challenges of being without power for this extended period. We appreciate your patience—we are working as hard as we can to restore your power as quickly as possible.
+We currently have approximately 18,000 customers remaining without power, primarily in Issaquah, Mirrormont, Sammamish (Pine Lake, Klahanie and Sahalee), Mercer Island, and various neighborhoods within Bellevue. The majority of these customers will still see their outage restored by or within a few hours of 10:00 a.m. Monday, Nov. 25. However, small groups of customers will see their estimated restored time moved to Tuesday, Nov. 26 at 2:00 p.m. At this time, we do not have an exact number of customers whose anticipated time to have their service restored will be delayed until this later time, but anticipate it being a limited number.
+
+**Why is my ETR being pushed out?**
+
+Work has been much slower because of the number of fallen trees, broken poles, downed wire and damaged equipment resulting from the hurricane-force winds of this storm. Each one of these restoration jobs is complex and requires multiple resources to fix. We have more than 150 crews and 70 tree crews working in the field, and our teams will not stop working until everyone has service.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
