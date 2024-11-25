@@ -27,9 +27,9 @@
         * Social responsibility
         * [Our contribution to the Sustainable Development Goals](https://www.orange.com/en/commitments/our-contribution-to-sustainable-development-goals)
         * [The principles behind our CSR approach](https://www.orange.com/en/engagements/principles-behind-our-csr-approach)
-    * Our brand
-        * Our brand
-        * [The story of our brand](https://www.orange.com/en/orange-story-commitment-spans-ages)
+    * Radio waves
+        * Radio waves
+        * [Impact of radio waves](https://www.orange.com/en/radio-waves)
     
       [Integrated Annual Report](https://rai.orange.com/en/)
     
@@ -233,7 +233,6 @@ Other links Other links
 -----------------------
 
 * [Jobs search](https://orange.jobs/site/fr-home/?utm_source=Ocomfr&utm_medium=link&utm_campaign=OrangeCom)
-* [Radio Waves](https://radio-waves.orange.com/en/)
 * [Orange Cyberdefense](https://orangecyberdefense.com/)
 * [Orange Business](https://www.orange-business.com/en)
 
