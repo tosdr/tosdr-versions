@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-24 Nov 2024
+25 Nov 2024
 
 * [Home
     
@@ -259,12 +259,14 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1663740/ruaidhri-higgins-i-thought-i-was-being-brave-being-strong-and-showing-leadership-but-ultimately-i-was-wrong.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Ruaidhri Higgins has been reflecting on his time as Derry City manager.
 
-[Derry Death Notices - Sunday, November 24, 2024](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ruaidhri Higgins: "I thought I was being brave, being strong and showing leadership, but ultimately I was wrong"](https://www.derrynow.com/news/derry-sport/1663740/ruaidhri-higgins-i-thought-i-was-being-brave-being-strong-and-showing-leadership-but-ultimately-i-was-wrong.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Police investigating reported arson attack in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating reported arson attack in Derry")](https://www.derrynow.com/news/local-news/1663680/police-investigating-reported-arson-attack-in-derry.html)
 
@@ -275,6 +277,13 @@ PSNI
 [Police investigating reported arson attack in Derry](https://www.derrynow.com/news/local-news/1663680/police-investigating-reported-arson-attack-in-derry.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, November 24, 2024](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
 
 Ciaran Coll's time at Derry City looks to have come to an end.
@@ -284,13 +293,6 @@ Ciaran Coll's time at Derry City looks to have come to an end.
 [Ciaran Coll set to leave Derry City to join Glentoran](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone")](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[PSNI urge Derry motorists to remember Fatal Five rules to help make roads safer for everyone](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Historic Derry Funeral Directors aid organisations with Community Assistance Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Historic Derry Funeral Directors aid organisations with Community Assistance Awards")](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
 
 Kathleen Bradley, Grants & Foundations Fundraiser, Michelle Kosky, Children’s & Young Person’s Facilitator from Foyle Hospice with Funeral Home Manager Wayne Glenn.
@@ -299,6 +301,13 @@ Kathleen Bradley, Grants & Foundations Fundraiser, Michelle Kosky, Children’s 
 
 [Historic Derry Funeral Directors aid organisations with Community Assistance Awards](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone")](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[PSNI urge Derry motorists to remember Fatal Five rules to help make roads safer for everyone](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime")](https://www.derrynow.com/news/northern-ireland/1663508/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
 
@@ -327,13 +336,6 @@ Kathleen Bradley, Grants & Foundations Fundraiser, Michelle Kosky, Children’s 
 
 [Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/news/local-news/1663606/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New wind warning issued as Storm Bert threatens ‘danger to life’ flooding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New wind warning issued as Storm Bert threatens ‘danger to life’ flooding")](https://www.derrynow.com/news/northern-ireland/1663465/new-wind-warning-issued-as-storm-bert-threatens-danger-to-life-flooding.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[New wind warning issued as Storm Bert threatens ‘danger to life’ flooding](https://www.derrynow.com/news/northern-ireland/1663465/new-wind-warning-issued-as-storm-bert-threatens-danger-to-life-flooding.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
