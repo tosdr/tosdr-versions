@@ -106,4 +106,4 @@ You can contact us by clicking the mail icon in the footer of any page or by usi
 
 Website inspired by Patricia.
 
-© Derek Ziemer _Some Rights Reserved_.[KJVPCE.com](https://kjvpce.com/)
+© Derek 2024 _Some Rights Reserved_.[KJVPCE.com](https://kjvpce.com/)
