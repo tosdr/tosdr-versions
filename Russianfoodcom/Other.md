@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
+* [Оладушки печеночные](https://www.russianfood.com/recipes/recipe.php?rid=124047)
 * [Свиной шашлык в духовке, запечённый в банке](https://www.russianfood.com/recipes/recipe.php?rid=163559)
-* [Омлет на сметане, с грибами, луком и карри](https://www.russianfood.com/recipes/recipe.php?rid=173388)
-* [Пряная пшеничная каша на молоке](https://www.russianfood.com/recipes/recipe.php?rid=170786)
+* [Индейка, запечённая с яблоками и апельсинами](https://www.russianfood.com/recipes/recipe.php?rid=162991)
+* [Картофельные "лодочки" с фаршем и грибами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=162530)
 * [Клафути с брокколи, брюссельской капустой и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=174596)
 * [Торт с халвой и ореховым кремом](https://www.russianfood.com/recipes/recipe.php?rid=150322)
 * [Творожный рулет с орехами](https://www.russianfood.com/recipes/recipe.php?rid=150222)
 * [Говядина с шампиньонами в соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=150206)
 * [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623)
 * [Соус из окорока](https://www.russianfood.com/recipes/recipe.php?rid=113505)
-* [Шницель из мерлузы](https://www.russianfood.com/recipes/recipe.php?rid=124)
 
 |     |
 | --- |
@@ -472,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(134)
+(152)
