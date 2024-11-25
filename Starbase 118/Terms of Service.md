@@ -352,6 +352,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/06/1600px-Denali_Station-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/denali-crew-travels-to-a-newly-established-jemhadar-colony/)
+
+### [Denali crew travels to a newly established Jem’Hadar colony](https://www.starbase118.net/2024/denali-crew-travels-to-a-newly-established-jemhadar-colony/)
+
+Federation News Service November 25, 2024
+
+RING 42 – The crew of Denali Station traveled a short distance on Ring 42 to assist a newly established Jem’Hadar colony struggling with several
+
+[Read More »](https://www.starbase118.net/2024/denali-crew-travels-to-a-newly-established-jemhadar-colony/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/04/Tuvok_promoted-768x585.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/promotions-for-october-6/)
 
 ### [Promotions for October](https://www.starbase118.net/2024/promotions-for-october-6/)
@@ -373,18 +385,6 @@ Genkos Adea November 23, 2024
 The Star Trek universe has unlimited potential for storytelling. Even with The Next Generation, Deep Space Nine and Voyager all taking place within the same
 
 [Read More »](https://www.starbase118.net/2024/poll-of-the-month-im-all-eras/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/07/image-768x775-1.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/cooperation-between-nassau-news-and-federation-news-service-in-the-making/)
-
-### [Cooperation between Nassau News and Federation News Service in the making](https://www.starbase118.net/2024/cooperation-between-nassau-news-and-federation-news-service-in-the-making/)
-
-Federation News Service November 22, 2024
-
-NASSAU — After narrowly surviving their first Borg encounter, the USS Gorkon (NCC-82293) sought temporary refuge within the depths of the Nassau asteroid. While the
-
-[Read More »](https://www.starbase118.net/2024/cooperation-between-nassau-news-and-federation-news-service-in-the-making/)
 
 Ready to get started?
 ---------------------
