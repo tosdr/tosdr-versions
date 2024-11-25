@@ -20,6 +20,7 @@ Toggle navigation
     * [Careers](https://careers.exoclick.com/)
     * [Associations](https://www.exoclick.com/associations/)
 * [Help](https://docs.exoclick.com/)
+    * [ExoClick Academy](https://e2z.me/Bso08)
     * [API](https://www.exoclick.com/api/)
     * [Documentation](https://docs.exoclick.com/)
     * [Compliance](https://www.exoclick.com/compliance/)
@@ -69,6 +70,14 @@ Target double opt-in users with our high converting Email Clicks ad format.
 [Blog](https://www.exoclick.com/blog/)
 --------------------------------------
 
+* [![Master ExoClick’s platform by joining the ExoClick Academy Why should I join the ExoClick Academy? Elearning platform to improve my advertising skills Learn advertising skills online at your own pace Self-paced publisher expert monetization online courses Elearning portal to learn website publisher skills What will I learn at the ExoClick Academy as an Advertiser What will I learn at the ExoClick Academy as a publisher Publisher intermediate website monetization courses Publisher beginner website monetization courses What skills do I need to become an online Advertiser](https://www.exoclick.com/wp-content/uploads/2024/11/Academy-320x180.png)](https://www.exoclick.com/master-exoclicks-platform-by-joining-the-exoclick-academy/)
+    
+    ### [Master ExoClick’s platform by joining the ExoClick Academy!](https://www.exoclick.com/master-exoclicks-platform-by-joining-the-exoclick-academy/)
+    
+    Join the ExoClick Academy and learn advertising skills online at your own pace with our guided video tutorials for Publishers and Advertisers!
+    
+    [Read More](https://www.exoclick.com/master-exoclicks-platform-by-joining-the-exoclick-academy/)
+    
 * [![Become an ExoClick Publisher and maximize your Advertising business Why join ExoClick ad network as a Publisher revenue optimization tips for website Publishers maximize ad zone monetization with ad refresh Increase eCPMs by getting more competitive bids What are the key services that an ad network should offer Increase Popunder and In-Stream revenues with Frequency Capping Increase Popunder revenues with frequency capping Increase In-Stream revenues with frequency capping Beat Ad Blockers and recover my Adblock traffic How to optimize Video and Menu Tabs Ad placements](https://www.exoclick.com/wp-content/uploads/2024/11/become-a-publisher-600-x-338-px-320x180.png)](https://www.exoclick.com/become-an-exoclick-publisher-and-maximize-your-advertising-business/)
     
     ### [Become an ExoClick Publisher and maximize your Advertising business](https://www.exoclick.com/become-an-exoclick-publisher-and-maximize-your-advertising-business/)
@@ -85,27 +94,19 @@ Target double opt-in users with our high converting Email Clicks ad format.
     
     [Read More](https://www.exoclick.com/black-friday-ecommerce-trends-how-to-increase-sales-on-black-friday/)
     
-* [![How to create E-commerce campaigns for Singles Day](https://www.exoclick.com/wp-content/uploads/2024/10/Singles-day-320x180.png)](https://www.exoclick.com/how-to-create-e-commerce-campaigns-for-singles-day/)
-    
-    ### [How to create E-commerce campaigns for Singles Day](https://www.exoclick.com/how-to-create-e-commerce-campaigns-for-singles-day/)
-    
-    Advertisers! Take advantage of Singles Day 2024! Check out our top tips on how to create E-commerce campaigns for Singles Day!
-    
-    [Read More](https://www.exoclick.com/how-to-create-e-commerce-campaigns-for-singles-day/)
-    
 
-[Tutorials](https://academy.exoclick.com/)
-------------------------------------------
+[ExoClick Academy](https://academy.exoclick.com/)
+-------------------------------------------------
 
-* [![Advertiser Tutorial](https://www.exoclick.com/wp-content/uploads/2023/04/Smart-bid-tutorial-thumbnail_EN.png)](https://youtu.be/uA1Z_1owfgw)
+* [![Join ExoClick Academy! Our FREE online learning hub!](https://www.exoclick.com/wp-content/uploads/2024/11/ExoClick-Academy.png)](https://youtu.be/6ao-oR6ZKTc)
     
-    ### [Advertiser Tutorial](https://youtu.be/uA1Z_1owfgw)
+    ### [Join ExoClick Academy! Our FREE online learning hub!](https://youtu.be/6ao-oR6ZKTc)
     
-    Apr 19, 2023
+    Nov 24, 2024
     
-    How to set up Smart Bid
+    Certificated courses for Advertisers & Publishers who want to learn about ExoClick's platform
     
-    [Watch now](https://youtu.be/uA1Z_1owfgw)
+    [Watch now](https://youtu.be/6ao-oR6ZKTc)
     
 
 [Events](https://www.exoclick.com/events/)
@@ -147,6 +148,7 @@ Target double opt-in users with our high converting Email Clicks ad format.
 
 #### [Help](http://docs.exoclick.com/)
 
+* [ExoClick Academy](https://e2z.me/Bso08)
 * [API](https://www.exoclick.com/api/)
 * [Documentation](http://docs.exoclick.com/)
 * [Trust and Safety](https://www.exoclick.com/trust-and-safety/)
