@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[20% OFF VIP COLLECTION - Click Here!](https://www.thehomesecuritysuperstore.com/collections/vip-collection?utm_source=website&utm_medium=banner&utm_campaign=20%25+OFF+VIP+SALE)
+[EARLY BLACK FRIDAY SALE - 15% OFF SITEWIDE!](https://www.thehomesecuritysuperstore.com/collections/homepage-high-recommended-products?utm_source=website&utm_medium=banner&utm_campaign=EARLY+BLACK+FRIDAY+SALE)
 
-TODAY'S OFFER: :: | 20% OFF VIP COLLECTION - Click Here!
+TODAY'S OFFER: :: | EARLY BLACK FRIDAY SALE - 15% OFF SITEWIDE!
 
 TODAY'S OFFER: : :
 
- 20% OFF VIP COLLECTION - Click Here!
+ EARLY BLACK FRIDAY SALE - 15% OFF SITEWIDE!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
