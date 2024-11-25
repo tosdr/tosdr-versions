@@ -601,11 +601,7 @@ If you are based in India and you have any grievance or complaint about how your
 
 ![ISO logo](/wp-content/uploads/2024/10/Frame-628308-2.webp "logo of ISO")
 
-[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)
-
-![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
-
-[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)
+[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)[![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")](https://www.toddleapp.com/australianprivacyprinciples/)[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)
 
 [![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)
 
@@ -617,9 +613,7 @@ If you are based in India and you have any grievance or complaint about how your
 
 ![ISO logo](/wp-content/uploads/2024/10/Frame-628308-2.webp "logo of ISO")
 
-[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)
-
-![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
+[![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)[![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")](https://www.toddleapp.com/australianprivacyprinciples/)
 
 [![GDPR logo](/wp-content/uploads/2024/10/Frame-628312-2.webp "logo of GDPR")](https://www.toddleapp.com/gdpr/)
 
@@ -631,11 +625,9 @@ If you are based in India and you have any grievance or complaint about how your
 
 ![ISO logo](/wp-content/uploads/2024/10/Frame-628308-2.webp "logo of ISO")
 
-[![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)
+[![COPPA logo](/wp-content/uploads/2024/10/Frame-628306.webp "logo of COPPA")](https://www.toddleapp.com/coppa/)[![FERPA logo](/wp-content/uploads/2024/10/Frame-628309-2.webp "logo of FERPA")](https://www.toddleapp.com/ferpa/)[![CCPA logo](/wp-content/uploads/2024/10/Frame-628318.webp "logo of CCPA")](https://www.toddleapp.com/ccpa/)[![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")](https://www.toddleapp.com/australianprivacyprinciples/)
 
-![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
-
-![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")
+[![Safer technologies 4 Schools logo](/wp-content/uploads/2024/10/Frame-628310-2.webp "Safer technologies 4 Schools logo")](https://www.toddleapp.com/australianprivacyprinciples/)
 
 ![Servers in Sydney logo](/wp-content/uploads/2024/10/Frame-628315-2.webp "Servers in Sydney logo")
 
