@@ -1,4 +1,4 @@
-Free Shipping for Premium Bundles
+FOR A LIMITED TIME ONLY — BLACK FRIDAY SALE – SAVE UP TO 70%
 
 [Canary
 ======](https://canary.is/)
