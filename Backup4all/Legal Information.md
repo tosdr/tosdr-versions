@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Minio](https://www.backup4all.com/how-to-backup-your-data-to-minio-kb.html)  
+* [What are Backup operators?](https://www.backup4all.com/what-are-backup-operators-kb.html)  
     
-* [How “Smart file scanning mode” works in B ...](https://www.backup4all.com/how-smart-file-scanning-mode-works-in-backup4all-kb.html)  
+* [How to restore your data files from MinIO usi ...](https://www.backup4all.com/how-to-restore-your-data-files-from-minio-using-backup4all-kb.html)  
     
-* [How to backup your data to Box](https://www.backup4all.com/how-to-backup-your-data-to-box-kb.html)  
+* [What is a backup?](https://www.backup4all.com/what-is-a-backup-kb.html)  
     
-* [How to back up files from Google Cloud Storag ...](https://www.backup4all.com/how-to-back-up-files-from-google-cloud-storage-with-backup4all-kb.html)  
+* [Troubleshooting installation errors](https://www.backup4all.com/troubleshooting-installation-errors-kb.html)  
     
-* [FTP backup](https://www.backup4all.com/ftp-backup-kb.html)  
+* [How to back up data files from Cloudian using ...](https://www.backup4all.com/how-to-back-up-data-files-from-cloudian-using-backup4all-kb.html)  
     
 
 Choose language:
