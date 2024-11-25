@@ -2,6 +2,8 @@
 
 This is a carousel with auto-rotating slides. Use Next and Previous buttons to navigate.
 
+Holiday shopping = check! Take up to 30% off select products. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
+
 [**Bundles**](https://naturesway.com/collections/bundle-save) have landed! Shop curated collections of your favorite products. 
 
 [**Sign up**](#signup) for our mailing list for 20% off your first order. Terms apply.
@@ -33,6 +35,7 @@ Nature's Way
         
     * FEATURED
         
+        * [Black Friday Sale](https://naturesway.com/collections/promotions)
         * [Popular Products](https://naturesway.com/collections/trending-products)
         * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
         * [Bundle & Save](https://naturesway.com/collections/bundle-save)
@@ -175,6 +178,7 @@ Nature's Way
     
     FEATURED
     
+    * [Black Friday Sale](https://naturesway.com/collections/promotions)
     * [Popular Products](https://naturesway.com/collections/trending-products)
     * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
     * [Bundle & Save](https://naturesway.com/collections/bundle-save)
@@ -747,6 +751,10 @@ We look at this process as an ongoing effort and continue to work on enhancing t
 
 #### Promotions
 
+Take up to 30% off sitewide for Black Friday Cyber Monday, no code necessary. 
+
+Offer is to receive up to 30% off only on the merchandise displayed on  \[[https://naturesway.com/collections/promotions](https://naturesway.com/collections/promotions)\]. No code necessary, discounts automatically applied at checkout. Code good from 11/25 @ 12:01am CDT to 12/3 at 11:59pm CDT. Discounts are applied to the price shown, and no code is necessary. While Supplies Last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. All sales of overstock items are final and not eligible for returns or exchanges. Does not include Integrative Therapeutics, Overstock, Subscribe & Save, or Bundle & Save offers. Offer is subject to change. Exclusions may apply. Void where prohibited. 
+
 Up to 25% off Overstock items
 
 Offer is to receive up to 25% off only on the merchandise displayed on   \[[https://naturesway.com/collections/overstock](https://naturesway.com/collections/overstock)\]. Discounts are applied to the price shown, and no code is necessary. While Supplies Last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. All sales of overstock items are final and not eligible for returns or exchanges. Offer is subject to change. Exclusions may apply. Void where prohibited.  
@@ -1310,6 +1318,10 @@ Nature’s Way is committed to making our website accessible to all. It’s anot
 We look at this process as an ongoing effort and continue to work on enhancing the accessibility of our site. We’re taking steps and devoting resources to this important endeavor. Please [contact us](https://naturesway.com/pages/contact "contact us") if you have questions, feedback, or suggestions.
 
 ![Reviewed by Allyant for Accessibility](https://cdn.shopify.com/s/files/1/0562/3208/3521/files/Reviewed_by_Allyant_for_Accessibility_Badge_White_240x240.png?v=1665518110)
+
+Take up to 30% off sitewide for Black Friday Cyber Monday, no code necessary. 
+
+Offer is to receive up to 30% off only on the merchandise displayed on  \[[https://naturesway.com/collections/promotions](https://naturesway.com/collections/promotions)\]. No code necessary, discounts automatically applied at checkout. Code good from 11/25 @ 12:01am CDT to 12/3 at 11:59pm CDT. Discounts are applied to the price shown, and no code is necessary. While Supplies Last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. All sales of overstock items are final and not eligible for returns or exchanges. Does not include Integrative Therapeutics, Overstock, Subscribe & Save, or Bundle & Save offers. Offer is subject to change. Exclusions may apply. Void where prohibited. 
 
 Up to 25% off Overstock items
 
