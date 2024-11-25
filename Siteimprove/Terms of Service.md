@@ -349,7 +349,6 @@ Support
 Siteimprove is a leader in Digital Governance, Digital Analytics, and SEO Tools.
 
 * [Privacy](https://siteimprove.com/privacy/)
-* [VPAT](https://siteimprove.com/vpat/)
 * [Legal](https://siteimprove.com/legal/)
 * [Accessibility Statement](https://siteimprove.com/accessibility-statement/)
 
