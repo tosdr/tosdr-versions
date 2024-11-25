@@ -1083,7 +1083,7 @@ Support
 
 * [Help Center](https://help.tidio.com/ "Help Center")
 * [Installation](https://help.tidio.com/hc/en-us/sections/5377985735708-Install-Tidio "Installation")
-* [Get started](https://help.tidio.com/hc/en-us/sections/5377996746652-Get-Started "Get started")
+* [Get started](https://help.tidio.com/hc/en-us/sections/16681312167708-Get-Started "Get started")
 * [Integrations](https://help.tidio.com/hc/en-us/sections/5378011044252-Integrations "Integrations")
 * [Flows setup](https://help.tidio.com/hc/en-us/sections/5452396719260-Chatbots "Flows setup")
 * [Developers](https://developers.tidio.com/ "Developers")
@@ -1134,7 +1134,7 @@ CHATBOT
 LIVE CHAT
 
 * [Free Live Chat Software](https://www.tidio.com/blog/free-live-chat/ "Free Live Chat Software")
-* [How to Add Live Chat to a Website](https://www.tidio.com/terms/ "How to Add Live Chat to a Website")
+* [How to Add Live Chat to a Website](https://www.tidio.com/blog/add-chat-to-website/ "How to Add Live Chat to a Website")
 * [Ecommerce Live Chat](https://www.tidio.com/blog/add-chat-to-website/ "Ecommerce Live Chat")
 * [Best Live Chat Software](https://www.tidio.com/blog/best-live-chat-software/ "Best Live Chat Software")
 * [Live Chat for Sales](https://www.tidio.com/blog/live-chat-for-sales/ "Live Chat for Sales")
