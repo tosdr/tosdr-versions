@@ -144,7 +144,7 @@ Subscribe to our newsletter and stay up to date with the latest news and deals!
 © 2001 - 2024 [IP2Location.com](https://www.ip2location.com/). All Rights Reserved. [Terms of Service](https://www.ip2location.com/terms) | [Privacy Policy](https://www.ip2location.com/privacy-policy) | [Cookie Notice](https://www.ip2location.com/cookie-notice)
 
 * [](https://www.facebook.com/ip2location)
-* [](https://twitter.com/ip2location)
+* [](https://x.com/ip2location)
 * [](https://www.reddit.com/r/ip2location/)
 * [](https://github.com/ip2location/)
 * [](https://www.youtube.com/@ip2locationipgeolocation)
