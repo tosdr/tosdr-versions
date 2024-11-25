@@ -233,7 +233,6 @@ Indianapolis IN 46204
 * [facebook icon](http://www.facebook.com/steaknshake)
 * [twitter icon](http://twitter.com/steaknshake)
 * [instagram icon](http://instagram.com/steaknshake)
-* [pinterest icon](https://www.pinterest.com/steaknshake/)
 * [youtube icon](http://youtube.com/steaknshake)
 
 * [FEEDBACK](https://feedback.steaknshakevisit.com/)
