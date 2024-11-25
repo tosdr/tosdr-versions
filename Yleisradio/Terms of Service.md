@@ -126,6 +126,8 @@ The Services are described in the description of Yle ID services ("Service descr
     
 * Personal recommendations where the Service selects, displays, provides and recommends content and services that best serve you personally. Recommendations are implemented on the basis of the information you provide through AI (e.g. age, gender, language, place of residence) and survey responses, as well as on the basis of your use history collected through cookies (or similar technologies). In addition, personalisation is carried out based on the use history of other similar customers. Data on the use of Services is stored in the use history. It includes your choices in the Service, such as your favourite and subject matter choices, orders, consent and settings. Similarly, it stores information collected with cookies on what you have viewed and listened to while logged in on any device, such as a phone or smart TV.
     
+* Children’s profiles
+    
 
 Yle is free to change the Services and Service description without prior notice. Yle may decide, at its discretion, to discontinue the maintenance and provision of the Service or any part thereof. Yle shall give notification of such cases beforehand.
 
@@ -153,7 +155,13 @@ If you no longer want to use the Yle ID Service, you can delete the Username in 
 
 Yle may cancel your Username or restrict access to the Services if you are in breach of the terms and conditions of this Agreement. Yle may also cancel your Yle ID if you have not used it to log in to the Services during the past two (2) years.
 
-4\. Processing of personal data
+4\. Children’s profiles
+-----------------------
+
+As the owner of a Yle ID, you can create children’s profiles linked to your own account. Through these profiles, we aim to better safeguard children's rights in digital services. For this reason, we have designed children’s profiles primarily for children aged 0–12, taking into account their ability to manage the use of media services and handle their own information.  
+Read here [the children's profiles terms of use](https://yle.fi/aihe/a/20-10008019).
+
+5\. Processing of personal data
 -------------------------------
 
 Yle ID is a secure Finnish service. We will take care of all information we collect and will not disclose your information to any third parties without your consent.
@@ -162,17 +170,17 @@ We will use your data to provide the Services specified in this Agreement and th
 
 Cookies and other similar identifiers can be used in the Services as described in Yle’s cookie policy. Cookies that are used to collect user history for providing the Service are essential to the execution of the Yle ID agreement. Consequently, you will not be asked to provide separate consent for their use. [Our cookies policy can be found here](https://yle.fi/aihe/s/yleisradio/cookiepolicy-en).
 
-5\. Yle's partner services
+6\. Yle's partner services
 --------------------------
 
 If desired, you can also use the Yle ID to log in to Services offered by some third party operators. In this case, the terms of service of the specific third party apply to the Services used. Yle is not responsible for the services provided by third party operators. In this case, the data protection principles regarding the specific services are defined in the privacy policy of the third party in question.
 
-6\. Copyrights for the Services and their content
+7\. Copyrights for the Services and their content
 -------------------------------------------------
 
 The Service and related background systems and software are protected by copyright laws, and the intellectual property rights to them are held by Yle or Yle’s licensors.
 
-7\. Limitation of liability
+8\. Limitation of liability
 ---------------------------
 
 Yle provides the Service “as is”. Yle does not guarantee that the Yle ID is available without any interruptions or faults. Yle does not provide any direct or indirect guarantees related to the availability, perfection, reliability, information or content of the Yle ID.
@@ -181,7 +189,7 @@ Use of the Service is done at your own risk, and you are responsible for acquiri
 
 With the exception of any liabilities arising from intent or gross negligence, Yle shall not be liable for any direct, indirect or unexpected losses resulting from the use of the Service or any inability to use the Service.
 
-8\. Other terms of service
+9\. Other terms of service
 --------------------------
 
 The Agreement shall enter into force on the date which you accept the Agreement. The Agreement will end if you delete your Username or if Yle terminates the Username.
@@ -192,8 +200,8 @@ Yle reserves the right to change the terms of service at any time without any pr
 
 If changes in the terms of service result from changes in legislation or official regulations or for other unexpected reasons, the changes shall enter into force immediately after Yle has given notification of them.
 
-9\. Contact information
------------------------
+10\. Contact information
+------------------------
 
 The service provider of the Yle ID is Yle (Uutiskatu 5, 00024 Yleisradio).
 
