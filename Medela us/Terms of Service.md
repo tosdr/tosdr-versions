@@ -311,7 +311,7 @@ How we turn Science into Care
 
 Breastfeeding solutions, not just products.](https://www.medela.us/en-us/breastfeeding-pumping/products)[![](/000-homepage/8138/image-thumb__8138__card/symphony_hospital_hp.9befbebb.jpg)
 
-### Supporting you supporting mums
+### Supporting you supporting moms
 
 Our service for lactation professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)[![Doctors in an operating room with a patient. The room can be seen from the center to the ceiling, the patient himself is not depicted.](/200-surgical-and-woundcare/3605/image-thumb__3605__card/jcr_content.6bbe73d8.jpg)
 
@@ -327,7 +327,7 @@ Breastfeeding solutions, not just products.](https://www.medela.us/en-us/breastf
 
 [![](/000-homepage/8138/image-thumb__8138__card/symphony_hospital_hp.9befbebb.jpg)
 
-### Supporting you supporting mums
+### Supporting you supporting moms
 
 Our service for lactation professionals](https://www.medela.us/en-us/breastfeeding-pumping/lactation-professionals)
 
