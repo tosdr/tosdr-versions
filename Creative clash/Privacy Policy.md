@@ -7,7 +7,7 @@
 * [](#)
 * [](#)
 
-[![CreativeClash](//cdn.xcreativeclashx.net/monthly_2024_08/CCBannerLogo.png.0136900bac0ce2821aa2596aa949115f.png)](https://xcreativeclashx.net/)
+[![CreativeClash](https://xcreativeclashx.net/uploads/monthly_2024_08/CCBannerLogo.png.6b2af97e4bc16393ac17c2b983b27982.png)](https://xcreativeclashx.net/)
 
 * [Rules](https://xcreativeclashx.net/rules/)
 * [More](#)
@@ -40,10 +40,6 @@
 
 * [Home](https://xcreativeclashx.net/ "Home")
 * [Privacy Policy](https://xcreativeclashx.net/privacy-policy/)
-
-[Server Upgrade](https://xcreativeclashx.net/announcement/22-server-upgrade/) [×](#)
-
-[Clash Concluded!](https://xcreativeclashx.net/announcement/24-clash-concluded/) [×](#)
 
 * **Privacy Policy**
     
@@ -121,6 +117,13 @@
 #### You are responsible for your own viewing experience while using this website. We have endeavored to provide as many means as possible for you to curate your experience here.
 
 * [IPS Theme](https://www.ipsfocus.com/) by [IPSFocus](https://www.ipsfocus.com/)
+* [Theme](#elNavTheme_menu)
+    *  Light Mode
+        
+    *  Dark Theme (Default)
+        
+    *  159416
+        
 * [Privacy Policy](https://xcreativeclashx.net/privacy-policy/)
 * [Cookies](https://xcreativeclashx.net/cookies/)
 
