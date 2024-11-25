@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
-* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
+* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
-* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
+* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
-* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
+* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
-* [Dubioses Fest­geld: KT Investment ignorieren](https://www.test.de/Dubioses-Festgeld-KT-Investment-ignorieren-6062892-0/ "Dubioses Festgeld - KT Investment ignorieren")
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
+* [Fest­geld und Zins­wachs­tum: Spargeld mit Wachs­tums-Auto­matik – bringts das?](https://www.test.de/Mehrjaehriges-Festgeld-Was-Angebote-mit-Zinstreppe-bringen-und-was-nicht-5981021-0/ "Festgeld und Zinswachstum - Spargeld mit Wachstums-Automatik – bringts das?")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
+* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
 
 Service Stiftung Warentest
 
