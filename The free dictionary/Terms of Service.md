@@ -2,11 +2,11 @@
 
 https://www.thefreedictionary.com/about.htm
 
-[Printer Friendly](https://www.thefreedictionary.com/_/hp/Controls/printer-friendly.aspx?684)
+[Printer Friendly](https://www.thefreedictionary.com/_/hp/Controls/printer-friendly.aspx?411)
 
 * * *
 
-**[Dictionary, Encyclopedia and Thesaurus - The Free Dictionary](https://www.thefreedictionary.com/)** 13,846,568,872 visits served
+**[Dictionary, Encyclopedia and Thesaurus - The Free Dictionary](https://www.thefreedictionary.com/)** 13,846,658,096 visits served
 
 Search / Page tools
 
