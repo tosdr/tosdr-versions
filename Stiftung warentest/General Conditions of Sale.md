@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
-* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
-* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
-* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
 
 Service Stiftung Warentest
 
