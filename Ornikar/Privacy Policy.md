@@ -1,4 +1,4 @@
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66aa3a4f12c391602bbf34db_Badge%20alerte.svg)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6740519e1ef85737d089037b_mobil.png)
 
 0
 
@@ -12,7 +12,7 @@ Jours
 
 Heures
 
-Votre permis dès 559,99 € ! Nouveau : paiement en 4x sans frais [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+Jusqu'à -70€ sur les packs permis : votre permis dès 489,99€ \* ! Du 25/11 au 01/12. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
@@ -22,7 +22,7 @@ Permis de conduire
 
 [Permis B
 
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66fff075fc9b634e2d7ef1a3_Badge%20promo%20court.png)](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6740519e1ef85737d089037b_mobil.png)](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
 
 [Code de la route](https://www.ornikar.com/code)
 
@@ -689,19 +689,19 @@ Versions précédentes
 
 Le contenu dans cet article présente uniquement un caractère informatif et n’engage pas contractuellement Ornikar (à savoir les entités Marianne Formation SAS et Ornikar Assurances). Cette dernière décline toute responsabilité sur les décisions et conséquences qui pourraient en découler.
 
-[Ornikar
+[BLACK FRIDAY
 
-La 1ère auto-école de France !
+Jusqu'à -70€ sur les packs permis !
 
-100 % de chance de réussir votre permis, dès 559,99 € seulement !
+100 % de chance de réussir votre permis, dès 489,99 € seulement !
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-Je découvre](https://www.ornikar.com/)[Ornikar
+Je découvre](https://www.ornikar.com/)[BLACK FRIDAY
 
-La 1ère auto-école de France !
+Jusqu'à -70€ sur les packs permis !
 
-100 % de chance de réussir votre permis, dès 559,99 € seulement !
+100 % de chance de réussir votre permis, dès 489,99 € seulement !
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
@@ -781,9 +781,9 @@ adaptée à votre profil de conducteur.
 
 J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[Ornikar
 
-Votre permis dès 559,€
+Jusqu'à -70€ sur les packs permis !
 
-Avec la 1ère auto-école de France et les meilleurs enseignants de France.
+100 % de chance de réussir votre permis, dès 489,99 € seulement !
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
@@ -871,4 +871,4 @@ n° 20005380
 
 [Gérer mes cookies](javascript:openAxeptioCookies())
 
-[\*Détail des conditions de l'offre packs permis](https://www.ornikar.com/a-propos/promo-flash-novembre-2024)
+[\*Détail des conditions de l'offre Black Friday](https://www.ornikar.com/a-propos/promo-black-friday-2024)
