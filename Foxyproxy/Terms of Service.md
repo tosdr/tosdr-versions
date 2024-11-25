@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-My phone battery died in mid-sentence, but not before I was able to express my gratitude for your patient assistance and my glee at having FoxyProxy back.
+Your proxy is excellent. The speed was phenomenal. I like the non-recurring option and the 3 day trial option to confirm it works as described. I like the secure random username and password that was generated. The service far exceeded my expectations. I will use it whenever I need a high performance proxy.
 
-Dan Revell
+Eric Rose
