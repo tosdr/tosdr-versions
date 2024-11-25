@@ -146,7 +146,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
 _Last updated: November 14, 2024_
 
-_“I used to feel like a complete mess. I was starting to lose myself and everyone else that I cared about. After working with Dave, I learned how to be mindful and talk myself out of my spiral of endless worry. I don’t feel so completely lost or crazy. Instead, I feel more normal, more at peace. I’m not totally fighting myself at every turn.”_
+_“Before starting therapy, our relationship felt toxic and hopeless. It seemed like no matter what I tried, nothing changed, and the fate of our marriage was out of my control. Dave saw the love we still had for each other and believed that with the right skills and tools, we could turn things around. During our sessions, I noticed my partner putting in genuine effort, even if consistently applying what we learned outside of therapy was a challenge. I better identified some things I did (and could try to stop doing) that contributed to our couple challenges and learned some strategies of how to create more space for my partner to process and share. As a result, we rediscovered moments of humor and lightness, which helped put our issues into perspective. I realized that my partner deeply wanted to improve our relationship and had a rich inner world of thoughts and feelings, even if expressing them out loud was difficult. This realization alone was a significant step forward.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
