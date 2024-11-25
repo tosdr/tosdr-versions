@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Aishwarya and Praneeth](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Sana and Garvit](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Aishwarya and Praneeth](https://image.wedmegood.com/resized/250X/uploads/images/fc42d06f989842aa8867ae8da6865b66realwedding/IMG_5368.JPG?crop=228,1038,1633,918)
+![Sana and Garvit](https://image.wedmegood.com/resized/250X/uploads/images/377fc1a722514bb8b5f0937d2cac4c2crealwedding/DIL_1952Large.jpeg?crop=97,197,1013,569)
 
-Aishwarya and Praneeth (Hyderabad)](https://www.wedmegood.com/real_wedding/detail/aishwarya-and-praneeth-hyderabad-telugu-wedding-4435)
+Sana and Garvit (Mussoorie)](https://www.wedmegood.com/real_wedding/detail/sana-and-garvit-mussoorie-cross-culture-wedding-4437)
 
-[![Navneet and Anhad](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Pooja and Neeraj](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Navneet and Anhad](https://image.wedmegood.com/resized/250X/uploads/images/0def7b421277420ba3f04daed6d44148realwedding/N&AWedding-602.jpg?crop=268,1726,1629,916)
+![Pooja and Neeraj](https://image.wedmegood.com/resized/250X/uploads/images/d901449e99e14617a0e1b226e6f931a4realwedding/_NAN2750(1)Large.jpeg?crop=156,101,1012,569)
 
-Navneet and Anhad (Delhi NCR)](https://www.wedmegood.com/real_wedding/detail/navneet-and-anhad-delhi-ncr-punjabi-sikh-wedding-4434)
+Pooja and Neeraj (Mumbai)](https://www.wedmegood.com/real_wedding/detail/pooja-and-neeraj-mumbai-cross-culture-wedding-4436)
 
 Browse by Category
 
