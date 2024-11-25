@@ -199,11 +199,11 @@ San Diego, CA 92101
     
     ![](/fileadmin/ESET/INT/Boxes/155x185-Balanced/Gemini/boxes-EHSE-EHSP-EHSU.png)
     
-    ### HOME Security
+    ### [HOME Security](https://www.eset.com/us/brand-special-offer/) 50% OFF
     
-    All-in-one protection of your digital life. Choose a plan according to your needs.
+    [All-in-one protection of your digital life. Choose a plan according to your needs.](https://www.eset.com/int/home/protection-plans/)
     
-    [Choose your plan](https://www.eset.com/us/home/protection-plans/)
+    [Choose your plan](https://www.eset.com/us/brand-special-offer/)
     
     **Special solutions:**
     
@@ -273,7 +273,7 @@ San Diego, CA 92101
     
     ![](/fileadmin/ESET/INT/Pages/SOHO/SOHO-box-155x185.png)
     
-    ### [Small office security](https://www.eset.com/int/home/small-business-security/)
+    ### [Small office security](https://www.eset.com/int/home/small-business-security/) 25% OFF
     
     [Reliable and user-friendly protection tailor made for small offices.](https://www.eset.com/int/home/small-business-security/)
     
@@ -328,8 +328,8 @@ San Diego, CA 92101
     #### Recommended solutions
     
     * [ESET PROTECT MDR](https://www.eset.com/us/business/mdr-protection/)
-    * [ESET PROTECT Complete](https://www.eset.com/us/business/complete-protection/) SAVE 15%
-    * [ESET PROTECT Advanced](https://www.eset.com/us/business/advanced-protection/)
+    * [ESET PROTECT Complete](https://www.eset.com/us/business/cyber-week-2024/) 25% OFF
+    * [ESET PROTECT Advanced](https://www.eset.com/us/business/cyber-week-2024/) 25% OFF
     * [Cybersecurity awareness training](https://www.eset.com/us/business/cybertraining/)
     
     #### Recommended services
@@ -356,7 +356,7 @@ San Diego, CA 92101
     
     * [**ESET PROTECT MDR Ultimate**](https://www.eset.com/us/business/mdr-ultimate-protection/)  
         All-in-one protection with premium 24/7 MDR service
-    * [**ESET PROTECT Elite**](https://www.eset.com/us/business/elite-protection/)  
+    * [**ESET PROTECT Elite**](https://www.eset.com/us/business/cyber-week-2024/) 25% OFF  
         All-in-one protection with XDR to prevent breaches
     
     #### Recommended services
