@@ -1,6 +1,8 @@
 [Skip to main content](#main)
 
-Get early access to our Black Friday Sale! [Shop Our Sale](https://www.zappos.com/null/4AEB4gICMByCAwOj8AE.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F&si=6225354%2C6478556%2C6478448%2C6505316%2C6231298%2C5083584%2C5754384%2C6413468%2C6324802%2C5732759%2C6367861%2C6247064&sy=1)
+Get early access to our Black Friday Sale! [Shop Our Sale](https://www.zappos.com/null/4AEB4gICMByCAwOk8AE.zso?si=5599485%2C5748442%2C6225521%2C6227909%2C6420345%2C5754504%2C6344758%2C6256931%2C5370913%2C6502603&sy=1)
+
+Daily Deals: Get up to 50% off! [Shop Today's Deals](https://www.zappos.com/c/coupon)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
