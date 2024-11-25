@@ -10,15 +10,13 @@ Media Finland
 
 * [Keitä olemme](https://www.sanoma.fi/keita-olemme/)
     *  [![](/globalassets/sanoma-media-finland/keita-olemme/toolo_n4785.jpg?height=100&width=100&quality=80&mode=crop) Yleiskatsaus Keitä olemme](https://www.sanoma.fi/keita-olemme/)
-    * [Uutishuone](https://www.sanoma.fi/keita-olemme/uutishuone/)
+    * [Ajankohtaista](https://www.sanoma.fi/keita-olemme/uutishuone/)
     * [Johtoryhmä](https://www.sanoma.fi/keita-olemme/johtoryhma/)
     * [Tarinamme](https://www.sanoma.fi/keita-olemme/tarinamme/)
     * [Töihin Sanomalle](https://www.sanoma.fi/keita-olemme/toihin-sanomalle/)
 * [Mitä teemme](https://www.sanoma.fi/mita-teemme/)
     *  [![](/globalassets/sanoma-media-finland/mita-teemme/perhe-hs-mobiili.jpg?height=100&width=100&quality=80&mode=crop) Yleiskatsaus Mitä teemme](https://www.sanoma.fi/mita-teemme/)
     * [Tuotteet ja brändit](https://www.sanoma.fi/mita-teemme/tuotteet-ja-brandit/)
-    * [Mainostajille](https://www.sanoma.fi/mita-teemme/mainostajille/)
-    * [Tilaajille](https://www.sanoma.fi/mita-teemme/tilaajille/)
     * [Sanomatalo](https://www.sanoma.fi/mita-teemme/sanomatalo/)
     * [Tietosuoja](https://www.sanoma.fi/mita-teemme/tietosuoja/)
 * [Vastuullisuus](https://www.sanoma.fi/vastuullisuus/)
@@ -41,15 +39,13 @@ Haku
 
 * [Keitä olemme](https://www.sanoma.fi/keita-olemme/)
     * [Keitä olemme Yleiskatsaus](https://www.sanoma.fi/keita-olemme/)
-    * [Uutishuone](https://www.sanoma.fi/keita-olemme/uutishuone/)
+    * [Ajankohtaista](https://www.sanoma.fi/keita-olemme/uutishuone/)
     * [Johtoryhmä](https://www.sanoma.fi/keita-olemme/johtoryhma/)
     * [Tarinamme](https://www.sanoma.fi/keita-olemme/tarinamme/)
     * [Töihin Sanomalle](https://www.sanoma.fi/keita-olemme/toihin-sanomalle/)
 * [Mitä teemme](https://www.sanoma.fi/mita-teemme/)
     * [Mitä teemme Yleiskatsaus](https://www.sanoma.fi/mita-teemme/)
     * [Tuotteet ja brändit](https://www.sanoma.fi/mita-teemme/tuotteet-ja-brandit/)
-    * [Mainostajille](https://www.sanoma.fi/mita-teemme/mainostajille/)
-    * [Tilaajille](https://www.sanoma.fi/mita-teemme/tilaajille/)
     * [Sanomatalo](https://www.sanoma.fi/mita-teemme/sanomatalo/)
     * [Tietosuoja](https://www.sanoma.fi/mita-teemme/tietosuoja/)
 * [Vastuullisuus](https://www.sanoma.fi/vastuullisuus/)
@@ -71,8 +67,6 @@ Evästekäytännöt
 
 * [Tuotteet ja brändit](https://www.sanoma.fi/mita-teemme/tuotteet-ja-brandit/)
     * [Sanoman aluemediat](https://www.sanoma.fi/mita-teemme/tuotteet-ja-brandit/aluemediat/)
-* [Mainostajille](https://www.sanoma.fi/mita-teemme/mainostajille/)
-* [Tilaajille](https://www.sanoma.fi/mita-teemme/tilaajille/)
 * [Sanomatalo](https://www.sanoma.fi/mita-teemme/sanomatalo/)
 * [Tietosuoja](https://www.sanoma.fi/mita-teemme/tietosuoja/)
     * [Datan käyttötarkoitukset](https://www.sanoma.fi/mita-teemme/tietosuoja/datan-kayttotarkoitukset/)
@@ -284,9 +278,9 @@ Media Finland
 
 Kuinka voimme auttaa?
 
-* [Tilaajille](https://www.sanoma.fi/mita-teemme/tilaajille/)
+* [Tilaajille](https://oma.sanoma.fi/)
 * [Sijoittajille](https://www.sanoma.com/fi/sijoittajat/)
-* [Mainostajille](https://www.sanoma.fi/mita-teemme/mainostajille/)
+* [Mainostajille](https://media.sanoma.fi/)
 * [Opettajille](http://sanomalearning.com/)
 * [Työnhakijoille](https://www.sanoma.fi/keita-olemme/toihin-sanomalle/)
 
