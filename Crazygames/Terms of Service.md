@@ -89,29 +89,7 @@ Contact us
 English
 
 * English
-* [čeština](https://www.crazygames.cz/pravidla-a-podminky)
-* [Dansk](https://www.crazygames.dk/vilkar-og-betingelser)
-* [Deutsch](https://de.crazygames.com/geschaftsbedingungen)
-* [Español](https://www.1001juegos.com/terminos-de-uso)
-* [Français](https://www.crazygames.fr/termes-et-conditions)
-* [Indonesia](https://www.crazygames.co.id/syarat-dan-ketentuan)
-* [Italiano](https://it.crazygames.com/condizioni)
-* [Magyar](https://www.crazygames.hu/felhasznalasi-feltetelek)
-* [Nederlands](https://www.crazygames.nl/voorwaarden)
-* [Norsk](https://www.crazygames.no/vilkar-og-betingelser)
-* [Polski](https://www.crazygames.pl/zasady-i-warunki)
-* [Português](https://www.crazygames.com.br/termos-e-condicoes)
-* [Română](https://www.crazygames.ro/termeni-si-conditii)
-* [Suomi](https://www.crazygames.fi/kayttoehdot)
-* [Svenska](https://www.crazygames.se/anvandarvilkor)
-* [Tiếng Việt](https://vn.crazygames.com/%C4%91i%E1%BB%81u-kho%E1%BA%A3n-v%C3%A0-%C4%91i%E1%BB%81u-ki%E1%BB%87n)
-* [Türkçe](https://tr.crazygames.com/%C5%9Fartlar-ve-ko%C5%9Fullar)
-* [Ελληνικά](https://gr.crazygames.com/oroi-kai-proypotheseis)
-* [Русский](https://www.crazygames.ru/pravila-i-usloviya)
-* [Українська](https://www.crazygames.com.ua/umovi-ta-polozhennya)
-* [عربي](https://ar.crazygames.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7%20%D9%88%D8%A7%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85)
-* [ไทย](https://th.crazygames.com/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B9%80%E0%B8%87%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%82%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99)
-* [한국어](https://www.crazygames.co.kr/%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80)
+[* čeština](https://www.crazygames.cz/pravidla-a-podminky)[* Dansk](https://www.crazygames.dk/vilkar-og-betingelser)[* Deutsch](https://de.crazygames.com/geschaftsbedingungen)[* Español](https://www.1001juegos.com/terminos-de-uso)[* Français](https://www.crazygames.fr/termes-et-conditions)[* Indonesia](https://www.crazygames.co.id/syarat-dan-ketentuan)[* Italiano](https://it.crazygames.com/condizioni)[* Magyar](https://www.crazygames.hu/felhasznalasi-feltetelek)[* Nederlands](https://www.crazygames.nl/voorwaarden)[* Norsk](https://www.crazygames.no/vilkar-og-betingelser)[* Polski](https://www.crazygames.pl/zasady-i-warunki)[* Português](https://www.crazygames.com.br/termos-e-condicoes)[* Română](https://www.crazygames.ro/termeni-si-conditii)[* Suomi](https://www.crazygames.fi/kayttoehdot)[* Svenska](https://www.crazygames.se/anvandarvilkor)[* Tiếng Việt](https://vn.crazygames.com/%C4%91i%E1%BB%81u-kho%E1%BA%A3n-v%C3%A0-%C4%91i%E1%BB%81u-ki%E1%BB%87n)[* Türkçe](https://tr.crazygames.com/%C5%9Fartlar-ve-ko%C5%9Fullar)[* Ελληνικά](https://gr.crazygames.com/oroi-kai-proypotheseis)[* Русский](https://www.crazygames.ru/pravila-i-usloviya)[* Українська](https://www.crazygames.com.ua/umovi-ta-polozhennya)[* عربي](https://ar.crazygames.com/%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D8%B7%20%D9%88%D8%A7%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85)[* ไทย](https://th.crazygames.com/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0-%E0%B9%80%E0%B8%87%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%82%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99)[* 한국어](https://www.crazygames.co.kr/%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80)
 
 [About](https://about.crazygames.com/)[Developers](https://developer.crazygames.com/)[Kids site](https://kids.crazygames.com/)[Jobs](https://crazygames.recruitee.com/)[Info for parents](https://www.crazygames.com/information-for-parents)[Terms & conditions](https://www.crazygames.com/terms-and-conditions)[Privacy](https://www.crazygames.com/privacy-policy)[All games](https://www.crazygames.com/sitemap/games)
 
