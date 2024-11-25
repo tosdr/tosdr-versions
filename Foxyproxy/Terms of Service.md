@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Hey your service is working great with netflix via firefox
+I'm actually quite impressed with the product \[GeoShift\].
 
-Sam
+Dustin Personius
