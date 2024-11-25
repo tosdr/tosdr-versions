@@ -1,4 +1,4 @@
-                               [Skip to content](#MainContent)
+                                       [Skip to content](#MainContent)
 
 [](https://www.perfectsleepchair.com/collections/black-friday-deals)
 
@@ -6,13 +6,59 @@ Black Friday Deals Start Now! Learn More
 
 [888-404-1724](tel:888-404-1724)
 
+View Hours
+
+Talk With a Product Expert
+--------------------------
+
+Sales
+
+[888-404-1724](tel:888-404-1724)
+
+M-F 9am - 7pm EST
+
+Sat 10am - 6pm EST
+
+Service
+
+[800-958-8324](tel:800-958-8324)
+
+M-F 9am - 6pm EST
+
+Sat 12pm to 4pm EST
+
+[Contact Us](https://www.perfectsleepchair.com/pages/contact)
+
 [](https://www.perfectsleepchair.com/)
 
  [![Journey Health & Lifestyle](//www.shopjourney.com/cdn/shop/files/Journey_logo_blue.png?v=1687292868&width=350) ![Journey Health & Lifestyle](//www.shopjourney.com/cdn/shop/files/Journey_logo_blue.png?v=1687292868&width=350)![Journey Health & Lifestyle](//www.shopjourney.com/cdn/shop/files/Journey_logo_blue.png?v=1687292868&width=350)](https://www.perfectsleepchair.com/)
 
   search
 
+[888-404-1724](tel:888-404-1724) 
+
+View Hours
+
+Talk With a Product Expert
+--------------------------
+
+Sales
+
 [888-404-1724](tel:888-404-1724)
+
+M-F 9am - 7pm EST
+
+Sat 10am - 6pm EST
+
+Service
+
+[800-958-8324](tel:800-958-8324)
+
+M-F 9am - 6pm EST
+
+Sat 12pm to 4pm EST
+
+[Contact Us](https://www.perfectsleepchair.com/pages/contact)
 
 [0 / $0.00](https://www.perfectsleepchair.com/cart)
 
@@ -527,6 +573,8 @@ Loading...
 
 Reviews LoadedReviews Added
 
+ 
+
     
 
 ### Get in Touch
@@ -534,12 +582,12 @@ Reviews LoadedReviews Added
 ### Get in touch
 
 **Sales:**  
-888-404-1724  
+[888-404-1724](tel:8884041724)  
 M-F 9am - 7pm EST  
 Sat 10am - 6pm EST  
   
 **Customer Service:**  
-800-958-8324  
+[800-958-8324](tel:8009588324)  
 M-F 9am - 6pm EST  
 Sat 12pm to 4pm EST  
   
