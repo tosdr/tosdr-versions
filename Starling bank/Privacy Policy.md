@@ -99,6 +99,9 @@ Online Banking](https://app.starlingbank.com/)
     Savings
     
     * Personal Savings
+        * [Easy Saver
+            
+            Add and withdraw as often as you like, with no minimum deposit and no penalties.](https://www.starlingbank.com/savings/easy-saver/)
         * [Fixed Saver
             
             Set money aside for a year in just a few taps.](https://www.starlingbank.com/current-account/fixed-rate-savings/)
