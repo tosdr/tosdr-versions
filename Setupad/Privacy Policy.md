@@ -19,7 +19,7 @@
     * [Careers](https://setupad.com/careers/ "Careers")
     * [Referral](https://setupad.com/referral-program-setupad/ "Referral")
     * [Contact](https://setupad.com/contact/ "Contact")
-* [LOG IN](https://reports.setupad.com/ "LOG IN")
+* [LOG IN](https://client.setupad.com/ "LOG IN")
 
 Privacy Policy
 ==============
