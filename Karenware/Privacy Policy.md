@@ -70,9 +70,9 @@ If you have any questions about our privacy policies, contact us at [info@karenw
 
 [![YouTube button](/images/youtube/youtube-button-64.png "Visit our YouTube channel")](https://www.youtube.com/c/Karenware)
 
-Downloads Today: 44  
+Downloads Today: 88  
 More than 6000 downloads monthly  
-Received $293.16 this month\* — Thanks!
+Received $316.95 this month\* — Thanks!
 
 ### Recently
 
@@ -104,12 +104,12 @@ A license is required to use any or all of these tools for your work. You only n
 
 [List of All Issues since '99](https://www.karenware.com/newsletters)
 
-24836 Verified Subscribers
+24837 Verified Subscribers
 
 Subscribe to receive new issues of the newsletter about Karen and her free Power Tools.
 
 [Click here to Subscribe](https://www.karenware.com/subscribe)
 
-November Revenue\* $293.16  
+November Revenue\* $316.95  
 \*Licenses + Donations - PayPal Fees  
 Oct $211 Sep $166 Aug $173 Jul $225 Jun $324 May $200 Apr $700 Mar $273 Feb $405 Jan $56 (2023) Dec $349 Nov $546 Oct $253 Sep $232 Aug $189 Jul $379 Jun $188 May $484 Apr $212 Mar $519 Feb $89 Jan $462 (2022) Dec $1088 Nov $151 Oct $133 USD — Thanks again!
