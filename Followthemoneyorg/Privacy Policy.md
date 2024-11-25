@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![disclosure map](/assets/logos/isrequirementsmap.png)](http://www.followthemoney.org/research/institute-research/best-practices-for-independent-spending-part-one)
-
-How does your state stack up for essential disclosure requirements?
+[![National Rifle Association’s Political Spending, 2009-2016](/assets/Images/teasers/small/NRA.JPG)](https://www.followthemoney.org/research/blog/the-nra-fiercely-independent-spending)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
