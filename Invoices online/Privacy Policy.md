@@ -117,57 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Henry Venter
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=60949631)  
-Highlands Auto Engineering
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=55262464)  
+Creative Characters
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=113339583)  
-WIP Digital Solutions
+![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=146408788)  
+FLIPS AUTO ELECTRICAL
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=71261621)  
-Lily Fern & Co
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=59672912)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=131051844)  
-Norton Medical & Consult - Namibia
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=186179645)  
+OXYAIDER (PTY) LTD
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=4982344)  
-Sarabi
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=196296749)  
+Tagline Brands
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=57119998)  
-Printo
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=82689054)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=2553441)  
-Wiselink Broadband Dundee
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=84328591)  
+NWET Pty LTD
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=95178281)  
-Konsortium Operations (PTY) LTD
-
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=188878791)  
-Cooper Logistics (Pty) Ltd
-
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=205299235)  
-Goju-Ryu Pretoria East
-
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=59096360)  
-FX ACCOUNTING
-
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=171158061)  
-TechnoDezi PTY(LTD)
-
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=27164525)  
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=166028068)  
 AFS Electrical
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=96199003)  
-Fox Alarms & Security
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=110715434)  
+Desygn
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=cf4da040cb32955075c17cc8286565c6f5c5f53234c6cedc542494e60c91f17e&c=109491897)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=211229863)  
+TRACKFORCE (Pty) Ltd
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=57833414)  
+Nogana Events and Decor
+
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=188943112)  
+CBR Verwe/Paints
+
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=67288124)  
+ARCHITEK PTY LTD
+
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=43986292)  
+WIP Digital Solutions
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=9cb23a7792a4c568adcc1c7f70e17cb4b029e47ec5420507cd7933cbed2e1ec2&c=173883603)  
+Little Nutty Professors
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
