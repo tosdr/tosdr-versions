@@ -247,7 +247,7 @@ Get our mobile banking app:
 PNC Privacy Policy
 ==================
 
-This policy is effective 06/01/2023 and may be amended from time to time.
+This policy is effective 06/01/2024 and may be amended from time to time.
 -------------------------------------------------------------------------
 
 [](#)
