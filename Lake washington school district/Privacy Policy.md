@@ -437,7 +437,6 @@ student-nav
     * [Families](https://www.lwsd.org/students-families/families)
         
         * [Quicklinks](https://www.lwsd.org/students-families/families/quicklinks)
-        * [Community Support Resources](https://www.lwsd.org/students-families/families/community-support)
         * [ParentSquare(opens in new window/tab)](https://www.parentsquare.com/)
         * [Skyward Family Access(opens in new window/tab)](https://www.lwsd.org/skyward)
         * [Attendance Areas](https://www.lwsd.org/students-families/families/attendance-areas)
