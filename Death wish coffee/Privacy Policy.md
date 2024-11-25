@@ -2,7 +2,7 @@
 
  
 
-[SUBSCRIBE & SAVE: USE CODE EXTRA20 FOR 40% OFF YOUR FIRST SHIPMENT](https://www.deathwishcoffee.com/collections/subscribe-save)
+[BLACK FRIDAY DEALS: SAVE UP TO 25% OFF SITEWIDE](https://www.deathwishcoffee.com/blogs/the-biz/black-friday-save-up-to-25-off-sitewide)
 
      
 
