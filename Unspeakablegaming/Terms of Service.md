@@ -56,9 +56,9 @@ Header - Shapes Theme
     * [![2024 HOLIDAY CARD](//www.unspeakable.com/cdn/shop/files/CardFront.png?v=1731949431&width=700)
         
         2024 HOLIDAY CARD](https://www.unspeakable.com/products/2024-holiday-card)
-    * [![GREY T-SHIRT WITH BLUE FONT](//www.unspeakable.com/cdn/shop/files/DSC_1088.jpg?v=1729534063&width=700)
+    * [![BLACK & BLUE BEANIE](//www.unspeakable.com/cdn/shop/files/Beaniephoto1_1.jpg?v=1732550036&width=700)
         
-        GREY T-SHIRT WITH BLUE FONT](https://www.unspeakable.com/products/unisex-t-shirt)
+        BLACK & BLUE BEANIE](https://www.unspeakable.com/products/black-bue-beanie)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
