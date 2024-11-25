@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [\[2024\] 2400+ Free SWAYAM + NPTEL Courses](https://www.classcentral.com/report/swayam-moocs-course-list/)
-2. [\[2024\] 1000+ Free Google Certificates and Badges](https://www.classcentral.com/report/free-google-certifications/)
-3. [\[2024\] 200+ Free Courses on Mindfulness & Happiness](https://www.classcentral.com/report/mental-health-moocs/)
-4. [A Complete Guide to Virtual Team Building Activities](https://www.classcentral.com/report/virtual-team-building-activities/)
-5. [Why Duolingo is Worth More Than Coursera and Udemy Combined](https://www.classcentral.com/report/duolingo-vs-coursera-udemy-worth-comparison/)
+1. [Google Prompting Essentials Course Review](https://www.classcentral.com/report/review-google-prompting-essentials/)
+2. [\[2024\] 2400+ Free SWAYAM + NPTEL Courses](https://www.classcentral.com/report/swayam-moocs-course-list/)
+3. [\[2024\] 1000+ Free Google Certificates and Badges](https://www.classcentral.com/report/free-google-certifications/)
+4. [\[2024\] 200+ Free Courses on Mindfulness & Happiness](https://www.classcentral.com/report/mental-health-moocs/)
+5. [A Complete Guide to Virtual Team Building Activities](https://www.classcentral.com/report/virtual-team-building-activities/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. excel
+1. python
     
-2. psychology
+2. hacking
     
-3. French
+3. harvard
     
 
 Popular subjects
 
-1. [Computer Science
+1. [Ethical Hacking
     
-    43,725 courses](https://www.classcentral.com/subject/cs)
-2. [Artificial Intelligence
+    2,239 courses](https://www.classcentral.com/subject/ethical-hacking)
+2. [Computer Networking
     
-    14,032 courses](https://www.classcentral.com/subject/ai)
-3. [Web Development
+    1,757 courses](https://www.classcentral.com/subject/computer-networking)
+3. [Digital Marketing
     
-    13,782 courses](https://www.classcentral.com/subject/web-development)
+    6,283 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [Food as Medicine
+1. [The Art of Structural Engineering: Vaults
     
-    Monash University](https://www.classcentral.com/course/food-as-medicine-5742)
-2. [Introduction to Animal Behaviour
+    Princeton University](https://www.classcentral.com/course/structural-engineering-princeton-university-the-a-12040)
+2. [Gamification
     
-    Wageningen University](https://www.classcentral.com/course/animal-behavior-wageningen-university-research-in-6033)
-3. [ANIMATIONs
+    University of Pennsylvania](https://www.classcentral.com/course/gamification-343)
+3. [Mathematical Economics
     
-    Banaras Hindu University](https://www.classcentral.com/course/swayam-animations-13880)
+    Doon University, Dehradun](https://www.classcentral.com/course/swayam-mathematical-economics-14187)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
