@@ -311,14 +311,14 @@ Last Modified: November 11, 2024
   
 This Privacy Policy applies to the websites, social media pages, mobile applications, or online services that are owned or controlled by Nature’s Way Brands, LLC and its subsidiaries (collectively, “Nature’s Way,” “our,” “we,” or “us”) and that post a link to this Privacy Policy (collectively, “Sites,” and individually, a “Site”). This Privacy Policy only covers information collected at the Sites and does not cover any information collected at any other web site or offline by Nature’s Way (unless specifically stated). This Privacy Policy describes our information collection and use practices, as well as rights you may have with respect to the personal information we collect.  
   
-This Privacy Policy does not apply to any other website owned or operated by any third party even if such third party links to a Site or if Nature’s Way links to that third-party website. Accordingly, this Privacy Policy does not apply to the practices of any third party or business partner that Nature’s Way does not own or control. Your use of this website is also governed by our [Terms of Service](https://naturesway.com/legal/#Terms%20of%20Use). Please review this Policy and our Terms before using the Sites. By using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy. If you do not agree to be bound by this Privacy Policy, do not access or use the Sites.
+This Privacy Policy does not apply to any other website owned or operated by any third party even if such third party links to a Site or if Nature’s Way links to that third-party website. Accordingly, this Privacy Policy does not apply to the practices of any third party or business partner that Nature’s Way does not own or control. Your use of this website is also governed by our [Terms of Service](https://naturesway.com/legal/#Terms%20of%20Service). Please review this Policy and our Terms before using the Sites. By using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy. If you do not agree to be bound by this Privacy Policy, do not access or use the Sites.
 
   
 **NOTICE TO CALIFORNIA RESIDENTS**  
   
 California Notice at Collection  
   
-We collect Personal Information as detailed here and in our Privacy Policy. The following serves as our notice at collection of Personal Information in accordance with California law. As defined by applicable law, we may “sell” or “share” certain Personal Information. If you would like to opt out of the sale or sharing of your Personal Information, you may do so [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963) . You may also choose to enable online, where available, a universal tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out.  
+We collect Personal Information as detailed here and in our Privacy Policy. The following serves as our notice at collection of Personal Information in accordance with California law. As defined by applicable law, we may “sell” or “share” certain Personal Information. If you would like to opt out of the sale or sharing of your Personal Information, you may do so [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963). You may also choose to enable online, where available, a universal tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out.  
   
 We keep Personal Information as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep Personal Information as otherwise required by law. What this means in practice will vary between different types of information, and when we consider our approach we take into account ongoing business or legal needs for the information, for example in relation to tax, health and safety, and potential or actual disputes or investigations.  
   
@@ -406,7 +406,7 @@ While we may use a variety of service providers to perform advertising services,
   
 **6\. SECURITY AND RETENTION**  
   
-Nature’s Way has reasonable technical and organizational security measures in place to protect the loss, misuse or alteration of Personal Information under our control. However, given the nature of technology, we cannot guarantee that our systems are 100% secure,. We periodically update our technology in order to improve the protection of customer information.  
+Nature’s Way has reasonable technical and organizational security measures in place to protect the loss, misuse or alteration of Personal Information under our control. However, given the nature of technology, we cannot guarantee that our systems are 100% secure. We periodically update our technology in order to improve the protection of customer information.  
   
 We retain Personal Information as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep Personal Information as otherwise required or permitted by law.  
   
@@ -510,7 +510,7 @@ You are required to comply with all applicable laws in connection with your use 
 
 3. **Privacy Policy**
 
-You agree and consent to the terms of the Schwabe North America Online Privacy Policy, a copy of which you should review by clicking [here](https://naturesway.com/legal/#Privacy%20of%20Policy).
+You agree and consent to the terms of the Schwabe North America Online Privacy Policy, a copy of which you should review by clicking [here](https://naturesway.com/legal/#Privacy%20Policy).
 
 4. **Availability of the Services**
 
@@ -572,7 +572,7 @@ By submitting a question in response to one of our requests or questions on @nat
 
 Your Question is deemed to be non-confidential and non-proprietary.  We are under no obligation to use Your Question. You agree to cooperate with us and sign any supporting documentation we may reasonably require, confirming our ownership, including copyright ownership and your waiver of any applicable moral rights. 
 
-Any personal identifiable information collected in providing Your Question will be collected by us or our agent and used by us as described in these Terms and in accordance with our [Privacy Policy](https://naturesway.com/legal/#Privacy%20of%20Policy). 
+Any personal identifiable information collected in providing Your Question will be collected by us or our agent and used by us as described in these Terms and in accordance with our [Privacy Policy](https://naturesway.com/legal/#Privacy%20Policy). 
 
 You represent and warrant to us that (i) you are 18 years old or older and a legal resident of the 50 United States; (ii) have the right to transmit Your Content; (iii) you are the copyright owner or have the copyright owner’s permission required to grant the rights to Your Content; (iv) you hold the rights necessary to grant the licenses described herein; (iv) Your Content will not violate, misappropriate or infringe any intellectual property rights, publicity rights or other proprietary rights of any third party. 
 
@@ -607,7 +607,7 @@ You irrevocably and unconditionally waive (and agree not to enforce) all rights 
 
 If requested, you will sign any documentation in such manner and at such location as may be required to protect, perfect or enforce any of the rights you have given to us under these UGC Terms of Service. Whether we choose to use the Content or not is solely our choice. We have no obligation to use the Content and we may remove or stop using any Content at any time, for any reason. Use of the Content does not imply our endorsement of or any affiliation with you.
 
-We will use any personal data we receive in connection with our use of the Content in accordance with these UGC Terms of Service and in accordance with our [Privacy Policy](https://naturesway.com/pages/legal#Privacy%20of%20Policy).
+We will use any personal data we receive in connection with our use of the Content in accordance with these UGC Terms of Service and in accordance with our [Privacy Policy](https://naturesway.com/pages/legal#Privacy%20Policy).
 
 If you believe that the Content has been copied in a way that constitutes copyright infringement, you may provide us with written notification of your claim in accordance with the requirements of the U.S. Digital Millennium Copyright Act of 1998 and the instructions provided in these Site Terms of Service.
 
@@ -887,14 +887,14 @@ Last Modified: November 11, 2024
   
 This Privacy Policy applies to the websites, social media pages, mobile applications, or online services that are owned or controlled by Nature’s Way Brands, LLC and its subsidiaries (collectively, “Nature’s Way,” “our,” “we,” or “us”) and that post a link to this Privacy Policy (collectively, “Sites,” and individually, a “Site”). This Privacy Policy only covers information collected at the Sites and does not cover any information collected at any other web site or offline by Nature’s Way (unless specifically stated). This Privacy Policy describes our information collection and use practices, as well as rights you may have with respect to the personal information we collect.  
   
-This Privacy Policy does not apply to any other website owned or operated by any third party even if such third party links to a Site or if Nature’s Way links to that third-party website. Accordingly, this Privacy Policy does not apply to the practices of any third party or business partner that Nature’s Way does not own or control. Your use of this website is also governed by our [Terms of Service](https://naturesway.com/legal/#Terms%20of%20Use). Please review this Policy and our Terms before using the Sites. By using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy. If you do not agree to be bound by this Privacy Policy, do not access or use the Sites.
+This Privacy Policy does not apply to any other website owned or operated by any third party even if such third party links to a Site or if Nature’s Way links to that third-party website. Accordingly, this Privacy Policy does not apply to the practices of any third party or business partner that Nature’s Way does not own or control. Your use of this website is also governed by our [Terms of Service](https://naturesway.com/legal/#Terms%20of%20Service). Please review this Policy and our Terms before using the Sites. By using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy. If you do not agree to be bound by this Privacy Policy, do not access or use the Sites.
 
   
 **NOTICE TO CALIFORNIA RESIDENTS**  
   
 California Notice at Collection  
   
-We collect Personal Information as detailed here and in our Privacy Policy. The following serves as our notice at collection of Personal Information in accordance with California law. As defined by applicable law, we may “sell” or “share” certain Personal Information. If you would like to opt out of the sale or sharing of your Personal Information, you may do so [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963) . You may also choose to enable online, where available, a universal tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out.  
+We collect Personal Information as detailed here and in our Privacy Policy. The following serves as our notice at collection of Personal Information in accordance with California law. As defined by applicable law, we may “sell” or “share” certain Personal Information. If you would like to opt out of the sale or sharing of your Personal Information, you may do so [here](https://privacyportal.onetrust.com/webform/70b2067b-aab5-447b-ba95-fe5870617a82/7e04e93a-7c7d-40db-926a-89bc663c2963). You may also choose to enable online, where available, a universal tool that automatically communicates your opt-out preferences, such as the Global Privacy Control (“GPC”). We will process the GPC signal as a request to opt out.  
   
 We keep Personal Information as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep Personal Information as otherwise required by law. What this means in practice will vary between different types of information, and when we consider our approach we take into account ongoing business or legal needs for the information, for example in relation to tax, health and safety, and potential or actual disputes or investigations.  
   
@@ -982,7 +982,7 @@ While we may use a variety of service providers to perform advertising services,
   
 **6\. SECURITY AND RETENTION**  
   
-Nature’s Way has reasonable technical and organizational security measures in place to protect the loss, misuse or alteration of Personal Information under our control. However, given the nature of technology, we cannot guarantee that our systems are 100% secure,. We periodically update our technology in order to improve the protection of customer information.  
+Nature’s Way has reasonable technical and organizational security measures in place to protect the loss, misuse or alteration of Personal Information under our control. However, given the nature of technology, we cannot guarantee that our systems are 100% secure. We periodically update our technology in order to improve the protection of customer information.  
   
 We retain Personal Information as long as it is necessary or relevant for the practices described in this Privacy Policy. We also keep Personal Information as otherwise required or permitted by law.  
   
@@ -1084,7 +1084,7 @@ You are required to comply with all applicable laws in connection with your use 
 
 3. **Privacy Policy**
 
-You agree and consent to the terms of the Schwabe North America Online Privacy Policy, a copy of which you should review by clicking [here](https://naturesway.com/legal/#Privacy%20of%20Policy).
+You agree and consent to the terms of the Schwabe North America Online Privacy Policy, a copy of which you should review by clicking [here](https://naturesway.com/legal/#Privacy%20Policy).
 
 4. **Availability of the Services**
 
@@ -1146,7 +1146,7 @@ By submitting a question in response to one of our requests or questions on @nat
 
 Your Question is deemed to be non-confidential and non-proprietary.  We are under no obligation to use Your Question. You agree to cooperate with us and sign any supporting documentation we may reasonably require, confirming our ownership, including copyright ownership and your waiver of any applicable moral rights. 
 
-Any personal identifiable information collected in providing Your Question will be collected by us or our agent and used by us as described in these Terms and in accordance with our [Privacy Policy](https://naturesway.com/legal/#Privacy%20of%20Policy). 
+Any personal identifiable information collected in providing Your Question will be collected by us or our agent and used by us as described in these Terms and in accordance with our [Privacy Policy](https://naturesway.com/legal/#Privacy%20Policy). 
 
 You represent and warrant to us that (i) you are 18 years old or older and a legal resident of the 50 United States; (ii) have the right to transmit Your Content; (iii) you are the copyright owner or have the copyright owner’s permission required to grant the rights to Your Content; (iv) you hold the rights necessary to grant the licenses described herein; (iv) Your Content will not violate, misappropriate or infringe any intellectual property rights, publicity rights or other proprietary rights of any third party. 
 
@@ -1181,7 +1181,7 @@ You irrevocably and unconditionally waive (and agree not to enforce) all rights 
 
 If requested, you will sign any documentation in such manner and at such location as may be required to protect, perfect or enforce any of the rights you have given to us under these UGC Terms of Service. Whether we choose to use the Content or not is solely our choice. We have no obligation to use the Content and we may remove or stop using any Content at any time, for any reason. Use of the Content does not imply our endorsement of or any affiliation with you.
 
-We will use any personal data we receive in connection with our use of the Content in accordance with these UGC Terms of Service and in accordance with our [Privacy Policy](https://naturesway.com/pages/legal#Privacy%20of%20Policy).
+We will use any personal data we receive in connection with our use of the Content in accordance with these UGC Terms of Service and in accordance with our [Privacy Policy](https://naturesway.com/pages/legal#Privacy%20Policy).
 
 If you believe that the Content has been copied in a way that constitutes copyright infringement, you may provide us with written notification of your claim in accordance with the requirements of the U.S. Digital Millennium Copyright Act of 1998 and the instructions provided in these Site Terms of Service.
 
@@ -1514,7 +1514,7 @@ More Info
 
 © 2024. Nature's Way Brands, LLC. All Rights Reserved.
 
-* [Terms & Conditions](https://naturesway.com/pages/legal/#Terms%20of%20Use)
+* [Terms of Service](https://naturesway.com/pages/legal/#Terms%20of%20Service)
 * [Privacy Policy](https://naturesway.com/pages/legal)
 * [Sitemap](https://naturesway.com/pages/sitemap)
 
