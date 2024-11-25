@@ -1,40 +1,40 @@
 top of page
 
-[![linkedin.png](https://static.wixstatic.com/media/303e63_35a12769816144b49631f00bbeabc3cb~mv2.png/v1/crop/x_31,y_33,w_236,h_236/fill/w_105,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/linkedin.png)](https://www.boldcollective.co/)
+[![linkedin.png](https://static.wixstatic.com/media/303e63_35a12769816144b49631f00bbeabc3cb~mv2.png/v1/crop/x_31,y_33,w_236,h_236/fill/w_105,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/linkedin.png)](https://www.boldcollective.co/)
 
 * ADVERTISERS
     
     ###### ADVERTISER PRODUCTS
     
-    ![1636898_AdvertiserProductsGraphic-Icons_3_051223.png](https://static.wixstatic.com/media/16fa8f_febd7cb50e3641698ceb31f730602ffc~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/1636898_AdvertiserProductsGraphic-Icons_3_051223.png)
+    ![1636898_AdvertiserProductsGraphic-Icons_3_051223.png](https://static.wixstatic.com/media/16fa8f_febd7cb50e3641698ceb31f730602ffc~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_3_051223.png)
     
     ###### [CTV](https://www.boldcollective.co/ctv)
     
-    ![1636898_AdvertiserProductsGraphic-Icons_4_051223.png](https://static.wixstatic.com/media/16fa8f_54efea95cdff48af9159d179f2303e85~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/1636898_AdvertiserProductsGraphic-Icons_4_051223.png)
+    ![1636898_AdvertiserProductsGraphic-Icons_4_051223.png](https://static.wixstatic.com/media/16fa8f_54efea95cdff48af9159d179f2303e85~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_4_051223.png)
     
     ###### [Audio](https://www.boldcollective.co/audio)
     
-    ![1636898_AdvertiserProductsGraphic-Icons_5_051223.png](https://static.wixstatic.com/media/16fa8f_f1c90e0895a84602b848e6e72e85927b~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/1636898_AdvertiserProductsGraphic-Icons_5_051223.png)
+    ![1636898_AdvertiserProductsGraphic-Icons_5_051223.png](https://static.wixstatic.com/media/16fa8f_f1c90e0895a84602b848e6e72e85927b~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_5_051223.png)
     
     ###### [Mobile Video](https://www.boldcollective.co/mobilevideo)
     
-    ![1636898_AdvertiserProductsGraphic-Icons_6_051223.png](https://static.wixstatic.com/media/16fa8f_daf67c8c9848489ca6f7a74f0d194774~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/1636898_AdvertiserProductsGraphic-Icons_6_051223.png)
+    ![1636898_AdvertiserProductsGraphic-Icons_6_051223.png](https://static.wixstatic.com/media/16fa8f_daf67c8c9848489ca6f7a74f0d194774~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_6_051223.png)
     
     ###### [DSP](https://www.boldcollective.co/dsp)
     
-    ![1636898_AdvertiserProductsGraphic-Icons_1_051223.png](https://static.wixstatic.com/media/16fa8f_4bc718f400b94793a2fad4dbc01c8566~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/1636898_AdvertiserProductsGraphic-Icons_1_051223.png)
+    ![1636898_AdvertiserProductsGraphic-Icons_1_051223.png](https://static.wixstatic.com/media/16fa8f_4bc718f400b94793a2fad4dbc01c8566~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_1_051223.png)
     
     ###### [Mobile App Installs](https://www.boldcollective.co/mobile-performance)
     
-    ![1636898_AdvertiserProductsGraphic-Icons_7_051223.png](https://static.wixstatic.com/media/16fa8f_0dd41fe7d83f4964b461b44d4d443088~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/1636898_AdvertiserProductsGraphic-Icons_7_051223.png)
+    ![1636898_AdvertiserProductsGraphic-Icons_7_051223.png](https://static.wixstatic.com/media/16fa8f_0dd41fe7d83f4964b461b44d4d443088~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_7_051223.png)
     
     ###### [CTV App Installs](https://www.boldcollective.co/ctv-app)
     
-    ![1636898_AdvertiserProductsGraphic-Icons_8_051223.png](https://static.wixstatic.com/media/16fa8f_9baa41f8f0944a0db229b1865362d4d7~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/1636898_AdvertiserProductsGraphic-Icons_8_051223.png)
+    ![1636898_AdvertiserProductsGraphic-Icons_8_051223.png](https://static.wixstatic.com/media/16fa8f_9baa41f8f0944a0db229b1865362d4d7~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_8_051223.png)
     
     ###### [Data](https://www.boldcollective.co/data-signals)
     
-    ![1636898_AdvertiserProductsGraphic-Icons_9_051223.png](https://static.wixstatic.com/media/16fa8f_670866c7a85340eb916fb5741110682f~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/1636898_AdvertiserProductsGraphic-Icons_9_051223.png)
+    ![1636898_AdvertiserProductsGraphic-Icons_9_051223.png](https://static.wixstatic.com/media/16fa8f_670866c7a85340eb916fb5741110682f~mv2.png/v1/fill/w_28,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/1636898_AdvertiserProductsGraphic-Icons_9_051223.png)
     
     ###### [Creative](https://www.boldcollective.co/creative-studio)
     
@@ -61,17 +61,17 @@ top of page
     
     ###### [Apply](https://www.boldcollective.co/job-application)
     
-    [![StrongArm.png](https://static.wixstatic.com/media/16fa8f_5872cc503fc44f8893e5d90eb013a5eb~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/StrongArm.png)](https://www.boldcollective.co/about)
+    [![StrongArm.png](https://static.wixstatic.com/media/16fa8f_5872cc503fc44f8893e5d90eb013a5eb~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/StrongArm.png)](https://www.boldcollective.co/about)
     
     Get Shit Done
     
-    [![LifelongRelationships.png](https://static.wixstatic.com/media/16fa8f_0510f3bf23ed4981aba5584c5c5bd876~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/LifelongRelationships.png)](https://www.boldcollective.co/about)
+    [![LifelongRelationships.png](https://static.wixstatic.com/media/16fa8f_0510f3bf23ed4981aba5584c5c5bd876~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/LifelongRelationships.png)](https://www.boldcollective.co/about)
     
     Lifelong
     
     Relationships
     
-    [![mag.png](https://static.wixstatic.com/media/16fa8f_2cfddfb1bed4406eba8d52c70163d195~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/mag.png)](https://www.boldcollective.co/about)
+    [![mag.png](https://static.wixstatic.com/media/16fa8f_2cfddfb1bed4406eba8d52c70163d195~mv2.png/v1/fill/w_77,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/mag.png)](https://www.boldcollective.co/about)
     
     Trust &
     
@@ -195,7 +195,7 @@ The Privacy Policy was last revised on March 23, 2022.
 
 © 2023, Bold Collective
 
-[![linkedin.png](https://static.wixstatic.com/media/303e63_3308dcf7058d48b9925641ee677af790~mv2.png/v1/crop/x_38,y_33,w_220,h_233/fill/w_74,h_78,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/linkedin.png)](https://www.boldcollective.co/)
+[![linkedin.png](https://static.wixstatic.com/media/303e63_3308dcf7058d48b9925641ee677af790~mv2.png/v1/crop/x_38,y_33,w_220,h_233/fill/w_74,h_78,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/linkedin.png)](https://www.boldcollective.co/)
 
 2060-D E. Avenida de Los Arboles, #289
 
@@ -218,9 +218,9 @@ Follow Us On:
 * [](https://www.linkedin.com/company/theboldcollective)
 * [](https://instagram.com/gobold.co?igshid=OGQ5ZDc2ODk2ZA==)
 
-[![inc500.png](https://static.wixstatic.com/media/16fa8f_2b5ced871cc340b39d27040b99fcb5ca~mv2.png/v1/fill/w_91,h_63,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/inc500.png)](https://www.inc.com/profile/bold-screen-media)
+[![inc500.png](https://static.wixstatic.com/media/16fa8f_2b5ced871cc340b39d27040b99fcb5ca~mv2.png/v1/fill/w_91,h_63,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/inc500.png)](https://www.inc.com/profile/bold-screen-media)
 
-[![2476640_IconForWebsite_01_100824.png](https://static.wixstatic.com/media/303e63_dc4d63c08c824311a3ae558a4fa3dac9~mv2.png/v1/fill/w_130,h_78,al_c,q_85,blur_3,enc_avif,quality_auto/2476640_IconForWebsite_01_100824.png)](https://www.boldcollective.co/)
+[![2476640_IconForWebsite_01_100824.png](https://static.wixstatic.com/media/303e63_dc4d63c08c824311a3ae558a4fa3dac9~mv2.png/v1/fill/w_130,h_78,al_c,q_85,blur_3,enc_auto/2476640_IconForWebsite_01_100824.png)](https://www.boldcollective.co/)
 
 Subscribe to Our Newsletter
 ---------------------------
