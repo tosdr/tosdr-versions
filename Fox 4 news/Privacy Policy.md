@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Texas bill would reclassify abortion drugs as controlled substances](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/GettyImages-1481952226.jpg?ve=1&tl=1)
+ [![Trump cleared: Jack Smith drops election case, DOJ ends classified docs probe](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182348844-a.jpg?ve=1&tl=1)
 
- ![Texas bill would reclassify abortion drugs as controlled substances](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/GettyImages-1481952226.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-bill-would-reclassify-abortion-drugs-controlled-substances)
+ ![Trump cleared: Jack Smith drops election case, DOJ ends classified docs probe](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182348844-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jack-smith-donald-trump-election-interference-classified-docs)
 
-### [Texas bill would reclassify abortion drugs as controlled substances](https://www.fox4news.com/news/texas-bill-would-reclassify-abortion-drugs-controlled-substances)
+### [Trump cleared: Jack Smith drops election case, DOJ ends classified docs probe](https://www.fox4news.com/news/jack-smith-donald-trump-election-interference-classified-docs)
 
- [![Dallas weather: Will Thanksgiving be cold? DFW prepares for big weather shifts this week](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/turkey-day-forecast.png?ve=1&tl=1)
+ [![Many consumers stay with their banks for years unless persuaded by other bank incentives](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/MixCollage-21-Jun-2024-03-13-PM-1358.jpg?ve=1&tl=1)
 
- ![Dallas weather: Will Thanksgiving be cold? DFW prepares for big weather shifts this week](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/turkey-day-forecast.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-thanksgiving)
+ ![Many consumers stay with their banks for years unless persuaded by other bank incentives](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/MixCollage-21-Jun-2024-03-13-PM-1358.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/consumers-stay-with-banks-years)
 
-### [Dallas weather: Will Thanksgiving be cold? DFW prepares for big weather shifts this week](https://www.fox4news.com/weather/dallas-weather-thanksgiving)
+### [Many consumers stay with their banks for years unless persuaded by other bank incentives](https://www.fox4news.com/money/consumers-stay-with-banks-years)
 
- [![Motorcyclist dies in Dallas crash Sunday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112424-sh-dpd-major-crash-fx-red-bird-ln_kdfw5ad6__00.05.24.30.jpg?ve=1&tl=1)
+ [![Father of Hannah Kobayashi found dead near LAX](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/kobadad.jpg?ve=1&tl=1)
 
- ![Motorcyclist dies in Dallas crash Sunday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112424-sh-dpd-major-crash-fx-red-bird-ln_kdfw5ad6__00.05.24.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/motorcyclist-dies-east-oak-cliff-crash-sunday-morning)
+ ![Father of Hannah Kobayashi found dead near LAX](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/592/333/kobadad.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hannah-kobayashi-father-ryan-missing-hawaii-woman-found-dead-los-angeles)
 
-### [Motorcyclist dies in Dallas crash Sunday morning](https://www.fox4news.com/news/motorcyclist-dies-east-oak-cliff-crash-sunday-morning)
+### [Father of Hannah Kobayashi found dead near LAX](https://www.fox4news.com/news/hannah-kobayashi-father-ryan-missing-hawaii-woman-found-dead-los-angeles)
 
- [![Alleged drunk driver leads Sansom Park police on miles-long chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/sansom-park.jpg?ve=1&tl=1)
+ [![Gifts that offer screen-free fun](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/screen-free-fun-thumbnail.jpg?ve=1&tl=1)
 
- ![Alleged drunk driver leads Sansom Park police on miles-long chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/sansom-park.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/alleged-drunk-driver-leads-sansom-park-police-miles-long-chase)
+ ![Gifts that offer screen-free fun](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/screen-free-fun-thumbnail.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-gift-guide-screen-free-fun)
 
-### [Alleged drunk driver leads Sansom Park police on miles-long chase](https://www.fox4news.com/news/alleged-drunk-driver-leads-sansom-park-police-miles-long-chase)
+### [Gifts that offer screen-free fun](https://www.fox4news.com/news/2024-gift-guide-screen-free-fun)
 
- [![Lost penguin’s 2,000-mile journey to Australia ends with return to Southern Ocean](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/penguin-bkgd.jpg?ve=1&tl=1)
+ [![Microsoft outage: What you need to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1240921318.jpg?ve=1&tl=1)
 
- ![Lost penguin’s 2,000-mile journey to Australia ends with return to Southern Ocean](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/penguin-bkgd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lost-penguins-2000-mile-journey-australia-ends-return-southern-ocean)
+ ![Microsoft outage: What you need to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1240921318.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/microsoft-outlook-365-outage-down)
 
-### [Lost penguin’s 2,000-mile journey to Australia ends with return to Southern Ocean](https://www.fox4news.com/news/lost-penguins-2000-mile-journey-australia-ends-return-southern-ocean)
+### [Microsoft outage: What you need to know](https://www.fox4news.com/news/microsoft-outlook-365-outage-down)
 
 ###### [News](https://www.fox4news.com/news)
 
