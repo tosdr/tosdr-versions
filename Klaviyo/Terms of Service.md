@@ -19,7 +19,7 @@
 
 [![Klaviyo Community Logo](https://uploads-us-west-2.insided.com/klaviyo-en/attachment/d9f4dbeb-9887-4eb8-b4a4-77e87d01ff4b.png)](https://community.klaviyo.com/)
 
-* [](https://community.klaviyo.com/topic/new?fid=64)
+* [](https://community.klaviyo.com/topic/new)
 * [](#)
 
 * [Home](https://community.klaviyo.com/)
