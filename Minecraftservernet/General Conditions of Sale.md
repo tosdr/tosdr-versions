@@ -29,13 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![TerminaMC](plugins/MineCraft/icons/25x25xTerminaMC_1732480075.png.pagespeed.ic.KhictQjAiR.jpg)
+[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
 
-Termina - Towny Raiding (War) (SMP) \[Crossplay\]](https://minecraft-server.net/details/TerminaMC/ "Termina - Towny Raiding (War) (SMP) [Crossplay]") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![ProjectNodenium](plugins/MineCraft/icons/25x25xProjectNodenium_1731131921.png.pagespeed.ic.5uFR5C_P7D.png)
+(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -](https://minecraft-server.net/details/whoocraft/ "(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-Project Nodenium](https://minecraft-server.net/details/ProjectNodenium/ "Project Nodenium")[![Opinium](plugins/MineCraft/icons/25x25xOpinium_1729658202.png.pagespeed.ic.uLOW_8Oyyj.jpg)
+1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
 
-BeanSMP](https://minecraft-server.net/details/Opinium/ "BeanSMP") [Bacons origins smp](https://minecraft-server.net/details/baconsoriginsmp/ "Bacons origins smp")
+Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![Lifelink](plugins/MineCraft/icons/25x25xLifelink_1731729199.png.pagespeed.ic.OSXJLM33D2.jpg)
+
+Lifelink](https://minecraft-server.net/details/Lifelink/ "Lifelink")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -112,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06091 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05994 - Created by [Debaucus](https://debauc.us/)
