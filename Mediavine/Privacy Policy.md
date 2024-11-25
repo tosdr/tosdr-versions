@@ -45,7 +45,6 @@
         * [Summer of Live](https://www.mediavine.com/category/summer-of-live/)
         * [Transcripts](https://www.mediavine.com/category/transcripts/)
     * [Mediavine](https://www.mediavine.com/category/mediavine/)
-        * [Behind the Vine](https://www.mediavine.com/category/interview/behind-the-vine/)
         * [Case Study](https://www.mediavine.com/category/case-study/)
         * [Diversity](https://www.mediavine.com/category/diversity/)
         * [Shine](https://www.mediavine.com/category/shine/)
