@@ -6,7 +6,7 @@ Log In
 
 [![Artspace Logo](//d5wt70d4gnm1t.cloudfront.net/static/common/img/header/logo_2.svg?v=2)](https://www.artspace.com/)
 
-[SIGN UP FOR OUR EMAIL &  
+[SIGN UP FOR OUR EMAIL & ENJOY  
 FREE SHIPPING ON YOUR FIRST ORDER!](https://www.artspace.com/account_creation)
 
 * Sign In
