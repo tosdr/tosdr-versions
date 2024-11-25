@@ -150,9 +150,9 @@ Latest reactions
 
 Latest forum posts
 
+* [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun "Run Bubble Rain with Sofarun")
 * [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
 * [MSX on R36S (using Openmsx and some tweaking)](https://www.msx.org/forum/msx-talk/emulation/msx-on-r36s-using-openmsx-and-some-tweaking "MSX on R36S (using Openmsx and some tweaking)")
-* [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun "Run Bubble Rain with Sofarun")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx "DalSoRi R2 on OpenMSX")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=77 "WonderTANG! Who wants to juice up your MSX?")
