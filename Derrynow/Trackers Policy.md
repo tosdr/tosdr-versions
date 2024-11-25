@@ -286,35 +286,53 @@ Ciaran Coll's time at Derry City looks to have come to an end.
 [Ciaran Coll set to leave Derry City to join Glentoran](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Historic Derry Funeral Directors aid organisations with Community Assistance Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Historic Derry Funeral Directors aid organisations with Community Assistance Awards")](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
 
-Kathleen Bradley, Grants & Foundations Fundraiser, Michelle Kosky, Children’s & Young Person’s Facilitator from Foyle Hospice with Funeral Home Manager Wayne Glenn.
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, November 25, 2024](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donegal man charged with disorderly behavior following incident in Derry remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man charged with disorderly behavior following incident in Derry remanded")](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
+
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Historic Derry Funeral Directors aid organisations with Community Assistance Awards](https://www.derrynow.com/news/local-news/1660642/historic-derry-funeral-directors-aid-organisations-with-community-assistance-awards.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI urge Derry motorists to remember the Fatal Five rules to make roads safer for everyone")](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[PSNI urge Derry motorists to remember Fatal Five rules to help make roads safer for everyone](https://www.derrynow.com/news/local-news/1662286/psni-urge-derry-motorists-to-remember-fatal-five-rules-to-help-make-roads-safer-for-everyone.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime")](https://www.derrynow.com/news/northern-ireland/1663508/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/news/northern-ireland/1663508/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
+[Donegal man charged with disorderly behavior following incident in Derry remanded](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Storm Bert: Wind warnings in place in several counties across island of Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Storm Bert: Wind warnings in place in several counties across island of Ireland")](https://www.derrynow.com/news/northern-ireland/1663463/storm-bert-wind-warnings-in-place-in-several-counties-across-island-of-ireland.html)
+[![Clean-up begins after Storm Bert as thousands still left without power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clean-up begins after Storm Bert as thousands still left without power")](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[Storm Bert: Wind warnings in place in several counties across island of Ireland](https://www.derrynow.com/news/northern-ireland/1663463/storm-bert-wind-warnings-in-place-in-several-counties-across-island-of-ireland.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![AVEVA to expand its operations as it invests £1.4million in Derry site](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AVEVA to expand its operations as it invests £1.4million in Derry site")](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
+
+Economy Minister Conor Murphy with Brendan McGuigan, Director of Advanced Manufacturing and Engineering at Invest NI, and Caoimhe Keogan, Chief People Officer, AVEVA
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[AVEVA to expand its operations as it invests £1.4million in Derry site](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man with 128 previous convictions charged with series of public order offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man with 128 previous convictions charged with series of public order offences")](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man with 128 previous convictions charged with series of public order offences](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.")](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
+
+Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry's pioneering nurses to be honoured by Ulster University](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Campaigners demand immediate action after 8% rise in suicides](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Campaigners demand immediate action after 8% rise in suicides")](https://www.derrynow.com/news/local-news/1663605/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
 
@@ -322,20 +340,6 @@ Kathleen Bradley, Grants & Foundations Fundraiser, Michelle Kosky, Children’s 
 
 [Campaigners demand immediate action after 8% rise in suicides](https://www.derrynow.com/news/local-news/1663605/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime")](https://www.derrynow.com/news/local-news/1663606/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/news/local-news/1663606/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New wind warning issued as Storm Bert threatens ‘danger to life’ flooding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New wind warning issued as Storm Bert threatens ‘danger to life’ flooding")](https://www.derrynow.com/news/northern-ireland/1663465/new-wind-warning-issued-as-storm-bert-threatens-danger-to-life-flooding.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[New wind warning issued as Storm Bert threatens ‘danger to life’ flooding](https://www.derrynow.com/news/northern-ireland/1663465/new-wind-warning-issued-as-storm-bert-threatens-danger-to-life-flooding.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,55 +517,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, November 25, 2024](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1663740/ruaidhri-higgins-i-thought-i-was-being-brave-being-strong-and-showing-leadership-but-ultimately-i-was-wrong.html)
-
-Ruaidhri Higgins has been reflecting on his time as Derry City manager.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins: "I thought I was being brave, being strong and showing leadership, but ultimately I was wrong"](https://www.derrynow.com/news/derry-sport/1663740/ruaidhri-higgins-i-thought-i-was-being-brave-being-strong-and-showing-leadership-but-ultimately-i-was-wrong.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_11_24/2925878_Cropped-1732470606897.jpg--.jpg?1732470608379 "Derry City")](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
-
-Ciaran Coll's time at Derry City looks to have come to an end.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ciaran Coll set to leave Derry City to join Glentoran](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police investigating reported arson attack in Derry](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police investigating reported arson attack in Derry")](https://www.derrynow.com/news/local-news/1663680/police-investigating-reported-arson-attack-in-derry.html)
-
-PSNI
+[![Derry man with 128 previous convictions charged with series of public order offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man with 128 previous convictions charged with series of public order offences")](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Police investigating reported arson attack in Derry](https://www.derrynow.com/news/local-news/1663680/police-investigating-reported-arson-attack-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man with 128 previous convictions charged with series of public order offences](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MacD on Music: Two's Company - Laytha](https://www.derrynow.com/resizer/165/93/true/2024_11_22/Press_Photo_Two_s_company_30223330-1732286266287_1732286283.jpg--.jpg?1732286283263 "MacD on Music: Two's Company - Laytha")](https://www.derrynow.com/news/what-s-on/1662377/macd-on-music-two-s-company-laytha.html)
+[![Donegal man charged with disorderly behavior following incident in Derry remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man charged with disorderly behavior following incident in Derry remanded")](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
 
-Laytha is made up of cousins Niamh Carney and Philana Nolan. Their latest EP ‘Daphne' is out now
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[MacD on Music: Two's Company - Laytha](https://www.derrynow.com/news/what-s-on/1662377/macd-on-music-two-s-company-laytha.html)
---------------------------------------------------------------------------------------------------------------------------------
-
-[![Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_24/1732446302362_0.jpg--.jpg?1732446302465 "Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime")](https://www.derrynow.com/news/local-news/1663606/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
+Derry Magistrate's Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/news/local-news/1663606/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Donegal man charged with disorderly behavior following incident in Derry remanded](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.](https://www.derrynow.com/resizer/165/93/true/2024_11_25/Altnagelvin_Consultant_ENT_Surgeon%2C_Mr_Harvey_with_Theatre_Sister%2C_Ursula_Clifford%2C_and_Mr_Harvey_s_Registrar%2C_Dr_Finn_Houlahan%2C-1732532659025_1732533971.jpg--.jpg?1732533971345 "Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.")](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
+
+Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry's pioneering nurses to be honoured by Ulster University](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Praxis Care: Katherine Greer & Paul Webb](https://www.derrynow.com/resizer/165/93/true/2024_11_25/Katherine_Greer%2C_Paul_Webb_%281%29-1732533156728.jpg--.jpg?1732533157176 "Praxis Care: Katherine Greer & Paul Webb")](https://www.derrynow.com/news/county-derry-post/1664044/praxis-care-celebrates-katherine-greer-coleraine-client-for-successfully-completing-her-second-year-of-an-msc-programme.html)
+
+Praxis Care: Katherine Greer & Paul Webb
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Praxis Care celebrates Katherine Greer, Coleraine client for successfully completing her second year of an MSc programme.](https://www.derrynow.com/news/county-derry-post/1664044/praxis-care-celebrates-katherine-greer-coleraine-client-for-successfully-completing-her-second-year-of-an-msc-programme.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Jason Manford](https://www.derrynow.com/resizer/165/93/true/2024_11_25/JM_MFAS_PosterShot_01-1732532594916.jpeg--.jpeg?1732532595926 "Jason Manford")](https://www.derrynow.com/news/derry-news/1664032/jason-manford-announces-derry-show-for-september-2025.html)
+
+Jason Manford
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Jason Manford announces Derry show for September 2025](https://www.derrynow.com/news/derry-news/1664032/jason-manford-announces-derry-show-for-september-2025.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![AVEVA to expand its operations as it invests £1.4million in Derry site](https://www.derrynow.com/resizer/165/93/true/2024_11_25/Parkway-4436%281%29-1732527228568.jpg--.jpg?1732527229048 "AVEVA to expand its operations as it invests £1.4million in Derry site")](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
+
+Economy Minister Conor Murphy with Brendan McGuigan, Director of Advanced Manufacturing and Engineering at Invest NI, and Caoimhe Keogan, Chief People Officer, AVEVA
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[AVEVA to expand its operations as it invests £1.4million in Derry site](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
