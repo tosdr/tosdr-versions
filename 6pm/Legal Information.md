@@ -340,9 +340,9 @@ Live Chat](https://www.6pm.com/tng/chat.zml)
 
 Search 6pm.comSubmit Search
 
-[Heels on Sale $49.99 or Less!
+[Boots on Sale $50 or Less!
 
-Shop Heels on Sale](https://www.6pm.com/women-heels/CK_XARC41wFqAQTAAQHiAgQBAhgN.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F)
+Shop Boot Deals](https://www.6pm.com/boots/CK_XARCz1wFqAQTiAgMBAg0.zso?s=recentSalesStyle%2Fdesc%2F)
 
 Privacy Notice
 ==============
