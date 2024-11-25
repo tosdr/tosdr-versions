@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/hanneke-de-vries-leent-geld-bij-de-bank/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/rectificatie-pauw-911-foto-george-van-houts/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
