@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/space-weather-ineens-heel-actueel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/het-wonder-van-water-yin-yang/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
