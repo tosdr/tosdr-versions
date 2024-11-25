@@ -347,6 +347,10 @@ The Arc and The Arc’s chapters are each separate and distinct 501(C)(3) organi
 
 [Scroll to top](#top "Scroll to top")
 
+[![](https://thearc.org/wp-content/uploads/2024/11/24-157.06-DEV-EOY-thearc.org-Pop-Up-scaled.jpg)](https://donate.thearc.org/give/642937/#!/donation/checkout)
+
+×
+
 ![](https://thearc.org/wp-content/uploads/2020/07/Popup-image-top.jpg)
 
 ![](https://thearc.org/wp-content/uploads/2020/07/Popup-image-new.png)
