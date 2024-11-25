@@ -18,10 +18,11 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
 *  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Set sail with Moana's Ticket 2 Adventure** Get 2 tickets to Moana 2 & more!
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Grab This Peacock Black Friday Deal Now** Get a whole year of Peacock for just $19.99.\*
 
 Go to next offer
 
@@ -55,21 +56,21 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
+* [Chance to win a vacation! image link ![Chance to win a vacation!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dc250740-a39a-11ef-a588-3b078e6b3d8a--fan-homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer) 
     
-    ### Popular Poster Pack
+    ### Chance to win a vacation!
     
-    Get 2 movie tickets to Wicked, a limited edition poster, and more!
+    Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
     
-    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer)
     
-* [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
+* [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
     
-    ### Gladiator II Prop Auction
+    ### Set sail with the Moana 2 Ticket 2 Adventure
     
-    Take a piece of history home with official props straight from the movie set!
+    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
     
-    [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
 * [Ascend to victory with The Champion's Collection image link ![Ascend to victory with The Champion's Collection](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/117eeb80-9e1f-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-gladiator2bundle-292x118.png)](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer) 
     
@@ -79,13 +80,13 @@ Offers
     
     [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer)
     
-* [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
+* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
     
-    ### Set sail with the Moana 2 Ticket 2 Adventure
+    ### Popular Poster Pack
     
-    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
+    Get 2 movie tickets to Wicked, a limited edition poster, and more!
     
-    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
     
 
 New & Coming soon
@@ -184,6 +185,26 @@ New & Coming soon
 
 © 2024 Fandango | [A Division of NBCUniversal](https://www.nbcuniversal.com/)
 
+### Special Offer
+
+Close
+
+![Gladiator II Prop Auction](https://images.fandango.com/cms/assets/6d178c20-989a-11ef-a07e-5b03d6159fe4--fan-globalnavbar-gladiator2auction-343x362-v5.jpg)
+
+#### Take a piece of history home with our Gladiator II Prop Auction. Check out the Auction for official props straight from the movie set!
+
+See https://www.fandango.com/fanstoreauction-gladiator2 for full terms and details. [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_promomodule)
+
+### SPECIAL OFFER
+
+Close
+
+![Set sail with Moana's Ticket 2 Adventure](https://images.fandango.com/cms/assets/3c800e70-9340-11ef-a07e-5b03d6159fe4--fan-mobilewebmu-moana2gwp-194x223.png)
+
+#### Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more!
+
+Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Moana 2’ between 7:00am PT on 10/28/24 and 11:59pm PT on 11/10/24. Purchaser will receive a post purchase email containing one Fandango at Home Promotional Code (“Code”) that is good for $5 off the purchase (and not the rental) of Moana in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 11/15/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes, shipping and handling additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. If cost of purchase or rental is more than maximum value of the Code, then user must pay the difference. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code are subject to Fandango at Home’s Terms and Policies and Privacy Policy at http://www.fandango.com/terms-and-policies. [BUY TICKETS](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_GlobalNav)
+
 ### SPECIAL OFFER
 
 Close
@@ -204,22 +225,12 @@ Close
 
 The Champion’s Collection Exclusive Movie Pack is non-refundable. While supplies last. Movie ticket is non-refundable,non-exchangeable and valid at Regal theatres only. You must be 18 years of age or older to purchase The Champion’s Collection Exclusive Movie Pack. You must have, and be logged into, a Fandango at Home account to buy The Champion’s Collection Exclusive Movie Pack and receive Gladiator II (pre-order so that you can view it when the studio makes it available) on Fandango at Home. The exclusive Gladiator II poster is 27"x40” and will begin shipping in the month of December. Please use a physical address where the exclusive Gladiator II poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See full terms and conditions at https://fandan.co/TheChampionsCollection for each item included in The Champion’s Collection Exclusive Movie Pack. [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_promomodule)
 
-### Special Offer
-
-Close
-
-![Gladiator II Prop Auction](https://images.fandango.com/cms/assets/6d178c20-989a-11ef-a07e-5b03d6159fe4--fan-globalnavbar-gladiator2auction-343x362-v5.jpg)
-
-#### Take a piece of history home with our Gladiator II Prop Auction. Check out the Auction for official props straight from the movie set!
-
-See https://www.fandango.com/fanstoreauction-gladiator2 for full terms and details. [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_promomodule)
-
 ### SPECIAL OFFER
 
 Close
 
-![Set sail with Moana's Ticket 2 Adventure](https://images.fandango.com/cms/assets/3c800e70-9340-11ef-a07e-5b03d6159fe4--fan-mobilewebmu-moana2gwp-194x223.png)
+![Grab This Peacock Black Friday Deal Now](http://images.fandango.com/cms/assets/d34df4b0-a93f-11ef-a588-3b078e6b3d8a--pktv-00089124-000258064-globalnav.jpg)
 
-#### Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more!
+#### This Black Friday deal is the REAL deal. Get a whole year of Peacock for just $19.99. That’s 75% off. Grab it now and watch hot new movies, Certified Fresh® Originals, your favorite shows, more live sports than you can handle, and on and on.
 
-Limited time offer. Log into your account on Fandango.com or the Fandango app and purchase at least one movie ticket to ‘Moana 2’ between 7:00am PT on 10/28/24 and 11:59pm PT on 11/10/24. Purchaser will receive a post purchase email containing one Fandango at Home Promotional Code (“Code”) that is good for $5 off the purchase (and not the rental) of Moana in My Offers in your account on http://fandangoathome.com and via participating Fandango at Home apps. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Code expires on (and must be used by) 11/15/24 at 11:59pm PT. Limit one per transaction. You may have to pay taxes, shipping and handling additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have a Fandango at Home account to redeem your Code on Fandango at Home. Fandango at Home is free to join; you must be 18 years of age or older to open a Fandango at Home account. Credit card may be required for transactions on fandangoathome.com. If cost of purchase or rental is more than maximum value of the Code, then user must pay the difference. Fandango at Home reserves the right to modify or cancel this offer at any time and without notice. This offer and redemption of the Code are subject to Fandango at Home’s Terms and Policies and Privacy Policy at http://www.fandango.com/terms-and-policies. [BUY TICKETS](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_GlobalNav)
+Limited time offer. After offer ends, plan auto-renews at the then-current retail price (plus tax) until you cancel. Eligibility restrictions and terms apply. Offer Terms: peacocktv.com/offer-terms/black-friday-2024 [JOIN NOW](https://pck.tv/3YUiZAD)
