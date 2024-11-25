@@ -468,6 +468,14 @@ Revised June 1, 2022
 
   [![Japan starter Shosei Togo reacts after allowing a three-run home run against Taiwan in the fifth inning of the Premier12 final on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/436056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan starter Shosei Togo reacts after allowing a three-run home run against Taiwan in the fifth inning of the Premier12 final on Sunday.")](https://www.japantimes.co.jp/sports/2024/11/24/baseball/taiwan-beats-japan-premier12-final/ "Taiwan stuns Samurai Japan to capture Premier12 title")
 
+[Ishiba shelves proposal for liaison offices with North Korea amid rising tensions](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/ishiba-proposal-liaison-offices/ "Ishiba shelves proposal for liaison offices with North Korea amid rising tensions")
+
+  [![Prime Minister Shigeru Ishiba speaks on Saturday in Tokyo at a rally that was held by a group of families of Japanese citizens abducted by North Korea decades ago to demand the immediate return of all abductees.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435944.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks on Saturday in Tokyo at a rally that was held by a group of families of Japanese citizens abducted by North Korea decades ago to demand the immediate return of all abductees.")](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/ishiba-proposal-liaison-offices/ "Ishiba shelves proposal for liaison offices with North Korea amid rising tensions")
+
+[How Japan can exit the fossil fuel subsidies it can’t seem to quit](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
+
+  [![A man walks past a gasoline station in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435734.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man walks past a gasoline station in Tokyo on Thursday.")](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
+
 [Woman dies after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
 
   [![A Moka Railway train car](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435894.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Moka Railway train car")](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
@@ -476,15 +484,13 @@ Revised June 1, 2022
 
   [![Keita Sano celebrates with his teammates after scoring on Kotaro Kiyomiya's two-run triple against Taiwan during their Premier12 game at Tokyo Dome on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435901.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Keita Sano celebrates with his teammates after scoring on Kotaro Kiyomiya's two-run triple against Taiwan during their Premier12 game at Tokyo Dome on Saturday.")](https://www.japantimes.co.jp/sports/2024/11/23/baseball/japan-beats-taiwan-super-round/ "Japan beats Taiwan ahead of rematch in Premier12 final")
 
-[Tokyo’s newest three-star chef wants ‘harmony across every detail’](https://www.japantimes.co.jp/life/2024/11/24/food-drink/daniel-calvert-sezanne-michelin/ "Tokyo’s newest three-star chef wants ‘harmony across every detail’")
+[How Japan can exit the fossil fuel subsidies it can’t seem to quit](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
 
-  [![British-born Daniel Calvert earned his third Michelin star last month — a stunning achievement considering his restaurant, Sezanne, has only been open for just over three years.
-](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435258.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "British-born Daniel Calvert earned his third Michelin star last month — a stunning achievement considering his restaurant, Sezanne, has only been open for just over three years.
-")](https://www.japantimes.co.jp/life/2024/11/24/food-drink/daniel-calvert-sezanne-michelin/ "Tokyo’s newest three-star chef wants ‘harmony across every detail’")
+  [![A man walks past a gasoline station in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435734.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man walks past a gasoline station in Tokyo on Thursday.")](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
 
-['Kohaku' still matters for J-pop bragging rights](https://www.japantimes.co.jp/culture/2024/11/24/music/kohaku-uta-gassen-lineup/ "'Kohaku' still matters for J-pop bragging rights")
+[An iconic 32-foot doughnut might give Randy’s an edge in Japan](https://www.japantimes.co.jp/business/2024/11/24/companies/randys-donut-japan/ "An iconic 32-foot doughnut might give Randy’s an edge in Japan")
 
-  [![Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435735.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.")](https://www.japantimes.co.jp/culture/2024/11/24/music/kohaku-uta-gassen-lineup/ "'Kohaku' still matters for J-pop bragging rights")
+  [![Randy's Donuts in Inglewood, California. Replicas of the giant doughnut sculpture will be installed, where possible, at shops in Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435759.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Randy's Donuts in Inglewood, California. Replicas of the giant doughnut sculpture will be installed, where possible, at shops in Japan.")](https://www.japantimes.co.jp/business/2024/11/24/companies/randys-donut-japan/ "An iconic 32-foot doughnut might give Randy’s an edge in Japan")
 
 [Tokyo’s newest three-star chef wants ‘harmony across every detail’](https://www.japantimes.co.jp/life/2024/11/24/food-drink/daniel-calvert-sezanne-michelin/ "Tokyo’s newest three-star chef wants ‘harmony across every detail’")
 
@@ -499,14 +505,6 @@ Revised June 1, 2022
 [After Shohei Ohtani bump, Iwate ironware maker sees brighter future](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
 
   [![Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435319.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.")](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
-
-[Shohei Ohtani wins National League MVP award](https://www.japantimes.co.jp/sports/2024/11/22/baseball/mlb/ohtani-wins-mvp-award/ "Shohei Ohtani wins National League MVP award")
-
-  [![Shohei Ohtani celebrates after hitting a three-run home run against the Padres during the National League Division Series at Dodger Stadium in Los Angeles last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435583.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani celebrates after hitting a three-run home run against the Padres during the National League Division Series at Dodger Stadium in Los Angeles last month.")](https://www.japantimes.co.jp/sports/2024/11/22/baseball/mlb/ohtani-wins-mvp-award/ "Shohei Ohtani wins National League MVP award")
-
-[The slow-burn success of ‘A Samurai in Time’](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
-
-  [![A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/21/435382.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A 19th-century warrior gets struck by lightning and wakes to find himself in 21st-century Kyoto in Junichi Yasuda’s surprise hit “A Samurai in Time.”")](https://www.japantimes.co.jp/culture/2024/11/21/film/a-samurai-in-time-junichi-yasuda/ "The slow-burn success of ‘A Samurai in Time’")
 
 Podcast
 -------
@@ -569,25 +567,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Mohammed bin Salman’s style shift sets up a new world order strategy](https://www.japantimes.co.jp/news/2024/11/25/world/politics/mohammed-bin-salman-new-world-order/ "Mohammed bin Salman’s style shift sets up a new world order strategy")
+[93-year-old inmate imprisoned over fatal Tokyo car crash dies](https://www.japantimes.co.jp/news/2024/11/25/japan/crime-legal/ikebukuro-car-crash-inmate-dies/ "93-year-old inmate imprisoned over fatal Tokyo car crash dies")
 
-4 mins ago
+22 mins ago
 
-[CDP’s gains in Hokkaido raise political questions about Rapidus](https://www.japantimes.co.jp/news/2024/11/25/japan/politics/regional-hokkaido-election/ "CDP’s gains in Hokkaido raise political questions about Rapidus")
+[Nomura, Daiwa and other advisers win coveted Seven & I buyout roles](https://www.japantimes.co.jp/business/2024/11/25/companies/seven-i-deal-financial-advisers/ "Nomura, Daiwa and other advisers win coveted Seven & I buyout roles")
 
-1 hour ago
+36 mins ago
 
-[China's startups suffer as investors exercise redemption rights](https://www.japantimes.co.jp/business/2024/11/25/markets/chinese-startups-ipo-freeze/ "China's startups suffer as investors exercise redemption rights")
-
-1 hour ago
-
-[Ito-Yokado closes store that inspired 'Crayon Shin-chan' supermarket](https://www.japantimes.co.jp/business/2024/11/25/companies/ito-yokado-kasukabe-store-closed/ "Ito-Yokado closes store that inspired 'Crayon Shin-chan' supermarket")
+[Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
 1 hour ago
 
-[Afghan women turn to entrepreneurship under Taliban](https://www.japantimes.co.jp/news/2024/11/25/world/society/afghan-women-entrepreneurship-taliban/ "Afghan women turn to entrepreneurship under Taliban")
+[How Reiwa Shinsengumi managed to overtake JCP in the Lower House](https://www.japantimes.co.jp/news/2024/11/25/japan/politics/reiwa-shinsengumi-jcp-election/ "How Reiwa Shinsengumi managed to overtake JCP in the Lower House")
 
-1 hour ago
+2 hours ago
+
+[Startup transplants pig kidney into monkey for first time in Japan](https://www.japantimes.co.jp/news/2024/11/25/japan/science-health/startup-transplants-pig-kidney-monkey/ "Startup transplants pig kidney into monkey for first time in Japan")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
