@@ -1,8 +1,8 @@
 top of page
 
-![](https://static.wixstatic.com/media/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg/v1/fill/w_288,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg)
+![](https://static.wixstatic.com/media/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg/v1/fill/w_288,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg)
 
-![ITExpress Logo](https://static.wixstatic.com/media/e20e22_f6a2c1236d324544a1113f8c6e8de3c9~mv2.png/v1/fill/w_172,h_69,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/e20e22_f6a2c1236d324544a1113f8c6e8de3c9~mv2.png)
+![ITExpress Logo](https://static.wixstatic.com/media/e20e22_f6a2c1236d324544a1113f8c6e8de3c9~mv2.png/v1/fill/w_172,h_69,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e20e22_f6a2c1236d324544a1113f8c6e8de3c9~mv2.png)
 
 * [ITEXPRESS](https://www.uni-accounting.com/)
 * [ACCOUNTING UNI](https://www.uni-accounting.com/accounting-uni)
@@ -57,7 +57,7 @@ Last updated: 12/18/2021
 
 [Back to Main page](https://www.uni-accounting.com/)
 
-![ITLogoBig](https://static.wixstatic.com/media/e20e22_d5440cbce1ff4f70a12491632197c569~mv2.png/v1/fill/w_164,h_66,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/ITLogoBig.png)
+![ITLogoBig](https://static.wixstatic.com/media/e20e22_d5440cbce1ff4f70a12491632197c569~mv2.png/v1/fill/w_164,h_66,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/ITLogoBig.png)
 
 ITExpress Ltd.
 
@@ -79,6 +79,6 @@ CH-2540 Grenchen
 
 © Copyright 2025 ITExpress Ltd.
 
-![Plain light blue sky without clouds.jpg](https://static.wixstatic.com/media/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg/v1/fill/w_95,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg)
+![Plain light blue sky without clouds.jpg](https://static.wixstatic.com/media/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg/v1/fill/w_95,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/e20e22_98d98ca8f53d4b58b575b7180f128c5e~mv2.jpg)
 
 bottom of page
