@@ -1,4 +1,4 @@
-Holiday Sale Up to 40% off
+Black Friday Sale up to 50% OFF See all deals
 
 Point finders for Google's Find My Device app Order now
 
@@ -32,9 +32,9 @@ Compare products [Store](https://chipolo.net/en-us/pages/chipolo-collection) [Lo
 
 Compare products
 
-Holiday sale
+Black Friday sale
 
-[Link to the promotion](https://chipolo.net/en-us/pages/holiday-sale-2024)
+[Link to the promotion](https://chipolo.net/en-us/pages/black-friday-sale)
 
 Terms of Use
 ============
