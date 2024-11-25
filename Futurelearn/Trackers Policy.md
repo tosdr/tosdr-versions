@@ -8,9 +8,9 @@ FutureLearn uses cookies to enhance your experience of the website. All but stri
 
 Dismiss
 
-New lower prices! Get up to 50% off 1000s of courses.
+Black Friday flash sale! Get 15% off short courses with code BF24.
 
-[Explore courses](https://www.futurelearn.com/courses)
+[Discover now](https://www.futurelearn.com/courses)
 
 Search term
 
