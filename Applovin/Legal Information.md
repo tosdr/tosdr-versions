@@ -31,10 +31,9 @@
 ###### SOLUTIONS FOR YOUR GOALS
 
 * [Increase ARPDAU](https://www.applovin.com/solutions/increase-arpdau/)
-* [Scale Ad Impressions](https://www.applovin.com/solutions/scale-ad-impressions/)
-* [Acquire Valuable Users](https://www.applovin.com/solutions/acquire-valuable-users/)
+* [Grow Ad Inventory](https://www.applovin.com/solutions/grow-ad-inventory/)
+* [Acquire App Users](https://www.applovin.com/solutions/acquire-app-users/)
 * [Increase IAPs](https://www.applovin.com/solutions/increase-iaps/)
-* [Expand Your Reach](https://www.applovin.com/solutions/expand-your-reach/)
 
 ###### Resource Center
 
@@ -96,10 +95,9 @@
         Take control of your CTV strategy](https://www.applovin.com/wurl/)
 * [Solutions](#)
     * [Increase ARPDAU](https://www.applovin.com/solutions/increase-arpdau/)
-    * [Scale Ad Impressions](https://www.applovin.com/solutions/scale-ad-impressions/)
-    * [Acquire Valuable Users](https://www.applovin.com/solutions/acquire-valuable-users/)
+    * [Grow Ad Inventory](https://www.applovin.com/solutions/grow-ad-inventory/)
+    * [Acquire App Users](https://www.applovin.com/solutions/acquire-app-users/)
     * [Increase IAPs](https://www.applovin.com/solutions/increase-iaps/)
-    * [Expand Your Reach](https://www.applovin.com/solutions/expand-your-reach/)
 * [Resources](#)
     * [Success Stories](https://www.applovin.com/success-stories/)
     * [Blog](https://www.applovin.com/blog/)
@@ -107,12 +105,12 @@
     * [Guides and Reports](https://www.applovin.com/guides-reports/)
     * [Glossary](https://www.applovin.com/glossary/)
     * [Events](https://www.applovin.com/events/)
+    * [Partners](https://www.applovin.com/partners/)
     
     [View all resources](https://www.applovin.com/resource-center/)
     
     More about us
     
-    * [Partners](https://www.applovin.com/partners/)
     * [Jobs](https://www.applovin.com/jobs/)
         
         NEW
@@ -210,10 +208,9 @@ Email: [\[email protected\]](https://www.applovin.com/cdn-cgi/l/email-protecti
 ###### SOLUTIONS
 
 * [Increase ARPDAU](https://www.applovin.com/solutions/increase-arpdau/)
-* [Scale Ad Impressions](https://www.applovin.com/solutions/scale-ad-impressions/)
-* [Acquire Valuable Users](https://www.applovin.com/solutions/acquire-valuable-users/)
+* [Grow Ad Inventory](https://www.applovin.com/solutions/grow-ad-inventory/)
+* [Acquire App Users](https://www.applovin.com/solutions/acquire-app-users/)
 * [Increase IAPs](https://www.applovin.com/solutions/increase-iaps/)
-* [Expand Your Reach](https://www.applovin.com/solutions/expand-your-reach/)
 
 ###### RESOURCES
 
