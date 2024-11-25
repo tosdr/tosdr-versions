@@ -868,7 +868,7 @@ Back
 
 [Under Attack?](https://resources.trendmicro.com/GLB-Under-Attack-Form.html)
 
-3 Alerts
+4 Alerts
 
 Back
 
@@ -876,6 +876,9 @@ Unread
 
 All
 
+* [Join us at AWS re:Invent for demos and expert-led sessions on AI-powered security.](https://resources.trendmicro.com/AWSreInvent.html)close
+    
+    [Supercharge your security >](https://resources.trendmicro.com/AWSreInvent.html)
 * [Silent Threat: Red Team Tool EDRSilencer Disrupting Endpoint Security Solutions](https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html)close
     
     [Learn more](https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html)
