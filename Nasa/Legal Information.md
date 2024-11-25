@@ -335,7 +335,7 @@ article 4 days ago](https://www.nasa.gov/solar-system/planets/jupiter/jupiter-mo
 
 ### Hubble Captures an Edge-On Spiral with Curve Appeal
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/artist-concepts/Hubble_FUOrionis_STScI-01JD10SWK9VB6MQ9440ERZ8QP0.jpg)
+article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/artist-concepts/Hubble_FUOrionis_STScI-01JD10SWK9VB6MQ9440ERZ8QP0.jpg)
 
 5 min read
 
@@ -357,7 +357,7 @@ article 4 days ago](https://www.nasa.gov/missions/chandra/nasas-chandra-hubble-t
 
 ### Hubble Captures an Edge-On Spiral with Curve Appeal
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![An image from a 3D simulation showing the evolution of turbulent flows in the upper layers of the Sun. The more saturated and bright reds represent the most vigorous upward or downward twisting motions. Clear areas represent areas where there is only relatively slow up-flows, with very little twisting.](https://www.nasa.gov/wp-content/uploads/2024/11/11-kitiashvili-i-sc24-sunhelicitytour0.jpg?w=1024)
+article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![An image from a 3D simulation showing the evolution of turbulent flows in the upper layers of the Sun. The more saturated and bright reds represent the most vigorous upward or downward twisting motions. Clear areas represent areas where there is only relatively slow up-flows, with very little twisting.](https://www.nasa.gov/wp-content/uploads/2024/11/11-kitiashvili-i-sc24-sunhelicitytour0.jpg?w=1024)
 
 3 min read
 
@@ -379,7 +379,7 @@ article 3 days ago](https://www.nasa.gov/science-research/planetary-science/astr
 
 ### NASA Engineer Carries Indigenous Roots into New Aviation Era
 
-article 5 days ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
+article 6 days ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
 
 2 min read
 
@@ -435,7 +435,7 @@ article 5 days ago](https://www.nasa.gov/directorates/stmd/northwestern-universi
 
 ### NASA Engineer Carries Indigenous Roots into New Aviation Era
 
-article 5 days ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)
+article 6 days ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)
 
 ### Featured
 
@@ -479,7 +479,7 @@ article 4 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-na
 
 ### Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
 
-article 4 weeks ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)
+article 1 month ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)
 
 [![OCIO Banner](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png?w=1907)](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png)
 
