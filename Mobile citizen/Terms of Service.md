@@ -134,5 +134,5 @@ If you have any questions regarding these Terms, please contact us by email at [
 
 [_Mobile Citizen On LinkedIn_](https://www.linkedin.com/company/mobile-citizen/)
 
-Copyright © Mobile Citizen, a Voqal project. All Rights Reserved. [Terms of Use](https://mobilecitizen.org/terms-of-use/) | [Privacy Notice](https://mobilecitizen.org/privacy-policy-website-terms-of-use/) | [Legal Notice](https://mobilecitizen.org/legal/)  
+Copyright © Mobile Citizen, a Voqal Partners project. All Rights Reserved. [Terms of Use](https://mobilecitizen.org/terms-of-use/) | [Privacy Notice](https://mobilecitizen.org/privacy-policy-website-terms-of-use/) | [Legal Notice](https://mobilecitizen.org/legal/)  
 [Web Site Design & Development by Tiger Studios](https://tiger-studios.com/).
