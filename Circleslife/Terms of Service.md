@@ -108,19 +108,19 @@ per line/mo
 
 2 SIMs
 
-$40.00 total bill/mo](https://activate-shop.circles.life/familyplan/sa_delivery?locale=en&reset=true&sim_count=2&code=FAMILYSPECIAL2024&_gl=1*1xz79g*_ga*MjEwNTY2NjI3NC4xNjYwMjkwMDY5*_ga_EZBPYP3T0Y*MTY2NTY0MTQxNS4yMDYuMS4xNjY1NjQ1MTk3LjAuMC4w)[$16.73
+$40.00 total bill/mo](https://activate-shop.circles.life/familyplan/sa_delivery?locale=en&reset=true&sim_count=2&code=CLFAMILYPLAN)[$16.73
 
 per line/mo
 
 3 SIMs
 
-$50.19 total bill/mo](https://activate-shop.circles.life/familyplan/sa_delivery?locale=en&reset=true&sim_count=3&code=FAMILYSPECIAL2024&_gl=1*1xz79g*_ga*MjEwNTY2NjI3NC4xNjYwMjkwMDY5*_ga_EZBPYP3T0Y*MTY2NTY0MTQxNS4yMDYuMS4xNjY1NjQ1MTk3LjAuMC4w)[$15.10
+$50.19 total bill/mo](https://activate-shop.circles.life/familyplan/sa_delivery?locale=en&reset=true&sim_count=3&code=CLFAMILYPLAN)[$15.10
 
 per line/mo
 
 4 SIMs
 
-$60.38 total bill/mo](https://activate-shop.circles.life/familyplan/sa_delivery?locale=en&reset=true&sim_count=4&code=FAMILYSPECIAL2024&_gl=1*1qdvf0j*_ga*MjEwNTY2NjI3NC4xNjYwMjkwMDY5*_ga_EZBPYP3T0Y*MTY2NTY0MTQxNS4yMDYuMS4xNjY1NjQ1MTk3LjAuMC4w)[Get up to 6 SIMs](https://pages.circles.life/sg/familyplan/)
+$60.38 total bill/mo](https://activate-shop.circles.life/familyplan/sa_delivery?locale=en&reset=true&sim_count=4&code=CLFAMILYPLAN)[Get up to 6 SIMs](https://pages.circles.life/sg/familyplan/)
 
 4g
 
