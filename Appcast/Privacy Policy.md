@@ -68,7 +68,7 @@ Access treasure troves of research papers, reports, and articles to help you o
 
 Stay current with recruitment best practices & industry news on Appcast’s blog.](https://www.appcast.io/blog/)[Customer Stories
 
-Learn how our customers use programmatic recruiting to fill their hiring funnels with qualified candidates.](https://www.appcast.io/customer-stories/)
+Learn how our customers leverage Appcast's solutions to fill their hiring funnels with qualified candidates.](https://www.appcast.io/customer-stories/)
 
 [Live & Virtual Events
 
@@ -78,10 +78,10 @@ Use our tool to identify gender-coded terms in your job ads and suggest bias-fre
 
 A destination for data-driven insights to make sense of an evolving world of work.](https://recruitonomics.com/?__hstc=43218810.e453894e772a8c99aa3c908ab843ac5b.1704366722756.1716496368105.1716545377374.109&__hssc=43218810.2.1716545377374&__hsfp=4137284348)
 
-[On-Demand Webinar
------------------
+[New whitepaper
+--------------
 
-##### How the US Election Could Shape Your 2025 Recruitment Strategy](https://info.appcast.io/on-demand-webinar/how-the-us-could-shape-your-2025-recruitment-strategy?lead_source__n_=Appcast%20Website&utm_medium=Website&utm_source=Website&utm_campaign=&utm_content=&utm_term=) 
+##### Top Recruiting Trends for 2025](https://info.appcast.io/whitepaper/top-recruiting-trends-for-2025?lead_source__n_=Appcast%20Website&utm_medium=Website&utm_source=Website&utm_campaign=&utm_content=&utm_term=) 
 
 [login](https://premium.appcast.io/user_sessions/new)
 
