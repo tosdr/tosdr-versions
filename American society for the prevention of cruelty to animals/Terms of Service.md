@@ -331,14 +331,14 @@ The ASPCA is a 501(c)(3) non-for-profit organization. [Privacy Policy](https://w
     Underwritten by Independence American Insurance Company
     
 
- ![](https://www.aspca.org/sites/default/files/modal-mobile/mobile-ea2_hungery-animals_20241118_lightbox.jpg)
+ ![](https://www.aspca.org/)
 
-### Food Needed for Hungry Animals!
+### Last Chance to Support Hungry Animals!
 
-**[Help us reach 60k meals this holiday.](https://secure.aspca.org/donate/2024-eap-nov2-web-T1-P1?ms=wb_con_lightbox-nov2-20241111&initialms=wb_con_lightbox-nov2-20241111&pcode=WEBMEMBER&lpcode=WEBGUARD)**
+**[Help us reach 60k meals by Thanksgiving.](https://secure.aspca.org/donate/2024-eap-nov3-web-T1-P1?ms=wb_con_lightbox-nov3-20241125&initialms=wb_con_lightbox-nov3-20241125&pcode=WEBMEMBER&lpcode=WEBGUARD)**
 
-### Food Needed for Hungry Animals!
+### Last Chance to Support Hungry Animals!
 
-**[Help us reach 60k meals this holiday.](https://secure.aspca.org/donate/2024-eap-nov2-web-T1-P1?ms=wb_con_lightbox-nov2-20241111&initialms=wb_con_lightbox-nov2-20241111&pcode=WEBMEMBER&lpcode=WEBGUARD)**
+**[Help us reach 60k meals by Thanksgiving.](https://secure.aspca.org/donate/2024-eap-nov3-web-T1-P1?ms=wb_con_lightbox-nov3-20241125&initialms=wb_con_lightbox-nov3-20241125&pcode=WEBMEMBER&lpcode=WEBGUARD)**
 
-[DONATE](https://secure.aspca.org/donate/2024-eap-nov2-web-T1-P1?ms=wb_con_lightbox-nov2-20241111&initialms=wb_con_lightbox-nov2-20241111&pcode=WEBMEMBER&lpcode=WEBGUARD&ms=wb_con_lightbox-nov2-20241111&initialms=wb_con_lightbox-nov2-20241111&pcode=WEBMEMBER&lpcode=WEBGUARD)
+[DONATE](https://secure.aspca.org/donate/2024-eap-nov3-web-T1-P1?ms=wb_con_lightbox-nov3-20241125&initialms=wb_con_lightbox-nov3-20241125&pcode=WEBMEMBER&lpcode=WEBGUARD&ms=wb_con_lightbox-nov3-20241125&initialms=wb_con_lightbox-nov3-20241125&pcode=WEBMEMBER&lpcode=WEBGUARD)
