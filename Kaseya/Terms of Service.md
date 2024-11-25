@@ -408,7 +408,7 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/11/1200x628-Kaseya-365-Webinar-The-Right-Ingredients-300x157.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/11/1200x675-Kaseya-365-Webinar-The-Right-Ingredients-300x169.png)
     
     The Right Ingredients and a Powerful Recipe at the Best Price: Manage and Secure IT With Kaseya 365
     
