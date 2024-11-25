@@ -318,7 +318,7 @@ Subscribe Now
 Latest Magazine Issue
 ---------------------
 
-[![Down to the Wire drama series cover Elizabeth Debicki](https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/08/FC_EM_DWD_082024.jpg?fit=250%2C300&ssl=1)](https://view.flipdocs.com/?ID=10004691_753840)
+[![Visionaries Colman Domingo Cover](https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/11/FC_OS_RB_112524-1.jpg?fit=250%2C300&ssl=1)](https://view.flipdocs.com/?ID=10004691_643157)
 
 TheWrap
 -------
