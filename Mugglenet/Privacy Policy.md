@@ -278,15 +278,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Ginny Weasley’s full first name is Ginevra, not Virginia.
+While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
 
 ### Potter History
 
-June 23, 2011 – Pottermore was announced in a YouTube video.
+April 20, 2006 – Harry Potter and the Order of the Phoenix film release dates are confirmed.
 
 ### Potter Quote
 
-“You’ve picked the losing side, Potter! I warned you! I told you you ought to choose your company more carefully, remember? When we met on the train, first day at Hogwarts? I told you not to hang around with riffraff like this!”
+“Aw, don’t worry, honey. Most guys think what you was thinking, first time they see me.”
 
 [](#)
 
