@@ -4,6 +4,34 @@
 
  
 
+Close banner ![](https://archive.org/components/donation-banner/images/close-circle-dark.svg) ![](https://archive.org/components/donation-banner/images/close-circle-white.svg)  
+
+**Can You Chip In?**  
+  
+Dear Patron: Please don't scroll past this. The Internet Archive is a nonprofit fighting for universal access to quality information. We build and maintain all our own systems, but we don’t charge for access, sell user information, or run ads. Instead, we're powered by online donations averaging $15.58. We'd be deeply grateful if you'd join the one in a thousand users that support us financially.  
+  
+We understand that not everyone can donate right now, but if you can afford to contribute this Monday, we promise it will be put to good use. Our resources are crucial for knowledge lovers everywhere—so if you find all these bits and bytes useful, **please pitch in.**
+
+**Can You Chip In?** Dear Patron: Please don't scroll past this. The Internet Archive is a nonprofit that relies on online donations averaging $15.58. If you find all these bits and bytes useful, **please pitch in.**
+
+ 
+
+Continue
+
+[Remind Me](#donate_dropdown)
+
+##### Send me an email reminder
+
+Email address (required) 
+
+Please enter a valid email address.
+
+First name  Last name  Submit
+
+By submitting, you agree to receive donor-related emails from the Internet Archive. Your privacy is important to us. We do not sell or trade your information with anyone.
+
+ 
+
 Hamburger icon An icon used to represent a menu that can be toggled by interacting with this icon.
 
 [Internet Archive logo A line drawing of the Internet Archive headquarters building façade.](https://archive.org/ "Go home")
@@ -280,6 +308,6 @@ Email: [info@archive.org](mailto:info@archive.org)
 **For More Information**  
 If you have any questions or comments regarding these terms and policies or the Archive’s data collection practices, please contact the Archive at [info@archive.org](mailto:info@archive.org) or Internet Archive, 300 Funston Ave., San Francisco, CA 94118, phone 415-561-6767.  
 
-![](//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=523232139)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=2011257904)
 
-![](//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1524158209)
+![](//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1354504431)
