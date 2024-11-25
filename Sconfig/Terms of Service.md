@@ -310,13 +310,13 @@ Pages
 Recent Posts
 ------------
 
+* [The PINEcil!](https://www.s-config.com/the-pinecil/) November 24, 2024
 * [OpenNIC](https://www.s-config.com/opennic/) October 29, 2024
 * [IntelliMouse lives again.](https://www.s-config.com/intellimouse-lives-again/) August 18, 2024
 * [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/) August 12, 2024
 * [Pay for your mouse… Forever!](https://www.s-config.com/pay-for-your-mouse-forever/) August 3, 2024
 * [Privacy PSA time!](https://www.s-config.com/privacy-psa-time/) July 27, 2024
 * [We were always in dark-mode.](https://www.s-config.com/we-were-always-in-dark-mode/) July 21, 2024
-* [Stupid Android time – Ads on Startup.](https://www.s-config.com/stupid-android-time-ads-on-startup/) July 6, 2024
 
 Search this entire site:
 ------------------------
@@ -332,6 +332,7 @@ Accepted Web-Rings.
 Recent Comments
 ---------------
 
+* [Ren](https://strangedefinition.com/) on [The PINEcil!](https://www.s-config.com/the-pinecil/comment-page-1/#comment-92894)
 * abrahem on [Thinking WITHOUT Google. Welcome Old-Web.](https://www.s-config.com/thinking-without-google-welcome-old-web/comment-page-1/#comment-92678)
 * [Ren](http://strangedefinition.com/) on [OpenNIC](https://www.s-config.com/opennic/comment-page-1/#comment-92542)
 * [S-Config](https://www.s-config.com/) on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-91177)
@@ -339,7 +340,6 @@ Recent Comments
 * T on [Rollerblade office caster wheels – buyer beware!](https://www.s-config.com/rollerblade-office-caster-wheels-buyer-beware/comment-page-5/#comment-90612)
 * Jack Meoff on [IntelliMouse lives again.](https://www.s-config.com/intellimouse-lives-again/comment-page-1/#comment-90482)
 * [S-Config](https://www.s-config.com/) on [Intel Arc A380 – Does it encode?!?](https://www.s-config.com/intel-arc-a380-does-it-encode/comment-page-1/#comment-90036)
-* [S-Config](https://www.s-config.com/) on [Sleeper E-Server PC](https://www.s-config.com/sleeper-e-server-pc/comment-page-1/#comment-89927)
 
 The only advertisement banner you will see.
 -------------------------------------------
