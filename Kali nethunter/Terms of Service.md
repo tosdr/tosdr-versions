@@ -20,7 +20,7 @@
     
     Focused training to develop critical cybersecurity skills](https://www.offsec.com/learning/skill-paths-pins)[Industry Frameworks
     
-    MITRE ATT&CK- and D3FEND-aligned learning paths](https://www.offsec.com/learning/paths/industry-frameworks)
+    Framework-specific training for MITRE ATT&CK, D3FEND and NIST/NICE](https://www.offsec.com/learning/industry-frameworks)
     
     [Explore Learning Library](https://portal.offsec.com/)
     
@@ -269,7 +269,7 @@
     
     Focused training to develop critical cybersecurity skills](https://www.offsec.com/learning/skill-paths-pins)[Industry Frameworks
     
-    MITRE ATT&CK- and D3FEND-aligned learning paths](https://www.offsec.com/learning/paths/industry-frameworks)
+    Framework-specific training for MITRE ATT&CK, D3FEND and NIST/NICE](https://www.offsec.com/learning/industry-frameworks)
     
     [Explore Learning Library](https://portal.offsec.com/)
     
