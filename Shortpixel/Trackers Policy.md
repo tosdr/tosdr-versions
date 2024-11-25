@@ -104,6 +104,8 @@ Marketing cookies are used to track visitors across the Website. The intention i
 
 We may update the Policy from time to time, therefore you are advised to review it periodically for any changes. Changes to this Cookies Policy are effective when they are posted on this page. For any question, you can contact us at [support@shortpixel.com](mailto:support@shortpixel.com).
 
+ [![](/old/img/robot_pirate.png) ![](/img/blackfriday-2x-credits.png)](https://shortpixel.com/pricing-one-time)
+
 [About & team](https://shortpixel.com/about-and-team)
 
 [Contact](https://shortpixel.com/contact)
