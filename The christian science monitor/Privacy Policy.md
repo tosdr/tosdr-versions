@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Balance
+
+### Want a less commercial holiday? Gen Z tries ‘underconsumption core.’](https://www.csmonitor.com/The-Culture/2024/1125/underconsumption-core-holiday-gen-z "Want a less commercial holiday? Gen Z tries ‘underconsumption core.’")
+
 [Respect
 
 ### Of dogs and din](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1122/Of-dogs-and-din "Of dogs and din")
@@ -99,10 +103,6 @@ Recent Stories
 [Honesty
 
 ### Moody chickens? Playful bumblebees? Science decodes the rich inner lives of animals.](https://www.csmonitor.com/Science/2024/1122/farm-animal-rights-science-consciousness "Moody chickens? Playful bumblebees? Science decodes the rich inner lives of animals.")
-
-[Prosperity
-
-### In the race to attract students, historically Black colleges sprint out front](https://www.csmonitor.com/USA/Education/2024/1122/hbcu-college-enrollment-north-carolina "In the race to attract students, historically Black colleges sprint out front")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
