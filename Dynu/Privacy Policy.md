@@ -240,23 +240,9 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Great Users
+Share this page
 
-  
-
-![Partner](/content/images/content/strip/medicoweb.com.png)
-
-  
-
-![Partner](/content/images/content/strip/mediastar.id.png)
-
-  
-
-![Partner](/content/images/content/strip/businesspcsupport.com.png)
-
-  
-
-![Partner](/content/images/content/strip/erp-sarajevo.com.png)
+[Join the community >](https://www.dynu.com/Support)
 
 ### News
 
