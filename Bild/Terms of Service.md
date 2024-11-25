@@ -208,25 +208,25 @@ Menü
 
 [BreakingNews
 
-Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
+Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
 
-Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
+Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
 
-Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
+Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
 
-Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
+Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
 
-Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
+Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
 
-Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
+Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
 
-Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
+Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
 
-Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
+Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
 
-Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
+Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
 
-Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD](https://www.bild.de/politik/spd-olaf-scholz-als-kanzlerkandidat-nominiert-674469c78ff2e41fd22993f3)
+Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst](https://www.bild.de/news/ausland/-6744be1291566c5d5441273e)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
