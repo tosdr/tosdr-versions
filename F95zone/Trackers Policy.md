@@ -127,19 +127,19 @@ F95zone is an adult community where you can find tons of great adult games and c
 
 Threads
 
-217,555
+217,594
 
 Messages
 
-14,370,064
+14,372,707
 
 Members
 
-8,025,532
+8,026,645
 
 Latest member
 
-[van hiker](https://f95zone.to/members/van-hiker.8290882/)
+[doornob54](https://f95zone.to/members/doornob54.8292038/)
 
 [](https://f95zone.to/)
 
@@ -156,7 +156,7 @@ This site provides links to other sites/services, and does not store any files
 * [](#top "Top")
 * [RSS](https://f95zone.to/forums/-/index.rss "RSS")
 
-Served by: \[NUMA||US\]-\[S2|7.99/8.07/8.14\] \[193638f90ee\] (385c3298)
+Served by: \[NUMA||US\]-\[S2|12.53/10.88/10.72\] \[19364d910ca\] (c465852c)
 
 * [](https://twitter.com/f95zoneofficial "Twitter")
 
