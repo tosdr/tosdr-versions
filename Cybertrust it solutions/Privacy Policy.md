@@ -181,7 +181,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
     
 * CAPTCHA
     
-* Name
+* Email
     
     This field is for validation purposes and should be left unchanged.
     
@@ -210,7 +210,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
     
 * CAPTCHA
     
-* Phone
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
