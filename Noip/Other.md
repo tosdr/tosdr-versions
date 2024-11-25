@@ -776,14 +776,8 @@ Resources
         
 * [GDS Metrics](https://www.icann.org/resources/pages/gds-metrics-2015-01-30-en)
     
-* [Identifier Systems Security, Stability and Resiliency (OCTO IS-SSR)](https://www.icann.org/resources/pages/octo-ssr-2016-10-10-en)
+* [Identifier Systems Security, Stability and Resiliency (OCTO-SSR)](https://www.icann.org/resources/pages/octo-ssr-2016-10-10-en)
     
-    * [SSR Team Blogs](https://www.icann.org/resources/pages/is-ssr-blogs-2015-12-16-en)
-        
-    * [Security Terminology](https://www.icann.org/resources/pages/security-terminology-2015-09-16-en)
-        
-    * [Document Archive](https://www.icann.org/resources/pages/archive-2012-10-05-en)
-        
 * [ccTLDs](https://www.icann.org/resources/pages/cctlds-21-2012-02-25-en)
     
     * [Background Materials](https://www.icann.org/resources/pages/background-2012-02-25-en)
