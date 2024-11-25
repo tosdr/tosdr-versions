@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Love You, Miss You, Mean ItLuke Bryan<br><br>10:38pm |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:35pm |
-| Life Is A HighwayRascal Flatts<br><br>10:31pm |
-| Love SomebodyMorgan Wallen<br><br>10:27pm |
-| Tucson Too LateJordan Davis<br><br>10:24pm |
+| Dont YaBrett Eldredge<br><br>4:38am |
+| ParkTyler Hubbard<br><br>4:35am |
+| Messed Up As MeKeith Urban<br><br>4:32am |
+| LiarJelly Roll<br><br>4:29am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-Spanish • Western
+Country • Western
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
