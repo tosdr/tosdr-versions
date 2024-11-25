@@ -1,6 +1,6 @@
 top of page
 
-[![Screenshot 2024-01-13 at 6_edited_edited](https://static.wixstatic.com/media/0a8e45_60ff7ca3bff3423584c62b64435f6fb5~mv2.jpg/v1/crop/x_0,y_0,w_460,h_260/fill/w_100,h_56,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-01-13%20at%206_edited_edited.jpg)](https://www.blazeapp.net/)
+[![Screenshot 2024-01-13 at 6_edited_edited](https://static.wixstatic.com/media/0a8e45_60ff7ca3bff3423584c62b64435f6fb5~mv2.jpg/v1/crop/x_0,y_0,w_460,h_260/fill/w_100,h_56,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-01-13%20at%206_edited_edited.jpg)](https://www.blazeapp.net/)
 
 * [Feed](https://www.blazeapp.net/feed)
 * [App](https://www.blazeapp.net/mobile-app)
@@ -71,9 +71,9 @@ We are committed to maintaining the highest standards of privacy protection. Any
 Last Updated: March 15, 2024  
 Effective Date: March 18, 2024
 
-[![Screenshot 2024-01-13 at 6.43_edited.jpg](https://static.wixstatic.com/media/0a8e45_1a959fe5f9fc43c3b4e3687396e3f72d~mv2.jpg/v1/fill/w_128,h_68,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-01-13%20at%206_43_edited.jpg)](https://www.blazeapp.net/)
+[![Screenshot 2024-01-13 at 6.43_edited.jpg](https://static.wixstatic.com/media/0a8e45_1a959fe5f9fc43c3b4e3687396e3f72d~mv2.jpg/v1/fill/w_128,h_68,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-01-13%20at%206_43_edited.jpg)](https://www.blazeapp.net/)
 
-![Screenshot 2024-01-13 at 6_edited.jpg](https://static.wixstatic.com/media/0a8e45_856d84efe5314fdd9ef32716c0c65a55~mv2.jpg/v1/fill/w_127,h_62,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-01-13%20at%206_edited.jpg)
+![Screenshot 2024-01-13 at 6_edited.jpg](https://static.wixstatic.com/media/0a8e45_856d84efe5314fdd9ef32716c0c65a55~mv2.jpg/v1/fill/w_127,h_62,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Screenshot%202024-01-13%20at%206_edited.jpg)
 
 The Flame of Social Media. Powered by WIX.
 
