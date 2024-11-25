@@ -31,6 +31,482 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Daniel Noboa rindió cuentas de su año de gestión en cadena nacional
+===================================================================
+
+El presidente Daniel Noboa emitió una cadena nacional esta noche con una rendición de cuentas por su año de gestión.
+--------------------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa habló de su año de gestión.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-1.jpg)
+
+El presidente **Daniel Noboa** rindió cuentas de su **año de gestión**, este domingo 24 de noviembre de 2024.
+
+Daniel Noboa hizo este anuncio en **cadena nacional** de radio y televisión esta noche.
+
+### Más noticias:
+
+* [Daniel Noboa relacionó las marchas con la campaña electoral](https://www.elcomercio.com/actualidad/politica/daniel-noboa-relaciono-marchas-campana-electoral.html "Daniel Noboa relacionó las marchas con la campaña electoral")
+* [Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito](https://www.elcomercio.com/actualidad/quito/gobierno-de-daniel-noboa-hizo-un-anuncio-sobre-los-cortes-de-luz-y-la-fundacion-de-quito.html "Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito")
+
+Daniel Noboa
+------------
+
+El presidente Daniel Noboa dio su **informe a la nación** de su año de gestión.
+
+En este acto de rendición de cuentas, se refirió a temas de **seguridad, economía, energía, comercio exterior, bienestar social** y otros.
+
+Noboa inició su intervención diciendo que se enfrentó al **pesimismo**, pero decidió lanzarse a la Presidencia y los ecuatorianos honestos le eligieron.
+
+Aseguró que lo más urgente a gestionar era la inseguridad, pues el país estaba hundido en **la delincuencia y el crimen organizado**.
+
+Se declaró la guerra a los **narcoterroristas** y a los políticos corruptos que los asisten.
+
+Se retomó el control de las cárceles con la asistencia de la Fuerza Pública y, con el Plan Fénix, se redujo **homicidios intencionale**s en 18%.
+
+Eliminó la tabla de consumo de drogas, decomisaron 227.6 **toneladas de droga**, inhabilitaron 33 pistas clandestinas, y se construye la Cárcel del Encuentro.
+
+### Economía
+
+El Gobierno promovió la aprobación de **leyes urgentes** como Ley de Eficiencia Económica y Generación de Empleo que se traduce en el programa “Empleo joven”.
+
+La Ley Orgánica de **Competitividad Energética** con tarifa 0% del IVA para gastos de sistemas de energía solar.
+
+La Ley para enfrentar el **Conflicto Armado Interno**, y la Ley para Actividades Turísticas y Fomento del Empleo.
+
+Además, la Ley que permite a los **proyectos privados** generar hasta 100 MW.
+
+Implementaron el programa “**Jóvenes en acción”** para mitigar el cambio climático.
+
+Las **exportaciones no petroleras** se incrementaron en 1 293 millones de dólares y se bajó el riesgo país en mil puntos.
+
+Se consiguió financiamiento internacional por más de 5 200 millones de dólares y **“salvamos la dolarización”**, dijo Juan Carlos Vega, ministro de Economía.
+
+La **reserva monetaria** se incrementó de 4 400 millones en 2023 a 8 600 millones de dólares a octubre de 2024 y se fortaleció el sistema monetario.
+
+Los **depósitos** en el sistema financiero crecieron y se incrementó en 14,2%.
+
+Entregaron el monto más alto de la historia a través de **créditos en la banca pública**, colocaron 5 684 millones en más de 2,5 millones de operaciones.
+
+> En [#UnAñoDeGestión](https://twitter.com/hashtag/UnA%C3%B1oDeGesti%C3%B3n?src=hash&ref_src=twsrc%5Etfw) hemos hecho lo que nadie antes se había atrevido:  
+>   
+> ✅️ Declaramos la guerra a los narcoterroristas y a los políticos corruptos.  
+> ✅️ Trabajamos por todos los ciudadanos.  
+>   
+> ¡Sigamos construyendo juntos [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw)¡ 🇪🇨💪[#ElNuevoEcuadorNoSeDetiene](https://twitter.com/hashtag/ElNuevoEcuadorNoSeDetiene?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YkILtUTJJj](https://t.co/YkILtUTJJj)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 25, 2024](https://twitter.com/Presidencia_Ec/status/1860853408871104539?ref_src=twsrc%5Etfw)
+
+**_Noticia en desarrollo…_**
+
+Cortes de luz en Guayaquil este lunes 25 de noviembre
+=====================================================
+
+Los cortes de luz en Guayaquil este lunes 25 de noviembre son de hasta siete horas para el sector residencial.
+--------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil para este lunes 25 de noviembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-lunes-25-noviembre.jpg)
+
+Los **cortes de luz** en **Guayaquil** este **lunes 25 de noviembre de 2024** se reducen a seis horas no consecutivas para el sector residencial.
+
+La **CNEL** difundió la programación de la suspensión del servicio de energía en la urbe porteña.
+
+### Más noticias:
+
+* [Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito](https://www.elcomercio.com/actualidad/quito/gobierno-de-daniel-noboa-hizo-un-anuncio-sobre-los-cortes-de-luz-y-la-fundacion-de-quito.html "Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito")
+* [Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón](https://www.elcomercio.com/actualidad/negocios/inician-pruebas-mecanicas-en-la-central-alluriquin-parte-del-complejo-hidroelectrico-toachi-pilaton.html "Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón")
+* [CNA alerta sobre adquisición de motores termoeléctricos por parte de Celec](https://www.elcomercio.com/actualidad/negocios/cna-alerta-adquisicion-motores-termoelectricos-celec.html "CNA alerta sobre adquisición de motores termoeléctricos por parte de Celec")
+
+Horarios de los cortes de luz en Guayaquil este lunes 25 de noviembre
+---------------------------------------------------------------------
+
+El Gobierno de **Daniel Noboa** implementó cortes de luz programados desde el pasado 23 de septiembre por la crisis energética.
+
+La generación de energía eléctrica de Ecuador depende en mayor porcentaje de las **lluvias** que incrementan los caudales de los ríos y, a su vez, llenan los embalses de las hidroeléctricas.
+
+La grave **sequía**, la más larga de las últimas décadas, ha provocado que estas centrales hidroeléctricas no puedan funcionar o funcionen a su capacidad mínima.
+
+Según el **Ministerio de Energía**, la reducción a entre seis y siete horas de los cortes de luz responde a la mejora de los caudales que abastecen a las hidroeléctricas.
+
+Como otra solución parcial, el Gobierno de Daniel Noboa consiguió reactivar el intercambio de energía entre **Ecuador y Colombia**.
+
+Además, que emprendió en varios proyectos de **generación termoeléctrica** y otras energías alternativas.
+
+Sin embargo, estos proyectos empezarán a generar energía recién en **2025**.
+
+Entre noviembre y diciembre se desarrollan algunos proceso de **contratación y traslado de equipos**.
+
+Pese a esto, el presidente Daniel Noboa aseguró que los cortes de luz se **terminarán para diciembre** y los ecuatorianos podrán retomar sus actividades con normalidad.
+
+Esto, aunque la Presidencia emitió un comunicado el sábado 23 de noviembre sobre los cortes de luz y las **fiestas de fundación de Quito**.
+
+El Gobierno señaló que el **6 de diciembre** no habrá cortes de luz en la capital, para reactivar el turismo y la economía en esta ciudad.
+
+A continuación, los **cortes de luz en Guayaquil este lunes 25 de noviembre de 2024**:
+
+Cortes de luz en Quito este lunes 25 de noviembre
+=================================================
+
+Los cortes de luz en Quito para este lunes 25 de noviembre son de hasta seis horas para el sector residencial.
+--------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en la capital este lunes 25 de noviembre son programados por la Empresa Eléctrica Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-lunes-25-noviembre.jpg)
+
+Los **cortes de luz** en **Quito** este **lunes 25 de noviembre de 2024** se reducen a seis horas no consecutivas para el sector residencial.
+
+La **Empresa Eléctrica Quito (EEQ)** difundió la programación de la suspensión del servicio de energía en la capital.
+
+### Más noticias:
+
+* [Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito](https://www.elcomercio.com/actualidad/quito/gobierno-de-daniel-noboa-hizo-un-anuncio-sobre-los-cortes-de-luz-y-la-fundacion-de-quito.html "Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito")
+* [Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón](https://www.elcomercio.com/actualidad/negocios/inician-pruebas-mecanicas-en-la-central-alluriquin-parte-del-complejo-hidroelectrico-toachi-pilaton.html "Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón")
+* [CNA alerta sobre adquisición de motores termoeléctricos por parte de Celec](https://www.elcomercio.com/actualidad/negocios/cna-alerta-adquisicion-motores-termoelectricos-celec.html "CNA alerta sobre adquisición de motores termoeléctricos por parte de Celec")
+
+Horarios de los cortes de luz en Quito este lunes 25 de noviembre
+-----------------------------------------------------------------
+
+El Gobierno de **Daniel Noboa** implementó cortes de luz programados desde el pasado 23 de septiembre por la crisis energética.
+
+La generación de energía eléctrica de Ecuador depende en mayor porcentaje de las **lluvias** que incrementan los caudales de los ríos y, a su vez, llenan los embalses de las hidroeléctricas.
+
+La grave **sequía**, la más larga de las últimas décadas, ha provocado que estas centrales hidroeléctricas no puedan funcionar o funcionen a su capacidad mínima.
+
+Según el **Ministerio de Energía**, la reducción a entre seis y siete horas de los cortes de luz responde a la mejora de los caudales que abastecen a las hidroeléctricas.
+
+Como otra solución parcial, el Gobierno de Daniel Noboa consiguió reactivar el intercambio de energía entre **Ecuador y Colombia**.
+
+Además, que emprendió en varios proyectos de **generación termoeléctrica** y otras energías alternativas.
+
+Sin embargo, estos proyectos empezarán a generar energía recién en **2025**.
+
+Entre noviembre y diciembre se desarrollan algunos proceso de **contratación y traslado de equipos**.
+
+Pese a esto, el presidente Daniel Noboa aseguró que los cortes de luz se **terminarán para diciembre** y los ecuatorianos podrán retomar sus actividades con normalidad.
+
+Esto, aunque la Presidencia emitió un comunicado el sábado 23 de noviembre sobre los cortes de luz y las **fiestas de fundación de Quito**.
+
+El Gobierno señaló que el **6 de diciembre** no habrá cortes de luz en la capital, para reactivar el turismo y la economía en esta ciudad.
+
+A continuación, los **cortes de luz en Quito este lunes 25 de noviembre de 2024**:
+
+CNA alerta sobre adquisición de motores termoeléctricos por parte de Celec
+==========================================================================
+
+La CNA investigó los contratos de Celec para la compra de motores termoeléctricos con empresas de Estados Unidos y Alemania.
+----------------------------------------------------------------------------------------------------------------------------
+
+![La CNA investigó la compra de los motores termoeléctricos a empresas de Estados Unidos y Alemania, por parte de Celec.](https://www.elcomercio.com/wp-content/uploads/2024/11/motores-termoelectricos-celec.jpg)
+
+La **Comisión Nacional Anticorrupción (CNA)** alertó sobre la adquisición de **motores termoeléctricos** por parte de la **Corporación Eléctrica de Ecuador (Celec)**.
+
+La CNA pide a los **organismos de control** poner atención a estos procesos de contratación.
+
+### Más noticias:
+
+* [Equipos para nueva central térmica llegan en diciembre ¿Cuándo iniciará operaciones?](https://www.elcomercio.com/actualidad/negocios/equipos-nueva-central-termica-llegan-diciembre-cuando-inicia-operaciones.html "Equipos para nueva central térmica llegan en diciembre ¿Cuándo iniciará operaciones?")
+* [Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón](https://www.elcomercio.com/actualidad/negocios/inician-pruebas-mecanicas-en-la-central-alluriquin-parte-del-complejo-hidroelectrico-toachi-pilaton.html "Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón")
+
+Adquisición de motores termoeléctricos
+--------------------------------------
+
+La adquisición de Celec de motores termoeléctricos puso en **alerta** a la Comisión Nacional Anticorrupción (CNA).
+
+Según esta organización, los contratistas adjudicados que proveerán de **motores termoeléctricos** a Celec no han presentado los certificados de garantía de los fabricantes.
+
+Este es un requisito establecido en los **pliegos contractuales**.
+
+“La adquisición de motores termoeléctricos por parte de Celec ha evidenciado que los **proveedores** no son los más calificados”, señaló la Comisión, en un comunicado.
+
+La CNA aseguró que hay riesgos de incumplimiento de los pliegos contractuales.
+
+Esto, porque los vendedores aún no presentan los **certificados de garantía** de los fabricantes de los motores.
+
+Las empresas involucradas son **EMD de Estados Unidos y MAN de Alemania**, de acuerdo a la investigación de la CNA.
+
+“Ante esta realidad, que atiza el drama de la **carencia de energía eléctrica**, las autoridades  
+deben actuar con firmeza frente a los contratistas adjudicados”, señaló.
+
+La Comisión concluyó el comunicado haciendo un llamado a la **Fiscalía y la Contraloría** a estas a este proceso.
+
+El pasado 20 de noviembre, el **Ministerio de Energía** informó que se encuentran en camino las primeras 23 unidades de generación eléctrica para la nueva central térmica de Salitral en Guayaquil.
+
+Estas primeras unidades, correspondientes a la fase inicial del proyecto, aportarán 80.5 MW de energía, fundamentales para **fortalecer el suministro eléctrico** durante la emergencia energética actual, indicó.
+
+La noticia se dio con la imagen de motores embarcados en un buque, en **Houston, Estados Unidos.**
+
+Un radiodifusor fue asesinado en Ecuador
+========================================
+
+El radiodifusor asesinado en Ecuador iba acompañado por su esposa el momento del asesinato.
+-------------------------------------------------------------------------------------------
+
+![El radiodifusor asesinado en Ecuador entrevistando a un uniformado.](https://www.elcomercio.com/wp-content/uploads/2024/11/radiodifusor-asesinado-ecuador.jpg)
+
+Un **radiodifusor** fue **asesinado** en **Ecuador**, la mañana del sábado 23 de noviembre de 2024.
+
+El crimen se cometió bajo la modalidad de **sicariato** en una de las ciudades más violentas del país.
+
+### Más noticias:
+
+* [Otra guía penitenciaria, asesinada en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/otra-guia-penitenciaria-asesinada-en-guayaquil.html "Otra guía penitenciaria, asesinada en Guayaquil")
+* [En el Día contra la Impunidad de los crímenes a periodistas, familias claman justicia](https://www.elcomercio.com/actualidad/seguridad/dia-contra-impunidad-de-crimenes-a-periodistas-familias-claman-justicia.html "En el Día contra la Impunidad de los crímenes a periodistas, familias claman justicia")
+
+El radiodifusor asesinado en Ecuador
+------------------------------------
+
+Sicarios asesinaron a un radiodifusor en Ecuador este **fin de semana**.
+
+Se trata del **director de noticias del medio digital Radio Cariñosa**, de Daule, **Leonardo Rivas Espinoza**.
+
+El locutor se trasladaba **en su vehículo**, cuando varios sujetos, a bordo de otro vehículo, le interceptaron y dispararon. 
+
+Rivas estaba acompañado de su **esposa**,  quien después del ataque descendió del auto y pidió ayuda a las personas que se encontraban en el lugar.
+
+Los transeúntes intentaron llevarlo a una **casa de salud**, según información preliminar de la Policía.
+
+Sin embargo, el equipo de salud que llegó hasta el lugar confirmó que **Rivas falleció** minutos después del ataque debido a la gravedad de las heridas. 
+
+La **Unidad de Criminalística y Medicina Legal** realizó el levantamiento del cadáver y recolectó indicios. 
+
+El medio digital Radio Cariñosa confirmó el fallecimiento con una **nota de pesar**.
+
+“Te fuiste **amigo** Leonardo Rivas. Dios te reciba en su Reino Celestial y te conceda el descanso eterno. Hasta siempre”, señaló.
+
+El hecho ocurrió en el kilómetro 9 de la **vía a Daule**, a la altura del Fuerte Militar Huancavilca.
+
+La organización **Fundamedios** condenó este hecho violento y exigió a las autoridades una investigación a fondo para dar con los responsables.
+
+Fundamedios también calificó al hecho como un acto que atenta contra la **libertad de expresión y prensa**.
+
+En la vía a Daule se han perpetrado **otros asesinatos** bajo la modalidad de sicariato, entre estos están servidores penitenciarios.
+
+En octubre, la **Fundación Periodistas Sin Cadenas** registró un total de 11 agresiones a comunicadores.
+
+El **Ferrodiario,** un medio **Durán**, cerró en este mes.
+
+Liga de Quito e IDV golearon y la etapa se definirá en la última fecha
+======================================================================
+
+Liga de Quito superó a Católica en un emocionante partido e IDV goleó 7-0 al Macará. Todo se definirá la próxima semana.
+------------------------------------------------------------------------------------------------------------------------
+
+![Álex Arce volvió a marcar a favor de Liga de Quito ante Universidad Católica.](https://www.elcomercio.com/wp-content/uploads/2024/11/ArceLDU.jpg)
+
+Este domingo 24 de noviembre de 2024, **Liga de Quito** e **Independiente del Valle** cumplieron más allá de los pronósticos optimistas. No solo ganaron en sus respectivos partidos. Albos y rayados **golearon.**
+
+El estadio Olímpico Atahualpa de Quito fue el escenario del vibrante enfrentamiento entre Universidad Católica y **Liga de Quito**, en la penúltima fecha de la segunda etapa de la Liga Pro.
+
+El cotejo se jugó en paralelo con el encuentro entre **Independiente del Valle** y **Macará**, en cancha de los negriazules.
+
+En Liga volvió a aparecer su ariete Álex Arce que marcó un triplete para el triunfo 2-4 sobre el ‘Trencito Azul’.
+
+En tanto, IDV humilló 7-0 al **Macará.**
+
+### Más noticias:
+
+* [Max Verstappen iguala a Vettel y Prost en F1 y quiere el récord de Schumacher](https://www.elcomercio.com/deportes/futbol/max-verstappen-campeon-f1-record-schumacher.html "Max Verstappen iguala a Vettel y Prost en F1 y quiere el récord de Schumacher")
+* [(En Vivo) Liga de Portoviejo y Deportivo Quito en el Reales Tamarindos](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-deportivo-quito-clasificado-reales-tamarindos.html "(En Vivo) Liga de Portoviejo y Deportivo Quito en el Reales Tamarindos")
+* [Liga, Deportivo Quito, IDV y otros saltan a la cancha. ¿Quién juega hoy?](https://www.elcomercio.com/deportes/futbol/liga-deportivo-quito-quien-juega-hoy-idv.html "Liga, Deportivo Quito, IDV y otros saltan a la cancha. ¿Quién juega hoy?")
+
+Álex Arce y Liga de Quito
+-------------------------
+
+El paraguayo Álex Arce quiere consolidarse como goleador del torneo y este domingo marcó tres goles a los camarattas. Ya tiene 24 tantos en el torneo.
+
+El ariete guaraní abrió la cuenta a los 9 y luego anotó a los 32. En medio, Piovi marcó su gol a los 26 minutos.
+
+Más adelante, Arce volvió a marcar a los 46 minutos.
+
+Católica supo maquillar el resultado al descontar a los 85 y 90 más 2 gracias a Byron Palacios y Luciano Nieto.
+
+El golero Alexander Domínguez se fue expulsado a los 90 más 1 en LDU.
+
+Con ese resultado, Liga de Quito llegó a 29 puntos y espera ganar la etapa la próxima semana en la fecha final. Eso sí, Liga dependerá de la resolución en la que espera que se le devuelvan tres puntos.
+
+De momento, la ‘U’ tiene los mismos 29 puntos que IDV que tiene más goles anotados.
+
+Independiente del Valle humilló al Macará.
+------------------------------------------
+
+Por su parte, Independiente del Valle goleó 7-0 al Macará con tantos de Cristian Zabala (2), Jeison Medina, Renato Ibarra (2), Joao Ortiz y Keny Arroyo.
+
+Seis de los siete goles llegaron en el primer tiempo y el séptimo a los 87′, de penal, anotado por Arroyo.
+
+**Independiente del Valle** es primero a falta de una fecha.
+
+Liga de Quito e IDV
+-------------------
+
+La necesidad de ganar era urgente para ambos clubes, ya que solo los dos tienen opciones de alzar el título de la temporada 2024.
+
+Si **IDV** mantiene su liderazgo en esta segunda etapa, se coronará campeón de manera directa, mientras que si los universitarios logran quedarse con la fase, se forzará una definición mediante partidos adicionales para decidir al campeón.
+
+En la próxima fecha, Liga cerrará de local ante Deportivo Cuenca y el Orense será local ante IDV.
+
+Liga y la sanción
+-----------------
+
+**Liga de Quito**, sin embargo, enfrenta un obstáculo adicional. Recientemente, la Federación Ecuatoriana de Fútbol (FEF) sancionó al equipo con la pérdida de tres puntos por incumplimientos económicos en el plazo establecido por la Liga Pro.
+
+Esta sanción redujo el puntaje de los albos de 29 a 26, lo que los dejó fuera del liderato. A pesar de esta decisión, la dirigencia del club mantiene la esperanza de que la apelación que se encuentra en curso revierta esta sanción.
+
+En rueda de prensa previa al partido, el entrenador **Pablo ‘Vitamina’ Sánchez** y el capitán **Ezequiel Piovi** expresaron su confianza en que el recurso será favorable. “Tenemos tranquilidad porque hay una apelación en curso. Mantenemos buenas expectativas”, aseguró Sánchez.
+
+Los resultados de la fecha 14 de Liga pro
+
+La reforestación de Quito arranca con la siembra de 20 000 plantas nativas
+==========================================================================
+
+La siembra de plantas nativas se realizará en zonas afectadas por los incendios.
+--------------------------------------------------------------------------------
+
+![Plantación de árboles en el sector del Panecillo, una zona afectada por los incendios. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-61.jpg)
+
+Con la siembra de 20 mil árboles nativos se arrancó la reforestación de Quito en cerca de 2 000 hectáreas afectadas por los incendios forestales. La iniciativa comenzó en el Panecillo, en el Centro Histórico.
+
+Más noticias
+------------
+
+* [El destino de cuatro oseznos es incierto tras los incendios forestales en el cantón Cuenca](https://www.elcomercio.com/tendencias/ambiente/incendios-forestales-cuenca-osos-rastro-fauna-flora.html "El destino de cuatro oseznos es incierto tras los incendios forestales en el cantón Cuenca")
+* [Gobierno Nacional gestionará créditos internacionales para incendios forestales](https://www.elcomercio.com/actualidad/ecuador/gobierno-nacional-gestionara-creditos-internacionales-para-incendios-forestales.html "Gobierno Nacional gestionará créditos internacionales para incendios forestales")
+
+En la jornada denominada Quito, más verde que nunca, voluntarios y autoridades locales sembraron plantas nativas, como pusupato, cholán, pumamaqui. También nogal, aliso, guaba, arrayán y yalomán.
+
+Estas especies contribuyen a fortalecer los ecosistemas locales, mejoran la calidad del suelo. Además regulan la temperatura, atraen fauna nativa y ayudan a mitigar los efectos del cambio climático.
+
+La campaña de reforestación se realizará en diciembre y se extenderá hasta el próximo año.
+
+El sector privado también se adhiere a esta obra, a través de un fideicomiso para plantar más árboles. A esto se suma la estrategia de protección de fuentes de agua y cuerpos hídricos.
+
+**Siembra en las zonas** afectadas por incendios
+------------------------------------------------
+
+El secretario de [Ambiente del Municipio](https://ambiente.quito.gob.ec/ "https://ambiente.quito.gob.ec/"), Santiago Sandoval, señaló que en el Panecillo se colocaron mil plantas de especies nativas, rastreras y arboladas.
+
+“Iniciamos con la restauración de los lugares afectados por los incendios. Pero nos extendemos a todo el cinturón verde de todo el distrito”, enfatizó a la agencia EFE.
+
+Este fin de semana se sembrarán 20 mil árboles, pero la proyección es plantar miles más durante la administración actual.
+
+**5 600 voluntarios** para la reforestación de Quito
+----------------------------------------------------
+
+Según la Secretaría de Ambiente se contará con 5 600 voluntarios para participar en la llamada ‘Minga (trabajo comunitario) de la quiteñidad’.
+
+Carmen Barros, directora fundación Sol de Primavera, indicó que sembrar un árbol es “sembrar paz”.
+
+Barros, que llegó a la zona del Panecillo con jóvenes de más de 34 barrios de Quito, anotó que pese al dolor que le significa ver la zona quemada, cree que sobre esas cenizas “va a renacer vida” con los árboles sembrados hoy, algunos de los cuales han bautizado con el nombre de los voluntarios, mientras a otros los han llamado ‘amor’, ‘ternura’ y ‘esperanza’.
+
+Aclaró que no se limitarán a sembrar sino que los cuidarán posteriormente, para lo que se organizarán con los “mínimos” recursos que tienen.
+
+Quito enfrenta una crisis ambiental por una de las sequías más severas de los últimos 60 años. Esto se exacerbó por la frecuencia e intensidad de los incendios forestales.
+
+Para 2024 se reportaron cerca de 2 000 hectáreas afectadas, en el herbazal de páramo y el bosque seco.
+
+Liga de Portoviejo eliminó a Deportivo Quito en el Reales Tamarindos
+====================================================================
+
+Deportivo Quito fue visitante en el Reales Tamarindos ante Liga de Portoviejo que superó por 3-0 en el marcador global.
+-----------------------------------------------------------------------------------------------------------------------
+
+![El equipo del Deportivo Quito en el estadio Reales Tamarindos donde jugará ante Liga de Portoviejo en el Nacional de Ascenso.](https://www.elcomercio.com/wp-content/uploads/2024/11/deportivoquito.jpg)
+
+**Liga de Portoviejo derrotó 2-0 a Deportivo Quito** y se clasificó a las semifinales del Nacional de Ascenso.
+
+Este 24 de noviembre del 2024, el equipo azulgrana visitó a **Liga de Portoviejo** en el estadio **Reales Tamarindos**, donde no logró remontar la derrota sufrida por 1-0 en el partido de ida.
+
+Así, la ‘Capira’ consiguió un marcador global de 3-0 para alegría a los miles de hinchas que llegaron al estadio para alentar al popular equipo manabita.
+
+El rival de Liga de Portoviejo en semifinales será el 22 de Julio de Esmeraldas.
+
+### Más noticias:
+
+* [Liga, Deportivo Quito, IDV y otros saltan a la cancha. ¿Quién juega hoy?](https://www.elcomercio.com/deportes/futbol/liga-deportivo-quito-quien-juega-hoy-idv.html "Liga, Deportivo Quito, IDV y otros saltan a la cancha. ¿Quién juega hoy?")
+* [Deportivo Quito y los dos corazones de sus hinchas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-hinchas-dos-corazones-futbol.html "Deportivo Quito y los dos corazones de sus hinchas")
+* [Deportivo Quito recibe respaldo de hinchas antes de viajar a Portoviejo](https://www.elcomercio.com/deportes/futbol/hinchas-deportivo-quito-jugadores-liga-portoviejo.html "Deportivo Quito recibe respaldo de hinchas antes de viajar a Portoviejo")
+
+Deportivo Quito no logró remontar
+---------------------------------
+
+En términos generales, Deportivo Quito realizó un mejor partido que LDU de Portoviejo este 24 de noviembre del 2024. Sin embargo, el elenco local tuvo la virtud de aprovechar sus oportunidades de gol y llevarse una tremenda victoria que los coloca a solo dos partidos de llegar a la Serie B.
+
+La ‘Capira’ jugará ante el 22 de Julio y el ganador de esa llave llegará a la Serie B.
+
+La otra llave de semifinales la definirán Vinotinto y Unión.
+
+Los dos finalistas del Nacional de Ascenso jugarán en Serie B en el 2025.
+
+0-1 en la ida
+-------------
+
+Con el gol de Jackson Landazury a los 55 minutos, la Liga de Portoviejo se impuso en la ida a Deportivo Quito en el estadio Gonzalo Pozo Ripalda.
+
+A pesar de haber dominado la posesión del balón en los dos encuentros, el conjunto dirigido por Carlos Castro no logró concretar sus ocasiones y se vio superado por un sólido sistema defensivo de Liga de Portoviejo.
+
+En la capital manabita sus miles de hinchas se ilusionan con retornar a la Serie B de la Liga Pro en Ecuador.
+
+Liga de Portoviejo vs. Deportivo Quito
+--------------------------------------
+
+El partido de vuelta se jugó desde las 15:00 y fue una verdadera prueba de carácter para ambos equipos.
+
+Con estadio lleno, un un puñado bullicioso de unos 400 hinchas de la ‘Academia’, el partido se realizó con la conducción del árbitro Augusto Aragón.
+
+La consigna de los jugadores del Deportivo Quito fue clara: “prohibido rendirse”. A pesar de la desventaja, la directiva y el cuerpo técnico mantenían la esperanza.
+
+Los hinchas del elenco chulla también mantienen la fe en sus jugadores y apelaron a la famosa frase que dice tener dos corazones: uno para vivir y otro para sufrir.
+
+Deportivo Quito deberá esperar al 2025 para intentar volver a la Serie B. El Quito perdió la categoría de la Serie en el 2015.
+
+¿Quién es Mayra Salazar?
+========================
+
+Mayra Salazar fue reubicad desde Cotopaxi a la cárcel de Ambato
+---------------------------------------------------------------
+
+![Mayra Salazar está procesada en el caso Metástasis.](https://www.elcomercio.com/wp-content/uploads/2024/05/Mayra-Salazar.jpg)
+
+**Mayra Salazar** es una pieza clave de procesos, en los que la **Fiscalía** formuló cargos en contra de funcionarios públicos y operadores de justicia. Estaba recluida en la cárcel de Latacunga (Cotopaxi), desde diciembre de 2023. Pero la madrugada de este domingo 24 de noviembre de 2024 se la trasladó a la cárcel de Ambato en un tanqueta militar.
+
+Salazar es una comunicadora de 35 años, guayaquileña, que fungió como relacionadora pública en la Corte Provincial de Justicia de Guayas.
+
+### Más noticias:
+
+* [Caso Metástasis, procesados mencionan supuesto incumplimiento de derechos](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-procesados-mencionan-supuestos-incumplimientos-derechos.html "Caso Metástasis, procesados mencionan supuesto incumplimiento de derechos")
+* [Fiscalía solicitó estas condenas para 21 vinculados en el caso Metástasis](https://www.elcomercio.com/actualidad/politica/fiscalia-solicito-condenas-21-vinculados-caso-metastasis.html "Fiscalía solicitó estas condenas para 21 vinculados en el caso Metástasis")
+
+Es tecnóloga, licenciada y magíster en comunicación[.](https://es.wikipedia.org/wiki/Caso_Met%C3%A1stasis) Actualmente, Salazar está en prisión y se encuentra ingresada en el Sistema de Protección de Víctimas y Testigos, en calidad de testigo.
+
+El 13 de diciembre de 2023 se realizó su detección.
+
+Mayra Salazar está procesada en el caso Metástasis
+--------------------------------------------------
+
+Mayra Salazar es una de las procesadas en el caso Metástasis, en el que se investiga el presunto delito de delincuencia organizada, penado con diez años de privación de la libertad.
+
+Salazar se identifica como parte del caso Metásisis como la funcionaria judicial de Guayas que mantenía contacto directo con Leandro Norero.
+
+Su papel de colaboración lo habría efectuado desde el ámbito administrativo, “armando escenarios idóneos que podrían favorecer los fines de impunidad y libertad que pretendía la organización criminal, como identificar jueces dispuestos a recibir dinero o dádivas indebidas a cambio de emitir sus fallos”, según indica la Fiscalía General del Estado.
+
+Los **chats** que liberó Fiscalía del celular de Salazar revelaron todas las conexiones que ella tenía en el área judicial y los fines de las mismas.
+
+Por su colaboración eficaz en este proceso judicial recibió una sentencia de 15 meses de cárcel.
+
+Mayra Salazar es mencionada en el caso Purga
+--------------------------------------------
+
+Aunque no es procesada, Mayra Salazar es pieza clave en el caso Purga y es mencionada en esta trama de corrupción, en la que también la Fiscalía General del Estado persigue el delito de delincuencia organizada.
+
+Según Fiscalía, el exasambleísta del PSC, **Pablo Muentes** habría contratado a Mayra Salazar, por pedido de Fabiola Gallardo, expresidenta de la Corte de Justicia de Guayas, para trabajar comunicacionalmente con miras a ganar las elecciones de la presidencia de esa Corte.
+
+Sus honorarios se habrían pactado en el domicilio de Muentes por 2.500 dólares mensuales y en efectivo.
+
+Fiscalía identifica a Salazar como la mano ejecutora de Gallardo, que habría tenido el objetivo de instrumentalizar una “dinámica criminal” en la Corte, para controlar las acciones judiciales y administrativas e intervenir en decisiones judiciales.
+
+Salazar rindió su **testimonio anticipado** el 28 de marzo de 2024. Dio nombres de personas vinculadas a la **corrupción** en la Justicia. En su relato acusó al exasambleísta Pablo Muentes de traficar tierras y dijo que “**manejaba la mayoría de vocales del Consejo de la Judicatura**“.
+
+También apuntó a la actriz guayaquileña **Carolina Jaume** como quien le habría entregado una agenda con el registro de los operadores del prófugo de la justicia **Xavier Jordán.**
+
+Muentes, también detenido y trasladado a La Roca, desmintió las declaraciones de Salazar a través de un comunicado.
+
 Dos de los cuatro conductores afectados por el incendio de la Simón Bolívar tienen quemaduras
 =============================================================================================
 
@@ -136,37 +612,6 @@ El excongresista por **Georgia Doug Collins** fue nominado como secretario de As
 El gabinete lo completan **el antivacunas Robert F. Kennedy** Jr. al frente de Sanidad y el expresentador de la Fox investigado en el pasado por abuso sexual Pete Hegseth, en Defensa.
 
 Todos los nominados deberán se confirmados por el **Senado de EE.UU.,** que desde enero del 2025 será dominado por los [republicanos.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
-
-Liga de Portoviejo y Deportivo Quito juegan en el Reales Tamarindos
-===================================================================
-
-Deportivo Quito es visitante en el Reales Tamarindos ante Liga de Portoviejo que llega con la ventaja del 0-1 en la ida.
-------------------------------------------------------------------------------------------------------------------------
-
-![El equipo del Deportivo Quito en el estadio Reales Tamarindos donde jugará ante Liga de Portoviejo en el Nacional de Ascenso.](https://www.elcomercio.com/wp-content/uploads/2024/11/deportivoquito.jpg)
-
-**Deportivo Quito** se alista para la revancha que definirá su futuro en el Nacional de Ascenso. Este 24 de noviembre del 2024, el equipo capitalino visita a **Liga de Portoviejo** en el estadio **Reales Tamarindos**, donde intentará remontar la derrota sufrida por 1-0 en el partido de ida.
-
-Con gran ambiente en el estadio manabita, la ‘Capira’ y la ‘Academia’ buscan llegar a las semifinales del Nacional de Ascenso. El cotejo empieza a las 15:00.
-
-### Más noticias:
-
-* [Liga, Deportivo Quito, IDV y otros saltan a la cancha. ¿Quién juega hoy?](https://www.elcomercio.com/deportes/futbol/liga-deportivo-quito-quien-juega-hoy-idv.html "Liga, Deportivo Quito, IDV y otros saltan a la cancha. ¿Quién juega hoy?")
-* [Deportivo Quito y los dos corazones de sus hinchas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-hinchas-dos-corazones-futbol.html "Deportivo Quito y los dos corazones de sus hinchas")
-* [Deportivo Quito recibe respaldo de hinchas antes de viajar a Portoviejo](https://www.elcomercio.com/deportes/futbol/hinchas-deportivo-quito-jugadores-liga-portoviejo.html "Deportivo Quito recibe respaldo de hinchas antes de viajar a Portoviejo")
-
-Con el gol de Jackson Landazury a los 55 minutos del primer encuentro como único tanto en la serie, Deportivo Quito deberá esforzarse al máximo para avanzar a las semifinales.
-
-A pesar de haber dominado la posesión del balón en el primer encuentro, el conjunto dirigido por Carlos Castro no logró concretar sus ocasiones y se vio superado por un sólido sistema defensivo de Liga de Portoviejo.
-
-Liga de Portoviejo vs. Deportivo Quito
---------------------------------------
-
-El partido de vuelta, que se jugará a las 15:00, promete ser una verdadera prueba de carácter para el **Deportivo Quito**. La consigna de los jugadores es clara: “prohibido rendirse”. A pesar de la desventaja, la directiva y el cuerpo técnico mantienen la esperanza de que, con un buen planteamiento, el equipo pueda revertir la situación.
-
-Los hinchas del elenco chulla también mantienen la fe en sus jugadores, apelando a la famosa frase que dice tener “dos corazones”: uno para vivir y otro para sufrir. La afición está convencida de que el equipo luchará hasta el último minuto por lograr la clasificación, y se espera una gran presencia de seguidores en el **Reales Tamarindos.**
-
-Por su parte, **Liga de Portoviejo**, con el gol de ventaja, saldrá al campo buscando asegurar su clasificación ante su público. La serie sigue abierta y todo puede suceder en los 90 minutos restantes. Deportivo Quito tiene una última oportunidad para cambiar el rumbo y mantener vivas sus aspiraciones de ascenso.
 
 Lo que se sabe del asalto en centro comercial de Quito
 ======================================================
@@ -615,331 +1060,3 @@ La Epmmop asegura que la r**uta del carril exclusivo se habilitará por completo
 > Más cierres viales aquí➡️ [https://t.co/4l4Tpl5xqh](https://t.co/4l4Tpl5xqh)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ahEJZzYwxx](https://t.co/ahEJZzYwxx)
 > 
 > — Obras Quito (@ObrasQuito) [November 23, 2024](https://twitter.com/ObrasQuito/status/1860415947430826140?ref_src=twsrc%5Etfw)
-
-Así fue el programa de las primeras fiestas de Quito, en 1959
-=============================================================
-
-Las primeras fiestas de Quito, tal como las conocemos ahora, se realizaron en 1959. Aunque la idea de conmemorar la fundación española ocurrió en 1934, en 1959 tuvo el matiz de una celebración musical y popular. El Concejo Municipal elaboró el programa de las primeras fiestas, pero también fue importante la participación de ÚLTIMAS NOTICIAS, \[…\]
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Este es el membrete del 27 de noviembre de 1959, con el programa elaborado por la Comisión de Fiestas del Municipio de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-81.jpg)
-
-Las **primeras fiestas de Quito**, tal como las conocemos ahora, se realizaron en **1959**. Aunque la idea de conmemorar la fundación española ocurrió en 1934, en 1959 **tuvo el matiz de una celebración musical y popular.** El Concejo Municipal elaboró el programa de las primeras fiestas, pero también fue importante la participación de ÚLTIMAS NOTICIAS, el diario de la tarde que publicaba esta casa editorial.
-
-### Más noticias
-
-* [Pregón de fiestas de Quito se desarrolla en la Plaza de San Francisco](https://www.elcomercio.com/uncategorized/pregon-fiestas-quito-plaza-san-francisco.html "Pregón de fiestas de Quito se desarrolla en la Plaza de San Francisco")
-* [Dos negocios de escaneo de iris fueron clausurados en Quito](https://www.elcomercio.com/actualidad/quito/negocios-escaneo-iris-clausura-quito.html "Dos negocios de escaneo de iris fueron clausurados en Quito")
-* [Está listo el programa por las fiestas de Quito del 2024](https://www.elcomercio.com/actualidad/programa-fiestas-quito-2024.html "Está listo el programa por las fiestas de Quito del 2024")
-
-Entre la obra pública y los festejos a Quito
---------------------------------------------
-
-Para la realización del primer programa de las **fiestas de Quito,** se debió tomar en cuenta la obra pública. Esa fue la sugerencia que tuvieron los concejales de la entonces alcaldía de **Carlos Andrade Marín**, que dejaba su cargo el 1 de diciembre de 1959.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-80-1-1024x683.jpg)
-
-Como se ve en la imagen, la **obra pública** era de vital importancia para la época y había que destacarlo. Quito estaba viviendo un momento de **modernización** importante. Se estaba construyendo el **Hotel Quito**, la **residencia universitaria**, el **aeropuerto Mariscal Sucre**, la sede del **Instituto Ecuatoriano de Seguridad Social**, y una importante obra de vialidad.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-82-1024x683.jpg)
-
-Parte de la portada de la edición del sábado 5 de diciembre de 1959 de ÚLTIMAS NOTICIAS, que no circulaba en domingo. Da cuenta del espíritu modernizador que había en Quito.
-
-Un tiempo de estabilidad democrática
-------------------------------------
-
-Para 1959 aún se vivía una etapa de **estabilidad democrática,** que comenzó en 1948 y finalizó en 1960. El país tuvo tres gobiernos que terminaron sus cuatro años de mandato, como establecía la Constitución (**Galo Plaza, José María Velasco Ibarra y Camilo Ponce Enríquez**). Y todo se debía a la bonanza que ofrecía la exportación de **banano**.
-
-Duraría poco, porque en 1960, fue electo Velasco Ibarra, quien fue derrocado al año siguiente.
-
-Además, en Quito y todo el país se vivía aún un profundo dolor. Aún estaba abierta la herida que dejó la invasión a Perú de 1941 y la firma del **Protocolo de Río de Janeiro**, en 1942.
-
-El rol de ÚLTIMAS NOTICIAS en las fiestas de Quito
---------------------------------------------------
-
-**ÚLTIMAS NOTICIAS** fue el periódico de la capital. Y, por lo tanto, fue uno de los grandes impulsores de las Fiestas de Quito. Tal como lo ha hecho, el programa municipal se programó, en su totalidad, en la edición del miércoles 2 de diciembre de 1959. Los eventos duraron hasta el miércoles 9, con la “entrega de Acuerdos y estímulos económicos para los empleados municipales que hayan cumplido 25 años de labor ininterrumpida en el Concejo”[.](https://es.wikipedia.org/wiki/INAMHI "https://es.wikipedia.org/wiki/INAMHI")
-
-Así fueron las primeras Fiestas de Quito
-----------------------------------------
-
-Desde el 2 de diciembre hubo **funciones de cine** en el barrio Pambachupa, en La Vicentina, en la Estación de Ferrocarrilles del Sur, en la Plazoleta de San Diego.
-
-Por las noches, hubo las **retretas** de la **Banda Municipal** en la Plaza Sucre (Santo Domingo), en la avenida 24 de mayo, en el parque Matovelle.
-
-En la noche de 5 de diciembre, en el Coliseo de los Deportes, se proclamó y coronó a la **primera Reina de Quito: Pepita Sánchez Acosta.**
-
-El domingo, a las 08:00 se izó la bandera Nacional en todos los edificios públicos y se ordenó el embanderamiento general de la ciudad. Y todas las radios debían iniciar su programación con el Himno Nacional.
-
-También hubo **competencias deportivas**, de atletismo, hípica, ciclismo. Y la infaltable serenata quiteña, que se realizó en barrios como La Tola, San Juan, La Carolina y La Floresta, en la madrugada del 6 de diciembre, que Últimas publicó en su edición del lunes 7 de diciembre de 1959.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-83-1024x683.jpg)
-
-No hubo feria taurina
----------------------
-
-La **Plaza de Toros Iñaquito**, en 1959, estaba en construcción. Para aquel entonces, era la Plaza **Las Arenas** la más importante, pero se encontraba ya casi en ruinas. Los cronistas taurinos de la época también decían que las corridas habían entrado en una fase de decadencia y se anunciaba su demolición.
-
-Al año siguiente, en 1960, se inauguró el “coso de Iñaquito”. Hubo una primera feria en marzo, pero se estableció que la feria principal, al que llamarían luego **Jesús del Gran Poder,** sería en diciembre y de carácter anual.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-84-1024x683.jpg)
-
-¿A qué hora es el partido entre Liga de Quito y U. Católica?
-============================================================
-
-Liga de Quito se medirá contra la Universidad Católica en un partido que deberá ganar para mantener opciones de imponerse en la etapa.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Alex Arce, goleador de Liga de Quito. LDU visita a Universidad Católica el 24 de noviembre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/liga.jpg)
-
-**Liga de Quito** se prepara para un partido clave este domingo 24 de noviembre del 2024, enfrentando a Universidad Católica en la penúltima jornada de la segunda etapa de la Liga Pro.
-
-Este encuentro será fundamental para mantener vivas sus aspiraciones de alcanzar la final del campeonato ecuatoriano.
-
-### Más noticias:
-
-* [Gustavo Costas y la alegría tras el sufrimiento en Racing Club](https://www.elcomercio.com/deportes/futbol/gustavo-costas-alegria-sufrimiento-racing-club.html "Gustavo Costas y la alegría tras el sufrimiento en Racing Club")
-* [Libertad, Imbabura y Cumbayá aún luchan por evitar el descenso](https://www.elcomercio.com/deportes/futbol/descenso-cumbaya-imbabura-libertad-ligapro-cuenca.html "Libertad, Imbabura y Cumbayá aún luchan por evitar el descenso")
-* [Barcelona SC ve esfumarse sus opciones tras empate con Técnico Universitario](https://www.elcomercio.com/deportes/futbol/barcelonasc-tecnico-universitario-partido-resultado-ambato.html "Barcelona SC ve esfumarse sus opciones tras empate con Técnico Universitario")
-
-El equipo dirigido por Pablo ‘Vitamina’ Sánchez llega al compromiso con 26 puntos, los mismos que Independiente del Valle, quien lidera la etapa por mejor diferencia de goles.
-
-Ambos equipos se encuentran en una lucha cerrada por el primer lugar, por lo que cada uno sabe que no puede dejar escapar puntos en esta recta final. En ese contexto, el partido contra la ‘Chatoleí’ adquiere una importancia especial, ya que un triunfo acercaría aún más a los albos a la posibilidad de retener su título de campeón.
-
-¿A qué hora juega Liga de Quito?
---------------------------------
-
-El enfrentamiento entre Liga de Quito y Universidad Católica se llevará a cabo a las 15:30 en el Estadio Olímpico Atahualpa, coincidiendo con el encuentro entre Independiente del Valle y Macará, en un horario unificado.
-
-Este horario es crucial, ya que tanto albos como rayados luchan por la punta de la tabla y cualquier tropiezo de su rival podría ser determinante.
-
-En cuanto al historial de enfrentamientos, Liga de Quito ha dominado la rivalidad con Universidad Católica, sumando 53 victorias, por solo 30 de la **‘Chatoleí’**.
-
-Además, los albos llegan con una racha invicta en los últimos tres partidos contra el equipo capitalino, lo que les da un ligero favoritismo para este duelo.
-
-Liga y su apelación de puntos
------------------------------
-
-Sin embargo, el partido no solo se juega en el campo, sino también fuera de él, ya que la directiva de Liga mantiene viva una apelación para recuperar los tres puntos que le fueron restados por una sanción de la FEF.
-
-En la rueda de prensa previa al partido, el entrenador Pablo Sánchez mostró confianza en que el fallo final favorezca a su equipo.
-
-Este domingo, la hinchada de la ‘U’ espera ver a su equipo salir victorioso, con la esperanza de que sus aspiraciones por el título sigan intactas.
-
-Celebra el Día del Vino Tinto con sabor y estilo 
-=================================================
-
-El 24 de noviembre celebramos el Día del Vino Tinto. A continuación, su origen y consejos de maridaje.
-------------------------------------------------------------------------------------------------------
-
-![El vino tinto, una tradición milenaria de celebración. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Dia-Vino-Tinto.jpg)
-
-Cada 24 de noviembre se conmemora el **Día Mundial del Vino Tinto**. La celebración destaca la **importancia cultural y social** de esta bebida en todo el mundo. Aunque no se conoce la **fecha exacta** de su creación, se estableció en la década de 2000 y ha crecido en popularidad rápidamente, según [Vinícola de Castilla](https://vinicoladecastilla.com/historia-dia-mundial-del-vino-tinto-origenes-y-evolucion/ "https://vinicoladecastilla.com/historia-dia-mundial-del-vino-tinto-origenes-y-evolucion/").  
-
-### Más noticias
-
-* [En Francia serán subastadas tres botellas de vino de 1774](https://www.elcomercio.com/tendencias/curiosidades/francia-subastadas-botellas-vino-antiguo.html "https://www.elcomercio.com/tendencias/curiosidades/francia-subastadas-botellas-vino-antiguo.html")
-* [La hierba para desintoxicar y limpiar el hígado de forma natural](https://www.elcomercio.com/tendencias/salud/hierba-desintoxica-limpia-higado-natural.html "https://www.elcomercio.com/tendencias/salud/hierba-desintoxica-limpia-higado-natural.html")
-
-Esta fecha fue elegida porque **coincide con el final de la vendimia** en muchas regiones vinícolas, un momento clave para los **viticultores** que celebran la cosecha y se preparan para el proceso de vinificación, siguiendo con la misma fuente.  
-
-**Historia del vino** 
-----------------------
-
-El vino tinto tiene una **historia rica** que se remonta a más de 8 000 años. Las primeras evidencias de su existencia datan del año 5 400 a.C., encontradas en regiones que hoy corresponden a **Georgia y Armenia**, a decir de la web [Ibéricos Valenzuela](https://ibericosvalenzuela.com/dia-mundial-del-vino-tinto-conoce-su-origen/ "https://ibericosvalenzuela.com/dia-mundial-del-vino-tinto-conoce-su-origen/").  
-
-En estas áreas, se descubrió **la bodega más antigua** conocida, que data aproximadamente del 6 100 a.C. Desde entonces, el vino ha sido un **símbolo de lujo** y celebración en diversas culturas, que incluye la egipcia y la griega, a decir de la misma fuente.  
-
-A lo largo de los siglos, el **vino tinto** ha mantenido su relevancia. En **Europa medieval**, se convirtió en un elemento esencial en las **celebraciones religiosas y banquetes**. Su uso se extendió a **América** con la **colonización europea**, donde se adaptaron técnicas de vinificación locales, según [Marca](https://www.marca.com/bienestar/alimentacion/2023/11/24/655b4d1de2704eaa4a8b45b3.html "https://www.marca.com/bienestar/alimentacion/2023/11/24/655b4d1de2704eaa4a8b45b3.html").  
-
-**Importancia cultural y gastronómica** 
-----------------------------------------
-
-El **vino tinto** no solo es una bebida; es parte integral de numerosas **tradiciones culinarias**. Su versatilidad permite que acompañe una amplia variedad de platos, desde carnes rojas hasta quesos curados. En la **gastronomía internacional**, el vino tinto es valorado por su capacidad para realzar sabores y aromas 
-
-Además, el **vino tinto** ofrece beneficios para la salud cuando se consume con moderación. Se ha demostrado que puede r**educir el riesgo de enfermedades cardíacas**, disminuir el colesterol y contribuir al bienestar mental gracias a compuestos como el resveratrol, a decir de [El Generacional](https://elgeneracionalpost.com/cultura/2023/1124/117217/el-dia-mundial-del-vino-tinto.html "https://elgeneracionalpost.com/cultura/2023/1124/117217/el-dia-mundial-del-vino-tinto.html").  
-
-Estos beneficios han sido respaldados por estudios realizados por instituciones como la **Universidad de Barcelona y la Escuela Médica de Harvard**. 
-
-**Consejos para maridaje** 
----------------------------
-
-Para disfrutar plenamente del vino tinto durante su día especial, aquí hay algunos **consejos de maridaje**: 
-
-**Carnes rojas:** Un **Cabernet Sauvignon** o un **Malbec** son ideales para acompañar cortes de carne como el filete o cordero. 
-
-**Quesos curados:** Los vinos tintos como el **Tempranillo** combinan perfectamente con quesos curados como el manchego. 
-
-**Platos Picantes:** Un **Zinfandel** puede equilibrar los sabores picantes de platos asiáticos o mexicanos. 
-
-**Chocolate:** Un vino dulce como un **Porto** complementa maravillosamente los postres a base de chocolate. 
-
-De acuerdo con **Andrea Santander**, docente Escuela de Gastronomía de la UIDE, **el disfrute del vino es subjetivo** y depende de varios factores como la ocasión, el clima y el tipo de comida.  
-
-Se pueden seguir algunos **consejos básicos para maridar**. Por ejemplo, elegir vinos tintos con carnes rojas o postres de chocolate negro, y vinos blancos o espumosos con chocolate blanco.  
-
-También es importante **considerar el terruño**, ya que un vino de una región puede combinar mejor con la **comida local**, como un vino argentino con carne. Sin embargo, lo más importante es **probar y experimentar**, y tener en cuenta factores como el almacenamiento, las copas y la temperatura para disfrutar al máximo la bebida.  
-
-2,7 millones de uruguayos van a las urnas para elegir a la nueva dupla presidencial
-===================================================================================
-
-Hay 7 225 centros de votación habilitados en Uruguay. El voto es obligatorio.
------------------------------------------------------------------------------
-
-![El exmandatario José Mujica tras votar en un colegio electoral, ubicado en el Barrio Cerro de Montevideo, este domingo. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/f1b2338307eb72d13647b4a9873425e1e9c0da8e.jpg)
-
-Los 7 225 centros de votación habilitados para la segunda vuelta de las elecciones presidenciales se encuentran abiertos, desde las 8:00, hora local.
-
-Más noticias
-------------
-
-* [Los candidatos presidenciales uruguayos se comprometieron a no subir impuestos](https://www.elcomercio.com/actualidad/mundo/candidatos-presidenciales-uruguayos-comprometieron-subir-impuestos.html "Los candidatos presidenciales uruguayos se comprometieron a no subir impuestos")
-* [¿Cómo se manejan los cuidados paliativos en Chile y Uruguay? Lecciones para Ecuador](https://www.elcomercio.com/tendencias/salud/como-se-manejan-los-cuidados-paliativos-en-chile-y-uruguay-lecciones-para-ecuador.html "¿Cómo se manejan los cuidados paliativos en Chile y Uruguay? Lecciones para Ecuador")
-
-El voto es obligatorio -tal como lo marca la Constitución Nacional- y quien no vote será multado, de acuerdo con las normas uruguayas.
-
-Los 2 727 120 ciudadanos habilitados para votar elegirán entre dos fórmulas: la del oficialismo (Álvaro Delgado y Valeria Ripoll) y de la oposición (Yamandú Orsi y Carolina Cosse).
-
-Para convertirse en el sucesor de Luis Lacalle Pou, al candidato ganador le bastará con obtener una mayoría simple. El ganador gobernará Uruguay entre el 1 de marzo de 2025 y el 1 de marzo de 2030.
-
-Horario en que candidatos y exmandatarios acudirán a las urnas
---------------------------------------------------------------
-
-Se espera que Orsi -candidato por el Frente Amplio- acuda a votar a las 10:30 a un centro de estudios, en el departamento (provincia) de Canelones. Ahí el candidato fue intendente entre 2015 y 2024.
-
-Delgado -del oficialista Partido Nacional- lo hará a las 12:00, en el Club Banco República, ubicado sobre la rambla de Montevideo.
-
-A la misma hora lo hará el expresidente Julio María Sanguinetti en un colegio del centro de la capital. El exmandatario José Mujica será de los primeros en acudir a las urnas.
-
-Como lo ha hecho históricamente, ‘Pepe’ votará sobre las 8:00, en una escuela del barrio Cerro de Montevideo.
-
-El presidente, Lacalle Pou, votará a las 11:00, en un centro educativo ubicado en el departamento de Canelones.
-
-Los centros de votación cerrarán a las 19:30 y se espera que dos horas después las consultoras presenten sus primeras proyecciones.
-
-Asimismo, los centros de votación comenzarán el conteo de votos y enviarán la información a la [Corte Electoral.](https://eleccionesnacionales2024.corteelectoral.gub.uy/ "https://eleccionesnacionales2024.corteelectoral.gub.uy/")
-
-En centro comercial de Quito, armados con uniformes de la Policía asaltan una joyería
-=====================================================================================
-
-Los hombres entran al local sin ningún problema con armas de fuego
-------------------------------------------------------------------
-
-![Una de las imágenes del video muestra a uno de los asaltantes con chaleco de la Policía y arma de fuego, afuera de la joyería.](https://www.elcomercio.com/wp-content/uploads/2024/11/Captura-video.jpg)
-
-Hombres armados y vestidos con uniformes de policía ingresaron a un centro comercial del norte de Quito y asaltaron una joyería, este sábado 23 de noviembre del 2024.
-
-Más noticias
-------------
-
-* [Asalto armado se registró en el norte de Quito este viernes 25 de octubre](https://www.elcomercio.com/actualidad/seguridad/asalto-armado-norte-quito-viernes-25-de-octubre-gaspar-de-villarroel.html "Asalto armado se registró en el norte de Quito este viernes 25 de octubre")
-* [Manifestantes y policías se enfrentaron durante marchas en Quito](https://www.elcomercio.com/actualidad/quito/manifestantes-policia-marcha-quito.html "Manifestantes y policías se enfrentaron durante marchas en Quito")
-
-Este nuevo caso de delincuencia, protagonizado por individuos que se hacían pasar por agentes del orden, se puede ver en un video compartido en redes sociales.
-
-Uno de ellos vestía un calentador policial blanco con azul, mientras el otro estaba de negro con el chaleco de la Policía. Ambos tenían mascarillas y gorras.
-
-> Audaz asalto a la joyería Vanitez en el CCI.  
-> Ningún guardia privado se percató.  
-> Los delincuentes huyeron 🫢 [pic.twitter.com/pe8GH3x3sO](https://t.co/pe8GH3x3sO)
-> 
-> — MARCO PEREZ TORRES (@MPerezTorres30) [November 24, 2024](https://twitter.com/MPerezTorres30/status/1860490189375750488?ref_src=twsrc%5Etfw)
-
-Las imágenes de este asalto causaron indignación en la ciudadanía, que reclama mayores controles por la inseguridad que se vive en la ciudad.
-
-El ECU 911 reportó La emergencia cerca de las 10:00. Una vez que la Policía fue alertada sobre este posible robo en el local comercial coordinó la respuesta. Pero los delincuentes ya se fugaron.
-
-Cerca de las 19:00, el coronel Jaime Ruales, comandante del distrito metropolitano, confirmó el asalto y robo. Los asaltantes, agregó, llevaban los uniformes de la Policía y uno de ellos portaba una arma larga.
-
-De esta manera intimidaron a los dependientes de este negocio y al guardia privado.
-
-> INFORMAMOS ||  
->   
-> Nuestras unidades operativas, investigativas y de inteligencia se encuentran desplegadas, a fin de capturar a los presuntos implicados en el asalto y robo a un local comercial en Iñaquito, [#DMQ](https://twitter.com/hashtag/DMQ?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Conoce los detalles:🎥👇[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/8dO3LLDB5G](https://t.co/8dO3LLDB5G)
-> 
-> — Policía DMQ Zona 9 (@PoliciaDMQZona9) [November 23, 2024](https://twitter.com/PoliciaDMQZona9/status/1860469576263164316?ref_src=twsrc%5Etfw)
-
-La Policía Judicial comenzó a levantar información de evidencias del lugar como a revisar las imágenes de las cámaras internas y externas. Esto con el fin de dar con estos individuos.
-
-Tres patrulleros, cinco motorizados y efectivos de Criminalística estuvieron trabajando en el sitio.
-
-Hasta la noche de este sábado, no conoció más detalles de la [Policía](https://noticias.policia.gob.ec/ "https://noticias.policia.gob.ec/"). Tampoco se conoce a cuánto asciende el monto robado a la joyería ni hay un pronunciamiento oficial del centro comercial.
-
-No se reportaron heridos ni víctimas durante este nuevo asalto.
-
-Guardaparques y brigadistas celebran las lluvias por segundo día en El Cajas-Azuay
-==================================================================================
-
-Las precipitaciones ayudan a extinguir los incendios en el Parque Nacional Cajas
---------------------------------------------------------------------------------
-
-![Brigadistas y guardaparques celebran la caída de la lluvia en Azuay. Foto: Captura de la cuenta de Etapa](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-24-2.jpg)
-
-La lluvia que cayó en varias zonas de Azuay por segundo día causó alegría a los guardaparques y brigadistas del Ministerio del Ambiente (Maate).
-
-Más noticias
-------------
-
-* [Incendios forestales en Azuay siguen activos a pesar de las lluvias](https://www.elcomercio.com/actualidad/ecuador/incendios-forestales-en-azuay-siguen-activos-a-pesar-de-las-lluvias.html "Incendios forestales en Azuay siguen activos a pesar de las lluvias")
-* [El duro golpe a Loja y Azuay](https://www.elcomercio.com/opinion/editorial/incendios-loja-azuay-forestales.html "El duro golpe a Loja y Azuay")
-
-La empresa pública de agua potable de Cuenca, ETAPA, informó que las precipitaciones contribuyeron a extinguir por completo los incendios forestales. Estos fueron controlados, pero aún representaban riesgo de reactivación. Las lluvias se extienden desde la Amazonía.
-
-> Lluvia | Guardaparques de ETAPA EP y Brigadistas del [@MAATE\_Zonal6](https://twitter.com/MAATE_Zonal6?ref_src=twsrc%5Etfw) celebran las lluvias que caen en Chirimachay con ello se extinguen los focos del incendio forestal que aún quedaban.[#YaBastaNoEsUnJuego](https://twitter.com/hashtag/YaBastaNoEsUnJuego?src=hash&ref_src=twsrc%5Etfw)[@czamoramatute](https://twitter.com/czamoramatute?ref_src=twsrc%5Etfw) [@maveronicapolo](https://twitter.com/maveronicapolo?ref_src=twsrc%5Etfw) [@MunicipioCuenca](https://twitter.com/MunicipioCuenca?ref_src=twsrc%5Etfw) [pic.twitter.com/3zMrYpGmHs](https://t.co/3zMrYpGmHs)
-> 
-> — ETAPA EP (@ETAPAOficial) [November 23, 2024](https://twitter.com/ETAPAOficial/status/1860460110398493169?ref_src=twsrc%5Etfw)
-
-En un video subido a redes sociales de la empresa se muestra a brigadistas del Ministerio del Ambiente y guardaparques celebrando la caída de lluvia. Ellos luchan contra los incendios en el Parque Nacional Cajas.
-
-La lluvia que cae en Chirimachay, Llaviucu es una una zona donde el fuego ha permanecido activo durante más de 15 días.
-
-El alcalde de Cuenca y el Gobernador de Azuay, indicaron que botellas con combustibles y mecheros se hallaron en los sitios de los incendios forestales.
-
-El **Comité de Operaciones de Emergencia** (COE) Nacional declaró la emergencia en todo el país por la magnitud de los flagelos y el impacto del déficit hídrico y la sequía. Según el Gobierno es la peor en 60 años. La medida se extenderá por 60 días.
-
-El Parque Nacional Cajas, reconocido como el segundo más protegido de Ecuador después de Galápagos, se encuentra entre las zonas más afectadas por los incendios forestales en Azuay. 
-
-El secretario de Gestión de [Riesgos](https://www.gestionderiesgos.gob.ec/ "https://www.gestionderiesgos.gob.ec/"), Jorge Carrillo, informó el miércoles 20 de noviembre de 2024, que los incendios afectaron a 18 500 hectáreas de vegetación en Azuay y Loja.
-
-El COE solicitó al Ministerio de Agricultura y Ganadería y al Cuerpo de Bomberos que emitan los informes técnicos correspondientes a las afectaciones producidas por los incendios.
-
-Por otra parte, se espera que las lluvias y la llegada de los generadores termoeléctricos al país alivien la crisis energética que vive el país, debido al estiaje.
-
-El poderoso y efímero poder
-===========================
-
-El poder económico busca influir en el político, pero ambos son frágiles y temporales.
---------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-La riqueza de una persona, familia o **grupo económico**, sin duda,  enviste de poder, **influencia** y **exposición** a sus miembros ante la **sociedad**, lo cual per se no es malo, sino una **realidad social** y natural; sin embargo, se debe tener presente que, más poderoso que el **poder económico** es el Poder Político, y es justo por ese motivo que, muchas (no todas) de las fortunas apuestan – entiéndase apoyan y/o financian – a tal o cual **candidato**, incluso discreta pero simultáneamente a los caballos ganadores (finalistas) –  cuál carrera de un hipódromo “político” -.  Sin perjuicio, también por supuesto, de aventurarse  – en ciertos casos –  con candidatos propios de su núcleo familiar o íntimo,  todo lo cual – sin generalizar – a efecto de proteger sus **industrias** e intereses ante cualquier escenario futuro e incierto, percibido como una **amenaza**.
-
-Evidentemente, pueden existir otros **motivos** también, tales como un **auténtico** y desinteresado  ánimo de servicio a la patria, por un reto personal, vanidad, venganza,  un deseo irresistible de enriquecimiento o, una mezcla de éstos, etc….
-
-El poder del **dinero** colocándose prudentemente atrás, cede entonces el paso al **poder político**, ya que sabe bien que, este al final del día es el que manda, decide o por lo menos poderosamente influye en un momento dado, pese a que, de alguna u otra manera conviven ambos tipos de poderes, entre abrazos y traiciones, entre **sonrisas y aplausos**, algunos sinceros y otros no tanto, el uno en primera y el otro en una importante segunda fila, pero ambas apetecidas butacas, pero que paradójicamente en cierta medida, reflejan su **debilidad** y **fragilidad** en razón de la temporalidad, todo lo cual, expuesto al vaivén del compás del galopante y cambiante viento de la **conveniencia política** y de su influencia en la **justicia**.
-
-Por otro lado, la **resolución estatal** que afecta brindar el servicio de **telecomunicaciones** por cable submarino a la **empresa** liderada por la ya no tan poderosa familia Topic, así como, la sentencia (en primera instancia) que condena a Danilo Carrera a diez años de **prisión** por el caso Encuentro, nos deben invitar a **reflexionar** al respecto, independientemente de la **culpabilidad** o no de los aludidos, la **justicia** decidirá cumplidas las instancias respectivas.
-
-Ni el poder del dinero ni el poder **político** (efímero por esencia democrática), por más que estén asociados e incluso compartiendo por excepción primera fila, a la larga, si no se hacen las cosas bien,  nada garantizan…
-
-Sin embargo, algunos, si no muchos pensarán, peor es nada…  
-
-Del feminismo como un humanismo
-===============================
-
-El feminismo es un humanismo que defiende la dignidad y los derechos plenos de las mujeres, libres de toda violencia.
----------------------------------------------------------------------------------------------------------------------
-
-![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
-
-Desde 1999, cada 25 de noviembre se conmemora el **Día Internacional de Erradicación de la Violencia contra la Mujer**, por declaración de la Asamblea General de las Naciones Unidas. La fecha recuerda el día de 1960 en que las hermanas Mirabal fueron asesinadas por oponerse a la dictadura de Rafael Leonidas Trujillo, en República Dominicana.
-
-Si bien las **quejas de las mujeres** por la condición de subordinación y violencia (simbólica y física) en que han desarrollado su vida ha quedado registrada a lo largo de la historia, en **memoriales** de **agravios**, por ejemplo, fue con la **Revolución francesa** que las mujeres empezaron a **reclamar** para sí los **derechos** que las Constituciones modernas garantizaban a los hombres.
-
-A partir del último tercio del siglo XIX, las **mujeres** empezaron a organizarse como un **movimiento social** para reclamar en conjunto el acceso a **educación, trabajo y voto**. Así nació el feminismo que, a lo largo del siglo XX y lo que va del XXI, se ha constituido en un **corpus teórico** orientado a la reflexión colectiva sobre la **condición femenina** y las estrategias para superar las limitaciones que le impone la subordinación.
-
-Cuestionado desde sus inicios, las **críticas** se moderaron a partir de 1908, cuando el papa Pío X declaró que era aceptable, como todo lo que tendiera a ‘elevar el **nivel moral e intelectual de la humanidad**’ y si no contrariaba las **doctrinas** del **catolicismo**. Así nació la corriente del ‘feminismo sensato’, que impulsó la **acción social** de las militantes católicas, una de las variaciones del **movimiento** que a lo largo de del tiempo ha pasado por varios hitos de **construcción simbólica y teórica**.
-
-En este sentido, el **feminismo** es un tipo de **humanismo**, una filosofía política –y un movimiento social– que reflexiona sobre la **situación política** de las mujeres como **seres humanos** plenos, que merecen una vida digna, sin las **violencias simbólicas** o físicas a las que se someten en la vida cotidiana en espacios familiares, escolares y laborales.
