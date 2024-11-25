@@ -12,6 +12,8 @@ Safe & Secure 100% secure and 24h support
 
 Super Fast instant digital download
 
+[Get up to 90% off games in our Black Friday sale! Ends 3rd December 💰 Shop now](https://www.cdkeys.com/black-friday-sale)
+
 Toggle Nav[](https://www.cdkeys.com/)
 
 ![Super Fast](https://cdn.omn-it.net/media/icons/fast_2x.png)
@@ -116,7 +118,6 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
-* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -448,11 +449,11 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fate_of_iberia_card_16_.jpg)   No 1. \-78%](https://www.cdkeys.com/black-friday-sale/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key)
+1.    [![Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fate_of_iberia_card_16_.jpg)   No 1. \-81%](https://www.cdkeys.com/black-friday-sale/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key)
     
     **[Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://www.cdkeys.com/black-friday-sale/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key "Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher")**
     
-    Special Price $24.89 RRP $114.69
+    Special Price $21.69 RRP $114.69
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -468,21 +469,21 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-3.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 3. \-32%](https://www.cdkeys.com/black-friday-sale/farming-simulator-25-pc-steam)
+3.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 3. \-36%](https://www.cdkeys.com/black-friday-sale/farming-simulator-25-pc-steam)
     
     **[Farming Simulator 25 PC](https://www.cdkeys.com/black-friday-sale/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
     
-    Special Price $36.29 RRP $53.49
+    Special Price $34.39 RRP $53.49
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-4.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 4. \-62%](https://www.cdkeys.com/black-friday-sale/tekken-8-pc-steam)
+4.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 4. \-63%](https://www.cdkeys.com/black-friday-sale/tekken-8-pc-steam)
     
     **[TEKKEN 8 PC](https://www.cdkeys.com/black-friday-sale/tekken-8-pc-steam "TEKKEN 8 PC")**
     
-    Special Price $26.79 RRP $70.09
+    Special Price $26.09 RRP $70.09
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -510,21 +511,21 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-7.    [![Cult of the Lamb PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/th-box-heist_2_.jpg)   No 7. \-65%](https://www.cdkeys.com/black-friday-sale/cult-of-the-lamb-pc-steam)
+7.    [![Cult of the Lamb PC](https://cdn.cdkeys.com/245x340/media/catalog/product/t/h/th-box-heist_2_.jpg)   No 7. \-67%](https://www.cdkeys.com/black-friday-sale/cult-of-the-lamb-pc-steam)
     
     **[Cult of the Lamb PC](https://www.cdkeys.com/black-friday-sale/cult-of-the-lamb-pc-steam "Cult of the Lamb PC")**
     
-    Special Price $8.69 RRP $24.89
+    Special Price $8.29 RRP $24.89
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-8.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/_/s.t.a.l.k.e.r._2__heart_of_chernobyl_-_ultimate_edition_pc.jpg)   No 8. \-38%](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam)
+8.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/_/s.t.a.l.k.e.r._2__heart_of_chernobyl_-_ultimate_edition_pc.jpg)   No 8. \-40%](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam)
     
     **[S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)")**
     
-    Special Price $74.59 RRP $121.09
+    Special Price $72.99 RRP $121.09
     
     [Add to Wish List](# "Add to Wish List")
     
