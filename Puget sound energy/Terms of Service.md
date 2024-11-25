@@ -367,18 +367,18 @@ We know it is frustrating for our customers and are working hard to reconcile th
 
 Our crews will continue to work around the clock until the last customer is restored.
 
-[Storm alert Updated Nov 24, 6:00 PM](#collapseOne)  
+[Storm alert Updated Nov 24, 11:59 PM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-##### A customer update on estimated restoration times
+##### All-up messaging
 
 We know those of you yet to have your power restored are eager for that to happen. Unfortunately, while our crews have been working around the clock to restore power to our customers, the significant damage in the field is adding complexity and time to the restoration work. Some customers in our hardest-hit communities may see their estimated restoration time pushed back on the outage map this evening. We are sorry to do this, but we want you to have as much information as possible during this difficult period.
 
 **South King County:**
 
-We currently have less than 3,000 customers remaining without power, primarily in Renton Highlands, Enumclaw, Maple Valley, Hobart and Ravensdale. The majority of these customers will still see their outage restored by or within a few hours of 6 p.m. tonight. At this time, we expect that approximately 500 customers will have their estimated restoration time moved to Monday, Nov. 25 at 3:00 p.m.
+We currently have less than 3,000 customers remaining without power, primarily in Renton Highlands, Enumclaw, Maple Valley, Hobart and Ravensdale. The majority of these customers will still see their outage restored by or within a few hours of 6 p.m. tonight. However, small groups of customers will see their estimated restoration time moved to Monday, Nov. 25 at 3:00 p.m. At this time, we expect that approximately 500 customers will have their estimated restoration time moved.
 
 **North King County:**
 
