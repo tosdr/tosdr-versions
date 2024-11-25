@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Would you Live in AN'S (4,305)](https://forum.nationstates.net/viewtopic.php?t=546200&f=25&view=unread#unread ""Would you Live in AN'S" (4,305 posts)")
-* [The Aspen News Feed (12)](https://forum.nationstates.net/viewtopic.php?t=558715&f=4&view=unread#unread ""The Aspen News Feed" (12 posts)")
-* [Ukrainian War VII: Everything has a p… (11,084)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (11,084 posts)")
-* [Totally Original Q&A (9)](https://forum.nationstates.net/viewtopic.php?t=558738&f=23&view=unread#unread ""Totally Original Q&A" (9 posts)")
-* [\[R\] Flaming in AmPol? (2)](https://forum.nationstates.net/viewtopic.php?t=558729&f=16&view=unread#unread ""[R] Flaming in AmPol?" (2 posts)")
+* [Fallen Nations: A Shadow of a New War… (82)](https://forum.nationstates.net/viewtopic.php?t=558662&f=31&view=unread#unread ""Fallen Nations: A Shadow of a New War [Dieselpunk|OOC|Open]" (82 posts)")
+* [\[SUBMITTED\] Liberate Empires Forever… (90)](https://forum.nationstates.net/viewtopic.php?t=558712&f=24&view=unread#unread ""[SUBMITTED] Liberate Empires Forever United" (90 posts)")
+* [What's AN's Millenium Dawn HOI4 Ideology (45)](https://forum.nationstates.net/viewtopic.php?t=557962&f=25&view=unread#unread ""What's AN's Millenium Dawn HOI4 Ideology" (45 posts)")
+* [Second Doslonsuan Civil War (168)](https://forum.nationstates.net/viewtopic.php?t=558724&f=5&view=unread#unread ""Second Doslonsuan Civil War" (168 posts)")
 
 Advertisement
 
