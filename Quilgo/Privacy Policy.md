@@ -1,4 +1,4 @@
-[![Timer for Google Forms and proctoring](/assets/quilgo-logo-white.png?v=1731319229)](https://quilgo.com/)
+[![Timer for Google Forms and proctoring](/assets/quilgo-logo-white.png?v=1732534341)](https://quilgo.com/)
 
 * [Pricing](https://quilgo.com/pricing)
 * [Who it's for](#)
@@ -213,7 +213,7 @@
 
 This document was last updated: Thursday 8 February 2024
 
-[![Online Assessment Platform Quilgo](/assets/quilgo-logo-white.png?v=1731319229)](https://quilgo.com/)
+[![Online Assessment Platform Quilgo](/assets/quilgo-logo-white.png?v=1732534341)](https://quilgo.com/)
 
 Who it's for
 
