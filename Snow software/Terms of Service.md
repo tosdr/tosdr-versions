@@ -74,8 +74,7 @@ Main navigation
     * Column 1
         * [Customer success](https://www.flexera.com/customer-success)
             * Support
-                * [Flexera support portal](https://community.flexera.com/)
-                * [Snow support portal](https://community.snowsoftware.com/s/support-hub)
+                * [Flexera Community](https://community.flexera.com/)
                 * [Flexera product documentation](https://docs.flexera.com/)
                 * [Snow product documentation](https://docs.snowsoftware.io/)
             * Services and training
@@ -156,7 +155,7 @@ External Links
 --------------
 
 * External Links
-    * [Community](https://community.flexera.com/t5/Flexera-Community/ct-p/Flexera_Community)
+    * [Community](https://community.flexera.com/)
     * [Product Access](https://app.flexera.com/login)
     * [Partner Portal](https://flexera.channeltivity.com/Login)
 
