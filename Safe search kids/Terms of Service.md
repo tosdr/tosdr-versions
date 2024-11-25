@@ -348,6 +348,7 @@ Share This Article
 * [Creative Scams Compromising CyberSecurity – Part 3](https://www.safesearchkids.com/creative-scams-and-how-they-compromise-cyber-security-part-3/)
 * [How Cyber Criminals Manipulate Your Trust](https://www.safesearchkids.com/outsmarting-hackers-how-cyber-criminals-manipulate-your-trust/)
 * [How to Develop Good Password Management Habits](https://www.safesearchkids.com/how-to-develop-good-password-management-habits/)
+* [Protecting Your Digital Footprint with Antivirus Software](https://www.safesearchkids.com/protecting-your-digital-footprint-with-antivirus-software/)
 * [What is Adware? How to Spot It and Protect Your Devices](https://www.safesearchkids.com/what-is-adware-how-to-spot-it-and-protect-your-devices/)
 * [The Basics of Webcam Security and Protection](https://www.safesearchkids.com/basics-of-webcam-protection-from-hackers-for-your-children/)
 * [Important Safety Tips while Using Public WiFi](https://www.safesearchkids.com/safety-tips-while-using-public-wifi/)
