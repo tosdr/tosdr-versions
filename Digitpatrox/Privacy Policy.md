@@ -20,16 +20,16 @@ Monday, November 25 2024
 
 Latest
 
+* [Nintendo’s terrific Switch Pro Controller is $20 off through Black Friday](https://digitpatrox.com/nintendos-terrific-switch-pro-controller-is-20-off-through-black-friday/)
+* [How to Get the Relic Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-relic-rod-in-fisch-roblox/)
+* [The Best Tech Deals During Target’s Black Friday Sale (So Far)](https://digitpatrox.com/the-best-tech-deals-during-targets-black-friday-sale-so-far/)
+* [Most and Least Reliable Snow Blower Brands](https://digitpatrox.com/most-and-least-reliable-snow-blower-brands/)
+* [How to Use the SEQUENCE Function in Excel](https://digitpatrox.com/how-to-use-the-sequence-function-in-excel/)
+* [Newcastle vs West Ham live stream: How to watch Premier League game online](https://digitpatrox.com/newcastle-vs-west-ham-live-stream-how-to-watch-premier-league-game-online/)
+* [Tech CEOs want to replicate Tim Cook’s Donald Trump playbook](https://digitpatrox.com/tech-ceos-want-to-replicate-tim-cooks-donald-trump-playbook/)
 * [NYT Connections Today: Hints and Answers for November 25, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-25-2024/)
 * [My Favorite Home Storage Items on Sale for Black Friday](https://digitpatrox.com/my-favorite-home-storage-items-on-sale-for-black-friday/)
 * [Hyundai Ioniq 9 Preview – Consumer Reports](https://digitpatrox.com/hyundai-ioniq-9-preview-consumer-reports/)
-* [Here’s Why I Use XLOOKUP](https://digitpatrox.com/heres-why-i-use-xlookup/)
-* [Dyson Black Friday sales just dropped — 7 deals I’d get now starting from $249](https://digitpatrox.com/dyson-black-friday-sales-just-dropped-7-deals-id-get-now-starting-from-249/)
-* [Apple’s movie theater beef with Hollywood is getting worse](https://digitpatrox.com/apples-movie-theater-beef-with-hollywood-is-getting-worse/)
-* [NYT Strands Today: Hints, Answers, and Spangram for November 25](https://digitpatrox.com/nyt-strands-today-hints-answers-and-spangram-for-november-25/)
-* [The Best Beauty and Self-Care Gifts on Sale During Black Friday](https://digitpatrox.com/the-best-beauty-and-self-care-gifts-on-sale-during-black-friday/)
-* [Should You Use Passkeys Instead of Passwords?](https://digitpatrox.com/should-you-use-passkeys-instead-of-passwords/)
-* [Remember to Remove Old, Deprecated Programs to Reduce Security Risks](https://digitpatrox.com/remember-to-remove-old-deprecated-programs-to-reduce-security-risks/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/11/NYT-Connections-Featured.webp?w=1250&quality=75)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-25-2024/)
+* [![](https://cdn.vox-cdn.com/thumbor/k8lt-JdHDzGtCTORAaNl9WrDb9w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/8028811/jbareham_170221_1475_0010.0.jpg)](https://digitpatrox.com/nintendos-terrific-switch-pro-controller-is-20-off-through-black-friday/)
     
-    [NYT Connections Today: Hints and Answers for November 25, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-25-2024/)
+    [Nintendo’s terrific Switch Pro Controller is $20 off through Black Friday](https://digitpatrox.com/nintendos-terrific-switch-pro-controller-is-20-off-through-black-friday/)
     
-    3 minutes ago
+    46 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDASEBDNE7EV6PGYGJMJMB8P/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/my-favorite-home-storage-items-on-sale-for-black-friday/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/relic-rod-location-in-fisch.jpg)](https://digitpatrox.com/how-to-get-the-relic-rod-in-fisch-roblox/)
     
-    [My Favorite Home Storage Items on Sale for Black Friday](https://digitpatrox.com/my-favorite-home-storage-items-on-sale-for-black-friday/)
+    [How to Get the Relic Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-relic-rod-in-fisch-roblox/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732200433/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2026-Hyundai-Ioniq-9-Calligraphy-f-driving-11-24)](https://digitpatrox.com/hyundai-ioniq-9-preview-consumer-reports/)
+* [![](https://lifehacker.com/imagery/articles/01JDAH68TDCDBWMAT2NF3ECXGR/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-tech-deals-during-targets-black-friday-sale-so-far/)
     
-    [Hyundai Ioniq 9 Preview – Consumer Reports](https://digitpatrox.com/hyundai-ioniq-9-preview-consumer-reports/)
-    
-    3 hours ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-excel-spreadsheet-in-the-background-with-the-excel-logo-in-front.jpg)](https://digitpatrox.com/heres-why-i-use-xlookup/)
-    
-    [Here’s Why I Use XLOOKUP](https://digitpatrox.com/heres-why-i-use-xlookup/)
+    [The Best Tech Deals During Target’s Black Friday Sale (So Far)](https://digitpatrox.com/the-best-tech-deals-during-targets-black-friday-sale-so-far/)
     
     3 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/sPNPALpYapHjfriJNtFCBG-1200-80.jpg)](https://digitpatrox.com/dyson-black-friday-sales-just-dropped-7-deals-id-get-now-starting-from-249/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1570716333/prod/content/dam/CRO%20Images%202019/Home/10Oct/CR-Home-Inlinehero-reliable-snow-blowers-1019)](https://digitpatrox.com/most-and-least-reliable-snow-blower-brands/)
     
-    [Dyson Black Friday sales just dropped — 7 deals I’d get now starting from $249](https://digitpatrox.com/dyson-black-friday-sales-just-dropped-7-deals-id-get-now-starting-from-249/)
+    [Most and Least Reliable Snow Blower Brands](https://digitpatrox.com/most-and-least-reliable-snow-blower-brands/)
     
-    3 hours ago
+    4 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/excel-logo-with-a-spreadsheet-and-the-formula-sequence.jpg)](https://digitpatrox.com/how-to-use-the-sequence-function-in-excel/)
+    
+    [How to Use the SEQUENCE Function in Excel](https://digitpatrox.com/how-to-use-the-sequence-function-in-excel/)
+    
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 minutes ago
+* [46 minutes ago
     
-    ### NYT Connections Today: Hints and Answers for November 25, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-25-2024/)
-* [2 hours ago
+    ### Nintendo’s terrific Switch Pro Controller is $20 off through Black Friday](https://digitpatrox.com/nintendos-terrific-switch-pro-controller-is-20-off-through-black-friday/)
+* [1 hour ago
     
-    ### My Favorite Home Storage Items on Sale for Black Friday](https://digitpatrox.com/my-favorite-home-storage-items-on-sale-for-black-friday/)
+    ### How to Get the Relic Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-relic-rod-in-fisch-roblox/)
 * [3 hours ago
     
-    ### Hyundai Ioniq 9 Preview – Consumer Reports](https://digitpatrox.com/hyundai-ioniq-9-preview-consumer-reports/)
+    ### The Best Tech Deals During Target’s Black Friday Sale (So Far)](https://digitpatrox.com/the-best-tech-deals-during-targets-black-friday-sale-so-far/)
 
 Most Popular Topics
 
-* [September 8, 2024
+* [September 26, 2024
     
-    ### Best In-Ear Thermometers of 2024](https://digitpatrox.com/best-in-ear-thermometers-of-2024/)
-* [August 27, 2024
+    ### Do You Really Need a Leaf Blower Vacuum?](https://digitpatrox.com/do-you-really-need-a-leaf-blower-vacuum/)
+* [August 28, 2024
     
-    ### What to expect at Apple’s Sept. 9 ‘Glowtime’ special event – Computerworld](https://digitpatrox.com/what-to-expect-at-apples-sept-9-glowtime-special-event-computerworld/)
-* [August 19, 2024
+    ### How tech leaders can foster accessibility in their organizations](https://digitpatrox.com/how-tech-leaders-can-foster-accessibility-in-their-organizations/)
+* [October 3, 2024
     
-    ### CyberGhost vs ExpressVPN (2024): Which VPN Is Better?](https://digitpatrox.com/cyberghost-vs-expressvpn-2024-which-vpn-is-better/)
+    ### 8 easy ways to transfer files between Windows and your phone – Computerworld](https://digitpatrox.com/8-easy-ways-to-transfer-files-between-windows-and-your-phone-computerworld/)
 
 Last Modified Topics
 
-* [5 hours ago
+* [6 hours ago
     
-    ### NYT Strands Today: Hints, Answers, and Spangram for November 25](https://digitpatrox.com/nyt-strands-today-hints-answers-and-spangram-for-november-25/)
-* [7 hours ago
+    ### Tech CEOs want to replicate Tim Cook’s Donald Trump playbook](https://digitpatrox.com/tech-ceos-want-to-replicate-tim-cooks-donald-trump-playbook/)
+* [6 hours ago
     
-    ### The Best Beauty and Self-Care Gifts on Sale During Black Friday](https://digitpatrox.com/the-best-beauty-and-self-care-gifts-on-sale-during-black-friday/)
+    ### NYT Connections Today: Hints and Answers for November 25, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-25-2024/)
 * [8 hours ago
     
-    ### Should You Use Passkeys Instead of Passwords?](https://digitpatrox.com/should-you-use-passkeys-instead-of-passwords/)
+    ### My Favorite Home Storage Items on Sale for Black Friday](https://digitpatrox.com/my-favorite-home-storage-items-on-sale-for-black-friday/)
 
 Most Viewed Topics
 
+* [October 2, 2024
+    
+    ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
