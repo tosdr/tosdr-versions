@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Texas bill would reclassify abortion drugs as controlled substances](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/GettyImages-1481952226.jpg?ve=1&tl=1)
+
+ ![Texas bill would reclassify abortion drugs as controlled substances](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/03/32/18/592/333/GettyImages-1481952226.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-bill-would-reclassify-abortion-drugs-controlled-substances)
+
+### [Texas bill would reclassify abortion drugs as controlled substances](https://www.fox4news.com/news/texas-bill-would-reclassify-abortion-drugs-controlled-substances)
+
+ [![Dallas weather: Will Thanksgiving be cold? DFW prepares for big weather shifts this week](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/turkey-day-forecast.png?ve=1&tl=1)
+
+ ![Dallas weather: Will Thanksgiving be cold? DFW prepares for big weather shifts this week](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/turkey-day-forecast.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-thanksgiving)
+
+### [Dallas weather: Will Thanksgiving be cold? DFW prepares for big weather shifts this week](https://www.fox4news.com/weather/dallas-weather-thanksgiving)
+
  [![Motorcyclist dies in Dallas crash Sunday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112424-sh-dpd-major-crash-fx-red-bird-ln_kdfw5ad6__00.05.24.30.jpg?ve=1&tl=1)
 
  ![Motorcyclist dies in Dallas crash Sunday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112424-sh-dpd-major-crash-fx-red-bird-ln_kdfw5ad6__00.05.24.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/motorcyclist-dies-east-oak-cliff-crash-sunday-morning)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Lost penguin’s 2,000-mile journey to Australia ends with return to Southern Ocean](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/penguin-bkgd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lost-penguins-2000-mile-journey-australia-ends-return-southern-ocean)
 
 ### [Lost penguin’s 2,000-mile journey to Australia ends with return to Southern Ocean](https://www.fox4news.com/news/lost-penguins-2000-mile-journey-australia-ends-return-southern-ocean)
-
- [![Menendez brothers to appear at court hearing on Monday: What you need to know](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/03/32/18/Menendez-Brothers-.jpg?ve=1&tl=1)
-
- ![Menendez brothers to appear at court hearing on Monday: What you need to know](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/03/32/18/592/333/Menendez-Brothers-.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-appear-court-hearing-monday)
-
-### [Menendez brothers to appear at court hearing on Monday: What you need to know](https://www.fox4news.com/news/menendez-brothers-appear-court-hearing-monday)
-
- [![Arlington woman investigates broken window at neighbor's apartment, finds man dead inside, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1)
-
- ![Arlington woman investigates broken window at neighbor's apartment, finds man dead inside, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-apartment-death-center-street)
-
-### [Arlington woman investigates broken window at neighbor's apartment, finds man dead inside, police say](https://www.fox4news.com/news/arlington-apartment-death-center-street)
 
 ###### [News](https://www.fox4news.com/news)
 
