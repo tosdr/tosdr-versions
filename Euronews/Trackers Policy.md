@@ -17,54 +17,54 @@
     
     * [COP29](https://www.euronews.com/tag/cop29)
     * [European Union](https://www.euronews.com/tag/european-union)
-    * [Music](https://www.euronews.com/tag/music)
-    * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Vladimir Putin](https://www.euronews.com/tag/vladimir-putin)
-    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
+    * [Josep Borrell](https://www.euronews.com/tag/josep-borrell)
+    * [Lebanon](https://www.euronews.com/tag/lebanon)
+    * [Israel-Hezbollah conflict](https://www.euronews.com/tag/israel-hezbollah-conflict)
+    * [Protest](https://www.euronews.com/tag/protest)
     
     * * *
     
     Latest stories
     
-    [![Kate Nash in 2019 and some peaches](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Kate Nash in 2019 and some peaches")
+    [![Political uncertainty in Germany has compounded its economic challenges](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Political uncertainty in Germany has compounded its economic challenges")
     
-    ![Kate Nash in 2019 and some peaches](https://static.euronews.com/articles/stories/08/86/82/44/368x207_cmsv2_818cf4ae-6b02-5e38-bba5-75eb2ff218fc-8868244.jpg "Kate Nash in 2019 and some peaches")](https://www.euronews.com/culture/2024/11/22/butts-4-tour-busses-kate-nash-starts-onlyfans-to-fund-tour)
+    ![Political uncertainty in Germany has compounded its economic challenges](https://static.euronews.com/articles/stories/08/87/19/14/368x207_cmsv2_2565f823-d758-549c-add9-6e43a2781b9c-8871914.jpg "Political uncertainty in Germany has compounded its economic challenges")](https://www.euronews.com/business/2024/11/25/germany-business-morale-worsens-further-is-industrial-competitiveness-at-risk)
+    
+    Now playing Next
+    
+    [Economy](https://www.euronews.com/business/economy)
+    
+    ### [German: Business morale worsens – what is at risk for industry?](https://www.euronews.com/business/2024/11/25/germany-business-morale-worsens-further-is-industrial-competitiveness-at-risk)
+    
+    [![Eurovision 2025: Basel referendum validates funding amidst opposition  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Eurovision 2025: Basel referendum validates funding amidst opposition  ")
+    
+    ![Eurovision 2025: Basel referendum validates funding amidst opposition  ](https://static.euronews.com/articles/stories/08/87/19/44/368x207_cmsv2_0e422807-1871-5cbb-ba63-be43b7ac4b60-8871944.jpg "Eurovision 2025: Basel referendum validates funding amidst opposition  ")](https://www.euronews.com/culture/2024/11/25/eurovision-2025-basel-referendum-validates-funding-amidst-opposition)
     
     Now playing Next
     
     [Culture news](https://www.euronews.com/culture/culture-news)
     
-    ### ['Butts 4 Tour Busses': Kate Nash starts OnlyFans to fund tour](https://www.euronews.com/culture/2024/11/22/butts-4-tour-busses-kate-nash-starts-onlyfans-to-fund-tour)
+    ### [Eurovision 2025: Basel referendum validates funding amidst opposition](https://www.euronews.com/culture/2024/11/25/eurovision-2025-basel-referendum-validates-funding-amidst-opposition)
     
-    [![People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018")
+    [![Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.")
     
-    ![People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018](https://static.euronews.com/articles/stories/08/86/83/72/368x207_cmsv2_8f7441a1-05ed-5354-8e00-a5d4469ac4a5-8868372.jpg "People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018")](https://www.euronews.com/travel/2024/11/22/major-london-airport-evacuated-due-to-suspicious-item-in-luggage-are-flights-cancelled)
+    ![Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.](https://static.euronews.com/articles/stories/08/86/92/02/368x207_cmsv2_f5bcdad6-6e78-5174-87e3-09c293c35fbe-8869202.jpg "Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.")](https://www.euronews.com/health/2024/11/25/russia-bans-child-adoptions-for-citizens-of-countries-that-allow-gender-transition)
     
     Now playing Next
     
-    [Travel News](https://www.euronews.com/travel/travel-news)
+    [Health news](https://www.euronews.com/health/health-news)
     
-    ### [London's Gatwick airport evacuated over bomb scare](https://www.euronews.com/travel/2024/11/22/major-london-airport-evacuated-due-to-suspicious-item-in-luggage-are-flights-cancelled)
+    ### [Russia bans child adoptions to countries that allow gender transition](https://www.euronews.com/health/2024/11/25/russia-bans-child-adoptions-for-citizens-of-countries-that-allow-gender-transition)
     
-    [![Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ")
+    [![Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.")
     
-    ![Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ](https://static.euronews.com/articles/stories/08/86/80/42/368x207_cmsv2_2845c942-faab-58fd-b7af-a53b2048e906-8868042.jpg "Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ")](https://www.euronews.com/my-europe/2024/11/22/polish-pm-tusks-party-holds-presidential-primary-to-choose-candidate)
+    ![Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.](https://static.euronews.com/articles/stories/08/87/17/14/368x207_cmsv2_d0da42e3-6c7b-5152-9c35-e4b4481c0a25-8871714.jpg "Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.")](https://www.euronews.com/my-europe/2024/11/25/russian-forces-capture-uk-citizen-fighting-for-ukraine-reports-claim)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Polish PM Tusk's party holds presidential primary to choose candidate](https://www.euronews.com/my-europe/2024/11/22/polish-pm-tusks-party-holds-presidential-primary-to-choose-candidate)
-    
-    [![400 legs of the specialty Spanish ham were stolen. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "400 legs of the specialty Spanish ham were stolen. ")
-    
-    ![400 legs of the specialty Spanish ham were stolen. ](https://static.euronews.com/articles/stories/08/86/80/60/368x207_cmsv2_21e8ec83-5cbf-534e-973d-802aedee18ce-8868060.jpg "400 legs of the specialty Spanish ham were stolen. ")](https://www.euronews.com/culture/2024/11/22/this-is-a-destruction-of-years-of-work-thieves-steal-200000-worth-of-festive-ham-in-spain)
-    
-    Now playing Next
-    
-    [Food and Drink](https://www.euronews.com/culture/food-and-drink)
-    
-    ### [Hamburglars: Thieves steal €200,000 worth of gourmet Christmas meat](https://www.euronews.com/culture/2024/11/22/this-is-a-destruction-of-years-of-work-thieves-steal-200000-worth-of-festive-ham-in-spain)
+    ### [Russian forces capture UK citizen fighting for Ukraine, reports claim](https://www.euronews.com/my-europe/2024/11/25/russian-forces-capture-uk-citizen-fighting-for-ukraine-reports-claim)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -317,8 +317,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -365,60 +363,60 @@ Trending
 
 * [COP29](https://www.euronews.com/tag/cop29)
 * [European Union](https://www.euronews.com/tag/european-union)
-* [Music](https://www.euronews.com/tag/music)
-* [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Vladimir Putin](https://www.euronews.com/tag/vladimir-putin)
-* [Donald Trump](https://www.euronews.com/tag/donald-trump)
+* [Josep Borrell](https://www.euronews.com/tag/josep-borrell)
+* [Lebanon](https://www.euronews.com/tag/lebanon)
+* [Israel-Hezbollah conflict](https://www.euronews.com/tag/israel-hezbollah-conflict)
+* [Protest](https://www.euronews.com/tag/protest)
 
 * * *
 
 Latest stories
 
-[![Kate Nash in 2019 and some peaches](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Kate Nash in 2019 and some peaches")
+[![Political uncertainty in Germany has compounded its economic challenges](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Political uncertainty in Germany has compounded its economic challenges")
 
-![Kate Nash in 2019 and some peaches](https://static.euronews.com/articles/stories/08/86/82/44/368x207_cmsv2_818cf4ae-6b02-5e38-bba5-75eb2ff218fc-8868244.jpg "Kate Nash in 2019 and some peaches")](https://www.euronews.com/culture/2024/11/22/butts-4-tour-busses-kate-nash-starts-onlyfans-to-fund-tour)
+![Political uncertainty in Germany has compounded its economic challenges](https://static.euronews.com/articles/stories/08/87/19/14/368x207_cmsv2_2565f823-d758-549c-add9-6e43a2781b9c-8871914.jpg "Political uncertainty in Germany has compounded its economic challenges")](https://www.euronews.com/business/2024/11/25/germany-business-morale-worsens-further-is-industrial-competitiveness-at-risk)
+
+Now playing Next
+
+[Economy](https://www.euronews.com/business/economy)
+
+### [German: Business morale worsens – what is at risk for industry?](https://www.euronews.com/business/2024/11/25/germany-business-morale-worsens-further-is-industrial-competitiveness-at-risk)
+
+* * *
+
+[![Eurovision 2025: Basel referendum validates funding amidst opposition  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Eurovision 2025: Basel referendum validates funding amidst opposition  ")
+
+![Eurovision 2025: Basel referendum validates funding amidst opposition  ](https://static.euronews.com/articles/stories/08/87/19/44/368x207_cmsv2_0e422807-1871-5cbb-ba63-be43b7ac4b60-8871944.jpg "Eurovision 2025: Basel referendum validates funding amidst opposition  ")](https://www.euronews.com/culture/2024/11/25/eurovision-2025-basel-referendum-validates-funding-amidst-opposition)
 
 Now playing Next
 
 [Culture news](https://www.euronews.com/culture/culture-news)
 
-### ['Butts 4 Tour Busses': Kate Nash starts OnlyFans to fund tour](https://www.euronews.com/culture/2024/11/22/butts-4-tour-busses-kate-nash-starts-onlyfans-to-fund-tour)
+### [Eurovision 2025: Basel referendum validates funding amidst opposition](https://www.euronews.com/culture/2024/11/25/eurovision-2025-basel-referendum-validates-funding-amidst-opposition)
 
 * * *
 
-[![People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018")
+[![Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.")
 
-![People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018](https://static.euronews.com/articles/stories/08/86/83/72/368x207_cmsv2_8f7441a1-05ed-5354-8e00-a5d4469ac4a5-8868372.jpg "People wait near the departures gate at Gatwick airport, near London, Thursday, Dec. 20, 2018")](https://www.euronews.com/travel/2024/11/22/major-london-airport-evacuated-due-to-suspicious-item-in-luggage-are-flights-cancelled)
+![Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.](https://static.euronews.com/articles/stories/08/86/92/02/368x207_cmsv2_f5bcdad6-6e78-5174-87e3-09c293c35fbe-8869202.jpg "Russian President Vladimir Putin speaks during a meeting at the Kremlin in Moscow in November 2024.")](https://www.euronews.com/health/2024/11/25/russia-bans-child-adoptions-for-citizens-of-countries-that-allow-gender-transition)
 
 Now playing Next
 
-[Travel News](https://www.euronews.com/travel/travel-news)
+[Health news](https://www.euronews.com/health/health-news)
 
-### [London's Gatwick airport evacuated over bomb scare](https://www.euronews.com/travel/2024/11/22/major-london-airport-evacuated-due-to-suspicious-item-in-luggage-are-flights-cancelled)
+### [Russia bans child adoptions to countries that allow gender transition](https://www.euronews.com/health/2024/11/25/russia-bans-child-adoptions-for-citizens-of-countries-that-allow-gender-transition)
 
 * * *
 
-[![Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ")
+[![Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.")
 
-![Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ](https://static.euronews.com/articles/stories/08/86/80/42/368x207_cmsv2_2845c942-faab-58fd-b7af-a53b2048e906-8868042.jpg "Poland's Prime Minister Donald Tusk arrives for an EU Summit at the Puskas Arena in Budapest, Hungary, Friday, Nov. 8, 2024. ")](https://www.euronews.com/my-europe/2024/11/22/polish-pm-tusks-party-holds-presidential-primary-to-choose-candidate)
+![Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.](https://static.euronews.com/articles/stories/08/87/17/14/368x207_cmsv2_d0da42e3-6c7b-5152-9c35-e4b4481c0a25-8871714.jpg "Photo taken from a video released by Russian Defense Ministry press service on Monday, Nov. 25, 2024.")](https://www.euronews.com/my-europe/2024/11/25/russian-forces-capture-uk-citizen-fighting-for-ukraine-reports-claim)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Polish PM Tusk's party holds presidential primary to choose candidate](https://www.euronews.com/my-europe/2024/11/22/polish-pm-tusks-party-holds-presidential-primary-to-choose-candidate)
-
-* * *
-
-[![400 legs of the specialty Spanish ham were stolen. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "400 legs of the specialty Spanish ham were stolen. ")
-
-![400 legs of the specialty Spanish ham were stolen. ](https://static.euronews.com/articles/stories/08/86/80/60/368x207_cmsv2_21e8ec83-5cbf-534e-973d-802aedee18ce-8868060.jpg "400 legs of the specialty Spanish ham were stolen. ")](https://www.euronews.com/culture/2024/11/22/this-is-a-destruction-of-years-of-work-thieves-steal-200000-worth-of-festive-ham-in-spain)
-
-Now playing Next
-
-[Food and Drink](https://www.euronews.com/culture/food-and-drink)
-
-### [Hamburglars: Thieves steal €200,000 worth of gourmet Christmas meat](https://www.euronews.com/culture/2024/11/22/this-is-a-destruction-of-years-of-work-thieves-steal-200000-worth-of-festive-ham-in-spain)
+### [Russian forces capture UK citizen fighting for Ukraine, reports claim](https://www.euronews.com/my-europe/2024/11/25/russian-forces-capture-uk-citizen-fighting-for-ukraine-reports-claim)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -673,8 +671,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
