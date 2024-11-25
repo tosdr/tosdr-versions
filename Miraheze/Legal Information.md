@@ -106,6 +106,10 @@ Miraheze and its users make no warranty about the usefulness or accuracy of any 
 
 Retrieved from "[https://meta.miraheze.org/wiki/Meta:General\_disclaimer?oldid=441758](https://meta.miraheze.org/wiki/Meta:General_disclaimer?oldid=441758)"
 
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+
+[More information](https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy#2._Cookies)OK
+
 * This page was last edited 20:42, 11 November 2024 by Miraheze Meta user [MacFan4000](https://meta.miraheze.org/wiki/User:MacFan4000 "User:MacFan4000").
 * Content is available under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) unless otherwise noted.
 
