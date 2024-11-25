@@ -194,7 +194,7 @@ SaveFrom does not bear any responsibility nor assumes any risks if by any reason
 * [ไทย](https://th.savefrom.net/233/)
 * [Türkçe‬](https://tr.savefrom.net/250CA/)
 * [Українська‬](https://uk.savefrom.net/217/)
-* [Tiếng Việt](https://vi.savefrom.net/243/)
+* [Tiếng Việt](https://vi.savefrom.net/244Dt/)
 * [简体中文](https://zh.savefrom.net/226/)
 
 ![](/img/logo_small2.svg)
