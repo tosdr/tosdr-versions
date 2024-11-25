@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Guardians of the Amazon](/wp-content/thumbnails/14874-100x70.jpg?x53432)
+* [![Chaos Theory and Dynamic Systems](/wp-content/thumbnails/13397-100x70.jpg?x53432)
     
-    Guardians of the Amazon
+    Chaos Theory and Dynamic Systems
     
-    It is the frontline of the worlds most dangerous battle, a battle which involves the entire Earth. As the Amazon Rain Forest faces a crucial tipping point amidst the increase of illegal logging activi](https://documentaryheaven.com/guardians-of-amazon/ "Guardians of the Amazon")
-* [![The Dome](/wp-content/thumbnails/13756-100x70.jpg?x53432)
+    At one time we thought the universe ticked off its motions with stately regularity, however with every development in understanding the world around us we discovered that much of the universe operates](https://documentaryheaven.com/chaos-theory-dynamic-systems/ "Chaos Theory and Dynamic Systems")
+* [![Millau Sky Bridge](/wp-content/thumbnails/6416-100x70.jpg?x53432)
     
-    The Dome
+    Millau Sky Bridge
     
-    Halfway between Austrailia and Hawaii in the middle of a seemingly endless pacific ocean we find a chain of islands that together form the nation of the Marshall Islands. Spread over 2 million square](https://documentaryheaven.com/dome/ "The Dome")
-* [![Magnetic Storm](/wp-content/thumbnails/90-100x70.png?x53432)
+    Richard Hammond reveals the engineering inspirations behind the tallest road bridge in the world – the Millau Viaduct in France.He fires three quarters of a million volts from his fingertips to se](https://documentaryheaven.com/millau-sky-bridge/ "Millau Sky Bridge")
+* [![Broken Records](/wp-content/thumbnails/5403-100x70.jpg?x53432)
     
-    Magnetic Storm
+    Broken Records
     
-    Like the plot of a sci-fi B movie, something weird is happening deep underground where the constant spin of Earth's liquid metallic core generates an invisible magnetic force field that shields our pl](https://documentaryheaven.com/magnetic-storm/ "Magnetic Storm")
-* [![Zero Hour: The Sinking of the Estonia](/wp-content/thumbnails/6639-100x70.png?x53432)
+    The documentary is about Arab Artists and their cultivation of western art into modern Arab culture. It's about hip-hop and western culture influencing and creating a new Arab culture. Music and po](https://documentaryheaven.com/broken-records/ "Broken Records")
+* [![Hands In The Mist](/wp-content/thumbnails/6848-100x70.jpg?x53432)
     
-    Zero Hour: The Sinking of the Estonia
+    Hands In The Mist
     
-    The Baltic Sea claimed 852 people’s lives by drowning and freezing them to death in the 8 degree C cold water. Only 95 bodies were ever recovered. The wreck of the Estonia was not salvaged, but sealed](https://documentaryheaven.com/zero-hour-the-sinking-of-the-estonia/ "Zero Hour: The Sinking of the Estonia")
-* [![James Camron Voyage To The Bottom Of The Earth](/wp-content/thumbnails/6787-100x70.jpg?x53432)
+    A short documentary in collaboration with the Latin American NGO, Un Techo para mi Pais and its Innovation Center. The film follows the Designmatters Safe Agua Peru project, in which Art Center studen](https://documentaryheaven.com/hands-in-the-mist/ "Hands In The Mist")
+* [![Ireland’s Gangland: Bad Fellas](/wp-content/thumbnails/6878-100x70.jpg?x53432)
     
-    James Camron Voyage To The Bottom Of The Earth
+    Ireland’s Gangland: Bad Fellas
     
-    Plunging to the virtually unknown depths of the Mariana Trench, James Cameron's DEEPSEA CHALLENGE expedition takes this National Geographic Explorer deeper and further than any filmmaker or solo explo](https://documentaryheaven.com/james-camron-voyage-to-the-bottom-of-the-earth/ "James Camron Voyage To The Bottom Of The Earth")
+    BAD FELLAS, a three part documentary series, written and narrated by Paul Williams, tells the story of some of the pivotal moments in the growth of organised crime in Ireland.Telling a story that st](https://documentaryheaven.com/irelands-gangland-bad-fellas/ "Ireland’s Gangland: Bad Fellas")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
