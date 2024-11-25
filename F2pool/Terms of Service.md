@@ -20,6 +20,8 @@ English
 
 [Create Account](https://www.f2pool.com/user/signup) [Sign In](https://www.f2pool.com/user/signin)
 
+* [ZEC payouts rescheduled](https://f2pool.zendesk.com/hc/en-us/articles/40402215421081-ZEC-payouts-rescheduled) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
+
 F2Pool Terms of Service
 -----------------------
 
