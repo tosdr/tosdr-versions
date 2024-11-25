@@ -283,7 +283,7 @@ Sepapaja tn 6, 15551 Tallinn, Harju Maakond, Estonia
 
   
   
-[Russian version](https://timestripe.com/terms/?lang=ru)  
+  
   
 
 [← Back to Timestripe](https://timestripe.com/)
