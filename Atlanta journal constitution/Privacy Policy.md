@@ -1,3 +1,5 @@
+[Breaking: Special counsel moves to dismiss election interference case against President-elect Donald Trump](https://www.ajc.com/news/nation-world/special-counsel-moves-to-dismiss-election-interference-case-against-president-elect-donald-trump/QVTXQNRAHFD4RHVYVH3OLOYWGQ/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
