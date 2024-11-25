@@ -10,7 +10,7 @@
 
 [Protegent Antivirus Plus](https://protegent360.com/protegent-antivirus-plus-enquire) [Protegent Antivirus](https://protegent360.com/protegent-antivirus-demo-download) [Protegent Total Security](https://protegent360.com/protegent-total-security-download) [Protegent Complete Security](https://protegent360.com/protegent-complete-security-download)
 
-[Blogs](https://protegent360.com/blog/) [Contact Us](https://protegent360.com/contact-us) [1](https://protegent360.com/cart "Shopping Cart")
+[Blogs](https://protegent360.com/blog/) [Contact Us](https://protegent360.com/contact-us) [0](https://protegent360.com/cart "Shopping Cart")
 
 [![](img/icn_buynow.webp)Buy Now](https://protegent360.com/buy-now)
 
