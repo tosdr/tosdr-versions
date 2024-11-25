@@ -1,6 +1,22 @@
 [Skip to content](#main)
 
-[Grab Black Friday deal here](https://surfshark.com/pricing)
+[Grab Black Friday deal here
+
+Deal expires in
+
+00
+
+:
+
+00
+
+:
+
+00
+
+:
+
+00](https://surfshark.com/pricing)
 
 [](https://surfshark.com/ "Surfshark")
 
