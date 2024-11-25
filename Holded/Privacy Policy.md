@@ -1,4 +1,24 @@
-Start now and[save 50% for 3 monthssave 50% for 3 months →](https://www.holded.com/pricing)
+[BLACK FRIDAY: 75% discount for three months  →](https://www.holded.com/pricing)
+
+07
+
+DAYS
+
+23
+
+HRS
+
+:
+
+49
+
+MIN
+
+:
+
+43
+
+SEC
 
 Talk to our sales team:[+34 932 718 999](tel:+34932718999)
 
