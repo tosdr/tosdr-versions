@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Булочки из дрожжевого теста, с сыром, зеленью и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=149837)
+* [Свиной шашлык в духовке, запечённый в банке](https://www.russianfood.com/recipes/recipe.php?rid=163559)
+* [Омлет на сметане, с грибами, луком и карри](https://www.russianfood.com/recipes/recipe.php?rid=173388)
+* [Пряная пшеничная каша на молоке](https://www.russianfood.com/recipes/recipe.php?rid=170786)
+* [Клафути с брокколи, брюссельской капустой и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=174596)
 * [Торт с халвой и ореховым кремом](https://www.russianfood.com/recipes/recipe.php?rid=150322)
 * [Творожный рулет с орехами](https://www.russianfood.com/recipes/recipe.php?rid=150222)
 * [Говядина с шампиньонами в соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=150206)
-* [Рыба под томатным соусом с морковью и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=150137)
 * [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623)
-* [Пряники с глазурью](https://www.russianfood.com/recipes/recipe.php?rid=41461)
 * [Соус из окорока](https://www.russianfood.com/recipes/recipe.php?rid=113505)
 * [Шницель из мерлузы](https://www.russianfood.com/recipes/recipe.php?rid=124)
-* [Завтрак из хека](https://www.russianfood.com/recipes/recipe.php?rid=573)
 
 |     |
 | --- |
@@ -179,6 +179,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Каждый из них хорош. Лучшие САЛАТЫ №24-48](https://www.russianfood.com/reading/?post_id=22922) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/736/sm_735596.jpg)](https://www.russianfood.com/reading/?post_id=22922)
+
+Салат с рыбными консервами и овощами. Салат с курицей и пекинской капустой. Салат с краснокочанной капустой, тыквой и виноградом. Салат с копчёной колбасой и овощами. Салат с копчёной колбасой, овощами и сыром. Винегрет с орехами. Салат с копчёной курицей и пекинской капустой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22922)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22922#comments) | 25.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[К завтраку, обеду и на десерт. Лучшие рецепты из ЯИЦ (18)](https://www.russianfood.com/reading/?post_id=22921) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/726/sm_725610.jpg)](https://www.russianfood.com/reading/?post_id=22921)
+
+Яйца во фритюре, по-тайски. Миндальное печенье на яичных белках. Омлет с грибами и брынзой. Суп авголемоно с рисом и сельдереем. Салат с морской капустой и яйцами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22921)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22921#comments) | 25.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -290,7 +318,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174546#comments) | 22.11.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174546#comments) | 22.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -361,34 +389,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174263#comments) | 22.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Рисовая запеканка с брокколи и помидорами черри](https://www.russianfood.com/recipes/recipe.php?rid=174289) |     |
-
-[![Фото к рецепту: Рисовая запеканка с брокколи и помидорами черри](//img1.russianfood.com/dycontent/images_upl/740/sm_739188.jpg "Фото к рецепту: Рисовая запеканка с брокколи и помидорами черри")](https://www.russianfood.com/recipes/recipe.php?rid=174289)
-
-Нежные соцветия брокколи, красный сладкий перец и сочные помидоры черри делают обыденную рисовую запеканку яркой и аппетитной. Овощи предварительно обжариваются, соединяются с отварным рисом и яично-сметаной смесью, а затем запекаются. Вкусно и полезно.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174289)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174289#comments) | 22.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Картошка, запечённая с курицей и яблоками, в рукаве](https://www.russianfood.com/recipes/recipe.php?rid=174297) |     |
-
-[![Фото к рецепту: Картошка, запечённая с курицей и яблоками, в рукаве](//img1.russianfood.com/dycontent/images_upl/747/sm_746717.jpg "Фото к рецепту: Картошка, запечённая с курицей и яблоками, в рукаве")](https://www.russianfood.com/recipes/recipe.php?rid=174297)
-
-Простое жаркое с курицей, картофелем и грибами в рукаве. Морковь и репчатый лук добавят блюду сладость, а яблоки – приятную кислинку и изысканный вкус. Благодаря запеканию в рукаве курица, грибы и овощи получаются очень сочными и нежными.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174297)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174297#comments) | 22.11.24 |     |
 
 |     |
 | --- |
@@ -472,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(131)
+(134)
