@@ -90,7 +90,7 @@
         * Popular Resources
         * Customer Stories
         * Blog
-        * Artificial Intelligence
+        * 2025 Experience Trends
         *  [![](https://www.qualtrics.com/m/assets/wp-content/uploads/2023/09/xm.svg) XM Knowledge Base](https://www.qualtrics.com/experience-management/)
             * [Customer Experience](https://www.qualtrics.com/experience-management/customer/)
             * [Employee Experience](https://www.qualtrics.com/experience-management/employee/)
@@ -129,7 +129,7 @@
 * REQUEST DEMO
 
 QUALTRICS PRIVACY POLICY
-------------------------
+========================
 
 [SEE OUR PRIVACY SNAPSHOT](https://success.qualtrics.com/rs/542-FMF-412/images/Qualtrics%20Privacy%20Snapshot.pdf?version=0)
 
@@ -178,7 +178,7 @@ We may record and store certain telephone conversations as part of our operation
 
 We use personal information for the following purposes or as otherwise described at the time of collection:
 
-**To provide our services**. We use personal information to operate, maintain, and provide you with our services, including to facilitate payments. In particular, we use personal information to perform our contractual obligations under our [Terms of Service](https://www.qualtrics.com/terms-of-service/) or other valid agreement between Qualtrics and your company.
+**To provide our services**. We use personal information to operate, maintain, and provide you with our services, including to facilitate payments. In particular, we use personal information to perform our contractual obligations under our [Terms of Service](https://www.qualtrics.com/legal/customers/gtcs/) or other valid agreement between Qualtrics and your company.
 
 **To communicate with you about our services**. It is in our legitimate business interests to use personal information to respond to your requests, provide customer support, and communicate with you about our services, including by sending announcements, updates, security alerts and support and administrative messages.
 
@@ -334,7 +334,6 @@ We reserve the right to modify this Privacy Policy at any time. If we make mater
 * [Digital Experience Analytics](https://www.qualtrics.com/frontline/digital/analytics/)
 * [Brand Tracking](https://www.qualtrics.com/strategy/brand-tracker-software/)
 * [360 Feedback](https://www.qualtrics.com/people/360-degree-feedback/)
-* [Pricing Research](https://www.qualtrics.com/product-experience/pricing-research-software/)
 
 * [Website & App Feedback](https://www.qualtrics.com/frontline/digital/website-app-feedback/)
 * [NPS Software](https://www.qualtrics.com/customer-experience/nps-software/)
@@ -343,7 +342,6 @@ We reserve the right to modify this Privacy Policy at any time. If we make mater
 * [Voice of Customer](https://www.qualtrics.com/customer-experience/voice-of-customer/)
 * [Pulse Surveys](https://www.qualtrics.com/people/engage/pulse-surveys/)
 * [Conjoint Analysis](https://www.qualtrics.com/strategy/conjoint-analysis/)
-* [Product Naming](https://www.qualtrics.com/product-experience/product-naming-tool/)
 * [Diversity, Equity & Inclusion](https://www.qualtrics.com/employee-experience/diversity-inclusion/)
 * [Well-being at Work](https://www.qualtrics.com/people/engage/well-being-at-work/)
 
