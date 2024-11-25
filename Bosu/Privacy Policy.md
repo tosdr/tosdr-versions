@@ -145,35 +145,35 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* 🎁 black friday IS HERE! shop now to get early access to 20% off site wide 🎁
 * OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* 🎁 black friday IS HERE! shop now to get early access to 20% off site wide 🎁
 * OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* 🎁 black friday IS HERE! shop now to get early access to 20% off site wide 🎁
 * OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* 🎁 black friday IS HERE! shop now to get early access to 20% off site wide 🎁
 * OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* 🎁 black friday IS HERE! shop now to get early access to 20% off site wide 🎁
 * OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 
 * Free shipping over $100 📦
-* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* 🎁 black friday IS HERE! shop now to get early access to 20% off site wide 🎁
 * OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* 🎁 black friday IS HERE! shop now to get early access to 20% off site wide 🎁
 * OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* 🎁 black friday IS HERE! shop now to get early access to 20% off site wide 🎁
 * OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* 🎁 black friday IS HERE! shop now to get early access to 20% off site wide 🎁
 * OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* 🎁 black friday IS HERE! shop now to get early access to 20% off site wide 🎁
 * OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 
 Privacy policy
