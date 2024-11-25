@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,726 members - 452,526,165 ads shown  
+131,726 members - 452,529,610 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -55,13 +55,13 @@ Sometimes spelled Pangaea, was a single land mass 300 million years ago. All of 
 
 paid member banners
 
-[![](https://profitslion.com/banimg1252.gif)](https://profitslion.com/profitlions)
+[![](https://cherrytraffic.com/ban2.gif)](https://cherrytraffic.com/pickinpea)
+
+[![](https://e-links.pro/smban1.gif)](https://e-links.pro/romanjeff)
 
 [![](https://actualhits4u.com/getimg.php?id=1)](https://actualhits4u.com/?rid=11919)
 
-[![](https://topdogsrotator.com/a125.gif)](https://topdogsrotator.com/nightmagic)
-
-[![](https://tanfanumhits.com/getimg.php?id=18)](https://tanfanumhits.com/?rid=103)
+[![](https://easyadlinks.com/getimg.php?id=6)](https://easyadlinks.com/?rid=11)
 
 ![](26yrs0.gif)
 
