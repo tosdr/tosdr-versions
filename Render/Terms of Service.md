@@ -26,18 +26,6 @@ Services
 
 [Migrate from Heroku](https://www.render.com/migrate-from-heroku?utm_int=nav_click)
 
-Runtimes
-
-* [Node](https://docs.render.com/#node)
-* [Docker](https://docs.render.com/#docker)
-* [Static Sites](https://docs.render.com/#static-sites)
-* [Python](https://docs.render.com/)
-* [Ruby](https://docs.render.com/)
-* [Elixir](https://docs.render.com/)
-* [Go](https://docs.render.com/#go)
-* [Rust](https://docs.render.com/)
-* [PHP](https://docs.render.com/deploy-php-laravel-docker)
-
 * [Pricing](https://render.com/pricing)
 * [Customers](https://render.com/customers)
 * [Blog](https://render.com/blog)
