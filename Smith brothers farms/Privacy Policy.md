@@ -224,14 +224,14 @@ Hi
         * [Whipping Cream (5)](https://www.smithbrothersfarms.com/whipping-cream)
             
         
-    * [Yogurt (78)](https://www.smithbrothersfarms.com/yogurt)
+    * [Yogurt (77)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
         * [Kefir & Drinkable Yogurt (10)](https://www.smithbrothersfarms.com/kefir)
             
         * [Greek Yogurt (52)](https://www.smithbrothersfarms.com/greek)
             
-        * [Traditional Yogurt (23)](https://www.smithbrothersfarms.com/traditional)
+        * [Traditional Yogurt (22)](https://www.smithbrothersfarms.com/traditional)
             
         
     * [Eggs & Butter (10)](https://www.smithbrothersfarms.com/eggs-butter)
