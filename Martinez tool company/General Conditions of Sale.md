@@ -193,7 +193,7 @@ Email
 
 Copyright © 2024 · All Rights Reserved · Martinez Tool Company
 
-[Privacy Policy](https://martineztools.com/policies/privacy-policy) [Terms of Service](https://martineztools.com/policies/terms-of-service) [Sweepstakes Rules](https://martineztools.com/pages/sweepstakes-rules)
+[Privacy Policy](https://martineztools.com/policies/privacy-policy) [Terms of Service](https://martineztools.com/policies/terms-of-service)
 
 Back
 
