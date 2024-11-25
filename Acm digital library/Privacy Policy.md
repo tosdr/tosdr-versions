@@ -285,13 +285,13 @@ Search
         
         [ACM Education Advisory Committee Applications Open](https://docs.google.com/document/d/1yQ2G7EnB3L9tsEqVwNLE_pMINDdWUwwrJxelsU2D3hw/edit?usp=sharing)
         
-        [![christine-robson-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/christine-robson-techtalk.jpg)](https://events.zoom.us/ev/Aug9XSOWvaMn_glJD-pQfJ34IZnLZYYSPg6lCoU6jhZzE0fiiRpz~AqfKcOgXRwUotrDs-rfDNWzUsAD_flFeNU-vG9tSPpEhjjb2dWe_xVB9aw)
+        [![rush-shahani-techtalk.jpg](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/rush-shahani-techtalk.jpg)](https://events.zoom.us/ev/AnS0TL61il-lC-HpZSc_PtOmuob1gugyFp9pOP8oMtKNeL-gCH5W~Aho1aHCGUVV3qxnTaGNTHAr9ThJT6T2hunbW_fa9r3gCCLCeyF9gQCqCTQ)
         
-        [Christine Robson TechTalk](https://events.zoom.us/ev/Aug9XSOWvaMn_glJD-pQfJ34IZnLZYYSPg6lCoU6jhZzE0fiiRpz~AqfKcOgXRwUotrDs-rfDNWzUsAD_flFeNU-vG9tSPpEhjjb2dWe_xVB9aw)
+        [Rush Shahani TechTalk](https://events.zoom.us/ev/AnS0TL61il-lC-HpZSc_PtOmuob1gugyFp9pOP8oMtKNeL-gCH5W~Aho1aHCGUVV3qxnTaGNTHAr9ThJT6T2hunbW_fa9r3gCCLCeyF9gQCqCTQ)
         
-        [![Image of Nashlie Sephus](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/nashlie-sephus.jpg)](https://learning.acm.org/bytecast/ep59-nashlie-sephus)
+        [![Image of Xin Luna Dong](/binaries/ctaimagelarge/content/gallery/acm/ctas/people/xin-luna-dong-bytecast.jpg)](https://learning.acm.org/bytecast/ep60-xin-luna-dong)
         
-        [ByteCast Ep59: Nashlie Sephus](https://learning.acm.org/bytecast/ep59-nashlie-sephus)
+        [ByteCast Ep60: Xin Luna Dong](https://learning.acm.org/bytecast/ep60-xin-luna-dong)
         
     
 * [Learning Center](#)
