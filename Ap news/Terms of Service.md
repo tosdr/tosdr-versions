@@ -44,6 +44,8 @@ Menu
     
 * [Español](https://apnews.com/hub/noticias)
     
+* [Quizzes](https://apnews.com/quizzes)
+    
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
 * [AP Buyline Shopping](https://apnews.com/buyline-shopping/)
@@ -167,6 +169,8 @@ Menu
     * [Religion](https://apnews.com/religion)
         
     * [Español](https://apnews.com/hub/noticias)
+        
+    * [Quizzes](https://apnews.com/quizzes)
         
     * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
         
@@ -341,6 +345,8 @@ Submit Search
 * [Religion](https://apnews.com/religion)
     
 * [Español](https://apnews.com/hub/noticias)
+    
+* [Quizzes](https://apnews.com/quizzes)
     
 * [AP Buyline Personal Finance](https://apnews.com/buyline-personal-finance/)
     
