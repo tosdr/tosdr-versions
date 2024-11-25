@@ -64,22 +64,23 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [Political Theatre](https://www.lewrockwell.com/political-theatre/)
 
+* [Attacking Tulsi = Extinctionism](https://www.lewrockwell.com/political-theatre/attacking-tulsi-extinctionism/)
+* [US Nuclear Subs on Max Alert](https://www.lewrockwell.com/political-theatre/us-nuclear-subs-on-max-alert/)
+* [](https://www.lewrockwell.com/political-theatre/896577/)
+* [Are Intel Agencies Blackmailing Mike Johnson?](https://www.lewrockwell.com/political-theatre/are-intel-agencies-blackmailing-mike-johnson/)
+* [Daniel Penny is a hero. Everybody involved in his prosecution deserves lengthy imprisonment](https://www.lewrockwell.com/political-theatre/daniel-penny-is-a-hero-everybody-involved-in-his-prosecution-deserves-lengthy-imprisonment/)
+* [Allegation Sparks Tension: Wasserman Schultz vs. Gabbard’s Impact on Party Unity](https://www.lewrockwell.com/political-theatre/allegation-sparks-tension-wasserman-schultz-vs-gabbards-impact-on-party-unity/)
+* [Congress is set to vote on the most dangerous domestic anti-terrorism bill since The Patriot Act.](https://www.lewrockwell.com/political-theatre/congress-is-set-to-vote-on-the-most-dangerous-domestic-anti-terrorism-bill-since-the-patriot-act/)
+* [Klaus Schwab: WEF Young Global Leaders’ Brains ‘Will Be Replicated with AI’ After Death](https://www.lewrockwell.com/political-theatre/klaus-schwab-wef-young-global-leaders-brains-will-be-replicated-with-ai-after-death/)
+* [How the Democrats Became the War Party](https://www.lewrockwell.com/political-theatre/how-the-democrats-became-the-war-party-2/)
 * [Immoral, Illogical, and Thomas Jefferson](https://www.lewrockwell.com/political-theatre/immoral-illogical-and-thomas-jefferson/)
-* [Women Need Choice](https://www.lewrockwell.com/political-theatre/women-need-choice/)
-* [November 22nd 1963](https://www.lewrockwell.com/political-theatre/november-22nd-1963/)
-* [How the Democrats Became the War Party](https://www.lewrockwell.com/political-theatre/how-the-democrats-became-the-war-party/)
-* [The Wars That Wouldn’t Have Been](https://www.lewrockwell.com/political-theatre/the-wars-that-wouldnt-have-been/)
-* [The Religion Of The One World Order -AI Luciferianism](https://www.lewrockwell.com/political-theatre/the-religion-of-the-one-world-order-ai-luciferianism/)
-* [Brandon Smith: The List: Policy Actions To Save America From Globalism Before Time Runs Out](https://www.lewrockwell.com/political-theatre/brandon-smith-the-list-policy-actions-to-save-america-from-globalism-before-time-runs-out/)
-* [The UN Is Using Africa as a Testing Ground for Controversial Digital ID Systems](https://www.lewrockwell.com/political-theatre/the-un-is-using-africa-as-a-testing-ground-for-controversial-digital-id-systems/)
-* [For DOGE to Hunt Waste, It Needs Ron Paul to Sic Itt](https://www.lewrockwell.com/political-theatre/for-doge-to-hunt-waste-it-needs-ron-paul-to-sic-itt/)
-* [Defend Rudy!](https://www.lewrockwell.com/political-theatre/defend-rudy/)
-* [MORE](https://www.lewrockwell.com/political-theatre/#post-896454)
+* [MORE](https://www.lewrockwell.com/political-theatre/#post-896546)
 
 [![](https://www.lewrockwell.com/wp-content/themes/lrc/images/burtspage300.png)](http://archive.lewrockwell.com/blumert/burt-gold.html)
 
 #### [LRC Blog](https://www.lewrockwell.com/lrc-blog/)
 
+* [Is Cancer a Parasite?](https://www.lewrockwell.com/lrc-blog/is-cancer-a-parasite/)
 * [America’s Untold Stories: Free-form Friday: JFK Assassination, Banana Art, and Trump’s Cabinet](https://www.lewrockwell.com/lrc-blog/americas-untold-stories-free-form-friday-jfk-assassination-banana-art-and-trumps-cabinet/)
 * [The Demo-Bolshevik Criminals are Shaking in Their Boots](https://www.lewrockwell.com/lrc-blog/the-demo-bolshevik-criminals-are-shaking-in-their-boots/)
 * [Deporting Illegals Is Legal — Military In America’s Streets Is Not!](https://www.lewrockwell.com/lrc-blog/deporting-illegals-is-legal-military-in-americas-streets-is-not/)
@@ -89,8 +90,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [British Storm Shadows? Russian ICBMs? How Far Will Escalation Take Us?](https://www.lewrockwell.com/lrc-blog/british-storm-shadows-russian-icbms-how-far-will-escalation-take-us/)
 * [Even Elon Musk Cannot Make Government Bureaucracy “Efficient”](https://www.lewrockwell.com/lrc-blog/even-elon-musk-cannot-make-government-bureaucracy-efficient/)
 * [Trump’s Immigration Plans: The Good and the Bad](https://www.lewrockwell.com/lrc-blog/trumps-immigration-plans-the-good-and-the-bad/)
-* [The US Just Escalated its Proxy War with Russia. Rothbard Explains Why that’s a Problem.](https://www.lewrockwell.com/lrc-blog/the-us-just-escalated-its-proxy-war-with-russia-rothbard-explains-why-thats-a-problem/)
-* [MORE](https://www.lewrockwell.com/lrc-blog/#post-896366)
+* [MORE](https://www.lewrockwell.com/lrc-blog/#post-896374)
 
 #### [LRC Podcasts](https://www.lewrockwell.com/podcast/)
 
