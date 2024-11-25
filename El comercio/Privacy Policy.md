@@ -31,6 +31,228 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Arborización para sanar a Quito
+===============================
+
+El impacto de los incendios forestales que devastaron Quito en septiembre de 2024 sigue siendo una herida abierta en nuestra ciudad. La vegetación consumida por las llamas dejó cicatrices visibles en el paisaje y en el ánimo de los quiteños. Sin embargo, en medio de esta tragedia, surge una oportunidad para transformar esta crisis en \[…\]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen creada con inteligencia artificial que muestra la arborización, luego de un incendio forestal.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-19.jpg)
+
+El impacto de los **incendios forestales** que devastaron **Quito** en septiembre de 2024 sigue siendo una herida abierta en nuestra ciudad. La **vegetación consumida** por las llamas dejó cicatrices visibles en el paisaje y en el ánimo de los quiteños. Sin embargo, en medio de esta **tragedia**, surge una oportunidad para transformar esta crisis en un punto de partida hacia la regeneración. La **campaña de arborización** liderada por la municipalidad capitalina. Un paso concreto hacia la resiliencia ambiental[.](https://es.wikipedia.org/wiki/Incendio_forestal "https://es.wikipedia.org/wiki/Incendio_forestal")
+
+En total, se reportaron más de **27 incendios** que consumieron más de **2 000 hectáreas de vegetación** del área del Distrito Metropolitano de **Quito**. Esto da cuenta de la magnitud del **problema ambiental**, social y económico en el que estuvo inmersa la capital.
+
+> La reforestación requiere de un compromiso sostenido. Sembrar un árbol es solo el primer paso; garantizar su cuidado y crecimiento es la verdadera tarea a largo plazo.
+
+La reforestación con **especies nativas**, como el aliso, el arrayán o el cholán, no solo devuelve verde a nuestras montañas; también mejora la **calidad del aire**, regula las temperaturas y contribuye a mitigar los efectos del cambio climático. Estas plantas, adaptadas al ecosistema andino, tienen la capacidad de regenerar suelos empobrecidos por el **fuego** y atraer **fauna nativa**, promoviendo un equilibrio ambiental que la ciudad necesita desesperadamente. Pero más allá de los beneficios ecológicos, esta iniciativa tiene un fuerte componente **comunitario**.
+
+En momentos de **crisis**, los quiteños siempre han demostrado una notable capacidad de unión. Participar en esta jornada de [arborización](https://www.elcomercio.com/actualidad/quito/fin-semana-arborizacion-quito-incendios.html "https://www.elcomercio.com/actualidad/quito/fin-semana-arborizacion-quito-incendios.html") no solo permitirá que las personas contribuyan directamente al renacimiento de nuestra ciudad, sino que fortalecerá el **tejido social** que a veces parece deshilacharse en el día a día. Familias, amigos y vecinos trabajarán juntos para plantar vida donde antes hubo **destrucción**. Esta minga es un acto de solidaridad intergeneracional, pues los árboles que sembremos hoy serán el **legado** para quienes hereden esta ciudad en el futuro.
+
+No obstante, debemos ser conscientes de que la arborización no es una **solución mágica** ni instantánea. Los incendios forestales de este año fueron, en gran medida, provocados intencionalmente, lo que subraya la urgencia de abordar el problema desde su raíz: la **educación ambiental**, la vigilancia ciudadana y el endurecimiento de sanciones para quienes atenten contra nuestro entorno. Además, la reforestación requiere de un compromiso sostenido. Sembrar un árbol es solo el primer paso; garantizar su **cuidado** y crecimiento es la verdadera tarea a largo plazo.
+
+Arborizar Quito no es simplemente cubrir con verde las cicatrices del fuego; es un **acto de esperanza** y responsabilidad colectiva. Es la oportunidad de transformar una tragedia en un renacimiento, de demostrar que somos una ciudad capaz de levantarse, más fuerte y más consciente. Con pala en mano y corazón abierto, los quiteños no solo plantaremos árboles; **plantaremos futuro**.
+
+Ahora que el **sur del país** vive una tragedia incluso más amplia, con incendios forestales de **grandes dimensiones**, que luego de días de lucha se van sofocando, queda un compromiso con el país de **tomar la iniciativa** de sembrar árboles donde la mano del ser humano, la misma que la incendió, la ayude a **reverdecer**.
+
+Cartas a Quito / 25 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este lunes 25 de noviembre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+¡0,45 USD el KWh, lo toma o lo deja!
+------------------------------------
+
+Especulación internacional, es a donde ha llegado la energía eléctrica ecuatoriana, mendigar un KWh a costo tres veces, nuestro mercado es duro, mientras, por otro lado, los políticos han desperdiciado sin piedad por más de 40 años, el recurso que ahora nos hace falta, ¿inaudito, verdad? La desgraciada crisis energética que nos agobia tiene responsables directos: gobierno socialcristiano 1984 – 1988, gobierno izquierda democrática 1988 – 1992, gobierno socialcristiano 1992 – 1996, tuvieron planificación (Plan Maestro de Inecel), pero no quisieron invertir. En la década del 2007 – 2017 el gobierno de la revolución ciudadana, decide improvisar la inversión de grandes cantidades de dinero en centrales hidroeléctricas sin planificación, Coca Codo Sinclair, Toachi -Pilatón, de gran potencia, poca calidad y costos superiores a los referentes internacionales. Además, el cierre de puertas a la inversión privada expresado en la constitución del 2008, posiblemente es el mayor daño que hizo este gobierno. A todos ellos hay que agradecerles por los apagones. Es bueno saber la causa, pero mejor buscar la solución. La generación de energía: solar, eólica, geotérmica, etc., que sugieren los expertos, necesita tiempo y dinero, recursos que el País al momento no dispone. Podemos y debemos resolver el problema sin mayores gastos reorganizando el sector eléctrico, mediante la descentralización del sistema actual, hay plantas térmicas e hidroeléctricas de pequeña y mediana capacidad que están integradas al sistema nacional interconectado SNI y, que deben reagruparse para formar sistemas regionales, que sean administradas por las empresas eléctricas regionales existentes, que ahora mismo son diez y con Celec pasarían a ser once, naturalmente todas deben estar bajo la regulación y control del Ministerio correspondiente. Esto evitará los apagones nacionales, serán puntuales si los hay. Esta es una solución a mediano plazo, la solución urgente debe estar a cargo del Estado y, el gobierno actual está haciendo lo que debe hacer, la solución a largo plazo es que el Estado autorice a las empresas eléctricas regionales de la sierra la construcción de centrales hidroeléctricas, menores a 20 MW, sobre la cota 2500 msnm, donde hay grandes caídas y pequeños caudales (en ríos de montaña y lagos, el agua no falta). La población de la costa y Amazonía estará servida con las centrales hidroeléctricas y térmicas grandes, administrado por Celec.
+
+Marco A. Zurita Ríos
+
+Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’
+========================================================================================
+
+Este 25 de noviembre, el Día de la Eliminación de la Violencia contra las Mujeres se recuerda con voces y un nuevo espacio para no silenciar las historias y los derechos, Esperanza.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Esperanza es un pódcast de El Comercio.](https://www.elcomercio.com/wp-content/uploads/2024/11/Esperanza.jpg)
+
+**Vida y seguridad** son dos derechos latentes este 25 de noviembre de 2024, el Día de la Eliminación de la Violencia contra las Mujeres**[.](https://www.unesco.org/es/days/elimination-violence-against-women)**
+
+Ambos aún tienen trabas para cumplirse a cabalidad. En **Ecuador**, desde el 1 de enero hasta el 27 de septiembre de 2024, la Fundación Aldea reporta **180 feminicidios**. Sin embargo, a la par de los elementos inconclusos, hay iniciativas, servicios y unión de mujeres.
+
+### Más noticias
+
+* [Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?](https://www.elcomercio.com/actualidad/elecciones-2025-violencia-politica-normativas.html "Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?")
+* [Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo](https://www.elcomercio.com/actualidad/mundo/unicef-informe-violencia-sexual-ninas-adolescentes.html "Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo")
+* [Mujeres proponen cambios al Código de la Democracia por violencia política](https://www.elcomercio.com/actualidad/politica/mujeres-cambios-codigo-democracia-violencia-politica.html "Mujeres proponen cambios al Código de la Democracia por violencia política")
+
+Día de la Eliminación de la Violencia y el panorama
+---------------------------------------------------
+
+![Madres Coraje es una agrupación de progenitoras de víctimas de femicidio.](https://www.elcomercio.com/wp-content/uploads/2024/11/Dia-Eliminacion-de-la-Violencia-1024x683.jpg)
+
+Madres Coraje es una agrupación de progenitoras de víctimas de femicidio. Foto: cortesía
+
+Desde el 2014, año en que se tipificó el femicidio en el **Código Orgánico Integral Penal (COIP)** en Ecuador, la organización ha documentado **1 891 casos**.
+
+En 2024, 23 **víctimas** ya reportaron antecedentes de violencia, **cuatro tenían boleta de auxilio** y siete experimentaron abuso sexual.
+
+Según Aldea, la edad promedio de las víctimas es de **32 años. Pero, la más j**oven tenía tan solo uno y la mayor, **81**.
+
+No obstante, señalan desde la organización, hay un vacío de datos oficiales. Por lo que apuntan a la obligación del Estado de contar con un sistema de **registro de femicidios**.
+
+La **Fiscalía General del Estado**, en su portal web, cuenta con un apartado denominado Analítica. En este, entre el 27 de febrero de 2014 y el 16 de noviembre de 2024, se contabilizan **790 femicidios**.
+
+La unión tras la violencia
+--------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/union-1024x683.jpg)
+
+Madres Coraje y otros familiares de víctimas realizan vigilias por sus seres queridos. Foto: cortesía
+
+La **Fundación Madres Coraje** surgió, justamente, desde el dolor y la búsqueda de justicia. Son progenitoras que comparten las huellas de la **violencia femicida**.
+
+**Anabel Campos**, una de las fundadoras de la organización, repite que son “hermanas de dolor”. Pero, a la par, abrazan la responsabilidad de acompañar a los hijos de las víctimas y la meta de “ni una menos”.
+
+**Madres Coraje** nació en el 18 de octubre de 2022, con cinco mujeres. En noviembre de 2023, se constituyó jurídicamente. En este 2024, ya suman **35 integrantes**.
+
+Ellas recorren el país para que la **impunidad** quede atrás. A través de sus historias y la difusión de las alertas de la violencia de género buscan “no repetición”.
+
+Anabel Campos perdió a su hija Valeria a manos de quien fue la pareja. Ella, madre de un pequeño de cinco años, contaba con una **boleta de auxilio**, pero esto no le salvó la vida. Él fue el material intelectual y estuvo prófugo.
+
+**No obstante, actualmente, cinco personas involucradas, incluyendo la expareja** de **Valeria** ya fueron juzgadas. Por su parte, Anabel dedica su tiempo a dar charlas **para prevención.**
+
+La asesinaron un 25 de noviembre
+--------------------------------
+
+**María Ortiz**, una **Madre Coraje**, perdió a su hija un 25 de noviembre. Mientras muchas mujeres marchaban, recuerda, la expareja de Cristina la asesinó.
+
+**Cristina** había buscado tener hijos por años. Tras tratamientos y el diagnóstico negativo, conoció a un hombre y, finalmente, quedó **embarazada**.
+
+El progenitor dudó de la paternidad e, incluso, le pidió que interrumpiera la gestación. A un mes del término del embarazo, ella salió a una cita médica y **nunca más regresó**.
+
+**“Mi hija fue asesinada un 25 de noviembre, en un día consagrado a la no violencia contra la mujer”**.
+
+Justicia para los casos
+-----------------------
+
+**Elizabeth Bodero** aún tiene presente que Evelyn, su hija y madre de una niña, conocía sus derechos, iba a plantones para apoyar a familiares de víctimas de **femicidio**.
+
+**Evelyn** se convirtió en uno de esos rostros apagados por la violencia. Ella recibió 13 puñaladas por parte de su expareja, luego de un año de separación. El crimen se consumó frente a su hija.
+
+La mujer había recibido amenazas, tenía una **boleta de auxilio** y alertó a sus amigas y vecinas sobre el riesgo que corría.
+
+Luego de acabar con la vida de **Evelyn**, el hombre intentó suicidarse. No lo logró y tampoco se pudo dar a la fuga.
+
+De acuerdo con Aldea, en el **35%** de los casos, los feminicidas tenían un vínculo sentimental con la víctima.
+
+El dolor que une
+----------------
+
+**“Soy una mujer golpeada por la violencia desde pequeña. A mi hija la mató la pareja. Estoy aquí gracias al amor a mis nietos”** 
+
+**Alexa Perlaza** es otra Madre Coraje. Su hija Victoria tenía 26 años cuando quien fue su pareja la mató. El Durante tres días ella no apareció, luego de matarla, él dejó el cadáver en la vivienda, con el ventilador prendido.
+
+La **madre** recuerda que la última vez que la vio fue en la celebración del cumpleaños de su otro hijo. Ellos eran muy unidos. Ese día se rieron como nunca, comparte.
+
+A **Alexa Perlaza** y el resto de **Madres Coraje**, ese dolor las unió, además de por la búsqueda de justicia, por una meta conjunta: ¡Ni una menos!
+
+Las metas de las Madres Coraje
+------------------------------
+
+Las **Madres Coraje** comparten que su compromiso se extiende hacia la construcción de un futuro donde la **equidad y el respeto** sean pilares fundamentales.
+
+En esa línea, además, buscan brindar **asesorías jurídicas, médicas y psicólogas**, así como ser un referente de formación.
+
+Además, buscan la transformación de la sociedad a través de la enseñanza sobre género, nuevas masculinidades, valores y la problemática de la violencia intrafamiliar.
+
+Servicios de apoyo
+------------------
+
+La **Casa de la Mujer**, en Quito, es un espacio de acogida de la Unidad Patronato Municipal San José, con capacidad para 40 personas: mujeres y sus hijos menores de edad.
+
+En el lugar, hasta donde llegan por derivación judicial o por contacto a la línea gratuita **1800-288-523**. En este reciben alimentación, vivienda, talleres formativos, apoyo psicológico y legal.
+
+La **Casa Matilde**, en cambio, es la primera casa de acogida para casos de género en Ecuador. Esta se fundó en 1990.
+
+En el 2000, se formalizó como **[Fundación Casa de Refugio Matilde](https://fundacionmatilde.org/ "https://fundacionmatilde.org/")**, en honor a Matilde Hidalgo Navarro, pionera en la defensa de los derechos de las mujeres ecuatorianas.
+
+La **Casa Matilde** es una organización no gubernamental sin fines de lucro, que brinda servicios de albergue temporal para mujeres y sus hijos, así como consulta externa.
+
+Teléfono de apoyo a víctimas de violencia: **099 66 96 723** (atención en horarios de oficina).
+
+Ayuda en línea
+--------------
+
+Un primer contacto con los espacios es una llamada al **911**. Aunque, además, están los servicios de guía y apoyo como el Centro de Apoyo Integral Tres Manuelas, en el Centro Histórico de Quito, en la calle Loja.
+
+Las Juntas Metropolitanas de Protección de Derechos son otra opción para pedir apoyo. La denuncia se puede realizar en la página [inclusionsocial.quito.gob.ec](https://inclusionsocial.quito.gob.ec/).
+
+Esperanza en el 25 de noviembre
+-------------------------------
+
+En el **Día Internacional de la Eliminación de la Violencia contra las Mujeres**, EL COMERCIO se une a la ruta de elevar las voces de las mujeres.
+
+¡Si silenciamos las historias, perpetuamos la violencia! Con este lema, **Esperanza** es el inicio de un camino sostenido, con voces y rostros de esa realidad oculta y, a la par, palpable.
+
+En la primera temporada, la comunidad podrá escuchar ocho entregas, a través de la cuenta de Spotify de **EL COMERCIO**.
+
+Se trata de un **pódcast** quincenal que recaba historias de mujeres que experimentaron distintos tipos de violencia, cuyas vidas cambiaron tras romper el silencio, encontrar redes de apoyo, la restitución de sus derechos y generar nuevos proyectos de vida.
+
+**Esperanza** es un sí a la vida de mujeres talentosas, inteligentes, risueñas, versátiles y con voz propia.
+
+Yamandú Orsi es el nuevo presidente de Uruguay
+==============================================
+
+Yamandú Orsi sucederá a Luis Lacalle Pou, el próximo 1 de marzo de 2025.
+------------------------------------------------------------------------
+
+![El candidato del Frente Amplio, Yamandú Orsi (c), celebra la victoria en las elecciones con sus seguidores este domingo en Montevideo (Uruguay). Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/102240c42afce590d83444db711851b3b8652130.jpg)
+
+Yamandú Orsi es el próximo presidente de un Uruguay. Tras una cerrada votación y cuando todavía el escrutinio oficial no daba a ninguno de los candidatos como ganador, Luis Lacalle Pou y Álvaro Delgado felicitaron al candidato por el Frente Amplio. Él se hizo con el triunfo por poco más de 90 mil votos.
+
+Más noticias
+------------
+
+* [2,7 millones de uruguayos van a las urnas para elegir a la nueva dupla presidencial](https://www.elcomercio.com/actualidad/mundo/abren-los-centros-de-votacion-para-la-segunda-vuelta-de-las-presidenciales-en-uruguay.html "2,7 millones de uruguayos van a las urnas para elegir a la nueva dupla presidencial")
+* [Los candidatos presidenciales uruguayos se comprometieron a no subir impuestos](https://www.elcomercio.com/actualidad/mundo/candidatos-presidenciales-uruguayos-comprometieron-subir-impuestos.html "Los candidatos presidenciales uruguayos se comprometieron a no subir impuestos")
+
+Después de recibir las felicitaciones del actual mandatario y del aspirante perdedor, Orsi brindó un discurso ante los militantes. Ellos celebraron la vuelta del Frente Amplio al Gobierno, el cual ya ocupó en el período 2005-2020 de la mano de Tabaré Vázquez y José Mujica.
+
+Con una campaña centrada en la justicia social, el desarrollo sostenible y la unidad nacional, el abanderado del Frente Amplio conquistó el apoyo de la ciudadanía. Superó al aspirante oficialista Álvaro Delgado en un reñido proceso que obligó a celebrar un balotaje este domingo después de que el pasado 27 de octubre ninguno de los candidato del Frente Amplio, el Partido Nacional y el Partido Colorado lograse mayoría absoluta.
+
+**“Quiero ser presidente”, anticipaba Orsi**
+--------------------------------------------
+
+> “Quiero ser presidente de Uruguay. Fui solo para eso sin pensar en otros planes. Hay uno solo y hacia eso voy. Voy a ser militante toda mi vida y voy a participar en la actividad política siempre”
+
+Esto dijo Orsi al acudir a votar, la mañana de este domingo 24 de noviembre del 2024.
+
+Su deseo se cumplió en una jornada en la que la fórmula que integra junto a Carolina Cosse consiguió un total de 1 185 209 votos de 2 277 566 emitidos. Esto según los datos oficiales de la Corte Electoral. La entidad ya escrutó 99,13% de los votos.
+
+“Seré el presidente del crecimiento nacional”, anunció Orsi, quien el próximo 1 de marzo de 2025 sucederá a Luis Lacalle Pou, del Partido Nacional.
+
+Y agregó: “Voy a ser el presidente que convoque una y otra vez al diálogo nacional para encontrar las mejores soluciones. Por supuesto con nuestros planteos, pero también escuchando bien lo que nos dicen los demás”.
+
+Orsi es un profesor de Historia nacido en una humilde familia del municipio de Canelones. Recalcó que tendrá en cuenta a quienes no votaron por él para construir “un país mejor”.
+
+**Festejos en Montevideo y saludos de presidentes**
+---------------------------------------------------
+
+Miles de militantes celebraron en diferentes puntos de Montevideo en medio de una intensa lluvia. Esto fue el preludio de fuertes tormentas para las próximas horas y que obligaron a activar la alerta naranja.
+
+Autos con banderas, familias caminando por la zona céntrica de la capital, fuegos artificiales y festejos musicales formaron parte del paisaje electoral.
+
+Varios mandatarios se apresuraron a felicitar al presidente electo, entre ellos el presidente de Brasil, Luiz Inácio Lula da Silva.
+
+“Quiero felicitar al pueblo uruguayo por la realización de elecciones democráticas y pacíficas. Y, en especial, al presidente electo Yamandú Orsi, al Frente Amplio y a mi amigo Pepe Mujica por la victoria de hoy”. Esto escribió Lula en las redes sociales.
+
+Por su parte, el mandatario de Paraguay, Santiago Peña, felicitó al pueblo uruguayo por su comportamiento cívico. Informó que se comunicó con Orsi para “expresarle el compromiso” de su país “de seguir colaborando” en beneficio de ambas naciones.
+
+En tanto, el presidente de Chile, Gabriel Boric, contó que hablaron de “cómo avanzar juntos, como países hermanos”.
+
 Daniel Noboa rindió cuentas de su año de gestión en cadena nacional
 ===================================================================
 
@@ -41,7 +263,7 @@ El presidente Daniel Noboa emitió una cadena nacional esta noche con una rendic
 
 El presidente **Daniel Noboa** rindió cuentas de su **año de gestión**, este domingo 24 de noviembre de 2024.
 
-Daniel Noboa hizo este anuncio en **cadena nacional** de radio y televisión esta noche.
+Daniel Noboa se presentó en **una cadena nacional** de radio y televisión esta noche, en un video de casi 12 minutos.
 
 ### Más noticias:
 
@@ -87,6 +309,53 @@ Los **depósitos** en el sistema financiero crecieron y se incrementó en 14,2%.
 
 Entregaron el monto más alto de la historia a través de **créditos en la banca pública**, colocaron 5 684 millones en más de 2,5 millones de operaciones.
 
+Se emitieron 10 licencias ambientales para generar energía eléctrica impulsada por el sol, el viento, la biomasa y el calor de la tierra.
+
+Convenio con Japón para el primer parque geotérmico en **Chachimbiro**.
+
+Hasta el primer semestre de 2025, se habrán adicionado **1 598 MW** al Sistema Nacional Interconectado.
+
+Se firmó el tratado de libre comercio entre **Ecuador y China**.
+
+### Programas sociales
+
+“Cuando no hay **corrupción**, la plata alcanza”, dijo el mandatario antes de mencionar los resultados en programas sociales.
+
+Se detuvo un negociado de empresas de **radares** para cobrar multas millonarias.
+
+Entregaron **raciones alimenticias** a 2.8 millones de estudiantes en 12 782 instituciones.
+
+5 000 niños y niñas ya no tienen **desnutrición crónica infantil** en comparación a 2023 e incrementaron la inversión en 40 millones de dólares.
+
+Aumentaron de 30 a 60 millones de dólares los **créditos de desarrollo humano**. Construyeron 794 viviendas y 24 parques.
+
+133 000 familias con el **bono** de los primeros mil días y mejoraron la atención en salud, dijo una voz en off, en el video.
+
+### Salud, educación, infraestructura y otros
+
+Se pagó la deuda histórica a **Solca** para garantizar la atención a pacientes del IESS y se pagaron 2 628 millones al IESS para garantizar los derechos de los afiliados y jubilados.
+
+Además, se condonaron las deudas a 40 000 pequeños agricultores por 200 millones de dólares.
+
+Se firmó el reglamento para fijar el **precio de la leche** y otorgaron 13 200 títulos de tierra y créditos por más de 10 millones de dólares para el programa “Supermujer rural”.
+
+También, se condonó deudas a todas las **juntas de agua**. Se impulsó la creación de la Universidad de Santo Domingo de los Tsáchilas.
+
+Además, se entregaron más de 100 000 **becas gratuitas**, declararon como servicios esenciales a las casas de acogida, entre otros programas de beneficio social.
+
+En **infraestructura**, con una inversión de 332 millones de dólares, se realizan obras en Bolívar, Chimborazo, esmeraldas, Manabí, Carchi, Morona Santiago, Imbabura, Zamora Chinchipe, Guayas, Santa Elena, El Oro, Galápagos, Pichincha, Azuay, Sucumbíos.
+
+### Petróleo
+
+Se consiguió **inversión privada** por 602 millones de dólares para aumentar la inversión de petróleo en el Bloque 61.
+
+Las **exportaciones petroleras** aumentaron en un 6%, llegando a 6 806 millones, de enero a octubre de este año.
+
+Intervención final de Daniel Noboa por su año de gestión
+--------------------------------------------------------
+
+**“En este primer año de Gobierno, hemos enfrentado con decisión a las mafias de la política, el narcotráfico y la corrupción que tanto han lastimado a nuestra gente (…) estamos arreglando lo que dañaron los del viejo Ecuador, sigamos construyendo este nuevo Ecuador”, concluyó el presidente Daniel Noboa.**
+
 > En [#UnAñoDeGestión](https://twitter.com/hashtag/UnA%C3%B1oDeGesti%C3%B3n?src=hash&ref_src=twsrc%5Etfw) hemos hecho lo que nadie antes se había atrevido:  
 >   
 > ✅️ Declaramos la guerra a los narcoterroristas y a los políticos corruptos.  
@@ -95,8 +364,6 @@ Entregaron el monto más alto de la historia a través de **créditos en la banc
 > ¡Sigamos construyendo juntos [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw)¡ 🇪🇨💪[#ElNuevoEcuadorNoSeDetiene](https://twitter.com/hashtag/ElNuevoEcuadorNoSeDetiene?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YkILtUTJJj](https://t.co/YkILtUTJJj)
 > 
 > — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 25, 2024](https://twitter.com/Presidencia_Ec/status/1860853408871104539?ref_src=twsrc%5Etfw)
-
-**_Noticia en desarrollo…_**
 
 Cortes de luz en Guayaquil este lunes 25 de noviembre
 =====================================================
@@ -864,199 +1131,3 @@ En cuanto a la privacidad digital, Peñaherrera sugiere medidas como el **uso de
 Cambiar periódicamente las claves y mantener control sobre quién recibe información personal también son pasos importantes.
 
 Finalmente, Peñaherrera destaca que es **vital fomentar la confianza para denunciar, acompañar a las víctimas y garantizar su derecho a la privacidad**, asegurando que la vergüenza y la culpa recaigan en los agresores.
-
-Ejército y SNAI trasladan a 1 193 personas privadas de la libertad a otras prisiones
-====================================================================================
-
-El traslado busca mejorar las condiciones de los PPL por medio de la separación de géneros. Se realizó con estrictas medidas de seguridad
------------------------------------------------------------------------------------------------------------------------------------------
-
-![El Ejército ecuatoriano apoyó en el traslado de PPL.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-26-1.jpg)
-
-El **Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad** y a Adolescentes Infractores (SNAI) informó este domingo 24 de noviembre de 2024 las acciones realizadas.
-
-### Más noticias
-
-* [SNAI confirmó la muerte de dos presos en cárcel de Ecuador](https://www.elcomercio.com/actualidad/guayaquil/snai-carcel-ecuador-dos-presos.html "SNAI confirmó la muerte de dos presos en cárcel de Ecuador")
-* [Alerta por fuga de reos en la cárcel Regional Guayas este sábado 23 de noviembre](https://www.elcomercio.com/actualidad/seguridad/fuga-reos-carcel-regional-guayas-sabado-23-noviembre.html "Alerta por fuga de reos en la cárcel Regional Guayas este sábado 23 de noviembre")
-* [Otra guía penitenciaria, asesinada en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/otra-guia-penitenciaria-asesinada-en-guayaquil.html "Otra guía penitenciaria, asesinada en Guayaquil")
-
-Los traslados
--------------
-
-El SNAI llevó a cabo el traslado de población penitenciaria, tanto masculina como femenina, en cumplimiento a una resolución emitida en septiembre de 2023.
-
-Efectivos del Ejército Ecuatoriano estuvieron a cargo de esta operación desde la planificación detallada y minuciosa. Esta es una **operación inédita** dentro del territorio ecuatoriano y a nivel de Sudamérica.
-
-En estas operaciones, se trasladó a **población penitenciaria masculina** del Centro de Privación de Libertad (CPL) Tungurahua N° 1 al CPL Cotopaxi N° 1.
-
-Así mismo, se realizó el traslado de **población penitenciaria femenina** del CPL Cotopaxi para reubicarla en el CPL de Tungurahua.
-
-Para este traslado se implementaron **estrictas medidas de seguridad** en coordinación con las Fuerzas Armadas, Policía Nacional y más instituciones estatales.
-
-De parte del **Ejército Ecuatoriano** se informó que las acciones se ejecutaron con estricto cumplimiento a los protocolos y procesos legales. Sobre todo respetando la normativa legal vigente y en apego a los **derechos humanos.**
-
-La SNAI aclaró que esta reubicación responde a la **necesidad de especializar** los centros penitenciarios para poder brindar atención diferenciada tanto a hombres como a mujeres. Esto, en cumplimiento de normativas internacionales que promueven la **separación de géneros** en los centros de privación de libertad.
-
-Este traslado involucró a 665 hombres y 528 mujeres (**entre ellas, Mayra Salazar)** privados de la libertad y se desarrolló con el objetivo de mejorar las condiciones de seguridad. De este modo también se promueve un entorno más seguro y adecuado para todos los internos[, aclara SNAI.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-En este operativo intervinieron 38 personas del SNAI, 164 efectivos de la Policía Nacional y 253 efectivos del Ejército Ecuatoriano.
-
-> 𝑻𝒓𝒂𝒔𝒍𝒂𝒅𝒐 𝒅𝒆 𝒑𝒆𝒓𝒔𝒐𝒏𝒂𝒔 𝒑𝒓𝒊𝒗𝒂𝒅𝒂𝒔 𝒅𝒆 𝒍𝒂 𝒍𝒊𝒃𝒆𝒓𝒕𝒂𝒅 𝒅𝒆 𝑳𝒂𝒕𝒂𝒄𝒖𝒏𝒈𝒂 𝒚 𝑨𝒎𝒃𝒂𝒕𝒐  
->   
-> Como parte de las operaciones militares en los centros de privación de libertad, en la tarde y noche del sábado 23 de noviembre de 2024, con un amplio… [pic.twitter.com/s6oCQsDUHz](https://t.co/s6oCQsDUHz)
-> 
-> — Ejército Ecuatoriano (@EjercitoECU) [November 24, 2024](https://twitter.com/EjercitoECU/status/1860674827977155024?ref_src=twsrc%5Etfw)
-
-Liga, Deportivo Quito, IDV y otros saltan a la cancha. ¿Quién juega hoy?
-========================================================================
-
-Liga e IDV están obligados a ganar sus partidos, mientras que Liga de Portoviejo y Deportivo Quito se eliminan por el ascenso.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Kendry Páez, jugador de Independiente del Valle que jugará ante Macará. ¿Quién juega hoy?](https://www.elcomercio.com/wp-content/uploads/2024/11/idv.jpg)
-
-La jornada de este domingo 24 de noviembre del 2024 promete ser emocionante en el fútbol ecuatoriano, con **Liga de Quito**, **IDV**, **Deportivo Quito**, **Liga de Portoviejo** y otros en escena.
-
-En la recta final del campeonato de la **Liga Pro,** los dos principales candidatos para ganar la etapa juegan hoy en horario unificado. Se trata de los partidos de **Liga de Quito** y de **Independiente del Valle.**
-
-### Más noticias:
-
-* [Max Verstappen iguala a Vettel y Prost en F1 y quiere el récord de Schumacher](https://www.elcomercio.com/deportes/futbol/max-verstappen-campeon-f1-record-schumacher.html "Max Verstappen iguala a Vettel y Prost en F1 y quiere el récord de Schumacher")
-* [¿A qué hora es el partido entre Liga de Quito y U. Católica?](https://www.elcomercio.com/deportes/futbol/liga-quito-catolica-que-hora-partido.html "¿A qué hora es el partido entre Liga de Quito y U. Católica?")
-* [Barcelona SC ve esfumarse sus opciones tras empate con Técnico Universitario](https://www.elcomercio.com/deportes/futbol/barcelonasc-tecnico-universitario-partido-resultado-ambato.html "Barcelona SC ve esfumarse sus opciones tras empate con Técnico Universitario")
-
-¿Quién juega hoy?
------------------
-
-**Liga de Quito** se enfrentará a Universidad Católica este domingo 24 de noviembre de 2024, en un partido crucial para sus aspiraciones de ganar la segunda etapa de la Liga Pro.
-
-A la misma hora, **Independiente del Valle** recibirá al Macará.
-
-Albos y rayados están empatados con 26 puntos, luchando por el primer lugar, por lo que no pueden permitirse perder puntos.
-
-El encuentro de Católica vs. Liga de Quito se jugará a las 15:30 en el Estadio Olímpico Atahualpa, coincidiendo con el partido entre **Independiente del Valle y Macará** en la cancha de los rayados.
-
-Deportivo Quito visita a Liga de Portoviejo
--------------------------------------------
-
-**Liga de Portoviejo** recibe al **Deportivo Quito** por el cotejo de vuelta de los cuartos de final del Nacional de Ascenso.
-
-El partido se jugará a las 15:00 en el estadio **Reales Tamarindos**, y Deportivo Quito buscará remontar la derrota por 1-0 en el partido de ida.
-
-Se espera un estadio lleno para este cotejo entre dos tradicionales clubes de Ecuador.
-
-La afición de ambos equipos vive con gran esperanza esta oportunidad para clasificar a las semifinales y aspirar al ascenso.
-
-Partidos de interés
--------------------
-
-Estos son algunos partidos que se jugarán hoy en el mundo:
-
-Ipswich Town vs. Manchester United 11:30
-
-Napoli vs. Roma 12:00
-
-Leganés vs. Real Madrid a las 12:30
-
-Max Verstappen iguala a Vettel y Prost en F1 y quiere el récord de Schumacher
-=============================================================================
-
-Max Verstappen es el campeón mundial de F1 y en Las Vegas el ganador de la carrera fue el piloto de Mercedes George Russell
----------------------------------------------------------------------------------------------------------------------------
-
-![Max Verstappen acumula cuatro títulos consecutivos desde que en 2021 ganara su primer Mundial de F1.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY.jpg)
-
-El neerlandés Max Verstappen (Red Bull) igualó este domingo 24 de noviembre del 2024 los cuatro títulos mundiales de **Fórmula 1** (**F1**) con los que cuentan el francés **Alain Prost** y el alemán **Sebastian Vettel**, al proclamarse en el GP de Las Vegas tetracampeón del mundo.
-
-**Verstappen**, que acumula cuatro títulos consecutivos desde que en 2021 ganara su primer Mundial en la última carrera de la temporada, amenaza ahora el récord del alemán Michael Schumacher, que es el único en haber conseguido cinco títulos de manera consecutiva, un hito que logró desde el año 2000 hasta el 2004 y que rompió el español Fernando Alonso.
-
-### Más noticias:
-
-* [¿A qué hora es el partido entre Liga de Quito y U. Católica?](https://www.elcomercio.com/deportes/futbol/liga-quito-catolica-que-hora-partido.html "¿A qué hora es el partido entre Liga de Quito y U. Católica?")
-* [Gustavo Costas y la alegría tras el sufrimiento en Racing Club](https://www.elcomercio.com/deportes/futbol/gustavo-costas-alegria-sufrimiento-racing-club.html "Gustavo Costas y la alegría tras el sufrimiento en Racing Club")
-* [Libertad, Imbabura y Cumbayá aún luchan por evitar el descenso](https://www.elcomercio.com/deportes/futbol/descenso-cumbaya-imbabura-libertad-ligapro-cuenca.html "Libertad, Imbabura y Cumbayá aún luchan por evitar el descenso")
-
-Los récords y Max Verstappen
-----------------------------
-
-El piloto de la escudería **Red Bull** igualó, asimismo, los cuatro títulos mundiales seguidos que en su día consiguieron el argentino **Juan Manuel Fangio** entre 1954 y 1957, el alemán Sebastian Vettel entre 2010 y 2013 y el británico **Lewis Hamilton**, entre 2017 y 2020.
-
-Con estos cuatro Mundiales, Max Verstappen, que todavía cuenta con 27 años, solo tiene por delante de él en la clasificación con más títulos a Schumacher y a Hamilton, ambos con siete, y al argentino Fangio, que sumó un total de cinco títulos y que hasta llegado el siglo XXI era el referente total de la categoría reina del automovilismo.
-
-Asimismo, con este cuarto entorchado, Max Verstappen superó los títulos mundiales de grandes figuras del automovilismo como el australiano Jack Brabham, el británico Jackie Stewart, el austríaco Niki Lauda, y los brasileños Nelson Piquet y Ayrton Senna.
-
-Ahora mismo, Max es el tercer piloto con más victorias totales en la Formula 1, con 62 y casi un 30 % de triunfos respecto al total de carreras disputado. Solo **Schumacher**, con 91, y Hamilton, con 105, superan al neerlandés, que cuenta con un porcentaje de victorias muy similar al de los dos primeros.
-
-![El piloto británico George Russell, de Mercedes ganó en la Fórmula 1 en Las Vegas, Estados Unidos, el 24 de noviembre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/f1-1024x683.jpg)
-
-El piloto británico George Russell, de Mercedes ganó en la Fórmula 1 en Las Vegas, Estados Unidos, el 24 de noviembre del 2024. Foto: EFE
-
-Las Vegas
----------
-
-El piloto de Mercedes George Russell de Gran Bretaña, el piloto de la Scuderia Ferrari Carlos Sainz Jr. de España y el piloto de Mercedes Lewis Hamilton de Gran Bretaña suben al podio tras el Gran Premio de Fórmula Uno de Las Vegas en el Circuito del Strip de Las Vegas, Estados Unidos.
-
-Obras de pavimentación del carril de la Ecovía causan nuevos cierres viales
-===========================================================================
-
-La Epmmop ejecuta cierres vehiculares en la av. 6 de Diciembre y Tarqui y también en el cruce de la Tarqui con la av. 12 de Octubre.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Las obras de pavimentación avanzan al sector de La Alameda.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-25-1.jpg)
-
-La **Empresa Metropolitana de Obras Públicas** de Quito (Epmmop) informó que la obra de **hormigonado** del carril exclusivo de la Ecovía **avanza en la av. 6 de Diciembre hacia La Alameda.**
-
-### Más noticias
-
-* [En centro comercial de Quito, armados con uniformes de la Policía asaltan una joyería](https://www.elcomercio.com/actualidad/quito/en-centro-comercial-de-quito-armados-con-uniformes-de-la-policia-asaltan-una-joyeria.html "En centro comercial de Quito, armados con uniformes de la Policía asaltan una joyería")
-* [Incendio de un tanquero deja un fallecido y tres heridos en la avenida Simón Bolívar](https://www.elcomercio.com/actualidad/quito/cierre-de-la-avenida-simon-bolivar-en-quito-debido-a-incendio-de-un-tanquero.html "Incendio de un tanquero deja un fallecido y tres heridos en la avenida Simón Bolívar")
-* [Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-del-lunes-25-al-jueves-28-de-noviembre.html "Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre")
-
-Nuevos cierres viales
----------------------
-
-Los trabajos en el carril de la Ecovía llegaron a la **calle Tarqui**, por ello se realizan dos cierres en los cruces de la av. 6 de Diciembre.
-
-La **Empresa Metropolitana de Obras Públicas** (Epmmop) ejecuta cierres vehiculares en la **av. 6 de Diciembre** y Tarqui y también en el cruce de la Tarqui con **la av. 12 de Octubre.**
-
-Este cierre se realiza desde el 22 de noviembre y se extenderá hasta el 2 de diciembre, es decir por 10 días. Los agentes metropolitanos de tránsito gestionarán el flujo vehicular en la zona de los cierres.
-
-Luego de este plazo, los trabajos avanzarán en el carril exclusivo entre las paradas Casa de la Cultura y Eugenio Espejo.
-
-Actualmente, la rehabilitación del carril exclusivo **registra un avance del 70% d**e obras ejecutadas del proyecto general. La obra abarca la recuperación de la nueva calzada de hormigón a lo largo de 9 kilómetros desde la estación de la Río Coca hasta la estación del Playón de La Marín.
-
-Ahora, el proceso de la obra se encuentra **entre la av. Patria y el sector de La Alameda.**
-
-Así se realizan los cierres
----------------------------
-
-Los cierres de las intersecciones se ejecutan de la siguiente manera:
-
-* **Cierre av. 12 de Octubre y Tarqui**.
-    * Se cierra el cruce en sentido sur-norte desde la av. 12 de Octubre hasta la Tarqui
-    * Además, **se inhabilita el paso** desde la Tarqui hacia el norte por la av. 12 de Octubre
-    * Quienes deseen circular por la zona pueden tomar la av. 10 de Agosto o tomar la calle Queseras del Medio con dirección a El Trébol.
-    * El carril lateral sur-norte continuará operativo, permitiendo la circulación por el paso deprimido de Las Focas.
-* **Cierre en el cruce de la av. 6 de Diciembre y Tarqui**
-    * Se cerrará el cruce que conecta con la av. 10 de Agosto en sentido oriente-occidente.
-    * También se inhabilitará el paso en sentido sur-norte proveniente del sector de La Contraloría.
-    * Los carriles laterales permanecerán habilitados para el transporte público de la Ecovía y vehículos livianos.
-
-La **Agencia Metropolitana de Tránsito** (AMT) se encargará de la gestión del tránsito vehicular en las zonas con cierres para agilizar la movilidad.
-
-Además, los trabajos se realizarán en las jornadas **de trabajo con horarios extendidos**, tanto diurnos como nocturnos para minimizar el impacto en la ciudadanía.
-
-Se espera que las condiciones climáticas, de seguridad y de **energía eléctrica** permitan avanzar con los trabajos de la manera prevista por la Epmmop.
-
-La Epmmop asegura que la r**uta del carril exclusivo se habilitará por completo** antes de las festividades de diciembre, para que los usuarios puedan trasladarse con normalidad [en este sistema](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> ⛔[#CarrilExclusivoDeLaEcovía](https://twitter.com/hashtag/CarrilExclusivoDeLaEcov%C3%ADa?src=hash&ref_src=twsrc%5Etfw) | ATENCIÓN⛔  
->   
-> Avanzamos con el hormigonado en el perímetro del parque El Arbolito hacia La Alameda.  
->   
-> ‼️Circula por vías alternas‼️  
->   
-> Más cierres viales aquí➡️ [https://t.co/4l4Tpl5xqh](https://t.co/4l4Tpl5xqh)[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw)[#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ahEJZzYwxx](https://t.co/ahEJZzYwxx)
-> 
-> — Obras Quito (@ObrasQuito) [November 23, 2024](https://twitter.com/ObrasQuito/status/1860415947430826140?ref_src=twsrc%5Etfw)
