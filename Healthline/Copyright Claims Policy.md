@@ -190,24 +190,19 @@
 
 Subscribe
 
-[#### Mental Well-Being](https://www.healthline.com/mental-health)
+[#### Skin Care](https://www.healthline.com/skincare)
 
-* [Anxiety](https://www.healthline.com/mental-health/anxiety)
-* [Depression](https://www.healthline.com/mental-health/depression)
-* [Better Sleep](https://www.healthline.com/mental-health/sleep)
-* [Nutrition & Supplements](https://www.healthline.com/mental-health/nutrition-supplements)
-* [Building Relationships](https://www.healthline.com/mental-health/building-relationships)
-* [Emotional Well-Being](https://www.healthline.com/mental-health/mind-and-body)
-* [Navigating Therapy](https://www.healthline.com/mental-health/treatment)
-* [Crisis Support](https://www.healthline.com/mental-health/crisis-support)
-* [ADHD](https://www.healthline.com/mental-health/adhd)
-* [Bipolar Disorder](https://www.healthline.com/mental-health/bipolar)
-* [Eating Disorders](https://www.healthline.com/mental-health/eating-disorders)
-* [OCD](https://www.healthline.com/mental-health/ocd)
-* [Schizophrenia](https://www.healthline.com/mental-health/schizophrenia)
-* [Addiction](https://www.healthline.com/mental-health/addiction)
-* [Services & Reviews](https://www.healthline.com/reviews/mental-health-services-and-products)
-* [Apps](https://www.healthline.com/mental-health/apps)
+* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
+* [Science](https://www.healthline.com/skincare/skin-science)
+* [Ingredients](https://www.healthline.com/skincare/ingredients)
+* [Routine](https://www.healthline.com/skincare/build-your-routine)
+* [Acne](https://www.healthline.com/skincare/acne)
+* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
+* [Procedures](https://www.healthline.com/skincare/procedures)
+* [Products](https://www.healthline.com/skincare/products)
+* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
+* [Natural](https://www.healthline.com/skincare/natural-and-diy)
+* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
 
 Ad & Sponsorship Policy
 =======================
