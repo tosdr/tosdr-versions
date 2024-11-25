@@ -33,7 +33,7 @@ Most popular today
 * [Depression](https://healthydebate.ca/topic/depression/) (25)
 * [Misinformation](https://healthydebate.ca/topic/misinformation/) (98)
 * [Nursing](https://healthydebate.ca/topic/nursing/) (28)
-* [End of Life](https://healthydebate.ca/topic/end-of-life/) (127)
+* [End of Life](https://healthydebate.ca/topic/end-of-life/) (128)
 * [In Memoriam](https://healthydebate.ca/topic/in-memoriam/) (5)
 * [MAiD](https://healthydebate.ca/topic/maid/) (32)
 * [Environment](https://healthydebate.ca/topic/environment/) (66)
