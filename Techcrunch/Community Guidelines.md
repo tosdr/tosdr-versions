@@ -181,11 +181,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Hyundai And Kia Recalls](https://techcrunch.com/2024/11/22/hyundai-and-kia-recall-208000-evs/)
-* [Bluesky](https://techcrunch.com/2024/11/22/how-to-turn-a-bluesky-starter-pack-into-a-list/)
-* [OpenAI Lawsuit](https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/)
-* [Anthropic](https://techcrunch.com/2024/11/22/anthropic-raises-an-additional-4b-from-amazon-makes-aws-its-primary-cloud-partner/)
-* [Google Monopoly](https://techcrunch.com/2024/11/20/doj-google-must-sell-chrome-to-end-monopoly/)
+* [Anthropic](https://techcrunch.com/2024/11/25/anthropic-proposes-a-way-to-connect-data-to-ai-chatbots/)
+* [Bending Spoons Acquisition](https://techcrunch.com/2024/11/25/bending-spoons-is-taking-video-platform-brightcove-private-in-233m-acquisition/)
+* [Bluesky](https://techcrunch.com/2024/11/25/bluesky-falling-foul-of-eu-rules-by-not-reporting-user-numbers-across-the-bloc/)
+* [iPhone App Of The Year](https://techcrunch.com/2024/11/25/apple-again-snubs-ai-in-its-iphone-app-of-the-year-finalists/)
+* [Instagram Location Sharing](https://techcrunch.com/2024/11/25/instagram-takes-on-snapchat-with-new-location-sharing-feature/)
 * [Tech Layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
