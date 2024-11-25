@@ -17,8 +17,7 @@ Open menu
     * [Professional Services](https://www.ovhcloud.com/en/professional-services/)
 * Communities
     * Back to menu
-    * OVHcloud Community
-        
+    * [OVHcloud Community](https://community.ovhcloud.com/)
     * [OVHcloud Blog](https://blog.ovhcloud.com/ "OVHcloud Blog")
     * [Events](https://events.ovhcloud.com/en/)
 * Learn
