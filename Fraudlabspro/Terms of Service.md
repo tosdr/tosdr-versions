@@ -143,7 +143,7 @@ Review your fraud order on-the-go using the mobile app
 © 2013 - 2024 [FraudLabsPro.com](https://www.fraudlabspro.com/). All Rights Reserved. [Terms of Service](https://www.fraudlabspro.com/terms-of-service) | [Privacy Policy](https://www.fraudlabspro.com/privacy-policy) | [SLA](https://www.fraudlabspro.com/sla) | [Cookie Notice](https://www.fraudlabspro.com/cookie-notice)
 
 * [](https://www.facebook.com/FraudLabsPro)
-* [](https://twitter.com/FraudLabsPro)
+* [](https://x.com/FraudLabsPro)
 * [](https://www.reddit.com/r/fraudlabspro/)
 * [](https://github.com/fraudlabspro/)
 * [](https://www.youtube.com/@fraudlabspro)
