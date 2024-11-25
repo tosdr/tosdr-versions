@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
+[Kate Middleton’s Comeback Has Everyone Saying the Same Thing ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/1-2-scaled.jpeg)](https://herbeauty.co/entertainment/kate-middleton-s-comeback-has-everyone-saying-the-same-thing/) 
+
 [8 Toxic Behaviors You Shouldn’t Put Up With in a Relationship ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/5-4.jpg)](https://herbeauty.co/relationships/8-toxic-behaviors-you-shouldn-t-put-up-with-in-a-relationship/) 
 
 [The Surprising Reason for Your Eye Bags—and How to Fix It  ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/0cover.jpg)](https://herbeauty.co/beauty/the-surprising-reason-for-your-eye-bags-and-how-to-fix-it/)  
-
-[10 Moments That Made Us Stop Rooting For Our Favorite TV Characters ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/3-1.webp)](https://herbeauty.co/entertainment/10-moments-that-made-us-stop-rooting-for-our-favorite-tv-characters/) 
 
 Advertisements
 
