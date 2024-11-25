@@ -14,11 +14,19 @@ Recommendations
 
 Audio
 
-* [![Children’s & YA Books That Celebrate Native American Heritage](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/04160201/Diversity-Nov-Native-American-Heritage-Month-HL-1500x500-v3.jpg)
+* [![The Best Picture Books of 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25110717/best-books-2024-600x314-picture.jpg)
     
-    Children’s & YA Books That Celebrate Native American Heritage
+    The Best Picture Books of 2024
     
-    Learn More >](https://www.readbrightly.com/native-american-history-experience-kids-teens/)
+    Learn More >](https://www.readbrightly.com/picture-books-2024/)
+
+* * *
+
+* [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
+    
+    Join Our Authors for Upcoming Events
+    
+    Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 * * *
 
@@ -27,14 +35,6 @@ Audio
     New Releases
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
-
-* * *
-
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
-    
-    Books Bans Are on the Rise in America
-    
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * <
     
@@ -62,7 +62,7 @@ Audio
 * [Spanish Language Nonfiction](https://www.penguinrandomhouse.com/books/spanish-language-nonfiction/)
 * [Series](https://www.penguinrandomhouse.com/series/)
 * [Gray Man](https://www.penguinrandomhouse.com/series/AYX/gray-man)
-* [Dark Star Trilogy](https://www.penguinrandomhouse.com/series/TD5/the-dark-star-trilogy/)
+* [Rebel Blue Ranch](https://www.penguinrandomhouse.com/series/F3Q/rebel-blue-ranch/)
 * [All Souls](https://www.penguinrandomhouse.com/series/AJG/all-souls-series/)
 * [A Song of Ice and Fire](https://www.penguinrandomhouse.com/series/SOO/a-song-of-ice-and-fire/)
 * [Penguin Classics](https://www.penguinrandomhouse.com/series/B45/penguin-clothbound-classics)
@@ -137,8 +137,8 @@ Audio
     
 * [Reese's Book Club](https://www.penguinrandomhouse.com/the-read-down/reeses-book-club-x-hello-sunshine-book-picks)
 * [Oprah’s Book Club](https://www.penguinrandomhouse.com/the-read-down/oprahs-book-club)
-* [Guide: _Happy Place_](https://www.penguinrandomhouse.com/books/704944/happy-place-by-emily-henry/9780593441275/readers-guide/)
-* [Guide: _The Last White Man_](https://www.penguinrandomhouse.com/books/703278/the-last-white-man-by-mohsin-hamid/9780593538821/readers-guide/)
+* [Guide: _Tell Me Everything_](https://www.penguinrandomhouse.com/books/706912/tell-me-everything-oprahs-book-club-by-elizabeth-strout/9780593446096/readers-guide/)
+* [Guide: _James_](https://www.penguinrandomhouse.com/books/738749/james-by-percival-everett/9780385550369/readers-guide/)
 * <
     
 
@@ -167,7 +167,7 @@ Audio
     
     [Recommendations\>](https://www.penguinrandomhouse.com/content-archive/)
 * [Book Lists](https://www.penguinrandomhouse.com/the-read-down/)
-* [Books To Read if You Love "Beetlejuice"](https://www.penguinrandomhouse.com/the-read-down/books-like-beetlejuice/)
+* [Books To Read if You Love "Wicked"](https://www.penguinrandomhouse.com/the-read-down/books-like-wicked/)
 * [Western Romance Novels](https://www.penguinrandomhouse.com/the-read-down/western-romance-novels-and-historical-fiction/)
 * [Insightful Therapy Books To Read This Year](https://www.penguinrandomhouse.com/the-read-down/therapy-books/)
 * [Historical Fiction With Female Protagonists](https://www.penguinrandomhouse.com/the-read-down/historical-fiction-featuring-strong-female-protagonists/)
@@ -232,7 +232,7 @@ Popular
 
 * * *
 
-[Gray Man](https://www.penguinrandomhouse.com/series/AYX/gray-man)[Dark Star Trilogy](https://www.penguinrandomhouse.com/series/TD5/the-dark-star-trilogy/)[All Souls](https://www.penguinrandomhouse.com/series/AJG/all-souls-series/)[A Song of Ice and Fire](https://www.penguinrandomhouse.com/series/SOO/a-song-of-ice-and-fire/)[Penguin Classics](https://www.penguinrandomhouse.com/series/B45/penguin-clothbound-classics)[View All \>](https://www.penguinrandomhouse.com/series/)
+[Gray Man](https://www.penguinrandomhouse.com/series/AYX/gray-man)[Rebel Blue Ranch](https://www.penguinrandomhouse.com/series/F3Q/rebel-blue-ranch/)[All Souls](https://www.penguinrandomhouse.com/series/AJG/all-souls-series/)[A Song of Ice and Fire](https://www.penguinrandomhouse.com/series/SOO/a-song-of-ice-and-fire/)[Penguin Classics](https://www.penguinrandomhouse.com/series/B45/penguin-clothbound-classics)[View All \>](https://www.penguinrandomhouse.com/series/)
 
 [New Releases
 
@@ -264,9 +264,9 @@ Categories
 
 [Board Books](https://www.penguinrandomhouse.com/books/board-books-childrens/)[Picture Books](https://www.penguinrandomhouse.com/books/picture-books-childrens/)[Guided Reading Levels](https://www.penguinrandomhouse.com/books/leveled-readers/)[Middle Grade](https://www.penguinrandomhouse.com/books/middle-grade-books-childrens/)[Activity Books](https://www.penguinrandomhouse.com/books/activity-books-childrens/)[View All \>](https://www.penguinrandomhouse.com/books/childrens/)
 
-[Children’s & YA Books That Celebrate Native American Heritage
+[The Best Picture Books of 2024
 
-Learn More >](https://www.readbrightly.com/native-american-history-experience-kids-teens/)
+Learn More >](https://www.readbrightly.com/picture-books-2024/)
 
 Popular
 
@@ -292,7 +292,7 @@ For Book Clubs
 
 * * *
 
-[Reese's Book Club](https://www.penguinrandomhouse.com/the-read-down/reeses-book-club-x-hello-sunshine-book-picks)[Oprah’s Book Club](https://www.penguinrandomhouse.com/the-read-down/oprahs-book-club)[Guide: _Happy Place_](https://www.penguinrandomhouse.com/books/704944/happy-place-by-emily-henry/9780593441275/readers-guide/)[Guide: _The Last White Man_](https://www.penguinrandomhouse.com/books/703278/the-last-white-man-by-mohsin-hamid/9780593538821/readers-guide/)
+[Reese's Book Club](https://www.penguinrandomhouse.com/the-read-down/reeses-book-club-x-hello-sunshine-book-picks)[Oprah’s Book Club](https://www.penguinrandomhouse.com/the-read-down/oprahs-book-club)[Guide: _Tell Me Everything_](https://www.penguinrandomhouse.com/books/706912/tell-me-everything-oprahs-book-club-by-elizabeth-strout/9780593446096/readers-guide/)[Guide: _James_](https://www.penguinrandomhouse.com/books/738749/james-by-percival-everett/9780385550369/readers-guide/)
 
 [Books Bans Are on the Rise in America
 
@@ -326,7 +326,7 @@ Learn More >](https://www.penguinrandomhouse.com/authors/events/)
 
 * * *
 
-[Books To Read if You Love "Beetlejuice"](https://www.penguinrandomhouse.com/the-read-down/books-like-beetlejuice/)[Western Romance Novels](https://www.penguinrandomhouse.com/the-read-down/western-romance-novels-and-historical-fiction/)[Insightful Therapy Books To Read This Year](https://www.penguinrandomhouse.com/the-read-down/therapy-books/)[Historical Fiction With Female Protagonists](https://www.penguinrandomhouse.com/the-read-down/historical-fiction-featuring-strong-female-protagonists/)[Best Thrillers of All Time](https://www.penguinrandomhouse.com/the-read-down/best-thrillers-of-all-time/)[Manga and Graphic Novels](https://www.penguinrandomhouse.com/the-read-down/manga-graphic-novels/)
+[Books To Read if You Love "Wicked"](https://www.penguinrandomhouse.com/the-read-down/books-like-wicked/)[Western Romance Novels](https://www.penguinrandomhouse.com/the-read-down/western-romance-novels-and-historical-fiction/)[Insightful Therapy Books To Read This Year](https://www.penguinrandomhouse.com/the-read-down/therapy-books/)[Historical Fiction With Female Protagonists](https://www.penguinrandomhouse.com/the-read-down/historical-fiction-featuring-strong-female-protagonists/)[Best Thrillers of All Time](https://www.penguinrandomhouse.com/the-read-down/best-thrillers-of-all-time/)[Manga and Graphic Novels](https://www.penguinrandomhouse.com/the-read-down/manga-graphic-novels/)
 
 [Articles](https://www.penguinrandomhouse.com/articles/)
 
