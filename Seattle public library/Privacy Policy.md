@@ -1,7 +1,3 @@
-* **E-book technical issues**
-    
-    There is a problem with OverDrive and the Libby app, which may affect your ability to check out or place holds on e-books or e-audiobooks. We apologize for the inconvenience. 
-
 * **The Seattle Public Library Is Closed On Thanksgiving Day**
     
     All locations of The Seattle Public Library and book returns at the Central Library will be closed on Thanksgiving Day, Thursday, November 28.
