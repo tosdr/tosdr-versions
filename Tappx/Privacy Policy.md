@@ -1,5 +1,3 @@
- 
-
 [![Tappx](https://www.tappx.com/wp-content/uploads/2022/10/tappx.svg)](https://www.tappx.com/)
 
 * Profiles
