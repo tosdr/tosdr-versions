@@ -117,61 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Johan Botha - Brand Xplosion
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=149797790)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=42070921)  
+TRACKFORCE (Pty) Ltd
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=63539438)  
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=116378283)  
+IEMS (PTY) ltd
+
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=35529545)  
+SA Security Brokerz (Pty) Ltd
+
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=9424503)  
+Digifax Pty) Ltd t/a Findfish
+
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=9992047)  
+MONSTER SECURITY GUARDING
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=146921204)  
+VIV'S TRUCKS (Pty) Ltd. (117)
+
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=27614219)  
 NGB HOLDINGS PTY LTD
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=207730590)  
-Westside Car Audio CC
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=56240445)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=2117000)  
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=55471966)  
 Three Moons Emporium
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=112385526)  
-TechnoDezi PTY(LTD)
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=46153445)  
+Cape Adventure Zone
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=154249904)  
-Website Café (PTY) LTD
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=114199092)  
+KTEN PARTS
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=172970915)  
-Norton Medical & Consult - Namibia
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=9970809)  
+Itroniq (Pty) Ltd
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=114046582)  
-IYD
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=85999247)  
+Nogana Events and Decor
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=202790114)  
-Desygn
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=22579352)  
+Wiselink Broadband Dundee
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=101640361)  
-INVOICES/JOBCARDS ONLINE
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=149564877)  
-Sarabi
-
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=177131408)  
-Moulded Wax SA - The Candle Store
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=40921214)  
-National Elite Security Services (PTY) LTD
-
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=150756538)  
-FRAMED BY ANTON (Pty) Ltd.
-
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=f7fde154e04220eac7817fa0135410b1b1ba2b81a892773376e0504470fbff37&c=99664847)  
-MONSTER CONNECT (PTY) LTD
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=36584533)  
+CLEVER STUDENTS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
