@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### US migrant crisis
+#### Breaking News
 
-[2-year-old migrant girl picked up at border tells cops she's come to US alone to find her parents](https://nypost.com/2024/11/25/us-news/2-year-old-migrant-girl-tells-cops-shes-come-to-us-alone-to-find-her-parents/)
+[Jack Smith files motion to dismiss Jan. 6 case against Donald Trump before his inauguration](https://nypost.com/2024/11/25/us-news/jack-smith-files-motion-to-dismiss-jan-6-case-against-donald-trump-before-his-inauguration/)
 
 Privacy Notice Highlights
 =========================
