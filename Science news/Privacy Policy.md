@@ -92,6 +92,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
+            ### [Dengue is classified as an urban disease. Mosquitoes don’t care](https://www.sciencenews.org/article/dengue-mosquitoes-urban-rural-disease)
+            
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")2 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
             ### [Refurbished heart pacemakers work like new](https://www.sciencenews.org/article/refurbished-heart-pacemakers-work-new)
             
             By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")November 22, 2024
@@ -101,12 +107,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Ancient Central Americans built a massive fish-trapping system](https://www.sciencenews.org/article/ancient-fish-trapping-system-maya)
             
             By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")November 22, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Scientists identify a long-sought by-product of some drinking water treatments](https://www.sciencenews.org/article/drinking-water-treatment-byproduct-chloramine)
-            
-            By [Sid Perkins](https://www.sciencenews.org/author/sid-perkins "Posts by Sid Perkins")November 21, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -120,6 +120,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Dengue is classified as an urban disease. Mosquitoes don’t care](https://www.sciencenews.org/article/dengue-mosquitoes-urban-rural-disease)
+            
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")2 hours ago
+            
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [For adult chimps, playing may be more important than previously thought](https://www.sciencenews.org/article/adult-chimps-play-importance-chimpanzee)
@@ -131,12 +137,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Nature’s first fiber optics could light the way to internet innovation](https://www.sciencenews.org/article/clam-fiber-optics-symbiotic-algae)
             
             By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")November 19, 2024
-            
-        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
-            
-            ### [Some people don’t have a mind’s eye. Scientists want to know why](https://www.sciencenews.org/article/minds-eye-brain-aphantasia-imagination)
-            
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")November 18, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
