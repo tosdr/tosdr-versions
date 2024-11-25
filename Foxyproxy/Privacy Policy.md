@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have had consistently good experiences with your support. Thanks again.
+I have been happy with your proxy service and tech support for many years.
 
-Martin Costello
+Paul Kerr
