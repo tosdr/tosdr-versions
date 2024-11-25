@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More Fark for your buck
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Worst Korean man convicted after binge eating to avoid military service. Best Korean man using same strategy is current leader of that country](https://www.fark.com/goto/13473812) ( [thedailybeast.com](https://www.fark.com/goto/13473812) ) » [(0 comments)](https://www.fark.com/comments/13473812/Worst-Korean-man-convicted-after-binge-eating-to-avoid-military-service-Best-Korean-man-using-same-strategy-is-current-leader-of-that-country) |
-| [Discussion](https://www.fark.com/discussion/) | [Can Jalen Hurts and the Philadelphia Eagles go into Inglewood and leave with a victory? Or will Matthew Stafford and the Los Angeles Rams win at home and pull off the upset? Sunday Night Football is at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13473078) ( [espn.com](https://www.fark.com/goto/13473078) ) » [(449 comments)](https://www.fark.com/comments/13473078/Can-Jalen-Hurts-the-Philadelphia-Eagles-go-into-Inglewood-leave-with-a-victory-Or-will-Matthew-Stafford-the-Los-Angeles-Rams-win-at-home-pull-off-upset-Sunday-Night-Football-is-at-820-PM-ET-on-NBCPeacock) |
-| [Sports](https://www.fark.com/sports/) | [Can Jalen Hurts and the Philadelphia Eagles go into Inglewood and leave with a victory? Or will Matthew Stafford and the Los Angeles Rams win at home and pull off the upset? Sunday Night Football is at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13473078) ( [espn.com](https://www.fark.com/goto/13473078) ) » [(449 comments)](https://www.fark.com/comments/13473078/Can-Jalen-Hurts-the-Philadelphia-Eagles-go-into-Inglewood-leave-with-a-victory-Or-will-Matthew-Stafford-the-Los-Angeles-Rams-win-at-home-pull-off-upset-Sunday-Night-Football-is-at-820-PM-ET-on-NBCPeacock) |
-| [Business](https://www.fark.com/business/) | [School shootings? That's an important part of our business model](https://www.fark.com/goto/13473668) ( [cbsnews.com](https://www.fark.com/goto/13473668) ) » [(8 comments)](https://www.fark.com/comments/13473668/School-shootings-Thats-an-important-part-of-our-business-model) |
-| [STEM](https://www.fark.com/stem/) | [The oldest running digital computer in North America](https://www.fark.com/goto/13473756) ( [youtube.com](https://www.fark.com/goto/13473756) ) » [(12 comments)](https://www.fark.com/comments/13473756/The-oldest-running-digital-computer-in-North-America) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Bro Rogan wants Rachel Maddow's job](https://www.fark.com/goto/13473904) ( [foxnews.com](https://www.fark.com/goto/13473904) ) » [(6 comments)](https://www.fark.com/comments/13473904/Bro-Rogan-wants-Rachel-Maddows-job) |
-| [Fandom](https://www.fark.com/fandom/) | [Believe it or not, World of Warcraft is now older than many of its players ... and has no intention of getting on the cart anytime soon](https://www.fark.com/goto/13473414) ( [gamespot.com](https://www.fark.com/goto/13473414) ) » [(37 comments)](https://www.fark.com/comments/13473414/Believe-it-not-World-of-Warcraft-is-now-older-than-many-of-its-players-has-no-intention-of-getting-on-cart-anytime-soon) |
-| [D'awww](https://www.fark.com/dawww/) | [When a leak springs in the house of Maru, a plumber is called. And Maru is there to supervise the repair job from beginning to end, with a break to knead dough](https://www.fark.com/goto/13473492) ( [youtube.com](https://www.fark.com/goto/13473492) ) » [(6 comments)](https://www.fark.com/comments/13473492/When-a-leak-springs-in-house-of-Maru-a-plumber-is-called-And-Maru-is-there-to-supervise-repair-job-from-beginning-to-end-with-a-break-to-knead-dough) |
-| [Food](https://www.fark.com/food/) | [Do you wrap leftovers in aluminum foil? You're doing it wrong](https://www.fark.com/goto/13473824) ( [yahoo.com](https://www.fark.com/goto/13473824) ) » [(5 comments)](https://www.fark.com/comments/13473824/Do-you-wrap-leftovers-in-aluminum-foil-Youre-doing-it-wrong) |
-| [Politics](https://www.fark.com/politics/) | [FA: Trump can't be bothered signing ethics agreement FO: Trump team denied access to government departments they'll be running](https://www.fark.com/goto/13473768) ( [rawstory.com](https://www.fark.com/goto/13473768) ) » [(12 comments)](https://www.fark.com/comments/13473768/FA-Trump-cant-be-bothered-signing-ethics-agreement-FO-Trump-team-denied-access-to-government-departments-theyll-be-running) |
+| [Main](https://www.fark.com/) | [Everything you ever needed to know about turkey pardons](https://www.fark.com/goto/13474152) ( [npr.org](https://www.fark.com/goto/13474152) ) » [(1 comment)](https://www.fark.com/comments/13474152/Everything-you-ever-needed-to-know-about-turkey-pardons) |
+| [Discussion](https://www.fark.com/discussion/) | [Sometimes a Sunday Sermon can hit just right](https://www.fark.com/goto/13473770) ( [youtube.com](https://www.fark.com/goto/13473770) ) » [(4 comments)](https://www.fark.com/comments/13473770/Sometimes-a-Sunday-Sermon-can-hit-just-right) |
+| [Sports](https://www.fark.com/sports/) | [Ten years ago, Odell proved that you only really need one hand. Not that this has ever stopped most Farkers](https://www.fark.com/goto/13473790) ( [youtube.com](https://www.fark.com/goto/13473790) ) » [(3 comments)](https://www.fark.com/comments/13473790/Ten-years-ago-Odell-proved-that-you-only-really-need-one-hand-Not-that-this-has-ever-stopped-most-Farkers) |
+| [Business](https://www.fark.com/business/) | [Wait. "Internet Entrepreneur"? I thought he was just another file-pirating asshole](https://www.fark.com/goto/13474166) ( [apnews.com](https://www.fark.com/goto/13474166) ) » [(4 comments)](https://www.fark.com/comments/13474166/Wait-Internet-Entrepreneur-I-thought-he-was-just-another-file-pirating-asshole) |
+| [STEM](https://www.fark.com/stem/) | [Monarch butterflies may soon get protections under Endangered Species Act. Brock Samson unavailable for comment](https://www.fark.com/goto/13474014) ( [npr.org](https://www.fark.com/goto/13474014) ) » [(3 comments)](https://www.fark.com/comments/13474014/Monarch-butterflies-may-soon-get-protections-under-Endangered-Species-Act-Brock-Samson-unavailable-for-comment) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Former One Direction star could've gone another way. Irony remains undefeated](https://www.fark.com/goto/13474096) ( [boredpanda.com](https://www.fark.com/goto/13474096) ) » [(1 comment)](https://www.fark.com/comments/13474096/Former-One-Direction-star-couldve-gone-another-way-Irony-remains-undefeated) |
+| [Fandom](https://www.fark.com/fandom/) | [Apparently there is no fan interest in seeing Henry Mudd appear in SNW. Yeah, maybe that's because there is no character named Henry Mudd in Star Trek, geniuses](https://www.fark.com/goto/13474134) ( [redshirtsalwaysdie.com](https://www.fark.com/goto/13474134) ) » [(0 comments)](https://www.fark.com/comments/13474134/Apparently-there-is-no-fan-interest-in-seeing-Henry-Mudd-appear-in-SNW-Yeah-maybe-thats-because-there-is-no-character-named-Henry-Mudd-in-Star-Trek-geniuses) |
+| [D'awww](https://www.fark.com/dawww/) | [Police nab the dirty weasel that was stealing kids' shoes from a Japanese kindergarten](https://www.fark.com/goto/13474120) ( [apnews.com](https://www.fark.com/goto/13474120) ) » [(0 comments)](https://www.fark.com/comments/13474120/Police-nab-dirty-weasel-that-was-stealing-kids-shoes-from-a-Japanese-kindergarten) |
+| [Food](https://www.fark.com/food/) | [Everything you ever needed to know about turkey pardons](https://www.fark.com/goto/13474152) ( [npr.org](https://www.fark.com/goto/13474152) ) » [(1 comment)](https://www.fark.com/comments/13474152/Everything-you-ever-needed-to-know-about-turkey-pardons) |
+| [Politics](https://www.fark.com/politics/) | [Elon Musk now the wealthiest individual in history, will celebrate by jumping awkwardly up and down in front of the Mar-A-Lago omelette bar](https://www.fark.com/goto/13473992) ( [in.mashable.com](https://www.fark.com/goto/13473992) ) » [(11 comments)](https://www.fark.com/comments/13473992/Elon-Musk-now-wealthiest-individual-in-history-will-celebrate-by-jumping-awkwardly-up-down-in-front-of-Mar-A-Lago-omelette-bar) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 25 2024 01:42:28  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 25 2024 08:42:43  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
