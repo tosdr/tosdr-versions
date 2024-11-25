@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/rhythms-in-3-4/)
+ [](https://schoolsmusicmarket.com/product/cast-a-spell-halloween-rhythm-worksheet/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/sort-the-eggs-easter-music-worksheet/)
+ [](https://schoolsmusicmarket.com/product/big-fat-music-quiz/)
 
 ###### Browse By Year/Grade
 
