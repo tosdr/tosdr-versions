@@ -2,14 +2,14 @@ Monday, November 25 2024
 
 Breaking News
 
+* [Poll Shows Majority Approve of Trump’s Transition](https://www.conservativedailynews.com/2024/11/poll-shows-majority-approve-of-trumps-transition/)
+* [The People Complaining About Pete Hegseth May Be Giving Us WW III](https://www.conservativedailynews.com/2024/11/the-people-complaining-about-pete-hegseth-may-be-giving-us-ww-iii/)
+* [Today’s Woke Democrats Are Simply Trouble Makers](https://www.conservativedailynews.com/2024/11/todays-woke-democrats-are-simply-trouble-makers/)
+* [Trump Is Doing Something Unexpected — Making The GOP Cool](https://www.conservativedailynews.com/2024/11/trump-is-doing-something-unexpected-making-the-gop-cool/)
+* [President Joe Biden’s Schedule for Monday, November 25, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-monday-november-25-2024/)
 * [The West Is Playing With Fire In Ukraine](https://www.conservativedailynews.com/2024/11/the-west-is-playing-with-fire-in-ukraine/)
 * [Thanksgiving Food Costs Still Gobble Up More Of Americans’ Paychecks Than Any Time Under Trump](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
 * [Importing Poverty Is No Ticket To Prosperity](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
-* [Trump Caps Off The Week With Major Cabinet Picks](https://www.conservativedailynews.com/2024/11/trump-caps-off-the-week-with-major-cabinet-picks/)
-* [Mexican President Says She’s Prepared To Handle Trump’s Mass Deportations](https://www.conservativedailynews.com/2024/11/mexican-president-says-shes-prepared-to-handle-trumps-mass-deportations/)
-* [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
-* [Trump Reveals Scott Bessent As Pick For Treasury Secretary](https://www.conservativedailynews.com/2024/11/trump-reveals-scott-bessent-as-pick-for-treasury-secretary/)
-* [Chinese Agents Can Now Access Every American’s Phone Calls And Texts, GOP Senator Warns](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,67 +130,67 @@ Orange = One-Time Donations
 
 Recent Posts
 
-* [![Joe Biden warmonger](https://www.conservativedailynews.com/wp-content/uploads/2023/01/stg012923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/the-west-is-playing-with-fire-in-ukraine/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/Donald-Trump-and-Melania-Trump-walking-outside-the-White-House.png)](https://www.conservativedailynews.com/2024/11/poll-shows-majority-approve-of-trumps-transition/)
     
-    [The West Is Playing With Fire In Ukraine](https://www.conservativedailynews.com/2024/11/the-west-is-playing-with-fire-in-ukraine/)
+    [Poll Shows Majority Approve of Trump’s Transition](https://www.conservativedailynews.com/2024/11/poll-shows-majority-approve-of-trumps-transition/)
     
-    November 24, 2024
+    November 25, 2024
     
-* [![Bidenomics thanksgiving Joe Biden](https://www.conservativedailynews.com/wp-content/uploads/2023/11/image-37-220x150.png)](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5816-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/the-people-complaining-about-pete-hegseth-may-be-giving-us-ww-iii/)
     
-    [Thanksgiving Food Costs Still Gobble Up More Of Americans’ Paychecks Than Any Time Under Trump](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
+    [The People Complaining About Pete Hegseth May Be Giving Us WW III](https://www.conservativedailynews.com/2024/11/the-people-complaining-about-pete-hegseth-may-be-giving-us-ww-iii/)
     
-    November 24, 2024
+    November 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv112424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/fail/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Transgender-threatens-violence-on-Christians-Conservatives-220x150.jpg)](https://www.conservativedailynews.com/2024/11/todays-woke-democrats-are-simply-trouble-makers/)
     
-    [Fail](https://www.conservativedailynews.com/2024/11/fail/)
+    [Today’s Woke Democrats Are Simply Trouble Makers](https://www.conservativedailynews.com/2024/11/todays-woke-democrats-are-simply-trouble-makers/)
     
-    November 24, 2024
+    November 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/pure-evil-4/)
+* [![Elon Musk MSNBC Maddow](https://www.conservativedailynews.com/wp-content/uploads/2024/11/04-msnbc-buy-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/x-marks-the-spot-3/)
     
-    [Pure Evil](https://www.conservativedailynews.com/2024/11/pure-evil-4/)
+    [X Marks The Spot?](https://www.conservativedailynews.com/2024/11/x-marks-the-spot-3/)
     
-    November 24, 2024
+    November 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/04-hegseth-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/homeboys/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/05/cropped-Van-Jones.jpg)](https://www.conservativedailynews.com/2024/11/cnns-van-jones-illustrates-the-problem-with-the-insulting-democrats/)
     
-    [Homeboys](https://www.conservativedailynews.com/2024/11/homeboys/)
+    [CNN’s Van Jones Illustrates the Problem with the “Insulting” Democrats](https://www.conservativedailynews.com/2024/11/cnns-van-jones-illustrates-the-problem-with-the-insulting-democrats/)
     
-    November 24, 2024
+    November 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5814-220x150.png)](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/09/wp1816998-donald-trump-wallpapers.jpg)](https://www.conservativedailynews.com/2024/11/trump-is-doing-something-unexpected-making-the-gop-cool/)
     
-    [Importing Poverty Is No Ticket To Prosperity](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
+    [Trump Is Doing Something Unexpected — Making The GOP Cool](https://www.conservativedailynews.com/2024/11/trump-is-doing-something-unexpected-making-the-gop-cool/)
     
-    November 23, 2024
+    November 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/us-supreme-court-building-g9793e7da6_1280-220x150.jpg)](https://www.conservativedailynews.com/2024/11/supreme-court-to-determine-whether-congress-unconstitutionally-granted-powers-to-the-fcc/)
+* [![Donald Trump White House Beware of DOGE](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/beware-of-doge/)
     
-    [Supreme Court To Determine Whether Congress Unconstitutionally Granted Powers To The FCC](https://www.conservativedailynews.com/2024/11/supreme-court-to-determine-whether-congress-unconstitutionally-granted-powers-to-the-fcc/)
+    [Beware of DOGE](https://www.conservativedailynews.com/2024/11/beware-of-doge/)
     
-    November 23, 2024
+    November 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Donald-Trump-success-pic-220x150.png)](https://www.conservativedailynews.com/2024/11/trump-caps-off-the-week-with-major-cabinet-picks/)
+* [![Cable streaming](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz112524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/doomed-2/)
     
-    [Trump Caps Off The Week With Major Cabinet Picks](https://www.conservativedailynews.com/2024/11/trump-caps-off-the-week-with-major-cabinet-picks/)
+    [Doomed](https://www.conservativedailynews.com/2024/11/doomed-2/)
     
-    November 23, 2024
+    November 25, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Texas AG Sues Hospital System For Restricting Off-Duty LEO Carry](https://www.thegunpage.com/texas-ag-sues-hospital-system-for-restricting-off-duty-leo-carry/10612099)
+* [RISE Reliant Hunter, Reliant Pro: Their First Bolt-Action Triggers](https://www.thegunpage.com/rise-reliant-hunter-reliant-pro-their-first-bolt-action-triggers/10612098)
+* [Dangerous Games](https://www.thegunpage.com/dangerous-games/10612095) 
+* [TFB Weekly Web Deals 115: Deals for November 25th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-115-deals-for-november-25th-2024/10612094)
+* [Review: Geissele Border Patrol Rifle](https://www.thegunpage.com/review-geissele-border-patrol-rifle/10612101)
+* [Gun Rights Group Targets New York’s Nonresident Carry Restriction](https://www.thegunpage.com/gun-rights-group-targets-new-yorks-nonresident-carry-restriction/10612093)
 * [Grauffel Tops 2024 USPSA Carry Optics Leaderboard, Hetherington Wins U.S. National Title](https://www.thegunpage.com/grauffel-tops-2024-uspsa-carry-optics-leaderboard-hetherington-wins-u-s-national-title/10612092)
 * [Is .357 Magnum Good For Self-Defense?](https://www.thegunpage.com/is-357-magnum-good-for-self-defense/10612087)
 * [6 Reasons Why the AR-15 is Better Than the Shotgun](https://www.thegunpage.com/6-reasons-why-the-ar-15-is-better-than-the-shotgun/10612086)
 * [New York bill would let police ‘briefly seize’ firearms during domestics](https://www.thegunpage.com/new-york-bill-would-let-police-briefly-seize-firearms-during-domestics/10612078)
-* [2024 Holiday Gift Guide: Ammunition](https://www.thegunpage.com/2024-holiday-gift-guide-ammunition/10612076)
-* [Silencer Saturday #356: Reflex Silencer Roundup](https://www.thegunpage.com/silencer-saturday-356-reflex-silencer-roundup/10612074)
-* [NRL22 Base Class Setup: Savage B22 Precision and Arken SH4 6-24×50mm Review](https://www.thegunpage.com/nrl22-base-class-setup-savage-b22-precision-and-arken-sh4-6-24x50mm-review/10612073)
-* [Hawaii Gun Control Laws Targeting Young Adults Challenged](https://www.thegunpage.com/hawaii-gun-control-laws-targeting-young-adults-challenged/10612071)
-* [2024 Holiday Gift Guide: Shotguns](https://www.thegunpage.com/2024-holiday-gift-guide-shotguns/10612070)
-* [TFB Review: The Stinger OTF Knife from Backup Tactical](https://www.thegunpage.com/tfb-review-the-stinger-otf-knife-from-backup-tactical/10612066)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* alan kifer on [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/#comment-783396)
 * charles wilkins on [Parting Gift](https://www.conservativedailynews.com/2024/11/parting-gift/#comment-783386)
 * KayCee on [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/#comment-783370)
 * Stanley Warner on [It Is A Coming Out Party For Trump Supporters](https://www.conservativedailynews.com/2024/11/it-is-a-coming-out-party-for-trump-supporters/#comment-783368)
@@ -240,7 +241,6 @@ Recent Comments
 * Stanley Warner on [Our Elections Need To Be Fixed Before The 2026 Midterms](https://www.conservativedailynews.com/2024/11/our-elections-need-to-be-fixed-before-the-2026-midterms/#comment-783327)
 * [Bill](http://conservativedailynews.com/) on [Crap Fight](https://www.conservativedailynews.com/2024/11/crap-fight/#comment-783326)
 * [Bill](http://conservativedailynews.com/) on [Barrage Of Liberal Judges Will Be Schumer’s Swan Song](https://www.conservativedailynews.com/2024/11/barrage-of-liberal-judges-will-be-schumers-swan-song/#comment-783325)
-* Stanley Warner on [Religious Belief and the 2024 Election](https://www.conservativedailynews.com/2024/11/religious-belief-and-the-2024-election/#comment-783324)
 
 [Close](#)
 
