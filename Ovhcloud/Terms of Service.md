@@ -17,8 +17,7 @@ Open menu
     * [Professional Services](https://www.ovhcloud.com/en-ie/professional-services/)
 * Communities
     * Back to menu
-    * OVHcloud Community
-        
+    * [OVHcloud Community](https://community.ovhcloud.com/)
     * [OVHcloud Blog](https://blog.ovhcloud.com/ "OVHcloud Blog")
     * [Events](https://events.ovhcloud.com/en-ie/)
 * Learn
@@ -215,7 +214,7 @@ Log in to order, manage your products and services, and track your orders.
         * Identity, Security & Operations
             
             * Identity and Access Management (IAM) Secure your access management and enhance your productivity
-            * [Key Management Service (KMS) Beta](https://www.ovhcloud.com/en-ie/identity-security/key-management-service/) Secure your data across all your OVHcloud services from one central place
+            * [Key Management Service (KMS)](https://www.ovhcloud.com/en-ie/identity-security/key-management-service/) Secure your data across all your OVHcloud services from one central place
             * [Service Logs](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor your cloud environment’s performance and security
     * [Bare Metal Pod](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
         * Back to menu
@@ -313,7 +312,7 @@ Log in to order, manage your products and services, and track your orders.
         * Identity, Security & Operations
             
             * Identity and Access Management (IAM) Secure your access management and enhance your productivity
-            * Key Management Service (KMS) Beta Secure your data across all your OVHcloud services from one central place
+            * Key Management Service (KMS) Secure your data across all your OVHcloud services from one central place
             * [Service Logs](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor your cloud environment’s performance and security
 * [Public Cloud](https://www.ovhcloud.com/en-ie/public-cloud/)
     * Back to menu
@@ -452,7 +451,7 @@ Log in to order, manage your products and services, and track your orders.
             
             * Identity and Access Management (IAM) Secure your access management and improve your productivity
             * [OVHcloud Logs Services](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor the performance and security of your cloud environment
-            * Key Management Service (KMS) Beta Secure your data across all your OVHcloud services from one place
+            * [Key Management Service (KMS)](https://www.ovhcloud.com/en-ie/identity-security/key-management-service/) Secure your data across all your OVHcloud services from one place
 * [Hosted Private Cloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/)
     * Back to menu
     * [Hosted Private Cloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/)
@@ -545,7 +544,7 @@ Log in to order, manage your products and services, and track your orders.
         * Identity, Security & Operations
             
             * [Identity and Access Management (IAM)](https://www.ovhcloud.com/en-ie/identity-security/identity-access-management/) Secure your access management and enhance your productivity
-            * Key Management Service (KMS) Beta Secure your data across all your OVHcloud services from one central place
+            * Key Management Service (KMS) Secure your data across all your OVHcloud services from one central place
             * [Service Logs](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor your cloud environment’s performance and security
 * [Solutions](https://www.ovhcloud.com/en-ie/solutions/)
     * Back to menu
