@@ -293,15 +293,16 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![MB&F Horological Machine 8 Mark 2](https://static.ffx.io/images/$zoom_0.781%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_97/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9ef7df2d1402fcbe16b66d37d66fbcb00c9f68b5)](https://www.afr.com/life-and-luxury/fashion-and-style/you-don-t-know-these-watch-brands-you-should-20241111-p5kphy)
+[![ ](https://static.ffx.io/images/$zoom_0.3586%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_621/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f7b50a8aa99766b2d1af14235d7f966a92f82655)](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewel-house-that-s-stuck-in-the-70s-for-good-reason-20241104-p5knlo)
 
-### [You probably don’t know these watch brands. You should](https://www.afr.com/life-and-luxury/fashion-and-style/you-don-t-know-these-watch-brands-you-should-20241111-p5kphy)
+### [The jewel house that’s stuck in the 70s – for good reason](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewel-house-that-s-stuck-in-the-70s-for-good-reason-20241104-p5knlo)
 
-* Bani McSpedden
+* 55 mins ago
+* Eugenie Kelly
 
-* ### [The 70s furniture trend making an unlikely (but welcome) comeback](https://www.afr.com/life-and-luxury/design/the-70s-furniture-trend-making-an-unlikely-but-welcome-comeback-20241023-p5kkjy)
+* ### [The jeweller who spends her downtime searching for sharks](https://www.afr.com/life-and-luxury/fashion-and-style/the-jeweller-who-spends-her-downtime-searching-for-sharks-20241023-p5kkjw)
     
-* ### [How to invest in jewellery](https://www.afr.com/life-and-luxury/fashion-and-style/how-to-invest-in-jewellery-20241111-p5kpin)
+* ### [Jewellery’s hottest trend? Raiding Nanna’s treasure chest](https://www.afr.com/life-and-luxury/fashion-and-style/jewellery-s-hottest-trend-raiding-nanna-s-treasure-chest-20241016-p5kiw1)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -321,17 +322,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![xxYearBaliÂ coverÂ story a year in baliÂ indonesia ; text byÂ PennyÂ Watson
-(handoutÂ image supplied via journalist for use in Traveller, no credit, no syndication)
-Breakout:Â Banyan Tree Escape in Buahan](https://static.ffx.io/images/$zoom_0.776%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_424%2C$y_282/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/8361f2ff09923c925744f6b2e7b3d0577aa3606d)](https://www.afr.com/life-and-luxury/travel/no-walls-no-doors-is-this-the-future-of-luxury-travel-20241118-p5krmq)
+[![ ](https://static.ffx.io/images/$zoom_1.2137%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_70%2C$y_228/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e9469b4eb703debccd56b5f59e57dac7e22aa187)](https://www.afr.com/technology/security-cameras-with-a-two-year-battery-life-sold-20241121-p5ksi7)
 
-### [No walls, no doors – is this the future of luxury travel?](https://www.afr.com/life-and-luxury/travel/no-walls-no-doors-is-this-the-future-of-luxury-travel-20241118-p5krmq)
+### [Security cameras with a two-year battery life? Sold!](https://www.afr.com/technology/security-cameras-with-a-two-year-battery-life-sold-20241121-p5ksi7)
 
-* Ute Junker
+* 55 mins ago
+* John Davidson
 
-* ### [More classic muscle car than tech warrior](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/more-classic-muscle-car-than-tech-warrior-20241105-p5knxo)
+* ### [Will this blueberry wine tempt you for Christmas?](https://www.afr.com/life-and-luxury/food-and-wine/will-this-blueberry-wine-tempt-you-for-christmas-20241120-p5ks8k)
     
-* ### [This jeweller creates custom memento pieces for times of bereavement](https://www.afr.com/life-and-luxury/fashion-and-style/this-jeweller-creates-custom-memento-pieces-for-times-of-bereavement-20240924-p5kd52)
+* ### [Grizzly bears galore and no way to share the moment](https://www.afr.com/life-and-luxury/travel/grizzly-bears-galore-and-no-way-to-share-the-moment-20241002-p5kfe8)
     
 
 [Rich List](https://www.afr.com/rich-list)
