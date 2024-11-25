@@ -2,6 +2,8 @@
 
 ![lz](https://support.astrill.org/server.php?a=09057&request=track&output=nojcrpt)
 
+**Get 83% off** on an AstrillVPN Subscription this Black Friday! [Grab The Deal Now](https://www.astrill.com/pricing?mtm_campaign=blackfridaydeal&mtm_kwd=hb)
+
 [![AstrillVPN](/images/astrill-logo.svg)](https://www.astrill.com/)
 
 * [Features](#)
