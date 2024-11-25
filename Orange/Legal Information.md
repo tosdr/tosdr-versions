@@ -43,12 +43,13 @@
     
     [Close Group menu](#mega-level-2-collapse "Close Group menu")
     
+    * [Innovation](https://www.orange.com/en/group/overview/useful-innovation-that-enables-everyone-to-progress)
     * Overview
         * Overview
         * [Who are we?](https://www.orange.com/en/orange-group)
+        * [Our history](https://www.orange.com/en/group/overview/the-story-of-our-brand)
         * [Our news](https://www.orange.com/en/newsroom/news)
         * [Strategy](https://newsroom.orange.com/lead-the-future-orange-presents-its-new-strategic-plan-which-aims-to-generate-value-from-the-recognized-excellence-of-its-core-business-and-to-grow-sustainably-in-europe-africa-and-the-middle-east-or//?lang=en)
-        * [Innovation](https://www.orange.com/en/group/overview/useful-innovation-that-enables-everyone-to-progress)
         * [Scientific Council](https://www.orange.com/en/scientific-council)
     * [Governance](https://www.orange.com/en/groups-general-management-committee)
         * Governance
