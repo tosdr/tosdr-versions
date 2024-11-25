@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Welt-Aktienindizes: Das sind die Alternativen zum MSCI World](https://www.test.de/Welt-Aktienindizes-Das-sind-die-Alternativen-zum-MSCI-World-6001135-0/ "Welt-Aktienindizes - Das sind die Alternativen zum MSCI World")
-* [Veränderungen der Schild­drüse: Seltener bösartig als angenommen](https://www.test.de/Veraenderungen-der-Schilddruese-Seltener-boesartig-als-angenommen-5952404-0/ "Veränderungen der Schilddrüse - Seltener bösartig als angenommen")
-* [GPS-Tracker im Test: Nicht alle Tracker orten schnell und genau](https://www.test.de/gps-tracker-im-test-6095291-0/ "GPS-Tracker im Test - Nicht alle Tracker orten schnell und genau")
+* [Riskante digitale Geld­anlagen: Die Masche von Profitwallet](https://www.test.de/Riskante-digitale-Geldanlagen-Die-Masche-von-Profitwallet-6118441-0/ "Riskante digitale Geldanlagen - Die Masche von Profitwallet")
+* [Technologie-Aktienfonds: Geld anlegen mit künst­licher Intelligenz](https://www.test.de/Technologie-Aktienfonds-Geld-anlegen-mit-kuenstlicher-Intelligenz-5978907-0/ "Technologie-Aktienfonds - Geld anlegen mit künstlicher Intelligenz")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Medikamente richtig einnehmen: 9 Tipps zum Teilen, Schlu­cken, Aufbewahren](https://www.test.de/Medikamente-richtig-einnehmen-Neun-Tipps-zum-Teilen-Schlucken-und-Aufbewahren-5996599-0/ "Medikamente richtig einnehmen - 9 Tipps zum Teilen, Schlucken, Aufbewahren")
+* [Gold­berg Capital: Unseriöses Angebot für Starlink-Aktien](https://www.test.de/Goldberg-Capital-Unserioeses-Angebot-fuer-Starlink-Aktien-6135792-0/ "Goldberg Capital - Unseriöses Angebot für Starlink-Aktien")
+* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
 
 Service Stiftung Warentest
 
