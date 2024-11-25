@@ -206,6 +206,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+
+Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+
+Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+
+Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+
+Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+
+Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+
+Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+
+Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+
+Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+
+Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen](https://www.bild.de/news/litauen-dhl-flugzeug-aus-leipzig-stuerzt-auf-wohnhaus-ein-toter-67440f0603d64b3540b295f1)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
