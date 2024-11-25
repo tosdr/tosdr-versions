@@ -342,7 +342,9 @@ If you have any comments or questions about this Privacy Policy or our privacy p
 
 For individuals based in the European Union:
 
-Since we do not have an establishment in the European Union, we have appointed an EU based representative to serve as a direct contact for data protection authorities and individuals on our behalf, who can be contacted at [sustain.life@mcf.ie](mailto:sustain.life@mcf.ie) or MCF Legal Technology Solutions Limited, Riverside One, Sir John Rogerson’s Quay, Dublin 2, Ireland.
+Workiva Netherlands B.V. is Sustain.Life’s EU data protection representative. The privacy representative of Workiva Netherlands B.V. can be reached at [privacy@workiva.com](mailto:privacy@workiva.com) or the following address: Workiva Netherlands B.V., Attn: Legal, Achtergracht 14, 1017 WP Amsterdam, Netherlands.
+
+‍
 
 ‍
 
