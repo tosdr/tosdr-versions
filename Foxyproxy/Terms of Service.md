@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your proxy is excellent. The speed was phenomenal. I like the non-recurring option and the 3 day trial option to confirm it works as described. I like the secure random username and password that was generated. The service far exceeded my expectations. I will use it whenever I need a high performance proxy.
+Hey your service is working great with netflix via firefox
 
-Eric Rose
+Sam
