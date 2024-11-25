@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/cast-a-spell-halloween-rhythm-worksheet/)
+ [](https://schoolsmusicmarket.com/product/musical-wordsearch/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/big-fat-music-quiz/)
+ [](https://schoolsmusicmarket.com/product/my-music-book-manuscript-paper/)
 
 ###### Browse By Year/Grade
 
