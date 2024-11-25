@@ -1,6 +1,6 @@
 [Skip To Content](#page-content-section) [Skip To Navigation](#)
 
-[Final Hours — Get a Ring for Thanksgiving! Order by Noon MST Today with Overnight Shipping.](https://www.shaneco.com/engagement-rings/c?promo_name=global_thanksgiving)
+[Shop Our Holiday Gift Guide >](https://www.shaneco.com/christmas-gift-ideas?promo_name=global&promo_id=holiday) [Free Express Shipping & Free 60-Day Returns](https://www.shaneco.com/customer-service/shipping?promo_name=global&promo_id=shipping)
 
 **Item**  has been added to your bag
 
