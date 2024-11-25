@@ -41,17 +41,17 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
-    [![The Hime Cut 101 | 9 Japanese Side Bang Looks & Styling Tips | The Hime cut, a classic hairstyle from ancient Japan that was trendy in the 2000s, is making a modern comeback! This layered haircut features sharp side bangs, blunt front sections, and longer hair in the back. Perfect for those seeking a sleek, statement look, we've rounded up 9 Y2K-inspired step-by-step side bang styles and tips to help you rock this iconic look.](https://www.merakilane.com/wp-content/uploads/2024/11/6-2.png)](https://www.merakilane.com/the-hime-cut-101-9-japanese-side-bang-looks-styling-tips/)
+    [![How to Style Layered Hair | 10 Tips & Tutorials | Whether you have straight, wavy, or curly hair that's short, medium-length, or long, adding layers helps to add texture, volume, and movement. The trick is to learn the best ways to style layers for your face shape and hair type, and this post will teach you exactly that! Click for step-by-step tutorials with styling tips, hacks, and drugstore product recommendations to help you add depth and dimension to your hair and elevate your look!](https://www.merakilane.com/wp-content/uploads/2024/11/1-2.png)](https://www.merakilane.com/how-to-style-layered-hair-10-tips-tutorials/)
     
-    ### [The Hime Cut 101: 9 Japanese Side Bang Looks & Styling Tips](https://www.merakilane.com/the-hime-cut-101-9-japanese-side-bang-looks-styling-tips/)
+    ### [How to Style Layered Hair: 10 Tips & Tutorials](https://www.merakilane.com/how-to-style-layered-hair-10-tips-tutorials/)
     
-    [![How to Identify Your Skin Undertone & Why it Matters | Struggling to find the perfect foundation or feel like your clothes make your skin look dull? It could be because you haven't identified your skin undertone. Your undertone—cool, warm, or neutral—helps you choose the right makeup palettes, nail polish shades, and clothing colors to compliment the color of your skin, ensuring you don't look washed out. Click to find out all the tips and hacks you need to find the right colors for your skin.](https://www.merakilane.com/wp-content/uploads/2024/11/7-1.png)](https://www.merakilane.com/how-to-identify-your-skin-undertone-why-it-matters/)
+    [![8 Neutral Tone Makeup Looks for Every Season | If you have neutral skin tones and want to know what color palettes and makeup products work best, this post is for you. With a balance of warm and cool undertones, you can easily pull off a variety of shades and natural looks. Neutral tones like dusty rose, mossy green, and soft browns are best, and they work in fall, winter, spring, and summer. Click for makeup Dos and Don'ts for natural skin tones plus step-by-step makeup application tutorials!](https://www.merakilane.com/wp-content/uploads/2024/11/7-2.png)](https://www.merakilane.com/8-neutral-tone-makeup-looks-for-every-season/)
     
-    ### [How to Identify Your Skin Undertone (& Why it Matters)](https://www.merakilane.com/how-to-identify-your-skin-undertone-why-it-matters/)
+    ### [8 Neutral Tone Makeup Looks for Every Season](https://www.merakilane.com/8-neutral-tone-makeup-looks-for-every-season/)
     
-    [![9 Layered Haircuts to Refresh Your Look | A layered haircut is the secret to adding volume, movement, and depth to any hair type. Whether you have short, medium, or long hair, layers can transform your style. From short shaggy haircuts with bangs, to shoulder-length cuts, to feathered styles, to long hair with face-framing layers, check out these 9 layered haircuts to add volume to your hair! We've included styling tips and drugstore hair products to help!](https://www.merakilane.com/wp-content/uploads/2024/11/2-1.png)](https://www.merakilane.com/9-layered-haircuts-to-refresh-your-look/)
+    [![8 Everyday Soft Cat Eye Makeup Tips & Tutorials | The dramatic winged eyeliner used in the classic cat eye creates the illusion of an eye lift, making your eyes pop. It's a popular eye makeup trend for a night out but can be a bit too bold for day to day. If you need subtle, natural looks that still make your eyes big and bright, we're sharing our best tips, hacks, and step-by-step videos for beginners to teach you how to get the perfect cat eye whether you have almond, rounded, or hooded eyes.](https://www.merakilane.com/wp-content/uploads/2024/11/8-2.png)](https://www.merakilane.com/8-everyday-soft-cat-eye-makeup-tips-tutorials/)
     
-    ### [9 Layered Haircuts to Refresh Your Look](https://www.merakilane.com/9-layered-haircuts-to-refresh-your-look/)
+    ### [8 Everyday Soft Cat Eye Makeup Tips & Tutorials](https://www.merakilane.com/8-everyday-soft-cat-eye-makeup-tips-tutorials/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -67,6 +67,10 @@ Main Menu
     
     [Natural Remedies](https://www.merakilane.com/category/natural-remedies/)
     
+    [![20 Small Habits that Make a Big Difference | Whether you're trying to break a bad habit, replace it with a better one, or you're looking to completely overhaul your mental and physical health, it can feel very overwhelming. This is where the power of micro habits comes in. Sometimes it’s the small habits that bring the big results. Micro habits work because they’re easy to stick with, even when life gets busy. If you want to make real change in your life, click for a list of tips and ideas!](https://www.merakilane.com/wp-content/uploads/2024/11/6-3.png)](https://www.merakilane.com/20-small-habits-that-make-a-big-difference-and-why/)
+    
+    ### [20 Small Habits that Make a Big Difference (and Why)](https://www.merakilane.com/20-small-habits-that-make-a-big-difference-and-why/)
+    
     [![7 Full Body Barre Workouts that Tighten & Tone Everything | Barre exercises combine ballet, yoga, and pilates and consist of low impact, high intensity movements that offer so many benefits –– it improves balance, coordination, and posture, increases flexibility and range of motion, develops core strength, and it also burns fat and helps build lean muscle for a sculpted body. It's a stress-reducing full-body workout and we've curated the best barre workouts you can do anywhere. Click for more!](https://www.merakilane.com/wp-content/uploads/2024/11/4-2.png)](https://www.merakilane.com/7-full-body-barre-workouts-that-tighten-tone-everything/)
     
     ### [7 Full Body Barre Workouts that Tighten & Tone Everything](https://www.merakilane.com/7-full-body-barre-workouts-that-tighten-tone-everything/)
@@ -74,10 +78,6 @@ Main Menu
     [![18 Filling and Healthy 5-Minute Breakfast Ideas for Busy Mornings | These simple and easy breakfast ideas are perfect for busy mornings. Packed with protein, fiber, and simple ingredients, they’re easy to prep and will keep you full and focused until lunchtime. From smoothies, to overnight oats, to breakfast sandwiches, to burritos, and more, these ideas for kids and adults are equal parts filling and delicious and make the perfect grab-and-go breakfast to enjoy on the way to school or work!](https://www.merakilane.com/wp-content/uploads/2024/11/4-1.png)](https://www.merakilane.com/18-filling-and-healthy-5-minute-breakfast-ideas-for-busy-mornings/)
     
     ### [18 Filling and Healthy 5-Minute Breakfast Ideas for Busy Mornings](https://www.merakilane.com/18-filling-and-healthy-5-minute-breakfast-ideas-for-busy-mornings/)
-    
-    [![8 Tips to Help You Stay Strong During Dry January | Embrace Dry January and kickstart your year with healthier habits! The benefits of this 30-day challenge include things like improved mood and better sleep. It’s a chance to rethink your relationship with alcohol after the holidays. Discover essential tips to stay strong and motivated, from finding tasty mocktails to connecting with supportive friends. Thrive during Dry January and set the stage for lasting wellness beyond the month!](https://www.merakilane.com/wp-content/uploads/2024/11/8.png)](https://www.merakilane.com/8-tips-to-help-you-stay-strong-during-dry-january/)
-    
-    ### [8 Tips to Help You Stay Strong During Dry January](https://www.merakilane.com/8-tips-to-help-you-stay-strong-during-dry-january/)
     
 * [Mental Health](https://www.merakilane.com/category/mental-health/)
     
@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![How to Make Friends with ADHD | 7 Tips for Kids | If you're a parent, teacher, or therapist of a child with attention deficit hyperactivity disorder and you're looking for tips to help making (and keeping) friends easier for them, this post is for you. Many of the symptoms of ADHD - trouble paying attention, being loud, blurting out rude comments, etc. - can make friendships challenging for children with ADHD, but there are ways you can encourage appropriate social skills. Click for more!](https://www.merakilane.com/wp-content/uploads/2024/11/1-4.png)](https://www.merakilane.com/how-to-make-friends-with-adhd-7-tips-for-kids/)
+    
+    ### [How to Make Friends with ADHD: 7 Tips for Kids](https://www.merakilane.com/how-to-make-friends-with-adhd-7-tips-for-kids/)
+    
     [![15 Filling and Healthy Grab-and-Go Breakfast Ideas for Teens | Mornings can be hectic, but a healthy breakfast is key for teens to stay energized and focused. Click for our fav easy breakfast ideas for teens that are nutritious and delicious. These recipes are perfect for busy school days, offering the right balance of protein, fiber, and energy to fuel their bodies and minds. And if you have a student athlete, you can make many of these ahead of time to eat before early morning practice!](https://www.merakilane.com/wp-content/uploads/2024/11/3-2.png)](https://www.merakilane.com/15-filling-and-healthy-grab-and-go-breakfast-ideas-for-teens/)
     
     ### [15 Filling and Healthy Grab-and-Go Breakfast Ideas for Teens](https://www.merakilane.com/15-filling-and-healthy-grab-and-go-breakfast-ideas-for-teens/)
@@ -124,10 +128,6 @@ Main Menu
     [![How to Make Stretch Beaded Bracelets that Won't Break | Stretch beaded bracelets are a fun and easy DIY project, but making sure they’re durable enough for everyday wear can be tricky. In this post, we share 13 tips to teach you how to tie them so they don't break, and we've also rounded up 11 stylish yet simple and easy design ideas and tutorials to inspire you. Whether you're making bracelets on your own or with your kids for personal use or to give as a gift, this post is a great resource.](https://www.merakilane.com/wp-content/uploads/2024/11/1-1.png)](https://www.merakilane.com/how-to-make-stretch-beaded-bracelets-that-wont-break-24-tips-ideas/)
     
     ### [How to Make Stretch Beaded Bracelets that Won’t Break (24 Tips & Ideas)](https://www.merakilane.com/how-to-make-stretch-beaded-bracelets-that-wont-break-24-tips-ideas/)
-    
-    [![How to Make Hand Puppets | 15 Tips & Tutorials | This classic craft is perfect for igniting creativity and providing hours of entertainment for kids and adults -- and you don't need to know how to crochet! With a few basic household items, you can dive into a world where your imagination knows no bounds. From silly monsters, to adorable dragons, and other animals your kids love, these design ideas are easy to make using craft supplies you already have on hand like paper and felt. Click for more!](https://www.merakilane.com/wp-content/uploads/2024/11/5-1.png)](https://www.merakilane.com/how-to-make-hand-puppets-15-tips-tutorials/)
-    
-    ### [How to Make Hand Puppets: 15 Tips & Tutorials](https://www.merakilane.com/how-to-make-hand-puppets-15-tips-tutorials/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
