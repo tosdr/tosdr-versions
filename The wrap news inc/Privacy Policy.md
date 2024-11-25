@@ -21,7 +21,7 @@ Main Navigation
     * [Reviews](https://www.thewrap.com/category/reviews/)
     * [Box Office](https://www.thewrap.com/category/box-office-2/)
     * [Sundance](https://www.thewrap.com/tag/sundance/)
-    * [Sundance Videos](https://thewrap.com/tag/sundance-videos/)
+    * [Sundance Videos](https://www.thewrap.com/tag/sundance-videos/)
     * [TIFF](https://www.thewrap.com/category/report-toronto/)
     * [Report From Toronto](https://www.thewrap.com/category/report-toronto/)
     * [Cannes](https://www.thewrap.com/category/report-cannes/)
@@ -83,7 +83,6 @@ Follow Us
 Trending Topics:
 ----------------
 
-* [Election Coverage](https://www.thewrap.com/category/2024-election/)
 * [Holding On in Hollywood](https://www.thewrap.com/tag/holding-on-in-hollywood/)
 
 Privacy Policy
