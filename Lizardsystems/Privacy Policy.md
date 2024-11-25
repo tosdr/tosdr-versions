@@ -4,7 +4,7 @@
 
 * [PRODUCTS](https://lizardsystems.com/products/)
     
-    [Terminal Services Manager](https://lizardsystems.com/terminal-services-manager/) [Remote Process Explorer](https://lizardsystems.com/remote-process-explorer/) [Remote Desktop Audit](https://lizardsystems.com/remote-desktop-audit/) [Wi-Fi Scanner](https://lizardsystems.com/wi-fi-scanner/) [Network Scanner](https://lizardsystems.com/network-scanner/)
+    [Terminal Services Manager](https://lizardsystems.com/terminal-services-manager/) [Remote Process Explorer](https://lizardsystems.com/remote-process-explorer/) [Remote Desktop Audit](https://lizardsystems.com/remote-desktop-audit/) [Wi-Fi Scanner](https://lizardsystems.com/wi-fi-scanner/) [LanSend](https://lizardsystems.com/lansend/)
     
     [**See all products**](https://lizardsystems.com/products/)
     
