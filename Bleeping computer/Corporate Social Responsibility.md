@@ -36,18 +36,18 @@
         
         Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
     
+    * [![Microsoft blocks Windows 11 24H2 on some PCs with USB scanners](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft blocks Windows 11 24H2 on some PCs with USB scanners](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-windows-11-24h2-on-some-pcs-with-usb-scanners/)
+    * [![Salt Typhoon hackers backdoor telcos with new GhostSpider malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Salt Typhoon hackers backdoor telcos with new GhostSpider malware](https://www.bleepingcomputer.com/news/security/salt-typhoon-hackers-backdoor-telcos-with-new-ghostspider-malware/)
+    * [![Microsoft 365 outage impacts Exchange Online, Teams, Sharepoint](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft 365 outage impacts Exchange Online, Teams, Sharepoint](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-impacts-exchange-online-teams-sharepoint/)
     * [![Get 1TB of portable storage in this Black Friday deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get 1TB of portable storage in this Black Friday deal](https://www.bleepingcomputer.com/offer/deals/get-1tb-of-portable-storage-in-this-black-friday-deal/)
-    * [![Meta removes over 2 million accounts pushing pig butchering scams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Meta removes over 2 million accounts pushing pig butchering scams](https://www.bleepingcomputer.com/news/security/meta-removes-over-2-million-accounts-pushing-pig-butchering-scams/)
-    * [![Bangkok busts SMS Blaster sending 1 million scam texts from a van](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Bangkok busts SMS Blaster sending 1 million scam texts from a van](https://www.bleepingcomputer.com/news/security/bangkok-busts-sms-blaster-sending-1-million-scam-texts-from-a-van/)
-    * [![Enjoy Black Friday early on this portable Deeper Connect router VPN](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Enjoy Black Friday early on this portable Deeper Connect router VPN](https://www.bleepingcomputer.com/offer/deals/enjoy-black-friday-early-on-this-portable-deeper-connect-router-vpn/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -306,15 +306,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
+* [![Microsoft](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Microsoft 365 outage impacts Exchange Online, Teams, Sharepoint](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-impacts-exchange-online-teams-sharepoint/)
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 11 24H2 update blocked on PCs with Assassin's Creed, Star Wars Outlaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-halts-windows-11-24h2-update-on-pcs-assassins-creed-star-wars-outlaws/)
 * [![Avast](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Hackers abuse Avast anti-rootkit driver to disable defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-avast-anti-rootkit-driver-to-disable-defenses/)
-* [![QNAP](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    QNAP pulls buggy QTS firmware causing widespread NAS issues](https://www.bleepingcomputer.com/news/technology/qnap-pulls-buggy-qts-firmware-causing-widespread-nas-issues/)
 
 ##### Follow us:
 
