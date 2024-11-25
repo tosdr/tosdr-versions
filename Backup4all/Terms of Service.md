@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Numergy](https://www.backup4all.com/how-to-backup-your-data-to-numergy-kb.html)  
+* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
     
-* [Backup from FTP](https://www.backup4all.com/backup-from-ftp-kb.html)  
+* [Backup demo](https://www.backup4all.com/backup-demo-kb.html)  
     
-* [How to back up data files from SFTP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-sftp-using-backup4all-kb.html)  
+* [How to backup your data to T Cloud](https://www.backup4all.com/how-to-backup-your-data-to-t-cloud-kb.html)  
     
-* [How to create a mirror with zip backup](https://www.backup4all.com/how-to-create-a-mirror-with-zip-backup-kb.html)  
+* [How to backup your data to Revera](https://www.backup4all.com/how-to-backup-your-data-to-revera-kb.html)  
     
-* [Backup music with Backup4all](https://www.backup4all.com/backup-music-with-backup4all-kb.html)  
+* [How to get a daily report with all backup exe ...](https://www.backup4all.com/how-to-get-a-daily-report-with-all-backup-executions-kb.html)  
     
 
 Choose language:
