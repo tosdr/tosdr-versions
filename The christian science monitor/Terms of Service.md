@@ -94,15 +94,15 @@ Recent Stories
 
 [Balance
 
+### A guardrail holds](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1125/A-guardrail-holds "A guardrail holds")
+
+[Balance
+
 ### Want a less commercial holiday? Gen Z tries ‘underconsumption core.’](https://www.csmonitor.com/The-Culture/2024/1125/underconsumption-core-holiday-gen-z "Want a less commercial holiday? Gen Z tries ‘underconsumption core.’")
 
 [Respect
 
 ### Of dogs and din](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1122/Of-dogs-and-din "Of dogs and din")
-
-[Honesty
-
-### Moody chickens? Playful bumblebees? Science decodes the rich inner lives of animals.](https://www.csmonitor.com/Science/2024/1122/farm-animal-rights-science-consciousness "Moody chickens? Playful bumblebees? Science decodes the rich inner lives of animals.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Israel-Hezbollah conflict widens after Israeli strike kills Lebanese soldier](https://www.csmonitor.com/World/Middle-East/2024/1124/israel-attack-lebanon-hezbollah-war-strike "Israel-Hezbollah conflict widens after Israeli strike kills Lebanese soldier")
+[### Marco Rubio wants to take a hard line on China. Will Trump let him?](https://www.csmonitor.com/World/Asia-Pacific/2024/1125/marco-rubio-china-trump-cabinet "Marco Rubio wants to take a hard line on China. Will Trump let him?")
 
-[### Recurring blackouts have roiled Cuba. What’s behind the crisis?](https://www.csmonitor.com/World/Americas/2024/1122/cuba-blackouts-electricity-failure "Recurring blackouts have roiled Cuba. What’s behind the crisis?")
+[### In shifting world, post-Soviet states look back to a constant: Russia](https://www.csmonitor.com/World/Europe/2024/1125/russia-soviet-union-georgia-moldova-armenia-ngo "In shifting world, post-Soviet states look back to a constant: Russia")
 
-[### Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu](https://www.csmonitor.com/World/Middle-East/2024/1121/netanyahu-arrest-gaza-starves "Amid Gaza food shortages, ICC issues arrest warrant for Netanyahu")
+[### Women in combat are not a ‘social experiment,’ says Canada’s top military commander](https://www.csmonitor.com/World/Americas/2024/1125/General-Carignan-women-combat-roles "Women in combat are not a ‘social experiment,’ says Canada’s top military commander")
 
 * * *
 
