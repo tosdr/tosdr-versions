@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Lockup Raw: The Daily Grind](/wp-content/thumbnails/1067-100x70.jpg?x53432)
+* [![Guardians of the Amazon](/wp-content/thumbnails/14874-100x70.jpg?x53432)
     
-    Lockup Raw: The Daily Grind
+    Guardians of the Amazon
     
-    In this episode, our producers take you behind the scenes and behind prison walls. You will see how the monotony of prison life can push some inmates to the brink. While some use the time wisely, othe](https://documentaryheaven.com/lockup-raw-the-daily-grind/ "Lockup Raw: The Daily Grind")
-* [![Chaos Theory and Dynamic Systems](/wp-content/thumbnails/13397-100x70.jpg?x53432)
+    It is the frontline of the worlds most dangerous battle, a battle which involves the entire Earth. As the Amazon Rain Forest faces a crucial tipping point amidst the increase of illegal logging activi](https://documentaryheaven.com/guardians-of-amazon/ "Guardians of the Amazon")
+* [![The Dome](/wp-content/thumbnails/13756-100x70.jpg?x53432)
     
-    Chaos Theory and Dynamic Systems
+    The Dome
     
-    At one time we thought the universe ticked off its motions with stately regularity, however with every development in understanding the world around us we discovered that much of the universe operates](https://documentaryheaven.com/chaos-theory-dynamic-systems/ "Chaos Theory and Dynamic Systems")
-* [![Vice Guide to Congo](/wp-content/thumbnails/6254-100x70.jpg?x53432)
+    Halfway between Austrailia and Hawaii in the middle of a seemingly endless pacific ocean we find a chain of islands that together form the nation of the Marshall Islands. Spread over 2 million square](https://documentaryheaven.com/dome/ "The Dome")
+* [![Magnetic Storm](/wp-content/thumbnails/90-100x70.png?x53432)
     
-    Vice Guide to Congo
+    Magnetic Storm
     
-    The Democratic Republic of Congo is one of the poorest countries in the world and thanks to an insanely complicated mix of politics, armed conflict, and corruption... it's also one of the most under-r](https://documentaryheaven.com/vice-guide-to-congo/ "Vice Guide to Congo")
-* [![Shoah](/wp-content/thumbnails/5558-100x70.jpg?x53432)
+    Like the plot of a sci-fi B movie, something weird is happening deep underground where the constant spin of Earth's liquid metallic core generates an invisible magnetic force field that shields our pl](https://documentaryheaven.com/magnetic-storm/ "Magnetic Storm")
+* [![Zero Hour: The Sinking of the Estonia](/wp-content/thumbnails/6639-100x70.png?x53432)
     
-    Shoah
+    Zero Hour: The Sinking of the Estonia
     
-    Claude Lanzmann directed this 9 and a half hour documentary about the Holocaust without using a single frame of archive footage.He interviews survivors, witnesses, and ex-Nazis (whom he had to film](https://documentaryheaven.com/shoah/ "Shoah")
-* [![Only the Dead](/wp-content/thumbnails/12475-100x70.jpg?x53432)
+    The Baltic Sea claimed 852 people’s lives by drowning and freezing them to death in the 8 degree C cold water. Only 95 bodies were ever recovered. The wreck of the Estonia was not salvaged, but sealed](https://documentaryheaven.com/zero-hour-the-sinking-of-the-estonia/ "Zero Hour: The Sinking of the Estonia")
+* [![James Camron Voyage To The Bottom Of The Earth](/wp-content/thumbnails/6787-100x70.jpg?x53432)
     
-    Only the Dead
+    James Camron Voyage To The Bottom Of The Earth
     
-    Only the Dead is a tale of war unlike any other, it is the story of what can happen when an ordinary reporter finds himself in the Middle East at a time when some of the more extreme combat was taking](https://documentaryheaven.com/only-dead/ "Only the Dead")
+    Plunging to the virtually unknown depths of the Mariana Trench, James Cameron's DEEPSEA CHALLENGE expedition takes this National Geographic Explorer deeper and further than any filmmaker or solo explo](https://documentaryheaven.com/james-camron-voyage-to-the-bottom-of-the-earth/ "James Camron Voyage To The Bottom Of The Earth")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
