@@ -542,6 +542,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![11 things to see and do on a Caribbean cruise](https://media.restless.co.uk/uploads/2024/11/things-to-see-and-do-on-a-caribbean-cruise-768x512.jpg)](https://restless.co.uk/travel/things-to-see-and-do-on-a-caribbean-cruise/)
+
+### [11 things to see and do on a Caribbean cruise](https://restless.co.uk/travel/things-to-see-and-do-on-a-caribbean-cruise/)
+
+[Read More »](https://restless.co.uk/travel/things-to-see-and-do-on-a-caribbean-cruise/)
+
 [![8 fascinating tours where you can really get to know a country](https://media.restless.co.uk/uploads/2024/10/fascinating-tours-where-you-can-really-get-to-know-a-country-768x349.jpg)](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
 
 ### [8 fascinating tours where you can really get to know a country](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/) 
@@ -571,12 +577,6 @@ New in travel
 ### [12 of the best winter sun cruise destinations](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/) 
 
 [Read More »](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/)
-
-[![10 enriching UK breaks](https://media.restless.co.uk/uploads/2024/09/enriching-uk-breaks-e1726831157473-768x384.jpg)](https://restless.co.uk/travel/enriching-uk-breaks/)
-
-### [10 enriching UK breaks](https://restless.co.uk/travel/enriching-uk-breaks/)
-
-[Read More »](https://restless.co.uk/travel/enriching-uk-breaks/)
 
 Popular travel guides
 ---------------------
