@@ -31,6 +31,112 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Bloque de Seguridad pide evitar filtración de personas violentas en las marchas
+===============================================================================
+
+El pedido se da por la convocatoria a marchas para conmemorar el Día de la no violencia contra la mujer, en Quito
+-----------------------------------------------------------------------------------------------------------------
+
+![El Bloque de Seguridad dio un mensaje a la ciudadanía la noche del domingo 24 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-25T075919.046.jpg)
+
+El **Ministerio del Interior** compartió la noche del 24 de noviembre un mensaje a la ciudadanía en relación con las marchas convocadas este lunes 25 por el día de la No violencia contra las mujeres.
+
+### Más noticias
+
+* [Así funciona el Pico y placa este lunes 25 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-este-lunes-25-de-noviembre.html "Así funciona el Pico y placa este lunes 25 de noviembre")
+* [Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-del-lunes-25-al-jueves-28-de-noviembre.html "Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre")
+* [Mayra Salazar fue cambiada de cárcel este domingo 24 de noviembre](https://www.elcomercio.com/actualidad/seguridad/mayra-salazar-cambio-de-carcel-este-domingo-24-de-noviembre.html "Mayra Salazar fue cambiada de cárcel este domingo 24 de noviembre")
+
+Ministra Palencia recuerda estado de excepción vigente
+------------------------------------------------------
+
+La ministra del Interior, **Mónica Palencia,** a nombre del Bloque de Seguridad y del Gobierno Nacional, recordó a la ciudadanía que el estado de excepción en Quito sigue vigente.
+
+En ese contexto, reiteró el pedido a las **organizaciones de derechos humanos** para que sean observadores y eviten la filtración de personas violentas en las marchas por el Día de la no violencia contra la mujer.
+
+Recalcó que es falso que la **Corte Constitucional** haya levantado el estado de excepción; esta medida se mantiene vigente. La Corte ha mencionado que contamos con medidas ordinarias para precautelar los intereses ciudadanos y no es necesario suspender el derecho a la libertad de asociación o asociación.
+
+El comandante general de la Policía, **Víctor Zárate,** añadió que el 20% de los servidores policiales son mujeres, es decir, alrededor de 12 000 que todos los días se esfuerzan por la seguridad de los ciudadanos.
+
+El acceso al Centro Histórico estará restringido
+------------------------------------------------
+
+Zárate añadió que, según información de Inteligencia, **se ha convocado a marchas** este lunes 25 de noviembre. Esta convocatoria se habría hecho para zonas a las que ni la Policía Nacional ni las Fuerzas Armadas permitirán el ingreso.
+
+El acceso estará restringido al **Centro Histórico de Quito**. Por ello, se realizarán desvíos en sentido norte-sur desde la av. Patria hacia el oriente y occidente.
+
+En sentido sur-norte, **estará cerrada la av. Maldonado** a la altura del puente del Sena en el sector de la Recoleta.
+
+El Comandante de la Policía informó que las s**ervidoras policiales** realizarán el control de las marchas, por lo que solicitó respeto y consideración.
+
+Recalcó que es una falta de **respeto a la autoridad** hacer cánticos agresivos contra las fuerzas del orden. Pidió a la Fiscalía y a la Judicatura que no se confunda que **actúe con mano dura** cuando se presenten los partes policiales por agresión a servidores policiales.
+
+Así mismo, el jefe del Comando Conjunto de las **Fuerzas Armadas,** agregó que está vigente el estado de excepción en Quito y que es deber de las fuerzas del orden mantener la paz y la seguridad.
+
+Además, repeler toda agresión con el uso legítimo de la fuerza. Por último, **exhortó a la ciudadanía** a no participar en [acciones confrontativas.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> COMUNICADO IMPORTANTE  
+>   
+> El Bloque de Seguridad a la ciudadanía  
+> ⬇️ [pic.twitter.com/MixnupIfg2](https://t.co/MixnupIfg2)
+> 
+> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [November 25, 2024](https://twitter.com/MinInteriorEc/status/1860862925914636747?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa este lunes 25 de noviembre
+=======================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![La medida se aplica en Quito para tratar de controlar el tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-22T150540.058.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementa para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Un taxi circuló dentro del parque La Carolina, en Quito](https://www.elcomercio.com/actualidad/quito/taxi-circulo-dentro-de-parque-la-carolina-quito.html "Un taxi circuló dentro del parque La Carolina, en Quito")
+* [Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/estudiantes-municipales-saludo-alcalde-inicio-fiestas-de-quito.html "Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito")
+* [Calle se cierra por tres semanas, a la altura de la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/calle-cierra-tres-semanas-altura-de-autopista-general-ruminahui.html "Calle se cierra por tres semanas, a la altura de la autopista General Rumiñahui")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir, 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
 Arborización para sanar a Quito
 ===============================
 
@@ -1022,112 +1128,3 @@ En el trayecto, el **vehículo blindado** fue resguardado hasta el destino.
 > [Ver esta publicación en Instagram](https://www.instagram.com/p/DCw1QIXtZRP/?utm_source=ig_embed&utm_campaign=loading)
 > 
 > [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCw1QIXtZRP/?utm_source=ig_embed&utm_campaign=loading)
-
-México lanzará al espacio en 2025 un sistema satelital de desarrollo nacional
-=============================================================================
-
-El SCMI fue diseñado para soportar y medir los efectos de la radiación, con una arquitectura tolerante a fallas.
-----------------------------------------------------------------------------------------------------------------
-
-![El astronauta estadounidense, de origen mexicano, José Moreno Hernández, promovió la Agencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/mexico-astronauta.jpg)
-
-La **Agencia Espacial Mexicana (AEM)** anunció este miércoles, 21 de noviembre de 2024, el lanzamiento al espacio en octubre de 2025 de un **nuevo sistema nanosatelital,** desarrollado con tecnología nacional, en conjunto con la **Universidad Nacional Autónoma de México** (UNAM).
-
-### Más noticias
-
-* [Walter Solís mantiene su libertad, según SRE de México](https://www.elcomercio.com/actualidad/seguridad/walter-solis-cuenta-condicion-refugiao-segun-sre-mexico.html "Walter Solís mantiene su libertad, según SRE de México")
-* [Claudia Sheinbaum propone fondo global en el G20 para la reforestación y la paz](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-propone-fondo-global-g20-reforestacion-paz.html "Claudia Sheinbaum propone fondo global en el G20 para la reforestación y la paz")
-* [Claudia Sheinbaum niega un ambiente de ‘guerra’ en el sur de México](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-niega-ambiente-guerra-sur-mexico.html "Claudia Sheinbaum niega un ambiente de ‘guerra’ en el sur de México")
-
-El **Sistema de Comando y Manejo de Información (SCMI)** mexicano para Nanosatélites será puesto en órbita en menos de un año a bordo del GuaraníSat-2 de la Agencia Espacial del Paraguay (AEP), detalló la AEM en un comunicado.
-
-“Este ingenio mexicano, desarrollado por **integrantes del Laboratorio de Instrumentación Electrónica de Sistemas Espaciales (LIESE)** de la Facultad de Ingeniería (FI-UNAM) y la AEM, fue probado exitosamente en la Universidad de la República de Uruguay, en Montevideo, en marzo de 2024″, apuntó la dependencia a cargo de la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) de México.
-
-El SCMI fue diseñado para soportar y medir los **efectos de la radiación,** con una arquitectura tolerante a fallas, al tiempo que ejecutará un algoritmo para determinar la orientación del satélite.
-
-Asimismo, la dependencia destacó que “esta **tecnología mexicana trascenderá a un sistema con herencia espacial**, lo que significa que será posible proyectarlo a otros tipos de misiones y consolidarlo como desarrollo tecnológico propio”.
-
-Finalmente, la AEM confió en que este avance contribuirá a la **industria aeroespacial mexicana** y al objetivo de transformar a México en una potencia científica con desarrollo de satélites propios.
-
-En ese sentido, el coordinador del SCMI, Saúl de la Rosa Nieves, destacó que el país ya tiene la capacidad para hacer una **integración satelital** con alrededor de **60 % de componentes nacionales**.
-
-El sistema fue diseñado por Aldair Lara Tenorio, con la participación de 12 estudiantes de la FI-UNAM.
-
-Por este delito se investiga al fotógrafo de Guayaquil
-======================================================
-
-Denuncias por abuso digital en redes sociales impulsan investigación fiscal contra fotógrafo en Guayaquil.
-----------------------------------------------------------------------------------------------------------
-
-![Fotógrafo de Guayaquil fue denunciado en redes sociales.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-49-3.jpg)
-
-El caso del fotógrafo **de Guayaquil denunciado en redes sociales** se tramita como presunto delito de v**iolación a la intimidad**, inicialmente señalado por supuestas conductas de **acoso sexual**.
-
-### Más noticias
-
-* [Un segundo fotógrafo es denunciado por acoso en redes sociales, en Ecuador](https://www.elcomercio.com/actualidad/seguridad/segundo-fotografo-denuncias-acoso.html "Un segundo fotógrafo es denunciado por acoso en redes sociales, en Ecuador")
-* [Denuncian en la Fiscalía de Guayas a presunto fotógrafo acosador](https://www.elcomercio.com/actualidad/seguridad/fotografo-denuncia-fiscalia-violacion-acoso.html "Denuncian en la Fiscalía de Guayas a presunto fotógrafo acosador")
-* [Fotógrafo ecuatoriano presuntamente pedía imágenes explícitas a influencers](https://www.elcomercio.com/actualidad/seguridad/fotografo-acoso-mujeres-influencers-explicitas.html "Fotógrafo ecuatoriano presuntamente pedía imágenes explícitas a influencers")
-
-El artículo **178 del Código Orgánico Integral Penal (COIP)** establece que el delito d**e violación a la intimidad** se sanciona con una pena de **uno a tres años**. Este podría reformularse el tipo penal si se identifican nuevos elementos que respalden la figura del **acoso sexual**, tipificado con penas más severas.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCk4BQ0JjVg/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DCk4BQ0JjVg/?utm_source=ig_embed&utm_campaign=loading)
-
-Protocolos institucionales activados
-------------------------------------
-
-La **Universidad Casa Grande**, tras conocer los señalamientos en redes sociales, presentó una denuncia ante la **Fiscalía**. Mediante un comunicado, la institución confirmó que actuó en cumplimiento de sus protocolos institucionales, por lo que priorizó la atención a las **presuntas víctimas y el respeto al debido proceso**.
-
-Por su parte, la **Unidad de Investigación contra la Integridad Sexual de la Policía y la Fiscalía** trabajan en la recolección de pruebas. Según se informó, entre las diligencias se incluye la recopilación de testimonios de al menos **cuatro víctimas identificadas**, algunas de las cuales pueden ser **menores de edad**.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Guayas](https://twitter.com/hashtag/Guayas?src=hash&ref_src=twsrc%5Etfw): [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) abrió –de oficio– una investigación previa por el delito de utilización de personas para [#ExhibiciónPública](https://twitter.com/hashtag/Exhibici%C3%B3nP%C3%BAblica?src=hash&ref_src=twsrc%5Etfw) con fines de naturaleza sexual, tras conocer hechos relacionados con un fotógrafo que exigía información digital personal a sus víctimas. [pic.twitter.com/lr7Y3gDXLX](https://t.co/lr7Y3gDXLX)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [November 20, 2024](https://twitter.com/FiscaliaEcuador/status/1859300064952295850?ref_src=twsrc%5Etfw)
-
-Acusaciones y reacciones en redes sociales
-------------------------------------------
-
-Las denuncias en redes sociales contra el estudiante (fotógrafo) se centraron en su presunto abuso de confianza como fotógrafo. Se lo acusa de solicitar claves de **acceso a iCloud** y de requerir imágenes explícitas bajo pretextos como la **actualización de su equipo o la creación de un portafolio profesional**.
-
-El delito de **acoso sexual**, según el artículo **166 del COIP**, contempla una pena de **uno a cinco años** cuando se utiliza tecnología de comunicación para solicitar **actos de naturaleza sexual**. Este tipo penal no fue aplicado en el caso actual, pero podrían señalar que la calificación podría modificarse durante la **instrucción fiscal**.
-
-La Fiscalía subrayó que la investigación se manejará con **carácter reservado** para proteger la integridad de las víctimas. No obstante, la opinión pública y los organismos de derechos de las mujeres exigen mayor claridad en las decisiones de la **entidad respecto al tipo penal aplicado**.
-
-¿Cómo identificar comportamientos sospechosos?
-----------------------------------------------
-
-**Lorena Peñaherrera**, psicóloga clínica especialista en atención a víctimas de violencia de género, subraya la importancia de reconocer **señales de manipulación o comportamientos sospechosos**.
-
-“Si alguien realiza **preguntas intrusivas** o nos hace sentir incómodas, es clave establecer límites claros”, explica la psicóloga.
-
-Asimismo, si la persona intenta restringir **nuestras decisiones o relaciones**, esto puede ser un indicador de control. Es fundamental identificar estos **comportamientos y buscar apoyo profesional** o de redes de confianza.
-
-> [#AlertaFeminista](https://twitter.com/hashtag/AlertaFeminista?src=hash&ref_src=twsrc%5Etfw) | La violencia digital que expone contenido íntimo sin consentimiento es un acto que busca avergonzar y controlar a las mujeres, perpetuando una cultura de discriminación. [pic.twitter.com/nOKzwpyV0p](https://t.co/nOKzwpyV0p)
-> 
-> — CEPAM-Guayaquil (@CepamGuayaquil) [November 19, 2024](https://twitter.com/CepamGuayaquil/status/1858974107163128048?ref_src=twsrc%5Etfw)
-
-Medidas preventivas al compartir información
---------------------------------------------
-
-Peñaherrera recomienda **verificar referencias y experiencias** previas al trabajar con profesionales como fotógrafos. Asegurar claridad sobre el uso de las fotos, acordar previamente las condiciones de publicación y evitar **compartir información sensible son medidas esenciales**.
-
-Si se decide compartir contenido personal, es importante no incluir detalles identificables **como el rostro o la ubicación**. Estas precauciones fortalecen la **privacidad y previenen posibles abusos**.
-
-Según Peñaherrera, las víctimas enfrentan procesos de denuncia que pueden ser revictimizantes. Acceder a **apoyo psicológico**, **individual o grupal y contar con acompañamiento durante todo el proceso** es esencial para proteger la **salud mental**.
-
-La psicóloga enfatiza que **la culpa no recae en las víctimas**, sino en quienes transgreden los límites. Crear redes de apoyo y visibilizar estas situaciones son **acciones clave para superar estigmas sociales** y fomentar un cambio cultural.
-
-Privacidad digital y prevención
--------------------------------
-
-En cuanto a la privacidad digital, Peñaherrera sugiere medidas como el **uso de contraseñas seguras**, **evitar compartir información en tiempo real** y ser cuidadosas con los datos que se publican en redes sociales.
-
-> 📸 La Asociación de Fotógrafos Ecuatorianos ha reaccionado al escándalo de Isma Visual, asegurando que rechazan todas las prácticas poco éticas relacionadas con el caso. [pic.twitter.com/xoP6FS2af0](https://t.co/xoP6FS2af0)
-> 
-> — W Radio EC (@WRadioec) [November 19, 2024](https://twitter.com/WRadioec/status/1858898954177413174?ref_src=twsrc%5Etfw)
-
-Cambiar periódicamente las claves y mantener control sobre quién recibe información personal también son pasos importantes.
-
-Finalmente, Peñaherrera destaca que es **vital fomentar la confianza para denunciar, acompañar a las víctimas y garantizar su derecho a la privacidad**, asegurando que la vergüenza y la culpa recaigan en los agresores.
