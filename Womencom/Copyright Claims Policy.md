@@ -41,47 +41,83 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
+*  [![Jennifer Lopez in a brown cardigan and brown toned lipstick](https://www.women.com/img/gallery/jennifer-lopezs-style-transformation-since-her-ben-affleck-divorce/intro-1732038036.jpg)](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    [Jennifer Lopez's Style Transformation Since Her Divorce From Ben Affleck](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+    ========================================================================================================================================================================
+    
+    J.Lo has done a lot of internal work since her split. And that newfound happiness and bold independence has been reflected in the star's wardrobe.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+    
+* *  [![](https://www.women.com/img/gallery/what-is-the-4b-movement-and-why-it-packs-more-punch-this-time-around/intro-1732302064.jpg)](https://www.women.com/1720857/4b-movement-trend-explained/)
+        
+        [Relationships](https://www.women.com/category/relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+        
+        ### [What Is The 4B Movement? (And Why It Packs More Punch This Time Around)](https://www.women.com/1720857/4b-movement-trend-explained/)
+        
+        The 4B movement has made waves across college campuses in the U.S. and gained serious steam since Donald Trump was controversially elected for his second term.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1720857/4b-movement-trend-explained/)
+        
+    *  [![Woman laying down getting lip injections](https://www.women.com/img/gallery/can-you-lay-down-after-getting-botox/intro-1732041593.jpg)](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+        
+        ### [Can You Lay Down After Getting Botox?](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
+        
+        As beneficial as Botox can be for many people, it's not free of downsides, migration being one of them. But don't let social media scare you.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
+        
+
+More Stories
+------------
+
+*  [![Angled close-up of Billie Eilish at the 2024 People's Choice Awards](https://www.women.com/img/gallery/the-stunning-transformation-of-billie-eilishs-ever-evolving-personal-style/intro-1732034136.jpg)](https://www.women.com/1717137/stunning-transformation-billie-eilish-personal-style/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
+    
+    ### [The Stunning Transformation Of Billie Eilish's Ever-Evolving Personal Style](https://www.women.com/1717137/stunning-transformation-billie-eilish-personal-style/)
+    
+    In a world of revolving trends, fashion experts emphasize the timelessness of personal style, a concept that artist Billie Eilish is very familiar with.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1717137/stunning-transformation-billie-eilish-personal-style/)
+    
 *  [![Zooey Deschanel at an event](https://www.women.com/img/gallery/6-zooey-deschanel-outfits-that-could-have-come-straight-from-jess-days-closet/intro-1731960916.jpg)](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
     
-    [6 Zooey Deschanel Outfits That Could Have Come Straight From Jess Day's Closet](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
-    ========================================================================================================================================================
+    ### [6 Zooey Deschanel Outfits That Could Have Come Straight From Jess Day's Closet](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
     
     Since leaving "New Girl," Zooey Deschanel has taken fashion inspo from Jess Day's signature style, wearing cute tights, headbands, and hair pieces.
     
     By Bernadette Roe [Read More](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
     
-* *  [![Jada Pinkett Smith at the Bad Boys premiere](https://www.women.com/img/gallery/5-celebs-that-have-been-open-about-their-battle-with-sex-addiction/intro-1731952801.jpg)](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
-        
-        [Sex](https://www.women.com/category/sex-life/)
-        
-        [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-        
-        ### [5 Celebs That Have Been Open About Their Battle With Sex Addiction](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
-        
-        Of all of the addictions out there, sex addiction isn't taken as seriously as it should be. But it can impact anyone, for any reason.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
-        
-    *  [![Jenna Bush Hager at an event wearing red](https://www.women.com/img/gallery/the-best-read-with-jenna-book-club-picks-of-all-time/intro-1731948738.jpg)](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Bernadette Roe
-        
-        ### [The Best Read With Jenna Book Club Picks Of All Time](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
-        
-        Jenna Bush Hager is an eager reader who loves sharing her favorite books, creating Read With Jenna to promote the stories of marginalized voices.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
-        
-
-More Stories
-------------
-
+*  [![Jada Pinkett Smith at the Bad Boys premiere](https://www.women.com/img/gallery/5-celebs-that-have-been-open-about-their-battle-with-sex-addiction/intro-1731952801.jpg)](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
+    
+    [Sex](https://www.women.com/category/sex-life/)
+    
+    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+    
+    ### [5 Celebs That Have Been Open About Their Battle With Sex Addiction](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
+    
+    Of all of the addictions out there, sex addiction isn't taken as seriously as it should be. But it can impact anyone, for any reason.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
+    
 *  [![Short Christmas nails in front of a Christmas tree](https://www.women.com/img/gallery/15-stunning-holiday-manicure-ideas-for-short-nails/intro-1731955638.jpg)](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -94,17 +130,17 @@ More Stories
     
     By Emily Hutchinson [Read More](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
     
-*  [![Woman in a march with writing on her collarbone](https://www.women.com/img/gallery/what-is-the-4b-movement-and-why-it-packs-more-punch-this-time-around/intro-1732302064.jpg)](https://www.women.com/1720857/4b-movement-trend-explained/)
+*  [![Jenna Bush Hager at an event wearing red](https://www.women.com/img/gallery/the-best-read-with-jenna-book-club-picks-of-all-time/intro-1731948738.jpg)](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Living](https://www.women.com/category/living/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
     
-    ### [What Is The 4B Movement? (And Why It Packs More Punch This Time Around)](https://www.women.com/1720857/4b-movement-trend-explained/)
+    ### [The Best Read With Jenna Book Club Picks Of All Time](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
     
-    The 4B movement has made waves across college campuses in the U.S. and gained serious steam since Donald Trump was controversially elected for his second term.
+    Jenna Bush Hager is an eager reader who loves sharing her favorite books, creating Read With Jenna to promote the stories of marginalized voices.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1720857/4b-movement-trend-explained/)
+    By Bernadette Roe [Read More](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
     
 *  [![Two people in bed](https://www.women.com/img/gallery/how-to-handle-being-asked-about-your-body-count-not-that-it-matters/intro-1731694030.jpg)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
     
@@ -369,42 +405,6 @@ More Stories
     Although cobwebbing may seem like a scary step for some people, more than anything it's an act of healing and self care.
     
     By Amanda Chatel [Read More](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
-    
-*  [![Sarah Michelle Gellar posing against a backdrop in 2024](https://www.women.com/img/gallery/8-sarah-michelle-gellar-outfits-that-could-have-come-straight-from-buffy-summers-closet/intro-1730747022.jpg)](https://www.women.com/1704912/sarah-michelle-gellar-outfits-buffy-summers/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
-    
-    ### [8 Sarah Michelle Gellar Outfits That Could Have Come Straight From Buffy Summers' Closet](https://www.women.com/1704912/sarah-michelle-gellar-outfits-buffy-summers/)
-    
-    As '90s style sees a resurgence, we take a look at the iconic fashion of "Buffy the Vampire Slayer" and Sarah Michelle Gellar's early street looks.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1704912/sarah-michelle-gellar-outfits-buffy-summers/)
-    
-*  [![Sarah Hyland looking over her shoulder](https://www.women.com/img/gallery/celebs-who-bared-their-physical-scars-for-a-good-cause/intro-1730399722.jpg)](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [Celebs Who Bared Their Physical Scars For A Good Cause](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
-    
-    Surgery scars don't have to be ugly. In an ear of body positivity, some celebrities are exposing their scars to reclaim power and share their stories.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1702596/celebs-bared-their-scars-for-good-cause/)
-    
-*  [![Taylor Swift looking off](https://www.women.com/img/gallery/taylor-swift-makeup-mistakes-that-ruined-her-look/intro-1730735333.jpg)](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
-    
-    ### [Taylor Swift Makeup Mistakes That Ruined Her Otherwise Gorgeous Looks](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
-    
-    While makeup is a form of expression, we can all take some pointers from beauty experts to learn from the makeup mistakes of Taylor Swift.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1704586/taylor-swift-makeup-mistakes-ruined-look/)
     
 
 Back
