@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Reactors](https://www.myabandonware.com/game/reactors-tb2)
+* [Ultimate Kakuro](https://www.myabandonware.com/game/ultimate-kakuro-tb1)
 * [Ultimate Su Doku](https://www.myabandonware.com/game/ultimate-su-doku-tb0)
 * [Santa Slayer](https://www.myabandonware.com/game/santa-slayer-taz)
 * [Space Rocks 3D](https://www.myabandonware.com/game/space-rocks-3d-tay)
-* [Puzzle Ring](https://www.myabandonware.com/game/puzzle-ring-tax)
-* [Springy](https://www.myabandonware.com/game/springy-taw)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
