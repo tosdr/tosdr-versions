@@ -599,51 +599,51 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 [![Shop Promo Banner](https://st.hzcdn.com/fimgs/4901cf8d073e6f51_4978-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--black-friday-sale)
 
-[![Kitchen Essentials Under $299](https://st.hzcdn.com/fimgs/b1c1d791073ea805_9493-w150-h150-b4-p0--home-design.jpg)
+[![The Ultimate Black Friday Sale](https://st.hzcdn.com/fimgs/2c0132c6074356f3_6419-w150-h150-b4-p0--home-design.jpg)
 
-Kitchen Essentials Under $299Up to 65% off](https://www.houzz.com/ideabooks/178767630)[![Black Friday Deals Under $199](https://st.hzcdn.com/fimgs/55218505073ea806_9495-w150-h150-b4-p0--home-design.jpg)
+The Ultimate Black Friday SaleUp to 80% off](https://www.houzz.com/ideabooks/178859941)[![Furniture Must-Haves](https://st.hzcdn.com/fimgs/4791e7b1074356f1_6418-w150-h150-b4-p0--home-design.jpg)
 
-Black Friday Deals Under $199Up to 75% off](https://www.houzz.com/ideabooks/178767844)[![Must-Have Furniture](https://st.hzcdn.com/fimgs/d91138c9073ea803_9492-w150-h150-b4-p0--home-design.jpg)
+Furniture Must-HavesUp to 75% off](https://www.houzz.com/ideabooks/178872880)[![Lighting Under $199](https://st.hzcdn.com/fimgs/f8d1b086074356f0_6417-w150-h150-b4-p0--home-design.jpg)
 
-Must-Have FurnitureUp to 75% off](https://www.houzz.com/ideabooks/178860888)[![Black Friday Favorites](https://st.hzcdn.com/fimgs/7b813d95073ea808_9497-w150-h150-b4-p0--home-design.jpg)
+Lighting Under $199Up to 80% off](https://www.houzz.com/ideabooks/178922040)[![Patio Furniture Sale](https://st.hzcdn.com/fimgs/fc21eb22074356ec_6412-w150-h150-b4-p0--home-design.jpg)
 
-Black Friday FavoritesUp to 70% off](https://www.houzz.com/ideabooks/178865007)
+Patio Furniture SaleUp to 65% off](https://www.houzz.com/ideabooks/178947298)
 
 Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gift-card)
 
 Cancel
 
-[Black Friday Early Access Sale](https://www.houzz.com/products/sale-event--black-friday-sale)
+[Black Friday Sale Sale](https://www.houzz.com/products/sale-event--black-friday-sale)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-[Black Friday Early Access](https://www.houzz.com/products/sale-event--black-friday-sale)
+[Black Friday Sale](https://www.houzz.com/products/sale-event--black-friday-sale)
 
-[![Kitchen Essentials Under $299](https://st.hzcdn.com/fimgs/b1c1d791073ea805_9493-w150-h150-b0-p0--home-design.jpg)
+[![The Ultimate Black Friday Sale](https://st.hzcdn.com/fimgs/2c0132c6074356f3_6419-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 80% OFF
+
+The Ultimate Black Friday Sale](https://www.houzz.com/ideabooks/178859941) 
+
+[![Furniture Must-Haves](https://st.hzcdn.com/fimgs/4791e7b1074356f1_6418-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 75% OFF
+
+Furniture Must-Haves](https://www.houzz.com/ideabooks/178872880) 
+
+[![Lighting Under $199](https://st.hzcdn.com/fimgs/f8d1b086074356f0_6417-w150-h150-b0-p0--home-design.jpg)
+
+UP TO 80% OFF
+
+Lighting Under $199](https://www.houzz.com/ideabooks/178922040) 
+
+[![Patio Furniture Sale](https://st.hzcdn.com/fimgs/fc21eb22074356ec_6412-w150-h150-b0-p0--home-design.jpg)
 
 UP TO 65% OFF
 
-Kitchen Essentials Under $299](https://www.houzz.com/ideabooks/178767630) 
-
-[![Black Friday Deals Under $199](https://st.hzcdn.com/fimgs/55218505073ea806_9495-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 75% OFF
-
-Black Friday Deals Under $199](https://www.houzz.com/ideabooks/178767844) 
-
-[![Must-Have Furniture](https://st.hzcdn.com/fimgs/d91138c9073ea803_9492-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 75% OFF
-
-Must-Have Furniture](https://www.houzz.com/ideabooks/178860888) 
-
-[![Black Friday Favorites](https://st.hzcdn.com/fimgs/7b813d95073ea808_9497-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 70% OFF
-
-Black Friday Favorites](https://www.houzz.com/ideabooks/178865007) 
+Patio Furniture Sale](https://www.houzz.com/ideabooks/178947298) 
 
 [![Shop Promo Banner](https://st.hzcdn.com/fimgs/4901cf8d073e6f51_4978-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--black-friday-sale) 
 
