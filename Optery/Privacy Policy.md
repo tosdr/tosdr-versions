@@ -1,6 +1,7 @@
 [Skip to content](#content)
 
-[🏆Optery Named Top InfoSec Innovator Award Winner for Attack Surface Management by Cyber Defense Magazine for 2024🙏](https://optery.com/optery-top-infosec-innovator-2024-attack-surface-management/)
+Use promo code **kzR9y7LX**  
+at checkout for 20% Off 🎉 Happy Thanksgiving from Optery! 🦃
 
 [![Optery logo](https://www.optery.com/wp-content/themes/theme-optery/theme/images/optery_logo.svg)](https://www.optery.com/)
 
