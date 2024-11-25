@@ -183,11 +183,10 @@ SearchSubmit search
 * [Thematic index](https://nlnet.nl/thema/)
 * [Stories](https://nlnet.nl/stories/)
 
-**Newsletter**
+**Newsletters**
 
-Subscribe to our newsletter
-
-[Subscribe](https://lists.nlnet.nl/mailman3/lists/newsletter.lists.nlnet.nl/)
+* [The NLnet newsletter](https://lists.nlnet.nl/mailman3/lists/newsletter.lists.nlnet.nl/)
+* [The NGI Zero newsletter](https://lists.ngi-0.eu/subscribe/ngizero-newsletter)
 
 **Support NLnet**
 
