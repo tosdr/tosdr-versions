@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Japanese Sleepers](https://www.somethingawful.com/photoshop-phriday/japanese-sleepers/1/)
-* [The Fast and Furious: From 27 to 65 Years In Under Two Weeks](https://www.somethingawful.com/news/fast-furious-from/)
-* [Lowtax's Injuries and Hair Troubles](https://www.somethingawful.com/news/lowtaxs-injuries-hair/)
-* [The Torturous Games Jimmy Fallon Will Make You Play in His Fiefdom of Hell](https://www.somethingawful.com/news/fallon-torture-hell/)
-* [Best Names For Boats II](https://www.somethingawful.com/news/funny-boat-names/)
+* [September 3, 2007](https://www.somethingawful.com/forum-fridays/ff09-03-07/1/)
+* [Lookin' For Buds in All the Wrong Places](https://www.somethingawful.com/news/jo-buds-2/1/)
+* [A Robot's Day Off](https://www.somethingawful.com/comedy-goldmine/robots-day-off/1/)
+* [FanFiction.net, Incest Taboo and Jadakiss](https://www.somethingawful.com/weekend-web/fanfictionnet-incest-taboo/1/)
+* [Dragonmage](https://www.somethingawful.com/awful-links/awful-link-680/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Crazy Animated Ideas!](https://www.somethingawful.com/comedy-goldmine/animate-crazy-ideas/1/)
-* [Valid Reasons For Not Buying Transistor](https://www.somethingawful.com/video-game-article/transistor-valid-reasons/)
-* [The Men Must Pay for What They Did to the Footballs](https://www.somethingawful.com/news/football-deflate-patriots/)
-* [Video Game Article - 03/25/06](https://www.somethingawful.com/video-game-article/video-game-article-9/)
-* [Spout.ly: October’s Sour Sips](https://www.somethingawful.com/news/spoutly-october-sips/)
+* [Dog & Cat - Catron Fashions](https://www.somethingawful.com/awful-links/awful-link-3383/)
+* [Was the Narration in Blade Runner Really That Bad?](https://www.somethingawful.com/news/blade-runner-narration/)
+* [How to Solve the Most Difficult Puzzles in the Witness](https://www.somethingawful.com/video-game-article/witness-puzzle-solution/)
+* [The Art of Menstruation](https://www.somethingawful.com/awful-links/awful-link-3279/)
+* [Something Awful's 2015 Game of the Year Awards](https://www.somethingawful.com/video-game-article/game-year-awards/)
 
 [Random!](https://www.somethingawful.com/random/)
 
