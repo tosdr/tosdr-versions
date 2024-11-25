@@ -319,7 +319,7 @@
     
     [](https://statistaplus.com/en)
     
-    Statista+ offers additional, data-driven services, tailored to your specific needs. As your partner for data-driven success, we combine expertise in research, strategy, and marketing communications to deliver comprehensive solutions. [Contact us directly for your individual offer.](https://statistaplus.com/en)
+    Statista+ offers additional, data-driven services, tailored to your specific needs. As your partner for data-driven success, we combine expertise in research, strategy, and marketing communications. [Visit the Statista+ website for comprehensive solutions.](https://statistaplus.com/en)
     
     Research
     
