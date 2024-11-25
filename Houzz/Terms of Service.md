@@ -597,7 +597,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 * [Shop All Sale](https://www.houzz.com/products/on-sale)
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/4901cf8d073e6f51_4978-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--black-friday-sale)
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/f9c11da807442f68_1853-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--black-friday-sale)
 
 [![The Ultimate Black Friday Sale](https://st.hzcdn.com/fimgs/2c0132c6074356f3_6419-w150-h150-b4-p0--home-design.jpg)
 
@@ -645,7 +645,7 @@ UP TO 65% OFF
 
 Patio Furniture Sale](https://www.houzz.com/ideabooks/178947298) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/4901cf8d073e6f51_4978-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--black-friday-sale) 
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/f9c11da807442f68_1853-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--black-friday-sale) 
 
 [0](https://www.houzz.com/viewCart)
 
