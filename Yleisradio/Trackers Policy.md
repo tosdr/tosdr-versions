@@ -2,7 +2,7 @@
 
 [Etusivu](https://yle.fi/)
 
-[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Pentulive](https://yle.fi/t/18-332106/fi)[Rallin MM-sarja](https://yle.fi/a/74-20126191)
+[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Pentulive](https://yle.fi/t/18-332106/fi)
 
 [Hae](https://haku.yle.fi/)
 
@@ -15,7 +15,6 @@ Pinnalla nyt
 
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
 * [Pentulive](https://yle.fi/t/18-332106/fi)
-* [Rallin MM-sarja](https://yle.fi/a/74-20126191)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
@@ -243,7 +242,7 @@ Detailed information
 | Chartbeat | ping | chartbeat.net (third party) | session | Pixel Tracker | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
 | Common | yle\_country\_code | yle.fi | 7 days | HTML Local Storage | The cookie is used in analytics to distinguish foreign consumption of services from domestic, so that we can better serve the Finnish public |
 | Common | yle\_sk | yle.fi | permanent | Identifier | To identify and enable the service for logged in users. Is used for analysis, development and follow up of the personal experience as well as for analysis of logged usage in general. |
-| Cookie consent | userconsent | yle.fi | 180 days | HTTP Cookie | Cookie management of Yle's browser services. Displaying cookie consent in the browser interface to the service user. |
+| Cookie consent | userconsent | yle.fi | 180 days | HTTP Cookie | To control cookies and consents in Yle’s services. To show the cookie preferences in Yle’s services. To control permissions concerning the Yle ID agreement. |
 | Customer service | 4fa7344c-190f-11eb-86df-b52643870a23\_chatHistory | getjenny.com (third party) | permanent | HTML Local Storage | Functional cookies on yle.fi/customer-service. |
 | Customer service | 4fa7344c-190f-11eb-86df-b52643870a23\_conversationToken | getjenny.com (third party) | permanent | HTML Local Storage | Functional cookies on yle.fi/customer-service. |
 | Customer service | 4fa7344c-190f-11eb-86df-b52643870a23\_getjenny\_bot\_identifier | getjenny.com (third party) | permanent | HTML Local Storage | Functional cookies on yle.fi/customer-service. |
@@ -290,7 +289,7 @@ Detailed information
 | Yle Areena | navigationOnboardingCompleted | areena.yle.fi | permanent | HTML Local Storage | Information about whether the user has closed the user training related to Areena's navigation reform. This is used to skip the orientation for those users who have closed the orientation once. |
 | Yle Areena | podcasts:podcastToRestore | areena.yle.fi | permanent | HTML Local Storage | Information about the podcast or radio program the user has listened to most recently. Used to return this program to the site's audio player when the user returns to the site. |
 | Yle Areena | podcasts:playQueue | areena.yle.fi | permanent | HTML Local Storage | Makes it possible to remember which radio or podcast programs a user has added to their playlist between page loads and visits. |
-| Yle ID | ylelogin | yle.fi | 370 days | HTTP Cookie | A cookie related to authentication, which identifies the Yle ID user. |
+| Yle ID | ylelogin | yle.fi | 370 days | HTTP Cookie | An identiying cookie for authentication, through which an Yle ID user or an Yle ID children’s profile can be identified. |
 | Yle ID | yle\_sk | yle.fi | permanent | Local Storage | To identify and enable the service for logged in users. Is used for analysis, development and follow up of the personal experience as well as for analysis of logged usage in general. |
 | yle.fi | yleinteraction | yle.fi | 12 hours | HTTP Cookie | A session identifier used in interactive content on Yle's digital services, which preserves the choices made by the user between uses of the application. |
 | yle.fi | ukko\_abgroup | yle.fi | 6 days | HTTP Cookie | User tests of yle.fi entity. |
@@ -331,7 +330,7 @@ Detailed information
 | profiles | yle.fi | permanent | Local storage | Remembering the user profiles logged in to the device. |
 | promotions | yle.fi | permanent | Local storage | Remembering the state of the prompt to login. |
 | subtitleSettings | yle.fi | permanent | Local storage | Remembering the subtitle settings. |
-| userconsent | yle.fi | 365 days | HTTP Cookie | Cookie management of Yle's browser services. Displaying cookie consent in the browser interface to the service user. |
+| userconsent | yle.fi | 365 days | HTTP Cookie | To control cookies and consents in Yle’s services. To show the cookie preferences in Yle’s services. To control permissions concerning the Yle ID agreement. |
 | yle.referrer.source |     |     | URL parameter | Analysis of the source of incoming traffic to the Yle App. |
 | yle\_did | kundens apparat | permanent | Local Storage | Measuring the number of users of the contents of Yle's internet services as required by the tasks laid down in the Public Broadcasting Act with the help of an external independent research organization. The Finnish Internet Audience Measurement (FIAM) is the official measurement of online communities in Finland. |
 | yle\_hbbtv\_language\_preference | yle.fi | 31 days | HTTP Cookie | Remembering user-defined Yle Areena functional settings, such as the language of text playback. |
@@ -340,7 +339,7 @@ Detailed information
 | yle\_sk | yle.fi | permanent | Local Storage | To identify and enable the service for logged in users. Is used for analysis, development and follow up of the personal experience as well as for analysis of logged usage in general. |
 | yleareenauser | yle.fi | 3650 days | HTTP Cookie | Remembering user-defined Yle Areena functional settings, such as the language of text playback. |
 | yleinteraction | yle.fi | 12 hours | HTTP Cookie | A session identifier used in interactive content on Yle's digital services, which preserves the choices made by the user between uses of the application. |
-| ylelogin | yle.fi | 370 days | HTTP Cookie | A cookie related to authentication, which identifies the Yle ID user. |
+| ylelogin | yle.fi | 370 days | HTTP Cookie | An identiying cookie for authentication, through which an Yle ID user or an Yle ID children’s profile can be identified. |
 
 Yle
 
