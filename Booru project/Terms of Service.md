@@ -10,11 +10,11 @@ where the imageboards live
 * [![](images/menu_top_boorus.png)Top Boorus](https://booru.org/top "List of most popular boorus")
 * [![](images/menu_faq.png)FAQ](https://booru.org/faq)
 
-  ![00](http://00.booru.org/favicon.ico)  Booru of the day: |**[00](http://00.booru.org/)**|
+  ![adora](https://adora.booru.org/favicon.ico)  Booru of the day: |**[adora](https://adora.booru.org/)**|
 
-* SFW
-* 744 ![images](images/booru_totalimages.gif)
-* 3 ![members](images/booru_totalusers.gif)
+* NSFW
+* 984 ![images](images/booru_totalimages.gif)
+* 1 ![members](images/booru_totalusers.gif)
 
 * [![](images/menu_login.gif)Log into your Booru](https://booru.org/login)
 
