@@ -107,7 +107,7 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234519/G2_DOM_Online_Payoff_1-Sheet_06_FIN12.jpg)
     
     Gladiator II (2024)](https://www.fandango.com/gladiator-ii-2024-234519/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235102/FND_poster_Moana2-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235102/GAR_Payoff_Clam_1s_v90_Mech5_FS.jpg)
     
     Moana 2 (2024)](https://www.fandango.com/moana-2-2024-235102/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235322/red_one.jpg)
