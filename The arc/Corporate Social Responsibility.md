@@ -182,10 +182,6 @@ The Arc is committed to continuously improving the accessibility and usability o
 * [Store](https://www.bonfire.com/store/the-arc/)
 * [Contact Us](https://thearc.org/contact-us/)
 
-Sign Up for Email Updates             
-
-### Sign Up for Email Updates
-
   
 
 ![](/wp-content/uploads/2018/12/arc-footer-logo.png)
@@ -203,6 +199,10 @@ Copyright © 2023 by The Arc, a 501(c)(3) organization|[Terms of Service](https:
 The Arc and The Arc’s chapters are each separate and distinct 501(C)(3) organizations, each with their own staff and board of directors. The Arc does not have any authority or oversight over chapter activities or any involvement in the daily operations of chapters. The information about chapter providers and services contained on this website does not constitute endorsement or recommendation by The Arc. It is your responsibility to verify and investigate providers and services. The Arc assumes no liability of any kind for the content of any information transmitted to or received by any person in connection with the person’s use of the website. References on this website to any specific products, process, information, service, or organization do not constitute endorsement or recommendation by The Arc.
 
 [Scroll to top](#top "Scroll to top")
+
+[![](https://thearc.org/wp-content/uploads/2024/11/24-157.06-DEV-EOY-thearc.org-Pop-Up-scaled.jpg)](https://donate.thearc.org/give/642937/#!/donation/checkout)
+
+×
 
 ![](https://thearc.org/wp-content/uploads/2020/07/Popup-image-top.jpg)
 
