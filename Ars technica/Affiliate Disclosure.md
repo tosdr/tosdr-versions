@@ -87,13 +87,13 @@ Most Read
     
     1. [Elizabeth Warren calls for crackdown on Internet “monopoly” you’ve never heard of](https://arstechnica.com/tech-policy/2024/11/elizabeth-warren-calls-for-crackdown-on-internet-monopoly-youve-never-heard-of/)
     
-2. 2. [Russian ballistic missile attack on Ukraine portends new era of warfare](https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/)
+2. 2. [After Russian ship docks to space station, astronauts report a foul smell](https://arstechnica.com/space/2024/11/after-russian-ship-docks-to-space-station-astronauts-report-a-foul-smell/)
     
-3. 3. [The good, the bad, and the ugly behind the push for more smart displays](https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/)
+3. 3. [Russian ballistic missile attack on Ukraine portends new era of warfare](https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/)
     
-4. 4. [Spies hack Wi-Fi networks in far-off land to launch attack on target next door](https://arstechnica.com/security/2024/11/spies-hack-wi-fi-networks-in-far-off-land-to-launch-attack-on-target-next-door/)
+4. 4. [What delusions can tell us about the cognitive nature of belief](https://arstechnica.com/science/2024/11/what-delusions-can-tell-us-about-the-cognitive-nature-of-belief/)
     
-5. 5. [Our Universe is not fine-tuned for life, but it’s still kind of OK](https://arstechnica.com/science/2024/11/our-universe-is-not-fine-tuned-for-life-but-its-still-kind-of-ok/)
+5. 5. [The good, the bad, and the ugly behind the push for more smart displays](https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/)
     
 
 Customize
