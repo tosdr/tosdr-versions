@@ -109,27 +109,27 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 Most recent
 -----------
 
-[24-11-2024
+[25-11-2024
 
-What ‘deal’ the EU can offer Trump](https://www.euractiv.com/section/global-europe/news/what-deal-the-eu-can-offer-trump/)[24-11-2024
+Niger requests replacement of EU ambassador amid flood aid row](https://www.euractiv.com/section/global-europe/news/niger-requests-replacement-of-eu-ambassador-amid-flood-aid-row/)[25-11-2024
 
-COP29 outcome: EU upbeat on finance, disappointed on climate action](https://www.euractiv.com/section/eet/news/cop29-outcome-eu-upbeat-on-finance-disappointed-on-climate-action/)[24-11-2024
+Roberta Metsola: The US ‘understands the language of power’](https://www.euractiv.com/section/politics/news/roberta-metsola-the-us-understands-the-language-of-power/)[25-11-2024
 
-Hard right’s Simion in with a chance as Romanians vote for president](https://www.euractiv.com/section/politics/news/hard-rights-simion-in-with-a-chance-as-romanians-vote-for-president/)[23-11-2024
+Ukraine studies debris from new Russian ballistic missile](https://www.euractiv.com/section/global-europe/news/ukraine-studies-debris-from-new-russian-ballistic-missile/)[25-11-2024
 
-Warsaw Mayor runs for Polish president as ruling party’s candidate](https://www.euractiv.com/section/politics/news/warsaw-mayor-runs-for-polish-president-as-ruling-partys-candidate/)[23-11-2024
+Spain’s centre-right ‘foolish’ to think EPP would upset EU alliance, expert says](https://www.euractiv.com/section/politics/news/the-capitals-spains-centre-right-foolish-to-think-epp-would-upset-eu-alliance-expert-says/)[25-11-2024
 
-COP29 braces for new deal after poorer nations reject climate offer](https://www.euractiv.com/section/eet/news/cop29-braces-for-new-deal-after-poorer-nations-reject-climate-offer/)[23-11-2024
+Czechia does not seek extension of Russian oil import exemption](https://www.euractiv.com/section/politics/news/czechia-does-not-seek-extension-of-russian-oil-import-exemption/)[25-11-2024
 
-Putin says Russia will keep testing new missile in combat](https://www.euractiv.com/section/global-europe/news/putin-says-russia-will-keep-testing-new-missile-in-combat/)[22-11-2024
+Polish PiS picks little-known Karol Nawrocki as presidential candidate](https://www.euractiv.com/section/politics/news/polish-pis-picks-little-known-karol-nawrocki-as-presidential-candidate/)[25-11-2024
 
-US sanctions on Gazprombank will accelerate EU-Russia decoupling, analysts say](https://www.euractiv.com/section/economy-jobs/news/us-sanctions-on-gazprombank-will-accelerate-eu-russia-decoupling-analysts-say/)[22-11-2024
+Foreign police officers to help at Bulgarian-Turkish border after Schengen entry](https://www.euractiv.com/section/politics/news/foreign-police-officers-to-help-at-bulgarian-turkish-border-after-schengen-entry/)[25-11-2024
 
-Closing rule of law procedure against Poland ‘a good decision’, Reynders said](https://www.euractiv.com/section/politics/news/closing-rule-of-law-procedure-against-poland-a-good-decision-reynders-said/)[22-11-2024
+Donald Trump Jr. helps his father pick the most controversial cabinet of modern times](https://www.euractiv.com/section/global-europe/news/donald-trump-jr-helps-his-father-pick-the-most-controversial-cabinet-of-modern-times/)[25-11-2024
 
-Europe’s broken food system, time to finance resilient and sustainable food systems](https://www.euractiv.com/section/agriculture-food/news/europes-broken-food-system-time-to-finance-resilient-and-sustainable-food-systems/)[22-11-2024
+Portugal welcomes COP29 decisions, laments ‘little ambition’ on mitigation](https://www.euractiv.com/section/politics/news/portugal-welcomes-cop29-decisions-laments-little-ambition-on-mitigation/)[25-11-2024
 
-Businesses urge EU to become more like the US](https://www.euractiv.com/section/economy-jobs/news/businesses-urge-eu-to-become-more-like-the-us/)
+Greece’s wounded left elects new chief](https://www.euractiv.com/section/politics/news/greeces-wounded-left-elects-new-chief/)
 
 ###### Advertisement
 
