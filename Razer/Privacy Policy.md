@@ -1438,7 +1438,7 @@ Your Cart is empty.
 * [RazerStore Rewards](https://www.razer.com/store/rewards)
 * [Log In](#)
 
-Pick the perfect gifts for every kind of gamer with our Razer Holiday Gift Guide. [Shop Now \>](https://www.razer.com/campaigns/year-end-gift-guide)
+Cyber Weekend Specials: From Nov 25 to Dec 3, min-max your shopping with insane savings and bonus gifts. [Shop Now \>](https://www.razer.com/campaigns/cyber-weekend-2024)
 
 RAZER CUSTOMER PRIVACY POLICY
 =============================
