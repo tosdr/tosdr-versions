@@ -89,29 +89,7 @@ Contact us
 English
 
 * English
-* [čeština](https://www.crazygames.cz/zasady-ochrany-osobnich-udaju)
-* [Dansk](https://www.crazygames.dk/privatlivspolitik)
-* [Deutsch](https://de.crazygames.com/datenschutzrichtlinien)
-* [Español](https://www.1001juegos.com/privacidad)
-* [Français](https://www.crazygames.fr/politique-de-confidentialite)
-* [Indonesia](https://www.crazygames.co.id/kebijakan-privasi)
-* [Italiano](https://it.crazygames.com/privacy)
-* [Magyar](https://www.crazygames.hu/adatkezelesi-nyilatkozat)
-* [Nederlands](https://www.crazygames.nl/privacy)
-* [Norsk](https://www.crazygames.no/personvern)
-* [Polski](https://www.crazygames.pl/polityka-prywatnosci)
-* [Português](https://www.crazygames.com.br/politica-de-privacidade)
-* [Română](https://www.crazygames.ro/politica-de-confidentialitate)
-* [Suomi](https://www.crazygames.fi/yksityisyyskaytanto)
-* [Svenska](https://www.crazygames.se/integritets-policy)
-* [Tiếng Việt](https://vn.crazygames.com/ch%C3%ADnh-s%C3%A1ch-quy%E1%BB%81n-ri%C3%AAng-t%C6%B0)
-* [Türkçe](https://tr.crazygames.com/gizlilik-politikas%C4%B1)
-* [Ελληνικά](https://gr.crazygames.com/politikh-aporrhtou)
-* [Русский](https://www.crazygames.ru/politika-konfidentsialnosti)
-* [Українська](https://www.crazygames.com.ua/umovi-konf%D1%96dents%D1%96inost%D1%96)
-* [عربي](https://ar.crazygames.com/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9%20%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9)
-* [ไทย](https://th.crazygames.com/%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7)
-* [한국어](https://www.crazygames.co.kr/%EC%9D%80%EB%91%94)
+[* čeština](https://www.crazygames.cz/zasady-ochrany-osobnich-udaju)[* Dansk](https://www.crazygames.dk/privatlivspolitik)[* Deutsch](https://de.crazygames.com/datenschutzrichtlinien)[* Español](https://www.1001juegos.com/privacidad)[* Français](https://www.crazygames.fr/politique-de-confidentialite)[* Indonesia](https://www.crazygames.co.id/kebijakan-privasi)[* Italiano](https://it.crazygames.com/privacy)[* Magyar](https://www.crazygames.hu/adatkezelesi-nyilatkozat)[* Nederlands](https://www.crazygames.nl/privacy)[* Norsk](https://www.crazygames.no/personvern)[* Polski](https://www.crazygames.pl/polityka-prywatnosci)[* Português](https://www.crazygames.com.br/politica-de-privacidade)[* Română](https://www.crazygames.ro/politica-de-confidentialitate)[* Suomi](https://www.crazygames.fi/yksityisyyskaytanto)[* Svenska](https://www.crazygames.se/integritets-policy)[* Tiếng Việt](https://vn.crazygames.com/ch%C3%ADnh-s%C3%A1ch-quy%E1%BB%81n-ri%C3%AAng-t%C6%B0)[* Türkçe](https://tr.crazygames.com/gizlilik-politikas%C4%B1)[* Ελληνικά](https://gr.crazygames.com/politikh-aporrhtou)[* Русский](https://www.crazygames.ru/politika-konfidentsialnosti)[* Українська](https://www.crazygames.com.ua/umovi-konf%D1%96dents%D1%96inost%D1%96)[* عربي](https://ar.crazygames.com/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9%20%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9)[* ไทย](https://th.crazygames.com/%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7)[* 한국어](https://www.crazygames.co.kr/%EC%9D%80%EB%91%94)
 
 [About](https://about.crazygames.com/)[Developers](https://developer.crazygames.com/)[Kids site](https://kids.crazygames.com/)[Jobs](https://crazygames.recruitee.com/)[Info for parents](https://www.crazygames.com/information-for-parents)[Terms & conditions](https://www.crazygames.com/terms-and-conditions)[Privacy](https://www.crazygames.com/privacy-policy)[All games](https://www.crazygames.com/sitemap/games)
 
