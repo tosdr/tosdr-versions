@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Father of missing Hawaii photographer found dead near LAX while searching for daughter](https://nypost.com/2024/11/25/us-news/father-of-missing-hawaii-photographer-hannah-kobayashi-found-dead-near-lax-while-searching-for-daughter/)
+[Jack Smith files motion to dismiss Jan. 6 case against Donald Trump before his inauguration](https://nypost.com/2024/11/25/us-news/jack-smith-files-motion-to-dismiss-jan-6-case-against-donald-trump-before-his-inauguration/)
 
 Terms Of Use
 ============
