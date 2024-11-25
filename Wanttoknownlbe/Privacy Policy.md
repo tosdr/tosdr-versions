@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/kroniek-uit-de-toekomst-hoe-bijzonder/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/stikstofcrisis-resultaat-van-pseudo-wetenschap-en-grove-onnauwkeurigheid/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
