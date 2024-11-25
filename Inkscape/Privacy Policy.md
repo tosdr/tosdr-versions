@@ -1,14 +1,14 @@
-[![Inkscape](https://media.inkscape.org/static/images/inkscape-logo.svg)](https://inkscape.org/en/)
+[![Inkscape](https://media.inkscape.org/static/images/inkscape-logo.svg)](https://inkscape.org/fr/)
 
-[Inkscape](https://inkscape.org/en/)
+[Inkscape](https://inkscape.org/fr/)
 ====================================
 
-[Draw Freely.](https://inkscape.org/en/)
-----------------------------------------
+[Dessiner en toute liberté.](https://inkscape.org/fr/)
+------------------------------------------------------
 
 * [❤️ Help us make Inkscape awesome! ❤️](https://inkscape.org/support-us/donate/)
     
-* English
+* français
     
     [English](https://inkscape.org/en/about/privacy/)
     
@@ -42,170 +42,170 @@
     
     [Indonesia](https://inkscape.org/id/about/privacy/)
     
-* [Log in](https://inkscape.org/user/login/?next=/about/privacy/)
+* [Se connecter](https://inkscape.org/fr/user/login/?next=/fr/apropos/confidentialite/)
     
-* [Register](https://inkscape.org/user/register/)
+* [Créer un compte](https://inkscape.org/fr/user/register/)
     
 
- ![Search](https://media.inkscape.org/static/images/search.svg)
+ ![Rechercher](https://media.inkscape.org/static/images/search.svg)
 
-* [About](https://inkscape.org/about/)
-    * [Overview](https://inkscape.org/about/overview/)
-    * [Features](https://inkscape.org/about/features/)
-    * [Screenshots](https://inkscape.org/about/screenshots/)
-    * [Governance](https://inkscape.org/*leadership-committee/)
-    * [Licensing](https://inkscape.org/about/license/)
-    * [Branding](https://inkscape.org/about/branding/)
-* Download
+* [À propos](https://inkscape.org/fr/apropos/)
+    * [Présentation](https://inkscape.org/fr/apropos/presentation/)
+    * [Fonctionnalités](https://inkscape.org/fr/apropos/fonctionnalites/)
+    * [Captures d'écran](https://inkscape.org/fr/apropos/ecrans/)
+    * [Bureau](https://inkscape.org/fr/*board/)
+    * [Licence](https://inkscape.org/fr/apropos/licence/)
+    * [Usage de la marque](https://inkscape.org/fr/apropos/usage-de-la-marque/)
+* [Télécharger](https://inkscape.org/fr/release/)
     * [Current Stable Version 1.4](https://inkscape.org/release/)
     * [Unstable development snapshot](https://inkscape.org/release/inkscape-master/?latest=1)
-    * [Extensions](https://inkscape.org/gallery/=extension/)
-* [News](https://inkscape.org/news/)
+    * [Extensions](https://inkscape.org/fr/gallery/=extension/)
+* [Actualités](https://inkscape.org/fr/news/)
     * [Calendars](https://inkscape.org/cals/)
     * [Contributor Blog](https://inkscape.org/*membership/blog/)
-* [Community](https://inkscape.org/community/)
-    * [Code of Conduct](https://inkscape.org/community/coc/)
+* [Communauté](https://inkscape.org/fr/communaute/)
+    * [Code de conduite](https://inkscape.org/fr/communaute/code-de-conduite/)
     * [Forums](https://inkscape.org/forums/)
     * [Chat](https://chat.inkscape.org/channel/inkscape_user)
-    * [Mailing Lists](https://lists.inkscape.org/postorius/lists/?all-lists)
-    * [Gallery](https://inkscape.org/gallery/)
+    * [Listes de diffusion](https://lists.inkscape.org/postorius/lists/?all-lists)
+    * [Galerie](https://inkscape.org/fr/gallery/)
     * [Teams](https://inkscape.org/user/teams/)
     * [About Screen Contest](https://inkscape.org/community/about-screen-contests/)
-* [Learn](https://inkscape.org/learn/)
-    * [FAQ](https://inkscape.org/learn/faq/)
-    * [Books and Manuals](https://inkscape.org/learn/books/)
-    * [Tutorials](https://inkscape.org/learn/tutorials/)
-    * [Animation](https://inkscape.org/learn/animation/)
-* [Contribute](https://inkscape.org/contribute/)
-    * [Testing](https://inkscape.org/contribute/testing/)
-    * [Report Bugs](https://inkscape.org/contribute/report-bugs/)
-    * [Translations](https://inkscape.org/contribute/translations/)
-    * [Community To-Do List](https://inkscape.org/contribute/to-do-list/)
-    * [Promote](https://inkscape.org/contribute/promote/)
-    * [Contributor Stats](https://inkscape.org/contribute/contributors/)
+* [Apprendre](https://inkscape.org/fr/apprendre/)
+    * [FAQ](https://inkscape.org/fr/apprendre/faq/)
+    * [Livres et manuels](https://inkscape.org/fr/apprendre/livres/)
+    * [Didacticiels](https://inkscape.org/fr/apprendre/didacticiels/)
+    * [Animation](https://inkscape.org/fr/apprendre/animation/)
+* [Contribuer](https://inkscape.org/fr/contribuer/)
+    * [Tester](https://inkscape.org/fr/contribuer/tester/)
+    * [Rapporter les bogues](https://inkscape.org/fr/contribuer/rapporter-les-bogues/)
+    * [Traductions](https://inkscape.org/fr/contribuer/traductions/)
+    * [Choses à faire](https://inkscape.org/fr/contribuer/choses-a-faire/)
+    * [Promotion](https://inkscape.org/fr/contribuer/promotion/)
+    * [Statistiques de contribution](https://inkscape.org/fr/contribuer/statistiques-de-contribution/)
     * [Extensions](https://inkscape.gitlab.io/extensions/documentation/)
-* [Develop](https://inkscape.org/develop/)
-    * [Getting Started](https://inkscape.org/develop/getting-started/)
-    * [About SVG](https://inkscape.org/develop/about-svg/)
-    * [Coding Style](https://inkscape.org/develop/coding-style/)
-    * [Bug Management](https://inkscape.org/develop/bug-management/)
-    * [Inkscape's Repositories](https://inkscape.org/develop/inkscape-git/)
-    * [Debugging](https://inkscape.org/develop/debugging/)
-    * [Extensions](https://inkscape.org/develop/extensions/)
-* [Support Us](https://inkscape.org/support-us/)
-    * [Donate](https://inkscape.org/support-us/donate/)
-    * [Contributor Meetings](https://inkscape.org/support-us/hackfests/)
-    * [SVG Standards Work](https://inkscape.org/support-us/svg-standards-work/)
-    * [Sponsors](https://inkscape.org/support-us/sponsors/)
+* [Développer](https://inkscape.org/fr/developper/)
+    * [Démarrer](https://inkscape.org/fr/developper/demarrer/)
+    * [À propos du SVG](https://inkscape.org/fr/developper/apropos-svg/)
+    * [Style du code source](https://inkscape.org/fr/developper/style-du-code-source/)
+    * [Gestion des bogues](https://inkscape.org/fr/developper/gestion-des-bogues/)
+    * [Dépôts d'Inkscape](https://inkscape.org/fr/developper/inkscape-bzr/)
+    * [Débogage](https://inkscape.org/fr/developper/debogage/)
+    * [Extensions](https://inkscape.org/fr/developper/extensions/)
+* [Nous soutenir](https://inkscape.org/fr/nous-soutenir/)
+    * [Faire un don](https://inkscape.org/fr/nous-soutenir/faire-un-don/)
+    * [Hackathons](https://inkscape.org/fr/nous-soutenir/hackathons/)
+    * [Spécification du SVG](https://inkscape.org/fr/nous-soutenir/specification-svg/)
+    * [Sponsors](https://inkscape.org/fr/nous-soutenir/sponsors_fr/)
 
-[Home](https://inkscape.org/) » [About](https://inkscape.org/about/) » _Privacy Policy_
+[Accueil](https://inkscape.org/fr/) » [À propos](https://inkscape.org/fr/apropos/) » _Politique de confidentialité_
 
-Software Privacy Policy
-=======================
+Politique de confidentialité du logiciel
+========================================
 
-Inkscape, as a software, does not, in any way, collect or transmit any Personal Information (or any information at all).
+Le logiciel Inkscape ne collecte ni ne transmet d'aucune façon des informations personnelles (ni même une autre information).
 
-Caveat
-------
+Avertissement
+-------------
 
-Inkscape may access your Linux, Mac or Windows username e.g. C:\\Users\\Bob\\ for the purpose of opening the files you want to open with it, like any application. This username, in some cases, might be included in edited svg files.
+Inkscape peut accéder à votre nom d'utilisateur sous Linux, Mac ou Windows (par ex. C:\\Users\\Bob\\) pour vous permettre de trouver vos fichiers plus facilement afin de les ouvrir avec le logiciel, comme n'importe quelle application. Ce nom d'utilisateur, dans certains cas, peut être inclus dans les fichiers SVG modifiés.
 
-If \*you\* choose to transmit on the web a svg file created or edited with Inkscape, it might contain full file paths including that username, that Inkscape sometimes embeds into the file for the purpose of remembering where you save png exports of specific files. You can get around that by saving as "Optimized SVG", and this information will be stripped out of the file.
+Si **vous** décidez de mettre à disposition sur l'hypertoile un fichier SVG créé ou modifié avec Inkscape, il se peut qu'il contienne des chemins de fichier complets incluant ce nom d'utilisateur, qu'Inkscape écrit parfois dans le fichier afin de se souvenir où vous enregistrez les exportations en PNG de fichiers spécifiques. Cette donnée peut être enlevée par un enregistrement en « SVG optimisé ».
 
 * * *
 
-Website Privacy Policy
-======================
+Politique de confidentialité du site web
+========================================
 
-This Privacy Policy governs the manner in which Inkscape collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://inkscape.org website (“Site”).
+Cette Politique de confidentialité régit la manière dont le projet Inkscape collecte, utilise, maintient et diffuse les informations collectées des utilisateurs (chacun étant un « Utilisateur ») du site web https://inkscape.org (« Site »).
 
- ![](https://media.inkscape.org/media/cms_page_media/991/policy_blog_yIX0lKz.png)Personal identification information
---------------------------------------------------------------------------------------------------------------------
+ ![](https://media.inkscape.org/media/cms_page_media/991/policy_blog.png)Informations d'identification personnelle
+------------------------------------------------------------------------------------------------------------------
 
-We may collect personal identification information from a User in a variety of ways. This includes data collected from usage of activities, services, website features and resources offered by our website, such as, but not limited to: visiting our site, filling out forms, uploading files and responding to surveys.
+Nous collectons des informations d'identification personnelle d'un Utilisateur de différentes manières. Cela inclut les données collectées lors de la participation à des activités et lors de l'utilisation de services, de fonctionnalités et de ressources proposées par notre site web, tels que par exemple : visiter notre site, remplir des formulaires, téléverser des fichiers et répondre à des sondages.
 
-Users may be asked for their name or nick name and email address, as appropriate.  Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identifying information, except that it may prevent them from engaging in certain Site related activities.
+Le nom, le pseudonyme ou l'adresse électronique d'un Utilisateur peut lui être demandé. Les Utilisateurs peuvent néanmoins visiter notre Site de façon anonyme. Nous collecterons des informations d'identification personnelle des Utilisateurs seulement s'ils nous transmettent volontairement ces informations. Les Utilisateurs peuvent toujours refuser de fournir des informations d'identification personnelle, toutefois cela peut les empêcher de participer à des activités gérées par le Site.
 
-Sometimes we may award items, for which we require a mailing address. This doesn't need to be the User's home address - a P.O. box or place of employment or a trusted third party of their choice would be acceptable in most cases. This is opt-in, but if the User chooses not to opt-in, they may be ineligible to receive the rewards.
+Nous pouvons parfois récompenser des éléments, ce pour quoi nous exigeons une adresse électronique. Il n'est pas nécessaire qu'il s'agisse de l'adresse principale et personnelle de l'Utilisateur — une boîte de bureau, professionnelle ou d'un service tiers convient en général tout à fait. Cela exige une adhésion aux règles ; si l'Utilisateur choisit de ne pas adhérer, il peut être inéligible à la réception des récompenses.
 
-Inkscape may fund development activities or reimburse individuals for expenses or similar. Payments for these things will require some banking information (or postal address for sending checks), but this information is not required by Inkscape or its administrators; instead the User will be directed to provide it to the Software Freedom Conservancy, who will cut the checks or conduct the money transfer directly with the User.
+Inkscape peut financer des activités de développement, rembourses des individus pour des dépenses ou d'autres choses similaires. Les paiements pour ces affaires requièrent des informations banquaires (ou l'adresse postale pour l'envoi de chèques), mais ces informations ne sont pas requises par Inkscape ni par ses administrateurs ; l'Utilisateur sera à la place orienté vers le Software Freedom Conservancy, qui préparera les chèques ou fera le transfert d'argent directement avec l'Utilisateur.
 
-Data about donations a User makes to the Inkscape project are recorded by the Software Freedom Conservancy, and, depending on the way the User donates the money, by the money-handling service that is used (e.g. Paypal). Some of the individual donation data may be shared with the project Board. We will not publish any data about individual donations without the donor's consent ([Software Freedom Conservancy Privacy Policy](http://sfconservancy.org/privacy-policy/)).
+Les données concernant les dons qu'un Utilisateur a fait au projet Inkscape sont enregistrées par le Software Freedom Conservancy, et, selon la manière dont l'Utilisateur a transmis l'argent, par le service utilisé pour gérer l'argent (par ex. PayPal). Certaines données liées au don individuel peuvent être partagées avec le Bureau d'Inkscape. Nous ne publierons aucune donnée sur les dons individuels sans le consentement du donateur (voir la [Politique de confidentialité du Software Freedom Conservancy](http://sfconservancy.org/privacy-policy/)).
 
-Non-personal identification information
+Informations d'identification non personnelles
+----------------------------------------------
+
+Nous pouvons être amenés à collecter des informations d'identification non personnelles sur les Utilisateurs lorsqu'ils interagissent avec notre Site.
+
+Les informations d'identification non personnelles peuvent inclure le nom du navigateur, le type d'ordinateur, le système d'exploitation, le pays, la langue par défaut, l'adresse IP et des informations similaires.
+
+Cookies du navigateur web
+-------------------------
+
+Notre Site utilise des « cookies » pour améliorer l'expérience de l'Utilisateur. Le navigateur web de l'Utilisateur place des cookies sur son disque dur pour conserver des enregistrements et reconnaître un client informatique. L'Utilisateur peut demander à son navigateur de refuser les cookies, ou d'émettre une notification lorsque des cookies sont envoyés. Néanmoins, s'il le fait, certaines parties du site web peuvent ne pas fonctionner correctement, par ex. il peut devenir impossible de se connecter ou d'utiliser des fonctionnalités du site web au-delà de le visiter.
+
+Utilisation des informations collectées
 ---------------------------------------
 
-We may collect non-personal identification information about Users whenever they interact with our Site.
+Inkscape peut se retrouver à collecter et utiliser les informations personnelles des utilisateurs aux fins suivantes :
 
-Non-personal identification information may include the browser name, the type of computer, operating system, country, default language, IP address and similar information.
+1. Faire fonctionner notre Site
+2. Afficher correctement le contenu du Site
+3. Nous aider à répondre à vos demandes d'aide plus efficacement
+4. Personnaliser l'expérience utilisateur
+5. Comprendre comment nos Utilisateurs dans leur ensemble utilisent les services et les ressources fournies par notre Site
+6. Améliorer le fonctionnement de notre Site
+7. Organiser des promotions, des concours ou d'autres activités communautaires
+8. Envoyer aux Utilisateurs des informations qu'ils ont accepté de recevoir sur les sujets que nous pensons d'intérêt pour eux
+9. Envoyer des courriels périodiques
+10. Envoyer des notifications par courriel ou d'autres moyens sur des événements
+11. Répondre à leurs questions et autres requêtes par courriel
 
-Web browser cookies.
---------------------
-
-Our Site uses “cookies” to enhance the User's experience. The User’s web browser places cookies on their hard drive for record-keeping and tracking purposes. The User may set their web browser to refuse cookies, or to give an alert when cookies are being sent. If they do so, note that some parts of the Site may not function properly, e.g. it will not be possible to login or to use any website features beyond browsing the site.
-
-How we use collected information
---------------------------------
-
-Inkscape may collect and use Users personal information for the following purposes:
-
-1. To run and operate our Site
-2. To display content on the Site correctly
-3. To help us respond to your help requests more efficiently
-4. To personalize user experience
-5. To understand how our Users as a group use the services and resources provided on our Site
-6. To improve our Site's functionality
-7. To run promotions, contests or other community activities
-8. To send Users information they agreed to receive about topics we think will be of interest to them
-9. To send periodic emails
-10. To send alerts via email or other means about events
-11. To respond to their inquiries, questions, and/or other requests via email
-
-How we protect your information
--------------------------------
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password hash, transaction information and other data stored on our Site.
-
-Sharing your personal information
----------------------------------
-
-We do not sell, trade, or rent Users' personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
-
-Some of the information related to a User's account, e.g. date of last visit or links to social media profiles, if provided, may be visible to other users visiting our Site.
-
-Certain services on the website permit the User to upload files, including but not limited to written text, rendered artwork (PNG, etc.), and source artwork (SVG, etc.). It is assumed by the uploading of the data that the intent is for it to be shared; we provide tagging mechanisms for allowing the User to specify a license to govern the sharing of this data. Apart from the license, no promises of non-disclosure are provided for material uploaded to the site.
-
-Mailing Lists and Announcements
--------------------------------
-
-If a User decides to opt-in to our mailing list, they will receive emails that may include news and project updates. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or the User may [contact us](https://inkscape.org/contact/us/) via our Site.
-
-Third party websites
---------------------
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners or other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
-
-Updates
--------
-
-Inkscape has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site and revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-Your acceptance of these terms
+Protection de vos informations
 ------------------------------
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+Nous adoptons les pratiques de collection, stockage et traitement des données et les mesures de sécurité appropriées pour protéger d'un accès, une altération, une diffusion ou une destruction non autorisé vos informations personnelles — nom d'utilisateur, hachage du mot de passe, informations de transaction et autres données stockées sur notre Site.
 
-Contacting us
--------------
+Partage de vos informations personnelles
+----------------------------------------
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://inkscape.org/contact/us/).
+Nous ne vendons ni n'échangeons ni ne louons les informations d'identification personnelles des Utilisateurs à d'autres. Nous pouvons éventuellement partager des informations agrégées génériques relatives à la démographie, qui ne sont liées à aucune information d'identification personnelle sur les visiteurs et les utilisateurs, avec nos partenaires d'affaires, affiliés de confiance et publicitaires pour les motifs soulignés ci-dessus.
 
-This document was last updated on June 28, 2016
+Certaines des informations liées au compte d'un Utilisateur, par ex. la date de sa dernière visite ou les liens vers ses profils sur des médias sociaux si fournis, peuvent être visibles à d'autres utilisateurs visitant notre Site.
 
-Inkscape is Free and Open Source Software licensed under the [GPL](http://www.gnu.org/licenses/gpl-2.0.html).
+Certains services du site web permettent à l'Utilisateur de téléverser des fichiers, tels que du texte écrit, des œuvres artistiques compilées (PNG, etc.) ou des œuvres artistiques sources (SVG, etc.). Il est supposé que toute donnée téléversée l'est pour être partagée ; nous proposons un système de balisage pour que l'Utilisateur spécifie la licence régissant le partage de ces données. Outre la licence, aucune garantie de non-diffusion n'est fournie pour le contenu téléversé vers le Site.
 
-With thanks to: [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [The Authors](https://inkscape.org/credits/ "The Authors") [![PY](https://media.inkscape.org/static/images/django.svg "This site is running:
+Listes électroniques de diffusion et annonces
+---------------------------------------------
+
+Si un Utilisateur décide de souscrire à l'une de nos listes de diffusion, il recevra des courriels incluant des actualités et des mises à jour du projet. Au bas de chaque courriel diffusé sont indiquées les instructions détaillées permettant de se désinscrire de la réception des courriels futurs ; il est également possible de se désinscrire [en nous contactant](https://inkscape.org/contact/us/) via notre Site.
+
+Sites web tiers
+---------------
+
+Les Utilisateurs peuvent trouver du contenu publicitaire ou autre sur notre Site qui mène vers les sites et services de nos partenaires ou d'autres tiers. Nous ne contrôlons pas le contenu ni les liens présents sur ces sites et ne sommes pas responsables des pratiques employées par les sites web menant vers notre site ou liés par notre site. De plus, ces sites ou services, y compris leur contenu et leurs liens, peuvent changer régulièrement. Ces sites et services peuvent avoir leurs propres politiques de confidentialité et conditions d'utilisateur. La navigation et l'interaction sur tout autre site web, y compris des sites qui ont un lien vers notre Site, sont sujettes aux conditions et politiques propres à cet autre site web.
+
+Mises à jour
+------------
+
+Inkscape se réserve le droit de mettre à jour cette politique de confidentialité à tout moment en toute discrétion. Lorsque nous le ferons, nous publierons une notification sur la page principale de notre Site et changeront la date de mise à jour au bas de cette page. Nous encourageons les Utilisateurs à vérifier fréquemment les changements sur cette page pour rester informés de la manière dont nous aidons à protéger les informations personnelles que nous collections. Vous reconnaissez et acceptez qu'il est de votre responsabilité de consulter cette politique de confidentialité périodiquement et de prendre connaissance des modifications.
+
+Votre accord vis-à-vis de ces conditions
+----------------------------------------
+
+En utilisant ce Site, vous témoignez que vous êtes d'accord avec les termes de cette politique. Si vous n'êtes pas d'accord avec les termes de cette politique, veuillez ne pas utiliser notre Site. Votre usage continu du Site suivant la publication de changements sur cette politique suppose votre accord avec les changements.
+
+Nous contacter
+--------------
+
+Si vous avez la moindre question sur cette Politique de confidentialité, les pratiques de ce site ou vos affaires avec ce site, veuillez [nous contacter](https://inkscape.org/contact/us/).
+
+Ce document a été mis à jour pour la dernière fois le 28 juin 2016.
+
+Inkscape est un logiciel libre et open source sous licence [GPL](http://www.gnu.org/licenses/gpl-2.0.html).
+
+Remerciements à : [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL](https://osuosl.org/ "Site Hosted by OSUOSL") [Sponsors](https://inkscape.org/support-us/sponsors/ "All of our Sponsors") [Les auteurs](https://inkscape.org/fr/credits/ "Les auteurs") [![PY](https://media.inkscape.org/static/images/django.svg "Ce site exécute :
 Python 3.6.8
 Django 2.2
-App: CMS [Privacy Policy]
+App: CMS [Politique de confidentialité]
 InkscapeWeb 1.6, as of Fri Nov 8 14:34:05 2024 (fe88ea0)")](https://gitlab.com/inkscape/inkscape-web)
