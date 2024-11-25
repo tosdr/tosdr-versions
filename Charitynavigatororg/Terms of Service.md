@@ -54,7 +54,7 @@
     * [Giving Basket](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-basket.html)
     * [Donor Video Resources](https://www.charitynavigator.org/donor-basics/tools-for-giving/donor-video-resources.html)
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
-    * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
+    * [Planned Giving](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Charity Navigator Account](https://www.charitynavigator.org/donor-basics/tools-for-giving/benefits-of-charity-navigator-account.html)
     * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
     
@@ -151,7 +151,7 @@
     * [Giving Basket](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-basket.html)
     * [Donor Video Resources](https://www.charitynavigator.org/donor-basics/tools-for-giving/donor-video-resources.html)
     * [Volunteer Opportunities](https://volunteer.charitynavigator.org/)
-    * [Estate Planner](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
+    * [Planned Giving](https://www.charitynavigator.org/donor-basics/tools-for-giving/estate-planner.html)
     * [Charity Navigator Account](https://www.charitynavigator.org/donor-basics/tools-for-giving/benefits-of-charity-navigator-account.html)
     * [Giving Circle Finder](https://www.charitynavigator.org/donor-basics/tools-for-giving/giving-circle-finder.html)
     
