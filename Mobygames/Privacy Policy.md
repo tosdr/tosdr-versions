@@ -39,9 +39,9 @@
 
 🕹️ [Pre-Order the NEW Atari 7800+ Today!](https://atari.com/products/atari-7800?utm_source=mobygames&utm_medium=referral&utm_campaign=launch)
 
-[![Tetris Forever](https://www.mobygames.com/static/img/tf_1180x90.909323bd.png)](https://www.digitaleclipse.com/games/tetrisforever)
+[![Tetris Forever](https://www.mobygames.com/static/img/bf_1180x90.1132e8c0.jpg)](https://atari.com/collections/early-access-sale?utm_campaign=mobygames&utm_medium=referral&utm_source=mobygames)
 
-[![Tetris Forever](https://www.mobygames.com/static/img/tf_300x90.1434f33d.png)](https://www.digitaleclipse.com/games/tetrisforever)
+[![Tetris Forever](https://www.mobygames.com/static/img/bf_300x90.90c33f3a.jpg)](https://atari.com/collections/early-access-sale?utm_campaign=mobygames&utm_medium=referral&utm_source=mobygames)
 
 Privacy Policy
 ==============
@@ -194,4 +194,4 @@ Please contact us with any questions or comments about this Privacy Policy, your
 
 © 1999–2024 MobyGames ™
 
-v20241114
+v20241125
