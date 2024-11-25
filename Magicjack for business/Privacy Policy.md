@@ -25,11 +25,11 @@ For exclusive announcement and offers
 * [Pricing](https://www.magicjackforbusiness.com/pricing/)
 * [Resources](#)
     
-    [Support](https://faq.magicjackforbusiness.com/s/) [Product Help](https://www.magicjackforbusiness.com/product-help/) [Case Studies](https://www.magicjackforbusiness.com/case-studies/) [Blog](https://www.magicjackforbusiness.com/blog/)
+    [Support](https://support.magicjackforbusiness.com/support/home) [Product Help](https://www.magicjackforbusiness.com/product-help/) [Case Studies](https://www.magicjackforbusiness.com/case-studies/) [Blog](https://www.magicjackforbusiness.com/blog/)
     
 * [Resources](#)
     
-    [Support](https://faq.magicjackforbusiness.com/s/) [Product Help](https://www.magicjackforbusiness.com/product-help/) [Case Studies](https://www.magicjackforbusiness.com/case-studies/) [Blog](https://www.magicjackforbusiness.com/blog/)
+    [Support](https://support.magicjackforbusiness.com/support/home) [Product Help](https://www.magicjackforbusiness.com/product-help/) [Case Studies](https://www.magicjackforbusiness.com/case-studies/) [Blog](https://www.magicjackforbusiness.com/blog/)
     
 * [Get Started](https://buy.magicjackforbusiness.com/)
 
@@ -195,7 +195,7 @@ EXCLUSIVE ANNOUNCEMENTS AND OFFERS.
 **Customer Care**  
 
 * [Sign In](https://account.magicjackforbusiness.com/)
-* [FAQs](https://faq.magicjackforbusiness.com/s/)
+* [FAQs](https://support.magicjackforbusiness.com/support/home)
 * [Contact Us](https://www.magicjackforbusiness.com/contact/)
 * [Chat with Customer Care](#0)
 
