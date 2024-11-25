@@ -2,7 +2,11 @@
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
+Up to 25% Off Black Friday Sale [save](https://porterroad.com/collections/black-friday-sale)
+
 Flat Rate Shipping on Orders $125+ [details](#)
+
+Up to 25% Off [save](https://porterroad.com/collections/black-friday-sale)
 
 ![close button](//porterroad.com/cdn/shop/t/145/assets/x.svg?v=149134315310457235151695148459)
 
@@ -33,7 +37,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     -------](https://porterroad.com/collections/chicken)
     
 * [Subscriptions](https://porterroad.com/pages/subscriptions)
-* [Thanksgiving Specials](https://porterroad.com/collections/holiday-specials)
+* [Black Friday Sale](https://porterroad.com/collections/black-friday-sale)
 
 [![Porter Road logo](//porterroad.com/cdn/shop/t/145/assets/pr-logo.svg?v=109538801025733471761695148435)](https://porterroad.com/)
 
@@ -116,7 +120,7 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     #### Chicken](https://porterroad.com/collections/chicken)
     
 * [Subscriptions](https://porterroad.com/pages/subscriptions)
-* [Thanksgiving Specials](https://porterroad.com/collections/holiday-specials)
+* [Black Friday Sale](https://porterroad.com/collections/black-friday-sale)
 * [Our Story](https://porterroad.com/pages/about)
 * [Our Process](https://porterroad.com/pages/our-process)
 * [Invest](https://www.startengine.com/offering/porterroad?utm_source=pr_site&utm_medium=topnav&utm_campaign=launch)
