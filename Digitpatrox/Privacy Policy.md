@@ -20,16 +20,16 @@ Monday, November 25 2024
 
 Latest
 
+* [‘Adversary in the middle attacks’ are becoming hackers’ go-to method to bypass MFA](https://digitpatrox.com/adversary-in-the-middle-attacks-are-becoming-hackers-go-to-method-to-bypass-mfa/)
+* [Need a Website Fast? Here’s How to Go Live in Hours, Not Weeks](https://digitpatrox.com/need-a-website-fast-heres-how-to-go-live-in-hours-not-weeks/)
+* [Forget Le Creuset — this cast iron Dutch oven is $250 less for Black Friday](https://digitpatrox.com/forget-le-creuset-this-cast-iron-dutch-oven-is-250-less-for-black-friday/)
+* [Sony’s making a handheld console to compete with Nintendo and Microsoft](https://digitpatrox.com/sonys-making-a-handheld-console-to-compete-with-nintendo-and-microsoft/)
+* [Why Was John Dutton’s Face Not Shown in Yellowstone Season 5 Episode 11?](https://digitpatrox.com/why-was-john-duttons-face-not-shown-in-yellowstone-season-5-episode-11/)
+* [The Pixel 9 Pro Is $200 Off During Black Friday](https://digitpatrox.com/the-pixel-9-pro-is-200-off-during-black-friday/)
+* [How to Find an Eco-Friendly Laundry Detergent](https://digitpatrox.com/how-to-find-an-eco-friendly-laundry-detergent/)
+* [Lifetime Plex Pass is 25% Off For Black Friday](https://digitpatrox.com/lifetime-plex-pass-is-25-off-for-black-friday/)
+* [New on Netflix: 5 movies and shows to watch this week (Nov. 25-Dec. 1)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-nov-25-dec-1/)
 * [Nintendo’s terrific Switch Pro Controller is $20 off through Black Friday](https://digitpatrox.com/nintendos-terrific-switch-pro-controller-is-20-off-through-black-friday/)
-* [How to Get the Relic Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-relic-rod-in-fisch-roblox/)
-* [The Best Tech Deals During Target’s Black Friday Sale (So Far)](https://digitpatrox.com/the-best-tech-deals-during-targets-black-friday-sale-so-far/)
-* [Most and Least Reliable Snow Blower Brands](https://digitpatrox.com/most-and-least-reliable-snow-blower-brands/)
-* [How to Use the SEQUENCE Function in Excel](https://digitpatrox.com/how-to-use-the-sequence-function-in-excel/)
-* [Newcastle vs West Ham live stream: How to watch Premier League game online](https://digitpatrox.com/newcastle-vs-west-ham-live-stream-how-to-watch-premier-league-game-online/)
-* [Tech CEOs want to replicate Tim Cook’s Donald Trump playbook](https://digitpatrox.com/tech-ceos-want-to-replicate-tim-cooks-donald-trump-playbook/)
-* [NYT Connections Today: Hints and Answers for November 25, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-25-2024/)
-* [My Favorite Home Storage Items on Sale for Black Friday](https://digitpatrox.com/my-favorite-home-storage-items-on-sale-for-black-friday/)
-* [Hyundai Ioniq 9 Preview – Consumer Reports](https://digitpatrox.com/hyundai-ioniq-9-preview-consumer-reports/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/k8lt-JdHDzGtCTORAaNl9WrDb9w=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/8028811/jbareham_170221_1475_0010.0.jpg)](https://digitpatrox.com/nintendos-terrific-switch-pro-controller-is-20-off-through-black-friday/)
+* [![](https://cdn.mos.cms.futurecdn.net/igaBzZQpuS7anZYUykSRSV-1200-80.jpg)](https://digitpatrox.com/adversary-in-the-middle-attacks-are-becoming-hackers-go-to-method-to-bypass-mfa/)
     
-    [Nintendo’s terrific Switch Pro Controller is $20 off through Black Friday](https://digitpatrox.com/nintendos-terrific-switch-pro-controller-is-20-off-through-black-friday/)
+    [‘Adversary in the middle attacks’ are becoming hackers’ go-to method to bypass MFA](https://digitpatrox.com/adversary-in-the-middle-attacks-are-becoming-hackers-go-to-method-to-bypass-mfa/)
     
-    46 minutes ago
+    13 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/relic-rod-location-in-fisch.jpg)](https://digitpatrox.com/how-to-get-the-relic-rod-in-fisch-roblox/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tra_20241120-maxiblocks-no-code-webpage-builder-pro-plan-lifetime-subscription.jpg)](https://digitpatrox.com/need-a-website-fast-heres-how-to-go-live-in-hours-not-weeks/)
     
-    [How to Get the Relic Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-relic-rod-in-fisch-roblox/)
+    [Need a Website Fast? Here’s How to Go Live in Hours, Not Weeks](https://digitpatrox.com/need-a-website-fast-heres-how-to-go-live-in-hours-not-weeks/)
     
-    1 hour ago
+    17 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDAH68TDCDBWMAT2NF3ECXGR/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-tech-deals-during-targets-black-friday-sale-so-far/)
+* [![](https://cdn.mos.cms.futurecdn.net/dXdmKHTihwhtskuFZAu4mB-1200-80.jpg)](https://digitpatrox.com/forget-le-creuset-this-cast-iron-dutch-oven-is-250-less-for-black-friday/)
     
-    [The Best Tech Deals During Target’s Black Friday Sale (So Far)](https://digitpatrox.com/the-best-tech-deals-during-targets-black-friday-sale-so-far/)
+    [Forget Le Creuset — this cast iron Dutch oven is $250 less for Black Friday](https://digitpatrox.com/forget-le-creuset-this-cast-iron-dutch-oven-is-250-less-for-black-friday/)
     
-    3 hours ago
+    21 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1570716333/prod/content/dam/CRO%20Images%202019/Home/10Oct/CR-Home-Inlinehero-reliable-snow-blowers-1019)](https://digitpatrox.com/most-and-least-reliable-snow-blower-brands/)
+* [![](https://cdn.vox-cdn.com/thumbor/hIw78-JrNeCBJSN_UCvIZictez0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25080265/111323_PlayStation_Portal_ADiBenedetto_0004.jpg)](https://digitpatrox.com/sonys-making-a-handheld-console-to-compete-with-nintendo-and-microsoft/)
     
-    [Most and Least Reliable Snow Blower Brands](https://digitpatrox.com/most-and-least-reliable-snow-blower-brands/)
+    [Sony’s making a handheld console to compete with Nintendo and Microsoft](https://digitpatrox.com/sonys-making-a-handheld-console-to-compete-with-nintendo-and-microsoft/)
     
-    4 hours ago
+    2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/excel-logo-with-a-spreadsheet-and-the-formula-sequence.jpg)](https://digitpatrox.com/how-to-use-the-sequence-function-in-excel/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/John-Dutton.jpg)](https://digitpatrox.com/why-was-john-duttons-face-not-shown-in-yellowstone-season-5-episode-11/)
     
-    [How to Use the SEQUENCE Function in Excel](https://digitpatrox.com/how-to-use-the-sequence-function-in-excel/)
+    [Why Was John Dutton’s Face Not Shown in Yellowstone Season 5 Episode 11?](https://digitpatrox.com/why-was-john-duttons-face-not-shown-in-yellowstone-season-5-episode-11/)
     
-    4 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [46 minutes ago
+* [13 minutes ago
     
-    ### Nintendo’s terrific Switch Pro Controller is $20 off through Black Friday](https://digitpatrox.com/nintendos-terrific-switch-pro-controller-is-20-off-through-black-friday/)
-* [1 hour ago
+    ### ‘Adversary in the middle attacks’ are becoming hackers’ go-to method to bypass MFA](https://digitpatrox.com/adversary-in-the-middle-attacks-are-becoming-hackers-go-to-method-to-bypass-mfa/)
+* [17 minutes ago
     
-    ### How to Get the Relic Rod in Fisch Roblox](https://digitpatrox.com/how-to-get-the-relic-rod-in-fisch-roblox/)
-* [3 hours ago
+    ### Need a Website Fast? Here’s How to Go Live in Hours, Not Weeks](https://digitpatrox.com/need-a-website-fast-heres-how-to-go-live-in-hours-not-weeks/)
+* [21 minutes ago
     
-    ### The Best Tech Deals During Target’s Black Friday Sale (So Far)](https://digitpatrox.com/the-best-tech-deals-during-targets-black-friday-sale-so-far/)
+    ### Forget Le Creuset — this cast iron Dutch oven is $250 less for Black Friday](https://digitpatrox.com/forget-le-creuset-this-cast-iron-dutch-oven-is-250-less-for-black-friday/)
 
 Most Popular Topics
 
-* [September 26, 2024
+* [2 days ago
     
-    ### Do You Really Need a Leaf Blower Vacuum?](https://digitpatrox.com/do-you-really-need-a-leaf-blower-vacuum/)
-* [August 28, 2024
+    ### Hackers breach US firm over Wi-Fi from Russia in ‘Nearest Neighbor Attack’](https://digitpatrox.com/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/)
+* [4 weeks ago
     
-    ### How tech leaders can foster accessibility in their organizations](https://digitpatrox.com/how-tech-leaders-can-foster-accessibility-in-their-organizations/)
-* [October 3, 2024
+    ### 30 of the Best Easy Last-Minute Halloween Costume Ideas for 2024](https://digitpatrox.com/30-of-the-best-easy-last-minute-halloween-costume-ideas-for-2024/)
+* [October 19, 2024
     
-    ### 8 easy ways to transfer files between Windows and your phone – Computerworld](https://digitpatrox.com/8-easy-ways-to-transfer-files-between-windows-and-your-phone-computerworld/)
+    ### 8 Reasons You Should Give Apple Pages Another Shot](https://digitpatrox.com/8-reasons-you-should-give-apple-pages-another-shot/)
 
 Last Modified Topics
 
-* [6 hours ago
+* [5 hours ago
     
-    ### Tech CEOs want to replicate Tim Cook’s Donald Trump playbook](https://digitpatrox.com/tech-ceos-want-to-replicate-tim-cooks-donald-trump-playbook/)
-* [6 hours ago
+    ### How to Find an Eco-Friendly Laundry Detergent](https://digitpatrox.com/how-to-find-an-eco-friendly-laundry-detergent/)
+* [5 hours ago
     
-    ### NYT Connections Today: Hints and Answers for November 25, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-25-2024/)
-* [8 hours ago
+    ### Lifetime Plex Pass is 25% Off For Black Friday](https://digitpatrox.com/lifetime-plex-pass-is-25-off-for-black-friday/)
+* [5 hours ago
     
-    ### My Favorite Home Storage Items on Sale for Black Friday](https://digitpatrox.com/my-favorite-home-storage-items-on-sale-for-black-friday/)
+    ### New on Netflix: 5 movies and shows to watch this week (Nov. 25-Dec. 1)](https://digitpatrox.com/new-on-netflix-5-movies-and-shows-to-watch-this-week-nov-25-dec-1/)
 
 Most Viewed Topics
 
-* [October 2, 2024
+* [August 11, 2024
     
-    ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
