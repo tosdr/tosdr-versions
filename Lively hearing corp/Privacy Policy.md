@@ -227,27 +227,6 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 As low as 0% APR and $0 down\* with See if you prequalify
 
-Hear your whole SoundScape™
----------------------------
-
-Select 500s employ 3 key features of proprietary speech-clarity technology
-
-Previous
-
-**Date night?** Hear more conversations, fewer clattering dishes.
-
-**Did you hear that music?** This is how you find your new favorite jazz club.
-
-**Going to the show?** Follow the action onstage — and in the seat beside you.
-
-Next
-
-* Hearing in noise
-* True depth of sound
-* Advanced acoustics
-
-[Shop now](https://www.listenlively.com/product/enhanceselect500)
-
 Get personalized care with our Premium Package
 ----------------------------------------------
 
