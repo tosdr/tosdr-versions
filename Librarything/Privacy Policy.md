@@ -14,7 +14,7 @@
 * [English](#)
 * [Help](https://wiki.librarything.com/index.php/HelpThing:Privacy)
 
-[Come participate in SantaThing, our yearly gift-giving tradition!](https://www.librarything.com/santathing.php)
+[SantaThing sign-up extended to Tuesday, November 26 at 12pm EST!](https://www.librarything.com/santathing.php)
 
 Dismiss
 
