@@ -101,7 +101,7 @@
     
     #### [News & Press](https://blog.tunedglobal.com/news?hsLang=en)
     
-    [![](https://www.tunedglobal.com/hubfs/tunedglobal-soundstripe.jpg)](https://blog.tunedglobal.com/news/bartune-xtuned-global?hsLang=en)
+    [![](https://www.tunedglobal.com/hubfs/image%20%281%29.png)](https://blog.tunedglobal.com/news/bartune-xtuned-global?hsLang=en)
     
     [BarTunes launches with Tuned Global as technical partner](https://blog.tunedglobal.com/news/bartune-xtuned-global?hsLang=en)
     
