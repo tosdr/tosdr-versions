@@ -6,8 +6,6 @@ Accept & Dismiss
 
 [Skip to content](#MainContent)
 
-Customer service responses are a few days behind at this time. We appreciate your patience!
-
 New orders are expected to ship by
 
 Canadian customers: due to strike action, new orders will not be shipped via Canada Post until further notice. Please avoid the use of PO Boxes during this time. Existing Canada Post shipments may be delayed; we will contact you if any action is required to ensure delivery. Apologies for any inconvenience.
@@ -25,12 +23,13 @@ Canadian customers: due to strike action, new orders will not be shipped via Can
     * [Bottles](https://www.lttstore.com/bottles)
     * [Deskpads](https://www.lttstore.com/deskpads)
     * [Tools](https://www.lttstore.com/tools)
-    * [Cable Management](https://www.lttstore.com/collections/mcm-landing)
+    * [Magnetic Cable Management](https://www.lttstore.com/collections/mcm-landing)
     * [Plushies](https://www.lttstore.com/plushies)
     
     * [Stickers](https://www.lttstore.com/stickers)
     * [Pets](https://www.lttstore.com/pets)
     * [Other](https://www.lttstore.com/other-gear)
+    * [Screwdrivers](https://www.lttstore.com/collections/screwdrivers)
     
 * Clothing
     
@@ -74,9 +73,13 @@ Sign in
 * [Home](https://www.lttstore.com/)
 * [Gear](https://www.lttstore.com/collections/accessories)
     
-    [Bags](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bags+%26+Backpacks&sort_by=best-selling) [Bottles](https://www.lttstore.com/bottles) [Deskpads](https://www.lttstore.com/deskpads) [Tools](https://www.lttstore.com/tools) [Cable Management](https://www.lttstore.com/collections/mcm-landing)
+    [Bags](https://www.lttstore.com/collections/accessories?filter.p.m.filter.gear_type=Bags+%26+Backpacks&sort_by=best-selling) [Bottles](https://www.lttstore.com/bottles) [Deskpads](https://www.lttstore.com/deskpads) [Tools](https://www.lttstore.com/tools) [Magnetic Cable Management](https://www.lttstore.com/collections/mcm-landing)
     
     [Plushies](https://www.lttstore.com/plushies) [Stickers](https://www.lttstore.com/stickers) [Pets](https://www.lttstore.com/pets) [Other](https://www.lttstore.com/other-gear)
+    
+    [![Collection Image](//www.lttstore.com/cdn/shop/collections/Header_Banner.png?v=1732510672&width=400)
+    
+    Screwdrivers](https://www.lttstore.com/collections/screwdrivers)
     
 * [Clothing](https://www.lttstore.com/collections/clothing)
     
