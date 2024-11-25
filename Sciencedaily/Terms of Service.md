@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 24, 2024**
+**November 25, 2024**
 
 * * *
 
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
+[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
+[Dementia](https://www.sciencedaily.com/news/mind_brain/dementia/)
 
-[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
+[Psychology Research](https://www.sciencedaily.com/news/health_medicine/psychology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
 
-[Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
+[Hacking](https://www.sciencedaily.com/news/computers_math/hacking/)
 
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
+[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
-[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
+[Recycling and Waste](https://www.sciencedaily.com/news/earth_climate/recycling_and_waste/)
 
-[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
+[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
   
 
