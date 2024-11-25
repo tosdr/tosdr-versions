@@ -15,9 +15,7 @@
 * [Instagram](https://www.instagram.com/bucketlistjourney/)
 * [Pinterest](https://www.pinterest.com/bucketlistjrny/)
 
-[![Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='360'%20height='56'%20viewBox='0%200%20360%2056'%3E%3C/svg%3E)
-
-![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2024/10/cropped-Logo-Design.png)](https://bucketlistjourney.net/)
+[![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2024/10/cropped-Logo-Design.png)](https://bucketlistjourney.net/)
 
 [](#)
 
@@ -70,9 +68,7 @@ Menu
 
 [](#)
 
-[![Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='529'%20height='80'%20viewBox='0%200%20529%2080'%3E%3C/svg%3E)
-
-![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2023/02/Logo-Design.png)](https://bucketlistjourney.net/ "Bucket List Journey")
+[![Bucket List Journey](https://bucketlistjourney.net/wp-content/uploads/2023/02/Logo-Design.png)](https://bucketlistjourney.net/ "Bucket List Journey")
 
 Menu
 
@@ -190,9 +186,7 @@ Name Email Website
 
 Δ
 
-[![Bucket List Boss Annette White](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='900'%20height='1200'%20viewBox='0%200%20900%201200'%3E%3C/svg%3E)
-
-![Bucket List Boss Annette White](https://bucketlistjourney.net/wp-content/uploads/2020/07/IMG_5199-3-Boss-Headshot-copy.jpg)](https://bucketlistjourney.net/about/)
+[![Bucket List Boss Annette White](https://bucketlistjourney.net/wp-content/uploads/2020/07/IMG_5199-3-Boss-Headshot-copy.jpg)](https://bucketlistjourney.net/about/)
 
 #### Hey! I'm Annette.
 
@@ -206,11 +200,7 @@ Are you ready to start facing your fear and living your bucket list?
 **JOIN US TO GET 2,000 BUCKET LIST IDEAS FREE**
 -----------------------------------------------
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
 ![](https://forms.aweber.com/form/displays.htm?id=TKwMHOxMTGxM)
-
-![Annette White the Owner of Bucket List Journey](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='240'%20height='300'%20viewBox='0%200%20240%20300'%3E%3C/svg%3E "Bucket List Template Annette")
 
 ![Annette White the Owner of Bucket List Journey](https://bucketlistjourney.net/wp-content/smush-webp/2023/02/Bucket-List-Template-Annette-240x300.jpg.webp "Bucket List Template Annette")
 
@@ -239,22 +229,9 @@ Jump right in and you will get your printable ideas by email:
   
   
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='0'%20height='0'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
 [Ever wonder what a perfect day in the Napa Valley ![Ever wonder what a perfect day in the Napa Valley wine country looks like? Here’s my one-day bucket list itinerary for YOUNTVILLE, CALIFORNIA 🍷
-1️⃣ Start your day in #Yountville the only way you should—with pastries! @Bouchon_Bakery is tiny but mighty, serving up buttery scones, flaky croissants, and giant macarons 🥐 
-2️⃣ Next, hop aboard the Napa Valley @winetrain where you’ll be served a four course meal while riding through Napa valley Vineyards and sipping on local wine 🚂 They have plenty of experiences to choose from (we did the Vista Dome and loved it!)
-3️⃣ Head to @PriestRanchWines for wine AND bacon tasting. Yep, you heard me right—bacon. 🥓 It was six wines, four types of bacon, and one happy me. The mango mustard bacon was my favorite!
-4️⃣ Take a break from eating and drinking (if you can!) and wander the Yountville Art Walk. 🎨 Over 30 sculptures, each with a QR code for all the artsy details. My fave? The Chef. 
-Plus, you’ll pass lots of shops for a little retail therapy. A couple of my favs are @KollarChocolates and the boutique @AlchemyWorks
-5️⃣ Now it’s time for a pre-dinner cocktail at @NorthBlockYountville. 🍸 Trendy, chic, and perfect for happy hour vibes. 
-6️⃣ Dinner is at @BottegaNapaValley—Yountville’s foodie hotspot. Their Brodetto ai Frutti di Mare was the BEST thing I ate in Yountville 😋  It was so good I had to get the recipe from the Bottega cookbook!
-7️⃣ End your day with a nightcap in your room by the fireplace or next to the fire pits in the courtyard @NapaValleyLodge. 
-What’s on your Yountville, CA Bucket List?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Ever wonder what a perfect day in the Napa Valley wine country looks like? Here’s my one-day bucket list itinerary for YOUNTVILLE, CALIFORNIA 🍷
 1️⃣ Start your day in #Yountville the only way you should—with pastries! @Bouchon_Bakery is tiny but mighty, serving up buttery scones, flaky croissants, and giant macarons 🥐 
 2️⃣ Next, hop aboard the Napa Valley @winetrain where you’ll be served a four course meal while riding through Napa valley Vineyards and sipping on local wine 🚂 They have plenty of experiences to choose from (we did the Vista Dome and loved it!)
 3️⃣ Head to @PriestRanchWines for wine AND bacon tasting. Yep, you heard me right—bacon. 🥓 It was six wines, four types of bacon, and one happy me. The mango mustard bacon was my favorite!
@@ -268,45 +245,15 @@ What’s on your Yountville, CA Bucket List?](https://bucketlistjourney.net/wp-c
 [Save this hotel for your Yountville, California Bu ![Save this hotel for your Yountville, California Bucket List. @NapaValleyLodge is just minutes away from everything you’ll want to do in Yountville, but you may not want to leave. 
 The grounds alone are dreamy, with their relaxing fountains trickling in the background, fire pits crackling under the stars, a sparkling pool calling your name, and plenty of cozy spots to lounge with a glass of wine (or two 😉). 
 Oh, and did I mention the bocce ball court? Because a little friendly competition pairs perfectly with a day of wine tasting 🍷 
-@yountvilleca @visitnapavalley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Save this hotel for your Yountville, California Bucket List. @NapaValleyLodge is just minutes away from everything you’ll want to do in Yountville, but you may not want to leave. 
-The grounds alone are dreamy, with their relaxing fountains trickling in the background, fire pits crackling under the stars, a sparkling pool calling your name, and plenty of cozy spots to lounge with a glass of wine (or two 😉). 
-Oh, and did I mention the bocce ball court? Because a little friendly competition pairs perfectly with a day of wine tasting 🍷 
 @yountvilleca @visitnapavalley](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCjq-XyPMhi/) 
 
 [I’m no artist, but I do LOVE trying something ne ![I’m no artist, but I do LOVE trying something new—how about you?
 When my friend @inspiringoptimism invited me to her dreamy vacation rental @hummingwayranch for a paint night, I was SO in! #bucketlist 
 The mission? Four of us, armed with paintbrushes, a YouTube tutorial, and lots of wine, took on the challenge of painting (or at least attempting to paint 😂) a colorful peacock 🦚 Let’s just say, some of our peacocks had very unique personalities!
 Did I mention that there were delicious tacos too? 😋 
-#bucketlistidea #paintnight #paintandsip #peacock  #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![I’m no artist, but I do LOVE trying something new—how about you?
-When my friend @inspiringoptimism invited me to her dreamy vacation rental @hummingwayranch for a paint night, I was SO in! #bucketlist 
-The mission? Four of us, armed with paintbrushes, a YouTube tutorial, and lots of wine, took on the challenge of painting (or at least attempting to paint 😂) a colorful peacock 🦚 Let’s just say, some of our peacocks had very unique personalities!
-Did I mention that there were delicious tacos too? 😋 
 #bucketlistidea #paintnight #paintandsip #peacock  #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCZZ88Mvt-J/) 
 
 [If you’re heading to Point Reyes National Seasho ![If you’re heading to Point Reyes National Seashore in  #northerncalifornia, these are my favorite places to eat to add to your bucket list.
-(💫 SAVE for planning your trip to Northern #California💫)
-POINT REYES, CALIFORNIA RESTAURANTS
-1️⃣ Route One Bakery & Kitchen: Outdoor pizza slices and sourdough olive bread—yes, please! @routeonebakeryandkitchen
-2️⃣ Hog Island Oyster Farm: the famous fresh oysters everyone talks about! @hogislandoysterfarm
-3️⃣ The Marshall Store: Smoked oysters & chowder by the water @the.marshall.store 
-4️⃣ Nick’s Cove: Cozy seafood by the pier @nickscove
-5️⃣ Tony’s Seafood: Classic fish tacos, fried oysters and seafood stew (it’s a part of the Hog Island Oyster Co. family)
-6️⃣ Cafe Reyes: Wood-fired pizza with a local twist 🍕 this place has chill vibes and wood-fired pizza with names inspired by the area.  @cafereyes_94956 
-7️⃣ Side Street Kitchen: Farm to table dining in  Point Reyes Station. @sidestreet_prs
-8️⃣ The Farmer’s Wife: Must-try tuna melt with chips on it! Plus lots of other yummy choices @thefarmersxwife
-9️⃣ Station House Cafe: popular brunch spot with local, seasonal food @stationhousecafe
-1️⃣0️⃣ Due West Tavern: Trendy spot for clam chowder locally sourced seafood & steak 🥩@duewestpointreyes
-1️⃣1️⃣ Tap Room: Craft beer & local burger vibes with a special menu that changes every night @invernessparkmarket
-1️⃣2️⃣ Saltwater Oyster Depot: Fresh oysters & seafood chowder @saltwateroysterdepot 
-1️⃣3️⃣ BoVida: Smoothies & acai bowls for a lighter bite @bovidabolinas 
-1️⃣4️⃣ Parkside Cafe: Seafood & sandwiches steps away from Stinson Beach @parksidecafestinsonbeach
-#pointreyes #pointreyesstation #northerncalifornia #pacificcoast #marincounty #visitcalifornia #california #travelbucketlist #bucketlistadventures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![If you’re heading to Point Reyes National Seashore in  #northerncalifornia, these are my favorite places to eat to add to your bucket list.
 (💫 SAVE for planning your trip to Northern #California💫)
 POINT REYES, CALIFORNIA RESTAURANTS
 1️⃣ Route One Bakery & Kitchen: Outdoor pizza slices and sourdough olive bread—yes, please! @routeonebakeryandkitchen
