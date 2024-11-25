@@ -1,3 +1,5 @@
+We are updating the Service Terms on December 19, 2024. We invite you to review the updated Service Terms in their entirety before they go into effect on December 19, 2024. If you use or access the LanguageTooler Service before the updated Service Terms take effect on December 19, 2024, your use of the LanguageTooler Service will be subject to the previous Service Terms ([available here](https://languagetool.org/legal/terms?old=true)).
+
 LanguageTool General Terms and Conditions
 =========================================
 
