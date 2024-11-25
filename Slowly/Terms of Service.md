@@ -2,7 +2,7 @@
 
  [Home](https://slowly.app/)
 
-[Available on](https://slowly.onelink.me/miXL/0mpqy1g5) 
+[Download the app](https://slowly.onelink.me/miXL/0mpqy1g5) 
 
 [![SLOWLY](https://slowly.app/wp-content/themes/slowly/assets/img/logo.svg)](https://slowly.app/)
 
