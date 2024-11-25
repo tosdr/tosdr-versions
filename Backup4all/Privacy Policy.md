@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup Outlook Express emails](https://www.backup4all.com/how-to-backup-outlook-express-emails-and-settings-kb.html)  
+* [How to restore a backup using WinZip](https://www.backup4all.com/how-to-restore-a-backup-using-winzip-kb.html)  
     
-* [How to backup your data to Seeweb](https://www.backup4all.com/how-to-backup-your-data-to-seeweb-kb.html)  
+* [How to override the application folders](https://www.backup4all.com/how-to-override-the-application-folders-kb.html)  
     
-* [How to back up data files from HostEurope usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-hosteurope-using-backup4all-kb.html)  
+* [How to restore from a backup?](https://www.backup4all.com/how-to-restore-from-a-backup-kb.html)  
     
-* [How to use the backup list](https://www.backup4all.com/how-to-use-the-backup-list-kb.html)  
+* [How to configure and use One Touch Backup?](https://www.backup4all.com/how-to-configure-and-use-one-touch-backup-kb.html)  
     
-* [How to back up data files from ThinkOn using ...](https://www.backup4all.com/how-to-back-up-data-files-from-thinkon-using-backup4all-kb.html)  
+* [How to generate a self signed certificate](https://www.backup4all.com/how-to-generate-a-self-signed-certificate-kb.html)  
     
 
 Choose language:
