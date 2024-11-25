@@ -140,9 +140,13 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Smoggie Queens. Image shows left to right: Stewart (Elijah Young), Mam (Mark Benton), Dickie (Phil Dunning), Lucinda (Alexandra Mardell), Sal (Patsy Lowe)](https://cdn.comedy.co.uk/images/library/comedies/300x200/s/smoggie_queens_iconic.jpg "Smoggie Queens. Image shows left to right: Stewart (Elijah Young), Mam (Mark Benton), Dickie (Phil Dunning), Lucinda (Alexandra Mardell), Sal (Patsy Lowe)")](https://www.comedy.co.uk/tv/smoggie-queens/interviews/meet-the-smoggie-queens/) TV
+
+[Meet the Smoggie Queens](https://www.comedy.co.uk/tv/smoggie-queens/interviews/meet-the-smoggie-queens/)
+
 [![Spaced. Image shows from L to R: Marsha Klein (Julia Deakin), Mike Watt (Nick Frost), Daisy Steiner (Jessica Hynes), Brian Topp (Mark Heap), Tim Bisley (Simon Pegg), Twist Morgan (Katy Carmichael)](https://cdn.comedy.co.uk/images/library/comedies/300x200/s/spaced.jpg "Spaced. Image shows from L to R: Marsha Klein (Julia Deakin), Mike Watt (Nick Frost), Daisy Steiner (Jessica Hynes), Brian Topp (Mark Heap), Tim Bisley (Simon Pegg), Twist Morgan (Katy Carmichael)")](https://www.comedy.co.uk/features/comedy-rewind/spaced/) Features
 
-[Comedy Rewind: Spaced: Humble flat-share to cult smash](https://www.comedy.co.uk/features/comedy-rewind/spaced/)
+[Comedy Rewind: Spaced - Humble flat-share to cult smash](https://www.comedy.co.uk/features/comedy-rewind/spaced/)
 
 [![Red Richardson](https://cdn.comedy.co.uk/images/library/people/300x200/r/red_richardson_bugatti_live.jpg "Red Richardson")](https://www.comedy.co.uk/live/features/bobby-carroll-diary-red-richardson-kathleen-hughes-andrew-maxwell/) Live
 
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Adam Riches & John Kearns ARE Ball & Boe - For Fourteen Nights Only. Image shows left to right: John Kearns, Adam Riches. Credit: Matt Stronge](https://cdn.comedy.co.uk/images/library/misc/300x200/k/kearns_riches_ball_and_boe.jpg "Adam Riches & John Kearns ARE Ball & Boe - For Fourteen Nights Only. Image shows left to right: John Kearns, Adam Riches. Credit: Matt Stronge")](https://www.comedy.co.uk/live/features/adam-riches-on-ball-and-boe-shows/) Live
 
 [Adam Riches on joining with John Kearns to take on Michael Ball and Alfie Boe](https://www.comedy.co.uk/live/features/adam-riches-on-ball-and-boe-shows/)
-
-[![Vittorio Angelone](https://cdn.comedy.co.uk/images/library/people/300x200/v/vittorio_angelone_wdytya.jpg "Vittorio Angelone")](https://www.comedy.co.uk/live/features/vittorio-angelone-interview/) Live
-
-[Who does Vittorio Angelone think he is?](https://www.comedy.co.uk/live/features/vittorio-angelone-interview/)
 
 #### Subscribe to our newsletters
 
