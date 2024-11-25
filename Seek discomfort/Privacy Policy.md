@@ -9,7 +9,7 @@
 
 [![Seek Discomfort](//www.seekdiscomfort.com/cdn/shop/files/new_logo_2.png?v=1718293649&width=420)](https://www.seekdiscomfort.com/ "Seek Discomfort")
 
-[Account](https://www.seekdiscomfort.com/account/login) [Search](https://www.seekdiscomfort.com/search)
+[Account](https://www.seekdiscomfort.com/customer_authentication/redirect?locale=en&region_country=US) [Search](https://www.seekdiscomfort.com/search)
 
 [](https://eu.seekdiscomfort.com/ "GO TO EUROPEAN SITE")
 
