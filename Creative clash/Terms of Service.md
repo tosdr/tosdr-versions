@@ -8,10 +8,6 @@
 
 * [Home](https://xcreativeclashx.net/ "Home")
 
-[Server Upgrade](https://xcreativeclashx.net/announcement/22-server-upgrade/) [×](#)
-
-[Clash Concluded!](https://xcreativeclashx.net/announcement/24-clash-concluded/) [×](#)
-
 Registration Terms
 ==================
 
@@ -196,6 +192,17 @@ Registration Terms
 * [Aethy](https://aethy.com/@xCreativeClashx)
 
 #### You are responsible for your own viewing experience while using this website. We have endeavored to provide as many means as possible for you to curate your experience here.
+
+* [IPS Theme](https://www.ipsfocus.com/) by [IPSFocus](https://www.ipsfocus.com/)
+* [Theme](#elNavTheme_menu)
+    *  Light Mode
+        
+    *  Dark Theme (Default)
+        
+    *  159416
+        
+* [Privacy Policy](https://xcreativeclashx.net/privacy-policy/)
+* [Cookies](https://xcreativeclashx.net/cookies/)
 
 [Powered by Invision Community](https://www.invisioncommunity.com/ "Invision Community")
 
