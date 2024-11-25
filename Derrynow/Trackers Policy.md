@@ -277,13 +277,6 @@ PSNI
 [Police investigating reported arson attack in Derry](https://www.derrynow.com/news/local-news/1663680/police-investigating-reported-arson-attack-in-derry.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, November 24, 2024](https://www.derrynow.com/news/deaths/1662380/derry-death-notices-sunday-november-24-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
 
 Ciaran Coll's time at Derry City looks to have come to an end.
@@ -336,6 +329,13 @@ Kathleen Bradley, Grants & Foundations Fundraiser, Michelle Kosky, Children’s 
 
 [Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/news/local-news/1663606/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New wind warning issued as Storm Bert threatens ‘danger to life’ flooding](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New wind warning issued as Storm Bert threatens ‘danger to life’ flooding")](https://www.derrynow.com/news/northern-ireland/1663465/new-wind-warning-issued-as-storm-bert-threatens-danger-to-life-flooding.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[New wind warning issued as Storm Bert threatens ‘danger to life’ flooding](https://www.derrynow.com/news/northern-ireland/1663465/new-wind-warning-issued-as-storm-bert-threatens-danger-to-life-flooding.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, November 25, 2024](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1663740/ruaidhri-higgins-i-thought-i-was-being-brave-being-strong-and-showing-leadership-but-ultimately-i-was-wrong.html)
 
 Ruaidhri Higgins has been reflecting on his time as Derry City manager.
@@ -522,7 +529,7 @@ Ruaidhri Higgins has been reflecting on his time as Derry City manager.
 [Ruaidhri Higgins: "I thought I was being brave, being strong and showing leadership, but ultimately I was wrong"](https://www.derrynow.com/news/derry-sport/1663740/ruaidhri-higgins-i-thought-i-was-being-brave-being-strong-and-showing-leadership-but-ultimately-i-was-wrong.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
+[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_11_24/2925878_Cropped-1732470606897.jpg--.jpg?1732470608379 "Derry City")](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
 
 Ciaran Coll's time at Derry City looks to have come to an end.
 
@@ -555,13 +562,6 @@ Laytha is made up of cousins Niamh Carney and Philana Nolan. Their latest EP ‘
 
 [Simon Harris says ‘entirely possible’ there will be Irish unity in his lifetime](https://www.derrynow.com/news/local-news/1663606/simon-harris-says-entirely-possible-there-will-be-irish-unity-in-his-lifetime.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Campaigners demand immediate action after 8% rise in suicides](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_24/1732447514601_0.jpg--.jpg?1732447514668 "Campaigners demand immediate action after 8% rise in suicides")](https://www.derrynow.com/news/local-news/1663605/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Campaigners demand immediate action after 8% rise in suicides](https://www.derrynow.com/news/local-news/1663605/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
