@@ -575,6 +575,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    November 25, 2024
+    
+    [U.S. Department of the Treasury Releases New Report Showing State Small Business Credit Initiative Has Supported $3.1 Billion in New Financing for Small Businesses](https://home.treasury.gov/news/press-releases/jy2728)
+    
     November 21, 2024
     
     [Treasury Sanctions Gazprombank and Takes Additional Steps to Curtail Russia’s Use of the International Financial System](https://home.treasury.gov/news/press-releases/jy2725)
@@ -582,10 +586,6 @@ MENU MENU
     November 21, 2024
     
     [U.S. Secretary of the Treasury Janet L. Yellen to Announce $76 Million in Funding for Community Lenders as Part of 30th Anniversary Celebration of the Community Development Financial Institutions Fund](https://home.treasury.gov/news/press-releases/jy2724)
-    
-    November 19, 2024
-    
-    [Treasury Targets Fentanyl Traffickers and Other Key Contributors to U.S. Opioid Crisis](https://home.treasury.gov/news/press-releases/jy2719)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
