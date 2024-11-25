@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
+    
+    ### [Man charged with attempted murder over Brixton bus incident](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
+    
+    [![Westminster Bridge. Credit- Bjørn Erik Pedersen (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Westminster-Bridge.-Credit-Bjorn-Erik-Pedersen-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
+    
+    ### [Westminster Bridge: Three arrested on suspicion of attempted murder](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
+    
+    [![London mayor Sadiq Khan. Credit - Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/)
+    
+    ### [Plans to build thousands of rent-controlled homes that could save ‘key workers’ up to £600 per month](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/) 
+    
     [![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-360x180.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
     
     ### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
@@ -43,18 +55,6 @@
     [![Members of ACORN Southwark with Liberal Democrat councillors at Southwark Council\'s Tooley Street headquarters. CREDIT: ACORN Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/acron-lib-dem-e1732271874488-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
     
     ### [Southwark Council warns estate agents to stop waging ‘exploitative’ bidding wars](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
-    
-    [![Ivydale Primary School, Nunhead. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/11/Ivydale-Primary-School-Nunhead.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/nunhead/nunhead-school-to-downsize-just-six-years-after-massive-expansion/)
-    
-    ### [Nunhead school to downsize just six years after massive expansion](https://southwarknews.co.uk/area/nunhead/nunhead-school-to-downsize-just-six-years-after-massive-expansion/)
-    
-    [![Police were called to Lanercost Road following reports of a stabbing. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-Lanercost-Road-following-reports-of-a-stabbing.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-    
-    ### [Boy, 14, stabbed in South London](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-    
-    [![Children donned zebra crossing in their campaign for more crossings along Croxted Road](https://southwarknews.co.uk/wp-content/uploads/2024/11/ZebraKids-6222-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-    
-    ### [Stripey schoolchildren demand more zebra crossings in Dulwich](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
+    
+    ### [Man charged with attempted murder over Brixton bus incident](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
+    
+    [![Westminster Bridge. Credit- Bjørn Erik Pedersen (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Westminster-Bridge.-Credit-Bjorn-Erik-Pedersen-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
+    
+    ### [Westminster Bridge: Three arrested on suspicion of attempted murder](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
+    
+    [![London mayor Sadiq Khan. Credit - Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/)
+    
+    ### [Plans to build thousands of rent-controlled homes that could save ‘key workers’ up to £600 per month](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/) 
+    
     [![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-360x180.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
     
     ### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
@@ -128,18 +140,6 @@ View All Result
     [![Members of ACORN Southwark with Liberal Democrat councillors at Southwark Council\'s Tooley Street headquarters. CREDIT: ACORN Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/acron-lib-dem-e1732271874488-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
     
     ### [Southwark Council warns estate agents to stop waging ‘exploitative’ bidding wars](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
-    
-    [![Ivydale Primary School, Nunhead. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/11/Ivydale-Primary-School-Nunhead.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/nunhead/nunhead-school-to-downsize-just-six-years-after-massive-expansion/)
-    
-    ### [Nunhead school to downsize just six years after massive expansion](https://southwarknews.co.uk/area/nunhead/nunhead-school-to-downsize-just-six-years-after-massive-expansion/)
-    
-    [![Police were called to Lanercost Road following reports of a stabbing. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-Lanercost-Road-following-reports-of-a-stabbing.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-    
-    ### [Boy, 14, stabbed in South London](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-    
-    [![Children donned zebra crossing in their campaign for more crossings along Croxted Road](https://southwarknews.co.uk/wp-content/uploads/2024/11/ZebraKids-6222-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-    
-    ### [Stripey schoolchildren demand more zebra crossings in Dulwich](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -235,13 +235,31 @@ Terms of Use
 
 [23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
 
-[![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+[![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
-### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
-[23rd November 2024](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
+[24th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
 ### Featured Articles
+
+[![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
+
+### [Man charged with attempted murder over Brixton bus incident](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
+
+[25th November 2024](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
+
+[![Westminster Bridge. Credit- Bjørn Erik Pedersen (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Westminster-Bridge.-Credit-Bjorn-Erik-Pedersen-Creative-Commons-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
+
+### [Westminster Bridge: Three arrested on suspicion of attempted murder](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
+
+[25th November 2024](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
+
+[![London mayor Sadiq Khan. Credit - Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-120x86.jpg)](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/)
+
+### [Plans to build thousands of rent-controlled homes that could save ‘key workers’ up to £600 per month](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/) 
+
+[25th November 2024](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/)
 
 [![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
@@ -260,24 +278,6 @@ Terms of Use
 ### [Southwark Council warns estate agents to stop waging ‘exploitative’ bidding wars](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
 
 [24th November 2024](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
-
-[![Children donned zebra crossing in their campaign for more crossings along Croxted Road](https://southwarknews.co.uk/wp-content/uploads/2024/11/ZebraKids-6222-2-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-
-### [Stripey schoolchildren demand more zebra crossings in Dulwich](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-
-[23rd November 2024](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-
-[![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
-
-### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
-
-[23rd November 2024](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
-
-[![Fredericks Playground. Credit: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/Fredericks-Playground-1-120x86.jpeg)](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
-
-### [Kennington playground once riddled with abestos reopens after £700,000 revamp](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
-
-[22nd November 2024](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
 
 ### USEFUL PAGES
 
