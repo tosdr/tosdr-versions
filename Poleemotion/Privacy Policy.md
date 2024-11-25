@@ -21,6 +21,8 @@ Pour accéder à toutes les fonctionnalités de ce site, vous devez activer Java
 * [SHOP](https://app.pole-emotion.ch/boutique)
 * [PASS Découverte](https://www.pole-emotion.ch/pass-decouverte)
 
+Promo Pole Week [En savoir plus](https://app.pole-emotion.ch/news/promo-pole-week)
+
 Pole-Emotion, c'est aussi pour toi !
 ====================================
 
@@ -86,7 +88,7 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 
 [](https://app.pole-emotion.ch/evjf)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=849819)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=347317)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
