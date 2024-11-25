@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-360x180.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+    
+    ### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+    
+    [![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
+    
+    ### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
+    
+    [![The Gaza Sunbirds have delivered over $100,000 in aid to Gazan families. Credit: Gaza Sunbirds](https://southwarknews.co.uk/wp-content/uploads/2024/11/GazaSunbirds_creditGazaSunbirds3-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
+    
+    ### [Peckham to host fundraiser for Palestinian para-cycling team delivering aid to wartorn strip](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
+    
     [![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
     
     ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
@@ -43,18 +55,6 @@
     [![Children donned zebra crossing in their campaign for more crossings along Croxted Road](https://southwarknews.co.uk/wp-content/uploads/2024/11/ZebraKids-6222-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
     
     ### [Stripey schoolchildren demand more zebra crossings in Dulwich](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-    
-    [![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
-    
-    ### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
-    
-    [![M.Manze Tower Bridge Road.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-15-11-2024-at-15.47-360x180.jpg)](https://southwarknews.co.uk/area/borough/pie-and-mash-getting-protected-status-could-be-what-our-beloved-shops-need-to-survive/)
-    
-    ### [Pie and mash getting protected status could be what our beloved shops need to survive](https://southwarknews.co.uk/area/borough/pie-and-mash-getting-protected-status-could-be-what-our-beloved-shops-need-to-survive/)
-    
-    [![There will be magical characters around every corner (credit: Kingswood House)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-16.53-1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
-    
-    ### [Victorian Dulwich mansion to be transformed into an immersive Christmas experience](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-360x180.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+    
+    ### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+    
+    [![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
+    
+    ### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
+    
+    [![The Gaza Sunbirds have delivered over $100,000 in aid to Gazan families. Credit: Gaza Sunbirds](https://southwarknews.co.uk/wp-content/uploads/2024/11/GazaSunbirds_creditGazaSunbirds3-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
+    
+    ### [Peckham to host fundraiser for Palestinian para-cycling team delivering aid to wartorn strip](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
+    
     [![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
     
     ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
@@ -128,18 +140,6 @@ View All Result
     [![Children donned zebra crossing in their campaign for more crossings along Croxted Road](https://southwarknews.co.uk/wp-content/uploads/2024/11/ZebraKids-6222-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
     
     ### [Stripey schoolchildren demand more zebra crossings in Dulwich](https://southwarknews.co.uk/area/dulwich/stripey-schoolchildren-demand-more-zebra-crossings-in-dulwich/)
-    
-    [![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-360x180.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
-    
-    ### [Camberwell man in court after hundreds of North African migrants found in lorries headed for France](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
-    
-    [![M.Manze Tower Bridge Road.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-15-11-2024-at-15.47-360x180.jpg)](https://southwarknews.co.uk/area/borough/pie-and-mash-getting-protected-status-could-be-what-our-beloved-shops-need-to-survive/)
-    
-    ### [Pie and mash getting protected status could be what our beloved shops need to survive](https://southwarknews.co.uk/area/borough/pie-and-mash-getting-protected-status-could-be-what-our-beloved-shops-need-to-survive/)
-    
-    [![There will be magical characters around every corner (credit: Kingswood House)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-19-11-2024-at-16.53-1-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
-    
-    ### [Victorian Dulwich mansion to be transformed into an immersive Christmas experience](https://southwarknews.co.uk/area/dulwich/victorian-dulwich-mansion-to-be-transformed-into-an-immersive-christmas-experience/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -363,17 +363,17 @@ Website
 
 [18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
 
-[![Police were called to Lanercost Road following reports of a stabbing. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-Lanercost-Road-following-reports-of-a-stabbing.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-
-### [Boy, 14, stabbed in South London](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-
-[23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-
 [![Jake Cooper has every league game he's been healthy for this season.](https://southwarknews.co.uk/wp-content/uploads/2024/11/J-Cooper-55545-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
 
 ### [Millwall boss confirms Jake Cooper is out for ten weeks](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
 
 [23rd November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
+
+[![Police were called to Lanercost Road following reports of a stabbing. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-Lanercost-Road-following-reports-of-a-stabbing.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
+
+### [Boy, 14, stabbed in South London](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
+
+[23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
 
 [![Arrest photo shared by NCA](https://southwarknews.co.uk/wp-content/uploads/2024/11/London-arrest-e1732205203812-120x86.jpeg)](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
 
@@ -382,6 +382,12 @@ Website
 [23rd November 2024](https://southwarknews.co.uk/area/camberwell/camberwell-man-in-court-after-hundreds-of-north-african-migrants-found-in-lorries-headed-for-france/)
 
 ### Featured Articles
+
+[![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+
+### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+
+[25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
 [![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
 
@@ -412,12 +418,6 @@ Website
 ### [Kennington playground once riddled with abestos reopens after £700,000 revamp](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
 
 [22nd November 2024](https://southwarknews.co.uk/area/kennington/kennington-playground-once-riddled-with-abestos-reopens-after-700000-revamp/)
-
-[![Police are trying to identify this man in connection with a stabbing on Walworth Road. Image: Southwark MPS](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-trying-to-identify-this-man-in-connection-with-a-stabbing-on-Walworth-Road.-Image-Southwark-MPS-120x86.png)](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
-
-### [Man wanted in connection with Walworth Road stabbing](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
-
-[22nd November 2024](https://southwarknews.co.uk/area/camberwell/man-wanted-in-connection-with-walworth-road-stabbing/)
 
 ### USEFUL PAGES
 
