@@ -2,8 +2,6 @@
 
         
 
- [![Emergency Alert](/Common/Images/AlertCenter/alertBarBlink.svg) Board Applications](https://www.jeffco.us/767/Boards-Commissions) [Apply for Jefferson County Boards and Commissions by Nov. 25 Read On...](https://www.jeffco.us/AlertCenter.aspx?AID=Apply-for-Jefferson-County-Boards-and-Co-1638)
-
  [![Search](/ImageRepository/Document?documentID=76)](https://www.jeffco.us/Search/Results) Search
 
  
