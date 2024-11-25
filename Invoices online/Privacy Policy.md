@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Hugo van Sittert
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=42070921)  
-TRACKFORCE (Pty) Ltd
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=207539918)  
+Nilbet T/A Waterman
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=116378283)  
-IEMS (PTY) ltd
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=44579174)  
+Tantra Sound and Lightz
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=35529545)  
-SA Security Brokerz (Pty) Ltd
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=67997186)  
+Iurus Inc
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=9424503)  
-Digifax Pty) Ltd t/a Findfish
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=34179806)  
+CLEVER STUDENTS
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=9992047)  
-MONSTER SECURITY GUARDING
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=146921204)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=27614219)  
-NGB HOLDINGS PTY LTD
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=56240445)  
-Digifax (Pty) Ltd trading as Digirent
-
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=55471966)  
-Three Moons Emporium
-
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=46153445)  
-Cape Adventure Zone
-
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=114199092)  
-KTEN PARTS
-
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=9970809)  
-Itroniq (Pty) Ltd
-
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=85999247)  
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=35731836)  
 Nogana Events and Decor
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=22579352)  
-Wiselink Broadband Dundee
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=183112125)  
+Xpress Designs
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=3af366ec1bdf00b3fe039bc8c9748ce8604c6005b56aca97f011f6f12f874dcb&c=36584533)  
-CLEVER STUDENTS
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=51268424)  
+J.M. HUMAN RESOURCES
+
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=159491850)  
+INVOICES/JOBCARDS ONLINE
+
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=132185207)  
+Fox Alarms & Security CC
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=77553014)  
+LEO DEVELOPMENT GROUP
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=46335274)  
+Oak Tree Immigration
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=98886277)  
+Chiron Medical Solutions
+
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=60218219)  
+LEONARD
+
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=13058988)  
+Kaylas Creations
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=167883928)  
+VerdanTech Pty Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
