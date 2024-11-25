@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/halloween-spooky-listening-presentation/)
+ [](https://schoolsmusicmarket.com/product/christmas-worksheet-a-musical-maths-puzzle/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/my-listening-buddy-reflection-worksheet/)
+ [](https://schoolsmusicmarket.com/product/12-day-music-christmas-advent-calendar/)
 
 ###### Browse By Year/Grade
 
