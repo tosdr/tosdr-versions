@@ -78,7 +78,7 @@ HOLIDAY TYPES
 
 [Photographic Safaris](https://www.safari.com/holidays/photographic-safaris)
 
-[BLOG](https://www.safari.com/blog)[CONTACT US](https://www.safari.com/contact)
+[BLOG](https://www.safari.com/blog)[TESTIMONIALS](#reviews)[CONTACT US](https://www.safari.com/contact)
 
 ABOUT US
 
@@ -138,7 +138,31 @@ Customer Testimonials
 
 out of 5 based on
 
-[761 reviews](https://www.trustpilot.com/review/www.safari.com)
+[779 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 25, 2024
+
+> Nous avons exploré les parcs de…TARANGIRE, MANYARA, SERENGETI, NGORONGORO
+
+> Nous avons exploré les parcs de Tarangire, Manyara, Serengeti et Ngorongoro avec Gilmag Safari, et ce fut une expérience inoubliable grâce à une organisation impeccable. La faune sauvage de Tanzanie est tout simplement extraordinaire. Notre guide, Prosper, a partagé avec enthousiasme sa passion, nous permettant de découvrir ce monde fascinant à seulement quelques mètres de notre véhicule. Un grand merci à Gilmag Safari pour ce voyage exceptionnel !
+
+Jean Luc Janssen
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 25, 2024
+
+> Lana was incredibly responsive
+
+> Lana was incredibly responsive. When we found our first choice of safari was fully booked she found us a perfect replacement. Many thanks to her - great service.
+
+Neil Buckley
+
+,
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -235,34 +259,6 @@ Amelia
 ,
 
 US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 17, 2024
-
-> Mel made this very easy.
-
-> From our initial enquiry to booking the trip, Mel responded very quickly and provided several options allowing us to choose the right package for us. Looking forward to experiencing it now.
-
-Mr Andrew Tatlock
-
-,
-
-GB
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 16, 2024
-
-> Planning has been made quick and easy…
-
-> Planning has been made quick and easy with Shann! We can’t wait to get to Africa!
-
-customer
-
-,
-
-MX
 
 VIP service
 
