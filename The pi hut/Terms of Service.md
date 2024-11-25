@@ -56,11 +56,11 @@ Cart](https://thepihut.com/cart)
     
     #### Raspberry Pi 5
     
-    2-3x the CPU performance with loads of great new features!](https://thepihut.com/products/raspberry-pi-5)[![](//thepihut.com/cdn/shop/files/raspberry_pi_pico_2_drop_down_1_500x.jpg?v=1723132650)
+    2-3x the CPU performance with loads of great new features!](https://thepihut.com/products/raspberry-pi-5)[![](//thepihut.com/cdn/shop/files/raspberry_pi_pico_2_W_featured_500x.jpg?v=1732525180)
     
-    #### Raspberry Pi Pico 2
+    #### Raspberry Pi Pico 2 W
     
-    The latest Pico is here, with the new RP2350 microcontroller!](https://thepihut.com/products/raspberry-pi-pico-2)
+    Now with wireless! The Raspberry Pi Pico 2 W.](https://thepihut.com/products/raspberry-pi-pico-2-w)
     
 * [Maker Store](https://thepihut.com/collections/maker-store)
     
@@ -183,7 +183,7 @@ Cart](https://thepihut.com/cart)
     * [Gifts Under £20](https://thepihut.com/collections/gifts-under-20)
     * [Gifts Under £50](https://thepihut.com/collections/gifts-under-50)
     
-    [![The Pi Hut gift card](//thepihut.com/cdn/shop/files/the-pi-hut-gift-card-featured_1_500x.jpg?v=1636984313)
+    [![](//thepihut.com/cdn/shop/files/the_pi_hut_gift_card_500x.jpg?v=1732525591)
     
     #### The Pi Hut e-Gift Card
     
@@ -648,7 +648,7 @@ Huge Range
 
 Five Star Service
 
-[155,000+ reviews](https://thepihut.com/pages/site-reviews "Site Reviews")
+[156,000+ reviews](https://thepihut.com/pages/site-reviews "Site Reviews")
 
 No Quibble Returns
 
