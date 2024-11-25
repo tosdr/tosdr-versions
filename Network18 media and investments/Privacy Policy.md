@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [IPL Auction Live](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
-    * [India vs Aus Live](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-4-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9132738.html)
-    * [Shah Rukh Khan](https://www.news18.com/movies/shah-rukh-khan-kids-aryan-and-suhana-give-ipl-2025-auction-a-miss-juhi-chawlas-daughter-bids-for-kkr-9132525.html)
+    * [IPL Auction Live](https://www.news18.com/cricket/ipl-auction-2025-live-updates-day-2-indian-premier-league-players-list-price-details-rcb-csk-mi-kkr-team-full-squads-ipl-auction-today-liveblog-9132935.html)
+    * [Urvashi Rautela](https://www.news18.com/movies/urvashi-rautela-shares-cryptic-post-after-rishabh-pant-gets-highest-bid-at-ipl-auction-2025-jo-lafz-9133161.html)
+    * [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-beat-australia-by-295-runs-in-perth-test-9133029.html)
     * [Rosé](https://www.news18.com/movies/rose-makes-rare-comment-on-thoughts-of-blackpink-disbanding-says-members-sat-down-to-decide-9132052.html)
-    * [Devendra Fadnavis](https://www.news18.com/elections/maharashtra-government-formation-maharashtra-chief-minister-mahayuti-alliance-shiv-sena-bjp-ncp-devendra-fadnavis-eknath-shinde-9132838.html)
-    * [Akshay Godara](https://www.news18.com/education-career/meet-akshay-godara-the-rajasthan-ias-transferred-3-times-in-18-days-9131678.html)
-    * [Javed Akhtar](https://www.news18.com/movies/javed-akhtar-says-shaadi-bekaar-kaam-hai-admits-hes-hardly-married-to-shabana-azmi-just-forget-about-it-9131870.html)
+    * [Vivek Oberoi](https://www.news18.com/lifestyle/inside-vivek-oberois-rs-1200-crore-net-worth-swanky-rolls-royce-dubai-house-and-other-opulent-assets-9133207.html)
+    * [Weight Loss Diet](https://www.news18.com/lifestyle/diet-coach-claims-you-can-lose-10-15-kgs-with-this-30-day-meal-plan-9119453.html)
+    * [Ind vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [IPL Auction Live](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
-* [India vs Aus Live](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-4-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9132738.html)
-* [Shah Rukh Khan](https://www.news18.com/movies/shah-rukh-khan-kids-aryan-and-suhana-give-ipl-2025-auction-a-miss-juhi-chawlas-daughter-bids-for-kkr-9132525.html)
+* [IPL Auction Live](https://www.news18.com/cricket/ipl-auction-2025-live-updates-day-2-indian-premier-league-players-list-price-details-rcb-csk-mi-kkr-team-full-squads-ipl-auction-today-liveblog-9132935.html)
+* [Urvashi Rautela](https://www.news18.com/movies/urvashi-rautela-shares-cryptic-post-after-rishabh-pant-gets-highest-bid-at-ipl-auction-2025-jo-lafz-9133161.html)
+* [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-beat-australia-by-295-runs-in-perth-test-9133029.html)
 * [Rosé](https://www.news18.com/movies/rose-makes-rare-comment-on-thoughts-of-blackpink-disbanding-says-members-sat-down-to-decide-9132052.html)
-* [Devendra Fadnavis](https://www.news18.com/elections/maharashtra-government-formation-maharashtra-chief-minister-mahayuti-alliance-shiv-sena-bjp-ncp-devendra-fadnavis-eknath-shinde-9132838.html)
-* [Akshay Godara](https://www.news18.com/education-career/meet-akshay-godara-the-rajasthan-ias-transferred-3-times-in-18-days-9131678.html)
-* [Javed Akhtar](https://www.news18.com/movies/javed-akhtar-says-shaadi-bekaar-kaam-hai-admits-hes-hardly-married-to-shabana-azmi-just-forget-about-it-9131870.html)
+* [Vivek Oberoi](https://www.news18.com/lifestyle/inside-vivek-oberois-rs-1200-crore-net-worth-swanky-rolls-royce-dubai-house-and-other-opulent-assets-9133207.html)
+* [Weight Loss Diet](https://www.news18.com/lifestyle/diet-coach-claims-you-can-lose-10-15-kgs-with-this-30-day-meal-plan-9119453.html)
+* [Ind vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
