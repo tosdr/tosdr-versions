@@ -25,7 +25,7 @@ Dismiss
 * [Video](https://beforeitsnews.com/v3/video/) |
 * [Top 50](https://beforeitsnews.com/v3/top50/) |
 * [Most Recent](https://beforeitsnews.com/v3/recent/) |
-* [Shopping](https://www.herbanomic.com/productdirectory) |
+* [Shopping](https://herbanomics.com/collections/all) |
 * [Categories](https://beforeitsnews.com/v3/categories/)
 
   
