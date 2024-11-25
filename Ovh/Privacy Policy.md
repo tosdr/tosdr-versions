@@ -406,12 +406,20 @@ Log in to order, manage your products and services, and track your orders.
             
         * AI & Machine Learning Explore all our AI & Machine learning products
             
-            * [AI Notebooks](https://www.ovhcloud.com/en/public-cloud/ai-notebooks/) Launch your Jupyter or VS Code notebooks in the cloud
+            * [AI & Quantum Notebooks](https://www.ovhcloud.com/en/public-cloud/ai-notebooks/) Launch your Jupyter or VS Code notebooks in the cloud, and choose from our native AI or quantum frameworks
             * [AI Training](https://www.ovhcloud.com/en/public-cloud/ai-training/) Train your AI models
             * [AI Deploy](https://www.ovhcloud.com/en/public-cloud/ai-deploy/) Deploy machine learning models & get your predictions
             * [AI Endpoints Alpha](https://labs.ovhcloud.com/en/ai-endpoints/) Enrich your applications with cutting-edge AI APIs
             * Our documentation Browse our documentation for the AI & Machine Learning range
             * En route to PaaS Focus on your applications & become more competitive
+    * Quantum Computing
+        * Back to menu
+        * Quantum Computing
+            
+        * Quantum Computing
+            
+            * Quantum Notebooks Launch your Jupyter or VS Code notebooks in the cloud, and choose from our native AI or quantum frameworks
+            * [What is Quantum computing?](https://www.ovhcloud.com/en/learn/what-is-quantum-computing/) Learn more about the next accelerated computing revolution and how to develop today’s solutions with tomorrow’s quantum computers
     * [Identity, Security & Operations](https://www.ovhcloud.com/en/identity-security/)
         * Back to menu
         * [Identity, Security & Operations](https://www.ovhcloud.com/en/identity-security/)
