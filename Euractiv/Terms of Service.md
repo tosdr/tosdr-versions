@@ -613,6 +613,14 @@ Most recent
 
 [25-11-2024
 
+High-level group calls for Commission recommendation on lawful interception in 2025](https://www.euractiv.com/section/tech/news/high-level-group-calls-for-commission-recommendation-on-lawful-interception-in-2025/)[25-11-2024
+
+EU push to centralise financial supervision misguided, say Nordic finance chiefs](https://www.euractiv.com/section/economy-jobs/news/eu-push-to-centralise-financial-supervision-misguided-say-nordic-finance-chiefs/)[25-11-2024
+
+Cargo plane crashes near Lithuania airport, DHL launches own investigation](https://www.euractiv.com/section/global-europe/news/cargo-plane-crashes-near-lithuania-airport-dhl-launches-own-investigation/)[25-11-2024
+
+More surprises in the aftermath of Romania’s presidential election](https://www.euractiv.com/section/politics/news/more-surprises-in-the-aftermath-of-romanias-presidential-election/)[25-11-2024
+
 Niger requests replacement of EU ambassador amid flood aid row](https://www.euractiv.com/section/global-europe/news/niger-requests-replacement-of-eu-ambassador-amid-flood-aid-row/)[25-11-2024
 
 Roberta Metsola: The US ‘understands the language of power’](https://www.euractiv.com/section/politics/news/roberta-metsola-the-us-understands-the-language-of-power/)[25-11-2024
@@ -623,15 +631,7 @@ Spain’s centre-right ‘foolish’ to think EPP would upset EU alliance, exper
 
 Czechia does not seek extension of Russian oil import exemption](https://www.euractiv.com/section/politics/news/czechia-does-not-seek-extension-of-russian-oil-import-exemption/)[25-11-2024
 
-Polish PiS picks little-known Karol Nawrocki as presidential candidate](https://www.euractiv.com/section/politics/news/polish-pis-picks-little-known-karol-nawrocki-as-presidential-candidate/)[25-11-2024
-
-Foreign police officers to help at Bulgarian-Turkish border after Schengen entry](https://www.euractiv.com/section/politics/news/foreign-police-officers-to-help-at-bulgarian-turkish-border-after-schengen-entry/)[25-11-2024
-
-Donald Trump Jr. helps his father pick the most controversial cabinet of modern times](https://www.euractiv.com/section/global-europe/news/donald-trump-jr-helps-his-father-pick-the-most-controversial-cabinet-of-modern-times/)[25-11-2024
-
-Portugal welcomes COP29 decisions, laments ‘little ambition’ on mitigation](https://www.euractiv.com/section/politics/news/portugal-welcomes-cop29-decisions-laments-little-ambition-on-mitigation/)[25-11-2024
-
-Greece’s wounded left elects new chief](https://www.euractiv.com/section/politics/news/greeces-wounded-left-elects-new-chief/)
+Polish PiS picks little-known Karol Nawrocki as presidential candidate](https://www.euractiv.com/section/politics/news/polish-pis-picks-little-known-karol-nawrocki-as-presidential-candidate/)
 
 ###### Advertisement
 
