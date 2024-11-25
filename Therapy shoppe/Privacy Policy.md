@@ -1,7 +1,6 @@
 ![](https://www.facebook.com/tr?id=1657184227709652&ev=PageView
 &noscript=1)        
 
-* [Black Friday Deals](https://www.therapyshoppe.com/products/1850-black-friday-deals "Black Friday Deals")
 * [Best Holiday Gifts Under $20](https://www.therapyshoppe.com/products/1851-best-holiday-gifts-under-two "Best Holiday Gifts Under $20")
 * [New Products](https://www.therapyshoppe.com/products/1138-new-products-brand-new-innovative-therapy-sensory-products "New Products")
 * [Shop by Challenge](https://www.therapyshoppe.com/products/1702-shop-by-challenge-sensory-solutions-fidgets-special-needs-kids "Shop by Challenge")
@@ -77,7 +76,6 @@
 
    
 
-* [Black Friday Deals](https://www.therapyshoppe.com/products/1850-black-friday-deals "Black Friday Deals")
 * [Best Holiday Gifts Under $20](https://www.therapyshoppe.com/products/1851-best-holiday-gifts-under-two "Best Holiday Gifts Under $20")
 * [New Products](https://www.therapyshoppe.com/products/1138-new-products-brand-new-innovative-therapy-sensory-products "New Products")
 * [Shop by Challenge](https://www.therapyshoppe.com/products/1702-shop-by-challenge-sensory-solutions-fidgets-special-needs-kids "Shop by Challenge")
