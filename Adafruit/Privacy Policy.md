@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ One never notices what has been done; one can only see what remains to be done”
+“ To achieve great things, two things are needed: a plan and not quite enough time”
 
-[Marie Curie](http://en.wikipedia.org/wiki/Marie_Curie)
+[Leonard Bernstein](http://thinkexist.com/quotation/to_achieve_great_things-two_things_are_needed-a/214657.html)
 
 [](https://www.adafruit.com/about)
 
