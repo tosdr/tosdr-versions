@@ -1,8 +1,8 @@
-Event
+Report
 
-Happy Hour: Mastering pricing localization
+We partnered with High Alpha for the 2024 SaaS Benchmarks Report,
 
-[Join us live](https://www.paddle.com/events/happy-hour-2024?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2024_q4_core_paddle_happy_hour_webinar_series&utm_content=homepage-banner)
+[see how you stack up](https://www.highalpha.com/2024-saas-benchmarks-report)
 
 [![Paddle logo](/_next/static/media/logo-primary.1520b460.svg)](https://www.paddle.com/)
 
