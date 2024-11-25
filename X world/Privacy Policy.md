@@ -93,11 +93,11 @@ Search for:
 
 ### Recent Posts
 
+* [Explore The Scenic Cotswolds With A Personalised Tour](https://xworld.org/tour-and-travel/explore-the-scenic-cotswolds-with-a-personalised-tour/)
 * [The Art and Science of Chemical Blending: Innovations and Applications](https://xworld.org/reviews/the-art-and-science-of-chemical-blending-innovations-and-applications/)
 * [Why Resort Condos Are Ideal for Group Vacations](https://xworld.org/tour-and-travel/why-resort-condos-are-ideal-for-group-vacations/)
 * [Fitted v Modular Freestanding Wardrobe: The Pros and Cons](https://xworld.org/home-improvement/fitted-v-modular-freestanding-wardrobe-the-pros-and-cons/)
 * [Top Qualities of a Great Office Building Manager](https://xworld.org/home-improvement/top-qualities-of-a-great-office-building-manager/)
-* [What is sports journalism?](https://xworld.org/sports/what-is-sports-journalism/)
 
 ### Categories
 
