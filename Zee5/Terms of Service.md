@@ -15,7 +15,6 @@
 * [Sports](https://www.zee5.com/sports/games)
 * [Eduauraa](https://www.zee5.com/eduauraa "Digital Learning Platform for Class 6 to 12, NEET, JEE Exams")
 * [Kids](https://www.zee5.com/kids "Watch Kids Shows, Cartoons. Movies & Videos Online")
-* [Songs](https://www.zee5.com/songs)
 * [Videos](https://www.zee5.com/videos "Watch Official Films Videos")
 
 [LOGIN](https://www.zee5.com/signin?redirectFromWebApp=1)
