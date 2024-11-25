@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Space Panic](https://www.myabandonware.com/game/space-panic-tb3)
 * [Reactors](https://www.myabandonware.com/game/reactors-tb2)
 * [Ultimate Kakuro](https://www.myabandonware.com/game/ultimate-kakuro-tb1)
 * [Ultimate Su Doku](https://www.myabandonware.com/game/ultimate-su-doku-tb0)
 * [Santa Slayer](https://www.myabandonware.com/game/santa-slayer-taz)
-* [Space Rocks 3D](https://www.myabandonware.com/game/space-rocks-3d-tay)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Albatross 2: Masters' History](https://www.myabandonware.com/game/albatross-2-masters-history-qtm)
-* [SpongeBob SquarePants Saves the Day](https://www.myabandonware.com/game/spongebob-squarepants-saves-the-day-msv)
-* [Rayman 3](https://www.myabandonware.com/game/rayman-3-mra)
+* [Legend](https://www.myabandonware.com/game/legend-rwi)
+* [Cosmic Shock Absorber](https://www.myabandonware.com/game/cosmic-shock-absorber-nyv)
+* [Super Dragon Ball Z](https://www.myabandonware.com/game/super-dragon-ball-z-t53)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
