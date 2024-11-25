@@ -38,18 +38,19 @@ Gen Mobile Law Enforcement or Governmental Entity
 Information Request Policy
 ==============================================================================
 
-### **GEN MOBILE LAW ENFORCEMENT OR GOVERNMENTAL ENTITY  
-INFORMATION REQUEST POLICY**
+  
 
-Version November 2022
+**GEN MOBILE LAW ENFORCEMENT OR GOVERNMENTAL ENTITY INFORMATION REQUEST POLICY**
 
-Click [here](https://cdn.shopify.com/s/files/1/2954/7774/files/Law_Enforcement_or_Government_Entity_Information_Request_Policy_05.12.22_SL_clean.docx.pdf?v=1652996524) to download a PDF version of this request.
+Version November 2024
 
-I. INTRODUCTION  
+Click [here](https://cdn.shopify.com/s/files/1/2954/7774/files/Law_Enforcement_or_Governmental_Entity_Information_Request_Policy.pdf?v=1732558150) to download a PDF version of this request.
+
+**I. INTRODUCTION**
 
 DISH Wireless L.L.C. dba Gen Mobile (“Gen Mobile”) strives to assist law enforcement or governmental entities in their investigations while maintaining its legal obligation to protect customer privacy as required by law and applicable policies. The relevant statutes may include, without limitation: The Electronic Communications Privacy Act (18 U.S.C. §§ 2510-2522, 2701-2712, 3121-3127); Communications Assistance for Law Enforcement Act (47 U.S.C. §§ 1001-1010); and the Telecommunications Act of 1996 (specifically, 47 U.S.C. § 222 pertaining to customer proprietary network information or CPNI). Gen Mobile makes every effort to provide a response within ten (10) business days, unless otherwise specified or required.
 
-**II. INFORMATION REQUESTS**  
+**II. INFORMATION REQUESTS**
 
 Every information request is reviewed and evaluated by a Gen Mobile representative in light of any particular procedural or legal requirements and applicable state and federal laws.
 
@@ -76,7 +77,7 @@ Send a completed and signed **Emergency Disclosure Form, on department letterhea
 
 **B. Court Orders, Search Warrants, and Subpoenas**
 
-All court orders, search warrants, and subpoenas **must be properly served** either in person at our business office or through our Registered Agent for Service of Process. Improper service may delay release of any information.
+All court orders, search warrants, and subpoenas **must be properly served** either in person at our business office, by mail, or through our Registered Agent for Service of Process. Improper service may delay release of any information.
 
 Mailing Address
 
@@ -98,7 +99,7 @@ Gen Mobile is unable to provide information requests for the following: Intercep
 
 Gen Mobile also does not provide customers with email addresses and does not retain customer email content and attachments.
 
-III. CUSTOMER ACCOUNT IDENTIFICATION
+**III. CUSTOMER ACCOUNT IDENTIFICATION**
 
 The following outlines whether Gen Mobile can provide customer information based on the different kinds of identification provided by law enforcement or governmental entities:
 
@@ -111,7 +112,7 @@ The following outlines whether Gen Mobile can provide customer information based
 | a person’s name | may not be able to identify a customer based on a name alone. It may be necessary to also have other identifiable information (street address, account number, phone number) where the customer likely uses our service. Please include all name variations in your request. Gen Mobile will conduct searches for the exact name(s) on the request. |
 | a street address | can only provide addresses of record if the customer provides one.<br><br>The request should include the target house or apartment number, street name, city, state, and zip code. It is possible that Gen Mobile has provided service to multiple customers at the same address. Therefore, please provide a specific time period to narrow the search for the customer identity. |
 
-**IV. I COST REIMBURSEMENT (18 U.S.C. § 2706)**
+**IV. COST REIMBURSEMENT (18 U.S.C. § 2706)**
 
 Below is the table for the reimbursement of costs based on the type of information request:
 
@@ -126,7 +127,7 @@ Below is the table for the reimbursement of costs based on the type of informati
 
 Payable to: DISH Wireless L.L.C. dba Gen Mobile, Attn: Legal Department, P.O. Box 1187, Gardena, CA 90249
 
-  
+* * *
 
 **Exhibit A**
 
@@ -142,9 +143,27 @@ In an emergency situation involving danger of death or serious physical injury, 
 | **Address:** |     |
 | **Telephone #:** |     |
 | **Email:** |     |
-| 1.     Why is this an emergency situation that involves immediate danger of death or serious physical injury?<br><br>2.     What information do you have that may help Gen Mobile identify the customer?<br><br>3.     What information are you requesting?<br><br>4.     What is the best way to provide this information to you? (check one)<br><br>           ☐via email     ☐via telephone call |     |
+| 1.    Why is this an emergency situation that involves immediate danger of death or serious physical injury?<br><br>2.    What information do you have that may help Gen Mobile identify the customer?<br><br>3.    What information are you requesting?<br><br>4.    What is the best way to provide this information to you? (check one)<br><br>          ☐ via email    ☐ via telephone call |     |
 | **Indemnification**<br><br>I acknowledge this request is made solely as a result of immediate danger of death or serious physical injury, and that the information shall not be obtained, shared, or disseminated for any unlawful or harmful purpose. I affirm that I have the legal authority to execute this form and agree to defend, indemnify, and hold Gen Mobile, its parent company, affiliates, subsidiaries, employees, and agents harmless for any and all claims, demands, losses or injury, including reasonable attorneys’ fees brought against Gen Mobile by a third party, including the customer, as a result of Gen Mobile’s compliance with this request. |     |
-| I declare under penalty of perjury that the foregoing is true and correct.<br><br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br><br>Requestor’s Signature                                          Date<br><br>Please send this completed and signed form, **on department letterhead**, to genmobilelegal@dish.com (with **“Emergency Disclosure Form”** in the subject line). |     |
+| I declare under penalty of perjury that the foregoing is true and correct.<br><br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br><br>Requestor’s Signature                                                            Date<br><br>Please send this completed and signed form, **on department letterhead**, to genmobilelegal@dish.com (with **“Emergency Disclosure Form”** in the subject line). |     |
+
+**Exhibit A**
+
+**Emergency Disclosure Form**
+
+In an emergency situation involving danger of death or serious physical injury, Gen Mobile may release information to a member of a law enforcement agency or a governmental entity. Please **fully complete** this form; incomplete forms may lead to a delay.
+
+|     |     |
+| --- | --- |
+| **Name of Requestor:** |     |
+| **Title and Badge # (if applicable):** |     |
+| **Name of governmental entity:** |     |
+| **Address:** |     |
+| **Telephone #:** |     |
+| **Email:** |     |
+| 1.    Why is this an emergency situation that involves immediate danger of death or serious physical injury?<br><br>2.    What information do you have that may help Gen Mobile identify the customer?<br><br>3.    What information are you requesting?<br><br>4.    What is the best way to provide this information to you? (check one)<br><br>          ☐ via email    ☐ via telephone call |     |
+| **Indemnification**<br><br>I acknowledge this request is made solely as a result of immediate danger of death or serious physical injury, and that the information shall not be obtained, shared, or disseminated for any unlawful or harmful purpose. I affirm that I have the legal authority to execute this form and agree to defend, indemnify, and hold Gen Mobile, its parent company, affiliates, subsidiaries, employees, and agents harmless for any and all claims, demands, losses or injury, including reasonable attorneys’ fees brought against Gen Mobile by a third party, including the customer, as a result of Gen Mobile’s compliance with this request. |     |
+| I declare under penalty of perjury that the foregoing is true and correct.<br><br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br><br>Requestor’s Signature<br><br>                    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      Date<br><br>Please send this completed and signed form, **on department letterhead**, to genmobilelegal@dish.com (with **“Emergency Disclosure Form”** in the subject line). |     |
 
 ![](//cdn.shopify.com/s/files/1/2954/7774/files/GenMobile-logo-red-v2_400x.png?v=1649179654)
 
