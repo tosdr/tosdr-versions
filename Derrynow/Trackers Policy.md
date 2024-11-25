@@ -259,39 +259,19 @@ Advertise with Us
 
 Most Popular
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1663740/ruaidhri-higgins-i-thought-i-was-being-brave-being-strong-and-showing-leadership-but-ultimately-i-was-wrong.html)
-
-Ruaidhri Higgins has been reflecting on his time as Derry City manager.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins: "I thought I was being brave, being strong and showing leadership, but ultimately I was wrong"](https://www.derrynow.com/news/derry-sport/1663740/ruaidhri-higgins-i-thought-i-was-being-brave-being-strong-and-showing-leadership-but-ultimately-i-was-wrong.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police investigating reported arson attack in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating reported arson attack in Derry")](https://www.derrynow.com/news/local-news/1663680/police-investigating-reported-arson-attack-in-derry.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police investigating reported arson attack in Derry](https://www.derrynow.com/news/local-news/1663680/police-investigating-reported-arson-attack-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
-
-Ciaran Coll's time at Derry City looks to have come to an end.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ciaran Coll set to leave Derry City to join Glentoran](https://www.derrynow.com/news/derry-sport/1663702/ciaran-coll-set-to-leave-derry-city-to-join-glentoran.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Monday, November 25, 2024](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Craigbane GAC fans in Celtic Park for Ulster Club Junior Football Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Craigbane GAC fans in Celtic Park for Ulster Club Junior Football Final")](https://www.derrynow.com/story-telling/pictures---videos/1664117/in-pictures-craigbane-gac-fans-in-celtic-park-for-ulster-club-junior-football-final.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Craigbane GAC fans in Celtic Park for Ulster Club Junior Football Final](https://www.derrynow.com/story-telling/pictures---videos/1664117/in-pictures-craigbane-gac-fans-in-celtic-park-for-ulster-club-junior-football-final.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Donegal man charged with disorderly behavior following incident in Derry remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man charged with disorderly behavior following incident in Derry remanded")](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
 
@@ -302,12 +282,19 @@ Derry Magistrate's Court
 [Donegal man charged with disorderly behavior following incident in Derry remanded](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Clean-up begins after Storm Bert as thousands still left without power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clean-up begins after Storm Bert as thousands still left without power")](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
+[![Derry man with 128 previous convictions charged with series of public order offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man with 128 previous convictions charged with series of public order offences")](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man with 128 previous convictions charged with series of public order offences](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy")](https://www.derrynow.com/story-telling/pictures---videos/1664006/in-pictures-46th-anniversary-commemoration-for-derry-volunteer-patsy-duffy.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy](https://www.derrynow.com/story-telling/pictures---videos/1664006/in-pictures-46th-anniversary-commemoration-for-derry-volunteer-patsy-duffy.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![AVEVA to expand its operations as it invests £1.4million in Derry site](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AVEVA to expand its operations as it invests £1.4million in Derry site")](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
 
@@ -318,13 +305,6 @@ Economy Minister Conor Murphy with Brendan McGuigan, Director of Advanced Manufa
 [AVEVA to expand its operations as it invests £1.4million in Derry site](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man with 128 previous convictions charged with series of public order offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man with 128 previous convictions charged with series of public order offences")](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man with 128 previous convictions charged with series of public order offences](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.")](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
 
 Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.
@@ -334,18 +314,62 @@ Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and F
 [Derry's pioneering nurses to be honoured by Ulster University](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Campaigners demand immediate action after 8% rise in suicides](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Campaigners demand immediate action after 8% rise in suicides")](https://www.derrynow.com/news/local-news/1663605/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
+[![Sum of cash stolen from parked vehicle in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sum of cash stolen from parked vehicle in Derry")](https://www.derrynow.com/news/local-news/1664290/sum-of-cash-stolen-from-parked-vehicle-in-derry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Campaigners demand immediate action after 8% rise in suicides](https://www.derrynow.com/news/local-news/1663605/campaigners-demand-immediate-action-after-8-rise-in-suicides.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Sum of cash stolen from parked vehicle in Derry](https://www.derrynow.com/news/local-news/1664290/sum-of-cash-stolen-from-parked-vehicle-in-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Clean-up begins after Storm Bert as thousands still left without power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clean-up begins after Storm Bert as thousands still left without power")](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Most popular items bought by inmates at HMP Magilligan over the last year revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Most popular items bought by inmates at HMP Magilligan over the last year revealed")](https://www.derrynow.com/news/derry-news/1664326/most-popular-items-bought-by-inmates-at-hmp-magilligan-over-the-last-year-revealed.html)
+
+H.M. Prison Magilligan
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Most popular items bought by inmates at HMP Magilligan over the last year revealed](https://www.derrynow.com/news/derry-news/1664326/most-popular-items-bought-by-inmates-at-hmp-magilligan-over-the-last-year-revealed.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: White Ribbon Day marked in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: White Ribbon Day marked in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1664397/in-pictures-white-ribbon-day-marked-in-derry-s-guildhall.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: White Ribbon Day marked in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1664397/in-pictures-white-ribbon-day-marked-in-derry-s-guildhall.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Nostalgic book celebrates memories of residents at Longfield Care Home](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Nostalgic book celebrates memories of residents at Longfield Care Home")](https://www.derrynow.com/story-telling/pictures---videos/1664295/in-pictures-nostalgic-book-celebrates-memories-of-residents-at-longfield-care-home.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Nostalgic book celebrates memories of residents at Longfield Care Home](https://www.derrynow.com/story-telling/pictures---videos/1664295/in-pictures-nostalgic-book-celebrates-memories-of-residents-at-longfield-care-home.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Craigbane GAC fans in Celtic Park for Ulster Club Junior Football Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Craigbane GAC fans in Celtic Park for Ulster Club Junior Football Final")](https://www.derrynow.com/story-telling/pictures---videos/1664117/in-pictures-craigbane-gac-fans-in-celtic-park-for-ulster-club-junior-football-final.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Craigbane GAC fans in Celtic Park for Ulster Club Junior Football Final](https://www.derrynow.com/story-telling/pictures---videos/1664117/in-pictures-craigbane-gac-fans-in-celtic-park-for-ulster-club-junior-football-final.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy")](https://www.derrynow.com/story-telling/pictures---videos/1664006/in-pictures-46th-anniversary-commemoration-for-derry-volunteer-patsy-duffy.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy](https://www.derrynow.com/story-telling/pictures---videos/1664006/in-pictures-46th-anniversary-commemoration-for-derry-volunteer-patsy-duffy.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession")](https://www.derrynow.com/story-telling/pictures---videos/1662940/in-pictures-crowds-line-the-streets-for-derry-s-magical-christmas-lights-switch-on-procession.html)
 
@@ -388,34 +412,6 @@ Multimedia
 
 [Throwback Thursday: Partytime out and about in Derry's Metro Bar (2007)](https://www.derrynow.com/story-telling/pictures---videos/1660456/throwback-thursday-partytime-out-and-about-in-derry-s-metro-bar-2007.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Mayor hosts reception for Thornhill College pupils](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts reception for Thornhill College pupils")](https://www.derrynow.com/story-telling/pictures---videos/1660490/in-pictures-mayor-hosts-reception-for-thornhill-college-pupils.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Mayor hosts reception for Thornhill College pupils](https://www.derrynow.com/story-telling/pictures---videos/1660490/in-pictures-mayor-hosts-reception-for-thornhill-college-pupils.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Cheque presentations from the proceeds of Marty's Run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Cheque presentations from the proceeds of Marty's Run")](https://www.derrynow.com/story-telling/pictures---videos/1660453/in-pictures-cheque-presentations-from-the-proceeds-of-marty-s-run.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Cheque presentations from the proceeds of Marty's Run](https://www.derrynow.com/story-telling/pictures---videos/1660453/in-pictures-cheque-presentations-from-the-proceeds-of-marty-s-run.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry health event celebrates International Men's Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry health event celebrates International Men's Day")](https://www.derrynow.com/story-telling/pictures---videos/1660454/in-pictures-derry-health-event-celebrates-international-men-s-day.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry health event celebrates International Men's Day](https://www.derrynow.com/story-telling/pictures---videos/1660454/in-pictures-derry-health-event-celebrates-international-men-s-day.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![WATCH: Tiernan Lynch 'proud and privileged' to be new Derry City manager](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Tiernan Lynch 'proud and privileged' to be new Derry City manager")](https://www.derrynow.com/news/derry-sport/1660322/watch-tiernan-lynch-proud-and-privileged-to-be-new-derry-city-manager.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[WATCH: Tiernan Lynch 'proud and privileged' to be new Derry City manager](https://www.derrynow.com/news/derry-sport/1660322/watch-tiernan-lynch-proud-and-privileged-to-be-new-derry-city-manager.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,57 +513,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry man with 128 previous convictions charged with series of public order offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man with 128 previous convictions charged with series of public order offences")](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
+[![Most popular items bought by inmates at HMP Magilligan over the last year revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Most popular items bought by inmates at HMP Magilligan over the last year revealed")](https://www.derrynow.com/news/derry-news/1664326/most-popular-items-bought-by-inmates-at-hmp-magilligan-over-the-last-year-revealed.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man with 128 previous convictions charged with series of public order offences](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Donegal man charged with disorderly behavior following incident in Derry remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man charged with disorderly behavior following incident in Derry remanded")](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Donegal man charged with disorderly behavior following incident in Derry remanded](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.](https://www.derrynow.com/resizer/165/93/true/2024_11_25/Altnagelvin_Consultant_ENT_Surgeon%2C_Mr_Harvey_with_Theatre_Sister%2C_Ursula_Clifford%2C_and_Mr_Harvey_s_Registrar%2C_Dr_Finn_Houlahan%2C-1732532659025_1732533971.jpg--.jpg?1732533971345 "Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.")](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
-
-Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry's pioneering nurses to be honoured by Ulster University](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Praxis Care: Katherine Greer & Paul Webb](https://www.derrynow.com/resizer/165/93/true/2024_11_25/Katherine_Greer%2C_Paul_Webb_%281%29-1732533156728.jpg--.jpg?1732533157176 "Praxis Care: Katherine Greer & Paul Webb")](https://www.derrynow.com/news/county-derry-post/1664044/praxis-care-celebrates-katherine-greer-coleraine-client-for-successfully-completing-her-second-year-of-an-msc-programme.html)
-
-Praxis Care: Katherine Greer & Paul Webb
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Praxis Care celebrates Katherine Greer, Coleraine client for successfully completing her second year of an MSc programme.](https://www.derrynow.com/news/county-derry-post/1664044/praxis-care-celebrates-katherine-greer-coleraine-client-for-successfully-completing-her-second-year-of-an-msc-programme.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Jason Manford](https://www.derrynow.com/resizer/165/93/true/2024_11_25/JM_MFAS_PosterShot_01-1732532594916.jpeg--.jpeg?1732532595926 "Jason Manford")](https://www.derrynow.com/news/derry-news/1664032/jason-manford-announces-derry-show-for-september-2025.html)
-
-Jason Manford
+H.M. Prison Magilligan
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Jason Manford announces Derry show for September 2025](https://www.derrynow.com/news/derry-news/1664032/jason-manford-announces-derry-show-for-september-2025.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Most popular items bought by inmates at HMP Magilligan over the last year revealed](https://www.derrynow.com/news/derry-news/1664326/most-popular-items-bought-by-inmates-at-hmp-magilligan-over-the-last-year-revealed.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![AVEVA to expand its operations as it invests £1.4million in Derry site](https://www.derrynow.com/resizer/165/93/true/2024_11_25/Parkway-4436%281%29-1732527228568.jpg--.jpg?1732527229048 "AVEVA to expand its operations as it invests £1.4million in Derry site")](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
+[![Funded Arts project brings memories to life for Derry care home residents](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funded Arts project brings memories to life for Derry care home residents")](https://www.derrynow.com/news/local-news/1664319/funded-arts-project-brings-memories-to-life-for-derry-care-home-residents.html)
 
-Economy Minister Conor Murphy with Brendan McGuigan, Director of Advanced Manufacturing and Engineering at Invest NI, and Caoimhe Keogan, Chief People Officer, AVEVA
+The Mayor pictured with two of Longfield' oldest residents, 102 years old Lily Canning and 97 years old Fr. Michael Keaveney at Friday's book launch. (Photos: Jim McCafferty Photography)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[AVEVA to expand its operations as it invests £1.4million in Derry site](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Funded Arts project brings memories to life for Derry care home residents](https://www.derrynow.com/news/local-news/1664319/funded-arts-project-brings-memories-to-life-for-derry-care-home-residents.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Samaritans celebrates volunteers answering calls of hope during the festive period](https://www.derrynow.com/resizer/165/93/true/2024_11_25/VR_Northern_Ireland_Meta_ads_type_and_image_1200x12005-1732541065784_1732541086.jpg--.jpg?1732541086076 "Samaritans celebrates volunteers answering calls of hope during the festive period")](https://www.derrynow.com/news/local-news/1664207/samaritans-celebrates-volunteers-answering-calls-of-hope-during-the-festive-period.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Samaritans celebrates volunteers answering calls of hope during the festive period](https://www.derrynow.com/news/local-news/1664207/samaritans-celebrates-volunteers-answering-calls-of-hope-during-the-festive-period.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Sum of cash stolen from parked vehicle in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_25/467501906_989060603264507_7454284008500608153_n-1732547159161.jpg--.jpg?1732547159208 "Sum of cash stolen from parked vehicle in Derry")](https://www.derrynow.com/news/local-news/1664290/sum-of-cash-stolen-from-parked-vehicle-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Sum of cash stolen from parked vehicle in Derry](https://www.derrynow.com/news/local-news/1664290/sum-of-cash-stolen-from-parked-vehicle-in-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Children in Crossfire launch Christmas gift cards initiative](https://www.derrynow.com/resizer/165/93/true/2024_11_25/IDNT_28-11-24_Children_in_Crossfire_xmas_cards_%282%29-1732543643088.jpg--.jpg?1732543644814 "Children in Crossfire launch Christmas gift cards initiative")](https://www.derrynow.com/news/local-news/1664249/children-in-crossfire-launch-christmas-gift-cards-initiative.html)
+
+Richard Moore with Carla Shiels
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Children in Crossfire launch Christmas gift cards initiative](https://www.derrynow.com/news/local-news/1664249/children-in-crossfire-launch-christmas-gift-cards-initiative.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Causeway Hospital](https://www.derrynow.com/resizer/165/93/true/2023_04_21/mj-1682084428975.png--.png?1682084429096 "Causeway Hospital")](https://www.derrynow.com/news/county-derry-post/1664125/sos-causeway-rally-for-a-christmas-miracle.html)
+
+Causeway Hospital
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[SOS Causeway rally for a Christmas Miracle!](https://www.derrynow.com/news/county-derry-post/1664125/sos-causeway-rally-for-a-christmas-miracle.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
