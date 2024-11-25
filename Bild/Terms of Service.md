@@ -208,25 +208,25 @@ Menü
 
 [BreakingNews
 
-Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
 
-Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
 
-Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
 
-Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
 
-Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
 
-Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
 
-Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
 
-Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
 
-Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen
+Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD
 
-Mindestens ein Toter: DHL-Flugzeug aus Leipzig stürzt auf Wohnhaus in Litauen](https://www.bild.de/news/litauen-dhl-flugzeug-aus-leipzig-stuerzt-auf-wohnhaus-ein-toter-67440f0603d64b3540b295f1)
+Einstimmiger Beschluss: SPD-Vorstand nominiert Scholz als Kanzlerkandidat ++ Pressekonferenz gleich live bei BILD](https://www.bild.de/politik/spd-olaf-scholz-als-kanzlerkandidat-nominiert-674469c78ff2e41fd22993f3)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
