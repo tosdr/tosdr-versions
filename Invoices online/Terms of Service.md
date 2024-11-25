@@ -196,57 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Hugo van Sittert
+Kobus Venter
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=88060060)  
-Firstweb Hosting & Design
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=121358438)  
+AquariumSmiths
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=94949271)  
-Druce Digital
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=166922966)  
+Lindani Protection Services & Projects
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=153499641)  
-Chiron Medical Solutions
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=14980575)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=195630532)  
-KTEN PARTS
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=16756195)  
+Sophia's Roses
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=15793634)  
-CLEVER STUDENTS
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=178031365)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=150006816)  
-FJW Security Cc
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=100345247)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=100442323)  
-Roekeloos Group
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=205391221)  
+TurboFibre
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=181058908)  
-NJR ICT Services (Pty) Ltd
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=39902674)  
+Lion Software Develepment
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=192081238)  
-Vplay Letsheng Mall
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=51386492)  
+MSPCloud (Pty) Ltd
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=75443544)  
-BD Maintenance
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=112507250)  
+Xpress Designs
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=47248186)  
-Dr V Naik Consult
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=78697000)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=26718479)  
-Know Informatics
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=112132375)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=66467484)  
-Oukraal Merino's
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=153116603)  
+Meyer Towing & Recovery
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=34586839)  
-Blue Bulls Rugby Coaches Association
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=70144035)  
+Imvubu General Trading
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=150685270)  
-Desygn
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=41401766)  
+Van Der Merwe Olieverspreiders
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
