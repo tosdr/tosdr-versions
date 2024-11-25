@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![algoritmo - a imagem que ilustra o tema tem o fundo escuro onde aparece uma mão tocando num painel com várias telas.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Algoritmo-do-Instagram-nao-e-o-vilao-580x290.png)](https://postgrain.com/?post_type=post&p=12736)
+[![Produtivo - A imagem que ilustra o tema tem o fundo de uma sala onde aparece um computador sobre uma mesa e na tela dele o ChatGPT aberto.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Social-media-Aumente-sua-produtividade-com-ChatGPT-580x290.jpg)](https://postgrain.com/?post_type=post&p=12745)
 
-[](https://postgrain.com/?post_type=post&p=12736)
+[Social media: Aumente sua produtividade com ChatGPT](https://postgrain.com/?post_type=post&p=12745)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12736)
+[Leia mais](https://postgrain.com/?post_type=post&p=12745)
 
 Ilustração de um dos personagens do Postgrain
 
