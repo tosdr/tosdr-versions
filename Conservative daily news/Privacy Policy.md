@@ -1,15 +1,15 @@
-Sunday, November 24 2024
+Monday, November 25 2024
 
 Breaking News
 
+* [The West Is Playing With Fire In Ukraine](https://www.conservativedailynews.com/2024/11/the-west-is-playing-with-fire-in-ukraine/)
+* [Thanksgiving Food Costs Still Gobble Up More Of Americans’ Paychecks Than Any Time Under Trump](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
 * [Importing Poverty Is No Ticket To Prosperity](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
 * [Trump Caps Off The Week With Major Cabinet Picks](https://www.conservativedailynews.com/2024/11/trump-caps-off-the-week-with-major-cabinet-picks/)
 * [Mexican President Says She’s Prepared To Handle Trump’s Mass Deportations](https://www.conservativedailynews.com/2024/11/mexican-president-says-shes-prepared-to-handle-trumps-mass-deportations/)
 * [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
 * [Trump Reveals Scott Bessent As Pick For Treasury Secretary](https://www.conservativedailynews.com/2024/11/trump-reveals-scott-bessent-as-pick-for-treasury-secretary/)
 * [Chinese Agents Can Now Access Every American’s Phone Calls And Texts, GOP Senator Warns](https://www.conservativedailynews.com/2024/11/chinese-agents-can-now-access-every-americans-phone-calls-and-texts-gop-senator-warns/)
-* [Who Would Be Surprised To Learn That Patrons Of The Radical, Political Left Would Behave Like Patrons Of The Radical, Political Left?](https://www.conservativedailynews.com/2024/11/who-would-be-surprised-to-learn-that-patrons-of-the-radical-political-left-would-behave-like-patrons-of-the-radical-political-left/)
-* [May The Spirit Of Laken Riley Shed Light On A Broken Judicial System](https://www.conservativedailynews.com/2024/11/may-the-spirit-of-laken-riley-shed-light-on-a-broken-judicial-system/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,21 +115,45 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![Bidenomics thanksgiving Joe Biden](https://www.conservativedailynews.com/wp-content/uploads/2023/11/image-37-220x150.png)](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
+    
+    [Thanksgiving Food Costs Still Gobble Up More Of Americans’ Paychecks Than Any Time Under Trump](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
+    
+    November 24, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5814-220x150.png)](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
     
     [Importing Poverty Is No Ticket To Prosperity](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
     
     November 23, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Transgender-threatens-violence-on-Christians-Conservatives-220x150.jpg)](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
-    
-    [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
-    
-    November 22, 2024
-    
 
 Recent Posts
 
+* [![Joe Biden warmonger](https://www.conservativedailynews.com/wp-content/uploads/2023/01/stg012923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/the-west-is-playing-with-fire-in-ukraine/)
+    
+    [The West Is Playing With Fire In Ukraine](https://www.conservativedailynews.com/2024/11/the-west-is-playing-with-fire-in-ukraine/)
+    
+    November 24, 2024
+    
+* [![Bidenomics thanksgiving Joe Biden](https://www.conservativedailynews.com/wp-content/uploads/2023/11/image-37-220x150.png)](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
+    
+    [Thanksgiving Food Costs Still Gobble Up More Of Americans’ Paychecks Than Any Time Under Trump](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
+    
+    November 24, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv112424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/fail/)
+    
+    [Fail](https://www.conservativedailynews.com/2024/11/fail/)
+    
+    November 24, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/pure-evil-4/)
+    
+    [Pure Evil](https://www.conservativedailynews.com/2024/11/pure-evil-4/)
+    
+    November 24, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/04-hegseth-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/homeboys/)
     
     [Homeboys](https://www.conservativedailynews.com/2024/11/homeboys/)
@@ -153,30 +177,6 @@ Recent Posts
     [Trump Caps Off The Week With Major Cabinet Picks](https://www.conservativedailynews.com/2024/11/trump-caps-off-the-week-with-major-cabinet-picks/)
     
     November 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/1280px-Vice_President_Joe_Biden_greets_Russian_Prime_Minister_Vladimir_Putin-220x150.jpg)](https://www.conservativedailynews.com/2024/11/us-intelligence-issues-warning-to-defense-industries-about-russian-threats/)
-    
-    [US Intelligence Issues Warning To Defense Industries About Russian Threats](https://www.conservativedailynews.com/2024/11/us-intelligence-issues-warning-to-defense-industries-about-russian-threats/)
-    
-    November 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/03/ICE-arrests-illegal-aliens-at-cockfight.png)](https://www.conservativedailynews.com/2024/11/mexican-president-says-shes-prepared-to-handle-trumps-mass-deportations/)
-    
-    [Mexican President Says She’s Prepared To Handle Trump’s Mass Deportations](https://www.conservativedailynews.com/2024/11/mexican-president-says-shes-prepared-to-handle-trumps-mass-deportations/)
-    
-    November 23, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Transgender-threatens-violence-on-Christians-Conservatives-220x150.jpg)](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
-    
-    [Transgender Activist Says Trying To Stop Men From Using Women’s Restrooms Will Be ‘Last Mistake You Ever Make’](https://www.conservativedailynews.com/2024/11/transgender-activist-says-trying-to-stop-men-from-using-womens-restrooms-will-be-last-mistake-you-ever-make/)
-    
-    November 22, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/Department-of-the-Treasury.jpg)](https://www.conservativedailynews.com/2024/11/trump-reveals-scott-bessent-as-pick-for-treasury-secretary/)
-    
-    [Trump Reveals Scott Bessent As Pick For Treasury Secretary](https://www.conservativedailynews.com/2024/11/trump-reveals-scott-bessent-as-pick-for-treasury-secretary/)
-    
-    November 22, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
