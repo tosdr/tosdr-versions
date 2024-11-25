@@ -248,6 +248,7 @@ App Guide
     * [Metrics API Occurrence Query Examples](https://docs.rollbar.com/docs/metrics-api-query-examples)
     * [Deleting items & occurrences](https://docs.rollbar.com/docs/deleting-items-occurrences)
     * [Download items & occurrences](https://docs.rollbar.com/docs/download-items-occurrences)
+    * [Avoiding billing surprises](https://docs.rollbar.com/docs/avoiding-billing-surprises)
 * [Guides](https://docs.rollbar.com/docs/enable-github-organization-access-for-rollbar)
     * [Enable GitHub Organization Access for Rollbar](https://docs.rollbar.com/docs/enable-github-organization-access-for-rollbar)
     * [Error Grouping Best Practices](https://docs.rollbar.com/docs/error-grouping-best-practices)
