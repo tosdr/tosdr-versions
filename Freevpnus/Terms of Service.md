@@ -7,7 +7,7 @@ Your IP: 159.223.154.84 - Unknown · ISP: Unknown · Your Status: Unknown
     
     [SSH Tunnel](https://freevpn.us/ssh-tunnel/) [SSH Custom](https://freevpn.us/ssh-custom/) [OpenVPN Server](https://freevpn.us/openvpn/) [PPTP & L2TP](https://freevpn.us/pptp/) [WireGuard](https://freevpn.us/wireguard/) [V2Ray New](https://freevpn.us/v2ray/) [V2Ray Serverless Beta](https://freevpn.us/v2ray-vless/)
     
-* [Premium](https://freevpn.us/pages/pricing.html)
+* [Premium 35%OFF](https://freevpn.us/pages/pricing.html)
 * [Community](https://discuss.freevpn.us/)
 
 * [Tools](#)
@@ -113,19 +113,19 @@ FreeVPN.us is dedicated to providing free and fast VPN services to users worldwi
 
 The following is our total achievement so far.
 
-61.089 79 today
+61.150 140 today
 
 User registered
 
-13
+14
 
 Premium User
 
-10.241
+10.183
 
 Active account
 
-1.933.255 373 today
+1.933.517 634 today
 
 Account created
 
