@@ -12,7 +12,7 @@ This website requires JavaScript.
 
 [](https://codeberg.org/Codeberg/org.rss)
 
-Watch [38](https://codeberg.org/Codeberg/org/watchers)
+Watch [39](https://codeberg.org/Codeberg/org/watchers)
 
 Star [61](https://codeberg.org/Codeberg/org/stars)
 
