@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 24, 2024**
+**November 25, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Prehistoric Elks Painted On Rock: Sounds Too](https://www.sciencedaily.com/releases/2024/11/241125125648.htm)
+* [Focaccia: A Neolithic Culinary Tradition](https://www.sciencedaily.com/releases/2024/11/241125125151.htm)
+* [Bats' Amazing Plan B for When They Can't Hear](https://www.sciencedaily.com/releases/2024/11/241125125118.htm)
+* [Stellar Evolution During the Early Universe](https://www.sciencedaily.com/releases/2024/11/241125124843.htm)
+* [Most Energetic Cosmic-Ray Electrons, Positrons](https://www.sciencedaily.com/releases/2024/11/241125124728.htm)
 * [Ancient Hot Water On Mars: Habitable Past?](https://www.sciencedaily.com/releases/2024/11/241122160756.htm)
 * [Listening for Early Signs of Alzheimer's](https://www.sciencedaily.com/releases/2024/11/241120122700.htm)
 * [Finding a Solution to Insecticide Resistance](https://www.sciencedaily.com/releases/2024/11/241122172740.htm)
 * [Earliest Fish-Trapping Facility: Maya Lowlands](https://www.sciencedaily.com/releases/2024/11/241122160753.htm)
 * [Wolves as Pollinators, Feeding On Nectar](https://www.sciencedaily.com/releases/2024/11/241120122020.htm)
-* [Athletes Have Better Working Memory](https://www.sciencedaily.com/releases/2024/11/241120122147.htm)
-* [Pumping Drugs Directly Into the GI Tract](https://www.sciencedaily.com/releases/2024/11/241120121836.htm)
-* [2 Million Mph Galaxy Smash-Up](https://www.sciencedaily.com/releases/2024/11/241121225909.htm)
-* [Previously Unknown Compound in Drinking Water](https://www.sciencedaily.com/releases/2024/11/241121141048.htm)
-* [Detailed RNA Analysis of the Whole Brain](https://www.sciencedaily.com/releases/2024/11/241121141005.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
+[Dementia](https://www.sciencedaily.com/news/mind_brain/dementia/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
+[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
 
-[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
+[Psychology Research](https://www.sciencedaily.com/news/health_medicine/psychology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
 
-[Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
+[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
 
 [Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
+[Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
 
-[Developmental Biology](https://www.sciencedaily.com/news/plants_animals/developmental_biology/)
+[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
-[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
+[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
 
   
 
