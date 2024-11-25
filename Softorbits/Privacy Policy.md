@@ -89,3 +89,5 @@ Create Content Like a Pro, Effortlessly ★ Create Content Like a Pro, Effortles
 [](#top)
 
 ![](//www.softorbits.net/stat/matomo.php?idsite=1&rec=1)
+
+[](https://www.softorbits.net/actions/black-friday.html)[](#)
