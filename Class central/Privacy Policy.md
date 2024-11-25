@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. c
+1. hacking
     
-2. data science
+2. javascript
     
-3. graphic design
+3. project management
     
 
 Popular subjects
 
-1. [Artificial Intelligence
+1. [Graphic Design
     
-    14,014 courses](https://www.classcentral.com/subject/ai)
-2. [Software Development
+    4,355 courses](https://www.classcentral.com/subject/graphic-design)
+2. [Computer Science
     
-    9,930 courses](https://www.classcentral.com/subject/software-development)
+    43,725 courses](https://www.classcentral.com/subject/cs)
 3. [Cybersecurity
     
-    16,866 courses](https://www.classcentral.com/subject/cybersecurity)
+    16,885 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 
-1. [Transforming Digital Learning: Learning Design Meets Service Design
+1. [Max MSP Programming Course: Structuring Interactive Software for Digital Arts
     
-    Deakin University](https://www.classcentral.com/course/digital-learning-12213)
-2. [Matrix Algebra for Engineers
+    Stanford University](https://www.classcentral.com/course/kadenze-max-msp-programming-course-structuring-interactive-software-for-digital-arts-6411)
+2. [Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/matrix-algebra-engineers-11986)
-3. [Anatomy: Know Your Abdomen
+    Harvard University](https://www.classcentral.com/course/neuroscience-harvard-university-fundamentals-of-n-942)
+3. [Psychology of Personal Growth
     
-    University of Leeds](https://www.classcentral.com/course/anatomy-know-your-abdomen-5008)
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
