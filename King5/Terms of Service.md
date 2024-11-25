@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b826a4a1-d432-4042-9e3f-73a9ce2c4320/20241125T130716/b826a4a1-d432-4042-9e3f-73a9ce2c4320_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b826a4a1-d432-4042-9e3f-73a9ce2c4320/20241125T130716/b826a4a1-d432-4042-9e3f-73a9ce2c4320_360x203.jpg)](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
+    *  [![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_360x203.jpg)](https://www.king5.com/article/news/crime/suspected-killing-california-woman-lake-stevens/281-278f251a-be78-4556-9203-2b7e82e8cca9)
         
-        #### [4 Washington State Patrol cars struck by DUI drivers in 4 hours](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
+        #### [DNA leads to arrest in killing of woman in Lake Stevens](https://www.king5.com/article/news/crime/suspected-killing-california-woman-lake-stevens/281-278f251a-be78-4556-9203-2b7e82e8cca9)
         
-    *  [![](https://media.king5.com/assets/KING/images/f7b33c33-f018-4ef8-b70d-4cff174cec44/20241120T155735/f7b33c33-f018-4ef8-b70d-4cff174cec44_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f7b33c33-f018-4ef8-b70d-4cff174cec44/20241120T155735/f7b33c33-f018-4ef8-b70d-4cff174cec44_360x203.jpg)](https://www.king5.com/article/news/local/97-of-puget-sound-energy-customers-have-power-bomb-cyclone/281-2d72b421-b107-4150-a125-459b47193728)
+    *  [![](https://media.king5.com/assets/KING/images/dff04417-8797-4622-83dc-59fe41d54f88/20241118T190539/dff04417-8797-4622-83dc-59fe41d54f88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dff04417-8797-4622-83dc-59fe41d54f88/20241118T190539/dff04417-8797-4622-83dc-59fe41d54f88_360x203.jpg)](https://www.king5.com/article/news/local/washington-cascades-ski-area-opening-dates-2024-25-season/281-e15621a5-e477-4b97-a7b0-be18ae83b85f)
         
-        #### [Power restored to majority of Puget Sound Energy customers days after bomb cyclone](https://www.king5.com/article/news/local/97-of-puget-sound-energy-customers-have-power-bomb-cyclone/281-2d72b421-b107-4150-a125-459b47193728)
+        #### [Stevens Pass announces ski area opening date. Here's when other resorts will open](https://www.king5.com/article/news/local/washington-cascades-ski-area-opening-dates-2024-25-season/281-e15621a5-e477-4b97-a7b0-be18ae83b85f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-44°
+47°
 
-![Showers in the Vicinity](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
