@@ -136,10 +136,6 @@ Resource Library
 * [Webinars](https://www.sectigo.com/resource-library/webinars)
 * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
 
-[Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
-
-* [Learn, test, and implement your path to quantum readiness](https://www.sectigo.com/resource-library/learn-test-and-implement-your-path-to-quantum-readiness)
-
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
 * [Root Causes 441: New White House Initiative Targets BGP](https://www.sectigo.com/resource-library/root-causes-441-new-white-house-initiative-targets-bgp)
@@ -239,8 +235,6 @@ Login
     * [Upcoming Events](https://www.sectigo.com/upcoming-events)
     * [Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
-    * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
-    * [Learn, test, and implement your path to quantum readiness](https://www.sectigo.com/resource-library/learn-test-and-implement-your-path-to-quantum-readiness)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
     * [Root Causes 441: New White House Initiative Targets BGP](https://www.sectigo.com/resource-library/root-causes-441-new-white-house-initiative-targets-bgp)
     * [Root Causes 440: Public Key Directories](https://www.sectigo.com/resource-library/root-causes-440-public-key-directories)
