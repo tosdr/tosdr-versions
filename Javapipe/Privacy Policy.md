@@ -299,7 +299,7 @@ Company
 * ![](/assets/flags/eur.svg)eur
     
 
-Privacy Manager | [Terms & Conditions](https://javapipe.com/terms-of-service) | [Privacy Policy](https://javapipe.com/privacy-policy) | [Company Details](https://javapipe.com/company-details) | [Accessibility Statement](https://javapipe.com/accessibility-statement) | [Registrants Rights & Responsibilities](https://www.icann.org/en/registrars/registrant-rights-responsibilities-en.htm) | [Acceptable Usage Policy](https://javapipe.com/acceptable-usage-policy) | [Referral Program Agreement](https://javapipe.com/referral-program-agreement)
+Privacy Manager | [Terms & Conditions](https://javapipe.com/terms-of-service) | [Privacy Policy](https://javapipe.com/privacy-policy) | [Company Details](https://javapipe.com/company-details) | [Accessibility Statement](https://javapipe.com/accessibility-statement) | [Registrants Rights & Responsibilities](https://www.icann.org/en/registrars/registrant-rights-responsibilities-en.htm) | [Acceptable Usage Policy](https://javapipe.com/acceptable-usage-policy) | [Referral Program Agreement](https://javapipe.com/referral-program-agreement) | [Promo T&C's](https://javapipe.com/promotion-terms-and-conditions)
 
 © 2024 Mochahost. All rights reserved.
 
