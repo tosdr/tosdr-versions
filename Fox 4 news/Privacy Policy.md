@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Motorcyclist dies in Dallas crash Sunday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112424-sh-dpd-major-crash-fx-red-bird-ln_kdfw5ad6__00.05.24.30.jpg?ve=1&tl=1)
+
+ ![Motorcyclist dies in Dallas crash Sunday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112424-sh-dpd-major-crash-fx-red-bird-ln_kdfw5ad6__00.05.24.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/motorcyclist-dies-east-oak-cliff-crash-sunday-morning)
+
+### [Motorcyclist dies in Dallas crash Sunday morning](https://www.fox4news.com/news/motorcyclist-dies-east-oak-cliff-crash-sunday-morning)
+
+ [![Alleged drunk driver leads Sansom Park police on miles-long chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/sansom-park.jpg?ve=1&tl=1)
+
+ ![Alleged drunk driver leads Sansom Park police on miles-long chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/sansom-park.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/alleged-drunk-driver-leads-sansom-park-police-miles-long-chase)
+
+### [Alleged drunk driver leads Sansom Park police on miles-long chase](https://www.fox4news.com/news/alleged-drunk-driver-leads-sansom-park-police-miles-long-chase)
+
  [![Lost penguin’s 2,000-mile journey to Australia ends with return to Southern Ocean](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/penguin-bkgd.jpg?ve=1&tl=1)
 
  ![Lost penguin’s 2,000-mile journey to Australia ends with return to Southern Ocean](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/penguin-bkgd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lost-penguins-2000-mile-journey-australia-ends-return-southern-ocean)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Arlington woman investigates broken window at neighbor's apartment, finds man dead inside, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-apartment-death-center-street)
 
 ### [Arlington woman investigates broken window at neighbor's apartment, finds man dead inside, police say](https://www.fox4news.com/news/arlington-apartment-death-center-street)
-
- [![Texas Democrats say they won't back down from school choice fight | Texas: The Issue Is](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/11/32/18/abbott-talarico.jpg?ve=1&tl=1)
-
- ![Texas Democrats say they won't back down from school choice fight | Texas: The Issue Is](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/11/32/18/592/333/abbott-talarico.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-school-vouchers-choice-fight)
-
-### [Texas Democrats say they won't back down from school choice fight | Texas: The Issue Is](https://www.fox4news.com/news/texas-school-vouchers-choice-fight)
-
- [![Seibert misses an extra point late as the Commanders lose their 3rd in a row, 34-26 to the Cowboys](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2186669625.jpg?ve=1&tl=1)
-
- ![Seibert misses an extra point late as the Commanders lose their 3rd in a row, 34-26 to the Cowboys](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2186669625.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-cowboys-washington-commanders-nov-24-24)
-
-### [Cowboys break 5-game losing streak with wild 34-26 win in Washington](https://www.fox4news.com/sports/dallas-cowboys-washington-commanders-nov-24-24)
 
 ###### [News](https://www.fox4news.com/news)
 
