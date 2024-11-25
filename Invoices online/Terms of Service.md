@@ -196,63 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Kobus Venter
+Shaun Gartshore
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=121358438)  
-AquariumSmiths
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=55261810)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=166922966)  
-Lindani Protection Services & Projects
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=24351878)  
+NIMAWELL
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=14980575)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=100949268)  
+Blue Sky Solar Services
 
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=16756195)  
-Sophia's Roses
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=61892052)  
+Tagline Brands
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=178031365)  
-Bloem Rugby Academy PTY (Ltd)
-
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=100345247)  
-INVOICES/JOBCARDS ONLINE
-
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=205391221)  
-TurboFibre
-
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=39902674)  
-Lion Software Develepment
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=51386492)  
-MSPCloud (Pty) Ltd
-
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=112507250)  
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=64027586)  
 Xpress Designs
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=78697000)  
-MOSELA GROUP Pty(ltd)
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=55858978)  
+Desygn
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=112132375)  
-SA Security Brokerz (Pty) Ltd
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=207726369)  
+MSPCloud (Pty) Ltd
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=153116603)  
-Meyer Towing & Recovery
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=6366948)  
+Hydroworld T/A Milliqua
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=70144035)  
-Imvubu General Trading
+![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=141767183)  
+Protech Marketing
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=df959cce8fb3c8ca8b703c564204457bf3e547ce65b2a36c9f66c98a25f723f3&c=41401766)  
-Van Der Merwe Olieverspreiders
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=163081468)  
+#DiGi3 Marketing & Design
+
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=147835567)  
+Network Grey (Pty) Ltd
+
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=8896446)  
+WIP Digital Solutions
+
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=12634273)  
+VIR Electrical (PTY) LTD
+
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=99805638)  
+Konsortium Operations ( Roamfree Meats )
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=24272ba49b8fc53526df502dddd925954d4d9fbff66ab9c9047d06f9819d0750&c=200546979)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
