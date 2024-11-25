@@ -6,9 +6,11 @@ Accept & Dismiss
 
 [Skip to content](#MainContent)
 
+[BFCM Early Access - LTT Floatplane Subscribers can shop week-long Black Friday deals NOW](https://www.lttstore.com/collections/bfcm-landing)
+
 New orders are expected to ship by
 
-Canadian customers: due to strike action, new orders will not be shipped via Canada Post until further notice. Please avoid the use of PO Boxes during this time. Existing Canada Post shipments may be delayed; we will contact you if any action is required to ensure delivery. Apologies for any inconvenience.
+[Canadian customers: due to strike action, new orders will not be shipped via Canada Post until further notice. Please avoid the use of PO Boxes during this time. Existing Canada Post shipments may be delayed; we will contact you if any action is required to ensure delivery. Apologies for any inconvenience. Learn more.](https://lttstore.gorgias.help/en-US/service-alert-canada-post-strike-964023) [Due to strike action, existing Canada Post shipments may be delayed. Please avoid the use of PO Boxes during this time. Learn more.](https://lttstore.gorgias.help/en-US/service-alert-canada-post-strike-964023)
 
      
 
@@ -62,11 +64,13 @@ Canadian customers: due to strike action, new orders will not be shipped via Can
     
     * [Best Sellers](https://www.lttstore.com/collections/all-products)
     * [Our Favorites](https://www.lttstore.com/collections/top-sellers)
+    * [Black Friday / Cyber Monday](https://www.lttstore.com/collections/bfcm-landing)
     
+* [BFCM](https://www.lttstore.com/collections/bfcm-landing)
 
 Sign in
 
- [* ![](//www.lttstore.com/cdn/shop/t/129/assets/shopify-logo.svg?v=182554083611724108241732250802) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/129/assets/floatplane-logo-notext.svg?v=135174765184720699891732250802) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
+ [* ![](//www.lttstore.com/cdn/shop/t/130/assets/shopify-logo.svg?v=182554083611724108241732308947) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/130/assets/floatplane-logo-notext.svg?v=135174765184720699891732308947) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
 
 [![LTTStore](//www.lttstore.com/cdn/shop/files/LTT_Logo.png?v=1667427218&width=50)](https://www.lttstore.com/)
 
@@ -93,12 +97,17 @@ Sign in
     
     [New Arrivals](https://www.lttstore.com/collections/all-products-1) [Best Sellers](https://www.lttstore.com/collections/all-products) [Our Favorites](https://www.lttstore.com/collections/top-sellers)
     
+    [![Collection Image](//www.lttstore.com/cdn/shop/collections/BFCM_Menu_Thumbnail.jpg?v=1732511965&width=400)
+    
+    Black Friday / Cyber Monday](https://www.lttstore.com/collections/bfcm-landing)
+    
+* [BFCM](https://www.lttstore.com/collections/bfcm-landing)
 
  Search Log in 
 
 Sign in through
 
- [* ![](//www.lttstore.com/cdn/shop/t/129/assets/shopify-logo.svg?v=182554083611724108241732250802) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/129/assets/floatplane-logo-notext.svg?v=135174765184720699891732250802) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
+ [* ![](//www.lttstore.com/cdn/shop/t/130/assets/shopify-logo.svg?v=182554083611724108241732308947) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/130/assets/floatplane-logo-notext.svg?v=135174765184720699891732308947) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
 
 [Cart](https://www.lttstore.com/cart)
 
@@ -163,7 +172,7 @@ Support
 -------
 
 * [Help Center / Contact Us](https://www.lttstore.com/pages/contact-us)
-![linus tech tips logo](//www.lttstore.com/cdn/shop/t/129/assets/ltt-logo.svg?v=133296236752336137041732250802)
+![linus tech tips logo](//www.lttstore.com/cdn/shop/t/130/assets/ltt-logo.svg?v=133296236752336137041732308947)
 
 © LINUS TECH TIPS STORE Powered by Shopify
 
