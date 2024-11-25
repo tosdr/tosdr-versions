@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/principles-of-transformation/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/over-het-goedje-squaline-dat-je-straks-ingespoten-krijgt/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
