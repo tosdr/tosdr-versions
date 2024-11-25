@@ -185,10 +185,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![The Unknowns](https://cdn.returningveterans.org/images/honor/The_Unknowns.jpg)  
+![Mark Eugene Fowler](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of The Unknowns**  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Mark Eugene Fowler**  
+Submitted by Lynn Fowler](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -231,5 +231,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/24/24 - 1:25:19  
+Printed 11/24/24 - 7:16:48  
 © 2024 Returning Veterans Project
