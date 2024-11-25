@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/b826a4a1-d432-4042-9e3f-73a9ce2c4320/20241125T130716/b826a4a1-d432-4042-9e3f-73a9ce2c4320_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b826a4a1-d432-4042-9e3f-73a9ce2c4320/20241125T130716/b826a4a1-d432-4042-9e3f-73a9ce2c4320_360x203.jpg)](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
+        
+        #### [4 Washington State Patrol cars struck by DUI drivers in 4 hours](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
+        
     *  [![](https://media.king5.com/assets/KING/images/f7b33c33-f018-4ef8-b70d-4cff174cec44/20241120T155735/f7b33c33-f018-4ef8-b70d-4cff174cec44_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f7b33c33-f018-4ef8-b70d-4cff174cec44/20241120T155735/f7b33c33-f018-4ef8-b70d-4cff174cec44_360x203.jpg)](https://www.king5.com/article/news/local/97-of-puget-sound-energy-customers-have-power-bomb-cyclone/281-2d72b421-b107-4150-a125-459b47193728)
         
         #### [Power restored to majority of Puget Sound Energy customers days after bomb cyclone](https://www.king5.com/article/news/local/97-of-puget-sound-energy-customers-have-power-bomb-cyclone/281-2d72b421-b107-4150-a125-459b47193728)
-        
-    *  [![](https://media.king5.com/assets/KING/images/fa378781-b504-44e9-b849-18f2028a91f2/20241125T050348/fa378781-b504-44e9-b849-18f2028a91f2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fa378781-b504-44e9-b849-18f2028a91f2/20241125T050348/fa378781-b504-44e9-b849-18f2028a91f2_360x203.jpg)](https://www.king5.com/article/news/local/expect-heavy-traffic-increased-patrols-washington-holiday-travel/281-bb61008b-4d7d-4206-9bd7-c62271efdca3)
-        
-        #### [Expect heavy traffic, increased patrols in Washington as holiday travel ramps up](https://www.king5.com/article/news/local/expect-heavy-traffic-increased-patrols-washington-holiday-travel/281-bb61008b-4d7d-4206-9bd7-c62271efdca3)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-45°
+44°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Showers in the Vicinity](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
