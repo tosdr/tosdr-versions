@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 25, 2024](https://www.japantimes.co.jp/archive/2024/11/25/ "archive page")
+[November 26, 2024](https://www.japantimes.co.jp/archive/2024/11/26/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -468,21 +468,21 @@ Revised June 1, 2022
 
   [![Japan starter Shosei Togo reacts after allowing a three-run home run against Taiwan in the fifth inning of the Premier12 final on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/436056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan starter Shosei Togo reacts after allowing a three-run home run against Taiwan in the fifth inning of the Premier12 final on Sunday.")](https://www.japantimes.co.jp/sports/2024/11/24/baseball/taiwan-beats-japan-premier12-final/ "Taiwan stuns Samurai Japan to capture Premier12 title")
 
+[Japan and U.S. to form missile plan in case of Taiwan emergency](https://www.japantimes.co.jp/news/2024/11/24/japan/japan-us-taiwan-missile-plan/ "Japan and U.S. to form missile plan in case of Taiwan emergency")
+
+  [![A U.S. Marine Corps M142 High Mobility Artillery Rocket System (HIMARS) and a Japanese Ground Self-Defense Force Type 12 Surface-to-Ship Missile (12SSM) system are put on display at a symposium at a base in Kisarazu, Japan, in June 2022. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/436054.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A U.S. Marine Corps M142 High Mobility Artillery Rocket System (HIMARS) and a Japanese Ground Self-Defense Force Type 12 Surface-to-Ship Missile (12SSM) system are put on display at a symposium at a base in Kisarazu, Japan, in June 2022. ")](https://www.japantimes.co.jp/news/2024/11/24/japan/japan-us-taiwan-missile-plan/ "Japan and U.S. to form missile plan in case of Taiwan emergency")
+
+[Preparations for Osaka Expo well underway amid lack of excitement](https://www.japantimes.co.jp/news/2024/11/24/japan/preparations-osaka-expo-under-way/ "Preparations for Osaka Expo well underway amid lack of excitement")
+
+  [![The Grand Ring, a symbol of the 2025 World Exposition in Osaka](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435928.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Grand Ring, a symbol of the 2025 World Exposition in Osaka")](https://www.japantimes.co.jp/news/2024/11/24/japan/preparations-osaka-expo-under-way/ "Preparations for Osaka Expo well underway amid lack of excitement")
+
 [Ishiba shelves proposal for liaison offices with North Korea amid rising tensions](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/ishiba-proposal-liaison-offices/ "Ishiba shelves proposal for liaison offices with North Korea amid rising tensions")
 
   [![Prime Minister Shigeru Ishiba speaks on Saturday in Tokyo at a rally that was held by a group of families of Japanese citizens abducted by North Korea decades ago to demand the immediate return of all abductees.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435944.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks on Saturday in Tokyo at a rally that was held by a group of families of Japanese citizens abducted by North Korea decades ago to demand the immediate return of all abductees.")](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/ishiba-proposal-liaison-offices/ "Ishiba shelves proposal for liaison offices with North Korea amid rising tensions")
 
-[How Japan can exit the fossil fuel subsidies it can’t seem to quit](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
+['Kohaku' still matters for J-pop bragging rights](https://www.japantimes.co.jp/culture/2024/11/24/music/kohaku-uta-gassen-lineup/ "'Kohaku' still matters for J-pop bragging rights")
 
-  [![A man walks past a gasoline station in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435734.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man walks past a gasoline station in Tokyo on Thursday.")](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
-
-[Woman dies after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
-
-  [![A Moka Railway train car](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435894.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Moka Railway train car")](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
-
-[Japan beats Taiwan ahead of rematch in Premier12 final](https://www.japantimes.co.jp/sports/2024/11/23/baseball/japan-beats-taiwan-super-round/ "Japan beats Taiwan ahead of rematch in Premier12 final")
-
-  [![Keita Sano celebrates with his teammates after scoring on Kotaro Kiyomiya's two-run triple against Taiwan during their Premier12 game at Tokyo Dome on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435901.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Keita Sano celebrates with his teammates after scoring on Kotaro Kiyomiya's two-run triple against Taiwan during their Premier12 game at Tokyo Dome on Saturday.")](https://www.japantimes.co.jp/sports/2024/11/23/baseball/japan-beats-taiwan-super-round/ "Japan beats Taiwan ahead of rematch in Premier12 final")
+  [![Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435735.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.")](https://www.japantimes.co.jp/culture/2024/11/24/music/kohaku-uta-gassen-lineup/ "'Kohaku' still matters for J-pop bragging rights")
 
 [How Japan can exit the fossil fuel subsidies it can’t seem to quit](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
 
@@ -501,10 +501,6 @@ Revised June 1, 2022
 [133-year-old Kyushu railway station remains to be partially preserved](https://www.japantimes.co.jp/news/2024/11/22/japan/society/kitakyushu-remains-preservation/ "133-year-old Kyushu railway station remains to be partially preserved")
 
   [![The remains of the original Moji Station in Kitakyushu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435643.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The remains of the original Moji Station in Kitakyushu")](https://www.japantimes.co.jp/news/2024/11/22/japan/society/kitakyushu-remains-preservation/ "133-year-old Kyushu railway station remains to be partially preserved")
-
-[After Shohei Ohtani bump, Iwate ironware maker sees brighter future](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
-
-  [![Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435319.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.")](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
 
 Podcast
 -------
@@ -525,9 +521,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,25 +563,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Japan and Italy to share fuel and ammo under new logistics deal](https://www.japantimes.co.jp/news/2024/11/25/japan/japan-italy-acsa/ "Japan and Italy to share fuel and ammo under new logistics deal")
+
+3 hours ago
+
+[Mercari to enhance item verification process to check frauds](https://www.japantimes.co.jp/business/2024/11/25/companies/mercari-frauds-verification-process/ "Mercari to enhance item verification process to check frauds")
+
+4 hours ago
+
+[Yamanashi Prefecture plans to raise entry fee for Mount Fuji climbers](https://www.japantimes.co.jp/news/2024/11/25/japan/mount-fuji-yamanashi-fee-increase/ "Yamanashi Prefecture plans to raise entry fee for Mount Fuji climbers")
+
+4 hours ago
+
+[Osaka court upholds 18-year sentence for murder of ALS patient](https://www.japantimes.co.jp/news/2024/11/25/japan/crime-legal/als-patient-murder-trial/ "Osaka court upholds 18-year sentence for murder of ALS patient")
+
+6 hours ago
+
 [93-year-old inmate imprisoned over fatal Tokyo car crash dies](https://www.japantimes.co.jp/news/2024/11/25/japan/crime-legal/ikebukuro-car-crash-inmate-dies/ "93-year-old inmate imprisoned over fatal Tokyo car crash dies")
 
-22 mins ago
-
-[Nomura, Daiwa and other advisers win coveted Seven & I buyout roles](https://www.japantimes.co.jp/business/2024/11/25/companies/seven-i-deal-financial-advisers/ "Nomura, Daiwa and other advisers win coveted Seven & I buyout roles")
-
-36 mins ago
-
-[Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
-
-1 hour ago
-
-[How Reiwa Shinsengumi managed to overtake JCP in the Lower House](https://www.japantimes.co.jp/news/2024/11/25/japan/politics/reiwa-shinsengumi-jcp-election/ "How Reiwa Shinsengumi managed to overtake JCP in the Lower House")
-
-2 hours ago
-
-[Startup transplants pig kidney into monkey for first time in Japan](https://www.japantimes.co.jp/news/2024/11/25/japan/science-health/startup-transplants-pig-kidney-monkey/ "Startup transplants pig kidney into monkey for first time in Japan")
-
-2 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
