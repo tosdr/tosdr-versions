@@ -229,9 +229,9 @@ Copyright © Ledger SAS. All rights reserved. Ledger, Ledger Stax, Ledger Nano S
   
 106 rue du Temple, 75003 Paris, France
 
-Payment methods  
-![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-paypal-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-crypto-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-bitpay-s.png)  
-![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/layer1.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-visa-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-maestro-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-mastercard-s.png) ![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/footer/logo-cb-s.png)
+Payment methods
+
+![](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/payment-methods-logos.webp)
 
 * Products
     * [Hardware Wallet](https://shop.ledger.com/pages/hardware-wallet)
