@@ -327,7 +327,6 @@ Breakout:Â Banyan Tree Escape in Buahan](https://static.ffx.io/images/$zoom_0.
 
 ### [No walls, no doors – is this the future of luxury travel?](https://www.afr.com/life-and-luxury/travel/no-walls-no-doors-is-this-the-future-of-luxury-travel-20241118-p5krmq)
 
-* 55 mins ago
 * Ute Junker
 
 * ### [More classic muscle car than tech warrior](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/more-classic-muscle-car-than-tech-warrior-20241105-p5knxo)
