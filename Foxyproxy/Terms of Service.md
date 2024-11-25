@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I did a new 6-month subscription with FoxyProxy this week, Still luv FoxyProxy!
+My phone battery died in mid-sentence, but not before I was able to express my gratitude for your patient assistance and my glee at having FoxyProxy back.
 
-Tim Relf
+Dan Revell
