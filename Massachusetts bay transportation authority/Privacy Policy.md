@@ -1,32 +1,32 @@
 [Skip to main content](#main)
 
-green line
+Green Line
 
-green line B
+Green Line B
 
-green line C
+Green Line C
 
-green line D
+Green Line D
 
-green line E
+Green Line E
 
-mattapan line
+Mattapan Line
 
-red line
+Red Line
 
 blue line
 
-orange line
+Orange Line
 
 subway
 
-commuter rail
+Commuter Rail
 
-bus
+Bus
 
-ferry
+Ferry
 
-silver line
+Silver Line
 
 trolley
 
