@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Modern Marvels: Carbon](/wp-content/thumbnails/3623-100x70.jpg?x53432)
+* [![The Betrayed](/wp-content/thumbnails/187-100x70.png?x53432)
     
-    Modern Marvels: Carbon
+    The Betrayed
     
-    All life forms, including us, are built upon atoms of carbon. But modern technology is also built on a foundation of carbon.Modern Marvels: Carbon explores how such a simple element burns hotter,](https://documentaryheaven.com/modern-marvels-carbon/ "Modern Marvels: Carbon")
-* [![The Secret World of Pain](/wp-content/thumbnails/4988-100x70.jpg?x53432)
+    Fergal Keane investigates how a terrible slaughter, three quarters of a century ago, has returned to haunt the relationship between Turkey and its western allies. For decades the Armenian people have](https://documentaryheaven.com/the-betrayed/ "The Betrayed")
+* [![Hearts and Minds](/wp-content/thumbnails/1525-100x70.jpg?x53432)
     
-    The Secret World of Pain
+    Hearts and Minds
     
-    Horizon reveals the latest research into one of the most mysterious and common human experiences – pain.Breakthroughs have come from studying a remarkable woman in London who has felt no pain at all](https://documentaryheaven.com/the-secret-world-of-pain/ "The Secret World of Pain")
-* [![The First World War](/wp-content/thumbnails/6172-100x70.jpg?x53432)
+    This film recounts the history and attitudes of the opposing sides of the Vietnam War using archival news footage as well as their own film and interviews. Using a wealth of sources-from interviews to](https://documentaryheaven.com/hearts-and-minds/ "Hearts and Minds")
+* [![Robot Revolution: Will Machines Surpass Humans](/wp-content/thumbnails/8132-100x70.png?x53432)
     
-    The First World War
+    Robot Revolution: Will Machines Surpass Humans
     
-    Although the First World War gets less attention than its successor, it was really the watershed event of the 20th century. This conflict shaped the world that came after to this day. It was the catal](https://documentaryheaven.com/the-first-world-war/ "The First World War")
-* [![Machines Of Ancient China](/wp-content/thumbnails/14239-100x70.jpg?x53432)
+    The NHK documentary, "Robot Revolution : Will Machines surpass humans" features Honda ASIMO, Hubo, Big Dog from Boston Dynamics, Baxter from Rethink Robotics, Nextage and other humanoid robots. Since](https://documentaryheaven.com/robot-revolution-will-machines-surpass-humans/ "Robot Revolution: Will Machines Surpass Humans")
+* [![How the KKK Preys on American Veterans](/wp-content/thumbnails/9469-100x70.jpg?x53432)
     
-    Machines Of Ancient China
+    How the KKK Preys on American Veterans
     
-    While Europe endured the so called Dark Ages, Ancient China reigned supreme as the worlds technological superpower, it is only now that we are discovering that many of the inventions that shape our mo](https://documentaryheaven.com/machines-ancient-china/ "Machines Of Ancient China")
-* [![Memory of the Camps](/wp-content/thumbnails/2115-100x70.jpg?x53432)
+    In this VICE special reporter Rocco Castoro travels down to the Mississippi in order to get a feel for why the Ku Klux Klan has recently been experiencing an increase in new memberships. The general c](https://documentaryheaven.com/how-kkk-preys-on-american-veterans/ "How the KKK Preys on American Veterans")
+* [![Apple’s Broken Promises](/wp-content/thumbnails/9465-100x70.jpg?x53432)
     
-    Memory of the Camps
+    Apple’s Broken Promises
     
-    Sixty years ago, in the spring of 1945, Allied forces liberating Europe found evidence of atrocities which have tortured the world’s conscience ever since. As the troops entered the German concentrati](https://documentaryheaven.com/memory-of-the-camps/ "Memory of the Camps")
+    In this Panorama special the truth about Apple and your iPhone is revealed, for the first time secret filming from inside the high security Chinese factories where Apples products are made show the re](https://documentaryheaven.com/apples-broken-promises/ "Apple’s Broken Promises")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
