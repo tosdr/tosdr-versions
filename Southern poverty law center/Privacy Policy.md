@@ -253,16 +253,6 @@ We respect your privacy. We will only use information you provide to transmit yo
 
 This Privacy Policy and Terms and Conditions is strictly limited to these Programs and has no effect on any other privacy policy(ies) that may govern the relationship between you and us in other contexts.
 
-![Together We Fight](https://www.splcenter.org/sites/default/files/twf_banner_2.png "Together We Fight")
-
-Together We Fight
-
-Close donation prompt
-
-Now, more than ever, we must work together to protect the values that ensure a fair and inclusive future for all.
-
-[Please consider supporting the Together We Fight campaign with a generous donation today to power this work.](https://secure.splcenter.org/page/75692/donate/1)
-
 ![](https://d21y75miwcfqoq.cloudfront.net/718da443)
 
 * [Home](https://www.splcenter.org/)
