@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![19 Facts About Illinois ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2289%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/us-states/19-facts-about-illinois/)
+[![27 Facts About Erosion Control ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/27-facts-about-erosion-control/)
 
-US States
+Earth Sciences
 
-24 Nov 2024
+25 Nov 2024
 
-[19 Facts About Illinois](https://facts.net/world/us-states/19-facts-about-illinois/)
+[27 Facts About Erosion Control](https://facts.net/earth-and-life-science/earth-sciences/27-facts-about-erosion-control/)
 
-[![35 Facts About Shirley Chisholm ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-shirley-chisholm/)
+[![35 Facts About John Titor ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-john-titor/)
 
 People
 
-24 Nov 2024
+25 Nov 2024
 
-[35 Facts About Shirley Chisholm](https://facts.net/history/people/35-facts-about-shirley-chisholm/)
+[35 Facts About John Titor](https://facts.net/history/people/35-facts-about-john-titor/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
