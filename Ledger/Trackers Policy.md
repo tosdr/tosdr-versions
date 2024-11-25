@@ -322,7 +322,7 @@ Crypto Assets
 
 Crypto services
 
-[Crypto prices](https://www.ledger.com/coin/price)[Buying crypto](https://www.ledger.com/buy)[Staking crypto](https://www.ledger.com/staking)[Swaping crypto](https://www.ledger.com/swap)
+[Crypto prices](https://www.ledger.com/coin/price)[Buying crypto](https://www.ledger.com/buy)[Staking crypto](https://www.ledger.com/staking)[Swapping crypto](https://www.ledger.com/swap)
 
 For Business
 
@@ -384,7 +384,7 @@ Crypto services
 * [Crypto prices](https://www.ledger.com/coin/price)
 * [Buying crypto](https://www.ledger.com/buy)
 * [Staking crypto](https://www.ledger.com/staking)
-* [Swaping crypto](https://www.ledger.com/swap)
+* [Swapping crypto](https://www.ledger.com/swap)
 
 For Business
 
