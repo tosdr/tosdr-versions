@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![В Москве при поддержке «Единой России» пройдёт ХI Международный фестиваль школьного спорта среди государств – участников Содружества Независимых Государств](https://cdn.er.ru/media/news/November2024/LtoGS2LlHhoXbzFWzo8e-small.jpg)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-projdyot-hi-mezhdunarodnyj-festival-shkolnogo-sporta-sredi-gosudarstv-uchastnikov-sodruzhestva-nezavisimyh-gosudarstv)
+
+[В Москве при поддержке «Единой России» пройдёт ХI Международный фестиваль школьного спорта среди государств – участников Содружества Независимых Государств](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-projdyot-hi-mezhdunarodnyj-festival-shkolnogo-sporta-sredi-gosudarstv-uchastnikov-sodruzhestva-nezavisimyh-gosudarstv)
+
+[#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ДетскийСпорт](https://er.ru/activity/news?tags%5B0%5D=1091126) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#СНГ](https://er.ru/activity/news?tags%5B0%5D=747) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#состязания](https://er.ru/activity/news?tags%5B0%5D=39929) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671)
+
+Сегодня 12:41
+
+[![«Единая Россия» дала старт Всероссийскому конкурсу поддержки гражданских инициатив](https://cdn.er.ru/media/news/November2024/RYpbNwJ0WBZIYnLAapHz-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-vserossijskomu-konkursu-podderzhki-grazhdanskih-iniciativ)
+
+[«Единая Россия» дала старт Всероссийскому конкурсу поддержки гражданских инициатив](https://er.ru/activity/news/edinaya-rossiya-dala-start-vserossijskomu-konkursu-podderzhki-grazhdanskih-iniciativ)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#гражданскиеинициативы](https://er.ru/activity/news?tags%5B0%5D=121730) [#гранты](https://er.ru/activity/news?tags%5B0%5D=5438)
+
+Сегодня 08:30
+
 [![Владимир Якушев: Материнство – тяжёлый труд и самая высокая награда](https://cdn.er.ru/media/news/November2024/WXiM9kZSlaJFFkUDUk7D-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-materinstvo-tyazhyolyj-trud-i-samaya-vysokaya-nagrada)
 
 [Владимир Якушев: Материнство – тяжёлый труд и самая высокая награда](https://er.ru/activity/news/vladimir-yakushev-materinstvo-tyazhyolyj-trud-i-samaya-vysokaya-nagrada)
@@ -328,22 +344,6 @@
 [Андрей Климов: Авторитет «Единой России» на международной арене растёт](https://er.ru/activity/news/andrej-klimov-avtoritet-edinoj-rossii-na-mezhdunarodnoj-arene-rastyot)
 
 [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#Камбоджа](https://er.ru/activity/news?tags%5B0%5D=70061) [#МКАПП](https://er.ru/activity/news?tags%5B0%5D=77053) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
-
-23.11.24
-
-[![Губернатор Роман Бусаргин стал секретарём Саратовского отделения «Единой России»](https://cdn.er.ru/media/news/November2024/VR9M8uriZhlrnkUS2Pm9-small.jpeg)](https://er.ru/activity/news/gubernator-roman-busargin-stal-sekretaryom-saratovskogo-otdeleniya-edinoj-rossii)
-
-[Губернатор Роман Бусаргин стал секретарём Саратовского отделения «Единой России»](https://er.ru/activity/news/gubernator-roman-busargin-stal-sekretaryom-saratovskogo-otdeleniya-edinoj-rossii)
-
-[#Бусаргин](https://er.ru/activity/news?tags%5B0%5D=105265) [#Саратовская область](https://er.ru/activity/news?tags%5B0%5D=788) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#региональнаяконференцияер](https://er.ru/activity/news?tags%5B0%5D=127428) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314)
-
-23.11.24
-
-[![«Единая Россия» поможет выработать комплекс мер по поддержке жителей приграничных и новых регионов в сфере труда и занятости](https://cdn.er.ru/media/news/November2024/tsEtcFBt61pO4felPsts-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-pomozhet-vyrabotat-kompleks-mer-po-podderzhke-zhitelej-prigranichnyh-i-novyh-regionov-v-sfere-truda-i-zanyatosti)
-
-[«Единая Россия» поможет выработать комплекс мер по поддержке жителей приграничных и новых регионов в сфере труда и занятости](https://er.ru/activity/news/edinaya-rossiya-pomozhet-vyrabotat-kompleks-mer-po-podderzhke-zhitelej-prigranichnyh-i-novyh-regionov-v-sfere-truda-i-zanyatosti)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#занятость](https://er.ru/activity/news?tags%5B0%5D=1799) [#поддержкаграждан](https://er.ru/activity/news?tags%5B0%5D=149237)
 
 23.11.24
 
