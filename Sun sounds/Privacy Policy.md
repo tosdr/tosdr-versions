@@ -374,6 +374,6 @@ Drop us an email on
 * [](https://www.tripadvisor.com.sg/Attraction_Review-g190327-d10783554-Reviews-Sun_Sounds-Sliema_Island_of_Malta.html)
 * [](https://twitter.com/sunsoundsmalta)
 
-© 2014-2024 by Sun-Sounds. Designed by Sun-Sounds
+© 2014-2025 by Sun-Sounds. Designed by Sun-Sounds
 
 bottom of page
