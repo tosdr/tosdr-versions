@@ -1,4 +1,4 @@
-                   [Skip to content](#MainContent)
+                               [Skip to content](#MainContent)
 
 [](https://www.perfectsleepchair.com/collections/black-friday-deals)
 
@@ -375,7 +375,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 16 people voted yesNo, this review was not helpful 2 people voted no
+    Yes, this review was helpful 17 people voted yesNo, this review was not helpful 2 people voted no
     
 * **Thom H.**
     
@@ -427,7 +427,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 13 people voted yesNo, this review was not helpful 1 person voted no
+    Yes, this review was helpful 14 people voted yesNo, this review was not helpful 1 person voted no
     
     **JH** 
     
@@ -474,7 +474,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 29 people voted yesNo, this review was not helpful 18 people voted no
+    Yes, this review was helpful 31 people voted yesNo, this review was not helpful 18 people voted no
     
 * **Dale E. W.**
     
@@ -504,7 +504,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 47 people voted yesNo, this review was not helpful 8 people voted no
+    Yes, this review was helpful 48 people voted yesNo, this review was not helpful 8 people voted no
     
     **JH** 
     
