@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**Why millions of adults with ADHD struggle to get treatment** | PBS News Hour](https://video.nhpbs.org/video/adhd-1732479761?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Seasons 1-4 Recap** | All Creatures Great and Small](https://video.nhpbs.org/video/seasons-1-4-recap-bbgm4c?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**News Wrap: Dozens wounded in strikes by Israel and Hezbollah** | PBS News Hour](https://video.nhpbs.org/video/news-wrap-1732481122?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Science of Mars' Retrograde December 2 - December 8** | Star Gazers](https://video.nhpbs.org/video/science-of-mars-retrograde-december-2-december-8-2rs7eu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**full episode, 11/22/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-112224-xifbvq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Brenda Lee's career started when she was just 8 years old** | American Masters](https://video.nhpbs.org/video/brenda-lees-career-started-when-she-was-just-8-years-old-zovyyx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Hard Pasts, Clear Futures** | The Whitney Reynolds Show](https://video.nhpbs.org/video/hard-pasts-clear-futures-tm09sf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**After Gaetz, Senate scrutiny moves to Trump's other picks** | Washington Week with The Atlantic](https://video.nhpbs.org/video/clip1-rvidij?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Brenda Lee had a fully formed career before even signing a contract** | American Masters](https://video.nhpbs.org/video/brenda-lee-had-a-fully-formed-career-before-even-signing-a-contract-ngi7jd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Savory Ham, Cheese and Spinach Bread Pudding Kitchen Recipe** | The Key Ingredient](https://video.nhpbs.org/video/savory-ham-cheese-and-spinach-bread-pudding-kitchen-recipe-lfczef?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Black Friday** | The State We're In](https://video.nhpbs.org/video/black-friday-leyrci?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**What Happened to America's First Megacity?** | Overview](https://video.nhpbs.org/video/what-happened-to-americas-first-megacity-yemsv8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Valley Ventures Paths Across Silicon Valley** | Roadtrip Nation](https://video.nhpbs.org/video/valley-ventures-paths-across-silicon-valley-gf9mbw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Trans Rights; Women in Government** | To The Contrary](https://video.nhpbs.org/video/trans-rights-women-in-government-jwm1mw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
