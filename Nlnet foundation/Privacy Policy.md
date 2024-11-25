@@ -18,6 +18,7 @@ Menu
     * [News](https://nlnet.nl/news/)
     * [Events](https://nlnet.nl/events/)
     * [Webinars](https://nlnet.nl/webinars/)
+    * [Podcast](https://podcast.nlnet.nl/@NGIZero)
     * [NGI Zero Tour Schedule](https://nlnet.nl/tour-schedule/)
     * [Speaker bureau](https://nlnet.nl/speakerbureau/)
 * [Resources](#)
