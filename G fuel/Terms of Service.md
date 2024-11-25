@@ -1,5 +1,5 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                     
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                            
 
 [Skip to content](#MainContent)  
 
@@ -105,7 +105,7 @@ Close menu
 * [Discord](https://discord.gg/DFKfA5PjDp "G FUEL on Discord")
 * [Twitch](https://www.twitch.tv/gfuelenergy "G FUEL on Twitch")
 
-  [![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_150x.png?v=1731432585) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_130x.png?v=1731432585)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_150x.png?v=1731432585) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_130x.png?v=1731432585)](https://gfuel.com/)
+  [![G FUEL](//gfuel.com/cdn/shop/files/GFL-TubAThonLogo-Blue_150x.png?v=1732298213) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-TubAThonLogo-Blue_130x.png?v=1732298213)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-TubAThonLogo-Blue_150x.png?v=1732298213) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-TubAThonLogo-Blue_130x.png?v=1732298213)](https://gfuel.com/)
 
   Search  "Close (esc)"
 
@@ -210,7 +210,7 @@ View more
 
 Pause slideshow Play slideshow
 
-[30% off ore Gamer collection ends soon d h m s](https://gfuel.com/collections/video-game)
+[Celebrate, Sip & SaveShop the BOGO Tub-a-Thon!](https://gfuel.com/pages/bogo)
 
 [Earn 2XP for every $1 spent this Holiday Season!Join the Rewards Program](https://gfuel.com/pages/rewards)
 
@@ -375,7 +375,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/622/assets/app-store-badge.svg?v=123926581890561309811732300828)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/622/assets/google-play-badge.png?v=132395384020293405351732300828)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/625/assets/app-store-badge.svg?v=123926581890561309811732303954)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/625/assets/google-play-badge.png?v=132395384020293405351732303954)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -395,7 +395,7 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 5.0 out of 5 stars
 
-1 Review
+2 Reviews
 
 5.0
 
@@ -407,7 +407,7 @@ Rated 5.0 out of 5 stars
 
 Rated 4.7 out of 5 stars
 
-2,077 Reviews
+2,079 Reviews
 
 4.4
 
