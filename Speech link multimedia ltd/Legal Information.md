@@ -147,9 +147,11 @@ Our speech and language courses will give your staff the skills they need to imp
 
 [Read more](https://speechandlanguage.info/whole-school-approach/secondary-language-link/)
 
-### New Podcasts Coming Soon
+### Episode 1 of our new podcast is here!
 
-Our new "Talk Aways: The Teacher Talk Podcast" is launching soon. Featuring our therapists Juliet and Alison, they're all about using day to day classroom activities to support language development. Be the first to hear about new episodes and get priority access as a member of The Link Community.
+Episode 1 of our new Talk Aways podcast, "Learning Vocabulary" is now available! Featuring our therapists Juliet and Alison, Talk Aways are all about using day to day classroom activities to support language development. Be the first to hear about new episodes and get priority access as a member of The Link Community.  
+  
+[Talk Aways Episode 1 - Learning Vocabulary](https://speechandlanguage.info/the-link-community/talkaways-podcast/)
 
 [Join The Link Community today](https://speechandlanguage.info/the-link-community/)
 
