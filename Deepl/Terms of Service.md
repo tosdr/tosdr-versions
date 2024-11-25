@@ -32,6 +32,7 @@ English
 * [DeepL Pro](https://www.deepl.com/en/pro?cta=footer-pro)
 * [Translation API](https://www.deepl.com/en/pro-api)
 * [DeepL Write](https://www.deepl.com/en/write)
+* [DeepL Voice](https://www.deepl.com/en/products/voice)
 * [Apps](https://www.deepl.com/en/app)
 * [Document Translation](https://www.deepl.com/en/features/document-translation)
 
