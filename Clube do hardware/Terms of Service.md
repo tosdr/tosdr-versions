@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_227954274_menu)
+ [Compartilhar](#elShareItem_1694230781_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -311,7 +311,7 @@ As regras do Clube do Hardware poderão ser atualizadas periodicamente, sem avis
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_650680930_menu)
+ [Compartilhar](#elShareItem_1917026474_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -356,102 +356,102 @@ Mais opções...
     
     * [![João7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256334.thumb.png.ed84fb0cc6bf2931be46813e04df51de.png)](https://www.clubedohardware.com.br/profile/1256334-jo%C3%A3o7/ "Ir ao perfil de João7")
         
-        0
+        1
         
-        [Vale a pena pegar um rx6750xt founders edition?](https://www.clubedohardware.com.br/forums/topic/1703314-vale-a-pena-pegar-um-rx6750xt-founders-edition/?do=getNewComment "Vale a pena pegar um rx6750xt founders edition?")
+        [Rx6750xt 12gb ou 4060ti 8gb qual é a melhor opção?](https://www.clubedohardware.com.br/forums/topic/1703352-rx6750xt-12gb-ou-4060ti-8gb-qual-%C3%A9-a-melhor-op%C3%A7%C3%A3o/?do=getNewComment "Rx6750xt 12gb ou 4060ti 8gb qual é a melhor opção?")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
         Por [João7](https://www.clubedohardware.com.br/profile/1256334-jo%C3%A3o7/ "Ir ao perfil de João7")  
-        6 minutos atrás
+        17 minutos atrás
         
-    * [![Anthony_20](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256720.thumb.png.58be3e977b0ed4b35a3d2b47affda72f.png)](https://www.clubedohardware.com.br/profile/1256720-anthony_20/ "Ir ao perfil de Anthony_20")
-        
-        0
-        
-        [Computador liga, processador esquenta, mas não da Vídeo](https://www.clubedohardware.com.br/forums/topic/1703313-computador-liga-processador-esquenta-mas-n%C3%A3o-da-v%C3%ADdeo/?do=getNewComment "Computador liga, processador esquenta, mas não da Vídeo")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Anthony\_20](https://www.clubedohardware.com.br/profile/1256720-anthony_20/ "Ir ao perfil de Anthony_20")  
-        10 minutos atrás
-        
-    * [![Gustavo emesson](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256718.thumb.jpeg.4582f3246b7bc81f1fa3b1e05c976f1b.jpeg)](https://www.clubedohardware.com.br/profile/1256718-gustavo-emesson/ "Ir ao perfil de Gustavo emesson")
+    * [![YanVasco](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1252286.thumb.jpeg.69c87b5e942330663631199de0492725.jpeg)](https://www.clubedohardware.com.br/profile/1252286-yanvasco/ "Ir ao perfil de YanVasco")
         
         1
         
-        [Posso fazer a troca desse processador?](https://www.clubedohardware.com.br/forums/topic/1703312-posso-fazer-a-troca-desse-processador/?do=getNewComment "Posso fazer a troca desse processador?")
+        [Sugestão de montagem de pc para jogos até R$ 5000,00](https://www.clubedohardware.com.br/forums/topic/1703351-sugest%C3%A3o-de-montagem-de-pc-para-jogos-at%C3%A9-r-500000/?do=getNewComment "Sugestão de montagem de pc para jogos até R$ 5000,00")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Gustavo emesson](https://www.clubedohardware.com.br/profile/1256718-gustavo-emesson/ "Ir ao perfil de Gustavo emesson")  
-        24 minutos atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [YanVasco](https://www.clubedohardware.com.br/profile/1252286-yanvasco/ "Ir ao perfil de YanVasco")  
+        27 minutos atrás
         
-    * [![Vinicius Moraes Antonio](https://www.clubedohardware.com.br/uploads/members/monthly_2021_04/foto.thumb.jpg.50602045a55565dad7793ed826f32315.jpg)](https://www.clubedohardware.com.br/profile/1127170-vinicius-moraes-antonio/ "Ir ao perfil de Vinicius Moraes Antonio")
-        
-        0
-        
-        [Televisão Samsung modelo UN405103AG fica passando as cores VERDE, VERMELHO, AZU](https://www.clubedohardware.com.br/forums/topic/1703311-televis%C3%A3o-samsung-modelo-un405103ag-fica-passando-as-cores-verde-vermelho-azu/?do=getNewComment "Televisão Samsung modelo UN405103AG fica passando as cores VERDE, VERMELHO, AZU")
-        
-        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
-        Por [Vinicius Moraes Antonio](https://www.clubedohardware.com.br/profile/1127170-vinicius-moraes-antonio/ "Ir ao perfil de Vinicius Moraes Antonio")  
-        42 minutos atrás
-        
-    * [![Henrique_DJ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256715.thumb.png.74ab2fda164af07867254edce6e54c41.png)](https://www.clubedohardware.com.br/profile/1256715-henrique_dj/ "Ir ao perfil de Henrique_DJ")
+    * [![heybest_](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c1c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256748-heybest_/ "Ir ao perfil de heybest_")
         
         0
         
-        [Compra Oculus Meta Quest 3 usado](https://www.clubedohardware.com.br/forums/topic/1703310-compra-oculus-meta-quest-3-usado/?do=getNewComment "Compra Oculus Meta Quest 3 usado")
+        [Fonte de 500w ou 600w](https://www.clubedohardware.com.br/forums/topic/1703350-fonte-de-500w-ou-600w/?do=getNewComment "Fonte de 500w ou 600w")
         
-        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
-        Por [Henrique\_DJ](https://www.clubedohardware.com.br/profile/1256715-henrique_dj/ "Ir ao perfil de Henrique_DJ")  
-        44 minutos atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [heybest\_](https://www.clubedohardware.com.br/profile/1256748-heybest_/ "Ir ao perfil de heybest_")  
+        27 minutos atrás
         
-    * [![Maré Vermelha](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1235126.thumb.jpeg.610d7cba31ad8326dd684f3bff8cbba8.jpeg)](https://www.clubedohardware.com.br/profile/1235126-mar%C3%A9-vermelha/ "Ir ao perfil de Maré Vermelha")
+    * [![YanVasco](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1252286.thumb.jpeg.69c87b5e942330663631199de0492725.jpeg)](https://www.clubedohardware.com.br/profile/1252286-yanvasco/ "Ir ao perfil de YanVasco")
         
         0
         
-        [Como eu escolho um gabinete?](https://www.clubedohardware.com.br/forums/topic/1703309-como-eu-escolho-um-gabinete/?do=getNewComment "Como eu escolho um gabinete?")
+        [Gabinete até uns R$ 300,00](https://www.clubedohardware.com.br/forums/topic/1703349-gabinete-at%C3%A9-uns-r-30000/?do=getNewComment "Gabinete até uns R$ 300,00")
         
         [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Maré Vermelha](https://www.clubedohardware.com.br/profile/1235126-mar%C3%A9-vermelha/ "Ir ao perfil de Maré Vermelha")  
-        48 minutos atrás
+        Por [YanVasco](https://www.clubedohardware.com.br/profile/1252286-yanvasco/ "Ir ao perfil de YanVasco")  
+        31 minutos atrás
         
-    * [![DouglasGomes22](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256714.thumb.jpeg.e3cdb6708af68b4884bc720821d5f0a3.jpeg)](https://www.clubedohardware.com.br/profile/1256714-douglasgomes22/ "Ir ao perfil de DouglasGomes22")
+    * [![alvaro_eduu](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256750.thumb.png.a1da4be14b7d829ed51ce015c200fe30.png)](https://www.clubedohardware.com.br/profile/1256750-alvaro_eduu/ "Ir ao perfil de alvaro_eduu")
+        
+        0
+        
+        [Tela embaçada em ambiente de desenvolvimento](https://www.clubedohardware.com.br/forums/topic/1703348-tela-emba%C3%A7ada-em-ambiente-de-desenvolvimento/?do=getNewComment "Tela embaçada em ambiente de desenvolvimento")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [alvaro\_eduu](https://www.clubedohardware.com.br/profile/1256750-alvaro_eduu/ "Ir ao perfil de alvaro_eduu")  
+        34 minutos atrás
+        
+    * [![Gustavo11](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256747.thumb.png.9b63c4655db6c25075d1ff3b0ed5d932.png)](https://www.clubedohardware.com.br/profile/1256747-gustavo11/ "Ir ao perfil de Gustavo11")
         
         1
         
-        [placa-mãe Maxsun b650m wifi congelando no menu BIOS](https://www.clubedohardware.com.br/forums/topic/1703308-placa-m%C3%A3e-maxsun-b650m-wifi-congelando-no-menu-bios/?do=getNewComment "placa-mãe Maxsun b650m wifi congelando no menu BIOS")
+        [HD possivelmente com algo de errado](https://www.clubedohardware.com.br/forums/topic/1703347-hd-possivelmente-com-algo-de-errado/?do=getNewComment "HD possivelmente com algo de errado")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Gustavo11](https://www.clubedohardware.com.br/profile/1256747-gustavo11/ "Ir ao perfil de Gustavo11")  
+        1 hora atrás
+        
+    * [![Ornix](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1136337.thumb.jpeg.dc740bb1b6006293d1d2f59f2f78fa9b.jpeg)](https://www.clubedohardware.com.br/profile/1136337-ornix/ "Ir ao perfil de Ornix")
+        
+        2
+        
+        [Fonte Pichau Nidus 500W aguenta RX 6600 e Ryzen 5 5600?](https://www.clubedohardware.com.br/forums/topic/1703346-fonte-pichau-nidus-500w-aguenta-rx-6600-e-ryzen-5-5600/?do=getNewComment "Fonte Pichau Nidus 500W aguenta RX 6600 e Ryzen 5 5600?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Ornix](https://www.clubedohardware.com.br/profile/1136337-ornix/ "Ir ao perfil de Ornix")  
+        1 hora atrás
+        
+    * [![Ariel Araujo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256742.thumb.png.e2bcb3c7e5a88e8cf32e99712f98e4ad.png)](https://www.clubedohardware.com.br/profile/1256742-ariel-araujo/ "Ir ao perfil de Ariel Araujo")
+        
+        8
+        
+        [Trocar PLACA B450MXS BIOSTAR](https://www.clubedohardware.com.br/forums/topic/1703345-trocar-placa-b450mxs-biostar/?do=getNewComment "Trocar PLACA B450MXS BIOSTAR")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [DouglasGomes22](https://www.clubedohardware.com.br/profile/1256714-douglasgomes22/ "Ir ao perfil de DouglasGomes22")  
-        52 minutos atrás
+        Por [Ariel Araujo](https://www.clubedohardware.com.br/profile/1256742-ariel-araujo/ "Ir ao perfil de Ariel Araujo")  
+        1 hora atrás
         
-    * [![Ismael28](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256716.thumb.png.9864cffe29ac814e226017ccccd87e4a.png)](https://www.clubedohardware.com.br/profile/1256716-ismael28/ "Ir ao perfil de Ismael28")
+    * [![Elion](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256738.thumb.jpeg.0dfdfaca95aa4e242a297dc118feae7d.jpeg)](https://www.clubedohardware.com.br/profile/1256738-elion/ "Ir ao perfil de Elion")
         
-        1
+        5
         
-        [Intel Core 2 duo 8400](https://www.clubedohardware.com.br/forums/topic/1703307-intel-core-2-duo-8400/?do=getNewComment "Intel Core 2 duo 8400")
+        [Essa configuração do pc que vou comprar é uma boa?](https://www.clubedohardware.com.br/forums/topic/1703344-essa-configura%C3%A7%C3%A3o-do-pc-que-vou-comprar-%C3%A9-uma-boa/?do=getNewComment "Essa configuração do pc que vou comprar é uma boa?")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Ismael28](https://www.clubedohardware.com.br/profile/1256716-ismael28/ "Ir ao perfil de Ismael28")  
-        53 minutos atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Elion](https://www.clubedohardware.com.br/profile/1256738-elion/ "Ir ao perfil de Elion")  
+        1 hora atrás
         
-    * [![Maré Vermelha](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1235126.thumb.jpeg.610d7cba31ad8326dd684f3bff8cbba8.jpeg)](https://www.clubedohardware.com.br/profile/1235126-mar%C3%A9-vermelha/ "Ir ao perfil de Maré Vermelha")
-        
-        0
-        
-        [Como escolher um bom cooler para a montagem de PC?](https://www.clubedohardware.com.br/forums/topic/1703306-como-escolher-um-bom-cooler-para-a-montagem-de-pc/?do=getNewComment "Como escolher um bom cooler para a montagem de PC?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Maré Vermelha](https://www.clubedohardware.com.br/profile/1235126-mar%C3%A9-vermelha/ "Ir ao perfil de Maré Vermelha")  
-        54 minutos atrás
-        
-    * [![Leonildo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243128.thumb.jpeg.56ae4bf4b3f8056567cb8718446c4632.jpeg)](https://www.clubedohardware.com.br/profile/1243128-leonildo/ "Ir ao perfil de Leonildo")
+    * [![Loraxss](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256740.thumb.png.130c35682089381c155184f75a6f00ec.png)](https://www.clubedohardware.com.br/profile/1256740-loraxss/ "Ir ao perfil de Loraxss")
         
         0
         
-        [Vale a pena um upgrade nesse not?](https://www.clubedohardware.com.br/forums/topic/1703304-vale-a-pena-um-upgrade-nesse-not/?do=getNewComment "Vale a pena um upgrade nesse not?")
+        [Roteador ZTE H3601N com Bloqueio de provedor](https://www.clubedohardware.com.br/forums/topic/1703343-roteador-zte-h3601n-com-bloqueio-de-provedor/?do=getNewComment "Roteador ZTE H3601N com Bloqueio de provedor")
         
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Leonildo](https://www.clubedohardware.com.br/profile/1243128-leonildo/ "Ir ao perfil de Leonildo")  
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Loraxss](https://www.clubedohardware.com.br/profile/1256740-loraxss/ "Ir ao perfil de Loraxss")  
         1 hora atrás
         
     
