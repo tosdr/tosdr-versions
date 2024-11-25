@@ -70,6 +70,12 @@ Latest news
 
 [All articles](https://www.aenetworks.tv/news)
 
+    [![Unbreakable Series on crime+Investigation](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-11/Unbreakable_Survivor_Stories_1920x1080_CLEAN_0.jpg?VersionId=vumZiJUgBjkCnbF9HnnIzkzIUrOBGADC&itok=BHM7hHxn)
+
+25 November 2024
+
+### HEARST NETWORKS UK LAUNCHES ‘UNBREAKABLE’ A POWERFUL NEW SHORT-FORM SERIES ON CRIME+INVESTIGATION](https://www.aenetworks.tv/news/uk/hearst-networks-uk-launches-unbreakable-powerful-new-short-form-series-crimeinvestigation)
+
     [![Marcel Theroux Investigations The Eunuch Maker](/s3/files/styles/card_tablet/public/2024-11/Marcel%20Theroux%20CD.jpg?itok=4ugG9PsH)
 
 11 November 2024
@@ -87,12 +93,6 @@ Latest news
 18 October 2024
 
 ### COSMO WINS 2 GOLD AND 1 SILVER AT THE WORLD GEMA AWARDS](https://www.aenetworks.tv/news/spain/cosmo-wins-2-gold-and-1-silver-world-gema-awards)
-
-    [![Hearst Networks UK and Sky Ireland Ad Sales Launch](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-10/Hearst%20Networks%20UK%20x%20Sky%20Media%20-%20Ad%20Sales%20Ireland%20Launch%203.jpg?VersionId=nCw8YCjV2_6Nwo6S4bC9LAP3SVY0rHB6&itok=4levHaee)
-
-17 October 2024
-
-### HEARST NETWORKS UK EXPANDS REACH IN IRELAND WITH SKY MEDIA PARTNERSHIP](https://www.aenetworks.tv/news/uk/hearst-networks-uk-expands-reach-ireland-sky-media-partnership)
 
 Corporate
 ---------
