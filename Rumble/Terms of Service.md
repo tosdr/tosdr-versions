@@ -446,127 +446,121 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Steven Crowder
+[Candace Show Podcast
 
-54.9K](https://rumble.com/v5sxiew--how-leftists-are-already-sabotaging-trump-2.0.html "Steven Crowder")
-
-[Bannons War Room
-
-25.1K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
-
-[Badlands Media
-
-5.1K](https://rumble.com/v5stcj2-badlands-daily-monday-november-25-2024.html "Badlands Media")
+9.85K](https://rumble.com/v5t1opq-woah.-the-matt-gaetz-story-is-way-darker-than-we-thought.-candace-ep-110.html "Candace Show Podcast")
 
 [NEWSMAX
 
-4.71K](https://rumble.com/v5sxcc5-the-gerry-callahan-show-live-newsmax-podcasts.html "NEWSMAX")
+3.45K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Matt Kohrs
+[Bannons War Room
 
-1K](https://rumble.com/v5ste7w-the-mk-show-nov.-25th.html "Matt Kohrs")
+3.21K](https://rumble.com/v5szpz2-election-security-call-now-the-real-work-begins.html "Bannons War Room")
 
-[usefulidiots
+[Kimberly Guilfoyle
 
-232](https://rumble.com/v5sod2n-useful-idiots-monday-mourning-with-aaron-mat-and-katie-halper.html "usefulidiots")
+2.1K](https://rumble.com/v5t09qb-americans-cheer-trump-cabinet-picks-live-with-dr-ben-carson-and-mike-davis-.html "Kimberly Guilfoyle")
+
+[Dr Steve Turley
+
+405](https://rumble.com/v5t22mk-big-pharma-elites-are-running-scared.html "Dr Steve Turley")
 
 [barstoolsports
 
-214](https://rumble.com/v5swx6b-kms-live-november-25-2024-ft.-blind-mike-and-jon-in-warren.html "barstoolsports")
+111](https://rumble.com/v5t0z6k-team-chaps-vs-team-pft-simulator-golf-league-match-6-presented-by-fireball.html "barstoolsports")
 
-[The Kirk Minihane Show
+[VIVA TV
 
-149](https://rumble.com/v5swx6b-kms-live-november-25-2024-ft.-blind-mike-and-jon-in-warren.html "The Kirk Minihane Show")
-
-[Mike Crispi
-
-108](https://rumble.com/v5stn3w-mike-crispi-unafraid-11-25-24.html "Mike Crispi")
-
-[Wake Up Mintzy
-
-62](https://rumble.com/v5sqbi2-wake-up-mintzy-11.25.24.html "Wake Up Mintzy")
+108](https://rumble.com/v5t0z6k-team-chaps-vs-team-pft-simulator-golf-league-match-6-presented-by-fireball.html "VIVA TV")
 
 [Major League Fishing
 
-1](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
-
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
-
-[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
-
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
-
-[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
-
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
-
-[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
-
-[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
-
-[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
-
-[After Skool](https://rumble.com/c/AfterSkool "After Skool")
-
-[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
-
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
-
-[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
-
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
-
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
-
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
-
-[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
-
-[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
-
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
-
-[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
-
-[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
-
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
-
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
-
-[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
+4](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
 [Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
 
-[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
+[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
 
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
 
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
-
-[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
-
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
-
-[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
-
-[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
-
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
-
-[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
-
-[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
-
-[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
+[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
 
 [vivafrei](https://rumble.com/user/vivafrei "vivafrei")
 
+[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+
+[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
+
+[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
+
+[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
+
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
+
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+
+[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
+
+[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
+
+[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
+
+[Shaun Attwood](https://rumble.com/c/ShaunAttwood "Shaun Attwood")
+
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
+
+[Redacted News](https://rumble.com/c/Redacted "Redacted News")
+
+[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
+
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
+
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+
+[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
+
+[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
+
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+
+[Lofi Girl](https://rumble.com/c/LofiGirl "Lofi Girl")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+
 [The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
 
-[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
+[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
+
+[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
+
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+
+[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
+
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+
+[Barry Cunningham](https://rumble.com/c/BarryCunningham "Barry Cunningham")
+
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+
+[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+
+[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
+
+[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+
+[GOP](https://rumble.com/c/GOP "GOP")
+
+[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
+
+[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
+
+[Havoc](https://rumble.com/c/Havoc "Havoc")
+
+[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
 
 ### Theme
 
