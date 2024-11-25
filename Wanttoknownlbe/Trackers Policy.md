@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/zijn-vaccins-een-verzinsel-en-een-groot-gevaar/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/hersendode-hoort-orgaanoperatie-bij-zichzelf/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
