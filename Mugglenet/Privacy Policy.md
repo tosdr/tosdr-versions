@@ -284,7 +284,7 @@ Harry Potter and the Deathly Hallows was released on July 21, 2007, and sold 11 
 
 ### Potter History
 
-June 23, 2006 – Harry Potter and the Half-Blood Prince is released in paperback in the United Kingdom.
+November 27, 2005 – Tolga Safer, David Heyman, Miranda Richardson, Daniel Radcliffe, Jamie Waylett, Katie Leung, Tiana Benjamin, and Mike Newell are interviewed at the Harry Potter and the Goblet of Fire NYC red carpet.
 
 ### Potter Quote
 
