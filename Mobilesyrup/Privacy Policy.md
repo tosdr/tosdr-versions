@@ -512,6 +512,18 @@
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
     
+    [](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
+    
+    Nov 24, 2024 | 11:03 AM EST
+    
+    ### [Razer’s Blackwidow V4 Pro 75% brought typing bliss to my fingers](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
+    
+    [](https://mobilesyrup.com/2024/11/23/boox-go-6-e-reader-review/)
+    
+    Nov 23, 2024 | 10:58 AM EST
+    
+    ### [The Boox Go 6 finally made me an e-reader fan](https://mobilesyrup.com/2024/11/23/boox-go-6-e-reader-review/)
+    
     [](https://mobilesyrup.com/2024/11/19/asus-rog-phone-9-this-gaming-powerhouse-isnt-available-in-canada/)
     
     Nov 19, 2024 | 6:20 AM EST
@@ -535,18 +547,6 @@
     Nov 17, 2024 | 11:01 AM EST
     
     ### [Awaken – Astral Blade is a fun Metroidvania, but no Hollow Knight](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
-    
-    [](https://mobilesyrup.com/2024/11/16/dragon-quest-iii-hd-2d-remake-review/)
-    
-    Nov 16, 2024 | 2:27 PM EST
-    
-    ### [Dragon Quest III HD-2D Remake is the perfect blast from the past](https://mobilesyrup.com/2024/11/16/dragon-quest-iii-hd-2d-remake-review/)
-    
-    [](https://mobilesyrup.com/2024/11/10/xbox-series-x-all-digital-review-a-small-discount-same-xbox/)
-    
-    Nov 10, 2024 | 2:07 PM EST
-    
-    ### [Xbox Series X All-Digital Review: A small discount, same Xbox](https://mobilesyrup.com/2024/11/10/xbox-series-x-all-digital-review-a-small-discount-same-xbox/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -588,6 +588,12 @@
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/reviews/reviews-tablets/)
         
+        [](https://mobilesyrup.com/2024/11/23/boox-go-6-e-reader-review/)
+        
+        Nov 23, 2024 | 10:58 AM EST
+        
+        ### [The Boox Go 6 finally made me an e-reader fan](https://mobilesyrup.com/2024/11/23/boox-go-6-e-reader-review/)
+        
         [](https://mobilesyrup.com/2024/11/07/m4-imac-key-upgrade-review/)
         
         Nov 7, 2024 | 3:32 PM EST
@@ -617,12 +623,6 @@
         Oct 20, 2024 | 11:03 AM EDT
         
         ### [Samsung Galaxy Tab S10 Ultra is an entertainment beast](https://mobilesyrup.com/2024/10/20/samsung-galaxy-tab-s10-ultra-is-an-entertainment-beast/)
-        
-        [](https://mobilesyrup.com/2024/09/28/hp-omnibook-x-laptop-review/)
-        
-        Sep 28, 2024 | 11:07 AM EDT
-        
-        ### [HP OmniBook X Review: My favourite Snapdragon X PC](https://mobilesyrup.com/2024/09/28/hp-omnibook-x-laptop-review/)
         
     * [Smart Home](https://mobilesyrup.com/categories/reviews/reviews-smart-home/)
         
@@ -702,6 +702,12 @@
         
     * [Accessories](https://mobilesyrup.com/categories/reviews/reviews-accessories/)
         
+        [](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
+        
+        Nov 24, 2024 | 11:03 AM EST
+        
+        ### [Razer’s Blackwidow V4 Pro 75% brought typing bliss to my fingers](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
+        
         [](https://mobilesyrup.com/2024/11/06/the-iphone-16-feels-unapologetically-plastic-with-the-beats-case/)
         
         Nov 6, 2024 | 12:22 PM EST
@@ -732,13 +738,13 @@
         
         ### [Shure’s MV6 is a great premium entry point for streaming and podcasting](https://mobilesyrup.com/2024/10/23/shures-mv6-microphone-streaming-podcasting/)
         
-        [](https://mobilesyrup.com/2024/10/13/dockcase-magsafe-ssd-review-iphone-log/)
-        
-        Oct 13, 2024 | 2:28 PM EDT
-        
-        ### [The Dockcase MagSafe SSD is perfect for shooting LOG on iPhone](https://mobilesyrup.com/2024/10/13/dockcase-magsafe-ssd-review-iphone-log/)
-        
     * [Gaming](https://mobilesyrup.com/categories/reviews/reviews-gaming/)
+        
+        [](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
+        
+        Nov 24, 2024 | 11:03 AM EST
+        
+        ### [Razer’s Blackwidow V4 Pro 75% brought typing bliss to my fingers](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
         
         [](https://mobilesyrup.com/2024/11/19/asus-rog-phone-9-this-gaming-powerhouse-isnt-available-in-canada/)
         
@@ -769,12 +775,6 @@
         Nov 4, 2024 | 7:00 AM EST
         
         ### [Mario & Luigi: Brothership is one of the most charming games I’ve played in ages](https://mobilesyrup.com/2024/11/04/mario-and-luigi-brothership-nintendo-switch-review/)
-        
-        [](https://mobilesyrup.com/2024/10/28/life-is-strange-double-exposure-xbox-series-x-review/)
-        
-        Oct 28, 2024 | 12:00 PM EDT
-        
-        ### [Life is Strange: Double Exposure is a profound coda to the original game](https://mobilesyrup.com/2024/10/28/life-is-strange-double-exposure-xbox-series-x-review/)
         
     * [Apps & Software](https://mobilesyrup.com/categories/reviews/reviews-apps-software/)
         
@@ -817,6 +817,12 @@
     
 * [Features](https://mobilesyrup.com/categories/features/)
     
+    [](https://mobilesyrup.com/2024/11/23/the-game-awards-2024-honourable-mentions-1000xresist-lil-guardsman-mouthwashing/)
+    
+    Nov 23, 2024 | 2:27 PM EST
+    
+    ### [These games didn’t get Game Awards nominations, but they absolutely deserve recognition](https://mobilesyrup.com/2024/11/23/the-game-awards-2024-honourable-mentions-1000xresist-lil-guardsman-mouthwashing/)
+    
     [](https://mobilesyrup.com/2024/11/22/entertainment-software-association-of-canada-president-ceo-paul-fogolin-interview-2024-highlights-trump-impact/)
     
     Nov 22, 2024 | 11:20 AM EST
@@ -846,12 +852,6 @@
     Nov 15, 2024 | 4:48 PM EST
     
     ### [Apple’s gaming ambitions continue to march forward](https://mobilesyrup.com/2024/11/15/apples-gaming-ambitions-continue-to-march-forward/)
-    
-    [](https://mobilesyrup.com/2024/11/13/final-cut-pro-11-update-test-final-cut-ipad/)
-    
-    Nov 13, 2024 | 5:01 PM EST
-    
-    ### [All three Final Cut apps are getting substantial updates today](https://mobilesyrup.com/2024/11/13/final-cut-pro-11-update-test-final-cut-ipad/)
     
     * [Carriers](https://mobilesyrup.com/categories/features/features-carriers/)
         
@@ -969,6 +969,12 @@
         
     * [General](https://mobilesyrup.com/categories/features/features-general/)
         
+        [](https://mobilesyrup.com/2024/11/23/the-game-awards-2024-honourable-mentions-1000xresist-lil-guardsman-mouthwashing/)
+        
+        Nov 23, 2024 | 2:27 PM EST
+        
+        ### [These games didn’t get Game Awards nominations, but they absolutely deserve recognition](https://mobilesyrup.com/2024/11/23/the-game-awards-2024-honourable-mentions-1000xresist-lil-guardsman-mouthwashing/)
+        
         [](https://mobilesyrup.com/2024/11/22/entertainment-software-association-of-canada-president-ceo-paul-fogolin-interview-2024-highlights-trump-impact/)
         
         Nov 22, 2024 | 11:20 AM EST
@@ -999,14 +1005,14 @@
         
         ### [Apple’s gaming ambitions continue to march forward](https://mobilesyrup.com/2024/11/15/apples-gaming-ambitions-continue-to-march-forward/)
         
-        [](https://mobilesyrup.com/2024/11/13/final-cut-pro-11-update-test-final-cut-ipad/)
-        
-        Nov 13, 2024 | 5:01 PM EST
-        
-        ### [All three Final Cut apps are getting substantial updates today](https://mobilesyrup.com/2024/11/13/final-cut-pro-11-update-test-final-cut-ipad/)
-        
     
 * [Resources](https://mobilesyrup.com/categories/resources/)
+    
+    [](https://mobilesyrup.com/2024/11/24/how-to-return-something-on-amazon/)
+    
+    Nov 24, 2024 | 2:27 PM EST
+    
+    ### [How to return something on Amazon](https://mobilesyrup.com/2024/11/24/how-to-return-something-on-amazon/)
     
     [](https://mobilesyrup.com/2024/11/22/new-on-disney-canada-december-2024/)
     
@@ -1038,13 +1044,13 @@
     
     ### [A pro’s guide to holiday shopping online](https://mobilesyrup.com/2024/11/21/guide-holiday-shopping-online-tips-tricks-black-friday-cyber-monday/)
     
-    [](https://mobilesyrup.com/2024/11/20/netflix-december-2024/)
-    
-    Nov 20, 2024 | 11:55 AM EST
-    
-    ### [New on Netflix Canada: December 2024](https://mobilesyrup.com/2024/11/20/netflix-december-2024/)
-    
     * [General](https://mobilesyrup.com/categories/resources/general-resources/)
+        
+        [](https://mobilesyrup.com/2024/11/24/how-to-return-something-on-amazon/)
+        
+        Nov 24, 2024 | 2:27 PM EST
+        
+        ### [How to return something on Amazon](https://mobilesyrup.com/2024/11/24/how-to-return-something-on-amazon/)
         
         [](https://mobilesyrup.com/2024/11/22/best-carrier-black-friday-deals-roundup/)
         
@@ -1075,12 +1081,6 @@
         Nov 16, 2024 | 10:58 AM EST
         
         ### [Telecom news roundup: Black Friday deals are here, Bell holiday layoffs \[Nov. 9-15\]](https://mobilesyrup.com/2024/11/16/telecom-news-roundup-rogers-fido-black-friday/)
-        
-        [](https://mobilesyrup.com/2024/11/09/telecom-news-roundup-special-deals-xfinity-rebrands/)
-        
-        Nov 9, 2024 | 11:04 AM EST
-        
-        ### [Telecom news roundup: special deals and more Xfinity rebrands \[Nov. 2-8\]](https://mobilesyrup.com/2024/11/09/telecom-news-roundup-special-deals-xfinity-rebrands/)
         
     * [Streaming](https://mobilesyrup.com/categories/resources/resources-streaming/)
         
