@@ -205,21 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
-* [Let's improve landmarks](https://www.somethingawful.com/photoshop-phriday/lets-improve-landmarks/)
-* [In Defense of Gringo Star](https://www.somethingawful.com/garbage-day/gringo-star-dadrock/1/)
-* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
-* [The President Has Wood(en Statue)](https://www.somethingawful.com/photoshop-phriday/trump-wood-statue/)
+* [3rd Edition Dungeons & Dragons: Fiend Folio](https://www.somethingawful.com/dungeons-and-dragons/fiend-folio-3e/1/)
+* [DickFlash.com](https://www.somethingawful.com/weekend-web/flashing-forum/1/)
+* [Safety War](https://www.somethingawful.com/photoshop-phriday/safety-war/1/)
+* [Children's Books All Grown Up](https://www.somethingawful.com/photoshop-phriday/childrens-books-all/1/)
+* [Video Game High School](https://www.somethingawful.com/comedy-goldmine/video-game-highschool/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Sit on Robot Santa's Lap](http://forums.somethingawful.com/showthread.php?threadid=4076210 "Sit on Robot Santa's Lap")
+
 ### Random Articles
 
-* [Inappropriate Soundtracks!](https://www.somethingawful.com/comedy-goldmine/inappropriate-movie-music/1/)
-* [Pinatas.com](https://www.somethingawful.com/awful-links/awful-link-2393/)
-* [Fake SA](https://www.somethingawful.com/news/fake-sa-2/)
-* [ADVENTURE PALACE](https://www.somethingawful.com/news/adventure-palace/)
-* [Celebrities, Wild Animals and Appliances!](https://www.somethingawful.com/photoshop-phriday/celebrities-animals-appliances/1/)
+* [Adventures of Dino Riki](https://www.somethingawful.com/rom-pit/adventures-dino-riki/1/)
+* [Donald George Smith; RULER OF THE INTERNET](https://www.somethingawful.com/awful-links/awful-link-1388/)
+* [Let me just explain myself here!](https://www.somethingawful.com/daily-dirt/daily-dirt-warcraft/)
+* [Unlike My Opponent](https://www.somethingawful.com/news/unlike-my-opponent/)
+* [Kennel Fair Dog Pageant's Best Dog of All Time Award](https://www.somethingawful.com/news/kennel-fair-hairbank/)
 
 [Random!](https://www.somethingawful.com/random/)
 
