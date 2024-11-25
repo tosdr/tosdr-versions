@@ -485,14 +485,13 @@ Last updated: July 1, 2023
 * [Privacy Policy](https://www.fandom.com/privacy-policy)
 * [Digital Services Act](https://www.fandom.com/digital-services-act)
 * [Global Sitemap](https://community.fandom.com/Sitemap)
-* Cookie Preferences
+* 
 
 ### Community
 
 * [Community Central](https://community.fandom.com/wiki/Community_Central)
 * [Support](https://fandom.zendesk.com/)
 * [Help](https://community.fandom.com/wiki/Help:Contents)
-* [Do Not Sell or Share My Personal Information](https://www.fandom.com/do-not-sell-my-info)
 
 ### Advertise
 
