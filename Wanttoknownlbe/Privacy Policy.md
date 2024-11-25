@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/us-100-miljoen-vlak-voor-911-aanslagen-weggesluisd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/het-eindspel/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
