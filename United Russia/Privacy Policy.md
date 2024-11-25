@@ -299,6 +299,46 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Владимир Якушев и Вячеслав Федорищев обсудили задачи Самарского регионального отделения «Единой России»](https://cdn.er.ru/media/news/November2024/TDDo2fq2oxoGAY0U8vHo-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-i-vyacheslav-fedorishev-obsudili-zadachi-samarskogo-regionalnogo-otdeleniya-edinoj-rossii)
+
+[Владимир Якушев и Вячеслав Федорищев обсудили задачи Самарского регионального отделения «Единой России»](https://er.ru/activity/news/vladimir-yakushev-i-vyacheslav-fedorishev-obsudili-zadachi-samarskogo-regionalnogo-otdeleniya-edinoj-rossii)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Федорищев](https://er.ru/activity/news?tags%5B0%5D=1095521) [#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#первичныеотделения](https://er.ru/activity/news?tags%5B0%5D=113123) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 18:40
+
+[![«Молодая Гвардия Единой России» и «Волонтёрская Рота» организуют в новых регионах серию предновогодних мероприятий](https://cdn.er.ru/media/news/November2024/eE7WHhhJbDNpbmoboojV-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volontyorskaya-rota-organizuyut-v-novyh-regionah-seriyu-prednovogodnih-meropriyatij)
+
+[«Молодая Гвардия Единой России» и «Волонтёрская Рота» организуют в новых регионах серию предновогодних мероприятий](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-i-volontyorskaya-rota-organizuyut-v-novyh-regionah-seriyu-prednovogodnih-meropriyatij)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#Херсонская область](https://er.ru/activity/news?tags%5B0%5D=1093586) [#Запорожская область](https://er.ru/activity/news?tags%5B0%5D=1093589) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=147285)
+
+Сегодня 18:11
+
+[![Владимир Якушев высоко оценил реализацию партпроектов «Единой России» в Пермском крае](https://cdn.er.ru/media/news/November2024/sJZiHdpKos61uBahRNOA-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-vysoko-ocenil-realizaciyu-partproektov-edinoj-rossii-v-permskom-krae)
+
+[Владимир Якушев высоко оценил реализацию партпроектов «Единой России» в Пермском крае](https://er.ru/activity/news/vladimir-yakushev-vysoko-ocenil-realizaciyu-partproektov-edinoj-rossii-v-permskom-krae)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Махонин](https://er.ru/activity/news?tags%5B0%5D=144814) [#Пермский край](https://er.ru/activity/news?tags%5B0%5D=1082) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584)
+
+Сегодня 17:10
+
+[![«Молодая Гвардия Единой России» установила в ДНР памятную табличку на доме погибшего участника СВО](https://cdn.er.ru/media/news/November2024/3LCyWuz8SjYP6SwCjVlZ-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-ustanovila-v-dnr-pamyatnuyu-tablichku-na-dome-pogibshego-uchastnika-svo)
+
+[«Молодая Гвардия Единой России» установила в ДНР памятную табличку на доме погибшего участника СВО](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-ustanovila-v-dnr-pamyatnuyu-tablichku-na-dome-pogibshego-uchastnika-svo)
+
+[#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ГероиРоссии](https://er.ru/activity/news?tags%5B0%5D=114262) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [мемориальная табличка](https://er.ru/activity/news?tags%5B0%5D=153154) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 13:55
+
+[![Активисты партпроекта «Единой России» «Крепкая семья» поздравили мам по всей стране](https://cdn.er.ru/media/news/November2024/bs5evkDVjzAqZEndXegH-small.jfif)](https://er.ru/activity/news/aktivisty-partproekta-edinoj-rossii-krepkaya-semya-pozdravili-mam-po-vsej-strane)
+
+[Активисты партпроекта «Единой России» «Крепкая семья» поздравили мам по всей стране](https://er.ru/activity/news/aktivisty-partproekta-edinoj-rossii-krepkaya-semya-pozdravili-mam-po-vsej-strane)
+
+[#Буцкая](https://er.ru/activity/news?tags%5B0%5D=83163) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#КрепкаяСемья](https://er.ru/activity/news?tags%5B0%5D=1091221) [#ДеньМатери](https://er.ru/activity/news?tags%5B0%5D=97934) [#праздники](https://er.ru/activity/news?tags%5B0%5D=5064) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#детисовз](https://er.ru/activity/news?tags%5B0%5D=119056) [#мастер-классы](https://er.ru/activity/news?tags%5B0%5D=34619) [#выставки](https://er.ru/activity/news?tags%5B0%5D=20390)
+
+Сегодня 13:15
+
 [![В Москве при поддержке «Единой России» пройдёт ХI Международный фестиваль школьного спорта среди государств – участников Содружества Независимых Государств](https://cdn.er.ru/media/news/November2024/LtoGS2LlHhoXbzFWzo8e-small.jpg)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-projdyot-hi-mezhdunarodnyj-festival-shkolnogo-sporta-sredi-gosudarstv-uchastnikov-sodruzhestva-nezavisimyh-gosudarstv)
 
 [В Москве при поддержке «Единой России» пройдёт ХI Международный фестиваль школьного спорта среди государств – участников Содружества Независимых Государств](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-projdyot-hi-mezhdunarodnyj-festival-shkolnogo-sporta-sredi-gosudarstv-uchastnikov-sodruzhestva-nezavisimyh-gosudarstv)
@@ -306,46 +346,6 @@
 [#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ДетскийСпорт](https://er.ru/activity/news?tags%5B0%5D=1091126) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#СНГ](https://er.ru/activity/news?tags%5B0%5D=747) [#турнир](https://er.ru/activity/news?tags%5B0%5D=787) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#состязания](https://er.ru/activity/news?tags%5B0%5D=39929) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671)
 
 Сегодня 12:41
-
-[![«Единая Россия» дала старт Всероссийскому конкурсу поддержки гражданских инициатив](https://cdn.er.ru/media/news/November2024/RYpbNwJ0WBZIYnLAapHz-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-vserossijskomu-konkursu-podderzhki-grazhdanskih-iniciativ)
-
-[«Единая Россия» дала старт Всероссийскому конкурсу поддержки гражданских инициатив](https://er.ru/activity/news/edinaya-rossiya-dala-start-vserossijskomu-konkursu-podderzhki-grazhdanskih-iniciativ)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#гражданскиеинициативы](https://er.ru/activity/news?tags%5B0%5D=121730) [#гранты](https://er.ru/activity/news?tags%5B0%5D=5438)
-
-Сегодня 08:30
-
-[![Владимир Якушев: Материнство – тяжёлый труд и самая высокая награда](https://cdn.er.ru/media/news/November2024/WXiM9kZSlaJFFkUDUk7D-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-materinstvo-tyazhyolyj-trud-i-samaya-vysokaya-nagrada)
-
-[Владимир Якушев: Материнство – тяжёлый труд и самая высокая награда](https://er.ru/activity/news/vladimir-yakushev-materinstvo-tyazhyolyj-trud-i-samaya-vysokaya-nagrada)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Деньматери](https://er.ru/activity/news?tags%5B0%5D=1094956) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
-
-24.11.24
-
-[![«Единая Россия» открыла для посетителей выставки «Сила V правде – гордость и победа» в Ульяновске экспозицию поисковых отрядов](https://cdn.er.ru/media/news/November2024/UhE9DaCw8Aly5tGveAZT-small.png)](https://er.ru/activity/news/edinaya-rossiya-otkryla-dlya-posetitelej-vystavki-sila-v-pravde-gordost-i-pobeda-v-ulyanovske-ekspoziciyu-poiskovyh-otryadov)
-
-[«Единая Россия» открыла для посетителей выставки «Сила V правде – гордость и победа» в Ульяновске экспозицию поисковых отрядов](https://er.ru/activity/news/edinaya-rossiya-otkryla-dlya-posetitelej-vystavki-sila-v-pravde-gordost-i-pobeda-v-ulyanovske-ekspoziciyu-poiskovyh-otryadov)
-
-[#Ульяновская область](https://er.ru/activity/news?tags%5B0%5D=2044) [#выставка](https://er.ru/activity/news?tags%5B0%5D=1427) [#СилаVПравде](https://er.ru/activity/news?tags%5B0%5D=1095874) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#экспозиция](https://er.ru/activity/news?tags%5B0%5D=3390) [#Лобунец](https://er.ru/activity/news?tags%5B0%5D=1094786) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-23.11.24
-
-[![Владимир Якушев – о проекте «Героям нашего времени»: Этот лозунг войдёт в учебники истории, поможет сохранить и увековечить немало имен](https://cdn.er.ru/media/news/November2024/JitvWavoqCJaQnKiyd2Y-small.jpeg)](https://er.ru/activity/news/vladimir-yakushev-o-proekte-geroyam-nashego-vremeni-etot-lozung-vojdyot-v-uchebniki-istorii-pomozhet-sohranit-i-uvekovechit-nemalo-imen)
-
-[Владимир Якушев – о проекте «Героям нашего времени»: Этот лозунг войдёт в учебники истории, поможет сохранить и увековечить немало имен](https://er.ru/activity/news/vladimir-yakushev-o-proekte-geroyam-nashego-vremeni-etot-lozung-vojdyot-v-uchebniki-istorii-pomozhet-sohranit-i-uvekovechit-nemalo-imen)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#благотворительныйконцерт](https://er.ru/activity/news?tags%5B0%5D=113222) [#героямнашеговремени](https://er.ru/activity/news?tags%5B0%5D=1095941) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-23.11.24
-
-[![Андрей Климов: Авторитет «Единой России» на международной арене растёт](https://cdn.er.ru/media/news/November2024/BUrpOdHYoooG2K4KF0eR-small.jpeg)](https://er.ru/activity/news/andrej-klimov-avtoritet-edinoj-rossii-na-mezhdunarodnoj-arene-rastyot)
-
-[Андрей Климов: Авторитет «Единой России» на международной арене растёт](https://er.ru/activity/news/andrej-klimov-avtoritet-edinoj-rossii-na-mezhdunarodnoj-arene-rastyot)
-
-[#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#Камбоджа](https://er.ru/activity/news?tags%5B0%5D=70061) [#МКАПП](https://er.ru/activity/news?tags%5B0%5D=77053) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
-
-23.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
