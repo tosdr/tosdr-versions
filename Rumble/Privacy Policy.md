@@ -202,127 +202,121 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Steven Crowder
+[Candace Show Podcast
 
-54.9K](https://rumble.com/v5sxiew--how-leftists-are-already-sabotaging-trump-2.0.html "Steven Crowder")
-
-[Bannons War Room
-
-25.1K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
-
-[Badlands Media
-
-5.1K](https://rumble.com/v5stcj2-badlands-daily-monday-november-25-2024.html "Badlands Media")
+9.85K](https://rumble.com/v5t1opq-woah.-the-matt-gaetz-story-is-way-darker-than-we-thought.-candace-ep-110.html "Candace Show Podcast")
 
 [NEWSMAX
 
-4.71K](https://rumble.com/v5sxcc5-the-gerry-callahan-show-live-newsmax-podcasts.html "NEWSMAX")
+3.45K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Matt Kohrs
+[Bannons War Room
 
-1K](https://rumble.com/v5ste7w-the-mk-show-nov.-25th.html "Matt Kohrs")
+3.21K](https://rumble.com/v5szpz2-election-security-call-now-the-real-work-begins.html "Bannons War Room")
 
-[usefulidiots
+[Kimberly Guilfoyle
 
-232](https://rumble.com/v5sod2n-useful-idiots-monday-mourning-with-aaron-mat-and-katie-halper.html "usefulidiots")
+2.13K](https://rumble.com/v5t09qb-americans-cheer-trump-cabinet-picks-live-with-dr-ben-carson-and-mike-davis-.html "Kimberly Guilfoyle")
+
+[Dr Steve Turley
+
+405](https://rumble.com/v5t22mk-big-pharma-elites-are-running-scared.html "Dr Steve Turley")
 
 [barstoolsports
 
-214](https://rumble.com/v5swx6b-kms-live-november-25-2024-ft.-blind-mike-and-jon-in-warren.html "barstoolsports")
+111](https://rumble.com/v5t0z6k-team-chaps-vs-team-pft-simulator-golf-league-match-6-presented-by-fireball.html "barstoolsports")
 
-[The Kirk Minihane Show
+[VIVA TV
 
-149](https://rumble.com/v5swx6b-kms-live-november-25-2024-ft.-blind-mike-and-jon-in-warren.html "The Kirk Minihane Show")
-
-[Mike Crispi
-
-108](https://rumble.com/v5stn3w-mike-crispi-unafraid-11-25-24.html "Mike Crispi")
-
-[Wake Up Mintzy
-
-62](https://rumble.com/v5sqbi2-wake-up-mintzy-11.25.24.html "Wake Up Mintzy")
+108](https://rumble.com/v5t0z6k-team-chaps-vs-team-pft-simulator-golf-league-match-6-presented-by-fireball.html "VIVA TV")
 
 [Major League Fishing
 
-1](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
-
-[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
-
-[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
-
-[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
-
-[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
-
-[Going Yard Baseball](https://rumble.com/c/GoingYardBaseball "Going Yard Baseball")
-
-[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
-
-[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
-
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
-
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
-
-[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
-
-[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
-
-[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
-
-[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
-
-[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
-
-[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
-
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
-
-[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
-
-[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
-
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
-
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
-
-[Bitcoin.com](https://rumble.com/c/Bitcoincom "Bitcoin.com")
-
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
-
-[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
-
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
-
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
-
-[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
-
-[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
-
-[Lofi Girl](https://rumble.com/c/LofiGirl "Lofi Girl")
-
-[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
-
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
-
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
-
-[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
-
-[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
-
-[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
-
-[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
+4](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
 [NHRA](https://rumble.com/c/NHRA "NHRA")
 
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
+[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
 
-[Barry Cunningham](https://rumble.com/c/BarryCunningham "Barry Cunningham")
+[Lofi Girl](https://rumble.com/c/LofiGirl "Lofi Girl")
+
+[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
+
+[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
+
+[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+
+[New York Post](https://rumble.com/c/NYPost "New York Post")
+
+[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
+
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+
+[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
+
+[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
+
+[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
+
+[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
+
+[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
+
+[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
+
+[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+
+[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+
+[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
+
+[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
+
+[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+
+[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
+
+[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
+
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+
+[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
+
+[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
+
+[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
+
+[Power Slap](https://rumble.com/c/powerslap "Power Slap")
+
+[DeVory Darkins](https://rumble.com/c/DeVoryDarkins "DeVory Darkins")
+
+[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
+
+[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
+
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+
+[Havoc](https://rumble.com/c/Havoc "Havoc")
+
+[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
+
+[Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
+
+[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+
+[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
+
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+
+[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
 
 ### Theme
 
