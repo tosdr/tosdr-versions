@@ -528,12 +528,10 @@ This is a subtitle
 
 Some content goes here..](https://www.linkedin.com/company/humansecurityinc/)
 
-Safeguard every step of your customer’s journey
-===============================================
+Comprehensive protection for today's customer journey
+=====================================================
 
-Ensure every digital interaction, transaction, and connection is authentic, secure, and human.
-
-[Explore the Platform](https://www.humansecurity.com/platform)
+Unmatched detection, decisioning, and protection to safeguard against automated threats and fraud.
 
 [Connect With a Human](https://www.humansecurity.com/contact-sales)
 
@@ -550,13 +548,13 @@ Secure every touchpoint along your customer journey against advertising fraud, s
 
 Deliver quality digital ad experiences that drive genuine performance. Eliminate wasteful spending on fake bot impressions and prevent malicious ads from redirecting audience attention.
 
-[Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor-platforms)
+[Ad Fraud Sensor](https://www.humansecurity.com/platform/solutions/ad-fraud-sensor-old)
 
-[Ad Fraud Defense](https://www.humansecurity.com/platform/solutions/ad-fraud)
+[Ad Fraud Defense](https://www.humansecurity.com/platform/solutions/ad-fraud-old)
 
-[Malvertising Defense](https://www.humansecurity.com/platform/solutions/malvertising-platforms)
+[Malvertising Defense](https://www.humansecurity.com/platform/solutions/malvertising-old)
 
-[Ad Quality Defense](https://www.humansecurity.com/platform/solutions/ad-quality-platforms)
+[Ad Quality Defense](https://www.humansecurity.com/platform/solutions/ad-quality-old)
 
 [Explore Advertising Protection](https://www.humansecurity.com/platform/packages/advertising-platforms)
 
@@ -568,15 +566,15 @@ Deliver quality digital ad experiences that drive genuine performance. Eliminate
 
 Preserve privacy, compliance, and trust as users arrive at and navigate your digital experience. Prevent bots from stealing your content, ensure data integrity, and avoid compliance penalties.
 
-[Scraping Defense](https://www.humansecurity.com/platform/solutions/scraping)
+[Scraping Defense](https://www.humansecurity.com/platform/solutions/scraping-old)
 
-[Data Contamination Defense](https://www.humansecurity.com/platform/solutions/data-contamination)
+[Data Contamination Defense](https://www.humansecurity.com/platform/solutions/data-contamination-old)
 
-[Transaction Abuse Defense](https://www.humansecurity.com/platform/solutions/transaction-abuse)
+[Transaction Abuse Defense](https://www.humansecurity.com/platform/solutions/transaction-abuse-old)
 
-[Client-Side Defense](https://www.humansecurity.com/platform/solutions/client-side)
+[Client-Side Defense](https://www.humansecurity.com/platform/solutions/client-side-old)
 
-[PCI DSS Compliance](https://www.humansecurity.com/platform/solutions/pci-dss-compliance)
+[PCI DSS Compliance](https://www.humansecurity.com/platform/solutions/pci-dss-compliance-old)
 
 [Explore Application Protection](https://www.humansecurity.com/platform/packages/applications)
 
@@ -588,11 +586,11 @@ Preserve privacy, compliance, and trust as users arrive at and navigate your dig
 
 Decrease account fraud losses and prevent sensitive data exfiltration. Block unauthorized logins and synthetic new signups by automated bots and neutralize post-login fraud.
 
-[Account Takeover Defense](https://www.humansecurity.com/platform/solutions/account-takeover)
+[Account Takeover Defense](https://www.humansecurity.com/platform/solutions/account-takeover-old)
 
-[Fake Account Defense](https://www.humansecurity.com/platform/solutions/fake-accounts)
+[Fake Account Defense](https://www.humansecurity.com/platform/solutions/fake-accounts-old)
 
-[Compromised Account Defense](https://www.humansecurity.com/platform/solutions/compromised-accounts)
+[Compromised Account Defense](https://www.humansecurity.com/platform/solutions/compromised-accounts-old)
 
 [Explore Account Protection](https://www.humansecurity.com/platform/packages/accounts)
 
@@ -670,18 +668,11 @@ HUMAN combines the power of great technology, people, and service and flips the 
 
 ![Human-About-Logo-Yeti](https://www.humansecurity.com/hs-fs/hubfs/Human-About-Logo-Yeti.png?width=360&height=100&name=Human-About-Logo-Yeti.png)
 
-HUMAN Named a Leader in The Forrester Wave™:  
-Bot Management Software, Q3 2024
+HUMAN Named a Leader on G2 in Bot Mitigation and Detection by Real Customers
 
-[Learn more](https://www.humansecurity.com/forrester-wave)
+[Learn Why](https://www.g2.com/reports/grid-report-for-bot-detection-and-mitigation-spring-2024.embed?secure%5Bgated_consumer%5D=05a7a6dc-35e6-4e01-89c6-5c73e715f19c&secure%5Btoken%5D=e1ce7265d69f08f42ec56049a07e3efbf6dc41b6662bebc715a420469f5ab89c&tab=grid)
 
-![](https://www.humansecurity.com/hubfs/HUMAN_Forrester_Landing%20Page.png)
-
-Customers rank HUMAN #1 in G2’s Bot Detection and Mitigation category
-
-[Learn Why](https://www.humansecurity.com/g2-bot-mitigaton-detection-leader)
-
-![](https://www.humansecurity.com/hubfs/G2-Fall24.svg)
+![](https://www.humansecurity.com/hubfs/G2%20Grid-Spring%202024%20(1).svg)
 
 \[With HUMAN\], we enjoyed a three-order of magnitude reduction in bad actor traffic, and that takes a lot of the heat off in fraud terms. Furthermore, I really love that HUMAN is evolving the product. There's a well-charted roadmap of features directly relevant to customers dealing with fraud.
 
@@ -710,7 +701,7 @@ Your business needs protection from fraud, bot attacks, and account abuse.
 
 [Get to know HUMAN](https://www.humansecurity.com/company/about)
 
-[Explore the Platform](https://www.humansecurity.com/platform)
+[Explore the Platform](https://www.humansecurity.com/platform-old)
 
 [Talk to a Human](https://www.humansecurity.com/contact-sales)
 
