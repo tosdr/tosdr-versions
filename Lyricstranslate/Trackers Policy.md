@@ -137,65 +137,59 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![altermetax](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1360194-1684108359.png)](https://lyricstranslate.com/en/translator/altermetax "altermetax")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
 New comment
 
-Danke Hansi :) Hast du eine Ahnung, was in den ...  [more](https://lyricstranslate.com/en/comment/1177860#comment-1177860)
+The Voice Kids from The Philippines (an example ...  [more](https://lyricstranslate.com/en/comment/1178253#comment-1178253)
 
-[![Connor Langille](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399875-1669484245.png)](https://lyricstranslate.com/en/translator/connor-langille "Connor Langille")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
-New song
+New comment
 
-[NoGoD - 愚蓮](https://lyricstranslate.com/en/nogod-guren-lyrics)
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1178252#comment-1178252)
 
-Japanese
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1601644777.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1728278937.jpg)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
 
 New translation
 
-[Diaframma - Indubitabile](https://lyricstranslate.com/en/diaframma-indubitabile-english)
+[Måneskin - Baby Said](https://lyricstranslate.com/en/maneskin-baby-said-romanian)
 
-Italian → English
+English → Romanian
 
-[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
+[![Роман Постовалов](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609206-1728278937.jpg)](https://lyricstranslate.com/en/translator/%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2 "Роман Постовалов")
 
-New song
+New request
 
-[INÊS APENAS - sonho lindo](https://lyricstranslate.com/en/ines-apenas-sonho-lindo-lyrics)
+[Måneskin - Baby Said](https://lyricstranslate.com/en/request/baby-said-1)
 
-Portuguese
+English → Spanish
 
-[![Lilmon](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472495-1660587951.jpg)](https://lyricstranslate.com/en/translator/lilmon "Lilmon")
-
-Transcription request fulfilled
-
-[Oublier](https://lyricstranslate.com/en/nicky-doll-oublier-lyrics)
-
-French
-
-[![Lilmon](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472495-1660587951.jpg)](https://lyricstranslate.com/en/translator/lilmon "Lilmon")
-
-New song
-
-[Nicky Doll - Oublier](https://lyricstranslate.com/en/nicky-doll-oublier-lyrics)
-
-French
-
-[![Freigeist](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1249237-1553665246.jpg)](https://lyricstranslate.com/en/translator/freigeist "Freigeist")
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
 
 New comment
 
-\>"Kele: Gebt mir noch nur einen Baum und etwas ...  [more](https://lyricstranslate.com/en/comment/1177859#comment-1177859)
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1178251#comment-1178251)
 
-[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
+[![A L I R E Z A Abast](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1618606-1716002340.jpg)](https://lyricstranslate.com/en/translator/l-i-r-e-z-abast "A L I R E Z A Abast")
 
-New song
+New comment
 
-[INÊS APENAS - VEM CÁ](https://lyricstranslate.com/en/ines-apenas-vem-ca-lyrics)
+ممنون از ترجمه خوب و وقتی که میگذارید 👍🙏  [more](https://lyricstranslate.com/en/comment/1178250#comment-1178250)
 
-Portuguese
+[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+
+New comment
+
+https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1178249#comment-1178249)
+
+[![forwards24](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/forwards24 "forwards24")
+
+New translation
+
+[Nir Knaan - די (Dai)](https://lyricstranslate.com/en/nir-knaan-dai-english)
+
+Hebrew → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
