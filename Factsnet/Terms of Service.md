@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Defunct Baseball Teams ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/35-facts-about-defunct-baseball-teams/)
+[![18 Facts About Electron Emission ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/physics/18-facts-about-electron-emission/)
 
-Sports
+Physics
 
-24 Nov 2024
+25 Nov 2024
 
-[35 Facts About Defunct Baseball Teams](https://facts.net/lifestyle/sports/35-facts-about-defunct-baseball-teams/)
+[18 Facts About Electron Emission](https://facts.net/science/physics/18-facts-about-electron-emission/)
 
-[![35 Facts About Amethyst Realm ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/35-facts-about-amethyst-realm/)
+[![35 Facts About 1918 Flu Pandemic ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-1918-flu-pandemic/)
 
-People
+Historical Events
 
-24 Nov 2024
+25 Nov 2024
 
-[35 Facts About Amethyst Realm](https://facts.net/history/people/35-facts-about-amethyst-realm/)
+[35 Facts About 1918 Flu Pandemic](https://facts.net/history/historical-events/35-facts-about-1918-flu-pandemic/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
