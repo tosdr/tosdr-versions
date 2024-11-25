@@ -18,7 +18,7 @@
     * [Session Replay](https://mixpanel.com/releases/session-replay)
     * [Security & Privacy](https://mixpanel.com/security-privacy)
     * [Docs](https://docs.mixpanel.com/)
-    * [What's New](https://mixpanel.com/product-releases)
+    * [What's New](https://docs.mixpanel.com/changelogs)
     
 * Solutions
     
@@ -59,7 +59,7 @@
     * [Security & Privacy](https://mixpanel.com/security-privacy)
     * [Docs](https://docs.mixpanel.com/)
     * [Pricing](https://mixpanel.com/pricing)
-    * [What's New](https://mixpanel.com/product-releases)
+    * [What's New](https://docs.mixpanel.com/changelogs)
 * Solutions
     
     * [Teams](https://mixpanel.com/teams)
