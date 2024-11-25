@@ -69,6 +69,14 @@ Recent News
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
+[Here's What Happens If You Don't Layer Network Security Or Remove Unused Web Shells](https://packetstormsecurity.com/news/view/36631/Heres-What-Happens-If-You-Dont-Layer-Network-Security-Or-Remove-Unused-Web-Shells.html)
+
+Posted [Nov 22, 2024](https://packetstormsecurity.com/news/date/2024-11-22/ "14:18:18 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [japan](https://packetstormsecurity.com/news/tags/japan)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36631/) | [View](https://www.theregister.com/2024/11/22/cisa_red_team_exercise/)
+
 [Helpline For Yakuza Victims Fears It Leaked Their Personal Info](https://packetstormsecurity.com/news/view/36635/Helpline-For-Yakuza-Victims-Fears-It-Leaked-Their-Personal-Info.html)
 
 Posted [Nov 22, 2024](https://packetstormsecurity.com/news/date/2024-11-22/ "14:12:33 UTC")
@@ -133,14 +141,6 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [governme
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36623/) | [View](https://www.scworld.com/news/fbi-and-cisa-warn-of-continued-cyberattacks-on-us-telecoms)
 
-[MITRE Updates List Of 25 Most Dangerous Software Vulnerabilities](https://packetstormsecurity.com/news/view/36622/MITRE-Updates-List-Of-25-Most-Dangerous-Software-Vulnerabilities.html)
-
-Posted [Nov 21, 2024](https://packetstormsecurity.com/news/date/2024-11-21/ "15:29:50 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36622/) | [View](https://www.securityweek.com/mitre-updates-list-of-25-most-dangerous-software-vulnerabilities/)
-
 [View More News →](https://packetstormsecurity.com/news/)
 
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
@@ -185,4 +185,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1665234638&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1665234638.1732547391.1732547391.1732547391.1%3B%2B__utmz%3D32867617.1732547391.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2708900979&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2708900979.1732568597.1732568597.1732568597.1%3B%2B__utmz%3D32867617.1732568597.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
