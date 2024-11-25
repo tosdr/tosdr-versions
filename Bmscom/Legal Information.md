@@ -340,7 +340,7 @@ Related links
 
 [Scientific media resources](https://www.bms.com/media/media-library/scientific-media-resources.html)
 
-[Disease state infographics](https://www.bms.com/media/media-library/disease-state-infographics.html)
+[Disease state resources](https://www.bms.com/media/media-library/disease-state-infographics.html)
 
 [Corporate resources](https://www.bms.com/media/media-library/corporate-resources.html)
 
