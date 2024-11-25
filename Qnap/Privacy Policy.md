@@ -174,10 +174,10 @@ NAS- Network Attached Storage
     * [TS-873A-SW5T](https://www.qnap.com/go/campaign/ts-873a-with-qsw-1105-5t)
 * ###### Storage Accessories
     
+    * [QNA-UC10G1T NEW](https://www.qnap.com/en/product/qna-uc10g1t)
+    * [QNA-UC10G1SF NEW](https://www.qnap.com/en/product/qna-uc10g1sf)
     * [QXP-3X4PES](https://www.qnap.com/en/product/qxp-3x4pes)
     * [QXP-3X8PES](https://www.qnap.com/en/product/qxp-3x8pes)
-    * [QXG-10G2SF-X710](https://www.qnap.com/en/product/qxg-10g2sf-x710)
-    * [QXG-10G2T](https://www.qnap.com/en/product/qxg-10g2t)
     * [View All](https://www.qnap.com/en/product/compare-accessory)
 * ###### Resources
     
@@ -247,10 +247,10 @@ DAS & Accessories
     * [View All](https://www.qnap.com/en/product/series/pc-expansion)
 * ###### Accessories
     
+    * [QNA-UC10G1SF NEW](https://www.qnap.com/en/product/qna-uc10g1sf)
+    * [QNA-UC10G1T NEW](https://www.qnap.com/en/product/qna-uc10g1t)
     * [QM2-2P-384A](https://www.qnap.com/en/product/qm2-2p-384a)
     * [QM2-2P-344A](https://www.qnap.com/en/product/qm2-2p-344a)
-    * [QXP-1600eS-A1164](https://www.qnap.com/en/product/qxp-1600es-a1164)
-    * [QM2-2P410G1T](https://www.qnap.com/en/product/qm2-2p410g1t)
     * [View All](https://www.qnap.com/en/product/series/for-pc-workstations)
 * ###### Resources
     
@@ -393,10 +393,10 @@ Accessories
 
 * ###### Add network ports
     
+    * [QNA-UC10G1T NEW](https://www.qnap.com/en/product/qna-uc10g1t)
+    * [QNA-UC10G1SF NEW](https://www.qnap.com/en/product/qna-uc10g1sf)
     * [QXG-10G2SF-X710](https://www.qnap.com/en/product/qxg-10g2sf-x710)
     * [QXG-10G2T](https://www.qnap.com/en/product/qxg-10g2t)
-    * [QXG-25G2SF-E810](https://www.qnap.com/en/product/qxg-25g2sf-e810)
-    * [QM2-2P410G1T](https://www.qnap.com/en/product/qm2-2p410g1t)
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=network)
 * ###### Add Wi-Fi connectivity
     
@@ -424,10 +424,10 @@ Expansion Cards/ Interface Cards
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=storage)
 * ###### Add network ports
     
+    * [QNA-UC10G1T NEW](https://www.qnap.com/en/product/qna-uc10g1t)
+    * [QNA-UC10G1SF NEW](https://www.qnap.com/en/product/qna-uc10g1sf)
     * [QXG-10G2SF-X710](https://www.qnap.com/en/product/qxg-10g2sf-x710)
     * [QXG-10G2T](https://www.qnap.com/en/product/qxg-10g2t)
-    * [QXG-25G2SF-E810](https://www.qnap.com/en/product/qxg-25g2sf-e810)
-    * [QM2-2P410G1T](https://www.qnap.com/en/product/qm2-2p410g1t)
     * [View All](https://www.qnap.com/en/product/compare-accessory?tab=network)
 * ###### Add Wi-Fi connectivity
     
