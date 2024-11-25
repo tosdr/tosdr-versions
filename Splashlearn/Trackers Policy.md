@@ -57,42 +57,7 @@ You can also set or amend your web browser controls to accept or refuse Cookies.
 
 To find out more information about Cookies, including information about how to manage and delete Cookies, please visit [http://www.allaboutCookies.org/](http://www.allaboutcookies.org/) or [https://ico.org.uk/for-the-public/online/Cookies/](https://ico.org.uk/for-the-public/online/Cookies/) if you are located in the European Union.
 
-#### Types of cookies we use
-
-#### Categories
-
-#### 0 of 2 Allowed
-
-#### Performance and functionality Cookies
-
-Status: OnOff**Save**
-
-These Cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use. However, without these Cookies, certain functionality may become unavailable.
-
-* 1) Vimeo
-* 2) Drift
-
-#### Analytics and customization Cookies
-
-Status: OnOff**Save**
-
-These Cookies collect information that is used either in aggregate form to help us understand how our Websites are being used or to help us customize our Websites for you. These cookies may also be used for ad-measurement but not for personalising ads. These are first party cookies only.
-
-* 1) Google Analytics
-* 2) Mixpanel
-* 3) Hotjar
-* 4) Bing
-
-#### Essential website Cookies
-
-These Cookies are strictly necessary to provide you with services available through our Websites and to use some of its features, such as access to secure areas.
-
-* 1) Cloudflare
-* 2) Stripe
-
-Apply & Exit Accept All
-
-Accept All Apply & Exit
+[Change Your Cookie Preferences](javascript:void(0))
 
 Explore Games
 
