@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I remain very happy with your service. Thank you in advance for the next six months. Cheers!
+I have had consistently good experiences with your support. Thanks again.
 
-Brian Meredith
+Martin Costello
