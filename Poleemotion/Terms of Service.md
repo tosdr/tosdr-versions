@@ -19,6 +19,8 @@ Pour accéder à toutes les fonctionnalités de ce site, vous devez activer Java
 * [SHOP](https://app.pole-emotion.ch/boutique)
 * [PASS Découverte](https://app.pole-emotion.ch/pass-decouverte)
 
+Promo Pole Week [En savoir plus](https://app.pole-emotion.ch/news/promo-pole-week)
+
 Conditions générales d'utilisation
 ==================================
 
