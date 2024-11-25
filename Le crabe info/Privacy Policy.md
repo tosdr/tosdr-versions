@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 232 utilisateurs actifs
+##### 603 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Microsoft lance le Windows 365 Link : un mini-PC connecté au cloud](https://lecrabeinfo.net/microsoft-lance-le-windows-365-link-un-mini-pc-connecte-au-cloud.html)
 * [PlayStation 2 : lire des jeux PS1 depuis une clé USB avec Open PS2 Loader (OPL)](https://lecrabeinfo.net/playstation-2-lire-des-jeux-ps1-depuis-une-cle-usb-avec-open-ps2-loader-opl.html)
 * [Navigateur Arc : comment accéder aux paramètres et les modifier ?](https://lecrabeinfo.net/navigateur-arc-comment-acceder-aux-parametres-et-les-modifier.html)
-* [Bing Wallpaper : un piège de Microsoft pour imposer Edge et Bing ?](https://lecrabeinfo.net/bing-wallpaper-un-piege-de-microsoft-pour-imposer-edge-et-bing.html)
 
 ### Tendance
 
