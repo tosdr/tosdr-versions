@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Foxconn continuously looks for ways to integrate advances into the design and manufacturing of smart consumer electronics, cloud and networking equipment, computing devices and components, among others. We are pleased to join the Open Invention Network and support its role in protecting open source.
+> As a global leader in open source, SUSE enables innovation from the largest data centers in the world to cloud environments, and our technology is embedded in every day devices like cars, points of sale and MRIs. Open source infrastructure is the power behind the cloud and digital transformation, and our customers rely on us for mission critical business outcomes and for innovation. As a leader in bringing open source solutions to enterprises, including enterprise Linux, we see firsthand why … [Read more](https://openinventionnetwork.com/testimonial/thomas-di-giacomo-suse/ "Complete testimonial by Thomas Di Giacomo")
 
-Mick LimDirector, Foxconn IP Affairs Division
+Thomas Di GiacomoPresident of Engineering & InnovationSUSE
 
-> We recognize the value in shared innovation, a fundamental characteristic of open source communities. In addition to joining OIN, Square is one of the founders of the Crypto Open Patent Alliance (COPA), a collaborative consortium in which members pledge not to use their crypto technology patents, except for defensive purposes. Our participation in the OIN community demonstrates our commitment to support collaborative technology development.
+> OIN has created a safe space of innovation in a world which has become increasingly dependent on Linux and open source software technologies. Participation in the OIN community has enabled Microsoft to further enhance our partnerships with developers around the world.  
 
-Max SillsCounsel at Square and General Manager of COPA
+Jennifer YokoyamaVP & Chief IP CounselMicrosoft
 
-> Our stated mission is “Enabling Leading-Edge Technologies” and continuously improving ourselves so that we can offer products and services that satisfy our customers worldwide and contribute to the development of our society through the development of the most advanced technologies. In order to further promote this effort, we believe that the utilization of open source software will be essential. Open source platforms enable the rapid deployment of advanced computing and testing solutions. W… [Read more](https://www.openinventionnetwork.com/testimonial/advantest/ "Complete testimonial by Koichi Tsukui")
+> The OpenChain Project is part of a broad global community engaging with all aspects of intellectual property around open source.  
 
-Koichi TsukuiChief Technology Officer, Advantest
+Shane CoughlanProgram ManagerOpenChain Project
 
-> Open source technology, especially Linux, drives innovation in areas that are critical to the customers that we serve, including technologies such as servers, storage, cloud, converged applications, big data and IoT. By joining Open Invention Network, we are demonstrating our continued commitment to open source technology, and supporting it with patent non-aggression in Linux.  
-
-Norihiro SuzukiVice President and Executive Officer - CTOHitachi
-
-> For some time, Groupe Renault has invested in developing the innovations and technologies that will enable sustainable transportation that excels in urban and rural environments and brings connected services in the vehicle. With our rapid pace of development coupled with our passion for precision, quality and interoperability, we see leveraging open source software as an important part of our strategy.  
-
-Groupe Renault
-
-> We look forward to participating in the Open Invention Network. Many of the services and apps that our customers depend on every day have been developed using open source software and we look forward to helping safeguard its future.  
-
-Luke IbbetsonHead of Group R&DVodaphone
-
-> Linux can be found in consumer and professional systems in use around the globe. We are committed to redesigning the lifestyles of people around the world, by providing them with excitement and peace of mind. One way we create sophisticated products is by using advanced open platforms, and we are committed to ensuring their ongoing development.  
-
-Tetsuro FuseJVCKENWOODVice Operating Officer
-
-> The formation of Open Invention Network signals a growing movement where companies today are looking beyond their own organizational boundaries. They are strategically sharing their intellectual property and building broader industry partnerships in order to accelerate innovation and drive new economic growth.
-
-VP, Intellectual Property & Open StandardsIBM
-
-> Open source technology, especially Linux, has led to profound increases in capabilities across a number of key industries, while increasing overall product and service efficiency. By joining Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
-
-Hideki SanatakeExecutive Officer, Deputy Group Executive of Corporate Intellectual Properties & LegalCanon
-
-> _We are incredibly focused on pleasing our customers. One of the most effective ways to do that is to develop the systems and technologies that enable our customers to innovate. Building and leveraging open technologies enables businesses to more easily integrate their solutions — while empowering them to focus more of their resources in the powerful, distinguishing technologies that customers pursue. We are pleased to be part of the OIN community protecting open projects that encourage innovat… [Read more](https://www.openinventionnetwork.com/testimonial/tokyo-electron-device/ "Complete testimonial by Kazuki Shinoda")_
+> _We are incredibly focused on pleasing our customers. One of the most effective ways to do that is to develop the systems and technologies that enable our customers to innovate. Building and leveraging open technologies enables businesses to more easily integrate their solutions — while empowering them to focus more of their resources in the powerful, distinguishing technologies that customers pursue. We are pleased to be part of the OIN community protecting open projects that encourage innovat… [Read more](https://openinventionnetwork.com/testimonial/tokyo-electron-device/ "Complete testimonial by Kazuki Shinoda")_
 
 Kazuki ShinodaSVP, Tokyo Electron Device, Ltd.
+
+> Today, with open source software, we are quickly creating robust and long-lasting solutions for our customers. In addition to the technical implementation, we also take care that our customers do not worry about potential license violations.  
+
+Andreas PfeifferHead of Customer Advice and MarketingGinzinger
+
+> Over its history, the automotive industry has undergone periods of significant innovation. We are now undergoing a fundamental shift in the way automotive platforms are used by consumers and businesses. Automotive Grade Linux and other OSS projects are helping the industry rapidly transform. By protecting them from patent risk, OIN has enabled automotive manufacturers to effectively integrate new kinds of software-based technologies into cars.  
+
+Yosuke IidaGeneral Manager - Intellectual Property DivisionToyota
+
+> Spurious claims from Patent Assertion Entities divert resources and investment away from true innovation and collaboration. We also recognize that a modern approach to technology development and innovation requires a level playing field around use of open source software. With membership of LOT and OIN, we are pleased to contribute to and extend the growing global community working together to reduce the PAE threat and lower barriers to use of open source technologies.  
+
+Lee BraineManaging Director, Chief Technology OfficeBarclays
+
+> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
+
+Robert DiCosmoFounder & CEOSoftware Heritage
+
+> At Shopify, we’ve built our platform on Ruby on Rails. We view open source software as a key foundation for our business. By joining the Open Invention Network, we have committed to patent non-aggression in core Linux and adjacent open source software. We believe that this commitment will promote innovation and help enable entrepreneurs and developers to build on open source foundations without focusing on the threat of litigation. We strongly encourage all forward-looking ecommerce platforms,… [Read more](https://openinventionnetwork.com/testimonial/shopify/ "Complete testimonial by Robert Guay")
+
+Robert GuaySenior Counsel, Intellectual PropertyShopify
+
+> Open source platforms enable the rapid deployment of advanced computing, storage and communications solutions. We recognize the value in shared innovation, a fundamental characteristic of open source communities. OIN membership is strategically important for YADRO in terms of patents management, R&D, marketing, and overall company reputation. Our participation in the OIN community demonstrates our commitment to support collaborative technology development and the ongoing success of the open sour… [Read more](https://openinventionnetwork.com/testimonial/yadro/ "Complete testimonial by Anna Egorova")
+
+Anna EgorovaChief Delivery Officer, YADRO
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
