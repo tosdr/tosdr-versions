@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Grauffel Tops 2024 USPSA Carry Optics Leaderboard, Hetherington Wins U.S. National Title](https://www.thegunpage.com/grauffel-tops-2024-uspsa-carry-optics-leaderboard-hetherington-wins-u-s-national-title/10612092)
 * [Is .357 Magnum Good For Self-Defense?](https://www.thegunpage.com/is-357-magnum-good-for-self-defense/10612087)
 * [6 Reasons Why the AR-15 is Better Than the Shotgun](https://www.thegunpage.com/6-reasons-why-the-ar-15-is-better-than-the-shotgun/10612086)
 * [New York bill would let police ‘briefly seize’ firearms during domestics](https://www.thegunpage.com/new-york-bill-would-let-police-briefly-seize-firearms-during-domestics/10612078)
@@ -190,7 +191,6 @@ Recent Posts
 * [Hawaii Gun Control Laws Targeting Young Adults Challenged](https://www.thegunpage.com/hawaii-gun-control-laws-targeting-young-adults-challenged/10612071)
 * [2024 Holiday Gift Guide: Shotguns](https://www.thegunpage.com/2024-holiday-gift-guide-shotguns/10612070)
 * [TFB Review: The Stinger OTF Knife from Backup Tactical](https://www.thegunpage.com/tfb-review-the-stinger-otf-knife-from-backup-tactical/10612066)
-* [POTD: The CZ P-10 C Or The Dumbbell?](https://www.thegunpage.com/potd-the-cz-p-10-c-or-the-dumbbell/10612063)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
