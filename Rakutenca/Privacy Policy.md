@@ -89,7 +89,7 @@ FR
         
         up to 16.5% Cash Back](https://www.rakuten.ca/crocs)[Allbirds
         
-        2% Cash Back](https://www.rakuten.ca/allbirds)[Moores
+        6% Cash Back](https://www.rakuten.ca/allbirds)[Moores
         
         7.5% Cash Back](https://www.rakuten.ca/moores)[Simons
         
@@ -223,7 +223,7 @@ FR
         
         up to 3% Cash Back](https://www.rakuten.ca/vistaprint-canada)[TSC
         
-        4.5% Cash Back](https://www.rakuten.ca/tsc)[Swarovski Canada
+        10% Cash Back](https://www.rakuten.ca/tsc)[Swarovski Canada
         
         2% Cash Back](https://www.rakuten.ca/swarovski-ca)[Mejuri
         
@@ -287,7 +287,7 @@ FR
         
         [Clinique
         
-        2% Cash Back](https://www.rakuten.ca/clinique)[Paula's Choice
+        6% Cash Back](https://www.rakuten.ca/clinique)[Paula's Choice
         
         10.5% Cash Back](https://www.rakuten.ca/paulas-choice)[Ray Ban
         
@@ -692,7 +692,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores.png)](https://www.rakuten.ca/new-stores)
+[![Earn 11% Cash Back from Rakuten.ca with Under Armour Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303725/en-stickyfooter-1170x60_ua.png "Under Armour Canada Coupons, Promo Codes")
+
+was 2%, now
+
+11% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/under-armour-canada?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
