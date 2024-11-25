@@ -223,40 +223,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
-    [10:00 Ozvezdja mnogoterih želja: ob vzhodnem obzorju, LJ](javascript:void(0);)
-    
-    **24.05.2024 | 10:00**
-    
-    Moderna galerija, Cankarjeva 15, Ljubljana
-    
-    **OZVEZDJA MNOGOTERIH ŽELJA: OB VZHODNEM OBZORJU** - razstava (23.5.-24.11.2024.)
-    
-    **Ala Younis**
-    
-    **Alia Farid**
-    
-    **Basim Magdy**
-    
-    **Essa Grayeb**
-    
-    **Free Palestine Poster Project**
-    
-    **KURS (Miloš Miletić & Mirjana Radovanović)**
-    
-    **Larry Achiampong**
-    
-    **Mona Rouhana Benyamin**
-    
-    **Nika Autor**
-    
-    **Laboratorij zbirke umetnosti neuvrščenih držav (Omar Bsoul, Kareem Dabbah, Inji Efflatoun, Mamdouh Kashlan, Choukri Mesli, Khudhair Shakirji)**
-    
-    kustosinji: Bojana Piškur (Moderna galerija) in Angelina Radaković (The Mosaic Rooms)
-    
-    organizacija: Moderna galerija, [The Mosaic Rooms](https://mosaicrooms.org/) London
-    
-    [https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzo...](https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzorju)
-    
     [10:00 Odprti globus, LJ](javascript:void(0);)
     
     **12.09.2024 | 10:00**
@@ -289,18 +255,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.cd-cc.si/kultura/razstave](https://www.cd-cc.si/kultura/razstave)
     
-    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
-    
-    **19.09.2024 | 10:00**
-    
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
-    
-    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
-    
-    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
-    
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
     [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
@@ -315,13 +269,15 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
-    [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
     
-    **20.09.2024 | 10:00**
+    **19.09.2024 | 10:00**
     
     **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
     
-    **[SLIKARSKA ZBIRKA MUZEJA ZA UMETNOST IN OBRT, ZAGREB](https://www.ng-slo.si/si/razstave-in-projekti/razstava/slikarska-zbirka-muzeja-za-umetnost-in-obrt-zagreb?id=5859)** - razstava (19.9.2024.-9.2.2025.)
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
@@ -337,14 +293,36 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarno...](https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarnost-2024)
     
+    [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
+    
+    **20.09.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **[SLIKARSKA ZBIRKA MUZEJA ZA UMETNOST IN OBRT, ZAGREB](https://www.ng-slo.si/si/razstave-in-projekti/razstava/slikarska-zbirka-muzeja-za-umetnost-in-obrt-zagreb?id=5859)** - razstava (19.9.2024.-9.2.2025.)
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
+    [16:00 Ričard Dikon, BG](javascript:void(0);)
+    
+    **20.09.2024 | 16:00**
+    
+    Galerija Dots, Bulevar vojvode Bojovića 4, Donji Kalemegdan, Beograd
+    
+    **RIČARD DIKON** (1945, Vels): **U POTRAZI ZA NEČIM** - izložba skulptura (19.9.-7.12.2024.)
+    
+    Kustoskinje izložbe: Mirjana Dušić i Ljuba Jovićević
+    
+    [https://dotsgallery.org/rs](https://dotsgallery.org/rs)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/arhiva-skc-beograd/remek-dela-savremene-srpske-umetnosti-od-1968-do-danas/marina-abramovic-ritam5.?itok=PMks21DK)](http://seecult.org/galerija/galerija-umetnika/arhiva-skc-beograd/remek-dela-savremene-srpske-umetnosti-od-1968-do-danas)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dus-gerzic-gera/radovi/portret-1-1992.jpg?itok=67kraYS3)](http://seecult.org/galerija/galerija-umetnika/dusan-gerzic-gera/radovi)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/dobitnici-yvaa/katarina-zdjelar-srbija.jpg?itok=J_ZofrVv)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/dobitnici-yvaa)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/gradac.jpg?itok=nowsQpp4)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -360,16 +338,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Uručenje nagrada UDUS-a](http://seecult.org/vest/urucenje-nagrada-udus)
+* [Voda kao metafora za transformaciju i obnovu](http://seecult.org/vest/voda-kao-metafora-za-transformaciju-i-obnovu)
+* [Decenija Pančevo film festivala](http://seecult.org/vest/decenija-pancevo-film-festivala)
+* [Srpski manastiri na Kosovu u sedištu Uneska](http://seecult.org/vest/srpski-manastiri-na-kosovu-u-sedistu-uneska)
 * [Bitno je šta vaše oči vide](http://seecult.org/vest/bitno-je-sta-vase-oci-vide)
 * [37\. Fashion Selection - od veterana do mladih dizajnera](http://seecult.org/vest/37-fashion-selection-od-veterana-do-mladih-dizajnera)
 * [Uručene specijalne nagrade FAF-a, omaž Paradžanovu](http://seecult.org/vest/urucene-specijalne-nagrade-faf-omaz-paradzanovu)
 * [Svečano otvoren 30. FAF - drugačiji pogled na svet](http://seecult.org/vest/svecano-otvoren-30-faf-drugaciji-pogled-na-svet)
 * [Upozorenje ICOMOS-a povodom nasleđa 20. veka u Beogradu](http://seecult.org/vest/upozorenje-icomos-povodom-nasleda-20-veka-u-beogradu)
 * [Nagrade, izložba i premijera Pučinija za Dan Narodnog pozorišta](http://seecult.org/vest/nagrade-izlozba-i-premijera-pucinija-za-dan-narodnog-pozorista)
-* [Milija Belić u izboru za nagradu Andre Evard](http://seecult.org/vest/milija-belic-u-izboru-za-nagradu-andre-evard)
-* [Mariborski Amadeus u JDP-u](http://seecult.org/vest/mariborski-amadeus-u-jdp-u)
-* [16\. Merlinka u Jugoslovenskoj kinoteci](http://seecult.org/vest/16-merlinka-u-jugoslovenskoj-kinoteci)
-* [Evropa Nostra Srbija - odbrana nasleđa i struke](http://seecult.org/vest/evropa-nostra-srbija-odbrana-nasleda-i-struke)
 
 * [Konkursi](#tab1_1)
 
