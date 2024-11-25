@@ -54,6 +54,14 @@
         
         ##### [](https://www.tunedglobal.com/streaming-services/music-licensing?hsLang=en)[Licensing](https://www.tunedglobal.com/streaming-services/music-licensing?hsLang=en)
         
+    * [![icon-menu-radio](https://www.tunedglobal.com/hubfs/icon-menu-radio.jpg)
+        
+        ##### Social Radio
+        
+        SDK that adds a social experience to music apps with live broadcasting and real-time interaction.](https://www.tunedglobal.com/streaming-services/social-radio-music-audio-app?hsLang=en)
+        
+        ##### [](https://www.tunedglobal.com/streaming-services/social-radio-music-audio-app?hsLang=en)[Social Radio](https://www.tunedglobal.com/streaming-services/social-radio-music-audio-app?hsLang=en)
+        
     
     #### Features
     
@@ -101,13 +109,13 @@
     
     #### [News & Press](https://blog.tunedglobal.com/news?hsLang=en)
     
+    [![](https://www.tunedglobal.com/hubfs/SocailRadio-PR-2.jpg)](https://blog.tunedglobal.com/news/social-radio-add-social-features-for-music-apps?hsLang=en)
+    
+    [Tuned Global offers a new Social Radio experience — turning listeners into creators](https://blog.tunedglobal.com/news/social-radio-add-social-features-for-music-apps?hsLang=en)
+    
     [![](https://www.tunedglobal.com/hubfs/image%20%281%29.png)](https://blog.tunedglobal.com/news/bartune-xtuned-global?hsLang=en)
     
     [BarTunes launches with Tuned Global as technical partner](https://blog.tunedglobal.com/news/bartune-xtuned-global?hsLang=en)
-    
-    [![](https://www.tunedglobal.com/hubfs/tunedglobal-soundstripe.jpg)](https://blog.tunedglobal.com/news/tuned-global-soundstripe-commercial-musi-licesing-for-video?hsLang=en)
-    
-    [Soundstripe and Tuned Global Partner to Streamline Commercial Music Licensing for Creators](https://blog.tunedglobal.com/news/tuned-global-soundstripe-commercial-musi-licesing-for-video?hsLang=en)
     
     [More News](https://blog.tunedglobal.com/news?hsLang=en)
     
@@ -237,6 +245,8 @@ You can find more information about privacy and the protection of your personal 
 
 * [HOME - B2B Music Streaming Technology to build streaming apps](https://www.tunedglobal.com/)
 * [BRANDED APP - White label streaming service for music, audio and video](https://www.tunedglobal.com/streaming-services/white-label-music)
+* [AUTOMIXIQ - Seamless song transitions for a professional DJ-like experience](https://www.tunedglobal.com/streaming-services/pacemaker-autmixiq-music-ai-dj)
+* [SOCIAL RADIO - Add live broadcasting and interaction to your music app](https://www.tunedglobal.com/streaming-services/social-radio-music-audio-app)
 * [CONTENT - Music content catalogue delivery, ingestion and metadata](https://www.tunedglobal.com/streaming-services/content-delivery)
 * [LICENSING - Music licensing consultancy for streaming services](https://www.tunedglobal.com/streaming-services/music-licensing)
 * [TECHNOLOGY - streaming backend infrastructure with AI recommendation engine](https://www.tunedglobal.com/streaming-technology)
@@ -266,7 +276,7 @@ USA
 
 ### Subscribe to our Newsletter
 
-Copyright © 2024 Tuned Global. Read our [Privacy Policy](https://www.tunedglobal.com/privacy-policy-statement-tuned-global) or [Contact Us](https://www.tunedglobal.com/contact?hsLang=en)
+Copyright © 2020 Tuned Global. Read our [Privacy Policy](https://www.tunedglobal.com/privacy-policy-statement-tuned-global) or [Contact Us](https://www.tunedglobal.com/contact?hsLang=en)
 
 * [ABOUT TUNED GLOBAL](https://www.tunedglobal.com/about-tuned-global-b2b-music)
 * [CAREER](mailto:hr@tunedglobal.com?Subject=WEBSITE%20-%20Job%20application)
