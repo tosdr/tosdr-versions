@@ -26,7 +26,7 @@
     
     * [Für Bestandskund\*innen](#)
         * [Zweit- und Partnerkarte](https://www.congstar.de/partnerkarte/)
-        * [Prepaid Treuevorteil](https://www.congstar.de/prepaid/treueangebot/)
+        * [Prepaid-Treuevorteil](https://www.congstar.de/prepaid/treueangebot/)
         * [Freund\*innen werben und sparen](https://www.congstar.de/freundeskreis/)
     
 * [Mobilfunk](https://www.congstar.de/handytarife/)
@@ -51,7 +51,7 @@
         * [Prepaid Allnet S (3 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-s/)
         * [Prepaid Allnet XS (1 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-xs/)
         * [Prepaid wie ich will (1 bis 15 GB)](https://www.congstar.de/prepaid/tarife/prepaid-wie-ich-will/)
-        * [Prepaid-Angebote für Bestandskund\*innen](https://www.congstar.de/prepaid/treueangebot/)
+        * [Prepaid-Treuevorteil für Bestandskund\*innen](https://www.congstar.de/prepaid/treueangebot/)
     
     * [Optionen](#)
         * [5G Option](https://www.congstar.de/handytarife/5g/)
