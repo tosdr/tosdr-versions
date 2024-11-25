@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/photography-julia-johnson-feature.jpg)
+
+[](https://theinspirationgrid.com/liquid-light-psychedelic-photos-by-julia-johnson/)
+
+### Liquid Light: Psychedelic Photos by Julia Johnson
+
+![](https://inspgr.id/app/uploads/2024/11/illustration-rafael-nobre-feature.jpg)
+
+[](https://theinspirationgrid.com/awesome-illustrations-by-rafael-nobre/)
+
+### Awesome Illustrations by Rafael Nobre
+
 ![](https://inspgr.id/app/uploads/2024/11/branding-the-brass-onion-feature.jpg)
 
 [](https://theinspirationgrid.com/the-brass-onion-branding-by-carpenter-collective/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/expect-the-unexpected-hyper-realistic-paintings-by-marc-dennis/)
 
 ### Expect the Unexpected: Hyper-Realistic Paintings by Marc Dennis
-
-![](https://inspgr.id/app/uploads/2024/11/lettering-mat-voyce-24-feature.jpg)
-
-[](https://theinspirationgrid.com/awesome-food-themed-lettering-by-mat-voyce/)
-
-### Awesome Food-Themed Lettering by Mat Voyce
-
-![](https://inspgr.id/app/uploads/2024/11/art-shinji-tsuchimochi-feature.jpg)
-
-[](https://theinspirationgrid.com/ukiyo-works-illustrations-by-shinji-tsuchimochi/)
-
-### Ukiyo Works: Illustrations by Shinji Tsuchimochi
 
 Awesome products for creatives
 ------------------------------
