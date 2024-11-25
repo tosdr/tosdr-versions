@@ -165,13 +165,13 @@
     
     Webinars
     
-    [![Thejas Sridhar](https://static.wingify.com/gcp/uploads/2024/02/image.png?tr=w-60,h-50)
-    
-    Improve Experimentation Velocity by a Leap with AI-Powered Optimization](https://vwo.com/webinars/improve-experiment-velocity-leap-ai-powered-optimization/)
-    
     [![Ajit Singh](https://static.wingify.com/gcp/uploads/2024/11/1516552969221.jpeg?tr=w-60,h-50)
     
     Supercharge Your HubSpot CRM: Unlocking Advanced CRO Capabilities with VWO Integration](https://vwo.com/webinars/supercharge-hubspot-crm-unlocking-advanced-cro-capabilities-vwo-integration/)
+    
+    [![Thejas Sridhar](https://static.wingify.com/gcp/uploads/2024/02/image.png?tr=w-60,h-50)
+    
+    Improve Experimentation Velocity by a Leap with AI-Powered Optimization](https://vwo.com/webinars/improve-experiment-velocity-leap-ai-powered-optimization/)
     
     [![Deborah O'Malley](https://static.wingify.com/gcp/uploads/2024/01/1680726941193.jpeg?tr=w-60,h-50)
     
