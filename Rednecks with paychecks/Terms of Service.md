@@ -1,8 +1,8 @@
 top of page
 
-![](https://static.wixstatic.com/media/611fb8_15d044fd80d949b1bebb567b852f34fb~mv2_d_1800_1391_s_2.jpg/v1/fill/w_288,h_223,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/611fb8_15d044fd80d949b1bebb567b852f34fb~mv2_d_1800_1391_s_2.jpg)
+![](https://static.wixstatic.com/media/611fb8_15d044fd80d949b1bebb567b852f34fb~mv2_d_1800_1391_s_2.jpg/v1/fill/w_288,h_223,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/611fb8_15d044fd80d949b1bebb567b852f34fb~mv2_d_1800_1391_s_2.jpg)
 
-[![rwp_logo_outline_red_no_border.png](https://static.wixstatic.com/media/611fb8_1343fd3c4ac645939c126a086538458f~mv2.png/v1/fill/w_149,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/rwp_logo_outline_red_no_border.png)](https://www.redneckswithpaychecks.com/)
+[![rwp_logo_outline_red_no_border.png](https://static.wixstatic.com/media/611fb8_1343fd3c4ac645939c126a086538458f~mv2.png/v1/fill/w_149,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/rwp_logo_outline_red_no_border.png)](https://www.redneckswithpaychecks.com/)
 
 * [ATTRACTIONS](https://www.redneckswithpaychecks.com/attractions)
 * [FAQS & RULES](https://www.redneckswithpaychecks.com/faq)
@@ -192,7 +192,7 @@ The limitations and prohibitions of liability set in this Section and elsewhere 
 
 As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
 
-[![rwp_logo_outline_red_no_border.png](https://static.wixstatic.com/media/611fb8_1343fd3c4ac645939c126a086538458f~mv2.png/v1/fill/w_53,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/rwp_logo_outline_red_no_border.png)](https://www.redneckswithpaychecks.com/)
+[![rwp_logo_outline_red_no_border.png](https://static.wixstatic.com/media/611fb8_1343fd3c4ac645939c126a086538458f~mv2.png/v1/fill/w_53,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/rwp_logo_outline_red_no_border.png)](https://www.redneckswithpaychecks.com/)
 
 * [](https://www.facebook.com/Redneckswithpaychecksoffroad/)
 * [](http://twitter.com/RWPoffroad)
