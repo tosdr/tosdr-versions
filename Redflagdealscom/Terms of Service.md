@@ -1,6 +1,6 @@
 [Toronto, ON](https://www.redflagdeals.com/in/?return_url=https%3A//www.redflagdeals.com/info/terms/)
 
-[](#)   [![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.338-hotfix/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")![](https://assets.rfdcontent.com/graphics/rfd/v33.36.338-hotfix/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com") ![Uniquely Canadian](https://assets.rfdcontent.com/graphics/rfd/v33.36.338-hotfix/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)[Login](#)
+[](#)   [![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.343/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")![](https://assets.rfdcontent.com/graphics/rfd/v33.36.343/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com") ![Uniquely Canadian](https://assets.rfdcontent.com/graphics/rfd/v33.36.343/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)[Login](#)
 
 [Login/ Create an account](#)
 
