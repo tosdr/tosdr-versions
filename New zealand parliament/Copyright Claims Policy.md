@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/52SCMA_EVI_94968_MA3283/manuel-pou-family-whanau-trust-supp-1/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_01579_2005/1579-2005-hon-bill-english-to-the-associate-minister/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/52SCMA_EVI_94968_MA3283/manuel-pou-family-whanau-trust-supp-1/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_01579_2005/1579-2005-hon-bill-english-to-the-associate-minister/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
