@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Hearthstone for the Holidays](https://www.somethingawful.com/art-of-warcraft/hearthstone-for-holidays/)
-* [Preview of Patch 1.10's New Itemization Changes](https://www.somethingawful.com/art-of-warcraft/preview-patch-110s/1/)
-* [Indigo Moms](https://www.somethingawful.com/awful-links/awful-link-3989/)
-* [October 15, 2007](https://www.somethingawful.com/forum-fridays/ff10-15-07/1/)
-* [Mario Gone Mad!](https://www.somethingawful.com/comedy-goldmine/mario-gone-mad/1/)
+* [Japanese Sleepers](https://www.somethingawful.com/photoshop-phriday/japanese-sleepers/1/)
+* [The Fast and Furious: From 27 to 65 Years In Under Two Weeks](https://www.somethingawful.com/news/fast-furious-from/)
+* [Lowtax's Injuries and Hair Troubles](https://www.somethingawful.com/news/lowtaxs-injuries-hair/)
+* [The Torturous Games Jimmy Fallon Will Make You Play in His Fiefdom of Hell](https://www.somethingawful.com/news/fallon-torture-hell/)
+* [Best Names For Boats II](https://www.somethingawful.com/news/funny-boat-names/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [The Awful Guide to Podcasting, Part 2](https://www.somethingawful.com/news/guide-podcasting-two/)
-* [I Hate You Page 227](https://www.somethingawful.com/cliff-yablonski/i-hate-you-227/)
-* [The Lost Transcripts of Mr. Wizard](https://www.somethingawful.com/news/mr-wizard-transcripts/1/)
-* [E-Meat Is E-Murder](https://www.somethingawful.com/news/emeat-is-emurder/)
-* [The Official Review of U2's "Songs of Innocence"](https://www.somethingawful.com/news/bono-apple-innocence/1/)
+* [Crazy Animated Ideas!](https://www.somethingawful.com/comedy-goldmine/animate-crazy-ideas/1/)
+* [Valid Reasons For Not Buying Transistor](https://www.somethingawful.com/video-game-article/transistor-valid-reasons/)
+* [The Men Must Pay for What They Did to the Footballs](https://www.somethingawful.com/news/football-deflate-patriots/)
+* [Video Game Article - 03/25/06](https://www.somethingawful.com/video-game-article/video-game-article-9/)
+* [Spout.ly: October’s Sour Sips](https://www.somethingawful.com/news/spoutly-october-sips/)
 
 [Random!](https://www.somethingawful.com/random/)
 
