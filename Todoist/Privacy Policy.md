@@ -14,7 +14,7 @@
 * [Careers](https://todoist.com/careers)
 * [Team](https://todoist.com/team)
 * [Press](https://todoist.com/press)
-* [Blog](https://blog.doist.com/)
+* [How we work](https://todoist.com/how-we-work)
 
 * Products
     
@@ -25,7 +25,7 @@
 * [Careers](https://todoist.com/careers)
 * [Team](https://todoist.com/team)
 * [Press](https://todoist.com/press)
-* [Blog](https://blog.doist.com/)
+* [How we work](https://todoist.com/how-we-work)
 
 Table of Contents
 
@@ -254,7 +254,7 @@ Company
 2. [Careers](https://todoist.com/careers)
 3. [Team](https://todoist.com/team)
 4. [Press](https://todoist.com/press)
-5. [Blog](https://todoist.com/blog)
+5. [How we work](https://todoist.com/how-we-work)
 
 * [Privacy](https://todoist.com/privacy)
 * [Terms](https://todoist.com/terms-of-service)
