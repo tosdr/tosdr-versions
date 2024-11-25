@@ -464,6 +464,8 @@ The failure of the Company to enforce any provision of these Terms and Condition
   
   
 
+ [![](/old/img/robot_pirate.png) ![](/img/blackfriday-2x-credits.png)](https://shortpixel.com/pricing-one-time)
+
 [About & team](https://shortpixel.com/about-and-team)
 
 [Contact](https://shortpixel.com/contact)
