@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. hacking
+1. excel
     
-2. javascript
+2. psychology
     
-3. project management
+3. French
     
 
 Popular subjects
 
-1. [Graphic Design
-    
-    4,355 courses](https://www.classcentral.com/subject/graphic-design)
-2. [Computer Science
+1. [Computer Science
     
     43,725 courses](https://www.classcentral.com/subject/cs)
-3. [Cybersecurity
+2. [Artificial Intelligence
     
-    16,885 courses](https://www.classcentral.com/subject/cybersecurity)
+    14,032 courses](https://www.classcentral.com/subject/ai)
+3. [Web Development
+    
+    13,782 courses](https://www.classcentral.com/subject/web-development)
 
 Popular courses
 
-1. [Max MSP Programming Course: Structuring Interactive Software for Digital Arts
+1. [Food as Medicine
     
-    Stanford University](https://www.classcentral.com/course/kadenze-max-msp-programming-course-structuring-interactive-software-for-digital-arts-6411)
-2. [Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron
+    Monash University](https://www.classcentral.com/course/food-as-medicine-5742)
+2. [Introduction to Animal Behaviour
     
-    Harvard University](https://www.classcentral.com/course/neuroscience-harvard-university-fundamentals-of-n-942)
-3. [Psychology of Personal Growth
+    Wageningen University](https://www.classcentral.com/course/animal-behavior-wageningen-university-research-in-6033)
+3. [ANIMATIONs
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
+    Banaras Hindu University](https://www.classcentral.com/course/swayam-animations-13880)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
