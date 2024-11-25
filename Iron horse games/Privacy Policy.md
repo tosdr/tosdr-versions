@@ -14,7 +14,7 @@ top of page
 
 Use tab to navigate through the menu items.
 
-![](https://static.wixstatic.com/media/3049d2_16cce2cac82c43628fcc30aeb6c9232b~mv2.jpg/v1/fill/w_980,h_421,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/3049d2_16cce2cac82c43628fcc30aeb6c9232b~mv2.jpg)
+![](https://static.wixstatic.com/media/3049d2_16cce2cac82c43628fcc30aeb6c9232b~mv2.jpg/v1/fill/w_980,h_421,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/3049d2_16cce2cac82c43628fcc30aeb6c9232b~mv2.jpg)
 
 Iron Horse Games’ Privacy Policy
 
