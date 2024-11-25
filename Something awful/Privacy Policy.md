@@ -205,23 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [September 3, 2007](https://www.somethingawful.com/forum-fridays/ff09-03-07/1/)
-* [Lookin' For Buds in All the Wrong Places](https://www.somethingawful.com/news/jo-buds-2/1/)
-* [A Robot's Day Off](https://www.somethingawful.com/comedy-goldmine/robots-day-off/1/)
-* [FanFiction.net, Incest Taboo and Jadakiss](https://www.somethingawful.com/weekend-web/fanfictionnet-incest-taboo/1/)
-* [Dragonmage](https://www.somethingawful.com/awful-links/awful-link-680/)
+* [The 10 Reasons We Will Never Review F.A.T.A.L.](https://www.somethingawful.com/dungeons-and-dragons/fatal-worst-rpg/1/)
+* [Let's improve landmarks](https://www.somethingawful.com/photoshop-phriday/lets-improve-landmarks/)
+* [In Defense of Gringo Star](https://www.somethingawful.com/garbage-day/gringo-star-dadrock/1/)
+* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
+* [The President Has Wood(en Statue)](https://www.somethingawful.com/photoshop-phriday/trump-wood-statue/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [The GBS Awful Fiction Writing Workshop (56k Okay)](http://forums.somethingawful.com/showthread.php?threadid=4076082 "The GBS Awful Fiction Writing Workshop (56k Okay)")
-
 ### Random Articles
 
-* [Dog & Cat - Catron Fashions](https://www.somethingawful.com/awful-links/awful-link-3383/)
-* [Was the Narration in Blade Runner Really That Bad?](https://www.somethingawful.com/news/blade-runner-narration/)
-* [How to Solve the Most Difficult Puzzles in the Witness](https://www.somethingawful.com/video-game-article/witness-puzzle-solution/)
-* [The Art of Menstruation](https://www.somethingawful.com/awful-links/awful-link-3279/)
-* [Something Awful's 2015 Game of the Year Awards](https://www.somethingawful.com/video-game-article/game-year-awards/)
+* [Inappropriate Soundtracks!](https://www.somethingawful.com/comedy-goldmine/inappropriate-movie-music/1/)
+* [Pinatas.com](https://www.somethingawful.com/awful-links/awful-link-2393/)
+* [Fake SA](https://www.somethingawful.com/news/fake-sa-2/)
+* [ADVENTURE PALACE](https://www.somethingawful.com/news/adventure-palace/)
+* [Celebrities, Wild Animals and Appliances!](https://www.somethingawful.com/photoshop-phriday/celebrities-animals-appliances/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
