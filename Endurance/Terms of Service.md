@@ -41,7 +41,7 @@ EN
 
 [Account Sign‑In](https://www.endurancewarranty.com/policy/) [See Your Price](https://buy.endurancewarranty.com/page?slugType=ecommerce_page_v2&slug=page-ecomm-manual-vehicle-entry-v2)
 
-Call for $300 off any new plan! [(800) 506-4640](tel:8005064640)
+Save $450 during Black Friday/Cyber Monday Sale! [(800) 506-4640](tel:8005064640)
 
 Offer Details
 =============
@@ -183,7 +183,7 @@ receive a confirmation email shortly.
 Skip the Wait! Call Now.
 ========================
 
-Speak with a vehicle protection plan specialist and get $300 off any new contract instantly.
+Speak with a vehicle protection plan specialist and get $450 off any new contract instantly.
 
 [Click to Call Now!](tel:800-304-3240) [Return to free quote form](#)
 
@@ -192,7 +192,7 @@ Speak with a vehicle protection plan specialist and get $300 off any new contrac
 Request your FREE quote now
 ---------------------------
 
-Call for $300 off any new plan!
+Save $450 during Black Friday/Cyber Monday Sale!
 
         
 
@@ -282,6 +282,23 @@ Send Message
 
 Δ
 
+Get this deal! Call now.
+------------------------
+
+Speak with a vehicle protection plan specialist and get **$450 off** any new contract instantly.
+
+Call **866-678-4172**
+
+**or scan the code below**
+
+![Scan to call 866-678-4172](https://www.endurancewarranty.com/wp-content/uploads/2024/10/QR8338170149-1.png)
+
+[Call 866-678-4172](tel:866-678-4172)
+
+No thanks, I'll continue unprotected
+
+![](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/wired_phone.webp)
+
 [![logo](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/logo-md.svg)](#)
 
 Request your FREE quote now
@@ -327,7 +344,7 @@ By clicking the button, you consent to Endurance using automated technology to c
 
 ![Endurance Warranty](https://www.endurancewarranty.com/wp-content/themes/endurancewarranty/images/logo.svg)
 
-To speak to a vehicle protection plan specialist and **save $300**
+To speak to a vehicle protection plan specialist and **save $450**
 
 **Scan the code below**
 
