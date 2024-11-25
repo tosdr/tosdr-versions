@@ -4,7 +4,7 @@
 
 **50% OFF** Annual Plan
 
-EARLY BLACK FRIDAY flash Sale
+BLACK FRIDAY flash Sale
 
 01 HR 12 Min 32 Sec
 
