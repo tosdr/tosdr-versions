@@ -1,4 +1,4 @@
- [![College Advisor logo](https://www.collegeadvisor.com/wp-content/themes/college-advisor/assets/images/ca-logo-blue.png) ![College Advisor logo icon](https://www.collegeadvisor.com/wp-content/themes/college-advisor/assets/images/icon.png)](https://www.collegeadvisor.com/)
+ [![College Advisor logo](data:image/svg+xml;nitro-empty-id=MTEwNDoyMTU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE5NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxOTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![College Advisor logo icon](data:image/svg+xml;nitro-empty-id=MTEwNToyMTM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.collegeadvisor.com/)
 
 [Primary Menu ☰](#primary-nav)
 
@@ -146,7 +146,7 @@ For arbitration claims that you assert against U.S. News in accordance with this
 
 This Arbitration Agreement will survive the termination of the relationship between you and U.S. News for any and all claims or disputes you or U.S. News have relating in any way to the services provided by U.S. News or your relationship with U.S. News.
 
-[![College Advisor logo](https://www.collegeadvisor.com/wp-content/themes/college-advisor/assets/images/ca-logo-blue.png)](https://www.collegeadvisor.com/)
+[![College Advisor logo](data:image/svg+xml;nitro-empty-id=MTQzMDoxNzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE5NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxOTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.collegeadvisor.com/)
 
 Personalized and effective college advising for high school students.
 
