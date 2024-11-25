@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/53SCHE_EVI_130084_HE32502/paula-ridder/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/52SCMA_EVI_94968_MA3283/manuel-pou-family-whanau-trust-supp-1/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/53SCHE_EVI_130084_HE32502/paula-ridder/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/sc/submissions-and-advice/document/52SCMA_EVI_94968_MA3283/manuel-pou-family-whanau-trust-supp-1/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
