@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
+* [Булочки из дрожжевого теста, с сыром, зеленью и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=149837)
+* [Торт с халвой и ореховым кремом](https://www.russianfood.com/recipes/recipe.php?rid=150322)
+* [Творожный рулет с орехами](https://www.russianfood.com/recipes/recipe.php?rid=150222)
+* [Говядина с шампиньонами в соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=150206)
+* [Рыба под томатным соусом с морковью и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=150137)
+* [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623)
 * [Пряники с глазурью](https://www.russianfood.com/recipes/recipe.php?rid=41461)
-* [Пирожки «Морозные»](https://www.russianfood.com/recipes/recipe.php?rid=106777)
 * [Соус из окорока](https://www.russianfood.com/recipes/recipe.php?rid=113505)
 * [Шницель из мерлузы](https://www.russianfood.com/recipes/recipe.php?rid=124)
 * [Завтрак из хека](https://www.russianfood.com/recipes/recipe.php?rid=573)
-* [Скриглики, запеченные с томатами](https://www.russianfood.com/recipes/recipe.php?rid=731)
-* [Капуста цветная, запеченная под соусом сливочным](https://www.russianfood.com/recipes/recipe.php?rid=799)
-* [Яблоки, фаршированные мясом цыпленка](https://www.russianfood.com/recipes/recipe.php?rid=926)
-* [Горячий паштет из курицы](https://www.russianfood.com/recipes/recipe.php?rid=930)
-* [Луковый пирог(Quiche aux oignons)](https://www.russianfood.com/recipes/recipe.php?rid=1153)
 
 |     |
 | --- |
@@ -179,6 +179,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Ещё быстрее, ещё вкуснее.) Лучшие рецепты БЫСТРЕЕ! №24-48](https://www.russianfood.com/reading/?post_id=22920) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/729/sm_728994.jpg)](https://www.russianfood.com/reading/?post_id=22920)
+
+Фрикадельки с лапшой быстрого приготовления. Рубленые котлеты из индейки с сыром. Салат с грушами и фетой. Куриная печень с грибами и тыквой. Крем-суп из кабачков с полентой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22920)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22920#comments) | 25.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -376,20 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174297#comments) | 22.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Гречка с курицей и тыквой (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174350) |     |
-
-[![Фото к рецепту: Гречка с курицей и тыквой (в духовке)](//img1.russianfood.com/dycontent/images_upl/755/sm_754209.jpg "Фото к рецепту: Гречка с курицей и тыквой (в духовке)")](https://www.russianfood.com/recipes/recipe.php?rid=174350)
-
-Отваренная до полуготовности гречка смешивается с куриным мясом, тыквой, помидорами и луком. Сметана добавляет сочность и нежный вкус, а укроп и специи – завлекающий аромат. Доводится блюдо до готовности в духовке. Если использовать готовую кашу, время приготовления значительно сократится.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174350)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174350#comments) | 22.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -472,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(108)
+(131)
