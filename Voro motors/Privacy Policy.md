@@ -1,8 +1,8 @@
 Γ
 
-                                                                   
+                                                                       Privacy Policy - VORO MOTORS                    
 
-Privacy Policy - VORO MOTORS                              
+       
 
 👉 [BLACK FRIDAY DEALS ARE HERE! CHECK THEM OUT NOW.](https://www.voromotors.com/en-gb/pages/black-friday-2024 "https://www.voromotors.com/en-gb/pages/black-friday-2024")
 
@@ -114,7 +114,6 @@ Menu
         * [Our Stories](https://www.voromotors.com/blogs/news)
         * [Partner Program](https://www.voromotors.com/pages/partner-program)
         * [Become a Dealer](https://www.voromotors.com/pages/retailer-enquiry)
-        * [Careers](https://www.voromotors.com/pages/career-opportunities)
         * [Contact Us](https://www.voromotors.com/pages/contact-us)
 * [Community](https://forum.voromotors.com/public/)
 * [Login](https://www.voromotors.com/customer_authentication/redirect?locale=en&region_country=US)
@@ -280,7 +279,6 @@ Continue Shopping
         * [Our Stories](https://www.voromotors.com/blogs/news)
         * [Partner Program](https://www.voromotors.com/pages/partner-program)
         * [Become a Dealer](https://www.voromotors.com/pages/retailer-enquiry)
-        * [Careers](https://www.voromotors.com/pages/career-opportunities)
         * [Contact Us](https://www.voromotors.com/pages/contact-us)
     
 * [Community](https://forum.voromotors.com/public/)
@@ -531,8 +529,6 @@ We partner with companies like Extend to ensure your order arrives to your doors
 * [Events](https://www.voromotors.com/pages/electric-scooter-group-ride-events)
     
 * [Media](mailto:media@voromotors.com)
-    
-* [Careers](https://www.voromotors.com/pages/career-opportunities)
     
 * [Contact us](https://www.voromotors.com/pages/contact-us)
     
