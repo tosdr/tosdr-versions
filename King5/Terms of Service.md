@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a7a01a8c-97f1-43d3-8211-a24acbf11cb1/20241125T012804/a7a01a8c-97f1-43d3-8211-a24acbf11cb1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a7a01a8c-97f1-43d3-8211-a24acbf11cb1/20241125T012804/a7a01a8c-97f1-43d3-8211-a24acbf11cb1_360x203.jpg)](https://www.king5.com/article/news/local/utility-crews-truck-broken-helping-bomb-cyclones-impact/281-d3bd7c4a-fd87-4b2d-9bb6-47916c0aebc7)
+        
+        #### [Utility truck broken into while crews were helping with bomb cyclone](https://www.king5.com/article/news/local/utility-crews-truck-broken-helping-bomb-cyclones-impact/281-d3bd7c4a-fd87-4b2d-9bb6-47916c0aebc7)
+        
     *  [![](https://media.king5.com/assets/KING/images/d258746f-a1cf-4ad1-b99e-fd19f2d07865/20241124T184348/d258746f-a1cf-4ad1-b99e-fd19f2d07865_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d258746f-a1cf-4ad1-b99e-fd19f2d07865/20241124T184348/d258746f-a1cf-4ad1-b99e-fd19f2d07865_360x203.jpg)](https://www.king5.com/article/news/local/seattle/capitol-hill-qfc-evacuated-after-fire-breaks-out-in-garage/281-b8ade6b2-63a7-4329-b9fa-1f686a30d2a6)
         
         #### [Capitol Hill QFC evacuated after fire breaks out in garage](https://www.king5.com/article/news/local/seattle/capitol-hill-qfc-evacuated-after-fire-breaks-out-in-garage/281-b8ade6b2-63a7-4329-b9fa-1f686a30d2a6)
-        
-    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-impacto-tormentas-de-viento/281-346bf558-59cb-44c6-bb26-595da672b22c)
-        
-        #### [Cinco Cosas: Impacto de las tormentas de viento, más tráfico durante Día de Acción de Gracias](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-impacto-tormentas-de-viento/281-346bf558-59cb-44c6-bb26-595da672b22c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7e86b805-0592-4ef1-b737-c4d977d53d13/20241124T043420/7e86b805-0592-4ef1-b737-c4d977d53d13_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7e86b805-0592-4ef1-b737-c4d977d53d13/20241124T043420/7e86b805-0592-4ef1-b737-c4d977d53d13_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
     *  [![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
         
         #### [Forecasts warn of possible winter storms across US during Thanksgiving week](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
+        
+    *  [![](https://media.king5.com/assets/KING/images/7e86b805-0592-4ef1-b737-c4d977d53d13/20241124T043420/7e86b805-0592-4ef1-b737-c4d977d53d13_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7e86b805-0592-4ef1-b737-c4d977d53d13/20241124T043420/7e86b805-0592-4ef1-b737-c4d977d53d13_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 47°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
