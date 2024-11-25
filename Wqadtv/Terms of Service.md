@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e05e2e83-87dd-4806-a9c2-bf960157fb60/20241105T043818/e05e2e83-87dd-4806-a9c2-bf960157fb60_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e05e2e83-87dd-4806-a9c2-bf960157fb60/20241105T043818/e05e2e83-87dd-4806-a9c2-bf960157fb60_360x203.jpg)](https://www.wqad.com/article/life/holidays/where-to-go-for-a-thanksgiving-meal-in-the-quad-cities-area/526-7f823ed0-419b-466e-bc5e-100c97d4de76)
+    *  [![](https://media.tegna-media.com/assets/KPNX/images/dd69aecd-9a3c-45d6-a35a-c7b04ae9751a/20241117T032159/dd69aecd-9a3c-45d6-a35a-c7b04ae9751a_16x9.jpg) ![](https://media.tegna-media.com/assets/KPNX/images/dd69aecd-9a3c-45d6-a35a-c7b04ae9751a/20241117T032159/dd69aecd-9a3c-45d6-a35a-c7b04ae9751a_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/whooping-cough-cases-west-prairie-macomb-school-districts-mcdonough-county-illinois/526-9ce500bf-56be-48f0-8631-5f2d97d1fa5d)
         
-        #### [What to know ahead of Mr. Thanksgiving's annual community meal](https://www.wqad.com/article/life/holidays/where-to-go-for-a-thanksgiving-meal-in-the-quad-cities-area/526-7f823ed0-419b-466e-bc5e-100c97d4de76)
+        #### [More whooping cough cases reported in McDonough County school districts](https://www.wqad.com/article/news/local/public-safety/whooping-cough-cases-west-prairie-macomb-school-districts-mcdonough-county-illinois/526-9ce500bf-56be-48f0-8631-5f2d97d1fa5d)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/39cb408d-432c-44a2-a1ae-8f1d5effad09/20241122T220701/39cb408d-432c-44a2-a1ae-8f1d5effad09_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/39cb408d-432c-44a2-a1ae-8f1d5effad09/20241122T220701/39cb408d-432c-44a2-a1ae-8f1d5effad09_360x203.jpg)](https://www.wqad.com/article/news/local/new-mural-downtown-silvis/526-1b265440-3888-49d3-8406-c4f1640cff79)
+    *  [![](https://media.tegna-media.com/assets/KSDK/images/4bff5869-446c-4487-9bcf-7ba051d37612/4bff5869-446c-4487-9bcf-7ba051d37612_16x9.jpeg) ![](https://media.tegna-media.com/assets/KSDK/images/4bff5869-446c-4487-9bcf-7ba051d37612/4bff5869-446c-4487-9bcf-7ba051d37612_360x203.jpeg)](https://www.wqad.com/article/news/local/rubys-downtown-davenport-closing-november/526-1a7bc81a-bdcb-45f2-abb2-a69720dcbfb1)
         
-        #### [New mural unveiled in downtown Silvis](https://www.wqad.com/article/news/local/new-mural-downtown-silvis/526-1b265440-3888-49d3-8406-c4f1640cff79)
+        #### [Ruby's closing in downtown Davenport](https://www.wqad.com/article/news/local/rubys-downtown-davenport-closing-november/526-1a7bc81a-bdcb-45f2-abb2-a69720dcbfb1)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-49°
+46°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
