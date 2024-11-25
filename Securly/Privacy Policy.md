@@ -58,11 +58,6 @@
         **Rhithm**
         
         Daily safety and wellness insights](https://www.securly.com/rhithm)
-    * [![Visitor](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/menu-visitor-logo.svg)
-        
-        **Visitor**
-        
-        School visitor management](https://www.securly.com/visitor)
     * [![Discern](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/discern-menu-new-icon.svg)
         
         **Discern**
@@ -603,7 +598,6 @@ United States
 * [Classroom](https://www.securly.com/classroom)
 * [MDM](https://www.securly.com/mdm)
 * [Home](https://www.securly.com/home-select)
-* [Visitor](https://www.securly.com/visitor)
 * [Reveal](https://www.securly.com/reveal)
 * [Rhithm](https://www.securly.com/rhithm)
 * [Pass](https://www.securly.com/pass)
