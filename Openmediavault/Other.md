@@ -31,6 +31,7 @@ Social
 * [YouTube](https://www.youtube.com/user/openmediavault)
 * [Mastodon](https://fosstodon.org/@openmediavault)
 * [X](https://x.com/OpenMediaVault)
+* [Bluesky](https://bsky.app/)
 * [RSS](https://www.openmediavault.org/?feed=atom)
 
 Resources
