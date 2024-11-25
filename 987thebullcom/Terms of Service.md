@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| I Never LieZach Top<br><br>10:37am |
-| God'S CountryBlake Shelton<br><br>10:34am |
-| Love You, Miss You, Mean ItLuke Bryan<br><br>10:31am |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:28am |
-| How Country FeelsRandy Houser<br><br>10:25am |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>4:39pm |
+| Just The WayParmalee Ft Blanco Brown<br><br>4:36pm |
+| Different 'Round HereRiley Green Ft Luke Combs<br><br>4:33pm |
+| Wagon WheelDarius Rucker<br><br>4:29pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>4:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Spanish • Western
+Sports • Midwest
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Country • Western
+Top 40 • Eastern
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
