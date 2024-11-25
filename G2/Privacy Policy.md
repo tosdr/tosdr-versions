@@ -75,49 +75,29 @@ We may use personal information as permitted by law, for the following business 
 
 * _To provide the Service and various functions of the Service._ When you create an account on the Site, we store and use the information you provide during that process. This may include your first and last name, email address, the company you work for, and any other information you may provide during the account creation process. We may, if you consent, publicly display your first name and last initial, as well as any other photo or content you supply as part of your account profile. We also store and use any preferences you provide to personalize your user experience, including the types of software services and products that you use. Any reviews or other content that you submit to the Site are intended for public display and are therefore viewable by the public, including but not limited to your first name and last initial, and photos associated with your account. You can limit the public nature of some of this information in your account settings.
     * _For this business purpose, we may use these categories of information:_ identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, audio and visual information, professional or employment information, inferences, sensitive personal information.
-    * _We keep this information for_: account lifetime
-    * _Our legal basis is_: performance of a contract in provisioning you with an account; consent where you agree to make certain information publicly available.
 * _To fulfill any contact requests you make on the Site._ When you request additional information on a certain third-party service or product listed on the Site, we will use the information you provide to connect you with the provider of that service or product.
     * _For this business purpose, we may use these categories of information:_ identifiers, professional or employment information.
-    * _We keep this information for_: 60 days
-    * _Our legal basis is_: performance of a contract where you engage us to pass your contact information to a third party in whom you have expressed interest.
 
 * _To engage in research and analysis related to the Site._ We store and use information to identify and fix errors, understand how visitors use the Site, research and test different features, and analyze how visitors arrive at and use the Site.
     * _For this business purpose, we may use these categories of information:_ identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, professional or employment information, inferences, browser.
-    * _We keep this information for_: 1 year
-    * _Our legal basis is_: legitimate interest in understanding how users are engaging with our Site.
 * _To personalize your experience._ We store and use information provided by you, such as the software products and services you use or have used, or are researching on the Site, to personalize and make recommendations to you based on your provided information.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, browser.
-    * _We keep this information for_: account lifetime
-    * _Our legal basis is_: legitimate interest to provide you with a better G2 experience.
 * _To improve and understand usage of the Site._ We store and use information about your use of the Site, such as your search activity, pages viewed, and the date, time and duration of your visits, to understand and improve usage of the Site.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, professional or employment information.
-    * _We keep this information for_: 60 days
-    * _Our legal basis is_: legitimate interest to improve our Site and develop new products.
 * _To provide feedback to third party businesses that are listed on the Site._ We store and use information about you or provided by you to assist our business partners in understanding their potential customers or current users.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, audio and visual information, professional or employment information, inferences.
     * _We keep this information for_: account lifetime
     * _Our legal basis is_: legitimate interest to serve our paying customers.
 * _To enhance the security of the Service._ We store and use information to ensure the security of the Service. For example, we use the information collected by certain cookies to determine if you are logged in and to detect unauthorized access to your account.
     * _For this business purpose, we may use these categories of information_: identifiers, internet or other electronic network or device activity information, geolocation data.
-    * _We keep this information for_: 1 year
-    * _Our legal basis is_: legitimate interest to prevent fraud and other security incidents.
 * _To send you emails about G2's products and services._ We use your email address to send informational and marketing emails to you about new products and services, or updates to existing products or services. We may also contact you regarding feedback you provide us, or to learn more about your experience using the Site. Where appropriate, G2 will only do this with your consent.
     * _For this business purpose, we may use these categories of information_: identifiers, internet or other electronic network or device activity information, geolocation data.
-    * _We keep this information for_: account lifetime
-    * _Our legal basis is_: legitimate interest to share updates with you, or consent.
 * _To serve you offsite advertisements, including targeted advertising._ We may serve advertisements for G2 products and services to you through our advertising partners, based on information you provide during your site visit. Where appropriate, G2 will only do this with your consent. G2 does not consider that our use of targeted advertising is likely to result in decisions that produce legal or similarly significant effects concerning you, the consumer. To check your settings, please review your [cookie preferences](#).
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, professional or employment information, internet or other electronic network or device activity information, browser.
-    * _We keep this information for_: 6 months
-    * _Our legal basis is_: legitimate interest in serving you offsite advertisements that may be of interest to you.
 * _To comply with legal obligations._ We use and share your personal information as necessary to respond to subpoenas, court orders, or other legal process; we also may use and share your personal information to establish or exercise our legal rights, to defend against legal claims, or as otherwise required by law. We may use and share your personal information when we believe it is necessary to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of G2, the Site visitors and registered users, our licensees, and others.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, audio and visual information, professional or employment information, inferences, sensitive personal information.
-    * _We keep this information for_: 2 years after the expiration of appeals
-    * _Our legal basis is_: compliance with a legal obligation, where the legal obligation exists in the EU or UK; legitimate interest, where the legal obligation exists outside of the EU or UK.
 * _In connection with a corporate transaction._ We may use and share your personal information in connection with a corporate transaction, such as a divestiture, investment, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, audio and visual information, professional or employment information, inferences, sensitive personal information.
-    * _We keep this information for_: account lifetime
-    * _Our legal basis is_: legitimate interest in conducting a corporate transaction.
 
 #### How We Share Your Information with Others
 
@@ -185,6 +165,24 @@ Subject to certain limitations, the GDPR provides you the following privacy righ
 * _Right to lodge a complaint with a supervisory authority._ If you consider that the processing of your personal information infringes your GDPR privacy rights, you have the right to [lodge a complaint with a supervisory authority](https://ec.europa.eu/newsroom/article29/items/612080), in the member state of your habitual residence, place of work, or place of the alleged infringement. For users located in the UK, you can [contact the Information Commissioner’s Office (ICO)](https://ico.org.uk/global/contact-us/).
 
 If you would like to submit a request to G2 to exercise your EU or UK privacy rights under the GDPR, you may do so either by submitting a request through our [privacy rights form](https://www.g2.com/privacy-request), or by emailing privacy \[at\] g2.com with your request.
+
+#### Legal Basis for Processing (EEA, Switzerland and United Kingdom only)
+
+Our legal basis for collecting and using your personal information will depend on the type of information and the context in which we collect it.
+
+However, we will normally collect personal information from you only in the following circumstances:
+
+* We have your express consent to do so;
+* We need the personal data to perform a contract with you; or
+* Processing is in our legitimate interests and is not overridden by your data protection interests or fundamental rights and freedoms.
+
+In some cases, we may also have a legal obligation to collect personal information from you to protect your vital interests or those of another person (for example, to prevent, investigate or identify possible wrongdoing in connection with the Site or to comply with legal obligations).
+
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will identify such basis for processing at the relevant time and let you know if the provision of your personal information is mandatory or not (as well as the possible consequences associated with not providing such information).
+
+If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will typically be to operate the Site, communicate with you in relation to your account or the Site, to solicit information from you, including through surveys, to share aggregated information with providers of listed products or services and other licensees of our research and report offerings, to measure interest in and improve our offerings and Site, to engage in marketing activities, and to otherwise customize your experience with G2.
+
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us at privacy \[at\] g2.com.
 
 * * *
 
