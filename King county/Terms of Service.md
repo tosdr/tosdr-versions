@@ -8,7 +8,7 @@ Nov
 
 * * *
 
-24](https://www.kingcounty.gov/en/calendar)
+25](https://www.kingcounty.gov/en/calendar)
 
 language English
 
