@@ -13,9 +13,9 @@
 * [Careers](http://www.ubeeinteractive.com/careers "Careers")
 * [Contact Us](http://www.ubeeinteractive.com/contact "Contact Us")
 
-Unlimited ​ Broadband with ​ Excellent Evolution
+Unifying Boundless Engineering and Environment
 
-We are on a mission to enhance the world of connectivity, simplifying the experience for service providers while delivering fast, reliable bandwidth for subscribers.
+Bringing Together Innovation and Sustainability to Transform Connectivity—Simplifying solutions for service providers while delivering fast, reliable bandwidth for subscribers.
 
 ABOUT US
 
