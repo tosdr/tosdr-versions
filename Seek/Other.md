@@ -288,56 +288,77 @@ Better job matches.
 
 Job seekers
 
-[Job search](https://www.seek.com.au/)[Profile](https://www.seek.com.au/profile)[Recommended jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Frecommended)[Saved searches](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fsaved-searches)[Saved jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fsaved-jobs)[Applied jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fapplied-jobs)[Career advice](https://www.seek.com.au/career-advice)[Explore careers](https://www.seek.com.au/career-advice/explore-careers)[Explore salaries](https://www.seek.com.au/career-advice/explore-salaries)[Explore companies](https://www.seek.com.au/companies)
-
+* [Job search](https://www.seek.com.au/)
+* [Profile](https://www.seek.com.au/profile)
+* [Recommended jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Frecommended)
+* [Saved searches](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fsaved-searches)
+* [Saved jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fsaved-jobs)
+* [Applied jobs](https://www.seek.com.au/oauth/login/?returnUrl=%2Fmy-activity%2Fapplied-jobs)
+* [Career advice](https://www.seek.com.au/career-advice)
+* [Explore careers](https://www.seek.com.au/career-advice/explore-careers)
+* [Explore salaries](https://www.seek.com.au/career-advice/explore-salaries)
+* [Explore companies](https://www.seek.com.au/companies)
 * Download apps
-
-* [Android](https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU)
-* [iOS](https://itunes.apple.com/au/app/seek-jobs/id520400855?mt=8)
-
+    
+    * [Android](https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU)
+    * [iOS](https://itunes.apple.com/au/app/seek-jobs/id520400855?mt=8)
+    
 * SEEK sites
-
-* [Employer site](https://talent.seek.com.au/)
-* [SEEK NZ](https://www.seek.co.nz/)
-* [Businesses for sale](https://www.seekbusiness.com.au/?site=au&tracking=sk%3Amain%3Aau%3Anav%3Abus)
-* [Volunteering](https://www.volunteer.com.au/?tracking=SKMAU%3Amain+header)
+    
+    * [Employer site](https://talent.seek.com.au/)
+    * [SEEK NZ](https://www.seek.co.nz/)
+    * [Businesses for sale](https://www.seekbusiness.com.au/?site=au&tracking=sk%3Amain%3Aau%3Anav%3Abus)
+    * [Volunteering](https://www.volunteer.com.au/?tracking=SKMAU%3Amain+header)
+    
 
 Employers
 
-[Register for free](https://talent.seek.com.au/)[Post a job ad](https://talent.seek.com.au/)[Products & prices](https://talent.seek.com.au/products/jobads)[Customer service](https://talent.seek.com.au/contactus)[Hiring advice](https://talent.seek.com.au/hiring-advice)[Market insights](https://talent.seek.com.au/market-insights)[Recruitment software partners](https://talent.seek.com.au/partners/connect-with-seek)
+* [Register for free](https://talent.seek.com.au/)
+* [Post a job ad](https://talent.seek.com.au/)
+* [Products & prices](https://talent.seek.com.au/products/jobads)
+* [Customer service](https://talent.seek.com.au/contactus)
+* [Hiring advice](https://talent.seek.com.au/hiring-advice)
+* [Market insights](https://talent.seek.com.au/market-insights)
+* [Recruitment software partners](https://talent.seek.com.au/partners/connect-with-seek)
 
 About us
 
-[About SEEK](https://www.seek.com.au/about)[Newsroom](https://www.seek.com.au/about/news)[Investors](https://www.seek.com.au/about/investors)[Careers](https://www.seek.com.au/work-for-seek)
-
+* [About SEEK](https://www.seek.com.au/about)
+* [Newsroom](https://www.seek.com.au/about/news)
+* [Investors](https://www.seek.com.au/about/investors)
+* [Careers](https://www.seek.com.au/work-for-seek)
 * International partners
-
-* [Bdjobs (Bangladesh)](https://www.bdjobs.com/)
-* [Jobsdb (SE Asia)](https://www.jobsdb.com/)
-* [Jobstreet (SE Asia)](https://www.jobstreet.com/)
-* [Jora (Australia)](https://au.jora.com/)
-* [Jora (Worldwide)](https://jora.com/)
-
+    
+    * [Bdjobs (Bangladesh)](https://www.bdjobs.com/)
+    * [Jobsdb (SE Asia)](https://www.jobsdb.com/)
+    * [Jobstreet (SE Asia)](https://www.jobstreet.com/)
+    * [Jora (Australia)](https://au.jora.com/)
+    * [Jora (Worldwide)](https://jora.com/)
+    
 * Partner services
-
-* [SEEK Pass](https://seekpass.co/)
-* [GradConnection](https://au.gradconnection.com/)
-* [Jora Local](https://www.joralocal.com.au/)
-* [Sidekicker](https://sidekicker.com/au/)
-* [GO1](https://www.go1.com/)
-* [FutureLearn](https://www.futurelearn.com/)
-* [JobAdder](https://jobadder.com/)
+    
+    * [SEEK Pass](https://seekpass.co/)
+    * [GradConnection](https://au.gradconnection.com/)
+    * [Jora Local](https://www.joralocal.com.au/)
+    * [Sidekicker](https://sidekicker.com/au/)
+    * [GO1](https://www.go1.com/)
+    * [FutureLearn](https://www.futurelearn.com/)
+    * [JobAdder](https://jobadder.com/)
+    
 
 Contact
 
-[Help centre](https://help.seek.com.au/s/)[Contact us](https://www.seek.com.au/contact-us)[Product & tech blog](https://medium.com/seek-blog)[SEEK videos](https://video.seek.com.au/)
-
+* [Help centre](https://help.seek.com.au/s/)
+* [Contact us](https://www.seek.com.au/contact-us)
+* [Product & tech blog](https://medium.com/seek-blog)
+* [SEEK videos](https://video.seek.com.au/)
 * Social
-
-* [Facebook](https://www.facebook.com/SEEK/)
-* [Instagram](https://www.instagram.com/seekau/)
-* [Twitter](https://twitter.com/seekjobs)
-* [YouTube](https://www.youtube.com/@SEEKJobs)
+    
+    * [Facebook](https://www.facebook.com/SEEK/)
+    * [Instagram](https://www.instagram.com/seekau/)
+    * [Twitter](https://twitter.com/seekjobs)
+    * [YouTube](https://www.youtube.com/@SEEKJobs)
+    
 
 Artwork of a gum leaf symbolising ‘welcome’ and acknowledging diverse countries, environments, communities, cultures, beliefs, and history.
 
