@@ -259,15 +259,15 @@ this week
 
 [Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
 
-[Hacking](https://www.sciencedaily.com/news/computers_math/hacking/)
-
 [Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
+
+[Neural Interfaces](https://www.sciencedaily.com/news/computers_math/neural_interfaces/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
+[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
 
-[Recycling and Waste](https://www.sciencedaily.com/news/earth_climate/recycling_and_waste/)
+[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
 [Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
