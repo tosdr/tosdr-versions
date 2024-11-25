@@ -190,9 +190,9 @@ Eesti keel
 
 English
 
-Lietuvių
-
 Polski
+
+Lietuvių
 
 Yandex Terms of Service
 =======================
@@ -335,9 +335,9 @@ Eesti keel
 
 English
 
-Lietuvių
-
 Polski
+
+Lietuvių
 
 [Next
 
@@ -351,9 +351,9 @@ Eesti keel
 
 English
 
-Lietuvių
-
 Polski
+
+Lietuvių
 
 [Yandex.Support homepage](https://yandex.com/legal)
 
