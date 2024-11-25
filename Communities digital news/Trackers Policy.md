@@ -54,9 +54,9 @@ Search for:
 
 [Nigerian brothers scoff at Jussie Smollett conviction being overturned – seek next Jake Paul ‘fight’](https://americanwirenews.com/nigerian-brothers-scoff-at-jussie-smollett-conviction-being-overturned-seek-next-jake-paul-fight/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rogersfox-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-puts-the-kibosh-on-rumors-about-unpopular-pick-as-fbi-boss/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bash-mullin-1200-x-628-1200x630.jpg)](https://americanwirenews.com/gop-senator-discredits-dems-dead-wrong-claim-that-tulsi-gabbard-is-a-putin-asset/)
 
-[Trump puts the kibosh on rumors about unpopular pick as FBI boss](https://americanwirenews.com/trump-puts-the-kibosh-on-rumors-about-unpopular-pick-as-fbi-boss/)
+[GOP senator discredits Dems ‘dead wrong’ claim that Tulsi Gabbard is a Putin asset](https://americanwirenews.com/gop-senator-discredits-dems-dead-wrong-claim-that-tulsi-gabbard-is-a-putin-asset/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2023/10/SG-SG-Trey-Gowdy-Matt-Gaetz-split-1200x630.jpg)
 
@@ -64,27 +64,23 @@ Search for:
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [NY Dem dubs Hochul ‘the new Joe Biden’ and begs party to learn from 2024 election](https://americanwirenews.com/ny-dem-dubs-hochul-the-new-joe-biden-and-begs-party-to-learn-from-2024-election/)
+### [Hilarious Greg Gutfeld dig suggests MSNBC stands for ‘must sell network before Christmas’](https://americanwirenews.com/hilarious-greg-gutfeld-dig-suggests-msnbc-stands-for-must-sell-network-before-christmas/)
 
-### [Trump could rescind Biden regime ban on term ‘illegal alien’](https://americanwirenews.com/trump-could-rescind-biden-regime-ban-on-term-illegal-alien/)
+### [Justin Trudeau swoons over Taylor Swift as violent riots rage in Montreal streets](https://americanwirenews.com/justin-trudeau-swoons-over-taylor-swift-as-violent-riots-rage-in-montreal-streets/)
 
-### [Hospital apologizes for serving free Chick-fil-A lunch, thanks employees who snitched](https://americanwirenews.com/hospital-apologizes-for-serving-free-chick-fil-a-lunch-thanks-employees-who-snitched/)
+### [‘You still got that Trump pump-on’: Hulk Hogan hints at possible role in incoming admin](https://americanwirenews.com/you-still-got-that-trump-pump-on-hulk-hogan-hints-at-possible-role-in-incoming-admin/)
 
-### [Disney yanks children’s cartoon about transgender athlete](https://americanwirenews.com/disney-yanks-childrens-cartoon-about-transgender-athlete/)
+### [Joy Reid just can’t help but spit venom at Trump supporters: ‘People are rightfully alarmed’](https://americanwirenews.com/joy-reid-just-cant-help-but-spew-venom-at-trump-supporters-people-are-rightfully-alarmed/)
 
-### [‘Panic’ at MSNBC as network parent announces big move](https://americanwirenews.com/panic-at-msnbc-as-network-parent-announces-big-move/)
+### [ICE official slams soft-on-crime Hochul after yet another wanted illegal alien arrested](https://americanwirenews.com/ice-official-slams-soft-on-crime-hochul-after-yet-another-wanted-illegal-alien-arrested/)
 
-### [Racist AOC wannabe Jasmine Crockett snubbed for House leadership spot](https://americanwirenews.com/racist-aoc-wannabe-jasmine-crockett-snubbed-for-house-leadership-spot/)
+### [Some express optimism after Gascón ousted, but warn LA officials are still on a ‘progressive warpath’](https://americanwirenews.com/some-express-optimism-after-gascon-ousted-but-warn-la-officials-are-still-on-a-progressive-warpath/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-senate-dems-220x180.jpg)](https://americanwirenews.com/dems-flip-flop-on-filibuster-highlights-unprincipled-obsession-with-trump/)
 
 [Dems flip flop on filibuster highlights unprincipled obsession with Trump](https://americanwirenews.com/dems-flip-flop-on-filibuster-highlights-unprincipled-obsession-with-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-bash-mullin-1200-x-628-220x180.jpg)](https://americanwirenews.com/gop-senator-discredits-dems-dead-wrong-claim-that-tulsi-gabbard-is-a-putin-asset/)
-
-[GOP senator discredits Dems ‘dead wrong’ claim that Tulsi Gabbard is a Putin asset](https://americanwirenews.com/gop-senator-discredits-dems-dead-wrong-claim-that-tulsi-gabbard-is-a-putin-asset/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mace-kinzinger-220x180.jpg)](https://americanwirenews.com/nancy-mace-beautifully-rips-troll-adam-kinzinger-over-trans-restroom-controversy/)
 
@@ -178,6 +174,10 @@ Jefferson County Sheriff's Office
 
 [Rand Paul gets lit up for dissent against plans for military to ’round-up illegals’](https://americanwirenews.com/rand-paul-gets-lit-up-for-dissent-against-plans-for-military-to-round-up-illegals/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-maddow-220x180.jpg)](https://americanwirenews.com/maddow-reportedly-gets-massive-pay-cut/)
+
+[Maddow reportedly gets massive pay cut](https://americanwirenews.com/maddow-reportedly-gets-massive-pay-cut/)
+
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
     SIGN ME UP!
@@ -264,9 +264,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fetterman-oz-1200x630.jpg)](https://americanwirenews.com/fetterman-names-condition-that-would-propel-him-to-confirm-dr-oz-for-cms-administrator/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jrubinmsnbc-1200-x-628-1200x630.jpg)](https://americanwirenews.com/msnbc-contributor-jen-rubin-takes-a-flamethrower-to-network-in-morning-joe-drubbing/)
 
-[Fetterman names condition that would propel him to confirm Dr. Oz for CMS administrator](https://americanwirenews.com/fetterman-names-condition-that-would-propel-him-to-confirm-dr-oz-for-cms-administrator/)
+[MSNBC contributor Jen Rubin takes a flamethrower to network in ‘Morning Joe’ drubbing](https://americanwirenews.com/msnbc-contributor-jen-rubin-takes-a-flamethrower-to-network-in-morning-joe-drubbing/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jrubinmsnbc-1200-x-628-220x180.jpg)](https://americanwirenews.com/msnbc-contributor-jen-rubin-takes-a-flamethrower-to-network-in-morning-joe-drubbing/)
+
+[MSNBC contributor Jen Rubin takes a flamethrower to network in ‘Morning Joe’ drubbing](https://americanwirenews.com/msnbc-contributor-jen-rubin-takes-a-flamethrower-to-network-in-morning-joe-drubbing/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fetterman-oz-220x180.jpg)](https://americanwirenews.com/fetterman-names-condition-that-would-propel-him-to-confirm-dr-oz-for-cms-administrator/)
 
@@ -287,10 +291,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [MTG proposes game-changing idea to resolve trans bathroom dilemma
 
 Getty Images](https://americanwirenews.com/mtg-proposes-game-changing-idea-to-resolve-trans-bathroom-dilemma/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-austin-220x180.jpg)](https://americanwirenews.com/def-sec-austin-toes-dei-line-says-women-in-military-make-us-stronger/)
-
-[Def Sec Austin toes DEI line, says women in military ‘make us stronger’](https://americanwirenews.com/def-sec-austin-toes-dei-line-says-women-in-military-make-us-stronger/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -320,9 +320,13 @@ Getty Images](https://americanwirenews.com/mtg-proposes-game-changing-idea-to-re
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-leno-1200x630.jpg)](https://americanwirenews.com/im-a-little-beat-up-injured-jay-leno-still-performs-at-comedy-show-after-falling-down-60-ft-hill/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/getty-bluesky-1200-x-628-1200x630.jpg)](https://americanwirenews.com/dems-bolt-x-for-bluesky-and-its-allegedly-already-full-of-pervs-and-pedos/)
 
-[‘I’m a little beat up’: Injured Jay Leno still performs at comedy show after falling down 60-ft hill](https://americanwirenews.com/im-a-little-beat-up-injured-jay-leno-still-performs-at-comedy-show-after-falling-down-60-ft-hill/)
+[Dems bolt X for Bluesky and it’s allegedly already full of pervs and pedos](https://americanwirenews.com/dems-bolt-x-for-bluesky-and-its-allegedly-already-full-of-pervs-and-pedos/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/getty-bluesky-1200-x-628-220x180.jpg)](https://americanwirenews.com/dems-bolt-x-for-bluesky-and-its-allegedly-already-full-of-pervs-and-pedos/)
+
+[Dems bolt X for Bluesky and it’s allegedly already full of pervs and pedos](https://americanwirenews.com/dems-bolt-x-for-bluesky-and-its-allegedly-already-full-of-pervs-and-pedos/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-leno-220x180.jpg)](https://americanwirenews.com/im-a-little-beat-up-injured-jay-leno-still-performs-at-comedy-show-after-falling-down-60-ft-hill/)
 
@@ -341,9 +345,5 @@ Getty Images](https://americanwirenews.com/mtg-proposes-game-changing-idea-to-re
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ibarra-220x180.jpg)](https://americanwirenews.com/laken-riley-murder-suspects-wife-placed-him-at-the-crime-scene/)
 
 [Laken Riley murder suspect’s wife placed him at the crime scene](https://americanwirenews.com/laken-riley-murder-suspects-wife-placed-him-at-the-crime-scene/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dana-bash-220x180.jpg)](https://americanwirenews.com/dana-bash-rips-anti-israel-group-that-confronted-her-at-synagogue-no-shame-no-decency-and-no-clue/)
-
-[Dana Bash rips anti-Israel group that confronted her at synagogue: ‘No shame, no decency, and no clue’](https://americanwirenews.com/dana-bash-rips-anti-israel-group-that-confronted-her-at-synagogue-no-shame-no-decency-and-no-clue/)
 
 © 2024. All Rights Reserved. American Wire News
