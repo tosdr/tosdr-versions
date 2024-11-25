@@ -489,7 +489,6 @@ Get to know us +
 Pay securely with +
 
 * footer.payment\_options.sofort
-* footer.payment\_options.paysafecard
 * footer.payment\_options.cartesbancaires
 * footer.payment\_options.mastercard
 * footer.payment\_options.visa
