@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/christmas-worksheet-a-musical-maths-puzzle/)
+ [](https://schoolsmusicmarket.com/product/rhythms-in-3-4/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/12-day-music-christmas-advent-calendar/)
+ [](https://schoolsmusicmarket.com/product/sort-the-eggs-easter-music-worksheet/)
 
 ###### Browse By Year/Grade
 
