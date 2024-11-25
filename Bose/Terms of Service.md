@@ -4,8 +4,6 @@ Early Black Friday Deals: Save up to 40% off bestsellers. [Shop](https://www.bos
 
 Exclusive Color Drop: Save $50 on Ultra Open Earbuds in new Sunset Iridescent. [Shop](https://www.bose.com/c/exclusives)
 
-Students score a special discount with ID.Me at checkout from 11/22-11/24. [Learn how](https://www.bose.com/idme-group-discounts-program)
-
 Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
 
 [Cancel](#)
