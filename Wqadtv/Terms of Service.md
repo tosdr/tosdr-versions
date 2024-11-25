@@ -30,7 +30,7 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KBMT/images/fb101b82-ece0-4981-a894-53cd3cfacd84/fb101b82-ece0-4981-a894-53cd3cfacd84_16x9.jpg) ![](https://media.tegna-media.com/assets/KBMT/images/fb101b82-ece0-4981-a894-53cd3cfacd84/fb101b82-ece0-4981-a894-53cd3cfacd84_360x203.jpg)](https://www.wqad.com/article/life/holidays/where-to-go-for-a-thanksgiving-meal-in-the-quad-cities-area/526-7f823ed0-419b-466e-bc5e-100c97d4de76)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e05e2e83-87dd-4806-a9c2-bf960157fb60/20241105T043818/e05e2e83-87dd-4806-a9c2-bf960157fb60_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e05e2e83-87dd-4806-a9c2-bf960157fb60/20241105T043818/e05e2e83-87dd-4806-a9c2-bf960157fb60_360x203.jpg)](https://www.wqad.com/article/life/holidays/where-to-go-for-a-thanksgiving-meal-in-the-quad-cities-area/526-7f823ed0-419b-466e-bc5e-100c97d4de76)
         
         #### [What to know ahead of Mr. Thanksgiving's annual community meal](https://www.wqad.com/article/life/holidays/where-to-go-for-a-thanksgiving-meal-in-the-quad-cities-area/526-7f823ed0-419b-466e-bc5e-100c97d4de76)
         
@@ -60,9 +60,9 @@ Navigation
         
         #### [Forecasts warn of possible winter storms across US during Thanksgiving week](https://www.wqad.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/214c90fc-faad-4bb5-b454-ea15e1874631/20241124T125814/214c90fc-faad-4bb5-b454-ea15e1874631_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/214c90fc-faad-4bb5-b454-ea15e1874631/20241124T125814/214c90fc-faad-4bb5-b454-ea15e1874631_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a4dfb40e-5b94-4bfd-8462-526da8ebbd80/20241125T001556/a4dfb40e-5b94-4bfd-8462-526da8ebbd80_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a4dfb40e-5b94-4bfd-8462-526da8ebbd80/20241125T001556/a4dfb40e-5b94-4bfd-8462-526da8ebbd80_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Warm today with a cold trend through the upcoming week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Cooler temperatures for Thanksgiving week](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-55°
+49°
 
-![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
