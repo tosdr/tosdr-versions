@@ -1,4 +1,4 @@
-Black Friday Deal is running 
+Black Friday Deal is running ![:fire:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f525@2x.png) Get +3 free months at a LOWER price – claim your discount now ![:fire:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f525@2x.png)
 
 [![](https://zoogvpn.com/wp-content/uploads/2021/09/zoog-vpn-logo-dark.png)](https://zoogvpn.com/)
 
@@ -102,8 +102,6 @@ Search
 * [My account](https://app.zoogvpn.com/sign-in)
 
 [Get ZoogVPN](https://app.zoogvpn.com/checkout)
-
-Black Friday Deal is running ![:fire:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f525@2x.png) Get +3 free months at a LOWER price – claim your discount now ![:fire:](https://a.slack-edge.com/production-standard-emoji-assets/14.0/apple-medium/1f525@2x.png)
 
 Refund Policy
 
