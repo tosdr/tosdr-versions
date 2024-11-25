@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Henry Venter
+Hugo van Sittert
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=23530823)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=88060060)  
+Firstweb Hosting & Design
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=103765700)  
-Highlands Auto Engineering
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=94949271)  
+Druce Digital
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=77846073)  
-OXYAIDER (PTY) LTD
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=153499641)  
+Chiron Medical Solutions
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=59051390)  
-NIMAWELL
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=195630532)  
+KTEN PARTS
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=108391108)  
-OrgChart Hosting Pty Ltd
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=15793634)  
+CLEVER STUDENTS
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=12275095)  
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=150006816)  
+FJW Security Cc
+
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=100442323)  
+Roekeloos Group
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=181058908)  
+NJR ICT Services (Pty) Ltd
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=192081238)  
+Vplay Letsheng Mall
+
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=75443544)  
+BD Maintenance
+
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=47248186)  
+Dr V Naik Consult
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=26718479)  
+Know Informatics
+
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=66467484)  
 Oukraal Merino's
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=116365611)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=34586839)  
+Blue Bulls Rugby Coaches Association
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=80749253)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=12445856)  
-Moulded Wax SA - The Candle Store
-
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=208679067)  
-ELLIE'S CLEANING CHICKS
-
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=76547729)  
-Wiselink Broadband Dundee
-
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=118304745)  
-Wiselink Broadband Pty Ltd
-
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=153295050)  
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=fa4dfd3070878a35477a0019d7c4eca6a3831343f8015bd11ebcad5d9dc8225a&c=150685270)  
 Desygn
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=161350564)  
-Digifax (Pty) Ltd trading as Digirent
-
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=1e5125165ed28036502313da6c2ec90fd80f9fd792265b9f8b2441acf5c496f7&c=148020700)  
-LEONARD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
