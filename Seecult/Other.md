@@ -255,6 +255,18 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.cd-cc.si/kultura/razstave](https://www.cd-cc.si/kultura/razstave)
     
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    
+    **19.09.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
     [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
@@ -269,15 +281,13 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
-    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
     
-    **19.09.2024 | 10:00**
+    **20.09.2024 | 10:00**
     
     **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
     
-    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
-    
-    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    **[SLIKARSKA ZBIRKA MUZEJA ZA UMETNOST IN OBRT, ZAGREB](https://www.ng-slo.si/si/razstave-in-projekti/razstava/slikarska-zbirka-muzeja-za-umetnost-in-obrt-zagreb?id=5859)** - razstava (19.9.2024.-9.2.2025.)
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
@@ -292,16 +302,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     Kustosinja razstave: Ana Mizerit
     
     [https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarno...](https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarnost-2024)
-    
-    [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
-    
-    **20.09.2024 | 10:00**
-    
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
-    
-    **[SLIKARSKA ZBIRKA MUZEJA ZA UMETNOST IN OBRT, ZAGREB](https://www.ng-slo.si/si/razstave-in-projekti/razstava/slikarska-zbirka-muzeja-za-umetnost-in-obrt-zagreb?id=5859)** - razstava (19.9.2024.-9.2.2025.)
-    
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
     [16:00 Ričard Dikon, BG](javascript:void(0);)
     
@@ -318,11 +318,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/arhiva-skc-beograd/border-disorder/border-disorder-dzoni-rackovic_0.?itok=JVeFdJDC)](http://seecult.org/galerija/galerija-umetnika/arhiva-skc-beograd/border-disorder)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/untitled-21.jpg?itok=uO-Uq9U0)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013/dscf3800.jpg?itok=D4rN7JAo)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pokondirena-tikva.jpg?itok=7VXexiaH)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
