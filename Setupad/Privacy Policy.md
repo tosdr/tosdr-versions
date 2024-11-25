@@ -83,15 +83,9 @@ For any questions or concerns regarding the Privacy Policy and use of the Websit
 
 Products
 
-[Setupad Self-Serve](https://setupad.com/setupad-self-serve/)
+[Header Bidding Wrapper](https://setupad.com/privacy-policy/)
 
-[Setupad Bidder](https://setupad.com/setupad-bidder/)
-
-[Setupad Managed Prebid](https://setupad.com/managed-prebid/)
-
-[CMP](https://setupad.com/cmp/)
-
-[WordPress Plugin](https://setupad.com/wordpress-plugin/)
+[Header Bidding SaaS](https://setupad.com/privacy-policy/)
 
 Learn
 
@@ -99,9 +93,7 @@ Learn
 
 [Webinars](https://setupad.com/webinars/)
 
-[FAQ](https://setupad.com/faq/)
-
-[Newsletter](https://setupad.com/sign-up-newsletter/)
+[FAQ](https://setupad.com/faqs/)
 
 About
 
@@ -126,8 +118,8 @@ Socials
 
 * * *
 
-![gcpp logo](https://setupad.com/wp-content/themes/setupad/assets/img/gcpp_logo.png) ![prebid member badge](https://setupad.com/wp-content/themes/setupad/assets/img/prebid-member-badge.svg) ![iab logo](https://setupad.com/wp-content/themes/setupad/assets/img/iab_logo_cmp.png?v=1) ![tag registered logo](https://setupad.com/wp-content/themes/setupad/assets/img/tag_registered_logo.png)
+© 2013 - 2024 [Setupad.com](https://setupad.com/) SETUPAD Inc. All Rights reserved.
 
-© 2015 - 2024 [Setupad.com](https://setupad.com/) SETUPAD Inc. All Rights reserved.
+![tag registered logo](https://setupad.com/wp-content/themes/setupad/assets/img/tag_registered_logo.png) [![aa bisnode score logo](https://setupad.com/wp-content/themes/setupad/assets/img/bisnode_logo_landscape_w.png?v=5)](https://aaa.creditreports.lv/en/company/40103877815/)
 
  [![message icon](https://setupad.com/wp-content/themes/setupad/assets/img/message-icon-small.svg) ![message icon big](https://setupad.com/wp-content/themes/setupad/assets/img/message-icon-big.svg)](https://setupad.com/contact/)
