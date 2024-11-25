@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
+* [How to find the logs in Backup4all](https://www.backup4all.com/how-to-find-the-logs-in-backup4all-kb.html)  
     
-* [Backup demo](https://www.backup4all.com/backup-demo-kb.html)  
+* [How to schedule a backup job or backup tag to ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-to-run-at-system-shutdown-kb.html)  
     
-* [How to backup your data to T Cloud](https://www.backup4all.com/how-to-backup-your-data-to-t-cloud-kb.html)  
+* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
     
-* [How to backup your data to Revera](https://www.backup4all.com/how-to-backup-your-data-to-revera-kb.html)  
+* [Differential backup](https://www.backup4all.com/differential-backup-kb.html)  
     
-* [How to get a daily report with all backup exe ...](https://www.backup4all.com/how-to-get-a-daily-report-with-all-backup-executions-kb.html)  
+* [How to schedule a backup job or backup tag wi ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-without-using-backup4ll-kb.html)  
     
 
 Choose language:
