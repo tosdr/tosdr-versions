@@ -665,6 +665,7 @@ Follow us
 * [Support](https://www.combell.com/en/support "Combell Support")
 * [Our customers](https://www.combell.com/en/about-combell/our-customers "Overview of the Combell Cases")
 * [ISO certified](https://www.combell.com/en/about-combell/iso-certificate-hosting "ISO certified")
+* [Sustainability](https://www.combell.com/en/about-combell/green-hosting "Combell sustainability")
 * [Blog](https://www.combell.com/en/blog/ "Combell Blog")
 * [E-books](https://www.combell.com/en/resources/ebooks "Combell e-books – Learn new things by reading our e-books")
 * [Affiliate](https://www.combell.com/en/affiliate "Combell Affiliate Program")
