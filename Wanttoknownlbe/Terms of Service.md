@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/rectificatie-pauw-911-foto-george-van-houts/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/space-weather-ineens-heel-actueel/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
