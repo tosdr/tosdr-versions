@@ -2,10 +2,10 @@
 
 * Es noticia:
 * [Athletic de Bilbao - Real Sociedad](https://www.marca.com/futbol/laliga-ea-sports/athletic-real-sociedad/2024/11/24/01_0101_20241124_174_188-directo.html)
+* [Piqué](https://www.marca.com/futbol/seleccion/2024/11/24/gerard-pique-lopetegui-sergio-ramos-me-dijeron-debia-pedir-perdon.html)
 * [Leganés - Real Madrid](https://www.marca.com/futbol/laliga-ea-sports/leganes-r-madrid/2024/11/24/01_0101_20241124_957_186-directo.html)
 * [Fede Valverde](https://www.marca.com/futbol/real-madrid/opinion/2024/11/24/valverde-capitan-trueno.html)
 * [Vinicius](https://www.marca.com/radio/2024/11/24/67436d90ca4741aa318b4571.html)
-* [Athletic - Real Sociedad horario](https://www.marca.com/futbol/primera-division/2024/11/24/athletic-real-sociedad-hora-ver-hoy-tv-partido-laliga-ea-sports.html)
 * [Elche - Oviedo](https://www.marca.com/futbol/laliga-hypermotion/elche-oviedo/2024/11/24/01_0102_20241124_954_187-directo.html)
 * [Huesca - Castellón](https://www.marca.com/futbol/laliga-hypermotion/huesca-castellon/2024/11/24/01_0102_20241124_2894_2500-directo.html)
 * [Tyson Fury](https://www.marca.com/boxeo/2024/11/24/nuevo-tyson-fury-deja-asombrados-fans-cambio-fisico-grande.html)
