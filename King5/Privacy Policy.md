@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a7a01a8c-97f1-43d3-8211-a24acbf11cb1/20241125T012804/a7a01a8c-97f1-43d3-8211-a24acbf11cb1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a7a01a8c-97f1-43d3-8211-a24acbf11cb1/20241125T012804/a7a01a8c-97f1-43d3-8211-a24acbf11cb1_360x203.jpg)](https://www.king5.com/article/news/local/utility-crews-truck-broken-helping-bomb-cyclones-impact/281-d3bd7c4a-fd87-4b2d-9bb6-47916c0aebc7)
+    *  [![](https://media.king5.com/assets/KING/images/f7b33c33-f018-4ef8-b70d-4cff174cec44/20241120T155735/f7b33c33-f018-4ef8-b70d-4cff174cec44_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f7b33c33-f018-4ef8-b70d-4cff174cec44/20241120T155735/f7b33c33-f018-4ef8-b70d-4cff174cec44_360x203.jpg)](https://www.king5.com/article/news/local/97-of-puget-sound-energy-customers-have-power-bomb-cyclone/281-2d72b421-b107-4150-a125-459b47193728)
         
-        #### [Utility truck broken into while crews were helping with bomb cyclone](https://www.king5.com/article/news/local/utility-crews-truck-broken-helping-bomb-cyclones-impact/281-d3bd7c4a-fd87-4b2d-9bb6-47916c0aebc7)
+        #### [Power restored to majority of Puget Sound Energy customers days after bomb cyclone](https://www.king5.com/article/news/local/97-of-puget-sound-energy-customers-have-power-bomb-cyclone/281-2d72b421-b107-4150-a125-459b47193728)
         
-    *  [![](https://media.king5.com/assets/KING/images/d258746f-a1cf-4ad1-b99e-fd19f2d07865/20241124T184348/d258746f-a1cf-4ad1-b99e-fd19f2d07865_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d258746f-a1cf-4ad1-b99e-fd19f2d07865/20241124T184348/d258746f-a1cf-4ad1-b99e-fd19f2d07865_360x203.jpg)](https://www.king5.com/article/news/local/seattle/capitol-hill-qfc-evacuated-after-fire-breaks-out-in-garage/281-b8ade6b2-63a7-4329-b9fa-1f686a30d2a6)
+    *  [![](https://media.king5.com/assets/KING/images/fa378781-b504-44e9-b849-18f2028a91f2/20241125T050348/fa378781-b504-44e9-b849-18f2028a91f2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fa378781-b504-44e9-b849-18f2028a91f2/20241125T050348/fa378781-b504-44e9-b849-18f2028a91f2_360x203.jpg)](https://www.king5.com/article/news/local/expect-heavy-traffic-increased-patrols-washington-holiday-travel/281-bb61008b-4d7d-4206-9bd7-c62271efdca3)
         
-        #### [Capitol Hill QFC evacuated after fire breaks out in garage](https://www.king5.com/article/news/local/seattle/capitol-hill-qfc-evacuated-after-fire-breaks-out-in-garage/281-b8ade6b2-63a7-4329-b9fa-1f686a30d2a6)
+        #### [Expect heavy traffic, increased patrols in Washington as holiday travel ramps up](https://www.king5.com/article/news/local/expect-heavy-traffic-increased-patrols-washington-holiday-travel/281-bb61008b-4d7d-4206-9bd7-c62271efdca3)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/ecadf625-1f4c-49e9-92f3-b1a8064a77ae/20241125T062043/ecadf625-1f4c-49e9-92f3-b1a8064a77ae_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ecadf625-1f4c-49e9-92f3-b1a8064a77ae/20241125T062043/ecadf625-1f4c-49e9-92f3-b1a8064a77ae_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
         
         #### [Forecasts warn of possible winter storms across US during Thanksgiving week](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
-        
-    *  [![](https://media.king5.com/assets/KING/images/7e86b805-0592-4ef1-b737-c4d977d53d13/20241124T043420/7e86b805-0592-4ef1-b737-c4d977d53d13_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7e86b805-0592-4ef1-b737-c4d977d53d13/20241124T043420/7e86b805-0592-4ef1-b737-c4d977d53d13_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-47°
+45°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
