@@ -31,7 +31,7 @@ Get 93% off on FastestVPN **+** 2TB Internxt Encrypted Cloud Storage & PassHulk 
     * [Microsoft Edge Extension](https://fastestvpn.com/download/edge-vpn-extension)
 * [blog](https://fastestvpn.com/blog/ "blog")
 * [support](https://support.fastestvpn.com/ "Support")
-* my account
+* My account
 [buy now](https://fastestvpn.com/buy-vpn "Buy VPN")
 
 * [Login](https://fastestvpn.com/login "My Account")
