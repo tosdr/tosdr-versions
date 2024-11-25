@@ -240,25 +240,23 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### DNSSEC
+#### Great Users
 
   
 
-#### Our redundant DNS solution is fully supported with DNSSEC
+![Partner](/content/images/content/strip/medicoweb.com.png)
 
   
 
-  
-
-[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
-  
+![Partner](/content/images/content/strip/mediastar.id.png)
 
   
 
-[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
-  
+![Partner](/content/images/content/strip/businesspcsupport.com.png)
 
   
+
+![Partner](/content/images/content/strip/erp-sarajevo.com.png)
 
 ### News
 
