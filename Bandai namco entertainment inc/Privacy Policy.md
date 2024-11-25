@@ -122,5 +122,4 @@ SNS
 * [![テイルズチャンネル+](/img/common/bnr_talesch.jpg)](https://tales-ch.jp/)
 * [![【公式】アイドルマスター ポータル（アイマス）](/img/common/bnr_imas.png?20230306)](https://idolmaster-official.jp/)
 * [![ACES WEB エースコンバットシリーズ公式サイト](/img/common/bnr_aces.jpg)](https://www.acecombat.jp/)
-* [![PROJECT SOUL OFFICIAL WEB SITE](/img/common/bnr_soul.jpg)](https://projectsoul.bn-ent.net/)
 * [![ゴッドイーター オフィシャルウェブ](/img/common/bnr_goteater.png)](https://www.godeater.jp/)
