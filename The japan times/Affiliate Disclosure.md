@@ -207,9 +207,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,23 +251,19 @@ Latest News
 
 [Japan and Italy to share fuel and ammo under new logistics deal](https://www.japantimes.co.jp/news/2024/11/25/japan/japan-italy-acsa/ "Japan and Italy to share fuel and ammo under new logistics deal")
 
-3 hours ago
+8 hours ago
 
 [Mercari to enhance item verification process to check frauds](https://www.japantimes.co.jp/business/2024/11/25/companies/mercari-frauds-verification-process/ "Mercari to enhance item verification process to check frauds")
 
-4 hours ago
+10 hours ago
 
 [Yamanashi Prefecture plans to raise entry fee for Mount Fuji climbers](https://www.japantimes.co.jp/news/2024/11/25/japan/mount-fuji-yamanashi-fee-increase/ "Yamanashi Prefecture plans to raise entry fee for Mount Fuji climbers")
 
-4 hours ago
+10 hours ago
 
 [Osaka court upholds 18-year sentence for murder of ALS patient](https://www.japantimes.co.jp/news/2024/11/25/japan/crime-legal/als-patient-murder-trial/ "Osaka court upholds 18-year sentence for murder of ALS patient")
 
-6 hours ago
-
 [93-year-old inmate imprisoned over fatal Tokyo car crash dies](https://www.japantimes.co.jp/news/2024/11/25/japan/crime-legal/ikebukuro-car-crash-inmate-dies/ "93-year-old inmate imprisoned over fatal Tokyo car crash dies")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
