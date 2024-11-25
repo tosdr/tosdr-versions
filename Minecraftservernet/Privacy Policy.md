@@ -29,17 +29,15 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
+[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -](https://minecraft-server.net/details/whoocraft/ "(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![StarlightVanilla](plugins/MineCraft/icons/25x25xStarlightVanilla_1709993469.png.pagespeed.ic.z7HQX3Tv5_.jpg)
 
-1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
+VPG | Modern Anarchy](https://minecraft-server.net/details/StarlightVanilla/ "VPG | Modern Anarchy")[![Nekonecny_pribeh](plugins/MineCraft/icons/25x25xNekonecny_pribeh_1716904567.png.pagespeed.ic.eqSFnj3yeR.png)
 
-Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+Nekonečný příběh](https://minecraft-server.net/details/Nekonecny_pribeh/ "Nekonečný příběh") [BuildixMC](https://minecraft-server.net/details/Buildix1/ "BuildixMC")[![KoalaServers](plugins/MineCraft/icons/25x25xKoalaServers_1732005494.png.pagespeed.ic.D0QllTPRc1.png)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![Lifelink](plugins/MineCraft/icons/25x25xLifelink_1731729199.png.pagespeed.ic.OSXJLM33D2.jpg)
-
-Lifelink](https://minecraft-server.net/details/Lifelink/ "Lifelink")
+KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!](https://minecraft-server.net/details/KoalaServers/ "KoalaServers | 1.21, Survival, Creative, Land Claiming, Anti-Grief, Economy, Ranks, Player Shops, McMMO, Jobs!")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +140,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06586 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05963 - Created by [Debaucus](https://debauc.us/)
