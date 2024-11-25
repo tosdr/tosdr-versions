@@ -155,7 +155,7 @@ If you have any questions about privacy and our data policies or believe that th
 * [ไทย](https://th.savefrom.net/233/)
 * [Türkçe‬](https://tr.savefrom.net/250CA/)
 * [Українська‬](https://uk.savefrom.net/217/)
-* [Tiếng Việt](https://vi.savefrom.net/243/)
+* [Tiếng Việt](https://vi.savefrom.net/244Dt/)
 * [简体中文](https://zh.savefrom.net/226/)
 
 ![](/img/logo_small2.svg)
