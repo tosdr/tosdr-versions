@@ -1,12 +1,3 @@
-Windstorm Update:  
-\-Newcastle Primary Care, Fairwood Primary Care, and Newcastle Dermatology are CLOSED today (Friday 11/22). Power was restored this afternoon and these clinics plan to reopen Monday.  
-\-All other clinics, including Maple Valley Urgent Care, are OPEN with appointments proceeding as scheduled.  
-\-Our hospital is fully functional. The Emergency Department is extremely busy. Consider urgent care for non-emergent needs. Not sure if you need Emergency, Urgent, or Primary Care? Go to valleymed.org/where2go.  
-\-We continue to experience high call volume. Cancel or reschedule online at mychart.valleymed.org. If you have an impacted appointment, your care team will contact you.  
-\-Thank you for your patience as we make sure our staff and patients are safe. 
-
-![dismiss-icon](/globalassets/valley-medical/images/icons/dismiss-icon.svg)
-
 [![uwm-vmc-logo.024c223a](/globalassets/valley-medical/images/uwm-vmc-logo.024c223a.svg)](https://www.valleymed.org/) [![uwm-vmc-logo.024c223a](/contentassets/061a7d3df7f84affbaf7a9d5f8e2ab18/uw-mobile-logo.png)](https://www.valleymed.org/)
 
 * [Urgent Care Wait Times](https://www.valleymed.org/services/urgent-care)
