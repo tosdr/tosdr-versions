@@ -76,18 +76,34 @@ Cookies are small data files sent to your browser when you visit a site. We use 
 •Remember preferences and settings  
 •Better understand how people are using our services, and improve and promote those services based on that information  
   
-You may opt to disable cookies by clicking on the cookies notice at the top of our website and adjusting the settings in your browser. However if you choose this, some website functionality may be impaired.
+You can manage your cookie preferences by clicking on 'Cookie Settings' at the bottom right of our website or adjusting settings in your browser to opt-out of cookies. However, choosing to do so may limit certain website functionalities.  
+  
+Please note: Necessary cookies, essential for the proper operation of the website, are set without requiring your permission. Other types of cookies need your consent before they can be set; however, opting out may also reduce certain website functionalities.  
 
-Third-party tracking cookies and advertising/analytics services
----------------------------------------------------------------
+Third-Party Analytics, Advertising and Functionality Tracking Cookies
+---------------------------------------------------------------------
 
-Additionally, we use tracking cookies from other companies. These tracking cookies allow us to recognize you on third-party websites, and enable us to show you personalized content there. For example, if you visit one of our website pages, you may later see an ad for Aorus or GIGABYTE products when you visit a tech news site.  
-The third party tracking cookies and advertising/analytics services we use are:  
-• Google Analytics :For information about Google Analytics currently available opt-outs, please click [here](https://tools.google.com/dlpage/gaoptout/) .  
-• Google Adwords :With [Ads Settings](http://www.google.com/settings/ads) , users can opt out of personalized ads, including remarketing.  
-• Facebook Pixels :If you don't want Facebook to use information based on your activity on websites or apps off Facebook for the purpose of showing you ads, you can opt out in your [ad settings](https://www.facebook.com/settings/?tab=ads) .  
-• Yandex Metrica :To prohibit all the sites that you visit from sending data to Yandex.Metrica, install the [Yandex.Metrica blocker](https://yandex.com/support/metrica/general/opt-out.html#opt-out) .  
-• Hotjar :Hotjar is a technology service that helps us better understand our users' experience (eg how much time they spend on which pages, which links they choose to click, what users do and don't like, etc.) and this enables us to build and maintain our service with user feedback. For information on how to opt out of being tracked by Hotjar, please click [here](https://www.hotjar.com/privacy/do-not-track/) .
+Unless you choose to turn off Analytics, Advertising and/or Functionality cookies, our website utilizes tracking cookies from other third parties. Analytics cookies collect data about how you interact with our website, this data helps us improve and enhance your experience for our website. Advertising cookies allow us to recognize you on third-party websites, and enable us to show you personalized content there. For example, if you visit one of our website pages, you may later see an ad for Aorus or GIGABYTE products when you visit a tech news site. Functionality cookies allow us to remember your preferences and choices, improving usability and make our website more tailored to you.  
+When you choose to turn off Analytics, Advertising and/or Functionality cookies, third-party cookies will not track your activity nor collect any data based on your choice. If you accept Analytics, Advertising and/or Functionality cookies when you initially visit the website, you can still turn off these Analytics, Advertising and/or Functionality cookies at any time later by clicking on 'Cookie Settings' at the bottom right of our website or adjusting settings in your browser to opt-out of cookies.  
+  
+The third-party Analytics tracking cookies we use are:  
+• Google Analytics : Google Analytics is a web analytics service provided by Google that tracks and reports on website traffic and user behavior.  
+• Yandex Metrica : Yandex Metrica is a web analytics service provided by Yandex. It offers a range of tools and features, helping us analyze and optimize our websites.  
+• VWO A/B Testing : VWO A/B Testing is a tool for optimizing websites by analyzing the performance of different versions through A/B testing. It helps us gain a deeper understanding of user experiences and allows us to build and maintain our services based on user feedback. For information on opting out of VWO, please refer to [this link](https://vwo.com/opt-out/) .  
+• Microsoft Clarity : Clarity is a behavioral analysis tool provided by Microsoft that helps us understand user interaction with the website. Clarity’s features like browsing session recordings and heatmaps provide us feedback that will be used to enhance our website for you. The data Clarity collects is de-identified and anonymous. For more information about how Microsoft collects and uses your data, visit the [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement) .  
+• LinkedIn : We use cookies set by LinkedIn to measure the performance of our website in order to improve the overall user experience. For more information about how LinkedIn collects and uses your data, visit [here](https://www.linkedin.com/legal/cookie-policy) .  
+• Akamai Boomerang : Akamai Boomerang is an open source JavaScript library for user monitoring. It measures the performance characteristics of page loads and interactions. For more information about Akamai Boomerang, visit [here](https://techdocs.akamai.com/home/page/manage-cookie-preferences) .  
+  
+The third-party Advertising tracking cookies we use are:  
+• Google Ads : Google Ads is an online advertising platform developed by Google. It allows us to create and manage ads that appear on Google’s search results pages and across its vast network of partner sites.  
+• Facebook Pixels : Facebook Pixel is a tool provided by Meta that allows us to track and optimize our Facebook ad campaigns. It collects data on how you interact with our site and how you respond to our ads.  
+• YouTube : We use cookies set by YouTube to process behavioral data from users and the YouTube video server, such as video playback, recommended content, and user behavior tracking, etc. For more information about how YouTube collects and uses your data, visit [here](https://policies.google.com/technologies/cookies#how-google-uses-cookies) .  
+• LinkedIn : We use cookies set by LinkedIn to gather information about how ads perform and how you interact with ads. For more information about how LinkedIn collects and uses your data, visit [here](https://www.linkedin.com/legal/cookie-policy) .  
+  
+The third-party Functionality tracking cookies we use are:  
+• LinkedIn : We use cookies set by LinkedIn to remember information about your browser and your preferences. For more information about how LinkedIn collects and uses your data, visit [here](https://www.linkedin.com/legal/cookie-policy) .  
+• YouTube : We use cookies set by YouTube to measure bandwidth to determine whether users have access to the new or old player interface. For more information about how YouTube collects and uses your data, visit [here](https://policies.google.com/technologies/cookies#how-google-uses-cookies) .  
+  
 
 Children's online privacy protection
 ------------------------------------
