@@ -613,25 +613,25 @@ Most recent
 
 [25-11-2024
 
+MEPs finalise resolution to extend smoking and vaping bans in public places](https://www.euractiv.com/section/health-consumers/news/meps-finalise-resolution-to-extend-smoking-and-vaping-bans-in-public-places/)[25-11-2024
+
+French PM unveils plan to fight violence against women](https://www.euractiv.com/section/health-consumers/news/french-pm-unveils-plan-to-fight-violence-against-women/)[25-11-2024
+
+No appetite for Hungary’s pitch to advance Serbia EU accession talks](https://www.euractiv.com/section/global-europe/news/no-appetite-for-hungarys-pitch-to-advance-serbia-eu-accession-talks/)[25-11-2024
+
+The Court of Auditors pushes to finish the job on food labelling legislation](https://www.euractiv.com/section/agriculture-food/news/the-court-of-auditors-pushes-to-finish-the-job-on-food-labelling-legislation/)[25-11-2024
+
+Germany’s embattled Scholz brushes off doubts as he clinches chancellor candidacy](https://www.euractiv.com/section/politics/news/germanys-embattled-scholz-brushes-off-doubts-as-he-clinches-chancellor-candidacy/) [25-11-2024
+
+Loss-making Thyssenkupp Steel plans to reduce workforce by around 40%](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L5N3MW0L5:1073429016)[25-11-2024
+
+Germany’s Habeck floats compromise to waver CO2 targets fines on car makers](https://www.euractiv.com/section/economy-jobs/news/germanys-habeck-floats-compromise-to-waver-co2-targets-fines-on-car-makers/)[25-11-2024
+
+Le Pen’s party threatens no-confidence vote on Barnier’s government](https://www.euractiv.com/section/politics/news/le-pens-party-threatens-no-confidence-vote-on-barniers-government/)[25-11-2024
+
 High-level group calls for Commission recommendation on lawful interception in 2025](https://www.euractiv.com/section/tech/news/high-level-group-calls-for-commission-recommendation-on-lawful-interception-in-2025/)[25-11-2024
 
-EU push to centralise financial supervision misguided, say Nordic finance chiefs](https://www.euractiv.com/section/economy-jobs/news/eu-push-to-centralise-financial-supervision-misguided-say-nordic-finance-chiefs/)[25-11-2024
-
-Cargo plane crashes near Lithuania airport, DHL launches own investigation](https://www.euractiv.com/section/global-europe/news/cargo-plane-crashes-near-lithuania-airport-dhl-launches-own-investigation/)[25-11-2024
-
-More surprises in the aftermath of Romania’s presidential election](https://www.euractiv.com/section/politics/news/more-surprises-in-the-aftermath-of-romanias-presidential-election/)[25-11-2024
-
-Niger requests replacement of EU ambassador amid flood aid row](https://www.euractiv.com/section/global-europe/news/niger-requests-replacement-of-eu-ambassador-amid-flood-aid-row/)[25-11-2024
-
-Roberta Metsola: The US ‘understands the language of power’](https://www.euractiv.com/section/politics/news/roberta-metsola-the-us-understands-the-language-of-power/)[25-11-2024
-
-Ukraine studies debris from new Russian ballistic missile](https://www.euractiv.com/section/global-europe/news/ukraine-studies-debris-from-new-russian-ballistic-missile/)[25-11-2024
-
-Spain’s centre-right ‘foolish’ to think EPP would upset EU alliance, expert says](https://www.euractiv.com/section/politics/news/the-capitals-spains-centre-right-foolish-to-think-epp-would-upset-eu-alliance-expert-says/)[25-11-2024
-
-Czechia does not seek extension of Russian oil import exemption](https://www.euractiv.com/section/politics/news/czechia-does-not-seek-extension-of-russian-oil-import-exemption/)[25-11-2024
-
-Polish PiS picks little-known Karol Nawrocki as presidential candidate](https://www.euractiv.com/section/politics/news/polish-pis-picks-little-known-karol-nawrocki-as-presidential-candidate/)
+EU push to centralise financial supervision misguided, say Nordic finance chiefs](https://www.euractiv.com/section/economy-jobs/news/eu-push-to-centralise-financial-supervision-misguided-say-nordic-finance-chiefs/)
 
 ###### Advertisement
 
