@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Cartez-Mcgary-326x245.jpg)](https://cwbchicago.com/2024/11/25-years-for-killing-man-over-a-half-pound-of-weed-while-on-felony-bail.html "25 years for killing man over a half-pound of weed while on felony bail")
-
-Washington Heights
-
-### [25 years for killing man over a half-pound of weed while on felony bail](https://cwbchicago.com/2024/11/25-years-for-killing-man-over-a-half-pound-of-weed-while-on-felony-bail.html "25 years for killing man over a half-pound of weed while on felony bail")
-
-[November 22, 2024 6:29 AM](https://cwbchicago.com/2024/11)
-
-A judge this week sentenced a man to 25 years in prison for murdering another man in a dispute over marijuana plus eight more years for shooting another man during a robbery—all while he was on bail for a felony case in 2021.[](https://cwbchicago.com/2024/11/25-years-for-killing-man-over-a-half-pound-of-weed-while-on-felony-bail.html "25 years for killing man over a half-pound of weed while on felony bail")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Andrew-Moran-326x245.jpg)](https://cwbchicago.com/2024/11/man-carjacked-a-woman-while-on-probation-for-trying-to-carjack-another-woman-prosecutors-say.html "Man carjacked a woman while on probation for trying to carjack another woman, prosecutors say")
-
-Portage Park
-
-### [Man carjacked a woman while on probation for trying to carjack another woman, prosecutors say](https://cwbchicago.com/2024/11/man-carjacked-a-woman-while-on-probation-for-trying-to-carjack-another-woman-prosecutors-say.html "Man carjacked a woman while on probation for trying to carjack another woman, prosecutors say")
-
-[November 21, 2024 6:18 PM](https://cwbchicago.com/2024/11)
-
-Just three months after being given probation for trying to carjack a woman on the Northwest Side, Andrew Moran is back in jail, accused of trying to carjack another woman on the Northwest Side.[](https://cwbchicago.com/2024/11/man-carjacked-a-woman-while-on-probation-for-trying-to-carjack-another-woman-prosecutors-say.html "Man carjacked a woman while on probation for trying to carjack another woman, prosecutors say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2022/06/Timothy-Evans-Tom-Dart-326x245.jpg)](https://cwbchicago.com/2024/11/electronic-monitoring-operations-to-move-from-sheriff-to-the-chief-judges-office.html "Electronic monitoring operations to move from sheriff to the chief judge’s office")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Kemari-Johnson-326x245.jpg)](https://cwbchicago.com/2024/11/inmate-charged-with-having-loaded-gun-inside-cook-county-jail-can-i-surrender-something.html "Inmate charged with having loaded gun inside Cook County jail: ‘Can I surrender something?’")
 
 Citywide
 
-### [Electronic monitoring operations to move from sheriff to the chief judge’s office](https://cwbchicago.com/2024/11/electronic-monitoring-operations-to-move-from-sheriff-to-the-chief-judges-office.html "Electronic monitoring operations to move from sheriff to the chief judge’s office")
+### [Inmate charged with having loaded gun inside Cook County jail: ‘Can I surrender something?’](https://cwbchicago.com/2024/11/inmate-charged-with-having-loaded-gun-inside-cook-county-jail-can-i-surrender-something.html "Inmate charged with having loaded gun inside Cook County jail: ‘Can I surrender something?’")
 
-[November 21, 2024 5:46 PM](https://cwbchicago.com/2024/11)
+[November 22, 2024 7:56 PM](https://cwbchicago.com/2024/11)
 
-There’s a big change coming to the electronic monitoring system that is supposed to keep an eye on criminal defendants awaiting trial: Operation of the program will be moving from the Cook County Sheriff’s Office to the office of Chief Judge Timothy Evans.[](https://cwbchicago.com/2024/11/electronic-monitoring-operations-to-move-from-sheriff-to-the-chief-judges-office.html "Electronic monitoring operations to move from sheriff to the chief judge’s office")
+An 18-year-old man who was supposed to leave the Cook County jail on Wednesday is not going home after all. That’s because Kemari Johnson is now facing a fresh charge of possessing a loaded firearm inside the jail.[](https://cwbchicago.com/2024/11/inmate-charged-with-having-loaded-gun-inside-cook-county-jail-can-i-surrender-something.html "Inmate charged with having loaded gun inside Cook County jail: ‘Can I surrender something?’")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Zondranika-Williams-326x245.jpg)](https://cwbchicago.com/2024/11/chicago-cop-gets-probation-for-falsely-claiming-she-was-robbed-at-gunpoint-of-5000.html "Chicago cop gets probation for falsely claiming she was robbed at gunpoint of $5,000")
+
+Chatham
+
+### [Chicago cop gets probation for falsely claiming she was robbed at gunpoint of $5,000](https://cwbchicago.com/2024/11/chicago-cop-gets-probation-for-falsely-claiming-she-was-robbed-at-gunpoint-of-5000.html "Chicago cop gets probation for falsely claiming she was robbed at gunpoint of $5,000")
+
+[November 22, 2024 10:45 AM](https://cwbchicago.com/2024/11)
+
+A Chicago cop received two years probation for filing a false police report on Thursday, the same day Jussie Smollett’s false report conviction was overturned by the Illinois Supreme Court.[](https://cwbchicago.com/2024/11/chicago-cop-gets-probation-for-falsely-claiming-she-was-robbed-at-gunpoint-of-5000.html "Chicago cop gets probation for falsely claiming she was robbed at gunpoint of $5,000")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jovan-Johnson-326x245.jpg)](https://cwbchicago.com/2024/11/mechanic-with-pending-gun-case-shot-a-co-worker-who-was-stealing-his-business-prosecutors.html "Mechanic with pending gun case shot a co-worker who was ‘stealing’ his business: prosecutors")
+
+North Lawndale
+
+### [Mechanic with pending gun case shot a co-worker who was ‘stealing’ his business: prosecutors](https://cwbchicago.com/2024/11/mechanic-with-pending-gun-case-shot-a-co-worker-who-was-stealing-his-business-prosecutors.html "Mechanic with pending gun case shot a co-worker who was ‘stealing’ his business: prosecutors")
+
+[November 22, 2024 9:36 AM](https://cwbchicago.com/2024/11)
+
+Prosecutors have charged a Chicago man with shooting his co-worker at a West Side auto shop while on pretrial release for a felony gun case.[](https://cwbchicago.com/2024/11/mechanic-with-pending-gun-case-shot-a-co-worker-who-was-stealing-his-business-prosecutors.html "Mechanic with pending gun case shot a co-worker who was ‘stealing’ his business: prosecutors")
 
 Search
 
