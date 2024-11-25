@@ -278,8 +278,8 @@ It pays to share™
 
 ### Download the app
 
-[![Download from Google](/_next/image?url=%2Fmobile-download%2Fgoogle-store.png&w=384&q=75)](https://play.google.com/store/apps/details?id=com.clickasnap.app)[![Download from Apple](/mobile-download/apple-store.svg)](https://apps.apple.com/om/app/clickasnap/id6474788901)
+[![Download from Google](/mobile-download/google-store.png)](https://play.google.com/store/apps/details?id=com.clickasnap.app)[![Download from Apple](/mobile-download/apple-store.svg)](https://apps.apple.com/om/app/clickasnap/id6474788901)
 
 [](https://www.facebook.com/clickasnap/)[](https://x.com/ClickASnap_)[](https://www.instagram.com/clickasnap)[](https://www.linkedin.com/company/clickasnap/)[](https://www.pinterest.co.uk/clickasnap/)[](https://www.youtube.com/@Clickasnap)[](https://www.tiktok.com/@we_are_clickasnap)
 
-© 2024 ClickASnap. All rights reserved. V 2.17.0
+© 2024 ClickASnap. All rights reserved. V 2.17.3
