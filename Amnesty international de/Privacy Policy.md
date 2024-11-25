@@ -1159,7 +1159,7 @@ Telefon: +49 (0)30 / 420248-0
 Spendenkonto
 ------------
 
-[JETZT SPENDEN!](https://helfen.amnesty.de/checkout/button/)
+[JETZT SPENDEN!](https://helfen.amnesty.de/checkout/spendenbutton-amnesty-de-footer/)
 
 Bank für Sozialwirtschaft
 
