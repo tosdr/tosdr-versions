@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/673fab6877198680abaedcae_eco-friendly-cleaning-clean-mama-story.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6744b793d725bb6a37996c58_winners-clearco-2024-top-ecommerce-awards1.png)
 
-###### How Clean Mama is Redefining Eco-Friendly Housekeeping
+###### WINNERS of Clearco's 2024 Top Ecommerce Awards
 
-[Read now >](https://clear.co/blog/eco-friendly-cleaning-clean-mama-story)
+[Read now >](https://clear.co/blog/winners-clearco-2024-top-ecommerce-awards)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
