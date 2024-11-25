@@ -16,7 +16,7 @@
 
 [13k](https://github.com/gitpod-io)
 
-[Login](https://app.gitpod.io/)
+[Login](https://www.gitpod.io/flex-or-classic)
 
 Cookies Policy[](#cookies-policy)
 =================================
