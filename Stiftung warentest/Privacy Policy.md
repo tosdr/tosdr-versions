@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kopf­hörer Shokz OpenSwim Pro im Test: Musik hören beim Schwimmen](https://www.test.de/Kopfhoerer-Shokz-OpenSwim-Pro-im-Test-Musik-hoeren-beim-Schwimmen-6165705-0/ "Kopfhörer Shokz OpenSwim Pro im Test - Musik hören beim Schwimmen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Neues Finanztest Spezial ETF: Wie Sie den richtigen ETF für Ihre Anlageziele finden](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Neues Finanztest Spezial ETF - Wie Sie den richtigen ETF für Ihre Anlageziele finden")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kopf­hörer Shokz OpenSwim Pro im Test: Musik hören beim Schwimmen](https://www.test.de/Kopfhoerer-Shokz-OpenSwim-Pro-im-Test-Musik-hoeren-beim-Schwimmen-6165705-0/ "Kopfhörer Shokz OpenSwim Pro im Test - Musik hören beim Schwimmen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Neues Finanztest Spezial ETF: Wie Sie den richtigen ETF für Ihre Anlageziele finden](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Neues Finanztest Spezial ETF - Wie Sie den richtigen ETF für Ihre Anlageziele finden")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kopf­hörer Shokz OpenSwim Pro im Test: Musik hören beim Schwimmen](https://www.test.de/Kopfhoerer-Shokz-OpenSwim-Pro-im-Test-Musik-hoeren-beim-Schwimmen-6165705-0/ "Kopfhörer Shokz OpenSwim Pro im Test - Musik hören beim Schwimmen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Neues Finanztest Spezial ETF: Wie Sie den richtigen ETF für Ihre Anlageziele finden](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Neues Finanztest Spezial ETF - Wie Sie den richtigen ETF für Ihre Anlageziele finden")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Kopf­hörer Shokz OpenSwim Pro im Test: Musik hören beim Schwimmen](https://www.test.de/Kopfhoerer-Shokz-OpenSwim-Pro-im-Test-Musik-hoeren-beim-Schwimmen-6165705-0/ "Kopfhörer Shokz OpenSwim Pro im Test - Musik hören beim Schwimmen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Wasser sparen im Garten: Viel säen, wenig gießen](https://www.test.de/Wasser-sparen-Viel-saeen-wenig-giessen-6105569-0/ "Wasser sparen im Garten - Viel säen, wenig gießen")
-* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
-* [Prostata­krebs-Früh­erkennung: Nichts über­stürzen](https://www.test.de/Prostatakrebs-Frueherkennung-Nichts-ueberstuerzen-5952681-0/ "Prostatakrebs-Früherkennung - Nichts überstürzen")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Tages­geld: Welche Neobanken gute Zinsen bieten](https://www.test.de/Tagesgeld-Welche-Neobanken-gute-Zinsen-bieten-6124300-0/ "Tagesgeld - Welche Neobanken gute Zinsen bieten")
+* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Neues Finanztest Spezial ETF: Wie Sie den richtigen ETF für Ihre Anlageziele finden](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Neues Finanztest Spezial ETF - Wie Sie den richtigen ETF für Ihre Anlageziele finden")
+* [Hacker-Angriff auf Pass­wort-Manager: Kunden­daten von LastPass gestohlen](https://www.test.de/Hacker-Angriff-auf-Passwort-Manager-Kundendaten-von-LastPass-gestohlen-5952137-0/ "Hacker-Angriff auf Passwort-Manager - Kundendaten von LastPass gestohlen")
 
 Service Stiftung Warentest
 
