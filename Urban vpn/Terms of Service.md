@@ -53,7 +53,7 @@
         * [Free Netflix VPN](https://www.urban-vpn.com/free-products/free-netflix-vpn/)
         * [Free Disney VPN](https://www.urban-vpn.com/free-products/free-disney-plus-vpn/)
         * [Free Twitter VPN](https://www.urban-vpn.com/free-products/free-twitter-vpn/)
-        * [Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
+        * [Free Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
         * [Free Craigslist VPN](https://www.urban-vpn.com/free-products/free-craigslist-vpn/)
         * [Free Tumblr VPN](https://www.urban-vpn.com/free-products/free-tumblr-vpn/)
         * [Free Roblox VPN](https://www.urban-vpn.com/free-products/free-roblox-vpn/)
@@ -254,7 +254,7 @@
         * [Free Netflix VPN](https://www.urban-vpn.com/free-products/free-netflix-vpn/)
         * [Free Disney VPN](https://www.urban-vpn.com/free-products/free-disney-plus-vpn/)
         * [Free Twitter VPN](https://www.urban-vpn.com/free-products/free-twitter-vpn/)
-        * [Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
+        * [Free Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
         * [Free Craigslist VPN](https://www.urban-vpn.com/free-products/free-craigslist-vpn/)
         * [Free Tumblr VPN](https://www.urban-vpn.com/free-products/free-tumblr-vpn/)
         * [Free Roblox VPN](https://www.urban-vpn.com/free-products/free-roblox-vpn/)
@@ -495,11 +495,11 @@ These Terms constitute the entire understanding between the parties with respect
 
 If you have any questions, please contact us via e-mail: [privacy@urban-vpn.com](mailto:privacy@urban-vpn.com)
 
-Hide your IP  
-With Urban Free VPN
-----------------------------------
+Protect Your Privacy  
+with Urban VPN
+-------------------------------------
 
-Download Urban VPN for free and browse the web while hiding your IP address.
+Download Urban VPN to enjoy complete online security and privacy while hiding IP address.
 
 [Free Download](javascript:;)
 
@@ -517,7 +517,7 @@ Download Urban VPN for free and browse the web while hiding your IP address.
 * [Free Tumblr VPN](https://www.urban-vpn.com/free-products/free-tumblr-vpn/)
 * [Hide My IP](https://www.urban-vpn.com/free-products/hide-my-ip/)
 * [IP location](https://www.urban-vpn.com/free-products/ip-location/)
-* [Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
+* [Free Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
 * [Free Roblox VPN](https://www.urban-vpn.com/free-products/free-roblox-vpn/)
 * [Free Craigslist VPN](https://www.urban-vpn.com/free-products/free-craigslist-vpn/)
 * [Free Netflix VPN](https://www.urban-vpn.com/free-products/free-netflix-vpn/)
