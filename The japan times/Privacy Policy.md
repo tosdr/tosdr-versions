@@ -464,25 +464,27 @@ Revised June 1, 2022
 
 * Editors' Picks
 
+[Taiwan stuns Samurai Japan to capture Premier12 title](https://www.japantimes.co.jp/sports/2024/11/24/baseball/taiwan-beats-japan-premier12-final/ "Taiwan stuns Samurai Japan to capture Premier12 title")
+
+  [![Japan starter Shosei Togo reacts after allowing a three-run home run against Taiwan in the fifth inning of the Premier12 final on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/436056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan starter Shosei Togo reacts after allowing a three-run home run against Taiwan in the fifth inning of the Premier12 final on Sunday.")](https://www.japantimes.co.jp/sports/2024/11/24/baseball/taiwan-beats-japan-premier12-final/ "Taiwan stuns Samurai Japan to capture Premier12 title")
+
 [Woman dies after train collides with car in Tochigi](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
 
   [![A Moka Railway train car](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435894.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Moka Railway train car")](https://www.japantimes.co.jp/news/2024/11/23/japan/tochigi-train-collision/ "Woman dies after train collides with car in Tochigi")
 
-[After Shohei Ohtani bump, Iwate ironware maker sees brighter future](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
+[Japan beats Taiwan ahead of rematch in Premier12 final](https://www.japantimes.co.jp/sports/2024/11/23/baseball/japan-beats-taiwan-super-round/ "Japan beats Taiwan ahead of rematch in Premier12 final")
 
-  [![Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435319.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.")](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
+  [![Keita Sano celebrates with his teammates after scoring on Kotaro Kiyomiya's two-run triple against Taiwan during their Premier12 game at Tokyo Dome on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435901.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Keita Sano celebrates with his teammates after scoring on Kotaro Kiyomiya's two-run triple against Taiwan during their Premier12 game at Tokyo Dome on Saturday.")](https://www.japantimes.co.jp/sports/2024/11/23/baseball/japan-beats-taiwan-super-round/ "Japan beats Taiwan ahead of rematch in Premier12 final")
 
-[Tokyo police care for lost umbrellas, keys and flying squirrels](https://www.japantimes.co.jp/news/2024/11/23/japan/tokyo-police-lost-items-care/ "Tokyo police care for lost umbrellas, keys and flying squirrels")
+[Tokyo’s newest three-star chef wants ‘harmony across every detail’](https://www.japantimes.co.jp/life/2024/11/24/food-drink/daniel-calvert-sezanne-michelin/ "Tokyo’s newest three-star chef wants ‘harmony across every detail’")
 
-  [![An employee at the Tokyo Metropolitan Police Department Lost and Found Center in the Iidabashi area of central Tokyo bags, tags and organizes thousands of items.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435876.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An employee at the Tokyo Metropolitan Police Department Lost and Found Center in the Iidabashi area of central Tokyo bags, tags and organizes thousands of items.")](https://www.japantimes.co.jp/news/2024/11/23/japan/tokyo-police-lost-items-care/ "Tokyo police care for lost umbrellas, keys and flying squirrels")
+  [![British-born Daniel Calvert earned his third Michelin star last month — a stunning achievement considering his restaurant, Sezanne, has only been open for just over three years.
+](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435258.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "British-born Daniel Calvert earned his third Michelin star last month — a stunning achievement considering his restaurant, Sezanne, has only been open for just over three years.
+")](https://www.japantimes.co.jp/life/2024/11/24/food-drink/daniel-calvert-sezanne-michelin/ "Tokyo’s newest three-star chef wants ‘harmony across every detail’")
 
-[Japan to aid introduction of multilingual ride-hailing apps](https://www.japantimes.co.jp/news/2024/11/23/japan/society/japan-multilingual-ride-hailing-app/ "Japan to aid introduction of multilingual ride-hailing apps")
+['Kohaku' still matters for J-pop bragging rights](https://www.japantimes.co.jp/culture/2024/11/24/music/kohaku-uta-gassen-lineup/ "'Kohaku' still matters for J-pop bragging rights")
 
-  [![A Nihon Kotsu Co. taxi departs one of the company's service offices in Tokyo.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435893.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Nihon Kotsu Co. taxi departs one of the company's service offices in Tokyo.")](https://www.japantimes.co.jp/news/2024/11/23/japan/society/japan-multilingual-ride-hailing-app/ "Japan to aid introduction of multilingual ride-hailing apps")
-
-[Seven & I founding family sounded out KKR and others about buyout: report](https://www.japantimes.co.jp/business/2024/11/23/seven-i-buyout-talks/ "Seven & I founding family sounded out KKR and others about buyout: report")
-
-  [![A 7-Eleven convenience store in Tokyo](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/23/435896.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A 7-Eleven convenience store in Tokyo")](https://www.japantimes.co.jp/business/2024/11/23/seven-i-buyout-talks/ "Seven & I founding family sounded out KKR and others about buyout: report")
+  [![Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435735.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.")](https://www.japantimes.co.jp/culture/2024/11/24/music/kohaku-uta-gassen-lineup/ "'Kohaku' still matters for J-pop bragging rights")
 
 [Tokyo’s newest three-star chef wants ‘harmony across every detail’](https://www.japantimes.co.jp/life/2024/11/24/food-drink/daniel-calvert-sezanne-michelin/ "Tokyo’s newest three-star chef wants ‘harmony across every detail’")
 
@@ -516,18 +518,18 @@ Podcast
 Longform
 --------
 
-  [![Construction takes place on the Takanawa Gateway Convention Center in Tokyo, slated to open in 2025.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/432904.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Construction takes place on the Takanawa Gateway Convention Center in Tokyo, slated to open in 2025.")](https://www.japantimes.co.jp/business/2024/11/11/mice-tourism-japan-business/ "A boom for business tourism in Japan?")
+  [![Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/435137.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ")](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
 
-[A boom for business tourism in Japan?](https://www.japantimes.co.jp/business/2024/11/11/mice-tourism-japan-business/ "A boom for business tourism in Japan?")
+[Japan’s sauna movement: Relax, refresh, repeat](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
 
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvorak")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,21 +569,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Ex-deputy mayor expected to win Nagoya mayoral election](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/nagoya-mayoral-election/ "Ex-deputy mayor expected to win Nagoya mayoral election")
+[Mohammed bin Salman’s style shift sets up a new world order strategy](https://www.japantimes.co.jp/news/2024/11/25/world/politics/mohammed-bin-salman-new-world-order/ "Mohammed bin Salman’s style shift sets up a new world order strategy")
 
-10 hours ago
+4 mins ago
 
-[Japan and U.S. to form missile plan in case of Taiwan emergency](https://www.japantimes.co.jp/news/2024/11/24/japan/japan-us-taiwan-missile-plan/ "Japan and U.S. to form missile plan in case of Taiwan emergency")
+[CDP’s gains in Hokkaido raise political questions about Rapidus](https://www.japantimes.co.jp/news/2024/11/25/japan/politics/regional-hokkaido-election/ "CDP’s gains in Hokkaido raise political questions about Rapidus")
 
-10 hours ago
+1 hour ago
 
-[Japan's foreign minister may visit China within this year](https://www.japantimes.co.jp/news/2024/11/24/japan/iwaya-eyes-china-visit/ "Japan's foreign minister may visit China within this year")
+[China's startups suffer as investors exercise redemption rights](https://www.japantimes.co.jp/business/2024/11/25/markets/chinese-startups-ipo-freeze/ "China's startups suffer as investors exercise redemption rights")
 
-11 hours ago
+1 hour ago
 
-[An iconic 32-foot donut might give Randy’s an edge in Japan](https://www.japantimes.co.jp/business/2024/11/24/companies/randys-donut-japan/ "An iconic 32-foot donut might give Randy’s an edge in Japan")
+[Ito-Yokado closes store that inspired 'Crayon Shin-chan' supermarket](https://www.japantimes.co.jp/business/2024/11/25/companies/ito-yokado-kasukabe-store-closed/ "Ito-Yokado closes store that inspired 'Crayon Shin-chan' supermarket")
 
-[First ceremony held to remember Sado gold mine workers](https://www.japantimes.co.jp/news/2024/11/24/japan/first-ceremony-sado-gold-mine-workers/ "First ceremony held to remember Sado gold mine workers")
+1 hour ago
+
+[Afghan women turn to entrepreneurship under Taliban](https://www.japantimes.co.jp/news/2024/11/25/world/society/afghan-women-entrepreneurship-taliban/ "Afghan women turn to entrepreneurship under Taliban")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
