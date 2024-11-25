@@ -36,6 +36,9 @@
         
         Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
     
+    * [![Get 1TB of portable storage in this Black Friday deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get 1TB of portable storage in this Black Friday deal](https://www.bleepingcomputer.com/offer/deals/get-1tb-of-portable-storage-in-this-black-friday-deal/)
     * [![Meta removes over 2 million accounts pushing pig butchering scams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Meta removes over 2 million accounts pushing pig butchering scams](https://www.bleepingcomputer.com/news/security/meta-removes-over-2-million-accounts-pushing-pig-butchering-scams/)
@@ -45,9 +48,6 @@
     * [![Enjoy Black Friday early on this portable Deeper Connect router VPN](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Enjoy Black Friday early on this portable Deeper Connect router VPN](https://www.bleepingcomputer.com/offer/deals/enjoy-black-friday-early-on-this-portable-deeper-connect-router-vpn/)
-    * [![Windows 11 24H2 update blocked on PCs with Assassin's Creed, Star Wars Outlaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows 11 24H2 update blocked on PCs with Assassin's Creed, Star Wars Outlaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-halts-windows-11-24h2-update-on-pcs-assassins-creed-star-wars-outlaws/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -442,12 +442,12 @@ Popular Stories
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 11 24H2 update blocked on PCs with Assassin's Creed, Star Wars Outlaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-halts-windows-11-24h2-update-on-pcs-assassins-creed-star-wars-outlaws/)
-* [![QNAP](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    QNAP pulls buggy QTS firmware causing widespread NAS issues](https://www.bleepingcomputer.com/news/technology/qnap-pulls-buggy-qts-firmware-causing-widespread-nas-issues/)
 * [![Avast](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Hackers abuse Avast anti-rootkit driver to disable defenses](https://www.bleepingcomputer.com/news/security/hackers-abuse-avast-anti-rootkit-driver-to-disable-defenses/)
+* [![QNAP](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    QNAP pulls buggy QTS firmware causing widespread NAS issues](https://www.bleepingcomputer.com/news/technology/qnap-pulls-buggy-qts-firmware-causing-widespread-nas-issues/)
 
 ##### Follow us:
 
