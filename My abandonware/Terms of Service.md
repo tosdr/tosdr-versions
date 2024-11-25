@@ -75,9 +75,9 @@ Follow Us!
 
 [9,000](https://www.facebook.com/myabandonware "Like our page on Facebook") [Like](https://www.facebook.com/myabandonware "Like our page on Facebook")
 
-[9,800](https://x.com/myabandonware "Follow us on X") [Follow](https://x.com/myabandonware "Follow us on X")
+[9,900](https://x.com/myabandonware "Follow us on X") [Follow](https://x.com/myabandonware "Follow us on X")
 
-[100](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky") [Follow](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky")
+[200](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky") [Follow](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky")
 
 Monthly Newsletter
 
