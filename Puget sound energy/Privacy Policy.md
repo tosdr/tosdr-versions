@@ -367,26 +367,12 @@ We know it is frustrating for our customers and are working hard to reconcile th
 
 Our crews will continue to work around the clock until the last customer is restored.
 
-[Storm alert Updated Nov 24, 11:59 PM](#collapseOne)  
+[Storm alert Updated Nov 25, 6:00 AM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-##### All-up messaging
-
-We know those of you yet to have your power restored are eager for that to happen. Unfortunately, while our crews have been working around the clock to restore power to our customers, the significant damage in the field is adding complexity and time to the restoration work. Some customers in our hardest-hit communities may see their estimated restoration time pushed back on the outage map this evening. We are sorry to do this, but we want you to have as much information as possible during this difficult period.
-
-**South King County:**
-
-We currently have less than 3,000 customers remaining without power, primarily in Renton Highlands, Enumclaw, Maple Valley, Hobart and Ravensdale. The majority of these customers will still see their outage restored by or within a few hours of 6 p.m. tonight. However, small groups of customers will see their estimated restoration time moved to Monday, Nov. 25 at 3:00 p.m. At this time, we expect that approximately 500 customers will have their estimated restoration time moved.
-
-**North King County:**
-
-We currently have approximately 18,000 customers remaining without power, primarily in Issaquah, Mirrormont, Sammamish (Pine Lake, Klahanie and Sahalee), Mercer Island, and various neighborhoods within Bellevue. The majority of these customers will still see their outage restored by or within a few hours of 10:00 a.m. Monday, Nov. 25. However, small groups of customers will see their estimated restored time moved to Tuesday, Nov. 26 at 2:00 p.m. At this time, we do not have an exact number of customers whose anticipated time to have their service restored will be delayed until this later time, but anticipate it being a limited number.
-
-**Why is my ETR being pushed out?**
-
-Work has been much slower because of the number of fallen trees, broken poles, downed wire and damaged equipment resulting from the hurricane-force winds of this storm. Each one of these restoration jobs is complex and requires multiple resources to fix. We have more than 150 crews and 70 tree crews working in the field, and our teams will not stop working until everyone has service.
+Over the last 24 hours, more than 150 line crews and 70 tree crews worked throughout the day and night to help over 22,000 customers regain power from storm related outages.  We now have 98% percent of our customers back online since the bomb cyclone hit Western Washington Tuesday afternoon and will continue to work as fast as we can to restore every customer.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
