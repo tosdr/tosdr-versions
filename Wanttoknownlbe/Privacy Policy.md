@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/het-eindspel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-media-van-waak-naar-schoothonden/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
