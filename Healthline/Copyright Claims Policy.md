@@ -190,19 +190,16 @@
 
 Subscribe
 
-[#### Skin Care](https://www.healthline.com/skincare)
+[#### Rheumatoid Arthritis](https://www.healthline.com/rheumatoid-arthritis)
 
-* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
-* [Science](https://www.healthline.com/skincare/skin-science)
-* [Ingredients](https://www.healthline.com/skincare/ingredients)
-* [Routine](https://www.healthline.com/skincare/build-your-routine)
-* [Acne](https://www.healthline.com/skincare/acne)
-* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
-* [Procedures](https://www.healthline.com/skincare/procedures)
-* [Products](https://www.healthline.com/skincare/products)
-* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
-* [Natural](https://www.healthline.com/skincare/natural-and-diy)
-* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
+* [Newly Diagnosed](https://www.healthline.com/rheumatoid-arthritis/basics-of-ra)
+* [Medication & Treatments](https://www.healthline.com/rheumatoid-arthritis/treatment)
+* [Managing Flares](https://www.healthline.com/rheumatoid-arthritis/pain-management)
+* [Living Well](https://www.healthline.com/rheumatoid-arthritis/living-with-ra)
+* [Holistic Health](https://www.healthline.com/rheumatoid-arthritis/holistic-health)
+* [Mental Well-Being](https://www.healthline.com/rheumatoid-arthritis/ra-mental-health)
+* [Community](https://apps.apple.com/us/app/ra-healthline/id1498862311)
+* [Newsletter](https://www.healthline.com/newsletter-signup/rheumatoid-arthritis)
 
 Ad & Sponsorship Policy
 =======================
