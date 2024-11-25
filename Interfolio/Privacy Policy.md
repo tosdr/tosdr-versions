@@ -28,9 +28,7 @@ Location Selector
 Show Menu
 
 Privacy policy
-
-
-------------------
+--------------
 
 Show Menu
 
