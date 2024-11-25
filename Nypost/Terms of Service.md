@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Father of missing Hawaii photographer found dead near LAX while searching for daughter](https://nypost.com/2024/11/25/us-news/father-of-missing-hawaii-photographer-hannah-kobayashi-found-dead-near-lax-while-searching-for-daughter/)
+
 Terms Of Use
 ============
 
