@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-360x180.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
+    
+    ### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
+    
+    [![Maydew House stripped and ready to demolish](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00009-2-1-e1732116151890-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
+    
+    ### [The Maydew House story: How Southwark Council’s £15 million housing calamity unfolded](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
+    
     [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
     
     ### [Man charged with attempted murder over Brixton bus incident](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
@@ -47,14 +55,6 @@
     [![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
     
     ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
-    
-    [![Victor Rawlings poses for photos in the William Blake estate in London. Credit: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/11/Victor-Rawlings-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
-    
-    ### [Families sharing beds and windows fixed with tape on ‘cold, cold, cold’ Waterloo estate](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
-    
-    [![Members of ACORN Southwark with Liberal Democrat councillors at Southwark Council\'s Tooley Street headquarters. CREDIT: ACORN Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/acron-lib-dem-e1732271874488-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
-    
-    ### [Southwark Council warns estate agents to stop waging ‘exploitative’ bidding wars](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-360x180.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
+    
+    ### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
+    
+    [![Maydew House stripped and ready to demolish](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00009-2-1-e1732116151890-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
+    
+    ### [The Maydew House story: How Southwark Council’s £15 million housing calamity unfolded](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
+    
     [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
     
     ### [Man charged with attempted murder over Brixton bus incident](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
@@ -132,14 +140,6 @@ View All Result
     [![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
     
     ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
-    
-    [![Victor Rawlings poses for photos in the William Blake estate in London. Credit: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/11/Victor-Rawlings-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
-    
-    ### [Families sharing beds and windows fixed with tape on ‘cold, cold, cold’ Waterloo estate](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
-    
-    [![Members of ACORN Southwark with Liberal Democrat councillors at Southwark Council\'s Tooley Street headquarters. CREDIT: ACORN Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/acron-lib-dem-e1732271874488-360x180.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
-    
-    ### [Southwark Council warns estate agents to stop waging ‘exploitative’ bidding wars](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -239,6 +239,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Featured Articles
 
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-120x86.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
+
+### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
+
+[25th November 2024](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
+
 [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
 
 ### [Man charged with attempted murder over Brixton bus incident](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
@@ -268,12 +274,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
 
 [24th November 2024](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
-
-[![Members of ACORN Southwark with Liberal Democrat councillors at Southwark Council\'s Tooley Street headquarters. CREDIT: ACORN Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/acron-lib-dem-e1732271874488-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
-
-### [Southwark Council warns estate agents to stop waging ‘exploitative’ bidding wars](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
-
-[24th November 2024](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
 
 ### USEFUL PAGES
 
