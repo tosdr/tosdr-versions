@@ -239,7 +239,7 @@ Back
     * [AUO](https://www.symmetryelectronics.com/manufacturers/auo/)
     * [Calian](https://www.symmetryelectronics.com/manufacturers/calian/)
     * [Cavli Wireless](https://www.symmetryelectronics.com/manufacturers/cavli-wireless/)
-    * [Cincon](https://www.symmetryelectronics.com/manufacturers/cincon/)
+    * [Cincon Electronics Co., Ltd.](https://www.symmetryelectronics.com/manufacturers/cincon/)
     * [Cmedia](https://www.symmetryelectronics.com/manufacturers/cmedia/)
     * [Compuware Technology, Inc.](https://www.symmetryelectronics.com/manufacturers/compuware-technology,-inc/)
     * [Connected Development](https://www.symmetryelectronics.com/manufacturers/connected-development/)
