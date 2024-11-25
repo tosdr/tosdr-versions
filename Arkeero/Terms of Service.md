@@ -460,9 +460,8 @@ Argentina
 
 +
 
-Calle Francisco Romero 3200, #224,  
-1667 Del Viso,  
-Buenos Aires, Argentina  
+Av Libertador 17.150 - PB, 1648 Buenos Aires,  
+Argentina  
   
   
 Contacto:  
