@@ -1,5 +1,5 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                     
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                              
 
 [Skip to content](#MainContent)  
 
@@ -210,9 +210,9 @@ View more
 
 Pause slideshow Play slideshow
 
-[Earn 2XP for every $1 spent this Holiday Season!Join the Rewards Program](https://gfuel.com/pages/rewards)
+[30% off ore Gamer collection ends soon d h m s](https://gfuel.com/collections/video-game)
 
-[30% off Core Gamer collectionShop Holiday Deals!](https://gfuel.com/collections/video-game)
+[Earn 2XP for every $1 spent this Holiday Season!Join the Rewards Program](https://gfuel.com/pages/rewards)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -375,7 +375,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/621/assets/app-store-badge.svg?v=123926581890561309811732238628)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/621/assets/google-play-badge.png?v=132395384020293405351732238628)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/622/assets/app-store-badge.svg?v=123926581890561309811732300828)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/622/assets/google-play-badge.png?v=132395384020293405351732300828)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
