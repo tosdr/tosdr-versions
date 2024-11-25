@@ -25,8 +25,8 @@ Close this search box.
 * [Voxy Platform](https://voxy.com/voxy-platform/)
 * [Resources](https://voxy.com/resources/)
 * [Blog](https://voxy.com/blog/)
-* [About Us](https://voxy.com/about-voxy)
-    * [About Voxy](https://voxy.com/about-voxy)
+* [About Us](https://voxy.com/about-us/)
+    * [About Voxy](https://voxy.com/about-us/)
     * [Careers](https://voxy.com/about/careers/)
 
 Menu
@@ -35,8 +35,8 @@ Menu
 * [Voxy Platform](https://voxy.com/voxy-platform/)
 * [Resources](https://voxy.com/resources/)
 * [Blog](https://voxy.com/blog/)
-* [About Us](https://voxy.com/about-voxy)
-    * [About Voxy](https://voxy.com/about-voxy)
+* [About Us](https://voxy.com/about-us/)
+    * [About Voxy](https://voxy.com/about-us/)
     * [Careers](https://voxy.com/about/careers/)
 
 * [Student area](https://app.voxy.com/v2/#/login)
@@ -680,8 +680,8 @@ Copyright © 2024 Voxy. All rights reserved
 * [Voxy Platform](https://voxy.com/voxy-platform/)
 * [Resources](https://voxy.com/resources/)
 * [Blog](https://voxy.com/blog/)
-* [About Us](https://voxy.com/about-voxy)
-    * [About Voxy](https://voxy.com/about-voxy)
+* [About Us](https://voxy.com/about-us/)
+    * [About Voxy](https://voxy.com/about-us/)
     * [Careers](https://voxy.com/about/careers/)
 
 We use “cookies” to customize your experience with the Site, content and Services and to store your information so you do not have to re-enter them each time you visit the Site or access the Content or Services. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.
