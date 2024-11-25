@@ -447,6 +447,8 @@ Category/ies of Data Subjects:
   
   
 
+ [![](/old/img/robot_pirate.png) ![](/img/blackfriday-2x-credits.png)](https://shortpixel.com/pricing-one-time)
+
 [About & team](https://shortpixel.com/about-and-team)
 
 [Contact](https://shortpixel.com/contact)
