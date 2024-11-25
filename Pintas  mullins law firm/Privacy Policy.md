@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Are nursing homes actually good for elderly people?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-are-nursing-homes-actually-good-for-elderly-people-scaled.jpg "Are Nursing Homes Actually Good for Elderly People?")](https://www.pintas.com/faq/are-nursing-homes-actually-good-for-elderly-people/ "Are Nursing Homes Actually Good for Elderly People?")
+[![Can you sue a nursing home for wrongful death?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-a-nursing-home-for-wrongful-death-scaled.jpg "Can You Sue a Nursing Home for Wrongful Death?")](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/ "Can You Sue a Nursing Home for Wrongful Death?")
 
-[#### Are Nursing Homes Actually Good for Elderly People?](https://www.pintas.com/faq/are-nursing-homes-actually-good-for-elderly-people/)
+[#### Can You Sue a Nursing Home for Wrongful Death?](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/)
 
-[![What are signs of poor hygiene?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-soiled-clothes-or-other-signs-of-poor-hygiene-what-are-signs-of-poor-hygiene-scaled.jpg "What Are Signs of Poor Hygiene?")](https://www.pintas.com/faq/soiled-clothes-or-other-signs-of-poor-hygiene/ "What Are Signs of Poor Hygiene?")
+[![What is the most effective ovarian cancer treatment?](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-the-most-effective-ovarian-cancer-treatment.jpg "What Is the Most Effective Ovarian Cancer Treatment?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-most-effective-ovarian-cancer-treatment/ "What Is the Most Effective Ovarian Cancer Treatment?")
 
-[#### What Are Signs of Poor Hygiene?](https://www.pintas.com/faq/soiled-clothes-or-other-signs-of-poor-hygiene/)
+[#### What Is the Most Effective Ovarian Cancer Treatment?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-most-effective-ovarian-cancer-treatment/)
 
-[![What else causes mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-else-causes-mesothelioma.jpg "What Else Causes Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/other-causes-of-mesothelioma "What Else Causes Mesothelioma?")
+[![What powders are talc free?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-what-powders-are-talc-free-scaled.jpg "What Powders Are Talc Free?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders "What Powders Are Talc Free?")
 
-[#### What Else Causes Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/other-causes-of-mesothelioma)
+[#### What Powders Are Talc Free?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/talc-free-powders)
 
 ### Injured?  
 Tell Us What Happened.
