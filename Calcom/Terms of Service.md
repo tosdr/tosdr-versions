@@ -287,7 +287,7 @@ Cal.com® and Cal® are a registered trademark by Cal.com, Inc. All rights reser
 
 [![EU-US Privacy Shield](/home/footer/eu-us.svg)](https://cal.com/security)[![ISO 27001](/home/footer/iso-dark.svg)](https://cal.com/security)[![SOC2](/home/footer/soc2-dark.svg)](https://cal.com/security)[![CCPA](/home/footer/ccpa-dark.svg)](https://cal.com/security)[![GDPR](/home/footer/gdpr-dark.svg)](https://cal.com/security)[![HIPAA](/home/footer/hipaa-dark.svg)](https://cal.com/security)
 
-[](https://go.cal.com/discord)[](https://twitter.com/calcom)[](https://github.com/calcom)[](https://go.cal.com/producthunt)[](https://go.cal.com/hackernews)
+[](https://go.cal.com/x)[](https://github.com/calcom)[](https://go.cal.com/youtube)[](https://go.cal.com/instagram)[](https://go.cal.com/discord)[](https://go.cal.com/producthunt)[](https://go.cal.com/hackernews)
 
 Our mission is to connect a billion people by 2031 through calendar scheduling.
 
