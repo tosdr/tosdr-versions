@@ -1,6 +1,6 @@
 ![websights](https://ws.zoominfo.com/pixel/632dc96851510bcd6667d089)        
 
-[![](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/Webinar.net-Xcyte-Company-Logo.png)](https://www.webinar.net/)
+[![](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinarnet-logo-xcyte-h.png)](https://www.webinar.net/)
 
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIyMzIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
@@ -195,7 +195,7 @@ These Terms and any action related thereto will be governed by the laws of the S
 
 Please submit your inquiries to info@webinar.net.
 
-[![](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webianr-xycte-1.png)](https://www.webinar.net/)
+[![](https://webinardotnet.wpenginepowered.com/wp-content/uploads/2019/10/webinarnet-logo-xcyte.png)](https://www.webinar.net/)
 
 ##### About
 
