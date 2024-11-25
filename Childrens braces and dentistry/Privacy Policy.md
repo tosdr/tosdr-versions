@@ -97,7 +97,7 @@ Sep 16, 2024 295 Comments Off on Pulpectomy vs. Root Canal: A Parent’s Guide t
 
 ##### [Common Bite Issues and Their Solutions](https://sandiegokidsdentist.com/common-bite-issues-and-their-solutions/)
 
-Jul 23, 2024 495 Comments Off on Common Bite Issues and Their Solutions
+Jul 23, 2024 497 Comments Off on Common Bite Issues and Their Solutions
 
 Quick Links
 -----------
