@@ -31,1100 +31,1095 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Bloque de Seguridad pide evitar filtración de personas violentas en las marchas
-===============================================================================
-
-El pedido se da por la convocatoria a marchas para conmemorar el Día de la no violencia contra la mujer, en Quito
------------------------------------------------------------------------------------------------------------------
-
-![El Bloque de Seguridad dio un mensaje a la ciudadanía la noche del domingo 24 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-25T075919.046.jpg)
-
-El **Ministerio del Interior** compartió la noche del 24 de noviembre un mensaje a la ciudadanía en relación con las marchas convocadas este lunes 25 por el día de la No violencia contra las mujeres.
-
-### Más noticias
-
-* [Así funciona el Pico y placa este lunes 25 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-este-lunes-25-de-noviembre.html "Así funciona el Pico y placa este lunes 25 de noviembre")
-* [Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-del-lunes-25-al-jueves-28-de-noviembre.html "Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre")
-* [Mayra Salazar fue cambiada de cárcel este domingo 24 de noviembre](https://www.elcomercio.com/actualidad/seguridad/mayra-salazar-cambio-de-carcel-este-domingo-24-de-noviembre.html "Mayra Salazar fue cambiada de cárcel este domingo 24 de noviembre")
-
-Ministra Palencia recuerda estado de excepción vigente
-------------------------------------------------------
-
-La ministra del Interior, **Mónica Palencia,** a nombre del Bloque de Seguridad y del Gobierno Nacional, recordó a la ciudadanía que el estado de excepción en Quito sigue vigente.
-
-En ese contexto, reiteró el pedido a las **organizaciones de derechos humanos** para que sean observadores y eviten la filtración de personas violentas en las marchas por el Día de la no violencia contra la mujer.
-
-Recalcó que es falso que la **Corte Constitucional** haya levantado el estado de excepción; esta medida se mantiene vigente. La Corte ha mencionado que contamos con medidas ordinarias para precautelar los intereses ciudadanos y no es necesario suspender el derecho a la libertad de asociación o asociación.
-
-El comandante general de la Policía, **Víctor Zárate,** añadió que el 20% de los servidores policiales son mujeres, es decir, alrededor de 12 000 que todos los días se esfuerzan por la seguridad de los ciudadanos.
-
-El acceso al Centro Histórico estará restringido
-------------------------------------------------
-
-Zárate añadió que, según información de Inteligencia, **se ha convocado a marchas** este lunes 25 de noviembre. Esta convocatoria se habría hecho para zonas a las que ni la Policía Nacional ni las Fuerzas Armadas permitirán el ingreso.
-
-El acceso estará restringido al **Centro Histórico de Quito**. Por ello, se realizarán desvíos en sentido norte-sur desde la av. Patria hacia el oriente y occidente.
-
-En sentido sur-norte, **estará cerrada la av. Maldonado** a la altura del puente del Sena en el sector de la Recoleta.
-
-El Comandante de la Policía informó que las s**ervidoras policiales** realizarán el control de las marchas, por lo que solicitó respeto y consideración.
-
-Recalcó que es una falta de **respeto a la autoridad** hacer cánticos agresivos contra las fuerzas del orden. Pidió a la Fiscalía y a la Judicatura que no se confunda que **actúe con mano dura** cuando se presenten los partes policiales por agresión a servidores policiales.
-
-Así mismo, el jefe del Comando Conjunto de las **Fuerzas Armadas,** agregó que está vigente el estado de excepción en Quito y que es deber de las fuerzas del orden mantener la paz y la seguridad.
-
-Además, repeler toda agresión con el uso legítimo de la fuerza. Por último, **exhortó a la ciudadanía** a no participar en [acciones confrontativas.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw)  
->   
-> COMUNICADO IMPORTANTE  
->   
-> El Bloque de Seguridad a la ciudadanía  
-> ⬇️ [pic.twitter.com/MixnupIfg2](https://t.co/MixnupIfg2)
-> 
-> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [November 25, 2024](https://twitter.com/MinInteriorEc/status/1860862925914636747?ref_src=twsrc%5Etfw)
-
-Así funciona el Pico y placa este lunes 25 de noviembre
-=======================================================
-
-Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
---------------------------------------------------------------------------------------------------------------------------------
-
-![La medida se aplica en Quito para tratar de controlar el tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-22T150540.058.jpg)
-
-El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementa para mejorar el flujo vehicular en las horas de mayor tránsito.
-
-Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
-
-### Más noticias
-
-* [Un taxi circuló dentro del parque La Carolina, en Quito](https://www.elcomercio.com/actualidad/quito/taxi-circulo-dentro-de-parque-la-carolina-quito.html "Un taxi circuló dentro del parque La Carolina, en Quito")
-* [Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/estudiantes-municipales-saludo-alcalde-inicio-fiestas-de-quito.html "Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito")
-* [Calle se cierra por tres semanas, a la altura de la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/calle-cierra-tres-semanas-altura-de-autopista-general-ruminahui.html "Calle se cierra por tres semanas, a la altura de la autopista General Rumiñahui")
-
-Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
-
-La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
-
-Horarios del Pico y placa
--------------------------
-
-En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
-
-Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
-
-Multas por infringir la medida
-------------------------------
-
-La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir, 69 dólares la primera vez.
-
-Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
-
-Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
-
-Límites en Quito para Pico y placa
-----------------------------------
-
-Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
-
-Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
-
-El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
-
-Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
-
-> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
-> 
-> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
-
-Arborización para sanar a Quito
-===============================
-
-El impacto de los incendios forestales que devastaron Quito en septiembre de 2024 sigue siendo una herida abierta en nuestra ciudad. La vegetación consumida por las llamas dejó cicatrices visibles en el paisaje y en el ánimo de los quiteños. Sin embargo, en medio de esta tragedia, surge una oportunidad para transformar esta crisis en \[…\]
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen creada con inteligencia artificial que muestra la arborización, luego de un incendio forestal.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-19.jpg)
-
-El impacto de los **incendios forestales** que devastaron **Quito** en septiembre de 2024 sigue siendo una herida abierta en nuestra ciudad. La **vegetación consumida** por las llamas dejó cicatrices visibles en el paisaje y en el ánimo de los quiteños. Sin embargo, en medio de esta **tragedia**, surge una oportunidad para transformar esta crisis en un punto de partida hacia la regeneración. La **campaña de arborización** liderada por la municipalidad capitalina. Un paso concreto hacia la resiliencia ambiental[.](https://es.wikipedia.org/wiki/Incendio_forestal "https://es.wikipedia.org/wiki/Incendio_forestal")
-
-En total, se reportaron más de **27 incendios** que consumieron más de **2 000 hectáreas de vegetación** del área del Distrito Metropolitano de **Quito**. Esto da cuenta de la magnitud del **problema ambiental**, social y económico en el que estuvo inmersa la capital.
-
-> La reforestación requiere de un compromiso sostenido. Sembrar un árbol es solo el primer paso; garantizar su cuidado y crecimiento es la verdadera tarea a largo plazo.
-
-La reforestación con **especies nativas**, como el aliso, el arrayán o el cholán, no solo devuelve verde a nuestras montañas; también mejora la **calidad del aire**, regula las temperaturas y contribuye a mitigar los efectos del cambio climático. Estas plantas, adaptadas al ecosistema andino, tienen la capacidad de regenerar suelos empobrecidos por el **fuego** y atraer **fauna nativa**, promoviendo un equilibrio ambiental que la ciudad necesita desesperadamente. Pero más allá de los beneficios ecológicos, esta iniciativa tiene un fuerte componente **comunitario**.
-
-En momentos de **crisis**, los quiteños siempre han demostrado una notable capacidad de unión. Participar en esta jornada de [arborización](https://www.elcomercio.com/actualidad/quito/fin-semana-arborizacion-quito-incendios.html "https://www.elcomercio.com/actualidad/quito/fin-semana-arborizacion-quito-incendios.html") no solo permitirá que las personas contribuyan directamente al renacimiento de nuestra ciudad, sino que fortalecerá el **tejido social** que a veces parece deshilacharse en el día a día. Familias, amigos y vecinos trabajarán juntos para plantar vida donde antes hubo **destrucción**. Esta minga es un acto de solidaridad intergeneracional, pues los árboles que sembremos hoy serán el **legado** para quienes hereden esta ciudad en el futuro.
-
-No obstante, debemos ser conscientes de que la arborización no es una **solución mágica** ni instantánea. Los incendios forestales de este año fueron, en gran medida, provocados intencionalmente, lo que subraya la urgencia de abordar el problema desde su raíz: la **educación ambiental**, la vigilancia ciudadana y el endurecimiento de sanciones para quienes atenten contra nuestro entorno. Además, la reforestación requiere de un compromiso sostenido. Sembrar un árbol es solo el primer paso; garantizar su **cuidado** y crecimiento es la verdadera tarea a largo plazo.
-
-Arborizar Quito no es simplemente cubrir con verde las cicatrices del fuego; es un **acto de esperanza** y responsabilidad colectiva. Es la oportunidad de transformar una tragedia en un renacimiento, de demostrar que somos una ciudad capaz de levantarse, más fuerte y más consciente. Con pala en mano y corazón abierto, los quiteños no solo plantaremos árboles; **plantaremos futuro**.
-
-Ahora que el **sur del país** vive una tragedia incluso más amplia, con incendios forestales de **grandes dimensiones**, que luego de días de lucha se van sofocando, queda un compromiso con el país de **tomar la iniciativa** de sembrar árboles donde la mano del ser humano, la misma que la incendió, la ayude a **reverdecer**.
-
-Cartas a Quito / 25 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este lunes 25 de noviembre de 2024
-------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-¡0,45 USD el KWh, lo toma o lo deja!
-------------------------------------
-
-Especulación internacional, es a donde ha llegado la energía eléctrica ecuatoriana, mendigar un KWh a costo tres veces, nuestro mercado es duro, mientras, por otro lado, los políticos han desperdiciado sin piedad por más de 40 años, el recurso que ahora nos hace falta, ¿inaudito, verdad? La desgraciada crisis energética que nos agobia tiene responsables directos: gobierno socialcristiano 1984 – 1988, gobierno izquierda democrática 1988 – 1992, gobierno socialcristiano 1992 – 1996, tuvieron planificación (Plan Maestro de Inecel), pero no quisieron invertir. En la década del 2007 – 2017 el gobierno de la revolución ciudadana, decide improvisar la inversión de grandes cantidades de dinero en centrales hidroeléctricas sin planificación, Coca Codo Sinclair, Toachi -Pilatón, de gran potencia, poca calidad y costos superiores a los referentes internacionales. Además, el cierre de puertas a la inversión privada expresado en la constitución del 2008, posiblemente es el mayor daño que hizo este gobierno. A todos ellos hay que agradecerles por los apagones. Es bueno saber la causa, pero mejor buscar la solución. La generación de energía: solar, eólica, geotérmica, etc., que sugieren los expertos, necesita tiempo y dinero, recursos que el País al momento no dispone. Podemos y debemos resolver el problema sin mayores gastos reorganizando el sector eléctrico, mediante la descentralización del sistema actual, hay plantas térmicas e hidroeléctricas de pequeña y mediana capacidad que están integradas al sistema nacional interconectado SNI y, que deben reagruparse para formar sistemas regionales, que sean administradas por las empresas eléctricas regionales existentes, que ahora mismo son diez y con Celec pasarían a ser once, naturalmente todas deben estar bajo la regulación y control del Ministerio correspondiente. Esto evitará los apagones nacionales, serán puntuales si los hay. Esta es una solución a mediano plazo, la solución urgente debe estar a cargo del Estado y, el gobierno actual está haciendo lo que debe hacer, la solución a largo plazo es que el Estado autorice a las empresas eléctricas regionales de la sierra la construcción de centrales hidroeléctricas, menores a 20 MW, sobre la cota 2500 msnm, donde hay grandes caídas y pequeños caudales (en ríos de montaña y lagos, el agua no falta). La población de la costa y Amazonía estará servida con las centrales hidroeléctricas y térmicas grandes, administrado por Celec.
-
-Marco A. Zurita Ríos
-
-Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’
+Comisión de Fiscalización tomó una decisión sobre el juicio político a Esteban Guarderas
 ========================================================================================
 
-Este 25 de noviembre, el Día de la Eliminación de la Violencia contra las Mujeres se recuerda con voces y un nuevo espacio para no silenciar las historias y los derechos, Esperanza.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+La Comisión de Fiscalización califica el juicio contra Guarderas y archiva el proceso contra el juez Ángel Torres.
+------------------------------------------------------------------------------------------------------------------
 
-![Esperanza es un pódcast de El Comercio.](https://www.elcomercio.com/wp-content/uploads/2024/11/Esperanza.jpg)
+![Comisión de Fiscalización calificó el juicio político contra Juan Esteban Guarderas.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-56-1.jpg)
 
-**Vida y seguridad** son dos derechos latentes este 25 de noviembre de 2024, el Día de la Eliminación de la Violencia contra las Mujeres**[.](https://www.unesco.org/es/days/elimination-violence-against-women)**
-
-Ambos aún tienen trabas para cumplirse a cabalidad. En **Ecuador**, desde el 1 de enero hasta el 27 de septiembre de 2024, la Fundación Aldea reporta **180 feminicidios**. Sin embargo, a la par de los elementos inconclusos, hay iniciativas, servicios y unión de mujeres.
+La **Comisión de Fiscalización de la Asamblea Nacional** trató este 25 de noviembre el juicio político en contra de **Juan Esteban Guarderas**, consejero del **Consejo de Participación Ciudadana y Control Social (Cpccs)**.
 
 ### Más noticias
 
-* [Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?](https://www.elcomercio.com/actualidad/elecciones-2025-violencia-politica-normativas.html "Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?")
-* [Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo](https://www.elcomercio.com/actualidad/mundo/unicef-informe-violencia-sexual-ninas-adolescentes.html "Unicef difunde alarmante informe sobre violencia sexual contra niñas y adolescentes en el mundo")
-* [Mujeres proponen cambios al Código de la Democracia por violencia política](https://www.elcomercio.com/actualidad/politica/mujeres-cambios-codigo-democracia-violencia-politica.html "Mujeres proponen cambios al Código de la Democracia por violencia política")
+* [Juez dicta medidas cautelares contra funcionaria de la Asamblea que participó en las marchas](https://www.elcomercio.com/actualidad/politica/juez-dicta-medidas-cautelares-funcionaria-asamblea-marchas.html "Juez dicta medidas cautelares contra funcionaria de la Asamblea que participó en las marchas")
+* [Propuesta de Daniel Noboa sobre bases militares tiene cronograma en la Asamblea](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-cronograma-asamblea.html "Propuesta de Daniel Noboa sobre bases militares tiene cronograma en la Asamblea")
+* [Pleno de la Asamblea decidirá sobre el juicio político a Andrea Arrobo](https://www.elcomercio.com/actualidad/politica/pleno-asamblea-decidira-sobre-juicio-politico-andrea-arrobo.html "Pleno de la Asamblea decidirá sobre el juicio político a Andrea Arrobo")
 
-Día de la Eliminación de la Violencia y el panorama
----------------------------------------------------
+El proceso responde a un supuesto incumplimiento de funciones. Paralelamente, la misma comisión decidió archivar el **juicio solicitado contra Ángel Torres Maldonado**, juez del Tribunal Contencioso Electoral (TCE).
 
-![Madres Coraje es una agrupación de progenitoras de víctimas de femicidio.](https://www.elcomercio.com/wp-content/uploads/2024/11/Dia-Eliminacion-de-la-Violencia-1024x683.jpg)
+El caso de Guarderas fue impulsado por **Ana Cecilia Herrera**, asambleísta de Cotopaxi y parte de la bancada de la **Revolución Ciudadana**. La solicitud se basa en tres acusaciones que detallan presuntas irregularidades cometidas en el ejercicio de sus funciones como consejero del Cpccs.
 
-Madres Coraje es una agrupación de progenitoras de víctimas de femicidio. Foto: cortesía
-
-Desde el 2014, año en que se tipificó el femicidio en el **Código Orgánico Integral Penal (COIP)** en Ecuador, la organización ha documentado **1 891 casos**.
-
-En 2024, 23 **víctimas** ya reportaron antecedentes de violencia, **cuatro tenían boleta de auxilio** y siete experimentaron abuso sexual.
-
-Según Aldea, la edad promedio de las víctimas es de **32 años. Pero, la más j**oven tenía tan solo uno y la mayor, **81**.
-
-No obstante, señalan desde la organización, hay un vacío de datos oficiales. Por lo que apuntan a la obligación del Estado de contar con un sistema de **registro de femicidios**.
-
-La **Fiscalía General del Estado**, en su portal web, cuenta con un apartado denominado Analítica. En este, entre el 27 de febrero de 2014 y el 16 de noviembre de 2024, se contabilizan **790 femicidios**.
-
-La unión tras la violencia
---------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/union-1024x683.jpg)
-
-Madres Coraje y otros familiares de víctimas realizan vigilias por sus seres queridos. Foto: cortesía
-
-La **Fundación Madres Coraje** surgió, justamente, desde el dolor y la búsqueda de justicia. Son progenitoras que comparten las huellas de la **violencia femicida**.
-
-**Anabel Campos**, una de las fundadoras de la organización, repite que son “hermanas de dolor”. Pero, a la par, abrazan la responsabilidad de acompañar a los hijos de las víctimas y la meta de “ni una menos”.
-
-**Madres Coraje** nació en el 18 de octubre de 2022, con cinco mujeres. En noviembre de 2023, se constituyó jurídicamente. En este 2024, ya suman **35 integrantes**.
-
-Ellas recorren el país para que la **impunidad** quede atrás. A través de sus historias y la difusión de las alertas de la violencia de género buscan “no repetición”.
-
-Anabel Campos perdió a su hija Valeria a manos de quien fue la pareja. Ella, madre de un pequeño de cinco años, contaba con una **boleta de auxilio**, pero esto no le salvó la vida. Él fue el material intelectual y estuvo prófugo.
-
-**No obstante, actualmente, cinco personas involucradas, incluyendo la expareja** de **Valeria** ya fueron juzgadas. Por su parte, Anabel dedica su tiempo a dar charlas **para prevención.**
-
-La asesinaron un 25 de noviembre
---------------------------------
-
-**María Ortiz**, una **Madre Coraje**, perdió a su hija un 25 de noviembre. Mientras muchas mujeres marchaban, recuerda, la expareja de Cristina la asesinó.
-
-**Cristina** había buscado tener hijos por años. Tras tratamientos y el diagnóstico negativo, conoció a un hombre y, finalmente, quedó **embarazada**.
-
-El progenitor dudó de la paternidad e, incluso, le pidió que interrumpiera la gestación. A un mes del término del embarazo, ella salió a una cita médica y **nunca más regresó**.
-
-**“Mi hija fue asesinada un 25 de noviembre, en un día consagrado a la no violencia contra la mujer”**.
-
-Justicia para los casos
------------------------
-
-**Elizabeth Bodero** aún tiene presente que Evelyn, su hija y madre de una niña, conocía sus derechos, iba a plantones para apoyar a familiares de víctimas de **femicidio**.
-
-**Evelyn** se convirtió en uno de esos rostros apagados por la violencia. Ella recibió 13 puñaladas por parte de su expareja, luego de un año de separación. El crimen se consumó frente a su hija.
-
-La mujer había recibido amenazas, tenía una **boleta de auxilio** y alertó a sus amigas y vecinas sobre el riesgo que corría.
-
-Luego de acabar con la vida de **Evelyn**, el hombre intentó suicidarse. No lo logró y tampoco se pudo dar a la fuga.
-
-De acuerdo con Aldea, en el **35%** de los casos, los feminicidas tenían un vínculo sentimental con la víctima.
-
-El dolor que une
-----------------
-
-**“Soy una mujer golpeada por la violencia desde pequeña. A mi hija la mató la pareja. Estoy aquí gracias al amor a mis nietos”** 
-
-**Alexa Perlaza** es otra Madre Coraje. Su hija Victoria tenía 26 años cuando quien fue su pareja la mató. El Durante tres días ella no apareció, luego de matarla, él dejó el cadáver en la vivienda, con el ventilador prendido.
-
-La **madre** recuerda que la última vez que la vio fue en la celebración del cumpleaños de su otro hijo. Ellos eran muy unidos. Ese día se rieron como nunca, comparte.
-
-A **Alexa Perlaza** y el resto de **Madres Coraje**, ese dolor las unió, además de por la búsqueda de justicia, por una meta conjunta: ¡Ni una menos!
-
-Las metas de las Madres Coraje
-------------------------------
-
-Las **Madres Coraje** comparten que su compromiso se extiende hacia la construcción de un futuro donde la **equidad y el respeto** sean pilares fundamentales.
-
-En esa línea, además, buscan brindar **asesorías jurídicas, médicas y psicólogas**, así como ser un referente de formación.
-
-Además, buscan la transformación de la sociedad a través de la enseñanza sobre género, nuevas masculinidades, valores y la problemática de la violencia intrafamiliar.
-
-Servicios de apoyo
-------------------
-
-La **Casa de la Mujer**, en Quito, es un espacio de acogida de la Unidad Patronato Municipal San José, con capacidad para 40 personas: mujeres y sus hijos menores de edad.
-
-En el lugar, hasta donde llegan por derivación judicial o por contacto a la línea gratuita **1800-288-523**. En este reciben alimentación, vivienda, talleres formativos, apoyo psicológico y legal.
-
-La **Casa Matilde**, en cambio, es la primera casa de acogida para casos de género en Ecuador. Esta se fundó en 1990.
-
-En el 2000, se formalizó como **[Fundación Casa de Refugio Matilde](https://fundacionmatilde.org/ "https://fundacionmatilde.org/")**, en honor a Matilde Hidalgo Navarro, pionera en la defensa de los derechos de las mujeres ecuatorianas.
-
-La **Casa Matilde** es una organización no gubernamental sin fines de lucro, que brinda servicios de albergue temporal para mujeres y sus hijos, así como consulta externa.
-
-Teléfono de apoyo a víctimas de violencia: **099 66 96 723** (atención en horarios de oficina).
-
-Ayuda en línea
---------------
-
-Un primer contacto con los espacios es una llamada al **911**. Aunque, además, están los servicios de guía y apoyo como el Centro de Apoyo Integral Tres Manuelas, en el Centro Histórico de Quito, en la calle Loja.
-
-Las Juntas Metropolitanas de Protección de Derechos son otra opción para pedir apoyo. La denuncia se puede realizar en la página [inclusionsocial.quito.gob.ec](https://inclusionsocial.quito.gob.ec/).
-
-Esperanza en el 25 de noviembre
--------------------------------
-
-En el **Día Internacional de la Eliminación de la Violencia contra las Mujeres**, EL COMERCIO se une a la ruta de elevar las voces de las mujeres.
-
-¡Si silenciamos las historias, perpetuamos la violencia! Con este lema, **Esperanza** es el inicio de un camino sostenido, con voces y rostros de esa realidad oculta y, a la par, palpable.
-
-En la primera temporada, la comunidad podrá escuchar ocho entregas, a través de la cuenta de Spotify de **EL COMERCIO**.
-
-Se trata de un **pódcast** quincenal que recaba historias de mujeres que experimentaron distintos tipos de violencia, cuyas vidas cambiaron tras romper el silencio, encontrar redes de apoyo, la restitución de sus derechos y generar nuevos proyectos de vida.
-
-**Esperanza** es un sí a la vida de mujeres talentosas, inteligentes, risueñas, versátiles y con voz propia.
-
-Yamandú Orsi es el nuevo presidente de Uruguay
-==============================================
-
-Yamandú Orsi sucederá a Luis Lacalle Pou, el próximo 1 de marzo de 2025.
-------------------------------------------------------------------------
-
-![El candidato del Frente Amplio, Yamandú Orsi (c), celebra la victoria en las elecciones con sus seguidores este domingo en Montevideo (Uruguay). Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/102240c42afce590d83444db711851b3b8652130.jpg)
-
-Yamandú Orsi es el próximo presidente de un Uruguay. Tras una cerrada votación y cuando todavía el escrutinio oficial no daba a ninguno de los candidatos como ganador, Luis Lacalle Pou y Álvaro Delgado felicitaron al candidato por el Frente Amplio. Él se hizo con el triunfo por poco más de 90 mil votos.
-
-Más noticias
-------------
-
-* [2,7 millones de uruguayos van a las urnas para elegir a la nueva dupla presidencial](https://www.elcomercio.com/actualidad/mundo/abren-los-centros-de-votacion-para-la-segunda-vuelta-de-las-presidenciales-en-uruguay.html "2,7 millones de uruguayos van a las urnas para elegir a la nueva dupla presidencial")
-* [Los candidatos presidenciales uruguayos se comprometieron a no subir impuestos](https://www.elcomercio.com/actualidad/mundo/candidatos-presidenciales-uruguayos-comprometieron-subir-impuestos.html "Los candidatos presidenciales uruguayos se comprometieron a no subir impuestos")
-
-Después de recibir las felicitaciones del actual mandatario y del aspirante perdedor, Orsi brindó un discurso ante los militantes. Ellos celebraron la vuelta del Frente Amplio al Gobierno, el cual ya ocupó en el período 2005-2020 de la mano de Tabaré Vázquez y José Mujica.
-
-Con una campaña centrada en la justicia social, el desarrollo sostenible y la unidad nacional, el abanderado del Frente Amplio conquistó el apoyo de la ciudadanía. Superó al aspirante oficialista Álvaro Delgado en un reñido proceso que obligó a celebrar un balotaje este domingo después de que el pasado 27 de octubre ninguno de los candidato del Frente Amplio, el Partido Nacional y el Partido Colorado lograse mayoría absoluta.
-
-**“Quiero ser presidente”, anticipaba Orsi**
---------------------------------------------
-
-> “Quiero ser presidente de Uruguay. Fui solo para eso sin pensar en otros planes. Hay uno solo y hacia eso voy. Voy a ser militante toda mi vida y voy a participar en la actividad política siempre”
-
-Esto dijo Orsi al acudir a votar, la mañana de este domingo 24 de noviembre del 2024.
-
-Su deseo se cumplió en una jornada en la que la fórmula que integra junto a Carolina Cosse consiguió un total de 1 185 209 votos de 2 277 566 emitidos. Esto según los datos oficiales de la Corte Electoral. La entidad ya escrutó 99,13% de los votos.
-
-“Seré el presidente del crecimiento nacional”, anunció Orsi, quien el próximo 1 de marzo de 2025 sucederá a Luis Lacalle Pou, del Partido Nacional.
-
-Y agregó: “Voy a ser el presidente que convoque una y otra vez al diálogo nacional para encontrar las mejores soluciones. Por supuesto con nuestros planteos, pero también escuchando bien lo que nos dicen los demás”.
-
-Orsi es un profesor de Historia nacido en una humilde familia del municipio de Canelones. Recalcó que tendrá en cuenta a quienes no votaron por él para construir “un país mejor”.
-
-**Festejos en Montevideo y saludos de presidentes**
----------------------------------------------------
-
-Miles de militantes celebraron en diferentes puntos de Montevideo en medio de una intensa lluvia. Esto fue el preludio de fuertes tormentas para las próximas horas y que obligaron a activar la alerta naranja.
-
-Autos con banderas, familias caminando por la zona céntrica de la capital, fuegos artificiales y festejos musicales formaron parte del paisaje electoral.
-
-Varios mandatarios se apresuraron a felicitar al presidente electo, entre ellos el presidente de Brasil, Luiz Inácio Lula da Silva.
-
-“Quiero felicitar al pueblo uruguayo por la realización de elecciones democráticas y pacíficas. Y, en especial, al presidente electo Yamandú Orsi, al Frente Amplio y a mi amigo Pepe Mujica por la victoria de hoy”. Esto escribió Lula en las redes sociales.
-
-Por su parte, el mandatario de Paraguay, Santiago Peña, felicitó al pueblo uruguayo por su comportamiento cívico. Informó que se comunicó con Orsi para “expresarle el compromiso” de su país “de seguir colaborando” en beneficio de ambas naciones.
-
-En tanto, el presidente de Chile, Gabriel Boric, contó que hablaron de “cómo avanzar juntos, como países hermanos”.
-
-Daniel Noboa rindió cuentas de su año de gestión en cadena nacional
-===================================================================
-
-El presidente Daniel Noboa emitió una cadena nacional esta noche con una rendición de cuentas por su año de gestión.
---------------------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa habló de su año de gestión.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-1.jpg)
-
-El presidente **Daniel Noboa** rindió cuentas de su **año de gestión**, este domingo 24 de noviembre de 2024.
-
-Daniel Noboa se presentó en **una cadena nacional** de radio y televisión esta noche, en un video de casi 12 minutos.
-
-### Más noticias:
-
-* [Daniel Noboa relacionó las marchas con la campaña electoral](https://www.elcomercio.com/actualidad/politica/daniel-noboa-relaciono-marchas-campana-electoral.html "Daniel Noboa relacionó las marchas con la campaña electoral")
-* [Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito](https://www.elcomercio.com/actualidad/quito/gobierno-de-daniel-noboa-hizo-un-anuncio-sobre-los-cortes-de-luz-y-la-fundacion-de-quito.html "Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito")
-
-Daniel Noboa
-------------
-
-El presidente Daniel Noboa dio su **informe a la nación** de su año de gestión.
-
-En este acto de rendición de cuentas, se refirió a temas de **seguridad, economía, energía, comercio exterior, bienestar social** y otros.
-
-Noboa inició su intervención diciendo que se enfrentó al **pesimismo**, pero decidió lanzarse a la Presidencia y los ecuatorianos honestos le eligieron.
-
-Aseguró que lo más urgente a gestionar era la inseguridad, pues el país estaba hundido en **la delincuencia y el crimen organizado**.
-
-Se declaró la guerra a los **narcoterroristas** y a los políticos corruptos que los asisten.
-
-Se retomó el control de las cárceles con la asistencia de la Fuerza Pública y, con el Plan Fénix, se redujo **homicidios intencionale**s en 18%.
-
-Eliminó la tabla de consumo de drogas, decomisaron 227.6 **toneladas de droga**, inhabilitaron 33 pistas clandestinas, y se construye la Cárcel del Encuentro.
-
-### Economía
-
-El Gobierno promovió la aprobación de **leyes urgentes** como Ley de Eficiencia Económica y Generación de Empleo que se traduce en el programa “Empleo joven”.
-
-La Ley Orgánica de **Competitividad Energética** con tarifa 0% del IVA para gastos de sistemas de energía solar.
-
-La Ley para enfrentar el **Conflicto Armado Interno**, y la Ley para Actividades Turísticas y Fomento del Empleo.
-
-Además, la Ley que permite a los **proyectos privados** generar hasta 100 MW.
-
-Implementaron el programa “**Jóvenes en acción”** para mitigar el cambio climático.
-
-Las **exportaciones no petroleras** se incrementaron en 1 293 millones de dólares y se bajó el riesgo país en mil puntos.
-
-Se consiguió financiamiento internacional por más de 5 200 millones de dólares y **“salvamos la dolarización”**, dijo Juan Carlos Vega, ministro de Economía.
-
-La **reserva monetaria** se incrementó de 4 400 millones en 2023 a 8 600 millones de dólares a octubre de 2024 y se fortaleció el sistema monetario.
-
-Los **depósitos** en el sistema financiero crecieron y se incrementó en 14,2%.
-
-Entregaron el monto más alto de la historia a través de **créditos en la banca pública**, colocaron 5 684 millones en más de 2,5 millones de operaciones.
-
-Se emitieron 10 licencias ambientales para generar energía eléctrica impulsada por el sol, el viento, la biomasa y el calor de la tierra.
-
-Convenio con Japón para el primer parque geotérmico en **Chachimbiro**.
-
-Hasta el primer semestre de 2025, se habrán adicionado **1 598 MW** al Sistema Nacional Interconectado.
-
-Se firmó el tratado de libre comercio entre **Ecuador y China**.
-
-### Programas sociales
-
-“Cuando no hay **corrupción**, la plata alcanza”, dijo el mandatario antes de mencionar los resultados en programas sociales.
-
-Se detuvo un negociado de empresas de **radares** para cobrar multas millonarias.
-
-Entregaron **raciones alimenticias** a 2.8 millones de estudiantes en 12 782 instituciones.
-
-5 000 niños y niñas ya no tienen **desnutrición crónica infantil** en comparación a 2023 e incrementaron la inversión en 40 millones de dólares.
-
-Aumentaron de 30 a 60 millones de dólares los **créditos de desarrollo humano**. Construyeron 794 viviendas y 24 parques.
-
-133 000 familias con el **bono** de los primeros mil días y mejoraron la atención en salud, dijo una voz en off, en el video.
-
-### Salud, educación, infraestructura y otros
-
-Se pagó la deuda histórica a **Solca** para garantizar la atención a pacientes del IESS y se pagaron 2 628 millones al IESS para garantizar los derechos de los afiliados y jubilados.
-
-Además, se condonaron las deudas a 40 000 pequeños agricultores por 200 millones de dólares.
-
-Se firmó el reglamento para fijar el **precio de la leche** y otorgaron 13 200 títulos de tierra y créditos por más de 10 millones de dólares para el programa “Supermujer rural”.
-
-También, se condonó deudas a todas las **juntas de agua**. Se impulsó la creación de la Universidad de Santo Domingo de los Tsáchilas.
-
-Además, se entregaron más de 100 000 **becas gratuitas**, declararon como servicios esenciales a las casas de acogida, entre otros programas de beneficio social.
-
-En **infraestructura**, con una inversión de 332 millones de dólares, se realizan obras en Bolívar, Chimborazo, esmeraldas, Manabí, Carchi, Morona Santiago, Imbabura, Zamora Chinchipe, Guayas, Santa Elena, El Oro, Galápagos, Pichincha, Azuay, Sucumbíos.
-
-### Petróleo
-
-Se consiguió **inversión privada** por 602 millones de dólares para aumentar la inversión de petróleo en el Bloque 61.
-
-Las **exportaciones petroleras** aumentaron en un 6%, llegando a 6 806 millones, de enero a octubre de este año.
-
-Intervención final de Daniel Noboa por su año de gestión
---------------------------------------------------------
-
-**“En este primer año de Gobierno, hemos enfrentado con decisión a las mafias de la política, el narcotráfico y la corrupción que tanto han lastimado a nuestra gente (…) estamos arreglando lo que dañaron los del viejo Ecuador, sigamos construyendo este nuevo Ecuador”, concluyó el presidente Daniel Noboa.**
-
-> En [#UnAñoDeGestión](https://twitter.com/hashtag/UnA%C3%B1oDeGesti%C3%B3n?src=hash&ref_src=twsrc%5Etfw) hemos hecho lo que nadie antes se había atrevido:  
->   
-> ✅️ Declaramos la guerra a los narcoterroristas y a los políticos corruptos.  
-> ✅️ Trabajamos por todos los ciudadanos.  
->   
-> ¡Sigamos construyendo juntos [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw)¡ 🇪🇨💪[#ElNuevoEcuadorNoSeDetiene](https://twitter.com/hashtag/ElNuevoEcuadorNoSeDetiene?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YkILtUTJJj](https://t.co/YkILtUTJJj)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 25, 2024](https://twitter.com/Presidencia_Ec/status/1860853408871104539?ref_src=twsrc%5Etfw)
-
-Cortes de luz en Guayaquil este lunes 25 de noviembre
-=====================================================
-
-Los cortes de luz en Guayaquil este lunes 25 de noviembre son de hasta siete horas para el sector residencial.
---------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil para este lunes 25 de noviembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-lunes-25-noviembre.jpg)
-
-Los **cortes de luz** en **Guayaquil** este **lunes 25 de noviembre de 2024** se reducen a seis horas no consecutivas para el sector residencial.
-
-La **CNEL** difundió la programación de la suspensión del servicio de energía en la urbe porteña.
-
-### Más noticias:
-
-* [Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito](https://www.elcomercio.com/actualidad/quito/gobierno-de-daniel-noboa-hizo-un-anuncio-sobre-los-cortes-de-luz-y-la-fundacion-de-quito.html "Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito")
-* [Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón](https://www.elcomercio.com/actualidad/negocios/inician-pruebas-mecanicas-en-la-central-alluriquin-parte-del-complejo-hidroelectrico-toachi-pilaton.html "Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón")
-* [CNA alerta sobre adquisición de motores termoeléctricos por parte de Celec](https://www.elcomercio.com/actualidad/negocios/cna-alerta-adquisicion-motores-termoelectricos-celec.html "CNA alerta sobre adquisición de motores termoeléctricos por parte de Celec")
-
-Horarios de los cortes de luz en Guayaquil este lunes 25 de noviembre
----------------------------------------------------------------------
-
-El Gobierno de **Daniel Noboa** implementó cortes de luz programados desde el pasado 23 de septiembre por la crisis energética.
-
-La generación de energía eléctrica de Ecuador depende en mayor porcentaje de las **lluvias** que incrementan los caudales de los ríos y, a su vez, llenan los embalses de las hidroeléctricas.
-
-La grave **sequía**, la más larga de las últimas décadas, ha provocado que estas centrales hidroeléctricas no puedan funcionar o funcionen a su capacidad mínima.
-
-Según el **Ministerio de Energía**, la reducción a entre seis y siete horas de los cortes de luz responde a la mejora de los caudales que abastecen a las hidroeléctricas.
-
-Como otra solución parcial, el Gobierno de Daniel Noboa consiguió reactivar el intercambio de energía entre **Ecuador y Colombia**.
-
-Además, que emprendió en varios proyectos de **generación termoeléctrica** y otras energías alternativas.
-
-Sin embargo, estos proyectos empezarán a generar energía recién en **2025**.
-
-Entre noviembre y diciembre se desarrollan algunos proceso de **contratación y traslado de equipos**.
-
-Pese a esto, el presidente Daniel Noboa aseguró que los cortes de luz se **terminarán para diciembre** y los ecuatorianos podrán retomar sus actividades con normalidad.
-
-Esto, aunque la Presidencia emitió un comunicado el sábado 23 de noviembre sobre los cortes de luz y las **fiestas de fundación de Quito**.
-
-El Gobierno señaló que el **6 de diciembre** no habrá cortes de luz en la capital, para reactivar el turismo y la economía en esta ciudad.
-
-A continuación, los **cortes de luz en Guayaquil este lunes 25 de noviembre de 2024**:
-
-Cortes de luz en Quito este lunes 25 de noviembre
-=================================================
-
-Los cortes de luz en Quito para este lunes 25 de noviembre son de hasta seis horas para el sector residencial.
---------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en la capital este lunes 25 de noviembre son programados por la Empresa Eléctrica Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-lunes-25-noviembre.jpg)
-
-Los **cortes de luz** en **Quito** este **lunes 25 de noviembre de 2024** se reducen a seis horas no consecutivas para el sector residencial.
-
-La **Empresa Eléctrica Quito (EEQ)** difundió la programación de la suspensión del servicio de energía en la capital.
-
-### Más noticias:
-
-* [Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito](https://www.elcomercio.com/actualidad/quito/gobierno-de-daniel-noboa-hizo-un-anuncio-sobre-los-cortes-de-luz-y-la-fundacion-de-quito.html "Gobierno de Daniel Noboa hizo un anuncio sobre los cortes de luz y la fundación de Quito")
-* [Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón](https://www.elcomercio.com/actualidad/negocios/inician-pruebas-mecanicas-en-la-central-alluriquin-parte-del-complejo-hidroelectrico-toachi-pilaton.html "Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón")
-* [CNA alerta sobre adquisición de motores termoeléctricos por parte de Celec](https://www.elcomercio.com/actualidad/negocios/cna-alerta-adquisicion-motores-termoelectricos-celec.html "CNA alerta sobre adquisición de motores termoeléctricos por parte de Celec")
-
-Horarios de los cortes de luz en Quito este lunes 25 de noviembre
------------------------------------------------------------------
-
-El Gobierno de **Daniel Noboa** implementó cortes de luz programados desde el pasado 23 de septiembre por la crisis energética.
-
-La generación de energía eléctrica de Ecuador depende en mayor porcentaje de las **lluvias** que incrementan los caudales de los ríos y, a su vez, llenan los embalses de las hidroeléctricas.
-
-La grave **sequía**, la más larga de las últimas décadas, ha provocado que estas centrales hidroeléctricas no puedan funcionar o funcionen a su capacidad mínima.
-
-Según el **Ministerio de Energía**, la reducción a entre seis y siete horas de los cortes de luz responde a la mejora de los caudales que abastecen a las hidroeléctricas.
-
-Como otra solución parcial, el Gobierno de Daniel Noboa consiguió reactivar el intercambio de energía entre **Ecuador y Colombia**.
-
-Además, que emprendió en varios proyectos de **generación termoeléctrica** y otras energías alternativas.
-
-Sin embargo, estos proyectos empezarán a generar energía recién en **2025**.
-
-Entre noviembre y diciembre se desarrollan algunos proceso de **contratación y traslado de equipos**.
-
-Pese a esto, el presidente Daniel Noboa aseguró que los cortes de luz se **terminarán para diciembre** y los ecuatorianos podrán retomar sus actividades con normalidad.
-
-Esto, aunque la Presidencia emitió un comunicado el sábado 23 de noviembre sobre los cortes de luz y las **fiestas de fundación de Quito**.
-
-El Gobierno señaló que el **6 de diciembre** no habrá cortes de luz en la capital, para reactivar el turismo y la economía en esta ciudad.
-
-A continuación, los **cortes de luz en Quito este lunes 25 de noviembre de 2024**:
-
-CNA alerta sobre adquisición de motores termoeléctricos por parte de Celec
-==========================================================================
-
-La CNA investigó los contratos de Celec para la compra de motores termoeléctricos con empresas de Estados Unidos y Alemania.
-----------------------------------------------------------------------------------------------------------------------------
-
-![La CNA investigó la compra de los motores termoeléctricos a empresas de Estados Unidos y Alemania, por parte de Celec.](https://www.elcomercio.com/wp-content/uploads/2024/11/motores-termoelectricos-celec.jpg)
-
-La **Comisión Nacional Anticorrupción (CNA)** alertó sobre la adquisición de **motores termoeléctricos** por parte de la **Corporación Eléctrica de Ecuador (Celec)**.
-
-La CNA pide a los **organismos de control** poner atención a estos procesos de contratación.
-
-### Más noticias:
-
-* [Equipos para nueva central térmica llegan en diciembre ¿Cuándo iniciará operaciones?](https://www.elcomercio.com/actualidad/negocios/equipos-nueva-central-termica-llegan-diciembre-cuando-inicia-operaciones.html "Equipos para nueva central térmica llegan en diciembre ¿Cuándo iniciará operaciones?")
-* [Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón](https://www.elcomercio.com/actualidad/negocios/inician-pruebas-mecanicas-en-la-central-alluriquin-parte-del-complejo-hidroelectrico-toachi-pilaton.html "Inician pruebas mecánicas en la central Alluriquín, parte del complejo hidroeléctrico Toachi Pilatón")
-
-Adquisición de motores termoeléctricos
---------------------------------------
-
-La adquisición de Celec de motores termoeléctricos puso en **alerta** a la Comisión Nacional Anticorrupción (CNA).
-
-Según esta organización, los contratistas adjudicados que proveerán de **motores termoeléctricos** a Celec no han presentado los certificados de garantía de los fabricantes.
-
-Este es un requisito establecido en los **pliegos contractuales**.
-
-“La adquisición de motores termoeléctricos por parte de Celec ha evidenciado que los **proveedores** no son los más calificados”, señaló la Comisión, en un comunicado.
-
-La CNA aseguró que hay riesgos de incumplimiento de los pliegos contractuales.
-
-Esto, porque los vendedores aún no presentan los **certificados de garantía** de los fabricantes de los motores.
-
-Las empresas involucradas son **EMD de Estados Unidos y MAN de Alemania**, de acuerdo a la investigación de la CNA.
-
-“Ante esta realidad, que atiza el drama de la **carencia de energía eléctrica**, las autoridades  
-deben actuar con firmeza frente a los contratistas adjudicados”, señaló.
-
-La Comisión concluyó el comunicado haciendo un llamado a la **Fiscalía y la Contraloría** a estas a este proceso.
-
-El pasado 20 de noviembre, el **Ministerio de Energía** informó que se encuentran en camino las primeras 23 unidades de generación eléctrica para la nueva central térmica de Salitral en Guayaquil.
-
-Estas primeras unidades, correspondientes a la fase inicial del proyecto, aportarán 80.5 MW de energía, fundamentales para **fortalecer el suministro eléctrico** durante la emergencia energética actual, indicó.
-
-La noticia se dio con la imagen de motores embarcados en un buque, en **Houston, Estados Unidos.**
-
-Un radiodifusor fue asesinado en Ecuador
-========================================
-
-El radiodifusor asesinado en Ecuador iba acompañado por su esposa el momento del asesinato.
--------------------------------------------------------------------------------------------
-
-![El radiodifusor asesinado en Ecuador entrevistando a un uniformado.](https://www.elcomercio.com/wp-content/uploads/2024/11/radiodifusor-asesinado-ecuador.jpg)
-
-Un **radiodifusor** fue **asesinado** en **Ecuador**, la mañana del sábado 23 de noviembre de 2024.
-
-El crimen se cometió bajo la modalidad de **sicariato** en una de las ciudades más violentas del país.
-
-### Más noticias:
-
-* [Otra guía penitenciaria, asesinada en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/otra-guia-penitenciaria-asesinada-en-guayaquil.html "Otra guía penitenciaria, asesinada en Guayaquil")
-* [En el Día contra la Impunidad de los crímenes a periodistas, familias claman justicia](https://www.elcomercio.com/actualidad/seguridad/dia-contra-impunidad-de-crimenes-a-periodistas-familias-claman-justicia.html "En el Día contra la Impunidad de los crímenes a periodistas, familias claman justicia")
-
-El radiodifusor asesinado en Ecuador
-------------------------------------
-
-Sicarios asesinaron a un radiodifusor en Ecuador este **fin de semana**.
-
-Se trata del **director de noticias del medio digital Radio Cariñosa**, de Daule, **Leonardo Rivas Espinoza**.
-
-El locutor se trasladaba **en su vehículo**, cuando varios sujetos, a bordo de otro vehículo, le interceptaron y dispararon. 
-
-Rivas estaba acompañado de su **esposa**,  quien después del ataque descendió del auto y pidió ayuda a las personas que se encontraban en el lugar.
-
-Los transeúntes intentaron llevarlo a una **casa de salud**, según información preliminar de la Policía.
-
-Sin embargo, el equipo de salud que llegó hasta el lugar confirmó que **Rivas falleció** minutos después del ataque debido a la gravedad de las heridas. 
-
-La **Unidad de Criminalística y Medicina Legal** realizó el levantamiento del cadáver y recolectó indicios. 
-
-El medio digital Radio Cariñosa confirmó el fallecimiento con una **nota de pesar**.
-
-“Te fuiste **amigo** Leonardo Rivas. Dios te reciba en su Reino Celestial y te conceda el descanso eterno. Hasta siempre”, señaló.
-
-El hecho ocurrió en el kilómetro 9 de la **vía a Daule**, a la altura del Fuerte Militar Huancavilca.
-
-La organización **Fundamedios** condenó este hecho violento y exigió a las autoridades una investigación a fondo para dar con los responsables.
-
-Fundamedios también calificó al hecho como un acto que atenta contra la **libertad de expresión y prensa**.
-
-En la vía a Daule se han perpetrado **otros asesinatos** bajo la modalidad de sicariato, entre estos están servidores penitenciarios.
-
-En octubre, la **Fundación Periodistas Sin Cadenas** registró un total de 11 agresiones a comunicadores.
-
-El **Ferrodiario,** un medio **Durán**, cerró en este mes.
-
-Liga de Quito e IDV golearon y la etapa se definirá en la última fecha
-======================================================================
-
-Liga de Quito superó a Católica en un emocionante partido e IDV goleó 7-0 al Macará. Todo se definirá la próxima semana.
-------------------------------------------------------------------------------------------------------------------------
-
-![Álex Arce volvió a marcar a favor de Liga de Quito ante Universidad Católica.](https://www.elcomercio.com/wp-content/uploads/2024/11/ArceLDU.jpg)
-
-Este domingo 24 de noviembre de 2024, **Liga de Quito** e **Independiente del Valle** cumplieron más allá de los pronósticos optimistas. No solo ganaron en sus respectivos partidos. Albos y rayados **golearon.**
-
-El estadio Olímpico Atahualpa de Quito fue el escenario del vibrante enfrentamiento entre Universidad Católica y **Liga de Quito**, en la penúltima fecha de la segunda etapa de la Liga Pro.
-
-El cotejo se jugó en paralelo con el encuentro entre **Independiente del Valle** y **Macará**, en cancha de los negriazules.
-
-En Liga volvió a aparecer su ariete Álex Arce que marcó un triplete para el triunfo 2-4 sobre el ‘Trencito Azul’.
-
-En tanto, IDV humilló 7-0 al **Macará.**
-
-### Más noticias:
-
-* [Max Verstappen iguala a Vettel y Prost en F1 y quiere el récord de Schumacher](https://www.elcomercio.com/deportes/futbol/max-verstappen-campeon-f1-record-schumacher.html "Max Verstappen iguala a Vettel y Prost en F1 y quiere el récord de Schumacher")
-* [(En Vivo) Liga de Portoviejo y Deportivo Quito en el Reales Tamarindos](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-deportivo-quito-clasificado-reales-tamarindos.html "(En Vivo) Liga de Portoviejo y Deportivo Quito en el Reales Tamarindos")
-* [Liga, Deportivo Quito, IDV y otros saltan a la cancha. ¿Quién juega hoy?](https://www.elcomercio.com/deportes/futbol/liga-deportivo-quito-quien-juega-hoy-idv.html "Liga, Deportivo Quito, IDV y otros saltan a la cancha. ¿Quién juega hoy?")
-
-Álex Arce y Liga de Quito
--------------------------
-
-El paraguayo Álex Arce quiere consolidarse como goleador del torneo y este domingo marcó tres goles a los camarattas. Ya tiene 24 tantos en el torneo.
-
-El ariete guaraní abrió la cuenta a los 9 y luego anotó a los 32. En medio, Piovi marcó su gol a los 26 minutos.
-
-Más adelante, Arce volvió a marcar a los 46 minutos.
-
-Católica supo maquillar el resultado al descontar a los 85 y 90 más 2 gracias a Byron Palacios y Luciano Nieto.
-
-El golero Alexander Domínguez se fue expulsado a los 90 más 1 en LDU.
-
-Con ese resultado, Liga de Quito llegó a 29 puntos y espera ganar la etapa la próxima semana en la fecha final. Eso sí, Liga dependerá de la resolución en la que espera que se le devuelvan tres puntos.
-
-De momento, la ‘U’ tiene los mismos 29 puntos que IDV que tiene más goles anotados.
-
-Independiente del Valle humilló al Macará.
-------------------------------------------
-
-Por su parte, Independiente del Valle goleó 7-0 al Macará con tantos de Cristian Zabala (2), Jeison Medina, Renato Ibarra (2), Joao Ortiz y Keny Arroyo.
-
-Seis de los siete goles llegaron en el primer tiempo y el séptimo a los 87′, de penal, anotado por Arroyo.
-
-**Independiente del Valle** es primero a falta de una fecha.
-
-Liga de Quito e IDV
--------------------
-
-La necesidad de ganar era urgente para ambos clubes, ya que solo los dos tienen opciones de alzar el título de la temporada 2024.
-
-Si **IDV** mantiene su liderazgo en esta segunda etapa, se coronará campeón de manera directa, mientras que si los universitarios logran quedarse con la fase, se forzará una definición mediante partidos adicionales para decidir al campeón.
-
-En la próxima fecha, Liga cerrará de local ante Deportivo Cuenca y el Orense será local ante IDV.
-
-Liga y la sanción
------------------
-
-**Liga de Quito**, sin embargo, enfrenta un obstáculo adicional. Recientemente, la Federación Ecuatoriana de Fútbol (FEF) sancionó al equipo con la pérdida de tres puntos por incumplimientos económicos en el plazo establecido por la Liga Pro.
-
-Esta sanción redujo el puntaje de los albos de 29 a 26, lo que los dejó fuera del liderato. A pesar de esta decisión, la dirigencia del club mantiene la esperanza de que la apelación que se encuentra en curso revierta esta sanción.
-
-En rueda de prensa previa al partido, el entrenador **Pablo ‘Vitamina’ Sánchez** y el capitán **Ezequiel Piovi** expresaron su confianza en que el recurso será favorable. “Tenemos tranquilidad porque hay una apelación en curso. Mantenemos buenas expectativas”, aseguró Sánchez.
-
-Los resultados de la fecha 14 de Liga pro
-
-La reforestación de Quito arranca con la siembra de 20 000 plantas nativas
-==========================================================================
-
-La siembra de plantas nativas se realizará en zonas afectadas por los incendios.
---------------------------------------------------------------------------------
-
-![Plantación de árboles en el sector del Panecillo, una zona afectada por los incendios. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-61.jpg)
-
-Con la siembra de 20 mil árboles nativos se arrancó la reforestación de Quito en cerca de 2 000 hectáreas afectadas por los incendios forestales. La iniciativa comenzó en el Panecillo, en el Centro Histórico.
-
-Más noticias
-------------
-
-* [El destino de cuatro oseznos es incierto tras los incendios forestales en el cantón Cuenca](https://www.elcomercio.com/tendencias/ambiente/incendios-forestales-cuenca-osos-rastro-fauna-flora.html "El destino de cuatro oseznos es incierto tras los incendios forestales en el cantón Cuenca")
-* [Gobierno Nacional gestionará créditos internacionales para incendios forestales](https://www.elcomercio.com/actualidad/ecuador/gobierno-nacional-gestionara-creditos-internacionales-para-incendios-forestales.html "Gobierno Nacional gestionará créditos internacionales para incendios forestales")
-
-En la jornada denominada Quito, más verde que nunca, voluntarios y autoridades locales sembraron plantas nativas, como pusupato, cholán, pumamaqui. También nogal, aliso, guaba, arrayán y yalomán.
-
-Estas especies contribuyen a fortalecer los ecosistemas locales, mejoran la calidad del suelo. Además regulan la temperatura, atraen fauna nativa y ayudan a mitigar los efectos del cambio climático.
-
-La campaña de reforestación se realizará en diciembre y se extenderá hasta el próximo año.
-
-El sector privado también se adhiere a esta obra, a través de un fideicomiso para plantar más árboles. A esto se suma la estrategia de protección de fuentes de agua y cuerpos hídricos.
-
-**Siembra en las zonas** afectadas por incendios
-------------------------------------------------
-
-El secretario de [Ambiente del Municipio](https://ambiente.quito.gob.ec/ "https://ambiente.quito.gob.ec/"), Santiago Sandoval, señaló que en el Panecillo se colocaron mil plantas de especies nativas, rastreras y arboladas.
-
-“Iniciamos con la restauración de los lugares afectados por los incendios. Pero nos extendemos a todo el cinturón verde de todo el distrito”, enfatizó a la agencia EFE.
-
-Este fin de semana se sembrarán 20 mil árboles, pero la proyección es plantar miles más durante la administración actual.
-
-**5 600 voluntarios** para la reforestación de Quito
-----------------------------------------------------
-
-Según la Secretaría de Ambiente se contará con 5 600 voluntarios para participar en la llamada ‘Minga (trabajo comunitario) de la quiteñidad’.
-
-Carmen Barros, directora fundación Sol de Primavera, indicó que sembrar un árbol es “sembrar paz”.
-
-Barros, que llegó a la zona del Panecillo con jóvenes de más de 34 barrios de Quito, anotó que pese al dolor que le significa ver la zona quemada, cree que sobre esas cenizas “va a renacer vida” con los árboles sembrados hoy, algunos de los cuales han bautizado con el nombre de los voluntarios, mientras a otros los han llamado ‘amor’, ‘ternura’ y ‘esperanza’.
-
-Aclaró que no se limitarán a sembrar sino que los cuidarán posteriormente, para lo que se organizarán con los “mínimos” recursos que tienen.
-
-Quito enfrenta una crisis ambiental por una de las sequías más severas de los últimos 60 años. Esto se exacerbó por la frecuencia e intensidad de los incendios forestales.
-
-Para 2024 se reportaron cerca de 2 000 hectáreas afectadas, en el herbazal de páramo y el bosque seco.
-
-Liga de Portoviejo eliminó a Deportivo Quito en el Reales Tamarindos
-====================================================================
-
-Deportivo Quito fue visitante en el Reales Tamarindos ante Liga de Portoviejo que superó por 3-0 en el marcador global.
------------------------------------------------------------------------------------------------------------------------
-
-![El equipo del Deportivo Quito en el estadio Reales Tamarindos donde jugará ante Liga de Portoviejo en el Nacional de Ascenso.](https://www.elcomercio.com/wp-content/uploads/2024/11/deportivoquito.jpg)
-
-**Liga de Portoviejo derrotó 2-0 a Deportivo Quito** y se clasificó a las semifinales del Nacional de Ascenso.
-
-Este 24 de noviembre del 2024, el equipo azulgrana visitó a **Liga de Portoviejo** en el estadio **Reales Tamarindos**, donde no logró remontar la derrota sufrida por 1-0 en el partido de ida.
-
-Así, la ‘Capira’ consiguió un marcador global de 3-0 para alegría a los miles de hinchas que llegaron al estadio para alentar al popular equipo manabita.
-
-El rival de Liga de Portoviejo en semifinales será el 22 de Julio de Esmeraldas.
-
-### Más noticias:
-
-* [Liga, Deportivo Quito, IDV y otros saltan a la cancha. ¿Quién juega hoy?](https://www.elcomercio.com/deportes/futbol/liga-deportivo-quito-quien-juega-hoy-idv.html "Liga, Deportivo Quito, IDV y otros saltan a la cancha. ¿Quién juega hoy?")
-* [Deportivo Quito y los dos corazones de sus hinchas](https://www.elcomercio.com/deportes/futbol/deportivo-quito-hinchas-dos-corazones-futbol.html "Deportivo Quito y los dos corazones de sus hinchas")
-* [Deportivo Quito recibe respaldo de hinchas antes de viajar a Portoviejo](https://www.elcomercio.com/deportes/futbol/hinchas-deportivo-quito-jugadores-liga-portoviejo.html "Deportivo Quito recibe respaldo de hinchas antes de viajar a Portoviejo")
-
-Deportivo Quito no logró remontar
----------------------------------
-
-En términos generales, Deportivo Quito realizó un mejor partido que LDU de Portoviejo este 24 de noviembre del 2024. Sin embargo, el elenco local tuvo la virtud de aprovechar sus oportunidades de gol y llevarse una tremenda victoria que los coloca a solo dos partidos de llegar a la Serie B.
-
-La ‘Capira’ jugará ante el 22 de Julio y el ganador de esa llave llegará a la Serie B.
-
-La otra llave de semifinales la definirán Vinotinto y Unión.
-
-Los dos finalistas del Nacional de Ascenso jugarán en Serie B en el 2025.
-
-0-1 en la ida
--------------
-
-Con el gol de Jackson Landazury a los 55 minutos, la Liga de Portoviejo se impuso en la ida a Deportivo Quito en el estadio Gonzalo Pozo Ripalda.
-
-A pesar de haber dominado la posesión del balón en los dos encuentros, el conjunto dirigido por Carlos Castro no logró concretar sus ocasiones y se vio superado por un sólido sistema defensivo de Liga de Portoviejo.
-
-En la capital manabita sus miles de hinchas se ilusionan con retornar a la Serie B de la Liga Pro en Ecuador.
-
-Liga de Portoviejo vs. Deportivo Quito
---------------------------------------
-
-El partido de vuelta se jugó desde las 15:00 y fue una verdadera prueba de carácter para ambos equipos.
-
-Con estadio lleno, un un puñado bullicioso de unos 400 hinchas de la ‘Academia’, el partido se realizó con la conducción del árbitro Augusto Aragón.
-
-La consigna de los jugadores del Deportivo Quito fue clara: “prohibido rendirse”. A pesar de la desventaja, la directiva y el cuerpo técnico mantenían la esperanza.
-
-Los hinchas del elenco chulla también mantienen la fe en sus jugadores y apelaron a la famosa frase que dice tener dos corazones: uno para vivir y otro para sufrir.
-
-Deportivo Quito deberá esperar al 2025 para intentar volver a la Serie B. El Quito perdió la categoría de la Serie en el 2015.
-
-¿Quién es Mayra Salazar?
-========================
-
-Mayra Salazar fue reubicad desde Cotopaxi a la cárcel de Ambato
----------------------------------------------------------------
-
-![Mayra Salazar está procesada en el caso Metástasis.](https://www.elcomercio.com/wp-content/uploads/2024/05/Mayra-Salazar.jpg)
-
-**Mayra Salazar** es una pieza clave de procesos, en los que la **Fiscalía** formuló cargos en contra de funcionarios públicos y operadores de justicia. Estaba recluida en la cárcel de Latacunga (Cotopaxi), desde diciembre de 2023. Pero la madrugada de este domingo 24 de noviembre de 2024 se la trasladó a la cárcel de Ambato en un tanqueta militar.
-
-Salazar es una comunicadora de 35 años, guayaquileña, que fungió como relacionadora pública en la Corte Provincial de Justicia de Guayas.
-
-### Más noticias:
-
-* [Caso Metástasis, procesados mencionan supuesto incumplimiento de derechos](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-procesados-mencionan-supuestos-incumplimientos-derechos.html "Caso Metástasis, procesados mencionan supuesto incumplimiento de derechos")
-* [Fiscalía solicitó estas condenas para 21 vinculados en el caso Metástasis](https://www.elcomercio.com/actualidad/politica/fiscalia-solicito-condenas-21-vinculados-caso-metastasis.html "Fiscalía solicitó estas condenas para 21 vinculados en el caso Metástasis")
-
-Es tecnóloga, licenciada y magíster en comunicación[.](https://es.wikipedia.org/wiki/Caso_Met%C3%A1stasis) Actualmente, Salazar está en prisión y se encuentra ingresada en el Sistema de Protección de Víctimas y Testigos, en calidad de testigo.
-
-El 13 de diciembre de 2023 se realizó su detección.
-
-Mayra Salazar está procesada en el caso Metástasis
---------------------------------------------------
-
-Mayra Salazar es una de las procesadas en el caso Metástasis, en el que se investiga el presunto delito de delincuencia organizada, penado con diez años de privación de la libertad.
-
-Salazar se identifica como parte del caso Metásisis como la funcionaria judicial de Guayas que mantenía contacto directo con Leandro Norero.
-
-Su papel de colaboración lo habría efectuado desde el ámbito administrativo, “armando escenarios idóneos que podrían favorecer los fines de impunidad y libertad que pretendía la organización criminal, como identificar jueces dispuestos a recibir dinero o dádivas indebidas a cambio de emitir sus fallos”, según indica la Fiscalía General del Estado.
-
-Los **chats** que liberó Fiscalía del celular de Salazar revelaron todas las conexiones que ella tenía en el área judicial y los fines de las mismas.
-
-Por su colaboración eficaz en este proceso judicial recibió una sentencia de 15 meses de cárcel.
-
-Mayra Salazar es mencionada en el caso Purga
---------------------------------------------
-
-Aunque no es procesada, Mayra Salazar es pieza clave en el caso Purga y es mencionada en esta trama de corrupción, en la que también la Fiscalía General del Estado persigue el delito de delincuencia organizada.
-
-Según Fiscalía, el exasambleísta del PSC, **Pablo Muentes** habría contratado a Mayra Salazar, por pedido de Fabiola Gallardo, expresidenta de la Corte de Justicia de Guayas, para trabajar comunicacionalmente con miras a ganar las elecciones de la presidencia de esa Corte.
-
-Sus honorarios se habrían pactado en el domicilio de Muentes por 2.500 dólares mensuales y en efectivo.
-
-Fiscalía identifica a Salazar como la mano ejecutora de Gallardo, que habría tenido el objetivo de instrumentalizar una “dinámica criminal” en la Corte, para controlar las acciones judiciales y administrativas e intervenir en decisiones judiciales.
-
-Salazar rindió su **testimonio anticipado** el 28 de marzo de 2024. Dio nombres de personas vinculadas a la **corrupción** en la Justicia. En su relato acusó al exasambleísta Pablo Muentes de traficar tierras y dijo que “**manejaba la mayoría de vocales del Consejo de la Judicatura**“.
-
-También apuntó a la actriz guayaquileña **Carolina Jaume** como quien le habría entregado una agenda con el registro de los operadores del prófugo de la justicia **Xavier Jordán.**
-
-Muentes, también detenido y trasladado a La Roca, desmintió las declaraciones de Salazar a través de un comunicado.
-
-Dos de los cuatro conductores afectados por el incendio de la Simón Bolívar tienen quemaduras
-=============================================================================================
-
-Un conductor falleció tras el impacto en la avenida Simón Bolívar.
+Acusaciones en contra de Esteban Guarderas para el juicio político
 ------------------------------------------------------------------
 
-![Los bomberos trabajaron desde el mediodía para apagar el flagelo ocasionado por el tanquero que llevaba combustible. Foto: AMT](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-58-1.jpg)
+**Ana Cecilia Herrera** argumentó que Guarderas violó el deber de reserva y protección al denunciante al revelar los nombres de un colectivo que presentó una queja contra la presidenta del **Consejo Nacional Electoral (CNE)**, Diana Atamaint. Este hecho habría infringido normas internas del Cpccs.
 
-De los cuatro conductores afectados por el incendio vehicular en la avenida Simón Bolívar de Quito, uno murió y los otros tres presentan golpes y quemaduras.
+Otra acusación señala la presunta falsificación de firmas en una queja presentada ante el **TCE contra la vicepresidenta Verónica Abad**, relacionada con supuesta **campaña anticipada en las elecciones** seccionales de 2023.
 
-El conductor que manejaba el tanquero perdió pista y se se estrelló contra dos automóviles livianos. Producto de este choque se produjo una explosión y el posterior incendio.
+> [#Urgente](https://twitter.com/hashtag/Urgente?src=hash&ref_src=twsrc%5Etfw) | Presunto tráfico de influencias y revelar información que no le correspondía, entre las faltas que habría incurrido Juan Esteban Guarderas.  
+>   
+> Mira la noticia ampliada en [#YouTube](https://twitter.com/hashtag/YouTube?src=hash&ref_src=twsrc%5Etfw) por CORAPE DIGITAL TV ➡️ [https://t.co/GcSTu3On2z](https://t.co/GcSTu3On2z) [pic.twitter.com/Jf9kBUPR5O](https://t.co/Jf9kBUPR5O)
+> 
+> — Corape Digital TV (@CorapeDigitalTV) [November 25, 2024](https://twitter.com/CorapeDigitalTV/status/1861086553189015707?ref_src=twsrc%5Etfw)
 
-Más noticias
-------------
+Finalmente, se le imputa haber influido indebidamente en un proceso contravencional seguido en su contra, mediante una posible **intercesión de vocales del Consejo de la Judicatura**.
 
-* [Incendio de un tanquero deja un fallecido y tres heridos en la avenida Simón Bolívar](https://www.elcomercio.com/actualidad/quito/cierre-de-la-avenida-simon-bolivar-en-quito-debido-a-incendio-de-un-tanquero.html "Incendio de un tanquero deja un fallecido y tres heridos en la avenida Simón Bolívar")
-* [Siniestro de tránsito en la avenida Simón Bolívar deja cinco personas heridas](https://www.elcomercio.com/actualidad/quito/siniestro-transito-avenida-simon-bolivar-heridos.html "Siniestro de tránsito en la avenida Simón Bolívar deja cinco personas heridas")
+El proceso contra Guarderas avanzará tras las notificaciones respectivas, que otorgan 1**5 días para la presentación de pruebas de descargo**. Posteriormente, se desarrollará la etapa probatoria conforme a la ley.
 
-Esto ocurrió cerca del mediodía de ayer, sábado 23 de noviembre, a la altura de la Loma de Puengasí, en el sur oriente del distrito metropolitano de Quito.
+Por estas razones, la Comisión de Fiscalización **calificó el juicio político contra Juan Esteban Guarderas**.
 
-A este hombre se lo trasladó al Hospital Eugenio Espejo con quemaduras del 36% en su cuerpo, según explicó David Arguello, coordinador de Operaciones de la Agencia Metropolitana de Tránsito (AMT).
+Decisión sobre el caso Ángel Torres
+-----------------------------------
 
-En este [centro hospitalario](https://hee.gob.ec/ "https://hee.gob.ec/") del Ministerio de Salud Pública (MSP) se lo atiende de manera especializada, debido a las quemaduras que tiene.
+Por otro lado, la comisión archivó de **forma unánime el juicio político contra Ángel Torres Maldonado**. Según el artículo **19 del Código de la Democracia**, los jueces del TCE no pueden ser procesados políticamente mientras esté vigente un **proceso electoral en curso**.
 
-El hombre que conducía el carro azul murió. Él iba junto con su madre, a quien se atendió por heridas y contusiones, de menor gravedad.
+> Se solicita la reconsideración de la votación, sin contar con el apoyo de [@FiscalizacionAN](https://twitter.com/FiscalizacionAN?ref_src=twsrc%5Etfw) no se da paso.  
+> La presidenta [@pameaguirre1](https://twitter.com/pameaguirre1?ref_src=twsrc%5Etfw) dispone se proceda con el trámite y la notificación a Juan Guarderas. [#JuicioPolítico](https://twitter.com/hashtag/JuicioPol%C3%ADtico?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> Al haberse agotado el orden del día se clausura la sesión [pic.twitter.com/osT6D8DFDg](https://t.co/osT6D8DFDg)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [November 25, 2024](https://twitter.com/AsambleaEcuador/status/1861033168804946267?ref_src=twsrc%5Etfw)
 
-![Este auto azul fue impactado por el tanquero y se volcó. Foto: AMT](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-59-1-1024x683.jpg)
+La resolución tomó en cuenta el **retiro de firmas de algunos proponentes** y la falta de cumplimiento de **requisitos legales**. Juan Carlos Camacho, asambleísta de Construye, señaló que, además del marco normativo, **no existían condiciones para continuar con el proceso**.
 
-El conductor de este auto azul no logró sobrevivir. Fue impactado por el tanquero y se volcó. Foto: AMT
+Torres había sido acusado de **incumplir el principio de seguridad jurídica** al emitir un fallo en abril de 2024 que sancionó al **movimiento Construye** con la cancelación de su registro por la falta de un informe fiscal de 2022. Con esta decisión, el caso queda **oficialmente cerrado**.
 
-El tercer conductor de un vehículo pequeño negro salió con golpes en el costado izquierdo, explica Arguello. En su caso se lo puso a órdenes de la Fiscalía, pero él no ocasionó el siniestro.
+Cambios en el servicio de transporte por movilizaciones de mujeres en Quito
+===========================================================================
 
-El cuarto hombre manejaba una camioneta, que fue impactada por el tanquero. A él también se lo movilizó al Eugenio Espejo con 6% de quemaduras en su cuerpo. Su estado de salud es estable.
-
-La AMT realizó pruebas de alcoholemia a los conductores del vehículo negro y de la camioneta y dieron negativo. Al conductor del tanquero no se le pudo realizar, porque estaba en cuidados críticos.
-
-En este siniestro se destruyeron dos vehículos y uno fue impacto. No se presentaron daños en viviendas, pero si hubo un incendio forestal.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-60-1-1024x683.jpg)
-
-El tanquero quedó carbonizado y tomó varias horas movilizarlo. Esto provocó el cierre de la avenida Simón Bolívar, en ambos sentidos, a la altura de Lomas de Puengasí. Foto: AMT
-
-Trump completa la elección de su Gabinete en tiempo récord
-==========================================================
-
-Los 15 nominados a su equipo de trabajo pertenecen a un círculo cercano y leal al presidente electo, Donald Trump
------------------------------------------------------------------------------------------------------------------
-
-![El Gabinete del presidente electo Donald Trump es muy variado pero leal.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-30-1.jpg)
-
-Con la elección de **Scott Bessent** como secretario del Tesoro, uno de los nombramientos más esperados, y de la cabeza de**l Departamento de Agricultura**, el gabinete del futuro Gobierno de Donald Trump quedó completo por variados perfiles que tienen algo en común: su lealtad hacia el presidente electo republicano.
-
-### Más noticias
-
-* [Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia](https://www.elcomercio.com/actualidad/mundo/evo-morales-acusa-donald-trump-financiar-golpe-estado-bolivia.html "Evo Morales acusa a Donald Trump de financiar un ‘golpe de Estado’ en Bolivia ")
-* [Trump elige a la exfiscal general de Florida Pam Bondi como sucesora de Matt Gaetz](https://www.elcomercio.com/actualidad/mundo/trump-elige-exfiscal-general-de-florida-pam-bondi-sucesora-matt-gaetz.html "Trump elige a la exfiscal general de Florida Pam Bondi como sucesora de Matt Gaetz")
-* [Elon Musk será el responsable de la eficiencia gubernamental en el Gobierno de Trump](https://www.elcomercio.com/actualidad/mundo/elon-musk-sera-responsable-eficiencia-gubernamental-gobierno-trump.html "Elon Musk será el responsable de la eficiencia gubernamental en el Gobierno de Trump")
-
-El Gabinete
------------
-
-A menos de tres semanas de haber ganado la elección, **Trump ya ha nominado a los 15 secretarios** que conformarán su gabinete. Esto supone un tiempo récord comparado con su primer gobierno (2017-2021), cuando esperó hasta dos días antes de asumir el poder para completar los anuncios.
-
-Los 15 nominados pertenecen a un círculo cercano y leal al presidente electo, que en muchos casos ya habían trabajado con él en su primer mandato. Así es el caso d**e Brooke L. Rollins,** elegida este sábado para ser la cabeza del Departamento de Agricultura (USDA, en inglés).
-
-Rollins, que fue la última nominada para **ocupar una secretaría,** formó parte del Consejo Asesor Económico de Trump en 2016. También fue directora de**l Consejo de Política Nacional** y de la Oficina de Innovación Estadounidense, y asistente del presidente para Iniciativas Estratégicas.
-
-**“Hizo un trabajo increíble durante mi primer mandato”**, dijo el presidente electo sobre su nominada, además de destacar su gestión frente al America First Policy Institute (AFPI).
-
-La nominada ayudó a crear “**un equipo de patriotas leales”,** agregó el futuro mandatario sobre Rollins, que sería la segunda mujer a cargo del USDA.
-
-Un fiel donante
----------------
-
-En su maratónica elección de quienes lo acompañarán en su **segundo mandato,** Trump anunció este viernes a Bessent para estar a la cabeza de la importante secretaría del Tesoro.
-
-Trump lo presentó c**omo un gran aliado.** “Apoyará mis políticas que impulsarán la competitividad de EE.UU.”, apuntó sobre el que será el **primer miembro** de un gabinete republicano **abiertamente gay.**
-
-Bessent, **un magnate y veterano de Wall Street,** fue un fiel donante de la campaña de reelección al entregar alrededor de **3 millones de dólares a Trump** y otras causas republicanas que lo apoyaban, según Forbes.
-
-Otro megadonante elegido es e**l petrolero Chris Wright**, nominado para ser secretario de Energía.
-
-Perfiles variados
------------------
-
-Trump ha demostrado tener una sólida y variada lista de personas leales a él. Por ejemplo, el jueves pasado nominó a la abogada **Pam Bondi como fiscal general de EE.UU.**, pocas horas después de que el excongresista Matt Gaetz, que había sido elegido para ocupar ese cargo, declinara acorralado por un escándalo sexual.
-
-“Está claro que mi nominación estaba empezando a convertirse en una distracción innecesaria para el trabajo clave de la transición de Donald Trump”, **dijo Gaetz al retirarse.**
-
-Bondi, **exfiscal de Florida,** es una ficha cercana al presidente electo que formó parte de su equipo legal durante su primer juicio político.
-
-La abogada es la segunda aliada de Florida, estado donde reside el presidente electo, elegida para el gabinete. Trump nominó al senador por **Florida Marco Rubio** para ser el máximo representante de la diplomacia estadounidense, convirtiéndose en el primer latino que asumirá el cargo.
-
-Otra latina nominada es la congresist**a Lori Chávez-DeRemer,** de raíces mexicanas, como su próxima secretaria de Trabajo.
-
-Los gobernadores de Dakota del Norte y de Dakota del Sur, **Doug Burgum y Kristi Noem,** son los nominados para ocupar el Departamento de Interior y de Seguridad Nacional, respectivamente.
-
-El multimillonario **Howard Lutnick** es el nominado para ser el secretario de Comercio. Mientras que el excongresista y presentador de Fox Business Sean Duffy se encargará del Departamento de Transporte.
-
-Trump nominó al exjugador de fútbol americano **Scott Turner** en la cartera de Urbanismo y Vivienda, y a la exejecutiva de la compañía de lucha libre World Wrestling Entertainment Linda McMahon como secretaria de Educación.
-
-El excongresista por **Georgia Doug Collins** fue nominado como secretario de Asuntos de los Veteranos.  
-El gabinete lo completan **el antivacunas Robert F. Kennedy** Jr. al frente de Sanidad y el expresentador de la Fox investigado en el pasado por abuso sexual Pete Hegseth, en Defensa.
-
-Todos los nominados deberán se confirmados por el **Senado de EE.UU.,** que desde enero del 2025 será dominado por los [republicanos.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
-
-Lo que se sabe del asalto en centro comercial de Quito
-======================================================
-
-El centro comercial se pronunció al respecto y rechazó el acto delictivo. Las autoridades competentes deben esclarecer los hechos
+La Empresa de Pasajeros informó sobre cómo estarán los horarios del servicio de transporte por las movilizaciones de las mujeres.
 ---------------------------------------------------------------------------------------------------------------------------------
 
-![Los asaltantes vestían ropa de la Policía.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-29.jpg)
+![Las movilizaciones alteraron el funcionamiento del trolebús en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Transporte-.jpg)
 
-El sábado 23 de noviembre de 2024, hombres armados y vestidos con uniformes de policía ingresaron a un **centro comercial del norte de Quito** y asaltaron una joyería.
-
-### Más noticias
-
-* [En centro comercial de Quito, armados con uniformes de la Policía asaltan una joyería](https://www.elcomercio.com/actualidad/quito/en-centro-comercial-de-quito-armados-con-uniformes-de-la-policia-asaltan-una-joyeria.html "En centro comercial de Quito, armados con uniformes de la Policía asaltan una joyería")
-* [Cerca de cien barrios de Quito afectados por cortes de agua este domingo 24 de noviembre](https://www.elcomercio.com/actualidad/quito/barrios-quito-afectados-agua-domingo-24-noviembre.html "Cerca de cien barrios de Quito afectados por cortes de agua este domingo 24 de noviembre")
-* [Mayra Salazar fue cambiada de cárcel este domingo 24 de noviembre](https://www.elcomercio.com/actualidad/seguridad/mayra-salazar-cambio-de-carcel-este-domingo-24-de-noviembre.html "Mayra Salazar fue cambiada de cárcel este domingo 24 de noviembre")
-
-El asalto en Quito
-------------------
-
-El hecho se dio alrededor de las 10:25, cuando e**l centro comercial ya había abierto** y se encontraba con visitantes en su interior.
-
-Uno de los asaltantes vestía un **calentador policial blanco con azul,** mientras el otro estaba de negro con el chaleco de la Policía. Ambos tenían mascarillas y gorras.
-
-Una vez que la Policía fue alertada sobre este **posible robo** en el local comercial coordinó la respuesta. Pero los delincuentes ya se fugaron.
-
-Cerca de las 19:00, el coronel Jaime Ruales, comandante del distrito metropolitano, confirmó el asalto y robo. Los asaltantes, agregó, llevaban los **uniformes de la Policía** y uno de ellos portaba un arma larga.
-
-La Policía Judicial comenzó a **levantar información de evidencias** del lugar como a revisar las imágenes de las cámaras internas y externas. Esto con el fin de dar con estos individuos.
-
-Tres patrulleros, cinco motorizados y **efectivos de Criminalística** estuvieron trabajando en el sitio. No se reportaron heridos.
-
-Pronunciamiento del centro comercial
-------------------------------------
-
-Este domingo 24 de noviembre, **el centro comercial compartió un comunicado** en sus redes sociales en el que informan que están colaborando con las autoridades competentes.
-
-Resaltó que el **centro comercial está comprometido** en salvaguardar la seguridad de sus clientes pero que los ataques de la delincuencia **son una problemática** que trasciende su gestión directa.
-
-Además, **rechazaron “categóricamente estos actos** que afectan la seguridad ciudadana” y reiteraron su propósito de ofrecer espacios seguros.
-
-La administración espera que **la investigación de las autoridades** permita esclarecer este hecho e identificar a los [responsables](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-Hermanos Menéndez afrontarán una audiencia en su lucha por salir de la cárcel
-=============================================================================
-
-Se llevará a cabo un sorteo de 16 asientos para los interesados en ser parte de la audiencia.
----------------------------------------------------------------------------------------------
-
-![Diane Hernández (Izq.) y Joan Vandermolen (Centro), sobrina y hermana de Kitty Menéndez, durante una rueda de prensa con el fiscal de distrito del condado de Los Ángeles, George Gascon. Foto: Archivo EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/caso-hermanos-menendez_720.jpg)
-
-Los hermanos Erik y Lyle Menéndez, quienes cumplen cadena perpetua sin posibilidad de libertad condicional desde 1996, afrontarán una audiencia este lunes 25 de noviembre de 2024. Esto podría abrirles camino a una vida fuera de la cárcel. Ambos recibieron sentencia por el asesinato de sus padres.
+Este lunes 25 de noviembre se conmemora el Día Internacional de la Eliminación de la **Violencia contra la Mujer.** En el marco de esta fecha, diversas organizaciones convocaron a movilizaciones en **Quito**[.](https://es.wikipedia.org/wiki/Movilizaci%C3%B3n_social "https://es.wikipedia.org/wiki/Movilizaci%C3%B3n_social")
 
 Más noticias
 ------------
 
-* [Caso de los hermanos Menéndez se puede abrir para buscar su libertad](https://www.elcomercio.com/actualidad/mundo/caso-hermanos-menendez-se-puede-abrir-para-buscar-su-libertad.html "Caso de los hermanos Menéndez se puede abrir para buscar su libertad")
-* [Marco Rubio, el latino que será secretario de Estado de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/marco-rubio-latino-sera-canciller-donald-trump.html "Marco Rubio, el latino que será secretario de Estado de Estados Unidos")
+* [Violencia digital de género en Ecuador: Un flagelo silencioso en la era digital](https://www.elcomercio.com/opinion/violencia-digital-genero-ecuador-lorena-naranjo-columnista.html "Violencia digital de género en Ecuador: Un flagelo silencioso en la era digital")
+* [Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’](https://www.elcomercio.com/actualidad/seguridad/dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres-se-vive-con-union-y-esperanza.html "Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’")
+* [Bloque de Seguridad agradeció a ciudadanos por no unirse a movilizaciones del pasado viernes](https://www.elcomercio.com/actualidad/seguridad/bloque-de-seguridd-agradecio-ciudadanos-por-no-unirse-a-movilizaciones-pasado-viernes.html "Bloque de Seguridad agradeció a ciudadanos por no unirse a movilizaciones del pasado viernes")
 
-Los hermanos fueron hallados culpables en un segundo juicio por el asesinato de Kitty y José Menéndez. Esto habría ocurrido en su casa de Beverly Hills el 20 de agosto de 1989. Se trata de un controvertido caso en el que los jóvenes denunciaron haber sufrido abusos sexuales por su padre.
+Ante esta situación, la Empresa de Pasajeros informó que ajustará el servicio del Trolebús durante las **manifestaciones**, previstas para las 16:00. A continuación, se detallan los cambios programados:
 
-Inicialmente Erik y Lyle afirmaron a la policía que encontraron los cuerpos sin vida de sus padres tras estar la tarde fuera de casa. Pero levantaron sospechas cuando comenzaron una vida de excesos tras acceder a la fortuna de su padre.
+**Operación del Trolebús**
+--------------------------
 
-Poco después, la novia del psicólogo de Erik advirtió a la policía de la existencia de sesiones grabadas en las que admitía su culpabilidad.
+El servicio del **Trolebús** presentará las siguientes modificaciones:
 
-El primer juicio, que terminó sin veredicto por falta de acuerdo del jurado, salió en vivo en el canal Court TV. La cobertura mediática masiva hizo que su historia diera la vuelta al mundo, lo que aumentó la presión en el segundo proceso judicial.
+**Sentido norte-sur:**
 
-Luego de 35 años, los hermanos Menéndez recobran la atención
-------------------------------------------------------------
+* Las unidades operarán desde la Estación El Labrador hasta la Parada Cuero y Caicedo, con retorno hacia el norte.
 
-Después de 35 años de prisión, los hermanos recobraron la atención pública por la serie de Netflix ‘Monstruos: La historia de Lyle y Erik Menéndez’. A esto se sumó un documental y el revuelo de una nueva generación que los mira con otros ojos y no como asesinos despiadados.
+**Sentido sur-norte:**
 
-Erik, de 53 años, y Lyle, de 56, ahora buscan una oportunidad de tener una nueva sentencia. Según informó el medio NBC, ambos comparecerán de forma virtual en una audiencia. Esto se llevará a cabo en una corte de Los Ángeles, en la que podrían emitir declaraciones.
+* El recorrido se realizará desde la Terminal Quitumbe hasta la Estación El Recreo.
 
-En esta audiencia, la defensa y la acusación se reunirán con el juez Michael Jesic. Ahí discutirán el progreso del caso hasta el momento, y qué debe suceder a continuación.
+**Suspensión de paradas:**
 
-Los hermanos solicitan un hábeas corpus
----------------------------------------
+* El sistema suspenderá todas las paradas ubicadas en el Centro Histórico durante las manifestaciones.
 
-El tribunal fijó el martes como límite para que la Oficina del Fiscal del condado de Los Ángeles responda a la petición de hábeas corpus. Esta se pidió en 2023 y afirma que sus condenas y sentencias de prisión son inconstitucionales. El pedido se presentó después de que se descubriera nueva evidencia.
+Por otro lado, las **movilizaciones** también impactarán el **tránsito** **vehicular** en distintos sectores de Quito.
 
-Las pruebas revelan que ambos fueron víctimas de abuso sexual infantil por parte de su padre. Esta es una afirmación que los hermanos sostuvieron durante el primer juicio pero que fue excluida del segundo proceso en el que fueron condenados.
+**Cierres viales en Quito**
+---------------------------
 
-Entre ellas está una carta escrita por uno de los hermanos admitiendo a otro miembro de la familia que estaba siendo víctima de abusos. También está el testimonio de un trabajador de la empresa del padre que alega que fue abusado por José Menéndez.
+Las autoridades prevén cierres viales en puntos estratégicos de la ciudad. En este sentido, la Agencia Metropolitana de Tránsito (**AMT**) aplicará bloqueos de forma progresiva, según el avance de la marcha y la cantidad de participantes.
 
-Hay declaraciones de un integrante del famoso grupo Menudo, que asegura que el empresario abusó de él en una visita a su casa.
+Según la convocatoria, la movilización comenzará en la **Caja del Seguro**, ubicada en la avenida 10 de Agosto, a las 16:00. Desde allí, los manifestantes avanzarán por esta vía con el objetivo de llegar al **Centro Histórico.**
 
-Sorteo de 16 asientos para ser parte de la audiencia
-----------------------------------------------------
+Desvíos vehiculares:
+--------------------
 
-La corte de Los Ángeles llevará a cabo un sorteo de 16 asientos para quienes estén interesados en ser parte de la vista del lunes.
+* **Sentido norte-sur:** Los conductores deberán tomar desvíos desde la avenida Patria hacia las zonas oriental y occidental de la ciudad.
+* **Sentido sur-norte:** El cierre se ubicará en el puente del Sena, en la avenida Maldonado, sector La Recoleta, con redirección hacia la avenida Velasco Ibarra.
 
-También está programada una audiencia separada para el 11 de diciembre. Ahí se prevé abordar la solicitud de ser sentenciados nuevamente a cadena perpetua con posibilidad de libertad condicional.
+Además, las autoridades identificaron posibles cierres en el **Centro Histórico**, que dependerán del desarrollo de las **movilizaciones**. Entre las restricciones previstas se incluyen:
 
-Sin embargo, este último proceso podría retrasarse por la llegada del nuevo fiscal de Los Ángeles Nathan Hochman. Éste ganó las elecciones al actual fiscal George Gascón, quien decidió reabrir el caso.
+* Calle Guayaquil y Rocafuerte.
+* Calle Benalcázar y Mejía.
+* Calle Benalcázar y Sucre.
+* Pasaje Espejo y calle Guayaquil.
+* Calle Venezuela y Sucre.
+* Calle García Moreno y Sucre.
+* Calle Guayaquil y Sucre.
+* Calle Guayaquil y Chile.
+* Calle Guayaquil y Espejo.
 
-Hochman dijo que llevaría a cabo una revisión propia del proceso después de que asumir el cargo el 3 de diciembre. Esta semana el gobernador de California, Gavin Newsom, advirtió que no tomaría una decisión sobre la concesión de clemencia a Lyle y Erik Menéndez antes de que eso suceda.
+Finalmente, las autoridades recomiendan planificar los desplazamientos con anticipación, ya que las **alteraciones** **al tráfico** podrían extenderse durante varias horas. Además, sugieren mantenerse atentos a los reportes emitidos en tiempo real.
 
-Mayra Salazar fue cambiada de cárcel este domingo 24 de noviembre
-=================================================================
+Comisión aprueba informe para primer debate del proyecto sobre combate al lavado de activos
+===========================================================================================
 
-Mayra Salazar cumple una sentencia por su participación en el caso Metástasis. Fue transportada en una tanqueta del Ejército
-----------------------------------------------------------------------------------------------------------------------------
+Este lunes 25 de noviembre de 2024, la Comisión de Régimen Económico y Tributario de la Asamblea Nacional aprobó con cinco votos a favor el informe para el primer debate del proyecto urgente remitido por el Ejecutivo, enfocado en mejorar la recaudación tributaria y combatir el lavado de activos. Más noticias Este proyecto regula el \[…\]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Mayra Salazar fue trasladada en una tanqueta militar.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-28-1.jpg)
+![Imagen referencial de la venta de autos en un patio.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-55-3.jpg)
 
-El Ejército Ecuatoriano, en coordinación con el **Servicio Nacional de Atención Integral a Personas Adultas Privadas de la Libertad** (SNAI), realizó el traslado de 1 193 personas privadas de la libertad (PPL).
+Este lunes 25 de noviembre de 2024, la **Comisión de Régimen Económico y Tributario de la Asamblea Nacional** aprobó con cinco votos a favor el informe para el primer debate del **proyecto urgente remitido por el Ejecutivo**, enfocado en mejorar la recaudación tributaria y combatir el **lavado de activos**.
 
 ### Más noticias
 
+* [UAFE controlará el origen de fondos para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/uafe-controlara-origen-fondos-campana-elecctoral-elecciones-2025.html "UAFE controlará el origen de fondos para las elecciones 2025")
+* [Daniel Noboa tomó una decisión inesperada sobre proyecto de ley contra lavado de activos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-tomo-decision-proyecto-de-ley-contra-lavado-de-activos.html "Daniel Noboa tomó una decisión inesperada sobre proyecto de ley contra lavado de activos")
+* [Propuesta de Daniel Noboa sobre bases militares tiene cronograma en la Asamblea](https://www.elcomercio.com/actualidad/politica/propuesta-daniel-noboa-bases-militares-cronograma-asamblea.html "Propuesta de Daniel Noboa sobre bases militares tiene cronograma en la Asamblea")
+
+Este proyecto regula el impuesto a la **comercialización de vehículos usados** y plantea cambios en otros ámbitos relacionados, como los **clubes deportivos** y las competencias de la Unidad de Análisis Financiero y Económico (UAFE).
+
+Tras esta aprobación, el documento será remitido al **Pleno de la Asamblea para su debate inicial**. Posteriormente, deberá regresar a la comisión para elaborar el **informe para segundo y definitivo debate**.
+
+Reducción progresiva del impuesto a vehículos usados
+----------------------------------------------------
+
+Uno de los puntos centrales del proyecto es la modificación del impuesto a la comercialización de vehículos usados. Según la presidenta de la comisión, **Nathaly Farinango (ADN)**, la reforma no implica un incremento de impuestos, sino una reducción para la mayoría de los ciudadanos.
+
+> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [@RegimenEconomAN](https://twitter.com/RegimenEconomAN?ref_src=twsrc%5Etfw) aprobó el informe para primer debate del proyecto de [#LeyMejoraRecaudatoria](https://twitter.com/hashtag/LeyMejoraRecaudatoria?src=hash&ref_src=twsrc%5Etfw) a través del Combate al Lavado de Activos, con calificación urgente en materia económica.  
+>   
+> Boletín ▶️ [https://t.co/0llx4EVJcK](https://t.co/0llx4EVJcK) [pic.twitter.com/KqOmnfGsqp](https://t.co/KqOmnfGsqp)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [November 25, 2024](https://twitter.com/AsambleaEcuador/status/1861079586785690112?ref_src=twsrc%5Etfw)
+
+Actualmente, se paga el **1% sobre el valor de la transferencia sin importar el costo del vehículo**. Con la nueva tabla, quienes adquieran vehículos valorados en hasta **20 000 dólares pagarían solo el 0,75%.**
+
+Los impuestos variarán progresivamente según el rango del costo del vehículo. Por ejemplo, los autos con precios entre **50 000 y 60 000 dólares** tendrán un**a tasa del 1,25%**, mientras que aquellos valorados en más de 80 000 dólares alcanzarán una tarifa del 4,25 %.
+
+Además, el proyecto prohíbe el pago en efectivo para las transacciones, exigiendo el uso de transferencias electrónicas o cheques como medida para prevenir el lavado de activos.
+
+Otros puntos destacados incluyen exenciones del impuesto en casos de herencias o donaciones, así como un descuento del **50% para personas de la tercera edad o con discapacidad**. El plazo máximo para pagar el impuesto será de 30 días desde la legalización notarial de la transacción.
+
+Cambios propuestos en clubes deportivos y la UAFE
+-------------------------------------------------
+
+El proyecto también contempla la creación de las **Sociedades Anónimas Deportivas (SAD)**, aplicables a clubes profesionales. Estas entidades se constituirán bajo el régimen de sociedades mercantiles y estarán sujetas a la supervisión de la **Superintendencia de Compañías, Valores y Seguros**.
+
+Se busca con esto garantizar la transparencia en el financiamiento de las **ligas profesionales, alineándose con estándares internacionales**.
+
+Por otro lado, se propone ampliar las atribuciones de la [UAFE](https://www.uafe.gob.ec/ "https://www.uafe.gob.ec/"), permitiendo el congelamiento de fondos como **medida cautelar cuando se detecten operaciones sospechosas**. La unidad también estará facultada para colaborar con la **Fiscalía y la Procuraduría**. Esto se realizará en casos relacionados con extinción de dominio y otras investigaciones sobre actividades ilícitas.
+
+Legisladores de la oposición cuestionaron la inclusión de estas reformas en un proyecto calificado como urgente. Argumentan que temas como las SAD y las competencias de la UAFE deberían discutirse en iniciativas separadas, debido a su relevancia y complejidad.
+
+Ministra de la Mujer pide protección para mujeres, en medio del conflicto armado
+================================================================================
+
+Hace énfasis en las mujeres víctimas de violencia que tienen miedo a denunciar porque los agresores son parte del crimen organizado
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Una mujer usa un pasamontañas en una marcha en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-25T133454.116.jpg)
+
+La **ministra de la Mujer y Derechos Humanos**, Arianna Tanca, señaló que los cuerpos de las mujeres se han vuelto un “botín de guerra”. Por ello, es “urgente” empezar a poner foco en **la relación entre la violencia machista y el crimen organizado.**
+
+### Más noticias
+
+* [Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’](https://www.elcomercio.com/actualidad/seguridad/dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres-se-vive-con-union-y-esperanza.html "Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’")
+* [En Quito hay solidaridad durante los cortes de luz](https://www.elcomercio.com/actualidad/quito/quito-solidaridad-durante-cortes-luz.html "En Quito hay solidaridad durante los cortes de luz")
+* [Ministra de la Mujer, sobre caso del fotógrafo denunciado: ‘esta es la punta del iceberg’](https://www.elcomercio.com/actualidad/seguridad/ministra-mujer-acoso-denuncias-fotografo.html "Ministra de la Mujer, sobre caso del fotógrafo denunciado: ‘esta es la punta del iceberg’")
+
+La mujer como víctima del conflicto armado interno
+--------------------------------------------------
+
+“En este contexto de inseguridad, las mujeres tenemos una vulnerabilidad extra”, explicó Tanca en una entrevista con EFE por el **Día Internacional de la Eliminación de la Violencia contra las Mujeres**, que se conmemora este 25 de noviembre.
+
+“Los **cuerpos de las mujeres se vuelven un botín de guerra** en este contexto de conflicto armado interno, se sexualizan y muchas veces sus agresores están ligados al narcotráfico”, agregó la Ministra.
+
+Esta situación, comentó, también “supone un esfuerzo adicional” para su Cartera de Estado. Pues han recibido **alertas de funcionarias** que trabajan en territorio y en casas de acogida de víctimas que “tienen miedo a llevar adelante estos casos porque **los agresores están vinculados al crimen organizado”**.
+
+“Esto nos abre el paraguas a nuevas realidades, a replantearnos **nuevas formas de proteger a las mujeres** y a quienes que están atendiendo estas denuncias”, mencionó.
+
+En 2023, al que denominó como “**el año más violento para la mujer ecuatoriana**“, las cifras de feminicidio ya alertaban de este fenómeno, agregó Tanca, pues “la mayoría de los casos estaban ligados al crimen transnacional y **a la operación de los grupos de delincuencia organizada”**.
+
+Según la Asociación Latinoamericana para el Desarrollo Alternativo (Aldea), de los **321 feminicidios** que registró en 2023 Ecuador, **172 se perpetraron en contextos relacionados con el crimen organizado.** En lo que va de 2024, al menos 88 de las 215 muertes violentas de mujeres están vinculadas a la pugna entre bandas delictivas.
+
+Menos feminicidios, pero no menos violencia
+-------------------------------------------
+
+La ministra señaló que en este 2024 **Ecuador registra una reducción en los feminicidios**, pero que “esto no significa que sea una reducción en la violencia hacia las mujeres”.
+
+Un ejemplo de ello, dijo, es que **se han “cuadruplicado” las cifras de atención a víctimas**. “En el 2023, el Ministerio tuvo 11 000 atenciones y **este año tenemos 53 000**.
+
+Esto es un reflejo de la violencia que sufre la mujer ecuatoriana, pero también de la presencia que tenemos en territorio y **del trabajo en prevención”**, mencionó.
+
+También afirmó que las normas **y mecanismos de protección** que tiene Ecuador, donde siete de cada 10 mujeres han sufrido violencia, **son “de los más avanzados de la región”**. Sin embargo, el desafío es que eso se materialice y **llegue a las mujeres.**
+
+Enfatizó en que es algo en lo que están trabajando, empezando por el **fortalecimiento institucional** del Ministerio, que luego de dos años de creación sigue teniendo la estructura de la antigua Secretaría de Derechos Humanos.
+
+“Eso también ha sido una **restricción para tener más presupuesto”,** admitió. En diciembre este cambio podría ser una realidad, según adelantó.
+
+Aborto y violencia política
+---------------------------
+
+Tanca también se refirió a las recomendaciones que el Comité de Derechos de la ONU hizo recientemente a Ecuador, entre las que están **el acceso al aborto** y la protección de la violencia a las mujeres políticas.
+
+“El objetivo es implementarlas poco a poco”, dijo la Ministra, quien aclaró que en el **tema del aborto** las competencias recaen en la Corte Constitucional y el Ministerio de Salud.
+
+“Pero como somos el ente rector del Sistema para Prevenir y Erradicar la Violencia, y sabemos que la **violencia sexual y que las maternidades no deseadas son una violencia**, estaremos a las órdenes para dar los insumos necesarios para que se puedan tomar las mejores decisiones”, mencionó.
+
+Con respecto a las políticas, adelantó que pronto se abrirá **una “escuela de candidatas”**, un proyecto que buscar promover su participación política.
+
+Tanca señaló que es importante tener claro que esta **violencia está “estrictamente relacionada”** a los estereotipos de género, lo que no se debe confundir con el escrutinio que se hace a los funcionarios.
+
+Este es un debate muy presente en Ecuador tras la denuncia por violencia política de género que hizo la **vicepresidenta Verónica Abad**, ahora suspendida de su cargo, contra Noboa.
+
+“Cualquier denuncia de **violencia política de género** tiene que ir al Tribunal Contencioso Electoral que tiene los jueces especializados para determinar si es o no es y qué sanción cabe, yo no tengo esa capacidad. Yo tengo la capacidad de dar el **acompañamiento** y aquí estamos para todas las [mujeres](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") que lo requieran”, zanjó.
+
+Barcelona Sporting Club cerrará el 2024 lleno de fracasos
+=========================================================
+
+El 2024 para Barcelona SC ha sido nefasto. No ganó un solo título en la previa a su centenario.
+-----------------------------------------------------------------------------------------------
+
+![Janner Corozo, goleador de Barcelona Sporting Club en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/barcelona_fracaso_1.jpg)
+
+**Barcelona Sporting Club terminará la temporada 2024 sin títulos** y con una pobre actuación. Con esto se cierra un año en el que la inestabilidad deportiva y dirigencial estuvieron a la orden del día.
+
+La tarde del sábado 23 de noviembre de 2024 **empataron 2-2 con Técnico Universitario en el estadio Bellavista de Ambato**. Con este resultado las mínimas opciones de ganar la segunda etapa se esfumaron definitivamente.
+
+### Más noticias:
+
+* [Liga de Quito e IDV golearon y la etapa se definirá en la última fecha](https://www.elcomercio.com/deportes/futbol/liga-quito-catolica-partido-ligapro-idv.html "Liga de Quito e IDV golearon y la etapa se definirá en la última fecha")
+* [Esther Galarza y el éxito en la Vuelta Ciclística Femenina al Ecuador](https://www.elcomercio.com/deportes/ciclismo/esther-galarza-vuelta-femenina-ecuador-ganadora.html "Esther Galarza y el éxito en la Vuelta Ciclística Femenina al Ecuador")
+* [Fecha 15 de la Liga Pro con siete partidos con el mismo horario](https://www.elcomercio.com/deportes/futbol/fecha15-liga-pro-horarios-unificados.html "Fecha 15 de la Liga Pro con siete partidos con el mismo horario")
+
+Para lo único que le alcanzó la actual campaña a Barcelona SC, **fue para clasificarse a la Copa Libertadores 2025**, pero no a la fase de grupos, sino recién a la segunda fase de eliminación.
+
+Para ingresar al lote de los 32 mejores del continente tendrá que superar dos etapas, caso contrario, en su centenario, mirará el torneo desde la comodidad de su concentración en Guayaquil.
+
+Son cinco los fracasos que acumula BSC. Sus hinchas esperan que esta realidad cambien en el año que viene.
+
+Fracaso en la Copa Libertadores
+-------------------------------
+
+**La Copa Libertadores fue un rotundo fracaso**. En el grupo B fueron terceros con 6 puntos con una solo victoria ante Cobreloa de Chile y fueron uno de los tres peores equipos de la competición junto a Deportivo Táchira y Caracas de Venezuela.
+
+En la cuarta fecha el grupo se **definió en favor de Sao Paulo y Talleres**. Los ecuatorianos se consolaron con un cupo a los play-off de los octavos de final de la Copa Sudamericana.
+
+En el Monumental, BSC cedió puntos claves ante Sao Paulo (derrota 0-2) y empate ante Talleres (2-0.)
+
+Fuera de casa empataron contra **Cobreloa (1-1) y Sao Paulo (0-0)** y cayeron ante Talleres (3-1).
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/barcelona_fracaso_2-1024x683.jpg)
+
+Foto: API.
+
+Fracaso en la Copa Sudamericana
+-------------------------------
+
+El miércoles 24 de julio el camino de Barcelona por la **Copa Sudamericana** terminó ante el Bragantino. Los brasileños ganaron por 3-2. En la ida, jugada siete días atrás en el Monumental, había terminado 1-1.
+
+Los canarios tuvieron un primer tiempo intenso y **se fueron al descanso ganando por 1-2**, pero en el segundo su performance se vino al piso y dejaron la puerta abierta para que los brasileños aprovechen los errores defensivo y la poca contundencia en ataque.
+
+**Javier Burrai** volvió a ratificar que no pasaba por su mejor momento. La sensación que da el mundo Barcelona es que cada balón que llega a su área, va a terminar dentro de su arco.
+
+Fracasó en la Copa Ecuador
+--------------------------
+
+La noche del domingo 28 de julio, **Independiente Juniors, cuadro que milita en la Liga Pro Serie B, venció por 2-0 a BSC** en los dieciseisavos de final de la Copa Ecuador.
+
+Los goles de **Jean Pierre Arroyo y Maelo Rentería** acabaron con el efímero paso del ‘Ídolo del Ecuador’ en la Copa Ecuador, torneo en el que incluso amenazaron no participar por desacuerdos con la Federación Ecuatoriana de Fútbol (FEF), organizadora del torneo.
+
+Los hinchas en las gradas hicieron sentir su descontento con el accionar del **equipo que estaba a cargo del argentino Ariel Holan**, que se le agotó rápidamente el discurso con un grupo de jugadores que no tiene respuestas ante los rivales.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/barcelona_fracaso_3-1024x683.jpg)
+
+Foto: API.
+
+Fracaso en la Liga Pro
+----------------------
+
+El primer semestre se cerró con una **discreta participación en la Liga Pro**. En la última fecha no dependía de sus resultados para ganar la etapa que finalmente quedó en manos de Independiente del Valle.
+
+La ventaja era para **IDV que ganó su partido ante Orense**, mientras que un apático BSC fue hasta el estadio La Cocha de Latacunga y perdió 1-0 ante Mushuc Runa.
+
+Si bien en la tabla de posiciones fueron segundo por delante de **equipos como Liga de Quito, Aucas, Universidad Católica y Emelec**, nunca su funcionamiento fue el esperado, al punto que el uruguayo Diego López fue despedido y llegó a ocupar su cargo Holan.
+
+En la segunda etapa la historia se repitió. Los malos resultados alejaron a Holan del cargo. En su lugar fue nombrado Segundo Alejandro Castillo, una especie de bombero de la institución.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/barcelona_fracaso_4-1024x683.jpg)
+
+Foto: API.
+
+Fracaso dirigencial
+-------------------
+
+El 2024 nunca pintó bien para **Barcelona Sporting Club**. La disputa por captar la presidencia derivó en una inestabilidad institucional que poco a poco le pasa factura a los amarillos.
+
+La elección de la nueva directiva de Barcelona SC se dilató desde julio de 2023 con la injerencia de la justicia ordinaria, con **José Francisco Cevallos**, expresidente del club, como el primero que inició con estos reclamos.
+
+En primera instancia los socios de Barcelona debieron ir a las unas en septiembre, pero recién en mayo de 2024 decidieron que **Antonio Álvarez** sea el presidente por los siguientes cuatro años. El exjugador Matías Oyola fue su contrincante.
+
+“Los refuerzos que lleguen a **Barcelona** serán nombres importantes, no cualquier chimichurri”, fue una de las declaraciones de Álvarez, pero la realidad es que los canarios bajo su mandato caminan de fracaso en fracaso.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/barcelona_fracaso_5-1024x683.jpg)
+
+Foto: API.
+
+San viernes
+-----------
+
+Colombia pide indulto a EE.UU. a Simón Trinidad, guerrillero de las FARC atrapado en Ecuador
+============================================================================================
+
+Simón Trinidad, excomandante de las FARC, podría beneficiarse de un indulto solicitado por Colombia.
+----------------------------------------------------------------------------------------------------
+
+![Simón Trinidad, cuando fue capturado en Ecuador y deportado a Estaos Unidos en 2004.](https://www.elcomercio.com/wp-content/uploads/2024/11/trinidad-EFE.jpeg)
+
+La embajada de **Colombia** ante los **Estados Unidos** confirmó que solicitó el **indulto** para el excomandante de las extintas **FARC** Ricardo Palmera, conocido en la guerra como **‘Simón Trinidad’**. Con esto se busca garantizar la participación de Palmera en los procesos de la Jurisdicción Especial para la Paz (JEP)[.](https://es.wikipedia.org/wiki/Sim%C3%B3n_Trinidad "https://es.wikipedia.org/wiki/Sim%C3%B3n_Trinidad")
+
+### Más noticias
+
+* [John Kerry: ‘EE.UU. no está negociando liberar a ‘Simón Trinidad’’](https://www.elcomercio.com/actualidad/mundo/johnkerry-simontrinidad-liberacion-estadosunidos-colombia.html "https://www.elcomercio.com/actualidad/mundo/johnkerry-simontrinidad-liberacion-estadosunidos-colombia.html")
+* [FARC propone que Simón Trinidad coordine recolección de armas tras firma de paz](https://www.elcomercio.com/actualidad/mundo/farc-simontrinidad-colombia-estadosunidos-negociacion.html "https://www.elcomercio.com/actualidad/mundo/farc-simontrinidad-colombia-estadosunidos-negociacion.html")
+
+Simón Trinidad, uno de los líderes de las FARC
+----------------------------------------------
+
+En la guerrilla de las **FARC**, alias Trinidad se encargó de la formación política y la propaganda. A mediados de la década de 1990, fue uno de los comandantes del Bloque Caribe, uno de los más importantes de la organización terrorista.
+
+Entre 1999 y 2002, Trinidad fue negociador en los diálogos de paz del **Caguán**. Fue capturado en Ecuador, donde fue a reunirse con un enviado de la ONU, en 2004 y extraditado a los **Estados Unidos**, donde recibió una condena de 60 años de prisión por su participación en el secuestro de tres estadounidenses.
+
+Actualmente, cumple su condena en la prisión de **máxima seguridad** de ADX Florence en Florence, Colorado, Estados Unidos.
+
+El proceso de indulto
+---------------------
+
+“A través de una nota diplomática fechada el 12 de noviembre de 2024, la **Embajada de Colombia** en los Estados Unidos gestionó consultas, relacionadas con el ciudadano colombiano Juvenal Ovidio Ricardo Palmera Pineda, actualmente **detenido** en una prisión del estado de **Colorado**“, señaló la misión diplomática.
+
+En dicha comunicación, dice la Embajada, se presentó una **solicitud de “perdón presidencial** para el señor Palmera. Este esfuerzo busca garantizar la participación del señor Palmera en los procesos de la Jurisdicción Especial para la Paz (JEP), priorizando su **contribución** con la verdad para avanzar en la justicia y la paz en el país”.
+
+Asimismo, se solicitó facilitar las **condiciones técnicas** necesarias para que Palmera participe en las audiencias virtuales requeridas por las autoridades judiciales colombianas, en el marco del **Sistema Integral de Verdad,** Justicia, Reparación y No Repetición derivado del Acuerdo de Paz de 2016.
+
+La paz en Colombia
+------------------
+
+“En este contexto, la búsqueda de la **paz total en Colombia** es clave para la estabilización regional, el fortalecimiento de la democracia, los derechos humanos, la libertad y el estado de derecho, consolidando así los valores democráticos en nuestras sociedades”, finaliza el **comunicado de la Embajada**.
+
+El medio de comunicación Noticias Caracol tuvo **acceso al documento**, el cual fue enviado al subsecretario de Estado para Asuntos del Hemisferio Occidental de Estados Unidos, Brian Nichols.
+
+En la carta, remitida por Peña, se habría dejado explícito que hay una **solicitud en trámite** al presidente de Estados Unidos, Joe Biden, para que le conceda la clemencia al exguerrillero: “Quisiera dar seguimiento a la **nota oficial** que envié al asesor nacional de seguridad, señor Jake Sullivan, mediante la cual, en nombre del **Gobierno de Colombia**, solicitamos respetuosamente al Presidente de los Estados Unidos de América que conceda la **clemencia** del señor Juvenal Ovidio Ricardo Palmera Pineda”.
+
+**_Tomado de El Tiempo, de Bogotá_**
+
+La Libertadores recibe a Liga de Quito, el único campeón ecuatoriano
+====================================================================
+
+Liga de Quito, Barcelona SC y El Nacional fueron recibidos por la Libertadores para el 2025.
+--------------------------------------------------------------------------------------------
+
+![Ezequiel Piovi, jugador y capitán de Liga de Quito en el estadio Olímpico Atahualpa.](https://www.elcomercio.com/wp-content/uploads/2024/11/liga_copa_1.jpg)
+
+Las cuentas oficiales de **redes sociales de la Copa Libertadores** dieron la bienvenida a la edición 2025 a Liga de Quito, el único equipo ecuatoriano que levantó el trofeo allá en el 2008.
+
+“¡Bienvenido de nuevo campeón! Liga de Quito, **que alzó la #GloriaEterna en 2008**, clasificó a la CONMEBOL #Libertadores 2025″, fue el texto para recibir a los universitario en lo que será su participación 22 en la competencia.
+
+### Más noticias:
+
+* [Gustavo Costas y la alegría tras el sufrimiento en Racing Club](https://www.elcomercio.com/deportes/futbol/gustavo-costas-alegria-sufrimiento-racing-club.html "Gustavo Costas y la alegría tras el sufrimiento en Racing Club")
+* [Max Verstappen iguala a Vettel y Prost en F1 y quiere el récord de Schumacher](https://www.elcomercio.com/deportes/futbol/max-verstappen-campeon-f1-record-schumacher.html "Max Verstappen iguala a Vettel y Prost en F1 y quiere el récord de Schumacher")
+* [Liga de Portoviejo eliminó a Deportivo Quito en el Reales Tamarindos](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-deportivo-quito-clasificado-reales-tamarindos.html "Liga de Portoviejo eliminó a Deportivo Quito en el Reales Tamarindos")
+
+Liga aseguró su boleto a la fase de grupos de la Libertadores la tarde del domingo 24 de noviembre de 2024. Le ganó **2-4 a Universidad Católica en la fecha 14 de la segunda etapa** de la Liga Pro en el Olímpico Atahualpa.
+
+Este resultado, más el empate 2-2 de Barcelona SC en su visita a Técnico Universitario en el Bellavista en Ambato, concretaron el billete de los universitario al torneo continental de más prestigio en Sudamérica.
+
+Barcelona SC también fue recibido por la Libertadores. Los guayaquileños jugarán la segunda fase de eliminación. Para ingresar a la **fase de grupos deberán pasar dos rondas, caso contrario**, en su centenario, tendrán que ser espectadores.
+
+Independiente del Valle, como ganador de la primera etapa de la Liga Pro, irá a la fase de grupos; mientras que **El Nacional, finalista de la Copa Ecuador**, competirá desde la primera fase de eliminación.
+
+Liga de Quito en la Libertadores
+--------------------------------
+
+En 1970 fue la primera vez que **Liga de Quito participó en la Copa Libertadores de América**. Lo hizo en calidad de campeón ecuatoriano y se enfrentó en la fase de grupos a los peruanos de Universitario y Defensor Arica. América fue el otro ecuatoriano.
+
+Los albos avanzaron a la segunda fase y terminaron en el último puesto en el grupo en el que estaban Peñarol y Guaraní. El **uruguayo Francisco Bertocchi fue el goleador del equipo con nueve tantos** y el máximo goleador del torneo, junto al argentino de River Plate, Óscar Más.
+
+En 1975 y 1976 volvió a participar como campeón ecuatoriano. Avanzó hasta las semifinales y tuvo como sus goleadores a **Juan José Pérez, con 10 tantos en las dos ediciones**, y al ecuatoriano Polo Carrera, con cinco en una sola.
+
+Luego se sumaron participaciones en 1978 (fase de grupos), 1982 (fase de grupos), 1991 (octavos de final), 1999 (octavos de final), **2000 (fase de grupos), 2004 (octavos de final), 2005 (octavos de final)**, 2006 (cuartos de final) y 2007 (fase de grupos).
+
+En 2008 rompieron con la historia y se proclamaron como campeones. En la final derrotaron a Fluminense en la tanda de penales. **José Francisco Cevallos fue uno de los héroes de esa gloriosa noche** en el Maracaná.
+
+En las siete posteriores **participaciones alcanzaron su mejor resultado en 2019**. En los cuartos de final fueron eliminados por Boca Juniors.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/liga_copa_2-1024x683.jpg)
+
+Foto: API.
+
+San viernes
+-----------
+
+Michimercio calienta motores
+============================
+
+Dice que espera que no le toque turno en Navidad ni Año Nuevo, lo que no sabe es que no habrá feriados largos.
+--------------------------------------------------------------------------------------------------------------
+
+![Michimercio en las Fiestas de Quito](https://www.elcomercio.com/wp-content/uploads/2024/11/Fiestas-de-Quito-2.jpg)
+
+Michimercio ya se imagina en la cobertura de los desfiles de las Fiestas de Quito, anda renegando.
+
+Karol G entra al mundo de las muñecas Bratz
+===========================================
+
+La cantante colombiana de 33 años sigue cosechando éxitos.
+----------------------------------------------------------
+
+![La cantante colombiana Karol G logra otro hito en su carrera. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-25T122831.110.jpg)
+
+La cantante colombiana **Karol G**, conocida por su éxito en el reguetón, acaba de alcanzar un nuevo hito en su carrera: será la primera artista musical en tener una muñeca de la famosa marca Bratz.
+
+La línea de muñecas anunció oficialmente la colección **Bratz x Karol G**, que rinde homenaje al impacto global que ha tenido la intérprete en los últimos años.
+
+### **Más noticias:**
+
+* [Karol G alista un sencillo con toque iraní](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html")
+* [Karol G arrasa en el Santiago Bernabéu de Madrid con un concierto épico](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-arrasa-en-el-santiago-bernabeu-de-madrid-con-un-concierto-epico.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-arrasa-en-el-santiago-bernabeu-de-madrid-con-un-concierto-epico.html")
+* [Karol G pide disculpas ‘de corazón’ por la canción +57](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-musica-criticas-fans-nueva-cancion-57.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-musica-criticas-fans-nueva-cancion-57.html")
+
+**¿Cómo es la muñeca Bratz de Karol G?**
+----------------------------------------
+
+La muñeca, que tiene un precio de 50 dólares (aproximadamente 250 000 pesos colombianos), estará disponible para la venta a partir del 3 de diciembre en el sitio web oficial de Bratz.
+
+> [View this post on Instagram](https://www.instagram.com/p/DCzVwaQPjKN/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by KAROL G (@karolg)](https://www.instagram.com/p/DCzVwaQPjKN/?utm_source=ig_embed&utm_campaign=loading)
+
+La edición será limitada, permitiendo a los compradores adquirir solo una unidad por cliente.
+
+Inspirada en el vestuario que Karol G lució en los **Latin Grammys de 2023**, la muñeca cuenta con tres cambios de ropa, basados en los diseños de la mercancía oficial de su gira ‘**Mañana será bonito World Tour**‘. El ‘look’ más destacado es un vestido rosa **metálico** que refleja el poder y éxito de la cantante, según explicó la marca.
+
+Además, la muñeca tiene un aspecto único: su cabello rosa claro y metalizado recuerda a la imagen de Karol durante la promoción de su álbum **Mañana será bonito** (Bichota season).
+
+También incluye detalles como tacones metálicos, un collar con dijes, aretes de corazón, y tres trofeos de premios. Como toque adicional, se presenta con un minivínilo de su álbum y un soporte para exhibir la muñeca.
+
+**Fans cuentan los días para comprar la muñeca de Karol G**
+-----------------------------------------------------------
+
+La noticia generó gran emoción entre los seguidores de la cantante, quienes tardaron en expresar su entusiasmo en redes sociales, agradeciendo a Bratz por hacer realidad el sueño de tener a Karol G convertida en muñeca.
+
+Yamandú Orsi, líder de izquierda, gana en Uruguay con propuestas inclusivas
+===========================================================================
+
+Yamandú Orsi, candidato del Frente Amplio, logró una importante victoria en las elecciones presidenciales de Uruguay.
+---------------------------------------------------------------------------------------------------------------------
+
+![El candidato del Frente Amplio, Yamandú Orsi, habla a sus seguidores tras ganar en las elecciones presidenciales de este domingo en Montevideo (Uruguay).](https://www.elcomercio.com/wp-content/uploads/2024/11/yamandu-orsi-efe.jpg)
+
+[Yamandú Orsi](https://www.elcomercio.com/actualidad/mundo/orsi-gana-las-elecciones-en-un-uruguay-que-da-una-nueva-muestra-de-civilidad-democratica.html "https://www.elcomercio.com/actualidad/mundo/orsi-gana-las-elecciones-en-un-uruguay-que-da-una-nueva-muestra-de-civilidad-democratica.html"), candidato del Frente Amplio, se impone en las elecciones y **promete reformas sociales**, educación y salud para un **Uruguay más inclusivo** y **progresista**.
+
+### Más noticias
+
+* [Yamandú Orsi es el nuevo presidente de Uruguay](https://www.elcomercio.com/actualidad/mundo/orsi-gana-las-elecciones-en-un-uruguay-que-da-una-nueva-muestra-de-civilidad-democratica.html "Yamandú Orsi es el nuevo presidente de Uruguay")
+* [Yamandú Orsi y Álvaro Delgado disputarán la Presidencia de Uruguay el 24 de noviembre](https://www.elcomercio.com/actualidad/mundo/yamandu-orsi-alvaro-delgado-disputaran-presidencia-uruguay-noviembre.html "Yamandú Orsi y Álvaro Delgado disputarán la Presidencia de Uruguay el 24 de noviembre")
+* [Los candidatos presidenciales uruguayos se comprometieron a no subir impuestos](https://www.elcomercio.com/actualidad/mundo/candidatos-presidenciales-uruguayos-comprometieron-subir-impuestos.html "Los candidatos presidenciales uruguayos se comprometieron a no subir impuestos")
+
+Su enfoque es progresista
+-------------------------
+
+Yamandú Orsi, candidato del **Frente Amplio,** logró una **importante victoria** en las elecciones presidenciales de Uruguay, consolidándose como el **líder de la izquierda en el país.**
+
+Con su triunfo, Orsi ratifició su compromiso con los principios de **desarrollo sostenible, equidad social, justicia y derechos humanos**. A sus 57 años, el nuevo presidente electo logró captar el apoyo de amplios sectores de la **población uruguaya,** que vieron en su propuesta un cambio hacia un **modelo más inclusivo** y solidario.
+
+Intendente de Canelones
+-----------------------
+
+El político, quien hasta ahora se desempeñó como **intendente de Canelones**, enfatizó en su discurso la importancia de fortalecer las **políticas públicas**. Apuntará a la igualdad de oportunidades para todos los ciudadanos, especialmente para las clases más vulnerables.
+
+Orsi, que se identifica con una **ideología de izquierda moderada**, promete continuar con el legado progresista de su partido, pero a la vez, propone ajustes en algunos aspectos clave de la **gestión pública.**
+
+Principales áreas de su gobierno
+--------------------------------
+
+Uno de los pilares de la campaña de Orsi fue su compromiso con la **educación.** El presidente electo planea realizar **importantes inversiones** en infraestructura educativa. Su objetivo es **reducir las brechas** de calidad entre las distintas regiones del país. Orsi también subrayó la necesidad de una reforma educativa que permita adaptar el sistema a las **demandas de un mundo laboral** cada vez más tecnológico y globalizado.
+
+Servicios médicos
+-----------------
+
+En cuanto al ámbito de la salud, Orsi expresó su intención de garantizar un **acceso más equitativo** a los servicios médicos, especialmente para las **personas de menores recursos**.
+
+Su propuesta incluye la ampliación de la **cobertura del sistema de salud pública** y la mejora de la calidad de los servicios, con un enfoque particular en la **atención primaria** y la **salud mental.**
+
+Seguridad
+---------
+
+Otro de los frentes en los que trabajará el nuevo gobierno será la seguridad. Orsi señaló que, aunque la seguridad es un tema complejo, se enfocará en **políticas preventivas**. Además, una mayor integración de las fuerzas de seguridad, además de fomentar una **cultura de paz en las comunidades más vulnerables.**
+
+Economía
+--------
+
+El objetivo principal que tiene el presidente electo es que haya crecimiento económico. Busca atraer inversiones, la “protección de la industria nacional” a través de las compras públicas como una solución y la implementación de un Plan Nacional de Riego que permita dar un impulso a la producción, de acuerdo con La Nación.
+
+Nación más igualitaria
+----------------------
+
+Con un enfoque progresista y un fuerte compromiso con la justicia social, Yamandú Orsi inicia su mandato con el objetivo de transformar a Uruguay en una **nación más igualitaria** y próspera para todos.
+
+Bloque de Seguridad agradeció a ciudadanos por no unirse a movilizaciones del pasado viernes
+============================================================================================
+
+El Bloque de Seguridad informó que existe una reducción en el número de homicidios intencionales registrados en Ecuador, comparado con 2023
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Bloque de Seguridad informó los resultados de sus acciones.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-25T114155.145.jpg)
+
+El **Bloque de Seguridad** dio una rueda de prensa este lunes 25 de noviembre para informar de las acciones ejecutadas en medio de **la lucha contra el crimen organizado.**
+
+### Más noticias
+
+* [Bloque de Seguridad pide evitar filtración de personas violentas en las marchas](https://www.elcomercio.com/actualidad/seguridad/bloque-de-seguridad-pide-evitar-filtracion-de-personas-violentas-en-marchas.html "Bloque de Seguridad pide evitar filtración de personas violentas en las marchas")
 * [Ejército y SNAI trasladan a 1 193 personas privadas de la libertad a otras prisiones](https://www.elcomercio.com/actualidad/seguridad/snai-traslada-a-1-193-personas-privadas-de-la-libertad-a-otras-prisiones.html "Ejército y SNAI trasladan a 1 193 personas privadas de la libertad a otras prisiones")
-* [SNAI confirmó la muerte de dos presos en cárcel de Ecuador](https://www.elcomercio.com/actualidad/guayaquil/snai-carcel-ecuador-dos-presos.html "SNAI confirmó la muerte de dos presos en cárcel de Ecuador")
-* [Alerta por fuga de reos en la cárcel Regional Guayas este sábado 23 de noviembre](https://www.elcomercio.com/actualidad/seguridad/fuga-reos-carcel-regional-guayas-sabado-23-noviembre.html "Alerta por fuga de reos en la cárcel Regional Guayas este sábado 23 de noviembre")
+* [Choque en la av. Occidental deja un fallecido este lunes 25 de noviembre, en Quito](https://www.elcomercio.com/actualidad/quito/choque-en-la-av-occidental-deja-un-fallecido-este-lunes-25-de-noviembre-en-quito.html "Choque en la av. Occidental deja un fallecido este lunes 25 de noviembre, en Quito")
 
-El operativo de traslado
-------------------------
+Informe del Bloque de Seguridad
+-------------------------------
 
-El SNAI dispuso el traslado de población penitenciaria, tanto masculina como femenina, en cumplimiento a una resolución emitida en septiembre de 2023.
+El ministro de Defensa, Giancarlo Loffredo, informó que **5 000 reservistas se integraron a las Fuerzas Armadas** para fortalecer las operaciones.
 
-Efectivos del Ejército Ecuatoriano estuvieron a cargo de esta operación desde la planificación detallada y minuciosa. Esta es una **operación inédita** dentro del territorio ecuatoriano y a nivel de Sudamérica.
+Esto ayudará a **refrescar el personal** que brinda seguridad en las cárceles y apoyo en instituciones del Estado. Estos reservistas atraviesan procesos de capacitación y se integrarán en las próximas semanas.
 
-En estas operaciones, se trasladó a **población penitenciaria masculina** del Centro de Privación de Libertad (CPL) Tungurahua N° 1 al CPL Cotopaxi N° 1.
+Loffredo indicó que en los próximos días se realizará la entrega de un lote más de vehículos blindados tácticos ligeros, gracias a la gestión del Gobierno Nacional. Con ello, se completarán 100 vehículos para fortalecer las capacidades de las fuerzas del orden en territorio.
 
-Así mismo, se realizó el traslado de **población penitenciaria femenina** del CPL Cotopaxi para reubicarla en el CPL de Tungurahua.
+Por último, el Ministro **agradeció a la ciudadanía** por apostar por la paz y haber escuchado el llamado del Bloque de Seguridad en el que se pidió unión. Aclaró que su agradecimiento se debe a que la ciudadanía tuvo la madurez **y patriotismo de no unirse a marcha**s que solo tienen el propósito desviar la atención.
 
-Este traslado involucró a 665 hombres y 528 mujeres (**entre ellas, Mayra Salazar)** privados de la libertad y se desarrolló con el objetivo de mejorar las condiciones de seguridad. De este modo también se promueve un entorno más seguro y adecuado para todos los internos[, aclara SNAI.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+En el informe, el viceministro del Interior, **Lyonel Calderón,** acompañado por el ministro de Defensa, Giancarlo Loffredo, el Comandante de la Policía y el Jefe de las Fuerzas Armadas, habló de los resultados obtenidos en los operativos de seguridad.
 
-En este operativo intervinieron 38 personas del SNAI, 164 efectivos de la Policía Nacional y **253 efectivos del Ejército Ecuatoriano.**
+Resultados obtenidos
+--------------------
 
-El traslado de Mayra Salazar
+El **viceministro del Interior**, Lyonel Calderón, se refirió a la ejecución de acciones tras identificar a grupos de delincuencia organizada en siete provincias de Ecuador.
+
+Los operativos ejecutados por la **Policía Nacional** han permitido obtener estos resultados:
+
+* En un comparativo entre el 1 de enero y el 24 de noviembre del año pasado y el mismo período de este año, se ha visto **una reducción del 17,3% en los homicidios intencionales** a escala nacional. Esto es, de 7 318 homicidios en 2023 se bajó a 6 052 en 2024.
+* En cuanto a la droga incautada, se logró **un decomiso de 269,16 toneladas** de sustancias estupefacientes prohibidas; es decir, un 34% más con relación a las 201 toneladas decomisadas en el mismo período de 2023.
+* En **Quito**, en comparación con el mismo período en 2023, **se logró la reducción del 14%** de los homicidios intencionales.
+* En **Manta**, luego de la intervención del Bloque de Seguridad, entre el 6 de junio y el 24 de noviembre de 2024, se registra una **reducción del 29,5% en los homicidios intencionales.**
+* En **Durán,** entre el 1 de julio y el 24 de noviembre de 2024, se registró una reducción del 34% de homicidios intencionales.
+
+El **jefe del Comando Conjunto de las Fuerzas Armadas,** Jaime Vela, señaló que intervienen con casi 300 000 operaciones en lo que va del año. Entre el 8 de enero y el 24 de noviembre, la mayoría se ejecutaron en El Oro, Manabí, Guayas, Santa Elena.
+
+Resaltó que trabajan junto con la Policía para **aplacar la ola de delincuencia** que se [desató en Machala](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> ¡SEGUIMOS CONSTRUYENDO EL CAMINO Y VENCEREMOS!💪  
+>   
+> ➡️"Gracias al país, porque sabe y ha entendido que esta lucha es por la paz y el orden. Que, si bien el expresarse es permitido, pero de manera pacífica, la ciudadanía ha escuchado el llamado del Bloque de Seguridad, en el que… [pic.twitter.com/6q3bfi2LPF](https://t.co/6q3bfi2LPF)
+> 
+> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [November 25, 2024](https://twitter.com/DefensaEc/status/1861124131841818837?ref_src=twsrc%5Etfw)
+
+(En vivo) Caso Metástasis, jueza confirma delincuencia organizada; se espera sentencia
+======================================================================================
+
+Tribunal sentenció este lunes a 21 procesados en caso Metástasis, tras 28 días de juicio por presunta delincuencia organizada.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Audiencia del caso Metástasis este 25 de noviembre para conocer la sentencia a involucrados.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-54-2.jpg)
+
+El tribunal de la **Corte Nacional de Justicia**, integrado por los jueces **Mercedes Caicedo, Marco Rodríguez y Pablo Loaiza**, darán a conocer este lunes 25 de noviembre de 2024, la resolución en el **caso Metástasis**, que investiga presunta **delincuencia organizada**.
+
+### Más noticias
+
+* [Fiscalía solicitó estas condenas para 21 vinculados en el caso Metástasis](https://www.elcomercio.com/actualidad/politica/fiscalia-solicito-condenas-21-vinculados-caso-metastasis.html "Fiscalía solicitó estas condenas para 21 vinculados en el caso Metástasis")
+* [Caso Metástasis, procesados mencionan supuesto incumplimiento de derechos](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-procesados-mencionan-supuestos-incumplimientos-derechos.html "Caso Metástasis, procesados mencionan supuesto incumplimiento de derechos")
+* [Caso Metástasis, pruebas presentadas por Fiscalía en la primera semana de audiencias](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-pruebas-presentadas-fiscalia-primera-semana-audiencias.html "Caso Metástasis, pruebas presentadas por Fiscalía en la primera semana de audiencias")
+
+La **audiencia se suspendió el pasado viernes tras 28 días de juicio**, donde se presentaron pruebas, testimonios y alegatos de cierre.
+
+El fiscal Wilson Toainga **presentó 33 testigos, peritos y 73 pruebas documentales** durante los 18 días en que expuso su caso. Según la Fiscalía, las pruebas incluyen chats recuperados de la **aplicación Threema**, encontrados en dispositivos electrónicos de Leandro Norero, fallecido en 2022.
+
+Estos chats, según los investigadores, vincularían a Norero con gestiones para obtener beneficios legales con el **apoyo de jueces, fiscales, abogados** y otros funcionarios.
+
+> 🔵[#SalaPenalCNJ](https://twitter.com/hashtag/SalaPenalCNJ?src=hash&ref_src=twsrc%5Etfw) | Dra. Mercedes Caicedo, Dr. Marco Rodríguez y Dr. Pablo Loayza reinstalan audiencia. [pic.twitter.com/VS5bjkvKAr](https://t.co/VS5bjkvKAr)
+> 
+> — Corte Nacional de Justicia (@CorteNacional) [November 25, 2024](https://twitter.com/CorteNacional/status/1861081367209034115?ref_src=twsrc%5Etfw)
+
+El fiscal Toainga solicitó penas de entre siete y diez años para los **21 procesados**, mientras que los abogados **defensores argumentaron** que no existen elementos que sustenten la acusación y solicitaron que se ratifique la inocencia de sus representados.
+
+Entre los acusados se encuentran el **expresidente del Consejo de la Judicatura [Wilaman T.](https://es.wikipedia.org/wiki/Arresto_de_Wilman_Ter%C3%A1n#:~:text=En%20cuanto%20a%20su%20perfil,Derecho%20Penal%20y%20Justicia%20Ind%C3%ADgena. "https://es.wikipedia.org/wiki/Arresto_de_Wilman_Ter%C3%A1n#:~:text=En%20cuanto%20a%20su%20perfil,Derecho%20Penal%20y%20Justicia%20Ind%C3%ADgena.")**, el exdirector del **Sistema Nacional de Atención Integral (SNAI), Pablo R.**, y el exasambleísta **Ronny A.,** este último, junto con **Xavier J.**, permanece prófugo, por lo que el juzgamiento en su contra está suspendido.
+
+Además, una novena persona tiene **suspendido su proceso debido a que goza de inmunidad** por su candidatura a asambleísta en curso.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoMetástasis](https://twitter.com/hashtag/CasoMet%C3%A1stasis?src=hash&ref_src=twsrc%5Etfw): con la presencia del fiscal general del Estado (s), Wilson Toainga, se reinstala la audiencia de juicio por presunta [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). En el día 29, el Tribunal de la [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw) anunciará la sentencia que dictará contra los 21 procesados. [pic.twitter.com/cynhJpEMSH](https://t.co/cynhJpEMSH)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [November 25, 2024](https://twitter.com/FiscaliaEcuador/status/1861077425087566091?ref_src=twsrc%5Etfw)
+
+La audiencia en el caso Pantalla, prevista para este lunes 25 de noviembre en la **Corte Nacional de Justicia**, fue suspendida debido a la inasistencia de los procesados **Santiago Paúl C. C. y Milton Fabricio H.** M., en este caso también está **involucrado Wilman T.**
+
+El conjuez **Vinicio Rodríguez** no instaló la diligencia, en la que se esperaba escuchar los testimonios anticipados del procesado **David Alejandro G. C. y del testigo José Andrés M. A.**
+
+Contexto y antecedentes
+-----------------------
+
+La investigación inició tras operativos realizados entre el **13 y el 14 de diciembre de 2023** en siete provincias del país, incluyendo **Guayas, Pichincha y Cotopax**i. Durante estos operativos, en los que participaron más de 900 agentes, se ejecutaron más d**e 75 allanamientos** relacionados con hechos de **corrupción y narcotráfico**.
+
+De las **52 personas** investigadas inicialmente, **12 se acogieron a procedimientos abreviados** y fueron sentenciadas a penas de hasta **40 meses**. El tribunal anunciará la sentencia únicamente para los **21 procesados presentes en el juicio**.
+
+Inicio de la audiencia previo a la sentencia en el caso Metástasis
+------------------------------------------------------------------
+
+La **jueza Mercedes Caicedo** inició su intervención en el caso Metástasis con una cita: “No hay peor tiranía que la que se ejerce a la sombra de las leyes y bajo el calor de la justicia”.
+
+Según explicó, esta frase resume lo discutido durante la audiencia, destacando cómo la **justicia puede ser vulnerada por la interferencia de grupos organizados**. Subrayó la importancia de actuar con responsabilidad, especialmente al abordar un caso que involucra la vida de **21 procesados** y el interés de la ciudadanía.
+
+El tribunal, compuesto por tres magistrados, afirmó que la decisión se tomó en consenso y bajo los principios de **imparcialidad e independencia**. La jueza destacó que el cumplimiento de los plazos razonables fue prioritario, permitiendo emitir una resolución en **48 horas tras finalizar la audiencia** de juzgamiento, la cual acumuló más de **288 horas de actividad**.
+
+Durante la audiencia, el tribunal garantizó el derecho de los procesados a contar con una **defensa técnica** adecuada. La jueza mencionó que incluso se dispuso la **presencia de defensores públicos** para quienes carecieran de representación adecuada. Asimismo, enfatizó que las actuaciones de los abogados debían **ceñirse a las normas legales**, respetando los principios de inmediación, contradicción y continuidad durante el juicio.
+
+Finalmente, Caicedo recordó que el tribunal no es un **órgano de impugnación**, sino de sustanciación de la **etapa de juicio**. Por ello, la decisión se basa exclusivamente en la **acusación formulada,** sustentada en pruebas documentales, testimoniales y periciales. Los delitos investigados abarcan desde tráfico de armas y drogas hasta lavado de activos, cohecho y sicariato, reflejando la complejidad y gravedad del caso.
+
+Tribunal confirma delincuencia organizada en el Caso Metástasis
+---------------------------------------------------------------
+
+La jueza Mercedes Caicedo, mencionó que tras escuchar las **intervenciones de la Fiscalía y la defensa de los 21 procesados** en el caso Metástasis, determinó que las **pruebas presentadas confirman la existencia del delito de delincuencia organizada**.
+
+Entre las evidencias expuestas durante el juicio se destacan la **compra de exámenes, pagos de sobornos, el seguimiento a ciudadanos,** periodistas y fiscales, así como planes para garantizar la impunidad de los involucrados.
+
+Con esta resolución, el tribunal analizará las pruebas de **forma individualizada para establecer la culpabilidad** de cada uno de los procesados.
+
+Tribunal analiza responsabilidad de los procesados en caso de delincuencia organizada
+-------------------------------------------------------------------------------------
+
+El Tribunal, que lleva el caso de **delincuencia organizada,** avanzó en el análisis de la responsabilidad de los 21 procesados. Entre ellos destacan **Xavier N., y Wilman T.**
+
+En el caso de Xavier N., los jueces determinaron que su rol como líder de la organización era clave. Según el fallo, el abogado mantenía un vínculo directo con Leandro Norero y gestionaba favores judiciales ilegales en **beneficio del narcotraficante**. Estas acciones consolidaron su posición como pieza fundamental dentro del esquema delictivo.
+
+Por otro lado, las **pruebas relacionadas con Wilman T.**, señalan su participación activa en las operaciones ilícitas del grupo. El análisis judicial identificó que, como exfuncionario, Wilman T., tuvo un papel relevante en las **actividades organizadas de la red**.
+
+Aún falta que los jueces se pronuncien sobre la condena correspondiente. La solicitó una **pena de 10 años para Xavier N.**, y **nueve años y cuatro meses para Wilman T.**
+
+Solidaridad en fiestas de Quito y Navidad, ¿en dónde donar?
+===========================================================
+
+Campaña solidaria está activa por Fiestas de Quito y Navidad.
+-------------------------------------------------------------
+
+![Erradicar el trabajo infantil es parte de las metas en Fiestas de Quito y Navidad.](https://www.elcomercio.com/wp-content/uploads/2024/11/dona.jpg)
+
+En el camino para erradicar el **trabajo infantil en Quito** combina las f**iestas de Quito**, Navidad y la relación con **gobiernos descentralizados de Ecuador**.
+
+Se trata de **Dona con Corazón**, que está dirigida a canalizar la solidaridad de la empresa privada y la ciudadanía, hacia la población en situación de pobreza.
+
+### Más noticias
+
+* [Así fue el programa de las primeras fiestas de Quito, en 1959](https://www.elcomercio.com/actualidad/quito/programa-primeras-fiestas-quito-1959.html "Así fue el programa de las primeras fiestas de Quito, en 1959")
+* [Pregón de fiestas de Quito se desarrolla en la Plaza de San Francisco](https://www.elcomercio.com/actualidad/quito/pregon-fiestas-quito-plaza-san-francisco.html "Pregón de fiestas de Quito se desarrolla en la Plaza de San Francisco")
+* [Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/estudiantes-municipales-saludo-alcalde-inicio-fiestas-de-quito.html "Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito")
+
+> Hoy, el alcalde de Quito, [@pabelml](https://twitter.com/pabelml?ref_src=twsrc%5Etfw), junto a los alcaldes de los GADs de Pujilí, Sigchos, Zumbahua, Guaranda, Cayambe, Ambato, Otavalo, Ibarra, Riobamba, Mejía, Guano, Pedro Moncayo, Colta, Rumiñahui, Latacunga e Imbabura, firmaron el Acuerdo para Erradicar el trabajo Infantil. [pic.twitter.com/Q22mDV3LUc](https://t.co/Q22mDV3LUc)
+> 
+> — Patronato San José Quito (@PatronatoSJ) [November 21, 2024](https://twitter.com/PatronatoSJ/status/1859724277760786932?ref_src=twsrc%5Etfw)
+
+Donar en fiestas de Quito y Navidad
+-----------------------------------
+
+La alimentación es una de las necesidades inmediatas que busca suplir la **campaña**. En este 2024, esta reúne a equipos de gobiernos descentralizados de varios sitios de **Ecuador**.
+
+En esa lista están **Pujilí, Zumbahua, Mejía, Ibarra, Cayambe, Otavalo, Ibarra, Riobamba, Pedro Moncayo, Colta, Rumiñahui y Latacunga**.
+
+Desde la **Unidad Patronato Municipal San José** detallan que la cruzada se enmarca en las estrategias del Pacto por la Erradicación del Trabajo Infantil. El alcalde de Quito, **Pabel Muñoz**, suscribió ese compromiso con la empresa privada y gobiernos descentralizados.
+
+En esa línea, la empresa privada habilita **centros comerciales** como centros de acopio. También se sumó un equipo deportivo.
+
+La meta es llegar a **50 000 personas** en situación de pobreza y pobreza extrema de Quito.
+
+Las estrategias de la campaña
+-----------------------------
+
+> 💙❤️💙 [#FiestasDeQuito2024](https://twitter.com/hashtag/FiestasDeQuito2024?src=hash&ref_src=twsrc%5Etfw) | ¡Quito, una ciudad solidaria en acción! 🌟  
+>   
+> 🎉 Consigue tus boletos para los eventos de Fiestas de Quito de una manera especial 👐  
+>   
+> 🎭 Chicha con Corbatín  
+> Coliseo Rumiñahui | 26 de noviembre | 18:00  
+> Artistas:  
+> \* Ailed Obando | Máximo Escalera |… [pic.twitter.com/CgURhfWcN3](https://t.co/CgURhfWcN3)
+> 
+> — Secretaría de Cultura Quito (@culturaquito) [November 22, 2024](https://twitter.com/culturaquito/status/1860054558006735161?ref_src=twsrc%5Etfw)
+
+La comunidad puede canjear las ayudas por entradas a los conciertos de **las fiestas de Quito**: Chicha con Corbatín, para el martes, 26 de noviembre de 2024, en el Coliseo Rumiñahui.
+
+Se suma el **Festival del Pasacalle**, el miércoles, 27 de noviembre de 2024, Coliseo Rumiñahui. También, el Quito Fest, el 5, 6 y 7 de noviembre, en el Parque Bicentenario.
+
+Para el **canje de donaciones** por entradas, los centros de acopio se habilitaron este lunes, 25 de noviembre de 2024. Y desde el 8 de diciembre serán para apoyo sin trueque.
+
+¿Dónde canjear las donaciones por entradas?
+-------------------------------------------
+
+Las personas que quieran sumarse deben llevar los productos a los **centros de acopio**:
+
+* En el norte: **Parque Bicentenario** (av. Amazonas y Río Curaray, ex aeropuerto Mariscal Sucre).
+* En el **Centro Histórico**: planta central del Patronato Municipal San José (Chile, entre Benalcázar y Cuenca).
+* En el sur: el **Comedor Comunitario** del Sur (av. Ajaví y Huigra).
+* En el caso del **Quito Fest**, las donaciones se recibirán en el lugar del evento. Quienes aportan podrán ingresar de forma preferencial a la entrada de los  
+    conciertos.
+
+¿Qué donar?
+-----------
+
+Entre las donaciones de base están **latas de atún de 160 gramos, lata de sardinas de 435 gramos, dos latas de granos, un litro de aceite, dos libras de granos secos (quinua, fréjol y arveja)**.
+
+También se puede aportar con **artículos de limpieza**, como papel higiénico de seis unidades y pasta dental.
+
+En Liga de Quito, IDV y la MLS no olvidan a Marco Angulo
+========================================================
+
+Jugadores de Liga de Quito, IDV y de la MLS rindieron homenaje a Marco Angulo, futbolista ecuatoriano que falleció el 11 de noviembre del 2024.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Álex Arce sostiene una de las camisetas de homenaje a Marco Angulo.](https://www.elcomercio.com/wp-content/uploads/2024/11/angulo.jpg)
+
+**Marco Angulo**, el mediocampista de 22 años que falleció el 11 de noviembre de 2024, fue recordado con conmovedores tributos tanto en **Ecuador** como en los **Estados Unidos.**
+
+En el estadio **Olímpico Atahualpa de Quito**, antes del partido entre **Liga de Quito** y **Universidad Católica** el 24 de noviembre del 2024, se guardó un minuto de silencio en honor al exjugador de la ‘U’, quien había regresado recientemente al equipo.
+
+### Más noticias:
+
+* [Tres tareas pendientes de la Liga Pro en la fecha 15](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-acumulada-liga-pro.html "Tres tareas pendientes de la Liga Pro en la fecha 15")
+* [Fecha 15 de la Liga Pro con siete partidos con el mismo horario](https://www.elcomercio.com/deportes/futbol/fecha15-liga-pro-horarios-unificados.html "Fecha 15 de la Liga Pro con siete partidos con el mismo horario")
+* [Liga de Quito e IDV golearon y la etapa se definirá en la última fecha](https://www.elcomercio.com/deportes/futbol/liga-quito-catolica-partido-ligapro-idv.html "Liga de Quito e IDV golearon y la etapa se definirá en la última fecha")
+
+Marco Angulo y Liga de Quito
 ----------------------------
 
-**Mayra Salazar** cumple la sentencia por su participación en el **caso Metástasis**, que destapó una trama de corrupción liderada por Leandro Norero.
+Además, los jugadores de **Liga de Quito** lucieron camisetas con la imagen de **Angulo**, en un gesto lleno de cariño y respeto por el futbolista que dejó una huella en el club.
 
-Por ello, se la considera una persona privada de la libertad (PPL) **de alto riesgo** y se la trasladó con medidas de seguridad extremas. Salazar fue ingresada a una tanqueta militar Cobra 2, protegida con un casco y con s**u uniforme color naranja.**
+Durante toda la semana sus compañeros e integrantes del cuerpo técnico lo recordaron reiteradamente y hasta llegaron al partido con camisetas de su excompañero con el número 88.
 
-Consigo llevaba sus **objetos personales en una funda** y una colchoneta. Acompañada por efectivos militares, el vehículo salió de la cárcel de Latacunga para dirigirse a la de Ambato.
+“El camino va a ser el mismo, sabemos que tenemos que ganarle al Cuenca. Hay que ver si se hace justicia y nos devuelven los puntos que nos corresponden. Hoy jugamos con 12, Marcó estuvo con nosotros.”, expresó el DT **Pablo Sánchez.**
 
-En el trayecto, el **vehículo blindado** fue resguardado hasta el destino.
+“Creo que de los compañeros, con 6 más, fuimos los que compartimos más con Marco y nos afectó mucho. Era una persona muy alegre. Este campeonato es por él. Y si Dios lo permite, y nos regresan los puntos, tendremos una final.”, dijo **Richard Mina** al final del partido.
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCw1QIXtZRP/?utm_source=ig_embed&utm_campaign=loading)
+![Jugadores de Liga de Quito recordaron a Marco Angulo en el cotejo ante Católica en el estadio Atahualpa de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-36-1024x683.jpg)
+
+Jugadores de Liga de Quito recordaron a Marco Angulo en el cotejo ante Católica en el estadio Atahualpa de Quito.
+
+Homenaje a Marco Angulo en la MLS
+---------------------------------
+
+El homenaje no se limitó a Ecuador. En **Nueva York**, durante el partido entre New York City y New York Red Bulls en el estadio **Citi Field,** también se guardó un minuto de silencio por la muerte de Angulo.
+
+A pesar de que el futbolista no jugó en ninguno de esos equipos, su trágica partida conmovió al mundo del fútbol internacional.
+
+En la pantalla gigante del estadio, una imagen del jugador ecuatoriano fue proyectada, un gesto que sorprendió a muchos y destacó la admiración que se tenía por él, incluso fuera de las fronteras de Ecuador.
+
+También IDV
+-----------
+
+Los jugadores del **Independiente del Valle** también rindieron homenaje a su excompañero.
+
+Angulo se formó en IDV y los actuales jugadores lo recordaron antes del cotejo ante Macará, el domingo 24 de noviembre del 2024.
+
+Los rayados salieron a la cancha con una pancarta grande con la imagen de Angulo y la frase: ‘Vuela alto, amigo’.
+
+Marco Angulo
+------------
+
+**Marco Angulo**, quien también fue parte de la selección ecuatoriana en algunas convocatorias, sufrió un fatal accidente de tránsito el 7 de octubre en la autopista que conecta Quito con Sangolquí.
+
+Tras 35 días de lucha en el Hospital Eugenio Espejo, Angulo falleció debido a las graves lesiones sufridas. Su partida dejó un vacío en el fútbol ecuatoriano, pero su legado perdura, recordado no solo por su talento en la cancha, sino por su espíritu de lucha y su humildad.
+
+Angulo, quien fue parte de equipos como Independiente del Valle, **FC Cincinnati** y Liga de Quito, se destacó en su carrera, con victorias importantes como la **Copa Libertadores Sub-20** y la Copa Sudamericana. Su memoria seguirá viva en el corazón de los aficionados y compañeros que lo consideraban más que un jugador, un amigo y un hermano.
+
+> Marco Ángulo moment of silence at the Hudson River derby. [#RBNY](https://twitter.com/hashtag/RBNY?src=hash&ref_src=twsrc%5Etfw) [#NYCFC](https://twitter.com/hashtag/NYCFC?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/xGPkpfFYIB](https://t.co/xGPkpfFYIB)
 > 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCw1QIXtZRP/?utm_source=ig_embed&utm_campaign=loading)
+> — Footy Condor 🇪🇨 (@FootyCondor) [November 23, 2024](https://twitter.com/FootyCondor/status/1860456390289953102?ref_src=twsrc%5Etfw)
+
+A cuatro años de su muerte, Diego Maradona se ‘confiesa’
+========================================================
+
+Diego Armando Maradona fue campeón del mundo con Argentina en México 1986.
+--------------------------------------------------------------------------
+
+![Diego Armando Maradona en el estadio Olímpico Atahualpa en 2009.](https://www.elcomercio.com/wp-content/uploads/2024/11/maradona_muerte_1.jpg)
+
+**Diego Armando Maradona** **Franco** fue demoledor con su pierna zurda y muchísimas veces, con la lengua también.
+
+Este lunes 25 de noviembre de 2024 se cumplen cuatro años de su fallecimiento. Distintos homenajes se despliegan, **tanto en su natal Argentina, como en otras partes del mundo**, en donde lo tienen como uno de los máximos referentes del fútbol.
+
+### Más noticias:
+
+* [Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester](https://www.elcomercio.com/deportes/futbol/moises-caicedo-clave-triunfo-chelsea-leicester.html "Moisés Caicedo fue un pilar del Chelsea en victoria ante Leicester")
+* [Piero Hincapié se redime con victoria en el Bayer Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-victoria-bayer-leverkusen-heidenheim.html "Piero Hincapié se redime con victoria en el Bayer Leverkusen")
+* [La explosión de alegría de los hinchas de Racing tras ganar la Copa Sudamericana](https://www.elcomercio.com/deportes/futbol/racing-cruzeiro-copa-sudamericana-campeon-2024.html "La explosión de alegría de los hinchas de Racing tras ganar la Copa Sudamericana")
+
+Sus goles esconden la magia de un jugador fue de serie y sus declaraciones sus controversiales posturas sobre temas que, muchas veces, iban más allá de lo que sucede en un terreno de fútbol.
+
+Sobre sus orígenes
+------------------
+
+“Yo no soy ningún mago. Yo soy Diego, el que nació en Fiorito. **Los magos son los que viven allá, en Fiorito**. Son magos porque viven con mil pesos por mes”.
+
+“Cuando llegaba la comida, mi mamá decía que le dolía la panza porque quería que comiéramos nosotros y no alcanzaba. A los 13 años me di cuenta de que mi vieja nunca había sufrido del estómago”.
+
+“La primera pelota que tuve fue el regalo más lindo que me hicieron en mi vida: **Me la dio mi primo Beto, Beto Zárate, hijo de la tía Nena**. Era un número uno de cuero. Yo tenía tres años y dormí abrazándola toda la noche”.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/maradona_muerte_4-1024x683.jpg)
+
+Del debut a los 16 años, en 1976, a la “puñalada” en el 78
+----------------------------------------------------------
+
+“Vaya, Diego, juegue como usted sabe, y si puede tire un caño (túnel)”, le dijo el entrenador de Argentinos Juniors.
+
+“Recibí la pelota de espaldas a mi marcador, **que era Juan Domingo Cabrera**, le amagué y le tiré la pelota entre las piernas. Pasó limpita y enseguida escuché el ‘Ooooole’ de la gente, como una bienvenida”.
+
+A pesar de su ascenso, el seleccionador César Luis Menotti lo dejó fuera de la plantilla para el Mundial jugado en casa.
+
+“Cuando Menotti me dejó afuera del Mundial 1978, **sentí que me clavó una puñalada**. Se me cayó el mundo abajo. Nunca pude perdonarlo ni creo que lo vaya a perdonar”.
+
+De los placeres y otros demonios
+--------------------------------
+
+“Un Boca-River es distinto a todo. **Es como dormir con Julia Roberts**“, dijo años después de jugar en el xeneize.
+
+“Ganarle a River es como que tu mamá te venga a despertar con un beso a la mañana”.
+
+Y tras su paso por Nápoles concluyó: “Haber conseguido el primer scudetto para el Nápoles en 60 años fue, para mí, una victoria incomparable. **Distinta a cualquier cosa, incluso al título del mundo en 1986 con el seleccionado**. Porque al Nápoles lo hicimos nosotros, desde abajo”.
+
+“No se puede ser un fenómeno todo el año. Maradona no siempre juega de Maradona”.
+
+Punto alto: México’86
+---------------------
+
+“Cuando dicen que soy Dios yo respondo que están equivocados: **soy un simple jugador de fútbol**. Dios es Dios y yo soy Diego, el Diego de la gente”.
+
+“Campeón del Mundo, campeón del mundo… el sueño cumplido. Yo digo, hoy, que en aquellos increíbles días de México 86, **Dios estuvo conmigo**“.
+
+“¿Cómo hice el gol? (a Inglaterra). Lo hizo la mano de Dios”, fue su primera versión.
+
+“Les ofrezco mil disculpas a los ingleses, de verdad, **pero volvería a hacerlo una y mil veces**. Les robé la billetera sin que se dieran cuenta, sin que pestañearan”, la versión definitiva.
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/maradona_muerte_2-1024x683.jpg)
+
+Foto: Archivo histórico EL COMERCIO.
+
+El declive
+----------
+
+“No quiero dramatizar, pero créeme que me cortaron las piernas. No corrí por la droga, **corrí por el corazón y la camiseta**. Juro por mis hijas, que son la fuerza que me trajo a este Mundial, que yo no me drogué, que yo no tomé ninguna sustancia como para que la FIFA me deje afuera de este Mundial”.
+
+“Fui, soy y seré drogadicto” (…) “Con mi enfermedad yo di ventajas. ¿**Sabés qué jugador hubiese sido yo si no hubiese tomado droga**?”, dijo a comienzos de 2000, luego de ser internado por problemas cardíacos. Luego viajó a Cuba para tratar su adicción.
+
+“Me siento más solo que Kung Fu”, dijo al comentar su experiencia.
+
+“Yo me equivoqué y pagué, **pero la pelota no se mancha**“, dijo en su partido despedida en 2001 en la Bombonera.
+
+“Si me muero, quiero volver a nacer y quiero ser futbolista. **Y quiero volver a ser Diego Armando Maradona**. Soy un jugador que le ha dado alegría a la gente y con eso me basta y me sobra”.
+
+“Solo les pido que me dejen vivir mi propia vida. Yo nunca quise ser un ejemplo”.
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/maradona_muerte_3-1024x683.jpg)
+
+Foto: Archivo histórico EL COMERCIO.
+
+San viernes
+-----------
+
+Erreway emociona a toda una generación con el anuncio de su gira mundial
+========================================================================
+
+La banda argentina Erreway estaba integrada por Benjamín Rojas, Felipe Colombo, Camila Bordonaba y Luisana Lopilato.
+--------------------------------------------------------------------------------------------------------------------
+
+![Los integrantes de Erreway en una fotografía de archivo. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-25T112137.272.jpg)
+
+**Erreway**, la emblemática **banda argentina** que conquistó a una generación en los años **2000**, anunció su regreso con una **gira mundial** programada para **2025**.
+
+¿Cómo? ¿Cuándo? Te contamos los detalles.
+
+### **Más noticias:**
+
+* [¿Quién es la novia de la hija mayor de Carlos Vives?](https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musica-novia-latin-grammy.html "https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musica-novia-latin-grammy.html")
+* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html?source=Internal&ref=Single+Content+Link")
+* [Ángela Aguilar ya es la Mujer del Año 2024](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html?source=Internal&ref=Single+Content+Link")
+
+**Erreway emociona a toda una generación con el anuncio de una gira mundial**
+-----------------------------------------------------------------------------
+
+La noticia fue revelada el 24 de noviembre de 2024 a través de un emotivo video en **Instagram**, protagonizado por **Benjamín Rojas y Felipe Colombo**.
+
+En el clip, ambos artistas interpretan **Bonita de más**, su primer gran éxito, mientras sugieren la posibilidad de un reencuentro con los otros dos miembros originales, Camila Bordonaba y Luisana Lopilato.
+
+La banda surgió de la popular telenovela **‘Rebelde Way**‘, creada por Cris Morena, y rápidamente se convirtió en un fenómeno internacional.
+
+Entre 2002 y 2004, **Erreway** lanzó tres álbumes de estudio y realizó giras exitosas, culminando su primera etapa con la película ‘Cuatro **caminos**.
+
+**Erreway anuncia su gira y genera expectativa en redes sociales**
+------------------------------------------------------------------
+
+Los fanáticos reaccionaron con entusiasmo ante la posibilidad de ver a los cuatro miembros juntos nuevamente. Aunque Luisana Lopilato está enfocada en su carrera y familia en el extranjero, las especulaciones sobre su participación continúan.
+
+> [View this post on Instagram](https://www.instagram.com/p/C8KkqR8On2N/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Luisana Lopilato (@luisanalopilato)](https://www.instagram.com/p/C8KkqR8On2N/?utm_source=ig_embed&utm_campaign=loading)
+
+Los fans esperan por el anuncio oficial sobre las fechas y localidades de la gira.
+
+Exmagistrados y exfiscales se querellan contra Juan Carlos I por delitos fiscales
+=================================================================================
+
+Juan Carlos I, de 86 años, en 2020 trasladó su residencia a Abu Dabi tras el escándalo al conocerse que tenía parte de su patrimonio en el extranjero.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El rey emérito Juan Carlos I.](https://www.elcomercio.com/wp-content/uploads/2024/11/rey-juan-carlos-espana.jpg)
+
+Un grupo de magistrados y fiscales españoles jubilados presentaron una querella contra el [rey Juan Carlos I](https://www.elcomercio.com/actualidad/mundo/rey-juan-carlos-emiratos-arabes.html "https://www.elcomercio.com/actualidad/mundo/rey-juan-carlos-emiratos-arabes.html"), anterior jefe del Estado español, por **delitos contra la Hacienda Pública** que podrían haberse cometido en las **declaraciones tributarias** correspondientes a los años comprendidos entre el 2014 y el 2018.
+
+### Más noticias
+
+* [Felipe VI se convierte en rey de España tras la abdicación de Juan Carlos](https://www.elcomercio.com/actualidad/mundo/reyjuancarlos-espana-abdicacion-felipevi-rey.html "https://www.elcomercio.com/actualidad/mundo/reyjuancarlos-espana-abdicacion-felipevi-rey.html")
+* [Felipe VI será proclamado Rey de España el 18 de junio](https://www.elcomercio.com/actualidad/mundo/felipe-espana-rey-juancarlos-proclamacion.html "https://www.elcomercio.com/actualidad/mundo/felipe-espana-rey-juancarlos-proclamacion.html")
+* [Rey emérito Juan Carlos, perseguido por escándalo de corrupción, se encuentra en Emiratos Árabes Unidos](https://www.elcomercio.com/actualidad/mundo/rey-juan-carlos-emiratos-arabes.html "https://www.elcomercio.com/actualidad/mundo/rey-juan-carlos-emiratos-arabes.html")
+
+La querella se interpone ante la **Sala Segunda del Tribunal Supremo**, por considerar que existen elementos suficientes para constatar l**a existencia de delitos contra la Hacienda Pública** entre los años 2014 y 2018, cuando ya no era Jefe del Estado.
+
+Los hechos denunciados se habrían cometido, presuntamente, después de la **abdicación de Juan Carlos I** en 2014 a favor de su hijo, el actual monarca Felipe VI, lo que supone la **pérdida de la de inviolabilidad** que le otorgaron los **tribunales españoles** al interpretar el texto constitucional, que dice que “la persona del Rey es inviolable y no está **sujeta a responsabilidad**“.
+
+Rey Juan Carlos I trasladó su residencia a Abu Dabi
+---------------------------------------------------
+
+Hasta ahora, Juan Carlos I, de 86 años, que en 2020 trasladó su residencia a **Abu Dabi tras el escándalo al** conocerse que tenía parte de su patrimonio en el extranjero, vio cómo la Fiscalía archivó las investigaciones que abrieron contra él por sus **negocios fuera de España**. Esto al haber prescrito los hechos o haber sucedido antes de 2014, cuando estaba protegido por la inviolabilidad como jefe del Estado.
+
+Además, el anterior Jefe del Estado realizó **regularizaciones fiscales,** al no haber declarado a la Hacienda correctamente su patrimonio.
+
+El objeto de la querella que se conoció hoy se centra en la existencia de **cinco delitos contra la Hacienda Pública** presuntamente cometidos por el **rey Juan Carlos I** al estimar que los efectos de la regularización de la situación tributaria que se realizó en 2021 se han aplicado indebidamente.
+
+“Con todo el respeto que nos merece la institución de la **Fiscalía General del Estado**, en la que está integrada la **Fiscalía del Tribunal Supremo,** disentimos de su dictamen que considera que la regularización se efectuó correctamente”, señalan.
+
+Recuerda que en el sistema procesal, la opinión del Ministerio fiscal no cierra la vía para exigir responsabilidades penales ante los tribunales de Justicia mediante el **ejercicio de la acción popular.**
+
+Órganos judiciales
+------------------
+
+“Los órganos judiciales son los únicos competentes para determinar, con carácter definitivo, si la regularización es correcta o, por el contrario, como sostenemos, no se ajustó a la legalidad”.
+
+Consideran que la regularización de más de **600 000 euros en un primer momento** y posteriormente de otros 4,4 millones de euros no debió permitirse porque el r**ey emérito recibió ya dos notificaciones** previas y se le había ofrecido la posibilidad de personarse en el procedimiento.
+
+Entre los querellantes figuran **José Antonio Martín Pallín,** magistrado jubilado del Tribunal Supremo, y fiscales anticorrupción retirados, como Carlos Jiménez Villarejo y José María Mena, además de periodistas y filósofos. 
+
+Adhara Pérez, la niña genio mexicana que sueña con conquistar el espacio
+========================================================================
+
+Adhara es ingeniera y figura influyente en México.
+--------------------------------------------------
+
+![Adhara Pérez, una genio mexicana con sueños espaciales. Foto: @adhara_perez11.](https://www.elcomercio.com/wp-content/uploads/2024/11/Ahdara-nina-genio.jpg)
+
+**Adhara Pérez**, una niña de 12 años **originaria de Veracruz**, ha captado la atención del mundo por su impresionante trayectoria académica y su elevado coeficiente intelectual. Con un **IQ de 162**, superior al de figuras como **Albert Einstein y Stephen Hawking**, Adhara ha demostrado ser una **prodigio en el ámbito de la ingeniería**.  
+
+### Más noticias
+
+* [Una niña de 9 años ingresará a la universidad](https://www.elcomercio.com/tendencias/curiosidades/nina-genio-mexicana-universidad-9-anos.html "https://www.elcomercio.com/tendencias/curiosidades/nina-genio-mexicana-universidad-9-anos.html")
+* [La Nasa confirmó la teoría del fin del mundo que planteó Stephen Hawking](https://www.elcomercio.com/tendencias/ciencia/nasa-stephen-hawking-ciencia.html "https://www.elcomercio.com/tendencias/ciencia/nasa-stephen-hawking-ciencia.html") 
+
+A su corta edad, ya **ha completado dos carreras**: Ingeniería en Matemáticas e Ingeniería en Sistemas, ambas en la Universidad Tecnológica de México. Actualmente, Adhara cursa un posgrado en estructuras, según [NMás](https://www.nmas.com.mx/nacional/adhara-perez-la-nina-genio-mexicana-con-2-ingenierias-que-busca-llegar-al-espacio/ "https://www.nmas.com.mx/nacional/adhara-perez-la-nina-genio-mexicana-con-2-ingenierias-que-busca-llegar-al-espacio/").  
+
+**Reconocimiento y logros de Adhara** 
+--------------------------------------
+
+Recientemente, a decir de [Pulso](https://www.pulzo.com/virales/cual-es-iq-adhara-perez-supera-albert-einstein-stephen-hawking-PP4110246A "https://www.pulzo.com/virales/cual-es-iq-adhara-perez-supera-albert-einstein-stephen-hawking-PP4110246A"), **Adhara** fue reconocida por la **revista Forbes** como una de las **100 mujeres más influyentes** en México. Este honor destaca no solo su capacidad intelectual, sino también su compromiso con la educación y la ciencia. Su sueño es convertirse en **astronauta** y contribuir a misiones espaciales con la NASA.
+
+Desde pequeña, Adhara ha mostrado un interés profundo por la **astronomía** y las **matemáticas**, campos que ha explorado con dedicación. 
+
+**Un camino lleno de desafíos** 
+--------------------------------
+
+A pesar de sus logros, el camino de **Adhara** no ha estado exento de dificultades. Desde temprana edad, fue diagnosticada con **Síndrome de Asperger**, lo que le trajo desafíos en su vida escolar. Su madre, **Nayelli Sánchez**, recuerda cómo Adhara enfrentó el ‘bullying’ debido a su rapidez para completar las tareas. Los maestros no estaban preparados para manejar a estudiantes con **altas capacidades intelectuales** y necesidades especiales, a decir de NMás. 
+
+Adhara abandonó la escuela convencional para asistir al **Centro de Atención al Talento** (CEDAT) en México, donde pudo avanzar rápidamente en sus estudios. Completó la primaria a los 5 años y la secundaria a los 6 años.  
+
+**Inspiración para otros** 
+---------------------------
+
+Adhara no solo es una estudiante brillante; también se ha convertido en un modelo a seguir para muchos jóvenes. Participa activamente en conferencias organizadas por la **Agencia Espacial Mexicana**, donde motiva a otros niños a seguir sus sueños. Su mensaje es claro: “Si quieres ser astronauta o científico, lo vas a lograr. No dejes que nadie te aplaste tu sueño”, citada por NMás.  
+
+Además de sus estudios y actividades académicas, Adhara disfruta de momentos simples como j**ugar con amigos y ver películas**. Esta combinación de genialidad y humildad la hace accesible y admirada por muchos. 
+
+**El futuro brillante de Adhara** 
+----------------------------------
+
+Con una trayectoria tan impresionante a tan corta edad, **el futuro parece prometedor** para Adhara Pérez. Su deseo de **colaborar con la NASA y** explorar el espacio refleja una ambición que inspira a muchos jóvenes alrededor del mundo.  
+
+La historia de Adhara es un testimonio del potencial humano cuando se combina talento natural con pasión y dedicación. 
+
+Cierres viales se prevén en Quito este lunes 25 de noviembre por marchas
+========================================================================
+
+Organizaciones de mujeres convocaron a una movilización en conmemoración del Día de la Eliminación de la Violencia contra las Mujeres
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Las fuerzas del orden no permitirán el ingreso al Centro Histórico de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-25T095958.572.jpg)
+
+Este lunes 25 de noviembre se conmemora el **Día de la Eliminación de la Violencia contra las Mujeres** y, por ello, algunas organizaciones de mujeres convocaron a marchas en Quito.
+
+### Más noticias
+
+* [Choque en la av. Occidental deja un fallecido este lunes 25 de noviembre, en Quito](https://www.elcomercio.com/actualidad/quito/choque-en-la-av-occidental-deja-un-fallecido-este-lunes-25-de-noviembre-en-quito.html "Choque en la av. Occidental deja un fallecido este lunes 25 de noviembre, en Quito")
+* [Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-del-lunes-25-al-jueves-28-de-noviembre.html "Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre")
+* [Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’](https://www.elcomercio.com/actualidad/seguridad/dia-de-la-eliminacion-de-la-violencia-contra-las-mujeres-se-vive-con-union-y-esperanza.html "Día de la Eliminación de la Violencia contra las Mujeres se vive con unión y ‘Esperanza’")
+
+Vías cerradas
+-------------
+
+La convocatoria a las marchas fija como **punto de partida la Caja del Seguro,** en la av. 10 de Agosto, a las 16:00, y se prevé que avance por esa vía para intentar ingresar al Centro.
+
+Ante la convocatoria a movilizaciones, la **Policía Nacional y la Agencia Metropolitana de Tránsito** (AMT) implementarán un operativo de tránsito. Este contempla **el cierre de varias calles** dentro del Centro Histórico; sin embargo, las vías de acceso al centro se cerrarán según se requiera.
+
+El comandante General de la Policía, Víctor Zárate, informó que esta convocatoria se habría hecho para zonas **a las que ni la Policía Nacional ni las Fuerzas Armadas permitirán el ingreso.**
+
+Además, señaló que **mujeres policías** estarán a cargo de la seguridad en la marcha y pidió respeto y consideración para ellas.
+
+Cierres previstos
+-----------------
+
+Para el **tránsito vehicular** se realizará el siguiente desvío: en sentido norte-sur desde **la av. Patria** hacia el oriente y occidente de la ciudad. En sentido sur-norte estará cerrado a la **altura del puente del Sena**, la **av. Maldonado**, sector de La Recoleta, para desviarse a la **av. Velasco Ibarra**.
+
+Sin embargo, la AMT informó que los **cierres viales se implementarán** de acuerdo con el avance de las marchas y al número de asistentes.
+
+Los cierres que se pueden implementar son en las **vías** del perímetro de Carondelet. Estas son:
+
+* Calle Guayaquil y Rocafuerte
+* Calle Benalcázar y Mejía
+* Calle Benalcázar y Sucre
+* Pasaje Espejo y calle Guayaquil
+* Calle Venezuela y Sucre
+* Calle García Moreno y Sucre
+* Calle Guayaquil y Sucre
+* Calle Guayaquil y Chile
+* Calle Guayaquil y Espejo
+
+Ten precaución además en las avenidas antes señaladas como de ingreso al Centro, como la **av. Patria**, av. 10 de Agosto, av. 12 de Octubre, [**av. Maldonado**](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")**.**
+
+En este mapa puedes revisar el **estado del tránsito** en las vías que rodean el Centro Histórico de Quito.
+
+En Valencia comienza la retirada de 120 000 vehículos amontonados tras la DANA
+==============================================================================
+
+Los vehículos serán enviados a un primer punto de recepción habilitado en una zona asfaltada en Picassent.
+----------------------------------------------------------------------------------------------------------
+
+![Autos amontonados, a la espera de su retirada en Benetúser tras tres semanas del paso de la DANA.](https://www.elcomercio.com/wp-content/uploads/2024/11/auto-dana-efe.jpg)
+
+Este lunes, 25 de noviembre de 2024, comenzó la retirada de los **120 000 vehículos** que se acumulan en unas sesenta campas de la ciudades de la provincia de [Valencia](https://www.elcomercio.com/actualidad/mundo/dana-arraso-valencia-mortifera-costosa.html "https://www.elcomercio.com/actualidad/mundo/dana-arraso-valencia-mortifera-costosa.html") y que quedaron inutilizados después del paso de la DANA.
+
+### Más noticias
+
+* [La DANA que arrasó Valencia, la ‘más mortífera’ y ‘costosa’](https://www.elcomercio.com/actualidad/mundo/dana-arraso-valencia-mortifera-costosa.html "La DANA que arrasó Valencia, la ‘más mortífera’ y ‘costosa’")
+* [La DANA pasa factura a enfermos crónicos y adultos mayores](https://www.elcomercio.com/actualidad/mundo/dana-pasa-factura-enfermos-cronicos-ancianos.html "La DANA pasa factura a enfermos crónicos y adultos mayores")
+* [La vida en Valencia a 10 días de la DANA](https://www.elcomercio.com/actualidad/mundo/vida-valencia-10-dias-dana.html "La vida en Valencia a 10 días de la DANA")
+
+Según explicó este domingo la delegada del **Gobierno en la Comunitat Valenciana**, Pilar Bernabé, la retirada se va a acometer de manera coordinada para garantizar la trazabilidad y que los afectados sepan dónde está su coche y en qué **condiciones se encuentran**.
+
+Los vehículos serán enviados a un primer punto de recepción habilitado en una **zona asfaltada** en la cantera de la localidad de Picassent, hasta tanto se den de **baja definitiva** y puedan ser tratados en plantas autorizadas.
+
+**Alfafar, Paiporta** y **Massanassa** fueron las localidades elegidas para el inicio de esta operación de retirada, ya que las campas de estos municipios donde se acumulan los vehículos se encuentran cerca de los **centros escolares.**
+
+‘Cementerios de coches’
+-----------------------
+
+26 días después de la DANA, los vecinos de municipios afectados por la DANA en Valencia, como Benetússer, todavía recorren los **‘cementerios’ de autos** donde se amontonan por decenas en busca de su vehículo, una misión equivalente a “buscar una aguja en un pajar”.
+
+Lo comprobó estos días **Manuel Rubio, de 65 años,** que se desplazó desde su pueblo, Motilla del Palancar (Cuenca), para buscar su coche, un **Peugeot-407** al que se llevó la DANA el pasado 29 de octubre en Benetússer, donde se encontraba pasando unos días tras la boda de su hijo.
+
+Él, que es inspector de ITV de profesión y coleccionista de autos antiguos, recorre estos días los ‘cementerios’ de auto del municipio donde yacen apilados en pisos de hasta **tres alturas parte de lo que** queda de los 120 000 vehículos que se retiraron en toda la zona afectada tras la catástrofe.
