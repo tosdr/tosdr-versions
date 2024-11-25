@@ -585,7 +585,7 @@ MENU MENU
     
     November 19, 2024
     
-    [Treasury Targets Key Hamas Leaders and Financiers](https://home.treasury.gov/news/press-releases/jy2720)
+    [Treasury Targets Fentanyl Traffickers and Other Key Contributors to U.S. Opioid Crisis](https://home.treasury.gov/news/press-releases/jy2719)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
