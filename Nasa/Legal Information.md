@@ -329,47 +329,47 @@ article 5 days ago](https://www.nasa.gov/solar-system/planets/jupiter/jupiter-mo
 
 ### Featured
 
-[![Hubble Captures an Edge-On Spiral with Curve Appeal](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_UGC10043_potw2447a.jpg)
-
-2 min read
-
-### Hubble Captures an Edge-On Spiral with Curve Appeal
-
-article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/artist-concepts/Hubble_FUOrionis_STScI-01JD10SWK9VB6MQ9440ERZ8QP0.jpg)
-
-5 min read
-
-### NASA’s Hubble Finds Sizzling Details About Young Star FU Orionis
-
-article 4 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-finds-sizzling-details-about-young-star-fu-orionis/)[![The guitar shape in the “Guitar Nebula” comes from bubbles blown by particles ejected from the pulsar through a steady wind as it moves through space. Images from Chandra taken in 2000, 2006, 2012 and 2021 have been combined with a single image in optical light from Palomar. X-rays from Chandra show a filament of energetic matter and antimatter particles, about two light-years long, blasting away from the pulsar (seen as the bright white dot). The movie shows how this filament has changed over two decades. An inset shows a closeup of the “guitar head” from NASA’s Hubble Space Telescope also changing over time from 1994-2021.](https://www.nasa.gov/wp-content/uploads/2024/11/guitar.jpg?w=1024)
-
-5 min read
-
-### NASA’s Chandra, Hubble Tune Into ‘Flame-Throwing’ Guitar Nebula
-
-article 5 days ago](https://www.nasa.gov/missions/chandra/nasas-chandra-hubble-tune-into-flame-throwing-guitar-nebula/)
-
-### Highlights
-
-[![Hubble Captures an Edge-On Spiral with Curve Appeal](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_UGC10043_potw2447a.jpg)
-
-2 min read
-
-### Hubble Captures an Edge-On Spiral with Curve Appeal
-
-article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)[![An image from a 3D simulation showing the evolution of turbulent flows in the upper layers of the Sun. The more saturated and bright reds represent the most vigorous upward or downward twisting motions. Clear areas represent areas where there is only relatively slow up-flows, with very little twisting.](https://www.nasa.gov/wp-content/uploads/2024/11/11-kitiashvili-i-sc24-sunhelicitytour0.jpg?w=1024)
-
-3 min read
-
-### Ready, Set, Action! Our Sun is the Star in Dazzling Simulation
-
-article 4 days ago](https://www.nasa.gov/general/ready-set-action-our-sun-is-the-star-in-dazzling-simulation/)[![A diagram of the left- and right-hand versions of an amino acid.](https://www.nasa.gov/wp-content/uploads/2024/11/l-r-isovaline-print.jpg?w=1024)
+[![NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2024/cygnus-x-3/Cyg_X-3_illustration_AC.jpg)
 
 4 min read
 
-### NASA: Mystery of Life’s Handedness Deepens
+### NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System
 
-article 4 days ago](https://www.nasa.gov/science-research/planetary-science/astrobiology/nasa-mystery-of-lifes-handedness-deepens/)
+article 37 mins ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/)[![Hats Off to NASA’s Webb: Sombrero Galaxy Dazzles in New Image](https://science.nasa.gov/wp-content/uploads/2024/11/webb-stsci-01jcgz71j2wy7vrn04ypbyb5x4-2k.png)
+
+5 min read
+
+### Hats Off to NASA’s Webb: Sombrero Galaxy Dazzles in New Image
+
+article 2 hours ago](https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/)[![Hubble Captures an Edge-On Spiral with Curve Appeal](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_UGC10043_potw2447a.jpg)
+
+2 min read
+
+### Hubble Captures an Edge-On Spiral with Curve Appeal
+
+article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-an-edge-on-spiral-with-curve-appeal/)
+
+### Highlights
+
+[![Title slide for OSDR Chats interview with Dr Keith Siew](https://www.nasa.gov/wp-content/uploads/2024/10/osdr-chats-title-slide-keith-siew.jpg?w=1024)
+
+2 min read
+
+### OSDR Chats with Dr Keith Siew
+
+article 37 mins ago](https://www.nasa.gov/osdr-chats-with-dr-keith-siew/)[![NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2024/cygnus-x-3/Cyg_X-3_illustration_AC.jpg)
+
+4 min read
+
+### NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System
+
+article 37 mins ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/)[![Hats Off to NASA’s Webb: Sombrero Galaxy Dazzles in New Image](https://science.nasa.gov/wp-content/uploads/2024/11/webb-stsci-01jcgz71j2wy7vrn04ypbyb5x4-2k.png)
+
+5 min read
+
+### Hats Off to NASA’s Webb: Sombrero Galaxy Dazzles in New Image
+
+article 2 hours ago](https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/)
 
 ### Highlights
 
@@ -385,7 +385,7 @@ article 6 days ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engin
 
 ### NASA Electric Aircraft Testbed (NEAT)
 
-article 7 days ago](https://www.nasa.gov/neat/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/neat/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
 
 1 min read
 
