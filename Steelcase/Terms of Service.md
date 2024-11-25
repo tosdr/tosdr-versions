@@ -246,7 +246,7 @@ Copyright © 1996-2015 Steelcase Inc.  All rights reserved.
     * [Notifications](https://www.steelcase.com/)
     * [Rocky Recall](https://www.steelcase.com/press-releases/steelcase-recalls-chairs-due-to-fall-hazard/)
     * [Flex Mobile Power Recall](https://www.steelcase.com/product-safety-recall-steelcase-flex-mobile-power-units/)
-    * [Steelcase Store](https://store.steelcase.com/ccrz__CCPage?pageKey=SCMS&CMSId=3532&Conn=TellerCMS)
+    * [Steelcase Store](https://store.steelcase.com/faqs)
 * [Legal Notices](#)
     * [Terms of Use](https://www.steelcase.com/terms-of-use/)
     * [Privacy Policy](https://www.steelcase.com/privacy-policy/)
