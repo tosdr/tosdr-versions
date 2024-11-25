@@ -129,12 +129,12 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [IPL Auction Live](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
-    * [IPL Players List Live](https://www.news18.com/ipl-auction/)
-    * [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-buys-luxurious-rolls-royce-takes-family-for-a-drive-watch-9132007.html)
-    * [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-mahayuti-bjp-shiv-sena-ncp-devendra-fadnavis-eknath-shinde-chief-minister-post-liveblog-9132055.html)
-    * [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-opens-up-on-negativity-amid-aishwarya-rai-divorce-rumours-i-cant-change-9132011.html)
-    * [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-3-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9131750.html)
-    * [Shalini Passi](https://www.news18.com/movies/sanjay-passi-reacts-to-shalini-passis-husband-tag-after-fabulous-lives-i-feel-9130969.html)
+    * [India vs Aus Live](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-4-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9132738.html)
+    * [Shah Rukh Khan](https://www.news18.com/movies/shah-rukh-khan-kids-aryan-and-suhana-give-ipl-2025-auction-a-miss-juhi-chawlas-daughter-bids-for-kkr-9132525.html)
+    * [Rosé](https://www.news18.com/movies/rose-makes-rare-comment-on-thoughts-of-blackpink-disbanding-says-members-sat-down-to-decide-9132052.html)
+    * [Devendra Fadnavis](https://www.news18.com/elections/maharashtra-government-formation-maharashtra-chief-minister-mahayuti-alliance-shiv-sena-bjp-ncp-devendra-fadnavis-eknath-shinde-9132838.html)
+    * [Akshay Godara](https://www.news18.com/education-career/meet-akshay-godara-the-rajasthan-ias-transferred-3-times-in-18-days-9131678.html)
+    * [Javed Akhtar](https://www.news18.com/movies/javed-akhtar-says-shaadi-bekaar-kaam-hai-admits-hes-hardly-married-to-shabana-azmi-just-forget-about-it-9131870.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,12 +171,12 @@ Follow us on
 In Trends:
 
 * [IPL Auction Live](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
-* [IPL Players List Live](https://www.news18.com/ipl-auction/)
-* [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-buys-luxurious-rolls-royce-takes-family-for-a-drive-watch-9132007.html)
-* [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-mahayuti-bjp-shiv-sena-ncp-devendra-fadnavis-eknath-shinde-chief-minister-post-liveblog-9132055.html)
-* [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-opens-up-on-negativity-amid-aishwarya-rai-divorce-rumours-i-cant-change-9132011.html)
-* [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-3-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9131750.html)
-* [Shalini Passi](https://www.news18.com/movies/sanjay-passi-reacts-to-shalini-passis-husband-tag-after-fabulous-lives-i-feel-9130969.html)
+* [India vs Aus Live](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-4-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9132738.html)
+* [Shah Rukh Khan](https://www.news18.com/movies/shah-rukh-khan-kids-aryan-and-suhana-give-ipl-2025-auction-a-miss-juhi-chawlas-daughter-bids-for-kkr-9132525.html)
+* [Rosé](https://www.news18.com/movies/rose-makes-rare-comment-on-thoughts-of-blackpink-disbanding-says-members-sat-down-to-decide-9132052.html)
+* [Devendra Fadnavis](https://www.news18.com/elections/maharashtra-government-formation-maharashtra-chief-minister-mahayuti-alliance-shiv-sena-bjp-ncp-devendra-fadnavis-eknath-shinde-9132838.html)
+* [Akshay Godara](https://www.news18.com/education-career/meet-akshay-godara-the-rajasthan-ias-transferred-3-times-in-18-days-9131678.html)
+* [Javed Akhtar](https://www.news18.com/movies/javed-akhtar-says-shaadi-bekaar-kaam-hai-admits-hes-hardly-married-to-shabana-azmi-just-forget-about-it-9131870.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
