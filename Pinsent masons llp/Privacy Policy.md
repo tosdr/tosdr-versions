@@ -1,6 +1,6 @@
 [Skip to main content](#skipnav)
 
-[](https://www.pinsentmasons.com/ "Pinsent Masons")
+[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
 
 1. [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
 2. Privacy Policy [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy) 
@@ -1005,18 +1005,18 @@ Other notices and information
 
 [](https://www.pinsentmasons.com/ "Pinsent Masons")
 
-* [Legal Notices](https://www.pinsentmasons.com/en-gb/legal-notices)
-* [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy)
-* [Cookie Policy](https://www.pinsentmasons.com/en-gb/legal-notices/cookie-settings)
-* [Accessibility](https://www.pinsentmasons.com/en-gb/legal-notices/accessibility)
-* [Careers](https://www.pinsentmasons.com/en-gb/careers)
-* [Modern Slavery](https://www.pinsentmasons.com/en-gb/legal-notices/modern-slavery)
+* [Legal Notices](https://www.pinsentmasons.com/legal-notices)
+* [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
+* [Cookie Policy](https://www.pinsentmasons.com/legal-notices/cookie-settings)
+* [Accessibility](https://www.pinsentmasons.com/legal-notices/accessibility)
+* [Careers](https://www.pinsentmasons.com/careers)
+* [Modern Slavery](https://www.pinsentmasons.com/legal-notices/modern-slavery)
 
 ### We have over 27 offices across 4 continents
 
 ![carte du monde](/-/media/images/footer-map.png?h=308&w=597&rev=1a2a199976de4266b464b21b8b260f26&hash=08C7A71833F0A0B043FC2CC883536235)
 
-[Find your nearest office](https://www.pinsentmasons.com/en-gb/office-finder)
+[Find your nearest office](https://www.pinsentmasons.com/office-finder)
 
 2024 Copyright Pinsent Masons LLP
 
