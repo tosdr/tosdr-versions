@@ -446,127 +446,117 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Steven Crowder
+[Candace Show Podcast
 
-51.3K](https://rumble.com/v5tagc8--debunking-the-lefts-creative-math-on-the-cost-of-thanksgiving-dinner.html "Steven Crowder")
-
-[Bannons War Room
-
-25.4K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
-
-[Badlands Media
-
-5.36K](https://rumble.com/v5t4pbq-badlands-daily-tuesday-november-26-2024.html "Badlands Media")
+7.99K](https://rumble.com/v5terd2-conor-mcgregor-guiltybut-of-what-candace-ep-111.html "Candace Show Podcast")
 
 [NEWSMAX
 
-4.6K](https://rumble.com/v5talfk-the-gerry-callahan-show-live-11262024-newsmax-podcasts.html "NEWSMAX")
+3.33K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Matt Kohrs
+[Due Dissidence
 
-1.32K](https://rumble.com/v5t6kqe-the-mk-show-nov.-26th.html "Matt Kohrs")
+1.27K](https://rumble.com/v5tb2i5-morning-joe-fumes-over-indie-media-libertarians-spar-over-trump-wapo-defend.html "Due Dissidence")
 
 [Lofi Girl
 
-195](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+250](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[barstoolsports
+[John Burk
 
-158](https://rumble.com/v5t9vg5-kms-live-november-26-2024-ft.-mut-biodude-and-steve-from-glosta.html "barstoolsports")
-
-[Mike Crispi
-
-115](https://rumble.com/v5t5q3w-replay-mike-crispi-unafraid-11-26-24.html "Mike Crispi")
-
-[The Kirk Minihane Show
-
-103](https://rumble.com/v5t9vg5-kms-live-november-26-2024-ft.-mut-biodude-and-steve-from-glosta.html "The Kirk Minihane Show")
-
-[Wake Up Mintzy
-
-62](https://rumble.com/v5t1p55-wake-up-mintzy-11.26.24.html "Wake Up Mintzy")
+191](https://rumble.com/v5tejan-israel-strikes-back..html "John Burk")
 
 [Major League Fishing
 
 3](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
+[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
 
-[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
-
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
-
-[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
-
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
-
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
-
-[Bitcoin.com](https://rumble.com/c/Bitcoincom "Bitcoin.com")
-
-[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
-
-[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
-
-[Geeks + Gamers](https://rumble.com/c/GeeksandGamers "Geeks + Gamers")
-
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
-
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
-
-[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
-
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
-
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
-
-[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
-
-[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
-
-[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
-
-[NELK](https://rumble.com/c/NELK "NELK")
-
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
-
-[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
-
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
-
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
-
-[NHRA](https://rumble.com/c/NHRA "NHRA")
-
-[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
-
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
-
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
-
-[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
-
-[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
-
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
-
-[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
-
-[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
-
-[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
-
-[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
+[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
 
 [Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
 
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
+[Bannons War Room](https://rumble.com/c/BannonsWarRoom "Bannons War Room")
+
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
+
+[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
+
+[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
+
+[Power Slap](https://rumble.com/c/powerslap "Power Slap")
+
+[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
+
+[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
+
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
+
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+
+[The Dan Bongino Show](https://rumble.com/c/Bongino "The Dan Bongino Show")
+
+[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
+
+[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
+
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
+
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+
+[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
+
+[Havoc](https://rumble.com/c/Havoc "Havoc")
+
+[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
+
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
+
+[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
+
+[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
+
+[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+
+[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
+
+[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
+
+[Geeks + Gamers](https://rumble.com/c/GeeksandGamers "Geeks + Gamers")
+
+[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
+
+[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
+
+[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
+
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+
+[After Skool](https://rumble.com/c/AfterSkool "After Skool")
+
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
+
+[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
+
+[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
+
+[Redacted News](https://rumble.com/c/Redacted "Redacted News")
+
+[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
+
+[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
+
+[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
 
 [A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+
+[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
+
+[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
+
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
 
 ### Theme
 
@@ -588,8 +578,6 @@ System Default Dark Mode Light Mode
 * [Copyright / DMCA](https://rumble.com/s/dmca)
 
 Copyright © 2024 Rumble. All Rights Reserved.
-
-[](https://rumble.com/s/digital-accessibility-statement)
 
 #### Go Ad-Free with Rumble Premium
 
