@@ -2407,6 +2407,7 @@
                 * [ ]  [Rapid Iterative Testing and Evaluation (RITE)](https://handbook.gitlab.com/handbook/product/ux/ux-research/rite/)
                 * [ ]  [Research insights](https://handbook.gitlab.com/handbook/product/ux/ux-research/research-insights/)
                 * [ ]  [Research prioritization](https://handbook.gitlab.com/handbook/product/ux/ux-research/research-prioritization/)
+                * [ ]  [Resources for Research DRIs](https://handbook.gitlab.com/handbook/product/ux/ux-research/resources-for-research-dris/)
                 * [ ]  [Solution Validation and methods](https://handbook.gitlab.com/handbook/product/ux/ux-research/solution-validation-and-methods/)
                 * [ ]  [Strategic research at GitLab](https://handbook.gitlab.com/handbook/product/ux/ux-research/strategic-research-at-gitlab/)
                     * [ ]  [GitLab Adoption Research Program](https://handbook.gitlab.com/handbook/product/ux/ux-research/strategic-research-at-gitlab/gitlab-adoption-research-program/)
