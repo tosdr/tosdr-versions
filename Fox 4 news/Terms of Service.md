@@ -5,7 +5,7 @@
 * [Weather](https://www.fox4news.com/weather)
 * [Good Day](https://www.fox4news.com/shows/good-day)
 * [Sports](https://www.fox4news.com/sports)
-* [Gift Guide](https://www.fox4news.com/giftguide)
+* [Gift Guide](https://www.fox4news.com/shows/gift-guide)
 * [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
