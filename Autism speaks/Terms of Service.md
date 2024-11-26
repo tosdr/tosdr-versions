@@ -287,6 +287,14 @@ Autism news
 
 All the latest that matters to our community
 
+![Pam Dixon and friends in a cafe](/sites/default/files/styles/content_list/public/Pam-Dixon-and-friends-in-a-cafe.jpg.webp?itok=oNmYDb4X)
+
+11.26.24
+
+[### Bridging borders: Empowering caregivers worldwide](https://guide.autismspeaks.org/science-news/empowering-caregivers-worldwide)
+
+Pamela Dixon, Director of Clinical Services and Inclusion, had the privilege of traveling to the country of Georgia as part of the Professional
+
 ![Vincent Feng standing in front of Capitol steps in DC](/sites/default/files/styles/content_list/public/Vincent-Feng-standing-in-front-of-Capitol-steps-in-DC_0.jpg.webp?itok=XOCZPihX)
 
 11.21.24
@@ -327,14 +335,6 @@ Hiring autistic employees can be a game-changer for your business. Find out how 
 
 Autism Digest shares the journey to employment for Autism Speaks Champions of Change, Tonya and Tyler Haynes.
 
-![Bernie Marcus](/sites/default/files/styles/content_list/public/Bernie_Marcus_0.jpg.webp?itok=XfWH3Vi_)
-
-11.5.24
-
-[### Honoring the legacy of Bernie Marcus](https://guide.autismspeaks.org/news/honoring-legacy-bernie-marcus)
-
-Bernie Marcus was a visionary and trailblazer whose boundless compassion reshaped the autism community and empowered millions to reach their potential
-
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
 Advocacy priorities
@@ -362,7 +362,7 @@ Life on the spectrum
 
 ------------------------
 
-[![Ira and Lisa](/sites/default/files/styles/content_grid/public/Ira-and-Lisa_0.jpg.webp?itok=AqPiP585)](https://guide.autismspeaks.org/profile/meet-ira-t-and-lisa)
+[![Ira and Lisa](/sites/default/files/styles/content_grid/public/Ira%20and%20Lisa.jpeg.webp?itok=xRk7O8l0)](https://guide.autismspeaks.org/profile/meet-ira-t-and-lisa)
 
 Ira T., 28, and his mom, Lisa
 
