@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/songwriting-lesson-part-4-how-to-improve-lyrics/)
+ [](https://schoolsmusicmarket.com/product/creating-shotgun-on-garageband-step-by-step-powerpoint-lesson/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/a-musical-easter-notes-rests-worksheet/)
+ [](https://schoolsmusicmarket.com/product/bootiful-time-signature-time-signature-bulletin-board-pack/)
 
 ###### Browse By Year/Grade
 
