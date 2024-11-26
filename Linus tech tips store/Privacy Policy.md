@@ -64,6 +64,7 @@ New orders are expected to ship by
     
     * [Best Sellers](https://www.lttstore.com/collections/all-products)
     * [Our Favorites](https://www.lttstore.com/collections/top-sellers)
+    * [All Discounts](https://www.lttstore.com/collections/discounted)
     * [Black Friday / Cyber Monday](https://www.lttstore.com/collections/bfcm-landing)
     
 * [BFCM](https://www.lttstore.com/collections/bfcm-landing)
@@ -95,7 +96,7 @@ Sign in
     
 * [All Products](https://www.lttstore.com/collections/all-products-1)
     
-    [New Arrivals](https://www.lttstore.com/collections/all-products-1) [Best Sellers](https://www.lttstore.com/collections/all-products) [Our Favorites](https://www.lttstore.com/collections/top-sellers)
+    [New Arrivals](https://www.lttstore.com/collections/all-products-1) [Best Sellers](https://www.lttstore.com/collections/all-products) [Our Favorites](https://www.lttstore.com/collections/top-sellers) [All Discounts](https://www.lttstore.com/collections/discounted)
     
     [![Collection Image](//www.lttstore.com/cdn/shop/collections/BFCM_Menu_Thumbnail.jpg?v=1732511965&width=400)
     
