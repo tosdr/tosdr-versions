@@ -4,13 +4,35 @@ By clicking 'Accept' you agree to our use of [cookies](https://www.lttstore.com/
 
 Accept & Dismiss
 
+SPECIAL HOLIDAY OFFER
+
+### We have a special deal for you this BFCM
+
+ [![MCM Starter Solution](//www.lttstore.com/cdn/shop/files/1_0dbb063d-6c28-477c-a46e-c9387431c5c8.jpg?v=1732499488&width=533) ![MCM Starter Solution](//www.lttstore.com/cdn/shop/files/1_0dbb063d-6c28-477c-a46e-c9387431c5c8.jpg?v=1732499488&width=533)](https://www.lttstore.com/products/mcm-starter-solution)
+
+### [MCM Starter Solution](https://www.lttstore.com/products/mcm-starter-solution)
+
+SAVE 40%
+
+### [MCM Starter Solution](https://www.lttstore.com/products/mcm-starter-solution)
+
+Regular price $14.99 USD
+
+Regular price ~$24.99 USD~ Sale price $14.99 USD
+
+Unit price /  per 
+
+Sale
+
+NO MORE EXCUSES - Tidy up your desk and try out Magnetic Cable Management with this special selection of components at our best price ever. Available while supplies last.
+
 [Skip to content](#MainContent)
 
-[BFCM Early Access - LTT Floatplane Subscribers can shop week-long Black Friday deals NOW](https://www.lttstore.com/collections/bfcm-landing)
+[BFCM 9000 is ON! Save on some of our most popular items during Black Friday Week- click here.](https://www.lttstore.com/collections/bfcm-landing)
 
 New orders are expected to ship by
 
-[Canadian customers: due to strike action, new orders will not be shipped via Canada Post until further notice. Please avoid the use of PO Boxes during this time. Existing Canada Post shipments may be delayed; we will contact you if any action is required to ensure delivery. Apologies for any inconvenience. Learn more.](https://lttstore.gorgias.help/en-US/service-alert-canada-post-strike-964023) [Due to strike action, existing Canada Post shipments may be delayed. Please avoid the use of PO Boxes during this time. Learn more.](https://lttstore.gorgias.help/en-US/service-alert-canada-post-strike-964023)
+[Canadian Customers: Existing Canada Post shipments are impacted by strike action. Click here to learn more.](https://lttstore.gorgias.help/en-US/service-alert-canada-post-strike-964023) [Canadian Customers: Existing Canada Post shipments are impacted by strike action. Click here to learn more.](https://lttstore.gorgias.help/en-US/service-alert-canada-post-strike-964023)
 
      
 
@@ -111,6 +133,8 @@ Sign in through
  [* ![](//www.lttstore.com/cdn/shop/t/130/assets/shopify-logo.svg?v=182554083611724108241732308947) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/130/assets/floatplane-logo-notext.svg?v=135174765184720699891732308947) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
 
 [Cart](https://www.lttstore.com/cart)
+
+/ FREE SHIPPING
 
  
 
