@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/boya-mini-wireless-lapel-mic-worlds-tiniest-microphone/)
+    
+    [BOYA Mini Shrinks the Wireless Lapel Mic into a Tiny Nub](https://www.coolthings.com/boya-mini-wireless-lapel-mic-worlds-tiniest-microphone/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/satechi-mini-nvme-ssd-enclosure-portable-storage/)
+    
+    [Satechi Mini NVMe SSD Enclosure Brings You a Stylish Way to Carry Your Portable Storage](https://www.coolthings.com/satechi-mini-nvme-ssd-enclosure-portable-storage/)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/garmin-descent-x50i-big-screen-dive-computer-200-atm-rating/)
     
     [Garmin Descent X50i Adds a Big-Screen Dive Computer to the Outfit’s Range](https://www.coolthings.com/garmin-descent-x50i-big-screen-dive-computer-200-atm-rating/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/rode-wireless-micro-lapel-mic-compact-pocket-sized/)
-    
-    [Rode Wireless Micro Lapel Mic Takes on a Compact, Pocket-Sized Form Factor](https://www.coolthings.com/rode-wireless-micro-lapel-mic-compact-pocket-sized/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/ayaneo-3-flagship-gaming-handheld-7inch-oled-amd-ai-chip/)
-    
-    [Ayaneo 3 Gaming Handheld Uses AI-Capable Chip for Versatile Function](https://www.coolthings.com/ayaneo-3-flagship-gaming-handheld-7inch-oled-amd-ai-chip/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
