@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -150,14 +150,14 @@
 
 * [Пирог "Ель" из слоёного теста, с какао и корицей](https://www.russianfood.com/recipes/recipe.php?rid=158880)
 * [Торт с халвой и ореховым кремом](https://www.russianfood.com/recipes/recipe.php?rid=150322)
-* [Говядина с шампиньонами в соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=150206)
 * [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623)
 * [Завтрак из хека](https://www.russianfood.com/recipes/recipe.php?rid=573)
 * [Яблоки, фаршированные мясом цыпленка](https://www.russianfood.com/recipes/recipe.php?rid=926)
-* [Луковый пирог(Quiche aux oignons)](https://www.russianfood.com/recipes/recipe.php?rid=1153)
-* [Филе в духовке(Aloyau braise)](https://www.russianfood.com/recipes/recipe.php?rid=1171)
-* [Бутерброд соломка](https://www.russianfood.com/recipes/recipe.php?rid=1516)
-* [Фаршированный кабачок (овощами, творогом или мясом)](https://www.russianfood.com/recipes/recipe.php?rid=1531)
+* [Морские гребешки, запеченные в томатном соусе](https://www.russianfood.com/recipes/recipe.php?rid=1601)
+* [Плов из баранины с рисом](https://www.russianfood.com/recipes/recipe.php?rid=1606)
+* [Скумбрия, запеченная под майонезом](https://www.russianfood.com/recipes/recipe.php?rid=1620)
+* [Скумбрия, запеченная с картофелем](https://www.russianfood.com/recipes/recipe.php?rid=1621)
+* [Рыбный хлебец](https://www.russianfood.com/recipes/recipe.php?rid=1627)
 
 |     |
 | --- |
@@ -179,6 +179,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Салат из капусты с зелёным горошком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173408) |     |
+
+[![Фото к рецепту: Салат из капусты с зелёным горошком и яйцами](//img1.russianfood.com/dycontent/images_upl/736/sm_735960.jpg "Фото к рецепту: Салат из капусты с зелёным горошком и яйцами")](https://www.russianfood.com/recipes/recipe.php?rid=173408)
+
+Элементарный в приготовлении салат из капусты с зелёным горошком и яйцами. Основу салата составляет хрустящая белокочанная капуста. Она гармонирует с консервированным зелёным горошком, питательными варёными яйцами, остринкой красного лука и свежей зеленью.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173408)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173408#comments) | 26.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Котлеты с рисом, сыром и крабовыми палочками](https://www.russianfood.com/recipes/recipe.php?rid=174315) |     |
+
+[![Фото к рецепту: Котлеты с рисом, сыром и крабовыми палочками](//img1.russianfood.com/dycontent/images_upl/748/sm_747417.jpg "Фото к рецепту: Котлеты с рисом, сыром и крабовыми палочками")](https://www.russianfood.com/recipes/recipe.php?rid=174315)
+
+Отварной рис соединяется с натёртыми крабовыми палочками и сыром, яйцо и мука скрепляют котлеты. Поскольку основные ингредиенты уже готовы, жарятся котлеты быстро, получаются румяными, нежными и вкусными.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174315)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174315#comments) | 26.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -262,7 +290,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174908#comments) | 26.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174908#comments) | 26.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -362,34 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22916#comments) | 23.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Хороша каша наша.) ГРЕЧКА по-необычному (22)](https://www.russianfood.com/reading/?post_id=22914) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/551/sm_550092.jpg)](https://www.russianfood.com/reading/?post_id=22914)
-
-Гречка с грибами в микроволновке. Гречка с капустой и морковью. Гречневая запеканка с курицей и шампиньонами. Котлеты из гречки с консервированной рыбой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22914)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22914#comments) | 23.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>["Золото" новогоднего меню. Лучшие рецепты на Новый год (90)](https://www.russianfood.com/reading/?post_id=22913) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/749/sm_748464.jpg)](https://www.russianfood.com/reading/?post_id=22913)
-
-Тартар из сельди с авокадо. Мидии с сыром и сливками. Мясной салат с маринованными огурцами. Песочное печенье с лимонным курдом. Куриные рулетики с бананом.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22913)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22913#comments) | 23.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -459,10 +459,10 @@
 
 Новые рецепты:
 
-|     |     |     |
-| --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754387.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754277.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
-| [Рыба, запечённая с овощами в лодочках из пергамента](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [Конвертики с курагой, изюмом и цедрой](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [Конвертики из лаваша с яблоком и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754387.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747417.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174315) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735960.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173408) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754277.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
+| [Рыба, запечённая с овощами в лодочках из пергамента](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [Котлеты с рисом, сыром и крабовыми палочками](https://www.russianfood.com/recipes/recipe.php?rid=174315) | [Конвертики с курагой, изюмом и цедрой](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [Салат из капусты с зелёным горошком и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=173408) | [Конвертики из лаваша с яблоком и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(220)
+(99)
