@@ -2,6 +2,7 @@ Tuesday, November 26 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Tuesday, November 26, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-26-2024/)
 * [Medal of Honor Monday: Army Pfc. Noah Knight](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-noah-knight/)
 * [Poll Shows Majority Approve of Trump’s Transition](https://www.conservativedailynews.com/2024/11/poll-shows-majority-approve-of-trumps-transition/)
 * [The People Complaining About Pete Hegseth May Be Giving Us WW III](https://www.conservativedailynews.com/2024/11/the-people-complaining-about-pete-hegseth-may-be-giving-us-ww-iii/)
@@ -9,7 +10,6 @@ Breaking News
 * [Trump Is Doing Something Unexpected — Making The GOP Cool](https://www.conservativedailynews.com/2024/11/trump-is-doing-something-unexpected-making-the-gop-cool/)
 * [President Joe Biden’s Schedule for Monday, November 25, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-monday-november-25-2024/)
 * [The West Is Playing With Fire In Ukraine](https://www.conservativedailynews.com/2024/11/the-west-is-playing-with-fire-in-ukraine/)
-* [Thanksgiving Food Costs Still Gobble Up More Of Americans’ Paychecks Than Any Time Under Trump](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,36 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![Kamala Harris missing](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/wheres-kamala/)
+    
+    [Where’s Kamala?](https://www.conservativedailynews.com/2024/11/wheres-kamala/)
+    
+    November 26, 2024
+    
+* [![smartphones at the table Thanksgiving](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv112524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/thankful-2/)
+    
+    [Thankful?](https://www.conservativedailynews.com/2024/11/thankful-2/)
+    
+    November 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/01/yoga-pose-sky-1200x628-facebook-1200x628-1-220x150.webp)](https://www.conservativedailynews.com/2024/11/the-lowdown-on-chair-yoga-free-resources-real-benefits-no-gimmicks/)
+    
+    [The Lowdown on Chair Yoga: Free Resources, Real Benefits, No Gimmicks](https://www.conservativedailynews.com/2024/11/the-lowdown-on-chair-yoga-free-resources-real-benefits-no-gimmicks/)
+    
+    November 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/05-whirlwind-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/winds-of-change/)
+    
+    [Winds Of Change](https://www.conservativedailynews.com/2024/11/winds-of-change/)
+    
+    November 26, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-26-2024/)
+    
+    [President Joe Biden’s Schedule for Tuesday, November 26, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-26-2024/)
+    
+    November 26, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2020/05/cropped-MONEY.jpg)](https://www.conservativedailynews.com/2024/11/trumps-economy-must-create-new-capital/)
     
     [Trump’s Economy Must Create New Capital](https://www.conservativedailynews.com/2024/11/trumps-economy-must-create-new-capital/)
@@ -148,39 +178,12 @@ Recent Posts
     
     November 25, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5816-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/the-people-complaining-about-pete-hegseth-may-be-giving-us-ww-iii/)
-    
-    [The People Complaining About Pete Hegseth May Be Giving Us WW III](https://www.conservativedailynews.com/2024/11/the-people-complaining-about-pete-hegseth-may-be-giving-us-ww-iii/)
-    
-    November 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Transgender-threatens-violence-on-Christians-Conservatives-220x150.jpg)](https://www.conservativedailynews.com/2024/11/todays-woke-democrats-are-simply-trouble-makers/)
-    
-    [Today’s Woke Democrats Are Simply Trouble Makers](https://www.conservativedailynews.com/2024/11/todays-woke-democrats-are-simply-trouble-makers/)
-    
-    November 25, 2024
-    
-* [![Elon Musk MSNBC Maddow](https://www.conservativedailynews.com/wp-content/uploads/2024/11/04-msnbc-buy-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/x-marks-the-spot-3/)
-    
-    [X Marks The Spot?](https://www.conservativedailynews.com/2024/11/x-marks-the-spot-3/)
-    
-    November 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/05/cropped-Van-Jones.jpg)](https://www.conservativedailynews.com/2024/11/cnns-van-jones-illustrates-the-problem-with-the-insulting-democrats/)
-    
-    [CNN’s Van Jones Illustrates the Problem with the “Insulting” Democrats](https://www.conservativedailynews.com/2024/11/cnns-van-jones-illustrates-the-problem-with-the-insulting-democrats/)
-    
-    November 25, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/09/wp1816998-donald-trump-wallpapers.jpg)](https://www.conservativedailynews.com/2024/11/trump-is-doing-something-unexpected-making-the-gop-cool/)
-    
-    [Trump Is Doing Something Unexpected — Making The GOP Cool](https://www.conservativedailynews.com/2024/11/trump-is-doing-something-unexpected-making-the-gop-cool/)
-    
-    November 25, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Skynet Ordered To Pay Jury Verdict To Portland Nightclub Goer Shot In The Leg](https://www.thegunpage.com/skynet-ordered-to-pay-jury-verdict-to-portland-nightclub-goer-shot-in-the-leg/10612117)
+* [Congressman Announces New Measure To Abolish ATF](https://www.thegunpage.com/congressman-announces-new-measure-to-abolish-atf/10612114)
+* [Carry Optics: Division Of Choice At 2024 Buckeye Blast USPSA Ohio Section Match](https://www.thegunpage.com/carry-optics-division-of-choice-at-2024-buckeye-blast-uspsa-ohio-section-match/10612113)
 * [TFB Review: Mantis Laser Academy](https://www.thegunpage.com/tfb-review-mantis-laser-academy/10612109)
 * [POTD: FN Minimi In The Trenches](https://www.thegunpage.com/potd-fn-minimi-in-the-trenches/10612110)
 * [The Rimfire Report: A Series Of Tubes – The Hamilton Model 11](https://www.thegunpage.com/the-rimfire-report-a-series-of-tubes-the-hamilton-model-11/10612111)
@@ -188,9 +191,6 @@ Recent Posts
 * [GOA Releases Feature Documentary on the Fight to Arm Pilots Following 9/11](https://www.thegunpage.com/goa-releases-feature-documentary-on-the-fight-to-arm-pilots-following-9-11/10612106)
 * [Kimber 2K11 Offers Custom-Level Features And High-Capacity Magazines](https://www.thegunpage.com/kimber-2k11-offers-custom-level-features-and-high-capacity-magazines/10612104)
 * [Streamlight Introduces the HL6](https://www.thegunpage.com/streamlight-introduces-the-hl6/10612102)
-* [EAA Introduces Updated Girsan MC 14T X Tip-Up](https://www.thegunpage.com/eaa-introduces-updated-girsan-mc-14t-x-tip-up/10612105)
-* [Texas AG Sues Hospital System For Restricting Off-Duty LEO Carry](https://www.thegunpage.com/texas-ag-sues-hospital-system-for-restricting-off-duty-leo-carry/10612099)
-* [RISE Reliant Hunter, Reliant Pro: Their First Bolt-Action Triggers](https://www.thegunpage.com/rise-reliant-hunter-reliant-pro-their-first-bolt-action-triggers/10612098)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
