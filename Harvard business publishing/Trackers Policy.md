@@ -1,6 +1,56 @@
+[](https://hbr.org/)
+
 [Navigation Menu](#)
 
-[![Harvard Business Review Home](/resources/css/images/HBR_logo_black.svg)](https://hbr.org/)
+[Subscribe](https://hbr.org/subscriptions?ab=topbar-subtout&tpcc=houseads.site.topbar-subtout) [![Cart](/resources/css/images/cart-icon.png)](https://hbr.org/shopping-cart)[Sign In](#)
+
+[Account Menu](#)
+
+Account Menu
+
+Hi,
+
+ Guest
+
+[Search Menu](#)
+
+[Latest](https://hbr.org/the-latest) [Magazine](https://hbr.org/magazine) [Topics](https://hbr.org/topics) [Podcasts](https://hbr.org/podcasts) [Store](https://hbr.org/store) [The Big Idea](https://hbr.org/big-ideas) [Data & Visuals](https://hbr.org/data-visuals) [Case Selections](https://hbr.org/case-selections) [HBR Learning](https://hbr.org/learning) [Ask AI](https://hbr.org/ai-beta)
+
+[](https://hbr.org/)
+
+[Navigation Menu](#)
+
+[Subscribe](https://hbr.org/subscriptions?ab=topbar-subtout&tpcc=houseads.site.topbar-subtout) [![Cart](/resources/css/images/cart-icon.png)](https://hbr.org/shopping-cart)[Sign In](#)
+
+[Account Menu](#)
+
+Account Menu
+
+Hi,
+
+ Guest
+
+[Search Menu](#)
+
+[](https://hbr.org/)
+
+[Navigation Menu](#)
+
+[Subscribe](https://hbr.org/subscriptions?ab=topbar-subtout&tpcc=houseads.site.topbar-subtout) [![Cart](/resources/css/images/cart-icon.png)](https://hbr.org/shopping-cart)[Sign In](#)
+
+[Account Menu](#)
+
+Account Menu
+
+Hi,
+
+ Guest
+
+[Search Menu](#)
+
+[](https://hbr.org/)
+
+[Navigation Menu](#)
 
 [Subscribe](https://hbr.org/subscriptions?ab=topbar-subtout&tpcc=houseads.site.topbar-subtout) [![Cart](/resources/css/images/cart-icon.png)](https://hbr.org/shopping-cart)[Sign In](#)
 
@@ -258,10 +308,6 @@ UIDR
 
 #### Partner Center
 
-[Latest](https://hbr.org/the-latest) [Magazine](https://hbr.org/magazine) [Topics](https://hbr.org/topics) [Podcasts](https://hbr.org/podcasts) [Store](https://hbr.org/store) [The Big Idea](https://hbr.org/big-ideas) [Data & Visuals](https://hbr.org/data-visuals) [Case Selections](https://hbr.org/case-selections) [HBR Learning](https://hbr.org/learning) [Ask AI](https://hbr.org/ai-beta)
-
-[![Harvard Business Review Home](/resources/css/images/hbr_logo.svg)](https://hbr.org/)
-
 [**Subscribe**](https://hbr.org/subscriptions?ab=footer-subtout&tpcc=houseads.site.footer-subtout)
 
 ###### Explore HBR
@@ -322,24 +368,15 @@ UIDR
 * [Instagram](https://www.instagram.com/harvard_business_review/?hl=en)
 * [Your Newsreader](http://feeds.hbr.org/harvardbusiness/)
 
-![Harvard Business Publishing](/resources/images/2018/new_logo_May11.png)
+[Copyright Policy](https://hbr.org/corporate/copyright) [Privacy Information](https://hbr.org/privacy-policy) [Returns Policy](https://hbr.org/terms-of-use)
 
-* [About Us](https://hbr.org/corporate/about)
-* [Careers](https://hbr.org/corporate/careers)
-* [Privacy Policy](https://hbr.org/privacy-policy)
-* [Cookie Policy](https://hbr.org/corporate/cookie-policy)
-* [Copyright Information](https://hbr.org/corporate/copyright)
-* [Trademark Policy](http://trademark.harvard.edu/pages/trademark-notice)
-* [Terms of Use](https://hbr.org/terms-of-use)
+Harvard Business Publishing: [Higher Education](http://hbsp.harvard.edu/) [Corporate Learning](http://www.harvardbusiness.org/) [Harvard Business Review](http://hbr.org/) [Harvard Business School](http://www.hbs.edu/)
 
-  
+Copyright ©   Harvard Business School Publishing. All rights reserved. Harvard Business Publishing is an affiliate of Harvard Business School.
 
-Harvard Business Publishing:
+[Copyright Policy](https://hbr.org/corporate/copyright) [Privacy Information](https://hbr.org/privacy-policy) [Returns Policy](https://hbr.org/terms-of-use)
 
-* [Higher Education](http://hbsp.harvard.edu/)
-* [Corporate Learning](http://www.harvardbusiness.org/)
-* [Harvard Business Review](http://hbr.org/)
-* [Harvard Business School](http://www.hbs.edu/)
+Harvard Business Publishing: [Higher Education](http://hbsp.harvard.edu/) [Corporate Learning](http://www.harvardbusiness.org/) [Harvard Business Review](http://hbr.org/) [Harvard Business School](http://www.hbs.edu/)
 
 Copyright ©   Harvard Business School Publishing. All rights reserved. Harvard Business Publishing is an affiliate of Harvard Business School.
 
