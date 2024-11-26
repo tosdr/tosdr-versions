@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Revera](https://www.backup4all.com/how-to-backup-your-data-to-revera-kb.html)  
+* [Using Backup4all - FAQ 2](https://www.backup4all.com/using-backup4all-faq-2-kb.html)  
     
-* [Packet writing software](https://www.backup4all.com/packet-writing-software-kb.html)  
+* [Restoring a backup from CD/DVD/Blu-ray to ano ...](https://www.backup4all.com/how-to-restore-a-backup-from-a-cd-dvd-blu-ray-to-another-computer-kb.html)  
     
-* [How to backup your data to Cloudian](https://www.backup4all.com/how-to-backup-your-data-to-cloudian-kb.html)  
+* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
     
-* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
+* [How to restore a backup to HiDrive](https://www.backup4all.com/how-to-restore-a-backup-to-hidrive-kb.html)  
     
-* [How to backup to OneDrive using Backup4all](https://www.backup4all.com/how-to-backup-to-skydrive-using-backup4all-kb.html)  
+* [How to start your free Backup4all trial](https://www.backup4all.com/how-to-start-your-free-backup4all-trial-kb.html)  
     
 
 Choose language:
