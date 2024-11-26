@@ -613,6 +613,12 @@ Most recent
 
 [26-11-2024
 
+EU healthcare assistants struggle to make a living wage, warn unions](https://www.euractiv.com/section/health-consumers/news/eu-healthcare-assistants-struggle-to-make-a-living-wage-warn-unions/)[26-11-2024
+
+Meta calls for EU regulation on age verification](https://www.euractiv.com/section/tech/news/meta-calls-for-eu-regulation-on-age-verification/)[26-11-2024
+
+Paris Mayor Anne Hidalgo won’t seek reelection in 2026](https://www.euractiv.com/section/politics/news/paris-mayor-anne-hidalgo-wont-seek-reelection-in-2026/)[26-11-2024
+
 Czech president warns Trump of rising autocracies](https://www.euractiv.com/section/politics/news/the-capitals-czech-president-warns-trump-of-rising-autocracies/)[26-11-2024
 
 Borissov vows to bring Bulgaria into eurozone if named PM](https://www.euractiv.com/section/politics/news/borissov-vows-to-bring-bulgaria-into-eurozone-if-named-pm/)[26-11-2024
@@ -625,13 +631,7 @@ Experts: Merkel’s decisions contributed to multiple German, EU crises, includi
 
 Portuguese PM says no resignations over ambulance strike deaths](https://www.euractiv.com/section/politics/news/portuguese-pm-says-no-resignations-over-ambulance-strike-deaths/)[26-11-2024
 
-Industrial policy also means ‘letting losers go,’ EU development bank says](https://www.euractiv.com/section/economy-jobs/news/industrial-policy-requires-letting-losers-go-european-development-bank-says/)[26-11-2024
-
-Sánchez reshuffles Spanish government as Ribera heads off to Brussels](https://www.euractiv.com/section/politics/news/sanchez-reshuffles-spanish-government-as-ribera-heads-off-to-brussels/)[26-11-2024
-
-Călin Georgescu, the far-right outsider who could be Romania’s new president](https://www.euractiv.com/section/politics/news/calin-georgescu-the-far-right-outsider-who-could-be-romanias-new-president/)[26-11-2024
-
-Italy’s M5S denies formation of new group with Wagenknecht BSW](https://www.euractiv.com/section/politics/news/italys-m5s-denies-formation-of-new-group-with-wagenknecht-bsw/)
+Industrial policy also means ‘letting losers go,’ EU development bank says](https://www.euractiv.com/section/economy-jobs/news/industrial-policy-requires-letting-losers-go-european-development-bank-says/)
 
 ###### Advertisement
 
