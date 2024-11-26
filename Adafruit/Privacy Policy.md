@@ -75,6 +75,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled Shot of the Raspberry Pi Pico 2W.](https://cdn-shop.adafruit.com/230x173/6087-00.jpg)[Raspberry Pi Pico 2W
+    
+    $7.00](https://www.adafruit.com/product/6087)
+    
     ![Demo Shot of the SD to MicroSD Extender.](https://cdn-shop.adafruit.com/230x173/6060-01.jpg)[SD to MicroSD Extender
     
     $6.95](https://www.adafruit.com/product/6060)
@@ -86,10 +90,6 @@ Search
     ![Angled shot of lipo charger PCB.](https://cdn-shop.adafruit.com/230x173/6092-03.jpg)[Adafruit bq25185 USB / DC / Solar Charger with 3.3V Buck Board
     
     $8.95](https://www.adafruit.com/product/6092)
-    
-    ![Angled shot of black, square-shaped lipoly battery charger PCB.](https://cdn-shop.adafruit.com/230x173/6091-00.jpg)[Adafruit bq25185 USB / DC / Solar Lithium Ion/Polymer charger
-    
-    $6.95](https://www.adafruit.com/product/6091)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth”
+“ A delayed game is eventually good, a bad game is bad forever”
 
-[Jules Verne](http://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth)
+[Shigeru Miyamoto](http://en.wikipedia.org/wiki/Shigeru_Miyamoto)
 
 [](https://www.adafruit.com/about)
 
