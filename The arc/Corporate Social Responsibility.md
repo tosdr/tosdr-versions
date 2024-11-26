@@ -182,6 +182,10 @@ The Arc is committed to continuously improving the accessibility and usability o
 * [Store](https://www.bonfire.com/store/the-arc/)
 * [Contact Us](https://thearc.org/contact-us/)
 
+Sign Up for Email Updates             
+
+### Sign Up for Email Updates
+
   
 
 ![](/wp-content/uploads/2018/12/arc-footer-logo.png)
