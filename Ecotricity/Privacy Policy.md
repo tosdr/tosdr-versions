@@ -46,7 +46,7 @@ If you have any questions about this privacy policy, including any requests to e
 
 Ecotricity is a renewable energy company supplying electricity and gas to commercial and domestic customers (the **“Services”**).
 
-For more information about Ecotricity, please see the “About Us” section of our Website at [https://www.ecotricity.co.uk/about-ecotricity](https://www.ecotricity.co.uk/about-ecotricity)
+For more information about Ecotricity, please see the “About Us” section of our Website at [http://www.ecotricity.co.uk/our-story/our-mission](http://www.ecotricity.co.uk/our-story/our-mission).
 
 #### How we collect your information and why
 
