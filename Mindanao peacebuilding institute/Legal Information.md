@@ -48,6 +48,9 @@
             * [MPI 2024 VPBT Payment Information](https://mpiasia.net/programs/training/online-courses/mpi-2024-virtual-peacebuilding-training-payment-information.html)
             
         * [Grassroots Peacebuilding Mentors Training Program](https://mpiasia.net/programs/training/grassroots-peacebuilding-mentors-training-program.html)
+            
+            * [2024 GPBM Application Submission](https://mpiasia.net/programs/training/grassroots-peacebuilding-mentors-training-program/2024-gpbm-application-submission.html)
+            
         * [Resource-Based Conflict and Peacebuilding Training Program](https://mpiasia.net/programs/training/resourcebasedconflictpeacebldg.html)
         
     * [Research, Documentation, & Learning](https://mpiasia.net/programs/research-documentation-and-learning.html)
@@ -265,6 +268,7 @@ For more information on our privacy policies and data protection, please see our
             * [MPI 2024 VPBT Document Uploader](https://mpiasia.net/programs/training/online-courses/document-uploader.html)
             * [MPI 2024 VPBT Payment Information](https://mpiasia.net/programs/training/online-courses/mpi-2024-virtual-peacebuilding-training-payment-information.html)
         * [Grassroots Peacebuilding Mentors Training Program](https://mpiasia.net/programs/training/grassroots-peacebuilding-mentors-training-program.html)
+            * [2024 GPBM Application Submission](https://mpiasia.net/programs/training/grassroots-peacebuilding-mentors-training-program/2024-gpbm-application-submission.html)
         * [Resource-Based Conflict and Peacebuilding Training Program](https://mpiasia.net/programs/training/resourcebasedconflictpeacebldg.html)
     * [Research, Documentation, & Learning](https://mpiasia.net/programs/research-documentation-and-learning.html)
     * [Networking](https://mpiasia.net/programs/networking.html)
