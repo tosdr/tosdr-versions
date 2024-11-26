@@ -1,6 +1,6 @@
 top of page
 
-[![GET Logo 4c.png](https://static.wixstatic.com/media/52ee83_f13a35d3c6e64adc8814f215ccc4d963~mv2.png/v1/fill/w_70,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GET%20Logo%204c.png)](https://www.get.systems/en)
+[![GET Logo 4c.png](https://static.wixstatic.com/media/52ee83_f13a35d3c6e64adc8814f215ccc4d963~mv2.png/v1/fill/w_70,h_56,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GET%20Logo%204c.png)](https://www.get.systems/en)
 
 * [Home](https://www.get.systems/en)
 * [Projects](https://www.get.systems/en/future-of-festivals)
