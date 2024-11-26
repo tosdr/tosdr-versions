@@ -1,3 +1,11 @@
+Make Your Gift: It’s Giving Tuesday!
+------------------------------------
+
+This Giving Tuesday, empower individuals to break free from domestic violence and  
+build a brighter, safer future for them and their families. Your gift will be doubled!
+
+[Match My Gift Today!](https://www.thehotline.org/2024gt-h/)
+
 [![The Hotline](https://www.thehotline.org/wp-content/themes/hotline-main/assets/images/logo-ndvh.svg "The Hotline")](https://www.thehotline.org/)
 
 * [Skip to navigation \[n\]](#nav "Skip to navigation")
