@@ -109,7 +109,11 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=364525)
 Most recent
 -----------
 
-[25-11-2024
+[26-11-2024
+
+Dealing with a healthcare crisis, lessons from Ukraine](https://www.euractiv.com/section/health-consumers/news/dealing-with-a-healthcare-crisis-lessons-from-ukraine/)[26-11-2024
+
+EU clinical trial rules not competitive with US and Asia, says Dutch pharma association](https://www.euractiv.com/section/health-consumers/news/eu-clinical-trial-rules-not-competitive-with-us-and-asia-says-dutch-pharma-association/)[25-11-2024
 
 MEPs finalise resolution to extend smoking and vaping bans in public places](https://www.euractiv.com/section/health-consumers/news/meps-finalise-resolution-to-extend-smoking-and-vaping-bans-in-public-places/)[25-11-2024
 
@@ -125,11 +129,7 @@ Loss-making Thyssenkupp Steel plans to reduce workforce by around 40%](http://rm
 
 Germany’s Habeck floats compromise to waver CO2 targets fines on car makers](https://www.euractiv.com/section/economy-jobs/news/germanys-habeck-floats-compromise-to-waver-co2-targets-fines-on-car-makers/)[25-11-2024
 
-Le Pen’s party threatens no-confidence vote on Barnier’s government](https://www.euractiv.com/section/politics/news/le-pens-party-threatens-no-confidence-vote-on-barniers-government/)[25-11-2024
-
-High-level group calls for Commission recommendation on lawful interception in 2025](https://www.euractiv.com/section/tech/news/high-level-group-calls-for-commission-recommendation-on-lawful-interception-in-2025/)[25-11-2024
-
-EU push to centralise financial supervision misguided, say Nordic finance chiefs](https://www.euractiv.com/section/economy-jobs/news/eu-push-to-centralise-financial-supervision-misguided-say-nordic-finance-chiefs/)
+Le Pen’s party threatens no-confidence vote on Barnier’s government](https://www.euractiv.com/section/politics/news/le-pens-party-threatens-no-confidence-vote-on-barniers-government/)
 
 ###### Advertisement
 
