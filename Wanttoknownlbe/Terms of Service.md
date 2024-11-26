@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/wie-zijn-de-echte-semieten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/radiesthesie-een-ethisch-fenomeen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
