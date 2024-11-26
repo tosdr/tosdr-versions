@@ -219,7 +219,7 @@ Last updated by Jeremy Varnham on 12 July 2023 and currently under active review
 
 **At the Saudi ADHD Society, your privacy is our commitment.**
 
-Should you have any questions or concerns, please contact: jeremy@adhd.org.sa
+Should you have any questions or concerns, please contact: [\[email protected\]](https://adhd.org.sa/cdn-cgi/l/email-protection)
 
 * [Copyright](https://adhd.org.sa/en/copyright/)
     
