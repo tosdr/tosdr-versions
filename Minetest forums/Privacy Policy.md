@@ -1,4 +1,4 @@
-[](https://forum.minetest.net/index.php?sid=e3f779e5b88fc802764cb0e1b5d14e08 "Board index")
+[](https://forum.minetest.net/index.php?sid=e041e0200c2e629557ba1dfc7896c344 "Board index")
 
 Luanti Forums
 =============
@@ -7,23 +7,23 @@ The official [Luanti](https://www.luanti.org/) discussion board
 
 [Skip to content](#start_here)
 
-  Search [Advanced search](https://forum.minetest.net/search.php?sid=e3f779e5b88fc802764cb0e1b5d14e08 "Advanced search") 
+  Search [Advanced search](https://forum.minetest.net/search.php?sid=e041e0200c2e629557ba1dfc7896c344 "Advanced search") 
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://forum.minetest.net/search.php?search_id=unanswered&sid=e3f779e5b88fc802764cb0e1b5d14e08)
-    * [Active topics](https://forum.minetest.net/search.php?search_id=active_topics&sid=e3f779e5b88fc802764cb0e1b5d14e08)
+    * [Unanswered topics](https://forum.minetest.net/search.php?search_id=unanswered&sid=e041e0200c2e629557ba1dfc7896c344)
+    * [Active topics](https://forum.minetest.net/search.php?search_id=active_topics&sid=e041e0200c2e629557ba1dfc7896c344)
     
-    * [Search](https://forum.minetest.net/search.php?sid=e3f779e5b88fc802764cb0e1b5d14e08)
+    * [Search](https://forum.minetest.net/search.php?sid=e041e0200c2e629557ba1dfc7896c344)
     
-    * [Members](https://forum.minetest.net/memberlist.php?sid=e3f779e5b88fc802764cb0e1b5d14e08)
-    * [The team](https://forum.minetest.net/memberlist.php?mode=team&sid=e3f779e5b88fc802764cb0e1b5d14e08)
+    * [Members](https://forum.minetest.net/memberlist.php?sid=e041e0200c2e629557ba1dfc7896c344)
+    * [The team](https://forum.minetest.net/memberlist.php?mode=team&sid=e041e0200c2e629557ba1dfc7896c344)
     
-* [Login](https://forum.minetest.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=e3f779e5b88fc802764cb0e1b5d14e08 "Login")
-* [Register](https://forum.minetest.net/ucp.php?mode=register&sid=e3f779e5b88fc802764cb0e1b5d14e08)
+* [Login](https://forum.minetest.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=e041e0200c2e629557ba1dfc7896c344 "Login")
+* [Register](https://forum.minetest.net/ucp.php?mode=register&sid=e041e0200c2e629557ba1dfc7896c344)
 
-* [Board index](https://forum.minetest.net/index.php?sid=e3f779e5b88fc802764cb0e1b5d14e08)
-* [Search](https://forum.minetest.net/search.php?sid=e3f779e5b88fc802764cb0e1b5d14e08 "View the advanced search options")
+* [Board index](https://forum.minetest.net/index.php?sid=e041e0200c2e629557ba1dfc7896c344)
+* [Search](https://forum.minetest.net/search.php?sid=e041e0200c2e629557ba1dfc7896c344 "View the advanced search options")
 
 Luanti Forums - Privacy policy
 ------------------------------
@@ -38,18 +38,18 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
   
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “Luanti Forums”, so please guard it carefully and under no circumstance will anyone affiliated with “Luanti Forums”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.
 
-* [Board index](https://forum.minetest.net/index.php?sid=e3f779e5b88fc802764cb0e1b5d14e08)
+* [Board index](https://forum.minetest.net/index.php?sid=e041e0200c2e629557ba1dfc7896c344)
 * All times are UTC
-* [Delete cookies](https://forum.minetest.net/ucp.php?mode=delete_cookies&sid=e3f779e5b88fc802764cb0e1b5d14e08)
-* [Members](https://forum.minetest.net/memberlist.php?sid=e3f779e5b88fc802764cb0e1b5d14e08 "View complete list of members")
-* [The team](https://forum.minetest.net/memberlist.php?mode=team&sid=e3f779e5b88fc802764cb0e1b5d14e08)
+* [Delete cookies](https://forum.minetest.net/ucp.php?mode=delete_cookies&sid=e041e0200c2e629557ba1dfc7896c344)
+* [Members](https://forum.minetest.net/memberlist.php?sid=e041e0200c2e629557ba1dfc7896c344 "View complete list of members")
+* [The team](https://forum.minetest.net/memberlist.php?mode=team&sid=e041e0200c2e629557ba1dfc7896c344)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://forum.minetest.net/ucp.php?mode=privacy&sid=e3f779e5b88fc802764cb0e1b5d14e08 "Privacy") | [Terms](https://forum.minetest.net/ucp.php?mode=terms&sid=e3f779e5b88fc802764cb0e1b5d14e08 "Terms")
+[Privacy](https://forum.minetest.net/ucp.php?mode=privacy&sid=e041e0200c2e629557ba1dfc7896c344 "Privacy") | [Terms](https://forum.minetest.net/ucp.php?mode=terms&sid=e041e0200c2e629557ba1dfc7896c344 "Terms")
 
 [](#)
 
 [](#)
 
-![](/app.php/cron/cron.task.core.prune_notifications?sid=e3f779e5b88fc802764cb0e1b5d14e08)
+![](/app.php/cron/cron.task.core.prune_notifications?sid=e041e0200c2e629557ba1dfc7896c344)
