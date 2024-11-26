@@ -443,25 +443,25 @@ Most recent
 
 [26-11-2024
 
-Dealing with a healthcare crisis, lessons from Ukraine](https://www.euractiv.com/section/health-consumers/news/dealing-with-a-healthcare-crisis-lessons-from-ukraine/)[26-11-2024
+Czech president warns Trump of rising autocracies](https://www.euractiv.com/section/politics/news/the-capitals-czech-president-warns-trump-of-rising-autocracies/)[26-11-2024
 
-EU clinical trial rules not competitive with US and Asia, says Dutch pharma association](https://www.euractiv.com/section/health-consumers/news/eu-clinical-trial-rules-not-competitive-with-us-and-asia-says-dutch-pharma-association/)[25-11-2024
+Borissov vows to bring Bulgaria into eurozone if named PM](https://www.euractiv.com/section/politics/news/borissov-vows-to-bring-bulgaria-into-eurozone-if-named-pm/)[26-11-2024
 
-MEPs finalise resolution to extend smoking and vaping bans in public places](https://www.euractiv.com/section/health-consumers/news/meps-finalise-resolution-to-extend-smoking-and-vaping-bans-in-public-places/)[25-11-2024
+Few Ukrainians mull leaving Poland, poll shows](https://www.euractiv.com/section/politics/news/few-ukrainians-mull-leaving-poland-poll-shows/)[26-11-2024
 
-French PM unveils plan to fight violence against women](https://www.euractiv.com/section/health-consumers/news/french-pm-unveils-plan-to-fight-violence-against-women/)[25-11-2024
+E5 defence ministers meet in Berlin as Kyiv readies for third war winter](https://www.euractiv.com/section/defence-and-security/news/e5-defense-ministers-meet-in-berlin-as-kyiv-readies-for-third-war-winter/)[26-11-2024
 
-No appetite for Hungary’s pitch to advance Serbia EU accession talks](https://www.euractiv.com/section/global-europe/news/no-appetite-for-hungarys-pitch-to-advance-serbia-eu-accession-talks/)[25-11-2024
+Experts: Merkel’s decisions contributed to multiple German, EU crises, including Ukraine war](https://www.euractiv.com/section/politics/news/experts-merkels-decisions-contributed-to-multiple-german-eu-crises-including-ukraine-war/)[26-11-2024
 
-The Court of Auditors pushes to finish the job on food labelling legislation](https://www.euractiv.com/section/agriculture-food/news/the-court-of-auditors-pushes-to-finish-the-job-on-food-labelling-legislation/)[25-11-2024
+Portuguese PM says no resignations over ambulance strike deaths](https://www.euractiv.com/section/politics/news/portuguese-pm-says-no-resignations-over-ambulance-strike-deaths/)[26-11-2024
 
-Germany’s embattled Scholz brushes off doubts as he clinches chancellor candidacy](https://www.euractiv.com/section/politics/news/germanys-embattled-scholz-brushes-off-doubts-as-he-clinches-chancellor-candidacy/) [25-11-2024
+Industrial policy also means ‘letting losers go,’ EU development bank says](https://www.euractiv.com/section/economy-jobs/news/industrial-policy-requires-letting-losers-go-european-development-bank-says/)[26-11-2024
 
-Loss-making Thyssenkupp Steel plans to reduce workforce by around 40%](http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2024:newsml_L5N3MW0L5:1073429016)[25-11-2024
+Sánchez reshuffles Spanish government as Ribera heads off to Brussels](https://www.euractiv.com/section/politics/news/sanchez-reshuffles-spanish-government-as-ribera-heads-off-to-brussels/)[26-11-2024
 
-Germany’s Habeck floats compromise to waver CO2 targets fines on car makers](https://www.euractiv.com/section/economy-jobs/news/germanys-habeck-floats-compromise-to-waver-co2-targets-fines-on-car-makers/)[25-11-2024
+Călin Georgescu, the far-right outsider who could be Romania’s new president](https://www.euractiv.com/section/politics/news/calin-georgescu-the-far-right-outsider-who-could-be-romanias-new-president/)[26-11-2024
 
-Le Pen’s party threatens no-confidence vote on Barnier’s government](https://www.euractiv.com/section/politics/news/le-pens-party-threatens-no-confidence-vote-on-barniers-government/)
+Italy’s M5S denies formation of new group with Wagenknecht BSW](https://www.euractiv.com/section/politics/news/italys-m5s-denies-formation-of-new-group-with-wagenknecht-bsw/)
 
 ###### Advertisement
 
