@@ -384,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123149202.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123175144.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Lock­angebote bei Zinsen: Warum Sie Kombipro­dukte hinterfragen sollten](https://www.test.de/Lockangebote-bei-Zinsen-Warum-Sie-Kombiprodukte-hinterfragen-sollten-6166878-0/ "Lockangebote bei Zinsen - Warum Sie Kombiprodukte hinterfragen sollten")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Lock­angebote bei Zinsen: Warum Sie Kombipro­dukte hinterfragen sollten](https://www.test.de/Lockangebote-bei-Zinsen-Warum-Sie-Kombiprodukte-hinterfragen-sollten-6166878-0/ "Lockangebote bei Zinsen - Warum Sie Kombiprodukte hinterfragen sollten")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Lock­angebote bei Zinsen: Warum Sie Kombipro­dukte hinterfragen sollten](https://www.test.de/Lockangebote-bei-Zinsen-Warum-Sie-Kombiprodukte-hinterfragen-sollten-6166878-0/ "Lockangebote bei Zinsen - Warum Sie Kombiprodukte hinterfragen sollten")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
-* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
+* [Nach­haltige Fonds und ETF: Was die neue EU-Einordnung für nach­haltige Fonds bedeutet](https://www.test.de/Nachhaltige-Fonds-und-ETF-Was-die-neue-EU-Einordnung-fuernachhaltige-Fonds-bedeutet-5955841-0/ "Nachhaltige Fonds und ETF - Was die neue EU-Einordnung für nachhaltige Fonds bedeutet")
+* [Vorstands­wechsel bei der Stiftung Warentest: „Unabhängig­keit ist unsere Stärke“](https://www.test.de/Vorstandswechsel-bei-der-Stiftung-Warentest-Unabhaengigkeit-ist-unsere-Staerke-6063684-0/ "Vorstandswechsel bei der Stiftung Warentest - „Unabhängigkeit ist unsere Stärke“")
+* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Lock­angebote bei Zinsen: Warum Sie Kombipro­dukte hinterfragen sollten](https://www.test.de/Lockangebote-bei-Zinsen-Warum-Sie-Kombiprodukte-hinterfragen-sollten-6166878-0/ "Lockangebote bei Zinsen - Warum Sie Kombiprodukte hinterfragen sollten")
+* [Geschlechts­eintrag ändern: Identität offiziell berichtigen lassen](https://www.test.de/Geschlechtseintrag-aendern-6143042-0/ "Geschlechtseintrag ändern - Identität offiziell berichtigen lassen")
 
 Stiftung Warentest
 
