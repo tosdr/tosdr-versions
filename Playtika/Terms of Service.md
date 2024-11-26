@@ -149,6 +149,7 @@ Playtika Group
 * [1V1.LOL](https://playtikaprod.service-now.com/1v1lol)
 * [Best Fiends Stars](https://playtika.service-now.com/bf)
 * [Pearl's Peril](https://wooga.helpshift.com/a/pearl-s-peril/?p=all)
+* [Redecor](https://playtika.service-now.com/red)
 
 [![](/img/Facebook-round-small.svg)](https://www.facebook.com/Playtika/)
 
@@ -233,6 +234,7 @@ Game Support
 * [1V1.LOL](https://playtikaprod.service-now.com/1v1lol)
 * [Best Fiends Stars](https://playtika.service-now.com/bf)
 * [Pearl's Peril](https://wooga.helpshift.com/a/pearl-s-peril/?p=all)
+* [Redecor](https://playtika.service-now.com/red)
 
 [![](/img/Facebook-round-small.svg)](https://www.facebook.com/Playtika/) [![](/img/Twitter-round-small.svg)](https://twitter.com/playtika_ltd?lang=he) [![](/img/linkedin.svg)](https://il.linkedin.com/company/playtika) [![](/img/Instagram-bottom.svg)](https://www.instagram.com/playtika)
 
