@@ -184,7 +184,7 @@ _(This is only if you use Facebook Login, which you can disconnect on your profi
 
 The Sites may ask for some Facebook permissions allowing it to perform actions with the User's Facebook account and to retrieve information, including Personal Data, from it. This service allows this Application to connect with the User's account on the Facebook social network, provided by Facebook Inc.
 
-For more information about the following permissions, refer to the [Facebook permissions documentation](https://developers.facebook.com/docs/authentication/permissions/) and to the [Facebook privacy policy](https://www.facebook.com/about/privacy/) .
+For more information about the following permissions, refer to the [Facebook permissions documentation](https://developers.facebook.com/docs/authentication/permissions/) and to the [Facebook privacy policy](https://www.facebook.com/about/privacy/).
 
 The permissions asked are the following:
 
