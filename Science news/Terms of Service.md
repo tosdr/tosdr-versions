@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Dengue is classified as an urban disease. Mosquitoes don’t care](https://www.sciencenews.org/article/dengue-mosquitoes-urban-rural-disease)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")13 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")19 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Dengue is classified as an urban disease. Mosquitoes don’t care](https://www.sciencenews.org/article/dengue-mosquitoes-urban-rural-disease)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")13 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")19 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [From electric cars to wildfires, how Trump may affect climate actions](https://www.sciencenews.org/article/trump-affect-climate-actions-research)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")11 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")17 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
