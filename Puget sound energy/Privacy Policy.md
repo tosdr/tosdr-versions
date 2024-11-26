@@ -369,16 +369,16 @@ We have internal teams working to resolve these issues—we know it’s frustrat
 
 We will continue to work around the clock until power is restored to all customers.
 
-[Storm alert Updated Nov 25, 6:00 PM](#collapseOne)  
+[Storm alert Updated Nov 26, 6:00 AM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-Damage assessment and restoration efforts continue
+**Damage assessment and restoration efforts continue**
 
-Crews and hundreds of support staff continue their around-the-clock work to restore power to those who remain out as a result of yesterday’s damaging windstorm.
+Crews are working as fast as they can to restore your power. We expect customers to have power restored by this afternoon or within a few hours of that. As we restore power for customers in an area, in some cases it is leading us to find additional damage that we could not previously see, which prevents the power from coming on completely at your location. We will continue to work around the clock until power is restored to all customers. When crews arrive on site, please give them space to work safely.
 
-When crews arrive on site, please give them space to work safely.
+We know this is so hard for our customers still experiencing an outage—we are working around the clock to restore power to you. For examples of the extensive damage our crews are working to restore, check out photos posted on PSE’s social media channels: [Facebook](https://www.facebook.com/pugetsoundenergy) / [Instagram](https://www.instagram.com/pugetsoundenergy/) / [Flickr](https://www.flickr.com/photos/pugetsoundenergy/) / [X](https://x.com/PSETalk)
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
