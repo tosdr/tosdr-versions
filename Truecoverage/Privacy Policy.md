@@ -1452,11 +1452,7 @@ Next Level Everything
 * [Follow](https://www.instagram.com/truecoveragepx/ "Follow on Instagram")
 * [Follow](https://www.youtube.com/channel/UCYmLl2gDXEKf8eHTTKmkkrA "Follow on Youtube")
 
-[![audioeye-trusted-seal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20149%2061'%3E%3C/svg%3E)
-
-![audioeye-trusted-seal](https://truecoverage.com/wp-content/uploads/2022/05/audioeye-trusted-seal.png)](https://truecoverage.com/accessibility-statement/)[![TrueCoverage LLC BBB Business Review](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20293%2061'%3E%3C/svg%3E)
-
-![TrueCoverage LLC BBB Business Review](/wp-content/uploads/2021/06/blue-seal.png)](https://www.bbb.org/us/nm/albuquerque/profile/health-insurance/truecoverage-llc-0806-99160073/accreditation-information)
+[![audioeye-trusted-seal](https://truecoverage.com/wp-content/uploads/2022/05/audioeye-trusted-seal.png)](https://truecoverage.com/accessibility-statement/)[![TrueCoverage LLC BBB Business Review](/wp-content/uploads/2021/06/blue-seal.png)](https://www.bbb.org/us/nm/albuquerque/profile/health-insurance/truecoverage-llc-0806-99160073/accreditation-information)
 
 By using this site, you consent and request to be contacted by TrueCoverage, their agents, affiliates, or anyone calling on our behalf, by phone, email, and text/SMS to the home or mobile number(s) you provided, even if your provided number is on a National, State, or Private, Do Not Call List. Expect pre-recorded messages and automated technology to be used to contact you for marketing purposes. You understand that consent is not a condition of purchase.
 
@@ -1528,7 +1524,7 @@ CLOSE
     
 * ![](https://api.trustedform.com/ns.gif)
     
-* Email
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
@@ -1618,6 +1614,4 @@ By clicking SUBMIT, you consent and request to be contacted by TrueCoverage, the
 
 [Trustpilot](https://www.trustpilot.com/review/truecoverage.com)
 
-[![Verified by MonsterInsights](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20160%2040'%3E%3C/svg%3E "Verified by MonsterInsights")
-
-![Verified by MonsterInsights](https://truecoverage.com/wp-content/plugins/google-analytics-premium/assets/images/monsterinsights-badge-light.svg "Verified by MonsterInsights")](https://www.monsterinsights.com/?utm_source=verifiedBadge&utm_medium=verifiedBadge&utm_campaign=verifiedbyMonsterInsights)
+[![Verified by MonsterInsights](https://truecoverage.com/wp-content/plugins/google-analytics-premium/assets/images/monsterinsights-badge-light.svg "Verified by MonsterInsights")](https://www.monsterinsights.com/?utm_source=verifiedBadge&utm_medium=verifiedBadge&utm_campaign=verifiedbyMonsterInsights)
