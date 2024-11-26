@@ -205,23 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Gary Gygax's Cyborg Commando (1987)](https://www.somethingawful.com/dungeons-and-dragons/cyborg-gygax-1987/1/)
-* [A Celebration of Turtle Power (Part Two)](https://www.somethingawful.com/photoshop-phriday/celebration-turtle-power-2/1/)
-* [Fun with Smokey](https://www.somethingawful.com/photoshop-phriday/fun-with-smokey/1/)
-* [Magazine Advertisements 2](https://www.somethingawful.com/photoshop-phriday/magazine-advertisements-2/1/)
+* [Bullying is Bad! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/bullying-comics-bitstrips2/1/)
+* [Dungeons & Dragons Module B8: "Journey to The Rock"](https://www.somethingawful.com/dungeons-and-dragons/basic-dnd-adventure/1/)
+* [Let's Fix Ted Cruz's Smile! (Part 2)](https://www.somethingawful.com/comedy-goldmine/cruz-mouth-weirder/)
+* [Pardon My French!](https://www.somethingawful.com/awfulvision/furry-wiccan-hitler/1/)
+* [Sci-Fi vs. Sci-Fi](https://www.somethingawful.com/photoshop-phriday/scifi-vs-scifi/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Sit on Robot Santa's Lap](http://forums.somethingawful.com/showthread.php?threadid=4076210 "Sit on Robot Santa's Lap")
 * ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Corn or Flour, What Say You?](http://forums.somethingawful.com/showthread.php?threadid=4076211 "Corn or Flour, What Say You?")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Sit on Robot Santa's Lap](http://forums.somethingawful.com/showthread.php?threadid=4076210 "Sit on Robot Santa's Lap")
 
 ### Random Articles
 
-* [District Bulletin: Missing Person](https://www.somethingawful.com/news/district-bulletin-missing/)
-* [Bignose the Caveman](https://www.somethingawful.com/rom-pit/big-nose-caveman/)
-* [Runner](https://www.somethingawful.com/news/runner-syndrome/)
-* [Unforgettable Metal Gear Moments](https://www.somethingawful.com/video-game-article/metal-gear-unforgettable/)
-* [Alien Abduction, How To Prevent](https://www.somethingawful.com/awful-links/awful-link-1200/)
+* [White Power Web Hosting](https://www.somethingawful.com/awful-links/awful-link-1384/)
+* [The Bushmen of Buka](https://www.somethingawful.com/second-life-safari/bushmen-buka/1/)
+* [Diabetes By Sundown](https://www.somethingawful.com/mooflogs/diabetes-by-sundown/)
+* [October 27, 2008](https://www.somethingawful.com/forum-fridays/ff10-27-08/1/)
+* [World War II Propaganda](https://www.somethingawful.com/photoshop-phriday/world-war-ii/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
