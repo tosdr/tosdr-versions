@@ -605,14 +605,6 @@ Tina Furber Calgary 23/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Polite, considerate and efficient.
-
-John Ricci Calgary 22/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Trey and Nich were super awesome. Very professional guys!! I would do business again just cos of them!!!!
 
 Ogonna Idia Calgary 22/11/2024
@@ -624,6 +616,14 @@ Ogonna Idia Calgary 22/11/2024
 Excellent Service Would definitely use again
 
 Mary kneale Calgary 22/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Polite, considerate and efficient.
+
+John Ricci Calgary 22/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -661,17 +661,17 @@ Vee Gregg Calgary 20/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great and friendly service! Guys were in and out quickly and efficiently. Thank you!
+Quick and easy. Very professional and friendly.
 
-Neil Bailey Calgary 19/11/2024
+C L Calgary 19/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Quick and easy. Very professional and friendly.
+Great and friendly service! Guys were in and out quickly and efficiently. Thank you!
 
-C L Calgary 19/11/2024
+Neil Bailey Calgary 19/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,38 +885,6 @@ Melanie Carey Monteregie Metro 19/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Andre and Alex were very professional and a pleasure to work with.
-
-Jerry Locke Wisconsin 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Gio + Kegan were GREAT! Efficient, professional and kind! Got the job done!
-
-Mary Parker Naples 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-This duel was awesome! Very friendly. Great customer service. Earlier than expected. Quick and easy!
-
-Sarah Choy Seattle 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-John and Marci did a great job. They took all of my junk 10 out of 10.
-
-James Mategko Seattle 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Andre and Alex were awesome! Really professional and efficient!
 
 Julie Deming Wisconsin 23/11/2024
@@ -1021,9 +989,41 @@ Michael Kiely Wisconsin 23/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Don and Luis were wonderful! Very helpful and speedy!
+Andre and Alex were very professional and a pleasure to work with.
 
-Sarah Miller Austin 22/11/2024
+Jerry Locke Wisconsin 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Gio + Kegan were GREAT! Efficient, professional and kind! Got the job done!
+
+Mary Parker Naples 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+This duel was awesome! Very friendly. Great customer service. Earlier than expected. Quick and easy!
+
+Sarah Choy Seattle 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+John and Marci did a great job. They took all of my junk 10 out of 10.
+
+James Mategko Seattle 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Bo and Ronnie were awesome!
+
+Chris Munson Seattle 22/11/2024
 
 ### 
 
