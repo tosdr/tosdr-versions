@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_01579_2005/1579-2005-hon-bill-english-to-the-associate-minister/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/50HansS_20120301_00000412/peters-winston-questions-for-oral-answer-questions/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/order-paper-questions/written-questions/document/QWA_01579_2005/1579-2005-hon-bill-english-to-the-associate-minister/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/50HansS_20120301_00000412/peters-winston-questions-for-oral-answer-questions/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
