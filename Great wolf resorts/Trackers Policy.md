@@ -55,8 +55,10 @@ Great Wolf Resorts
 Great Wolf Resorts Cookie Policy
 ================================
 
-Last Updated: June 30, 2020
----------------------------
+Last Updated: August 8, 2023
+
+
+--------------------------------
 
 This Cookie Policy describes how and why Great Wolf Resorts, Inc., and its affiliates and subsidiaries (collectively, “Great Wolf”, “we”, “us”, or “our”) uses cookies, web beacons, pixels, clear gifs, and other similar tracking technologies (collectively, “Cookies” unless otherwise indicated) on our website or applications, however accessed (collectively, the “Site”).  It also explains what Cookies are and your choices regarding Cookies.   
 
