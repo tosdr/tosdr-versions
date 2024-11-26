@@ -2,7 +2,7 @@
 
 ![exclamation point icon](/wp-content/themes/operationsmile/assets/images/exclamation-icon.svg)
 
-Operation Smile has been named an Anthem Award winner. [See the Collaboration that Won](https://www.operationsmile.org/story/highlighting-our-partnership-beast-philanthropy/)
+Operation Smile has been named an Anthem Award winner. [See the Collaboration that Won](https://www.operationsmile.org/story/beast-philanthropy-brings-operation-smiles-good-works-to-tens-of-millions/)
 
  [![Operation Smile](/wp-content/themes/operationsmile/assets/images/operation-smile-logo-2023.svg)](https://www.operationsmile.org/)[Donate](https://www.operationsmile.org/privacy-policy?form=FUNZKBCNZQY)
 
@@ -68,7 +68,7 @@ Operation Smile has been named an Anthem Award winner. [See the Collaboration th
 
 ![exclamation point icon](/wp-content/themes/operationsmile/assets/images/exclamation-icon.svg)
 
-Operation Smile has been named an Anthem Award winner. [See the Collaboration that Won](https://www.operationsmile.org/story/highlighting-our-partnership-beast-philanthropy/)
+Operation Smile has been named an Anthem Award winner. [See the Collaboration that Won](https://www.operationsmile.org/story/beast-philanthropy-brings-operation-smiles-good-works-to-tens-of-millions/)
 
 [![Operation Smile](/wp-content/themes/operationsmile/assets/images/operation-smile-logo-2023.svg)](https://www.operationsmile.org/)
 
@@ -338,7 +338,7 @@ Virginia Beach, VA 23453
 
 Email\*
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
