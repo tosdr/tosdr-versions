@@ -391,7 +391,7 @@ Follow Us
 
 * [Facebook](https://www.facebook.com/capturetimecapsule)
 * [Pinterest](https://www.pinterest.com/Capture_Preserve_Share/)
-*  [![](//www.capture.com/cdn/shop/t/19/assets/instagram-logo.png?v=178799173295624521771682038300) Instagram](https://www.instagram.com/capture_usa_/)
+*  [![](//www.capture.com/cdn/shop/t/59/assets/instagram-logo.png?v=178799173295624521771732302838) Instagram](https://www.instagram.com/capture_usa_/)
 
 Still Have Questions?Our Memory Consultants are here to help. [Support](https://help.capture.com/hc/en-us)
 ----------------------------------------------------------------------------------------------------------
