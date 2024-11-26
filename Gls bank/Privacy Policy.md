@@ -253,11 +253,11 @@
         Barrierearmut
         
     
-    [![Weiblich gelesene Person mit weißen Haaren ernte gemüse im Garten](/media/Bilder/Angebote/Vorsorgen/Vorsorgen-Hof-Praedikow.jpg "Vorsorgen mit sozial-ökologischen Angeboten der GLS Bank")](https://www.gls.de/vorsorgen/altersvorsorge/ "Rentenangebote sozial-ökologisch")
+    [![Illustration von 2 weiblich gelesenen Personen, die mit gegenseitiger Unterstützung hochsteigen](/media/_processed_/9/f/csm_Keyvisual_Frauen_und_Finance_335x185_76517fcd3b.jpg "Finanzkompetenz für Frauen")](https://www.gls.de/vorsorgen/altersvorsorge/ "Rentenangebote sozial-ökologisch")
     
-    Jetzt für die Rente vorsorgen
+    Geld ist auch Frauensache
     
-    [Mehr erfahren](https://www.gls.de/sparen-investieren/sparen/ "Rentenangebote sozial-ökologisch")
+    [Mehr erfahren](https://www.gls.de/frauentag/altersvorsorge-fuer-frauen/ "Rentenangebote sozial-ökologisch")
     
     Barrierearmut
     
