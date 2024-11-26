@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Freedom
+
+### Building peace by disrupting lies](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1126/Building-peace-by-disrupting-lies "Building peace by disrupting lies")
+
 [Balance
 
 ### A guardrail holds](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1125/A-guardrail-holds "A guardrail holds")
@@ -99,10 +103,6 @@ Recent Stories
 [Balance
 
 ### Want a less commercial holiday? Gen Z tries ‘underconsumption core.’](https://www.csmonitor.com/The-Culture/2024/1125/underconsumption-core-holiday-gen-z "Want a less commercial holiday? Gen Z tries ‘underconsumption core.’")
-
-[Respect
-
-### Of dogs and din](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1122/Of-dogs-and-din "Of dogs and din")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Storytelling bears. Wary parents. AI toys step cautiously toward Christmas.](https://www.csmonitor.com/USA/Society/2024/1126/christmas-ai-toys-black-friday "Storytelling bears. Wary parents. AI toys step cautiously toward Christmas.")
+[### Wild animals are disappearing in Latin America. Colombia is fighting back.](https://www.csmonitor.com/World/Americas/2024/1126/colombia-wildlife-trafficking-animals-environment "Wild animals are disappearing in Latin America. Colombia is fighting back.")
 
-[### Israeli settlers see Trump’s win as aiding goal of annexing West Bank](https://www.csmonitor.com/World/Middle-East/2024/1125/israel-trump-settlers-west-bank-annexation "Israeli settlers see Trump’s win as aiding goal of annexing West Bank")
+[### In Canada, too, people remember a feast with settlers and Indigenous people](https://www.csmonitor.com/World/Americas/2024/1126/canada-thanksgiving-acadian-indigenous-harvest-celebration "In Canada, too, people remember a feast with settlers and Indigenous people")
 
-[### Marco Rubio wants to take a hard line on China. Will Trump let him?](https://www.csmonitor.com/World/Asia-Pacific/2024/1125/marco-rubio-china-trump-cabinet "Marco Rubio wants to take a hard line on China. Will Trump let him?")
+[### Why is Walmart the biggest company yet to cut its DEI policies?](https://www.csmonitor.com/USA/2024/1126/Walmart-DEI-initiatives-rollback-affirmative-action "Why is Walmart the biggest company yet to cut its DEI policies?")
 
 * * *
 
