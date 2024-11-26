@@ -247,7 +247,7 @@ Below are some of the main 3rd party services we use:
 * SoundCloud – to display audio content in embedded players from SoundCloud: https://soundcloud.com/pages/privacy
 * Akamai – to display audio and video content in embedded players : https://www.akamai.com/html/policies/privacy\_statement.html/li>
 * Add This – to enable users to share website content on a variety of social and content networks : https://www.addthis.com/privacy
-* Google– to enable users to be shown search or YouTube advertising relevant to the artist site they have visited and web analytics : https://www.google.com/policies/privacy/
+* Google– to enable users to be shown search or YouTube advertising relevant to the artist site they have visited and web analytics : https://www.google.com/policies/privacy/ and https://business.safety.google/privacy/
 * Tumblr– to display content from Tumblr : https://www.tumblr.com/policy/en/privacy
 * DoubleClick– to measure effectiveness of online marketing campaigns : https://www.google.com/policies/technologies/ads/
 * Crashalytics - to collect information about bugs and crashes that may occur in our iOS and Android apps. https://www.google.com/policies/privacy/
@@ -325,7 +325,7 @@ Subscribe
 
 Our customer services are here for you
 
-You can reach us by phone tomorrow from 9:00 AM until 5:30 PM on {2}. [More Info](https://www.emp-online.com/contact)
+Today our customer service is available from 9:00 AM am to 5:30 PM pm. [More Info](https://www.emp-online.com/contact)
 
 Start chat
 
