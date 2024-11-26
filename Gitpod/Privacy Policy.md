@@ -2,19 +2,17 @@
 
 [Gitpod Logo](https://www.gitpod.io/)
 
-* Resources
 * Solutions
-* [Blog](https://www.gitpod.io/blog)
+    
 * [Pricing](https://www.gitpod.io/pricing)
+* [Blog](https://www.gitpod.io/blog)
+* Resources
+    
 * [Docs](https://www.gitpod.io/docs)
-
-[13k](https://github.com/gitpod-io)
 
 * [Login](https://www.gitpod.io/flex-or-classic)
 
 [Get a demo](https://www.gitpod.io/contact/get-demo)
-
-[13k](https://github.com/gitpod-io)
 
 [Login](https://www.gitpod.io/flex-or-classic)
 
