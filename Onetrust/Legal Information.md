@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
-* [DORA Compliance Countdown: Are you ready?](https://www.onetrust.com/resources/dora-compliance-countdown-are-you-ready-webinar/)
-* [The strategic imperative of operationalizing Consent & Preferences in modern marketing](https://www.onetrust.com/resources/the-strategic-imperative-of-operationalizing-consent--preferences-in-modern-marketing-webinar/)
+* [Automating metadata capture: Future-proofing data management for AI](https://www.onetrust.com/resources/automating-metadata-capture-future-proofing-data-management-for-ai-webinar/)
+* [Operationalizing the EU AI Act](https://www.onetrust.com/resources/operationalizing-the-eu-ai-act-webinar/)
+* [Top 10 privacy moments that shaped 2024](https://www.onetrust.com/resources/top-10-privacy-moments-that-shaped-2024-webinar/)
 
 ### Platform
 
