@@ -1,6 +1,6 @@
 top of page
 
-![](https://static.wixstatic.com/media/356d0cee84164a4cb8304d44630a7ea6.png/v1/fill/w_96,h_54,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/356d0cee84164a4cb8304d44630a7ea6.png)
+![](https://static.wixstatic.com/media/356d0cee84164a4cb8304d44630a7ea6.png/v1/fill/w_96,h_54,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/356d0cee84164a4cb8304d44630a7ea6.png)
 
 Privacy Policy
 
