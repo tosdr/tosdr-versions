@@ -1,4 +1,4 @@
- [![](/images/promobar/deal.svg) Black Friday 2024: 25+ Ways to Save on Online Learning
+ [![](/images/promobar/deal.svg) Black Friday 2024: 50 Ways to Save on Online Learning
 
 View](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
 
@@ -414,34 +414,34 @@ Most common
 
 1. python
     
-2. hacking
+2. java
     
-3. harvard
+3. trading
     
 
 Popular subjects
 
-1. [Ethical Hacking
+1. [Computer Science
+    
+    43,746 courses](https://www.classcentral.com/subject/cs)
+2. [Artificial Intelligence
+    
+    14,064 courses](https://www.classcentral.com/subject/ai)
+3. [Ethical Hacking
     
     2,239 courses](https://www.classcentral.com/subject/ethical-hacking)
-2. [Computer Networking
-    
-    1,757 courses](https://www.classcentral.com/subject/computer-networking)
-3. [Digital Marketing
-    
-    6,283 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [The Art of Structural Engineering: Vaults
+1. [Lean Production
     
-    Princeton University](https://www.classcentral.com/course/structural-engineering-princeton-university-the-a-12040)
-2. [Gamification
+    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/manufacturing-technische-universitat-munchen-lean-8447)
+2. [Introduction to Cyber Security
     
-    University of Pennsylvania](https://www.classcentral.com/course/gamification-343)
-3. [Mathematical Economics
+    Uttarakhand Open University, Haldwani](https://www.classcentral.com/course/swayam-introduction-to-cyber-security-14116)
+3. [Bacterial Genomes II: Accessing and Analysing Microbial Genome Data Using Artemis
     
-    Doon University, Dehradun](https://www.classcentral.com/course/swayam-mathematical-economics-14187)
+    Wellcome Genome Campus](https://www.classcentral.com/course/bacterial-genomes-access-and-analysis-11907)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
