@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [IPL Auction](https://www.news18.com/cricket/ipl-auction-2025-live-squads-updates-10-teams-complete-list-day-1-day-2-csk-mi-kkr-rcb-srh-rr-dc-lsg-pbks-gt-9133518.html)
-    * [Urvashi Rautela](https://www.news18.com/movies/urvashi-rautela-shares-cryptic-post-after-rishabh-pant-gets-highest-bid-at-ipl-auction-2025-jo-lafz-9133161.html)
+    * [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-breaks-silence-on-divorce-from-naga-chaitanya-absolute-lies-were-9133952.html)
+    * [Eknath Shinde](https://www.news18.com/politics/maharashtra-government-formation-eknath-shinde-hints-at-resignation-maharashtra-chief-minister-devendra-fadnavis-mahayuti-bjp-shiv-sena-ncp-9134106.html)
+    * [PAN 2.0](https://www.news18.com/india/pan-2-0-announced-will-your-old-pan-still-work-how-to-get-qr-enabled-card-faqs-answered-9133976.html)
     * [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-beat-australia-by-295-runs-in-perth-test-9133029.html)
-    * [Rosé](https://www.news18.com/movies/rose-makes-rare-comment-on-thoughts-of-blackpink-disbanding-says-members-sat-down-to-decide-9132052.html)
-    * [Vivek Oberoi](https://www.news18.com/lifestyle/inside-vivek-oberois-rs-1200-crore-net-worth-swanky-rolls-royce-dubai-house-and-other-opulent-assets-9133207.html)
-    * [PAN 2.0](https://www.news18.com/india/pan-card-with-qr-code-soon-as-cabinet-approves-pan-2-0-project-9133941.html)
-    * [Ind vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
+    * [Riddhima Kapoor Sahni](https://www.news18.com/movies/riddhima-kapoor-sahni-reacts-to-criticism-of-ranbir-kapoors-animal-if-my-grandfather-was-here-9132859.html)
+    * [Alice Kaushik](https://www.news18.com/movies/bigg-boss-18-alice-kaushik-reacts-to-kanwar-dhillon-denying-claims-of-marriage-proposal-we-are-not-going-to-9133906.html)
+    * [Rahul Gandhi](https://www.news18.com/politics/india-blames-rahul-gandhis-3-mistakes-for-maharashtra-loss-heres-what-they-are-9133899.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [IPL Auction](https://www.news18.com/cricket/ipl-auction-2025-live-squads-updates-10-teams-complete-list-day-1-day-2-csk-mi-kkr-rcb-srh-rr-dc-lsg-pbks-gt-9133518.html)
-* [Urvashi Rautela](https://www.news18.com/movies/urvashi-rautela-shares-cryptic-post-after-rishabh-pant-gets-highest-bid-at-ipl-auction-2025-jo-lafz-9133161.html)
+* [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-breaks-silence-on-divorce-from-naga-chaitanya-absolute-lies-were-9133952.html)
+* [Eknath Shinde](https://www.news18.com/politics/maharashtra-government-formation-eknath-shinde-hints-at-resignation-maharashtra-chief-minister-devendra-fadnavis-mahayuti-bjp-shiv-sena-ncp-9134106.html)
+* [PAN 2.0](https://www.news18.com/india/pan-2-0-announced-will-your-old-pan-still-work-how-to-get-qr-enabled-card-faqs-answered-9133976.html)
 * [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-beat-australia-by-295-runs-in-perth-test-9133029.html)
-* [Rosé](https://www.news18.com/movies/rose-makes-rare-comment-on-thoughts-of-blackpink-disbanding-says-members-sat-down-to-decide-9132052.html)
-* [Vivek Oberoi](https://www.news18.com/lifestyle/inside-vivek-oberois-rs-1200-crore-net-worth-swanky-rolls-royce-dubai-house-and-other-opulent-assets-9133207.html)
-* [PAN 2.0](https://www.news18.com/india/pan-card-with-qr-code-soon-as-cabinet-approves-pan-2-0-project-9133941.html)
-* [Ind vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
+* [Riddhima Kapoor Sahni](https://www.news18.com/movies/riddhima-kapoor-sahni-reacts-to-criticism-of-ranbir-kapoors-animal-if-my-grandfather-was-here-9132859.html)
+* [Alice Kaushik](https://www.news18.com/movies/bigg-boss-18-alice-kaushik-reacts-to-kanwar-dhillon-denying-claims-of-marriage-proposal-we-are-not-going-to-9133906.html)
+* [Rahul Gandhi](https://www.news18.com/politics/india-blames-rahul-gandhis-3-mistakes-for-maharashtra-loss-heres-what-they-are-9133899.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
