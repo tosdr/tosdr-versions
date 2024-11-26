@@ -297,7 +297,6 @@ Advertise
 
 ### [The jewel house that’s stuck in the 70s – for good reason](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewel-house-that-s-stuck-in-the-70s-for-good-reason-20241104-p5knlo)
 
-* 55 mins ago
 * Eugenie Kelly
 
 * ### [The jeweller who spends her downtime searching for sharks](https://www.afr.com/life-and-luxury/fashion-and-style/the-jeweller-who-spends-her-downtime-searching-for-sharks-20241023-p5kkjw)
@@ -326,7 +325,6 @@ Advertise
 
 ### [Security cameras with a two-year battery life? Sold!](https://www.afr.com/technology/security-cameras-with-a-two-year-battery-life-sold-20241121-p5ksi7)
 
-* 55 mins ago
 * John Davidson
 
 * ### [Will this blueberry wine tempt you for Christmas?](https://www.afr.com/life-and-luxury/food-and-wine/will-this-blueberry-wine-tempt-you-for-christmas-20241120-p5ks8k)
