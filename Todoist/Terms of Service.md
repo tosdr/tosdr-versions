@@ -110,7 +110,7 @@ c. your User Content could not be deemed by a reasonable person to be objectiona
 
 11.1. **Push Notifications.** When you install our app on your mobile device, you may choose to receive push notifications, which are messages an app sends you on your mobile device when the app is not on. In addition to the foregoing push notifications, you may receive notifications on your other computer hardware device (e.g., laptop, desktop, or tablet). You can turn notifications on or off by visiting your the device's "settings" page.
 
-11.2. **Email.** We may send you emails concerning our products and services, as well as those of third parties. You may opt out of promotional emails by following the unsubscribe instructions in the promotional email itself or by visiting [todoist.com/unsubscribe](file:///C:%5CUsers%5Ck018895%5CAppData%5CLocal%5CMicrosoft%5CWindows%5CINetCache%5CContent.Outlook%5CWKK3WBMQ%5Ctodoist.com%5Cunsubscribe) or [twist.com/unsubscribe](file:///C:%5CUsers%5Ck018895%5CAppData%5CLocal%5CMicrosoft%5CWindows%5CINetCache%5CContent.Outlook%5CWKK3WBMQ%5Ctwist.com%5Cunsubscribe) and logging into your account.
+11.2. **Email.** We may send you emails concerning our products and services, as well as those of third parties. You may opt out of promotional emails by following the unsubscribe instructions in the promotional email itself or by visiting [todoist.com/unsubscribe](#) or [twist.com/unsubscribe](#) and logging into your account.
 
 12\. Prohibited Conduct.
 ------------------------
