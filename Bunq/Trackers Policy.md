@@ -1,4 +1,4 @@
-![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)
+[![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
@@ -16,7 +16,7 @@
 
 [### Press](https://press.bunq.com/)
 
-![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)
+[![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
@@ -34,7 +34,7 @@
 
 [### Press](https://press.bunq.com/)
 
-![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)
+[![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
 [### Log in](https://web.bunq.com/)
 
@@ -157,6 +157,86 @@ Read the terms for using bunq.com that provide you with a safe, smooth experienc
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/website)
 
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### bunq.me T&C
+
+Read the terms for using bunq.me links, making sending and receiving payments simple and stress-free.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/bunq-me)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Developer Website T&C
+
+Read the terms of use for bunq’s Developer Website to build securely and innovate freely.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### iDIN T&C
+
+Read bunq’s iDIN terms of use for seamless and secure online identity verification.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/idin)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mastercard Chargeback T&C
+
+Read the terms for Mastercard Chargebacks with bunq, giving you extra protection on payments.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mobile Wallet T&C
+
+Read the terms of use for bunq’s Mobile Wallet, for fast, secure, and easy digital payments.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Purchase Protection & Extended Warranty T&C
+
+Read the details of purchase protection and extended warranties with bunq, adding extra peace of mind.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/purchase-protection-extended-warranty)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Switch Service T&C
+
+Learn how bunq’s Switch Service makes switching banks seamless and straightforward.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/switch-service)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Travel Insurance T&C
+
+Read bunq’s Travel Insurance terms for added security on your travels.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/travel-insurance)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Wheel of Fortune T&C
+
+Explore the terms of use for bunq’s Wheel of Fortune, where banking meets fun rewards.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/wheel-of-fortune)
+
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+### Operational Resilience Policy
+
+See bunq’s Operational Resilience Policy for our commitment to stability and service reliability.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
+
 Load more
 
 ![icon entry point for Site Search](https://framerusercontent.com/images/7P9NYdUF6WL8xPNH8CdC2hhlLjc.svg)
@@ -250,6 +330,86 @@ Learn about the terms for the bunq App Directory, your gateway to useful tools a
 Read the terms for using bunq.com that provide you with a safe, smooth experience every time.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/website)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### bunq.me T&C
+
+Read the terms for using bunq.me links, making sending and receiving payments simple and stress-free.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/bunq-me)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Developer Website T&C
+
+Read the terms of use for bunq’s Developer Website to build securely and innovate freely.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### iDIN T&C
+
+Read bunq’s iDIN terms of use for seamless and secure online identity verification.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/idin)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mastercard Chargeback T&C
+
+Read the terms for Mastercard Chargebacks with bunq, giving you extra protection on payments.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Mobile Wallet T&C
+
+Read the terms of use for bunq’s Mobile Wallet, for fast, secure, and easy digital payments.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Purchase Protection & Extended Warranty T&C
+
+Read the details of purchase protection and extended warranties with bunq, adding extra peace of mind.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/purchase-protection-extended-warranty)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Switch Service T&C
+
+Learn how bunq’s Switch Service makes switching banks seamless and straightforward.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/switch-service)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Travel Insurance T&C
+
+Read bunq’s Travel Insurance terms for added security on your travels.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/travel-insurance)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+### Wheel of Fortune T&C
+
+Explore the terms of use for bunq’s Wheel of Fortune, where banking meets fun rewards.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/wheel-of-fortune)
+
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+### Operational Resilience Policy
+
+See bunq’s Operational Resilience Policy for our commitment to stability and service reliability.
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
 
 Load more
 
@@ -345,6 +505,86 @@ Learn about the terms for the bunq App Directory, your gateway to useful tools a
 
 Read the terms for using bunq.com that provide you with a safe, smooth experience every time.](https://www.bunq.com/assets/media/legal/en/documents/website)
 
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### bunq.me T&C
+
+Read the terms for using bunq.me links, making sending and receiving payments simple and stress-free.](https://www.bunq.com/assets/media/legal/en/documents/bunq-me)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Developer Website T&C
+
+Read the terms of use for bunq’s Developer Website to build securely and innovate freely.](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### iDIN T&C
+
+Read bunq’s iDIN terms of use for seamless and secure online identity verification.](https://www.bunq.com/assets/media/legal/en/documents/idin)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Mastercard Chargeback T&C
+
+Read the terms for Mastercard Chargebacks with bunq, giving you extra protection on payments.](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Mobile Wallet T&C
+
+Read the terms of use for bunq’s Mobile Wallet, for fast, secure, and easy digital payments.](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Purchase Protection & Extended Warranty T&C
+
+Read the details of purchase protection and extended warranties with bunq, adding extra peace of mind.](https://www.bunq.com/assets/media/legal/en/documents/purchase-protection-extended-warranty)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Switch Service T&C
+
+Learn how bunq’s Switch Service makes switching banks seamless and straightforward.](https://www.bunq.com/assets/media/legal/en/documents/switch-service)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Travel Insurance T&C
+
+Read bunq’s Travel Insurance terms for added security on your travels.](https://www.bunq.com/assets/media/legal/en/documents/travel-insurance)
+
+[![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Wheel of Fortune T&C
+
+Explore the terms of use for bunq’s Wheel of Fortune, where banking meets fun rewards.](https://www.bunq.com/assets/media/legal/en/documents/wheel-of-fortune)
+
+[![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
+
+![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
+
+### Operational Resilience Policy
+
+See bunq’s Operational Resilience Policy for our commitment to stability and service reliability.](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
+
 Load more
 
 We’re here to help
@@ -377,6 +617,24 @@ Open your account in just 5 minutes, directly from your phone.
 
 ![](https://framerusercontent.com/images/y6dCrezjZfLrMAl319NLwa4SYA.png?scale-down-to=2048)
 
+Start your 30-day free trial
+----------------------------
+
+Open your account in just 5 minutes, directly from your phone.
+
+[Get started](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
+
+![](https://framerusercontent.com/images/y6dCrezjZfLrMAl319NLwa4SYA.png?scale-down-to=2048)
+
+Start your 30-day free trial
+----------------------------
+
+Open your account in just 5 minutes, directly from your phone.
+
+[Get started](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
+
+![](https://framerusercontent.com/images/y6dCrezjZfLrMAl319NLwa4SYA.png?scale-down-to=2048)
+
 ![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)
 
 [![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://x.com/bunq)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://linkedin.com/company/bunq)[![](https://framerusercontent.com/images/MSDKKaHUUy1SaoYRvx9SNuQ.svg)](https://www.instagram.com/bunq)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/bunq/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCNZo2GsB_ToorMDDSHoo70g)
@@ -393,17 +651,17 @@ English (EU)
 
 Discover
 
-[Travel](https://www.bunq.com/assets/media/legal/en/travel)
+[Travel](https://www.bunq.com/assets/media/legal/en/benefits/travel)
 
-[Budgeting](https://www.bunq.com/assets/media/legal/en/budgeting)
+[Budgeting](https://www.bunq.com/assets/media/legal/en/benefits/budgeting)
 
-[Sustainable Banking](https://www.bunq.com/assets/media/legal/en/sustainable-banking)
+[Sustainable Banking](https://www.bunq.com/assets/media/legal/en/benefits/sustainable-banking)
 
 [Business](https://www.bunq.com/assets/media/legal/en/business)
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
+[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
 
 [Mortgages](https://mortgages.bunq.com/)
 
@@ -471,17 +729,17 @@ English (EU)
 
 Discover
 
-[Travel](https://www.bunq.com/assets/media/legal/en/travel)
+[Travel](https://www.bunq.com/assets/media/legal/en/benefits/travel)
 
-[Budgeting](https://www.bunq.com/assets/media/legal/en/budgeting)
+[Budgeting](https://www.bunq.com/assets/media/legal/en/benefits/budgeting)
 
-[Sustainable Banking](https://www.bunq.com/assets/media/legal/en/sustainable-banking)
+[Sustainable Banking](https://www.bunq.com/assets/media/legal/en/benefits/sustainable-banking)
 
 [Business](https://www.bunq.com/assets/media/legal/en/business)
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
+[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
 
 [Mortgages](https://mortgages.bunq.com/)
 
@@ -549,17 +807,17 @@ English (EU)
 
 Discover
 
-[Travel](https://www.bunq.com/assets/media/legal/en/travel)
+[Travel](https://www.bunq.com/assets/media/legal/en/benefits/travel)
 
-[Budgeting](https://www.bunq.com/assets/media/legal/en/budgeting)
+[Budgeting](https://www.bunq.com/assets/media/legal/en/benefits/budgeting)
 
-[Sustainable Banking](https://www.bunq.com/assets/media/legal/en/sustainable-banking)
+[Sustainable Banking](https://www.bunq.com/assets/media/legal/en/benefits/sustainable-banking)
 
 [Business](https://www.bunq.com/assets/media/legal/en/business)
 
 [Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[Pricing](https://www.bunq.com/assets/media/legal/en/documents/pricing)
+[Pricing](https://www.bunq.com/assets/media/legal/en/pricing)
 
 [Mortgages](https://mortgages.bunq.com/)
 
