@@ -91,9 +91,9 @@ Most Read
     
 3. 3. [Russian ballistic missile attack on Ukraine portends new era of warfare](https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/)
     
-4. 4. [What delusions can tell us about the cognitive nature of belief](https://arstechnica.com/science/2024/11/what-delusions-can-tell-us-about-the-cognitive-nature-of-belief/)
+4. 4. [Nvidia’s new AI audio model can synthesize sounds that have never existed](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/)
     
-5. 5. [The good, the bad, and the ugly behind the push for more smart displays](https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/)
+5. 5. [OpenAI blamed NYT for tech problem erasing evidence of copyright abuse](https://arstechnica.com/tech-policy/2024/11/tech-problems-plague-openai-court-battles-judge-rejects-a-key-fair-use-defense/)
     
 
 Customize
