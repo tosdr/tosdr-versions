@@ -14,12 +14,12 @@
     
 * School Success
     
-* [Try for Free](https://www.discoveryeducation.co.uk/consultation-booking)
+* [Contact Us](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU1MTQwIiwidG9nZ2xlIjpmYWxzZX0%3D)
 * [Log in](https://app.discoveryeducation.co.uk/)
 
 [Login](https://app.discoveryeducation.co.uk/)
 
-[Try for Free](https://www.discoveryeducation.co.uk/consultation-booking)
+[Contact Us](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU1MTQwIiwidG9nZ2xlIjpmYWxzZX0%3D)
 
 * [](https://www.discoveryeducation.co.uk/resources/stem-solutions)
     
@@ -258,7 +258,7 @@ Are you new to Discovery Education?
 
 I’m new to Discovery Education
 
-[Book a chat](https://www.discoveryeducation.co.uk/consultation-booking/)
+[Try for Free](https://www.discoveryeducation.co.uk/consultation-booking/)
 
 My School uses Discovery Education
 
