@@ -6,7 +6,7 @@
 
 * [About](https://tagmyfav.com/about/)
 * [M365 Apps](https://tagmyfav.com/microsoft-365-apps/)
-* [Use Cases](#)
+* [Use Cases](https://tagmyfav.com/use-cases/)
     * [TMF for Legal](https://tagmyfav.com/tagmyfav-for-legal/)
     * [TMF for Education](#)
 * [Pricing](https://tagmyfav.com/pricing/)
@@ -17,7 +17,7 @@ Menu
 
 * [About](https://tagmyfav.com/about/)
 * [M365 Apps](https://tagmyfav.com/microsoft-365-apps/)
-* [Use Cases](#)
+* [Use Cases](https://tagmyfav.com/use-cases/)
     * [TMF for Legal](https://tagmyfav.com/tagmyfav-for-legal/)
     * [TMF for Education](#)
 * [Pricing](https://tagmyfav.com/pricing/)
