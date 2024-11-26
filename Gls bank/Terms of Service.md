@@ -1,4 +1,4 @@
-[![Zur Startseite der GLS Gemeinschaftsbank eG](/media/Bilder/Logos/GLSB_Logo_Farbe_sRGB.svg)](https://www.gls.de/ "Zur Startseite der GLS Bank")
+[![](/media/Bilder/Logos/GLSB_Logo_Farbe_sRGB.svg)](https://www.gls.de/ "Zur Startseite der GLS Bank")
 
 * [Privatkund\*in](https://www.gls.de/privatkunden/)
 * [Unternehmen](https://www.gls.de/unternehmen/)
@@ -31,9 +31,9 @@
     
 * Menü
 
-[Konto eröffnen](https://www.gls.de/konten-karten/konten/girokonto/)
+[Zum OnlineBanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum OnlineBanking")
 
-[![Zur Startseite der GLS Gemeinschaftsbank eG](/media/Bilder/Logos/GLSB_Logo_Farbe_sRGB.svg)](https://www.gls.de/ "Zur Startseite der GLS Bank")
+[![](/media/Bilder/Logos/GLSB_Logo_Farbe_sRGB.svg)](https://www.gls.de/ "Zur Startseite der GLS Bank")
 
 * [Konten & Karten](https://www.gls.de/konten-karten/)
     
@@ -339,9 +339,9 @@
 
 Barrierearmut
 
-[Konto eröffnen](https://www.gls.de/konten-karten/konten/girokonto/)
+[Zum OnlineBanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum OnlineBanking")
 
-[Konto eröffnen](https://www.gls.de/konten-karten/konten/girokonto/)
+[Zum OnlineBanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum OnlineBanking")
 
 Allgemeine Geschäftsbedingungen
 ===============================
