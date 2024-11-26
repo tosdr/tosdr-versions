@@ -26,7 +26,7 @@ Business
     
     Global crypto payouts simplified for businesses](https://paybis.com/business/paybis-send/)
 
-[Go to Paybis for Businesses](https://paybis.com/business/on-off-ramp)
+[Go to Paybis for Businesses](https://paybis.com/business/on-off-ramp/)
 
 English
 
@@ -90,7 +90,7 @@ Business
     
     Global crypto payouts simplified for businesses](https://paybis.com/business/paybis-send/)
 
-[Go to Paybis for Businesses](https://paybis.com/business/on-off-ramp)
+[Go to Paybis for Businesses](https://paybis.com/business/on-off-ramp/)
 
 [About us](https://paybis.com/about-us/)
 
