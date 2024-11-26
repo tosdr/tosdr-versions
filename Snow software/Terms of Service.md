@@ -231,6 +231,7 @@ If you are a valued customer, or want to become one, we’ve assembled these doc
 ### Privacy
 
 * [Privacy Notice](https://www.snowsoftware.com/legal/privacy-policy)
+* [Privacy Policy For SaaS Browser Extension](https://www.snowsoftware.com/legal/saas-browser-extension-privacy-policy)
 * [California Consumer Privacy Act (CCPA)](https://www.snowsoftware.com/legal/california-consumer-privacy-act)
 * [Data Processing Agreement](https://www.snowsoftware.com/legal/data-processing-agreement)
 * [Statement on Brexit](https://resources.flexera.com/web/noindex/legal/brexit-privacy-statement.pdf)
