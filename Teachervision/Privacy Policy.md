@@ -1,6 +1,7 @@
 [Skip to main content](#main-content)
 
- [![TeacherVision logo](/themes/custom/tv_radix/logo.svg)](https://www.teachervision.com/)[![TeacherVision logo](/themes/custom/tv_radix/build/assets/images/logo-stacked.svg)](https://www.teachervision.com/)
+TeacherVision | Teacher Resources, Lesson Plans & Worksheets (Grades K-12) [![TeacherVision logo](/themes/custom/tv_radix/logo.svg)](https://www.teachervision.com/)[![TeacherVision logo](/themes/custom/tv_radix/build/assets/images/logo-stacked.svg)](https://www.teachervision.com/)
+=========================================================================================================================================================================================================================================================================================
 
 Site search input 
 
