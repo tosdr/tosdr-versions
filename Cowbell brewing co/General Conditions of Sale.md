@@ -17,7 +17,7 @@
         [DINE](https://cowbellbrewing.com/pages/dine-with-us)
         
     * [RESERVATIONS](https://www.tbdine.com/blyth/restaurants/cowbell-brewing-co)
-    * [MAIN MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/CowbellKitchen-Fall-Menu-October2024-8.5x14-v3_1.pdf?v=1730136561)
+    * [MAIN MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/CowbellKitchen-MainMenu-November2024.pdf?v=1732635802)
     * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-Beverage-Fall-Menu-October2024-8.5x14-v3_1.pdf?v=1730136811)
     * [DAILY SPECIALS](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-Socials-Daily_Specials-1080x1920.png?v=1731962625)
     * [KIDS MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-KidsMenuSheet-single-230801-v2.pdf?v=1690832731)
@@ -62,7 +62,7 @@ Menu [🛒 CART](https://cowbellbrewing.com/cart) $0.00 Check out
     * [RESERVATIONS](https://www.tbdine.com/blyth/restaurants/cowbell-brewing-co)
 * [DINE](https://cowbellbrewing.com/pages/dine-with-us)
     * [RESERVATIONS](https://www.tbdine.com/blyth/restaurants/cowbell-brewing-co)
-    * [MAIN MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/CowbellKitchen-Fall-Menu-October2024-8.5x14-v3_1.pdf?v=1730136561)
+    * [MAIN MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/CowbellKitchen-MainMenu-November2024.pdf?v=1732635802)
     * [BAR MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-Beverage-Fall-Menu-October2024-8.5x14-v3_1.pdf?v=1730136811)
     * [DAILY SPECIALS](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-Socials-Daily_Specials-1080x1920.png?v=1731962625)
     * [KIDS MENU](https://cdn.shopify.com/s/files/1/1837/5513/files/Cowbell-KidsMenuSheet-single-230801-v2.pdf?v=1690832731)
