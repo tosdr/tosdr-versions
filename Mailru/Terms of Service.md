@@ -17,7 +17,6 @@ _s_
         * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy)
         * [Правила применения рекомендательных технологий ресурса Mail](https://help.mail.ru/legal/terms/common/mainrecommendation)
         * [Правила применения рекомендательных технологий медиапроектов Mail](https://help.mail.ru/legal/terms/common/mediarecommendation)
-        * [Соглашение о порядке предоставления дополнительного функционала сервисов Почта Mail и Облако Mail](https://help.mail.ru/legal/terms/common/additional)
     * [Почта](https://help.mail.ru/legal/terms/mail)
         * [Пользовательское соглашение сервисов Mail](https://help.mail.ru/legal/terms/common/ua)
         * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy)
@@ -25,6 +24,7 @@ _s_
         * [Политика конфиденциальности сервиса Почта Mail](https://help.mail.ru/legal/terms/mail/privacy)
         * [Условия использования функции «Детский режим»](https://help.mail.ru/legal/terms/mail/rules)
         * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/mail/recommendation)
+        * [Соглашение о порядке предоставления дополнительного функционала сервисов Почта Mail и Облако Mail](https://help.mail.ru/legal/terms/cloud/additional)
     * [Новости](https://help.mail.ru/legal/terms/news)
         * [Условия использования материалов, размещенных на сайте Новости Mail](https://help.mail.ru/legal/terms/news/policy)
         * [Политика конфиденциальности приложения Новости Mail](https://help.mail.ru/legal/terms/news/privacy_app)
@@ -70,6 +70,7 @@ _s_
         * [Лицензионное соглашение сервиса Облако Mail](https://help.mail.ru/legal/terms/cloud/LA)
         * [Политика конфиденциальности сервиса Облако Mail](https://help.mail.ru/legal/terms/cloud/privacy)
         * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/cloud/recommendation)
+        * [Соглашение о порядке предоставления дополнительного функционала сервисов Почта Mail и Облако Mail](https://help.mail.ru/legal/terms/cloud/additional)
         * [Диск-О:](https://help.mail.ru/legal/terms/cloud/disko)
             * [Лицензионное соглашение для приложения «Диск-О:»](https://help.mail.ru/legal/terms/cloud/disko/LA)
             * [Политика конфиденциальности приложения «Диск-О:»](https://help.mail.ru/legal/terms/cloud/disko/privacy)
@@ -359,7 +360,7 @@ _s_
 
 |     |     |
 | --- | --- |
-| [Mail](https://r.mail.ru/n154506914?sz=36&rnd=442086341)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=442086341)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=442086341)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=442086341) |     |
+| [Mail](https://r.mail.ru/n154506914?sz=36&rnd=2171481868)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=2171481868)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=2171481868)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=2171481868) |     |
 
             
 
