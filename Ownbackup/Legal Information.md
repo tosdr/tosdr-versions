@@ -128,6 +128,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Agentforce
+
+How Salesforce Admins Can Use Historical Data to Drive Agentforce Success](https://www.ownbackup.com/blog/how-salesforce-admins-can-use-historical-data-to-drive-agentforce-success)
+
 [Own Secure
 
 Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
@@ -135,10 +139,6 @@ Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.o
 [DORA
 
 The Countdown to DORA is On. How Are You Doing?](https://www.ownbackup.com/blog/the-countdown-to-dora-is-on-how-are-you-doing)
-
-[Company News
-
-It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
 
 Company
 
@@ -352,6 +352,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Agentforce
+
+How Salesforce Admins Can Use Historical Data to Drive Agentforce Success](https://www.ownbackup.com/blog/how-salesforce-admins-can-use-historical-data-to-drive-agentforce-success)
+
 [Own Secure
 
 Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
@@ -359,10 +363,6 @@ Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.o
 [DORA
 
 The Countdown to DORA is On. How Are You Doing?](https://www.ownbackup.com/blog/the-countdown-to-dora-is-on-how-are-you-doing)
-
-[Company News
-
-It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
 
 Company
 
