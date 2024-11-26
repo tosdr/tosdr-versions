@@ -199,7 +199,7 @@ In the unlikely event of the programme being cancelled, the Career Development I
 
 * **Refunds**
 
-In order to request a refund, you must email our Finance Manager at [accounts@thecdi.net](mailto:accounts@thecdi.net). A refund can only be granted within 28 days after the purchase.
+In order to request a refund, you must email our Finance Manager at [\[email protected\]](https://www.thecdi.net/cdn-cgi/l/email-protection). A refund can only be granted within 28 days after the purchase.
 
 If a payment was made digitally (by card, BACS, or Paypal), once a refund is approved it can take up to 10 days for a refund to appear on your bank statement. If the payment was made by cheque, the refund will need to be reviewed by our Finance Manager and correlated with the cheque book - this is a once a week process, and once a refund cheque has been cut and despatched, it can take up to 30 days for the refund to arrive depending on your location and the postal service. International payments can take up to two weeks to process, depending on your international bank account. 
 
