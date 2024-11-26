@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/85dd131c-f673-4011-9352-16be649b10f1/20241126T064345/85dd131c-f673-4011-9352-16be649b10f1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/85dd131c-f673-4011-9352-16be649b10f1/20241126T064345/85dd131c-f673-4011-9352-16be649b10f1_360x203.jpg)](https://www.king5.com/article/news/crime/washington-state-increases-patrols-target-impaired-drivers-holiday-season/281-129a364e-a3d7-4214-8cb7-33b09b8d7c97)
+    *  [![](https://media.king5.com/assets/KING/images/7b3f93a6-6e6b-4f98-8134-588f36953a25/20241024T003157/7b3f93a6-6e6b-4f98-8134-588f36953a25_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7b3f93a6-6e6b-4f98-8134-588f36953a25/20241024T003157/7b3f93a6-6e6b-4f98-8134-588f36953a25_360x203.jpg)](https://www.king5.com/article/news/crime/man-charged-kidnapping-pregnant-auburn-woman-gunpoint-mexico/281-0624306e-66ed-42ac-b2f2-dcee4b8e777e)
         
-        #### [Washington state increases patrols to target impaired drivers during holiday season](https://www.king5.com/article/news/crime/washington-state-increases-patrols-target-impaired-drivers-holiday-season/281-129a364e-a3d7-4214-8cb7-33b09b8d7c97)
+        #### [Federal Way man accused of kidnapping Auburn woman at gunpoint, taking her to Mexico](https://www.king5.com/article/news/crime/man-charged-kidnapping-pregnant-auburn-woman-gunpoint-mexico/281-0624306e-66ed-42ac-b2f2-dcee4b8e777e)
         
-    *  [![](https://media.king5.com/assets/KING/images/f19078ba-bb47-4c9f-a058-8afbd8eab782/20241126T020801/f19078ba-bb47-4c9f-a058-8afbd8eab782_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f19078ba-bb47-4c9f-a058-8afbd8eab782/20241126T020801/f19078ba-bb47-4c9f-a058-8afbd8eab782_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/tanker-carrying-argon-gas-rolls-over-sr-16-tacoma-driver-arrested-dui/281-2bb9f04b-b5a0-44df-aeeb-83cf5717da2d)
+    *  [![](https://media.king5.com/assets/KING/images/dd71d64f-97b0-4ed1-960c-5f1167b50eca/20241126T132044/dd71d64f-97b0-4ed1-960c-5f1167b50eca_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dd71d64f-97b0-4ed1-960c-5f1167b50eca/20241126T132044/dd71d64f-97b0-4ed1-960c-5f1167b50eca_360x203.jpg)](https://www.king5.com/article/news/politics/washington-2024-presidential-election-votes/281-d68d32d6-781a-4b7d-8ca5-2491c7790d9b)
         
-        #### [Tanker carrying argon gas rolls over on SR 16 in Tacoma, driver arrested for DUI](https://www.king5.com/article/traffic/traffic-news/tanker-carrying-argon-gas-rolls-over-sr-16-tacoma-driver-arrested-dui/281-2bb9f04b-b5a0-44df-aeeb-83cf5717da2d)
+        #### [Washington did swing right in the 2024 presidential election after all](https://www.king5.com/article/news/politics/washington-2024-presidential-election-votes/281-d68d32d6-781a-4b7d-8ca5-2491c7790d9b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-44°
+47°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
