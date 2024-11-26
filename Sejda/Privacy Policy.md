@@ -241,6 +241,8 @@ Reload page
   
 File:
 
+ Don't show anymore
+
 [Learn more](https://www.sejda.com/help#scans)
 
 We're sorry, something went wrong. Please contact support at hi@sejda.com
