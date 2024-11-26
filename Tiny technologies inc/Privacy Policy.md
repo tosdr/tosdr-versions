@@ -91,7 +91,7 @@ Read:
 
 * [Buy vs Build: The Great Debate White Paper](https://www.tiny.cloud/buy-vs-build-whitepaper/)
 * [Opportunity Cost of Technical Debt](https://www.tiny.cloud/technical-debt-whitepaper/)
-* [The State of Rich Text Editors 2023 Report](https://www.tiny.cloud/developer-survey-results/)
+* [The State of Rich Text Editors 2024 Report](https://www.tiny.cloud/developer-survey-results/)
 
   
 [Case Studies
@@ -198,7 +198,7 @@ Read:
 
 * [Buy vs Build: The Great Debate White Paper](https://www.tiny.cloud/buy-vs-build-whitepaper/)
 * [Opportunity Cost of Technical Debt](https://www.tiny.cloud/technical-debt-whitepaper/)
-* [The State of Rich Text Editors 2023 Report](https://www.tiny.cloud/developer-survey-results/)
+* [The State of Rich Text Editors 2024 Report](https://www.tiny.cloud/developer-survey-results/)
 
 [Case Studies
 
