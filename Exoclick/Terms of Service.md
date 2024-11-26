@@ -398,6 +398,7 @@ Either party may change its address by providing the other party with written no
 * [Careers](https://careers.exoclick.com/)
 * [IWF Membership](https://www.exoclick.com/iwf-membership/)
 * [Associations](https://www.exoclick.com/associations/)
+* [ExoClick Ethical Channel](https://www.exoclick.com/exoclick-ethical-channel/)
 
 #### [Help](http://docs.exoclick.com/)
 
