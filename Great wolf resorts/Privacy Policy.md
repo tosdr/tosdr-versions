@@ -616,7 +616,7 @@ Terms and Conditions
     
     This Cookie Policy describes how and why Great Wolf Resorts, Inc., and its affiliates and subsidiaries (collectively, “Great Wolf”, “we”, “us”, or “our”) uses cookies, web beacons, pixels, clear gifs, and other similar tracking technologies (collectively, “Cookies” unless otherwise indicated) on our website or applications, however accessed (collectively, the “Site”).  It also explains what Cookies are and your choices regarding Cookies.   
     
-    Through your continued use of our Site, you indicate that you agree to our use of Cookies as described in this Cookie Policy, as described [here](https://www.greatwolf.com/cookie-policy)
+    Through your continued use of our Site, you indicate that you agree to our use of Cookies as described in this Cookie Policy, as described [here](https://www.greatwolf.com/cookie-policy).
     
 
 We use cookies and similar technologies for a variety of purposes such as improving your experience on this site, analyzing web traffic data, and showing you personalized advertising, including targeted advertising through third parties, as further described in our [Cookie Policy](https://www.greatwolf.com/cookie-policy "Cookie Policy"). By continuing to use our site, you agree to our [Terms & Conditions](https://www.greatwolf.com/terms "Terms & Conditions") (which include arbitration of certain claims) and [Privacy Policy](https://www.greatwolf.com/terms#privacy-policy "Privacy Policy").
