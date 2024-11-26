@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to find the logs in Backup4all](https://www.backup4all.com/how-to-find-the-logs-in-backup4all-kb.html)  
+* [How to schedule a backup job](https://www.backup4all.com/how-to-schedule-a-backup-job-kb.html)  
     
-* [How to schedule a backup job or backup tag to ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-to-run-at-system-shutdown-kb.html)  
+* [How to backup your Facebook account](https://www.backup4all.com/how-to-backup-your-facebook-account-using-backup4all-kb.html)  
     
-* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
+* [How to backup your data to NetApp](https://www.backup4all.com/how-to-backup-your-data-to-netapp-kb.html)  
     
-* [Differential backup](https://www.backup4all.com/differential-backup-kb.html)  
+* [What is a backup?](https://www.backup4all.com/what-is-a-backup-kb.html)  
     
-* [How to schedule a backup job or backup tag wi ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-without-using-backup4ll-kb.html)  
+* [How to back up data files from Cloudian using ...](https://www.backup4all.com/how-to-back-up-data-files-from-cloudian-using-backup4all-kb.html)  
     
 
 Choose language:
