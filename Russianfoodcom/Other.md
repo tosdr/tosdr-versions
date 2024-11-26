@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_8.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Индейка, запечённая с яблоками и апельсинами](https://www.russianfood.com/recipes/recipe.php?rid=162991)
 * [Торт с халвой и ореховым кремом](https://www.russianfood.com/recipes/recipe.php?rid=150322)
 * [Творожный рулет с орехами](https://www.russianfood.com/recipes/recipe.php?rid=150222)
 * [Говядина с шампиньонами в соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=150206)
 * [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623)
-* [Соус из окорока](https://www.russianfood.com/recipes/recipe.php?rid=113505)
 * [Завтрак из хека](https://www.russianfood.com/recipes/recipe.php?rid=573)
 * [Яблоки, фаршированные мясом цыпленка](https://www.russianfood.com/recipes/recipe.php?rid=926)
 * [Луковый пирог(Quiche aux oignons)](https://www.russianfood.com/recipes/recipe.php?rid=1153)
-* [Мелкая камбала (соль) с виноградом(Filet de sole Veronique)](https://www.russianfood.com/recipes/recipe.php?rid=1158)
+* [Филе в духовке(Aloyau braise)](https://www.russianfood.com/recipes/recipe.php?rid=1171)
+* [Картофель «дофин»](https://www.russianfood.com/recipes/recipe.php?rid=1436)
+* [Слоеный кочан](https://www.russianfood.com/recipes/recipe.php?rid=1451)
 
 |     |
 | --- |
@@ -182,6 +182,34 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Калейдоскоп новогодних вкусов. Лучшие рецепты на Новый год (91)](https://www.russianfood.com/reading/?post_id=22925) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/714/sm_713297.jpg)](https://www.russianfood.com/reading/?post_id=22925)
+
+Печёночные рулетики с сыром. Салат с креветками, грибами и фетой. Мясо с черносливом в томатном соусе. Террин с курицей и помидорами. Конфеты из печенья с орехами и шоколадом.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22925)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22925#comments) | 26.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Простые и очень вкусные. Лучшие рецепты ЗАКУСОК (40)](https://www.russianfood.com/reading/?post_id=22924) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/707/sm_706184.jpg)](https://www.russianfood.com/reading/?post_id=22924)
+
+Шампиньоны в соевом соусе. Куриные шарики с сыром. Творожное печенье с сухофруктами. Салат с цветной капустой и кукурузой. Закуска из зелёного лука и бекона.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22924)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22924#comments) | 26.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Конвертики из лаваша с яблоком и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174904) |     |
 
 [![Фото к рецепту: Конвертики из лаваша с яблоком и тыквой](//img1.russianfood.com/dycontent/images_upl/755/sm_754277.jpg "Фото к рецепту: Конвертики из лаваша с яблоком и тыквой")](https://www.russianfood.com/recipes/recipe.php?rid=174904)
@@ -192,7 +220,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174904#comments) | 26.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174904#comments) | 26.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -220,7 +248,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174908#comments) | 26.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174908#comments) | 26.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -362,34 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174546#comments) | 22.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Дрожжевая вертута с жареным репчатым луком, чесноком и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174543) |     |
-
-[![Фото к рецепту: Дрожжевая вертута с жареным репчатым луком, чесноком и зеленью](//img1.russianfood.com/dycontent/images_upl/752/sm_751118.jpg "Фото к рецепту: Дрожжевая вертута с жареным репчатым луком, чесноком и зеленью")](https://www.russianfood.com/recipes/recipe.php?rid=174543)
-
-Из несладкого постного дрожжевого теста формируется рулет с начинкой из предварительно обжаренного лука с ароматной зеленью и чесноком, который сворачивается улиткой. Выпекается вертута в духовке. Получается отличная замена хлебу.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174543)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174543#comments) | 22.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Яблочный пирог на молоке, с корицей](https://www.russianfood.com/recipes/recipe.php?rid=174533) |     |
-
-[![Фото к рецепту: Яблочный пирог на молоке, с корицей](//img1.russianfood.com/dycontent/images_upl/752/sm_751120.jpg "Фото к рецепту: Яблочный пирог на молоке, с корицей")](https://www.russianfood.com/recipes/recipe.php?rid=174533)
-
-Нижняя часть пирога состоит из теста на молоке с добавлением яиц и подсолнечного масла, в которое вмешиваются кусочки яблок, приправленные корицей. Верхний слой - то же тесто, но без яблок и с большим количеством муки. Завершает пирог корочка карамелизированного в духовке сахара.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174533)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174533#comments) | 22.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -461,8 +461,8 @@
 
 |     |     |     |
 | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754387.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754277.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
-| [Рыба, запечённая с овощами в лодочках из пергамента](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [Конвертики с курагой, изюмом и цедрой](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [Конвертики из лаваша с яблоком и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
+| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754387.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754277.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
+| [Конвертики с курагой, изюмом и цедрой](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [Рыба, запечённая с овощами в лодочках из пергамента](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [Конвертики из лаваша с яблоком и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(111)
+(173)
