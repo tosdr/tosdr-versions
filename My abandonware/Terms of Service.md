@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Unreal Tournament: Game of the Year Edition](https://www.myabandonware.com/game/unreal-tournament-game-of-the-year-edition-d47)
 * [Adrenix](https://www.myabandonware.com/game/adrenix-tb9)
 * [Sir Fred: El Remake](https://www.myabandonware.com/game/sir-fred-el-remake-tb8)
 * [Fred 2: Pyramania](https://www.myabandonware.com/game/fred-2-pyramania-tb7)
 * [Fred: The Remake](https://www.myabandonware.com/game/fred-the-remake-tb6)
-* [Buster](https://www.myabandonware.com/game/buster-tb5)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
