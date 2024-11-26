@@ -160,7 +160,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 24, 2024
     
-    [![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
+    [![asheville 15 minute city](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
     [Asheville: A Planned 15-Minute City – Video #149](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
@@ -206,7 +208,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 2, 2019
     
-    [![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
+    [![BioTeq Pfizer Human Chipping](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
     [Leaked BioTeq Slides: Scarily Advanced Human Chipping Well Underway – Video #136](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
@@ -236,7 +240,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 10, 2024
     
-    [![Kuwait Freeze Accounts Biometrics](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kuwait-Freeze-Bank-Accounts-Biometrics-183x96.jpg)](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
+    [![Kuwait Freeze Accounts Biometrics](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Kuwait Freeze Accounts Biometrics](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kuwait-Freeze-Bank-Accounts-Biometrics-183x96.jpg)](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
     
     [Kuwait to Freeze Bank Accounts of Those Without Biometrics – Video #148](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
     
@@ -298,13 +304,17 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 15, 2023
     
-    [![Israel atrocity propaganda](https://thefreedomarticles.com/wp-content/uploads/2024/10/Atrocity-Israel-Oct-7-Lies-183x96.png)](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
+    [![Israel atrocity propaganda](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Israel atrocity propaganda](https://thefreedomarticles.com/wp-content/uploads/2024/10/Atrocity-Israel-Oct-7-Lies-183x96.png)](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
     
     [New Doc “Atrocity Inc.” Exposes Israel’s Oct. 7th Lies – Video #150](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 10, 2024
     
-    [![Trump assassination nonsense](https://thefreedomarticles.com/wp-content/uploads/2024/09/Trump-Assassination-Nonsense-183x96.jpg)](https://thefreedomarticles.com/trump-assassination-nonsense/)
+    [![Trump assassination nonsense](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Trump assassination nonsense](https://thefreedomarticles.com/wp-content/uploads/2024/09/Trump-Assassination-Nonsense-183x96.jpg)](https://thefreedomarticles.com/trump-assassination-nonsense/)
     
     [Trump Assassination Nonsense – Video #144](https://thefreedomarticles.com/trump-assassination-nonsense/)
     
@@ -318,13 +328,17 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) September 11, 2024
     
-    [![Trump crisis actors](https://thefreedomarticles.com/wp-content/uploads/2024/07/trump-crisis-actors-183x96.jpg)](https://thefreedomarticles.com/crisis-actors-galore-at-fake-trump-assassination-attempt/)
+    [![Trump crisis actors](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Trump crisis actors](https://thefreedomarticles.com/wp-content/uploads/2024/07/trump-crisis-actors-183x96.jpg)](https://thefreedomarticles.com/crisis-actors-galore-at-fake-trump-assassination-attempt/)
     
     [Crisis Actors Galore at the Fake Trump Assassination Attempt – Video #131](https://thefreedomarticles.com/crisis-actors-galore-at-fake-trump-assassination-attempt/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 29, 2024
     
-    [![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
+    [![asheville 15 minute city](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
     [Asheville: A Planned 15-Minute City – Video #149](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
@@ -354,7 +368,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 9, 2017
     
-    [![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
+    [![asheville 15 minute city](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
     [Asheville: A Planned 15-Minute City – Video #149](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
@@ -384,7 +400,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 15, 2012
     
-    [![Kuwait Freeze Accounts Biometrics](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kuwait-Freeze-Bank-Accounts-Biometrics-183x96.jpg)](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
+    [![Kuwait Freeze Accounts Biometrics](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Kuwait Freeze Accounts Biometrics](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kuwait-Freeze-Bank-Accounts-Biometrics-183x96.jpg)](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
     
     [Kuwait to Freeze Bank Accounts of Those Without Biometrics – Video #148](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
     
@@ -398,7 +416,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) September 18, 2024
     
-    [![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
+    [![BioTeq Pfizer Human Chipping](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
     [Leaked BioTeq Slides: Scarily Advanced Human Chipping Well Underway – Video #136](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
@@ -436,7 +456,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 6, 2024
     
-    [![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
+    [![asheville 15 minute city](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
     [Asheville: A Planned 15-Minute City – Video #149](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
@@ -490,7 +512,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 27, 2024
     
-    [![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
     [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
@@ -552,7 +576,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 27, 2024
     
-    [![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
     [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
@@ -614,7 +640,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 24, 2024
     
-    [![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
+    [![asheville 15 minute city](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
     [Asheville: A Planned 15-Minute City – Video #149](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
@@ -644,7 +672,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 7, 2024
     
-    [![saRNA Vax Nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/02/saRNA-Vax-Nanotech-183x96.jpg)](https://thefreedomarticles.com/new-sarna-vax-to-accelerate-nanotech-invasion/)
+    [![saRNA Vax Nanotech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![saRNA Vax Nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/02/saRNA-Vax-Nanotech-183x96.jpg)](https://thefreedomarticles.com/new-sarna-vax-to-accelerate-nanotech-invasion/)
     
     [New saRNA Vax to Accelerate the Nanotech Invasion – Video #72](https://thefreedomarticles.com/new-sarna-vax-to-accelerate-nanotech-invasion/)
     
@@ -744,7 +774,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 24, 2024
     
-    [![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
+    [![asheville 15 minute city](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
     [Asheville: A Planned 15-Minute City – Video #149](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
@@ -817,19 +849,25 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 6, 2024
     
-    [![Kuwait Freeze Accounts Biometrics](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kuwait-Freeze-Bank-Accounts-Biometrics-183x96.jpg)](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
+    [![Kuwait Freeze Accounts Biometrics](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Kuwait Freeze Accounts Biometrics](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kuwait-Freeze-Bank-Accounts-Biometrics-183x96.jpg)](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
     
     [Kuwait to Freeze Bank Accounts of Those Without Biometrics – Video #148](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 8, 2024
     
-    [![musk starlink yemen](https://thefreedomarticles.com/wp-content/uploads/2024/10/musk-starlink-yemen-183x96.jpg)](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
+    [![musk starlink yemen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![musk starlink yemen](https://thefreedomarticles.com/wp-content/uploads/2024/10/musk-starlink-yemen-183x96.jpg)](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
     
     [Musk’s Starlink in Yemen: Spying for US & Israel? – Video #147](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 5, 2024
     
-    [![durov telegram encryption](https://thefreedomarticles.com/wp-content/uploads/2024/09/pavel-durov-telegram-encryption-183x96.jpg)](https://thefreedomarticles.com/a-closer-look-at-durov-telegram-and-encryption/)
+    [![durov telegram encryption](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![durov telegram encryption](https://thefreedomarticles.com/wp-content/uploads/2024/09/pavel-durov-telegram-encryption-183x96.jpg)](https://thefreedomarticles.com/a-closer-look-at-durov-telegram-and-encryption/)
     
     [A Closer Look at Durov, Telegram and Encryption – Video #145](https://thefreedomarticles.com/a-closer-look-at-durov-telegram-and-encryption/)
     
@@ -843,7 +881,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 14, 2024
     
-    [![UNESCO censorship](https://thefreedomarticles.com/wp-content/uploads/2023/11/UNESCO-cesnorship-183x96.jpg)](https://thefreedomarticles.com/unesco-doublethink-blatant-censorship-plan/)
+    [![UNESCO censorship](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![UNESCO censorship](https://thefreedomarticles.com/wp-content/uploads/2023/11/UNESCO-cesnorship-183x96.jpg)](https://thefreedomarticles.com/unesco-doublethink-blatant-censorship-plan/)
     
     [UNESCO Doublethink: Blatant Censorship Plan – Video #43](https://thefreedomarticles.com/unesco-doublethink-blatant-censorship-plan/)
     
@@ -889,13 +929,17 @@
     
     [Kurt Nimmo](https://thefreedomarticles.com/author/kurt/) June 25, 2020
     
-    [![COVID military operation op](https://thefreedomarticles.com/wp-content/uploads/2022/11/COVID-military-operation-183x96.jpg)](https://thefreedomarticles.com/covid-military-op-dod-darpa-video-5/)
+    [![COVID military operation op](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![COVID military operation op](https://thefreedomarticles.com/wp-content/uploads/2022/11/COVID-military-operation-183x96.jpg)](https://thefreedomarticles.com/covid-military-op-dod-darpa-video-5/)
     
     [COVID was a Military (DOD/DARPA) Op – Video #5](https://thefreedomarticles.com/covid-military-op-dod-darpa-video-5/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 8, 2022
     
-    [![cancel culture](https://thefreedomarticles.com/wp-content/uploads/2022/11/cancel-culture-183x96.jpg)](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
+    [![cancel culture](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![cancel culture](https://thefreedomarticles.com/wp-content/uploads/2022/11/cancel-culture-183x96.jpg)](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
     
     [Cancel Culture Pyramid of Control – Who’s at the Top? – Video #4](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
     
@@ -925,7 +969,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 15, 2023
     
-    [![cancel culture](https://thefreedomarticles.com/wp-content/uploads/2022/11/cancel-culture-183x96.jpg)](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
+    [![cancel culture](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![cancel culture](https://thefreedomarticles.com/wp-content/uploads/2022/11/cancel-culture-183x96.jpg)](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
     
     [Cancel Culture Pyramid of Control – Who’s at the Top? – Video #4](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
     
@@ -979,31 +1025,41 @@
     
     [Caitlin Johnstone](https://thefreedomarticles.com/author/caitlin/) March 9, 2020
     
-    [![Kuwait Freeze Accounts Biometrics](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kuwait-Freeze-Bank-Accounts-Biometrics-183x96.jpg)](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
+    [![Kuwait Freeze Accounts Biometrics](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Kuwait Freeze Accounts Biometrics](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kuwait-Freeze-Bank-Accounts-Biometrics-183x96.jpg)](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
     
     [Kuwait to Freeze Bank Accounts of Those Without Biometrics – Video #148](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 8, 2024
     
-    [![musk starlink yemen](https://thefreedomarticles.com/wp-content/uploads/2024/10/musk-starlink-yemen-183x96.jpg)](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
+    [![musk starlink yemen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![musk starlink yemen](https://thefreedomarticles.com/wp-content/uploads/2024/10/musk-starlink-yemen-183x96.jpg)](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
     
     [Musk’s Starlink in Yemen: Spying for US & Israel? – Video #147](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 5, 2024
     
-    [![durov telegram encryption](https://thefreedomarticles.com/wp-content/uploads/2024/09/pavel-durov-telegram-encryption-183x96.jpg)](https://thefreedomarticles.com/a-closer-look-at-durov-telegram-and-encryption/)
+    [![durov telegram encryption](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![durov telegram encryption](https://thefreedomarticles.com/wp-content/uploads/2024/09/pavel-durov-telegram-encryption-183x96.jpg)](https://thefreedomarticles.com/a-closer-look-at-durov-telegram-and-encryption/)
     
     [A Closer Look at Durov, Telegram and Encryption – Video #145](https://thefreedomarticles.com/a-closer-look-at-durov-telegram-and-encryption/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) September 26, 2024
     
-    [![au10tix](https://thefreedomarticles.com/wp-content/uploads/2024/06/au10tix-183x96.jpg)](https://thefreedomarticles.com/x-twitters-israeli-biometrics-au10tix-linked-by-parent-company-9-11/)
+    [![au10tix](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![au10tix](https://thefreedomarticles.com/wp-content/uploads/2024/06/au10tix-183x96.jpg)](https://thefreedomarticles.com/x-twitters-israeli-biometrics-au10tix-linked-by-parent-company-9-11/)
     
     [X/Twitter’s Israeli Biometrics Au10tix Linked by Parent Company to 9/11 – Video #111](https://thefreedomarticles.com/x-twitters-israeli-biometrics-au10tix-linked-by-parent-company-9-11/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 27, 2024
     
-    [![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
+    [![asheville 15 minute city](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
     [Asheville: A Planned 15-Minute City – Video #149](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
     
@@ -1042,25 +1098,33 @@
     * [MSM](https://thefreedomarticles.com/category/corporatocracy/msm-mainstream-media/)
     * [NGOs](https://thefreedomarticles.com/category/corporatocracy/ngos-non-governmental-orgnizations/)
     
-    [![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
+    [![BioTeq Pfizer Human Chipping](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
     [Leaked BioTeq Slides: Scarily Advanced Human Chipping Well Underway – Video #136](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 28, 2024
     
-    [![UNESCO censorship](https://thefreedomarticles.com/wp-content/uploads/2023/11/UNESCO-cesnorship-183x96.jpg)](https://thefreedomarticles.com/unesco-doublethink-blatant-censorship-plan/)
+    [![UNESCO censorship](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![UNESCO censorship](https://thefreedomarticles.com/wp-content/uploads/2023/11/UNESCO-cesnorship-183x96.jpg)](https://thefreedomarticles.com/unesco-doublethink-blatant-censorship-plan/)
     
     [UNESCO Doublethink: Blatant Censorship Plan – Video #43](https://thefreedomarticles.com/unesco-doublethink-blatant-censorship-plan/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 14, 2023
     
-    [![COVID military operation op](https://thefreedomarticles.com/wp-content/uploads/2022/11/COVID-military-operation-183x96.jpg)](https://thefreedomarticles.com/covid-military-op-dod-darpa-video-5/)
+    [![COVID military operation op](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![COVID military operation op](https://thefreedomarticles.com/wp-content/uploads/2022/11/COVID-military-operation-183x96.jpg)](https://thefreedomarticles.com/covid-military-op-dod-darpa-video-5/)
     
     [COVID was a Military (DOD/DARPA) Op – Video #5](https://thefreedomarticles.com/covid-military-op-dod-darpa-video-5/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 8, 2022
     
-    [![cancel culture](https://thefreedomarticles.com/wp-content/uploads/2022/11/cancel-culture-183x96.jpg)](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
+    [![cancel culture](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![cancel culture](https://thefreedomarticles.com/wp-content/uploads/2022/11/cancel-culture-183x96.jpg)](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
     
     [Cancel Culture Pyramid of Control – Who’s at the Top? – Video #4](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
     
@@ -1098,19 +1162,25 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) February 11, 2016
     
-    [![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
+    [![BioTeq Pfizer Human Chipping](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
     [Leaked BioTeq Slides: Scarily Advanced Human Chipping Well Underway – Video #136](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 28, 2024
     
-    [![COVID military operation op](https://thefreedomarticles.com/wp-content/uploads/2022/11/COVID-military-operation-183x96.jpg)](https://thefreedomarticles.com/covid-military-op-dod-darpa-video-5/)
+    [![COVID military operation op](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![COVID military operation op](https://thefreedomarticles.com/wp-content/uploads/2022/11/COVID-military-operation-183x96.jpg)](https://thefreedomarticles.com/covid-military-op-dod-darpa-video-5/)
     
     [COVID was a Military (DOD/DARPA) Op – Video #5](https://thefreedomarticles.com/covid-military-op-dod-darpa-video-5/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 8, 2022
     
-    [![cancel culture](https://thefreedomarticles.com/wp-content/uploads/2022/11/cancel-culture-183x96.jpg)](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
+    [![cancel culture](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![cancel culture](https://thefreedomarticles.com/wp-content/uploads/2022/11/cancel-culture-183x96.jpg)](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
     
     [Cancel Culture Pyramid of Control – Who’s at the Top? – Video #4](https://thefreedomarticles.com/cancel-culture-pyramid-of-control-who-top-video-4/)
     
@@ -1124,7 +1194,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 15, 2021
     
-    [![UNESCO censorship](https://thefreedomarticles.com/wp-content/uploads/2023/11/UNESCO-cesnorship-183x96.jpg)](https://thefreedomarticles.com/unesco-doublethink-blatant-censorship-plan/)
+    [![UNESCO censorship](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![UNESCO censorship](https://thefreedomarticles.com/wp-content/uploads/2023/11/UNESCO-cesnorship-183x96.jpg)](https://thefreedomarticles.com/unesco-doublethink-blatant-censorship-plan/)
     
     [UNESCO Doublethink: Blatant Censorship Plan – Video #43](https://thefreedomarticles.com/unesco-doublethink-blatant-censorship-plan/)
     
@@ -1223,19 +1295,25 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 13, 2024
     
-    [![Israel atrocity propaganda](https://thefreedomarticles.com/wp-content/uploads/2024/10/Atrocity-Israel-Oct-7-Lies-183x96.png)](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
+    [![Israel atrocity propaganda](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Israel atrocity propaganda](https://thefreedomarticles.com/wp-content/uploads/2024/10/Atrocity-Israel-Oct-7-Lies-183x96.png)](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
     
     [New Doc “Atrocity Inc.” Exposes Israel’s Oct. 7th Lies – Video #150](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 10, 2024
     
-    [![musk starlink yemen](https://thefreedomarticles.com/wp-content/uploads/2024/10/musk-starlink-yemen-183x96.jpg)](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
+    [![musk starlink yemen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![musk starlink yemen](https://thefreedomarticles.com/wp-content/uploads/2024/10/musk-starlink-yemen-183x96.jpg)](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
     
     [Musk’s Starlink in Yemen: Spying for US & Israel? – Video #147](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 5, 2024
     
-    [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    [![operation true promise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
@@ -1273,7 +1351,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 13, 2024
     
-    [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    [![operation true promise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
@@ -1311,19 +1391,25 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 13, 2024
     
-    [![Israel atrocity propaganda](https://thefreedomarticles.com/wp-content/uploads/2024/10/Atrocity-Israel-Oct-7-Lies-183x96.png)](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
+    [![Israel atrocity propaganda](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Israel atrocity propaganda](https://thefreedomarticles.com/wp-content/uploads/2024/10/Atrocity-Israel-Oct-7-Lies-183x96.png)](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
     
     [New Doc “Atrocity Inc.” Exposes Israel’s Oct. 7th Lies – Video #150](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 10, 2024
     
-    [![musk starlink yemen](https://thefreedomarticles.com/wp-content/uploads/2024/10/musk-starlink-yemen-183x96.jpg)](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
+    [![musk starlink yemen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![musk starlink yemen](https://thefreedomarticles.com/wp-content/uploads/2024/10/musk-starlink-yemen-183x96.jpg)](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
     
     [Musk’s Starlink in Yemen: Spying for US & Israel? – Video #147](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 5, 2024
     
-    [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    [![operation true promise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
@@ -1385,13 +1471,17 @@
     
     [Caitlin Johnstone](https://thefreedomarticles.com/author/caitlin/) January 13, 2020
     
-    [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    [![operation true promise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 2, 2024
     
-    [![durov telegram encryption](https://thefreedomarticles.com/wp-content/uploads/2024/09/pavel-durov-telegram-encryption-183x96.jpg)](https://thefreedomarticles.com/a-closer-look-at-durov-telegram-and-encryption/)
+    [![durov telegram encryption](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![durov telegram encryption](https://thefreedomarticles.com/wp-content/uploads/2024/09/pavel-durov-telegram-encryption-183x96.jpg)](https://thefreedomarticles.com/a-closer-look-at-durov-telegram-and-encryption/)
     
     [A Closer Look at Durov, Telegram and Encryption – Video #145](https://thefreedomarticles.com/a-closer-look-at-durov-telegram-and-encryption/)
     
@@ -1413,7 +1503,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 16, 2024
     
-    [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    [![operation true promise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
@@ -1475,7 +1567,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 10, 2017
     
-    [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    [![operation true promise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
@@ -1513,25 +1607,33 @@
     * [Superfoods & Supplements](https://thefreedomarticles.com/category/natural-health/superfoods-supplements/)
     * [Vaccines](https://thefreedomarticles.com/category/natural-health/vaccines/)
     
-    [![hamas israel vaccine ceasefire](https://thefreedomarticles.com/wp-content/uploads/2024/09/hamas-israel-vaccine-ceasefire-183x96.jpg)](https://thefreedomarticles.com/hamas-israel-agree-ceasefire-to-vax-gazan-kids/)
+    [![hamas israel vaccine ceasefire](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![hamas israel vaccine ceasefire](https://thefreedomarticles.com/wp-content/uploads/2024/09/hamas-israel-vaccine-ceasefire-183x96.jpg)](https://thefreedomarticles.com/hamas-israel-agree-ceasefire-to-vax-gazan-kids/)
     
     [Hamas and Israel Agree: A Ceasefire to Vax Gazan Kids – Video #137](https://thefreedomarticles.com/hamas-israel-agree-ceasefire-to-vax-gazan-kids/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) September 3, 2024
     
-    [![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
+    [![BioTeq Pfizer Human Chipping](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
     [Leaked BioTeq Slides: Scarily Advanced Human Chipping Well Underway – Video #136](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 28, 2024
     
-    [![COVID vax nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/03/COVID-vax-nanotech-183x96.png)](https://thefreedomarticles.com/identical-nanotech-in-covid-vax-as-in-alien-implants/)
+    [![COVID vax nanotech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![COVID vax nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/03/COVID-vax-nanotech-183x96.png)](https://thefreedomarticles.com/identical-nanotech-in-covid-vax-as-in-alien-implants/)
     
     [Identical Nanotech in COVID Vax as in Alien Implants – Video #78](https://thefreedomarticles.com/identical-nanotech-in-covid-vax-as-in-alien-implants/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 1, 2024
     
-    [![saRNA Vax Nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/02/saRNA-Vax-Nanotech-183x96.jpg)](https://thefreedomarticles.com/new-sarna-vax-to-accelerate-nanotech-invasion/)
+    [![saRNA Vax Nanotech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![saRNA Vax Nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/02/saRNA-Vax-Nanotech-183x96.jpg)](https://thefreedomarticles.com/new-sarna-vax-to-accelerate-nanotech-invasion/)
     
     [New saRNA Vax to Accelerate the Nanotech Invasion – Video #72](https://thefreedomarticles.com/new-sarna-vax-to-accelerate-nanotech-invasion/)
     
@@ -1633,25 +1735,33 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 21, 2014
     
-    [![hamas israel vaccine ceasefire](https://thefreedomarticles.com/wp-content/uploads/2024/09/hamas-israel-vaccine-ceasefire-183x96.jpg)](https://thefreedomarticles.com/hamas-israel-agree-ceasefire-to-vax-gazan-kids/)
+    [![hamas israel vaccine ceasefire](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![hamas israel vaccine ceasefire](https://thefreedomarticles.com/wp-content/uploads/2024/09/hamas-israel-vaccine-ceasefire-183x96.jpg)](https://thefreedomarticles.com/hamas-israel-agree-ceasefire-to-vax-gazan-kids/)
     
     [Hamas and Israel Agree: A Ceasefire to Vax Gazan Kids – Video #137](https://thefreedomarticles.com/hamas-israel-agree-ceasefire-to-vax-gazan-kids/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) September 3, 2024
     
-    [![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
+    [![BioTeq Pfizer Human Chipping](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![BioTeq Pfizer Human Chipping](https://thefreedomarticles.com/wp-content/uploads/2024/08/BioTeq-Pfizer-Human-Chipping-183x96.jpg)](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
     [Leaked BioTeq Slides: Scarily Advanced Human Chipping Well Underway – Video #136](https://thefreedomarticles.com/leaked-bioteq-slides-scarily-advanced-human-chipping-underway/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 28, 2024
     
-    [![COVID vax nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/03/COVID-vax-nanotech-183x96.png)](https://thefreedomarticles.com/identical-nanotech-in-covid-vax-as-in-alien-implants/)
+    [![COVID vax nanotech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![COVID vax nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/03/COVID-vax-nanotech-183x96.png)](https://thefreedomarticles.com/identical-nanotech-in-covid-vax-as-in-alien-implants/)
     
     [Identical Nanotech in COVID Vax as in Alien Implants – Video #78](https://thefreedomarticles.com/identical-nanotech-in-covid-vax-as-in-alien-implants/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 1, 2024
     
-    [![saRNA Vax Nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/02/saRNA-Vax-Nanotech-183x96.jpg)](https://thefreedomarticles.com/new-sarna-vax-to-accelerate-nanotech-invasion/)
+    [![saRNA Vax Nanotech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![saRNA Vax Nanotech](https://thefreedomarticles.com/wp-content/uploads/2024/02/saRNA-Vax-Nanotech-183x96.jpg)](https://thefreedomarticles.com/new-sarna-vax-to-accelerate-nanotech-invasion/)
     
     [New saRNA Vax to Accelerate the Nanotech Invasion – Video #72](https://thefreedomarticles.com/new-sarna-vax-to-accelerate-nanotech-invasion/)
     
@@ -1681,13 +1791,17 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 7, 2024
     
-    [![iurie rosca](https://thefreedomarticles.com/wp-content/uploads/2024/07/iurie-rosca-183x96.jpg)](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
+    [![iurie rosca](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![iurie rosca](https://thefreedomarticles.com/wp-content/uploads/2024/07/iurie-rosca-183x96.jpg)](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
     
     [They’re Going After Former Moldovan Deputy PM Iurie Rosca – Video #124](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
     
-    [![usury](https://thefreedomarticles.com/wp-content/uploads/2024/07/usury-183x96.jpg)](https://thefreedomarticles.com/usury-private-banking-base-problem-some-solutions/)
+    [![usury](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![usury](https://thefreedomarticles.com/wp-content/uploads/2024/07/usury-183x96.jpg)](https://thefreedomarticles.com/usury-private-banking-base-problem-some-solutions/)
     
     [Usury & Private Banking: The Base Problem & Some Solutions – Video #116](https://thefreedomarticles.com/usury-private-banking-base-problem-some-solutions/)
     
@@ -1765,19 +1879,25 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 12, 2024
     
-    [![iurie rosca](https://thefreedomarticles.com/wp-content/uploads/2024/07/iurie-rosca-183x96.jpg)](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
+    [![iurie rosca](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![iurie rosca](https://thefreedomarticles.com/wp-content/uploads/2024/07/iurie-rosca-183x96.jpg)](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
     
     [They’re Going After Former Moldovan Deputy PM Iurie Rosca – Video #124](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
     
-    [![Assange goes free](https://thefreedomarticles.com/wp-content/uploads/2024/06/110-assange-183x96.png)](https://thefreedomarticles.com/assange-goes-free/)
+    [![Assange goes free](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Assange goes free](https://thefreedomarticles.com/wp-content/uploads/2024/06/110-assange-183x96.png)](https://thefreedomarticles.com/assange-goes-free/)
     
     [Assange Goes Free – Video #110](https://thefreedomarticles.com/assange-goes-free/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) June 26, 2024
     
-    [![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
     [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
@@ -1824,7 +1944,9 @@
     * [Nature of Reality](https://thefreedomarticles.com/category/mysteries/nature-of-reality/)
     * [Interspecies Communication](https://thefreedomarticles.com/category/mysteries/interspecies-communication/)
     
-    [![Kamala Harris Donald Trump red blue coke pepsi](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kamala-Harris-Donald-Trump-Selection-Red-Blue-183x96.jpg)](https://thefreedomarticles.com/polarities-of-perception-tricking-humanity-into-compliance/)
+    [![Kamala Harris Donald Trump red blue coke pepsi](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Kamala Harris Donald Trump red blue coke pepsi](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kamala-Harris-Donald-Trump-Selection-Red-Blue-183x96.jpg)](https://thefreedomarticles.com/polarities-of-perception-tricking-humanity-into-compliance/)
     
     [The Polarities of Perception: Tricking Humanity into Compliance – Video #151](https://thefreedomarticles.com/polarities-of-perception-tricking-humanity-into-compliance/)
     
@@ -1838,7 +1960,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 27, 2024
     
-    [![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
     [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
@@ -1860,7 +1984,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 27, 2024
     
-    [![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
     [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
@@ -1882,7 +2008,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 21, 2024
     
-    [![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
+    [![Epstein Island Satanism](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Epstein Island Satanism](https://thefreedomarticles.com/wp-content/uploads/2024/06/alandra-markman-1-183x96.png)](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
     [Epstein Island, Satanism, SRA, Montauk, SSP – He Went Through it All – Video #109](https://thefreedomarticles.com/epstein-island-satanism-sra-montauk-ssp-he-went-through-it-all/)
     
@@ -1928,7 +2056,9 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) May 1, 2015
     
-    [![Kamala Harris Donald Trump red blue coke pepsi](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kamala-Harris-Donald-Trump-Selection-Red-Blue-183x96.jpg)](https://thefreedomarticles.com/polarities-of-perception-tricking-humanity-into-compliance/)
+    [![Kamala Harris Donald Trump red blue coke pepsi](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Kamala Harris Donald Trump red blue coke pepsi](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kamala-Harris-Donald-Trump-Selection-Red-Blue-183x96.jpg)](https://thefreedomarticles.com/polarities-of-perception-tricking-humanity-into-compliance/)
     
     [The Polarities of Perception: Tricking Humanity into Compliance – Video #151](https://thefreedomarticles.com/polarities-of-perception-tricking-humanity-into-compliance/)
     
@@ -2205,7 +2335,7 @@ Last updated on July 10, 2019
 
 ##### Tag Cloud
 
-[transhumanism](https://thefreedomarticles.com/tag/transhumanism/) [common law jurisdiction](https://thefreedomarticles.com/tag/common-law-jurisdiction/) [alien agenda](https://thefreedomarticles.com/tag/alien-agenda/) [ex-Intelligence agents](https://thefreedomarticles.com/tag/ex-intelligence-agents/) [NSA](https://thefreedomarticles.com/tag/nsa/) [hijacked environmental movement](https://thefreedomarticles.com/tag/hijacked-environmental-movement/) [synthetic agenda](https://thefreedomarticles.com/tag/synthetic-agenda/) [chronic disease](https://thefreedomarticles.com/tag/chronic-disease/) [pivot to Asia](https://thefreedomarticles.com/tag/pivot-to-asia/) [doublespeak](https://thefreedomarticles.com/tag/doublespeak/) [crisis actors](https://thefreedomarticles.com/tag/crisis-actors/) [Shadow Government](https://thefreedomarticles.com/tag/shadow-government/) [post-truth world](https://thefreedomarticles.com/tag/post-truth-world/) [9/11](https://thefreedomarticles.com/tag/911/) [microbiome](https://thefreedomarticles.com/tag/microbiome/) [Google](https://thefreedomarticles.com/tag/google/) [Green New Deal](https://thefreedomarticles.com/tag/green-new-deal/) [right to travel](https://thefreedomarticles.com/tag/right-to-travel/) [micronutrients](https://thefreedomarticles.com/tag/micronutrients/) [centralization of power](https://thefreedomarticles.com/tag/centralization-of-power/) [false dichotomy](https://thefreedomarticles.com/tag/false-dichotomy/) [catholic church](https://thefreedomarticles.com/tag/catholic-church/) [Selfish Ledger](https://thefreedomarticles.com/tag/selfish-ledger/) [Russia](https://thefreedomarticles.com/tag/russia/) [psyops](https://thefreedomarticles.com/tag/psyops/) [child trafficking](https://thefreedomarticles.com/tag/child-trafficking/) [oxidative stress](https://thefreedomarticles.com/tag/oxidative-stress/) [self-aware AI](https://thefreedomarticles.com/tag/self-aware-ai/) [Wolfowitz Doctrine](https://thefreedomarticles.com/tag/wolfowitz-doctrine/) [IoT](https://thefreedomarticles.com/tag/iot/) [UFOs](https://thefreedomarticles.com/tag/ufos/) [petrodollar](https://thefreedomarticles.com/tag/petrodollar/) [ET whistleblower](https://thefreedomarticles.com/tag/et-whistleblower/) [israel](https://thefreedomarticles.com/tag/israel/) [black military operations](https://thefreedomarticles.com/tag/black-military-operations/) [EMF](https://thefreedomarticles.com/tag/emf/) [ISIS](https://thefreedomarticles.com/tag/isis/) [question everything](https://thefreedomarticles.com/tag/question-everything/) [One World Religion](https://thefreedomarticles.com/tag/one-world-religion/) [Illuminati](https://thefreedomarticles.com/tag/illuminati/) [smart grid](https://thefreedomarticles.com/tag/smart-grid/) [fluoride](https://thefreedomarticles.com/tag/fluoride/) [cancer cure](https://thefreedomarticles.com/tag/cancer-cure/) [iodine](https://thefreedomarticles.com/tag/iodine/) [NGOs](https://thefreedomarticles.com/tag/ngos/) [israeli nuclear program](https://thefreedomarticles.com/tag/israeli-nuclear-program/) [HAARP](https://thefreedomarticles.com/tag/haarp/) [Nazi Antarctica](https://thefreedomarticles.com/tag/nazi-antarctica/) [pedophilia](https://thefreedomarticles.com/tag/pedophilia/) [Mind Control](https://thefreedomarticles.com/tag/mind-control/) [MJ-12](https://thefreedomarticles.com/tag/mj-12/) [black magic](https://thefreedomarticles.com/tag/black-magic/) [omega 6:3 ratio](https://thefreedomarticles.com/tag/omega-63-ratio/) [glyphosate](https://thefreedomarticles.com/tag/glyphosate/) [US-UK-Israeli axis](https://thefreedomarticles.com/tag/us-uk-israeli-axis/) [Facebook](https://thefreedomarticles.com/tag/facebook/) [fake war on terror](https://thefreedomarticles.com/tag/fake-war-on-terror/) [Unit 8200](https://thefreedomarticles.com/tag/unit-8200/) [Russophobia](https://thefreedomarticles.com/tag/russophobia/) [MKUltra](https://thefreedomarticles.com/tag/mkultra/) [fake news](https://thefreedomarticles.com/tag/fake-news/) [Satanism](https://thefreedomarticles.com/tag/satanism/) [tax exempt foundation](https://thefreedomarticles.com/tag/tax-exempt-foundation/) [Sandy Hook](https://thefreedomarticles.com/tag/sandy-hook/) [US interference](https://thefreedomarticles.com/tag/us-interference/) [bioweapons](https://thefreedomarticles.com/tag/bioweapons/) [islamophobia](https://thefreedomarticles.com/tag/islamophobia/) [5G](https://thefreedomarticles.com/tag/5g/) [false flag formula](https://thefreedomarticles.com/tag/false-flag-formula/) [Deep State](https://thefreedomarticles.com/tag/deep-state/) [Bilderberg Group](https://thefreedomarticles.com/tag/bilderberg-group/) [cultural Marxism](https://thefreedomarticles.com/tag/cultural-marxism/) [predictive programming](https://thefreedomarticles.com/tag/predictive-programming/) [DNA repair](https://thefreedomarticles.com/tag/dna-repair/) [Social Engineering](https://thefreedomarticles.com/tag/social-engineering/) [islam](https://thefreedomarticles.com/tag/islam/) [human habitat](https://thefreedomarticles.com/tag/human-habitat/) [natural cancer cures](https://thefreedomarticles.com/tag/natural-cancer-cures/) [conspiracy fact](https://thefreedomarticles.com/tag/conspiracy-fact/) [Bush crime family](https://thefreedomarticles.com/tag/bush-crime-family/) [whistleblowers](https://thefreedomarticles.com/tag/whistleblowers/) [depopulation](https://thefreedomarticles.com/tag/depopulation/) [R2P](https://thefreedomarticles.com/tag/r2p/) [mass shootings](https://thefreedomarticles.com/tag/mass-shootings/) [radical Islamic terrorism](https://thefreedomarticles.com/tag/radical-islamic-terrorism/) [global carbon tax](https://thefreedomarticles.com/tag/global-carbon-tax/) [consent of the governed](https://thefreedomarticles.com/tag/consent-of-the-governed/) [JFK](https://thefreedomarticles.com/tag/jfk/) [California wildfires](https://thefreedomarticles.com/tag/california-wildfires/) [SSP](https://thefreedomarticles.com/tag/ssp/) [gun control agenda](https://thefreedomarticles.com/tag/gun-control-agenda/) [Putin](https://thefreedomarticles.com/tag/putin/) [CIA](https://thefreedomarticles.com/tag/cia/) [QAnon hoax](https://thefreedomarticles.com/tag/qanon-hoax/) [Sesame Credit](https://thefreedomarticles.com/tag/sesame-credit/) [IRS](https://thefreedomarticles.com/tag/irs/) [vaccine fraud](https://thefreedomarticles.com/tag/vaccine-fraud/) [cognitive dissonance](https://thefreedomarticles.com/tag/cognitive-dissonance/) [political correctness](https://thefreedomarticles.com/tag/political-correctness/) [carcinogenic](https://thefreedomarticles.com/tag/carcinogenic/) [Rothschild](https://thefreedomarticles.com/tag/rothschild/) [divide and rule](https://thefreedomarticles.com/tag/divide-and-rule/) [anti-aging](https://thefreedomarticles.com/tag/anti-aging/) [fake authority](https://thefreedomarticles.com/tag/fake-authority/) [Iran](https://thefreedomarticles.com/tag/iran/) [Rockefeller](https://thefreedomarticles.com/tag/rockefeller/) [PNAC](https://thefreedomarticles.com/tag/pnac/) [DUMB](https://thefreedomarticles.com/tag/dumb/) [God of Freemasonry](https://thefreedomarticles.com/tag/god-of-freemasonry/) [propaganda](https://thefreedomarticles.com/tag/propaganda/) [political authority](https://thefreedomarticles.com/tag/political-authority/) [jihad](https://thefreedomarticles.com/tag/jihad/) [vaccine-autism link](https://thefreedomarticles.com/tag/vaccine-autism-link/) [sunni vs shia](https://thefreedomarticles.com/tag/sunni-vs-shia/) [Bill Clinton](https://thefreedomarticles.com/tag/bill-clinton/) [heavy metal detox](https://thefreedomarticles.com/tag/heavy-metal-detox/) [Council on Foreign Relations](https://thefreedomarticles.com/tag/council-on-foreign-relations/) [censorship purge](https://thefreedomarticles.com/tag/censorship-purge/) [WW3](https://thefreedomarticles.com/tag/ww3/) [Syria](https://thefreedomarticles.com/tag/syria/) [weather control](https://thefreedomarticles.com/tag/weather-control/) [zionism](https://thefreedomarticles.com/tag/zionism-2/) [cannabis oil](https://thefreedomarticles.com/tag/cannabis-oil/) [V2K](https://thefreedomarticles.com/tag/v2k/) [false left-right paradigm](https://thefreedomarticles.com/tag/false-left-right-paradigm/) [manmade global warming hoax](https://thefreedomarticles.com/tag/manmade-global-warming-hoax-2/) [unalienable rights](https://thefreedomarticles.com/tag/unalienable-rights/) [NWO](https://thefreedomarticles.com/tag/nwo/) [western medicine](https://thefreedomarticles.com/tag/western-medicine/) [North Korea](https://thefreedomarticles.com/tag/north-korea/) [everything is fake](https://thefreedomarticles.com/tag/everything-is-fake/) [Mossad](https://thefreedomarticles.com/tag/mossad/) [chemtrails](https://thefreedomarticles.com/tag/chemtrails-2/) [sex slave](https://thefreedomarticles.com/tag/sex-slave/) [Archon](https://thefreedomarticles.com/tag/archon/)
+[false left-right paradigm](https://thefreedomarticles.com/tag/false-left-right-paradigm/) [9/11](https://thefreedomarticles.com/tag/911/) [divide and rule](https://thefreedomarticles.com/tag/divide-and-rule/) [One World Religion](https://thefreedomarticles.com/tag/one-world-religion/) [common law jurisdiction](https://thefreedomarticles.com/tag/common-law-jurisdiction/) [post-truth world](https://thefreedomarticles.com/tag/post-truth-world/) [black military operations](https://thefreedomarticles.com/tag/black-military-operations/) [pedophilia](https://thefreedomarticles.com/tag/pedophilia/) [Rockefeller](https://thefreedomarticles.com/tag/rockefeller/) [synthetic agenda](https://thefreedomarticles.com/tag/synthetic-agenda/) [mass shootings](https://thefreedomarticles.com/tag/mass-shootings/) [petrodollar](https://thefreedomarticles.com/tag/petrodollar/) [political authority](https://thefreedomarticles.com/tag/political-authority/) [US-UK-Israeli axis](https://thefreedomarticles.com/tag/us-uk-israeli-axis/) [israeli nuclear program](https://thefreedomarticles.com/tag/israeli-nuclear-program/) [tax exempt foundation](https://thefreedomarticles.com/tag/tax-exempt-foundation/) [Russophobia](https://thefreedomarticles.com/tag/russophobia/) [fake war on terror](https://thefreedomarticles.com/tag/fake-war-on-terror/) [NGOs](https://thefreedomarticles.com/tag/ngos/) [bioweapons](https://thefreedomarticles.com/tag/bioweapons/) [chemtrails](https://thefreedomarticles.com/tag/chemtrails-2/) [false dichotomy](https://thefreedomarticles.com/tag/false-dichotomy/) [North Korea](https://thefreedomarticles.com/tag/north-korea/) [anti-aging](https://thefreedomarticles.com/tag/anti-aging/) [QAnon hoax](https://thefreedomarticles.com/tag/qanon-hoax/) [political correctness](https://thefreedomarticles.com/tag/political-correctness/) [PNAC](https://thefreedomarticles.com/tag/pnac/) [gun control agenda](https://thefreedomarticles.com/tag/gun-control-agenda/) [weather control](https://thefreedomarticles.com/tag/weather-control/) [heavy metal detox](https://thefreedomarticles.com/tag/heavy-metal-detox/) [Illuminati](https://thefreedomarticles.com/tag/illuminati/) [Mind Control](https://thefreedomarticles.com/tag/mind-control/) [Deep State](https://thefreedomarticles.com/tag/deep-state/) [WW3](https://thefreedomarticles.com/tag/ww3/) [SSP](https://thefreedomarticles.com/tag/ssp/) [5G](https://thefreedomarticles.com/tag/5g/) [Bush crime family](https://thefreedomarticles.com/tag/bush-crime-family/) [pivot to Asia](https://thefreedomarticles.com/tag/pivot-to-asia/) [IRS](https://thefreedomarticles.com/tag/irs/) [global carbon tax](https://thefreedomarticles.com/tag/global-carbon-tax/) [MKUltra](https://thefreedomarticles.com/tag/mkultra/) [islam](https://thefreedomarticles.com/tag/islam/) [Nazi Antarctica](https://thefreedomarticles.com/tag/nazi-antarctica/) [jihad](https://thefreedomarticles.com/tag/jihad/) [Shadow Government](https://thefreedomarticles.com/tag/shadow-government/) [false flag formula](https://thefreedomarticles.com/tag/false-flag-formula/) [islamophobia](https://thefreedomarticles.com/tag/islamophobia/) [NSA](https://thefreedomarticles.com/tag/nsa/) [psyops](https://thefreedomarticles.com/tag/psyops/) [California wildfires](https://thefreedomarticles.com/tag/california-wildfires/) [US interference](https://thefreedomarticles.com/tag/us-interference/) [cultural Marxism](https://thefreedomarticles.com/tag/cultural-marxism/) [Satanism](https://thefreedomarticles.com/tag/satanism/) [question everything](https://thefreedomarticles.com/tag/question-everything/) [natural cancer cures](https://thefreedomarticles.com/tag/natural-cancer-cures/) [propaganda](https://thefreedomarticles.com/tag/propaganda/) [Bill Clinton](https://thefreedomarticles.com/tag/bill-clinton/) [sunni vs shia](https://thefreedomarticles.com/tag/sunni-vs-shia/) [cannabis oil](https://thefreedomarticles.com/tag/cannabis-oil/) [fake authority](https://thefreedomarticles.com/tag/fake-authority/) [DNA repair](https://thefreedomarticles.com/tag/dna-repair/) [transhumanism](https://thefreedomarticles.com/tag/transhumanism/) [depopulation](https://thefreedomarticles.com/tag/depopulation/) [Iran](https://thefreedomarticles.com/tag/iran/) [vaccine-autism link](https://thefreedomarticles.com/tag/vaccine-autism-link/) [glyphosate](https://thefreedomarticles.com/tag/glyphosate/) [Sandy Hook](https://thefreedomarticles.com/tag/sandy-hook/) [Bilderberg Group](https://thefreedomarticles.com/tag/bilderberg-group/) [Mossad](https://thefreedomarticles.com/tag/mossad/) [iodine](https://thefreedomarticles.com/tag/iodine/) [unalienable rights](https://thefreedomarticles.com/tag/unalienable-rights/) [UFOs](https://thefreedomarticles.com/tag/ufos/) [vaccine fraud](https://thefreedomarticles.com/tag/vaccine-fraud/) [NWO](https://thefreedomarticles.com/tag/nwo/) [HAARP](https://thefreedomarticles.com/tag/haarp/) [Syria](https://thefreedomarticles.com/tag/syria/) [Council on Foreign Relations](https://thefreedomarticles.com/tag/council-on-foreign-relations/) [predictive programming](https://thefreedomarticles.com/tag/predictive-programming/) [ISIS](https://thefreedomarticles.com/tag/isis/) [whistleblowers](https://thefreedomarticles.com/tag/whistleblowers/) [crisis actors](https://thefreedomarticles.com/tag/crisis-actors/) [Archon](https://thefreedomarticles.com/tag/archon/) [God of Freemasonry](https://thefreedomarticles.com/tag/god-of-freemasonry/) [Green New Deal](https://thefreedomarticles.com/tag/green-new-deal/) [doublespeak](https://thefreedomarticles.com/tag/doublespeak/) [Social Engineering](https://thefreedomarticles.com/tag/social-engineering/) [self-aware AI](https://thefreedomarticles.com/tag/self-aware-ai/) [right to travel](https://thefreedomarticles.com/tag/right-to-travel/) [everything is fake](https://thefreedomarticles.com/tag/everything-is-fake/) [V2K](https://thefreedomarticles.com/tag/v2k/) [Facebook](https://thefreedomarticles.com/tag/facebook/) [ex-Intelligence agents](https://thefreedomarticles.com/tag/ex-intelligence-agents/) [Wolfowitz Doctrine](https://thefreedomarticles.com/tag/wolfowitz-doctrine/) [censorship purge](https://thefreedomarticles.com/tag/censorship-purge/) [oxidative stress](https://thefreedomarticles.com/tag/oxidative-stress/) [cancer cure](https://thefreedomarticles.com/tag/cancer-cure/) [IoT](https://thefreedomarticles.com/tag/iot/) [Unit 8200](https://thefreedomarticles.com/tag/unit-8200/) [EMF](https://thefreedomarticles.com/tag/emf/) [JFK](https://thefreedomarticles.com/tag/jfk/) [Sesame Credit](https://thefreedomarticles.com/tag/sesame-credit/) [smart grid](https://thefreedomarticles.com/tag/smart-grid/) [manmade global warming hoax](https://thefreedomarticles.com/tag/manmade-global-warming-hoax-2/) [microbiome](https://thefreedomarticles.com/tag/microbiome/) [Putin](https://thefreedomarticles.com/tag/putin/) [MJ-12](https://thefreedomarticles.com/tag/mj-12/) [sex slave](https://thefreedomarticles.com/tag/sex-slave/) [hijacked environmental movement](https://thefreedomarticles.com/tag/hijacked-environmental-movement/) [child trafficking](https://thefreedomarticles.com/tag/child-trafficking/) [micronutrients](https://thefreedomarticles.com/tag/micronutrients/) [radical Islamic terrorism](https://thefreedomarticles.com/tag/radical-islamic-terrorism/) [ET whistleblower](https://thefreedomarticles.com/tag/et-whistleblower/) [fake news](https://thefreedomarticles.com/tag/fake-news/) [Rothschild](https://thefreedomarticles.com/tag/rothschild/) [Google](https://thefreedomarticles.com/tag/google/) [alien agenda](https://thefreedomarticles.com/tag/alien-agenda/) [catholic church](https://thefreedomarticles.com/tag/catholic-church/) [human habitat](https://thefreedomarticles.com/tag/human-habitat/) [omega 6:3 ratio](https://thefreedomarticles.com/tag/omega-63-ratio/) [cognitive dissonance](https://thefreedomarticles.com/tag/cognitive-dissonance/) [black magic](https://thefreedomarticles.com/tag/black-magic/) [carcinogenic](https://thefreedomarticles.com/tag/carcinogenic/) [centralization of power](https://thefreedomarticles.com/tag/centralization-of-power/) [israel](https://thefreedomarticles.com/tag/israel/) [western medicine](https://thefreedomarticles.com/tag/western-medicine/) [Russia](https://thefreedomarticles.com/tag/russia/) [chronic disease](https://thefreedomarticles.com/tag/chronic-disease/) [CIA](https://thefreedomarticles.com/tag/cia/) [zionism](https://thefreedomarticles.com/tag/zionism-2/) [Selfish Ledger](https://thefreedomarticles.com/tag/selfish-ledger/) [DUMB](https://thefreedomarticles.com/tag/dumb/) [fluoride](https://thefreedomarticles.com/tag/fluoride/) [consent of the governed](https://thefreedomarticles.com/tag/consent-of-the-governed/) [conspiracy fact](https://thefreedomarticles.com/tag/conspiracy-fact/) [R2P](https://thefreedomarticles.com/tag/r2p/)
 
 ##### Follow Us
 
@@ -2254,4 +2384,4 @@ Email
 
 ×
 
-Monday, November 25, 2024
+Tuesday, November 26, 2024
