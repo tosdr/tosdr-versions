@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
 
 [Dementia](https://www.sciencedaily.com/news/mind_brain/dementia/)
 
-[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
+[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
+[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
-
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
+[Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
+
+[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
   
 
