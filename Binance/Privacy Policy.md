@@ -102,7 +102,7 @@ More
 **Privacy Notice - Binance**
 ============================
 
-Last updated: 06 November 2024
+Last updated: 26 November 2024
 
 Binance (“Binance”, “we”, or “us”) is committed to protecting the privacy of our customers, and we take our data protection responsibilities with the utmost seriousness.
 
@@ -138,6 +138,8 @@ For users outside the European Economic Area and Switzerland that are registered
 For United Kingdom users, your operating entity is Nest Services Limited.
 
 For users within the European Economic Area and Switzerland (excluding the countries referenced in the table above), Nest Services Limited is your operating entity and Nest Services Limited is a joint controller with BSHL. BSHL has primary responsibility for your personal data.
+
+In the European Economic Area for data protection matters, VeraSafe has been appointed as Nest Services Limited's representative, pursuant to Article 27 of the General Data Protection Regulation of the European Union. If you are in the European Economic Area, VeraSafe can be contacted in addition to Binance’s Data Protection Officer, only on matters related to the processing of personal data. To make such an inquiry, please contact VeraSafe using this contact form: [https://verasafe.com/public-resources/contact-data-protection-representative](https://verasafe.com/public-resources/contact-data-protection-representative)  or via telephone at: +420 228 881 031. Alternatively, VeraSafe can be contacted at: VeraSafe Ireland Ltd, Unit 3D North Point House, North Point Business Park, New Mallow Road, Cork, T23AT2P, Ireland.
 
 Binance companies may share your personal data with each other and if they do so, they will use it consistently with this Privacy Notice.
 
@@ -284,7 +286,7 @@ In order for us to provide you with the best user experience, we may share your 
 
 10\. What Rights Do I Have?
 
-Subject to applicable law, as outlined below, you have a number of rights in relation to your privacy and the protection of your personal data. You have the right to request access to, correct, and delete your personal data, and to ask for data portability. You may also object to our processing of your personal data or ask that we restrict the processing of your personal data in certain instances. In addition, when you consent to our processing of your personal data for a specified purpose, you may withdraw your consent at any time. If you want to exercise any of your rights please contact us using the webform available [](https://privacyportal-bn.my.onetrust.com/webform/6e570c5a-2a9e-41a2-864d-f3b9592ae6b5/207567de-2c3f-440e-8e36-adcae06ed0e5)[here](https://privacyportal-bn.my.onetrust.com/webform/6e570c5a-2a9e-41a2-864d-f3b9592ae6b5/207567de-2c3f-440e-8e36-adcae06ed0e5). These rights may be limited in some situations - for example, where we can demonstrate we have a legal requirement to process your personal data.
+Subject to applicable law, as outlined below, you have a number of rights in relation to your privacy and the protection of your personal data. You have the right to request access to, correct, and delete your personal data, and to ask for data portability. You may also object to our processing of your personal data or ask that we restrict the processing of your personal data in certain instances. In addition, when you consent to our processing of your personal data for a specified purpose, you may withdraw your consent at any time. If you want to exercise any of your rights please contact us [here](mailto:dpo@binance.com). These rights may be limited in some situations - for example, where we can demonstrate we have a legal requirement to process your personal data.
 
 * Right to access: you have the right to obtain confirmation that your personal data are processed and to obtain a copy of it as well as certain information related to its processing. Please follow the [FAQ](https://www.binance.com/en/support/faq/how-to-use-binance-account-statements-e12bc83ec9ba4e96a076d2b4a4419182) for further information on how to access your account statement yourself. You can also check your device and IP address login’s via the dedicated “Account Activity Records” page located [here](https://www.binance.com/en/my/security/account-activity). Please note that you have to login to your account first to obtain access;
     
@@ -305,7 +307,7 @@ Subject to applicable law, as outlined below, you have a number of rights in rel
 * Right to lodge a complaint with the relevant data protection authority: We hope that we can satisfy any queries you may have about the way in which we process your personal data. However, if you have unresolved concerns, you also have the right to complain to the data protection authority in the location in which you live, work or believe a data protection breach has occurred.
     
 
-If you have any questions or objection as to how we collect and process your personal data, please contact us using the webform available [](https://privacyportal-bn.my.onetrust.com/webform/6e570c5a-2a9e-41a2-864d-f3b9592ae6b5/207567de-2c3f-440e-8e36-adcae06ed0e5)[here](https://privacyportal-bn.my.onetrust.com/webform/6e570c5a-2a9e-41a2-864d-f3b9592ae6b5/207567de-2c3f-440e-8e36-adcae06ed0e5). 
+If you have any questions or objection as to how we collect and process your personal data, please contact us [here](mailto:dpo@binance.com). 
 
 11\. How Long Does Binance Keep My Personal Data?
 
@@ -334,17 +336,17 @@ Unless stated otherwise, our most recent  Privacy Notice applies to all informa
 
 13\. Languages
 
-This Privacy Policy may be published in different languages. In case of any discrepancy, this English version shall prevail.
+This Privacy Policy may be published in different languages. In case of any discrepancy, this English version shall prevail. 
 
 14\. Contact Information
 
-Our data protection officer can be contacted using the webform available below, or via email and will work to address any questions or issues that you have with respect to the collection and processing of your personal data.
+Our data protection officer can be contacted [here](mailto:dpo@binance.com) and will work to address any questions or issues that you have with respect to the collection and processing of your personal data.
 
 If you have a question about your account management, or Binance products or services the Data Protection Officer will not be able to assist you. In that case, please contact our Customer Support team using the following [](http://www.binance.com/en/chat)[link](http://www.binance.com/en/chat).
 
 Please read the [FAQ](https://www.binance.com/en/support/faq/how-to-delete-my-binance-account-f02c2640a1cd44e58de68e4a49d599f6) for further  information on how you can delete your account.
 
-[](https://privacyportal-bn.my.onetrust.com/webform/6e570c5a-2a9e-41a2-864d-f3b9592ae6b5/207567de-2c3f-440e-8e36-adcae06ed0e5)
+[](mailto:dpo@binance.com)
 
 ### Community
 
