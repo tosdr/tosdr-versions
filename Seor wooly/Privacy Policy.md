@@ -2,21 +2,13 @@
 * Menu
 * [Store](https://www.senorwooly.com/store)
 
-* [Log In](#)
+* Log in
     
-    Student Log-in
-    
-    * * *
-    
-    Teacher Log-in
+    Student Log-in Teacher Log-in
     
     Sign up
     
-    [Student Sign up](https://www.senorwooly.com/student/signup/code)
-    
-    * * *
-    
-    [Teacher Sign up](https://teacher.senorwooly.com/signup)
+    [Student Sign up](https://www.senorwooly.com/student/signup/code) [Teacher Sign up](https://teacher.senorwooly.com/signup)
     
 * [](https://senorwooly.foxycart.com/cart?cart=view&h:guest=true&h:from=store&h:fpa=false&h:extoken=)
     
@@ -25,21 +17,13 @@
 
 * * *
 
-* [Log In](#)
+* Log in
     
-    Student Log-in
-    
-    * * *
-    
-    Teacher Log-in
+    Student Log-in Teacher Log-in
     
     Sign up
     
-    [Student Sign up](https://www.senorwooly.com/student/signup/code)
-    
-    * * *
-    
-    Teacher Sign up
+    [Student Sign up](https://www.senorwooly.com/student/signup/code) [Teacher Sign up](https://teacher.senorwooly.com/signup)
     
 
 * [Store](https://www.senorwooly.com/store)
