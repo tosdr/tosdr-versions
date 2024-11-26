@@ -2,8 +2,8 @@
 
 [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](# "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use?_gl=1%2Aq8t911%2A_gcl_aw%2AR0NMLjE3MjgzOTc3MzUuQ2owS0NRandzSk80QmhEb0FSSXNBRER2NHZER3VOUHBxQ29Pb0gzakdfeVJ4Q0Q5TG04WEtmNnFGY1RiWTVVcGtPYWlMX1Y0NlhWSnM3TWFBb0w3RUFMd193Y0I.%2A_gcl_au%2AMTI2OTc5MDAxNy4xNzI4Mzk3NzA0LjEwNDE5NDIyNjEuMTcyODM5Nzc4MS4xNzI4Mzk3Nzgx "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/nutzungsbedingungen?_gl=1%2Aq8t911%2A_gcl_aw%2AR0NMLjE3MjgzOTc3MzUuQ2owS0NRandzSk80QmhEb0FSSXNBRER2NHZER3VOUHBxQ29Pb0gzakdfeVJ4Q0Q5TG04WEtmNnFGY1RiWTVVcGtPYWlMX1Y0NlhWSnM3TWFBb0w3RUFMd193Y0I.%2A_gcl_au%2AMTI2OTc5MDAxNy4xNzI4Mzk3NzA0LjEwNDE5NDIyNjEuMTcyODM5Nzc4MS4xNzI4Mzk3Nzgx "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/nutzungsbedingungen "Deutsch")
 
 * [Why Us?](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why Us?")![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     * [Why You Should Use TWIPLA](https://www.visitor-analytics.io/en/why-us/why-you-should-use-twipla "Why You Should Use TWIPLA")
@@ -91,10 +91,10 @@
     * [Events Calendar](https://www.visitor-analytics.io/en/features/upcoming-features/roadmap-1 "Events Calendar")
     
 
-[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use?_gl=1%2Aq8t911%2A_gcl_aw%2AR0NMLjE3MjgzOTc3MzUuQ2owS0NRandzSk80QmhEb0FSSXNBRER2NHZER3VOUHBxQ29Pb0gzakdfeVJ4Q0Q5TG04WEtmNnFGY1RiWTVVcGtPYWlMX1Y0NlhWSnM3TWFBb0w3RUFMd193Y0I.%2A_gcl_au%2AMTI2OTc5MDAxNy4xNzI4Mzk3NzA0LjEwNDE5NDIyNjEuMTcyODM5Nzc4MS4xNzI4Mzk3Nzgx "English")
+[![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use "English")
 
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use?_gl=1%2Aq8t911%2A_gcl_aw%2AR0NMLjE3MjgzOTc3MzUuQ2owS0NRandzSk80QmhEb0FSSXNBRER2NHZER3VOUHBxQ29Pb0gzakdfeVJ4Q0Q5TG04WEtmNnFGY1RiWTVVcGtPYWlMX1Y0NlhWSnM3TWFBb0w3RUFMd193Y0I.%2A_gcl_au%2AMTI2OTc5MDAxNy4xNzI4Mzk3NzA0LjEwNDE5NDIyNjEuMTcyODM5Nzc4MS4xNzI4Mzk3Nzgx "English")
-* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/nutzungsbedingungen?_gl=1%2Aq8t911%2A_gcl_aw%2AR0NMLjE3MjgzOTc3MzUuQ2owS0NRandzSk80QmhEb0FSSXNBRER2NHZER3VOUHBxQ29Pb0gzakdfeVJ4Q0Q5TG04WEtmNnFGY1RiWTVVcGtPYWlMX1Y0NlhWSnM3TWFBb0w3RUFMd193Y0I.%2A_gcl_au%2AMTI2OTc5MDAxNy4xNzI4Mzk3NzA0LjEwNDE5NDIyNjEuMTcyODM5Nzc4MS4xNzI4Mzk3Nzgx "Deutsch")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/en-us.svg)English](https://www.visitor-analytics.io/en/support/legal-data-privacy-certificates/standard-integration/terms-of-use "English")
+* [![alt text](/fileadmin/twipla/typo3-website-theme/template/images/flags/svg/de-de.svg)Deutsch](https://www.visitor-analytics.io/de/support/rechtliches-datenschutz-zertifikate/standardintegration/nutzungsbedingungen "Deutsch")
 
 [![](/fileadmin/twipla/typo3-website-theme/template/images/icons/user-circle.svg)
 
