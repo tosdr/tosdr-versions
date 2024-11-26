@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/het-wonder-van-water-yin-yang/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/wie-zijn-de-echte-semieten/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
