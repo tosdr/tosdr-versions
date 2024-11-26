@@ -3,7 +3,7 @@ Privacy Policy
 
 #### 
 
-Last Modified: April 1, 2024
+Last Modified: November 25, 2024
 
 I. Introduction
 ---------------
@@ -122,8 +122,13 @@ The third parties with whom the following categories of personal information are
 | Category J: Profile Information | Service Providers, Affiliates, Partners, Parent or Subsidiary organizations, internet cookie data recipients, data brokers or aggregators, social networks, operating systems and platforms, government entities, data analytic providers, internet service providers, advertising networks. |
 | --- | --- |
 
-VII. How Information Is Used and Shared
----------------------------------------
+VII. Video Services
+-------------------
+
+Your video content viewing and associated media consumption activities (collectively “Viewing Activities”) may be collected when you use the Services. By watching video content on or through the Services, you are consenting to share your personal information, together with your Viewing Activities, with third parties acting on our behalf and with our advertising and analytic partners described in this Notice in the ordinary course of business.
+
+VIII. How Information Is Used and Shared
+----------------------------------------
 
 We may use information we collect to do the following, among other things:
 
@@ -165,8 +170,8 @@ We may use information we collect to do the following, among other things:
 * For other uses we may disclose to you at the point of collection, as authorized by you, or as otherwise permitted by law, and
 * For any other purposes with your consent.
 
-VIII. Disclosure
-----------------
+IX. Disclosure
+--------------
 
 WE MAY DISCLOSE PII ABOUT YOU TO A THIRD PARTY FOR COMPENSATION.  
 IN ACCORDANCE WITH THE UTAH NOTICE OF INTENT TO SELL NONPUBLIC PERSONAL INFORMATION ACT, WE MAY CHOOSE TO DISCLOSE NON-PUBLIC PERSONAL INFORMATION ABOUT YOU, THE CONSUMER, TO A THIRD PARTY FOR COMPENSATION.
@@ -191,13 +196,13 @@ In addition, we may share your information as described below:
 * Information Disclosed to Vendors, Partners, Service Providers, and Others for Business Purposes: We contract with vendors to provide services related to the Products and Services and may share information with such vendors in order to provide products or services to you or to help maintain the Products and Services. We also may share PII and non-PII with our partners, service providers and other persons with whom we conduct business.
 * Information Disclosed for the Protection of the Products and Services and for Others. We may disclose PII and Non-PII when (1) required by law or to respond to legal process or lawful requests, including from law enforcement; (2) when we believe it is necessary to prevent, investigate, or address (a) possible illegal activities, including fraud, (b) violation of our Terms of Use, (c) violation of this Policy, or (d) threats to the physical safety of any person; or (3) to protect our rights or property.
 
-IX. Forums
-----------
+X. Forums
+---------
 
 The Products and Services may include forums (such as message boards, chat rooms, comment boards, and reviews) that enable users to post a comment or communicate with each other. The Operator is under no obligation to moderate or edit the forums and will not be responsible for the content or use of any material posted on any forum within the Products or Services. The Operator retains the right to delete at any time and for any reason any material posted within the Products or Services.
 
-X. Information Security
------------------------
+XI. Information Security
+------------------------
 
 **How Do We Protect Personal Data?** We take information security seriously, and we use reasonable administrative, technical and physical safeguards to protect the PII we collect from unauthorized access, use or disclosure. The Operator protects data using administrative, technical, and physical safeguards. When we use third-party service providers, we ask those providers to implement similar safeguards. However, we cannot guarantee that your information is completely secure either within the Company or on the systems of third-party service providers.
 
@@ -211,16 +216,16 @@ In the event of a breach of the confidentiality or security of your PII, we will
 
 We retain personal data we collect from you when we have an ongoing legitimate business need to do so (i.e., to provide you with the Services you have requested or to comply with applicable legal requirements). When we no longer have an ongoing legitimate business need to process your personal information, we will physically destroy, delete or anonymize it or, if this is not possible, then we will securely store your personal data and isolate it from any further processing until deletion is possible.
 
-XI. General Contact Information
--------------------------------
+XII. General Contact Information
+--------------------------------
 
 If you have any questions regarding this Privacy Policy or exercising any of your privacy rights, please contact us at the telephone number, email address or mailing address listed below:
 
 Telephone Number: 1-833-796-0136 (PIN: 141439)  
 Email Address: [copyrightagent@bnmediallc.com](mailto:copyrightagent@bnmediallc.com)
 
-XII. Your State Privacy Rights
-------------------------------
+XIII. Your State Privacy Rights
+-------------------------------
 
 If you are a California, Nevada or Virginia resident, your state’s laws may provide you with additional rights regarding our use of your personal information. Please see the state-specific sections below:
 
@@ -475,7 +480,7 @@ You have the right not to receive discriminatory treatment by us for exercising 
 
 You may be entitled, in accordance with applicable law, to submit a request via an authorized agent acting on your behalf. To do so, we must receive written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
 
-XIII. Users Outside the United States
--------------------------------------
+XIV. Users Outside the United States
+------------------------------------
 
 The Products are hosted in the United States and are governed by U.S. law. If you are using the Products from outside the United States, please be aware that any PII you share with us will be stored and processed in the United States where we locate and operate our servers and databases. By using the Products, you consent to the storage and processing of your PII at our facilities and the facilities of those third parties with whom we share your PII as described in this Policy.
