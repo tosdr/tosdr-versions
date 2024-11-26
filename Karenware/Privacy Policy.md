@@ -70,7 +70,7 @@ If you have any questions about our privacy policies, contact us at [info@karenw
 
 [![YouTube button](/images/youtube/youtube-button-64.png "Visit our YouTube channel")](https://www.youtube.com/c/Karenware)
 
-Downloads Today: 116  
+Downloads Today: 24  
 More than 6000 downloads monthly  
 Received $316.95 this month\* — Thanks!
 
@@ -104,7 +104,7 @@ A license is required to use any or all of these tools for your work. You only n
 
 [List of All Issues since '99](https://www.karenware.com/newsletters)
 
-24837 Verified Subscribers
+24838 Verified Subscribers
 
 Subscribe to receive new issues of the newsletter about Karen and her free Power Tools.
 
