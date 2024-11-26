@@ -98,25 +98,25 @@ If you do not agree with these terms, please do not register or use the Service.
 
 ### Share this page
 
-[WhatsApp](#_xfUid-1-1732568957) [Email](#_xfUid-1-1732568957) [Share](#_xfUid-1-1732568957) [Link](#_xfUid-1-1732568957)
+[WhatsApp](#_xfUid-1-1732590572) [Email](#_xfUid-1-1732590572) [Share](#_xfUid-1-1732590572) [Link](#_xfUid-1-1732590572)
 
 ### Forum statistics
 
 Threads
 
-68,279
+68,280
 
 Messages
 
-3,005,323
+3,005,989
 
 Members
 
-4,746,572
+4,747,410
 
 Latest member
 
-[majend](https://platinmods.com/members/majend.5076276/)
+[jsjsiduduebeu](https://platinmods.com/members/jsjsiduduebeu.5077122/)
 
 * [Platinmods.com - Futuristic S-Dark](https://platinmods.com/misc/style "Style chooser")
 
