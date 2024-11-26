@@ -2,6 +2,7 @@ Monday, November 25 2024
 
 Breaking News
 
+* [Medal of Honor Monday: Army Pfc. Noah Knight](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-noah-knight/)
 * [Poll Shows Majority Approve of Trump’s Transition](https://www.conservativedailynews.com/2024/11/poll-shows-majority-approve-of-trumps-transition/)
 * [The People Complaining About Pete Hegseth May Be Giving Us WW III](https://www.conservativedailynews.com/2024/11/the-people-complaining-about-pete-hegseth-may-be-giving-us-ww-iii/)
 * [Today’s Woke Democrats Are Simply Trouble Makers](https://www.conservativedailynews.com/2024/11/todays-woke-democrats-are-simply-trouble-makers/)
@@ -9,7 +10,6 @@ Breaking News
 * [President Joe Biden’s Schedule for Monday, November 25, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-monday-november-25-2024/)
 * [The West Is Playing With Fire In Ukraine](https://www.conservativedailynews.com/2024/11/the-west-is-playing-with-fire-in-ukraine/)
 * [Thanksgiving Food Costs Still Gobble Up More Of Americans’ Paychecks Than Any Time Under Trump](https://www.conservativedailynews.com/2024/11/thanksgiving-food-costs-still-gobble-up-more-of-americans-paychecks-than-any-time-under-trump/)
-* [Importing Poverty Is No Ticket To Prosperity](https://www.conservativedailynews.com/2024/11/importing-poverty-is-no-ticket-to-prosperity/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,18 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/05/cropped-MONEY.jpg)](https://www.conservativedailynews.com/2024/11/trumps-economy-must-create-new-capital/)
+    
+    [Trump’s Economy Must Create New Capital](https://www.conservativedailynews.com/2024/11/trumps-economy-must-create-new-capital/)
+    
+    November 25, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/241120-O-D0439-0048M-220x150.jpg)](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-noah-knight/)
+    
+    [Medal of Honor Monday: Army Pfc. Noah Knight](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-pfc-noah-knight/)
+    
+    November 25, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/Donald-Trump-and-Melania-Trump-walking-outside-the-White-House.png)](https://www.conservativedailynews.com/2024/11/poll-shows-majority-approve-of-trumps-transition/)
     
     [Poll Shows Majority Approve of Trump’s Transition](https://www.conservativedailynews.com/2024/11/poll-shows-majority-approve-of-trumps-transition/)
@@ -166,31 +178,19 @@ Recent Posts
     
     November 25, 2024
     
-* [![Donald Trump White House Beware of DOGE](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/beware-of-doge/)
-    
-    [Beware of DOGE](https://www.conservativedailynews.com/2024/11/beware-of-doge/)
-    
-    November 25, 2024
-    
-* [![Cable streaming](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz112524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/doomed-2/)
-    
-    [Doomed](https://www.conservativedailynews.com/2024/11/doomed-2/)
-    
-    November 25, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Guns We Love: Sig Sauer P365 9mm Review](https://www.thegunpage.com/guns-we-love-sig-sauer-p365-9mm-review/10612107)
+* [GOA Releases Feature Documentary on the Fight to Arm Pilots Following 9/11](https://www.thegunpage.com/goa-releases-feature-documentary-on-the-fight-to-arm-pilots-following-9-11/10612106)
+* [Kimber 2K11 Offers Custom-Level Features And High-Capacity Magazines](https://www.thegunpage.com/kimber-2k11-offers-custom-level-features-and-high-capacity-magazines/10612104)
+* [Streamlight Introduces the HL6](https://www.thegunpage.com/streamlight-introduces-the-hl6/10612102)
+* [EAA Introduces Updated Girsan MC 14T X Tip-Up](https://www.thegunpage.com/eaa-introduces-updated-girsan-mc-14t-x-tip-up/10612105)
 * [Texas AG Sues Hospital System For Restricting Off-Duty LEO Carry](https://www.thegunpage.com/texas-ag-sues-hospital-system-for-restricting-off-duty-leo-carry/10612099)
 * [RISE Reliant Hunter, Reliant Pro: Their First Bolt-Action Triggers](https://www.thegunpage.com/rise-reliant-hunter-reliant-pro-their-first-bolt-action-triggers/10612098)
 * [Dangerous Games](https://www.thegunpage.com/dangerous-games/10612095) 
 * [TFB Weekly Web Deals 115: Deals for November 25th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-115-deals-for-november-25th-2024/10612094)
-* [Review: Geissele Border Patrol Rifle](https://www.thegunpage.com/review-geissele-border-patrol-rifle/10612101)
 * [Gun Rights Group Targets New York’s Nonresident Carry Restriction](https://www.thegunpage.com/gun-rights-group-targets-new-yorks-nonresident-carry-restriction/10612093)
-* [Grauffel Tops 2024 USPSA Carry Optics Leaderboard, Hetherington Wins U.S. National Title](https://www.thegunpage.com/grauffel-tops-2024-uspsa-carry-optics-leaderboard-hetherington-wins-u-s-national-title/10612092)
-* [Is .357 Magnum Good For Self-Defense?](https://www.thegunpage.com/is-357-magnum-good-for-self-defense/10612087)
-* [6 Reasons Why the AR-15 is Better Than the Shotgun](https://www.thegunpage.com/6-reasons-why-the-ar-15-is-better-than-the-shotgun/10612086)
-* [New York bill would let police ‘briefly seize’ firearms during domestics](https://www.thegunpage.com/new-york-bill-would-let-police-briefly-seize-firearms-during-domestics/10612078)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
