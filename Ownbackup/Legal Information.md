@@ -128,6 +128,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Own Secure
+
+Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
+
 [DORA
 
 The Countdown to DORA is On. How Are You Doing?](https://www.ownbackup.com/blog/the-countdown-to-dora-is-on-how-are-you-doing)
@@ -135,10 +139,6 @@ The Countdown to DORA is On. How Are You Doing?](https://www.ownbackup.com/blog/
 [Company News
 
 It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
-
-[Customer Stories
-
-Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
 
 Company
 
@@ -352,6 +352,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Own Secure
+
+Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
+
 [DORA
 
 The Countdown to DORA is On. How Are You Doing?](https://www.ownbackup.com/blog/the-countdown-to-dora-is-on-how-are-you-doing)
@@ -359,10 +363,6 @@ The Countdown to DORA is On. How Are You Doing?](https://www.ownbackup.com/blog/
 [Company News
 
 It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
-
-[Customer Stories
-
-Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
 
 Company
 
