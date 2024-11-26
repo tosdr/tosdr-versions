@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,727 members - 452,538,319 ads shown  
+131,727 members - 452,540,729 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -57,11 +57,11 @@ paid member banners
 
 [![](https://topdogsrotator.com/a125.gif)](https://topdogsrotator.com/ancients)
 
-[![](https://viraltrafficgames.com/getimg.php?id=1)](https://viraltrafficgames.com/?rid=10247)
+[![](https://1bannerbox.com/1252.gif)](https://1bannerbox.com/genesis)
 
-[![](https://geniecoop.com/ban33.gif)](https://geniecoop.com/nightmagic)
+[![](https://boomerangblaster.com/banner2.gif)](https://boomerangblaster.com/nightmagic)
 
-[![](https://tanfanumhits.com/getimg.php?id=18)](https://tanfanumhits.com/?rid=103)
+[![](https://imgallery.llsvr.com/jeffaman.665f8c470cd25.gif)](https://track.toprated.vip/maryanne450)
 
 ![](26yrs0.gif)
 
