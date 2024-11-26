@@ -31,6 +31,277 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+WhatsApp lanza el modo ‘Walkie Talkie’ para comunicación instantánea 
+=====================================================================
+
+WhatsApp presenta el modo 'Walkie Talkie', una herramienta para enviar mensajes de voz.
+---------------------------------------------------------------------------------------
+
+![Modo ‘Walkie Talkie’ de WhatsApp: mensajes de voz instantáneos dinámicos. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-modo-walkie-talkie.jpg)
+
+**WhatsApp** ha introducido una nueva función llamada **modo ‘Walkie Talkie****’**, que permite a los usuarios comunicarse de manera rápida y efectiva en **chats grupales**.  
+
+Esta actualización busca mejorar la interacción entre los usuarios al **facilitar el envío de mensajes de voz** en tiempo real, similar a un **radiotransmisor**. A continuación, una explicación sobre en qué consiste esta herramienta y cómo se puede utilizar. 
+
+**¿Qué es el modo ‘Walkie Talkie’ en WhatsApp?** 
+-------------------------------------------------
+
+El **modo ‘Walkie Talkie’** es una función diseñada para facilitar la comunicación instantánea en **chats grupales**. Permite a los usuarios **enviar mensajes de voz** breves y directos, sin la necesidad de realizar llamadas telefónicas.  
+
+Esta herramienta se inspira en los **clásicos radiotransmisores**, donde los participantes pueden hablar y escuchar de forma dinámica. WhatsApp ha implementado esta función como una alternativa para situaciones que requieren rapidez y eficiencia en la comunicación, según la web [Sitio Andino](https://www.sitioandino.com.ar/bits/whatsapp-que-trata-el-modo-walkie-talkie-y-como-activar-esta-herramienta-n5688492 "https://www.sitioandino.com.ar/bits/whatsapp-que-trata-el-modo-walkie-talkie-y-como-activar-esta-herramienta-n5688492").  
+
+> [@leadsales](https://www.tiktok.com/@leadsales?refer=embed "@leadsales") ¡NUEVA ACTUALIZACIÓN DE [#WHATSAPP](https://www.tiktok.com/tag/whatsapp?refer=embed "whatsapp")! ¡Llega el WalkieTalkie! Mensajes de voz en TIEMPO REAL en grupos 🗣️ ¿Ya lo tienes?👀 [#actualizacion](https://www.tiktok.com/tag/actualizacion?refer=embed "actualizacion") [#whatsapptips](https://www.tiktok.com/tag/whatsapptips?refer=embed "whatsapptips") [#actualizacion](https://www.tiktok.com/tag/actualizacion?refer=embed "actualizacion") [#hacks](https://www.tiktok.com/tag/hacks?refer=embed "hacks") [♬ Falling Angel – HCTM](https://www.tiktok.com/music/Falling-Angel-7129770285087901698?refer=embed "♬ Falling Angel - HCTM")
+
+**Activación del modo ‘Walkie Talkie’** 
+----------------------------------------
+
+Activar el **modo ‘Walkie Talkie’** es un proceso sencillo. A continuación, se detallan los pasos necesarios: 
+
+* **Abrir WhatsApp:** Iniciar la aplicación en el dispositivo móvil. 
+
+* **Acceder a un chat grupal:** Ingresar a un grupo donde se desee utilizar la función. 
+
+* **Deslizar hacia arriba:** Desde la barra de mensajes, deslizar hacia arriba para habilitar el modo. 
+
+* **Mantener presionado el botón:** Presionar el botón para hablar y mantenerlo mientras se transmite el mensaje. 
+
+* **Notificar a los integrantes:** Utilizar un emoji de manos saludando para informar a los demás sobre el uso de la función. 
+
+* **Finalizar la comunicación:** Para cerrar el canal, presionar la ‘X’. 
+
+**Ventajas del modo ‘Walkie Talkie’** 
+--------------------------------------
+
+El **modo ‘Walkie Talkie’** ofrece varias ventajas significativas: 
+
+* **Comunicación rápida:** Ideal para enviar mensajes breves sin necesidad de escribir. 
+
+* **Eficiencia en grupos:** Permite que varios usuarios se comuniquen simultáneamente sin interrupciones. 
+
+* **Uso práctico:** Especialmente útil en situaciones ruidosas o cuando no se puede realizar una llamada continua. 
+
+* **Menor consumo de datos:** Este modo consume menos datos que las llamadas tradicionales 
+
+**Contextos de uso** 
+---------------------
+
+Este nuevo modo es **versátil** y puede adaptarse a diversas situaciones, desde actividades informales hasta tareas más organizativas. Por ejemplo, es **perfecto para coordinar** eventos o compartir información rápida entre amigos o compañeros de trabajo. También puede ser útil en **juegos o simulaciones** donde se requiere una comunicación ágil y efectiva, siguiendo con Sitio Andino.  
+
+**Disponibilidad** 
+-------------------
+
+Aunque la actualización aún se encuentra en un **proceso de implementación gradual** y no está disponible para todos los usuarios, esta función se ha convertido en una de las **más virales** por su referencia retro al mundo de los **‘walkie talkie’ ochenteros**.  
+
+Tres temblores se sintieron en Pichincha en las últimas horas
+=============================================================
+
+Moradores de barrios de Quito, como San Antonio, Mitad del Mundo, Pusuquí, Calderón, reportaron haber sentido los sismos.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Tres sismos se registraron en Pichincha.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-26T074036.687.jpg)
+
+El **Instituto Geofísico (IG)** de la Politécnica Nacional informó sobre la **actividad sísmica** registrada en la provincia de Pichincha en la noche del lunes 25 y madrugada del martes 26 de noviembre.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este martes 26 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-martes-26-de-noviembre.html "Así funciona el Pico y placa en Quito este martes 26 de noviembre")
+* [Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-del-lunes-25-al-jueves-28-de-noviembre.html "Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre")
+* [Marcha de mujeres recorrió las calles de Quito este lunes 25 de noviembre](https://www.elcomercio.com/actualidad/quito/marcha-mujeres-calles-quito.html "Marcha de mujeres recorrió las calles de Quito este lunes 25 de noviembre")
+
+El primer temblor
+-----------------
+
+El **primer temblor se registró a las 23:24** del lunes 25 de noviembre. Este sismo tuvo una magnitud de 2.1 en la escala de Richter y se dio a una profundidad de 10 km.
+
+Su **epicentro se localizó a 20, 77 km de Quito, Pichincha;** a una latitud de 0.002° y una longitud de 78.425°
+
+Usuarios en redes sociales **confirmaron** haber sentido el movimiento telúrico, sobre todo en la zona de San Antonio, Pusuquí y la Mitad del Mundo.
+
+Así mismo en los barrios del norte como Calderón y Carapungo.
+
+Moradores de la Mitad del Mundo comentaron que sintieron **al menos tres temblores en la zona;** unos de mayor intensidad que otros.
+
+> \[REVISADO\]  
+> Evento: igepn2024xfgt  
+> Ocurrido: 2024-11-25 23:24:21  
+> Mag.: 2.1MLv  
+> Prof.: 10.0 km  
+> Lat.: 0.002° N  
+> Long.: 78.425° W  
+> Localizado: a 20.77 km de Quito, Pichincha  
+> Sintió este sismo? Repórtelo: [https://t.co/cALu42z8O0](https://t.co/cALu42z8O0) [pic.twitter.com/A10UNLz6nA](https://t.co/A10UNLz6nA)
+> 
+> — Instituto Geofísico (@IGecuador) [November 26, 2024](https://twitter.com/IGecuador/status/1861267316459135414?ref_src=twsrc%5Etfw)
+
+Segundo temblor
+---------------
+
+El segundo sismo se registró tan solo 11 minutos después del primero. Este se dio a las 23:35 del lunes 25 de noviembre de 2024.
+
+Este segundo temblor tuvo una magnitud de 2.6 en la escala de Richter y se localizó a 22,38 km de Tabacundo, Pichincha.
+
+Se registró a una latitud de 0.012° y a una longitud de 78.407°.
+
+Los moradores de **San Antonio, Mitad del Mundo,** por ejemplo, también comentaron en redes sociales haber sentido el movimiento. Se mostraron alarmados por la **repetición del movimiento y** señalaron que fue una réplica del primer temblor.
+
+> \[REVISADO\]  
+> Evento: igepn2024xfhc  
+> Ocurrido: 2024-11-25 23:35:44  
+> Mag.: 2.6MLv  
+> Prof.: 5.0 km  
+> Lat.: 0.012° N  
+> Long.: 78.407° W  
+> Localizado: a 22.38 km de Tabacundo, Pichincha  
+> Sintió este sismo? Repórtelo: [https://t.co/8JobfUfHJ1](https://t.co/8JobfUfHJ1) [pic.twitter.com/CpTmgMsOfI](https://t.co/CpTmgMsOfI)
+> 
+> — Instituto Geofísico (@IGecuador) [November 26, 2024](https://twitter.com/IGecuador/status/1861268915503919449?ref_src=twsrc%5Etfw)
+
+El tercer sismo
+---------------
+
+Un tercer temblor se registró a la 01:50 del martes 26 de noviembre de 2024. Este tuvo una magnitud de 2.1 en la escala de Richter.
+
+Se dio a una profundidad de 6 km y su epicentro se localizó a 21.24 km de Quito, Pichincha.
+
+El movimiento se ubicó a una latitud de 0,007° y a una longitud de 78,428°.
+
+Nuevamente, los usuarios de la red social X comentaron su preocupación por la seguidilla de temblores en pocas horas.
+
+Coincidencialmente, los comentarios vinieron de moradores de la misma zona: San Antonio, Mitad del Mundo, [Pomasqui](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> \[REVISADO\]  
+> Evento: igepn2024xflo  
+> Ocurrido: 2024-11-26 01:50:41  
+> Mag.: 2.1MLv  
+> Prof.: 6.0 km  
+> Lat.: 0.007° N  
+> Long.: 78.428° W  
+> Localizado: a 21.24 km de Quito, Pichincha  
+> Sintió este sismo? Repórtelo: [https://t.co/sF5ql6o2Ge](https://t.co/sF5ql6o2Ge) [pic.twitter.com/ciso2Lfyu9](https://t.co/ciso2Lfyu9)
+> 
+> — Instituto Geofísico (@IGecuador) [November 26, 2024](https://twitter.com/IGecuador/status/1861302584755020162?ref_src=twsrc%5Etfw)
+
+El Himno Nacional del Ecuador está lleno de historia y curiosidades fascinantes 
+================================================================================
+
+El Himno Nacional del Ecuador celebra historia, identidad y valentía.
+---------------------------------------------------------------------
+
+![El Himno Nacional de Ecuador, símbolo de identidad patriótica. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Himno-Nacional-del-Ecuador.jpg)
+
+El 26 de noviembre se conmemora el **Día del Himno Nacional del Ecuador**, una efeméride que **rinde homenaje** a uno de los **símbolos patrios** más significativos del país. Este día no solo celebra **la letra y la música del himno**, sino también su profundo significado y el legado cultural que representa para los ecuatorianos. 
+
+### Más noticias
+
+* [31 de octubre es el Día del Escudo Nacional. Conoce su historia](https://www.elcomercio.com/tendencias/cultura/31-octubre-celebra-ecuador-dia-escudo-nacional.html "https://www.elcomercio.com/tendencias/cultura/31-octubre-celebra-ecuador-dia-escudo-nacional.html")
+* [Desde 1965, Ecuador celebra el Día del Himno Nacional el 26 de noviembre](https://www.elcomercio.com/actualidad/ecuador/dia-himno-nacional-historia-ecuador.html "https://www.elcomercio.com/actualidad/ecuador/dia-himno-nacional-historia-ecuador.html")
+
+**Historia del Himno Nacional del Ecuador** 
+--------------------------------------------
+
+El **Himno Nacional del Ecuador** fue escrito por el poeta ambateño **Juan León Mera Martínez** y musicalizado por el compositor francés **Antonio Neumane Marno**. La letra fue creada el **14 de noviembre de 1865**, pero no fue hasta 1948 que se declaró oficialmente como el himno nacional. En ese año, el **Congreso Nacional**, bajo la presidencia de **Galo Plaza Lasso**, sancionó un decreto legislativo que lo reconocía como “oficial e intangible”, de acuerdo con la web del [Gobierno Nacional](https://www.infancia.gob.ec/26-de-noviembre-dia-del-himno-nacional-del-ecuador/ "https://www.infancia.gob.ec/26-de-noviembre-dia-del-himno-nacional-del-ecuador/").  
+
+Este himno fue **entonado por primera vez** el 10 de agosto de 1870, durante la presidencia de **García Moreno**. 
+
+La elección del 26 de noviembre como **Día del Himno** se estableció en 1965, al coincidir con el **centenario de su letra**.  
+
+Desde entonces, esta fecha ha sido un momento importante para recordar y celebrar la identidad nacional. 
+
+**Significado de la letra** 
+----------------------------
+
+La **letra del Himno Nacional** evoca la lucha por la **independencia** y los valores que definen a los ecuatorianos. En sus versos, se hace referencia a la resistencia contra el dominio español y al sacrificio de los héroes que lucharon por la **libertad**, según recoge [Quito Informa](https://www.quitoinforma.gob.ec/2020/11/26/26-de-noviembre-dia-del-himno-nacional-del-ecuador/ "https://www.quitoinforma.gob.ec/2020/11/26/26-de-noviembre-dia-del-himno-nacional-del-ecuador/").  
+
+La letra destaca la unión y la valentía del pueblo ecuatoriano, ya que invita a todos a recordar su **historia** y a trabajar juntos por un futuro mejor. El coro comienza con un llamado a la patria: 
+
+“¡Salve, oh Patria, mil veces! ¡Oh Patria, gloria a ti!”  
+
+Este fragmento resalta el **orgullo nacional** y la devoción hacia el país. A lo largo de las estrofas, se narran las **gestas heroicas** y se invoca un **sentido de pertenencia** y responsabilidad hacia la nación. 
+
+Para **Carlos Garrido**, catedrático universitario de la UIDE, el **Himno Nacional de Ecuador**, refleja el **auge del nacionalismo** en América Latina tras las independencias de España.  
+
+Durante el gobierno de **Juan José Flores** se comenzó a gestar la **Canción Nacional**, con varias composiciones previas hasta llegar a la letra definitiva de **Juan León Mer**a en 1865 y los arreglos musicales de **Antonio** **Neuname**. La letra del himno exalta elementos como el valor, la libertad y la liberación del yugo opresor, en un contexto de **distanciamiento de influencias europeas**, especialmente españolas.  
+
+**Símbolos asociados al himno** 
+--------------------------------
+
+El **Himno Nacional** forma parte de una **trilogía de símbolos patrios** junto con la Bandera y el Escudo. Estos elementos representan la historia, cultura y unidad del Ecuador. La Bandera tricolor simboliza la libertad y la independencia, mientras que el Escudo refleja los recursos naturales y la riqueza cultural del país, a decir de [HazteVerEcuador](https://hazteverecuador.com/26-de-noviembre-dia-del-himno-nacional-del-ecuador/ "https://hazteverecuador.com/26-de-noviembre-dia-del-himno-nacional-del-ecuador/"). 
+
+**Curiosidades sobre el himno** 
+--------------------------------
+
+* **Interpretación parcial:** En actos oficiales, se suele cantar solo el coro y una estrofa específica en lugar de todas las estrofas. Esta decisión se tomó en 1977 para facilitar su aprendizaje. 
+
+* **Variantes históricas:** Antes del himno actual, hubo varios intentos de establecer un himno nacional, pero ninguno logró consolidarse hasta que Mera y Neumane crearon el actual. 
+
+* **Reconocimiento internacional:** El Himno Nacional del Ecuador ha sido considerado uno de los más bellos del mundo debido a su emotiva letra y melodía. 
+
+Así funciona el Pico y placa en Quito este martes 26 de noviembre
+=================================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa es una restricción planteada en Quito para controlar la congestión.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-2024-11-25T151625.105.jpg)
+
+La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
+
+### Más noticias
+
+* [Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-del-lunes-25-al-jueves-28-de-noviembre.html "Cortes de luz en Quito del lunes 25 al jueves 28 de noviembre")
+* [Solidaridad en fiestas de Quito y Navidad, ¿en dónde donar?](https://www.elcomercio.com/actualidad/quito/solidaridad-fiestas-quito-navidad-donde-donar.html "Solidaridad en fiestas de Quito y Navidad, ¿en dónde donar?")
+* [La reforestación de Quito arranca con la siembra de 20 000 plantas nativas](https://www.elcomercio.com/tendencias/ambiente/la-reforestacion-de-quito-arranca-con-la-siembra-de-20-000-plantas-nativas.html "La reforestación de Quito arranca con la siembra de 20 000 plantas nativas")
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este martes, **todos los vehículos pueden circular** debido a que en feriados no se aplica la medida.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+
+Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
+> 
+> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
+
 La seguridad se une a las necesidades del consumidor en este Black Friday
 =========================================================================
 
@@ -59,6 +330,43 @@ Eso incentivará a las personas a consumir más en **Ecuador** y no optar por 
 
 El consumidor también debe considerar un factor fundamental. Sin consumo no se mueve la economía. Es un círculo virtuoso. Si no hay ventas locales, no hay producción ni fuentes de trabajo (nuevas o actuales). Así se mueven grandes economías como la de **Estados Unidos**. Claro que en **Ecuador** las circunstancias son otras, pero la idea es la misma.
 
+Mark Rothko: gloria y ocaso
+===========================
+
+Su legado combina espiritualidad y misterio, dejando una huella única en el arte moderno.
+-----------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+¿Fue su **suicidio** un **ritual** preparado como rúbrica de lo que quiso que fuera **su vida y su obra**: mito y leyenda de la historia de las **artes visuales**? Lo cierto es que su itinerario vital, su obra y su suicidio construyeron un entramado turbulento. En un espacio de 6 x 8 metros, que parecía pintado por él, su ayudante halló el cuerpo inerte de Mark Rothko (Letonia, 1903-Nueva York, 1970), artista pintor glorificado al punto de que existe la _Capilla Rothko_. Una luz cenital ilumina 14 grandes lienzos de su **autoría y fieles** de todas las **religiones** ingresan a orar cada quien a su dios.
+
+El cadáver del artista yacía en ropa interior. El blanco de la camiseta, el azul del calzoncillo y el negro de las medias debieron tener alguna significación, pero, según su discípulo, Rothko quiso dejar a sus devotos el ejercicio de subsumirse en **bizantinas disquisiciones** sobre el porqué de los colores de esas prendas.
+
+El arte de un trágico
+---------------------
+
+El **artista** había consumido somníferos y cortado sus venas. Los brazos estaban abiertos (¿?). El **perfeccionismo** que persiguió en su arte se reprodujo en el **escenario** de su **suicidio**. El seccionamiento de las venas fue la de un conocedor profesional, informaron los **legistas**.
+
+Rothko vivió de una **obsesión**, sustento de su vacilante **personalidad**: instaurar con su **arte** –el más abstracto de su tiempo– una imagen de la **tragedia humana**, y así sanar los males del **mundo**.
+
+La obra de Rothko puede desplegarse en cuatro fases: la de **iniciación**, inscrita en el **figurativismo expresionista**; paso por el cubismo; su fauvismo, a la luz de Matisse y Derain, y su conmocionante **expresionismo abstracto** (su época clásica), proyectado en sus _campos de color_ (_color_ _field painting_), con el cual ascendió a la gloria. “Mi **arte** no es **abstracto**, vive y respira”, repitió turbado cuantas veces lo asediaban entrevistadores.
+
+Esquivo, **angustiado**, **depresivo**, fue uno de los “pintores malditos” estadounidenses –Pollock es el otro– que reprodujeron la vida trágica de los “**simbolistas**” europeos. Enigmático y paradójico, su obra fue descrita por de Kooning como “una casa con muchas mansiones”. ¿Por qué? Tal vez por el gran formato de sus obras y el esplendor de sus colores. Ostentación del color como **elemento primordial.**
+
+Sus años clásicos: florescencia del color. **Grandes formatos** son parte de la esencia de su arte. Todos a ras del suelo. Inmensurables campos de color meditados para ser apreciados a 50 centímetros; sin rastro de enmarcación. Rothko organizaba su obra con **meticulosidad enfermiza**. Sabía que esa grandeza tonal engullía al espectador. Quien mira un Rothko “clásico” renuncia a su voluntad y se integra en él. Vínculo espiritual de hondas y extrañas resonancias.
+
+Colores lisos que oprimen o alivian el alma. Obra visual para meditar. **Convocación al silencio**. Aunque, de repente, brotan susurros como si se tratara de mantras. **Carácter y estilo** de Rothko son únicos y, por serlo, acaso imposible de imitar. No obstante, continúan innumerables **artistas** tentando sus **exploraciones visuales**.
+
+¿Qué queda después de contrastar la supuesta **religiosidad** profunda de Rothko si recordamos que la _Capilla_ diseñada por él es un espacio radicalmente ausente de fe? ¿O la asamblea de **numerosas espiritualidades** que se congregan en su **obra**? ¿No están en parte de su **creación plástica** sus entrañas místicas, pero también señales de irreverencia y menosprecio hacia toda fe?
+
+Desde los 70 la conducta de Rothko mostraba signos **autodestructivos**. Superado un **aneurisma** y divorciado de su segunda compañera, se sumió en la alcoholatría y el tabaquismo. Su depresión lo conduciría a lo que su médico de cabecera llamó “suicidio lento e inconsciente”. Solo le quedaba el arte como refugio en la **soledad** _cavernosa_ de su estudio.
+
+La **estampida de colores** –ímpetu, amor, pasión, calor y ardor, **efusión y expansión**– fueron opacándose, agrisándose, agostándose, como si ellos también empezaran a agonizar con su demiurgo, hasta que los **movimientos** incesantes de Rothko alrededor de sus obras, paganos o espirituales, que eran la forma con que trabajaba, se paralizaron.
+
+Rothko pintó su último cuadro. Entre colores **caliginosos**, vagos y desconcertantes, entró él también en el lienzo y se disolvió entre la bruma que exhalaba la pintura, **metamorfosis** anhelada. La insondable, peregrina e indispensable muerte le ganó de mano.
+
+Cuenta la **leyenda** que quienes visitan su _Capilla_ suelen verlo en medio de una tenue llovizna, las manos en los bolsillos del abrigo, las solapas levantadas, un viejo sombrero de fieltro abrigando su cabeza, la piel agrietada y sus **lentes velados** por gotas de agua, el cigarrillo alumbrando una mueca de desdén hacia los **alelados turistas** que simulan comprender sus lienzos.
+
 Falta un líder competente 
 ==========================
 
@@ -78,6 +386,41 @@ Entonces el nuevo gobierno debe saber pensar con la razón por delante, para sal
 Estamos a tiempo porque no hay nada dicho, pues no se han hecho encuestas serias que influyan en la decisión, por lo que hay espacio para que surja un **liderazgo** superior que pueda responder correctamente a las **expectativas del país**.
 
 El **gobernante** que sea electo debe escoger a los **mejores talentos** y excluir a los improvisados y serviles que tanto daño causan. Debe también ser respetado por la comunidad internacional con base en su prestigio y versación, para conseguir una respetuosa relación con los demás países, que atienda a nuestros intereses.
+
+Cartas a Quito / 26 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este martes 26 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Tecnología, innovación y planificación estratégica: claves para un desarrollo pesquero y acuícola sostenible 
+-------------------------------------------------------------------------------------------------------------
+
+La acuicultura es una de las actividades de mayor crecimiento a nivel mundial, juega un papel vital como medio de vida para millones de personas y en la alimentación y nutrición del mundo. De hecho, en 2022, y por primera vez en la historia, la acuicultura superó a la pesca de captura como principal productora de animales acuáticos, según se reportó en el Estado Mundial de la Pesca y Acuicultura 2024 (SOFIA).
+
+Sin embargo, su éxito y sostenibilidad dependen de una planificación adecuada. Sin esa organización, los conflictos por el uso de recursos, impactos ambientales negativos y tensiones sociales complican la producción sostenible y eficiente.
+
+Ante ese escenario, la gestión espacial integrada emerge como una herramienta esencial para ordenar y garantizar que la pesca y la acuicultura crezcan de manera equilibrada, maximizando beneficios y minimizando riesgos. 
+
+La Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), lidera iniciativas globales para guiar a los países en la planificación sostenible de la pesca y la acuicultura.
+
+Herramientas como los sistemas de información geográfica, teledetección satelital y drones permiten analizar la capacidad de carga de las áreas destinadas a la acuicultura, los riesgos del cambio climático, enfermedades de animales acuáticos, la gestión del riesgo de desastres, los conflictos sociales, y la comercialización postcosecha, entre otros. Estas tecnologías ayudan a identificar ubicaciones ideales, promoviendo una producción eficiente y respetuosa con el medio ambiente. 
+
+La acuicultura en alta mar representa una frontera innovadora para la expansión sostenible de esta actividad, pero requiere una planeación estratégica espacial y temporal. Esta estrategia alivia la presión sobre los ecosistemas costeros y abre nuevas oportunidades en áreas menos explotadas, ofreciendo un enfoque renovador para satisfacer la creciente demanda de alimentos. 
+
+Otras iniciativas que impulsa la FAO, como el Código de Conducta para la Pesca Responsable, y el Enfoque Ecosistémico a la Pesca y la Acuicultura, son fundamentales para garantizar un crecimiento sostenible. Estas guías aseguran que la pesca y la acuicultura sean compatibles con la conservación de los ecosistemas, el bienestar social y el desarrollo económico. 
+
+Además, las nuevas Directrices para la Acuicultura Sostenible, impulsadas por la FAO este año, refuerzan el concepto de Transformación Azul, una visión que busca ampliar los sistemas alimentarios acuáticos y aumentar su contribución a dietas saludables, nutritivas y asequibles, respaldando la gestión ambiental y el crecimiento inclusivo, especialmente para aquellas comunidades que dependen de la pesca y la acuicultura.
+
+En la Reunión Ministerial sobre Agricultura del G20, el Director General de la FAO, QU Dongyu, elogió a la Presidencia brasileña por incluir la agricultura familiar y la pesca y acuicultura en los debates. Y el Día Mundial de la Pesca, conmemorado el 21 de noviembre, refuerza la importancia del sector y de la pesca sostenible, los derechos humanos de las comunidades, sus condiciones laborales, y lo clave que es eliminar las actividades ilegales y no declaradas, y la pesca no reglamentada
+
+En la FAO, estamos convencidas y convencidos de que la combinación de tecnología, innovación, planificación estratégica y normativas internacionales pueden transformar la pesca y la acuicultura en un motor clave para satisfacer las demandas alimentarias globales, y contribuir significativamente a un planeta más justo y resiliente.
+
+Trabajemos juntos por una pesca y acuicultura sostenible, promoviendo una mejor producción, que garantice una mejor nutrición, un mejor medio ambiente y una vida mejor para las generaciones actuales y futuras, sin dejar a nadie atrás. 
+
+_**José Aguilar-Manjarrez, Oficial de Acuicultura de la FAO**_
 
 Miradas sobre la posmodernidad
 ==============================
@@ -153,78 +496,6 @@ Doctor en Psicología, **Todorov fue uno de los intelectuales más luminosos de 
 **Todorov se mostró fascinado por la figura del insurgente, a quien dedicó su último ensayo publicado, ‘Insumisos’ (Galaxia Gutenberg),** una galería de retratos de personajes históricos que supieron oponerse al poder, de **Boris Pasternak a Edward Snowden**, pasando por la **etnóloga francesa Germaine Tillion, figura de la resistencia contra los nazis**, con quien intimó poco antes de su muerte.
 
 Los principales rasgos de sus pensamientos quedaron arraigados en sus libros y en algunas entrevistas. En una de ellas, para el periódico El Mundo, Todorov declaró: **‘Quizá sea un ingenuo, pero no creo que nada de lo que sufrimos hoy sea irreversible. Me niego a creer en una fuerza sobrenatural que nos impone cosas que no se puedan cambiar. Esto es un asunto humano. Y los cambios vendrán de nosotros’**. Al ingresar el lector en sus textos descubre **la ‘imprecisión del optimismo’**; es decir, la **‘trinchera de la esperanza’**, según sus palabras.
-
-Mark Rothko: gloria y ocaso
-===========================
-
-Su legado combina espiritualidad y misterio, dejando una huella única en el arte moderno.
------------------------------------------------------------------------------------------
-
-![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
-
-¿Fue su **suicidio** un **ritual** preparado como rúbrica de lo que quiso que fuera **su vida y su obra**: mito y leyenda de la historia de las **artes visuales**? Lo cierto es que su itinerario vital, su obra y su suicidio construyeron un entramado turbulento. En un espacio de 6 x 8 metros, que parecía pintado por él, su ayudante halló el cuerpo inerte de Mark Rothko (Letonia, 1903-Nueva York, 1970), artista pintor glorificado al punto de que existe la _Capilla Rothko_. Una luz cenital ilumina 14 grandes lienzos de su **autoría y fieles** de todas las **religiones** ingresan a orar cada quien a su dios.
-
-El cadáver del artista yacía en ropa interior. El blanco de la camiseta, el azul del calzoncillo y el negro de las medias debieron tener alguna significación, pero, según su discípulo, Rothko quiso dejar a sus devotos el ejercicio de subsumirse en **bizantinas disquisiciones** sobre el porqué de los colores de esas prendas.
-
-El arte de un trágico
----------------------
-
-El **artista** había consumido somníferos y cortado sus venas. Los brazos estaban abiertos (¿?). El **perfeccionismo** que persiguió en su arte se reprodujo en el **escenario** de su **suicidio**. El seccionamiento de las venas fue la de un conocedor profesional, informaron los **legistas**.
-
-Rothko vivió de una **obsesión**, sustento de su vacilante **personalidad**: instaurar con su **arte** –el más abstracto de su tiempo– una imagen de la **tragedia humana**, y así sanar los males del **mundo**.
-
-La obra de Rothko puede desplegarse en cuatro fases: la de **iniciación**, inscrita en el **figurativismo expresionista**; paso por el cubismo; su fauvismo, a la luz de Matisse y Derain, y su conmocionante **expresionismo abstracto** (su época clásica), proyectado en sus _campos de color_ (_color_ _field painting_), con el cual ascendió a la gloria. “Mi **arte** no es **abstracto**, vive y respira”, repitió turbado cuantas veces lo asediaban entrevistadores.
-
-Esquivo, **angustiado**, **depresivo**, fue uno de los “pintores malditos” estadounidenses –Pollock es el otro– que reprodujeron la vida trágica de los “**simbolistas**” europeos. Enigmático y paradójico, su obra fue descrita por de Kooning como “una casa con muchas mansiones”. ¿Por qué? Tal vez por el gran formato de sus obras y el esplendor de sus colores. Ostentación del color como **elemento primordial.**
-
-Sus años clásicos: florescencia del color. **Grandes formatos** son parte de la esencia de su arte. Todos a ras del suelo. Inmensurables campos de color meditados para ser apreciados a 50 centímetros; sin rastro de enmarcación. Rothko organizaba su obra con **meticulosidad enfermiza**. Sabía que esa grandeza tonal engullía al espectador. Quien mira un Rothko “clásico” renuncia a su voluntad y se integra en él. Vínculo espiritual de hondas y extrañas resonancias.
-
-Colores lisos que oprimen o alivian el alma. Obra visual para meditar. **Convocación al silencio**. Aunque, de repente, brotan susurros como si se tratara de mantras. **Carácter y estilo** de Rothko son únicos y, por serlo, acaso imposible de imitar. No obstante, continúan innumerables **artistas** tentando sus **exploraciones visuales**.
-
-¿Qué queda después de contrastar la supuesta **religiosidad** profunda de Rothko si recordamos que la _Capilla_ diseñada por él es un espacio radicalmente ausente de fe? ¿O la asamblea de **numerosas espiritualidades** que se congregan en su **obra**? ¿No están en parte de su **creación plástica** sus entrañas místicas, pero también señales de irreverencia y menosprecio hacia toda fe?
-
-Desde los 70 la conducta de Rothko mostraba signos **autodestructivos**. Superado un **aneurisma** y divorciado de su segunda compañera, se sumió en la alcoholatría y el tabaquismo. Su depresión lo conduciría a lo que su médico de cabecera llamó “suicidio lento e inconsciente”. Solo le quedaba el arte como refugio en la **soledad** _cavernosa_ de su estudio.
-
-La **estampida de colores** –ímpetu, amor, pasión, calor y ardor, **efusión y expansión**– fueron opacándose, agrisándose, agostándose, como si ellos también empezaran a agonizar con su demiurgo, hasta que los **movimientos** incesantes de Rothko alrededor de sus obras, paganos o espirituales, que eran la forma con que trabajaba, se paralizaron.
-
-Rothko pintó su último cuadro. Entre colores **caliginosos**, vagos y desconcertantes, entró él también en el lienzo y se disolvió entre la bruma que exhalaba la pintura, **metamorfosis** anhelada. La insondable, peregrina e indispensable muerte le ganó de mano.
-
-Cuenta la **leyenda** que quienes visitan su _Capilla_ suelen verlo en medio de una tenue llovizna, las manos en los bolsillos del abrigo, las solapas levantadas, un viejo sombrero de fieltro abrigando su cabeza, la piel agrietada y sus **lentes velados** por gotas de agua, el cigarrillo alumbrando una mueca de desdén hacia los **alelados turistas** que simulan comprender sus lienzos.
-
-Cartas a Quito / 26 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este martes 26 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Tecnología, innovación y planificación estratégica: claves para un desarrollo pesquero y acuícola sostenible 
--------------------------------------------------------------------------------------------------------------
-
-La acuicultura es una de las actividades de mayor crecimiento a nivel mundial, juega un papel vital como medio de vida para millones de personas y en la alimentación y nutrición del mundo. De hecho, en 2022, y por primera vez en la historia, la acuicultura superó a la pesca de captura como principal productora de animales acuáticos, según se reportó en el Estado Mundial de la Pesca y Acuicultura 2024 (SOFIA).
-
-Sin embargo, su éxito y sostenibilidad dependen de una planificación adecuada. Sin esa organización, los conflictos por el uso de recursos, impactos ambientales negativos y tensiones sociales complican la producción sostenible y eficiente.
-
-Ante ese escenario, la gestión espacial integrada emerge como una herramienta esencial para ordenar y garantizar que la pesca y la acuicultura crezcan de manera equilibrada, maximizando beneficios y minimizando riesgos. 
-
-La Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), lidera iniciativas globales para guiar a los países en la planificación sostenible de la pesca y la acuicultura.
-
-Herramientas como los sistemas de información geográfica, teledetección satelital y drones permiten analizar la capacidad de carga de las áreas destinadas a la acuicultura, los riesgos del cambio climático, enfermedades de animales acuáticos, la gestión del riesgo de desastres, los conflictos sociales, y la comercialización postcosecha, entre otros. Estas tecnologías ayudan a identificar ubicaciones ideales, promoviendo una producción eficiente y respetuosa con el medio ambiente. 
-
-La acuicultura en alta mar representa una frontera innovadora para la expansión sostenible de esta actividad, pero requiere una planeación estratégica espacial y temporal. Esta estrategia alivia la presión sobre los ecosistemas costeros y abre nuevas oportunidades en áreas menos explotadas, ofreciendo un enfoque renovador para satisfacer la creciente demanda de alimentos. 
-
-Otras iniciativas que impulsa la FAO, como el Código de Conducta para la Pesca Responsable, y el Enfoque Ecosistémico a la Pesca y la Acuicultura, son fundamentales para garantizar un crecimiento sostenible. Estas guías aseguran que la pesca y la acuicultura sean compatibles con la conservación de los ecosistemas, el bienestar social y el desarrollo económico. 
-
-Además, las nuevas Directrices para la Acuicultura Sostenible, impulsadas por la FAO este año, refuerzan el concepto de Transformación Azul, una visión que busca ampliar los sistemas alimentarios acuáticos y aumentar su contribución a dietas saludables, nutritivas y asequibles, respaldando la gestión ambiental y el crecimiento inclusivo, especialmente para aquellas comunidades que dependen de la pesca y la acuicultura.
-
-En la Reunión Ministerial sobre Agricultura del G20, el Director General de la FAO, QU Dongyu, elogió a la Presidencia brasileña por incluir la agricultura familiar y la pesca y acuicultura en los debates. Y el Día Mundial de la Pesca, conmemorado el 21 de noviembre, refuerza la importancia del sector y de la pesca sostenible, los derechos humanos de las comunidades, sus condiciones laborales, y lo clave que es eliminar las actividades ilegales y no declaradas, y la pesca no reglamentada
-
-En la FAO, estamos convencidas y convencidos de que la combinación de tecnología, innovación, planificación estratégica y normativas internacionales pueden transformar la pesca y la acuicultura en un motor clave para satisfacer las demandas alimentarias globales, y contribuir significativamente a un planeta más justo y resiliente.
-
-Trabajemos juntos por una pesca y acuicultura sostenible, promoviendo una mejor producción, que garantice una mejor nutrición, un mejor medio ambiente y una vida mejor para las generaciones actuales y futuras, sin dejar a nadie atrás. 
-
-_**José Aguilar-Manjarrez, Oficial de Acuicultura de la FAO**_
 
 Proyectos urgentes de Daniel Noboa van a primer debate en la Asamblea
 =====================================================================
@@ -803,237 +1074,3 @@ El comediante regresa con un show cargado de humor.
 ### **Partidos de Navidad en la NFL (25 de diciembre)**
 
 Dos encuentros imperdibles: Ravens vs. Texans y Chiefs vs. Steelers, ideales para los amantes del fútbol americano.
-
-Señales de violencia de género y cómo enfrentarlas
-==================================================
-
-Identificar señales de violencia de género y buscar apoyo son claves para romper el ciclo y recuperar el bienestar emocional.
------------------------------------------------------------------------------------------------------------------------------
-
-![Identificar señales de violencia es el primer paso hacia la recuperación y el bienestar emocional.](https://www.elcomercio.com/wp-content/uploads/2024/11/Violencia-de-genero.jpg)
-
-La violencia de género afecta profundamente la salud mental y emocional de quienes la enfrentan. Reconocer las señales tempranas, acudir a redes de apoyo efectivas y construir un entorno de empatía son pasos esenciales para superar este problema. Más allá de las cifras alarmantes, cada historia representa una vida que merece dignidad y esperanza.
-
-#### 9 sugerencias para identificar, prevenir y superar la violencia de género
-
-1. **Conocer qué es la violencia de género**  
-    No se limita al maltrato físico; incluye violencia psicológica, económica y sexual. Familiarízate con sus manifestaciones para reconocerla.
-2. **Identificar señales de alerta**  
-    Cambios en el estado de ánimo, control excesivo o manipulación económica son indicios frecuentes. Hablar con un profesional puede ayudar a clarificarlos.
-3. **Romper el círculo de la violencia**  
-    Reconoce patrones como agresión seguida de reconciliación. Tomar distancia y buscar ayuda profesional son pasos clave para salir de esta dinámica.
-4. **Buscar redes de apoyo confiables**  
-    Familiares, amigos y profesionales capacitados pueden ofrecer orientación y apoyo. Es fundamental que estas redes sean empáticas y neutrales.
-5. **Fomentar la autoestima**  
-    La autoestima es una herramienta esencial para reconocer el valor propio y entender que nadie merece vivir en violencia.
-6. **Educar desde la infancia**  
-    Promueve la expresión emocional en niños y niñas. Enseñar igualdad y respeto puede prevenir futuros casos de violencia.
-7. **Reconocer el impacto en la salud mental**  
-    La violencia de género puede manifestarse en síntomas físicos como dolores o trastornos del sueño. Un diagnóstico adecuado es crucial para el tratamiento.
-8. **Apoyar a quienes atraviesan esta situación**  
-    Escucha activamente y valida sus emociones. Evita minimizar el problema o culpar a la víctima.
-9. **Apostar por la esperanza y la sanación**  
-    Salir de la violencia es posible con el apoyo adecuado. Construir un futuro libre de violencia requiere tiempo, pero es un camino hacia el bienestar.
-
-Escucha nuestro podcast para conocer más del tema
--------------------------------------------------
-
-En este episodio de **El Cuaderno de la Salud**, la psicóloga **Gypsy Vanessa Gorozabel Chata**, explica cómo la violencia de género afecta profundamente la salud mental y emocional de las víctimas y su entorno cercano. Descubre cómo identificar las señales de violencia, las herramientas psicológicas para prevenirla, y el rol esencial de los grupos de apoyo y el autocuidado emocional en la recuperación.
-
-Este artículo forma parte de ‘[El Cuaderno de la Salud](https://www.elcomercio.com/podcasts/cuaderno-de-la-salud.html)’ de EL COMERCIO. Si tienes consultas o sugerencias, llena el formulario a continuación. Mantente informado y cuida tu salud.
-
-Edmundo González está moralmente preparado para una eventual detención en Venezuela
-===================================================================================
-
-"La Constitución venezolana solo permite un presidente. Yo soy el que va a tomar posesión el 10 de enero", insiste González.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Edmundo González en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/edmundo-gonzalez-efe-agradecimiento.jpg)
-
-El dirigente opositor venezolano [Edmundo González](https://www.elcomercio.com/actualidad/mundo/ecuador-reconoce-edmundo-gonzalez-como-presidente-electo-venezuela.html "https://www.elcomercio.com/actualidad/mundo/ecuador-reconoce-edmundo-gonzalez-como-presidente-electo-venezuela.html") sostiene, en una entrevista, que está “moralmente preparado” para su **eventual detención si regresa a Caracas** para asumir la Presidencia y apuesta por una transición pacífica en la que el chavismo pueda encontrar un espacio y el propio Nicolás Maduro pueda seguir en el país.
-
-### Más noticias
-
-* [Giorgia Meloni reconoce a Edmundo González como ‘presidente electo’ de Venezuela](https://www.elcomercio.com/actualidad/mundo/giorgia-meloni-reconoce-edmundo-gonzalez-presidente-electo-venezuela.html "Giorgia Meloni reconoce a Edmundo González como ‘presidente electo’ de Venezuela")
-* [Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela](https://www.elcomercio.com/actualidad/mundo/estados-unidos-reconoce-a-edmundo-gonzalez-urrutia-como-presidente-electo-de-venezuela.html "Estados Unidos reconoce a Edmundo González Urrutia como presidente electo de Venezuela")
-* [Venezuela solicitó la alerta roja de Interpol para Edmundo González](https://www.elcomercio.com/actualidad/mundo/venezuela-alerta-roja-interpol-edmundo-gonzalez.html "Venezuela solicitó la alerta roja de Interpol para Edmundo González")
-
-A menos de 50 días de la fecha prevista para la asunción del **próximo presidente de Venezuela**, el 10 de enero, González confirma su **intención de viajar a Caracas** para asumir el cargo con el aval de los 7,3 millones de votos que, asegura, logró en las elecciones del pasado 28 de julio, frente a los poco más de 3 millones que atribuye a Maduro.
-
-En la primera entrevista que concede a un medio español, Edmundo González, que llegó a Madrid en septiembre para **pedir asilo político** tras denunciar fraude electoral en su país, se considera “el candidato que obtuvo la victoria” y que “debería tomar posesión de la Presidencia”. “Para eso estamos preparados y trabajando”, dice.
-
-Tras las elecciones, la mayor coalición opositora, **Plataforma Unitaria Democrática (PUD)**, denunció como “fraudulenta” la victoria de Maduro y defendido que **González es el presidente electo** con base en el 83,5 % de las actas que aseguran haber reunido a través de testigos, documentos que el Gobierno venezolano tacha de falsos.
-
-El plan es volver
------------------
-
-El exdiplomático confía en que **si regresa a Caracas para asumir la Presidencia** no será detenido, pero asegura que está “moralmente preparado” en caso de que se produzca.
-
-“Lo que no tengo es boleto todavía, pero mi plan es estar allí. Los planes están en regresar a Caracas para el 10 de enero y **tomar posesión del cargo ese día**“, afirma.
-
-No será, admite, una coyuntura fácil: “Bueno, habrá un pulso, una tensión”. “Lo recomendable para el país” sería la salida de Nicolás Maduro, “por la salud de todos los venezolanos”, apunta.
-
-A su juicio, las **“acciones de acoso” del Gobierno contra María Corina Machado** y él mismo -como las órdenes de detención- son signos de “debilidad” de Maduro.
-
-Confía en la movilización masiva, tanto en Venezuela como en distintas capitales del mundo, en respuesta a la convocatoria lanzada por Machado para el próximo 1 de diciembre, aunque reconoce que en el país hay un clima “potencial” de violencia y de provocación por parte del oficialismo.
-
-Transición pacífica y espacio para el chavismo
-----------------------------------------------
-
-En su **eventual gestión como presidente, González Urrutia** aboga por “negociaciones para una transición ordenada”, con la liberación de los presos políticos, que cifra en más de 2 000.
-
-“Habrá negociaciones previas que permitirán, Dios mediante, una **transición ordenada.** Podría llegar a haber una convivencia dentro del suelo venezolano”, sostiene.
-
-“Habrá una transición en donde las **bases populares** puedan tener un espacio y que el chavismo pueda encontrar un espacio. El chavismo es una fuerza política que va a permanecer en el país”, continúa.
-
-“Teóricamente nosotros somos mayoría, por supuesto, pero lo que nosotros deseamos es pasar la página y abrir un espacio para la **recuperación de Venezuela**, la recuperación en el más amplio sentido:  
-Política, económica y socialmente hablando”, afirma.
-
-Su prioridad: “El reencuentro de los venezolanos y esa va a ser mi tarea fundamental, la reconciliación del país, la reconciliación de los venezolanos”.
-
-¿El futuro de Nicolás Maduro?
------------------------------
-
-“La Constitución venezolana solo permite un presidente. **Yo soy el que va a tomar posesión el 10 de enero**“, insiste González Urrutia, al ser preguntado por el futuro de Maduro.
-
-**“Terminó su mandato” y “tomará su rumbo”, añade.**
-
-¿Podría ser un ciudadano más en Venezuela? “Podría ser un ciudadano más, claro”, zanja.
-
-En la entrevista con se pronuncia también sobre el **papel del Ejército**, un importante actor en una transición en Venezuela.
-
-“Podría decirse que tal vez la cúpula pueda estar manteniendo la estabilidad del régimen, pero la base y los puntos medios de las Fuerzas Armadas son el **reflejo de la sociedad venezolana**“, con los problemas que sacuden al conjunto de la población, como la inflación o las carencias en la sanidad, explica. “Esas **mismas situaciones las están pasando ellos”**, añade.
-
-“Es una cuestión de los mandos militares de los generales nombrados por Maduro, pero eso es una cúpula muy pequeña”, con la que, asegura, no ha tenido contactos.
-
-Acción internacional
---------------------
-
-Apenas 10 días después de la asunción del próximo presidente venezolano se producirá la vuelta de Donald Trump a la **Presidencia de Estados Unidos**, un país que recientemente reconoció a González Urrutia como **presidente electo de Venezuela.**
-
-El dirigente opositor no habló personalmente con Trump aunque, explica, los e**quipos de ambos** han mantenido contactos en Washington.
-
-Evita adelantar qué impacto puede tener la nueva etapa de Trump en la Casa Blanca sobre Venezuela, aunque espera que pueda contribuir “a una transición en paz, moderada, que tenga el futuro de los venezolanos como objetivo”.
-
-González Urrutia agradece las gestiones de sus **vecinos latinoamericanos** para favorecer la transición en su país y confía en que “ojalá sean más firmes y ojalá que puedan llevar a buen puerto las disposiciones de estos gobiernos”.
-
- También en la Unión Europea, que recientemente le ha concedido el premio Sajarov junto a María Corina Machado, dice haber encontrado apoyo.
-
-En España, como en casa
------------------------
-
-En España se siente “como en casa” y evita entrar en **cuestiones de política nacional,** pero destaca que en sus conversaciones con el presidente del Gobierno español, Pedro Sánchez, encontró “manifestaciones de afecto positivas y de respaldo”.
-
-“En ningún momento tengo nada de qué quejarme de lo que se ha hecho hasta ahora”, asegura.
-
- González Urrutia dice no temer por su seguridad personal, como tampoco por la de su familia en Caracas: “Cuando **yo negocié mi salida a España** hubo un acuerdo de algunas garantías”.
-
-“Una de ellas es la de **no intervenir con mi familia,** no meterse con mi familia allá”, concluye.
-
-Erreway visitará seis ciudades en 2025 con su tour ‘Juntos otra vez’
-====================================================================
-
-Erreway anunció su gira con un emotivo video en redes sociales.
----------------------------------------------------------------
-
-![Erreway reveló los nombres de las ciudades que visitará en 2025. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-25T181943.573.jpg)
-
-Los integrantes de la banda **argentina** se juntarán para cumplir con su gira **‘Juntos otra vez’**. Ese anuncio despertó una ola de sentimientos entre sus **fans**, a los marcaron con canciones como Será de Dios, Bonita de más, Dije adiós, Será porque te quiero…
-
-### **Más noticias:**
-
-* [Erreway emociona a toda una generación con el anuncio de su gira mundial](https://www.elcomercio.com/tendencias/entretenimiento/erreway-gira-2025-banda-argentina-generacion.html "https://www.elcomercio.com/tendencias/entretenimiento/erreway-gira-2025-banda-argentina-generacion.html")
-* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html?source=Internal&ref=Single+Content+Link")
-* [¿Quién es la novia de la hija mayor de Carlos Vives?](https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musica-novia-latin-grammy.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musica-novia-latin-grammy.html?source=Internal&ref=Single+Content+Link")
-
-**Erreway**, la emblemática banda argentina que conquistó a una generación en los años 2000, anunció su regreso con una gira mundial programada para 2025.
-
-¿Cómo? ¿Cuándo? Te contamos los detalles.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCzoq8kyzjf/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Erre Way Tour 2025 (@errewaytour2025)](https://www.instagram.com/reel/DCzoq8kyzjf/?utm_source=ig_embed&utm_campaign=loading)
-
-La noticia fue revelada el 24 de noviembre de 2024 a través de un emotivo video en **Instagram**, protagonizado por Benjamín Rojas y Felipe Colombo.
-
-En el clip, ambos artistas interpretan Bonita de más, su primer gran éxito, mientras sugieren la posibilidad de un reencuentro con los otros dos miembros originales.
-
-**Erreway visitará seis ciudades con su tour ‘Juntos otra vez’**
-----------------------------------------------------------------
-
-Tras confirmar la presencia de **Camila Bordonaba**, en un segundo video publicado este 25 de noviembre de 2024**, Erreway** reveló los nombres de las ciudades que visitarán en 2025. 
-
-* **24 de abril**  
-    Quito  
-    Coliseo Rumiñahui
-* **26 de abril**  
-    Guayaquil  
-    Estadio Modelo
-* **3 de mayo**  
-    Lima  
-    Costa 21
-* **4 de junio**  
-    Napoli
-* Teatro Palapartenope
-* **6 de junio**  
-    Madrid  
-    Wizink Center
-* **7 de junio**  
-    Barcelona  
-    Palau Sant Jordi
-
-Se aplaza a 2025 la audiencia de los hermanos Menéndez para considerar una nueva sentencia
-==========================================================================================
-
-La Justicia de Estados Unidos aplazó la audiencia de hoy de los hermanos Menendez para una nueva fecha
-------------------------------------------------------------------------------------------------------
-
-![El abogado Mark Geragos habla con la prensa sobre el aplazamiento de la audiencia de los hermanos Menendez.](https://www.elcomercio.com/wp-content/uploads/2024/11/b35b2668b7a639a5793c4a8a6a021c1d377581fb.jpg)
-
-Un juez de **California** retrasó, este lunes 25 de noviembre de 2024, la **audiencia** de los hermanos Erik y Lyle Menéndez para finales de enero de 2025. Los **hermanos Menendez** fueron condenados en 1996 por el asesinato a sus padres, con el fin de considerar una nueva sentencia en el caso[.](https://es.wikipedia.org/wiki/Lyle_y_Erik_Men%C3%A9ndez "https://es.wikipedia.org/wiki/Lyle_y_Erik_Men%C3%A9ndez")
-
-### Más noticias
-
-* [Hermanos Menéndez afrontarán una audiencia en su lucha por salir de la cárcel](https://www.elcomercio.com/actualidad/mundo/hermanos-menendez-afrontaran-una-audiencia-en-su-lucha-por-salir-de-la-carcel.html "https://www.elcomercio.com/actualidad/mundo/hermanos-menendez-afrontaran-una-audiencia-en-su-lucha-por-salir-de-la-carcel.html")
-* [Caso de los hermanos Menéndez se puede abrir para buscar su libertad](https://www.elcomercio.com/actualidad/mundo/caso-hermanos-menendez-se-puede-abrir-para-buscar-su-libertad.html "https://www.elcomercio.com/actualidad/mundo/caso-hermanos-menendez-se-puede-abrir-para-buscar-su-libertad.html")
-
-Audiencia de los hermanos Menendez
-----------------------------------
-
-“El juez ha fijado ahora el 30 y el 31 de enero como días para una **audiencia plenaria** o de Folsom sobre la nueva sentencia”, dijo a la prensa uno de los abogados de los hermanos, **Mark Geragos**, a la salida del Palacio de Justicia de Van Nuys, en el distrito de Los Ángeles.
-
-La sesión de este **lunes buscaba allanar el camino** para cambiar las condenas y sentencias de prisión por el asesinato en 1989 tras existir pruebas recientemente descubiertas de que **ambos fueron víctimas** de abuso sexual infantil por parte de su padre.
-
-La decisión de revisarlas **a finales de enero** y no el 11 de diciembre, tal y como estaba pactado, se debe a que el juez **Michael Jesic** precisa de más tiempo para valorar el caso.
-
-Relevo del fiscal
------------------
-
-El relevo del **fiscal general del condado** de Los Ángeles, puesto que hasta las elecciones del 5 de noviembre ocupó el progresista George Gascón, también influyó en el **aplazamiento**.
-
-Aunque en un principio los **hermanos Menéndez** iban a comparecer por videollamada, en la que los presentes podrían verles el rostro, se tuvo que cambiar a una **intervención** por audio debido a problemas técnicos de comunicación.
-
-Petición legal
---------------
-
-En la vista, Jesic concedió la petición del **equipo legal de los Menéndez** de escuchar el testimonio de Terry Baralt, hermana mayor del padre de los hermanos, y Joan Vandermolen, hermana mayor de la madre.
-
-“Me gustaría verlos ir a casa. Han pasado **35 años**. Es suficiente”, dijo Baralt, de 85 años.
-
-Por su parte, Vandermolen leyó un comunicado a nombre **toda su familia**, que excluía a uno de sus hermanos, en el que pedían al juez la liberación de sus sobrinos.
-
-“Ningún niño debería vivir con el **miedo de que su padre** lo viole, y me rompe el corazón que mi hermana lo supiera y no hiciera nada al respecto”, agregó.
-
-Nueva fecha en enero
---------------------
-
-Las mociones presentadas antes de la **nueva vista** serán recibidas hasta el 17 de enero, y se prevé que la audiencia pactada para el **30 de enero** se extienda hasta el 31.
-
-La de este lunes fue la **primera audiencia** en casi tres décadas y la popularidad del caso tras el éxito de la serie sobre el acontecimiento **ocurrido en 1989** generó que la corte anunciara días antes que habría **16 asientos disponibles** para el público interesado en presenciarla y que estos serían sorteados por medio de una lotería.
-
-Culpabilidad
-------------
-
-Los hermanos fueron hallados culpables en un segundo juicio del **asesinato de Kitty y José Menéndez** en su casa de Beverly Hills el 20 de agosto de 1989, en un controvertido caso en el que los **jóvenes** denunciaron haber sufrido abusos sexuales por su padre.
-
-Después de **35 años de prisión**, los hermanos recobraron la atención pública debido a la exitosa serie de Netflix **‘Monstruos: La historia de Lyle y Erik Menéndez’,** a la que se sumó **un documental** y el revuelo de una nueva generación que mira con otros ojos a los que antes fueron vistos como **asesinos despiadados**.
