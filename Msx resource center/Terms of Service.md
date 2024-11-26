@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
+* [Compass](https://www.msx.org/forum/msx-talk/development/compass?page=1 "Compass")
+* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4?page=1 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
+* [Help identifying a game](https://www.msx.org/forum/msx-talk/software/help-identifying-a-game "Help identifying a game")
 * [Run Bubble Rain with Sofarun](https://www.msx.org/forum/msx-talk/software/run-bubble-rain-with-sofarun?page=1 "Run Bubble Rain with Sofarun")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=78 "WonderTANG! Who wants to juice up your MSX?")
-* [Help identifying a game](https://www.msx.org/forum/msx-talk/software/help-identifying-a-game "Help identifying a game")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx "DalSoRi R2 on OpenMSX")
 * [MSX on R36S (using Openmsx and some tweaking)](https://www.msx.org/forum/msx-talk/emulation/msx-on-r36s-using-openmsx-and-some-tweaking "MSX on R36S (using Openmsx and some tweaking)")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
 * [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds "How do I run the Quran on FMSX3DS?")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
-* [Compass](https://www.msx.org/forum/msx-talk/development/compass?page=1 "Compass")
 * [Sony HB-F1XDJ not working](https://www.msx.org/forum/msx-talk/hardware/sony-hb-f1xdj-not-working "Sony HB-F1XDJ not working")
 * [MSX music arrangements on the net](https://www.msx.org/forum/msx-talk/graphics-and-music/msx-arrangements-on-the-net?page=11 "MSX music arrangements on the net")
 * [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
-* [HB-F1XDJ black screen and unresponsive](https://www.msx.org/forum/msx-talk/hardware/hb-f1xdj-black-screen-and-unresponsive?page=1 "HB-F1XDJ black screen and unresponsive")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
