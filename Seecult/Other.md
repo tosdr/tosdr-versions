@@ -314,11 +314,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno/tool-kraj.jpg?itok=-Wmmh6X2)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10/2011.jpg?itok=wrAnQPOo)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10-0)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/54-oktobarski-salon/milijana-babic-trazim-posao.jpg?itok=-EjNvbMx)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/54-oktobarski-salon)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/ana-karina-zlatni-pecat-1.jpg?itok=kMbZz6Zq)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
