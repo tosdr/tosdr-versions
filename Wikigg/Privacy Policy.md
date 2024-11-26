@@ -1,6 +1,6 @@
 top of page
 
-[![indie.io logo](https://static.wixstatic.com/media/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png/v1/fill/w_144,h_35,al_c,q_85,enc_auto/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png)](https://www.indie.io/)
+[![indie.io logo](https://static.wixstatic.com/media/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png/v1/fill/w_144,h_35,al_c,q_85,enc_avif,quality_auto/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png)](https://www.indie.io/)
 
 * [The indie.io difference](https://www.indie.io/)
 * [Services](https://www.indie.io/)
@@ -188,7 +188,7 @@ Developer
 
 TRAGsoft
 
-![indie.io logo](https://static.wixstatic.com/media/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png/v1/fill/w_144,h_35,al_c,q_85,blur_3,enc_auto/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png)
+![indie.io logo](https://static.wixstatic.com/media/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png/v1/fill/w_144,h_35,al_c,q_85,blur_3,enc_avif,quality_auto/71cf2b_221fd008f5b347fc8297753a73e0d487~mv2.png)
 
 © 2024 indie.io
 
