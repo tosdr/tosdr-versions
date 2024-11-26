@@ -187,6 +187,7 @@ Menü
 * [Fun-Casino](https://www.bild.de/spiele/kostenlos-spielen/casinos/jackpot-50468472.bild.html)
 * [Kreuzworträtsel](https://spiele.bild.de/kreuzwortraetsel/)
 * [Solitär](https://spiele.bild.de/solitaer/)
+* [Adventskalender 2024](https://spiele.bild.de/adventskalender/)
 
 * [Deals](https://www.bild.de/deals/)
 * [Gutscheine](https://gutscheine.bild.de/)
