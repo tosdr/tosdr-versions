@@ -4,7 +4,7 @@
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/112310-mid-day-digest-2024-11-25?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/112347-mid-day-digest-2024-11-26?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,7 +108,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/112310-mid-day-digest-2024-11-25?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/112347-mid-day-digest-2024-11-26?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -126,6 +126,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Rich Lowry Mass Deportation Is an Appropriate Response to Mass Illegal Immigration](https://patriotpost.us/opinion/112353-mass-deportation-is-an-appropriate-response-to-mass-illegal-immigration-2024-11-26)
 *      [Cal Thomas Fluoride: Good or Bad?](https://patriotpost.us/opinion/112331-fluoride-good-or-bad-2024-11-26)
 *      [Daniel McCarthy Trump Draws the Map to 2028](https://patriotpost.us/opinion/112330-trump-draws-the-map-to-2028-2024-11-26)
 *      [Victor Joecks America’s ‘Chicken Little’ Elites](https://patriotpost.us/opinion/112329-americas-chicken-little-elites-2024-11-26)
@@ -149,9 +150,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
