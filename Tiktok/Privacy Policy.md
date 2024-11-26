@@ -235,7 +235,7 @@ Questions, comments and requests regarding this Privacy Policy should be address
 
 [Privacy Center](https://www.tiktok.com/privacy/overview?lang=en)
 
-[Creator Portal](https://www.tiktok.com/creator-academy?lang=en)
+[Creator Academy](https://www.tiktok.com/creator-academy?lang=en)
 
 [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en)
 
