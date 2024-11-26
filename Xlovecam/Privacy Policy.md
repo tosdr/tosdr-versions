@@ -8,7 +8,7 @@ To find out whether your browser supports Javascript, or to allow scripts, see t
 
 [![XloveCam®](//medianew.wlresources.com/wl/xlovecam/logo-1663.png)](https://www.xlovecam.com/en/)
 
-* [Free Sex Cams (388)](https://www.xlovecam.com/en/)
+* [Free Sex Cams (503)](https://www.xlovecam.com/en/)
 * [Media](#)
     
     * [Pictures](https://www.xlovecam.com/en/photos/)
@@ -1439,7 +1439,6 @@ XloveCam®
     * [› русский язык](#)
     * [› 中文](#)
     * [› 日本語](#)
-* [Events](https://www.xlovecam.com/en/events/)
 * [Models directory](https://www.xlovecam.com/en/model-list/a/)
 * [Live Cam glossary](https://www.xlovecam.com/en/dictionary/)
 * [Affiliation](#)
