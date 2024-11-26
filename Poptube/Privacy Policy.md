@@ -1,6 +1,6 @@
 top of page
 
-![](https://static.wixstatic.com/media/4789f2_7e6298e60e704a629095eb95bd5d96a1~mv2.png/v1/fill/w_174,h_38,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4789f2_7e6298e60e704a629095eb95bd5d96a1~mv2.png)
+![](https://static.wixstatic.com/media/4789f2_7e6298e60e704a629095eb95bd5d96a1~mv2.png/v1/fill/w_174,h_38,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4789f2_7e6298e60e704a629095eb95bd5d96a1~mv2.png)
 
 * [Home](https://www.poptube.app/)
 * [Features](https://www.poptube.app/)
@@ -152,7 +152,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me ([feedback@tapi.group](mailto:feedback@tapi.group)).
 
-![](https://static.wixstatic.com/media/4789f2_7e6298e60e704a629095eb95bd5d96a1~mv2.png/v1/fill/w_136,h_29,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/4789f2_7e6298e60e704a629095eb95bd5d96a1~mv2.png)
+![](https://static.wixstatic.com/media/4789f2_7e6298e60e704a629095eb95bd5d96a1~mv2.png/v1/fill/w_136,h_29,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/4789f2_7e6298e60e704a629095eb95bd5d96a1~mv2.png)
 
 * [Home](https://www.poptube.app/)
 * [Features](https://www.poptube.app/)
