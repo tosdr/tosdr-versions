@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/e99383ea-08ed-4712-9c6b-2c01c9e26b13/20241126T160534/e99383ea-08ed-4712-9c6b-2c01c9e26b13_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/e99383ea-08ed-4712-9c6b-2c01c9e26b13/20241126T160534/e99383ea-08ed-4712-9c6b-2c01c9e26b13_360x203.jpg)](https://www.kagstv.com/article/news/crime/man-sentenced-for-sept-2018-assault-on-bryan-tx-police-officer/500-439f2176-a40d-4b83-b3b3-c5e49e41af93)
+        
+        #### [Man sentenced for hitting Bryan Police officer in September 2018](https://www.kagstv.com/article/news/crime/man-sentenced-for-sept-2018-assault-on-bryan-tx-police-officer/500-439f2176-a40d-4b83-b3b3-c5e49e41af93)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/nov-2024-college-station-search-warrant-arrest/500-b6b945a2-00e3-4d73-a3db-6b9de1cb11cc)
         
         #### [One in custody, three detained after high-risk search warrant connected to College Station shooting investigation](https://www.kagstv.com/article/news/crime/nov-2024-college-station-search-warrant-arrest/500-b6b945a2-00e3-4d73-a3db-6b9de1cb11cc)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/d6dacde2-bdd7-42af-91ac-4532195ea922/20241125T182518/d6dacde2-bdd7-42af-91ac-4532195ea922_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/d6dacde2-bdd7-42af-91ac-4532195ea922/20241125T182518/d6dacde2-bdd7-42af-91ac-4532195ea922_360x203.jpg)](https://www.kagstv.com/article/news/crime/harlan-wayne-sekaquaptewa-sentenced-after-pleading-guilty-to-sexual-assault-of-a-child/500-24a12f6b-7c74-4bea-bc0c-064a0966e9ee)
-        
-        #### [Man sentenced to 19 years after pleading guilty to sexual assault of a child in Milam County](https://www.kagstv.com/article/news/crime/harlan-wayne-sekaquaptewa-sentenced-after-pleading-guilty-to-sexual-assault-of-a-child/500-24a12f6b-7c74-4bea-bc0c-064a0966e9ee)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-46°
+65°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
