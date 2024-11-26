@@ -91,7 +91,7 @@ Follow us:
     * [About Us](https://www.yadvashem.org/education/about-school.html)
     * [Educational Materials](https://www.yadvashem.org/education/educational-materials.html)
     * [Educational Videos](https://www.yadvashem.org/education/educational-videos.html)
-    * [For Educators in Jewish Frameworks](https://www.yadvashem.org/education/international-activities/jewish-world.html)
+    * [For Educators in Jewish Frameworks](https://www.yadvashem.org/education/jewish-world.html)
     * [Online Courses](https://www.yadvashem.org/education/online-courses.html)
     * [Seminars](https://www.yadvashem.org/education/seminars.html)
     * [e-Newsletter](https://www.yadvashem.org/education/newsletter.html)
