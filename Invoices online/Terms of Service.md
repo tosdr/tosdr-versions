@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=21202620)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=87493240)  
+Wiselink Broadband Pty Ltd
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=138761269)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=102329177)  
+Sarabi
 
-![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=105381339)  
-MONSTER SECURITY SERVICES (NORTHAM)
-
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=201229581)  
-Tracknetics
-
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=161315497)  
-RADIO TYGERBERG 104FM NPC
-
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=101417410)  
-Brilliant Roof Products
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=64562876)  
-Digifax (Pty) Ltd trading as Digirent
-
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=92132610)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=71394169)  
-ELLIE'S CLEANING CHICKS
-
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=42857421)  
-Lindani Protection Services & Projects
-
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=151598322)  
-Frameless Fanatix (Pty) Ltd.
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=64373007)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
-
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=127378757)  
-SAUL ATHOL ACRES RENTAL
-
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=175489185)  
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=119615434)  
 Blue Bulls Rugby Coaches Association
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=622060f402c8339fd493a34ad89326e8a669d9e7fa5e70d44118cf1e00c73bf7&c=182988830)  
-Depot Diesel (Pty) Ltd
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=164688767)  
+Peter Salvage Pty Ltd
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=110114327)  
+VerdanTech Pty Ltd
+
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=203177361)  
+Hydroworld T/A Milliqua
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=80160164)  
+Brand's Fountains Deco and Events Coordinatoin
+
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=85725125)  
+National Elite Security Services (PTY) LTD
+
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=145213364)  
+Brilliant Roof Products
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=67989097)  
+West Coast Horse Trails
+
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=82062708)  
+FX ACCOUNTING
+
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=99031252)  
+United Paintball Federation
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=23850416)  
+Nogana Events and Decor
+
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=62279869)  
+De light Investments(Pty)Ltd trading as Serene Memorials
+
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=41baba2870e02f585d324648597191f8b919391baa8ec8491cef7a5c0fc471a5&c=72707447)  
+MONSTER SECURITY SERVICES (NORTHAM)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
