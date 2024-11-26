@@ -36,18 +36,18 @@
         
         Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
     
+    * [![Why Cybersecurity Leaders Trust the MITRE ATT&CK Evaluations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Why Cybersecurity Leaders Trust the MITRE ATT&CK Evaluations](https://www.bleepingcomputer.com/news/security/why-cybersecurity-leaders-trust-the-mitre-attack-evaluations/)
+    * [![Hackers exploit critical bug in Array Networks SSL VPN products](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Hackers exploit critical bug in Array Networks SSL VPN products](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-bug-in-array-networks-ssl-vpn-products/)
     * [![Firefox and Windows zero-days exploited by Russian RomCom hackers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Firefox and Windows zero-days exploited by Russian RomCom hackers](https://www.bleepingcomputer.com/news/security/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/)
     * [![Black Friday is your chance to get lifetime access to Rosetta Stone](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Black Friday is your chance to get lifetime access to Rosetta Stone](https://www.bleepingcomputer.com/offer/deals/black-friday-is-your-chance-to-get-lifetime-access-to-rosetta-stone/)
-    * [![QNAP addresses critical flaws across NAS, router software](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        QNAP addresses critical flaws across NAS, router software](https://www.bleepingcomputer.com/news/security/qnap-addresses-critical-flaws-across-nas-router-software/)
-    * [![New Windows 10 0x80073CFA fix requires installing WinAppSDK 3 times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New Windows 10 0x80073CFA fix requires installing WinAppSDK 3 times](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-0x80073cfa-fix-requires-installing-winappsdk-3-times/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
