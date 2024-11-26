@@ -57,13 +57,15 @@ For the rest, we will collect your full name, email address, the product your pu
 
 ### How do the 3rd party payment websites protect customer's credit card information?
 
-Epubor uses secure server hosted by RegNow, 2checkout and Paypal, they encrypt all the customer's personal information before it is sent to us, your credit card information is only used for online transition.
+Epubor uses secure server hosted by RegNow, 2checkout, Stripe and Paypal, they encrypt all the customer's personal information before it is sent to us, your credit card information is only used for online transition.
 
-### 2checkout and Paypal
+### 2checkout, Stripe and Paypal
 
 Founded in 2006, 2checkout(Avangate) is headquartered in Amsterdam, The Netherlands. We are the agile eCommerce solutions provider trusted by Software and SaaS companies to grow their eCommerce business worldwide through any channel, any model.
 
 PayPal is the faster, safer way to pay and get paid online, via a mobile device and in store. The service gives people simpler ways to send money without sharing financial information, and with the flexibility to pay using their account balances, bank accounts, credit cards or promotional financing.
+
+Stripe offers payment methods such as bank transfers, bank redirects, buy now, pay later, cards, real-time payments, wallets, and cash-based vouchers.
 
 ### Cookie policy
 
