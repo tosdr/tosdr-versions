@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Elderly hip fracture recovery time frames](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip-scaled.jpg "Elderly Hip Fracture Recovery Time Frames")](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/ "Elderly Hip Fracture Recovery Time Frames")
+[![What is considered neglect in a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-considered-neglect-in-a-nursing-home-scaled.jpg "What Is Considered Neglect in a Nursing Home?")](https://www.pintas.com/faq/what-is-considered-neglect-in-a-nursing-home/ "What Is Considered Neglect in a Nursing Home?")
 
-[#### Elderly Hip Fracture Recovery Time Frames](https://www.pintas.com/faq/how-long-does-it-take-for-an-elderly-person-to-recover-from-a-broken-hip/)
+[#### What Is Considered Neglect in a Nursing Home?](https://www.pintas.com/faq/what-is-considered-neglect-in-a-nursing-home/)
 
-[![Is there a blood test for asbestos exposure?](https://www.pintas.com/wp-content/uploads/2020/09/chicago-personal-injury-lawyer-is-there-a-blood-test-for-asbestos-exposure-1.jpg "Is There a Blood Test for Asbestos Exposure?")](https://www.pintas.com/practice-areas/lung-cancer/blood-test-for-asbestos-exposure "Is There a Blood Test for Asbestos Exposure?")
+[![What lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-lung-cancer-is-caused-by-asbestos.jpg "What Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/ "What Lung Cancer Is Caused By Asbestos?")
 
-[#### Is There a Blood Test for Asbestos Exposure?](https://www.pintas.com/practice-areas/lung-cancer/blood-test-for-asbestos-exposure)
+[#### What Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/)
 
-[![How can society reduce the prevalence of elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-how-can-society-reduce-the-prevalence-of-elder-abuse-300x200-1.jpg "How Can Society Reduce the Prevalence of Elder Abuse?")](https://www.pintas.com/faq/how-can-society-reduce-the-prevalence-of-elder-abuse/ "How Can Society Reduce the Prevalence of Elder Abuse?")
+[![What types of cancer are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-types-of-cancer-are-caused-by-asbestos.jpg "What Types of Cancer Are Caused by Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos "What Types of Cancer Are Caused by Asbestos?")
 
-[#### How Can Society Reduce the Prevalence of Elder Abuse?](https://www.pintas.com/faq/how-can-society-reduce-the-prevalence-of-elder-abuse/)
+[#### What Types of Cancer Are Caused by Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos)
 
 ### Injured?  
 Tell Us What Happened.
