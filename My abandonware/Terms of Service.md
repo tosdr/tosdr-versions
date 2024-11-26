@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Adrenix](https://www.myabandonware.com/game/adrenix-tb9)
 * [Sir Fred: El Remake](https://www.myabandonware.com/game/sir-fred-el-remake-tb8)
 * [Fred 2: Pyramania](https://www.myabandonware.com/game/fred-2-pyramania-tb7)
 * [Fred: The Remake](https://www.myabandonware.com/game/fred-the-remake-tb6)
 * [Buster](https://www.myabandonware.com/game/buster-tb5)
-* [Meikyuujou Hydra](https://www.myabandonware.com/game/meikyuujou-hydra-tb4)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Legend](https://www.myabandonware.com/game/legend-rwi)
-* [Cosmic Shock Absorber](https://www.myabandonware.com/game/cosmic-shock-absorber-nyv)
-* [Super Dragon Ball Z](https://www.myabandonware.com/game/super-dragon-ball-z-t53)
+* [Grand Prix Selection](https://www.myabandonware.com/game/grand-prix-selection-km7)
+* [Hisō Kihei X-Serd](https://www.myabandonware.com/game/hiso-kihei-x-serd-kqj)
+* [Sadakichi Seven: Hideyoshi no Ōgon](https://www.myabandonware.com/game/sadakichi-seven-hideyoshi-no-ogon-kpv)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
