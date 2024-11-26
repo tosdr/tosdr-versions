@@ -542,6 +542,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![14 unmissable Black Friday travel deals](https://media.restless.co.uk/uploads/2024/11/unmissable-black-friday-travel-deals-768x334.jpg)](https://restless.co.uk/travel/unmissable-black-friday-travel-deals/)
+
+### [14 unmissable Black Friday travel deals](https://restless.co.uk/travel/unmissable-black-friday-travel-deals/)
+
+[Read More »](https://restless.co.uk/travel/unmissable-black-friday-travel-deals/)
+
 [![11 things to see and do on a Caribbean cruise](https://media.restless.co.uk/uploads/2024/11/things-to-see-and-do-on-a-caribbean-cruise-768x512.jpg)](https://restless.co.uk/travel/things-to-see-and-do-on-a-caribbean-cruise/)
 
 ### [11 things to see and do on a Caribbean cruise](https://restless.co.uk/travel/things-to-see-and-do-on-a-caribbean-cruise/)
@@ -571,12 +577,6 @@ New in travel
 ### [10 sunny spots five hours or less from the UK](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
 
 [Read More »](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
-
-[![12 of the best winter sun cruise destinations](https://media.restless.co.uk/uploads/2024/11/the-best-winter-sun-cruise-destinations-768x512.jpg)](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/)
-
-### [12 of the best winter sun cruise destinations](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/) 
-
-[Read More »](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/)
 
 Popular travel guides
 ---------------------
