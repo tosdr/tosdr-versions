@@ -23,7 +23,7 @@
 
    
 
-[Login](https://customers.junipereducation.org/login/?redirect_to=%2Fmy-account%2F) [Let’s talk](https://junipereducation.org/contact-us?hsLang=en)
+[Login](https://customers.junipereducation.org/login/?redirect_to=%2Fmy-account%2F) [Book a demo](https://junipereducation.org/contact-us?hsLang=en)
 
 *  [![menu01](https://junipereducation.org/hubfs/Juniper%20-%20Theme/menu01.svg)Classroom solutions Assessment, Curriculum, Parent Engagement, Benchmarking, and more.](https://junipereducation.org/classroom-primary/?hsLang=en)
     * [Primary](https://junipereducation.org/classroom-primary/?hsLang=en)
