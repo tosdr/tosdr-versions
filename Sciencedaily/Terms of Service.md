@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 25, 2024**
+**November 26, 2024**
 
 * * *
 
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
+
 [Dementia](https://www.sciencedaily.com/news/mind_brain/dementia/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
-[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
+[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
-
-[Neural Interfaces](https://www.sciencedaily.com/news/computers_math/neural_interfaces/)
-
 [Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
+
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+
+[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
+[Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
 [Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
 
-[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
+[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
   
 
