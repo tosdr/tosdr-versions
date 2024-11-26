@@ -190,16 +190,21 @@
 
 Subscribe
 
-[#### Rheumatoid Arthritis](https://www.healthline.com/rheumatoid-arthritis)
+[#### Parenthood](https://www.healthline.com/parenthood)
 
-* [Newly Diagnosed](https://www.healthline.com/rheumatoid-arthritis/basics-of-ra)
-* [Medication & Treatments](https://www.healthline.com/rheumatoid-arthritis/treatment)
-* [Managing Flares](https://www.healthline.com/rheumatoid-arthritis/pain-management)
-* [Living Well](https://www.healthline.com/rheumatoid-arthritis/living-with-ra)
-* [Holistic Health](https://www.healthline.com/rheumatoid-arthritis/holistic-health)
-* [Mental Well-Being](https://www.healthline.com/rheumatoid-arthritis/ra-mental-health)
-* [Community](https://apps.apple.com/us/app/ra-healthline/id1498862311)
-* [Newsletter](https://www.healthline.com/newsletter-signup/rheumatoid-arthritis)
+* Stages
+    
+    * [Becoming a Parent](https://www.healthline.com/parenthood/becoming-a-parent)
+    * [Pregnancy](https://www.healthline.com/parenthood/pregnancy)
+    * [Postpartum](https://www.healthline.com/parenthood/postpartum)
+    * [Baby](https://www.healthline.com/parenthood/baby)
+    * [Toddler](https://www.healthline.com/parenthood/toddler)
+    
+* [Fertility](https://www.healthline.com/parenthood/fertility)
+* [Health & Wellness](https://www.healthline.com/parenthood/health-wellness)
+* [Conditions & Concerns](https://www.healthline.com/parenthood/conditions-concerns)
+* [Relationships](https://www.healthline.com/parenthood/relationships)
+* [Products](https://www.healthline.com/parenthood/products-gear)
 
 Ad & Sponsorship Policy
 =======================
