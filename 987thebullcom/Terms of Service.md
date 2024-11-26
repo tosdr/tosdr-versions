@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Singles You UpJordan Davis<br><br>10:40am |
-| Ain'T No Love In OklahomaLuke Combs<br><br>10:36am |
-| Devil You KnowTyler Braden<br><br>10:33am |
-| Something Like ThatTim Mcgraw<br><br>10:30am |
-| Save MeJelly Roll Ft Lainey Wilson<br><br>10:26am |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>4:39pm |
+| God'S CountryBlake Shelton<br><br>4:35pm |
+| Son Of A SinnerJelly Roll<br><br>4:31pm |
+| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:28pm |
+| Knee DeepZac Brown Band Ft. Jimmy Buffet<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,9 +360,9 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Top 40 • Eastern
+Country • Western
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
@@ -372,9 +372,9 @@ Spanish • Western
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-News Talk • Eastern
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
