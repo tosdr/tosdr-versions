@@ -12,7 +12,7 @@
 * [Azərbaycanca (Azerbaijani)](https://amaze.org/azerbaijani/)
 * [Bahasa Indonesia (Indonesian)](https://amaze.org/bahasa-indonesia/)
 * [বাংলা (Bengali)](https://amaze.org/bengali/)
-* [中文 (Simplified Chinese)](https://amaze.org/chinese/)
+* [中文 (Chinese – Simplified)](https://amaze.org/chinese/)
 * [Chuukese](https://amaze.org/chuukese/)
 * [Deutsch (German)](https://amaze.org/german/)
 * [(Dhivehi) ދިވެހި](https://amaze.org/dhivehi/)
@@ -79,10 +79,8 @@
 
 * About
     * [What is AMAZE?](https://amaze.org/what-is-amaze/)
-    * [Our Team](https://amaze.org/our-team/)
     * [Partners](https://amaze.org/partners/)
     * [Praise for AMAZE](https://amaze.org/praise-for-amaze/)
-    * [Annual Report](https://amaze.org/annual-report/)
     * [Amaze In the News](https://amaze.org/amaze-in-the-news/)
     * [Amaze Around the World](https://amaze.org/amaze-around-the-world/)
     * [Embedded Playlists](https://amaze.org/embedded-playlists/)
