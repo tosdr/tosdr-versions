@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/de-marihuana-gotspe-nepwiet-goedkeuren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/wat-vreet-bp-uit-zien-we-de-catastrofe-wel/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
