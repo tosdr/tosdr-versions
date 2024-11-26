@@ -16,7 +16,21 @@ Open main menu
 
 Loading...
 
-Loading...
+Upcoming Experiences
+
+[View All Experiences »](https://www.atlasobscura.com/events)
+
+   [![](https://img.atlasobscura.com/BtMUa2zrDFXc-OVssjz_wOvaZew_1XXphWiyJnyDX48/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81YjU4/YTZlMS1jMDk3LTRh/M2EtOTVmZi1lMTI5/NDE0ZWQwYTBiY2I5/NDY5NjcwMDM3MmUw/MjdfVW50aXRsZWQu/anBn.jpg)
+
+Members Only
+
+Monster of the Month w/ Colin Dickey: Frankenstein](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-frankenstein)
+
+   [![](https://img.atlasobscura.com/AxNQpouM-DrINwgCwgsEyDu9s42tyihgwbMnl1wmoPc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kYTEz/M2VhZi1iM2FlLTRh/NTQtODEyNC03OGJm/ZWRlMjYyOTMwYjEx/OTcwZTNlOWZkZWVl/ZTVfYmY4N2JkNWEt/MmQ3NS00Y2Q1LTlk/YmEtOTU4MjU3YWRh/MWUyNDNlY2FiOTAw/MjJiMmM5N2M0X29k/ZHZlcnQuanBn.jpg)
+
+Members Only
+
+Antiques and Their Afterlives: Holiday Gift Guide](https://www.atlasobscura.com/experiences/antiques-and-their-afterlives-an-unusual-holiday-gift-guide)
 
 Loading...
 
