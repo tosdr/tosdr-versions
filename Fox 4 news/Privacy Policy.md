@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Arlington man 'under emotional distress' arrested after shooting gun inside home, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112524-sky-4-monday-pm-kdfweme002_13_59_16_mpg_00.22.34.10.jpg?ve=1&tl=1)
+ [![Greenville police officer, suspect shot during Monday investigation](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/9aa2ffa8-78b9ff20-Generic-police-lights-2-11-1.jpg?ve=1&tl=1)
 
- ![Arlington man 'under emotional distress' arrested after shooting gun inside home, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112524-sky-4-monday-pm-kdfweme002_13_59_16_mpg_00.22.34.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-police-arrest-armed-suspect-neighborhood)
+ ![Greenville police officer, suspect shot during Monday investigation](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/9aa2ffa8-78b9ff20-Generic-police-lights-2-11-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hunt-county-texas-picket-street-shooting-ois-officer-down)
 
-### [Arlington man 'under emotional distress' arrested after shooting gun inside home, police say](https://www.fox4news.com/news/arlington-police-arrest-armed-suspect-neighborhood)
+### [Greenville police officer, suspect shot during Monday investigation](https://www.fox4news.com/news/hunt-county-texas-picket-street-shooting-ois-officer-down)
 
- [![Menendez brothers won't be home for the holidays as judge delays hearing](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/menendez1.jpg?ve=1&tl=1)
+ [![Grapevine flips the switch on for its 36th annual Carol of Lights holiday event](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/grapevine-carol-of-lights_00.14.56.46.jpg?ve=1&tl=1)
 
- ![Menendez brothers won't be home for the holidays as judge delays hearing](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/menendez1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-resentencing-court-hearing-postponed-2025)
+ ![Grapevine flips the switch on for its 36th annual Carol of Lights holiday event](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/grapevine-carol-of-lights_00.14.56.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grapevine-flips-switch-its-36th-annual-carol-lights-holiday-event)
 
-### [Menendez brothers won't be home for the holidays as judge delays hearing](https://www.fox4news.com/news/menendez-brothers-resentencing-court-hearing-postponed-2025)
+### [Grapevine flips the switch on for its 36th annual Carol of Lights holiday event](https://www.fox4news.com/news/grapevine-flips-switch-its-36th-annual-carol-lights-holiday-event)
 
- [![Senator John Cornyn joins new Senate DOGE caucus](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2153571735.jpg?ve=1&tl=1)
+ [![Dallas man says stranger shot him multiple times while on running trail](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-dallas-lazy-river-trail-shooting-9p_00.00.06.34.jpg?ve=1&tl=1)
 
- ![Senator John Cornyn joins new Senate DOGE caucus](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2153571735.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/john-cornyn-doge-caucus)
+ ![Dallas man says stranger shot him multiple times while on running trail](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-dallas-lazy-river-trail-shooting-9p_00.00.06.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-man-says-stranger-shot-him-multiple-times-while-running-trail)
 
-### [Senator John Cornyn joins new Senate DOGE caucus](https://www.fox4news.com/news/john-cornyn-doge-caucus)
+### [Dallas man says stranger shot him multiple times while on running trail](https://www.fox4news.com/news/dallas-man-says-stranger-shot-him-multiple-times-while-running-trail)
 
- [![19-year-old murdered in Arlington Airbnb hours before celebrating birthday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/kst-arlington-shooting-pkg_00.00.07.46.jpg?ve=1&tl=1)
+ [![Dallas game warden investigating coyote shootings in Lochwood neighborhood](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/peyton-dallas-coyote-shootings-1030p_00.00.44.04.jpg?ve=1&tl=1)
 
- ![19-year-old murdered in Arlington Airbnb hours before celebrating birthday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/kst-arlington-shooting-pkg_00.00.07.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/slaughter-street-arlington-double-murder-alexis-johniya-tyler-victim)
+ ![Dallas game warden investigating coyote shootings in Lochwood neighborhood](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/peyton-dallas-coyote-shootings-1030p_00.00.44.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-game-warden-investigating-coyote-shootings-lochwood-neighborhood)
 
-### [19-year-old murdered in Arlington Airbnb hours before celebrating birthday](https://www.fox4news.com/news/slaughter-street-arlington-double-murder-alexis-johniya-tyler-victim)
+### [Dallas game warden investigating coyote shootings in Lochwood neighborhood](https://www.fox4news.com/news/dallas-game-warden-investigating-coyote-shootings-lochwood-neighborhood)
 
- [![Dallas Mayor Eric Johnson says city will 'stand by' Trump deportation plans](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/S_DALLAS-PARKS-COALITION-ANNOUNCEMENT-530P_KDFW395_00.00.16.36.jpg?ve=1&tl=1)
+ [![Trump threatens to impose new tariffs on Mexico, Canada and China on 1st day in office](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/trump-getty.jpg?ve=1&tl=1)
 
- ![Dallas Mayor Eric Johnson says city will 'stand by' Trump deportation plans](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/592/333/S_DALLAS-PARKS-COALITION-ANNOUNCEMENT-530P_KDFW395_00.00.16.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mayor-eric-johnson-deportations)
+ ![Trump threatens to impose new tariffs on Mexico, Canada and China on 1st day in office](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/trump-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-threatens-impose-new-tariffs-mexico-canada-china-1st-day-office)
 
-### [Dallas Mayor Eric Johnson says city will 'stand by' Trump deportation plans](https://www.fox4news.com/news/dallas-mayor-eric-johnson-deportations)
+### [Trump threatens to impose new tariffs on Mexico, Canada and China on 1st day in office](https://www.fox4news.com/news/trump-threatens-impose-new-tariffs-mexico-canada-china-1st-day-office)
 
 ###### [News](https://www.fox4news.com/news)
 
