@@ -546,6 +546,20 @@ If you want to know more about how we use your information or to raise any queri
 
 Publication Date: 29 June 2022
 
+Related links
+-------------
+
+* [Business](https://www.o2.co.uk/termsandconditions/business)
+* [Mobile](https://www.o2.co.uk/termsandconditions/mobile)
+* [Other products and services](https://www.o2.co.uk/termsandconditions/other-products-and-services)
+* [Archive](https://www.o2.co.uk/termsandconditions/archive)
+* [Rewards, promotions & competition](https://www.o2.co.uk/termsandconditions/rewards)
+* [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
+
+* * *
+
+* [Terms and conditions](https://www.o2.co.uk/termsandconditions)
+
 * [Find a store](https://stores.o2.co.uk/)
 * [Check our network](https://www.o2.co.uk/coveragechecker)
 * [Sign in to My O2](https://accounts.o2.co.uk/auth)
@@ -603,17 +617,3 @@ Shop
 ©2024 Telefonica UK Limited
 
 In relation to consumer credit, Telefónica UK Limited is authorised and regulated by the Financial Conduct Authority (Reference Number 718822)
-
-Related links
--------------
-
-* [Business](https://www.o2.co.uk/termsandconditions/business)
-* [Mobile](https://www.o2.co.uk/termsandconditions/mobile)
-* [Other products and services](https://www.o2.co.uk/termsandconditions/other-products-and-services)
-* [Archive](https://www.o2.co.uk/termsandconditions/archive)
-* [Rewards, promotions & competition](https://www.o2.co.uk/termsandconditions/rewards)
-* [Finance & Insurance](https://www.o2.co.uk/termsandconditions/finance-and-insurance)
-
-* * *
-
-* [Terms and conditions](https://www.o2.co.uk/termsandconditions)
