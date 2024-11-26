@@ -4,6 +4,7 @@
 * [ChatGPT Online](https://gptonline.ai/chatgpt-online/)
 * [AI Writing Tools](https://gptonline.ai/ai-writing-tools/)
 * [Resource Hub](https://gptonline.ai/resource-hub/)
+* [Top AI Tools](https://gptonline.ai/top-ai-tools/)
 
  ![Search](https://gptonline.ai/wp-content/themes/gpt-online/assets/images/search.svg)
 
