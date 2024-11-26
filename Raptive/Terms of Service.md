@@ -170,10 +170,9 @@ Last Updated: 5/26/23
 * [Contact us](https://raptive.com/contact/)
 
 * [The Raptive Report: AI](https://raptive.com/the-raptive-report-ai/)
-* [Protect Content Creators](https://raptive.com/ai-open-letter/)
+* [Keep it real](https://letskeepitreal.com/)
 * [Remarkable Voices](https://www.remarkable-voices.com/)
 * [Slickstream](https://www.slickstream.com/)
-* [Web Wide Open](https://webwideopen.com/)
 
 © 2024 Raptive.
 
