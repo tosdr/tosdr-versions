@@ -116,7 +116,7 @@ Plaza Manuel Gómez Moreno, s/n
 
 **\- Encargado:**
 
-En las tareas de gestión de las solicitudes de los derechos de los interesados se han detectado [encargados de tratamiento](https://red.es/es/area-prensa/multimedia/anexo-1-derechos-del-interesado).
+En las tareas de gestión de las solicitudes de los derechos de los interesados se han detectado encargados de tratamiento en: gestión del registro de las solicitudes y en el servicio de soporte y mantenimiento de la Oficina Virtual de Red.es.
 
 **\- Delegado de Protección de Datos:**
 
@@ -151,13 +151,13 @@ Secretaría General.
 
 #### Legitimación
 
-Obligación legal.
+RGPD: 6.1.c) El tratamiento es necesario para el cumplimiento de una obligación legal aplicable al responsable del tratamiento. 
 
 * * *
 
 #### Plazo de supresión
 
-10 años a contar desde el 1 enero del año siguiente en que haya finalizado el tramite, siempre y cuando no exista una relación contractual en vigor.
+10 años desde que haya finalizado el trámite, siempre y cuando no exista una relación contractual en vigor.
 
 * * *
 
@@ -175,13 +175,13 @@ No se han detectado.
 
 #### Ejercicio de derechos
 
-Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/) o [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
+Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/%20) 
 
 * * *
 
 #### Categoría destinatarios
 
-Cumplimiento de las obligaciones legales.
+No se prevén cesiones de datos, salvo que sean necesarias para el cumplimiento de una obligación legal.
 
 #### 2\. - Gestión de Usuarios y Servicios Sede Electrónica
 
@@ -194,34 +194,26 @@ Gestión de la relación de los ciudadanos con Red.es a través de los servicios
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
-  
 Plaza Manuel Gómez Moreno, s/n  
-  
-28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+28020 Madrid, email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
-**\- Encargado:**
+**\- Encargado del tratamiento:**
 
-En las tareas de gestión de las solicitudes de los derechos de los interesados se han detectado [encargados de tratamiento](https://red.es/es/area-prensa/multimedia/anexo-2-gestion-de-usuarios-y-servicios-sede-electronica).
+Se han detectado encargados de tratamiento en: la gestión del registro de las solicitudes y en el servicio de soporte y mantenimiento de la Oficina Virtual de Red.es
 
 **\- Delegado de Protección de Datos:**
 
-Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
-
-**\- Tipo:**
-
-Automatizado.
+Email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 * * *
 
 #### Categoría de datos
 
-Nombres y apellidos, documento identificativo, dirección, teléfono y correo electrónico.
-
-* * *
+Nombres y apellidos, fecha de nacimiento, documento identificativo, dirección, teléfono y correo electrónico.
 
 #### Colectivo
 
-* Público.
+* Ciudadanos e interesados.
 
 * * *
 
@@ -233,15 +225,14 @@ Secretaría General/Sistemas.
 
 #### Legitimación
 
-Consentimiento del interesado para el alta de usuarios.
-
-Obligación legal para los servicios: solicitud genérica, recursos administrativos, quejas y sugerencias.
+RGPD:  6.1. a): El interesado dio su consentimiento para el alta de usuarios.  
+RGPD: 6.1.c): El tratamiento es necesario para el cumplimiento de una obligación legal para la prestación de los servicios: solicitud genérica, recursos administrativos, quejas y sugerencias.
 
 * * *
 
 #### Plazo de supresión
 
-10 años tras la ultima interacción realizada por el usuario, o en su caso, 10 años tras la expiración de los procedimientos en que haya estado incurso.
+10 años tras la última interacción realizada por el usuario, o en su caso, 10 años tras la expiración de los procedimientos en que haya estado incurso, o a solicitud de supresión del interesado.
 
 * * *
 
@@ -259,13 +250,17 @@ No se han detectado.
 
 #### Ejercicio de derechos
 
-Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/) o _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/)
+
+#### Tipo de tratamiento
+
+Automatizado
 
 * * *
 
 #### Categoría destinatarios
 
-Cumplimiento de las obligaciones legales.
+No se prevén cesiones de datos, salvo que sean necesarias para el cumplimiento de una obligación legal.
 
 #### 3\. - Control de Acceso
 
@@ -273,83 +268,86 @@ Cumplimiento de las obligaciones legales.
 
 **\- Fines:**
 
-Gestión del control de acceso a las instalaciones de Red.es.
+Gestión del control de acceso a las instalaciones de Red.es; y garantía de la seguridad de las mismas y de las personas que se encuentren en ellas.
 
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
-  
 Plaza Manuel Gómez Moreno, s/n  
-  
-28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+28020 Madrid, email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
-**\- Encargado:**
+**\- Encargado de tratamiento:**
 
-En las tareas de gestión del control de acceso a las instalaciones de Red.es se han detectado [encargados de tratamiento](https://red.es/es/area-prensa/multimedia/anexo-3-control-de-acceso).
+Se ha detectado encargado de tratamiento para el servicio de recepción y control de acceso a las instalaciones de Red.es  
+y para la gestión del control de acceso a la Sala del CPD de Red.es
 
 **\- Delegado de Protección de Datos:**
 
-Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
-
-**\- Tipo:**
-
-Automatizado.
+Email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 * * *
 
 #### Categoría de datos
 
-Nombres y apellidos, documento identificativo.
-
-Información profesional (empresa).
+Datos identificativos: nombre, apellidos, documento identificativo, imagen, e-mail, detalles de empleo (compañía/empresa), información comercial.
 
 * * *
 
 #### Colectivo
 
+* Empleados.
+* Personal externo autorizado.
 * Público.
 
 * * *
 
 #### Departamento implicado
 
-Servicios Generales.
+Dirección de Dominios, Sistemas y DTK/Administración y Finanzas
 
 * * *
 
 #### Legitimación
 
-Interés legitimo.
+RGPD: 6.1.d) El tratamiento es necesario para proteger intereses vitales de la persona interesada o de otra persona física.
+
+RGPD: 6.1.e) Tratamiento necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento.
+
+RGPD: 9.2.g) El tratamiento es necesario por razones de un interés público esencial.
 
 * * *
 
 #### Plazo de supresión
 
-15 días.
+1 mes
 
 * * *
 
 #### Medidas de seguridad
 
-Las medidas de seguridad implantadas se corresponden con las previstas en el Anexo II (Medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad, y los controles de seguridad del Sistema de Gestión de la Seguridad de la Información basado en la Norma UNE-EN ISO/IEC 27001.
+Las medidas de seguridad implantadas se corresponden con las previstas en el Anexo II (Medidas de seguridad) del Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica, y de forma adicional se han implementado los controles de seguridad del Sistema de Gestión de la Seguridad de la Información basado en la Norma UNE-EN ISO/IEC 27001.
 
 * * *
 
 #### Transferencias Internacionales
 
-No se han detectado.
+No están previstas transferencias internacionales los datos personales.
 
 * * *
 
 #### Ejercicio de derechos
 
-Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/) o _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/)
 
 * * *
 
+#### Tipo de tratamiento:
+
+Mixto
+
 #### Categoría destinatarios
 
-Cumplimiento de las obligaciones legales.
+Sus datos podrán ser cedidos a las Fuerzas y Cuerpos de Seguridad del Estado
 
 #### 4\. - Videovigilancia
 
@@ -362,18 +360,16 @@ Videovigilancia del centro de procesado de datos y almacén.
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
-  
 Plaza Manuel Gómez Moreno, s/n  
-  
-28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+28020 Madrid, email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
-**\- Encargado:**
+**\- Encargado de tratamiento:**
 
-En las tareas de gestión de los datos de videovigilancia se han detectado [encargados de tratamiento](https://red.es/es/area-prensa/multimedia/anexo-4-videovigilancia).
+Se han detectado encargado de tratamiento en la gestión de las grabaciones de las cámaras del CPD y del almacén.
 
 **\- Delegado de Protección de Datos:**
 
-Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+Email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 **\- Tipo:**
 
@@ -402,7 +398,7 @@ Servicios generales / Sistemas.
 
 #### Legitimación
 
-Interés legitimo.
+RGPD: 6.1. f): el tratamiento es necesario para la satisfacción de interés legítimo del responsable del tratamiento.
 
 * * *
 
@@ -426,13 +422,11 @@ No se han detectado.
 
 #### Ejercicio de derechos
 
-Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/) o _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
-
-* * *
+Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/%20) 
 
 #### Categoría destinatarios
 
-Cumplimiento de las obligaciones legales.
+No se prevén cesiones de datos, salvo que sean necesarias para el cumplimiento de una obligación legal.
 
 #### 5\. - Gestión de empleados
 
@@ -440,25 +434,21 @@ Cumplimiento de las obligaciones legales.
 
 **\- Fines:**
 
-Gestión de los tramites relacionados con los empleados: Entre otros:
-
-Gestión de nóminas, Procesos de promoción (cobertura interna de vacantes y procedimiento cambio de nivel), Acción Social, Seguro Privado de Asistencia Medica, Formación, Registro de Jornada).
+Gestión de nóminas, tickets comida, contratación, carrera profesional, permisos, formación, registro horario, acción social, seguro médico privado, prevención de riesgos laborales.
 
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
-  
 Plaza Manuel Gómez Moreno,  
-  
-28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+28020 Madrid, email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 **\- Encargado:**
 
-En las tareas de gestión de las solicitudes de los derechos de los interesados se han detectado [encargados de tratamiento](https://red.es/es/area-prensa/multimedia/anexo-5-gestion-de-empleados).
+Adjudicatarios de servicios de: gestión del acceso de empleados en los sistemas de información; seguro médico privado; idiomas y cursos de formación; tickets comida; asistencias técnicas en materia de recursos humanos).
 
 **\- Delegado de Protección de Datos:**
 
-Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+Email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 **\- Tipo:**
 
@@ -468,44 +458,33 @@ Mixto.
 
 #### Categoría de datos
 
-Nombres y apellidos, documento identificativo, dirección, teléfono y correo electrónico (y su contenido).
-
-Datos del patrón de reconocimiento en el fichaje.
-
-Datos legales y de empleo. Titular de la linea (servicios de telefonía e internet).
-
-Hábitos de vida y situación familiar. Datos de conexión.
-
-Información profesional. Número de la seguridad social.
-
-Número de cuenta bancaria.
+Datos identificativos, académicos, profesionales y económicos.
 
 * * *
 
 #### Colectivo
 
-* Empleados.
-* Titular de linea diferente al empleado (servicios de telefonía e internet).
+* Empleados y becarios.
 
 * * *
 
 #### Departamento implicado
 
-Subdirección de Capital Humano / Dirección de Administración y Finanzas (solo gestión de nominas).
+Subdirección Adjunta de Capital Humano / Dirección de Administración y Finanzas (nóminas, prevención de riesgos y tickets comida) / Dirección de Dominios, Sistemas y Kit Digital (altas a través de JIRA y desarrollo SAP).
 
 * * *
 
 #### Legitimación
 
-Contrato del empleado.
-
-Interés legitimo para el titular de linea (servicios de telefonía e internet).
+RGPD: 6.1. b): el tratamiento es necesario para la ejecución del contrato del empleado.  
+RGPD: 6.1. c): el tratamiento es necesario para el cumplimiento de una obligación legal.  
+RGPD: 6.1. f): el tratamiento es necesario para la satisfacción de interés legítimo del responsable del tratamiento.
 
 * * *
 
 #### Plazo de supresión
 
-6 años a partir del 1 de enero siguiente a la baja del empleado, salvo los datos personales referidos en justificantes de ausencias autorizadas, consultas médicas o en cualquier tipo de justificante, que se destruirán/eliminarán a los 3 años contados desde el 1 de enero siguiente a la presentación.
+5 años a partir del día siguiente a la baja del empleado.
 
 * * *
 
@@ -523,13 +502,13 @@ No se han detectado.
 
 #### Ejercicio de derechos
 
-Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/) o _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es):   [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 * * *
 
 #### Categoría destinatarios
 
-Cumplimiento de las obligaciones legales.
+No se prevén cesiones de datos, salvo que sean necesarias para el cumplimiento de una obligación legal
 
 #### 6\. - Selección de personal
 
@@ -537,23 +516,21 @@ Cumplimiento de las obligaciones legales.
 
 **\- Fines:**
 
-Selección a través de Convocatorias de Empleo Publico.
+Selección de personal a través de Convocatorias de Empleo Público y selección de becarios.
 
 **\- Responsable:**
 
 Red.es: Edificio Bronce  
-  
 Plaza Manuel Gómez Moreno, s/n  
-  
-28020 Madrid, email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+28020 Madrid, email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 **\- Encargado:**
 
-Se usan con carácter puntual para la realización de procesos de selección concretos, encargados de tratamiento según las características del proceso del que se trate, con los que siempre se firma un contrato de encargo para tratamiento de los datos que se deriven. El listado actualizado de encargados de tratamiento es gestionado por el departamento de capital humano.
+En las tareas de gestión de las solicitudes de los derechos de los interesados se han detectado adjudicatarios de los servicios de apoyo a la selección de personal. 
 
 **\- Delegado de Protección de Datos:**
 
-Email: _[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+Email: [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 **\- Tipo:**
 
@@ -563,33 +540,31 @@ Mixto.
 
 #### Categoría de datos
 
-Nombres y apellidos, documento identificativo, dirección, teléfono y correo electrónico.
-
-Hábitos de vida y situación familiar. Información profesional. 
+Interesados externos (candidatos de empleo y estudiantes).
 
 * * *
 
 #### Colectivo
 
-* Interesados externos (Candidatos de empleo).
+* Interesados externos (candidatos de empleo y estudiantes).
 
 * * *
 
 #### Departamento implicado
 
-Capital Humano.
+Subdirección Adjunta de Capital Humano.
 
 * * *
 
 #### Legitimación
 
-Puesto que no son vacantes genéricas o candidaturas espontáneas, sino que es un procedimiento para cubrir plazas determinadas: el tratamiento es necesario para la ejecución de un contrato en el que el interesado es parte o para la aplicación a petición de este de medidas precontractuales.
+RGPD: 6.1. a): Consentimiento del interesado.
 
 * * *
 
 #### Plazo de supresión
 
-3 años tras finalizar el proceso de selección de los interesados externos.
+2 años tras finalizar el proceso de selección de los interesados externos.
 
 * * *
 
@@ -607,13 +582,13 @@ No se han detectado.
 
 #### Ejercicio de derechos
 
-Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [https://sede.red.gob.es/](https://sede.red.gob.es/)o_[protecciondedatos@red.es](mailto:protecciondedatos@red.es)_
+Podrá ejercer los derechos de acceso, rectificación, supresión y portabilidad de sus datos, y la limitación u oposición a su tratamiento, a través de la cumplimentación de un formulario disponible en la sede electrónica de Red.es y dirigido al Responsable del Tratamiento (Red.es): [_protecciondedatos@red.es_](mailto:protecciondedatos@red.es)
 
 * * *
 
 #### Categoría destinatarios
 
-Cumplimiento de las obligaciones legales.
+No se prevén cesiones de datos, salvo que sean necesarias para el cumplimiento de una obligación legal.
 
 #### 7\. - Acceso a sistemas de Red.es para el personal externo
 
@@ -1379,9 +1354,8 @@ Gestión de los datos de la prestación de los servicios de RedIRIS.
 
 **\- Responsable:**
 
-[Instituciones afiliadas](https://www.rediris.es/rediris/instituciones/lista.php)
-
-[Instituciones dadas de alta por servicio](https://red.es/es/area-prensa/multimedia/anexo-17-prestacion-servicios-rediris-0)
+Instituciones afiliadas  
+Instituciones dadas de alta por servicio
 
 **\- Encargado:**
 
@@ -1391,7 +1365,7 @@ Plaza Manuel Gómez Moreno, s/n
 
 **\- Subencargados:**
 
-En algunos servicios participan distintos [subencargados de tratamiento](https://red.es/es/area-prensa/multimedia/anexo-17-prestacion-servicios-rediris-0)
+En algunos servicios participan distintos subencargados de tratamiento
 
 **\- Delegado de Protección de Datos:**
 
@@ -1634,7 +1608,7 @@ Gestión y ejecución de los Proyectos de Sanidad y Servicios Sociales
 
 **\- Responsable:**
 
-[Organismos que participan en los proyectos de sanidad](https://red.es/es/area-prensa/multimedia/anexo-20-organismos-proyectos-sanidad).
+Organismos que participan en los proyectos de sanidad.
 
 **\- Encargado:**
 
@@ -1644,7 +1618,7 @@ Plaza Manuel Gómez Moreno, s/n
 
 **\- Subencargados:**
 
-En cada uno de los proyectos participan distintos proveedores de servicios que son [subencargados de tratamiento](https://red.es/es/area-prensa/multimedia/anexo-20-subencargados-y-categoria-de-datos-proyectos-sanidad).
+En cada uno de los proyectos participan distintos proveedores de servicios que son subencargados de tratamiento.
 
 **\- Delegado de Protección de Datos:**
 
@@ -1683,7 +1657,7 @@ RGPD: 6.1. e): Cumplimiento de una misión realizada en interés público o en e
 
 #### Plazo de supresión
 
-6 años desde la finalización y entrega del proyecto..
+6 años desde la finalización y entrega del proyecto.
 
 * * *
 
@@ -1719,7 +1693,7 @@ Gestión de los Proyectos de Educación.
 
 **\- Responsable:**
 
-[Organismos que participan en los proyectos de educación](https://red.es/es/area-prensa/multimedia/anexo-21-organismos-proyectos-educacion).
+Organismos que participan en los proyectos de educación.
 
 **\- Encargado:**
 
@@ -1729,7 +1703,7 @@ Plaza Manuel Gómez Moreno, s/n
 
 **\- Subencargados:**
 
-En cada uno de los proyectos participan distintos proveedores de servicios que son [subencargados de tratamiento](https://red.es/es/area-prensa/multimedia/anexo-21-subencargados-y-categoria-de-datos-proyectos-educacion).
+En cada uno de los proyectos participan distintos proveedores de servicios que son subencargados de tratamiento.
 
 **\- Delegado de Protección de Datos:**
 
