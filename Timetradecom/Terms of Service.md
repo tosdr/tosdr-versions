@@ -4,7 +4,7 @@ class="agentbot"
 
 * Platform
     
-    * [Virtual and Human Agents & Digital Communications Automate customer service and sales with omnichannel solutions.](https://engageware.com/conversational-ai/)
+    * [Virtual/Human Agents & Digital Communications Automate customer service and sales with omnichannel solutions.](https://engageware.com/conversational-ai/)
     * [Knowledge Management Enhance efficiency with content that is easy to find, follow, and use for employees and customers.](https://engageware.com/knowledge-management/)
     * [Appointment Scheduling Convert opportunities into revenue with efficient scheduling.](https://engageware.com/appointment-scheduling/)
     
@@ -33,7 +33,7 @@ class="agentbot"
     * [Overview](https://engageware.com/company/)
     * [Management](https://engageware.com/company/management/)
     * [Partners](https://engageware.com/partners/)
-    * [Security](https://engageware.com/security/)
+    * [Security](https://engageware.com/security)
     * [Careers](https://engageware.com/company/careers/)
     * [News & Press](https://engageware.com/company/news/)
     * [Contact Us](https://engageware.com/company/contact-us/)
