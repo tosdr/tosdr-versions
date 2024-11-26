@@ -24,11 +24,17 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/2SjhDei)
-
-[](https://amzn.to/2R8xkYn)
-
 [](https://amzn.to/3KZMtFM)
+
+[](https://drawabox.com/rec/zapata/shading)
+
+USE CODE BLACK20
+
+FOR 20% OFF
+
+SALE ENDS November 29th
+
+[](https://amzn.to/3KUTasJ)
 
 [](https://amzn.to/4cDKBhz)
 
