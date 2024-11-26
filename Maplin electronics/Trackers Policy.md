@@ -849,6 +849,7 @@ Browse
         * [Everyday Deals](https://www.maplin.co.uk/pages/black-friday)
         * [25% off Maplin Batteries](https://www.maplin.co.uk/collections/maplin-batteries-deals)
         * [Extra 5% off Maplin Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+        * [10% off 4lite Lighting](https://www.maplin.co.uk/collections/4lite-deals)
         * [15% off Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys-deals)
         * [Up to £50 off Security Tech](https://www.maplin.co.uk/collections/security-deals)
         * [Up to 30% off OtterBox](https://www.maplin.co.uk/collections/otterbox-deals)
@@ -1678,6 +1679,7 @@ Browse
     
     * [25% off Maplin Batteries](https://www.maplin.co.uk/collections/maplin-batteries-deals)
     * [Extra 5% off Maplin Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+    * [10% off 4lite Lighting](https://www.maplin.co.uk/collections/4lite-deals)
     * [15% off Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys-deals)
     * [Up to £50 off Security Tech](https://www.maplin.co.uk/collections/security-deals)
     * [Up to 30% off OtterBox](https://www.maplin.co.uk/collections/otterbox-deals)
