@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is wandering a common sign of memory care facility neglect?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-is-wandering-a-common-sign-of-memory-care-facility-neglect-300x200.jpg "Is Wandering a Common Sign of Memory Care Facility Neglect?")](https://www.pintas.com/faq/is-wandering-a-common-sign-of-memory-care-facility-neglect/ "Is Wandering a Common Sign of Memory Care Facility Neglect?")
+[![When was the first case of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-when-was-the-first-case-of-mesothelioma.jpg "When Was the First Case of Mesothelioma?")](https://www.pintas.com/lung-cancer/when-was-the-first-case-of-mesothelioma/ "When Was the First Case of Mesothelioma?")
 
-[#### Is Wandering a Common Sign of Memory Care Facility Neglect?](https://www.pintas.com/faq/is-wandering-a-common-sign-of-memory-care-facility-neglect/)
+[#### When Was the First Case of Mesothelioma?](https://www.pintas.com/lung-cancer/when-was-the-first-case-of-mesothelioma/)
 
-[![Lung cancer basics](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-lung-cancer-basics.jpg "Lung Cancer Basics")](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics "Lung Cancer Basics")
+[![Is malnutrition common in seniors with dementia?](https://www.pintas.com/wp-content/uploads/2021/03/elderly-woman-with-a-memory-problem-300x169.jpg "Is Malnutrition Common in Seniors with Dementia?")](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/ "Is Malnutrition Common in Seniors with Dementia?")
 
-[#### Lung Cancer Basics](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics)
+[#### Is Malnutrition Common in Seniors with Dementia?](https://www.pintas.com/faq/is-malnutrition-common-in-seniors-with-dementia/)
 
-[![Is lung cancer always terminal?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-is-lung-cancer-always-terminal-1.jpg "Is Lung Cancer Always Terminal?")](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/ "Is Lung Cancer Always Terminal?")
+[![How long can lung cancer go untreated?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-how-long-can-lung-cancer-go-untreated.jpg "How Long Can Lung Cancer Go Untreated?")](https://www.pintas.com/practice-areas/lung-cancer/how-long-can-cancer-go-untreated "How Long Can Lung Cancer Go Untreated?")
 
-[#### Is Lung Cancer Always Terminal?](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/)
+[#### How Long Can Lung Cancer Go Untreated?](https://www.pintas.com/practice-areas/lung-cancer/how-long-can-cancer-go-untreated)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
