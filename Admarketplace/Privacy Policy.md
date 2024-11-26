@@ -1,6 +1,6 @@
 [![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64fae83a665953d8193077f4_logo-blue1.svg)](https://www.admarketplace.com/)
 
-[Advertisers](https://www.admarketplace.com/advertisers)[Publishers](https://www.admarketplace.com/publishers)[Solutions](https://www.admarketplace.com/solutions)
+[Advertisers](https://www.admarketplace.com/advertisers)[Publishers](https://www.admarketplace.com/publishers)[Solutions](https://www.admarketplace.com/solutions)[Antitrust](https://www.admarketplace.com/antitrust)
 
 Resources
 
