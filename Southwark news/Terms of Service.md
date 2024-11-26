@@ -229,17 +229,17 @@ Terms of Use
 
 [24th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
-[![Police were called to Lanercost Road following reports of a stabbing. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-Lanercost-Road-following-reports-of-a-stabbing.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-
-### [Boy, 14, stabbed in South London](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-
-[23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-
 [![Jake Cooper has every league game he's been healthy for this season.](https://southwarknews.co.uk/wp-content/uploads/2024/11/J-Cooper-55545-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
 
 ### [Millwall boss confirms Jake Cooper is out for ten weeks](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
 
 [23rd November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
+
+[![Police were called to Lanercost Road following reports of a stabbing. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-Lanercost-Road-following-reports-of-a-stabbing.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
+
+### [Boy, 14, stabbed in South London](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
+
+[23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
 
 ### Featured Articles
 
