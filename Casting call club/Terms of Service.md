@@ -49,6 +49,8 @@ EFFECTIVE DATE: May 28th, 2015
 
 6.3 CCC may access, preserve, and/or disclose your account information, and/or User Submissions if required to do so by law, or in a good faith belief that such access, preservation, or disclosure is reasonably necessary to (a) comply with legal process, (b) enforce the Terms; (c) respond to claims that any User Submissions violates the rights of third parties, (d) respond to your requests for customer services, or (e) protect the rights, property, or personal safely of the CCC, its users, and/or the public.
 
+6.4 CCC has not and will not use User Submissions for AI training purposes.
+
 7\. PROHIBTED CONTENT
 
 7.1 You must not post to the Services any User Submissions that, as reasonably determined by CCC, is or appears to be the following:
@@ -60,6 +62,10 @@ EFFECTIVE DATE: May 28th, 2015
 8.1 You must not do, or attempt to do, any of the following, as reasonably determined by CCC, subject to applicable law:
 
 (i) access or use the Services in any way that is not in compliance with any applicable local, state, national or international law (including export laws), contracts, intellectual property rights or constitutes the commission of a tort, or for any purpose that is harmful or unintended (by us), or other than in full compliance with these Terms; (ii) access, tamper with, or use services or areas of the Services that you are not authorized to access; (iii) alter information on or obtained from the Services; (iv) tamper with postings, registration information, profiles or other User Submissions belonging to CCC or other users of CCC; (v) use any robot, spider, scraper or other automated means or interface not provided by us to access the Services or extract data or gather or use information, such as email addresses, available from the Services or transmit any unsolicited advertising, "junk mail," "spam," or "chain letters"; (vi) frame any part of the Services, or link to the Services, or otherwise make it look like you have a relationship to us or that we have endorsed you or your User Submissions for any purpose except as expressly permitted in writing by CCC; (vii) impersonate or misrepresent your affiliation with any person or entity; (viii) reverse engineer any licensed software, application or any other aspect of the Services or do anything that might discover source code, or bypass or circumvent measures employed to prevent limit access to any area, content or code of the Services; (ix) send to or otherwise impact us or the Services (or anything or anyone else) with harmful, illegal, deceptive or disruptive code such as a virus, "spyware," "adware" or other code that could adversely impact the Services or any recipient; or (x) take any action which might impose a significant burden (as determined by us) on the Services' infrastructure or computer systems, or otherwise interfere with the ordinary operation of the Service.
+
+7.2 Projects designed to harvest data for AI training are not allowed.
+
+7.3 NSFW projects are allowed on CCC, but they will not be listed publicly. NSFW Content is not allowed.
 
 8.2 IF YOU SEND UNSOLICITED COMMERCIAL EMAIL OR ADVERTISING, BULK EMAIL, SPAM, OR CHAIN LETTERS (COLLECTIVELY, "UNSOLICITED EMAIL OR OTHER COMMUNICATION") THROUGH THE SERVICE, YOU ACKNOWLEDGE THAT YOU WILL HAVE CAUSED SUBSTANTIAL HARM TO CCC, BUT THAT THE AMOUNT OF THE HARM WOULD BE EXTREMELY DIFFICULT TO ASCERTAIN. AS A REASONABLE ESTIMATION OF SUCH HARM, YOU WILL PAY LICENSOR $50 FOR EACH SUCH UNSOLICITED EMAIL OR OTHER COMMUNICATION.
 
