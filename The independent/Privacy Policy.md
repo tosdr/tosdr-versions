@@ -27,6 +27,7 @@ Menu
     * [UK Politics](https://www.independent.co.uk/news/uk/politics)
     * [Health](https://www.independent.co.uk/news/health)
     * [Business](https://www.independent.co.uk/news/business)
+    * [Money](https://www.independent.co.uk/money)
     * [Science](https://www.independent.co.uk/news/science)
     * [Space](https://www.independent.co.uk/space)
     * [News Videos](https://www.independent.co.uk/tv/us-news)
@@ -61,7 +62,6 @@ Menu
 * [Lifestyle](https://www.independent.co.uk/life-style)
     * [Lifestyle](https://www.independent.co.uk/life-style)
     * [Tech](https://www.independent.co.uk/tech)
-    * [Money](https://www.independent.co.uk/money)
     * [Food & Drink](https://www.independent.co.uk/life-style/food-and-drink)
     * [Fashion](https://www.independent.co.uk/life-style/fashion)
     * [Love & Sex](https://www.independent.co.uk/life-style/love-sex)
@@ -612,7 +612,6 @@ We may make changes to this policy at any time, and where necessary we will info
     * [Independent Urdu](https://www.independenturdu.com/)
     * [The Standard](https://www.standard.co.uk/)
 * [Extras](https://www.independent.co.uk/)
-    * [Advisor](https://www.independent.co.uk/advisor)
     * [Puzzles](https://puzzles.independent.co.uk/)
     * [All topics](https://www.independent.co.uk/topics-list)
     * [Betting Offers](https://www.independent.co.uk/sport/free-bets-b2581138.html)
@@ -630,7 +629,7 @@ We may make changes to this policy at any time, and where necessary we will info
     * [Privacy policy](https://www.independent.co.uk/service/privacy-notice-a6184181.html)
     * 
     * [User policies](https://www.independent.co.uk/service/user-policies-a6184151.html)
-    * [Modern Slavery Statement](https://www.independent.co.uk/static-assets/IND-Modern-Slavery-Statement-22-23.pdf)
+    * [Modern Slavery Statement](https://static.independent.co.uk/static-assets/IND-Modern-Slavery-Statement-22-23.pdf)
 
 ### Thank you for registering
 
