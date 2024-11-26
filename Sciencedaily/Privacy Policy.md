@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Uranus's Swaying Moons and Hidden Oceans](https://www.sciencedaily.com/releases/2024/11/241125163025.htm)
+* [Uranus and Neptune: What Lies Beneath?](https://www.sciencedaily.com/releases/2024/11/241125162951.htm)
+* [Realistic Satellite Images of Future Flooding](https://www.sciencedaily.com/releases/2024/11/241125124937.htm)
+* [Pathogenic Pandrug-Resistant Bacteria in Ukraine](https://www.sciencedaily.com/releases/2024/11/241125124920.htm)
 * [Prehistoric Elks Painted On Rock: Sounds Too](https://www.sciencedaily.com/releases/2024/11/241125125648.htm)
 * [Focaccia: A Neolithic Culinary Tradition](https://www.sciencedaily.com/releases/2024/11/241125125151.htm)
 * [Bats' Amazing Plan B for When They Can't Hear](https://www.sciencedaily.com/releases/2024/11/241125125118.htm)
 * [Stellar Evolution During the Early Universe](https://www.sciencedaily.com/releases/2024/11/241125124843.htm)
 * [Most Energetic Cosmic-Ray Electrons, Positrons](https://www.sciencedaily.com/releases/2024/11/241125124728.htm)
 * [Ancient Hot Water On Mars: Habitable Past?](https://www.sciencedaily.com/releases/2024/11/241122160756.htm)
-* [Listening for Early Signs of Alzheimer's](https://www.sciencedaily.com/releases/2024/11/241120122700.htm)
-* [Finding a Solution to Insecticide Resistance](https://www.sciencedaily.com/releases/2024/11/241122172740.htm)
-* [Earliest Fish-Trapping Facility: Maya Lowlands](https://www.sciencedaily.com/releases/2024/11/241122160753.htm)
-* [Wolves as Pollinators, Feeding On Nectar](https://www.sciencedaily.com/releases/2024/11/241120122020.htm)
 
 Trending Topics
 ---------------
@@ -230,15 +230,15 @@ this week
 
 [Dementia](https://www.sciencedaily.com/news/mind_brain/dementia/)
 
-[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
-[Psychology Research](https://www.sciencedaily.com/news/health_medicine/psychology/)
+[Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Information Technology](https://www.sciencedaily.com/news/computers_math/information_technology/)
 
-[Thermodynamics](https://www.sciencedaily.com/news/matter_energy/thermodynamics/)
+[Neural Interfaces](https://www.sciencedaily.com/news/computers_math/neural_interfaces/)
 
 [Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
 
