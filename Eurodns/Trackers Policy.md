@@ -32,7 +32,7 @@ SUPPORT
 
 [![Brand](/assets/images/logos-companies/eurodns-logo-blue.svg)](https://www.eurodns.com/)
 
-* [DOMAIN NAMES](https://www.eurodns.com/domain-name-search)
+* [DOMAINS](https://www.eurodns.com/domain-name-search)
 * [WEB SECURITY](https://www.eurodns.com/web-security-suite)New
 * [WORDPRESS](https://www.eurodns.com/managed-wordpress-hosting)
 * [WEB HOSTING](https://www.eurodns.com/plesk-web-hosting)
@@ -40,6 +40,7 @@ SUPPORT
 * [SSL](https://www.eurodns.com/ssl-certificate)
 * [EMAIL](https://www.eurodns.com/email-cloud-suite)
 * [DNS](https://www.eurodns.com/dns-services)
+* [BLACK FRIDAY](https://www.eurodns.com/sale/black-friday-cyber-monday)Sale
 
 * [MY ACCOUNT](https://my.eurodns.com/login)
 * [HELP](https://help.eurodns.com/)
