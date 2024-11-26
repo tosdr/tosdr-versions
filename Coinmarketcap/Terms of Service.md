@@ -8,7 +8,7 @@ Cryptocurrencies
 
 Leaderboards
 
-[Trending](https://coinmarketcap.com/trending-cryptocurrencies/)[Upcoming](https://coinmarketcap.com/upcoming/)[Recently Added](https://coinmarketcap.com/new/)[Gainers & Losers](https://coinmarketcap.com/gainers-losers/)[Most Visited](https://coinmarketcap.com/most-viewed-pages/)[Chain Ranking](https://coinmarketcap.com/chain-ranking/)
+[Trending](https://coinmarketcap.com/trending-cryptocurrencies/)[Upcoming](https://coinmarketcap.com/upcoming/)[Recently Added](https://coinmarketcap.com/new/)[Gainers & Losers](https://coinmarketcap.com/gainers-losers/)[Most Visited](https://coinmarketcap.com/most-viewed-pages/)[Community Sentiment](https://coinmarketcap.com/sentiment/)[Chain Ranking](https://coinmarketcap.com/chain-ranking/)
 
 NFT
 
@@ -60,25 +60,25 @@ Exchanges: [762](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$3.25T](https://coinmarketcap.com/charts/)
+[$3.16T](https://coinmarketcap.com/charts/)
 
-3.02%
+5.65%
 
 24h Vol: 
 
-[$238.06B](https://coinmarketcap.com/charts/)
+[$258.38B](https://coinmarketcap.com/charts/)
 
-20.13%
+34.06%
 
-Dominance: [BTC: 57.5% ETH: 12.6%](https://coinmarketcap.com/charts/bitcoin-dominance/)
+Dominance: [BTC: 57.9% ETH: 12.7%](https://coinmarketcap.com/charts/bitcoin-dominance/)
 
  ETH Gas: 
 
-7.34 Gwei
+17.33 Gwei
 
  Fear & Greed: 
 
-[83/100](https://coinmarketcap.com/charts/fear-and-greed-index/)
+[80/100](https://coinmarketcap.com/charts/fear-and-greed-index/)
 
 CoinMarketCap.com Terms of Use
 ==============================
@@ -404,10 +404,6 @@ To the extent as permitted by applicable law, the Company reserves the right at 
 9. withhold or cease the awarding of Diamonds to you.
 
 without prior notice to you and at its sole discretion.
-
-English
-
-USD
 
 Products
 
