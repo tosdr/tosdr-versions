@@ -306,6 +306,6 @@ The AO3 [Terms of Service](https://archiveofourown.org/tos), including the [Cont
     * [Technical Support & Feedback](https://archiveofourown.org/support)
 * #### Development
     
-    * [otwarchive v0.9.382.6}](https://github.com/otwcode/otwarchive/commits/v0.9.382.6%7D)
+    * [otwarchive v0.9.383.1](https://github.com/otwcode/otwarchive/commits/v0.9.383.1)
     * [Known Issues](https://archiveofourown.org/known_issues)
     * [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "View License") by the [OTW](https://transformativeworks.org/ "Organization for Transformative Works")
