@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/wereldwijde-dierensterfte-wat-is-hier-aan-de-hand/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/stop-met-die-vaccinaties/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
