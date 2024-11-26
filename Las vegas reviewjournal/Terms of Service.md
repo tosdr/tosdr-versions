@@ -4,9 +4,9 @@
 
 ![Las Vegas News](https://www.reviewjournal.com/wp-content/uploads/2020/07/rj_logo_black2.png)](https://www.reviewjournal.com/ "Las Vegas News")
 
-[![Las Vegas News](https://www.reviewjournal.com/wp-content/uploads/2021/09/skyline_w_logo_3.jpg)
+[![Las Vegas News](https://www.reviewjournal.com/wp-content/uploads/2024/11/skyline_w_logo_4.png)
 
-![Las Vegas News](https://www.reviewjournal.com/wp-content/uploads/2021/09/skyline_w_logo_3.jpg)](https://www.reviewjournal.com/ "Las Vegas News")
+![Las Vegas News](https://www.reviewjournal.com/wp-content/uploads/2024/11/skyline_w_logo_4.png)](https://www.reviewjournal.com/ "Las Vegas News")
 
 [RJESPAÑOL](https://espanol.reviewjournal.com/?utm_campaign=RJ_Cross_Traffic&utm_source=Main_Nav_Link&utm_medium=NavLink) [VIEW E-EDITION](https://eedition.reviewjournal.com/html5/reader/production/default.aspx?pubname=&pubid=139ee3b9-eb9c-430e-a300-9ce1f1a0636c&utm_campaign=eedition&utm_medium=top_menu&utm_source=lvrj)
 
@@ -22,7 +22,7 @@ Hi
 
 [SIGN OUT](#)
 
-[41°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
+[52°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
 
 * [News](https://www.reviewjournal.com/news/)
 * [Local](https://www.reviewjournal.com/local/)
@@ -39,7 +39,7 @@ Hi
 
 [](#)
 
-41°F
+52°F
 
 ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png) Cloudy
 
