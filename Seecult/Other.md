@@ -255,18 +255,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.cd-cc.si/kultura/razstave](https://www.cd-cc.si/kultura/razstave)
     
-    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
-    
-    **19.09.2024 | 10:00**
-    
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
-    
-    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
-    
-    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
-    
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
     [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
@@ -281,6 +269,18 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    
+    **19.09.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
     [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
     
     **20.09.2024 | 10:00**
@@ -290,18 +290,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     **[SLIKARSKA ZBIRKA MUZEJA ZA UMETNOST IN OBRT, ZAGREB](https://www.ng-slo.si/si/razstave-in-projekti/razstava/slikarska-zbirka-muzeja-za-umetnost-in-obrt-zagreb?id=5859)** - razstava (19.9.2024.-9.2.2025.)
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
-    [10:00 Nika Erjavec, LJ](javascript:void(0);)
-    
-    **20.09.2024 | 10:00**
-    
-    Muzej sodobne umetnosti Metelkova, +MSUM, Maistrova 3, Ljubljana
-    
-    **NIKA ERJAVEC** (1994): **(NE)STVARNOST, 2024** - intermedijska instalacija (19.9.-25.11.2024.)
-    
-    Kustosinja razstave: Ana Mizerit
-    
-    [https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarno...](https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarnost-2024)
     
     [16:00 Ričard Dikon, BG](javascript:void(0);)
     
@@ -315,14 +303,22 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://dotsgallery.org/rs](https://dotsgallery.org/rs)
     
+    [10:00 Marie Hué, BG](javascript:void(0);)
+    
+    **25.09.2024 | 10:00**
+    
+    Klub književnika, Francuska 7, Beograd
+    
+    **MARIE HU****É** (Francuska): **FRAGILITIES** - izložba (24.9.-20.12.2024.)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/untitled-21.jpg?itok=uO-Uq9U0)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno/tool-kraj.jpg?itok=-Wmmh6X2)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/radovi-razno)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pokondirena-tikva.jpg?itok=7VXexiaH)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/54-oktobarski-salon/milijana-babic-trazim-posao.jpg?itok=-EjNvbMx)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/54-oktobarski-salon)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -338,16 +334,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Prednosti kreativnog mentorstva](http://seecult.org/vest/prednosti-kreativnog-mentorstva)
+* [Nikiti Zdravkoviću nagrada Veruj u sebe](http://seecult.org/vest/nikiti-zdravkovicu-nagrada-veruj-u-sebe)
+* [Univerzalna vrednost u opasnosti](http://seecult.org/vest/univerzalna-vrednost-u-opasnosti)
+* [Škola kao ogledalo društva](http://seecult.org/vest/skola-kao-ogledalo-drustva)
+* [U odbranu slobode izražavanja](http://seecult.org/vest/u-odbranu-slobode-izrazavanja)
 * [Uručenje nagrada UDUS-a](http://seecult.org/vest/urucenje-nagrada-udus)
 * [Voda kao metafora za transformaciju i obnovu](http://seecult.org/vest/voda-kao-metafora-za-transformaciju-i-obnovu)
 * [Decenija Pančevo film festivala](http://seecult.org/vest/decenija-pancevo-film-festivala)
 * [Srpski manastiri na Kosovu u sedištu Uneska](http://seecult.org/vest/srpski-manastiri-na-kosovu-u-sedistu-uneska)
 * [Bitno je šta vaše oči vide](http://seecult.org/vest/bitno-je-sta-vase-oci-vide)
-* [37\. Fashion Selection - od veterana do mladih dizajnera](http://seecult.org/vest/37-fashion-selection-od-veterana-do-mladih-dizajnera)
-* [Uručene specijalne nagrade FAF-a, omaž Paradžanovu](http://seecult.org/vest/urucene-specijalne-nagrade-faf-omaz-paradzanovu)
-* [Svečano otvoren 30. FAF - drugačiji pogled na svet](http://seecult.org/vest/svecano-otvoren-30-faf-drugaciji-pogled-na-svet)
-* [Upozorenje ICOMOS-a povodom nasleđa 20. veka u Beogradu](http://seecult.org/vest/upozorenje-icomos-povodom-nasleda-20-veka-u-beogradu)
-* [Nagrade, izložba i premijera Pučinija za Dan Narodnog pozorišta](http://seecult.org/vest/nagrade-izlozba-i-premijera-pucinija-za-dan-narodnog-pozorista)
 
 * [Konkursi](#tab1_1)
 
