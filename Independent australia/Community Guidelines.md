@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Alan Jones’ touching story](https://independentaustralia.net/article-display/alan-jones-touching-story,19199 "Permanent Link : Alan Jones’ touching story")
+* [Sustainable transport key to achieving Asia-Pacific development](https://independentaustralia.net/article-display/sustainable-transport-key-to-achieving-asia-pacific-development,19205 "Permanent Link : Sustainable transport key to achieving Asia-Pacific development")
+* [Draconian social media ban doomed to fail](https://independentaustralia.net/article-display/draconian-social-media-ban-doomed-to-fail,19206 "Permanent Link : Draconian social media ban doomed to fail")
 * [No coming back from Trump](https://independentaustralia.net/article-display/no-coming-back-from-trump,19204 "Permanent Link : No coming back from Trump")
 * [Jane Caro calls for men to ‘get active’ on International Men’s Day](https://independentaustralia.net/article-display/jane-caro-calls-for-men-to-get-active-on-international-mens-day,19203 "Permanent Link : Jane Caro calls for men to ‘get active’ on International Men’s Day")
 * [Australia sets impressive trade records which newsrooms refuse to report](https://independentaustralia.net/article-display/australia-sets-impressive-trade-records-which-newsrooms-refuse-to-report,19202 "Permanent Link : Australia sets impressive trade records which newsrooms refuse to report")
 * [Trump's runaway trolley piling up with cuckoo captain's picks](https://independentaustralia.net/article-display/trumps-runaway-trolley-piling-up-with-cuckoo-captains-picks,19201 "Permanent Link : Trump's runaway trolley piling up with cuckoo captain's picks")
-* [Aussies still girt by monarchy](https://independentaustralia.net/article-display/aussies-still-girt-by-monarchy,19200 "Permanent Link : Aussies still girt by monarchy")
-* [Summer lovin': Balmoral Beach](https://independentaustralia.net/article-display/summer-lovin-balmoral-beach,19196 "Permanent Link : Summer lovin': Balmoral Beach")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
