@@ -275,24 +275,6 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     [Explore Product](https://www.idagent.com/products/security-awareness-training/)
     
-    Compliance Manager GRC
-    
-    Simple & Automated Compliance Management
-    
-    [Explore Product](https://www.rapidfiretools.com/products/grc-software/)
-    
-    Network Detective Pro
-    
-    Easy & Profitable IT Risk Assessment
-    
-    [Explore Product](https://www.rapidfiretools.com/products/network-assessment/)
-    
-    VulScan
-    
-    Fast & Affordable Vulnerability Scanning
-    
-    [Explore Product](https://www.rapidfiretools.com/products/vulnerability-management/)
-    
     Dark Web ID
     
     Mission Critical Dark Web Monitoring
@@ -370,6 +352,18 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     Automated Network Discovery & Mapping
     
     [Explore Product](https://www.itglue.com/networkglue/)
+    
+    Network Detective Pro
+    
+    Easy & Profitable IT Risk Assessment
+    
+    [Explore Product](https://www.rapidfiretools.com/products/network-assessment/)
+    
+    VulScan
+    
+    Fast & Affordable Vulnerability Scanning
+    
+    [Explore Product](https://www.rapidfiretools.com/products/vulnerability-management/)
     
     vPenTest
     
