@@ -14,11 +14,11 @@ Recommendations
 
 Audio
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
+* [![The Best Picture Books of 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25110717/best-books-2024-600x314-picture.jpg)
     
-    New Releases
+    The Best Picture Books of 2024
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
+    Learn More >](https://www.readbrightly.com/picture-books-2024/)
 
 * * *
 
@@ -30,11 +30,11 @@ Audio
 
 * * *
 
-* [![The Best Picture Books of 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25110717/best-books-2024-600x314-picture.jpg)
+* [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
     
-    The Best Picture Books of 2024
+    Audiobooks for Kids
     
-    Learn More >](https://www.readbrightly.com/picture-books-2024/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
 
 * <
     
