@@ -431,25 +431,9 @@ SHOP NOW](https://www.atari.com/pages/holiday-gift-guides)
 
 ### BLACK FRIDAY DEALS
 
-[![Black Friday Exclusive: 2600+ Console w/ 2 Joysticks](files/2600_ControllerBundle_0136b687-8712-447b-b24a-dda916f8eb13.jpg)
+[![Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/7800_ControllerBundle_6d228362-75ff-44ce-a5f0-01275f047490.jpg)
 
-![Black Friday Exclusive: 2600+ Console w/ 2 Joysticks](files/ProductImage-C_ef1ac744-f63c-41f7-bed1-651965e40fa5.jpg)
-
-Add to cart
-
-Black Friday Deal
-
-##### Black Friday Exclusive: 2600+ Console w/ 2 Joysticks
-
-Regular price $154.98 Sale price $131.73
-
-Regular price $131.73
-
-Unit price /  per](https://www.atari.com/products/black-friday-deal-2600-console-w-2-joysticks) 
-
-[![Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/7800_ControllerBundle.jpg)
-
-![Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/Atari_10102024_257_b608435b-d8b4-4c1e-97e7-61e7c08ba8a5.jpg)
+![Black Friday Exclusive: 7800+ Console w/ 2 Wireless Controllers](files/Atari_10102024_257_d6a2d153-b144-4fde-8c48-240d70c7d610.jpg)
 
 Add to cart
 
@@ -461,23 +445,23 @@ Regular price $164.98 Sale price $131.98
 
 Regular price $131.98
 
-Unit price /  per](https://www.atari.com/products/black-friday-deal-7800-console-w-2-wireless-controllers) 
+Unit price /  per](https://www.atari.com/products/black-friday-exclusive-7800-console-w-2-wireless-controllers) 
 
-[![Atari 7800+ Controller Mega Bundle](files/7800_BundleProduct1.jpg)
+[![Black Friday Exclusive: 2600+ Console w/ 2 Joysticks](files/2600_ControllerBundle_5a12bb88-f403-4181-a3d1-220adf1ca0da.jpg)
 
-![Atari 7800+ Controller Mega Bundle](files/Atari_10102024_257_ca8b6865-86da-487e-b5a3-d9d9a58c483f.jpg)
+![Black Friday Exclusive: 2600+ Console w/ 2 Joysticks](files/Atari_10102024_485_f09442dd-823f-4a04-9e97-7c36a888cd5a.jpg)
 
 Add to cart
 
-15% OFF
+Black Friday Deal
 
-##### Atari 7800+ Controller Mega Bundle
+##### Black Friday Exclusive: 2600+ Console w/ 2 Joysticks
 
-Regular price $199.95 Sale price $169.95
+Regular price $154.98 Sale price $131.73
 
-Regular price $169.95
+Regular price $131.73
 
-Unit price /  per](https://www.atari.com/products/atari-7800-mega-bundle) 
+Unit price /  per](https://www.atari.com/products/black-friday-exclusive-2600-console-w-2-joysticks) 
 
 [![Oversized Fuji Hoodie](files/fe661587-106c-4959-86f6-799dd541558bcopy.jpg)
 
@@ -506,22 +490,6 @@ Regular price $50 Sale price $40.00
 Regular price $40
 
 Unit price /  per](https://www.atari.com/products/oversized-fuji-hoodie)         
-
-[![Atari 2600+ Controller Mega Bundle](files/2600__Bundle.webp)
-
-![Atari 2600+ Controller Mega Bundle](files/Atari_10102024_485_b711271d-98e5-4ee4-b459-2d23fd1b84c4.jpg)
-
-Add to cart
-
-15% OFF
-
-##### Atari 2600+ Controller Mega Bundle
-
-Regular price $199.95 Sale price $169.95
-
-Regular price $169.95
-
-Unit price /  per](https://www.atari.com/products/atari-2600-controller-mega-bundle) 
 
 [![VCS All-In Bundle](products/Atari_VCS_Black_Walnut_Product_Group.jpg)
 
@@ -606,7 +574,7 @@ Atari 2600+
 
 Enjoy your favorite Atari 2600 and 7800 games on one system! Not only does the Atari 2600+ pull double cartridge duty, it also features HDMI and widescreen mode for easy connectivity to modern TVs.
 
-[Shop Now](https://www.atari.com/products/black-friday-deal-2600-console-w-2-joysticks)
+[Shop Now](https://www.atari.com/products/black-friday-exclusive-2600-console-w-2-joysticks)
 
 ![](files/image_70679709-4dae-40f9-a153-5713cf2f7e01.png)
 
@@ -617,7 +585,7 @@ Atari 7800+
 
 The new Atari 7800+ joins the ranks of such timeless design icons as shoulder pads, crop tops, and aviator sunglasses! Inspired by the original ‘80s design, this scaled-down version fits today’s living rooms and connects easily to modern TVs via HDMI.
 
-[Pre-Order Yours Today!](https://www.atari.com/products/black-friday-deal-7800-console-w-2-wireless-controllers)
+[Pre-Order Yours Today!](https://www.atari.com/products/black-friday-exclusive-7800-console-w-2-wireless-controllers)
 
 ![7800 Home](files/7800_home.png)
 
