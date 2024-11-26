@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![North Keller water shut off after worker damages pipe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/GettyImages-1324303897.jpg?ve=1&tl=1)
+
+ ![North Keller water shut off after worker damages pipe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/GettyImages-1324303897.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-keller-water-shut-off)
+
+### [North Keller water shut off after worker damages pipe](https://www.fox4news.com/news/north-keller-water-shut-off)
+
+ [![Greenville police officer killed in shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112624-greenville-police-sh-hosptvs-kdfweme002_05__00.02.00.34.jpg?ve=1&tl=1)
+
+ ![Greenville police officer killed in shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112624-greenville-police-sh-hosptvs-kdfweme002_05__00.02.00.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/greenville-police-officer-shot-killed)
+
+### [Greenville police officer killed in shooting](https://www.fox4news.com/news/greenville-police-officer-shot-killed)
+
  [![Greenville police officer, suspect shot during Monday investigation](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/9aa2ffa8-78b9ff20-Generic-police-lights-2-11-1.jpg?ve=1&tl=1)
 
  ![Greenville police officer, suspect shot during Monday investigation](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/9aa2ffa8-78b9ff20-Generic-police-lights-2-11-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hunt-county-texas-picket-street-shooting-ois-officer-down)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Dallas man says stranger shot him multiple times while on running trail](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-dallas-lazy-river-trail-shooting-9p_00.00.06.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-man-says-stranger-shot-him-multiple-times-while-running-trail)
 
 ### [Dallas man says stranger shot him multiple times while on running trail](https://www.fox4news.com/news/dallas-man-says-stranger-shot-him-multiple-times-while-running-trail)
-
- [![Dallas game warden investigating coyote shootings in Lochwood neighborhood](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/peyton-dallas-coyote-shootings-1030p_00.00.44.04.jpg?ve=1&tl=1)
-
- ![Dallas game warden investigating coyote shootings in Lochwood neighborhood](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/peyton-dallas-coyote-shootings-1030p_00.00.44.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-game-warden-investigating-coyote-shootings-lochwood-neighborhood)
-
-### [Dallas game warden investigating coyote shootings in Lochwood neighborhood](https://www.fox4news.com/news/dallas-game-warden-investigating-coyote-shootings-lochwood-neighborhood)
-
- [![Trump threatens to impose new tariffs on Mexico, Canada and China on 1st day in office](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/trump-getty.jpg?ve=1&tl=1)
-
- ![Trump threatens to impose new tariffs on Mexico, Canada and China on 1st day in office](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/trump-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-threatens-impose-new-tariffs-mexico-canada-china-1st-day-office)
-
-### [Trump threatens to impose new tariffs on Mexico, Canada and China on 1st day in office](https://www.fox4news.com/news/trump-threatens-impose-new-tariffs-mexico-canada-china-1st-day-office)
 
 ###### [News](https://www.fox4news.com/news)
 
