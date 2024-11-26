@@ -36,18 +36,18 @@
         
         Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
     
-    * [![Microsoft blocks Windows 11 24H2 on some PCs with USB scanners](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![QNAP addresses critical flaws across NAS, router software](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft blocks Windows 11 24H2 on some PCs with USB scanners](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-windows-11-24h2-on-some-pcs-with-usb-scanners/)
-    * [![Salt Typhoon hackers backdoor telcos with new GhostSpider malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        QNAP addresses critical flaws across NAS, router software](https://www.bleepingcomputer.com/news/security/qnap-addresses-critical-flaws-across-nas-router-software/)
+    * [![New Windows 10 0x80073CFA fix requires installing WinAppSDK 3 times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Salt Typhoon hackers backdoor telcos with new GhostSpider malware](https://www.bleepingcomputer.com/news/security/salt-typhoon-hackers-backdoor-telcos-with-new-ghostspider-malware/)
-    * [![Microsoft 365 outage impacts Exchange Online, Teams, Sharepoint](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New Windows 10 0x80073CFA fix requires installing WinAppSDK 3 times](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-0x80073cfa-fix-requires-installing-winappsdk-3-times/)
+    * [![Need to upskill on a budget? Don't miss this Black Friday deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft 365 outage impacts Exchange Online, Teams, Sharepoint](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-impacts-exchange-online-teams-sharepoint/)
-    * [![Get 1TB of portable storage in this Black Friday deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Need to upskill on a budget? Don't miss this Black Friday deal](https://www.bleepingcomputer.com/offer/deals/need-to-upskill-on-a-budget-dont-miss-this-black-friday-deal/)
+    * [![Blue Yonder ransomware attack disrupts grocery store supply chain](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Get 1TB of portable storage in this Black Friday deal](https://www.bleepingcomputer.com/offer/deals/get-1tb-of-portable-storage-in-this-black-friday-deal/)
+        Blue Yonder ransomware attack disrupts grocery store supply chain](https://www.bleepingcomputer.com/news/security/blue-yonder-ransomware-attack-disrupts-grocery-store-supply-chain/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
