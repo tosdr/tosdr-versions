@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks again for the amazing responsiveness
+1\. The service was perfect and the configuration easy 2. It's a good idea to let people try the service. I would never pay for such a service without being sure that it works and that the connection is good.
 
-Robert Heath
+Patrizia Franchini
