@@ -473,12 +473,12 @@ Rochester, MN 55905
 
 ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/11/14/giving-charity.svg)
 
-Double your impact!
--------------------
+Don’t miss your chance!
+-----------------------
 
 [Give Now](https://give.mayoclinic.org/give/627381?utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devgivingtuesday%2F%23%21%2Fdonation%2Fcheckout)
 
-Your GivingTuesday gift can go 2X as far.
+Give by Dec. 3 to double your impact 2X.
 
 [Give Now](https://give.mayoclinic.org/give/627381?utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devgivingtuesday%2F%23%21%2Fdonation%2Fcheckout)
 
@@ -532,7 +532,7 @@ Your GivingTuesday gift can go 2X as far.
 
 * [Executive Health Program](https://www.mayoclinic.org/departments-centers/mayo-clinic-executive-health-program/sections/overview/ovc-20253196)
     
-* [International Business Collaborations](https://www.mayoclinic.org/departments-centers/international/international-business-collaborations)
+* [International Business Collaborations](https://www.mayoclinic.org/about-mayo-clinic/international-business-collaborations)
     
 * [Facilities & Real Estate](https://www.mayoclinic.org/about-mayo-clinic/facilities-and-real-estate)
     
@@ -560,7 +560,7 @@ Your GivingTuesday gift can go 2X as far.
 
 * [Executive Health Program](https://www.mayoclinic.org/departments-centers/mayo-clinic-executive-health-program/sections/overview/ovc-20253196)
     
-* [International Business Collaborations](https://www.mayoclinic.org/departments-centers/international/international-business-collaborations)
+* [International Business Collaborations](https://www.mayoclinic.org/about-mayo-clinic/international-business-collaborations)
     
 * [Facilities & Real Estate](https://www.mayoclinic.org/about-mayo-clinic/facilities-and-real-estate)
     
