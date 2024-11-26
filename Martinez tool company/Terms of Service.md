@@ -4,7 +4,17 @@
 
  
 
-Search Search Reset 
+Search Product type
+
+All
+
+* All
+* Hammer parts and accessories
+* Hammers
+* Specialty tools
+* Squares
+
+ Reset 
 
 [Log in](https://martineztools.com/customer_authentication/redirect?locale=en&region_country=US) [Cart](https://martineztools.com/cart)
 
