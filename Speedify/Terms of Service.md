@@ -129,8 +129,8 @@ Speedify is the only app that combines all of your Internet connections to keep 
 #### Popular Posts
 
 * [Introducing Speedify 15.1](https://speedify.com/blog/release-notes/introducing-speedify-15-1/)
-* [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
+* [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
 
 ### Bonding Apps
 
@@ -188,7 +188,3 @@ Follow us!
 * [Help](https://speedify.com/help/)
 * [Sign In](https://my.speedify.com/)
 * [Download](https://speedify.com/download/)
-
-                          
-
-This website uses cookies. To learn more, visit our [Cookie Policy](https://speedify.com/cookie-policy)[Ok](#)
