@@ -280,15 +280,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Harry Potter and the Deathly Hallows was released on July 21, 2007, and sold 11 million copies on the first day of its release, becoming the fastest selling book of all time.
+Term at Hogwarts begins on September 1.
 
 ### Potter History
 
-November 27, 2005 – Tolga Safer, David Heyman, Miranda Richardson, Daniel Radcliffe, Jamie Waylett, Katie Leung, Tiana Benjamin, and Mike Newell are interviewed at the Harry Potter and the Goblet of Fire NYC red carpet.
+September 9, 2008 – Electronic Arts officially announces the delay of their Harry Potter and the Half-Blood Prince video game. The news was expected after Warner Bros. delayed the film.
 
 ### Potter Quote
 
-“You are a braver man by far than Igor Karkaroff. You know, I sometimes think we sort too soon. . . .”
+“Longbottom, kindly do not reveal that you can’t even perform a simple Switching Spell in front of anyone from Durmstrang!”
 
 [](#)
 
