@@ -1,4 +1,12 @@
-[](https://reputation.com/)
+✕
+
+[New: UK Consumer Survey Report 2024-25
+
+Learn More](https://reputation.com/resources/reports-research/from-reviews-to-revenue-whats-driving-uk-consumer-behaviour-through-2025/)
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAABIAQAAAAA/xdU8AAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tCF+gAAAAAAAAAAAAAAAAAAAAAIDXAEPIAAHYY2qcAAAAAElFTkSuQmCC)
+
+![](https://reputation.com/wp-content/uploads/2024/09/leaderboard-teal-wave-bg.png)
 
 * [LOGIN](https://app.reputation.com/auth)
 * [CONTACT](https://reputation.com/contact/)
@@ -25,7 +33,7 @@ Search for:
         * * [IntegrationsActivate the power of feedback data across your tech stack.](https://reputation.com/products/integrations/)
         * * Reviews to Revenue: What is Driving UK Consumer Behaviour?
                 
-                [Learn More](https://reputation.com/?p=53714&post_type=resource&preview=1&_ppp=8e2feac9b2)
+                [Learn More](https://reputation.com/resources/reports-research/from-reviews-to-revenue-whats-driving-uk-consumer-behaviour-through-2025/)
                 
 * Solutions
     * * * [AutomotiveIncrease leads, visibility and new customers for dealerships, groups and OEM brands.](https://reputation.com/solutions/automotive/)
@@ -35,9 +43,9 @@ Search for:
             * [Financial ServicesImprove consumer trust by learning from competitive data and consumer feedback.](https://reputation.com/solutions/financial-services/)
         * * [HealthcareEnsure exceptional patient experience across all locations.](https://reputation.com/solutions/healthcare/)
             * [Senior CareEnsure quality senior care experiences by leveraging feedback data.](https://reputation.com/solutions/senior-care/)
-        * * The 2024-25 European Automotive Industry Report
+        * * Reviews to Revenue: What is Driving UK Consumer Behaviour?
                 
-                [Learn More](https://reputation.com/resources/reports-research/discover-the-top-ranked-automotive-brands-and-dealerships-in-europe/)
+                [Learn More](https://reputation.com/resources/reports-research/from-reviews-to-revenue-whats-driving-uk-consumer-behaviour-through-2025/)
                 
 * [Resources](https://reputation.com/resources/)
     * * * [DiscoverCheck out the newest platform features and products.](https://reputation.com/product-news/)
@@ -49,9 +57,9 @@ Search for:
                 * [Reports & ResearchExplore the latest industry insights with our data-driven research reports.](https://reputation.com/resources/reports-research/)
                 * [Videos & WebinarsBinge watch our webinars for industry tips and product updates.](https://reputation.com/resources/videos-webinars/)
                 * [EventsCheck out upcoming in-person and virtual events.](https://reputation.com/rep-events/)
-        * * The 2024-25 European Automotive Industry Report
+        * * Reviews to Revenue: What is Driving UK Consumer Behaviour?
                 
-                [Learn More](https://reputation.com/resources/reports-research/discover-the-top-ranked-automotive-brands-and-dealerships-in-europe/)
+                [Learn More](https://reputation.com/resources/reports-research/from-reviews-to-revenue-whats-driving-uk-consumer-behaviour-through-2025/)
                 
 * [Platform](https://reputation.com/platform/)
 * [LOGIN](https://app.reputation.com/auth)
