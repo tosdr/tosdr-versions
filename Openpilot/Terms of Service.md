@@ -24,7 +24,7 @@ Social
 
 [Shop](https://comma.ai/shop)
 
-[**BEST PRICE EVER SALE STARTS NOW!**](https://comma.ai/shop/comma-3x)
+[**BEST PRICE EVER SALE STARTS NOW!** **7 days, 08:32:12**](https://comma.ai/shop/comma-3x)
 
 Terms & Privacy
 ===============
