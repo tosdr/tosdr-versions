@@ -7,9 +7,9 @@ We’re sorry, but our website doesn’t work properly without JavaScript enable
 New Customers Save 40% With Autoship:  
 Use Code: NEW40 (Up to $30 Max Savings. [Exclusions Apply](https://www.1800petmeds.com/tc.html).)
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw0445866f/images/petmeds-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw90840460/images/petmeds-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
-Products Education  ![altText](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwaf4d38b1/images/close-icon.svg)
+Products Education  ![altText](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw10b732b1/images/close-icon.svg)
 
 ### Popular Searches
 
@@ -21,7 +21,7 @@ Products Education  ![altText](/on/demandware.static/Sites-1800petmeds-Site/-/de
 
   
 
-* [Contact Us](https://www.1800petmeds.com/)
+* [Contact Us](https://www.1800petmeds.com/help.html)
     
     Call toll-free:
     
@@ -34,13 +34,13 @@ Products Education  ![altText](/on/demandware.static/Sites-1800petmeds-Site/-/de
 * [Cart 0](https://www.1800petmeds.com/cart "Cart")
     
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw95f2b2d5/images/petmeds-mobile-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw32d752e8/images/petmeds-mobile-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
-[![Sign In](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwd9ad6812/images/profile.svg)](https://www.1800petmeds.com/login)
+[![Sign In](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw9c851a29/images/profile.svg)](https://www.1800petmeds.com/login)
 
 [Cart 0](https://www.1800petmeds.com/cart "Cart")
 
-![altText](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwaf4d38b1/images/close-icon.svg)
+![altText](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw10b732b1/images/close-icon.svg)
 
 Products Education 
 
@@ -146,23 +146,31 @@ Products Education
     
     [![Apoquel](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwe3315da3/brand-logos/apoquelLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Apoquel)
     
-    [![Simparica TRIO](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw803a6a68/brand-logos/logo-simparica-trio-2.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Simparica%20TRIO)
-    
-    [![NexGard](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw055bf262/brand-logos/nexgardLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=NexGard)
-    
     [![Bravecto](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw7d61f08b/brand-logos/bravectoLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Bravecto)
+    
+    [![Dr Cuddles](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw12fd6379/brand-logos/logo-drcuddles-new.jpg)](https://www.1800petmeds.com/search?q=dr%20cuddles)
+    
+    [![Galliprant](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw5c6b4911/brand-logos/galliprantlogo-new.jpg)](https://www.1800petmeds.com/galliprant-prod110001.html)
     
     [![Heartgard](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw162105d0/brand-logos/heartgardLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Heartgard)
     
-    [![Royal Canin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwae804a1a/brand-logos/brand-royal-canin.jpg)](https://www.1800petmeds.com/royal-canin.html)
-    
-    [![Purina](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw7d666357/brand-logos/brand-purina.jpg)](https://www.1800petmeds.com/purina.html)
+    [![Hill's Science Diet](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw06120814/brand-logos/logo-hills-prescription-diet-new.jpg)](https://www.1800petmeds.com/hills.html)
     
     [![Interceptor Plus](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwfc552077/brand-logos/logo-interceptor-plus_2.jpg)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Interceptor%20Plus)
     
-    [![Vetmedin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwa7d16072/brand-logos/brand-vetmedin.jpg)](https://www.1800petmeds.com/search?searchType=product&q=Vetmedin)
+    [![NexGard](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw055bf262/brand-logos/nexgardLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=NexGard)
     
-    [![Hill's Science Diet](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw0862de03/brand-logos/brand-hills-science-diet.jpg)](https://www.1800petmeds.com/hills.html)
+    [![Royal Canin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwae804a1a/brand-logos/brand-royal-canin.jpg)](https://www.1800petmeds.com/royal-canin.html)
+    
+    [![Seresto](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwda646609/brand-logos/serestologo-new.jpg)](https://www.1800petmeds.com/search?q=Seresto)
+    
+    [![Nutramax](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw63a7a2f2/brand-logos/logo-nutramax-new.jpg)](https://www.1800petmeds.com/search?q=nutramax)
+    
+    [![Simparica](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw17fe960b/brand-logos/logo-simparica-new.jpg)](https://www.1800petmeds.com/simparica-prod11716.html)
+    
+    [![Simparica TRIO](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw803a6a68/brand-logos/logo-simparica-trio-2.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Simparica%20TRIO)
+    
+    [![Vetmedin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwa7d16072/brand-logos/brand-vetmedin.jpg)](https://www.1800petmeds.com/search?searchType=product&q=Vetmedin)
     
     * [View Brands A-Z](https://www.1800petmeds.com/all-brands?cgid=root)
 
@@ -292,23 +300,31 @@ Navigation [×](javascript:void(0))
     
     [![Apoquel](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwe3315da3/brand-logos/apoquelLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Apoquel)
     
-    [![Simparica TRIO](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw803a6a68/brand-logos/logo-simparica-trio-2.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Simparica%20TRIO)
-    
-    [![NexGard](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw055bf262/brand-logos/nexgardLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=NexGard)
-    
     [![Bravecto](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw7d61f08b/brand-logos/bravectoLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Bravecto)
+    
+    [![Dr Cuddles](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw12fd6379/brand-logos/logo-drcuddles-new.jpg)](https://www.1800petmeds.com/search?q=dr%20cuddles)
+    
+    [![Galliprant](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw5c6b4911/brand-logos/galliprantlogo-new.jpg)](https://www.1800petmeds.com/galliprant-prod110001.html)
     
     [![Heartgard](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw162105d0/brand-logos/heartgardLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Heartgard)
     
-    [![Royal Canin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwae804a1a/brand-logos/brand-royal-canin.jpg)](https://www.1800petmeds.com/royal-canin.html)
-    
-    [![Purina](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw7d666357/brand-logos/brand-purina.jpg)](https://www.1800petmeds.com/purina.html)
+    [![Hill's Science Diet](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw06120814/brand-logos/logo-hills-prescription-diet-new.jpg)](https://www.1800petmeds.com/hills.html)
     
     [![Interceptor Plus](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwfc552077/brand-logos/logo-interceptor-plus_2.jpg)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Interceptor%20Plus)
     
-    [![Vetmedin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwa7d16072/brand-logos/brand-vetmedin.jpg)](https://www.1800petmeds.com/search?searchType=product&q=Vetmedin)
+    [![NexGard](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw055bf262/brand-logos/nexgardLogo.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=NexGard)
     
-    [![Hill's Science Diet](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw0862de03/brand-logos/brand-hills-science-diet.jpg)](https://www.1800petmeds.com/hills.html)
+    [![Royal Canin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwae804a1a/brand-logos/brand-royal-canin.jpg)](https://www.1800petmeds.com/royal-canin.html)
+    
+    [![Seresto](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwda646609/brand-logos/serestologo-new.jpg)](https://www.1800petmeds.com/search?q=Seresto)
+    
+    [![Nutramax](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw63a7a2f2/brand-logos/logo-nutramax-new.jpg)](https://www.1800petmeds.com/search?q=nutramax)
+    
+    [![Simparica](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw17fe960b/brand-logos/logo-simparica-new.jpg)](https://www.1800petmeds.com/simparica-prod11716.html)
+    
+    [![Simparica TRIO](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw803a6a68/brand-logos/logo-simparica-trio-2.png)](https://www.1800petmeds.com/search?prefn1=brand&prefv1=Simparica%20TRIO)
+    
+    [![Vetmedin](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwa7d16072/brand-logos/brand-vetmedin.jpg)](https://www.1800petmeds.com/search?searchType=product&q=Vetmedin)
     
     * [View Brands A-Z](https://www.1800petmeds.com/all-brands?cgid=root)
 
@@ -502,7 +518,7 @@ Prior to honoring your request, the Company will make a reasonable attempt to ve
 
 Last updated February 13, 2024
 
-[![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw69b6c0ef/images/top-icon.svg)](#top-of-page)
+[![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwb47a0a60/images/top-icon.svg)](#top-of-page)
 
 Contact Us
 ----------
@@ -574,7 +590,7 @@ Please provide a valid email Id
 
 \*By completing this form you are signing up to receive our emails and can unsubscribe at any time.
 
-![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwdefb8eb2/images/email-entry.svg)
+![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwe4cc6dd8/images/email-entry.svg)
 
  [![Join us on Facebook, Opens in New Window](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw2c32a907/images/icon_facebook.png)](https://www.facebook.com/PetMeds)[![Join us on Linked In, Opens in New Window](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw259d4b5c/images/icon_linkedin.png)](https://www.linkedin.com/company/1800petmeds)[![Join us on TikTok, Opens in New Window](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwbf2c7a29/images/icon_tiktok.png)](https://tiktok.com/@petmeds)[![Follow us on Instagram, Opens in New Window](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw1289ab83/images/icon_instagram.png)](https://www.instagram.com/petmeds/)[![Join us on Youtube, Opens in New Window](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw4553ad8d/images/icon_youtube.png)](https://www.youtube.com/petmeds)
 
