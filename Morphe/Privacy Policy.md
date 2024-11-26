@@ -4,11 +4,7 @@ Map of Australia Map of Canada Map of European Union United States United Kingdo
 
 Close×
 
-![icon](//www.morphe.com/cdn/shop/t/929/assets/checkmark_cart.svg?v=32248314250182966831732137166)
-
-![icon](//www.morphe.com/cdn/shop/t/929/assets/gift_icon.svg?v=3524224353090864161732137196)
-
-![](//www.morphe.com/cdn/shop/t/929/assets/shipping_icon.svg?v=127807994505907103401732137268)
+![](//www.morphe.com/cdn/shop/t/930/assets/shipping_icon.svg?v=127807994505907103401732220998)
 
   One or more of the items in your cart is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.
 
@@ -33,13 +29,13 @@ Privacy Policy
 
 #### Free shipping on US orders $35+](https://www.morphe.com/collections/shop-all)
 
-* ![toggle mobile menu](//www.morphe.com/cdn/shop/t/929/assets/hamburger-icon-black.svg?v=37398962526372985731732137197)
-* ![Search](//www.morphe.com/cdn/shop/t/929/assets/search-icon-black.svg?v=109393770938569529511732137263)
+* ![toggle mobile menu](//www.morphe.com/cdn/shop/t/930/assets/hamburger-icon-black.svg?v=37398962526372985731732220925)
+* ![Search](//www.morphe.com/cdn/shop/t/930/assets/search-icon-black.svg?v=109393770938569529511732220993)
 
 [![Morphe logo](//www.morphe.com/cdn/shop/files/morphe_chrome_logo-new_400x.png?v=1704369663)](https://www.morphe.com/)
 
-* [![Login](//www.morphe.com/cdn/shop/t/929/assets/dt-user-icon.svg?v=114168080545525583191732137183)](https://www.morphe.com/account/login)
-* ![Bag](//www.morphe.com/cdn/shop/t/929/assets/cart-icon-new.svg?v=164380968832671469731732137164)
+* [![Login](//www.morphe.com/cdn/shop/t/930/assets/dt-user-icon.svg?v=114168080545525583191732220911)](https://www.morphe.com/account/login)
+* ![Bag](//www.morphe.com/cdn/shop/t/930/assets/cart-icon-new.svg?v=164380968832671469731732220891)
     
     Items in cart 0
     
@@ -49,6 +45,7 @@ Privacy Policy
 Main navigation
 ---------------
 
+* [### BLACK FRIDAY](https://www.morphe.com/collections/black-friday)
 * ### New
     
     #### Featured
@@ -61,13 +58,13 @@ Main navigation
     
     Oct 30, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/929/assets/clock-icon.svg?v=42723469760392072181732137168) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
+    ![clock icon](//www.morphe.com/cdn/shop/t/930/assets/clock-icon.svg?v=42723469760392072181732220894) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
     
     #### How to Incorporate Glitter Into Your Holiday Glam
     
     Oct 30, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/929/assets/clock-icon.svg?v=42723469760392072181732137168) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
+    ![clock icon](//www.morphe.com/cdn/shop/t/930/assets/clock-icon.svg?v=42723469760392072181732220894) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
     
 * ### Makeup
     
@@ -93,7 +90,7 @@ Main navigation
     
     Oct 30, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/929/assets/clock-icon.svg?v=42723469760392072181732137168) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)
+    ![clock icon](//www.morphe.com/cdn/shop/t/930/assets/clock-icon.svg?v=42723469760392072181732220894) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)
     
 * ### Brushes & Tools
     
@@ -115,13 +112,13 @@ Main navigation
     
     Oct 30, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/929/assets/clock-icon.svg?v=42723469760392072181732137168) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
+    ![clock icon](//www.morphe.com/cdn/shop/t/930/assets/clock-icon.svg?v=42723469760392072181732220894) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
     
     #### How to Incorporate Glitter Into Your Holiday Glam
     
     Oct 30, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/929/assets/clock-icon.svg?v=42723469760392072181732137168) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
+    ![clock icon](//www.morphe.com/cdn/shop/t/930/assets/clock-icon.svg?v=42723469760392072181732220894) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
     
 * ### Sets & Gifts
     
@@ -139,13 +136,13 @@ Main navigation
     
     Oct 30, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/929/assets/clock-icon.svg?v=42723469760392072181732137168) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
+    ![clock icon](//www.morphe.com/cdn/shop/t/930/assets/clock-icon.svg?v=42723469760392072181732220894) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)[![How to Incorporate Glitter Into Your Holiday Glam](//www.morphe.com/cdn/shop/articles/Morphe-2024-September-Blog-Thumbail-Glitter-1020x580_600x.jpg?v=1730234288)
     
     #### How to Incorporate Glitter Into Your Holiday Glam
     
     Oct 30, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/929/assets/clock-icon.svg?v=42723469760392072181732137168) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
+    ![clock icon](//www.morphe.com/cdn/shop/t/930/assets/clock-icon.svg?v=42723469760392072181732220894) 7 min. read](https://www.morphe.com/blogs/artistry-diaries/how-to-incorporate-glitter-into-your-holiday-glam)
     
 * ### Discover
     
@@ -171,14 +168,14 @@ Main navigation
     
     Oct 30, 24
     
-    ![clock icon](//www.morphe.com/cdn/shop/t/929/assets/clock-icon.svg?v=42723469760392072181732137168) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)
+    ![clock icon](//www.morphe.com/cdn/shop/t/930/assets/clock-icon.svg?v=42723469760392072181732220894) 6 min. read](https://www.morphe.com/blogs/artistry-diaries/totally-fall-for-these-morphe-makeup-favorites)
     
 
 [Find your shade](https://www.morphe.com/pages/lightform-shade-finder)
 
-![Search](//www.morphe.com/cdn/shop/t/929/assets/dt-search-icon.svg?v=133757945041640155491732137183)
+![Search](//www.morphe.com/cdn/shop/t/930/assets/dt-search-icon.svg?v=133757945041640155491732220910)
 
- [![Login](//www.morphe.com/cdn/shop/t/929/assets/dt-user-icon.svg?v=114168080545525583191732137183)](https://www.morphe.com/account/login)![Bag](//www.morphe.com/cdn/shop/t/929/assets/dt-cart-icon.svg?v=122358542057934602441732137182)
+ [![Login](//www.morphe.com/cdn/shop/t/930/assets/dt-user-icon.svg?v=114168080545525583191732220911)](https://www.morphe.com/account/login)![Bag](//www.morphe.com/cdn/shop/t/930/assets/dt-cart-icon.svg?v=122358542057934602441732220910)
 
 Items in cart 0
 
@@ -202,6 +199,7 @@ The following text field filters the results that follow as you type. Use Tab to
 Main navigation
 ---------------
 
+* [BLACK FRIDAY](https://www.morphe.com/collections/black-friday)
 * [ ] 
     
     ### New 
