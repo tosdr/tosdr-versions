@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Bullying is Bad! (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/bullying-comics-bitstrips2/1/)
-* [Dungeons & Dragons Module B8: "Journey to The Rock"](https://www.somethingawful.com/dungeons-and-dragons/basic-dnd-adventure/1/)
-* [Let's Fix Ted Cruz's Smile! (Part 2)](https://www.somethingawful.com/comedy-goldmine/cruz-mouth-weirder/)
-* [Pardon My French!](https://www.somethingawful.com/awfulvision/furry-wiccan-hitler/1/)
-* [Sci-Fi vs. Sci-Fi](https://www.somethingawful.com/photoshop-phriday/scifi-vs-scifi/1/)
+* [Saurischia (Thanks, Aidan!)](https://www.somethingawful.com/awful-links/saurischia-eskridge/)
+* [An Important Message from the Monstergeddon Board of Directors!](https://www.somethingawful.com/news/monstergeddon-abuse-accusations/)
+* [Movie Posters](https://www.somethingawful.com/photoshop-phriday/movie-posters-2/1/)
+* [SEA OF DOGS](https://www.somethingawful.com/news/sea-dog-classifieds/)
+* [That Insidious Beast: Active Area](https://www.somethingawful.com/news/that-insidious-letter/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [itt we are boomer rappers who rap about boomer things](http://forums.somethingawful.com/showthread.php?threadid=4076282 "itt we are boomer rappers who rap about boomer things")
 * ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Corn or Flour, What Say You?](http://forums.somethingawful.com/showthread.php?threadid=4076211 "Corn or Flour, What Say You?")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-robots.gif) [Sit on Robot Santa's Lap](http://forums.somethingawful.com/showthread.php?threadid=4076210 "Sit on Robot Santa's Lap")
 
 ### Random Articles
 
-* [White Power Web Hosting](https://www.somethingawful.com/awful-links/awful-link-1384/)
-* [The Bushmen of Buka](https://www.somethingawful.com/second-life-safari/bushmen-buka/1/)
-* [Diabetes By Sundown](https://www.somethingawful.com/mooflogs/diabetes-by-sundown/)
-* [October 27, 2008](https://www.somethingawful.com/forum-fridays/ff10-27-08/1/)
-* [World War II Propaganda](https://www.somethingawful.com/photoshop-phriday/world-war-ii/1/)
+* [What I Learned Last Week, By Rich Lowtax Kyanka, Age 26](https://www.somethingawful.com/news/what-learned-last/)
+* [Jori and MoJo's State of the Union](https://www.somethingawful.com/awful-links/awful-link-1685/)
+* [20th Century Fox Wins](https://www.somethingawful.com/news/20th-century-fox/)
+* [TEAM ROCKET](https://www.somethingawful.com/comedy-goldmine/team-rocket-drawings/1/)
+* [Warhammer Age of Sigmar: Soul Wars](https://www.somethingawful.com/video-game-article/warhammer-soul-wars/)
 
 [Random!](https://www.somethingawful.com/random/)
 
