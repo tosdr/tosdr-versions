@@ -205,11 +205,10 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [DickFlash.com](https://www.somethingawful.com/weekend-web/flashing-forum/1/)
-* [Under construction since 1868!](https://www.somethingawful.com/awfulvision/cleveland-horrorpunk-redneck/1/)
-* [Kart Rider and Hatemail!](https://www.somethingawful.com/mmo-roulette/kartonline/1/)
-* [That Insidious Beast: TV Infodot Mix-ups](https://www.somethingawful.com/news/infodot-guz-insidious/1/)
-* [Easy A; Devil; The Town](https://www.somethingawful.com/current-movie-reviews/easy-devil-town/1/)
+* [Gary Gygax's Cyborg Commando (1987)](https://www.somethingawful.com/dungeons-and-dragons/cyborg-gygax-1987/1/)
+* [A Celebration of Turtle Power (Part Two)](https://www.somethingawful.com/photoshop-phriday/celebration-turtle-power-2/1/)
+* [Fun with Smokey](https://www.somethingawful.com/photoshop-phriday/fun-with-smokey/1/)
+* [Magazine Advertisements 2](https://www.somethingawful.com/photoshop-phriday/magazine-advertisements-2/1/)
 
 ### Popular Threads
 
@@ -218,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Quitters Never Win: A Tribute to Their Noble Sacrifices](https://www.somethingawful.com/art-of-warcraft/quitters-never-win/1/)
-* [I Hate You Page 111](https://www.somethingawful.com/cliff-yablonski/i-hate-you-111/)
-* [The Palin Smoker! (Part One of Two)](https://www.somethingawful.com/photoshop-phriday/palin-smoker/1/)
-* [Are Games Art? Roger Ebert is Paid to Write Mini-Reviews for Bullet Hell Shooters](https://www.somethingawful.com/news/rip-roger-ebert/)
-* [The Face of Power](https://www.somethingawful.com/awful-links/awful-link-1484/)
+* [District Bulletin: Missing Person](https://www.somethingawful.com/news/district-bulletin-missing/)
+* [Bignose the Caveman](https://www.somethingawful.com/rom-pit/big-nose-caveman/)
+* [Runner](https://www.somethingawful.com/news/runner-syndrome/)
+* [Unforgettable Metal Gear Moments](https://www.somethingawful.com/video-game-article/metal-gear-unforgettable/)
+* [Alien Abduction, How To Prevent](https://www.somethingawful.com/awful-links/awful-link-1200/)
 
 [Random!](https://www.somethingawful.com/random/)
 
