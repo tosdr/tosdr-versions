@@ -150,6 +150,16 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Air Force awards Boeing $2.4 billion contract for KC-46 tankers](https://www.defensenews.com/air/2024/11/25/air-force-awards-boeing-24-billion-contract-for-kc-46-tankers/)  
+    11/25/24 05:00pm  
+    
+    The Air Force plans to buy 179 KC-46s over 13 lots and is nearing the end of its procurement. (Airman 1st Class Joshua Hastings/U.S. Air Force)
+    
+* [Pentagon, Lockheed reach handshake deal for next F-35s](https://www.defensenews.com/air/2024/11/25/pentagon-lockheed-reach-handshake-deal-for-next-f-35s/)  
+    11/25/24 01:45pm  
+    
+    The price of the newest F-35s is expected to rise as the jet becomes more complex, the military buys fewer aircraft and inflation takes a growing bite. (1st Lt. Nathan Poblete/U.S. Air Force)
+    
 * [Russia attacked Ukraine with new ballistic missile, Putin says](https://www.defensenews.com/global/europe/2024/11/21/russia-attacked-ukraine-with-new-ballistic-missile-putin-says/)  
     11/21/24 04:15pm  
     
@@ -159,16 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     11/21/24 05:38am  
     
     A U.S. Air Force F-15 Eagle lands on the runway June 7, 2017, at Kadena Air Base, Japan. (Senior Airman Lynette M. Rolen)
-    
-* [Ukraine fires US-made longer-range missiles into Russia for first time](https://www.defensenews.com/global/europe/2024/11/19/ukraine-fires-us-made-longer-range-missiles-into-russia-for-first-time/)  
-    11/19/24 03:15pm  
-    
-    This image, made from a video posted Tuesday by a Telegram channel affiliated with the Ukrainian military, reportedly shows U.S.-supplied ATACMS missiles being fired from an undisclosed location in Ukraine. (Lachen Pyshe Telegram via AP)
-    
-* [AeroVironment to acquire BlueHalo for $4.1 billion](https://www.defensenews.com/pentagon/2024/11/19/aerovironment-to-acquire-bluehalo-known-for-drone-swarm-tech-for-4b/)  
-    11/19/24 01:43pm  
-    
-    AeroVironment announced Tuesday its plans to acquire BlueHalo, well-known for its drone swarm and counter-drone technology, for roughly $4.1 billion through an all-stock transaction. (Getty Images)
     
 
 Recent parts by keyword  
