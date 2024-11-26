@@ -22,7 +22,7 @@ Spend & Expense
 
 Overview
 
-[BILL Spend & Expense](https://getdivvy.com/product/spend-and-expense)[Business Credit](https://getdivvy.com/product/credit)[Virtual Card](https://getdivvy.com/product/virtual-cards)[Integrations](https://getdivvy.com/integrations)
+[BILL Spend & Expense](https://getdivvy.com/product/spend-and-expense)[Business Credit](https://getdivvy.com/product/credit)[Corporate Card](https://getdivvy.com/product/card)[Virtual Card](https://getdivvy.com/product/virtual-cards)[Integrations](https://getdivvy.com/integrations)
 
 Features
 
@@ -322,7 +322,7 @@ AP & AR Integrations
 
 BILL Spend & Expense
 
-[Expense Management](https://getdivvy.com/product/expenses)[Budget Management](https://getdivvy.com/product/budgets)[Business Credit](https://getdivvy.com/product/credit)[Virtual Card](https://getdivvy.com/product/virtual-cards)[Reimbursements](https://getdivvy.com/product/reimbursements)[Rewards](https://getdivvy.com/product/rewards)[Mobile App](https://getdivvy.com/product/download)[Payments Services](https://getdivvy.com/product/payments-services)[Reporting Insights](https://getdivvy.com/product/reporting)[Product Demo](https://getdivvy.com/demo-request/spend-expense-demo)[Apply for the BILL Divvy Card](https://apply.divvy.co/auth)
+[Expense Management](https://getdivvy.com/product/expenses)[Budget Management](https://getdivvy.com/product/budgets)[Business Credit](https://getdivvy.com/product/credit)[Corporate Card](https://getdivvy.com/product/card)[Virtual Card](https://getdivvy.com/product/virtual-cards)[Reimbursements](https://getdivvy.com/product/reimbursements)[Rewards](https://getdivvy.com/product/rewards)[Mobile App](https://getdivvy.com/product/download)[Payments Services](https://getdivvy.com/product/payments-services)[Reporting Insights](https://getdivvy.com/product/reporting)[Product Demo](https://getdivvy.com/demo-request/spend-expense-demo)[Apply for the BILL Divvy Card](https://apply.divvy.co/auth)
 
 Spend & Expense Integrations
 
