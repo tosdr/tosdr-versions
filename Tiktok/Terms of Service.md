@@ -322,7 +322,7 @@ You can reach us at: [https://www.tiktok.com/legal/report/feedback](https://www.
 
 [Privacy Center](https://www.tiktok.com/privacy/overview?lang=en)
 
-[Creator Portal](https://www.tiktok.com/creator-academy?lang=en)
+[Creator Academy](https://www.tiktok.com/creator-academy?lang=en)
 
 [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en)
 
