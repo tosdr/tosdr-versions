@@ -2,7 +2,9 @@
 
   
 
-FREE shipping on USA orders of $75+
+FREE shipping on USA orders of $75+ - Shipping times could be delayed due to Black Friday.
+
+Welcome to our store
 
     
 
