@@ -14,13 +14,13 @@ You need to enable Javascript to view this site properly.
     
     ![](/_next/image?url=%2Fstatic%2Fimages%2Fwhite_caret_down.png&w=32&q=75)
 
-[Log in](https://exchange.gemini.com/signin)
+[Sign in](https://exchange.gemini.com/signin)
 
-[Sign up](https://exchange.gemini.com/register)
+[Get started](https://exchange.gemini.com/register)
 
 [![Gemini Logo](/_next/image?url=https%3A%2F%2Fcdn.builder.io%2Fapi%2Fv1%2Fimage%2Fassets%252F1b77ce3a269a43e985e77f3d65f715ba%252F9275faa834e1496387418caaef31e7be&w=256&q=75)](https://www.gemini.com/)
 
-[Sign up](https://exchange.gemini.com/register)![Open](/static/images/dark-theme/hamburger.svg)
+[Get started](https://exchange.gemini.com/register)![Open](/static/images/dark-theme/hamburger.svg)
 
 ###### 
 
@@ -100,9 +100,9 @@ Resources
 * [Support](https://support.gemini.com/)
     
 
-[Log in](https://exchange.gemini.com/signin)
+[Sign in](https://exchange.gemini.com/signin)
 
-[Sign up](https://exchange.gemini.com/register)
+[Get started](https://exchange.gemini.com/register)
 
 [Back to all legal agreements](https://www.gemini.com/legal)
 
@@ -238,7 +238,7 @@ The trusted crypto-native finance platform
 
 Create a free Gemini account in minutes
 
-[Sign up](https://exchange.gemini.com/register)
+[Get started](https://exchange.gemini.com/register)
 
 #### Products
 
