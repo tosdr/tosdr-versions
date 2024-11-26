@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/stop-met-die-vaccinaties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oekraiens-onderzoek-associatieverdrag-is-verkeerd/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
