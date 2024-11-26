@@ -418,10 +418,10 @@ Policy
 * [Purchase Order Terms & Conditions](https://www.aicd.com.au/about-aicd/terms-conditions/purchase-order-terms-conditions.html)
 * [Supplier Code of Conduct](https://www.aicd.com.au/about-aicd/terms-conditions/supplier-code-of-conduct.html)
 
-Need help?
-----------
+Acknowledgement
+---------------
 
-Contact us for any queries you have about AICD membership, services and advocacy work.
+We acknowledge the Traditional Custodians of the Lands on which we are located and pay our respects to Elders, past and present. We recognise First Nations peoples' cultural and spiritual relationships to the Skies, Land, Waters, and Seas, and their rich contribution to society.  
 
 ### Call AICD
 
