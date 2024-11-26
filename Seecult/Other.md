@@ -314,11 +314,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/marica-radojcic-presic/beskraj-bog-1985-90/crnicetverko2.jpg?itok=Vs-wGZ8W)](http://seecult.org/galerija/galerija-umetnika/marica-radojcic-presic/beskraj-bog-1985-90)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20062007/andjela-grabez/andjela-grabez-2.jpg?itok=dOJ5YU3D)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20062007/andjela)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/senke.jpg?itok=wU9eF_dB)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zampa-irwin.jpg?itok=7MxTzdbS)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -334,11 +334,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Značaj filmskog fonda za debitante](http://seecult.org/vest/znacaj-filmskog-fonda-za-debitante)
 * [Prednosti kreativnog mentorstva](http://seecult.org/vest/prednosti-kreativnog-mentorstva)
 * [Nikiti Zdravkoviću nagrada Veruj u sebe](http://seecult.org/vest/nikiti-zdravkovicu-nagrada-veruj-u-sebe)
 * [Univerzalna vrednost u opasnosti](http://seecult.org/vest/univerzalna-vrednost-u-opasnosti)
 * [Škola kao ogledalo društva](http://seecult.org/vest/skola-kao-ogledalo-drustva)
-* [U odbranu slobode izražavanja](http://seecult.org/vest/u-odbranu-slobode-izrazavanja)
 * [Uručenje nagrada UDUS-a](http://seecult.org/vest/urucenje-nagrada-udus)
 * [Voda kao metafora za transformaciju i obnovu](http://seecult.org/vest/voda-kao-metafora-za-transformaciju-i-obnovu)
 * [Decenija Pančevo film festivala](http://seecult.org/vest/decenija-pancevo-film-festivala)
