@@ -253,7 +253,7 @@ Benutzerkonto
 
 1\. Geltungsbereich 
 
-Diese Nutzungsbedingungen regeln ausschließlich das Angebot sowie den Abschluss eines Vertrages über die Erstellung und Nutzung eines Erlebnis-Kontos auf jochen-schweizer.de (nachfolgend „Kundenkonto“). Für den Erwerb und Einlösung von Jochen Schweizer-Produkten geltend die dort jeweils einbezogenen Allgemeinen Geschäftsbedingungen.  
+Diese Nutzungsbedingungen regeln ausschließlich das Angebot sowie den Abschluss eines Vertrages über die Erstellung und Nutzung eines Erlebnis-Kontos auf jochen-schweizer.de (nachfolgend „Erlebnis-Konto“). Für den Erwerb und Einlösung von Jochen Schweizer-Produkten geltend die dort jeweils einbezogenen Allgemeinen Geschäftsbedingungen.  
 
 Wenn Sie sich für ein Erlebnis-Konto registrieren, erklären Sie sich einverstanden, dass die hier beschriebenen Nutzungsbedingungen gelten.  
 
