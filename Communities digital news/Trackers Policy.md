@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-morgan-theview-1200x630.jpg)](https://americanwirenews.com/piers-morgan-dumps-on-the-view-in-scathing-op-ed-pointless-irrelevant-trump-loathing-joke/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/rf-trump-border-1200x630.jpg)](https://americanwirenews.com/trudeau-calls-trump-hours-after-he-put-us-neighbors-on-notice-in-shock-move-to-stem-illegal-aliens/)
 
-[Piers Morgan dumps on ‘The View’ in scathing op-ed: ‘Pointless, irrelevant, Trump-loathing joke’](https://americanwirenews.com/piers-morgan-dumps-on-the-view-in-scathing-op-ed-pointless-irrelevant-trump-loathing-joke/)
+(Official White House Photo by Shealah Craighead)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kai-trump-dance-1200x630.jpg)](https://americanwirenews.com/learned-these-moves-from-the-best-granddaughter-kai-does-iconic-trump-dance-in-the-sky/)
+[Trudeau calls Trump hours after he put US neighbors on notice in shock move to stem illegal aliens](https://americanwirenews.com/trudeau-calls-trump-hours-after-he-put-us-neighbors-on-notice-in-shock-move-to-stem-illegal-aliens/)
 
-[‘Learned these moves from the best’: Granddaughter Kai does iconic ‘Trump dance’ in the sky](https://americanwirenews.com/learned-these-moves-from-the-best-granddaughter-kai-does-iconic-trump-dance-in-the-sky/)
+[![](https://americanwirenews.com/wp-content/uploads/2021/12/SG-Biden-Harris-2-1200x630.jpg)](https://americanwirenews.com/white-house-toots-own-horn-as-one-of-most-successful-administrations-in-history/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-duckworth-1200x630.jpg)](https://americanwirenews.com/dem-senator-besmirches-hegseths-military-service-pretty-low-ranking-guy/)
+[White House toots own horn as ‘one of most successful administrations in history’](https://americanwirenews.com/white-house-toots-own-horn-as-one-of-most-successful-administrations-in-history/)
 
-[Dem senator besmirches Hegseth’s military service: ‘Pretty low-ranking guy’](https://americanwirenews.com/dem-senator-besmirches-hegseths-military-service-pretty-low-ranking-guy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walmartfront-1200-x-628-1200x630.jpg)](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nyt-kogan-1200x630.jpg)](https://americanwirenews.com/disturbing-pattern-ny-times-called-out-over-vague-reporting-on-rabbi-murdered-in-dubai/)
+[Walmart to roll back DEI policies](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
 
-[‘Disturbing pattern’: NY Times called out over vague reporting on rabbi murdered in Dubai](https://americanwirenews.com/disturbing-pattern-ny-times-called-out-over-vague-reporting-on-rabbi-murdered-in-dubai/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/08/SG-Baldwin-1200x630.jpg)](https://americanwirenews.com/alec-baldwin-sneers-down-at-americans-uninformed-about-reality/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-clinton-1200x630.jpg)](https://americanwirenews.com/i-had-the-feeling-bill-clinton-says-hes-not-surprised-by-2024-election-results/)
+[Alec Baldwin sneers down at Americans, ‘uninformed about reality’](https://americanwirenews.com/alec-baldwin-sneers-down-at-americans-uninformed-about-reality/)
 
-[‘I had the feeling’: Bill Clinton says he’s not ‘surprised’ by 2024 election results](https://americanwirenews.com/i-had-the-feeling-bill-clinton-says-hes-not-surprised-by-2024-election-results/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gavin-newson-sg-elon-musk-1200x630.jpg)](https://americanwirenews.com/newsom-makes-insane-move-against-elon-musk-proposes-electric-car-rebates-that-exclude-tesla/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trump-smiling-1200x630.jpg)](https://americanwirenews.com/democrats-suddenly-willing-to-work-with-hitler/)
+[Newsom makes ‘insane’ move against Elon Musk, proposes electric car rebates that exclude Tesla](https://americanwirenews.com/newsom-makes-insane-move-against-elon-musk-proposes-electric-car-rebates-that-exclude-tesla/)
 
-[Democrats suddenly willing to work with ‘Hitler’](https://americanwirenews.com/democrats-suddenly-willing-to-work-with-hitler/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kamalaad-1200-x-628-1200x630.jpg)](https://americanwirenews.com/kamala-mulls-comeback-after-being-crushed-by-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jim-vandehei-1200x630.jpg)](https://americanwirenews.com/elon-musk-gets-last-laugh-when-journo-flips-out-over-x-users-being-told-they-are-the-media/)
+[Kamala mulls comeback after being crushed by Trump](https://americanwirenews.com/kamala-mulls-comeback-after-being-crushed-by-trump/)
 
-[Elon Musk gets last laugh when journo flips out over X users being told they are the media](https://americanwirenews.com/elon-musk-gets-last-laugh-when-journo-flips-out-over-x-users-being-told-they-are-the-media/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-dnc-staff-1200x630.jpg)](https://americanwirenews.com/dnc-workers-begging-for-donations-after-layoffs/)
+
+[DNC workers begging for donations after layoffs](https://americanwirenews.com/dnc-workers-begging-for-donations-after-layoffs/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-patel-1200x630.jpg)](https://americanwirenews.com/kash-patel-asks-for-proof-after-mccabe-others-say-hes-a-dangerous-pick-to-lead-fbi/)
 
 [Kash Patel asks for ‘proof’ after McCabe, others say he’s a ‘dangerous’ pick to lead FBI](https://americanwirenews.com/kash-patel-asks-for-proof-after-mccabe-others-say-hes-a-dangerous-pick-to-lead-fbi/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-whoopi-1200x630.png)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-pxbay-turkey-split-1200-x-628-1200x630.jpg)
 
-### Whoopi singing new tune on Trump criticism, tells Ana Navarro she’s ‘pissing in the wind’](https://americanwirenews.com/whoopi-singing-new-tune-on-trump-criticism-tells-ana-navarro-shes-pissing-in-the-wind/)
+### Thanksgiving dinner costs WAY up since Biden took office, but media offers this gaslighting spin](https://americanwirenews.com/thanksgiving-dinner-costs-way-up-since-biden-took-office-but-media-offers-this-gaslighting-spin/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
