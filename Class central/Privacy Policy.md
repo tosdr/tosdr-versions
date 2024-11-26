@@ -414,34 +414,34 @@ Most common
 
 1. data science
     
-2. machine learning
+2. French
     
-3. flutter
+3. cyber security
     
 
 Popular subjects
 
-1. [Graphic Design
+1. [Artificial Intelligence
     
-    4,356 courses](https://www.classcentral.com/subject/graphic-design)
-2. [Psychology
+    14,064 courses](https://www.classcentral.com/subject/ai)
+2. [Public Health
     
-    2,706 courses](https://www.classcentral.com/subject/psychology)
-3. [Digital Marketing
+    2,523 courses](https://www.classcentral.com/subject/public-health)
+3. [Software Development
     
-    6,283 courses](https://www.classcentral.com/subject/digital-marketing)
+    9,954 courses](https://www.classcentral.com/subject/software-development)
 
 Popular courses
 
-1. [Academic Writing Made Easy
+1. [Learning How To Learn for Youth
     
-    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/writing-technische-universitat-munchen-academic-w-13157)
-2. [Improving Communication Skills
+    Arizona State University](https://www.classcentral.com/course/learning-how-to-learn-youth-12569)
+2. [Preparing to Manage Human Resources
     
-    University of Pennsylvania](https://www.classcentral.com/course/wharton-communication-skills-8235)
-3. [CS50's Introduction to Computer Science
+    University of Minnesota](https://www.classcentral.com/course/managing-human-resources-5462)
+3. [Ableton Live Course: Sound Production for Musicians and Artists
     
-    Harvard University](https://www.classcentral.com/course/computer-science-harvard-university-cs50-s-introd-442)
+    California Institute of the Arts](https://www.classcentral.com/course/kadenze-ableton-live-course-sound-production-for-musicians-and-artists-3765)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
