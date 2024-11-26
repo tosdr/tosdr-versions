@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/39bd4f1c-74cc-41c9-b288-e8731bb5b737/20241126T015901/39bd4f1c-74cc-41c9-b288-e8731bb5b737_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39bd4f1c-74cc-41c9-b288-e8731bb5b737/20241126T015901/39bd4f1c-74cc-41c9-b288-e8731bb5b737_360x203.jpg)](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
+    *  [![](https://media.king5.com/assets/KING/images/85dd131c-f673-4011-9352-16be649b10f1/20241126T064345/85dd131c-f673-4011-9352-16be649b10f1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/85dd131c-f673-4011-9352-16be649b10f1/20241126T064345/85dd131c-f673-4011-9352-16be649b10f1_360x203.jpg)](https://www.king5.com/article/news/crime/washington-state-increases-patrols-target-impaired-drivers-holiday-season/281-129a364e-a3d7-4214-8cb7-33b09b8d7c97)
         
-        #### [4 Washington State Patrol cars struck by DUI drivers in 4 hours](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
+        #### [Washington state increases patrols to target impaired drivers during holiday season](https://www.king5.com/article/news/crime/washington-state-increases-patrols-target-impaired-drivers-holiday-season/281-129a364e-a3d7-4214-8cb7-33b09b8d7c97)
         
-    *  [![](https://media.king5.com/assets/KING/images/360320cf-62e3-428d-9467-e2a354c71f43/20241126T014720/360320cf-62e3-428d-9467-e2a354c71f43_16x9.jpg) ![](https://media.king5.com/assets/KING/images/360320cf-62e3-428d-9467-e2a354c71f43/20241126T014720/360320cf-62e3-428d-9467-e2a354c71f43_360x203.jpg)](https://www.king5.com/article/news/local/governor-proposes-moving-juvenile-offenders-to-former-adult-prison-unit/281-353380de-c70a-4b73-8ceb-a95db0bb1560)
+    *  [![](https://media.king5.com/assets/KING/images/f19078ba-bb47-4c9f-a058-8afbd8eab782/20241126T020801/f19078ba-bb47-4c9f-a058-8afbd8eab782_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f19078ba-bb47-4c9f-a058-8afbd8eab782/20241126T020801/f19078ba-bb47-4c9f-a058-8afbd8eab782_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/tanker-carrying-argon-gas-rolls-over-sr-16-tacoma-driver-arrested-dui/281-2bb9f04b-b5a0-44df-aeeb-83cf5717da2d)
         
-        #### [Inslee proposes moving juvenile offenders to former adult prison unit](https://www.king5.com/article/news/local/governor-proposes-moving-juvenile-offenders-to-former-adult-prison-unit/281-353380de-c70a-4b73-8ceb-a95db0bb1560)
+        #### [Tanker carrying argon gas rolls over on SR 16 in Tacoma, driver arrested for DUI](https://www.king5.com/article/traffic/traffic-news/tanker-carrying-argon-gas-rolls-over-sr-16-tacoma-driver-arrested-dui/281-2bb9f04b-b5a0-44df-aeeb-83cf5717da2d)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/da7ff163-7307-4a28-97b6-bc4756ef5c01/20241124T061248/da7ff163-7307-4a28-97b6-bc4756ef5c01_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da7ff163-7307-4a28-97b6-bc4756ef5c01/20241124T061248/da7ff163-7307-4a28-97b6-bc4756ef5c01_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/enumclaw-nightmare-stolen-generator-used-to-power-ailing-mothers-oxygen-machine/281-48b24bc7-2ec1-4ec3-962d-f87a3e337863)
+    *  [![](https://media.king5.com/assets/KING/images/fda0c3fc-38a2-45fa-ba1c-40b2ce224e74/20241126T062402/fda0c3fc-38a2-45fa-ba1c-40b2ce224e74_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fda0c3fc-38a2-45fa-ba1c-40b2ce224e74/20241126T062402/fda0c3fc-38a2-45fa-ba1c-40b2ce224e74_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/whatcom-county-couple-unharmed-massive-tree-crushes-their-home-bomb-cyclone/281-dbe62f35-c72a-4010-8bdf-05215ba5d179)
         
-        #### [Enumclaw man describes 'nightmare' of stolen generator used to power ailing mother's oxygen machine](https://www.king5.com/article/weather/severe-weather/enumclaw-nightmare-stolen-generator-used-to-power-ailing-mothers-oxygen-machine/281-48b24bc7-2ec1-4ec3-962d-f87a3e337863)
+        #### [Whatcom County couple unharmed after massive tree crushes their home during bomb cyclone](https://www.king5.com/article/weather/severe-weather/whatcom-county-couple-unharmed-massive-tree-crushes-their-home-bomb-cyclone/281-dbe62f35-c72a-4010-8bdf-05215ba5d179)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-47°
+45°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
