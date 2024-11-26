@@ -84,7 +84,7 @@ We collect information about visitors who comment on Sites that use our Akismet 
 
 10\. CONTACT INFORMATION
 
-If you have any questions about this Policy or our practices related to this website, please contact us at [\[email protected\]](https://www.dailywritingtips.com/cdn-cgi/l/email-protection).
+If you have any questions about this Policy or our practices related to this website, please contact us at info@dailywritingtips.com.
 
 #### Advertising.
 
@@ -129,3 +129,23 @@ Categories
 * [Privacy Policy](https://www.dailywritingtips.com/privacy-policy/)
 
 2024 © Daily Writing Tips, a Found First Marketing company. All rights reserved.
+
+Review Your Cart
+
+0
+
+Discount
+
+Add Coupon Code
+
+ Apply
+
+Subtotal
+
+Total Installment Payments
+
+Bundle Discount
+
+[Checkout](https://www.dailywritingtips.com/checkout-2/) 
+
+0
