@@ -253,7 +253,7 @@ EN
 
 EN
 
-Log in[0](https://www.leaseweb.com/en/cart)
+Login [![mini-cart](/assets/images/icons/shopping-cart.svg) 0](https://www.leaseweb.com/en/cart)
 
 [Home](https://www.leaseweb.com/en/)›[History](https://www.leaseweb.com/en/about-us)›[Legal Information](https://www.leaseweb.com/en/about-us/legal)›[Website terms of use](https://www.leaseweb.com/en/about-us/legal/website-terms-of-use-cookie-statement)
 
@@ -507,6 +507,8 @@ Language
     
 * [Videos](https://www.leaseweb.com/en/resources/videos "Videos")
 * [Contact](https://www.leaseweb.com/en/contact "Contact")
+
+[Blog](https://blog.leaseweb.com/)[Knowledge Base](https://kb.leaseweb.com/)[Developer API](http://developer.leaseweb.com/)[Status](https://www.leasewebstatus.com/)[Customer Portal](https://secure.leaseweb.com/)
 
 Cookie Statement
 ================
