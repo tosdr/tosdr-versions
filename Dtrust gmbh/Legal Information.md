@@ -111,7 +111,7 @@ Whilst D-Trust updates and supplements the information on its website to the bes
 
 Should you have any questions regarding our website, please contact info@d-trust.net.
 
-1. Legal notice
+1. [Home](https://www.d-trust.net/en)
 
 Language:
 
@@ -128,6 +128,10 @@ German English
 * [Newsroom](https://www.d-trust.net/en/newsroom "Newsroom")
 * [Support](https://www.d-trust.net/en/support)
 * [Ordering products](https://www.d-trust.net/en/ordering "Ordering products")
+
+Social Media
+
+* [Linkedin](https://www.linkedin.com/company/d-trust/ "LinkedIn")
 
 #### We will be glad to advise you:
 
