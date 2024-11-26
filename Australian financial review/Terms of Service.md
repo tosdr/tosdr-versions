@@ -293,15 +293,16 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3586%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_621/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f7b50a8aa99766b2d1af14235d7f966a92f82655)](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewel-house-that-s-stuck-in-the-70s-for-good-reason-20241104-p5knlo)
+[![Someone’s gotta do it - our intrepid drinks editor Max Allen has chosen his top drops for the year. ](https://static.ffx.io/images/$zoom_0.1609%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/fb72db37639d6b2a00a6885cb60990d1ff7ccf8c)](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-top-20-drinks-of-the-year-20240927-p5kdzl)
 
-### [The jewel house that’s stuck in the 70s – for good reason](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewel-house-that-s-stuck-in-the-70s-for-good-reason-20241104-p5knlo)
+### [Max Allen’s top 20 drinks of the year](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-top-20-drinks-of-the-year-20240927-p5kdzl)
 
-* Eugenie Kelly
+* 56 mins ago
+* Max Allen
 
-* ### [The hobby that taught this jeweller to slow down](https://www.afr.com/life-and-luxury/fashion-and-style/the-jeweller-who-spends-her-downtime-searching-for-sharks-20241023-p5kkjw)
+* ### [The jewel house that’s stuck in the 70s – for good reason](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewel-house-that-s-stuck-in-the-70s-for-good-reason-20241104-p5knlo)
     
-* ### [Jewellery’s hottest trend? Raiding Nanna’s treasure chest](https://www.afr.com/life-and-luxury/fashion-and-style/jewellery-s-hottest-trend-raiding-nanna-s-treasure-chest-20241016-p5kiw1)
+* ### [The hobby that taught this jeweller to slow down](https://www.afr.com/life-and-luxury/fashion-and-style/the-jeweller-who-spends-her-downtime-searching-for-sharks-20241023-p5kkjw)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -321,29 +322,31 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_1.5271%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1888%2C$y_1192/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9586be39653180131d795fc728c0ce3687fa0a6e)](https://www.afr.com/life-and-luxury/travel/grizzly-bears-galore-and-no-way-to-share-the-moment-20241002-p5kfe8)
+[![ ](https://static.ffx.io/images/$zoom_0.9347%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_835%2C$y_90/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d0e2b3630120a8f733f81b66d55fae7b8b4c5ff5)](https://www.afr.com/life-and-luxury/fashion-and-style/seriously-chic-picks-for-the-silly-season-20241118-p5krko)
 
-### [John Kehoe spots a bear (the grizzly kind). Here’s what he learnt](https://www.afr.com/life-and-luxury/travel/grizzly-bears-galore-and-no-way-to-share-the-moment-20241002-p5kfe8)
+### [Seriously chic picks for the silly season](https://www.afr.com/life-and-luxury/fashion-and-style/seriously-chic-picks-for-the-silly-season-20241118-p5krko)
 
-* John Kehoe
+* 56 mins ago
+* Eugenie Kelly
 
-* ### [Security cameras with a two-year battery life? Sold!](https://www.afr.com/technology/security-cameras-with-a-two-year-battery-life-sold-20241121-p5ksi7)
+* ### [The secrets to (male) supermodel style](https://www.afr.com/life-and-luxury/fashion-and-style/the-secrets-to-male-supermodel-style-20241111-p5kplt)
     
-* ### [Will this blueberry wine tempt you for Christmas?](https://www.afr.com/life-and-luxury/food-and-wine/will-this-blueberry-wine-tempt-you-for-christmas-20241120-p5ks8k)
+* ### [Would you eat bear salami?](https://www.afr.com/life-and-luxury/travel/would-you-eat-bear-salami-20240813-p5k249)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Dr Rohan Hockings and Alan Tribe have led the turnaround of PYC Therapeutics.](https://static.ffx.io/images/$zoom_0.4578%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_239%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a9db55d941dfc3382be409d69405919a8c0da5ac)](https://www.afr.com/rich-list/the-stock-set-to-propel-one-of-wa-s-richest-back-onto-the-rich-list-20241120-p5ks3m)
+[![Blackmagic Designs founder Grant Petty with the company’s URSA Cine 17k camera.](https://static.ffx.io/images/$zoom_1%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_938%2C$y_549/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c55bed9f14a56332711e0b68d1036135015aba8a)](https://www.afr.com/life-and-luxury/arts-and-culture/this-rich-lister-has-a-plan-to-save-cinema-and-his-business-20241112-p5kq0f)
 
-### [The stock set to propel one of WA’s richest back onto the Rich List](https://www.afr.com/rich-list/the-stock-set-to-propel-one-of-wa-s-richest-back-onto-the-rich-list-20241120-p5ks3m)
+### [This Rich Lister has a plan to save cinema (and his business)](https://www.afr.com/life-and-luxury/arts-and-culture/this-rich-lister-has-a-plan-to-save-cinema-and-his-business-20241112-p5kq0f)
 
-* Yolanda Redrup
+* 56 mins ago
+* Michael Bailey
 
-* ### [Lonely Planet founders not content with giving away half their wealth](https://www.afr.com/wealth/people/lonely-planet-founders-not-content-with-giving-away-half-their-wealth-20241119-p5krsr)
+* ### [The stock set to propel one of WA’s richest back onto the Rich List](https://www.afr.com/rich-list/the-stock-set-to-propel-one-of-wa-s-richest-back-onto-the-rich-list-20241120-p5ks3m)
     
-* ### [The Rich List region that’s become Sydney’s Hamptons](https://www.afr.com/property/residential/the-rich-list-region-that-s-become-sydney-s-hamptons-20241113-p5kqfy)
+* ### [Lonely Planet founders not content with giving away half their wealth](https://www.afr.com/wealth/people/lonely-planet-founders-not-content-with-giving-away-half-their-wealth-20241119-p5krsr)
     
 
 [The Australian Financial Review](https://www.afr.com/)
