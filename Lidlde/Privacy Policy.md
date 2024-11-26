@@ -718,11 +718,9 @@ Die Auswertung des Nutzungsverhaltens umfasst insbesondere folgende Informatione
 
 Wir erstellen mit diesen Daten personalisierte Nutzungsprofile unter Zuordnung Ihrer Person und/ oder E-Mail-Adresse oder Mobilfunknummer, um eine mögliche werbliche Ansprache mittels Newslettern, SMS, WhatsApp-/ Push-Nachrichten, On-Site-Werbeeinblendungen und Printwerbung besser auf Ihre persönlichen Interessen ausrichten zu können und unsere Angebote und digitalen Auftritte zu verbessern.
 
-Dieses Nutzungsprofil können wir zudem mit Informationen zu von Ihnen in Onlineshop oder Lidl App gekauften Produkten, Ihrem Alter und Geschlecht anreichern, wenn Sie uns hierfür Ihre Einwilligung erteilt haben.
+Dieses Nutzungsprofil können wir zudem mit Informationen zu von Ihnen in Onlineshop oder Lidl App gekauften Produkten, Ihren Produktbewertungen, Ihrem Alter und Geschlecht anreichern, wenn Sie uns hierfür Ihre Einwilligung erteilt haben.
 
 Wenn Sie die "Über mich”-Sektion in Lidl Plus ausgefüllt haben, werden diese Daten auch verwendet, um unsere Dienste an Ihre Interessen anzupassen. Die Rechtsgrundlage dafür ist Artikel 6 Absatz 1 Buchstabe b) DSGVO (Vertrag zwischen der Lidl Stiftung und Ihnen).
-
-  
 
 9.2 Werbeinhalte
 
@@ -817,43 +815,59 @@ Ihre Daten werden 90 Tage nach der Anmeldung gelöscht.
 
 9.5 Abgabe von Produktbewertungen
 
-Zwecke der Datenverarbeitung/ Rechtsgrundlagen
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
+
+Mit Ihrer Einwilligung ermöglichen wir Ihnen im Nachgang zu Ihren Bestellungen die Abgabe von Kaufbewertungen. Dazu schicken wir Ihnen E-Mails mit einem Link an Ihre in Ihrem Kundenkonto hinterlegten E-Mail-Adresse, über welchen Sie direkt eine Bewertung des gekauften Produkts abgeben können. Bewertungen sind auch aus Ihrem Kundenkonto heraus für Artikel in Ihrer Bestellhistorie möglich. Bei Bewertungen, die auf Probleme bei der Bestellung oder Artikeln hinweisen, werden wir gegebenenfalls im Nachgang zur Klärung des Sachverhalts mit Ihnen per E-Mail in Kontakt treten. Die Teilnahme an dieser Korrespondenz erfolgt rein freiwillig. Wir sind Ihnen für Ihre Unterstützung dankbar.
 
   
 
-Mit Ihrer Einwilligung ermöglichen wir Ihnen im Nachgang zu Ihren Bestellungen die Abgabe von Kaufbewertungen. Dazu schicken wir Ihnen E-Mails mit einem Link an die im Bestellprozess hinterlegte E-Mail-Adresse. Über die Links können Sie direkt eine Bewertung des gekauften Produkts abgeben. Bei Bewertungen, die auf Probleme bei der Bestellung oder Artikeln hinweisen, werden wir gegebenenfalls im Nachgang zur Klärung des Sachverhalts mit Ihnen per E-Mail in Kontakt treten. Die Teilnahme an dieser Korrespondenz erfolgt rein freiwillig. Wir sind Ihnen für Ihre Unterstützung dankbar.
+Um die Bewertung konkreten Verkäufen zuordnen zu können und mehrfache Bewertungen einzelner Käufe zu verhindern, wird dabei die mit dem Verkauf verbundene Kundennummer und Bestellnummer zu der jeweiligen Bewertung hinzugespeichert (Verifikation der Verkäufe). Zudem verwenden wir Ihre Bewertungen für Auswertungen zu Marketingzwecken.
 
   
 
-Um die Bewertung konkreten Verkäufen zuordnen zu können und mehrfache Bewertungen einzelner Käufe zu verhindern, wird dabei die mit dem Verkauf verbundene Kundennummer zu der jeweiligen Bewertung hinzugespeichert.
+Die Darstellung Ihrer Bewertung auf unseren Webseiten erfolgt in rein anonymisierter Form. Um unseren Kunden einen einfachen und schnellen Überblick zu ermöglichen, fassen wir die wichtigsten positiven sowie negativen Punkte aus den veröffentlichten Bewertungen durch eine KI-basierte Software zusammen.
 
   
 
-Die Darstellung Ihrer Bewertung auf unseren Webseiten erfolgt in rein anonymisierter Form.
+Rechtsgrundlage für die oben genannten Datenverarbeitungen ist Ihre Einwilligung nach Artikel 6 Absatz 1 Buchstabe a) DSGVO. Diese erklären Sie durch die Abgabe einer Bewertung oder durch die Zustimmung zum Erhalt eines Links zur Abgabe der Bewertung.
 
   
 
-Rechtsgrundlage für die oben genannten Datenverarbeitungen ist Ihre Einwilligung nach Artikel 6 Absatz 1 Buchstabe a) DSGVO.
+**Sie können Ihre Einwilligung in diese Datenverarbeitung jederzeit mit Wirkung für die Zukunft widerrufen. Hierfür genügt z.B. eine E-Mail an die unter Ziffer 18 genannten Kontaktdaten.**
 
   
 
-Empfänger/ Kategorien von Empfängern
+Wir benötigen Ihre Bestellnummer zudem, um nachweisen zu können, dass eine Bewertung auf einer bestätigten Bestellung basiert und um Bewertungen auf Wunsch löschen zu können. Die Speicherung der Bestellnummer zu diesem Zweck erfolgt auf Grundlage von Artikel 6 Absatz 1 Buchstabe f) DSGVO.
 
   
 
-Sofern für die Ermöglichung der Abgabe von Kaufbewertungen externe Auftragsverarbeiter eingesetzt werden, sind diese nach Artikel 28 DSGVO vertraglich verpflichtet.
+Empfänger/ Kategorien von Empfängern:
 
   
 
-Speicherdauer/ Kriterien für Festlegung der Speicherdauer
+Sofern für die Ermöglichung der Abgabe und Zusammenfassung von Kaufbewertungen externe Auftragsverarbeiter eingesetzt werden, sind diese nach Artikel 28 DSGVO vertraglich verpflichtet. Im Rahmen der werblichen Nutzung Ihrer Bewertungen erfolgt zudem eine Weitergabe Ihrer Daten an andere Gesellschaften der Schwarz Gruppe.
 
   
 
-Sofern Sie Ihre Einwilligung zum Erhalt der Kaufbewertungs-E-Mails widerrufen, wird Ihre E-Mail-Adresse für den Erhalt dieser E-Mails gesperrt.
+Der Text Ihrer Bewertung wird an die Lidl Onlineshops anderer Länder weitergegeben und übersetzt. Ihre Kundendaten werden nicht weitergegeben und die Veröffentlichung Ihrer Bewertung erfolgt wie auch im deutschen Onlineshop in rein anonymer Form.
 
   
 
-Die Kundennummer wird für die Verifikation der Verkäufe nach Abgabe der Produktbewertung für einen Zeitraum von sechs Monaten gespeichert und im Anschluss gelöscht.
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+
+  
+
+Sofern Sie Ihre Einwilligung zum Erhalt der Kaufbewertungs-E-Mails widerrufen, wird Ihre E-Mail-Adresse für den Erhalt dieser E-Mails gesperrt. Ihre Daten werden anschließend aus den entsprechenden E-Mail-Verteilern gelöscht.
+
+  
+
+Die Kundennummer wird für die Verifikation der Verkäufe nach Abgabe der Produktbewertung und für Marketingzwecke für einen Zeitraum von zwölf Monaten gespeichert und im Anschluss oder bei Widerruf der Einwilligung gelöscht.
+
+  
+
+Die Löschung der Bestellnummer erfolgt nach fünf Jahren.
+
+  
 
 10\. Einsatz von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten
 
