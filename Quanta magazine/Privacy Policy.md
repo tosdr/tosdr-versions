@@ -309,18 +309,6 @@ _By_ [Anil Ananthaswamy](https://www.quantamagazine.org/authors/anil-ananthaswam
 
 _By_ [John Pavlus](https://www.quantamagazine.org/authors/john-pavlus)
 
-[![An illustration of a man using a telescope to look at a constellation in the shape of a mathematical curve.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Elliptic-Curve-Record_crDaniel-Garcia-Thumbnail.webp)](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
-
-[#### New Elliptic Curve Breaks 18-Year-Old Record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
-
-_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
-
-[![A meteorite floating in space](https://www.quantamagazine.org/wp-content/uploads/2024/11/TheComet_crChristianStangl-Thumbnail.webp)](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
-
-[#### The Cosmos Teems with Complex Organic Molecules](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
-
-_By_ [Elise Cutts](https://www.quantamagazine.org/authors/elise-cutts)
-
 The Quanta Newsletter
 
 _Get highlights of the most important news delivered to your email inbox_
