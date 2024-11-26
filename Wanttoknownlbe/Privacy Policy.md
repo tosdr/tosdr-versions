@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oekraiens-onderzoek-associatieverdrag-is-verkeerd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/het-verschil-tussen-nepgetuige-en-nepgetuige/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
