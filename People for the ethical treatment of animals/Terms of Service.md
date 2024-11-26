@@ -478,7 +478,7 @@ International Sites
 
 Share Post [Donate](https://headlines.peta.org/donate/ "Donate")
 
-**[Click here](sms:73822?&body=OKC) to text [OKC](sms:73822?&body=OKC) to [73822](sms:73822?&body=OKC) to take action after a dog was mauled to death at an Oklahoma City shelter!**
+**[Click here](sms:73822?&body=OREO) to text [OREO](sms:73822?&body=OREO) to [73822](sms:73822?&body=OREO) to tell the maker of Oreo cookies to stop paying for experiments on animals, like force-feeding mice human feces then killing them.**
 
 Terms for automated texts/calls from PETA: [http://peta.vg/txt](https://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/). Text STOP to end, HELP for more info. Msg/data rates may apply. U.S. only.
 
