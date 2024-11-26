@@ -101,7 +101,6 @@ Main Menu
         * [AI Enterprise Suite](https://www.nvidia.com/en-eu/data-center/products/ai-enterprise-suite/)
         * [Cloud Native Support](https://developer.nvidia.com/egx-stack)
         * [Cluster Management](https://developer.nvidia.com/cluster-management)
-        * [Edge Deployment Management](https://www.nvidia.com/en-eu/data-center/products/fleet-command/)
         * [IO Acceleration](https://www.nvidia.com/en-eu/data-center/magnum-io/)
         * [Networking](https://www.nvidia.com/en-eu/networking/products/software/)
         * [Virtual GPU](https://www.nvidia.com/en-eu/data-center/virtual-solutions/)
@@ -124,6 +123,7 @@ Main Menu
         * [AI Inference](https://www.nvidia.com/en-eu/deep-learning-ai/solutions/inference-platform/)
         * [AI Workflows](https://www.nvidia.com/en-eu/ai-data-science/ai-workflows/)
         * [Conversational AI](https://www.nvidia.com/en-eu/deep-learning-ai/solutions/conversational-ai/)
+        * [Cybersecurity](https://www.nvidia.com/en-eu/solutions/ai/cybersecurity/)
         * [Data Analytics](https://www.nvidia.com/en-eu/deep-learning-ai/solutions/data-analytics/)
         * [Generative AI](https://www.nvidia.com/en-eu/ai-data-science/generative-ai/)
         * [Machine Learning](https://www.nvidia.com/en-eu/deep-learning-ai/solutions/machine-learning/)
@@ -141,6 +141,7 @@ Main Menu
     * Design and Simulation
         
         * [Overview](https://www.nvidia.com/en-eu/solutions/design-and-simulation/)
+        * [Computer Aided-Engineering](https://www.nvidia.com/en-eu/solutions/cae/)
         * [Digital Twin Development](https://www.nvidia.com/en-eu/omniverse/solutions/digital-twins/)
         * [Rendering and Visualization](https://www.nvidia.com/en-eu/design-visualization/)
         * [Robotics Simulation](https://www.nvidia.com/en-eu/solutions/robotics-and-edge-computing/)
@@ -552,7 +553,6 @@ NVIDIA NVIDIA logo
             * [AI Enterprise Suite](https://www.nvidia.com/en-eu/data-center/products/ai-enterprise-suite/)
             * [Cloud Native Support](https://developer.nvidia.com/egx-stack)
             * [Cluster Management](https://developer.nvidia.com/cluster-management)
-            * [Edge Deployment Management](https://www.nvidia.com/en-eu/data-center/products/fleet-command/)
             * [IO Acceleration](https://www.nvidia.com/en-eu/data-center/magnum-io/)
             * [Networking](https://www.nvidia.com/en-eu/networking/products/software/)
             * [Virtual GPU](https://www.nvidia.com/en-eu/data-center/virtual-solutions/)
@@ -573,6 +573,7 @@ NVIDIA NVIDIA logo
         * [AI Inference](https://www.nvidia.com/en-eu/deep-learning-ai/solutions/inference-platform/)
         * [AI Workflows](https://www.nvidia.com/en-eu/ai-data-science/ai-workflows/)
         * [Conversational AI](https://www.nvidia.com/en-eu/deep-learning-ai/solutions/conversational-ai/)
+        * [Cybersecurity](https://www.nvidia.com/en-eu/solutions/ai/cybersecurity/)
         * [Data Analytics](https://www.nvidia.com/en-eu/deep-learning-ai/solutions/data-analytics/)
         * [Generative AI](https://www.nvidia.com/en-eu/ai-data-science/generative-ai/)
         * [Machine Learning](https://www.nvidia.com/en-eu/deep-learning-ai/solutions/machine-learning/)
@@ -590,6 +591,7 @@ NVIDIA NVIDIA logo
     * Design and Simulation
         
         * [Overview](https://www.nvidia.com/en-eu/solutions/design-and-simulation/)
+        * [Computer Aided-Engineering](https://www.nvidia.com/en-eu/solutions/cae/)
         * [Digital Twin Development](https://www.nvidia.com/en-eu/omniverse/solutions/digital-twins/)
         * [Rendering and Visualization](https://www.nvidia.com/en-eu/design-visualization/)
         * [Robotics Simulation](https://www.nvidia.com/en-eu/solutions/robotics-and-edge-computing/)
