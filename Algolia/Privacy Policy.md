@@ -323,7 +323,7 @@ Information that we collect from you automatically may include the following:
 
 Algolia and our partners use cookies or similar technologies to analyze trends, administer our Websites and Services, track users' movements around our Websites and Services, and to gather demographic information about our user base as a whole. A cookie is a small piece of information that is placed on your device when you visit certain websites. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our Websites or Services.
 
-For more information on how Algolia uses cookies, refer to [https://www.algolia.com/policies/cookies/](https://www.algolia.com/policies/cookies?onetrustinfo=1).[\[ Open cookie settings \]](https://www.algolia.com/policies/privacy/#)
+For more information on how Algolia uses cookies, refer to [https://www.algolia.com/policies/cookies/](https://www.algolia.com/policies/cookies?onetrustinfo=1).
 
 For more information on third-party cookies, refer to Section 6 of this Privacy Policy.
 
