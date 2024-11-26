@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/5187.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -142,23 +142,23 @@ Offres spéciales saisonnières](https://www.microspot.ch/de/cms/season-deals)
 Testé pour vous
 ---------------
 
-[![80x80_I24_Icons_013_Blog25.png](/medias/80x80-I24-Icons-013-Blog25.png?context=bWFzdGVyfGNtc3w1MDIxfGltYWdlL3BuZ3xhRFZpTDJnNE55ODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeU5TNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1qVXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8YjQ0NWIwNmI3MGMwYzQ1MzMyMDYxZTc5ZTc5NzRmZTA5NDQwY2FiM2NlMGU1NWFmNGZmYmFlNzMyYzQ4ZDBjNA)
-
-SAMSUNG
-
-Galaxy Z Flip6](https://www.microspot.ch/fr/cms/blog/conseils/samsung-galaxy-z-flip6)
-
 [![80x80_I24_SoMe_Blog_Kenwood.jpg](/medias/80x80-I24-SoMe-Blog-Kenwood.jpg?context=bWFzdGVyfGNtc3w1MTQ3fGltYWdlL2pwZWd8YUdRMEwyZ3pNeTg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDB0bGJuZHZiMlF1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnd2VEZ3dYMGt5TkY5VGIwMWxYMEpzYjJkZlMyVnVkMjl2WkM1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfGRiOWMyOWExYjE5ZWRmZTFmOGVjZWVhYWJkNTU5MWFjMTBjMzY4N2RiYjE4Yzg5ZDExZjFmM2JmYjM0ODBiNzQ)
 
 KENWOOD
 
 Cooking Chef XL](https://www.microspot.ch/fr/cms/blog/conseils/kenwood-cooking-chef-xl)
 
-[![80x80_I24_SoMe_Blog_Philips_One_Blade.jpg](/medias/80x80-I24-SoMe-Blog-Philips-One-Blade.jpg?context=bWFzdGVyfGNtc3wzMjgxfGltYWdlL2pwZWd8YUdRekwyZzVPUzg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDFCb2FXeHBjSE5mVDI1bFgwSnNZV1JsTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlUyOU5aVjlDYkc5blgxQm9hV3hwY0hOZlQyNWxYMEpzWVdSbExtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDU4ZjMwZWVjODQ1MTgxMzFkYzY1NjFhNjI5NDg1NGI1ZTcwMDMwZWUxNGY1YzIxMjY4ZGY4MjJkM2YxYjE0ZjA)
+[![80x80_I24_SoMe_Blog_Dyson_Waschsauger.jpg](/medias/80x80-I24-SoMe-Blog-Dyson-Waschsauger.jpg?context=bWFzdGVyfGNtc3wzMTk3fGltYWdlL2pwZWd8YURObEwyZzVZaTg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDBSNWMyOXVYMWRoYzJOb2MyRjFaMlZ5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlUyOU5aVjlDYkc5blgwUjVjMjl1WDFkaGMyTm9jMkYxWjJWeUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfGYyYWNiYmU5MTEzN2Q1MmFkNWFkNWFlNThlNTVkMTBjYjNiMDlkZmEzMWMyNTU5ZDk4M2ViMDhmOTYzZDJiMDE)
 
-PHILIPS
+DYSON
 
-OneBlade Pro 360 Face + Body](https://www.microspot.ch/fr/cms/blog/conseils/philips-oneblade-pro-360)
+Wash G1](https://www.microspot.ch/fr/cms/blog/conseils/dyson-washg1)
+
+[![80x80_I24_SoMe_Blog_Sony_Makroobjektive.jpg](/medias/80x80-I24-SoMe-Blog-Sony-Makroobjektive.jpg?context=bWFzdGVyfGNtc3w0MTI4fGltYWdlL2pwZWd8YURsa0wyZzBNaTg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDFOdmJubGZUV0ZyY205dlltcGxhM1JwZG1VdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBreU5GOVRiMDFsWDBKc2IyZGZVMjl1ZVY5TllXdHliMjlpYW1WcmRHbDJaUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8YjBlZTliYzgxYTRmMGNhMGI5NDdkODE0MjRiNmZlN2Y5NjYwMWMyMmIxZWQzM2Q1NDA1MDExMmUzZmJhZGM4MA)
+
+SONY
+
+Objectifs macro](https://www.microspot.ch/fr/cms/blog/conseils/sony-makro)
 
 Test: GOPRO HERO 13 BLACK Creator Edition
 -----------------------------------------
@@ -215,13 +215,13 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Retrait gratuit
-
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
 [Garantie Plus
 
 prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+
+[Frais de port gratuits pour livraison
+
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
