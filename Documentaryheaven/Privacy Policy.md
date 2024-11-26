@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Betrayed](/wp-content/thumbnails/187-100x70.png?x53432)
+* [![Provos: The IRA and Sinn Fein](/wp-content/thumbnails/3481-100x70.jpg?x53432)
     
-    The Betrayed
+    Provos: The IRA and Sinn Fein
     
-    Fergal Keane investigates how a terrible slaughter, three quarters of a century ago, has returned to haunt the relationship between Turkey and its western allies. For decades the Armenian people have](https://documentaryheaven.com/the-betrayed/ "The Betrayed")
-* [![Hearts and Minds](/wp-content/thumbnails/1525-100x70.jpg?x53432)
+    Where does one begin with the IRA? In the 17th century with the first Protestant settlers in the Northeast of Ireland? With Patrick Pearse's seizure of the GPO building in Dublin in 1916? With the Par](https://documentaryheaven.com/provos-the-ira-and-sinn-fein/ "Provos: The IRA and Sinn Fein")
+* [![Screamadelica – Classic Albums (Primal Scream)](/wp-content/thumbnails/5827-100x70.jpg?x53432)
     
-    Hearts and Minds
+    Screamadelica – Classic Albums (Primal Scream)
     
-    This film recounts the history and attitudes of the opposing sides of the Vietnam War using archival news footage as well as their own film and interviews. Using a wealth of sources-from interviews to](https://documentaryheaven.com/hearts-and-minds/ "Hearts and Minds")
-* [![Robot Revolution: Will Machines Surpass Humans](/wp-content/thumbnails/8132-100x70.png?x53432)
+    Primal Scream's seminal album Screamadelica was released in 1991, and synthesized the band's rock 'n' roll roots with the dance culture of that time; for many, the album's sound and imagery came to be](https://documentaryheaven.com/screamadelica-classic-albums-primal-scream/ "Screamadelica – Classic Albums (Primal Scream)")
+* [![Twist of Faith (2004)](/wp-content/thumbnails/1520-100x70.jpg?x53432)
     
-    Robot Revolution: Will Machines Surpass Humans
+    Twist of Faith (2004)
     
-    The NHK documentary, "Robot Revolution : Will Machines surpass humans" features Honda ASIMO, Hubo, Big Dog from Boston Dynamics, Baxter from Rethink Robotics, Nextage and other humanoid robots. Since](https://documentaryheaven.com/robot-revolution-will-machines-surpass-humans/ "Robot Revolution: Will Machines Surpass Humans")
-* [![How the KKK Preys on American Veterans](/wp-content/thumbnails/9469-100x70.jpg?x53432)
+    There's no easy way to address a highly charged subject like the sexual abuse of young boys by Catholic priests, but with Twist of Faith, director Kirby Dick has taken a straightforward approach, usin](https://documentaryheaven.com/twist-of-faith-2004/ "Twist of Faith (2004)")
+* [![The Case for Christ](/wp-content/thumbnails/2200-100x70.jpg?x53432)
     
-    How the KKK Preys on American Veterans
+    The Case for Christ
     
-    In this VICE special reporter Rocco Castoro travels down to the Mississippi in order to get a feel for why the Ku Klux Klan has recently been experiencing an increase in new memberships. The general c](https://documentaryheaven.com/how-kkk-preys-on-american-veterans/ "How the KKK Preys on American Veterans")
-* [![Apple’s Broken Promises](/wp-content/thumbnails/9465-100x70.jpg?x53432)
+    The documentary The Case for Christ follows reporter Lee Strobel as he interviews a number of religious and historical scholars in order to find out if there is any proof of the resurrection, and to d](https://documentaryheaven.com/the-case-for-christ/ "The Case for Christ")
+* [![Yemen: State of Intoxication](/wp-content/thumbnails/7782-100x70.jpg?x53432)
     
-    Apple’s Broken Promises
+    Yemen: State of Intoxication
     
-    In this Panorama special the truth about Apple and your iPhone is revealed, for the first time secret filming from inside the high security Chinese factories where Apples products are made show the re](https://documentaryheaven.com/apples-broken-promises/ "Apple’s Broken Promises")
+    Is Yemen a nation under the influence of drugs? Each afternoon the country slows down as both young and old chew Khat leaves for a legal high. Meanwhile farms have stopped growing food and water](https://documentaryheaven.com/yemen-state-intoxication/ "Yemen: State of Intoxication")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
