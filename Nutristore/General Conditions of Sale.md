@@ -1,4 +1,4 @@
-[SAVE 25% ON BUCKET VARIETY PACK | FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/shop-all-food)
+[BLAKC FRIDAY SALE LIVE - SAVE UP TO 30% ON EVERYTHING, NO CODE NEEDED | FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/shop-all-food)
 
 [![Nutristore](//nutristorefoods.com/cdn/shop/t/8/assets/logo.png?v=5092338648562814141647639854)](https://nutristorefoods.com/)
 
@@ -77,7 +77,7 @@ Refund Policy
 
 Learn more about our [Delivery & Returns Policy](https://www.foodstorage.com/pages/delivery-returns-policy "Nutristore Delivery & Refunds Policy").
 
-#### Sign up for 15% off your first order!
+#### Sign up for Exclusive Offers
 
   
 
