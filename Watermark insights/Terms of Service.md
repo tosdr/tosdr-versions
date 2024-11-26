@@ -176,7 +176,7 @@
             
 * [Sign in](https://www.watermarkinsights.com/client-resources/signon/)
 
-* [Learn about EIS](https://www.watermarkinsights.com/explore/educational-impact-suite/)
+* [Our Solutions](https://www.watermarkinsights.com/solutions/)
 * [Book a meeting](https://www.watermarkinsights.com/request-demo/)
 
 Terms of Service
@@ -342,4 +342,4 @@ Via email: [legal@watermarkinsights.com](mailto:legal@watermarkinsights.com) Via
 
 * Copyright © 2024. All rights reserved
 
-[View our EIS](https://www.watermarkinsights.com/explore/educational-impact-suite/)
+[Our Solutions](https://www.watermarkinsights.com/solutions/)
