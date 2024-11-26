@@ -138,7 +138,7 @@ Discover the hottest items flying off the shelves.
     
     ### [FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](https://www.rangextd.com/products/smart-pet-qr-tag)
     
-    Out of stock
+    Next day delivery
     
     $62.99 $31.99
     
@@ -245,42 +245,6 @@ Don't Miss Out on Must-Have Devices & Unique Items!
     ### [PocketHose - The Ultimate Expandable Garden Hose](https://www.rangextd.com/products/pockethose-expandable-hose)
     
     $122.20 $54.99
-    
-
-Top Savvy Techs
-===============
-
-*  [![Experience the New iPhone 15 Pro Max 256GB Blue Titanium](//savvysmartdeals.com/cdn/shop/files/nxz54zajpkfqdpidnqn77eto69k0heem.jpg?v=1727853999&width=465)![Experience the New iPhone 15 Pro Max 256GB Blue Titanium](//savvysmartdeals.com/cdn/shop/files/955fc53acec3d5117801815ccfdc0ee6.jpg?v=1727853999&width=465)](https://www.rangextd.com/products/experience-the-iphone-15promax)
-    
-    ### [Experience the New iPhone 15 Pro Max 256GB Blue Titanium](https://www.rangextd.com/products/experience-the-iphone-15promax)
-    
-    Next day delivery
-    
-    $1,199.99
-    
-*  [![Experience the New MacBook Air M3 13-inch](//savvysmartdeals.com/cdn/shop/files/macbook_air_m3_xanh_den_-3_1db46a37c9ab4b8f84009499a17f613b_grande_603f055f-cd84-4d41-b07b-9f2a9063605e.webp?v=1727852448&width=465)![Experience the New MacBook Air M3 13-inch](//savvysmartdeals.com/cdn/shop/files/ezgif.com-webp-to-jpg-2023-04-27T180613.558.jpg?v=1727851987&width=465)](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
-    
-    ### [Experience the New MacBook Air M3 13-inch](https://www.rangextd.com/products/experience-the-new-macbook-air-m3-13-inch)
-    
-    Next day delivery
-    
-    $1,099.00
-    
-*  [![Experience the New PlayStation 5 Pro](//savvysmartdeals.com/cdn/shop/files/playstation-pro-reveal.jpg?v=1727868252&width=465)![Experience the New PlayStation 5 Pro](//savvysmartdeals.com/cdn/shop/files/sony-playstation-5-ps5-controller-header.webp?v=1727868252&width=465)](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
-    
-    ### [Experience the New PlayStation 5 Pro](https://www.rangextd.com/products/experience-the-new-playstation-5-pro)
-    
-    10 in stock Next day delivery
-    
-    $1,099.99
-    
-*  [![Galaxy Tab S10 Ultra - Monochrome](//savvysmartdeals.com/cdn/shop/files/1.jpg?v=1727675267&width=465)![Galaxy Tab S10 Ultra - Monochrome](//savvysmartdeals.com/cdn/shop/files/66f664d50b8a811b2e389b56_005-galaxy-tab-s10-series-is-samsungs-ai-ready-tablet__1__high.jpg?v=1727675267&width=465)](https://www.rangextd.com/products/galaxy-tab-s10-ultra-monochrome)
-    
-    ### [Galaxy Tab S10 Ultra - Monochrome](https://www.rangextd.com/products/galaxy-tab-s10-ultra-monochrome)
-    
-    Next day delivery
-    
-    $999.99
     
 
 * ![](//savvysmartdeals.com/cdn/shop/files/logo-fox.png?v=1720582128&width=150)
