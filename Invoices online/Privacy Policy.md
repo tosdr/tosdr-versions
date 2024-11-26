@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Anri van der Linde
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=150903642)  
-Iurus Inc
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=99072734)  
+ELLIE'S CLEANING CHICKS
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=2261731)  
-VIR Electrical (PTY) LTD
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=36559922)  
-Website Café (PTY) LTD
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=1433331)  
-OXYAIDER (PTY) LTD
-
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=147124710)  
-RADIO TYGERBERG 104FM NPC
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=136670832)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=77550380)  
-Wiselink Broadband Pty Ltd
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=43960114)  
-Dr V Naik Consult
-
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=148287624)  
-Moulded Wax SA - The Candle Store
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=54395401)  
-Network Grey (Pty) Ltd
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=137321393)  
-Multi CNC Solutions CC
-
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=199278462)  
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=111685846)  
 INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=122224107)  
-Vplay Letsheng Mall
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=175476718)  
+MR Compressors& Industrial Supplies
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=179134878)  
-CBR Verwe/Paints
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=55620138)  
+OrgChart Hosting Pty Ltd
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=a3941209fa881aadcf6e7f9cb8d9d1c889e596c9461cd20d864c55b37d5446fa&c=89426117)  
-Camp 4 Africa (Pty) Ltd
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=13378353)  
+Imhoff Equestrian Centre
+
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=94964880)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=199650370)  
+Moremi Kitchens Rustenburg
+
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=3876676)  
+PROGRAPHIX PTY LTD
+
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=204072683)  
+WIP Digital Solutions
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=116665837)  
+IYD
+
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=91553505)  
+TechnoDezi PTY(LTD)
+
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=187513690)  
+Electro-Heat
+
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=59516362)  
+Roekeloos Group
+
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=61046359)  
+Moulded Wax SA - The Candle Store
+
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=136797247)  
+Norton Medical & Consult - Namibia
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
