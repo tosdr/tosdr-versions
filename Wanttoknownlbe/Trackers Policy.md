@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/wat-vreet-bp-uit-zien-we-de-catastrofe-wel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/stomdronken-juncker-geeft-eu-visitekaartje-af/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
