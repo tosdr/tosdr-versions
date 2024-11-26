@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>4:39pm |
-| God'S CountryBlake Shelton<br><br>4:35pm |
-| Son Of A SinnerJelly Roll<br><br>4:31pm |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:28pm |
-| Knee DeepZac Brown Band Ft. Jimmy Buffet<br><br>4:25pm |
+| How Country FeelsRandy Houser<br><br>10:42pm |
+| A Lot More FreeMax Mcnown<br><br>10:38pm |
+| The Kind Of Love We MakeLuke Combs<br><br>10:35pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:23pm |
+| Rock And A Hard PlaceBailey Zimmerman<br><br>10:20pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
-
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Eastern
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
