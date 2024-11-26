@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Misch­fonds-ETF: Die ganze Geld­anlage in einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in einem ETF")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Misch­fonds-ETF: Die ganze Geld­anlage in einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in einem ETF")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Misch­fonds-ETF: Die ganze Geld­anlage in einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in einem ETF")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Umfrage zu Küchen­maschinen mit Koch­funk­tion: Was können die Alleskönner wirk­lich?](https://www.test.de/Umfrage-zu-Kuechenmaschinen-mit-Kochfunktion-Was-koennen-die-Alleskoenner-wirklich-5966564-0/ "Umfrage zu Küchenmaschinen mit Kochfunktion - Was können die Alleskönner wirklich?")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Digitale Gerichts­verfahren: Urteil per Video­konferenz](https://www.test.de/Digitale-Gerichtsverfahren-Urteil-per-Videokonferenz-6051335-0/ "Digitale Gerichtsverfahren - Urteil per Videokonferenz")
-* [Computer-Mäuse im Test: Gaming-Maus schlägt Office-Maus](https://www.test.de/gaming-maus-test-6156860-0/ "Computer-Mäuse im Test - Gaming-Maus schlägt Office-Maus")
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
+* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Misch­fonds-ETF: Die ganze Geld­anlage in einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in einem ETF")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
 
 Service Stiftung Warentest
 
