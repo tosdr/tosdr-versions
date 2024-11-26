@@ -496,7 +496,6 @@ Worry Free Shopping
 Information
 
 * [About Us](https://www.fanatics.com/about-us/ch-2389 "About Us")
-* [Advertise With Us](https://www.fanatics.com/partner-solutions-about/x-23369356+z-9525308-2469776239 "Advertise With Us")
 * [Affiliate Program](https://www.fanatics.com/affiliates/x-2712+z-928231036-1795439153 "Affiliate Program")
 * [Fanatics App](https://www.fanatics.com/mobile/x-67 "Fanatics App")
 * [Fanatics MVP](https://www.fanatics.com/rewards "Fanatics MVP")
@@ -556,9 +555,9 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: 7b5a5e9b9d6cfabb
+rc: 5242872d203e9ce5
 
-vid: ebd907e0-abc9-11ef-bd21-4fd9f13d0682
+vid: cdf97240-abfc-11ef-af43-351c16a11319
 
 version: 1.1.0-rc-20241009-15.101420
 
@@ -566,13 +565,13 @@ version: 1.1.0-rc-20241009-15.101420
 
 Qualified Experiments #:* 12635:A:0:1
 * 15273:B:1:1
-Namespaces:* 6:677:0
-* 7:3413:0
-* 8:1551:0
-* 11:2784:0
-* 2:3569:0
-* 3:4785:0
-* 4:2106:0
-* 5:3021:0
-* 9:3483:0
-* 10:5927:0
+Namespaces:* 5:4475:0
+* 7:4828:0
+* 10:5211:0
+* 11:40:0
+* 2:1150:0
+* 3:2812:0
+* 4:2404:0
+* 6:1258:0
+* 8:1341:0
+* 9:2331:0
