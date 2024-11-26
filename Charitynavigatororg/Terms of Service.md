@@ -12,10 +12,10 @@
     
     * [Best Charities](https://www.charitynavigator.org/discover-charities/best-charities.html)
     * [Charities with Perfect Scores](https://www.charitynavigator.org/discover-charities/best-charities/highly-rated-charities.html)
-    * [Immigration and Refugees](https://www.charitynavigator.org/discover-charities/best-charities/immigration-refugee-charities.html)
     * [Animal Rescue](https://www.charitynavigator.org/discover-charities/best-charities/support-animal-rescue.html)
     * [Climate Change](https://www.charitynavigator.org/discover-charities/best-charities/climate-change.html)
     * [Military and Veterans](https://www.charitynavigator.org/discover-charities/where-to-give/veteran-service-member-charities.html)
+    * [Charity Navigator’s Yield Giving Open Call Picks](https://www.charitynavigator.org/discover-charities/best-charities/yield-giving.html)
     
     * [Popular Charities](https://www.charitynavigator.org/discover-charities/popular-charities.html)
     * [2024 Community Choice Awards Winners](https://www.charitynavigator.org/discover-charities/popular-charities/community-choice-award-winners-2024.html)
@@ -109,10 +109,10 @@
     
     * [Best Charities](https://www.charitynavigator.org/discover-charities/best-charities.html)
     * [Charities with Perfect Scores](https://www.charitynavigator.org/discover-charities/best-charities/highly-rated-charities.html)
-    * [Immigration and Refugees](https://www.charitynavigator.org/discover-charities/best-charities/immigration-refugee-charities.html)
     * [Animal Rescue](https://www.charitynavigator.org/discover-charities/best-charities/support-animal-rescue.html)
     * [Climate Change](https://www.charitynavigator.org/discover-charities/best-charities/climate-change.html)
     * [Military and Veterans](https://www.charitynavigator.org/discover-charities/where-to-give/veteran-service-member-charities.html)
+    * [Charity Navigator’s Yield Giving Open Call Picks](https://www.charitynavigator.org/discover-charities/best-charities/yield-giving.html)
     
     * [Popular Charities](https://www.charitynavigator.org/discover-charities/popular-charities.html)
     * [2024 Community Choice Awards Winners](https://www.charitynavigator.org/discover-charities/popular-charities/community-choice-award-winners-2024.html)
