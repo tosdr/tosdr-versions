@@ -24,9 +24,9 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/2Bz3JgN)
+[](https://amzn.to/4cDKBhz)
 
-[](https://drawabox.com/rec/uncomfortable/whattodraw)
+[](https://drawabox.com/rec/proko/drawingbasics)
 
 USE CODE BLACK20
 
@@ -34,9 +34,9 @@ FOR 20% OFF
 
 SALE ENDS November 29th
 
-[](https://amzn.to/2R8xkYn)
-
 [](https://amzn.to/2BA10no)
+
+[](https://amzn.to/3KZMtFM)
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
