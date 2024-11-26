@@ -131,28 +131,36 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
+
+  [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
+
 [Taiwan stuns Samurai Japan to capture Premier12 title](https://www.japantimes.co.jp/sports/2024/11/24/baseball/taiwan-beats-japan-premier12-final/ "Taiwan stuns Samurai Japan to capture Premier12 title")
 
   [![Japan starter Shosei Togo reacts after allowing a three-run home run against Taiwan in the fifth inning of the Premier12 final on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/436056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan starter Shosei Togo reacts after allowing a three-run home run against Taiwan in the fifth inning of the Premier12 final on Sunday.")](https://www.japantimes.co.jp/sports/2024/11/24/baseball/taiwan-beats-japan-premier12-final/ "Taiwan stuns Samurai Japan to capture Premier12 title")
+
+[Japan’s sauna movement: Relax, refresh, repeat](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
+
+  [![Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/435137.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ")](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
+
+[AI boom makes 139-year-old cable maker Japan’s hottest stock](https://www.japantimes.co.jp/business/2024/11/25/companies/ai-fujikura-stocks/ "AI boom makes 139-year-old cable maker Japan’s hottest stock")
+
+  [![Fujikura's headquarters in Tokyo's Koto Ward. The company's share price has surged by more than 400% this year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436122.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fujikura's headquarters in Tokyo's Koto Ward. The company's share price has surged by more than 400% this year. ")](https://www.japantimes.co.jp/business/2024/11/25/companies/ai-fujikura-stocks/ "AI boom makes 139-year-old cable maker Japan’s hottest stock")
 
 [Japan and U.S. to form missile plan in case of Taiwan emergency](https://www.japantimes.co.jp/news/2024/11/24/japan/japan-us-taiwan-missile-plan/ "Japan and U.S. to form missile plan in case of Taiwan emergency")
 
   [![A U.S. Marine Corps M142 High Mobility Artillery Rocket System (HIMARS) and a Japanese Ground Self-Defense Force Type 12 Surface-to-Ship Missile (12SSM) system are put on display at a symposium at a base in Kisarazu, Japan, in June 2022. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/436054.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A U.S. Marine Corps M142 High Mobility Artillery Rocket System (HIMARS) and a Japanese Ground Self-Defense Force Type 12 Surface-to-Ship Missile (12SSM) system are put on display at a symposium at a base in Kisarazu, Japan, in June 2022. ")](https://www.japantimes.co.jp/news/2024/11/24/japan/japan-us-taiwan-missile-plan/ "Japan and U.S. to form missile plan in case of Taiwan emergency")
 
-[Preparations for Osaka Expo well underway amid lack of excitement](https://www.japantimes.co.jp/news/2024/11/24/japan/preparations-osaka-expo-under-way/ "Preparations for Osaka Expo well underway amid lack of excitement")
-
-  [![The Grand Ring, a symbol of the 2025 World Exposition in Osaka](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435928.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Grand Ring, a symbol of the 2025 World Exposition in Osaka")](https://www.japantimes.co.jp/news/2024/11/24/japan/preparations-osaka-expo-under-way/ "Preparations for Osaka Expo well underway amid lack of excitement")
-
-[Ishiba shelves proposal for liaison offices with North Korea amid rising tensions](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/ishiba-proposal-liaison-offices/ "Ishiba shelves proposal for liaison offices with North Korea amid rising tensions")
-
-  [![Prime Minister Shigeru Ishiba speaks on Saturday in Tokyo at a rally that was held by a group of families of Japanese citizens abducted by North Korea decades ago to demand the immediate return of all abductees.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435944.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks on Saturday in Tokyo at a rally that was held by a group of families of Japanese citizens abducted by North Korea decades ago to demand the immediate return of all abductees.")](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/ishiba-proposal-liaison-offices/ "Ishiba shelves proposal for liaison offices with North Korea amid rising tensions")
-
-['Kohaku' still matters for J-pop bragging rights](https://www.japantimes.co.jp/culture/2024/11/24/music/kohaku-uta-gassen-lineup/ "'Kohaku' still matters for J-pop bragging rights")
-
-  [![Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435735.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.")](https://www.japantimes.co.jp/culture/2024/11/24/music/kohaku-uta-gassen-lineup/ "'Kohaku' still matters for J-pop bragging rights")
-
 Editors' Picks
 --------------
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Bluesky is booming in Japan — mainly for reasons other than U.S. politics](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
+
+By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
+
+  [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
 [BASEBALL](https://www.japantimes.co.jp/sports/baseball/ "BASEBALL")
 
@@ -162,31 +170,27 @@ By [Jason Coskrey](https://www.japantimes.co.jp/author/181/jason-coskrey/ "Jason
 
   [![Japan starter Shosei Togo reacts after allowing a three-run home run against Taiwan in the fifth inning of the Premier12 final on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/436056.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan starter Shosei Togo reacts after allowing a three-run home run against Taiwan in the fifth inning of the Premier12 final on Sunday.")](https://www.japantimes.co.jp/sports/2024/11/24/baseball/taiwan-beats-japan-premier12-final/ "Taiwan stuns Samurai Japan to capture Premier12 title")
 
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[Japan’s sauna movement: Relax, refresh, repeat](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
+
+By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvorak")  
+
+  [![Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/435137.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Totopa in Tokyo’s Shinjuku Ward was picked by consultants TTNE as the best sauna of the year. ")](https://www.japantimes.co.jp/life/2024/11/25/lifestyle/sauna-culture-japan/ "Japan’s sauna movement: Relax, refresh, repeat")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[AI boom makes 139-year-old cable maker Japan’s hottest stock](https://www.japantimes.co.jp/business/2024/11/25/companies/ai-fujikura-stocks/ "AI boom makes 139-year-old cable maker Japan’s hottest stock")
+
+By [Aya Wagatsuma](https://www.japantimes.co.jp/author/3567/aya-wagatsuma/ "Aya Wagatsuma")  
+
+  [![Fujikura's headquarters in Tokyo's Koto Ward. The company's share price has surged by more than 400% this year. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436122.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fujikura's headquarters in Tokyo's Koto Ward. The company's share price has surged by more than 400% this year. ")](https://www.japantimes.co.jp/business/2024/11/25/companies/ai-fujikura-stocks/ "AI boom makes 139-year-old cable maker Japan’s hottest stock")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Japan and U.S. to form missile plan in case of Taiwan emergency](https://www.japantimes.co.jp/news/2024/11/24/japan/japan-us-taiwan-missile-plan/ "Japan and U.S. to form missile plan in case of Taiwan emergency")
 
   [![A U.S. Marine Corps M142 High Mobility Artillery Rocket System (HIMARS) and a Japanese Ground Self-Defense Force Type 12 Surface-to-Ship Missile (12SSM) system are put on display at a symposium at a base in Kisarazu, Japan, in June 2022. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/436054.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A U.S. Marine Corps M142 High Mobility Artillery Rocket System (HIMARS) and a Japanese Ground Self-Defense Force Type 12 Surface-to-Ship Missile (12SSM) system are put on display at a symposium at a base in Kisarazu, Japan, in June 2022. ")](https://www.japantimes.co.jp/news/2024/11/24/japan/japan-us-taiwan-missile-plan/ "Japan and U.S. to form missile plan in case of Taiwan emergency")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Preparations for Osaka Expo well underway amid lack of excitement](https://www.japantimes.co.jp/news/2024/11/24/japan/preparations-osaka-expo-under-way/ "Preparations for Osaka Expo well underway amid lack of excitement")
-
-  [![The Grand Ring, a symbol of the 2025 World Exposition in Osaka](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435928.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Grand Ring, a symbol of the 2025 World Exposition in Osaka")](https://www.japantimes.co.jp/news/2024/11/24/japan/preparations-osaka-expo-under-way/ "Preparations for Osaka Expo well underway amid lack of excitement")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ishiba shelves proposal for liaison offices with North Korea amid rising tensions](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/ishiba-proposal-liaison-offices/ "Ishiba shelves proposal for liaison offices with North Korea amid rising tensions")
-
-  [![Prime Minister Shigeru Ishiba speaks on Saturday in Tokyo at a rally that was held by a group of families of Japanese citizens abducted by North Korea decades ago to demand the immediate return of all abductees.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435944.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba speaks on Saturday in Tokyo at a rally that was held by a group of families of Japanese citizens abducted by North Korea decades ago to demand the immediate return of all abductees.")](https://www.japantimes.co.jp/news/2024/11/24/japan/politics/ishiba-proposal-liaison-offices/ "Ishiba shelves proposal for liaison offices with North Korea amid rising tensions")
-
-[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
-
-['Kohaku' still matters for J-pop bragging rights](https://www.japantimes.co.jp/culture/2024/11/24/music/kohaku-uta-gassen-lineup/ "'Kohaku' still matters for J-pop bragging rights")
-
-By [Patrick St. Michel](https://www.japantimes.co.jp/author/226/patrick-st-michel/ "Patrick St. Michel")  
-
-  [![Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435735.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.")](https://www.japantimes.co.jp/culture/2024/11/24/music/kohaku-uta-gassen-lineup/ "'Kohaku' still matters for J-pop bragging rights")
 
 Podcast
 -------
@@ -207,9 +211,9 @@ By [Greg Dvorak](https://www.japantimes.co.jp/author/6191/greg-dvorak/ "Greg Dvo
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Zoom fails to impress investors with sales forecast for expanded lineup](https://www.japantimes.co.jp/business/2024/11/26/tech/zoom-sales-forecast-investors/ "Zoom fails to impress investors with sales forecast for expanded lineup")
+[Sapporo explosion leaves three injured](https://www.japantimes.co.jp/news/2024/11/26/japan/japan-sapporo-explosion/ "Sapporo explosion leaves three injured")
 
-4 mins ago
+2 hours ago
 
-[Satellite images may show North Korea expanding missile plant, researchers say](https://www.japantimes.co.jp/news/2024/11/26/asia-pacific/satellite-north-korea-missile-plant/ "Satellite images may show North Korea expanding missile plant, researchers say")
+[Japanese manicurist takes on plastic pollution, one nail at a time](https://www.japantimes.co.jp/news/2024/11/26/japan/manicurist-plastic-pollution/ "Japanese manicurist takes on plastic pollution, one nail at a time")
 
-45 mins ago
+2 hours ago
 
-[Japanese panel suggests 60% emissions reduction target for 2035](https://www.japantimes.co.jp/news/2024/11/26/japan/japan-emission-reduction-target/ "Japanese panel suggests 60% emissions reduction target for 2035")
+[Funeral held for Princess Yuriko at Tokyo cemetery](https://www.japantimes.co.jp/news/2024/11/26/japan/society/princess-yuriko-funeral/ "Funeral held for Princess Yuriko at Tokyo cemetery")
 
-46 mins ago
+2 hours ago
 
-[Japan's space agency halts Epsilon S rocket engine test after fire](https://www.japantimes.co.jp/news/2024/11/26/japan/science-health/japan-rocket-engine-test-fire/ "Japan's space agency halts Epsilon S rocket engine test after fire")
+[Japan steps up measures against firms forcing workers to buy own products](https://www.japantimes.co.jp/news/2024/11/26/japan/crime-legal/japan-labor-law-power-harassment/ "Japan steps up measures against firms forcing workers to buy own products")
 
-1 hour ago
+2 hours ago
 
-[Hong Kong a ‘global leader’ in financial crime, U.S. lawmakers say](https://www.japantimes.co.jp/news/2024/11/26/asia-pacific/crime-legal/hong-kong-financial-crime-us/ "Hong Kong a ‘global leader’ in financial crime, U.S. lawmakers say")
+[Embattled Hyogo governor denies alleged election law violation](https://www.japantimes.co.jp/news/2024/11/26/japan/politics/saito-campaign-law/ "Embattled Hyogo governor denies alleged election law violation")
 
-1 hour ago
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
