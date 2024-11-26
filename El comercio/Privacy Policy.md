@@ -31,6 +31,546 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La seguridad se une a las necesidades del consumidor en este Black Friday
+=========================================================================
+
+La seguridad no solo debe ser física al interior de una tienda o centro comercial, sino también en las compras en línea.
+------------------------------------------------------------------------------------------------------------------------
+
+![Ideogram: Una escena de mucha gente comprando en un centro comercial en Black Friday. Hay guardias de seguridad en el centro comercial, identificables por sus chalecos amarillos brillantes. El ambiente es bullicioso y animado.](https://www.elcomercio.com/wp-content/uploads/2024/11/PHOTO-2024-11-25-12-41-22.jpg)
+
+El **Black Friday** es visto, en la actualidad, como una temporada relevante para que las empresas y los comercios se recuperen.
+
+Las **ventas internas en Ecuador** cayeron un 1,7 % durante los ocho primeros meses del 2024, si se compara con el mismo período de 2023, según el **Servicio de Rentas Internas (SRI)**.
+
+Las empresas requieren mejorar su facturación atrayendo a los consumidores mediante ofertas, promociones o descuentos. Y estos últimos buscan ahorrar para los regalos de Navidad y Año Nuevo. El Black Friday ya es una tradición en Ecuador.
+
+> El Black Friday movió cerca de 600 millones de dólares en el 2023. Las expectativas para ahora son que se mantenga o sea superior. La liquidez y la responsabilidad para endeudarse por parte de los consumidores estarán entre los factores que determinen el resultado.
+
+Los expertos en finanzas personales recomiendan un análisis previo de las ofertas, descuentos o promociones, la capacidad de endeudamiento real en función de los ingresos familiares o personales y no caer en el consumismo.
+
+En la actualidad, se incorpora otro aspecto al análisis: la seguridad. Los negocios o centros comerciales deben considerar esa variable y coordinar con el Estado.
+
+Para ello, los establecimientos deben mantener colaboración total y estratégica con la **Policía**. Planificar operativos que brinden confianza a los clientes.
+
+El consumidor, que compre de forma presencial o virtual, debe estar protegido ante cualquier amenaza a su integridad física, sus pertenencias o delitos de ciberseguridad.
+
+Eso incentivará a las personas a consumir más en **Ecuador** y no optar por otras alternativas como las compras en el exterior, que es una queja constante de los comercios nacionales. 
+
+El consumidor también debe considerar un factor fundamental. Sin consumo no se mueve la economía. Es un círculo virtuoso. Si no hay ventas locales, no hay producción ni fuentes de trabajo (nuevas o actuales). Así se mueven grandes economías como la de **Estados Unidos**. Claro que en **Ecuador** las circunstancias son otras, pero la idea es la misma.
+
+Falta un líder competente 
+==========================
+
+El gobernante que sea electo debe escoger a los mejores talentos y excluir a los improvisados y serviles que tanto daño causan.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
+
+Cuando han empeorado las condiciones de vida en nuestro **país**, hace falta un conductor político que sea capaz de liderar a un equipo de gobierno de alta **calidad profesional y ética**. Solo un personaje prestigioso, que haya hecho algo importante en su vida, podrá convencer a los mejores dirigentes para que intervengan en el **ejercicio político**, que supone un estado superior para influir en el **comportamiento positivo de los gobernados.**
+
+Cuando vemos que hay serios problemas de **seguridad pública**, severa **crisis** por recesión económica, extrema **polarización política**, es imperativo exigir, a quienes pretenden gobernar, las mejores capacidades del **líder** y de un equipo solvente que pueda implantar un **liderazgo** sin populismo contraproducente y conducir al país a base de **políticas racionales** que disminuyan la creciente brecha de la desigualdad.
+
+Constatamos que hay menos **empleo** que en el año pasado, según datos del IESS, que la producción está disminuyendo en este año, lo que baja los **ingresos disponibles** que afectan al consumo de los hogares y su **capacidad** de pagar los **créditos**. Si a esto se agrega el problema grave de falta de energía, avisoramos una **situación muy crítica** para la población vulnerable.
+
+Entonces el nuevo gobierno debe saber pensar con la razón por delante, para salir de un problema grande como es la **inseguridad** de las personas. El pueblo elector debe escoger a quien se lo pueda creer lo que dice, a quien esté preparado para ejercer el **poder con sapiencia y seriedad**, a quien tenga fórmulas para equilibrar el **déficit fiscal,** sin lo cual no se puede atraer capitales.
+
+Estamos a tiempo porque no hay nada dicho, pues no se han hecho encuestas serias que influyan en la decisión, por lo que hay espacio para que surja un **liderazgo** superior que pueda responder correctamente a las **expectativas del país**.
+
+El **gobernante** que sea electo debe escoger a los **mejores talentos** y excluir a los improvisados y serviles que tanto daño causan. Debe también ser respetado por la comunidad internacional con base en su prestigio y versación, para conseguir una respetuosa relación con los demás países, que atienda a nuestros intereses.
+
+Miradas sobre la posmodernidad
+==============================
+
+La posmodernidad es un movimiento filosófico, que se inició a fines del siglo XX en oposición al racionalismo e impactos en las ciencias y las artes.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La modernidad llegó a su máximo nivel cuando se instaló en el mundo la lógica del mercado.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-7-1.jpg)
+
+**La modernidad llegó a su máximo nivel cuando se instaló en el mundo la lógica del mercado** y sus secuelas: la explosión del consumo, la mecanización, el auge de las ciencias y las tecnologías, la urbanización y la conexión como medio de intercambio planetario.
+
+Instalada la modernidad bajo principios entonces irrebatibles –**la democracia, la libertad económica, el desarrollo de la ciencia y la competencia iluminados por la llamada globalización-** a fines del siglo XX comenzó a identificarse su **“agotamiento”** por la concentración del poder de las transnacionales, las desigualdades sociales, la crisis de los estados nacionales y los primeros atisbos de la emergencia climática.
+
+Implosión
+---------
+
+Ante tal situación aparecieron corrientes filosóficas, artísticas, políticas, religiosas y sociales que **cuestionaban el progreso ilimitado y la falta de un liderazgo mundial que “corrigiera” ese destino**. **Y el** **posmodernismo surgió como una verdadera implosión -generada por tendencias anarquistas-,** que planteaba que “todo es relativo, pues no existe una verdad universal”, por lo que había que plantear otras opciones desde arte, la cultura, las ideas -e incluso desde la moral-, dependiendo de circunstancias concretas.
+
+**La posmodernidad es un movimiento cultural, artístico e intelectual**, que critica los valores de la modernidad, como la fe en la razón, la ciencia y el progreso, y propone la **deconstrucción de todas las ideas,** que equivale a rupturas del orden epistémico moderno, la **negación de las verdades absolutas, el rechazo de los “grandes relatos”,** así como **la piedad degradada a humanitarismo.**  
+
+En el arte posmoderno se mezcla lo antiguo con lo nuevo, se experimentan con los colores y las texturas, y se adoptan elementos divergentes. **En la posmodernidad se consolidan los movimientos feministas y ecologistas** de última data. Los representantes de la filosofía posmoderna son **Michel Foucault, Jacques Derrida y Jean-François Lyotard**.
+
+Los siguientes pensadores cuestionan la modernidas: **Zymund Bauman, Edgar Morin, Giovani Sartori** y **Tzvetan Todorov.**
+
+Zymund Bauman y la “disolución” de la modernidad
+------------------------------------------------
+
+El sociólogo **Zygmunt Bauman, de origen polaco, que denunció con lucidez el individualismo y la desigualdad**, representa una de las voces más críticas de la modernidad, en la que el Estado-nación, la familia, el empleo, el compromiso con la comunidad… son pasajeros.
+
+Zygmunt Bauman es una autoridad intelectual reconocida en el mundo. **Vivió los horrores de la guerra, la persecución, las purgas y el exilio; pero jamás fue un conformista.** Retrató con agudeza el sistema capitalista, **y luchó contra la superficialidad del debate público,** caracterizado por el desconcierto de los ciudadanos **ante un mundo que se ‘licúa’, que se diluye progresivamente ante la avalancha de la burbuja liberal**, y la aparición de nuevos escenarios y protagonistas centrados en la **protesta** antes que en la **propuesta**.
+
+Hay que advertir, en este contexto, **la creciente complejidad de los procesos que vivimos**. La influencia de las tecnologías de información y los sistemas de comunicación es tan impactante y sutil, que ha atravesado la vida cotidiana, y ‘disuelto’ los marcos de referencia otrora inamovibles como la misma estructura estatal.
+
+Ejemplos: las denominadas **autopistas de la información** han permitido que la guerra y la paz, la miseria y la ostentación, las atrocidades y las acciones de bondad lleguen en directo y en forma cruda desde lugares remotos a nuestros hogares, a través de las imágenes electrónicas, por incidencia de la globalización, en virtud de la cual, según **Milan Kundera, ‘nadie puede escapar a ninguna parte’.**
+
+Edgar Morin y la complejidad
+----------------------------
+
+**El filósofo y sociólogo francés, de origen sefardí, es uno de los más famosos pensadores del mundo actual.** Morin es el creador de las ciencias de la complejidad**. ‘Los siete saberes para una educación del futuro’, ‘Ciencia con conciencia’, ‘Diario de un libro’, ‘Civilización o barbarie’, ‘La vía para el futuro de la humanidad’** son sus principales obras.
+
+Édgar Morin es un referente no solo para los científicos sino para los ciudadanos del estado llano. **La razón estriba en que ha sido uno de los pocos pensadores –comparable con Aristóteles- que ha logrado descifrar los grandes equívocos de la modernidad,** y ha propuesto un nuevo modelo para entender y actuar sobre la realidad mediante el método complejo.
+
+La realidad fue descrita –Newton incluido- como compartimentos estancos, a través de disciplinas que fraccionan esa realidad. **Morin es el padre del pensamiento complejo, que mira las ciencias desde un enfoque transdisciplinar, cuya base epistemológica es la incertidumbre, y propone una ciencia con conciencia, es decir, ordenada al humanismo.**
+
+Giovanni Sartori y el hombre audiovisual
+----------------------------------------
+
+Fue un **pensador excepcional, argumentativo e irónico** que **cambió las ciencias políticas y las ciencias de la comunicación.**
+
+Nació en Florencia, Italia, en 1924. **Intentó descifrar el mundo de hoy, desde una perspectiva sociológica y política.** Jugó hábilmente y con elegancia entre el sarcasmo, el humor y la indudable trama científica, especialmente en el contexto de la política italiana.
+
+**Sus ensayos son conocidos en todo mundo.** Por su haber académico, Sartori **fue reconocido con varios premios internacionales** y fue profesor emérito de la Universidad de Florencia. **Enseñó en Stanford, Columbia y otras de Estados Unidos y Europa.**
+
+Los estudios de Sartori sobre la comunicación -especialmente su libro **‘El homo videns: la sociedad teledirigida’-** se convirtieron en centros de debate no solo en el ámbito académico, sino político y mediático. Sus ideas sobre la influencia de los medios de comunicación en la sociedad son ahora referentes y necesarias fuentes de consulta.
+
+**Sus obras, de una incansable mordacidad y siempre combativas con el poder -dice un comentarista- han encendido la hoguera mediática y política cada vez que se han publicado.** Sucedió con ‘¿Qué es la democracia?’ (1997), con ‘La sociedad multiétnica: pluralismo, multiculturalismo y extranjeros’ (2001), ‘Homo videns: la sociedad teledirigida’ (1998). En junio de 2015 publicó su último libro, **‘La carrera hacia ninguna parte. Diez lecciones sobre nuestra sociedad en peligro’.**
+
+Tzvetan Todorov y su vocación humanista
+---------------------------------------
+
+El **escritor búlgaro-francés Tzvetan Todorov** es reconocido en el mundo por haber iluminado el siglo XX y mirado los problemas del siglo XXI, que se traducen en **‘la confusión contemporánea’.** Filósofo, lingüista, semiólogo y teórico de la literatura, **Todorov fue uno de los observadores más lúcidos del desorden de las sociedades postmodernas.**
+
+Nacido en Sofía, Bulgaria, en 1939, Tzvetan Todorov murió en Paris, en 2017, a los 77 años, luego de una larga y genuina vocación por la humanidad. **Recordado como el apóstol del humanismo, sus ideas contribuyeron a entender las principales crisis de Oriente y Occidente, y a replantear la tesis de la denominada ‘otredad’, en su libro ‘La conquista de América: el problema del otro’, editorial siglo XXI.**
+
+Se consideraba un **‘hombre desplazado’,** como le gustaba autocalificarse, Todorov se distinguió por su espíritu inclasificable y su afición a traspasar fronteras entre disciplinas. **Se mantuvo a una distancia prudencial de los apóstoles del posestructuralismo, como Foucault o Derrida,** y nunca acabó de encajar entre los nuevos filósofos.
+
+Todorov fue profesor y **director del Centro de Investigaciones sobre las Artes y el Lenguaje**, en el Centro Nacional para la Investigación Científica (CNRS), en París. También dio clases en **Yale, Harvard y Berkeley**.
+
+Doctor en Psicología, **Todorov fue uno de los intelectuales más luminosos de Europa; un pensador multidisciplinar, humanista crítico y comprometido con el hombre concreto, de raíces ilustradas**, con una vasta obra que fuera reconocida con el premio Príncipe de Asturias, en 2008, y la Medalla de la Orden y de las Letras de Francia. Sus títulos son decidores: ‘El hombre desplazado’ (1997), ‘Memoria del mal, tentación del bien’. ‘Indagación sobre el siglo XX’ (2002), ‘El nuevo desorden mundial (2008)’, ‘La literatura en peligro’ (2007), ‘La experiencia totalitaria’ (2010) y ‘Los enemigos íntimos de la democracia’ (2012).
+
+**‘Ninguna curiosidad le fue ajena.** Teórico literario, crítico de arte y literatura, lingüista, filósofo, historiador. De los formalistas rusos a la filosofía del lenguaje. De los maestros de la pintura flamenca del renacimiento a Goya. De la conquista de América a los campos de concentración. De Oscar Wilde a Rilke. **Y de todas esas sendas a la dirección única de la democracia.** Ésta es uno de los grandes temas de su pensamiento. De cómo algo sublime se ha degradado hasta ser un artefacto de fabricación casera’.
+
+**Todorov se mostró fascinado por la figura del insurgente, a quien dedicó su último ensayo publicado, ‘Insumisos’ (Galaxia Gutenberg),** una galería de retratos de personajes históricos que supieron oponerse al poder, de **Boris Pasternak a Edward Snowden**, pasando por la **etnóloga francesa Germaine Tillion, figura de la resistencia contra los nazis**, con quien intimó poco antes de su muerte.
+
+Los principales rasgos de sus pensamientos quedaron arraigados en sus libros y en algunas entrevistas. En una de ellas, para el periódico El Mundo, Todorov declaró: **‘Quizá sea un ingenuo, pero no creo que nada de lo que sufrimos hoy sea irreversible. Me niego a creer en una fuerza sobrenatural que nos impone cosas que no se puedan cambiar. Esto es un asunto humano. Y los cambios vendrán de nosotros’**. Al ingresar el lector en sus textos descubre **la ‘imprecisión del optimismo’**; es decir, la **‘trinchera de la esperanza’**, según sus palabras.
+
+Mark Rothko: gloria y ocaso
+===========================
+
+Su legado combina espiritualidad y misterio, dejando una huella única en el arte moderno.
+-----------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+¿Fue su **suicidio** un **ritual** preparado como rúbrica de lo que quiso que fuera **su vida y su obra**: mito y leyenda de la historia de las **artes visuales**? Lo cierto es que su itinerario vital, su obra y su suicidio construyeron un entramado turbulento. En un espacio de 6 x 8 metros, que parecía pintado por él, su ayudante halló el cuerpo inerte de Mark Rothko (Letonia, 1903-Nueva York, 1970), artista pintor glorificado al punto de que existe la _Capilla Rothko_. Una luz cenital ilumina 14 grandes lienzos de su **autoría y fieles** de todas las **religiones** ingresan a orar cada quien a su dios.
+
+El cadáver del artista yacía en ropa interior. El blanco de la camiseta, el azul del calzoncillo y el negro de las medias debieron tener alguna significación, pero, según su discípulo, Rothko quiso dejar a sus devotos el ejercicio de subsumirse en **bizantinas disquisiciones** sobre el porqué de los colores de esas prendas.
+
+El arte de un trágico
+---------------------
+
+El **artista** había consumido somníferos y cortado sus venas. Los brazos estaban abiertos (¿?). El **perfeccionismo** que persiguió en su arte se reprodujo en el **escenario** de su **suicidio**. El seccionamiento de las venas fue la de un conocedor profesional, informaron los **legistas**.
+
+Rothko vivió de una **obsesión**, sustento de su vacilante **personalidad**: instaurar con su **arte** –el más abstracto de su tiempo– una imagen de la **tragedia humana**, y así sanar los males del **mundo**.
+
+La obra de Rothko puede desplegarse en cuatro fases: la de **iniciación**, inscrita en el **figurativismo expresionista**; paso por el cubismo; su fauvismo, a la luz de Matisse y Derain, y su conmocionante **expresionismo abstracto** (su época clásica), proyectado en sus _campos de color_ (_color_ _field painting_), con el cual ascendió a la gloria. “Mi **arte** no es **abstracto**, vive y respira”, repitió turbado cuantas veces lo asediaban entrevistadores.
+
+Esquivo, **angustiado**, **depresivo**, fue uno de los “pintores malditos” estadounidenses –Pollock es el otro– que reprodujeron la vida trágica de los “**simbolistas**” europeos. Enigmático y paradójico, su obra fue descrita por de Kooning como “una casa con muchas mansiones”. ¿Por qué? Tal vez por el gran formato de sus obras y el esplendor de sus colores. Ostentación del color como **elemento primordial.**
+
+Sus años clásicos: florescencia del color. **Grandes formatos** son parte de la esencia de su arte. Todos a ras del suelo. Inmensurables campos de color meditados para ser apreciados a 50 centímetros; sin rastro de enmarcación. Rothko organizaba su obra con **meticulosidad enfermiza**. Sabía que esa grandeza tonal engullía al espectador. Quien mira un Rothko “clásico” renuncia a su voluntad y se integra en él. Vínculo espiritual de hondas y extrañas resonancias.
+
+Colores lisos que oprimen o alivian el alma. Obra visual para meditar. **Convocación al silencio**. Aunque, de repente, brotan susurros como si se tratara de mantras. **Carácter y estilo** de Rothko son únicos y, por serlo, acaso imposible de imitar. No obstante, continúan innumerables **artistas** tentando sus **exploraciones visuales**.
+
+¿Qué queda después de contrastar la supuesta **religiosidad** profunda de Rothko si recordamos que la _Capilla_ diseñada por él es un espacio radicalmente ausente de fe? ¿O la asamblea de **numerosas espiritualidades** que se congregan en su **obra**? ¿No están en parte de su **creación plástica** sus entrañas místicas, pero también señales de irreverencia y menosprecio hacia toda fe?
+
+Desde los 70 la conducta de Rothko mostraba signos **autodestructivos**. Superado un **aneurisma** y divorciado de su segunda compañera, se sumió en la alcoholatría y el tabaquismo. Su depresión lo conduciría a lo que su médico de cabecera llamó “suicidio lento e inconsciente”. Solo le quedaba el arte como refugio en la **soledad** _cavernosa_ de su estudio.
+
+La **estampida de colores** –ímpetu, amor, pasión, calor y ardor, **efusión y expansión**– fueron opacándose, agrisándose, agostándose, como si ellos también empezaran a agonizar con su demiurgo, hasta que los **movimientos** incesantes de Rothko alrededor de sus obras, paganos o espirituales, que eran la forma con que trabajaba, se paralizaron.
+
+Rothko pintó su último cuadro. Entre colores **caliginosos**, vagos y desconcertantes, entró él también en el lienzo y se disolvió entre la bruma que exhalaba la pintura, **metamorfosis** anhelada. La insondable, peregrina e indispensable muerte le ganó de mano.
+
+Cuenta la **leyenda** que quienes visitan su _Capilla_ suelen verlo en medio de una tenue llovizna, las manos en los bolsillos del abrigo, las solapas levantadas, un viejo sombrero de fieltro abrigando su cabeza, la piel agrietada y sus **lentes velados** por gotas de agua, el cigarrillo alumbrando una mueca de desdén hacia los **alelados turistas** que simulan comprender sus lienzos.
+
+Cartas a Quito / 26 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este martes 26 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Tecnología, innovación y planificación estratégica: claves para un desarrollo pesquero y acuícola sostenible 
+-------------------------------------------------------------------------------------------------------------
+
+La acuicultura es una de las actividades de mayor crecimiento a nivel mundial, juega un papel vital como medio de vida para millones de personas y en la alimentación y nutrición del mundo. De hecho, en 2022, y por primera vez en la historia, la acuicultura superó a la pesca de captura como principal productora de animales acuáticos, según se reportó en el Estado Mundial de la Pesca y Acuicultura 2024 (SOFIA).
+
+Sin embargo, su éxito y sostenibilidad dependen de una planificación adecuada. Sin esa organización, los conflictos por el uso de recursos, impactos ambientales negativos y tensiones sociales complican la producción sostenible y eficiente.
+
+Ante ese escenario, la gestión espacial integrada emerge como una herramienta esencial para ordenar y garantizar que la pesca y la acuicultura crezcan de manera equilibrada, maximizando beneficios y minimizando riesgos. 
+
+La Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), lidera iniciativas globales para guiar a los países en la planificación sostenible de la pesca y la acuicultura.
+
+Herramientas como los sistemas de información geográfica, teledetección satelital y drones permiten analizar la capacidad de carga de las áreas destinadas a la acuicultura, los riesgos del cambio climático, enfermedades de animales acuáticos, la gestión del riesgo de desastres, los conflictos sociales, y la comercialización postcosecha, entre otros. Estas tecnologías ayudan a identificar ubicaciones ideales, promoviendo una producción eficiente y respetuosa con el medio ambiente. 
+
+La acuicultura en alta mar representa una frontera innovadora para la expansión sostenible de esta actividad, pero requiere una planeación estratégica espacial y temporal. Esta estrategia alivia la presión sobre los ecosistemas costeros y abre nuevas oportunidades en áreas menos explotadas, ofreciendo un enfoque renovador para satisfacer la creciente demanda de alimentos. 
+
+Otras iniciativas que impulsa la FAO, como el Código de Conducta para la Pesca Responsable, y el Enfoque Ecosistémico a la Pesca y la Acuicultura, son fundamentales para garantizar un crecimiento sostenible. Estas guías aseguran que la pesca y la acuicultura sean compatibles con la conservación de los ecosistemas, el bienestar social y el desarrollo económico. 
+
+Además, las nuevas Directrices para la Acuicultura Sostenible, impulsadas por la FAO este año, refuerzan el concepto de Transformación Azul, una visión que busca ampliar los sistemas alimentarios acuáticos y aumentar su contribución a dietas saludables, nutritivas y asequibles, respaldando la gestión ambiental y el crecimiento inclusivo, especialmente para aquellas comunidades que dependen de la pesca y la acuicultura.
+
+En la Reunión Ministerial sobre Agricultura del G20, el Director General de la FAO, QU Dongyu, elogió a la Presidencia brasileña por incluir la agricultura familiar y la pesca y acuicultura en los debates. Y el Día Mundial de la Pesca, conmemorado el 21 de noviembre, refuerza la importancia del sector y de la pesca sostenible, los derechos humanos de las comunidades, sus condiciones laborales, y lo clave que es eliminar las actividades ilegales y no declaradas, y la pesca no reglamentada
+
+En la FAO, estamos convencidas y convencidos de que la combinación de tecnología, innovación, planificación estratégica y normativas internacionales pueden transformar la pesca y la acuicultura en un motor clave para satisfacer las demandas alimentarias globales, y contribuir significativamente a un planeta más justo y resiliente.
+
+Trabajemos juntos por una pesca y acuicultura sostenible, promoviendo una mejor producción, que garantice una mejor nutrición, un mejor medio ambiente y una vida mejor para las generaciones actuales y futuras, sin dejar a nadie atrás. 
+
+_**José Aguilar-Manjarrez, Oficial de Acuicultura de la FAO**_
+
+Proyectos urgentes de Daniel Noboa van a primer debate en la Asamblea
+=====================================================================
+
+Los proyectos urgentes presentados por Daniel Noboa son de materia económica y los informes para primer debate fueron aprobados por las comisiones legislativas.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los proyectos urgentes de Daniel Noboa pasarán el primer debate en el Pleno de la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/11/proyectos-urgentes-daniel-noboa-primer-debate.jpg)
+
+Los dos **proyectos urgentes** en materia económica del presidente **Daniel Noboa** van a **primer debate** en el Pleno de la **Asamblea[.](https://es.wikipedia.org/wiki/Daniel_Noboa)**
+
+Las **comisiones legislativas** aprobaron los informes de primera instancia en las últimas horas.
+
+### Más noticias:
+
+* [Comisión aprueba informe para primer debate del proyecto sobre combate al lavado de activos](https://www.elcomercio.com/actualidad/politica/comision-aprueba-informa-primer-debate-proyecto-combate-lavado-activos.html "Comisión aprueba informe para primer debate del proyecto sobre combate al lavado de activos")
+* [Conozca los puntos más importantes de las leyes económicas de Daniel Noboa](https://www.elcomercio.com/actualidad/negocios/conozca-puntos-importantes-leyes-economicas-daniel-noboa.html "Conozca los puntos más importantes de las leyes económicas de Daniel Noboa")
+
+Informes para primer debate de los proyectos urgentes de Daniel Noboa
+---------------------------------------------------------------------
+
+Los primeros días de noviembre, el presidente **Daniel Noboa** envió dos proyectos urgentes en materia económica a la Asamblea.
+
+En los últimos días, las comisiones legislativas aprobaron los **informes para primer debate** con el fin de que los trate el Pleno.
+
+Se trata de los proyectos para el alivio financiero y para mejorar la recaudación a través del combate al lavado de activos vía **compra y venta de vehículos**.
+
+En las comisiones, los asambleístas hicieron algunas modificaciones a los proyectos del Ejecutivo.
+
+Del proyecto de Ley para el **alivio financiero y el fortalecimiento económico**, se eliminaron los textos sobre el cobro del impuesto a la renta a las universidades privadas.
+
+Además, se creó el programa nacional de transferencias monetarias para el **desarrollo social y económico** del país.
+
+En el proyecto de mejora de la recaudación tributaria a través del combate al **lavado de activos**, se ajustó el impuesto que deben pagar las personas que adquieran un vehículo usado.
+
+También se estableció una **base imponible de 0,75 %** para los automotores que tengan un costo menor a los 20 000 dólares.
+
+A los que superen ese costo y hasta 50 dólares 000 se les mantendrá el **impuesto del 1 %** que ya existe.
+
+La Asamblea tiene 30 días para tramitar los **proyectos urgentes**.
+
+Si no existe un pronunciamiento, el texto del Ejecutivo puede entrar en vigencia por el **Ministerio de la Ley.**
+
+La presidenta de la Asamblea, **Viviana Veloz**, convocó al Pleno para este miércoles 27 de noviembre al primer debate de los dos proyectos urgentes.
+
+La seguridad y la movilidad son el reto para las fiestas de Quito; ¿hay un plan?
+================================================================================
+
+La agenda de fiestas de Quito contempla un cronograma de conciertos, desfiles y ferias de emprendimientos.
+----------------------------------------------------------------------------------------------------------
+
+![El plan de seguridad contará con la ayuda de diferentes entidades.](https://www.elcomercio.com/wp-content/uploads/2024/11/Movilidad-seguridad-fiestas.jpg)
+
+Las fiestas de Quito 2024 cuentan con una agenda cultural cargada de actividades, con 114 eventos programados que atraerán a miles de asistentes[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+Más noticias
+------------
+
+* [Solidaridad en fiestas de Quito y Navidad, ¿en dónde donar?](https://www.elcomercio.com/actualidad/quito/solidaridad-fiestas-quito-navidad-donde-donar.html "Solidaridad en fiestas de Quito y Navidad, ¿en dónde donar?")
+* [Así fue el programa de las primeras fiestas de Quito, en 1959](https://www.elcomercio.com/actualidad/quito/programa-primeras-fiestas-quito-1959.html "Así fue el programa de las primeras fiestas de Quito, en 1959")
+* [Pregón de fiestas de Quito se desarrolla en la Plaza de San Francisco](https://www.elcomercio.com/actualidad/quito/pregon-fiestas-quito-plaza-san-francisco.html "Pregón de fiestas de Quito se desarrolla en la Plaza de San Francisco")
+
+Estas festividades, que se extenderán hasta el 6 de diciembre, incluyen medidas específicas para garantizar la seguridad y movilidad en la capital ecuatoriana.
+
+Plan Operativo de la AMT durante las fiestas de Quito
+-----------------------------------------------------
+
+La Agencia Metropolitana de Tránsito (**AMT**) desplegará 1 000 agentes de tránsito para supervisar y gestionar la movilidad durante los eventos.
+
+Esta planificación cubre actividades organizadas por la **Secretaría de Cultura** y las administraciones zonales, destacando 37 eventos clave y 77 adicionales en distintas áreas de la ciudad.
+
+Medidas clave adoptadas por la AMT:
+-----------------------------------
+
+1. **Cierres viales temporales**: Se implementarán en zonas de alta concurrencia, como el Centro Histórico, la avenida De los Shyris y el Parque Bicentenario.
+2. **Control de estacionamientos**: Los agentes estarán atentos a evitar que vehículos mal estacionados interfieran con la circulación.
+3. **Gestión del tránsito**: Personal de la AMT estará presente en puntos estratégicos para mitigar la congestión vehicular.
+4. **Rutas alternas**: Se habilitarán desvíos para mantener la fluidez en las áreas con cierres viales.
+
+Principales cierres viales por fiestas de Quito
+-----------------------------------------------
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Desfile de los Mercados | 27/11/2024 | 08:00 a 18:00 | Centro Histórico | Calle Venezuela y Asunción, Av. Gran Colombia, Av. 6 de Diciembre, Av. 12 de Octubre |
+| Desfile Mascarada Quiteña | 28/11/2024 | 18:00 a 23:00 | Av. Amazonas | Av. Amazonas y 18 de Septiembre, Av. Colón y Av. 10 de Agosto |
+| Cantos del Sur | 29/11/2024 | 17:00 a 24:00 | Tribuna del Sur | Av. Tnte. Hugo Ortiz y Av. Alonso de Angulo, Av. Tnte. Hugo Ortiz y Gonzalo Cabezas |
+| Desfile de la Confraternidad Nacional Sur | 30/11/2024 | 10:00 a 16:00 | Av. Cardenal de la Torre | Av. Cardenal de la Torre y Ajaví, Calle Juan Camacaro y Av. Antonio Rodríguez |
+| Desfile Cultural Ronda Quiteña Centro | 30/11/2024 | 16:30 a 21:00 | Bulevar 24 de Mayo | Calle Julio Matovelle, Av. 10 de Agosto, Calle Venezuela y Mejía |
+| Festival en Homenaje a Benítez y Valencia | 04/12/2024 | 18:00 a 23:00 | Bulevar 24 de Mayo | Av. Pedro Vicente Maldonado, Calle Guayaquil y Ambato |
+| Fiesta de Colores | 06/12/2024 | 16:30 a 22:00 | Plaza de la Independencia | Calle Luis Cordero y Mariscal Foch, Calle 9 de Octubre y Jorge Washington |
+| Sesión Solemne – Teatro Nacional Sucre | 06/12/2024 | 15:00 a 18:00 | Teatro Nacional Sucre | Av. Pichincha, Calle Guayaquil y Manabí |
+
+Transporte público durante las fiestas de Quito
+-----------------------------------------------
+
+La Empresa de Pasajeros de Quito confirmó que el Trolebús y la Ecovía operarán con normalidad durante las fiestas. Sin embargo, debido a trabajos de rehabilitación en el sistema de la Ecovía, dos paradas permanecerán cerradas, afectando la circulación en tres importantes avenidas de la ciudad: la 6 de Diciembre, la 12 de Octubre y la Tarqui.
+
+Detalles de las paradas cerradas:
+---------------------------------
+
+* **Casa de la Cultura** (avenida 6 de Diciembre): Punto clave para quienes se dirigen hacia sectores como la Asamblea Nacional, notarías y la Procuraduría General del Estado.
+* **Eugenio Espejo**: Usualmente utilizada por visitantes al hospital del mismo nombre y edificios gubernamentales.
+
+Alternativas de movilidad ante los cierres
+------------------------------------------
+
+#### En la avenida 12 de Octubre y avenida Tarqui:
+
+* El cruce en sentido sur-norte desde la avenida 12 de Octubre hacia la Tarqui estará cerrado.
+* También se inhabilitará el paso desde la avenida Tarqui hacia el norte por la 12 de Octubre.
+* Como alternativa, los usuarios podrán desviarse hacia la avenida 10 de Agosto o tomar la calle Queseras del Medio en dirección al sur.
+
+#### En la avenida 6 de Diciembre y avenida Tarqui:
+
+* El cruce oriente-occidente que conecta con la avenida 10 de Agosto estará cerrado.
+* El paso sur-norte desde el sector de La Contraloría será inhabilitado.
+* Los carriles laterales permanecerán habilitados para vehículos livianos y transporte público.
+
+Plan de seguridad para las fiestas de Quito
+-------------------------------------------
+
+La **Secretaría de Seguridad** implementará un plan de contingencia durante las fiestas de Quito.
+
+Según informó la entidad a **EL** **COMERCIO**, se desplegarán alrededor de 950 uniformados en distintos puntos de la ciudad, pertenecientes tanto a la Secretaría como a la **Agencia Metropolitana de Control.**
+
+También detallaron que están en reuniones con la **Policía Naciona**l para mantener la seguridad durante los eventos **privados** y **públicos** que se realizan durante las **fiestas de Quito.**
+
+La institución identificó varias zonas de alta **concentración** **histórica de personas**, donde se ejecutarán operativos para mantener el orden.
+
+Entre estos lugares destacan la avenida **De los Shyris**, **Naciones** **Unidas**, avenida **Japón** y la **Plataforma** **Gubernamental**.
+
+En estas áreas se instalarán **ferias de emprendimientos** para evitar que sean ocupadas por ciudadanos de forma desorganizada.
+
+En particular, en la avenida **De los Shyris** se colocarán vallas en la zona azul, con el objetivo de prevenir **aglomeraciones**, como ha ocurrido en años anteriores.
+
+Asimismo, se aseguró presencia en eventos de gran magnitud, como el **Quitofest**, desfiles y otras actividades.
+
+La **Agencia Metropolitana de Control** informó que se enfocará en supervisar temas relacionados con el consumo de alcohol en espacios públicos, ventas ambulantes y uso de pirotecnia.
+
+Eventos públicos de gran magnitud en Quito
+------------------------------------------
+
+| Evento | Fecha | Hora | Lugar | Aforo estimado |
+| --- | --- | --- | --- | --- |
+| Desfile Mascarada Quiteña | 28 de noviembre de 2024 | 18:00 a 23:00 | Av. Amazonas | 6 000 personas |
+| Cantos del Sur | 29 de noviembre de 2024 | 17:00 a 24:00 | Tribuna del Sur | Alto (no especificado) |
+| Desfile de la Confraternidad Nacional Norte | 1 de diciembre de 2024 | 10:00 a 14:00 | Parque Bicentenario | 10 000 personas |
+| Fiesta de Colores | 6 de diciembre de 2024 | 16:30 a 22:00 | Plaza de la Independencia | 1 500 personas |
+
+Agenda de fiestas de Quito
+--------------------------
+
+Este será el programa de los actos más importantes por los 490 años de la fundación de San Francisco de Quito.
+
+* **20 de noviembre, 10:00, Basílica de Nuestra Señora de la Merced.** Te Deum. Acto religioso de agradecimiento. Basílica de Nuestra Señora de la Merced
+* **21 de noviembre, 14:00. Fiesta Centro en la Plaza de San Francisco**. Entrega de 2 000 títulos de propiedad a cargo de la Secretaría de Hábitat y Ordenamiento Territorial a través de la Unidad Especial Regula tu Barrio con una muestra artística de identidad quiteña.
+* **22 de noviembre, 18:00. Centro de Eventos Bicentenario**. ‘Las Voces Latinoamericanas Cantan a Quito’, un Tributo musical a cantautoras latinoamericanas.
+* **26 de noviembre, 18:00. Coliseo General Rumiñahui.** Festival Chicha con Corbatín, homenaje a la música popular ecuatoriana.
+* **27 de noviembre, 10:00, Coliseo Rumiñahui.** Festival del Pasacalle del Adulto Mayor.
+* **27 de noviembre, 18:00, Coliseo Rumiñahui.** Festival de Pasacalle.
+* **28 de noviembre,19:00. Teatro Capitol.** Chispa Sal Quiteña Stand Up.
+* **28 de noviembre, 17:00, av. Amazonas y Patria.** Desfile Mascarada Quiteña. Desfile nocturno de luces con participación educativa y cultural
+* **29 de noviembre, desde las 10:00. Administraciones zonales del Valle de los Chillos y Tumbaco.** Mega Feria Metropolitana Valle / Navidad Quiteña.
+* **30 de noviembre, 10:00, av. Teniente Hugo Ortiz.** Desfiles de la Confraternidad Nacional Sur.
+* **1 de diciembre, 10:00, av. Los Shyris.** Desfiles de la Confraternidad Nacional Norte.
+* **3 de diciembre, 19:00, Teatro Capitol.** Chispa y Sal Quiteña Tradicional.
+* **Del 5 hasta al 7 de diciembre,12:00, Parque Bicentenario.** Quinde Electro Fest, Festival de música y celebración emblemática de la ciudad,
+* **6 de diciembre, 15:00, Teatro Nacional Sucre**. Sesión Solemne.
+* **7 y 8 de diciembre, 10:00, en Calderón.** Mega Feria Metropolitana Norte / Navidad Quiteña.
+
+Familia de hombre que fingió su propio secuestro en Machala tomó una decisión
+=============================================================================
+
+Un hombre de 32 años fingió su propio secuestro en Machala con la intención de obtener 25 000 de su madre y una tía.
+--------------------------------------------------------------------------------------------------------------------
+
+![El hombre que fingió su secuestro fue detenido en Machala](https://www.elcomercio.com/wp-content/uploads/2024/11/secuestro-falso-machala.jpg)
+
+La **Policía Nacional** detuvo a un hombre por presuntamente **fingir su propio secuestro** y exigir dinero a su familia.
+
+### Más noticias
+
+* [Esto se conoce sobre el secuestro del dueño de locales de empanadas en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/secuestro-dueno-locales-empanadas-guayaquil.html "Esto se conoce sobre el secuestro del dueño de locales de empanadas en Guayaquil")
+* [Video capta el secuestro de una mujer frente a su hijo en Quevedo](https://www.elcomercio.com/actualidad/seguridad/video-secuestro-mujer-gasolinera-quevedo.html "Video capta el secuestro de una mujer frente a su hijo en Quevedo")
+* [Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-pone-en-marcha-plan-operativo-de-elecciones-2025.html "Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025")
+
+Según detalló la entidad, **William Fernando T. M.**, de 32 años, simuló el falso delito con el objetivo de obtener **25 000 dólares** a cambio de su supuesta libertad.
+
+Tras planificar esta idea, el ciudadano se contactó a través de mensajes de **WhatsApp** con su madre, quien vive en **Estados Unidos**, y una tía, en **Ecuador**.
+
+El hombre aseguró a sus familiares que fue víctima de un secuestro a manos de desconocidos y que **su vida estaba en peligro**.
+
+Preocupadas por su situación, las mujeres le **enviaron** parte del rescate que exigía[.](https://www.policia.gob.ec/ "https://www.policia.gob.ec/")
+
+Ciudadano usó el dinero para viajar y comprarse cosas
+-----------------------------------------------------
+
+Ante nuevas exigencias que hacían los ‘secuestradores’ inexistentes, la Unidad Antisecuestros y Extorsión (**Unase**) de la Policía investigó las cuentas bancarias del hombre.
+
+Las autoridades descubrieron que con ese dinero, William **compró artículos** en Ecuador y **viajó a Venezuela** para continuar con su plan.
+
+Familiares no demandarán al hombre
+----------------------------------
+
+Con las evidencias del falso secuestro, la Policía realizó un **operativo en Machala**, la noche del viernes 22 de noviembre de 2024.
+
+Tras ser apresado. el hombre **aceptó su culpa** y confirmó que nunca estuvo bajo peligro. Su celular con las conversaciones fue custodiado como evidencia del caso.
+
+Pese a la acción de William, **su familia decidió no denunciarlo**; pero las autoridades afirmaron que buscarán una sanción por la simulación de secuestro.
+
+Este delito incurre en el artículo 163 del Código Orgánico Integral Penal (**COIP**), que sanciona esta acción con pena privativa de libertad de **seis meses a dos años**.
+
+Incendios forestales en el Parque Nacional Cajas fueron controlados
+===================================================================
+
+El Parque Nacional Cajas fue azotado por voraces incendios forestales en noviembre, que se extendieron hasta por 14 días.
+-------------------------------------------------------------------------------------------------------------------------
+
+![En algunos puntos, los incendios forestales fueron controlados con la ayuda de helicópteros, debido al difícil acceso](https://www.elcomercio.com/wp-content/uploads/2024/11/incendio-forestal-el-cajas.jpg)
+
+La Secretaría Nacional de **Gestión de Riesgos** informó la actual situación de los **incendios forestales** en **Cuenca**, este lunes 25 de noviembre de 2024.
+
+### Más noticias
+
+* [Guardaparques y brigadistas celebran las lluvias por segundo día en El Cajas-Azuay](https://www.elcomercio.com/actualidad/ecuador/guardaparques-y-brigadistas-celebran-las-lluvias-por-segundo-dia-en-el-cajas-azuay.html "Guardaparques y brigadistas celebran las lluvias por segundo día en El Cajas-Azuay")
+* [El duro golpe a Loja y Azuay](https://www.elcomercio.com/opinion/editorial/incendios-loja-azuay-forestales.html "El duro golpe a Loja y Azuay")
+* [Riesgos reporta 18 500 hectáreas afectadas por los incendios en Azuay y Loja](https://www.elcomercio.com/actualidad/ecuador/riesgos-18-500-hectareas-afectadas-incendios-azuay-loja.html "Riesgos reporta 18 500 hectáreas afectadas por los incendios en Azuay y Loja")
+
+Según el último informe de la entidad, compartido a las 19:47, los incendios forestales en el **Parque Nacional Cajas**, en los sectores de **Llaviuco y Chaucha**, fueron controlados y liquidados respectivamente.
+
+La emergencia en El Chaucha, en el sector **Jerez**, comenzó el sábado 9 de noviembre; tres días después, el martes 12, las llamas se extendieron hasta el sector Llaviuco, en el kilómetro 19 de la **vía Cuenca-Molleturo**.
+
+Finalmente, las autoridades confirmaron que el fuego en ambos sectores del Parque El Cajas están bajo control este lunes. Sin embargo, en Jerez se mantienen equipos técnicos realizando labores de **monitoreo preventivo** para evitar posibles reactivaciones.
+
+En las alertas trabajaron el **Cuerpo de Bomberos de Cuenca** y de **Cañar**, con la colaboración de Gobiernos Autónomos Descentralizados (GADs), brigadistas, voluntarios y moradores.
+
+Las **lluvias** que cayeron en los últimos días en los sectores afectados por las llamas ayudaron a que las emergencias mejoren[.](https://es.wikipedia.org/wiki/Parque_nacional_Cajas "https://es.wikipedia.org/wiki/Parque_nacional_Cajas")
+
+Incendio forestal activo en Cuenca
+----------------------------------
+
+Mientras tanto, otro incendio forestal se mantiene activo en Cuenca. Los trabajos por controlar el fuego en Molleturo, en los sectores **Arquillo, Quitahuayco y Bioparque Amaru**, continúan la noche de este lunes.
+
+Por **noveno día consecutivo** trabajan personeros de la ‘Casaca Roja’ y brigadas especializadas, apoyadas por recursos logísticos y operativos.
+
+> A la ciudadanía: [pic.twitter.com/NJkJkrVSlw](https://t.co/NJkJkrVSlw)
+> 
+> — Riesgos Ecuador (@Riesgos\_Ec) [November 26, 2024](https://twitter.com/Riesgos_Ec/status/1861210010455343453?ref_src=twsrc%5Etfw)
+
+Voraces incendios forestales en Azuay y Loja
+--------------------------------------------
+
+Los voraces incendios forestales registrados en Azuay y Loja, sumada a la sequía, llevó a que el **Comité de Operaciones de Emergencia** (COE) declare la emergencia en todo el país durante 60 días. La medida se tomó el lunes 18 de noviembre. a medida se extenderá por 60 días.
+
+El secretario de Gestión de Riesgos, **Jorge Carrillo**, informó el miércoles 20 de noviembre, que los incendios afectaron a **18 500 hectáreas de vegetación** en estas dos provincias.
+
+El Parque Nacional Cajas fue una de las zonas más **afectadas** por los incendios forestales.
+
+Cierres viales por tres siniestros de tránsito en Quito la noche de este lunes 25 de noviembre
+==============================================================================================
+
+Los cierres viales en Quito por siniestro de tránsito ocurren esta noche.
+-------------------------------------------------------------------------
+
+![Tres cierres viales en varios sectores de Quito por siniestros de tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/11/cierres-viales-siniestros-quito.jpg)
+
+**Cierres viales** por tres **siniestros de tránsito** en **Quito** la noche de este lunes 25 de noviembre de 2024.
+
+La **Agencia Metropolitana de Tránsito (AMT)** dio las alertas[.](https://es.wikipedia.org/wiki/Quito)
+
+### Más noticias:
+
+* [Cierres viales se prevén en Quito este lunes 25 de noviembre por marchas](https://www.elcomercio.com/actualidad/quito/cierres-viales-se-preven-quito-este-lunes-25-de-noviembre-por-marchas.html "Cierres viales se prevén en Quito este lunes 25 de noviembre por marchas")
+* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
+
+Cierres viales por siniestros de tránsito en Quito
+--------------------------------------------------
+
+Los cierres viales por siniestros de tránsito en **Quito**, la noche de este lunes 25 de noviembre, fueron reportados por la AMT.
+
+En **Conocoto**, se cerró la calle Abdón Calderón e Isidro Ayora, el carril cerrado estaba sobre la primera calle.
+
+En el norte de la ciudad, se reportó el cierre de **av. América** y av. La Prensa, con carriles cerrados en ambos sentidos, en el paso deprimido de la Y.
+
+Finalmente, también en el sector norte, se dio el cierre de la **av. Mariana de Jesús** y Antonio de Ulloa.
+
+El **carril derecho** sobre la av. Mariana de Jesús fue cerrado.
+
+En la tarde, Quito también registró cierres viales por las marchas por el **Día de la No Violencia Contra la Mujer.**
+
+El recorrido fue por la av. 10 Agosto hasta l**a Universidad Central;** luego toda la av. América hasta la Mariana de Jesús.
+
+Finalmente, recorrieron la **calle Amazonas** y concluyeron en la Comandancia General de Policía.
+
+La AMT recomienda conducir con **precaución** y atención en las vías.
+
+FIFA recordó un momento doloroso de la Selección de Ecuador
+===========================================================
+
+La Selección de Ecuador, con Gustavo Alfaro como DT, jugó uno de los mejores partidos de su historia.
+-----------------------------------------------------------------------------------------------------
+
+![Gonzalo Plata y Michael Estrada después del partido entre Ecuador y Países Bajos en el Mundial de Catar 2022.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-25T183822.046.jpg)
+
+El 25 de noviembre de 2022, hace exactamente dos años, la **Selección de Ecuador** vivió uno de los partidos más memorables y dolorosos de su historia.
+
+En el marco de la segunda fecha del Grupo A del **Mundial de Catar**, la ‘Tri’ enfrentó a Países Bajos en el Estadio Internacional de Jalifa. Aquel encuentro terminó en empate 1-1, con goles de Cody Gakpo para los europeos y **Enner Valencia**, máximo goleador histórico de Ecuador en Mundiales, para el combinado nacional.
+
+### Más noticias:
+
+* [El apoyo a la Selección de Ecuador más allá de los resultados](https://www.elcomercio.com/opinion/editorial/apoyo-seleccion-ecuador-reflexion-resultados-opinion.html "El apoyo a la Selección de Ecuador más allá de los resultados")
+* [Defensa de la Selección de Ecuador a la altura de campeonas mundiales](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-defensa-goles-recibidos.html "Defensa de la Selección de Ecuador a la altura de campeonas mundiales")
+* [Los cracks de la Selección de Ecuador continúan con partidazos](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-jugadores-agenda-europa-america.html "Los cracks de la Selección de Ecuador continúan con partidazos")
+
+Aunque el resultado no fue suficiente para avanzar a los octavos de final, el rendimiento del equipo dirigido por G**ustavo Alfaro** quedó grabado como una muestra de esfuerzo, coraje y buen fútbol, en un partido donde Ecuador fue superior en la cancha, pero la fortuna no estuvo de su lado.
+
+Un duelo de poder a poder
+-------------------------
+
+Ambos equipos llegaron al encuentro con tres puntos, tras vencer en sus respectivos partidos iniciales. **Países Bajos**, favorito del grupo, se enfrentaba a una Ecuador que demostró no temerle a nadie.
+
+El encuentro comenzó cuesta arriba para la ‘Tri’, con un gol de **Cody Gakpo** a los 4 minutos, en una jugada que parecía desmoronar el planteamiento ecuatoriano. Sin embargo, el equipo reaccionó de inmediato y mostró su mejor versión.
+
+**Ecuador no solo empató las acciones, sino que fue el dominador del partido**: los neerlandeses solo lograron un remate al arco durante todo el encuentro, mientras que la ‘Tri’ tuvo 15 disparos, cuatro de ellos al marco.
+
+Antes de finalizar el primer tiempo, Pervis Estupiñán anotó el empate, pero el VAR anuló el gol por una polémica obstrucción. Sin bajar los brazos, Ecuador salió con todo en el segundo tiempo, logrando el 1-1 gracias a **Enner Valencia al minuto 49**, en una jugada que encendió las esperanzas del país.
+
+Gonzalo Plata y el gol que pudo cambiarlo todo
+----------------------------------------------
+
+Uno de los momentos más recordados y dolorosos del encuentro ocurrió al minuto 58.
+
+**Gonzalo Plata**, el talentoso extremo ecuatoriano, se encontró con el balón dentro del área y, tras acomodarse, lanzó un **potente zurdazo que rebotó en el poste**. Un gol en ese momento habría significado una victoria histórica para Ecuador y un paso firme hacia los octavos de final.
+
+> Si esa entraba… 🤯🇪🇨[@LaTri](https://twitter.com/LaTri?ref_src=twsrc%5Etfw) | [#CopaMundialFIFA](https://twitter.com/hashtag/CopaMundialFIFA?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zO92cjhpT5](https://t.co/zO92cjhpT5)
+> 
+> — Copa Mundial FIFA 🏆 (@fifaworldcup\_es) [November 25, 2024](https://twitter.com/fifaworldcup_es/status/1861054987670835357?ref_src=twsrc%5Etfw)
+
+Un empate que costó caro
+------------------------
+
+Pese al dominio y las ganas de Ecuador, el empate se mantuvo hasta el final. Este resultado dejó a la ‘Tri’ en una posición complicada, ya que una victoria prácticamente aseguraba su clasificación a la siguiente fase. Sin embargo, en la última fecha del grupo, **Ecuador cayó 1-2 ante Senegal**, quedando eliminado del torneo.
+
+Aquel partido contra **Países Bajos será recordado no solo por la gran actuación de Ecuador**, sino también por lo cerca que estuvo de convertirse en una noche histórica. Dos años después, la FIFA recordó ese duelo en sus redes sociales, destacando la jugada de Plata y el desempeño del equipo.
+
 Trump amenazó con aplicar aranceles a México, China y Canadá
 ============================================================
 
@@ -497,509 +1037,3 @@ Culpabilidad
 Los hermanos fueron hallados culpables en un segundo juicio del **asesinato de Kitty y José Menéndez** en su casa de Beverly Hills el 20 de agosto de 1989, en un controvertido caso en el que los **jóvenes** denunciaron haber sufrido abusos sexuales por su padre.
 
 Después de **35 años de prisión**, los hermanos recobraron la atención pública debido a la exitosa serie de Netflix **‘Monstruos: La historia de Lyle y Erik Menéndez’,** a la que se sumó **un documental** y el revuelo de una nueva generación que mira con otros ojos a los que antes fueron vistos como **asesinos despiadados**.
-
-Condiciones del clima en Ecuador para este lunes 25 de noviembre
-================================================================
-
-El Inamhi alertó de lluvias de variable intensidad en provincias de la Sierra y Amazonía este lunes.
-----------------------------------------------------------------------------------------------------
-
-![Dos provincias de la Amazonía tendrán condiciones favorables a lluvias con tormentas](https://www.elcomercio.com/wp-content/uploads/2024/11/lluvias-clima-ecuador.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) presentó las **condiciones del clima** en Ecuador, para la tarde y noche de este lunes 25 y la madrugada del martes 26 de noviembre de 2024.
-
-### Más noticias
-
-* [Cortes de luz en Quito este martes 26 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-martes-26-noviembre.html "Cortes de luz en Quito este martes 26 de noviembre")
-* [Cortes de luz en Guayaquil para este martes 26 de noviembre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-martes-26-de-noviembre.html "Cortes de luz en Guayaquil para este martes 26 de noviembre")
-* [Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años](https://www.elcomercio.com/actualidad/negocios/intercambio-de-energia-electrica-entre-colombia-y-ecuador-empezo-hace-26-anos.html "Intercambio de energía eléctrica entre Colombia y Ecuador empezó hace 26 años")
-
-Según las **previsiones atmosféricas** de la entidad, es probable la presencia de **lluvias** de variable intensidad en la **Amazonía** y algunas provincias de la Sierra.
-
-¿Lloverá en Ecuador este lunes 25 y martes 26 de noviembre?
------------------------------------------------------------
-
-El último reporte del Inamhi señala que en las provincias de la Amazonía: **Napo, Pastaza, Morona Santiago y Zamora Chinchipe**, se esperan lluvias entre **débiles y fuertes**.
-
-En **Pastaza y Morona Santiago**, las condiciones atmosféricas serán más fuertes y podrían decantarse en **tormentas**.
-
-Mientras que en la **Sierra** se prevén **lluvias ocasionales** y no de consideración en el centro y sur de la región Interandina.
-
-Las provincias de la Sierra con mayores probabilidades de lluvia aisladas son: **Chimborazo, Tungurahua Cañar, Bolívar, Azuay y Loja**.
-
-En estas provincias, entre la tarde de este lunes hasta la madrugada de este martes, el **cielo** se mantendrá **nublado**[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
-
-En la región del Litoral el clima se mantendrá con **altas temperaturas**, con mínimas de 21° C y máximas de 29° C.
-
-De forma general, la Costa tendrá una tarde y noche **nublada**. Únicamente se esperan lluvias aisladas en el norte, en el este de **Esmeraldas**.
-
-> [#PronosticoNacionalEc](https://twitter.com/hashtag/PronosticoNacionalEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del tiempo en varias localidades del Ecuador para el día lunes, 25 de noviembre del 2024.  
-> Es probable la presencia de lluvias de variable intensidad en la Amazonía y parte de la Sierra. ⛈️🌧️🌦️ [pic.twitter.com/ynelzh0gjI](https://t.co/ynelzh0gjI)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 25, 2024](https://twitter.com/inamhi_ec/status/1860862080150122725?ref_src=twsrc%5Etfw)
-
-Condiciones del clima en Quito
-------------------------------
-
-En **Quito**, el clima oscilará entre una temperatura mínima de **6° C** y una máxima de **25° C**.
-
-El cielo en la capital se mantendrá nublado, pero no se tienen previstas **fuertes lluvias**.
-
-Sin embargo, se registra un incremento de nubosidad con probabilidad de lluvia en las cercanías de Quito, en el **sur de Pichincha**.
-
-No se descarta alguna **tormenta aislada** en **Rumiñahui** y **Mejía**,
-
-> [#PronosticoPichincha](https://twitter.com/hashtag/PronosticoPichincha?src=hash&ref_src=twsrc%5Etfw) l Lunes 25 de noviembre: Poco nuboso con incremento de nubosidad. Probabilidad de lluvia en la tarde especialmente al sur de la provincia, no se descarta alguna tormenta aislada🌤️🌦️⛈️. Indice de radiación UV entre Alta y Extremadamente Alta🧢🕶🌂 [pic.twitter.com/wSJcoDFMI7](https://t.co/wSJcoDFMI7)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 25, 2024](https://twitter.com/inamhi_ec/status/1861037269177557177?ref_src=twsrc%5Etfw)
-
-Niña salvadoreña de 2 años fue encontrada en la frontera sur de Estados Unidos
-==============================================================================
-
-La pequeña, identificada como salvadoreña, llegó a la zona con un papel que contenía un número telefónico y un nombre.
-----------------------------------------------------------------------------------------------------------------------
-
-![Una familia de migrantes, que incluye a dos niños, espera en la frontera de EE.UU. con México, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/ninas-frontera-efe.jpg)
-
-En la frontera entre [EE. UU.](https://www.elcomercio.com/actualidad/mundo/frontera-mexico-resiente-restricciones-migratorias-ee-uu.html "https://www.elcomercio.com/actualidad/mundo/frontera-mexico-resiente-restricciones-migratorias-ee-uu.html") y México, una niña de 2 años fue encontrada **separada de sus padres**. El paradero de la menor sigue siendo un misterio, según CNN.
-
-### Más noticias
-
-* [La frontera de México resiente las restricciones migratorias de EE.UU.](https://www.elcomercio.com/actualidad/mundo/frontera-mexico-resiente-restricciones-migratorias-ee-uu.html "https://www.elcomercio.com/actualidad/mundo/frontera-mexico-resiente-restricciones-migratorias-ee-uu.html")
-* [Migrantes perciben un paso más ordenado en la frontera México-EEUU](https://www.elcomercio.com/actualidad/mundo/migrantes-perciben-un-paso-mas-ordenado-en-la-frontera-mexico-eeuu-por-medidas-de-la-cbp.html "https://www.elcomercio.com/actualidad/mundo/migrantes-perciben-un-paso-mas-ordenado-en-la-frontera-mexico-eeuu-por-medidas-de-la-cbp.html")
-* [Migrantes buscan nuevas rutas para cruzar la frontera sur de México](https://www.elcomercio.com/actualidad/mundo/migrantes-nuevas-rutas-frontera-mexico.html "https://www.elcomercio.com/actualidad/mundo/migrantes-nuevas-rutas-frontera-mexico.html")
-
-Una niña de 2 años encontrada entre migrantes
----------------------------------------------
-
-Este fin de semana, una niña de tan solo 2 años fue encontrada en la **frontera entre Estados Unidos** y México, en medio de un grupo de más de **50 menores migrantes no acompañados.** La pequeña, identificada como salvadoreña, llegó a la zona con un papel que contenía un **número telefónico** y un nombre. El hallazgo fue informado por e**l teniente Chris Olivarez,** vocero del Departamento de Seguridad de Texas (DPS), a través de la red social X.
-
-En un video difundido por Olivarez, se escucha a un hombre interactuando con la niña, quien, al ser preguntada sobre su destino, respondió: **“con mi mamá y mi papi”**, asegurando que vivían en Estados Unidos. La niña, aunque evidentemente pequeña, mostró comprensión de su entorno y contexto migratorio, mencionando a sus **padres como los responsables** de su llegada a la frontera.
-
-Aumento de menores migrantes no acompañados
--------------------------------------------
-
-El incidente subraya una **alarmante tendencia** en la frontera sur de Estados Unidos. Según datos proporcionados por DPS, más de **16 100 menores** no acompañados fueron detectados en el sector sur del país durante el año fiscal 2024, que finalizó en septiembre. Este incremento de menores migrantes no acompañados generó preocupación sobre las **condiciones de vulnerabilidad** a las que se enfrentan durante su travesía.
-
-Hasta el momento, el paradero de la niña salvadoreña sigue siendo desconocido. CNN intentó obtener más **información de las autoridades de Texas,** quienes aún no pronunciaron detalles adicionales. Además, la Cancillería de El Salvador también fue contactada para esclarecer el caso, pero hasta este lunes no se recibió respuesta oficial.
-
-Operativo Lone Star y sus implicaciones
----------------------------------------
-
-El hallazgo de la niña coincide con el **aumento de medidas de seguridad en la frontera,** como la implementación de nuevas barreras flotantes por parte del **gobierno de Texas**. Estas acciones forman parte de la “Operation Lone Star”, una iniciativa del estado para **combatir la inmigración irregular,** utilizando recursos locales para controlar el flujo migratorio. La operación fue objeto de controversia, pero sigue en marcha con el objetivo de **reducir el número de cruces ilegales** hacia Estados Unidos.
-
-Asambleísta del correísmo hizo un pedido sobre los supuestos chats de Fernando Villavicencio
-============================================================================================
-
-La Fiscalía señaló que los supuestos chats de Fernando Villavicencio eran falsos.
----------------------------------------------------------------------------------
-
-![Los supuestos chats de Fernando Villavicencio fueron divulgados por un medio digital.](https://www.elcomercio.com/wp-content/uploads/2024/11/chats-fernando-villavicencio-1.jpg)
-
-La **asambleísta del correísmo, Sofía Espín**, hizo un pedido sobre los supuestos **chats** del celular del excandidato presidencial, **Fernando Villavicencio**, este lunes 25 de noviembre de 2024.
-
-La asambleísta remitió un oficio a su compañera de bancada y **presidenta de la Comisión de Fiscalización, Pamela Aguirre.**
-
-### Más noticias:
-
-* [Fiscalía se pronunció sobre paradero del celular de Fernando Villavicencio](https://www.elcomercio.com/actualidad/politica/fiscalia-fernando-villavicencio-celular-desconocidos.html "Fiscalía se pronunció sobre paradero del celular de Fernando Villavicencio")
-* [Correísmo no logró censurar a Mónica Palencia](https://www.elcomercio.com/actualidad/politica/juicio-politico-monica-palencia-desarrolla-asamblea.html "Correísmo no logró censurar a Mónica Palencia")
-
-Pedido de asambleísta del correísmo sobre chats de Fernando Villavicencio
--------------------------------------------------------------------------
-
-La asambleísta Sofía Espín hizo un pedido a la presidenta de la **Comisión de Fiscalizació**n, Pamela Aguirre, sobre los chats de Fernando Villavicencio.
-
-En un memorando de dos páginas, Espín solicitó iniciar un **proceso de fiscalización** a los chats del excandidato presidencial.
-
-“Ante la **gravedad de la información revelada en los chats** del teléfono del ex candidato Presidencial, Fernando Villavicencio, hemos solicitado a la Presidenta de la Comisión de Fiscalización, Pamela Aguirre, se inicie un inmediato proceso de fiscalización”, dijo Espín.
-
-Espín señala que los supuestos mensajes “han generado un intenso **debate, revelando posibles actos de corrupción y tráfico de influencias** que involucran a figuras políticas y periodistas”.
-
-El documento está dividido en **tres partes:** antecedentes, reacciones y consecuencias, y solicitud y pertinencia.
-
-En los antecedentes, la asambleísta correísta presentó una **cronología** de cómo se difundieron los supuestos mensajes en redes sociales.
-
-Menciona el asesinato de Villavicencio y la exposición de los presuntos chats que se realizó en un **medio digital.** 
-
-“Se puede identificar una presunta dinámica sostenible de **flujo y tráfico de información** entre autoridades estatales y otros actores”, manifestó Espín.
-
-Fiscalía negó los supuestos chats de Fernando Villavicencio
------------------------------------------------------------
-
-La solicitud de Sofía Espín se da pese a que, hace tres semanas, la Fiscalía señaló que los supuestos chats extraídos del chat de Fernando Villavicencio eran **falsos**.
-
-Fiscalía agregó que el celular de Villavicencio se encuentra en cadena de custodia del **FBI**, en Estados Unidos.
-
-“La información que circula es falsa y no podría estar en posesión de quienes intentan generar **confusión**“, señaló la Fiscalía.
-
-> [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)| 🚨🚨🚨🚨  
-> Ante la gravedad de la información revelada en los chats del teléfono del ex candidato Presidencial, Fernando Villavicencio, hemos solicitado a la Presidenta de la comisión de [@FiscalizacionAN](https://twitter.com/FiscalizacionAN?ref_src=twsrc%5Etfw), [@pameaguirre1](https://twitter.com/pameaguirre1?ref_src=twsrc%5Etfw), se inicie un inmediato PROCESO DE FISCALIZACIÓN.… [pic.twitter.com/2hqH2WpL9q](https://t.co/2hqH2WpL9q)
-> 
-> — Sofía Espín Reyes (@SofiaEspinRC) [November 25, 2024](https://twitter.com/SofiaEspinRC/status/1861042912072507774?ref_src=twsrc%5Etfw)
-
-Enner Valencia popularizó su nombre con goles en Ecuador
-========================================================
-
-Enner Valencia debutó en el fútbol profesional de Ecuador en 2010. Lo hizo con Emelec.
---------------------------------------------------------------------------------------
-
-![Enner Valencia celebra un gol con la Selección de Ecuador en 2016.](https://www.elcomercio.com/wp-content/uploads/2024/11/valencia_nombre_1.jpg)
-
-**Enner Valencia** lleva jugando en la Selección de Ecuador durante 12 años. En el 2012, de la mano del colombiano Reinaldo Rueda, hizo su debut en el combinado nacional enfrentando a Honduras en el George Capwell, su casa.  
-
-En 2013, pero en Estados Unidos, **Enner Valencia anotó su primer gol con la Selección de Ecuado**r. Fue en un amistoso ante la propia Honduras en un empate 2-2. El otro tanto fue de Jaime ‘Yoya’ Ayoví.
-
-### Más noticias: 
-
-* [Enner Valencia anotó su gol 44 con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-gol43-ecuador-eliminatorias.html "Enner Valencia anotó su gol 44 con la Selección de Ecuador")
-* [Enner Valencia cerca de ‘arrebatarle’ otro récord a Agustín Delgado](https://www.elcomercio.com/deportes/futbol/enner-valencia-agustin-delgado-goles.html "Enner Valencia cerca de ‘arrebatarle’ otro récord a Agustín Delgado")
-* [Enner Valencia y otros goles históricos de Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-y-otros-goles-historicos-de-ecuador.html "Enner Valencia y otros goles históricos de Ecuador")
-
-En el 2024, Valencia es el **máximo goleador histórico de Ecuador con 44 tantos**, seis de ellos repartidos en los mundiales de Brasil 2014 y Catar 2022, con lo que tiene el récord de ser el ecuatoriano que más goles anotó en esta competencia.  
-
-Otro registro que está al alcance de su mano es el de ser el máximo goleador nacional en las eliminatorias sudamericanas. Al **momento tiene 12 tantos y quedó a cuatro de igualar a Agustín Delgado** que tiene 16. 
-
-Finalmente, **en el 2025 puede llegar a los 100 partidos internacionales con la tricolor**. Al momento jugó 95 y un largo trayecto por recorrer como seleccionado nacional que hacen pensar que no tendrá problemas en ser centenario. 
-
-Iván Hurtado (168), Walter Ayoví (121), **Édison Méndez (111), Álex Darío Aguinaga (109**), Ulises de la Cruz (102) y Luis Capurro (101) son los únicos que están en el grupo de los jugadores con 100 o más partidos con la selección.  
-
-Nombres ilustres como **Antonio Valencia (99), Giovanny Espinoza (91) y José Francisco Cevallos (89**) no lo lograron y se quedaron en las puertas de alcanzar este reconocimiento personal. 
-
-Todos los buenos números hacen que ‘Superman’ sea uno de los capitanes de la selección y uno de los **referentes para los seguidores del combinado nacional**, pese a todos los cuestionamientos que existen en torno a su presencia. 
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/valencia_nombre_2-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-Enner, un nombre que gana espacio en Ecuador 
----------------------------------------------
-
-**Enner Remberto Valencia Lastra** nació el 4 de noviembre de 1989 en San Lorenzo, provincia de Esmeraldas. 
-
-Datos proporcionados por el Registro Civil a EL COMERCIO, mencionan que pese a haber nacido en el 89, **el delantero nacional fue inscrito en enero de 1990**. Otras tres personas más llevan su mismo nombre en el inicio de esa década.
-
-Desde ese año hasta el 24 de noviembre de 2024 se registraron 1 566 inscritos como Enner, ya sea el primero o el segundo nombre.
-
-Poco a poco el nombre abandonó la provincia de Esmeraldas y se regó por otros puntos del país.  
-
-Las provincias del Guayas (329), Manabí (185), Los Ríos (164), El Oro (119), Esmeraldas (119), Morona Santiago (76), **Pichincha (75), Santa Elena (68), Santo Domingo de los Tsáchilas (59)**, Tungurahua (52) y Cotopaxi (43), son las que tienen mayor número de inscritos con el nombre del delantero del Inter de Porto Alegre.
-
-La carrera del esmeraldeño se ha desarrollado entre **Ecuador, México, Inglaterra, Turquía y Brasil**, siempre en equipo de gran arraigo popular que lo han mantenido en la élite del fútbol sudamericano y como una de las principales cartas de gol del país desde 2010.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/11/valencia_nombre_3-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-San viernes
------------
-
-‘Producciones de ensueño’, el spin-off de ‘Intensamente’ ya llega a Disney+
-===========================================================================
-
-La serie de Intensamente , "Producciones de ensueño", llega el 11 de diciembre a Disney+
-----------------------------------------------------------------------------------------
-
-!['Intensamente 2' fue un éxito de taquilla en 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/serie-intensamente-El-Comercio.jpg)
-
-Desde su estreno en 2015, ‘**Inside Out**‘ (o ‘**Intensamente**‘) se convirtió en una de las joyas más queridas de Disney y Pixar.
-
-La historia sobre las emociones que habitan en la mente de Riley, dirigida por Pete Docter, no solo fue un éxito en taquilla, sino que también marcó a toda una generación.
-
-### Más noticias
-
-* **[La serie de Netflix ‘Cien años de soledad’ estrena su tráiler oficial](https://www.elcomercio.com/tendencias/la-serie-de-netflix-cien-anos-de-soledad-estrena-su-trailer-oficial.html "https://www.elcomercio.com/tendencias/la-serie-de-netflix-cien-anos-de-soledad-estrena-su-trailer-oficial.html")**
-* **[‘La Sustancia’ inyectó a Margaret Qualley en los ojos del público](https://www.elcomercio.com/tendencias/la-serie-de-netflix-cien-anos-de-soledad-estrena-su-trailer-oficial.html "https://www.elcomercio.com/tendencias/la-serie-de-netflix-cien-anos-de-soledad-estrena-su-trailer-oficial.html")**
-
-Con la llegada de ‘**Intensamente 2**‘ en 2024, el universo de la franquicia ha seguido creciendo. Ahora, este fenómeno da un giro hacia la pantalla chica con la serie ‘**Producciones de ensueño**‘.
-
-Según Entertainment Weekly (EW), Pete Docter confirmó que la serie es un _**spin-off**_ centrado en el misterioso estudio de cine que crea los **sueños de Riley**. “Queremos explorar cómo los sueños afectan nuestra vida diaria. Será un viaje fascinante”, adelantó el creativo.
-
-**¿De qué tratará ‘Producciones de ensueño’?**
-----------------------------------------------
-
-![Póster de 'Producciones de ensueño', la serie de Intensamente. ](https://www.elcomercio.com/wp-content/uploads/2024/11/serie-intensamente-El-Comercio-1-1024x683.jpg)
-
-Póster de ‘Producciones de ensueño’, la serie de Intensamente.
-
-La serie animada, que contará con cuatro episodios, profundiza en la dinámica detrás de Dream Productions. Este peculiar estudio de cine dentro de la **mente de Riley** se encarga de “producir” sus sueños cada noche y muestra el caos y la creatividad que hay detrás de ellos.
-
-El tono de la serie será de falso documental, como una sátira del mundo cinematográfico. Alegría será la presentadora de este universo onírico, según revela Pixar en su sinopsis oficial.
-
-En el tráiler, ya disponible en las plataformas de Disney+, podemos conocer a los nuevos personajes que se suman al elenco y mantienen el equilibrio entre el humor característico de la franquicia y momentos emotivos.
-
-**Un estreno muy esperado**
----------------------------
-
-‘Producciones de ensueño’ estará disponible a partir del 11 de diciembre en Disney+. Este proyecto es uno de los más ambiciosos de **Pixar**, al expandir el universo de ‘Inside Out’ hacia el **_streaming_** con una propuesta fresca y creativa. Además, es un regalo para los fanáticos que quedaron intrigados por los sueños en la primera película.
-
-Desde su lanzamiento, ‘Intensamente’ ha marcado un antes y un después en la forma en que las películas animadas abordan temas emocionales.
-
-Esta expansión a la televisión refuerza el interés de Pixar en conectarse con el público desde nuevos formatos. Como mencionó Pete Docter en una entrevista con IGN. “Este es solo el inicio de lo que podemos hacer con el universo de Riley”.
-
-Ecuador supera las 269 toneladas de drogas incautadas durante 2024
-==================================================================
-
-Ecuador supera la cantidad de droga incautada en 2024 frente a 2023, indica el Viceministro de Interior.
---------------------------------------------------------------------------------------------------------
-
-![Los militares decomisaron bultos de sustancias ilícitas en alta mar.](https://www.elcomercio.com/wp-content/uploads/2024/11/droga-historial.jpg)
-
-El viceministro de Interior de **Ecuador, Lyonel Calderón**, informó que en la última semana se alcanzaron las **269,16 toneladas** de **drogas** decomisadas desde el inicio de **2024**. Esto supone un 34 por ciento más que en el mismo período de 2023.
-
-Con esta cifra se supera el promedio anual de los últimos tres años, que rondaba las **200 toneladas**. Calderón dio este informe el lunes 25 de noviembre de 2024 en una rueda de prensa.
-
-### Más noticias
-
-* [Se incautan de 13 toneladas de cocaína procedentes de Ecuador en España](https://www.elcomercio.com/actualidad/seguridad/se-incautan-de-13-toneladas-de-cocaina-procedentes-de-ecuador-en-espana.html "Se incautan de 13 toneladas de cocaína procedentes de Ecuador en España")
-* [Tres extranjeros y un ecuatoriano fueron detenidos en Manabí con droga](https://www.elcomercio.com/actualidad/seguridad/extranjeros-ecuatoriano-fueron-detenidos-manabi-droga.html "Tres extranjeros y un ecuatoriano fueron detenidos en Manabí con droga")
-* [Ecuador decomisa más de 500 kilos de cocaína en contenedores de exportación](https://www.elcomercio.com/actualidad/seguridad/ecuador-decomisa-500-kilos-cocaina-destino-rusia.html "Ecuador decomisa más de 500 kilos de cocaína en contenedores de exportación")
-
-Entre el 1 de enero y el 24 de noviembre de 2023 el total incautado fue de **201 toneladas de drog**a, por lo que las 269,16 toneladas decomisadas este año en ese mismo lapso representan un incremento del 34 por ciento.
-
-Rodeado por **Colombia y Perú**, Ecuador se convirtió en los últimos años en un paso importante para el tráfico de drogas que se dirige mayormente a **Europa y Estados Unidos**. Colombia y Perú son los dos mayores productores mundiales de cocaína.
-
-Este país andino es catalogado como el tercero en el mundo que más droga decomisa, solo por detrás de Colombia y Estados Unidos.
-
-Calderón ofreció los datos en la rueda de prensa del **Bloque de Seguridad**, conformado por las **Fuerzas Armadas,** la **Policía Nacional** y los ministerios de Interior y Defensa. El Bloque se creó con el objetivo de combatir la violencia y el crimen organizado.
-
-Los homicidios inintencionales se redujeron, según el Gobierno
---------------------------------------------------------------
-
-Adicionalmente, Calderón presentó información sobre una reducción del 17,3 por ciento en los homicidios intencionales a escala nacional. **De 7 318 entre el 1 de enero y el 24 de noviembre de 2023** disminuyeron a **6 052 en el mismo período de 2024[.](https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador")**
-
-En lo que respecta a Quito, la capital de Ecuador, esta reducción fue del 14 por ciento. Desde que el Bloque de Seguridad ingresó el 1 de julio de 2024 al municipio de Durán se redujeron las muertes violentas en 34,5 por ciento. Durán pertenece al área metropolitana de Guayaquil, una de las zonas más violentas del país.
-
-En cambio, el **comandante general de la Policía Nacional, Víctor Zárate**, indicó que a la fecha se detuvo a 66 762 personas. A demás se incautaron de 9 543 armas de fuego y 398 383 municiones. Igualmente, se recuperaron 5 514 vehículos y 8 280 motocicletas.
-
-También se requisaron 29 991 artefactos explosivos. La mayor parte se usa para extorsiones o las denominadas como “vacunas”, cobros extorsivos en los que delincuentes exigen una cuota de dinero a los negocios a cambio de dejarlos trabajar en paz.
-
-Los casos de extorsión en Ecuador
----------------------------------
-
-Zárate apuntó que atendieron **7 283 casos de extorsión** y que se detuvo a 1 483 personas vinculadas con ese crimen y con el de secuestro.
-
-Entre las acciones llevadas a cabo recientemente, Zárate mencionó una operación conjunta y coordinada entre los policías de **Ecuador y Alemania** que permitió desarticular una red de lavado de dinero que se vincula con al tráfico internacional de droga.
-
-El operativo finalizó con seis capturados, cuatro en Ecuador y dos en Alemania, según detalló Zárate. Uno de ellos -dijo – de nacionalidad serbia e identificado como Jezdimir S. era considerado un “objetivo de alto valor” (mandos altos de las organizaciones criminales).
-
-La nieve llega a Europa Central y genera caos en carreteras
-===========================================================
-
-La primera nevada de la temporada afecta a Europa Central, con alertas de nieve, hielo.
----------------------------------------------------------------------------------------
-
-![Vehículos circulan por una carretera que atraviesa un bosque cubierto de nieve, tras una nevada nocturna cerca de Matrakeresztes, Hungría.](https://www.elcomercio.com/wp-content/uploads/2024/11/hungria-nieve-efe.jpg)
-
-La primera nevada de la temporada afecta a **Europa Central**, con alertas de **nieve, hielo** y obligatoria instalación de neumáticos de invierno en Polonia y Austria.
-
-### Más noticias
-
-* [El desierto de Arabia Saudita se cubrió de nieve](https://www.elcomercio.com/actualidad/mundo/desierto-arabia-saudita-cubrio-nieve.html "El desierto de Arabia Saudita se cubrió de nieve")
-* [La nieve siembra el caos en el cielo de Europa](https://www.elcomercio.com/actualidad/mundo/nieve-siembra-caos-cielo-europa.html "https://www.elcomercio.com/actualidad/mundo/nieve-siembra-caos-cielo-europa.html")
-* [La nieve, el frío y la lluvia siguen afectando a Europa y América](https://www.elcomercio.com/actualidad/mundo/nieve-frio-y-lluvia-siguen.html "https://www.elcomercio.com/actualidad/mundo/nieve-frio-y-lluvia-siguen.html")
-
-El miércoles, 21 de noviembre de 2024, un frente de **aire frío polar** comenzó a **hacer sentir su presencia** en Europa Central, trayendo consigo la primera **nevada significativa de la temporada**, según el portal es.euronews.com
-
-El fenómeno afectó a **Bélgica, Dinamarca, Polonia y Austria,** donde las autoridades emitieron alertas por las **condiciones meteorológicas extrema**s que están azotando la región. Los meteorólogos advierten que las bajas temperaturas, combinadas con **vientos fuertes,** podrían complicar las condiciones de tránsito en muchas áreas, afirma es.euronews.com
-
-En Bélgica, las lluvias intensas y los vientos huracanados dieron paso a un clima gélido, cubriendo las cumbres de las Ardenas con una fina capa de nieve.
-
-El **Real Instituto Meteorológico de Bélgica** activó una **alerta amarilla en varias provincias,** entre ellas **Hainaut, Lieja, Luxemburgo y Namur**, debido a las condiciones de hielo y nieve. Se espera que las temperaturas desciendan hasta alcanzar los **cero grados** o incluso por debajo, aumentando los riesgos para los **conductores y peatones.**
-
-Alertas en Polonia y Austria
-----------------------------
-
-En Polonia, la situación también es crítica. Un fuerte **frente meteorológico** dejó nevadas en las regiones del sur y noroeste, obligando a las autoridades a **advertir a los conductores sobre la obligatoriedad** de montar neumáticos de invierno. Las nevadas fueron especialmente intensas en los **montes Tatra**, donde la posibilidad de avalanchas llevó a los equipos de rescate a **suspender las rutas turísticas,** como medida de precaución.
-
-Según los pronósticos, las temperaturas en la región podrían llegar a los 15 grados bajo cero durante el próximo fin de semana, lo que incrementa aún más los riesgos de accidentes y situaciones de emergencia, de acuerdo con es.euronews.com
-
-Mientras tanto, en Austria, los conductores en el paso de Arlberg fueron obligados a montar cadenas para la nieve en sus **vehículos debido a las carreteras heladas,** una medida que continuó hasta el miércoles por la mañana. Las autoridades austriacas también han tomado medidas estrictas para asegurar que los vehículos estén equipados para hacer frente a las **difíciles condiciones meteorológicas.**
-
-Nubosidad en San Sebastián, España
-----------------------------------
-
- Turistas observan el arco iris en la playa de la Concha de San Sebastián. Los cielos en el País Vasco se presentaron el viernes 22 de noviembre de 2024, nubosos por la mañana pero que quedarán poco nubosos por la tarde noche, con precipitaciones débiles que remitirán por la tarde mientras la cota de nieve se situará en torno a los 1 200 o 1 500 metros. 
-
-Nevada en Zurich
-----------------
-
-La amplia nevada en Zurich, la noche del viernes, 22 de noviembre de 2024, causó interrupciones del tráfico en gran parte de la meseta central.
-
-Nieve en el norte de Francia
-----------------------------
-
-Un temporal de nieve y frío está atravesó el jueves, 21 de noviembre de 2024, de oeste a este el norte de Francia, incluida la región de París, y ha dado lugar a restricciones de circulación que podrían prolongarse hasta que suban las temperaturas de forma notable el fin de semana.
-
-  
-
-CNE inicia la impresión de papeletas para las elecciones 2025
-=============================================================
-
-El CNE informó que las papeletas para las elecciones 2025 cuentan con varias seguridades.
------------------------------------------------------------------------------------------
-
-![El CNE coordina con el Instituto Geográfico Militar en la impresión de las papeletas para las elecciones 2025.](https://www.elcomercio.com/wp-content/uploads/2024/11/papeletas-elecciones-2025.jpg)
-
-El Consejo Nacional Electoral (CNE) inició la impresión de papeletas para las elecciones 2025, este lunes 25 de noviembre de 2024.
-
-EL CNE avanza con el proceso electoral para los comicios del próximo 9 de febrero.
-
-### Más noticias:
-
-* [Miembros de las juntas tienen 11 obligaciones para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/miembros-juntas-elecciones-2025-responsabilidades-fijas.html "Miembros de las juntas tienen 11 obligaciones para las elecciones 2025")
-* [Vocales suplentes del CNE exigen transición conforme a la Constitución](https://www.elcomercio.com/actualidad/politica/vocales-suplentes-del-cne-exigen-transicion-conforme-a-la-constitucion.html "Vocales suplentes del CNE exigen transición conforme a la Constitución")
-
-Inicio de impresión de papeletas para las elecciones 2025
----------------------------------------------------------
-
-El Consejo Nacional Electoral (CNE), a través del **Instituto Geográfico Militar (IGM)**, inició la impresión de papeletas para las elecciones 2025.
-
-Estas papeletas corresponden a la dignidad de **asambleístas nacionales y parlamentarios andinos**.
-
-Sumadas todas las dignidades a elegirse en 2025, se imprimirán **54 945 260 papeletas** para la primera vuelta electoral.
-
-Estas corresponden a las dignidades de **binomio presidencial**, asambleístas nacionales, provinciales y por el exterior; y parlamentarios andinos.
-
-Para ratificar la transparencia de los comicios, el **material electoral** tiene diferentes niveles de seguridad.
-
-### Elementos de seguridad de las papeletas para las elecciones 2025
-
-Entre los **elementos de seguridad** están: efecto anticopia, microtexto con diferentes tramados, anti-scanner, código de barras y estructuras de alta complejidad.
-
-Esto hace imposible su **duplicación o falsificación**.
-
-### Calendario electoral
-
-De acuerdo al **calendario electoral** aprobado por el CNE, en estos días se desarrolla la notificación a los miembros de las juntas receptoras del voto, hasta el 25 de enero.
-
-Del 2 de diciembre al 9 de febrero se da la **capacitación** de los mismos.
-
-Del 5 de enero al 6 de febrero se realiza la **campaña** electoral.
-
-Para el 19 de enero, está previsto el primer simulacro y el **debate presidencial** y el 26 del mismo mes el segundo simulacro.
-
-El 9 de febrero se realizará el **sufragio** de las personas privadas de la libertad sin sentencia condenatoria ejecutoriada.
-
-El 7 de febrero el sufragio del voto en casa y el **silencio** electoral.
-
-Finalmente, el 9 de febrero se realizará el sufragio general.
-
-Indignación por la muerte de un gorila de dos años por un error humano
-======================================================================
-
-La muerte del gorila generó un debate sobre la seguridad en los zoológicos.
----------------------------------------------------------------------------
-
-![Eyare era el nombre del gorila que murió en el 'zoo'. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-25T164108.174.jpg)
-
-La muerte de **Eyare**, un joven gorila de dos años en el [Zoológico de **Calgary**, **Canadá**](https://www.calgaryzoo.com/ "https://www.calgaryzoo.com/"), entristeció a la comunidad y generó un debate sobre la seguridad en los zoológicos.
-
-### **Más noticias:**
-
-* [Maltrato animal: las infracciones leves también castigan con una multa económica](https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html "https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html")
-* [La venta de animales de compañía se castiga con multas severas en Quito](https://www.elcomercio.com/narices-frias/venta-animales-compania-sancion-quito.html "https://www.elcomercio.com/narices-frias/venta-animales-compania-sancion-quito.html")
-* [Si encadenas a tu animal de compañía en Quito, recibirás una multa](https://www.elcomercio.com/narices-frias/maltrato-animal-quito-encadenamiento-infracciones-muy-graves.html "https://www.elcomercio.com/narices-frias/maltrato-animal-quito-encadenamiento-infracciones-muy-graves.html")
-
-**Indignación por la muerte de un gorila de dos años en un ‘zoo’ por un error humano**
---------------------------------------------------------------------------------------
-
-El incidente ocurrió durante una rutina de entrenamiento, cuando un trabajador activó accidentalmente una puerta hidráulica.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCmZVpwosk5/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por The Calgary Zoo (@thecalgaryzoo)](https://www.instagram.com/p/DCmZVpwosk5/?utm_source=ig_embed&utm_campaign=loading)
-
-“**Eyare** se movía por la parte trasera de la casa, de un dormitorio a otro, interactuando con los demás gorilas. Un miembro de su equipo de atención tenía la intención de activar una puerta para separar a **Eyare** de los demás miembros de la tropa para una sesión de entrenamiento individual de animales, pero activó por error la puerta equivocada, lo que provocó que **Eyare** fuera golpeada por la puerta y sufriera lesiones traumáticas en la cabeza”, dijo **Colleen Baird**, directora de Atención, Salud y Bienestar Animal.
-
-Esas declaraciones fueron recogidas en la página web del Zoológico de Calgary.
-
-A pesar de los esfuerzos del personal veterinario por salvarlo, el gorila no sobrevivió a las lesiones sufridas.
-
-**¿Qué características tenía el gorila que murió por un error humano?**
------------------------------------------------------------------------
-
-**Eyare** era un gorila (hembra) occidental de tierras bajas y su muerte generó un profundo dolor entre los cuidadores y visitantes del zoológico.
-
-La administración del zoológico expresó su tristeza, describiendo el evento como una tragedia devastadora. “Estamos con el corazón roto”, declaró un portavoz del zoológico, enfatizando la pérdida que representa para todos.
-
-Las autoridades del zoológico iniciaron una investigación para determinar las circunstancias exactas que llevaron al accidente.
-
-El **Zoológico de Calgary** se comprometió a revisar sus procedimientos operativos para evitar que incidentes similares ocurran en el futuro.
-
-Municipio analiza realizar la Serenata Quiteña
-==============================================
-
-Pabel Muñoz, alcalde de Quito, habló sobre la posibilidad de realizar la Serenata Quiteña este 2024.
-----------------------------------------------------------------------------------------------------
-
-![La Serenata Quiteña es realizada por la Banda Municipal.](https://www.elcomercio.com/wp-content/uploads/2024/11/Serenata-Quitena.jpg)
-
-La **Serenata Quiteña**, tradicional evento en honor al **Presidente de la República**, se encuentra bajo evaluación para determinar las condiciones en las que podría realizarse este año[.](https://es.wikipedia.org/wiki/Cultura_de_Quito "https://es.wikipedia.org/wiki/Cultura_de_Quito")
-
-Más noticias
-------------
-
-* [Solidaridad en fiestas de Quito y Navidad, ¿en dónde donar?](https://www.elcomercio.com/actualidad/quito/solidaridad-fiestas-quito-navidad-donde-donar.html "Solidaridad en fiestas de Quito y Navidad, ¿en dónde donar?")
-* [Así fue el programa de las primeras fiestas de Quito, en 1959](https://www.elcomercio.com/actualidad/quito/programa-primeras-fiestas-quito-1959.html "Así fue el programa de las primeras fiestas de Quito, en 1959")
-* [Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/estudiantes-municipales-saludo-alcalde-inicio-fiestas-de-quito.html "Estudiantes municipales saludan al Alcalde, como inicio de las fiestas de Quito")
-
-Así lo señaló el alcalde de Quito, quien expresó que el evento, ofrecido históricamente por la **Banda** **Municipal** en el Palacio de **Carondelet**, depende de un análisis conjunto con el **Gobierno Nacional.**
-
-¿Qué dijo Pabel Muñoz sobre la Serenata Quiteña?
-------------------------------------------------
-
-El burgomaestre indicó que “se puede dar, hay que analizar en qué términos. Hoy, máximo mañana, hablaré con el ministro de Gobierno, **José De La Gasca**, para coordinar este y otros temas (…) No es un tema muy común, tenemos cortes de luz, se ha anunciado un conjunto de movilizaciones y nosotros queremos evitar cualquier tipo de **manipulación de la información**. Nos pondremos de acuerdo en qué condiciones hacemos ese evento o los otros”.
-
-La importancia de proteger al Centro Histórico de Quito
--------------------------------------------------------
-
-En sus declaraciones, el **Alcalde** subrayó la importancia de **proteger el Centro Histórico** de posibles afectaciones.
-
-“Vamos a discutir en qué condiciones lo hacemos y que sea lo mejor para ambas partes, sin exponer al **Centro Histórico**”, afirmó.
-
-Además, recordó que la semana pasada sostuvo una conversación con el **Ministro de Gobierno** en la que se decidió suspender un evento municipal en la **Plaza de San Francisco** debido al anuncio de movilizaciones.
-
-El jueves 21 de noviembre de 2024, se realizaron las movilizaciones de las organizaciones sociales, que protestaron contra el gobierno del presidente Daniel Noboa.
-
-“Coordinamos la suspensión de un evento nuestro, porque se anunciaron **movilizaciones** en la ciudad capital. El **Gobierno Nacional** desplegó su operativo de seguridad, como le compete, y nosotros decidimos hacerlo al día siguiente de manera coordinada”, explicó.
-
-El país fue injusto con Félix Sánchez Bas, aseguró la FEF
-=========================================================
-
-La etapa de Félix Sánchez Bas al frente de la Selección de Ecuador terminó antes de lo esperado, dejando opiniones divididas.
------------------------------------------------------------------------------------------------------------------------------
-
-![Félix Sánchez Bas durante su etapa con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-25T162701.340.jpg)
-
-La Federación Ecuatoriana de Fútbol (FEF) sorprendió a muchos al anunciar la llegada de **Félix Sánchez Bas** como reemplazo de Gustavo Alfaro. El técnico español asumió con grandes expectativas, pero **su paso por el banquillo de la ‘Tri’ fue fugaz y polémico.**
-
-Su primera experiencia al mando de una selección de mayor peso futbolístico, tras dirigir a Qatar, duró poco más de un año. **Sánchez Bas** tomó las riendas del equipo en marzo de 2023 y dejó su cargo en junio de 2024.
-
-### Más noticias:
-
-* [El apoyo a la Selección de Ecuador más allá de los resultados](https://www.elcomercio.com/opinion/editorial/apoyo-seleccion-ecuador-reflexion-resultados-opinion.html "El apoyo a la Selección de Ecuador más allá de los resultados")
-* [Selección de Ecuador Femenina se prepara para la Copa América 2025](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-femenina-se-prepara-para-la-copa-america-2025.html "Selección de Ecuador Femenina se prepara para la Copa América 2025")
-* [Defensa de la Selección de Ecuador a la altura de campeonas mundiales](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-defensa-goles-recibidos.html "Defensa de la Selección de Ecuador a la altura de campeonas mundiales")
-
-Francisco Egas defiende a Félix Sánchez Bas
--------------------------------------------
-
-Francisco Egas, presidente de la Federación Ecuatoriana de Fútbol (FEF), se refirió a la etapa del español Félix Sánchez Bas al frente de la Selección de Ecuador.
-
-“**Este país fue injusto con él**. Los resultados avalaron su gestión, y su salida fue un tema personal”, afirmó el dirigente en una entrevista con Radio La Red.
-
-Estas declaraciones surgieron al analizar el difícil vínculo entre Sánchez Bas y la **afición ecuatoriana**, que cuestionó constantemente sus decisiones tácticas, alineaciones y convocatorias durante su tiempo como técnico.
-
-La única ocasión en la que el español logró ganarse el reconocimiento de los hinchas fue en los cuartos de final de la **Copa América** contra Argentina. Aunque la ‘Tri’ fue eliminada, el equipo dejó una de sus mejores actuaciones bajo la dirección del estratega español.
-
-Los números de Félix Sánchez Bas con Ecuador
---------------------------------------------
-
-Aunque los **números de Sánchez Bas en la ‘Tri’ fueron buenos**, el nivel de juego, las formas y los resultados no terminaron de convencer.
-
-Félix Sánchez Bas asumió como DT de la **Selección de Ecuador** en marzo de 2023. En poco más de un año con la ‘Tri’, el español dirigió al equipo en **19 partidos** entre eliminatorias sudamericanas, Copa América y partidos amistosos. 
-
-El DT de 48 años **logró 10 victorias**, cuatro empates y cinco derrotas, que le dieron una efectividad del 59,65 %. 
-
-Bajo su mandato, la **Selección de Ecuador** marcó 24 goles y recibió 17.
