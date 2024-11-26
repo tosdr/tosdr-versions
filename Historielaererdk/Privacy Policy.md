@@ -159,29 +159,19 @@ Tilmeld mig nyhedsbrevet.
 Populært i denne måned
 ----------------------
 
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) 148 visninger | af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
-* [![logo](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63788-featured-50x50.png)](https://historielaerer.dk/kurser/hasseris-kursus-ilden-braender-igen-tysklands-paa-vej-fra-askens-stoev-til-den-frie-verdens-haab/) [Has­se­ris-kur­sus: Ilden bræn­der igen — Tys­klands på vej fra askens støv til den frie ver­dens håb](https://historielaerer.dk/kurser/hasseris-kursus-ilden-braender-igen-tysklands-paa-vej-fra-askens-stoev-til-den-frie-verdens-haab/) 101 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63250-featured-50x50.png)](https://historielaerer.dk/kurser/historiske-dage-2024/) [Histo­ri­ske Dage 2024](https://historielaerer.dk/kurser/historiske-dage-2024/) 94 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63654-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-24-25/) [Histo­rie­kon­kur­ren­cen 24/25: Bæredygtighed](https://historielaerer.dk/historiekonkurrencen-24-25/) 78 visninger | af [Trine Villumsen & Margen Ott](https://historielaerer.dk/author/trinemunkens/?mab_v3=63654)
-* [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [LUKKET FOR TILMELDING, FULDT BOOKET — Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) 59 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/42334-featured-50x50.jpg)](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) [The impa­ct of French Colo­ni­a­lism on Tunisia](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) 58 visninger | af [Feiza Abidi](https://historielaerer.dk/author/feizaabidi/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63815-featured-50x50.png)](https://historielaerer.dk/kurser/kina-taiwan-konflikten/) [Kina-Taiwan kon­flik­ten](https://historielaerer.dk/kurser/kina-taiwan-konflikten/) 56 visninger | af [Lea Sose](https://historielaerer.dk/author/leasose/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/22583-featured-50x50.jpg)](https://historielaerer.dk/illuminati-for-viderekomne/) [Illu­mi­na­ti for viderekomne](https://historielaerer.dk/illuminati-for-viderekomne/) 44 visninger | af [Mathias Strand](https://historielaerer.dk/author/strand/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/58950-featured-50x50.jpg)](https://historielaerer.dk/fortiden-i-historiefaget/) [For­ti­den i historiefaget](https://historielaerer.dk/fortiden-i-historiefaget/) 41 visninger | af [Loa Bjerre](https://historielaerer.dk/author/loabjerre/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) 149 visninger | af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
+* [![logo](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63788-featured-50x50.png)](https://historielaerer.dk/kurser/hasseris-kursus-ilden-braender-igen-tysklands-paa-vej-fra-askens-stoev-til-den-frie-verdens-haab/) [Has­se­ris-kur­sus: Ilden bræn­der igen — Tys­klands på vej fra askens støv til den frie ver­dens håb](https://historielaerer.dk/kurser/hasseris-kursus-ilden-braender-igen-tysklands-paa-vej-fra-askens-stoev-til-den-frie-verdens-haab/) 108 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63250-featured-50x50.png)](https://historielaerer.dk/kurser/historiske-dage-2024/) [Histo­ri­ske Dage 2024](https://historielaerer.dk/kurser/historiske-dage-2024/) 95 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63654-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-24-25/) [Histo­rie­kon­kur­ren­cen 24/25: Bæredygtighed](https://historielaerer.dk/historiekonkurrencen-24-25/) 80 visninger | af [Trine Villumsen & Margen Ott](https://historielaerer.dk/author/trinemunkens/?mab_v3=63654)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/42334-featured-50x50.jpg)](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) [The impa­ct of French Colo­ni­a­lism on Tunisia](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) 67 visninger | af [Feiza Abidi](https://historielaerer.dk/author/feizaabidi/)
+* [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [LUKKET FOR TILMELDING, FULDT BOOKET — Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) 64 visninger | af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63815-featured-50x50.png)](https://historielaerer.dk/kurser/kina-taiwan-konflikten/) [Kina-Taiwan kon­flik­ten](https://historielaerer.dk/kurser/kina-taiwan-konflikten/) 58 visninger | af [Lea Sose](https://historielaerer.dk/author/leasose/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/22583-featured-50x50.jpg)](https://historielaerer.dk/illuminati-for-viderekomne/) [Illu­mi­na­ti for viderekomne](https://historielaerer.dk/illuminati-for-viderekomne/) 47 visninger | af [Mathias Strand](https://historielaerer.dk/author/strand/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63809-featured-50x50.jpg)](https://historielaerer.dk/kurser/kursus-om-ruslands-krig-i-ukraine/) [Kur­sus om Ruslands krig i Ukraine](https://historielaerer.dk/kurser/kursus-om-ruslands-krig-i-ukraine/) 41 visninger | af [Niels Nøddebo Petersen](https://historielaerer.dk/author/niels-petersen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/58950-featured-50x50.jpg)](https://historielaerer.dk/fortiden-i-historiefaget/) [For­ti­den i historiefaget](https://historielaerer.dk/fortiden-i-historiefaget/) 41 visninger | af [Loa Bjerre](https://historielaerer.dk/author/loabjerre/)
 
 ### Aktu­el­le arrangementer
 
-* ![LUKKET FOR TILMELDING, FULDT BOOKET - Grønland i historie- og danskundervisningen](https://historielaerer.dk/wp-content/uploads/2016/06/20160528_122853-300x168.jpg)
-    
-    [LUKKET FOR TILMELDING, FULDT BOOKET - Grønland i historie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/)
-    
-    26 nov 24
-    
-    Frederiksberg
-    
-      
-    
 * ![Vintereksamen og KS-afslutning](https://historielaerer.dk/wp-content/uploads/2023/07/gruppebillede-i-Ribe2-150x150.jpeg)
     
     [Vintereksamen og KS-afslutning](https://historielaerer.dk/kurser/vintereksamen-og-ks-afslutning/)
@@ -242,6 +232,16 @@ Populært i denne måned
     
       
     
+* ![Kildearbejde og problemstillinger](https://historielaerer.dk/wp-content/uploads/2023/07/gruppebillede-i-Ribe2-150x150.jpeg)
+    
+    [Kildearbejde og problemstillinger](https://historielaerer.dk/kurser/kildearbejde-og-problemstillinger/)
+    
+    27 mar 25
+    
+    [HLF's mødelokale](https://historielaerer.dk/moedelokale/)
+    
+      
+    
 * [se alle](https://historielaerer.dk/kurser/ "se alle")
 
 [![Gruppeskaberens profilbillede af Fagkonsulentens forum](https://historielaerer.dk/wp-content/uploads/group-avatars/23/1699446734-bpfull.jpg)](https://historielaerer.dk/grupper/fagkonsulenten/)
@@ -272,13 +272,13 @@ Trender
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/47342-featured-50x50.jpg)](https://historielaerer.dk/education-in-ancient-egypt/) [Educa­tion in Anci­ent Egypt](https://historielaerer.dk/education-in-ancient-egypt/) af [Ayman Abdel Aziz Al-Bailey](https://historielaerer.dk/author/ayman/)
 * [![logo](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63788-featured-50x50.png)](https://historielaerer.dk/kurser/hasseris-kursus-ilden-braender-igen-tysklands-paa-vej-fra-askens-stoev-til-den-frie-verdens-haab/) [Has­se­ris-kur­sus: Ilden bræn­der igen — Tys­klands på vej fra askens støv til den frie ver­dens håb](https://historielaerer.dk/kurser/hasseris-kursus-ilden-braender-igen-tysklands-paa-vej-fra-askens-stoev-til-den-frie-verdens-haab/) af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63250-featured-50x50.png)](https://historielaerer.dk/kurser/historiske-dage-2024/) [Histo­ri­ske Dage 2024](https://historielaerer.dk/kurser/historiske-dage-2024/) af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
+* [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [LUKKET FOR TILMELDING, FULDT BOOKET — Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63783-featured-50x50.jpg)](https://historielaerer.dk/kurser/inklusion-i-historieundevisningen/) [Inklu­sion i historieundevisningen](https://historielaerer.dk/kurser/inklusion-i-historieundevisningen/) af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63654-featured-50x50.png)](https://historielaerer.dk/historiekonkurrencen-24-25/) [Histo­rie­kon­kur­ren­cen 24/25: Bæredygtighed](https://historielaerer.dk/historiekonkurrencen-24-25/) af [Trine Villumsen & Margen Ott](https://historielaerer.dk/author/trinemunkens/?mab_v3=63654)
-* [![Boligblokke i Nuuk, Grønland](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63614-featured-50x50.jpg)](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) [LUKKET FOR TILMELDING, FULDT BOOKET — Grøn­land i histo­rie- og danskundervisningen](https://historielaerer.dk/kurser/groenland-i-historie-og-danskundervisningen/) af [Søren Torbjørn Svendsen](https://historielaerer.dk/author/sorentsvendsen/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/22583-featured-50x50.jpg)](https://historielaerer.dk/illuminati-for-viderekomne/) [Illu­mi­na­ti for viderekomne](https://historielaerer.dk/illuminati-for-viderekomne/) af [Mathias Strand](https://historielaerer.dk/author/strand/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63809-featured-50x50.jpg)](https://historielaerer.dk/kurser/kursus-om-ruslands-krig-i-ukraine/) [Kur­sus om Ruslands krig i Ukraine](https://historielaerer.dk/kurser/kursus-om-ruslands-krig-i-ukraine/) af [Niels Nøddebo Petersen](https://historielaerer.dk/author/niels-petersen/)
-* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63612-featured-50x50.jpg)](https://historielaerer.dk/noter-241-perspektiver-paa-det-antropocaene/) [Noter #241 — Per­spek­ti­ver på det antropocæne](https://historielaerer.dk/noter-241-perspektiver-paa-det-antropocaene/) af [Niels Nøddebo Petersen](https://historielaerer.dk/author/niels-petersen/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/42334-featured-50x50.jpg)](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) [The impa­ct of French Colo­ni­a­lism on Tunisia](https://historielaerer.dk/the-impact-of-french-colonialism-on-tunisia/) af [Feiza Abidi](https://historielaerer.dk/author/feizaabidi/)
 * [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63815-featured-50x50.png)](https://historielaerer.dk/kurser/kina-taiwan-konflikten/) [Kina-Taiwan kon­flik­ten](https://historielaerer.dk/kurser/kina-taiwan-konflikten/) af [Lea Sose](https://historielaerer.dk/author/leasose/)
+* [![](https://historielaerer.dk/wp-content/uploads/wordpress-popular-posts/63809-featured-50x50.jpg)](https://historielaerer.dk/kurser/kursus-om-ruslands-krig-i-ukraine/) [Kur­sus om Ruslands krig i Ukraine](https://historielaerer.dk/kurser/kursus-om-ruslands-krig-i-ukraine/) af [Niels Nøddebo Petersen](https://historielaerer.dk/author/niels-petersen/)
 
 Copyright © 2024 med 💓 til HLF
 
