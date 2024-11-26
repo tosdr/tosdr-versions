@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Atos receives non-binding offer from the French State to acquire its Advanced Computing activities for an enterprise value of €500 million and up to €625 million including earn-outs](https://atos.net/en/2024/press-release_2024_11_25/atos-receives-non-binding-offer-from-the-french-state-to-acquire-its-advanced-computing-activities-for-an-enterprise-value-of-e500-million-and-up-to-e625-million-including-earn-outs)
         * [Eviden to Deliver Finland’s Next National AI Supercomputer, Tripling its Computing Power](https://atos.net/en/2024/press-release_2024_11_20/eviden-to-deliver-finlands-next-national-ai-supercomputer-tripling-its-computing-power)
         * [Salon des Maires et des collectivités 2024: Software République launches the commercialization of its “U1st Vision” concept “A first in citizen-centric mobile services with a focus on health”, with first deliveries scheduled for late 2025](https://atos.net/en/2024/press-release_2024_11_19/salon-des-maires-et-des-collectivites-2024-software-republique-launches-the-commercialization-of-its-u1st-vision-concept-a-first-in-citizen-centric-mobile-services-with-a-f)
-        * [Eviden’s Supercomputers Ranked #1 and #2 for Energy Efficiency on the Green500 List](https://atos.net/en/2024/press-release_2024_11_19/evidens-supercomputers-ranked-1-and-2-for-energy-efficiency-on-the-green500-list)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 20, 2024
+        Nov 25, 2024
         
-        ### Eviden to Deliver Finland’s Next National AI Supercomputer, Tripling its Computing Power
+        ### Atos receives non-binding offer from the French State to acquire its Advanced Computing activities for an enterprise value of €500 million and up to €625 million including earn-outs
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
