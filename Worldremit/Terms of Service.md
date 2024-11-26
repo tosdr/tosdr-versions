@@ -11,7 +11,9 @@ Terms and Conditions
 
   
 
-[**Download**](https://assets.ctfassets.net/sb7j5o4oxtgv/6CbmpKy9yhve5QN8AxOq2N/58e475380e6efd3aec922979247cccec/WR-English_WorldRemit_Draft_US_User_Terms.pdf)
+[Terms and conditions affective before December 19, 2024.](https://www.worldremit.com/about-us/terms-and-conditions-us-oct-2024)
+
+[**Download**](https://assets.ctfassets.net/sb7j5o4oxtgv/26v7Hx9tt2UdBzhIjCliCv/f70c58a8848fad4269d1f376d38df74b/DEC_2024_ZEPZ_US_Sender_User_Terms_WR.pdf)
 
   
 
