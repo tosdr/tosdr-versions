@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/art-pontier-artbrick-feature.jpg)
+
+[](https://theinspirationgrid.com/incredible-lego-creations-by-gerardo-pontierr/)
+
+### Incredible LEGO Creations by Gerardo Pontiérr
+
+![](https://inspgr.id/app/uploads/2024/11/architecture-bpac-feature.jpg)
+
+[](https://theinspirationgrid.com/beijing-performing-arts-center-architectural-photos-by-kris-provoost/)
+
+### Beijing Performing Arts Center: Architectural Photos by Kris Provoost
+
 ![](https://inspgr.id/app/uploads/2024/11/photography-julia-johnson-feature.jpg)
 
 [](https://theinspirationgrid.com/liquid-light-psychedelic-photos-by-julia-johnson/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/bright-colorful-illustrations-by-alexandra-francis/)
 
 ### Bright & Colorful Illustrations by Alexandra Francis
-
-![](https://inspgr.id/app/uploads/2024/11/interior-one-plus-feature.jpg)
-
-[](https://theinspirationgrid.com/flowing-bricks-a-striking-cinema-coffee-bar-by-one-plus-partnership/)
-
-### Flowing Bricks: A Striking Cinema & Coffee Bar by One Plus Partnership
-
-![](https://inspgr.id/app/uploads/2024/11/art-marc-dennis-feature.jpg)
-
-[](https://theinspirationgrid.com/expect-the-unexpected-hyper-realistic-paintings-by-marc-dennis/)
-
-### Expect the Unexpected: Hyper-Realistic Paintings by Marc Dennis
 
 Awesome products for creatives
 ------------------------------
