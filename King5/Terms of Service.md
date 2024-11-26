@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_360x203.jpg)](https://www.king5.com/article/news/crime/suspected-killing-california-woman-lake-stevens/281-278f251a-be78-4556-9203-2b7e82e8cca9)
+    *  [![](https://media.king5.com/assets/KING/images/39bd4f1c-74cc-41c9-b288-e8731bb5b737/20241126T015901/39bd4f1c-74cc-41c9-b288-e8731bb5b737_16x9.jpg) ![](https://media.king5.com/assets/KING/images/39bd4f1c-74cc-41c9-b288-e8731bb5b737/20241126T015901/39bd4f1c-74cc-41c9-b288-e8731bb5b737_360x203.jpg)](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
         
-        #### [DNA leads to arrest in killing of woman in Lake Stevens](https://www.king5.com/article/news/crime/suspected-killing-california-woman-lake-stevens/281-278f251a-be78-4556-9203-2b7e82e8cca9)
+        #### [4 Washington State Patrol cars struck by DUI drivers in 4 hours](https://www.king5.com/article/news/crime/4-washington-state-patrol-cars-struck-impaired-drivers/281-3f875ac7-3d02-4933-b39e-654b1d00b942)
         
-    *  [![](https://media.king5.com/assets/KING/images/dff04417-8797-4622-83dc-59fe41d54f88/20241118T190539/dff04417-8797-4622-83dc-59fe41d54f88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dff04417-8797-4622-83dc-59fe41d54f88/20241118T190539/dff04417-8797-4622-83dc-59fe41d54f88_360x203.jpg)](https://www.king5.com/article/news/local/washington-cascades-ski-area-opening-dates-2024-25-season/281-e15621a5-e477-4b97-a7b0-be18ae83b85f)
+    *  [![](https://media.king5.com/assets/KING/images/360320cf-62e3-428d-9467-e2a354c71f43/20241126T014720/360320cf-62e3-428d-9467-e2a354c71f43_16x9.jpg) ![](https://media.king5.com/assets/KING/images/360320cf-62e3-428d-9467-e2a354c71f43/20241126T014720/360320cf-62e3-428d-9467-e2a354c71f43_360x203.jpg)](https://www.king5.com/article/news/local/governor-proposes-moving-juvenile-offenders-to-former-adult-prison-unit/281-353380de-c70a-4b73-8ceb-a95db0bb1560)
         
-        #### [Stevens Pass announces ski area opening date. Here's when other resorts will open](https://www.king5.com/article/news/local/washington-cascades-ski-area-opening-dates-2024-25-season/281-e15621a5-e477-4b97-a7b0-be18ae83b85f)
+        #### [Inslee proposes moving juvenile offenders to former adult prison unit](https://www.king5.com/article/news/local/governor-proposes-moving-juvenile-offenders-to-former-adult-prison-unit/281-353380de-c70a-4b73-8ceb-a95db0bb1560)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be/20241124T141340/aa2c9a08-a7e7-4ab3-a294-9f6cefbee7be_360x203.jpg)](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
+    *  [![](https://media.king5.com/assets/KING/images/da7ff163-7307-4a28-97b6-bc4756ef5c01/20241124T061248/da7ff163-7307-4a28-97b6-bc4756ef5c01_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da7ff163-7307-4a28-97b6-bc4756ef5c01/20241124T061248/da7ff163-7307-4a28-97b6-bc4756ef5c01_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/enumclaw-nightmare-stolen-generator-used-to-power-ailing-mothers-oxygen-machine/281-48b24bc7-2ec1-4ec3-962d-f87a3e337863)
         
-        #### [Forecasts warn of possible winter storms across US during Thanksgiving week](https://www.king5.com/article/news/nation-world/possible-winter-storms-across-us-during-thanksgiving-week/507-8bfdcf68-f522-493a-a213-fe07caa96971)
+        #### [Enumclaw man describes 'nightmare' of stolen generator used to power ailing mother's oxygen machine](https://www.king5.com/article/weather/severe-weather/enumclaw-nightmare-stolen-generator-used-to-power-ailing-mothers-oxygen-machine/281-48b24bc7-2ec1-4ec3-962d-f87a3e337863)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 47°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
