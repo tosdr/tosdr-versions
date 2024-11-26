@@ -496,7 +496,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Destiny 2: The Final Shape + Annual Pass PC - DLC](https://www.cdkeys.com/black-friday-sale/destiny-2-the-final-shape-annual-pass-pc-dlc-steam "Destiny 2: The Final Shape + Annual Pass PC - DLC")**
     
-    Special Price $39.49 RRP $99.99
+    Special Price $39.29 RRP $99.99
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -532,11 +532,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-9.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 9. \-32%](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
+9.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 9. \-38%](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
     
     **[S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://www.cdkeys.com/black-friday-sale/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)")**
     
-    Special Price $43.29 RRP $63.69
+    Special Price $39.79 RRP $63.69
     
     [Add to Wish List](# "Add to Wish List")
     
