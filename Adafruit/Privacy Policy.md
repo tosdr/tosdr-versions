@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road”
+“ The miracle is this: The more we share, the more we have”
 
-[Stewart Brand](http://en.wikipedia.org/wiki/Stewart_Brand)
+[Leonard Nimoy](http://en.wikipedia.org/wiki/Leonard_Nimoy)
 
 [](https://www.adafruit.com/about)
 
