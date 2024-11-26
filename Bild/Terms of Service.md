@@ -206,28 +206,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
-
-Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
-
-Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
-
-Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
-
-Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
-
-Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
-
-Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
-
-Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
-
-Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst
-
-Auswärtiges Amt bestätigt: Deutsche nach Bootsunglück in Ägypten vermisst](https://www.bild.de/news/ausland/-6744be1291566c5d5441273e)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
