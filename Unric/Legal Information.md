@@ -1,4 +1,4 @@
-[Facebook](https://www.facebook.com/FN-Sverige-102584435092047 "Facebook") [Flickr](https://flickr.com/unric "Flickr") [Twitter](https://twitter.com/UNRIC_SE "Twitter") [Vimeo](https://vimeo.com/unric "Vimeo") [Youtube](https://unric.org/unric "Youtube")
+[Facebook](https://www.facebook.com/unric "Facebook") [Flickr](https://www.flickr.com/photos/unric "Flickr") [Instagram](https://www.instagram.com/unitednations_europe "Instagram") [Twitter](https://twitter.com/uninbrussels "Twitter") [Vimeo](https://vimeo.com/unric "Vimeo") [Youtube](https://www.youtube.com/channel/UCzz2TylPlwJqPHFXPFy5C6w "Youtube")
 
 * [Home](https://unric.org/en/)
 * [About us](https://unric.org/en/about-united-nations-regional-information-centre/)
@@ -151,6 +151,14 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
+ [![Before the 2022 war. Young Palestinian girls in Gaza, gathered in the courtyard of their school supported by UNRWA. Photo:  UN Photo/Shareef Sarhan](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
+
+![Before the 2022 war. Young Palestinian girls in Gaza, gathered in the courtyard of their school supported by UNRWA. Photo:  UN Photo/Shareef Sarhan](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/11/UN7337062-100x70.jpg)](https://unric.org/en/unrwa-a-lifeline-for-palestinians/ "UNRWA: a lifeline for Palestinians")
+
+### [UNRWA: a lifeline for Palestinians](https://unric.org/en/unrwa-a-lifeline-for-palestinians/ "UNRWA: a lifeline for Palestinians")
+
+26/11/2024
+
  [![Play2Act banner](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
 
 ![Play2Act banner](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/11/play2act-banner-100x70.jpg)](https://unric.org/en/play2act-uniting-gamers-for-climate-action/ "Play2Act: Uniting Gamers for Climate Action")
@@ -177,17 +185,11 @@ The information will be used internally only for web site traffic analysis. If t
 
 10/09/2024
 
- [![UNRIC Library Backgrounder: Sea Level Rise](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/sea-level-rise-backgrounder-100x70.png)](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
-
-### [UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
-
-29/08/2024
-
 [Load more](#)
 
 #### Publications
 
-* [November 2024](https://unric.org/en/2024/11/) (16)
+* [November 2024](https://unric.org/en/2024/11/) (17)
 * [October 2024](https://unric.org/en/2024/10/) (38)
 * [September 2024](https://unric.org/en/2024/09/) (34)
 * [August 2024](https://unric.org/en/2024/08/) (12)
