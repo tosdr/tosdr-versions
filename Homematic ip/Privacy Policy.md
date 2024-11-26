@@ -309,6 +309,12 @@ Menü
 * [Partner](https://homematic-ip.com/de/partner)
 * [Karriere](https://karriere.eq-3.de/karriere.html)
 
+ [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_k1_0.jpg.webp?itok=m82MxTuO)
+
+News
+
+Homematic IP App-Update: Dank Smartwatch-Unterstützung das Smart Home im Handumdrehen steuern](https://homematic-ip.com/de/news/app-update-smartwatch-unterstuetzung)
+
  [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_4.jpg.webp?itok=A1h_6JcL)
 
 News
