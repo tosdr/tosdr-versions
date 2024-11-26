@@ -692,13 +692,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 11% Cash Back from Rakuten.ca with Under Armour Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303725/en-stickyfooter-1170x60_ua.png "Under Armour Canada Coupons, Promo Codes")
+[![Earn 15% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/303442/en-stickyfooter-1170x60_dyson.png "Dyson Coupons, Promo Codes")
 
-was 2%, now
+was 2.5%, now
 
-11% Cash Back
+15% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/under-armour-canada?sourceName=stickyfooter1)
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
