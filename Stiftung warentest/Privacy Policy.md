@@ -345,16 +345,18 @@ Suchen
     * [Alle Themen](https://www.test.de/thema/)
 * [Abo & Flatrate](https://www.test.de/abo/)
     
-    * [test.de-Flatrate](https://www.test.de/abo/flatrate/)
-    * [test-Heft-Abo](https://www.test.de/abo/test/)
-    * [Finanztest-Heft-Abo](https://www.test.de/abo/finanztest/)
+    * [Übersicht](https://www.test.de/abo/)
+    * [Print-Abos](https://www.test.de/abo/print/)
+    * [Digital-Abos](https://www.test.de/abo/digital/)
 * [Shop](https://www.test.de/shop/)
     
-    * ﻿[Warenkorb](https://www.test.de/shop/bestellung/)
-    * [test-Hefte](https://www.test.de/shop/test-hefte/)
-    * [Finanztest-Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Übersicht](https://www.test.de/shop/)
     * [Bestseller](https://www.test.de/shop/bestseller/)
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
+    * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
+    * [test Hefte](https://www.test.de/shop/test-hefte/)
+    * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -382,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v122496188.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123149202.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -815,38 +817,52 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
-* [Misch­fonds-ETF: Die ganze Geld­anlage in einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in einem ETF")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
+* [Menschen­rechte in der Mode­produktion: „Das Lieferkettengesetz entfaltet schon Wirkungen“](https://www.test.de/Menschenrechte-in-der-Modeproduktion-Das-Lieferkettengesetz-entfaltet-schon-Wirkungen-6179244-0/ "Menschenrechte in der Modeproduktion - „Das Lieferkettengesetz entfaltet schon Wirkungen“")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
 
-Fußbereich
+Weitere Informationen
 
-Service Stiftung Warentest
+Stiftung Warentest
 
 * [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
 * [Presse](https://www.test.de/presse/)
-* [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
 
-Service test.de
+test.de
 
 * [Alle Themen A-Z](https://www.test.de/thema/)
 * [Archiv](https://www.test.de/archiv/)
-* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 * [Newsletter abonnieren](https://www.test.de/newsletter/)
 * [RSS Feed](https://www.test.de/rss/)
 
+Abo
+
+* [Print-Abos](https://www.test.de/abo/print/)
+* [Digital-Abos](https://www.test.de/abo/digital/)
+* [Abo verwalten](https://abo-serviceportal.stiftung-warentest.de/s/)
+* [Abo kündigen](https://abo-serviceportal.stiftung-warentest.de/s/contactsupport?contactReason=K%C3%BCndigung&DPV_Kuendigung__c=mit%20Anschrift)
+
+Kundenservice
+
+* [Kontakt](https://www.test.de/kontakt/)
+* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
+* [Lieferung & Zahlung](https://www.test.de/Hilfe-5836822-5313970/)
+* [Fernabsatzrecht für digitale Inhalte](https://www.test.de/Hilfe-5836822-6060974/)
+* [Fernabsatzrecht für Zeitschriften-Abonnements](https://www.test.de/Hilfe-5836822-6158741/)
+* [Fernabsatzrecht für Bücher, Hefte und CD-Roms](https://www.test.de/Hilfe-5836822-6158749/)
+
 Social Media
 
-* [Facebook](https://www.facebook.com/stiftungwarentest/)
-* [Instagram](https://www.instagram.com/stiftungwarentest)
-* [Twitter](https://twitter.com/warentest)
-* [Youtube](https://www.youtube.com/user/stiftungwarentest)
+* [](https://www.facebook.com/stiftungwarentest/)
+* [](https://www.instagram.com/stiftungwarentest)
+* [](https://twitter.com/warentest)
+* [](https://www.youtube.com/user/stiftungwarentest)
 
 * [Datenschutz](https://www.test.de/datenschutz/)
 * [Cookie Richtlinie](https://www.test.de/cookie-richtlinie/)
@@ -1257,16 +1273,18 @@ Suchen
     * [Alle Themen](https://www.test.de/thema/)
 * [Abo & Flatrate](https://www.test.de/abo/)
     
-    * [test.de-Flatrate](https://www.test.de/abo/flatrate/)
-    * [test-Heft-Abo](https://www.test.de/abo/test/)
-    * [Finanztest-Heft-Abo](https://www.test.de/abo/finanztest/)
+    * [Übersicht](https://www.test.de/abo/)
+    * [Print-Abos](https://www.test.de/abo/print/)
+    * [Digital-Abos](https://www.test.de/abo/digital/)
 * [Shop](https://www.test.de/shop/)
     
-    * ﻿[Warenkorb](https://www.test.de/shop/bestellung/)
-    * [test-Hefte](https://www.test.de/shop/test-hefte/)
-    * [Finanztest-Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Übersicht](https://www.test.de/shop/)
     * [Bestseller](https://www.test.de/shop/bestseller/)
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
+    * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
+    * [test Hefte](https://www.test.de/shop/test-hefte/)
+    * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -1609,16 +1627,18 @@ Suchen
     * [Alle Themen](https://www.test.de/thema/)
 * [Abo & Flatrate](https://www.test.de/abo/)
     
-    * [test.de-Flatrate](https://www.test.de/abo/flatrate/)
-    * [test-Heft-Abo](https://www.test.de/abo/test/)
-    * [Finanztest-Heft-Abo](https://www.test.de/abo/finanztest/)
+    * [Übersicht](https://www.test.de/abo/)
+    * [Print-Abos](https://www.test.de/abo/print/)
+    * [Digital-Abos](https://www.test.de/abo/digital/)
 * [Shop](https://www.test.de/shop/)
     
-    * ﻿[Warenkorb](https://www.test.de/shop/bestellung/)
-    * [test-Hefte](https://www.test.de/shop/test-hefte/)
-    * [Finanztest-Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Übersicht](https://www.test.de/shop/)
     * [Bestseller](https://www.test.de/shop/bestseller/)
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
+    * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
+    * [test Hefte](https://www.test.de/shop/test-hefte/)
+    * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -1944,16 +1964,18 @@ Suchen
     * [Alle Themen](https://www.test.de/thema/)
 * [Abo & Flatrate](https://www.test.de/abo/)
     
-    * [test.de-Flatrate](https://www.test.de/abo/flatrate/)
-    * [test-Heft-Abo](https://www.test.de/abo/test/)
-    * [Finanztest-Heft-Abo](https://www.test.de/abo/finanztest/)
+    * [Übersicht](https://www.test.de/abo/)
+    * [Print-Abos](https://www.test.de/abo/print/)
+    * [Digital-Abos](https://www.test.de/abo/digital/)
 * [Shop](https://www.test.de/shop/)
     
-    * ﻿[Warenkorb](https://www.test.de/shop/bestellung/)
-    * [test-Hefte](https://www.test.de/shop/test-hefte/)
-    * [Finanztest-Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Übersicht](https://www.test.de/shop/)
     * [Bestseller](https://www.test.de/shop/bestseller/)
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
+    * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
+    * [test Hefte](https://www.test.de/shop/test-hefte/)
+    * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
 
 [Tests & Themen](https://www.test.de/thema/)
 
@@ -3849,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
-* [Misch­fonds-ETF: Die ganze Geld­anlage in einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in einem ETF")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
+* [Menschen­rechte in der Mode­produktion: „Das Lieferkettengesetz entfaltet schon Wirkungen“](https://www.test.de/Menschenrechte-in-der-Modeproduktion-Das-Lieferkettengesetz-entfaltet-schon-Wirkungen-6179244-0/ "Menschenrechte in der Modeproduktion - „Das Lieferkettengesetz entfaltet schon Wirkungen“")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
 
 Weitere spannende Themen
 
@@ -3869,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
-* [Misch­fonds-ETF: Die ganze Geld­anlage in einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in einem ETF")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
+* [Menschen­rechte in der Mode­produktion: „Das Lieferkettengesetz entfaltet schon Wirkungen“](https://www.test.de/Menschenrechte-in-der-Modeproduktion-Das-Lieferkettengesetz-entfaltet-schon-Wirkungen-6179244-0/ "Menschenrechte in der Modeproduktion - „Das Lieferkettengesetz entfaltet schon Wirkungen“")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
 
 Neueste Tests
 
@@ -3887,36 +3909,50 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bankenkrise: Bangen um die Banken – was jetzt wichtig ist](https://www.test.de/Bankenkrise-Banken-in-Schwierigkeiten-5980501-0/ "Bankenkrise - Bangen um die Banken – was jetzt wichtig ist")
-* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
-* [Digi­taler Euro: Gefälschte E-Mail mit KfW-Angebot](https://www.test.de/Digitaler-Euro-Gefaelschte-E-Mail-mit-KfW-Angebot-6119446-0/ "Digitaler Euro - Gefälschte E-Mail mit KfW-Angebot")
-* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
-* [Misch­fonds-ETF: Die ganze Geld­anlage in einem ETF](https://www.test.de/Mischfonds-ETF-Die-ganze-Geldanlage-in-einem-ETF-6159452-0/ "Mischfonds-ETF - Die ganze Geldanlage in einem ETF")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
+* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
+* [Menschen­rechte in der Mode­produktion: „Das Lieferkettengesetz entfaltet schon Wirkungen“](https://www.test.de/Menschenrechte-in-der-Modeproduktion-Das-Lieferkettengesetz-entfaltet-schon-Wirkungen-6179244-0/ "Menschenrechte in der Modeproduktion - „Das Lieferkettengesetz entfaltet schon Wirkungen“")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
+* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
 
-Service Stiftung Warentest
+Stiftung Warentest
 
 * [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
 * [Presse](https://www.test.de/presse/)
-* [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
 
-Service test.de
+test.de
 
 * [Alle Themen A-Z](https://www.test.de/thema/)
 * [Archiv](https://www.test.de/archiv/)
-* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 * [Newsletter abonnieren](https://www.test.de/newsletter/)
 * [RSS Feed](https://www.test.de/rss/)
 
+Abo
+
+* [Print-Abos](https://www.test.de/abo/print/)
+* [Digital-Abos](https://www.test.de/abo/digital/)
+* [Abo verwalten](https://abo-serviceportal.stiftung-warentest.de/s/)
+* [Abo kündigen](https://abo-serviceportal.stiftung-warentest.de/s/contactsupport?contactReason=K%C3%BCndigung&DPV_Kuendigung__c=mit%20Anschrift)
+
+Kundenservice
+
+* [Kontakt](https://www.test.de/kontakt/)
+* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
+* [Lieferung & Zahlung](https://www.test.de/Hilfe-5836822-5313970/)
+* [Fernabsatzrecht für digitale Inhalte](https://www.test.de/Hilfe-5836822-6060974/)
+* [Fernabsatzrecht für Zeitschriften-Abonnements](https://www.test.de/Hilfe-5836822-6158741/)
+* [Fernabsatzrecht für Bücher, Hefte und CD-Roms](https://www.test.de/Hilfe-5836822-6158749/)
+
 Social Media
 
-* [Facebook](https://www.facebook.com/stiftungwarentest/)
-* [Instagram](https://www.instagram.com/stiftungwarentest)
-* [Twitter](https://twitter.com/warentest)
-* [Youtube](https://www.youtube.com/user/stiftungwarentest)
+* [](https://www.facebook.com/stiftungwarentest/)
+* [](https://www.instagram.com/stiftungwarentest)
+* [](https://twitter.com/warentest)
+* [](https://www.youtube.com/user/stiftungwarentest)
 
 * [Datenschutz](https://www.test.de/datenschutz/)
 * [Cookie Richtlinie](https://www.test.de/cookie-richtlinie/)
@@ -3926,53 +3962,74 @@ Social Media
 
 © Stiftung Warentest. Alle Rechte vorbehalten.
 
-Service Stiftung Warentest
+Stiftung Warentest
 
 * [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
 * [Presse](https://www.test.de/presse/)
-* [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
 
-Service test.de
+test.de
 
 * [Alle Themen A-Z](https://www.test.de/thema/)
 * [Archiv](https://www.test.de/archiv/)
-* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 * [Newsletter abonnieren](https://www.test.de/newsletter/)
 * [RSS Feed](https://www.test.de/rss/)
 
-Social Media
+Abo
 
-* [Facebook](https://www.facebook.com/stiftungwarentest/)
-* [Instagram](https://www.instagram.com/stiftungwarentest)
-* [Twitter](https://twitter.com/warentest)
-* [Youtube](https://www.youtube.com/user/stiftungwarentest)
+* [Print-Abos](https://www.test.de/abo/print/)
+* [Digital-Abos](https://www.test.de/abo/digital/)
+* [Abo verwalten](https://abo-serviceportal.stiftung-warentest.de/s/)
+* [Abo kündigen](https://abo-serviceportal.stiftung-warentest.de/s/contactsupport?contactReason=K%C3%BCndigung&DPV_Kuendigung__c=mit%20Anschrift)
 
-Service Stiftung Warentest
+Kundenservice
+
+* [Kontakt](https://www.test.de/kontakt/)
+* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
+* [Lieferung & Zahlung](https://www.test.de/Hilfe-5836822-5313970/)
+* [Fernabsatzrecht für digitale Inhalte](https://www.test.de/Hilfe-5836822-6060974/)
+* [Fernabsatzrecht für Zeitschriften-Abonnements](https://www.test.de/Hilfe-5836822-6158741/)
+* [Fernabsatzrecht für Bücher, Hefte und CD-Roms](https://www.test.de/Hilfe-5836822-6158749/)
+
+Stiftung Warentest
 
 * [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
 * [Presse](https://www.test.de/presse/)
-* [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
 
-Service test.de
+test.de
 
 * [Alle Themen A-Z](https://www.test.de/thema/)
 * [Archiv](https://www.test.de/archiv/)
-* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 * [Newsletter abonnieren](https://www.test.de/newsletter/)
 * [RSS Feed](https://www.test.de/rss/)
 
+Abo
+
+* [Print-Abos](https://www.test.de/abo/print/)
+* [Digital-Abos](https://www.test.de/abo/digital/)
+* [Abo verwalten](https://abo-serviceportal.stiftung-warentest.de/s/)
+* [Abo kündigen](https://abo-serviceportal.stiftung-warentest.de/s/contactsupport?contactReason=K%C3%BCndigung&DPV_Kuendigung__c=mit%20Anschrift)
+
+Kundenservice
+
+* [Kontakt](https://www.test.de/kontakt/)
+* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
+* [Lieferung & Zahlung](https://www.test.de/Hilfe-5836822-5313970/)
+* [Fernabsatzrecht für digitale Inhalte](https://www.test.de/Hilfe-5836822-6060974/)
+* [Fernabsatzrecht für Zeitschriften-Abonnements](https://www.test.de/Hilfe-5836822-6158741/)
+* [Fernabsatzrecht für Bücher, Hefte und CD-Roms](https://www.test.de/Hilfe-5836822-6158749/)
+
 Social Media
 
-* [Facebook](https://www.facebook.com/stiftungwarentest/)
-* [Instagram](https://www.instagram.com/stiftungwarentest)
-* [Twitter](https://twitter.com/warentest)
-* [Youtube](https://www.youtube.com/user/stiftungwarentest)
+* [](https://www.facebook.com/stiftungwarentest/)
+* [](https://www.instagram.com/stiftungwarentest)
+* [](https://twitter.com/warentest)
+* [](https://www.youtube.com/user/stiftungwarentest)
 
 * [Datenschutz](https://www.test.de/datenschutz/)
 * [Cookie Richtlinie](https://www.test.de/cookie-richtlinie/)
