@@ -1,16 +1,16 @@
  
 
-![Close Menu](/assets/images/Menu_X.svg)
+![](/assets/images/Menu_X.svg)
 
-[Personal](https://www.starlink.com/)
+[](https://www.starlink.com/)
 
-[Business](https://www.starlink.com/business)
+[](https://www.starlink.com/business)
 
-[Residential](https://starlink.com/residential)[Roam](https://starlink.com/roam)[Boats](https://starlink.com/boats)
+[](https://starlink.com/residential)[](https://starlink.com/roam)[](https://starlink.com/boats)
 
-US ![Choose Language](/assets/images/Language_Globe.svg) 
+US ![](/assets/images/Language_Globe.svg) 
 
-[Sign In](https://api.starlink.com/auth-rp/auth/login?returnUrl=https%3A%2F%2Fstarlink.com%2Faccount)[Help Center](https://starlink.com/support)[Availability Map](https://starlink.com/map)[Specifications](https://starlink.com/specifications)[Service Plans](https://starlink.com/service-plans)[Video Guides](https://starlink.com/videos)[Technology](https://starlink.com/technology)[Community Gateway](https://starlink.com/community-gateway)[Gear Store](https://gear.starlink.com/)[Updates](https://starlink.com/updates)[Customer Stories](https://stories.starlink.com/)
+[](https://api.starlink.com/auth-rp/auth/login?returnUrl=https%3A%2F%2Fstarlink.com%2Faccount)[](https://starlink.com/support)[](https://starlink.com/map)[](https://starlink.com/specifications)[](https://starlink.com/service-plans)[](https://starlink.com/videos)[](https://starlink.com/technology)[](https://starlink.com/community-gateway)[](https://gear.starlink.com/)[](https://starlink.com/updates)[](https://stories.starlink.com/) 
 
 [](https://www.starlink.com/)
 
