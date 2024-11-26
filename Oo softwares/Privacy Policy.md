@@ -1,4 +1,4 @@
-[![](https://www.oo-software.com/images/p_icons/front/ood.png)**The new O&O Defrag 29:** Maximum performance for your PC – now with an integrated Startup Manager! More Info](https://www.oo-software.com/en/products/oodefrag?r=st)
+[![](https://www.oo-software.com/images/p_icons/front/oodi.png)**The new O&O DiskImage 20:** Protect your valuable data against ransomware attacks now! More Info](https://www.oo-software.com/en/diskimage-backup-your-data?r=st)
 
  Toggle navigation
 
@@ -69,7 +69,7 @@
     
     [Private users](https://www.oo-software.com/en/) [Business customers](https://www.oo-software.com/en/corporate-customers) [Partners](https://www.oo-software.com/en/partner)
     
-* [Get your US$10 voucher](https://www.oo-software.com/en/newsletter?r=tn1.3.6)
+* [Get your US$10 voucher](https://www.oo-software.com/en/newsletter?r=tn1.3.7)
 
 O&O Software’s Privacy Policy
 =============================
