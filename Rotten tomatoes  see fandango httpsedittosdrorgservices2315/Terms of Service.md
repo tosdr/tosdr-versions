@@ -18,10 +18,10 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
 *  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Set sail with Moana's Ticket 2 Adventure** Get 2 tickets to Moana 2 & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Grab This Peacock Black Friday Deal Now** Get a whole year of Peacock for just $19.99.\*
 
 Go to next offer
@@ -189,6 +189,16 @@ New & Coming soon
 
 Close
 
+![Rise to victory with The Champion's Collection](https://images.fandango.com/cms/assets/74fa1520-9e30-11ef-8321-2b978811c524--fan-globalnavbar-gladiator2bundle-343x362.png)
+
+#### Ascend to victory with The Champion's Collection featuring 1 ticket to Gladiator II at a Regal theatre, an exclusive 27"x40” Gladiator II physical poster (shipping & handling included), and Gladiator II on Fandango at Home (when available).
+
+The Champion’s Collection Exclusive Movie Pack is non-refundable. While supplies last. Movie ticket is non-refundable,non-exchangeable and valid at Regal theatres only. You must be 18 years of age or older to purchase The Champion’s Collection Exclusive Movie Pack. You must have, and be logged into, a Fandango at Home account to buy The Champion’s Collection Exclusive Movie Pack and receive Gladiator II (pre-order so that you can view it when the studio makes it available) on Fandango at Home. The exclusive Gladiator II poster is 27"x40” and will begin shipping in the month of December. Please use a physical address where the exclusive Gladiator II poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See full terms and conditions at https://fandan.co/TheChampionsCollection for each item included in The Champion’s Collection Exclusive Movie Pack. [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_promomodule)
+
+### Special Offer
+
+Close
+
 ![Gladiator II Prop Auction](https://images.fandango.com/cms/assets/6d178c20-989a-11ef-a07e-5b03d6159fe4--fan-globalnavbar-gladiator2auction-343x362-v5.jpg)
 
 #### Take a piece of history home with our Gladiator II Prop Auction. Check out the Auction for official props straight from the movie set!
@@ -214,16 +224,6 @@ Close
 #### Get 2 movie tickets to Wicked, a limited edition poster, and more!
 
 \*Wicked Popular Poster Pack bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Wicked (pre-order so that you can view it when the studio makes it available) on Fandango at Home. The limited edition Wicked poster will begin shipping in the month of November. Please use a physical address where the limited edition Wicked poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See https://fandan.co/PopularPosterPack for full terms and conditions. [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_promomodule)
-
-### Special Offer
-
-Close
-
-![Rise to victory with The Champion's Collection](https://images.fandango.com/cms/assets/74fa1520-9e30-11ef-8321-2b978811c524--fan-globalnavbar-gladiator2bundle-343x362.png)
-
-#### Ascend to victory with The Champion's Collection featuring 1 ticket to Gladiator II at a Regal theatre, an exclusive 27"x40” Gladiator II physical poster (shipping & handling included), and Gladiator II on Fandango at Home (when available).
-
-The Champion’s Collection Exclusive Movie Pack is non-refundable. While supplies last. Movie ticket is non-refundable,non-exchangeable and valid at Regal theatres only. You must be 18 years of age or older to purchase The Champion’s Collection Exclusive Movie Pack. You must have, and be logged into, a Fandango at Home account to buy The Champion’s Collection Exclusive Movie Pack and receive Gladiator II (pre-order so that you can view it when the studio makes it available) on Fandango at Home. The exclusive Gladiator II poster is 27"x40” and will begin shipping in the month of December. Please use a physical address where the exclusive Gladiator II poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See full terms and conditions at https://fandan.co/TheChampionsCollection for each item included in The Champion’s Collection Exclusive Movie Pack. [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_promomodule)
 
 ### SPECIAL OFFER
 
