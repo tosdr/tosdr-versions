@@ -69,10 +69,6 @@ Connexion
     ](https://assets.afcdn.com/recipe/20241115/155845_origin.png)
     
     Prix Marmiton 2024](https://www.marmiton.org/prix-marmiton-2024/prix-marmiton-2024-hub-tp199358.html)
-* [**Bien manger** par
-    
-    ![Bien manger par
-    ](https://assets.afcdn.com/recipe/20241119/155935_origin.png)](https://www.marmiton.org/dossier-bien-manger-par-electrolux)
 
 [Accueil](https://www.marmiton.org/) / [Aide](https://www.marmiton.org/aide-sc27.html) / Conditions générales d'utilisation
 
