@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-360x180.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
+    
+    ### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
+    
     [![Maydew House stripped and ready to demolish](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00009-2-1-e1732116151890-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
     
     ### [The Maydew House story: How Southwark Council’s £15 million housing calamity unfolded](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
@@ -51,10 +55,6 @@
     [![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
     
     ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
-    
-    [![Victor Rawlings poses for photos in the William Blake estate in London. Credit: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/11/Victor-Rawlings-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
-    
-    ### [Families sharing beds and windows fixed with tape on ‘cold, cold, cold’ Waterloo estate](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-360x180.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
+    
+    ### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
+    
     [![Maydew House stripped and ready to demolish](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00009-2-1-e1732116151890-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
     
     ### [The Maydew House story: How Southwark Council’s £15 million housing calamity unfolded](https://southwarknews.co.uk/news/news-plus/the-maydew-house-story-how-southwark-councils-15-million-housing-calamity-unfolded/)
@@ -136,10 +140,6 @@ View All Result
     [![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
     
     ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
-    
-    [![Victor Rawlings poses for photos in the William Blake estate in London. Credit: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/11/Victor-Rawlings-360x180.jpeg)](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
-    
-    ### [Families sharing beds and windows fixed with tape on ‘cold, cold, cold’ Waterloo estate](https://southwarknews.co.uk/area/waterloo/families-sharing-beds-and-windows-fixed-with-tape-on-cold-cold-cold-waterloo-estate/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -217,11 +217,11 @@ Terms of Use
 
 [21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
-[![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+[![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
-### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
-[18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+[24th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
 [![Jake Cooper has every league game he's been healthy for this season.](https://southwarknews.co.uk/wp-content/uploads/2024/11/J-Cooper-55545-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
 
@@ -235,13 +235,19 @@ Terms of Use
 
 [23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
 
-[![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
+[![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
-### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
+### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
-[24th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
+[25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
 ### Featured Articles
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-120x86.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
+
+### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
+
+[25th November 2024](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
 
 [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Brixton-Road.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/kennington/man-charged-with-attempted-murder-over-brixton-bus-incident/)
 
@@ -272,12 +278,6 @@ Terms of Use
 ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
 
 [24th November 2024](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
-
-[![Members of ACORN Southwark with Liberal Democrat councillors at Southwark Council\'s Tooley Street headquarters. CREDIT: ACORN Southwark](https://southwarknews.co.uk/wp-content/uploads/2024/11/acron-lib-dem-e1732271874488-120x86.jpg)](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
-
-### [Southwark Council warns estate agents to stop waging ‘exploitative’ bidding wars](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
-
-[24th November 2024](https://southwarknews.co.uk/area/southwark/southwark-council-warns-estate-agents-to-stop-waging-exploitative-bidding-wars/)
 
 ### USEFUL PAGES
 
