@@ -2,126 +2,126 @@
 
 Language:  
 
-* [Deutsch](https://bluespice.com/de/datenschutz/)
-* [English](https://bluespice.com/privacy/)
+* [Deutsch](https://bluespice.com.dedi7975.your-server.de/de/datenschutz/)
+* [English](https://bluespice.com.dedi7975.your-server.de/privacy/)
 
-* [News](https://bluespice.com/news/)
-* [Career](https://bluespice.com/career/)
-* [Events](https://bluespice.com/events/)
-* [Webinars](https://bluespice.com/services/learning/webinars/)
-* [Prices](https://bluespice.com/buy/prices/configure-your-price/)
-* [Download](https://bluespice.com/download/)
+* [News](https://bluespice.com.dedi7975.your-server.de/news/)
+* [Career](https://bluespice.com.dedi7975.your-server.de/career/)
+* [Events](https://bluespice.com.dedi7975.your-server.de/events/)
+* [Webinars](https://bluespice.com.dedi7975.your-server.de/services/learning/webinars/)
+* [Prices](https://bluespice.com.dedi7975.your-server.de/buy/prices/configure-your-price/)
+* [Download](https://bluespice.com.dedi7975.your-server.de/download/)
 
-[![BlueSpice MediaWiki Logo](https://bluespice.com/wp-content/uploads/2022/09/bluespice_logo.png)](https://bluespice.com/)
+[![BlueSpice MediaWiki Logo](https://bluespice.com.dedi7975.your-server.de/wp-content/uploads/2022/09/bluespice_logo.png)](https://bluespice.com.dedi7975.your-server.de/)
 
-* [Products](https://bluespice.com/products/)
+* [Products](https://bluespice.com.dedi7975.your-server.de/products/)
     
     * Editions
         
-        * [BlueSpice free](https://bluespice.com/products/bluespice-free/)
-        * [BlueSpice pro](https://bluespice.com/products/bluespice-pro/)
-        * [BlueSpice farm](https://bluespice.com/products/bluespice-farm/)
-        * [Compare editions …](https://bluespice.com/products/)
+        * [BlueSpice free](https://bluespice.com.dedi7975.your-server.de/products/bluespice-free/)
+        * [BlueSpice pro](https://bluespice.com.dedi7975.your-server.de/products/bluespice-pro/)
+        * [BlueSpice farm](https://bluespice.com.dedi7975.your-server.de/products/bluespice-farm/)
+        * [Compare editions …](https://bluespice.com.dedi7975.your-server.de/products/)
     * Technology
         
-        * [Features](https://bluespice.com/products/technology/features/)
-        * [Cloud hosting](https://bluespice.com/products/technology/cloud-hosting/)
-        * [On premises](https://bluespice.com/products/technology/on-premises/)
-        * [Data protection & security](https://bluespice.com/products/technology/data-protection-security/)
-        * [Open Source](https://bluespice.com/products/technology/open-source/)
+        * [Features](https://bluespice.com.dedi7975.your-server.de/products/technology/features/)
+        * [Cloud hosting](https://bluespice.com.dedi7975.your-server.de/products/technology/cloud-hosting/)
+        * [On premises](https://bluespice.com.dedi7975.your-server.de/products/technology/on-premises/)
+        * [Data protection & security](https://bluespice.com.dedi7975.your-server.de/products/technology/data-protection-security/)
+        * [Open Source](https://bluespice.com.dedi7975.your-server.de/products/technology/open-source/)
     * Frequently asked questions
         
-        * [Technical questions](https://bluespice.com/products/frequently-asked-questions/technical-questions/)
-        * [Testing the software](https://bluespice.com/products/frequently-asked-questions/testing-the-software/)
-        * [Features & functions](https://bluespice.com/products/frequently-asked-questions/features-functions/)
-        * [Cloud](https://bluespice.com/products/frequently-asked-questions/cloud/)
-        * [See all FAQs …](https://bluespice.com/buy/faq/)
+        * [Technical questions](https://bluespice.com.dedi7975.your-server.de/products/frequently-asked-questions/technical-questions/)
+        * [Testing the software](https://bluespice.com.dedi7975.your-server.de/products/frequently-asked-questions/testing-the-software/)
+        * [Features & functions](https://bluespice.com.dedi7975.your-server.de/products/frequently-asked-questions/features-functions/)
+        * [Cloud](https://bluespice.com.dedi7975.your-server.de/products/frequently-asked-questions/cloud/)
+        * [See all FAQs …](http://bluespice.com.dedi7975.your-server.de/buy/faq/)
     * Product comparison
         
-        * [BlueSpice vs. Confluence](https://bluespice.com/products/product-comparison/bluespice-to-confluence/)
-        * [BlueSpice vs. MediaWiki](https://bluespice.com/products/product-comparison/bluespice-to-mediawiki/)
-        * [BlueSpice vs. XWiki](https://bluespice.com/products/product-comparison/bluespice-to-xwiki/)
+        * [BlueSpice vs. Confluence](https://bluespice.com.dedi7975.your-server.de/products/product-comparison/bluespice-to-confluence/)
+        * [BlueSpice vs. MediaWiki](https://bluespice.com.dedi7975.your-server.de/products/product-comparison/bluespice-to-mediawiki/)
+        * [BlueSpice vs. XWiki](https://bluespice.com.dedi7975.your-server.de/products/product-comparison/bluespice-to-xwiki/)
     
-    * [Order trial system](https://bluespice.com/trial/)    /    [Initial consultation](https://calendly.com/bluespicewiki/initial-consultation-w)    /    [Find partner](https://bluespice.com/buy/order/find-partner/)   /   [Prices](https://bluespice.com/buy/prices/configure-your-price/)
+    * [Order trial system](http://bluespice.com.dedi7975.your-server.de/trial/)    /    [Initial consultation](https://calendly.com/bluespicewiki/initial-consultation-w)    /    [Find partner](http://bluespice.com.dedi7975.your-server.de/buy/order/find-partner/)   /   [Prices](http://bluespice.com.dedi7975.your-server.de/buy/prices/configure-your-price/)
         
     
-* [Solutions](https://bluespice.com/solutions/)
+* [Solutions](https://bluespice.com.dedi7975.your-server.de/solutions/)
     
     * Use Cases
         
-        * [Knowledgebase](https://bluespice.com/solutions/use-cases/knowledgebase/)
-        * [Integrated management system](https://bluespice.com/solutions/use-cases/integrated-management-system/)
-        * [IT documentation system](https://bluespice.com/solutions/use-cases/it-documentation-system/)
-        * [Technical documentation system](https://bluespice.com/solutions/use-cases/technical-documentation-system/)
-        * [Organization manual](https://bluespice.com/solutions/use-cases/organization-manual/)
-        * [See all use cases …](https://bluespice.com/solutions/)
+        * [Knowledgebase](https://bluespice.com.dedi7975.your-server.de/solutions/use-cases/knowledgebase/)
+        * [Integrated management system](https://bluespice.com.dedi7975.your-server.de/solutions/use-cases/integrated-management-system/)
+        * [IT documentation system](https://bluespice.com.dedi7975.your-server.de/solutions/use-cases/it-documentation-system/)
+        * [Technical documentation system](https://bluespice.com.dedi7975.your-server.de/solutions/use-cases/technical-documentation-system/)
+        * [Organization manual](https://bluespice.com.dedi7975.your-server.de/solutions/use-cases/organization-manual/)
+        * [See all use cases …](http://bluespice.com.dedi7975.your-server.de/solutions/)
     * Success Stories
         
-        * [Confluence alternative for BMBF](https://bluespice.com/bluespice-confluence-alternative-at-bmbf/)
-        * [Knowledgebase for Digmesa AG](https://bluespice.com/knowledge-management-at-digmesa-ag/)
-        * [Organization manual for Tennet TSO](https://bluespice.com/tennet-tso/)
-        * [IMS for Wiener Wohnen](https://bluespice.com/wiener-wohnen/)
-        * [IMS for Max Bögl](https://bluespice.com/max-bogl-bauservice-gmbh-co-kg/)
-        * [See all stories …](https://bluespice.com/success-stories/)
+        * [Confluence alternative for BMBF](https://bluespice.com.dedi7975.your-server.de/bluespice-confluence-alternative-at-bmbf/)
+        * [Knowledgebase for Digmesa AG](https://bluespice.com.dedi7975.your-server.de/knowledge-management-at-digmesa-ag/)
+        * [Organization manual for Tennet TSO](https://bluespice.com.dedi7975.your-server.de/tennet-tso/)
+        * [IMS for Wiener Wohnen](https://bluespice.com.dedi7975.your-server.de/wiener-wohnen/)
+        * [IMS for Max Bögl](https://bluespice.com.dedi7975.your-server.de/max-bogl-bauservice-gmbh-co-kg/)
+        * [See all stories …](https://bluespice.com.dedi7975.your-server.de/success-stories/)
     * Development & integrations
         
-        * [Research projects](https://bluespice.com/research-projects/)
-        * [Easy Software](https://bluespice.com/solutions/third-parties/easy-software/)
-        * [Secure Wiki](https://bluespice.com/secure-wiki/)
+        * [Research projects](https://bluespice.com.dedi7975.your-server.de/research-projects/)
+        * [Easy Software](https://bluespice.com.dedi7975.your-server.de/solutions/third-parties/easy-software/)
+        * [Secure Wiki](https://bluespice.com.dedi7975.your-server.de/secure-wiki/)
     
-    * [Order trial system](https://bluespice.com/trial/)    /    [Initial consultation](https://calendly.com/bluespicewiki/initial-consultation-w)    /    [Find partner](https://bluespice.com/buy/order/find-partner/)   /   [Prices](https://bluespice.com/buy/prices/configure-your-price/)
+    * [Order trial system](http://bluespice.com.dedi7975.your-server.de/trial/)    /    [Initial consultation](https://calendly.com/bluespicewiki/initial-consultation-w)    /    [Find partner](http://bluespice.com.dedi7975.your-server.de/buy/order/find-partner/)   /   [Prices](http://bluespice.com.dedi7975.your-server.de/buy/prices/configure-your-price/)
         
     
-* [Service & Support](https://bluespice.com/services/)
+* [Service & Support](https://bluespice.com.dedi7975.your-server.de/services/)
     
     * Services
         
-        * [Professional support](https://bluespice.com/services/professional-support/)
-        * [Installation & updates](https://bluespice.com/services/installation-updates/)
-        * [Authentication server connection](https://bluespice.com/services/authentication-server-connection/)
-        * [Migration](https://bluespice.com/services/migration/)
-        * [Templates](https://bluespice.com/services/templates/)
-        * [Consulting](https://bluespice.com/services/consulting/)
+        * [Professional support](https://bluespice.com.dedi7975.your-server.de/services/professional-support/)
+        * [Installation & updates](https://bluespice.com.dedi7975.your-server.de/services/installation-updates/)
+        * [Authentication server connection](https://bluespice.com.dedi7975.your-server.de/services/authentication-server-connection/)
+        * [Migration](https://bluespice.com.dedi7975.your-server.de/services/migration/)
+        * [Templates](https://bluespice.com.dedi7975.your-server.de/services/templates/)
+        * [Consulting](https://bluespice.com.dedi7975.your-server.de/services/consulting/)
     * Trainings & workshops
         
-        * [User Training](https://bluespice.com/services/trainings-workshops/user-training/)
-        * [Admin Training](https://bluespice.com/services/trainings-workshops/admin-training/)
-        * [Semantic Training](https://bluespice.com/services/trainings-workshops/semantic-training/)
-        * [Individual workshops](https://bluespice.com/services/trainings-workshops/individual-workshops/)
+        * [User Training](https://bluespice.com.dedi7975.your-server.de/services/trainings-workshops/user-training/)
+        * [Admin Training](https://bluespice.com.dedi7975.your-server.de/services/trainings-workshops/admin-training/)
+        * [Semantic Training](https://bluespice.com.dedi7975.your-server.de/services/trainings-workshops/semantic-training/)
+        * [Individual workshops](https://bluespice.com.dedi7975.your-server.de/services/trainings-workshops/individual-workshops/)
     * Learning
         
-        * [Webinars](https://bluespice.com/services/learning/webinars/)
-        * [Helpdesk & tutorials](https://bluespice.com/services/learning/helpdesk-tutorials/)
-        * [Handbooks & documentation](https://bluespice.com/services/learning/handbooks-documentation/)
+        * [Webinars](https://bluespice.com.dedi7975.your-server.de/services/learning/webinars/)
+        * [Helpdesk & tutorials](https://bluespice.com.dedi7975.your-server.de/services/learning/helpdesk-tutorials/)
+        * [Handbooks & documentation](https://bluespice.com.dedi7975.your-server.de/services/learning/handbooks-documentation/)
     
-    * [Order trial system](https://bluespice.com/trial/)    /    [Initial consultation](https://calendly.com/bluespicewiki/initial-consultation-w)    /    [Find partner](https://bluespice.com/buy/order/find-partner/)   /   [Prices](https://bluespice.com/buy/prices/configure-your-price/)
+    * [Order trial system](http://bluespice.com.dedi7975.your-server.de/trial/)    /    [Initial consultation](https://calendly.com/bluespicewiki/initial-consultation-w)    /    [Find partner](http://bluespice.com.dedi7975.your-server.de/buy/order/find-partner/)   /   [Prices](http://bluespice.com.dedi7975.your-server.de/buy/prices/configure-your-price/)
         
     
-* [Buy](https://bluespice.com/buy/)
+* [Buy](https://bluespice.com.dedi7975.your-server.de/buy/)
     
     * Prices
         
-        * [Configure your price](https://bluespice.com/buy/prices/configure-your-price/)
+        * [Configure your price](https://bluespice.com.dedi7975.your-server.de/buy/prices/configure-your-price/)
     * Order
         
-        * [Contact sales](https://bluespice.com/contact/)
-        * [Find partner](https://bluespice.com/buy/order/find-partner/)
-        * [Become a partner](https://bluespice.com/buy/order/partner-us/)
+        * [Contact sales](https://bluespice.com.dedi7975.your-server.de/contact/)
+        * [Find partner](https://bluespice.com.dedi7975.your-server.de/buy/order/find-partner/)
+        * [Become a partner](https://bluespice.com.dedi7975.your-server.de/buy/order/partner-us/)
     * Frequently asked questions
         
-        * [License & contract](https://bluespice.com/buy/faq/license-contract/)
-        * [Prices & discounts](https://bluespice.com/buy/faq/prices-discounts/)
-        * [Purchase order](https://bluespice.com/buy/faq/purchase-order/)
-        * [Partner](https://bluespice.com/buy/faq/partner/)
-        * [See all FAQs …](https://bluespice.com/buy/faq/)
+        * [License & contract](https://bluespice.com.dedi7975.your-server.de/buy/faq/license-contract/)
+        * [Prices & discounts](https://bluespice.com.dedi7975.your-server.de/buy/faq/prices-discounts/)
+        * [Purchase order](https://bluespice.com.dedi7975.your-server.de/buy/faq/purchase-order/)
+        * [Partner](https://bluespice.com.dedi7975.your-server.de/buy/faq/partner/)
+        * [See all FAQs …](http://bluespice.com.dedi7975.your-server.de/buy/faq/)
     
-    * [Order trial system](https://bluespice.com/trial/)    /    [Initial consultation](https://calendly.com/bluespicewiki/initial-consultation-w)    /    [Find partner](https://bluespice.com/buy/order/find-partner/)   /   [Prices](https://bluespice.com/buy/prices/configure-your-price/)
+    * [Order trial system](http://bluespice.com.dedi7975.your-server.de/trial/)    /    [Initial consultation](https://calendly.com/bluespicewiki/initial-consultation-w)    /    [Find partner](http://bluespice.com.dedi7975.your-server.de/buy/order/find-partner/)   /   [Prices](http://bluespice.com.dedi7975.your-server.de/buy/prices/configure-your-price/)
         
     
 
-[Try for free](https://bluespice.com/trial/)
+[Try for free](http://bluespice.com.dedi7975.your-server.de/trial/)
 
-[Contact](https://bluespice.com/contact/)
+[Contact](http://bluespice.com.dedi7975.your-server.de/contact/)
 
 Privacy2024-09-02T10:24:12+02:00
 
@@ -464,7 +464,7 @@ If you wish to assert any of the aforementioned rights against us, please contac
 Duty to inform according to Art. 13 DS-GVO
 ------------------------------------------
 
-[Download as PDF-Dokument](https://bluespice.com/filebase/it-gdpr-information-duties-en/)
+[Download as PDF-Dokument](http://bluespice.com.dedi7975.your-server.de/filebase/it-gdpr-information-duties-en/)
 
 Changes to this privacy policy
 ------------------------------
@@ -493,43 +493,43 @@ Your user ID for data protection issues:
 This might be interesting
 -------------------------
 
-[](https://bluespice.com/services/professional-support/)
+[](http://bluespice.com.dedi7975.your-server.de/services/professional-support/)
 
 ### Professional support
 
 Get the expertise of our MediaWiki experts and BlueSpice developers.
 
-[](https://bluespice.com/services/migration/)
+[](http://bluespice.com.dedi7975.your-server.de/services/migration/)
 
 ### Migration
 
 Our experts will support you in moving your data.
 
-[](https://bluespice.com/services/templates/)
+[](http://bluespice.com.dedi7975.your-server.de/services/templates/)
 
 ### Templates
 
 The user-friendly introduction to BlueSpice.
 
-[](https://bluespice.com/products/frequently-asked-questions/)
+[](http://bluespice.com.dedi7975.your-server.de/products/frequently-asked-questions/)
 
 ### FAQ
 
 Find the right answer to your question here.
 
-[](https://bluespice.com/products/technology/data-protection-security/)
+[](http://bluespice.com.dedi7975.your-server.de/products/technology/data-protection-security/)
 
 ### Data protection & security
 
 BlueSpice protects you from external attacks and takes into account the requirements of the GDPR.
 
-[](https://bluespice.com/products/)
+[](http://bluespice.com.dedi7975.your-server.de/products/)
 
 ### Edition comparison
 
 BlueSpice free, pro and farm.
 
-[](https://bluespice.com/services/authentication-server-connection/)
+[](http://bluespice.com.dedi7975.your-server.de/services/authentication-server-connection/)
 
 ### Authentication server connection
 
@@ -541,7 +541,7 @@ Log in automatically and get started right away.
 
 For satisfied users and secure software.
 
-![](https://bluespice.com/wp-content/uploads/2022/09/BlueSpice-UpToDate.png "BlueSpice-UpToDate")
+![](https://bluespice.com.dedi7975.your-server.de/wp-content/uploads/2022/09/BlueSpice-UpToDate.png "BlueSpice-UpToDate")
 
 BlueSpice News & Know How
 
@@ -565,7 +565,7 @@ Privacy \*
 
 I accept the privacy policy
 
-[Read our privacy policy here.](https://bluespice.com/privacy/)
+[Read our privacy policy here.](http://bluespice.com.dedi7975.your-server.de/privacy/)
 
 Thank you for your message.
 
@@ -597,25 +597,25 @@ employees
 
 downloads
 
-[![](https://bluespice.com/wp-content/uploads/2022/03/SMiG_englisch_rgb_150dpi.png)](https://www.bitmi.de/)
+[![](https://bluespice.com.dedi7975.your-server.de/wp-content/uploads/2022/03/SMiG_englisch_rgb_150dpi.png)](https://www.bitmi.de/)
 
 [BlueSpice free](https://sourceforge.net/projects/bluespice/)
 
-[![Webpräsenz der Allianz für Cyber-Sicherheit](https://bluespice.com/wp-content/uploads/2022/03/BlueSpice_Cyber-Security.webp)](https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Home/home_node.html)
+[![Webpräsenz der Allianz für Cyber-Sicherheit](https://bluespice.com.dedi7975.your-server.de/wp-content/uploads/2022/03/BlueSpice_Cyber-Security.webp)](https://www.allianz-fuer-cybersicherheit.de/Webs/ACS/DE/Home/home_node.html)
 
 [](https://www.facebook.com/BlueSpice.MediaWiki "Facebook")[](https://fosstodon.org/@bluespice "Mastodon")[](https://twitter.com/BlueSpiceTweets "Twitter")[](https://www.linkedin.com/showcase/bluespice "LinkedIn")[](https://www.youtube.com/user/BlueSpiceVideo "YouTube")
 
 #### [Get started](#d8a784889409dd227)
 
-[Request trial system](https://bluespice.com/trial/)
+[Request trial system](http://bluespice.com.dedi7975.your-server.de/trial/)
 
 [Initial consultation](https://calendly.com/bluespicewiki/initial-consultation-w)
 
-[Partner us](https://bluespice.com/buy/order/find-partner/)
+[Partner us](http://bluespice.com.dedi7975.your-server.de/buy/order/find-partner/)
 
-[Prices](https://bluespice.com/buy/prices/configure-your-price/)
+[Prices](http://bluespice.com.dedi7975.your-server.de/buy/prices/configure-your-price/)
 
-[FAQ](https://bluespice.com/buy/faq/)
+[FAQ](http://bluespice.com.dedi7975.your-server.de/buy/faq/)
 
 #### [Ressourcen](#3571772bc3740d875)
 
@@ -625,7 +625,7 @@ downloads
 
 [Installation guide](https://en.wiki.bluespice.com/wiki/Setup:Installation_Guide)
 
-[Download](https://bluespice.com/download/)
+[Download](http://bluespice.com.dedi7975.your-server.de/download/)
 
 [Operating manual](https://en.wiki.bluespice.com/wiki/Setup:BlueSpice_Operating_Manual)
 
@@ -653,41 +653,41 @@ downloads
 
 #### [BlueSpice](#ee24cd3942fa6bfbb)
 
-[News](https://bluespice.com/news/)
+[News](http://bluespice.com.dedi7975.your-server.de/news/)
 
 [Newsletter](https://bluespice.com/#newsletter)
 
-[Events](https://bluespice.com/events/)
+[Events](http://bluespice.com.dedi7975.your-server.de/events/)
 
-[Become a partner](https://bluespice.com/buy/order/partner-us/)
+[Become a partner](http://bluespice.com.dedi7975.your-server.de/buy/order/partner-us/)
 
-[Privacy](https://bluespice.com/privacy/)
+[Privacy](http://bluespice.com.dedi7975.your-server.de/privacy/)
 
-[Imprint](https://bluespice.com/imprint/)
+[Imprint](http://bluespice.com.dedi7975.your-server.de/imprint/)
 
-[Contact](https://bluespice.com/contact/)
+[Contact](http://bluespice.com.dedi7975.your-server.de/contact/)
 
 [Cookies](#)
 
 #### [Company](#ece5b53ad499484cd)
 
-[Career](https://bluespice.com/career/)
+[Career](http://bluespice.com.dedi7975.your-server.de/career/)
 
 [Trust & Safety](https://en.wiki.bluespice.com/wiki/Info:Trust_and_Safety)
 
-[Legal](https://bluespice.com/legal/)
+[Legal](http://bluespice.com.dedi7975.your-server.de/legal/)
 
 * **Get started**
     
-* [Get trial system](https://bluespice.com/trial/)
+* [Get trial system](http://bluespice.com.dedi7975.your-server.de/trial/)
     
 * [Initial consultation](https://calendly.com/bluespicewiki/initial-consultation-w)
     
-* [Find partner](https://bluespice.com/buy/order/find-partner/)
+* [Find partner](http://bluespice.com.dedi7975.your-server.de/buy/order/find-partner/)
     
-* [Prices](https://bluespice.com/buy/prices/configure-your-price/)
+* [Prices](http://bluespice.com.dedi7975.your-server.de/buy/prices/configure-your-price/)
     
-* [FAQ](https://bluespice.com/buy/faq/)
+* [FAQ](http://bluespice.com.dedi7975.your-server.de/buy/faq/)
     
 
 * **Ressources**
@@ -698,7 +698,7 @@ downloads
     
 * [Installation guide](https://en.wiki.bluespice.com/wiki/Setup:Installation_Guide)
     
-* [Download](https://bluespice.com/download/)
+* [Download](http://bluespice.com.dedi7975.your-server.de/download/)
     
 * [Operating manual](https://en.wiki.bluespice.com/wiki/Setup:BlueSpice_Operating_Manual)
     
@@ -726,28 +726,28 @@ downloads
 
 * **BlueSpice**
     
-* [News](https://bluespice.com/news/)
+* [News](http://bluespice.com.dedi7975.your-server.de/news/)
     
 * [Newsletter](https://bluespice.com/#newsletter)
     
-* [Events](https://bluespice.com/events/)
+* [Events](http://bluespice.com.dedi7975.your-server.de/events/)
     
-* [Become a partner](https://bluespice.com/buy/order/partner-us/)
+* [Become a partner](http://bluespice.com.dedi7975.your-server.de/buy/order/partner-us/)
     
-* [Privacy](https://bluespice.com/privacy/)
+* [Privacy](http://bluespice.com.dedi7975.your-server.de/privacy/)
     
-* [Imprint](https://bluespice.com/imprint/)
+* [Imprint](http://bluespice.com.dedi7975.your-server.de/imprint/)
     
-* [Contact](https://bluespice.com/contact/)
+* [Contact](http://bluespice.com.dedi7975.your-server.de/contact/)
     
 
 * **Company**
     
-* [Career](https://bluespice.com/career/)
+* [Career](http://bluespice.com.dedi7975.your-server.de/career/)
     
 * [Trust & Safety](https://en.wiki.bluespice.com/wiki/Info:Trust_and_Safety)
     
-* [Legal](https://bluespice.com/legal/)
+* [Legal](http://bluespice.com.dedi7975.your-server.de/legal/)
     
 
 ![](data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27140%27%20height%3D%2748%27%20viewBox%3D%270%200%20140%2048%27%3E%3Crect%20width%3D%27140%27%20height%3D%2748%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E "HalloWelt-Logo")
@@ -762,6 +762,6 @@ BlueSpice is a brand of Hallo Welt! GmbH, a worldwide leading provider and consu
 
 Test Block PopUp
 
-        
+         
 
 [Go to Top](#)
