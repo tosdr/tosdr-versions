@@ -23,9 +23,9 @@ Search for:
             * [ActionsThe best help desk ticketing software for any size business.](https://reputation.com/products/actions/)
             * [Competitive IntelligenceAnalyze competitors’ ratings & reviews, compare performance and identify new opportunities.](https://reputation.com/products/competitive-intelligence/)
         * * [IntegrationsActivate the power of feedback data across your tech stack.](https://reputation.com/products/integrations/)
-        * * The 2024-25 European Automotive Industry Report
+        * * Reviews to Revenue: What is Driving UK Consumer Behaviour?
                 
-                [Learn More](https://reputation.com/resources/reports-research/discover-the-top-ranked-automotive-brands-and-dealerships-in-europe/)
+                [Learn More](https://reputation.com/?p=53714&post_type=resource&preview=1&_ppp=8e2feac9b2)
                 
 * Solutions
     * * * [AutomotiveIncrease leads, visibility and new customers for dealerships, groups and OEM brands.](https://reputation.com/solutions/automotive/)
