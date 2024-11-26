@@ -117,57 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Jannie Schutte - myFinance-Online.co.za
+Terri Winfield
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=99072734)  
-ELLIE'S CLEANING CHICKS
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=40346605)  
+Highlands Auto Engineering
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=111685846)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=147616864)  
+Desygn
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=175476718)  
-MR Compressors& Industrial Supplies
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=47897826)  
+Know Informatics
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=55620138)  
-OrgChart Hosting Pty Ltd
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=178589714)  
+McKaynine Mobility
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=13378353)  
-Imhoff Equestrian Centre
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=204647752)  
+Sarabi
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=94964880)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=167347954)  
+Printo
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=199650370)  
-Moremi Kitchens Rustenburg
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=189505645)  
+Tiny Cuddles Photography
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=3876676)  
-PROGRAPHIX PTY LTD
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=159965917)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=204072683)  
-WIP Digital Solutions
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=214256822)  
+Leef in Afrikaans
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=116665837)  
-IYD
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=58860408)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=91553505)  
-TechnoDezi PTY(LTD)
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=105831514)  
+AMS Ambu Medical Supplies
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=187513690)  
-Electro-Heat
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=189509349)  
+Kara Medical (Pty) Ltd
 
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=59516362)  
-Roekeloos Group
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=142369096)  
+Super Sound Man (PTY) Ltd
 
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=61046359)  
-Moulded Wax SA - The Candle Store
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=50732233)  
+TurboFibre
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=0712d415d22710b890c874dc6bfcd142da1e92aa28e4247e4d3776926587c453&c=136797247)  
-Norton Medical & Consult - Namibia
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=45287790c605ff6096aabe2c7f6c0e519242e28bd7120fe76cd9e467f789e119&c=66163232)  
+Brilliant Roof Products
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
