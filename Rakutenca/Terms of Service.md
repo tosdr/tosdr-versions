@@ -1,4 +1,4 @@
-[SkinCeuticals Canada: Early access to 15% off sitewide + 6% Cash Back
+[SkinCeuticals Canada: Early access to 15% off sitewide + 10% Cash Back
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/skinceuticals?store=skinceuticals&sourceName=sitewide-sticky-header)
 
@@ -293,9 +293,9 @@ FR
         
         4% Cash Back](https://www.rakuten.ca/ray-ban)[SkinCeuticals Canada
         
-        6% Cash Back](https://www.rakuten.ca/skinceuticals)[SkinCeuticals Canada
+        10% Cash Back](https://www.rakuten.ca/skinceuticals)[SkinCeuticals Canada
         
-        6% Cash Back](https://www.rakuten.ca/skinceuticals)
+        10% Cash Back](https://www.rakuten.ca/skinceuticals)
         
         Featured Shops & Deals
         
