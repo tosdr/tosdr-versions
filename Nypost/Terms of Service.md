@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Newly crowned Miss Universe faces heat after appearing to lip-sync racial slur in Jay-Z song](https://nypost.com/2024/11/26/world-news/newly-crowned-miss-universe-victoria-kjaer-theilvig-faces-heat-after-appearing-to-lip-sync-racial-slur-in-jay-z-song/)
+
 Terms Of Use
 ============
 
