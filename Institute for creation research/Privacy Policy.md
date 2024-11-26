@@ -95,6 +95,146 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Design and Purpose
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/specific-creation)
+
+[Specific Creation](https://www.icr.org/article/specific-creation/)
+
+"All flesh is not the same flesh: but there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds." (1...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+[![](/i/Main%20Stage%20-%201400x1050/Life_More_Than_Biomolecules_1400x1050.jpg)](https://www.icr.org/article/life-is-more-than-biomolecules)
+
+[Life Is More Than Biomolecules](https://www.icr.org/article/life-is-more-than-biomolecules/)
+
+In order to have evolution, you must first have life. Both sides of the evolution-creation debate agree that the chance of all the correct biomolecules...
+
+BY: [EDWARD SIEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=247)
+
+[![](https://dummyimage.com/328x116/DDD/000&text=Origins Issues+Article)](https://www.icr.org/article/for-every-structure-there-reason-)
+
+[For Every Structure There Is a Reason . . . .](https://www.icr.org/article/for-every-structure-there-reason-/)
+
+If you're a baby boomer (or earlier) you've no doubt been presented in high school and college the story of the alleged lack of function of our appendix....
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+More God Caused Beauty
+
+[![](/i/articles/af/bearded_man_wide.jpg)](https://www.icr.org/article/apobetics-aesthetics-hairy-problem-for-evolution)
+
+[The Apobetics of Aesthetics: A Hairy Problem for Evolution](https://www.icr.org/article/apobetics-aesthetics-hairy-problem-for-evolution/)
+
+Why do men have beards and women do not? Deep in the brain, the hypothalamus produces surges of gonadotropin-releasing hormone, a small chemical that acts...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/Main%20Stage%20-%201400x1050/Nature_Hiking_1400x1050.jpg)](https://www.icr.org/article/sweden-fun-in-the-sun-nature-hiking)
+
+[Sweden’s Fun in the Sun, Nature Hiking](https://www.icr.org/article/sweden-fun-in-the-sun-nature-hiking/)
+
+Sweden is encouraging Hittaut (recreational nature hiking) with the added encouragement of exploring places to find specific checkpoints along the hike.1 With...
+
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
+
+[![](/i/wide/flower_j0374547_wide.jpg)](https://www.icr.org/article/what-makes-attractive-woman-attractive)
+
+[What Makes an Attractive Woman Attractive?](https://www.icr.org/article/what-makes-attractive-woman-attractive/)
+
+Certain items seem to have just the right combination of shapes and colors to have universal aesthetic appeal. For example, few fail to appreciate the...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+More God Caused Meaning
+
+[![](/i/articles/af/darwinism_survival_without_purpose_wide.jpg)](https://www.icr.org/article/darwinism-survival-without-purpose)
+
+[Darwinism: Survival without Purpose](https://www.icr.org/article/darwinism-survival-without-purpose/)
+
+Humans have always wondered about the meaning of life...life has no higher purpose than to perpetuate the survival of DNA...life has no design, no purpose,...
+
+BY: [JERRY BERGMAN, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=56)
+
+[![](/i/Main%20Stage%20-%201400x1050/Control_Loops_Humans_Nature_1400x1050.jpg)](https://www.icr.org/article/control-loops-in-humans-and-nature)
+
+[Control Loops in Humans and Nature](https://www.icr.org/article/control-loops-in-humans-and-nature/)
+
+Ever had a blood test? Along with a value measured, there are also the normal max/min limits for that value. This implies that the body normally controls...
+
+BY: [EDWARD SIEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=247)
+
+[![](https://dummyimage.com/328x116/DDD/000&text=Back to Genesis+Article)](https://www.icr.org/article/mystery-complexity)
+
+[The Mystery of Complexity](https://www.icr.org/article/mystery-complexity/)
+
+The universe is full of an infinite variety of complex systems, from the almost incredible universe itself to the tiniest one-celled creature in the ocean....
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+More Creation Science Update
+
+[![](/i/ICR_Sept23_wallpaper_1400x1050_main.jpg)](https://www.icr.org/article/september-2023-icr-wallpaper)
+
+[September 2023 ICR Wallpaper](https://www.icr.org/article/september-2023-icr-wallpaper/)
+
+"If you walk in My statutes and keep My commandments, and perform them, then I will give you rain in its season, the land shall yield its produce, and...
+
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+
+[![](/i/Main%20Stage%20-%201400x1050/FrogStripe_1400x1050)](https://www.icr.org/article/frog-stripe-evolution)
+
+[Frog Stripe Evolution?](https://www.icr.org/article/frog-stripe-evolution/)
+
+Color patterns in animals, whether vertebrates or invertebrates, are designed by the Creator for camouflage, warning, courtship, or, simply, for the...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/ChimpLanguage_1400x1050)](https://www.icr.org/article/people-and-wild-apes-language)
+
+[Do People and Wild Apes Share a Common Language?](https://www.icr.org/article/people-and-wild-apes-language/)
+
+There are a host of scientific problems with evolution. One egregious difficulty is an untestable proposition that people (and primates) evolved from...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
+
+Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
+
+$12.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
+
+Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
+
+Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
+
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
+
+The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
+
+$7.99
+
+$9.99
+
+[](https://store.icr.org/.html)
+
+$
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
