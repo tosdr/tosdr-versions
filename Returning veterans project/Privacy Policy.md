@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Captain Barry Patton](https://cdn.returningveterans.org/images/honor/bpatton.jpg)  
+![the US Air Force](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of Captain Barry Patton**  
-United States Marine Corps  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of the US Air Force**  
+United States Air Force  
+Submitted by Wallace Tjader](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/25/24 - 7:21:34  
+Printed 11/26/24 - 1:24:51  
 © 2024 Returning Veterans Project
