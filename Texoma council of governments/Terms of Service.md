@@ -20,7 +20,7 @@
     * [Vision Statement](https://tcog.com/about/vision/)
 * [Directory](https://tcog.com/directory/)
     * [Executive Office](https://tcog.com/executive-director/)
-    * [Administration & Finance](https://tcog.com/administration-finance/)
+    * [Administration & Finance](https://tcog.com/administration-finance-5113/)
     * [Aging Services](https://tcog.com/aging-services/)
     * [Client Services](https://tcog.com/client-services/)
     * [Energy Services](https://tcog.com/energy-services/)
@@ -138,18 +138,10 @@ Sherman, TX 75090
 
 * * *
 
-[![Here for Texas](/wp-content/uploads/2019/03/header_HFT_logo.png)](https://www.herefortexas.com/index.html "Here for Texas - Connecting Texans to information and resources for mental health and addiction")
+[![Here for Texas](/wp-content/uploads/2019/03/header_HFT_logo.png)](https://www.herefortexas.com/ "Here for Texas - Connecting Texans to information and resources for mental health and addiction")
 
 Upcoming Events
 ---------------
-
-Nov 21
-
-5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
-
-### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting-13/ "Governing Board Meeting")
-
-Sherman
 
 Dec 3
 
@@ -170,6 +162,14 @@ Dec 12
 5:30 pm - 6:00 pm [Event Series](https://tcog.com/series/executive-officers-committee/ "Event Series")
 
 ### [Executive Officers Committee](https://tcog.com/event/executive-officers-committee-2-2/2024-12-12/ "Executive Officers Committee")
+
+Sherman
+
+Dec 19
+
+5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
+
+### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-12-19/ "Governing Board Meeting")
 
 Sherman
 
