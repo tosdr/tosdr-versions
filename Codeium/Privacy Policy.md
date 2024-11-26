@@ -221,9 +221,7 @@ If you have questions or comments about this notice, you may email us at [hello@
 
 Exafunction, Inc.
 
-321 Castro Street
-
-Suite 200
+900 Villa Street
 
 Mountain View, CA 94041
 
