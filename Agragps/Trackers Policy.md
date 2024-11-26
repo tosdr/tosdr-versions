@@ -1906,6 +1906,22 @@ wf-scan-issue-expanded-4268
 
 ##### Function
 
+##### Name
+
+wf-scan-issue-expanded-4985
+
+##### Expiration
+
+##### Function
+
+##### Name
+
+wf-scan-issue-expanded-4989
+
+##### Expiration
+
+##### Function
+
 8\. Enabling/disabling and deleting cookies
 -------------------------------------------
 
@@ -1938,7 +1954,7 @@ Website: [https://www.agragps.com](https://www.agragps.com/)
 Email: jheupel@agragps.com  
 Phone number: +1 7809904052
 
-This Cookie Policy was synchronised with [cookiedatabase.org](https://cookiedatabase.org/) on November 18, 2024.
+This Cookie Policy was synchronised with [cookiedatabase.org](https://cookiedatabase.org/) on November 25, 2024.
 
 ![ARGO GPS](https://www.agragps.com/wp-content/uploads/2023/04/xlogo_white.png.pagespeed.ic.Zn8vpQ_ISw.png)
 
