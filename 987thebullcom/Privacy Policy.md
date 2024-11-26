@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| How Country FeelsRandy Houser<br><br>10:42pm |
-| A Lot More FreeMax Mcnown<br><br>10:38pm |
-| The Kind Of Love We MakeLuke Combs<br><br>10:35pm |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:23pm |
-| Rock And A Hard PlaceBailey Zimmerman<br><br>10:20pm |
+| Try That In A Small TownJason Aldean<br><br>4:40am |
+| Truck On FireCarly Pearce<br><br>4:37am |
+| Just To Say We DidKenny Chesney<br><br>4:34am |
+| Tennessee OrangeMegan Moroney<br><br>4:30am |
+| Miles On ItKane Brown Ft Marshmello<br><br>4:27am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -501,6 +501,10 @@ Featured Brands
 
 Top 40 • Pacific NW
 
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
@@ -508,10 +512,6 @@ Top 40 • Eastern
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
