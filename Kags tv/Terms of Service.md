@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/nov-2024-college-station-search-warrant-arrest/500-b6b945a2-00e3-4d73-a3db-6b9de1cb11cc)
+        
+        #### [One in custody, three detained after high-risk search warrant connected to College Station shooting investigation](https://www.kagstv.com/article/news/crime/nov-2024-college-station-search-warrant-arrest/500-b6b945a2-00e3-4d73-a3db-6b9de1cb11cc)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/d6dacde2-bdd7-42af-91ac-4532195ea922/20241125T182518/d6dacde2-bdd7-42af-91ac-4532195ea922_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/d6dacde2-bdd7-42af-91ac-4532195ea922/20241125T182518/d6dacde2-bdd7-42af-91ac-4532195ea922_360x203.jpg)](https://www.kagstv.com/article/news/crime/harlan-wayne-sekaquaptewa-sentenced-after-pleading-guilty-to-sexual-assault-of-a-child/500-24a12f6b-7c74-4bea-bc0c-064a0966e9ee)
         
         #### [Man sentenced to 19 years after pleading guilty to sexual assault of a child in Milam County](https://www.kagstv.com/article/news/crime/harlan-wayne-sekaquaptewa-sentenced-after-pleading-guilty-to-sexual-assault-of-a-child/500-24a12f6b-7c74-4bea-bc0c-064a0966e9ee)
-        
-    *  [![](https://media.kagstv.com/assets/KENS/images/a4e2dd0e-aff6-4060-a641-8ace186d51be/a4e2dd0e-aff6-4060-a641-8ace186d51be_16x9.jpg) ![](https://media.kagstv.com/assets/KENS/images/a4e2dd0e-aff6-4060-a641-8ace186d51be/a4e2dd0e-aff6-4060-a641-8ace186d51be_360x203.jpg)](https://www.kagstv.com/article/news/crime/juvenile-arrested-for-making-threat-to-bryan-isd-stephen-f-austin-middle-school-on-nov-14-2024/500-bdcf710b-cc9b-443c-979e-0eac31550617)
-        
-        #### [Juvenile charged with third-degree felony after making phone call threat to Bryan ISD middle school](https://www.kagstv.com/article/news/crime/juvenile-arrested-for-making-threat-to-bryan-isd-stephen-f-austin-middle-school-on-nov-14-2024/500-bdcf710b-cc9b-443c-979e-0eac31550617)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -88,7 +88,7 @@ Bryan, TX »
 
 46°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
