@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Special counsel moves to dismiss election interference case against President-elect Donald Trump](https://www.ajc.com/news/nation-world/special-counsel-moves-to-dismiss-election-interference-case-against-president-elect-donald-trump/QVTXQNRAHFD4RHVYVH3OLOYWGQ/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
@@ -18,7 +16,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-talk-turkey-not-politics/IL4FAH6ZZVFTXEICMEHGZYZJP4/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
