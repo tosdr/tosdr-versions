@@ -345,16 +345,18 @@ Suchen
     * [Alle Themen](https://www.test.de/thema/)
 * [Abo & Flatrate](https://www.test.de/abo/)
     
-    * [test.de-Flatrate](https://www.test.de/abo/flatrate/)
-    * [test-Heft-Abo](https://www.test.de/abo/test/)
-    * [Finanztest-Heft-Abo](https://www.test.de/abo/finanztest/)
+    * [Übersicht](https://www.test.de/abo/)
+    * [Print-Abos](https://www.test.de/abo/print/)
+    * [Digital-Abos](https://www.test.de/abo/digital/)
 * [Shop](https://www.test.de/shop/)
     
-    * ﻿[Warenkorb](https://www.test.de/shop/bestellung/)
-    * [test-Hefte](https://www.test.de/shop/test-hefte/)
-    * [Finanztest-Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Übersicht](https://www.test.de/shop/)
     * [Bestseller](https://www.test.de/shop/bestseller/)
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
+    * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
+    * [test Hefte](https://www.test.de/shop/test-hefte/)
+    * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -382,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v122496188.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123149202.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -397,9 +399,11 @@ Inhalt
 1. [Überblick](https://www.test.de/Hilfe-5836822-0/)
 2. [Barrierefreiheit](https://www.test.de/Hilfe-5836822-5104070/)
 3. [Daten­schutz](https://www.test.de/Hilfe-5836822-5313981/)
-4. [Fern­absatz­recht](https://www.test.de/Hilfe-5836822-6060974/)
-5. [Javascript](https://www.test.de/Hilfe-5836822-5767013/)
-6. Lieferungs- und Zahlungs­bedingungen
+4. [Fern­absatz­recht für digitale Inhalte (Flatrates, PDFs, ePubs, Einzel­tests und digitale Publikationen)](https://www.test.de/Hilfe-5836822-6060974/)
+5. [Fern­absatz­recht für Zeit­schriften-, Kombi- und Komfort-Abonnements](https://www.test.de/Hilfe-5836822-6158741/)
+6. [Fern­absatz­recht für Bücher, Hefte und CD-Roms](https://www.test.de/Hilfe-5836822-6158749/)
+7. [Javascript](https://www.test.de/Hilfe-5836822-5767013/)
+8. Lieferungs- und Zahlungs­bedingungen
     1. [Käufe aus dem Ausland](#id5105457)
     2. [Bereit­stellung digi­taler Inhalte](#id5313974)
     3. [Bezahl­möglich­keiten](#id5284888)
@@ -407,16 +411,17 @@ Inhalt
     5. [SEPA-Last­schrift (Bank­einzug)](#id5284894)
     6. [PayPal](#id5284891)
     7. [Gutschein](#id5284895)
-    8. [Abrechnung, Lauf­zeit und Kündigung der test.de-Flatrate](#id5284889)
-    9. [Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)](#id5105478)
-7. [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
-8. [Newsletter und RSS](https://www.test.de/Hilfe-5836822-5105546/)
-9. [Online Artikel](https://www.test.de/Hilfe-5836822-5284881/)
-10. [Shop und Abo](https://www.test.de/Hilfe-5836822-5105537/)
-11. [Sicherheit auf test.de](https://www.test.de/Hilfe-5836822-5303904/)
-12. [Suchen und Finden](https://www.test.de/Hilfe-5836822-5121459/)
-13. [test.de-Netiquette](https://www.test.de/Hilfe-5836822-5104319/)
-14. [Informationen für Firmen](https://www.test.de/Hilfe-5836822-5989200/)
+    8. [Versand­kosten und Lieferungs­bedingungen](#id6149682)
+    9. [Abrechnung, Lauf­zeit und Kündigung der test.de-Flatrate](#id5284889)
+    10. [Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)](#id5105478)
+9. [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
+10. [Newsletter und RSS](https://www.test.de/Hilfe-5836822-5105546/)
+11. [Online Artikel](https://www.test.de/Hilfe-5836822-5284881/)
+12. [Shop und Abo](https://www.test.de/Hilfe-5836822-5105537/)
+13. [Sicherheit auf test.de](https://www.test.de/Hilfe-5836822-5303904/)
+14. [Suchen und Finden](https://www.test.de/Hilfe-5836822-5121459/)
+15. [test.de-Netiquette](https://www.test.de/Hilfe-5836822-5104319/)
+16. [Informationen für Firmen](https://www.test.de/Hilfe-5836822-5989200/)
 
 Käufe aus dem Ausland
 ---------------------
@@ -451,9 +456,15 @@ Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 Bezahl­möglich­keiten
 ---------------------
 
-Zum Bezahlen der test.de-Flatrate, der Online-Artikel und der digitalen Varianten von Büchern und Heften stehen Ihnen mehrere Möglich­keiten zur Verfügung.
+### Kauf von digitalen Inhalten
+
+Zum Bezahlen der test.de-Flatrate stehen Ihnen mehrere Möglich­keiten zur Verfügung:
 
    ![Hilfe - Häufig gestellte Fragen](https://cdn.test.de/file/image/23/88/8a2a96f8-fdc8-4683-a308-4d528b1df383-web/5849867_Bezahlmoeglichkeiten_2023.jpg)
+
+Zum Bezahlen von Online-Artikeln und den digitalen Varianten von Büchern und Heften können Sie folgende Bezahl­möglich­keiten nutzen:
+
+   ![Hilfe - Häufig gestellte Fragen](https://cdn.test.de/file/image/a9/23/2ec0465a-1085-480b-8432-cbb439e5b209-web/6149759_Bezahlmoeglichkeiten_Artikel_PDF_2024.jpg)
 
 Bei Zahlung mit Kreditkarte oder SEPA-Last­schrift erfolgt die Zahlungs­abwick­lung über den Bezahl­dienst­leister Stripe:
 
@@ -472,6 +483,17 @@ Prielmayer­straße 3
 Deutsch­land
 
 Die Daten­schutz­erklärung von Stripe finden Sie [hier](https://stripe.com/de/privacy).
+
+### Kauf von Heften, Büchern und CD-Roms im Shop
+
+Für Bestel­lungen in unserem Webshop können Sie zwischen folgenden Bezahl­verfahren wählen:
+
+* Rechnung (nicht bei abweichender Liefer­adresse)
+* Bank­einzug (nicht bei abweichender Liefer­adresse)
+* Kreditkarte
+* PayPal
+
+Achtung: Bitte prüfen Sie, ob Ihr Browser starke Verschlüsselung unterstützt. Falls das nicht der Fall ist, empfehlen wir eine Bestellung per Rechnung.
 
 Kreditkarte
 -----------
@@ -527,6 +549,54 @@ Gutschein
 
 Geben Sie Ihren Gutscheincode direkt im Bezahl­vorgang ein und klicken Sie auf „Anwenden“.
 
+Versand­kosten und Lieferungs­bedingungen
+-----------------------------------------
+
+### Lieferung von Büchern und Einzel­heften aus dem Webshop (inner­halb Deutsch­lands)
+
+**Versand­kosten**
+
+* 2,50 Euro bei einem Bestell­wert unter 10,00 Euro
+* Versand­kostenfrei bei einem Bestell­wert ab 10,00 Euro
+
+**Liefer­zeiten**
+
+Unsere Erfahrungen besagen, dass Sie inner­halb der kommenden 3-4 Werk­tage die gewünschte Sendung erhalten werden. Bitte beachten Sie: Vorbestellte Produkte werden erst nach dem Erscheinungs­termin ausgeliefert.
+
+Bei Teillieferungen entstehen keine zusätzlichen Versand­kosten.
+
+**Auslands­bestel­lungen**
+
+Bestel­lungen sind über diesen Webshop nur an Liefer­adressen in Deutsch­land möglich. Für Auslands­bestel­lungen wenden Sie sich bitte an unsere Bestell-Hotline. Bei Auslands­bestel­lungen betragen die Versand­kosten pauschal 20 Euro.  
+Bitte beachten Sie: Abonnenten-Sonderpreise gelten nur für Kundinnen und Kunden mit Wohn­sitz in Deutsch­land.
+
+**Retouren­schein online**
+
+Im Falle einer Rück­sendung inner­halb Deutsch­lands können Sie einen Retouren­schein einfach selbst über das Internet ausdrucken. Klicken Sie auf diesen Link: [Zum DHL-Retourenportal](https://www.dhl.de/retoure/gw/rpcustomerweb/OrderEntry.action?hash=2552fa29a3205286c83b194fefa63c93ed45f3976a25f899ea8779f0c14be257). Geben Sie Ihre Daten ein, drucken Sie den Rück­sendebeleg aus und kleben Sie den Beleg auf Ihr Paket. Ihr Paket können Sie anschließend kostenlos bei der Post abgeben.
+
+### Portokosten für Print-Abonnements (pro Ausgabe)
+
+**test-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,60 €
+* Schweiz: 1,20 sFr.
+* restliches Ausland: 2,00 € (Normal­versand)
+
+**Finanztest-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,50 €
+* Schweiz: 0,80 sFr.
+* restliches Ausland: 1,40 € (Normal­versand)
+
+**Komfort-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,60 €
+* Schweiz: 1,20 sFr.
+* restliches Ausland: 2,00 € (Normal­versand)
+
 Abrechnung, Lauf­zeit und Kündigung der test.de-Flatrate
 --------------------------------------------------------
 
@@ -540,9 +610,9 @@ Für 14,90 € monatlich oder 70,80 € im Jahr erhalten Sie Zugriff auf alle 
 
 **Bezahlen.** Als Zahlungs­mittel können Sie PayPal, Kreditkarte oder Bank­einzug nutzen. Mehr Infos zu den Zahlungs­mitteln siehe Bezahl­möglich­keiten.
 
-**Ausgeschlossen.** Bücher und Spezial-Hefte im [Shop](https://www.test.de/shop/) sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
+**Ausgeschlossen.** Bücher und Spezial-Hefte im Shop sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
 
-[test.de-Flatrate erwerben](https://www.test.de/abo/flatrate/)
+test.de-Flatrate erwerben
 
 Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)
 ------------------------------------------------------------------
@@ -594,38 +664,52 @@ Neueste Tests
 
 test.de entdecken
 
-* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
 * [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
 
-Fußbereich
+Weitere Informationen
 
-Service Stiftung Warentest
+Stiftung Warentest
 
 * [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
 * [Presse](https://www.test.de/presse/)
-* [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
 
-Service test.de
+test.de
 
 * [Alle Themen A-Z](https://www.test.de/thema/)
 * [Archiv](https://www.test.de/archiv/)
-* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 * [Newsletter abonnieren](https://www.test.de/newsletter/)
 * [RSS Feed](https://www.test.de/rss/)
 
+Abo
+
+* [Print-Abos](https://www.test.de/abo/print/)
+* [Digital-Abos](https://www.test.de/abo/digital/)
+* [Abo verwalten](https://abo-serviceportal.stiftung-warentest.de/s/)
+* [Abo kündigen](https://abo-serviceportal.stiftung-warentest.de/s/contactsupport?contactReason=K%C3%BCndigung&DPV_Kuendigung__c=mit%20Anschrift)
+
+Kundenservice
+
+* [Kontakt](https://www.test.de/kontakt/)
+* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
+* [Lieferung & Zahlung](https://www.test.de/Hilfe-5836822-5313970/)
+* [Fernabsatzrecht für digitale Inhalte](https://www.test.de/Hilfe-5836822-6060974/)
+* [Fernabsatzrecht für Zeitschriften-Abonnements](https://www.test.de/Hilfe-5836822-6158741/)
+* [Fernabsatzrecht für Bücher, Hefte und CD-Roms](https://www.test.de/Hilfe-5836822-6158749/)
+
 Social Media
 
-* [Facebook](https://www.facebook.com/stiftungwarentest/)
-* [Instagram](https://www.instagram.com/stiftungwarentest)
-* [Twitter](https://twitter.com/warentest)
-* [Youtube](https://www.youtube.com/user/stiftungwarentest)
+* [](https://www.facebook.com/stiftungwarentest/)
+* [](https://www.instagram.com/stiftungwarentest)
+* [](https://twitter.com/warentest)
+* [](https://www.youtube.com/user/stiftungwarentest)
 
 * [Datenschutz](https://www.test.de/datenschutz/)
 * [Cookie Richtlinie](https://www.test.de/cookie-richtlinie/)
@@ -1036,16 +1120,18 @@ Suchen
     * [Alle Themen](https://www.test.de/thema/)
 * [Abo & Flatrate](https://www.test.de/abo/)
     
-    * [test.de-Flatrate](https://www.test.de/abo/flatrate/)
-    * [test-Heft-Abo](https://www.test.de/abo/test/)
-    * [Finanztest-Heft-Abo](https://www.test.de/abo/finanztest/)
+    * [Übersicht](https://www.test.de/abo/)
+    * [Print-Abos](https://www.test.de/abo/print/)
+    * [Digital-Abos](https://www.test.de/abo/digital/)
 * [Shop](https://www.test.de/shop/)
     
-    * ﻿[Warenkorb](https://www.test.de/shop/bestellung/)
-    * [test-Hefte](https://www.test.de/shop/test-hefte/)
-    * [Finanztest-Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Übersicht](https://www.test.de/shop/)
     * [Bestseller](https://www.test.de/shop/bestseller/)
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
+    * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
+    * [test Hefte](https://www.test.de/shop/test-hefte/)
+    * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -1388,16 +1474,18 @@ Suchen
     * [Alle Themen](https://www.test.de/thema/)
 * [Abo & Flatrate](https://www.test.de/abo/)
     
-    * [test.de-Flatrate](https://www.test.de/abo/flatrate/)
-    * [test-Heft-Abo](https://www.test.de/abo/test/)
-    * [Finanztest-Heft-Abo](https://www.test.de/abo/finanztest/)
+    * [Übersicht](https://www.test.de/abo/)
+    * [Print-Abos](https://www.test.de/abo/print/)
+    * [Digital-Abos](https://www.test.de/abo/digital/)
 * [Shop](https://www.test.de/shop/)
     
-    * ﻿[Warenkorb](https://www.test.de/shop/bestellung/)
-    * [test-Hefte](https://www.test.de/shop/test-hefte/)
-    * [Finanztest-Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Übersicht](https://www.test.de/shop/)
     * [Bestseller](https://www.test.de/shop/bestseller/)
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
+    * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
+    * [test Hefte](https://www.test.de/shop/test-hefte/)
+    * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
 
 * [Kontakt](https://www.test.de/kontakt/)
 * [Über uns](https://www.test.de/unternehmen/)
@@ -1723,16 +1811,18 @@ Suchen
     * [Alle Themen](https://www.test.de/thema/)
 * [Abo & Flatrate](https://www.test.de/abo/)
     
-    * [test.de-Flatrate](https://www.test.de/abo/flatrate/)
-    * [test-Heft-Abo](https://www.test.de/abo/test/)
-    * [Finanztest-Heft-Abo](https://www.test.de/abo/finanztest/)
+    * [Übersicht](https://www.test.de/abo/)
+    * [Print-Abos](https://www.test.de/abo/print/)
+    * [Digital-Abos](https://www.test.de/abo/digital/)
 * [Shop](https://www.test.de/shop/)
     
-    * ﻿[Warenkorb](https://www.test.de/shop/bestellung/)
-    * [test-Hefte](https://www.test.de/shop/test-hefte/)
-    * [Finanztest-Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Übersicht](https://www.test.de/shop/)
     * [Bestseller](https://www.test.de/shop/bestseller/)
     * [Neuerscheinungen](https://www.test.de/shop/neuerscheinungen/)
+    * [Bücher + Spezialhefte](https://www.test.de/shop/altersvorsorge-rente/)
+    * [test Hefte](https://www.test.de/shop/test-hefte/)
+    * [Finanztest Hefte](https://www.test.de/shop/finanztest-hefte/)
+    * [Jahrbücher + Archiv-CDs](https://www.test.de/shop/jahrbuecher-archivcds/)
 
 [Tests & Themen](https://www.test.de/thema/)
 
@@ -2098,9 +2188,11 @@ Inhalt
 1. [Überblick](https://www.test.de/Hilfe-5836822-0/)
 2. [Barrierefreiheit](https://www.test.de/Hilfe-5836822-5104070/)
 3. [Daten­schutz](https://www.test.de/Hilfe-5836822-5313981/)
-4. [Fern­absatz­recht](https://www.test.de/Hilfe-5836822-6060974/)
-5. [Javascript](https://www.test.de/Hilfe-5836822-5767013/)
-6. Lieferungs- und Zahlungs­bedingungen
+4. [Fern­absatz­recht für digitale Inhalte (Flatrates, PDFs, ePubs, Einzel­tests und digitale Publikationen)](https://www.test.de/Hilfe-5836822-6060974/)
+5. [Fern­absatz­recht für Zeit­schriften-, Kombi- und Komfort-Abonnements](https://www.test.de/Hilfe-5836822-6158741/)
+6. [Fern­absatz­recht für Bücher, Hefte und CD-Roms](https://www.test.de/Hilfe-5836822-6158749/)
+7. [Javascript](https://www.test.de/Hilfe-5836822-5767013/)
+8. Lieferungs- und Zahlungs­bedingungen
     1. [Käufe aus dem Ausland](#id5105457)
     2. [Bereit­stellung digi­taler Inhalte](#id5313974)
     3. [Bezahl­möglich­keiten](#id5284888)
@@ -2108,16 +2200,17 @@ Inhalt
     5. [SEPA-Last­schrift (Bank­einzug)](#id5284894)
     6. [PayPal](#id5284891)
     7. [Gutschein](#id5284895)
-    8. [Abrechnung, Lauf­zeit und Kündigung der test.de-Flatrate](#id5284889)
-    9. [Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)](#id5105478)
-7. [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
-8. [Newsletter und RSS](https://www.test.de/Hilfe-5836822-5105546/)
-9. [Online Artikel](https://www.test.de/Hilfe-5836822-5284881/)
-10. [Shop und Abo](https://www.test.de/Hilfe-5836822-5105537/)
-11. [Sicherheit auf test.de](https://www.test.de/Hilfe-5836822-5303904/)
-12. [Suchen und Finden](https://www.test.de/Hilfe-5836822-5121459/)
-13. [test.de-Netiquette](https://www.test.de/Hilfe-5836822-5104319/)
-14. [Informationen für Firmen](https://www.test.de/Hilfe-5836822-5989200/)
+    8. [Versand­kosten und Lieferungs­bedingungen](#id6149682)
+    9. [Abrechnung, Lauf­zeit und Kündigung der test.de-Flatrate](#id5284889)
+    10. [Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)](#id5105478)
+9. [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
+10. [Newsletter und RSS](https://www.test.de/Hilfe-5836822-5105546/)
+11. [Online Artikel](https://www.test.de/Hilfe-5836822-5284881/)
+12. [Shop und Abo](https://www.test.de/Hilfe-5836822-5105537/)
+13. [Sicherheit auf test.de](https://www.test.de/Hilfe-5836822-5303904/)
+14. [Suchen und Finden](https://www.test.de/Hilfe-5836822-5121459/)
+15. [test.de-Netiquette](https://www.test.de/Hilfe-5836822-5104319/)
+16. [Informationen für Firmen](https://www.test.de/Hilfe-5836822-5989200/)
 
 Käufe aus dem Ausland
 ---------------------
@@ -2152,9 +2245,15 @@ Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 Bezahl­möglich­keiten
 ---------------------
 
-Zum Bezahlen der test.de-Flatrate, der Online-Artikel und der digitalen Varianten von Büchern und Heften stehen Ihnen mehrere Möglich­keiten zur Verfügung.
+### Kauf von digitalen Inhalten
+
+Zum Bezahlen der test.de-Flatrate stehen Ihnen mehrere Möglich­keiten zur Verfügung:
 
    ![Hilfe - Häufig gestellte Fragen](https://cdn.test.de/file/image/23/88/8a2a96f8-fdc8-4683-a308-4d528b1df383-web/5849867_Bezahlmoeglichkeiten_2023.jpg)
+
+Zum Bezahlen von Online-Artikeln und den digitalen Varianten von Büchern und Heften können Sie folgende Bezahl­möglich­keiten nutzen:
+
+   ![Hilfe - Häufig gestellte Fragen](https://cdn.test.de/file/image/a9/23/2ec0465a-1085-480b-8432-cbb439e5b209-web/6149759_Bezahlmoeglichkeiten_Artikel_PDF_2024.jpg)
 
 Bei Zahlung mit Kreditkarte oder SEPA-Last­schrift erfolgt die Zahlungs­abwick­lung über den Bezahl­dienst­leister Stripe:
 
@@ -2173,6 +2272,17 @@ Prielmayer­straße 3
 Deutsch­land
 
 Die Daten­schutz­erklärung von Stripe finden Sie [hier](https://stripe.com/de/privacy).
+
+### Kauf von Heften, Büchern und CD-Roms im Shop
+
+Für Bestel­lungen in unserem Webshop können Sie zwischen folgenden Bezahl­verfahren wählen:
+
+* Rechnung (nicht bei abweichender Liefer­adresse)
+* Bank­einzug (nicht bei abweichender Liefer­adresse)
+* Kreditkarte
+* PayPal
+
+Achtung: Bitte prüfen Sie, ob Ihr Browser starke Verschlüsselung unterstützt. Falls das nicht der Fall ist, empfehlen wir eine Bestellung per Rechnung.
 
 Kreditkarte
 -----------
@@ -2228,6 +2338,54 @@ Gutschein
 
 Geben Sie Ihren Gutscheincode direkt im Bezahl­vorgang ein und klicken Sie auf „Anwenden“.
 
+Versand­kosten und Lieferungs­bedingungen
+-----------------------------------------
+
+### Lieferung von Büchern und Einzel­heften aus dem Webshop (inner­halb Deutsch­lands)
+
+**Versand­kosten**
+
+* 2,50 Euro bei einem Bestell­wert unter 10,00 Euro
+* Versand­kostenfrei bei einem Bestell­wert ab 10,00 Euro
+
+**Liefer­zeiten**
+
+Unsere Erfahrungen besagen, dass Sie inner­halb der kommenden 3-4 Werk­tage die gewünschte Sendung erhalten werden. Bitte beachten Sie: Vorbestellte Produkte werden erst nach dem Erscheinungs­termin ausgeliefert.
+
+Bei Teillieferungen entstehen keine zusätzlichen Versand­kosten.
+
+**Auslands­bestel­lungen**
+
+Bestel­lungen sind über diesen Webshop nur an Liefer­adressen in Deutsch­land möglich. Für Auslands­bestel­lungen wenden Sie sich bitte an unsere Bestell-Hotline. Bei Auslands­bestel­lungen betragen die Versand­kosten pauschal 20 Euro.  
+Bitte beachten Sie: Abonnenten-Sonderpreise gelten nur für Kundinnen und Kunden mit Wohn­sitz in Deutsch­land.
+
+**Retouren­schein online**
+
+Im Falle einer Rück­sendung inner­halb Deutsch­lands können Sie einen Retouren­schein einfach selbst über das Internet ausdrucken. Klicken Sie auf diesen Link: [Zum DHL-Retourenportal](https://www.dhl.de/retoure/gw/rpcustomerweb/OrderEntry.action?hash=2552fa29a3205286c83b194fefa63c93ed45f3976a25f899ea8779f0c14be257). Geben Sie Ihre Daten ein, drucken Sie den Rück­sendebeleg aus und kleben Sie den Beleg auf Ihr Paket. Ihr Paket können Sie anschließend kostenlos bei der Post abgeben.
+
+### Portokosten für Print-Abonnements (pro Ausgabe)
+
+**test-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,60 €
+* Schweiz: 1,20 sFr.
+* restliches Ausland: 2,00 € (Normal­versand)
+
+**Finanztest-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,50 €
+* Schweiz: 0,80 sFr.
+* restliches Ausland: 1,40 € (Normal­versand)
+
+**Komfort-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,60 €
+* Schweiz: 1,20 sFr.
+* restliches Ausland: 2,00 € (Normal­versand)
+
 Abrechnung, Lauf­zeit und Kündigung der test.de-Flatrate
 --------------------------------------------------------
 
@@ -2241,9 +2399,9 @@ Für 14,90 € monatlich oder 70,80 € im Jahr erhalten Sie Zugriff auf alle 
 
 **Bezahlen.** Als Zahlungs­mittel können Sie PayPal, Kreditkarte oder Bank­einzug nutzen. Mehr Infos zu den Zahlungs­mitteln siehe Bezahl­möglich­keiten.
 
-**Ausgeschlossen.** Bücher und Spezial-Hefte im [Shop](https://www.test.de/shop/) sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
+**Ausgeschlossen.** Bücher und Spezial-Hefte im Shop sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
 
-[test.de-Flatrate erwerben](https://www.test.de/abo/flatrate/)
+test.de-Flatrate erwerben
 
 Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)
 ------------------------------------------------------------------
@@ -2269,9 +2427,11 @@ Nächste Seite
 1. [Überblick](https://www.test.de/Hilfe-5836822-0/)
 2. [Barrierefreiheit](https://www.test.de/Hilfe-5836822-5104070/)
 3. [Daten­schutz](https://www.test.de/Hilfe-5836822-5313981/)
-4. [Fern­absatz­recht](https://www.test.de/Hilfe-5836822-6060974/)
-5. [Javascript](https://www.test.de/Hilfe-5836822-5767013/)
-6. Lieferungs- und Zahlungs­bedingungen
+4. [Fern­absatz­recht für digitale Inhalte (Flatrates, PDFs, ePubs, Einzel­tests und digitale Publikationen)](https://www.test.de/Hilfe-5836822-6060974/)
+5. [Fern­absatz­recht für Zeit­schriften-, Kombi- und Komfort-Abonnements](https://www.test.de/Hilfe-5836822-6158741/)
+6. [Fern­absatz­recht für Bücher, Hefte und CD-Roms](https://www.test.de/Hilfe-5836822-6158749/)
+7. [Javascript](https://www.test.de/Hilfe-5836822-5767013/)
+8. Lieferungs- und Zahlungs­bedingungen
     1. [Käufe aus dem Ausland](#id5105457)
     2. [Bereit­stellung digi­taler Inhalte](#id5313974)
     3. [Bezahl­möglich­keiten](#id5284888)
@@ -2279,16 +2439,17 @@ Nächste Seite
     5. [SEPA-Last­schrift (Bank­einzug)](#id5284894)
     6. [PayPal](#id5284891)
     7. [Gutschein](#id5284895)
-    8. [Abrechnung, Lauf­zeit und Kündigung der test.de-Flatrate](#id5284889)
-    9. [Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)](#id5105478)
-7. [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
-8. [Newsletter und RSS](https://www.test.de/Hilfe-5836822-5105546/)
-9. [Online Artikel](https://www.test.de/Hilfe-5836822-5284881/)
-10. [Shop und Abo](https://www.test.de/Hilfe-5836822-5105537/)
-11. [Sicherheit auf test.de](https://www.test.de/Hilfe-5836822-5303904/)
-12. [Suchen und Finden](https://www.test.de/Hilfe-5836822-5121459/)
-13. [test.de-Netiquette](https://www.test.de/Hilfe-5836822-5104319/)
-14. [Informationen für Firmen](https://www.test.de/Hilfe-5836822-5989200/)
+    8. [Versand­kosten und Lieferungs­bedingungen](#id6149682)
+    9. [Abrechnung, Lauf­zeit und Kündigung der test.de-Flatrate](#id5284889)
+    10. [Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)](#id5105478)
+9. [Mein Konto](https://www.test.de/Hilfe-5836822-5225600/)
+10. [Newsletter und RSS](https://www.test.de/Hilfe-5836822-5105546/)
+11. [Online Artikel](https://www.test.de/Hilfe-5836822-5284881/)
+12. [Shop und Abo](https://www.test.de/Hilfe-5836822-5105537/)
+13. [Sicherheit auf test.de](https://www.test.de/Hilfe-5836822-5303904/)
+14. [Suchen und Finden](https://www.test.de/Hilfe-5836822-5121459/)
+15. [test.de-Netiquette](https://www.test.de/Hilfe-5836822-5104319/)
+16. [Informationen für Firmen](https://www.test.de/Hilfe-5836822-5989200/)
 
 Käufe aus dem Ausland
 ---------------------
@@ -2323,9 +2484,15 @@ Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 Bezahl­möglich­keiten
 ---------------------
 
-Zum Bezahlen der test.de-Flatrate, der Online-Artikel und der digitalen Varianten von Büchern und Heften stehen Ihnen mehrere Möglich­keiten zur Verfügung.
+### Kauf von digitalen Inhalten
+
+Zum Bezahlen der test.de-Flatrate stehen Ihnen mehrere Möglich­keiten zur Verfügung:
 
    ![Hilfe - Häufig gestellte Fragen](https://cdn.test.de/file/image/23/88/8a2a96f8-fdc8-4683-a308-4d528b1df383-web/5849867_Bezahlmoeglichkeiten_2023.jpg)
+
+Zum Bezahlen von Online-Artikeln und den digitalen Varianten von Büchern und Heften können Sie folgende Bezahl­möglich­keiten nutzen:
+
+   ![Hilfe - Häufig gestellte Fragen](https://cdn.test.de/file/image/a9/23/2ec0465a-1085-480b-8432-cbb439e5b209-web/6149759_Bezahlmoeglichkeiten_Artikel_PDF_2024.jpg)
 
 Bei Zahlung mit Kreditkarte oder SEPA-Last­schrift erfolgt die Zahlungs­abwick­lung über den Bezahl­dienst­leister Stripe:
 
@@ -2344,6 +2511,17 @@ Prielmayer­straße 3
 Deutsch­land
 
 Die Daten­schutz­erklärung von Stripe finden Sie [hier](https://stripe.com/de/privacy).
+
+### Kauf von Heften, Büchern und CD-Roms im Shop
+
+Für Bestel­lungen in unserem Webshop können Sie zwischen folgenden Bezahl­verfahren wählen:
+
+* Rechnung (nicht bei abweichender Liefer­adresse)
+* Bank­einzug (nicht bei abweichender Liefer­adresse)
+* Kreditkarte
+* PayPal
+
+Achtung: Bitte prüfen Sie, ob Ihr Browser starke Verschlüsselung unterstützt. Falls das nicht der Fall ist, empfehlen wir eine Bestellung per Rechnung.
 
 Kreditkarte
 -----------
@@ -2399,6 +2577,54 @@ Gutschein
 
 Geben Sie Ihren Gutscheincode direkt im Bezahl­vorgang ein und klicken Sie auf „Anwenden“.
 
+Versand­kosten und Lieferungs­bedingungen
+-----------------------------------------
+
+### Lieferung von Büchern und Einzel­heften aus dem Webshop (inner­halb Deutsch­lands)
+
+**Versand­kosten**
+
+* 2,50 Euro bei einem Bestell­wert unter 10,00 Euro
+* Versand­kostenfrei bei einem Bestell­wert ab 10,00 Euro
+
+**Liefer­zeiten**
+
+Unsere Erfahrungen besagen, dass Sie inner­halb der kommenden 3-4 Werk­tage die gewünschte Sendung erhalten werden. Bitte beachten Sie: Vorbestellte Produkte werden erst nach dem Erscheinungs­termin ausgeliefert.
+
+Bei Teillieferungen entstehen keine zusätzlichen Versand­kosten.
+
+**Auslands­bestel­lungen**
+
+Bestel­lungen sind über diesen Webshop nur an Liefer­adressen in Deutsch­land möglich. Für Auslands­bestel­lungen wenden Sie sich bitte an unsere Bestell-Hotline. Bei Auslands­bestel­lungen betragen die Versand­kosten pauschal 20 Euro.  
+Bitte beachten Sie: Abonnenten-Sonderpreise gelten nur für Kundinnen und Kunden mit Wohn­sitz in Deutsch­land.
+
+**Retouren­schein online**
+
+Im Falle einer Rück­sendung inner­halb Deutsch­lands können Sie einen Retouren­schein einfach selbst über das Internet ausdrucken. Klicken Sie auf diesen Link: [Zum DHL-Retourenportal](https://www.dhl.de/retoure/gw/rpcustomerweb/OrderEntry.action?hash=2552fa29a3205286c83b194fefa63c93ed45f3976a25f899ea8779f0c14be257). Geben Sie Ihre Daten ein, drucken Sie den Rück­sendebeleg aus und kleben Sie den Beleg auf Ihr Paket. Ihr Paket können Sie anschließend kostenlos bei der Post abgeben.
+
+### Portokosten für Print-Abonnements (pro Ausgabe)
+
+**test-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,60 €
+* Schweiz: 1,20 sFr.
+* restliches Ausland: 2,00 € (Normal­versand)
+
+**Finanztest-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,50 €
+* Schweiz: 0,80 sFr.
+* restliches Ausland: 1,40 € (Normal­versand)
+
+**Komfort-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,60 €
+* Schweiz: 1,20 sFr.
+* restliches Ausland: 2,00 € (Normal­versand)
+
 Abrechnung, Lauf­zeit und Kündigung der test.de-Flatrate
 --------------------------------------------------------
 
@@ -2412,9 +2638,9 @@ Für 14,90 € monatlich oder 70,80 € im Jahr erhalten Sie Zugriff auf alle 
 
 **Bezahlen.** Als Zahlungs­mittel können Sie PayPal, Kreditkarte oder Bank­einzug nutzen. Mehr Infos zu den Zahlungs­mitteln siehe Bezahl­möglich­keiten.
 
-**Ausgeschlossen.** Bücher und Spezial-Hefte im [Shop](https://www.test.de/shop/) sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
+**Ausgeschlossen.** Bücher und Spezial-Hefte im Shop sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
 
-[test.de-Flatrate erwerben](https://www.test.de/abo/flatrate/)
+test.de-Flatrate erwerben
 
 Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)
 ------------------------------------------------------------------
@@ -2486,9 +2712,15 @@ Stiftung Warentest: Unabhängig. Objektiv. Unbestechlich.
 Bezahl­möglich­keiten
 ---------------------
 
-Zum Bezahlen der test.de-Flatrate, der Online-Artikel und der digitalen Varianten von Büchern und Heften stehen Ihnen mehrere Möglich­keiten zur Verfügung.
+### Kauf von digitalen Inhalten
+
+Zum Bezahlen der test.de-Flatrate stehen Ihnen mehrere Möglich­keiten zur Verfügung:
 
    ![Hilfe - Häufig gestellte Fragen](https://cdn.test.de/file/image/23/88/8a2a96f8-fdc8-4683-a308-4d528b1df383-web/5849867_Bezahlmoeglichkeiten_2023.jpg)
+
+Zum Bezahlen von Online-Artikeln und den digitalen Varianten von Büchern und Heften können Sie folgende Bezahl­möglich­keiten nutzen:
+
+   ![Hilfe - Häufig gestellte Fragen](https://cdn.test.de/file/image/a9/23/2ec0465a-1085-480b-8432-cbb439e5b209-web/6149759_Bezahlmoeglichkeiten_Artikel_PDF_2024.jpg)
 
 Bei Zahlung mit Kreditkarte oder SEPA-Last­schrift erfolgt die Zahlungs­abwick­lung über den Bezahl­dienst­leister Stripe:
 
@@ -2508,9 +2740,26 @@ Deutsch­land
 
 Die Daten­schutz­erklärung von Stripe finden Sie [hier](https://stripe.com/de/privacy).
 
-Zum Bezahlen der test.de-Flatrate, der Online-Artikel und der digitalen Varianten von Büchern und Heften stehen Ihnen mehrere Möglich­keiten zur Verfügung.
+### Kauf von Heften, Büchern und CD-Roms im Shop
+
+Für Bestel­lungen in unserem Webshop können Sie zwischen folgenden Bezahl­verfahren wählen:
+
+* Rechnung (nicht bei abweichender Liefer­adresse)
+* Bank­einzug (nicht bei abweichender Liefer­adresse)
+* Kreditkarte
+* PayPal
+
+Achtung: Bitte prüfen Sie, ob Ihr Browser starke Verschlüsselung unterstützt. Falls das nicht der Fall ist, empfehlen wir eine Bestellung per Rechnung.
+
+### Kauf von digitalen Inhalten
+
+Zum Bezahlen der test.de-Flatrate stehen Ihnen mehrere Möglich­keiten zur Verfügung:
 
    ![Hilfe - Häufig gestellte Fragen](https://cdn.test.de/file/image/23/88/8a2a96f8-fdc8-4683-a308-4d528b1df383-web/5849867_Bezahlmoeglichkeiten_2023.jpg)
+
+Zum Bezahlen von Online-Artikeln und den digitalen Varianten von Büchern und Heften können Sie folgende Bezahl­möglich­keiten nutzen:
+
+   ![Hilfe - Häufig gestellte Fragen](https://cdn.test.de/file/image/a9/23/2ec0465a-1085-480b-8432-cbb439e5b209-web/6149759_Bezahlmoeglichkeiten_Artikel_PDF_2024.jpg)
 
 Bei Zahlung mit Kreditkarte oder SEPA-Last­schrift erfolgt die Zahlungs­abwick­lung über den Bezahl­dienst­leister Stripe:
 
@@ -2529,6 +2778,17 @@ Prielmayer­straße 3
 Deutsch­land
 
 Die Daten­schutz­erklärung von Stripe finden Sie [hier](https://stripe.com/de/privacy).
+
+### Kauf von Heften, Büchern und CD-Roms im Shop
+
+Für Bestel­lungen in unserem Webshop können Sie zwischen folgenden Bezahl­verfahren wählen:
+
+* Rechnung (nicht bei abweichender Liefer­adresse)
+* Bank­einzug (nicht bei abweichender Liefer­adresse)
+* Kreditkarte
+* PayPal
+
+Achtung: Bitte prüfen Sie, ob Ihr Browser starke Verschlüsselung unterstützt. Falls das nicht der Fall ist, empfehlen wir eine Bestellung per Rechnung.
 
 Kreditkarte
 -----------
@@ -2626,6 +2886,99 @@ Geben Sie Ihren Gutscheincode direkt im Bezahl­vorgang ein und klicken Sie auf 
 
 Geben Sie Ihren Gutscheincode direkt im Bezahl­vorgang ein und klicken Sie auf „Anwenden“.
 
+Versand­kosten und Lieferungs­bedingungen
+-----------------------------------------
+
+### Lieferung von Büchern und Einzel­heften aus dem Webshop (inner­halb Deutsch­lands)
+
+**Versand­kosten**
+
+* 2,50 Euro bei einem Bestell­wert unter 10,00 Euro
+* Versand­kostenfrei bei einem Bestell­wert ab 10,00 Euro
+
+**Liefer­zeiten**
+
+Unsere Erfahrungen besagen, dass Sie inner­halb der kommenden 3-4 Werk­tage die gewünschte Sendung erhalten werden. Bitte beachten Sie: Vorbestellte Produkte werden erst nach dem Erscheinungs­termin ausgeliefert.
+
+Bei Teillieferungen entstehen keine zusätzlichen Versand­kosten.
+
+**Auslands­bestel­lungen**
+
+Bestel­lungen sind über diesen Webshop nur an Liefer­adressen in Deutsch­land möglich. Für Auslands­bestel­lungen wenden Sie sich bitte an unsere Bestell-Hotline. Bei Auslands­bestel­lungen betragen die Versand­kosten pauschal 20 Euro.  
+Bitte beachten Sie: Abonnenten-Sonderpreise gelten nur für Kundinnen und Kunden mit Wohn­sitz in Deutsch­land.
+
+**Retouren­schein online**
+
+Im Falle einer Rück­sendung inner­halb Deutsch­lands können Sie einen Retouren­schein einfach selbst über das Internet ausdrucken. Klicken Sie auf diesen Link: [Zum DHL-Retourenportal](https://www.dhl.de/retoure/gw/rpcustomerweb/OrderEntry.action?hash=2552fa29a3205286c83b194fefa63c93ed45f3976a25f899ea8779f0c14be257). Geben Sie Ihre Daten ein, drucken Sie den Rück­sendebeleg aus und kleben Sie den Beleg auf Ihr Paket. Ihr Paket können Sie anschließend kostenlos bei der Post abgeben.
+
+### Portokosten für Print-Abonnements (pro Ausgabe)
+
+**test-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,60 €
+* Schweiz: 1,20 sFr.
+* restliches Ausland: 2,00 € (Normal­versand)
+
+**Finanztest-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,50 €
+* Schweiz: 0,80 sFr.
+* restliches Ausland: 1,40 € (Normal­versand)
+
+**Komfort-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,60 €
+* Schweiz: 1,20 sFr.
+* restliches Ausland: 2,00 € (Normal­versand)
+
+### Lieferung von Büchern und Einzel­heften aus dem Webshop (inner­halb Deutsch­lands)
+
+**Versand­kosten**
+
+* 2,50 Euro bei einem Bestell­wert unter 10,00 Euro
+* Versand­kostenfrei bei einem Bestell­wert ab 10,00 Euro
+
+**Liefer­zeiten**
+
+Unsere Erfahrungen besagen, dass Sie inner­halb der kommenden 3-4 Werk­tage die gewünschte Sendung erhalten werden. Bitte beachten Sie: Vorbestellte Produkte werden erst nach dem Erscheinungs­termin ausgeliefert.
+
+Bei Teillieferungen entstehen keine zusätzlichen Versand­kosten.
+
+**Auslands­bestel­lungen**
+
+Bestel­lungen sind über diesen Webshop nur an Liefer­adressen in Deutsch­land möglich. Für Auslands­bestel­lungen wenden Sie sich bitte an unsere Bestell-Hotline. Bei Auslands­bestel­lungen betragen die Versand­kosten pauschal 20 Euro.  
+Bitte beachten Sie: Abonnenten-Sonderpreise gelten nur für Kundinnen und Kunden mit Wohn­sitz in Deutsch­land.
+
+**Retouren­schein online**
+
+Im Falle einer Rück­sendung inner­halb Deutsch­lands können Sie einen Retouren­schein einfach selbst über das Internet ausdrucken. Klicken Sie auf diesen Link: [Zum DHL-Retourenportal](https://www.dhl.de/retoure/gw/rpcustomerweb/OrderEntry.action?hash=2552fa29a3205286c83b194fefa63c93ed45f3976a25f899ea8779f0c14be257). Geben Sie Ihre Daten ein, drucken Sie den Rück­sendebeleg aus und kleben Sie den Beleg auf Ihr Paket. Ihr Paket können Sie anschließend kostenlos bei der Post abgeben.
+
+### Portokosten für Print-Abonnements (pro Ausgabe)
+
+**test-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,60 €
+* Schweiz: 1,20 sFr.
+* restliches Ausland: 2,00 € (Normal­versand)
+
+**Finanztest-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,50 €
+* Schweiz: 0,80 sFr.
+* restliches Ausland: 1,40 € (Normal­versand)
+
+**Komfort-Abonnement**
+
+* Deutsch­land: versand­kostenfrei
+* Österreich: 0,60 €
+* Schweiz: 1,20 sFr.
+* restliches Ausland: 2,00 € (Normal­versand)
+
 Abrechnung, Lauf­zeit und Kündigung der test.de-Flatrate
 --------------------------------------------------------
 
@@ -2639,9 +2992,9 @@ Für 14,90 € monatlich oder 70,80 € im Jahr erhalten Sie Zugriff auf alle 
 
 **Bezahlen.** Als Zahlungs­mittel können Sie PayPal, Kreditkarte oder Bank­einzug nutzen. Mehr Infos zu den Zahlungs­mitteln siehe Bezahl­möglich­keiten.
 
-**Ausgeschlossen.** Bücher und Spezial-Hefte im [Shop](https://www.test.de/shop/) sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
+**Ausgeschlossen.** Bücher und Spezial-Hefte im Shop sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
 
-[test.de-Flatrate erwerben](https://www.test.de/abo/flatrate/)
+test.de-Flatrate erwerben
 
 Für 14,90 € monatlich oder 70,80 € im Jahr erhalten Sie Zugriff auf alle auf test.de verfügbaren Reports und Test­ergeb­nisse der Stiftung Warentest. Das sind Tests aus zahlreichen Produkt­welten – von Versicherungen über Geld­anlage­angebote bis zu Haus­halts­geräten.
 
@@ -2653,9 +3006,9 @@ Für 14,90 € monatlich oder 70,80 € im Jahr erhalten Sie Zugriff auf alle 
 
 **Bezahlen.** Als Zahlungs­mittel können Sie PayPal, Kreditkarte oder Bank­einzug nutzen. Mehr Infos zu den Zahlungs­mitteln siehe Bezahl­möglich­keiten.
 
-**Ausgeschlossen.** Bücher und Spezial-Hefte im [Shop](https://www.test.de/shop/) sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
+**Ausgeschlossen.** Bücher und Spezial-Hefte im Shop sind nicht Bestand­teil des Flatrate-Angebots. Sie müssen separat gezahlt werden.
 
-[test.de-Flatrate erwerben](https://www.test.de/abo/flatrate/)
+test.de-Flatrate erwerben
 
 Informationen zur außerge­richt­lichen Online-Streitbeilegung (EU)
 ------------------------------------------------------------------
@@ -2729,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
 * [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
 * [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
 
 Neueste Tests
 
@@ -2803,36 +3156,50 @@ Neueste Tests
 
 test.de entdecken
 
-* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
 * [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
-* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
+* [Outdoorja­cken im Schad­stoff­test: Schädliche Chemie in Kinder­kleidung](https://www.test.de/Outdoorjacken-im-Schadstofftest-Schaedliche-Chemie-in-Kinderkleidung-6117922-0/ "Outdoorjacken im Schadstofftest - Schädliche Chemie in Kinderkleidung")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Finanzen über­prüfen: Mit wenig Aufwand mehr Geld – das geht](https://www.test.de/Finanzen-ueberpruefen-Geld-reinholen-6094637-0/ "Finanzen überprüfen - Mit wenig Aufwand mehr Geld – das geht")
 
-Service Stiftung Warentest
+Stiftung Warentest
 
 * [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
 * [Presse](https://www.test.de/presse/)
-* [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
 
-Service test.de
+test.de
 
 * [Alle Themen A-Z](https://www.test.de/thema/)
 * [Archiv](https://www.test.de/archiv/)
-* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 * [Newsletter abonnieren](https://www.test.de/newsletter/)
 * [RSS Feed](https://www.test.de/rss/)
 
+Abo
+
+* [Print-Abos](https://www.test.de/abo/print/)
+* [Digital-Abos](https://www.test.de/abo/digital/)
+* [Abo verwalten](https://abo-serviceportal.stiftung-warentest.de/s/)
+* [Abo kündigen](https://abo-serviceportal.stiftung-warentest.de/s/contactsupport?contactReason=K%C3%BCndigung&DPV_Kuendigung__c=mit%20Anschrift)
+
+Kundenservice
+
+* [Kontakt](https://www.test.de/kontakt/)
+* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
+* [Lieferung & Zahlung](https://www.test.de/Hilfe-5836822-5313970/)
+* [Fernabsatzrecht für digitale Inhalte](https://www.test.de/Hilfe-5836822-6060974/)
+* [Fernabsatzrecht für Zeitschriften-Abonnements](https://www.test.de/Hilfe-5836822-6158741/)
+* [Fernabsatzrecht für Bücher, Hefte und CD-Roms](https://www.test.de/Hilfe-5836822-6158749/)
+
 Social Media
 
-* [Facebook](https://www.facebook.com/stiftungwarentest/)
-* [Instagram](https://www.instagram.com/stiftungwarentest)
-* [Twitter](https://twitter.com/warentest)
-* [Youtube](https://www.youtube.com/user/stiftungwarentest)
+* [](https://www.facebook.com/stiftungwarentest/)
+* [](https://www.instagram.com/stiftungwarentest)
+* [](https://twitter.com/warentest)
+* [](https://www.youtube.com/user/stiftungwarentest)
 
 * [Datenschutz](https://www.test.de/datenschutz/)
 * [Cookie Richtlinie](https://www.test.de/cookie-richtlinie/)
@@ -2842,53 +3209,74 @@ Social Media
 
 © Stiftung Warentest. Alle Rechte vorbehalten.
 
-Service Stiftung Warentest
+Stiftung Warentest
 
 * [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
 * [Presse](https://www.test.de/presse/)
-* [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
 
-Service test.de
+test.de
 
 * [Alle Themen A-Z](https://www.test.de/thema/)
 * [Archiv](https://www.test.de/archiv/)
-* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 * [Newsletter abonnieren](https://www.test.de/newsletter/)
 * [RSS Feed](https://www.test.de/rss/)
 
-Social Media
+Abo
 
-* [Facebook](https://www.facebook.com/stiftungwarentest/)
-* [Instagram](https://www.instagram.com/stiftungwarentest)
-* [Twitter](https://twitter.com/warentest)
-* [Youtube](https://www.youtube.com/user/stiftungwarentest)
+* [Print-Abos](https://www.test.de/abo/print/)
+* [Digital-Abos](https://www.test.de/abo/digital/)
+* [Abo verwalten](https://abo-serviceportal.stiftung-warentest.de/s/)
+* [Abo kündigen](https://abo-serviceportal.stiftung-warentest.de/s/contactsupport?contactReason=K%C3%BCndigung&DPV_Kuendigung__c=mit%20Anschrift)
 
-Service Stiftung Warentest
+Kundenservice
+
+* [Kontakt](https://www.test.de/kontakt/)
+* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
+* [Lieferung & Zahlung](https://www.test.de/Hilfe-5836822-5313970/)
+* [Fernabsatzrecht für digitale Inhalte](https://www.test.de/Hilfe-5836822-6060974/)
+* [Fernabsatzrecht für Zeitschriften-Abonnements](https://www.test.de/Hilfe-5836822-6158741/)
+* [Fernabsatzrecht für Bücher, Hefte und CD-Roms](https://www.test.de/Hilfe-5836822-6158749/)
+
+Stiftung Warentest
 
 * [Über uns](https://www.test.de/unternehmen/)
 * [So testen wir](https://www.test.de/unternehmen/testablauf-5017344-0/)
 * [Presse](https://www.test.de/presse/)
-* [Kontakt](https://www.test.de/kontakt/)
 * [Jobs & Karriere](https://www.test.de/unternehmen/karriere-bei-der-stiftung-warentest-5017301-0/)
 * [About us](https://www.test.de/aboutus/)
 
-Service test.de
+test.de
 
 * [Alle Themen A-Z](https://www.test.de/thema/)
 * [Archiv](https://www.test.de/archiv/)
-* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
 * [Newsletter abonnieren](https://www.test.de/newsletter/)
 * [RSS Feed](https://www.test.de/rss/)
 
+Abo
+
+* [Print-Abos](https://www.test.de/abo/print/)
+* [Digital-Abos](https://www.test.de/abo/digital/)
+* [Abo verwalten](https://abo-serviceportal.stiftung-warentest.de/s/)
+* [Abo kündigen](https://abo-serviceportal.stiftung-warentest.de/s/contactsupport?contactReason=K%C3%BCndigung&DPV_Kuendigung__c=mit%20Anschrift)
+
+Kundenservice
+
+* [Kontakt](https://www.test.de/kontakt/)
+* [Hilfe](https://www.test.de/Hilfe-5836822-0/)
+* [Lieferung & Zahlung](https://www.test.de/Hilfe-5836822-5313970/)
+* [Fernabsatzrecht für digitale Inhalte](https://www.test.de/Hilfe-5836822-6060974/)
+* [Fernabsatzrecht für Zeitschriften-Abonnements](https://www.test.de/Hilfe-5836822-6158741/)
+* [Fernabsatzrecht für Bücher, Hefte und CD-Roms](https://www.test.de/Hilfe-5836822-6158749/)
+
 Social Media
 
-* [Facebook](https://www.facebook.com/stiftungwarentest/)
-* [Instagram](https://www.instagram.com/stiftungwarentest)
-* [Twitter](https://twitter.com/warentest)
-* [Youtube](https://www.youtube.com/user/stiftungwarentest)
+* [](https://www.facebook.com/stiftungwarentest/)
+* [](https://www.instagram.com/stiftungwarentest)
+* [](https://twitter.com/warentest)
+* [](https://www.youtube.com/user/stiftungwarentest)
 
 * [Datenschutz](https://www.test.de/datenschutz/)
 * [Cookie Richtlinie](https://www.test.de/cookie-richtlinie/)
