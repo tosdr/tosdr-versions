@@ -391,22 +391,24 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Play Dominoes](https://www.wikihow.com/images/thumb/2/26/Play-Dominoes-Step-16.jpg/-crop-126-120-126px-Play-Dominoes-Step-16.jpg)
+
+How to  
+Play Dominoes](https://www.wikihow.com/Play-Dominoes)
+
+[![Schedule a Text](https://www.wikihow.com/images/thumb/c/c9/Schedule-a-Text-Step-20.jpg/-crop-126-120-126px-Schedule-a-Text-Step-20.jpg)
+
+How to  
+Schedule a Text Message on iPhone or Android](https://www.wikihow.com/Schedule-a-Text)
+
+[![Dating Profile Bio](https://www.wikihow.com/images/thumb/3/33/Dating-Profile-Bio-Step-17.jpg/-crop-126-120-126px-Dating-Profile-Bio-Step-17.jpg)
+
+How to  
+Write a Dating Profile Bio: 60+ Funny, Clever & Flirty Examples](https://www.wikihow.com/Dating-Profile-Bio)
+
 [![Connect My Phone to My TV](https://www.wikihow.com/images/thumb/c/c1/Connect-My-Phone-to-My-TV-Step-17-Version-2.jpg/-crop-126-120-126px-Connect-My-Phone-to-My-TV-Step-17-Version-2.jpg)
 
 4 Easy Ways to Connect an iPhone or Android to a TV](https://www.wikihow.com/Connect-My-Phone-to-My-TV)
-
-[![Happy Birthday Mother in Law](https://www.wikihow.com/images/thumb/b/ba/Happy-Birthday-Mother-in-Law-Step-8-Version-2.jpg/-crop-126-120-126px-Happy-Birthday-Mother-in-Law-Step-8-Version-2.jpg)
-
-150 Quotes, Jokes & Birthday Wishes for Your Mother-in-Law](https://www.wikihow.com/Happy-Birthday-Mother-in-Law)
-
-[![Red Spider Lily Meaning](https://www.wikihow.com/images/thumb/0/06/Red-Spider-Lily-Meaning-Step-12.jpg/-crop-126-120-126px-Red-Spider-Lily-Meaning-Step-12.jpg)
-
-A Guide to the Symbolism & Spiritual Lore of Red Spider Lilies](https://www.wikihow.com/Red-Spider-Lily-Meaning)
-
-[![Avoid Amazon](https://www.wikihow.com/images/thumb/4/47/Avoid-Amazon-Step-1.jpg/-crop-126-120-126px-Avoid-Amazon-Step-1.jpg)
-
-How to  
-Stop Using Amazon & Make More Ethical Purchases](https://www.wikihow.com/Avoid-Amazon)
 
   
 
@@ -449,4 +451,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-186
+199
