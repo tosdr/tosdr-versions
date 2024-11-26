@@ -588,12 +588,6 @@ Your cart is empty
     * [Hard Drive Calculator](https://www.lorex.com/pages/hdd-calculator)
     * [Reset Device Password](https://help.lorextechnology.com/link/portal/57356/57366/Article/3774/how-reset-your-password)
 
-  
-
-  
-
-**Black Friday Price Guarantee** | **FREE Standard Shipping** | **Extended Return Period**
-
  
 
 Lorex Cookie Notice
