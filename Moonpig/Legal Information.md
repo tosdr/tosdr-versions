@@ -78,7 +78,7 @@ Menu
     * [LEGO](https://www.moonpig.com/uk/gifts/lego/all/)
     * [Lindt](https://www.moonpig.com/uk/gifts/food/lindt-chocolate/christmas/)
     * [Maltesers & Celebrations](https://www.moonpig.com/uk/gifts/mars/christmas/)
-    * [Moët & Chandon](https://www.moonpig.com/uk/gifts/alcohol/moet/)
+    * [Moët & Chandon](https://www.moonpig.com/uk/gifts/alcohol/moet/christmas/)
     * [The Entertainer](https://www.moonpig.com/uk/gifts/the-entertainer/christmas/)
     * [Virgin Wines](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/all/)
     
