@@ -270,11 +270,11 @@ Legal
 
 [Do not sell my personal information](https://www.cyberpowerpc.com/company/ccpa.aspx)
 
-I have an account [Login](https://www.cyberpowerpc.com/customer/login.aspx)
+* I have an account [Login](https://www.cyberpowerpc.com/customer/login.aspx)
 
-Don't have an account? [Sign Up](https://www.cyberpowerpc.com/customer/registration.aspx)
+* Don't have an account? [Sign Up](https://www.cyberpowerpc.com/customer/registration.aspx)
 
-Forgot password? [Reset](https://www.cyberpowerpc.com/customer/forgotten_password.aspx)
+* Forgot password? [Reset](https://www.cyberpowerpc.com/customer/forgotten_password.aspx)
 
 [cart items](https://www.cyberpowerpc.com/cart/ "Shopping Cart")
 
