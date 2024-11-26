@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_8.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Оладушки печеночные](https://www.russianfood.com/recipes/recipe.php?rid=124047)
-* [Свиной шашлык в духовке, запечённый в банке](https://www.russianfood.com/recipes/recipe.php?rid=163559)
 * [Индейка, запечённая с яблоками и апельсинами](https://www.russianfood.com/recipes/recipe.php?rid=162991)
-* [Картофельные "лодочки" с фаршем и грибами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=162530)
-* [Клафути с брокколи, брюссельской капустой и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=174596)
 * [Торт с халвой и ореховым кремом](https://www.russianfood.com/recipes/recipe.php?rid=150322)
 * [Творожный рулет с орехами](https://www.russianfood.com/recipes/recipe.php?rid=150222)
 * [Говядина с шампиньонами в соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=150206)
 * [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623)
 * [Соус из окорока](https://www.russianfood.com/recipes/recipe.php?rid=113505)
+* [Завтрак из хека](https://www.russianfood.com/recipes/recipe.php?rid=573)
+* [Яблоки, фаршированные мясом цыпленка](https://www.russianfood.com/recipes/recipe.php?rid=926)
+* [Луковый пирог(Quiche aux oignons)](https://www.russianfood.com/recipes/recipe.php?rid=1153)
+* [Мелкая камбала (соль) с виноградом(Filet de sole Veronique)](https://www.russianfood.com/recipes/recipe.php?rid=1158)
 
 |     |
 | --- |
@@ -179,6 +179,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Конвертики из лаваша с яблоком и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174904) |     |
+
+[![Фото к рецепту: Конвертики из лаваша с яблоком и тыквой](//img1.russianfood.com/dycontent/images_upl/755/sm_754277.jpg "Фото к рецепту: Конвертики из лаваша с яблоком и тыквой")](https://www.russianfood.com/recipes/recipe.php?rid=174904)
+
+Конвертики из лаваша с начинкой из яблок, тыквы и корицы, обжаренные в ореховой панировке, - это сочетание простоты и изысканности. Нежная и ароматная начинка заворачивается в лаваш, конвертики панируются в крошке из арахиса и обжариваются на сковороде. Получаются нежными внутри, с хрустящей корочкой и ярким вкусом.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174904)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174904#comments) | 26.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Конвертики с курагой, изюмом и цедрой](https://www.russianfood.com/recipes/recipe.php?rid=174923) |     |
+
+[![Фото к рецепту: Конвертики с курагой, изюмом и цедрой](//img1.russianfood.com/dycontent/images_upl/755/sm_754778.jpg "Фото к рецепту: Конвертики с курагой, изюмом и цедрой")](https://www.russianfood.com/recipes/recipe.php?rid=174923)
+
+Конвертики из песочно-дрожжевого теста на сметане просто великолепны – нежные, воздушные, и много ароматной начинки: курага, изюм, апельсиновый сок и цедра лимона. Настоящее наслаждение! Украшаем конвертики невесомой сахарной пудрой. Рецепт простой, рекомендую приготовить такие чудесные конвертики к чаю.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174923)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174923#comments) | 26.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Рыба, запечённая с овощами в лодочках из пергамента](https://www.russianfood.com/recipes/recipe.php?rid=174908) |     |
+
+[![Фото к рецепту: Рыба, запечённая с овощами в лодочках из пергамента](//img1.russianfood.com/dycontent/images_upl/755/sm_754387.jpg "Фото к рецепту: Рыба, запечённая с овощами в лодочках из пергамента")](https://www.russianfood.com/recipes/recipe.php?rid=174908)
+
+Рыба в духовке, приготовленная в лодочках из пергамента, получается необыкновенно вкусной, сочной, пропитанной ароматным маринадом. Рыбу и овощи можно использовать любые. Рецепт очень простой, а получается очень вкусно и полезно! Очень рекомендую приготовить и попробовать.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174908)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174908#comments) | 26.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -348,48 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174533#comments) | 22.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Фунчоза с креветками в соусе терияки](https://www.russianfood.com/recipes/recipe.php?rid=174194) |     |
-
-[![Фото к рецепту: Фунчоза с креветками в соусе терияки](//img1.russianfood.com/dycontent/images_upl/753/sm_752886.jpg "Фото к рецепту: Фунчоза с креветками в соусе терияки")](https://www.russianfood.com/recipes/recipe.php?rid=174194)
-
-Соус терияки соединяет обжаренные креветки, болгарский перец, репчатый лук и запаренную фунчозу в единое блюдо. Шпинат добавляет изысканный вкус, а укроп и зелёный лук – свежий аромат.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174194)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174194#comments) | 22.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Стейки из цветной капусты с курицей и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174265) |     |
-
-[![Фото к рецепту: Стейки из цветной капусты с курицей и сыром](//img1.russianfood.com/dycontent/images_upl/740/sm_739830.jpg "Фото к рецепту: Стейки из цветной капусты с курицей и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174265)
-
-Кусочки куриного филе смешиваются с сыром, сметаной, горчицей и приправами. Затем курица в ароматом соусе выкладывается на стейки из цветной капусты, а завершают композицию – кружочки помидора и сыр. Такое яркое и аппетитное блюдо станет украшением любого стола.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174265)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174265#comments) | 22.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Макароны с курицей, брокколи и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174263) |     |
-
-[![Фото к рецепту: Макароны с курицей, брокколи и зелёным горошком](//img1.russianfood.com/dycontent/images_upl/739/sm_738999.jpg "Фото к рецепту: Макароны с курицей, брокколи и зелёным горошком")](https://www.russianfood.com/recipes/recipe.php?rid=174263)
-
-Макароны с курицей и овощами в соусе – это всегда вкусно! По этому рецепту компанию куриному мясу составят брокколи и зелёный горошек, а молочно-сырный соус вкусно соединит все ингредиенты.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174263)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174263#comments) | 22.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -457,6 +457,13 @@
 |     |     |
 | [Подписаться письмом](mailto:home.cookery.prostierecepti-sub@subscribe.ru?subj=subscribe) |     |
 
+Новые рецепты:
+
+|     |     |     |
+| --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754387.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754277.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
+| [Рыба, запечённая с овощами в лодочках из пергамента](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [Конвертики с курагой, изюмом и цедрой](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [Конвертики из лаваша с яблоком и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
+
 |     |     |     |
 | --- | --- | --- |
 | ![](//img1.russianfood.com/images/common/bottom_line1.jpg) | ![](//img1.russianfood.com/images/common/bottom_line2.jpg) |     |
@@ -472,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(152)
+(111)
