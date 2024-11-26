@@ -324,9 +324,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 **Email:** hello@linear.app  
 **Address**: 2261 Market St STE 10632 San Francisco, CA 94114
 
-[Linear \- Designed Worldwide](https://linear.app/)
-
-[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://linear.app/)
 
 ### Product
 
@@ -335,33 +333,41 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Pricing](https://linear.app/pricing)
 * [Changelog](https://linear.app/changelog)
 * [Docs](https://linear.app/docs)
-* [Linear Method](https://linear.app/method)
 * [Download](https://linear.app/download)
 
 ### Company
 
-* [About us](https://linear.app/about)
-* [Blog](https://linear.app/blog)
-* [Careers](https://linear.app/careers)
+* [About](https://linear.app/about)
 * [Customers](https://linear.app/customers)
+* [Careers](https://linear.app/careers)
+* [Blog](https://linear.app/blog)
+* [Method](https://linear.app/method)
+* [README](https://linear.app/readme)
 * [Brand](https://linear.app/brand)
 
 ### Resources
 
-* [Startup Program](https://linear.app/startups)
+* [Switch](https://linear.app/switch)
+* [Startups](https://linear.app/startups)
 * [Community](https://linear.app/join-slack)
-* [Contact](https://linear.app/contact)
 * [DPA](https://linear.app/dpa)
-* [Privacy Policy](https://linear.app/privacy)
-* [Terms of service](https://linear.app/terms)
-* [Report a vulnerability](https://linear.app/security/vulnerability)
+* [Privacy](https://linear.app/privacy)
+* [Terms](https://linear.app/terms)
+* [Report issue](https://linear.app/security/vulnerability)
 
 ### Developers
 
 * [API](https://developers.linear.app/)
 * [Status](https://linearstatus.com/)
 * [GitHub](https://github.com/linear)
-* [README](https://linear.app/readme)
+
+### Connect
+
+* [Contact](https://linear.app/contact)
+* [X (Twitter)](https://x.com/linear)
+* [Slack](https://linear.app/join-slack)
+* [YouTube](https://www.youtube.com/@LinearApp)
+* [GitHub](https://github.com/linear)
 
 * [](https://linear.app/homepage)
 * Features[Features](https://linear.app/features)
@@ -1037,9 +1043,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 **Email:** hello@linear.app  
 **Address**: 2261 Market St STE 10632 San Francisco, CA 94114
 
-[Linear \- Designed Worldwide](https://linear.app/)
-
-[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+[](https://linear.app/)
 
 ### Product
 
@@ -1048,39 +1052,41 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Pricing](https://linear.app/pricing)
 * [Changelog](https://linear.app/changelog)
 * [Docs](https://linear.app/docs)
-* [Linear Method](https://linear.app/method)
 * [Download](https://linear.app/download)
 
 ### Company
 
-* [About us](https://linear.app/about)
-* [Blog](https://linear.app/blog)
-* [Careers](https://linear.app/careers)
+* [About](https://linear.app/about)
 * [Customers](https://linear.app/customers)
+* [Careers](https://linear.app/careers)
+* [Blog](https://linear.app/blog)
+* [Method](https://linear.app/method)
+* [README](https://linear.app/readme)
 * [Brand](https://linear.app/brand)
 
 ### Resources
 
-* [Startup Program](https://linear.app/startups)
+* [Switch](https://linear.app/switch)
+* [Startups](https://linear.app/startups)
 * [Community](https://linear.app/join-slack)
-* [Contact](https://linear.app/contact)
 * [DPA](https://linear.app/dpa)
-* [Privacy Policy](https://linear.app/privacy)
-* [Terms of service](https://linear.app/terms)
-* [Report a vulnerability](https://linear.app/security/vulnerability)
+* [Privacy](https://linear.app/privacy)
+* [Terms](https://linear.app/terms)
+* [Report issue](https://linear.app/security/vulnerability)
 
 ### Developers
 
 * [API](https://developers.linear.app/)
 * [Status](https://linearstatus.com/)
 * [GitHub](https://github.com/linear)
-* [README](https://linear.app/readme)
 
-[Linear \- Designed Worldwide](https://linear.app/)
+### Connect
 
-[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
-
-[](https://x.com/linear)[](https://github.com/linear)[](https://linear.app/join-slack)[](https://www.youtube.com/@LinearApp)
+* [Contact](https://linear.app/contact)
+* [X (Twitter)](https://x.com/linear)
+* [Slack](https://linear.app/join-slack)
+* [YouTube](https://www.youtube.com/@LinearApp)
+* [GitHub](https://github.com/linear)
 
 ### Product
 
@@ -1089,30 +1095,38 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Pricing](https://linear.app/pricing)
 * [Changelog](https://linear.app/changelog)
 * [Docs](https://linear.app/docs)
-* [Linear Method](https://linear.app/method)
 * [Download](https://linear.app/download)
 
 ### Company
 
-* [About us](https://linear.app/about)
-* [Blog](https://linear.app/blog)
-* [Careers](https://linear.app/careers)
+* [About](https://linear.app/about)
 * [Customers](https://linear.app/customers)
+* [Careers](https://linear.app/careers)
+* [Blog](https://linear.app/blog)
+* [Method](https://linear.app/method)
+* [README](https://linear.app/readme)
 * [Brand](https://linear.app/brand)
 
 ### Resources
 
-* [Startup Program](https://linear.app/startups)
+* [Switch](https://linear.app/switch)
+* [Startups](https://linear.app/startups)
 * [Community](https://linear.app/join-slack)
-* [Contact](https://linear.app/contact)
 * [DPA](https://linear.app/dpa)
-* [Privacy Policy](https://linear.app/privacy)
-* [Terms of service](https://linear.app/terms)
-* [Report a vulnerability](https://linear.app/security/vulnerability)
+* [Privacy](https://linear.app/privacy)
+* [Terms](https://linear.app/terms)
+* [Report issue](https://linear.app/security/vulnerability)
 
 ### Developers
 
 * [API](https://developers.linear.app/)
 * [Status](https://linearstatus.com/)
 * [GitHub](https://github.com/linear)
-* [README](https://linear.app/readme)
+
+### Connect
+
+* [Contact](https://linear.app/contact)
+* [X (Twitter)](https://x.com/linear)
+* [Slack](https://linear.app/join-slack)
+* [YouTube](https://www.youtube.com/@LinearApp)
+* [GitHub](https://github.com/linear)
