@@ -359,13 +359,13 @@ Products
     
 * * [Explainable AI](https://www.juniper.net/us/en/dm/explainable-ai.html)
 
-![Bob Friday and Jessica Garrison speaking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bob Friday and Jessica Garrison speaking")
+![The Q and AI text with an image of Bob Friday and Kedar Dhuru.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Q and AI")
 
-Bob Friday Talks
+The Q&AI Podcast
 
-Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
+Delivering practical solutions and enriching discussions, this podcast series is a vital resource for those seeking an in-depth exploration of AI's transformative potential.
 
-[Catch the latest episode](https://www.juniper.net/us/en/executive-insights/bob-friday.html)
+[Catch the latest episode](https://www.juniper.net/us/en/the-feed/series/q-and-ai.html)
 
 * [Campus and branch](https://www.juniper.net/us/en/campus-and-branch.html)
     
@@ -1062,13 +1062,13 @@ Optics
     
 * * [Explainable AI](https://www.juniper.net/us/en/dm/explainable-ai.html)
 
-![Bob Friday and Jessica Garrison speaking](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bob Friday and Jessica Garrison speaking")
+![The Q and AI text with an image of Bob Friday and Kedar Dhuru.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "The Q and AI")
 
-Bob Friday Talks
+The Q&AI Podcast
 
-Join Bob as he ventures into all the knowns -- and -- unknowns -- of AI.
+Delivering practical solutions and enriching discussions, this podcast series is a vital resource for those seeking an in-depth exploration of AI's transformative potential.
 
-[Catch the latest episode](https://www.juniper.net/us/en/executive-insights/bob-friday.html)
+[Catch the latest episode](https://www.juniper.net/us/en/the-feed/series/q-and-ai.html)
 
 * [Campus and branch](https://www.juniper.net/us/en/campus-and-branch.html)
     
@@ -1535,7 +1535,7 @@ Juniper may modify this Trademark Policy from time to time, and we will post the
 
 * Popular resources
     
-* * [Events](https://www.juniper.net/us/en/events.html)
+* * [Events](https://www.juniper.net/content/juniper/us/en/events)
     * [Blogs](https://blogs.juniper.net/)
     * [Community](https://community.juniper.net/home)
     * [Image library](https://www.juniper.net/us/en/company/images.html)
