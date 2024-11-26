@@ -8,6 +8,7 @@ Getting started
 * [Supported tools](https://docs.readthedocs.io/en/stable/intro/doctools.html)
 * [Material for MkDocs](https://docs.readthedocs.io/en/stable/intro/mkdocs.html)
 * [Sphinx](https://docs.readthedocs.io/en/stable/intro/sphinx.html)
+* [Markdoc](https://docs.readthedocs.io/en/stable/intro/markdoc.html)
 * [Adding a documentation project](https://docs.readthedocs.io/en/stable/intro/add-project.html)
 * [Example projects](https://docs.readthedocs.io/en/stable/examples.html)
 
@@ -384,6 +385,7 @@ Getting started
 * [Supported tools](https://docs.readthedocs.io/en/stable/intro/doctools.html)
 * [Material for MkDocs](https://docs.readthedocs.io/en/stable/intro/mkdocs.html)
 * [Sphinx](https://docs.readthedocs.io/en/stable/intro/sphinx.html)
+* [Markdoc](https://docs.readthedocs.io/en/stable/intro/markdoc.html)
 * [Adding a documentation project](https://docs.readthedocs.io/en/stable/intro/add-project.html)
 * [Example projects](https://docs.readthedocs.io/en/stable/examples.html)
 
@@ -510,6 +512,7 @@ Getting started
 * [Supported tools](https://docs.readthedocs.io/en/stable/intro/doctools.html)
 * [Material for MkDocs](https://docs.readthedocs.io/en/stable/intro/mkdocs.html)
 * [Sphinx](https://docs.readthedocs.io/en/stable/intro/sphinx.html)
+* [Markdoc](https://docs.readthedocs.io/en/stable/intro/markdoc.html)
 * [Adding a documentation project](https://docs.readthedocs.io/en/stable/intro/add-project.html)
 * [Example projects](https://docs.readthedocs.io/en/stable/examples.html)
 
