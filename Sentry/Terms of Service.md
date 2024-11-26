@@ -20,12 +20,12 @@ This app works best with JavaScript enabled.
     
     * [JavaScript](https://sentry.io/for/javascript/)
     * [Python](https://sentry.io/for/python/)
-    * [Ruby](https://sentry.io/for/ruby/)
-    * [Node](https://sentry.io/for/node/)
-    * [Go](https://sentry.io/for/go/)
-    * [.NET](https://sentry.io/for/dot-net/)
-    * [iOS](https://sentry.io/for/cocoa/)
+    * [React](https://sentry.io/for/react/)
     * [Android](https://sentry.io/for/android/)
+    * [Laravel](https://sentry.io/for/laravel/)
+    * [NextJS](https://sentry.io/for/nextjs/)
+    * [Node](https://sentry.io/for/node/)
+    * [React Native](https://sentry.io/for/react-native/)
     * [See all](https://sentry.io/platforms/)
     
     ### Why Sentry?
