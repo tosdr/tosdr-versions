@@ -1,14 +1,6 @@
-Shop Now
+[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)
 
-20% off Frame, Canvas & Mount on Orders $99+ Ends in..
-
-0DAYS1HRS12MINS
-
-20% off Frame, Canvas & Mount on Orders $99+ Ends in..
-
-0DAYS1HRS12MINS
-
-Shop Now
+[Discover New Arrivals](https://www.art.com/gallery/id--b25816/what-s-new-posters.htm)|[Shop Our Gift Guide](https://www.art.com/gift-guide/holiday)|[Up to 50% Off Art Deals](https://www.art.com/gallery/id--b55196/art-sale-posters.htm)
 
 [](https://www.art.com/ "Art.com")
 
@@ -37,6 +29,8 @@ Cancel
 [by Collection](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm "by Collection")
 
 [Affordable Art](https://www.art.com/gallery/id--b26609/affordable-art-posters.htm "Affordable Art")
+
+[Art Sale](https://www.art.com/gallery/id--b55196/art-sale-posters.htm "Art Sale")
 
 [Decorative Art](https://www.art.com/gallery/id--c23945/decorative-art-prints.htm "Decorative Art")
 
@@ -417,6 +411,8 @@ Cancel
 [Living Room Art Ideas](https://www.art.com/lp/living-room-art-ideas "Living Room Art Ideas")
 
 [Shop All Room Ideas](https://www.art.com/lp/shopbyrooms "Shop All Room Ideas")
+
+[Gift Cards](https://www.art.com/gift-cards/GC0025?amount=50&pid=GC0025-2 "Gift Cards")
 
 Help
 ----
