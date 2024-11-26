@@ -1,18 +1,26 @@
-Don't miss our Skill Seeker Series from Sept 30 - Oct 30.
+Black Friday Deal: Take **$250 off any 2024 workshop** with code: **BF2024**
 
-[View the Schedule](https://explore.generalassemb.ly/skillseeker)
+[Choose your workshop](https://generalassemb.ly/students/courses?formatWorkshop=true)
 
-Don't miss our Skill Seeker Series from Sept 30 - Oct 30.
+Cyber Week Savings: Take **$2,025 off any bootcamp or short course** starting before 3/31
 
-[View the Schedule](https://explore.generalassemb.ly/skillseeker)
+Cyber Week Savings, Extended: Take **$2,025 off any bootcamp or short course** starting before 3/31
 
-COMING SOON: Cybersecurity. Join the waitlist for an exclusive IT & Cybersecurity Workshop discount.
+Black Friday Deal: Take **£250 off any 2024 workshop** with code: **BF2024**
 
-[Sign up](https://explore.generalassemb.ly/it-cybersecurity-waitlist/)
+[Choose your workshop](https://generalassemb.ly/students/courses?formatWorkshop=true&location=london)
 
-ALERT: We’re offering creatives and marketers next-gen skills for FREE, in partnership with Adobe. Do you qualify?
+Cyber Week Savings: Take **£2,025 off any bootcamp** starting before 31 March
 
-[Apply Now](https://explore.generalassemb.ly/creative-skills-academy/)
+Cyber Week Savings, Extended: Take **£2,025 off any bootcamp** starting before 31 March
+
+Black Friday Deal: Take **$250 off any 2024 workshop** with code: **BF2024**
+
+[Choose your workshop](https://generalassemb.ly/students/courses?formatWorkshop=true&location=singapore)
+
+Cyber Week Savings: Take **$1,500 off any bootcamp or short course** starting before 31 March
+
+Cyber Week Savings, Extended: Take **$1,500 off any bootcamp or short course** starting before 31 March
 
 [Students](https://generalassemb.ly/)
 
