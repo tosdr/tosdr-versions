@@ -350,6 +350,14 @@ Read More
 Community News
 --------------
 
+### [Award winner – Lt Karen Stendhal, USS Octavia E Butler (Xalor Clan Xifilis Award)](https://www.starbase118.net/2024/award-winner-lt-karen-stendhal-uss-octavia-e-butler-xalor-clan-xifilis-award/)
+
+Lhandon Nilsen November 26, 2024
+
+Award winner – Lt Karen Stendhal, USS Octavia E Butler (Xalor Clan Xifilis Award) Join us for another in a series of interviews with winners
+
+[Read More »](https://www.starbase118.net/2024/award-winner-lt-karen-stendhal-uss-octavia-e-butler-xalor-clan-xifilis-award/)
+
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/06/1600px-Denali_Station-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/denali-crew-travels-to-a-newly-established-jemhadar-colony/)
@@ -373,18 +381,6 @@ Alora DeVeau November 24, 2024
 We’d like to congratulate all who saw their hard work and dedication pay off the last couple of months with a promotion to a higher
 
 [Read More »](https://www.starbase118.net/2024/promotions-for-october-6/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/04/pic_s03_sp_hero_landscape-768x432.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/poll-of-the-month-im-all-eras/)
-
-### [Poll of the Month: I’m All Eras!](https://www.starbase118.net/2024/poll-of-the-month-im-all-eras/)
-
-Genkos Adea November 23, 2024
-
-The Star Trek universe has unlimited potential for storytelling. Even with The Next Generation, Deep Space Nine and Voyager all taking place within the same
-
-[Read More »](https://www.starbase118.net/2024/poll-of-the-month-im-all-eras/)
 
 Ready to get started?
 ---------------------
