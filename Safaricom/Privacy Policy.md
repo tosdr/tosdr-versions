@@ -16,8 +16,6 @@ TOP DESTINATIONS
 
 [Masai Mara](https://www.safari.com/destinations/masai-mara)
 
-[Nairobi](https://www.safari.com/destinations/nairobi)
-
 [Sabi Sands Game Reserve](https://www.safari.com/destinations/sabi-sand-game-reserve)
 
 [Victoria Falls](https://www.safari.com/destinations/victoria-falls)
