@@ -1,4 +1,4 @@
-Monday, November 25 2024
+Tuesday, November 26 2024
 
 Breaking News
 
@@ -181,6 +181,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Mantis Laser Academy](https://www.thegunpage.com/tfb-review-mantis-laser-academy/10612109)
+* [POTD: FN Minimi In The Trenches](https://www.thegunpage.com/potd-fn-minimi-in-the-trenches/10612110)
+* [The Rimfire Report: A Series Of Tubes – The Hamilton Model 11](https://www.thegunpage.com/the-rimfire-report-a-series-of-tubes-the-hamilton-model-11/10612111)
 * [Guns We Love: Sig Sauer P365 9mm Review](https://www.thegunpage.com/guns-we-love-sig-sauer-p365-9mm-review/10612107)
 * [GOA Releases Feature Documentary on the Fight to Arm Pilots Following 9/11](https://www.thegunpage.com/goa-releases-feature-documentary-on-the-fight-to-arm-pilots-following-9-11/10612106)
 * [Kimber 2K11 Offers Custom-Level Features And High-Capacity Magazines](https://www.thegunpage.com/kimber-2k11-offers-custom-level-features-and-high-capacity-magazines/10612104)
@@ -188,9 +191,6 @@ Recent Posts
 * [EAA Introduces Updated Girsan MC 14T X Tip-Up](https://www.thegunpage.com/eaa-introduces-updated-girsan-mc-14t-x-tip-up/10612105)
 * [Texas AG Sues Hospital System For Restricting Off-Duty LEO Carry](https://www.thegunpage.com/texas-ag-sues-hospital-system-for-restricting-off-duty-leo-carry/10612099)
 * [RISE Reliant Hunter, Reliant Pro: Their First Bolt-Action Triggers](https://www.thegunpage.com/rise-reliant-hunter-reliant-pro-their-first-bolt-action-triggers/10612098)
-* [Dangerous Games](https://www.thegunpage.com/dangerous-games/10612095) 
-* [TFB Weekly Web Deals 115: Deals for November 25th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-115-deals-for-november-25th-2024/10612094)
-* [Gun Rights Group Targets New York’s Nonresident Carry Restriction](https://www.thegunpage.com/gun-rights-group-targets-new-yorks-nonresident-carry-restriction/10612093)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
