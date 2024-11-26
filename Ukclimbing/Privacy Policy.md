@@ -145,7 +145,7 @@ If you choose to enter one of our competitions then we need to know an address i
 
 Competitions also give you the option to opt-in to mailing lists of third party companies running the competitions. If you opt-in then your email address held by UKClimbing will be supplied to the third party company for use in their mailing list. The Fair Processing Practice of the data passed on to the third party company is the responsibility of the third party company collecting the data. UKClimbing Limited does not retain this data.
 
-[![Advert](https://ukc2.com/ads/b/12052.webp?t=1720629541)](https://advertising.ukclimbing.com/click.php?id=12052&uri=55)
+[![Advert](https://img.ukclimbing.com/ads/b/12181.jpg?fm=jpg&time=1732614014&w=300&s=1db2c11bc9bc6ded9694cf8acdd526b3)](https://advertising.ukclimbing.com/click.php?id=12181&uri=55)
 
 [Advertising on UKC](https://advertising.ukclimbing.com/)
 
