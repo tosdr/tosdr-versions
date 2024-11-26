@@ -434,6 +434,6 @@ Find us on
 
 [Facebook](https://www.facebook.com/PawshakeBelgium "Facebook")[Twitter](https://www.twitter.com/PawshakeBE "Twitter")[Instagram](https://www.instagram.com/PawshakeBE/ "Instagram")[Pinterest](https://www.pinterest.com/PawshakeBE/pins "Pinterest")
 
-Copyright © 2013-2024 Pawshake Inc. All Rights Reserved. [Terms and Conditions](https://en.pawshake.be/terms-and-conditions) and [Privacy & Cookie Policy](https://en.pawshake.be/privacy-policy).
+Copyright © 2024 Pawshake Inc. All Rights Reserved. [Terms and Conditions](https://en.pawshake.be/terms-and-conditions) and [Privacy & Cookie Policy](https://en.pawshake.be/privacy-policy).
 
 Belgium (NL)Belgium (FR)Belgium (EN)Belgium (DE)Switzerland (DE)Switzerland (IT)Switzerland (FR)Germany (DE)Germany (EN)France (FR)France (EN)Luxembourg (FR)Luxembourg (DE)Luxembourg (EN)The Netherlands (NL)The Netherlands (EN)Canada (EN)Canada (FR)Austria (DE)New Zealand (EN)United Kingdom (EN)Australia (EN)Hong Kong (EN)Singapore (EN)Denmark (DA)Finland (FI)Ireland (EN)Italy (IT)Japan (EN)Norway (NO)Sweden (SV)
