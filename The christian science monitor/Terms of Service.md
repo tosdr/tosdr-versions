@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Storytelling bears. Wary parents. AI toys step cautiously toward Christmas.](https://www.csmonitor.com/USA/Society/2024/1126/christmas-ai-toys-black-friday "Storytelling bears. Wary parents. AI toys step cautiously toward Christmas.")
+
 [### Israeli settlers see Trump’s win as aiding goal of annexing West Bank](https://www.csmonitor.com/World/Middle-East/2024/1125/israel-trump-settlers-west-bank-annexation "Israeli settlers see Trump’s win as aiding goal of annexing West Bank")
 
 [### Marco Rubio wants to take a hard line on China. Will Trump let him?](https://www.csmonitor.com/World/Asia-Pacific/2024/1125/marco-rubio-china-trump-cabinet "Marco Rubio wants to take a hard line on China. Will Trump let him?")
-
-[### In shifting world, post-Soviet states look back to a constant: Russia](https://www.csmonitor.com/World/Europe/2024/1125/russia-soviet-union-georgia-moldova-armenia-ngo "In shifting world, post-Soviet states look back to a constant: Russia")
 
 * * *
 
