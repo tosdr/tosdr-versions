@@ -36,18 +36,18 @@
         
         Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
     
+    * [![Firefox and Windows zero-days exploited by Russian RomCom hackers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Firefox and Windows zero-days exploited by Russian RomCom hackers](https://www.bleepingcomputer.com/news/security/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/)
+    * [![Black Friday is your chance to get lifetime access to Rosetta Stone](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Black Friday is your chance to get lifetime access to Rosetta Stone](https://www.bleepingcomputer.com/offer/deals/black-friday-is-your-chance-to-get-lifetime-access-to-rosetta-stone/)
     * [![QNAP addresses critical flaws across NAS, router software](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         QNAP addresses critical flaws across NAS, router software](https://www.bleepingcomputer.com/news/security/qnap-addresses-critical-flaws-across-nas-router-software/)
     * [![New Windows 10 0x80073CFA fix requires installing WinAppSDK 3 times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New Windows 10 0x80073CFA fix requires installing WinAppSDK 3 times](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-0x80073cfa-fix-requires-installing-winappsdk-3-times/)
-    * [![Need to upskill on a budget? Don't miss this Black Friday deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Need to upskill on a budget? Don't miss this Black Friday deal](https://www.bleepingcomputer.com/offer/deals/need-to-upskill-on-a-budget-dont-miss-this-black-friday-deal/)
-    * [![Blue Yonder ransomware attack disrupts grocery store supply chain](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Blue Yonder ransomware attack disrupts grocery store supply chain](https://www.bleepingcomputer.com/news/security/blue-yonder-ransomware-attack-disrupts-grocery-store-supply-chain/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
