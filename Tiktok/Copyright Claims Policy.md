@@ -151,7 +151,7 @@ As a TikTok user, you are responsible for the content you post. If you have ques
 
 [Privacy Center](https://www.tiktok.com/privacy/overview?lang=en)
 
-[Creator Portal](https://www.tiktok.com/creator-academy?lang=en)
+[Creator Academy](https://www.tiktok.com/creator-academy?lang=en)
 
 [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en)
 
