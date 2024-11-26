@@ -117,9 +117,9 @@ Apply
 
 [](https://www.mypillow.com/bath/mypillow-bath-robes)
 
-[](https://www.mypillow.com/accessory-pillows)
-
 [](https://www.mypillow.com/clothing/made-in-america-socks-category)
+
+[](https://www.mypillow.com/accessory-pillows)
 
 [](https://www.mypillow.com/mystore-gummies)
 
