@@ -18,7 +18,7 @@ Bienvenue dans l'Auberge !|
     * [Conditions générales de vente](https://www.aubergedujeu.ch/conditions-generales-de-vente/)
     
 
-[![L'Auberge du Jeu](//www.aubergedujeu.ch/wp-content/uploads/2018/08/logo-auberge-du-jeu-e1537265047550.png)](https://www.aubergedujeu.ch/ "L'Auberge du Jeu -")
+[![L'Auberge du Jeu](//www.aubergedujeu.ch/wp-content/uploads/2022/12/logo_transparent_600_noel.png)](https://www.aubergedujeu.ch/ "L'Auberge du Jeu -")
 
 Découvrez le meilleur du jeu de société !
 =========================================
@@ -33,7 +33,7 @@ Recherche
 
 00 produits
 
-[![L'Auberge du Jeu](//www.aubergedujeu.ch/wp-content/uploads/2018/08/logo-auberge-du-jeu-e1537265047550.png)](https://www.aubergedujeu.ch/ "L'Auberge du Jeu -")
+[![L'Auberge du Jeu](//www.aubergedujeu.ch/wp-content/uploads/2022/12/logo_transparent_600_noel.png)](https://www.aubergedujeu.ch/ "L'Auberge du Jeu -")
 
 * [Nouveautés](https://www.aubergedujeu.ch/categorie/nouveautes/)
 * [Promotions](https://www.aubergedujeu.ch/categorie/promotions/)
