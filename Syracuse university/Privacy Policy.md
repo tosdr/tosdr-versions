@@ -338,7 +338,7 @@ We will do our best to promptly deal with your request.
 
 Syracuse, NY 13244
 
-[1.315.443.1870](tel:1.315.443.1870)
+[+1.315.443.1870](tel:+1.315.443.1870)
 
 * [Follow us on facebook](https://www.facebook.com/syracuseuniversity)
 * [Follow us on instagram](http://instagram.com/syracuseu)
