@@ -20,16 +20,16 @@ Tuesday, November 26 2024
 
 Latest
 
-* [Firefox and Windows zero-days exploited by Russian RomCom hackers](https://digitpatrox.com/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/)
-* [Video leaks of Samsung’s curvier Galaxy S25 Ultra flagship](https://digitpatrox.com/video-leaks-of-samsungs-curvier-galaxy-s25-ultra-flagship/)
-* [Deadlock Warden Build: Best Items and Abilities](https://digitpatrox.com/deadlock-warden-build-best-items-and-abilities/)
-* [Everything you need to know about the Microsoft outage, including fixes, updates, and lingering issues](https://digitpatrox.com/everything-you-need-to-know-about-the-microsoft-outage-including-fixes-updates-and-lingering-issues/)
-* [Just what the heck does an ‘AI PC’ do? – Computerworld](https://digitpatrox.com/just-what-the-heck-does-an-ai-pc-do-computerworld/)
-* [The Bissell CrossWave OmniForce Is $150 Off for Black Friday](https://digitpatrox.com/the-bissell-crosswave-omniforce-is-150-off-for-black-friday/)
-* [Scammers Are Stealing Millions From Americans’ Bank Accounts](https://digitpatrox.com/scammers-are-stealing-millions-from-americans-bank-accounts/)
-* [How to Mirror Your Android Screen to Your PC Using Windows Phone Link](https://digitpatrox.com/how-to-mirror-your-android-screen-to-your-pc-using-windows-phone-link/)
-* [GitHub says Copilot improves code quality – but are AI coding tools actually producing results for developers?](https://digitpatrox.com/github-says-copilot-improves-code-quality-but-are-ai-coding-tools-actually-producing-results-for-developers/)
-* [How Does Tap To Pay Work?](https://digitpatrox.com/how-does-tap-to-pay-work/)
+* [Steady progress and partner potential at HPE Discover Barcelona 2024](https://digitpatrox.com/steady-progress-and-partner-potential-at-hpe-discover-barcelona-2024/)
+* [UK Regulator Probes Apple’s Mobile Browser Dominance](https://digitpatrox.com/uk-regulator-probes-apples-mobile-browser-dominance/)
+* [These are the best Black Friday golf deals I’m buying](https://digitpatrox.com/these-are-the-best-black-friday-golf-deals-im-buying/)
+* [Why Cybersecurity Leaders Trust the MITRE ATT&CK Evaluations](https://digitpatrox.com/why-cybersecurity-leaders-trust-the-mitre-attck-evaluations/)
+* [How to use Google Gemini on your phone](https://digitpatrox.com/how-to-use-google-gemini-on-your-phone/)
+* [Elon Musk learns how EV charging works from Pete Buttigieg](https://digitpatrox.com/elon-musk-learns-how-ev-charging-works-from-pete-buttigieg/)
+* [Don’t Miss Out on These Google Pixel Deals During Black Friday](https://digitpatrox.com/dont-miss-out-on-these-google-pixel-deals-during-black-friday/)
+* [Tech hiring is set to grow in 2025, but wary staff are putting job security front and center](https://digitpatrox.com/tech-hiring-is-set-to-grow-in-2025-but-wary-staff-are-putting-job-security-front-and-center/)
+* [For Microsoft, will Trump’s antitrust and environmental views help or harm? – Computerworld](https://digitpatrox.com/for-microsoft-will-trumps-antitrust-and-environmental-views-help-or-harm-computerworld/)
+* [Kendrick Lamar’s ‘GNX’: The Out-of-Touch Adults’ Guide to Kid Culture](https://digitpatrox.com/kendrick-lamars-gnx-the-out-of-touch-adults-guide-to-kid-culture/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/07/hacker.jpg)](https://digitpatrox.com/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/)
+* [![](https://cdn.mos.cms.futurecdn.net/SEYN9yWB9qWqirhtAa8PjR-1200-80.jpg)](https://digitpatrox.com/steady-progress-and-partner-potential-at-hpe-discover-barcelona-2024/)
     
-    [Firefox and Windows zero-days exploited by Russian RomCom hackers](https://digitpatrox.com/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/)
+    [Steady progress and partner potential at HPE Discover Barcelona 2024](https://digitpatrox.com/steady-progress-and-partner-potential-at-hpe-discover-barcelona-2024/)
     
-    27 minutes ago
+    10 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/4vZ0j8UUI3uiJeccjxa-dds48BI=/0x0:1067x778/1200x628/filters:focal(534x389:535x390)/cdn.vox-cdn.com/uploads/chorus_asset/file/25758128/Samsung_Galaxy_S25_Ultra_video_leak.jpg)](https://digitpatrox.com/video-leaks-of-samsungs-curvier-galaxy-s25-ultra-flagship/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241126-apple-cma-browser-dominance.jpg)](https://digitpatrox.com/uk-regulator-probes-apples-mobile-browser-dominance/)
     
-    [Video leaks of Samsung’s curvier Galaxy S25 Ultra flagship](https://digitpatrox.com/video-leaks-of-samsungs-curvier-galaxy-s25-ultra-flagship/)
+    [UK Regulator Probes Apple’s Mobile Browser Dominance](https://digitpatrox.com/uk-regulator-probes-apples-mobile-browser-dominance/)
     
-    44 minutes ago
+    14 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Deadlock-Warden-on-homescreen.jpg)](https://digitpatrox.com/deadlock-warden-build-best-items-and-abilities/)
+* [![](https://cdn.mos.cms.futurecdn.net/cZwWvHxhGMfzDs7UhvFnfC-1200-80.jpg)](https://digitpatrox.com/these-are-the-best-black-friday-golf-deals-im-buying/)
     
-    [Deadlock Warden Build: Best Items and Abilities](https://digitpatrox.com/deadlock-warden-build-best-items-and-abilities/)
+    [These are the best Black Friday golf deals I’m buying](https://digitpatrox.com/these-are-the-best-black-friday-golf-deals-im-buying/)
+    
+    18 minutes ago
+    
+* [![](https://www.bleepstatic.com/content/posts/2024/11/25/cynet-mitre.jpg)](https://digitpatrox.com/why-cybersecurity-leaders-trust-the-mitre-attck-evaluations/)
+    
+    [Why Cybersecurity Leaders Trust the MITRE ATT&CK Evaluations](https://digitpatrox.com/why-cybersecurity-leaders-trust-the-mitre-attck-evaluations/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/kYqf4bFZn2deGUnjasVn8Y-1200-80.jpg)](https://digitpatrox.com/everything-you-need-to-know-about-the-microsoft-outage-including-fixes-updates-and-lingering-issues/)
+* [![](https://cdn.vox-cdn.com/thumbor/ButG-UlDZFnMVc_GYbKmQGx3XBM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25460677/HT054_AI_GEMINI.png)](https://digitpatrox.com/how-to-use-google-gemini-on-your-phone/)
     
-    [Everything you need to know about the Microsoft outage, including fixes, updates, and lingering issues](https://digitpatrox.com/everything-you-need-to-know-about-the-microsoft-outage-including-fixes-updates-and-lingering-issues/)
+    [How to use Google Gemini on your phone](https://digitpatrox.com/how-to-use-google-gemini-on-your-phone/)
     
-    3 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3611479-0-61296600-1732555457-shutterstock_2497387185.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/just-what-the-heck-does-an-ai-pc-do-computerworld/)
-    
-    [Just what the heck does an ‘AI PC’ do? – Computerworld](https://digitpatrox.com/just-what-the-heck-does-an-ai-pc-do-computerworld/)
-    
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [27 minutes ago
+* [10 minutes ago
     
-    ### Firefox and Windows zero-days exploited by Russian RomCom hackers](https://digitpatrox.com/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/)
-* [44 minutes ago
+    ### Steady progress and partner potential at HPE Discover Barcelona 2024](https://digitpatrox.com/steady-progress-and-partner-potential-at-hpe-discover-barcelona-2024/)
+* [14 minutes ago
     
-    ### Video leaks of Samsung’s curvier Galaxy S25 Ultra flagship](https://digitpatrox.com/video-leaks-of-samsungs-curvier-galaxy-s25-ultra-flagship/)
-* [1 hour ago
+    ### UK Regulator Probes Apple’s Mobile Browser Dominance](https://digitpatrox.com/uk-regulator-probes-apples-mobile-browser-dominance/)
+* [18 minutes ago
     
-    ### Deadlock Warden Build: Best Items and Abilities](https://digitpatrox.com/deadlock-warden-build-best-items-and-abilities/)
+    ### These are the best Black Friday golf deals I’m buying](https://digitpatrox.com/these-are-the-best-black-friday-golf-deals-im-buying/)
 
 Most Popular Topics
 
-* [3 days ago
+* [October 3, 2024
     
-    ### NYT Strands Today: Hints, Answers, and Spangram for November 24](https://digitpatrox.com/nyt-strands-today-hints-answers-and-spangram-for-november-24/)
-* [1 week ago
+    ### Critical Ivanti RCE flaw with public exploit now used in attacks](https://digitpatrox.com/critical-ivanti-rce-flaw-with-public-exploit-now-used-in-attacks/)
+* [September 6, 2024
     
-    ### NYT Strands Today: Hints, Answers & Spangram for November 17](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-17/)
-* [October 21, 2024
+    ### The source code for Android 15 is now available to developers – Computerworld](https://digitpatrox.com/the-source-code-for-android-15-is-now-available-to-developers-computerworld/)
+* [September 26, 2024
     
-    ### The Rise in Nation-State Cyber Threats](https://digitpatrox.com/the-rise-in-nation-state-cyber-threats/)
+    ### This New Google Doodle Is a Tasty Popcorn Game You Should Play!](https://digitpatrox.com/this-new-google-doodle-is-a-tasty-popcorn-game-you-should-play/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### Don’t Miss Out on These Google Pixel Deals During Black Friday](https://digitpatrox.com/dont-miss-out-on-these-google-pixel-deals-during-black-friday/)
 * [4 hours ago
     
-    ### Scammers Are Stealing Millions From Americans’ Bank Accounts](https://digitpatrox.com/scammers-are-stealing-millions-from-americans-bank-accounts/)
+    ### Tech hiring is set to grow in 2025, but wary staff are putting job security front and center](https://digitpatrox.com/tech-hiring-is-set-to-grow-in-2025-but-wary-staff-are-putting-job-security-front-and-center/)
 * [4 hours ago
     
-    ### How to Mirror Your Android Screen to Your PC Using Windows Phone Link](https://digitpatrox.com/how-to-mirror-your-android-screen-to-your-pc-using-windows-phone-link/)
-* [4 hours ago
-    
-    ### GitHub says Copilot improves code quality – but are AI coding tools actually producing results for developers?](https://digitpatrox.com/github-says-copilot-improves-code-quality-but-are-ai-coding-tools-actually-producing-results-for-developers/)
+    ### For Microsoft, will Trump’s antitrust and environmental views help or harm? – Computerworld](https://digitpatrox.com/for-microsoft-will-trumps-antitrust-and-environmental-views-help-or-harm-computerworld/)
 
 Most Viewed Topics
 
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
-* [August 11, 2024
+* [August 12, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
