@@ -369,14 +369,16 @@ We have internal teams working to resolve these issues—we know it’s frustrat
 
 We will continue to work around the clock until power is restored to all customers.
 
-[Storm alert Updated Nov 25, 12:00 PM](#collapseOne)  
+[Storm alert Updated Nov 25, 6:00 PM](#collapseOne)  
 
 November Wind Storm
 -------------------
 
-Over the last 24 hours, more than 150 line crews and 70 tree crews worked throughout the day and night to help over 17,000 customers regain power from storm related outages.
+Damage assessment and restoration efforts continue
 
-We now have 99% of our customers back online since the bomb cyclone hit Western Washington Tuesday afternoon and will continue to work as fast as we can to restore every customer. Being without power is incredibly disruptive and gets harder as time goes by.
+Crews and hundreds of support staff continue their around-the-clock work to restore power to those who remain out as a result of yesterday’s damaging windstorm.
+
+When crews arrive on site, please give them space to work safely.
 
 [Read more](https://www.pse.com/en/outage/alerts-and-advisories)
 
