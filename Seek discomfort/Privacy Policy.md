@@ -35,6 +35,8 @@ GO TO EUROPEAN SITE
 
 [](#)
 
+[**THE HOLIDAY SALE** – UP TO 75% OFF – _SELECT STYLES_ – WHILE STOCKS LAST! – **SHOP NOW**](https://www.seekdiscomfort.com/collections/holiday-sale-up-to-75-off "Holiday Sale - Up to 75% Off")
+
 Privacy Page
 ============
 
