@@ -99,7 +99,7 @@ Drawception welcomes your comments regarding this Privacy Notice. If you have qu
 
 [Play Now](https://drawception.com/register/)
 
-27,718 games in progress
+27,715 games in progress
 
 * * *
 
