@@ -31,6 +31,20 @@ Main menu
     #### Latest Icon time
     
     * [**Legislative Assembly**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-28763)
+        
+        Icon calendar 26 November 2024
+        
+        Proof
+        
+    * [**Legislative Council**  
+        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-29037)
+        
+        Icon calendar 26 November 2024
+        
+        Proof
+        
+    * [**Legislative Assembly**  
         Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-28668)
         
         Icon calendar 14 November 2024
@@ -41,20 +55,6 @@ Main menu
         Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-28941)
         
         Icon calendar 14 November 2024
-        
-        Final
-        
-    * [**Legislative Council**  
-        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-28861)
-        
-        Icon calendar 13 November 2024
-        
-        Final
-        
-    * [**Legislative Assembly**  
-        Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-2145855009-28542)
-        
-        Icon calendar 13 November 2024
         
         Final
         
@@ -117,6 +117,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Inquiry report is food for thought](https://parliament.vic.gov.au/link/1aefb2eacb064fc697ebf05564386a4c.aspx)
+        
+        26 November 2024
+        
     * [Gambling and liquor report response](https://parliament.vic.gov.au/link/3a4da7f967ad4fdc821159b124cec53f.aspx)
         
         25 November 2024
@@ -124,10 +128,6 @@ Main menu
     * [Tobacco licensing scheme debated](https://parliament.vic.gov.au/link/5e97d0a9930249d8b47c7a581821664f.aspx)
         
         22 November 2024
-        
-    * [The room where it happens](https://parliament.vic.gov.au/link/c4aa1d6b049a478cbe12f9605eed2420.aspx)
-        
-        21 November 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
