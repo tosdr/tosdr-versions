@@ -1,4 +1,4 @@
-[![Short books to help you finish your Reading Challenge strong](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1732233161i/479.jpg)](https://www.goodreads.com/blog/show/2851?ref=RCShrtBks24_eb)
+[![Vote in the final round of the 2024 Goodreads Choice Awards](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1730829205i/467.jpg)](https://www.goodreads.com/choiceawards/best-books-2024?ref=gca_nov_24_gcar2_eb)
 
 [](https://www.goodreads.com/ "Goodreads Home")
 
