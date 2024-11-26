@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-25 Nov 2024
+26 Nov 2024
 
 * [Home
     
@@ -259,19 +259,19 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, November 25, 2024](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Craigbane GAC fans in Celtic Park for Ulster Club Junior Football Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Craigbane GAC fans in Celtic Park for Ulster Club Junior Football Final")](https://www.derrynow.com/story-telling/pictures---videos/1664117/in-pictures-craigbane-gac-fans-in-celtic-park-for-ulster-club-junior-football-final.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [IN PICTURES: Craigbane GAC fans in Celtic Park for Ulster Club Junior Football Final](https://www.derrynow.com/story-telling/pictures---videos/1664117/in-pictures-craigbane-gac-fans-in-celtic-park-for-ulster-club-junior-football-final.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, November 25, 2024](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Donegal man charged with disorderly behavior following incident in Derry remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man charged with disorderly behavior following incident in Derry remanded")](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
 
@@ -282,13 +282,6 @@ Derry Magistrate's Court
 [Donegal man charged with disorderly behavior following incident in Derry remanded](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man with 128 previous convictions charged with series of public order offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man with 128 previous convictions charged with series of public order offences")](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man with 128 previous convictions charged with series of public order offences](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy")](https://www.derrynow.com/story-telling/pictures---videos/1664006/in-pictures-46th-anniversary-commemoration-for-derry-volunteer-patsy-duffy.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -296,14 +289,12 @@ Derry Magistrate's Court
 [IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy](https://www.derrynow.com/story-telling/pictures---videos/1664006/in-pictures-46th-anniversary-commemoration-for-derry-volunteer-patsy-duffy.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![AVEVA to expand its operations as it invests £1.4million in Derry site](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AVEVA to expand its operations as it invests £1.4million in Derry site")](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
-
-Economy Minister Conor Murphy with Brendan McGuigan, Director of Advanced Manufacturing and Engineering at Invest NI, and Caoimhe Keogan, Chief People Officer, AVEVA
+[![Derry man with 128 previous convictions charged with series of public order offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man with 128 previous convictions charged with series of public order offences")](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[AVEVA to expand its operations as it invests £1.4million in Derry site](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man with 128 previous convictions charged with series of public order offences](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.")](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
 
@@ -314,19 +305,21 @@ Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and F
 [Derry's pioneering nurses to be honoured by Ulster University](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![AVEVA to expand its operations as it invests £1.4million in Derry site](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AVEVA to expand its operations as it invests £1.4million in Derry site")](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
+
+Economy Minister Conor Murphy with Brendan McGuigan, Director of Advanced Manufacturing and Engineering at Invest NI, and Caoimhe Keogan, Chief People Officer, AVEVA
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[AVEVA to expand its operations as it invests £1.4million in Derry site](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Sum of cash stolen from parked vehicle in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Sum of cash stolen from parked vehicle in Derry")](https://www.derrynow.com/news/local-news/1664290/sum-of-cash-stolen-from-parked-vehicle-in-derry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Sum of cash stolen from parked vehicle in Derry](https://www.derrynow.com/news/local-news/1664290/sum-of-cash-stolen-from-parked-vehicle-in-derry.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Clean-up begins after Storm Bert as thousands still left without power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clean-up begins after Storm Bert as thousands still left without power")](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Most popular items bought by inmates at HMP Magilligan over the last year revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Most popular items bought by inmates at HMP Magilligan over the last year revealed")](https://www.derrynow.com/news/derry-news/1664326/most-popular-items-bought-by-inmates-at-hmp-magilligan-over-the-last-year-revealed.html)
 
@@ -336,6 +329,13 @@ H.M. Prison Magilligan
 
 [Most popular items bought by inmates at HMP Magilligan over the last year revealed](https://www.derrynow.com/news/derry-news/1664326/most-popular-items-bought-by-inmates-at-hmp-magilligan-over-the-last-year-revealed.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Clean-up begins after Storm Bert as thousands still left without power](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Clean-up begins after Storm Bert as thousands still left without power")](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +513,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Tesco customers invited to donate whatever they can to Winter Food Collection](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Tesco customers invited to donate whatever they can to Winter Food Collection")](https://www.derrynow.com/news/local-news/1664232/derry-tesco-customers-invited-to-donate-whatever-they-can-to-winter-food-collection.html)
+
+Jess McCulloch with her daughter.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry Tesco customers invited to donate whatever they can to Winter Food Collection](https://www.derrynow.com/news/local-news/1664232/derry-tesco-customers-invited-to-donate-whatever-they-can-to-winter-food-collection.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Most popular items bought by inmates at HMP Magilligan over the last year revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Most popular items bought by inmates at HMP Magilligan over the last year revealed")](https://www.derrynow.com/news/derry-news/1664326/most-popular-items-bought-by-inmates-at-hmp-magilligan-over-the-last-year-revealed.html)
 
 H.M. Prison Magilligan
@@ -522,7 +531,7 @@ H.M. Prison Magilligan
 [Most popular items bought by inmates at HMP Magilligan over the last year revealed](https://www.derrynow.com/news/derry-news/1664326/most-popular-items-bought-by-inmates-at-hmp-magilligan-over-the-last-year-revealed.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Funded Arts project brings memories to life for Derry care home residents](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Funded Arts project brings memories to life for Derry care home residents")](https://www.derrynow.com/news/local-news/1664319/funded-arts-project-brings-memories-to-life-for-derry-care-home-residents.html)
+[![Funded Arts project brings memories to life for Derry care home residents](https://www.derrynow.com/resizer/165/93/true/2024_11_25/22-11-24_Longfield_Book_02-1732547946608.jpg--.jpg?1732547947425 "Funded Arts project brings memories to life for Derry care home residents")](https://www.derrynow.com/news/local-news/1664319/funded-arts-project-brings-memories-to-life-for-derry-care-home-residents.html)
 
 The Mayor pictured with two of Longfield' oldest residents, 102 years old Lily Canning and 97 years old Fr. Michael Keaveney at Friday's book launch. (Photos: Jim McCafferty Photography)
 
@@ -553,15 +562,6 @@ Richard Moore with Carla Shiels
 
 [Children in Crossfire launch Christmas gift cards initiative](https://www.derrynow.com/news/local-news/1664249/children-in-crossfire-launch-christmas-gift-cards-initiative.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Causeway Hospital](https://www.derrynow.com/resizer/165/93/true/2023_04_21/mj-1682084428975.png--.png?1682084429096 "Causeway Hospital")](https://www.derrynow.com/news/county-derry-post/1664125/sos-causeway-rally-for-a-christmas-miracle.html)
-
-Causeway Hospital
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[SOS Causeway rally for a Christmas Miracle!](https://www.derrynow.com/news/county-derry-post/1664125/sos-causeway-rally-for-a-christmas-miracle.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
