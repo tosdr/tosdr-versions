@@ -1,6 +1,6 @@
 top of page
 
-![](https://static.wixstatic.com/media/ac61b9_b65c59860d44454080ffe7c5c9201acf~mv2.png/v1/fill/w_49,h_1,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/spider%20pattren.png)
+![](https://static.wixstatic.com/media/ac61b9_b65c59860d44454080ffe7c5c9201acf~mv2.png/v1/fill/w_49,h_1,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/spider%20pattren.png)
 
 [V A LE V P N](https://www.valevpn.com/)
 
@@ -199,7 +199,7 @@ Non-Waiver. ValeVPN’s failure to insist upon or enforce any provision of these
 
 ​
 
-![back.png](https://static.wixstatic.com/media/ac61b9_c044f4d3abaf4ec8bb81e90ef15f31df~mv2.png/v1/fill/w_100,h_65,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/ac61b9_c044f4d3abaf4ec8bb81e90ef15f31df~mv2.png)
+![back.png](https://static.wixstatic.com/media/ac61b9_c044f4d3abaf4ec8bb81e90ef15f31df~mv2.png/v1/fill/w_100,h_65,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/ac61b9_c044f4d3abaf4ec8bb81e90ef15f31df~mv2.png)
 
 SERVICES
 --------
@@ -301,9 +301,9 @@ HELP
 Download Our Mobile Apps
 ------------------------
 
-[![](https://static.wixstatic.com/media/ac61b9_2761cd8d9e1d45e1a2aaffc220993658~mv2.png/v1/fill/w_91,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/image%202.png)](https://apps.apple.com/us/app/valevpn-dedicated-vpn-security/id1507398362?_ga=2.195270700.1213431649.1680423833-1463902094.1680222772)
+[![](https://static.wixstatic.com/media/ac61b9_2761cd8d9e1d45e1a2aaffc220993658~mv2.png/v1/fill/w_91,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/image%202.png)](https://apps.apple.com/us/app/valevpn-dedicated-vpn-security/id1507398362?_ga=2.195270700.1213431649.1680423833-1463902094.1680222772)
 
-[![](https://static.wixstatic.com/media/ac61b9_12c6ff7c241a40f5945277097eb447af~mv2.png/v1/fill/w_91,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/image%201.png)](https://play.google.com/store/apps/details?id=com.valevpn.valevpn4&_ga=2.195270700.1213431649.1680423833-1463902094.1680222772)
+[![](https://static.wixstatic.com/media/ac61b9_12c6ff7c241a40f5945277097eb447af~mv2.png/v1/fill/w_91,h_28,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/image%201.png)](https://play.google.com/store/apps/details?id=com.valevpn.valevpn4&_ga=2.195270700.1213431649.1680423833-1463902094.1680222772)
 
 [](https://www.facebook.com/valevpnapp/?_ga=2.56873258.1213431649.1680423833-1463902094.1680222772)
 
