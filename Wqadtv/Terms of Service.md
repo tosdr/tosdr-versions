@@ -30,14 +30,18 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/317c2dfd-20f4-42cd-b5c9-749be3ed8436/20241126T045027/317c2dfd-20f4-42cd-b5c9-749be3ed8436_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/317c2dfd-20f4-42cd-b5c9-749be3ed8436/20241126T045027/317c2dfd-20f4-42cd-b5c9-749be3ed8436_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-schools-consider-adding-weapons-detectors-after-4-guns-found-since-july/526-e767d0f7-eaa0-4c53-aebb-8b30d8245f78)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_360x203.jpg)](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3)
         
-        #### [Security upgrades could be coming to Davenport schools](https://www.wqad.com/article/news/local/davenport-schools-consider-adding-weapons-detectors-after-4-guns-found-since-july/526-e767d0f7-eaa0-4c53-aebb-8b30d8245f78)
+        #### [Man receives more than $300,000 in lost money from Great Iowa Treasure Hunt](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3) [![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_360x203.jpg)](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3)
         
-    *  [![](https://media.tegna-media.com/assets/KARE/images/bb4c7bf9-2511-48f2-a48e-3468ea98889f/20241125T041331/bb4c7bf9-2511-48f2-a48e-3468ea98889f_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/bb4c7bf9-2511-48f2-a48e-3468ea98889f/20241125T041331/bb4c7bf9-2511-48f2-a48e-3468ea98889f_360x203.jpg)](https://www.wqad.com/article/news/local/land-of-10000-stories/st-paul-barber-uses-basement-shop-to-teach-teens-business-skills/89-4f9f3207-699c-4ad7-8e95-0d8794993b09)
+        #### [Great Iowa Treasure Hunt reunites one lucky man with more than $300,000](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3) [![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f64488f1-909b-4cf7-84ae-b25bb8bca61a/20241126T221944/f64488f1-909b-4cf7-84ae-b25bb8bca61a_360x203.jpg)](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3)
         
-        #### [Minnesota barber uses basement of his shop to teach teens business skills](https://www.wqad.com/article/news/local/land-of-10000-stories/st-paul-barber-uses-basement-shop-to-teach-teens-business-skills/89-4f9f3207-699c-4ad7-8e95-0d8794993b09)
+        #### [One lucky man is $300,000 richer thanks to the Great Iowa Treasure Hunt](https://www.wqad.com/article/news/local/man-receives-300000-dollars-lost-money-great-iowa-treasure-hunt/526-9af4eef8-ea98-4140-a4a1-edb0c2a9b9e3)
+    *  [![](https://media.tegna-media.com/assets/WUSA/images/cd9a8033-9d35-4f1e-8e26-b81ff308c604/cd9a8033-9d35-4f1e-8e26-b81ff308c604_16x9.jpg) ![](https://media.tegna-media.com/assets/WUSA/images/cd9a8033-9d35-4f1e-8e26-b81ff308c604/cd9a8033-9d35-4f1e-8e26-b81ff308c604_360x203.jpg)](https://www.wqad.com/article/news/local/moline-snow-removal-program-snow-angels-residents-in-need/526-6dc16d8f-2d3b-4e0a-aee1-a882f9f99650)
         
+        #### [New program helping with snow removal for Moline residents in need](https://www.wqad.com/article/news/local/moline-snow-removal-program-snow-angels-residents-in-need/526-6dc16d8f-2d3b-4e0a-aee1-a882f9f99650) [![](https://media.tegna-media.com/assets/WUSA/images/cd9a8033-9d35-4f1e-8e26-b81ff308c604/cd9a8033-9d35-4f1e-8e26-b81ff308c604_16x9.jpg) ![](https://media.tegna-media.com/assets/WUSA/images/cd9a8033-9d35-4f1e-8e26-b81ff308c604/cd9a8033-9d35-4f1e-8e26-b81ff308c604_360x203.jpg)](https://www.wqad.com/article/news/local/moline-snow-removal-program-snow-angels-residents-in-need/526-6dc16d8f-2d3b-4e0a-aee1-a882f9f99650)
+        
+        #### [Moline's new 'Snow Angel' program helping with snow removal for residents in need](https://www.wqad.com/article/news/local/moline-snow-removal-program-snow-angels-residents-in-need/526-6dc16d8f-2d3b-4e0a-aee1-a882f9f99650)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -86,7 +90,7 @@ Navigation
 
 Davenport, IA »
 
-30°
+36°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
