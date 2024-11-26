@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You guys are the best customer support ever!! ;-)
+Thank you very much for your insanely fast reply! Really impressive and highly appreciate.
 
-Chelsea Madison
+Andre Blackert
