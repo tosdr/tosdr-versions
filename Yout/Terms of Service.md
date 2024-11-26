@@ -235,6 +235,6 @@ Yout may earn a small commission from a select few links across the site
 
 If you have any questions about these Terms of Service document, don't hesitate to [contact us](https://yout.com/contact/).
 
-[About Us](https://yout.com/about/) [Privacy Policy](https://yout.com/privacy/) [Terms of service](https://yout.com/terms/) [Contact Us](https://yout.com/contact/)
+[About Us](https://yout.com/about/) [Privacy Policy](https://yout.com/privacy/) [Terms of service](https://yout.com/terms/) [Contact Us](https://yout.com/contact/) [![](/static/bluesky.png) Follow us on BlueSky](https://bsky.app/profile/youtdotcom.bsky.social)
 
 2024 Yout LLC | Made by [nadermx](https://john.nader.mx/?lang=en)
