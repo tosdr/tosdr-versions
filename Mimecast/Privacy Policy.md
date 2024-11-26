@@ -1,3 +1,226 @@
+[](#main)* EN
+    * [English](https://www.mimecast.com/company/mimecast-trust-center/privacy-statement/)
+    * [Deutsch](https://www.mimecast.com/de/company/mimecast-trust-center/privacy-statement/)
+    * [français](https://www.mimecast.com/fr/company/mimecast-trust-center/privacy-statement/)
+
+* [Careers](https://careers.mimecast.com/en/)
+* [Support](https://community.mimecast.com/s/contactsupport?_ga=2.186716200.1871970708.1633102929-888935228.1623245559)
+* [Login](https://www.mimecast.com/login/)
+* [Contact](https://www.mimecast.com/company/contact/)
+
+* * *
+
+[![Mimecast Logo](https://assets.mimecast.com/api/public/content/aac7c7d3363d4892b9f909aa59250d04?v=52228a06)](https://www.mimecast.com/)
+
+[](#main)
+
+[M365 Threat Scan](https://www.mimecast.com/free-trial/)
+
+[Get a Quote](https://www.mimecast.com/get-a-quote/)
+
+* Why Mimecast
+    
+    * [![](https://assets.mimecast.com/api/public/content/60dd7f151bb148bcafa3827011a9aec0?v=82fac553)
+        
+        Why Mimecast
+        
+        Discover why 42,000 customers rely on Mimecast](https://www.mimecast.com/why-mimecast/)
+    * [![](https://assets.mimecast.com/api/public/content/dc438d5334034bcc921010e1222ed98c?v=848bd6f0)
+        
+        AI-Powered Security
+        
+        Industry-leading threat protection, supercharged by AI](https://www.mimecast.com/ai-cybersecurity/)
+    * [![](https://assets.mimecast.com/api/public/content/938c5cc300214ed2842b27dd3edcf177?v=c2b36271)
+        
+        Customer Success Stories
+        
+        Learn why customers trust Mimecast](https://www.mimecast.com/customer-success/customer-stories/)
+    
+    [Company Overview](https://www.mimecast.com/company/)
+    
+    * [![](https://assets.mimecast.com/api/public/content/8c726670208744a1b981d48931d4d8bd?v=608d0cd7)
+        
+        Awards
+        
+        Recognition from analysts, industry insiders, and more](https://www.mimecast.com/company/awards/)
+    * [![](https://assets.mimecast.com/api/public/content/a9a6053500494d3f8880a5b42e0444ed?v=91498bf6)
+        
+        ESG & Global Impact
+        
+        We're always mindful of having a positive impact](https://www.mimecast.com/company/corporate-social-responsibility/)
+    
+    ![icon_WCircle_BECDefense.png](https://assets.mimecast.com/api/public/content/377d96a9f5cf46cabad85240ef655766?v=aa5a15b4)
+    
+    Advanced BEC Protection
+    
+    Block threats and gain visibility into your most targeted users
+    
+    [Learn more](https://www.mimecast.com/solutions/advanced-bec-protection/)
+    
+* Our Platform
+    
+    * [![](https://assets.mimecast.com/api/public/content/e8b4a094ce9b4a4b82bef72e9c72447e?v=eb31cf67)
+        
+        Advanced Email Security
+        
+        Most Popular
+        
+        Secure your organization with AI-powered solutions](https://www.mimecast.com/products/email-security/)
+    * [![](https://assets.mimecast.com/api/public/content/3bae7cc64ce24f9e9e2a2b6ed4e845c1?v=4d2117e0)
+        
+        Mimecast Engage
+        
+        Re-envision security awareness with real human risk signals](https://www.mimecast.com/products/mimecast-engage-awareness-training/)
+    * [![](https://assets.mimecast.com/api/public/content/c4e2b7b5535f44359682cea7bd628bae?v=86292f06)
+        
+        Collaboration Security
+        
+        Allow employees to collaborate securely](https://www.mimecast.com/products/collaboration-security/)
+    * [![](https://assets.mimecast.com/api/public/content/51a3c17138a243c49e5a4395746bfbfe?v=e0560dcc)
+        
+        Code42 Incydr
+        
+        Address all forms of insider threats](https://www.mimecast.com/products/code42-incydr/)
+    
+    [Product Suite](https://www.mimecast.com/products/)
+    
+    * [![](https://assets.mimecast.com/api/public/content/d65e43865e2a459482d0e2ee90a4948f?v=fefb9ea4)
+        
+        Aware
+        
+        Collaboration security and compliance](https://www.mimecast.com/products/aware/)
+    * [![](https://assets.mimecast.com/api/public/content/4766441092f24c1d8d5cb65f084680c0?v=949aebff)
+        
+        Email Archive
+        
+        Ensure email works and data is never lost](https://www.mimecast.com/products/email-archive/)
+    * [![](https://assets.mimecast.com/api/public/content/9e647b9b2a094c25b859652e5300c303?v=59fff5c7)
+        
+        DMARC Analyzer
+        
+        Protect your brand and reputation](https://www.mimecast.com/products/dmarc-analyzer/)
+    
+    ![platform overview.svg](https://assets.mimecast.com/api/public/content/94a9c3f709c44c17890807df50483413?v=265bff86)
+    
+    Our Platform
+    
+    Transform your approach to human risk management
+    
+    [Explore Now](https://www.mimecast.com/products/our-platform/)
+    
+* Solutions
+    
+    * [![](https://assets.mimecast.com/api/public/content/6737d53c3d2a40dd828cc52fd9f972fa?v=df36f5b2)
+        
+        Protect Communications
+        
+        Most Popular
+        
+        Block the most sophisticated email threats, keep email flowing, and trust your communications](https://www.mimecast.com/solutions/protect-communications/)
+    * [![](https://assets.mimecast.com/api/public/content/088d3c3cdc384092b7542a48ec783d57?v=183f3895)
+        
+        Protect Data
+        
+        Simplify compliance, accelerate e-Discovery, and keep data secure](https://www.mimecast.com/solutions/protect-data/)
+    * [![](https://assets.mimecast.com/api/public/content/42614e9cf56247afa6fa9d9baf3a7d8a?v=4e5ac00d)
+        
+        Protect People
+        
+        Revolutionize security awareness with a human-centric approach](https://www.mimecast.com/solutions/protect-people/)
+    
+    [All Solutions](https://www.mimecast.com/solutions/)
+    
+    ![icons_Google.png](https://assets.mimecast.com/api/public/content/4ef1a859ca4b4ddc94fb3037e36456aa?v=d619a895)
+    
+    Google Workspace
+    
+    [Explore Solutions](https://www.mimecast.com/solutions/google-workspace/)
+    
+    ![icons_W_Microsoft.png](https://assets.mimecast.com/api/public/content/b6c2916537114887a5ba7800de8d6ede?v=78059a5e)
+    
+    Microsoft 365
+    
+    [Explore Solutions](https://www.mimecast.com/solutions/microsoft-365/)
+    
+* Partners
+    
+    * [Reseller Partners](https://www.mimecast.com/partners/reseller-partners/)
+    * [Managed Service Providers (MSP)](https://www.mimecast.com/partners/managed-service-providers/)
+    * [Partner Portal](https://portal.mimecast.com/partner/common/login?_ga=2.258711690.1841783995.1684150345-791565797.1683726894)
+    
+    [Partner overview](https://www.mimecast.com/partners/)
+    
+    * [Technology Alliance Partners](https://www.mimecast.com/partners/technology-alliance-partners/)
+    * [Partner Integrations](https://integrations.mimecast.com/tech-partners/)
+    * [API Documentation](https://developer.services.mimecast.com/)
+    * [Partner Resources](https://www.mimecast.com/partners/partner-success/)
+    
+    ![TechPartner.jpg](https://assets.mimecast.com/api/public/content/71680926188a4357b6b246fb0177c4b4?v=9a69a64d)
+    
+    Become a Technology Alliance Partner
+    
+    [Learn more](https://integrations.mimecast.com/become-a-technology-alliance-partner/)
+    
+    ![ChannelPartner.jpg](https://assets.mimecast.com/api/public/content/40074a2fd2f848cb91f70e474add3d9a?v=ff1a19a9)
+    
+    Become a Channel Partner
+    
+    [Learn More](https://www.mimecast.com/partners/reseller-partners/become-a-channel-partner/)
+    
+* Resources
+    
+    * [Resource Library](https://www.mimecast.com/resources/)
+    * [Cyber Insights Blog](https://www.mimecast.com/blog/)
+    * [Customer Stories](https://www.mimecast.com/customer-success/customer-stories/)
+    * [Events](https://www.mimecast.com/events/)
+    * [Cybersecurity Glossary](https://www.mimecast.com/content/)
+    * [Mimecast Product Education](https://www.mimecast.com/customer-success/education/)
+    
+    [Resources Overview](https://www.mimecast.com/resources-overview/)
+    
+    Featured
+    
+    ![icon_mimecastercentral.png](https://assets.mimecast.com/api/public/content/2e6624e57dcf401aba62439ed1bf9f1f?v=4c53bcb4)
+    
+    Mimecaster Central
+    
+    Discover guidebooks, videos, and Technical Support resources for any Mimecast product.
+    
+    [Access Now](https://community.mimecast.com/s/)
+    
+    ![icon_threat_intelligence_hub.png](https://assets.mimecast.com/api/public/content/a74558d866934fd38d631466eda4fae9?v=31f14de1)
+    
+    Threat Intelligence Hub
+    
+    Obtain intelligence on cyberattacks and cybersecurity practices to help identify and tackle threats
+    
+    [Learn more](https://www.mimecast.com/threat-intelligence-hub/)
+    
+    ![Resources_33.jpg](https://assets.mimecast.com/api/public/content/bf583038c3574675948c97cd37cd85b5?v=0b9293c3)
+    
+    Forrester Human Risk Management Solutions Wave
+    
+    [Get Report](https://www.mimecast.com/resources/analyst-reports/mimecast-strong-performer-forrester-wave-hrm/)
+    
+
+Quick Links
+
+* [Careers](https://careers.mimecast.com/en/)
+* [Support](https://community.mimecast.com/s/contactsupport?_ga=2.186716200.1871970708.1633102929-888935228.1623245559)
+* [Login](https://www.mimecast.com/login/)
+* [Contact](https://www.mimecast.com/company/contact/)
+
+* Language
+    
+    * [English](https://www.mimecast.com/company/mimecast-trust-center/privacy-statement/)
+    * [Deutsch](https://www.mimecast.com/de/company/mimecast-trust-center/privacy-statement/)
+    * [français](https://www.mimecast.com/fr/company/mimecast-trust-center/privacy-statement/)
+    
+
+[M365 Threat Scan](https://www.mimecast.com/free-trial/)
+
+[Get a Quote](https://www.mimecast.com/get-a-quote/)
+
 Mimecast Privacy Statement
 ==========================
 
