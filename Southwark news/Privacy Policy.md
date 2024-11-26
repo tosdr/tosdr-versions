@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+    
+    ### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+    
+    [![Credit: Lawrence Okulaja](https://southwarknews.co.uk/wp-content/uploads/2024/11/e8ba5e69-be13-4936-ac89-194f896d05c3-e1732645304217-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
+    
+    ### [Elephant and Castle university evacuated after ‘suspicious package’ reported](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
+    
+    [![Alex Oliver went from naval operations to the operating theatre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-17.33-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
+    
+    ### [From naval operations to the operating theatre: How one veteran found a new career at St Thomas’ Hospital](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
+    
     [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
     
     ### [Calls for deaths and serious injuries on London’s roads to be independently investigated like those on the railway](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
@@ -43,18 +55,6 @@
     [![Westminster Bridge. Credit- Bjørn Erik Pedersen (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Westminster-Bridge.-Credit-Bjorn-Erik-Pedersen-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
     
     ### [Westminster Bridge: Three arrested on suspicion of attempted murder](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
-    
-    [![London mayor Sadiq Khan. Credit - Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/)
-    
-    ### [Plans to build thousands of rent-controlled homes that could save ‘key workers’ up to £600 per month](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/) 
-    
-    [![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-360x180.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-    
-    ### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-    
-    [![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
-    
-    ### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+    
+    ### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+    
+    [![Credit: Lawrence Okulaja](https://southwarknews.co.uk/wp-content/uploads/2024/11/e8ba5e69-be13-4936-ac89-194f896d05c3-e1732645304217-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
+    
+    ### [Elephant and Castle university evacuated after ‘suspicious package’ reported](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
+    
+    [![Alex Oliver went from naval operations to the operating theatre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-17.33-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
+    
+    ### [From naval operations to the operating theatre: How one veteran found a new career at St Thomas’ Hospital](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
+    
     [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
     
     ### [Calls for deaths and serious injuries on London’s roads to be independently investigated like those on the railway](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
@@ -128,18 +140,6 @@ View All Result
     [![Westminster Bridge. Credit- Bjørn Erik Pedersen (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Westminster-Bridge.-Credit-Bjorn-Erik-Pedersen-Creative-Commons-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
     
     ### [Westminster Bridge: Three arrested on suspicion of attempted murder](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
-    
-    [![London mayor Sadiq Khan. Credit - Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/)
-    
-    ### [Plans to build thousands of rent-controlled homes that could save ‘key workers’ up to £600 per month](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/) 
-    
-    [![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-360x180.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-    
-    ### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-    
-    [![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
-    
-    ### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -383,6 +383,24 @@ Website
 
 ### Featured Articles
 
+[![Anne Davis says a routine bus trip has become a logistical nightmare](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3311-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+
+### [Bermondsey pensioner, 92, faces hour-long bus journey to reach high street fifteen-minutes away – and now cannot reach it at all](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+
+[26th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-pensioner-92-faces-hour-long-bus-journey-to-reach-high-street-fifteen-minutes-away-and-now-cannot-reach-it-at-all/)
+
+[![Credit: Lawrence Okulaja](https://southwarknews.co.uk/wp-content/uploads/2024/11/e8ba5e69-be13-4936-ac89-194f896d05c3-e1732645304217-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
+
+### [Elephant and Castle university evacuated after ‘suspicious package’ reported](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
+
+[26th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/elephant-and-castle-university-evacuated-after-suspicious-package-reported/)
+
+[![Alex Oliver went from naval operations to the operating theatre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-26-11-2024-at-17.33-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
+
+### [From naval operations to the operating theatre: How one veteran found a new career at St Thomas’ Hospital](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
+
+[26th November 2024](https://southwarknews.co.uk/area/waterloo/from-naval-operations-to-the-operating-theatre-how-one-veteran-found-a-new-career-at-st-thomas-hospital/)
+
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-120x86.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
 
 ### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
@@ -400,24 +418,6 @@ Website
 ### [Westminster Bridge: Three arrested on suspicion of attempted murder](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
 
 [25th November 2024](https://southwarknews.co.uk/area/waterloo/westminster-bridge-three-arrested-on-suspicion-of-attempted-murder/)
-
-[![London mayor Sadiq Khan. Credit - Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-120x86.jpg)](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/)
-
-### [Plans to build thousands of rent-controlled homes that could save ‘key workers’ up to £600 per month](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/) 
-
-[25th November 2024](https://southwarknews.co.uk/area/london/plans-to-build-thousands-of-rent-controlled-homes-that-could-save-key-workers-up-to-600-per-month/)
-
-[![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-
-### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-
-[25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
-
-[![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
-
-### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
-
-[24th November 2024](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
 
 ### USEFUL PAGES
 
