@@ -1,4 +1,4 @@
-![](https://px.ads.linkedin.com/collect/?pid=3724420&fmt=gif)        Online Curricula and Solutions | Imagine Learning - Imagine Learning                                                        
+![](https://px.ads.linkedin.com/collect/?pid=3724420&fmt=gif)         Online Curricula and Solutions | Imagine Learning - Imagine Learning                                                        
 
 [![](https://www.imaginelearning.com/wp-content/uploads/2024/07/IL-logo_monogram-W.svg)](https://www.imaginelearning.com/)
 
@@ -256,13 +256,13 @@ Get started with Imagine Learning
 Community & Careers
 -------------------
 
-![teachers having a conversation](https://www.imaginelearning.com/wp-content/uploads/2023/04/imagine-learning-teachers-lounge-homepage-card.jpg)
+![teacher exploring customer learning library](https://www.imaginelearning.com/wp-content/uploads/2024/11/learning-library-homepage-card.jpg)
 
-### The Teachers’ Lounge
+### **Customer Learning Library** 
 
-Network, collaborate, grow, and innovate with peers in a community space designed for educators.
+Connecting educators to training, resources, and ongoing program support. 
 
-[Join the Community](https://www.edgenuity.com/community)
+[Explore Now](https://www.imaginelearning.com/resources/customer-learning-library/)
 
 ![Person interviewing ](https://www.imaginelearning.com/wp-content/uploads/2023/04/imagine-learning-careers-homepage-card.jpg)
 
@@ -287,11 +287,16 @@ Seeking lifelong learners who want to empower educators, engage students, and co
 * [Summer School and Extended Learning](https://www.edgenuity.com/solutions/summer-school-after-school)
 * [Professional Development](https://www.edgenuity.com/solutions/professional-development)
 
-[Community](https://www.edgenuity.com/community)[](#collapse-community)
+[Resources](https://www.edgenuity.com/resources)[](#collapse-resources)
 
-* [Teachers' Lounge](https://www.edgenuity.com/community/teachers-lounge)
+* [AI Resources](https://www.edgenuity.com/resources/ai-resources)
+* [HQMI Resources](https://www.edgenuity.com/why-choose-high-quality-instructional-materials)
 * [Blog](https://www.edgenuity.com/blog)
+* [Webinars](https://www.edgenuity.com/support/webinars)
+* [Funding & Resources](https://www.edgenuity.com/support/funding-resources)
+* [Video Library](https://video.imaginelearning.com/)
 * [Customer Stories](https://www.edgenuity.com/community/success-stories)
+* [Customer Learning Library](https://www.edgenuity.com/resources/customer-learning-library)
 
 [Products](https://www.edgenuity.com/products)[](#collapse-products)
 
@@ -309,8 +314,6 @@ Seeking lifelong learners who want to empower educators, engage students, and co
 
 [Support](https://www.edgenuity.com/support)[](#collapse-support)
 
-* [Webinars](https://www.edgenuity.com/support/webinars)
-* [Funding & Resources](https://www.edgenuity.com/support/funding-resources)
 * [Customer Support](https://www.edgenuity.com/support/customer-support)
 * [Technical Requirements](https://www.edgenuity.com/support/technical-requirements)
 * [Accreditations](https://www.edgenuity.com/support/accreditations)
