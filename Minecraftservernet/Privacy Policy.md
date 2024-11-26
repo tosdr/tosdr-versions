@@ -29,17 +29,13 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
+[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
 
-(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -](https://minecraft-server.net/details/whoocraft/ "(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -")[![Omega34](plugins/MineCraft/icons/25x25xOmega34_1732588582.png.pagespeed.ic.FY71Yvql5G.png)
+BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "BEST SURVIVAL • CrackexMc") [BuildixMC](https://minecraft-server.net/details/Buildix/ "BuildixMC") [BuildixMC](https://minecraft-server.net/details/Buildix1/ "BuildixMC")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-Omega34](https://minecraft-server.net/details/Omega34/ "Omega34")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
+1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![CLineNebulousSMP](plugins/MineCraft/icons/25x25xCLineNebulousSMP_1731578297.png.pagespeed.ic.X6ZVRUxALU.jpg)
 
-Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
-
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![Roshanbo82](plugins/MineCraft/icons/25x25xRoshanbo82_1714062801.png.pagespeed.ic.bfxOlVtVTH.png)
-
-SharpnessCraft](https://minecraft-server.net/details/Roshanbo82/ "SharpnessCraft")
+CliveOverflow SMP](https://minecraft-server.net/details/CLineNebulousSMP/ "CliveOverflow SMP")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +138,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06126 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0747 - Created by [Debaucus](https://debauc.us/)
