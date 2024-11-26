@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Provos: The IRA and Sinn Fein](/wp-content/thumbnails/3481-100x70.jpg?x53432)
+* [![Food, Inc.](/wp-content/thumbnails/2487-100x70.jpg?x53432)
     
-    Provos: The IRA and Sinn Fein
+    Food, Inc.
     
-    Where does one begin with the IRA? In the 17th century with the first Protestant settlers in the Northeast of Ireland? With Patrick Pearse's seizure of the GPO building in Dublin in 1916? With the Par](https://documentaryheaven.com/provos-the-ira-and-sinn-fein/ "Provos: The IRA and Sinn Fein")
-* [![Screamadelica – Classic Albums (Primal Scream)](/wp-content/thumbnails/5827-100x70.jpg?x53432)
+    For most Americans, the ideal meal is fast, cheap, and tasty. Food, Inc. examines the costs of putting value and convenience over nutrition and environmental impact.Director Robert Kenner explores t](https://documentaryheaven.com/food-inc/ "Food, Inc.")
+* [![Copyright Criminals](/wp-content/thumbnails/7115-100x70.jpg?x53432)
     
-    Screamadelica – Classic Albums (Primal Scream)
+    Copyright Criminals
     
-    Primal Scream's seminal album Screamadelica was released in 1991, and synthesized the band's rock 'n' roll roots with the dance culture of that time; for many, the album's sound and imagery came to be](https://documentaryheaven.com/screamadelica-classic-albums-primal-scream/ "Screamadelica – Classic Albums (Primal Scream)")
-* [![Twist of Faith (2004)](/wp-content/thumbnails/1520-100x70.jpg?x53432)
+    Copyright Criminals examines the creative and commercial value of musical sampling, including the related debates over artistic expression, copyright law and billions of dollars.Long before people](https://documentaryheaven.com/copyright-criminals/ "Copyright Criminals")
+* [![End Day](/wp-content/thumbnails/270-100x70.png?x53432)
     
-    Twist of Faith (2004)
+    End Day
     
-    There's no easy way to address a highly charged subject like the sexual abuse of young boys by Catholic priests, but with Twist of Faith, director Kirby Dick has taken a straightforward approach, usin](https://documentaryheaven.com/twist-of-faith-2004/ "Twist of Faith (2004)")
-* [![The Case for Christ](/wp-content/thumbnails/2200-100x70.jpg?x53432)
+    Imagine waking up to the last day on Earth...Inspired by the predictions of scientists, End Day creates apocalyptic scenarios that go beyond reality. In a single hour, explore five different fiction](https://documentaryheaven.com/end-day-a-documentary/ "End Day")
+* [![Pale Blue Dot: A Vision of the Human Future in Space](/wp-content/thumbnails/2359-100x70.jpg?x53432)
     
-    The Case for Christ
+    Pale Blue Dot: A Vision of the Human Future in Space
     
-    The documentary The Case for Christ follows reporter Lee Strobel as he interviews a number of religious and historical scholars in order to find out if there is any proof of the resurrection, and to d](https://documentaryheaven.com/the-case-for-christ/ "The Case for Christ")
-* [![Yemen: State of Intoxication](/wp-content/thumbnails/7782-100x70.jpg?x53432)
+    The earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that in glory and triumph, they can become the momentary masters of a](https://documentaryheaven.com/pale-blue-dot/ "Pale Blue Dot: A Vision of the Human Future in Space")
+* [![Know your Mushrooms (2008)](/wp-content/thumbnails/2626-100x70.jpg?x53432)
     
-    Yemen: State of Intoxication
+    Know your Mushrooms (2008)
     
-    Is Yemen a nation under the influence of drugs? Each afternoon the country slows down as both young and old chew Khat leaves for a legal high. Meanwhile farms have stopped growing food and water](https://documentaryheaven.com/yemen-state-intoxication/ "Yemen: State of Intoxication")
+    Ron Mann investigates the miraculous, near-secret world of fungi. Visionaries Gary Lincoff and Larry Evans lead us on a hunt for the wild mushroom and the deeper cultural experiences attached to the m](https://documentaryheaven.com/know-your-mushrooms-2008/ "Know your Mushrooms (2008)")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
