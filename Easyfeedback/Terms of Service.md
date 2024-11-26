@@ -6,33 +6,40 @@
     
     Close Product Open Product
     
+    [**Product overview** – Why you should use easyfeedback](https://easy-feedback.com/products/)
+    
     [Survey tool
     
-    Create modern surveys, questionnaires or quizzes on any topic you like
+    Create. Invite. Evaluate.
     
-     ![Erstelle Online Umfragen für jede Art von Befragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Erstelle-Online-Umfragen-fuer-jede-Art-von-Befragungen.jpg)](https://easy-feedback.com/survey-tool) [Chat survey
+     ![Erstelle-Online-Umfragen-für-jede-Art-von-Befragungen](https://easy-feedback.com/wp-content/uploads/2024/01/Erstelle-Online-Umfragen-fuer-jede-Art-von-Befragungen-1.jpg)](https://easy-feedback.com/survey-tool) [Chat surveys
     
-    Next-level chat questions with AI interpretation of the results
+    Dialog-oriented AI survey
     
-     ![Chatbot example of a satisfaction survey](https://easy-feedback.com/wp-content/uploads/2024/05/Chatbot-example-of-a-satisfaction-survey.png)](https://easy-feedback.com/chat-surveys/) [Result Studio
+     ![Chatbot-Beispiel-einer-Zufriedenheitsbefragung](https://easy-feedback.com/wp-content/uploads/2024/01/Chatbot-Beispiel-einer-Zufriedenheitsbefragung.jpg)](https://easy-feedback.com/chat-surveys/) [Result STUDIO
     
-    Create interactive reports with AI analyses from any surveys
+    AI analyses & dashboards
     
-     ![Exemplary representation of the data in the Result Studio](https://easy-feedback.com/wp-content/uploads/2024/05/Exemplary-representation-of-the-data-in-the-Result-Studio.png)](https://easy-feedback.com/result-studio/) 
+     ![Employee-Satisfaction-Dashboard-im-Result-Studio](https://easy-feedback.com/wp-content/uploads/2024/01/Employee-Satisfaction-Dashboard-im-Result-Studio.jpg)](https://easy-feedback.com/result-studio-en/) 
     
-    It’s so easy to get started with easyfeedback
+    * [API & Integrationen](https://easy-feedback.com/survey-tool/integrations/)
     
-    Create questionnaire, invite participants and evaluate survey results.
+    * [Admin & DSGVO](https://easy-feedback.com/survey-tool/administration-data-protection/)
     
-    * [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
+    Video instructions: How it works
     
-    easyfeedback & the Result STUDIO
+    Create surveys, invite participants and analyze results.
     
-    Let our experts advise you on how you can use easyfeedback.
+    * [Video tutorial](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
     
-    * [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
+    Demo & Consulting
     
-    **Data protection made in Germany** – GDPR | German Server | Certified
+    Get advice from our experts,  
+    how you can use easyfeedback.
+    
+    * [Book a demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
+    
+    **Data protection made in Germany** – GDPR | German server | certified
     
 * Solutions
     
@@ -70,17 +77,18 @@
     
     [Form](https://easy-feedback.com/online-form/)
     
-    It’s so easy to get started with easyfeedback
+    Video instructions: How it works
     
-    Create questionnaire, invite participants and evaluate survey results.
+    Create surveys, invite participants and analyze results.
     
-    * [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
+    * [Video tutorial](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
     
-    easyfeedback & the Result STUDIO
+    Demo & Consulting
     
-    Let our experts advise you on how you can use easyfeedback.
+    Get advice from our experts,  
+    how you can use easyfeedback.
     
-    * [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
+    * [Book a demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
     
     **Data protection made in Germany** – GDPR | German Server | Certified
     
@@ -110,17 +118,18 @@
     
     * [See all templates](https://easy-feedback.com/survey-templates/)
     
-    It’s so easy to get started with easyfeedback
+    Video instructions: How it works
     
-    Create questionnaire, invite participants and evaluate survey results.
+    Create surveys, invite participants and analyze results.
     
-    * [Video tutorials](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
+    * [Video tutorial](https://easy-feedback.com/videos-for-our-survey-tool/?utm_source=videos&utm_campaign=nav_en)
     
-    easyfeedback & the Result STUDIO
+    Demo & Consulting
     
-    Let our experts advise you on how you can use easyfeedback.
+    Get advice from our experts,  
+    how you can use easyfeedback.
     
-    * [Book your demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
+    * [Book a demo](https://easy-feedback.com/personal-consultation/?utm_source=demo&utm_campaign=nav_en)
     
     **Data protection made in Germany** – GDPR | German Server | Certified
     
