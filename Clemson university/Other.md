@@ -108,7 +108,7 @@ Clemson University
     * [Tuition and Fee Calculator](https://www.clemson.edu/finance/student-financials/tuition-fees/index.html)
     * [Undergraduate Financial Aid](https://www.clemson.edu/financial-aid/types/)
     * [Graduate Fellowships and Awards](https://www.clemson.edu/graduate/finance-tuition/fellowships.html)
-    * [Residency Requirements](https://www.clemson.edu/financial-aid/residency/)
+    * [Residency Requirements](https://www.clemson.edu/financial-aid/cost/residency/index.html)
     
 * Campus Life
     
@@ -329,7 +329,7 @@ Forward Arrow Icon Back Arrow Icon Back
     * [Tuition and Fee Calculator](https://www.clemson.edu/finance/student-financials/tuition-fees/index.html)
     * [Undergraduate Financial Aid](https://www.clemson.edu/financial-aid/)
     * [Graduate Fellowships and Awards](https://www.clemson.edu/graduate/finance-tuition/fellowships.html)
-    * [Residency Requirements](https://www.clemson.edu/financial-aid/residency/)
+    * [Residency Requirements](https://www.clemson.edu/financial-aid/cost/residency/index.html)
     
 * Campus Life
     
