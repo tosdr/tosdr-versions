@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ecadf625-1f4c-49e9-92f3-b1a8064a77ae/20241125T062043/ecadf625-1f4c-49e9-92f3-b1a8064a77ae_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ecadf625-1f4c-49e9-92f3-b1a8064a77ae/20241125T062043/ecadf625-1f4c-49e9-92f3-b1a8064a77ae_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/8bf30405-d5cd-4a12-91e4-1d8ee8d68d41/20241126T125007/8bf30405-d5cd-4a12-91e4-1d8ee8d68d41_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8bf30405-d5cd-4a12-91e4-1d8ee8d68d41/20241126T125007/8bf30405-d5cd-4a12-91e4-1d8ee8d68d41_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-45°
+44°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
