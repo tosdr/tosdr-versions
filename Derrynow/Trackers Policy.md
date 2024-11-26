@@ -266,12 +266,12 @@ Most Popular
 [IN PICTURES: Craigbane GAC fans in Celtic Park for Ulster Club Junior Football Final](https://www.derrynow.com/story-telling/pictures---videos/1664117/in-pictures-craigbane-gac-fans-in-celtic-park-for-ulster-club-junior-football-final.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
+[![IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy")](https://www.derrynow.com/story-telling/pictures---videos/1664006/in-pictures-46th-anniversary-commemoration-for-derry-volunteer-patsy-duffy.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Derry Death Notices - Monday, November 25, 2024](https://www.derrynow.com/news/deaths/1662381/derry-death-notices-monday-november-25-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy](https://www.derrynow.com/story-telling/pictures---videos/1664006/in-pictures-46th-anniversary-commemoration-for-derry-volunteer-patsy-duffy.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Donegal man charged with disorderly behavior following incident in Derry remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal man charged with disorderly behavior following incident in Derry remanded")](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
 
@@ -282,20 +282,6 @@ Derry Magistrate's Court
 [Donegal man charged with disorderly behavior following incident in Derry remanded](https://www.derrynow.com/news/local-news/1664052/donegal-man-charged-with-disorderly-behavior-following-incident-in-derry-remanded.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy")](https://www.derrynow.com/story-telling/pictures---videos/1664006/in-pictures-46th-anniversary-commemoration-for-derry-volunteer-patsy-duffy.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy](https://www.derrynow.com/story-telling/pictures---videos/1664006/in-pictures-46th-anniversary-commemoration-for-derry-volunteer-patsy-duffy.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man with 128 previous convictions charged with series of public order offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man with 128 previous convictions charged with series of public order offences")](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man with 128 previous convictions charged with series of public order offences](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.")](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
 
 Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and Finn Houlihan, registrar, at Altnagelvin Hospital.
@@ -304,6 +290,13 @@ Mr Frank Harvey, ENT consultant; Ursula Clifford, head of theatre nursing; and F
 
 [Derry's pioneering nurses to be honoured by Ulster University](https://www.derrynow.com/news/local-news/1664030/derry-s-pioneering-nurses-to-be-honoured-by-ulster-university.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man with 128 previous convictions charged with series of public order offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man with 128 previous convictions charged with series of public order offences")](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man with 128 previous convictions charged with series of public order offences](https://www.derrynow.com/news/local-news/1664058/derry-man-with-128-previous-convictions-charged-with-series-of-public-order-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![AVEVA to expand its operations as it invests £1.4million in Derry site](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "AVEVA to expand its operations as it invests £1.4million in Derry site")](https://www.derrynow.com/news/local-news/1663933/aveva-to-expand-its-operations-as-it-invests-1-4million-in-derry-site.html)
 
@@ -336,6 +329,13 @@ H.M. Prison Magilligan
 
 [Around 60,000 power cuts as Storm Bert sweeps across island of Ireland](https://www.derrynow.com/news/northern-ireland/1662908/around-60-000-power-cuts-as-storm-bert-sweeps-across-island-of-ireland.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/arts---entertainment/1664372/who-are-the-guests-on-this-week-s-graham-norton-show-on-bbc-here-s-the-line-up.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Who are the guests on this week's Graham Norton Show on BBC? Here's the line-up](https://www.derrynow.com/news/arts---entertainment/1664372/who-are-the-guests-on-this-week-s-graham-norton-show-on-bbc-here-s-the-line-up.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1664293/derry-death-notices-tuesday-november-26-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, November 26, 2024](https://www.derrynow.com/news/deaths/1664293/derry-death-notices-tuesday-november-26-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Tesco customers invited to donate whatever they can to Winter Food Collection](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Tesco customers invited to donate whatever they can to Winter Food Collection")](https://www.derrynow.com/news/local-news/1664232/derry-tesco-customers-invited-to-donate-whatever-they-can-to-winter-food-collection.html)
 
 Jess McCulloch with her daughter.
@@ -522,7 +529,7 @@ Jess McCulloch with her daughter.
 [Derry Tesco customers invited to donate whatever they can to Winter Food Collection](https://www.derrynow.com/news/local-news/1664232/derry-tesco-customers-invited-to-donate-whatever-they-can-to-winter-food-collection.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Most popular items bought by inmates at HMP Magilligan over the last year revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Most popular items bought by inmates at HMP Magilligan over the last year revealed")](https://www.derrynow.com/news/derry-news/1664326/most-popular-items-bought-by-inmates-at-hmp-magilligan-over-the-last-year-revealed.html)
+[![Most popular items bought by inmates at HMP Magilligan over the last year revealed](https://www.derrynow.com/resizer/165/93/true/pa/2024_02_08/1707350711377_0.jpg--.jpg?1707350711725 "Most popular items bought by inmates at HMP Magilligan over the last year revealed")](https://www.derrynow.com/news/derry-news/1664326/most-popular-items-bought-by-inmates-at-hmp-magilligan-over-the-last-year-revealed.html)
 
 H.M. Prison Magilligan
 
@@ -553,15 +560,6 @@ The Mayor pictured with two of Longfield' oldest residents, 102 years old Lily C
 
 [Sum of cash stolen from parked vehicle in Derry](https://www.derrynow.com/news/local-news/1664290/sum-of-cash-stolen-from-parked-vehicle-in-derry.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Children in Crossfire launch Christmas gift cards initiative](https://www.derrynow.com/resizer/165/93/true/2024_11_25/IDNT_28-11-24_Children_in_Crossfire_xmas_cards_%282%29-1732543643088.jpg--.jpg?1732543644814 "Children in Crossfire launch Christmas gift cards initiative")](https://www.derrynow.com/news/local-news/1664249/children-in-crossfire-launch-christmas-gift-cards-initiative.html)
-
-Richard Moore with Carla Shiels
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Children in Crossfire launch Christmas gift cards initiative](https://www.derrynow.com/news/local-news/1664249/children-in-crossfire-launch-christmas-gift-cards-initiative.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
