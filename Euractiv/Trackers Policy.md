@@ -111,6 +111,16 @@ Most recent
 
 [26-11-2024
 
+German industry boss warns: Europe could be hit next by Trump tariff threats](https://www.euractiv.com/section/economy-jobs/news/german-industry-boss-warns-europe-could-be-hit-next-in-trump-tariff-threats/)[26-11-2024
+
+Energy security remains a challenge for the EU, Trump could make it worse](https://www.euractiv.com/section/eet/news/energy-security-remains-a-challenge-for-the-eu-trump-could-make-it-worse/)[26-11-2024
+
+‘My majority is becoming reality’, EPP leader Weber proclaims](https://www.euractiv.com/section/politics/news/my-majority-is-becoming-reality-epp-leader-weber-proclaims/)[26-11-2024
+
+Agri-food caught in crossfire of looming trade wars, WTO paralysis](https://www.euractiv.com/section/agriculture-food/news/agri-food-caught-in-crossfire-of-looming-trade-wars-wto-paralysis/)[26-11-2024
+
+NGOs, experts make last push to uphold wolf protection status](https://www.euractiv.com/section/eet/news/ngos-experts-make-last-push-to-uphold-wolf-protection-status/)[26-11-2024
+
 EU healthcare assistants struggle to make a living wage, warn unions](https://www.euractiv.com/section/health-consumers/news/eu-healthcare-assistants-struggle-to-make-a-living-wage-warn-unions/)[26-11-2024
 
 Meta calls for EU regulation on age verification](https://www.euractiv.com/section/tech/news/meta-calls-for-eu-regulation-on-age-verification/)[26-11-2024
@@ -119,17 +129,7 @@ Paris Mayor Anne Hidalgo won’t seek reelection in 2026](https://www.euractiv.c
 
 Czech president warns Trump of rising autocracies](https://www.euractiv.com/section/politics/news/the-capitals-czech-president-warns-trump-of-rising-autocracies/)[26-11-2024
 
-Borissov vows to bring Bulgaria into eurozone if named PM](https://www.euractiv.com/section/politics/news/borissov-vows-to-bring-bulgaria-into-eurozone-if-named-pm/)[26-11-2024
-
-Few Ukrainians mull leaving Poland, poll shows](https://www.euractiv.com/section/politics/news/few-ukrainians-mull-leaving-poland-poll-shows/)[26-11-2024
-
-E5 defence ministers meet in Berlin as Kyiv readies for third war winter](https://www.euractiv.com/section/defence-and-security/news/e5-defense-ministers-meet-in-berlin-as-kyiv-readies-for-third-war-winter/)[26-11-2024
-
-Experts: Merkel’s decisions contributed to multiple German, EU crises, including Ukraine war](https://www.euractiv.com/section/politics/news/experts-merkels-decisions-contributed-to-multiple-german-eu-crises-including-ukraine-war/)[26-11-2024
-
-Portuguese PM says no resignations over ambulance strike deaths](https://www.euractiv.com/section/politics/news/portuguese-pm-says-no-resignations-over-ambulance-strike-deaths/)[26-11-2024
-
-Industrial policy also means ‘letting losers go,’ EU development bank says](https://www.euractiv.com/section/economy-jobs/news/industrial-policy-requires-letting-losers-go-european-development-bank-says/)
+Borissov vows to bring Bulgaria into eurozone if named PM](https://www.euractiv.com/section/politics/news/borissov-vows-to-bring-bulgaria-into-eurozone-if-named-pm/)
 
 ###### Advertisement
 
