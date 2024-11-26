@@ -1,8 +1,8 @@
-Upgrade to Navicat 17.1 Today and Save 15% !
+Navicat Black Friday Get 30% off
 
-[Upgrade Now](https://customer.navicat.com/)
+[Save now](https://www.navicat.com/store)
 
-more Info
+More info
 
 ![](/images/00_BacktoTop.svg)
 
@@ -162,8 +162,9 @@ We use cookies to ensure its efficient functioning. Read about how we use cookie
 
 Accept
 
-![](/images/promotion/20240924/Website_Banner_20240916.png) ![](/images/Btn_close.svg)
+![](/images/promotion/20241126/Website_Desktop_20241127_EN.png) ![](/images/promotion/20241126/Website_mobile_20241127_EN.png) ![](/images/Btn_close.svg)
 
-[Upgrade Now!](https://customer.navicat.com/)
+[Save now](https://www.navicat.com/store)
 
-\* Promotion ends on 26 Sep, 2024 (23:59 ET).
+\*Promotion ends 2 Dec, 2024 (23:59 ET)  
+\*Valid for new Navicat perpetual licenses
