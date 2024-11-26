@@ -201,6 +201,8 @@ The English version of these terms will be the version used when interpreting or
 
 Sejda BV is a Dutch company registered with the Chamber of Commerce Amsterdam under number 68286945 (Kvk nummer)
 
+_We don't sell directly, we sell though FastSpring, our online authorized reseller & merchant of record. FastSpring is the seller on your invoice for billing and tax purposes._
+
 Our address: Sejda BV, Unit G7171, Keurenplein 41, 1069 CD Amsterdam, Netherlands
 
 Our VAT identification is NL857376202B01
