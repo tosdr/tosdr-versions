@@ -2685,6 +2685,8 @@ Runtime SAVE %
 
 In the test phase, the storage is limited to 10 GB and the user count and connections are limited to 5 users. Additional volume can be conveniently booked at any time in the dashboard if payment is also made at the same time.
 
+In the test phase, the storage is limited to 10 GB and the user count is limited to 5 users. Additional volume can be conveniently booked at any time in the dashboard if payment is also made at the same time.
+
 Back Summary
 
 Communication-  
