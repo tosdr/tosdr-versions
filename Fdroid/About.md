@@ -178,4 +178,4 @@ F-Droid is powered by your donations!
 * [Dealing with the heat](https://f-droid.org/en/2024/10/31/twif.html) Oct 31, 2024
 * [This Week Is on Fire](https://f-droid.org/en/2024/10/24/twif.html) Oct 24, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-11-24, fdroid-website [2.290](https://gitlab.com/fdroid/fdroid-website/tree/3e645942a8)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-11-26, fdroid-website [2.290](https://gitlab.com/fdroid/fdroid-website/tree/3e645942a8)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
