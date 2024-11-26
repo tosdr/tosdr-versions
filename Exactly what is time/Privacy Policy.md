@@ -83,7 +83,7 @@ Random Pages
 
 * * *
 
-[The Arrow of Time](https://www.exactlywhatistime.com/physics-of-time/the-arrow-of-time/) [Measurement of Time](https://www.exactlywhatistime.com/measurement-of-time/) [Glossary of Terms](https://www.exactlywhatistime.com/glossary-of-terms/) [Calendars](https://www.exactlywhatistime.com/measurement-of-time/calendars/) [Time In Literature](https://www.exactlywhatistime.com/other-aspects-of-time/time-in-literature/) [Time Standards](https://www.exactlywhatistime.com/measurement-of-time/time-standards/) [Time In Different Cultures](https://www.exactlywhatistime.com/other-aspects-of-time/time-in-different-cultures/) [Psychology of Time](https://www.exactlywhatistime.com/psychology-of-time/) [Other Aspects of Time](https://www.exactlywhatistime.com/other-aspects-of-time/) [Definition of Time](https://www.exactlywhatistime.com/definition-of-time/)
+[Time In Literature](https://www.exactlywhatistime.com/other-aspects-of-time/time-in-literature/) [Glossary of Terms](https://www.exactlywhatistime.com/glossary-of-terms/) [Time Management](https://www.exactlywhatistime.com/other-aspects-of-time/time-management/) [Time Travel](https://www.exactlywhatistime.com/physics-of-time/time-travel/) [Definition of Time](https://www.exactlywhatistime.com/definition-of-time/) [Philosophy of Time](https://www.exactlywhatistime.com/philosophy-of-time/) [Modern Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/modern-philosophy/) [24H Ampm Converter](https://www.exactlywhatistime.com/24h-ampm-converter) [Calendars](https://www.exactlywhatistime.com/measurement-of-time/calendars/) [Psychology of Time](https://www.exactlywhatistime.com/psychology-of-time/)
 
 © 2024 ExactlyWhatIsTime.com - Exactly What Is Time?
 
