@@ -117,7 +117,6 @@ Search Ramsey Solutions Search Ramsey Solutions
     * Home Buying and Selling
         * [Real Estate Agents](https://www.ramseysolutions.com/real-estate/residential-real-estate?snid=trusted-services.home-buying-and-selling.real-estate-agents)
         * [Mortgage](https://www.ramseysolutions.com/real-estate/mortgage-loans?snid=trusted-services.home-buying-and-selling.mortgage)
-        * [I’m an Agent](https://www.ramseysolutions.com/real-estate/real-estate-pro?snid=trusted-services.home-buying-and-selling.i-am-an-agent)
     
     * Retirement and Investing
         * [SmartVestor Pros](https://www.ramseysolutions.com/retirement/smartvestor?snid=trusted-services.retirement-and-investing.smartvestor-pros)
@@ -371,7 +370,6 @@ Search Ramsey Solutions Search Ramsey Solutions
         
     * [Real Estate Agents](https://www.ramseysolutions.com/real-estate/residential-real-estate?snid=trusted-services.home-buying-and-selling.real-estate-agents)
     * [Mortgage](https://www.ramseysolutions.com/real-estate/mortgage-loans?snid=trusted-services.home-buying-and-selling.mortgage)
-    * [I’m an Agent](https://www.ramseysolutions.com/real-estate/real-estate-pro?snid=trusted-services.home-buying-and-selling.i-am-an-agent)
     * **Retirement and Investing**
         
     * [SmartVestor Pros](https://www.ramseysolutions.com/retirement/smartvestor?snid=trusted-services.retirement-and-investing.smartvestor-pros)
@@ -732,5 +730,6 @@ To give you the best online experience, Ramsey Solutions uses cookies and other 
 * [Privacy Policy](https://www.ramseysolutions.com/company/policies/privacy-policy)
 * [Terms of Use](https://www.ramseysolutions.com/company/policies/terms-of-use)
 * [Accessibility](https://help.ramseysolutions.com/hc/en-us/articles/8212654663437-Accessibility)
+* [Editorial Guidelines](https://www.ramseysolutions.com/company/policies/editorial-guidelines)
 
 ©2024 Lampo Licensing, LLC. All rights reserved.
