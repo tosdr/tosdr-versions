@@ -6,7 +6,7 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
 
 [Contact Us](https://www.threeforksmontana.us/contact-us)
 
-![](/imgD/weatherbit_icons/c03d.png) Today's weather: Broken clouds 40°/14°
+![](/imgD/weatherbit_icons/c03d.png) Today's weather: Broken clouds 39°/15°
 
 [![City of Three Forks - A Place to Call Home...](/images/logos_mi/C_650_mi_650_SEAL-favicon_1352902479_7058_1352756831_1286.jpeg)](https://www.threeforksmontana.us/home)[City of Three Forks](https://www.threeforksmontana.us/home)
 
@@ -18,7 +18,7 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
     * [Chamber of Commerce](https://www.threeforksmontana.us/chamber-of-commerce)
     * [Community Library](https://www.threeforksmontana.us/community-library)
     * [Gallatin County Community Notification System](https://www.threeforksmontana.us/gallatin-county-community-notification-system)
-    * [Logan Landfill](https://www.threeforksmontana.us/logan-landfill)
+    * [Garbage Services](https://www.threeforksmontana.us/garbage-services)
     * [Medical Facilities](https://www.threeforksmontana.us/medical-facilities)
     * [River Gauges](https://www.threeforksmontana.us/river-gauges)
     * [Recent News](https://www.threeforksmontana.us/recent-news)
