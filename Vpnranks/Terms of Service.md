@@ -1,4 +1,4 @@
-**$4.99/mo - Black Friday Deal: 2 Years + 6 Months Free—Save Up to 61% Now**Claim Now
+**$4.99/mo - Black Friday Deal: 2 Years + 6 Months Free—Save Up to 61% Now**[Claim Now](https://www.vpnranks.com/visit-provider/expressvpn-generic-VR?subID3=terms-and-conditions/)
 
 [](https://www.vpnranks.com/)
 
