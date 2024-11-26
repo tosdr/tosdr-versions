@@ -279,23 +279,23 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Marc Bru (U.S. Attorney's Office)](https://am22.mediaite.com/lc/cnt/uploads/2024/01/Marc-Bru-432x243.jpg)](https://lawandcrime.com/high-profile/f-ing-kangaroo-court-proud-boy-who-stormed-capitol-and-berated-obama-appointed-judge-gets-reduced-sentence/)
+1. [![Marc Bru (U.S. Attorney's Office)](https://lawandcrime.com/wp-content/uploads/2024/01/Marc-Bru-432x243.jpg)](https://lawandcrime.com/high-profile/f-ing-kangaroo-court-proud-boy-who-stormed-capitol-and-berated-obama-appointed-judge-gets-reduced-sentence/)
     
     ### ['F---ing kangaroo court': Proud Boy who stormed Capitol and berated Obama-appointed judge gets reduced sentence](https://lawandcrime.com/high-profile/f-ing-kangaroo-court-proud-boy-who-stormed-capitol-and-berated-obama-appointed-judge-gets-reduced-sentence/)
     
-2. [![Left to right: Donald Trump, Juan Merchan, Alvin Bragg, and Jack Smith.](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Trump-Merchan-Bragg-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/hush-money-judge-gives-trump-one-final-twist-of-the-knife-by-rejecting-lengthy-deadlines-in-favor-of-das-quick-turnaround-and-deals-jack-smith-one-final-card-to-play/)
+2. [![Left to right: Donald Trump, Juan Merchan, Alvin Bragg, and Jack Smith.](https://lawandcrime.com/wp-content/uploads/2024/11/Trump-Merchan-Bragg-Smith-432x243.jpg)](https://lawandcrime.com/high-profile/hush-money-judge-gives-trump-one-final-twist-of-the-knife-by-rejecting-lengthy-deadlines-in-favor-of-das-quick-turnaround-and-deals-jack-smith-one-final-card-to-play/)
     
     ### [Hush-money judge gives Trump one final twist of the knife by rejecting lengthy deadlines in favor of DA's quick turnaround — and deals Jack Smith one final card to play](https://lawandcrime.com/high-profile/hush-money-judge-gives-trump-one-final-twist-of-the-knife-by-rejecting-lengthy-deadlines-in-favor-of-das-quick-turnaround-and-deals-jack-smith-one-final-card-to-play/)
     
-3. [![Republican presidential candidate former President Donald Trump speaks with reporters at the National Republican Senatorial Committee, Thursday, June 13, 2024, in Washington, as from left, Sen. Rick Scott, R-Fla., Sen. Ron Johnson, R-Wis., Sen. John Barrasso, R-Wyo., Sen Roger Marshall, R-Kan., Sen. J.D. Vance, R-Ohio, and Sen. Steve Daines, R-Mont., listen. (AP Photo/Evan Vucci)](https://am23.mediaite.com/lc/cnt/uploads/2024/11/trumpsenate-ap-432x243.jpg)](https://lawandcrime.com/high-profile/immediate-litigation-trumps-fight-to-end-birthright-citizenship-faces-126-year-old-legal-hurdle/)
+3. [![Republican presidential candidate former President Donald Trump speaks with reporters at the National Republican Senatorial Committee, Thursday, June 13, 2024, in Washington, as from left, Sen. Rick Scott, R-Fla., Sen. Ron Johnson, R-Wis., Sen. John Barrasso, R-Wyo., Sen Roger Marshall, R-Kan., Sen. J.D. Vance, R-Ohio, and Sen. Steve Daines, R-Mont., listen. (AP Photo/Evan Vucci)](https://lawandcrime.com/wp-content/uploads/2024/11/trumpsenate-ap-432x243.jpg)](https://lawandcrime.com/high-profile/immediate-litigation-trumps-fight-to-end-birthright-citizenship-faces-126-year-old-legal-hurdle/)
     
     ### ['Immediate litigation': Trump's fight to end birthright citizenship faces 126-year-old legal hurdle](https://lawandcrime.com/high-profile/immediate-litigation-trumps-fight-to-end-birthright-citizenship-faces-126-year-old-legal-hurdle/)
     
-4. [![Marvin Redondo-Funes](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Marvin-Redondo-Funes-432x243.jpg)](https://lawandcrime.com/crime/man-taking-photo-of-florida-welcomes-you-sign-causes-car-crash-that-kills-his-niece-and-nephews-cops/)
+4. [![Marvin Redondo-Funes](https://lawandcrime.com/wp-content/uploads/2024/11/Marvin-Redondo-Funes-432x243.jpg)](https://lawandcrime.com/crime/man-taking-photo-of-florida-welcomes-you-sign-causes-car-crash-that-kills-his-niece-and-nephews-cops/)
     
     ### [Man taking photo of 'Florida Welcomes You' sign causes car crash that kills his niece and nephews: Cops](https://lawandcrime.com/crime/man-taking-photo-of-florida-welcomes-you-sign-causes-car-crash-that-kills-his-niece-and-nephews-cops/)
     
-5. [![Insets, from left: Dinora Cardoso, Eva Fontes Cardoso, Kayla Cardoso, and Lisa Hamilton. Background: The location where Dinora Cardoso was found in severe neglect (WFXT).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/massneglect-432x243.jpg)](https://lawandcrime.com/crime/3-charged-in-death-of-elderly-woman-found-stuck-to-mattress-infested-with-cockroaches-bedbugs-and-feces-prosecutors/)
+5. [![Insets, from left: Dinora Cardoso, Eva Fontes Cardoso, Kayla Cardoso, and Lisa Hamilton. Background: The location where Dinora Cardoso was found in severe neglect (WFXT).](https://lawandcrime.com/wp-content/uploads/2024/11/massneglect-432x243.jpg)](https://lawandcrime.com/crime/3-charged-in-death-of-elderly-woman-found-stuck-to-mattress-infested-with-cockroaches-bedbugs-and-feces-prosecutors/)
     
     ### [3 charged in death of elderly woman found stuck to mattress infested with cockroaches, bedbugs and feces: Prosecutors](https://lawandcrime.com/crime/3-charged-in-death-of-elderly-woman-found-stuck-to-mattress-infested-with-cockroaches-bedbugs-and-feces-prosecutors/)
     
