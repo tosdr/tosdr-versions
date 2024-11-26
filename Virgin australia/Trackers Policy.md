@@ -149,7 +149,7 @@ disabled Mode
     * [Buying Points](https://www.velocityfrequentflyer.com/the-basics/buying-points/?utm_source=web&utm_medium=vamenu&utm_campaign=nil)
     * [Status](https://www.velocityfrequentflyer.com/the-basics/status)
     
-    Credit Cards
+    Frequent Flyer Credit Cards
     
     * [Transfer credit card points](https://www.velocityfrequentflyer.com/frequent-flyer-credit-cards/partner-cards)
     * [Points earning credit cards](https://www.velocityfrequentflyer.com/frequent-flyer-credit-cards/direct-earn-cards)
