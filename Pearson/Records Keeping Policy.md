@@ -234,6 +234,7 @@ United Kingdom
         
         ### Featured products
         
+        * [AI-powered Study Tool](https://www.pearson.com/en-gb/higher-education/products-services/ai-powered-study-tool.html)
         * [Pearson eTextbooks](https://www.pearson.com/en-gb/higher-education/products-services/pearson-etextbook.html)
         * [Print & eTextbooks](https://www.pearson.com/en-gb/higher-education/products-services/textbooks-and-ebooks.html)
         * [Online Learning Units](https://www.pearson.com/en-gb/higher-education/products-services/online-learning-units.html)
