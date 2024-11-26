@@ -292,21 +292,21 @@ Customer Stories
 
 Featured case study
 
-[![Eye-oo image with logotype](/_next/image/?url=%2Fimages%2Fnav%2FresourcesTab%2Feyeoo.png&w=3840&q=75)
+[![Bella Sante image with logotype](/_next/image/?url=%2Fimages%2Fnav%2Fresources-tab%2Fbella-sante.png&w=3840&q=75)
 
-###### eye-oo Boosts Revenue by €177K+ After Installing Tidio
+###### Bella Santé Automates 75% of Conversations with Lyro AI Chatbot
 
-Discover how this Shopify store used Tidio to offer better service, recover carts, and boost sales.](https://www.tidio.com/blog/eye-oo-case-study/)
+Discover how this med spa used Tidio to automate conversations and add $66k+ in revenue.](https://www.tidio.com/blog/bella-sante-case-study/)
 
 Customer Stories
 
 [![ADT Security Service Improves CSAT by 30% Using Tidio](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-adt.png&w=3840&q=75)
 
-ADT Security Service Improves CSAT by 30% Using Tidio](https://www.tidio.com/blog/adt-case-study/)[![Bella Santé Adds $66K+ to Revenue with Lyro AI Chatbot](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-bella.png&w=3840&q=75)
+ADT Security Service Improves CSAT by 30% Using Tidio](https://www.tidio.com/blog/adt-case-study/)[![How Suitor Achieves 85% Resolution Rate with Lyro AI](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-suitor.png&w=3840&q=75)
 
-Bella Santé Adds $66K+ to Revenue with Lyro AI Chatbot](https://www.tidio.com/blog/bella-sante-case-study/)[![Endeksa’s Lead Generation Grows by 138% with Tidio Flows](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-endeksa.png&w=3840&q=75)
+How Suitor Achieves 85% Resolution Rate with Lyro AI](https://www.tidio.com/blog/suitor-case-study/)[![Gecko Hospitality Automates 90% of Customer Service with Lyro AI](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-gecko.png&w=3840&q=75)
 
-Endeksa’s Lead Generation Grows by 138% with Tidio Flows](https://www.tidio.com/blog/endeksa-case-study/)
+Gecko Hospitality Automates 90% of Customer Service with Lyro AI](https://www.tidio.com/blog/gecko-hospitality-case-study/)
 
 [See all](https://www.tidio.com/resources/case-studies/)
 
@@ -460,11 +460,11 @@ Chatbots for Ecommerce](https://www.tidio.com/blog/ecommerce-chatbots/)
 
 Featured case study
 
-[![Eye-oo image with logotype](/_next/image/?url=%2Fimages%2Fnav%2FresourcesTab%2Feyeoo.png&w=3840&q=75)
+[![Bella Sante image with logotype](/_next/image/?url=%2Fimages%2Fnav%2Fresources-tab%2Fbella-sante.png&w=3840&q=75)
 
-###### eye-oo Boosts Revenue by €177K+ After Installing Tidio
+###### Bella Santé Automates 75% of Conversations with Lyro AI Chatbot
 
-Discover how this Shopify store used Tidio to offer better service, recover carts, and boost sales.](https://www.tidio.com/blog/eye-oo-case-study/)
+Discover how this med spa used Tidio to automate conversations and add $66k+ in revenue.](https://www.tidio.com/blog/bella-sante-case-study/)
 
 Customer Stories
 
@@ -472,11 +472,11 @@ Customer Stories
 
 [![ADT Security Service Improves CSAT by 30% Using Tidio](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-adt.png&w=3840&q=75)
 
-ADT Security Service Improves CSAT by 30% Using Tidio](https://www.tidio.com/blog/adt-case-study/)[![Bella Santé Adds $66K+ to Revenue with Lyro AI Chatbot](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-bella.png&w=3840&q=75)
+ADT Security Service Improves CSAT by 30% Using Tidio](https://www.tidio.com/blog/adt-case-study/)[![How Suitor Achieves 85% Resolution Rate with Lyro AI](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-suitor.png&w=3840&q=75)
 
-Bella Santé Adds $66K+ to Revenue with Lyro AI Chatbot](https://www.tidio.com/blog/bella-sante-case-study/)[![Endeksa’s Lead Generation Grows by 138% with Tidio Flows](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-endeksa.png&w=3840&q=75)
+How Suitor Achieves 85% Resolution Rate with Lyro AI](https://www.tidio.com/blog/suitor-case-study/)[![Gecko Hospitality Automates 90% of Customer Service with Lyro AI](/_next/image/?url=%2Fimages%2Fnav%2Fcase-studies%2Fraw-gecko.png&w=3840&q=75)
 
-Endeksa’s Lead Generation Grows by 138% with Tidio Flows](https://www.tidio.com/blog/endeksa-case-study/)
+Gecko Hospitality Automates 90% of Customer Service with Lyro AI](https://www.tidio.com/blog/gecko-hospitality-case-study/)
 
 Featured Guide
 
