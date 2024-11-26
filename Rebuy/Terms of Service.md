@@ -363,6 +363,7 @@ Create Intelligent Shopping Experiences.
 * [Merchant Success](https://www.rebuyengine.com/merchant-success)
 * [Events](https://www.rebuyengine.com/events)
 * [Newsletter](https://www.rebuyengine.com/touchpoint-newsletter-sign-up)
+* [Security](https://www.rebuyengine.com/security)
 
 ### PARTNERS
 
