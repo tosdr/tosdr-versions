@@ -251,25 +251,25 @@ this week
 
 [Gastrointestinal Problems](https://www.sciencedaily.com/news/health_medicine/gastrointestinal_problems/)
 
-[Dementia](https://www.sciencedaily.com/news/mind_brain/dementia/)
+[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
-[Brain-Computer Interfaces](https://www.sciencedaily.com/news/mind_brain/brain-computer_interfaces/)
+[Colitis](https://www.sciencedaily.com/news/health_medicine/colitis/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Black Holes](https://www.sciencedaily.com/news/space_time/black_holes/)
-
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Galaxies](https://www.sciencedaily.com/news/space_time/galaxies/)
+[Photography](https://www.sciencedaily.com/news/computers_math/photography/)
+
+[Computer Programming](https://www.sciencedaily.com/news/computers_math/computer_programming/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Cell Biology](https://www.sciencedaily.com/news/plants_animals/cell_biology/)
 
-[Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
+[Floods](https://www.sciencedaily.com/news/earth_climate/floods/)
 
-[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
+[Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
 
   
 
