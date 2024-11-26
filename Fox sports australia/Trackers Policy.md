@@ -40,14 +40,6 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | SA  | 253 & 2 /74 |
-    | WA  | 373 & 3 /243d |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250113)
-* [Sheffield Shield
-    
-    |     |     |
-    | --- | --- |
     | NSW | 338 |
     | TAS | 364 & 4 /226 |
     
@@ -56,10 +48,20 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | QLD | 297 |
-    | VIC | 186 & 3 /329 |
+    | QLD | 297 & 3 /58 |
+    | VIC | 186 & 439 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250115)
+* [Sheffield Shield
+    
+    Match Drawn
+    
+    |     |     |
+    | --- | --- |
+    | SA  | 253 & 6 /208 |
+    | WA  | 373 & 3 /243d |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250113)
 * Motorsport
     
 * [Formula 1
@@ -188,18 +190,58 @@ FOX SCORES
     | BKN | 128 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010267/box-score)
-* Football
+* [NBA
     
-* [Premier League
-    
-    Full Time
+    27/11 11:00 AEST
     
     |     |     |
     | --- | --- |
-    | NEW | 0   |
-    | WHU | 2   |
+    | WAS | –   |
+    | CHI | –   |
     
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251207)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010069)
+* [NBA
+    
+    27/11 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MIA | –   |
+    | MIL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010071)
+* [NBA
+    
+    27/11 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MIN | –   |
+    | HOU | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010073)
+* [NBA
+    
+    27/11 13:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | UTA | –   |
+    | SA  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010075)
+* [NBA
+    
+    27/11 14:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PHO | –   |
+    | LAL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010077)
+* Football
+    
 * [UCL
     
     27/11 4:45 AEST
