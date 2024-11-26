@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you very much for your insanely fast reply! Really impressive and highly appreciate.
+Your proxy server (Poland) makes our work easier and faster. We are very happy with your service.
 
-Andre Blackert
+Nina Kolos
