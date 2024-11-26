@@ -68,9 +68,9 @@ Menu
     * [Cerebral Palsy](https://www.sokolovelaw.com/birth-injuries/cerebral-palsy/ "Cerebral Palsy")
     * [Cerebral Palsy Lawyer](https://www.sokolovelaw.com/birth-injuries/cerebral-palsy/lawyer/ "Cerebral Palsy Lawyer")
     * [Cerebral Palsy Lawsuit](https://www.sokolovelaw.com/birth-injuries/cerebral-palsy/lawsuit/ "Cerebral Palsy Lawsuits")
+    * [Cerebral Palsy Law Firm](https://www.sokolovelaw.com/birth-injuries/cerebral-palsy/law-firm/)
     * [Cerebral Palsy Settlements](https://www.sokolovelaw.com/birth-injuries/cerebral-palsy/settlements/)
     * [Signs of Cerebral Palsy](https://www.sokolovelaw.com/birth-injuries/cerebral-palsy/signs-symptoms/ "Signs of Cerebral Palsy")
-    * [Types of Cerebral Palsy](https://www.sokolovelaw.com/birth-injuries/cerebral-palsy/types/)
     
     * [Erb's Palsy](https://www.sokolovelaw.com/birth-injuries/erbs-palsy/ "Erb's Palsy")
     * [Erb's Palsy Lawyer](https://www.sokolovelaw.com/birth-injuries/erbs-palsy/lawyer/ "Erb's Palsy Lawyer")
