@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/shell-nigeria-spaarzegeltjes-en-de-hoogste-benzineprijs/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/in-elke-situatie-het-hogere-perspectief-waarnemen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
