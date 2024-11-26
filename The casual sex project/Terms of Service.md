@@ -104,6 +104,16 @@ Nov 21 2024
 
 By **[Frederick M. Hess](https://admin.mi52siterestore.com/person/frederick-m-hess/), [Riley Fletcher](https://admin.mi52siterestore.com/person/riley-fletcher/)** Read time **12 mins** [Read More](https://admin.mi52siterestore.com/article/top-public-policy-programs-have-almost-no-conservative-faculty/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-can-end-religious-discrimination-executive-order-restore-constitutional-protection.jpg)[](https://admin.mi52siterestore.com/article/trump-can-end-religious-discrimination/ "Read More")
+
+Commentary Governance Religion
+
+Nov 21 2024
+
+[Trump Can End Religious Discrimination](https://admin.mi52siterestore.com/article/trump-can-end-religious-discrimination/)
+
+By **[Nicole Stelle Garnett](https://admin.mi52siterestore.com/person/nicole-stelle-garnett/), [John Meiser](https://admin.mi52siterestore.com/person/john-meiser/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/trump-can-end-religious-discrimination/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/bragg-vs-trump-nyc-drowning-crime-how-does-convicting-former-president-make-us-safe.jpg)[](https://admin.mi52siterestore.com/article/bragg-vs-trump-nyc-is-drowning-in-crime-how-does-convicting-the-former-president-make-us-safe/ "Read More")
 
 Commentary Governance, Public Safety Crime Control, Policing
@@ -133,16 +143,6 @@ Nov 19 2024
 [Horrific Stabbing Spree in Manhattan Shows How Politicians Still Won’t Lock Up the Dangerous Mentally Ill](https://admin.mi52siterestore.com/article/horrific-stabbing-spree-in-manhattan-shows-how-politicians-still-wont-lock-up-the-dangerous-mentally-ill/)
 
 By **[Carolyn D. Gorman](https://admin.mi52siterestore.com/person/carolyn-d-gorman/), [Stephen Eide](https://admin.mi52siterestore.com/person/stephen-eide/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/horrific-stabbing-spree-in-manhattan-shows-how-politicians-still-wont-lock-up-the-dangerous-mentally-ill/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/immigration-is-a-mess-heres-how-to.jpg)[](https://admin.mi52siterestore.com/article/immigration-is-a-mess-heres-how-to-fix-it/ "Read More")
-
-Commentary Governance, Culture Immigration
-
-Nov 19 2024
-
-[Immigration Is a Mess. Here’s How to Fix It.](https://admin.mi52siterestore.com/article/immigration-is-a-mess-heres-how-to-fix-it/)
-
-By **[Reihan Salam](https://admin.mi52siterestore.com/person/reihan-salam/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/immigration-is-a-mess-heres-how-to-fix-it/)
 
 Our Policy Areas
 ----------------
