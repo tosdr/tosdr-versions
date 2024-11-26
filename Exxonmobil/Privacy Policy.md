@@ -69,8 +69,8 @@
     * * [Managing socioeconomic impacts](http://corporate.exxonmobil.com/sustainability-and-reports/sustainability/engaging-communities-and-our-supply-chain/managing-socioeconomic-impacts)
         * [Philanthropy and social contributions](http://corporate.exxonmobil.com/sustainability-and-reports/sustainability/engaging-communities-and-our-supply-chain/managing-socioeconomic-impacts/philanthropy-and-social-contributions)
         * [Respecting human rights](http://corporate.exxonmobil.com/sustainability-and-reports/sustainability/engaging-communities-and-our-supply-chain/respecting-human-rights)
-        * [STEM education](http://corporate.exxonmobil.com/stem)
-        * [Worldwide giving](http://corporate.exxonmobil.com/who-we-are/corporate-giving/worldwide-giving)
+        * [STEM education](http://corporate.exxonmobil.com/community/stem)
+        * [Worldwide giving](http://corporate.exxonmobil.com/community/worldwide-giving)
     
 * [Newsroom](http://corporate.exxonmobil.com/news)
     
