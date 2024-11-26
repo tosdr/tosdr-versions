@@ -6,7 +6,7 @@ Search SPLC
 
 [](https://www.splcenter.org/ "Home")
 
-[Donate](https://secure.splcenter.org/page/64745/donate/1) Menu
+[Donate](https://secure.splcenter.org/page/76314/donate/1) Menu
 
 * [Our Initiatives](https://www.splcenter.org/our-initiatives#initiatives)
     * [Strengthening Democracy](https://www.splcenter.org/our-initiatives#initiatives)
@@ -35,7 +35,7 @@ Search SPLC
 * [Accessibility](https://www.splcenter.org/accessibility)
 * [Press Center](https://www.splcenter.org/presscenter)
 * [Ways to Give](https://www.splcenter.org/membership)
-* [Donate](https://secure.splcenter.org/page/64745/donate/1)
+* [Donate](https://secure.splcenter.org/page/76314/donate/1)
 
 Search splcenter.org  Search
 
