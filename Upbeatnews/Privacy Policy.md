@@ -9,7 +9,7 @@
 
                                           
 
-[![Inside Mystery](https://images.upbeatnews.com/logo.png)](https://upbeatnews.com/)
+[![](https://images.upbeatnews.com/logo.png)](https://upbeatnews.com/)
 
 * [Food](https://upbeatnews.com/food)
 * [Humor](https://upbeatnews.com/humor)
