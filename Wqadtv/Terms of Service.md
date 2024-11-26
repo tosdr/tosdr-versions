@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/9b7bb519-1d54-49af-bdd7-c8bab59aef94/20241126T015759/9b7bb519-1d54-49af-bdd7-c8bab59aef94_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9b7bb519-1d54-49af-bdd7-c8bab59aef94/20241126T015759/9b7bb519-1d54-49af-bdd7-c8bab59aef94_360x203.jpg)](https://www.wqad.com/article/news/agriculture/agriculture-post-harvest-anhydrous-ammonia-fields/526-8bd1235d-0840-481f-b745-c5fefcac5298)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/317c2dfd-20f4-42cd-b5c9-749be3ed8436/20241126T045027/317c2dfd-20f4-42cd-b5c9-749be3ed8436_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/317c2dfd-20f4-42cd-b5c9-749be3ed8436/20241126T045027/317c2dfd-20f4-42cd-b5c9-749be3ed8436_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-schools-consider-adding-weapons-detectors-after-4-guns-found-since-july/526-e767d0f7-eaa0-4c53-aebb-8b30d8245f78)
         
-        #### [How farmers safely transport and apply chemicals post-harvest to prepare for the next growing season](https://www.wqad.com/article/news/agriculture/agriculture-post-harvest-anhydrous-ammonia-fields/526-8bd1235d-0840-481f-b745-c5fefcac5298)
+        #### [Security upgrades could be coming to Davenport schools](https://www.wqad.com/article/news/local/davenport-schools-consider-adding-weapons-detectors-after-4-guns-found-since-july/526-e767d0f7-eaa0-4c53-aebb-8b30d8245f78)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/1780fe0d-2216-4773-b308-eae860a76a57/20241125T221836/1780fe0d-2216-4773-b308-eae860a76a57_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1780fe0d-2216-4773-b308-eae860a76a57/20241125T221836/1780fe0d-2216-4773-b308-eae860a76a57_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/wallaces-garden-center-donation-campaign-christmas-tree-farm-north-carolina/526-38994efe-fe7d-4a8a-96f1-3e557892f15a)
+    *  [![](https://media.tegna-media.com/assets/KARE/images/bb4c7bf9-2511-48f2-a48e-3468ea98889f/20241125T041331/bb4c7bf9-2511-48f2-a48e-3468ea98889f_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/bb4c7bf9-2511-48f2-a48e-3468ea98889f/20241125T041331/bb4c7bf9-2511-48f2-a48e-3468ea98889f_360x203.jpg)](https://www.wqad.com/article/news/local/land-of-10000-stories/st-paul-barber-uses-basement-shop-to-teach-teens-business-skills/89-4f9f3207-699c-4ad7-8e95-0d8794993b09)
         
-        #### [Wallace's Garden Center collecting, matching donations to North Carolina Christmas tree farm](https://www.wqad.com/article/news/local/the-current/wallaces-garden-center-donation-campaign-christmas-tree-farm-north-carolina/526-38994efe-fe7d-4a8a-96f1-3e557892f15a)
+        #### [Minnesota barber uses basement of his shop to teach teens business skills](https://www.wqad.com/article/news/local/land-of-10000-stories/st-paul-barber-uses-basement-shop-to-teach-teens-business-skills/89-4f9f3207-699c-4ad7-8e95-0d8794993b09)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/8901d2ce-d5f2-47b5-af9c-6ea5aa438576/20241125T225730/8901d2ce-d5f2-47b5-af9c-6ea5aa438576_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8901d2ce-d5f2-47b5-af9c-6ea5aa438576/20241125T225730/8901d2ce-d5f2-47b5-af9c-6ea5aa438576_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/1599b000-3a47-43fd-b27b-fc2e8d5e43fe/20241126T131228/1599b000-3a47-43fd-b27b-fc2e8d5e43fe_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1599b000-3a47-43fd-b27b-fc2e8d5e43fe/20241126T131228/1599b000-3a47-43fd-b27b-fc2e8d5e43fe_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Promising a chilly night with teens for wind chills late](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Chilly Tuesday despite the return of sunshine](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/2d3b6d67-6544-4bb3-8d59-36de5cb9fe25/20241125T211256/2d3b6d67-6544-4bb3-8d59-36de5cb9fe25_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2d3b6d67-6544-4bb3-8d59-36de5cb9fe25/20241125T211256/2d3b6d67-6544-4bb3-8d59-36de5cb9fe25_360x203.jpg)](https://www.wqad.com/article/weather/ask-andrew/difference-between-forecast-models-european-american/526-a146f2e9-74a5-4116-853d-83f19ce5ea35)
+    *  [![](https://media.tegna-media.com/assets/WUSA/images/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0/20241125T111801/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0_16x9.jpg) ![](https://media.tegna-media.com/assets/WUSA/images/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0/20241125T111801/fa3f5ca3-94ce-4c85-a82e-8bdd234d13c0_360x203.jpg)](https://www.wqad.com/article/tech/science/environment/christmas-trees-real-vs-artificial-environmental-impacts/65-07335bd6-c59b-44d0-b720-72761ded9160)
         
-        #### [What's the difference between the Euro and the GFS forecast models?](https://www.wqad.com/article/weather/ask-andrew/difference-between-forecast-models-european-american/526-a146f2e9-74a5-4116-853d-83f19ce5ea35)
+        #### [Real tree or fake tree: Experts say both holiday staples have pros and cons](https://www.wqad.com/article/tech/science/environment/christmas-trees-real-vs-artificial-environmental-impacts/65-07335bd6-c59b-44d0-b720-72761ded9160)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-22°
+30°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
