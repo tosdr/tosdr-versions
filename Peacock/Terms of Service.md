@@ -63,13 +63,13 @@ Free Trials and Promotions may be subject to Supplemental Terms. We have sole di
 
 2.6. Cancellation and Refund Policy. YOU MAY CANCEL YOUR SUBSCRIPTION TO THE PEACOCK SERVICE AT ANY TIME BEFORE THE END OF THE THEN-CURRENT BILLING PERIOD, TRIAL PERIOD, OR PROMOTIONAL PERIOD (AS APPLICABLE).
 
-2.6.1. _How to Cancel_. TO CANCEL YOUR SUBSCRIPTION, LOG INTO YOUR PEACOCK SERVICE ACCOUNT AND FOLLOW THE INSTRUCTIONS ON YOUR ACCOUNT DETAILS PAGE. FOR DETAILS ON HOW TO CANCEL YOUR SUBSCRIPTION, PLEASE VISIT OUR HELP CENTER.
+2.6.1. _How to Cancel_. TO CANCEL YOUR SUBSCRIPTION, LOG INTO YOUR PEACOCK SERVICE ACCOUNT AND FOLLOW THE INSTRUCTIONS ON YOUR ACCOUNT DETAILS PAGE. FOR DETAILS ON HOW TO CANCEL YOUR SUBSCRIPTION, PLEASE VISIT OUR [HELP CENTER](https://www.peacocktv.com/help/article/cancellation).
 
 2.6.2. _Effect of Cancellation_. PAYMENT CANCELLATION WILL TAKE EFFECT AT THE END OF THE THEN- CURRENT BILLING PERIOD. YOU MUST CANCEL YOUR SUBSCRIPTION ON THE DAY BEFORE YOUR NEXT RECURRING BILLING DATE IN ORDER TO AVOID BEING CHARGED FOR THE NEXT BILLING PERIOD. IF YOU CANCEL, YOU WILL STILL HAVE ACCESS TO THE PEACOCK SERVICE THROUGH THE END OF THE CURRENT BILLING PERIOD UNLESS (i) YOU ARE SUBSCRIBED THROUGH A FREE TRIAL OR PROMOTION, (ii) WE PROVIDE YOU WITH A REFUND, OR (iii) WE OTHERWISE ALLOW YOU TO USE THE UNUSED PORTION TOWARDS ANOTHER SERVICE OR SUBSCRIPTION, IN WHICH CASE CANCELLATION MAY BE EFFECTIVE IMMEDIATELY. YOU ACKNOWLEDGE THAT IF YOU SIGNED UP FOR SERVICE TIERS THAT HAVE DIFFERENT BILLING PERIODS THAN THE BILLING PERIOD OF THE SERVICE TIER YOU CANCELLED, YOUR SUBSCRIPTION FOR THE REMAINING SERVICE TIERS WILL CONTINUE UNTIL THE END OF THEIR SEPARATE BILLING PERIODS.
 
 2.6.3. _Refunds_. WE RESERVE THE RIGHT TO ISSUE REFUNDS, CREDITS, OR DISCOUNTS IN OUR SOLE DISCRETION. IF WE ISSUE A REFUND, CREDIT, OR DISCOUNT, WE ARE UNDER NO OBLIGATION TO ISSUE THE SAME OR SIMILAR REFUND IN THE FUTURE AND WE MAY TERMINATE YOUR ACCOUNT, MEMBERSHIP, OR ACCESS TO THE SUBSCRIPTION. THIS REFUND POLICY APPLIES TO ANY AND ALL PAYMENT METHOD USED TO PROVIDE REFUNDS.
 
-2.7. Subscriptions Obtained Through Third Parties. If you signed up for the Peacock Service through a third party (for example, through Amazon, Apple, Google, Roku, or a Promotion partner), then in addition to these Terms of Service your subscription is also subject to the third party’s terms. Your billing relationship will be directly with the applicable third party, not with Peacock, and that third party’s terms regarding subscription purchase, billing, payment, cancellation, and refunds will control to the extent they conflict with the corresponding provisions in these Terms of Service. Any fees charged for your subscription to the Peacock Service will be billed directly by the applicable third party using the payment information you have provided to them. To cancel a subscription to the Peacock Service obtained through a third party, please follow the cancellation instructions provided by the third party. For more details on how to cancel your subscription, please visit our Help Center.
+2.7. Subscriptions Obtained Through Third Parties. If you signed up for the Peacock Service through a third party (for example, through Amazon, Apple, Google, Roku, or a Promotion partner), then in addition to these Terms of Service your subscription is also subject to the third party’s terms. Your billing relationship will be directly with the applicable third party, not with Peacock, and that third party’s terms regarding subscription purchase, billing, payment, cancellation, and refunds will control to the extent they conflict with the corresponding provisions in these Terms of Service. Any fees charged for your subscription to the Peacock Service will be billed directly by the applicable third party using the payment information you have provided to them. To cancel a subscription to the Peacock Service obtained through a third party, please follow the cancellation instructions provided by the third party. For more details on how to cancel your subscription, please visit our [Help Center](https://www.peacocktv.com/help/article/cancellation).
 
 **3\. License Grant, Devices, and Service Features**
 
@@ -192,7 +192,7 @@ In the case of the Peacock Service application accessed or downloaded via a Thir
 
 9.6. Electronic Notice. You consent to receive notices, including agreements, disclosures, and other communications, electronically from us at the email address you have provided or by posting the notice on Peacock’s website. You agree that these electronic notices satisfy any applicable notification requirements, including legal requirements that such communications be in writing.
 
-9.7. Marketing Communications. You can unsubscribe from our marketing emails via the unsubscribe link provided in the emails or by following instructions provided in the Help Center. You will continue to receive administrative messages from us, such as order confirmations, subscription renewal notices or other communications regarding our relationship or transactions with you.
+9.7. Marketing Communications. You can unsubscribe from our marketing emails via the unsubscribe link provided in the emails or by following instructions provided in the [Help Center](https://www.peacocktv.com/help/article/how-do-i-unsubscribe-from-peacock-emails). You will continue to receive administrative messages from us, such as order confirmations, subscription renewal notices or other communications regarding our relationship or transactions with you.
 
 9.8. Designation of Agent. You hereby appoint us as your agent with full authority to execute any document or take any action we may consider appropriate to confirm the rights granted by you to us in these Terms of Service.
 
@@ -200,7 +200,7 @@ In the case of the Peacock Service application accessed or downloaded via a Thir
 
 Wow, you made it to the end of the whole document. Amazing! You deserve a long, satisfying binge. Thanks for taking the time to read through our terms. Welcome to the flock!
 
-* [NEW! Terms of Use](https://www.peacocktv.com/terms)
+* [NEW Terms of Use (Updated 11/25/24)](https://www.peacocktv.com/terms)
 * [Privacy Policy](https://www.nbcuniversal.com/privacy?brandA=Peacock&intake=Peacock)
 * [Accessibility](https://www.peacocktv.com/help/article/what-accessibility-features-are-available-on-peacock)
 * [CA Notice](https://www.nbcuniversal.com/privacy/california-consumer-privacy-act)
