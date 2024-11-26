@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Sir Fred: El Remake](https://www.myabandonware.com/game/sir-fred-el-remake-tb8)
+* [Fred 2: Pyramania](https://www.myabandonware.com/game/fred-2-pyramania-tb7)
 * [Fred: The Remake](https://www.myabandonware.com/game/fred-the-remake-tb6)
 * [Buster](https://www.myabandonware.com/game/buster-tb5)
 * [Meikyuujou Hydra](https://www.myabandonware.com/game/meikyuujou-hydra-tb4)
-* [Space Panic](https://www.myabandonware.com/game/space-panic-tb3)
-* [Reactors](https://www.myabandonware.com/game/reactors-tb2)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
