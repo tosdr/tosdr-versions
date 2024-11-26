@@ -181,7 +181,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
     
 * CAPTCHA
     
-* Email
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
@@ -254,7 +254,7 @@ Rancho Santa Margarita, CA 92688**
     
 * CAPTCHA
     
-* Email
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
@@ -297,7 +297,7 @@ All Rights Reserved.
     
 * CAPTCHA
     
-* Email
+* Phone
     
     This field is for validation purposes and should be left unchanged.
     
