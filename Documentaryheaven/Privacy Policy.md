@@ -118,11 +118,6 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
     
     The Fog of War
@@ -133,34 +128,39 @@ Advertisement
     The Hasidic Drug Dealer
     
     Samuel Leibowitz is a member of an ultraorthodox Jewish sect and has been in prison for the last 9 years for drug trafficking. Released from prison he plans to return to his community in North London...](https://documentaryheaven.com/hasidic-drug-dealer/ "The Hasidic Drug Dealer")
+* [![The Dark Side of Porn: Diary of a Porn Virgin](/wp-content/thumbnails/872-100x70.jpg?x53432)
+    
+    The Dark Side of Porn: Diary of a Porn Virgin
+    
+    Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/the-dark-side-of-porn-diary-of-a-porn-virgin/ "The Dark Side of Porn: Diary of a Porn Virgin")
 
 ###### Throwback Documentaries
 
-* [![The Kennedy Assassination: 24 Hours After](/wp-content/thumbnails/5970-100x70.jpg?x53432)
+* [![PT 1/2 On Piracy And The Future Of Media](/wp-content/thumbnails/2191-100x70.jpg?x53432)
     
-    The Kennedy Assassination: 24 Hours After
+    PT 1/2 On Piracy And The Future Of Media
     
-    While the moments and hours after his tragic assassination were some of the most formative and important, that story has rarely, and only partially, been told.For the first time, using never-befor](https://documentaryheaven.com/the-kennedy-assassination-24-hours-after/ "The Kennedy Assassination: 24 Hours After")
-* [![What on Earth is Wrong With Gravity?](/wp-content/thumbnails/306-100x70.png?x53432)
+    Each day, millions of youths from Canada and around the world download music and movies off of the Internet. This epidemic of “unauthorized” downloading has been cited by the record and film industrie](https://documentaryheaven.com/pt-12-on-piracy-and-the-future-of-media/ "PT 1/2 On Piracy And The Future Of Media")
+* [![Night Will Fall](/wp-content/thumbnails/9561-100x70.jpg?x53432)
     
-    What on Earth is Wrong With Gravity?
+    Night Will Fall
     
-    Particle physicist and ex D:Ream keyboard player Dr Brian Cox wants to know why the Universe is built the way it is.He believes the answers lie in the force of gravity. But Newton thought gravity wa](https://documentaryheaven.com/what-on-earth-is-wrong-with-gravity/ "What on Earth is Wrong With Gravity?")
-* [![Time Trip](/wp-content/thumbnails/315-100x70.png?x53432)
+    Night Will Fall is a documentary that was originally shot by Alfred Hitchcock and Sidney Bernstein in 1945 just after the war ended, and it's about the atrocities the victors discovered upon finding t](https://documentaryheaven.com/night-will-fall/ "Night Will Fall")
+* [![Who Killed Rasputin?](/wp-content/thumbnails/4217-100x70.jpg?x53432)
     
-    Time Trip
+    Who Killed Rasputin?
     
-    Horizon's Time Trip is a thrilling journey deep into the strangeness of cutting-edge physics - a place where beautiful, baffling ideas are sometimes indistinguishable from the utterly crazy.On this](https://documentaryheaven.com/time-trip/ "Time Trip")
-* [![Age of Consent: Canada’s Original Vigilante Pedophile Hunter](/wp-content/thumbnails/12860-100x70.jpg?x53432)
+    The programme-makers re-opened the investigation into his death and found conclusive evidence to suggest that Rasputin was murdered in St Petersburg in 1916 in a plot hatched by rogue members of the B](https://documentaryheaven.com/who-killed-rasputin/ "Who Killed Rasputin?")
+* [![Interview with a Cannibal](/wp-content/thumbnails/6808-100x70.jpg?x53432)
     
-    Age of Consent: Canada’s Original Vigilante Pedophile Hunter
+    Interview with a Cannibal
     
-    Justin Payne is a self-proclaimed vigilante who spends his nights pretending to be a 13-year-old boy online. He is intent on shaming every pedophile who falls for his trap. With help from his camerama](https://documentaryheaven.com/age-of-consent/ "Age of Consent: Canada’s Original Vigilante Pedophile Hunter")
-* [![What’s Killing Our Bees](/wp-content/thumbnails/7827-100x70.jpg?x53432)
+    Issei Sagawa murdered an innocent woman and spent three days eating her flesh. Due to loopholes in the law, Issei is a free man to this day.On the afternoon of June 13, 1981, a Japanese man named](https://documentaryheaven.com/interview-with-a-cannibal/ "Interview with a Cannibal")
+* [![The Billion Dollar Art Hunt](/wp-content/thumbnails/16397-100x70.jpg?x53432)
     
-    What’s Killing Our Bees
+    The Billion Dollar Art Hunt
     
-    Bill Turnbull investigates one of the biggest mysteries in the British countryside: what is killing our bees. It is a question that generates huge controversy. Changes in the weather, pesticides and e](https://documentaryheaven.com/whats-killing-our-bees/ "What’s Killing Our Bees")
+    As an arts journalist John Wilson has covered the theft of many great paintings over the years, most never return but when they do it usually makes headline news, and a journalist like him will tell](https://documentaryheaven.com/billion-dollar-art-hunt/ "The Billion Dollar Art Hunt")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
