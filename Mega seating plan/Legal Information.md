@@ -92,7 +92,7 @@ Mega Seating Plan Ltd is registered as a company in England and Wales (registrat
 
 Mega Seating Plan Ltd is registered with the Information Commissioner's Office (#ZA331933).
 
-Mega Seating Plan Ltd is registered for VAT in the United Kingdom (394723269) and in the European Union (EU372042551).
+Mega Seating Plan Ltd is registered for VAT in the United Kingdom (GB394723269) and in the European Union (EU372042551).
 
 © Mega Seating Plan Ltd 2015-2024
 
