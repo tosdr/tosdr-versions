@@ -1,4 +1,4 @@
-                                       [Skip to content](#MainContent)
+                             [Skip to content](#MainContent)
 
 [](https://www.perfectsleepchair.com/collections/black-friday-deals)
 
@@ -275,8 +275,6 @@ Miralux Saddle
  
 
 Add to cart
-
-Notify Me When Available
 
 ![visa](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![amazon payments](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![american express](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![apple pay](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![google pay](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![master](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![discover](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)![bread](https://cdn.shopify.com/s/assets/payment_icons/generic-dfdcaf09b6731ca14dd7441354c0ad8bc934184eb15ae1fda6a6b9e307675485.svg)
 
@@ -644,10 +642,8 @@ Copyright © 2024 Journey Health & Lifestyle, all rights reserved.
 
 * Choosing a selection results in a full page refresh.
 
-[Shop](https://www.perfectsleepchair.com/collections/all)
-
-[0 Cart](https://www.perfectsleepchair.com/cart)
-
 [Account](https://www.perfectsleepchair.com/account)
 
 [Search](https://www.perfectsleepchair.com/search)
+
+[0 Cart](https://www.perfectsleepchair.com/cart)
