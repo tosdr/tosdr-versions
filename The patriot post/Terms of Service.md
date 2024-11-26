@@ -201,20 +201,22 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34559)
+     [](https://patriotpost.us/cartoons/34570)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Jeff Jacoby The Social Security Trust Fund, and Other Harmful Myths](https://patriotpost.us/opinion/112291-the-social-security-trust-fund-and-other-harmful-myths-2024-11-25)
-*      [Gary Bauer Bondi, Pam Bondi](https://patriotpost.us/opinion/112281-bondi-pam-bondi-2024-11-25)
-*      [The Washington Stand Losing Battles Yet Still Gaining Ground](https://patriotpost.us/opinion/112279-losing-battles-yet-still-gaining-ground-2024-11-25)
-*      [The Babylon Bee America Is Toast: Here Are 9 More A-List Celebs Who Are Leaving](https://patriotpost.us/opinion/112280-america-is-toast-here-are-9-more-a-list-celebs-who-are-leaving-2024-11-25)
-*      [Matthew Continetti Resist the Global Intifada](https://patriotpost.us/opinion/112248-resist-the-global-intifada-2024-11-23)
-*      [Mark Alexander Gaetz Out, Bondi In!](https://patriotpost.us/alexander/112249-gaetz-out-bondi-in-2024-11-22)
-*      [Hans von Spakovsky What Everyone Is Missing in the Argument Over Mass Deportation](https://patriotpost.us/opinion/112247-what-everyone-is-missing-in-the-argument-over-mass-deportation-2024-11-22)
-*      [Tim Graham Is It the End of the ‘Big Media Era’?](https://patriotpost.us/opinion/112243-is-it-the-end-of-the-big-media-era-2024-11-22)
+*      [Cal Thomas Fluoride: Good or Bad?](https://patriotpost.us/opinion/112331-fluoride-good-or-bad-2024-11-26)
+*      [Daniel McCarthy Trump Draws the Map to 2028](https://patriotpost.us/opinion/112330-trump-draws-the-map-to-2028-2024-11-26)
+*      [Victor Joecks America’s ‘Chicken Little’ Elites](https://patriotpost.us/opinion/112329-americas-chicken-little-elites-2024-11-26)
+*      [Gary Bauer Lying About America](https://patriotpost.us/opinion/112328-lying-about-america-2024-11-26)
+*      [Christine Flowers Wandering in the Wilderness for Four Years Not Appealing](https://patriotpost.us/opinion/112326-wandering-in-the-wilderness-for-four-years-not-appealing-2024-11-26)
+*      [Salena Zito The Family-Run Businesses That Make Thanksgiving Possible](https://patriotpost.us/opinion/112327-the-family-run-businesses-that-make-thanksgiving-possible-2024-11-26)
+*      [Tony Perkins Capitol Bathroom Debate Is a Symptom of Much Deeper Problems](https://patriotpost.us/opinion/112325-capitol-bathroom-debate-is-a-symptom-of-much-deeper-problems-2024-11-26)
+*      [The Washington Stand Tugging a Strand of History: Feminism, Communism, and Transgender Bathrooms](https://patriotpost.us/opinion/112324-tugging-a-strand-of-history-feminism-communism-and-transgender-bathrooms-2024-11-26)
+*      [The Babylon Bee Musk Announces Plan to Buy MSNBC and Turn It Into a News Network](https://patriotpost.us/opinion/112323-musk-announces-plan-to-buy-msnbc-and-turn-it-into-a-news-network-2024-11-26)
+*      [Guest Commentary Peace Through Strength](https://patriotpost.us/opinion/112332-peace-through-strength-2024-11-26)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +230,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“When all government, domestic and foreign, in little as in great things, shall be drawn to Washington as the center of all power, it will render powerless the checks provided of one government on another.” —Thomas Jefferson (1821)
+“Equal and exact justice to all men, of whatever persuasion, religious or political.” —Thomas Jefferson (1801)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
