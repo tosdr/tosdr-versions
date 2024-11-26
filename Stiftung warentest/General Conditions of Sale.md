@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
+* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
+* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
+* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Mittel zur Bein­pflege: Hilft Creme bei strapazierten Gefäßen?](https://www.test.de/Mittel-zur-Beinpflege-Hilft-Creme-bei-strapazierten-Gefaessen-6148280-0/ "Mittel zur Beinpflege - Hilft Creme bei strapazierten Gefäßen?")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
-* [ETF-Sparpläne im Minus: Die wichtigsten Antworten auf Fragen von Börsen­anfängern](https://www.test.de/ETF-Sparplaene-im-Minus-Die-wichtigsten-Antworten-fuer-Boersenanfaenger-5973024-0/ "ETF-Sparpläne im Minus - Die wichtigsten Antworten auf Fragen von Börsenanfängern")
+* [iPhone 16 im Schnell­test: So gut sind die neuen Smartphones von Apple](https://www.test.de/iPhone-16-im-Schnelltest-So-gut-sind-die-neuen-Smartphones-von-Apple-6161196-0/ "iPhone 16 im Schnelltest - So gut sind die neuen Smartphones von Apple")
+* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Verpackungs­ärger: Short­bread von The Irish Short­bread Company](https://www.test.de/Verpackungsaerger-Shortbread-von-The-Irish-Shortbread-Company-5992223-0/ "Verpackungsärger - Shortbread von The Irish Shortbread Company")
 
 Service Stiftung Warentest
 
