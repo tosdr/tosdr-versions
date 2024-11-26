@@ -185,13 +185,3 @@ Join our newsletter and get an exclusive 15% off your first order!
 * [Cookies](javascript:void(0);)
 * [Condition of Use](https://www.playmobil.com/en-us/content/terms_and_conditions/TERMS_AND_CONDITIONS.html)
 * [Legal information](https://www.playmobil.com/en-us/content/gesetzhinweis/GESETZHINWEIS.html)
-
-      
-
-Hey, please update your browser
-
-Looks like you are using older versions, and you will need a latest one.
-
-[Download Chrome](https://www.playmobil.us/content/privacy_policy/www.playmobil.com) [Download Firefox](https://www.playmobil.us/content/privacy_policy/www.playmobil.com)
-
-Other options are Opera, Safari and Edge
