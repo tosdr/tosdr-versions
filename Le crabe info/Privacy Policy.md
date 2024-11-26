@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 673 utilisateurs actifs
+##### 182 utilisateurs actifs
 
 Chargement en cours
 
@@ -152,12 +152,12 @@ Chargement en cours
 
 ### Statistiques
 
-* 67 971 membres
-* 954 articles
-* 26 959 commentaires
-* [2 669 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
+* 67 973 membres
+* 955 articles
+* 26 967 commentaires
+* [2 668 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
 * [874 abonnés X](https://x.com/lecrabeinfo)
-* [67 501 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
+* [67 502 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
