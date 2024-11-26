@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Try That In A Small TownJason Aldean<br><br>4:40am |
-| Truck On FireCarly Pearce<br><br>4:37am |
-| Just To Say We DidKenny Chesney<br><br>4:34am |
-| Tennessee OrangeMegan Moroney<br><br>4:30am |
-| Miles On ItKane Brown Ft Marshmello<br><br>4:27am |
+| Where It EndsBailey Zimmerman<br><br>10:40am |
+| LiarJelly Roll<br><br>10:36am |
+| Just The WayParmalee Ft Blanco Brown<br><br>10:33am |
+| Miles On ItKane Brown Ft Marshmello<br><br>10:30am |
+| Dirt CheapCody Johnson<br><br>10:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Spanish • Western
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
