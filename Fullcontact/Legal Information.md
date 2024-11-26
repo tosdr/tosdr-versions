@@ -4,7 +4,7 @@
     
 * Industries
     
-    [![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-power-martech.svg)MarTech + AdTech Fully unify first-, second- and third-party data—while ensuring privacy.](https://www.fullcontact.com/industries/martech-adtech-platforms/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-brand.svg)Brands Deliver personalized, privacy-centric experiences—without cookies.](https://www.fullcontact.com/industries/brands/)
+    [![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-power-martech.svg)MarTech + AdTech Fully unify first-, second- and third-party data—while ensuring privacy.](https://www.fullcontact.com/industries/martech-adtech-platforms/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-brand.svg)Brands Deliver personalized, privacy-centric experiences—without cookies.](https://www.fullcontact.com/industries/brands/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-personid.svg)Publishers Engage website visitors in real-time, regardless of subscription status.](https://www.fullcontact.com/industries/publishers/)
     
 * [Partners](https://www.fullcontact.com/partners/)
 * Resources
@@ -28,7 +28,7 @@
     
 * Industries
     
-    [![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-power-martech.svg)MarTech + AdTech Fully unify first-, second- and third-party data—while ensuring privacy.](https://www.fullcontact.com/industries/martech-adtech-platforms/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-brand.svg)Brands Deliver personalized, privacy-centric experiences—without cookies.](https://www.fullcontact.com/industries/brands/)
+    [![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-power-martech.svg)MarTech + AdTech Fully unify first-, second- and third-party data—while ensuring privacy.](https://www.fullcontact.com/industries/martech-adtech-platforms/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-brand.svg)Brands Deliver personalized, privacy-centric experiences—without cookies.](https://www.fullcontact.com/industries/brands/)[![](/wp-content/themes/fc-theme/assets/images/nav-icons/icon-personid.svg)Publishers Engage website visitors in real-time, regardless of subscription status.](https://www.fullcontact.com/industries/publishers/)
     
 * [Partners](https://www.fullcontact.com/partners/)
 * Resources
