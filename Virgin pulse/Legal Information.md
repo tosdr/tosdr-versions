@@ -1,6 +1,7 @@
 [Personify HealthHomepage](https://personifyhealth.com/)
 
 * [Contact us](https://www.virginpulse.com/contact-us/)
+* [Member support](https://personifyhealth.zendesk.com/hc/en-us)
 * [Events](https://www.virginpulse.com/events/)
 
 Open language switcher
@@ -121,7 +122,7 @@ Who we serve
 * Company
     
 
-[Contact us](https://www.virginpulse.com/contact-us/) [Events](https://www.virginpulse.com/events/)
+[Contact us](https://www.virginpulse.com/contact-us/) [Member support](https://personifyhealth.zendesk.com/hc/en-us) [Events](https://www.virginpulse.com/events/)
 
 Language
 
