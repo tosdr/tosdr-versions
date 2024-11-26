@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                                   
+Privacy policy – G FUEL                                                                                               
 
 [Skip to content](#MainContent)  
 
@@ -210,7 +210,7 @@ View more
 
 Pause slideshow Play slideshow
 
-[Celebrate, Sip & SaveShop the BOGO Tub-a-Thon!](https://gfuel.com/pages/bogo)
+[Celebrate Black FridayShop the BOGO Tub-a-Thon!](https://gfuel.com/pages/bogo)
 
 [Earn 2XP for every $1 spent this Holiday Season!Join the Rewards Program](https://gfuel.com/pages/rewards)
 
@@ -614,7 +614,7 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 5.0 out of 5 stars
 
-2 Reviews
+4 Reviews
 
 5.0
 
