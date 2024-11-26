@@ -8,12 +8,14 @@
 
 * [New Arrivals](https://fanjoy.co/collections/new-arrivals)
 * [$30 Sweaters](https://fanjoy.co/collections/30-sweaters)
+* [Mystery](https://fanjoy.co/collections/mystery-items)
 * Exclusives
     
     Exclusives
     
     * [Shop All Exclusives](https://fanjoy.co/collections/shop-all-exclusives)
     * [Take Care of Yourself Collection](https://fanjoy.co/collections/take-care-of-yourself)
+    * [Mystery Items](https://fanjoy.co/collections/mystery-items)
     
 * Shop By
     
@@ -25,7 +27,6 @@
     * [Phone Cases](https://fanjoy.co/collections/phone-cases)
     * [Accessories](https://fanjoy.co/collections/accessories)
     
-* [Create Your Own](https://fanjoy.co/pages/partner)
 
 [Log in](https://fanjoy.co/customer_authentication/redirect?locale=en&region_country=US)
 
@@ -287,10 +288,12 @@ United States | USD $
 
 * [New Arrivals](https://fanjoy.co/collections/new-arrivals)
 * [$30 Sweaters](https://fanjoy.co/collections/30-sweaters)
+* [Mystery](https://fanjoy.co/collections/mystery-items)
 * Exclusives
     
     * [Shop All Exclusives](https://fanjoy.co/collections/shop-all-exclusives)
     * [Take Care of Yourself Collection](https://fanjoy.co/collections/take-care-of-yourself)
+    * [Mystery Items](https://fanjoy.co/collections/mystery-items)
     
 * Shop By
     
@@ -300,7 +303,6 @@ United States | USD $
     * [Phone Cases](https://fanjoy.co/collections/phone-cases)
     * [Accessories](https://fanjoy.co/collections/accessories)
     
-* [Create Your Own](https://fanjoy.co/pages/partner)
 
 Country/region
 --------------
