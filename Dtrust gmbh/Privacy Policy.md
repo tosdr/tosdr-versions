@@ -217,6 +217,10 @@ German English
 * [Support](https://www.d-trust.net/en/support)
 * [Ordering products](https://www.d-trust.net/en/ordering "Ordering products")
 
+Social Media
+
+* [Linkedin](https://www.linkedin.com/company/d-trust/ "LinkedIn")
+
 #### We will be glad to advise you:
 
 [+49 (0)30 2598 - 0](tel:+493025980)
