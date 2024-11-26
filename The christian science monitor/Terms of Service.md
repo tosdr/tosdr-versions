@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 22, 2024
+November 25, 2024
 
-Talk with the animals?
+Donald Trump’s balancing act on China
 
-You’ve probably wondered at one time or another about how animals think. What motivates a dog to cajole us to play, or to protect us from a danger we may not perceive? Do cows think only about chewing their cud when out in the field? How do the many creatures we see every day, in cities and in the wild, experience the world?It’s a question that occupies a growing number of scientists studying animal consciousness. They’re painting, as writer Stephanie Hanes reports in her fascinating story today, an increasingly complex portrait of how nonhuman creatures from goats to bumblebees interact with their environment. It’s work that may inform all sorts of human activity, from where we build roads to what we eat. It may change your perspective.
+The big question on many people’s minds, both in the United States and abroad, concerns what President-elect Donald Trump is actually going to do. His first term offers some clues as to how rhetoric became policy (or not). But much has changed.Today, Ann Scott Tyson asks this question about Mr. Trump’s China policy. She shows how two core elements of Mr. Trump’s political identity are in conflict on China. How he manages that balance will be something to watch.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Israeli settlers see Trump’s win as aiding goal of annexing West Bank](https://www.csmonitor.com/World/Middle-East/2024/1125/israel-trump-settlers-west-bank-annexation "Israeli settlers see Trump’s win as aiding goal of annexing West Bank")
+
 [### Marco Rubio wants to take a hard line on China. Will Trump let him?](https://www.csmonitor.com/World/Asia-Pacific/2024/1125/marco-rubio-china-trump-cabinet "Marco Rubio wants to take a hard line on China. Will Trump let him?")
 
 [### In shifting world, post-Soviet states look back to a constant: Russia](https://www.csmonitor.com/World/Europe/2024/1125/russia-soviet-union-georgia-moldova-armenia-ngo "In shifting world, post-Soviet states look back to a constant: Russia")
-
-[### Women in combat are not a ‘social experiment,’ says Canada’s top military commander](https://www.csmonitor.com/World/Americas/2024/1125/General-Carignan-women-combat-roles "Women in combat are not a ‘social experiment,’ says Canada’s top military commander")
 
 * * *
 
