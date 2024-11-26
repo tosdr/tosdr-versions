@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Monday, November 25, 2024**
+**Tuesday, November 26, 2024**
 
-**...Dense Fog and Low Clouds This Morning For Portions of Big Bend and Suwannee Valley; Patchy Fog Extending Into Northeast and Central Florida...Mostly Dry Conditions Statewide Courtesy og High Pressure; Sparse Showers Possible Along Western Panhandle Throughout the Day...Sensitive Wildfire Conditions for Interio Northeast Florida, I-75 Corridor and Portions of Central Florida...Pleasant Temperatures Statewide in 70s This Afternoon...Patchy to Locally Dense Fog Possible Overnight and Early Tuesday Morning Nearly Statewide; Greatest Chance Across Suwannee Valley...Moderate Risk for Rip Currents Along Numerous Panhandle and East Coast Beaches...Minor Flooding Continues for Withlacoochee River near Holder and St. Johns River at Astor...No Tropical Cyclone Activity Expected Within Next 7 Days...**
+**...Fog Dissipates Across North Florida This Morning, Giving Way to a Mixture of Sunshine and Clouds...Weak Cold Front to Bring Isolated Showers Along the I-10 Corridor Today, Stalling Across North Florida Tonight...Near-Zero Rain Chances Expected for Remainder of Florida...Patchy to Locally Dense Fog Forecast Wednesday Morning Nearly Statewide, with Greater Chances for Dense Fog Likely Throughout the Suwannee River Valley...Locally Sensitive Wildfire Conditions Possible for the Interior Peninsula...Minor River Flooding Continues for the Withlacoochee and St. Johns Basins...Moderate Risk of Rip Currents Expected for Florida Panhandle and East-Central Florida Beaches...No Tropical Development Expected Over the Next 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
