@@ -1,5 +1,7 @@
     
 
+    
+
         [Skip to content](#MainContent)
 
 **Free Standard Shipping When You Spend $50+**
@@ -38,18 +40,6 @@ Search
   Search our store 
 
 * [GAMES](https://areyougame.com/collections/games)
-    * [SHOP BY AGE](#)
-        * [Toddlers](https://areyougame.com/collections/toddlers)
-        * [Preschool](https://areyougame.com/collections/preschool)
-        * [Ages 5-8](https://areyougame.com/collections/best-games-ages-5-8)
-        * [Ages 9-12](https://areyougame.com/collections/best-games-ages-9-12)
-        * [Teens](https://areyougame.com/collections/teens)
-        * [Adults](https://areyougame.com/collections/adults)
-    * [SHOP BY PRICE](#)
-        * [$0-$9.99](https://areyougame.com/collections/games-under-10-dollars)
-        * [$10-$14.99](https://areyougame.com/collections/games-under-15-dollars)
-        * [$15-$24.99](https://areyougame.com/collections/games-under-25-dollars)
-        * [$25+](https://areyougame.com/collections/games-over-25-dollars)
     * [SHOP BY CATEGORY](#)
         * [Adult Party Games](https://areyougame.com/collections/adult-party-games)
         * [Board Games](https://areyougame.com/collections/board-games)
@@ -59,23 +49,12 @@ Search
         * [Family Games](https://areyougame.com/collections/family-games)
         * [Game Supplies](https://areyougame.com/collections/game-supplies)
         * [Kids Games](https://areyougame.com/collections/kids-games)
+        * [Murder Mystery](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
         * [Preschool Games](https://areyougame.com/collections/preschool-games)
         * [Strategy Games](https://areyougame.com/collections/strategy-games)
         * [Travel Games](https://areyougame.com/collections/travel-games)
         * [Word Games](https://areyougame.com/collections/word-games)
 * [PUZZLES](https://areyougame.com/collections/puzzles)
-    * [SHOP BY AGE](#)
-        * [Toddlers](https://areyougame.com/collections/puzzles-toddlers)
-        * [Preschool](https://areyougame.com/collections/preschool-puzzles)
-        * [Ages 5-8](https://areyougame.com/collections/puzzles-ages-5-8)
-        * [Ages 9-12](https://areyougame.com/collections/puzzles-ages-9-12)
-        * [Teens](https://areyougame.com/collections/puzzles-teens)
-        * [Adults](https://areyougame.com/collections/adults-puzzles)
-    * [SHOP BY PRICE](#)
-        * [$0-$9.99](https://areyougame.com/collections/puzzles-under-10-dollars)
-        * [$10-$14.99](https://areyougame.com/collections/puzzles-under-15-dollars)
-        * [$15-$24.99](https://areyougame.com/collections/puzzles-under-25-dollars)
-        * [$25+](https://areyougame.com/collections/puzzles-over-25-dollars)
     * [SHOP BY CATEGORY](#)
         * [3D Puzzles](https://areyougame.com/collections/3d-puzzles)
         * [Brainteasers](https://areyougame.com/collections/brain-teaser-puzzles)
@@ -87,17 +66,6 @@ Search
         * [Mystery Puzzles](https://areyougame.com/collections/mystery-puzzles)
         * [Wooden Jigsaw Puzzles](https://areyougame.com/collections/wooden-jigsaw-puzzles)
 * [EDUCATION & LEARNING](https://areyougame.com/collections/education-and-learning)
-    * [SHOP BY AGE](#)
-        * [Toddlers](https://areyougame.com/collections/education-games-toddlers)
-        * [Preschool](https://areyougame.com/collections/education-games-preschool)
-        * [Ages 5-8](https://areyougame.com/collections/education-games-ages-5-8)
-        * [Ages 9-12](https://areyougame.com/collections/education-games-ages-9-12)
-        * [Teens](https://areyougame.com/collections/education-games-teens)
-    * [SHOP BY PRICE](#)
-        * [$0-$9.99](https://areyougame.com/collections/education-games-under-10-dollars)
-        * [$10-$14.99](https://areyougame.com/collections/education-games-under-15-dollars)
-        * [$15-$24.99](https://areyougame.com/collections/education-games-under-25-dollars)
-        * [$25+](https://areyougame.com/collections/education-games-over-25-dollars)
     * [SHOP BY CATEGORY](#)
         * [Building & Construction](https://areyougame.com/collections/building-construction-toys)
         * [Early Learning & Development](https://areyougame.com/collections/early-learning-development-games)
@@ -107,18 +75,6 @@ Search
         * [Musical Toys](https://areyougame.com/collections/musical-toys)
         * [Science & Discovery](https://areyougame.com/collections/science-and-discovery)
 * [ACTIVE PLAY](https://areyougame.com/collections/active-play)
-    * [SHOP BY AGE](https://areyougame.com/collections/active-play)
-        * [Toddler](https://areyougame.com/collections/puzzles-toddlers)
-        * [Preschool](https://areyougame.com/collections/preschool-active-play)
-        * [Ages 5-8](https://areyougame.com/collections/active-play-games-ages-5-8)
-        * [Ages 9-12](https://areyougame.com/collections/active-play-games-ages-9-12)
-        * [Teens](https://areyougame.com/collections/active-play-games-teens)
-        * [Adults](https://areyougame.com/collections/adults-outdoor-indoor-games)
-    * [SHOP BY PRICE](https://areyougame.com/collections/active-play)
-        * [$0-$9.99](https://areyougame.com/collections/active-play-under-10-dollars)
-        * [$10-$14.99](https://areyougame.com/collections/active-play-under-15-dollars)
-        * [$15-$24.99](https://areyougame.com/collections/active-play-under-25-dollars)
-        * [$25+](https://areyougame.com/collections/active-play-over-25-dollars)
     * [SHOP BY CATEGORY](https://areyougame.com/collections/active-play)
         * [Arts & Crafts](https://areyougame.com/collections/arts-and-crafts)
         * [Bouncers & Riding Toys](https://areyougame.com/collections/bouncers-riding-toys)
@@ -129,17 +85,6 @@ Search
         * [Sand & Moldable Toys](https://areyougame.com/collections/play-sand-for-kids)
         * [Skill & Action Toys](https://areyougame.com/collections/skill-action-games)
 * [MADE BY AREYOUGAME](https://areyougame.com/collections/areyougame-collection)
-    * [SHOP BY AGE](#)
-        * [Preschool](https://areyougame.com/collections/ayg-preschool)
-        * [Ages 5-8](https://areyougame.com/collections/ayg-ages-5-8)
-        * [Ages 9-12](https://areyougame.com/collections/ayg-ages-9-12)
-        * [Teens](https://areyougame.com/collections/ayg-teens)
-        * [Adults](https://areyougame.com/collections/ayg-adults)
-    * [SHOP BY PRICE](#)
-        * [$0-$9.99](https://areyougame.com/collections/ayg-under-10-dollars)
-        * [$10-$14.99](https://areyougame.com/collections/ayg-under-15-dollars)
-        * [$15-$24.99](https://areyougame.com/collections/ayg-under-25-dollars)
-        * [$25+](https://areyougame.com/collections/ayg-over-25-dollars)
     * [SHOP BY CATEGORY](#)
         * [Adult Party Games](https://areyougame.com/collections/ayg-adult-party-games)
         * [Arts & Crafts](https://areyougame.com/collections/ayg-arts-crafts)
@@ -153,7 +98,19 @@ Search
         * [Wooden Jigsaw Puzzles](https://areyougame.com/collections/wooden-jigsaw-puzzles)
 * [GIFT FINDER](https://areyougame.com/pages/gift-finder)
     * [Shopping for something special? Let us help!](https://areyougame.com/pages/gift-finder)
-* [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
+* [SHOP BY FANDOM](https://areyougame.com/pages/shop-by-character)
+    * [Daniel Tiger](https://areyougame.com/collections/daniel-tigers-neighborhood)
+    * [DC Justice League](https://areyougame.com/collections/dc-justice-league)
+    * [Disney](https://areyougame.com/collections/disney)
+    * [Doctor Who](https://areyougame.com/collections/doctor-who)
+    * [Dog Man](https://areyougame.com/collections/dog-man)
+    * [Game of Thrones](https://areyougame.com/collections/game-of-thrones)
+    * [Marvel](https://areyougame.com/collections/marvel)
+    * [NFL](https://areyougame.com/collections/nfl)
+    * [Peanuts](https://areyougame.com/collections/peanuts)
+    * [Star Wars](https://areyougame.com/collections/star-wars)
+    * [The Lord of the Rings](https://areyougame.com/collections/the-lord-of-the-rings)
+    * [SHOP MORE FANDOMS](https://areyougame.com/pages/shop-by-character)
 * [SALE](https://areyougame.com/collections/warehouse-clearance)
 * [LIVE SHOPPING](https://areyougame.com/pages/live-shopping)
 
@@ -166,22 +123,6 @@ Search
 
 * [GAMES](https://areyougame.com/collections/games)
     
-    * [SHOP BY AGE](#)
-        
-        * [Toddlers](https://areyougame.com/collections/toddlers)
-        * [Preschool](https://areyougame.com/collections/preschool)
-        * [Ages 5-8](https://areyougame.com/collections/best-games-ages-5-8)
-        * [Ages 9-12](https://areyougame.com/collections/best-games-ages-9-12)
-        * [Teens](https://areyougame.com/collections/teens)
-        * [Adults](https://areyougame.com/collections/adults)
-        
-    * [SHOP BY PRICE](#)
-        
-        * [$0-$9.99](https://areyougame.com/collections/games-under-10-dollars)
-        * [$10-$14.99](https://areyougame.com/collections/games-under-15-dollars)
-        * [$15-$24.99](https://areyougame.com/collections/games-under-25-dollars)
-        * [$25+](https://areyougame.com/collections/games-over-25-dollars)
-        
     * [SHOP BY CATEGORY](#)
         
         * [Adult Party Games](https://areyougame.com/collections/adult-party-games)
@@ -192,6 +133,7 @@ Search
         * [Family Games](https://areyougame.com/collections/family-games)
         * [Game Supplies](https://areyougame.com/collections/game-supplies)
         * [Kids Games](https://areyougame.com/collections/kids-games)
+        * [Murder Mystery](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
         * [Preschool Games](https://areyougame.com/collections/preschool-games)
         * [Strategy Games](https://areyougame.com/collections/strategy-games)
         * [Travel Games](https://areyougame.com/collections/travel-games)
@@ -200,22 +142,6 @@ Search
     
 * [PUZZLES](https://areyougame.com/collections/puzzles)
     
-    * [SHOP BY AGE](#)
-        
-        * [Toddlers](https://areyougame.com/collections/puzzles-toddlers)
-        * [Preschool](https://areyougame.com/collections/preschool-puzzles)
-        * [Ages 5-8](https://areyougame.com/collections/puzzles-ages-5-8)
-        * [Ages 9-12](https://areyougame.com/collections/puzzles-ages-9-12)
-        * [Teens](https://areyougame.com/collections/puzzles-teens)
-        * [Adults](https://areyougame.com/collections/adults-puzzles)
-        
-    * [SHOP BY PRICE](#)
-        
-        * [$0-$9.99](https://areyougame.com/collections/puzzles-under-10-dollars)
-        * [$10-$14.99](https://areyougame.com/collections/puzzles-under-15-dollars)
-        * [$15-$24.99](https://areyougame.com/collections/puzzles-under-25-dollars)
-        * [$25+](https://areyougame.com/collections/puzzles-over-25-dollars)
-        
     * [SHOP BY CATEGORY](#)
         
         * [3D Puzzles](https://areyougame.com/collections/3d-puzzles)
@@ -231,21 +157,6 @@ Search
     
 * [EDUCATION & LEARNING](https://areyougame.com/collections/education-and-learning)
     
-    * [SHOP BY AGE](#)
-        
-        * [Toddlers](https://areyougame.com/collections/education-games-toddlers)
-        * [Preschool](https://areyougame.com/collections/education-games-preschool)
-        * [Ages 5-8](https://areyougame.com/collections/education-games-ages-5-8)
-        * [Ages 9-12](https://areyougame.com/collections/education-games-ages-9-12)
-        * [Teens](https://areyougame.com/collections/education-games-teens)
-        
-    * [SHOP BY PRICE](#)
-        
-        * [$0-$9.99](https://areyougame.com/collections/education-games-under-10-dollars)
-        * [$10-$14.99](https://areyougame.com/collections/education-games-under-15-dollars)
-        * [$15-$24.99](https://areyougame.com/collections/education-games-under-25-dollars)
-        * [$25+](https://areyougame.com/collections/education-games-over-25-dollars)
-        
     * [SHOP BY CATEGORY](#)
         
         * [Building & Construction](https://areyougame.com/collections/building-construction-toys)
@@ -259,22 +170,6 @@ Search
     
 * [ACTIVE PLAY](https://areyougame.com/collections/active-play)
     
-    * [SHOP BY AGE](https://areyougame.com/collections/active-play)
-        
-        * [Toddler](https://areyougame.com/collections/puzzles-toddlers)
-        * [Preschool](https://areyougame.com/collections/preschool-active-play)
-        * [Ages 5-8](https://areyougame.com/collections/active-play-games-ages-5-8)
-        * [Ages 9-12](https://areyougame.com/collections/active-play-games-ages-9-12)
-        * [Teens](https://areyougame.com/collections/active-play-games-teens)
-        * [Adults](https://areyougame.com/collections/adults-outdoor-indoor-games)
-        
-    * [SHOP BY PRICE](https://areyougame.com/collections/active-play)
-        
-        * [$0-$9.99](https://areyougame.com/collections/active-play-under-10-dollars)
-        * [$10-$14.99](https://areyougame.com/collections/active-play-under-15-dollars)
-        * [$15-$24.99](https://areyougame.com/collections/active-play-under-25-dollars)
-        * [$25+](https://areyougame.com/collections/active-play-over-25-dollars)
-        
     * [SHOP BY CATEGORY](https://areyougame.com/collections/active-play)
         
         * [Arts & Crafts](https://areyougame.com/collections/arts-and-crafts)
@@ -289,21 +184,6 @@ Search
     
 * [MADE BY AREYOUGAME](https://areyougame.com/collections/areyougame-collection)
     
-    * [SHOP BY AGE](#)
-        
-        * [Preschool](https://areyougame.com/collections/ayg-preschool)
-        * [Ages 5-8](https://areyougame.com/collections/ayg-ages-5-8)
-        * [Ages 9-12](https://areyougame.com/collections/ayg-ages-9-12)
-        * [Teens](https://areyougame.com/collections/ayg-teens)
-        * [Adults](https://areyougame.com/collections/ayg-adults)
-        
-    * [SHOP BY PRICE](#)
-        
-        * [$0-$9.99](https://areyougame.com/collections/ayg-under-10-dollars)
-        * [$10-$14.99](https://areyougame.com/collections/ayg-under-15-dollars)
-        * [$15-$24.99](https://areyougame.com/collections/ayg-under-25-dollars)
-        * [$25+](https://areyougame.com/collections/ayg-over-25-dollars)
-        
     * [SHOP BY CATEGORY](#)
         
         * [Adult Party Games](https://areyougame.com/collections/ayg-adult-party-games)
@@ -322,7 +202,21 @@ Search
     
     * [Shopping for something special? Let us help!](https://areyougame.com/pages/gift-finder)
     
-* [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
+* [SHOP BY FANDOM](https://areyougame.com/pages/shop-by-character)
+    
+    * [Daniel Tiger](https://areyougame.com/collections/daniel-tigers-neighborhood)
+    * [DC Justice League](https://areyougame.com/collections/dc-justice-league)
+    * [Disney](https://areyougame.com/collections/disney)
+    * [Doctor Who](https://areyougame.com/collections/doctor-who)
+    * [Dog Man](https://areyougame.com/collections/dog-man)
+    * [Game of Thrones](https://areyougame.com/collections/game-of-thrones)
+    * [Marvel](https://areyougame.com/collections/marvel)
+    * [NFL](https://areyougame.com/collections/nfl)
+    * [Peanuts](https://areyougame.com/collections/peanuts)
+    * [Star Wars](https://areyougame.com/collections/star-wars)
+    * [The Lord of the Rings](https://areyougame.com/collections/the-lord-of-the-rings)
+    * [SHOP MORE FANDOMS](https://areyougame.com/pages/shop-by-character)
+    
 * [SALE](https://areyougame.com/collections/warehouse-clearance)
 * [LIVE SHOPPING](https://areyougame.com/pages/live-shopping)
 * [More links](#)
