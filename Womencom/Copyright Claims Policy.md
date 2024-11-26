@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Jennifer Lopez in a brown cardigan and brown toned lipstick](https://www.women.com/img/gallery/jennifer-lopezs-style-transformation-since-her-ben-affleck-divorce/intro-1732038036.jpg)](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+*  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/all-of-ariana-grandes-wicked-tattoos-including-her-matching-ink-with-cynthia-erivo/intro-1732307595.jpg)](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    [Jennifer Lopez's Style Transformation Since Her Divorce From Ben Affleck](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
-    ========================================================================================================================================================================
+    [All Of Ariana Grande's Wicked Tattoos - Including Her Matching Ink With Cynthia Erivo](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
+    ===============================================================================================================================================================================
     
-    J.Lo has done a lot of internal work since her split. And that newfound happiness and bold independence has been reflected in the star's wardrobe.
+    The 2024 "Wicked" movie is ultra-personal for Ariana Grande, who got several Oz-inspired tattoos, including some matching ink with her co-star Cynthia Erivo.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+    By Emily Hutchinson [Read More](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
     
-* *  [![Woman laying down getting lip injections](https://www.women.com/img/gallery/can-you-lay-down-after-getting-botox/intro-1732041593.jpg)](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
+* *  [![Jennifer Lopez in a brown cardigan and brown toned lipstick](https://www.women.com/img/gallery/jennifer-lopezs-style-transformation-since-her-ben-affleck-divorce/intro-1732038036.jpg)](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+        
+        ### [Jennifer Lopez's Style Transformation Since Her Divorce From Ben Affleck](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+        
+        J.Lo has done a lot of internal work since her split. And that newfound happiness and bold independence has been reflected in the star's wardrobe.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
+        
+    *  [![Woman laying down getting lip injections](https://www.women.com/img/gallery/can-you-lay-down-after-getting-botox/intro-1732041593.jpg)](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
@@ -65,18 +77,6 @@
         As beneficial as Botox can be for many people, it's not free of downsides, migration being one of them. But don't let social media scare you.
         
         By Amanda Chatel [Read More](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
-        
-    *  [![Zooey Deschanel at an event](https://www.women.com/img/gallery/6-zooey-deschanel-outfits-that-could-have-come-straight-from-jess-days-closet/intro-1731960916.jpg)](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-        
-        ### [6 Zooey Deschanel Outfits That Could Have Come Straight From Jess Day's Closet](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
-        
-        Since leaving "New Girl," Zooey Deschanel has taken fashion inspo from Jess Day's signature style, wearing cute tights, headbands, and hair pieces.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
         
 
 More Stories
@@ -93,6 +93,18 @@ More Stories
     In a world of revolving trends, fashion experts emphasize the timelessness of personal style, a concept that artist Billie Eilish is very familiar with.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1717137/stunning-transformation-billie-eilish-personal-style/)
+    
+*  [![Zooey Deschanel at an event](https://www.women.com/img/gallery/6-zooey-deschanel-outfits-that-could-have-come-straight-from-jess-days-closet/intro-1731960916.jpg)](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [6 Zooey Deschanel Outfits That Could Have Come Straight From Jess Day's Closet](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
+    
+    Since leaving "New Girl," Zooey Deschanel has taken fashion inspo from Jess Day's signature style, wearing cute tights, headbands, and hair pieces.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
     
 *  [![Jada Pinkett Smith at the Bad Boys premiere](https://www.women.com/img/gallery/5-celebs-that-have-been-open-about-their-battle-with-sex-addiction/intro-1731952801.jpg)](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
     
@@ -393,18 +405,6 @@ More Stories
     Selena Gomez may be the queen of understated makeup, but she's also pulled out some bold, vibrant looks over the years that we love.
     
     By Emily Hutchinson [Read More](https://www.women.com/1705788/selena-gomez-beauty-looks-never-forget/)
-    
-*  [![Cleaning out closet](https://www.women.com/img/gallery/cobwebbing-the-refreshing-dating-trend-explained/intro-1730747990.jpg)](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-    
-    ### [Cobwebbing: The Refreshing Dating Trend, Explained](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
-    
-    Although cobwebbing may seem like a scary step for some people, more than anything it's an act of healing and self care.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1704944/cobwebbing-dating-trend-explained/)
     
 
 Back
