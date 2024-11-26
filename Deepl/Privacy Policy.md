@@ -18,7 +18,7 @@ The data controller responsible for data processing pursuant to the GDPR, BDSG, 
 
 DeepL SE Maarweg 165 50825 Cologne Germany
 
-If you have any questions or concerns about privacy, please contact privacy(at)deepl.com. For the conclusion of a data processing agreement pursuant to Art. 28 GDPR (see in detail section [5](#section_5)) and for general questions about our products, please contact sales(at)deepl.com. Further information on the data processing when contacting DeepL can be found in section [13](#section_13).
+If you have any questions or concerns about privacy, please contact privacy(at)deepl.com. For the conclusion of a data processing agreement pursuant to Art. 28 GDPR (see in detail section [4](#section_4) and [5](#section_5)) and for general questions about our products, please contact sales(at)deepl.com. Further information on the data processing when contacting DeepL can be found in section [13](#section_13).
 
 DeepL's external corporate Data Protection Officer, Dr. Christian Lenz, can be contacted at the following address: dhpg IT-Services GmbH, Bunsenstr. 10a, 51647 Gummersbach, via email to datenschutz(at)dhpg.de, or by telephone on +49 2261 8195 0.
 
@@ -34,19 +34,23 @@ When using our free services, please only enter texts that you wish to transfer 
 
 Please note that according to its Terms and Conditions, you may not use DeepL Translator / Write for the translation or improvement of texts containing personal data of any kind.The translation or improvement of personal data is only possible as part of a DeepL Pro subscription (please see sections [4](#section_4) and [5](#section_5)).
 
-4\. Texts and Improvements – DeepL Write Pro
---------------------------------------------
+4\. Texts and Improvements – DeepL Translator Pro / DeepL API Pro / DeepL Write Pro
+-----------------------------------------------------------------------------------
 
-When using our DeepL Write Pro subscription to improve texts, the texts or documents you submit will not be permanently stored and will only be kept temporarily to the extent necessary for the production and transmission of the improvement. After complete performance of the contractually agreed services all submitted texts or documents and their improvements will be deleted. When using DeepL Write Pro, your texts will not be used to improve the quality of our services. For further information on the processing of your data within a DeepL Pro subscription, please refer to section 6 of this privacy policy and our [Terms and Conditions](https://www.deepl.com/en/pro-license/).
+When using our services DeepL Translator Pro, DeepL API Pro and DeepL Write Pro to translate or improve texts, the texts or documents you submit will not be permanently stored and will only be kept temporarily to the extent necessary for the production and transmission of the translation or improvement. After complete performance of the contractually agreed services all submitted texts or documents and their translations or improvements will be deleted. When using these services, your texts will not be used to improve the quality of our services. For further information on the processing of your data within a DeepL Pro subscription, please refer to section 6 of this privacy policy and our [Terms and Conditions](https://www.deepl.com/en/pro-license/).
 
-Please note that using DeepL Write Pro for the improvement of texts containing personal data of any kind is only permitted if there is a justification for this under data protection law. Therefore, our Ts&Cs provide for the conclusion of a data processing agreement (see section 8.1.3 ofDeepL Pro [Terms and Conditions](https://www.deepl.com/en/pro-license/)). To enter into such an agreement, please contact sales(at)deepl.com.
+Please note that using DeepL Translator Pro, DeepL API Pro and DeepL Write Pro for the translation or improvement of texts containing personal data of any kind is only permitted if there is a justification for this under data protection law. Therefore, our Ts&Cs provide for the conclusion of a data processing agreement (see section 8.1.3 ofDeepL Pro [Terms and Conditions](https://www.deepl.com/en/pro-license/)). To enter into such an agreement, please contact sales(at)deepl.com.
 
-5\. Texts and Translations - DeepL Pro
---------------------------------------
+5\. DeepL Voice
+---------------
 
-When using our DeepL Translator Pro or API Pro subscription to translate texts, the texts or documents you submit will not be permanently stored and will only be kept temporarily to the extent necessary for the production and transmission of the translation. After complete performance of the contractually agreed services all submitted texts or documents and their translations will be deleted. When using DeepL Translator Pro or API Pro, your texts will not be used to improve the quality of our services. For further information on the processing of your data within a DeepL Pro subscription, please refer to section 6 of this privacy policy and our DeepL Pro [Terms and Conditions](https://www.deepl.com/en/pro-license/).
+When using the DeepL Voice services, the audio data of the users will be processed to provide our translation services. The processing includes the transcription and translation of the audio data.
 
-Please note that using DeepL Translator Pro or API Pro for the translation of texts containing personal data of any kind is only permitted if there is a justification for this under data protection law. Therefore, our Ts&Cs provide for the conclusion of a data processing agreement (see section 8.1.3 of [DeepL Pro Terms and Conditions](https://www.deepl.com/pro-license)). To enter into such an agreement, please contact sales(at)deepl.com.
+After complete performance of the contractually agreed services the audio data, their transcriptions and the translations will be deleted on our servers. For DeepL Voice for Conversations transcribed and translated audio data will be stored in the local storage on the customer's side to guarantee a seamless performance of the services. The content in the local storage will be deleted by closing the DeepL app. For further information on the processing of your data within a DeepL Pro subscription, please refer to section 6 of this privacy policy and our [Terms and Conditions](https://www.deepl.com/en/pro-license/).
+
+When providing our Voice services to customers, we act in our capacity as processor. Your data will therefore be processed on the basis of the data processing agreement entered into with our customers. To enter into such an agreement, please contact sales(at)deepl.com.
+
+For DeepL Voice for Meetings we use third party cloud services to be able to integrate our bot application in the Microsoft Teams app. The cloud services are provided by Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, D18 P521 Dublin 18, Ireland (“Microsoft”) or Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855 Luxembourg (AWS). The cloud services will only be used to host our bot application and forward the audio data to our infrastructure. Neither will the transcription or translation be happening on Microsoft or AWS servers, nor will we store any data on Microsoft or AWS servers for this purpose. We have concluded a data processing agreement with Microsoft and AWS and Microsoft and AWS may only process the data according to our instructions and not for its own purposes. Further information on the handling of personal data at Microsoft can be found [here](https://www.microsoft.com/en-us/privacy/privacystatement), at AWS it can be found [here](https://aws.amazon.com/privacy/?nc1=h_ls).
 
 6\. Creating a DeepL account and Signing up for a DeepL Pro Subscription
 ------------------------------------------------------------------------
@@ -99,7 +103,7 @@ If you use our glossary feature and store certain term pairs there, this data wi
 
 ### 7.1 Translation of Documents with DeepL Translator and DeepL Pro
 
-You can translate documents in different file formats both with DeepL Pro (.docx, .pptx, .html, .pdf and .txt) as well as with DeepL Translator (.docx, .pptx and .pdf). When using document translation in DeepL Translator, section [3](#section_3) of this privacy policy applies. If you translate documents of the file types mentioned above while you are logged in to your DeepL Pro account, the texts you submit will only be processed temporarily and will be deleted after the completion of the translation process, including the translations themselves (see also section [5](#section_5) and [6.3](#section_6_3) of this privacy policy). With both DeepL Pro and DeepL Translator, the translation of your documents will be provided exclusively by DeepL and processed on our infrastructure in the EEA.
+You can translate documents in different file formats both with DeepL Pro (.docx, .pptx, .html, .pdf and .txt) as well as with DeepL Translator (.docx, .pptx and .pdf). When using document translation in DeepL Translator, section [3](#section_3) of this privacy policy applies. If you translate documents of the file types mentioned above while you are logged in to your DeepL Pro account, the texts you submit will only be processed temporarily and will be deleted after the completion of the translation process, including the translations themselves (see also section [4](#section_4) and [6.3](#section_6_3) of this privacy policy). With both DeepL Pro and DeepL Translator, the translation of your documents will be provided exclusively by DeepL and processed on our infrastructure in the EEA.
 
 ### 7.2 Temporary Storage of Metadata when Translating Documents
 
@@ -172,7 +176,7 @@ Overview of the cookies and web storage objects used by DeepL:
 | Write | IDLMT\_customization | Description<br><br>Stores if the reference to Write in the header menu was clicked. | TechnologyLocal Storage | Expiry30 days | OwnerDeepL |
 | Write | IDLMT\_preferredLangWeightsWrite | Description<br><br>Stores the weighting of the languages used by the user to allow accurate language identification of the text entered. | TechnologyLocal Storage | Expiry30 days | OwnerDeepL |
 | Translator | IDproductRecommendations | Description<br><br>Used for feature onboarding and discovery on the translator. | TechnologyCookie | Expiry7 days | OwnerDeepL |
-| Translator | IDrecommendationFlags | Description<br><br>Used to store additional translator settings of the user. | TechnologyLocal Storage | Expiry6 month | OwnerDeepL |
+| Translator | IDrecommendationFlags | Description<br><br>Used to store additional translator settings of the user. | TechnologyLocal Storage | Expiry6 months | OwnerDeepL |
 | Discovery and Onboarding | IDclickOnWordHint, LMT\_MessageBox, onboardingData, showAppOnboarding, AppOnboardingInfo, apiOnboarding | Description<br><br>Stores if the user has on-boarded with features to ensure that onboarding prompts are only displayed once. | TechnologyLocal Storage | Expiry1 to 6 months | OwnerDeepL |
 | Checkout Process | IDFurther details about Stripe 3rd party cookies can be found under [https://stripe.com/cookies-policy/legal](https://stripe.com/cookies-policy/legal). | Description<br><br>Fraud detection and security for check-out and payments. This cookie is only set if you enter the checkout process or view your account payment information. | TechnologyCookie (3rd party) | ExpirySession to 2 years | OwnerThird Party - Stripe |
 | Checkout Process | IDuserCountry | Description<br><br>Stores the user's selected country during the checkout process. | TechnologyLocal Storage / Cookie | ExpirySession | OwnerDeepL |
@@ -200,7 +204,6 @@ Overview of the cookies and web storage objects used by DeepL:
 | Speech-to-text | IDspeechToTextConsent | Description<br><br>Stores the consent of the Free and DeepL account users when using the speech-to-text feature. | TechnologyCookie | Expiry100 years | OwnerDeepL |
 | Security | ID\_\_cf\_bm | Description<br><br>Used to prevent misuse of our services by using the Cloudflare bot score. | TechnologyCookie | Expiry30 minutes (after continuous inactivity of the user) | OwnerThird Party - Cloudflare |
 | Allocation of assets | IDINGRESSCOOKIE | Description<br><br>Used to provide the user with the correct version of the assets (Javascript, CSS, etc.) when deepl.com is updated. | TechnologyCookie | Expirysession | OwnerDeepL |
-| Session handling | IDdl\_ita\_ingress | Description<br><br>Ensures that all requests of the session are handled by the correct internal server. | TechnologyCookie | ExpirySession | OwnerDeepL |
 
 ### Performance
 
@@ -214,7 +217,7 @@ Overview of the cookies and web storage objects used by DeepL:
 | Context | ID  | Description | Technology | Expiry | Owner |
 | --- | --- | --- | --- | --- | --- |
 | Translator | IDuserRecommendations | Description<br><br>Used to  personalise the users experience. | TechnologyCookie | Expiry7 days | OwnerDeepL |
-| Translator | IDrecommendationFlags | Description<br><br>Used to store additional translator settings of the user. | TechnologyLocal Storage | Expiry6 month | OwnerDeepL |
+| Translator | IDrecommendationFlags | Description<br><br>Used to store additional translator settings of the user. | TechnologyLocal Storage | Expiry6 months | OwnerDeepL |
 | Checkout Process | IDLMT\_resumeCheckout | Description<br><br>Used to store checkout details of the user to help users resume the checkout process. | TechnologyLocal Storage | ExpiryPersistent Data | OwnerDeepL |
 | Product information | IDapiDocsVisited | Description<br><br>Stores whether API documentation has been visited to help users select the correct package at checkout. | TechnologyLocal Storage | ExpiryPersistent Data | OwnerDeepL |
 
@@ -348,7 +351,7 @@ We also use a service provided by UserTesting, Inc. 144 Townsend Street, San Fra
 
 ### 15.7 Ethnio
 
-We use a service provided by Ehtnio Inc, 1909 Roselia Ave, Los Angeles CA 90027, USA, ("Ethnio") to store contact details of participants who signed up to our internal panel for the purpose of inviting them to participate in studies and to incentivize our research studies. Ethnio uses different subcontractors, which are also located in the USA. We have concluded a data processing agreement with Ethnio and Ethnio only processes the data in accordance with our instructions and not for its own purposes. You can find more information about Ethnio's handling of personal data [here](https://ethn.io/gdpr).
+We use a service provided by Ethnio Inc, 1909 Roselia Ave, Los Angeles CA 90027, USA, ("Ethnio") to store contact details of participants who signed up to our internal panel for the purpose of inviting them to participate in studies and to incentivize our research studies. Ethnio uses different subcontractors, which are also located in the USA. We have concluded a data processing agreement with Ethnio and Ethnio only processes the data in accordance with our instructions and not for its own purposes. You can find more information about Ethnio's handling of personal data [here](https://ethn.io/gdpr).
 
 16\. DeepL’s Social Media Pages
 -------------------------------
@@ -448,13 +451,13 @@ We may transfer personal data to the overseas delegatees listed below in order t
 
 * Process payments: We forward the necessary payment data to our authorized payment service provider Stripe Payments Europe Ltd., Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland. Where necessary, Stripe will transfer the data to Stripe, Inc., located in the USA. You can contact the company through duo(at)stripe.com.
 * Secure the use of website: Our website uses services of Cloudflare, Inc, 101 Townsend St, San Francisco, CA 94107, USA ("Cloudflare"). To protect our website, the data transfer between your browser and our servers is routed through Cloudflare's infrastructure in order to analyze whether it is an abusive attack. However, since your translation requests and other customer data are encrypted between your end device and the DeepL servers, Cloudflare does not have any access to this data, but only to meta-data (such as your IP address). You can contact the company through privacyquestions(at)cloudflare.com.
-* Support enquires: If you send us a support enquiry, your request. Is forwarded to the ticket system of the provider Zendesk Inc. ("Zendesk"), 1019 Market Street, San Francisco, CA 94103, USA. We use Zendesk to process your enquiry and your further communication with us, we also use the service to manage our customer database. You can contact the company through privacy(at)zendesk.com.
+* Support enquires: If you send us a support enquiry, your request is forwarded to the ticket system of the provider Zendesk Inc. ("Zendesk"), 1019 Market Street, San Francisco, CA 94103, USA. We use Zendesk to process your enquiry and your further communication with us, we also use the service to manage our customer database. You can contact the company through privacy(at)zendesk.com.
 * Manage customer database: We use the Customer Relationship Management System (CRM) of Salesforce.com Germany GmbH, Erika-Mann-Str. 31, 80636 München, Deutschland (“Salesforce CRM”) to manage our customer database, which includes our existing and potential customers, and to organize sales and communication processes. You can contact the company through privacy(at)salesforce.com.
 * Send newsletters and other marketing emails: For sending the newsletters and other marketing emails, we use a service provided by HubSpot, Inc. with headquarters at 25 First Street, 2nd Floor, Cambridge, MA 02141 USA. As part of this, your data may also be transferred to the USA. You can contact the company through privacy(at)hubspot.com.
 * Conduct the customer satisfaction surveys: To conduct the customer satisfaction surveys, we use a service of Typeform SL, Carrer Bac de Roda, 163, local, 08018 Barcelona, Spain ("Typeform"), on whose platform the surveys are stored. Typeform uses different subcontractors, which are also partly located in third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the USA. You can contact the company through GDPR(at)typeform.com.
 * Conduct surveys: For the surveys we use a service of Qualtrics Ireland Limited, Costello House, 1 Clarendon Row, Dublin 2, DO2 TA43, Ireland ("Qualtrics"), on whose platform the surveys are stored. Qualtrics uses different subcontractors, which are also partly located in third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the USA. You can contact the company through [\[email protected\]](https://www.deepl.com/cdn-cgi/l/email-protection).
 * Conduct surveys: We use a survey tool of Hotjar Ltd., Dragonara Business Centre, 5th Floor, Dragonara Road, Paceville St Julian's STJ 3141, Malta ("Hotjar"), on whose platform the surveys are stored. Hotjar uses different subcontractors, which are also partly located in third countries outside the EU.Therefore, in certain cases, there may be a transfer of your data to the USA. You can contact the company through [\[email protected\]](https://www.deepl.com/cdn-cgi/l/email-protection)
-* Conduct interviews: We use a service provided by UserTesting, Inc. 144 Townsend Street, San Francisco, CA 94107 USA to conduct interviews with you. UserTes ting uses different subcontractors - such as Zoom - which are also partly located in third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the USA. You can contact the company through [\[email protected\]](https://www.deepl.com/cdn-cgi/l/email-protection).
+* Conduct interviews: We use a service provided by UserTesting, Inc. 144 Townsend Street, San Francisco, CA 94107 USA to conduct interviews with you. UserTesting uses different subcontractors - such as Zoom - which are also partly located in third countries outside the EU. Therefore, in certain cases, there may be a transfer of your data to the USA. You can contact the company through [\[email protected\]](https://www.deepl.com/cdn-cgi/l/email-protection).
 * Host Webinars: We use a service provided by Zoom Video Communications, Inc. ("Zoom"), 55 Almaden Blvd. Suite 600, San Jose, CA 95113, USA, on whose platform the webinars are held. You can contact the company through [\[email protected\]](https://www.deepl.com/cdn-cgi/l/email-protection).
 * Job applications: In order to process your application data, it will be forwarded to the service provider Localyze UG (haftungsbeschränkt), Bäckerbreitergang 28, 20355 Hamburg, which carries out the Pre-Check on behalf of DeepL. You can contact the company through [\[email protected\]](https://www.deepl.com/cdn-cgi/l/email-protection).
 * Job applications: In order to process your application data, it will be forwarded to the service provider Recruitee B.V., Keizersgracht 313, 1016 EE Amsterdam, The Netherlands, which operates the application system. You can contact the company through [\[email protected\]](https://www.deepl.com/cdn-cgi/l/email-protection).
@@ -465,7 +468,7 @@ We may transfer personal data to the overseas delegatees listed below in order t
 
 We reserve the right to amend this privacy policy. The current version of the privacy policy can be accessed at any time on our [website](https://www.deepl.com/privacy).
 
-Last update: September 2024
+Last update: November 2024
 
 English
 
