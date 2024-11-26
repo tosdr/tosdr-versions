@@ -8,7 +8,7 @@ Cryptocurrencies
 
 Leaderboards
 
-[Trending](https://coinmarketcap.com/trending-cryptocurrencies/)[Upcoming](https://coinmarketcap.com/upcoming/)[Recently Added](https://coinmarketcap.com/new/)[Gainers & Losers](https://coinmarketcap.com/gainers-losers/)[Most Visited](https://coinmarketcap.com/most-viewed-pages/)[Chain Ranking](https://coinmarketcap.com/chain-ranking/)
+[Trending](https://coinmarketcap.com/trending-cryptocurrencies/)[Upcoming](https://coinmarketcap.com/upcoming/)[Recently Added](https://coinmarketcap.com/new/)[Gainers & Losers](https://coinmarketcap.com/gainers-losers/)[Most Visited](https://coinmarketcap.com/most-viewed-pages/)[Community Sentiment](https://coinmarketcap.com/sentiment/)[Chain Ranking](https://coinmarketcap.com/chain-ranking/)
 
 NFT
 
@@ -60,25 +60,25 @@ Exchanges: [762](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$3.25T](https://coinmarketcap.com/charts/)
+[$3.16T](https://coinmarketcap.com/charts/)
 
-3.02%
+5.38%
 
 24h Vol: 
 
-[$238.06B](https://coinmarketcap.com/charts/)
+[$258.16B](https://coinmarketcap.com/charts/)
 
-20.13%
+33.88%
 
-Dominance: [BTC: 57.5% ETH: 12.6%](https://coinmarketcap.com/charts/bitcoin-dominance/)
+Dominance: [BTC: 57.9% ETH: 12.7%](https://coinmarketcap.com/charts/bitcoin-dominance/)
 
  ETH Gas: 
 
-7.34 Gwei
+28.62 Gwei
 
  Fear & Greed: 
 
-[83/100](https://coinmarketcap.com/charts/fear-and-greed-index/)
+[80/100](https://coinmarketcap.com/charts/fear-and-greed-index/)
 
 Privacy Policy
 ==============
@@ -157,10 +157,6 @@ Questions
 ---------
 
 Any questions about this Privacy Policy or about our use of your personal information should be addressed to legal@coinmarketcap.com.
-
-English
-
-USD
 
 Products
 
