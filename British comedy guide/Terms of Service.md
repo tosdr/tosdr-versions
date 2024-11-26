@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Jürgen Strack](https://cdn.comedy.co.uk/images/library/people/300x200/j/jurgen_strack_2024_b.jpg "Jürgen Strack")](https://www.comedy.co.uk/live/features/jurgen-of-all-trades-meister-of-none/) Live
+
+[Jürgen of all trades, Meister of none!](https://www.comedy.co.uk/live/features/jurgen-of-all-trades-meister-of-none/)
+
 [![Smoggie Queens. Image shows left to right: Stewart (Elijah Young), Mam (Mark Benton), Dickie (Phil Dunning), Lucinda (Alexandra Mardell), Sal (Patsy Lowe)](https://cdn.comedy.co.uk/images/library/comedies/300x200/s/smoggie_queens_iconic.jpg "Smoggie Queens. Image shows left to right: Stewart (Elijah Young), Mam (Mark Benton), Dickie (Phil Dunning), Lucinda (Alexandra Mardell), Sal (Patsy Lowe)")](https://www.comedy.co.uk/tv/smoggie-queens/interviews/meet-the-smoggie-queens/) TV
 
 [Meet the Smoggie Queens](https://www.comedy.co.uk/tv/smoggie-queens/interviews/meet-the-smoggie-queens/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Red Richardson](https://cdn.comedy.co.uk/images/library/people/300x200/r/red_richardson_bugatti_live.jpg "Red Richardson")](https://www.comedy.co.uk/live/features/bobby-carroll-diary-red-richardson-kathleen-hughes-andrew-maxwell/) Live
 
 [Red Richardson / Kathleen Hughes / Andrew Maxwell - Bobby Carroll's Live Comedy Diary](https://www.comedy.co.uk/live/features/bobby-carroll-diary-red-richardson-kathleen-hughes-andrew-maxwell/)
-
-[![Adam Riches & John Kearns ARE Ball & Boe - For Fourteen Nights Only. Image shows left to right: John Kearns, Adam Riches. Credit: Matt Stronge](https://cdn.comedy.co.uk/images/library/misc/300x200/k/kearns_riches_ball_and_boe.jpg "Adam Riches & John Kearns ARE Ball & Boe - For Fourteen Nights Only. Image shows left to right: John Kearns, Adam Riches. Credit: Matt Stronge")](https://www.comedy.co.uk/live/features/adam-riches-on-ball-and-boe-shows/) Live
-
-[Adam Riches on joining with John Kearns to take on Michael Ball and Alfie Boe](https://www.comedy.co.uk/live/features/adam-riches-on-ball-and-boe-shows/)
 
 #### Subscribe to our newsletters
 
