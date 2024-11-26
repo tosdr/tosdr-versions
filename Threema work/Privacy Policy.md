@@ -43,8 +43,10 @@ The following personal data is optional for the use of the Threema Work App and 
 * First name;
 * Last name;
 * Nickname;
-* Category (e.g., job title or department);
-* Customer Specific Identifier (“**CSI,**” e.g., employee number);
+* Job title;
+* Department;
+* Category;
+* Customer Specific Identifier (“**CSI,**”);
 * Logfile (as part of “**Debug Logs**”; see Section 2.J. of the [Privacy Policy](https://threema.ch/privacy_policy?version=0k&lang=en&extended=1#j-crash-reports) of the Threema Work App).
 
 All text messages, media files, and voice and video calls between Users of the Threema Work App, including (voluntarily and optionally set) nicknames[²](#ref_2) and profile pictures, are end-to-end encrypted; Threema is unable to access any of the contents because it doesn’t know the private keys.[³](#ref_3)
@@ -74,6 +76,8 @@ The following personal data is stored by us linked to the Threema ID (storage pe
 * First name (until revocation and only if voluntarily and optionally set in the app configuration);
 * Last name (until revocation and only if voluntarily and optionally set in the app configuration);
 * Nickname (until revocation and only if voluntarily and optionally set in the app configuration);
+* Job title (until revocation and only if voluntarily and optionally set in the app configuration);
+* Department (until revocation and only if voluntarily and optionally set in the app configuration);
 * Category (until revocation and only if voluntarily and optionally set in the app configuration);
 * CSI (until revocation and only if voluntarily and optionally set in the app configuration);
 
