@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/radiesthesie-een-ethisch-fenomeen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/economie/shell-nigeria-spaarzegeltjes-en-de-hoogste-benzineprijs/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
