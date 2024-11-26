@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. python
+1. data science
     
-2. java
+2. machine learning
     
-3. trading
+3. flutter
     
 
 Popular subjects
 
-1. [Computer Science
+1. [Graphic Design
     
-    43,746 courses](https://www.classcentral.com/subject/cs)
-2. [Artificial Intelligence
+    4,356 courses](https://www.classcentral.com/subject/graphic-design)
+2. [Psychology
     
-    14,064 courses](https://www.classcentral.com/subject/ai)
-3. [Ethical Hacking
+    2,706 courses](https://www.classcentral.com/subject/psychology)
+3. [Digital Marketing
     
-    2,239 courses](https://www.classcentral.com/subject/ethical-hacking)
+    6,283 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [Lean Production
+1. [Academic Writing Made Easy
     
-    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/manufacturing-technische-universitat-munchen-lean-8447)
-2. [Introduction to Cyber Security
+    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/writing-technische-universitat-munchen-academic-w-13157)
+2. [Improving Communication Skills
     
-    Uttarakhand Open University, Haldwani](https://www.classcentral.com/course/swayam-introduction-to-cyber-security-14116)
-3. [Bacterial Genomes II: Accessing and Analysing Microbial Genome Data Using Artemis
+    University of Pennsylvania](https://www.classcentral.com/course/wharton-communication-skills-8235)
+3. [CS50's Introduction to Computer Science
     
-    Wellcome Genome Campus](https://www.classcentral.com/course/bacterial-genomes-access-and-analysis-11907)
+    Harvard University](https://www.classcentral.com/course/computer-science-harvard-university-cs50-s-introd-442)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
