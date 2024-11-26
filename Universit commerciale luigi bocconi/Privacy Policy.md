@@ -294,7 +294,6 @@ Breadcrumb
 * [Home](https://www.unibocconi.eu/en)
 * [About Us](https://www.unibocconi.eu/en/about-us)
 * [Organization](https://www.unibocconi.eu/en/about-us/organization)
-* [Statute, Regulations and Rules](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-documents)
 
 [Contacts](https://www.unibocconi.eu/en/contact-us)
 
