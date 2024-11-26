@@ -29,6 +29,8 @@ Search term
 * [Mastodon](https://mastodon.themarkup.org/@themarkup)
 * [RSS Feed](https://themarkup.org/feeds/rss.xml)
 
+[Reader support powers The Markup. Donate today.](https://themarkup.org/donate-stripe-202411)
+
 [Skip navigation](#content)
 
 Menu [The Markup](https://themarkup.org/) [Donate](https://themarkup.org/donate)
