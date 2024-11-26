@@ -10,7 +10,7 @@
         
         * [Design
             
-            Build high-performing sites](https://webflow.com/designer)
+            Build high-performing sites](https://webflow.com/design)
         * [Edit mode
             
             Empower your content team](https://webflow.com/edit-mode)
@@ -515,7 +515,7 @@ Table of contents
 Product
 
 * [Platform](https://webflow.com/platform)
-* [Design](https://webflow.com/designer)
+* [Design](https://webflow.com/design)
 * [Edit mode](https://webflow.com/edit-mode)
 * [Interactions](https://webflow.com/interactions-animations)
 * [Page building
