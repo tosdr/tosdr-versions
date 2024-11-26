@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Food, Inc.](/wp-content/thumbnails/2487-100x70.jpg?x53432)
+* [![The Kennedy Assassination: 24 Hours After](/wp-content/thumbnails/5970-100x70.jpg?x53432)
     
-    Food, Inc.
+    The Kennedy Assassination: 24 Hours After
     
-    For most Americans, the ideal meal is fast, cheap, and tasty. Food, Inc. examines the costs of putting value and convenience over nutrition and environmental impact.Director Robert Kenner explores t](https://documentaryheaven.com/food-inc/ "Food, Inc.")
-* [![Copyright Criminals](/wp-content/thumbnails/7115-100x70.jpg?x53432)
+    While the moments and hours after his tragic assassination were some of the most formative and important, that story has rarely, and only partially, been told.For the first time, using never-befor](https://documentaryheaven.com/the-kennedy-assassination-24-hours-after/ "The Kennedy Assassination: 24 Hours After")
+* [![What on Earth is Wrong With Gravity?](/wp-content/thumbnails/306-100x70.png?x53432)
     
-    Copyright Criminals
+    What on Earth is Wrong With Gravity?
     
-    Copyright Criminals examines the creative and commercial value of musical sampling, including the related debates over artistic expression, copyright law and billions of dollars.Long before people](https://documentaryheaven.com/copyright-criminals/ "Copyright Criminals")
-* [![End Day](/wp-content/thumbnails/270-100x70.png?x53432)
+    Particle physicist and ex D:Ream keyboard player Dr Brian Cox wants to know why the Universe is built the way it is.He believes the answers lie in the force of gravity. But Newton thought gravity wa](https://documentaryheaven.com/what-on-earth-is-wrong-with-gravity/ "What on Earth is Wrong With Gravity?")
+* [![Time Trip](/wp-content/thumbnails/315-100x70.png?x53432)
     
-    End Day
+    Time Trip
     
-    Imagine waking up to the last day on Earth...Inspired by the predictions of scientists, End Day creates apocalyptic scenarios that go beyond reality. In a single hour, explore five different fiction](https://documentaryheaven.com/end-day-a-documentary/ "End Day")
-* [![Pale Blue Dot: A Vision of the Human Future in Space](/wp-content/thumbnails/2359-100x70.jpg?x53432)
+    Horizon's Time Trip is a thrilling journey deep into the strangeness of cutting-edge physics - a place where beautiful, baffling ideas are sometimes indistinguishable from the utterly crazy.On this](https://documentaryheaven.com/time-trip/ "Time Trip")
+* [![Age of Consent: Canada’s Original Vigilante Pedophile Hunter](/wp-content/thumbnails/12860-100x70.jpg?x53432)
     
-    Pale Blue Dot: A Vision of the Human Future in Space
+    Age of Consent: Canada’s Original Vigilante Pedophile Hunter
     
-    The earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that in glory and triumph, they can become the momentary masters of a](https://documentaryheaven.com/pale-blue-dot/ "Pale Blue Dot: A Vision of the Human Future in Space")
-* [![Know your Mushrooms (2008)](/wp-content/thumbnails/2626-100x70.jpg?x53432)
+    Justin Payne is a self-proclaimed vigilante who spends his nights pretending to be a 13-year-old boy online. He is intent on shaming every pedophile who falls for his trap. With help from his camerama](https://documentaryheaven.com/age-of-consent/ "Age of Consent: Canada’s Original Vigilante Pedophile Hunter")
+* [![What’s Killing Our Bees](/wp-content/thumbnails/7827-100x70.jpg?x53432)
     
-    Know your Mushrooms (2008)
+    What’s Killing Our Bees
     
-    Ron Mann investigates the miraculous, near-secret world of fungi. Visionaries Gary Lincoff and Larry Evans lead us on a hunt for the wild mushroom and the deeper cultural experiences attached to the m](https://documentaryheaven.com/know-your-mushrooms-2008/ "Know your Mushrooms (2008)")
+    Bill Turnbull investigates one of the biggest mysteries in the British countryside: what is killing our bees. It is a question that generates huge controversy. Changes in the weather, pesticides and e](https://documentaryheaven.com/whats-killing-our-bees/ "What’s Killing Our Bees")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
