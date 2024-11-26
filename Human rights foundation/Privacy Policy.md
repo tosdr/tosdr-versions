@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![Human Rights Foundation](data:image/svg+xml;nitro-empty-id=MTE1NDo2NDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjgzMiA3NzkiIHdpZHRoPSIyODMyIiBoZWlnaHQ9Ijc3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://hrf.org/)
+[![Human Rights Foundation](data:image/svg+xml;nitro-empty-id=MTE1ODo2NDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjgzMiA3NzkiIHdpZHRoPSIyODMyIiBoZWlnaHQ9Ijc3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://hrf.org/)
 
 * [About Us](https://hrf.org/about-us/) Close About Us Open About Us
     
@@ -47,7 +47,7 @@ Close this search box.
 
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU1NTgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
-![](data:image/svg+xml;nitro-empty-id=MTYxMzo0Mzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](data:image/svg+xml;nitro-empty-id=MTYxNzo0Mzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 * [About Us](https://hrf.org/about-us/)
 
@@ -420,7 +420,7 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 [Back to homepage](https://hrf.org/)
 
-![](data:image/svg+xml;nitro-empty-id=MjI1MDoxNjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjY0IDcyIiB3aWR0aD0iMjY0IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
+![](data:image/svg+xml;nitro-empty-id=MjI1NDoxNjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjY0IDcyIiB3aWR0aD0iMjY0IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
 
 ##### We believe that when we rise, tyranny falls.
 
