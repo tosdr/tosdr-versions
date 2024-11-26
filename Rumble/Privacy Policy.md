@@ -202,109 +202,127 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
+[Steven Crowder
+
+51.6K](https://rumble.com/v5tagc8--debunking-the-lefts-creative-math-on-the-cost-of-thanksgiving-dinner.html "Steven Crowder")
+
+[Bannons War Room
+
+25.4K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+
+[Badlands Media
+
+5.36K](https://rumble.com/v5t4pbq-badlands-daily-tuesday-november-26-2024.html "Badlands Media")
+
 [NEWSMAX
 
-1.69K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+4.6K](https://rumble.com/v5talfk-the-gerry-callahan-show-live-11262024-newsmax-podcasts.html "NEWSMAX")
+
+[Matt Kohrs
+
+1.32K](https://rumble.com/v5t6kqe-the-mk-show-nov.-26th.html "Matt Kohrs")
+
+[Lofi Girl
+
+195](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+
+[barstoolsports
+
+158](https://rumble.com/v5t9vg5-kms-live-november-26-2024-ft.-mut-biodude-and-steve-from-glosta.html "barstoolsports")
+
+[Mike Crispi
+
+115](https://rumble.com/v5t5q3w-replay-mike-crispi-unafraid-11-26-24.html "Mike Crispi")
+
+[The Kirk Minihane Show
+
+103](https://rumble.com/v5t9vg5-kms-live-november-26-2024-ft.-mut-biodude-and-steve-from-glosta.html "The Kirk Minihane Show")
+
+[Wake Up Mintzy
+
+62](https://rumble.com/v5t1p55-wake-up-mintzy-11.26.24.html "Wake Up Mintzy")
 
 [Major League Fishing
 
-2](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
+3](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
 
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
+[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
 
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
+[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
 
-[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
 
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
-
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
-
-[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
-
-[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
-
-[The Wonton Don](https://rumble.com/c/TheWontonDon "The Wonton Don")
-
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
-
-[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
-
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
-
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
-
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
-
-[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
-
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
-
-[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
-
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
-
-[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
-
-[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
-
-[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
-
-[Barry Cunningham](https://rumble.com/c/BarryCunningham "Barry Cunningham")
-
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
-
-[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
-
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
-
-[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
-
-[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
-
-[Bannons War Room](https://rumble.com/c/BannonsWarRoom "Bannons War Room")
-
-[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
-
-[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
+[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
 
 [DeVory Darkins](https://rumble.com/c/DeVoryDarkins "DeVory Darkins")
 
-[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
-
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
-
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
-
 [Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
 
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
-
-[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
-
-[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
-
-[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
+[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
 
 [Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
 
-[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
 
-[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
+[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
 
-[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
+[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+
+[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
+
+[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
+
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
+
+[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+
+[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+
+[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
+
+[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
 
 [Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
 
-[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
+[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
 
-[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
+
+[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
+
+[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
+
+[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
 
 [LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
 
-[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
+
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+
+[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
+
+[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
+
+[Redacted News](https://rumble.com/c/Redacted "Redacted News")
+
+[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
+
+[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
+
+[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
+
+[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
+
+[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
+
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
+
+[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
 
 ### Theme
 
