@@ -53,7 +53,7 @@
         * [Free Netflix VPN](https://www.urban-vpn.com/free-products/free-netflix-vpn/)
         * [Free Disney VPN](https://www.urban-vpn.com/free-products/free-disney-plus-vpn/)
         * [Free Twitter VPN](https://www.urban-vpn.com/free-products/free-twitter-vpn/)
-        * [Free Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
+        * [Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
         * [Free Craigslist VPN](https://www.urban-vpn.com/free-products/free-craigslist-vpn/)
         * [Free Tumblr VPN](https://www.urban-vpn.com/free-products/free-tumblr-vpn/)
         * [Free Roblox VPN](https://www.urban-vpn.com/free-products/free-roblox-vpn/)
@@ -254,7 +254,7 @@
         * [Free Netflix VPN](https://www.urban-vpn.com/free-products/free-netflix-vpn/)
         * [Free Disney VPN](https://www.urban-vpn.com/free-products/free-disney-plus-vpn/)
         * [Free Twitter VPN](https://www.urban-vpn.com/free-products/free-twitter-vpn/)
-        * [Free Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
+        * [Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
         * [Free Craigslist VPN](https://www.urban-vpn.com/free-products/free-craigslist-vpn/)
         * [Free Tumblr VPN](https://www.urban-vpn.com/free-products/free-tumblr-vpn/)
         * [Free Roblox VPN](https://www.urban-vpn.com/free-products/free-roblox-vpn/)
@@ -629,11 +629,11 @@ Further, the table above under Section II.2 “[Additional Notice to Colorado Re
 
 Nevada law allows Nevada residents to opt out of the sale of certain types of personal information. Subject to several exceptions, Nevada law defines “sale” to mean the exchange of certain types of personal information for monetary consideration to another person. We currently do not sell personal information as defined in the Nevada law. However, if you are a Nevada resident, you still may submit a verified request to opt out of sales and will record your instructions and incorporate them in the future if our policy changes. You may send opt-out requests to [privacy@urban-vpn.com](mailto:privacy@urban-vpn.com).
 
-Protect Your Privacy  
-with Urban VPN
--------------------------------------
+Hide your IP  
+With Urban Free VPN
+----------------------------------
 
-Download Urban VPN to enjoy complete online security and privacy while hiding IP address.
+Download Urban VPN for free and browse the web while hiding your IP address.
 
 [Free Download](javascript:;)
 
@@ -651,7 +651,7 @@ Download Urban VPN to enjoy complete online security and privacy while hiding IP
 * [Free Tumblr VPN](https://www.urban-vpn.com/free-products/free-tumblr-vpn/)
 * [Hide My IP](https://www.urban-vpn.com/free-products/hide-my-ip/)
 * [IP location](https://www.urban-vpn.com/free-products/ip-location/)
-* [Free Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
+* [Reddit VPN](https://www.urban-vpn.com/free-products/free-reddit-vpn/)
 * [Free Roblox VPN](https://www.urban-vpn.com/free-products/free-roblox-vpn/)
 * [Free Craigslist VPN](https://www.urban-vpn.com/free-products/free-craigslist-vpn/)
 * [Free Netflix VPN](https://www.urban-vpn.com/free-products/free-netflix-vpn/)
