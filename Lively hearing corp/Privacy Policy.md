@@ -12,6 +12,8 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 
 100-day risk-free trial and US-based customer support!
 
+[This deal won’t last forever!This deal won’t last forever!This deal won’t last forever! **Sale ends in 4d : 20h : 28m**](https://www.listenlively.com/product)
+
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
 [Hearing aids](https://www.listenlively.com/product)[Remote care](https://www.listenlively.com/hearing-care)[Hearing resources](https://www.listenlively.com/hearing-aid-guide)
