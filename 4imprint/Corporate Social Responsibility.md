@@ -1,6 +1,6 @@
  [![4imprint](/media/1y4b4vzk/logo-white.svg) ![4imprint](/media/onypkwhq/logo.svg)](https://investors.4imprint.com/)
 
-LSE 5060.00 GBX at 16:35 GMT
+LSE 5080.00 GBX at 11:47 GMT
 
 * [](mailto:?subject=&body=https://investors.4imprint.com/modern-slavery-statement/)
 * [](https://www.facebook.com/sharer.php?u=https://investors.4imprint.com/modern-slavery-statement/)
