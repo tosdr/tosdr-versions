@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/dfdb5506-dbc4-4426-b3fc-9ee997869fd5/dfdb5506-dbc4-4426-b3fc-9ee997869fd5_360x203.jpg)](https://www.wqad.com/article/news/local/rock-falls-man-missing-police/526-687b6393-3926-4dc8-a5a3-b4496a5ea580)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9b7bb519-1d54-49af-bdd7-c8bab59aef94/20241126T015759/9b7bb519-1d54-49af-bdd7-c8bab59aef94_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9b7bb519-1d54-49af-bdd7-c8bab59aef94/20241126T015759/9b7bb519-1d54-49af-bdd7-c8bab59aef94_360x203.jpg)](https://www.wqad.com/article/news/agriculture/agriculture-post-harvest-anhydrous-ammonia-fields/526-8bd1235d-0840-481f-b745-c5fefcac5298)
         
-        #### [Man missing from Rock Falls found safe, police say](https://www.wqad.com/article/news/local/rock-falls-man-missing-police/526-687b6393-3926-4dc8-a5a3-b4496a5ea580)
+        #### [How farmers safely transport and apply chemicals post-harvest to prepare for the next growing season](https://www.wqad.com/article/news/agriculture/agriculture-post-harvest-anhydrous-ammonia-fields/526-8bd1235d-0840-481f-b745-c5fefcac5298)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/1a3595a8-46df-40ba-8a6c-5081ee2e80f6/1a3595a8-46df-40ba-8a6c-5081ee2e80f6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1a3595a8-46df-40ba-8a6c-5081ee2e80f6/1a3595a8-46df-40ba-8a6c-5081ee2e80f6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bettendorf-fire-dog-magnolia-drive-saturday/526-24f4bc4f-f7ae-4dee-b54a-e14ce724c25d)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/1780fe0d-2216-4773-b308-eae860a76a57/20241125T221836/1780fe0d-2216-4773-b308-eae860a76a57_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1780fe0d-2216-4773-b308-eae860a76a57/20241125T221836/1780fe0d-2216-4773-b308-eae860a76a57_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/wallaces-garden-center-donation-campaign-christmas-tree-farm-north-carolina/526-38994efe-fe7d-4a8a-96f1-3e557892f15a)
         
-        #### [No injuries reported Saturday in Bettendorf fire, dog rescued](https://www.wqad.com/article/news/local/public-safety/bettendorf-fire-dog-magnolia-drive-saturday/526-24f4bc4f-f7ae-4dee-b54a-e14ce724c25d)
+        #### [Wallace's Garden Center collecting, matching donations to North Carolina Christmas tree farm](https://www.wqad.com/article/news/local/the-current/wallaces-garden-center-donation-campaign-christmas-tree-farm-north-carolina/526-38994efe-fe7d-4a8a-96f1-3e557892f15a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/8901d2ce-d5f2-47b5-af9c-6ea5aa438576/20241125T225730/8901d2ce-d5f2-47b5-af9c-6ea5aa438576_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8901d2ce-d5f2-47b5-af9c-6ea5aa438576/20241125T225730/8901d2ce-d5f2-47b5-af9c-6ea5aa438576_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Promising a chilly night with teens for wind chills late](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/2d3b6d67-6544-4bb3-8d59-36de5cb9fe25/20241125T211256/2d3b6d67-6544-4bb3-8d59-36de5cb9fe25_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2d3b6d67-6544-4bb3-8d59-36de5cb9fe25/20241125T211256/2d3b6d67-6544-4bb3-8d59-36de5cb9fe25_360x203.jpg)](https://www.wqad.com/article/weather/ask-andrew/difference-between-forecast-models-european-american/526-a146f2e9-74a5-4116-853d-83f19ce5ea35)
         
         #### [What's the difference between the Euro and the GFS forecast models?](https://www.wqad.com/article/weather/ask-andrew/difference-between-forecast-models-european-american/526-a146f2e9-74a5-4116-853d-83f19ce5ea35)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c368e06d-c678-4a89-82fd-0c957b237ec0/20241125T131556/c368e06d-c678-4a89-82fd-0c957b237ec0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c368e06d-c678-4a89-82fd-0c957b237ec0/20241125T131556/c368e06d-c678-4a89-82fd-0c957b237ec0_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Clouds and cooler temperatures for Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-36°
+27°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
