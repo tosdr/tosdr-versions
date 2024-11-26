@@ -1,4 +1,4 @@
-[DNS for Developers — Learn DNS once and for all](https://www.nslookup.io/dns-course/)
+[DNS for Developers — Black Friday Sale — 66% off!](https://www.nslookup.io/dns-course/)
 
 [![NsLookup logo](/img/logo.cde98524.svg)](https://www.nslookup.io/)
 
