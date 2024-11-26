@@ -14,6 +14,7 @@ Welcome to the
 
 [](https://account.samsung.com/membership/contents/profile/profile-gate)
 
+* Black Friday
 * Shop
 * AI
 * Mobile
@@ -22,7 +23,6 @@ Welcome to the
 * Computing
 * Displays
 * Accessories
-* SmartThings
 
 * Explore
 * Support
