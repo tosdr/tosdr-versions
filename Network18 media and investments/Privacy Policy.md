@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Tue, Nov 26, 2024
+Wed, Nov 27, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -129,11 +129,11 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-breaks-silence-on-divorce-from-naga-chaitanya-absolute-lies-were-9133952.html)
-    * [Eknath Shinde](https://www.news18.com/politics/maharashtra-government-formation-eknath-shinde-hints-at-resignation-maharashtra-chief-minister-devendra-fadnavis-mahayuti-bjp-shiv-sena-ncp-9134106.html)
-    * [PAN 2.0](https://www.news18.com/india/pan-2-0-announced-will-your-old-pan-still-work-how-to-get-qr-enabled-card-faqs-answered-9133976.html)
+    * [Ajinkya Rahane](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
+    * [Zainab Ravdjee](https://www.news18.com/movies/who-is-zainab-ravdjee-everything-you-need-to-know-about-akhil-akkinenis-fiancee-9135037.html)
+    * [Aishwarya Rai](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-a-rare-comment-about-actress-after-troll-attacks-her-9134721.html)
+    * [Prithvi Shaw](https://www.news18.com/viral/prithvi-shaw-breaks-silence-on-trolling-amid-poor-form-i-see-memes-i-get-hurt-9134791.html)
     * [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-beat-australia-by-295-runs-in-perth-test-9133029.html)
-    * [Riddhima Kapoor Sahni](https://www.news18.com/movies/riddhima-kapoor-sahni-reacts-to-criticism-of-ranbir-kapoors-animal-if-my-grandfather-was-here-9132859.html)
-    * [Alice Kaushik](https://www.news18.com/movies/bigg-boss-18-alice-kaushik-reacts-to-kanwar-dhillon-denying-claims-of-marriage-proposal-we-are-not-going-to-9133906.html)
     * [Rahul Gandhi](https://www.news18.com/politics/india-blames-rahul-gandhis-3-mistakes-for-maharashtra-loss-heres-what-they-are-9133899.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -171,11 +171,11 @@ Follow us on
 In Trends:
 
 * [Samantha Ruth Prabhu](https://www.news18.com/movies/samantha-ruth-prabhu-breaks-silence-on-divorce-from-naga-chaitanya-absolute-lies-were-9133952.html)
-* [Eknath Shinde](https://www.news18.com/politics/maharashtra-government-formation-eknath-shinde-hints-at-resignation-maharashtra-chief-minister-devendra-fadnavis-mahayuti-bjp-shiv-sena-ncp-9134106.html)
-* [PAN 2.0](https://www.news18.com/india/pan-2-0-announced-will-your-old-pan-still-work-how-to-get-qr-enabled-card-faqs-answered-9133976.html)
+* [Ajinkya Rahane](https://www.news18.com/cricket/ipl-2025-kolkata-knight-riders-venky-mysore-ajinkya-rahane-new-kkr-captain-venkatesh-iyer-9134717.html)
+* [Zainab Ravdjee](https://www.news18.com/movies/who-is-zainab-ravdjee-everything-you-need-to-know-about-akhil-akkinenis-fiancee-9135037.html)
+* [Aishwarya Rai](https://www.news18.com/movies/aishwarya-rais-sister-in-law-makes-a-rare-comment-about-actress-after-troll-attacks-her-9134721.html)
+* [Prithvi Shaw](https://www.news18.com/viral/prithvi-shaw-breaks-silence-on-trolling-amid-poor-form-i-see-memes-i-get-hurt-9134791.html)
 * [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-india-beat-australia-by-295-runs-in-perth-test-9133029.html)
-* [Riddhima Kapoor Sahni](https://www.news18.com/movies/riddhima-kapoor-sahni-reacts-to-criticism-of-ranbir-kapoors-animal-if-my-grandfather-was-here-9132859.html)
-* [Alice Kaushik](https://www.news18.com/movies/bigg-boss-18-alice-kaushik-reacts-to-kanwar-dhillon-denying-claims-of-marriage-proposal-we-are-not-going-to-9133906.html)
 * [Rahul Gandhi](https://www.news18.com/politics/india-blames-rahul-gandhis-3-mistakes-for-maharashtra-loss-heres-what-they-are-9133899.html)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 26, 2024
+Nov 27, 2024
 
 [View All](https://www.news18.com/short-news/)
 
