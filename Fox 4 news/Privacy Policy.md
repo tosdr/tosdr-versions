@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Trump cleared: Jack Smith drops election case, DOJ ends classified docs probe](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182348844-a.jpg?ve=1&tl=1)
+ [![Arlington man 'under emotional distress' arrested after shooting gun inside home, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112524-sky-4-monday-pm-kdfweme002_13_59_16_mpg_00.22.34.10.jpg?ve=1&tl=1)
 
- ![Trump cleared: Jack Smith drops election case, DOJ ends classified docs probe](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182348844-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jack-smith-donald-trump-election-interference-classified-docs)
+ ![Arlington man 'under emotional distress' arrested after shooting gun inside home, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112524-sky-4-monday-pm-kdfweme002_13_59_16_mpg_00.22.34.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-police-arrest-armed-suspect-neighborhood)
 
-### [Trump cleared: Jack Smith drops election case, DOJ ends classified docs probe](https://www.fox4news.com/news/jack-smith-donald-trump-election-interference-classified-docs)
+### [Arlington man 'under emotional distress' arrested after shooting gun inside home, police say](https://www.fox4news.com/news/arlington-police-arrest-armed-suspect-neighborhood)
 
- [![Many consumers stay with their banks for years unless persuaded by other bank incentives](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/MixCollage-21-Jun-2024-03-13-PM-1358.jpg?ve=1&tl=1)
+ [![Menendez brothers won't be home for the holidays as judge delays hearing](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/menendez1.jpg?ve=1&tl=1)
 
- ![Many consumers stay with their banks for years unless persuaded by other bank incentives](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/06/32/18/592/333/MixCollage-21-Jun-2024-03-13-PM-1358.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/consumers-stay-with-banks-years)
+ ![Menendez brothers won't be home for the holidays as judge delays hearing](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/menendez1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/menendez-brothers-resentencing-court-hearing-postponed-2025)
 
-### [Many consumers stay with their banks for years unless persuaded by other bank incentives](https://www.fox4news.com/money/consumers-stay-with-banks-years)
+### [Menendez brothers won't be home for the holidays as judge delays hearing](https://www.fox4news.com/news/menendez-brothers-resentencing-court-hearing-postponed-2025)
 
- [![Father of Hannah Kobayashi found dead near LAX](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/kobadad.jpg?ve=1&tl=1)
+ [![Senator John Cornyn joins new Senate DOGE caucus](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2153571735.jpg?ve=1&tl=1)
 
- ![Father of Hannah Kobayashi found dead near LAX](https://images.foxtv.com/images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/32/18/592/333/kobadad.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hannah-kobayashi-father-ryan-missing-hawaii-woman-found-dead-los-angeles)
+ ![Senator John Cornyn joins new Senate DOGE caucus](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2153571735.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/john-cornyn-doge-caucus)
 
-### [Father of Hannah Kobayashi found dead near LAX](https://www.fox4news.com/news/hannah-kobayashi-father-ryan-missing-hawaii-woman-found-dead-los-angeles)
+### [Senator John Cornyn joins new Senate DOGE caucus](https://www.fox4news.com/news/john-cornyn-doge-caucus)
 
- [![Gifts that offer screen-free fun](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/screen-free-fun-thumbnail.jpg?ve=1&tl=1)
+ [![19-year-old murdered in Arlington Airbnb hours before celebrating birthday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/kst-arlington-shooting-pkg_00.00.07.46.jpg?ve=1&tl=1)
 
- ![Gifts that offer screen-free fun](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/screen-free-fun-thumbnail.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-gift-guide-screen-free-fun)
+ ![19-year-old murdered in Arlington Airbnb hours before celebrating birthday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/kst-arlington-shooting-pkg_00.00.07.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/slaughter-street-arlington-double-murder-alexis-johniya-tyler-victim)
 
-### [Gifts that offer screen-free fun](https://www.fox4news.com/news/2024-gift-guide-screen-free-fun)
+### [19-year-old murdered in Arlington Airbnb hours before celebrating birthday](https://www.fox4news.com/news/slaughter-street-arlington-double-murder-alexis-johniya-tyler-victim)
 
- [![Microsoft outage: What you need to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1240921318.jpg?ve=1&tl=1)
+ [![Dallas Mayor Eric Johnson says city will 'stand by' Trump deportation plans](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/S_DALLAS-PARKS-COALITION-ANNOUNCEMENT-530P_KDFW395_00.00.16.36.jpg?ve=1&tl=1)
 
- ![Microsoft outage: What you need to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1240921318.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/microsoft-outlook-365-outage-down)
+ ![Dallas Mayor Eric Johnson says city will 'stand by' Trump deportation plans](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/10/32/18/592/333/S_DALLAS-PARKS-COALITION-ANNOUNCEMENT-530P_KDFW395_00.00.16.36.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mayor-eric-johnson-deportations)
 
-### [Microsoft outage: What you need to know](https://www.fox4news.com/news/microsoft-outlook-365-outage-down)
+### [Dallas Mayor Eric Johnson says city will 'stand by' Trump deportation plans](https://www.fox4news.com/news/dallas-mayor-eric-johnson-deportations)
 
 ###### [News](https://www.fox4news.com/news)
 
