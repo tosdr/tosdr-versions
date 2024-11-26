@@ -18,6 +18,7 @@ Switch to
     ----
     
     * [Shop The Latest In Razer](https://www.razer.com/store)
+    * [Cyber Weekend Specials](https://www.razer.com/campaigns/cyber-weekend-2024)
     * [Only at Razer](https://www.razer.com/only-at-razer)
     * Shop PC
         
