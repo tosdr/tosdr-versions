@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
+    
+    ### [Calls for deaths and serious injuries on London’s roads to be independently investigated like those on the railway](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
+    
     [![Construction continues on some of the affordable homes funded by City Hall. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/Construction-of-Mayors-affordable-homes-360x180.jpg)](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
     
     ### [Some boroughs in London have started just one new affordable home a year](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
@@ -51,10 +55,6 @@
     [![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
     
     ### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
-    
-    [![The Gaza Sunbirds have delivered over $100,000 in aid to Gazan families. Credit: Gaza Sunbirds](https://southwarknews.co.uk/wp-content/uploads/2024/11/GazaSunbirds_creditGazaSunbirds3-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
-    
-    ### [Peckham to host fundraiser for Palestinian para-cycling team delivering aid to wartorn strip](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![London mayor Sadiq Khan. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan.-Photo-by-Noah-Vickers-360x180.jpg)](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
+    
+    ### [Calls for deaths and serious injuries on London’s roads to be independently investigated like those on the railway](https://southwarknews.co.uk/area/london/calls-for-deaths-and-serious-injuries-on-londons-roads-to-be-independently-investigated-like-those-on-the-railway/)
+    
     [![Construction continues on some of the affordable homes funded by City Hall. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/Construction-of-Mayors-affordable-homes-360x180.jpg)](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
     
     ### [Some boroughs in London have started just one new affordable home a year](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
@@ -136,10 +140,6 @@ View All Result
     [![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
     
     ### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
-    
-    [![The Gaza Sunbirds have delivered over $100,000 in aid to Gazan families. Credit: Gaza Sunbirds](https://southwarknews.co.uk/wp-content/uploads/2024/11/GazaSunbirds_creditGazaSunbirds3-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
-    
-    ### [Peckham to host fundraiser for Palestinian para-cycling team delivering aid to wartorn strip](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -225,17 +225,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [24th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
-[![Jake Cooper has every league game he's been healthy for this season.](https://southwarknews.co.uk/wp-content/uploads/2024/11/J-Cooper-55545-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
-
-### [Millwall boss confirms Jake Cooper is out for ten weeks](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
-
-[23rd November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
-
 [![Police were called to Lanercost Road following reports of a stabbing. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-Lanercost-Road-following-reports-of-a-stabbing.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
 
 ### [Boy, 14, stabbed in South London](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
 
 [23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
+
+[![Jake Cooper has every league game he's been healthy for this season.](https://southwarknews.co.uk/wp-content/uploads/2024/11/J-Cooper-55545-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
+
+### [Millwall boss confirms Jake Cooper is out for ten weeks](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
+
+[23rd November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
 
 ### Featured Articles
 
