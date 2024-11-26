@@ -40,16 +40,16 @@ FOX SCORES
     
     |     |     |
     | --- | --- |
-    | SA  | 253 |
-    | WA  | 373 & 2 /185 |
+    | SA  | 253 & 2 /74 |
+    | WA  | 373 & 3 /243d |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250113)
 * [Sheffield Shield
     
     |     |     |
     | --- | --- |
-    | NSW | 9 /331 |
-    | TAS | 364 |
+    | NSW | 338 |
+    | TAS | 364 & 4 /226 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250114)
 * [Sheffield Shield
@@ -57,7 +57,7 @@ FOX SCORES
     |     |     |
     | --- | --- |
     | QLD | 297 |
-    | VIC | 186 & 0 /122 |
+    | VIC | 186 & 3 /329 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250115)
 * Motorsport
@@ -88,106 +88,106 @@ FOX SCORES
     
 * [NFL
     
-    1st Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | LAC | 7   |
-    | BAL | 0   |
+    | LAC | 23  |
+    | BAL | 30  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251211)
 * Basketball
     
 * [NBA
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | CHA | 60  |
-    | ORL | 56  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010262/box-score)
-* [NBA
-    
-    4th Qtr
-    
-    |     |     |
-    | --- | --- |
-    | IND | 89  |
-    | NO  | 86  |
+    | IND | 114 |
+    | NO  | 110 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010261/box-score)
 * [NBA
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DET | 68  |
-    | TOR | 70  |
+    | CHA | 84  |
+    | ORL | 95  |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010262/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | DET | 102 |
+    | TOR | 100 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010260/box-score)
 * [NBA
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BOS | 78  |
-    | LAC | 49  |
+    | BOS | 126 |
+    | LAC | 94  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010264/box-score)
 * [NBA
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | ATL | 67  |
-    | DAL | 61  |
+    | ATL | 119 |
+    | DAL | 129 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010263/box-score)
 * [NBA
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | MEM | 51  |
-    | POR | 37  |
+    | MEM | 123 |
+    | POR | 98  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010265/box-score)
 * [NBA
     
-    26/11 13:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DEN | –   |
-    | NY  | –   |
+    | DEN | 118 |
+    | NY  | 145 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010266)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010266/box-score)
 * [NBA
     
-    26/11 14:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | SAC | –   |
-    | OKC | –   |
+    | SAC | 109 |
+    | OKC | 130 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010268)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010268/box-score)
 * [NBA
     
-    26/11 14:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | GS  | –   |
-    | BKN | –   |
+    | GS  | 120 |
+    | BKN | 128 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010267)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010267/box-score)
 * Football
     
 * [Premier League
@@ -200,6 +200,96 @@ FOX SCORES
     | WHU | 2   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251207)
+* [UCL
+    
+    27/11 4:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SP  | –   |
+    | AMD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250501)
+* [UCL
+    
+    27/11 4:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SB  | –   |
+    | MIL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250503)
+* [UCL
+    
+    27/11 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | YB  | –   |
+    | ATA | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250509)
+* [UCL
+    
+    27/11 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BAY | –   |
+    | PSG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250515)
+* [UCL
+    
+    27/11 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BAR | –   |
+    | BRE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250513)
+* [UCL
+    
+    27/11 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MCI | –   |
+    | FEY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250505)
+* [UCL
+    
+    27/11 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | INT | –   |
+    | RBL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250511)
+* [UCL
+    
+    27/11 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LIS | –   |
+    | ARS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250517)
+* [UCL
+    
+    27/11 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BLV | –   |
+    | RBS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250507)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -798,6 +888,7 @@ FOX SCORES
 
 * [AFL](https://www.foxsports.com.au/video/afl/afl)
 * [Women's AFL](https://www.foxsports.com.au/video/afl/womens-afl)
+* [Press Conferences](https://www.foxsports.com.au/video/afl/press-conferences)
 * [Buddy 300](https://www.foxsports.com.au/video/afl/buddy-300)
 * [Bounce](https://www.foxsports.com.au/video/afl/bounce)
 * [Draft](https://www.foxsports.com.au/video/afl/draft)
@@ -831,7 +922,6 @@ FOX SCORES
 * [Matildas](https://www.foxsports.com.au/video/football/matildas)
 * [UCL and Europa League](https://www.foxsports.com.au/video/football/ucl-and-europa-league)
 * [Socceroos](https://www.foxsports.com.au/video/football/socceroos)
-* [La Liga](https://www.foxsports.com.au/video/football/la-liga)
 * [Football](https://www.foxsports.com.au/video/football/football)
 * [Asian Champions League](https://www.foxsports.com.au/video/football/asian-champions-league)
 
