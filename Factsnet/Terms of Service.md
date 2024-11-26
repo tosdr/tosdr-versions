@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![18 Facts About Electron Emission ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/physics/18-facts-about-electron-emission/)
+[![28 Facts About Jazz Standards ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2295%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/performing-arts/28-facts-about-jazz-standards/)
 
-Physics
+Performing Arts
 
-25 Nov 2024
+26 Nov 2024
 
-[18 Facts About Electron Emission](https://facts.net/science/physics/18-facts-about-electron-emission/)
+[28 Facts About Jazz Standards](https://facts.net/culture-and-the-arts/performing-arts/28-facts-about-jazz-standards/)
 
-[![35 Facts About 1918 Flu Pandemic ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-1918-flu-pandemic/)
+[![35 Facts About Chernobyl Disaster ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-chernobyl-disaster/)
 
 Historical Events
 
-25 Nov 2024
+26 Nov 2024
 
-[35 Facts About 1918 Flu Pandemic](https://facts.net/history/historical-events/35-facts-about-1918-flu-pandemic/)
+[35 Facts About Chernobyl Disaster](https://facts.net/history/historical-events/35-facts-about-chernobyl-disaster/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
