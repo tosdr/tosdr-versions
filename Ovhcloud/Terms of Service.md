@@ -179,6 +179,7 @@ Log in to order, manage your products and services, and track your orders.
             * [HA-NAS](https://www.ovhcloud.com/en-ie/storage-solutions/nas-ha/) Centralised storage or backup space for your file data
             * Cloud Disk Array A scalable storage solution based on CEPH technology
             * [Veeam Enterprise Plus](https://www.ovhcloud.com/en-ie/storage-solutions/veeam-enterprise/) The ultimate solution for protecting your data in a way that fits your needs
+            * [HYCU for OVHcloud](https://www.ovhcloud.com/en-ie/storage-solutions/hycu/) Simplify the backup and migration of your Nutanix workloads
         * Use cases
             
             * [Data storage for your Linux servers](https://www.ovhcloud.com/en-ie/storage-solutions/enterprise-file-storage/uc-file-server-linux/)
@@ -482,6 +483,7 @@ Log in to order, manage your products and services, and track your orders.
         * Hosted Private Cloud
             
             * [Nutanix on OVHcloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/nutanix/) Our scalable, ready-to-use Nutanix hyperconverged platform (HCI)
+            * [HYCU for OVHcloud](https://www.ovhcloud.com/en-ie/storage-solutions/hycu/) Simplify the backup and migration of your Nutanix workloads
             * [Veeam Enterprise for all your backups](https://www.ovhcloud.com/en-ie/storage-solutions/veeam-enterprise/) A dedicated Veeam Backup Replication solution for all your backups
         * Use cases
             
@@ -572,6 +574,7 @@ Log in to order, manage your products and services, and track your orders.
             * [White label cloud](https://www.ovhcloud.com/en-ie/solutions/uc-white-label-cloud/)
             * [Trusted Zone](https://www.ovhcloud.com/en-ie/solutions/uc-trusted-zone/)
             * [SecNumCloud Environment](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
+            * [Network Protection](https://www.ovhcloud.com/en-ie/solutions/uc-network-application-protection/)
             * [Cloud Security](https://www.ovhcloud.com/en-ie/solutions/uc-cloud-security/)
             * [Extension & Migration Datacenter](https://www.ovhcloud.com/en-ie/solutions/uc-datacenter-extension-migration/)
             * [Datacenter transformation](https://www.ovhcloud.com/en-ie/solutions/uc-datacenter-transformation/)
@@ -611,6 +614,7 @@ Log in to order, manage your products and services, and track your orders.
             
             * [VMware by Broadcom](https://www.ovhcloud.com/en-ie/solutions/vmware/) VMware by Broadcom and OVHcloud solutions for all your projects
             * [Nutanix](https://www.ovhcloud.com/en-ie/solutions/nutanix/) Accelerate and simplify your hybrid multicloud journey with Nutanix on OVHcloud solution
+            * [HYCU](https://www.ovhcloud.com/en-ie/storage-solutions/hycu/) The backup solution trusted by Nutanix users
             * [SAP](https://www.ovhcloud.com/en-ie/solutions/sap/) Our SAP on OVHcloud solutions for SAP environments hosting in a sovereign cloud
             * [NetApp](https://www.ovhcloud.com/en-ie/solutions/netapp/) NetApp storage solutions with cost control and high performance
             * [Nvidia](https://www.ovhcloud.com/en-ie/solutions/nvidia/) Nvidia GPU solutions for accelerating your innovation and AI projects
