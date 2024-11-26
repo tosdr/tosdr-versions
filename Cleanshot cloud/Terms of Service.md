@@ -18,7 +18,7 @@ Contents
 ### Security & Legal
 
 * [CleanShot Security](https://cleanshot.cloud/security)
-* [Responsible Disclosure Policy](https://cleanshot.cloud/disclosure)
+* [Bug Bounty Program](https://cleanshot.cloud/disclosure)
 * [EULA](https://cleanshot.cloud/eula)
 
 ### CleanShot Cloud
@@ -260,7 +260,7 @@ Any disputes arising in connection with or on the occasion of non-performance or
 * [Security](https://cleanshot.cloud/security)
 * [Terms of Service](https://cleanshot.cloud/cloud/terms)
 * [Privacy Policy](https://cleanshot.cloud/cloud/privacy)
-* [DPA](https://cleanshot.cloud/cloud/dpa)
+* [Bug Bounty](https://cleanshot.cloud/disclosure)
 
 © Copyright [MTW](https://mtw.team/)
 
