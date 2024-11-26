@@ -16,7 +16,7 @@ Shipping Policy
 
 This product will ship within 1 to 3 Weeks from the time the order is processed and will be mailed via UPS. If you have any questions concerning the status of your order, please contact our customer service department.  
 
-[CLICK HERE TO ORDER NOW!](https://buynutriblade.com/checkout/magmasteel/step1?m=348005055483514872)
+[CLICK HERE TO ORDER NOW!](https://buynutriblade.com/checkout/magmasteel/step1?m=348005033505508671)
 
 * [Home](https://buynutriblade.com/Home)
 * [Privacy Policy](https://buynutriblade.com/Privacy-Policy)
