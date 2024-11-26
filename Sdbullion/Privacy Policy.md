@@ -240,10 +240,6 @@ Search  Search
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
-            
-            [Trump Silver](https://sdbullion.com/silver/trump)
-            
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
             [Commander Series](https://sdbullion.com/shop-commander-coin-series)
@@ -277,10 +273,6 @@ Search  Search
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
-            
-        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
-            
-            [Trump Silver](https://sdbullion.com/silver/trump)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
@@ -530,10 +522,6 @@ Search  Search
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
-            
-            [Trump Silver](https://sdbullion.com/silver/trump)
-            
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
             [Commander Series](https://sdbullion.com/shop-commander-coin-series)
@@ -567,10 +555,6 @@ Search  Search
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
-            
-        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
-            
-            [Trump Silver](https://sdbullion.com/silver/trump)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
@@ -2069,10 +2053,6 @@ x
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
-            
-            [Trump Silver](https://sdbullion.com/silver/trump)
-            
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
             [Commander Series](https://sdbullion.com/shop-commander-coin-series)
@@ -2106,10 +2086,6 @@ x
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
-            
-        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
-            
-            [Trump Silver](https://sdbullion.com/silver/trump)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
@@ -2359,10 +2335,6 @@ x
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
-        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
-            
-            [Trump Silver](https://sdbullion.com/silver/trump)
-            
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
             [Commander Series](https://sdbullion.com/shop-commander-coin-series)
@@ -2396,10 +2368,6 @@ x
         * [chevron-right In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
             
             [In Stock Silver](https://sdbullion.com/products/silver-products?product_list_order=popular_product&product_list_dir=desc)
-            
-        * [chevron-right Trump Silver](https://sdbullion.com/silver/trump)
-            
-            [Trump Silver](https://sdbullion.com/silver/trump)
             
         * [chevron-right Commander Series](https://sdbullion.com/shop-commander-coin-series)
             
