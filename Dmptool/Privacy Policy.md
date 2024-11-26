@@ -65,7 +65,7 @@ The processing of your personal data by the University of California Curation Ce
 
 We will hold the personal data you provided us for as long as you continue using the MyApp service. Your personal data can be removed from this service upon request to the MyApp team within a period of 30 days.
 
-If you have any questions, please contact the MyApp team at: [helpdesk@email.edu](mailto:helpdesk@email.edu)
+If you have any questions, please contact the MyApp team at: [dmptool@ucop.edu](mailto:dmptool@ucop.edu)
 
 * * *
 
