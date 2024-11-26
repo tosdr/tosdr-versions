@@ -288,7 +288,7 @@ The ASPCA is a 501(c)(3) non-for-profit organization. [Privacy Policy](https://w
     Underwritten by Independence American Insurance Company
     
 
- ![](https://www.aspca.org/)
+ ![](https://www.aspca.org/sites/default/files/modal-mobile/ea3_hungry-animals_20241125_lightbox_small.jpg)
 
 ### Last Chance to Support Hungry Animals!
 
