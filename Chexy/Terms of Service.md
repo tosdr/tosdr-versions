@@ -10,7 +10,7 @@ CHEXY](https://www.chexy.co/)
 
 [Insider](https://www.chexy.co/insider)
 
-[Newlestter](https://www.chexy.co/rundown)
+[Newsletter](https://www.chexy.co/rundown)
 
 [Wallet](https://www.chexy.co/wallet)
 
