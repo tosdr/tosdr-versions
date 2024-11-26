@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is considered neglect in a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-considered-neglect-in-a-nursing-home-scaled.jpg "What Is Considered Neglect in a Nursing Home?")](https://www.pintas.com/faq/what-is-considered-neglect-in-a-nursing-home/ "What Is Considered Neglect in a Nursing Home?")
+[![Is wandering a common sign of memory care facility neglect?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-is-wandering-a-common-sign-of-memory-care-facility-neglect-300x200.jpg "Is Wandering a Common Sign of Memory Care Facility Neglect?")](https://www.pintas.com/faq/is-wandering-a-common-sign-of-memory-care-facility-neglect/ "Is Wandering a Common Sign of Memory Care Facility Neglect?")
 
-[#### What Is Considered Neglect in a Nursing Home?](https://www.pintas.com/faq/what-is-considered-neglect-in-a-nursing-home/)
+[#### Is Wandering a Common Sign of Memory Care Facility Neglect?](https://www.pintas.com/faq/is-wandering-a-common-sign-of-memory-care-facility-neglect/)
 
-[![What lung cancer is caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-lung-cancer-is-caused-by-asbestos.jpg "What Lung Cancer Is Caused By Asbestos?")](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/ "What Lung Cancer Is Caused By Asbestos?")
+[![Lung cancer basics](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-lung-cancer-basics.jpg "Lung Cancer Basics")](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics "Lung Cancer Basics")
 
-[#### What Lung Cancer Is Caused By Asbestos?](https://www.pintas.com/lung-cancer/what-lung-cancer-is-caused-by-asbestos/)
+[#### Lung Cancer Basics](https://www.pintas.com/practice-areas/lung-cancer/lung-cancer-basics)
 
-[![What types of cancer are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-types-of-cancer-are-caused-by-asbestos.jpg "What Types of Cancer Are Caused by Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos "What Types of Cancer Are Caused by Asbestos?")
+[![Is lung cancer always terminal?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-is-lung-cancer-always-terminal-1.jpg "Is Lung Cancer Always Terminal?")](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/ "Is Lung Cancer Always Terminal?")
 
-[#### What Types of Cancer Are Caused by Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos)
+[#### Is Lung Cancer Always Terminal?](https://www.pintas.com/lung-cancer/is-lung-cancer-always-terminal/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
