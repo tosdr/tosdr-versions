@@ -258,13 +258,11 @@
     
     Upcoming Event
     
-    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66f2e71a28ce520626cb1704_image%20(1).avif)
+    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/673f6e472e7f83930eb6cc88_lookout-executive-impersonation-website-nav-promo-1200x600.avif)
     
     Webflow in 2021
     
-    * Join us October 21-23, 2024
-        
-        We-Ko\_pa Casino Resort, Fort McDowell, AZ](https://event.foundryco.com/cso-conference-awards/)
+    * Executive Impersonation and Smishing Attacks Explained → Watch Now](https://resources.lookout.com/resources/executive-impersonation-and-smishing-attacks-explained)
     
 
 ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/667c5a5e50e2bec7e96dee58_glass-dark.svg)
