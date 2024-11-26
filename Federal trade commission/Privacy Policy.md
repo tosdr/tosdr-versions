@@ -223,9 +223,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends Refunds to Consumers Harmed by Credit Bureau Center’s Fake Rental Property Ads and Deceptive Promises of “Free” Credit Reports](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-sends-refunds-consumers-harmed-credit-bureau-centers-fake-rental-property-ads-deceptive-promises)
+    ### [Smart Products Surveyed Fail to Provide Consumers with Information on How Long Companies will Provide Software Updates](https://www.ftc.gov/news-events/news/press-releases/2024/11/smart-products-surveyed-fail-provide-consumers-information-how-long-companies-will-provide-software)
     
-    November 21, 2024
+    November 26, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
