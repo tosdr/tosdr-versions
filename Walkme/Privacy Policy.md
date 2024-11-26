@@ -2,8 +2,6 @@
 
 Effective Date: September 26, 2023
 
-  
-
 WalkMe and its affiliates,  (“**WalkMe**“, “**we**” or “**us**“) are committed to protecting the privacy of the users of its website at [www.WalkMe.com](https://www.walkme.com/) or any other website owned and/or operated by WalkMe (collectively, the “**Site**“) and its online products, including our web-based digital adoption platform (the “**WalkMe System™**) and the mobile version of our system (the “**WalkMe Mobile™**“) (WalkMe System™ and WalkMe Mobile™ each a “**Service**” and collectively the “**Services**“) provided to our enterprise customers (“**Customers**”).
 
 This Privacy Policy explains the types of information we collect from you or that you may provide when you:
@@ -79,7 +77,8 @@ The terms of this Privacy Policy will govern the use of the Site and Services an
 
 **G.**  **QUESTIONS, CONTACT INFORMATION AND COMPLAINTS**
 
-If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email or otherwise contact us at: [privacy@walkme.com](mailto:privacy@walkme.com) or 1-855-4WALKME (925563 – Toll Free Number).
+If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email or otherwise contact us at:  
+[privacy@walkme.com](mailto:privacy@walkme.com) or 1-855-4WALKME (925563 – Toll Free Number).
 
 **WalkMe Inc,** 350 mission st., FL. 26, San Francisco, CA 94105, USA
 
