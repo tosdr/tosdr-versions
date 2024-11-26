@@ -269,7 +269,7 @@ article 2 weeks ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-
 
 ### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
 
-article 4 hours ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![A close-up of a conduction chamber for testing the heat conduction properties of materials and equipment to be used in Artemis missions.](https://www.nasa.gov/wp-content/uploads/2024/11/ksh0121.jpg?w=1024)
+article 6 hours ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)[![A close-up of a conduction chamber for testing the heat conduction properties of materials and equipment to be used in Artemis missions.](https://www.nasa.gov/wp-content/uploads/2024/11/ksh0121.jpg?w=1024)
 
 4 min read
 
@@ -313,7 +313,7 @@ article 5 days ago](https://science.nasa.gov/people-of-nasa/nasas-brad-doorn-bri
 
 ### NASA’s Europa Clipper: Millions of Miles Down, Instruments Deploying
 
-article 9 hours ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)[![An image from a 3D simulation showing the evolution of turbulent flows in the upper layers of the Sun. The more saturated and bright reds represent the most vigorous upward or downward twisting motions. Clear areas represent areas where there is only relatively slow up-flows, with very little twisting.](https://www.nasa.gov/wp-content/uploads/2024/11/11-kitiashvili-i-sc24-sunhelicitytour0.jpg?w=1024)
+article 11 hours ago](https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-millions-of-miles-down-instruments-deploying/)[![An image from a 3D simulation showing the evolution of turbulent flows in the upper layers of the Sun. The more saturated and bright reds represent the most vigorous upward or downward twisting motions. Clear areas represent areas where there is only relatively slow up-flows, with very little twisting.](https://www.nasa.gov/wp-content/uploads/2024/11/11-kitiashvili-i-sc24-sunhelicitytour0.jpg?w=1024)
 
 3 min read
 
@@ -335,19 +335,19 @@ article 5 days ago](https://science.nasa.gov/science-research/heliophysics/5-sur
 
 ### EXCITE (EXoplanet Climate Infrared TElescope)
 
-article 4 hours ago](https://science.nasa.gov/mission/excite/)[![NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2024/cygnus-x-3/Cyg_X-3_illustration_AC.jpg)
+article 6 hours ago](https://science.nasa.gov/mission/excite/)[![NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2024/cygnus-x-3/Cyg_X-3_illustration_AC.jpg)
 
 4 min read
 
 ### NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System
 
-article 10 hours ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/)[![Hats Off to NASA’s Webb: Sombrero Galaxy Dazzles in New Image](https://science.nasa.gov/wp-content/uploads/2024/11/webb-stsci-01jcgz71j2wy7vrn04ypbyb5x4-2k.png)
+article 12 hours ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/)[![Hats Off to NASA’s Webb: Sombrero Galaxy Dazzles in New Image](https://science.nasa.gov/wp-content/uploads/2024/11/webb-stsci-01jcgz71j2wy7vrn04ypbyb5x4-2k.png)
 
 5 min read
 
 ### Hats Off to NASA’s Webb: Sombrero Galaxy Dazzles in New Image
 
-article 11 hours ago](https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/)
+article 13 hours ago](https://science.nasa.gov/missions/webb/hats-off-to-nasas-webb-sombrero-galaxy-dazzles-in-new-image/)
 
 ### Highlights
 
@@ -357,19 +357,19 @@ article 11 hours ago](https://science.nasa.gov/missions/webb/hats-off-to-nasas-w
 
 ### EXCITE (EXoplanet Climate Infrared TElescope)
 
-article 4 hours ago](https://science.nasa.gov/mission/excite/)[![NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2024/cygnus-x-3/Cyg_X-3_illustration_AC.jpg)
+article 6 hours ago](https://science.nasa.gov/mission/excite/)[![NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2024/cygnus-x-3/Cyg_X-3_illustration_AC.jpg)
 
 4 min read
 
 ### NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System
 
-article 10 hours ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/)[![Title slide for OSDR Chats interview with Dr Keith Siew](https://www.nasa.gov/wp-content/uploads/2024/10/osdr-chats-title-slide-keith-siew.jpg?w=1024)
+article 12 hours ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/)[![Title slide for OSDR Chats interview with Dr Keith Siew](https://www.nasa.gov/wp-content/uploads/2024/10/osdr-chats-title-slide-keith-siew.jpg?w=1024)
 
 2 min read
 
 ### OSDR Chats with Dr Keith Siew
 
-article 10 hours ago](https://www.nasa.gov/osdr-chats-with-dr-keith-siew/)
+article 12 hours ago](https://www.nasa.gov/osdr-chats-with-dr-keith-siew/)
 
 ### Highlights
 
