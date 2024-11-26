@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/stomdronken-juncker-geeft-eu-visitekaartje-af/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/epstein-vervolg-begrafenis-en-ghislaine-maxwell/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
