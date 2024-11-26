@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
+* [Пирог "Ель" из слоёного теста, с какао и корицей](https://www.russianfood.com/recipes/recipe.php?rid=158880)
 * [Торт с халвой и ореховым кремом](https://www.russianfood.com/recipes/recipe.php?rid=150322)
-* [Творожный рулет с орехами](https://www.russianfood.com/recipes/recipe.php?rid=150222)
 * [Говядина с шампиньонами в соевом соусе](https://www.russianfood.com/recipes/recipe.php?rid=150206)
 * [Картофельная запеканка с твёрдым сыром и фетой](https://www.russianfood.com/recipes/recipe.php?rid=174623)
 * [Завтрак из хека](https://www.russianfood.com/recipes/recipe.php?rid=573)
 * [Яблоки, фаршированные мясом цыпленка](https://www.russianfood.com/recipes/recipe.php?rid=926)
 * [Луковый пирог(Quiche aux oignons)](https://www.russianfood.com/recipes/recipe.php?rid=1153)
 * [Филе в духовке(Aloyau braise)](https://www.russianfood.com/recipes/recipe.php?rid=1171)
-* [Картофель «дофин»](https://www.russianfood.com/recipes/recipe.php?rid=1436)
-* [Слоеный кочан](https://www.russianfood.com/recipes/recipe.php?rid=1451)
+* [Бутерброд соломка](https://www.russianfood.com/recipes/recipe.php?rid=1516)
+* [Фаршированный кабачок (овощами, творогом или мясом)](https://www.russianfood.com/recipes/recipe.php?rid=1531)
 
 |     |
 | --- |
@@ -182,6 +182,20 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Утреннее вдохновение пробуем на вкус!) Лучшие ЗАВТРАКИ №24-48](https://www.russianfood.com/reading/?post_id=22926) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/662/sm_661386.jpg)](https://www.russianfood.com/reading/?post_id=22926)
+
+Гренки с орехово-шоколадной пастой. Гренки с ромом и пряностями. Манка с йогуртом и цедрой. Пшеница на молоке. Мамалыга с курагой. Хот-дог с квашеной капустой. Омлет на сметане, с грибами, луком и карри.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22926)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие завтраки](https://www.russianfood.com/blogs/?id=325261) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22926#comments) | 26.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Калейдоскоп новогодних вкусов. Лучшие рецепты на Новый год (91)](https://www.russianfood.com/reading/?post_id=22925) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/714/sm_713297.jpg)](https://www.russianfood.com/reading/?post_id=22925)
@@ -192,7 +206,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22925#comments) | 26.11.24 |     |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22925#comments) | 26.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -220,7 +234,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174904#comments) | 26.11.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174904#comments) | 26.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -234,7 +248,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174923#comments) | 26.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174923#comments) | 26.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -376,20 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22913#comments) | 23.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Тёртый сливовый пирог](https://www.russianfood.com/recipes/recipe.php?rid=174546) |     |
-
-[![Фото к рецепту: Тёртый сливовый пирог](//img1.russianfood.com/dycontent/images_upl/753/sm_752851.jpg "Фото к рецепту: Тёртый сливовый пирог")](https://www.russianfood.com/recipes/recipe.php?rid=174546)
-
-Этот тарт готовится из миндального песочного теста на молоке и яйцах, без добавления масла. В качестве начинки используется самостоятельно приготовленный густой сливовый кисель. Верх пирога - корочка из того же теста, натёртого на тёрке.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174546)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174546#comments) | 22.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -461,8 +461,8 @@
 
 |     |     |     |
 | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754387.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754277.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
-| [Конвертики с курагой, изюмом и цедрой](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [Рыба, запечённая с овощами в лодочках из пергамента](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [Конвертики из лаваша с яблоком и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
+| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754387.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754778.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754277.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
+| [Рыба, запечённая с овощами в лодочках из пергамента](https://www.russianfood.com/recipes/recipe.php?rid=174908) | [Конвертики с курагой, изюмом и цедрой](https://www.russianfood.com/recipes/recipe.php?rid=174923) | [Конвертики из лаваша с яблоком и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174904) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(173)
+(220)
