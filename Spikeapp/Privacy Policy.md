@@ -58,12 +58,12 @@
             * [Download Spike for WindowsUse Spike from anywhere – on any device](https://www.spikenow.com/downloads/windows/ "Download Spike for Windows")
             * [Download Spike for MacUse Spike from anywhere – on any device](https://www.spikenow.com/downloads/mac/ "Download Spike for Mac")
 * [Book a demo](https://www.spikenow.com/contact-sales/ "Book a demo")
-* [Sign in](https://spikenow.com/r/a/?ref=bolt.im&lastPageUrl=%252Fprivacy-policy%252F "Sign in")
+* [Sign in](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fprivacy-policy%252F "Sign in")
 * [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload "Download Spike")
 
-[Sign in Spike Web App version](https://spikenow.com/r/a/?ref=bolt.im&lastPageUrl=%252Fprivacy-policy%252F "Click for the Sign In page")
+[Sign in Spike Web App version](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fprivacy-policy%252F "Click for the Sign In page")
 
-[Book a Demo](https://www.spikenow.com/contact-sales) [Get Started Free](https://spikenow.com/r/a/?ref=bolt.im&lastPageUrl=%252Fprivacy-policy%252F) [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload)
+[Book a Demo](https://www.spikenow.com/contact-sales) [Get Started Free](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fprivacy-policy%252F) [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload)
 
 Privacy Policy
 ==============
