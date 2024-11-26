@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Hugo van Sittert
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=207539918)  
-Nilbet T/A Waterman
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=125743871)  
+Moremi Kitchens Rustenburg
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=44579174)  
-Tantra Sound and Lightz
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=158809816)  
+Lily Fern & Co
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=67997186)  
-Iurus Inc
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=147834177)  
+One2b
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=34179806)  
-CLEVER STUDENTS
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=139533514)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=35731836)  
-Nogana Events and Decor
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=87289919)  
+Well Hung Art
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=183112125)  
-Xpress Designs
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=20552910)  
+AFS Electrical
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=51268424)  
-J.M. HUMAN RESOURCES
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=128480353)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=159491850)  
-INVOICES/JOBCARDS ONLINE
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=4170757)  
+Imhoff Equestrian Centre
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=132185207)  
-Fox Alarms & Security CC
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=122481678)  
+Multi CNC Solutions CC
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=77553014)  
-LEO DEVELOPMENT GROUP
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=203943755)  
+Moulded Wax SA - The Candle Store
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=46335274)  
-Oak Tree Immigration
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=79397769)  
+Gemini-IT Group
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=98886277)  
-Chiron Medical Solutions
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=19804875)  
+Cape Adventure Zone
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=60218219)  
-LEONARD
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=89830983)  
+Stevens Consulting
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=13058988)  
-Kaylas Creations
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=43727412)  
+Hydroworld T/A Milliqua
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=b952c00fae136acf49dba69b8390eb8b1df79c8b261a96836033a72e251b5bb5&c=167883928)  
-VerdanTech Pty Ltd
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=af1efba2fac6312c6a499bd511ab699c450a773a76cc1bdc10189c8c358794da&c=108064596)  
+Echo Recording Studio cc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
