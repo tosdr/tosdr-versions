@@ -5,7 +5,7 @@
 * [Weather](https://www.fox4news.com/weather)
 * [Good Day](https://www.fox4news.com/shows/good-day)
 * [Sports](https://www.fox4news.com/sports)
-* [Gift Guide](https://www.fox4news.com/giftguide)
+* [Gift Guide](https://www.fox4news.com/shows/gift-guide)
 * [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![North Keller water shut off after worker damages pipe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/GettyImages-1324303897.jpg?ve=1&tl=1)
+ [![Greenville police officer shot and killed in 'ambush' attack, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v_greenville_pickett_st_ois_4a_mxf_00.00.59.06-1.jpg?ve=1&tl=1)
 
- ![North Keller water shut off after worker damages pipe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/03/32/18/592/333/GettyImages-1324303897.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-keller-water-shut-off)
+ ![Greenville police officer shot and killed in 'ambush' attack, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v_greenville_pickett_st_ois_4a_mxf_00.00.59.06-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/greenville-police-officer-shot-killed)
 
-### [North Keller water shut off after worker damages pipe](https://www.fox4news.com/news/north-keller-water-shut-off)
+### [Greenville police officer shot and killed in 'ambush' attack, police say](https://www.fox4news.com/news/greenville-police-officer-shot-killed)
 
- [![Greenville police officer killed in shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/112624-greenville-police-sh-hosptvs-kdfweme002_05__00.02.00.34.jpg?ve=1&tl=1)
+ [![Watch live: Biden expected to discuss Middle East peace talks](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/biden-rose-garden-getty.jpg?ve=1&tl=1)
 
- ![Greenville police officer killed in shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/112624-greenville-police-sh-hosptvs-kdfweme002_05__00.02.00.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/greenville-police-officer-shot-killed)
+ ![Watch live: Biden expected to discuss Middle East peace talks](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/biden-rose-garden-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-biden-discuss-middle-east-peace-talks-ceasefire)
 
-### [Greenville police officer killed in shooting](https://www.fox4news.com/news/greenville-police-officer-shot-killed)
+### [Watch live: Biden expected to discuss Middle East peace talks](https://www.fox4news.com/news/watch-biden-discuss-middle-east-peace-talks-ceasefire)
 
- [![Greenville police officer, suspect shot during Monday investigation](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/9aa2ffa8-78b9ff20-Generic-police-lights-2-11-1.jpg?ve=1&tl=1)
+ [![Former Arizona Coyotes player, Paul Bissonnette, assaulted at Scottsdale restaurant](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/gettyimages-482770757-scaled.jpg?ve=1&tl=1)
 
- ![Greenville police officer, suspect shot during Monday investigation](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/05/32/18/592/333/9aa2ffa8-78b9ff20-Generic-police-lights-2-11-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hunt-county-texas-picket-street-shooting-ois-officer-down)
+ ![Former Arizona Coyotes player, Paul Bissonnette, assaulted at Scottsdale restaurant](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/11/32/18/592/333/gettyimages-482770757-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/former-arizona-coyotes-player-paul-bissonnette-assaulted-scottsdale-restaurant)
 
-### [Greenville police officer, suspect shot during Monday investigation](https://www.fox4news.com/news/hunt-county-texas-picket-street-shooting-ois-officer-down)
+### [Police ID suspects in Paul Bissonnette assault](https://www.fox4news.com/news/former-arizona-coyotes-player-paul-bissonnette-assaulted-scottsdale-restaurant)
 
- [![Grapevine flips the switch on for its 36th annual Carol of Lights holiday event](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/grapevine-carol-of-lights_00.14.56.46.jpg?ve=1&tl=1)
+ [![Texas-Texas A&M ticket prices may shock you](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/11/32/18/gettyimages-134071717.jpg?ve=1&tl=1)
 
- ![Grapevine flips the switch on for its 36th annual Carol of Lights holiday event](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/grapevine-carol-of-lights_00.14.56.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grapevine-flips-switch-its-36th-annual-carol-lights-holiday-event)
+ ![Texas-Texas A&M ticket prices may shock you](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/11/32/18/592/333/gettyimages-134071717.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-texas-am-ticket-prices-how-to-watch)
 
-### [Grapevine flips the switch on for its 36th annual Carol of Lights holiday event](https://www.fox4news.com/news/grapevine-flips-switch-its-36th-annual-carol-lights-holiday-event)
+### [Texas-Texas A&M ticket prices may shock you](https://www.fox4news.com/sports/texas-texas-am-ticket-prices-how-to-watch)
 
- [![Dallas man says stranger shot him multiple times while on running trail](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-dallas-lazy-river-trail-shooting-9p_00.00.06.34.jpg?ve=1&tl=1)
+ [![Ali's Thanksgiving stuffing recipe | The Ten](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/stuffing-ali.png?ve=1&tl=1)
 
- ![Dallas man says stranger shot him multiple times while on running trail](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-dallas-lazy-river-trail-shooting-9p_00.00.06.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-man-says-stranger-shot-him-multiple-times-while-running-trail)
+ ![Ali's Thanksgiving stuffing recipe | The Ten](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/stuffing-ali.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/alis-thanksgiving-stuffing-recipe-ten)
 
-### [Dallas man says stranger shot him multiple times while on running trail](https://www.fox4news.com/news/dallas-man-says-stranger-shot-him-multiple-times-while-running-trail)
+### [Ali's Thanksgiving stuffing recipe | The Ten](https://www.fox4news.com/news/alis-thanksgiving-stuffing-recipe-ten)
 
 ###### [News](https://www.fox4news.com/news)
 
