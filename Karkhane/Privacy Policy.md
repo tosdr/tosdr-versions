@@ -28,12 +28,6 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/10/1-95x65.jpg)](https://karkhane.org/5958/is_there_an_accident/)[حادثه‌ای در کار است یا نه؟!](https://karkhane.org/5958/is_there_an_accident/)
-* [![در کارخانه‌ی اسنوا چه می‌گذرد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/app/uploads/2021/12/dar-snowa-che-migozarad-95x65.jpg)](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)[در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)
-* [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
 * [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
@@ -49,12 +43,18 @@ Privacy Policy
 * [![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/app/uploads/2020/10/nassaji-mazandaran-95x65.jpg)](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)[نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)
-* [![بازخوانی هفت‌تپه‌ی نود و نُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال 99](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![در کارخانه‌ی اسنوا چه می‌گذرد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![بازخوانی هفت‌تپه‌ی نود و نُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال 99](https://karkhane.org/app/uploads/2020/11/bazxani-e-haft-tappe-99-95x65.jpg)](https://karkhane.org/2311/%d8%a8%d8%a7%d8%b2%d8%ae%d9%88%d8%a7%d9%86%db%8c-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%87%d9%81%d8%aa%d8%aa%d9%be%d9%87-99/)[بازخوانی هفت‌تپه‌ی نودونُه: گزارشی از اعتصاب کارگران هفت‌تپه در بهار و تابستان سال ۹۹](https://karkhane.org/2311/%d8%a8%d8%a7%d8%b2%d8%ae%d9%88%d8%a7%d9%86%db%8c-%d8%a7%d8%b9%d8%aa%d8%b5%d8%a7%d8%a8-%d9%87%d9%81%d8%aa%d8%aa%d9%be%d9%87-99/)
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/app/uploads/2021/12/dar-snowa-che-migozarad-95x65.jpg)](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)[در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)
+* [![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/09/4-95x65.jpeg)](https://karkhane.org/5825/living_encounters_in_capitalist_society/)[تجربه‌های زیسته در جامعه‌ی سرمایه‌داری](https://karkhane.org/5825/living_encounters_in_capitalist_society/)
+    ![دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/app/uploads/2020/11/do-ser-az-bolivi-az-taraneha-ye-kargaran-95x65.jpg)](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)[دو شعر از بولیوی: به مناسبت مبارزات کارگران و بومیان فرودست با کودتای ضدکارگری علیه اِوو مورالِس](https://karkhane.org/2355/%d8%af%d9%88-%d8%b4%d8%b9%d8%b1-%d8%a7%d8%b2-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d9%88%d9%84%db%8c%d9%88%db%8c/)
+* [![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/app/uploads/2021/02/1-95x65.jpg)](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)[کارگری‌نویسی: همبستگی و پیوستگی در راه مبارزه‌ی طبقاتی](https://karkhane.org/2483/%da%a9%d8%a7%d8%b1%da%af%d8%b1%db%8c%d9%86%d9%88%db%8c%d8%b3%db%8c-%d9%87%d9%85%d8%a8%d8%b3%d8%aa%da%af%db%8c-%d9%88-%d9%be%db%8c%d9%88%d8%b3%d8%aa%da%af%db%8c-%d8%af%d8%b1-%d8%b1%d8%a7/)
+* [![عدالت‌خواهانِ جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![عدالت‌خواهانِ جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](https://karkhane.org/app/uploads/2023/04/edalatxahan-e-javan-1-95x65.jpg)](https://karkhane.org/4909/edalatxahan-e-javan-1/)[عدالت‌خواهان جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](https://karkhane.org/4909/edalatxahan-e-javan-1/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
