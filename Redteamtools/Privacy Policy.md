@@ -1,5 +1,7 @@
 [Skip to main content](#main-content)
 
+[BLACK FRIDAY HAS STARTED! Free Shipping On Orders Over $150 with Code: FREESHIP150](#)
+
 [Toggle menu](#)
 
 [Red Team Tools ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/9d911a80-85b9-013d-4ae6-4e14475343b5/e/b4382370-1605-013d-2256-62b8f9cadea7/img/logo.png) ![](https://cdn11.bigcommerce.com/s-szziy5bgph/stencil/9d911a80-85b9-013d-4ae6-4e14475343b5/e/b4382370-1605-013d-2256-62b8f9cadea7/img/logo.png)](https://www.redteamtools.com/)  
