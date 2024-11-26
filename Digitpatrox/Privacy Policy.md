@@ -20,16 +20,16 @@ Tuesday, November 26 2024
 
 Latest
 
-* [Windows Recall is now available to test in limited preview – Computerworld](https://digitpatrox.com/windows-recall-is-now-available-to-test-in-limited-preview-computerworld/)
-* [Threads Is Testing the Ability to Pick Your Default Feed](https://digitpatrox.com/threads-is-testing-the-ability-to-pick-your-default-feed/)
-* [Best All-Season Tires for Winter Driving](https://digitpatrox.com/best-all-season-tires-for-winter-driving/)
-* [How to Add and Manage Additional Accounts in New Outlook](https://digitpatrox.com/how-to-add-and-manage-additional-accounts-in-new-outlook/)
-* [9 VoIP Troubleshooting Tips to Fix Everything Right Now](https://digitpatrox.com/9-voip-troubleshooting-tips-to-fix-everything-right-now/)
-* [NYT Connections today hints and answers — Tuesday, November 26 (#534)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-tuesday-november-26-534/)
-* [QNAP addresses critical flaws across NAS, router software](https://digitpatrox.com/qnap-addresses-critical-flaws-across-nas-router-software/)
-* [The 30 best Black Friday deals on AirPods, MacBooks, and other Apple tech](https://digitpatrox.com/the-30-best-black-friday-deals-on-airpods-macbooks-and-other-apple-tech/)
-* [Today’s Wordle Answer and Hints for November 26, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-26-2024/)
-* [What is geotargeting? Can you avoid geotargeting with a VPN?](https://digitpatrox.com/what-is-geotargeting-can-you-avoid-geotargeting-with-a-vpn/)
+* [Firefox and Windows zero-days exploited by Russian RomCom hackers](https://digitpatrox.com/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/)
+* [Video leaks of Samsung’s curvier Galaxy S25 Ultra flagship](https://digitpatrox.com/video-leaks-of-samsungs-curvier-galaxy-s25-ultra-flagship/)
+* [Deadlock Warden Build: Best Items and Abilities](https://digitpatrox.com/deadlock-warden-build-best-items-and-abilities/)
+* [Everything you need to know about the Microsoft outage, including fixes, updates, and lingering issues](https://digitpatrox.com/everything-you-need-to-know-about-the-microsoft-outage-including-fixes-updates-and-lingering-issues/)
+* [Just what the heck does an ‘AI PC’ do? – Computerworld](https://digitpatrox.com/just-what-the-heck-does-an-ai-pc-do-computerworld/)
+* [The Bissell CrossWave OmniForce Is $150 Off for Black Friday](https://digitpatrox.com/the-bissell-crosswave-omniforce-is-150-off-for-black-friday/)
+* [Scammers Are Stealing Millions From Americans’ Bank Accounts](https://digitpatrox.com/scammers-are-stealing-millions-from-americans-bank-accounts/)
+* [How to Mirror Your Android Screen to Your PC Using Windows Phone Link](https://digitpatrox.com/how-to-mirror-your-android-screen-to-your-pc-using-windows-phone-link/)
+* [GitHub says Copilot improves code quality – but are AI coding tools actually producing results for developers?](https://digitpatrox.com/github-says-copilot-improves-code-quality-but-are-ai-coding-tools-actually-producing-results-for-developers/)
+* [How Does Tap To Pay Work?](https://digitpatrox.com/how-does-tap-to-pay-work/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3612148-0-80638800-1732550820-1-Microsoft-Windows-Recall-privacy-Search.png?w=1024)](https://digitpatrox.com/windows-recall-is-now-available-to-test-in-limited-preview-computerworld/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/07/hacker.jpg)](https://digitpatrox.com/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/)
     
-    [Windows Recall is now available to test in limited preview – Computerworld](https://digitpatrox.com/windows-recall-is-now-available-to-test-in-limited-preview-computerworld/)
+    [Firefox and Windows zero-days exploited by Russian RomCom hackers](https://digitpatrox.com/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/)
     
-    19 minutes ago
+    27 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDJHP3YNJNGEJ1RRFKEY92DF/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/threads-is-testing-the-ability-to-pick-your-default-feed/)
+* [![](https://cdn.vox-cdn.com/thumbor/4vZ0j8UUI3uiJeccjxa-dds48BI=/0x0:1067x778/1200x628/filters:focal(534x389:535x390)/cdn.vox-cdn.com/uploads/chorus_asset/file/25758128/Samsung_Galaxy_S25_Ultra_video_leak.jpg)](https://digitpatrox.com/video-leaks-of-samsungs-curvier-galaxy-s25-ultra-flagship/)
     
-    [Threads Is Testing the Ability to Pick Your Default Feed](https://digitpatrox.com/threads-is-testing-the-ability-to-pick-your-default-feed/)
+    [Video leaks of Samsung’s curvier Galaxy S25 Ultra flagship](https://digitpatrox.com/video-leaks-of-samsungs-curvier-galaxy-s25-ultra-flagship/)
     
-    47 minutes ago
+    44 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1572891372/prod/content/dam/CRO%20Images%202019/Cars/November/CR-Cars-InlineHero-2019-Genesis-G70-snow-11-19)](https://digitpatrox.com/best-all-season-tires-for-winter-driving/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Deadlock-Warden-on-homescreen.jpg)](https://digitpatrox.com/deadlock-warden-build-best-items-and-abilities/)
     
-    [Best All-Season Tires for Winter Driving](https://digitpatrox.com/best-all-season-tires-for-winter-driving/)
+    [Deadlock Warden Build: Best Items and Abilities](https://digitpatrox.com/deadlock-warden-build-best-items-and-abilities/)
     
-    58 minutes ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/screenshot-of-the-new-outlook-with-a-highlight-on-the-option-to-add-another-email-account.jpg)](https://digitpatrox.com/how-to-add-and-manage-additional-accounts-in-new-outlook/)
+* [![](https://cdn.mos.cms.futurecdn.net/kYqf4bFZn2deGUnjasVn8Y-1200-80.jpg)](https://digitpatrox.com/everything-you-need-to-know-about-the-microsoft-outage-including-fixes-updates-and-lingering-issues/)
     
-    [How to Add and Manage Additional Accounts in New Outlook](https://digitpatrox.com/how-to-add-and-manage-additional-accounts-in-new-outlook/)
+    [Everything you need to know about the Microsoft outage, including fixes, updates, and lingering issues](https://digitpatrox.com/everything-you-need-to-know-about-the-microsoft-outage-including-fixes-updates-and-lingering-issues/)
     
-    59 minutes ago
+    3 hours ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/11/voip-troubleshooting-tips-featured-image-11252024-min.png)](https://digitpatrox.com/9-voip-troubleshooting-tips-to-fix-everything-right-now/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3611479-0-61296600-1732555457-shutterstock_2497387185.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/just-what-the-heck-does-an-ai-pc-do-computerworld/)
     
-    [9 VoIP Troubleshooting Tips to Fix Everything Right Now](https://digitpatrox.com/9-voip-troubleshooting-tips-to-fix-everything-right-now/)
+    [Just what the heck does an ‘AI PC’ do? – Computerworld](https://digitpatrox.com/just-what-the-heck-does-an-ai-pc-do-computerworld/)
     
-    2 hours ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [19 minutes ago
+* [27 minutes ago
     
-    ### Windows Recall is now available to test in limited preview – Computerworld](https://digitpatrox.com/windows-recall-is-now-available-to-test-in-limited-preview-computerworld/)
-* [47 minutes ago
+    ### Firefox and Windows zero-days exploited by Russian RomCom hackers](https://digitpatrox.com/firefox-and-windows-zero-days-exploited-by-russian-romcom-hackers/)
+* [44 minutes ago
     
-    ### Threads Is Testing the Ability to Pick Your Default Feed](https://digitpatrox.com/threads-is-testing-the-ability-to-pick-your-default-feed/)
-* [58 minutes ago
+    ### Video leaks of Samsung’s curvier Galaxy S25 Ultra flagship](https://digitpatrox.com/video-leaks-of-samsungs-curvier-galaxy-s25-ultra-flagship/)
+* [1 hour ago
     
-    ### Best All-Season Tires for Winter Driving](https://digitpatrox.com/best-all-season-tires-for-winter-driving/)
+    ### Deadlock Warden Build: Best Items and Abilities](https://digitpatrox.com/deadlock-warden-build-best-items-and-abilities/)
 
 Most Popular Topics
 
-* [October 23, 2024
+* [3 days ago
     
-    ### This Mac App Will Show Your Coworkers’ Time Zones in the Menu Bar](https://digitpatrox.com/this-mac-app-will-show-your-coworkers-time-zones-in-the-menu-bar/)
-* [October 4, 2024
+    ### NYT Strands Today: Hints, Answers, and Spangram for November 24](https://digitpatrox.com/nyt-strands-today-hints-answers-and-spangram-for-november-24/)
+* [1 week ago
     
-    ### How to Improve Your Digital Transformation Project Failure Rate](https://digitpatrox.com/how-to-improve-your-digital-transformation-project-failure-rate/)
-* [2 weeks ago
+    ### NYT Strands Today: Hints, Answers & Spangram for November 17](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-17/)
+* [October 21, 2024
     
-    ### Microsoft adds Copilot AI features to some non-US M365 consumer plans – Computerworld](https://digitpatrox.com/microsoft-adds-copilot-ai-features-to-some-non-us-m365-consumer-plans-computerworld/)
+    ### The Rise in Nation-State Cyber Threats](https://digitpatrox.com/the-rise-in-nation-state-cyber-threats/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### QNAP addresses critical flaws across NAS, router software](https://digitpatrox.com/qnap-addresses-critical-flaws-across-nas-router-software/)
-* [3 hours ago
+    ### Scammers Are Stealing Millions From Americans’ Bank Accounts](https://digitpatrox.com/scammers-are-stealing-millions-from-americans-bank-accounts/)
+* [4 hours ago
     
-    ### The 30 best Black Friday deals on AirPods, MacBooks, and other Apple tech](https://digitpatrox.com/the-30-best-black-friday-deals-on-airpods-macbooks-and-other-apple-tech/)
-* [3 hours ago
+    ### How to Mirror Your Android Screen to Your PC Using Windows Phone Link](https://digitpatrox.com/how-to-mirror-your-android-screen-to-your-pc-using-windows-phone-link/)
+* [4 hours ago
     
-    ### Today’s Wordle Answer and Hints for November 26, 2024](https://digitpatrox.com/todays-wordle-answer-and-hints-for-november-26-2024/)
+    ### GitHub says Copilot improves code quality – but are AI coding tools actually producing results for developers?](https://digitpatrox.com/github-says-copilot-improves-code-quality-but-are-ai-coding-tools-actually-producing-results-for-developers/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [October 2, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
