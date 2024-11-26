@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Dengue is classified as an urban disease. Mosquitoes don’t care](https://www.sciencenews.org/article/dengue-mosquitoes-urban-rural-disease)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")19 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")November 25, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -120,23 +120,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Paleontology](https://www.sciencenews.org/topic/paleontology)
+            
+            ### [China’s famously rich dinosaur fossil beds get a new origins story](https://www.sciencenews.org/article/china-fossil-beds-new-origins-story)
+            
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")3 hours ago
+            
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Dengue is classified as an urban disease. Mosquitoes don’t care](https://www.sciencenews.org/article/dengue-mosquitoes-urban-rural-disease)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")19 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")November 25, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [For adult chimps, playing may be more important than previously thought](https://www.sciencenews.org/article/adult-chimps-play-importance-chimpanzee)
             
             By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")November 21, 2024
-            
-        * [Life](https://www.sciencenews.org/topic/life)
-            
-            ### [Nature’s first fiber optics could light the way to internet innovation](https://www.sciencenews.org/article/clam-fiber-optics-symbiotic-algae)
-            
-            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")November 19, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [From electric cars to wildfires, how Trump may affect climate actions](https://www.sciencenews.org/article/trump-affect-climate-actions-research)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")17 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")24 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
