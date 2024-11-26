@@ -12,7 +12,7 @@ Take $300 off the Enhance Select 500! [Shop now](https://www.listenlively.com/pr
 
 100-day risk-free trial and US-based customer support!
 
-[This deal won’t last forever!This deal won’t last forever!This deal won’t last forever! **Sale ends in 4d : 14h : 20m**](https://www.listenlively.com/product)
+[This deal won’t last forever!This deal won’t last forever!This deal won’t last forever! **Sale ends in 4d : 8h : 19m**](https://www.listenlively.com/product)
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
@@ -98,7 +98,7 @@ Everything you need for better hearing — all for as low as $995 per pair. Fina
 Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'll refund your entire order.
 
 * Up to 3-year warranty
-* US-based support, 7 days a week
+* Customer support 7 days a week
     
 * Free shipping and returns
 
@@ -109,7 +109,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 90% of customers using Enhance Select Premium report hearing better\*
 ---------------------------------------------------------------------
 
-4.6 out of 5(3938 reviews)
+4.6 out of 5(3951 reviews)
 
 * _**95%** report hearing friends & family better_
 * _**95%** report asking others to repeat themselves less_
@@ -156,7 +156,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 ### Everything you need for better hearing
 
-4.6 out of 5(3938 reviews)
+4.6 out of 5(3951 reviews)
 
 ![](/cdn-cgi/image/width=1920,quality=80,format=auto/_next/static/media/hp-bundle.0d06c898.jpg)
 
