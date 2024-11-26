@@ -6,6 +6,14 @@
 
 [](https://gg.deals/us/redirect/9dbeae59f1cfeb5fc83d3dde79ea1acbe9adf42a/?utm_campaign=top-banner&utm_source=page%2Fpage)
 
+Default platform: All
+
+* All platforms
+* PC
+* Xbox
+* PlayStation
+* Switch
+
 Region: United States
 
 Keyshops: Enabled
