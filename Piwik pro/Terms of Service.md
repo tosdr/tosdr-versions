@@ -1,7 +1,3 @@
-[**Live webinar:** How to protect your paid ads from fraud and fake traffic – Sign up now
-
-![](/wp-content/plugins/pp-block-icon/build/images/white/arrow_right.svg)](https://campaign.piwik.pro/webinar-protect-paid-ads-from-fraud/)
-
 [![ico_logo_main](/wp-content/themes/main/assets/images/pp-logo_dark.svg)](https://piwik.pro/)
 
 * Product
