@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Earnest-Lockett-326x245.jpg)](https://cwbchicago.com/2024/11/12-years-for-shooting-at-chicago-cops-while-on-parole-and-felony-bail.html "12 years for shooting at Chicago cops while on parole and felony bail")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Yeison-Becerra-326x245.jpg)](https://cwbchicago.com/2024/11/migrant-arrested-3x-in-a-month-is-charged-with-mugging-a-woman-in-the-loop.html "Migrant, arrested 3x in a month, is charged with mugging a woman in the Loop")
 
-Englewood
+Loop
 
-### [12 years for shooting at Chicago cops while on parole and felony bail](https://cwbchicago.com/2024/11/12-years-for-shooting-at-chicago-cops-while-on-parole-and-felony-bail.html "12 years for shooting at Chicago cops while on parole and felony bail")
+### [Migrant, arrested 3x in a month, is charged with mugging a woman in the Loop](https://cwbchicago.com/2024/11/migrant-arrested-3x-in-a-month-is-charged-with-mugging-a-woman-in-the-loop.html "Migrant, arrested 3x in a month, is charged with mugging a woman in the Loop")
 
-[November 23, 2024 5:39 PM](https://cwbchicago.com/2024/11)
+[November 24, 2024 8:28 AM](https://cwbchicago.com/2024/11)
 
-A man accused of shooting at Chicago cops while on parole and on felony bail last year has been handed a 12-year sentence.[](https://cwbchicago.com/2024/11/12-years-for-shooting-at-chicago-cops-while-on-parole-and-felony-bail.html "12 years for shooting at Chicago cops while on parole and felony bail")
+CHICAGO — A Venezuelan migrant is charged with mugging a 50-year-old woman in the Loop this week. It’s his third arrest in a month and his sixth arrest in the past year. The victim told police that a man confronted her as she got into her car in the 500 block of South Wabash on[](https://cwbchicago.com/2024/11/migrant-arrested-3x-in-a-month-is-charged-with-mugging-a-woman-in-the-loop.html "Migrant, arrested 3x in a month, is charged with mugging a woman in the Loop")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Henry-Brito-Dominguez-326x245.jpg)](https://cwbchicago.com/2024/11/migrant-shot-another-migrant-he-suspected-of-murdering-a-friend-chicago-police-report-says.html "Migrant shot another migrant he suspected of murdering a friend, Chicago police report says")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH-519120-loop-041A-326x245.jpg)](https://cwbchicago.com/2024/11/woman-runs-into-macys-after-being-shot-during-christmas-festivities-in-the-loop.html "Woman runs into Macy’s after being shot during Christmas festivities in the Loop")
 
-Greater Grand Crossing
+Loop
 
-### [Migrant shot another migrant he suspected of murdering a friend, Chicago police report says](https://cwbchicago.com/2024/11/migrant-shot-another-migrant-he-suspected-of-murdering-a-friend-chicago-police-report-says.html "Migrant shot another migrant he suspected of murdering a friend, Chicago police report says")
+### [Woman runs into Macy’s after being shot during Christmas festivities in the Loop](https://cwbchicago.com/2024/11/woman-runs-into-macys-after-being-shot-during-christmas-festivities-in-the-loop.html "Woman runs into Macy’s after being shot during Christmas festivities in the Loop")
 
-[November 23, 2024 1:32 PM](https://cwbchicago.com/2024/11)
+[November 24, 2024 5:14 AM](https://cwbchicago.com/2024/11)
 
-A Venezuelan migrant charged with trying to murder another migrant this week told cops he did it because the victim murdered a friend of his last week, a Chicago police report says.[](https://cwbchicago.com/2024/11/migrant-shot-another-migrant-he-suspected-of-murdering-a-friend-chicago-police-report-says.html "Migrant shot another migrant he suspected of murdering a friend, Chicago police report says")
+CHICAGO — A woman was shot in the Loop on Saturday evening as large crowds filled the area to celebrate the start of the holiday season. An individual is being questioned. Chicago police officers were maintaining a significant presence in the Loop following the annual Festival of Lights and Friday’s lighting of the city’s official[](https://cwbchicago.com/2024/11/woman-runs-into-macys-after-being-shot-during-christmas-festivities-in-the-loop.html "Woman runs into Macy’s after being shot during Christmas festivities in the Loop")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/state-hubbard-0420-326x245.jpg)](https://cwbchicago.com/2024/11/assailant-stabs-2-men-in-river-north.html "Assailant stabs 2 men in River North")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/west-town-nov-2024-326x245.jpg)](https://cwbchicago.com/2024/11/5-armed-robberies-and-carjackings-reported-from-west-loop-to-logan-square.html "5 armed robberies and carjackings reported from West Loop to Logan Square")
 
-River North
+Logan Square
 
-### [Assailant stabs 2 men in River North](https://cwbchicago.com/2024/11/assailant-stabs-2-men-in-river-north.html "Assailant stabs 2 men in River North")
+### [5 armed robberies and carjackings reported from West Loop to Logan Square](https://cwbchicago.com/2024/11/5-armed-robberies-and-carjackings-reported-from-west-loop-to-logan-square.html "5 armed robberies and carjackings reported from West Loop to Logan Square")
 
-[November 23, 2024 10:23 AM](https://cwbchicago.com/2024/11)
+[November 23, 2024 7:00 PM](https://cwbchicago.com/2024/11)
 
-Two men are recovering after being stabbed in River North on Friday night. Their attacker remains at large.[](https://cwbchicago.com/2024/11/assailant-stabs-2-men-in-river-north.html "Assailant stabs 2 men in River North")
+An area that was hard hit by roving teams of armed robbers over the past few years, only to enjoy a sharp drop after Chicago police made several arrests earlier in 2024, is starting to see an uptick in activity again, with five armed robberies and carjackings reported from Friday evening to Saturday afternoon.[](https://cwbchicago.com/2024/11/5-armed-robberies-and-carjackings-reported-from-west-loop-to-logan-square.html "5 armed robberies and carjackings reported from West Loop to Logan Square")
 
 Search
 
