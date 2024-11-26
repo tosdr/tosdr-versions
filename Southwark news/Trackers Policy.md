@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Construction continues on some of the affordable homes funded by City Hall. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/Construction-of-Mayors-affordable-homes-360x180.jpg)](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
+    
+    ### [Some boroughs in London have started just one new affordable home a year](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-360x180.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
     
     ### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
@@ -51,10 +55,6 @@
     [![The Gaza Sunbirds have delivered over $100,000 in aid to Gazan families. Credit: Gaza Sunbirds](https://southwarknews.co.uk/wp-content/uploads/2024/11/GazaSunbirds_creditGazaSunbirds3-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
     
     ### [Peckham to host fundraiser for Palestinian para-cycling team delivering aid to wartorn strip](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
-    
-    [![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
-    
-    ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Construction continues on some of the affordable homes funded by City Hall. Credit: Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/11/Construction-of-Mayors-affordable-homes-360x180.jpg)](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
+    
+    ### [Some boroughs in London have started just one new affordable home a year](https://southwarknews.co.uk/area/london/some-boroughs-in-london-have-started-just-one-new-affordable-home-a-year/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/11/154335-London-Gay-Men-s-Choir-360x180.webp)](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/)
     
     ### [Southbank Centre to host vintage Christmas extravaganza by London Gay Men’s Chorus](https://southwarknews.co.uk/area/south-bank/southbank-centre-to-host-vintage-christmas-extravaganza-by-london-gay-mens-chorus/) 
@@ -136,10 +140,6 @@ View All Result
     [![The Gaza Sunbirds have delivered over $100,000 in aid to Gazan families. Credit: Gaza Sunbirds](https://southwarknews.co.uk/wp-content/uploads/2024/11/GazaSunbirds_creditGazaSunbirds3-360x180.jpg)](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
     
     ### [Peckham to host fundraiser for Palestinian para-cycling team delivering aid to wartorn strip](https://southwarknews.co.uk/area/peckham/peckham-to-host-fundraiser-for-palestinian-para-cycling-team-delivering-aid-to-wartorn-strip/)
-    
-    [![Photos of some of last year's windows (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-22-11-2024-at-15.33-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
-    
-    ### [The magical tradition this street in Dulwich does every Christmas](https://southwarknews.co.uk/area/dulwich/the-magical-tradition-this-street-in-dulwich-does-every-christmas/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -213,11 +213,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [21st November 2024](https://southwarknews.co.uk/area/camberwell/hundreds-of-co-living-flats-to-be-built-near-south-london-station-despite-zero-affordable-housing/)
 
-[![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+[![L: Residents have their say; R: CGI of Berkeley Homes' proposed Aylesham scheme](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-25-11-2024-at-07.41-120x86.jpg)](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
-### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+### [‘Most people in Southwark can’t afford these homes’: Protestors unite against Berkeley Homes’ ‘unfit’ plans for Peckham](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
 
-[18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+[25th November 2024](https://southwarknews.co.uk/area/peckham/most-people-in-southwark-cant-afford-these-homes-protestors-unite-against-berkeley-homes-unfit-plans-for-peckham/)
+
+[![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
+
+### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
+
+[24th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
 [![Jake Cooper has every league game he's been healthy for this season.](https://southwarknews.co.uk/wp-content/uploads/2024/11/J-Cooper-55545-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-confirms-jake-cooper-is-out-for-ten-weeks/)
 
@@ -230,12 +236,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Boy, 14, stabbed in South London](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
 
 [23rd November 2024](https://southwarknews.co.uk/news/crime/boy-14-stabbed-in-south-london/)
-
-[![The chairs in Elephant and Castle (credit: Russell Cronin, social media)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-20-11-2024-at-15.14-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
-
-### [‘Fancy a chat?’: Council blunder in Elephant and Castle as misplaced chairs spark confusion](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
-
-[24th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/fancy-a-chat-council-blunder-in-elephant-and-castle-as-misplaced-chairs-spark-confusion/)
 
 ### Featured Articles
 
