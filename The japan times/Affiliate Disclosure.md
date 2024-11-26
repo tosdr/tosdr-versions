@@ -135,9 +135,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/436245.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "According to Similarweb, average monthly user numbers for Bluesky on Android in Japan quintupled in the 12 months to October.")](https://www.japantimes.co.jp/business/2024/11/25/companies/bluesky-social-japan/ "Bluesky is booming in Japan — mainly for reasons other than U.S. politics")
 
-[Trump pledges 25% tariffs on Canada and Mexico, deeper levies on China](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, deeper levies on China")
+[Trump pledges 25% tariffs on Canada and Mexico, and more levies on China](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
 
-  [![U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436269.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.")](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, deeper levies on China")
+  [![U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436269.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.")](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
 
 [AI boom makes 139-year-old cable maker Japan’s hottest stock](https://www.japantimes.co.jp/business/2024/11/25/companies/ai-fujikura-stocks/ "AI boom makes 139-year-old cable maker Japan’s hottest stock")
 
@@ -164,11 +164,11 @@ By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beatti
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Trump pledges 25% tariffs on Canada and Mexico, deeper levies on China](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, deeper levies on China")
+[Trump pledges 25% tariffs on Canada and Mexico, and more levies on China](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
 
 By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson") and [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436269.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.")](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, deeper levies on China")
+  [![U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/26/436269.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump attends a viewing of the launch of the sixth test flight of the SpaceX Starship rocket, in Brownsville, Texas, on Nov. 19. Trump on Monday threatened to slap China, Mexico and Canada with hefty tariffs upon his return to the White House.")](https://www.japantimes.co.jp/business/2024/11/26/economy/trump-tariffs-mexico-canada/ "Trump pledges 25% tariffs on Canada and Mexico, and more levies on China")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -257,23 +257,23 @@ Latest News
 
 [Many municipalities in Japan lack understanding of megaquake advisory system](https://www.japantimes.co.jp/news/2024/11/26/japan/society/municipalities-unaware-megaquake-advisory-system/ "Many municipalities in Japan lack understanding of megaquake advisory system")
 
-3 hours ago
+9 hours ago
 
 [Trump prepares wide-ranging energy plan centered on gas and oil, sources say](https://www.japantimes.co.jp/news/2024/11/26/world/politics/trump-energy-agenda/ "Trump prepares wide-ranging energy plan centered on gas and oil, sources say")
 
-3 hours ago
+9 hours ago
 
 [Philippines-China tensions trigger money-making disinformation](https://www.japantimes.co.jp/news/2024/11/26/asia-pacific/politics/china-philippines-disinformation-networks-profit/ "Philippines-China tensions trigger money-making disinformation")
 
-4 hours ago
+10 hours ago
 
 [False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says](https://www.japantimes.co.jp/news/2024/11/26/japan/kyodo-news-yasukuni-report-mistake/ "False report on Yasukuni Shrine visit 'extremely regrettable,' top spokesperson says")
 
-5 hours ago
+10 hours ago
 
 [Ishiba urges Biden to approve Nippon-U.S. Steel deal, sources say](https://www.japantimes.co.jp/news/2024/11/26/japan/politics/ishiba-biden-nippon-steel-letter/ "Ishiba urges Biden to approve Nippon-U.S. Steel deal, sources say")
 
-5 hours ago
+11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
