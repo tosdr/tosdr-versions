@@ -72,7 +72,7 @@ Menu Close
     * [Specialized Master Programs](https://www.unibocconi.eu/en/applying-bocconi/specialized-master-programs)
     * [PhD Programs](https://www.unibocconi.eu/en/applying-bocconi/phd-programs)
     * [Summer School](https://www.unibocconi.eu/en/applying-bocconi/summer-school)
-    * [Post-Experience Education](https://www.unibocconi.eu/en/entrare-bocconi/post-experience-education)
+    * [Post-Experience Education](https://www.unibocconi.eu/en/applying-bocconi/post-experience-education)
     
 * News and Events Hub
     
@@ -294,6 +294,7 @@ Breadcrumb
 * [Home](https://www.unibocconi.eu/en)
 * [About Us](https://www.unibocconi.eu/en/about-us)
 * [Organization](https://www.unibocconi.eu/en/about-us/organization)
+* [Statute, Regulations and Rules](https://www.unibocconi.eu/en/about-us/organization/statute-regulations-and-documents)
 
 [Contacts](https://www.unibocconi.eu/en/contact-us)
 
