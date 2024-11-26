@@ -1,5 +1,29 @@
 TunnelBear.com relies on JavaScript to function properly!
 
+**Save on TunnelBear during our biggest sale this Black Friday!**
+
+**Save on TunnelBear during our biggest sale this Black Friday!**
+
+Offer ends in
+
+05
+
+days
+
+09
+
+hours
+
+029
+
+mins
+
+012
+
+secs
+
+[75% off](https://www.tunnelbear.com/account/checkout?couponCode=BLACKFRIDAYSALE2024&utm_source=salebanner&utm_medium=direct&utm_campaign=BLACKFRIDAY_2024)
+
  [![TunnelBear](/static/img/logo-grey.edca0e7.svg) ![TunnelBear](/static/img/t-grey.abb9775.svg)](https://www.tunnelbear.com/)
 
 [Plans](https://www.tunnelbear.com/pricing)
@@ -33,9 +57,11 @@ A more secure way to browse the web
 
 TunnelBear encrypts your internet connection to keep your online activity private on any network.
 
-[Get TunnelBear now](https://www.tunnelbear.com/pricing)
+[Black Friday Sale! Get 75% off](https://www.tunnelbear.com/account/checkout?couponCode=BLACKFRIDAYSALE2024&ref_id=website_blackfriday_sale&utm_source=website&utm_medium=direct&utm_campaign=blackfriday_2024)
 
- ![](/static/img/hero-bear.5842f7b.svg)
+Your first year of TunnelBear for $119USD **$29.99USD**
+
+![blackfriday-sale](/static/img/blackfriday-75.b37d978.png)
 
 ![Forbes](/static/img/forbes.0b2a405.svg) ![the Verge](/static/img/verge.ed6dcfa.svg) ![LifeHacker](/static/img/lifehacker.122241f.png) ![TNW](/static/img/tnw.def4936.svg) ![VB](/static/img/vb.fb28755.svg) ![TechRadar](/static/img/techradar.5a60700.svg)
 
