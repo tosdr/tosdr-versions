@@ -133,6 +133,16 @@ In the News
 
 [See all news](https://www.unitedwayri.org/about-us/newsroom/)
 
+![Warsaw Poland - July 24, 2023: New Twitter logo X. Elon Musk change Twitter logo. Smartphone with Twitter logo on the screen.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/AdobeStock_626866793_Editorial_Use_Only-scaled-1024x683-landscape-9b1f2c1bd9e13d6791d40749a79462d9-.jpeg "Warsaw Poland - July 24, 2023: New Twitter logo X. Elon Musk change Twitter logo. Smartphone with Twitter logo on the screen.")
+
+#### Adios, X/Twitter
+
+November 25, 2024
+
+Dear United Way of Rhode Island Community, 
+
+We wanted to share an important update about our social media strategy. After careful consideration, United Way of Rhode Island has made the decision to take an indefinite break from Twitter/X. While we recognize the role that digital platforms play in amplifying our work and connecting with our community, this decision aligns with our commitment to building a stronger and more equitable Rhode Island for all.  [(more…)](https://www.unitedwayri.org/news/adiosxtwitter/#more-23209)
+
 ![74C56VQ3HCC5PCQRTGHKXOFIGU](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/74C56VQ3HCC5PCQRTGHKXOFIGU-1024x683-landscape-8c4d01eb17ae1784bfc06e61778aca88-.jpg "74C56VQ3HCC5PCQRTGHKXOFIGU")
 
 #### No matter who wins the presidential election, we must tackle the issues in Rhode Island ourselves
@@ -156,18 +166,6 @@ September 26, 2024
 En una reciente entrevista en 12 Informa, María Elena Wah-Fitta, Manager of Brand Voice en United Way of Rhode Island, destacó los esfuerzos de la organización para promover la equidad racial y apoyar a las comunidades más vulnerables del estado.
 
 [READ ON SITE](https://www.wpri.com/12-informa/comunidad/united-way-of-rhode-island-impulsa-la-equidad-y-el-compromiso-civico/)
-
-![Headshot of Kyle Bennett.](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/team-k-bennett-landscape-ef7b64e8e71809a1ce2ac89bed977688-.png "team-k-bennett")
-
-#### Bennett Named Chief of Staff & Public Affairs Officer
-
-July 23, 2024
-
-###### GoLocalProv
-
-Kyle Bennett, who has long been at the forefront of [United Way of Rhode Island](https://www.unitedwayri.org/)'s legislative and policy work, has been promoted to the organization's Chief of Staff & Public Affairs Officer. Most recently, he served as senior director of public policy and equity, and joined United Way in 2006.
-
-[READ ON SITE](https://www.golocalprov.com/business/People-on-the-Move-Bennett-Named-Chief-of-Staff-Public-Affairs-Officer-a)
 
 Press Releases
 
