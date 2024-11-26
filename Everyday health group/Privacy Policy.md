@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/is-algae-cooking-oil-good-for-you-1440x810.jpg)
+
+Is Algae Cooking Oil Good for You?](https://www.everydayhealth.com/diet-nutrition/is-algae-cooking-oil-good-for-you/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/possible-life-threatening-clonazepam-nationwide-recall-1440x810.jpg)
 
 Common Anxiety Drug Recalled for ‘Possibly Life-Threatening’ Labeling Error](https://www.everydayhealth.com/mental-health-conditions/common-anxiety-drug-recalled-for-labeling-error/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/oral-minoxidil-hair-loss-new-consensus-1440x810.jpg)
-
-New Guidelines Recommend Oral Minoxidil for Most Adults With Hair Loss](https://www.everydayhealth.com/skin-conditions/new-guidelines-recommend-oral-minoxidil-for-most-adults-with-hair-loss/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/organic-carrots-recalled-for-e-coli-1440x810.jpg)
 
