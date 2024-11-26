@@ -4,11 +4,11 @@ Previous
 
 [Enjoy 30% off sitewide. Exclusions apply.\* Shop now.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
 
-[Limited time only! 50% off Complexion. Shop now.](https://www.bobbibrowncosmetics.com/flash-sales)
-
 [40% select beauty favorites. Shop now.](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call)
 
 [Create your own 5-piece mini set on $80+. No code needed.](https://www.bobbibrowncosmetics.com/offers-landing-page)
+
+[Limited time only! 50% off select lip. Shop now.](https://www.bobbibrowncosmetics.com/flash-sales)
 
 Enjoy Free Standard Shipping on any $65+ order.
 
@@ -294,7 +294,7 @@ Special offers
 
 [40% off Select Favorites](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "40% off Select Favorites")
 
-[50% off Select Complexion](https://www.bobbibrowncosmetics.com/flash-sales "50% off Select Complexion")
+[50% off Select Lips](https://www.bobbibrowncosmetics.com/flash-sales "50% off Select Lips")
 
 [Auto Replenishment](https://www.bobbibrowncosmetics.com/products/15597/makeup/auto-replenishment "Auto Replenishment")
 
