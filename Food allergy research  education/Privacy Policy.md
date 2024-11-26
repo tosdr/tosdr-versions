@@ -14,7 +14,6 @@
 * [Food Allergy & Anaphylaxis Emergency Care Plan](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/food-allergy-anaphylaxis-emergency-care-plan)
 * [Recipes](https://www.foodallergy.org/our-initiatives/awareness-campaigns/living-teal/feasting-fare)
 * [Free Downloadable Resources](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/free-downloadable-resources)
-* [Shop Sifter](https://www.foodallergy.org/making-healthy-eating-easy-everyone)
 * Information for you
     
 * [Newly Diagnosed](https://www.foodallergy.org/living-food-allergies/information-you/newly-diagnosed)
@@ -143,7 +142,6 @@ You can help improve the lives of 85 million Americans impacted by food allergie
     * [Food Allergy & Anaphylaxis Emergency Care Plan](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/food-allergy-anaphylaxis-emergency-care-plan)
     * [Recipes](https://www.foodallergy.org/our-initiatives/awareness-campaigns/living-teal/feasting-fare)
     * [Free Downloadable Resources](https://www.foodallergy.org/living-food-allergies/food-allergy-essentials/free-downloadable-resources)
-    * [Shop Sifter](https://www.foodallergy.org/making-healthy-eating-easy-everyone)
     
     Information for you
     
