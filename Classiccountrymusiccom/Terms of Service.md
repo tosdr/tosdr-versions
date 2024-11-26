@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [THE VOICE: Christina Eagle Advances To...](https://classiccountrymusic.com/the-voice-christina-eagle-advances-to-semi-finals-with-rowdy-cover-of-rebas-fancy/)
 * [NBC Orders Five New Episodes Of...](https://classiccountrymusic.com/nbc-orders-five-new-episodes-of-rebas-happys-place/)
 * [Jessi Colter Recalls Waylon Jennings Accepting...](https://classiccountrymusic.com/jessi-colter-shares-heartwarming-story-of-waylon-jennings-last-thanksgiving/)
-* [George Strait’s Wife Tears Up As...](https://classiccountrymusic.com/george-straits-wife-tears-up-as-he-thanks-her-in-cma-lifetime-achievement-award-speech/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
