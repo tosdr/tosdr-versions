@@ -90,6 +90,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [Like brain cells, kidney cells can ‘remember’](https://www.sciencenews.org/article/brain-kidney-cells-memory)
+            
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")5 hours ago
+            
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Dengue is classified as an urban disease. Mosquitoes don’t care](https://www.sciencenews.org/article/dengue-mosquitoes-urban-rural-disease)
@@ -101,12 +107,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Refurbished heart pacemakers work like new](https://www.sciencenews.org/article/refurbished-heart-pacemakers-work-new)
             
             By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")November 22, 2024
-            
-        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
-            
-            ### [Ancient Central Americans built a massive fish-trapping system](https://www.sciencenews.org/article/ancient-fish-trapping-system-maya)
-            
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")November 22, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -120,23 +120,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [Like brain cells, kidney cells can ‘remember’](https://www.sciencenews.org/article/brain-kidney-cells-memory)
+            
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")5 hours ago
+            
         * [Paleontology](https://www.sciencenews.org/topic/paleontology)
             
             ### [China’s famously rich dinosaur fossil beds get a new origins story](https://www.sciencenews.org/article/china-fossil-beds-new-origins-story)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")2 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")8 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Dengue is classified as an urban disease. Mosquitoes don’t care](https://www.sciencenews.org/article/dengue-mosquitoes-urban-rural-disease)
             
             By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")November 25, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [For adult chimps, playing may be more important than previously thought](https://www.sciencenews.org/article/adult-chimps-play-importance-chimpanzee)
-            
-            By [Gennaro Tomma](https://www.sciencenews.org/author/gennaro-tomma "Posts by Gennaro Tomma")November 21, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [From electric cars to wildfires, how Trump may affect climate actions](https://www.sciencenews.org/article/trump-affect-climate-actions-research)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")23 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")November 25, 2024
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
