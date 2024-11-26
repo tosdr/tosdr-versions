@@ -153,6 +153,58 @@ Customers may direct any questions or inquire with respect to our practices or y
 When your demo class is free !!!
 --------------------------------
 
+Book Demo Form (#6)
+
+First Name
+
+Last Name
+
+Email
+
+Phone/Mobile
+
+Curriculum
+
+\- Select Your Curriculum-International BaccalaureateIGCSEAS/A LevelSAT Exam PreparationACTAP (Advanced Placement)
+
+Grade
+
+\- Select Your Grade-MYP 1MYP 2MYP 3MYP 4MYP 5DP 1DP 2
+
+Grade
+
+\- Select Your Grade-IG 6IG 7IG 8IG 9IG 10
+
+Grade
+
+\- Select Your Grade-AS LevelA Level
+
+Subject
+
+\- Select Your Subject-Language and LiteratureFrenchSpanishHindiIndividuals and SocietiesSciencesMathematics
+
+Subject
+
+\- Select Your Subject-ScienceMathematicsEnglish
+
+Subject
+
+\- Select Your Subject-English Language and LiteratureHindiFrenchSpanishGermanEconomicsGeographyGlobal PerspectivesHistoryBiologyChemistryPhysicsMathematics - Core & ExtendedMathematics
+
+Subject
+
+\- Select Your Subject-English LanguageEnglish LiteratureGeographyEconomicsHistoryFrenchSpanishHindiMathematicsPhysicsChemistryBiology
+
+Subject
+
+\- Select Your Subject-Language and Literature SLLanguage and Literature HLFrench SLFrench HLSpanish SLSpanish HLHindi SLHindi HLBusiness Management SLBusiness Management HLEconomics SLEconomics HLGeography SLGeography HLHistory SLHistory HLPhysics SLPhysics HLChemistry SLChemistry HLBiology SLBiology HLMathematics Analysis and Approaches SLMathematics Analysis and Approaches HLMathematics Applications and Interpretation SLMathematics Applications and Interpretation HL
+
+Subject
+
+\- Select Your Subject-Language and LiteratureFrenchSpanishHindiIndividuals and SocietiesPhysicsChemistryBiologyMathematics
+
+Submit
+
 [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIwIiBoZWlnaHQ9IjEwODAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImZpbGwiIHZhbHVlcz0icmdiYSgxNTMsMTUzLDE1MywwLjUpO3JnYmEoMTUzLDE1MywxNTMsMC4xKTtyZ2JhKDE1MywxNTMsMTUzLDAuNSkiIGR1cj0iMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPjwvcmVjdD48L3N2Zz4=)](https://www.literacentre.com/)
 
 We bring you a world-class international (both Indian and expat) team of highly experienced and qualified faculty.
@@ -206,24 +258,35 @@ Now](https://www.literacentre.com/enrollment-form/)
 
        
 
-New Launch
-
-More Affordable with Micro Group Classes
-----------------------------------------
-
-Get the same quality as 1-on-1 Classes in a more affordable way. knowledgeable and committed teachers offer a plethora of expertise. 
-
-* **Micro Group Classes**(3-4 Students in a Class)
-* Live Classes
-* Inernational Baccalaureate & Cambridge Certified Tutors
-
-[Enroll Free Demo Session
-
-Book Now](https://www.literacentre.com/book-demo-class/)
-
 ### Get Amazon Voucher $25
 
 Refer a friend and earn Amazon Voucher Worth $25(or equivalent to your local currency)
+
+Refer a Friend
+
+Full Name
+
+Your Phone/Mobile
+
+Referred Student First Name
+
+Referred Student Last Name
+
+Contact Number of Referred Student
+
+Curriculum of Referred student
+
+\- Select Curriculum of Referred student-IBIGCSE/GCSEAS/A Level
+
+Any additional comments or information you would like to provide?
+
+Email id of Referred Student
+
+Subject of Referred student
+
+Your Full Address to get a reward of Amazon Voucher
+
+Avail Your Offer Now!
 
 Book Your 
 
@@ -249,3 +312,67 @@ Personalized Learning
 
 Online Class
 ------------
+
+Book Demo Blog Archive Pages (#19)
+
+First Name
+
+Last Name
+
+Email
+
+Phone/Mobile
+
+Curriculum
+
+\- Select Your Curriculum/Course -International BaccalaureateIGCSEAS/A LevelSATACTAP
+
+Grade
+
+\- Select Your Grade -MYP 1MYP 2MYP 3MYP 4MYP 5DP 1DP 2
+
+Grade
+
+\- Select Your Grade -IG 6IG 7IG 8IG 9IG 10
+
+Grade
+
+\- Select Your Grade -AS LevelA Level
+
+Subject
+
+\- Select Your Subject -ScienceMathematicsEnglish
+
+Subject
+
+\- Select Your Subject -Language and LiteratureFrenchSpanishHindiIndividuals and SocietiesSciencesMathematics
+
+Subject
+
+\- Select Your Subject -English LanguageEnglish LiteratureGeographyEconomicsHistoryFrenchSpanishHindiMathematicsPhysicsChemistryBiology
+
+Subject
+
+\- Select Your Subject -English Language and LiteratureHindiFrenchSpanishGermanEconomicsGeographyGlobal PerspectivesHistoryBiologyChemistryPhysicsMathematics - Core & ExtendedMathematics
+
+Subject
+
+\- Select Your Subject -Language and Literature SLLanguage and Literature HLFrench SLFrench HLSpanish SLSpanish HLHindi SLHindi HLBusiness Management SLBusiness Management HLEconomics SLEconomics HLGeography SLGeography HLHistory SLHistory HLPhysics SLPhysics HLChemistry SLChemistry HLBiology SLBiology HLMathematics Analysis and Approaches SLMathematics Analysis and Approaches HLMathematics Applications and Interpretation SLMathematics Applications and Interpretation HL
+
+Subject
+
+\- Select Your Subject -Language and LiteratureFrenchSpanishHindiIndividuals and SocietiesPhysicsChemistryBiologyMathematics
+
+Subject
+
+\- Select Your Subject -QuantVerbalBoth(Quant+Verbal)
+
+Subject
+
+\- Select Your Subject -EnglishMathsScienceReading and Wrting Essay
+
+Subject
+
+\- Select Your Subject -HumanitiesScienceOther
+
+Submit
