@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![RTRibas](https://www.clubedohardware.com.br/uploads/members/profile/photo-341120.gif)](https://www.clubedohardware.com.br/profile/341120-rtribas/ "Ir ao perfil de RTRibas")
-        
-        6
-        
-        [placa-mãe para Ryzen 5 5600 - melhor custo-benefício?](https://www.clubedohardware.com.br/forums/topic/1703485-placa-m%C3%A3e-para-ryzen-5-5600-melhor-custo-benef%C3%ADcio/?do=getNewComment "placa-mãe para Ryzen 5 5600 - melhor custo-benefício?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [RTRibas](https://www.clubedohardware.com.br/profile/341120-rtribas/ "Ir ao perfil de RTRibas")  
-        45 minutos atrás
-        
-    * [![Rafaelespindula](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c48f%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1141696-rafaelespindula/ "Ir ao perfil de Rafaelespindula")
-        
-        2
-        
-        [Ryzen 5 8600G chegando a 76ºC estando em idle.](https://www.clubedohardware.com.br/forums/topic/1703481-ryzen-5-8600g-chegando-a-76%C2%BAc-estando-em-idle/?do=getNewComment "Ryzen 5 8600G chegando a 76ºC estando em idle.")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Rafaelespindula](https://www.clubedohardware.com.br/profile/1141696-rafaelespindula/ "Ir ao perfil de Rafaelespindula")  
-        1 hora atrás
-        
-    * [![Cicero Fernandes](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-809427.thumb.jpeg.2745ade51beda06105d6a2e9a69c58db.jpeg)](https://www.clubedohardware.com.br/profile/809427-cicero-fernandes/ "Ir ao perfil de Cicero Fernandes")
-        
-        8
-        
-        [Quanto vale meu PC: i5 9400F, 16Gb RAM, RX 570 e Aorus Elite gaming B365M?](https://www.clubedohardware.com.br/forums/topic/1703480-quanto-vale-meu-pc-i5-9400f-16gb-ram-rx-570-e-aorus-elite-gaming-b365m/?do=getNewComment "Quanto vale meu PC: i5 9400F, 16Gb RAM, RX 570 e Aorus Elite gaming B365M?")
-        
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [Cicero Fernandes](https://www.clubedohardware.com.br/profile/809427-cicero-fernandes/ "Ir ao perfil de Cicero Fernandes")  
-        2 horas atrás
-        
-    * [![Aks Jacoves](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-847999.thumb.jpeg.4255b47dbe06ec8a80888f2df3046643.jpeg)](https://www.clubedohardware.com.br/profile/847999-aks-jacoves/ "Ir ao perfil de Aks Jacoves")
-        
-        6
-        
-        [Quanto um PC pode consumir de energia estando desligado?](https://www.clubedohardware.com.br/forums/topic/1703479-quanto-um-pc-pode-consumir-de-energia-estando-desligado/?do=getNewComment "Quanto um PC pode consumir de energia estando desligado?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Aks Jacoves](https://www.clubedohardware.com.br/profile/847999-aks-jacoves/ "Ir ao perfil de Aks Jacoves")  
-        2 horas atrás
-        
-    * [![Hen0290](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4629e%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256849-hen0290/ "Ir ao perfil de Hen0290")
-        
-        1
-        
-        [Gostaria de saber da pra jogar com 4060 ti com o processador r5 3400g](https://www.clubedohardware.com.br/forums/topic/1703478-gostaria-de-saber-da-pra-jogar-com-4060-ti-com-o-processador-r5-3400g/?do=getNewComment "Gostaria de saber da pra jogar com 4060 ti com o processador r5 3400g")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Hen0290](https://www.clubedohardware.com.br/profile/1256849-hen0290/ "Ir ao perfil de Hen0290")  
-        2 horas atrás
-        
-    * [![Alan Cerqueira de Santana](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23939393%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256845-alan-cerqueira-de-santana/ "Ir ao perfil de Alan Cerqueira de Santana")
+    * [![Vitor Serafim](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/Buraconegro.thumb.webp.f7186a72ae073504746aaa762aceb54c.webp)](https://www.clubedohardware.com.br/profile/1249495-vitor-serafim/ "Ir ao perfil de Vitor Serafim")
         
         0
         
-        [Recomendação de Water Cooler para utilizar com Ryzen 7 7800X3D](https://www.clubedohardware.com.br/forums/topic/1703477-recomenda%C3%A7%C3%A3o-de-water-cooler-para-utilizar-com-ryzen-7-7800x3d/?do=getNewComment "Recomendação de Water Cooler para utilizar com Ryzen 7 7800X3D")
+        [de quanto em quanto tempo devo limpar meu pc?](https://www.clubedohardware.com.br/forums/topic/1703519-de-quanto-em-quanto-tempo-devo-limpar-meu-pc/?do=getNewComment "de quanto em quanto tempo devo limpar meu pc?")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Alan Cerqueira de Santana](https://www.clubedohardware.com.br/profile/1256845-alan-cerqueira-de-santana/ "Ir ao perfil de Alan Cerqueira de Santana")  
-        5 horas atrás
+        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
+        Por [Vitor Serafim](https://www.clubedohardware.com.br/profile/1249495-vitor-serafim/ "Ir ao perfil de Vitor Serafim")  
+        31 minutos atrás
         
-    * [![Harry Du Bois](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256844.thumb.png.1b0a4e15095bdeab1f3255199d3074a9.png)](https://www.clubedohardware.com.br/profile/1256844-harry-du-bois/ "Ir ao perfil de Harry Du Bois")
+    * [![Magnalium](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253299.thumb.png.75154555bf501885d2fdde7699e18b7c.png)](https://www.clubedohardware.com.br/profile/1253299-magnalium/ "Ir ao perfil de Magnalium")
         
-        3
+        0
         
-        [Dicas e orientações para upgrade AM5](https://www.clubedohardware.com.br/forums/topic/1703476-dicas-e-orienta%C3%A7%C3%B5es-para-upgrade-am5/?do=getNewComment "Dicas e orientações para upgrade AM5")
+        [RX 580 8gb ou RX 5500XT 4gb ?](https://www.clubedohardware.com.br/forums/topic/1703518-rx-580-8gb-ou-rx-5500xt-4gb/?do=getNewComment "RX 580 8gb ou RX 5500XT 4gb ?")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Harry Du Bois](https://www.clubedohardware.com.br/profile/1256844-harry-du-bois/ "Ir ao perfil de Harry Du Bois")  
-        6 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Magnalium](https://www.clubedohardware.com.br/profile/1253299-magnalium/ "Ir ao perfil de Magnalium")  
+        42 minutos atrás
         
-    * [![RaelCosta](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2382c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251690-raelcosta/ "Ir ao perfil de RaelCosta")
-        
-        2
-        
-        [Qual fonte preciso para b550m?](https://www.clubedohardware.com.br/forums/topic/1703475-qual-fonte-preciso-para-b550m/?do=getNewComment "Qual fonte preciso para b550m?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [RaelCosta](https://www.clubedohardware.com.br/profile/1251690-raelcosta/ "Ir ao perfil de RaelCosta")  
-        6 horas atrás
-        
-    * [![Luiz Gustavo MR](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256842.thumb.png.36da0c705e5e838f26b2f93bcc11c46c.png)](https://www.clubedohardware.com.br/profile/1256842-luiz-gustavo-mr/ "Ir ao perfil de Luiz Gustavo MR")
+    * [![Feeh_ziinho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256873.thumb.jpeg.6b6382ec10225f0a904b5a952ecd9245.jpeg)](https://www.clubedohardware.com.br/profile/1256873-feeh_ziinho/ "Ir ao perfil de Feeh_ziinho")
         
         1
         
-        [Biostar H610MHP suporta RTX 4060 TI?](https://www.clubedohardware.com.br/forums/topic/1703474-biostar-h610mhp-suporta-rtx-4060-ti/?do=getNewComment "Biostar H610MHP suporta RTX 4060 TI?")
+        [Pc iniciando na BIOS](https://www.clubedohardware.com.br/forums/topic/1703517-pc-iniciando-na-bios/?do=getNewComment "Pc iniciando na BIOS")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Luiz Gustavo MR](https://www.clubedohardware.com.br/profile/1256842-luiz-gustavo-mr/ "Ir ao perfil de Luiz Gustavo MR")  
-        8 horas atrás
+        Por [Feeh\_ziinho](https://www.clubedohardware.com.br/profile/1256873-feeh_ziinho/ "Ir ao perfil de Feeh_ziinho")  
+        43 minutos atrás
         
-    * [![Gabriel Ray](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256841.thumb.jpeg.fa611e12fa8928de7893e840d421c09b.jpeg)](https://www.clubedohardware.com.br/profile/1256841-gabriel-ray/ "Ir ao perfil de Gabriel Ray")
+    * [![LudsonOF](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256872.thumb.jpeg.8d26606cbb127eea68fd5d5983188616.jpeg)](https://www.clubedohardware.com.br/profile/1256872-ludsonof/ "Ir ao perfil de LudsonOF")
+        
+        0
+        
+        [Placa-mãe P8H61MLX3 R2.0 - Periféricos USB continuam ligados após desligar PC.](https://www.clubedohardware.com.br/forums/topic/1703516-placa-m%C3%A3e-p8h61mlx3-r20-perif%C3%A9ricos-usb-continuam-ligados-ap%C3%B3s-desligar-pc/?do=getNewComment "Placa-mãe P8H61MLX3 R2.0 - Periféricos USB continuam ligados após desligar PC.")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [LudsonOF](https://www.clubedohardware.com.br/profile/1256872-ludsonof/ "Ir ao perfil de LudsonOF")  
+        48 minutos atrás
+        
+    * [![Cícero B](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256875.thumb.png.75bcc2806cd136c8557c9ef268bb642c.png)](https://www.clubedohardware.com.br/profile/1256875-c%C3%ADcero-b/ "Ir ao perfil de Cícero B")
         
         1
         
-        [Eletricidade: Chiado no Headset](https://www.clubedohardware.com.br/forums/topic/1703473-eletricidade-chiado-no-headset/?do=getNewComment "Eletricidade: Chiado no Headset")
+        [Estou procurando uma placa de vídeo com um bom custo beneficio](https://www.clubedohardware.com.br/forums/topic/1703515-estou-procurando-uma-placa-de-v%C3%ADdeo-com-um-bom-custo-beneficio/?do=getNewComment "Estou procurando uma placa de vídeo com um bom custo beneficio")
         
-        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [Gabriel Ray](https://www.clubedohardware.com.br/profile/1256841-gabriel-ray/ "Ir ao perfil de Gabriel Ray")  
-        8 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Cícero B](https://www.clubedohardware.com.br/profile/1256875-c%C3%ADcero-b/ "Ir ao perfil de Cícero B")  
+        50 minutos atrás
+        
+    * [![Caio Nunes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1247118.thumb.jpeg.3f74d3c1f665c0801a9954d3633d4125.jpeg)](https://www.clubedohardware.com.br/profile/1247118-caio-nunes/ "Ir ao perfil de Caio Nunes")
+        
+        5
+        
+        [Não consigo encaixar RTX 4060 GALAX no Montech Air 903 Base](https://www.clubedohardware.com.br/forums/topic/1703514-n%C3%A3o-consigo-encaixar-rtx-4060-galax-no-montech-air-903-base/?do=getNewComment "Não consigo encaixar RTX 4060 GALAX no Montech Air 903 Base")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Caio Nunes](https://www.clubedohardware.com.br/profile/1247118-caio-nunes/ "Ir ao perfil de Caio Nunes")  
+        54 minutos atrás
+        
+    * [![lucasrafaeldaslva](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256874.thumb.png.dab0bd341c3115cc840f4158392b4e81.png)](https://www.clubedohardware.com.br/profile/1256874-lucasrafaeldaslva/ "Ir ao perfil de lucasrafaeldaslva")
+        
+        0
+        
+        [BIOS com tela preta](https://www.clubedohardware.com.br/forums/topic/1703513-bios-com-tela-preta/?do=getNewComment "BIOS com tela preta")
+        
+        [Linux](https://www.clubedohardware.com.br/forums/forum/102-linux/ "Linux")  
+        Por [lucasrafaeldaslva](https://www.clubedohardware.com.br/profile/1256874-lucasrafaeldaslva/ "Ir ao perfil de lucasrafaeldaslva")  
+        55 minutos atrás
+        
+    * [![eopdrx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/transferir.thumb.jpeg.6c814364e6e7d7b3e8872c86ddcbaaa4.jpeg)](https://www.clubedohardware.com.br/profile/1209004-eopdrx/ "Ir ao perfil de eopdrx")
+        
+        1
+        
+        [Recomendação de placa-mãe e memória RAM para AMD Ryzen 5 5600](https://www.clubedohardware.com.br/forums/topic/1703512-recomenda%C3%A7%C3%A3o-de-placa-m%C3%A3e-e-mem%C3%B3ria-ram-para-amd-ryzen-5-5600/?do=getNewComment "Recomendação de placa-mãe e memória RAM para AMD Ryzen 5 5600")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [eopdrx](https://www.clubedohardware.com.br/profile/1209004-eopdrx/ "Ir ao perfil de eopdrx")  
+        1 hora atrás
+        
+    * [![lucas 00](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256869.thumb.png.be6d940bdb0788a62ff6434eec463299.png)](https://www.clubedohardware.com.br/profile/1256869-lucas-00/ "Ir ao perfil de lucas 00")
+        
+        0
+        
+        [AUXTIN0 e TMPIN4 e normal essa temperatura?](https://www.clubedohardware.com.br/forums/topic/1703511-auxtin0-e-tmpin4-e-normal-essa-temperatura/?do=getNewComment "AUXTIN0 e TMPIN4 e normal essa temperatura?")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [lucas 00](https://www.clubedohardware.com.br/profile/1256869-lucas-00/ "Ir ao perfil de lucas 00")  
+        1 hora atrás
+        
+    * [![Charlles Nunes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256804.thumb.jpeg.9111f0f20fbf18b34ae11eaa519fa7bc.jpeg)](https://www.clubedohardware.com.br/profile/1256804-charlles-nunes/ "Ir ao perfil de Charlles Nunes")
+        
+        1
+        
+        [Não consigo instalar linux mint](https://www.clubedohardware.com.br/forums/topic/1703510-n%C3%A3o-consigo-instalar-linux-mint/?do=getNewComment "Não consigo instalar linux mint")
+        
+        [Linux](https://www.clubedohardware.com.br/forums/forum/102-linux/ "Linux")  
+        Por [Charlles Nunes](https://www.clubedohardware.com.br/profile/1256804-charlles-nunes/ "Ir ao perfil de Charlles Nunes")  
+        2 horas atrás
         
     
 
