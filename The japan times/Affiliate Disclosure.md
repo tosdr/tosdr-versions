@@ -31,7 +31,7 @@ Subscribe
  ![Search](/theme_japantimes/images/search_icon.svg)
 
 * [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
-* [Japan tax cuts](https://www.japantimes.co.jp/trending/ "Japan tax cuts")
+* [Japan tax reform](https://www.japantimes.co.jp/trending/ "Japan tax reform")
 * [Russia-Ukraine war](https://www.japantimes.co.jp/tag/russia-ukraine-war/ "Russia-Ukraine war")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
@@ -249,21 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan and Italy to share fuel and ammo under new logistics deal](https://www.japantimes.co.jp/news/2024/11/25/japan/japan-italy-acsa/ "Japan and Italy to share fuel and ammo under new logistics deal")
+[Zoom fails to impress investors with sales forecast for expanded lineup](https://www.japantimes.co.jp/business/2024/11/26/tech/zoom-sales-forecast-investors/ "Zoom fails to impress investors with sales forecast for expanded lineup")
 
-8 hours ago
+4 mins ago
 
-[Mercari to enhance item verification process to check frauds](https://www.japantimes.co.jp/business/2024/11/25/companies/mercari-frauds-verification-process/ "Mercari to enhance item verification process to check frauds")
+[Satellite images may show North Korea expanding missile plant, researchers say](https://www.japantimes.co.jp/news/2024/11/26/asia-pacific/satellite-north-korea-missile-plant/ "Satellite images may show North Korea expanding missile plant, researchers say")
 
-10 hours ago
+45 mins ago
 
-[Yamanashi Prefecture plans to raise entry fee for Mount Fuji climbers](https://www.japantimes.co.jp/news/2024/11/25/japan/mount-fuji-yamanashi-fee-increase/ "Yamanashi Prefecture plans to raise entry fee for Mount Fuji climbers")
+[Japanese panel suggests 60% emissions reduction target for 2035](https://www.japantimes.co.jp/news/2024/11/26/japan/japan-emission-reduction-target/ "Japanese panel suggests 60% emissions reduction target for 2035")
 
-10 hours ago
+46 mins ago
 
-[Osaka court upholds 18-year sentence for murder of ALS patient](https://www.japantimes.co.jp/news/2024/11/25/japan/crime-legal/als-patient-murder-trial/ "Osaka court upholds 18-year sentence for murder of ALS patient")
+[Japan's space agency halts Epsilon S rocket engine test after fire](https://www.japantimes.co.jp/news/2024/11/26/japan/science-health/japan-rocket-engine-test-fire/ "Japan's space agency halts Epsilon S rocket engine test after fire")
 
-[93-year-old inmate imprisoned over fatal Tokyo car crash dies](https://www.japantimes.co.jp/news/2024/11/25/japan/crime-legal/ikebukuro-car-crash-inmate-dies/ "93-year-old inmate imprisoned over fatal Tokyo car crash dies")
+1 hour ago
+
+[Hong Kong a ‘global leader’ in financial crime, U.S. lawmakers say](https://www.japantimes.co.jp/news/2024/11/26/asia-pacific/crime-legal/hong-kong-financial-crime-us/ "Hong Kong a ‘global leader’ in financial crime, U.S. lawmakers say")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
