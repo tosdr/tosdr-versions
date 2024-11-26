@@ -168,11 +168,11 @@ Experience unparalleled board control and responsiveness while you skate iconic 
 
 Recent Reviews:
 
-Mostly Positive (46) \- 78% of the 46 user reviews in the last 30 days are positive.
+Mostly Positive (43) \- 79% of the 43 user reviews in the last 30 days are positive.
 
 All Reviews:
 
-Very Positive (18,153) \- 86% of the 18,153 user reviews for this game are positive.    
+Very Positive (18,152) \- 86% of the 18,152 user reviews for this game are positive.    
 
 Release Date:
 
@@ -198,11 +198,11 @@ Reviews
 
 All Reviews:
 
-Very Positive (86% of 18,153) All Time
+Very Positive (86% of 18,152) All Time
 
 Recent Reviews:
 
-Mostly Positive (78% of 46) Recent
+Mostly Positive (79% of 43) Recent
 
 ![](https://store.fastly.steamstatic.com/public/images/game/game_highlight_image_spacer.gif)
 
@@ -447,7 +447,7 @@ System Requirements
 What Curators Say
 -----------------
 
-98 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
+101 Curators have reviewed this product. Click [here](https://store.steampowered.com/curators/curatorsreviewing/?appid=962730&snr=1_5_9__top-curators) to see them.
 
 Customer reviews for Skater XL - The Ultimate Skateboarding Game
 ----------------------------------------------------------------
@@ -456,27 +456,27 @@ Customer reviews for Skater XL - The Ultimate Skateboarding Game
 
 Overall Reviews:
 
-Very Positive (18,153 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Very Positive (18,152 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Recent Reviews:
 
-Mostly Positive (46 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
+Mostly Positive (43 reviews) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark.png)
 
 Review Type
 
- All (19,298)  
- Positive (16,606)  
+ All (19,297)  
+ Positive (16,605)  
  Negative (2,692)
 
 Purchase Type
 
- All (19,298)  
- Steam Purchasers (18,153) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
+ All (19,297)  
+ Steam Purchasers (18,152) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
  Other (1,145) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png) 
 
 Language
 
- All Languages (19,298)  
+ All Languages (19,297)  
  Your Languages (13,333) ![](https://store.fastly.steamstatic.com/public/shared/images/ico/icon_questionmark_dark.png)   
 
 [Customize](https://store.steampowered.com//account/languagepreferences)
