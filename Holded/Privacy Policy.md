@@ -1,22 +1,22 @@
 [BLACK FRIDAY: 75% discount for three months  →](https://www.holded.com/pricing)
 
-07
+06
 
 DAYS
 
-13
+07
 
 HRS
 
 :
 
-54
+17
 
 MIN
 
 :
 
-19
+00
 
 SEC
 
