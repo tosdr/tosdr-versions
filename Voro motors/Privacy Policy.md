@@ -1,6 +1,6 @@
 Γ
 
-                                                                       Privacy Policy - VORO MOTORS                    
+                                                                 Privacy Policy - VORO MOTORS                    
 
        
 
@@ -27,9 +27,6 @@ Menu
         * [Mantis King GT](https://www.voromotors.com/products/kaabo-mantis-king-gt-electric-scooter)
         * [Wolf Warrior X GT](https://www.voromotors.com/products/wolf-warrior-x-gt-pro-electric-scooter)
         * [Mantis Pro SE](https://www.voromotors.com/products/kaabo-mantis-pro-se)
-    * [Dualtron Electric Scooters](https://www.voromotors.com/collections/dualtron-electric-scooters)
-        * [Victor Luxury](https://www.voromotors.com/products/dualtron-victor-luxury-electric-scooter)
-        * [Eagle Pro](https://www.voromotors.com/products/dualtron-eagle-pro)
     * [Categories](https://www.voromotors.com/collections/electric-scooters)
         * [Long Range E-Scooters](https://www.voromotors.com/collections/long-range-electric-scooter)
         * [Light Weight E-Scooters](https://www.voromotors.com/collections/lightweight-electric-scooter)
@@ -184,9 +181,6 @@ Continue Shopping
         * [Mantis King GT](https://www.voromotors.com/products/kaabo-mantis-king-gt-electric-scooter)
         * [Wolf Warrior X GT](https://www.voromotors.com/products/wolf-warrior-x-gt-pro-electric-scooter)
         * [Mantis Pro SE](https://www.voromotors.com/products/kaabo-mantis-pro-se)
-    * [Dualtron Electric Scooters](https://www.voromotors.com/collections/dualtron-electric-scooters)
-        * [Victor Luxury](https://www.voromotors.com/products/dualtron-victor-luxury-electric-scooter)
-        * [Eagle Pro](https://www.voromotors.com/products/dualtron-eagle-pro)
     * [Categories](https://www.voromotors.com/collections/electric-scooters)
         * [Long Range E-Scooters](https://www.voromotors.com/collections/long-range-electric-scooter)
         * [Light Weight E-Scooters](https://www.voromotors.com/collections/lightweight-electric-scooter)
@@ -481,11 +475,9 @@ We partner with companies like Extend to ensure your order arrives to your doors
 
 * [EMOVE Electric Scooters](https://www.voromotors.com/collections/emove-electric-scooters)
     
-* [Kaabo Electric Scooters](https://www.voromotors.com/collections/kaabo-electric-scooters)
-    
 * [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
     
-* [Dualtron Electric Scooters](https://www.voromotors.com/collections/dualtron-electric-scooters)
+* [Kaabo Electric Scooters](https://www.voromotors.com/collections/kaabo-electric-scooters)
     
 
 ##### Customer Care
