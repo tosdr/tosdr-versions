@@ -1,3 +1,5 @@
+[Breaking: Georgia Supreme Court to hear appeal of ‘shaken baby’ murder case](https://www.ajc.com/news/atlanta-news/top-georgia-court-to-consider-appeal-of-man-convicted-of-killing-infant-son/XIU74HZBQBG75HFK3LLAISRZYI/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
