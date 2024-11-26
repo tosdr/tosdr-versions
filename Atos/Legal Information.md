@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Atos secures €165 million contract extension with EUROCONTROL](https://atos.net/en/2024/press-release_2024_11_26/atos-secures-e165-million-contract-extension-with-eurocontrol)
         * [Atos receives non-binding offer from the French State to acquire its Advanced Computing activities for an enterprise value of €500 million and up to €625 million including earn-outs](https://atos.net/en/2024/press-release_2024_11_25/atos-receives-non-binding-offer-from-the-french-state-to-acquire-its-advanced-computing-activities-for-an-enterprise-value-of-e500-million-and-up-to-e625-million-including-earn-outs)
         * [Eviden to Deliver Finland’s Next National AI Supercomputer, Tripling its Computing Power](https://atos.net/en/2024/press-release_2024_11_20/eviden-to-deliver-finlands-next-national-ai-supercomputer-tripling-its-computing-power)
-        * [Salon des Maires et des collectivités 2024: Software République launches the commercialization of its “U1st Vision” concept “A first in citizen-centric mobile services with a focus on health”, with first deliveries scheduled for late 2025](https://atos.net/en/2024/press-release_2024_11_19/salon-des-maires-et-des-collectivites-2024-software-republique-launches-the-commercialization-of-its-u1st-vision-concept-a-first-in-citizen-centric-mobile-services-with-a-f)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 25, 2024
+        Nov 26, 2024
         
-        ### Atos receives non-binding offer from the French State to acquire its Advanced Computing activities for an enterprise value of €500 million and up to €625 million including earn-outs
+        ### Atos secures €165 million contract extension with EUROCONTROL
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
@@ -166,18 +166,18 @@ Atos homepage](https://atos.net/en/)
         
         ### Latest articles
         
+        * [GraphRAG: Transforming business intelligence](https://atos.net/en/blog/graphrag-transforming-business-intelligence-retrieval-augmented-generation)
         * [Reshaping employee experience with a data-driven digital workplace](https://atos.net/en/blog/reshaping-employee-experience-data-driven-digital-workplace)
         * [Modernize without compromise: Why hybrid cloud still matters](https://atos.net/en/blog/modernize-without-compromise-why-hybrid-cloud-still-matters)
         * [Ensure your virtual infrastructure is sustainable infrastructure](https://atos.net/en/blog/ensure-your-virtual-infrastructure-is-sustainable-infrastructure)
-        * [AI in customer service operations: Automation and human empathy](https://atos.net/en/blog/ai-in-customer-service-operations-automation-and-human-empathy)
         
         [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 20, 2024
+        Nov 26, 2024
         
-        ### Reshaping employee experience with a data-driven digital workplace
+        ### GraphRAG: Transforming business intelligence
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
