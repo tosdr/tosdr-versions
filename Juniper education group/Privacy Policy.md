@@ -23,18 +23,18 @@
 
    
 
-[Login](https://customers.junipereducation.org/login/?redirect_to=%2Fmy-account%2F) [Book a demo](https://junipereducation.org/contact-us?hsLang=en)
+[Login](https://customers.junipereducation.org/login/?redirect_to=%2Fmy-account%2F) [Book a demo](https://junipereducation.org/book-a-demo?hsLang=en)
 
 *  [![menu01](https://junipereducation.org/hubfs/Juniper%20-%20Theme/menu01.svg)Classroom solutions Assessment, Curriculum, Parent Engagement, Benchmarking, and more.](https://junipereducation.org/classroom-primary/?hsLang=en)
     * [Primary](https://junipereducation.org/classroom-primary/?hsLang=en)
-        * [Progress and outcomes](https://junipereducation.org/classroom-primary/sonar-tracker?hsLang=en)
-        * [MAT insights and data](https://junipereducation.org/classroom-primary/mat-insights-and-data?hsLang=en)
+        * [Sonar Tracker](https://junipereducation.org/classroom-primary/sonar-tracker?hsLang=en)
+        * [Sonar Multi-School](https://junipereducation.org/classroom-primary/mat-insights-and-data?hsLang=en)
         * [Rewards and recognition](https://junipereducation.org/classroom-primary/rewards-and-recognition/?hsLang=en)
         * [Essential training](https://junipereducation.org/classroom-primary/supporting-teachers/?hsLang=en)
         * [Education resource service](https://junipereducation.org/ers?hsLang=en)
     * [Secondary](https://junipereducation.org/classroom-secondary/?hsLang=en)
-        * [Progress and outcomes](https://junipereducation.org/classroom-secondary/progress-and-outcomes/?hsLang=en)
-        * [MAT insights and data](https://junipereducation.org/classroom-secondary/insights-and-data/?hsLang=en)
+        * [Sisra Analytics](https://junipereducation.org/classroom-secondary/progress-and-outcomes/?hsLang=en)
+        * [Sonar Multi-School](https://junipereducation.org/classroom-secondary/insights-and-data/?hsLang=en)
         * [Supporting teachers](https://junipereducation.org/classroom-secondary/supporting-teachers/?hsLang=en)
 *  [![menu02](https://junipereducation.org/hubfs/Juniper%20-%20Theme/menu02.svg)School office solutions MIS, Finance, Internal Scrutiny, Governance, Clerking and more.](https://junipereducation.org/school-office/?hsLang=en)
     * [Finance services](https://junipereducation.org/school-management-finance-services/?hsLang=en)
@@ -82,14 +82,14 @@
 * [MAT websites and marketing services](https://websites.junipereducation.org/multi-academy-trusts)
 * [Parent engagement app](https://junipereducation.org/parental-engagement/?hsLang=en)
 
-* [Progress and outcomes](https://junipereducation.org/classroom-primary/sonar-tracker?hsLang=en)
-* [MAT insights and data](https://junipereducation.org/classroom-primary/mat-insights-and-data?hsLang=en)
+* [Sonar Tracker](https://junipereducation.org/classroom-primary/sonar-tracker?hsLang=en)
+* [Sonar Multi-School](https://junipereducation.org/classroom-primary/mat-insights-and-data?hsLang=en)
 * [Rewards and recognition](https://junipereducation.org/classroom-primary/rewards-and-recognition/?hsLang=en)
 * [Essential training](https://junipereducation.org/classroom-primary/supporting-teachers/?hsLang=en)
 * [Education resource service](https://junipereducation.org/ers?hsLang=en)
 
-* [Progress and outcomes](https://junipereducation.org/classroom-secondary/progress-and-outcomes/?hsLang=en)
-* [MAT insights and data](https://junipereducation.org/classroom-secondary/insights-and-data/?hsLang=en)
+* [Sisra Analytics](https://junipereducation.org/classroom-secondary/progress-and-outcomes/?hsLang=en)
+* [Sonar Multi-School](https://junipereducation.org/classroom-secondary/insights-and-data/?hsLang=en)
 * [Supporting teachers](https://junipereducation.org/classroom-secondary/supporting-teachers/?hsLang=en)
 
 * [Website portfolio](https://websites.junipereducation.org/our-work)
