@@ -305,7 +305,7 @@
 
 [#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#инклюзивныйтуризм](https://er.ru/activity/news?tags%5B0%5D=1094738)
 
-Сегодня 17:30
+26.11.24
 
 [![Алексей Говырин: «Зонтичные» поручительства - один из востребованных бизнесом инструментов господдержки](https://cdn.er.ru/media/news/November2024/kpHZ6veyaCHySoWm4EKL-small.jpg)](https://er.ru/activity/news/aleksej-govyrin-zontichnye-poruchitelstva-odin-iz-vostrebovannyh-biznesom-instrumentov-gospodderzhki)
 
@@ -313,7 +313,7 @@
 
 [#Говырин](https://er.ru/activity/news?tags%5B0%5D=148487) [#предпринимательство](https://er.ru/activity/news?tags%5B0%5D=4080) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#МСП](https://er.ru/activity/news?tags%5B0%5D=65763) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136)
 
-Сегодня 17:10
+26.11.24
 
 [![По инициативе «Единой России» в законе о молодёжной политике закрепят понятие «студенческая семья»](https://cdn.er.ru/media/news/November2024/Jy6X5lpjLfoUfE3eUFS2-small.jpg)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-zakone-o-molodyozhnoj-politike-zakrepyat-ponyatie-studencheskaya-semya)
 
@@ -321,7 +321,7 @@
 
 [#Дрожжина](https://er.ru/activity/news?tags%5B0%5D=79696) [#мерыподдержкисемей](https://er.ru/activity/news?tags%5B0%5D=145903) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#студенческаясемья](https://er.ru/activity/news?tags%5B0%5D=1095947) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170)
 
-Сегодня 16:40
+26.11.24
 
 [![Владимир Якушев: Ставропольское отделение «Единой России» показывает пример системной работы с участниками СВО](https://cdn.er.ru/media/news/November2024/NieWxKVWZ3IWLHmbwwv8-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-stavropolskoe-otdelenie-edinoj-rossii-pokazyvaet-primer-sistemnoj-raboty-s-uchastnikami-svo)
 
@@ -329,7 +329,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Ставропольский край](https://er.ru/activity/news?tags%5B0%5D=1300) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Владимиров](https://er.ru/activity/news?tags%5B0%5D=9331) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555)
 
-Сегодня 16:30
+26.11.24
 
 [![Антон Горелкин: «Единая Россия» добивается обеспечения доступной и безопасной цифровой среды для всех граждан](https://cdn.er.ru/media/news/November2024/lsuIrqp1P6RYnYIrG7cs-small.jpg)](https://er.ru/activity/news/anton-gorelkin-edinaya-rossiya-dobivaetsya-obespecheniya-dostupnoj-i-bezopasnoj-cifrovoj-sredy-dlya-vseh-grazhdan)
 
@@ -337,7 +337,7 @@
 
 [#Горелкин](https://er.ru/activity/news?tags%5B0%5D=101387) [#ЦифроваяРоссия](https://er.ru/activity/news?tags%5B0%5D=111610) [#цифровойдиктант](https://er.ru/activity/news?tags%5B0%5D=1095797) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#цифровизация](https://er.ru/activity/news?tags%5B0%5D=47329) [#цифроваяграмотность](https://er.ru/activity/news?tags%5B0%5D=105659)
 
-Сегодня 14:44
+26.11.24
 
 [![Госдума приняла закон «Единой России» об ужесточении ответственности за утечку персональных данных](https://cdn.er.ru/media/news/November2024/k3QkHAQr86Bkdm4KNMZM-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-uzhestochenii-otvetstvennosti-za-utechku-personalnyh-dannyh)
 
@@ -345,7 +345,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#персональныеданные](https://er.ru/activity/news?tags%5B0%5D=106582) [#кибербезопасность](https://er.ru/activity/news?tags%5B0%5D=28765) [#утечка](https://er.ru/activity/news?tags%5B0%5D=6385) [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#ужесточение отвественности](https://er.ru/activity/news?tags%5B0%5D=10365)
 
-Сегодня 14:27
+26.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
