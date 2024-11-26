@@ -84,6 +84,8 @@ The following terms and conditions apply to all services provided by and via Eur
 
 [](https://www.eurodns.com/specific-terms-ssl-certificates-service)[Specific Terms: Afternic Premium Promotion Service](https://www.eurodns.com/specific-terms-afternic-premium-promotion-service)
 
+[Specific Terms: Web Security Suite](https://www.eurodns.com/specific-terms-web-security-service) 
+
 Policies
 --------
 
