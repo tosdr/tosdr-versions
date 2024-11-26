@@ -27,7 +27,7 @@ Wasabi Acceptable Use Policy
 
 [June 1, 2021](https://cdn.brandfolder.io/BFD8NB05/at/rstz5cjkk3sswzfx9mv9tx7/Acceptable_Use_Policy_-1June2021_REFERENCE_ONLY.pdf)
 
-[Company](https://wasabi.com/legal/acceptable-use-policy#)
+[Company](https://wasabi.com/legal/acceptable-use-policy?__nextDataReq=1#)
 
 * [About Wasabi](https://wasabi.com/company)
     
