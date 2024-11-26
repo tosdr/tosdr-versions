@@ -384,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123149202.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123175144.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
-* [Menschen­rechte in der Mode­produktion: „Das Lieferkettengesetz entfaltet schon Wirkungen“](https://www.test.de/Menschenrechte-in-der-Modeproduktion-Das-Lieferkettengesetz-entfaltet-schon-Wirkungen-6179244-0/ "Menschenrechte in der Modeproduktion - „Das Lieferkettengesetz entfaltet schon Wirkungen“")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
+* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
-* [Menschen­rechte in der Mode­produktion: „Das Lieferkettengesetz entfaltet schon Wirkungen“](https://www.test.de/Menschenrechte-in-der-Modeproduktion-Das-Lieferkettengesetz-entfaltet-schon-Wirkungen-6179244-0/ "Menschenrechte in der Modeproduktion - „Das Lieferkettengesetz entfaltet schon Wirkungen“")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
+* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
-* [Menschen­rechte in der Mode­produktion: „Das Lieferkettengesetz entfaltet schon Wirkungen“](https://www.test.de/Menschenrechte-in-der-Modeproduktion-Das-Lieferkettengesetz-entfaltet-schon-Wirkungen-6179244-0/ "Menschenrechte in der Modeproduktion - „Das Lieferkettengesetz entfaltet schon Wirkungen“")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
+* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasch­trockner im Test: Waschen und trocknen in einem](https://www.test.de/Waschtrockner-im-Test-Waschen-und-trocknen-in-einem-6047701-0/ "Waschtrockner im Test - Waschen und trocknen in einem")
-* [Dividenden von Welt-Aktienfonds: So viel schütten die besten Welt-Fonds aus](https://www.test.de/Dividenden-von-Welt-Aktienfonds-So-viel-schuetten-die-besten-Welt-Fonds-aus-6017222-0/ "Dividenden von Welt-Aktienfonds - So viel schütten die besten Welt-Fonds aus")
-* [Menschen­rechte in der Mode­produktion: „Das Lieferkettengesetz entfaltet schon Wirkungen“](https://www.test.de/Menschenrechte-in-der-Modeproduktion-Das-Lieferkettengesetz-entfaltet-schon-Wirkungen-6179244-0/ "Menschenrechte in der Modeproduktion - „Das Lieferkettengesetz entfaltet schon Wirkungen“")
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Antide­pressiva: Diese Mittel helfen gegen Depression](https://www.test.de/Antidepressiva-im-Test-5943472-0/ "Antidepressiva - Diese Mittel helfen gegen Depression")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
+* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
+* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
+* [Deutsche Bahn: Neue Zugangs­regeln für DB-Lounge](https://www.test.de/Deutsche-Bahn-Neue-Zugangsregeln-fuer-DB-Lounge-5986611-0/ "Deutsche Bahn - Neue Zugangsregeln für DB-Lounge")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Genossen­schafts­anteile: So erkennen Sie unvor­teilhafte Angebote von Genossenschaften](https://www.test.de/Genossenschaftsanteile-Nicht-alle-Genossenschaften-sind-serioes-6064520-0/ "Genossenschaftsanteile - So erkennen Sie unvorteilhafte Angebote von Genossenschaften")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
 
 Stiftung Warentest
 
