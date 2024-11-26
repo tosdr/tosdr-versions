@@ -20,7 +20,7 @@
 * [Learn](https://www.aspiration.com/%23)
     * [FAQs](https://my.aspiration.com/faq/)
     * [Who We Are](https://www.aspiration.com/who-we-are)
-    * [Resources](https://www.aspiration.com/resources)
+    * [Blog](https://www.aspiration.com/resources)
     * [Partner with Us](https://www.aspiration.com/partners)
 
 * [Sign In](https://my.aspiration.com/auth/login/)
