@@ -303,13 +303,13 @@ In a significant step forward for autism advocacy, the United States Senate has 
 
 Autism Speaks Chief Science Officer Dr. Andy Shih was one of three individuals invited to testify before the Subcommittee on Global Health.
 
-![Three panelists watching TV for video of Former First Lady Rosalynn Carter speaking about caregivers](/sites/default/files/styles/content_list/public/Image%20%289%29.jpg.webp?itok=1AxbKM7l)
+![Three panelists watching TV for video of Former First Lady Rosalynn Carter speaking about caregivers](/sites/default/files/styles/content_list/public/Three-panelists-watching-TV-for-video-of-Former-First-Lady-Rosalynn-Carter-speaking-about-caregivers.jpg.webp?itok=nAMehgul)
 
 11.19.24
 
 [### Autism Speaks joins congressional briefing on family caregivers](https://guide.autismspeaks.org/advocacy-news/autism-speaks-joins-congressional-briefing-family-caregivers)
 
-In recognition of November as National Family Caregivers Month, Autism Speaks was grateful to join the Rosalynn Carter Institute for Caregivers,
+Autism Speaks was grateful to join the Rosalynn Carter Institute for Caregivers, Elizabeth Dole Foundation and Caregiver Action Network for a
 
 ![Autism Speaks new PSA for employment](/sites/default/files/styles/content_list/public/Autism%20Speaks%20new%20PSA%20for%20employment.png.webp?itok=XRKtwSWZ)
 
