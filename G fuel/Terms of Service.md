@@ -212,8 +212,6 @@ Pause slideshow Play slideshow
 
 [Celebrate Black FridayShop the BOGO Tub-a-Thon!](https://gfuel.com/pages/bogo)
 
-[Earn 2XP for every $1 spent this Holiday Season!Join the Rewards Program](https://gfuel.com/pages/rewards)
-
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
 [Create Account](https://gfuel.com/account/register)
@@ -375,7 +373,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/625/assets/app-store-badge.svg?v=123926581890561309811732303954)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/625/assets/google-play-badge.png?v=132395384020293405351732303954)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/626/assets/app-store-badge.svg?v=123926581890561309811732573303)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/626/assets/google-play-badge.png?v=132395384020293405351732573303)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -395,7 +393,7 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 5.0 out of 5 stars
 
-5 Reviews
+7 Reviews
 
 5.0
 
