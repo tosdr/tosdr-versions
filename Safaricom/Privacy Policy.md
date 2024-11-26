@@ -16,6 +16,8 @@ TOP DESTINATIONS
 
 [Masai Mara](https://www.safari.com/destinations/masai-mara)
 
+[Nairobi](https://www.safari.com/destinations/nairobi)
+
 [Sabi Sands Game Reserve](https://www.safari.com/destinations/sabi-sand-game-reserve)
 
 [Victoria Falls](https://www.safari.com/destinations/victoria-falls)
@@ -25,6 +27,8 @@ EAST AFRICA
 [Amboseli National Park](https://www.safari.com/destinations/amboseli-national-park)
 
 [Kenya](https://www.safari.com/destinations/kenya)
+
+[Nairobi](https://www.safari.com/destinations/nairobi)
 
 [Ngorongoro Crater](https://www.safari.com/destinations/ngorongoro-crater)
 
@@ -164,6 +168,8 @@ Neil Buckley
 
 ,
 
+gb
+
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 23, 2024
@@ -175,6 +181,8 @@ Neil Buckley
 Gogo and Tiffany.
 
 ,
+
+us
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
