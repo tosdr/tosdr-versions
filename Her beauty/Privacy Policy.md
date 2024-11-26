@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=939959689678239&ev=PageView&noscript=1)       ≡ Privacy Policy 》 Her Beauty                                                                
+![](https://www.facebook.com/tr?id=939959689678239&ev=PageView&noscript=1)       ≡ Privacy Policy 》 Her Beauty                                                                 
 
 [![Site stats](//www.shinystat.com/cgi-bin/shinystat.cgi?USER=SS-44258713-3958a)](https://www.shinystat.com/)
 
@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
+[The Inspiring and Tragic Story of Obama’s Mother ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/2-5.jpeg)](https://herbeauty.co/entertainment/the-inspiring-and-tragic-story-of-obama-s-mother/) 
+
 [Kate Middleton’s Comeback Has Everyone Saying the Same Thing ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/1-2-scaled.jpeg)](https://herbeauty.co/entertainment/kate-middleton-s-comeback-has-everyone-saying-the-same-thing/) 
 
 [8 Toxic Behaviors You Shouldn’t Put Up With in a Relationship ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/5-4.jpg)](https://herbeauty.co/relationships/8-toxic-behaviors-you-shouldn-t-put-up-with-in-a-relationship/) 
-
-[The Surprising Reason for Your Eye Bags—and How to Fix It  ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/0cover.jpg)](https://herbeauty.co/beauty/the-surprising-reason-for-your-eye-bags-and-how-to-fix-it/)  
 
 Advertisements
 
