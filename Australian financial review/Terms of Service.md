@@ -299,7 +299,7 @@ Advertise
 
 * Eugenie Kelly
 
-* ### [The jeweller who spends her downtime searching for sharks](https://www.afr.com/life-and-luxury/fashion-and-style/the-jeweller-who-spends-her-downtime-searching-for-sharks-20241023-p5kkjw)
+* ### [The hobby that taught this jeweller to slow down](https://www.afr.com/life-and-luxury/fashion-and-style/the-jeweller-who-spends-her-downtime-searching-for-sharks-20241023-p5kkjw)
     
 * ### [Jewellery’s hottest trend? Raiding Nanna’s treasure chest](https://www.afr.com/life-and-luxury/fashion-and-style/jewellery-s-hottest-trend-raiding-nanna-s-treasure-chest-20241016-p5kiw1)
     
@@ -321,15 +321,15 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_1.2137%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_70%2C$y_228/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e9469b4eb703debccd56b5f59e57dac7e22aa187)](https://www.afr.com/technology/security-cameras-with-a-two-year-battery-life-sold-20241121-p5ksi7)
+[![ ](https://static.ffx.io/images/$zoom_1.5271%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1888%2C$y_1192/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9586be39653180131d795fc728c0ce3687fa0a6e)](https://www.afr.com/life-and-luxury/travel/grizzly-bears-galore-and-no-way-to-share-the-moment-20241002-p5kfe8)
 
-### [Security cameras with a two-year battery life? Sold!](https://www.afr.com/technology/security-cameras-with-a-two-year-battery-life-sold-20241121-p5ksi7)
+### [John Kehoe spots a bear (the grizzly kind). Here’s what he learnt](https://www.afr.com/life-and-luxury/travel/grizzly-bears-galore-and-no-way-to-share-the-moment-20241002-p5kfe8)
 
-* John Davidson
+* John Kehoe
 
-* ### [Will this blueberry wine tempt you for Christmas?](https://www.afr.com/life-and-luxury/food-and-wine/will-this-blueberry-wine-tempt-you-for-christmas-20241120-p5ks8k)
+* ### [Security cameras with a two-year battery life? Sold!](https://www.afr.com/technology/security-cameras-with-a-two-year-battery-life-sold-20241121-p5ksi7)
     
-* ### [Grizzly bears galore and no way to share the moment](https://www.afr.com/life-and-luxury/travel/grizzly-bears-galore-and-no-way-to-share-the-moment-20241002-p5kfe8)
+* ### [Will this blueberry wine tempt you for Christmas?](https://www.afr.com/life-and-luxury/food-and-wine/will-this-blueberry-wine-tempt-you-for-christmas-20241120-p5ks8k)
     
 
 [Rich List](https://www.afr.com/rich-list)
