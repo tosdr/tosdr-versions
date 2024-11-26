@@ -885,46 +885,6 @@ Melanie Carey Monteregie Metro 19/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-John and Brayan
-
-Nolan Heck Wisconsin 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Thank you 1 800 Got Junk. Mike and TC were amazing
-
-Andrew Stowe Austin 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Keone and Trevion did an outstanding job. They were patient and fast. I enjoyed working with them and would do so again.
-
-Abbey Smith Wisconsin 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-James and Caden were awesome and took our sofa away in minutes!
-
-Andrew Parr Madison 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Samuel and Ayden were great
-
-Michael Kiely Wisconsin 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Andre and Alex were very professional and a pleasure to work with.
 
 Jerry Locke Wisconsin 23/11/2024
@@ -1005,14 +965,6 @@ samantha kuhn Wisconsin 23/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Luiz and David did amazing. Quick & easy from start to finish. Same day service was great
-
-James Hall Austin 23/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Zach and Paris were very professional and helped get our junk moved fast!
 
 Logan Cowdrey Cincinnati 23/11/2024
@@ -1021,9 +973,57 @@ Logan Cowdrey Cincinnati 23/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Bobby & Chris were great!
+Luiz and David did amazing. Quick & easy from start to finish. Same day service was great
 
-Lori Lowe Austin 22/11/2024
+James Hall Austin 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+John and Brayan
+
+Nolan Heck Wisconsin 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Thank you 1 800 Got Junk. Mike and TC were amazing
+
+Andrew Stowe Austin 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Keone and Trevion did an outstanding job. They were patient and fast. I enjoyed working with them and would do so again.
+
+Abbey Smith Wisconsin 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+James and Caden were awesome and took our sofa away in minutes!
+
+Andrew Parr Madison 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Samuel and Ayden were great
+
+Michael Kiely Wisconsin 23/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Don and Luis were wonderful! Very helpful and speedy!
+
+Sarah Miller Austin 22/11/2024
 
 ### 
 
