@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-media-van-waak-naar-schoothonden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/wereldwijde-dierensterfte-wat-is-hier-aan-de-hand/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
