@@ -31,7 +31,7 @@ Subscribe
  ![Search](/theme_japantimes/images/search_icon.svg)
 
 * [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
-* [Japan tax cuts](https://www.japantimes.co.jp/trending/ "Japan tax cuts")
+* [Japan tax reform](https://www.japantimes.co.jp/trending/ "Japan tax reform")
 * [Russia-Ukraine war](https://www.japantimes.co.jp/tag/russia-ukraine-war/ "Russia-Ukraine war")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
@@ -484,6 +484,10 @@ Revised June 1, 2022
 
   [![Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435735.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Emerging Gen Z J-pop group ME:I will perform on this year's "Kohaku Uta Gassen," national broadcaster NHK’s New Year's Eve spectacle.")](https://www.japantimes.co.jp/culture/2024/11/24/music/kohaku-uta-gassen-lineup/ "'Kohaku' still matters for J-pop bragging rights")
 
+[Are you leaving your loved ones digital legacies or headaches?](https://www.japantimes.co.jp/news/2024/11/25/japan/society/digital-legacies-issues/ "Are you leaving your loved ones digital legacies or headaches?")
+
+  [![The National Consumer Affairs Center reports a growing number of consultations regarding "digital legacies" — data and online services left behind when people die.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/25/435629.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The National Consumer Affairs Center reports a growing number of consultations regarding "digital legacies" — data and online services left behind when people die.")](https://www.japantimes.co.jp/news/2024/11/25/japan/society/digital-legacies-issues/ "Are you leaving your loved ones digital legacies or headaches?")
+
 [How Japan can exit the fossil fuel subsidies it can’t seem to quit](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
 
   [![A man walks past a gasoline station in Tokyo on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435734.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A man walks past a gasoline station in Tokyo on Thursday.")](https://www.japantimes.co.jp/environment/2024/11/24/energy/fossil-fuel-subsidies-quit/ "How Japan can exit the fossil fuel subsidies it can’t seem to quit")
@@ -501,10 +505,6 @@ Revised June 1, 2022
 [133-year-old Kyushu railway station remains to be partially preserved](https://www.japantimes.co.jp/news/2024/11/22/japan/society/kitakyushu-remains-preservation/ "133-year-old Kyushu railway station remains to be partially preserved")
 
   [![The remains of the original Moji Station in Kitakyushu](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435643.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The remains of the original Moji Station in Kitakyushu")](https://www.japantimes.co.jp/news/2024/11/22/japan/society/kitakyushu-remains-preservation/ "133-year-old Kyushu railway station remains to be partially preserved")
-
-[After Shohei Ohtani bump, Iwate ironware maker sees brighter future](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
-
-  [![Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/22/435319.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kaito Kikuchi's decision to send superstar Shohei Ohtani one of his company's traditional ironware tea kettles has paid off with a surge of interest from general consumers.")](https://www.japantimes.co.jp/life/2024/11/23/style-design/nambu-ironware-shohei-ohtani-iwate/ "After Shohei Ohtani bump, Iwate ironware maker sees brighter future")
 
 Podcast
 -------
@@ -567,21 +567,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan and Italy to share fuel and ammo under new logistics deal](https://www.japantimes.co.jp/news/2024/11/25/japan/japan-italy-acsa/ "Japan and Italy to share fuel and ammo under new logistics deal")
+[Zoom fails to impress investors with sales forecast for expanded lineup](https://www.japantimes.co.jp/business/2024/11/26/tech/zoom-sales-forecast-investors/ "Zoom fails to impress investors with sales forecast for expanded lineup")
 
-8 hours ago
+7 mins ago
 
-[Mercari to enhance item verification process to check frauds](https://www.japantimes.co.jp/business/2024/11/25/companies/mercari-frauds-verification-process/ "Mercari to enhance item verification process to check frauds")
+[Satellite images may show North Korea expanding missile plant, researchers say](https://www.japantimes.co.jp/news/2024/11/26/asia-pacific/satellite-north-korea-missile-plant/ "Satellite images may show North Korea expanding missile plant, researchers say")
 
-10 hours ago
+48 mins ago
 
-[Yamanashi Prefecture plans to raise entry fee for Mount Fuji climbers](https://www.japantimes.co.jp/news/2024/11/25/japan/mount-fuji-yamanashi-fee-increase/ "Yamanashi Prefecture plans to raise entry fee for Mount Fuji climbers")
+[Japanese panel suggests 60% emissions reduction target for 2035](https://www.japantimes.co.jp/news/2024/11/26/japan/japan-emission-reduction-target/ "Japanese panel suggests 60% emissions reduction target for 2035")
 
-10 hours ago
+49 mins ago
 
-[Osaka court upholds 18-year sentence for murder of ALS patient](https://www.japantimes.co.jp/news/2024/11/25/japan/crime-legal/als-patient-murder-trial/ "Osaka court upholds 18-year sentence for murder of ALS patient")
+[Japan's space agency halts Epsilon S rocket engine test after fire](https://www.japantimes.co.jp/news/2024/11/26/japan/science-health/japan-rocket-engine-test-fire/ "Japan's space agency halts Epsilon S rocket engine test after fire")
 
-[93-year-old inmate imprisoned over fatal Tokyo car crash dies](https://www.japantimes.co.jp/news/2024/11/25/japan/crime-legal/ikebukuro-car-crash-inmate-dies/ "93-year-old inmate imprisoned over fatal Tokyo car crash dies")
+1 hour ago
+
+[Hong Kong a ‘global leader’ in financial crime, U.S. lawmakers say](https://www.japantimes.co.jp/news/2024/11/26/asia-pacific/crime-legal/hong-kong-financial-crime-us/ "Hong Kong a ‘global leader’ in financial crime, U.S. lawmakers say")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
