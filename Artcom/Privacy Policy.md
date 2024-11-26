@@ -2,11 +2,11 @@ Shop Now
 
 20% off Frame, Canvas & Mount on Orders $99+ Ends in..
 
-0DAYS7HRS13MINS
+0DAYS1HRS12MINS
 
 20% off Frame, Canvas & Mount on Orders $99+ Ends in..
 
-0DAYS7HRS13MINS
+0DAYS1HRS12MINS
 
 Shop Now
 
@@ -825,7 +825,7 @@ Art.com
 
 Indianapolis, IN 46268
 
-![Logo](/mobify/bundle/897/static/img/logo.svg)
+![Logo](/mobify/bundle/909/static/img/logo.svg)
 
 World's largest selection of art
 
@@ -855,7 +855,7 @@ Customer Service
 
 Business Sales
 
-* [WorkspaceArt Division](https://www.workspaceart.com/ADC.NET/Root/Pages/Account/B2BLogin.aspx "WorkspaceArt Division")
+* [WorkspaceArt Division](https://www.workspaceart.com/ "WorkspaceArt Division")
 
 ### 
 
@@ -898,7 +898,7 @@ Customer Service
 
 Business Sales
 
-* [WorkspaceArt Division](https://www.workspaceart.com/ADC.NET/Root/Pages/Account/B2BLogin.aspx "WorkspaceArt Division")
+* [WorkspaceArt Division](https://www.workspaceart.com/ "WorkspaceArt Division")
 
 ### 
 
