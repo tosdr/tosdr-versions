@@ -1,8 +1,10 @@
 For the best experience, please make sure your browser is [up-to-date](https://browser-update.org/update.html) and javascript is enabled.
 
-###### Reinforce Community After the 2024 Election
+###### Build Trust and Foster Collaboration on Campus
 
 Join our free webinar for actionable strategies.
+
+[Register Today](https://openmindplatform.org/events/building-trust-with-students-and-others/)
 
 Close announcement
 
