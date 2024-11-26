@@ -194,9 +194,9 @@ Hi
         
     * [New! (87)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (64)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (68)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Thanksgiving Essentials (29)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
+    * [Thanksgiving Essentials (28)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
     * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
         
