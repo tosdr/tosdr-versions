@@ -5,7 +5,7 @@ This release should be pretty boring
 
 Yet somehow it isn’t. Your free-form content maps itself. Visual editing without the mess. Complex content releases made easy.
 
-[Watch the launch video](https://www.youtube.com/watch?v=GNE2SULJzOg)
+[Unpack the release](https://www.sanity.io/release)
 
 ![](https://cdn.sanity.io/images/3do82whm/next/ee4f40635f7dca5925f899be52d3cf1254fd552a-1920x1080.png?w=3840&q=75&fit=clip&auto=format)
 
