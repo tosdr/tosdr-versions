@@ -371,3 +371,5 @@ For Assistance: [info@northwestharvest.org](mailto:info@northwestharvest.org)[80
 
 * [Legal](https://www.northwestharvest.org/legal/)
 * [Jobs at Northwest Harvest](https://www.northwestharvest.org/about-us/careers/)
+
+Northwest Harvest will be closed from 11/28 through 11/29. Please visit our statewide map or connect with 2-1-1 to learn about local food access programs.[Map](https://www.northwestharvest.org/our-work/food-access-network/?)
