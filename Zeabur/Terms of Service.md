@@ -19,7 +19,6 @@
     * [Config Editing](https://docs.zeabur.com/docs/en-US/deploy/config-edit)
     * [Environment Variables](https://docs.zeabur.com/docs/en-US/deploy/variables)
     * [Execute Commands](https://docs.zeabur.com/docs/en-US/deploy/command-execution)
-    * [Enable Serverless](https://docs.zeabur.com/docs/en-US/deploy/serverless)
     * [Update Image Reference](https://docs.zeabur.com/docs/en-US/deploy/update-image-reference)
     
 * Template
@@ -143,7 +142,6 @@
 * Advanced
     
     * [Builds](https://docs.zeabur.com/docs/en-US/advanced/builds)
-    * [Serverless output format](https://docs.zeabur.com/docs/en-US/advanced/serverless-output-format)
     
 * Developer
     
