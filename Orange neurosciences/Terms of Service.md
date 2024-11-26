@@ -1,6 +1,6 @@
 top of page
 
-[![Orange Neurosciences Logo](https://static.wixstatic.com/media/ba438b_93979f21c15343ef9c4cfebcdbd288e5~mv2.png/v1/fill/w_112,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Orange%20Neurosciences%20Logo.png)](https://www.orangeneurosciences.ca/)
+[![Orange Neurosciences Logo](https://static.wixstatic.com/media/ba438b_93979f21c15343ef9c4cfebcdbd288e5~mv2.png/v1/fill/w_112,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Orange%20Neurosciences%20Logo.png)](https://www.orangeneurosciences.ca/)
 
 * [Home](https://www.orangeneurosciences.ca/)
 * [ReadON](https://www.orangeneurosciences.ca/readon)
@@ -233,7 +233,7 @@ Notwithstanding any language to the contrary therein, no terms or conditions sta
 
 ​
 
-![Orange Neurosciences Logo in white color](https://static.wixstatic.com/media/ba438b_af9a0fe3aaf94c6fbcf4c6f715b0c6ce~mv2.png/v1/fill/w_98,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/Orange_logo_white.png)
+![Orange Neurosciences Logo in white color](https://static.wixstatic.com/media/ba438b_af9a0fe3aaf94c6fbcf4c6f715b0c6ce~mv2.png/v1/fill/w_98,h_77,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/Orange_logo_white.png)
 
 * [](https://www.facebook.com/OrangeNeurosciences/)
 * [](https://www.instagram.com/orangeneurosciences/)
