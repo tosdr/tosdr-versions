@@ -19,7 +19,7 @@ BLACK FRIDAY SALE: Buy one Sleep Pod, get another 50% OFF!
 
 [![mother tucking in son in sleep pod](//hugsleep.com/cdn/shop/files/SquarePDPs.001.jpg?v=1709244147&width=533)
 
-395 reviews
+397 reviews
 
 ### Kids - Hooded Sleep Pod Move
 
@@ -31,7 +31,7 @@ Unit price /  per](https://hugsleep.com/products/kids-hooded-sleep-pod-move) 
 
 [![woman laying in bed with sleep pod asleep](//hugsleep.com/cdn/shop/products/download.jpg?v=1659988966&width=533)
 
-395 reviews
+397 reviews
 
 ### Sleep Pod Move
 
@@ -43,7 +43,7 @@ Unit price /  per](https://hugsleep.com/products/sleep-pod-move-adult) 
 
 [![man in bed with hooded sleep pod move](//hugsleep.com/cdn/shop/files/Untitled5.007.jpg?v=1695958490&width=533)
 
-395 reviews
+397 reviews
 
 ### Hooded Sleep Pod Move
 
@@ -95,9 +95,6 @@ BACK
 * [![](//hugsleep.com/cdn/shop/files/PDPImages.001_533x533.jpg?v=1718821314)
     
     Kids Hug Wrap™ New](https://hugsleep.com/products/kids-hug-wrap%E2%84%A2)
-* [![](//hugsleep.com/cdn/shop/files/SquarePDP.001_533x533.jpg?v=1731352049)
-    
-    Elf Sleep Pod](https://hugsleep.com/products/elf-sleep-pod)
   
   
   
@@ -140,9 +137,6 @@ BACK
 * [![](//hugsleep.com/cdn/shop/files/Untitled7.021_533x533.jpg?v=1696003107)
     
     HugStretch™ Cozy Carry Bag](https://hugsleep.com/products/hugstretch%E2%84%A2-cozy-carry-bag)
-* [![](//hugsleep.com/cdn/shop/files/SquarePDP.001_533x533.jpg?v=1731352049)
-    
-    Elf Sleep Pod](https://hugsleep.com/products/elf-sleep-pod)
   
   
   
@@ -253,7 +247,6 @@ BACK
     * [Kids - Hooded Sleep Pod Move](https://hugsleep.com/products/kids-hooded-sleep-pod-move)
     * [Kids Sleep Pod Mini](https://hugsleep.com/products/kids-sleep-pod-mini)
     * [Kids Hug Wrap™](https://hugsleep.com/products/kids-hug-wrap%E2%84%A2)
-    * [Elf Sleep Pod](https://hugsleep.com/products/elf-sleep-pod)
     
 * [Pillows](https://hugsleep.com/collections/pillows)
     
@@ -266,7 +259,6 @@ BACK
     
     * [Hug Sleep Mask™](https://hugsleep.com/products/hug-sleep-mask)
     * [HugStretch™ Cozy Carry Bag](https://hugsleep.com/products/hugstretch%E2%84%A2-cozy-carry-bag)
-    * [Elf Sleep Pod](https://hugsleep.com/products/elf-sleep-pod)
     
 * [Loungewear Collection](https://hugsleep.com/collections/loungewear-collection)
     
