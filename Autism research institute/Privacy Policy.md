@@ -45,7 +45,7 @@ About Us
 
 Donate
 
-* [ARI's Latest Accomplishments](https://autism.org/2023-impact)
+* [ARI's Latest Accomplishments](https://autism.org/2024_accomplishments/)
 * [Annual Reports](https://autism.org/annual-report/)
 * [Financials - Audit Reports/990s](https://autism.org/financial-information/)
 * [Donate Stock/Mutual Funds](https://autism.org/ways-to-help-donating-stock-and-mutual-funds/)
@@ -101,7 +101,7 @@ Donate
     * [National Autism History Museum Hours](https://autism.org/national-autism-history-museum-hours/)
     * [Contact](https://autism.org/contact/)
 * [Donate](https://autism.org/donate-giving-tuesday/)
-    * [ARI’s Latest Accomplishments](https://autism.org/2023-impact)
+    * [ARI’s Latest Accomplishments](https://autism.org/2024_accomplishments/)
     * [Annual Reports](https://autism.org/annual-report/)
     * [Financials – Audit Reports/990s](https://autism.org/financial-information/)
     * [Donate Stock/Mutual Funds](https://autism.org/ways-to-help-donating-stock-and-mutual-funds/)
