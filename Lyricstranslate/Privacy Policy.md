@@ -107,69 +107,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![xuen97](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/xuen97 "xuen97")
+[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
 
 New translation
 
-[Lovelyz - 여름 한 조각 (yeoleum han jogag)](https://lyricstranslate.com/en/lovelyz-yeoleum-han-jogag-english)
+[Chantal Goya - Un lapin](https://lyricstranslate.com/en/chantal-goya-un-lapin-german)
 
-Korean → English
+French → German
 
-[![Tobiasz2009](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628700-1726411730.png)](https://lyricstranslate.com/en/translator/tobiasz2009 "Tobiasz2009")
-
-New song
-
-[Otsochodzi - Nienawidzą](https://lyricstranslate.com/en/otsochodzi-nienawidza-lyrics)
-
-Polish
-
-[![drc.paroles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612274-1718285393.jpg)](https://lyricstranslate.com/en/translator/drcparoles "drc.paroles")
-
-New song
-
-[LaRose - Buzz Buzz Buzz](https://lyricstranslate.com/en/larose-buzz-buzz-buzz-lyrics)
-
-French (Antillean Creole)
-
-[![Ivan Luden](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1408270-1553443086.jpg)](https://lyricstranslate.com/en/translator/ivan-luden "Ivan Luden")
-
-New request
-
-[Leonid Kaganov - Сейчас в России только две проблемы (Seychas v Rossii tolʹko dve problemy)](https://lyricstranslate.com/en/request/%D1%81%D0%B5%D0%B9%D1%87%D0%B0%D1%81-%D0%B2-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-%D0%B4%D0%B2%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B-0)
-
-Russian → Polish
-
-[![HiiJin](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/hiijin "HiiJin")
+[![cinaedn](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/cinaedn "cinaedn")
 
 New translation
 
-[LBI - 小城夏天 (xiǎo chéng xià tiān)](https://lyricstranslate.com/en/lbi-xiao-cheng-xia-tian-transliteration)
+[Pippin (Musical) - No Time At All](https://lyricstranslate.com/en/pippin-musical-no-time-all-swedish)
 
-Chinese → Transliteration
+English → Swedish
 
-[![Tobiasz2009](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1628700-1726411730.png)](https://lyricstranslate.com/en/translator/tobiasz2009 "Tobiasz2009")
+[![Lobuś](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1366079-1706206074.jpg)](https://lyricstranslate.com/en/translator/lobu%C5%9B "Lobuś")
 
-New song
+New translation
 
-[Włodi - Zapałki](https://lyricstranslate.com/en/wlodi-zapalki-lyrics)
+[Pablo Alborán - Tu refugio](https://lyricstranslate.com/en/pablo-alboran-tu-refugio-polish-0)
 
-Polish
+Spanish → Polish
 
-[![Thyra](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1636871-1731794965.png)](https://lyricstranslate.com/en/translator/thyra "Thyra")
+[![Dr_Igor](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1465978-1715538506.jpg)](https://lyricstranslate.com/en/translator/drigor "Dr_Igor")
 
-New song
+New comment
 
-[Mordechai Gebirtig - Vig Lid](https://lyricstranslate.com/en/mordechai-gebirtig-vig-lid-lyrics)
-
-Yiddish
+In the spirit of our convention of publishing ...  [more](https://lyricstranslate.com/en/comment/1178141#comment-1178141)
 
 [![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
 
+New transcription request
+
+[Chabelo - Mi cuate soñador](https://lyricstranslate.com/en/chabelo-mi-cuate-so%C3%B1ador)
+
+Spanish
+
+[![Daniel Andersson](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1552522-1667872031.jpg)](https://lyricstranslate.com/en/translator/daniel-andersson "Daniel Andersson")
+
+New translation
+
+[Marina Kapuro - Мой дом единственный](https://lyricstranslate.com/en/marina-kapuro-moy-dom-edinstvennyy-swedish)
+
+Russian → Swedish
+
+[![P.Y.](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1623403-1720467255.png)](https://lyricstranslate.com/en/translator/py-0 "P.Y.")
+
 New song
 
-[Chantal Goya - Adieu les jolis foulards](https://lyricstranslate.com/en/chantal-goya-adieu-les-jolis-foulards-lyrics)
+[Rosava - На волю в небеса](https://lyricstranslate.com/en/rosava-na-volyu-v-nebesa-lyrics)
 
-French
+Ukrainian
+
+[![Zarina01](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1295512-1667921080.jpg)](https://lyricstranslate.com/en/translator/zarina01 "Zarina01")
+
+New comment
+
+Russian version of Scream by Sergey Lazarev for ...  [more](https://lyricstranslate.com/en/comment/1178140#comment-1178140)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
