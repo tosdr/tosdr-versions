@@ -51,43 +51,6 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [See All Products](https://www.ramseysolutions.com/guided-plans?snid=products.see-all-products)
     
-* Products
-    
-    [Products](https://www.ramseysolutions.com/guided-plans?snid=products) Toggle Products Submenu
-    
-    Products
-    
-    * Pay Off Debt and Build Wealth
-        * [_Financial Peace University_](https://www.ramseysolutions.com/ramseyplus/financial-peace?snid=products.pay-off-debt-and-build-wealth.financial-peace-university)
-            * [Start FPU](https://www.ramseysolutions.com/ramseyplus/financial-peace/whats-included?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.start-fpu)
-            * [Coordinate a Class](https://www.ramseysolutions.com/ramseyplus/coordinator?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.coordinate-a-class)
-            * [Join a Class](https://www.ramseysolutions.com/ramseyplus/financial-peace/class?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.join-a-class)
-            * [FPU for Churches](https://www.ramseysolutions.com/ramseyplus/organization?snid=products.pay-off-debt-and-build-wealth.financial-peace-university.fpu-for-churches)
-        * [Ramsey+](https://www.ramseysolutions.com/ramseyplus?snid=products.pay-off-debt-and-build-wealth.ramsey+)
-        * [EveryDollar Budget App](https://www.ramseysolutions.com/ramseyplus/everydollar?snid=products.pay-off-debt-and-build-wealth.ramsey+.everydollar-budget-app)
-        * [The 7 Baby Steps](https://www.ramseysolutions.com/dave-ramsey-7-baby-steps?snid=products.pay-off-debt-and-build-wealth.ramsey+.the-7-baby-steps)
-        * [Ramsey Education for Schools](https://www.ramseysolutions.com/education?snid=products.pay-off-debt-and-build-wealth.ramsey-education-for-schools)
-        * [Financial Coach Master Training](https://www.ramseysolutions.com/business/coaching/financial-coach-training?snid=products.pay-off-debt-and-build-wealth.financial-coach-master-training)
-        * [Talk to a Coach](https://www.ramseysolutions.com/ramseyplus/financial-coaching?snid=products.pay-off-debt-and-build-wealth.talk-to-a-coach)
-    
-    * Lead Your Business
-        * [EntreLeadership Elite](https://www.ramseysolutions.com/business/entreleadership/elite?snid=products.lead-your-business.entreleadership-elite)
-            * [Advisory Groups](https://www.ramseysolutions.com/business/entreleadership/elite-coaching/advisory-groups?snid=products.lead-your-business.entreleadership-elite.advisory-groups)
-            * [Executive Coaching](https://www.ramseysolutions.com/business/entreleadership/elite-coaching/executive-coaching?snid=products.lead-your-business.entreleadership-elite.executive-coaching)
-        * [SmartDollar Financial Wellness](https://www.ramseysolutions.com/corporate-wellness/smartdollar?snid=products.lead-your-business.smartdollar-financial-wellness)
-    
-    * Store
-        * [Books](https://store.ramseysolutions.com/books/all-books/?snid=store.store.books)
-        * [Digital Courses](https://store.ramseysolutions.com/business-and-career/courses/?snid=store.store.digital-courses)
-        * [Bundles](https://store.ramseysolutions.com/money/bundles/?snid=store.store.bundles)
-        * [Events](https://www.ramseysolutions.com/events?snid=store.store.events)
-        * [Kids and Teens](https://store.ramseysolutions.com/youth/?snid=store.store.kids-and-teens)
-        * [Free Trial of Ramsey+](https://www.ramseysolutions.com/ramseyplus?snid=store.store.free-trial-of-ramsey+)
-        * [Sale](https://store.ramseysolutions.com/sale/?snid=store.store.sale)
-        * [New Arrivals](https://store.ramseysolutions.com/new-arrivals/?snid=store.store.new-arrivals)
-    
-    * [See All Products](https://www.ramseysolutions.com/guided-plans?snid=products.see-all-products)
-    
 * Shows
     
     [Shows](https://www.ramseysolutions.com/shows?snid=shows) Toggle Shows Submenu
@@ -171,9 +134,12 @@ Search Ramsey Solutions Search Ramsey Solutions
             * [Tax Advisor](https://www.ramseysolutions.com/taxes/tax-advisor?snid=trusted-services.taxes.tax-services.tax-advisor)
             * [Ramsey SmartTax](https://www.ramseysolutions.com/taxes/smarttax?snid=trusted-services.taxes.tax-services.ramsey-smarttax)
     
-    * Be a Recommended Pro
-        * [RamseyTrusted®](https://www.ramseysolutions.com/trusted/become?snid=trusted-services.be-a-recommended-pro.ramseytrusted)
-        * [SmartVestor](https://www.ramseysolutions.com/retirement/investing-pro?snid=trusted-services.be-a-recommended-pro.smartvestor)
+    * Become a Provider
+        * [Real Estate Pros](https://www.ramseysolutions.com/real-estate/real-estate-pro?snid=trusted-services.be-a-recommended-pro.real-estate-pro)
+        * [Tax Pros](https://www.ramseysolutions.com/taxes/tax-pro?snid=trusted-services.be-a-recommended-pro.tax-pros)
+        * [Investment Pros](https://www.ramseysolutions.com/retirement/investing-pro?snid=trusted-services.be-a-recommended-pro.investment-pros)
+        * [P&C Insurance Pros](https://www.ramseysolutions.com/insurance/property-casualty-pro?snid=trusted-services.be-a-recommended-pro.p-c-insurance-pros)
+        * [LTC Insurance Pros](https://www.ramseysolutions.com/insurance/long-term-care-pro?snid=trusted-services.be-a-recommended-pro.ltc-insurance-pros)
     
     * [Find a RamseyTrusted® Pro](https://www.ramseysolutions.com/trusted?snid=ramsey-recommends.find-a-ramseytrusted-pro)
     
@@ -289,9 +255,6 @@ Search Ramsey Solutions Search Ramsey Solutions
     
     * [Shop the Store](https://store.ramseysolutions.com/?snid=store.shop-the-store)
     
-* Store
-    
-    [Store](https://store.ramseysolutions.com/?snid=store) Toggle Store Submenu
 
 * [Topics](https://www.ramseysolutions.com/topics?snid=topics) Toggle Topics Submenu
     
@@ -427,10 +390,13 @@ Search Ramsey Solutions Search Ramsey Solutions
     * [Tax Advisor](https://www.ramseysolutions.com/taxes/tax-advisor?snid=trusted-services.taxes.tax-services.tax-advisor)
     * [Ramsey SmartTax](https://www.ramseysolutions.com/taxes/smarttax?snid=trusted-services.taxes.tax-services.ramsey-smarttax)
     
-    * **Be a Recommended Pro**
+    * **Become a Provider**
         
-    * [RamseyTrusted®](https://www.ramseysolutions.com/trusted/become?snid=trusted-services.be-a-recommended-pro.ramseytrusted)
-    * [SmartVestor](https://www.ramseysolutions.com/retirement/investing-pro?snid=trusted-services.be-a-recommended-pro.smartvestor)
+    * [Real Estate Pros](https://www.ramseysolutions.com/real-estate/real-estate-pro?snid=trusted-services.be-a-recommended-pro.real-estate-pro)
+    * [Tax Pros](https://www.ramseysolutions.com/taxes/tax-pro?snid=trusted-services.be-a-recommended-pro.tax-pros)
+    * [Investment Pros](https://www.ramseysolutions.com/retirement/investing-pro?snid=trusted-services.be-a-recommended-pro.investment-pros)
+    * [P&C Insurance Pros](https://www.ramseysolutions.com/insurance/property-casualty-pro?snid=trusted-services.be-a-recommended-pro.p-c-insurance-pros)
+    * [LTC Insurance Pros](https://www.ramseysolutions.com/insurance/long-term-care-pro?snid=trusted-services.be-a-recommended-pro.ltc-insurance-pros)
     
     * * *
     
