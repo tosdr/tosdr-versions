@@ -145,6 +145,6 @@ Cookies may be stored by third parties via third party content embedded in Yout,
 
 If you have any questions about this Privacy Policy, feel free to [contact us](https://yout.com/contact/).
 
-[About Us](https://yout.com/about/) [Privacy Policy](https://yout.com/privacy/) [Terms of service](https://yout.com/terms/) [Contact Us](https://yout.com/contact/)
+[About Us](https://yout.com/about/) [Privacy Policy](https://yout.com/privacy/) [Terms of service](https://yout.com/terms/) [Contact Us](https://yout.com/contact/) [![](/static/bluesky.png) Follow us on BlueSky](https://bsky.app/profile/youtdotcom.bsky.social)
 
 2024 Yout LLC | Made by [nadermx](https://john.nader.mx/?lang=en)
