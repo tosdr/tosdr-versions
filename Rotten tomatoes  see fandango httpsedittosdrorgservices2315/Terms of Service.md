@@ -56,6 +56,14 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
+* [FREE Fandango Screening image link ![FREE Fandango Screening](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/f3a60f20-a932-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-skeletoncrew-292x118.png)](https://fandango.az1.qualtrics.com/jfe/form/SV_0cQGwOnVNbPUK7Y?cmp=TARS~FANDANGO~SkeletonCrewScreening_Footer) 
+    
+    ### FREE Fandango Screening
+    
+    RSVP to the Star Wars: Skeleton Crew Fandango Screening!
+    
+    [RSVP NOW](https://fandango.az1.qualtrics.com/jfe/form/SV_0cQGwOnVNbPUK7Y?cmp=TARS~FANDANGO~SkeletonCrewScreening_Footer)
+    
 * [Chance to win a vacation! image link ![Chance to win a vacation!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dc250740-a39a-11ef-a588-3b078e6b3d8a--fan-homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer) 
     
     ### Chance to win a vacation!
@@ -63,14 +71,6 @@ Offers
     Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
     
     [BUY TICKETS](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer)
-    
-* [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
-    
-    ### Set sail with the Moana 2 Ticket 2 Adventure
-    
-    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
-    
-    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
 * [Ascend to victory with The Champion's Collection image link ![Ascend to victory with The Champion's Collection](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/117eeb80-9e1f-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-gladiator2bundle-292x118.png)](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer) 
     
@@ -80,13 +80,13 @@ Offers
     
     [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer)
     
-* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
+* [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
     
-    ### Popular Poster Pack
+    ### Set sail with the Moana 2 Ticket 2 Adventure
     
-    Get 2 movie tickets to Wicked, a limited edition poster, and more!
+    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
     
-    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
 
 New & Coming soon
