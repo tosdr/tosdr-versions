@@ -1,6 +1,6 @@
 [Skip to content](#content "Skip to content")
 
-[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MTk5OjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MTk5OjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MTk2OjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MTk2OjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
 
 * [Driverge Canada](https://wheelchairvans.ca/)
 * [News & Product Updates](https://www.driverge.com/about/driverge-news/)
@@ -107,7 +107,7 @@ Search for:
 
 [Search](#)
 
-[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzMxOjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzMxOjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzI4OjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzI4OjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
 
 Main Menu
 
@@ -372,6 +372,7 @@ General Information
 [Terms and Conditions](https://www.driverge.com/terms-and-conditions/)  
 [Statement For Disadvantaged Business Enterprise (DBE)](https://www.driverge.com/dot-policy-statement/)  
 [General Disclaimer / Privacy Policy](https://www.driverge.com/general-disclaimer/)  
+[Cookie Preferences](#)  
 [Contact](https://www.driverge.com/contact/)  
 [Careers](https://www.driverge.com/about/careers/)  
 [855-337-9543](tel:18553379543)  
@@ -381,34 +382,6 @@ Copyright © 2024 All content property of Driverge Vehicle Innovations, LLC
 \[#\] View All Disclosures
 
 [](https://www.facebook.com/drivergevehicleinnovations/)[](https://twitter.com/Drivergevi)[](https://www.linkedin.com/company/driverge)[](https://www.youtube.com/channel/UCEbofJJt5NFo8HnBlJQrBnQ/)
-
-Manage Consent
-
-To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
-
-Functional  Functional Always active
-
-The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
-
-Preferences  Preferences
-
-The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-
-Statistics  Statistics
-
-The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
-
-Marketing  Marketing
-
-The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
-
-[Manage options](#) [Manage services](#) [Manage {vendor\_count} vendors](#) [Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
-
-Accept Deny View preferences Save preferences [View preferences](#)
-
-[{title}](#) [{title}](#) [{title}](#)
-
-Manage consent
 
 ### Whitepaper - Ford Transit Seating Layouts
 
@@ -433,7 +406,7 @@ When designing your custom wheelchair accessible vehicle, floor plan configurati
 
 ×
 
-![](data:image/svg+xml;nitro-empty-id=ODUyOjU5Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzc4IDMxNCIgd2lkdGg9Ijc3OCIgaGVpZ2h0PSIzMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](data:image/svg+xml;nitro-empty-id=NzExOjU5Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzc4IDMxNCIgd2lkdGg9Ijc3OCIgaGVpZ2h0PSIzMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 Please fill out the form below to receive immediate access to our Laws and Regulations for Transporting Cannabis by State whitepaper.
 
