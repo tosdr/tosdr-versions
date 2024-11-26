@@ -18,8 +18,8 @@
 
 search  
 
-* [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
 * [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
+* [Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
 
 en · $
 
