@@ -26,7 +26,7 @@ Gifts made through CanadaHelps are unrestricted. If a Fund has been created by a
 
 **Donations of Securities are governed by our [Gifts of Securities Policy](https://www.canadahelps.org/en/gifts-of-securities-policy/).**
 
-**Donations of Cryptocurrencies are governed by our [Gifts of Cryptocurrencies Policy](https://www.canadahelps.org/en/gifts-of-cryptocurrencies-policy/).**
+**Donations of Cryptocurrencies are governed by our [Gifts of Cryptocurrencies Policy](https://www.canadahelps.org/en/?page_id=46183).**
 
 **A copy of our full Donation Delivery and Refund Policy may be found [here](https://www.canadahelps.org/en/donation-delivery-and-refund-policy/).**
 
