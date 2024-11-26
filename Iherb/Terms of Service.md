@@ -1168,11 +1168,11 @@ Wellness
 
 More
 
-[22% Off Makeup
+[22% Off Baby & Kids
 
  
 
-‌‌Shop Now‌‌](https://www.iherb.com/c/makeup?pcode=22MAKEUP24)
+‌‌Shop Now‌‌](https://www.iherb.com/c/baby-kids?pcode=22BABY24)
 
       
 
