@@ -480,9 +480,7 @@ Copyright © Ledger SAS. All rights reserved. Ledger, Ledger Stax, Ledger Nano S
 
 Payment methods
 
-![paypal](/_next/image?url=%2Fimages%2FpaymentsLogo%2Flogo-paypal-s.png&w=96&q=75)![crypto.com](/_next/image?url=%2Fimages%2FpaymentsLogo%2Flogo-crypto-s.png&w=256&q=75)![bitpay](/_next/image?url=%2Fimages%2FpaymentsLogo%2Flogo-bitpay-s.png&w=96&q=75)
-
-![maestro](/_next/image?url=%2Fimages%2FpaymentsLogo%2Flogo-maestro-s.png&w=48&q=75)![master card](/_next/image?url=%2Fimages%2FpaymentsLogo%2Flogo-mastercard-s.png&w=48&q=75)![carte bancaire](/_next/image?url=%2Fimages%2FpaymentsLogo%2Flogo-cb-s.png&w=48&q=75)![visa](/_next/image?url=%2Fimages%2FpaymentsLogo%2Flogo-visa-s.png&w=64&q=75)![american expresss](/_next/image?url=%2Fimages%2FpaymentsLogo%2Famerican-express.png&w=48&q=100)
+![payments methods](/_next/image?url=%2Fimages%2FpaymentsLogo.webp&w=640&q=75)
 
 Products
 
