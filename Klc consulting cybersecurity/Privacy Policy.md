@@ -25,7 +25,7 @@
 * [About](#) Menu Toggle
     * [About KLC Consulting](https://klcconsulting.net/about/about-klc-consulting/)
     * [Contact Us](https://klcconsulting.net/contact/)
-    * [CCA Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
+    * [Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
     * [CMMC Events](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-events-and-workshops/)
     * [Speaking & Training](https://klcconsulting.net/cmmc-and-nist-resources/speaking-training/)
 * [Contact](https://klcconsulting.net/contact/)
@@ -58,7 +58,7 @@ Main Menu
 * [About](#) Menu Toggle
     * [About KLC Consulting](https://klcconsulting.net/about/about-klc-consulting/)
     * [Contact Us](https://klcconsulting.net/contact/)
-    * [CCA Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
+    * [Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
     * [CMMC Events](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-events-and-workshops/)
     * [Speaking & Training](https://klcconsulting.net/cmmc-and-nist-resources/speaking-training/)
 * [Contact](https://klcconsulting.net/contact/)
@@ -89,7 +89,7 @@ Main Menu
 * [About](#) Menu Toggle
     * [About KLC Consulting](https://klcconsulting.net/about/about-klc-consulting/)
     * [Contact Us](https://klcconsulting.net/contact/)
-    * [CCA Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
+    * [Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
     * [CMMC Events](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-events-and-workshops/)
     * [Speaking & Training](https://klcconsulting.net/cmmc-and-nist-resources/speaking-training/)
 * [Contact](https://klcconsulting.net/contact/)
@@ -122,7 +122,7 @@ Main Menu
 * [About](#) Menu Toggle
     * [About KLC Consulting](https://klcconsulting.net/about/about-klc-consulting/)
     * [Contact Us](https://klcconsulting.net/contact/)
-    * [CCA Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
+    * [Employment Opportunities](https://klcconsulting.net/cmmc-assessor-employment-opportunities/)
     * [CMMC Events](https://klcconsulting.net/cmmc-and-nist-resources/cmmc-events-and-workshops/)
     * [Speaking & Training](https://klcconsulting.net/cmmc-and-nist-resources/speaking-training/)
 * [Contact](https://klcconsulting.net/contact/)
@@ -228,6 +228,11 @@ About
 * [Get Your Assessment Price](https://klcconsulting.net/cmmc-level-2-assessment-price-quote/)
 
 Copyright 2024 © [KLC Consulting](https://klcconsulting.net/ "KLC Consulting") All Rights Reserved | [Privacy Policy](https://klcconsulting.net/privacy-security-statement/) | [Site Map](https://klcconsulting.net/site-map/) | [Contact Us](https://klcconsulting.net/contact/) | [Website Design by MP Design](https://mpdesignonline.com/)
+
+![CMMC Level 2 Final Rule Q&A](https://klcconsulting.net/wp-content/uploads/2024/11/KLCC_Webinar_AskExperts.webp)
+
+[Join our webinar on CMMC Level 2 Final Rule Q&A](https://klcconsulting.net/cmmc-level-2-final-rule-q-and-a/)
+-------------------------------------------------------------------------------------------------------------
 
 Manage Cookie Consent
 
