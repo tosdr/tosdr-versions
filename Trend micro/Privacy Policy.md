@@ -868,7 +868,7 @@ Back
 
 [Under Attack?](https://resources.trendmicro.com/GLB-Under-Attack-Form.html)
 
-4 Alerts
+1 Alerts
 
 Back
 
@@ -879,15 +879,6 @@ All
 * [Join us at AWS re:Invent for demos and expert-led sessions on AI-powered security.](https://resources.trendmicro.com/AWSreInvent.html)close
     
     [Supercharge your security >](https://resources.trendmicro.com/AWSreInvent.html)
-* [Silent Threat: Red Team Tool EDRSilencer Disrupting Endpoint Security Solutions](https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html)close
-    
-    [Learn more](https://www.trendmicro.com/en_us/research/24/j/edrsilencer-disrupting-endpoint-security-solutions.html)
-* [Gartner 2024 CNAPP Market Guide Insights for Leaders](https://www.trendmicro.com/en_us/research/24/j/gartner-2024-cnapp-market-guide.html)close
-    
-    [Get insights](https://www.trendmicro.com/en_us/research/24/j/gartner-2024-cnapp-market-guide.html)
-* [5 AI Security Takeaways featuring Forrester](https://www.trendmicro.com/en_us/research/24/j/forrester-ai-security.html)close
-    
-    [Learn key strategies](https://www.trendmicro.com/en_us/research/24/j/forrester-ai-security.html)
 
 Support
 
