@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![28 Facts About Jazz Standards ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2295%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/performing-arts/28-facts-about-jazz-standards/)
+[![30 Facts About Infrared Astronomy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22102%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/nature/universe/30-facts-about-infrared-astronomy/)
 
-Performing Arts
+Universe
 
-26 Nov 2024
+27 Nov 2024
 
-[28 Facts About Jazz Standards](https://facts.net/culture-and-the-arts/performing-arts/28-facts-about-jazz-standards/)
+[30 Facts About Infrared Astronomy](https://facts.net/nature/universe/30-facts-about-infrared-astronomy/)
 
-[![35 Facts About Chernobyl Disaster ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-chernobyl-disaster/)
+[![The Pharmaceutical Pollution Crisis Calls for Greener Drug Design ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22150%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/public-health/facts-about-the-pharmaceutical-pollution-crisis-and-greener-drug-design/)
 
-Historical Events
+Public Health
 
-26 Nov 2024
+27 Nov 2024
 
-[35 Facts About Chernobyl Disaster](https://facts.net/history/historical-events/35-facts-about-chernobyl-disaster/)
+[The Pharmaceutical Pollution Crisis Calls for Greener Drug Design](https://facts.net/fitness-and-wellbeing/public-health/facts-about-the-pharmaceutical-pollution-crisis-and-greener-drug-design/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
