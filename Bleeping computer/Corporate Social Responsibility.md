@@ -36,6 +36,9 @@
         
         DOJ: Man hacked networks to pitch cybersecurity services](https://www.bleepingcomputer.com/news/security/doj-man-hacked-networks-to-pitch-cybersecurity-services/)
     
+    * [![Get a Microsoft Visio standalone license at a reduced price in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get a Microsoft Visio standalone license at a reduced price in this deal](https://www.bleepingcomputer.com/offer/deals/get-a-microsoft-visio-standalone-license-at-a-reduced-price-in-this-deal/)
     * [![New NachoVPN attack uses rogue VPN servers to install malicious updates](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New NachoVPN attack uses rogue VPN servers to install malicious updates](https://www.bleepingcomputer.com/news/security/new-nachovpn-attack-uses-rogue-vpn-servers-to-install-malicious-updates/)
@@ -45,9 +48,6 @@
     * [![Over 1,000 arrested in massive ‘Serengeti’ anti-cybercrime operation](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Over 1,000 arrested in massive ‘Serengeti’ anti-cybercrime operation](https://www.bleepingcomputer.com/news/security/over-1-000-arrested-in-massive-serengeti-anti-cybercrime-operation/)
-    * [![Study for multiple CompTIA certifications with this $25 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Study for multiple CompTIA certifications with this $25 course bundle deal](https://www.bleepingcomputer.com/offer/deals/study-for-multiple-comptia-certifications-with-this-25-course-bundle-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
