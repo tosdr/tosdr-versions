@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=2747422148905832&ev=PageView&noscript=1)                                                                             
+![](https://www.facebook.com/tr?id=2747422148905832&ev=PageView&noscript=1)                                                                                
 
 * [English](https://lumapr.com/privacy-policy/?lang=en&switch_language=en)
 * [Español (Spanish)](https://lumapr.com/politica-de-privacidad/?switch_language=es)
