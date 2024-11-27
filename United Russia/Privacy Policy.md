@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Секретарём Курского реготделения «Единой России» избран губернатор Алексей Смирнов](https://cdn.er.ru/media/news/November2024/WDMabdO0EQnLgqAMxz7c-small.jpg)](https://er.ru/activity/news/sekretaryom-kurskogo-regotdeleniya-edinoj-rossii-izbran-gubernator-aleksej-smirnov)
+[![«Единая Россия» подготовила второй рейтинг региональных мер поддержки молодых ученых](https://cdn.er.ru/media/news/November2024/IgZkouPr30dxM6RyDsHA-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podgotovila-vtoroj-rejting-regionalnyh-mer-podderzhki-molodyh-uchenyh)
 
-[Секретарём Курского реготделения «Единой России» избран губернатор Алексей Смирнов](https://er.ru/activity/news/sekretaryom-kurskogo-regotdeleniya-edinoj-rossii-izbran-gubernator-aleksej-smirnov)
+[«Единая Россия» подготовила второй рейтинг региональных мер поддержки молодых ученых](https://er.ru/activity/news/edinaya-rossiya-podgotovila-vtoroj-rejting-regionalnyh-mer-podderzhki-molodyh-uchenyh)
 
-[#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#конференция](https://er.ru/activity/news?tags%5B0%5D=17) [#Смирнов](https://er.ru/activity/news?tags%5B0%5D=5223) [#реготделение](https://er.ru/activity/news?tags%5B0%5D=19972)
+[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#рейтинг](https://er.ru/activity/news?tags%5B0%5D=179) [#молодыеученые](https://er.ru/activity/news?tags%5B0%5D=127906) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#Сириус](https://er.ru/activity/news?tags%5B0%5D=9137) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549)
 
-Сегодня 12:11
+Сегодня 19:09
 
-[![«Единая Россия» обеспечит совершенствование механизмов сельхозстрахования](https://cdn.er.ru/media/news/November2024/B99u4Ko0mPmsslHKWjW1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechit-sovershenstvovanie-mehanizmov-selhozstrahovaniya)
+[![«Единая Россия» и Минэкономразвития проведут Всероссийскую встречу по вопросам поддержки НКО](https://cdn.er.ru/media/news/November2024/TucC4LuFU6hEkGQuWnTJ-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-minekonomrazvitiya-provedut-vserossijskuyu-vstrechu-po-voprosam-podderzhki-nko)
 
-[«Единая Россия» обеспечит совершенствование механизмов сельхозстрахования](https://er.ru/activity/news/edinaya-rossiya-obespechit-sovershenstvovanie-mehanizmov-selhozstrahovaniya)
+[«Единая Россия» и Минэкономразвития проведут Всероссийскую встречу по вопросам поддержки НКО](https://er.ru/activity/news/edinaya-rossiya-i-minekonomrazvitiya-provedut-vserossijskuyu-vstrechu-po-voprosam-podderzhki-nko)
 
-[#Оглоблина](https://er.ru/activity/news?tags%5B0%5D=9223) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#сельскоехозяйство](https://er.ru/activity/news?tags%5B0%5D=100396) [#агрофраншиза](https://er.ru/activity/news?tags%5B0%5D=88662) [#сельхозстрахование](https://er.ru/activity/news?tags%5B0%5D=50433)
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Минэкономразвития](https://er.ru/activity/news?tags%5B0%5D=1786) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#поддержкаНКО](https://er.ru/activity/news?tags%5B0%5D=127695) [#СоветСторонниковЕР](https://er.ru/activity/news?tags%5B0%5D=130514)
 
-Сегодня 12:04
+Сегодня 18:31
 
-[![О принятом бюджете на 2025-2027 годы. Статья Андрея Исаева](https://cdn.er.ru/media/news/November2024/rAPoJLWQAVrN7d6I8CXL-small.jfif)](https://er.ru/activity/news/o-prinyatom-byudzhete-na-2025-2027-gody-statya-andreya-isaeva)
+[![Добровольцами в зону спецоперации отправились ещё восемь представителей «Молодой Гвардии Единой России» и «Волонтёрской Роты»](https://cdn.er.ru/media/news/November2024/nNaTQCO7e1kCCeS95leb-small.jpg)](https://er.ru/activity/news/dobrovolcami-v-zonu-specoperacii-otpravilis-eshyo-vosem-predstavitelej-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty)
 
-[О принятом бюджете на 2025-2027 годы. Статья Андрея Исаева](https://er.ru/activity/news/o-prinyatom-byudzhete-na-2025-2027-gody-statya-andreya-isaeva)
+[Добровольцами в зону спецоперации отправились ещё восемь представителей «Молодой Гвардии Единой России» и «Волонтёрской Роты»](https://er.ru/activity/news/dobrovolcami-v-zonu-specoperacii-otpravilis-eshyo-vosem-predstavitelej-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty)
 
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296)
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#ВолонтерскаяРота](https://er.ru/activity/news?tags%5B0%5D=131631) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#военнослужащие](https://er.ru/activity/news?tags%5B0%5D=838)
 
-Сегодня 09:00
+Сегодня 18:03
 
-[![«Единая Россия» обеспечит создание дополнительных возможностей для инклюзивного туризма](https://cdn.er.ru/media/news/November2024/LNCgF6ofTe59pMlPsR3N-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechit-sozdanie-dopolnitelnyh-vozmozhnostej-dlya-inklyuzivnogo-turizma)
+[![Секретарём Тамбовского реготделения «Единой России» избран врио губернатора Евгений Первышов](https://cdn.er.ru/media/news/November2024/UMyD8szUviX8ZKELq0pV-small.jpg)](https://er.ru/activity/news/sekretaryom-tambovskogo-regotdeleniya-edinoj-rossii-izbran-vrio-gubernatora-evgenij-pervyshov)
 
-[«Единая Россия» обеспечит создание дополнительных возможностей для инклюзивного туризма](https://er.ru/activity/news/edinaya-rossiya-obespechit-sozdanie-dopolnitelnyh-vozmozhnostej-dlya-inklyuzivnogo-turizma)
+[Секретарём Тамбовского реготделения «Единой России» избран врио губернатора Евгений Первышов](https://er.ru/activity/news/sekretaryom-tambovskogo-regotdeleniya-edinoj-rossii-izbran-vrio-gubernatora-evgenij-pervyshov)
 
-[#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#инклюзивныйтуризм](https://er.ru/activity/news?tags%5B0%5D=1094738)
+[#Тамбовская область](https://er.ru/activity/news?tags%5B0%5D=778) [#конференциярегиональногоотделения](https://er.ru/activity/news?tags%5B0%5D=128228) [#Первышов](https://er.ru/activity/news?tags%5B0%5D=101048)
 
-26.11.24
+Сегодня 17:46
 
-[![Алексей Говырин: «Зонтичные» поручительства - один из востребованных бизнесом инструментов господдержки](https://cdn.er.ru/media/news/November2024/kpHZ6veyaCHySoWm4EKL-small.jpg)](https://er.ru/activity/news/aleksej-govyrin-zontichnye-poruchitelstva-odin-iz-vostrebovannyh-biznesom-instrumentov-gospodderzhki)
+[![В «Единой России» считают необходимым вернуть начальное профессиональное образование](https://cdn.er.ru/media/news/November2024/KEIhO0zcSVYaSKz7LGl9-small.jpg)](https://er.ru/activity/news/v-edinoj-rossii-schitayut-neobhodimym-vernut-nachalnoe-professionalnoe-obrazovanie)
 
-[Алексей Говырин: «Зонтичные» поручительства - один из востребованных бизнесом инструментов господдержки](https://er.ru/activity/news/aleksej-govyrin-zontichnye-poruchitelstva-odin-iz-vostrebovannyh-biznesom-instrumentov-gospodderzhki)
+[В «Единой России» считают необходимым вернуть начальное профессиональное образование](https://er.ru/activity/news/v-edinoj-rossii-schitayut-neobhodimym-vernut-nachalnoe-professionalnoe-obrazovanie)
 
-[#Говырин](https://er.ru/activity/news?tags%5B0%5D=148487) [#предпринимательство](https://er.ru/activity/news?tags%5B0%5D=4080) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555) [#МСП](https://er.ru/activity/news?tags%5B0%5D=65763) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136)
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#Белых](https://er.ru/activity/news?tags%5B0%5D=9569) [#среднеепрофессиональноеобразование](https://er.ru/activity/news?tags%5B0%5D=120108) [#начальное образование](https://er.ru/activity/news?tags%5B0%5D=68424) [#образование](https://er.ru/activity/news?tags%5B0%5D=57)
 
-26.11.24
+Сегодня 16:41
 
-[![По инициативе «Единой России» в законе о молодёжной политике закрепят понятие «студенческая семья»](https://cdn.er.ru/media/news/November2024/Jy6X5lpjLfoUfE3eUFS2-small.jpg)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-zakone-o-molodyozhnoj-politike-zakrepyat-ponyatie-studencheskaya-semya)
+[![Владимир Якушев станет наставником в конкурсе «Лидеры России. Политика»](https://cdn.er.ru/media/news/November2024/2Dlq16r3ULMmM3LtHche-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-stanet-nastavnikom-v-konkurse-lidery-rossii-politika)
 
-[По инициативе «Единой России» в законе о молодёжной политике закрепят понятие «студенческая семья»](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-zakone-o-molodyozhnoj-politike-zakrepyat-ponyatie-studencheskaya-semya)
+[Владимир Якушев станет наставником в конкурсе «Лидеры России. Политика»](https://er.ru/activity/news/vladimir-yakushev-stanet-nastavnikom-v-konkurse-lidery-rossii-politika)
 
-[#Дрожжина](https://er.ru/activity/news?tags%5B0%5D=79696) [#мерыподдержкисемей](https://er.ru/activity/news?tags%5B0%5D=145903) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562) [#студенческаясемья](https://er.ru/activity/news?tags%5B0%5D=1095947) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#наставничество](https://er.ru/activity/news?tags%5B0%5D=72627) [#Лидеры России](https://er.ru/activity/news?tags%5B0%5D=1094751) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360)
 
-26.11.24
+Сегодня 15:19
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
