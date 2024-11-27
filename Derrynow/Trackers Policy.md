@@ -259,35 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![PROPERTY: Ideal Derry home for first time buyers hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Ideal Derry home for first time buyers hits the market")](https://www.derrynow.com/news/property/1665235/property-ideal-derry-home-for-first-time-buyers-hits-the-market.html)
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
 
-[Property](https://www.derrynow.com/section/1232/property)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[PROPERTY: Ideal Derry home for first time buyers hits the market](https://www.derrynow.com/news/property/1665235/property-ideal-derry-home-for-first-time-buyers-hits-the-market.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fraud charges dismissed at Derry Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fraud charges dismissed at Derry Court")](https://www.derrynow.com/news/local-news/1664978/fraud-charges-dismissed-at-derry-court.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Fraud charges dismissed at Derry Court](https://www.derrynow.com/news/local-news/1664978/fraud-charges-dismissed-at-derry-court.html)
---------------------------------------------------------------------------------------------------------------------------------------
-
-[![Campaign to change NI’s Commonwealth Games flag ‘ill-advised’, says minister](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Campaign to change NI’s Commonwealth Games flag ‘ill-advised’, says minister")](https://www.derrynow.com/news/northern-ireland/1665231/campaign-to-change-nis-commonwealth-games-flag-ill-advised-says-minister.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Campaign to change NI’s Commonwealth Games flag ‘ill-advised’, says minister](https://www.derrynow.com/news/northern-ireland/1665231/campaign-to-change-nis-commonwealth-games-flag-ill-advised-says-minister.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City fans at the Brandywell](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City fans at the Brandywell")](https://www.derrynow.com/news/derry-sport/1665177/derry-city-s-season-tickets-for-2025-are-the-most-expensive-in-the-league-of-ireland.html)
-
-Derry City fans at the Brandywell
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry City's season tickets for 2025 are the most expensive in the League of Ireland](https://www.derrynow.com/news/derry-sport/1665177/derry-city-s-season-tickets-for-2025-are-the-most-expensive-in-the-league-of-ireland.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Wednesday, November 27, 2024](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two men arrested in Derry on suspicion of drug related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men arrested in Derry on suspicion of drug related offences")](https://www.derrynow.com/news/local-news/1665498/two-men-arrested-in-derry-on-suspicion-of-drug-related-offences.html)
 
@@ -298,50 +275,89 @@ PSNI
 [Two men arrested in Derry on suspicion of drug related offences](https://www.derrynow.com/news/local-news/1665498/two-men-arrested-in-derry-on-suspicion-of-drug-related-offences.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA")](https://www.derrynow.com/news/local-news/1665153/searches-carried-out-in-derry-linked-to-ongoing-drugs-criminality-by-the-inla.html)
-
-PSNI
+[![Limavady murder accused refused compassionate leave to visit sister and newborn niece](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Limavady murder accused refused compassionate leave to visit sister and newborn niece")](https://www.derrynow.com/news/home/1666062/limavady-murder-accused-refused-compassionate-leave-to-visit-sister-and-newborn-niece.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Searches carried out in Derry linked to 'ongoing drugs criminality' by the INLA](https://www.derrynow.com/news/local-news/1665153/searches-carried-out-in-derry-linked-to-ongoing-drugs-criminality-by-the-inla.html)
+[Limavady murder accused refused compassionate leave to visit sister and newborn niece](https://www.derrynow.com/news/home/1666062/limavady-murder-accused-refused-compassionate-leave-to-visit-sister-and-newborn-niece.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![South Bank Square granted planning permission for  674 new homes in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "South Bank Square granted planning permission for  674 new homes in Derry")](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
+
+Aerial photograph of application site and H30 Zoning.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[South Bank Square granted planning permission for  674 new homes in Derry](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two men charged with a series of drug offences remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men charged with a series of drug offences remanded")](https://www.derrynow.com/news/local-news/1666040/two-men-charged-with-a-series-of-drug-offences-remanded.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two men charged with a series of drug offences remanded](https://www.derrynow.com/news/local-news/1666040/two-men-charged-with-a-series-of-drug-offences-remanded.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’")](https://www.derrynow.com/news/local-news/1666133/traffic-information-ahead-of-apprentice-boys-336th-shutting-of-the-gates-announced.html)
+
+An effigy of Lundy before the burning at a previous 'Shutting of the Gates'.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’](https://www.derrynow.com/news/local-news/1666133/traffic-information-ahead-of-apprentice-boys-336th-shutting-of-the-gates-announced.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, November 27, 2024](https://www.derrynow.com/news/deaths/1664784/derry-death-notices-wednesday-november-27-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PICTURES: Crowds Enjoy Magherafelt Christmas Lights Switch On!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Crowds Enjoy Magherafelt Christmas Lights Switch On!")](https://www.derrynow.com/news/home/1664963/pictures-crowds-enjoy-magherafelt-christmas-lights-switch-on.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[PICTURES: Crowds Enjoy Magherafelt Christmas Lights Switch On!](https://www.derrynow.com/news/home/1664963/pictures-crowds-enjoy-magherafelt-christmas-lights-switch-on.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Bellaghy singer-songwriter 'excited' to perform at iconic Nashville venue](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bellaghy singer-songwriter 'excited' to perform at iconic Nashville venue")](https://www.derrynow.com/news/home/1665210/bellaghy-singer-songwriter-excited-to-perform-at-iconic-nashville-venue.html)
-
-Lauren Craig is hoping her music will receive greater exposure in the US.
+[![Two men charged to court following Derry drug seizure](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men charged to court following Derry drug seizure")](https://www.derrynow.com/news/local-news/1665774/two-men-charged-to-court-following-derry-drug-seizure.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Bellaghy singer-songwriter 'excited' to perform at iconic Nashville venue](https://www.derrynow.com/news/home/1665210/bellaghy-singer-songwriter-excited-to-perform-at-iconic-nashville-venue.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Two men charged to court following Derry drug seizure](https://www.derrynow.com/news/local-news/1665774/two-men-charged-to-court-following-derry-drug-seizure.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry communities feel a mixed Christmas spirit over 'half dead' tree and a modern twist](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry communities feel a mixed Christmas spirit over 'half dead' tree and a modern twist")](https://www.derrynow.com/news/home/1664949/county-derry-communities-feel-a-mixed-christmas-spirit-over-half-dead-tree-and-a-modern-twist.html)
+[![County Derry teenagers shine bright on the catwalk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry teenagers shine bright on the catwalk")](https://www.derrynow.com/news/home/1665244/county-derry-teenagers-shine-bright-on-the-catwalk.html)
 
-[Home](https://www.derrynow.com/)
+Cara (left) and Hannah Rose (right) were crowned winners at the recent modelling competition.
 
-[Derry communities feel a mixed Christmas spirit over 'half dead' tree and a modern twist](https://www.derrynow.com/news/home/1664949/county-derry-communities-feel-a-mixed-christmas-spirit-over-half-dead-tree-and-a-modern-twist.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry teenagers shine bright on the catwalk](https://www.derrynow.com/news/home/1665244/county-derry-teenagers-shine-bright-on-the-catwalk.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for man charged with disorderly behavior and resisting police](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for man charged with disorderly behavior and resisting police")](https://www.derrynow.com/news/local-news/1666125/suspended-sentence-for-man-charged-with-disorderly-behavior-and-resisting-police.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for man charged with disorderly behavior and resisting police](https://www.derrynow.com/news/local-news/1666125/suspended-sentence-for-man-charged-with-disorderly-behavior-and-resisting-police.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year")](https://www.derrynow.com/news/home/1665982/derry-man-charged-with-terrorism-offences-linked-to-psni-data-breach-expected-to-go-on-trial-in-new-year.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year](https://www.derrynow.com/news/home/1665982/derry-man-charged-with-terrorism-offences-linked-to-psni-data-breach-expected-to-go-on-trial-in-new-year.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Seán Dolans GAC Annual Dinner Dance in The City Hotel](https://www.derrynow.com/story-telling/pictures---videos/1664007/in-pictures-sean-dolans-gac-annual-dinner-dance-in-the-city-hotel.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Mayor holds reception to recognise work of Western Trust Respiratory Team](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Mayor holds reception to recognise work of Western Trust Respiratory Team")](https://www.derrynow.com/story-telling/pictures---videos/1665901/pictures-mayor-holds-reception-to-recognise-work-of-western-trust-respiratory-team.html)
+
+PICTURES: Mayor holds reception to recognise work of Western Trust Respiratory Team
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[PICTURES: Mayor holds reception to recognise work of Western Trust Respiratory Team](https://www.derrynow.com/story-telling/pictures---videos/1665901/pictures-mayor-holds-reception-to-recognise-work-of-western-trust-respiratory-team.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PROPERTY: Ideal Derry home for first time buyers hits the market](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Ideal Derry home for first time buyers hits the market")](https://www.derrynow.com/news/property/1665235/property-ideal-derry-home-for-first-time-buyers-hits-the-market.html)
 
@@ -398,20 +414,6 @@ Multimedia
 
 [IN PICTURES: 46th anniversary commemoration for Derry Volunteer Patsy Duffy](https://www.derrynow.com/story-telling/pictures---videos/1664006/in-pictures-46th-anniversary-commemoration-for-derry-volunteer-patsy-duffy.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession")](https://www.derrynow.com/story-telling/pictures---videos/1662940/in-pictures-crowds-line-the-streets-for-derry-s-magical-christmas-lights-switch-on-procession.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Crowds line the streets for Derry's Magical Christmas Lights Switch On Procession](https://www.derrynow.com/story-telling/pictures---videos/1662940/in-pictures-crowds-line-the-streets-for-derry-s-magical-christmas-lights-switch-on-procession.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas")](https://www.derrynow.com/story-telling/pictures---videos/1662811/in-pictures-santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Santa thrills the crowds as Derry lights up for Christmas](https://www.derrynow.com/story-telling/pictures---videos/1662811/in-pictures-santa-thrills-the-crowds-as-derry-lights-up-for-christmas.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,51 +515,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Limavady murder accused refused compassionate leave to visit sister and newborn niece](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Limavady murder accused refused compassionate leave to visit sister and newborn niece")](https://www.derrynow.com/news/home/1666062/limavady-murder-accused-refused-compassionate-leave-to-visit-sister-and-newborn-niece.html)
+[![Late mother and close friend inspire Maghera native to record debut album](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Late mother and close friend inspire Maghera native to record debut album")](https://www.derrynow.com/news/home/1665837/late-mother-and-close-friend-inspire-maghera-native-to-record-debut-album.html)
+
+John Burns (left) accepts the first copy of his friend, John O'Connor's debut album.
 
 [Home](https://www.derrynow.com/)
 
-[Limavady murder accused refused compassionate leave to visit sister and newborn niece](https://www.derrynow.com/news/home/1666062/limavady-murder-accused-refused-compassionate-leave-to-visit-sister-and-newborn-niece.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Late mother and close friend inspire Maghera native to record debut album](https://www.derrynow.com/news/home/1665837/late-mother-and-close-friend-inspire-maghera-native-to-record-debut-album.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry pianist among artists to receive grants to create projects showcasing work for new audiences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry pianist among artists to receive grants to create projects showcasing work for new audiences")](https://www.derrynow.com/news/local-news/1665938/derry-pianist-among-artists-to-receive-grants-to-create-projects-showcasing-work-for-new-audiences.html)
+[![South Bank Square granted planning permission for  674 new homes in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "South Bank Square granted planning permission for  674 new homes in Derry")](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
+
+Aerial photograph of application site and H30 Zoning.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry pianist among artists to receive grants to create projects showcasing work for new audiences](https://www.derrynow.com/news/local-news/1665938/derry-pianist-among-artists-to-receive-grants-to-create-projects-showcasing-work-for-new-audiences.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[South Bank Square granted planning permission for  674 new homes in Derry](https://www.derrynow.com/news/local-news/1666525/south-bank-square-granted-planning-permission-for-674-new-homes-in-derry.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Two men charged with a series of drug offences remanded](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Two men charged with a series of drug offences remanded")](https://www.derrynow.com/news/local-news/1666040/two-men-charged-with-a-series-of-drug-offences-remanded.html)
+[![A day of festive celebration at Flowerfield Arts Centre](https://www.derrynow.com/resizer/165/93/true/2024_11_27/CCGBC_FLOWERFIELD_XMAS_1-1732722335923.jpg--.jpg?1732722337551 "A day of festive celebration at Flowerfield Arts Centre")](https://www.derrynow.com/news/home/1666346/a-day-of-festive-celebration-at-flowerfield-arts-centre.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two men charged with a series of drug offences remanded](https://www.derrynow.com/news/local-news/1666040/two-men-charged-with-a-series-of-drug-offences-remanded.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Dungiven prepares for big Christmas light switch on this weekend](https://www.derrynow.com/resizer/165/93/true/2024_11_27/sd-aspect-1511881169-close-up-of-illuminated-string-lights-during-christmas-at-night-1732704953434.jpg--.jpg?1732704953485 "Dungiven prepares for big Christmas light switch on this weekend")](https://www.derrynow.com/news/arts---entertainment/1665913/dungiven-prepares-for-big-christmas-light-switch-on-this-weekend.html)
-
-Dungiven's Christmas lights will be switched on this Saturday evening.
-
-[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
-
-[Dungiven prepares for big Christmas light switch on this weekend](https://www.derrynow.com/news/arts---entertainment/1665913/dungiven-prepares-for-big-christmas-light-switch-on-this-weekend.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year](https://www.derrynow.com/resizer/165/93/true/2022_04_08/COLERAINE_MAGS-1649420820959.jpg--.jpg?1649420821013 "Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year")](https://www.derrynow.com/news/home/1665982/derry-man-charged-with-terrorism-offences-linked-to-psni-data-breach-expected-to-go-on-trial-in-new-year.html)
+Local creative Fiona Shannon (Fiona Shannon Ceramics), and Amy Donaghey, Arts Marketing and Engagement Officer, pictured at the Christmas Craft Market.
 
 [Home](https://www.derrynow.com/)
 
-[Derry man charged with terrorism offences linked to PSNI data breach expected to go on trial in New Year](https://www.derrynow.com/news/home/1665982/derry-man-charged-with-terrorism-offences-linked-to-psni-data-breach-expected-to-go-on-trial-in-new-year.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[A day of festive celebration at Flowerfield Arts Centre](https://www.derrynow.com/news/home/1666346/a-day-of-festive-celebration-at-flowerfield-arts-centre.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Draperstown mental health charity calls for greater government support](https://www.derrynow.com/resizer/165/93/true/2024_11_27/istockphoto-883034378-612x612-1732702682591.jpg--.jpg?1732702682648 "Draperstown mental health charity calls for greater government support")](https://www.derrynow.com/news/home/1665850/draperstown-based-mental-health-charity-calls-for-greater-government-support.html)
+[![World Diabetes Day event informs 130 Limavady participants about healthy lifestyles](https://www.derrynow.com/resizer/165/93/true/2024_11_27/CDP_-_26-11-24_-_Page_9_lead_pic-1732721564304.jpeg--.jpeg?1732721564493 "World Diabetes Day event informs 130 Limavady participants about healthy lifestyles")](https://www.derrynow.com/news/home/1666331/world-diabetes-day-event-informs-130-limavady-participants-about-healthy-lifestyles.html)
 
-S.T.E.P.S' counselling service receives no statutory funding.
+Some of the speakers who attended the Limavady event.
 
 [Home](https://www.derrynow.com/)
 
-[Draperstown-based mental health charity calls for greater government support](https://www.derrynow.com/news/home/1665850/draperstown-based-mental-health-charity-calls-for-greater-government-support.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[World Diabetes Day event informs 130 Limavady participants about healthy lifestyles](https://www.derrynow.com/news/home/1666331/world-diabetes-day-event-informs-130-limavady-participants-about-healthy-lifestyles.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New stand at the Brandywell](https://www.derrynow.com/resizer/165/93/true/2024_11_27/467777652_1087985496674185_4041858053796289876_n-1732722697014.jpg--.jpg?1732722697086 "New stand at the Brandywell")](https://www.derrynow.com/poll/derry-sport/1666352/what-should-the-new-stand-at-the-ryan-mcbride-brandywell-be-named.html)
+
+New stand at the Brandywell
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[What should the new stand at the Ryan McBride Brandywell be named?](https://www.derrynow.com/poll/derry-sport/1666352/what-should-the-new-stand-at-the-ryan-mcbride-brandywell-be-named.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Former Limerick Stength & conditioning coach joins Derry backroom team](https://www.derrynow.com/resizer/165/93/true/2024_11_27/2583257-1732705681682_1732706777.jpg--.jpg?1732706777720 "Former Limerick Stength & conditioning coach joins Derry backroom team")](https://www.derrynow.com/news/derry-sport/1666337/former-limerick-strength-and-conditioning-coach-joins-derry-backroom-team.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Former Limerick strength and conditioning coach joins Derry backroom team](https://www.derrynow.com/news/derry-sport/1666337/former-limerick-strength-and-conditioning-coach-joins-derry-backroom-team.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
