@@ -138,11 +138,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 442: Apple Proposal to Reduce SSL Lifespan Updated](https://www.sectigo.com/resource-library/root-causes-442-apple-proposal-to-reduce-ssl-lifespan-updated)
 * [Root Causes 441: New White House Initiative Targets BGP](https://www.sectigo.com/resource-library/root-causes-441-new-white-house-initiative-targets-bgp)
 * [Root Causes 440: Public Key Directories](https://www.sectigo.com/resource-library/root-causes-440-public-key-directories)
 * [Root Causes 439: PQC Onramp Narrowed Down to 15 Candidates](https://www.sectigo.com/resource-library/root-causes-439-pqc-onramp-narrowed-down-to-15-candidates)
 * [Root Causes 438: PQC Is an Existential Requirement](https://www.sectigo.com/resource-library/root-causes-438-pqc-is-an-existential-requirement)
-* [Root Causes 437: Don't Blame the Linter](https://www.sectigo.com/resource-library/root-causes-437-dont-blame-the-linter)
 
 The total economic impact™ of Sectigo Certificate Manager
 
@@ -236,11 +236,11 @@ Login
     * [Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 442: Apple Proposal to Reduce SSL Lifespan Updated](https://www.sectigo.com/resource-library/root-causes-442-apple-proposal-to-reduce-ssl-lifespan-updated)
     * [Root Causes 441: New White House Initiative Targets BGP](https://www.sectigo.com/resource-library/root-causes-441-new-white-house-initiative-targets-bgp)
     * [Root Causes 440: Public Key Directories](https://www.sectigo.com/resource-library/root-causes-440-public-key-directories)
     * [Root Causes 439: PQC Onramp Narrowed Down to 15 Candidates](https://www.sectigo.com/resource-library/root-causes-439-pqc-onramp-narrowed-down-to-15-candidates)
     * [Root Causes 438: PQC Is an Existential Requirement](https://www.sectigo.com/resource-library/root-causes-438-pqc-is-an-existential-requirement)
-    * [Root Causes 437: Don't Blame the Linter](https://www.sectigo.com/resource-library/root-causes-437-dont-blame-the-linter)
     
 * Company
     
