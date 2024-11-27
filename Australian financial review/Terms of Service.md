@@ -293,43 +293,46 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![Someone’s gotta do it - our intrepid drinks editor Max Allen has chosen his top drops for the year. ](https://static.ffx.io/images/$zoom_0.1609%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/fb72db37639d6b2a00a6885cb60990d1ff7ccf8c)](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-top-20-drinks-of-the-year-20240927-p5kdzl)
+[![Jeweller Bibi van der Velden takes inspiration from everywhere - except, perhaps surprisingly, from jewellery itself.](https://static.ffx.io/images/$zoom_0.4149%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_867%2C$y_337/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/88bc0136bcdde6a3addba68e6e3e585f08bff1d8)](https://www.afr.com/life-and-luxury/fashion-and-style/mammoth-tusks-and-jellyfish-how-to-bring-jewellery-alive-20241016-p5kiw0)
 
-### [Max Allen’s top 20 drinks of the year](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-top-20-drinks-of-the-year-20240927-p5kdzl)
+### [Mammoth tusks and jellyfish: how to bring jewellery ‘alive’](https://www.afr.com/life-and-luxury/fashion-and-style/mammoth-tusks-and-jellyfish-how-to-bring-jewellery-alive-20241016-p5kiw0)
 
-* Max Allen
+* 56 mins ago
+* Lauren Sams
 
-* ### [The jewel house that’s stuck in the 70s – for good reason](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewel-house-that-s-stuck-in-the-70s-for-good-reason-20241104-p5knlo)
+* ### [Cult Tasmanian whisky Sullivans Cove has a stately new home](https://www.afr.com/life-and-luxury/food-and-wine/cult-tasmanian-whisky-sullivans-cove-has-a-stately-new-home-20240711-p5jszk)
     
-* ### [The hobby that taught this jeweller to slow down](https://www.afr.com/life-and-luxury/fashion-and-style/the-jeweller-who-spends-her-downtime-searching-for-sharks-20241023-p5kkjw)
+* ### [Max Allen’s top 20 drinks of the year](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-top-20-drinks-of-the-year-20240927-p5kdzl)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![VFMC CEO Kate Galvin.](https://static.ffx.io/images/$zoom_1.0024%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_2048%2C$y_177/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/7c9ed2fb1f586df0f078478a7d7085b903aa45ea)](https://www.afr.com/work-and-careers/workplace/how-a-jibe-from-this-ceo-s-teenage-daughter-triggered-a-career-rethink-20241111-p5kplc)
+[![ ](https://static.ffx.io/images/$zoom_1.0996%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_87/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/043aefebc3ecaadce253317679c9e27b8f9877e2)](https://www.afr.com/work-and-careers/workplace/why-the-backlash-from-men-is-threatening-gender-targets-20241125-p5ktbc)
 
-### [How a jibe from this CEO’s teenage daughter triggered a career rethink](https://www.afr.com/work-and-careers/workplace/how-a-jibe-from-this-ceo-s-teenage-daughter-triggered-a-career-rethink-20241111-p5kplc)
+### [Why the backlash from men is threatening gender targets](https://www.afr.com/work-and-careers/workplace/why-the-backlash-from-men-is-threatening-gender-targets-20241125-p5ktbc)
 
-* Patrick Durkin
+* 56 mins ago
+* Sally Patten
 
-* ### [How these top female Amazon execs are conquering Australia](https://www.afr.com/work-and-careers/leaders/how-these-top-female-amazon-execs-are-conquering-australia-20241112-p5kq2i)
+* ### [How Chris Lucas came to know the secrets of the rich and powerful](https://www.afr.com/work-and-careers/workplace/how-chris-lucas-came-to-know-the-secrets-of-the-rich-and-powerful-20241113-p5kqeo)
     
-* ### [Social cohesion hits record lows, support for immigration slumps](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
+* ### [How a jibe from this CEO’s teenage daughter triggered a career rethink](https://www.afr.com/work-and-careers/workplace/how-a-jibe-from-this-ceo-s-teenage-daughter-triggered-a-career-rethink-20241111-p5kplc)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![The panettone from Baker Bleu.](https://static.ffx.io/images/$zoom_0.1495%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_209/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ba2b2c5e20e13f71b195aad7c90d1c970a86ee09)](https://www.afr.com/life-and-luxury/fashion-and-style/seriously-chic-picks-for-the-silly-season-20241118-p5krko)
+[![ ](https://static.ffx.io/images/$zoom_0.7062%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_487/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/809bed85ebac0606c55da8ee6c82476da6ea50df)](https://www.afr.com/life-and-luxury/health-and-wellness/money-lifestyle-hair-why-this-executive-was-drawn-to-tennis-20241119-p5krqc)
 
-### [Seriously chic picks for the silly season](https://www.afr.com/life-and-luxury/fashion-and-style/seriously-chic-picks-for-the-silly-season-20241118-p5krko)
+### [Money, lifestyle, hair: why this executive was drawn to tennis](https://www.afr.com/life-and-luxury/health-and-wellness/money-lifestyle-hair-why-this-executive-was-drawn-to-tennis-20241119-p5krqc)
 
-* Eugenie Kelly
+* 56 mins ago
+* Life & Leisure
 
-* ### [The secrets to (male) supermodel style](https://www.afr.com/life-and-luxury/fashion-and-style/the-secrets-to-male-supermodel-style-20241111-p5kplt)
+* ### [The fiction lover’s guide to Christmas gifting](https://www.afr.com/life-and-luxury/arts-and-culture/the-fiction-lover-s-guide-to-christmas-gifting-20241023-p5kkt3)
     
-* ### [Would you eat bear salami?](https://www.afr.com/life-and-luxury/travel/would-you-eat-bear-salami-20240813-p5k249)
+* ### [Can a swimsuit really be one-size-fits-all?](https://www.afr.com/life-and-luxury/fashion-and-style/can-a-swimsuit-really-be-one-size-fits-all-20241009-p5kgyo)
     
 
 [Rich List](https://www.afr.com/rich-list)
