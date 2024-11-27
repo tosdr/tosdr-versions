@@ -31,7 +31,13 @@ Update
 
 Shipping & taxes calculated at checkout
 
-[LAST CHANCE Veterans Day Sale, Get 25% OFF with Code VET25
+[**Free shipping on orders $70+ (USA Only)**](https://tuttletwins.store/collections/shop-all)
+
+[**Early Black Friday Sale - Save up to 70%**](https://tuttletwins.store/collections/shop-all)
+
+   
+
+[ENDING SOON Early Black Friday Deals - Save up to 70%
 
 DAYS
 
@@ -45,7 +51,7 @@ MINS
 
 :
 
-SECS](https://shop.angel.com/collections/veterans-day-sale-25-off-with-code-vet25)
+SECS](https://tuttletwins.store/collections/black-friday-early-preview)
 
     
 
