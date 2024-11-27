@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [Google Prompting Essentials Course Review](https://www.classcentral.com/report/review-google-prompting-essentials/)
-2. [\[2024\] 2400+ Free SWAYAM + NPTEL Courses](https://www.classcentral.com/report/swayam-moocs-course-list/)
-3. [\[2024\] 1000+ Free Google Certificates and Badges](https://www.classcentral.com/report/free-google-certifications/)
-4. [\[2024\] 200+ Free Courses on Mindfulness & Happiness](https://www.classcentral.com/report/mental-health-moocs/)
-5. [A Complete Guide to Virtual Team Building Activities](https://www.classcentral.com/report/virtual-team-building-activities/)
+1. [262K Courses, 833M Enrollments: Breaking Down Udemy’s Massive Catalog](https://www.classcentral.com/report/udemy-by-the-numbers/)
+2. [\[2024\] Massive List of Thousands of Free Certificates and Badges](https://www.classcentral.com/report/free-certificates/)
+3. [Google Prompting Essentials Course Review](https://www.classcentral.com/report/review-google-prompting-essentials/)
+4. [\[2024\] 2400+ Free SWAYAM + NPTEL Courses](https://www.classcentral.com/report/swayam-moocs-course-list/)
+5. [\[2024\] 1000+ Free Google Certificates and Badges](https://www.classcentral.com/report/free-google-certifications/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. English
+1. excel
     
-2. law
+2. project management
     
-3. French
+3. graphic design
     
 
 Popular subjects
 
-1. [Artificial Intelligence
+1. [AI Engineering
     
-    14,064 courses](https://www.classcentral.com/subject/ai)
-2. [Public Health
+    58 courses](https://www.classcentral.com/subject/ai-engineering)
+2. [Artificial Intelligence
     
-    2,523 courses](https://www.classcentral.com/subject/public-health)
-3. [Software Development
+    14,068 courses](https://www.classcentral.com/subject/ai)
+3. [Digital Marketing
     
-    9,954 courses](https://www.classcentral.com/subject/software-development)
+    6,286 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [Learning How To Learn for Youth
+1. [Sheep in the Land of Fire and Ice
     
-    Arizona State University](https://www.classcentral.com/course/learning-how-to-learn-youth-12569)
-2. [Preparing to Manage Human Resources
+    University of Iceland](https://www.classcentral.com/course/environmental-science-the-university-of-iceland-s-13245)
+2. [Digital Marketing
     
-    University of Minnesota](https://www.classcentral.com/course/managing-human-resources-5462)
-3. [Ableton Live Course: Sound Production for Musicians and Artists
+    Panjab University Chandigarh](https://www.classcentral.com/course/swayam-digital-marketing-14006)
+3. [Modern Product Leadership
     
-    California Institute of the Arts](https://www.classcentral.com/course/kadenze-ableton-live-course-sound-production-for-musicians-and-artists-3765)
+    University System of Maryland](https://www.classcentral.com/course/product-management-the-university-of-maryland-col-19102)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
