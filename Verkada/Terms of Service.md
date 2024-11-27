@@ -100,6 +100,7 @@ Verkada, Inc. 406 E. 3rd Ave, San Mateo, CA 94401
 * Company
     
     * [About](https://www.verkada.com/about/)
+    * [Blog](https://www.verkada.com/blog/)
     * [Platform SLA](https://www.verkada.com/support/sla/)
     * [Careers](https://www.verkada.com/careers/)
     * [Trust](https://www.verkada.com/trust/)
@@ -109,10 +110,26 @@ Verkada, Inc. 406 E. 3rd Ave, San Mateo, CA 94401
     * [VerkadaOne](https://www.verkada.com/verkada-one/)
     * [Brand Guidelines](https://brand.verkada.com/)
     
+* Products
+    
+    * [Security Cameras](https://www.verkada.com/security-cameras/)
+    * [Bullet Cameras](https://www.verkada.com/security-cameras/bullet)
+    * [Dome Cameras](https://www.verkada.com/security-cameras/dome)
+    * [Fisheye Cameras](https://www.verkada.com/security-cameras/fisheye)
+    * [PTZ Cameras](https://www.verkada.com/security-cameras/ptz)
+    * [LPR Cameras](https://www.verkada.com/security-cameras/lpr)
+    * [Alarm Systems](https://www.verkada.com/alarms)
+    * [Access Control](https://www.verkada.com/access-control)
+    * [Air Quality Monitoring](https://www.verkada.com/air-quality/sensors)
+    * [Intercoms](https://www.verkada.com/intercom)
+    * [Vape Detectors](https://www.verkada.com/solutions/vape-detection/)
+    * [Visitor Management Systems](https://www.verkada.com/workplace/guest-visitor-management-system/)
+    
 * Support
     
     * [Contact](https://www.verkada.com/contact/)
     * [Support](https://www.verkada.com/support/)
+    * [Find Local Installers](https://www.verkada.com/installation/)
     * [VCE Program](https://www.verkada.com/partners/trainings/)
     * [Product Updates](https://www.verkada.com/updates/)
     * [Real-Time Support Status](https://www.verkada.com/support-stats/)
