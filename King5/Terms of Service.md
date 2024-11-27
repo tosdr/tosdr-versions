@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7b3f93a6-6e6b-4f98-8134-588f36953a25/20241024T003157/7b3f93a6-6e6b-4f98-8134-588f36953a25_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7b3f93a6-6e6b-4f98-8134-588f36953a25/20241024T003157/7b3f93a6-6e6b-4f98-8134-588f36953a25_360x203.jpg)](https://www.king5.com/article/news/crime/man-charged-kidnapping-pregnant-auburn-woman-gunpoint-mexico/281-0624306e-66ed-42ac-b2f2-dcee4b8e777e)
+    *  [![](https://media.king5.com/assets/KING/images/2c130e42-8085-4166-8db4-1133ffdeefc0/20241127T014628/2c130e42-8085-4166-8db4-1133ffdeefc0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2c130e42-8085-4166-8db4-1133ffdeefc0/20241127T014628/2c130e42-8085-4166-8db4-1133ffdeefc0_360x203.jpg)](https://www.king5.com/article/news/local/data-breaches-surge-record-levels-washington-attorney-general-policy-changes/281-aec77ae8-5443-42d3-b241-335af93c4180)
         
-        #### [Federal Way man accused of kidnapping Auburn woman at gunpoint, taking her to Mexico](https://www.king5.com/article/news/crime/man-charged-kidnapping-pregnant-auburn-woman-gunpoint-mexico/281-0624306e-66ed-42ac-b2f2-dcee4b8e777e)
+        #### [Data breaches surge to record levels in Washington state, Attorney General calls for policy changes](https://www.king5.com/article/news/local/data-breaches-surge-record-levels-washington-attorney-general-policy-changes/281-aec77ae8-5443-42d3-b241-335af93c4180)
         
-    *  [![](https://media.king5.com/assets/KING/images/dd71d64f-97b0-4ed1-960c-5f1167b50eca/20241126T132044/dd71d64f-97b0-4ed1-960c-5f1167b50eca_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dd71d64f-97b0-4ed1-960c-5f1167b50eca/20241126T132044/dd71d64f-97b0-4ed1-960c-5f1167b50eca_360x203.jpg)](https://www.king5.com/article/news/politics/washington-2024-presidential-election-votes/281-d68d32d6-781a-4b7d-8ca5-2491c7790d9b)
+    *  [![](https://media.king5.com/assets/KING/images/1bbd0790-4129-4f35-87e7-582f5b5b1e24/20241127T013854/1bbd0790-4129-4f35-87e7-582f5b5b1e24_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1bbd0790-4129-4f35-87e7-582f5b5b1e24/20241127T013854/1bbd0790-4129-4f35-87e7-582f5b5b1e24_360x203.jpg)](https://www.king5.com/article/news/local/disaster/fallen-tree-splits-kingston-family-home-half/281-86bf6721-5528-4734-bc59-87a458e07bd9)
         
-        #### [Washington did swing right in the 2024 presidential election after all](https://www.king5.com/article/news/politics/washington-2024-presidential-election-votes/281-d68d32d6-781a-4b7d-8ca5-2491c7790d9b)
+        #### ['We are holding each other tighter': Fallen tree splits Kingston family home in half](https://www.king5.com/article/news/local/disaster/fallen-tree-splits-kingston-family-home-half/281-86bf6721-5528-4734-bc59-87a458e07bd9)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8bf30405-d5cd-4a12-91e4-1d8ee8d68d41/20241126T125007/8bf30405-d5cd-4a12-91e4-1d8ee8d68d41_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8bf30405-d5cd-4a12-91e4-1d8ee8d68d41/20241126T125007/8bf30405-d5cd-4a12-91e4-1d8ee8d68d41_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/d36acd8d-c23a-49c7-91d3-b907b5a9900b/20241127T013807/d36acd8d-c23a-49c7-91d3-b907b5a9900b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d36acd8d-c23a-49c7-91d3-b907b5a9900b/20241127T013807/d36acd8d-c23a-49c7-91d3-b907b5a9900b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-47°
+45°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
