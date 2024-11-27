@@ -89,9 +89,9 @@ Most Read
     
 2. 2. [NASA awards SpaceX a contract for one of the few things it hasn’t done yet](https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/)
     
-3. 3. [Nvidia’s new AI audio model can synthesize sounds that have never existed](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/)
+3. 3. [Are any of Apple’s official MagSafe accessories worth buying?](https://arstechnica.com/gadgets/2024/11/are-any-of-apples-official-magsafe-accessories-worth-buying/)
     
-4. 4. [Are any of Apple’s official MagSafe accessories worth buying?](https://arstechnica.com/gadgets/2024/11/are-any-of-apples-official-magsafe-accessories-worth-buying/)
+4. 4. [Nvidia’s new AI audio model can synthesize sounds that have never existed](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/)
     
 5. 5. [Workers demand more transparency after Intel secures $8B CHIPS funding](https://arstechnica.com/tech-policy/2024/11/workers-demand-more-transparency-after-intel-secures-8b-chips-funding/)
     
