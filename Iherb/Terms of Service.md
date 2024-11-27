@@ -874,8 +874,6 @@ Help With
 
 [ALLMAX](https://www.iherb.com/c/allmax)
 
-SALE
-
 [Beauty of Joseon](https://www.iherb.com/c/beauty-of-joseon)
 
 [BioGaia](https://www.iherb.com/c/biogaia)
@@ -883,8 +881,6 @@ SALE
 [Bluebonnet Nutrition](https://www.iherb.com/c/bluebonnet-nutrition)
 
 [Bob's Red Mill](https://www.iherb.com/c/bobs-red-mill)
-
-SALE
 
 [Carlson](https://www.iherb.com/c/carlson)
 
@@ -912,19 +908,21 @@ SALE
 
 [Irwin Naturals](https://www.iherb.com/c/irwin-naturals)
 
-SALE
-
 [Jarrow Formulas](https://www.iherb.com/c/jarrow-formulas)
 
 [K-Beauty](https://www.iherb.com/c/k-beauty)
 
 [KAL](https://www.iherb.com/c/kal)
 
+SALE
+
 [Life Extension](https://www.iherb.com/c/life-extension)
 
 [Life-flo](https://www.iherb.com/c/life-flo)
 
 [MaryRuth's](https://www.iherb.com/c/maryruths)
+
+SALE
 
 [MegaFood](https://www.iherb.com/c/megafood)
 
@@ -948,8 +946,6 @@ SALE
 
 [NeoCell](https://www.iherb.com/c/neocell)
 
-SALE
-
 [Nordic Naturals](https://www.iherb.com/c/nordic-naturals)
 
 [NOW Foods](https://www.iherb.com/c/now-foods)
@@ -969,6 +965,8 @@ SALE
 [SheaMoisture](https://www.iherb.com/c/sheamoisture)
 
 [Simply Organic](https://www.iherb.com/c/simply-organic)
+
+SALE
 
 [Solaray](https://www.iherb.com/c/solaray)
 
@@ -1016,15 +1014,15 @@ iHerb Brands
 
 Brands of the Week
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/NTH/1689797354.png)](https://www.iherb.com/c/nature-s-truth)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/CAL/1656433232.png)](https://www.iherb.com/c/kal)
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/NEL/1658357613.png)](https://www.iherb.com/c/neocell)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/TMR/1652115544.png)](https://www.iherb.com/c/trace)
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/BAC/1661532447.png)](https://www.iherb.com/c/bach)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/MRO/1664317257.png)](https://www.iherb.com/c/maryruths)
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/SUW/1647034095.png)](https://www.iherb.com/c/sunwarrior)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/NAP/1652391342.png)](https://www.iherb.com/c/naturesplus)
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/IRW/1652231840.png)](https://www.iherb.com/c/irwin-naturals)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/CYM/1715803521.png)](https://www.iherb.com/c/cymbiotika)
 
 [Shop all](https://www.iherb.com/c/brands-of-the-week)
 
@@ -1168,11 +1166,11 @@ Wellness
 
 More
 
-[22% Off Baby & Kids
+[22% Off Digestive Support 
 
  
 
-‌‌Shop Now‌‌](https://www.iherb.com/c/baby-kids?pcode=22BABY24)
+‌‌Shop Now‌‌](https://www.iherb.com/c/digestive-support?pcode=22DIGEST24)
 
       
 
