@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Moana 2** | Flicks](https://video.nhpbs.org/video/moana-2-bmpk9a?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"Breakdown in Maine" - Preview** | FRONTLINE](https://video.nhpbs.org/video/breakdown-in-maine-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer Minted** | Independent Lens](https://video.nhpbs.org/video/trailer-minted-oowqv7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**5 Facts about Henry Mancini** | Great Performances](https://video.nhpbs.org/video/5-facts-about-henry-mancini-stw4m1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Can the Israeli-Hezbollah cease-fire last? Experts weigh in** | PBS News Hour](https://video.nhpbs.org/video/ceasefire-deal-1732659810?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**America's Obesity Crisis: Dr. Explains Problem Plaguing 75% of U.S. Adults** | Amanpour and Company](https://video.nhpbs.org/video/americas-obesity-crisis-dr-explains-problem-plaguing-75-of-us-adults-7oaqma?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Building Stuff: Change It!** | NOVA](https://video.nhpbs.org/video/building-stuff-change-it-p6ydi1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Season 5 Official Preview** | All Creatures Great and Small](https://video.nhpbs.org/video/season-5-official-preview-fhagmb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Appraisal: Enamel Turkey Brooch, ca. 1940** | Antiques Roadshow](https://video.nhpbs.org/video/appraisal-enamel-turkey-brooch-ca-1940-ljnnzy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**November 25, 2024** | Amanpour and Company](https://video.nhpbs.org/video/november-25-2024-vlazpq?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Find Zelda's Giant Rupee December 9 - December 15** | Star Gazers](https://video.nhpbs.org/video/find-zeldas-giant-rupee-december-9-december-15-clb9ai?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
