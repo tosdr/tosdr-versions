@@ -12,7 +12,7 @@ Choose your digital plan
 
 Get the big picture on what’s happening in Japan, Asia and the world.
 
-[![](/sub/black-friday-sale-2024/assets/img/bnr_sub_01_pc.png)![](/sub/black-friday-sale-2024/assets/img/bnr_all_01_sp.png)](https://members.japantimes.co.jp/sub/black-friday-sale-2024/?utm_source=jto&utm_medium=sub&utm_campaign=bf_sale2024)
+[![](/sub/black-friday-sale-2024/assets/img/bnr_sub_02_pc.png)![](/sub/black-friday-sale-2024/assets/img/bnr_all_02_sp.png)](https://members.japantimes.co.jp/sub/black-friday-sale-2024/?utm_source=jto&utm_medium=sub&utm_campaign=bf_sale2024)
 
 * Pay in USD
 * Pay in JPY
