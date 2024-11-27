@@ -38,43 +38,43 @@ display information
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
+EXTRA 10% OFF SALE ON THE SDMN APP
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
+EXTRA 10% OFF SALE ON THE SDMN APP
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
+EXTRA 10% OFF SALE ON THE SDMN APP
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
+EXTRA 10% OFF SALE ON THE SDMN APP
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
+EXTRA 10% OFF SALE ON THE SDMN APP
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
+EXTRA 10% OFF SALE ON THE SDMN APP
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
+EXTRA 10% OFF SALE ON THE SDMN APP
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
+EXTRA 10% OFF SALE ON THE SDMN APP
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
+EXTRA 10% OFF SALE ON THE SDMN APP
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
-[EXPRESS INTERNATIONAL SHIPPING](https://www.sidemenclothing.com/collections/clothing)
+EXTRA 10% OFF SALE ON THE SDMN APP
 
 Open navigation menu [Open search](https://www.sidemenclothing.com/search)
 
