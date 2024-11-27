@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/)
+    [](https://player.me/playstation-icon-shuhei-yoshida-is-leaving-sony/)
     
-    ![Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![PlayStation Icon Shuhei Yoshida Is Leaving Sony After 31 Years of Service: A Tribute to His Successful Career](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/)
+    [](https://player.me/playstation-icon-shuhei-yoshida-is-leaving-sony/)
     
-    ![Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![PlayStation Icon Shuhei Yoshida Is Leaving Sony After 31 Years of Service: A Tribute to His Successful Career](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![PlayStation Icon Shuhei Yoshida Is Leaving Sony After 31 Years of Service: A Tribute to His Successful Career](https://player.me/wp-content/uploads/2024/11/PlayStation-Icon-Shuhei-Yoshida-Is-Leaving-Sony-After-31-Years-of-Service.png)
+
+[PlayStation Icon Shuhei Yoshida Is Leaving Sony After 31 Years of Service: A Tribute to His Successful Career](https://player.me/playstation-icon-shuhei-yoshida-is-leaving-sony/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 27, 2024/
+
+After an illustrious 31-year career with PlayStation, Shuhei Yoshida, the beloved Head of Indies Initiative and former President of PlayStation…
+
+[Read More](https://player.me/playstation-icon-shuhei-yoshida-is-leaving-sony/)
+
+![Huawei’s New Mate 70 is the ‘Most Powerful Mate Phone Ever’: Here’s Everything You Need to Know](https://player.me/wp-content/uploads/2024/11/Huaweis-New-Mate-70.png)
+
+[Huawei’s New Mate 70 is the ‘Most Powerful Mate Phone Ever’: Here’s Everything You Need to Know](https://player.me/everything-you-need-to-know-about-the-new-huawei-mate-70/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 27, 2024/
+
+On Tuesday, Huawei unveiled the Mate 70 series, marking a significant milestone in its journey toward technological independence. The Mate…
+
+[Read More](https://player.me/everything-you-need-to-know-about-the-new-huawei-mate-70/)
+
 ![Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](https://player.me/wp-content/uploads/2024/11/Player_me-2-1.png)
 
 [Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/)
@@ -218,32 +244,6 @@ November 22, 2024/
 The wait is over for fans of the classic indie shoot ’em up Platypus! After over twenty years, the cult-favorite…
 
 [Read More](https://player.me/platypus-reclayed-is-launching-in-2025/)
-
-![Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026](https://player.me/wp-content/uploads/2024/11/Stardew-Valley-Concert-Symphony-of-Seasons-Runs-From-2025-to-2026.png)
-
-[Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026](https://player.me/stardew-valley-concert-symphony-of-seasons-returns/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 21, 2024/
-
-Following the overwhelming success of its Stardew Valley Concert series, Festival of Seasons, Stardew Valley is again bringing its enchanting…
-
-[Read More](https://player.me/stardew-valley-concert-symphony-of-seasons-returns/)
-
-![Microsoft Ignite 2024 Complete Guide: Windows 365 Link, Copilot Actions, and Everything You Need to Know](https://player.me/wp-content/uploads/2024/11/Microsoft-Ignite-2024-Complete-Guide.png)
-
-[Microsoft Ignite 2024 Complete Guide: Windows 365 Link, Copilot Actions, and Everything You Need to Know](https://player.me/microsoft-ignite-2024-complete-guide/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 21, 2024/
-
-The annual Microsoft Ignite 2024 conference, held on November 19 in Chicago, delivered a series of groundbreaking announcements aimed at…
-
-[Read More](https://player.me/microsoft-ignite-2024-complete-guide/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![PlayStation Icon Shuhei Yoshida Is Leaving Sony After 31 Years of Service: A Tribute to His Successful Career](https://player.me/wp-content/uploads/2024/11/PlayStation-Icon-Shuhei-Yoshida-Is-Leaving-Sony-After-31-Years-of-Service.png)
+
+[PlayStation Icon Shuhei Yoshida Is Leaving Sony After 31 Years of Service: A Tribute to His Successful Career](https://player.me/playstation-icon-shuhei-yoshida-is-leaving-sony/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 27, 2024/
+
+After an illustrious 31-year career with PlayStation, Shuhei Yoshida, the beloved Head of Indies Initiative and former President of PlayStation…
+
+[Read More](https://player.me/playstation-icon-shuhei-yoshida-is-leaving-sony/)
+
+![Huawei’s New Mate 70 is the ‘Most Powerful Mate Phone Ever’: Here’s Everything You Need to Know](https://player.me/wp-content/uploads/2024/11/Huaweis-New-Mate-70.png)
+
+[Huawei’s New Mate 70 is the ‘Most Powerful Mate Phone Ever’: Here’s Everything You Need to Know](https://player.me/everything-you-need-to-know-about-the-new-huawei-mate-70/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 27, 2024/
+
+On Tuesday, Huawei unveiled the Mate 70 series, marking a significant milestone in its journey toward technological independence. The Mate…
+
+[Read More](https://player.me/everything-you-need-to-know-about-the-new-huawei-mate-70/)
+
 ![Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](https://player.me/wp-content/uploads/2024/11/Player_me-2-1.png)
 
 [Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/)
@@ -379,32 +405,6 @@ November 21, 2024/
 The annual Microsoft Ignite 2024 conference, held on November 19 in Chicago, delivered a series of groundbreaking announcements aimed at…
 
 [Read More](https://player.me/microsoft-ignite-2024-complete-guide/)
-
-![Farming Simulator 25: Ranking the Best Crops to Earn Quick Money](https://player.me/wp-content/uploads/2024/11/Farming-Simulator-25.png)
-
-[Farming Simulator 25: Ranking the Best Crops to Earn Quick Money](https://player.me/ranking-the-best-crops-in-farming-simulator-25/)
-
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-November 20, 2024/
-
-In just one week since its release, Farming Simulator 25 is already proving to be a monumental success for GIANTS…
-
-[Read More](https://player.me/ranking-the-best-crops-in-farming-simulator-25/)
-
-![Lorelei and the Laser Eyes PS5 and PS4 Release Date Set on December 3](https://player.me/wp-content/uploads/2024/11/Lorelei-and-the-Laser-Eyes-PS5-and-PS4-Release-Date-Set-on-December-3.png)
-
-[Lorelei and the Laser Eyes PS5 and PS4 Release Date Set on December 3](https://player.me/lorelei-and-the-laser-eyes-playstation-release-date/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 20, 2024/
-
-After months of anticipation, Lorelei and the Laser Eyes, one of 2024’s most critically acclaimed indie games, is set to…
-
-[Read More](https://player.me/lorelei-and-the-laser-eyes-playstation-release-date/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -679,6 +679,19 @@ TECHNOLOGY
 * All Post
 * TECHNOLOGY
 
+![Huawei’s New Mate 70 is the ‘Most Powerful Mate Phone Ever’: Here’s Everything You Need to Know](https://player.me/wp-content/uploads/2024/11/Huaweis-New-Mate-70.png)
+
+[Huawei’s New Mate 70 is the ‘Most Powerful Mate Phone Ever’: Here’s Everything You Need to Know](https://player.me/everything-you-need-to-know-about-the-new-huawei-mate-70/)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 27, 2024/
+
+On Tuesday, Huawei unveiled the Mate 70 series, marking a significant milestone in its journey toward technological independence. The Mate…
+
+[Read More](https://player.me/everything-you-need-to-know-about-the-new-huawei-mate-70/)
+
 ![Microsoft Ignite 2024 Complete Guide: Windows 365 Link, Copilot Actions, and Everything You Need to Know](https://player.me/wp-content/uploads/2024/11/Microsoft-Ignite-2024-Complete-Guide.png)
 
 [Microsoft Ignite 2024 Complete Guide: Windows 365 Link, Copilot Actions, and Everything You Need to Know](https://player.me/microsoft-ignite-2024-complete-guide/)
@@ -796,19 +809,6 @@ After a short delay due to a medical emergency, Tesla CEO Elon Musk revealed the
 
 [Read More](https://player.me/we-robot-tesla-robotaxi-event-complete-guide/)
 
-![Apple at Crossroads: Balancing Profits and Politics](https://player.me/wp-content/uploads/2024/10/Apple-at-Crossroads_-Balancing-Profits-and-Politics-1.png)
-
-[Apple at Crossroads: Balancing Profits and Politics](https://player.me/apple-at-crossroads-balancing-profits-and-politics/)
-
-
---------------------------------------------------------------------------------------------------------------------------------
-
-October 4, 2024/
-
-Diversify. This was the motto for Apple after the US-China trade ties soured and when a Foxconn factory closed in…
-
-[Read More](https://player.me/apple-at-crossroads-balancing-profits-and-politics/)
-
 [Older Posts](https://player.me/page/2/)Newer Posts
 
 [![Follow Us on Google News](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDgyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)](https://news.google.com/publications/CAAqBwgKMN65xgswgdXdAw?hl=en-US&gl=US&ceid=US%3Aen)
@@ -816,6 +816,18 @@ Diversify. This was the motto for Apple after the US-China trade ties soured and
 ![player.me](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDMwMCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
 
 player.me
+
+[](https://player.me/playstation-icon-shuhei-yoshida-is-leaving-sony/ "PlayStation Icon Shuhei Yoshida Is Leaving Sony After 31 Years of Service: A Tribute to His Successful Career")
+
+[PlayStation Icon Shuhei Yoshida Is Leaving Sony After 31 Years of Service: A Tribute to His Successful Career](https://player.me/playstation-icon-shuhei-yoshida-is-leaving-sony/)
+
+November 27, 2024
+
+[](https://player.me/everything-you-need-to-know-about-the-new-huawei-mate-70/ "Huawei’s New Mate 70 is the ‘Most Powerful Mate Phone Ever’: Here’s Everything You Need to Know")
+
+[Huawei’s New Mate 70 is the ‘Most Powerful Mate Phone Ever’: Here’s Everything You Need to Know](https://player.me/everything-you-need-to-know-about-the-new-huawei-mate-70/)
+
+November 27, 2024
 
 [](https://player.me/frontiers-of-pandora-dlc-delayed-until-november-28/ "Avatar: Frontiers of Pandora DLC, Secrets of the Spires, Delayed Until November 28 Due to a Critical Issue")
 
@@ -853,22 +865,10 @@ November 22, 2024
 
 November 22, 2024
 
-[](https://player.me/stardew-valley-concert-symphony-of-seasons-returns/ "Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026")
-
-[Stardew Valley Concert: Symphony of Seasons Runs From 2025 to 2026](https://player.me/stardew-valley-concert-symphony-of-seasons-returns/)
-
-November 21, 2024
-
-[](https://player.me/microsoft-ignite-2024-complete-guide/ "Microsoft Ignite 2024 Complete Guide: Windows 365 Link, Copilot Actions, and Everything You Need to Know")
-
-[Microsoft Ignite 2024 Complete Guide: Windows 365 Link, Copilot Actions, and Everything You Need to Know](https://player.me/microsoft-ignite-2024-complete-guide/)
-
-November 21, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 583,920 times, 16 visit(s) today
+Visited 583,985 times, 81 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
