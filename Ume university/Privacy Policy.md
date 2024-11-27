@@ -5,7 +5,7 @@
 * umu.se
 * [For students](https://www.umu.se/en/student/ "Student website")
 * [Library](https://www.umu.se/en/library/ "Library website")
-* [For staff](https://umeauniversity.sharepoint.com/sites/aurora/SitePages/en/Home.aspx "Staff website Aurora")
+* [For staff](https://umeauniversity.sharepoint.com/sites/aktum/SitePages/en/Home.aspx "Staff website Aktum")
 
 Login
 
