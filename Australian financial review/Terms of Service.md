@@ -297,7 +297,6 @@ Advertise
 
 ### [Max Allen’s top 20 drinks of the year](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-top-20-drinks-of-the-year-20240927-p5kdzl)
 
-* 56 mins ago
 * Max Allen
 
 * ### [The jewel house that’s stuck in the 70s – for good reason](https://www.afr.com/life-and-luxury/fashion-and-style/the-jewel-house-that-s-stuck-in-the-70s-for-good-reason-20241104-p5knlo)
@@ -326,7 +325,6 @@ Advertise
 
 ### [Seriously chic picks for the silly season](https://www.afr.com/life-and-luxury/fashion-and-style/seriously-chic-picks-for-the-silly-season-20241118-p5krko)
 
-* 56 mins ago
 * Eugenie Kelly
 
 * ### [The secrets to (male) supermodel style](https://www.afr.com/life-and-luxury/fashion-and-style/the-secrets-to-male-supermodel-style-20241111-p5kplt)
@@ -341,7 +339,6 @@ Advertise
 
 ### [This Rich Lister has a plan to save cinema (and his business)](https://www.afr.com/life-and-luxury/arts-and-culture/this-rich-lister-has-a-plan-to-save-cinema-and-his-business-20241112-p5kq0f)
 
-* 56 mins ago
 * Michael Bailey
 
 * ### [The stock set to propel one of WA’s richest back onto the Rich List](https://www.afr.com/rich-list/the-stock-set-to-propel-one-of-wa-s-richest-back-onto-the-rich-list-20241120-p5ks3m)
