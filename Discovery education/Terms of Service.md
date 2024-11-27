@@ -90,7 +90,7 @@
     
 * [](https://help.discoveryeducation.co.uk/hc/en-gb)
     
-    FAQs
+    Help Centre
     
 
 These Terms of Service and Licence (these “**Standard Terms**”) are applicable to any Order Form (each, an “**Order Form**”) issued by Discovery Education Europe Limited ( “**Discovery Education**”) to the individual or entity listed in the Order Form (“**Subscriber**”) to provide access to the Discovery Education: Pathway CPD products and services identified therein (the “**Services**”) and to Subscriber’s use of the Services. Each Order Form shall be deemed to be part of these Standard Terms and subject to the terms and conditions set forth herein. These Standard Terms supersede all other prior and contemporaneous agreements, negotiations, communications or understandings, oral or written, with respect to the subject matter hereof. In no event shall the terms and conditions of any other purchase agreement amend or modify the terms and conditions of these Standard Terms.
