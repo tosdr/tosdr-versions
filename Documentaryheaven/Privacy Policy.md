@@ -123,44 +123,44 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![The Hasidic Drug Dealer](/wp-content/thumbnails/16688-100x70.jpg?x53432)
-    
-    The Hasidic Drug Dealer
-    
-    Samuel Leibowitz is a member of an ultraorthodox Jewish sect and has been in prison for the last 9 years for drug trafficking. Released from prison he plans to return to his community in North London...](https://documentaryheaven.com/hasidic-drug-dealer/ "The Hasidic Drug Dealer")
 * [![The Dark Side of Porn: Diary of a Porn Virgin](/wp-content/thumbnails/872-100x70.jpg?x53432)
     
     The Dark Side of Porn: Diary of a Porn Virgin
     
     Pornography in Britain has entered the mainstream. As this documentary reveals, there is now no taboo when it comes to working in the porn industry in the UK.From a 38-year-old wife, mother and su...](https://documentaryheaven.com/the-dark-side-of-porn-diary-of-a-porn-virgin/ "The Dark Side of Porn: Diary of a Porn Virgin")
+* [![No-Go Zones: Seven Mile Road, Detroit, USA](/wp-content/thumbnails/16527-100x70.jpg?x53432)
+    
+    No-Go Zones: Seven Mile Road, Detroit, USA
+    
+    Seven Mile Road located in Detroit is one of the most dangerous no-go zones in the United States. Those who live or dare to come here to visit are literally playing with their lives. It is a territor...](https://documentaryheaven.com/no-go-zones-seven-mile-road/ "No-Go Zones: Seven Mile Road, Detroit, USA")
 
 ###### Throwback Documentaries
 
-* [![Disenfranchised in America](/wp-content/thumbnails/6599-100x70.jpg?x53432)
+* [![Chosen](/wp-content/thumbnails/12532-100x70.jpg?x53432)
     
-    Disenfranchised in America
+    Chosen
     
-    New legislation across the US could have a huge impact on the country’s 2012 presidential elections. Largely Republican politicians have passed a range of new voting laws that groups fear could disen](https://documentaryheaven.com/disenfranchised-in-america/ "Disenfranchised in America")
-* [![Future Weapons: Front Line S2/E5](/wp-content/thumbnails/1900-100x70.jpg?x53432)
+    Peter Wright, an 83 year old former headmaster of posh prep school Caldicott, located in southern Buckinghamshire, England was convicted of 12 offences against five children who studied there. The ass](https://documentaryheaven.com/chosen/ "Chosen")
+* [![Oil, Smoke and Mirrors](/wp-content/thumbnails/803-100x70.png?x53432)
     
-    Future Weapons: Front Line S2/E5
+    Oil, Smoke and Mirrors
     
-    Watch Mack as he handles a XM307 machine grenade launcher that unleashes a terrifying barrage of firepower. Plus, test weapons that are tough enough to survive the front line of battle including the S](https://documentaryheaven.com/future-weapons-front-line-s2e5/ "Future Weapons: Front Line S2/E5")
-* [![The Nuremberg Trials](/wp-content/thumbnails/12542-100x70.jpeg?x53432)
+    Through a series of interviews, this film argues that the bizarre events surrounding the 9/11 attacks, and the equally bizarre prosecution of the so-called “war on terror”, can be more credibly unders](https://documentaryheaven.com/oil-smoke-and-mirrors/ "Oil, Smoke and Mirrors")
+* [![Listen Up: The Lives of Quincy Jones](/wp-content/thumbnails/7596-100x70.jpg?x53432)
     
-    The Nuremberg Trials
+    Listen Up: The Lives of Quincy Jones
     
-    The Nuremberg Trials were a set of military tribunals which were held by the Allied forces once World War II had come to an end. The initial and more notable trail was held between 20 November 1945 an](https://documentaryheaven.com/nuremberg-trials/ "The Nuremberg Trials")
-* [![Banned from the Bible](/wp-content/thumbnails/3116-100x70.jpg?x53432)
+    The extraordinary life of Quincy Jones, one of the 20th century's most influential and talented composers, musicians and music producers, provides the basis of this offbeat, free-form documentary trib](https://documentaryheaven.com/listen-up-lives-quincy-jones/ "Listen Up: The Lives of Quincy Jones")
+* [![Secret Lives: L. Ron Hubbard](/wp-content/thumbnails/1173-100x70.jpg?x53432)
     
-    Banned from the Bible
+    Secret Lives: L. Ron Hubbard
     
-    When Jesus was a boy, did he kill another child? Was Mary Magdalene a prostitute — or an apostle?Did Cain commit incest? Will there be an apocalypse or is this God’s trick to scare us?The answers](https://documentaryheaven.com/banned-from-the-bible/ "Banned from the Bible")
-* [![Shame](/wp-content/thumbnails/7076-100x70.jpg?x53432)
+    An intriguing, but bizarre, biographical documentary by Channel 4 on the 'Secret Life' of L Ron Hubbard - the Sci Fi author and creator of the Scientology cult. This biopic from 1997, with some fantas](https://documentaryheaven.com/secret-lives-l-ron-hubbard/ "Secret Lives: L. Ron Hubbard")
+* [![Inside Chernobyl’s Mega Tomb](/wp-content/thumbnails/13776-100x70.jpg?x53432)
     
-    Shame
+    Inside Chernobyl’s Mega Tomb
     
-    This stun­ning Special Emmy winning doc­u­men­tary tells the true sto­ry of in­ter­na­tion­al hu­man rights icon Mukhtaran Mai, a Pak­istani peas­ant who was gang-raped and pub­licly shamed in her vil](https://documentaryheaven.com/shame/ "Shame")
+    Today in Ukraine an international team of engineers is racing to assemble one of the most complex super structures ever built, at an extraordinary 36,000 tones it will be the largest structure moved o](https://documentaryheaven.com/inside-chernobyls-mega-tomb/ "Inside Chernobyl’s Mega Tomb")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
