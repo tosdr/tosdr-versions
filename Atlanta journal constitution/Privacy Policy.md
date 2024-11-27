@@ -1,3 +1,5 @@
+[Breaking: 2 DeKalb officers shot at condo complex near Panthersville](https://www.ajc.com/news/crime/2-dekalb-officers-shot-near-panthersville/OWKNINMS7RABBC7ZV5MJEIYGRM/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1836)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1836)](https://www.ajc.com/)
 
 Log In
