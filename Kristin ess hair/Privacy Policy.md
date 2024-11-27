@@ -400,16 +400,6 @@ cookies settings
 
 * * *
 
-[![](/_cdn/2mwiMPuEQ4a9Bpt5jptJ/__N__2__N__.svg)](https://www.facebook.com/kristinesshair/)
-
-[![](/_cdn/12DIDYi5SeaU9nD9Vmjw/__N__2__N__.svg)](https://www.youtube.com/playlist?list=PLICzZc-6-cUakYY_M_BVqQiLuD4VLvsS6)
-
-[![](/_cdn/FZGJXlEvSAKKuoDWvuFw/__N__2__N__.svg)](https://www.pinterest.com/kristin_ess/)
-
-[![](/_cdn/goSUtTmCyWdo5RRJkewq/__N__2__N__.svg)](https://www.instagram.com/kristinesshair/?hl=en)
-
-[![](/_cdn/o8WrfJtYR3W2yQaXdvoF/__N__2__N__.svg)](https://www.tiktok.com/@kristinesshair?lang=en)
-
 ©COPYRIGHT KRISTIN ESS HAIR 2024,ALL RIGHTS RESERVED
 
 * * *
@@ -515,15 +505,5 @@ OUR NEWEST ARRIVALS
 [EXPLORE](https://www.kristinesshair.com/collections/new-arrivals)
 
 * * *
-
-[![](/_cdn/2mwiMPuEQ4a9Bpt5jptJ/__N__2__N__.svg)](https://www.facebook.com/kristinesshair/)
-
-[![](/_cdn/12DIDYi5SeaU9nD9Vmjw/__N__2__N__.svg)](https://www.youtube.com/playlist?list=PLICzZc-6-cUakYY_M_BVqQiLuD4VLvsS6)
-
-[![](/_cdn/FZGJXlEvSAKKuoDWvuFw/__N__2__N__.svg)](https://www.pinterest.com/kristin_ess/)
-
-[![](/_cdn/goSUtTmCyWdo5RRJkewq/__N__2__N__.svg)](https://www.instagram.com/kristinesshair/?hl=en)
-
-[![](/_cdn/o8WrfJtYR3W2yQaXdvoF/__N__2__N__.svg)](https://www.tiktok.com/@kristinesshair?lang=en)
 
 ©COPYRIGHT KRISTIN ESS HAIR 2024, ALL RIGHTS RESERVED
